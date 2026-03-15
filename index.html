@@ -616,6 +616,16 @@ function getCanvasTileSource(canvas) {
   return resource['@id'] || resource.id || null;
 }
 
+function resolveVariantAssetPath(basePath, value) {
+  if (typeof value !== 'string') return null;
+  const trimmed = value.trim();
+  if (!trimmed) return null;
+  if (/^https?:\/\//i.test(trimmed)) {
+    return trimmed;
+  }
+  return `${basePath}/${trimmed}`;
+}
+
 async function fetchManifestCanvasSources(manifestUrl) {
   const response = await fetch(manifestUrl);
   if (!response.ok) {
@@ -972,15 +982,15 @@ async function ensureDisputationManifestData() {
       const pages = Array.isArray(payload.pages) ? payload.pages : [];
       disputationState.pageEntries = pages.map((page, index) => {
         const pageNr = Number(page.page_nr || index + 1);
-        const imagePath = typeof page.image === 'string' ? `${variant.basePath}/${page.image}` : null;
+        const imagePath = resolveVariantAssetPath(variant.basePath, page.image);
         const transcriptionPath = typeof page.transcription === 'string'
-          ? `${variant.basePath}/${page.transcription}`
+          ? resolveVariantAssetPath(variant.basePath, page.transcription)
           : `${variant.transcriptionBasePath}/page_${pageNr}.md`;
         const translationPath = typeof page.translation === 'string'
-          ? `${variant.basePath}/${page.translation}`
+          ? resolveVariantAssetPath(variant.basePath, page.translation)
           : `${variant.translationBasePath}/page_${pageNr}.md`;
         const lineCoordsPath = typeof page.line_coords === 'string'
-          ? `${variant.basePath}/${page.line_coords}`
+          ? resolveVariantAssetPath(variant.basePath, page.line_coords)
           : `${variant.basePath}/line_coords/page_${pageNr}.json`;
 
         return {

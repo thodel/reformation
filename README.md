@@ -143,7 +143,7 @@ Kurzfassung:
 3. IDs je Variante setzen (`collection_id`, `document_id`)
 4. Auth setzen (`TRANSKRIBUS_ACCESS_TOKEN` oder `TRANSKRIBUS_USER` + `TRANSKRIBUS_PASSWORD`)
 5. `python3 scripts/check_transkribus_credentials.py --collection-id 2313234 --document-id 13922579`
-6. `python3 scripts/sync_disputation_transkribus.py --config config/disputation_transkribus.json`
+6. `python3 scripts/sync_disputation_transkribus.py --config config/disputation_transkribus.json --no-images`
 
 ## Quellen
 

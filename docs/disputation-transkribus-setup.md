@@ -9,7 +9,7 @@ Diese Integration deckt die Disputationsfassungen ohne IIIF-Manifest ab:
 
 Die Daten werden serverseitig aus Transkribus synchronisiert und lokal in
 `data/disputation/<variante>/` abgelegt. Das Frontend liest dann lokale Dateien
-(`viewer_manifest.json`, `images/`, `transcriptions/`, `line_coords/`).
+(`viewer_manifest.json`, `transcriptions/`, `line_coords/`, optional `images/`).
 
 ## Benoetigte Credentials
 
@@ -77,12 +77,14 @@ pip install requests
 ```
 
 ```bash
-python3 scripts/sync_disputation_transkribus.py --config config/disputation_transkribus.json
+# Empfohlen: keine lokalen Bilder speichern, nur Transkribus-URLs in viewer_manifest.json
+python3 scripts/sync_disputation_transkribus.py --config config/disputation_transkribus.json --no-images
 ```
 
 Optional:
 
 ```bash
+# Mit lokalem Bilddownload
 python3 scripts/sync_disputation_transkribus.py --config config/disputation_transkribus.json --overwrite
 ```
 
@@ -100,7 +102,7 @@ Erwartung:
 
 Unter `data/disputation/<variante>/` werden erzeugt:
 - `viewer_manifest.json`
-- `images/page_<n>.<ext>`
+- `images/page_<n>.<ext>` (nur ohne `--no-images`)
 - `pagexml/page_<n>.xml`
 - `transcriptions/page_<n>.md`
 - `line_coords/page_<n>.json`
