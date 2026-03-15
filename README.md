@@ -66,6 +66,7 @@ reformation/
 Wichtige Dateien:
 - [`index.html`](index.html): komplette Frontend-Logik (HTML, CSS, JavaScript)
 - [`scripts/sync_disputation_transkribus.py`](scripts/sync_disputation_transkribus.py): Sync von Bildern + PAGE XML + Zeilenkoordinaten aus Transkribus
+- [`scripts/check_transkribus_credentials.py`](scripts/check_transkribus_credentials.py): Schneller Login-/Dokumentzugriffstest fuer Transkribus
 - [`config/disputation_transkribus.example.json`](config/disputation_transkribus.example.json): Vorlage fuer Collection-/Document-IDs
 - [`data/predigten/translations/`](data/predigten/translations): Uebersetzungsdateien als Markdown
 - [`data/predigten/entities/named_entities.json`](data/predigten/entities/named_entities.json): Alias- und Link-Index fuer Entitaeten
@@ -141,7 +142,8 @@ Kurzfassung:
 2. `cp config/disputation_transkribus.example.json config/disputation_transkribus.json`
 3. IDs je Variante setzen (`collection_id`, `document_id`)
 4. Credentials setzen (`TRANSKRIBUS_USER`, `TRANSKRIBUS_PASSWORD`)
-5. `python3 scripts/sync_disputation_transkribus.py --config config/disputation_transkribus.json`
+5. `python3 scripts/check_transkribus_credentials.py --collection-id 2313234 --document-id 13922579`
+6. `python3 scripts/sync_disputation_transkribus.py --config config/disputation_transkribus.json`
 
 ## Quellen
 

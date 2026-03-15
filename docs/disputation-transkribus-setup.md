@@ -72,6 +72,16 @@ Optional:
 python3 scripts/sync_disputation_transkribus.py --config config/disputation_transkribus.json --overwrite
 ```
 
+## Credentials testen (vor dem Sync)
+
+```bash
+python3 scripts/check_transkribus_credentials.py --collection-id 2313234 --document-id 13922579
+```
+
+Erwartung:
+- `Login OK`
+- `Document reachable: ... pages=755`
+
 ## Output pro Variante
 
 Unter `data/disputation/<variante>/` werden erzeugt:
