@@ -2,8 +2,8 @@
 
 Web-Prototyp fuer eine digitale Edition zur Berner Reformation (1528) mit Fokus auf den Bereich **Predigten**.
 Die Anwendung kombiniert:
-- IIIF-Faksimile (Mirador)
-- Textspalte fuer Transkription (Platzhalter)
+- IIIF-Faksimile (OpenSeadragon, seitenbasiert)
+- Textspalte fuer Transkription (mit optionalem Named-Entity-Linking)
 - Textspalte fuer moderne deutsche Uebersetzung aus lokalen Markdown-Dateien
 
 ## Aktueller Stand
@@ -11,9 +11,11 @@ Die Anwendung kombiniert:
 Implementiert:
 - Single-Page-Webapp in [`index.html`](index.html)
 - Navigation zwischen vier Bereichen: Startseite, Predigten, Disputation, Ressourcen
-- Predigten-Viewer mit Mirador (Manifest von e-rara)
-- Seitennavigation fuer 224 Seiten (`page_1.md` bis `page_224.md`)
+- Predigten-Viewer mit OpenSeadragon (Canvas-Wechsel pro Seite aus IIIF-Manifest)
+- Seitennavigation fuer Bild + Transkription + Uebersetzung
 - Laden der Uebersetzungen aus `data/predigten/translations/`
+- Optionales Laden von Transkriptionen aus `data/predigten/transcriptions/`
+- Optionales Named-Entity-Linking via `data/predigten/entities/named_entities.json`
 
 In Vorbereitung:
 - Disputation-Viewer
@@ -27,8 +29,14 @@ reformation/
 ├── index.html
 ├── README.md
 ├── PROJEKTPLAN.md
+├── docs/
+│   └── named-entity-linking.md
 └── data/
     └── predigten/
+        ├── entities/
+        │   └── named_entities.json
+        ├── transcriptions/
+        │   └── page_<n>.md
         └── translations/
             ├── page_1.md
             ├── page_2.md
@@ -38,6 +46,8 @@ reformation/
 Wichtige Dateien:
 - [`index.html`](index.html): komplette Frontend-Logik (HTML, CSS, JavaScript)
 - [`data/predigten/translations/`](data/predigten/translations): Uebersetzungsdateien als Markdown
+- [`data/predigten/entities/named_entities.json`](data/predigten/entities/named_entities.json): Alias- und Link-Index fuer Entitaeten
+- [`docs/named-entity-linking.md`](docs/named-entity-linking.md): Vorgehen fuer Vollabdeckung aller Entitaeten
 - [`PROJEKTPLAN.md`](PROJEKTPLAN.md): Projektplanung und Roadmap
 
 ## Lokale Ausfuehrung
@@ -57,12 +67,13 @@ python3 -m http.server 8000
 http://localhost:8000
 ```
 
-Hinweis: Fuer Mirador und Manifest-Zugriff ist Internetzugang erforderlich (CDN + e-rara).
+Hinweis: Fuer OpenSeadragon und Manifest-Zugriff ist Internetzugang erforderlich (CDN + e-rara).
 
-## Datenformat der Uebersetzungen
+## Datenformate (Text)
 
 Dateinamen:
-- `page_<nummer>.md` (z. B. `page_1.md`, `page_224.md`)
+- Uebersetzung: `data/predigten/translations/page_<nummer>.md`
+- Transkription: `data/predigten/transcriptions/page_<nummer>.md`
 
 Einfaches Markdown-Schema:
 - Zeilen mit `# ` werden als Abschnittstitel dargestellt
@@ -80,13 +91,15 @@ Lauftext der Uebersetzung...
 
 ## Technische Hinweise
 
-- Die Konstante `TOTAL_PAGES` in [`index.html`](index.html) steuert die Seitenanzahl im Viewer.
+- Die Konstante `DEFAULT_TOTAL_PAGES` in [`index.html`](index.html) definiert den Fallback, bis die Seitenzahl aus dem Manifest geladen ist.
 - Der Manifest-Link ist in `PREDIGTEN_MANIFEST_URL` zentral konfiguriert.
 - Der Pfad zu den Uebersetzungen ist in `TRANSLATION_BASE_PATH` zentral konfiguriert.
+- Der Pfad zu Transkriptionen ist in `TRANSCRIPTION_BASE_PATH` konfiguriert.
+- Named-Entity-Linking nutzt `ENTITY_INDEX_PATH` (JSON mit `label`, `aliases`, `url`).
 
 ## Bekannte Einschraenkungen
 
-- Die Transkriptionsspalte wird aktuell noch nicht aus Dateien befuellt.
+- Fuer Seiten ohne Datei in `data/predigten/transcriptions/` wird ein Platzhalter angezeigt.
 - Der Predigten-Bereich erwartet numerische Seiten (`page_1.md` bis `page_224.md`). Zusaetzliche Dateien mit roemischen Seitenbezeichnungen werden derzeit nicht automatisch verwendet.
 - Keine Build-Pipeline, Tests oder Linting eingerichtet (statischer Prototyp).
 
@@ -94,7 +107,7 @@ Lauftext der Uebersetzung...
 
 - Predigten (DOI): [10.3931/e-rara-3026](https://doi.org/10.3931/e-rara-3026)
 - Disputation (DOI): [10.3931/e-rara-47098](https://doi.org/10.3931/e-rara-47098)
-- Mirador: [mirador.dev](https://mirador.dev/)
+- OpenSeadragon: [openseadragon.github.io](https://openseadragon.github.io/)
 
 ## Weiterentwicklung
 
