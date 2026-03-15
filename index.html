@@ -177,6 +177,28 @@
       outline-offset: 2px;
       border-radius: 2px;
     }
+    .transcription-line {
+      margin: 0 0 0.45rem;
+      padding: 0.18rem 0.28rem;
+      border-radius: 4px;
+      transition: background-color 0.12s ease;
+      cursor: default;
+    }
+    .transcription-line.active {
+      background: rgba(251, 191, 36, 0.24);
+    }
+    .disputation-line-overlay {
+      border: 1.5px solid rgba(242, 129, 29, 0.92);
+      background: rgba(242, 129, 29, 0.1);
+      border-radius: 2px;
+      pointer-events: none;
+      box-sizing: border-box;
+    }
+    .disputation-line-overlay.active {
+      border-width: 2px;
+      border-color: rgba(251, 191, 36, 0.98);
+      background: rgba(251, 191, 36, 0.28);
+    }
     
     .section-title {
       color: #1a3a6b;
@@ -433,17 +455,43 @@
 const OSD_PREFIX_URL = "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/images/";
 
 // Predigten configuration.
-const PREDIGTEN_DEFAULT_TOTAL_PAGES = 224;
+const PREDIGTEN_DEFAULT_TOTAL_PAGES = 598;
 const PREDIGTEN_MANIFEST_URL = "https://www.e-rara.ch/i3f/v20/935411/manifest";
 const PREDIGTEN_TRANSLATION_BASE_PATH = "data/predigten/translations";
 const PREDIGTEN_TRANSCRIPTION_BASE_PATH = "data/predigten/transcriptions";
 const PREDIGTEN_ENTITY_INDEX_PATH = "data/predigten/entities/named_entities.json";
+
+// Ordered Roman-numeral page name suffixes for the preliminary pages (I–X use
+// folio sub-pages rr/rv/vr/vv; XI–XL use recto/verso r/v).
+const PREDIGTEN_ROMAN_SUFFIXES = (() => {
+  const s = [];
+  for (const n of ['I','II','III','IV','V','VI','VII','VIII','IX','X']) {
+    s.push(`${n}rr`, `${n}rv`, `${n}vr`, `${n}vv`);
+  }
+  for (const n of [
+    'XI','XII','XIII','XIV','XV','XVI','XVII','XVIII','XIX','XX',
+    'XXI','XXII','XXIII','XXIV','XXV','XXVI','XXVII','XXVIII','XXIX','XXX',
+    'XXXI','XXXII','XXXIII','XXXIV','XXXV','XXXVI','XXXVII','XXXVIII','XXXIX','XL'
+  ]) {
+    s.push(`${n}r`, `${n}v`);
+  }
+  return s;
+})();
+
+// Returns the file-name suffix (e.g. "XVr" or "42") for a given 0-based canvas index.
+function getPredigtenPageFileSuffix(index) {
+  if (index < PREDIGTEN_ROMAN_SUFFIXES.length) {
+    return PREDIGTEN_ROMAN_SUFFIXES[index];
+  }
+  return String(index - PREDIGTEN_ROMAN_SUFFIXES.length + 1);
+}
 
 // Disputation configurations.
 const DISPUTATION_VARIANTS = [
   {
     id: "druck-1528",
     label: "Druck von 1528",
+    basePath: "data/disputation/druck_1528",
     manifestUrl: "https://www.e-rara.ch/i3f/v20/13106447/manifest",
     defaultTotalPages: 1,
     transcriptionBasePath: "data/disputation/druck_1528/transcriptions",
@@ -453,6 +501,7 @@ const DISPUTATION_VARIANTS = [
   {
     id: "a-v-1447",
     label: "A V 1447: Schlussredaktion",
+    basePath: "data/disputation/a_v_1447_schlussredaktion",
     manifestUrl: null,
     defaultTotalPages: 1,
     transcriptionBasePath: "data/disputation/a_v_1447_schlussredaktion/transcriptions",
@@ -462,6 +511,7 @@ const DISPUTATION_VARIANTS = [
   {
     id: "a-v-1443",
     label: "A V 1443: Hertwig",
+    basePath: "data/disputation/a_v_1443_hertwig",
     manifestUrl: null,
     defaultTotalPages: 1,
     transcriptionBasePath: "data/disputation/a_v_1443_hertwig/transcriptions",
@@ -471,6 +521,7 @@ const DISPUTATION_VARIANTS = [
   {
     id: "a-v-1444",
     label: "A V 1444: Cyro",
+    basePath: "data/disputation/a_v_1444_cyro",
     manifestUrl: null,
     defaultTotalPages: 1,
     transcriptionBasePath: "data/disputation/a_v_1444_cyro/transcriptions",
@@ -480,6 +531,7 @@ const DISPUTATION_VARIANTS = [
   {
     id: "a-v-1445",
     label: "A V 1445: Schöni",
+    basePath: "data/disputation/a_v_1445_schoeni",
     manifestUrl: null,
     defaultTotalPages: 1,
     transcriptionBasePath: "data/disputation/a_v_1445_schoeni/transcriptions",
@@ -489,6 +541,7 @@ const DISPUTATION_VARIANTS = [
   {
     id: "a-v-1446",
     label: "A V 1446: Rümlang",
+    basePath: "data/disputation/a_v_1446_ruemlang",
     manifestUrl: null,
     defaultTotalPages: 1,
     transcriptionBasePath: "data/disputation/a_v_1446_ruemlang/transcriptions",
@@ -514,8 +567,11 @@ const disputationState = {
   currentPageIndex: 0,
   totalPages: DISPUTATION_VARIANTS[0].defaultTotalPages,
   canvasTileSources: [],
+  pageEntries: [],
   manifestPromise: null,
-  viewerPageToken: 0
+  viewerPageToken: 0,
+  currentLineCoords: null,
+  overlayElements: []
 };
 
 function escapeHtml(value) {
@@ -622,9 +678,8 @@ async function loadEntityRules(indexPath) {
       const uniqueRules = [];
       const seenAliases = new Set();
       for (const rule of rules) {
-        const key = rule.alias.toLowerCase();
-        if (seenAliases.has(key)) continue;
-        seenAliases.add(key);
+        if (seenAliases.has(rule.alias)) continue;
+        seenAliases.add(rule.alias);
         uniqueRules.push(rule);
       }
       return uniqueRules;
@@ -661,13 +716,19 @@ function renderMarkdown(markdownText, options = {}) {
   return markdownText
     .split('\n')
     .map((line) => {
-      const heading = line.match(/^#\s+(.+)/);
-      const rawContent = heading ? heading[1] : line;
+      const heading = line.match(/^(#{1,3})\s+(.+)/);
+      const rawContent = heading ? heading[2] : line;
       let rendered = escapeHtml(rawContent);
+      // Render **bold** spans (asterisks are not HTML-escaped, so this is safe here).
+      rendered = rendered.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
       if (entityRules.length > 0) {
         rendered = linkEntityMentions(rendered, entityRules);
       }
-      return heading ? `<h3>${rendered}</h3>` : rendered;
+      if (heading) {
+        const level = heading[1].length + 2; // # → h3, ## → h4, ### → h5
+        return `<h${level}>${rendered}</h${level}>`;
+      }
+      return rendered;
     })
     .join('<br>');
 }
@@ -760,11 +821,11 @@ async function updatePredigtenViewerPage() {
 }
 
 async function loadPredigtenTranscription() {
-  const pageNum = predigtenState.currentPageIndex + 1;
+  const suffix = getPredigtenPageFileSuffix(predigtenState.currentPageIndex);
   const container = document.getElementById('transcription-content');
 
   try {
-    const response = await fetch(`${PREDIGTEN_TRANSCRIPTION_BASE_PATH}/page_${pageNum}.md`);
+    const response = await fetch(`${PREDIGTEN_TRANSCRIPTION_BASE_PATH}/page_${suffix}.md`);
     if (!response.ok) {
       container.innerHTML = '<p>Transkription für diese Seite noch nicht verfügbar.</p>';
       return;
@@ -778,11 +839,11 @@ async function loadPredigtenTranscription() {
 }
 
 async function loadPredigtenTranslation() {
-  const pageNum = predigtenState.currentPageIndex + 1;
+  const suffix = getPredigtenPageFileSuffix(predigtenState.currentPageIndex);
   const container = document.getElementById('translation-content');
 
   try {
-    const response = await fetch(`${PREDIGTEN_TRANSLATION_BASE_PATH}/page_${pageNum}.md`);
+    const response = await fetch(`${PREDIGTEN_TRANSLATION_BASE_PATH}/page_${suffix}.md`);
     if (!response.ok) {
       container.innerHTML = '<p>Übersetzung nicht verfügbar.</p>';
       return;
@@ -811,9 +872,12 @@ function nextPage() {
 
 function updatePredigten() {
   const pageNum = predigtenState.currentPageIndex + 1;
-  document.getElementById('page-info').textContent = `Seite ${pageNum} von ${predigtenState.totalPages}`;
-  document.getElementById('prev-btn').disabled = predigtenState.currentPageIndex === 0;
-  document.getElementById('next-btn').disabled = predigtenState.currentPageIndex === predigtenState.totalPages - 1;
+  const pageInfo = document.getElementById('page-info');
+  const prevBtn = document.getElementById('prev-btn');
+  const nextBtn = document.getElementById('next-btn');
+  if (pageInfo) pageInfo.textContent = `Seite ${pageNum} von ${predigtenState.totalPages}`;
+  if (prevBtn) prevBtn.disabled = predigtenState.currentPageIndex === 0;
+  if (nextBtn) nextBtn.disabled = predigtenState.currentPageIndex === predigtenState.totalPages - 1;
 
   if (!document.getElementById('predigten').classList.contains('active')) {
     return;
@@ -825,8 +889,8 @@ function updatePredigten() {
 
   ensurePredigtenManifestData()
     .then(() => {
-      document.getElementById('page-info').textContent = `Seite ${predigtenState.currentPageIndex + 1} von ${predigtenState.totalPages}`;
-      document.getElementById('next-btn').disabled = predigtenState.currentPageIndex === predigtenState.totalPages - 1;
+      if (pageInfo) pageInfo.textContent = `Seite ${predigtenState.currentPageIndex + 1} von ${predigtenState.totalPages}`;
+      if (nextBtn) nextBtn.disabled = predigtenState.currentPageIndex === predigtenState.totalPages - 1;
     })
     .catch(() => {});
 }
@@ -855,8 +919,11 @@ function resetDisputationVariantState() {
   disputationState.currentPageIndex = 0;
   disputationState.totalPages = variant.defaultTotalPages || 1;
   disputationState.canvasTileSources = [];
+  disputationState.pageEntries = [];
   disputationState.manifestPromise = null;
   disputationState.viewerPageToken = 0;
+  disputationState.currentLineCoords = null;
+  clearDisputationLineOverlays();
 }
 
 function switchDisputationVariant(event, variantId) {
@@ -878,22 +945,63 @@ function switchDisputationVariant(event, variantId) {
 
 async function ensureDisputationManifestData() {
   const variant = getCurrentDisputationVariant();
-  if (!variant.manifestUrl) {
-    disputationState.canvasTileSources = [];
-    disputationState.totalPages = variant.defaultTotalPages || 1;
-    return;
-  }
-
   if (disputationState.manifestPromise) {
     return disputationState.manifestPromise;
   }
 
   disputationState.manifestPromise = (async () => {
-    disputationState.canvasTileSources = await fetchManifestCanvasSources(variant.manifestUrl);
-    if (disputationState.canvasTileSources.length > 0) {
-      disputationState.totalPages = disputationState.canvasTileSources.length;
+    if (variant.manifestUrl) {
+      disputationState.canvasTileSources = await fetchManifestCanvasSources(variant.manifestUrl);
+      if (disputationState.canvasTileSources.length > 0) {
+        disputationState.totalPages = disputationState.canvasTileSources.length;
+      } else {
+        disputationState.totalPages = variant.defaultTotalPages || 1;
+      }
+      disputationState.pageEntries = createDefaultDisputationPageEntries(disputationState.totalPages, variant);
     } else {
-      disputationState.totalPages = variant.defaultTotalPages || 1;
+      const localManifestPath = `${variant.basePath}/viewer_manifest.json`;
+      const response = await fetch(localManifestPath);
+      if (!response.ok) {
+        disputationState.canvasTileSources = [];
+        disputationState.totalPages = variant.defaultTotalPages || 1;
+        disputationState.pageEntries = createDefaultDisputationPageEntries(disputationState.totalPages, variant);
+        return;
+      }
+
+      const payload = await response.json();
+      const pages = Array.isArray(payload.pages) ? payload.pages : [];
+      disputationState.pageEntries = pages.map((page, index) => {
+        const pageNr = Number(page.page_nr || index + 1);
+        const imagePath = typeof page.image === 'string' ? `${variant.basePath}/${page.image}` : null;
+        const transcriptionPath = typeof page.transcription === 'string'
+          ? `${variant.basePath}/${page.transcription}`
+          : `${variant.transcriptionBasePath}/page_${pageNr}.md`;
+        const translationPath = typeof page.translation === 'string'
+          ? `${variant.basePath}/${page.translation}`
+          : `${variant.translationBasePath}/page_${pageNr}.md`;
+        const lineCoordsPath = typeof page.line_coords === 'string'
+          ? `${variant.basePath}/${page.line_coords}`
+          : `${variant.basePath}/line_coords/page_${pageNr}.json`;
+
+        return {
+          pageNr,
+          imageTileSource: imagePath,
+          transcriptionPath,
+          translationPath,
+          lineCoordsPath
+        };
+      });
+
+      if (disputationState.pageEntries.length > 0) {
+        disputationState.totalPages = disputationState.pageEntries.length;
+      } else {
+        disputationState.totalPages = variant.defaultTotalPages || 1;
+        disputationState.pageEntries = createDefaultDisputationPageEntries(disputationState.totalPages, variant);
+      }
+      disputationState.canvasTileSources = disputationState.pageEntries.map((entry) => entry.imageTileSource || null);
+    }
+    if (disputationState.currentPageIndex > disputationState.totalPages - 1) {
+      disputationState.currentPageIndex = Math.max(0, disputationState.totalPages - 1);
     }
   })().catch((error) => {
     disputationState.manifestPromise = null;
@@ -915,30 +1023,33 @@ function initDisputationViewer() {
     maxZoomPixelRatio: 2
   });
 
-  disputationState.viewer.addHandler('open', () => clearImageStatus('disputation-image-status'));
+  disputationState.viewer.addHandler('open', () => {
+    clearImageStatus('disputation-image-status');
+    applyDisputationLineOverlays();
+  });
   disputationState.viewer.addHandler('open-failed', () => setImageStatus('disputation-image-status', 'Faksimile konnte nicht geladen werden.'));
 }
 
 async function updateDisputationViewerPage() {
   if (!disputationState.viewer) return;
 
-  const variant = getCurrentDisputationVariant();
-  if (!variant.manifestUrl) {
-    disputationState.viewer.close();
-    setImageStatus('disputation-image-status', 'Bildquelle für diese Fassung noch nicht konfiguriert.');
-    return;
-  }
-
   const token = ++disputationState.viewerPageToken;
   setImageStatus('disputation-image-status', 'Lade Faksimile...');
+  clearDisputationLineOverlays();
   try {
     await ensureDisputationManifestData();
     if (token !== disputationState.viewerPageToken || !disputationState.viewer) return;
 
-    const tileSource = disputationState.canvasTileSources[disputationState.currentPageIndex];
+    const variant = getCurrentDisputationVariant();
+    const pageEntry = getCurrentDisputationPageEntry();
+    const tileSource = pageEntry && pageEntry.imageTileSource
+      ? pageEntry.imageTileSource
+      : disputationState.canvasTileSources[disputationState.currentPageIndex];
     if (!tileSource) {
       disputationState.viewer.close();
-      setImageStatus('disputation-image-status', 'Faksimile für diese Seite nicht verfügbar.');
+      setImageStatus('disputation-image-status', variant.manifestUrl
+        ? 'Faksimile für diese Seite nicht verfügbar.'
+        : 'Bildquelle für diese Fassung noch nicht konfiguriert.');
       return;
     }
     disputationState.viewer.open(tileSource);
@@ -949,19 +1060,163 @@ async function updateDisputationViewerPage() {
   }
 }
 
-async function loadDisputationTranscription() {
-  const variant = getCurrentDisputationVariant();
-  const pageNum = disputationState.currentPageIndex + 1;
-  const container = document.getElementById('disputation-transcription-content');
+function createDefaultDisputationPageEntries(totalPages, variant) {
+  return Array.from({ length: totalPages }, (_entry, index) => {
+    const pageNr = index + 1;
+    return {
+      pageNr,
+      imageTileSource: null,
+      transcriptionPath: `${variant.transcriptionBasePath}/page_${pageNr}.md`,
+      translationPath: `${variant.translationBasePath}/page_${pageNr}.md`,
+      lineCoordsPath: `${variant.basePath}/line_coords/page_${pageNr}.json`
+    };
+  });
+}
+
+function getCurrentDisputationPageEntry() {
+  return disputationState.pageEntries[disputationState.currentPageIndex] || null;
+}
+
+async function loadDisputationLineCoords() {
+  const pageEntry = getCurrentDisputationPageEntry();
+  if (!pageEntry || !pageEntry.lineCoordsPath) {
+    return null;
+  }
 
   try {
-    const response = await fetch(`${variant.transcriptionBasePath}/page_${pageNum}.md`);
+    const response = await fetch(pageEntry.lineCoordsPath);
+    if (!response.ok) return null;
+    const payload = await response.json();
+    if (!payload || !Array.isArray(payload.lines)) return null;
+    return payload;
+  } catch (_error) {
+    return null;
+  }
+}
+
+function clearDisputationLineOverlays() {
+  if (!disputationState.viewer || !Array.isArray(disputationState.overlayElements)) {
+    return;
+  }
+  for (const element of disputationState.overlayElements) {
+    try {
+      disputationState.viewer.removeOverlay(element);
+    } catch (_error) {}
+  }
+  disputationState.overlayElements = [];
+}
+
+function applyDisputationLineOverlays() {
+  if (!disputationState.viewer) return;
+  clearDisputationLineOverlays();
+
+  const payload = disputationState.currentLineCoords;
+  if (!payload || !Array.isArray(payload.lines) || payload.lines.length === 0) {
+    return;
+  }
+
+  for (const line of payload.lines) {
+    if (!line || !line.bbox) continue;
+    const x = Number(line.bbox.x);
+    const y = Number(line.bbox.y);
+    const w = Number(line.bbox.w);
+    const h = Number(line.bbox.h);
+    if (![x, y, w, h].every(Number.isFinite) || w <= 0 || h <= 0) continue;
+
+    const lineId = String(line.id || '');
+    const overlayElement = document.createElement('div');
+    overlayElement.className = 'disputation-line-overlay';
+    if (lineId) overlayElement.dataset.lineId = lineId;
+
+    disputationState.viewer.addOverlay({
+      element: overlayElement,
+      location: new OpenSeadragon.Rect(x, y, w, h)
+    });
+    disputationState.overlayElements.push(overlayElement);
+  }
+}
+
+function setActiveDisputationLine(lineId) {
+  document.querySelectorAll('#disputation-transcription-content .transcription-line').forEach((lineNode) => {
+    lineNode.classList.toggle('active', !!lineId && lineNode.dataset.lineId === lineId);
+  });
+
+  for (const overlayElement of disputationState.overlayElements) {
+    const isActive = !!lineId && overlayElement.dataset.lineId === lineId;
+    overlayElement.classList.toggle('active', isActive);
+  }
+}
+
+function bindDisputationTranscriptionInteractions() {
+  const container = document.getElementById('disputation-transcription-content');
+  if (!container || container.dataset.boundInteractions === 'true') {
+    return;
+  }
+  container.dataset.boundInteractions = 'true';
+
+  container.addEventListener('mouseover', (event) => {
+    const target = event.target.closest('.transcription-line');
+    if (!target) return;
+    setActiveDisputationLine(target.dataset.lineId || '');
+  });
+  container.addEventListener('mouseout', (event) => {
+    const leaving = event.target.closest('.transcription-line');
+    if (!leaving) return;
+    const to = event.relatedTarget ? event.relatedTarget.closest('.transcription-line') : null;
+    if (!to) {
+      setActiveDisputationLine('');
+    }
+  });
+}
+
+function renderDisputationLines(payload, entityRules, pageNr) {
+  const lines = payload.lines || [];
+  if (lines.length === 0) {
+    return `<h3>Seite ${pageNr}</h3><p>Keine Zeilenkoordinaten verfügbar.</p>`;
+  }
+
+  const renderedLines = lines.map((line, index) => {
+    const lineId = String(line.id || `line-${index + 1}`);
+    const text = typeof line.text === 'string' ? line.text : '';
+    const linked = linkEntityMentions(escapeHtml(text), entityRules);
+    return `<p class="transcription-line" data-line-id="${escapeHtml(lineId)}">${linked || '&nbsp;'}</p>`;
+  }).join('');
+
+  return `<h3>Seite ${pageNr}</h3>${renderedLines}`;
+}
+
+async function loadDisputationTranscription() {
+  const variant = getCurrentDisputationVariant();
+  const pageEntry = getCurrentDisputationPageEntry();
+  const pageNum = pageEntry ? pageEntry.pageNr : (disputationState.currentPageIndex + 1);
+  const container = document.getElementById('disputation-transcription-content');
+  bindDisputationTranscriptionInteractions();
+  disputationState.currentLineCoords = null;
+  clearDisputationLineOverlays();
+
+  try {
+    const [lineCoordsPayload, entityRules] = await Promise.all([
+      loadDisputationLineCoords(),
+      loadEntityRules(variant.entityIndexPath)
+    ]);
+
+    if (lineCoordsPayload && Array.isArray(lineCoordsPayload.lines) && lineCoordsPayload.lines.length > 0) {
+      disputationState.currentLineCoords = lineCoordsPayload;
+      container.innerHTML = renderDisputationLines(lineCoordsPayload, entityRules, pageNum);
+      applyDisputationLineOverlays();
+      return;
+    }
+
+    const transcriptionPath = pageEntry && pageEntry.transcriptionPath
+      ? pageEntry.transcriptionPath
+      : `${variant.transcriptionBasePath}/page_${pageNum}.md`;
+    const response = await fetch(transcriptionPath);
     if (!response.ok) {
       container.innerHTML = '<p>Transkription für diese Fassung/Seite noch nicht verfügbar.</p>';
       return;
     }
 
-    const [text, entityRules] = await Promise.all([response.text(), loadEntityRules(variant.entityIndexPath)]);
+    const text = await response.text();
     container.innerHTML = renderMarkdown(text, { linkEntities: true, entityRules });
   } catch (error) {
     container.innerHTML = '<p>Fehler beim Laden der Transkription.</p>';
@@ -970,11 +1225,15 @@ async function loadDisputationTranscription() {
 
 async function loadDisputationTranslation() {
   const variant = getCurrentDisputationVariant();
-  const pageNum = disputationState.currentPageIndex + 1;
+  const pageEntry = getCurrentDisputationPageEntry();
+  const pageNum = pageEntry ? pageEntry.pageNr : (disputationState.currentPageIndex + 1);
   const container = document.getElementById('disputation-translation-content');
 
   try {
-    const response = await fetch(`${variant.translationBasePath}/page_${pageNum}.md`);
+    const translationPath = pageEntry && pageEntry.translationPath
+      ? pageEntry.translationPath
+      : `${variant.translationBasePath}/page_${pageNum}.md`;
+    const response = await fetch(translationPath);
     if (!response.ok) {
       container.innerHTML = '<p>Übersetzung für diese Fassung/Seite noch nicht verfügbar.</p>';
       return;
@@ -1002,10 +1261,14 @@ function nextDisputationPage() {
 }
 
 function updateDisputation() {
-  const pageNum = disputationState.currentPageIndex + 1;
-  document.getElementById('disputation-page-info').textContent = `Seite ${pageNum} von ${disputationState.totalPages}`;
-  document.getElementById('disputation-prev-btn').disabled = disputationState.currentPageIndex === 0;
-  document.getElementById('disputation-next-btn').disabled = disputationState.currentPageIndex === disputationState.totalPages - 1;
+  const pageEntry = getCurrentDisputationPageEntry();
+  const pageNum = pageEntry ? pageEntry.pageNr : (disputationState.currentPageIndex + 1);
+  const pageInfo = document.getElementById('disputation-page-info');
+  const prevBtn = document.getElementById('disputation-prev-btn');
+  const nextBtn = document.getElementById('disputation-next-btn');
+  if (pageInfo) pageInfo.textContent = `Seite ${pageNum} von ${disputationState.totalPages}`;
+  if (prevBtn) prevBtn.disabled = disputationState.currentPageIndex === 0;
+  if (nextBtn) nextBtn.disabled = disputationState.currentPageIndex === disputationState.totalPages - 1;
 
   if (!document.getElementById('disputation').classList.contains('active')) {
     return;
@@ -1018,8 +1281,8 @@ function updateDisputation() {
 
   ensureDisputationManifestData()
     .then(() => {
-      document.getElementById('disputation-page-info').textContent = `Seite ${disputationState.currentPageIndex + 1} von ${disputationState.totalPages}`;
-      document.getElementById('disputation-next-btn').disabled = disputationState.currentPageIndex === disputationState.totalPages - 1;
+      if (pageInfo) pageInfo.textContent = `Seite ${disputationState.currentPageIndex + 1} von ${disputationState.totalPages}`;
+      if (nextBtn) nextBtn.disabled = disputationState.currentPageIndex === disputationState.totalPages - 1;
     })
     .catch(() => {});
 }

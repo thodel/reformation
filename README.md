@@ -13,6 +13,7 @@ Implementiert:
 - Navigation zwischen vier Bereichen: Startseite, Predigten, Disputation, Ressourcen
 - Predigten-Viewer mit OpenSeadragon (Canvas-Wechsel pro Seite aus IIIF-Manifest)
 - Disputation-Viewer mit OpenSeadragon und Variantenumschaltung
+- Disputation kann pro Variante aus lokalem `viewer_manifest.json` gespeist werden (Transkribus-Export)
 - Seitennavigation fuer Bild + Transkription + Uebersetzung (beide Bereiche)
 - Laden der Uebersetzungen aus `data/predigten/translations/`
 - Optionales Laden von Transkriptionen aus `data/predigten/transcriptions/`
@@ -37,6 +38,10 @@ reformation/
 ├── index.html
 ├── README.md
 ├── PROJEKTPLAN.md
+├── scripts/
+│   └── sync_disputation_transkribus.py
+├── config/
+│   └── disputation_transkribus.example.json
 ├── docs/
 │   └── named-entity-linking.md
 └── data/
@@ -60,10 +65,13 @@ reformation/
 
 Wichtige Dateien:
 - [`index.html`](index.html): komplette Frontend-Logik (HTML, CSS, JavaScript)
+- [`scripts/sync_disputation_transkribus.py`](scripts/sync_disputation_transkribus.py): Sync von Bildern + PAGE XML + Zeilenkoordinaten aus Transkribus
+- [`config/disputation_transkribus.example.json`](config/disputation_transkribus.example.json): Vorlage fuer Collection-/Document-IDs
 - [`data/predigten/translations/`](data/predigten/translations): Uebersetzungsdateien als Markdown
 - [`data/predigten/entities/named_entities.json`](data/predigten/entities/named_entities.json): Alias- und Link-Index fuer Entitaeten
 - [`data/disputation/`](data/disputation): Variantenordner fuer die sechs Disputationsfassungen
 - [`docs/named-entity-linking.md`](docs/named-entity-linking.md): Vorgehen fuer Vollabdeckung aller Entitaeten
+- [`docs/disputation-transkribus-setup.md`](docs/disputation-transkribus-setup.md): Credential- und Sync-Setup fuer Transkribus
 - [`PROJEKTPLAN.md`](PROJEKTPLAN.md): Projektplanung und Roadmap
 
 ## Lokale Ausfuehrung
@@ -93,6 +101,7 @@ Dateinamen:
 - Disputation pro Variante analog:
   - `data/disputation/<variante>/translations/page_<nummer>.md`
   - `data/disputation/<variante>/transcriptions/page_<nummer>.md`
+  - `data/disputation/<variante>/line_coords/page_<nummer>.json` (Zeilenkoordinaten)
 
 Einfaches Markdown-Schema:
 - Zeilen mit `# ` werden als Abschnittstitel dargestellt
@@ -114,13 +123,25 @@ Lauftext der Uebersetzung...
 - Predigten nutzt `PREDIGTEN_MANIFEST_URL`, `PREDIGTEN_TRANSLATION_BASE_PATH`, `PREDIGTEN_TRANSCRIPTION_BASE_PATH`.
 - Disputation wird ueber `DISPUTATION_VARIANTS` konfiguriert (Manifest + Datenpfade je Variante).
 - Named-Entity-Linking nutzt pro Bereich eine `named_entities.json` (mit `label`, `aliases`, `url`).
+- Bei Varianten ohne IIIF-Manifest laedt das Frontend `data/disputation/<variante>/viewer_manifest.json`.
 
 ## Bekannte Einschraenkungen
 
 - Fuer Seiten ohne Datei in `data/predigten/transcriptions/` wird ein Platzhalter angezeigt.
 - Der Predigten-Bereich erwartet numerische Seiten (`page_1.md` bis `page_224.md`). Zusaetzliche Dateien mit roemischen Seitenbezeichnungen werden derzeit nicht automatisch verwendet.
-- Fuer Disputation sind aktuell nur die Datenpfade/Viewer-Struktur fuer alle 6 Varianten vorbereitet; fuer einige Varianten sind Manifest-Links noch nicht hinterlegt.
+- Fuer Varianten ohne IIIF-Manifest ist ein vorheriger Transkribus-Sync notwendig.
 - Keine Build-Pipeline, Tests oder Linting eingerichtet (statischer Prototyp).
+
+## Transkribus-Sync (Disputation)
+
+Details: [`docs/disputation-transkribus-setup.md`](docs/disputation-transkribus-setup.md)
+
+Kurzfassung:
+1. `pip install requests`
+2. `cp config/disputation_transkribus.example.json config/disputation_transkribus.json`
+3. IDs je Variante setzen (`collection_id`, `document_id`)
+4. Credentials setzen (`TRANSKRIBUS_USER`, `TRANSKRIBUS_PASSWORD`)
+5. `python3 scripts/sync_disputation_transkribus.py --config config/disputation_transkribus.json`
 
 ## Quellen
 
