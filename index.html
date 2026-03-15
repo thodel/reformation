@@ -88,6 +88,15 @@
     }
     
     main { max-width: 1600px; margin: 0 auto; padding: 2rem 1rem; }
+    .home-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      align-items: start;
+    }
+    @media (max-width: 1100px) {
+      .home-grid { grid-template-columns: 1fr; }
+    }
     
     .intro {
       background: var(--panel);
@@ -341,20 +350,36 @@
 
 <main>
   <div id="home" class="section-page active">
-    <div class="intro">
-      <h2>Willkommen zur digitalen Edition</h2>
-      <p>Diese Webseite präsentiert die Texte der Berner Reformation von 1528:</p>
-      <ul>
-        <li><strong><a href="#" onclick="showSection(event, 'predigten')">Predigten</a></strong> — Die Predigten der fremden Prädikanten</li>
-        <li><strong><a href="#" onclick="showSection(event, 'disputation')">Disputation</a></strong> — Die Glaubensgespräche von 1528</li>
-      </ul>
-      <p><em>Wählen Sie links eine Sektion aus, um zu beginnen.</em></p>
-      
-      <h3>Bildquellen</h3>
-      <ul>
-        <li><strong>Predigten:</strong> <a href="https://doi.org/10.3931/e-rara-3026" target="_blank">DOI: 10.3931/e-rara-3026</a></li>
-        <li><strong>Disputation:</strong> <a href="https://doi.org/10.3931/e-rara-47098" target="_blank">DOI: 10.3931/e-rara-47098</a></li>
-      </ul>
+    <div class="home-grid">
+      <div class="intro">
+        <h2>Willkommen zur digitalen Edition</h2>
+        <p>Diese Webseite präsentiert die Texte der Berner Reformation von 1528:</p>
+        <ul>
+          <li><strong><a href="#" onclick="showSection(event, 'predigten')">Predigten</a></strong> — Die Predigten der fremden Prädikanten</li>
+          <li><strong><a href="#" onclick="showSection(event, 'disputation')">Disputation</a></strong> — Die Glaubensgespräche von 1528</li>
+        </ul>
+        <p><em>Wählen Sie links eine Sektion aus, um zu beginnen.</em></p>
+        
+        <h3>Bildquellen</h3>
+        <ul>
+          <li><strong>Predigten:</strong> <a href="https://doi.org/10.3931/e-rara-3026" target="_blank">DOI: 10.3931/e-rara-3026</a></li>
+          <li><strong>Disputation:</strong> <a href="https://doi.org/10.3931/e-rara-47098" target="_blank">DOI: 10.3931/e-rara-47098</a></li>
+        </ul>
+      </div>
+
+      <div class="intro">
+        <h2>Historischer Kontext</h2>
+        <p>Die Reformation in Bern gehört zu den entscheidenden Ereignissen der schweizerischen Reformationsgeschichte des 16. Jahrhunderts. Bereits seit den 1510er-Jahren mehrten sich in der Stadt kritische Stimmen gegenüber der katholischen Kirche und ihren Praktiken. Besonders einflussreich waren Prediger und Humanisten, die sich an den Ideen der reformatorischen Bewegung orientierten. Eine zentrale Figur war der Prediger Berchtold Haller, der ab 1520 am Berner Münster wirkte und dort reformatorische Gedanken verbreitete.<sup>1</sup> Seine Predigten sowie die kulturelle Kritik an der kirchlichen Praxis – etwa durch die satirischen Fasnachtsspiele von Niklaus Manuel – bereiteten den Boden für religiöse Veränderungen in der Stadt.<sup>2</sup></p>
+        <p>Ein entscheidender Wendepunkt war die Berner Disputation im Januar 1528. Auf Initiative des Berner Rates versammelten sich Theologen aus verschiedenen Regionen, um über die von Haller formulierten reformatorischen Thesen zu diskutieren. Grundlage der Debatte war allein die Bibel als Autorität. Nach rund zwanzig Tagen entschied sich die Versammlung deutlich für die Annahme der Reformation.<sup>3</sup> Kurz darauf erließ der Rat ein offizielles Reformationsmandat, das die neue Lehre in Bern einführte und die Geistlichen zur reformierten Predigt verpflichtete. Damit wurde Bern zu einer der wichtigsten reformierten Städte der Eidgenossenschaft und unterstützte fortan auch andere reformatorische Zentren wie Zürich und später Genf.<sup>4</sup></p>
+        <p>Die Einführung der Reformation hatte weitreichende religiöse, politische und gesellschaftliche Folgen. Klöster wurden aufgehoben, kirchliche Strukturen neu organisiert und das Bildungswesen reformiert, unter anderem durch die Einrichtung einer höheren Schule zur Ausbildung von Geistlichen. Gleichzeitig blieb die Reformation in Teilen des Berner Herrschaftsgebiets umstritten, und besonders radikale reformatorische Gruppen wie die Täufer wurden von der Obrigkeit verfolgt.<sup>4</sup> Dennoch spielte Bern eine zentrale Rolle bei der Ausbreitung der Reformation in der Westschweiz, etwa in der Waadt, in Neuenburg und indirekt auch für die Entwicklung der reformierten Bewegung in Genf.<sup>4</sup></p>
+
+        <ol>
+          <li>Historisches Lexikon der Schweiz (HLS), „Berchtold Haller,“ veröffentlicht 23. Januar 2006, <a href="https://hls-dhs-dss.ch/de/articles/017172/2006-01-23/" target="_blank" rel="noopener noreferrer">https://hls-dhs-dss.ch/de/articles/017172/2006-01-23/</a>.</li>
+          <li>Historisches Lexikon der Schweiz (HLS), „Bern (Reformation),“ veröffentlicht 29. Januar 2013, <a href="https://hls-dhs-dss.ch/de/articles/013328/2013-01-29/" target="_blank" rel="noopener noreferrer">https://hls-dhs-dss.ch/de/articles/013328/2013-01-29/</a>.</li>
+          <li>Historisches Lexikon der Schweiz (HLS), „Berner Disputation,“ veröffentlicht 4. Februar 2026, <a href="https://hls-dhs-dss.ch/de/articles/007383/2026-02-04/" target="_blank" rel="noopener noreferrer">https://hls-dhs-dss.ch/de/articles/007383/2026-02-04/</a>.</li>
+          <li>Evangelisch-reformierte Kirche Schweiz, „Bern,“ in Die Reformation geht weiter…, <a href="https://www.ref-500.ch/de/guide/bern" target="_blank" rel="noopener noreferrer">https://www.ref-500.ch/de/guide/bern</a>.</li>
+        </ol>
+      </div>
     </div>
   </div>
 
