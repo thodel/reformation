@@ -45,7 +45,8 @@
     
     .loading { color: #888; font-style: italic; }
   </style>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mirador@3.3.0/dist/mirador.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mirador@3.3.0/dist/mirador.min.css">
 </head>
 <body>
 
@@ -170,13 +171,16 @@ function showSection(id) {
 
 function initViewer() {
   if (viewer) return;
-  viewer = OpenSeadragon({
+  viewer = Mirador.viewer({
     id: "openseadragon",
-    tileSources: "https://www.e-rara.ch/i3f/v20/935411/manifest",
-    showNavigator: true,
-    navigatorPosition: "BOTTOM_RIGHT",
-    visibilityRatio: 1.0,
-    defaultZoomLevel: 0
+    windows: [{
+      manifestId: "https://www.e-rara.ch/i3f/v20/935411/manifest"
+    }],
+    config: {
+      availableWorkspaces: {
+        'enum': ['wide', 'single', '1-1', '1-2', '2-1', '2-2', '3-3']
+      }
+    }
   });
   loadTranslation();
 }
@@ -219,7 +223,13 @@ function update() {
   document.getElementById('next-btn').disabled = currentPageIndex === totalPages - 1;
   
   loadTranslation();
-  if (viewer) viewer.goToPage(currentPageIndex);
+  // Update Mirador canvas if available
+  if (viewer && viewer.world && viewer.world.getItemAt) {
+    const canvas = "https://www.e-rara.ch/i3f/v20/935411/canvas/" + (935413 + currentPageIndex);
+    try {
+      viewer.viewer.navigateToCanvas(canvas);
+    } catch(e) {}
+  }
 }
 
 update();
