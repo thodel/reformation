@@ -69,6 +69,11 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Overwrite existing downloaded image/pagexml files",
     )
+    parser.add_argument(
+        "--no-images",
+        action="store_true",
+        help="Skip image download; store external image URLs in viewer manifest instead of local paths",
+    )
     return parser.parse_args()
 
 
@@ -323,6 +328,7 @@ def sync_variant(
     variant: VariantConfig,
     output_root: Path,
     overwrite: bool,
+    download_images: bool = True,
 ) -> None:
     variant_dir = output_root / VARIANT_DIR_MAP[variant.variant_id]
     images_dir = variant_dir / "images"
@@ -366,7 +372,7 @@ def sync_variant(
             image_ext = ".jpg"
         image_rel = f"images/page_{page_nr}{image_ext}"
         image_target = variant_dir / image_rel
-        if image_url:
+        if download_images and image_url:
             if overwrite or not image_target.exists():
                 image_response = get_with_auth(session, auth, image_url, timeout=120)
                 write_binary(image_target, image_response.content)
@@ -391,10 +397,12 @@ def sync_variant(
         line_coords_rel = f"line_coords/page_{page_nr}.json"
         write_text(variant_dir / line_coords_rel, json.dumps(line_coords_payload, ensure_ascii=False, indent=2))
 
+        # Use local file if it was downloaded, otherwise fall back to external URL
+        image_manifest_value = image_rel if image_target.exists() else (image_url or None)
         viewer_pages.append(
             {
                 "page_nr": page_nr,
-                "image": image_rel if image_target.exists() else None,
+                "image": image_manifest_value,
                 "transcription": transcription_rel,
                 "translation": f"translations/page_{page_nr}.md",
                 "line_coords": line_coords_rel,
@@ -431,16 +439,19 @@ def main() -> int:
     output_root = Path(args.output_root)
 
     variants = load_config(config_path)
+    download_images = not args.no_images
 
     session = requests.Session()
     auth = resolve_auth(session)
     print(f"[INFO] Auth OK ({auth.source})")
+    if not download_images:
+        print("[INFO] Image download disabled (--no-images); external URLs will be stored in viewer manifest.")
 
     for variant in variants:
         print(
             f"[INFO] Sync {variant.variant_id}: collection={variant.collection_id}, document={variant.document_id}"
         )
-        sync_variant(session, auth, variant, output_root, overwrite=args.overwrite)
+        sync_variant(session, auth, variant, output_root, overwrite=args.overwrite, download_images=download_images)
 
     print("[INFO] Disputation sync completed")
     return 0

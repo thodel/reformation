@@ -40,9 +40,7 @@ jobs:
           set -euo pipefail
           if [[ -n "${DISPUTATION_TRANSKRIBUS_CONFIG:-}" ]]; then
             mkdir -p config
-            cat > config/disputation_transkribus.json <<'JSON'
-${{ secrets.DISPUTATION_TRANSKRIBUS_CONFIG }}
-JSON
+            printf '%s' "$DISPUTATION_TRANSKRIBUS_CONFIG" > config/disputation_transkribus.json
             echo "Transkribus config written from secret."
           else
             echo "No DISPUTATION_TRANSKRIBUS_CONFIG secret set; using repository/default files."
@@ -62,7 +60,7 @@ JSON
           if [[ "${has_auth}" == "true" && -f config/disputation_transkribus.json ]]; then
             python -m pip install --upgrade pip
             pip install requests
-            python3 scripts/sync_disputation_transkribus.py --config config/disputation_transkribus.json
+            python3 scripts/sync_disputation_transkribus.py --config config/disputation_transkribus.json --no-images
           else
             echo "Skipping Transkribus sync (missing credentials or config)."
           fi
