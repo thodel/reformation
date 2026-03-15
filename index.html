@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Berner Reformation — Digitale Edition</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { font-family: Georgia, 'Times New Roman', serif; margin: 0; padding: 0; background: #faf8f5; color: #333; line-height: 1.6; }
+    
+    header { background: linear-gradient(135deg, #1a3a6b 0%, #2d5aa0 100%); color: white; padding: 2rem 1rem; text-align: center; }
+    header h1 { margin: 0; font-size: 2.2rem; font-weight: 700; }
+    header p { margin: 0.5rem 0 0; opacity: 0.85; }
+    
+    nav { background: #0f2744; padding: 0.75rem; text-align: center; }
+    nav a { color: white; text-decoration: none; margin: 0 1.5rem; font-size: 1.05rem; opacity: 0.85; transition: opacity 0.2s; }
+    nav a:hover { opacity: 1; }
+    nav a.active { font-weight: 700; opacity: 1; border-bottom: 2px solid #fbbf24; }
+    
+    main { max-width: 1600px; margin: 0 auto; padding: 2rem 1rem; }
+    
+    .intro { background: white; border-radius: 12px; padding: 2rem; margin-bottom: 2rem; box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+    .intro h2 { color: #1a3a6b; margin-top: 0; }
+    
+    .section-page { display: none; }
+    .section-page.active { display: block; }
+    
+    .viewer-container { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1px; background: #ddd; border-radius: 12px; overflow: hidden; min-height: 70vh; }
+    @media (max-width: 1024px) { .viewer-container { grid-template-columns: 1fr; } }
+    
+    .viewer-col { background: white; }
+    .viewer-col-header { background: #1a3a6b; color: white; padding: 1rem; text-align: center; font-weight: 700; font-family: -apple-system, sans-serif; }
+    .viewer-col-content { padding: 1.5rem; overflow-y: auto; max-height: 80vh; font-size: 0.95rem; line-height: 1.7; }
+    .viewer-col-content.transcription { font-style: italic; }
+    .viewer-col-content.translation { color: #444; }
+    
+    .page-nav { background: white; padding: 1rem; text-align: center; margin-top: 1rem; border-radius: 8px; }
+    .page-nav button { background: #1a3a6b; color: white; border: none; padding: 0.6rem 1.2rem; border-radius: 6px; cursor: pointer; margin: 0 0.5rem; }
+    .page-nav button:hover { background: #2d5aa0; }
+    .page-nav button:disabled { background: #ccc; }
+    
+    #openseadragon { width: 100%; height: 70vh; background: #000; }
+    
+    footer { text-align: center; padding: 2rem; color: #666; font-size: 0.9rem; font-family: -apple-system, sans-serif; }
+    
+    .loading { color: #888; font-style: italic; }
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
+</head>
+<body>
+
+<header>
+  <h1>🏛️ Berner Reformation</h1>
+  <p>Digitale Edition der Predigten und Disputation</p>
+</header>
+
+<nav>
+  <a href="#" class="active" onclick="showSection('home')">Startseite</a>
+  <a href="#" onclick="showSection('predigten')">Predigten</a>
+  <a href="#" onclick="showSection('disputation')">Disputation</a>
+  <a href="#" onclick="showSection('ressourcen')">Ressourcen</a>
+</nav>
+
+<main>
+  <div id="home" class="section-page active">
+    <div class="intro">
+      <h2>Willkommen zur digitalen Edition</h2>
+      <p>Diese Webseite präsentiert die Texte der Berner Reformation von 1528:</p>
+      <ul>
+        <li><strong>Predigten</strong> — Die Predigten der fremden Prädikanten</li>
+        <li><strong>Disputation</strong> — Die Glaubensgespräche von 1528</li>
+      </ul>
+      <p><em>Wählen Sie links eine Sektion aus, um zu beginnen.</em></p>
+      
+      <h3>Quellen</h3>
+      <ul>
+        <li><strong>Predigten:</strong> <a href="https://www.e-rara.ch/i3f/v20/935411/manifest" target="_blank">e-rara.ch</a></li>
+        <li><strong>Disputation:</strong> <a href="https://www.e-rara.ch/i3f/v20/13106447/manifest" target="_blank">e-rara.ch</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div id="predigten" class="section-page">
+    <h2 style="color:#1a3a6b;margin-bottom:1rem;">Die Predigten (1528)</h2>
+    <div class="viewer-container">
+      <div class="viewer-col">
+        <div class="viewer-col-header">📜 Faksimile</div>
+        <div class="viewer-col-content" style="padding:0;">
+          <div id="openseadragon"></div>
+        </div>
+      </div>
+      <div class="viewer-col">
+        <div class="viewer-col-header">✍️ Transkription (Frühneuhochdeutsch)</div>
+        <div class="viewer-col-content transcription" id="transcription-content">
+          <p class="loading">Lade Transkription...</p>
+        </div>
+      </div>
+      <div class="viewer-col">
+        <div class="viewer-col-header">🇩🇪 Übersetzung (Modernes Deutsch)</div>
+        <div class="viewer-col-content translation" id="translation-content">
+          <p class="loading">Lade Übersetzung...</p>
+        </div>
+      </div>
+    </div>
+    <div class="page-nav">
+      <button onclick="prevPage()" id="prev-btn">← Zurück</button>
+      <span id="page-info">Seite Ir</span>
+      <button onclick="nextPage()" id="next-btn">Weiter →</button>
+    </div>
+  </div>
+
+  <div id="disputation" class="section-page">
+    <div class="intro">
+      <h2>Disputation (in Vorbereitung)</h2>
+      <p>Die Disputation zu Bern 1528 wird in Kürze verfügbar sein.</p>
+      <p>Quelle: <a href="https://www.e-rara.ch/i3f/v20/13106447/manifest" target="_blank">e-rara.ch</a></p>
+    </div>
+  </div>
+
+  <div id="ressourcen" class="section-page">
+    <div class="intro">
+      <h2>Weitere Ressourcen</h2>
+      <ul>
+        <li>Personenregister (in Vorbereitung)</li>
+        <li>Institutionsregister (in Vorbereitung)</li>
+        <li>Glossar</li>
+      </ul>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <p>© 2026 Berner Reformation Digitale Edition — <a href="https://www.dh.unibe.ch">Digital Humanities, Universität Bern</a></p>
+  <p>Digitalisate: <a href="https://www.e-rara.ch">e-rara.ch</a> — CC-BY-SA</p>
+</footer>
+
+<script>
+// Page mapping: sequential index -> folio signature
+const PAGE_MAP = [
+  'Ir','Iv','IIr','IIv','IIIr','IIIv','IVr','IVv',
+  'Vr','Vv','VIr','VIv','VIIr','VIIv','VIIIr','VIIIv',
+  'IXr','IXv','Xr','Xv','XIr','XIv','XIIr','XIIv',
+  'XIIIr','XIIIv','XIVr','XIVv','XVr','XVv','XVIr','XVIv',
+  'XVIIr','XVIIv','XVIIIr','XVIIIv','XIXr','XIXv','XXr','XXv',
+  'XXIr','XXIv','XXIIr','XXIIv','XXIIIr','XXIIIv','XXIVr','XXIVv',
+  'XXVr','XXVv','XXVIr','XXVIv','XXVIIr','XXVIIv','XXVIIIr','XXVIIIv',
+  'XXIXr','XXIXv','XXXr','XXXv','XXXIr','XXXIv','XXXIIr','XXXIIv',
+  'XXXIIIr','XXXIIIv','XXXIVr','XXXIVv','XXXVr','XXXVv','XXXVIr','XXXVIv',
+  'XXXVIIr','XXXVIIv','XXXVIIIr','XXXVIIIv','XXXIXr','XXXIXv','XLr','XLv',
+  'XLIr','XLIv','XLIIr','XLIIv','XLIIIr','XLIIIv','XLIVr','XLIVv',
+  'XLVr','XLv','XLVIr','XLVIv','XLVIIr','XLVIIv','XLVIIIr','XLVIIIv',
+  'XLIXr','XLIXv','Lr','Lv','LIr','LIv','LIIr','LIIv',
+  'LIIIr','LIIIv','LIVr','LIVv','LVr','LVv','LVIr','LVIv',
+  'LVIIr','LVIIv','LVIIIr','LVIIIv','LIXr','LIXv','Lr','Lv',
+  'Lr','Lv','Lr','Lv','Lr','Lv','Lr','Lv',
+  'Lr','Lv'
+];
+
+let viewer;
+let currentPageIndex = 0;
+const totalPages = PAGE_MAP.length;
+
+function showSection(id) {
+  document.querySelectorAll('.section-page').forEach(s => s.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  document.querySelectorAll('nav a').forEach(a => a.classList.remove('active'));
+  event.target.classList.add('active');
+  if (id === 'predigten') initViewer();
+}
+
+function initViewer() {
+  if (viewer) return;
+  viewer = OpenSeadragon({
+    id: "openseadragon",
+    tileSources: "https://www.e-rara.ch/i3f/v20/935411/manifest",
+    showNavigator: true,
+    navigatorPosition: "BOTTOM_RIGHT",
+    visibilityRatio: 1.0,
+    defaultZoomLevel: 0
+  });
+  loadTranslation();
+}
+
+async function loadTranslation() {
+  const folio = PAGE_MAP[currentPageIndex];
+  try {
+    const response = await fetch(`data/predigten/translations/page_${folio}.md`);
+    if (response.ok) {
+      const text = await response.text();
+      document.getElementById('translation-content').innerHTML = text
+        .replace(/^#\s+/gm, '<h3>').replace(/$/gm, '</h3>')
+        .replace(/\n/g, '<br>');
+    } else {
+      document.getElementById('translation-content').innerHTML = '<p>Übersetzung nicht verfügbar.</p>';
+    }
+  } catch(e) {
+    document.getElementById('translation-content').innerHTML = '<p>Fehler beim Laden.</p>';
+  }
+}
+
+function prevPage() {
+  if (currentPageIndex > 0) {
+    currentPageIndex--;
+    update();
+  }
+}
+
+function nextPage() {
+  if (currentPageIndex < totalPages - 1) {
+    currentPageIndex++;
+    update();
+  }
+}
+
+function update() {
+  const folio = PAGE_MAP[currentPageIndex];
+  document.getElementById('page-info').textContent = `Seite ${folio}`;
+  document.getElementById('prev-btn').disabled = currentPageIndex === 0;
+  document.getElementById('next-btn').disabled = currentPageIndex === totalPages - 1;
+  
+  loadTranslation();
+  if (viewer) viewer.goToPage(currentPageIndex);
+}
+
+update();
+</script>
+
+</body>
+</html>

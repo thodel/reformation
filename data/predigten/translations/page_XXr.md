@@ -1,0 +1,9 @@
+# Seite XXr
+
+# Seite 20r
+
+**Schlussrede**
+Dem widerspreche ich. Er hat sie ihm verheißen, es steht: „Ich werde geben“ (*Dabo*), nicht „Ich gebe“ (*Do*), und hat sie gemäß Johannes, 20. Kapitel, allen Jüngern gegeben, als er spricht: „Wem ihr verzeiht etc.“. Darum wird es nicht nur ein Haupt geben, das binden und lösen kann, sondern so viele Häupter, wie Christus im 20. Kapitel des Johannesevangeliums beauftragt hat zu binden und zu lösen. Außerdem bedarf es dieser Antwort gar nicht, denn der Pfarrer selbst hat eine gute Klärung gegeben, dass Christus Petrus die Gewalt des Wortes Gottes anvertraut und ihn zu einem vornehmsten Verwalter seines göttlichen Wortes eingesetzt habe. Dem stimmen wir von Herzen gerne zu, denn durch das Wort Gottes wird den Gläubigen, wenn es ihnen verkündet wird, die Gewissheit gegeben, dass ihnen Gott ihre Sünde durch Christus verziehen hat. Darum ist Gott allein der, der die Sünde verzeiht; die Apostel verkünden als Diener die Verzeihung der Sünde und das Behalten der Sünden. Darum ist hier keine besondere Gewalt der Statthalterschaft Christi anvertraut worden, weshalb es nötig ist, andere Schriftstellen anzuführen.
+
+**Pfarrer**
+Als Herr Berchtold, Prädikant (reformierter Prediger) meiner gnädigen Herren von Bern, mir vorwirft, ich hätte vorhin in der Rede vieles ausgelassen, als ich Christus als das einzige Haupt bekannte, so habe ich darin nicht schlecht, sondern nach der Schrift gut gehandelt. Denn bei der Gewalt [Christi] sind zwei Dinge zu unterscheiden. Zum ersten seine große, aus seiner Allmächtigkeit stammende, freie und unbedingte Gewalt, denn er allein ist es, der Gnade und Herrlichkeit gibt, und das wird er niemand anderem geben. Zum zweiten ist seine übertragene Gewalt gemäß seiner göttlichen Anordnung zu bemerken, und wie Herr Berchtold gesagt hat, hat er ihnen sein göttliches Wort anvertraut.

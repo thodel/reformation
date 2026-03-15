@@ -1,0 +1,12 @@
+# Seite XXVv
+
+# Seite XXVv
+
+Die Ersten wollen damit sagen, damit der Pfarrer samt anderen sehe, dass sie aus dieser Stelle, 1. Timotheus, 1. Kapitel, keine besondere oder andere Gewalt oder ein Haupt beweisen können. etc.
+
+Am neunten Tag des Januars.
+Danach, als die Disputation von etlichen für etwas parteiisch gehalten wurde, mit der Begründung, dass am Tisch der Predikanten (reformatorische Prediger) viele gelehrte Leute säßen und bei den anderen gar niemand und diese somit ohne Unterstützung [trostloß] seien. Deshalb haben die Präsidenten auf Anordnung und im Namen von Schultheiss (Bürgermeister) und Rat zu Bern Folgendes eröffnet und bekannt gegeben: Diejenigen, die gegen den ersten Artikel disputieren wollen, sollen sich im Chor einfinden und einen geschickten, redegewandten Mann erwählen, der für sie das Wort ergreift. Die Besten sollen sich zu ihnen setzen, um ihnen zu helfen und zu raten, damit die Sache vorangebracht wird. Dasselbe wurde auch den Predikanten gestattet. Und welche Seite auch immer disputieren will, beide sollen das Notwendige kurzgefasst zur Sache sagen und das andere weglassen, und dies soll auch bei den anderen Artikeln so gehandhabt werden. Dazu dürfen sie einander unterstützen, beraten und Zettel überschicken. Und wenn jemand selbst weiter dazu reden wollte, wurde dies niemandem verwehrt. etc.
+
+Nach dieser von den besagten Präsidenten gemachten Eröffnung wurde der ehrwürdige, hochgelehrte Herr Doktor Conradus Treyger aus Freiburg im Üechtland, Provinzial (Leiter einer Ordensprovinz) des Augustinerordens, aufgerufen, da er doch anwesend war. Denn er war zuvor von den Predikanten aus Strassburg erwähnt worden, mit der Aufforderung, er möge auf die Bühne [brüge] heraufkommen und dort freien Platz und Gelegenheit zum Disputieren haben.
+
+Als nun solches durch die Präsidenten, wie oben dargelegt, verkündet worden war und die, welche die Schlussreden (Thesen) anzufechten unternahmen, sich versammelt und einige bestimmt hatten, dies im Namen ihrer aller zu verhandeln, ist besagter Doktor Conradus Treyger, Provinzial des Ordens des heiligen Augustinus, zu den Disputanten hinaufgetreten und hat anfangs mit einer langen Rede protestiert. Da er vernommen hatte, dass ihn die beiden Predikanten von Strassburg erwähnt hatten und er auch besonders deswegen herbeigerufen worden war, sei er zugegen; nicht von seiner Obrigkeit, Schultheiss und Rat der Stadt Freiburg, noch vom Bischof von Lausanne hergesandt, um in deren Auftrag zu disputieren.

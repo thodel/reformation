@@ -1,0 +1,9 @@
+# Seite XXVIIIv
+
+# Seite 28v
+
+**MVXX**
+Die erste Schlussfolgerung folgt daraus, wie vormals dargelegt wurde: dass eine solche allgemeine Versammlung, die im Geist des Herrn versammelt ist, auch das Recht hat, über die Schrift zu richten und zu urteilen. Denn es steht ja geschrieben: „Der geistliche [Mensch] richtet alle Dinge.“ Hierbei wird die Schrift nicht ausgenommen. Dass aber mein Herr Doktor weiter die Worte des Herrn anführt, wo er sagt: „Wer die Kirche nicht hört, der sei für dich wie ein Heide usw.“ – dazu sage ich: Auch wenn dies von einem innerlichen, geistlichen Menschen verstanden werden soll, der alle Dinge auf den Glauben und die Liebe hin ausrichtet, so hat uns der Herr hier doch einen äußerlichen, sichtbaren Richter anzeigen wollen, damit wir bei Streitigkeiten [spennen] und Zwietracht zu Frieden und zur Einigkeit unseres rechten, unbefleckten Glaubens kommen könnten. Denn der Herr sagt ja: „Wenn er dich nicht hört, so nimm einen oder zwei zu dir. Wenn er diese auch nicht hören will, so sage es der Kirche.“ Das muss ja eine äußerliche, sichtbare Kirche sein, denn es wäre ja absurd [schimpffliché] zu hören, dass uns der Herr einen Richter eingesetzt hätte, der unsichtbar und unerkennbar ist. Darum folgt noch heute, dass dieselbe sichtbare Kirche, in einem wahren Glauben und im Namen des Herrn versammelt, in Glaubensangelegenheiten [in hendlen des gloubens] zu urteilen und zu sprechen hat.
+
+**Doktor Capito** (Wolfgang Capito, Reformator aus Straßburg)
+Ja, mein Herr Doktor, den Einwand [fürwidt], dass er diesen Spruch „Der geistliche [Mensch] richtet alle Dinge“ stehen lässt und so annimmt, wie er zuvor gedeutet wurde, nehmen wir an. Dass aber daraus folgen sollte, dass er auch die Schrift beurteilen könnte – weil er ja alle Dinge beurteilt –, kann nicht folgen. Denn die Art dieser Rede ist, dass er all das beurteilt, was zu beurteilen ist. Nun kann die Schrift, da sie gewisslich vom Geist Gottes ist,
