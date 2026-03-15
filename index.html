@@ -56,10 +56,10 @@
 </header>
 
 <nav>
-  <a href="#" class="active" onclick="showSection('home')">Startseite</a>
-  <a href="#" onclick="showSection('predigten')">Predigten</a>
-  <a href="#" onclick="showSection('disputation')">Disputation</a>
-  <a href="#" onclick="showSection('ressourcen')">Ressourcen</a>
+  <a href="#" class="active" onclick="showSection(event, 'home')">Startseite</a>
+  <a href="#" onclick="showSection(event, 'predigten')">Predigten</a>
+  <a href="#" onclick="showSection(event, 'disputation')">Disputation</a>
+  <a href="#" onclick="showSection(event, 'ressourcen')">Ressourcen</a>
 </nav>
 
 <main>
@@ -105,7 +105,7 @@
     </div>
     <div class="page-nav">
       <button onclick="prevPage()" id="prev-btn">← Zurück</button>
-      <span id="page-info">Seite Ir</span>
+      <span id="page-info">Seite 1 von 224</span>
       <button onclick="nextPage()" id="next-btn">Weiter →</button>
     </div>
   </div>
@@ -136,26 +136,43 @@
 </footer>
 
 <script>
-// Page mapping: 224 canvases in IIIF, translations in page_1.md to page_224.md
+// Application constants for the Predigten viewer.
+// The current IIIF manifest has 224 canvases and translations are expected as:
+// data/predigten/translations/page_1.md ... page_224.md
 const TOTAL_PAGES = 224;
+const PREDIGTEN_MANIFEST_URL = "https://www.e-rara.ch/i3f/v20/935411/manifest";
+const TRANSLATION_BASE_PATH = "data/predigten/translations";
 
 let viewer;
 let currentPageIndex = 0;
 
-function showSection(id) {
+// Switches the main content section and initializes the IIIF viewer on demand.
+function showSection(event, id) {
+  if (event) {
+    event.preventDefault();
+  }
+
   document.querySelectorAll('.section-page').forEach(s => s.classList.remove('active'));
   document.getElementById(id).classList.add('active');
   document.querySelectorAll('nav a').forEach(a => a.classList.remove('active'));
-  event.target.classList.add('active');
-  if (id === 'predigten') initViewer();
+  if (event && event.currentTarget) {
+    event.currentTarget.classList.add('active');
+  }
+
+  if (id === 'predigten') {
+    initViewer();
+    update();
+  }
 }
 
+// Creates the Mirador instance once and keeps it for subsequent navigation.
 function initViewer() {
   if (viewer) return;
+
   viewer = Mirador.viewer({
     id: "openseadragon",
     windows: [{
-      manifestId: "https://www.e-rara.ch/i3f/v20/935411/manifest"
+      manifestId: PREDIGTEN_MANIFEST_URL
     }],
     config: {
       availableWorkspaces: {
@@ -163,18 +180,33 @@ function initViewer() {
       }
     }
   });
-  loadTranslation();
 }
 
+// Minimal markdown renderer for local translation files.
+// Supported:
+// - Headings that start with "# "
+// - Line breaks for all other lines
+function renderTranslationMarkdown(markdownText) {
+  return markdownText
+    .split('\n')
+    .map((line) => {
+      const heading = line.match(/^#\s+(.+)/);
+      if (heading) {
+        return `<h3>${heading[1]}</h3>`;
+      }
+      return line;
+    })
+    .join('<br>');
+}
+
+// Loads the translation for the current page index and updates the right column.
 async function loadTranslation() {
   const pageNum = currentPageIndex + 1;
   try {
-    const response = await fetch(`data/predigten/translations/page_${pageNum}.md`);
+    const response = await fetch(`${TRANSLATION_BASE_PATH}/page_${pageNum}.md`);
     if (response.ok) {
       const text = await response.text();
-      document.getElementById('translation-content').innerHTML = text
-        .replace(/^#\s+/gm, '<h3>').replace(/$/gm, '</h3>')
-        .replace(/\n/g, '<br>');
+      document.getElementById('translation-content').innerHTML = renderTranslationMarkdown(text);
     } else {
       document.getElementById('translation-content').innerHTML = '<p>Übersetzung nicht verfügbar.</p>';
     }
@@ -183,6 +215,7 @@ async function loadTranslation() {
   }
 }
 
+// Navigate one page backward if possible.
 function prevPage() {
   if (currentPageIndex > 0) {
     currentPageIndex--;
@@ -190,13 +223,15 @@ function prevPage() {
   }
 }
 
+// Navigate one page forward if possible.
 function nextPage() {
-  if (currentPageIndex < totalPages - 1) {
+  if (currentPageIndex < TOTAL_PAGES - 1) {
     currentPageIndex++;
     update();
   }
 }
 
+// Synchronizes UI state (buttons, label, translation, IIIF canvas) with currentPageIndex.
 function update() {
   const pageNum = currentPageIndex + 1;
   document.getElementById('page-info').textContent = `Seite ${pageNum} von ${TOTAL_PAGES}`;
@@ -213,6 +248,7 @@ function update() {
   }
 }
 
+// Initialize static UI state on first load.
 update();
 </script>
 
