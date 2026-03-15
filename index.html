@@ -480,36 +480,11 @@
 const OSD_PREFIX_URL = "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/images/";
 
 // Predigten configuration.
-const PREDIGTEN_DEFAULT_TOTAL_PAGES = 598;
+const PREDIGTEN_DEFAULT_TOTAL_PAGES = 500;
 const PREDIGTEN_MANIFEST_URL = "https://www.e-rara.ch/i3f/v20/935411/manifest";
 const PREDIGTEN_TRANSLATION_BASE_PATH = "data/predigten/translations";
 const PREDIGTEN_TRANSCRIPTION_BASE_PATH = "data/predigten/transcriptions";
 const PREDIGTEN_ENTITY_INDEX_PATH = "data/predigten/entities/named_entities.json";
-
-// Ordered Roman-numeral page name suffixes for the preliminary pages (I–X use
-// folio sub-pages rr/rv/vr/vv; XI–XL use recto/verso r/v).
-const PREDIGTEN_ROMAN_SUFFIXES = (() => {
-  const s = [];
-  for (const n of ['I','II','III','IV','V','VI','VII','VIII','IX','X']) {
-    s.push(`${n}rr`, `${n}rv`, `${n}vr`, `${n}vv`);
-  }
-  for (const n of [
-    'XI','XII','XIII','XIV','XV','XVI','XVII','XVIII','XIX','XX',
-    'XXI','XXII','XXIII','XXIV','XXV','XXVI','XXVII','XXVIII','XXIX','XXX',
-    'XXXI','XXXII','XXXIII','XXXIV','XXXV','XXXVI','XXXVII','XXXVIII','XXXIX','XL'
-  ]) {
-    s.push(`${n}r`, `${n}v`);
-  }
-  return s;
-})();
-
-// Returns the file-name suffix (e.g. "XVr" or "42") for a given 0-based canvas index.
-function getPredigtenPageFileSuffix(index) {
-  if (index < PREDIGTEN_ROMAN_SUFFIXES.length) {
-    return PREDIGTEN_ROMAN_SUFFIXES[index];
-  }
-  return String(index - PREDIGTEN_ROMAN_SUFFIXES.length + 1);
-}
 
 // Disputation configurations.
 const DISPUTATION_VARIANTS = [
@@ -846,11 +821,11 @@ async function updatePredigtenViewerPage() {
 }
 
 async function loadPredigtenTranscription() {
-  const suffix = getPredigtenPageFileSuffix(predigtenState.currentPageIndex);
+  const pageNum = predigtenState.currentPageIndex + 1;
   const container = document.getElementById('transcription-content');
 
   try {
-    const response = await fetch(`${PREDIGTEN_TRANSCRIPTION_BASE_PATH}/page_${suffix}.md`);
+    const response = await fetch(`${PREDIGTEN_TRANSCRIPTION_BASE_PATH}/page_${pageNum}.md`);
     if (!response.ok) {
       container.innerHTML = '<p>Transkription für diese Seite noch nicht verfügbar.</p>';
       return;
@@ -864,11 +839,11 @@ async function loadPredigtenTranscription() {
 }
 
 async function loadPredigtenTranslation() {
-  const suffix = getPredigtenPageFileSuffix(predigtenState.currentPageIndex);
+  const pageNum = predigtenState.currentPageIndex + 1;
   const container = document.getElementById('translation-content');
 
   try {
-    const response = await fetch(`${PREDIGTEN_TRANSLATION_BASE_PATH}/page_${suffix}.md`);
+    const response = await fetch(`${PREDIGTEN_TRANSLATION_BASE_PATH}/page_${pageNum}.md`);
     if (!response.ok) {
       container.innerHTML = '<p>Übersetzung nicht verfügbar.</p>';
       return;

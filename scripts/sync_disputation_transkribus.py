@@ -24,6 +24,8 @@ except ModuleNotFoundError:
 BASE_REST_URL = "https://transkribus.eu/TrpServer/rest"
 LOGIN_URL = f"{BASE_REST_URL}/auth/login"
 FULLDOC_URL_TEMPLATE = f"{BASE_REST_URL}/collections/{{col_id}}/{{doc_id}}/fulldoc"
+OIDC_TOKEN_URL = "https://account.readcoop.eu/auth/realms/readcoop/protocol/openid-connect/token"
+DEFAULT_OIDC_CLIENT_ID = "transkribus-api-client"
 
 VARIANT_DIR_MAP = {
     "druck-1528": "druck_1528",
@@ -41,6 +43,13 @@ class VariantConfig:
     collection_id: int
     document_id: int
     status_preference: list[str]
+
+
+@dataclass(frozen=True)
+class AuthContext:
+    kind: str  # "sid" | "bearer"
+    value: str
+    source: str
 
 
 def parse_args() -> argparse.Namespace:
@@ -125,11 +134,90 @@ def login(session: requests.Session, user: str, password: str) -> str:
     return sid
 
 
-def fetch_document_content(session: requests.Session, sid: str, col_id: int, doc_id: int) -> dict[str, Any]:
+def oidc_password_grant(session: requests.Session, user: str, password: str) -> str:
+    client_id = os.environ.get("TRANSKRIBUS_OIDC_CLIENT_ID", DEFAULT_OIDC_CLIENT_ID).strip()
+    if not client_id:
+        client_id = DEFAULT_OIDC_CLIENT_ID
+
+    response = session.post(
+        OIDC_TOKEN_URL,
+        data={
+            "grant_type": "password",
+            "client_id": client_id,
+            "username": user,
+            "password": password,
+        },
+        timeout=60,
+    )
+    response.raise_for_status()
+    payload = response.json()
+    token = str(payload.get("access_token", "")).strip()
+    if not token:
+        raise RuntimeError("OIDC token response did not include access_token.")
+    return token
+
+
+def resolve_auth(session: requests.Session) -> AuthContext:
+    access_token = os.environ.get("TRANSKRIBUS_ACCESS_TOKEN", "").strip()
+    if access_token:
+        return AuthContext(kind="bearer", value=access_token, source="TRANSKRIBUS_ACCESS_TOKEN")
+
+    user, password = require_credentials()
+
+    legacy_error = None
+    try:
+        sid = login(session, user, password)
+        return AuthContext(kind="sid", value=sid, source="legacy /auth/login")
+    except Exception as exc:
+        legacy_error = exc
+
+    try:
+        token = oidc_password_grant(session, user, password)
+        return AuthContext(kind="bearer", value=token, source="OIDC password grant")
+    except Exception as oidc_exc:
+        raise RuntimeError(
+            f"Legacy login failed ({legacy_error}); OIDC fallback failed ({oidc_exc})."
+        ) from oidc_exc
+
+
+def auth_headers(auth: AuthContext) -> dict[str, str]:
+    if auth.kind == "bearer":
+        return {"Authorization": f"Bearer {auth.value}"}
+    return {}
+
+
+def auth_params(auth: AuthContext) -> dict[str, str]:
+    if auth.kind == "sid":
+        return {"JSESSIONID": auth.value}
+    return {}
+
+
+def fetch_document_content(
+    session: requests.Session,
+    auth: AuthContext,
+    col_id: int,
+    doc_id: int,
+) -> dict[str, Any]:
     url = FULLDOC_URL_TEMPLATE.format(col_id=col_id, doc_id=doc_id)
-    response = session.get(url, params={"JSESSIONID": sid}, timeout=60)
+    response = session.get(
+        url,
+        params=auth_params(auth) or None,
+        headers=auth_headers(auth) or None,
+        timeout=60,
+    )
     response.raise_for_status()
     return response.json()
+
+
+def get_with_auth(session: requests.Session, auth: AuthContext, url: str, timeout: int) -> requests.Response:
+    response = session.get(
+        url,
+        params=auth_params(auth) or None,
+        headers=auth_headers(auth) or None,
+        timeout=timeout,
+    )
+    response.raise_for_status()
+    return response
 
 
 def pick_latest_transcript(page: dict[str, Any], status_preference: list[str]) -> dict[str, Any] | None:
@@ -231,7 +319,7 @@ def write_text(path: Path, text: str) -> None:
 
 def sync_variant(
     session: requests.Session,
-    sid: str,
+    auth: AuthContext,
     variant: VariantConfig,
     output_root: Path,
     overwrite: bool,
@@ -245,7 +333,7 @@ def sync_variant(
     for directory in [images_dir, transcriptions_dir, line_coords_dir, pagexml_dir, variant_dir / "translations", variant_dir / "entities"]:
         directory.mkdir(parents=True, exist_ok=True)
 
-    document = fetch_document_content(session, sid, variant.collection_id, variant.document_id)
+    document = fetch_document_content(session, auth, variant.collection_id, variant.document_id)
     pages = (((document.get("pageList") or {}).get("pages")) or [])
     pages = sorted(pages, key=lambda page: int(page.get("pageNr", 0)))
 
@@ -265,8 +353,7 @@ def sync_variant(
 
         pagexml_target = pagexml_dir / f"page_{page_nr}.xml"
         if overwrite or not pagexml_target.exists():
-            pagexml_response = session.get(pagexml_url, timeout=60)
-            pagexml_response.raise_for_status()
+            pagexml_response = get_with_auth(session, auth, pagexml_url, timeout=60)
             write_text(pagexml_target, pagexml_response.text)
         pagexml_text = pagexml_target.read_text(encoding="utf-8")
 
@@ -281,8 +368,7 @@ def sync_variant(
         image_target = variant_dir / image_rel
         if image_url:
             if overwrite or not image_target.exists():
-                image_response = session.get(image_url, timeout=120)
-                image_response.raise_for_status()
+                image_response = get_with_auth(session, auth, image_url, timeout=120)
                 write_binary(image_target, image_response.content)
 
         transcription_md = "# Seite {0}\n\n{1}\n".format(
@@ -345,16 +431,16 @@ def main() -> int:
     output_root = Path(args.output_root)
 
     variants = load_config(config_path)
-    user, password = require_credentials()
 
     session = requests.Session()
-    sid = login(session, user, password)
+    auth = resolve_auth(session)
+    print(f"[INFO] Auth OK ({auth.source})")
 
     for variant in variants:
         print(
             f"[INFO] Sync {variant.variant_id}: collection={variant.collection_id}, document={variant.document_id}"
         )
-        sync_variant(session, sid, variant, output_root, overwrite=args.overwrite)
+        sync_variant(session, auth, variant, output_root, overwrite=args.overwrite)
 
     print("[INFO] Disputation sync completed")
     return 0

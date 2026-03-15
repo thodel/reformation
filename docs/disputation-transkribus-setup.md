@@ -13,16 +13,25 @@ Die Daten werden serverseitig aus Transkribus synchronisiert und lokal in
 
 ## Benoetigte Credentials
 
+Du kannst **eine** der folgenden Auth-Varianten verwenden:
+
+- `TRANSKRIBUS_ACCESS_TOKEN`: bereits vorhandener OIDC Access Token
+- oder:
 - `TRANSKRIBUS_USER`: Dein Transkribus Login (normalerweise E-Mail)
 - `TRANSKRIBUS_PASSWORD`: Dein Transkribus Passwort
+- optional `TRANSKRIBUS_OIDC_CLIENT_ID` (Default: `transkribus-api-client`)
 
-Die API-Session wird per `POST /rest/auth/login` aufgebaut (JSESSIONID).
+Die Skripte versuchen zuerst Legacy-Login (`/rest/auth/login`) und fallen bei Bedarf auf OIDC Password Grant (Bearer Token) zurueck.
 
 ## Bereitstellung der Credentials
 
 ### Option A: Nur fuer eine Shell-Session
 
 ```bash
+# Option 1: tokenbasiert
+export TRANSKRIBUS_ACCESS_TOKEN="<access-token>"
+
+# Option 2: Benutzername/Passwort
 export TRANSKRIBUS_USER="you@example.org"
 export TRANSKRIBUS_PASSWORD="<dein-passwort>"
 ```
@@ -31,8 +40,13 @@ export TRANSKRIBUS_PASSWORD="<dein-passwort>"
 
 ```bash
 cat > .env <<'ENV'
+# Option 1: direktes Token (empfohlen fuer SSO/2FA-Accounts)
+TRANSKRIBUS_ACCESS_TOKEN=
+
+# Option 2: Benutzername/Passwort (wenn kein Token gesetzt ist)
 TRANSKRIBUS_USER=you@example.org
 TRANSKRIBUS_PASSWORD=<dein-passwort>
+TRANSKRIBUS_OIDC_CLIENT_ID=transkribus-api-client
 ENV
 set -a
 source .env
@@ -79,7 +93,7 @@ python3 scripts/check_transkribus_credentials.py --collection-id 2313234 --docum
 ```
 
 Erwartung:
-- `Login OK`
+- `Auth OK (...)`
 - `Document reachable: ... pages=755`
 
 ## Output pro Variante

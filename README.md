@@ -141,7 +141,7 @@ Kurzfassung:
 1. `pip install requests`
 2. `cp config/disputation_transkribus.example.json config/disputation_transkribus.json`
 3. IDs je Variante setzen (`collection_id`, `document_id`)
-4. Credentials setzen (`TRANSKRIBUS_USER`, `TRANSKRIBUS_PASSWORD`)
+4. Auth setzen (`TRANSKRIBUS_ACCESS_TOKEN` oder `TRANSKRIBUS_USER` + `TRANSKRIBUS_PASSWORD`)
 5. `python3 scripts/check_transkribus_credentials.py --collection-id 2313234 --document-id 13922579`
 6. `python3 scripts/sync_disputation_transkribus.py --config config/disputation_transkribus.json`
 
