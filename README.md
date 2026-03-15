@@ -92,8 +92,8 @@ Lauftext der Uebersetzung...
 
 ## Quellen
 
-- Predigten (IIIF Manifest): [e-rara.ch](https://www.e-rara.ch/i3f/v20/935411/manifest)
-- Disputation (IIIF Manifest): [e-rara.ch](https://www.e-rara.ch/i3f/v20/13106447/manifest)
+- Predigten (DOI): [10.3931/e-rara-3026](https://doi.org/10.3931/e-rara-3026)
+- Disputation (DOI): [10.3931/e-rara-47098](https://doi.org/10.3931/e-rara-47098)
 - Mirador: [mirador.dev](https://mirador.dev/)
 
 ## Weiterentwicklung

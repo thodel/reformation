@@ -4,44 +4,217 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Berner Reformation — Digitale Edition</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
     * { box-sizing: border-box; }
-    body { font-family: Georgia, 'Times New Roman', serif; margin: 0; padding: 0; background: #faf8f5; color: #333; line-height: 1.6; }
+    :root {
+      --paper: #faf8f5;
+      --ink: #2f2f2f;
+      --ink-soft: #4a4a4a;
+      --nav: #0f2744;
+      --nav-strong: #0a1a2f;
+      --accent: #fbbf24;
+      --panel: rgba(255, 255, 255, 0.86);
+      --panel-strong: rgba(26, 58, 107, 0.92);
+      --panel-border: rgba(255, 255, 255, 0.55);
+      --font-display: 'Cormorant Garamond', Georgia, serif;
+      --font-body: 'Source Sans 3', 'Helvetica Neue', Arial, sans-serif;
+    }
+
+    body {
+      font-family: var(--font-body);
+      margin: 0;
+      padding: 0;
+      color: var(--ink);
+      line-height: 1.6;
+      background-image:
+        linear-gradient(rgba(250, 248, 245, 0.9), rgba(250, 248, 245, 0.9)),
+        url('data/images/bern_reformation.png');
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+    }
     
-    header { background: linear-gradient(135deg, #1a3a6b 0%, #2d5aa0 100%); color: white; padding: 2rem 1rem; text-align: center; }
-    header h1 { margin: 0; font-size: 2.2rem; font-weight: 700; }
+    header { background: linear-gradient(135deg, rgba(26, 58, 107, 0.96) 0%, rgba(45, 90, 160, 0.93) 100%); color: white; padding: 2rem 1rem; text-align: center; }
+    header h1 {
+      margin: 0;
+      font-size: clamp(2.2rem, 4.2vw, 3.4rem);
+      font-weight: 700;
+      letter-spacing: 0.03em;
+      font-family: var(--font-display);
+      line-height: 1.1;
+    }
     header p { margin: 0.5rem 0 0; opacity: 0.85; }
     
-    nav { background: #0f2744; padding: 0.75rem; text-align: center; }
-    nav a { color: white; text-decoration: none; margin: 0 1.5rem; font-size: 1.05rem; opacity: 0.85; transition: opacity 0.2s; }
+    nav {
+      background: var(--nav);
+      padding: 0.75rem;
+      text-align: center;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      transition: box-shadow 0.25s ease, background-color 0.25s ease, backdrop-filter 0.25s ease;
+    }
+    nav.scrolled {
+      background: rgba(15, 39, 68, 0.9);
+      backdrop-filter: blur(6px);
+      box-shadow: 0 10px 30px rgba(10, 26, 47, 0.32);
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 1.2rem;
+      font-size: 1.05rem;
+      font-weight: 600;
+      letter-spacing: 0.01em;
+      opacity: 0.88;
+      transition: opacity 0.2s, color 0.2s;
+    }
     nav a:hover { opacity: 1; }
-    nav a.active { font-weight: 700; opacity: 1; border-bottom: 2px solid #fbbf24; }
+    nav a:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 3px;
+      border-radius: 4px;
+      opacity: 1;
+    }
+    nav a.active {
+      font-weight: 700;
+      opacity: 1;
+      border-bottom: 2px solid var(--accent);
+      color: #fff9e8;
+    }
     
     main { max-width: 1600px; margin: 0 auto; padding: 2rem 1rem; }
     
-    .intro { background: white; border-radius: 12px; padding: 2rem; margin-bottom: 2rem; box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
-    .intro h2 { color: #1a3a6b; margin-top: 0; }
+    .intro {
+      background: var(--panel);
+      border-radius: 12px;
+      padding: 2rem;
+      margin-bottom: 2rem;
+      border: 1px solid var(--panel-border);
+      backdrop-filter: blur(6px) saturate(120%);
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+    }
+    .intro h2 {
+      color: #1a3a6b;
+      margin-top: 0;
+      font-family: var(--font-display);
+      font-size: clamp(1.7rem, 2.4vw, 2.2rem);
+      letter-spacing: 0.01em;
+      line-height: 1.2;
+    }
+    .intro h3 {
+      font-family: var(--font-display);
+      font-size: 1.5rem;
+      margin-bottom: 0.5rem;
+      color: #1f4275;
+    }
+    .intro a { color: #13355f; font-weight: 600; }
     
     .section-page { display: none; }
-    .section-page.active { display: block; }
+    .section-page.active {
+      display: block;
+      animation: section-reveal 0.32s ease-out both;
+    }
+    @keyframes section-reveal {
+      from {
+        opacity: 0;
+        transform: translateY(12px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
     
-    .viewer-container { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1px; background: #ddd; border-radius: 12px; overflow: hidden; min-height: 70vh; }
+    .viewer-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 1px;
+      background: rgba(221, 221, 221, 0.8);
+      border-radius: 12px;
+      overflow: hidden;
+      min-height: 70vh;
+      border: 1px solid var(--panel-border);
+      box-shadow: 0 16px 38px rgba(0, 0, 0, 0.14);
+      backdrop-filter: blur(6px) saturate(110%);
+    }
     @media (max-width: 1024px) { .viewer-container { grid-template-columns: 1fr; } }
     
-    .viewer-col { background: white; }
-    .viewer-col-header { background: #1a3a6b; color: white; padding: 1rem; text-align: center; font-weight: 700; font-family: -apple-system, sans-serif; }
+    .viewer-col { background: var(--panel); backdrop-filter: blur(6px) saturate(120%); }
+    .viewer-col-header {
+      background: var(--panel-strong);
+      color: white;
+      padding: 1rem;
+      text-align: center;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      font-family: var(--font-body);
+    }
     .viewer-col-content { padding: 1.5rem; overflow-y: auto; max-height: 80vh; font-size: 0.95rem; line-height: 1.7; }
     .viewer-col-content.transcription { font-style: italic; }
-    .viewer-col-content.translation { color: #444; }
+    .viewer-col-content.translation { color: var(--ink-soft); }
     
-    .page-nav { background: white; padding: 1rem; text-align: center; margin-top: 1rem; border-radius: 8px; }
-    .page-nav button { background: #1a3a6b; color: white; border: none; padding: 0.6rem 1.2rem; border-radius: 6px; cursor: pointer; margin: 0 0.5rem; }
-    .page-nav button:hover { background: #2d5aa0; }
-    .page-nav button:disabled { background: #ccc; }
+    .section-title {
+      color: #1a3a6b;
+      margin-bottom: 1rem;
+      font-family: var(--font-display);
+      font-size: clamp(1.8rem, 2.8vw, 2.4rem);
+      letter-spacing: 0.01em;
+    }
+
+    .page-nav {
+      background: var(--panel);
+      padding: 1rem;
+      text-align: center;
+      margin-top: 1rem;
+      border-radius: 8px;
+      border: 1px solid var(--panel-border);
+      backdrop-filter: blur(6px) saturate(120%);
+      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
+    }
+    .page-nav button {
+      background: #1a3a6b;
+      color: white;
+      border: 1px solid #16345e;
+      padding: 0.6rem 1.2rem;
+      border-radius: 6px;
+      cursor: pointer;
+      margin: 0 0.5rem;
+      font-family: var(--font-body);
+      font-weight: 700;
+      transition: transform 0.15s ease, box-shadow 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+    }
+    .page-nav button:hover {
+      background: #2d5aa0;
+      border-color: #234a84;
+      transform: translateY(-1px);
+      box-shadow: 0 7px 18px rgba(17, 45, 79, 0.35);
+    }
+    .page-nav button:active {
+      transform: translateY(0);
+      box-shadow: 0 2px 8px rgba(17, 45, 79, 0.3);
+      background: #204478;
+    }
+    .page-nav button:focus-visible {
+      outline: 3px solid rgba(251, 191, 36, 0.85);
+      outline-offset: 2px;
+    }
+    .page-nav button:disabled {
+      background: #c8ced8;
+      border-color: #c8ced8;
+      color: #f7f7f7;
+      cursor: not-allowed;
+      box-shadow: none;
+      transform: none;
+    }
     
     #openseadragon { width: 100%; height: 70vh; background: #000; }
     
-    footer { text-align: center; padding: 2rem; color: #666; font-size: 0.9rem; font-family: -apple-system, sans-serif; }
+    footer { text-align: center; padding: 2rem; color: #666; font-size: 0.95rem; font-family: var(--font-body); }
     
     .loading { color: #888; font-style: italic; }
   </style>
@@ -51,15 +224,15 @@
 <body>
 
 <header>
-  <h1>🏛️ Berner Reformation</h1>
-  <p>Digitale Edition der Predigten und Disputation</p>
+  <h1>Berner Reformation</h1>
+  <p>Digitaler Zugang zu Predigt und Disputation</p>
 </header>
 
 <nav>
-  <a href="#" class="active" onclick="showSection(event, 'home')">Startseite</a>
-  <a href="#" onclick="showSection(event, 'predigten')">Predigten</a>
-  <a href="#" onclick="showSection(event, 'disputation')">Disputation</a>
-  <a href="#" onclick="showSection(event, 'ressourcen')">Ressourcen</a>
+  <a href="#" class="active" data-section="home" onclick="showSection(event, 'home')">Startseite</a>
+  <a href="#" data-section="predigten" onclick="showSection(event, 'predigten')">Predigten</a>
+  <a href="#" data-section="disputation" onclick="showSection(event, 'disputation')">Disputation</a>
+  <a href="#" data-section="ressourcen" onclick="showSection(event, 'ressourcen')">Ressourcen</a>
 </nav>
 
 <main>
@@ -68,21 +241,21 @@
       <h2>Willkommen zur digitalen Edition</h2>
       <p>Diese Webseite präsentiert die Texte der Berner Reformation von 1528:</p>
       <ul>
-        <li><strong>Predigten</strong> — Die Predigten der fremden Prädikanten</li>
-        <li><strong>Disputation</strong> — Die Glaubensgespräche von 1528</li>
+        <li><strong><a href="#" onclick="showSection(event, 'predigten')">Predigten</a></strong> — Die Predigten der fremden Prädikanten</li>
+        <li><strong><a href="#" onclick="showSection(event, 'disputation')">Disputation</a></strong> — Die Glaubensgespräche von 1528</li>
       </ul>
       <p><em>Wählen Sie links eine Sektion aus, um zu beginnen.</em></p>
       
-      <h3>Quellen</h3>
+      <h3>Bildquellen</h3>
       <ul>
-        <li><strong>Predigten:</strong> <a href="https://www.e-rara.ch/i3f/v20/935411/manifest" target="_blank">e-rara.ch</a></li>
-        <li><strong>Disputation:</strong> <a href="https://www.e-rara.ch/i3f/v20/13106447/manifest" target="_blank">e-rara.ch</a></li>
+        <li><strong>Predigten:</strong> <a href="https://doi.org/10.3931/e-rara-3026" target="_blank">DOI: 10.3931/e-rara-3026</a></li>
+        <li><strong>Disputation:</strong> <a href="https://doi.org/10.3931/e-rara-47098" target="_blank">DOI: 10.3931/e-rara-47098</a></li>
       </ul>
     </div>
   </div>
 
   <div id="predigten" class="section-page">
-    <h2 style="color:#1a3a6b;margin-bottom:1rem;">Die Predigten (1528)</h2>
+    <h2 class="section-title">Die Predigten (1528)</h2>
     <div class="viewer-container">
       <div class="viewer-col">
         <div class="viewer-col-header">📜 Faksimile</div>
@@ -114,7 +287,7 @@
     <div class="intro">
       <h2>Disputation (in Vorbereitung)</h2>
       <p>Die Disputation zu Bern 1528 wird in Kürze verfügbar sein.</p>
-      <p>Quelle: <a href="https://www.e-rara.ch/i3f/v20/13106447/manifest" target="_blank">e-rara.ch</a></p>
+      <p>Quelle: <a href="https://doi.org/10.3931/e-rara-47098" target="_blank">DOI: 10.3931/e-rara-47098</a></p>
     </div>
   </div>
 
@@ -131,7 +304,7 @@
 </main>
 
 <footer>
-  <p>© 2026 Berner Reformation Digitale Edition — <a href="https://www.dh.unibe.ch">Digital Humanities, Universität Bern</a></p>
+  <p>Berner Reformation Digitale Edition — <a href="https://www.dh.unibe.ch">Digital Humanities</a></p>
   <p>Digitalisate: <a href="https://www.e-rara.ch">e-rara.ch</a> — CC-BY-SA</p>
 </footer>
 
@@ -155,8 +328,9 @@ function showSection(event, id) {
   document.querySelectorAll('.section-page').forEach(s => s.classList.remove('active'));
   document.getElementById(id).classList.add('active');
   document.querySelectorAll('nav a').forEach(a => a.classList.remove('active'));
-  if (event && event.currentTarget) {
-    event.currentTarget.classList.add('active');
+  const navLink = document.querySelector(`nav a[data-section="${id}"]`);
+  if (navLink) {
+    navLink.classList.add('active');
   }
 
   if (id === 'predigten') {
@@ -248,7 +422,17 @@ function update() {
   }
 }
 
+// Adds a subtle elevated state to the sticky navigation when scrolling.
+function updateNavElevation() {
+  const nav = document.querySelector('nav');
+  if (!nav) return;
+  nav.classList.toggle('scrolled', window.scrollY > 10);
+}
+
+window.addEventListener('scroll', updateNavElevation, { passive: true });
+
 // Initialize static UI state on first load.
+updateNavElevation();
 update();
 </script>
 
