@@ -1,0 +1,10 @@
+# Seite 11
+
+# Seite [11]
+
+wegen Krankheit zurücktreten musste, sind an seine Stelle zwei andere verordnet worden: nämlich der Herr Abt von Gottstatt (Prämonstratenserabtei bei Biel) und Meister Konrad Schmid, Komtur (Leiter einer Ordensniederlassung) zu Küsnacht im Zürcher Gebiet. Diese vier haben bis zum Ende des Gesprächs das Präsidentenamt verwaltet.
+
+Diese vier verordneten Schreiber: nämlich die beiden Stadtschreiber von Bern und Solothurn, der Gerichtsschreiber von Bern und der Stadtratsschreiber von Thun. Diese haben auch auf Treu und Glauben an Eides statt in die Hand des Herrn Schultheissen (Bürgermeister) von Bern gelobt, dass sie ohne Ansehen von Partei, Sekte, Gunst, Feindschaft, Liebe usw. alles, was mündlich vorgetragen [in die fåder geredt] oder schriftlich eingereicht wurde, getreulich und ohne Falsch [geuårde] aufzeichnen würden. Auch sollten sie verwalten, was ihnen befohlen würde.
+Sie haben auch jeden Disputanten namentlich aufgezeichnet und nach jeder Sitzung alles, was jeweils verzeichnet wurde, kollationiert, miteinander verglichen und vorgelesen.
+Dazu wurde alles, was die Disputanten beider Seiten mit Erlaubnis [nachlaß] der Präsidenten schriftlich einreichten, von den Schreibern in die Akten aufgenommen, ausgenommen zwei Protestationen, nämlich die von Fridli Brunner aus Glarus und die von Melchior Thilman aus Luzern, von denen bald darauf die Rede sein wird. Desgleichen wurden einige Reden, die zwar vorgetragen [in die fåder komen], aber mit Einwilligung beider Parteien wieder gelöscht wurden, ausgelassen. Auch wurden dergleichen Protestationen ausgelassen, die nicht mündlich vorgetragen [in die fådern geredt] wurden. Ebenso sind die Unterschriften beider Parteien hier nicht aufgenommen, damit die Akten gefälliger seien und der Leser nicht ermüde. Auch wurden die Dinge weggelassen, deren Lektüre und Anhörung für die Sache nicht sonderlich dienlich ist. So wurde in die Akten allein das aufgenommen, was für die Verhandlung von Bedeutung war.
+Was die vier Schreiber weiterhin taten, findet man in der Vereinbarung [Abred] der Herren Präsidenten, die unweit vom Ende dieser Akten niedergeschrieben steht.

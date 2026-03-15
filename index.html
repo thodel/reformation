@@ -136,30 +136,11 @@
 </footer>
 
 <script>
-// Page mapping: sequential index -> folio signature
-const PAGE_MAP = [
-  'Ir','Iv','IIr','IIv','IIIr','IIIv','IVr','IVv',
-  'Vr','Vv','VIr','VIv','VIIr','VIIv','VIIIr','VIIIv',
-  'IXr','IXv','Xr','Xv','XIr','XIv','XIIr','XIIv',
-  'XIIIr','XIIIv','XIVr','XIVv','XVr','XVv','XVIr','XVIv',
-  'XVIIr','XVIIv','XVIIIr','XVIIIv','XIXr','XIXv','XXr','XXv',
-  'XXIr','XXIv','XXIIr','XXIIv','XXIIIr','XXIIIv','XXIVr','XXIVv',
-  'XXVr','XXVv','XXVIr','XXVIv','XXVIIr','XXVIIv','XXVIIIr','XXVIIIv',
-  'XXIXr','XXIXv','XXXr','XXXv','XXXIr','XXXIv','XXXIIr','XXXIIv',
-  'XXXIIIr','XXXIIIv','XXXIVr','XXXIVv','XXXVr','XXXVv','XXXVIr','XXXVIv',
-  'XXXVIIr','XXXVIIv','XXXVIIIr','XXXVIIIv','XXXIXr','XXXIXv','XLr','XLv',
-  'XLIr','XLIv','XLIIr','XLIIv','XLIIIr','XLIIIv','XLIVr','XLIVv',
-  'XLVr','XLv','XLVIr','XLVIv','XLVIIr','XLVIIv','XLVIIIr','XLVIIIv',
-  'XLIXr','XLIXv','Lr','Lv','LIr','LIv','LIIr','LIIv',
-  'LIIIr','LIIIv','LIVr','LIVv','LVr','LVv','LVIr','LVIv',
-  'LVIIr','LVIIv','LVIIIr','LVIIIv','LIXr','LIXv','Lr','Lv',
-  'Lr','Lv','Lr','Lv','Lr','Lv','Lr','Lv',
-  'Lr','Lv'
-];
+// Page mapping: use page numbers from Nextcloud (page_1.md to page_28.md)
+const TOTAL_PAGES = 28;
 
 let viewer;
 let currentPageIndex = 0;
-const totalPages = PAGE_MAP.length;
 
 function showSection(id) {
   document.querySelectorAll('.section-page').forEach(s => s.classList.remove('active'));
@@ -186,9 +167,9 @@ function initViewer() {
 }
 
 async function loadTranslation() {
-  const folio = PAGE_MAP[currentPageIndex];
+  const pageNum = currentPageIndex + 1;
   try {
-    const response = await fetch(`data/predigten/translations/page_${folio}.md`);
+    const response = await fetch(`data/predigten/translations/page_${pageNum}.md`);
     if (response.ok) {
       const text = await response.text();
       document.getElementById('translation-content').innerHTML = text
@@ -217,17 +198,17 @@ function nextPage() {
 }
 
 function update() {
-  const folio = PAGE_MAP[currentPageIndex];
-  document.getElementById('page-info').textContent = `Seite ${folio}`;
+  const pageNum = currentPageIndex + 1;
+  document.getElementById('page-info').textContent = `Seite ${pageNum} von ${TOTAL_PAGES}`;
   document.getElementById('prev-btn').disabled = currentPageIndex === 0;
-  document.getElementById('next-btn').disabled = currentPageIndex === totalPages - 1;
+  document.getElementById('next-btn').disabled = currentPageIndex === TOTAL_PAGES - 1;
   
   loadTranslation();
   // Update Mirador canvas if available
   if (viewer && viewer.world && viewer.world.getItemAt) {
-    const canvas = "https://www.e-rara.ch/i3f/v20/935411/canvas/" + (935413 + currentPageIndex);
+    // Navigate to the corresponding canvas (0-indexed)
     try {
-      viewer.viewer.navigateToCanvas(canvas);
+      viewer.viewer.navigateToCanvas(currentPageIndex);
     } catch(e) {}
   }
 }

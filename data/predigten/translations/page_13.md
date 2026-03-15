@@ -1,0 +1,10 @@
+# Seite 13
+
+# Seite [13]
+
+gezwungen worden, sich für diese oder jene Partei zu unterschreiben, sondern es wurde jedem Einzelnen sein freier Wille gelassen.
+Es ist auch immer wieder zum Abschluss jedes Artikels ausgerufen worden, ob noch jemand anwesend sei, der weiter dazu oder dagegen reden wolle usw.
+Und so konnten sich von beiden Seiten (wie eben gesagt wurde) jeder nach seinem Belieben unterschreiben: sowohl diejenigen, die die Artikel alle oder einige [erlich] anfechten wollten, als auch diejenigen, die sie verteidigten und als gerecht und christlich erkannten. Bei dieser Unterschreibung wurde es der Kürze wegen (wie oben erwähnt) unterlassen, jeden mit seinem Namen zu benennen. Gott weiß, wer seinem Wort vertraut, denn er allein erkennt die Herzen der Menschen.
+Es ist auch zu wissen, dass am Anfang des Gesprächs ein öffentliches Aufrufen all derer stattgefunden hat, die zu diesem Gespräch angeschrieben und freundlich geladen worden waren, und zwar gemäß der Liste [laut des Aufschreibens].
+Als Erstes sind nacheinander die vier Bischöfe aufgerufen worden: von Konstanz, Basel, Wallis und Lausanne [Zosan], ob sie oder jemand in ihrem Auftrag zugegen wäre. Es hat niemand geantwortet, sondern alle vier haben sich schriftlich für ihr Ausbleiben entschuldigt. Darauf soll zu gegebener Zeit auch in gebührender Weise geantwortet werden, und insbesondere auf das vielfältige Schreiben des Bischofs von Lausanne, denn seine Gelehrten sind auch von der Obrigkeit zu Bern mehrmals gebeten und ersucht worden, sich zu dieser Disputation zu begeben. Und obwohl etliche seiner Doktoren hier anwesend waren, haben sie sich doch in keiner Weise bemerkbar gemacht, sondern sind stummer als die Fische von hier geschieden. Woran man erkennen kann, wie sehr solchen Hirten das Weiden der christlichen Herde am Herzen liegt – Gott sei es geklagt.
+Danach sind der Ordnung nach die Orte der Eidgenossenschaft und ihre Verwandten von Städten und anderen aufgerufen worden. Und es sind zugegen gewesen: von Zürich eine ehrsame Gesandtschaft,

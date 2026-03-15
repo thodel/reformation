@@ -1,0 +1,11 @@
+# Seite 16
+
+# Seite [16]
+
+Ferner hat Doktor Johannes Eck diese Disputation mit einer Schmähschrift angegriffen, in der er seinem neidischen Herzen Luft gemacht und viel mehr seine Natternzunge hervorgestreckt hat, als dass er christliche Liebe und Warnung gezeigt hätte. Er hat mit Unwahrheit die Lehre einer christlichen Obrigkeit der Stadt Bern belastet und auf so unmenschliche Weise gehandelt, dass es einer Antwort nicht wert ist. Gott gebe ihm Selbsterkenntnis. Ebenso hat auch Cochläus (Johannes Cochläus, ein katholischer Theologe) etliche Schriften zur Hinderung dieser Disputation verfasst, denen zu gegebener Zeit mit einer Antwort begegnet werden soll. Diese schrecklichen Helden haben sich trefflich gerüstet, aber nichts erreicht, denn der Glanz des Wortes Gottes hat sie geblendet und die weltliche Ehre hat sie verstockt [verstopfft]. Der Geiz hat sie ganz umgeben und die antichristlichen Satzungen haben sie gänzlich gefangen. Woran es ihnen gelegen war, kann sich ein jeder frommer Christ wohl denken.
+
+Auf all dies – und was zur Herabwürdigung dieser Akten [Acten] noch gegen diese Disputation geschrieben, geredet und verbreitet werden mag – wird (so Gott will) jederzeit mit Anstand und Besonnenheit [mitt glimpff vn fügen] geantwortet werden. Dies geschieht vorab zur Verteidigung der Ehre Gottes und seines heiligen Wortes, zur Rechtfertigung [entschüttung] des gegenwärtigen christlichen Verfahrens [handels] und auch zur Rettung und Bewahrung der Lehre der frommen christlichen Obrigkeit zu Bern.
+
+Ferner ist zu wissen: Als die welsche (französischsprachige) Disputation auf das Ende [der Hauptdisputation] verschoben war, ist ein welscher Doktor hervorgetreten, dem etliche welsche Pfaffen beistanden. Dieser hat über die zehn Schlussreden disputiert, und ihm hat Guillaume Farel (Guilielmus Pharellus), Prädikant (Prediger) zu Aigle [Elenn], darauf geantwortet. Dies wird zu gegebener Zeit auch in lateinischer Sprache im Druck erscheinen.
+
+So viel in kurzer Zusammenfassung zur Organisation dieser Disputation und zu dem, was sich währenddessen zugetragen hat. Das Übrige ist in den Akten [Actis] ausdrücklich festgehalten; es sei alles den christlichen Lesern und Zuhörern anempfohlen.
