@@ -1,6 +1,6 @@
 # Berner Reformation - Digitale Edition
 
-Web-Prototyp fuer eine digitale Edition zur Berner Reformation (1528) mit Fokus auf den Bereich **Predigten**.
+Web-Prototyp fuer eine digitale Edition zur Berner Reformation (1528) mit Fokus auf **Predigten** und **Disputation**.
 Die Anwendung kombiniert:
 - IIIF-Faksimile (OpenSeadragon, seitenbasiert)
 - Textspalte fuer Transkription (mit optionalem Named-Entity-Linking)
@@ -12,15 +12,23 @@ Implementiert:
 - Single-Page-Webapp in [`index.html`](index.html)
 - Navigation zwischen vier Bereichen: Startseite, Predigten, Disputation, Ressourcen
 - Predigten-Viewer mit OpenSeadragon (Canvas-Wechsel pro Seite aus IIIF-Manifest)
-- Seitennavigation fuer Bild + Transkription + Uebersetzung
+- Disputation-Viewer mit OpenSeadragon und Variantenumschaltung
+- Seitennavigation fuer Bild + Transkription + Uebersetzung (beide Bereiche)
 - Laden der Uebersetzungen aus `data/predigten/translations/`
 - Optionales Laden von Transkriptionen aus `data/predigten/transcriptions/`
 - Optionales Named-Entity-Linking via `data/predigten/entities/named_entities.json`
+- Disputations-Ansichten:
+  - Druck von 1528
+  - A V 1447: Schlussredaktion
+  - A V 1443: Hertwig
+  - A V 1444: Cyro
+  - A V 1445: Schoeni
+  - A V 1446: Ruemlang
 
 In Vorbereitung:
-- Disputation-Viewer
+- Vollstaendige Befuellung der Disputations-Manifeste fuer alle Handschriften
 - Personen-/Institutionsregister
-- Vollstaendige Transkriptionsspalte
+- Vollstaendige Transkriptionsspalten
 
 ## Projektstruktur
 
@@ -32,21 +40,29 @@ reformation/
 ├── docs/
 │   └── named-entity-linking.md
 └── data/
-    └── predigten/
-        ├── entities/
-        │   └── named_entities.json
-        ├── transcriptions/
-        │   └── page_<n>.md
-        └── translations/
-            ├── page_1.md
-            ├── page_2.md
-            └── ...
+    ├── predigten/
+    │   ├── entities/
+    │   │   └── named_entities.json
+    │   ├── transcriptions/
+    │   │   └── page_<n>.md
+    │   └── translations/
+    │       ├── page_1.md
+    │       ├── page_2.md
+    │       └── ...
+    └── disputation/
+        ├── druck_1528/
+        ├── a_v_1447_schlussredaktion/
+        ├── a_v_1443_hertwig/
+        ├── a_v_1444_cyro/
+        ├── a_v_1445_schoeni/
+        └── a_v_1446_ruemlang/
 ```
 
 Wichtige Dateien:
 - [`index.html`](index.html): komplette Frontend-Logik (HTML, CSS, JavaScript)
 - [`data/predigten/translations/`](data/predigten/translations): Uebersetzungsdateien als Markdown
 - [`data/predigten/entities/named_entities.json`](data/predigten/entities/named_entities.json): Alias- und Link-Index fuer Entitaeten
+- [`data/disputation/`](data/disputation): Variantenordner fuer die sechs Disputationsfassungen
 - [`docs/named-entity-linking.md`](docs/named-entity-linking.md): Vorgehen fuer Vollabdeckung aller Entitaeten
 - [`PROJEKTPLAN.md`](PROJEKTPLAN.md): Projektplanung und Roadmap
 
@@ -74,6 +90,9 @@ Hinweis: Fuer OpenSeadragon und Manifest-Zugriff ist Internetzugang erforderlich
 Dateinamen:
 - Uebersetzung: `data/predigten/translations/page_<nummer>.md`
 - Transkription: `data/predigten/transcriptions/page_<nummer>.md`
+- Disputation pro Variante analog:
+  - `data/disputation/<variante>/translations/page_<nummer>.md`
+  - `data/disputation/<variante>/transcriptions/page_<nummer>.md`
 
 Einfaches Markdown-Schema:
 - Zeilen mit `# ` werden als Abschnittstitel dargestellt
@@ -91,16 +110,16 @@ Lauftext der Uebersetzung...
 
 ## Technische Hinweise
 
-- Die Konstante `DEFAULT_TOTAL_PAGES` in [`index.html`](index.html) definiert den Fallback, bis die Seitenzahl aus dem Manifest geladen ist.
-- Der Manifest-Link ist in `PREDIGTEN_MANIFEST_URL` zentral konfiguriert.
-- Der Pfad zu den Uebersetzungen ist in `TRANSLATION_BASE_PATH` zentral konfiguriert.
-- Der Pfad zu Transkriptionen ist in `TRANSCRIPTION_BASE_PATH` konfiguriert.
-- Named-Entity-Linking nutzt `ENTITY_INDEX_PATH` (JSON mit `label`, `aliases`, `url`).
+- Die Konstante `PREDIGTEN_DEFAULT_TOTAL_PAGES` in [`index.html`](index.html) definiert den Fallback, bis die Seitenzahl aus dem Manifest geladen ist.
+- Predigten nutzt `PREDIGTEN_MANIFEST_URL`, `PREDIGTEN_TRANSLATION_BASE_PATH`, `PREDIGTEN_TRANSCRIPTION_BASE_PATH`.
+- Disputation wird ueber `DISPUTATION_VARIANTS` konfiguriert (Manifest + Datenpfade je Variante).
+- Named-Entity-Linking nutzt pro Bereich eine `named_entities.json` (mit `label`, `aliases`, `url`).
 
 ## Bekannte Einschraenkungen
 
 - Fuer Seiten ohne Datei in `data/predigten/transcriptions/` wird ein Platzhalter angezeigt.
 - Der Predigten-Bereich erwartet numerische Seiten (`page_1.md` bis `page_224.md`). Zusaetzliche Dateien mit roemischen Seitenbezeichnungen werden derzeit nicht automatisch verwendet.
+- Fuer Disputation sind aktuell nur die Datenpfade/Viewer-Struktur fuer alle 6 Varianten vorbereitet; fuer einige Varianten sind Manifest-Links noch nicht hinterlegt.
 - Keine Build-Pipeline, Tests oder Linting eingerichtet (statischer Prototyp).
 
 ## Quellen

@@ -185,6 +185,43 @@
       font-size: clamp(1.8rem, 2.8vw, 2.4rem);
       letter-spacing: 0.01em;
     }
+    .section-subtitle {
+      margin-top: -0.45rem;
+      margin-bottom: 1rem;
+      color: #2c537f;
+      font-weight: 600;
+    }
+    .variant-switcher {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+    }
+    .variant-link {
+      display: inline-block;
+      background: rgba(22, 54, 94, 0.08);
+      border: 1px solid rgba(26, 58, 107, 0.2);
+      color: #153a67;
+      text-decoration: none;
+      font-weight: 600;
+      padding: 0.45rem 0.7rem;
+      border-radius: 7px;
+      transition: all 0.18s ease;
+    }
+    .variant-link:hover {
+      background: rgba(26, 58, 107, 0.14);
+      border-color: rgba(26, 58, 107, 0.4);
+    }
+    .variant-link.active {
+      background: #1a3a6b;
+      border-color: #1a3a6b;
+      color: #fff;
+      box-shadow: 0 6px 14px rgba(20, 54, 95, 0.28);
+    }
+    .variant-link:focus-visible {
+      outline: 2px solid rgba(251, 191, 36, 0.9);
+      outline-offset: 2px;
+    }
 
     .page-nav {
       background: var(--panel);
@@ -232,14 +269,19 @@
       transform: none;
     }
     
-    #image-viewer-wrapper {
+    .image-viewer-wrapper {
       position: relative;
       width: 100%;
       height: 70vh;
       background: #000;
     }
-    #openseadragon { width: 100%; height: 100%; background: #000; }
-    #image-status {
+    #openseadragon,
+    #disputation-openseadragon {
+      width: 100%;
+      height: 100%;
+      background: #000;
+    }
+    .image-status {
       position: absolute;
       top: 50%;
       left: 50%;
@@ -253,7 +295,7 @@
       text-align: center;
       pointer-events: none;
     }
-    #image-status.hidden { display: none; }
+    .image-status.hidden { display: none; }
     
     footer { text-align: center; padding: 2rem; color: #666; font-size: 0.95rem; font-family: var(--font-body); }
     
@@ -300,9 +342,9 @@
       <div class="viewer-col">
         <div class="viewer-col-header">📜 Faksimile</div>
         <div class="viewer-col-content" style="padding:0;">
-          <div id="image-viewer-wrapper">
+          <div class="image-viewer-wrapper">
             <div id="openseadragon"></div>
-            <div id="image-status" class="loading">Lade Faksimile...</div>
+            <div id="predigten-image-status" class="image-status loading">Lade Faksimile...</div>
           </div>
         </div>
       </div>
@@ -327,10 +369,46 @@
   </div>
 
   <div id="disputation" class="section-page">
-    <div class="intro">
-      <h2>Disputation (in Vorbereitung)</h2>
-      <p>Die Disputation zu Bern 1528 wird in Kürze verfügbar sein.</p>
-      <p>Quelle: <a href="https://doi.org/10.3931/e-rara-47098" target="_blank">DOI: 10.3931/e-rara-47098</a></p>
+    <h2 class="section-title">Disputation</h2>
+    <p class="section-subtitle" id="disputation-variant-title">Disputation — Druck von 1528</p>
+    <div class="variant-switcher">
+      <a href="#" class="variant-link active" data-disputation-variant="druck-1528" onclick="switchDisputationVariant(event, 'druck-1528')">1) Druck von 1528</a>
+      <a href="#" class="variant-link" data-disputation-variant="a-v-1447" onclick="switchDisputationVariant(event, 'a-v-1447')">2) A V 1447: Schlussredaktion</a>
+      <a href="#" class="variant-link" data-disputation-variant="a-v-1443" onclick="switchDisputationVariant(event, 'a-v-1443')">3) A V 1443: Hertwig</a>
+      <a href="#" class="variant-link" data-disputation-variant="a-v-1444" onclick="switchDisputationVariant(event, 'a-v-1444')">4) A V 1444: Cyro</a>
+      <a href="#" class="variant-link" data-disputation-variant="a-v-1445" onclick="switchDisputationVariant(event, 'a-v-1445')">5) A V 1445: Schöni</a>
+      <a href="#" class="variant-link" data-disputation-variant="a-v-1446" onclick="switchDisputationVariant(event, 'a-v-1446')">6) A V 1446: Rümlang</a>
+    </div>
+    <div class="viewer-container">
+      <div class="viewer-col">
+        <div class="viewer-col-header">📜 Faksimile</div>
+        <div class="viewer-col-content" style="padding:0;">
+          <div class="image-viewer-wrapper">
+            <div id="disputation-openseadragon"></div>
+            <div id="disputation-image-status" class="image-status loading">Lade Faksimile...</div>
+          </div>
+        </div>
+      </div>
+      <div class="viewer-col">
+        <div class="viewer-col-header">✍️ Transkription (Frühneuhochdeutsch)</div>
+        <div class="viewer-col-content transcription" id="disputation-transcription-content">
+          <p class="loading">Lade Transkription...</p>
+        </div>
+      </div>
+      <div class="viewer-col">
+        <div class="viewer-col-header">🇩🇪 Übersetzung (Modernes Deutsch)</div>
+        <div class="viewer-col-content translation" id="disputation-translation-content">
+          <p class="loading">Lade Übersetzung...</p>
+        </div>
+      </div>
+    </div>
+    <div class="page-nav">
+      <button onclick="prevDisputationPage()" id="disputation-prev-btn">← Zurück</button>
+      <span id="disputation-page-info">Seite 1 von 1</span>
+      <button onclick="nextDisputationPage()" id="disputation-next-btn">Weiter →</button>
+    </div>
+    <div class="intro" style="margin-top: 1rem;">
+      <p>Bildquelle (Druck): <a href="https://doi.org/10.3931/e-rara-47098" target="_blank">DOI: 10.3931/e-rara-47098</a></p>
     </div>
   </div>
 
@@ -352,24 +430,96 @@
 </footer>
 
 <script>
-// Predigten viewer configuration.
-const DEFAULT_TOTAL_PAGES = 224;
-const PREDIGTEN_MANIFEST_URL = "https://www.e-rara.ch/i3f/v20/935411/manifest";
-const TRANSLATION_BASE_PATH = "data/predigten/translations";
-const TRANSCRIPTION_BASE_PATH = "data/predigten/transcriptions";
-const ENTITY_INDEX_PATH = "data/predigten/entities/named_entities.json";
 const OSD_PREFIX_URL = "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/images/";
 
-let viewer;
-let currentPageIndex = 0;
-let totalPages = DEFAULT_TOTAL_PAGES;
-let canvasTileSources = [];
-let manifestPromise;
-let viewerPageToken = 0;
-let entityRulesPromise;
+// Predigten configuration.
+const PREDIGTEN_DEFAULT_TOTAL_PAGES = 224;
+const PREDIGTEN_MANIFEST_URL = "https://www.e-rara.ch/i3f/v20/935411/manifest";
+const PREDIGTEN_TRANSLATION_BASE_PATH = "data/predigten/translations";
+const PREDIGTEN_TRANSCRIPTION_BASE_PATH = "data/predigten/transcriptions";
+const PREDIGTEN_ENTITY_INDEX_PATH = "data/predigten/entities/named_entities.json";
+
+// Disputation configurations.
+const DISPUTATION_VARIANTS = [
+  {
+    id: "druck-1528",
+    label: "Druck von 1528",
+    manifestUrl: "https://www.e-rara.ch/i3f/v20/13106447/manifest",
+    defaultTotalPages: 1,
+    transcriptionBasePath: "data/disputation/druck_1528/transcriptions",
+    translationBasePath: "data/disputation/druck_1528/translations",
+    entityIndexPath: "data/disputation/druck_1528/entities/named_entities.json"
+  },
+  {
+    id: "a-v-1447",
+    label: "A V 1447: Schlussredaktion",
+    manifestUrl: null,
+    defaultTotalPages: 1,
+    transcriptionBasePath: "data/disputation/a_v_1447_schlussredaktion/transcriptions",
+    translationBasePath: "data/disputation/a_v_1447_schlussredaktion/translations",
+    entityIndexPath: "data/disputation/a_v_1447_schlussredaktion/entities/named_entities.json"
+  },
+  {
+    id: "a-v-1443",
+    label: "A V 1443: Hertwig",
+    manifestUrl: null,
+    defaultTotalPages: 1,
+    transcriptionBasePath: "data/disputation/a_v_1443_hertwig/transcriptions",
+    translationBasePath: "data/disputation/a_v_1443_hertwig/translations",
+    entityIndexPath: "data/disputation/a_v_1443_hertwig/entities/named_entities.json"
+  },
+  {
+    id: "a-v-1444",
+    label: "A V 1444: Cyro",
+    manifestUrl: null,
+    defaultTotalPages: 1,
+    transcriptionBasePath: "data/disputation/a_v_1444_cyro/transcriptions",
+    translationBasePath: "data/disputation/a_v_1444_cyro/translations",
+    entityIndexPath: "data/disputation/a_v_1444_cyro/entities/named_entities.json"
+  },
+  {
+    id: "a-v-1445",
+    label: "A V 1445: Schöni",
+    manifestUrl: null,
+    defaultTotalPages: 1,
+    transcriptionBasePath: "data/disputation/a_v_1445_schoeni/transcriptions",
+    translationBasePath: "data/disputation/a_v_1445_schoeni/translations",
+    entityIndexPath: "data/disputation/a_v_1445_schoeni/entities/named_entities.json"
+  },
+  {
+    id: "a-v-1446",
+    label: "A V 1446: Rümlang",
+    manifestUrl: null,
+    defaultTotalPages: 1,
+    transcriptionBasePath: "data/disputation/a_v_1446_ruemlang/transcriptions",
+    translationBasePath: "data/disputation/a_v_1446_ruemlang/translations",
+    entityIndexPath: "data/disputation/a_v_1446_ruemlang/entities/named_entities.json"
+  }
+];
+
+const entityRulePromises = new Map();
+
+const predigtenState = {
+  viewer: null,
+  currentPageIndex: 0,
+  totalPages: PREDIGTEN_DEFAULT_TOTAL_PAGES,
+  canvasTileSources: [],
+  manifestPromise: null,
+  viewerPageToken: 0
+};
+
+const disputationState = {
+  viewer: null,
+  variantId: DISPUTATION_VARIANTS[0].id,
+  currentPageIndex: 0,
+  totalPages: DISPUTATION_VARIANTS[0].defaultTotalPages,
+  canvasTileSources: [],
+  manifestPromise: null,
+  viewerPageToken: 0
+};
 
 function escapeHtml(value) {
-  return value
+  return String(value)
     .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
@@ -378,141 +528,61 @@ function escapeHtml(value) {
 }
 
 function escapeRegExp(value) {
-  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  return String(value).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
-function setImageStatus(message) {
-  const status = document.getElementById('image-status');
+function setImageStatus(statusId, message) {
+  const status = document.getElementById(statusId);
   if (!status) return;
   status.textContent = message;
   status.classList.remove('hidden');
 }
 
-function clearImageStatus() {
-  const status = document.getElementById('image-status');
+function clearImageStatus(statusId) {
+  const status = document.getElementById(statusId);
   if (!status) return;
   status.classList.add('hidden');
-}
-
-// Switches the main content section and initializes the page-synchronized viewer on demand.
-function showSection(event, id) {
-  if (event) {
-    event.preventDefault();
-  }
-
-  document.querySelectorAll('.section-page').forEach((s) => s.classList.remove('active'));
-  document.getElementById(id).classList.add('active');
-  document.querySelectorAll('nav a').forEach((a) => a.classList.remove('active'));
-  const navLink = document.querySelector(`nav a[data-section="${id}"]`);
-  if (navLink) {
-    navLink.classList.add('active');
-  }
-
-  if (id === 'predigten') {
-    initViewer();
-    update();
-  }
 }
 
 function getCanvasTileSource(canvas) {
   const images = canvas && Array.isArray(canvas.images) ? canvas.images : [];
   const resource = images[0] && images[0].resource ? images[0].resource : null;
-  if (!resource) {
-    return null;
-  }
+  if (!resource) return null;
 
   const service = resource.service || null;
   const serviceId = typeof service === 'string'
     ? service
     : (service && (service['@id'] || service.id));
+
   if (serviceId) {
     return `${serviceId.replace(/\/$/, '')}/info.json`;
   }
-
   return resource['@id'] || resource.id || null;
 }
 
-async function ensureManifestData() {
-  if (manifestPromise) {
-    return manifestPromise;
+async function fetchManifestCanvasSources(manifestUrl) {
+  const response = await fetch(manifestUrl);
+  if (!response.ok) {
+    throw new Error(`Manifest konnte nicht geladen werden (HTTP ${response.status}).`);
   }
 
-  manifestPromise = (async () => {
-    const response = await fetch(PREDIGTEN_MANIFEST_URL);
-    if (!response.ok) {
-      throw new Error(`Manifest konnte nicht geladen werden (HTTP ${response.status}).`);
-    }
-
-    const manifest = await response.json();
-    const sequences = Array.isArray(manifest.sequences) ? manifest.sequences : [];
-    const canvases = sequences[0] && Array.isArray(sequences[0].canvases) ? sequences[0].canvases : [];
-    canvasTileSources = canvases.map(getCanvasTileSource).filter(Boolean);
-
-    if (canvasTileSources.length > 0) {
-      totalPages = canvasTileSources.length;
-      if (currentPageIndex > totalPages - 1) {
-        currentPageIndex = totalPages - 1;
-      }
-    }
-  })().catch((error) => {
-    manifestPromise = null;
-    throw error;
-  });
-
-  return manifestPromise;
+  const manifest = await response.json();
+  const sequences = Array.isArray(manifest.sequences) ? manifest.sequences : [];
+  const canvases = sequences[0] && Array.isArray(sequences[0].canvases) ? sequences[0].canvases : [];
+  return canvases.map(getCanvasTileSource).filter(Boolean);
 }
 
-// Creates the OpenSeadragon instance once and keeps it for page navigation.
-function initViewer() {
-  if (viewer) return;
-
-  viewer = OpenSeadragon({
-    id: "openseadragon",
-    prefixUrl: OSD_PREFIX_URL,
-    showNavigator: true,
-    visibilityRatio: 1,
-    constrainDuringPan: true,
-    maxZoomPixelRatio: 2
-  });
-
-  viewer.addHandler('open', () => clearImageStatus());
-  viewer.addHandler('open-failed', () => setImageStatus('Faksimile konnte nicht geladen werden.'));
-
-  setImageStatus('Lade Faksimile...');
-  updateViewerPage();
-}
-
-async function updateViewerPage() {
-  if (!viewer) return;
-
-  const token = ++viewerPageToken;
-  setImageStatus('Lade Faksimile...');
-  try {
-    await ensureManifestData();
-    if (token !== viewerPageToken || !viewer) return;
-
-    const tileSource = canvasTileSources[currentPageIndex];
-    if (!tileSource) {
-      viewer.close();
-      setImageStatus('Faksimile für diese Seite nicht verfügbar.');
-      return;
-    }
-    viewer.open(tileSource);
-  } catch (error) {
-    if (token !== viewerPageToken || !viewer) return;
-    viewer.close();
-    setImageStatus('Faksimile konnte nicht geladen werden.');
+async function loadEntityRules(indexPath) {
+  if (!indexPath) {
+    return [];
   }
-}
-
-async function loadEntityRules() {
-  if (entityRulesPromise) {
-    return entityRulesPromise;
+  if (entityRulePromises.has(indexPath)) {
+    return entityRulePromises.get(indexPath);
   }
 
-  entityRulesPromise = (async () => {
+  const promise = (async () => {
     try {
-      const response = await fetch(ENTITY_INDEX_PATH);
+      const response = await fetch(indexPath);
       if (!response.ok) {
         return [];
       }
@@ -563,7 +633,8 @@ async function loadEntityRules() {
     }
   })();
 
-  return entityRulesPromise;
+  entityRulePromises.set(indexPath, promise);
+  return promise;
 }
 
 function linkEntityMentions(escapedText, rules) {
@@ -601,30 +672,117 @@ function renderMarkdown(markdownText, options = {}) {
     .join('<br>');
 }
 
-async function loadTranscription() {
-  const pageNum = currentPageIndex + 1;
+// Main section switching.
+function showSection(event, id) {
+  if (event) {
+    event.preventDefault();
+  }
+
+  document.querySelectorAll('.section-page').forEach((s) => s.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  document.querySelectorAll('nav a').forEach((a) => a.classList.remove('active'));
+  const navLink = document.querySelector(`nav a[data-section="${id}"]`);
+  if (navLink) {
+    navLink.classList.add('active');
+  }
+
+  if (id === 'predigten') {
+    initPredigtenViewer();
+    updatePredigten();
+  } else if (id === 'disputation') {
+    initDisputationViewer();
+    updateDisputation();
+  }
+}
+
+// Predigten viewer.
+async function ensurePredigtenManifestData() {
+  if (predigtenState.manifestPromise) {
+    return predigtenState.manifestPromise;
+  }
+
+  predigtenState.manifestPromise = (async () => {
+    predigtenState.canvasTileSources = await fetchManifestCanvasSources(PREDIGTEN_MANIFEST_URL);
+    if (predigtenState.canvasTileSources.length > 0) {
+      predigtenState.totalPages = predigtenState.canvasTileSources.length;
+      if (predigtenState.currentPageIndex > predigtenState.totalPages - 1) {
+        predigtenState.currentPageIndex = predigtenState.totalPages - 1;
+      }
+    }
+  })().catch((error) => {
+    predigtenState.manifestPromise = null;
+    throw error;
+  });
+
+  return predigtenState.manifestPromise;
+}
+
+function initPredigtenViewer() {
+  if (predigtenState.viewer) return;
+
+  predigtenState.viewer = OpenSeadragon({
+    id: "openseadragon",
+    prefixUrl: OSD_PREFIX_URL,
+    showNavigator: true,
+    visibilityRatio: 1,
+    constrainDuringPan: true,
+    maxZoomPixelRatio: 2
+  });
+
+  predigtenState.viewer.addHandler('open', () => clearImageStatus('predigten-image-status'));
+  predigtenState.viewer.addHandler('open-failed', () => setImageStatus('predigten-image-status', 'Faksimile konnte nicht geladen werden.'));
+
+  setImageStatus('predigten-image-status', 'Lade Faksimile...');
+  updatePredigtenViewerPage();
+}
+
+async function updatePredigtenViewerPage() {
+  if (!predigtenState.viewer) return;
+
+  const token = ++predigtenState.viewerPageToken;
+  setImageStatus('predigten-image-status', 'Lade Faksimile...');
+  try {
+    await ensurePredigtenManifestData();
+    if (token !== predigtenState.viewerPageToken || !predigtenState.viewer) return;
+
+    const tileSource = predigtenState.canvasTileSources[predigtenState.currentPageIndex];
+    if (!tileSource) {
+      predigtenState.viewer.close();
+      setImageStatus('predigten-image-status', 'Faksimile für diese Seite nicht verfügbar.');
+      return;
+    }
+    predigtenState.viewer.open(tileSource);
+  } catch (error) {
+    if (token !== predigtenState.viewerPageToken || !predigtenState.viewer) return;
+    predigtenState.viewer.close();
+    setImageStatus('predigten-image-status', 'Faksimile konnte nicht geladen werden.');
+  }
+}
+
+async function loadPredigtenTranscription() {
+  const pageNum = predigtenState.currentPageIndex + 1;
   const container = document.getElementById('transcription-content');
 
   try {
-    const response = await fetch(`${TRANSCRIPTION_BASE_PATH}/page_${pageNum}.md`);
+    const response = await fetch(`${PREDIGTEN_TRANSCRIPTION_BASE_PATH}/page_${pageNum}.md`);
     if (!response.ok) {
       container.innerHTML = '<p>Transkription für diese Seite noch nicht verfügbar.</p>';
       return;
     }
 
-    const [text, entityRules] = await Promise.all([response.text(), loadEntityRules()]);
+    const [text, entityRules] = await Promise.all([response.text(), loadEntityRules(PREDIGTEN_ENTITY_INDEX_PATH)]);
     container.innerHTML = renderMarkdown(text, { linkEntities: true, entityRules });
   } catch (error) {
     container.innerHTML = '<p>Fehler beim Laden der Transkription.</p>';
   }
 }
 
-async function loadTranslation() {
-  const pageNum = currentPageIndex + 1;
+async function loadPredigtenTranslation() {
+  const pageNum = predigtenState.currentPageIndex + 1;
   const container = document.getElementById('translation-content');
 
   try {
-    const response = await fetch(`${TRANSLATION_BASE_PATH}/page_${pageNum}.md`);
+    const response = await fetch(`${PREDIGTEN_TRANSLATION_BASE_PATH}/page_${pageNum}.md`);
     if (!response.ok) {
       container.innerHTML = '<p>Übersetzung nicht verfügbar.</p>';
       return;
@@ -637,48 +795,236 @@ async function loadTranslation() {
   }
 }
 
-// Navigate one page backward if possible.
 function prevPage() {
-  if (currentPageIndex > 0) {
-    currentPageIndex--;
-    update();
+  if (predigtenState.currentPageIndex > 0) {
+    predigtenState.currentPageIndex--;
+    updatePredigten();
   }
 }
 
-// Navigate one page forward if possible.
 function nextPage() {
-  if (currentPageIndex < totalPages - 1) {
-    currentPageIndex++;
-    update();
+  if (predigtenState.currentPageIndex < predigtenState.totalPages - 1) {
+    predigtenState.currentPageIndex++;
+    updatePredigten();
   }
 }
 
-// Synchronizes UI state (buttons, labels, transcription, translation, image page) with currentPageIndex.
-function update() {
-  const pageNum = currentPageIndex + 1;
-  document.getElementById('page-info').textContent = `Seite ${pageNum} von ${totalPages}`;
-  document.getElementById('prev-btn').disabled = currentPageIndex === 0;
-  document.getElementById('next-btn').disabled = currentPageIndex === totalPages - 1;
+function updatePredigten() {
+  const pageNum = predigtenState.currentPageIndex + 1;
+  document.getElementById('page-info').textContent = `Seite ${pageNum} von ${predigtenState.totalPages}`;
+  document.getElementById('prev-btn').disabled = predigtenState.currentPageIndex === 0;
+  document.getElementById('next-btn').disabled = predigtenState.currentPageIndex === predigtenState.totalPages - 1;
 
-  const predigtenActive = document.getElementById('predigten').classList.contains('active');
-  if (!predigtenActive) {
+  if (!document.getElementById('predigten').classList.contains('active')) {
     return;
   }
 
-  loadTranscription();
-  loadTranslation();
-  updateViewerPage();
+  loadPredigtenTranscription();
+  loadPredigtenTranslation();
+  updatePredigtenViewerPage();
 
-  // Refresh page count if manifest arrives after initial render.
-  ensureManifestData()
+  ensurePredigtenManifestData()
     .then(() => {
-      document.getElementById('page-info').textContent = `Seite ${currentPageIndex + 1} von ${totalPages}`;
-      document.getElementById('next-btn').disabled = currentPageIndex === totalPages - 1;
+      document.getElementById('page-info').textContent = `Seite ${predigtenState.currentPageIndex + 1} von ${predigtenState.totalPages}`;
+      document.getElementById('next-btn').disabled = predigtenState.currentPageIndex === predigtenState.totalPages - 1;
     })
     .catch(() => {});
 }
 
-// Adds a subtle elevated state to the sticky navigation when scrolling.
+// Disputation viewer.
+function getCurrentDisputationVariant() {
+  return DISPUTATION_VARIANTS.find((variant) => variant.id === disputationState.variantId) || DISPUTATION_VARIANTS[0];
+}
+
+function setActiveDisputationVariantLink(variantId) {
+  document.querySelectorAll('[data-disputation-variant]').forEach((link) => {
+    link.classList.toggle('active', link.getAttribute('data-disputation-variant') === variantId);
+  });
+}
+
+function updateDisputationVariantTitle() {
+  const variant = getCurrentDisputationVariant();
+  const title = document.getElementById('disputation-variant-title');
+  if (title) {
+    title.textContent = `Disputation — ${variant.label}`;
+  }
+}
+
+function resetDisputationVariantState() {
+  const variant = getCurrentDisputationVariant();
+  disputationState.currentPageIndex = 0;
+  disputationState.totalPages = variant.defaultTotalPages || 1;
+  disputationState.canvasTileSources = [];
+  disputationState.manifestPromise = null;
+  disputationState.viewerPageToken = 0;
+}
+
+function switchDisputationVariant(event, variantId) {
+  if (event) {
+    event.preventDefault();
+  }
+  if (!DISPUTATION_VARIANTS.some((variant) => variant.id === variantId)) {
+    return;
+  }
+
+  disputationState.variantId = variantId;
+  resetDisputationVariantState();
+  setActiveDisputationVariantLink(variantId);
+  updateDisputationVariantTitle();
+
+  initDisputationViewer();
+  updateDisputation();
+}
+
+async function ensureDisputationManifestData() {
+  const variant = getCurrentDisputationVariant();
+  if (!variant.manifestUrl) {
+    disputationState.canvasTileSources = [];
+    disputationState.totalPages = variant.defaultTotalPages || 1;
+    return;
+  }
+
+  if (disputationState.manifestPromise) {
+    return disputationState.manifestPromise;
+  }
+
+  disputationState.manifestPromise = (async () => {
+    disputationState.canvasTileSources = await fetchManifestCanvasSources(variant.manifestUrl);
+    if (disputationState.canvasTileSources.length > 0) {
+      disputationState.totalPages = disputationState.canvasTileSources.length;
+    } else {
+      disputationState.totalPages = variant.defaultTotalPages || 1;
+    }
+  })().catch((error) => {
+    disputationState.manifestPromise = null;
+    throw error;
+  });
+
+  return disputationState.manifestPromise;
+}
+
+function initDisputationViewer() {
+  if (disputationState.viewer) return;
+
+  disputationState.viewer = OpenSeadragon({
+    id: "disputation-openseadragon",
+    prefixUrl: OSD_PREFIX_URL,
+    showNavigator: true,
+    visibilityRatio: 1,
+    constrainDuringPan: true,
+    maxZoomPixelRatio: 2
+  });
+
+  disputationState.viewer.addHandler('open', () => clearImageStatus('disputation-image-status'));
+  disputationState.viewer.addHandler('open-failed', () => setImageStatus('disputation-image-status', 'Faksimile konnte nicht geladen werden.'));
+}
+
+async function updateDisputationViewerPage() {
+  if (!disputationState.viewer) return;
+
+  const variant = getCurrentDisputationVariant();
+  if (!variant.manifestUrl) {
+    disputationState.viewer.close();
+    setImageStatus('disputation-image-status', 'Bildquelle für diese Fassung noch nicht konfiguriert.');
+    return;
+  }
+
+  const token = ++disputationState.viewerPageToken;
+  setImageStatus('disputation-image-status', 'Lade Faksimile...');
+  try {
+    await ensureDisputationManifestData();
+    if (token !== disputationState.viewerPageToken || !disputationState.viewer) return;
+
+    const tileSource = disputationState.canvasTileSources[disputationState.currentPageIndex];
+    if (!tileSource) {
+      disputationState.viewer.close();
+      setImageStatus('disputation-image-status', 'Faksimile für diese Seite nicht verfügbar.');
+      return;
+    }
+    disputationState.viewer.open(tileSource);
+  } catch (error) {
+    if (token !== disputationState.viewerPageToken || !disputationState.viewer) return;
+    disputationState.viewer.close();
+    setImageStatus('disputation-image-status', 'Faksimile konnte nicht geladen werden.');
+  }
+}
+
+async function loadDisputationTranscription() {
+  const variant = getCurrentDisputationVariant();
+  const pageNum = disputationState.currentPageIndex + 1;
+  const container = document.getElementById('disputation-transcription-content');
+
+  try {
+    const response = await fetch(`${variant.transcriptionBasePath}/page_${pageNum}.md`);
+    if (!response.ok) {
+      container.innerHTML = '<p>Transkription für diese Fassung/Seite noch nicht verfügbar.</p>';
+      return;
+    }
+
+    const [text, entityRules] = await Promise.all([response.text(), loadEntityRules(variant.entityIndexPath)]);
+    container.innerHTML = renderMarkdown(text, { linkEntities: true, entityRules });
+  } catch (error) {
+    container.innerHTML = '<p>Fehler beim Laden der Transkription.</p>';
+  }
+}
+
+async function loadDisputationTranslation() {
+  const variant = getCurrentDisputationVariant();
+  const pageNum = disputationState.currentPageIndex + 1;
+  const container = document.getElementById('disputation-translation-content');
+
+  try {
+    const response = await fetch(`${variant.translationBasePath}/page_${pageNum}.md`);
+    if (!response.ok) {
+      container.innerHTML = '<p>Übersetzung für diese Fassung/Seite noch nicht verfügbar.</p>';
+      return;
+    }
+
+    const text = await response.text();
+    container.innerHTML = renderMarkdown(text);
+  } catch (error) {
+    container.innerHTML = '<p>Fehler beim Laden der Übersetzung.</p>';
+  }
+}
+
+function prevDisputationPage() {
+  if (disputationState.currentPageIndex > 0) {
+    disputationState.currentPageIndex--;
+    updateDisputation();
+  }
+}
+
+function nextDisputationPage() {
+  if (disputationState.currentPageIndex < disputationState.totalPages - 1) {
+    disputationState.currentPageIndex++;
+    updateDisputation();
+  }
+}
+
+function updateDisputation() {
+  const pageNum = disputationState.currentPageIndex + 1;
+  document.getElementById('disputation-page-info').textContent = `Seite ${pageNum} von ${disputationState.totalPages}`;
+  document.getElementById('disputation-prev-btn').disabled = disputationState.currentPageIndex === 0;
+  document.getElementById('disputation-next-btn').disabled = disputationState.currentPageIndex === disputationState.totalPages - 1;
+
+  if (!document.getElementById('disputation').classList.contains('active')) {
+    return;
+  }
+
+  updateDisputationVariantTitle();
+  loadDisputationTranscription();
+  loadDisputationTranslation();
+  updateDisputationViewerPage();
+
+  ensureDisputationManifestData()
+    .then(() => {
+      document.getElementById('disputation-page-info').textContent = `Seite ${disputationState.currentPageIndex + 1} von ${disputationState.totalPages}`;
+      document.getElementById('disputation-next-btn').disabled = disputationState.currentPageIndex === disputationState.totalPages - 1;
+    })
+    .catch(() => {});
+}
+
+// Sticky nav effect.
 function updateNavElevation() {
   const nav = document.querySelector('nav');
   if (!nav) return;
@@ -687,9 +1033,16 @@ function updateNavElevation() {
 
 window.addEventListener('scroll', updateNavElevation, { passive: true });
 
-// Initialize static UI state on first load.
+function initializeDisputationVariantUi() {
+  setActiveDisputationVariantLink(disputationState.variantId);
+  updateDisputationVariantTitle();
+}
+
+// Initial UI setup.
 updateNavElevation();
-update();
+initializeDisputationVariantUi();
+updatePredigten();
+updateDisputation();
 </script>
 
 </body>
