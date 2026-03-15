@@ -15,7 +15,7 @@ Implementiert:
 - Disputation-Viewer mit OpenSeadragon und Variantenumschaltung
 - Disputation kann pro Variante aus lokalem `viewer_manifest.json` gespeist werden (Transkribus-Export)
 - Seitennavigation fuer Bild + Transkription + Uebersetzung (beide Bereiche)
-- Laden der Uebersetzungen aus `data/predigten/translations/`
+- Laden der Uebersetzungen aus den jeweiligen Bereichspfaden (Predigten/Disputation)
 - Optionales Laden von Transkriptionen aus `data/predigten/transcriptions/`
 - Optionales Named-Entity-Linking via `data/predigten/entities/named_entities.json`
 - Disputations-Ansichten:
@@ -51,9 +51,7 @@ reformation/
     │   ├── transcriptions/
     │   │   └── page_<n>.md
     │   └── translations/
-    │       ├── page_1.md
-    │       ├── page_2.md
-    │       └── ...
+    │       └── README.md
     └── disputation/
         ├── druck_1528/
         ├── a_v_1447_schlussredaktion/
@@ -68,7 +66,7 @@ Wichtige Dateien:
 - [`scripts/sync_disputation_transkribus.py`](scripts/sync_disputation_transkribus.py): Sync von Bildern + PAGE XML + Zeilenkoordinaten aus Transkribus
 - [`scripts/check_transkribus_credentials.py`](scripts/check_transkribus_credentials.py): Schneller Login-/Dokumentzugriffstest fuer Transkribus
 - [`config/disputation_transkribus.example.json`](config/disputation_transkribus.example.json): Vorlage fuer Collection-/Document-IDs
-- [`data/predigten/translations/`](data/predigten/translations): Uebersetzungsdateien als Markdown
+- [`data/predigten/translations/`](data/predigten/translations): Zielordner fuer Predigten-Uebersetzungen
 - [`data/predigten/entities/named_entities.json`](data/predigten/entities/named_entities.json): Alias- und Link-Index fuer Entitaeten
 - [`data/disputation/`](data/disputation): Variantenordner fuer die sechs Disputationsfassungen
 - [`docs/named-entity-linking.md`](docs/named-entity-linking.md): Vorgehen fuer Vollabdeckung aller Entitaeten
@@ -129,6 +127,7 @@ Lauftext der Uebersetzung...
 ## Bekannte Einschraenkungen
 
 - Fuer Seiten ohne Datei in `data/predigten/transcriptions/` wird ein Platzhalter angezeigt.
+- Fuer Predigten sind derzeit keine finalen Uebersetzungen hinterlegt; es wird ein Platzhalter angezeigt.
 - Der Predigten-Bereich erwartet numerische Seiten (`page_1.md` bis `page_224.md`). Zusaetzliche Dateien mit roemischen Seitenbezeichnungen werden derzeit nicht automatisch verwendet.
 - Fuer Varianten ohne IIIF-Manifest ist ein vorheriger Transkribus-Sync notwendig.
 - Keine Build-Pipeline, Tests oder Linting eingerichtet (statischer Prototyp).

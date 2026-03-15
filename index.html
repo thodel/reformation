@@ -743,6 +743,16 @@ function renderMarkdown(markdownText, options = {}) {
     .join('<br>');
 }
 
+function isMissingTranslationContent(text) {
+  if (typeof text !== 'string') return true;
+  const trimmed = text.trim();
+  if (!trimmed) return true;
+  if (/^<\?xml/i.test(trimmed) && /sabredav|<d:error|<s:exception>/i.test(trimmed)) {
+    return true;
+  }
+  return false;
+}
+
 // Main section switching.
 function showSection(event, id) {
   if (event) {
@@ -860,6 +870,10 @@ async function loadPredigtenTranslation() {
     }
 
     const text = await response.text();
+    if (isMissingTranslationContent(text)) {
+      container.innerHTML = '<p>Übersetzung nicht verfügbar.</p>';
+      return;
+    }
     container.innerHTML = renderMarkdown(text);
   } catch (error) {
     container.innerHTML = '<p>Fehler beim Laden der Übersetzung.</p>';
@@ -1250,6 +1264,10 @@ async function loadDisputationTranslation() {
     }
 
     const text = await response.text();
+    if (isMissingTranslationContent(text)) {
+      container.innerHTML = '<p>Übersetzung für diese Fassung/Seite noch nicht verfügbar.</p>';
+      return;
+    }
     container.innerHTML = renderMarkdown(text);
   } catch (error) {
     container.innerHTML = '<p>Fehler beim Laden der Übersetzung.</p>';
