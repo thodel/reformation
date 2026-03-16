@@ -1087,7 +1087,11 @@ async function updateDisputationViewerPage() {
         : 'Bildquelle für diese Fassung noch nicht konfiguriert.');
       return;
     }
-    disputationState.viewer.open(tileSource);
+    // Convert local image path to OpenSeadragon tileSource if needed
+    const tileSourceObj = typeof tileSource === 'string' && tileSource.match(/\.(jpg|jpeg|png|gif)$/i)
+      ? { type: 'image', url: tileSource }
+      : tileSource;
+    disputationState.viewer.open(tileSourceObj);
   } catch (error) {
     if (token !== disputationState.viewerPageToken || !disputationState.viewer) return;
     disputationState.viewer.close();
