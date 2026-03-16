@@ -490,20 +490,19 @@ const PREDIGTEN_ENTITY_INDEX_PATH = "data/predigten/entities/named_entities.json
 
 // Cache for Transkribus pagexml data
 const transkribusPageXmlCache = {};
-const DISPUTATION_VARIANTS = [
 
-// Function to load Transkribus image URL from pagexml
+// Load image URL from Transkribus PAGE XML for variants without a viewer_manifest entry
 async function loadTranskribusImageUrl(variant, pageNr) {
   const cacheKey = variant.id + '_' + pageNr;
   if (transkribusPageXmlCache[cacheKey]) {
     return transkribusPageXmlCache[cacheKey];
   }
-  
+
   try {
     const pageXmlPath = variant.basePath + '/pagexml/page_' + pageNr + '.xml';
     const response = await fetch(pageXmlPath);
     if (!response.ok) return null;
-    
+
     const text = await response.text();
     const imgMatch = text.match(/imgUrl="([^"]+)"/);
     if (imgMatch && imgMatch[1]) {
@@ -516,6 +515,8 @@ async function loadTranskribusImageUrl(variant, pageNr) {
   }
   return null;
 }
+
+const DISPUTATION_VARIANTS = [
   {
     id: "druck-1528",
     label: "Druck von 1528",
