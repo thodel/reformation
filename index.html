@@ -487,7 +487,35 @@ const PREDIGTEN_TRANSCRIPTION_BASE_PATH = "data/predigten/transcriptions";
 const PREDIGTEN_ENTITY_INDEX_PATH = "data/predigten/entities/named_entities.json";
 
 // Disputation configurations.
+
+// Cache for Transkribus pagexml data
+const transkribusPageXmlCache = {};
 const DISPUTATION_VARIANTS = [
+
+// Function to load Transkribus image URL from pagexml
+async function loadTranskribusImageUrl(variant, pageNr) {
+  const cacheKey = variant.id + '_' + pageNr;
+  if (transkribusPageXmlCache[cacheKey]) {
+    return transkribusPageXmlCache[cacheKey];
+  }
+  
+  try {
+    const pageXmlPath = variant.basePath + '/pagexml/page_' + pageNr + '.xml';
+    const response = await fetch(pageXmlPath);
+    if (!response.ok) return null;
+    
+    const text = await response.text();
+    const imgMatch = text.match(/imgUrl="([^"]+)"/);
+    if (imgMatch && imgMatch[1]) {
+      const imgUrl = imgMatch[1].replace(/&amp;/g, '&');
+      transkribusPageXmlCache[cacheKey] = imgUrl;
+      return imgUrl;
+    }
+  } catch (e) {
+    console.error('Error loading pagexml:', e);
+  }
+  return null;
+}
   {
     id: "druck-1528",
     label: "Druck von 1528",
@@ -1081,6 +1109,13 @@ async function updateDisputationViewerPage() {
       ? pageEntry.imageTileSource
       : disputationState.canvasTileSources[disputationState.currentPageIndex];
     if (!tileSource) {
+      // Try to load from Transkribus pagexml
+      const transkribusUrl = await loadTranskribusImageUrl(variant, disputationState.currentPageIndex + 1);
+      if (transkribusUrl) {
+        disputationState.viewer.open({ type: 'image', url: transkribusUrl });
+        setImageStatus('disputation-image-status', 'Faksimile von Transkribus geladen');
+        return;
+      }
       disputationState.viewer.close();
       setImageStatus('disputation-image-status', variant.manifestUrl
         ? 'Faksimile für diese Seite nicht verfügbar.'
