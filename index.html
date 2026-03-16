@@ -799,7 +799,8 @@ function showSection(event, id) {
   }
 
   document.querySelectorAll('.section-page').forEach((s) => s.classList.remove('active'));
-  document.getElementById(id).classList.add('active');
+  const sectionEl = document.getElementById(id);
+  if (sectionEl) sectionEl.classList.add('active');
   document.querySelectorAll('nav a').forEach((a) => a.classList.remove('active'));
   const navLink = document.querySelector(`nav a[data-section="${id}"]`);
   if (navLink) {
@@ -882,6 +883,7 @@ async function updatePredigtenViewerPage() {
 async function loadPredigtenTranscription() {
   const pageNum = predigtenState.currentPageIndex + 1;
   const container = document.getElementById('transcription-content');
+  if (!container) return;
 
   try {
     const response = await fetch(`${PREDIGTEN_TRANSCRIPTION_BASE_PATH}/page_${pageNum}.md`);
@@ -900,6 +902,7 @@ async function loadPredigtenTranscription() {
 async function loadPredigtenTranslation() {
   const pageNum = predigtenState.currentPageIndex + 1;
   const container = document.getElementById('translation-content');
+  if (!container) return;
 
   try {
     const response = await fetch(`${PREDIGTEN_TRANSLATION_BASE_PATH}/page_${pageNum}.md`);
@@ -942,7 +945,8 @@ function updatePredigten() {
   if (prevBtn) prevBtn.disabled = predigtenState.currentPageIndex === 0;
   if (nextBtn) nextBtn.disabled = predigtenState.currentPageIndex === predigtenState.totalPages - 1;
 
-  if (!document.getElementById('predigten').classList.contains('active')) {
+  const predigtenSection = document.getElementById('predigten');
+  if (!predigtenSection || !predigtenSection.classList.contains('active')) {
     return;
   }
 
@@ -1352,7 +1356,8 @@ function updateDisputation() {
   if (prevBtn) prevBtn.disabled = disputationState.currentPageIndex === 0;
   if (nextBtn) nextBtn.disabled = disputationState.currentPageIndex === disputationState.totalPages - 1;
 
-  if (!document.getElementById('disputation').classList.contains('active')) {
+  const disputationSection = document.getElementById('disputation');
+  if (!disputationSection || !disputationSection.classList.contains('active')) {
     return;
   }
 

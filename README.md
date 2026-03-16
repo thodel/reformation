@@ -128,7 +128,7 @@ Lauftext der Uebersetzung...
 
 - Fuer Seiten ohne Datei in `data/predigten/transcriptions/` wird ein Platzhalter angezeigt.
 - Fuer Predigten sind derzeit keine finalen Uebersetzungen hinterlegt; es wird ein Platzhalter angezeigt.
-- Der Predigten-Bereich erwartet numerische Seiten (`page_1.md` bis `page_224.md`). Zusaetzliche Dateien mit roemischen Seitenbezeichnungen werden derzeit nicht automatisch verwendet.
+- Der Predigten-Bereich erwartet numerische Seiten (`page_1.md` bis `page_500.md`). Zusaetzliche Dateien mit roemischen Seitenbezeichnungen werden derzeit nicht automatisch verwendet.
 - Fuer Varianten ohne IIIF-Manifest ist ein vorheriger Transkribus-Sync notwendig.
 - Keine Build-Pipeline, Tests oder Linting eingerichtet (statischer Prototyp).
 
