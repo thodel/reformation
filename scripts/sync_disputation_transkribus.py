@@ -383,6 +383,8 @@ def sync_variant(
         )
         transcription_rel = f"transcriptions/page_{page_nr}.md"
         write_text(variant_dir / transcription_rel, transcription_md)
+        translation_rel = f"translations/page_{page_nr}.md"
+        translation_target = variant_dir / translation_rel
 
         line_coords_payload = {
             "page_nr": page_nr,
@@ -404,7 +406,7 @@ def sync_variant(
                 "page_nr": page_nr,
                 "image": image_manifest_value,
                 "transcription": transcription_rel,
-                "translation": f"translations/page_{page_nr}.md",
+                "translation": translation_rel if translation_target.exists() else None,
                 "line_coords": line_coords_rel,
                 "pagexml": f"pagexml/page_{page_nr}.xml",
             }

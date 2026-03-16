@@ -249,6 +249,14 @@
       color: #fff;
       box-shadow: 0 6px 14px rgba(20, 54, 95, 0.28);
     }
+    .variant-link.disabled {
+      background: rgba(116, 132, 153, 0.12);
+      border-color: rgba(116, 132, 153, 0.2);
+      color: #778395;
+      box-shadow: none;
+      cursor: not-allowed;
+      pointer-events: none;
+    }
     .variant-link:focus-visible {
       outline: 2px solid rgba(251, 191, 36, 0.9);
       outline-offset: 2px;
@@ -490,6 +498,7 @@ const PREDIGTEN_ENTITY_INDEX_PATH = "data/predigten/entities/named_entities.json
 
 // Cache for Transkribus pagexml data
 const transkribusPageXmlCache = {};
+const disputationVariantAvailabilityPromises = new Map();
 
 // Load image URL from Transkribus PAGE XML for variants without a viewer_manifest entry
 async function loadTranskribusImageUrl(variant, pageNr) {
@@ -514,6 +523,95 @@ async function loadTranskribusImageUrl(variant, pageNr) {
     console.error('Error loading pagexml:', e);
   }
   return null;
+}
+
+async function pathExists(path) {
+  try {
+    const headResponse = await fetch(path, { method: 'HEAD' });
+    if (headResponse.ok) {
+      return true;
+    }
+    if (headResponse.status && headResponse.status !== 405) {
+      return false;
+    }
+  } catch (_error) {
+    // Fall back to GET when HEAD is unavailable.
+  }
+
+  try {
+    const response = await fetch(path);
+    return response.ok;
+  } catch (_error) {
+    return false;
+  }
+}
+
+function getDisputationVariantUnavailableMessage(variant) {
+  if (variant && variant.availability && variant.availability.available === false) {
+    return variant.availability.reason;
+  }
+  return 'Für diese Fassung liegen lokal noch keine synchronisierten Dateien vor.';
+}
+
+async function getDisputationVariantAvailability(variant) {
+  if (!variant) {
+    return { available: false, reason: 'Unbekannte Fassung.' };
+  }
+  if (variant.availability) {
+    return variant.availability;
+  }
+  if (disputationVariantAvailabilityPromises.has(variant.id)) {
+    return disputationVariantAvailabilityPromises.get(variant.id);
+  }
+
+  const promise = (async () => {
+    if (variant.manifestUrl) {
+      return { available: true, reason: null };
+    }
+
+    try {
+      const manifestResponse = await fetch(`${variant.basePath}/viewer_manifest.json`);
+      if (manifestResponse.ok) {
+        const payload = await manifestResponse.json();
+        const pages = Array.isArray(payload.pages) ? payload.pages : [];
+        if (pages.length > 0) {
+          return { available: true, reason: null };
+        }
+      }
+    } catch (_error) {
+      // Probe local files below.
+    }
+
+    const probePaths = [
+      `${variant.basePath}/pagexml/page_1.xml`,
+      `${variant.basePath}/line_coords/page_1.json`,
+      `${variant.transcriptionBasePath}/page_1.md`
+    ];
+    const probeResults = await Promise.all(probePaths.map((path) => pathExists(path)));
+    if (probeResults.some(Boolean)) {
+      return { available: true, reason: null };
+    }
+
+    return {
+      available: false,
+      reason: 'Für diese Fassung liegen lokal noch keine synchronisierten Dateien vor.'
+    };
+  })()
+    .then((availability) => {
+      variant.availability = availability;
+      return availability;
+    })
+    .catch((_error) => {
+      const availability = {
+        available: false,
+        reason: 'Die Verfügbarkeit dieser Fassung konnte nicht geprüft werden.'
+      };
+      variant.availability = availability;
+      return availability;
+    });
+
+  disputationVariantAvailabilityPromises.set(variant.id, promise);
+  return promise;
 }
 
 const DISPUTATION_VARIANTS = [
@@ -588,7 +686,8 @@ const predigtenState = {
   totalPages: PREDIGTEN_DEFAULT_TOTAL_PAGES,
   canvasTileSources: [],
   manifestPromise: null,
-  viewerPageToken: 0
+  viewerPageToken: 0,
+  contentToken: 0
 };
 
 const disputationState = {
@@ -600,6 +699,7 @@ const disputationState = {
   pageEntries: [],
   manifestPromise: null,
   viewerPageToken: 0,
+  contentToken: 0,
   currentLineCoords: null,
   overlayElements: []
 };
@@ -881,44 +981,50 @@ async function updatePredigtenViewerPage() {
   }
 }
 
-async function loadPredigtenTranscription() {
+async function loadPredigtenTranscription(token) {
   const pageNum = predigtenState.currentPageIndex + 1;
   const container = document.getElementById('transcription-content');
   if (!container) return;
 
   try {
     const response = await fetch(`${PREDIGTEN_TRANSCRIPTION_BASE_PATH}/page_${pageNum}.md`);
+    if (token !== predigtenState.contentToken) return;
     if (!response.ok) {
       container.innerHTML = '<p>Transkription für diese Seite noch nicht verfügbar.</p>';
       return;
     }
 
     const [text, entityRules] = await Promise.all([response.text(), loadEntityRules(PREDIGTEN_ENTITY_INDEX_PATH)]);
+    if (token !== predigtenState.contentToken) return;
     container.innerHTML = renderMarkdown(text, { linkEntities: true, entityRules });
   } catch (error) {
+    if (token !== predigtenState.contentToken) return;
     container.innerHTML = '<p>Fehler beim Laden der Transkription.</p>';
   }
 }
 
-async function loadPredigtenTranslation() {
+async function loadPredigtenTranslation(token) {
   const pageNum = predigtenState.currentPageIndex + 1;
   const container = document.getElementById('translation-content');
   if (!container) return;
 
   try {
     const response = await fetch(`${PREDIGTEN_TRANSLATION_BASE_PATH}/page_${pageNum}.md`);
+    if (token !== predigtenState.contentToken) return;
     if (!response.ok) {
       container.innerHTML = '<p>Übersetzung nicht verfügbar.</p>';
       return;
     }
 
     const text = await response.text();
+    if (token !== predigtenState.contentToken) return;
     if (isMissingTranslationContent(text)) {
       container.innerHTML = '<p>Übersetzung nicht verfügbar.</p>';
       return;
     }
     container.innerHTML = renderMarkdown(text);
   } catch (error) {
+    if (token !== predigtenState.contentToken) return;
     container.innerHTML = '<p>Fehler beim Laden der Übersetzung.</p>';
   }
 }
@@ -951,8 +1057,9 @@ function updatePredigten() {
     return;
   }
 
-  loadPredigtenTranscription();
-  loadPredigtenTranslation();
+  const token = ++predigtenState.contentToken;
+  loadPredigtenTranscription(token);
+  loadPredigtenTranslation(token);
   updatePredigtenViewerPage();
 
   ensurePredigtenManifestData()
@@ -970,16 +1077,28 @@ function getCurrentDisputationVariant() {
 
 function setActiveDisputationVariantLink(variantId) {
   document.querySelectorAll('[data-disputation-variant]').forEach((link) => {
-    link.classList.toggle('active', link.getAttribute('data-disputation-variant') === variantId);
+    const currentVariantId = link.getAttribute('data-disputation-variant');
+    const variant = DISPUTATION_VARIANTS.find((item) => item.id === currentVariantId);
+    const isUnavailable = !!(variant && variant.availability && variant.availability.available === false);
+    link.classList.toggle('active', currentVariantId === variantId);
+    link.classList.toggle('disabled', isUnavailable);
+    link.setAttribute('aria-disabled', isUnavailable ? 'true' : 'false');
+    if (isUnavailable && variant.availability.reason) {
+      link.title = variant.availability.reason;
+    } else {
+      link.removeAttribute('title');
+    }
   });
 }
 
 function updateDisputationVariantTitle() {
   const variant = getCurrentDisputationVariant();
   const title = document.getElementById('disputation-variant-title');
-  if (title) {
-    title.textContent = `Disputation — ${variant.label}`;
-  }
+  if (!title) return;
+  const suffix = variant.availability && variant.availability.available === false
+    ? ' (noch nicht lokal synchronisiert)'
+    : '';
+  title.textContent = `Disputation — ${variant.label}${suffix}`;
 }
 
 function resetDisputationVariantState() {
@@ -994,11 +1113,17 @@ function resetDisputationVariantState() {
   clearDisputationLineOverlays();
 }
 
-function switchDisputationVariant(event, variantId) {
+async function switchDisputationVariant(event, variantId) {
   if (event) {
     event.preventDefault();
   }
-  if (!DISPUTATION_VARIANTS.some((variant) => variant.id === variantId)) {
+  const variant = DISPUTATION_VARIANTS.find((item) => item.id === variantId);
+  if (!variant) {
+    return;
+  }
+  const availability = await getDisputationVariantAvailability(variant);
+  setActiveDisputationVariantLink(disputationState.variantId);
+  if (!availability.available) {
     return;
   }
 
@@ -1018,6 +1143,14 @@ async function ensureDisputationManifestData() {
   }
 
   disputationState.manifestPromise = (async () => {
+    const availability = await getDisputationVariantAvailability(variant);
+    if (!availability.available) {
+      disputationState.canvasTileSources = [];
+      disputationState.totalPages = 0;
+      disputationState.pageEntries = [];
+      return;
+    }
+
     if (variant.manifestUrl) {
       disputationState.canvasTileSources = await fetchManifestCanvasSources(variant.manifestUrl);
       if (disputationState.canvasTileSources.length > 0) {
@@ -1044,7 +1177,7 @@ async function ensureDisputationManifestData() {
         const transcriptionPath = typeof page.transcription === 'string'
           ? resolveVariantAssetPath(variant.basePath, page.transcription)
           : `${variant.transcriptionBasePath}/page_${pageNr}.md`;
-        const translationPath = typeof page.translation === 'string'
+        const translationPath = Object.prototype.hasOwnProperty.call(page, 'translation')
           ? resolveVariantAssetPath(variant.basePath, page.translation)
           : getDisputationTranslationPath(variant, pageNr);
         const lineCoordsPath = typeof page.line_coords === 'string'
@@ -1110,12 +1243,18 @@ async function updateDisputationViewerPage() {
 
     const variant = getCurrentDisputationVariant();
     const pageEntry = getCurrentDisputationPageEntry();
+    if (!pageEntry && disputationState.totalPages === 0) {
+      disputationState.viewer.close();
+      setImageStatus('disputation-image-status', getDisputationVariantUnavailableMessage(variant));
+      return;
+    }
     const tileSource = pageEntry && pageEntry.imageTileSource
       ? pageEntry.imageTileSource
       : disputationState.canvasTileSources[disputationState.currentPageIndex];
     if (!tileSource) {
       // Try to load from Transkribus pagexml
       const transkribusUrl = await loadTranskribusImageUrl(variant, disputationState.currentPageIndex + 1);
+      if (token !== disputationState.viewerPageToken || !disputationState.viewer) return;
       if (transkribusUrl) {
         disputationState.viewer.open({ type: 'image', url: transkribusUrl });
         setImageStatus('disputation-image-status', 'Faksimile von Transkribus geladen');
@@ -1264,20 +1403,29 @@ function renderDisputationLines(payload, entityRules, pageNr) {
   return `<h3>Seite ${pageNr}</h3>${renderedLines}`;
 }
 
-async function loadDisputationTranscription() {
+async function loadDisputationTranscription(token) {
   const variant = getCurrentDisputationVariant();
   const pageEntry = getCurrentDisputationPageEntry();
   const pageNum = pageEntry ? pageEntry.pageNr : (disputationState.currentPageIndex + 1);
   const container = document.getElementById('disputation-transcription-content');
+  if (!container) return;
   bindDisputationTranscriptionInteractions();
   disputationState.currentLineCoords = null;
   clearDisputationLineOverlays();
 
   try {
+    const availability = await getDisputationVariantAvailability(variant);
+    if (token !== disputationState.contentToken) return;
+    if (!availability.available) {
+      container.innerHTML = `<p>${escapeHtml(availability.reason)}</p>`;
+      return;
+    }
+
     const [lineCoordsPayload, entityRules] = await Promise.all([
       loadDisputationLineCoords(),
       loadEntityRules(variant.entityIndexPath)
     ]);
+    if (token !== disputationState.contentToken) return;
 
     if (lineCoordsPayload && Array.isArray(lineCoordsPayload.lines) && lineCoordsPayload.lines.length > 0) {
       disputationState.currentLineCoords = lineCoordsPayload;
@@ -1290,25 +1438,36 @@ async function loadDisputationTranscription() {
       ? pageEntry.transcriptionPath
       : `${variant.transcriptionBasePath}/page_${pageNum}.md`;
     const response = await fetch(transcriptionPath);
+    if (token !== disputationState.contentToken) return;
     if (!response.ok) {
       container.innerHTML = '<p>Transkription für diese Fassung/Seite noch nicht verfügbar.</p>';
       return;
     }
 
     const text = await response.text();
+    if (token !== disputationState.contentToken) return;
     container.innerHTML = renderMarkdown(text, { linkEntities: true, entityRules });
   } catch (error) {
+    if (token !== disputationState.contentToken) return;
     container.innerHTML = '<p>Fehler beim Laden der Transkription.</p>';
   }
 }
 
-async function loadDisputationTranslation() {
+async function loadDisputationTranslation(token) {
   const variant = getCurrentDisputationVariant();
   const pageEntry = getCurrentDisputationPageEntry();
   const pageNum = pageEntry ? pageEntry.pageNr : (disputationState.currentPageIndex + 1);
   const container = document.getElementById('disputation-translation-content');
+  if (!container) return;
 
   try {
+    const availability = await getDisputationVariantAvailability(variant);
+    if (token !== disputationState.contentToken) return;
+    if (!availability.available) {
+      container.innerHTML = `<p>${escapeHtml(availability.reason)}</p>`;
+      return;
+    }
+
     const translationPath = pageEntry && pageEntry.translationPath
       ? pageEntry.translationPath
       : getDisputationTranslationPath(variant, pageNum);
@@ -1317,18 +1476,21 @@ async function loadDisputationTranslation() {
       return;
     }
     const response = await fetch(translationPath);
+    if (token !== disputationState.contentToken) return;
     if (!response.ok) {
       container.innerHTML = '<p>Übersetzung für diese Fassung/Seite noch nicht verfügbar.</p>';
       return;
     }
 
     const text = await response.text();
+    if (token !== disputationState.contentToken) return;
     if (isMissingTranslationContent(text)) {
       container.innerHTML = '<p>Übersetzung für diese Fassung/Seite noch nicht verfügbar.</p>';
       return;
     }
     container.innerHTML = renderMarkdown(text);
   } catch (error) {
+    if (token !== disputationState.contentToken) return;
     container.innerHTML = '<p>Fehler beim Laden der Übersetzung.</p>';
   }
 }
@@ -1348,14 +1510,26 @@ function nextDisputationPage() {
 }
 
 function updateDisputation() {
-  const pageEntry = getCurrentDisputationPageEntry();
-  const pageNum = pageEntry ? pageEntry.pageNr : (disputationState.currentPageIndex + 1);
   const pageInfo = document.getElementById('disputation-page-info');
   const prevBtn = document.getElementById('disputation-prev-btn');
   const nextBtn = document.getElementById('disputation-next-btn');
-  if (pageInfo) pageInfo.textContent = `Seite ${pageNum} von ${disputationState.totalPages}`;
-  if (prevBtn) prevBtn.disabled = disputationState.currentPageIndex === 0;
-  if (nextBtn) nextBtn.disabled = disputationState.currentPageIndex === disputationState.totalPages - 1;
+  const applyPaginationState = () => {
+    const pageEntry = getCurrentDisputationPageEntry();
+    const pageNum = pageEntry ? pageEntry.pageNr : (disputationState.currentPageIndex + 1);
+    if (pageInfo) {
+      pageInfo.textContent = disputationState.totalPages > 0
+        ? `Seite ${pageNum} von ${disputationState.totalPages}`
+        : 'Keine Seiten verfügbar';
+    }
+    if (prevBtn) prevBtn.disabled = disputationState.totalPages === 0 || disputationState.currentPageIndex === 0;
+    if (nextBtn) {
+      nextBtn.disabled = (
+        disputationState.totalPages === 0
+        || disputationState.currentPageIndex === disputationState.totalPages - 1
+      );
+    }
+  };
+  applyPaginationState();
 
   const disputationSection = document.getElementById('disputation');
   if (!disputationSection || !disputationSection.classList.contains('active')) {
@@ -1363,14 +1537,14 @@ function updateDisputation() {
   }
 
   updateDisputationVariantTitle();
-  loadDisputationTranscription();
-  loadDisputationTranslation();
+  const token = ++disputationState.contentToken;
+  loadDisputationTranscription(token);
+  loadDisputationTranslation(token);
   updateDisputationViewerPage();
 
   ensureDisputationManifestData()
     .then(() => {
-      if (pageInfo) pageInfo.textContent = `Seite ${disputationState.currentPageIndex + 1} von ${disputationState.totalPages}`;
-      if (nextBtn) nextBtn.disabled = disputationState.currentPageIndex === disputationState.totalPages - 1;
+      applyPaginationState();
     })
     .catch(() => {});
 }
@@ -1387,6 +1561,12 @@ window.addEventListener('scroll', updateNavElevation, { passive: true });
 function initializeDisputationVariantUi() {
   setActiveDisputationVariantLink(disputationState.variantId);
   updateDisputationVariantTitle();
+  Promise.all(DISPUTATION_VARIANTS.map((variant) => getDisputationVariantAvailability(variant)))
+    .then(() => {
+      setActiveDisputationVariantLink(disputationState.variantId);
+      updateDisputationVariantTitle();
+    })
+    .catch(() => {});
 }
 
 // Initial UI setup.
