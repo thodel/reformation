@@ -123,6 +123,7 @@ Lauftext der Uebersetzung...
 - Disputation wird ueber `DISPUTATION_VARIANTS` konfiguriert (Manifest + Datenpfade je Variante).
 - Named-Entity-Linking nutzt pro Bereich eine `named_entities.json` (mit `label`, `aliases`, `url`).
 - Bei Varianten ohne IIIF-Manifest laedt das Frontend `data/disputation/<variante>/viewer_manifest.json`.
+- Fuer Disputationsseiten mit `pagexml` kann das Frontend Zeilenkoordinaten direkt aus PAGE XML ableiten, falls keine `line_coords`-Datei vorliegt.
 - Repository-Validierung: `python3 scripts/validate_repo.py`
 
 ## Bekannte Einschraenkungen

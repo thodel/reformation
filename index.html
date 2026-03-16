@@ -197,16 +197,29 @@
       background: rgba(251, 191, 36, 0.24);
     }
     .disputation-line-overlay {
-      border: 1.5px solid rgba(242, 129, 29, 0.92);
-      background: rgba(242, 129, 29, 0.1);
       border-radius: 2px;
       pointer-events: none;
       box-sizing: border-box;
     }
+    .disputation-line-overlay svg {
+      display: block;
+      width: 100%;
+      height: 100%;
+      overflow: visible;
+    }
+    .disputation-line-overlay polygon {
+      fill: rgba(242, 129, 29, 0.14);
+      stroke: rgba(242, 129, 29, 0.92);
+      stroke-width: 1.5;
+      vector-effect: non-scaling-stroke;
+    }
     .disputation-line-overlay.active {
-      border-width: 2px;
-      border-color: rgba(251, 191, 36, 0.98);
-      background: rgba(251, 191, 36, 0.28);
+      z-index: 1;
+    }
+    .disputation-line-overlay.active polygon {
+      fill: rgba(251, 191, 36, 0.28);
+      stroke: rgba(251, 191, 36, 0.98);
+      stroke-width: 2;
     }
     
     .section-title {
@@ -499,6 +512,7 @@ const PREDIGTEN_ENTITY_INDEX_PATH = "data/predigten/entities/named_entities.json
 // Cache for Transkribus pagexml data
 const transkribusPageXmlCache = {};
 const disputationVariantAvailabilityPromises = new Map();
+const disputationLineGeometryPromises = new Map();
 
 // Load image URL from Transkribus PAGE XML for variants without a viewer_manifest entry
 async function loadTranskribusImageUrl(variant, pageNr) {
@@ -754,6 +768,95 @@ function resolveVariantAssetPath(basePath, value) {
     return trimmed;
   }
   return `${basePath}/${trimmed}`;
+}
+
+function parsePoints(pointsText) {
+  if (typeof pointsText !== 'string' || !pointsText.trim()) {
+    return [];
+  }
+  return pointsText
+    .trim()
+    .split(/\s+/)
+    .map((token) => {
+      const [xStr, yStr] = token.split(',', 2);
+      const x = Number(xStr);
+      const y = Number(yStr);
+      return Number.isFinite(x) && Number.isFinite(y) ? { x, y } : null;
+    })
+    .filter(Boolean);
+}
+
+function pointsToBBox(points) {
+  if (!Array.isArray(points) || points.length === 0) {
+    return null;
+  }
+  const normalizedPoints = points
+    .map((point) => {
+      if (Array.isArray(point) && point.length >= 2) {
+        return { x: Number(point[0]), y: Number(point[1]) };
+      }
+      if (point && typeof point === 'object') {
+        return { x: Number(point.x), y: Number(point.y) };
+      }
+      return null;
+    })
+    .filter((point) => point && Number.isFinite(point.x) && Number.isFinite(point.y));
+  if (normalizedPoints.length === 0) {
+    return null;
+  }
+  const xs = normalizedPoints.map((point) => point.x);
+  const ys = normalizedPoints.map((point) => point.y);
+  const minX = Math.min(...xs);
+  const minY = Math.min(...ys);
+  const maxX = Math.max(...xs);
+  const maxY = Math.max(...ys);
+  const width = maxX - minX;
+  const height = maxY - minY;
+  if (!(width > 0) || !(height > 0)) {
+    return null;
+  }
+  return { x: minX, y: minY, w: width, h: height };
+}
+
+function parsePageXmlLineCoords(pageXmlText) {
+  if (typeof pageXmlText !== 'string' || !pageXmlText.trim()) {
+    return null;
+  }
+
+  const xml = new DOMParser().parseFromString(pageXmlText, 'application/xml');
+  if (xml.getElementsByTagName('parsererror').length > 0) {
+    return null;
+  }
+
+  const pageNode = xml.getElementsByTagNameNS('*', 'Page')[0];
+  const pageNr = Number(
+    pageNode && pageNode.getAttribute('imageFilename')
+      ? pageNode.getAttribute('imageFilename').match(/(\d+)/)?.[1]
+      : ''
+  ) || null;
+  const imageWidth = Number(pageNode && pageNode.getAttribute('imageWidth'));
+  const imageHeight = Number(pageNode && pageNode.getAttribute('imageHeight'));
+  const lineNodes = Array.from(xml.getElementsByTagNameNS('*', 'TextLine'));
+  const lines = lineNodes.map((lineNode, index) => {
+    const coordsNode = Array.from(lineNode.children || []).find((child) => child.localName === 'Coords');
+    const unicodeNode = lineNode.getElementsByTagNameNS('*', 'Unicode')[0];
+    const points = parsePoints(coordsNode ? coordsNode.getAttribute('points') : '');
+    return {
+      id: lineNode.getAttribute('id') || `line-${index + 1}`,
+      text: (unicodeNode && unicodeNode.textContent ? unicodeNode.textContent : '').trim(),
+      points,
+      bbox: pointsToBBox(points)
+    };
+  });
+
+  return {
+    page_nr: pageNr,
+    image: {
+      width: Number.isFinite(imageWidth) ? imageWidth : null,
+      height: Number.isFinite(imageHeight) ? imageHeight : null
+    },
+    lines
+  };
 }
 
 function getDisputationTranslationPath(variant, manifestPageNr) {
@@ -1183,13 +1286,17 @@ async function ensureDisputationManifestData() {
         const lineCoordsPath = typeof page.line_coords === 'string'
           ? resolveVariantAssetPath(variant.basePath, page.line_coords)
           : `${variant.basePath}/line_coords/page_${pageNr}.json`;
+        const pagexmlPath = typeof page.pagexml === 'string'
+          ? resolveVariantAssetPath(variant.basePath, page.pagexml)
+          : `${variant.basePath}/pagexml/page_${pageNr}.xml`;
 
         return {
           pageNr,
           imageTileSource: imagePath,
           transcriptionPath,
           translationPath,
-          lineCoordsPath
+          lineCoordsPath,
+          pagexmlPath
         };
       });
 
@@ -1286,7 +1393,8 @@ function createDefaultDisputationPageEntries(totalPages, variant) {
       imageTileSource: null,
       transcriptionPath: `${variant.transcriptionBasePath}/page_${pageNr}.md`,
       translationPath: getDisputationTranslationPath(variant, pageNr),
-      lineCoordsPath: `${variant.basePath}/line_coords/page_${pageNr}.json`
+      lineCoordsPath: `${variant.basePath}/line_coords/page_${pageNr}.json`,
+      pagexmlPath: `${variant.basePath}/pagexml/page_${pageNr}.xml`
     };
   });
 }
@@ -1297,19 +1405,46 @@ function getCurrentDisputationPageEntry() {
 
 async function loadDisputationLineCoords() {
   const pageEntry = getCurrentDisputationPageEntry();
-  if (!pageEntry || !pageEntry.lineCoordsPath) {
+  if (!pageEntry) {
     return null;
   }
 
-  try {
-    const response = await fetch(pageEntry.lineCoordsPath);
-    if (!response.ok) return null;
-    const payload = await response.json();
-    if (!payload || !Array.isArray(payload.lines)) return null;
-    return payload;
-  } catch (_error) {
-    return null;
+  const cacheKey = pageEntry.lineCoordsPath || pageEntry.pagexmlPath || `page-${pageEntry.pageNr}`;
+  if (disputationLineGeometryPromises.has(cacheKey)) {
+    return disputationLineGeometryPromises.get(cacheKey);
   }
+
+  const promise = (async () => {
+    if (pageEntry.lineCoordsPath) {
+      try {
+        const response = await fetch(pageEntry.lineCoordsPath);
+        if (response.ok) {
+          const payload = await response.json();
+          if (payload && Array.isArray(payload.lines)) {
+            return payload;
+          }
+        }
+      } catch (_error) {
+        // Fall back to PAGE XML below.
+      }
+    }
+
+    if (!pageEntry.pagexmlPath) {
+      return null;
+    }
+
+    try {
+      const response = await fetch(pageEntry.pagexmlPath);
+      if (!response.ok) return null;
+      const payload = parsePageXmlLineCoords(await response.text());
+      return payload && Array.isArray(payload.lines) ? payload : null;
+    } catch (_error) {
+      return null;
+    }
+  })();
+
+  disputationLineGeometryPromises.set(cacheKey, promise);
+  return promise;
 }
 
 function clearDisputationLineOverlays() {
@@ -1333,6 +1468,11 @@ function applyDisputationLineOverlays() {
     return;
   }
 
+  const tiledImage = disputationState.viewer.world.getItemAt(0);
+  if (!tiledImage) {
+    return;
+  }
+
   for (const line of payload.lines) {
     if (!line || !line.bbox) continue;
     const x = Number(line.bbox.x);
@@ -1345,10 +1485,27 @@ function applyDisputationLineOverlays() {
     const overlayElement = document.createElement('div');
     overlayElement.className = 'disputation-line-overlay';
     if (lineId) overlayElement.dataset.lineId = lineId;
+    const points = Array.isArray(line.points) ? line.points : [];
+    const normalizedPoints = points
+      .map((point) => {
+        if (Array.isArray(point) && point.length >= 2) {
+          return { x: Number(point[0]), y: Number(point[1]) };
+        }
+        if (point && typeof point === 'object') {
+          return { x: Number(point.x), y: Number(point.y) };
+        }
+        return null;
+      })
+      .filter((point) => point && Number.isFinite(point.x) && Number.isFinite(point.y));
+    const polygonPoints = normalizedPoints.length > 0
+      ? normalizedPoints.map((point) => `${point.x - x},${point.y - y}`).join(' ')
+      : `0,0 ${w},0 ${w},${h} 0,${h}`;
+    overlayElement.innerHTML = `<svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" aria-hidden="true"><polygon points="${polygonPoints}"></polygon></svg>`;
+    const location = tiledImage.imageToViewportRectangle(x, y, w, h);
 
     disputationState.viewer.addOverlay({
       element: overlayElement,
-      location: new OpenSeadragon.Rect(x, y, w, h)
+      location
     });
     disputationState.overlayElements.push(overlayElement);
   }
