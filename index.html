@@ -494,6 +494,7 @@ const DISPUTATION_VARIANTS = [
     basePath: "data/disputation/druck_1528",
     manifestUrl: "https://www.e-rara.ch/i3f/v20/13106447/manifest",
     defaultTotalPages: 1,
+    translationFirstManifestPage: 5,
     transcriptionBasePath: "data/disputation/druck_1528/transcriptions",
     translationBasePath: "data/disputation/druck_1528/translations",
     entityIndexPath: "data/disputation/druck_1528/entities/named_entities.json"
@@ -624,6 +625,16 @@ function resolveVariantAssetPath(basePath, value) {
     return trimmed;
   }
   return `${basePath}/${trimmed}`;
+}
+
+function getDisputationTranslationPath(variant, manifestPageNr) {
+  const rawStartPage = Number(variant && variant.translationFirstManifestPage);
+  const startPage = Number.isFinite(rawStartPage) && rawStartPage > 0 ? Math.floor(rawStartPage) : 1;
+  const translationPageNr = Number(manifestPageNr) - startPage + 1;
+  if (!Number.isFinite(translationPageNr) || translationPageNr < 1) {
+    return null;
+  }
+  return `${variant.translationBasePath}/page_${translationPageNr}.md`;
 }
 
 async function fetchManifestCanvasSources(manifestUrl) {
@@ -1002,7 +1013,7 @@ async function ensureDisputationManifestData() {
           : `${variant.transcriptionBasePath}/page_${pageNr}.md`;
         const translationPath = typeof page.translation === 'string'
           ? resolveVariantAssetPath(variant.basePath, page.translation)
-          : `${variant.translationBasePath}/page_${pageNr}.md`;
+          : getDisputationTranslationPath(variant, pageNr);
         const lineCoordsPath = typeof page.line_coords === 'string'
           ? resolveVariantAssetPath(variant.basePath, page.line_coords)
           : `${variant.basePath}/line_coords/page_${pageNr}.json`;
@@ -1091,7 +1102,7 @@ function createDefaultDisputationPageEntries(totalPages, variant) {
       pageNr,
       imageTileSource: null,
       transcriptionPath: `${variant.transcriptionBasePath}/page_${pageNr}.md`,
-      translationPath: `${variant.translationBasePath}/page_${pageNr}.md`,
+      translationPath: getDisputationTranslationPath(variant, pageNr),
       lineCoordsPath: `${variant.basePath}/line_coords/page_${pageNr}.json`
     };
   });
@@ -1256,7 +1267,11 @@ async function loadDisputationTranslation() {
   try {
     const translationPath = pageEntry && pageEntry.translationPath
       ? pageEntry.translationPath
-      : `${variant.translationBasePath}/page_${pageNum}.md`;
+      : getDisputationTranslationPath(variant, pageNum);
+    if (!translationPath) {
+      container.innerHTML = '<p>Übersetzung für diese Fassung/Seite noch nicht verfügbar.</p>';
+      return;
+    }
     const response = await fetch(translationPath);
     if (!response.ok) {
       container.innerHTML = '<p>Übersetzung für diese Fassung/Seite noch nicht verfügbar.</p>';
