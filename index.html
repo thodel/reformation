@@ -1814,8 +1814,22 @@ initializeDisputationVariantUi();
 updatePredigten();
 
 // Check URL for deep linking: /disputation/variant/page
-navigateToDisputationFromUrl();
-updateDisputation();
+const urlParams = parseDisputationUrl();
+if (urlParams && urlParams.variantId) {
+  // Deep link detected - switch to disputation section first
+  document.querySelectorAll('.section-page').forEach((s) => s.classList.remove('active'));
+  const sectionEl = document.getElementById('disputation');
+  if (sectionEl) sectionEl.classList.add('active');
+  document.querySelectorAll('nav a').forEach((a) => a.classList.remove('active'));
+  const navLink = document.querySelector('nav a[data-section="disputation"]');
+  if (navLink) navLink.classList.add('active');
+  
+  navigateToDisputationFromUrl();
+  initDisputationViewer();
+  updateDisputation();
+} else {
+  updateDisputation();
+}
 </script>
 
 </body>
