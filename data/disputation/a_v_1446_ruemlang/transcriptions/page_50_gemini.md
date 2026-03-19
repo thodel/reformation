@@ -1,28 +1,29 @@
 49
-dos 20. Germanen die sind verziehend @ bund
-matt: 15. Wasze bundandt & off orwich davon der
-größte veste serpen and kan sperber grund mitt
-hast, Sag ich das Iesus in beiden getrifften, em düng
-lert Daun sinch and lösen Sittend Korziehen vad
-em ang ist, so bekremmend ze mitt vud, vas marthe: 10.
-Pens die Schlusste verseisen and süis to geleiffer,
-Darümes aber sparen and Prafft, sir Gangest tha
-Sunden and lösen perro züged, ben git es milt ji Dos
-Das er am Hope sig, Damn all Afostol Saband, gliiche
-diensbarbrien Zebench and Zelißpen, Gartuns gas erf
-Isrüstenergen vender, das bunden vnd lösen, vocherhen vad
-verfalden, mit anders ist, dann leron Das work fotter
-and gradien das Enepalien Augen Cassina Qe
-Afflippel Das ist der Soiff greater der perfo rund
-Allen aposlen poten ist, necliches allsf weder j=
-morth ken
-dem Apostel zu fun Hope market / 22inn off Gott
-der off cigudan greals and därlich der sund versiehe
-Esa. 43. Jobbins dich auns dar da vrsheitpert Ans
-boffheit and ince Wird ing nitt mer gedeuren
-wird minest willen, (Peris aber sund die Apostell
-vezirchand Air sind Aarry Constbarkeit dass vory
-vad vandkūng, dash Euangelions so di den glombich
-Zupesterta gond, Anarch Afen des sind vorgegen sin,
-vnd den auglenbigen zes sind bunden sin, Sa Aber esra
-Zugit peres and I apostlen As fund vurspirgen,
+Dõs 20. Oder Denen Die sind verzigend @ vund
+matt: 10. waß Ir ein danmb vff ering Darinn der
+Birginger in große reiche segen vund ein herber grund nitt
+hatt Daß ist Das lösen in beÿden schrifften, ein Cing
+lest Dann bind vnd lösen Die sind verzigern vnd vorhabe
+ein Cing ist, So es benennd zc wirt vnd vas manch: so.
+perso die bekenüße verheisen vnd dis zu geleistet
+Darinn aber span vnd krafft ist gancett kear
+binden vnd lösen petro zügibt, kind gibt es nitt zü Das
+Das er ein sopz zig, Dann all Apostel habend, gleichs
+einspbarben Zebenüch vnd geleisen, Darinnd sag ich,
+Christum an binden vnd binden vnd lösen vorzigern vnd
+verslassen, nür anders ist, Dann leren Das were gottes
+vund predien das Evangelim Christi Also viel Die
+schlüßel das ist der hrist gvalt Der perso vnnd
+khen Apostelen gebn ist moelirder allß weÿder z-
+wirt dem Apostel zü hün sopz wartet Dhein ist, gott
+der den eignen gualt vnd värliht die sind verziges
+epa. 43. Ich bims org einß vber die vChristen Aug
+bßheit vnd viner sing wird org nitt mer gedenkh
+wirt minett worten, Demis aber vnd die Apostell
+verzigbend Die sind durich Christum hariz vff wory
+vnd verkundüng deß Evangelions so di den glöbig
+Züspeche vnd gnod durich Csum zue sind verziges sin,
+in den vnglaubigen zue sind binden sin, Da aber Jesu
+zue perso vnd die Apostelen Die sind verzigern,
+einen lösen, gaz alß ob es ist gründ, ist dem velis vas
+Hues: 1. gestorben stan da gott breisten nim war
