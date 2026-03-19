@@ -102,7 +102,7 @@ def extract_json_from_response(text):
     return []
 
 
-def process_document(doc_id, api_key, max_pages=20, force=False):
+def process_document(doc_id, api_key, max_pages=None, force=False):
     """Process a single document - extract entities from transcriptions."""
     doc_dir = DATA_DIR / doc_id
     transcriptions = sorted(doc_dir.glob("transcriptions/page_*.md"))
@@ -121,7 +121,8 @@ def process_document(doc_id, api_key, max_pages=20, force=False):
     
     # Collect pages to process
     pages_to_process = []
-    for trans_file in transcriptions[:max_pages]:  # Limit for testing
+    pages_to_check = transcriptions if max_pages is None else transcriptions[:max_pages]
+    for trans_file in pages_to_check:
         # Handle files like page_1_gemini.md -> extract 1
         stem = trans_file.stem.replace("page_", "")
         stem = stem.replace("_gemini", "")
@@ -196,11 +197,11 @@ def main():
     # Ensure output directory
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     
-    # Process each document (limited to 20 pages each for testing)
+    # Process each document (all pages)
     all_entities = []
     for doc_id in DOCUMENTS:
         print(f"\nProcessing {doc_id}...")
-        entities = process_document(doc_id, api_key, max_pages=20)
+        entities = process_document(doc_id, api_key)
         all_entities.append(entities)
     
     # Merge entities
