@@ -1,34 +1,35 @@
-Schlußred.
-VIII
-an/wer der Stathalter Chriſti ſye/nach ſynem lybliche
-abwesen. Er ſpricht Joann. am yvj.Capitel. Ich ſagen
-üch die warheit. Es ist üch nutz dz ich von üch gang/dan
-ſo ich nit võ üch gang/ſo wirt d tröſter nit zuüch kom=
-men/ſoich aber von üch gang/wird ich in zu üch senden.
-Sehent lieben fromen Chriſten/dz der geyst gottes ver
-waltet/das rych Chriſti in ſiner Kilchen vnnd fürt ſy zu
-einem tugenrichen rechtgeſchaffnen/Chriſtenliché láben
-Es erſchint ſich woll bym heylige paulo zun Galather
-am v. Capi. Welches die frücht des geysts ſind/die vns
-dhein creatur geben mag/der ſpruch Joannis am erſten
-Capitel harynzogen/lutet alſo. Du biſt Simon ein ſun
-Jona/du wirſt genent Cephas/wölches vertholmetſch
-et wirt/ein velser/das vermagnit d3 Petrus ein houpt
-ſye/Petrus iſt ouch einſtein/nit des fundamets/od grūd
-ſteyn/ouch nit ein Eggſtein/ſonder der offbuwen wirt/
-off das fundament/welches Christus iſt/wie er ſelbs be=
-züget in ſiner erſte Epiſtel/am andern Capit. Sas wir
-all föllen erbuwen werden/zu einem huß gottes/alls lå
-bendig ſteyn/darus gnügſam verſtanden wirt/das Pe=
-trus ein ſteyn ein velser/darum das er den waren velfen
-Bekant. Aber nit ein houpt genampt wirt. Darzů ſo iſt
-d3 wörtli Cephas nit Griechisch/ſonder Syriſch/in der
-ſprach Christus das geredt hett/ſonder es iſt ein ander
-waitly heyft κεφαλή in Griechiſcher ſprach/d3 ein houpt
-beißt.
+Schlufired.
 
-Bichanatter.
-
-A hand vil gſchriffe harbracht vnd gründ dar=
-gethon die nitt nor zeerzelenn/die all bewarend
-wol/das Christus die heylig Chriſtenlich Kilch
+Ise schlufred Begrifft vier artickel. Der erst
+ist:Christus ist der heiligen/gemeinen Kilch=
+en einigs houpt. Wen diser artickel verstan=
+den wirt/von dem innern ynfluß der gnade/
+vnd des gnadriché labens / so bedarff er keines disputie=
+rens/wennglich/wie das houpt ynfiüßt in gantzen lyb/
+das låben und die bewegnus. Also flüßtouch vs Chri-
+sto dem houpt der Kilchen/in alle vereinte glider die
+gnad die da ist/das laben der feel Ephe.1. Gott hat Chri
+ſtum geben ein houpt überalle Kirchen/die synlybist/
+vnd die volkomenheit/des der alle ding in alle hatt er-
+fült. Item daselbst am vierden Capitel/wirfölléthin/
+die warheyt/vnnd also in im wachssen/durch alle ding/
+der dashoupt ist/vß welchem der ganz lybist zesamen
+gehefft/vnd geknüpfft durch ein yedes gleich der vßthei
+lung / nachwürckung / in die maß eynes yegklichenn
+glids/vñ also machet das zünemendes lybs/zü erbuw=
+ung sin selbs in der liebi. Item daselbst am fünfften Ca
+pitel/Christus ist das houpt der Kirchen/vnd er ist der
+heylmacher jres lybs. Sisesprüch vnd derglichen/zeyge
+an das Christus ist dzhoupe der Kirchen von dem yn=
+fluß/des houpts in den lyb & Kirche/seyt Joan. Bapt.
+Joann.. Von siner volli hand wir all genommen/gnad
+vmbgnad/wenn das gesatz ist durch Moysen geben/die
+gnad vnd warheit ist beschehen durch Jesum Christum
+vnnd Paul. Ephe. iij. Einem yetliche vß vns ist gnad
+geben/nach der mas & begabung Christi/vf den sprüch
+en vnd derglichen/ist klar. Das Christus ist/das houpt
+der Kirchen/vñ von im einem yegklichen glid/ynflüße
+das gnadrych låben/so aber das wortli vnicum/Eynig/
+weder in denen noch derglichen ſprüchen niendert start/
+23 ij
+VI

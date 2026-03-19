@@ -1,31 +1,33 @@
-V
 Die erst
-vnnd widerumb geystlich / Sodoma vnnd Egyptus.
-Sie sind nun nit abtrünnig gewesen von Jherusalem/
-der heyligen statt Gottes/die sich nit hand geben inn die
-Abgotteryen/o8mit ungerechtigkeit befleckt. Also ouch
-nun/söllen nit gezellt werden/als abtrünnig von Chri-
-stenlicher gmeynd/die da in dem glouben in Christo sich
-Beslissen zeuerharren/vnd vmb Chriftus willen ein liebe
-tragen gegen mengklichem/vnmoglich ist es/das sõlich
-nit in Christenlicher gemeynd burger sind. Den glouben
-nenn ich aber hie nit erkantnuß aller sonderlichen stucké
-in der geschriffe: sonder das vertruwen in Gott/vndin
-Jesum Chriftum fin gesandten/durch welichen glouben
-man bereyt ist/dz woit gottes zehozen/vnd also mit så
-licher begird/dz man ee die gantze welt blassen/begårt/
-dan disen gloube in Chriftu. So wir nun sölichen glou-
-ben begåren/zu bekennen vi vßspreiten/vnd dem wort
-Gottes an allen ortë gloubé geben/sind wir gewiß/das
-dheyn verbannung der mentschen/mog vns vstilgen/
-vs dem Büch der labenden: oder billich zelle/als abrrün-
-nig von Christelicher gemeinsame/zunozab/diewyl wir
-Begirig/allen glidern Chrifti/in warer liebe anzchange.
-
-Alexius Grat/Prediger ordens/bycht-
-uarter in der Jsel zü Bern.
-Die heylig gmenn Chriftenlich filch/de
-ro einig houpe Chriftus ist/die ist geboren
-bfz dem worx Gottes in dem fy blybt/vnd
-borer keins frombden stim.
-Sise
+Brucht ouch die geschrifft den namen der Kilchen/für die
+gemeine verſamlung/allergloubigen in Chrifto/vnnd
+so fürsechen sind/zu dem labe/welche gemeynd Christus
+verheyßt zebuwen/vesten vin gründen/off den velsen/
+der er selbs ist/Matth. xvj. Sise Kilchen nempt diege
+schrifft ein Tuben. Cant.ij. Ein gespons/Joan.iij.Lin
+lyb Christi. Ephe.ij.der kein runtzlen noch masen hat.
+Ephe.v.vn in vnserem alten gloube/ein gemeinschafft/
+der heyligen/welches die vorgenden wort erlüteret/da
+verstand all fromm Christen/das die gemeinschafft der
+gleubigen/ ist die Kilch. Nunbat ein yegliche gemeyn-
+schafft etwas darinn sy gemein hat/wie dann ein gemeine
+Burgerschafft in jren rechten/frybeyten/vnd derglyché
+gemeyn hat. Also ouch die heilig Christenlich Kilch/jrge
+meinschafft hat/Als Paulus zun Ephe.iiij. Ein lyb vn
+ein geyst/ein Herr/ein Glouben/ein Touff/ein Gott/
+vnd vatter vnser aller/So vilnun in der gantzen welt
+zerstrowt/in disem gemeinschafft hend/machend sy ein
+Kilché gorres. Siser Kilché houpt ist Christus/Eph.v
+Ir wyber sollend gehorsamen/üweren mannen/als dem
+Herrn: dann der man ist ein houpt siner husfrowen/wie
+Christus ist ein houpt siner Kilche/vn er ist sins lybs hei
+land.Als nun der man ist ein fürst vi fårer/ein gebieter/
+ein regierer/vnd schirmer siner husfrowen/vnd hat alle
+güter mit jren gmein: duldet sy ouch in aller schwacheit/
+als die bloden geschopfft. Also ist Christus ein fürst vnd
+fürer/vn gebieter.sa.lv. Ezech. xvij. Ein Regie
+rer vi ſchirmer siner gespons der Kilchen/vñ also allen/
+so in jnn verhoffend/vnd mag ein mitlydehan/mit vns
+in aller vnser schwacheit/Hebre.iiij. Sann diewyl Hote
+sin eynigen sun für vns dargestreckt/wie were moglich/
+das

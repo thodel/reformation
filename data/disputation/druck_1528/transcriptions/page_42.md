@@ -1,34 +1,33 @@
 IX
-Die erst
-Epistel zun Corinthern/am vv.capitel. Zum dritten
-macht leren ein zu eim houpt/so volger/das Perrus al-
-lein ein houpt syegsin/da er gelert hatt/ vnd die ander
-Apostel/ouch allein da sy gelert bertind. Zum vierden/
-diewyl weder der Bapst/noch kein mesch/mag ein land/
-noch minder die gantze welt leren/so volgt das einer nit
-mag ein houpt sin. Zum fünffren/so Perrus zu Rhom
-gelert/wie er doch allein ein hirt/ vnnd diener der selben
-Kirchen/so er ein Epistel zü vns zuschrib/zu vnser vn
-derwysung/wurd er ouch vnser diener sin. Demnach
-bat Burgergnügsam anzeygt/das das houpt der Kir-
-chen/soliche ding gebe/die keiner creatur moglich/als lå
-bendig/from/gerecht/vnd sålig machen/vnd die seelen
-ernüweren. Als Paulus zun Ephefern/am v.capitel/
-Elar anzeygt/Christum das houpt der Kirchen sin/dar
-umb das er der heylland fins lybs ist gsin/Vnnd so das
-houpt hinweg genomen wirt/so wirdr ouch alles laben/
-vnd würcken des lybs/stillston. Und also vermagdas
-Ecin fleysch/kein sterbliche creatur/ein houpt der Kir-
-chen. Und das hat der Bychruatter/alles selbs bestäti
-get. All schriffren/die der vatter harfür bracht/gebend
-nüt anders zu/sant Petern/dann dienstbarkeit:solichs
-erschynen wirt/vs disem vnserm verantwurten.
-Der erst spruch vß dem ersten Capitel Johannis:
-Su wirst genempt/Cephas/dz vertütschet der Bicht
-natter/ein houpt/Vnd so er den Euangelisten besechen
-hette/erfunde er/das er selbs vfleyt/es heysse Petrus/
-das ist ein velfer/der erbuwen vii geueftiger ist im glou
-ben vn wort/vm des willen Petrus/weder ein Eckstein
-noch ein grundstein/noch ein velsß/sonder er mit anderen
-låbendig stein/ein offbuwung der låbendige steynen off
-Chriftum/
+Dicerst
+harin gefurt von dem künig Saul/vi in dem selbigen/
+den zeuerstoffen/so seyt er an alle gschrifft/dz Saul dem
+Künig der nam ein houpt/eygentlicher hab zügehost/
+vnd mög zugeleit werden/wenn Sant Petern/oder ey
+nem/oder allen sinen nach komen. Er zelte allein die vr=
+fach siner osserlichen regierung/vnnd sins gewalts/alls
+weer der waltlich gewalt/der ouch von Gott ist etwas
+groffers/vnd wirdiger eynes ſollichen namens/wen das
+Vicariat/oder Stathalter ampt Chrifti/vermeint da
+mit gnüg sin d3 S. Peter od sine nach komen nit mögint
+hoüpter genent werde/ so doch eim yegliche Christen wol
+wüssend ist/das das geystlich regieren/in beyden gesatze
+gesetztist/hocher in würdigkeyt vi an gewalt wed das
+weltlich/zücht an déspruch Paulizu Cozinthern/wie er
+sich vn die anden diener erket/d3 on 3 wyffel ein jeglich=
+er recht geschaffner fünig ouch thüt/syend ouch diener
+gottes/gibt ouch zuerston/das niemand gehöry zu der
+Kirché den die nüw geborne in Hot/by dené verston ich
+die so on sünd sind: die geystlich vnd wolgeschaffen die sel
+ben zelt Marti Butzer für recht Christen/vi sagt daby
+das die selben die Christenlich Kirch sind/die sünder vs
+beschlossen/seyt/das den selbigen niemant moge gedult/
+liebe vnd ander thugent(weyßnit wie er die thugent all
+erzelt hatt in der gemeind) geben/d3 geſton ich alles. Ist
+aber nit gnugsam geantwurt über den spruch Matthei
+am vj Cap. Was du bindest/off ertrich/das ist gebun
+den in den himlen/vnnd was du entbindst/zc. Wann
+das gnügsamlich verantwurt wire/das der spruch nitt
+so vil gewalt gibt/das nit Petro vnnd sinem nachkom-
+men/gnügsamergewalt zu einem houpt geben/vnd das
+sy mogend

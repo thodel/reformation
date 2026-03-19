@@ -1,34 +1,31 @@
-IIX
 Die erst
-Bichematter.
-M Arti Butzer/hat mich mit langer red gebetten/
-wer wolmitt minder gnüg geſyn. Wer vmb-
-schweyff macht/das vrteyllend die vernünffti
-gen. Ich han von dem regiment vnnd Petro (wer mich
-recht verstanden hatt) von der vsserlichen regierung der
-Kirchen anfangs geredt / so kompt Marti Butzer hår
-von dem ynnerlich en regiment. Seshalb ich vor am an
-fang zügeben hab/vnnd will ouch zügeben haben/das
-Christus deshalb syedas eynig houpt der Kirchen. Ich
-han aber der vsserlichen regierung halb/dz ich hoff/gnüg
-geschrifft in disen z weyen sprüche/oder dryen. Sir wird
-ich geben die schlüssel der himmlen/zc. Vnd weyd my-
-ne schaffli/auch den/den Christus vnser heiland zu allen
-finen jüngern gſagt batt/nach finer vfferstende/Joann;
-am letſten Capitel. Nemmend hin den heyligen geyst/
-denen jr die sünd vergeben/denen sind sy vergeben/dené
-irs Behalten/denen sind sy behalten/mit denen ſprüchen
-hoff ich beschlossen habe. Sz ein solcher Stathalter Chri
-sti mit so vil gewalts begabt/der da nit alleyn Begrifft/
-oder in sich Beschlüßt/die vſſeren regierung die dann nütt
-anderst/wen über die vsseren werck/sonders ouch über
-die innern/wenn die selbigen durch bekantnus oder vsser
-veriechung/denselbige Statthaltern oder regierern er=
-offnet wirt. Will ouch daby ein mal/08 zwey gemeldet
-mißbrüch/weder gerechuertiget noch verantwurt habe.
-Es ist aber klar/das sünd vergeben/oder nit vergeben/
-die Conscients oder feel antrifft. Darum hoffenich/ich be
-dd:ffe sin nüt/dz S. Peters innere regierung über keine
-mensche oder oberkeit wyter Bewaredseff/blypt by dene
-sprüchen/zc.
-Off
+himlen/vnnd das du entbindest offerden/das wirt ent=
+bunden sin in den himlen/Johanis am yyj.capitel. So
+sprach der Herr zu Petzo: Symon Johannis/hast du
+mich liebs Zwey mal ward jm geantwurtet: Ja/vñ du
+weyst das ich dich lieb han. Und zwey mal ward im ge=
+sagt: Weid mine lamer oder schäffly. Sise gschrifft halt
+ich vest/vnd gnügsam sin/das Petrus vñ ander nach=
+komend Statthalter Christi/ habend empfangen den
+gewallt off erden/zu binden vnnd entbinden/zu wysen
+vnd leren/das gehdit dem weyden zu/zü pieten vnnd
+verbieten/Sennehan ich vorgeseyt/günnt diegschrifft
+anderen mindern regierendenden namen/des houpts/
+ist Elar/am ersten Büch der Küngen/im vv.cap.sprach
+Samuel vß oder in dem wort Gottes/zu Saul:So du
+Elein warest in dinen ougen/da bist du worden ein houpt
+in den geschlachte Ifrahels. Amos/am vj.capitel. Sie
+fürnemſten hsupter der volckeren.ac.
+
+Butzer.
+f die anzognen gschrifft/damit das heilig wort
+Gottes ernstlich gehandlet werde/wirt durch
+mine brüder/nach ordnung geantwurt werde.
+Sas fölte bewaren der Bychruatrer/das sant Peters
+Beuelch jnn möge zu einem houpt der Kilchen machenn.
+Sarzu hatt er anzogenn das fünffzehend capitel/des
+ersten Büchs Samuelis/da gemåldet wirt/das Gott
+den Saul/zu einem houpt des volcks gesetzet hab/Sa
+folt er aber merckenn/das Saulein vsserlicher Regent/
+von Gott gesetzt gewesennist/ vnnd des houpts art/
+in sõlichem

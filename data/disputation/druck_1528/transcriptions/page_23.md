@@ -1,34 +1,33 @@
-Schlußred.
-IIII
-das er vns nit alle ding mit jm gebëhette/Ro.viij.Vn
-wie das heyl des lybsstadt in verwaltung des houpts/
-also ouch das heyl vnnd låben/aller glsubigen/stadtin
-Christo: dann er ist ein heilland fins lybs. Unnd wiedie
-glider krafftloß sind/vnnd nüt vermogen/on verwal=
-rung des houpts/also ouch die glider des lybs Chrifti/
-der Kilchen vermogend nüt on Chrifto. Dann wie das
-Rabschoß kein frucht treyt/wo es dem wynstock nit yn=
-gelybet Blypt. Also ouch wir/ so nit yngelybet sind dem
-houpt Chrifto/werden wir kein frucht Bringen: dann on
-in vermogend wir nüt/Johan.yv. Sahar ein yeglicher
-verstadt/das kein creatur mag ein solich houpt der kil=
-chen sin/das die güter vin gaaben Gottes/in vnsere her=
-gen giesse/ vns stercke/tzöste/fire/vñ regiere/ouch sye
-ein heylland des lybs Christi.
-
-Sise Kilche ist vs dem wort gottes geborn/wiewol
-sy Gott von ewigkeit/eedie welt erschaffen/erwelt hat:
-yedoch ist sy geborn/vs dem innerlichen wort gottes/v
-dem wort des gloubens/Rom.y. Das Gott låbendig
-vnd tätig machet/vn in vnser hertz redet/welches ouch
-in der warheyt/kein anders ist/von dem das vsserlich ge
-predigot/oder in gschrifft verfasser ist. Dise beruffung/
-erlüchtung/vnd ernt werung der hertze/nenn ich geburt
-der Kilchen. Petri.1. Habend einander ynbrünstig lieb
-von reinem hertzen/Als die wider geboren sind/nit vs
-eim sterblichen somen/sond vs eim vnsterblichen/durch
-die wort des labendigen Gottes/der in ewigkeyt belybr:
-dann es müß die geystlich geburt der Kilchen ouch von
-eim somen fin. Wellicher aber nit fleysch vnd blut/noch
-keins menschen willen/Joan.1. ouch nit ein zergengklich
-sonder das ewig vnd libendig wort Gottes/deß vnser
+II
+vnd brüder/früntlich zübeschriben/sich gewlisser war=
+heyt/von ück zu erkunden/damit mengelich allenthalb
+zü rüwen in jren gewüssen gegen gott/vnzü gütem fri-
+den/vndereinandern komen möchtind. Nundem also
+nachzukomen/sind wir vnwirdigen diener/ vnd predi=
+ger des heyligen Euangeliums/min brüder Berchtold
+vnd ich eruordert/ vnsers gloubens vnd predigens rech
+nung zegeben/des wir mit sampt allen denen/so das E=
+uangelion bekennen/vrpüttigfind/vnd nach ordnung
+vßzeychnover articklen/ouch allen redé/so darus möch=
+ten volgen/zu antwurten/vnd mit gewaltiger gschrifft
+zü bewaren. Es bittet vns ouch der heilig Paulus/das
+wir nit zenckisch/sonder volkomen/eins finno/eynerley
+meynung syend/vnd das ein yegklicher der gaab/oder
+kunst/so jm Gott verlichen hare/nitstolz vnd vffgebla
+ſen (quia fcientia inflat) yemats verachte/sonder in Chriſte=
+licher liebe (que fola ædificat) einer des anderen burdy trage/
+einer dem andern diene. Eströstet ons ouch vnser lieber
+Herr Jesus Christus/in de da er ſpricht/Matthei. vij.
+Bittend/so werdend jr empfahen: suchend/so werdend
+jr finden: Elopffend an/ so wirt ich offthon. Ses erma
+nen ich üch all vßerwelten/gotsfründ/das jrüwere her=
+gen vor Gott wellend demutigen/vnd mit mir beken=
+nen/fprechende/Jch armer sündiger mensch.ac. Vatter
+vnfer. Aue Maria.ic. Wir bezligen ouch hiemit/d3 wir
+wider keinen artickel vnsers alten Christenlichen glou-
+bens/ügid handlen wellen/der also lutet: Ich gloub in
+Gott vatter.ic. Wir hand ouch nützid für vns genom
+men/wider den einfaltigen ynsatz des Nachtmals vn=
+fers herren Jesu Christi/das man bißhar die Meß ge
+nempthat. Sivi.
+21 tj

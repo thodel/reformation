@@ -1,31 +1,33 @@
-Die erst
-zal/der Apostel/vnd durch geschrifft bewirt/das es not
-ware/ein/an Judas statt zeerwellen. Item in dem er-
-sten Concilio/Actorum.vv.capit. do gefragt ward/ob
-man die gebott und beschwardung des alten gesatz/sol
-te offlegen/denen die bekert wurdend vß der Heyden=
-schafft/da ist er gewesen/der den erste sententz gebé hat.
-Item am v. capitel Actorum/do Ananias vnnd Sa=
-phyra hetten ein acker verkouffe/vnd etwas des gellts
-verholen/oder dahinden behalten/da hatt sant Peter
-die selbigen gestrafft mit dem gåhen thod. 2c. Item der
-inneren regierung vnd ordnung halb/hat er mitsampt
-den anderen Apostlen/mit sant Paulo wol mogen ſage:
-Ich han üch in Christo Jesu geborn/durch das Luan=
-gelion. Item Acrorum am iij. capitel/hat er das selbig
-ampt ouch bewysen/do er sprach: Würckend büß/vnd
-wårdeüwer ein yegklicher getouffet/ in den namen des
-Herren Jesu/so werdend ir empfachen den Heyligen
-geyst/die geschrifften all/vnd derglychen/der man noch
-vil mocht darbringen/Bewårend/das der heylig sant
-Peter/hat gewallt empfangen/vnd ouch den selbige ge
-brucht. Ser regierung halb/der heyligen Kirchen/dar
-umb er mitsampt/den anderen ist gesetzt/ein fürst über
-alle erd/als am pliiij. Psalmen wysgesagt ist/da Sa-
-uid spricht: Sir sind fün geboren für die våtter: Die
-wirst du fürsten setzen über alle erd. Hat nun Petrus
-das Regiment geübe vnd brucht/ vnd des gewalt em-
-pfange/als bewärt ist/ so treyt das ampt vnd d; werck
-den namen mit jm.
-Burger+
-Ser
+Dic erst
+losen/sünd verzychen vnd vorhalten/ein ding ist/so be=
+kennend ir mit vnns/das Marthei yvj Capitel Petzo
+die schlüssel verbey|sen/vnd Joan.im yy.Cap.geleystet
+darumb aller span vnnd Erafft hie hanget/was binden
+vnd låsen Petro zugeb/nun gibt es nit zu dz er ein houpt
+sye/dann all Apostel haben gliche dienstbarkeit zebinden
+vnd zelosen. Sarumb sag ich Chustenlichen brider/dz
+binden vnd losen/verzyhen und verhalten nit anders
+ist/dann leeren das wort Gottes/vi predigé das Euan
+gelium Christi. Das sind die schlüssel/das ist der höchst
+gewalt/der Petro vnd allen Apostlen geben ist/ welches
+alles weder jnn/noch kein Apostel zu eim houpt macht/
+allein ist Gott der vß eigne gewalt vnd dåtlich die sünd
+verzycht. Esaie pliij Cap. Ich Bins/jch bins der da v
+chilget dine Boßheit/vnd diner fünden wird ich nit mere
+gedencken/vmbmynet willen/ Petrus aber vn die Apo
+stel/verzychend die sünd durch dienstbarkeyt des worts
+vnd verkündung des Euangelions/ so sy den glaubigen
+zugesprochen hand/durch Christum jre sünd verzigen
+sin/vnd den vnglaubigen jr sind gebunden sin. So aber
+Christus zügibt Petro vnd den Apostlen die sünd ver-
+3ychen/Binden/losen/glich als ob sy es thilyend/ist dem
+glich das Jhieremie/am ersten Cap.geschreiben stat/da
+gott spricht: Nim war/ich hab mine wort in dine mund
+geben/das du vßrütist/zerstözist/vnzertrennist/6uw=
+ist und pflanzist. Die gibt Gott dem Propheten zu/dz
+aber er allein thüt/vnnd in was gestalt der Prophet zu
+diser sach thut/wirt hieruß vermerckr/so Gott spricht
+ich hab mine wort in dinen mund gesetzt / Bedütet das
+der Prophet leeren vi straffen fölle/Hot wirt aber dem
+wo:t denachtruck gebe/also ouch hie so Christus spricht
+das

@@ -1,33 +1,34 @@
 Schlußred.
-XVIII
-das wortly/in/als vil als eintzig: dann nieman wirt
-jme ein nåbend Gort bekennen. Also ist ouch hie niemat
-nåbend Christo/derdas thün möge. Sarumb er von
-Paulo/ein houpt genempt wirt/darum ist er ein eintzig
-houpt. Wyterdes würtlins halb/gschrifft vo:schen/ift
-wellenn/offenlich ein wort zanck/wider vnser gnadigen
-Herrn von Bernn Mandat ynfüren/das gib ich vnseren
-wirdigen hern den Presidenten/zü erkennen/vnnd der
-gantzen gemeynd gottes/hie verſamlet.
+XVI
+vnd so man dieglychnus haltet gegen vnserm handel/so
+wil er damit bewaren/das Petrus ein diener vnnd ein
+houpt sye/das er ein diener sig/wirt der Bichtuarter nit
+lõugnen/das es gnügsam iets mit der gschriffe bewarr
+ist/vnd in allen sinen ſprüchen/sich anders nüt erfunden
+batt. Warum aber Petrus ein houpt fy/da begåren wir
+gschriffe vmb/da lyt der hafft/das musend ir bewaren.
+Sum anderen das er sich beklagt/er mog vnser verant=
+wurten nit faffen/bedunckr vns vnbillich/dan sin lange
+red gester gethon/haben wir müssen vaffen vn verant=
+wurten.
 
-Bichuatter.
-Err Martin ſagt/zum letsten/ich kempff mit
-worten/Sarzu sag ich/es ist ein anders kempf-
-fen mit worten/vnnd ein anders kempffen mit
-dé wort Gottes. Die text all die herr Marti harbracht
-hat/saged von eim mitler/jch red doch nit von eim mit=
-ler/die conclusio lutet ouch nit daruon/sy lutet von eym
-houpt/zwischend dem lyb/nit mittler. Ich han gestern
-zügelassen/vnnd laß noch zu/das Christus vnserheyl=
-land sye/ ein houpt der gantzen Christenbeit/hatt aber
-der regierung halb ein ſtatthalter gesetzt/mit den kreff=
-tigen worten/Weyd mine schaffly. Ich han nåchtest ge=
-seyt/ich well damit beschlossen ban/wen mit allen spri=
-chen die harbracht sind/der dienstbarkeyt halb/wirt pe
-220 der gewallt/der jm vonn Christo gebenn/über die
-schaaff/nüt abbrochen. Wenn machte die dienstbarkeit
-das eyner darumb nit ein Oberer/Regierer/oder houpt
-möchte genempt werden/wie geschache dan dem spruch
-zun Rhomeren/amyv. Capitel/ Sa Paulus spricht/
-Sas Jesus Christus ist gſin ein diener der schnydung/
-进门
+Bicheuatter.
+
+As der heylig sant Peter moge geheissen werden
+ein houpt/ist gnüg Elar/gesterbart mir Marti
+Buger das nachgeben/das Saul mog recht ge=
+nempt werden ein houpt/in der geschrifft von regierung
+vnd gewalt wågen sines Eünigrichs. Das nun sant pe=
+terden gewalt empfangen hab/folliche regierung über
+die schaaff Christi zü uben/das selbig mag bewert wer-
+den/vß claren repten/namlich Matth.y. Capi: Batt
+Christus sinen jüngere gewalt gebé/ über die bösen vn=
+reinen geist/das sy die vßrriben vnd über die franckhey=
+ten/das sy die selbigen all gesund machen/Petrus hat di
+ſes fürnemlicher gelibt / wenn wir von vnserm heyland
+felbs låsen Acrorum v. Cap. Die Francken wurden off
+die gassen geleyt in jren berelyn/off das so Petrus kam/
+d3 sin schat er wan ein vs jne beschatigete/vi sy entledis
+get wurde/jrer franckheit Act. j.cap. Ist Petrus vffge=
+standé vnd den andern/vihat fürgeleit den mangel der
+S iiij

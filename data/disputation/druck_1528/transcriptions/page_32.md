@@ -1,31 +1,31 @@
-Dic erst
-selbs leert vnnd regiert/fůrt ouch zů einem tugenlichen
-lebenn/vnnd was er geredt/laffe er im also nach. Er
-hab aber noch nit bewårt/das Christus alls das ynflies
-send houpt nit regiert die heilig Christelich Kilche durch
-sin gesetzte Stathalter/diser ſprüch keiner Bewårt/das
-Christus nit die Kilchen regiere/durch seinen Stathal=
-ter/den er gesagt hab/in ein thugenlich låben.
+fo zwyfellt der einfaltig nit onbillich/das villicht nit ein
+vntrüw da verborgen sye. Südem ersten/vmb der an=
+deren eygenschafftlichen übungen willen/die das houpt
+hatt über die glider des lybs/das es die andren glider wy
+set vnd regierr/in den ossern wercken. Südemandren/
+das die göttlich gschriffranzeigt/das Christus ouch har
+gesetzet einen Sratthalter der gemeinen kirchen/hie off
+erdenn/des gewalt/ouch in dem himel krafft hat. Von
+dem hand wir Johañis am erste capitel/Das Andreas
+finen brüder Simonem zü dem Herren Jesu fürt/vnd
+fprach: Wir hand Messiam funden. Do der Herr Jez
+sus Symonem ansach/do sprach er: Su bist Symo ein
+sun Johannis/du wirst hinfür heyssen Cephas/d3 wirt
+vsgeleyt/Petrus. Cephas ist Griechisch/vnd bedüt ein
+houpt. Item Matthei am vj. capit. Su bist Petrus/
+vnd off den velsen wird ich buwen min Kirch: Und die
+porten der helle werdend dir nit mogen widerston: Vnd
+dir wird ich geben die Schlüssel des Rychs der himlen/
+vnd alles das du wirst binden off erden/das wirt gebun
+den sin in den himmlen: vn was du entbindest off erden/
+das wirt entbunden sin in den himmlen.
 
 Berchtoldus.
-Ir haben nach der lenge bewårdt/das Chri-
-ſtus sye das einig houpt der sin Kilchen lert/re
-giert/fůrt vnnd bringt zů einem thugenlichen
-låben/das keiner creatur möglich/d3 er aber fůrwendt/
-von einem gesetzten Srathalter/der föllichs vermöge/
-das probiere mit der gschrifft/dann das ist Chriſtum ge
-schmecht.
-Wartinus Bucerus.
-Nedigen herrn liebe brůder im herren/demnach
-die ordnung miner gnedige herrn vermag.Sas
-wer etwas zu erlütrung der warheit/vermeint
-fürzebzingen/das der selbig fölle gehort werden/so mei=
-net ich ein wenig zü iets yngefürter gegenred des bicht-
-uatters/zesagen. Namlich das er von deabtrit/das mi
-ner gnedige herren von Bernn viſchriben vermag/das
-nur mit gschrifft gehandelt werden soll. Er will Bewå=
-ren/das Christus nit das eynig houpt sye der Kilchen/
-dann ob er woll nach dem gnadrichen ynfluß in fine glis
-der/allein der Kilchen houpt sye/so fiend doch ouch an=
-dre eigenschafft des houpts/deren noch Sant Peter vi
-fine
+Kommen fürgeliebten Christen/der Bychtuar
+ter hat in anfang finer red/zum güten theyl vn=
+ser Schlußred/mit vier sprüchen der geschrifft
+Bestätiger/des ich im grossen danck weyß/wie Christus
+des ynfluß halb/syedas houpt der Christenlichenn ge=
+meynd/doch so manglet jm/das wir sprechend/er sy ein
+eynig houpt. Siewylin dheinem spruch durch in an30=
+gen/von

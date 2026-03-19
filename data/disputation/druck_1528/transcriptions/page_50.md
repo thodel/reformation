@@ -1,31 +1,30 @@
 Die erst
-Wir begårend aber geschrifft/die Petzo zügeb/das inn
-ein houpt der Kirchen mache/namlich ein beylland sin
-der Kirchen. Wir gebend aber jm geschrifft/ouch des
-wortlin balben/Eynig/darumb das wir am iiij. capia
-tel zun Ephesern haben/ein Herren. Vnnd in der ersten
-Epistel zu Thimotheo/am ij. capitel/Ein mitler zwi-
-schen Gott vnnd dem menschen. Christus hat allein die
-vnsterblicheyt/vnd das laben/darumb wirt er ouch al-
-lein deren/so zum låben vnd vnsterblicheyt beriffe sind/
-ein eynig houpt sin.
-
-Bichtuatter.
-Ch han begårt ein Text/ der da anzeygte das
-wort/Einzig/sind nur text bracht/die da få-
-gen/Ein/ein yerlicher Tütscher weyßt das ein
-grosser vnderscheyd ist vnder Ein vn Einzig/ Einzig
-schlüßt all ander vf/in/laßt ein anderen by jm bely-
-ben/vnd wirt warlich gseyt/wenn zwen sind/Einer ist/
-es wirt aber nit war gseyt/ein eynzigerist.
-
-Buccrus.
-Jewyl niemand überal ist/der das hab/das zu
-einem houptder Kirchengehört/namlich sy få-
-lig macht/dan allein Christus/ so volgt ye klar
-lich/das man sagé můß/das einzig houpt. Sarzu/die-
-wylniemand mitlen kan zwischen Gott und demen=
-schen/dann allein Christus/so gillt aber dz wortli/Ein
-mitler/als vil als einzig/Also/Jch gloub in eine Gorr.
-Sa ist aber Ein/vnd nit einzig/vnd gillt aber dennest
-Das
+ander gschrifft/das Christus nit ein einig houpt sye/dan
+ob schon jr thusent ſprüch ynfurend von de leerer ampt
+oder dienstbarkeyt/des worts/werdend jr doch nit pro-
+bieren/das Petrus oder yemand anders ein houpt [ye/al
+so find all yngefurt ſprüch verantwurter.
+Bichauatter.
+Udine name siisser herr Jesu Erwürdige gün
+stigen wysen Herrn / gefter han ich das erst das
+herr Berchtold iets gemeldt hatt/der dienstbar
+keyt halb oder diener/wie sy sich dienernemen/gnügsam
+verantwurt/d3 thut ein künig ouch/ist dennocht ein kü
+nig. Ist nüt vnzimlich noch unmöglichsda har bracht/
+ob schon einer ist/vnd genent wirt ein oberer/vn vnder-
+thon zuuergliche/nir gegen eim. Ein Herzog in eim kü
+nigrich mag genempt werde ein vnderthon. Er ist ouch
+ein oberer/zuuerglichet de künig/so ist er ein vnderthon:
+Süuerglicher gegen sinen onderthonen liten/so ist er eyn
+oberer/vnd wirt genempt ein houpt/das ist eins.
+Off das ander zeant wurten/Bezüg ich/ist mir nitt
+moglich/gloubouch das wenige möglich ordenlich in dz
+boupt zefaffen zeuerantwurte/nun sind & gründ vñ vr=
+sachen harnach volgend/ so vildas ich die nit wol Behal-
+ren mag/Beger aber dz mir herr Berchtold die nochmals
+eroffne wil ich darnach aber antwurten.
+Berchtoldus.
+Romen Christen es hatt ein kurtzen bescheid die
+glichnus so er har fürbringt/d3 einer ein hertzog
+vnnd ein diener sye mit einandern / in eim rych
+vnd

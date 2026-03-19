@@ -1,31 +1,34 @@
-Schlußred/
-XVII
-Er Herr leer ons füchen/sinen willen vn war=
-heit/mit luterm herze. Vß alle anzogne spri=
-chen/so hat der Bichtuatternit wyters bewårt
-dan das Sant Perer/ein fürtreffenlicher die-
-ner des Euangelij/vñ gar kein houpt gewäsen ist. Sar
-umb begåren wir noch hätt by rag schrifft/die Petrum
-zum houpt mache. Die Kilch leren (mer hat kein Apo-
-stel nye können) ist der Kirchen Diener sin/ vnnd nitt
-houpt.
-
-Bycheuatter.
-Herr Marti Butzer hat am ersten anzogen/ich
-hab den spruch des erste büchs Regum/im xv.
-capitel/gestern verantwurt/hütt wider an30-
-gen. Darzu sag ich das ich den selbigen spruch nit an30=
-gen hab/aber gemeldet. Das gestrig zülassen/durch jnn
-Beschechen/ein antwurt zegeben. I lun yetz zum andren/
-das er begårt/vn mich tringt/ein heytern text/darbrin
-gen/zübewaren/d3 Petrus ein houpt der Kirchen sye/
-da mein ich/jm sye gnug beschechen/So ich bewårt han/
-das Sant Peter hatt die regierung der beyligen Chri=
-ſtenlichen Kirchenn/of beuelch Chriſtigethon. Wiler
-aber das ich ein spruch bring/der dz wozt/houpt/hab/
-so sol er ouch billichen darbringen ein spruch/der d3 wort
-Vnicum/das ist/Einig/hab.
-
-Butzer.
-Ir begårend nit geschrifft die &ben das wõitly
-houpt/vstrucke/am wort ist es nitt gelågen/
+Schlufzred.
+XV
+das die Apostel die sünd vergebind/bindent vnd losend
+dienet ouch off das leerer ampt/vnd dienstbarkeyt des
+worts / welches ermassen/wirdt vs den vmbstendenn
+des handels vermerckr/anzeygt Matth.yvjCap.vnd
+Joannis.yy.Cap.San Matth.yvj Cap.hat der herr
+fürgesetzt. Su bist Petrus ein velſer gefestiget/gründe
+im glouben vnd wort/darum diewyldu Petre/im wort
+vnd glouben geuestiget/wird ich dir geben die schlüssel/
+die selben hatt er geleister/Joannis vy. Cap. Mit alleyn
+Petro/sonder allen Apostlen/so er ſpricht/welchen jrdie
+sünd verzüchend/zc. Sz aber die sünd verzychen zu der
+dienstbarkeyt des worts gehore/findt sich vß dem/das
+daruoz stat in Joanne: Nammend den heyligen geyst/
+welches Lucas also erklärt Erhart jnen jr gmåt offge
+thon/das sy verstendig wurdint/ vnnd Joan. yy.Cap.
+Nach dem Christus den friden synen jüngern gewünſt
+hat/sprach er/wie mich der labendig vatter vi gesendt
+hart/also send ich üch. Marcus erklärt es also:Gond vs
+in alle welt/vnd predigent das Euangelion allen crea=
+turen. Lucas: Es müß geprediget werden in finem na=
+men/diebüß vnnd vergebung der sünd/vnd das ist das
+Euangelion/welches Marcus also darthüt/wer gloubt
+vnnd toufft wirt der wirt sålig/wer nit gloubt der wirt
+verdampt/als vs den vmbstenden des handels/dendie
+Euangeliften schribend/ist offenbar/das die schlüssel des
+rychs derhimlen/sind die predig des Euangelij die sünd
+offlåsen vnnd verzychen/ist verkünden den glóubigen/
+das jnen jr sünd verzigen sind durch Christum Binden
+vi vorbehalten die sund/ist verkünden dem vngloubi-
+gen/das im sine sünd vnuerzigen vnd vorbehalten sind
+darumb lyt es hie Bichtuatter/das jr bewarind durch
+Siij

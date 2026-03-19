@@ -1,33 +1,34 @@
-IX
-Dicerst
-harin gefurt von dem künig Saul/vi in dem selbigen/
-den zeuerstoffen/so seyt er an alle gschrifft/dz Saul dem
-Künig der nam ein houpt/eygentlicher hab zügehost/
-vnd mög zugeleit werden/wenn Sant Petern/oder ey
-nem/oder allen sinen nach komen. Er zelte allein die vr=
-fach siner osserlichen regierung/vnnd sins gewalts/alls
-weer der waltlich gewalt/der ouch von Gott ist etwas
-groffers/vnd wirdiger eynes ſollichen namens/wen das
-Vicariat/oder Stathalter ampt Chrifti/vermeint da
-mit gnüg sin d3 S. Peter od sine nach komen nit mögint
-hoüpter genent werde/ so doch eim yegliche Christen wol
-wüssend ist/das das geystlich regieren/in beyden gesatze
-gesetztist/hocher in würdigkeyt vi an gewalt wed das
-weltlich/zücht an déspruch Paulizu Cozinthern/wie er
-sich vn die anden diener erket/d3 on 3 wyffel ein jeglich=
-er recht geschaffner fünig ouch thüt/syend ouch diener
-gottes/gibt ouch zuerston/das niemand gehöry zu der
-Kirché den die nüw geborne in Hot/by dené verston ich
-die so on sünd sind: die geystlich vnd wolgeschaffen die sel
-ben zelt Marti Butzer für recht Christen/vi sagt daby
-das die selben die Christenlich Kirch sind/die sünder vs
-beschlossen/seyt/das den selbigen niemant moge gedult/
-liebe vnd ander thugent(weyßnit wie er die thugent all
-erzelt hatt in der gemeind) geben/d3 geſton ich alles. Ist
-aber nit gnugsam geantwurt über den spruch Matthei
-am vj Cap. Was du bindest/off ertrich/das ist gebun
-den in den himlen/vnnd was du entbindst/zc. Wann
-das gnügsamlich verantwurt wire/das der spruch nitt
-so vil gewalt gibt/das nit Petro vnnd sinem nachkom-
-men/gnügsamergewalt zu einem houpt geben/vnd das
-sy mogend
+Die erst
+
+As herr Marthin Buger/hatt ein lange red/
+one gschrifft gefurt/vn geben ein exempel/von
+einem Künig/der macht hab in sinem Künig=
+rych gewaltigklich zeregieren/er hatt ouch das
+wüssen der Gesatz/Statuten/vnnd Ordnungen/wie
+ers dann genempt hat/das selbig wüssen oder erkennen/
+der statuten vn gesatz/habind ouch fine Doctores oder
+Rhadt/mogend aber nit darumb Künig genempt wer=
+den. Nun sye es hierinn ouch also/das man Belybe by
+sant Peter/mag menger predigen oder leren/das sant
+Peter hat geleret/moge aber darumb nit ein houpt ge=
+nempt werden/mangels halb/das er nit hab den gwalt
+zeregieren. Wenn ich geschrifft darthåte/das sant Peter
+den gewallt von Christo empfange hab/hie off erden/
+über die Christenlich Kilch/vnd das nit allein für sich/
+fonder in ewigkeit/für sich vnd sine nach komen. Wenn
+ich das thůn/so boff ich darnach/syg vmb ein kleines ze-
+thund/sye ouch kein gotslestrung/ob man schon den na
+men eins houpts/cim sölchen Statthalter Christi gön
+nen fölle.
+
+Buccrus.
+
+As jr geschrifft sollend darthůn/das die regie=
+rung/so Petrus selbs hat thůn mögen/jnnha=
+be (schrifftlich zereden) mögen zů einem houpt
+der Christenlichen gemeind/machenn: dann houpt sin
+der Kirche ist nach Paulo die Kirch geistlich labendig
+machen/vnd mag sant Peter/vnd aller finer nachkom
+me/welche sind allein die/so sins geists vn gloubés sind/
+sich nit wyter strecken: dann das sy vsserlich das Euan=
+gelium

@@ -1,33 +1,32 @@
-Schlufzred.
-XI
-in sollichem vsserlichen regiment/hatt bewysen können/
-so man aber redt nach Paulo von der Christenlichen ge=
-meind/welches da find alle die im geyst nüw gepozenn/
-ein göttlich låben furen/welches niemand/dan allein der
-herr verlyhenmag/vnd alles thun/Sant Peters/vnd
-aller Apostlen/nur ein vsserlicher dienst durch Paulus
-genempt wirt/so ist noch nit bewert/das (der geschrifft
-nach zureden) Petrus oder einiger anderer Apostel got=
-res/mog ein houpt der Kirchen genempt werden/vnd
-solte der Bychtuatter den ſpruch pauli am vierden Ca
-pitel 8 ersten Epistel zun Chozi.verantwurte/da pau=
-lus von jim vnnd syns glichen scheibt/man föll sy halten
-fürdiener Christi vnd schaffner/das ist prediger der ge=
-heymnussenn Gottes. Nemlich das heylig Euangelion
-daran stat es noch/d3 er geschrifft bring/ was er gethon
-das es inne zum houpt machen mog. Christus ist allein
-der geystlich herr/er kan sy endere/das sy krofftig sind.
-Sant Paulus/Petrus leer/bringt nüt/Christus leyte
-sy dann. Niemand kan die hergen enderndann er/vnnd
-gebend also Christo die eer/land sy binden/das ist/erken
-nen gebunden/die nit glouben. Sann das sind die kinder
-Abrahe/die die werck Abrahe thund/darumb so eruor=
-dern ich geschrifft. Sz Petrus von ſyne ampt ein houpt
-mog genempt werden.
+Schlussred
+IX
+sine nach komen/mogen oud) hsupter der Kirchenn ge=
+nempt werden/als da ist wysen vnnd leeren. Siß ist
+aber eben ein ynred/als so einer bewaren wellt/wår et=
+wan ein eygenschafft des Künigs hozte/das er darumb
+Künig wäre/ als ein Künig/sol der Rechten vnnd sa-
+Hungen/kündig fin/das sind ouch sine Rhådten vnnd
+Soctozes: sy mogen aber darumb nit Künig geheyssen
+werden/sonder allein der/der vollen gewallt zeregieren
+hat. Also leren vii wysen ist ein eygenschafft des houpts/
+aber nit ein sõliche/das war sy habe/darumb das houpt
+genempt werde moge. Paulus nennet Christum dahår
+das houpt der Kirchen/das er sy durch sin geyst låben=
+dig vnnd sålig machet/wie min brüder Berchtold an=
+30gen hat/Solichs vermag nun niemant/dann alleyn
+Christus/vnd alles das sant Peter/oder eyniger Apo-
+stel/ye vermocht hat/ist nichts mer dann vsserlich pre=
+digen des Euangelions. Weliches doch vnkreffrig ist/
+wo es nit der eynig meyster/Christus/ im hertzen låben=
+dig vnd krefftig machet. Sarumb müßt jrherr Bycht=
+uatrer/ schriffehar bringen/das sant Peters ampr/be=
+uelch/vnd werck/ so wyt sich strecke/das er darumbder
+Kirchen houpt genennet werde/nach der gschrifft zerea
+den. Sie schrifft last ein dienst fin/j. Corinth.iiij. vnd
+erkennen/daher Perrum ein diener der Kirchen/machet
+jnn deßhalb zu keinem houpt: dan nach Paulo/der Kir
+chen houpt sin/ist jr heylland sin/wie vs paulo anzoge
+zun Ephesern am fünfften capitel.
 
-Bichtuatter.
-Err Parti Bucer/langt mich an zubewaren/
-das der nam eins houpts Sant Peter/vnd sy=
-nen nach komen mog geben werden/seyt zü dem
-ſpruch am erste Büch & küngeim yv. Cap. Sen ich han
-C ij
+Bychematter.
+C

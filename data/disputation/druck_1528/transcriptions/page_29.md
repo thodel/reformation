@@ -1,32 +1,33 @@
-Schlußred.
-gen/von dem houpt der Kilchen/das wort/ynig/ge=
-meldet werd/gib ich im zu antwurt/das nach eygnem
-ermessen/der geschrifft vnnd eygenschafft/des houpts/
-eim yegklichen gleubige/verstendig ist/das Chriftus sye
-das eynig houpt. Sann das Paulus spricht/zun Ephe
-fern am v. capitel. Das Chriftus selbs sye ein heylland
-fins lybs/darumb mag sölichs dheiner creatur zügemes=
-sen werde. Petrus ist nit vnser heyllad/Ser Bapst.ic.
-fonders allein Christus: vnd ob schon d3 wortly/Linig/
-mit worten nit erlütert ist/ so erlürert doch das der Apo
-stel/das Chriftus darum ein houpt sye/das er dz heyl si=
-nem lyb gebe. Sarum lieber varter/gebend Christo die
-eer/vnd lassend in dashoupt blyben/Es sye dann sach/
-das jr mit geschrifft bybringent/das einicher creatur fo-
-liche eygenschafft/zügeben mog werden.
+Schlußreo.
+V
+filrnemens achrete/sind wir ouch bereyt/sölichs zeuer=
+antwurten. Nun walte sin Gott.
 
-Bycheuatter.
-Err Berchtold hat mir ein antwurt gen/die er
-jm selbs zunoz gen/so vil zu gut/d3 er dancker.
-Ich bin gentzlich nit darwider/dz Chirstus der
-ynfluß vnd dz gnadrych laben/der Kilche sye/von dem
-alle gnad ynflüßet. Sas houptstadt nit alleyn off den
-menschlichen lyb/das jm das låben allein ynfliessen fölle.
-Es har ouch die Lygenschafft/denlyb zeregieren/in fi=
-nen offeren wercken/vin ibungen. Sonun Christus sin
-sichtbarlich/lyblich/gegenwürtigkeit/wolt offnemmen
-in den himel/Beducht in gut/ hats ouch than/d3 er fine
-eynigen lyb/das ist der heyligen Christenlichen Kilche/
-bie offerden satzte/einen/durch den er/als durch sin ver
-ordnet gesetzt houpt/vnd Statthalter/regieren welte/
-Bij
+Disem nach sind berufft worden all ge
+lerten vnd vngelerten/geyſtlich vnnd weltlich/heymsch
+vndfzsmbd/nach der ordnung/als die vozred das vf=
+truckt.ac. hic von kürze wege vßgelassen/die ynzeschry
+ben/so offgestanden find/vnnd die erste Schlußred für
+gut vnd Christenlich geschetzt/ouch die so die zewider=
+fechten vnderstanden.ac.
+
+Doctor Johans Huischyn/
+vß nachlaß der Presidenten.
+
+Jdtmals vil sind/die uns anziend als abtrün=
+nigen/von der heyligen Christenlichen gemeyn=
+same/des wir achren für das aller grülich oft la=
+ster/das einem Chriften mag offgehept werden. Hier=
+um mit kurzem/begårichs zeuerantwurten. Es stade
+eim yeden Christen zu/sin låben dermas anzerichtenn/
+wie ers am jüngsten tag vetrüwt zeuerantwurten/vnd
+grössers vffsecken zehan off das vitheylgottes/dan der
+mentschen: dan wo wir den mentschen geuallen wellen/
+werden wir nit ſin Enecht Chriſti. Nun ist ein ander vr=
+theyl gottes/vnd ein ander vrtheyl der menschen/Bie=
+rumb gepürt vns allen/ein offsechézehan/dz wir syend
+in der Kilchen die von Christo erwellt/vnd nit schliche
+off die vermischten Kilchen/wie wir durch alle prophe=
+ten/vn geschrifft finden/das diestart gottes Bierusale
+ein heilige start genempt wirt/von wege der ynwonern/
+23

@@ -1,33 +1,34 @@
-Schlußreo.
-V
-filrnemens achrete/sind wir ouch bereyt/sölichs zeuer=
-antwurten. Nun walte sin Gott.
-
-Disem nach sind berufft worden all ge
-lerten vnd vngelerten/geyſtlich vnnd weltlich/heymsch
-vndfzsmbd/nach der ordnung/als die vozred das vf=
-truckt.ac. hic von kürze wege vßgelassen/die ynzeschry
-ben/so offgestanden find/vnnd die erste Schlußred für
-gut vnd Christenlich geschetzt/ouch die so die zewider=
-fechten vnderstanden.ac.
-
-Doctor Johans Huischyn/
-vß nachlaß der Presidenten.
-
-Jdtmals vil sind/die uns anziend als abtrün=
-nigen/von der heyligen Christenlichen gemeyn=
-same/des wir achren für das aller grülich oft la=
-ster/das einem Chriften mag offgehept werden. Hier=
-um mit kurzem/begårichs zeuerantwurten. Es stade
-eim yeden Christen zu/sin låben dermas anzerichtenn/
-wie ers am jüngsten tag vetrüwt zeuerantwurten/vnd
-grössers vffsecken zehan off das vitheylgottes/dan der
-mentschen: dan wo wir den mentschen geuallen wellen/
-werden wir nit ſin Enecht Chriſti. Nun ist ein ander vr=
-theyl gottes/vnd ein ander vrtheyl der menschen/Bie=
-rumb gepürt vns allen/ein offsechézehan/dz wir syend
-in der Kilchen die von Christo erwellt/vnd nit schliche
-off die vermischten Kilchen/wie wir durch alle prophe=
-ten/vn geschrifft finden/das diestart gottes Bierusale
-ein heilige start genempt wirt/von wege der ynwonern/
-23
+Die erst Schlußred.
+vnd zu sonderen personen der Cardinalen/Bischoffen/
+vnd Bapsten getrungen haben.
+III
+Zum dritten/das durch somlich fürgeben/vil jrsal/
+gebott und verbott/ouch valsch gotsdienst/ sich yngeris
+sen haben/vnd das zü grossem nachtheyl götlicher war
+beyt/Christenliches gloubens vnd liebe:
+Tum vierden/Sas sy nit allein vnder dem schyn/
+zytlichs güts/ja die besten/jnen züzogen/welches doch
+geduldet werden möcht: sonder sich ouch vermessen über
+die seelen vnd consciens der menschen zü herrschen.
+Zum fünffren/das vil vnder dem schyn/thittel vin
+namen/der Kilchen sich beschirmpt haben/wider d3 hell
+gotswort/fürwendend die possess vnd gewerd der Kil-
+chen. Sise vnnd der glychen/sotäglich in gemeiner red
+find/hand ons bewegt/das wir mit diser Schlußred be
+griffind/alles das vins der Herr vf dem schatz göttli=
+cher gschrifft zeleren/verlichen hat. Samit wir nun ver
+standind was dernamen (kilch) off im trag/wüffend
+all gelerten/das das wort ἐκκλησία, Ecclefia, Griechisch/off
+Tutsch ein versamlung heißt. Als wir habe/Llum.xv.
+Wo:umb hast vsgefurt die gmeynd des Herren in die
+wüster Bie sechend jr/das nit sunder personen/sonder
+ein gantzegmeynd/der kinder von Ssrabel/ein Kilchen
+genempt wirt. Sahar die geschrifft die versamlung gu
+rer vnd böser/weniger vnd viler/ein Kilché nempt.Als
+Paulus schrybt der Kilche/die in Corintho ist/j. Coz. j.
+vn Christus gebütet den sünder/fo zwey mal/ermant/
+vnd sich nit bessert/der Kilchen fürzetragen. Also ver=
+glychet er sy dem acker/des guten samens vnd vnkruts
+die er beide heyßt wachsen/Bißzüder zyt der ernd.Sef=
+glychen dem neze/das biß vnnd güt fisch facher. Also
+21  ij

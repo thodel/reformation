@@ -1,35 +1,34 @@
-Schlufired.
+Schlußred.
+IIII
+das er vns nit alle ding mit jm gebëhette/Ro.viij.Vn
+wie das heyl des lybsstadt in verwaltung des houpts/
+also ouch das heyl vnnd låben/aller glsubigen/stadtin
+Christo: dann er ist ein heilland fins lybs. Unnd wiedie
+glider krafftloß sind/vnnd nüt vermogen/on verwal=
+rung des houpts/also ouch die glider des lybs Chrifti/
+der Kilchen vermogend nüt on Chrifto. Dann wie das
+Rabschoß kein frucht treyt/wo es dem wynstock nit yn=
+gelybet Blypt. Also ouch wir/ so nit yngelybet sind dem
+houpt Chrifto/werden wir kein frucht Bringen: dann on
+in vermogend wir nüt/Johan.yv. Sahar ein yeglicher
+verstadt/das kein creatur mag ein solich houpt der kil=
+chen sin/das die güter vin gaaben Gottes/in vnsere her=
+gen giesse/ vns stercke/tzöste/fire/vñ regiere/ouch sye
+ein heylland des lybs Christi.
 
-Ise schlufred Begrifft vier artickel. Der erst
-ist:Christus ist der heiligen/gemeinen Kilch=
-en einigs houpt. Wen diser artickel verstan=
-den wirt/von dem innern ynfluß der gnade/
-vnd des gnadriché labens / so bedarff er keines disputie=
-rens/wennglich/wie das houpt ynfiüßt in gantzen lyb/
-das låben und die bewegnus. Also flüßtouch vs Chri-
-sto dem houpt der Kilchen/in alle vereinte glider die
-gnad die da ist/das laben der feel Ephe.1. Gott hat Chri
-ſtum geben ein houpt überalle Kirchen/die synlybist/
-vnd die volkomenheit/des der alle ding in alle hatt er-
-fült. Item daselbst am vierden Capitel/wirfölléthin/
-die warheyt/vnnd also in im wachssen/durch alle ding/
-der dashoupt ist/vß welchem der ganz lybist zesamen
-gehefft/vnd geknüpfft durch ein yedes gleich der vßthei
-lung / nachwürckung / in die maß eynes yegklichenn
-glids/vñ also machet das zünemendes lybs/zü erbuw=
-ung sin selbs in der liebi. Item daselbst am fünfften Ca
-pitel/Christus ist das houpt der Kirchen/vnd er ist der
-heylmacher jres lybs. Sisesprüch vnd derglichen/zeyge
-an das Christus ist dzhoupe der Kirchen von dem yn=
-fluß/des houpts in den lyb & Kirche/seyt Joan. Bapt.
-Joann.. Von siner volli hand wir all genommen/gnad
-vmbgnad/wenn das gesatz ist durch Moysen geben/die
-gnad vnd warheit ist beschehen durch Jesum Christum
-vnnd Paul. Ephe. iij. Einem yetliche vß vns ist gnad
-geben/nach der mas & begabung Christi/vf den sprüch
-en vnd derglichen/ist klar. Das Christus ist/das houpt
-der Kirchen/vñ von im einem yegklichen glid/ynflüße
-das gnadrych låben/so aber das wortli vnicum/Eynig/
-weder in denen noch derglichen ſprüchen niendert start/
-23 ij
-VI
+Sise Kilche ist vs dem wort gottes geborn/wiewol
+sy Gott von ewigkeit/eedie welt erschaffen/erwelt hat:
+yedoch ist sy geborn/vs dem innerlichen wort gottes/v
+dem wort des gloubens/Rom.y. Das Gott låbendig
+vnd tätig machet/vn in vnser hertz redet/welches ouch
+in der warheyt/kein anders ist/von dem das vsserlich ge
+predigot/oder in gschrifft verfasser ist. Dise beruffung/
+erlüchtung/vnd ernt werung der hertze/nenn ich geburt
+der Kilchen. Petri.1. Habend einander ynbrünstig lieb
+von reinem hertzen/Als die wider geboren sind/nit vs
+eim sterblichen somen/sond vs eim vnsterblichen/durch
+die wort des labendigen Gottes/der in ewigkeyt belybr:
+dann es müß die geystlich geburt der Kilchen ouch von
+eim somen fin. Wellicher aber nit fleysch vnd blut/noch
+keins menschen willen/Joan.1. ouch nit ein zergengklich
+sonder das ewig vnd libendig wort Gottes/deß vnser

@@ -1,33 +1,30 @@
-Die erst
-Brucht ouch die geschrifft den namen der Kilchen/für die
-gemeine verſamlung/allergloubigen in Chrifto/vnnd
-so fürsechen sind/zu dem labe/welche gemeynd Christus
-verheyßt zebuwen/vesten vin gründen/off den velsen/
-der er selbs ist/Matth. xvj. Sise Kilchen nempt diege
-schrifft ein Tuben. Cant.ij. Ein gespons/Joan.iij.Lin
-lyb Christi. Ephe.ij.der kein runtzlen noch masen hat.
-Ephe.v.vn in vnserem alten gloube/ein gemeinschafft/
-der heyligen/welches die vorgenden wort erlüteret/da
-verstand all fromm Christen/das die gemeinschafft der
-gleubigen/ ist die Kilch. Nunbat ein yegliche gemeyn-
-schafft etwas darinn sy gemein hat/wie dann ein gemeine
-Burgerschafft in jren rechten/frybeyten/vnd derglyché
-gemeyn hat. Also ouch die heilig Christenlich Kilch/jrge
-meinschafft hat/Als Paulus zun Ephe.iiij. Ein lyb vn
-ein geyst/ein Herr/ein Glouben/ein Touff/ein Gott/
-vnd vatter vnser aller/So vilnun in der gantzen welt
-zerstrowt/in disem gemeinschafft hend/machend sy ein
-Kilché gorres. Siser Kilché houpt ist Christus/Eph.v
-Ir wyber sollend gehorsamen/üweren mannen/als dem
-Herrn: dann der man ist ein houpt siner husfrowen/wie
-Christus ist ein houpt siner Kilche/vn er ist sins lybs hei
-land.Als nun der man ist ein fürst vi fårer/ein gebieter/
-ein regierer/vnd schirmer siner husfrowen/vnd hat alle
-güter mit jren gmein: duldet sy ouch in aller schwacheit/
-als die bloden geschopfft. Also ist Christus ein fürst vnd
-fürer/vn gebieter.sa.lv. Ezech. xvij. Ein Regie
-rer vi ſchirmer siner gespons der Kilchen/vñ also allen/
-so in jnn verhoffend/vnd mag ein mitlydehan/mit vns
-in aller vnser schwacheit/Hebre.iiij. Sann diewyl Hote
-sin eynigen sun für vns dargestreckt/wie were moglich/
-das
+ſprach zü gut off gestrigen tag/von Bern Stattschry
+ber/vsansechen der herren/verlåsen sind/trüwlich mit
+flys vnnd sorg/balten wellind. Dann wo solichs nit be-
+schache/wurded ſy (des sy doch gern ab sin welten) dar=
+yn zereden/vnd die überjrenden zewysen vnnd zeerma=
+nen geursachet/guter hoffnung/es werde niemants an=
+ders faren/dan dem handel diser loblichen Sisputation
+vnd gedachter miner gnedigen herren von Bernn Oan
+daten/ordnungen vnd abscheyden (wie sy sich mit der ge
+schrifft verglychen) gelågen vñ gemaß sye. Off sölichs
+so mogent jrmin herren die Predicanten/üwerem erbie
+tennach/die erst Schlußred in des herren namen/andie
+hand nemen/vñ die mit geschrifft beuestnen/damit den
+herren/geystlich oder weltlich/so dargegen zehaben verz
+meinend zedisputieren/anlaß geben werden moge.
+Weyster Frantzen Kolben Pre
+dicant zü Bernn/vozred.
+Nad bnd frid von Gott dem
+vatter vnd vnserm Herrn Jesu Christo/
+Amen. Ir vßerwelten menner vnd brüder
+in Christo. Wiewol es sich in aller welt/in
+mencherley valansechen last/das Gott vast übel über
+vns erzürnt sye/So bewyster vns doch besonder grof
+segnad/welicher wir im nit gnüg mogend danckbar sin/
+in dem das er yetz alle welt bewegt/zů fragen nach der
+warheyt/ vnd sich bekümbern der jrthumb. Sarumb
+on allen zwyfel/nit on besondre würckung des heyligen
+geysts/vnser fürsichtigen wysen vnd gnädigen berren/
+Råde vnd Burger/diser loblichenstatt Bernn/bewegt
+find/üch Erbern/hochgelerten/Chriſtenlichen herren

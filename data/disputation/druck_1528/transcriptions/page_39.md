@@ -1,32 +1,32 @@
-Schlufzred.
-XII
-symogend hõupter genempt werden / so wend wir wy=
-ter lügen/wie wir im thuyend.
-
-Bucerus.
-Ch hab vorhin gesagt/dz die angezogne ſprüch
-von binden vnd entbinden ouch weiden/sollend
-gnügsam verantwurt werdenn/vnnd hab ictzo
-gschifft geuordert/das der beuelch Petri in zum houpt
-der Kirché mache/die selb geschrifft hatt & Bichruatter
-noch nit herfürbzacht/vnd mißt doch mir zu ich gebe on
-gschrifft zu/dz Saul ein houpt in Iſrahel gewesen sye/
-vn Petrus aber/noch einicher Apostel/moge kein houpt
-der Kirche (nach 8 geschrifft zu rede) genempt werde/so
-doch die gschrifft võ mir anzogé ist/d3 Petrus ein diener
-genampt syg/vndhein houpt/Saul aber ein houpt/vn
-Bekenn daby dz der geistlich gewalt/vnuerglichlich mer
-ist dann der weltlich/geystlicher gewalt/aber ist über die
-geyster/über die gemiter/den hatt Christus allein/vnd
-dienend zu solchem gewalt/die prediger des Euangeli=
-ons/wolches das hochst ampt aller Apostlen gewesen ist
-allweg vnkrefftig/wo der geistlich herr sin gewalt in den
-bertzen nit erzeyget/vnd ereyget hat/darumb wander
-Bichtuarter bewarenn wurd/das fant Peter oder eini-
-cher Apostel/gewalt hat/oder gehebt/die hertzen zeeнде
-ren/vnd fromb zemachen/so wirt er ouch bewert haben/
-das er ein houpt der Kirchen sye/Christus ist das houpt
-dann es kan sunst niemand fromb vnd sålig machen/dan
-Christus/vin beger darum geschrifft/das Petri beuelch
-in zum houpt mache.
-C iiij
+Schlußred.
+X
+gelium predigen/weliches doch on alle krafft ist/Ser
+Herr Jesus das einig houpt/mache dan föliche predig/
+im herzen krefftig/dann Gott gibt das wachsen.
+Bichouatter.
+Err Parti Buzer begårt an mich schrifftlich
+zü bewaren/das der heylig S. Peter/einfoli=
+chen gewalt habe/oder das die regierung im be
+uolchen/sich also wyt verstreckt/das er in oder fine nach
+komen/habemogen mache/ein houpt der Kirchen/进
+hoffe so vil jm Gott gnad gibt/das zebewåren. Lucas
+am fünfften capitel/sprach Christus zü Pet20: fir d3
+schiff in die tieffe/ vnd spreytend vs üwere netze zu fa=
+chen/wenn die vßlegung Chrisostomi gelten ſolte/alls
+Billich sin fölte.ac.
+Hieruff ward dem Bichtuatter/durch die Presiden
+ten geweert vnd abgeschlagen/nach ordnung der Herren von Bernn/
+dhein Lerer anzezüchen. Deshalb der selb Bichtuatter ſolicher maß wy
+ter redt.
+Bicheuatter.
+Ristus hat klarlich zu verstan geben/das
+Petrus gewallt föllt haben/die thieffe der Siz
+putation offselssen/Luce/am xvij. capitel/
+sprach Christus zu Petzo: Ich han für dich gebåtten/
+vnd du erwan bekert/bestätig dine Brüder/Matthei/
+am xvj.capitel/Du bist Petrus/vnnd off den velsen
+wird ich buwen min Kirchen/ vnd die porten der hellen
+werdend der nitt mogen widerstan: vnnd dir wird ich
+geben die Schlüssel des Rychs der himlen: vnd alles dz
+du wirst binden offerden/das wirt gebunden fin in den
+Cij

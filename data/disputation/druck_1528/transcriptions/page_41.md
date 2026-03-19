@@ -1,33 +1,33 @@
-Schluffred.
-Off den achtenden tag Jenners/hat
-Berchtoldus wyter geoffnet/als
-hernach volgt.
-XIII
+Schlufzred.
+XI
+in sollichem vsserlichen regiment/hatt bewysen können/
+so man aber redt nach Paulo von der Christenlichen ge=
+meind/welches da find alle die im geyst nüw gepozenn/
+ein göttlich låben furen/welches niemand/dan allein der
+herr verlyhenmag/vnd alles thun/Sant Peters/vnd
+aller Apostlen/nur ein vsserlicher dienst durch Paulus
+genempt wirt/so ist noch nit bewert/das (der geschrifft
+nach zureden) Petrus oder einiger anderer Apostel got=
+res/mog ein houpt der Kirchen genempt werden/vnd
+solte der Bychtuatter den ſpruch pauli am vierden Ca
+pitel 8 ersten Epistel zun Chozi.verantwurte/da pau=
+lus von jim vnnd syns glichen scheibt/man föll sy halten
+fürdiener Christi vnd schaffner/das ist prediger der ge=
+heymnussenn Gottes. Nemlich das heylig Euangelion
+daran stat es noch/d3 er geschrifft bring/ was er gethon
+das es inne zum houpt machen mog. Christus ist allein
+der geystlich herr/er kan sy endere/das sy krofftig sind.
+Sant Paulus/Petrus leer/bringt nüt/Christus leyte
+sy dann. Niemand kan die hergen enderndann er/vnnd
+gebend also Christo die eer/land sy binden/das ist/erken
+nen gebunden/die nit glouben. Sann das sind die kinder
+Abrahe/die die werck Abrahe thund/darumb so eruor=
+dern ich geschrifft. Sz Petrus von ſyne ampt ein houpt
+mog genempt werden.
 
-Rommen lieben Christen/off geſter ist der han
-del so wyt bracht/das der Bychtuatter probie=
-ren solt/alles so Christus Beuolhen hatt Pet:0/
-in zu einem houpt gemacht/Sat vnser brüder Burger
-anzsigt/das Petrus/Paulus/vnnd all Apostel/allein
-diener/nithsupter/nitherren/vnd hat das Bewart/in
-der Epistel zun Corinthern am vierden capitel. Also fol
-vns der mentsch achten/ als diener Gottes/vnd vsthei
-ler der geheymnussen. Item in siner ersten Epistel/am
-dritten capitel. Warist Paulus/warist Appollo/dan
-diener Gottes/durch die jr gloubt hand: Also der pflan
-get/ist nüt/der begüßt ist nüt/aber Gott gibt das vf=
-wachsen/Sas macht alles Petrum nit zu einem houpt.
-Wie Petrus selbs spricht/in syner ersten Epi.am v.Ca
-pitel: Weydend die hård Chrifti/die onder üch ist/vnd
-versechend sy/nit genstiger/sonder selbs willig: nit vss
-schantliches gewüns sich/sonder vß geney grem gemit/
-nit als die herschend über das volck gottes/fonder wer=
-dend vorbild der hård.
-Lie sechend jr frommen Christen das/dienst vnnd
-ampt der Apstlen/sy nit houpter noch herren mag ma=
-chen/sonderdiener: dann so der gewallt Petri jnn zü ei-
-nem houpe machte/ so volger das alle Apostel/hópter
-syend gsin/dann sy all den beuelch vnnd dienst glych ge=
-hept. Sumanderen/so war Paulus mer ein houpt für
-ander/darumb das er mer gearbeyter hat/in der ersten
-S
+Bichtuatter.
+Err Parti Bucer/langt mich an zubewaren/
+das der nam eins houpts Sant Peter/vnd sy=
+nen nach komen mog geben werden/seyt zü dem
+ſpruch am erste Büch & küngeim yv. Cap. Sen ich han
+C ij
