@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Berner Reformation — Digitale Edition</title>
   <script>
-    // Set base URL to repository root for deep linking support
-    // Extracts the repository root from current path (e.g., /reformation/ from /reformation/disputation/...)
+    // Set base URL to repository root for consistent asset loading
+    // Extracts the repository root from current path
     const pathParts = window.location.pathname.split('/').filter(p => p);
     const repoRoot = '/' + (pathParts[0] || '') + '/';
     document.write('<base href="' + repoRoot + '">');
@@ -1185,10 +1185,20 @@ function getCurrentDisputationVariant() {
   return DISPUTATION_VARIANTS.find((variant) => variant.id === disputationState.variantId) || DISPUTATION_VARIANTS[0];
 }
 
-// URL routing for deep linking: /disputation/druck-1528/25
+// URL routing for deep linking: #/disputation/druck-1528/25 or /disputation/druck-1528/25
 function parseDisputationUrl() {
+  // Check hash first (#/disputation/variant/page)
+  const hash = window.location.hash;
+  let match = hash.match(/^#\/disputation\/([^\/]+)\/(\d+)/);
+  if (match) {
+    const variantId = match[1];
+    const pageNum = parseInt(match[2], 10);
+    return { variantId, pageNum };
+  }
+  
+  // Check pathname (/disputation/variant/page) - works with _redirects on some hosts
   const path = window.location.pathname;
-  const match = path.match(/^\/disputation\/([^\/]+)\/(\d+)/);
+  match = path.match(/^\/disputation\/([^\/]+)\/(\d+)/);
   if (match) {
     const variantId = match[1];
     const pageNum = parseInt(match[2], 10);
@@ -1200,9 +1210,10 @@ function parseDisputationUrl() {
 function updateDisputationUrl() {
   const variant = getCurrentDisputationVariant();
   const pageNum = disputationState.currentPageIndex + 1;
-  const newPath = `/disputation/${variant.id}/${pageNum}`;
-  if (window.location.pathname !== newPath) {
-    window.history.pushState({ variantId: variant.id, page: pageNum }, '', newPath);
+  // Use hash-based routing for better GitHub Pages compatibility
+  const newHash = `#/disputation/${variant.id}/${pageNum}`;
+  if (window.location.hash !== newHash) {
+    window.location.hash = newHash;
   }
 }
 
@@ -1218,17 +1229,22 @@ function navigateToDisputationFromUrl() {
   return true;
 }
 
-// Handle browser back/forward
-window.addEventListener('popstate', (event) => {
-  if (event.state && event.state.variantId) {
-    const variant = DISPUTATION_VARIANTS.find(v => v.id === event.state.variantId);
-    if (variant && variant.id !== disputationState.variantId) {
-      switchDisputationVariantById(variant.id);
-    }
-    if (event.state.page) {
-      disputationState.currentPageIndex = event.state.page - 1;
-      updateDisputation();
-    }
+// Handle browser back/forward (hash changes)
+window.addEventListener('hashchange', () => {
+  const urlParams = parseDisputationUrl();
+  if (!urlParams) return;
+  
+  const variant = DISPUTATION_VARIANTS.find(v => v.id === urlParams.variantId);
+  if (!variant) return;
+  
+  if (variant.id !== disputationState.variantId) {
+    switchDisputationVariantById(variant.id);
+  }
+  
+  const targetPage = urlParams.pageNum - 1;
+  if (targetPage !== disputationState.currentPageIndex) {
+    disputationState.currentPageIndex = targetPage;
+    updateDisputation();
   }
 });
 
