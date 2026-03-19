@@ -491,10 +491,22 @@
     <div class="intro">
       <h2>Weitere Ressourcen</h2>
       <ul>
-        <li>Personenregister (in Vorbereitung)</li>
-        <li>Institutionsregister (in Vorbereitung)</li>
+        <li><a href="#" onclick="showEntitySection(event, 'persons')">Personenregister</a></li>
+        <li><a href="#" onclick="showEntitySection(event, 'places')">Ortsregister</a></li>
+        <li><a href="#" onclick="showEntitySection(event, 'organizations')">Institutionsregister</a></li>
+        <li><a href="https://metagrid.ch/" target="_blank" rel="noopener">Metagrid</a> – Querverweise für Schweizer Geschichte</li>
         <li>Glossar</li>
       </ul>
+      
+      <div id="entity-search" style="margin-top: 20px; display: none;">
+        <input type="text" id="entity-search-input" placeholder="Suche nach Personen, Orten oder Institutionen..." 
+               style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;">
+        <div id="entity-results"></div>
+      </div>
+      
+      <div id="entity-list" style="margin-top: 20px;">
+        <p><em>Laden...</em></p>
+      </div>
     </div>
   </div>
 </main>
@@ -520,6 +532,147 @@ const PREDIGTEN_ENTITY_INDEX_PATH = "data/predigten/entities/named_entities.json
 const transkribusPageXmlCache = {};
 const disputationVariantAvailabilityPromises = new Map();
 const disputationLineGeometryPromises = new Map();
+
+// Entity Search Configuration
+const ENTITY_INDEX_PATH = "data/entities/named_entities.json";
+let entityIndex = null;
+let currentEntityType = "persons";
+
+// Load entity index
+async function loadEntityIndex() {
+  if (entityIndex) return entityIndex;
+  try {
+    const response = await fetch(ENTITY_INDEX_PATH);
+    entityIndex = await response.json();
+    return entityIndex;
+  } catch (e) {
+    console.error("Failed to load entity index:", e);
+    return [];
+  }
+}
+
+// Show entity section
+function showEntitySection(event, type) {
+  if (event) event.preventDefault();
+  currentEntityType = type;
+  
+  const searchDiv = document.getElementById("entity-search");
+  const listDiv = document.getElementById("entity-list");
+  const searchInput = document.getElementById("entity-search-input");
+  
+  if (searchDiv) searchDiv.style.display = "block";
+  if (searchInput) {
+    searchInput.value = "";
+    searchInput.placeholder = type === "persons" ? "Suche nach Personen..." : 
+                             type === "places" ? "Suche nach Orten..." : "Suche nach Institutionen...";
+  }
+  if (listDiv) listDiv.innerHTML = "<p><em>Laden...</em></p>";
+  
+  // Load and display entities
+  loadEntityIndex().then(entities => {
+    displayEntities(entities, type);
+  });
+}
+
+// Display entities
+function displayEntities(entities, type) {
+  const listDiv = document.getElementById("entity-list");
+  if (!listDiv) return;
+  
+  // Filter by type
+  const typeMap = {
+    "persons": "PERSON",
+    "places": "LOC",
+    "organizations": "ORG"
+  };
+  
+  const filtered = entities.filter(e => e.type === typeMap[type]);
+  
+  if (filtered.length === 0) {
+    listDiv.innerHTML = "<p>Keine Einträge gefunden.</p>";
+    return;
+  }
+  
+  // Sort by name
+  filtered.sort((a, b) => a.name.localeCompare(b.name));
+  
+  let html = "<h3>" + (type === "persons" ? "Personen" : type === "places" ? "Orte" : "Institutionen") + 
+             " (" + filtered.length + ")</h3><ul>";
+  
+  filtered.slice(0, 100).forEach(ent => {
+    const occCount = ent.occurrences ? ent.occurrences.length : 0;
+    const firstOcc = ent.occurrences ? ent.occurrences[0] : null;
+    
+    html += "<li><strong>" + ent.name + "</strong>";
+    if (ent.metagrid_id) {
+      html += ' <a href="https://metagrid.ch/wrongentries/hls/' + ent.metagrid_id + '" target="_blank" title="Metagrid">📖</a>';
+    }
+    html += " (" + occCount + " Stellen)";
+    
+    // Show first few occurrences as links
+    if (ent.occurrences && ent.occurrences.length > 0) {
+      html += "<ul>";
+      ent.occurrences.slice(0, 5).forEach(occ => {
+        const docName = occ.doc || "druck_1528";
+        const page = occ.page || 1;
+        html += '<li><a href="#/disputation/' + docName + '/' + page + '">' + 
+                docName + ' S. ' + page + '</a></li>';
+      });
+      if (ent.occurrences.length > 5) {
+        html += "<li>... und " + (ent.occurrences.length - 5) + " mehr</li>";
+      }
+      html += "</ul>";
+    }
+    html += "</li>";
+  });
+  
+  if (filtered.length > 100) {
+    html += "</ul><p><em>Zeige erste 100 von " + filtered.length + " Einträgen. Nutze die Suche für mehr.</em></p>";
+  } else {
+    html += "</ul>";
+  }
+  
+  listDiv.innerHTML = html;
+}
+
+// Search entities
+function searchEntities(query) {
+  loadEntityIndex().then(entities => {
+    if (!query || query.length < 2) {
+      displayEntities(entities, currentEntityType);
+      return;
+    }
+    
+    const q = query.toLowerCase();
+    const filtered = entities.filter(e => {
+      if (currentEntityType === "persons" && e.type !== "PERSON") return false;
+      if (currentEntityType === "places" && e.type !== "LOC") return false;
+      if (currentEntityType === "organizations" && e.type !== "ORG") return false;
+      return e.name.toLowerCase().includes(q);
+    });
+    
+    const listDiv = document.getElementById("entity-list");
+    if (!listDiv) return;
+    
+    if (filtered.length === 0) {
+      listDiv.innerHTML = "<p>Keine Ergebnisse für \"" + query + "\"</p>";
+      return;
+    }
+    
+    filtered.sort((a, b) => a.name.localeCompare(b.name));
+    displayEntities(filtered, currentEntityType);
+  });
+}
+
+// Add search listener
+document.addEventListener("DOMContentLoaded", function() {
+  const searchInput = document.getElementById("entity-search-input");
+  if (searchInput) {
+    searchInput.addEventListener("input", function() {
+      searchEntities(this.value);
+    });
+  }
+});
 
 // Load image URL from Transkribus PAGE XML for variants without a viewer_manifest entry
 async function loadTranskribusImageUrl(variant, pageNr) {
