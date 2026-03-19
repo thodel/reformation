@@ -4,6 +4,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Berner Reformation — Digitale Edition</title>
+  <script>
+    // Set base URL to repository root for deep linking support
+    // Extracts the repository root from current path (e.g., /reformation/ from /reformation/disputation/...)
+    const pathParts = window.location.pathname.split('/').filter(p => p);
+    const repoRoot = '/' + (pathParts[0] || '') + '/';
+    document.write('<base href="' + repoRoot + '">');
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -1178,6 +1185,65 @@ function getCurrentDisputationVariant() {
   return DISPUTATION_VARIANTS.find((variant) => variant.id === disputationState.variantId) || DISPUTATION_VARIANTS[0];
 }
 
+// URL routing for deep linking: /disputation/druck-1528/25
+function parseDisputationUrl() {
+  const path = window.location.pathname;
+  const match = path.match(/^\/disputation\/([^\/]+)\/(\d+)/);
+  if (match) {
+    const variantId = match[1];
+    const pageNum = parseInt(match[2], 10);
+    return { variantId, pageNum };
+  }
+  return null;
+}
+
+function updateDisputationUrl() {
+  const variant = getCurrentDisputationVariant();
+  const pageNum = disputationState.currentPageIndex + 1;
+  const newPath = `/disputation/${variant.id}/${pageNum}`;
+  if (window.location.pathname !== newPath) {
+    window.history.pushState({ variantId: variant.id, page: pageNum }, '', newPath);
+  }
+}
+
+function navigateToDisputationFromUrl() {
+  const urlParams = parseDisputationUrl();
+  if (!urlParams) return false;
+  
+  const variant = DISPUTATION_VARIANTS.find(v => v.id === urlParams.variantId);
+  if (!variant) return false;
+  
+  disputationState.variantId = variant.id;
+  disputationState.currentPageIndex = urlParams.pageNum - 1;
+  return true;
+}
+
+// Handle browser back/forward
+window.addEventListener('popstate', (event) => {
+  if (event.state && event.state.variantId) {
+    const variant = DISPUTATION_VARIANTS.find(v => v.id === event.state.variantId);
+    if (variant && variant.id !== disputationState.variantId) {
+      switchDisputationVariantById(variant.id);
+    }
+    if (event.state.page) {
+      disputationState.currentPageIndex = event.state.page - 1;
+      updateDisputation();
+    }
+  }
+});
+
+function switchDisputationVariantById(variantId) {
+  const variant = DISPUTATION_VARIANTS.find((item) => item.id === variantId);
+  if (!variant) return;
+  
+  disputationState.variantId = variantId;
+  resetDisputationVariantState();
+  setActiveDisputationVariantLink(variantId);
+  updateDisputationVariantTitle();
+  initDisputationViewer();
+  updateDisputation();
+}
+
 function setActiveDisputationVariantLink(variantId) {
   document.querySelectorAll('[data-disputation-variant]').forEach((link) => {
     const currentVariantId = link.getAttribute('data-disputation-variant');
@@ -1694,6 +1760,7 @@ function updateDisputation() {
   }
 
   updateDisputationVariantTitle();
+  updateDisputationUrl();
   const token = ++disputationState.contentToken;
   loadDisputationTranscription(token);
   loadDisputationTranslation(token);
@@ -1730,6 +1797,9 @@ function initializeDisputationVariantUi() {
 updateNavElevation();
 initializeDisputationVariantUi();
 updatePredigten();
+
+// Check URL for deep linking: /disputation/variant/page
+navigateToDisputationFromUrl();
 updateDisputation();
 </script>
 
