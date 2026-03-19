@@ -2,31 +2,29 @@
 
 B
 ne sait que les
-vnnsers glaubens vnnd predigens rechnung zufeben,
-des over mitsampt allen Denen, so das en angelien
-bekennen vrputten sine vnnd nach ordnung vsß
-zen gueter artigkellen, ouch allen reden, so darussz
-mochten volgenn zu antwurten vnd mit provalti¬
-ger schrifft zubevarenn. Is pietet vnns euch
-Der hallig paulus, das wir int zenckisten, somder
-volkomen, eins sins, einerley meynung sienne
-vnnd Das ein gesklicher der gab oder kunst
-so Im got. verlichen hatt, int stolts vuye vffge¬
-blasen (quia scientia in flat) Jemands ver¬
-achts sonder In christen licher lieby (guen so la
-(edificat.) einer des anndern bierdij trage
-einer dem anndern Dienen Es tröstet vns
-Noch vnnser, lieber her jesus Christus Inn
-Dem do er spricht Mathei. 7o. pittend so werden
-Ir empfachen, suchent, so werden Ir finden klopffende
-an, so wirt vijh vffthan, Des ermanen Ich
-vch all vsserweelen, gotsfrund, Das Ir vwele
-hertzen vor pot, wellenne demittigen vnnd mit
-mir bekennen sprechende, Ich armer sindiger
-monsten ende vatter vnnser, Uwe Maria ende
-Wir bezugen ouch hiemit, Das wir wider
-kennen artigkell vunsers aelten christenlichen
-glonbens vtzit hanwelen wollenn der allso
-buttet, Ich gloue In pott vatter ende vix
-Somme
-Monsieur
+vnnsers glaubens vnnd predigens rechnung zugeben/
+des wir mitsampt allen Denen/ so das en evangelium
+bekennen/ vrpüttig sind vnnd nach ordnung vss
+zeichneter  artigkellen/ ouch allen reden/ so daruss
+mochten volgenn zu antwurten vnd mit gewalti//
+ger schrifft zubewärenn. Es pütet vnns auch
+Der hellig paulus/ das wir nit zenckisch/, sonder
+vollkomen/ eins sins/ einerley meynung siennd
+vnnd Das ein jegklicher der gab oder kunst
+so Im gott  verlichen hatt/ nit stoltz vnnd vffge//
+blasen (quia scientia inflat) nemands ver//
+achte sonder In christenlicher lieby (quae sola
+edificat) einer des anndern burdy  trage/
+einer dem anndern Diene/ Es tröstet vns
+ouch vnnser, lieber her jesus Christus Inn
+Dem do er spricht Mathei. 7. bittend so werden
+Ir empfachen/ suchent, so werden Ir finden klopffend
+an/ so wirt üch vffthan/ Des ermane Ich
+üch aller vsserweelten, gotsfrund/ Das Ir üer
+hertzen vor Got, wellennd demüthtigen vnnd mit
+mir bekennen/ Sprechende/ Ich armer sündiger
+montsch./n  vatter vnnser/./n  Ave Maria/.
+Wir bezügen ouch hiemit/ Das wir wider
+keinnen artigkell vunsers alten christenlichen
+gloubens ützit handelen wellenn der allso
+luttet, Ich gloube In gott vatter/n.  Wir
