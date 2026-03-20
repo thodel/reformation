@@ -622,8 +622,9 @@ function displayEntities(entities, type) {
     
     html += `<li><strong>${displayName}</strong>${originalName}`;
     if (ent.metagrid_id) {
-      // Add a small icon indicating a Metagrid link exists
-      html += ' <span title="Metagrid ID: ' + ent.metagrid_id + '">🔗</span>';
+      // Add Metagrid and GND links
+      html += ' <a href="https://metagrid.ch/wrongentries/hls/' + ent.metagrid_id + '" target="_blank" title="Metagrid">📖</a>';
+      html += ' <a href="https://d-nb.info/gnd/' + ent.metagrid_id + '" target="_blank" title="GND">🎓</a>';
     }
     html += ` (${occCount} Stellen)<ul>`;
     
