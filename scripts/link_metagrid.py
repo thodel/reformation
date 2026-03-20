@@ -41,28 +41,25 @@ def main():
         if person.get("metagrid_id"):
             continue  # Already linked
         
-        name = person.get("name", "")
+        name = person.get("normalized_name") or person.get("name", "")
         if not name or len(name) < 4:
             continue
             
-        print(f"[{i+1}/{len(persons)}] Checking Metagrid for: {name}")
+        print(f"[{i+1}/{len(persons)}] Checking Metagrid for: {name} (original: {person.get('name')})")
         result = call_metagrid(name)
         
         if result and result.get("resources"):
-            # Check if query is actually found in results
-            # Only link if there's a meaningful match
             matched = False
-            for res in result["resources"][:5]:  # Check top 5 results
+            for res in result["resources"][:5]:
                 meta = res.get("metadata", {})
                 first_name = meta.get("first_name", "").lower()
                 last_name = meta.get("last_name", "").lower()
                 search_name = name.lower()
                 
-                # Check if search name is contained in result
                 if search_name in f"{first_name} {last_name}" or last_name in search_name:
-                    if len(last_name) > 3:  # Ignore very short names
+                    if len(last_name) > 3:
                         person["metagrid_id"] = res.get("identifier")
-                        person["normalized_name"] = f"{first_name} {last_name}".strip()
+                        person["normalized_name"] = f"{meta.get('first_name','')} {meta.get('last_name','')}".strip()
                         print(f"  -> Linked to: {person['normalized_name']} ({person['metagrid_id']})")
                         updates += 1
                         matched = True
@@ -71,7 +68,6 @@ def main():
             if not matched:
                 print(f"  -> No good match found")
         
-        # Friendly rate limit
         time.sleep(0.5)
 
     if updates > 0:

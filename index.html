@@ -489,12 +489,11 @@
 
   <div id="ressourcen" class="section-page">
     <div class="intro">
-      <h2>Weitere Ressourcen</h2>
+      <h2>Register</h2>
       <ul>
         <li><a href="#" onclick="showEntitySection(event, 'persons')">Personenregister</a></li>
         <li><a href="#" onclick="showEntitySection(event, 'places')">Ortsregister</a></li>
         <li><a href="#" onclick="showEntitySection(event, 'organizations')">Institutionsregister</a></li>
-        <li><a href="https://metagrid.ch/" target="_blank" rel="noopener">Metagrid</a> – Querverweise für Schweizer Geschichte</li>
         <li>Glossar</li>
       </ul>
       
@@ -537,6 +536,8 @@ const disputationLineGeometryPromises = new Map();
 const ENTITY_INDEX_PATH = "data/entities/named_entities.json";
 let entityIndex = null;
 let currentEntityType = "persons";
+let currentPage = 1;
+const ITEMS_PER_PAGE = 100;
 
 // Load entity index
 async function loadEntityIndex() {
@@ -555,6 +556,7 @@ async function loadEntityIndex() {
 function showEntitySection(event, type) {
   if (event) event.preventDefault();
   currentEntityType = type;
+  currentPage = 1; // Reset to first page
   
   const searchDiv = document.getElementById("entity-search");
   const listDiv = document.getElementById("entity-list");
@@ -579,64 +581,94 @@ function displayEntities(entities, type) {
   const listDiv = document.getElementById("entity-list");
   if (!listDiv) return;
   
-  // Filter by type
   const typeMap = {
     "persons": "PERSON",
-    "places": "LOC",
+    "places": ["LOC", "GPE"],
     "organizations": "ORG"
   };
   
-  const filtered = entities.filter(e => e.type === typeMap[type]);
+  let filtered = entities.filter(e => {
+    if (Array.isArray(typeMap[type])) {
+      return typeMap[type].includes(e.type);
+    }
+    return e.type === typeMap[type];
+  });
   
-  if (filtered.length === 0) {
+  // Sort by normalized name, then original name
+  filtered.sort((a, b) => {
+    const nameA = a.normalized_name || a.name;
+    const nameB = b.normalized_name || b.name;
+    return nameA.localeCompare(nameB);
+  });
+  
+  const totalItems = filtered.length;
+  const totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE);
+  const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
+  const endIndex = startIndex + ITEMS_PER_PAGE;
+  const pageItems = filtered.slice(startIndex, endIndex);
+
+  if (totalItems === 0) {
     listDiv.innerHTML = "<p>Keine Einträge gefunden.</p>";
     return;
   }
   
-  // Sort by name
-  filtered.sort((a, b) => a.name.localeCompare(b.name));
-  
   let html = "<h3>" + (type === "persons" ? "Personen" : type === "places" ? "Orte" : "Institutionen") + 
-             " (" + filtered.length + ")</h3><ul>";
+             " (" + totalItems + ")</h3><ul>";
   
-  filtered.slice(0, 100).forEach(ent => {
+  pageItems.forEach(ent => {
+    const displayName = ent.normalized_name || ent.name;
+    const originalName = ent.name !== displayName ? ` (Original: ${ent.name})` : "";
     const occCount = ent.occurrences ? ent.occurrences.length : 0;
-    const firstOcc = ent.occurrences ? ent.occurrences[0] : null;
     
-    html += "<li><strong>" + ent.name + "</strong>";
+    html += `<li><strong>${displayName}</strong>${originalName}`;
     if (ent.metagrid_id) {
-      html += ' <a href="https://metagrid.ch/wrongentries/hls/' + ent.metagrid_id + '" target="_blank" title="Metagrid">📖</a>';
+      // Add a small icon indicating a Metagrid link exists
+      html += ' <span title="Metagrid ID: ' + ent.metagrid_id + '">🔗</span>';
     }
-    html += " (" + occCount + " Stellen)";
+    html += ` (${occCount} Stellen)<ul>`;
     
-    // Show first few occurrences as links
-    if (ent.occurrences && ent.occurrences.length > 0) {
-      html += "<ul>";
-      ent.occurrences.slice(0, 5).forEach(occ => {
-        const docName = occ.doc || "druck_1528";
-        const page = occ.page || 1;
-        html += '<li><a href="#/disputation/' + docName + '/' + page + '">' + 
-                docName + ' S. ' + page + '</a></li>';
-      });
-      if (ent.occurrences.length > 5) {
-        html += "<li>... und " + (ent.occurrences.length - 5) + " mehr</li>";
-      }
-      html += "</ul>";
+    ent.occurrences.slice(0, 5).forEach(occ => {
+      const docName = occ.doc || "druck_1528";
+      const page = occ.page || 1;
+      html += `<li><a href="#/disputation/${docName}/${page}">${docName}, S. ${page}</a></li>`;
+    });
+    if (ent.occurrences.length > 5) {
+      html += `<li>... und ${ent.occurrences.length - 5} weitere</li>`;
     }
-    html += "</li>";
+    html += "</ul></li>";
   });
   
-  if (filtered.length > 100) {
-    html += "</ul><p><em>Zeige erste 100 von " + filtered.length + " Einträgen. Nutze die Suche für mehr.</em></p>";
-  } else {
-    html += "</ul>";
+  html += "</ul>";
+
+  // Pagination Controls
+  if (totalPages > 1) {
+    html += `<div class="pagination">`;
+    if (currentPage > 1) {
+      html += `<a href="#" onclick="changeEntityPage(${currentPage - 1})">&laquo; Zurück</a>`;
+    }
+    html += `<span> Seite ${currentPage} von ${totalPages} </span>`;
+    if (currentPage < totalPages) {
+      html += `<a href="#" onclick="changeEntityPage(${currentPage + 1})">Weiter &raquo;</a>`;
+    }
+    html += `</div>`;
   }
   
   listDiv.innerHTML = html;
 }
 
+function changeEntityPage(page) {
+  currentPage = page;
+  // Re-display with the new page (assumes entityIndex is loaded)
+  if (entityIndex) {
+    displayEntities(entityIndex, currentEntityType);
+  }
+  return false; // prevent default link behavior
+}
+
+
 // Search entities
 function searchEntities(query) {
+  currentPage = 1; // Reset to first page on new search
   loadEntityIndex().then(entities => {
     if (!query || query.length < 2) {
       displayEntities(entities, currentEntityType);
@@ -645,22 +677,25 @@ function searchEntities(query) {
     
     const q = query.toLowerCase();
     const filtered = entities.filter(e => {
-      if (currentEntityType === "persons" && e.type !== "PERSON") return false;
-      if (currentEntityType === "places" && e.type !== "LOC") return false;
-      if (currentEntityType === "organizations" && e.type !== "ORG") return false;
-      return e.name.toLowerCase().includes(q);
+      const name = e.name.toLowerCase();
+      const normName = (e.normalized_name || "").toLowerCase();
+      return name.includes(q) || (normName && normName.includes(q));
     });
     
-    const listDiv = document.getElementById("entity-list");
-    if (!listDiv) return;
-    
-    if (filtered.length === 0) {
-      listDiv.innerHTML = "<p>Keine Ergebnisse für \"" + query + "\"</p>";
-      return;
-    }
-    
-    filtered.sort((a, b) => a.name.localeCompare(b.name));
-    displayEntities(filtered, currentEntityType);
+    // Also filter by type for the search results
+    const typeMap = {
+      "persons": "PERSON",
+      "places": ["LOC", "GPE"],
+      "organizations": "ORG"
+    };
+    const finalFiltered = filtered.filter(e => {
+      if (Array.isArray(typeMap[currentEntityType])) {
+        return typeMap[currentEntityType].includes(e.type);
+      }
+      return e.type === typeMap[currentEntityType];
+    });
+
+    displayEntities(finalFiltered, currentEntityType);
   });
 }
 
