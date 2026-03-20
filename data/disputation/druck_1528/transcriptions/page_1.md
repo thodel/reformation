@@ -1,13 +1,13 @@
-Seite [1]
-
 Handlung oder Acta ge/
-halener Disputation z■ Bernn
+halener Disputation zu Bernn
 in üchcland.
-Απαντ■σοµαι αυτοις ■σ' ■ρκτος ■ ■ποριµ■νη κα■ δια■■■ξω συγκλεισµ
-καρδ■ας αυτ■µ Ofee is
 
-■■■ ■■■■ ■■■■■ ■■■ ■■■■■■■■ ■■ Prouerb 30
-Vere mendaciu po■■ederunt patres no■tri uanitate que eis non profuit. Hier. 16.
+Απαντήσομαι αυτοις ὡσ' ἄρκτος ἡ ἀποριμένη καὶ διάβῥήξω συγκλεισμ
+καρδίας αυτώμ Ofee 13
+
+ליש גכור בבהמה ולא ישובמפני בליץ 30 Prouerb
+
+Vere mendaciu poſſederunt patres noſtri uanitate que eis non profuit. Hier. 16.
 
 Gott allein sye herrschung/lob vnd
 eer in ewigkeyt.
