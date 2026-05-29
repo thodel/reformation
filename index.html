@@ -387,52 +387,6 @@
     
     .loading { color: #888; font-style: italic; }
 
-    .viewer-col-search {
-      background: rgba(26, 58, 107, 0.75);
-      padding: 0.4rem 0.75rem;
-      display: flex;
-      align-items: center;
-      gap: 0.4rem;
-      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-    }
-    .viewer-col-search input[type="search"] {
-      flex: 1;
-      min-width: 0;
-      padding: 0.3rem 0.5rem;
-      border-radius: 4px;
-      border: 1px solid rgba(255, 255, 255, 0.25);
-      background: rgba(255, 255, 255, 0.12);
-      color: white;
-      font-size: 0.85rem;
-      font-family: var(--font-body);
-    }
-    .viewer-col-search input[type="search"]::placeholder { color: rgba(255, 255, 255, 0.55); }
-    .viewer-col-search input[type="search"]:focus {
-      outline: 2px solid var(--accent);
-      outline-offset: 1px;
-      background: rgba(255, 255, 255, 0.18);
-    }
-    .search-match-count {
-      color: rgba(255, 255, 255, 0.75);
-      font-size: 0.78rem;
-      white-space: nowrap;
-      min-width: 3.5rem;
-      text-align: center;
-    }
-    .search-nav-btn {
-      background: rgba(255, 255, 255, 0.12);
-      border: 1px solid rgba(255, 255, 255, 0.2);
-      color: white;
-      border-radius: 4px;
-      padding: 0.2rem 0.45rem;
-      cursor: pointer;
-      font-size: 0.85rem;
-      line-height: 1;
-      transition: background-color 0.15s ease;
-    }
-    .search-nav-btn:hover { background: rgba(255, 255, 255, 0.22); }
-    .search-nav-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
-    .search-nav-btn:disabled { opacity: 0.35; cursor: not-allowed; }
     mark.search-highlight {
       background: rgba(251, 191, 36, 0.45);
       border-radius: 2px;
@@ -545,6 +499,8 @@
       align-items: baseline;
       border-bottom: 1px solid rgba(0, 0, 0, 0.05);
       transition: background-color 0.12s;
+      text-decoration: none;
+      color: inherit;
     }
     .book-search-result:hover { background: rgba(26, 58, 107, 0.06); }
     .book-search-page-num {
@@ -565,6 +521,105 @@
       -webkit-line-clamp: 3;
       -webkit-box-orient: vertical;
     }
+
+    /* Global search section */
+    .gs-input-row {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 0.75rem;
+    }
+    #gs-input {
+      flex: 1;
+      padding: 0.5rem 0.75rem;
+      border-radius: 6px;
+      border: 1.5px solid rgba(26, 58, 107, 0.25);
+      font-size: 1rem;
+      font-family: var(--font-body);
+      background: white;
+      color: var(--ink);
+    }
+    #gs-input:focus {
+      outline: 2px solid rgba(251, 191, 36, 0.85);
+      outline-offset: 1px;
+      border-color: #1a3a6b;
+    }
+    .gs-run-btn {
+      background: #1a3a6b;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      padding: 0.5rem 1.2rem;
+      font-size: 1rem;
+      font-family: var(--font-body);
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background-color 0.15s;
+    }
+    .gs-run-btn:hover { background: #24466f; }
+    .gs-run-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+    .gs-filter-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-bottom: 1rem;
+    }
+    .gs-filter-pill {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.25rem 0.7rem;
+      border-radius: 999px;
+      font-size: 0.82rem;
+      font-family: var(--font-body);
+      font-weight: 600;
+      cursor: pointer;
+      border: 1.5px solid rgba(26, 58, 107, 0.3);
+      background: white;
+      color: #1a3a6b;
+      transition: background-color 0.12s, border-color 0.12s;
+      user-select: none;
+    }
+    .gs-filter-pill.active {
+      background: #1a3a6b;
+      color: white;
+      border-color: #1a3a6b;
+    }
+    .gs-filter-pill:hover:not(.active) { border-color: #1a3a6b; background: rgba(26, 58, 107, 0.06); }
+    .gs-results-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      font-weight: 600;
+      color: var(--ink-soft);
+      font-size: 0.9rem;
+      padding: 0.6rem 0 0.5rem;
+      border-top: 1px solid rgba(0, 0, 0, 0.08);
+    }
+    .gs-result-list { list-style: none; margin: 0; padding: 0; }
+    .gs-result-source-label {
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: #1a3a6b;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: 0.8rem 0 0.3rem;
+    }
+    .gs-result-item {
+      display: flex;
+      gap: 0.75rem;
+      align-items: baseline;
+      padding: 0.45rem 0.6rem;
+      border-radius: 5px;
+      text-decoration: none;
+      color: inherit;
+      transition: background-color 0.1s;
+      margin-bottom: 0.15rem;
+    }
+    .gs-result-item:hover { background: rgba(26, 58, 107, 0.06); }
+    .gs-result-page { font-weight: 700; color: #1a3a6b; font-size: 0.82rem; white-space: nowrap; min-width: 3.8rem; font-family: var(--font-body); }
+    .gs-result-snippet { font-size: 0.88rem; color: var(--ink-soft); font-style: italic; line-height: 1.5; }
+    .gs-progress-bar { width: 100px; height: 3px; background: rgba(26, 58, 107, 0.14); border-radius: 2px; overflow: hidden; flex-shrink: 0; }
+    .gs-progress-fill { height: 100%; background: #1a3a6b; border-radius: 2px; transition: width 0.25s ease; }
   </style>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
 </head>
@@ -580,6 +635,7 @@
   <a href="#" data-section="predigten" onclick="showSection(event, 'predigten')">Predigten</a>
   <a href="#" data-section="disputation" onclick="showSection(event, 'disputation')">Disputation</a>
   <a href="#" data-section="ressourcen" onclick="showSection(event, 'ressourcen')">Ressourcen</a>
+  <a href="#" data-section="suche" onclick="showSection(event, 'suche')">Suche</a>
 </nav>
 
 <main>
@@ -631,12 +687,6 @@
       </div>
       <div class="viewer-col">
         <div class="viewer-col-header">✍️ Transkription (Frühneuhochdeutsch)</div>
-        <div class="viewer-col-search">
-          <input type="search" id="predigten-search-input" placeholder="Suche in Transkription…" autocomplete="off" aria-label="In Transkription suchen">
-          <span class="search-match-count" id="predigten-search-count" aria-live="polite"></span>
-          <button class="search-nav-btn" id="predigten-search-prev" onclick="prevTranscriptionMatch('predigten')" title="Vorherige (Shift+Enter)" aria-label="Vorherige Übereinstimmung" disabled>↑</button>
-          <button class="search-nav-btn" id="predigten-search-next" onclick="nextTranscriptionMatch('predigten')" title="Nächste (Enter)" aria-label="Nächste Übereinstimmung" disabled>↓</button>
-        </div>
         <div class="book-search-bar">
           <input type="search" id="predigten-book-search-input" placeholder="Gesamtes Buch durchsuchen…" autocomplete="off" aria-label="Gesamtes Buch durchsuchen">
           <button class="book-search-run-btn" onclick="triggerBookSearch('predigten')">Buchsuche</button>
@@ -687,12 +737,6 @@
       </div>
       <div class="viewer-col">
         <div class="viewer-col-header">✍️ Transkription (Frühneuhochdeutsch)</div>
-        <div class="viewer-col-search">
-          <input type="search" id="disputation-search-input" placeholder="Suche in Transkription…" autocomplete="off" aria-label="In Transkription suchen">
-          <span class="search-match-count" id="disputation-search-count" aria-live="polite"></span>
-          <button class="search-nav-btn" id="disputation-search-prev" onclick="prevTranscriptionMatch('disputation')" title="Vorherige (Shift+Enter)" aria-label="Vorherige Übereinstimmung" disabled>↑</button>
-          <button class="search-nav-btn" id="disputation-search-next" onclick="nextTranscriptionMatch('disputation')" title="Nächste (Enter)" aria-label="Nächste Übereinstimmung" disabled>↓</button>
-        </div>
         <div class="book-search-bar">
           <input type="search" id="disputation-book-search-input" placeholder="Gesamtes Buch durchsuchen…" autocomplete="off" aria-label="Gesamtes Buch durchsuchen">
           <button class="book-search-run-btn" onclick="triggerBookSearch('disputation')">Buchsuche</button>
@@ -742,6 +786,19 @@
       <div id="entity-list" style="margin-top: 20px;">
         <p><em>Laden...</em></p>
       </div>
+    </div>
+  </div>
+
+  <div id="suche" class="section-page">
+    <div class="intro" style="max-width: 820px; margin: 0 auto;">
+      <h2>Suche</h2>
+      <p>Durchsuchen Sie alle Transkriptionen der Berner Reformation — Predigten und alle Fassungen der Disputation.</p>
+      <div class="gs-input-row">
+        <input type="search" id="gs-input" placeholder="Suchbegriff eingeben…" autocomplete="off" aria-label="Suche über alle Quellen">
+        <button class="gs-run-btn" onclick="triggerGlobalSearch()">Suchen</button>
+      </div>
+      <div class="gs-filter-bar" id="gs-filter-bar"></div>
+      <div id="gs-results"></div>
     </div>
   </div>
 </main>
@@ -946,21 +1003,6 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 
   ['predigten', 'disputation'].forEach(function(section) {
-    const input = document.getElementById(`${section}-search-input`);
-    if (!input) return;
-    input.addEventListener("input", function() {
-      transcriptionSearch[section].query = this.value;
-      applyTranscriptionSearch(section);
-    });
-    input.addEventListener("keydown", function(e) {
-      if (e.key !== 'Enter') return;
-      e.preventDefault();
-      if (e.shiftKey) prevTranscriptionMatch(section);
-      else nextTranscriptionMatch(section);
-    });
-  });
-
-  ['predigten', 'disputation'].forEach(function(section) {
     const bookInput = document.getElementById(`${section}-book-search-input`);
     if (!bookInput) return;
     bookInput.addEventListener('keydown', function(e) {
@@ -982,6 +1024,13 @@ document.addEventListener("DOMContentLoaded", function() {
       if (e.key === 'Enter') { e.preventDefault(); goToDisputationPage(); this.blur(); }
     });
     disputationPageInput.addEventListener('blur', goToDisputationPage);
+  }
+
+  const gsInput = document.getElementById('gs-input');
+  if (gsInput) {
+    gsInput.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') { e.preventDefault(); triggerGlobalSearch(); }
+    });
   }
 });
 
@@ -1481,23 +1530,6 @@ function clearTranscriptionHighlights(containerId) {
   container.normalize();
 }
 
-function updateTranscriptionSearchUI(section) {
-  const state = transcriptionSearch[section];
-  const countEl = document.getElementById(`${section}-search-count`);
-  const prevBtn = document.getElementById(`${section}-search-prev`);
-  const nextBtn = document.getElementById(`${section}-search-next`);
-  const hasMatches = state.matches.length > 0;
-  if (countEl) {
-    countEl.textContent = state.query.length < 2
-      ? ''
-      : hasMatches
-        ? `${state.index + 1}/${state.matches.length}`
-        : '0 Treffer';
-  }
-  if (prevBtn) prevBtn.disabled = !hasMatches;
-  if (nextBtn) nextBtn.disabled = !hasMatches;
-}
-
 function applyTranscriptionSearch(section) {
   const state = transcriptionSearch[section];
   const containerId = section === 'predigten'
@@ -1506,7 +1538,6 @@ function applyTranscriptionSearch(section) {
   clearTranscriptionHighlights(containerId);
   state.matches = [];
   state.index = -1;
-  updateTranscriptionSearchUI(section);
 
   const container = document.getElementById(containerId);
   if (!container || state.query.length < 2) return;
@@ -1552,30 +1583,6 @@ function applyTranscriptionSearch(section) {
     state.matches[0].classList.add('search-highlight-active');
     state.matches[0].scrollIntoView({ block: 'nearest', behavior: 'smooth' });
   }
-  updateTranscriptionSearchUI(section);
-}
-
-function activateTranscriptionMatch(section) {
-  const state = transcriptionSearch[section];
-  state.matches.forEach((m, i) => m.classList.toggle('search-highlight-active', i === state.index));
-  if (state.matches[state.index]) {
-    state.matches[state.index].scrollIntoView({ block: 'nearest', behavior: 'smooth' });
-  }
-  updateTranscriptionSearchUI(section);
-}
-
-function prevTranscriptionMatch(section) {
-  const state = transcriptionSearch[section];
-  if (state.matches.length === 0) return;
-  state.index = (state.index - 1 + state.matches.length) % state.matches.length;
-  activateTranscriptionMatch(section);
-}
-
-function nextTranscriptionMatch(section) {
-  const state = transcriptionSearch[section];
-  if (state.matches.length === 0) return;
-  state.index = (state.index + 1) % state.matches.length;
-  activateTranscriptionMatch(section);
 }
 
 // Main section switching.
@@ -1599,6 +1606,8 @@ function showSection(event, id) {
   } else if (id === 'disputation') {
     initDisputationViewer();
     updateDisputation();
+  } else if (id === 'suche') {
+    renderGlobalSearchFilters();
   }
 }
 
@@ -1764,6 +1773,7 @@ function updatePredigten() {
   if (!predigtenSection || !predigtenSection.classList.contains('active')) {
     return;
   }
+  updatePredigtenUrl();
 
   const token = ++predigtenState.contentToken;
   loadPredigtenTranscription(token);
@@ -1815,6 +1825,31 @@ function updateDisputationUrl() {
   }
 }
 
+function parsePredigtenUrl() {
+  const hash = window.location.hash;
+  const match = hash.match(/^#\/predigten\/(\d+)/);
+  if (match) return { pageNum: parseInt(match[1], 10) };
+  return null;
+}
+
+function updatePredigtenUrl() {
+  const pageNum = predigtenState.currentPageIndex + 1;
+  const newHash = `#/predigten/${pageNum}`;
+  if (window.location.hash !== newHash) {
+    window.location.hash = newHash;
+  }
+}
+
+// Activate a section by ID without triggering viewer init (used for deep linking).
+function showSectionById(id) {
+  document.querySelectorAll('.section-page').forEach((s) => s.classList.remove('active'));
+  const sectionEl = document.getElementById(id);
+  if (sectionEl) sectionEl.classList.add('active');
+  document.querySelectorAll('nav a').forEach((a) => a.classList.remove('active'));
+  const navLink = document.querySelector(`nav a[data-section="${id}"]`);
+  if (navLink) navLink.classList.add('active');
+}
+
 function navigateToDisputationFromUrl() {
   const urlParams = parseDisputationUrl();
   if (!urlParams) return false;
@@ -1829,20 +1864,31 @@ function navigateToDisputationFromUrl() {
 
 // Handle browser back/forward (hash changes)
 window.addEventListener('hashchange', () => {
-  const urlParams = parseDisputationUrl();
-  if (!urlParams) return;
-  
-  const variant = DISPUTATION_VARIANTS.find(v => v.id === urlParams.variantId);
-  if (!variant) return;
-  
-  if (variant.id !== disputationState.variantId) {
-    switchDisputationVariantById(variant.id);
+  // Try disputation URL first
+  const disputationParams = parseDisputationUrl();
+  if (disputationParams) {
+    const variant = DISPUTATION_VARIANTS.find(v => v.id === disputationParams.variantId);
+    if (!variant) return;
+    if (variant.id !== disputationState.variantId) {
+      switchDisputationVariantById(variant.id);
+    }
+    const targetPage = disputationParams.pageNum - 1;
+    if (targetPage !== disputationState.currentPageIndex) {
+      disputationState.currentPageIndex = targetPage;
+      updateDisputation();
+    }
+    return;
   }
-  
-  const targetPage = urlParams.pageNum - 1;
-  if (targetPage !== disputationState.currentPageIndex) {
-    disputationState.currentPageIndex = targetPage;
-    updateDisputation();
+
+  // Try predigten URL
+  const predigtenParams = parsePredigtenUrl();
+  if (predigtenParams) {
+    const targetPage = predigtenParams.pageNum - 1;
+    if (targetPage !== predigtenState.currentPageIndex) {
+      predigtenState.currentPageIndex = targetPage;
+      updatePredigten();
+    }
+    return;
   }
 });
 
@@ -2473,10 +2519,13 @@ function renderBookSearchPanel(section, results, query, isLoading, fetched, tota
         )
       ).join('<br>');
       const safeQuery = JSON.stringify(query).replace(/</g, '\\u003c').replace(/>/g, '\\u003e');
-      html += `<li class="book-search-result" onclick="navigateToBookResult('${section}',${pageNr},${safeQuery})">
-        <span class="book-search-page-num">S. ${pageNr}</span>
+      const resultHash = section === 'predigten'
+        ? `#/predigten/${pageNr}`
+        : `#/disputation/${disputationState.variantId}/${pageNr}`;
+      html += `<li><a class="book-search-result" href="${resultHash}" onclick="event.preventDefault(); navigateToBookResult('${section}',${pageNr},${safeQuery})">
+        <span class="book-search-page-num">S.&nbsp;${pageNr}</span>
         <span class="book-search-snippet">${snippetHtml}</span>
-      </li>`;
+      </a></li>`;
     }
     html += '</ul>';
   }
@@ -2516,9 +2565,9 @@ function triggerBookSearch(section) {
 
 function navigateToBookResult(section, pageNr, query) {
   closeBookSearchPanel(section);
-  const perPageInput = document.getElementById(`${section}-search-input`);
-  if (perPageInput) perPageInput.value = query;
-  transcriptionSearch[section].query = query;
+  if (query && query.length >= 2) {
+    transcriptionSearch[section].query = query;
+  }
   if (section === 'predigten') {
     predigtenState.currentPageIndex = pageNr - 1;
     updatePredigten();
@@ -2593,6 +2642,231 @@ async function runBookSearch(section, query) {
   }
 }
 
+// Global search
+const globalSearchFilters = {
+  predigten: true,
+  'druck-1528': true,
+  'a-v-1447': true,
+  'a-v-1443': true,
+  'a-v-1444': true,
+  'a-v-1445': true,
+  'a-v-1446': true
+};
+
+let globalSearchAbortController = null;
+
+function renderGlobalSearchFilters() {
+  const bar = document.getElementById('gs-filter-bar');
+  if (!bar) return;
+  const sources = [
+    { id: 'predigten', label: 'Predigten' },
+    ...DISPUTATION_VARIANTS.map((v) => ({ id: v.id, label: v.label }))
+  ];
+  const allActive = sources.every((s) => globalSearchFilters[s.id]);
+  let html = `<button class="gs-filter-pill${allActive ? ' active' : ''}" onclick="setAllSearchFilters(${!allActive})">Alle</button>`;
+  for (const src of sources) {
+    const isActive = !!globalSearchFilters[src.id];
+    html += `<button class="gs-filter-pill${isActive ? ' active' : ''}" onclick="toggleSearchFilter('${escapeHtml(src.id)}')">${escapeHtml(src.label)}</button>`;
+  }
+  bar.innerHTML = html;
+}
+
+function toggleSearchFilter(sourceId) {
+  if (Object.prototype.hasOwnProperty.call(globalSearchFilters, sourceId)) {
+    globalSearchFilters[sourceId] = !globalSearchFilters[sourceId];
+  }
+  renderGlobalSearchFilters();
+}
+
+function setAllSearchFilters(value) {
+  for (const key of Object.keys(globalSearchFilters)) {
+    globalSearchFilters[key] = !!value;
+  }
+  renderGlobalSearchFilters();
+}
+
+function triggerGlobalSearch() {
+  const input = document.getElementById('gs-input');
+  const query = input ? input.value.trim() : '';
+  runGlobalSearch(query);
+}
+
+// Unified text cache: reuses book-search caches keyed by source ID.
+function getTextCache(sourceId) {
+  if (sourceId === 'predigten') {
+    const state = bookSearchState.predigten;
+    if (!state.cacheByVariant.has('predigten')) state.cacheByVariant.set('predigten', new Map());
+    return state.cacheByVariant.get('predigten');
+  }
+  const state = bookSearchState.disputation;
+  if (!state.cacheByVariant.has(sourceId)) state.cacheByVariant.set(sourceId, new Map());
+  return state.cacheByVariant.get(sourceId);
+}
+
+async function getSourcePages(sourceId) {
+  if (sourceId === 'predigten') {
+    return getBookSearchPages('predigten');
+  }
+  const variant = DISPUTATION_VARIANTS.find((v) => v.id === sourceId);
+  if (!variant) return [];
+  const total = variant.defaultTotalPages;
+  return Array.from({ length: total }, (_, i) => ({
+    pageNr: i + 1,
+    path: `${variant.transcriptionBasePath}/page_${i + 1}.md`
+  }));
+}
+
+function renderGlobalResults(resultsBySource, query, isLoading, progress, activeSourceIds) {
+  const container = document.getElementById('gs-results');
+  if (!container) return;
+  if (!resultsBySource) { container.innerHTML = ''; return; }
+
+  let totalHits = 0;
+  let totalFetched = 0;
+  let totalPages = 0;
+  for (const id of activeSourceIds) {
+    const p = (progress || {})[id] || { fetched: 0, total: 0 };
+    totalFetched += p.fetched;
+    totalPages += p.total;
+    totalHits += (resultsBySource[id] || []).length;
+  }
+
+  const pct = totalPages > 0 ? Math.round((totalFetched / totalPages) * 100) : 0;
+  const statusText = isLoading
+    ? `Suche läuft… ${totalFetched} / ${totalPages} Seiten — ${totalHits} Treffer`
+    : totalHits === 0
+      ? 'Keine Treffer gefunden'
+      : `${totalHits} Treffer in ${activeSourceIds.filter((id) => (resultsBySource[id] || []).length > 0).length} Quellen`;
+
+  let html = `<div class="gs-results-header"><span>${escapeHtml(statusText)}</span>`;
+  if (isLoading) html += `<div class="gs-progress-bar"><div class="gs-progress-fill" style="width:${pct}%"></div></div>`;
+  html += '</div>';
+
+  const escapedQuery = escapeRegExp(escapeHtml(query));
+  for (const sourceId of activeSourceIds) {
+    const results = resultsBySource[sourceId] || [];
+    if (results.length === 0) continue;
+    const srcLabel = sourceId === 'predigten'
+      ? 'Predigten'
+      : ((DISPUTATION_VARIANTS.find((v) => v.id === sourceId) || {}).label || sourceId);
+    html += `<div class="gs-result-source-label">${escapeHtml(srcLabel)}</div><ul class="gs-result-list">`;
+    for (const { pageNr, lines } of results) {
+      const snippetHtml = lines.map((line) =>
+        escapeHtml(line).replace(
+          new RegExp(escapedQuery, 'gi'),
+          (m) => `<mark class="search-highlight search-highlight-active">${m}</mark>`
+        )
+      ).join('<br>');
+      const hash = sourceId === 'predigten'
+        ? `#/predigten/${pageNr}`
+        : `#/disputation/${sourceId}/${pageNr}`;
+      const safeSourceId = escapeHtml(sourceId);
+      const safeQuery = JSON.stringify(query).replace(/</g, '\\u003c').replace(/>/g, '\\u003e');
+      html += `<li><a class="gs-result-item" href="${hash}" onclick="handleGlobalResultClick(event,'${safeSourceId}',${pageNr},${safeQuery})"><span class="gs-result-page">S.&nbsp;${pageNr}</span><span class="gs-result-snippet">${snippetHtml}</span></a></li>`;
+    }
+    html += '</ul>';
+  }
+  container.innerHTML = html;
+}
+
+function handleGlobalResultClick(event, sourceId, pageNr, query) {
+  if (event) event.preventDefault();
+  // Set highlight query for the destination section
+  if (query && query.length >= 2) {
+    if (sourceId === 'predigten') {
+      transcriptionSearch.predigten.query = query;
+    } else {
+      transcriptionSearch.disputation.query = query;
+    }
+  }
+  if (sourceId === 'predigten') {
+    predigtenState.currentPageIndex = pageNr - 1;
+    showSectionById('predigten');
+    initPredigtenViewer();
+    updatePredigten();
+  } else {
+    const variant = DISPUTATION_VARIANTS.find((v) => v.id === sourceId);
+    if (!variant) return;
+    if (sourceId !== disputationState.variantId) {
+      disputationState.variantId = sourceId;
+      resetDisputationVariantState();
+      setActiveDisputationVariantLink(sourceId);
+      updateDisputationVariantTitle();
+    }
+    disputationState.currentPageIndex = pageNr - 1;
+    showSectionById('disputation');
+    initDisputationViewer();
+    updateDisputation();
+  }
+}
+
+async function runGlobalSearch(query) {
+  if (globalSearchAbortController) { globalSearchAbortController.abort(); globalSearchAbortController = null; }
+  if (!query || query.length < 2) { renderGlobalResults(null, query, false, {}, []); return; }
+
+  const controller = new AbortController();
+  globalSearchAbortController = controller;
+
+  const activeSourceIds = Object.keys(globalSearchFilters).filter((id) => globalSearchFilters[id]);
+  const allResults = {};
+  const progress = {};
+  for (const id of activeSourceIds) { allResults[id] = []; progress[id] = { fetched: 0, total: 0 }; }
+
+  renderGlobalResults(allResults, query, true, progress, activeSourceIds);
+
+  const lowerQuery = query.toLowerCase();
+  const BATCH_SIZE = 80;
+
+  for (const sourceId of activeSourceIds) {
+    if (controller.signal.aborted) return;
+    let pages;
+    try { pages = await getSourcePages(sourceId); } catch { continue; }
+    if (controller.signal.aborted) return;
+
+    const cache = getTextCache(sourceId);
+    const results = [];
+    const total = pages.length;
+    progress[sourceId] = { fetched: 0, total };
+
+    for (let start = 0; start < pages.length; start += BATCH_SIZE) {
+      if (controller.signal.aborted) return;
+      const batch = pages.slice(start, start + BATCH_SIZE);
+      const batchItems = await Promise.all(batch.map(async ({ pageNr, path }) => {
+        if (cache.has(pageNr)) return { pageNr, text: cache.get(pageNr) };
+        try {
+          const resp = await fetch(path, { signal: controller.signal });
+          if (!resp.ok) { cache.set(pageNr, null); return { pageNr, text: null }; }
+          const text = await resp.text();
+          const content = isMissingTranslationContent(text) ? null : text;
+          cache.set(pageNr, content);
+          return { pageNr, text: content };
+        } catch (e) {
+          if (e.name !== 'AbortError') cache.set(pageNr, null);
+          return null;
+        }
+      }));
+      if (controller.signal.aborted) return;
+      for (const item of batchItems) {
+        if (!item || !item.text) continue;
+        const matching = item.text.split('\n')
+          .map((l) => l.replace(/^#+\s+/, '').trim())
+          .filter((l) => l && l.toLowerCase().includes(lowerQuery));
+        if (matching.length > 0) results.push({ pageNr: item.pageNr, lines: matching.slice(0, 2) });
+      }
+      progress[sourceId] = { fetched: start + batch.length, total };
+      allResults[sourceId] = results;
+      renderGlobalResults(allResults, query, true, progress, activeSourceIds);
+    }
+    allResults[sourceId] = results;
+    progress[sourceId] = { fetched: total, total };
+  }
+
+  if (!controller.signal.aborted) {
+    globalSearchAbortController = null;
+    renderGlobalResults(allResults, query, false, progress, activeSourceIds);
+  }
+}
+
 // Sticky nav effect.
 function updateNavElevation() {
   const nav = document.querySelector('nav');
@@ -2618,23 +2892,26 @@ updateNavElevation();
 initializeDisputationVariantUi();
 updatePredigten();
 
-// Check URL for deep linking: /disputation/variant/page
-const urlParams = parseDisputationUrl();
-if (urlParams && urlParams.variantId) {
-  // Deep link detected - switch to disputation section first
-  document.querySelectorAll('.section-page').forEach((s) => s.classList.remove('active'));
-  const sectionEl = document.getElementById('disputation');
-  if (sectionEl) sectionEl.classList.add('active');
-  document.querySelectorAll('nav a').forEach((a) => a.classList.remove('active'));
-  const navLink = document.querySelector('nav a[data-section="disputation"]');
-  if (navLink) navLink.classList.add('active');
-  
-  navigateToDisputationFromUrl();
-  initDisputationViewer();
+// Check URL for deep linking
+(function initDeepLink() {
+  const disputationParams = parseDisputationUrl();
+  if (disputationParams && disputationParams.variantId) {
+    showSectionById('disputation');
+    navigateToDisputationFromUrl();
+    initDisputationViewer();
+    updateDisputation();
+    return;
+  }
+  const predigtenParams = parsePredigtenUrl();
+  if (predigtenParams) {
+    predigtenState.currentPageIndex = predigtenParams.pageNum - 1;
+    showSectionById('predigten');
+    initPredigtenViewer();
+    updatePredigten();
+    return;
+  }
   updateDisputation();
-} else {
-  updateDisputation();
-}
+}());
 </script>
 
 </body>
