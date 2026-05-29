@@ -445,6 +445,126 @@
       color: #2f2f2f;
       outline: 1px solid #f59e0b;
     }
+
+    .book-search-bar {
+      background: rgba(18, 42, 80, 0.52);
+      padding: 0.35rem 0.75rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    }
+    .book-search-bar input[type="search"] {
+      flex: 1;
+      min-width: 0;
+      padding: 0.28rem 0.45rem;
+      border-radius: 4px;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      background: rgba(255, 255, 255, 0.09);
+      color: white;
+      font-size: 0.83rem;
+      font-family: var(--font-body);
+    }
+    .book-search-bar input[type="search"]::placeholder { color: rgba(255, 255, 255, 0.45); }
+    .book-search-bar input[type="search"]:focus {
+      outline: 2px solid var(--accent);
+      outline-offset: 1px;
+      background: rgba(255, 255, 255, 0.16);
+    }
+    .book-search-run-btn {
+      background: rgba(255, 255, 255, 0.13);
+      border: 1px solid rgba(255, 255, 255, 0.22);
+      color: white;
+      border-radius: 4px;
+      padding: 0.22rem 0.65rem;
+      cursor: pointer;
+      font-size: 0.83rem;
+      font-family: var(--font-body);
+      font-weight: 600;
+      white-space: nowrap;
+      transition: background-color 0.15s;
+    }
+    .book-search-run-btn:hover { background: rgba(255, 255, 255, 0.23); }
+    .book-search-run-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+    .book-search-panel {
+      overflow-y: auto;
+      max-height: 80vh;
+      background: var(--panel);
+      backdrop-filter: blur(6px) saturate(120%);
+    }
+    .book-search-panel-header {
+      position: sticky;
+      top: 0;
+      background: var(--panel);
+      border-bottom: 1px solid rgba(0, 0, 0, 0.07);
+      padding: 0.55rem 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      z-index: 2;
+    }
+    .book-search-status {
+      flex: 1;
+      font-size: 0.84rem;
+      color: var(--ink-soft);
+      font-weight: 600;
+    }
+    .book-search-progress-bar {
+      width: 80px;
+      height: 3px;
+      background: rgba(26, 58, 107, 0.14);
+      border-radius: 2px;
+      overflow: hidden;
+      flex-shrink: 0;
+    }
+    .book-search-progress-fill {
+      height: 100%;
+      background: #1a3a6b;
+      border-radius: 2px;
+      transition: width 0.25s ease;
+    }
+    .book-search-close-btn {
+      background: none;
+      border: none;
+      color: var(--ink-soft);
+      cursor: pointer;
+      font-size: 0.95rem;
+      padding: 0.15rem 0.35rem;
+      border-radius: 4px;
+      line-height: 1;
+      flex-shrink: 0;
+    }
+    .book-search-close-btn:hover { background: rgba(0, 0, 0, 0.06); }
+    .book-search-close-btn:focus-visible { outline: 2px solid rgba(251, 191, 36, 0.85); }
+    .book-search-result-list { list-style: none; margin: 0; padding: 0; }
+    .book-search-result {
+      padding: 0.55rem 1rem;
+      cursor: pointer;
+      display: flex;
+      gap: 0.75rem;
+      align-items: baseline;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+      transition: background-color 0.12s;
+    }
+    .book-search-result:hover { background: rgba(26, 58, 107, 0.06); }
+    .book-search-page-num {
+      font-weight: 700;
+      color: #1a3a6b;
+      font-size: 0.82rem;
+      white-space: nowrap;
+      min-width: 3.8rem;
+      font-family: var(--font-body);
+    }
+    .book-search-snippet {
+      font-size: 0.88rem;
+      color: var(--ink-soft);
+      font-style: italic;
+      line-height: 1.5;
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+    }
   </style>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
 </head>
@@ -517,6 +637,11 @@
           <button class="search-nav-btn" id="predigten-search-prev" onclick="prevTranscriptionMatch('predigten')" title="Vorherige (Shift+Enter)" aria-label="Vorherige Übereinstimmung" disabled>↑</button>
           <button class="search-nav-btn" id="predigten-search-next" onclick="nextTranscriptionMatch('predigten')" title="Nächste (Enter)" aria-label="Nächste Übereinstimmung" disabled>↓</button>
         </div>
+        <div class="book-search-bar">
+          <input type="search" id="predigten-book-search-input" placeholder="Gesamtes Buch durchsuchen…" autocomplete="off" aria-label="Gesamtes Buch durchsuchen">
+          <button class="book-search-run-btn" onclick="triggerBookSearch('predigten')">Buchsuche</button>
+        </div>
+        <div class="book-search-panel" id="predigten-book-search-panel" style="display:none;"></div>
         <div class="viewer-col-content transcription" id="transcription-content">
           <p class="loading">Lade Transkription...</p>
         </div>
@@ -568,6 +693,11 @@
           <button class="search-nav-btn" id="disputation-search-prev" onclick="prevTranscriptionMatch('disputation')" title="Vorherige (Shift+Enter)" aria-label="Vorherige Übereinstimmung" disabled>↑</button>
           <button class="search-nav-btn" id="disputation-search-next" onclick="nextTranscriptionMatch('disputation')" title="Nächste (Enter)" aria-label="Nächste Übereinstimmung" disabled>↓</button>
         </div>
+        <div class="book-search-bar">
+          <input type="search" id="disputation-book-search-input" placeholder="Gesamtes Buch durchsuchen…" autocomplete="off" aria-label="Gesamtes Buch durchsuchen">
+          <button class="book-search-run-btn" onclick="triggerBookSearch('disputation')">Buchsuche</button>
+        </div>
+        <div class="book-search-panel" id="disputation-book-search-panel" style="display:none;"></div>
         <div class="viewer-col-content transcription" id="disputation-transcription-content">
           <p class="loading">Lade Transkription...</p>
         </div>
@@ -827,6 +957,14 @@ document.addEventListener("DOMContentLoaded", function() {
       e.preventDefault();
       if (e.shiftKey) prevTranscriptionMatch(section);
       else nextTranscriptionMatch(section);
+    });
+  });
+
+  ['predigten', 'disputation'].forEach(function(section) {
+    const bookInput = document.getElementById(`${section}-book-search-input`);
+    if (!bookInput) return;
+    bookInput.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') { e.preventDefault(); triggerBookSearch(section); }
     });
   });
 
@@ -1747,6 +1885,7 @@ function updateDisputationVariantTitle() {
 }
 
 function resetDisputationVariantState() {
+  closeBookSearchPanel('disputation');
   const variant = getCurrentDisputationVariant();
   disputationState.currentPageIndex = 0;
   disputationState.totalPages = variant.defaultTotalPages || 1;
@@ -2267,6 +2406,191 @@ function updateDisputation() {
       applyPaginationState();
     })
     .catch(() => {});
+}
+
+// Book-wide transcription search
+const bookSearchState = {
+  predigten:   { cacheByVariant: new Map(), currentSearch: null, resultsVisible: false },
+  disputation: { cacheByVariant: new Map(), currentSearch: null, resultsVisible: false }
+};
+
+function getBookSearchCache(section) {
+  const key = section === 'disputation' ? disputationState.variantId : 'predigten';
+  const state = bookSearchState[section];
+  if (!state.cacheByVariant.has(key)) state.cacheByVariant.set(key, new Map());
+  return state.cacheByVariant.get(key);
+}
+
+async function getBookSearchPages(section) {
+  if (section === 'predigten') {
+    await ensurePredigtenManifestData().catch(() => {});
+    const total = predigtenState.totalPages;
+    return Array.from({ length: total }, (_, i) => ({
+      pageNr: i + 1,
+      path: `${PREDIGTEN_TRANSCRIPTION_BASE_PATH}/page_${i + 1}.md`
+    }));
+  }
+  const variant = getCurrentDisputationVariant();
+  await ensureDisputationManifestData().catch(() => {});
+  if (disputationState.pageEntries.length > 0) {
+    return disputationState.pageEntries.map((entry) => ({
+      pageNr: entry.pageNr,
+      path: entry.transcriptionPath || `${variant.transcriptionBasePath}/page_${entry.pageNr}.md`
+    }));
+  }
+  const total = disputationState.totalPages || variant.defaultTotalPages;
+  return Array.from({ length: total }, (_, i) => ({
+    pageNr: i + 1,
+    path: `${variant.transcriptionBasePath}/page_${i + 1}.md`
+  }));
+}
+
+function renderBookSearchPanel(section, results, query, isLoading, fetched, total) {
+  const panel = document.getElementById(`${section}-book-search-panel`);
+  if (!panel) return;
+
+  const pct = total > 0 ? Math.round((fetched / total) * 100) : 0;
+  const statusText = isLoading
+    ? `Suche läuft… ${fetched} / ${total} Seiten — ${results.length} Treffer`
+    : results.length === 0
+      ? 'Keine Treffer gefunden'
+      : `${results.length} Seiten mit Treffern`;
+
+  let html = `<div class="book-search-panel-header">
+    <span class="book-search-status">${escapeHtml(statusText)}</span>
+    ${isLoading ? `<div class="book-search-progress-bar"><div class="book-search-progress-fill" style="width:${pct}%"></div></div>` : ''}
+    <button class="book-search-close-btn" onclick="closeBookSearchPanel('${section}')" aria-label="Buchsuche schließen">✕</button>
+  </div>`;
+
+  if (results.length > 0) {
+    const escapedQuery = escapeRegExp(escapeHtml(query));
+    html += '<ul class="book-search-result-list">';
+    for (const { pageNr, lines } of results) {
+      const snippetHtml = lines.map((line) =>
+        escapeHtml(line).replace(
+          new RegExp(escapedQuery, 'gi'),
+          (m) => `<mark class="search-highlight search-highlight-active">${m}</mark>`
+        )
+      ).join('<br>');
+      const safeQuery = JSON.stringify(query).replace(/</g, '\\u003c').replace(/>/g, '\\u003e');
+      html += `<li class="book-search-result" onclick="navigateToBookResult('${section}',${pageNr},${safeQuery})">
+        <span class="book-search-page-num">S. ${pageNr}</span>
+        <span class="book-search-snippet">${snippetHtml}</span>
+      </li>`;
+    }
+    html += '</ul>';
+  }
+
+  panel.innerHTML = html;
+}
+
+function openBookSearchPanel(section) {
+  const panel = document.getElementById(`${section}-book-search-panel`);
+  const contentId = section === 'predigten' ? 'transcription-content' : 'disputation-transcription-content';
+  const content = document.getElementById(contentId);
+  if (panel) panel.style.display = '';
+  if (content) content.style.display = 'none';
+  bookSearchState[section].resultsVisible = true;
+}
+
+function closeBookSearchPanel(section) {
+  const panel = document.getElementById(`${section}-book-search-panel`);
+  const contentId = section === 'predigten' ? 'transcription-content' : 'disputation-transcription-content';
+  const content = document.getElementById(contentId);
+  if (panel) { panel.style.display = 'none'; panel.innerHTML = ''; }
+  if (content) content.style.display = '';
+  bookSearchState[section].resultsVisible = false;
+  const input = document.getElementById(`${section}-book-search-input`);
+  if (input) input.value = '';
+  if (bookSearchState[section].currentSearch) {
+    bookSearchState[section].currentSearch.abort();
+    bookSearchState[section].currentSearch = null;
+  }
+}
+
+function triggerBookSearch(section) {
+  const input = document.getElementById(`${section}-book-search-input`);
+  const query = input ? input.value.trim() : '';
+  runBookSearch(section, query);
+}
+
+function navigateToBookResult(section, pageNr, query) {
+  closeBookSearchPanel(section);
+  const perPageInput = document.getElementById(`${section}-search-input`);
+  if (perPageInput) perPageInput.value = query;
+  transcriptionSearch[section].query = query;
+  if (section === 'predigten') {
+    predigtenState.currentPageIndex = pageNr - 1;
+    updatePredigten();
+  } else {
+    disputationState.currentPageIndex = pageNr - 1;
+    updateDisputation();
+  }
+}
+
+async function runBookSearch(section, query) {
+  const state = bookSearchState[section];
+  if (state.currentSearch) { state.currentSearch.abort(); state.currentSearch = null; }
+  if (!query || query.length < 2) { closeBookSearchPanel(section); return; }
+
+  const controller = new AbortController();
+  state.currentSearch = controller;
+  openBookSearchPanel(section);
+  renderBookSearchPanel(section, [], query, true, 0, 1);
+
+  let pages;
+  try {
+    pages = await getBookSearchPages(section);
+  } catch {
+    if (!controller.signal.aborted) renderBookSearchPanel(section, [], query, false, 0, 0);
+    return;
+  }
+  if (controller.signal.aborted) return;
+
+  const cache = getBookSearchCache(section);
+  const results = [];
+  const total = pages.length;
+  let fetched = 0;
+  const lowerQuery = query.toLowerCase();
+  const BATCH_SIZE = 80;
+
+  for (let start = 0; start < pages.length; start += BATCH_SIZE) {
+    if (controller.signal.aborted) return;
+    const batch = pages.slice(start, start + BATCH_SIZE);
+
+    const batchItems = await Promise.all(batch.map(async ({ pageNr, path }) => {
+      if (cache.has(pageNr)) return { pageNr, text: cache.get(pageNr) };
+      try {
+        const resp = await fetch(path, { signal: controller.signal });
+        if (!resp.ok) { cache.set(pageNr, null); return { pageNr, text: null }; }
+        const text = await resp.text();
+        const content = isMissingTranslationContent(text) ? null : text;
+        cache.set(pageNr, content);
+        return { pageNr, text: content };
+      } catch (e) {
+        if (e.name !== 'AbortError') cache.set(pageNr, null);
+        return null;
+      }
+    }));
+
+    if (controller.signal.aborted) return;
+
+    for (const item of batchItems) {
+      if (!item || !item.text) continue;
+      const matching = item.text.split('\n')
+        .map((l) => l.replace(/^#+\s+/, '').trim())
+        .filter((l) => l && l.toLowerCase().includes(lowerQuery));
+      if (matching.length > 0) results.push({ pageNr: item.pageNr, lines: matching.slice(0, 2) });
+    }
+
+    fetched += batch.length;
+    renderBookSearchPanel(section, results, query, fetched < total, fetched, total);
+  }
+
+  if (!controller.signal.aborted) {
+    state.currentSearch = null;
+    renderBookSearchPanel(section, results, query, false, total, total);
+  }
 }
 
 // Sticky nav effect.
