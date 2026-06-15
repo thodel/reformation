@@ -1,27 +1,27 @@
 # Seite 226
 
-Dis erst schlußred
-am xiij cap: was een get ist. Das
-Dann ist die heillig christen
-ist geordnet
-bich kilch van Christo Jesu Dornub muß
-ouch ein ordnung darzu sin. Wir finden
-durch een propheren soo am x cap:
-Inn der versamluwe der klchen Der
-hell, Da ist alle vnordening Over
-Inn der klchenn Jesu Christi acht ich
-nit, Das sy vnvolkommer syn, Dan die
-Smagog der Juden, Hett ghan houpter
-oberer, aichter Eenproniiij, am xvii vande
-was da ist ijs in
-xxem cap:
-Vinster vande Irrig Das man Dogh-vles¬
-hin, har mussen zu einem entstgen komen
-Als fur die oben
-Allso mein
-ick ouch. Es sich bij vnnser christenlick
-klcken, ouch billich
-Hexchtoldus meijte
-Seister inclus spricke, Christus sig
-ein Inseliber houpt der klechen Ist ein¬
-Jnthumb. Dann die Kilchen, int vo¬
+Die erst schlußred
+am xij ͦ cap: Was von got ist. Das
+Nnun ist die heillig christen/
+ist geordnet/
+lich kilch von Christo Jesu/ Darumb muß
+ouch ein ordnung darin san/ Wir fuͤnden/
+durch den propheten/ Job/ am x ͦ cap:
+Inn der versaugung der kilchen/ der
+hell/ Da ist alle vnordnung Aber
+Inn der kilchenn Jesu Christi acht ich
+nit Das sy vnvolkommer sye/ Dan die
+Stnagog der zuden/ Hett ghan houpter/
+oberer / richter Denterouiii/ am xvij vnd
+was da ist gsin
+xvein cap:
+Enster vnnd Jnrig/ Das man daselbs/
+hin/ has muͤssen/ zuͦ einem entschen komen/
+As fur die obren e.
+llso mein
+ich ouch Es sig by vnnser christenlicher
+kilchen/ auch billich/
+Berchtoldus ageister
+eister nielus spricht/ Christus sig
+ein Ingelibet houpt der kilchen/ Ist ein//
+Irthumb. Dann die kilchen / nit vor

@@ -1,30 +1,29 @@
 # Seite 232
 
-4
-die erst schlusned
-testaments nit gewallt gehept, nach wem zwillenn zu
-eunt scheidenn, vonnders zu leren nach dem gesaz
-yottes Darmus bringent andre ysthrifft, dan
-die, vnser schlußende vffrecht lat stau
-Senyer
-Alss nun her predicant spricht, ick hab geweest,
-so ick Christum, hab genempt, ein Inselibst houpt
-Der kirchen Dann Christus sich gsn vor der
-kilchen, red ick darzu Das nach der gotheijt
-ist Christus wencklich isin, aber nach der
-monstheit hatt er vns erloszt mit smem pietern
-liden vnd sterben, vnnd hatt ons allso salig gemacht
-Denn Im Ingelibst, Mein ick wen einelijb ein
-houpt ingelibet ist. Das heupt sie Im hinwederumb
-inselibst. Wyter so verstan ick von minem hern
-predicanten. Das sij een recht houpt genempt in
-Der kilcken Das vns salen mog machen vnd vnser
-heiland sy, Das mog' kein prelat sin, noch ken
-van her D erchtold Das
-bischoff, ende
-bibringt mit hatter verstchafft, Das sunst uit mog
-een houpt genampt werden, der kilchen muß ick
-ber der theillig paulus hun¬
-exCvaxven
-f phesern am v cap: gipt nur ein andern verstand
-Des houpts / also spreckende die wijber sollen sin vnder¬
+Die erst schlubned
+testaments nit gewallt gehept / nach irein zwallenn zuͦ
+euntschlidenn/ sonnders zuͦ leren/ nach dem gesatz
+gottes/ Darumb bringent andre gschrifft/ dan
+die/ vnser schlußred vffrecht lat stan//
+zenger
+llß min her predicant spricht/ ich hab geret/
+so ich Christum/ hab genempt/ ein Ingelibet houpt
+der kirchen/ Dann Christus sig gsin vor der/
+kilchen/ red ich darzuͦ/ Das nach der gotheit
+ist Christus ewengklich gsi aber nach der
+moͤnscheit hatt er vns erloͤst mit sinem pittern
+liden vnd sterben/ vnnd hatt vns allso saͤlig gemacht/
+vnnd Im Ingelibet/ Mein ich wen einelyb ein
+houpt ingelibet ist/ Das houpt sie Im hinweiderumb
+iigelibet. Wyter so verstan ich von minem hern
+predignten/ Das sy ein recht houpt genempt in
+der kilchen/ das vns saͤlig mog machen/ vnd vnser
+heilland sy Das moͤg kein prelat sin/ noch kein
+Wan her Berchtold das
+bischoff
+bibringt mit heitter gschrifft/ das sunst nit mog
+ein houpt genampt werden/ der kilchen muͦß ich/
+Aber der heillig paulus zum
+erwarten/ e.
+Erhesern am v ͦ cap: gipt nur ein andern verstand//
+des houpts/ also sprechend/ die wyber sollen sin vnder//

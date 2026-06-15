@@ -1,26 +1,26 @@
 # Seite 215
 
-er Im sonderlich verheissen hatt/ Oder Jo¬
-hamis etc. Da er Ime hett beuolchen die
-herd zu weiden, der schaffen, zum Dritten
-mall n/
+er Im sonderlich verheissen hatt/ oder Jo/
+hanns xxvj./ Da er ime hett bevolchen die
+herd zeweiden/ der schaffen/ Zum Dritten
+mall t.
 Berchtoldus
-Herr Hafft stat Daruff Das meister
-Niclus sin erste red, Da er vermeint perso
-allein die scheussell verheissen sin, Das
-vermag der het nit van es stat int
-tibi soli dabo. sonders, frs. Sy sind Im ouch
-mit geleistet, Ime allem In denen wortenn
-Johannis am lesten cap: weid inne schaffen
-dan schaffly oveiden Ist allen verkundern,
+ller hafft stat daruff Das meisen
+Nilus sin erste red/ Da er vermeint peto
+allein die schluͤssell verheissen sin/ Das
+vermag der text nit dan es stat nit
+libi soll dabo sonders fre/ Sy sind im ouch
+nit geleistet/ Ime allein In denen wortenn
+Johannis am lesten cap: weid mine schaͤffli
+dan schaͤffli weiden/ Ist allen verkundern/
 vnd noch
-Des wort gots huolchen
-hut bij tag die wijl die leistung der
-stebeusseln, allen Opostlen geben ist, so
-steeck sich ons die verheissung vff sy als
-wingh
-29
-Ich beter lieben bruder zu erbetrung des
-Worts Johanus xvi cap: werd mine
-schafftij gar wenig zu roden, vnd bezug mich
-zum ersten Das ich der lever spruch int
+des wort gotes bevolchen/
+hut by tag Die wyl die leystung der
+schluͤsselln/ allen Apostlen geben ist/ so
+streck sich ouch die verheissung vff sy all//
+Dingli
+21
+Ich beger lieben brider zu erlutrung des
+worts Johannus xvj ͦ cap: Weid mine
+schaͤffly gar wenig zuͦ reden/ vnd bezuͦg mich
+zum ersten / Das ich der lerer spruch nit

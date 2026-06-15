@@ -20,7 +20,7 @@ von Inderlappen kranckheit halb/ abtretten sind an sin stat
 zween ander verordnet/
 Namlich her appt
 von Gotstatt/ vnnd Meister Cunrad schmid, Comendur
-zu küssnach In zurich piett.Die vier haben biss zu
+zu küssnach In Zurich piett.Die vier haben biss zu
 end Des gesprechs, das presidenten ampt verwesen//
 Die vier verordnet schreiber/ namlich beid Stadtschreiber
 von Bern vnnd Soloturn, gerichtschreiber von Bern

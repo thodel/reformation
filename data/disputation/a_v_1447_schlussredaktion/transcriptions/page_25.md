@@ -1,33 +1,29 @@
 # Seite 25
 
-Dans les
-Jaren machet, vnnd Inn vnnser hertz vydet
+tätig machet / vnnd Inn vnnser hertz redet /
 welches ouch Inn der warheit kein anders
-ist, von dem das vssereich geprediget, oder
-Diss beruffung
-In voorschrifft verfasset ist,
-erluchtung vnnd ernuwruw der hertjenn
-nem Ich gepurt der Kirchen 1a petri u. ha¬
-bend ein andern Inerunstig lieb von remein
-hertzen Alß die wider geporen sind, int
-vsss. ein sterblichen somen, sonder vsz. enn
-vnsterblichen durch die wert des läbendi¬
-gen gottes, der Inn ewigkeit belibt, dan es
-muß die gesteich gepurt der kleggen ouch
-von eim somen, sin welen cher wer int
-flasten vnnd blut, noch keins monsthen willen
-Johannis 1o, enich int ein Zer. geschluch sonder
-Das ewig vnne labenudig wort gotes, des vnst:
-Sell Capt. ermuwert vnnd wider geporen wirt
-(So der peist gotes, das In vnser hertzen pflantz
-Tot. Dan es Je sind wort des ewigen labens
-Johannis vj o
-Unne wie sij vss. Dem wort
-pottes, erluchtet ernuwert vnnd wider ge¬
-pooren wirt/ allso blijgt sy Inn Im hangot
-sijn allein an vnne hort int eijstinnen ops
-frombden
-Das ist das Christus be¬
-zufet, mit der glichnus des hirtenn, vnd
-Der schafflinen, Johannes, am xo. den schaffen
+ist / von dem das vsserlich geprediget / oder
+In geschrifft verfasset ist. Dise beruͤffung
+erluchtung vnnd ernuwrung der hertzenn
+nen Ich gepurt der Kilchen Iaͣ petri 1°. ha//
+bend ein andern Inbrunstig lieb von reinem
+hertzen Alß die wider geporen sind / nit
+vsß eim sterblichen somen / sonder vsß eim
+vnsterblichen durch die wort des laͤbendi //
+gen gottes / der Inn ewigkeit belybt / dan es
+muͦß die geistlich gepurt der Kilchen ouch
+von eim somen / syn / .wellicher aber nit
+fleisch vnnd bluͦt / noch keins moͤnschen willen
+Johannis / 1°. ouch nit ein zergengklich sonder
+Das ewig vnnd laͤbenndig wort gotes / des vnsr
+Sell laͤpt / ernuwert vnnd wider geporen wirt
+So der geist gotes / das In vnser hertzen / pflantz
+et /. Dan es Ie sind wort des ewigen laͤbens
+Johannis vi°. Vnnd wie sy vsß dem wort
+gottes/ erluchtet / ernuwert vnnd wider ge //
+poren wirt/ allso blipt sy Inn Im/ hanget
+Im allein an vnnd hoͤrt nit die stimm des
+froͤmbden. Das ist das Christus be //
+zuget / mit der glichnus des hirtenn / vnd
+Der schaͤfflinen / Johanns / am x. die schaͤffly
 -

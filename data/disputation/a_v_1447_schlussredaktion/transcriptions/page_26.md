@@ -5,32 +5,31 @@ Indi
 ouch
 mit
 willen
-Die erst Schlußreden
-volgend Im, Dann sy erkennende, lassend Inen ge¬
-faelenn sin stuij. Dann so versichert sine durch
-Een heiligen geist, 2e Chormthi: 1. vnd mr. Sij
-werdent ouch der frembden sim int volgenn
-Dann so, sin sijn int erkennent, vnd wi¬
-derumb mine schafflin, horend min stim vnnd
-Ich erkenn se vnnd sy volgene mir, vnne Ich
-pib Inen. Das ewig labenn/ Sij werden Inn
-ewigkeit int verderben, Es wirt so ouch niemand
-van miner hanne pijssen /
-Allso ist offenbar, was die kilch was die ge¬
-schrifft die kirchen nempt mämlich die
-versamlung nit der Cardinalen Bischoffen vnnd
-genstlich hoffgesinn, sonder deren die pott
-truwenn vnnd glaubend, durch Christum
-Item Das weder der Bapst noch kein Greatur, magt
-sin Das hoript, der kilchen sonder allem Christus
-vss des wort sy geporen Darby so blijxt vnd die
-stim eins frembden int zulaßt. Das sind etlich
-prunde der kilchenn Jrs houpts leer vnd wandell
-haben, vssz. dem wort gots. anzoigt
-welcher
-Mijn will oder masz vns eins anndern berichten
-vss pötligem wort, Een wellend wir horenn
-Vnnd ob Jemand dese gegenwurtige versamtung
-besthechen voorss. rat schlag vnnser gesegen hern ven
-Bernn Im namen Christi zu furdrung der eer
-pottes Jun. Berum vande allen gegen wurtigen brudem
+Die erst Schlußred
+volgend Im/ Dann sy erkennend/ lassend Inen ge //
+fallenn sin stim̄ / Dann so versichert sind durch
+den heiligen geist / 2 ͦ  Chormthi: 1 ͦ vnd vii. v ͦ: Sy
+werdent ouch der froͤmbden stim̄ nit volgenn /
+Dann sy / sin stim̄ nit erkennent / vnd wi //
+derumb mine schaͤfflin/ hoͤrend min stim vnnd
+ich erkenn sy vnnd sy volgend mir / vnnd Ich
+gib Inen / Das ewig laͤbenn / Sy werden Inn
+ewigkeit nit verderben / Es wirt so ouch niemand /
+von miner hannd ryssen /
+Allso ist offenbar / was die kilch / was die ge //
+schrifft die kirchen nempt namlich die
+versamlung nit der Cardinaͤlen Bischoffen vnnd
+geistlich hoffgesind / sonnder deren die gott
+truͤwenn / vnnd glaubend, durch Christum /
+Item das weder der Bapst noch kein creatur / mag
+sin das houpt / der kilchen sonder allein Christus
+vsß des wort sy geporen / Darby so blipt vnd die
+stim̄ eins froͤmbden nit zuͦlaßt / Das sind etlich
+gruͤnd der kilchenn Jrs houpts / leer vnd wandell
+halb / vsß dem wort gots anzaͤigt /
+nun will oder mag vns eins anndern berichten
+vsß goͤtlichem wort Den wellend wir hoͤrenn
+vnnd ob Jemand dyse gegenwaͤrtige versamlung
+besthechen vsß ratschlag vnnser gnaͤdigen hern von
+Bernn Im namen Christi zuͦ furdrung der eer
+gottes Inn Bern vnnd allen gegenwaͤrtigen bruͤdern

@@ -2,26 +2,25 @@
 
 le
 2m
-mit christen lich oder eius vnbellichen fixne
-mens achtete, sind wir auch bereit, sollich ze¬
-Nun wallte syn get.
-verantwurten.
-Dissin nach sine berufft wordenn
-Alle gelervenn, vnnd vngelerten geistlich
-vnne welltich, heimsten vnne frombe nach der
-ordnung alls die vorree, Das ußtruckt in hie
-von kurtze wegen v/ gelassen, Die Inzesschriben
-so vffgestanden sind vnnd die erste Schlußaed fur
-gut vnnd Christenlich gesthetzt, Auch die so die
-ze wider fechten vnnderstanden ende
-Doctor Johanss, hussthin vsz
-nachlass der presidenten
-Sydtmall vill sine, die vns anzien allß ab¬
-trüningen, von der heiligen Christen lichsen desen
-meinsame. Des wir achten fur das aller grulichost
-laster Das einem christen mas vffgeheft wer¬
-den Hierums mit kurtzem, beger Ichs zever
-antwurten, Es stat ein jeden Christen zu
-sijn laben Dermasz anzerichten, wie ers am Jungsten
-tag vertouwt zu verantwurten, vnd grossers vff
-sechen zehan vff Das vrtheill potes dan der
+mit christenlich oder eins vnbillichen fürne //
+mens achtete / sind wir auch bereit / soͤllich ze//
+verantwurten / Nun wallte sin got /
+Erstem nach sind beruͤfft wordenn /
+All gerechtenn / vnnd vngerechten / geistlich
+vnnd welltich / heimisch vnnd frömbd / nach der
+ordnung / alls die vorred / das ußtruckt t.c hie
+von kuͤrtze wegen vßgelassen / Die Ingesschriben /
+so vffgestanden sind vnnd die erste Schlußred fuͤr
+guͦt vnnd Christenlich geschetzt / ouch die so die
+ze widerfechten vnnderstanden t.c.
+Doctor Johanss hußschyn uß
+nachlaß der presidenten. /
+Sydtmall vill sind / die vns anzien allß ab //
+truͤningen von der heiligen Christenlichen ge //
+meinsame / Des wir achten fuͤr das aller gruͤlichest
+laster Das einem christen mag vffgehept wer //
+den / Hierumb mit kurtzem / begaͤr Ichs zever//
+antwurten / Es stat eim jeden Christen zuͦ /
+sin laͤben Dermasß anzerichten / wie ers am Juͤngsten
+tag vertuͤwt ze verantwurten / vnd grosses vff //
+sechen zehan vff Das vrtheill gottes / dan der

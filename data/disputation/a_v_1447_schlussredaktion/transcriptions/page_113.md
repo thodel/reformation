@@ -1,29 +1,29 @@
 # Seite 113
 
-Dagen wir Das deser Spring
-höret ende
-von der sommern gemeine gots, redt, welche
-sich beheben hatt Inn weg des absterbens zu
-Leben, vnnd wirt ein vsserlich gemeind des
-halben genempt, Das sy durch den geist
-zur lieb des nechstes vnnd glaubens, an pot
+hoͤret etc / Sagen wir das diser spruch
+von der sondern gemeind gotes / redt / welche
+sich begeben hatt / Inn weg des absterbens zuͦ
+Laͤben / vnnd wirt ein vsserlich gemeind des
+halben genempt / das sy durch den geist
+Zur lieb des nechstes vnnd gloubens / an got /
+gefuͤrt
 wirt
-gefurt wurde welche nutzet thien Dan
-das Christus vorhin Jun Ir wurcken, vnd
-mach
-alleso als glider alls Influß des einngenn
-houpts hannelet vnnd lasst stan wie onch
-gemeldet ist, wie dem gerechten kein ge¬
-Dann paulus In unserm
-satz sye bestellet
-furbrachten oxt nit vom gerechten vff söl¬
-liche wijss, somnders eigentlichen von Dem
-gentlichen Das ist von Dem Christen reden
-Doctor Cum rad treiger
-promintiat.
-Ersamen frommen Christen min her¬
-Doctor, wennet für Das diser spruch pan¬
-So er allso sagt, den geistlichen ruhe nie
-mands er zicht aber alle dingen, wie das
-sollichs soll verstanden werden, von einem Jes¬
-klichen Christen, Der Da hatt den peist
+wuͤrd Welche nutzit thuͦt / dan
+das Christus vorhin Inn Ir würcket. vnd
+allso allß glider
+nach
+alls Influß des einigenn
+houpts hanndlet vnnd leͣsst stan wie ouch
+gemeldet ist / Wie dem gerechten kein ge //
+satz sye gestellet Dann paulus In vnsrem
+furbrachten ort / nit vom gerechten vff soͤl //
+liche wyss / sonnders eigentlichen von dem
+geistlichen / das ist von dem Christen redet /
+Doctor Cuͦnrad treiger
+prouintial.
+Ersamen fromen Christen / min her
+Doctor / wenndt für das diser spruch pau:
+So er allso sagt / den geistlichen richt nie //
+mands / er richt aber alle ding / wie das
+soͤllichs soͤll verstanden werden / von einem Ieg //
+klichen Christen / der da hatt den geist

@@ -1,26 +1,26 @@
 # Seite 213
 
-210
-nemend hin, den heilligen geist, Wenn Ir
-die sund abland, dem sind sy abglassen wem¬
-grs. behalbend Dem sund sy behalten vnd
-belijb noch hut bij tag Garbij ob schon
-petrus fur all vff die frag Christi ge¬
-antwort hab. Go het nach Dem allem
-Christus Inne sonderlich den gewaelt
-der scheusselen verheissen, vnd alls nun
-her Berchteld in zucht, Christus hab stovan
-me sonderlich verheissen, das er nacher
-amern ouch geben, hat brempt aber Dabe
-int zugnis officier gschrifft, Das Christus
-das hie ouch than heige Dis schlussvel
-allen verheissen hab
-Dan es volgt int
-Daruss Christus Hett Das an sinem andern
-dort than darumb het erss. hie ouch than
-Dan der text ist hie hegter, das ers son¬
-derlichs pethan vnd geredt hab
-Bercht aus
-Meister Niclaus fuit har In Das penso
-sonderlich die scheussell verheijsen sich vnnd
-geben, verstat erst sonderlich, das ist allein
+26
+niemend hin/ den heilligen geist/ wem Ir
+die suͤnd abland/ dem sind sy abglassen/ wenn
+Irß behalltend dem suͤnd sy behallten/ vnd
+belyb noch hut by tag Darby/ ob schon
+Petrus fur all/ vff die frag Christi ge//
+antwurt hab/ So het nach Dem allem
+Christus / ime sonderlich den gewallt
+der schluͤsseln verheissen/ Vnd allß nun
+her Berchtold inzucht/ Christus hab etwan
+ne/ sonderlich verheissen/ das er nacher
+andern ouch geben/ hat/ bringt aber daby
+nit zugnus offner gschrifft/ Das Christus
+das hie ouch than heige/ Die schluͤssell
+allen verheissen hab/
+wen D e vrl
+Daruß Christus hett das an einem andern
+ort than/ Darumb het erst hie ouch than
+Dan der text ist hie heigter/ das ers son//
+derlichs gethan vnd geredt hab/
+Berchtold us
+Merister Sulans furt harzn/ Das pero
+sonderlich die schluͤssell verheissen sig vnnd
+geben/ verstat erß sonderlich/ Das ist allein

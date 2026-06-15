@@ -1,38 +1,38 @@
 # Seite 236
 
-Der mit
-Opzug
-in specis
-xem rap.
-Anl. Con.
-and ein
-in niemand
-im volstl.
-pruch
-bringl: an
-11
-Wie erst schlusred
-kunt allso Sine ingedenck, deren so verso vorstand
-Was das verstand sy volgt van stunden an daruff
-die vth verkundt hand das ooort gottes vsz disem
-alleinsamen, Ist noch kem voorschrifft harfur bracht
-von houpthern, wern, prelaten, die sy bestätge, vnd
-vnser st schlußr vmbstossend
-Seuger
-Als Berchele, hant much zum aller ersten, da
-anzogen sprechende fromen hebben christen, Lugent
-welcher die eer gotes suche, vss der vrsach Das
-ich Jesu Christa fur ein houpt vnnd Dock mit woll
-erkennen, Das er syn vnser leben vnd säligkeit Des
-ich mich zum aller Ersten, out schuldigen vor
-allen bederben Christen hoe, Dan ick kein saligemacher
-kein erloser weyß. Dan Christum Jesum, nun hern
-vnd behaelve
-Ecolampadius
-In vnderwysung, So bedunckt mich, Meister
-Inclans well ein ander houpt, han vnder Dem
-einigen houpt, int das er die wurdigkeit christi
-einer Greatur woll geben, Aber sunst ein Rhegi¬
-ment In Dienstbarlicher wyß vff ein eintzige person
-Alß peno, oder smen nachkomen, ein Bapst min soll
-aber er ermessen, das eun, houpt zu stund, allen glidern
+aetan
+deean
+sisen
+en a
+senlaer
+aeten
+E we
+sn kele
+feuce
+anfen
+1
+Die erst schlusred
+luͤtent allso/ Sind ingedenck deren so ich vorstand/
+Was das vorstand sy volgt von stunden an doruff
+Die uͤch verkundt hand das wort gottes/ vsß disem
+alleinsamen/ Ist noch kein gschrifft harfur bracht
+von hoͤupthern / obern / prelaten/ die sy bestaͤttge/ vnd
+vnser schlußred vmbstossend/
+Beinger
+eei Berchtold/ Hatt mich zum aller ersten/ da
+anzogen/ Sprechende/ fromen hieben christen/ Lugent
+welcher die eer gotes suͤche/ vsß der vrsach das
+ich Jesu Christa fur ein houpt vnnd doch nit well
+erkennen / das er sy vnser leben / vnd saͤligkeit/ Des
+ich mich zuͦm aller Ersten/ entschuldigen vor
+allen biderben Christen hie Dan ich kein saͤligemacher
+kein erloͤser weyß/ Dan Christum Jesum/ min hern
+vnd behallter
+E clampadius
+Hir vnderwysung/ So bedunckt mich Meister
+Nitlaus well ein ander houpt/ han vnder dem
+einigen houpt/ nit das er die wuͤrdigkeit christi
+einer Creatur wyll geben / Aber sunst ein Rhegi//
+ment/ In Dienstbarlicher wyß/ vff ein eintzige person/
+Alß petro/ oder sinen nachkomen/ ein Bapst mun soll
+aber er ermessen/ Das einn houpt zuͦstund/ allen glidern/

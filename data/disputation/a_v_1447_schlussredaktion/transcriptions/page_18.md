@@ -9,25 +9,25 @@ Een guter
 Dan
 ann
 Meister franntzen kolbenn
-predicant zu Bernn/ vorred.
-Gnad. vnnd fried von gott dem vatter und
-vnnserem herrn Jesu Christo/ Amen. Ir
-vsservellten männer vnnd brüder In christo:Wiewoll/
-es sich Inn aller welt/ in mancherleij vall ansecheen
-lasst/ Das gott vast übell uber vns erzürnt sye. So be//
-wysst er vnns doch besonnder grosse gnad welliche
-Wir Im nit gnug  mogend danckbar sin In dem das
-er jetz alle wellt bewegt zu fragen nach der war//
-heit vnnd sich bekümbern der Jrthum. Darumb
-on allen Zweiffell/ nit on besondre würckung des
-heiligen geists vnnser fursichtigen wysen vnnd gnä//
-digen hern Rhat vnnd burger/ vnser  loblichen stat Bernn
-bewegt sind/ sich Erbern/ hochgelereten, christenlichen
-herren vnnd brüder frünnttlich zubeschreiben/ sich ge//
-wüsser warheit, von sich zuerkunden/ damit meng//
-klich allenthalb zu ruwen Inn Iren gewüssen gegen
-gott/ vnnd zu gutem friden/ vnder ein andern kommen möch//
+predicant zuͦ Bernn/ vorred./
+Gnad vnnd fried von gott dem vatter und
+vnnserem herrn Jesu Christo/. Amen. Ir
+vsservellten maͤnner vnnd bruͤder In christo.Wiewoll/
+es sich Inn aller welt/ in mancherlej vall ansaͤchen
+lasst/ Das gott vast uͤbell uber vns erzuͤrnt sey/ So be//
+wysst er vnns doch besonnder grosse gnad./ welliche
+Wir Im nit gnuͦg  mogend dankbar sin In dem das
+er jetz alle wellt bewegt zuͦ fragen nach der war//
+heit vnnd sich bekuͤmbern der Jrthum. Darumb
+on allen Zwyffell/ nit on besonder wuͤrckung des
+heiligen geists vnnser fuͤrsichtigen wysen vnnd gnaͤ//
+digen hern Rhaͤt vnnd burger/ vnser  loblichen stat Bernn/
+bewegt sind/ uͤch Erbern/ hochgelerten/ christenlichen
+herren vnnd bruͤder/ fruͤnntlich zuͦbeschreiben/ sich ge//
+wuͤsser warheit/von üch zuͦerkunden/ damit meng//
+klich allenthalb zuͦ ruͦwen Inn Iren gewuͤssen gegen
+gott/ vnnd zuͦ guͦtem friden/ vnder ein anderen kom̄en möch//
 tind.
-Nun dem allso nachzukomen/ sind wir
-unwürdigen diener vnnd prediger des heiligen Evan//
-geliums/min bruder Berchtold  vnd ich ervorderet.
+Nun dem allso nachzuͦkomen/ sind wir
+unwuͤrdigen diener vnnd prediger des heilligen Evan//
+geliuͤͤͥms/min bruͦder Berchtold  vnd ich ervordert.

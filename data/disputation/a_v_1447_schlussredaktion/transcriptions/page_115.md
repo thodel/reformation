@@ -1,25 +1,24 @@
 # Seite 115
 
-her ein richter gesetzt het vnsicht warlich vnnd
-vierkantlich Darumb noch huijs by tag
-volgt. Das diesselb sichbarlich kilch In einem
-varen glauben vnnd Innamen Des hern ver¬
-samlet In hendlen des glaubens zu vatheilen
-vond zesprechen hab
+her ein richter / gesetzt / het / vnsichtbarlich vnnd
+vnerkantlich / darumb noch hut by tag
+volgt / das dieselb sichbarlich kilch In einem
+waren glouben / vnnd Innamen Des hern ver //
+samlet In hendlen des gloubens zuͦ vrtheilen /
+vnnd zesprechen hab /
 Doctor Capito
-W min her Doctor furwendet Das er
-Dysen Spruch der peijstlich richter alle dingen
-verstet, vnnd annumpt, wie er vor gedutett
-Das aber daruss
-ist nemen wir an
-soelte volgen, Das er die geschrifft, ouch
-mochte vrtheillen Diewell er alle eing
-Vrtheeler mogt uit volgen Dan des art
-der roe ist, Das er vrtheils alles, das so
-zu vrtheillen ist, min mag die schrifft
-Als die gewisslich vom gest pottes ist,
-int geurtheilt werden / den kilchen Das
-ist der gemeind potes halben die vß zestliessen
-hab Sagen wir das es se ein jede besondre
-versammlung der gleubigen, hil oder andersth¬
-wo weliche darinne ein gemeind poten
+Wie min her Doctor furwendet das er
+disen spruch der geistlich richtet alle ding
+verstet / vnnd annimpt / wie er vor gedutett
+ist / nemen wir an / das aber daruß
+soͤlte volgen / das er die geschrifft / ouch
+moͤchte vrtheillen / diewyll er alle ding
+vrtheillet / mag nit volgen / dan die art
+der red ist das er vrtheille alles das / so
+zuͦ vrtheillen ist / Nun mag die schrifft
+Allß die gewusslich vom geist gottes ist /
+nit geurtheilt werden / der kilchen / das
+ist der gemeind gotes / halben / die vß zeschliessen
+hab / Sagen wir das es sy ein jede besondre
+versamlung der gloubigen / hie oder andersch //
+wo / Welliche darumb ein gemeind gots /

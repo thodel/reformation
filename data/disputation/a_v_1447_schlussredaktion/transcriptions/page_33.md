@@ -2,28 +2,28 @@
 
 fait une
 1.8
-Das Christus sulbs sis om heillannd sous lyes
-darinne mag sollichs Dhemer Greatur zuge¬
-messen werden /. Petrus ist int vnnser heiland
-Der Dapst etc. sounders allein Christus vnnd
-ob schon Das wortby einig mitt worten int
-exhuttert ist, so erlutert doch das der oposteel
-das christus darumb een houpt sie, das er das
-theiel sins lijbs, hebe, Darmus lieber vatter
-hebenne Christo die per vnnd lassendt Inn das
-houpt bliben, Is sij Dann sach, Das Ir mitt
-geschrifft bebringent. Das einicher cxpatur solliche
-eigent schafft, zu geben, mog werden/
-Sichtvatter,
+Das Christus selbs sye ein heillannd sins lybs
+darumb mag sollichs dheiner Creatur zuͦge //
+messen werden / Petrus ist nit vnnser heilland /
+Der Bapst n.t sonders allein Christus / vnnd
+ob schon Das woͤrtly / einig / mitt worten nit
+erluͤtteret ist / so erluͤtert doch das der apostell /
+das christus darumb ein houpt sye / das er das
+heill sinem lyb / gebe / Darum lieber vatter /
+gebennd Christo die ere vnnd lassendt Inn das
+houpt bliben / Es sey Dann sach / Das Ir mitt
+gschrifft beibringent / Das einicher creatur solliche
+eigentschafft / zuͦgeben / mog werden/
+Bichtvatter
 78
-Mr Berchtold hatt mie ein antwurt gen die
-Der Im sebes zuuor gen, so viel zu gutt, das er dancket
+Herr Berchtold hatt mir ein antwurt gen die
+er Im sebls zuͦvor gen / so viel zuͦ guͦtt das er dancket /
 Ich bin gentzlich nitt darwider / Das christus
-Der Jnflussz, vnnd das gnaeryck laben, der klechen
-sich von dem alle gnad Jnflusßt, Das haupt
-statt niet allein vff Den monsthlichen lijb Das
-Im Das leben allen In fliessen solle, Es hatt ouch
-die Eidt großschafft, den lijb zeregiern In smen vsserm
-wercken, vnnd wungen, So min Christus sin
-sicheerlichen, leblich gegen wintigkeit woelt vff nij¬
-men Inn den huuell beducht In gut. hats ouch
+Der Jnfluß vnnd das gnadrych laͤben / der kilchen
+sye / von dem alle gnad Jnfluͤsßet / Das haupt
+statt nitt allein vff Den moͤnschlichen lyb / Das
+Im das leben allein Infliessen soͦͦͤlle / Es hatt ouch
+die Eygenßschafft den lyb zeregiern In sinen  vsseren
+wercken vnnd uͤbungen / So nun Christus sin
+sichtbarlichen / lyblich gegen wuͤrtigkeit wollt vffne//
+men Inn den himmel / beducht In guͦt/ hats ouch

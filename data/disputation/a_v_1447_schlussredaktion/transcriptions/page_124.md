@@ -3,9 +3,9 @@
 hren
 vuser¬
 47
-Das aber min her Doctor sollichs zum theill will
-zuheben, wie das die gschrifft vr houster vnnd
-ment aber dabey was schwares moge Dem
+das aber min her doctor sollichs zum theill will
+zuͦgeben / wie das die gschrifft erheuscht vnnd
+meint aber dabey was schwares moge Dem
 nechsten beide befernen, Dann so er van erinckert
 vnsers vmbemassbeten gleubens abrisse, Das gestaen
 Ich Im uijgern / Ich pitt aber Inn vnnd all ge¬

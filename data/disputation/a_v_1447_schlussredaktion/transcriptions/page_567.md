@@ -1,34 +1,33 @@
 # Seite 567
 
-GV
-Die funfte Schlussredi
-Ounder der mass, wider clare Ochrift, Oegen ouch
-die Misss. vnder die besten werck, wie ende ten gebrucht
-Ob, thon die Friester, die atter bösten gue, Ei wellen
-ouch, Mittpriester, mitthelster, vnd mitt erboser in
-Oamitt die Er gottes, der unversprachenlich thay des
-lidens Christi, versthuxft, vnd vff das hochst ver¬
-schmacht wirdt, Das werden wir min Sachen vnd
-erfaren, vsch dem ersten Insag des herren nachtmals
-das Oi die Miss namen, Ob Christus da goopfort hab,
+Die fünfte Schlussred,
+Sunder der maͤss, wider clare Schrift, Setzen ouch
+die Maͤss, vnder die besten werck, wie Sie jetz gebrucht,
+Ob Schon die Priester, die aller bösten sind, Si wellen
+ouch, Mittpriester, mitthelffer, vnd mitt erloͤser sin,
+Damitt die Er gottes, der vnvsspraͤchenlich Schatz des
+lidens Christi, verschupft, vnd vff das hoͤchst ver¬
+schmaͤcht wirdt, Das werden wir nun Saͤchen vnd
+erfaren, vss dem ersten Insatz des herren nachtmals,
+das Si die Maͤss naͤmen, Ob Christus da geopfert hab,
 Oder Sich zu opfern beuolchen, Dann So wir alle
-duijg, von wort zu wort ermissen, So erfindt es sich,
-das Christus, ein gemeine gedachtenis allen christen,
-des emost verbrachten Opfers nu Cruiz In smem
-nachtmal beuolchen hat, Er Exricht, Namend es:
-send, das heis nitt opfern, danctsagen theist nitt op¬
-fern, Een fungern gaben zu essen, heeft nitt opfern
-Oolichs tun zu gedencken und verkunden den tod des
-herren, heijt nitt opforn, Glauben das Christus
-sin lib. hal gaben fur uns tn tod, vnde in blut ver¬
-gossen, zu vergabuijg der grund (nitt Im nachtmali
-In dem nicht:
-Vunder am Cruij heist mitt opfern
-mal des herren komen wir, das wir vnsern glauben
-bezugen, und vns bruderlicher liebe erbietten, als
-mittglider des libs Christi, das Ist aber nitt opfern
+Ding, von wort zu wort ermaͤssen, So erfindt es Sich,
+das Christus, ein gemeine gedaͤchtenis, allen christen,
+des einest verbrachten Opfers am Crütz, In sinem
+nachtmal beuolchen hat, Er Spricht, Namend es¬
+send, das heist nitt opfern, dancksagen heist nitt op¬
+fern, Den Jungern gaͤben zu essen, heist nitt opfern
+Solichs tun zü gedencken vnd verkünden den tod des
+Herren, heist nitt opfern, Glouben das Christus
+sin lib hal gaͤben fur uns Jn tod, vnd sin blüt ver¬
+gossen, zu vergaͤbung der sünd (nitt Jm nachtmal,
+Sunder am Crütz) heist nitt opfern, zü dem nacht¬
+mal des Herren komen wir, das wir vnsern glouben
+bezügen, vnd vns bruͤderlicher liebe erbietten, Als
+6 Vv
+mittglider des libs Christi, das Ist aber nitt opfern,
 Also erfindt sich, vss den worten vnd der that Chri¬
-sti tm. nachtmal, das Er nitt geopfrot, noch vns
-zij opfoen bevolchen hat, zum andren, Der da
-Opfrot, Col wirdiger sin, dann das Er opfrot¬
-dann des Opfer, Ist vmb des Opfreuden willen,
+sti Im nachtmal, das Er nitt geopfret, noch vns
+zu opfren beuolchen hat, zum andren, Der da
+Opfret, Sol wirdiger sin, dann das Er opfret,
+dann das Opfer, Ist vmb des Opfrenden willen,

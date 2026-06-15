@@ -1,26 +1,25 @@
 # Seite 93
 
-beuolchen sye / uit gelt schulden inze zuchenn
-oder vmb annder zetlichen handlungen wegen
-wie er dann In genarlichem missbruch
-ist, versin, bysz. har, sonder allein vmb der offnen
-sund vnnd ergermus willen, min lijt es
-am Jag, Das alle, so mit dem lan biss¬
-har vmbgangen, ell suffer, Spiler, hurer, blut¬
-vergisser Inn offnen vnuerschembten sinden
-sitzen lassenn/ vnnd zu einer schmach Erstes
-felen, poclichen bans, van got vmb der sinden
-willen bevolchen verbannentt syg, bruchent
-sy viue geelt schuele/ oder Ir frychen vnnd
-Ise waelt geschirmen, Das ist der beuelch
-pottes heben, einer jegklichen kilchen vnnd
-pfarr. Darumb hatt der pfarrer noch
-Int bracht, weder die ersten schlußree
-Meister Vlrich
-zwingly predicant
-zu Zürich
-Schriwen liebenn hern vnnd bruder
-In Christo Jesu, Gidenmael der pfarrer
-von Appentgell, die sach vff een gewallet
-will ich zum
-Des bannes gefurt hatt
+bevolchen sye / nit gelt schulden inzezuͤchenn
+aber vmb annder zytlichen handlungen waͤgen
+wie er dann In gevaͤrlichen missbruch
+ist / gsin / bsß har / sonder allein vmb der offnen
+suͤnd vnnd ergermus willen / nun lyt es
+am Tag / Das alle / so mit dem Ban bisß //
+har vmbgangen / all suffer / Spiler / huͦrer / bluͦt//
+vergisser Inn offnen vnverschembten / suͤnden
+sitzen lassenn / vnnd zuͦ einer schmach dises
+edlen / goͤtlichen bans / von got vmb der suͤnden
+willen bevolchen verbannett syg / bruchent
+sy umb gellt schulld / oder Ir fryheit vnnd
+gewallt zeschirmen / Das ist der bevelch
+gottes / geben / einer jegklichen kilchen vnnd
+pfarr / Darumb hatt der pfarrer noch
+nit bracht / wider die ersten schlußred /
+Meister Ulrich
+Zwingly predicant
+zu Zuͤrich
+Getruͤwen liebenn hern vnnd bruͤder
+In Christo / Jesu / sitenmall / der pfarrer
+von Appentzell / die sach vff den gewallt
+Des bannes gefuͤrt hatt / will ich zuͤm

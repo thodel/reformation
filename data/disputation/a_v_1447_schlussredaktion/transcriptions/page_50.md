@@ -4,30 +4,29 @@ Cf la
 mij
 all annt
 were
-Die erst schlußred is, is
-sampt Christi vermeint Damit gnus sin
-das sant peter, oder sine nachkomen, uit mo¬
-pint houpter penempt werden, So doch ein
-Jegkingen Christen woll wussend ist, das das
-gestlich geistlich refereren In beiden gesatzen
-gesthetze ist /hocher Jan Wurdigkeit „ an gewalt
-weder Das welltlich Zucht an Den Springh
-pauli zum Chorinthern, wie er sich vnnd die
-anndern so diener erkent Daes on zwyffell ein
-Geflucher aengt gestraffner kunnen ouch dutt siend
-onch Diener gottes. G ijst onsch zuuerstan, das
-niemands gehoren zu der kilchen den die nuw
-gepornen In pott bij denen verstan ich die
-so on sijne, sind eerstlich vnnd wolgesschaffenn
-dieselben gelt harti vnter fur recht Christen vnd
-sagt Dabij, Das die selben, die Christenlich Kilch
-sind, die sunderen vsbeschlossen, Sert, das den vlbi¬
-Een niemand moge gedulden liebe vnd annder
-thugent weys int wie er die thugent als exselt
-hatt, In der gemeind geben, Das gestan ich
-alles Ist aber nit gnugsam geantwurtt
-Vber den spruch Mathei, am xvi Cap: Was
-bindest
-Du brieff vff extrich Das ist gebunden Inn
-Dem himelen vnnd was en ontbinnst ende wan
-das gnugsamlich verantwurt wirt, Das der
+Die erst schlußred / 16
+ampt Christi / vermeint Damit gnuͦg sin
+das Sant Peter / oder sine nachkomen / nit mo//
+gint hoͤupter genempt werden / So doch eim
+Jeglichen Christen woll wuͤssend ist / das das
+gestlich geistlich regieren / In beiden gesatzen
+gesetzt ist / hoͤcher Jnn Wuͤrdigkeit "und" an gewalt
+weder Das welltlich / Zucht an Den Spruch
+pauli zuͦm Chorinthern / wie er sich vnnd die
+anndern so diener erkent / Das on zweyffell ein
+jegklicher recht geschaffner kuͤng ouch tuͦtt siend
+ouch Diener gottes / G ijst gitt ouch  zuͦverstan / das
+niemands gehoͤry zuͦ der kilchen den die nuͤw
+gepornen In gott / by denen verston ich die
+so on suͤnd / sind "die" geystlich  vnnd wolgeschaffenn
+dieselben zelt Marti Bucer  fuͤr recht Christen vnd
+sagt Daby Das dieselben / die Christenlich Kilch
+sind / die suͤnder vßbeschlossen/. Seit / das denselbi //
+gen niemand moͤge geduldten liebe vnd annder
+thugent / /weyss nit wie er die thugent "all" erzelt
+hatt / In der gemeind) / geben / Das getan ich
+alles / Ist aber nit gnuͦgsam geantwurtett
+uͤber den spruch Mathei/ am xvj Cap: Was
+Du brieff  "bindest" vff ertrich Das ist gebunden Inn
+Dem himelln / vnnd was du entbindst (n. wan
+das gnuͦgsamlich verantwurt wirt / Das der /

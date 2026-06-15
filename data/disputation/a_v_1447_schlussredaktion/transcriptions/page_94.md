@@ -7,31 +7,29 @@ farre
 walli
 6
 24
-Die erst Scheußred, 34
-kurtzesten sitt was von dem Ban sagen. Erstlich
-ist hie noet, Das gleich wie man Inn
-aelen sachen die zwijffelhafft sind, zu Den
-gesatzten vnnd rechten leuffe, wir hie auch
-zu dem gesatzt des Bannes lonffend, Das
-hatt Christus wachei xviijo cap: In sollicher
-gestallt gehen, Ob aber din bruder wider
-dich sundern so gang vnnd straff In zwinstchen
-Dix vnnd Im allein / hort er dich, so hastu
-duren bruder gewunnen, Hoort er dich aber
-int/ so nim emenn oder zeven zu dix, damit
-ein Jede sach, mit zweyen oder dryen moge
-bestat werden, vnnd so er die werhert so sags
-Der klechen werheit er aber die kilchenn
-so halbt Inn allß einen heden/ oder publicanen
-Hie erlernend wir erstlich, keinen, einigen Zimpt
-Desshalb
-gebannen/ sounder allem zewarnen/
-die Dienst vnnd Disthoff een ban missbrucht
-haben, So sy offentlich ver der pantzen ge¬
-meind gewarnet, Dann die warminen
-In geheimbe vnnd fruntlich beschechen, soll
-Zum anndern Das onch int zeven oder drij
-bannen sollende / sonder allein warmen vnnd
-bereit sin kundtschafft geheben, so es die sach
-Zum Dritten volgt erst
-exuordert
+Die erst Schlußred/ 34
+kuͤrtzesten etwas  von dem Ban̄ sagen / Erstlich
+ist hie not / Das glich wie man Inn
+allen sachen die zwyffelhafft sind / zuͦ Den
+gesatzten vnnd rechten louffe / wie  hie ouch
+zuͦ dem gesatzt des Bannes louffend / das
+hatt Christus Matthei xviij ͦ cap: In sollicher
+gestallt gebenv/ Ob aber din bruͦder wider
+dich suͤndet so gang vnnd straff In zwischen
+Dir vnnd Im allein / hoͤrt er dich / so hastu
+dinen  bruͦder gewunnen / Hoͤrt er dich aber
+nit / so nim einen oder zween zuͦ dir / damit
+ein Jede sach / mit zweyen oder dryen moge
+bestaͤt werden / vnnd so er die uͤberhoͤrt so sags
+Der kilchen /  uͤberhoͤrt er aber die kilchenn
+so hallt Inn allß einen heiden / oder publicanen /
+Hie erlaͤrnend wir erstlich / keinem / einigen / zimpt
+zebannen / sonder allein zewarnen / desßhalb
+die Baͤpst vnnd  Bischoffi den Ban misßbrucht
+haben / So sy offentlich vor der gantzen ge //
+meind gewarnet / Dann die warnung
+In geheimbd vnnd fruͤntlich beschechen /soll /
+Zum anndern / Das ouch nit zwen oder dry
+bannen soͤllend / sonder allein warnen vnnd
+bereit sin kundtschafft zegeben / so es die sach
+ervordert / Zum Dritten volgt erst

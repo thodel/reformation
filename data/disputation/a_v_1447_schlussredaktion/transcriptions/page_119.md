@@ -1,31 +1,30 @@
 # Seite 119
 
-verstanden, soll werden, so einer In sin
-bruder sumcht vnnd van der sijnde, Ich
-frag aber min her Doctor Weelcher
-hocher sundet Inn sijn nechsten monstchen
-Jan dein Christenlich gemeinde. Den der
-vngim kert
-das zwijtracht, vneingkeit stifft In vnserm
-licht
-ten befleckten glonden vnnd der da fecht
+verstanden / soll werden / so einer in sin
+bruͦder sündet vnnd van der sünd /. Ich
+frag aber min her Doctor / Wellicher
+hoͤcher sundet Inn sim nechsten moͤnschen
+inn d ein Christenlich gemeind / den der
+da zwytracht / vneingkeit
+vneinikeit
+stifft In vnsern
+vnbefleckten glouben / vnnd der da sticht
+ficht
 wider den rechten verstand des wort
-Gots vnnd muw noten vn de seven stifft
-Vijtter so zoigt der text hie luter vnnd
-klar an Das der her/ nedt van enbernuß
-darumb sagt, der her, oven ein glie Dir
-exgermus gipt/ so schuids is, vnnd wirffs
-Das an Zwyffell van
-von dix ende
-verstlichen gludern, Des hern zeverstan ist
-so ein mensch den anndern, oder einen
-gantzen Christen gemeind ergenuijs gul. gibt
-Dan Je Kein grösser exgerums mit ist Dan
-Zextreuung In vnsrem vmbefleckten glen¬
-ben
-Darumb hernach volgt, Das
-dijer telt vorussz. vnd voran In erstin
-voll zo verstan ist
-Zum Driten hat min her Doctor
-antwort geben, wie das deser telt
-verstanden soll werden, niet van der ge¬
+gotes / vnnd nuw roten / vnnd secten stifft /
+Vytter so zeigt der text hie luter vnnd
+klar an Das der her / redt van ergernuß
+darumb sagt / der her / wen ein glid / dir
+ergernus gipt / so schnids ab / vnnd wirffs
+von dir etc. Das on zwyffell von
+geistlichen glidern / des hern zeverston ist /
+so ein mensch den anndern / oder einer
+gantzen Christen gemeind ergernuß gipt gibt
+dan ie kein groͤsser ergernus nit ist dan
+zertrenunng in vnsrem vmbefleckten glou //
+ben / Darumb hernach volgt / das
+diser text vorusß / vnd voran In disem
+vall ze verston ist /
+Zum Driten hat min her doctor
+antwurt geben / wie das diser text
+verstanden soͤll werden / nit von der ge //

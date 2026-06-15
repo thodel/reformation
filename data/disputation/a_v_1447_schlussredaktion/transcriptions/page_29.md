@@ -1,27 +1,26 @@
 # Seite 29
 
 faire de
-behurd. Das man er die gantze wellt verlassen,
-bepert Dann disyn glouwen In Christum
-wir min sollichs plouwen begeren zubekennen
-vnnd vff spreeten vnnd dem wort gottes an
-allen orten glouden gebenn. sind wir gewiss
-das Ehem verbanung der monstgen, mas vns
-vss tilgen, vss dem buw der lebenden, oder
-billich zellen, allß abtominge van Christenlicher
-gemeinsame, Zuuorab Diewijl wie befuren allen
-glidern Christi, Inn warer liebij anzuhangen
-Alexius grat, prediger ordens
-bicht vatter Inn der Iwee zu
-Berum
+beghierd / Das man ee die / gantze wellt verlassen /
+begaͤrt / Dann dißen glouben In Christum / So
+wir nun soͤllichen glouben / begaͤren / zuͦbekennen /
+vnnd vsßspreiten vnnd dem wort gottes an
+allen orten glouben gebenn / sind wir gewiß
+das dhein verbannung der moͤnschen / mag vns
+vßtilgen / vsß dem buͦch der lebenden / oder
+billich zellē / allß abtruͤnnig von Christenlicher
+gemeinsame / zuͦvorab / Derwyl wir begierig allen
+glidern Christi / Inn warer lieby anzuͦhangen /
+Alexius grat / prediger ordens
+bicht vatterInn der Isel zuͦ
+Bernn /
 Die heillig gemein Christenlich klich dero
-einige houpt Christus ist Dienst geporn vsz
-Dem wort pottes In dem se blijbt vnd ghoet
-kens frombden stuij. ende
-Dise Schlußrede begrifft vijer artigkee, Der erst
-ist, Christus ist der heilligen, gemeinenn
-kilchenn, einigs houpt
-Wenn diser ax¬
-tigkell verstanden wirt, von dem Innern Influssen
-Der gnaden vnnd des gnadriches labens, so bedarff
-Ses komes Disputierens. Wen glicken, wie das
+einig / houpt Christus ist / Die ist geporn vß
+Dem wort gottes In dem se blybt vnd hoͤrt
+keins froͤmbden stim̄ /.
+Dise Schlußred begrifft vier artigkell / Der erst
+ist / Christus ist der heilligen / gemeinenn /
+kilchenn / einigs houpt / Wenn diser ar //
+tigkell verstanden wirt / von dem Innern Influß
+Der gnaden / vnnd des gnadenrichs  laͤbens / so bedarff
+es keines Disputierens / Wen glich / wie das

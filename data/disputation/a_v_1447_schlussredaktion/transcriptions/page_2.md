@@ -9,7 +9,7 @@ habenn/diss gegenwürtig gesprech ze halten/ Die
 mehrteils/vorgenden mandaqt der Uss//
 schribung vergriffen sind/ Den Christenlichen
 läser und zuhörer bittende/disen handell nit zeverar//
-gen/ noch argwenig achten .Weisst gott das
+gen/ noch argwenig achten /Weisst gott das
 unser/vnnd der unserenhalb die unvermidenlich
 notturfft/das erhöuschen hatt/wir geschwigen der
 anderen/Und darum so haben wir/
@@ -25,7 +25,7 @@ vnnd vermandende/dise acten mit christenlichem gmüht
 vnnd hertzen zemercken / vnnd die keinerley gestalt
 noch wäg/schmächlich noch verachtlich antasten wir
 wellen ouch/umb kein sach nachlassen noch ver//
-gönnen/das die in anndern spraachen/dann in Tütscher/
+gönnen/das die in anndern sprachen/dann in Tütscher/
 ohn unser gunst/wüssen vnnd willen ussgespreit
 werden/Das wölle mengklich Christenlicher my//
 nung (als ouch beschechen) von uns uffnemmen//

@@ -1,28 +1,26 @@
 # Seite 65
 
-Dient ouch vff das lerer ampt, vnd dienstbarkeit
-Des worts, welches ermessen, wurt, vss. den vin¬
-stennden des handels vermerckt, anzouft math:
-xvi cop: vnnd gebannis Ex cap: Dann
-mathei gecrij cap: hatt der her fur gesetzt Du
-bist petrus ein velser gefestigt, grundt Im glorben
-vnnd wort, darumb Diewijl du petre
-Im wort vnnd glauben gevestiget wurdich Dir
-geben die schlussell Diesselben hatt er geleistet
-Johannus gl. tapi int allein peino somder allen
-Apostlen, so er spricht welchen in die sunde
-das aber die sund ver¬
-verzuchend ende
-Zuchen zu Der Dienstbarkeit des worts
-behöre, findt sich vsss. Dom, Das daruor statt
-Inn Johanne, Wijmend den heiligen geist
-Welches Lucas aelso erkläxt, Er hatt Inen Itz
-gunt vff gethan. Das sy verstendigt vurdint
-Vnnd Johanus etc. cap. Nach dem Chri¬
-stus den faden smen Jungern gewust hat
-sprach er, wie mich der lijbendig vatter voors. ge¬
-send hatt
-Also sijnd ick uch-Marnis
-exklart es allso hand vss In alle wolt vnd
-predigent Das en angekennen allen Credituren,
-Lucas es muß geprediget werden In smem
+Dienet ouch vff das lerer ampt / vnd dienstbarkeit
+Des worts / welches ermeaͤssen / wirt, vsß den um //
+stennden des handels vermerckt / anzeygt  math:
+xvj ͦcap: vnnd johannis xx ͦ cap: Dann
+mathei xvj ͦ cap: hatt der herr fuͤr gesetzt Du
+bist Petrus ein velser gefestiget/ gruͤndt Im glouben
+vnnd wort/ darumb Diewyl du petre/
+Im wort vnnd glouben gevestiget / wird ich Dir
+geben die schluͤssell Diesselben hatt er geleistet /
+Johannus xx ͦ cap. nit allein petro / sonder allen
+Apostlen, so er spricht welchen in die suͤnd
+verzuͤchend / (n. Das aber die suͤnd ver //
+Zuͤchen zuͦ der Dienstbarkeit des worts /
+gehoͤre / findt sich vsß dem / das darvor statt
+Inn Johanne / Naͤmend  den heilligen / geist /
+Welches Lucas allso erkläͤrt / Er hatt Inen ir
+gmuͤt vffgethan / Das sy verstendigt wurdint
+Vnnd Johannis xx ͦ cap. Nach dem Chri //
+stus den friden  sinen Juͤngern gewuͤnscht hat /
+sprach er /  wie mich der laͤbendig vatter vssge //
+sendt hatt / also send ich uͤch / Marcus
+erklaͤrt es allso / gand vß In alle wel t/ vnd
+predigent / Das  euangelion allen Creaituren/
+Lucas / es muͦß geprediget werden In sinem

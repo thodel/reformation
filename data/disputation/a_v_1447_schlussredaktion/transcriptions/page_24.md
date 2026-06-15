@@ -1,37 +1,32 @@
 # Seite 24
 
 mer
-Die erst Schußreden
-so Inn Inn verhoffene, vnnd mag ein echtleden
-han, mit vnns In aller vnnser Schacheit, hebre:
-4. Dann Dirwijl got sin einigen kun fur
-vns dargestreckt, wie were moglichen Das er vns
+Die erst Schlußred
+so Inn Inn verhoffend / vnnd mag ein mittleiden
+han / mit vnns In aller vnnser Schwacheit / hebre:
+4.° Dann Diewyl got sin einigen sun für
+vns dargestreckt / wie were moglich Das er vns
 1
-mit alle ding, mit Im geben hette, Roma: h:o vnd
-#
-des lebs stat in wie das hetsel vnnd labenn aller gloubigen statt In
-Christo Dann er Ist ein heilland sins leer vnnd
-verwalting des
-houpts, also ouch wie die glider krafftloss sine vnd niet vermogen
-Das heill
-Allso ouch die
-en verwaelting des haupts
-glider, des lijbs christi, der kilchen vermogend
-nudt om christo, Dan wie das Rhabsthofs kein
+nit alle ding / mit Im geben hette / Roma: 8° / vnd
+wie das heill # des lybs stat in verwaltung des houpts / also ouch das heill / vnnd läbenn aller glöubigen statt In/
+Christo/Dann er Ist ein heilland/sins lybs vnnd
+wie die glider krafftloß sind / vnnd nüth vermoͤgen /
+on verwalltung des haupts / Allso ouch die
+glider / des lybs christi / der kilchen vermogend /
+nuͤdt on christo / Dan wie das Rhaͤbschoß kein
 frucht treit wo es dem winstock nit Ingelybet
-N
-blipt
-Also ouch wir so uijt inn gelibet
-sind/ Dem houpt christo, werden wir kein frucht
-bringen Darm en „ vermogenne wir midt
-Johans 15
-Dachar ein gegklicher verstatt
-Das ken Erentur maß ein sollich houpt der
-Kilchen sin Das die guter vnnd gaben govs
-In vnsere hertzen giesse, vns stercke tröste, finre
-vnnd regier, ouch sijt ein hetland des libsschrift
-Tise klerenn Ist vss dem wort gottes geveren,
-wie woel so get von ewigkeit ve die welt ersthaffen
-Derwelet hatt. Jedoch ist sy geporn, vff dem Insi¬
-neckchen wort gotes. Vssz. Dem wort des glaubens
-Roma: 10. Das got labenden tinne taten
+blipt /
+Also ouch wir so nitt inegelibet /
+sind / Dem houpt christo / werden wir kein frucht
+bringen Dann on "in„ vermogennd wir nuͤdt/
+Johan / 15°.
+Dahar ein jegklicher verstadt /
+Das kein Creatur mag ein soͤllich houpt der
+Kilchen sin / Das die guͤter vnnd gaben gotes /
+In vnsere hertzen giesse / vns stercke / troͤste / fuͤre
+vnnd regiere / ouch sye ein heiland des lybs Christi /
+Dise  kilchen Ist vß dem wort gottes geboren /
+wiewoll sy gott  von ewigkeit / ee die welt erschaffen /
+erwellet hatt / Jedoch ist sy geporn / vß dem Iner //
+lichen wort gottes / Vß. Dem wort des gloubens
+Roma: 10°/ Das got laͤbendig vnnd taͤtig

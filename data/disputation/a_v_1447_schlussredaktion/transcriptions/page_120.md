@@ -2,29 +2,31 @@
 
 4
 45
-monon gemeynen Christen bchen kirchen, somder van
-einer jegklichen kilchen, fur sich selbst selve
-das ein gegkliche einige kilch, In stucken des
-glaubens handlen vnnd sprechen mog vande nit
-von noten, zuerwarten, eins gememen Spruchs
-von gemeiner Christenlichen kirchen, wider
-desen smien verstand, arguier ick allso, Ein
-Ses kliche empe kilch, mag Inn stucken Des
-plenbens Irer van Darumb dan keine
-In stucken des glaubens vrtheillen mag
-Dann de Der xichter, een wir gabenn
-sollen Inn hendlen des glaubens vnstreff¬
-lich soll sin vnnd nit mogen Jocen. /
-3
+gemeynen
+meinen
+Christenlichen kilchen / sonder von
+einer jegklichen kilchen / fur sich selbs Allso
+das ein gegkliche einige kilch / in stucken des
+gloubens handlen / vnnd sprechen moͤg vnnd nit
+von noͤten / zuͦ erwarten / eins gemeinen spruchs
+von gemeiner Christenlichen kilchen / wider
+disen sinen verstand / arguier ich allso / Ein
+jegkliche einige kilch / mag inn stucken des
+gloubens ire gan /. Darumb dan keine
+In stucken des gloubens vrtheillen mag /
+dann de der richter, den wir habenn /
+soͤllen inn hendlen des gloubens / vnstreff //
+lich soll sin vnnd nit moͤgen irren /
 Martinus bucer
-Wix haben
-Lieben fremen Christen,
-ein hanndell Das wort gottes belangennd
-gegen minem hern Doctor zu gegen Darumb
-will ick Im getzund ant wurt geben vnnd
-ich
+Lieben fromen Christen / Wir haben
+ein hanndell das wort gottes belangennd /
+gegen minem hern Doctor zuͦ gegen / darumb
+will ich im jetzund antwurt geben / vnnd
+damit die sach kurtzert werd /
 vnd
-Damit die sach kurtzert werd, Will ich das
-widerbringen/ Der red/ des Dortors lassen austan
-Vnnd gib, antwurt, erstlich des spruchs halben
-der geistlich richt alles ende Diswijl twee
+Will
+ich
+ich das
+widerbringen / der red / des doctors lassen austan
+Vnnd gib / antwurt erstlich des spruchs halben /
+der geistlich richt alles etc. Diewyl wir

@@ -1,31 +1,31 @@
 # Seite 568
 
 237
-Die funfte Ihlussredi
-angenam vor dem angesicht gottes, Gott het ange¬
-saethen den Wel, vnd zuie gaben, Die wil nun die
-Priester, Christum wellen gott den vatter vfopfren
-fur labendig und todt, so mussen bij te besser om,
-dann Christus, Ob 61 Rthon die bosten waren, ad
-Hebreos, pr. wir sind geheiligt vff ein mal, durch
-das Opfer des libus Jesu christi, vnd ein Jettlicher
-Priester, Ist Jngesagt, das er alltag goedienst
-pflage, vier manigmal einerley opfer tuge, welche
-nitt konnen die sijnd abnamen, Oiser aber, Da
-Er hat em opfer fur die sijnde geopfrot, das ewenck
-lich gilt, fst gesissen zu der gerachten gottes, vnd
-wartot hinfur, bis das onie vijend, zum Othamel
-Vier fuss, gelegt werden, Dann mitt einem opfer¬
-hat er In ervikert vollendet die geheiligstenn,
-Vnd bald darnach, wo vergabuijg der gund Ist,
-da Ist kan opfer mer für die vundi capite vii
-Christus, dirumb Er blibt evencklich, het Er, ein
-vnuer gaucklich priesterthum, da har Er ouch Talig
-machen kan, ewencklichen, die durch Junij zu gott
-komen, vnd libt femerdar, vns zu vertrattenn
-tapite viiio. Er Ist durch zin eygen blut, ein mal
-In dis heiligthum Ingangen, vnd hat ein ewige
-erlofung erfunden, Vss denen schriften, ver¬
-stat om ieder, das Christus nitt sol noch mag geop¬
-frot werden) zum ersten, Er Ist einest uffgeopfoot,
-vnd die priester wellen Jun all tag Opfren, zum
+Die fünfte Schlussred,
+angenaͤm vor dem angesicht gottes, Gott hat ange¬
+saͤchen den Abel, vnd sine gaben, Die wil nun die
+Priester, Christum wellen gott den vatter vfopfren,
+für laͤbendig vnd todt, So muͤssen Si Je besser sin,
+dann Christus, Ob Si Schon die boͤsten waͤren, ad
+Hebreos, x.ͦ wir sind geheiligot vff ein mal, durch
+das Opfer des libs Jesu christi, vnd ein Jettlicher
+Priester, Jst Jngesetzt, das Er alltag gotsdienst
+pflaͤge, vnd manigmal einerley opfer tuͤge, welche
+nitt koͤnnen die sünd abnaͤmen, Diser aber, Da
+Er hat ein opfer für die sünd geopfret, das ewenck¬
+lich gilt, Jst gesaͤssen zu der geraͤchten gottes, vnd
+wartot hinfür, biß das Sine vÿend, zum Schaͤmel
+Siner fuͤss, gelegt werden, Dann mitt einem opfer,
+hat Er Jn ewikeit vollendot die geheiligotenn,
+Vnd bald darnach, wo vergaͤbung der sünd Jst,
+da Jst kein opfer mer für die Sünd, capite vij.ͦ
+Christus, darumb Er blibt ewencklich, hat Er, ein
+vnuergaͤncklich priesterthum, da har Er ouch Saͤlig
+machen kan, ewencklichen, die durch Jne zu gott
+komen, vnd laͤbt Jemerdar, vns zu vertraͤttenn
+capite viiij.ͦ Er Jst durch sin eygen blut, ein mal
+Jn das heiligthum Jngangen, vnd hat ein ewige
+erloͤsung erfunden, Vss denen Schriften, ver¬
+stat ein Jeder, das Christus nitt sol noch mag geop¬
+fret werden, Zum ersten, Er Jst einest vffgeopfret,
+vnd die Priester wellen Jnn all tag Opfren, Zum

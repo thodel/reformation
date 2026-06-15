@@ -1,30 +1,30 @@
 # Seite 210
 
-entbinden
-62
-Die erst schluftrende
-hem offnen spruch vss. Dem onangelio ollen
-schrifft, der Das anzeigt, Das, das die mey¬
-tinnen Christi sich gsin allen Zegeben die schlussel
+seant
+82
+Die orß schlußred
+ein offnen spruͤch vsß Dem euangelio olld
+schrifft / dee das anzeigt/ Das das die mey //
+nnung Christi sig gsin allen zegeben die schluͤssel
 Dann
-So will ich abstan des puncten¬
-wir finden des glicken souch mex Im Enangelio
-Das Christus die Junger gefragt het Oels
-da, wo wend wir brot kouffen, Das wir
-die vill spesen Johanus van cap: Da antwurt
-p'herpens vnd int petrus. Es het ouch ein
-gute gestallt, Das so petrus der hetziger ist ge¬
-wesen, vnder Inen allen zwelffboten vsz. truw
-vnnd hitz vnnd gechi, fur sich selbst heiss ge¬
-wiewoll es ist. Das die
-antwurckt
-anndern Junger vnnd zwolffpoten, Die antwort
-petri ouch angenomen hend vnd lan beliben
-Berchtoldus
-3 istus hat peuw die scaccussell ver¬
-heissen Dan er vest Im glouwen vnnd ein
-welser was, Das aber er In dem namen
-aller Junger, geantwurt hab, zoigt der wyt
-klar an, an der frag des herren, Oven sagend
-In der Ich sy, Da hat petrus In Ir aeler
-namen geantwurt, wie ouch besthechen Johannes
+so will ich abstan des puncten.
+wir finden desglichen ouch mer Im Euangelio/
+Das Christus die Juͤnger gefragt het/ Alls
+Da/ wo wend wir brot kouffen/ Das wir
+die vile spisen / Johannis vj cap: Da antwurt
+hilippus vnd nit Petrus/.Es het ouch ein
+guͦte/ gestallt/ das/ so petrus der hetziger ist ge//
+wesen/ vnder Inen allen zwoͤlffboten vsß truw/
+vnnd hutz/ vnnd gechi/ fur sich selbs heige ge//
+Wiewoll es ist Das die
+ant wurtet/
+anndern Juͤnger/ vnnd zwoͤlffpoten/ die antwurt
+petri ouch angenomen hend vnd lan beliben/
+BercStoldus
+Zuo stus hat petro die schluͤssell ver//
+heissen / Dan er vest Im glouben vnnd ein
+Ielser was/ Das aber er In dem namen
+aller Junger/ geantwurt/ hab / zeigt der text
+klar an / an der frag des herren/ wen sagend
+Ir der Ich sy. Da hat Petrus In Ir aller
+namen geantwurt wie ouch beschechen Johanns

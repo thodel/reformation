@@ -1,30 +1,28 @@
 # Seite 209
 
-Renna
-aller apostlen, dem herren, geantwurctet, vnd also
-die verheissung der Scheijsselen In Irer aller
-namen empfangen, Johannes Exjca: Hat Ine
-Christus suis ampts ermant, die schaffly zu¬
-das aber van binden vnd entbinden
-vaden
-Njathei xviii cap: geschriben stat, Ist des tages
-gungsam erklärt, Das es der klechen geseett sy ende
-Ber: hat doruff een text
-gelesen
-onniger
-Ich mein diser wyt moge die vslegung
-mit erleden darinne das Christus sy all ge¬
-fragt hagt, vnnd petrus allein fur sp all geant¬
-aller
-wort Das darumb er gul. „ die selven soll hem
-geben, Dan wen Das die meijnung Christi
-overs psin, so hette er woll gesprochen, Ich
-gis vch die schlussell allen, wie petrus fur
-Der telt ist aber offenbar
-all geantwurt hat
-fraw
-Das er nach aller ned het gesprochen zu petro¬
-Ich wirt Dir geben die stelussche vum ist dir
-ze geben, vnd allen Zegeben vnglich, der text ist
-heitter vnd klar wen man mir bringt
-nach miner g. herren von Berim Agandat
+Drea
+aller apostlen/ dem herren/ geantwurtet/ vnd also
+die verheissung der Schluͤsslen In Irer aller
+namen/ empfangen / Johannis xxia: hat Ine
+Christus sins ampts ermant/ die schaͤfflig zuͦ//
+werden/
+Mathei xviiͦ cap: geschriben stat/ Is dis tags
+gnugsam erklaͤrt/ Das es der kilchen geseit sy /
+Ber: hat doruff den text
+gelesen/
+Bunger/
+Iich mein diser text moge die vstlegung
+nit erliden / Darumb das Christus sy all ge//
+fragt heige/ vnnd Petrus allein fur sy all geant//
+alle
+wurt/ Das darumb er Inen/ die schlu ssell heig
+geben/ Dan wen das die meynung Christi
+were gsin/ So hette er woll gesprochen/ Ich
+gib uch die schluͤssell allen/ wie petrus fuͤr
+all geantwuret hat. Der text ist/ aber offenla
+frag
+Das er nach aller vd het gesprochen zuͦ petro
+Ich wirt dir geben die schluͤssell/ nun ist die
+ze geben / vnd allen zegeben / vnglich der text ist
+heitter vnd klar Awen man mir bringt
+nach miner g. herren von Bernn Mandat/

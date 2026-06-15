@@ -9,30 +9,28 @@ andt
 lechs
 Dan
 ƒ
-Die ons. Schlußred
-Martinus vncerus
-Medigen hern lieben bruder Im hern
+Die erste Schlußred
+Martinus Bucerus
+Gnedigen hern lieben bruͤder Im hern/
 Demnach die ordnung miner gnedigen hern
-Das wec stwas zu exluwung
-vermagt
-der warheit vermeint furzbringen, Das der¬
-selbigen solle gehort werden, so meinet ick ein wenig
-zu geijgefurer gebenred, des bichtvatters zusagen
-Namenl. Das er von Dem abtritt, Das immer
-ende herren van Berum v/ schriben vermae, Das
-mir mit ysthrifft gebanndellet werden soll/ Er
-will bewartum Das Christus mit das einige
-houpt sie der kirchen, Dan ob er woll
-nach Dem gnadrichen Infeusss In sine glider¬
-allem der kilchen haupt sie, so somme doch ouch
-annder eifenschafft des houpts deren noch sant
-petter vnnd sine nachkomen mogen ouch houptet
-Der kiechen genampt werden, Alß da ist wysen
-vnd leren
-Diß ist aber eben ein Jurid
-Als so einer bewaren wellt wer en wan een
-tweusthafft des kunigs horte, das er darumb
-kinnig were, alles ein kijng, soll der rechten vnnd
-satzungen, kundig sin, Das sind auch sine Rhaten
-vnnd Doctores sy mogen aber darumb mitt
+vermag / Das wer etwas zuͦ erluͤterung /
+der warheit vermeint fuͤrzebringen / Das der //
+selbig soͤlle gehoͤrt werden / so meinet ich ein wenig
+zuͦ jetz ingefuͤrter/ gegenred/ des bichtvatters zuͦsagen
+Namlich / Das er von Dem abtritt / Das miner
+g / herren von Berrn / usßschriben vermag / Das
+nur mit gschrifft gehanndellt werden soll / Er
+will bewaͤren / Das Christus nit das einig
+houpt sie der kirchen / Dan ob er woll /
+nach Dem gnadrichen Influsß In sine glider /
+allem der kilchen haupt sie / so siend  doch ouch
+annder eigenschafft des houpts deren noch sant
+petter vnnd sine nachkomen mogen auch hoͤupter
+Der kilchen genampt werden /, Alß da ist wysen
+vnd leren / Disß ist aber eben ein Inred/
+Alls so einer bewaͤren wellt / wer etwan ein
+eygenschafft des kuͤnigs horte / das er darumb
+künig waͤre / allß ein kuͤnig / soll der rechten vnnd
+satzungen / kuͤndig sin / Das sind auch sine Rhaͤten
+vnnd Doctores / sy mogen aber darumb nitt
 12

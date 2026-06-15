@@ -1,31 +1,31 @@
 # Seite 233
 
-1/1 sin
-tauw Iren mannen allß, Im Hern, wan ein man
-Ist ein houpt der frouwen glich allss Chirissus
-ist ein houpt der kilchenn, vnne er ist om be¬
+1 ein
+taͤnig Iren mannen/ allß/ im hern/ wan ein man
+ist ein houpt der fromn glich allß Christus
+ist ein houpt der kilchenn/ vnnd er ist ein be//
 Demnach das ich
-haelter sins lijbs ende
-aber dabey ein gevallen habe oder daran sche, das
-Christenlich kilch solle ein herren, han der sy be¬
-schopare, werniesse, Thiramischen gewallet bruchte
-Da byn Ich ouch mus hern predicanten meynung
-Vber middelst minder oberer vnnd prelaten erkennen
-In der kilchen die da lerend werend vnd straffen
-mein ick es sie billich / ouch annder fursechung thuen
-zijtlichen naturffs jren schaffen wo sy mogend die
-zu anzoich spricht pauens In der ersten Epistell
-zum Chornthern nu cap:  Was bederen Ir
-Item
-Ich wint zu vch kon mitt der pnten
-In der erstandern Gistell zyn Chormthern am
-lesten Capittell, Spricht paulus aber zu Inenn
-Ich bin vrij mall zu voben komen kom ick nietse
-will ich och niet wer sochen /. May ein geklicht
-Christ woll gedencken wo die ordnungen int
-weren, vnd Jegklicher machte, was er Ovellte
-wie es zu wurde gan. Spricht ouch paulus
-wijter, In der ersten Cossell zum Thorinthern
-am xii cap: In der kilchen sind hubernationen
-wo min regierungen sind, Da muß sin ein
-oberer vnnd der geregiert wixt Item zum
+hallter sin lybs etc.
+aber daby ein gevallen habe/ oder daran sige/ Das
+Christenlich kilch soͤlle ein herren han der sy bei
+schware/ uberniesse/ Chiramischen gewallt bruchte/
+Da bin Ich ouch mins hern predicanten meynung
+Aber nudt desminder oberer vnnd prelaten erkennen
+In der kilchen/ die da lerend werend vnd strafft/
+mein ich es sye billich ouch annder fursechung thuitt
+zytlichen notturfft Iren schaffen wo sy mogend da
+zu anzeig spricht paulus In der ersten Epistell
+zuͦm Chornthern ini ͦ cap:. Was begaͤrend ir
+Iterm
+Ich wirt zuͦ uͤch kon mitt der ruten//
+In der erstanderen Epistell zum Chorinthern am
+lesten Capittell/ Spricht paulus aber zuͦ Inenn
+Ich bin Drymall zuͦ uͤch komen/ kom ich mers
+will ich uͤch nudt uͤber sechen / Mag ein jegklich
+Christ woll gedencken wo die ordnungen nit
+weren/ vnd jegklicher machte/ was er wellte/
+wie es zuͦ wurde gan/ Spricht ouch paulus
+wyter In der ersten Epistell zum Chognther/
+am vij ͦcap: In der kilchen sind gubernatio nen
+wo nun / regierungen sind/ Da muͦß sin ein
+oberer vnnd der geregiert wirt/ Item zun

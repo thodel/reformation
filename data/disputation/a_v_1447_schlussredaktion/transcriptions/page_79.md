@@ -1,26 +1,26 @@
 # Seite 79
 
-vns Da clarlich an wirt zoigt, ein nachgelassens
-gevaelt/
-Dann mitzit gewijssers ist dan
-Das wort vnsers einigen nots vnne eclosens
-das da stiff stat, welches int mag vmbort
-werden. Den binden vnd entbinden oder
-entledigen, vruordert Je ein gewallt, So min
-Tot das peredt hatt volgt Is Darnach, Das
-er siuen, lieben Junster perro, hab den gewalt
-sins potlichen worts empfolen vnnd haben
-Inn allso gesetzt, zu einem furnemlichen
-gewalthaber/ suis götlichen ovorts vnnd
-empfelchs
-D'Gerchtoldus
-Men furgeliebten, Christen, vie¬
-Inrede des pfarrers hatt ein kurtzen bestheid
-Er lassst nach zum ersten Das Christus
-een ennig houpt sy, so bedarff er dheins stat¬
-Haldters Dan abler gewallt Juni himell vnd
-off erden, ist Im geben, Mathei am lesten
-Capitell.
-welchen gewaer kein Exea¬
-tur vervallten mag. zum andern hatt
-er Inzogen. Die scheussel gebinden vnnd ze¬
+vns da clarlich an wirt zaͤigt / ein nachgelassener
+gewallt /
+Dann nützit gewuͤssers ist dan
+Das wort vnsers einigen gots / vnnd erloͤsers
+das da stiff stat / welches nit mag vmkert
+werden / Den binden vnd entbinden oder
+entledigen / ervorderet Je ein gewallt / So nun
+Got das geredt hatt / volgt je Darnach / Das
+er sinen / lieben Juͤnger petro/ hab den gewalt/
+sins goͤtlichen worts empfolen /  vnnd haben//
+Inn allso gesetzt / zuͦ einem fuͤrnemlichen
+gewalthaber / sins götlichen worts vnnd
+empfelchs /
+Berchtoldus
+Frommen fuͤrgeliebten / Christen / die
+Inred / des pfarrers hatt ein kurtzen bescheid
+Er lasßt nach zum ersten Das Christus
+ein einig houpt sy / so bedarff er dheins stat //
+halters / Dan aller ler gewallt Jm himell vnd
+uff erden / ist Im geben / Mathei am lesten
+Capitell /
+welchen gewalt kein Crea //
+tur verwallten mag / Zuͦm andern hatt /
+er Inzogen Die schluͤssel zebinden vunnd ze //

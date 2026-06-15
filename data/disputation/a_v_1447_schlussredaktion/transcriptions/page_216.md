@@ -1,32 +1,32 @@
 # Seite 216
 
-then
-1 m
+en
+in
 85
-die erst shlusned
-Darumb will anzuchen, Das ick Damit der
-Oostchrifft krafft, over gevallt bewuren wolle
-Sounder Das ouch die wider part des Bapstes
-In Irer lere die sy dem Enangelie verglichen
-verstand findent / wider den sy hie fechten anze¬
-Zougen, Ir wussend min lieber hermester
-Unlus, Das der heilig Augustinus Vber¬
-diss drijmall bestegechne frag vnnd empfelch
-Allso Inn einer Suma redt, Darum
-pietri
-das Carpetrus Christum drymall verleugnet
-hat Dormus hatt Jan get. herwiderum
-zum Dritten mall gefragt, ob er In lieb habe
-vnnd zum Dritten maer die sth affly zu weiden
-Vss welchen worten wir
-empfelchen
-vermerckend Das Christus petro hat wellen vor
-den Jungern den bösen lumbden vnd namen
-Das er got verleugnet her, bessern vnnd ab¬
-nemen, Das int petrus van Den Jungern
-veracht wurde. Darumb das er In zum
-Driten mall verleijnet her, als ob er
-Int wurdig were des predigs ampts Daurumb
-Das er mundtlich vnnd vsss. forthten geläugnet
-hatt int ven hertzen van er da uit
-prosthafft was nach dem wort Christi
+die erst schluͤbred
+Darumb will anzuchen/ Das ich Damit der
+gschrifft krafft/ oder gewallt bewaͤren welle/
+sonder Das ouch die wider paut des Bapstes
+In Irer leͤre/ die sy dem Euangelio verglichen
+verstand/ findent/ wider den sy hie fechten anze//
+zeigen/ Ir wuͤssend min lieber her mgeister
+Nulus Das der heillig angnstinus uͤber/
+Dise Drimall beschechne frag vnnd empfelch
+Allso inn einer Suna redt/ Darum
+petri
+Das Cheetrus Christum Dry mall verlengnet
+het. Dorumb hatt im got/ herwiderum/
+zum Dritten mall gefragt/ ob er In lieb habe/
+Vnnd zum Dritten mall die schaͤffly ze weiden
+Wsß welchen worten wir
+empfolchen/
+permerckend/ Das Christus patro hat wellen vor/
+den Juͤngern den bösen lumbden / vnd namen
+Das er got verlengnet het/ bessern vnnd ab//
+nemen/ Das nit petrus von den Juͤngern
+veracht wurde/ Darumb das er In zum
+priten mall verleignet hete/ Als ob er
+nit wuͤrdig were/ des predigtampts/ Darumb
+Das er nundtlich vnnd vsß forchten/ gelengnet
+hatt / nit von Hertzen/ dan er da nit
+preschafft was/ nach dem wort Christi

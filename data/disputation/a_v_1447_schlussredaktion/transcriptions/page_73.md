@@ -1,27 +1,25 @@
 # Seite 73
 
 tinscher
-wortt einthek, sind mir vxt bracht die
-tusscher
-da sagen, ein ein gewicher thunstige weist das
-em grosser vnderstheid ist vnnder ein vnnd
-eintzigk, Erntzigk schlusst all aunder vss.
-Ein latt ein andern bij Im begeben, vnnd wirt
-Warlich gspit, wan zeven sine, einer ist: es
-Wirt aber int war gseit, ein eintziger ist
-Bincer
-Diewijl niemand wer als ist, der Das sub
-das zu einem houpt der kilchen gehortt
-Nemlich sy salen macht Dan allem Christus
-so volgt Is klarlicen Das man sagen muss
-das eintzig houwt darzu die wijl nieman
-mitlern kan zwustchen pot, vnnd den mousthen
-dan allein Christus, so gillt aber Das wortly
-ein mitteer, alles vill als einttgrgk, Also
-Ick glauw Inn einen pot. Da ist aber ein
-vnnd nit eintzigk, vnnd gul.t aber dienst
-Das wortly ein, allß vill allß eintzigk. Dan
-niemand wirt Ine ein nabend het bekennen,
-Als so ist ouch hie niemand, nebend Christo
-darinne er von
-Der Das thun mogen
+wortt Eintzig / sind mir text bracht die
+da sagen / ein ein jetlicher  thunstige Tuͤtscher weisßt das
+em grosser vnderscheid ist vnnder ein vnnd
+Eintzigk / Eintzigk schluͤsst all annder vsß /
+Ein / latt ein andern by Im belyben / vnnd wirt
+Warlich gseit / wan zween sind / einer ist / es
+Wirt aber nit war gseit / ein eintziger ist /
+Bucer
+Diewyl niemand vͤber all ist / der Das hab
+das zuͦ einem houpt der kilchen gehoͤrtt /
+Nemlich sy saͤlig macht / Dan allein Christus
+so volgt je klarlich Das man sagen muͦsß
+das eintzig houpt / darzuͦ die wyl nieman
+mitlen kan zwuͤschen got / vnnd den moͤnschen
+dan allein Christus / so gillt aber Das woͤrtly
+ein mittler / allß vill als eintzigk / Alsß /
+Ich gloub Inn einen got / Da ist aber ein
+vnnd nit eintzigk / vnnd gillt aber dennest
+Das woͤrtly ein / allß vill allß eintzigk / Dan
+niemand wirt Ime ime ein naͤbend het gottbekennen/
+Allso ist ouch hie / niemand/ neaͤbend Christo
+Der Das thuͤn moͤg / darumb er von

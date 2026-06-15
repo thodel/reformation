@@ -1,33 +1,36 @@
 # Seite 89
 
-mals der pfarrer int erchaelten mag ein sonder
-lichen zynen gewaelt, petro, dem Bapst vnd Di¬
-scheffen bewelchen
-Farrer
-U her Berchtold anzucht vor ouch geredt ist
-worden, wie Christus Jesus smen apostlen benoechen
-hab zu verkunden. Das wort potes zu ablasmus
-Inne hart daselbst Inzogen
-der sund
-een glichung einer pfarr, oder kilchdoch so er
-redt van dem gevallt einer zesklingen kiechen
-hebben / Inn welchem er mir vast woll gefelt /
-so er den swaelt so parens gebraucht den ich
-Dan paulus
-anzopt zugiet der kirchen
-bin
-hett denselben grossen gevallt gebrucht met uit
-an Das Christus Im sollichen grossen gewallt
-Empfelchen hab Hoff onch da were nitt
-erhalten, Das der gewallt so empfolenn ist
-zu entbinden vnnd bunden, von der kirchenn
-vffgegept werden
-In der ersten cristel
-Im v capitio
-So er Dan anzocht zum Thormthern
-Inn welchen worven fr aber mir zuueeertt
-Als ick verhoff) Dann over mus alls panens
-hacc
-gesprochen, hen Da er nit gegenwirg sie gesin¬
-mit smem lijb souders Inn dem past Das
-der zu swaffen, bij der allso leer In der vnlutr
+mals der pfarrer nit erhalten mag ein sonder //
+lichen eignen gewallt / petro / dem Bapst vnd Bi //
+schoffen bevolchen /
+Pfarrer
+Als her Berchtold anzuͤcht vor ouch geredt ist
+worden / wie Christus Jesus sinen apostlen bevolchen
+hab / zuͦ verkuͤnden das wort gotes zuͦ ablassung
+der suͤnd / Unnd hatt daselbs inzogen /
+ein glychung einer pfarr / oder kilchhoͤry so er
+redt von dem gewallt einer jegklychen kirchen
+geben / inn welchem er mir vast woll gefelt /
+so er den gewallt so paulus gebruche den ich
+anzeigt / zuͦgibt der kilchen/ dan paulus
+hett denselben grossen gewallt gebrucht /
+/bin /
+nit
+on / das Christus im soͤllichen grossen gewallt /
+Empfolchen hab / hoff ouch da werd nitt
+erhallten / das der gewallt so empfolhenn ist
+zuͦ entbinden / vnnd binden von der kilchenn
+vffgehept werd /
+So er dan anzeigt /
+In der ersten epistel /
+zum Chorinthern /
+Im v ͦcapit
+Inn welchen worten er aber / mir zuͦvelltt
+(Als ich verhoff) dann worumb / alls paulus
+gesprochen/
+hat / hatt
+da er nit gegenwuͤrtig sie gesin
+mit sinem lyb / sonnders / inn dem geist / das
+der zuͦstraffen /
+sig sig
+der allso lebte in der vnluter//

@@ -5,26 +5,26 @@ haupt
 A or
 10
 Die erst Schlußred
-than, Das er smen einigen, lijb Das ist der
-heiligen christen lichhen kilchen, hie vff erden satzte
-komen, durch een ex alls. durch sin verordnet
-pesetze houpt, vnne Statt haerer, vergieren, wellte
-vnnd wijsen Jun een thugenlch Christenlch leben
-das er das gethan habe, Es zeiget des ersten die
-Verheissung oder vor verkundung die geschriben
-statt Johannes am ersten Capitteel, Da Christus
-sprach zu perstro In bist Sijmon Johannes En
-Wirst, furchin geheissen Eechas
-Werchstoldus
-Cromen Lieben Christen, Es hatt Der
-nicht vatter, anzougt, Das das houpt nit allein
-heb, das leben dem lijb somnder hab ouch ander¬
-Rigenschafften, den bijs zeregeren In smen vsser,
-lichen wercken vnnd wungen, So min Christus
-sin sicherlich lyblich gevenwurdigkeit hab vffge¬
-nomen, hab er gelassen, smen eignen leb vff
-extrich, ein gesetzt houpt, sin kilch zo Regieren,
-zu thugenlichem leben. Sag ich allso darzu
-des ersten Dis eijgenstchafft des houpts
-Christi, ist ouch die das er sin lijb regiere, als
-ein furst vnnd gepieter, Ezechielis am xxxvii
+than / Das er sinen einigen / lyb Das ist der
+heiligen christenlichhen kilchen / hie vff erden satzte
+einen / durch den er / allß durch sin verordnet /
+gsetzt houpt / vnnd Statthalter/ regieren wellte /
+vnnd wysen in  ein thugenlich Christenlch leben /
+das er das gethan habe / Es zeiget des ersten die
+Verheissung oder vor verkuͤndung die geschriben
+stadt Johannis am ersten Capittel / Da Christus
+sprach zuͦ Petro / Du bist Symon Johannis / Du
+Wirst, fuͤrhin geheissen Cephas /
+Berchtoldus
+Fromen Lieben Christen /  Es hatt Der
+Bichtvatter / anzeygt / Das das houpt nit allein
+geb / das leben / den lyb / sonder hab ouch ander /
+Eigenschafften den lyb zeregieren / In sinen vsser /
+lichen wercken vnnd uͤbungen / So nun Christus
+sin sichtbarlich lyblich gegenwuͤrdigkeit hab vffge //
+nomen / hab er gelassen / sinen eignen lyb vff
+ertrich / ein gesetzt houpt / sin kilch ze Regieren /
+zuͦ thugenlichem leben / Sag ich allso darzuͦ
+des ersten / Die eigenstchafft des houpts
+Christi / ist ouch die / das er sin lyb regiere / als
+ein fuͤrst vnnd gepieter / Ezechielis am xxxvij ͦ

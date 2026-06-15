@@ -1,26 +1,26 @@
 # Seite 219
 
-Dann phtrus Johannis am vn cap: sprichtt
-Inn aller namen, Zu wem soelten wir gan¬
-Hie aber redt Christus mit Im allem Dir recht
-wird ich geben die scheussell, Das er in zucht
-Mathe iiij cap: Er heige min zweyen ge¬
-agt. Ich wijre vijff machen vnsther der
-monstgen vnnd hofs doch nacher andern
-geleistet, Das doch midt zu der sack dienst
-den wir erkennen, die christenlch kiech
-Das er Johannes ex cap: Da er sprach
-ick gib vch den geist Das Christus Inen
-allen gewallt geben hat die sind zeverzuchen
-Da er sprucht nement hin van heilagen
-Reijt
-wenn ix Die sijnde verzuchen ende
-Da niemand abred ist, Das es zu allen
-Jungern gesthecken sig. Das er aber
-darumb den andern die schlusselle ver¬
-heissen vnnd gelastet eenige Das zogt
-tis schrifft int hetter an Sounders zoigt
-die perschrifft an Das Johannes am lesten
-Cap: persio Insonderheit gelastet sien, Die
-schlussell Inn Dom so er spriche zum
-dritten maer, Weid mijne schaffly, Das
+Dann getus Johannis am vj tap. spricht
+Inn aller namen/ zuͦ wem sollten wir gan/
+Hhie aber redt Christus/ mit Im allein Dir
+wird ich geben/ die schluͤssell/ Das er izucht
+Mathei iii ͦ cap: Er heige nun zweyen ge//
+sagt Ich würd uͤch machen vischer der
+müͤnschen / vnnd heigs doch nacher andern
+geleistet/ Das doch nudt zuͦ der sach diener
+den wir erkennen/ die christenlich kilch/
+Das er Johannis xx ͦcap: Da er sprach
+ich gib uͤch den geist/ Das Christus Inen
+allen gewallt geben hat/ Die sund ze verzuchen
+Da er spricht nement hin den heilagen
+geist/
+we i e  verzhent en
+Da niemand abred ist/ Das es zuͦ allen
+Juͤngern geschehen sig.Das er aber
+darumb/ den andern die schlussell ver//
+heissen vnnd geleistet heige/ Das zeigt
+die schrifft nit heitter an/ Sonnders zeigt
+die gschrifft an/ Das Johannis am lesten
+Cap: petro In sonderheit geleistet sien/ die
+schluͤssell Inn dem so er spricht zum
+Dritten mall/ weid mine schaͤffly/ Das

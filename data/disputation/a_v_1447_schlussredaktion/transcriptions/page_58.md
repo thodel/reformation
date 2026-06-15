@@ -1,42 +1,25 @@
 # Seite 58
 
-8/8
-dm
-ersts
-o lxb
-kentlich
-zum
-vns
-Die erst Schlußreden
-Da er vss. Luca Im v, cap: anzucht fur
-das schiff, in die thieffe overst er vles
-woll das ef ein wunderzeichen ist, vnd
-so er schon vff die allegorij tringt, so ist
-Doch das allem ein bedntnus das er amb¬
-sig in smem ampt weij. Dahin Dient
-das vistgen/ sin neus vsswerffen, sin schiff
-Inn die thieffe furen, wie Heer: xvi Cap:
-anzongt
-Demnach bringt vber vss. luca, deij Cap:
-wetre ick hab fur euch gepären, Das nitt
-offhöre, den pleuben, Das bekennent wir
-mit uch,
-Das wer volget, sterck Dus
-bruder
-Twee ist doch so blijve der¬
-mit gesicht. Das, das zu der Dienst¬
-barket Dient
-Crum ist pruysam
-anzapt
-das die Dienstbarkeit int ein
-houpt Eer kilchen macht
-Aelso ouch so er Insint vsse Johanne etc. cap:
-yhtre over mijne schafflijdst heitter vnnd
-klaux
-Das es zu Dienstbarkeit des worts
-gehort
-welches ist die weid der schrifft
-lin
-Dann so werden om houpt machts
-wurden all diener des wort gotes, höyter sin
+Die erst Schlußred
+Da er vsß Luca Im v ͦ cap: anzuͤcht fuͤr
+das schiff / in die thieffe weist er selbs
+woll das eß ein wunderzeichen ist / vnd
+so er schon vff die allegorij tringt / so ist
+Doch das allein ein beduͤtnus das er emb //
+sig in simem ampt waͤrij / Dahin Dienet
+das vischen / sin netz vsswerffen / sin schiff
+Inn die thieffe fuͤren/wie Hieer: vvj. ͦ Cap:
+anzeigt
+Demnach bringt "er"  aber vsß luca/ vvij ͦ Cap:
+Petre ich hab fuͤr dich gepäten / Das nitt
+uffhoͤre / din glouben / Das bekennent wir
+mit uͤch / Das aber volget sterck dine bruder / Weer ist  doch so blind / Der
+nit gesicht / Das / das zuͦ der Dienst //
+barket dient /.                  Nun ist gnugsam anzaͤigt /          das die Dienstbarkeit nid ein
+houpt der kilchen machet /
+Also ouch so er infuͤrt/ vsß Johanne vvj ͦcap:
+Petre weid mine / schaͤffly ist heitter vnnd
+klar  /            Das es zuͦ     Dienstbarkeit / des worts gehoͤrt / welches ist die weid der schaͤff //
+gehoͤrt/  welches ist die weid der schaͤff//
+lin/:        Dann so weiden ein haupt machte / wurden all Diener des wort Gottes / hoͤupter sin
 20

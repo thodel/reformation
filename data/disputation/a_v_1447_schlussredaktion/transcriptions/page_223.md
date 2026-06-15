@@ -1,25 +1,25 @@
 # Seite 223
 
-Den Houten min am xviij hott eus
-guen, allen verheissen, mit dis schlijsselen
-sonders binden vnnd entbinden, Dennen har
-muß er int Dorumb allein ein huit sin
-Dornub Das er ein furnemer ist
-Alß In eine krieg, ein obrester, Heupt¬
-man ist Izt uit Das ander heuptlut
-onch sijne Allsz. Dan Im Enangelio
-Centurio ein Hauptman ist gsin vnnder¬
-Inn andern heuptman Ist voor de ster¬
-minder ein heuptman psin, Daman¬
-har gnuchsamlich darthau isst, wissende
-9 schrifft Das Dem petro alsß ein
-furnemer Insonders verheissen soude Die
-schlusselle vnnd een anndern nit Oost¬
-kunder gewallet, zebinden vnnd zu entbinden
-Wirchtoldus
-Meister Jacob Vlver aed ist So vn¬
-vss tragen, Das sij kemer antwint be¬
-Darff, voorss. krifft stat vffrecht vnnser
-schlußrede, stande offrecht vnd ist Das
-alls verantwurcket, des lass ich mich an die
-acta hie ob
+den hirten / nun am xeiii hett ers
+Inen / allen verheissen/ nit die schluͤssell
+sonders/ binden vnnd entbinden / Dennenhar
+tuß er nit dorumb allein ein hirt sin
+Darumb das er ein furnemer ist/
+Allß In eim krieg/ ein obrester/ haupt/
+man ist/ Irtt nit das ander houptlut
+ouch siend / Allß dan Im Euangelio
+Centurio ein houptman ist gsin/ vnnder
+ein anderen houptman/ Ist nudr desser//
+minder ein houptman gsin/ Dannan //
+har gnuͦgsamlich darthan ist/ vsß der
+gschrifft/ Das dem petro allß ein
+furnemer/ Insonders verheissen sind/ Die
+schluͤssell vnnd den anndern nit des
+funnder/ gewallt/ zebinden / vnnd ze entbinder
+Berchtoldus
+Meister Jacob vwer red ist So vn//
+ußtragen/ Das sy keiner antwurt be//
+darff/ gschrifft statt vffrecht vnnser
+schlußred/ stand vffrecht/ vnd ist Das//
+alls verantwortet/ des lass ich mich an die
+actta hie ob/

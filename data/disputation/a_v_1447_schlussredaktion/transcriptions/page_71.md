@@ -1,28 +1,26 @@
 # Seite 71
 
 kounen/
-mit kterm hertzen vss. allen anzognen spruchen
-so hatt der bicht vatter int wijters bewert
-Dan das samt peter, ein für treffenlicher die
-ner des mangelij vnnd har kein houpt ge¬
-Darumb begeren wir noch
-op een ist
-hutt bij tag ende schrifft die petrum zum houpt
-mache. Die kiech leren (mer hatt kein apo¬
-stell nie kindt) ist der kirchen diener
-sin vnnd int houpt./
-Buchtnatter
-Ver harti vnter hatt am ersten anzogen
-Ich hab den Spruch des ersten buchs, the¬
-gum ^ xv,, gestern verantwurt, hijtt wider
-Darzu sag ich das ich den¬
-anzogen
-selbigen Spruch int anzogen hab, aber ge¬
-meldet. Das gestrig zulassen, durch In
-beschechen, ein ant wuxt zegeben. min
-Jets zum anndern. Das er befert vnnd
-mich tringt ein heutern text Darbringen
-zu bewaren Das perens ein heupt Der
-kelchen st. Da mem ich Im sy gnug
-bestheegen. Joch bewert han Das
-samt peter, hatt die regierung der
+mit luterem hertzen / vsß allen anzognen spruͤchen
+so hatt der bichtvatter nit wyters bewert /
+Dan das Sant Peter/ ein fuͤrtreffenlicher die //
+ner des euͤangelij  vnnd gar kein houpt ge //
+weaͤsen ist/ Darumb begeaͤren wir noch
+huͤtt by tag gschrifft die petrum zuͤm houpt
+mache / Die kilch leren (mer hatt kein apo//
+stell nie kindt "können") ist der kirchen diener
+sin vnnd nit houpt./
+Bichtvatter
+Herr Marti Butzer hatt am ersten anzogen
+Ich hab den Spruͤch des ersten buͦchs/ Rhe //
+gum im xv ͦcap:// gestern verantwurt / huͤtt wider
+anzogen / Darzuͦ sag ich / das ich den //
+selbigen Spruͤch nit anzogen hab / aber ge//
+meldet/. Das gestrig zuͦlassen / durch Inn
+beschechen / ein antwort zegeben /. Nun
+jetz  zuͦm anndern / Das er begert vnnd
+mich tringt / ein heitern text / Darbringen/
+zuͦ bewaͤren / Das Petrus ein houpt der
+kirchen sye / Da mein ich Im sy gnuͦg
+beschehen /. So ich beweret han Das
+Sant Peter / hatt die regierung der /

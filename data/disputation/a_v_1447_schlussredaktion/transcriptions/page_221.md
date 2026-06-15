@@ -1,29 +1,29 @@
 # Seite 221
 
-36
-Ickijssell gelaßet, mit denen worten Da
-Der spricht werd nunc schefflij mag int be¬
-stan Dan scheffly weiden ein hirt sin
-gepunt allen predigern Dan Christus het
-hirten/ vnnd mit allem ein thicten sonders
-will meestgen zijn Exchessen mij cap: In
-Der geschichten der apostlen, ex cap. In
-Der ersten epysell perri am v cap: Do¬
-rumb hend Ir ein gschrifft wider vnnser
-schlußred, so bringend sij
-Werster Jacob Edle¬
-bach
-# zu bewären
-Alss her Berchtold In zucht, Christum int
-allem petro sonders allen die schlussell ver¬
-heissen, haben, vnnd das Inn solcher gestalt
-Das petrus voorss. sollichor versach vnnd den
-andern allen verheissen heige, Das petrus
-Im verJechen heige den Sim sin Des
-läbendigen gots Das die anndern mij
-all glaubt huijs, will das bewaren Johans
-am vij tap:
-Da pieters In de allec
-namen sprack Ino coven werden wir
-gan, En best die wort des lebens
-Welches ort Johannes am vi int meer
+28
+schluͤssell geleistet / mit denen worten Da
+er spricht weid mine scheffly/ mag nit bey/
+staͤn/ Dan scheffly weiden ein hirt sin
+gepurt allen predigern/ Dan Christus hat
+hirten/ vnnd nit allein ein hirten sonders
+vilo ingesetzt/ zuͦm Ephesern mi cap: In
+Der geschichten der apostlen xx ͦ cap: In
+Der ersten epistell petri am v cap: Do//
+rumb hend/ Ir ein gschrifft widen vnnser
+schlußred/ so bringend sy/
+Meister Jacob Ekle/
+bach/
+It zu bewaͤren
+lles her Berchtold Inzuchtr/ Christum nit
+allein petro/ sonders allen die schluͤssell/ ver//
+heissen / haben / vnnd das in solcher gestab
+Das Petrus vsß soͤllicher vrsach vnnd den
+andern allen verheissen heige/ Das petrus
+Im verJechen heige/ den Sun sin des
+laͤbendigen gots/ Das die anndern nun
+all gloubt heige/ will das bewaͤren Johas
+am vj cap:
+Da petrus In Ir aller
+namen/ sprach zuͦ wem werden wir
+gan zu hest die wort des lebens/
+welches ort Johanne am vi / nit neg

@@ -1,35 +1,37 @@
 # Seite 122
 
-habend
-seca
 46
-gerechter, suis epens gleneens, geleben munst
-Also muss er ouch die schrifft, vnnd
-wort potes, fur sich selbs vartheillen vnnd er¬
-kennen/ Ex were sunst int get. glaubende/
-des red er int crijssse Lgeruss volgett
-Zum Das, alle Chaissen Samentschafft vnd
-ler
-sonder alle red zu vrcheillen haben, wie
-Das par Christenlicken ein kilch von Bern
-van
-vff Dyßmael fur genomen hat
-alle Christen, Das ist die Christi sind
-Dann sy den geist¬
-oucken peijtlich souden
-Christi habrund zim versomern etc. ende cap: Das
-aber min her Doctor „ vns zogen hatt/ als
-ob wir vnbillich ein vnderstheid der bischer
-so Im uuwen the stament/ wie mans nempt
-Das
-verfasser sind. Das Icken daruff
-mer dan vor thusent gar derselben vn¬
-der staeid vnnd vrtheill gemacht ist Durch
-Die so aben den geist gotes gehept habenn
+gerechter / sins eigens gloubens / geleben muͦß
+Also muͦß er ouch die schrifft / vnnd
+wort gotes, fur sich selbs vrtheillen vnnd er //
+kennen / Er were sunst nit / got gloubig /
+des red er nit wüßte / Hieruß volgett
+nun das alle Chaissen samenthafft vnd
+sonder alle red
+leer
+zuͦ vrtheillen haben / wie
+das gar Christenlichen ein Kilch von Bern
+vff dißmall fur genomen hat / Dan
+alle Christen / Das ist die Christi sind
+ouch geistlich sind / Dann sy den geist
+Christi habennd / Zun Rhoͤmern etc.
+8
+° cap: das
+aber min her Doctor
+vns
+anzogen hatt / Als
+ob wir vnbillich ein vnderscheid der buͤcher
+so Im nuwen thestament / wie mans nempt
+verfasset sind. Sag ich daruff Das
+wer dan vor thusent iar derselbig vn //
+derscheid / vnnd vrtheill gemacht ist / Durch
+die so aͤben den geist gotes gehept habenn /
+den alle gloubgen noch hut by tag
+habend
 Dan
-Den alles gleubgen noch hier by tap
-Tuswius, Der vor der zijt Constantini
-Des grossen, gestoriben het melder, Im
-buch Ecclesiaster Historiae genampt, Im
-das souch die
-Druten buch cap: xvi
+Eusebius / Der vor der zyt Constantini
+des grossen / geschriben hat / meldet / im
+buͦch Ecclesiastice
+stica
+Historia : genampt / im
+driten buch cap: xxvi° /. das ouch die

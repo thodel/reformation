@@ -13,28 +13,27 @@ ix statt
 retirent
 22
 Die erst Schenßred
-namen Die buß vnnd vergebung der sijnde, vnd
-Das ist Das enangelien welches agares allso
-Darthut wer glaubt vnnd toufft wirt der
-wirt salig over int glondt der wirt verdampt
-Alss vss den vmbstenden des hanndels den
-die Enangelisten schriben etc. ist offenbar, Das die
-stheussyll des rychs der humeln sind die pre¬
-die des Enangelij, die sund vfflosen vnnd ver¬
-Das
-zuchen, Ist verkunden den glouksen
-binden
-Inen Ir sund verzogen sind durch Christum, binnen
-vnnd vorbehalten die stunden, ist verkunden Dem
-vmbglouksen. Das Im sine soud vnuerzigen vnd
-vorbehalten, sind Darumb hielyt es bicht
-vatter Das Ir bewärind, durch annder gschrifft
-das Christus nit ein einig houpt sage. Dan
-ob schon Ir thusent spruch infurend von dem
-berer ampt, oder dienstbarkeit, des worts
-werdent Ir doch nit probieren, Das potrus
-oder Jemand, anders, een houpt sr. Also sind all
-ingefurt spruch verantwurtet.
-Buchtnatter
-In Dinem namen susser her Jesus Exwurdgen
-gunstigen wysen hern, gester hansich Das erst
+namen / Die buͦß vnnd vergebung der suͤnd / vnd
+Das ist Das euangelion welches Marcus allso
+Darthuͦt wer glaubt vnnd toufft wirt der
+wirt saͤlig / wer nit gloubt der wirt verdampt/
+Alss vsß den vmbstenden des hanndels / den
+die Euangelisten schribend / ist offenbar / Das die
+schluͤssell des rychs der himmeln / sind die pre //
+dig des Enangelij / die suͤnd vfflosen vnnd ver//
+zuͤchen / Ist verkunden den gloͤubigen / das
+inen ir suͤnd verzigen sind durch Christum
+Inen Ir sund verzogen sind durch Christum/ binnen Binden
+vnnd vorbehalten die suͤnd / ist verkuͤnden Den
+vnbgloͤubigen  Das Im sine suͤnd  vnverzigen  vnd
+vorbehalten / sind / Darumb /  lyt es hie bicht //
+vatter Das Ir bewaͤrind, durch annder gschrifft/
+das Christus nit ein einig houpt sagesye Dan
+ob schon Ir thusent spruͤch infuͤrend von dem
+lerer ampt / oder dienstbarkeit / des worts
+werdent Ir doch nit probieren / Das petrus
+oder Jemand / anders / ein houpt syͤ / Also sind all
+ingefuͤrt spruch verantwurtet /
+Buchtvatter
+In Dinem namen suͤsser her Jesus Erwuͤrdigen
+guͤnstigen wysen hern / gester han ich Das erst

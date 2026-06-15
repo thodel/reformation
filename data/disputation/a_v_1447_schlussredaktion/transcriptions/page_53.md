@@ -1,30 +1,27 @@
 # Seite 53
 
 anfangs
-vsserlichen regierung der kirchen geredt,
-So kumpt Marti buur huijs von deen Inna
-deshalb Ick vor
-lichen Rhegiment
-vnnd will
-am anfang zugeben hab
-Das Christus
-onch zu geben haben
-de schalb sie, das einig houpt der kilchen
-Ich han aber der vsserlicher regierung
-halb Das ich hoff, Inus geschrifft Junij
-Ersten Zweijen springen, oder drijen
-Dir wirt Ich geben, die Schluijssell der
-himeln, ende vnnd weid nunc schaffly
-onch den den Christus vnnser heilland
-zu allen smen Jungeren sagt, hat nach siner
-vfferstende Johanus am lesten Capittell
-neinend hin, den heiligen geist Denen
-Ir die sund vergeben, denen, sind sij ver¬
-geben, Denen Irs behalten Denen sind
-sy behaltten, mit Denen sprinchenn
-hoff ick besthlossen haben. Das ein söl¬
-chen stathallter Christi, mit so vill gewalts
-behalt. Der da int allem begrafft oder
-In sich beschlußt, die vssern regierung, die
-Dann int anderst, wen wer en vssern
-werck, souders ouch wer die Innern
+vsserlichen regierung der kilchen"anfangs" geredt/
+So kumpt Marti Bucer haͤr/ von dem Inner//
+lichen Rhegiment / Deshalb ich vor
+am anfang zuͦgeben hab / vnnd will
+ouch zuͦ geben haben /  das Christus
+deßhalb  sye / das einig houpt / der kilchen /
+Ich han aber der vsserlichen regierung
+halb Das ich hoff / gnug geschrifft Jnn
+Ersten Zweiyen spruͤchen / oder dreyen/ darzuͦ
+Dir wirt Ich geben / die Schluͤssell der
+himeln /(.   vnnd weid mine schaͤffly /
+ouch den / den Christus vnnser heilland
+zuͦ allen sinen Juͤngeren gsagt / hat / nach siner
+vfferstende / Johannis  am lezten Capittell
+naͤmend hin / den heiligen geist / Denen
+Ir die suͤnd vergeben / denen / sind sy ver //
+geben / Denen Irs behalten / Denen sind
+sy behallten / mit Denen spruͤchenn
+hoff ich beschlossen haben / Daß ein soͤl //
+cher stathallter Christi / mit so vill gewalts
+behalt / Der da nit allem begreifft / oder
+In sich beschluͤßt / die vssern regierung / die
+Dann nuͤt anderest / wen uͤber en vssern
+werck / sonders ouch uͤber die Innern

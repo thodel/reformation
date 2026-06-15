@@ -5,32 +5,30 @@ wrouw
 rirens
 dmij
 35
-Die erst schlusreden
-lieber her pfarrer van Oppentzell, Warumb
-Der postell paulus den ban zij Die
-wederhuis des fleijths nemme Er nempt
-Sael
-fleijten, das wir vsserlichen nemen, Godt zum
-hebrenrn/ ixa cap: Da er spricht, mit recht¬
-machung des flastgs, fur das wir sprechen
-osserlicher rechtmachungen, oder vsserliche
-Dienst, bispill. Da ein kindt beterm, nach dem
-gesatz ensoyse die zwo turter, oder sunst
-thuben / nach Irem Vssgang vffopffert, macht
-sy Das opffer Inwendig int gerecht noch
-rem Darnsz dan volget, Das sellich opffer
-Allein ein vsserlich recht machung ist gewesen,
-vnnd so vill gochan Das es die frouwen
-widerumb Inn die gemeind zekomen, ge¬
-schickt hatt Daran wix woll mercken
-Das paulus fleischlich rechtmachungen, nempt
-fur vSseclich recht machnusen Also thut
-Hr. Im hie ouch Da er spricht gebene In dom
-thuffell zu verderbnus des fleijtes fur vsseclich
-Dann der bann ist nietzet
-verderbnus
-anders, dan weder ein voorss. satz vnnd verschliessen,
-des bösen glids Das vor hun vor pot schon ver¬
-Worffen ist, vnnd mit sunden verwürckt
+Die erst schlussred
+lieber her pfarrer van Appentzell / Warumb
+Der Apostell paulus den ban zij Die
+verderbus des fleischs nemme / Er nempt
+fleisch / das wir vsserlichen nennen /Godt als zum
+hebreern IX ͦ/cap: Da er spricht, mit recht //
+machung des fleisches fuͤr das wir sprechen /
+vsserlichen rechtmachungen / oder vsserliche
+Dienst / byspill / Da ein kindtbetterin / nach dem
+gesatz Moysi die zwo turter / oder sunst
+thuben / nach Irem Vsßgang vffopffert / macht
+sy Das opffer Inwendig nit gerecht / noch
+rein / daruß dan volget / Das soͤllich opffer
+allein ein vsserlich rechtmachung ist gewesen /
+vnnd so vill gethon Das es die frouwen
+widerumb Inn die gemeind zekomen / ge //
+schickt hatt / Daran wir woll mercken /
+Das paulus fleischlich rechtmachungen / nempt
+fuͤr vßserlich rechtmachungen / Also thut
+er Im hie ouch Da er spricht gebend In dem
+thuͤffell zuͦ verderbnus des fleisches  fuͤr vsserlich
+verderbnis / Dann der bann ist nuͤtzit
+anders / dan weder ein ufßsatz vnnd usschliessen/
+des bösen glids / das vor hin  vor got schon ver //
+worffen ist / vnnd mit suͤnden verwürckt /
 deßhalb der pfarrer die reden vnsers lieben
-bruders scolampadij int billich verwurfft
+bruͤders Ecolampadij nit billich verwuͤrfft

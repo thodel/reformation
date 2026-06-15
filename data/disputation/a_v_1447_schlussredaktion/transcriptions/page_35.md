@@ -1,29 +1,26 @@
 # Seite 35
 
-capittell. Item Das er sin lijb reguert schirmt
-Dan es spricht
-vnnd furt ist alle verschrifft voll
-pott durch een propheten, Es wirt ein einiger
-kung sin, Der Jederman geputet, Es vermag
-onch een lijb Christi, vnnd alle glieder int. Dan
-die verwaltung des houpts dan der her¬
-spricht, en mich mogende Ir midt zethune Da¬
-xumb soll die eer allein gott geben werden, Das
-ynde kilcke
-er sin kungen retiere vnnd fure zu einem thu¬
-peutrichen laben / Ex ist ouch vnser wyszheit In
-der ersten Epistel zum Chorunthern am ersten capitel
-Darumb wirt vns midt felen, so wir Im volgenn
-Es lijt am tag zu was Christenlichem luben vns
-Der Bapst gefurt hab, so er sinen solduern applas
-gilt christenlich blut zevergiessen, Die gsthafft
-zogt vnus gnugsam an Wex der stath allter christi
-sije, nach smem löblichen abwesen, Er spricht Jois
-am xvi Capitel, Ich segen vch die warheit, Es ist
-noch mitz. Das ick von vch ijans dan wo ick
-mit van vth hang, So wirt der tröster mit
-zu vch komen/ So ick aber von vch gang wird
-Ich gun zu vijff senden. Sechent lieben fromenn
-Christen, Das der geist pottes verwallwert
-Das rijcken Christi Jun smer kilchen vnnd furt
-with the
+capittell /  Item Das er sin lyb regieret schirmt
+vnnd fuͤret ist alle gschrifft voll / Dan es spricht
+gott durch den propheten / Es wirt ein einiger
+kuͤnig sin / Der Jederman gepuͤtet / Es vermag
+ouch der lyb Christi / vnnd alle glider nuͤt / on
+die verwaltung des houpts / dan der her //
+spricht / on mich mogend Ir nuͤdt zethuͦnd Da//
+rumb soll die eer allein gott geben werden/ Das
+er sin kungen kilch regiere / vnnd fuͤre / zuͦ einem thu//
+gentlichen laͤben / Er ist ouch vnser wyßheit In
+der ersten Epistel zum Chorinthern am ersten capitel /
+Darumb wirt vns nuͤdt faͤlen / so wir Im volgenn /
+Es lyt am tag zuͦ was Christenlichem laͤben vns /
+Der Bapst gefuͤrt hab / so er sinen soͤldnern applas
+gibt christenlich bluͦt zevergiessen / Die gschrifft
+zeigt vnns gnuͦgsam an / Wer der stathallter christi
+sye/ nach seinem lyblichen abwesen / Er spricht Johans
+am vvj ͦ Capitel / Ich sage vͤch die warheit / Es ist
+oͤich nutz Das ich von uͤch gang / dan wo ich
+nit von uͤch gang / So wirt der troͤster nit
+zuͦ uͤch komen / So ich aber von uͤch gang / wird
+Ich in zuͦ uͤch senden / Sechent lieben fromenn
+Christen / Das der geist gottes hat verwalltet /
+Das rych Christi inn  siner  kilchen vnnd fuͤret

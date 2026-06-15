@@ -3,33 +3,30 @@
 29
 mitt der kilchen
 -
-Die warmung der kirchen, so gutig vnnd
-barmhertzigk, ist pott,
-Vnnd so der vnusp
-schampt, sich der lasteren, int wagret, dan
-soll er erst gehabeten werden, alls ein heid
-vnnd publican Daran man sicht Das
-niemand bannen soll noch mag. Dann
-die ganntz Kilchhorn oder pfarx sampt den
-vff Das alles
-pfarrer oder bischoff
-Ist vns int annderst Zegedencken, weder
-Das paulus den ban disem Insatz gebraucht
-haben Ilsz wir eigentlich sergent
-Da er allso
-ad. Clornichios v cap:
-om
-spricht, so Ir zusamen komend, ouch
-dert (das ist min sinn) nun impirung
-stonden vrtheill. Das ick Inn der er¬
-luchting des potlichen geistes, allß vover
-kilchenn postell spricht) so gebenne mit
-der krafft vunsers hern Jesu Christi
-den der Jun solches laster vff Im hatt
-Dem Jhuffell zu verderknus des flasths,
-damit die Seel gefristet werde, an Dem
-tag des hern Jesu, hie horend wir
-eifentwintich
-Das paulus int allein
-verbanner hat, somders die kilcq vnnd er
-ser / Ich will onch vien hie anzorgenn/
+Die warnung der kilchen / so guͤtig / vnnd
+barmhertzig / ist gott /
+Vnnd so der vnver //
+schampt / sich der lasteren/ nit waͤgret / dan̄
+soll er erst gehalten werden / allß ein heid
+vnnd publican / Daran man sicht Das
+niemand bannen soll noch mag / Dann
+die ganntz Kilchhoͤry oder pfarr sampt den
+pfarrer oder bischoff / uff das alles
+ist vns / nit annderst zegedencken / weder
+Das paulus den ban / nach/ disßem Insatz gebrucht
+hab / alls wir eigentlich sechent / j ͦ/
+ad / Chorinthos v ͦcap: Da er allso
+spricht / so Ir zuͦsamen komend / ouch / min /
+geyst (das ist min sinn /  min  meynung
+vnnd vrtheill /  Das ich Inn der er//
+luͤchtung des goͤtlichen geistes / allß uͤwer
+kilchenn apostell spricht) so gebennd nit
+der krafft vunsers hern Jesu Christi /
+den der Jun ein solches laster vff Im hatt
+Dem thuͤffell zuͦ verderbnus des fleyschs /
+damit die Seel gefristet werde / an den
+tag des hern Jesu / hie hoͤrend wir
+eigentlich
+das paulus nit allein
+gebannet hat / sonders die kilch vnnd er
+mit den kilchen / Ich will ouch uͤch hie anzeygenn /

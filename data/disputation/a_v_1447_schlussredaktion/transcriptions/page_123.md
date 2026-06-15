@@ -1,37 +1,40 @@
 # Seite 123
 
-jander
-die allten, Jan Dije, Epistell pietri, Die
-Op qualipsis Johanus
-Kpistell Jacobi
+die allten / Inn Dye 1
+1 ander
+Epistell petri / Die
+Epistell Jacobi / Apocalipsis
+m
+Johannis /
+nit des worts
 werts
-van
-Int Des cvorts verfallten haben
-alß die vier en angelen
-die andern Jan Vierden Enangelis vnd
-xiiii Epistell pauli, Die erst peri
-Diswijl dan
-Johannus
-niemand Christe Ist, Er hab dan sin
-geist zum Rhömern viii cap: vnnd wie
-Christi sind, sin gout, desshalb habenn,
-So mogen wir aben die warchen wie
-die allten Dircen denselben einigen geyt
-erkennen vnnd vrthellen, an welcher
-vertheill, so min her doctor vall, het
-potkck
-Ist onttgegen. Die hembgen geschafft
-Die alles vuts leret In der amndern
-Epiell paulp zinnen thimotheo iiii cap:
-daruss mag er woll te darthun, ob
-Crix monstchen, alle geistlich In Dem
-Den anndern Spruch
-vall vathallenn
-betreffennd Das min bruder Captio gesagt
-hatt, er lute vom vrtheill wer die stunde, hatt
-Er int an versthrifft geredt, das es mit schlechtem
+gehallten haben / Wie
+die andern im vierden Euangelio
+alß die vier euangelien
+vnd
+xiiii Epistell pauli / die erst petri
+vnnd Johannis Diewyl dan
+niemand Christ Ist / Er hab dan sin
+geist / zun Rhömern viii cap: vnnd wir
+Christi sind / sin geist / desshalb habenn /
+So moͤgen wir aͤͤben die warheit wie
+die allten / durch denselben einigen geist
+erkennen vnnd vrtheillen / an welcher
+vrtheill / so min her doctor vaͤll het
+Ist enttgegen / die heillgen
+götlich
+gschrifft
+die alles guͦts leret / In der anndern
+Epistell pauly zunn thimotheo iiii cap:
+daruss mag er woll etc. darthuͦn / ob
+Wir moͤnschen / olld geistlich in dem
+vall vrtheillenn Den anndern spruch
+betreffennd / Das min bruͦder Capito gesagt
+hatt / er lute vom vrtheill vber die sund / hatt
+er nit an gschrifft geredt, das es mit schlechtem
+Nein verantwurten moͤg
 werden
-Mein verantwurten mogt „ wie Inn des min
-her Doctor anzogen hat; Van es hat Daruor
-sunde over din bruder ende
+wie inn des min
+her doctor anzogen hat / dan es gat daruor /
+sundet Aber din bruͦder etc.
 2

@@ -2,28 +2,28 @@
 
 Monsieur
 # siin g
-vnnd panl: Exhe: iiii / einem Jotlichen vssz
-vns ist, gnade geben, nach der mass der be¬
-pabnus Christi, vsss den sprincken vnnd der¬
-gelichen Ist klar. Das Christus ist. Das haupt
-der kirchen vnnd von Im einem Jegklichen
-glid, Inslußt, Das gnedreycken leben, So aber Das
-wortlij vincum, weder In Denen noch der¬
-glucken spruchen nieuwert stat, Soo Zwyffellt
-Der einfalltig int vmbillich Das villicht int
-een vntruw Da verbeugen sie. Zij dem
-ersten vmb der anndern eigentsschafftlichen
-venngen willen / Dis Das heupt hatt wer
-die glider des lijbs, das es die anndern gli¬
-der wijset vnnd regiert In den vssern wercken,
-Zu dem anndern, das die gottlch gschrifft
-anzoigt Das Christus, ouch hatt gesetzet einen
-Statthaelter der gemeinen kirchen, hie vff erden
-des geevalts ouch Inn Dem himell krafft hat
-von Dem hannd wir Johannis am ersten Capitel
-Das Andreas sinen bruder Sijmonem zu Dem
-hern Jesu furt vnnd sprach Wir hand gessin
-funden. Da der her Jesus Sijmonem ansach
-Da sprach er du bijt Sijmon een kun gohannis
-Den wirst hinfur hassen Cephas
+vnnd paul: Ephe: 4 ͦ / einem yetlichen vsß
+vns ist / gnad geben / nach der mass der be //
+gabung  Christi / vsß den spruͤchen vnnd der //
+glichen / Ist klar / Das Christus ist Das haupt
+der kirchen vnnd von Im / einem Jegklichen
+glid / Influͤßt / Das gnadenrych laͤben / So aber Das
+woͤrtly Vnicum ,"einig"  weder in Denen noch der //
+glichen  spruͤchen niendert stat / So Zwyffellt
+Der einfalltig nit vnbillich / Das villicht nit
+ein vntruͤw Da verborgen sie / Zuͦ dem
+ersten vmb der anndren eigenschafftlichen
+uͤbungen willen / Die Das houpt hatt uͤber
+die glider des lybs / das er die anndern gli //
+der weyset / vnnd regiert / In den vssern wercken /
+Zuͦ dem anndern / das die goͤttlch gschrifft
+anzeigt Das Christus / ouch hatt gesetzet einen
+Statthalter der gemeinen kirchen / hie vff erden /
+des gewalt ouch Inn Dem himell krafft hat
+von Dem hannd wir Johannis am ersten Capitel /
+Das Andreas sinen bruͦder Simonem zuͦ Dem
+hern Jesu fuͤret vnnd sprach / Wir hand Messiam
+funden / Da der her Jesus Simonem ansach
+Da sprach er du bist Simon ein sun Johannis
+Du wirst hinfuͤr heissen Cephas /
 Das wirt

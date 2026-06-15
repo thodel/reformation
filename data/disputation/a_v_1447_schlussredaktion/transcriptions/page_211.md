@@ -1,30 +1,30 @@
 # Seite 211
 
-am vi cap: Da henne Ir gschrifft de Jo
-dan vordernt, Es sprach der her Jesus zu
-eijb:
-den apostlen, Wellende Ir ouch abtretten
-„her
-antwort petrus zu wem sollend wir gan, du
-hast Die wort des zwigen lebens vnd wir
-verblaenben, vnnd hend erkent, Das du bijt christus
-Zum
-ein hun Des labendigen potes
-andern, so hennd Ir ein heittere gschrifft, Da
-Der her Die schlussell allen geleistet, hett
-Johannis xx cap:
-Gemend den
-heilligen geist sij dess dem allem samen
-noch undt wider vnser schlußend Ingefurt
-ist, Dann me Inn der gschrifft funden
-wirt, Das etwan wenigen verheissen ist
-worden, vnd aber vilen geleistet, Als machen
-nu capn: Sprach der her zu perro vnd
-Andrea volgend mir nach Ich wird vsz.
-vijff machen, visther der monstgen/ Mun¬
-werden, durch den prophorn Jhere: xvi cq
-Oll Opostell vischer penempt, Darumb
-Das sy mit dem notz des wort gows
-Die monstgen vachten sollten, vnd Oosthalb
-der gewallt, der Mathei iiij cap: von
-zweijen geredt wint, allen beuelchen ist
+am vjͦ cap: Da hennd Ir geschrifft die Ir
+dan verdernt/ Es sprach der her Jesus zuͦ
+xib:
+den apostlen / Wellend Ir ouch abtretten/
+Ater
+antwurt Petrus zuͦ wem soͤllend wir gan/ du
+hast die wort des ewigen lebens/ vnd wir
+glouben/ vnnd hend erkent/ Das du bist christ/
+Zun
+en Sun Des laͤbendigen gotes/
+andern/ so hennd Ir ein heittere gschrifft da
+der her die schluͤssell allen geleistet/ hett/
+Johannis cxx cap:
+Nemend den
+heilligen geist / etc. Vsß dem allein samen/
+noch nudt wider vnser schlußred ingefuͤrt
+ist/ Dann ne inn/ der gschrifft funden
+wirt/ Das etwan wenigen verheissen ist
+worden/ vnd aber vilen geleistet/ Als Mathei
+ni cap: Sprach der her zuͦ petro vnd
+Andrea volgend mir nach Ich wird vsß/
+üch machen/ vischer der moͤnschen/ Nn
+werden durch den propheten/ Jhere: xvi //
+All Apostell vischer genempt/ Darumb
+Das sy mit dem netz des wort gotes
+Die moͤnschen vachen/ sollten / vnd deßhalb
+der gewallt der Mathei iii ͦ cap: von
+Zweyen geredt wirt/ allen bevolchen ist/

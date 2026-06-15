@@ -1,34 +1,33 @@
 # Seite 569
 
-4
-6
-Die fünfte Schlusred
-andren, Er hat sich selb. vfgeopfret, Ad Hebreos Vo.
-nitt die kilch, nitt die priester, zum dritten, Er
-hat ein ewig priesterthum, deshalb Er dehenies er¬
-seyens bedarft, zum vierden, Er erschint vor dem
-angesicht gottes, und vertrittet vns, Carumb wer¬
-den te fun nitt representatine, das Ist In widerstel:
-liger wisz, opfren, gun funften, Er hath vollen:
-dat vnd volkomen gemacht, was Ist dann der Jegi¬
-ten Priestern opfern anders, dann ein schmachen
-des Opfers Christi, zum Cächsziten, Er hat ein
-ewige erlösung erfunden, was Oelen wetten dann
-die Priester mitt den Massen verlosen, zum biben¬
-den, Es Ist auch de hein Opformer für die Ound¬
-War gesicht min nitt, das die Massen Ieg Im bruch¬
-Da man vich vermist, Christum gott dem vatter
-vfze optren, der 6thrift widrigt Ist, vnd dem
-Priesterthumb, Opfer, liden vnd sterben, om le¬
-Das Oi aber der misbruchen brtb.
-streuig,
-een gruwel die vor gott, erfindt sich also, Alles
-das vsserthib dein Jusay Christi, In der Miss. Jong
-gebrucht, erfunden wirdt, das der Re gottes nachteillig,
-dem glouwen vnd der liebe widrig, Ist ein gruwel
-vor gott, zum ersten also, das der priester die Sa¬
-trament allein empfacht, vnd denen fes mitteillen
-golt, vber die achsselen bijtet, wider die that Christi,
-zum andern, Das christliche frijheit brochen
-wirdt, mitt der Cabben, kleiden Crurgen, Cere¬
-monien, personen, vnd zitten, Een Priestern nach
+Die fünfte Schlussred,
+andren, Er hat sich saͤlbs vfgeopfret, Ad Hebreos v.ͦ,
+6 Vv
+nitt die kilch, nitt die Priester, Zum dritten, Er
+hat ein ewig priesterthum, deßhalb Er deheines er¬
+6 Vv
+setzens bedarft, Zum vierden, Er erschint vor dem
+angesicht gottes, und vertrittet vns, Darumb wer¬
+den Jr Jnn nitt representatiue, das Ist In widerstel¬
+liger wiß, opfren, Zum funften, Er hats vollen¬
+det vnd volkomen gemacht, was Jst dann der Jetzi¬
+gen Priestern opfern anders, dann ein Schmaͤchen
+des Opfers Christi, zum Saͤchssten, Er hat ein
+ewige erloͤsung erfunden, was Selen wellen dann
+die Priester mitt den Maͤssen erloͤsen, Zuͦm Siben¬
+den, Es Jst ouch dehein Opfer mer für die Sünd,
+Waͤr gesicht nun nitt, das die Maͤsß Jetz Jm bruch,
+da man Sich vermist, Christum gott dem vatter
+vfze opfren, der Schrift widrigt Jst, vnd dem
+Priesterthümb, Opfer, liden vnd sterben, ein le¬
+strung, Das Si aber der mißbruchen halb,
+ein grüwel sÿe vor gott, erfindt sich also, Alles
+das vsserthalb dem Jnsatz Christi, In der Maͤss Jetz
+gebrucht, erfunden wirdt, das der Er gottes nachteillig,
+dem glouben vnd der liebe widrig, Ist ein grüwel
+vor gott, zum ersten Also, das der priester die Sa¬
+crament allein empfacht, vnd denen Ers mitteillen
+solt, vber die achsselen bütet, wider die that Christi,
+Zum andern, Das christliche frÿheit brochen
+wirdt, mitt der Salben, kleiden, Crützen, Cere¬
+monien, personen, vnd zitten, Den Priestern nach

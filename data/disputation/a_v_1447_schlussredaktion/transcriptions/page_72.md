@@ -16,30 +16,27 @@ myn
 bringen
 2
 25
-die exst Schlußred
-heiligen christenlichen Kirchen, vss. beuelich
-Christi pechan
-Will er aber das ick
-een sprinck bring der Das wort houpt hab
-so soll er ouch billichen darbringen, ein spruch
-Der Das wort Vrnaum einig habe hab Das ist
-einen hab
-Ducer
-M begeren int schrifft die aben. Das wortl.
-haupt vstrucke, am wort ist es int gelegenn
-wir begeren aber geschrifft, die pecco zugeb. Das
-Inn em houpt, der kirchen machy Vamlich
-Wix geben
-een heillame sin der kirchen/ T
-aber Im schrifft, ouch des overwin halben
-Darmus Das ovir am iiij capiell
-Einig
-zum Exchesern, haben ein hern vnnd In der
-Ersten Christell zum thimotheo, ii cap: ein mitteer
-zwijstchen pot vnnd dem moustgen, Christus
-hatt allein die vnsterblickeit vnnd Das leben
-Darumb wirt er ouch allem dezen, so zum leben
-Eenne vnsterbligkeit berufft sind, ein einige houpt
-sin
-Buchtnaiter
-Ich han befert om text der de anzeigte Das
+die erst Schlußred
+heilligen christenlichen Kilchen / vsß beuelch
+Christi gethan / will er aber das ich
+ein spruch bring der Das wort houpt hab /
+so soll er ouch billichen darbringen / ein spruch
+Der das wort Vnicum  einig habe hab Das ist
+einig hab /
+Bucer
+Wir begeren nit schrifft die aͤben Das woͤrtly
+houpt usßtrucke / am wort ist es nit gelaͤgen /
+wir begaͤren aber geschrifft / die petro zuͤgeb/  Das
+Inn ein houpt / der kirchen mache namlich
+ein heilland sin der kirchen / Wir geben
+aber Im schrifft / ouch des woͤrthlin  halben /
+einig Darmumb Das wir am iiij ͦ capitell
+zuͤm Ephesern / haben ein hern / vnnd In der
+Ersten Epistell  zum Thimotheo / ii ͦcap: / ein mittler
+zwuͤschen got vnnd dem moͤnschen / Christus
+hatt allein die vnsterblickeichkeit vnnd Das laͤben
+Darumb wirt er ouch allein deren / so zuͤm laͤben /
+vnnd vnsterblichkeit beruͤfft sind / ein einig houͤpt
+sin /
+Bichtvatter
+Ich han begert ein text der da anzaigte Das

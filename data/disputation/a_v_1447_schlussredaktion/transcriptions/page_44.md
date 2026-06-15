@@ -11,29 +11,29 @@ dalles
 Kleijsch
 elches
 13
-Die erst Scheußree
+Die erst Schlußred
 26
-Bichtvatter
-Als Her-Marthin Bmer, hatt hem mr zogen
-ein lange red, ane ystgrifft gefurt, vnnd geben ein
-exempell van einem kning. Der macht hab
-Inn sinem krmprich gewaltigklich Zeregieren
-Er hatt ouch Das wussen der gesatzte statutenn,
-vnnd ordnungen wie erst dan genempt hatt
-Dasselbig cnssen oder erkennen, der statuten vnd
-gesatz, habend ouch sine Doctores oder Rhat mo¬
-gend aber nit darmus kunnen genempt werden /
-Nun sij es hierinnoucen also Das man beliebe by
-sant patter / mag meniger predigen oder leren,
-das sant peter hatt gelert, mog aber darumb
-Int ein houpt genempt werden/ mansels halb
-das er int hab een gewaelt Zeregiern Wen
-ich hesthrifft darth, etc. Das sant petter den
-gewaelt von Christo empfangen, hab, hie vff erden
-wer die christenlich kilch, vnd das nit allem
-fur sich, Sonnder in ewigkeit, fur sich vnd
-sine nachkomen/ wenn ich das thu, So hoff
-Ich darnach syg vmb ein kleins zechund, sie
-onch kem hotslesterung, ob man schon den namen
-Eins houpts ein sollichen Statthalter Christi gönnen
-sollen
+Bichtvatter /
+Als Her Marthin Bucer hatt hem mr zogen
+ein lange red / one gschrifft  gefuͤrt / vnnd geben ein
+exempell van einem kuͤnig Der macht hab /
+Inn sinem Künigrych  gewaltigklich Zeregieren /
+Er hatt ouch Das wuͤsßen der gesatzt / statutenn /
+vnnd ordnungen / wie ers dan genempt hatt /
+Dasselbig wuͤssen oder erkennen / der statuten vnd
+gesatz / habind ouch sine Doctores oder Rhaͤt moͤ //
+gend aber nit darmumb kuͤnnig genempt werden /
+Nun sie es hierinn ouch also Das man belibe by
+sant petter / mag menger predigen oder leren /
+das sant peter hatt gelert / mog aber darumb
+nit ein houpt genempt werden / mangels halb /
+das er nid hab een gewallt Zeregiern / Wen̄
+ich geschrifft dartth(aͤ)te /  Das sant petter den
+gewallt von Christo empfangen / hab / hie vff erden
+uͤber die christenlich kilch / vnd das nit allein
+fuͤr sich / Sonnder in ewigkeit / fuͤr sich vnd
+sine nachkomen / wenn ich das thuͦ / So hoff
+Ich darnach syg vmb ein kleins zethuͦnd / sye
+ouch kein gotslesterung / ob man schon den namen
+Eins houpts / ein soͤllichen Statthalter Christi goͤnnen
+soͤlle-/

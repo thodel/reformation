@@ -2,29 +2,27 @@
 
 32
 Die erst Schlußred
-keitt alls die heiden Das er denselben
-ouch hab geben, een fiemd oder thuffellen
-welcher text, den vordrigen anzognen text
-erklärt vnnd erlutert, vnd dan da niet niet
-widerwertigs wirt erfunden, allß ick hoff
+keitt alls die heiden / Das er denselben /
+ouͦch hab geben / den fiend/ oder thuͤffell
+welcher text / den vordrigen anzognen text /
+erklärt vnnd erluͤtert / vnd dan dann da niet nitt
+widerwertigs wirt erfunden/ allß ich hoff/
 Berchtoldus
-Alx Pfarrer Ir stame uns gul. Doch int vns
-welche vns leztt
-sonder der gschrifft
-Das Christus ein beuelch hab geben, einen Jegklicher
-Klchhoven oder pfarr, den vnuersthämbten
-welche vsschliessung
-sijnder zeverbannen
-mit Ir bringt ein kurtz vnnd pitterkent, Damit
-des lebs begine vnnd mutwill, getempt wirtt
-vnnd der sunder trungen zu erkantnus smer¬
-sunde vnnd sin geist salen overde Darumb Hend.
-Ir noch nit probiert Ehein gewaelt, den die
-kilch hart, nach Irem gevallen zekruchen, sonders
-ein bevelch mit den rudugen schafflin Zehamelen/
-vnnd pitt vich vmb geschrifft, damit Ir anzoige
-das ein amder houpt sich, dann Christus, Das auch
-gewaelt hab, Die kiecken zu verwaleten
-Farrer
-Alls min her predicant spricht Ich haer
-mit Im mit allem mit Im, sonders mit Dom
+Her Pfarrer Ir stand  uns zuͦ / Doch nit vns
+sonder der gschrifft / welche uns leret
+Das Christus ein bevelch hab geben / einen Jegklichen
+kilchhöry oder pfarr / den vnverschhaͤmpten
+suͤnder zeverbannen / welche usßschliessung
+mit  Ir bringt ein kruͤtz vnnd pitterkeit / Damit
+des lybs begierd / vnnd muͦtwill / getaͤmpt wirtt
+vnnd der suͤnder trungen zu erkanntnus siner
+suͤnd vnnd sin geist saͤlig werd / Darumb hand
+Ir noch nit probiert dhein gewallt /den die
+kilch hat/ nach Irem gevallen zebruchen / sonders
+ein bevelch mit den ruͤdigen schaͤfflin / Zehandlen /
+vnnd pitt uͤch vmb geschrifft / damit Ir anzaͤiget
+das ein ander houpt sig / dann Christus / Das auch
+gewallt hab / Die kilchen zu verwalten /
+Pfarrer
+Alls min her predicant spricht Ich habs
+mit Im / nit allein mit Im / sonders mit dem

@@ -1,37 +1,28 @@
 # Seite 83
 
-Den ick zertheilt han, zum ersten, mur
-zuuwel. zuuertz, pot heb allein, eer, vnnd glory hab
-aber den apostlen bewelchen Das ampt
-für
-sins potlichen morts vnnd das absolueren
-von Den sunden/ Wein sin Den glaubi¬
-gen verkunden ablesung der sund muntum
+Den ich zertheilt han / zum ersten / mir
+zuͦvellt zuuertz, got geb allein / eer / vnnd glory hab
+aber den apostlen bevolchen  Das ampt
+sins goͤtlichen worts / vnnd das absolvieren /
+von Den suͤnden/ allein sy by Den glaͤubi //
+gen / verkuͤnden ablassung der suͤnd/ nun nun
 21
-het nie Jemand gehort. Das weder die
-postell noch vnnser heiliger vatter Der
-Bapst all priester nie kein empfelck, behapt
-zu absolueren, ein, der da sint yden glauben
-4 in dem gewalt hab, somders Im empfelchen zu binden. Die
-poters, vnd zu
-die sich gesteijckt hare In glauben, vnnd hoff
-entbinden
-vnnd trouw, dem götlichen wort Christi, Das
-Ja
-Das empfolen het gebinden vnnd euckinden
-wie vor Dauon geredt ist. 16
-Meiner
-Des aber In „ besser bestatting des gewaets
-zugen niet Das durch den heilligen paulum
-Daer geredt hett
-a/ t himo: 1 cap:
-am
-von denen die schafftbruchs sind gsin Im
-hiffbruichig¬
-glouwen, vss welchen ist gsin himneus vnd
-Mehannder
+het nie Jemand gehoͤrt / Das weder die
+Apostell / noch vnnser heiliger vatter Der
+Bapst / all priester nie kein empfelch gehapt
+zuͦ absolvieren / ein / der da nit den glauben
+hab / sonders / Im empfolchen / zuͦ binden +in dem gewallt gottes und zu entbinden + die
+die sich geschickt hand / In glauben / vnnd hoff //
+vnnd troͤuw /dem götlichen wort Christi / Das
+Das //da//empfolen / het zebinden vnnd entbinden
+wie vor / Davon geredt ist /16
+Das
+aber zuͦ /einer/ „ besser bestaͤtung des gewalts /
+zuͤgen ich Das durch den heilligen paulum
+/i ͦ/thimo: j ͦ cap/ da er geredt hett
+von denen die //schiffbruͤchig //schiffbruͤchig   sind gsin im am
+glouben / vsß welchen ist gsin Himeneus  vnd /
+Alexander /
 welche Ich hab geben dem
-huffell
-vff Das das sy lernen pott
-min so paulus Als
-vijt lesten
+thuͤffell vff das / das sy lernen /gott
+nit lestern / Nun so Paulus als

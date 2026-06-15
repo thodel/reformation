@@ -1,40 +1,40 @@
 # Seite 240
 
-Ihre
-in the
-ten gar
-heifft
-Thossa
-In verder anderen
-epijtell
-26
-95
-des erst schluß reden
-Durch die lieben heilligen zu luttring vnd er¬
-kantnus biblischer verstehrifft mein ich ouch pot
-Der heillig geist, mog Inen die ingesprochen
-han, sonderlich die geschrifft, die von gememen
-christenlichen kirchen angenomen ist, Is stat ouch
-gesthrieben In den geschickten der apost am xix capi
-vnd xvi cap: Ir sollene haeltien die pott der
-zwolffboven, vnnd die bruch der eltern, spricht
-ouch prlus / an der 1. Episte: zijn Chorm: xi cap:
-Ich lob ich mijne bruder Das ix In allen
-Dingen min ingedenck sind, Als ick ich mine
-pot geben hab verheissent Inen dabey die anndern
-Dingen will ick vth auch ordnen, Wen ick zu
-Man findt aber nieuand geschri¬
-Noch kom,
-ben wo er das geordnet haer hatt aber Inen
-Jan Zwyffell gehabtten, was er Inen verheissen
+feant
+in ien
+hn at
+hest
+hessa:
+In der andern
+Eieste
+42
+43
+die erst schlußred
+Durch die lieben heilligen zuͦ luttrung vnd er//
+kantnus billischer gschrifft mein ich ouch got
+der heillig geist / mog Inen/ die mgesprochen
+han sonnderlich die gschrifft/ die von gemeiner
+christenlichen kilchen angenomen ist/. Es stat ouch
+geschriben In den geschickten der apost am xx cap:
+vnd vvj ͦ cap: Ir soͤllend hallten die pott der
+zwoͤlffboten/ vnnd die bruch der eltern/ spricht
+ouch paulus / an der 1. Episte: zum Chorin/ j ͦ cap:
+Ich lob uch mine brüder Das ir In alleim
+Dingen min mngedenck sind. Alß ich üch mine
+pot geben hab / verheisset Inen daby/ die anndern
+Ding will ich och auch ordnen / Wen ich zuͦ
+ma  e   n
+uͤch kom
+ben wo er das geordnet habe/ Hatt aber Inen
+an zwyffell gehallten/ was er Inen verheissen
 Das
-hatt. Spricht auch die selben Cap:
-sagt ich vie vnnd int der ger Seitt Da van Co
-von sollichsen bruchen findt man
-sachen ende
-onch gestrieben zum Collossen van am ii cap:
-die uit all geschreiben stand allß ick mein
-Zwinglij
-Aen ter Anclaus. Was wellennd so mit
-Denen worten allen Infuxen
-Seuger
+hatt /. Spricht ouch im selben Cap:
+sag ich soͤch vnnd nit der her/ Seitt da von Ey//
+von soͤllichen bruchen fndt man
+sachen (
+ouch geschriben / zum Callessoistern/ am ii ͦ cap:
+die nit all geschriben stand allß ich mein
+Zwungliy
+Meister Stielaus. Was wellennd Ir mit
+Denen worten/ allen Infuͤren
+Seiger

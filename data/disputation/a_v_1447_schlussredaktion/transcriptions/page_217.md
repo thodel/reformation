@@ -1,28 +1,27 @@
 # Seite 217
 
-Daruss nun erlerust wirt lieber gester
-milus Das hie petrus min widerpracht
-wirt zu den eeren vnnd rum, Des Oposto¬
-# vnd nit zin ein
-lats, oder werden aller Jungern ist Als
-heupt gemacht
-Welches apostaleus gnuen gehort
-Arw
-Senger
-Alß Maßer verich zwingen meint Erst¬
-telt Johannes Elz, spesz mits schäfflen nach
-der meijnung augustus diens dahin, als
-petrus Drijmall verleugnet hat, by abe
-In da Drijmael wider verzeegen, vnd int
-dahin, Das christus Im da die schlussel
-so Christus Im verheissen hat, perro geben
-hem. Ich sprich aber, das die pxt. den
-heiligen gschrifft meingen grund vnd verstand
-haben, vnd sinnen ^ Carumb ick Augustine
-noch hie int wier sprich, Die wijll
-aber Christus petrum hie erkent, offen lich¬
-fur einen hirten Ist woll zeverstan, Das
-er Im ouch hie den gevallen des huwim
-geben hat zu werden zu straffen, zu bundenn
-ende entbinden, Dan een hirten gehoort zu
-een hirten stecken Das ist gewalt voor de schaf
+Daruß mun erlernet wirt lieber Meister
+nilus Das hie Petrus nun widerpracht
+wirt zuͦ den eeren vnnd run/ des aposto//
+t vnd nit zuͦ ein
+lats/ oder weiden/ aller Juͤngern ist Als
+houpt gein acht
+welches apostalatt gnuͦg gehoͤrt/
+Seweger
+Allß Meser vlnch zewigli meit dien
+telt Johannis / bly/ spyß mine schaͤffly nach
+der meynung angustim diene dahin/ als
+Petrus Drymall verlengnet hat/ habe
+In da Drymall wider verjechen/ vnd nit
+dahin / Das christus Im da die schluͤssell
+so Christus Im verheissen hat/ petro geben
+siend / Ich sprich aber/ das die text der
+heilligen gschrifft menigen/ grund vnd verstand
+haben/ vnd sunne/. Darumb ich angustin
+ouch hie nit widersprich/ Diewyll
+aber Christus Petrum hie erkent/ offenlich
+fur einen hirten/ Ist woll ze verstan/ Das
+er Im ouch hie den/ gwallt/ des hirtenn
+geben hat / zuͦ weiden zuͦ straffen/ zuͦ bindenn
+vnd entbinden / Dan ein hirten gehoͤrt zuͦ
+ein hirten stecken/ Das ist gewalt uber die scha
