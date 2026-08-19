@@ -144,6 +144,24 @@ def is_retryable(exc: Exception) -> bool:
     return any(token in message for token in RETRYABLE)
 
 
+def thinking_config(budget: int | None, level: str | None) -> Any:
+    """Build a ThinkingConfig, or None to leave the model's default alone.
+
+    Transcribing a page image is perception, not reasoning, yet the pro model
+    spends roughly ten thinking tokens per token of text it emits. Since
+    thinking is billed and invisible, capping it is the single largest cost
+    lever available here.
+    """
+    if types is None or (budget is None and not level):
+        return None
+    kwargs: dict[str, Any] = {}
+    if budget is not None:
+        kwargs["thinking_budget"] = budget
+    if level:
+        kwargs["thinking_level"] = getattr(types.ThinkingLevel, level.upper(), None)
+    return types.ThinkingConfig(**{k: v for k, v in kwargs.items() if v is not None})
+
+
 def generate(
     client: Any,
     *,
@@ -153,6 +171,8 @@ def generate(
     temperature: float = 0.0,
     max_retries: int = 4,
     usage: Usage | None = None,
+    budget: int | None = None,
+    level: str | None = None,
 ) -> str:
     """Call the model, retrying transient failures, and return cleaned text."""
     config = None
@@ -160,6 +180,7 @@ def generate(
         config = types.GenerateContentConfig(
             temperature=temperature,
             system_instruction=system_instruction,
+            thinking_config=thinking_config(budget, level),
         )
 
     last: Exception | None = None

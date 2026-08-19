@@ -60,6 +60,19 @@ def split_models(value: str) -> list[str]:
     return [m.strip() for m in value.split(",") if m.strip()]
 
 
+def parse_budgets(value: str) -> list[int | None]:
+    """'' -> [None]; 'default,0,512' -> [None, 0, 512]."""
+    if not value.strip():
+        return [None]
+    out: list[int | None] = []
+    for token in value.split(","):
+        token = token.strip()
+        if not token:
+            continue
+        out.append(None if token.lower() == "default" else int(token))
+    return out or [None]
+
+
 def split_sizes(value: str) -> list[str]:
     """IIIF sizes contain commas (!2000,2000), so they are separated by ';'."""
     return [s.strip() for s in value.split(";") if s.strip()]
@@ -107,7 +120,8 @@ def needs_recognition(key: str, page_nr: int, state: dict, model: str, refresh: 
     return record.get("model") != model or record.get("prompt_version") != PROMPT_VERSION
 
 
-def recognise_page(client, page: erara.Page, *, model: str, size: str, usage: gc.Usage) -> str:
+def recognise_page(client, page: erara.Page, *, model: str, size: str, usage: gc.Usage,
+                   budget: int | None = None, level: str | None = None) -> str:
     image = erara.fetch(page.image_url(size), timeout=90)
     parts = [gc.image_part(image), gc.text_part(USER_PROMPT)]
     return gc.generate(
@@ -116,6 +130,8 @@ def recognise_page(client, page: erara.Page, *, model: str, size: str, usage: gc
         parts=parts,
         system_instruction=SYSTEM_INSTRUCTION,
         usage=usage,
+        budget=budget,
+        level=level,
     )
 
 
@@ -130,6 +146,7 @@ def cmd_list_models(client) -> int:
 def cmd_sample(client, witnesses, args) -> int:
     models = split_models(args.models)
     sizes = split_sizes(args.sizes)
+    budgets = parse_budgets(args.budgets)
     print(f"Sampling {args.sample} page(s) per witness across "
           f"{len(models)} model(s) x {len(sizes)} size(s)\n")
 
@@ -149,24 +166,28 @@ def cmd_sample(client, witnesses, args) -> int:
         for page in chosen:
             for model in models:
                 for size in sizes:
+                  for budget in budgets:
                     usage = gc.Usage()
                     started = time.time()
                     try:
-                        text = recognise_page(client, page, model=model, size=size, usage=usage)
+                        text = recognise_page(client, page, model=model, size=size,
+                                              usage=usage, budget=budget)
                         error = ""
                     except Exception as exc:  # noqa: BLE001
                         text, error = "", f"{type(exc).__name__}: {exc}"
                     elapsed = time.time() - started
-                    name = f"{witness['key']}_p{page.page_nr}_{model.replace('/', '_')}_{size.replace('!', '').replace(',', 'x')}.md"
+                    btag = "default" if budget is None else f"think{budget}"
+                    name = (f"{witness['key']}_p{page.page_nr}_{model.replace('/', '_')}"
+                            f"_{size.replace('!', '').replace(',', 'x')}_{btag}.md")
                     (out_dir / name).write_text(
                         f"# {witness['label']} — Seite {page.page_nr}\n"
                         f"<!-- model={model} size={size} chars={len(text)} "
                         f"seconds={elapsed:.1f} -->\n\n{text or error}\n",
                         encoding="utf-8",
                     )
-                    rows.append((witness["key"], page.page_nr, model, size, len(text),
-                                 elapsed, error, usage))
-                    print(f"  {witness['key']:20} p{page.page_nr:<4} {model:24} {size:12} "
+                    rows.append((witness["key"], page.page_nr, f"{model} [{btag}]", size,
+                                 len(text), elapsed, error, usage))
+                    print(f"  {witness['key']:18} p{page.page_nr:<4} {model:22} {btag:10} "
                           f"{len(text):5} chars {elapsed:5.1f}s "
                           f"in={usage.prompt_tokens} out={usage.output_tokens} "
                           f"think={usage.thought_tokens} {error[:30]}")
@@ -236,7 +257,8 @@ def cmd_recognise(client, witnesses, args) -> int:
                 break
             usage = gc.Usage()
             try:
-                text = recognise_page(client, page, model=args.model, size=size, usage=usage)
+                text = recognise_page(client, page, model=args.model, size=size, usage=usage,
+                                      budget=args.thinking_budget)
             except Exception as exc:  # noqa: BLE001
                 print(f"  [WARN] page {page.page_nr}: {type(exc).__name__}: {exc}")
                 continue
@@ -282,6 +304,11 @@ def parse_args() -> argparse.Namespace:
                         help="Recognise N pages per witness across the model/size matrix")
     parser.add_argument("--models", default="gemini-2.5-pro,gemini-2.5-flash",
                         help="Comma-separated models for --sample")
+    parser.add_argument("--budgets", default="",
+                        help="Comma-separated thinking budgets for --sample; "
+                             "'default' leaves the model alone, e.g. 'default,0,512'")
+    parser.add_argument("--thinking-budget", type=int, default=None,
+                        help="Thinking token budget for a real run (0 disables thinking)")
     parser.add_argument("--sizes", default="!1500,1500;!2500,2500",
                         help="IIIF sizes for --sample, separated by ';' (they contain commas)")
     return parser.parse_args()

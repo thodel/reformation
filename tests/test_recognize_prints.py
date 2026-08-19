@@ -167,3 +167,34 @@ class UsageAccountingTest(unittest.TestCase):
         usage = gc.Usage()
         usage.record(self._Response())
         self.assertEqual(usage.total_tokens, 0)
+
+
+class ThinkingBudgetTest(unittest.TestCase):
+    """Thinking is ~74% of the pro model's tokens, so capping it is the main lever."""
+
+    def test_empty_means_leave_the_model_default_alone(self):
+        from recognize_prints import parse_budgets
+        self.assertEqual(parse_budgets(""), [None])
+
+    def test_default_keyword_maps_to_none(self):
+        from recognize_prints import parse_budgets
+        self.assertEqual(parse_budgets("default,0,512"), [None, 0, 512])
+
+    def test_zero_is_preserved_and_not_confused_with_unset(self):
+        # 0 disables thinking; None leaves the default. They must not collapse.
+        from recognize_prints import parse_budgets
+        budgets = parse_budgets("0")
+        self.assertEqual(budgets, [0])
+        self.assertIsNotNone(budgets[0])
+
+    def test_no_config_when_nothing_requested(self):
+        self.assertIsNone(gc.thinking_config(None, None))
+
+    def test_budget_zero_produces_a_config(self):
+        config = gc.thinking_config(0, None)
+        self.assertIsNotNone(config)
+        self.assertEqual(config.thinking_budget, 0)
+
+    def test_level_is_accepted(self):
+        config = gc.thinking_config(None, "LOW")
+        self.assertIsNotNone(config)
