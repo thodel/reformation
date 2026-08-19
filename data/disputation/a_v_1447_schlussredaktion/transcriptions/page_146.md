@@ -18,11 +18,11 @@ leeren / ouch der apostolischen / Allso
 Das // was sy nit bewerte / keine sterche noch achtung
 sin soͤlle
 die  xxix
-Dorumb ist nit  weniger  vsß. götlichem
-rechten anzenämen / Das sy die gemeine kilch
+Dorumb ist nit  weniger  vsß götlichem
+rechten anzenaͤmen / Das sy die gemeine kilch
 gloubt hatt / zum glouben gehoͤrend vnd vns das //
 selbig zuͤm wenigsten, durch Ir annemen / zuͦ
-glouben fuͣrgeben / Dan das sy vns vß  götlicher
-ende gethafft, hat leren glauben/ tc
-In Diser lesten Schlußred/ zeigt den provincial
+glouben fuͣrgeben / Dan das sy vns vß  goͤtlicher
+gschrifft / hat leren glauben/ tc
+In Diser lesten Schlußred/ zeigt der provincial
 klaͤrlich an / Das vns anzunemen  sy ouch one
