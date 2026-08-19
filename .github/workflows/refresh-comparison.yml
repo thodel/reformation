@@ -75,6 +75,20 @@ jobs:
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 
+      - name: Refresh similarity matrix
+        shell: bash
+        run: |
+          set -euo pipefail
+          EXTRA=""
+          if [[ "${{ inputs.force }}" == "true" ]]; then EXTRA="--force"; fi
+          python3 scripts/similarity_matrix.py $EXTRA | tee /tmp/matrix.txt
+          {
+            echo "### Ähnlichkeitsmatrix"
+            echo '```'
+            tail -20 /tmp/matrix.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
       - name: Validate repository
         run: python3 scripts/validate_repo.py
 

@@ -674,6 +674,21 @@
       .vg-body { grid-template-columns: 1fr; }
       .vg-pair { grid-template-columns: 1fr; }
     }
+
+    .vg-matrix-wrap { border: 1px solid rgba(0,0,0,0.12); border-radius: 6px; background: #fff;
+      margin-bottom: 0.9rem; padding: 0.5rem 0.8rem; }
+    .vg-matrix-wrap summary { cursor: pointer; font-weight: 700; color: #1a3a6b; font-size: 0.9rem; }
+    .vg-matrix-table { border-collapse: collapse; font-size: 0.75rem; margin-top: 0.7rem; }
+    .vg-matrix-table th { font-weight: 600; color: var(--ink-soft); padding: 0.2rem 0.35rem; text-align: right; white-space: nowrap; }
+    .vg-matrix-table th.col { writing-mode: vertical-rl; transform: rotate(180deg); text-align: left; height: 8.5rem; }
+    .vg-matrix-table td { width: 2.5rem; height: 1.9rem; text-align: center; font-variant-numeric: tabular-nums;
+      border: 1px solid #fff; cursor: pointer; color: #12233d; }
+    .vg-matrix-table td.self { background: #eee; color: #bbb; cursor: default; }
+    .vg-matrix-table td.thin { opacity: 0.45; }
+    .vg-matrix-legend { font-size: 0.78rem; color: var(--ink-soft); margin-top: 0.5rem; }
+    .vg-band { margin-bottom: 0.7rem; }
+    .vg-band svg { display: block; width: 100%; height: 34px; }
+    .vg-band-caption { font-size: 0.75rem; color: var(--ink-soft); }
   </style>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
 </head>
@@ -856,6 +871,11 @@
     <h2 class="section-title">Vergleich</h2>
     <p class="section-subtitle">Synoptischer Vergleich zweier Fassungen, Seite für Seite.</p>
 
+    <details class="vg-matrix-wrap" id="vg-matrix-wrap">
+      <summary>Ähnlichkeitsmatrix aller Fassungen</summary>
+      <div id="vg-matrix"><p class="vg-empty">Lade Matrix…</p></div>
+    </details>
+
     <div class="vg-controls">
       <label>Fassung A <select id="vg-a" onchange="onVergleichPairChange()"></select></label>
       <label>Fassung B <select id="vg-b" onchange="onVergleichPairChange()"></select></label>
@@ -866,6 +886,7 @@
     </div>
 
     <div id="vg-status" class="vg-status"></div>
+    <div id="vg-band" class="vg-band"></div>
 
     <div class="vg-body">
       <div class="vg-list-col">
@@ -1750,6 +1771,7 @@ function showSection(event, id) {
     renderGlobalSearchFilters();
   } else if (id === 'vergleich') {
     initVergleich();
+    renderSimilarityMatrix();
   }
 }
 
@@ -3070,6 +3092,7 @@ async function loadVergleichIndex() {
       document.getElementById("vg-a").value = x;
       document.getElementById("vg-b").value = y;
       renderVergleichList();
+      renderDivergenceBand(x, y);
       setVergleichStatus(
         `${data.aligned_pages} Einheiten · mittlere Wortähnlichkeit ${(data.mean_similarity * 100).toFixed(1)} %`
       );
@@ -3223,6 +3246,104 @@ async function initVergleich() {
   }
   if (!vergleichState.index) await loadVergleichIndex();
   if (params && vergleichState.index) openVergleichUnit(params.unit);
+}
+
+// ------------------------------------------------- Ähnlichkeitsmatrix (#16)
+// Aggregates only: 45 pairs in 6 KB. The per-unit bands are 98% of the data and
+// are fetched per pair, so the matrix does not wait for them.
+let similarityMatrix = null;
+
+function similarityColour(value) {
+  // One hue, varying lightness. A rainbow scale would imply categories where
+  // there is a single continuous quantity, and would not survive greyscale.
+  if (value === null || value === undefined) return "#f2f2f2";
+  const t = Math.max(0, Math.min(1, (value - 0.2) / 0.75));
+  const light = 96 - t * 55;
+  return `hsl(212, 58%, ${light}%)`;
+}
+
+function matrixLookup(a, b) {
+  if (!similarityMatrix) return null;
+  const m = similarityMatrix.matrix;
+  return (m[a] && m[a][b]) || (m[b] && m[b][a]) || null;
+}
+
+async function renderSimilarityMatrix() {
+  const host = document.getElementById("vg-matrix");
+  if (!host || host.dataset.done === "1") return;
+  try {
+    const resp = await fetch(`${COMPARISON_BASE}/similarity_matrix.json`);
+    if (!resp.ok) throw new Error(String(resp.status));
+    similarityMatrix = await resp.json();
+  } catch (e) {
+    host.innerHTML = '<p class="vg-warn">Matrix konnte nicht geladen werden.</p>';
+    return;
+  }
+  const keys = similarityMatrix.witnesses;
+  const short = (k) => witnessLabel(k).replace(/^A V /, "").replace(/^Druck,? ?/, "");
+
+  let html = '<table class="vg-matrix-table"><thead><tr><th></th>';
+  for (const k of keys) html += `<th class="col">${escapeHtml(short(k))}</th>`;
+  html += "</tr></thead><tbody>";
+  for (const a of keys) {
+    html += `<tr><th>${escapeHtml(short(a))}</th>`;
+    for (const b of keys) {
+      if (a === b) { html += '<td class="self">–</td>'; continue; }
+      const cell = matrixLookup(a, b);
+      const value = cell ? cell.similarity : null;
+      const thin = cell && !cell.confident ? " thin" : "";
+      const title = cell
+        ? `${witnessLabel(a)} ↔ ${witnessLabel(b)}: ${(value * 100).toFixed(1)} % über ${cell.aligned} Seiten`
+        : "keine Daten";
+      html += `<td class="${thin.trim()}" style="background:${similarityColour(value)}"
+        title="${escapeHtml(title)}"
+        onclick="selectVergleichPair('${escapeHtml(a)}','${escapeHtml(b)}')">${
+          value === null ? "–" : (value * 100).toFixed(0)}</td>`;
+    }
+    html += "</tr>";
+  }
+  html += "</tbody></table>";
+  html += `<p class="vg-matrix-legend">Werte in Prozent, mittlere Wortähnlichkeit über die
+    ausgerichteten Seiten. Blasse Zellen beruhen auf weniger als
+    ${similarityMatrix.min_units_for_confidence} Seiten und sind nicht belastbar.
+    Klick öffnet das Paar.</p>`;
+  host.innerHTML = html;
+  host.dataset.done = "1";
+}
+
+function selectVergleichPair(a, b) {
+  document.getElementById("vg-a").value = a;
+  document.getElementById("vg-b").value = b;
+  onVergleichPairChange();
+}
+
+async function renderDivergenceBand(a, b) {
+  const host = document.getElementById("vg-band");
+  if (!host) return;
+  host.innerHTML = "";
+  let data = null;
+  for (const [x, y] of [[a, b], [b, a]]) {
+    try {
+      const resp = await fetch(`${COMPARISON_BASE}/bands/${x}__${y}.json`);
+      if (resp.ok) { data = await resp.json(); break; }
+    } catch (e) { /* try the other order */ }
+  }
+  if (!data || !data.band.length) return;
+
+  const band = data.band;
+  const width = 1000, height = 26;
+  const step = width / band.length;
+  const bars = band.map((entry, i) => {
+    const h = Math.max(1, entry.s * height);
+    return `<rect x="${(i * step).toFixed(2)}" y="${(height - h).toFixed(2)}" ` +
+           `width="${Math.max(step, 0.6).toFixed(2)}" height="${h.toFixed(2)}" ` +
+           `fill="${similarityColour(entry.s)}"><title>S. ${entry.a} ↔ S. ${entry.b}: ` +
+           `${(entry.s * 100).toFixed(0)} %</title></rect>`;
+  }).join("");
+  host.innerHTML =
+    `<svg viewBox="0 0 ${width} ${height}" preserveAspectRatio="none" role="img"
+       aria-label="Verlauf der Ähnlichkeit über das Werk">${bars}</svg>
+     <div class="vg-band-caption">Verlauf der Ähnlichkeit vom Anfang (links) zum Ende (rechts).</div>`;
 }
 
 // Sticky nav effect.
