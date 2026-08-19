@@ -53,7 +53,7 @@ from normalize_orthography import normalize  # noqa: E402
 ROOT = Path(__file__).resolve().parents[1]
 OUT_DIR = ROOT / "data" / "comparison"
 PAGE_RE = re.compile(r"page_(\d+)\.md$")
-MAX_FINE_OPS = 200  # a pair with more differences than this is not a comparison
+MAX_FINE_SEGMENTS = 400  # a pair with more segments than this is not a comparison
 
 
 def page_texts(key: str) -> dict[int, str]:
@@ -99,7 +99,13 @@ def paragraphs(text: str) -> list[str]:
 
 
 def norm_words(text: str) -> list[str]:
-    return re.findall(r"\w+", normalize(text).normalized.lower())
+    return [normalize(w).normalized.lower() for w in re.findall(r"\w+", text)]
+
+
+def original_words(text: str) -> list[str]:
+    """Words as written. Index-aligned with norm_words, so the comparison runs
+    on normalised forms while the display keeps the original orthography."""
+    return re.findall(r"\w+", text)
 
 
 def coarse_diff(a_text: str, b_text: str) -> dict[str, Any]:
@@ -124,22 +130,37 @@ def coarse_diff(a_text: str, b_text: str) -> dict[str, Any]:
 
 
 def fine_diff(a_text: str, b_text: str) -> dict[str, Any]:
-    a_words, b_words = norm_words(a_text), norm_words(b_text)
-    matcher = difflib.SequenceMatcher(None, a_words, b_words, autojunk=False)
-    ops: list[dict[str, Any]] = []
+    """Word-level comparison.
+
+    Equal stretches are kept alongside the differing ones, so the viewer can
+    show each witness's full page with the differences marked in place. Showing
+    only the differing fragments strips away the context that makes a variant
+    legible.
+
+    Matching runs on normalised forms while the emitted text is the original
+    orthography, which is the point of the edition: `vnnd` and `unnd` must not
+    count as a variant, but the reader should still see what is on the page.
+    """
+    a_norm, b_norm = norm_words(a_text), norm_words(b_text)
+    a_orig, b_orig = original_words(a_text), original_words(b_text)
+    matcher = difflib.SequenceMatcher(None, a_norm, b_norm, autojunk=False)
+
+    segments: list[dict[str, Any]] = []
+    ops = 0
     for tag, i1, i2, j1, j2 in matcher.get_opcodes():
-        if tag == "equal":
-            continue
-        ops.append({
+        if tag != "equal":
+            ops += 1
+        segments.append({
             "op": tag,
-            "a": " ".join(a_words[i1:i2]),
-            "b": " ".join(b_words[j1:j2]),
+            "a": " ".join(a_orig[i1:i2]),
+            "b": " ".join(b_orig[j1:j2]),
         })
-    truncated = len(ops) > MAX_FINE_OPS
+    truncated = len(segments) > MAX_FINE_SEGMENTS
     return {
         "similarity": round(matcher.ratio(), 4),
-        "words": {"a": len(a_words), "b": len(b_words)},
-        "ops": ops[:MAX_FINE_OPS],
+        "words": {"a": len(a_norm), "b": len(b_norm)},
+        "segments": segments[:MAX_FINE_SEGMENTS],
+        "ops": ops,
         "truncated": truncated,
     }
 
@@ -175,8 +196,52 @@ def compare(a_key: str, b_key: str, *, threshold: float, ngram: int, df_ratio: f
     }
 
 
+def pair_dir(a_key: str, b_key: str) -> Path:
+    return OUT_DIR / f"{a_key}__{b_key}"
+
+
 def out_path(a_key: str, b_key: str) -> Path:
-    return OUT_DIR / f"{a_key}__{b_key}.json"
+    """The pair's index file."""
+    return pair_dir(a_key, b_key) / "index.json"
+
+
+def write_pair(payload: dict[str, Any]) -> tuple[int, int]:
+    """Write a light index plus one file per unit.
+
+    The viewer must not download the whole comparison to show one page: the
+    druck_1528/a_v_1447 pair is 2.7 MB while a single unit is about 3 KB. The
+    index carries only what a list needs - page numbers and scores - and each
+    unit's diff is fetched when it is opened.
+    """
+    a_key, b_key = payload["a"], payload["b"]
+    directory = pair_dir(a_key, b_key)
+    directory.mkdir(parents=True, exist_ok=True)
+
+    # Drop any units left from a previous, longer run.
+    for stale in directory.glob("unit_*.json"):
+        stale.unlink()
+
+    index_units = []
+    unit_bytes = 0
+    for unit in payload["units"]:
+        number = unit["unit"]
+        text = json.dumps(unit, ensure_ascii=False, indent=2) + "\n"
+        (directory / f"unit_{number}.json").write_text(text, encoding="utf-8")
+        unit_bytes += len(text.encode("utf-8"))
+        index_units.append({
+            "unit": number,
+            "pages": unit["pages"],
+            "alignment_score": unit["alignment_score"],
+            "similarity": unit["fine"]["similarity"],
+            "coarse_similarity": unit["coarse"]["similarity"],
+            "ops": unit["fine"]["ops"],
+        })
+
+    index = {k: v for k, v in payload.items() if k != "units"}
+    index["units"] = index_units
+    index_text = json.dumps(index, ensure_ascii=False, indent=2) + "\n"
+    (directory / "index.json").write_text(index_text, encoding="utf-8")
+    return len(index_text.encode("utf-8")), unit_bytes
 
 
 def is_stale(a_key: str, b_key: str) -> bool:
@@ -243,11 +308,10 @@ def main() -> int:
     for a_key, b_key in stale:
         payload = compare(a_key, b_key, threshold=args.threshold,
                           ngram=args.ngram, df_ratio=args.df_ratio)
-        out_path(a_key, b_key).write_text(
-            json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
-        )
+        index_bytes, unit_bytes = write_pair(payload)
         print(f"{a_key} <-> {b_key}: {payload['aligned_pages']} unit(s), "
-              f"mean word similarity {payload['mean_similarity']:.1%}")
+              f"mean word similarity {payload['mean_similarity']:.1%}, "
+              f"index {index_bytes / 1024:.0f} KB + units {unit_bytes / 1048576:.1f} MB")
     print(f"\nregenerated {len(stale)} of {len(pairs)} pair(s)")
     return 0
 

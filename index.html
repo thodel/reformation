@@ -5,10 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Berner Reformation — Digitale Edition</title>
   <script>
-    // Set base URL to repository root for consistent asset loading
-    // Extracts the repository root from current path
+    // Set base URL to repository root for consistent asset loading.
+    // On GitHub Pages the site lives under /reformation/, so the first path
+    // segment is the base. Served from a domain root there is no segment, and
+    // '/' + '' + '/' produced '//' - a protocol-relative URL that resolves to
+    // about:blank and breaks every relative fetch on the page.
     const pathParts = window.location.pathname.split('/').filter(p => p);
-    const repoRoot = '/' + (pathParts[0] || '') + '/';
+    const looksLikeFile = pathParts.length > 0 && pathParts[pathParts.length - 1].includes('.');
+    const segments = looksLikeFile ? pathParts.slice(0, -1) : pathParts;
+    const repoRoot = segments.length ? '/' + segments[0] + '/' : '/';
     document.write('<base href="' + repoRoot + '">');
   </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -620,6 +625,55 @@
     .gs-result-snippet { font-size: 0.88rem; color: var(--ink-soft); font-style: italic; line-height: 1.5; }
     .gs-progress-bar { width: 100px; height: 3px; background: rgba(26, 58, 107, 0.14); border-radius: 2px; overflow: hidden; flex-shrink: 0; }
     .gs-progress-fill { height: 100%; background: #1a3a6b; border-radius: 2px; transition: width 0.25s ease; }
+
+    /* Vergleich */
+    .source-table { width: 100%; border-collapse: collapse; font-size: 0.88rem; margin: 0.5rem 0 0.8rem; }
+    .source-table th, .source-table td { text-align: left; padding: 0.35rem 0.5rem; border-bottom: 1px solid rgba(0,0,0,0.08); }
+    .source-table th { font-weight: 700; color: #1a3a6b; border-bottom: 2px solid rgba(26,58,107,0.3); }
+    .source-table td.num, .source-table th.num { text-align: right; font-variant-numeric: tabular-nums; }
+    .source-table tbody tr:hover { background: rgba(26,58,107,0.04); }
+    .src-none { color: #999; }
+    .src-note { font-size: 0.85rem; color: var(--ink-soft); }
+
+    .vg-controls { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; margin-bottom: 0.8rem; }
+    .vg-controls label { font-size: 0.85rem; font-weight: 600; color: var(--ink-soft); }
+    .vg-controls select { font-family: var(--font-body); font-size: 0.88rem; padding: 0.3rem 0.4rem;
+      border-radius: 5px; border: 1.5px solid rgba(26,58,107,0.25); background: #fff; color: var(--ink); margin-left: 0.3rem; }
+    .vg-granularity { display: inline-flex; gap: 0.3rem; }
+    .vg-toggle { font-family: var(--font-body); font-size: 0.82rem; font-weight: 600; cursor: pointer;
+      padding: 0.3rem 0.75rem; border-radius: 999px; border: 1.5px solid rgba(26,58,107,0.3);
+      background: #fff; color: #1a3a6b; }
+    .vg-toggle.active { background: #1a3a6b; color: #fff; border-color: #1a3a6b; }
+    .vg-status { font-size: 0.85rem; color: var(--ink-soft); margin-bottom: 0.6rem; min-height: 1.2em; }
+
+    .vg-body { display: grid; grid-template-columns: minmax(200px, 260px) 1fr; gap: 1rem; align-items: start; }
+    .vg-list-col { border: 1px solid rgba(0,0,0,0.12); border-radius: 6px; background: #fff; overflow: hidden; }
+    .vg-list-head { padding: 0.5rem 0.7rem; font-size: 0.78rem; font-weight: 700; text-transform: uppercase;
+      letter-spacing: 0.05em; color: #1a3a6b; border-bottom: 1px solid rgba(0,0,0,0.1); }
+    .vg-list { list-style: none; margin: 0; padding: 0; max-height: 70vh; overflow-y: auto; }
+    .vg-list li { border-bottom: 1px solid rgba(0,0,0,0.05); }
+    .vg-list button { width: 100%; text-align: left; background: none; border: none; cursor: pointer;
+      padding: 0.45rem 0.7rem; font-family: var(--font-body); font-size: 0.84rem; color: inherit;
+      display: flex; justify-content: space-between; gap: 0.5rem; }
+    .vg-list button:hover { background: rgba(26,58,107,0.06); }
+    .vg-list button.active { background: rgba(26,58,107,0.12); font-weight: 700; }
+    .vg-sim { font-variant-numeric: tabular-nums; color: var(--ink-soft); font-size: 0.78rem; }
+
+    .vg-detail-col { border: 1px solid rgba(0,0,0,0.12); border-radius: 6px; background: #fff; padding: 0.9rem; min-height: 12rem; }
+    .vg-empty { color: var(--ink-soft); font-style: italic; }
+    .vg-pair { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+    .vg-side h4 { margin: 0 0 0.4rem; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.05em; color: #1a3a6b; }
+    .vg-text { font-size: 0.88rem; line-height: 1.65; white-space: pre-wrap; word-wrap: break-word; }
+    .vg-text ins, .vg-text del { text-decoration: none; border-radius: 2px; padding: 0 1px; }
+    .vg-text del { background: rgba(220, 80, 80, 0.22); }
+    .vg-text ins { background: rgba(80, 160, 90, 0.22); }
+    .vg-meta { font-size: 0.8rem; color: var(--ink-soft); margin-bottom: 0.7rem;
+      border-bottom: 1px solid rgba(0,0,0,0.08); padding-bottom: 0.5rem; }
+    .vg-warn { color: #a05a00; font-size: 0.8rem; }
+    @media (max-width: 900px) {
+      .vg-body { grid-template-columns: 1fr; }
+      .vg-pair { grid-template-columns: 1fr; }
+    }
   </style>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
 </head>
@@ -635,6 +689,7 @@
   <a href="#" data-section="predigten" onclick="showSection(event, 'predigten')">Predigten</a>
   <a href="#" data-section="disputation" onclick="showSection(event, 'disputation')">Disputation</a>
   <a href="#" data-section="ressourcen" onclick="showSection(event, 'ressourcen')">Ressourcen</a>
+  <a href="#" data-section="vergleich" onclick="showSection(event, 'vergleich')">Vergleich</a>
   <a href="#" data-section="suche" onclick="showSection(event, 'suche')">Suche</a>
 </nav>
 
@@ -650,11 +705,19 @@
         </ul>
         <p><em>Wählen Sie links eine Sektion aus, um zu beginnen.</em></p>
         
-        <h3>Bildquellen</h3>
-        <ul>
-          <li><strong>Predigten:</strong> <a href="https://doi.org/10.3931/e-rara-3026" target="_blank">DOI: 10.3931/e-rara-3026</a></li>
-          <li><strong>Disputation:</strong> <a href="https://doi.org/10.3931/e-rara-47098" target="_blank">DOI: 10.3931/e-rara-47098</a></li>
-        </ul>
+        <h3>Quellen der Disputation</h3>
+        <p class="src-note">Vier gedruckte Ausgaben und fünf handschriftliche Fassungen.
+        Die Digitalisate der Drucke liegen bei e-rara; die Seitenzahlen beziehen sich auf
+        den Scan, nicht auf die Paginierung der Vorlage.</p>
+        <table class="source-table">
+          <thead>
+            <tr><th>Fassung</th><th>Jahr</th><th>Überlieferung</th><th class="num">Seiten</th><th>DOI</th></tr>
+          </thead>
+          <tbody id="source-table-body"></tbody>
+        </table>
+        <p class="src-note"><strong>Predigten:</strong>
+          <a href="https://doi.org/10.3931/e-rara-3026" target="_blank" rel="noopener">10.3931/e-rara-3026</a>
+        </p>
       </div>
 
       <div class="intro">
@@ -785,6 +848,32 @@
       
       <div id="entity-list" style="margin-top: 20px;">
         <p><em>Laden...</em></p>
+      </div>
+    </div>
+  </div>
+
+  <div id="vergleich" class="section-page">
+    <h2 class="section-title">Vergleich</h2>
+    <p class="section-subtitle">Synoptischer Vergleich zweier Fassungen, Seite für Seite.</p>
+
+    <div class="vg-controls">
+      <label>Fassung A <select id="vg-a" onchange="onVergleichPairChange()"></select></label>
+      <label>Fassung B <select id="vg-b" onchange="onVergleichPairChange()"></select></label>
+      <span class="vg-granularity">
+        <button class="vg-toggle active" id="vg-mode-word" onclick="setVergleichMode('word')">Wortebene</button>
+        <button class="vg-toggle" id="vg-mode-para" onclick="setVergleichMode('para')">Absatzebene</button>
+      </span>
+    </div>
+
+    <div id="vg-status" class="vg-status"></div>
+
+    <div class="vg-body">
+      <div class="vg-list-col">
+        <div class="vg-list-head">Einheiten <span id="vg-count"></span></div>
+        <ul class="vg-list" id="vg-list"></ul>
+      </div>
+      <div class="vg-detail-col" id="vg-detail">
+        <p class="vg-empty">Wählen Sie links eine Einheit.</p>
       </div>
     </div>
   </div>
@@ -1146,6 +1235,57 @@ async function getDisputationVariantAvailability(variant) {
 
   disputationVariantAvailabilityPromises.set(variant.id, promise);
   return promise;
+}
+
+// Provenance of every witness. Library names and page counts are taken from the
+// e-rara IIIF manifests; the manuscript repository is intentionally left blank
+// where it has not been confirmed rather than guessed at.
+const WITNESS_METADATA = [
+  { key: "druck_1528",         label: "Druck, 23. März 1528",   year: "1528", kind: "Druck",
+    holding: "UB Bern",   pages: 496, doi: "10.3931/e-rara-141267", inEdition: true },
+  { key: "druck_1528_04",      label: "Druck, 23. April 1528",  year: "1528", kind: "Druck",
+    holding: "UB Bern",   pages: 570, doi: "10.3931/e-rara-127203" },
+  { key: "druck_1608_bern",    label: "Druck 1608 (Bern)",      year: "1608", kind: "Druck",
+    holding: "UB Bern",   pages: 568, doi: "10.3931/e-rara-5557" },
+  { key: "druck_1608_zuerich", label: "Druck 1608 (Zürich)",    year: "1608", kind: "Druck",
+    holding: "ZB Zürich", pages: 836, doi: "10.3931/e-rara-80702" },
+  { key: "druck_1701",         label: "Druck 1701",             year: "1701", kind: "Druck",
+    holding: "UB Bern",   pages: 672, doi: "10.3931/e-rara-47098" },
+  { key: "a_v_1447_schlussredaktion", label: "A V 1447: Schlussredaktion", year: "1528",
+    kind: "Handschrift", holding: "", pages: 755, doi: null, inEdition: true },
+  { key: "a_v_1443_hertwig",   label: "A V 1443: Hertwig",  year: "1528", kind: "Handschrift",
+    holding: "", pages: 735, doi: null, inEdition: true },
+  { key: "a_v_1444_cyro",      label: "A V 1444: Cyro",     year: "1528", kind: "Handschrift",
+    holding: "", pages: 839, doi: null, inEdition: true },
+  { key: "a_v_1445_schoeni",   label: "A V 1445: Schöni",   year: "1528", kind: "Handschrift",
+    holding: "", pages: 776, doi: null, inEdition: true },
+  { key: "a_v_1446_ruemlang",  label: "A V 1446: Rümlang",  year: "1528", kind: "Handschrift",
+    holding: "", pages: 561, doi: null, inEdition: true }
+];
+
+function witnessLabel(key) {
+  const found = WITNESS_METADATA.find((w) => w.key === key);
+  return found ? found.label : key;
+}
+
+function renderSourceTable() {
+  const body = document.getElementById("source-table-body");
+  if (!body) return;
+  body.innerHTML = WITNESS_METADATA.map((w) => {
+    const doi = w.doi
+      ? `<a href="https://doi.org/${w.doi}" target="_blank" rel="noopener">${w.doi}</a>`
+      : '<span class="src-none">—</span>';
+    const provenance = w.holding
+      ? `${escapeHtml(w.kind)}, ${escapeHtml(w.holding)}`
+      : escapeHtml(w.kind);
+    return `<tr>
+      <td>${escapeHtml(w.label)}</td>
+      <td>${escapeHtml(w.year)}</td>
+      <td>${provenance}</td>
+      <td class="num">${w.pages}</td>
+      <td>${doi}</td>
+    </tr>`;
+  }).join("");
 }
 
 const DISPUTATION_VARIANTS = [
@@ -1608,6 +1748,8 @@ function showSection(event, id) {
     updateDisputation();
   } else if (id === 'suche') {
     renderGlobalSearchFilters();
+  } else if (id === 'vergleich') {
+    initVergleich();
   }
 }
 
@@ -2867,6 +3009,222 @@ async function runGlobalSearch(query) {
   }
 }
 
+// ---------------------------------------------------------------- Vergleich
+// Comparison data is precomputed by scripts/compare_witnesses.py and split into
+// a light index plus one file per unit: the full druck_1528/a_v_1447 pair is
+// 3.7 MB while a single unit is ~3 KB, so units are fetched only when opened.
+const COMPARISON_BASE = "data/comparison";
+const vergleichState = {
+  a: "druck_1528",
+  b: "a_v_1447_schlussredaktion",
+  mode: "word",
+  index: null,
+  unit: null,
+  unitCache: new Map(),
+  token: 0
+};
+
+function vergleichPairKey(a, b) { return `${a}__${b}`; }
+
+function populateVergleichSelectors() {
+  const aSel = document.getElementById("vg-a");
+  const bSel = document.getElementById("vg-b");
+  if (!aSel || !bSel || aSel.options.length) return;
+  const options = WITNESS_METADATA
+    .map((w) => `<option value="${escapeHtml(w.key)}">${escapeHtml(w.label)}</option>`)
+    .join("");
+  aSel.innerHTML = options;
+  bSel.innerHTML = options;
+  aSel.value = vergleichState.a;
+  bSel.value = vergleichState.b;
+}
+
+function setVergleichStatus(message, isWarning) {
+  const el = document.getElementById("vg-status");
+  if (el) el.innerHTML = isWarning ? `<span class="vg-warn">${escapeHtml(message)}</span>` : escapeHtml(message);
+}
+
+async function loadVergleichIndex() {
+  const { a, b } = vergleichState;
+  const token = ++vergleichState.token;
+  vergleichState.index = null;
+  vergleichState.unit = null;
+  vergleichState.unitCache.clear();
+  document.getElementById("vg-list").innerHTML = "";
+  document.getElementById("vg-count").textContent = "";
+  document.getElementById("vg-detail").innerHTML = '<p class="vg-empty">Wählen Sie links eine Einheit.</p>';
+
+  if (a === b) { setVergleichStatus("Bitte zwei verschiedene Fassungen wählen.", true); return; }
+  setVergleichStatus("Lade Vergleichsdaten…");
+
+  // The pair may be stored in either order.
+  for (const [x, y] of [[a, b], [b, a]]) {
+    try {
+      const resp = await fetch(`${COMPARISON_BASE}/${vergleichPairKey(x, y)}/index.json`);
+      if (!resp.ok) continue;
+      const data = await resp.json();
+      if (token !== vergleichState.token) return;
+      vergleichState.index = data;
+      vergleichState.a = x;
+      vergleichState.b = y;
+      document.getElementById("vg-a").value = x;
+      document.getElementById("vg-b").value = y;
+      renderVergleichList();
+      setVergleichStatus(
+        `${data.aligned_pages} Einheiten · mittlere Wortähnlichkeit ${(data.mean_similarity * 100).toFixed(1)} %`
+      );
+      return;
+    } catch (e) { /* try the other order */ }
+  }
+  if (token !== vergleichState.token) return;
+  setVergleichStatus("Für dieses Paar liegen noch keine Vergleichsdaten vor.", true);
+}
+
+function renderVergleichList() {
+  const data = vergleichState.index;
+  const list = document.getElementById("vg-list");
+  if (!data || !list) return;
+  document.getElementById("vg-count").textContent = `(${data.units.length})`;
+  list.innerHTML = data.units.map((u) => {
+    const pa = (u.pages[vergleichState.a] || []).join(", ");
+    const pb = (u.pages[vergleichState.b] || []).join(", ");
+    const sim = vergleichState.mode === "word" ? u.similarity : u.coarse_similarity;
+    return `<li><button onclick="openVergleichUnit(${u.unit})" data-unit="${u.unit}">
+      <span>S.&nbsp;${escapeHtml(pa)} ↔ S.&nbsp;${escapeHtml(pb)}</span>
+      <span class="vg-sim">${(sim * 100).toFixed(0)}&nbsp;%</span>
+    </button></li>`;
+  }).join("");
+}
+
+async function openVergleichUnit(number) {
+  const { a, b } = vergleichState;
+  const detail = document.getElementById("vg-detail");
+  document.querySelectorAll("#vg-list button").forEach((el) => {
+    el.classList.toggle("active", Number(el.dataset.unit) === number);
+  });
+  vergleichState.unit = number;
+  updateVergleichUrl();
+
+  let unit = vergleichState.unitCache.get(number);
+  if (!unit) {
+    detail.innerHTML = '<p class="vg-empty">Lade Einheit…</p>';
+    try {
+      const resp = await fetch(`${COMPARISON_BASE}/${vergleichPairKey(a, b)}/unit_${number}.json`);
+      if (!resp.ok) throw new Error(String(resp.status));
+      unit = await resp.json();
+      vergleichState.unitCache.set(number, unit);
+    } catch (e) {
+      detail.innerHTML = '<p class="vg-warn">Einheit konnte nicht geladen werden.</p>';
+      return;
+    }
+  }
+  if (vergleichState.unit !== number) return;
+  renderVergleichUnit(unit);
+}
+
+function renderVergleichUnit(unit) {
+  const detail = document.getElementById("vg-detail");
+  const { a, b } = vergleichState;
+  const pa = (unit.pages[a] || []).join(", ");
+  const pb = (unit.pages[b] || []).join(", ");
+
+  let meta = `Einheit ${unit.unit} · ${escapeHtml(witnessLabel(a))} S.&nbsp;${escapeHtml(pa)} ` +
+             `↔ ${escapeHtml(witnessLabel(b))} S.&nbsp;${escapeHtml(pb)}`;
+  if (vergleichState.mode === "word") {
+    meta += ` · Wortähnlichkeit ${(unit.fine.similarity * 100).toFixed(0)} %`;
+    meta += ` · ${unit.fine.ops} Unterschied(e)`;
+    if (unit.fine.truncated) meta += ' · <span class="vg-warn">Darstellung gekürzt</span>';
+  } else {
+    const c = unit.coarse.counts;
+    meta += ` · Absätze ${unit.coarse.paragraphs[a] ?? "–"}/${unit.coarse.paragraphs[b] ?? "–"}` +
+            ` · gleich ${c.equal}, ersetzt ${c.replace}, nur A ${c.delete}, nur B ${c.insert}`;
+  }
+
+  const sides = vergleichState.mode === "word"
+    ? renderWordDiff(unit)
+    : renderParagraphSummary(unit);
+
+  detail.innerHTML = `<div class="vg-meta">${meta}</div><div class="vg-pair">
+      <div class="vg-side"><h4>${escapeHtml(witnessLabel(a))}</h4><div class="vg-text">${sides.a}</div></div>
+      <div class="vg-side"><h4>${escapeHtml(witnessLabel(b))}</h4><div class="vg-text">${sides.b}</div></div>
+    </div>`;
+}
+
+function renderWordDiff(unit) {
+  // Segments cover the whole page, equal stretches included, so each side is
+  // shown in full with the differences marked where they occur. The text is the
+  // original orthography; only the matching behind it was normalised.
+  let a = "", b = "";
+  for (const seg of unit.fine.segments || []) {
+    if (seg.op === "equal") {
+      if (seg.a) a += escapeHtml(seg.a) + " ";
+      if (seg.b) b += escapeHtml(seg.b) + " ";
+    } else {
+      if (seg.a) a += `<del>${escapeHtml(seg.a)}</del> `;
+      if (seg.b) b += `<ins>${escapeHtml(seg.b)}</ins> `;
+    }
+  }
+  if (!unit.fine.ops) {
+    return { a: a || "<em>—</em>", b: b || "<em>—</em>" };
+  }
+  return { a: a || "<em>—</em>", b: b || "<em>—</em>" };
+}
+
+function renderParagraphSummary(unit) {
+  const c = unit.coarse.counts;
+  const rows = [
+    ["gleich", c.equal], ["ersetzt", c.replace],
+    ["nur in A", c.delete], ["nur in B", c.insert]
+  ];
+  const table = rows.map(([k, v]) => `${escapeHtml(k)}: <strong>${v}</strong>`).join("<br>");
+  return {
+    a: `${table}<br><br>Absatzähnlichkeit ${(unit.coarse.similarity * 100).toFixed(0)} %`,
+    b: `Absätze A: ${unit.coarse.paragraphs[vergleichState.a] ?? "–"}<br>` +
+       `Absätze B: ${unit.coarse.paragraphs[vergleichState.b] ?? "–"}`
+  };
+}
+
+function setVergleichMode(mode) {
+  vergleichState.mode = mode;
+  document.getElementById("vg-mode-word").classList.toggle("active", mode === "word");
+  document.getElementById("vg-mode-para").classList.toggle("active", mode === "para");
+  renderVergleichList();
+  const unit = vergleichState.unit && vergleichState.unitCache.get(vergleichState.unit);
+  if (unit) renderVergleichUnit(unit);
+}
+
+function onVergleichPairChange() {
+  vergleichState.a = document.getElementById("vg-a").value;
+  vergleichState.b = document.getElementById("vg-b").value;
+  loadVergleichIndex();
+}
+
+function updateVergleichUrl() {
+  const { a, b, unit } = vergleichState;
+  if (!unit) return;
+  const hash = `#/vergleich/${a}__${b}/${unit}`;
+  if (window.location.hash !== hash) window.location.hash = hash;
+}
+
+function parseVergleichUrl() {
+  const match = window.location.hash.match(/^#\/vergleich\/([^/]+)__([^/]+)\/(\d+)/);
+  if (!match) return null;
+  return { a: match[1], b: match[2], unit: parseInt(match[3], 10) };
+}
+
+async function initVergleich() {
+  populateVergleichSelectors();
+  const params = parseVergleichUrl();
+  if (params) {
+    vergleichState.a = params.a;
+    vergleichState.b = params.b;
+    document.getElementById("vg-a").value = params.a;
+    document.getElementById("vg-b").value = params.b;
+  }
+  if (!vergleichState.index) await loadVergleichIndex();
+  if (params && vergleichState.index) openVergleichUnit(params.unit);
+}
+
 // Sticky nav effect.
 function updateNavElevation() {
   const nav = document.querySelector('nav');
@@ -2889,6 +3247,7 @@ function initializeDisputationVariantUi() {
 
 // Initial UI setup.
 updateNavElevation();
+renderSourceTable();
 initializeDisputationVariantUi();
 updatePredigten();
 
