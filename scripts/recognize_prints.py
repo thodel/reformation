@@ -164,21 +164,51 @@ def cmd_sample(client, witnesses, args) -> int:
                         f"seconds={elapsed:.1f} -->\n\n{text or error}\n",
                         encoding="utf-8",
                     )
-                    rows.append((witness["key"], page.page_nr, model, size, len(text), elapsed, error))
+                    rows.append((witness["key"], page.page_nr, model, size, len(text),
+                                 elapsed, error, usage))
                     print(f"  {witness['key']:20} p{page.page_nr:<4} {model:24} {size:12} "
-                          f"{len(text):5} chars {elapsed:5.1f}s {error[:40]}")
+                          f"{len(text):5} chars {elapsed:5.1f}s "
+                          f"in={usage.prompt_tokens} out={usage.output_tokens} "
+                          f"think={usage.thought_tokens} {error[:30]}")
 
     print(f"\nWrote {len(rows)} sample(s) to {out_dir.relative_to(ROOT)}")
-    summary = {}
-    for key, _page, model, size, chars, seconds, error in rows:
-        bucket = summary.setdefault((model, size), [0, 0, 0.0, 0])
-        bucket[0] += 1
-        bucket[1] += chars
-        bucket[2] += seconds
-        bucket[3] += 1 if error else 0
-    print(f"\n{'model':26} {'size':12} {'pages':>6} {'avg chars':>10} {'avg s':>7} {'errors':>7}")
-    for (model, size), (n, chars, seconds, errors) in sorted(summary.items()):
-        print(f"{model:26} {size:12} {n:6} {chars // max(n, 1):10} {seconds / max(n, 1):7.1f} {errors:7}")
+    summary: dict[tuple[str, str], dict[str, float]] = {}
+    for key, _page, model, size, chars, seconds, error, usage in rows:
+        bucket = summary.setdefault(
+            (model, size),
+            {"n": 0, "ok": 0, "chars": 0, "seconds": 0.0, "errors": 0,
+             "in": 0, "out": 0, "think": 0},
+        )
+        bucket["n"] += 1
+        bucket["seconds"] += seconds
+        if error:
+            bucket["errors"] += 1
+            continue
+        bucket["ok"] += 1
+        bucket["chars"] += chars
+        bucket["in"] += usage.prompt_tokens
+        bucket["out"] += usage.output_tokens
+        bucket["think"] += usage.thought_tokens
+
+    header = (f"\n{'model':26} {'size':12} {'ok':>4} {'err':>4} {'avg s':>7} "
+              f"{'in/pg':>8} {'out/pg':>8} {'think/pg':>9}")
+    print(header)
+    for (model, size), b in sorted(summary.items()):
+        ok = max(int(b["ok"]), 1)
+        print(f"{model:26} {size:12} {int(b['ok']):4} {int(b['errors']):4} "
+              f"{b['seconds'] / max(int(b['n']), 1):7.1f} "
+              f"{int(b['in']) // ok:8} {int(b['out']) // ok:8} {int(b['think']) // ok:9}")
+
+    # Extrapolate to the full corpus so the bill is arithmetic, not a guess.
+    remaining = sum(w.get("pages", 0) for w in witnesses)
+    print(f"\nPer-page token cost extrapolated to {remaining} pages:")
+    print(f"{'model':26} {'size':12} {'input Mtok':>11} {'output Mtok':>12} {'thinking Mtok':>14}")
+    for (model, size), b in sorted(summary.items()):
+        ok = max(int(b["ok"]), 1)
+        scale = remaining / 1_000_000
+        print(f"{model:26} {size:12} {int(b['in']) / ok * scale:11.2f} "
+              f"{int(b['out']) / ok * scale:12.2f} {int(b['think']) / ok * scale:14.2f}")
+    print("\nMultiply by the current per-Mtok price for each model to get the bill.")
     return 0
 
 

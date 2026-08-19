@@ -64,8 +64,28 @@ class GeminiUnavailable(RuntimeError):
 
 @dataclass
 class Usage:
+    """Token accounting. Cost is billed on tokens, not characters.
+
+    thought_tokens is tracked separately because reasoning models bill it and
+    it does not appear in the visible output, so an estimate built from
+    response length alone silently understates the bill.
+    """
+
     calls: int = 0
     failures: int = 0
+    prompt_tokens: int = 0
+    output_tokens: int = 0
+    thought_tokens: int = 0
+    total_tokens: int = 0
+
+    def record(self, response: Any) -> None:
+        meta = getattr(response, "usage_metadata", None)
+        if meta is None:
+            return
+        self.prompt_tokens += int(getattr(meta, "prompt_token_count", 0) or 0)
+        self.output_tokens += int(getattr(meta, "candidates_token_count", 0) or 0)
+        self.thought_tokens += int(getattr(meta, "thoughts_token_count", 0) or 0)
+        self.total_tokens += int(getattr(meta, "total_token_count", 0) or 0)
 
 
 def api_key_from_env() -> str:
@@ -150,6 +170,8 @@ def generate(
             response = client.models.generate_content(
                 model=model, contents=parts, config=config
             )
+            if usage:
+                usage.record(response)
             return strip_scaffolding(getattr(response, "text", "") or "")
         except Exception as exc:  # noqa: BLE001 - SDK raises a wide range
             last = exc

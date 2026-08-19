@@ -123,3 +123,47 @@ class TransientNetworkRetryTest(unittest.TestCase):
 class DefaultModelTest(unittest.TestCase):
     def test_default_is_not_the_model_that_404s(self):
         self.assertNotEqual(gc.DEFAULT_MODEL, "gemini-2.5-pro")
+
+
+class UsageAccountingTest(unittest.TestCase):
+    """Cost is billed on tokens, so they must be recorded, thinking included."""
+
+    class _Meta:
+        prompt_token_count = 1200
+        candidates_token_count = 400
+        thoughts_token_count = 900
+        total_token_count = 2500
+
+    class _Response:
+        usage_metadata = None
+
+    def test_records_all_token_classes(self):
+        usage = gc.Usage()
+        response = self._Response()
+        response.usage_metadata = self._Meta()
+        usage.record(response)
+        self.assertEqual(usage.prompt_tokens, 1200)
+        self.assertEqual(usage.output_tokens, 400)
+        self.assertEqual(usage.thought_tokens, 900)
+        self.assertEqual(usage.total_tokens, 2500)
+
+    def test_thinking_tokens_are_not_folded_into_output(self):
+        # They are invisible in the response text but still billed.
+        usage = gc.Usage()
+        response = self._Response()
+        response.usage_metadata = self._Meta()
+        usage.record(response)
+        self.assertNotEqual(usage.output_tokens, usage.thought_tokens)
+
+    def test_accumulates_across_calls(self):
+        usage = gc.Usage()
+        response = self._Response()
+        response.usage_metadata = self._Meta()
+        usage.record(response)
+        usage.record(response)
+        self.assertEqual(usage.prompt_tokens, 2400)
+
+    def test_response_without_usage_metadata_is_safe(self):
+        usage = gc.Usage()
+        usage.record(self._Response())
+        self.assertEqual(usage.total_tokens, 0)
