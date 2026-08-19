@@ -1,0 +1,103 @@
+name: Refresh comparison
+
+# Regenerates the witness comparison data when the underlying text changes.
+#
+# The sources are not static. Manuscript transcriptions are corrected by hand in
+# Transkribus and reach the repository through the daily sync, and recognised
+# print text may be redone with a better model. Each comparison file records a
+# fingerprint of the normalised source text it was built from, so a run whose
+# sources have not moved regenerates nothing and commits nothing.
+#
+# Runs after the Transkribus sync so a morning's corrections are reflected the
+# same day.
+on:
+  schedule:
+    - cron: "47 4 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild every pair even if the fingerprints match"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: refresh-comparison
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+      sha: ${{ steps.commit.outputs.sha }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Which pairs are stale?
+        id: check
+        shell: bash
+        run: |
+          set +e
+          python3 scripts/compare_witnesses.py --all --check | tee /tmp/stale.txt
+          echo "stale=$?" >> "$GITHUB_OUTPUT"
+          {
+            echo "### Staleness check"
+            echo '```'
+            cat /tmp/stale.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Regenerate
+        shell: bash
+        run: |
+          set -euo pipefail
+          EXTRA=""
+          if [[ "${{ inputs.force }}" == "true" ]]; then EXTRA="--force"; fi
+          python3 scripts/compare_witnesses.py --all $EXTRA | tee /tmp/regen.txt
+          {
+            echo "### Regeneration"
+            echo '```'
+            cat /tmp/regen.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Validate repository
+        run: python3 scripts/validate_repo.py
+
+      - name: Commit and push
+        id: commit
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/comparison/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "chore: refresh witness comparison data"
+          git pull --rebase --autostash
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: refresh
+    if: needs.refresh.outputs.changed == 'true'
+    uses: ./.github/workflows/pages.yml
+    with:
+      ref: ${{ needs.refresh.outputs.sha }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
