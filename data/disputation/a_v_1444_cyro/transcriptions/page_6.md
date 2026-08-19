@@ -1,21 +1,5 @@
 # Seite 6
 
-wenn
-end.)
-und
-Achet
-ands
-del
-ge-
-an
-wie
-ge-
-chs
-rante
-ußred
-und
-be-
-oder
 vacat
 ♂
 Acta Martis 7 Januarij 1528
@@ -33,14 +17,12 @@ sprochen, sampt dem gnedigen noster, und ane mora
 Darnach her berchtoldus Haller predicant
 sin vorred eroffnett, vnnd slussrede
 pf.
+volgt jnd hud  her
 von wort zwort wie zarnach
-volgt
-jnd hud  her
 fratzen vorred, volgt negleitt.
 M. Frannczen Kolber predicante
-Sei
-Bernn vorstend
 Gnad vnnd frid von gott dem zu vatter
+Sei Bernn vorstend
 vnnd vnnserm herrn Iesu Christo Annen
 Ir vßerlvellten menner vnnd bruder in
 chro, wiewoll es sich in aller weld, in men
