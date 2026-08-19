@@ -8,6 +8,7 @@ extracts line text and line coordinates, and writes a local viewer manifest.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import sys
@@ -26,6 +27,7 @@ LOGIN_URL = f"{BASE_REST_URL}/auth/login"
 FULLDOC_URL_TEMPLATE = f"{BASE_REST_URL}/collections/{{col_id}}/{{doc_id}}/fulldoc"
 OIDC_TOKEN_URL = "https://account.readcoop.eu/auth/realms/readcoop/protocol/openid-connect/token"
 DEFAULT_OIDC_CLIENT_ID = "transkribus-api-client"
+SYNC_STATE_FILENAME = "sync_state.json"
 
 VARIANT_DIR_MAP = {
     "druck-1528": "druck_1528",
@@ -73,6 +75,29 @@ def parse_args() -> argparse.Namespace:
         "--no-images",
         action="store_true",
         help="Skip image download; store external image URLs in viewer manifest instead of local paths",
+    )
+    parser.add_argument(
+        "--refresh",
+        action="store_true",
+        help=(
+            "Re-download a page's PAGE XML when Transkribus reports a newer transcript "
+            "(compared against sync_state.json). Use this for scheduled syncs: without it, "
+            "pages that already exist locally are never refetched."
+        ),
+    )
+    parser.add_argument(
+        "--allow-content-loss",
+        action="store_true",
+        help="Permit a refreshed transcript to replace existing text with empty text (default: keep the old text and warn)",
+    )
+    parser.add_argument(
+        "--max-page-loss",
+        type=float,
+        default=0.05,
+        help=(
+            "Abort a variant if Transkribus returns fewer pages than the existing manifest "
+            "by more than this fraction (default: 0.05 = 5%%). Set to 1 to disable."
+        ),
     )
     return parser.parse_args()
 
@@ -312,6 +337,75 @@ def parse_pagexml(pagexml_text: str) -> tuple[int | None, int | None, list[dict[
     return image_width, image_height, lines
 
 
+def load_sync_state(variant_dir: Path) -> dict[str, Any]:
+    """Read the per-variant record of which Transkribus transcript each page came from."""
+    state_path = variant_dir / SYNC_STATE_FILENAME
+    if not state_path.exists():
+        return {"pages": {}}
+    try:
+        payload = json.loads(state_path.read_text(encoding="utf-8"))
+    except Exception:
+        print(f"[WARN] Unreadable {state_path}; treating every page as new")
+        return {"pages": {}}
+    if not isinstance(payload.get("pages"), dict):
+        payload["pages"] = {}
+    return payload
+
+
+def transcript_fingerprint(transcript: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "ts_id": transcript.get("tsId"),
+        "timestamp": transcript.get("timestamp"),
+        "status": transcript.get("status"),
+        "md5": transcript.get("md5Sum"),
+    }
+
+
+def local_pagexml_md5(path: Path) -> str | None:
+    if not path.exists():
+        return None
+    return hashlib.md5(path.read_bytes()).hexdigest()
+
+
+def transcript_changed(recorded: Any, fingerprint: dict[str, Any], pagexml_target: Path) -> bool:
+    """True when Transkribus holds a different transcript than the one on disk.
+
+    Transkribus reports an md5 for the transcript XML that matches the downloaded
+    file byte-for-byte, so the file itself is the source of truth. The recorded
+    state is only a fast path that avoids hashing every page on every run.
+    """
+    remote_md5 = fingerprint.get("md5")
+    if remote_md5:
+        if isinstance(recorded, dict) and recorded.get("md5") == remote_md5:
+            return False
+        return local_pagexml_md5(pagexml_target) != remote_md5
+
+    # No md5 from the API: fall back to the transcript id we last stored.
+    if not isinstance(recorded, dict):
+        return True
+    return recorded.get("ts_id") != fingerprint.get("ts_id")
+
+
+def transcription_body(markdown: str) -> str:
+    """Strip the '# Seite N' heading so we can compare actual transcribed text."""
+    lines = markdown.splitlines()
+    if lines and lines[0].startswith("# Seite"):
+        lines = lines[1:]
+    return "\n".join(lines).strip()
+
+
+def existing_manifest_page_count(variant_dir: Path) -> int:
+    manifest_path = variant_dir / "viewer_manifest.json"
+    if not manifest_path.exists():
+        return 0
+    try:
+        payload = json.loads(manifest_path.read_text(encoding="utf-8"))
+    except Exception:
+        return 0
+    pages = payload.get("pages")
+    return len(pages) if isinstance(pages, list) else 0
+
+
 def write_binary(path: Path, content: bytes) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_bytes(content)
@@ -329,7 +423,10 @@ def sync_variant(
     output_root: Path,
     overwrite: bool,
     download_images: bool = True,
-) -> None:
+    refresh: bool = False,
+    allow_content_loss: bool = False,
+    max_page_loss: float = 0.05,
+) -> dict[str, int]:
     variant_dir = output_root / VARIANT_DIR_MAP[variant.variant_id]
     images_dir = variant_dir / "images"
     transcriptions_dir = variant_dir / "transcriptions"
@@ -343,24 +440,65 @@ def sync_variant(
     pages = (((document.get("pageList") or {}).get("pages")) or [])
     pages = sorted(pages, key=lambda page: int(page.get("pageNr", 0)))
 
+    # Guard: a partial/empty API response must never shrink an existing edition.
+    previous_page_count = existing_manifest_page_count(variant_dir)
+    if previous_page_count and max_page_loss < 1:
+        allowed = previous_page_count * (1 - max_page_loss)
+        if len(pages) < allowed:
+            raise RuntimeError(
+                f"{variant.variant_id}: Transkribus returned {len(pages)} pages but the existing "
+                f"manifest has {previous_page_count}. Refusing to sync (would drop "
+                f"{previous_page_count - len(pages)} pages). Re-run with --max-page-loss 1 if this "
+                "shrink is intentional."
+            )
+
+    state = load_sync_state(variant_dir)
+    recorded_pages: dict[str, Any] = state.get("pages", {})
+    new_state_pages: dict[str, Any] = {}
+    stats = {"fetched": 0, "unchanged": 0, "skipped": 0, "protected": 0}
+
     viewer_pages: list[dict[str, Any]] = []
 
     for page in pages:
         page_nr = int(page.get("pageNr", len(viewer_pages) + 1))
+        pagexml_target = pagexml_dir / f"page_{page_nr}.xml"
+        recorded = recorded_pages.get(str(page_nr))
+
         transcript = pick_latest_transcript(page, variant.status_preference)
         if transcript is None:
-            print(f"[WARN] No transcript for {variant.variant_id} page {page_nr}; skipping page")
-            continue
+            # Keep whatever we already have rather than dropping the page from the edition.
+            if pagexml_target.exists():
+                print(f"[WARN] No remote transcript for {variant.variant_id} page {page_nr}; keeping local copy")
+                if recorded is not None:
+                    new_state_pages[str(page_nr)] = recorded
+                stats["protected"] += 1
+            else:
+                print(f"[WARN] No transcript for {variant.variant_id} page {page_nr}; skipping page")
+                stats["skipped"] += 1
+                continue
+        else:
+            pagexml_url = str(transcript.get("url", "")).strip()
+            if not pagexml_url:
+                print(f"[WARN] Missing pagexml URL for {variant.variant_id} page {page_nr}; skipping page")
+                stats["skipped"] += 1
+                continue
 
-        pagexml_url = str(transcript.get("url", "")).strip()
-        if not pagexml_url:
-            print(f"[WARN] Missing pagexml URL for {variant.variant_id} page {page_nr}; skipping page")
-            continue
+            fingerprint = transcript_fingerprint(transcript)
+            needs_fetch = (
+                overwrite
+                or not pagexml_target.exists()
+                or (refresh and transcript_changed(recorded, fingerprint, pagexml_target))
+            )
 
-        pagexml_target = pagexml_dir / f"page_{page_nr}.xml"
-        if overwrite or not pagexml_target.exists():
-            pagexml_response = get_with_auth(session, auth, pagexml_url, timeout=60)
-            write_text(pagexml_target, pagexml_response.text)
+            if needs_fetch:
+                pagexml_response = get_with_auth(session, auth, pagexml_url, timeout=60)
+                write_text(pagexml_target, pagexml_response.text)
+                stats["fetched"] += 1
+            else:
+                stats["unchanged"] += 1
+
+            new_state_pages[str(page_nr)] = fingerprint
+
         pagexml_text = pagexml_target.read_text(encoding="utf-8")
 
         image_width, image_height, lines = parse_pagexml(pagexml_text)
@@ -382,7 +520,25 @@ def sync_variant(
             "\n".join(line["text"] for line in lines if line.get("text")),
         )
         transcription_rel = f"transcriptions/page_{page_nr}.md"
-        write_text(variant_dir / transcription_rel, transcription_md)
+        transcription_target = variant_dir / transcription_rel
+
+        # Never let a page that has already been transcribed fall back to an empty
+        # stub because Transkribus re-segmented it (see the pages 1-51 loss in 275dbeab).
+        write_transcription = True
+        if not allow_content_loss and transcription_target.exists():
+            existing_body = transcription_body(transcription_target.read_text(encoding="utf-8"))
+            new_body = transcription_body(transcription_md)
+            if existing_body and not new_body:
+                print(
+                    f"[WARN] {variant.variant_id} page {page_nr}: newest Transkribus transcript has no "
+                    f"text but {len(existing_body)} chars exist locally; keeping local text "
+                    "(use --allow-content-loss to override)"
+                )
+                write_transcription = False
+                stats["protected"] += 1
+
+        if write_transcription:
+            write_text(transcription_target, transcription_md)
         translation_rel = f"translations/page_{page_nr}.md"
         translation_target = variant_dir / translation_rel
 
@@ -426,6 +582,14 @@ def sync_variant(
     if not entities_path.exists():
         write_text(entities_path, json.dumps({"entities": []}, ensure_ascii=False, indent=2))
 
+    state["pages"] = new_state_pages
+    state["variant_id"] = variant.variant_id
+    state["document_id"] = variant.document_id
+    state["collection_id"] = variant.collection_id
+    write_text(variant_dir / SYNC_STATE_FILENAME, json.dumps(state, ensure_ascii=False, indent=2, sort_keys=True))
+
+    return stats
+
 
 def main() -> int:
     args = parse_args()
@@ -449,13 +613,36 @@ def main() -> int:
     if not download_images:
         print("[INFO] Image download disabled (--no-images); external URLs will be stored in viewer manifest.")
 
+    if args.refresh:
+        print("[INFO] Refresh mode: pages whose Transkribus transcript changed will be re-downloaded.")
+
+    totals = {"fetched": 0, "unchanged": 0, "skipped": 0, "protected": 0}
     for variant in variants:
         print(
             f"[INFO] Sync {variant.variant_id}: collection={variant.collection_id}, document={variant.document_id}"
         )
-        sync_variant(session, auth, variant, output_root, overwrite=args.overwrite, download_images=download_images)
+        stats = sync_variant(
+            session,
+            auth,
+            variant,
+            output_root,
+            overwrite=args.overwrite,
+            download_images=download_images,
+            refresh=args.refresh,
+            allow_content_loss=args.allow_content_loss,
+            max_page_loss=args.max_page_loss,
+        )
+        print(
+            f"[INFO]   {variant.variant_id}: {stats['fetched']} updated, {stats['unchanged']} unchanged, "
+            f"{stats['protected']} protected, {stats['skipped']} skipped"
+        )
+        for key in totals:
+            totals[key] += stats[key]
 
-    print("[INFO] Disputation sync completed")
+    print(
+        f"[INFO] Disputation sync completed: {totals['fetched']} pages updated, "
+        f"{totals['unchanged']} unchanged, {totals['protected']} protected, {totals['skipped']} skipped"
+    )
     return 0
 
 

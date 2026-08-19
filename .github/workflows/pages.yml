@@ -6,9 +6,12 @@ on:
       - main
       - master
   workflow_dispatch:
+  # Called by the Sync Transkribus workflow: a push made with GITHUB_TOKEN does not
+  # trigger workflows, so the sync job invokes this one directly.
+  workflow_call:
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
@@ -19,12 +22,6 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      TRANSKRIBUS_ACCESS_TOKEN: ${{ secrets.TRANSKRIBUS_ACCESS_TOKEN }}
-      TRANSKRIBUS_USER: ${{ secrets.TRANSKRIBUS_USER }}
-      TRANSKRIBUS_PASSWORD: ${{ secrets.TRANSKRIBUS_PASSWORD }}
-      TRANSKRIBUS_OIDC_CLIENT_ID: ${{ secrets.TRANSKRIBUS_OIDC_CLIENT_ID }}
-      DISPUTATION_TRANSKRIBUS_CONFIG: ${{ secrets.DISPUTATION_TRANSKRIBUS_CONFIG }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -33,50 +30,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
-      - name: Prepare Transkribus config (optional)
-        shell: bash
-        run: |
-          set -euo pipefail
-          if [[ -n "${DISPUTATION_TRANSKRIBUS_CONFIG:-}" ]]; then
-            mkdir -p config
-            printf '%s' "$DISPUTATION_TRANSKRIBUS_CONFIG" > config/disputation_transkribus.json
-            echo "Transkribus config written from secret."
-          else
-            echo "No DISPUTATION_TRANSKRIBUS_CONFIG secret set; using repository/default files."
-          fi
-
-      - name: Sync Disputation from Transkribus (optional)
-        shell: bash
-        run: |
-          set -euo pipefail
-          has_auth="false"
-          if [[ -n "${TRANSKRIBUS_ACCESS_TOKEN:-}" ]]; then
-            has_auth="true"
-          elif [[ -n "${TRANSKRIBUS_USER:-}" && -n "${TRANSKRIBUS_PASSWORD:-}" ]]; then
-            has_auth="true"
-          fi
-
-          if [[ "${has_auth}" == "true" && -f config/disputation_transkribus.json ]]; then
-            python -m pip install --upgrade pip
-            pip install requests
-            python3 scripts/sync_disputation_transkribus.py --config config/disputation_transkribus.json --no-images
-          else
-            echo "Skipping Transkribus sync (missing credentials or config)."
-          fi
-
-      - name: Commit synced transcriptions (if any changes)
-        shell: bash
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/disputation/ || true
-          if ! git diff --staged --quiet; then
-            git commit -m "chore: sync Transkribus transcriptions [skip ci]"
-            git push
-          else
-            echo "No changes to commit."
-          fi
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

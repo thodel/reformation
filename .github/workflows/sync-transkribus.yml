@@ -1,0 +1,139 @@
+name: Sync Transkribus
+
+# Pulls the latest transcripts from Transkribus once a day and commits any
+# changes to main. The resulting push triggers the "Deploy Pages" workflow.
+on:
+  schedule:
+    # 03:17 UTC daily (off the hour: GitHub's scheduler is busiest on the hour)
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+    inputs:
+      force_full_refresh:
+        description: "Re-download every page instead of only changed ones"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sync-transkribus
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    env:
+      TRANSKRIBUS_ACCESS_TOKEN: ${{ secrets.TRANSKRIBUS_ACCESS_TOKEN }}
+      TRANSKRIBUS_USER: ${{ secrets.TRANSKRIBUS_USER }}
+      TRANSKRIBUS_PASSWORD: ${{ secrets.TRANSKRIBUS_PASSWORD }}
+      TRANSKRIBUS_OIDC_CLIENT_ID: ${{ secrets.TRANSKRIBUS_OIDC_CLIENT_ID }}
+      DISPUTATION_TRANSKRIBUS_CONFIG: ${{ secrets.DISPUTATION_TRANSKRIBUS_CONFIG }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Prepare Transkribus config
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ -n "${DISPUTATION_TRANSKRIBUS_CONFIG:-}" ]]; then
+            mkdir -p config
+            printf '%s' "$DISPUTATION_TRANSKRIBUS_CONFIG" > config/disputation_transkribus.json
+            echo "Transkribus config written from secret."
+          else
+            echo "No DISPUTATION_TRANSKRIBUS_CONFIG secret set; using the file committed in the repository."
+          fi
+
+      - name: Check credentials are present
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ -z "${TRANSKRIBUS_ACCESS_TOKEN:-}" && ( -z "${TRANSKRIBUS_USER:-}" || -z "${TRANSKRIBUS_PASSWORD:-}" ) ]]; then
+            echo "::error::No Transkribus credentials configured. Set the TRANSKRIBUS_ACCESS_TOKEN secret, or TRANSKRIBUS_USER + TRANSKRIBUS_PASSWORD."
+            exit 1
+          fi
+          if [[ ! -f config/disputation_transkribus.json ]]; then
+            echo "::error::config/disputation_transkribus.json is missing."
+            exit 1
+          fi
+
+      - name: Sync from Transkribus
+        shell: bash
+        run: |
+          set -euo pipefail
+          EXTRA=""
+          if [[ "${{ inputs.force_full_refresh }}" == "true" ]]; then
+            EXTRA="--overwrite"
+            echo "Full refresh requested: re-downloading every page."
+          fi
+          python3 scripts/sync_disputation_transkribus.py \
+            --config config/disputation_transkribus.json \
+            --no-images \
+            --refresh \
+            $EXTRA
+
+      - name: Validate repository
+        run: python3 scripts/validate_repo.py
+
+      - name: Guard against a destructive sync
+        run: python3 scripts/check_sync_diff.py
+
+      - name: Summarise changes
+        shell: bash
+        run: |
+          {
+            echo "### Transkribus sync"
+            echo
+            if git diff --quiet -- data/disputation && [[ -z "$(git status --porcelain -- data/disputation)" ]]; then
+              echo "No changes — Transkribus matches the repository."
+            else
+              echo '```'
+              git status --porcelain -- data/disputation | head -50
+              echo '```'
+              echo
+              echo "$(git status --porcelain -- data/disputation | wc -l) changed path(s)."
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit and push
+        id: commit
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/disputation/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "chore: sync latest Transkribus transcriptions"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+  # A push made with GITHUB_TOKEN does not trigger the Deploy Pages workflow,
+  # so publish the freshly synced data by calling it directly.
+  deploy:
+    needs: sync
+    if: needs.sync.outputs.changed == 'true'
+    uses: ./.github/workflows/pages.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
