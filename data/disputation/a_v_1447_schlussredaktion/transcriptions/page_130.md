@@ -2,32 +2,32 @@
 
 Luter
 50.1
-wachssnen gleuben Dem gememen man Inzu¬
-Pagsum
-bilden, Ich cracht, er werde ergoeten, darumb
-Das Inen glauben geben werden vnnd das er
-vijter fur oendt, wie das ein Jegklicher der
-Den geist des heuren hatt, die geschrifft stede
-Wussen mog vnnd soll, will ick Inn vor¬
-sthen wo her es kumpt die wijl er doch mitt
-in wenig
-zuwendig, sonders treffenlich In der geschrifft
-geubt vnnd grossen verstand, der geschrifft hatt
-Das er sich so treffenlich zweijet, In den
-höchsten stucken des gleubens mit sinen mitt¬
-Die wyl er doch verzeten, so
-bruderen
-hoch perimpt vnnd brusen hat/.
-Vamlich
-mit dem guter vnnd mit der klengen von
-Wyttenberg, Is muß Je einer, In disom
-vall vnrecht haben, das sij sich je bed der
-gesthrifft berinnen. Oostglichen des geists
-der verstchrifft, Nun sagt der luter, Er sye der
-sachen gewusst, vnnd gruss das sin wider¬
-Parthij verfurer, siennen vnnd Zertrenner Chri¬
-sienlicher einigken vnnd wijssen das by Inen
+wachssnen glouben Dem gemeinen  man Inzuͦ //
+sagen
+bilden /  Ich eracht / er werde ergoeten, darumb
+Das Inen glauben geben werd / vnnd das er
+wyter fuͤr wendt / wie das ein Jegklicher der
+Den geist des herrn hatt / die geschrifft selbs
+Wuͤssen mag  / vnnd soll / will ich Inn vor //
+schen wo her es kumpt diewyl er doch nitt
+ein wenig
+Inwendig / sonders treffenlich In der gschrifft
+geuͤbt vnnd grossen verstand / der geschrifft hatt /
+Das er sich so treffenlich zweyet / In den
+hoͤchsten stucken des gloubens mit sinen mitt //
+Die wyl die er doch vor zyten / so
+bruderen /
+hoch geruͤmpt vnnd brisen hat /
+Namlich
+mit dem guter Luter vnnd mit der kilchen  von
+Wyttenberg /  Es muͦß Je einer / In disem
+vall vnrecht haben / das sy sich je bed der
+gschrifft beruͤmen / Desglichen des geists
+der gschrifft / Nun sagt der luter / Er sye der
+sachen gewuͤsß, vnnd wuͤß das sin wider //
+Parthy verfuͤrer  siend vnnd Zertrenner Chri //
+stenlicher einigkeit vnnd wuͤsse das by Inen
 Dhein geist des herren sie vnnd was geists
-er inen zulegt, Vamluk meister Vlrichen
-zwingkly, sampt een anderen, vnderlassen ick
-zu melden, von wegen der Christenlichen
+er inen zuͦlegt / namlich meister Vͦlrichen
+zwingly / sampt een anderen / vnderlasß ich
+zuͦ melden / von wegen der Christenlichen

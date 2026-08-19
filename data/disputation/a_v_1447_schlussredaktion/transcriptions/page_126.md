@@ -1,36 +1,36 @@
 # Seite 126
 
-Publunij
+Publicanij
 3½
 48
-vnnd einen der frombe sey van der gemeind gotes
-Wis dann be den Juden de Zeller, der Rhömer
-gehalten wurden. Das aber min her Doctor
-Dargegen gearguiert hatt, Ein solche somme ge¬
-meine konne Iraen, Dorumb sy dis ont van
-sounderten personen mit zu verstan. In dem lieben
-Christen, wo min her Doctor int wellt gloubben
-So merckende doch Ir. Das Eijssz ont. van sollicher
-gemeind lutter wortt Chryensers hern Jesu Christi
-verstanden werden muß. In welcher ein Jeder
-Christ allß bald komen, vnnd vnd so er In sicht
-sundigen, nach vergender warum, angeben moffe
-Dann Clarlich der text lutet vor verlijgen, Sundet
-aber ein Bruder ende
-Des Jarens
-halb aber, bekenn ick, vs ist kein gemeine vff erden
-wenn glich möglich war Das alle Christen vff
-dem pantzen endboden zusamen kamen, Das sy
-mit Inn villen dingen Jaren mogen d. Es wirt
-Je Ir keiner sin Im wirt gepuren Zepäten Her¬
-vergib vnns vnnser schulle, wo min sijnd Da
-auch Irthumb, Darumb ick vorgeseit hab
-Saulijs
-nach der lex paeili
+vnnd einen der froͤmbd sy von der gemeind gotes
+Wie dann by den Juden de Zoller / der Rhoͤmer
+gehallten wurden / Das aber min her Doctor
+Dargegen gearguiert hatt /  Ein soͤlche sondree ge//
+meind koͤnne Irren / Dorumb sy dis ort von
+sondrigen personen nit zuͦ verstan / In dem lieben
+Christen / wo min her Doctor nit wellt glouben
+So merckend doch Ir / Das diß ort von soͤllcher
+gemeind lutter wortt Chryeunsers hern Jesu Christi
+verstanden werden muͦß /  zuͦ welcher ein Jeder
+Christ allß bald komen / vnnd vnd den so er In sicht
+suͤndigen / nach vorgender warnung / angeben moͤge
+Dann Claͤrlich der text lutet  / vor verlaͤsen / Suͤndet
+aber din Bruͤder etc.
+Des Irrens
+halb aber / bekenn ich / es ist kein gemeind vff erden /
+wenn glich moͤglich waͤr Das alle Christen vff
+dem gantzen endboden zuͦsamen kaͤmen /  Das sy
+nit Inn viellen dingen irren mogend / Es wirt
+Je Ir keiner sin / Im wirt gepuͤren Zebäten Her
+vergib vnns vnnser schulld / wo min suͤnd Da
+ouch Irthumb /  Darumb ich vorgeseit hab /
+Paulj
+nach der ler paeili Paulj
 wie der gerecht
-In smem eifenen glauben lebt, Allso muisse
+In sinem  eignen glouben lebt / Allso muss
 er ouch sin eigen vrtheill vnnd verstands des
-wie kondt Ich sa¬
-pötlichen worts habenn
-gen / Ich glaub minem hern Doctor, wenn
-ich noch int erkant hette, was sin red were
+wie koͤndt Ich sa //
+götlichen worts habenn /
+gen / Ich glaub minem hern Doctor / wenn
+ich noch nit erkant hette / was sin red waͤre /

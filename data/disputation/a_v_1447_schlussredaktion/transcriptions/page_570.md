@@ -27,8 +27,7 @@ vmb der Presenz vnd Pfründen willen, Ouch vss
 git, Jch geschwjg die vile der Pfründen, damitt
 die wittwen hüser gefretzt sind, Nun Jst der
 git Ein ware abgoͤtterÿ, Es mag ouch hierin, de¬
-16
-hein Exempel vss der Schrift, bracht werdenn,
+hein Exempel vss der Schrift, bracht werdenn, 16
 Zum achtenden, Das das wort gottes verhindrot
 wirdt, So die Epistlen vnd Euangelien, Jn froͤmb¬
 der Sprach gesungen vnd gelaͤsen werden, darus die

@@ -3,8 +3,7 @@
 Die funfte Schlusstreden
 gemeind gottes, nitt erbuwen wirdt, welches richtig
 wider den Opruch Pauli Ist, ad Romanos, xvC ad
-Cornithios preina, capite xiiii.
-zum numem,
+Cornithios preina, capite xiiii. zum numem,
 Is wirdt ouch die danck sagung, das Bitt, verkunden
 vnd hoven des wort gottes, mitt vile der Ceremo¬
 nien verhindrot, vnd das gemyt zerstrouw, Sum.
@@ -16,6 +15,7 @@ vnd in gebottot wirdt, als waerop i warer gott,
 Oum zwolften, Das Christus zu gedichtnis
 vnd danckbarkeit jnies tods het Jugeseyt, Ommitt
 wetten Si das gluck meistren, Es Oijr Sterbende
+8v
 hochzit, froid oder leid, thure, trubsal, kranckheit
 das haben Oi alles, mitt der Nassz wetten durchin rich:
 ten, Solich, vnd der glichen missbruch, waer

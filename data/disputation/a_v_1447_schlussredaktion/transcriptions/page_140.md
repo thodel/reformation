@@ -1,30 +1,30 @@
 # Seite 140
 
 53
-die erst Schlußirend
-aber Das sollicher Spruch, van einer kiengen vnd
-van gemeinen, Concilio verstanden soll werden,
-Es ist aber mit harums von noem Das Da
-allwegen, wo einer smen nechsten erzurut vnd
-beleidiget, vnnd ob schon gleich der selb weder
-Inn noch einen pritt Ime foren welt. Das Da¬
-rumb ein gemein convenum befamlet vnnd
-gehabtten werd Harumb Inn kleinen hendlen,
-den gleuben int hefftig bercurend/ oder sust
-Dhenier anndern kechen Ist quam vijter nötig,
-Ober In hochen stucken des glaubens vnnd wo
-sich halß starck zertrenner, Christen licher eingket
-zweyert, vnnd kein einige klchen heren wellen
-Ist von nodten der gemeinen Christen bicher¬
-Kelchen In sollichen handlen vnnd schwaren louffen
-Zehanndlen Damit nit die ein gkeit der
-Christenlichen klchen Inn vill setten vnd Inn
-viel Vhoten Zertheelt vnnd Zerwent werden als
-wir den leder vor handen sochen, Es hat yez
-Martin luter, sin wittenbergesche kirchen beredt
-Ex habe den rechten waren glomben vnnd ver¬
-stand der ystchrifft
-Deß geichen alle sine
-anhenger, Im krefftensklich stat vnnd glonbenen
-geben
-Es hat meister vlruch geringken
+die erst Schlußred
+aber Das sollicher Spruch / von einer kilchen  vnd
+von gemeinen / Concilio verstanden soll werden /
+Esß ist aber mit harumb von noͤten Das Da
+allwegen /  wo einer sinen  nechsten erzuͤrnet vnd
+beleidiget / vnnd ob schon glich der selb / weder
+Inn noch einen mitt Ime foren welt / Das Da //
+rumb ein gemein concilium besamlet vnnd
+gehaltten werd / Harumb Inn kleinen hendlen /
+den glouben nit hefftig beruͤrend / oder sust
+Dheiner anndern kilchen /  Ist man wyter nötig /
+Aber In hochen stucken des gloubens vnnd wo
+sich halß starck zertrennert / Christen licher einigkeit
+zweyent / vnnd kein einige kilchen hoͤren wellen /
+Ist von noͤdten der gemeinen Christenlichen
+Kilchen In soͤllichen handlen vnnd schwaͤren louffen
+Zehanndlen /  Damit nit die einigkeit der
+Christenlichen kilchen Inn vill sekten vnd Inn
+viel Rhoten / Zertheillt vnnd Zertrent  werden als
+wir jetz leider vor handen sechen / Es hat yetz
+Martin luter / sin wittenbergesche kilchen beredt /
+Er habe den rechten waren glouben vnnd ver //
+stand der ystchrifft /
+Deß gleichen alle sine
+anhenger / Im krefftengklich stat vnnd glouben
+geben /
+Es hat meister vlrich Zwingkly

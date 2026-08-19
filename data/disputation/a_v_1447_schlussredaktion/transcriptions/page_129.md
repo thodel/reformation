@@ -1,32 +1,32 @@
 # Seite 129
 
 a
-hern Inn fragen, wo er sollichs funden het,
-Das die Christenlich kisten vnnd Concilia
-die gestgrifft, so ein mal angenemen vnd
-Alls Heilig durch den geist des hern geschri¬
-ben, widerumb hinwerffen vnnd abthun mocht
+gerrn Inn fragen / wo er soͤllichs funden het /
+Das die Christenlich kilch  vnnd Concilia
+die geschrifft / so ein mal angenomen  / vnd
+Alls heilig durch den geist des hern geschri //
+ben / widerumb hinwerffen vnnd abthun moͤcht
 troumbt
-Das ick doch acht, de gemein leren nie touwen
-sin Ich will gestheigen, Das er sollichs
-fur sich sulks fur genomen vnnd geschriben hab,
+Das ich doch acht / dheinem lerer nie touwen
+sin / Ich will geschwygen / Das er sollichs
+fuͤr sich selbs / fuͤr genomen vnnd geschriben hab /
 vnrecht
-Er wennet onch fur vnnd nit voorscht, Es
-mog die kilten durch een gest des hern
-durch welchen eerst die verschrifft geschriben
-ist werden, alle Dinge vrcheillen, Wer
-Die wijll ein jeder Christ, der Je ein Christ
-soo, ouch disen geist, habe, Namlich den
-geist des herren So mög ouch ein Jegklicher
-Christ die gsthrifft vrtheilen, vnd darzu
-die gschrifft verstan, durch den geist des
-vnnd solle niemands glauben
-Herren
-von wegen eines anndern, Imzeugen, dan
-Je alls dan, so glouet er int dem herren son¬
-ders dem, so es Im anzogt, hat, vruch
-inimand
-befrembdt aber, so Jemannes glauben soll vß
-anzoien des anndern, worumb sy die die
-widerperthij Ex sampt andern, so stats sich
-vlijssen, zu predigen, den nuwen erst ge¬
+Er wenndt ouch fuͤr vnnd nit voorscht / es
+moͤg die kilch / durch den geist des hern
+durch welchen geist die gschrifft geschriben
+ist worden /  alle Dinge vrtheillet / aber
+Diewyll ein jeder Christ / der Je ein Christ
+sye ouch disen geist habe / Namlich den
+geist des herren / So moͤg ouch ein Jegklicher
+Christ die gsthrifft vrtheilen / vnd darzuͦ
+die gschrifft verstan / durch den geist des
+vnnd soͤlle niemands glouben
+Herren /
+von wegen eines anndern / azeigen / dan
+Je alls dan / so gloubt / er / nit dem herren son /
+ders dem / so es Im anzeygt  hat / mich
+niemandt
+befroͤmbdt aber / so Jemannes glauben soll vß
+anzeig des anndern /  worumb sy die die
+widerparthy / Er / sampt andern / so staͤts sich
+vlyssen / zuͦ predigen / den nuwen erst ge¬ er //

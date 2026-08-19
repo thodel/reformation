@@ -1,6 +1,5 @@
 # Seite 573
 
-2 X
 Die funfte Ohlussredi
 lem, hat wrahe harfur getragen brot vnd win stu.
 gebenedict, vnd gesprochen, Gesegnot Sije Abraham,

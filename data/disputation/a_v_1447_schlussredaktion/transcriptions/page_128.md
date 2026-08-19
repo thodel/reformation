@@ -4,28 +4,28 @@ parle
 nicht
 liche
 49
-Nun suma Damit man die war het kuw¬
-lich singe, vnnd von dem gewallt der kilchen
-Das ist der recht glouegen, den gantz handell ist
-Der gegenwurtigen disputatz, So wolle nun her
-Doctor vff Das nechst, von dem selbigen, vnnd
-Das met der g schrifft Inred thun
+Nun suma Damit man die warheit truͤw //
+lich suche /  vnnd von dem gewallt der kilchen /
+Das ist der recht gloͤubigen / den gantz handell ist
+Der gegenwaͤrtigen disputatz / So welle nun her
+Doctor vff Das nechst, von demselbigen / vnnd
+Das mit der gschrifft Inred thuͦn /
 Doctor Cunrad treiger
-promn
-Arsamen fromen hebben Christen, vff min
-Inped. hutt durch mich besthecken, vff die
-Cantwurt. Doctor Wolffen Capito, Hart ge¬
-antwurt/ Der wolgelert martin vnter predicant
-van Strastburg vnnd ersten Dircwe ick krefftig
-klang probiert vnnd anzogt hab vss der 9 schrifft
-wider genanten Doctor Wolffen, Das die voorschrifft
-geurtheilt mog werden wiese dan biß har die
-heillen Christenlich kilch gemacheilt hatt, Das
-Dock bisshar van Inen allen samen verfureint
-vnnd fuerin frömbdes geacht ist worden vnnd
-sollichs zu verkleiben, So sagt eyartin buwer
-wie das vnnser verstand, bisschar sie gesin
-das die Christenlichen klech vande die comilia
-ett was van der voorschrifft huweg nemen vnd
-Danzio thun mogen
+promn(vincial)
+Ersamen fromen lieben Christen, vff min
+Inred / hutt durch mich beschehen / vff die
+antwurt / Doctor Wolffen Capito, Hart ge //
+antwurt/ Der wolgelert martin Bucer predicant
+von Strastburg / vnnd erstlich Diewyl  ich krefftig
+klich probiert / vnnd anzeygt hab vsß der gschrifft
+wider genanten Doctor Wolffen / Das die gschrifft
+geurtheilt moͤg werden wie sy dan bißhar die
+heillig Christenlich kilch geurtheilt  hatt / Das
+Doch bisßhar von Inen allen samen ververneint
+vnnd fuͤr ein froͤmbdes geacht ist worden  / vnnd
+sollichs zuͦ verkleiben / So sagt martin bucer /
+wie das vnnser verstand / bisßhar sey gesin
+das die Christenlichen kilch  vnd die concilia
+ettwas von der gschrifft hinweg nemen vnd
+Darzuͦ thuͦn moͤgen
 Ich wollt aber

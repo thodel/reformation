@@ -1,32 +1,32 @@
 # Seite 139
 
 pr
-aered bin, vnnd Dhenis wegs gestan, Er wuis
-ouch niemands Darbringen, woll ist war das
-In amndern punckten, bij langen/ egallstattenn,
-eigen personen gijt ende Etwan ein Conciliad
-hinweg gethan. Das das annder gesatzt vnnd
-gemacht hart. Das sy ouch guten fug vnnd
-Recht haben/ Dan Je Jun gesatzten, den glauben
-int beruren, annder zijt vnnd anndre eigenschafft
-der monstchen anndre recht ervordern, Off
-Den Dritten puncten, Da hijt min her Doctor
-furgewendt hatt, wie das sollicher wlt, Macher
-am heijn cap: verstanden soll werden, von einer
-Jegklingen einigen klagen vnnd christenlicher ge¬
-meine vnnd hatt das Martinus buier ge¬
-bessert, vnnd sagt der telt tringt vnns darzu
-Das es Is von Ehemer anndern, kilchen ver¬
-standen mog werden Dann der her der
-sagt, so er Dich Dint hort, so min einen
-oder zeven zu die vnnd so er die selben int
-horen wibl, so sags der kilchen, Harnsz
-sthenst Marti vnter Das das ein einige klech¬
-vnnd int ein gemein Concilium spe oder sin
-zu
-möge Dann Je nit allwegen moglich
-erwarten/ so einer Inn sin nechsten sunder zu
-verwintigen
-Erwarten, Eins gants Conciliums socht wan
-Joh.
-werhundert gar, mochte werden,
+abred bin / vnnd Dhenis wegs gestan / Er wirds
+ouch nuͤmmerands  mer Darbringen / woll ist war das
+In anndern punckten / by langen / mallstattenen /
+eigen personen Zyt etc.  Etwan ein Concilia
+hinweg gethan / Das das annder gesatzt vnnd
+gemacht hatt / Dasß sy ouch guͦten fuͦg vnnd
+Recht haben / Dan Je inn gesatzten / den glouben
+int beruͤren / anndre zyt vnnd anndre eigenschafft
+der moͤntschen anndre recht ervordern / Uff
+Den Dritten puncten / Da huͤt min her Doctor
+fuͤrgewendt hatt / wie das soͤllicher text / Matthei
+am xviij cap: verstanden soll werden / von einer
+Jegklingen einigen kilchen  vnnd christenlicher ge //
+meind vnnd hatt das Martinus buier ge //
+bessert / vnnd sagt der text / tringt vnns darzu
+Das es je von dheiner anndern / kilchen ver //
+standen mog werden  / Dann der her der
+sagt / so er Dich d nit hort / so nim einen
+oder zween zu dir vnnd so er die selben nit
+hoͤren will / so sags der kilchen / Haruss
+schluͤsst Marti bucer Das das / ein einige kilch
+vnndnit ein gemein Concilium sige / oder sin
+zu o
+möge / Dann Je nit allwegen  / moglich
+erwarten / so einer Inn sin nechsten suͤndt zuͦ
+gemeinen
+Erwarten / Eins gants Conciliums so et wan
+Joh /
+uͤber hundert jar, moͤchte werden /

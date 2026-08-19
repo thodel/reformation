@@ -2,30 +2,30 @@
 
 Ende
 ich
-Doctor Cunrae treiger
+Doctor Cunrad treyer
 also
-Sagt Des Erstenn der zweyen Schlußreden
-halben, so da belangene vnd betreffend. Die
+Unnd ich Sag Des Erstenn der zweyen Schlußreden
+halben / so da belangend vnd betreffend / Die
 Das
-heillig Christenlich kulch etc.
-dieselben nach lutt vnnd fernn, unnd dem
-burchstaben nach, int vnchristenlick sind, we¬
-Ir verstannd, der da Durch sy wirt furgeno¬
-men, derselbigen ist Juristen vnnd vnworhafftig
-Darmus ich den zu erlutrung benampter schens¬
-ree Diss zwo sthußred dargegen sitzen vill
-vnnd ist das nemlich die erst
-Die Heilig Christenlich Klen die Durch¬
-Den geist Ins gemachetes vnnd Spons ewengklich
-erhaelten vnnd regiert wirt. Alß sij die
-stimm. Des fronsden int hort Also ist
-Ir vnnd Irem Spous vnne gemachell Christo
-frouwe welcher Ir stimm int gehoirt
-Die minder darumb sy dann von der
-Christeneicher hend, Als Zertrenner christen¬
-licher einigket vnnd ketzer absundert vnd
-by Iren die ein Suel vnnd grundvesti ist
-Der wanheit Der höchst geweldt In sachenn
-Des glaubens zeh annelen funden wirt vnnd
-Die will aber beid getz genant Schlußred sollichs
-vernemen vnnd allein Das eenig wort gotts
+heillig Christenlich kilch etc.
+dieselben nach / lutt vnnd form / unnd dem
+burchstaben nach / nit vnchristenlich sind / aber
+Ir verstannd / der da Durch sy wirt furgeno //
+men / derselbigen ist Jrrig vnnd vnvorhafftig
+Darumb ich denn zuͦ erlutrung benampter schlusß //
+red Disß zwo schlußred dargegen sitzen will /
+vnnd ist das nemlich die erst /
+Die Heilig Christenlich Kilch die Durch
+Den geist Irs gemachels vnnd Spons ewengklich
+erhalten vnnd regiert wirt / Alß sy die
+stimm Des froͣmden nit hoͤrt / Also ist
+Ir vnnd Irem Spons  / vnne gemachell Christo
+froͤmd /  welcher Ir stimm nit gehoͤrt /
+Die ander darumb sy dann von der
+Christenlicher haͤrd / Des Zertrennte christen //
+licher einigket / vnnd ketzer aabsundert vnd
+by Iren die ein Sul vnnd grundvesti ist /
+Der wanheit Der höchst gewallt In sachenn
+Des glaubens zehandlen funden wirt  / vnnd
+Die will aber beid jetz genant Schlußred soͤllichs
+vernemen / vnnd allein Das einig wort gottes

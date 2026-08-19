@@ -1,35 +1,35 @@
 # Seite 141
 
-vnnser getrouwen lieben Eidtgrossen van Zurich
-beredt, bij Im sie der recht verstand der
-Aende haben doch
-Vnnd diswijl die bie einigen
-geschrifft,
-par dheins overkirchen, allso zertrent vnnd zertheilt sind Im
+vnnser getruͤwen lieben Eidtgnossen van Zuͤrich
+beredt / by Im sie der recht verstand der
+und haben doch
+Vnnd diewyl die beid einigen
+geschrifft /
+gar dheins wegs / kilchen / allso zertrenet vnnd zertheilet sind Im
 Dhein verstand
-Unne zu beiden theillen fur¬
-glouwen
-der voorschrifft
-wenden, sij haenie den verstand der voorschrifft
+Unne zuͦ beiden theillen fuͤr //
+glouben
+der gschrifft
+wenden / sy habind den verstand der gschrifft
 Inne wie hochgelert vnnd wie geschickt
 61
-sy beid siend, Ist mencklichem, kundt vnnd
-offen barlich soll min fur vnnd fur ein
-sollich Zertremmen vnnd vreinigkeit In vnserm
-waren glonben, erlitten werden, So werde
-wir nit allein ein glauwen, somders vier funff
-glauben, Jun vnser Christen heir haben, wie
-Dan ouch bestehechen Inn Dem vnsilgenn
-Böchemer land, die sich abgouwendt vnd ge
-sundert haben, van einigkeit der Christen,
-lichen klchen, vnnd den bij hundert Jaren,
-In ettlich schancken schicken zertheilen vnnd zer¬
-trent sind. Dormub ick abermaes soch
-gepaten vnnd ermant will haben, Ein Ersame
-gemeind Diser loblichen stat Berum, Das
-sy hoch zu hertzen vissen, Wellennd wie
-schädlich wie nachtheillig, Das sie
-sich abzusundern, von empfen der Dec
-Dartzen Christenlichen gemeinde
-vnd was Inen
+sy beid siend / Ist mencklichem / kundt vnnd
+offenbarlich / soll min fuͤr vnnd fuͤr ein
+soͤllich Zertrennung  vnnd vneinigkeit In vnserm
+waren glonben / erlitten werden / So werdent
+wir nit allein ein glouben, sonders vier fuͤnff
+glouben /  Jn vnser Christen heit haben / wie
+Dan ouch besthechen Inn Dem vnsaͤligenn
+Boͤhemer land / die sich abgewendt vnd ge //
+suͤndert haben  von einigkeit der Christen //
+lichen kilchen / vnnd jetz bij hundert Jaren /
+In ettlich scharecklich  seckten /  zertheillt vnnd zer //
+trent sind / Dorumb ich abermals uͤch hoch
+gepaͤtten vnnd ermant will haben / Ein Ersams
+gemeind Diser loblichen stat Bern / Das
+sy hoch zuͦ herzen vassen / Wellennd weil
+schädlich wie nachtheillig / Das sie
+sich abzuͦsundern / von einigkeit  der Der
+gantzen Christenlichen gemeind
+vnd was Inen /
 vers.

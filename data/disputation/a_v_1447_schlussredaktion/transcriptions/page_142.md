@@ -1,33 +1,33 @@
 # Seite 142
 
 36
-Die erst Schlusred
+Die erst Schlusßred
 54
-vrund was Inen mit der Zijt daruss, nachteill
-vnnd schad erwachssen mog. Wellend sich int
+vrund was Inen mit der Zyt darusß / nachteill
+vnnd schad erwachßsen moͤg / Wellend sich nit
 scharpf
-lassen, ein behembe, scharff listig, gestewen bewegen
-Dann Je mit gnug ist, wie marti bucer zu
-lest angoicht hat. Das wellicher allein glaubt
-Das Christus vnnser her vns salig gemacht, vnd
-erloßt hatt, Ob er glick Inn anderm Jur pienst
-Das derselbigen salp wurde Dann int gnug ist
-Das Da einer einpuncten, oder eine artigkell des
-glaubens stat vnnd glauben heb, somnders Ist
-von noeten Das er die mindern onch glaubt
-biss er von gantzer, Christenlicher Kilchen glaubt
-Dann Ceellicher Jun einem sinck, Dem herren
-mit gleuben geb. Der cracht, den hern int In
-allen stucken warhafft, Es werend ouch vill zertrennen,
-vnnd ketzer der Christenlichen einigkeit, Die
-Noch nach vrtheill der wider partche verdampt
-sind, die doch saligen waren worden, dan sy
-noch disen artigkell, glaubt haben. Ich will aber
-harinne int sagen, Das da ein gegklicher fromer
-Christ, ouch keiner wie hochgelert er sie schuldig
-vnnd pflichtig sey, alle arrepkell vnd alle stuck schafft
-zu vnd alle gschrifft Ze verstan vnnd zeglauben, vf¬
-trucklich, Es ist aber gnug den einfalligen Das
-Der glaubt mit gemeiner Christenlicher kiechenn
-Dero der heid her zugsert het smen geist biss zu
-enne der wolldt
+lassen / ein behemhaͤnd / scharff listig, geschweaͤtz bewegen /
+Dann Je nit gnuͦg ist / wie marti bucer zuͦ
+lest anzaͤigt  hat / Das wellicher allein glaubt /
+Das Christus vnnser her vns saͤlig gemacht / vnd
+erloͤßt hatt / Ob er glich Inn anderm Jrr gieng /
+Das derselbig saͤlig wurd / Dann nit gnug ist
+Das Da einer eim / puncten / oder ein / artigkell des
+glaubens / stat vnnd glauben geb / somnders Ist
+von noͤdten / Das er die andern ouch gloubt /
+bisß här er von gantzer / Christenlicher Kilchen glaubt /
+Dann wellicher Jnn einem stuͤck / Dem herren /
+nit glouben geb / Der eracht / den hern nit  In
+allen stuͤcken warhafft / Es werind ouch vill zertrennet /
+vnnd ketzer der Christenlichen einigkeit / Die
+ouch nach vrtheill der wider parthy verdampt
+sind / die doch saͤlig waͤren worden / dan sy
+ouch disen artigkell / gloubt haben / Ich will aber
+harumb nit sagen / Das da ein jegklicher fromer
+Christ / ouch keiner wie hochgelert er sie schuldig
+vnnd pflichtig sy / alle artigkell  vnd alle stuͤck schafft
+ze vnd alle gschrifft Ze verstan vnnd zeglauben / vsß //
+trucklich / Es ist aber gnuͦg dem einfaͤlltigen Das
+Der glaubt mit gemeiner Christenlicher kilchenn
+Dero der heid her zuͦgseyt hat sinen geist bisß zuͦ
+ennd der welldt

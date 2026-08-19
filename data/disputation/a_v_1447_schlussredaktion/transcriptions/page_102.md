@@ -14,32 +14,32 @@ febering
 is vor
 38
 Die erst Schlußred
-nun sollichs Durch die presidenten
-wie oblut dargechan vnnd die
+nun soͤllichs Durch die presidenten /
+wie oblut dargethan vnnd die
 so die Schlußreden Zewiderfechten vnderstanden
-sich zusamen gefugt, vnnd erlich verordnet
-haben, sollichs Jun wer aller namen ze¬
+sich zuͦsamen gefuͤgt / vnnd erlich verordnet /
+haben / sollichs Jnn ihrer aller namen ze //
 Ist bemellter Doctor
-thime
-Quuradus treiger prominck Sant ausu¬
-sins ordens hinvff zu Den Dispu¬
-kanten getretten/ vnnd h anfangs pro
-Als
-thestiert, mit lanniger ned
-er dann vernomen Das Inn bed
-predicanten van Straßburg, angezogen,
-ouch en sonderlich darumb bestkiben,
-sie er zuhegen, int von siner oberkeit
-Ochulchen vnnd Rhat der stat freybringen
-noch Bisthoffen, van Losen hergesandt
-von drentwegen zedisputeren sonders fur
-sich selbst vnnd sunst fur niemands
-vnd onch dasselbigen allein zu even tinnen
-g. hern von Dern vnd diser Disputatien
-wider die X schlußreden bereidt zefechten
-vnd etwas furgetragen, sich protestierende vnd
-bezugende, was er disputieren, vnd alda vn¬
-formpklichs handlen wurd, sollichs gepurer
+thund /
+Cuͦnradus treiger provincial  Sant augu //
+stins ordens hinuff zuͦ Den Dispu //
+tanten getretten / vnnd h anfangs pro //
+Allsß
+thestiert / mit lanniger red /
+er dann vernomen / Das Inn beid
+predicanten van Straßbuͤrg / angezogen /
+ouͦch en sonderlich darumb beschuben /
+sye er zuͦgegen / nit von siner oberkeit
+Schultheissen  vnnd Rhat der stat freyburg
+noch Bischoffen  von Losen hargesandt
+von irentwegen zedisputieren sonders fuͤr
+sich selbs / vnnd sunst fuͤr niemands /
+vnd ouch dasselbig allein zuͦ eren minnen
+g. hern von Bern vnd diser Disputation
+wider die X schlußreden / bereidt zefechten
+vnd etwas furzetragen / sich protestierende vnd
+bezuͤgende / was er disputieren / vnd alda vn //
+formgklichs handlen wurd / soͤllichs gepuret
 oberkeitt christenlicher Kilchen vnd gemeinem
-Jointio vnderworffen haben, vnd sich dieselben
-wysen lassen
+Concilio vnderworffen haben / vnd sich dieselben
+wysen lassen /

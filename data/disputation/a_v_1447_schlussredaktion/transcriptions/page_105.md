@@ -1,37 +1,37 @@
 # Seite 105
 
 21
-massuue versach anzoigt, Warinne
-zweispelt
-Cosserluch gemeint ^ versammlung In Sveijspelei¬
-Een arrigklen des gloubens sprechen soll
-Dan Ie em achter sin musz. Vff das
-nu zum hanndell, am furderlichsten, griffen
-were
-wellen wir das erst, Dis heil¬
-lig Christenlich kirch Dero einig heupt Christus
-ist har fus nemen vnnd erklaren. Nemlich
-allso Das dieselbigen ist die versammlung Im
-geist aller glaubigen allß glider eines lijbs
-velliche van Irem honet Christo vnnserm
-Herrn lebende gemacht vnnd allem geregiert
-Darmus Dan paulus spricht
-wirt
-Der geistlich monsien wirt van niemands ge¬
-richtet, er richtet aber alle Dins, Deshalb
-Diewije die gestorifft gewijsßlich von dem
-geist potes ist,
-mag kein, fusslicher Vsserlich
-him
-genomen
-vnd of
-mittell, Jarum In gelegen, Inzogen, werden dan
-diesselbige siedtmael der geist gottes, wider sich vande
-int sin mag,
-welliche ouch fruchten des
-peijss anzogt Dabej die zuckenden wollff
-erkent werden, solche dan vsschlußt die
-gemeind, an hebben gewaelt, besonnders des
-gewallts Christi
+massung  vrsach anzaͤigt / Warum die
+zweispelti
+usserlich  gemeynd  versammlung In Zveijspelei¬
+gen  artigkeln des gloubens  / sprechen soll /
+Dan je ein  richter  sin musß / Vff das
+nun zum hanndell / am furderlichsten / griffen
+werd
+wollen wir das erst / Die hei //
+lig Christenlich kirch / Dero einig houpt Christus
+ist  / har fur nemen  / vnnd erklaͤren / Nemlich
+allso Das dieselbig  ist die versammlung Im
+geist / aller gloͤubigen / allß glider eines lybs /
+Welliche von Irem houpt Christo  / vnnserm
+Herrn leaͤbendig gemacht / vnnd allein geeregiert
+Darumb Dan paulus spricht
+wirt /
+Der geistlich moͤntsch wirt von niemands ge //
+rechter /  er richtet aber alle Ding /  Deshalb
+Diewyl  die gschrifft  gewuͤsßlich von dem
+geist gotes ist /
+mag kein fuͤglicher usserlich
+hin
+genommen
+vnd für
+mittell / irrung hin In zelegen / Inzogen  werden dan
+diesselbig / sintmael der geist gottes /  wider sich selbs
+nit sin mag /
+welliche ouch fuͤrchten des
+geists anzaͤigt / Daby die zuckenden woͤllff
+erkent werden / soͤlliche dan vsschluͤßt die
+gemeind / an  allen  gewallt / besonnders des
+gewallts Christi //
 vff Das aber
-der hanneell int verduncklet verd
+der hanneell int verdunklet werd /

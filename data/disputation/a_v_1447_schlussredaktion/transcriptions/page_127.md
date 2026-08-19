@@ -1,31 +1,31 @@
 # Seite 127
 
-Darumb hatt es die gestallt, Ein jeder Christ
-musz fur sich selbes mit paulo cnussen wam
-Het plenet hette. So aber ein Christ mer
-gents hat dan der annder, so mag der hocher
-behabt mit smein vrthell Dem minder begaboten
-dienen, zu komen Inn erkantnus der warhat
-vnnd wurde sich aber Doch die sach aller christen
-vff Disvin Jamerthall Da vnser bekantnus
-stuckwerck ist? prima Chorinthiorum ijij cap
-Das se Im heuptstuck des glaubens Namlch
+Darumb hatt es die gestallt / Ein jeder Christ
+muͦsß fur sich selbs mit paulo wuͤssen waem
+er gloubt hettabe /  So aber ein Christ mer
+geists hat dan der annder / so mag der hoͤcher
+begabt mit smein vrtheill Dem minder begabten
+dienen / zuͦ komen Inn erkantnus der warheit
+vnnd wuͤrde sich aber Doch die sach / aller christen
+vff Dißem Jamerthall Da vnser beerkantnus
+stuͤckwerck ist /  prima Chorinthorum xiij cap:
+Das sy Im houptstuck des gloubens  / Namlch
 das der allmechtig durch Jesum Christum
-Iren gnedigen vatter sin will, sij ewigklich from
-vnd salien machen, int gepen, Danneben aber
-werden so Inn Vilen sincken, ouch exteren Da
-pöttlichen gsthafft on rechten verstand sin
-mogen, wil ist dann, acht Das ouch
+Iren gnediger vatter sin will / sy ewigklich from
+vnd saͤlig machen / nit irren / Darneben aber
+werden sy Inn Vilen stuckenn / ouch oͤrteren der
+göttlichen gschrifft on rechten verstand sin
+mogen /  wil e ist  ich dann / acht / das ouch
 hochgelarter
 doch
-min her Doctor, Der oncen een haer geleter
-Der 9 schrifft berumpt ist, sich int berimpt
-Das er aller uirter der Biblen naturlichen
+min her Doctor / Der oncen doch ein haer geleter hochgelerter
+Der  gschrifft beruͤmpt ist / sich nit beruͤmpt
+Das er aller oͤrter  der Biblien natuͤrlichen
 Noch
-rechten verstand erlanget hab
-Dennost wo er glonet, Das Christus Ihesus
-sin einiger Holland were, hette er nach dem
-wort Des herren Das ewig leben, vnnd
-wurden Im sine vnnd Jathumb mit den
-er sampt aundern Christen behafft, were
-endtlich undt schaden, gun Vhommen viii cap:
+rechten verstand erlanget hab /
+Dennost wo er gloubt / Das Christus Ihesus
+sin einiger Heilland waͤre / hette er nach dem
+wort Des herren Das ewig laͤben / vnnd
+wurden Im suͤnd vnnd Jrrthumb / mit den
+er sampt aundern Christen behafft / were
+endtlich nüt  schaden / zun Rhoͤmmen viii cap:

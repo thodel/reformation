@@ -1,8 +1,5 @@
 # Seite 572
 
-lvi
-pⱥma.
-14/12
 237
 Die funfte Thlusred,
 von den Opfern des alten testaments, dann die Othon
@@ -12,7 +9,6 @@ Oann wir min ein Opfer, Ein Opfrev, vnd ein altar,
 der Christus Ist, ad Febreos. xiii. bekennen, Ir
 werden ouch vergabens Jufuren, die Opruch vsch den
 Propheten, versoije amt. xviijtt. xvjc. txvj. Co:
-ƒ
 phonie am. iii. Malachie anc. i. vnd. iij. die dann
 reden, von den opfren allen christen gemein, dann
 dieselben sind unsere lib, ad Romanos. xijo. Opfer

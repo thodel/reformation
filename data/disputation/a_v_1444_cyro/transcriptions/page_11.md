@@ -1,31 +1,31 @@
 # Seite 11
 
-damit wir nun verstandind was der namen
-kilch vff im trag, wussend all gelerten, das das
-wort excworią ecclesia, griechistꝭ uff tu̍esch ein versam-
-lung heist, alls wir haben mitte 20 worumb
-hast ußgefürt, die gemeind des herren in die
-wüsti, hie sachend ir das nitt sunder
-personen sunder ein ganncze gmeind der kinder
-von Israel ein kilche genempt wirt, dahar
-die geschrifft die versammlung gutter unnd böser
-weniger vnd vylen ein kilchen nempt, olls pan
-schribt der kilchen die die ein Corintho ist
-de lo
-1. ad Cornelis.1. vnnd gebntett den sunder so
-zweimal ermandt vnnd sich nitt bessert der
-kilchen furzetragt, allso verglichet Er sy dem
-acker des gutten somens vnd vnkruts die
-Er leide heist wachsen E. biß zuͦ der zyt der
-kende deßglichen dem netze das boß vnnd
-gutt visch vachet. Allso brucht auch die
-geschrifft den name der kilchen fur die ge-
-meine versamlung aller glouligen in chro
-vnnd so zusächen sind zu dem läben, welche
-gemeind chrs verheist ze buwen, vesten vnnd
-grunden uff den hellsten der Erselbs ist
-math, es, dise kilche nempt die schrifft ein
-Duben Cant.2°. Ein gespons Joh. 3. Em lyb chij.
-ad Exhe 4. der kein runtzlen noch masen hatt
-ad Ephe 5. vnnd in vnnserm allten glauben
-ein gemeischafft Gerhelgen welches die vor-
+dani wir min pstandnd as der name
+bilich vff im trag/ wussend all gelerten das das
+wort erplasia ecliia/ grichisch aff misth ein versam/
+lung heist/ alls wir haben nune20. worumb
+hast ufürt dn gemind des Herren in die
+Husahend i das mi sunde
+peisene sunder ein gntze gmend der kinder
+d  e k
+die geschrifft die ppsamlung gutter vnnd böͤser
+waniger vnd vilen ein kilchs nempt/ alls zan
+heibt der kilchs die die eiin locntho ist
+44
+1. d Cocp: 1. vnnd deser gebutett den sunder so
+we    eet de
+kilche hinzetragt/ alle verglichet er sy dem
+be d gneten samsnd vnkruts die
+el wide heist werchse e li zu der zyt der
+de dlien dem netze das bo vnd
+gue vich vachet alle brucht ouch die
+geschifft den name der kilch hin die ge/
+meine gesamlung aller glaubige in chro
+vnnd so zugaͤchen sind zuͦ dem laͤben/ welche
+geuund chis geheist zuͦ bulck/ vnsse vnnd
+e  de z  ebs est
+die kich negt die schufft ein
+Nulin Cant. i. gin gespons zeh. z. din lyb chy
+d Epze: x. der kein runzlen noch massin hatt
+d cphe: 5. vnnd in vnnsten allten eloube
+nn gunnschafft derhelgen welches die vor//

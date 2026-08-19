@@ -1,30 +1,30 @@
 # Seite 137
 
 warmd
-Zertremungen vnnd secten machen In der
+Zertrennungen vnnd secten machen In der
 Christenheit vnnd har fur zucht, Das sollichs
-bij Inen nit funden over des Dann sy allem Christe
-Jesum predegen, vnnd sy bij Inen kein wye
-noch kein man / konn het noch ken kuecht,
-sounders siennd all eins Im herren, Herwiderum
-bij vnnser kilchen, Da werden vill rottuijen
-gefunden, Mancken geistlich vnnd weltlich
-priester vnnd leijenn mengerleij orden Bar¬
-fuser Prediger vnnd meustmer, Die auch ein
-anndern toelichen, hassen, Eracht ich, er
-Crusse es by Im selber,
-Was aber frundt
-schafft, vnnd lieben zwusthen Inenseles siend
-sowen an Ire verstrifften, So sy wider ein andern
-schreiben, derglichen doch, kein orden wider
-den anndern nie geschriben hat/ Er wellt vns
-glijck
-Noch vern zuleggen, Das schon, herchelt orden,
-Inn der Christenheit, Das die selben int
-einen Christum bekantent, nit ein Christum
-predigoten, nit In einen Christum glouetenn
-Das doch wijt von der warheit ist, wie
-geben Im ouch gar midt nach, ob wir schon
+by Inen nit funden werden  Dann sy allein Christum
+Jesum predigen / vnnd sy by Inen kein wyb
+noch kein man / kein herr noch kein knecht /
+sonders siennd all eins Im herren / Herwiderum
+by vnnser kilchen / Da werden vill rottungen
+gefunden / namlich geistlich vnnd weltlich
+priester vnnd leyenn / mengerley orden Bar //
+fuͦsßer Prediger vnnd augustiner /  Die ouch ein
+anndern toͤdlichen / hassen / Eracht ich / er
+wuͤsse es by Im selber /
+Was aber fruͤndt //
+schafft / vnnd lieby zwuͤschen Inen selbs siend /
+zeigen an Ire gschrifften / So sy wider einanderen
+schreiben / derglichen doch / kein orden wider
+den anndern nie geschriben hat / Er wellt vns
+glych
+ouch gern zuͦleggen / Das schon / glych  zertheilet  orden,
+Inn der Christenheit / Das die selben nit
+einen Christum bekantent / nit ein Christum
+predigeten / nit In einen Christum gloubtenn /
+Das doch wyt von der warheit ist / wir
+geben Im ouch gar nütt nach / ob wir schon
 all glich allsamen / Als dan die götlich
-warheit ist, Alls eins Im herren sind Das
-Doch darumb int geistlich oder wellreich sind
+warheit ist / Alls eins Im herren sind  / Das
+Doch darumb nit geistlich oder welltlich siend

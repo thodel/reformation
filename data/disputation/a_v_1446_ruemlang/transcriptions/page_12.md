@@ -3,7 +3,7 @@
 11
 Fundament der Ersten
 Bertalens Haller
-Schlußrée.
+Schlußred.
 Quod vnd frid von gott dem himelschen vatter
 Der well uns senden sin liecht vnd warheit in vnser
 herren, damitt wir all ingefürt werden, in waro erkant

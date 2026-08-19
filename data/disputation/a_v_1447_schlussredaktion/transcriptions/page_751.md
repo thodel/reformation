@@ -1,6 +1,6 @@
 # Seite 751
 
-In vermogen Ist; beschulden, vnd verdienen, Dem:
+In vermogen Ist; beschulden vnd verdienen, Dem:
 nach Oils dann ein grosse mange volcks, hie ersthi¬
 nen 1 Ea Iemand vilicht etwas vnzucht begegnet
 ware, dese doch min gnedigen herren, de hem wussen

@@ -1,37 +1,37 @@
 # Seite 125
 
-befachme
-fine
-Die ouch einandern toelich sind sind wie
-Das allem zwijsthen prediger vnnd parfustr
-Daximblieven
-Aller weelt kundt ist
-Christen Lassendt vch mit lären wortten,
-Dhem brullen vffsetzen, vnnd beßt den
-spruch paulo zum Rhomern, xvi cap: Ir
+besechend
+sind
+Die ouch einandern toͤdlich sind sind sind wie
+Das allein zwuͤschen prediger vnnd parfuͤsßer
+Darumb lieben
+Aller wellt kundt ist /
+Christen / Lassendt vͤch mit laͤren wortten /
+Dhein bruͤllen vffsetzen / vnnd beßt besechend den
+spruch pauly zum Rhoͤmern / xvi cap: Ich
 zum Dritten
-ermanen aber ende
-das von der ergermus da anzogen, bis Ich
-Das swarer engermus nit sin
-gern zu
-mag, Dann die lut vom nechten einfen
-fleuben, abweysen, Das soll sich aber by
-ons niemer mer aber by der wuijparthijt
-min zum lesten
-vilfaeltig erfinden
-Daran ouch der gantz hanndell stat, was
-durch die kilch zuuerstan sie, der man nach
-dem were Christi Der Jarenden bruder,
-vall vnnd mangell, anzogen solle, Ist Im recht
-Unne billich geantwort worden, Das solche
-Kilch ein Jede gemeinde vnnd versamenne
-Der Christenn ist, Die woll vsserlich Im fleissen
-Vor int nach dem flesten löbet, Dan sy
-Den geist Christi gatt der selbigen min soll
-man anzogen, den bruder der vber die son¬
-musschen
-dre vnnd bezugte Warheit sins Inthumbs
+ermanen aber / etc.
+das von der ergernus da anzogen / gib Ich
+Das schwaͤrer engernus nit sin
+gern / zuͦ
+mag / Dann die lut vom nechten einichen
+glouben / abwysen / Das soll sich aber by
+uns niemer mer / aber by der widerparthy
+nun zum letsten
+vilfalltig erfinden /
+Daran ouch der gantz hanndell stat / was
+durch die kilch zuͦverstan sie / der man nach
+dem wort Christi Der irrenden bruͤder /
+vaͤll vnnd maͤngell / anzoͤigen solle /  Ist Im recht
+Unnd billich geantwort worden / Das soͤlche
+Kilch ein Jede gemeind vnnd versamlung
+Der Christenn isßt / Die woll vsserlich Im fleisch
+aber  nit  nach dem fleisch laͤbet / Dan sy
+Den geist Christi hatt der selbigen nun soll
+man anzoͤigen / den bruͦder der vͤber die son //
+nung
+dre vnnd bezuͤgte Warheit nung sins Irrthumbs
 vff das in ouch
-Int hatt wollen abstan,
-die gemeine straff vnnd verwarnt vnd voor
-sy ouch verachtet In fur einen heden haelp.
+nit hatt wollen abstan,
+die gemeind straff vnnd verwarnt vnd wo er
+sy ouch verachtet In fuͤr einen heiden hallte/
