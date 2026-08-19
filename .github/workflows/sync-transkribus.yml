@@ -27,6 +27,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       changed: ${{ steps.commit.outputs.changed }}
+      sha: ${{ steps.commit.outputs.sha }}
     env:
       TRANSKRIBUS_ACCESS_TOKEN: ${{ secrets.TRANSKRIBUS_ACCESS_TOKEN }}
       TRANSKRIBUS_USER: ${{ secrets.TRANSKRIBUS_USER }}
@@ -126,6 +127,7 @@ jobs:
           git commit -m "chore: sync latest Transkribus transcriptions"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
   # A push made with GITHUB_TOKEN does not trigger the Deploy Pages workflow,
   # so publish the freshly synced data by calling it directly.
@@ -133,6 +135,9 @@ jobs:
     needs: sync
     if: needs.sync.outputs.changed == 'true'
     uses: ./.github/workflows/pages.yml
+    with:
+      # Publish the commit the sync just pushed, not the SHA this run started from.
+      ref: ${{ needs.sync.outputs.sha }}
     permissions:
       contents: read
       pages: write

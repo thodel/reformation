@@ -9,6 +9,14 @@ on:
   # Called by the Sync Transkribus workflow: a push made with GITHUB_TOKEN does not
   # trigger workflows, so the sync job invokes this one directly.
   workflow_call:
+    inputs:
+      ref:
+        description: >-
+          Commit to publish. A called workflow otherwise checks out the SHA that
+          started the run, which predates any commit the caller just pushed.
+        type: string
+        required: false
+        default: ""
 
 permissions:
   contents: read
@@ -25,6 +33,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # Empty on push/workflow_dispatch, which makes checkout use the default ref.
+          ref: ${{ inputs.ref }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
