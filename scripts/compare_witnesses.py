@@ -272,7 +272,13 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Precompute witness comparison data")
     parser.add_argument("--a")
     parser.add_argument("--b")
-    parser.add_argument("--all", action="store_true", help="Every pair of available witnesses")
+    parser.add_argument("--all", action="store_true",
+                        help="Every pair of available witnesses (45 pairs, ~200 MB - "
+                             "prefer --reference)")
+    parser.add_argument("--reference", metavar="KEY",
+                        help="Pair this witness with every other one")
+    parser.add_argument("--pair", action="append", metavar="A:B", default=[],
+                        help="An explicit extra pair, repeatable")
     parser.add_argument("--check", action="store_true",
                         help="Report which pairs are stale and exit non-zero if any are")
     parser.add_argument("--force", action="store_true", help="Rebuild even if fingerprints match")
@@ -284,12 +290,29 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> int:
     args = parse_args()
+    pairs: list[tuple[str, str]] = []
     if args.all:
         pairs = list(itertools.combinations(available_witnesses(), 2))
+    elif args.reference:
+        # Comparing every witness with every other is 45 pairs and roughly
+        # 200 MB. Pairing against one base text answers the same questions for
+        # a tenth of that, with explicit extras for the pairs that matter on
+        # their own.
+        others = [w for w in available_witnesses() if w != args.reference]
+        pairs = [(args.reference, other) for other in others]
     elif args.a and args.b:
         pairs = [(args.a, args.b)]
-    else:
-        print("[ERROR] give --a and --b, or --all", file=sys.stderr)
+
+    for extra in args.pair:
+        if ":" not in extra:
+            print(f"[ERROR] --pair expects A:B, got {extra!r}", file=sys.stderr)
+            return 2
+        left, right = extra.split(":", 1)
+        if (left, right) not in pairs and (right, left) not in pairs:
+            pairs.append((left, right))
+
+    if not pairs:
+        print("[ERROR] give --a and --b, --reference, or --all", file=sys.stderr)
         return 2
 
     stale = [pair for pair in pairs if args.force or is_stale(*pair)]

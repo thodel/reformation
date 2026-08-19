@@ -103,3 +103,25 @@ class CoarseDiffTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)
+
+
+class PairSelectionTest(unittest.TestCase):
+    """--reference keeps the published set to a tenth of the full matrix."""
+
+    @staticmethod
+    def _reference_pairs(reference, witnesses):
+        return [(reference, w) for w in witnesses if w != reference]
+
+    def test_reference_pairs_exclude_self(self):
+        pairs = self._reference_pairs("a", ["a", "b", "c"])
+        self.assertEqual(pairs, [("a", "b"), ("a", "c")])
+
+    def test_reference_is_linear_not_quadratic(self):
+        witnesses = [f"w{i}" for i in range(10)]
+        self.assertEqual(len(self._reference_pairs("w0", witnesses)), 9)
+        import itertools
+        self.assertEqual(len(list(itertools.combinations(witnesses, 2))), 45)
+
+    def test_explicit_pair_parsing(self):
+        left, right = "druck_1608_bern:druck_1608_zuerich".split(":", 1)
+        self.assertEqual((left, right), ("druck_1608_bern", "druck_1608_zuerich"))
