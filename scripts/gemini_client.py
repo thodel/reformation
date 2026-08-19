@@ -27,8 +27,11 @@ except ModuleNotFoundError:  # pragma: no cover - exercised only without the SDK
     genai = None
     types = None
 
-# Overridable per call; confirm against `--list-models` before changing.
-DEFAULT_MODEL = "gemini-2.5-pro"
+# Confirmed callable against this project's key on 2026-08-19 via --list-models
+# AND an actual generate call. models.list() is not sufficient on its own:
+# gemini-2.5-pro is listed but returns 404 NOT_FOUND for generateContent, so a
+# default taken from the listing alone would fail every page of a full run.
+DEFAULT_MODEL = "gemini-3.1-pro-preview"
 
 ENV_KEYS = ("GEMINI_API_KEY", "GOOGLE_API_KEY")
 
@@ -44,7 +47,15 @@ PREAMBLE_RE = re.compile(rf"^\s*(?:{_OPENER})?{_ANNOUNCE}\b.*$", re.IGNORECASE)
 FENCE_RE = re.compile(r"^\s*```[a-zA-Z]*\s*$")
 LABEL_RE = re.compile(r"^\s*(?:text|original|transkription|übersetzung)\s*:\s*$", re.IGNORECASE)
 
-RETRYABLE = ("429", "500", "502", "503", "504", "deadline", "timeout", "unavailable", "overloaded")
+RETRYABLE = (
+    "429", "500", "502", "503", "504",
+    "deadline", "timeout", "unavailable", "overloaded",
+    # Long image requests get dropped mid-flight; observed as
+    # "RemoteProtocolError: Server disconnected" after ~257s on 2 of 16 sample
+    # pages. These are transient and must be retried, not surfaced as failures.
+    "disconnect", "connection reset", "connection aborted", "protocolerror",
+    "incompleteread", "incomplete read", "broken pipe", "eof occurred",
+)
 
 
 class GeminiUnavailable(RuntimeError):
@@ -53,8 +64,28 @@ class GeminiUnavailable(RuntimeError):
 
 @dataclass
 class Usage:
+    """Token accounting. Cost is billed on tokens, not characters.
+
+    thought_tokens is tracked separately because reasoning models bill it and
+    it does not appear in the visible output, so an estimate built from
+    response length alone silently understates the bill.
+    """
+
     calls: int = 0
     failures: int = 0
+    prompt_tokens: int = 0
+    output_tokens: int = 0
+    thought_tokens: int = 0
+    total_tokens: int = 0
+
+    def record(self, response: Any) -> None:
+        meta = getattr(response, "usage_metadata", None)
+        if meta is None:
+            return
+        self.prompt_tokens += int(getattr(meta, "prompt_token_count", 0) or 0)
+        self.output_tokens += int(getattr(meta, "candidates_token_count", 0) or 0)
+        self.thought_tokens += int(getattr(meta, "thoughts_token_count", 0) or 0)
+        self.total_tokens += int(getattr(meta, "total_token_count", 0) or 0)
 
 
 def api_key_from_env() -> str:
@@ -113,6 +144,24 @@ def is_retryable(exc: Exception) -> bool:
     return any(token in message for token in RETRYABLE)
 
 
+def thinking_config(budget: int | None, level: str | None) -> Any:
+    """Build a ThinkingConfig, or None to leave the model's default alone.
+
+    Transcribing a page image is perception, not reasoning, yet the pro model
+    spends roughly ten thinking tokens per token of text it emits. Since
+    thinking is billed and invisible, capping it is the single largest cost
+    lever available here.
+    """
+    if types is None or (budget is None and not level):
+        return None
+    kwargs: dict[str, Any] = {}
+    if budget is not None:
+        kwargs["thinking_budget"] = budget
+    if level:
+        kwargs["thinking_level"] = getattr(types.ThinkingLevel, level.upper(), None)
+    return types.ThinkingConfig(**{k: v for k, v in kwargs.items() if v is not None})
+
+
 def generate(
     client: Any,
     *,
@@ -122,6 +171,8 @@ def generate(
     temperature: float = 0.0,
     max_retries: int = 4,
     usage: Usage | None = None,
+    budget: int | None = None,
+    level: str | None = None,
 ) -> str:
     """Call the model, retrying transient failures, and return cleaned text."""
     config = None
@@ -129,6 +180,7 @@ def generate(
         config = types.GenerateContentConfig(
             temperature=temperature,
             system_instruction=system_instruction,
+            thinking_config=thinking_config(budget, level),
         )
 
     last: Exception | None = None
@@ -139,6 +191,8 @@ def generate(
             response = client.models.generate_content(
                 model=model, contents=parts, config=config
             )
+            if usage:
+                usage.record(response)
             return strip_scaffolding(getattr(response, "text", "") or "")
         except Exception as exc:  # noqa: BLE001 - SDK raises a wide range
             last = exc

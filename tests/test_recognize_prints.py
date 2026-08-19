@@ -96,3 +96,105 @@ class ManifestParsingTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)
+
+
+class TransientNetworkRetryTest(unittest.TestCase):
+    """Failures observed in the 2026-08-19 sample run that must be retried.
+
+    Two of sixteen pro-preview pages died with "RemoteProtocolError: Server
+    disconnected" after ~257s. The original token list did not match that, so
+    the page was abandoned on the first attempt instead of retried.
+    """
+
+    def test_server_disconnect_is_retryable(self):
+        self.assertTrue(gc.is_retryable(Exception("RemoteProtocolError: Server disconnected")))
+
+    def test_other_transport_faults_are_retryable(self):
+        for message in ["Connection reset by peer", "Connection aborted",
+                        "IncompleteRead(0 bytes read)", "Broken pipe"]:
+            self.assertTrue(gc.is_retryable(Exception(message)), message)
+
+    def test_auth_and_missing_model_are_still_not_retryable(self):
+        # gemini-2.5-pro returns this; retrying it would waste the whole run.
+        self.assertFalse(gc.is_retryable(Exception("404 NOT_FOUND model not found")))
+        self.assertFalse(gc.is_retryable(Exception("401 Unauthorized")))
+
+
+class DefaultModelTest(unittest.TestCase):
+    def test_default_is_not_the_model_that_404s(self):
+        self.assertNotEqual(gc.DEFAULT_MODEL, "gemini-2.5-pro")
+
+
+class UsageAccountingTest(unittest.TestCase):
+    """Cost is billed on tokens, so they must be recorded, thinking included."""
+
+    class _Meta:
+        prompt_token_count = 1200
+        candidates_token_count = 400
+        thoughts_token_count = 900
+        total_token_count = 2500
+
+    class _Response:
+        usage_metadata = None
+
+    def test_records_all_token_classes(self):
+        usage = gc.Usage()
+        response = self._Response()
+        response.usage_metadata = self._Meta()
+        usage.record(response)
+        self.assertEqual(usage.prompt_tokens, 1200)
+        self.assertEqual(usage.output_tokens, 400)
+        self.assertEqual(usage.thought_tokens, 900)
+        self.assertEqual(usage.total_tokens, 2500)
+
+    def test_thinking_tokens_are_not_folded_into_output(self):
+        # They are invisible in the response text but still billed.
+        usage = gc.Usage()
+        response = self._Response()
+        response.usage_metadata = self._Meta()
+        usage.record(response)
+        self.assertNotEqual(usage.output_tokens, usage.thought_tokens)
+
+    def test_accumulates_across_calls(self):
+        usage = gc.Usage()
+        response = self._Response()
+        response.usage_metadata = self._Meta()
+        usage.record(response)
+        usage.record(response)
+        self.assertEqual(usage.prompt_tokens, 2400)
+
+    def test_response_without_usage_metadata_is_safe(self):
+        usage = gc.Usage()
+        usage.record(self._Response())
+        self.assertEqual(usage.total_tokens, 0)
+
+
+class ThinkingBudgetTest(unittest.TestCase):
+    """Thinking is ~74% of the pro model's tokens, so capping it is the main lever."""
+
+    def test_empty_means_leave_the_model_default_alone(self):
+        from recognize_prints import parse_budgets
+        self.assertEqual(parse_budgets(""), [None])
+
+    def test_default_keyword_maps_to_none(self):
+        from recognize_prints import parse_budgets
+        self.assertEqual(parse_budgets("default,0,512"), [None, 0, 512])
+
+    def test_zero_is_preserved_and_not_confused_with_unset(self):
+        # 0 disables thinking; None leaves the default. They must not collapse.
+        from recognize_prints import parse_budgets
+        budgets = parse_budgets("0")
+        self.assertEqual(budgets, [0])
+        self.assertIsNotNone(budgets[0])
+
+    def test_no_config_when_nothing_requested(self):
+        self.assertIsNone(gc.thinking_config(None, None))
+
+    def test_budget_zero_produces_a_config(self):
+        config = gc.thinking_config(0, None)
+        self.assertIsNotNone(config)
+        self.assertEqual(config.thinking_budget, 0)
+
+    def test_level_is_accepted(self):
+        config = gc.thinking_config(None, "LOW")
+        self.assertIsNotNone(config)
