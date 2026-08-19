@@ -18,6 +18,10 @@ on:
         description: "IIIF sizes, separated by ';'"
         type: string
         default: "!1500,1500;!2500,2500"
+      budgets:
+        description: "Thinking budgets for the sample, e.g. 'default,0,512'"
+        type: string
+        default: ""
       list_models_only:
         description: "Only list callable models, recognise nothing"
         type: boolean
@@ -67,7 +71,8 @@ jobs:
           python3 scripts/recognize_prints.py \
             --sample "${{ inputs.pages }}" \
             --models "${{ inputs.models }}" \
-            --sizes "${{ inputs.sizes }}" | tee /tmp/sample.txt
+            --sizes "${{ inputs.sizes }}" \
+            --budgets "${{ inputs.budgets }}" | tee /tmp/sample.txt
           {
             echo "### Sample run"
             echo '```'
