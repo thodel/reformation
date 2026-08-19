@@ -28,6 +28,9 @@ FULLDOC_URL_TEMPLATE = f"{BASE_REST_URL}/collections/{{col_id}}/{{doc_id}}/fulld
 OIDC_TOKEN_URL = "https://account.readcoop.eu/auth/realms/readcoop/protocol/openid-connect/token"
 DEFAULT_OIDC_CLIENT_ID = "transkribus-api-client"
 SYNC_STATE_FILENAME = "sync_state.json"
+# Transkribus statuses, most authoritative first. Used when a variant does not
+# set its own status_preference.
+DEFAULT_STATUS_PREFERENCE = ["GT", "FINAL", "DONE", "IN_PROGRESS", "NEW"]
 
 VARIANT_DIR_MAP = {
     "druck-1528": "druck_1528",
@@ -250,21 +253,49 @@ def get_with_auth(session: requests.Session, auth: AuthContext, url: str, timeou
     return response
 
 
+def status_rank(status: str, preference: list[str]) -> int:
+    """Rank a transcript status; higher is more authoritative.
+
+    Statuses outside the preference list rank below every listed one, so an
+    unfamiliar status never outranks a reviewed transcript.
+    """
+    try:
+        return len(preference) - preference.index(str(status).upper())
+    except ValueError:
+        return -1
+
+
 def pick_latest_transcript(page: dict[str, Any], status_preference: list[str]) -> dict[str, Any] | None:
+    """Choose the transcript that best represents the current state of a page.
+
+    Ordered by editorial status first, then recency. Picking purely by
+    timestamp is wrong whenever a later step reduces the editorial state of a
+    page - a re-segmentation writes a fresh NEW transcript with no text, and an
+    automatic HTR pass can land after a human correction. Neither should
+    supersede reviewed work just for being newer.
+
+    Transcripts that carry no transcribed line are only considered when a page
+    has nothing else, so an empty re-segmentation cannot blank a page.
+    """
     transcripts = (((page.get("tsList") or {}).get("transcripts")) or [])
     if not transcripts:
         return None
 
-    preference = [s.upper() for s in status_preference]
-    if preference:
-        preferred = [
-            ts for ts in transcripts
-            if str(ts.get("status", "")).upper() in preference
-        ]
-        if preferred:
-            return max(preferred, key=lambda ts: int(ts.get("timestamp", 0)))
+    preference = [str(s).upper() for s in status_preference] or DEFAULT_STATUS_PREFERENCE
 
-    return max(transcripts, key=lambda ts: int(ts.get("timestamp", 0)))
+    with_text = [
+        ts for ts in transcripts
+        if int(ts.get("nrOfTranscribedLines") or 0) > 0
+    ]
+    candidates = with_text or transcripts
+
+    return max(
+        candidates,
+        key=lambda ts: (
+            status_rank(ts.get("status", ""), preference),
+            int(ts.get("timestamp", 0)),
+        ),
+    )
 
 
 def parse_points(points_text: str) -> list[list[float]]:

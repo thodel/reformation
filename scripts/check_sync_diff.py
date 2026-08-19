@@ -7,7 +7,16 @@ HEAD and fails when the sync looks destructive rather than incremental:
 
   * tracked files under data/disputation were deleted
   * a variant lost pages from its viewer manifest
-  * transcribed text shrank by more than an allowed fraction
+  * a page that held real text was emptied (the re-segmentation wipe that cost
+    pages 1-51 in 275dbeab)
+  * a variant lost more than a fraction of ALL its transcribed text
+
+The job is to stop automated mass destruction, not to referee editorial
+judgement. Transcribers legitimately shorten a page - removing over-segmented
+lines or junk regions - so a single page losing text is reported and allowed.
+Loss is therefore measured against the variant's entire transcribed corpus,
+not just the pages this sync happened to touch: otherwise one hand-corrected
+page trips the threshold and the daily job stays red forever.
 
 Exit codes: 0 = safe to commit, 1 = refused, 2 = usage/environment error.
 """
@@ -32,8 +41,20 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--max-text-loss",
         type=float,
-        default=0.02,
-        help="Maximum fraction of transcribed characters a variant may lose (default: 0.02 = 2%%)",
+        default=0.15,
+        help=(
+            "Maximum fraction of a variant's TOTAL transcribed characters that may "
+            "disappear in one sync (default: 0.15 = 15%%)"
+        ),
+    )
+    parser.add_argument(
+        "--emptied-page-chars",
+        type=int,
+        default=100,
+        help=(
+            "A page that held at least this many characters and is now empty counts "
+            "as a wipe and blocks the commit (default: 100)"
+        ),
     )
     parser.add_argument(
         "--base",
@@ -74,6 +95,65 @@ def blob_at(base: str, path: str) -> str | None:
     if result.returncode != 0:
         return None
     return result.stdout
+
+
+def page_number(path: str) -> int:
+    match = re.search(r"page_(\d+)\.md$", path)
+    return int(match.group(1)) if match else 0
+
+
+_CORPUS_CACHE: dict[tuple[str, str], int] = {}
+
+
+def variant_corpus_size(base: str, variant: str) -> int:
+    """Total transcribed characters the variant held at `base`.
+
+    Reads every blob through a single `git cat-file --batch` process; spawning
+    one `git show` per page costs hundreds of subprocesses per variant and
+    makes the guard slower than the sync it protects.
+    """
+    key = (base, variant)
+    if key in _CORPUS_CACHE:
+        return _CORPUS_CACHE[key]
+
+    listing = git("ls-tree", "-r", base, "--", f"{DATA_PREFIX}/{variant}/transcriptions/")
+    blobs: list[str] = []
+    for line in listing.splitlines():
+        meta, _, path = line.partition("\t")
+        if not TRANSCRIPTION_RE.match(path.strip().strip('"')):
+            continue
+        parts = meta.split()
+        if len(parts) >= 3:
+            blobs.append(parts[2])
+
+    total = 0
+    if blobs:
+        # Byte mode is required: git reports the blob size in bytes, and these
+        # transcriptions carry multibyte characters, so slicing a decoded str
+        # by that size silently misreads the stream.
+        result = subprocess.run(
+            ["git", "cat-file", "--batch"],
+            cwd=ROOT,
+            input=("\n".join(blobs) + "\n").encode("ascii"),
+            capture_output=True,
+            check=False,
+        )
+        stream = result.stdout
+        pos = 0
+        for _ in blobs:
+            header_end = stream.find(b"\n", pos)
+            if header_end == -1:
+                break
+            header = stream[pos:header_end].split()
+            if len(header) < 3:
+                break
+            size = int(header[2])
+            body = stream[header_end + 1 : header_end + 1 + size]
+            total += len(transcription_body(body.decode("utf-8", errors="replace")))
+            pos = header_end + 1 + size + 1  # trailing newline after the blob
+
+    _CORPUS_CACHE[key] = total
+    return total
 
 
 def transcription_body(markdown: str) -> str:
@@ -120,8 +200,10 @@ def main() -> int:
         elif after_n > before_n:
             notes.append(f"{path}: page count grew {before_n} -> {after_n}")
 
-    # Transcribed text must not shrink materially, per variant.
+    # Transcribed text must not shrink materially, measured per variant against
+    # everything that variant holds -- not just the pages this sync touched.
     per_variant: dict[str, list[int]] = {}
+    emptied: dict[str, list[int]] = {}
     for status, path in entries:
         match = TRANSCRIPTION_RE.match(path)
         if not match:
@@ -136,23 +218,31 @@ def main() -> int:
         totals[1] += after_len
         totals[2] += 1
 
+        # A page that held real text and is now blank is the wipe signature.
+        if before_len >= args.emptied_page_chars and after_len == 0:
+            emptied.setdefault(variant, []).append(page_number(path))
+
+    for variant, page_numbers in sorted(emptied.items()):
+        preview = ", ".join(str(n) for n in sorted(page_numbers)[:8])
+        errors.append(
+            f"{variant}: {len(page_numbers)} page(s) that held text are now empty "
+            f"(pages {preview})"
+        )
+
     for variant, (before_len, after_len, n_files) in sorted(per_variant.items()):
         delta = after_len - before_len
-        if before_len > 0 and delta < 0:
-            fraction = -delta / before_len
-            message = (
-                f"{variant}: {n_files} changed page(s), transcribed text "
-                f"{before_len} -> {after_len} chars ({delta:+d}, -{fraction:.1%})"
-            )
+        corpus = variant_corpus_size(args.base, variant)
+        summary = (
+            f"{variant}: {n_files} changed page(s), transcribed text "
+            f"{before_len} -> {after_len} chars ({delta:+d})"
+        )
+        if delta < 0 and corpus > 0:
+            fraction = -delta / corpus
+            summary += f", {fraction:.1%} of the variant's {corpus} chars"
             if fraction > args.max_text_loss:
-                errors.append(message + f" exceeds the {args.max_text_loss:.1%} limit")
-            else:
-                notes.append(message)
-        else:
-            notes.append(
-                f"{variant}: {n_files} changed page(s), transcribed text "
-                f"{before_len} -> {after_len} chars ({delta:+d})"
-            )
+                errors.append(summary + f" exceeds the {args.max_text_loss:.1%} limit")
+                continue
+        notes.append(summary)
 
     for note in notes:
         print(f"  note: {note}")
