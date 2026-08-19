@@ -1,0 +1,84 @@
+name: Recognition sample
+
+# Manual only. Recognises a handful of pages per witness across a model/size
+# matrix so the tier for the full run (2,646 pages) can be chosen on measured
+# output rather than guesswork. See issues #8 and #9.
+on:
+  workflow_dispatch:
+    inputs:
+      pages:
+        description: "Pages per witness"
+        type: string
+        default: "2"
+      models:
+        description: "Comma-separated model ids"
+        type: string
+        default: "gemini-2.5-pro,gemini-2.5-flash"
+      sizes:
+        description: "IIIF sizes, separated by ';'"
+        type: string
+        default: "!1500,1500;!2500,2500"
+      list_models_only:
+        description: "Only list callable models, recognise nothing"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  sample:
+    runs-on: ubuntu-latest
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-genai
+
+      - name: Check the key is present
+        run: |
+          if [[ -z "${GEMINI_API_KEY:-}" ]]; then
+            echo "::error::GEMINI_API_KEY secret is not set."
+            exit 1
+          fi
+
+      - name: List callable models
+        run: |
+          set -o pipefail
+          python3 scripts/recognize_prints.py --list-models | tee /tmp/models.txt
+          {
+            echo "### Callable models"
+            echo '```'
+            cat /tmp/models.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Recognition sample
+        if: ${{ inputs.list_models_only != true }}
+        run: |
+          set -o pipefail
+          python3 scripts/recognize_prints.py \
+            --sample "${{ inputs.pages }}" \
+            --models "${{ inputs.models }}" \
+            --sizes "${{ inputs.sizes }}" | tee /tmp/sample.txt
+          {
+            echo "### Sample run"
+            echo '```'
+            cat /tmp/sample.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload recognised samples
+        if: ${{ inputs.list_models_only != true }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: recognition-samples
+          path: data/prints/_samples/
+          if-no-files-found: warn
