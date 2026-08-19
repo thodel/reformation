@@ -9,9 +9,13 @@ Rules (in order):
   1. u/v → u (context-insensitive, historical u/v variation)
   2. i/j → i (i/j interchange, notably "jnn" → "inn")
   3. ſ (long s) → s
-  4. übergeschriebene Vokale: uͦ→ur, aͤ→ä, oͤ→ö, a͔→ă, eͤ→ë (combining diacritics stripped,
-     original preserved as-is; bare combining marks that cannot be resolved
-     are removed but noted in normalization_info)
+  4. Übergeschriebene Vokale: the combining mark is stripped and the base letter
+     kept - uͦ→u, aͤ→a, oͤ→o. Folding to the base rather than to ä/ö/ü is
+     deliberate: it makes a witness spelling "goͤtlich" match one spelling
+     "gotlich", which is the point of normalising for collation.
+     Input is decomposed to NFD first, so precomposed spellings (ů, ö, ē, ñ)
+     normalise identically to their combining equivalents. The corpus contains
+     both: Transkribus writes u+U+0366, druck_1528 writes ů.
   5. Abbreviaturen: uel → "uel", "̄" (macron) stripped as quant. marker
   6. Nasalstriche: x̄ → "x" (z̄ → z, m̄ → m, n̄ → n) — x̄/m̄/n̄/z̄ stripped
   7. Interpunktion: Virgel "/" kept as word separator (not stripped)
@@ -181,6 +185,21 @@ def normalize(text: str, *, preserve_original: bool = True) -> Normalized:
 
     # Step 0: collapse whitespace
     text = re.sub(r"\s+", " ", text).strip()
+
+    # Step 0b: decompose to NFD so precomposed and combining spellings of the
+    # same character are treated identically.
+    #
+    # This corpus encodes the same letter both ways: the Transkribus variants
+    # write u + U+0366 while druck_1528 writes precomposed U+016F (1067 times,
+    # and 87 combining as well). Without decomposition those compare as
+    # different characters, which would manufacture thousands of false variants
+    # in the print collation. It also brings 6,654 precomposed diacritics -
+    # ü, ů, ö, ä, å, ñ, ē, ẽ - into reach of the rules below, which previously
+    # only saw combining marks.
+    decomposed = unicodedata.normalize("NFD", text)
+    if decomposed != text:
+        text = decomposed
+        info.append("nfd_decomposed")
 
     # Step 1: normalize combining diacritics
     text, diac_info = _resolve_combining(text)

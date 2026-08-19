@@ -103,3 +103,43 @@ class TestRulePriority:
     def test_all_rules_applied(self):
         r = normalize("vnnderscheid")
         assert "u_v" in r.normalization_info.get("rules_applied", [])
+
+
+class TestUnicodeEquivalence:
+    """The corpus spells the same letter two ways.
+
+    Transkribus writes u + U+0366 (combining latin small letter o); druck_1528
+    writes precomposed U+016F. Both must normalise to the same string, or the
+    print collation reports thousands of variants that are pure encoding noise.
+    """
+
+    def test_combining_and_precomposed_agree(self):
+        pairs = [
+            ("z" + "u" + "ͦ", "zů"),            # zuͦ / zů
+            ("geh" + "o" + "ͤ" + "rend", "gehörend"),  # gehoͤrend / gehörend
+            ("f" + "u" + "ͣ" + "r", "fûr"),            # fuͣr / fûr
+        ]
+        for combining, precomposed in pairs:
+            assert normalize(combining).normalized == normalize(precomposed).normalized
+
+    def test_precomposed_diacritics_are_folded(self):
+        # 6,654 of these appear in the corpus and were previously untouched.
+        assert normalize("ü").normalized == "u"
+        assert normalize("å").normalized == "a"
+        assert normalize("ö").normalized == "o"
+        assert normalize("ä").normalized == "a"
+
+    def test_precomposed_macron_and_tilde_are_reached(self):
+        assert normalize("ſchadē").normalized == "schade"
+        assert normalize("gemeñ").normalized == "gemen"
+        assert normalize("ẽ").normalized == "e"
+
+    def test_output_carries_no_combining_marks(self):
+        import unicodedata
+        for sample in ["zuͦ", "gehoͤrend", "ſchadē", "gemeñ", "fuͣrgeben"]:
+            out = normalize(sample).normalized
+            assert not any(unicodedata.combining(c) for c in out), sample
+
+    def test_original_is_preserved_unchanged(self):
+        source = "z" + "u" + "ͦ"
+        assert normalize(source).original == source
