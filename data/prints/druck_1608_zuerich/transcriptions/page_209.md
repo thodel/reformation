@@ -1,0 +1,58 @@
+# Seite 209
+
+Schlußred.				175
+Martinus Butzer.
+VOn der Offenbarung Gottes / die er zů allen glouͤ=
+bigen im Hertzen redt / ist vorhin überfluͤssig durch
+Meister Vlrich Zwinglin vnd mich/anzeigt/dergly=
+chen ouch von den ordnungen der rechtgloͤubigen gemeind/
+ouch dem regieren / das doch weiden heißt / Actor. 20. cap.
+deren Bischoff/ꝛc. Deß alles referier ich mich vff die Acta.
+Theobaldus Huͤter.
+VNd nach dem bißhar nit wyter anzogen ist / Actor.
+20. cap. In dem vorgenanten capitel / spricht er also:
+Vnd jetz empfilch ich uͤch Gott / vnd dem Wort siner
+gnaden / der da maͤchtig ist zů erbuwen / vnnd ze geben die
+Erbschafft in allen geheiligoten. Vß wellichem Text klarlich
+volget die Erbschafft zů leren / in allen sinen Vßerwelten
+klarlich gemerckt/was Gott sinem Gespons vnd Gemachel
+der Christenlichen Kilchen beuolchen/ꝛc.
+Martinus Butzer.
+JCh referier mich zun Acta / von disem angezognen
+Spruch selbs. Actor. im 20. cap.
+Theobaldus Huͤter.
+JSt mir wolgemachet / vnnd gib das zů einem milten
+Laͤser / ob das die satzungen der Kilchen / nit vß dem
+Geist gsin syend. Damit wil ich beschliessen/von fuͤr=
+tze vnd bit waͤgen miner Herren der Presidenten. Aber ge=
+
+## Marginalien
+Suͦch
+hieuor
+am 82.
+83.89.
+90.91.
+92.134.
+135.138.
+139.141.
+blat.
+
+Suͦch
+hieuor
+am 104.
+125.126.
+168.169
+171. vñ
+172.
+blat.
+
+Suͦch
+hieuor
+am 136.
+137.
+blat.
+
+Suͦch
+hieuor
+am 136.
+blat.

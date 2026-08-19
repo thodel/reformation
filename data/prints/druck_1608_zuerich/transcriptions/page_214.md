@@ -1,0 +1,31 @@
+# Seite 214
+
+180 Die ander
+ſer Herz/ſiner Kilchen/nit zåchen oder zwentzig jar/ſonders
+in ewigkeit geben. Joan. am 14. Jch wird min Vatter bit=
+ten/vnd er wirt uͤch geben ein andren Troͤſter/das er by uͤch
+blib in ewigkeit. Vß den Spruͤchen vnd derglichen/wie ſy
+dann in dem 14. 15. vnd 16. cap. Joan. anzeigt ſind/ſicheret
+der heilig Paulus all fromm Chriſten/das jnen die Chri=
+ſtenlich Kilch nit werde fålen/vnd das in der erſten Epiſt.
+zuͦ Timoth. am 3. da er ſpricht: Diſe ding ſchrib ich dir min
+Sun Timothee/in der hoffnung bald zuͦ dir zekommen/ob
+ich aber verlengerote/das du wuͤſſeſt/wie du ſolt oder muͤſt
+wandlen in dem Huß Gottes deß låbendigen/das da iſt
+die gemein Kilch deß låbendigen Gottes/ein Sul vnd be=
+ueſtigung der Warheit. Vß diſem verſtat ein jeder Chri=
+ſten Menſch/daß die heilig Chriſtenlich Kilch geleert vnd
+geregiert iſt von dem heiligen Geiſt biß jetz/vnd in ewig=
+keit wirt. So nun der ſelbig Geiſt vnd Lerer iſt der Geiſt
+der Warheit/ſo leert er die Kilchen die Warheit/darumb
+die Spruͤch der Kilchen billich von vns angenommen ſoͤl=
+len werden/als die Warheit. So doch der heilig Paulus
+in ſiner erſten Epiſtel zuͦ den Theſſalon. an dem 2. cap. den
+Theſſalon. ſchribt. Da jr von mir empfangen hand/die ge=
+hoͤrd deß Gottsworts/hand jr das nit empfangen als das
+Wort der Menſchen/aber als es warlich iſt das Wort
+Gottes/werden die Theſſalonicenſer gelobt von Paulo/daß
+ſy ſyne Wort die er jnen geſagt hat vß Gott angenommen
+hand/nit als das Wort der Menſchen/ſonder als das
+Gottswort/vñ er iſt ouch nun ein glid der Chriſtenheit/ſo
+ſoͤllen

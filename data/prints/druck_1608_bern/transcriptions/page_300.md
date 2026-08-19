@@ -1,0 +1,28 @@
+# Seite 300
+
+268		Die vierdt
+	Ecolampadius.
+ALſo erfindt ſich nun / das Herr Benedicht/ jetz ver-
+iachzet / vnnd zůlaßt hie ein Tropum zeſin in denen
+worten/ das er geſtern/ vnd zum theil ouch hüt/klar-
+lich verneint hat: vnnd alſo iſt ſin red nit beſtändig/vnd
+hat doch ouch daſſelbig nit bewårt/vnnd bit jnn / daß er
+noch das bybring/ das es ein ſynecdoche ſye : namlich
+ſo vil / das vnder dem Brot / oder in dem Brot/der Lyb
+ſye/mit glychförmiger red oder Gſchrifft.
+
+	Pfarrer von Sant Gallen.
+DAruff antwurt ich wie vormals / vß den worten
+Pauli/in der erſten Epiſt. zun Corinthern am 10.
+Cap. Vnnd das Brot/welches wir bråchend oder
+vßtheilend/iſt es nit die vßtheilung deß Lybs Chriſti? Al-
+ſo vermein ich / ich hab den worten deß Nachtmals / kein
+verſchmålerung nachgeben/ſonders zů einem gſunden ver-
+ſtand derſelbigen / damit man nit vff Sophiſten art / in
+Worten kempffe / ſöliche wort deß Nachtmals / mit dem
+Paulo erklåret. Deß Tropi halb aber/das da iſt wie ge-
+ſter angezogen/ſölle der vßlegend Tropus ſin/die wort fi-
+gurlich im Nachtmal anzenemmen / als daruon geredt/
+vnd geſchriben / laß ich keines wågs nach/biß zů wyterm
+Bericht.
+					Ecolam

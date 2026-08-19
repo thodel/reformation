@@ -1,0 +1,30 @@
+# Seite 68
+
+34              Die erſt
+daß er ein Diener ſig / wirt der Bychtuatter nicht loͤu-
+gnen / daß es gnůgſam jetz mit der Gſchrifft bewårt iſt / vnd
+in allen ſinen Spruͤchen / ſich anders nuͤt erfunden hat.
+Warumb aber Petrus ein Houpt ſy / da begaͤren wir Ge-
+ſchrifft vmb / da lyt der haſſt / das muͤſſend jr bewaͤrẽ. Zum
+anderen daß er ſich beklagt / er moͤg vnſer verantworten nit
+faſſen / bedunckt vns vnbillich / dann ſin lange red geſter ge-
+thon / haben wir muͤſſen faſſen vnd verantworten.
+Bychtuatter.
+DAs der heilig Sant Peter moͤge geheiſſen werden
+ein Houpt / iſt gnůg klar / geſter hat mir Martĩ Bu-
+tzer das nachgeben / das Saul moͤg recht genempt
+werden ein Houpt / in der Geſchrifft von Regierung vnd
+Gewalt waͤgen ſines Kuͤnigrichs. Das nun Sant Peter
+den gewalt empfangen hab / ſoͤlliche Regierung uͤber die
+Schaaff Chriſti zů uͤben / das ſelbig mag bewaͤrt werden /
+vß klaren Texten / namlich Matth. 10. cap. Hat Chriſtus
+ſinen Juͤngerẽ gewalt geben / uͤber die boͤſen vnreinẽ Geiſt /
+daß ſy die vßtryben vnnd uͤber die kranckheiten / daß ſy die
+ſelbigen all geſund machen / Petrus hat diſes fuͤrnemlicher
+geuͤbt / wenn wir von vnſerm Heiland ſelbſt laͤſen / Actor. 5.
+cap. Die Krancken wurden vff die Gaſſen geleit in jren
+Bettlyn / vff das ſo Petrus kaͤm / das ſin ſchat ettwan ein
+vß jnen beſchaͤttigete / vnd ſy entlediget wurden jrer kranck-
+heit / Act. 1. cap. Iſt Petrus vffgeſtanden vnder den andern /
+vnd hat fuͤrgeleit den mangel der zal der Apoſtel / vnd durch
+Ge-

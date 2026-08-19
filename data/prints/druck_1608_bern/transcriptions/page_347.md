@@ -1,0 +1,30 @@
+# Seite 347
+
+Schlußred.                      315
+iſt war/ſoͤlche gnad Gottes vnd vßtheilung/wirt vns hie
+verkuͤndet/darumb man ouch Gott danck ſagt. Jch ver=
+mein ouch/ Herr Benedict ſoͤll mir das nit loͤugnen/das
+keiner ſoͤlich Sacrament empfachen ſol/er hab dann vor=
+hin ein glouben/ das jm ſin Suͤnd durch das lyden Chri=
+ſti verzigen ſyend: dann das gehoͤrt darzuͦ/das ſicht der
+Menſch ſelbs bewaͤre/probiere/in der erſten zun Corinth.
+am 11. Capit. So nun der Menſch erkennt/ das jm das
+Bluͦt ſchon vßgetheilt iſt/ſo wirdt ſich ſin red nit ſchicken/
+als ſoͤll es jm aller erſt vßgetheilt werden. So wirt ſin be=
+ſwaͤrnuß/ das der Wyn oder in dem Wyn/ſye waͤſenlich
+Bluͦt/aber eins nit geſtan.
+
+Pſarrer von Sant Gallen.
+VFf die ableinung ſo myn Herr Doctor vermeint/die
+wort deß Kelchs/ nit alſo zuͦverſtan ſin/ woͤlt ich
+gern demuͤtigklich/ ouch eins von jm fragen/zuͦ ent=
+ſcheidung/da der Herr geſagt hat: Trincken all daruß/
+ſprechende: Das iſt myn Bluͦt/waß der Herr ſinen Juͤn=
+geren dargereicht hab/oder was ſy truncken haben.
+
+Ecolampadius.
+JSt uͤch lieb/das jr uͤch wellend verzichen der vnge=
+zognen figuren/ſo wil ich uͤch von ſtund an vff uͤwer
+frag antwurten: wo das nit/wellen wir das vordrig
+abrichten.
+                                              Rr  ij

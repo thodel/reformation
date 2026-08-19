@@ -1,0 +1,52 @@
+# Seite 481
+
+Schlußred.		447
+ſcheiden in die Schoß vnd Froͤud Gottes kommen: die
+aber nach jren gluͤſten in diſem zyt laͤben/werden ewigklich
+verdampt/vnd wirt hie Abraham/ nit fuͤr ſyn Perſon an-
+gezogen/ ſonders / wie gſagt iſt / beduͤtet die Perſon Got-
+tes.
+Am 22. Tag ward nit gediſputiert.
+Vff den xxiij. Tag Jenners.
+Johannes Buͤchſtab.
+DEn Spruch Luce am 16. von Herren Gilgen fuͤr
+getragen/laß ich alſo belyben. Hat wyter im ſelben
+Capitel Chriſtus geſprochen: Machend uͤch fruͤnd/
+vß dem guͤt der boßheit/vff das ſo jr manglen/ werden ſy
+uͤch in die ewigen Tabernackel nemmen. Nun moͤgen vns
+keine vß jr eignen krafft / in die ewigen Tabernackel nem-
+men/dann allein mit fuͤrbitt/fuͤr das/ſo wir jnen bewiſen
+haben/ vff dem Erdrich/ mit Allmuͤſen vnd Barmhertzig-
+keit.
+Berchtoldus.
+Chriſtus redt von den Laͤbendigen Heiligen/ die
+Armuͤt vnnd Gebraͤſten lyden/ denen wir teilen
+ſoͤllen/ vnſer zytliche Hab / damit ſo wir durch den
+Tod/von verwaltung deß zytlichen Guͦts abgeſtoſſen wer-
+den/ſy vns vffnemmen in die ewigen Tabernackel: nit ſy/
+ſonder Gott / vmb deß willen/das wir jnen gethan haben
+
+## Marginalien
+[unleserlich]n Himel/
+[unleserlich]ello/das
+[unleserlich]ennen: ſo
+[unleserlich]ſy nit all-
+
+[unleserlich]ß fuͤre zuͦ
+[unleserlich]Jeſum/
+[unleserlich]ſchlußred.
+
+[unleserlich]en hatt in
+[unleserlich]ſoͤllen vor
+[unleserlich]Gott fuͤr
+
+[unleserlich]ſtet nit/
+[unleserlich] vergeh-
+[unleserlich]nych baͤten/
+[unleserlich]iſt ein wegz
+[unleserlich]Abraham
+[unleserlich]rtruwt/das
+[unleserlich]Durch den
+[unleserlich]gen/das die
+[unleserlich]vß diſer zyt
+[unleserlich]ſchei-

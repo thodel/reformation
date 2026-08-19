@@ -1,0 +1,30 @@
+# Seite 551
+
+Schlußred.		519
+kompt. Johannis am 6. Vnd wo der Geiſt Gottes iſt/ da
+iſt fryheit 2. Corinth. 3. So volget/ das dero Geiſt vnd
+Conſcientz fry iſt/ die da ſind in Chriſto Jeſu. Wir wellen
+hie allwaͤg verſtanden werden/ daß wir nit reden von der
+geluͤbt/ vnd truͤw/ die der Menſch ſynem Nechſten ſchuldig
+iſt : wir reden allein von den geluͤbten/ die man jrꝛlichen/
+vſſerthalb dem Glouben / der Conſcientz zuͤhelffen / oder
+Saͤligkeit zuͤerlangen gethan hat : hiehar dienet das zun
+Galathern am 3. geſchriben iſt. Eccleſiaſt. 5. iſt mehr fuͤr
+vns/ weder fuͤr jn/ dann er ſchilt daſelbs/ die torechten ver=
+heiſſungen. Nun ſind ie vnſer geluͤbt oder verheiſſungen
+die wir vſſerthalb dem Glouben gethan hand / torechter
+dann die geluͤbt von denen Salomon redt. Das vß dem
+Pſalmen harin wirt gezogen / hat by den alten/ vff jrerley
+geluͤbten gedienet / by vns aber ſo wir kein ander geluͤbt
+hand/ weder den einigen Glouben/ dann wir fry ſind/ wie
+gehoͤrt iſt. So vermanet vns der Prophet nuͤt anders/
+weder ſyen wir warlich Chriſten im Glouben/ ſo ſoͤllen wir
+ouch Chriſtenlich laͤben/ dañ ouch/ vnſer Herr Jeſus Chri=
+ſtus / vns nuͤt anders zuͤmuͤtet / ſo er ſpricht Johannis 6.
+Wie mich myn Vatter geſendt hat/ vnd ich nach dem wil=
+len deß Vatters laͤb/ alſo ouch. Welcher mich iſſet/ das iſt/
+vff mich vertruwt / ſoll ouch mir nach laͤben. Das geluͤbt
+Pauli / ſtritet nit wider vns/ dann Paulus hat vmb der
+ſchwachen willen/ ſich gelychnet/ ein geluͤbt oder Walfart
+zuͤ haben gen Hieruſalem / damit die ſchwachen / nit ein
+groß abſchuͤchen ab im hetten/ als Actorum. 21. eigentlich

@@ -1,0 +1,30 @@
+# Seite 78
+
+44          Die erſt
+gibt das vffwachſſen/dann ob ſchon der Prieſter ſpricht/ich
+abſoluier oder entbind dich von dinen Sünden / wirt mir
+nit gnůgſam beſchechen / ich ſig dann in minem Hertzen
+durch den Glouben verſicheret. Gott iſt der der vffthůt/
+vnd niemand wirt beſchlieſſen.Er beſchlüßt vnnd niemand
+thůt vff.Eſaie 22.cap.Darumb iſt der gewalt eigentlich die
+Sünd zeuergeben / allein Gottes : Aber verkünden die
+Vergebung der Sünd den glöubigen/Verkünden die Vor=
+behaltung der Sünd / den vnglöubigen/iſt das Ampt der
+Dienſtbarkeit/vnnd beuelch der Apoſtlen/vnnd Verkün=
+dung deß Worts.
+Pfarrer.
+ALs min Herr Berchtold in dem gewalt / den ich zer=
+theilt han:Zum erſten mir zůuellt/ Gott geb allein eer
+vnd glori. Hab aber den Apoſtlen beuolchen / das
+Ampt ſins Göttlichen Worts / vnnd das abſoluiren von
+den Sünden / allein ſy den glöubigen verkünden ablaſung
+der Sünd. Nun hat nye jemant gehört/das weder die A=
+poſtel/noch vnſer heiligoſter Vatter der Bapſt/all Prieſter
+nie kein empfelch gehapt zů abſoluieren ein / der da nit den
+glouben hab / ſonders jm empfolhen / zů binden in dem ge=
+walt Gottes/vnnd zů entbinden die / die ſich geſchickt hand
+in glouben/vnd hoffnung/vnd trüw / dem göttlichen Wort
+Chriſti/das da empfolhen hat/zebinden vñ entbinden/wie
+vor dauon geredt iſt.
+Aber zů einer beſſer beſtätung deß gewalts / zügen ich
+das

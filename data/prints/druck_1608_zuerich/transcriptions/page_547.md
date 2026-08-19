@@ -1,0 +1,31 @@
+# Seite 547
+
+Schlußred. 513
+rinth. 10. dient vns/ dañ vns Gott nit wil zwingeͤ/ zuͤ dingeͤ
+Die vns nit geben ſind / ſonders er zeigt allweg ein vßgang/
+durch den wir tragen moͤgen: darumb hat er die Ee geben/
+dz niemand in der brunſt zuͤ vil verſuͤcht werde. Das einer
+ſich ſelbs vor erinneren ſoͤlle/ laſſen wir nach in den gſchaͤfft
+deß Euangelij/ vnd in allen anfahenden dingen: daß aber
+diß erinneren/ darumb die Fryheit der Ee verſchlieſſe/ daß
+iſt nit/ dann wir vor gehoͤrt haben. 1. Corinth. 7. das de=
+nen die gebrent werden/ erloubt iſt zuͤ fryen/ oder zuͤ Eeli=
+chen/ vnd iſt hie kein Gſchlaͤcht der Menſchen vßgenom=
+men. Nun ſol ein jeglich Geſatz/ ſo es in der Gmeind ſtadt/
+ouch in der gmeind verſtanden werden. Demnach ſo ver=
+wundert vns ſeer/ das anzogen wirt/ es moͤge im Nuͤwen
+Teſtament nit bewaͤrt werden/ das ein Prieſter moͤge in
+Wyb nemmen. So doch der Heilig Paulus 1. Timoth. 3.
+zuͤ Titum. 1. ſoͤlichs ſo offenbar ſagt/ vnd in Geſchichten
+am 21. Capit. gelaͤſen wirt von Philippo/ das er vier
+Toͤchtern hette/ die gelert waͤren: da wir gwuͤßlich ſechen/
+das die Toͤchtern nit vß Huͤrn muͤßten geboren ſyn/ ſonder
+Eelichen. Zimpt aber dem der ein Wyb hat/ ein Biſchoff
+zuͤ ſyn/ ſo zimpt ouch dem der ein Wyb hat/ ein Biſchoff zuͤ
+werden: zimpt ouch hartwiderumb eim ein Biſchoff zuͤ
+ſyn/ der ein Wyb hat/ ſo zimpt ouch dem Biſchoff ſo kein
+Wyb hat / ein Wyb zuͤnemmen. Das anzeigt wirt/ wie
+keiner der Apoſtel ein Wyb habe genommen/ nach dem er
+Chriſtum erkant/ bekuͤmbret vns nit/ ſy haben aber Wyber
+gehebt/ daruß wir erlernen/ das ein Wyb haben/ nit darvor
+Ttt

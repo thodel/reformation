@@ -1,0 +1,33 @@
+# Seite 263
+
+Schlußred. 231
+iſt min Fleiſch/Vnd hernach das ander/ſo er verheißt fuͤr
+vns geben werden/verſacht den Troſt/ſo er ſin Låben fuͤr
+vns durch den Tod geben wurd/ als die Gſchrifft richlich
+bezuͤget zun Roͤmern am 5. capit. zun Corintheren in der
+erſten Epiſtel am 15. Capitel. Dann er ye vß dem Brot
+ſinen Lyb gemacht vñ den ſinen Juͤngern am letzten Nacht-
+mal gebotten/welcher darnach fuͤr vns geben ſolt werden.
+
+Zwingly.
+DAmit der worten kampff vermitten werde/ſol er al-
+ſo mercken/daß glych vor den worten alſo ſtat. Jch
+bin das Brot/ das låbendig/ das da von Him̃el
+herkommen iſt/ welcher von dem Brot eſſen wirt/ der wirt
+ewenklich låben/daß nun hie verſtanden werde/was Chri-
+ſtus mit dem wort Brot/gewelt habe/ſo erklaͤrt er ſich ſelbs
+mit den nachgenden worten/καὶ ὁ ἄρτος δὲ ὃν ἐγὼ δώσω vnnd
+das Brot aber das ich uͤch geben wird/ ꝛc. Jn welchen
+woͤrtlinen man hål vermerckt/daßer per Epanaphoram/
+das iſt ein widerholen /hat wellen zuͦverſton geben/ was
+er meinen welle mit dem woͤrtly Brot/dann ſo er ſpricht
+vnd das Brot aber: Sicht man wol/daß widerumb hin-
+vff gadt zuͦ dem Brot/von dem er vor geredt hat/vnnd hat
+den ſinn ſam Chriſtus ſpreche: Daß ir aber wuͤſſend was
+das Brot ſye/von dem ich uͤch ſag/ ſo iſt es: das ich min
+Fleiſch vmb das Låben der Welt wird in Tod geben. Es
+mag auch hie nit ein Aſyntethon ſin ἣν ἐγὼ δώσω. Sonders
+diſe gantze Pericopa/oder ſinn iſt nit ein Verheiſſung/ſen-
+de-
+
+z
