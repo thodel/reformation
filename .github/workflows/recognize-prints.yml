@@ -1,0 +1,155 @@
+name: Recognise prints
+
+# Full recognition run over the four printed witnesses (issue #8, operated per #19).
+# One job per witness so each stays well inside the 6-hour limit: 2,646 pages at
+# ~8.4s each is 6.2 hours serially, which one job could not finish.
+#
+# Jobs do not push. Each uploads its text as an artifact and a single collect job
+# commits once, so four concurrent jobs cannot race on the same branch.
+on:
+  workflow_dispatch:
+    inputs:
+      model:
+        description: "Model id"
+        type: string
+        default: "gemini-3.7-flash"
+      size:
+        description: "IIIF size"
+        type: string
+        default: "!2500,2500"
+      max_pages:
+        description: "Ceiling per witness (0 = no ceiling)"
+        type: string
+        default: "0"
+      concurrency:
+        description: "Parallel requests per witness"
+        type: string
+        default: "6"
+      thinking_budget:
+        description: "Thinking token budget (empty = model default)"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: recognise-prints
+  cancel-in-progress: false
+
+jobs:
+  recognise:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      matrix:
+        witness:
+          - druck_1528_04
+          - druck_1608_bern
+          - druck_1608_zuerich
+          - druck_1701
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-genai
+
+      - name: Recognise ${{ matrix.witness }}
+        run: |
+          set -euo pipefail
+          EXTRA=""
+          if [[ -n "${{ inputs.thinking_budget }}" ]]; then
+            EXTRA="--thinking-budget ${{ inputs.thinking_budget }}"
+          fi
+          python3 scripts/recognize_prints.py \
+            --witness "${{ matrix.witness }}" \
+            --model "${{ inputs.model }}" \
+            --size "${{ inputs.size }}" \
+            --max-pages "${{ inputs.max_pages }}" \
+            --concurrency "${{ inputs.concurrency }}" \
+            $EXTRA
+
+      - name: Upload recognised text
+        uses: actions/upload-artifact@v4
+        with:
+          name: prints-${{ matrix.witness }}
+          path: data/prints/${{ matrix.witness }}/
+          if-no-files-found: warn
+          retention-days: 7
+
+  collect:
+    needs: recognise
+    if: always()
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+      sha: ${{ steps.commit.outputs.sha }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Download all witness artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: prints-*
+          path: /tmp/prints
+
+      - name: Place recognised text
+        shell: bash
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          for dir in /tmp/prints/prints-*; do
+            key="$(basename "$dir" | sed 's/^prints-//')"
+            mkdir -p "data/prints/$key"
+            cp -r "$dir/." "data/prints/$key/"
+          done
+          find data/prints -name 'page_*.md' | wc -l | sed 's/^/recognised pages present: /'
+
+      - name: Validate repository
+        run: python3 scripts/validate_repo.py
+
+      - name: Guard against a destructive result
+        run: python3 scripts/check_prints_diff.py
+
+      - name: Summary
+        shell: bash
+        run: |
+          {
+            echo "### Recognition run"
+            echo
+            echo "| witness | pages |"
+            echo "|---|---|"
+            for d in data/prints/*/transcriptions; do
+              [ -d "$d" ] || continue
+              echo "| $(basename "$(dirname "$d")") | $(ls "$d" | wc -l) |"
+            done
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit and push
+        id: commit
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/prints/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "chore: recognised text for the printed editions"
+          git pull --rebase --autostash
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
