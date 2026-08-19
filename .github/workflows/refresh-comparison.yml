@@ -29,6 +29,12 @@ concurrency:
   group: refresh-comparison
   cancel-in-progress: false
 
+env:
+  # Every witness against the 1528 base text, plus the two 1608 copies against
+  # each other. The full matrix is 45 pairs and roughly 200 MB; this answers the
+  # same questions in a tenth of the space.
+  CURATED: "--reference druck_1528 --pair druck_1608_bern:druck_1608_zuerich"
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -46,7 +52,7 @@ jobs:
         shell: bash
         run: |
           set +e
-          python3 scripts/compare_witnesses.py --all --check | tee /tmp/stale.txt
+          python3 scripts/compare_witnesses.py $CURATED --check | tee /tmp/stale.txt
           echo "stale=$?" >> "$GITHUB_OUTPUT"
           {
             echo "### Staleness check"
@@ -61,7 +67,7 @@ jobs:
           set -euo pipefail
           EXTRA=""
           if [[ "${{ inputs.force }}" == "true" ]]; then EXTRA="--force"; fi
-          python3 scripts/compare_witnesses.py --all $EXTRA | tee /tmp/regen.txt
+          python3 scripts/compare_witnesses.py $CURATED $EXTRA | tee /tmp/regen.txt
           {
             echo "### Regeneration"
             echo '```'
