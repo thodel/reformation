@@ -20,7 +20,9 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any
 
@@ -235,7 +237,8 @@ def cmd_sample(client, witnesses, args) -> int:
 
 def cmd_recognise(client, witnesses, args) -> int:
     size = args.size or erara.default_iiif_size(CONFIG)
-    budget = args.max_pages
+    # 0 or negative means no ceiling, for the full corpus run.
+    budget = args.max_pages if args.max_pages and args.max_pages > 0 else None
     total_done = 0
 
     for witness in witnesses:
@@ -250,33 +253,43 @@ def cmd_recognise(client, witnesses, args) -> int:
         if args.dry_run:
             continue
 
+        pending = pending[:budget - total_done] if budget is not None else pending
         done = 0
-        for page in pending:
-            if budget is not None and total_done >= budget:
-                print(f"  reached --max-pages {budget}; stopping")
-                break
+        lock = threading.Lock()
+
+        def work(page: erara.Page):
             usage = gc.Usage()
             try:
-                text = recognise_page(client, page, model=args.model, size=size, usage=usage,
-                                      budget=args.thinking_budget)
+                text = recognise_page(client, page, model=args.model, size=size,
+                                      usage=usage, budget=args.thinking_budget)
+                return page, text, usage, ""
             except Exception as exc:  # noqa: BLE001
-                print(f"  [WARN] page {page.page_nr}: {type(exc).__name__}: {exc}")
-                continue
+                return page, "", usage, f"{type(exc).__name__}: {exc}"
 
-            target = transcription_path(key, page.page_nr)
-            if not text.strip():
-                print(f"  [WARN] page {page.page_nr}: empty response, keeping any existing text")
-                continue
-            target.parent.mkdir(parents=True, exist_ok=True)
-            target.write_text(f"# Seite {page.page_nr}\n\n{text}\n", encoding="utf-8")
-            state.setdefault("pages", {})[str(page.page_nr)] = {
-                "model": args.model,
-                "prompt_version": PROMPT_VERSION,
-                "size": size,
-                "chars": len(text),
-            }
-            done += 1
-            total_done += 1
+        with ThreadPoolExecutor(max_workers=args.concurrency) as pool:
+            futures = [pool.submit(work, page) for page in pending]
+            for future in as_completed(futures):
+                page, text, usage, error = future.result()
+                if error:
+                    print(f"  [WARN] page {page.page_nr}: {error}")
+                    continue
+                if not text.strip():
+                    print(f"  [WARN] page {page.page_nr}: empty response, keeping existing text")
+                    continue
+                target = transcription_path(key, page.page_nr)
+                target.parent.mkdir(parents=True, exist_ok=True)
+                target.write_text(f"# Seite {page.page_nr}\n\n{text}\n", encoding="utf-8")
+                with lock:
+                    state.setdefault("pages", {})[str(page.page_nr)] = {
+                        "model": args.model,
+                        "prompt_version": PROMPT_VERSION,
+                        "size": size,
+                        "chars": len(text),
+                    }
+                    done += 1
+                    total_done += 1
+                    if done % 25 == 0:
+                        print(f"  {done}/{len(pending)} pages", flush=True)
 
         state["witness"] = key
         state["doi"] = witness.get("doi")
@@ -295,7 +308,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--size", default=None, help="IIIF size, e.g. !2000,2000")
     parser.add_argument("--witness", action="append", help="Limit to a witness key")
     parser.add_argument("--max-pages", type=int, default=200,
-                        help="Stop after this many pages in one run (default: 200)")
+                        help="Stop after this many pages in one run (default: 200; "
+                             "0 means no ceiling)")
+    parser.add_argument("--concurrency", type=int, default=6,
+                        help="Parallel requests (default: 6). 2,646 pages at ~8s each "
+                             "is 6.2h serial, past the CI job limit.")
     parser.add_argument("--refresh", action="store_true",
                         help="Also redo pages recorded under a different model or prompt version")
     parser.add_argument("--dry-run", action="store_true")

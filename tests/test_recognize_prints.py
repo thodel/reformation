@@ -198,3 +198,20 @@ class ThinkingBudgetTest(unittest.TestCase):
     def test_level_is_accepted(self):
         config = gc.thinking_config(None, "LOW")
         self.assertIsNotNone(config)
+
+
+class MaxPagesCeilingTest(unittest.TestCase):
+    """0 must mean 'no ceiling', not 'stop immediately'."""
+
+    @staticmethod
+    def _budget(max_pages):
+        return max_pages if max_pages and max_pages > 0 else None
+
+    def test_zero_means_unlimited(self):
+        self.assertIsNone(self._budget(0))
+
+    def test_negative_means_unlimited(self):
+        self.assertIsNone(self._budget(-1))
+
+    def test_positive_is_kept(self):
+        self.assertEqual(self._budget(200), 200)
