@@ -1,7 +1,5 @@
 # Seite 547
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Buch Moses, das Gott, das Gesetz hat geben, wäre
 "c. voci"
 Zum Jemand stritten, es wider einander, das da

@@ -1,7 +1,5 @@
 # Seite 239
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **Md.**
 **Lebendige Macht, ja er redet in unser Herzen**
 **Welches in der Wahrheit kein anderes ist**
@@ -63,11 +61,3 @@ Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, 
 **ende Schrift Die von Gott In gesprochen ist, ist**
 **nutzlich zu leren, und zu vnderwysen, van**
 **ist vill. gtschreiben, nach der Biblischen voorss. haff [?]**
-
-**Anmerkungen zur Übersetzung:**
-
-*   Einige Wörter und Phrasen sind schwer zu deuten, da sie entweder veraltet sind oder in einem spezifischen Dialekt geschrieben wurden. Ich habe versucht, die wahrscheinlichste Bedeutung zu finden.
-*   Die Zeichensetzung und Schreibweise des Originals sind sehr unterschiedlich von modernem Deutsch. Ich habe versucht, die Bedeutung des Textes so genau wie möglich wiederzugeben, ohne die Syntax des Originals vollständig zu ignorieren.
-*   Die abgekürzten Bibelstellen wurden ausgeschrieben, um die Lesbarkeit zu verbessern.
-*   Die Fragezeichen markieren Stellen, an denen die Bedeutung unsicher ist.
-*   "Gsthafft", "plouwen", "henter vs." "kost", "kilch", "mer sij ge", und "voorss. haff" wurden nicht übersetzt, da ich keine eindeutige Bedeutung finden konnte oder die Wörter in der Form nicht existieren.

@@ -1,7 +1,5 @@
 # Seite 242
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 da mir
 *da mir* (da mir)
 

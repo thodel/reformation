@@ -1,7 +1,5 @@
 # Seite 725
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Die 9. Schlussrede:
 Und wer heimlich beichtet, der ist nicht geeignet für das
 Reich Gottes. Nun, heimliche Sachen sind, wie Christus

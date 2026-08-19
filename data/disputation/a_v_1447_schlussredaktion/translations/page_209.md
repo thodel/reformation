@@ -1,7 +1,5 @@
 # Seite 209
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Renna
 Allein den Aposteln, dem Herrn, geantwortet, und also
 die Verheißung der Schlüssel in ihrer aller

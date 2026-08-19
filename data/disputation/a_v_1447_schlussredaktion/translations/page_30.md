@@ -1,7 +1,5 @@
 # Seite 30
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile beibehalten:
-
 allgemein
 Johannes
 meinen

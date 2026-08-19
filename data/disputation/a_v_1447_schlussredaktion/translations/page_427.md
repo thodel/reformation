@@ -1,7 +1,5 @@
 # Seite 427
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Recht, Christen sind mit all seinen Verdiensten
 Recht, Christen sind mit all seinen Verdiensten
 Christus, mögen aber wir dem Menschen nicht
@@ -60,14 +58,3 @@ des Leidens, also auch des Mutes. So wären
 des Leidens, also auch des Mutes. So wären
 wir auch Austeiler der Leiden und Anfechtungen.
 wir auch Austeiler der Leiden und Anfechtungen.
-
-**Anmerkungen:**
-
-*   **Rechtschreibung und Grammatik:** Ich habe die Rechtschreibung und Grammatik modernisiert, ohne den ursprünglichen Sinn zu verändern.
-*   **Wortwahl:** Ich habe versucht, moderne Wörter zu wählen, die dem ursprünglichen Sinn am nächsten kommen.
-*   **Unklare Stellen:** Einige Stellen sind aufgrund der Fragmentierung und des ungewöhnlichen Sprachgebrauchs schwer zu interpretieren. Ich habe mein Bestes getan, um eine sinnvolle Übersetzung zu liefern. Einige Wörter und Phrasen sind möglicherweise interpretationsbedürftig.
-*   **Religiöser Kontext:** Der Text hat einen klaren religiösen Kontext, der sich in der Wortwahl und den biblischen Bezügen widerspiegelt.
-*   **"Korroor":** Dieses Wort ist schwer zuzuordnen. Eventuell Schreibfehler für "Korridor", oder eine regionale Variante.
-*   **"Noccevo":** Lateinisch "Nocens", was soviel wie "schädlich" oder "schuldig" bedeutet, macht aber in dem Kontext keinen Sinn. Vermutlich ein lokaler Dialektbegriff.
-
-Ich hoffe, diese Übersetzung ist hilfreich!

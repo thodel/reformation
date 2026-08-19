@@ -1,7 +1,5 @@
 # Seite 466
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins heutige Deutsch, Zeile für Zeile:
-
 195
 Die vier Schlusszeilen
 man frommer Christen, wie will das Essen

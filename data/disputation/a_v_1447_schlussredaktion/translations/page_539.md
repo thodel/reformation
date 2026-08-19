@@ -1,7 +1,5 @@
 # Seite 539
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 Toucursino
 Pfannkuchen, wann so oft, so ihr von einem Bissen Brot esst,
 -

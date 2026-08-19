@@ -1,7 +1,5 @@
 # Seite 16
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Anfang dieser Disputation, und in der ersten
 Sitzung, die gehalten ist, am Dienstag am Morgen, den
 siebten Tag des Monats Januar, nach Christi Jesu,

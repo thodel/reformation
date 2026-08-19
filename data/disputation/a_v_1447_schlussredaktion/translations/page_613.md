@@ -1,7 +1,5 @@
 # Seite 613
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Die fünfte Schlussrede
 sijnde der mentsthen, Das het ouch bezugt, das ilt
 *Die fünfte Schlussrede / ist die der Mentsthen. Das hat auch bewirkt, dass es eilt.*

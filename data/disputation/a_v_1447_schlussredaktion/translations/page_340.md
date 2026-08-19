@@ -1,7 +1,5 @@
 # Seite 340
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 142
 Die dritte abschließende Anhörung
 Pelagius am Stein, Walther, der Klare.

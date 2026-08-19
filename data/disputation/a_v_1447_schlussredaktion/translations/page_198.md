@@ -1,7 +1,5 @@
 # Seite 198
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 4
 40
 78

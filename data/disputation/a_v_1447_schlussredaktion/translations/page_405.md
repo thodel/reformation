@@ -1,7 +1,5 @@
 # Seite 405
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 (B)
 Als Paulus den Rheinländern lehrte, der da weise sagt, der
 soll weissagen secundum Analogiam fidei. Das ist:

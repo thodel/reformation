@@ -1,7 +1,5 @@
 # Seite 381
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 111
 24
 [von] Gefäßen (beweisen, alles wandelt, die Elemente schwören

@@ -1,7 +1,5 @@
 # Seite 315
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Die andere Schlussfolgerung,
 Zu sagen, dass das, was angezogen wurde, nicht beweise, dass die
 Kirche Gebote mache, die im Gotteswort keinen Grund

@@ -1,7 +1,5 @@
 # Seite 2
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Vorrede**
 
 Allen und jedem frommen Christen

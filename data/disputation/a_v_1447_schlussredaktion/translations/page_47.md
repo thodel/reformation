@@ -1,7 +1,5 @@
 # Seite 47
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 **Text:**
 Im gesagt, werd mine lamer oder schaffen
 disz gsthrifft hallt ick vest, vnnd gnugsam

@@ -1,7 +1,5 @@
 # Seite 105
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 21
 Maßgeblich wird angezeigt, worin
 zweifelsfrei

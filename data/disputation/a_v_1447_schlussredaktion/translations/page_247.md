@@ -1,7 +1,5 @@
 # Seite 247
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Erlösung in Christus durch sein Blut. Weiterhin:
 In der ersten Epistel Petri, im ersten Kapitel: Christus
 hat uns erlöst in seinem Blut. Hiermit ist,

@@ -1,7 +1,5 @@
 # Seite 722
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 30
 Die 8. Schlussrede
 Sucht und trinkt, so wird nicht anders herausgefunden,

@@ -1,8 +1,5 @@
 # Seite 558
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 ten vor
 Johann
 de la fom.

@@ -1,8 +1,5 @@
 # Seite 600
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 die Pr.
 185
 253

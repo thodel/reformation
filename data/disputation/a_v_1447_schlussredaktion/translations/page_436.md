@@ -1,8 +1,5 @@
 # Seite 436
 
-Absolut! Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die ursprüngliche Zeilenstruktur beibehalten wurde:
-
-Text:
 Im soll
 ux abix
 18 Wie 12
@@ -76,12 +73,3 @@ zu Inleitung eins klaren verstands Ingesurt Dan (zur Einleitung eines klaren Ver
 Die glichnussen int allwegen gestrax glich sind (Die Gleichnisse sind nicht allwegen gleich)
 dem so man Darbij verglichen ^ kussz sollichs vnd (dem, womit man dabei verglichen. Kurz, solches und)
 alles vallen, vnnd sach wie hutt mermaels Das (alles verfallen, und sah, wie heute mehrmals das)
-
-**Anmerkungen:**
-
-*   **Schwierigkeiten:** Der Text ist fragmentarisch und enthält viele Schreibweisen, die im modernen Deutsch nicht mehr gebräuchlich sind oder deren Bedeutung unklar ist. Einige Wörter sind schwer zu interpretieren.
-*   **Interpretationen:** Einige Übersetzungen sind daher Interpretationen, die auf dem Kontext und dem allgemeinen Verständnis des Textes basieren.
-*   **Unklare Stellen:** Einige Zeilen (z.B. "ux abix") sind ohne zusätzlichen Kontext nicht sinnvoll zu übersetzen.
-*   **Thematischer Kontext:** Der Text scheint sich mit theologischen Fragen auseinanderzusetzen, insbesondere mit der Bedeutung des Abendmahls und der Rolle des Heiligen Geistes.
-
-Ich hoffe, diese Übersetzung ist hilfreich!

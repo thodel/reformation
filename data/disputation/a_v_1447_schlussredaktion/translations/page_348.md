@@ -1,7 +1,5 @@
 # Seite 348
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 146
 Die dritte Schlussrede
 sein, durch den Glauben, und gehe nicht aus den Wirken

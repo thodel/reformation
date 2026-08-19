@@ -1,7 +1,5 @@
 # Seite 437
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur und einzelner Übersetzung jeder Zeile:
-
 In den Worten des Abendmahls, ich mich
 In den Kampf begeben wird, mit
 welcher Form und Gestalt, der Leib uns werde
@@ -29,16 +27,3 @@ zeigt die Worte, Das ist mein Leib
 So dass so
 von Denen aber der Spann ist
 nutzt anders, [als] dass [es] fordert das Prinzip
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Veraltete Wörter:** Einige Wörter wurden durch ihre modernen Entsprechungen ersetzt, z.B. "lijb" durch "Leib," "vns" durch "uns," "glouet" durch "Glaube".
-*   **Grammatik:** Die Grammatik wurde an das moderne Deutsch angepasst (z.B. Wortstellung, Konjugationen).
-*   **Schreibweise:** Die Schreibweise wurde modernisiert.
-*   **Schwierige Passagen:** Einige Passagen waren aufgrund der fragmentarischen Natur des Textes und der verwendeten Terminologie schwer zu interpretieren. Ich habe versucht, die wahrscheinlichste Bedeutung basierend auf dem Kontext wiederzugeben.
-*   **Religiöser Kontext:** Der Text bezieht sich eindeutig auf das Abendmahl und theologische Fragen der Reformation.
-*   **Formum & Gestallet:** Form und Gestalt
-*   **Cum lijb:** Mit Leib
-*   **Cveserlich:** Käserlich - Hier im Sinne von "wesentlich" oder "substanziell" zu verstehen, da "Käse" in dieser Zeit auch für die "Substanz" eines Dinges verwendet wurde.
-
-Es ist wichtig zu beachten, dass dies eine Interpretation ist und andere Interpretationen möglich sind. Um eine genauere Übersetzung zu erhalten, wäre es hilfreich, den vollständigen Kontext des Textes zu kennen.

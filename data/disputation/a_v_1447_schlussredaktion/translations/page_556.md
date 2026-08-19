@@ -1,8 +1,5 @@
 # Seite 556
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur und separater Übersetzung jeder Zeile:
-
-Text:
 legte
 n Bost
 Die vierde sluszwe

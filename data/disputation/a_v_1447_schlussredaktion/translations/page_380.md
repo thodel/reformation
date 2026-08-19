@@ -1,7 +1,5 @@
 # Seite 380
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile beibehalten:
-
 **Arb.**
 Arbeit.
 **In Im¬**

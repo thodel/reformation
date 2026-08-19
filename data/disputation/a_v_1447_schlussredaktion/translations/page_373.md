@@ -1,7 +1,5 @@
 # Seite 373
 
-Hier die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 an zoigt ist. Vannenchen, das das geisteilen essenn
 **Gezeigt wird. Demnach, dass das geistliche Essen**
 

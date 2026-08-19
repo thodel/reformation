@@ -1,7 +1,5 @@
 # Seite 137
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Warmd (Einleitung/Überschrift - Sinn unklar)
 Zerrüttungen und Sekten stiften in der
 Christenheit Unruhe und sorgen dafür, dass

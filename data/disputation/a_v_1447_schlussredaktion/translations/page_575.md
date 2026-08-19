@@ -1,7 +1,5 @@
 # Seite 575
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 114
 Die fünfte Schlussrede
 dass Er Brot und Wein, dafür dargebracht hat, und dar-

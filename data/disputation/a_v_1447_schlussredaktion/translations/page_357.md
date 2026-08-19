@@ -1,8 +1,5 @@
 # Seite 357
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 nichtigkeitt vnnd warcheitt. Dann die wortt
 Des herren Warheit sind Johannis am xvi copi
 Diewije Dann er vnns verheissen, hatt Damitt

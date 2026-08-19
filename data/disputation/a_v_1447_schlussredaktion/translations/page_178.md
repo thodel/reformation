@@ -1,7 +1,5 @@
 # Seite 178
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 konnte
 *sondern in Ehr-
 lichkeit, Freiheit

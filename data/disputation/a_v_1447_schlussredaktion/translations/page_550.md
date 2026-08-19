@@ -1,7 +1,5 @@
 # Seite 550
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 220
 Die wahre Schlussfolgerung (Schlussstadt)
 so der Herr macht, so wie ca. a, den Herr hat ge-

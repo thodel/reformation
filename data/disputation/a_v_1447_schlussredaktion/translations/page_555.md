@@ -1,7 +1,5 @@
 # Seite 555
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **Text:**
 In Dörfern fragt mich nicht, gebt Antwort
 auf meinen Öllogismus, ob der Leib
@@ -71,16 +69,3 @@ ausrufend Herrn und vollgelernte, vorsichtige, weise Herrn
 die weil der
 frommen Christen
 39
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Modernisierung der Sprache:** Die Rechtschreibung und der Satzbau wurden an das moderne Deutsch angepasst.
-*   **Erläuterung schwieriger Begriffe:** Einige Begriffe wie "Öllogismus" oder "Ist-Haft" wurden sinngemäß übersetzt, da ihre genaue Bedeutung im Kontext unklar ist.
-*   **Beibehaltung der Mehrdeutigkeit:** In manchen Fällen ist der Sinn des Originals schwer zu erschließen. Dies wurde in der Übersetzung beibehalten, um die ursprüngliche Aussage nicht zu verfälschen.
-*   **Eigennamen:** Eigennamen wurden beibehalten, da eine Übersetzung hier keinen Mehrwert böte.
-*   **"Referier mich acta":**  Dieser Satz ist schwer zu interpretieren. "Acta" könnte sich auf Akten oder Protokolle beziehen. Die Übersetzung behält die Mehrdeutigkeit bei.
-*   **"In cursius":** Auch hier ist der Sinn nicht eindeutig. Es könnte sich um den Nachnamen einer Person handeln oder einen Hinweis auf eine bestimmte Schrift oder ein Amt. "In Cursius" wurde unverändert übernommen.
-*   **Pelagius am sein Produzent:** Der Sinn dieses Satzes ist schwer zu erschließen. Pelagius war ein Theologe. "Produzent" könnte hier im Sinne von "Urheber" gemeint sein. Der Satz wurde aber so nah wie möglich am Original übersetzt.
-*   **"ropindig":** Dies ist vermutlich eine ungewöhnliche Form von "ausrufend".
-
-Der Text scheint sich um eine theologische Auseinandersetzung zu handeln, möglicherweise im Rahmen der Reformation. Es geht um die Frage, wie der Leib Christi im Abendmahl verstanden werden soll. Die verschiedenen Sprecher haben unterschiedliche Positionen, die sie verteidigen.

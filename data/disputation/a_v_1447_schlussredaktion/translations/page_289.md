@@ -1,7 +1,5 @@
 # Seite 289
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Die andere Schlussfolgerung
 ist, nicht zu verwerfen, denn weil Paulus
 an die Philipper am 3. Kapitel so schreibt: „So etwas

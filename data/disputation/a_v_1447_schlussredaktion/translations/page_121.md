@@ -1,7 +1,5 @@
 # Seite 121
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 wissen, dass unser Widersacher, das
 *wissen, dass unser Widersacher,*
 

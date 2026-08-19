@@ -1,7 +1,5 @@
 # Seite 367
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 **Text:**
 Das er sich ein Trost macht Das erfindt sich
 an den nachgenden Worten, Da allso stat Da

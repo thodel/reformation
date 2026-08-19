@@ -1,7 +1,5 @@
 # Seite 368
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 er/sie sind
 das/der tun einer
 und sind

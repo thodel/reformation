@@ -1,7 +1,5 @@
 # Seite 140
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 53
 Die erste Schlussfolgerung ist:
 Aber dass solch ein Spruch, von einer Kirche und

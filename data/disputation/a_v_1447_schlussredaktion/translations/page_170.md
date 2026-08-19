@@ -1,7 +1,5 @@
 # Seite 170
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 1691
 Ehegen
 66

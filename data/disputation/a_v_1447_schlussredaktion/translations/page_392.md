@@ -1,7 +1,5 @@
 # Seite 392
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 und in allem
 nicht unnütz, dass
 Innen geringer fünf

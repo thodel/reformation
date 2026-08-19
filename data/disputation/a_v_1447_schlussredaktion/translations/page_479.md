@@ -1,7 +1,5 @@
 # Seite 479
 
-Okay, hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird und jede Zeile einzeln übersetzt wird:
-
 48
 1.
 Blut des Punktes, welches mit euch getropft hat,
@@ -29,16 +27,3 @@ Volk mit Worfen. Dabei gesagt, das
 ist das Blut der Punkt muss, mit fünf ge-
 troffen.
 Dient solches Figur in aufs das
-
-**Anmerkungen zur Übersetzung und zum Verständnis:**
-
-*   **Schreibweise:** Die ursprüngliche Schreibweise ist uneinheitlich, da es noch keine standardisierte deutsche Orthographie gab. Ich habe die Rechtschreibung im modernen Deutsch angepasst.
-*   **Grammatik:** Die Grammatik ist ebenfalls vom heutigen Standard abweichend. Ich habe sie angepasst, um den Sinn klarer zu machen.
-*   **Vokabular:** Einige Wörter und Wendungen sind veraltet oder haben eine leicht veränderte Bedeutung. Ich habe versucht, die Bedeutung so genau wie möglich wiederzugeben.
-*   **Kontext:** Der Text scheint sich mit theologischen Fragen der Eucharistie (Abendmahl) zu beschäftigen, insbesondere mit der Frage, ob Brot und Wein tatsächlich in Leib und Blut Christi verwandelt werden (Realpräsenz) oder ob es sich um eine symbolische Darstellung handelt.
-*   **Ecolampadius:** Johannes Oekolampad (oder Ecolampadius) war ein Schweizer Reformator, der eine symbolische Deutung des Abendmahls vertrat.
-*   **Johann von Müns:** Wahrscheinlich Johann von Münsterberg, ein Theologe.
-*   **Exodus Exiiij cap:** Bezug auf das 14. Kapitel des Buches Exodus. Die Textstelle bezieht sich wahrscheinlich auf die Besprengung des Volkes Israel mit dem Blut des Bundes.
-*   **Unvollständigkeit:** Der Text ist fragmentarisch, insbesondere das Ende.
-
-Ich hoffe, diese Übersetzung ist hilfreich!

@@ -1,8 +1,5 @@
 # Seite 644
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
-Text:
 Mittwoch
 Fünf
 Werk der

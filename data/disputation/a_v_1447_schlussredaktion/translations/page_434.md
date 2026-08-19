@@ -1,7 +1,5 @@
 # Seite 434
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird und jede Zeile einzeln übersetzt wird:
-
 **Text:**
 19/86 k
 Den av:

@@ -1,7 +1,5 @@
 # Seite 329
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 49
 Der dritte Schlussartikel,
 der allein vollbracht hat das Werk unserer Erlösung.

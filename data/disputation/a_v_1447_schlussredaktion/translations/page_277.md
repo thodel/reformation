@@ -1,7 +1,5 @@
 # Seite 277
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **Die andere Schlussrede**
 Die von Gott gelernt sind, aus welchem folgt
 der andere Artikel. Ehe [oder bevor] er es so lässt: Die Kirche

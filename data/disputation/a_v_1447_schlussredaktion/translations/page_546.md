@@ -1,7 +1,5 @@
 # Seite 546
 
-Hier die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 Zeigt
 Geredet
 Vorhin

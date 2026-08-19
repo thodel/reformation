@@ -1,7 +1,5 @@
 # Seite 391
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Pfarreien von Appen-
 und ich mich auf die Übersetzungen des Hieronymus (beziehe).
 Pfarrer von St. Georg-

@@ -1,7 +1,5 @@
 # Seite 240
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Ihre
 in der
 Tat gar
@@ -40,15 +38,3 @@ Zwingli
 Aen ter Anclaus. Was wollen so mit
 Denen Worten allen Infuxen
 Seuger
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Rechtschreibung:** Die Rechtschreibung wurde modernisiert, inklusive der Auflösung von Ligaturen und der Verwendung von "ss" statt "ß" (da im Originaltext scheinbar kein "ß" verwendet wird).
-*   **Grammatik:** Die Grammatik wurde an das moderne Deutsch angepasst.
-*   **Vokabular:** Einige Wörter wurden durch ihre modernen Entsprechungen ersetzt, um das Verständnis zu erleichtern.
-*   **Satzbau:** Der Satzbau wurde an einigen Stellen leicht angepasst, um die Lesbarkeit zu verbessern, während die ursprüngliche Bedeutung erhalten blieb.
-*   **Unklarheiten:** Einige Passagen sind aufgrund des fragmentarischen Charakters des Texts und der spezifischen Bezugnahmen (z.B. "Thossa," "Jan Zwyffell," "Aen ter Anclaus") schwer vollständig zu deuten. Es handelt sich wahrscheinlich um Namen oder Orte, die im Kontext der Zeit bekannt waren.
-*   **Zeilenstruktur:** Die ursprüngliche Zeilenstruktur wurde so gut wie möglich beibehalten, um die Form des ursprünglichen Textes widerzuspiegeln. Allerdings führte die notwendige Korrektur der Grammatik und des Vokabulars an einigen Stellen zu leichten Abweichungen.
-*   **Infuxen Seuger:** Hierbei handelt es sich um den rätselhaftesten Teil. Es ist schwer, dies ohne weiteren Kontext zu interpretieren. Ich habe "Infuxen" als "Einflüssen" interpretiert. "Seuger" könnte eine abwertende Bezeichnung sein.
-
-Die Übersetzung gibt den Sinn des Textes so gut wie möglich wieder, unter Berücksichtigung der Herausforderungen, die der Text mit sich bringt. Es ist wahrscheinlich, dass eine vollständige Interpretation nur mit weiterem Wissen über den historischen Kontext möglich ist.

@@ -1,7 +1,5 @@
 # Seite 409
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Und erfindet sich, dass gar eine fremde Weise zu
 reden ist, sprechend, dass ein *schacrumm*, so das
 Wasser, so man verstehen will, dadurch in Schwum

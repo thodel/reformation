@@ -1,7 +1,5 @@
 # Seite 330
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 (terna) - (dreimal)
 van dazu - von dazu
 den voors. - den vorhin genannten.

@@ -1,7 +1,5 @@
 # Seite 210
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 entbinden
 62
 Die erst schlummernde
@@ -30,12 +28,3 @@ aller Jünger, geantwortet hab, zeigt der weit
 klar an, an der Frag des Herren, Oven sagend
 In der Ich sy, Da hat Petrus In Ir aller
 Namen geantwortet, wie auch bestechen Johannes
-
-**Anmerkungen zur Übersetzung und Interpretation:**
-
-*   **Unsicherheiten:** Einige Wörter und Phrasen sind schwer eindeutig zu übersetzen, da sie entweder veraltet sind, in einer lokalen Mundart geschrieben wurden oder aufgrund von Schreibfehlern unklar sind. Die in Klammern gesetzten Wörter/Phrasen sind Annäherungen oder Interpretationen.
-*   **Zeilenstruktur:** Die Zeilenstruktur wurde strikt beibehalten, auch wenn dies manchmal zu unnatürlich wirkenden Satzteilungen führt. Im modernen Deutsch würde man die Sätze gegebenenfalls anders gliedern.
-*   **Grammatik und Rechtschreibung:** Die Grammatik und Rechtschreibung des frühneuhochdeutschen Textes wurden in modernes Deutsch übertragen, um die Lesbarkeit zu verbessern.
-*   **Inhaltlicher Kontext:** Der Text scheint sich mit der Rolle von Petrus (und möglicherweise auch Johannes) als Sprecher und Vertreter der Jünger Jesu auseinanderzusetzen, möglicherweise im Zusammenhang mit der Schlüsselgewalt. Der Bezug zu "Berchtoldus" und der "scaccussell" ist unklar und bedarf weiterer Recherche im historischen Kontext.
-
-Ich hoffe, diese Übersetzung ist hilfreich!

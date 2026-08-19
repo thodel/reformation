@@ -1,7 +1,5 @@
 # Seite 82
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Sie ihm
 gab
 Kühe.

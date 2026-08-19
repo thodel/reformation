@@ -1,7 +1,5 @@
 # Seite 387
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 112
 Der Verzug unseres Bruders erfreut uns sehr,
 dass er sich mit Weiterem einlässt. Die oft gedachten

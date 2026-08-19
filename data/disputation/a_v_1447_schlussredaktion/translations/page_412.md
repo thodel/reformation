@@ -1,7 +1,5 @@
 # Seite 412
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile, unter Beibehaltung der Zeilenstruktur:
-
 myst
 bricht
 schafft

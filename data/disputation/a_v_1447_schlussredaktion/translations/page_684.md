@@ -1,7 +1,5 @@
 # Seite 684
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde und jede Zeile einzeln übersetzt wird:
-
 **Text:**
 d'attenteil
 men werde
@@ -80,12 +78,3 @@ zum Zeugnis für...
 Johannes Buchstabe
 Ich bleibe bei dem gegebenen Text,
 macht eine...
-
-**Anmerkungen:**
-
-*   Einige Wörter und Phrasen sind schwer eindeutig zu übersetzen, da sie entweder veraltet sind oder einen Kontext erfordern, der uns fehlt.
-*   "Bord" in Zeile 7 könnte ein Name, ein Ort oder ein anderes unbekanntes Element sein.
-*   Die letzten beiden Zeilen sind fragmentarisch. "Johannes Buchstabe" könnte ein Verweis auf Johannes den Evangelisten oder einen Schreiber namens Johannes sein. "fait une..." ist Französisch und bedeutet "macht eine...". Hier fehlt der Rest des Satzes.
-* Die Zahlen in den ersten Zeilen scheinen keine direkte Verbindung zum restlichen Text zu haben.
-
-Ich hoffe, diese Übersetzung ist hilfreich!

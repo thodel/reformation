@@ -1,7 +1,5 @@
 # Seite 320
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 per réun.
  à moins des
 
@@ -123,11 +121,3 @@ fothum Inzufuren, wellen wir ouch geen muun¬
 
 men, allein er lasse vns bij den worten Pauli,
 *men, allein er lasse vns bij den Worten Pauli,*
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Schwierigkeiten:** Der Text ist fragmentarisch, teilweise unklar und enthält vermutlich Schreibfehler oder Dialektformen. Die Übersetzung ist daher stellenweise interpretativ. Viele Wörter sind unklar, da sie im modernen Deutsch nicht mehr existieren, oder ihre Bedeutung sich geändert hat.
-*   **Fokus:** Der Fokus lag darauf, die Bedeutung so gut wie möglich zu rekonstruieren, auch wenn dies zu einer holprigen Übersetzung führt.
-*   **Platzhalter:** Begriffe, die nicht übersetzt werden konnten, wurden beibehalten.
-
-Ich hoffe, diese Übersetzung ist hilfreich.

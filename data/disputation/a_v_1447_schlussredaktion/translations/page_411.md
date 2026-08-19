@@ -1,7 +1,5 @@
 # Seite 411
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 dürfen
 Dem Klerus weiter zu reden, zu beschirmen.
 Wir sind noch von euch Geringen, solche

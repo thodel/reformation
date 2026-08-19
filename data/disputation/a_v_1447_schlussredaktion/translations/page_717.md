@@ -1,7 +1,5 @@
 # Seite 717
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 **Gemlichs**
 Die 8. Schlussrede.
 Nis und Saphira hatten zeitliches Gut, das sie mochten

@@ -1,7 +1,5 @@
 # Seite 710
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 30.
 Der achte Schlußartikel
 an keinem Ort, da wegen der Verehrung einige Anstoß

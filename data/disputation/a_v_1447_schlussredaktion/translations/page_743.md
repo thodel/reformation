@@ -1,7 +1,5 @@
 # Seite 743
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Und erprobt, alle die ihm vertrauen, und sich rein all-
 zeit halten, fürchten und lieben, das ewige Leben, und
 dass wir dadurch Jünger Christi erkannt werden, so

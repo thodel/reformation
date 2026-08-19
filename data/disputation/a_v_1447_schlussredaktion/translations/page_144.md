@@ -1,7 +1,5 @@
 # Seite 144
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 r zu
 23 x
@@ -81,13 +79,3 @@ lichem der Gläubigen gerichtet, das ist wahr
 erkannt werden soll, haben wir längst ge-
 schrieben und gepredigt, wie das unsere Bücher
 enden. Insbesondere, ich den Provinzial zu Antwort.
-
-**Anmerkungen:**
-
-*   Die Zeilenumbrüche wurden beibehalten, um die Struktur des Originaltextes zu erhalten.
-*   Einige Wörter oder Satzteile sind schwer zu deuten, da sie entweder veraltet sind oder Schreibfehler enthalten. Ich habe versucht, die wahrscheinlichste Bedeutung zu ermitteln.
-*   "Angell" bezieht sich wahrscheinlich auf einen Engel.
-*   "Pronunziant" bezieht sich auf einen Redner oder Ankläger.
-*   "Capico" ist wahrscheinlich ein Eigenname.
-*   "yschrifft" könnte eine Falschschreibung von "Schrift" sein.
-*   Einige Formulierungen sind absichtlich etwas altertümlich gehalten, um den Stil des Originals widerzuspiegeln.

@@ -1,7 +1,5 @@
 # Seite 88
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 Die erst Schlußred 31
 Das usserwellt vasß  / Christi / hatt hie jnn diser Zyt

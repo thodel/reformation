@@ -1,7 +1,5 @@
 # Seite 293
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Die andere Schlussrede
 der christlichen Kirchen geordnet und, welches weiter
 Im nachfolgendem Kapitel angepriesen wird, Oo ƒ 6

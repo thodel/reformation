@@ -1,7 +1,5 @@
 # Seite 741
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 Cristenleche Religion, zucht, glauben vnd leben, vil
 anders, nach dem wort gottes gestaltot, dann bisthar

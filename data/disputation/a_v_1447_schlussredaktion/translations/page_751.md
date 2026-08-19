@@ -1,7 +1,5 @@
 # Seite 751
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Im Vermögen ist; beschuldigen und verdienen, dem:
 *Im Stande ist; beschuldigen und verdienen, dem:*
 
@@ -73,12 +71,3 @@ zum Frühesten hervorgebracht, auch dem heißt
 
 Gottes aller gleichförmig Post, die ausgelehnt und erklärt.
 *Gottes allgleichförmiger Post, die ausgelehnt und erklärt.*
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Unsicherheiten:** Einige Wörter und Phrasen sind schwer eindeutig zu übersetzen, da sie im modernen Deutsch nicht mehr gebräuchlich sind.  "Goschenproch" ist z.B. unklar. Es könnte ein Eigenname sein, ein veralteter Begriff oder ein Schreibfehler.
-*   **Zeilenstruktur:** Die Beibehaltung der Zeilenstruktur führt zu abgehackten Sätzen. Im modernen Deutsch würden diese zu längeren, zusammenhängenden Sätzen umgeformt.
-*   **Kontext:** Ohne den weiteren Kontext ist die genaue Bedeutung einiger Aussagen schwer zu erschließen.
-*   **Formulierungen:** Die Sätze sind sehr komplex und verschachtelt. Im modernen Deutsch würde man sie vereinfachen.
-
-Die Übersetzung soll eine möglichst akkurate Wiedergabe des Originals sein, unter Beibehaltung der ursprünglichen Struktur. Für ein besseres Verständnis wäre jedoch eine kontextuelle Einordnung des Textes notwendig.

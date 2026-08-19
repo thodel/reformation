@@ -1,7 +1,5 @@
 # Seite 595
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 Die fünfte Schlusseredi
 Martinus burger,

@@ -1,7 +1,5 @@
 # Seite 287
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **prina**
 Erster
 

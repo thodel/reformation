@@ -1,7 +1,5 @@
 # Seite 130
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Luther
 50.1
 dem gemeinen Mann einen wächsernen Glauben

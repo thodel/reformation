@@ -1,7 +1,5 @@
 # Seite 354
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 4 Co
 147
 Die vier

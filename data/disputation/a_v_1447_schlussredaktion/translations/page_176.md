@@ -1,7 +1,5 @@
 # Seite 176
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Und darüber hinaus zeigt er an,
 Dass er seine angezogene
 Schrift mit Nachdruck

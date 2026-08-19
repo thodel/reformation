@@ -1,7 +1,5 @@
 # Seite 485
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 60
 Hebräer, Joseph und der wahre Glaube, die näm-
 liche Auslegung, so ist es stet, das ist der Kelch des

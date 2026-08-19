@@ -1,7 +1,5 @@
 # Seite 734
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, wobei die ursprüngliche Zeilenstruktur beibehalten wurde:
-
 Dic. viiii. Chlusvredi
 Den 9. Dezember. Chlusvredi
 Ich bezeuge mit dieser Schrift über alles, was gehandelt

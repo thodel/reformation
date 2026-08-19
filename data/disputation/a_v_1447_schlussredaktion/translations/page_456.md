@@ -1,8 +1,5 @@
 # Seite 456
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 mainte
 hier ver
 Denton

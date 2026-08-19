@@ -1,7 +1,5 @@
 # Seite 631
 
-Absolut! Hier ist die Übersetzung des Textes, wobei ich versucht habe, die ursprüngliche Zeilenstruktur so gut wie möglich beizubehalten und den Sinn des Textes zu treffen:
-
 **Moderne Übersetzung:**
 
 T

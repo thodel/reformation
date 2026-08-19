@@ -1,7 +1,5 @@
 # Seite 254
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 5 mich
 Jugend
 &

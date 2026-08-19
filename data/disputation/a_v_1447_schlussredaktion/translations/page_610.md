@@ -1,7 +1,5 @@
 # Seite 610
 
-Hier die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 et dans rien
 und sonst nichts
 ten dort

@@ -1,7 +1,5 @@
 # Seite 29
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **Übersetzung:**
 
 *   **faire de** (frz. nicht übersetzt, da offensichtlich fremdsprachlich)
@@ -53,12 +51,3 @@ Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobe
 *   **Der gnaden vnnd des gnadriches labens, so bedarff**
     keines Disputierens. Wenn gleich wie das
 *   **Ses komes Disputierens. Wen glicken, wie das**
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Wortwahl:** Ich habe versucht, möglichst nah am Original zu bleiben, ohne den modernen Leser zu verwirren. Einige Wörter haben sich im Laufe der Zeit stark verändert, daher musste ich moderne Entsprechungen finden.
-*   **Grammatik:** Die Grammatik des Frühneuhochdeutschen unterscheidet sich erheblich von der des modernen Deutsch. Ich habe die Sätze in eine verständlichere Form gebracht, ohne den ursprünglichen Sinn zu verfälschen.
-*   **Kontext:** Ohne den genauen Kontext des Textes (z.B. aus welcher Schrift stammt er, wer war der Autor) ist es schwierig, manche Stellen mit absoluter Sicherheit zu interpretieren.  Ich habe versucht, die wahrscheinlichste Bedeutung zu wählen.
-*   **"faire de"**:  Dies ist ein französischer Ausdruck. Im Kontext hier wahrscheinlich soviel wie: "sich messen" oder "wetteifern", oder "kämpfen" bedeuten.  Ich habe es, da es ausserhalb des deutschen Textes steht und nicht direkt in den Sinn eingebunden ist, unbearbeitet gelassen, um die Zeilenstruktur nicht zu gefährden.
-
-Ich hoffe, diese Übersetzung ist hilfreich!

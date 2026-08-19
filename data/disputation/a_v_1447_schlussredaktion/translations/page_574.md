@@ -1,7 +1,5 @@
 # Seite 574
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 240
 Die fünfte Schlussrede
 will, dafür hat getragen, und als Paulus zu den

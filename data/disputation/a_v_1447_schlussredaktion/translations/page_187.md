@@ -1,7 +1,5 @@
 # Seite 187
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 In deinem Namen, Herr Jesu Christe, Amen.
 Alles das, Herr Berchtold, Prediger meines Herrn
 von Bern, wegen des Bannes, über lange

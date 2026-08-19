@@ -1,7 +1,5 @@
 # Seite 396
 
-Absolut! Hier ist die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile beibehalten:
-
 **Übersetzung:**
 
 # Datum

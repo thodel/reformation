@@ -1,7 +1,5 @@
 # Seite 711
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Die viii. Schlusred:**
 Die achte Schlussrede,
 

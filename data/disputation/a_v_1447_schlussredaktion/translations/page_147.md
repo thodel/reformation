@@ -1,7 +1,5 @@
 # Seite 147
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 " Immerhin,
 Was die christlichen Kirchen
 schriftlich

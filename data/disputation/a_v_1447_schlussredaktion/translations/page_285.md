@@ -1,7 +1,5 @@
 # Seite 285
 
-Absolut! Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 4.
 1
 15

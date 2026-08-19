@@ -1,7 +1,5 @@
 # Seite 501
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 vff
 47
 Ob

@@ -1,8 +1,5 @@
 # Seite 115
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile beibehalten:
-
-Text:
 her ein richter gesetzt het vnsicht warlich vnnd
 vierkantlich Darumb noch huijs by tag
 volgt. Das diesselb sichbarlich kilch In einem

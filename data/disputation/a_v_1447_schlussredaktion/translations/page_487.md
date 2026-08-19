@@ -1,7 +1,5 @@
 # Seite 487
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Weder will ich solch Antwort, die Maria gegeben
 haben,
 Alles das, so Christus getan,

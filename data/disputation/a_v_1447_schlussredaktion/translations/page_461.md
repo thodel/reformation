@@ -1,7 +1,5 @@
 # Seite 461
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 derselbigen hatt de vier all weg, Im alleen vnnd Nuwen
 *Davon hat der Herr alle Wege, im Alten und Neuen*
 

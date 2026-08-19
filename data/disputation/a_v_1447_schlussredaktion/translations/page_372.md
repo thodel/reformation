@@ -1,7 +1,5 @@
 # Seite 372
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Doncieux
 Von derselben zu erblicken,
 als das zu

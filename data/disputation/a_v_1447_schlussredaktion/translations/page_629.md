@@ -1,7 +1,5 @@
 # Seite 629
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Die nächste Schlussrede.
 Hans Wachter,
 Nun auf Kolischs [Kolleg], als er dann flucht, wie meines

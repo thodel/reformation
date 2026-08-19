@@ -1,7 +1,5 @@
 # Seite 107
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 und Paulus will aber hier sagen, der Gerechte
 Und Paulus will aber hier sagen, dass der Gerechte
 wird nicht gerichtet, das da ohne Zweifel wahr

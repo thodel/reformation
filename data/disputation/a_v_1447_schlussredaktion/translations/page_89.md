@@ -1,7 +1,5 @@
 # Seite 89
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Mal der Pfarrer in Erkelenz mag ein sonder-
 liches Zynen gewählt, Petro, dem Papst und Di-
 scheffen befehlen.

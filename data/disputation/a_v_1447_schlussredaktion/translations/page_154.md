@@ -1,7 +1,5 @@
 # Seite 154
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 60
 Der erste Schluss noch:
 Mir ein Haupt, Jesum Christum, erkennen, mir,

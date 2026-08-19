@@ -1,7 +1,5 @@
 # Seite 384
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Hast du denn
 In Heiligen
 so erhört

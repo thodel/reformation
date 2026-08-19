@@ -1,7 +1,5 @@
 # Seite 559
 
-Hier die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 Der Matthias, Pfarrer zu Zauchen, auf Anzus
 
 dessen

@@ -1,7 +1,5 @@
 # Seite 445
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 pima
 Nehmend und essend, das ist mein Leib und darum
 uns erinnern, gleicher Gestalt der Erlösung

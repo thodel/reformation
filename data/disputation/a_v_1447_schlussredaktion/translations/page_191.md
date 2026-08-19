@@ -1,7 +1,5 @@
 # Seite 191
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 (gegen Herrn Berchweden) meine Angelegenheit und
 meint, er solle nur Antwort geben, so fing
 er an und fragte mich, ich solle ihm Antwort

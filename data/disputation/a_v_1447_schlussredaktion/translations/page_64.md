@@ -1,7 +1,5 @@
 # Seite 64
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 21
 Die erste Entschuldigung
 und jährliche Sündenverzicht, Esra 43. Kapitel:

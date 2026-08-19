@@ -1,7 +1,5 @@
 # Seite 653
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird und jede Zeile einzeln übersetzt wurde:
-
 86
 1
 Die vierte Schlussrede

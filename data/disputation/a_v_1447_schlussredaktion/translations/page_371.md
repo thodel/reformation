@@ -1,7 +1,5 @@
 # Seite 371
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 # Ist das ewige
 Leben
 Erstens

@@ -1,7 +1,5 @@
 # Seite 516
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird und jede Zeile einzeln übersetzt wird:
-
 **Text:**
 de son
 Winsen

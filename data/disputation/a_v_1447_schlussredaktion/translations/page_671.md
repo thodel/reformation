@@ -1,7 +1,5 @@
 # Seite 671
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Die siebte Schlussrede.
 Dient auf die Einfragung, die Jünger haben den
 Verstand, als Christus die Jünger geheiligt

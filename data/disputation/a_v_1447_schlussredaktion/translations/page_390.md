@@ -1,7 +1,5 @@
 # Seite 390
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 nicht ver-
 Wirrer
 Darauf

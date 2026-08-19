@@ -1,7 +1,5 @@
 # Seite 32
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird und jede Zeile einzeln übersetzt wird:
-
 **Text:**
 mpt
 H.
@@ -81,11 +79,3 @@ eigenem Ermessen, der Schrift und Eigenschaft,
 des Haupts/ ein gegklichen glouwen verstenop ist,
 dass Christus sei das einzige Haupt. Denn das
 Paulus spricht, sein Epheser. aus v. Kapitel.
-
-**Anmerkungen:**
-
-*   Einige Wörter sind sehr schwer zu übersetzen, da sie veraltet sind oder in einem spezifischen historischen Kontext verwendet werden. Ich habe versucht, die wahrscheinlichste Bedeutung zu finden.
-*   Die Zeilenumbrüche und die eigenartige Schreibweise (z.B. "hunlen" statt "Himmeln") wurden beibehalten, um die Struktur des Originals zu respektieren.
-* Ich habe mich bemüht, den Sinn des Textes so gut wie möglich wiederzugeben, aber ohne den genauen historischen und theologischen Hintergrund kann die Interpretation schwierig sein.
-
-Ich hoffe, diese Übersetzung ist hilfreich!

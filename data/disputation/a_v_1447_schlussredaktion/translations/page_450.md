@@ -1,7 +1,5 @@
 # Seite 450
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 Fass un
 F vnd vnser

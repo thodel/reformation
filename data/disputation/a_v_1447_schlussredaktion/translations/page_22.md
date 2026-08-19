@@ -1,8 +1,5 @@
 # Seite 22
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile beibehalten:
-
-Text:
 Mittagessen
 ἐκκλισια. (Ekklesia - griechisch für Gemeinde/Versammlung)
 Die erste Schlussfolgerung,

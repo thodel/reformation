@@ -1,7 +1,5 @@
 # Seite 190
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 7 M
 48
 74
@@ -31,19 +29,3 @@ Kirche sei, sie daraufhin Antwort hefft
 Heo: Pfarrer von
 Oppen Zelle
 Ruhmen lieben Christen, ich habe in Geleit wider
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Beibehaltung der Zeilenstruktur:** Ich habe versucht, die Zeilenstruktur so gut wie möglich beizubehalten, um die Orientierung im Originaltext zu erleichtern.
-*   **Moderne Rechtschreibung:** Die Rechtschreibung wurde modernisiert.
-*   **Syntax und Grammatik:** Die Syntax und Grammatik wurden angepasst, um den Text verständlicher zu machen.
-*   **Interpretation:** Einige Stellen waren aufgrund der fragmentarischen Natur des Textes und der archaischen Sprache schwer zu interpretieren. In solchen Fällen habe ich versucht, die wahrscheinlichste Bedeutung zu wählen.
-*   **"elst":** Ich vermute, dass "elst" hier "ehest" oder "am ehesten" bedeuten soll.
-*   **"bötliche Klechen":** "bötlich" könnte hier "nötig" oder "notwendig" bedeuten. "Klechen" ist schwer zu deuten, eventuell eine regionale oder veraltete Form für "Klagen" oder "Beschwerden."
-*   **Bercolus:** Hierbei handelt es sich wahrscheinlich um eine Person, die zitiert wird.
-*   **"sanft und dienstbarkem":** Das Wort "dienstbarkem" ist möglicherweise ein Schreibfehler oder eine regionale Variante. Im Kontext würde "dienstbaren" Sinn ergeben.
-*   **"hefft":** Hierbei handelt es sich um eine veraltete Form von "hat".
-*   **Heo: Pfarrer von Oppen Zelle:** Vermutlich die Antwort eines Pfarrers aus Oppen Zelle.
-*   **Ruhmen lieben Christen:** Eventuell eine Anrede des Pfarrers.
-
-Diese Übersetzung ist eine Interpretation und kann in einigen Details von anderen Interpretationen abweichen. Der Text ist an einigen Stellen lückenhaft und schwierig zu deuten, was eine definitive Übersetzung erschwert.

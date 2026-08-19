@@ -1,7 +1,5 @@
 # Seite 314
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 sich mir
 +1 Oas
 Ou
@@ -42,14 +40,3 @@ was leiden, oder seinen Kampf annehmen, So wir
 um binnen witten, nicht vierzig Tage, aber Fleisch es-
 sen mögen bin, und fasten,
 Martinus Buijer
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Unsicherheiten:** Einige Wörter sind schwer eindeutig zu übersetzen, da sie in der heutigen Sprache nicht mehr gebräuchlich sind oder mehrere Bedeutungen haben könnten (z.B. "Oas", "Ou", "Arcken", "Bachungen", "frodi", "annen").
-*   **Zeilenstruktur:** Die Zeilenstruktur wurde beibehalten, um die ursprüngliche Form des Textes zu respektieren, was die Lesbarkeit im modernen Deutsch jedoch etwas beeinträchtigen kann.
-*   **Grammatik:** Die Grammatik wurde leicht angepasst, um den Text verständlicher zu machen, ohne jedoch den ursprünglichen Sinn zu verfälschen.
-*   **Kontext:** Ohne den vollständigen Kontext des Textes ist es schwierig, eine perfekte Übersetzung zu gewährleisten.
-*   **Eigennamen:** Eigennamen wie "Pauli", "Moses", "Elias", "Christus Jesus", "Mathei", "Petri", "Johannis", "Martinus Buijer" wurden beibehalten.
-*   **Religiöser Bezug:** Der Text hat einen stark religiösen Bezug, insbesondere zum Fasten, zu den Lehren des Paulus und zu Beispielen aus dem Alten und Neuen Testament.
-
-Ich hoffe, diese Übersetzung ist hilfreich!

@@ -1,7 +1,5 @@
 # Seite 603
 
-Hier die Übersetzung des Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 δροσοπιοώοιια (Bleibt im Original, da es kein Deutsch ist)
 199 (Bleibt im Original, eine Seitenzahl)
 Die fünfte Schlussrede

@@ -1,7 +1,5 @@
 # Seite 319
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 91
 Die andere Schlussfolgerung
 hört, wer mir zuhört, wurde mir geantwortet, mit

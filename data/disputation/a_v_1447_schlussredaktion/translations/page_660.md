@@ -1,7 +1,5 @@
 # Seite 660
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Cator
 28
 Die vierte Schlussrede

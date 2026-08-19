@@ -1,7 +1,5 @@
 # Seite 510
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Was man
 Euer
 Gut(es).

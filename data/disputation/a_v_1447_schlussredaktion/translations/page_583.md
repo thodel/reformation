@@ -1,7 +1,5 @@
 # Seite 583
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 1
 278
 Die fünfte Schlussrede

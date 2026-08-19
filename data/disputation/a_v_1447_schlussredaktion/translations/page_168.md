@@ -1,7 +1,5 @@
 # Seite 168
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 mehr
 85
 Die ersten Schlussreden

@@ -1,7 +1,5 @@
 # Seite 498
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **pp 149
 207**
 

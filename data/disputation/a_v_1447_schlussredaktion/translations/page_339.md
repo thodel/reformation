@@ -1,7 +1,5 @@
 # Seite 339
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Die dritte Schlussfolgerung:
 Christus als eine vollkommene Genugtuung für
 die ganze Welt bekannt ist, doch mit der Bedingung, dass wir

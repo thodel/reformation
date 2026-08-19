@@ -1,7 +1,5 @@
 # Seite 299
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **Die andere Schlussrede**
 Prediger, in Stadt und Land, auch die Co-Ordinatoren,
 auf die gegenwärtige Disputation beschrieben sind, sollen

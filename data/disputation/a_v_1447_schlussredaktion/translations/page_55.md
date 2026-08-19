@@ -1,7 +1,5 @@
 # Seite 55
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 + Wahrlich
 
 Als ob wir den Monstranz achten sollten, als

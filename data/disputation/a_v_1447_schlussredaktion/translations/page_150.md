@@ -1,8 +1,5 @@
 # Seite 150
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 essens
 a ses
 J.K.

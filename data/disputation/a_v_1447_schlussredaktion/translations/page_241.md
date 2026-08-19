@@ -1,7 +1,5 @@
 # Seite 241
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 # gestorben
 vergessenheit
 .

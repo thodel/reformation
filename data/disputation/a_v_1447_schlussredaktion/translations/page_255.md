@@ -1,7 +1,5 @@
 # Seite 255
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Original:**
 allein, vnnd die monstgen allein vnd die
 getheit vnnd monsthet, mit ein andern vereint

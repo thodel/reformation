@@ -1,7 +1,5 @@
 # Seite 302
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 lchin.
 per littres
 Das #
@@ -43,11 +41,3 @@ Worts bestat, gegründet, und befestigt ist, und
 nicht auf die Satzungen der Menschen, und wer
 uns eine andere Lehre bringt dann Christi, den sollen
 wir nicht hören. 2. Johannes, zum Letzten haben
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Schreibweise:** Ich habe die Rechtschreibung und Grammatik modernisiert.
-*   **Unklare Stellen:** Einige Stellen sind im Original schwer verständlich (z.B. "Das #" oder "Oi Onie"). Ich habe versucht, den Sinn im Kontext zu erfassen, aber eine perfekte Übersetzung ist hier schwierig.
-*   **Theologischer Kontext:** Der Text scheint sich mit der Autorität der Bibel und der Ablehnung falscher Lehren zu beschäftigen.
-
-Ich hoffe, diese Übersetzung hilft dir weiter!

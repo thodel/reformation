@@ -1,7 +1,5 @@
 # Seite 45
 
-Okay, hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 -
 m
 Bucerus

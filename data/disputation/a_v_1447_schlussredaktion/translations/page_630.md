@@ -1,7 +1,5 @@
 # Seite 630
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 5 Cr
 99
 # dabij

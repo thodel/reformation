@@ -1,7 +1,5 @@
 # Seite 173
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 gnädigen Herren von Bern, Mandat gehandelt
 werden soll, so bring er dasselbige herfür.
 Soll ihm von meinem lieben Bruder genugsam

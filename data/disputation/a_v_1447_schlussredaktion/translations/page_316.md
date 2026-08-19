@@ -1,7 +1,5 @@
 # Seite 316
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Frauen
 bewegen sich
 - lerne still zu sein,

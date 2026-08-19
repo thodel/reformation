@@ -1,7 +1,5 @@
 # Seite 149
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 „ nie gewesen
 Da haben Ich
 Wer ist Exello, etc.

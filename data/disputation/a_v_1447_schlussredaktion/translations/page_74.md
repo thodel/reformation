@@ -1,7 +1,5 @@
 # Seite 74
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 und
 3
 Das der

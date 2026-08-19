@@ -1,7 +1,5 @@
 # Seite 607
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Die fünfte Schlussrede,
 Versteht, dieweil nun Christus solche Worte gesagt hat,
 Seinen Jüngern, als die Jünger fragten, wann

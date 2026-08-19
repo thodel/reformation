@@ -1,7 +1,5 @@
 # Seite 202
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 
 Ain
@@ -71,11 +69,3 @@ Paulus spricht zu den Galatern in dem Kapitel
 Ihr sollt und einander unterweisen im Geist
 der Sanftmut, ich bitte aber euch
 Alle meine Herren von den frommen Christen.
-
-**Anmerkungen:**
-
-*   **Sprachliche Anpassung:** Ich habe versucht, den Sinn so genau wie möglich wiederzugeben, ohne den Text zu sehr zu modernisieren. Einige Formulierungen wirken im modernen Deutsch etwas umständlich, spiegeln aber den Originalton wider.
-*   **Ungenauigkeiten:** Aufgrund von Schreibfehlern und der teils unklaren Bedeutung einzelner Wörter im Frühneuhochdeutschen sind geringfügige Ungenauigkeiten nicht auszuschließen.
-*   **Kontext:** Ohne den genauen Kontext (z.B. aus welchem Werk der Text stammt) ist eine noch präzisere Übersetzung schwierig.
-
-Ich hoffe, diese Übersetzung ist hilfreich.

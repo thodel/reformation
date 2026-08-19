@@ -1,7 +1,5 @@
 # Seite 692
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 4 In
 295
 Die siebte Schlussrede.

@@ -1,7 +1,5 @@
 # Seite 729
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 ym
 Den 8. Inlusbredt
 dann Matthäus 2 sagt von Christus, Er wird ein

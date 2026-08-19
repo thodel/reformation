@@ -1,7 +1,5 @@
 # Seite 303
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Die andere Schlussrede:
 Die Thessalonicher nahmen die Predigt Pauli an,
 nicht als eine Lehre eines Menschen, sondern wie es uns (wirklich) ist:

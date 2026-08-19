@@ -1,7 +1,5 @@
 # Seite 166
 
-Absolut! Hier ist die Übersetzung des Textes, Zeile für Zeile, ins moderne Deutsch, wobei ich versucht habe, den ursprünglichen Sinn und Ton beizubehalten:
-
 **Übersetzung:**
 
 Borten
@@ -29,13 +27,3 @@ Versambt, heissen solle, vnd hat furgegeben, Das In
 gemeinen sunden woll int not sie eins gememen
 Concilij Zeerwarten, Sonnders es moge, ein Jede
 Gemeinde potes, solche straffen. Aber so es
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Schwierigkeiten:** Das Frühneuhochdeutsche hat eine ganz andere Grammatik und Orthographie als das heutige Deutsch. Einige Wörter sind veraltet oder haben sich in ihrer Bedeutung verschoben.
-*   **Interpretation:** An einigen Stellen war die genaue Bedeutung aufgrund der Formulierung nicht eindeutig. Ich habe versucht, die wahrscheinlichste Interpretation zu wählen.
-*   **Stil:** Ich habe versucht, einen etwas altertümlichen Stil beizubehalten, um den ursprünglichen Charakter des Textes widerzuspiegeln.
-
-**Gesamtverständnis:**
-
-Der Text scheint sich mit Fragen der Autorität in der Kirche und der Rolle des Einzelnen im Verhältnis zur Gemeinde zu beschäftigen. Es geht um die Frage, wo und wann man eine "Kirche" als solche bezeichnen kann (nur eine kleine Versammlung oder eine große Versammlung) und wie mit Sündern umzugehen ist.

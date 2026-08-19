@@ -1,7 +1,5 @@
 # Seite 73
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 **Text:**
 tinscher
 Worte eintägig, sind mir jetzt gebracht, die

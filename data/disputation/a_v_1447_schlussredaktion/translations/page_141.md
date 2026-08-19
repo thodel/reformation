@@ -1,8 +1,5 @@
 # Seite 141
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 vnnser getrouwen lieben Eidtgrossen van Zurich
 beredt, bij Im sie der recht verstand der
 Aende haben doch

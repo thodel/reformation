@@ -1,7 +1,5 @@
 # Seite 44
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Und
 Ihr mit
 entsendete

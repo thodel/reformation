@@ -1,8 +1,5 @@
 # Seite 33
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 fait une
 1.8
 Dass Christus selbst sein Heilender ist, so lies

@@ -1,8 +1,5 @@
 # Seite 335
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 ad ipjus
 ad 10/05
 Sr

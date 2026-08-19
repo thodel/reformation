@@ -1,7 +1,5 @@
 # Seite 545
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 So wir sagen, Christus ist im Sakrament, unter der
 **So sagen wir, Christus ist im Sakrament, unter der**
 

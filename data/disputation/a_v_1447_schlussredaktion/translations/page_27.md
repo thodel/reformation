@@ -1,7 +1,5 @@
 # Seite 27
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 le
 2m

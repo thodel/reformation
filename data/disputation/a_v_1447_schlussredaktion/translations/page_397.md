@@ -1,7 +1,5 @@
 # Seite 397
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 # Ihnen bedeutet
 oder Osterlamm mit den Zeremonien und
 Sakramenten des neuen Gesetzes, als da ist die

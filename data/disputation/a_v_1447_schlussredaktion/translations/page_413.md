@@ -1,7 +1,5 @@
 # Seite 413
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 sunge
 Wiewoll der geist gottes ann allen extenn, nichts
@@ -59,15 +57,3 @@ ob wir schon einen Kampf gehabt hätten, den ersten
 einzigen Spruch, so er doch bereitwillig genug
 zu bewahren die Austeilung des Leibes und des
 Blutes Christi du Abendmahl bin uns gewiss.
-
-**Anmerkungen:**
-
-*   **Schreibweise:** Ich habe die Rechtschreibung modernisiert und die alten Schreibweisen (z.B. "vnnd" für "und", "y" anstelle von "i") angepasst.
-*   **Grammatik:** Die Grammatik wurde ebenfalls an modernes Deutsch angepasst, z.B. durch die Verwendung korrekter Satzstellung.
-*   **Wortwahl:** Einige Wörter und Wendungen sind im modernen Deutsch nicht mehr gebräuchlich oder haben sich in ihrer Bedeutung verändert. Ich habe versucht, die treffendsten modernen Entsprechungen zu finden.
-*   **Kontext:** Ohne den genauen Kontext des Textes ist es schwierig, alle Nuancen der Bedeutung vollständig zu erfassen.  Es handelt sich vermutlich um eine theologische Abhandlung oder Predigt.
-*   **Eigennamen:**  Eigennamen wie "Ecolampado" (Johannes Oekolampad) und "Vasaren" (Nazarener) wurden beibehalten.
-*   **"Sunge":** Das Wort am Anfang ist schwer zu deuten ohne weiteren Kontext. Es könnte sich um eine Überschrift ("Gesang") oder einen Teil eines Namens handeln.
-*   **"Civiert":** Dieses Wort könnte "ziert" bedeuten, im Sinne von "schmückt" oder "ehrt". Es könnte aber auch eine andere, heute veraltete Bedeutung haben.
-
-Ich hoffe, diese Übersetzung ist hilfreich!

@@ -1,8 +1,5 @@
 # Seite 592
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird und jede Zeile einzeln übersetzt wird:
-
-Text:
 Danr Jans
 2
 249

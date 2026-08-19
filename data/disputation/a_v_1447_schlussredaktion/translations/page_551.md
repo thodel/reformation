@@ -1,8 +1,5 @@
 # Seite 551
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
-Text:
 hand vnsere herren vnd wern, vns hergesandt vmb
 fads vnd einigkeit willen/ wasst mencklicher woll
 das s'elicher frie allein uss. gottes wort kompt, So

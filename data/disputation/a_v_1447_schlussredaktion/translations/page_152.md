@@ -1,7 +1,5 @@
 # Seite 152
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Wie erstens beschlossen,
 59
 so Gott allein zu bestätigen gebe, wurde, in dem Be-

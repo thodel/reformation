@@ -1,7 +1,5 @@
 # Seite 123
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 jander
 die alten, Jan Dije, Epistel Petri, Die
 oder qualipsis Johannis

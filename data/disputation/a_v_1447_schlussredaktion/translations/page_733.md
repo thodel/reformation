@@ -1,7 +1,5 @@
 # Seite 733
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 **prima**
 Die neunte Schlussfolgerung
 Der Einwand aus der Apostelgeschichte, Kapitel 5: Wenn man Gott mehr schuldig sein soll,

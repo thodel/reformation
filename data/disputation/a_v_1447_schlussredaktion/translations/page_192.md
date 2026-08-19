@@ -1,7 +1,5 @@
 # Seite 192
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 Deßen
 75

@@ -1,8 +1,5 @@
 # Seite 637
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 pdd
 Die. vi. Schlusshred
 der baligen fürbitt, oss der 1 Epistel ad Cornithios xiij

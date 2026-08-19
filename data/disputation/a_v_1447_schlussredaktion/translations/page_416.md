@@ -1,7 +1,5 @@
 # Seite 416
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 wie in
 Göllichs Abhandlung,
 nicht rein

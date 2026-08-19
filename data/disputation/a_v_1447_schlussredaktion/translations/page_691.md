@@ -1,7 +1,5 @@
 # Seite 691
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 **3I11**
 Die siebte Schlussrede
 von unseren geistlichen Friedensbemühungen und Anfechtungen,

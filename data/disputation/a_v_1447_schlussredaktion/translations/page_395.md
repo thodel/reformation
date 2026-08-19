@@ -1,7 +1,5 @@
 # Seite 395
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 mit
 mit Figuren und Bedeutungen. Ist es aber im Neuen so,
 Soll Moses und Christus sich unterstehen,

@@ -1,7 +1,5 @@
 # Seite 463
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 4p
 oder aber er hätte mitgelitten. Den Verheißungshals
 erkennen sie, dass die allem das Evangelium haben

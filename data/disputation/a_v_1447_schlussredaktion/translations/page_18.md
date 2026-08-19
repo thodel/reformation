@@ -1,7 +1,5 @@
 # Seite 18
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 sondern
 oder,
 sechzehn

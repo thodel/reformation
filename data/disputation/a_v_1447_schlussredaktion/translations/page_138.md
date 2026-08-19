@@ -1,7 +1,5 @@
 # Seite 138
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 rechten
 52
 Die erste Schlussfolgerung ist, dass

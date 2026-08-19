@@ -1,7 +1,5 @@
 # Seite 669
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 prima 608
 119
 Der siebte und letzte Blutsaugende (Blutegel)

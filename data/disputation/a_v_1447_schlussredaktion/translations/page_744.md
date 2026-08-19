@@ -1,7 +1,5 @@
 # Seite 744
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Ja, Seite 19
 Bitten und erwarten, damit ihr erfunden werdet
 getreue Arbeiter, im Weingarten des Herrn.

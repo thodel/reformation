@@ -1,7 +1,5 @@
 # Seite 364
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 Ich bin &
 Neu aux
 Dann geboren

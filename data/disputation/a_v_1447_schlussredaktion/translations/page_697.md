@@ -1,7 +1,5 @@
 # Seite 697
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird und jede Zeile einzeln übersetzt wird:
-
 Die siebte Schlusspredigt.
 Kann das nicht beschreiben, was in hundert oder
 zweihundert Jahren nach ihm beschickt ist.

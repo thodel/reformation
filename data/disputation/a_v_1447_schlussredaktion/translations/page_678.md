@@ -1,7 +1,5 @@
 # Seite 678
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 3.
 288
 Die siebte Blutrede

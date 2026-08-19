@@ -1,7 +1,5 @@
 # Seite 97
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 V.V.
 29
 In der er gesagt hat, vs. Dem Bruder

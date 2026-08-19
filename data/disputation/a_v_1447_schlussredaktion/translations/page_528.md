@@ -1,7 +1,5 @@
 # Seite 528
 
-Okay, hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 to
 sollichem

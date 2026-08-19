@@ -1,7 +1,5 @@
 # Seite 454
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 18 f.
 der be-
 Hs.

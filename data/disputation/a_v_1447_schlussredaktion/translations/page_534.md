@@ -1,7 +1,5 @@
 # Seite 534
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde und jede Zeile einzeln übersetzt wurde:
-
 Diete
 *Diät/Kost*
 nahme

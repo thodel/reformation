@@ -1,7 +1,5 @@
 # Seite 48
 
-Hier die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 **mest**
 **bist**
 **Erwaren**

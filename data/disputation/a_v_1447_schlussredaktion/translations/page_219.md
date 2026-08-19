@@ -1,7 +1,5 @@
 # Seite 219
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Dann Petrus, Johannes im [Evangelium] Kapitel [X], spricht:
 In aller Namen, zu wem sollten wir gehen?
 Hier aber redet Christus mit ihm allein recht:

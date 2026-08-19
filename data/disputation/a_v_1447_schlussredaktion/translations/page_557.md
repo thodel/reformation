@@ -1,7 +1,5 @@
 # Seite 557
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Heil!
 Darmus ist hierher gesandt, um des Herrn
 liebe Gnade, sein seliges, einziges und unaussprechliches

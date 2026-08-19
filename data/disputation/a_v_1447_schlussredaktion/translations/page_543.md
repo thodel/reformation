@@ -1,7 +1,5 @@
 # Seite 543
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Fleisch und Blut haben dies nicht geoffenbart, son-
 dern mein Vater, der im Himmel ist.
 Des-

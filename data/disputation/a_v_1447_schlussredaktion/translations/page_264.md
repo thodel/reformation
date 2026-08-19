@@ -1,7 +1,5 @@
 # Seite 264
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 le 1er
 *le 1er* (Französisch, bedeutet "der Erste")
 ein
@@ -96,14 +94,3 @@ gesprochen, bestättige Dins bruder
 gesprochen, bestätige deines Bruders
 Berchtoldus
 *Berchtoldus*
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Unbekannte Wörter:** Einige Wörter wie "*Sijnach*", "*l min de*", "*Fuan-*" sind schwer oder gar nicht zu übersetzen, da sie entweder veraltet sind, Schreibfehler enthalten oder lokale/dialektale Ausdrücke sind.
-*   **Grammatik und Satzbau:** Die Grammatik und der Satzbau des Frühneuhochdeutschen unterscheiden sich vom modernen Deutsch. Ich habe versucht, die Bedeutung so genau wie möglich zu erhalten, während ich gleichzeitig die Sätze verständlicher mache.
-*   **Religiöser Kontext:** Der Text hat einen stark religiösen Kontext. Einige Ausdrücke und Bezüge sind spezifisch für das Christentum.
-*   **Unsicherheit:** Bei einigen Formulierungen besteht eine gewisse Unsicherheit, da die genaue Bedeutung nicht immer eindeutig ist.
-* "*verwaser*" könnte ein Schreibfehler sein, eventuell sollte es *Verwalter* heißen
-* "*pott*" könnte ein Schreibfehler sein, eventuell sollte es *Amt* heißen
-
-Insgesamt scheint der Text eine Predigt oder eine theologische Abhandlung zu sein, die sich mit der Rolle von Petrus und dem Glauben an Christus beschäftigt.

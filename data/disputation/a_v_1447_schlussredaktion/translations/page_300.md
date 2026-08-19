@@ -1,7 +1,5 @@
 # Seite 300
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 en peu (Französisch: ein wenig)
 ein Teil
 tiefen, d(en)

@@ -1,7 +1,5 @@
 # Seite 276
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 11
 Die andere Schlussfolgerung,
 sie, die Kirche Christi, macht nichts gesagt und geboten,

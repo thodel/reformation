@@ -1,7 +1,5 @@
 # Seite 406
 
-Absolut! Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Arb. G
 Das Weitere sei (oder: Was das Übrige betrifft)
 wegen des

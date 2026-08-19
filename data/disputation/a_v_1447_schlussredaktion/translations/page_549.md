@@ -1,7 +1,5 @@
 # Seite 549
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Sondern von den letzten Zeiten, soll er Pfarrer
 weisen, dass die letzten Zeiten Christo und seinen
 Seelen / alle die Zeit heißt, die von der Zeit Christi

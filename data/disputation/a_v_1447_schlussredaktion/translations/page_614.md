@@ -1,7 +1,5 @@
 # Seite 614
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Die fünfte Schlussrede,
 *Die fünfte Schlussfolgerung/These,*
 Für Volckhold zur Ehre,
@@ -54,14 +52,3 @@ tolden Ingefurt, dass die Nafs. ein Gräuel vor
 *tolden Ingefurt, dass die Nafs. ein Gräuel vor*
 260
 *260*
-
-**Anmerkungen:**
-
-*   **Orthographie:** Die Schreibweise ist im Frühneuhochdeutschen noch nicht standardisiert.
-*   **Vokabular:** Einige Wörter haben sich im Laufe der Zeit verändert.
-*   **Satzbau:** Der Satzbau ist oft verschachtelt.
-*   **Kontext:** Der Text scheint Teil einer theologischen oder juristischen Auseinandersetzung zu sein, möglicherweise über die Rechtmäßigkeit von Opfern oder Schuldenerlass.
-*   **J.E.G.:** Ich habe *J.E.G.* als *S.E.G.* interpretiert, was die Abkürzung für "Seiner Ehrwürden Gnaden" ist und im Kontext eines religiösen Disputs Sinn ergibt. Es könnte aber auch für andere Titel oder Anreden stehen, die im 16. oder 17. Jahrhundert üblich waren.
-*   **Volckhold/Gerch tolden Ingefurt:** Dies sind wahrscheinlich Namen von Personen, die an dem Disput beteiligt sind oder auf die Bezug genommen wird.
-*   **Nafs.:** Vermutlich eine Abkürzung. Der Kontext deutet auf etwas Unerfreuliches hin. "Nafs" könnte eine Abkürzung für ein negatives Konzept sein, welches "vor" den genannten Personen ein "Gräuel" ist.
-*   **Othlus/Otharenn:** Sind Begriffe, die möglicherweise im juristischen Kontext verwendet wurden, der den Inhalt des Streits betrifft. Die Übersetzung als "Schulden" oder "Ahnen" kann also falsch sein.

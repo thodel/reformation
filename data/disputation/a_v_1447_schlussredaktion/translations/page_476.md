@@ -1,7 +1,5 @@
 # Seite 476
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile beibehalten:
-
 50
 3.50
 2

@@ -1,7 +1,5 @@
 # Seite 739
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 lassen, und folgen, als ein gehorsamer, Des Ich mich
 *lassen und folgen, wie ein Gehorsamer, Dessen ich mich*
 

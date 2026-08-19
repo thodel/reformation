@@ -1,8 +1,5 @@
 # Seite 238
 
-Hier die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 witt
 3. De
 the water

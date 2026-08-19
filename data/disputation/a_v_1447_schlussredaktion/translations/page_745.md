@@ -1,7 +1,5 @@
 # Seite 745
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Und [sie] vergaben leichtfertig mit den Ungläubigen, das
 fassen zu Herzen, denn Gott [tut] euch nicht um Gunst 180
 getreulich warnen. In Summe: Achte die Ehrfurcht vor Gott

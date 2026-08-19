@@ -1,7 +1,5 @@
 # Seite 19
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 B
 nicht weiß, außer dass
 unser Glaubens und Predigens Rechnung aufzugeben,

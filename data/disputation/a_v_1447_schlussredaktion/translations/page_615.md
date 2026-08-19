@@ -1,7 +1,5 @@
 # Seite 615
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Maas
 C
 der Diebstahl

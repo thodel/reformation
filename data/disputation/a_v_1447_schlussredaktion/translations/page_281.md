@@ -1,7 +1,5 @@
 # Seite 281
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 2. Timotheus 2
 Die andere örtliche Schlussfolgerung,
 beschreibt, mein Kind, nichts anderes junge gehalten und

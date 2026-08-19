@@ -1,7 +1,5 @@
 # Seite 153
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 salch machen will Die allten hebben bera¬
 haben van freyen willen, vande andern stucken

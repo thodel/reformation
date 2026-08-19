@@ -1,7 +1,5 @@
 # Seite 587
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Die fünfte Schlussrede.
 An die Hebräer, die noch nicht
 vollständig über den christlichen Glauben belehrt waren, wurde geschrieben, dass uns Christen

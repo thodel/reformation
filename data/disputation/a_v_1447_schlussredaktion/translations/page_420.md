@@ -1,7 +1,5 @@
 # Seite 420
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 haben
 Rechenschaft
 et vous (und euch)

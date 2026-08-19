@@ -1,7 +1,5 @@
 # Seite 611
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Gustag
 21
 56

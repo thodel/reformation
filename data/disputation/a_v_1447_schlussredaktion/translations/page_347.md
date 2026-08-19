@@ -1,7 +1,5 @@
 # Seite 347
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile beibehalten:
-
 Staub
 Die dritte Schlussfolgerung
 das Wort Gottes, noch unsere Schlussrede, nach diesem unserem

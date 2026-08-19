@@ -1,7 +1,5 @@
 # Seite 1
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Kanton Bern
 Kanton Bern
 1

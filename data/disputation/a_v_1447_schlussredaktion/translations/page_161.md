@@ -1,7 +1,5 @@
 # Seite 161
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Dass er die Völker in Einigkeit der Irrtümer
 erhalten hat, und sobald bei uns das gött-
 liche Wort durch den frommen Huss in Böhmen

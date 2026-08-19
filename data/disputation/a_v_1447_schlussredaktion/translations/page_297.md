@@ -1,7 +1,5 @@
 # Seite 297
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile beibehalten:
-
 4.
 Das andere Schlussbrot
 legt, nachdem ich das verstanden habe, und sage ich dazu,

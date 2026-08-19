@@ -1,7 +1,5 @@
 # Seite 122
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 habend
 seca
 46

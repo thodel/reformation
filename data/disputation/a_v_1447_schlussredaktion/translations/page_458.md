@@ -1,7 +1,5 @@
 # Seite 458
 
-Hier die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Januar
 PuxH
 wie ich bin

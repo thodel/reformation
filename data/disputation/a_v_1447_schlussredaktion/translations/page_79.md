@@ -1,7 +1,5 @@
 # Seite 79
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 **Übersetzung:**
 
 Uns da klar wird gezeigt, ein nachgelassenes

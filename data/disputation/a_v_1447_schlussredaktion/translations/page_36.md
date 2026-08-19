@@ -1,7 +1,5 @@
 # Seite 36
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 Herrn
 6 fprs
@@ -74,14 +72,3 @@ Summe Term ist um fast golden
 Gesell Aber er hat ihm gewähnt
 genommen und er hat sein
 Recht gehabt.
-
-**Anmerkungen:**
-
-*   Viele Wörter sind phonetisch geschrieben und entsprechen keiner modernen Rechtschreibung.
-*   Die Bedeutung einiger Zeilen ist unklar, da der Kontext fehlt und einige Wörter unbekannt sind.
-*   Die Übersetzung versucht, den Sinn bestmöglich wiederzugeben.
-*   Einige Zeilen sind sehr fragmentarisch.
-* "fprs", "Pylhaus" und "Kampezept" sind unbekannte Begriffe, die im historischen Kontext genauer recherchiert werden müssten.
-* "Sölle" und "Selle" könnten sich auf "Seele" beziehen, je nach Kontext.
-
-Ich hoffe, diese Übersetzung ist hilfreich!

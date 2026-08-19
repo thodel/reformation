@@ -1,7 +1,5 @@
 # Seite 469
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 wir heiden, oder vngeleuwen, so redten wir van Mijl
 misto Oder Jour
@@ -61,16 +59,3 @@ und ist dabei verheißen, dass die Apostel
 und Prediger, die und andere Wunderzeichen
 tun werden. So hat er nun den Pflug und
 dass äußere Wort bei einem anderen vollstreck mich.
-
-**Anmerkungen:**
-
-*   Einige Wörter sind schwer exakt zu übersetzen, da sie in dieser Form nicht mehr gebräuchlich sind oder eine unklare Bedeutung haben. Die Übersetzungen sind Annäherungen basierend auf dem Kontext.
-*   "Mijl, misto Oder Jour" und "attis" sind möglicherweise Namen, Ortsbezeichnungen oder Fachbegriffe, deren Bedeutung ohne weiteren Kontext schwer zu erschließen ist.
-*   Die Schreibweise "vff" steht für "auf"
-* "vntsz. vyffellten" bedeutet "unseren vielfältigen"
-* "Pfarrer v. 8. g." ist wahrscheinlich eine Referenz zu einem Pfarrer oder einer Bibelstelle.
-*   Der Name "Zwingh" bezieht sich wahrscheinlich auf Huldrych Zwingli, einen Schweizer Reformator.
-*   "respice" ist Lateinisch und bedeutet "sieh", "betrachte".
-*   Die Schlusszeile ist auch schwer zu interpretieren. "Den Pflug haben" könnte eine Metapher für die Arbeit des Predigers sein, und "das äußere Wort vollstrecke mich" könnte eine Bitte um Erfüllung des Wortes Gottes im eigenen Leben sein.
-
-Ich hoffe, diese Übersetzung hilft!

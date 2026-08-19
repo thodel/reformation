@@ -1,7 +1,5 @@
 # Seite 57
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Beichtvater, alles selbst bestätigt, als schriftlich,
 Was der Vater hier vorbrachte, gestehen nicht anderes
 zu, Sankt Peter, als Dienstbarkeit. Solches erscheinet

@@ -1,7 +1,5 @@
 # Seite 6
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 **Name**
 
 Das

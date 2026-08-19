@@ -1,7 +1,5 @@
 # Seite 322
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 vit finir
 *hat geendet*
 zehlt

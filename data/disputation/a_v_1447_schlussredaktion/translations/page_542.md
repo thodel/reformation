@@ -1,7 +1,5 @@
 # Seite 542
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, wobei die ursprüngliche Zeilenstruktur beibehalten wurde:
-
 **Übersetzung:**
 
 nierung des

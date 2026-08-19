@@ -1,7 +1,5 @@
 # Seite 706
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 4 feb
 prima adcorin.

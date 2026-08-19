@@ -1,7 +1,5 @@
 # Seite 714
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 11
 304
 Die kleine [geringe] Eheschließung,

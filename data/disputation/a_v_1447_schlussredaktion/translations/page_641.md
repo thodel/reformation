@@ -1,7 +1,5 @@
 # Seite 641
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Die fünf Einreden,
 Das Fürbitten der auserwählten Heiligen im Himmel,
 will ich beweisen aus dem Propheten Jeremia, im

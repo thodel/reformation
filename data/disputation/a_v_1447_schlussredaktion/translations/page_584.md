@@ -1,8 +1,5 @@
 # Seite 584
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 # fur, jusqu'
 in wir F.
 in andren

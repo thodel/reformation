@@ -1,7 +1,5 @@
 # Seite 40
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 11
 Die erste Schlussrede
 Sie zu einem tugendhaften, rechtschaffenen, christ-

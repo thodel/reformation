@@ -1,8 +1,5 @@
 # Seite 379
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
-Text:
 fleißigen Verstand zu bessern, wahre bald be-
 schehen. Weiter, so mein Herr Meister vl-
 rich vermeint, mit dem Wort Brot habe er

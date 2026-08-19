@@ -1,7 +1,5 @@
 # Seite 477
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 # dann
 Auch dies. Sagt mir, Herr Pfarrer,
 wie ihr heißt,

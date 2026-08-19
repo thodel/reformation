@@ -1,8 +1,5 @@
 # Seite 155
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
-Text:
 Domit
 Verdienstlich „Im Predigerorden, Aufenthalt,
 eine Zeitlang Aufenthalt.

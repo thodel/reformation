@@ -1,8 +1,5 @@
 # Seite 8
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 Wax
 ndt
 Das

@@ -1,7 +1,5 @@
 # Seite 344
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 144
 Der dritte Schlußfolgerung,
 das genannt Gul. auch in angenehm, wie wir

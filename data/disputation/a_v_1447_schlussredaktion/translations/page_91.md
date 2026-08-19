@@ -1,7 +1,5 @@
 # Seite 91
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Frühneuhochdeutsch** | **Modernes Deutsch**
 ---|---
 wort gottes Sprich ich mit Dem einen | Wort Gottes spreche ich mit dem einen,

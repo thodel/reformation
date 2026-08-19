@@ -1,7 +1,5 @@
 # Seite 659
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 200
 Die sechste Schlussrede
 Ist ein Argumentieren aus Nicht-Zugelassenem. Wir lassen nicht

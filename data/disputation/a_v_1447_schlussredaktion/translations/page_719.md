@@ -1,7 +1,5 @@
 # Seite 719
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 6
 Die neunzehnte Schlussfolgerung:
 Gelübde zu leisten, insbesondere das der Keuschheit, verpflichtet.

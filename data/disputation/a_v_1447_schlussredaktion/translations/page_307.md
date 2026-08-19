@@ -1,7 +1,5 @@
 # Seite 307
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 V.
 86
 Die andere Erklärung,

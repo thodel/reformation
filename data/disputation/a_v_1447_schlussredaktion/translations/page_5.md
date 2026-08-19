@@ -1,7 +1,5 @@
 # Seite 5
 
-Hier die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 a
 Wir haben auch jeden einzelnen Disputanten mit Namen
 aufgezeichnet und nach jeder Sitzung alles, was

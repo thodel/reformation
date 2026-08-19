@@ -1,7 +1,5 @@
 # Seite 305
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **Text:**
 Dema
 Die andere Schlussrede
@@ -67,13 +65,3 @@ angenommen habe, das nicht in dem Gotteswort
 gegründet sei, sondern ich habe gesprochen, er soll
 bewahren, dass er etwas gesagt oder geordnet
 hat, das nicht im Gotteswort gegründet sei.
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Grammatik und Vokabular:** Ich habe versucht, das moderne Deutsch so nah wie möglich am Original zu halten, während ich gleichzeitig sicherstelle, dass der Text verständlich ist. Einige Wörter und Formulierungen wurden modernisiert.
-*   **Zeilenstruktur:** Die ursprüngliche Zeilenstruktur wurde beibehalten, um einen direkten Vergleich zwischen Originaltext und Übersetzung zu ermöglichen.
-*   **Kontext:** Es ist wichtig zu beachten, dass dieser Text aus einer Zeit theologischer Debatten stammt. Daher ist ein tieferes Verständnis des historischen Kontextes hilfreich, um die Nuancen des Textes vollständig zu erfassen.
-*   **Ortsnamen/Namen:** Die Eigennamen wurden beibehalten, da eine Übersetzung hier wenig Sinn ergeben würde.
-*   **Unsicherheiten:** Einige Passagen sind aufgrund des fragmentarischen Charakters und der ungewöhnlichen SpracheInterpretationsbedürftig. Ich habe versucht, die wahrscheinlichste Bedeutung wiederzugeben.
-*   **Ungenaue Angaben:** Einige Angaben wie "2-7" oder "iijo. cap." wurden übernommen, da sie wahrscheinlich Fundstellen bezeichnen oder sich auf andere Werke beziehen und eine Übersetzung hier keinen Sinn ergeben würde.
-*   **Korrekturen:** Einige offensichtliche Schreibfehler im Original wurden in der Übersetzung korrigiert, um die Lesbarkeit zu verbessern.

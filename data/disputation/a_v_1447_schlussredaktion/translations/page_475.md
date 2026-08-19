@@ -1,7 +1,5 @@
 # Seite 475
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Werk
 Wir auch Matthäus am 21. Kapitel: Im Fugen Bau
 und Veränderung des Berges
@@ -70,14 +68,3 @@ durft zu reden
 Und sind die Orte die
 Christus vom starken Glauben redet im Darwider
 ***
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Alte Wörter:** Ich habe versucht, die Bedeutung der alten Wörter so genau wie möglich im modernen Deutsch wiederzugeben. Einige Wörter haben im Laufe der Zeit ihre Bedeutung leicht verändert.
-*   **Satzbau:** Der Satzbau im Frühneuhochdeutschen ist oft verschachtelter als im modernen Deutsch. Ich habe versucht, die Sätze in verständlichere Form zu bringen, ohne den Sinn zu verändern.
-*   **Kontext:** Das Verständnis des Textes ist ohne den genauen historischen und theologischen Kontext schwierig. Ich habe die Übersetzung so allgemeinverständlich wie möglich gehalten, aber ein tieferes Verständnis erfordert Kenntnisse der damaligen Zeit.
-*   **Fehler im Original:** Der Originaltext enthält Rechtschreibfehler und Inkonsistenzen. Ich habe diese nicht in die moderne Übersetzung übernommen, sondern den Text korrigiert, wo es nötig war, um den Sinn zu verdeutlichen.
-*   **Voge:** Es ist wahrscheinlich ein Name oder eine Randbemerkung, die ich nicht genau auflösen konnte. Ich habe es in Klammern gelassen.
-*   **Zuck:** Ich konnte die Bedeutung dieses Wortes nicht genau ermitteln und habe daher das Wort in der Übersetzung gelassen.
-
-Ich hoffe, diese Übersetzung hilft Ihnen weiter!

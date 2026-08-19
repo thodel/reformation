@@ -1,7 +1,5 @@
 # Seite 639
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Die sechste Schlussfolgerung:
 Das allein Christus gehört, nämlich das bittende
 Tun, so wolle es auch nicht zugerechnet werden denen

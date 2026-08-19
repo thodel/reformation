@@ -1,7 +1,5 @@
 # Seite 657
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 206
 Die vierte Schlussfolgerung/das vierte Schlussstück
 Ebenso, im nachfolgenden Text bittet er den Herrn aufrichtig:

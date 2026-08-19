@@ -1,7 +1,5 @@
 # Seite 393
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **Text:**
 Een Inhaelt, deser wert, Das er
 wil
@@ -69,12 +67,3 @@ so will ich min hören von meinem bruder vff
 welchen worten, er allso vest hafften well
 vnnd Im Darnach wijter antwurten
 4
-
-**Anmerkungen:**
-
-*   **Sprachliche Anpassung:** Ich habe versucht, den Satzbau und die Wortwahl so anzupassen, dass sie im modernen Deutsch verständlich sind, ohne den ursprünglichen Sinn zu verfälschen.
-*   **Ungenauigkeiten:** Einige Passagen sind aufgrund der sprachlichen Unterschiede und möglichen Schreibfehlern im Original schwer eindeutig zu interpretieren. Die Übersetzung ist daher stellenweise interpretativ.
-*   **Kontext:** Um eine noch genauere Übersetzung zu liefern, wäre der Kontext des Textes hilfreich (z.B. aus welchem Werk stammt er, wer hat ihn geschrieben, worum geht es in dem Werk?).
-*   **Begriffe:** Einige religiöse Begriffe wie "Sacrament" wurden beibehalten, da sie auch im modernen Deutsch üblich sind.
-
-Ich hoffe, diese Übersetzung ist hilfreich!

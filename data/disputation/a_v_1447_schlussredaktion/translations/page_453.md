@@ -1,7 +1,5 @@
 # Seite 453
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 # in solchen
 Dinge benötigt
 haben,

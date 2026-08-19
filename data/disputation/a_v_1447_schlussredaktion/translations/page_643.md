@@ -1,7 +1,5 @@
 # Seite 643
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 **Text:**
 
 παραβολ½

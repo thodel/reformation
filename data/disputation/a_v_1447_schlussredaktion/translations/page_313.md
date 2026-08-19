@@ -1,7 +1,5 @@
 # Seite 313
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **Die andere Schlussrede**
 **Am. iii. Cap. Das fünfte: Die vom Glauben abtraten und**
 **nicht sollen geachtet werden, Lufelsth Statuta, So doch**
@@ -31,12 +29,3 @@ Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, 
 **Glauben, und den Gott aufgenommen hab, laut des XIV**
 **Cap. zu den Römern, Die achtet darauf,**
 **für sich selbst, den Brauch jeglicher Kreaturen.**
-
-**Anmerkungen zur Übersetzung:**
-
-*   Ich habe versucht, den Sinn so genau wie möglich zu treffen, auch wenn das manchmal zu etwas längeren Formulierungen im modernen Deutsch geführt hat.
-*   Die Rechtschreibung wurde modernisiert.
-*   Einige Wörter waren schwer zu interpretieren, insbesondere wenn es sich um Eigennamen oder dialektale Ausdrücke handelt. Ich habe versucht, die wahrscheinlichste Bedeutung zu wählen.
-*   Einige grammatikalische Konstruktionen wurden angepasst, um sie verständlicher zu machen.
-
-Ich hoffe, diese Übersetzung ist hilfreich!

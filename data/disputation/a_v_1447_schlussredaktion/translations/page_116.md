@@ -1,8 +1,5 @@
 # Seite 116
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 anzijing in
 43
 genempt ist. Das sy Im fleisten ist, vnd aber
@@ -51,13 +48,3 @@ liche Mensch alle Dinge zu verteilen hat.
 Und ich darauf geschlossen habe, dass er
 auch hat zu urteilen, die Schrift ist nun
 mein Herr Doktor mir beschnitten mit Antwort.
-
-**Anmerkungen zur Übersetzung:**
-
-*   Ich habe versucht, so nah wie möglich am Originaltext zu bleiben, ohne ihn unleserlich zu machen.
-*   Einige Wörter und Phrasen sind schwer eindeutig zu übersetzen, da sie entweder veraltet sind oder einen Kontext benötigen, der im Text nicht gegeben ist. Ich habe die wahrscheinlichste Bedeutung gewählt.
-*   Die Rechtschreibung wurde an das moderne Deutsch angepasst.
-*   Die Zeilenumbrüche wurden beibehalten, um die Struktur des Originaltextes zu erhalten.
-*   Einige Phrasen wie "Treiger prom." und "Eesamen" sind schwer zu interpretieren ohne weiteren Kontext.
-
-Ich hoffe, diese Übersetzung ist hilfreich!

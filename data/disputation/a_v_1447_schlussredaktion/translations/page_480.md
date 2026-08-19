@@ -1,7 +1,5 @@
 # Seite 480
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 wachtig
 *Wacht euch!*
 J.C. C.

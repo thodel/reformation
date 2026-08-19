@@ -1,7 +1,5 @@
 # Seite 253
 
-Hier die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 66
 gerechnet hat, Das mein Herr Senniger be-
 rechnen hat, dass mein Herr Senniger be-
@@ -61,14 +59,3 @@ recht gluckgen potes sind, vsss. dem wort gots.
 rechtgläubigen Boten sind aus dem Wort Gottes.
 vier geporen, bij dem beliben sij, dormis
 vier geboren, bei dem bleiben sie, dorthin.
-
-**Anmerkungen:**
-
-*   **"Senniger"**: Wahrscheinlich ein Name oder Titel einer Person.
-*   **"parens"**: Lateinisch für "Eltern". Hier vermutlich im übertragenen Sinne gemeint, vielleicht eine Quelle oder Autorität.
-*   **"Vyffell zum Chorinthern iij"**: Gemeint ist Paulus' erster Brief an die Korinher, Kapitel 3.
-*   **"Werflussig"**: Hier im Sinne von "überschwänglich" oder "verschwommen".
-*   Die Orthographie ist sehr variabel, was typisch für diese Zeit ist.
-*   Manche Formulierungen sind schwer exakt zu rekonstruieren, da der Kontext fehlt.
-*   Ich habe versucht, den Sinn der Zeilen so genau wie möglich zu erfassen.
-*   Die letzte Zeile mit "dormis" ist schwer zu deuten, "dorthin" ist eine mögliche Interpretation.

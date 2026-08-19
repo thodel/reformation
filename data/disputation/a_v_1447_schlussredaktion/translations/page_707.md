@@ -1,7 +1,5 @@
 # Seite 707
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Die achte Schlussfolgerung:
 Beten, vor welchen man Gott und die verstorbenen
 Heiligen hat verehrt, [obwohl] der lebendigen

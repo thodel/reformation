@@ -1,7 +1,5 @@
 # Seite 647
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 3
 Die vierte Schlusspredigt
 Die Schrift zeigt an, dass Christus der einzige

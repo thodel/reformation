@@ -1,7 +1,5 @@
 # Seite 259
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 Ovingli
 Von Cveijst wollest du, oh, unser Christus,
 Der Vater ist mein Größerer oder größer

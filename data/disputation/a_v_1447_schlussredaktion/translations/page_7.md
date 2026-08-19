@@ -1,7 +1,5 @@
 # Seite 7
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Also ist es jedermann erlaubt, zur Handhabung der Wahrheit, //
 wird jedem Respondenten und Opponenten
 beizuspringen.

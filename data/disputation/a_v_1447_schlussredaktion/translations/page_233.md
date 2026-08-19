@@ -1,7 +1,5 @@
 # Seite 233
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 1/1 sei
 Euch allen Männern gesagt, im Herrn, denn ein Mann
 Ist ein Haupt der Frau gleich, so wie Christus

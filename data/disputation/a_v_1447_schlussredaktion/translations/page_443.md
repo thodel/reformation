@@ -1,7 +1,5 @@
 # Seite 443
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 da,
 Dann erstens, ob er da spricht: „Das Brot“
 und meint,

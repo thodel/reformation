@@ -1,7 +1,5 @@
 # Seite 740
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 une
 317
 Westgruß Herrn Berchtolden Haffens,

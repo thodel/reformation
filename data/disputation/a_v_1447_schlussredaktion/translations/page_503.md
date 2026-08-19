@@ -1,8 +1,5 @@
 # Seite 503
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird und jede Zeile einzeln übersetzt wird:
-
-Text:
 vor Inen sebbs har, So er allso spricht. Welcher
 Nun Das brot essen wirtt
 da horen wir

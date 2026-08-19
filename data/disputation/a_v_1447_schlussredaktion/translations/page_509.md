@@ -1,7 +1,5 @@
 # Seite 509
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Auf die Barmherzigkeit Gottes versichert sein, denn
 so Gott seinen einzigen Sohn für uns gegeben hat,
 dass er uns mit ihm selbst versöhnte, was möchte

@@ -1,7 +1,5 @@
 # Seite 249
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 und seinem Leiden, und vor der kleinen Ge-
 wesen, und sagt auch, sie sei geformt worden,
 ein unermesslich großes Gut, als Christus

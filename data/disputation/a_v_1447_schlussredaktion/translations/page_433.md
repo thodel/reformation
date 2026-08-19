@@ -1,7 +1,5 @@
 # Seite 433
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 1.  15
 in A5
 Ich unterwerfe meine und seine Auslegung dem

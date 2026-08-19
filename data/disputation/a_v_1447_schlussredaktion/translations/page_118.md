@@ -1,7 +1,5 @@
 # Seite 118
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **voir neuf** (wahrscheinlich eine Seitenzahl oder ein Verweis)
 **44** (Seitenzahl)
 **Lpistell Jacobi, Aprilipsum vnnd derglichen** (Jakobusbrief, Aprilis und dergleichen)
@@ -37,11 +35,3 @@ Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, 
 **min Ich an Den verstande des Doctors** (mein ich an dem Verstande des Doktors)
 **Namlich Das, des** (nämlich das, des)
 **fur. Den ersten theill** (für. Den ersten Teil)
-
-**Erläuterungen:**
-
-*   Der Text ist in einer Mischung aus Frühneuhochdeutsch und Niederländisch geschrieben. Einige Wörter sind eindeutig niederländischen Ursprungs ("voir," "voorschrifft," "sijnden," "uit").
-*   Die Übersetzung versucht, den Sinn des Textes so genau wie möglich wiederzugeben, auch wenn die Sätze manchmal fragmentarisch wirken.
-*   Der Text scheint sich mit Fragen der Kirchenautorität, der Verurteilung von Sündern und der Interpretation der Schrift zu beschäftigen. Es wird auf den Jakobusbrief und eine Autoritätsperson namens "Doctor" Bezug genommen.
-*   Die Seitenangaben "44" und "voir neuf" deuten auf einen Text in einem längeren Werk hin.
-*   Der Text ist nicht immer grammatikalisch korrekt oder kohärent, was typisch für Texte dieser Zeit ist.

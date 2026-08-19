@@ -1,7 +1,5 @@
 # Seite 505
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur und einzelner Übersetzung jeder Zeile:
-
 Nachtmahl oder Danksagung Gottes, und wer
 Dem Herrn Jesus Christus recht ver-
 traut ist. Der schätzt das Nachtmahl nicht

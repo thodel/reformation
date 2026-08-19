@@ -1,7 +1,5 @@
 # Seite 201
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 behalter und der ganzen Welt, Beziehe ich mich
 Dass ich den Glauben auch habe
 und lasse

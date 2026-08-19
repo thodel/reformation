@@ -1,7 +1,5 @@
 # Seite 120
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 4
 45
 Von den gemeinen christlichen Kirchen, besonders von

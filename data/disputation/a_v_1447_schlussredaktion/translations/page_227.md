@@ -1,7 +1,5 @@
 # Seite 227
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 C
 Christus, besonders Christus vor der Kirche
 von Ewigkeit ist, und die gleichen ihm

@@ -1,7 +1,5 @@
 # Seite 69
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 A
 Wahrlich: & Kapitel: Hat Christus seinen Jüngern,
 gewählt und gegeben, wer die bösen, verdammten Geister

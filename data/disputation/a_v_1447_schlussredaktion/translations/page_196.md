@@ -1,7 +1,5 @@
 # Seite 196
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile beibehalten:
-
 40
 Die erste Schlussrede
 77

@@ -1,7 +1,5 @@
 # Seite 749
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile, unter Beibehaltung der Struktur:
-
 911.
 Alle Akten, wie sie nach der Länge geordnet sind, einem from¬
 men, vorsichtigen und weisen, meinen gnädigen Herren,

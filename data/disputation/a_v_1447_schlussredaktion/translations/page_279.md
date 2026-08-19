@@ -1,7 +1,5 @@
 # Seite 279
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Die andere Schlussfolgerung,
 die man in ihrer Züchtigung (Züchtigung, Aufzucht), Achtung hält, mehr als Gottes Gebet,
 Ja, dass man sie in allen Dingen, mehr als die Furcht vor

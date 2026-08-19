@@ -1,7 +1,5 @@
 # Seite 232
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 4
 die ersten Schlussfolgerungen
 Testaments keine Gewalt gehabt, nach wem Zwillinge zu

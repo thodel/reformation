@@ -1,7 +1,5 @@
 # Seite 560
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Januar mich
 6 fl. 2 x
 Herrn

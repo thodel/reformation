@@ -1,7 +1,5 @@
 # Seite 532
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **ten**
 *den*
 

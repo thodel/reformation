@@ -1,7 +1,5 @@
 # Seite 527
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Pfarrer, von seinem Gnaden.
 Erstens unsere eingeforderten Erklärungen werden
 langgezogene Worte, mit gebührender Antwort, um

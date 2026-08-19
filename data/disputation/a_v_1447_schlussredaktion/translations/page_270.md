@@ -1,7 +1,5 @@
 # Seite 270
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 the (unübersetzt, da Englisch)
 an (unübersetzt, da Englisch)
 Darauf

@@ -1,7 +1,5 @@
 # Seite 131
 
-Hier die Übersetzung des frühneuhochdeutschen Texts ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Versammelt hier, denen hier, wie der Handel nicht
 Einweisend ist / Fledermaus. So sagte
 Meister Ulrich Zwingli, er sei der Sache

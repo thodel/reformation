@@ -1,7 +1,5 @@
 # Seite 465
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 da sind
 
 Ein Gehör, so man ihm die Meinung täglich

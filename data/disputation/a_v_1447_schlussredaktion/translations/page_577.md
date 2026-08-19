@@ -1,7 +1,5 @@
 # Seite 577
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **G3**
 **114**
 Die fünfte Schlussrede.

@@ -1,7 +1,5 @@
 # Seite 499
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 **Zwingli**
 Nun frage ich sie, ob zwei neue Testamente sind
 oder nur eins.

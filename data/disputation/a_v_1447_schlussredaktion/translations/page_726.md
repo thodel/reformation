@@ -1,7 +1,5 @@
 # Seite 726
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird und jede Zeile einzeln übersetzt wird:
-
 Mr
 310
 Die vierte Schlussrede

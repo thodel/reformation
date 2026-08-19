@@ -1,7 +1,5 @@
 # Seite 723
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **Dear**
 **Die viii. Chlussredi**
 

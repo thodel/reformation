@@ -1,7 +1,5 @@
 # Seite 677
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 3.  50
 4.  12
 Die siebte Schlussrede,

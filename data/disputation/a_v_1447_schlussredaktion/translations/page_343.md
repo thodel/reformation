@@ -1,7 +1,5 @@
 # Seite 343
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 8.86
 Die dritte Schlussrede,
 Als er dann, auf mein Wort, gar weinend darüber springt,

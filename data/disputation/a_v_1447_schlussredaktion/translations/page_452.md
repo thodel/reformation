@@ -1,7 +1,5 @@
 # Seite 452
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 mlich
 und
 Wm.

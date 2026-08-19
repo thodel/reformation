@@ -1,7 +1,5 @@
 # Seite 553
 
-Hier die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 immerzu und benutze auch den Verstand der Wor-
 te Christi, Das ist mein Leib, berühmt gemacht hat.
 Nämlich dass aufgrund der Kraft derselbigen, das

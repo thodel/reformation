@@ -1,7 +1,5 @@
 # Seite 261
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 **Text:**
 Ses mit allein, gemeint hab, Den welltachen
 Bezug ick vss. den vorgenden

@@ -1,7 +1,5 @@
 # Seite 520
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 wie Erben
 *wie Erben*
 Der Herrn

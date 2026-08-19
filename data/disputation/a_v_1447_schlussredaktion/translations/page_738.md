@@ -1,8 +1,5 @@
 # Seite 738
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 bij nach staet
 mett quesmo
 étis

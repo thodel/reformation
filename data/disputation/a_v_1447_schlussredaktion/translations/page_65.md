@@ -1,7 +1,5 @@
 # Seite 65
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Dient auch auf das Lehreramt und die Dienstbarkeit
 Des Wortes, welches ermessen, wird, aus den Ver-
 ständigen des Handels vermerkt, anzutreffen Matthäus

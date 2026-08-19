@@ -1,7 +1,5 @@
 # Seite 221
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 36
 Ich lasse es gelten mit den Worten, da
 Der spricht: Wer nun Schäflein mag im Be-

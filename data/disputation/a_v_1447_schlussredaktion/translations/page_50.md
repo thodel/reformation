@@ -1,7 +1,5 @@
 # Seite 50
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Cf la
 mij
 alle an

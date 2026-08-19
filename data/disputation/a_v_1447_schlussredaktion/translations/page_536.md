@@ -1,7 +1,5 @@
 # Seite 536
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 xxviii dans
 nal.
 Zuneigung

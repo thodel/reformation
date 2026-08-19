@@ -1,7 +1,5 @@
 # Seite 474
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 197
 Die Feinde schlussfolgern
 mir, dass das äußere Wort, heißen oder verheißen, so ich

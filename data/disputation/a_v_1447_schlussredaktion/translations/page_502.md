@@ -1,8 +1,5 @@
 # Seite 502
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
-Text:
 ent seu
 lungen
 vnd
@@ -75,14 +72,3 @@ Die ersten Worte Paulus, welcher mir das
 ist Brot und Trank des Herrn, unwürdig essen und
 trinken wird, ende
 durch uns ihren Verstand.
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Unsicherheiten:** Einige Stellen sind nicht eindeutig, da die Orthographie uneinheitlich ist und einige Wörter veraltet oder schwer lesbar sind. Ich habe versucht, die wahrscheinlichste Bedeutung zu wählen.
-*   **Kontext:** Der Text scheint sich auf die Abendmahlslehre zu beziehen, insbesondere auf die Frage, was es bedeutet, unwürdig am Abendmahl teilzunehmen.
-*   **"ent seu" und "lungen":** Diese Zeilen sind sehr fragmentarisch und ihre Bedeutung ist ohne weiteren Kontext unklar.
-*   **"panki/1 Epi. Chort: xi":** Dies ist eine Abkürzung für den ersten Korintherbrief, Kapitel 11.
-*   **"Wyter erklärung uss. Dem halen gotes cieort":** Vermutlich eine Aufforderung, Gottes Wort zur weiteren Erklärung heranzuziehen.
-*   **"Zie reden paulus offentlich vnnd meldet nieu an/ die bedienung des lybs, vnne bluts des heeren":** Paulus spricht offen darüber und erklärt genau die Darreichung des Leibes und Blutes des Herrn.
-
-Ich hoffe, diese Übersetzung ist hilfreich!

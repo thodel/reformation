@@ -1,7 +1,5 @@
 # Seite 675
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Die fünfte Schlussrede
 kommt nicht von unserem Leben oder Leiden, außer
 Gott. Ist der, der gerecht machen mag, Römer 8.

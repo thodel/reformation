@@ -1,7 +1,5 @@
 # Seite 125
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 befachme (Kann ich nicht deuten)
 fein
 Die auch einander tödlich sind, sind wie

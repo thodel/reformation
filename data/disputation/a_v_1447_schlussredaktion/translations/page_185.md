@@ -1,7 +1,5 @@
 # Seite 185
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird und jede Zeile einzeln übersetzt wird:
-
 Weiß zu erhalten, und wie deutlich, dass unser
 *Erkenntnis zu erhalten, und wie deutlich, dass unser*
 Dass er mit göttlicher Schrift Inhalt hat wider

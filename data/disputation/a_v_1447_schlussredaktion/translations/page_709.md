@@ -1,7 +1,5 @@
 # Seite 709
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 226
 Am achten Tag des Monats Blussred [Bezeichnung für einen Monat, wahrscheinlich im alemannischen Raum]
 haben viele (Bilder) gemacht, und man weiß nirgends,

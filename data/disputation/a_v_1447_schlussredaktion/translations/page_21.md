@@ -1,7 +1,5 @@
 # Seite 21
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 mit Recht gebrauchen die in manchen Kirchen,
 Mit Recht gebrauchen die es in manchen Kirchen,
 

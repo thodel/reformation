@@ -1,7 +1,5 @@
 # Seite 286
 
-Absolut! Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 19
 116.
 Der andere Brief (oder: der nächste Abschnitt)

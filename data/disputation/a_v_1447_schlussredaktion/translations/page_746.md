@@ -1,7 +1,5 @@
 # Seite 746
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 320
 Meister Ulrich Zwinglis, Doktor Johannes
 Oekolampads, Doktor Wolfgang Fabricius Capitos

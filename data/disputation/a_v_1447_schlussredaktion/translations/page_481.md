@@ -1,7 +1,5 @@
 # Seite 481
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Pfarrer von St. Gallen
 ob die Ableitung, so mein Herr Doktor vermeint,
 Die Worte des Kelches, also zu verstehen sind, wollt

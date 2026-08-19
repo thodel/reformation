@@ -1,7 +1,5 @@
 # Seite 193
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 Christi, Die vnnder vch ist, vnnd versechent
 se int genietiget, somnders selbs willig uitt

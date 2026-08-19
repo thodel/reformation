@@ -1,7 +1,5 @@
 # Seite 98
 
-Hier die Übersetzung des Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 Kanton
 28
 Das

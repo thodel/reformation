@@ -1,7 +1,5 @@
 # Seite 321
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins heutige Deutsch, Zeile für Zeile beibehalten:
-
 Die andere Schlussrede
 die töricht und Opium ist verboten, eine teuflische Lehre erkannt
 hat, bleiben, die auch von Christo gänzlich abzieht

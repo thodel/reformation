@@ -1,8 +1,5 @@
 # Seite 167
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
-Text:
 den gloubben belange, Is sie die sach mij
 durch ein Jede gemeind sonder ein gemein
 commun vss zerichten, Damit nit diese klech¬

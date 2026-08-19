@@ -1,8 +1,5 @@
 # Seite 139
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
-Text:
 bereit bin, und Dhenis Weges gestanden. Er wusste
 auch niemandes Darbringen. Wohl ist wahr, dass
 in anderen Punkten bei langen Egalitäten

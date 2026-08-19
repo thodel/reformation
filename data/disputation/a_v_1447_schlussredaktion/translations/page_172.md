@@ -1,8 +1,5 @@
 # Seite 172
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 ark.
 heißt
 lchem

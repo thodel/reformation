@@ -1,8 +1,5 @@
 # Seite 267
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
-Text:
 .
 Sie waren gen Jerusalem geschickt worden, wegen etwas
 eines Mittels, weil die Kirche angegriffen hätte,

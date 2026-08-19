@@ -1,7 +1,5 @@
 # Seite 317
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **Die andere Schlussrede**
 Rechtgläubige Kirchen, das wohl vermöge, dass man die Kirchen
 soll hören, als Innen. So aber der Text, zu Timo-

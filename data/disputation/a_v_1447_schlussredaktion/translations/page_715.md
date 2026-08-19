@@ -1,7 +1,5 @@
 # Seite 715
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Die neunzehnte Schlussrede:
 Der Streit nimmt, wie oben gemeldet und der heilige Paulus, unter
 anderen Eigenschaften eines Gasthofs oder Pfarrers,

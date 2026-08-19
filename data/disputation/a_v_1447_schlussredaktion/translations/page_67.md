@@ -1,7 +1,5 @@
 # Seite 67
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 **Übersetzung:**
 
 # Löten

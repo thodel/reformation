@@ -1,7 +1,5 @@
 # Seite 415
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Benedikt will noch leugnen, dass kein Tropus von ihm
 gebraucht wird, frage ich ihn, ob Synekdoche auch
 ein Tropus sei.

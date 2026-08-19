@@ -1,7 +1,5 @@
 # Seite 197
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 zu vijver vnderruchtung vnnd der emfalen
 genn.
@@ -61,15 +59,3 @@ min behallter vnnd alter wellt, een houpt
 Zesin
 wer Das int sy ein ver¬
 orduet houpt nachgelassen, van sinem got
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Umgangssprachliche Elemente:** Der Text enthält viele umgangssprachliche Elemente und regionale Färbungen, die sich nicht immer perfekt ins heutige Deutsch übertragen lassen.
-*   **Syntax:** Die Syntax ist oft verschachtelt und weicht von der modernen deutschen Grammatik ab.
-*   **Vokabular:** Einige Wörter haben sich in ihrer Bedeutung gewandelt oder sind ganz außer Gebrauch geraten.
-*   **Kontext:** Der genaue Kontext des Textes ist ohne weitere Informationen schwer zu bestimmen.
-*   **Biecht Sin:** ist hier schwer zu deuten. Vermutlich geht es um ein persönliches Geständnis, dass der Schreiber bereit ist, vorzutragen.
-*   **Infuring muer beschluß reden, ecken sich ouch pot den herren Jesum Christum:** Auch diese Zeile ist sprachlich sehr komplex. Vermutlich geht es darum, abschließend über eine Einführung (Infuring) zu reden, die sich auf den Herrn Jesus Christus bezieht.
-*   **Zesin:** Ist nicht zu deuten.
-
-Ich hoffe, diese Übersetzung ist hilfreich.

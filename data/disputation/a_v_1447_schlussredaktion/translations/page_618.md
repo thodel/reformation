@@ -1,7 +1,5 @@
 # Seite 618
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 262
 Die fünfte Ursache,
 vor Gott, so dass das Abendmahl des Herrn, der Tod Christi,

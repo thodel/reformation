@@ -1,7 +1,5 @@
 # Seite 265
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Auch geschwor am
 14. Blatt.
 Fünfzehn Jahre beides sind gewesen ein

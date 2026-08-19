@@ -1,7 +1,5 @@
 # Seite 658
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 280
 Die vierte Schlussrede:
 Wider Gottes Willen seiend. Das aber dabei wird

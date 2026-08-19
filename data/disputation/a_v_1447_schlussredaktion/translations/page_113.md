@@ -1,7 +1,5 @@
 # Seite 113
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 **Übersetzung:**
 
 Dagegen sagen wir, dass dieser Frühling

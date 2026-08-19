@@ -1,8 +1,5 @@
 # Seite 257
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 buch hiervt
 an dem xvij
 blatt.

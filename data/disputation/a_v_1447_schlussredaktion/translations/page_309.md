@@ -1,7 +1,5 @@
 # Seite 309
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **Die ander Schlusredi**
 Die andere Schlussrede.
 Ich führe eine andere Kirche an, habe ich. Denn der Ursprung hier,

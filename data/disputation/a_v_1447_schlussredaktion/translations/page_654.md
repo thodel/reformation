@@ -1,7 +1,5 @@
 # Seite 654
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **Déma**
 **200f**
 **278**

@@ -1,7 +1,5 @@
 # Seite 194
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 sonder
 nomm

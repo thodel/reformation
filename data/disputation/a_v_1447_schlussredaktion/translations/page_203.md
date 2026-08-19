@@ -1,7 +1,5 @@
 # Seite 203
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 Wie ihr hier versammelt seid, durch Gottes
 Willen, was Meinung dann jeder sei,
 und an mich zu gewinnen, ob ich etwas

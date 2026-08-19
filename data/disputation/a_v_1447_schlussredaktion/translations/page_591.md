@@ -1,7 +1,5 @@
 # Seite 591
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile beibehalten:
-
 2
 Die fünfte Schlussrede,
 Martinus Bucer

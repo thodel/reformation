@@ -1,7 +1,5 @@
 # Seite 737
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **Die zuchende Schlussred**
 **Die Suchende Schlussrede**
 

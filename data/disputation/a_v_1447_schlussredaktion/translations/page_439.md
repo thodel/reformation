@@ -1,7 +1,5 @@
 # Seite 439
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 an x cap. Die mein lieber Bruder Ökolampad
 im christlichen Sinne und gut erklärt hat. Damit aber
 unsere sicheren und gemeinsamen Kirchen diese

@@ -1,7 +1,5 @@
 # Seite 160
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 61
 Dienst, Schlussrede
 Recht geschaffene Liebe lässt Verdacht machen/ Er¬

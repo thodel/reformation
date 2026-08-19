@@ -1,7 +1,5 @@
 # Seite 441
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **nimmen**
 Nennt hat Ja, spricht er, ein Brot und
 einen Leib, sind wir die Menge. Merke

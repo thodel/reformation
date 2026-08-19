@@ -1,7 +1,5 @@
 # Seite 268
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird und jede Zeile einzeln übersetzt wird:
-
 bre bye
 zur Bejahung
 Ingelyck
@@ -70,13 +68,3 @@ selbigen zekomen/ viel lieber hertet er aber gesept. sy
 selbigen zu kommen, viel lieber hätte er aber gesagt, sie
 en wijter fragen smem einfaltigen pottes wort glocxken
 en (sollten) weiter fragen seinem einfältigen Gottes Wort Gehorsam (schenken).
-
-**Anmerkungen:**
-
-*   **Sprachliche Herausforderungen:** Der Text ist in einer Übergangsform des Deutschen geschrieben. Die Rechtschreibung ist uneinheitlich und die Grammatik unterscheidet sich vom heutigen Standard.
-*   **Kontext:** Um den Text vollständig zu verstehen, wäre der historische und theologische Kontext hilfreich. Es scheint sich um eine Auseinandersetzung über die Autorität und das Verständnis christlicher Freiheit zu handeln. Paulus und Barnabas stehen dabei im Konflikt mit anderen Autoritäten, insbesondere in Jerusalem.
-*   **Unklare Stellen:** Einige Wörter und Phrasen sind schwer eindeutig zu übersetzen, da sie entweder veraltet sind, regionale Besonderheiten aufweisen oder im Kontext nicht eindeutig sind.
-*   **"Kilder":** Dies könnte ein Ortsname sein, aber es ist auch denkbar, dass es sich um einen Eigennamen handelt. Ohne weiteren Kontext lässt es sich nicht sicher bestimmen.
-*   **"berauben der sachen für de¬ selbigen zekomen":** Dies bedeutet im Wesentlichen: "um diese Angelegenheit zu bereinigen, vor jene zu kommen".
-
-Ich hoffe, diese Übersetzung ist hilfreich!

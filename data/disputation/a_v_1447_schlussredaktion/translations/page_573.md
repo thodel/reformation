@@ -1,7 +1,5 @@
 # Seite 573
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 2 X
 Die fünfte Schlussrede
 also, hat wahrlich hervorgetragen Brot und Wein, um zu

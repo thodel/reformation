@@ -1,7 +1,5 @@
 # Seite 226
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Die erste Schlussrede
 im 13. Kapitel war: Wenn Gott ist, dann
 ist die heilige christliche

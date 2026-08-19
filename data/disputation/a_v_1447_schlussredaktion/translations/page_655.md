@@ -1,7 +1,5 @@
 # Seite 655
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Die vierte Schlussrede.
 Meister Ulrich Zwingli,
 Dass Christus seinen Mutter verehrt habe, nach Vermögen

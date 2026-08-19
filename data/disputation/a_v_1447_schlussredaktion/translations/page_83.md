@@ -1,7 +1,5 @@
 # Seite 83
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Den ich zugeteilt habe, zum ersten, mur
 *Den ich verteilt habe, zum ersten, mur-*
 

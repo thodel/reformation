@@ -1,7 +1,5 @@
 # Seite 731
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Die vierzehnte Ohlpredigt.
 Herrn Jesus Christus haben wir kundgetan, siehe,
 am elften [Kapitel] und Matthäus am ersten [Kapitel], so geschrieben steht, aus

@@ -1,7 +1,5 @@
 # Seite 580
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 wollen bei
 *wollen wir bei*
 sen, des 4

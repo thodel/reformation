@@ -1,7 +1,5 @@
 # Seite 126
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Publunij
 3 ½
 48

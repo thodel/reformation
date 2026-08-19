@@ -1,7 +1,5 @@
 # Seite 311
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Die andere Schlussrede
 gestehe ich nicht, und wo man sagt, dass die Unterscheidung der
 Tage und Opfer, Zeichen des Teufels Ätzung seien, und

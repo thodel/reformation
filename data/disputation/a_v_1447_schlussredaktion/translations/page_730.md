@@ -1,7 +1,5 @@
 # Seite 730
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 # wirdt
 312
 Die achte Oblussrede

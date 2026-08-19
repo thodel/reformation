@@ -1,7 +1,5 @@
 # Seite 225
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Oberster Hirte und Haupt der Kirche
 Das wahre, eingeborene Haupt der Kirche
 ist Christus allein,

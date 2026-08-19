@@ -1,7 +1,5 @@
 # Seite 742
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 318
 Ezechiel, Vieh, und Josia, und Gebote Gottes, an die Römer, 15. Kapitel. Hundert mit Besserung und Erneuerung
 unseres Leibes, damit derselbe recht geschaffen

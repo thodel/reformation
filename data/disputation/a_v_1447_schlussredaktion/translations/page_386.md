@@ -1,7 +1,5 @@
 # Seite 386
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 essen
 allen Prinzen
 Das X

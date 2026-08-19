@@ -1,7 +1,5 @@
 # Seite 235
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Zucht, er harnt in beständigender Krise, was wollend?
 *Zucht, er strampelt in einer andauernden Krise, was ist sein Ziel?*
 

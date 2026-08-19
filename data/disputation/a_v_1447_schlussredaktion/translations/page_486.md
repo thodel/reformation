@@ -1,7 +1,5 @@
 # Seite 486
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 203
 Die vierte Schlussrede:
 Es ist wissend, dass man die Relativsätze,

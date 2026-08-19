@@ -1,7 +1,5 @@
 # Seite 747
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 als ob Euer leichtfertige Missachtung unserer Beden-
 ken, nicht zu verantworten sei, wir sollen gern
 leiden, So man uns, um Gottes willen, Rechenschaft gibt, damit

@@ -1,7 +1,5 @@
 # Seite 695
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **# zulang**
 **Die vii. Schlushredi**
 Die siebte Schlussrede

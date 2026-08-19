@@ -1,7 +1,5 @@
 # Seite 101
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten und jede Zeile einzeln übersetzt wird:
-
 Beim zehnten der Prediger viele Gelehrte
 sollen sitzen, und bei einem anderen gar nie.
 So haben die Präsidenten, Mahner und also trostlos

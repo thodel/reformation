@@ -1,7 +1,5 @@
 # Seite 594
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 250
 Die fünfte Schlussrede
 Sprich ich, dass Er gnugsam aufgelöst werd, So man die

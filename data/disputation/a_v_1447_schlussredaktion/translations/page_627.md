@@ -1,7 +1,5 @@
 # Seite 627
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Die äußerste Schlussrede
 In allem wollen lästern, rufen und acheln, wie Er
 uns dann ermahnt, Matrixio. Denn Er, der einzig ist

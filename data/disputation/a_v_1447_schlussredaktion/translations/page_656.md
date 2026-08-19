@@ -1,7 +1,5 @@
 # Seite 656
 
-Hier die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 279
 Die sechste Schlussrede.
 Ezechiel, am 18. Ich will nicht den Tod des Sünders,

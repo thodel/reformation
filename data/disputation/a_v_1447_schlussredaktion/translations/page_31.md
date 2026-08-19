@@ -1,7 +1,5 @@
 # Seite 31
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Monsieur
 # sein g
 und Panl: Exhe: iiii / einem löblichen Auszug

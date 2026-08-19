@@ -1,7 +1,5 @@
 # Seite 388
 
-Hier die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 162
 die vier Schlussreime
 und von dem, dass er (Christus) gegeben, jedes Jahr in künfti-
@@ -32,13 +30,3 @@ den
 auch anzeigen van den Broten die manigfaltig
 sind worden, van denen ouch Inn dem Cap: stet
 gestoriben, In summa Der her will allein sich
-
-**Erläuterungen und Anmerkungen:**
-
-*   **Schreibweise:** Ich habe die Schreibweise modernisiert und Rechtschreibfehler korrigiert.
-*   **Syntax:** Die Syntax des Textes ist teilweise verschachtelt und weicht von modernem Deutsch ab. Ich habe versucht, die Bedeutung so genau wie möglich wiederzugeben, während ich die Verständlichkeit erhöhe.
-*   **Unklare Stellen:** Einige Stellen sind aufgrund des fragmentarischen Charakters und der spezifischen theologischen Terminologie schwer eindeutig zu interpretieren. In solchen Fällen habe ich versucht, die wahrscheinlichste Bedeutung zu wählen.
-*   **"Bestrap kemer" und "Sieber Schuemeijter":** Ich konnte keine eindeutigen Informationen zu diesen Namen oder Begriffen finden. Sie scheinen lokale Bezeichnungen oder Namen von Personen zu sein, die in der theologischen Diskussion eine Rolle spielten.
-*   **Religiöser Kontext:** Der Text bezieht sich auf eine theologische Auseinandersetzung über das Verständnis des Abendmahls/Eucharistie. Es geht um die Auslegung von Bibelstellen (insbesondere Johannes 6) und die Rolle der Kirchenväter (Origenes, Cyprian usw.) in dieser Auslegung.
-
-Ich hoffe, diese Übersetzung ist hilfreich.

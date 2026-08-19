@@ -1,7 +1,5 @@
 # Seite 363
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Nicht für das Leben der Welt, gegeben werden
 soll. Denn mein Verstand ist, dass das Brot
 (welches ich geben werde) lauter zu

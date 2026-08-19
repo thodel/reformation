@@ -1,7 +1,5 @@
 # Seite 683
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 46
 # wird
 Eu. vii. Thlus zwei

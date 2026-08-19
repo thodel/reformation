@@ -1,8 +1,5 @@
 # Seite 164
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 be
 selven
 cheu

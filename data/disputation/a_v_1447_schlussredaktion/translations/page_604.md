@@ -1,7 +1,5 @@
 # Seite 604
 
-Hier die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 N.P.
 Professoren
 Euer sehr [viele]

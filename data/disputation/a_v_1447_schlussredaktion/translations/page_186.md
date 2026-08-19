@@ -1,7 +1,5 @@
 # Seite 186
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins heutige Deutsch, Zeile für Zeile:
-
 72
 Der erste schlussfolgert.
 So protestiere ich mich vor jedermann, dass er [hier] pro

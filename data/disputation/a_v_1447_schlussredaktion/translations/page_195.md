@@ -1,7 +1,5 @@
 # Seite 195
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Junger Diener Jesu Christi, habend die
 *Junger Diener Jesu Christi, habend die*
 empfangnen Gewalt,

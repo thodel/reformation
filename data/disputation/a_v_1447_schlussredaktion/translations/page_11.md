@@ -1,7 +1,5 @@
 # Seite 11
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile beibehalten:
-
 **Text:**
 worden/ die von ussern Stetten/ vnnd sind zuogegen
 gsin von Costantz ein Ratzpotschafft vnnd zwen

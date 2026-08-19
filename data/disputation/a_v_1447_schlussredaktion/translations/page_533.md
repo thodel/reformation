@@ -1,7 +1,5 @@
 # Seite 533
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile beibehalten:
-
 Das du mir hast gegeben, das ich sollte tun, trotz
 *Das, was du mir gegeben hast, das ich tun sollte, trotz*
 verkläre du mich bei dir selber, mit der Klar-
@@ -62,17 +60,3 @@ Ringel, mit verstanden werden soll.
 *Ringel, mit verstanden werden soll.*
 Häuse
 *Häuse*
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Frühneuhochdeutsch:** Der Text ist in einer frühen Form des Neuhochdeutschen verfasst, das sich von der heutigen Sprache deutlich unterscheidet.
-*   **Orthografie:** Die Rechtschreibung ist uneinheitlich und weicht von modernen Standards ab. Ich habe die Schreibweise beibehalten, aber die Bedeutung bestmöglich übertragen.
-*   **Grammatik:** Die Grammatik ist ebenfalls abweichend, z.B. in Bezug auf Kasus, Verbformen und Satzbau.
-*   **Vokabular:** Einige Wörter haben sich in ihrer Bedeutung verändert oder sind heute nicht mehr gebräuchlich.
-*   **Religiöser Kontext:** Der Text hat einen deutlich religiösen Hintergrund, vermutlich protestantisch. Ich habe versucht, die theologische Bedeutung beizubehalten.
-*   **"lb":** Es handelt sich hierbei wahrscheinlich um eine Abkürzung für "Lieben" oder "Liebe" im Kontext der Beziehung zu Gott.
-*   **"II ca":** Vermutlich eine Referenz zu einem biblischen Kapitel/Vers.
-*   **"Stüber":** Eine alte Währungseinheit.
-*   **"Theophorus":** Ein religiöser Begriff für jemanden, der von Gott erfüllt ist.
-
-Ich hoffe, diese Übersetzung ist hilfreich. Aufgrund der Komplexität des Textes und der sprachlichen Unterschiede sind Interpretationen möglich, dies ist aber die wahrscheinlichste Bedeutung.

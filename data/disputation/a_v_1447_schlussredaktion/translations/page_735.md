@@ -1,7 +1,5 @@
 # Seite 735
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Die achte Schlussrede
 deutlich mit Trug und der Unwahrheit angetastet ha-
 ben, mündlich, und oft das Allerkürzeste abzuleug-

@@ -1,7 +1,5 @@
 # Seite 71
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 können/
 mit rechtem Herzen auf alle angezogenen Sprüche
 so hat der Beichtvater weiterhin bewährt

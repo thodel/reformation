@@ -1,7 +1,5 @@
 # Seite 462
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 27
 die Freundschlüsse endend 193 24
 eines Jeglichen Glück zum Romern am 1. Kapitel:

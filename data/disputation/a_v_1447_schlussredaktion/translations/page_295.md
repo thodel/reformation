@@ -1,7 +1,5 @@
 # Seite 295
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Die andere Schlussrede.
 Theobald Hutter, Pfarrer
 zu Appenzell.

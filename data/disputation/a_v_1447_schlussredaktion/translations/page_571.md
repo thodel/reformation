@@ -1,7 +1,5 @@
 # Seite 571
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 **Die fünfte Schlussrede**
 
 Gemeinde Gottes, nicht erbaut wird, welches richtig

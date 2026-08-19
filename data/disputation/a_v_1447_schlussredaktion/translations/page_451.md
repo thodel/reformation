@@ -1,7 +1,5 @@
 # Seite 451
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 haben zehn Hähne gehabt, der Verhassung welche
 uns mit Zorn und Tat wahrlich seine Mit-
 gereicht, und wie das bedeutet wird wer-

@@ -1,7 +1,5 @@
 # Seite 17
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Diejenigen,
 die sich bemerkbar machen, hierherkommen und sich einrichten wollen, in
 Anbetracht dessen, dass die Angelegenheit schmählich, sonder-

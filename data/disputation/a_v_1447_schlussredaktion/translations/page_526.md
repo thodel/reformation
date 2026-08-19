@@ -1,7 +1,5 @@
 # Seite 526
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Die Aussage (oder Entscheidung) des Souveräns (oder Gerichts) 218
 bestätigt, dass er das edle Fleisch zu solchem leib-
 lichen Essen mit Hattr Ovellum verordnen (anordnen) soll. Hierum

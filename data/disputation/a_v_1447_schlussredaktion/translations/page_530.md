@@ -1,7 +1,5 @@
 # Seite 530
 
-Absolut! Hier ist die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **Übersetzung:**
 
 19 b

@@ -1,7 +1,5 @@
 # Seite 568
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 237
 Die fünfte Illusionsrede:
 angenehm vor dem Angesicht Gottes. Gott hat ange-

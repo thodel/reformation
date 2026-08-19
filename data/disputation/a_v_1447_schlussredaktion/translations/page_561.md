@@ -1,7 +1,5 @@
 # Seite 561
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 flogen hört mögen ihre Klagen über das Leid,
 Mögen sie hören, wie ihre Klagen über das Leid kommen
 An meinen lieben Herrn und Bruder, Meister Waich.
@@ -61,21 +59,3 @@ sondern dass ich mehr getan habe, als ich mir vorgenommen
 wäre gethan hab.
 hätte.
 1-28/
-
-**Erläuterungen zur Übersetzung:**
-
-*   **Frühneuhochdeutsch:** Die Sprache ist durch altertümliche Wörter, ungewohnte Rechtschreibung und Satzbau gekennzeichnet.
-*   **Moderne Entsprechungen:** Ich habe versucht, die Bedeutung so genau wie möglich in modernes Deutsch zu übertragen.
-*   **Kontext:** Der Text scheint Teil eines Streits zwischen einem Schreiber und Meister Waich zu sein, in dem es um religiöse bzw. theologische Fragen geht. Der Schreiber wirft Waich vor, Christen zu verleumden und eine Disputation zu vermeiden, indem er unfaire Bedingungen stellt.
-*   **Schwierigkeiten:** Einige Stellen sind aufgrund der Archaismen und fehlenden Kontexts schwer eindeutig zu interpretieren. Ich habe mich bei der Übersetzung an der wahrscheinlichsten Bedeutung orientiert.
-
-Bemerkungen:
-
-*   "Elsonatien ernordertt": Bedeutet soviel wie im Bezug auf die Lehre der Elsoniten (eine frühchristliche Sekte) gerichtet.
-*   "pichter fur vor welschen": Hier bezieht sich "welsch" wahrscheinlich auf eine fremde (romanische) Sprache oder Kultur, und "pichter" auf einen Schiedsrichter oder Richter.
-*   "geboort worden ist": "Geboort" ist hier ein veraltetes Wort für "bezeugt" oder "bewiesen".
-*   "vnverwegent richter": Hier bedeutet "unverwegent" soviel wie "unparteiisch" oder "unbefangen".
-*   "chempell der schrifft": Gemeint sind "Exemplare", also Belegstellen aus der Schrift.
-*    "Overijsz sy, ouch mit getlicher voorss. hafft zu erhaltten": bedeutet soviel wie "dafür stehe ich mit göttlicher Vorsehung ein".
-
-Ich hoffe, diese Übersetzung hilft Ihnen weiter!

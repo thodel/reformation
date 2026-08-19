@@ -1,7 +1,5 @@
 # Seite 718
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 300
 Die vierte Schlussrede.
 Ob eure Augen gute Werke wären, folgt hiernach.

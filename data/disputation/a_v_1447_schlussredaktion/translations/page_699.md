@@ -1,7 +1,5 @@
 # Seite 699
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Die siebte Schlussrede.
 finden, dass in Kurzem, nach der Zeit der Apostel,
 der Brauch der Toten, also gewesen sein, dass die

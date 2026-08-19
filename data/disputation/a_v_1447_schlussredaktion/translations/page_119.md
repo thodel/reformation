@@ -1,7 +1,5 @@
 # Seite 119
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 verstanden, soll werden, wenn jemand in seinem
 Bruder sucht und findet, Ich
 frage aber meinen Herrn Doktor: Welcher

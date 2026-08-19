@@ -1,7 +1,5 @@
 # Seite 52
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 petro
 Befehl
 mempl

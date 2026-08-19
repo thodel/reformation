@@ -1,7 +1,5 @@
 # Seite 716
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 1827.
 305
 Die achte Schlussrede

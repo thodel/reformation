@@ -1,7 +1,5 @@
 # Seite 334
 
-Hier die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 FJ
 So ist es demnach.
 Aus Mitte, das

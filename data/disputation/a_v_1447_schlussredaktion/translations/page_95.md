@@ -1,7 +1,5 @@
 # Seite 95
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 29
 mit der Kirche
 -

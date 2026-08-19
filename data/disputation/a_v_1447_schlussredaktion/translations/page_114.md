@@ -1,7 +1,5 @@
 # Seite 114
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 42
 Des Herrn Empfangen, habe Dormus es dann, wenn
 es von einer gemeinen christlichen Versammlung

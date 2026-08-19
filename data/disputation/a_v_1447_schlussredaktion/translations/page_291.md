@@ -1,7 +1,5 @@
 # Seite 291
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Die andere Schlussrede,
 Martinus Bucer
 Die lassen es bleiben bei dem Vorteil der Gläubigen,

@@ -1,7 +1,5 @@
 # Seite 651
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 # Regel oder
 Die sechste Schlussrede,
 Ein

@@ -1,7 +1,5 @@
 # Seite 404
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 d'un
 Ihm hat
 wind zuvor

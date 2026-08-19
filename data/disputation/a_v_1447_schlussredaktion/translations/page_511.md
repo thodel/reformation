@@ -1,7 +1,5 @@
 # Seite 511
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 159
 sein, dass die Seele lebendig mache, so werden
 wir im Sakrament mit leiblichem Fleiß und

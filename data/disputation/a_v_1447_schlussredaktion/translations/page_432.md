@@ -1,7 +1,5 @@
 # Seite 432
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 selben sein.
 *Desselben sei.*
 

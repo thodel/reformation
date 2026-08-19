@@ -1,7 +1,5 @@
 # Seite 687
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Die siebte Thlushred,
 Das Fegefeuer. Denn ehe er nicht hinaus wird gehen,
 bis sie bezahlt hat, so wird er danach hinaus gehen.

@@ -1,7 +1,5 @@
 # Seite 359
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Pfarrer von St. Gallen
 
 Als, nach langem, mein lieber Herr Meister

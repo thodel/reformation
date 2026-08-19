@@ -1,7 +1,5 @@
 # Seite 382
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 und in der
 welche
 sollt schon

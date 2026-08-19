@@ -1,7 +1,5 @@
 # Seite 619
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Die fünfte Schlussrede
 In Kraft und Wesen kommt, wann der stirbt, der
 das Testament gemacht hat. Also Christus

@@ -1,7 +1,5 @@
 # Seite 28
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 2
 Die erste Schlussfolgerung
 nennen sie. Dann wo wir den Menschen

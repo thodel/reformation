@@ -1,7 +1,5 @@
 # Seite 513
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 46
 so gewaltiger Exzellenz, der Schrift Gezogenheit wäre,
 sein/ Dies Wort, das ist mein Leib und

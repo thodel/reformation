@@ -1,7 +1,5 @@
 # Seite 165
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Christus befiehlt, der Kirche zu sagen, die
 Nötigung des Bruders, der Nachbe-
 zugter Warnungen, sich nicht bessert, hat vor eurer

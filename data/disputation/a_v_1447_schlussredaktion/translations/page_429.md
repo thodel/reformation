@@ -1,7 +1,5 @@
 # Seite 429
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 genommen, für die Austeilung des Heiligen Geistes,
 wie erst auch zu [Palach] am 6. Kapitel gebraucht.
 Deshalb, es auch hier in der 1. Epistel an die Korinther
@@ -30,10 +28,3 @@ Unsere Antwort hat alles [was?] damit ab-
 gebrochen, dieweil wir klärlich dargetan
 haben, dass hier eine Gemeinschaft verstanden
 werden will und will es noch klärlicher.
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Unsicherheiten:** Einige Wörter und Phrasen sind schwer eindeutig zu übersetzen, da der Kontext nicht vollständig klar ist oder die Sprache sehr speziell ist (z.B. "palacheern"). Ich habe versucht, die wahrscheinlichste Bedeutung zu wählen. "[Palach]" wurde bewusst unübersetzt gelassen, da die konkrete Bezugnahme unklar ist. Ebenso "...teilt zevenstanden werden, von Dem geistlichen"
-*   **Grammatik und Satzbau:** Die Grammatik und der Satzbau des Frühneuhochdeutschen unterscheiden sich erheblich vom modernen Deutsch. Ich habe die Sätze so angepasst, dass sie im modernen Deutsch verständlich sind, ohne den Sinn zu verändern.
-*   **Religiöser Kontext:** Der Text scheint sich auf theologische oder religiöse Fragen zu beziehen, insbesondere auf das Abendmahl (Brot und Wein/Kelch).
-*   **Ökolampadius:** Johannes Oekolampad (auch Ecolampadius) war ein Reformator. Seine Nennung deutet auf eine Auseinandersetzung über die Abendmahlslehre hin.

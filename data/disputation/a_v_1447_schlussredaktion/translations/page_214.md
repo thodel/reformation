@@ -1,7 +1,5 @@
 # Seite 214
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 tover
 lussens
@@ -70,14 +68,3 @@ Petro und seine sonderliche Verheißung auch da
 geleistet sei. Das bringe ich bei. Ich glaube, dass
 Christus Petro von Stunde an geleistet beige. Do
 Votre amié
-
-**Anmerkungen:**
-
-*   Die ersten Zeilen sind schwer zu deuten, da sie isoliert stehen. "tover", "lussens" und "andere" könnten Fragmente von Wörtern oder Namen sein.
-*   Der Text diskutiert theologische Argumente, insbesondere die Autorität des Petrus und die Verheißungen Christi.
-*   Es werden häufig Bibelstellen zitiert (Johannes, Matthäus), was typisch für theologische Schriften der Zeit ist.
-*   Die Rechtschreibung ist uneinheitlich und weicht stark von modernem Deutsch ab.
-*   "Ick" am Ende ist eine niederdeutsche/niederländische Form von "Ich".
-*   "Do Votre amié" bedeutet soviel wie: "Ihr Freund/Guter Freund". Es ist ein französischer Ausdruck.
-
-Ich hoffe, diese Übersetzung hilft dir!

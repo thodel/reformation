@@ -1,7 +1,5 @@
 # Seite 49
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 der Könige
 so dann niemand kann die Herzen ändern,
 Denn er und gebend also Christo die Ehre, lasst [sie] landen

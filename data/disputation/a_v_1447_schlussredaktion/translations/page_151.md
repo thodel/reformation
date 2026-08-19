@@ -1,7 +1,5 @@
 # Seite 151
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 So leben sie denn heilig, noch fehlt viel
 und Jochum haben sie, über den Teufel, der
 ihrem Geist Gottes Zustimmung gibt. Das

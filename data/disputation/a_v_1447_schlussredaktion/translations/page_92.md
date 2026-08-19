@@ -1,7 +1,5 @@
 # Seite 92
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 33
 Die erste Schandtat
 Ich verstehe klug bestanden und mit Abweichung, von

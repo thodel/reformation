@@ -1,7 +1,5 @@
 # Seite 189
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 6 m
 Das Amt der Dienstbereitschaft, wie Paulus zum
 Epheserbrief, Kapitel 4, selbst sagt. Darum schlussfolgert

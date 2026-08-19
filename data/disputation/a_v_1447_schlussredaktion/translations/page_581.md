@@ -1,7 +1,5 @@
 # Seite 581
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Die fünfte Schlussfolgerung,
 zu dem Text: "Der fragt, wie Christus nach der
 Ordnung Melchisedechs Priester sei." Ist gestern

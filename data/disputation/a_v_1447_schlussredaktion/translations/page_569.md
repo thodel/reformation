@@ -1,7 +1,5 @@
 # Seite 569
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 4
 6
 Die fünfte Schlussrede
@@ -69,10 +67,3 @@ golt, über die Achseln beißt, wider die Tat Christi,
 zum andern, Das christliche Freiheit brochen
 wirdt, mitt der Kabben, Kleiden, Crurgen, Cere-
 monien, Personen, und Zeiten, Een Priestern nach
-
-**Anmerkungen:**
-
-*   Ich habe versucht, den Sinn so genau wie möglich zu erfassen, auch wenn der Originaltext an manchen Stellen unklar ist.
-*   Einige Wörter und Wendungen sind schwer zu übersetzen, da sie spezifisch für die Zeit und den religiösen Kontext sind. Ich habe versucht, eine verständliche moderne Entsprechung zu finden.
-*   Die Rechtschreibung wurde modernisiert.
-* Die Schreibfehler wurden behoben, um eine leserliche Übersetzung zu ermöglichen.

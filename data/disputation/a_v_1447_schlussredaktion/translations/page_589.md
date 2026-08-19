@@ -1,7 +1,5 @@
 # Seite 589
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 29
 Die fünfte Schlussrede
 des alten Gesagten wollen wir als ungültig aufzeigen, und

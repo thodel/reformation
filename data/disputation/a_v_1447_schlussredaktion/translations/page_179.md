@@ -1,7 +1,5 @@
 # Seite 179
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Aber die Protokolle (fasti) zeigen, dass Vamerich die Verhandlung,
 die sich mit den Predigern von Straßburg befasst,
 angetroffen hat. Desgleichen haben die

@@ -1,7 +1,5 @@
 # Seite 93
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 bevolchen sye / uit gelt schulden inze zuchenn
 *Befohlen sei / wegen Geldschulden vorzuladen*
 oder vmb annder zetlichen handlungen wegen

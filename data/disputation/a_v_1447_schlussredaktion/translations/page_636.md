@@ -1,7 +1,5 @@
 # Seite 636
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 dd
 .
 269

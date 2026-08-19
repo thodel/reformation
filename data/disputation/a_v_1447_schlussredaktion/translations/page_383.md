@@ -1,7 +1,5 @@
 # Seite 383
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 mit weisen, überlegten Worten zu antworten, ob der Spruch
 Johannes im 6. Kapitel
 Das Brot, welches ich

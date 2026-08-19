@@ -1,8 +1,5 @@
 # Seite 112
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
-Text:
 Dies will er
 28
 41

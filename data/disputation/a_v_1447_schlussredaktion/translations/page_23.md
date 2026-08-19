@@ -1,7 +1,5 @@
 # Seite 23
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 de mesme
 die vergenden wort erlutert, Da verstan all

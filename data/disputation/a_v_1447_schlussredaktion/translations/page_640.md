@@ -1,7 +1,5 @@
 # Seite 640
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile beibehalten:
-
 **Text:**
 andren
 hast
@@ -65,14 +63,3 @@ denn Sanctus heißt ein Heiligen, das ist, ein
 Gläubigen, oder Gottsfürchtigen, die werden Gott
 zur rechten Zeit bitten,
 Egidius Mauer
-
-**Anmerkungen:**
-
-*   Ich habe versucht, den originalen Satzbau so gut wie möglich zu erhalten, was zu etwas holprigen Formulierungen im modernen Deutsch führen kann.
-*   "from" und "2d" sind wahrscheinlich englische Ausdrücke, die in den deutschen Text eingefügt wurden. Sie wurden nicht übersetzt.
-*   Einige Wörter sind schwer zu lesen oder zu interpretieren (z.B. "fin" in Zeile 12).  Ich habe versucht, die wahrscheinlichste Bedeutung zu wählen.
-*   Die Schreibweise von Eigennamen wurde angepasst (z.B. "Ulrich" statt "Vlrich").
-*   Einige grammatikalische Eigenheiten des Frühneuhochdeutschen wurden in moderneres Deutsch übertragen (z.B. Genitivformen wie "dero").
-* "getlicher" habe ich mit "getreulicher" übersetzt, da dies die wahrscheinlichste Bedeutung ist. "Getlich" könnte auch "göttlich" bedeuten, was aber im Kontext weniger Sinn ergibt.
-
-Ich hoffe, diese Übersetzung ist hilfreich!

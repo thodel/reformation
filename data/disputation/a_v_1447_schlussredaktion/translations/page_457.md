@@ -1,8 +1,5 @@
 # Seite 457
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
-Text:
 Was trosts hettenn wir dan Im sacra
 mentlichen brot (gebenn wir die ant opmatt Das
 sy aber principium petunt, das ist, Das sy aber

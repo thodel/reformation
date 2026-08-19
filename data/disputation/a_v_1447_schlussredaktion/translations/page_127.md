@@ -1,7 +1,5 @@
 # Seite 127
 
-Hier die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 Darum hat es die Gestalt, ein jeder Christ
 *Deshalb ist es so, dass jeder Christ*
 muss für sich selbst mit Paulo knußen, wann

@@ -1,7 +1,5 @@
 # Seite 605
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 # In dem anderen
 Aaa
 Die fünfte Schlussrede

@@ -1,7 +1,5 @@
 # Seite 378
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Die vierte Schlussrede
 157
 und gern Gehorsam hab, nämlich, damit finstere

@@ -1,7 +1,5 @@
 # Seite 220
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 87
 Die ersten Schlussreden
 9. Dass es aber insbesondere ihm das geleistet sei, und

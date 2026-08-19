@@ -1,7 +1,5 @@
 # Seite 104
 
-Absolut! Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Originaltext:**
 Breda
 Das
@@ -83,13 +81,3 @@ hat Doktor Cumard Träger prom unael
 Inhaber und meinens Sinnes Vornehmens angezeigt
 finde in dein, einen Namen, der Kragen zwei-
 spaltig genommen und aus. Wollenicher Mut
-
-**Anmerkungen:**
-
-*   **Orthografie:** Die Rechtschreibung wurde modernisiert.
-*   **Grammatik:** Die Grammatik wurde an moderne Konventionen angepasst.
-*   **Vokabular:** Veraltete oder unklare Wörter wurden durch modernere Äquivalente ersetzt.
-*   **Zeilenstruktur:** Die ursprüngliche Zeilenstruktur wurde beibehalten, um den Bezug zum Originaltext zu erleichtern.
-*   **Ungenauigkeiten:** Einige Passagen sind aufgrund der fragmentarischen Natur des Textes und der ungewöhnlichen Formulierungen schwer eindeutig zu interpretieren. Es handelt sich um eine bestmögliche Annäherung.
-
-Ich hoffe, diese Übersetzung ist hilfreich!

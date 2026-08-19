@@ -1,7 +1,5 @@
 # Seite 694
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 296
 Dies. VII. Schlussrede
 Meister Ulrich Zwingli,

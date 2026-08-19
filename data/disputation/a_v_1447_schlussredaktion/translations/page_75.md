@@ -1,7 +1,5 @@
 # Seite 75
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 Im von Christus gegebenen (Amt), über die Schaf(e) mit
 gebrochen, wenn machte die Dienst-
 barkeit. Dass einer Darinnen in ein geweihter

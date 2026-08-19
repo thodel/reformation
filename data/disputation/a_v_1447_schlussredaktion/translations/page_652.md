@@ -1,7 +1,5 @@
 # Seite 652
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde und jede Zeile einzeln übersetzt wurde:
-
 Elle
 204
 272

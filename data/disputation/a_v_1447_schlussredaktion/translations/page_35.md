@@ -1,7 +1,5 @@
 # Seite 35
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 capittell. Item Das er sin lijb reguert schirmt
 Dan es spricht

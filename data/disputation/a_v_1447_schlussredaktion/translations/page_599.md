@@ -1,7 +1,5 @@
 # Seite 599
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 Die funfte Schlusseredi
 gidius muver

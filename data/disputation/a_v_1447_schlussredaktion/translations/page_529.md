@@ -1,7 +1,5 @@
 # Seite 529
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 hat die Sache den Verstand, durch den Hügel
 verstehen wir, dass geistlich herrlich Wesen der
 geteilt, alsso wir bitten unser Vater im Himmel

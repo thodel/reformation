@@ -1,7 +1,5 @@
 # Seite 129
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 a
 Ich frage Herrn Inn, wo er solches gefunden hat,
 Dass er die christlichen Kisten und Konzile

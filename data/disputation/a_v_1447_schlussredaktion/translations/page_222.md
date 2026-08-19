@@ -1,7 +1,5 @@
 # Seite 222
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Hernia
 88
 Zuerst schlussfolgernd
@@ -59,15 +57,3 @@ int will ich erzogen Johannis xvi cap:
 Drijwijl vnnd hett Christus petro Dix
 schlussell Insonderheit verheissen bedat vns
 een soundrige oberkeit vnnd gewallt vnder
-
-**Anmerkungen:**
-
-*   Der Text ist an manchen Stellen sehr schwer verständlich, da die Sprache und die Formulierungen veraltet sind.
-*   "Hernia" bezieht sich vermutlich auf einen medizinischen Kommentar oder eine Abhandlung über Hernien (Brüche).
-*   Die Debatte dreht sich offensichtlich um die Autorität des Petrus und die Schlüssel des Himmelreichs (Matthäus 16,19). Es wird argumentiert, ob diese Schlüssel exklusiv für Petrus oder für alle Gläubigen bestimmt waren.
-*   "Docq" ist vermutlich eine Person (ein Autor, Kommentator o.Ä.).
-*   Die Wörter "laufest" sind nicht klar.
-*   "winett" ist unklar.
-*   Die Stelle "Drijwijl vnnd hett Christus petro Dix schlussell Insonderheit verheissen bedat vns een soundrige oberkeit vnnd gewallt vnder" ist im Dialekt.
-
-Ich hoffe, diese Übersetzung hilft Ihnen weiter!

@@ -1,7 +1,5 @@
 # Seite 541
 
-Hier die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 Original: Zebebarren, Bezug mich hie vor deser Ersamen ver¬
 Übersetzung: Ehrwürdige Herren, ich beziehe mich hiermit vor dieser Ehrwürdigen Ver-
 

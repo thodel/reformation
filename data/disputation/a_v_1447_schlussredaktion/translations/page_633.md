@@ -1,7 +1,5 @@
 # Seite 633
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Die höchste Schlussrede,
 Wegen des goldenen und vergänglichen Leibes, vielleicht
 verständlicher, da Paulus im ersten Brief an die Korinther, Kapitel 12,

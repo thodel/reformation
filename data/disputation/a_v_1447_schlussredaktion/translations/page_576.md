@@ -1,8 +1,5 @@
 # Seite 576
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
-Text:
 meines St.
 of the sayd
 4

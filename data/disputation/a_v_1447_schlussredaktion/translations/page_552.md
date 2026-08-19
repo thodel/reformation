@@ -1,8 +1,5 @@
 # Seite 552
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 weer und
 4
 Die 4. stuijvende

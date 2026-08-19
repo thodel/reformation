@@ -1,7 +1,5 @@
 # Seite 76
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 wust
 when

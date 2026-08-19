@@ -1,7 +1,5 @@
 # Seite 143
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Am zechenden Tag ist mir's.
 *Am zehnten Tag ist mir es.*
 Martinus Ducex

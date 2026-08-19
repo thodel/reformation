@@ -1,7 +1,5 @@
 # Seite 531
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Weil er unser Flehen, unsere wahre Natur angenommen
 und zu solcher Herrlichkeit gebracht hat,
 will, wer natürliche Dinge, hat er hier auf

@@ -1,7 +1,5 @@
 # Seite 582
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 tot dit
 de vous
 uijt het soude

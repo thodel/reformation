@@ -1,8 +1,5 @@
 # Seite 507
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 Ihere mijn, am ende cap: Wir wollend In lassen,
 das hollts Inn sin brotje ende Da durch
 Das wortt brott lijb verstanden, wirdett, Ich

@@ -1,7 +1,5 @@
 # Seite 365
 
-Hier die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 6
 werden, laut der vergehenden Worte: Ich bin das
 lebendige Brot, Ende.

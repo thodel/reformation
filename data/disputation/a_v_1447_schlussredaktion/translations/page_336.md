@@ -1,7 +1,5 @@
 # Seite 336
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 
 Pfinde
@@ -187,13 +185,3 @@ anderen Sachen, und andere Augen darauf, das
 wird unser Sach sein, wie müssen Schreiben,
 oder dergleichen etwas tun, Da wäre Schreiben nicht
 hachen, würde aber In nachifrender red, also ge¬
-
-**Anmerkungen:**
-
-*   **Schwierigkeiten:** Die Übersetzung ist teilweise interpretationsbedürftig, da das Frühneuhochdeutsch sich in Rechtschreibung, Grammatik und Wortschatz vom modernen Deutsch unterscheidet. Einige Wendungen sind auch unklar.
-*   **Namen/Orte:** Namen wie "Erewilner" sind schwer zuzuordnen ohne weiteren Kontext.
-*   **Religiöser Kontext:** Der Text scheint sich stark auf religiöse Themen (Glaube, Werke, Christus) zu beziehen.
-*   **Fragmentarisch:** Der Text wirkt teilweise fragmentarisch und wie eine Sammlung von Notizen.
-*   **Phonetische Schreibweise:** Die Schreibweise weicht stark vom modernen Deutsch ab und ist stark phonetisch beeinflusst.
-
-Ich hoffe, diese Übersetzung ist hilfreich!

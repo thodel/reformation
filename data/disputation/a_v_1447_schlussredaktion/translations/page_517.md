@@ -1,7 +1,5 @@
 # Seite 517
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 öffnet sich im Durchgang des geretteten Meeres,
 In Speisung des Himmelsbrotes und in anderen
 Wunderwerken, durch Moses verfasst,

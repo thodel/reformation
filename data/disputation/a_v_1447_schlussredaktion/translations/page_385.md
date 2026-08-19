@@ -1,7 +1,5 @@
 # Seite 385
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 112
 von Honnef herabgekommen, dass sie das so gehabt haben
 der Welt gegeben, dass solche Werte samt

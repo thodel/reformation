@@ -1,7 +1,5 @@
 # Seite 721
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 11
 Die achte Schlussrede
 von Glaubenssachen, Die werden die Feindschaft und Bosheit

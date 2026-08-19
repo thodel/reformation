@@ -1,7 +1,5 @@
 # Seite 163
 
-Absolut! Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **Frühneuhochdeutsch**
 
 comitio keinem Baxst, sind sy gestlich, so

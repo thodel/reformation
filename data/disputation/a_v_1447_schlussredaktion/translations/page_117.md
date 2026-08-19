@@ -1,7 +1,5 @@
 # Seite 117
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Das soll solchergestalt zu verstehen sein, was
 damit geurteilt werden soll. Das mag ur-
 teilen der geistlichen Menschen, [die] Schrift soll

@@ -1,7 +1,5 @@
 # Seite 421
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 **Text:**
 deist Christi int besonder ro. hallten, an es mitt
 zu der sach dient¬

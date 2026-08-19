@@ -1,7 +1,5 @@
 # Seite 673
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 4650
 # Das ist in
 Das Grab,

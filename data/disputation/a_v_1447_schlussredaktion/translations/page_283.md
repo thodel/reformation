@@ -1,7 +1,5 @@
 # Seite 283
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Die andere Artikel Schlussrede
 Martinus Bucer
 Der Schulmeister fragt, wie viel wir vermeinen,

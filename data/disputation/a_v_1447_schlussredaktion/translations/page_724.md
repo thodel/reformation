@@ -1,7 +1,5 @@
 # Seite 724
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Monsieur
 # geworden
 1m

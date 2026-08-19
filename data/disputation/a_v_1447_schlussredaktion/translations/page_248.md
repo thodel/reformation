@@ -1,7 +1,5 @@
 # Seite 248
 
-Hier die Übersetzung des Textes, Zeile für Zeile:
-
 **Frühneuhochdeutsch:**
 
 vns

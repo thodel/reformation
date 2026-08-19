@@ -1,7 +1,5 @@
 # Seite 579
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 **Text:**
 
 Een Basïs

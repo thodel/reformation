@@ -1,8 +1,5 @@
 # Seite 298
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 nicht ver¬
 vord, oder
 gebieten

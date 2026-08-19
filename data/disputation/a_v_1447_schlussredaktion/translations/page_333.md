@@ -1,7 +1,5 @@
 # Seite 333
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 96
 A
 Die dritte Ochlusrede,

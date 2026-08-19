@@ -1,7 +1,5 @@
 # Seite 237
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 "hat
 Zu denen: Nun ist das Vieh Christi weit, von
 Aufgang der Sonne, bis zum Niedergang dessen,

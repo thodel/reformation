@@ -1,7 +1,5 @@
 # Seite 728
 
-Hier die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 Mein
 3.
 Die 8. Schlussrede,

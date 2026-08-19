@@ -1,7 +1,5 @@
 # Seite 634
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 (C
 268
 Die Buches, der Schlussrede.

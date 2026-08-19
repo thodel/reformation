@@ -1,7 +1,5 @@
 # Seite 464
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 **en eder
 215.194
 Die vierte Schlussrede.**

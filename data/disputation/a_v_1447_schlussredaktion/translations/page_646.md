@@ -1,7 +1,5 @@
 # Seite 646
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 274
 Die sechste Schlussrede
 Johannes Buchstab

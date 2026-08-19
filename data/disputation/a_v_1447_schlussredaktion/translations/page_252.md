@@ -1,7 +1,5 @@
 # Seite 252
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Crvois
 *Kreuz*
 nur bericht

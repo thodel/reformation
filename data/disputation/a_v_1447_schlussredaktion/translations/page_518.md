@@ -1,7 +1,5 @@
 # Seite 518
 
-Okay, hier ist die Übersetzung des frühneuhochdeutschen Texts ins moderne Deutsch, Zeile für Zeile:
-
 Wm.
 So mit
 benn
@@ -44,12 +42,3 @@ Wie also, ihr seht den Sohn des Einzigartigen aufsteigen, da
 er vor war, und erfuhrt die 30 mit
 Ihnen aber sagen, so ich gen Hünell für werde, die euch
 Denn euch entfernen, alles welkt, er sagen freilich nein.
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Schwierigkeiten:** Der Text ist fragmentarisch, enthält Namen und Orte, die möglicherweise verfälscht sind (z.B. "Hünell") und ist teilweise schwer verständlich. Einige Phrasen wie "Frauwechen" sind rätselhaft und ich habe versucht, sie so gut wie möglich im Kontext zu belassen.
-*   **Dialekt und Schreibweise:** Die Rechtschreibung ist inkonsistent und deutet auf einen regionalen Dialekt hin. Ich habe versucht, dies in der Übersetzung beizubehalten, indem ich z.B. "vff" als "auf" übersetzt habe.
-*   **Kontext:** Der Text scheint sich mit einer theologischen Debatte über das Abendmahl bzw. die Eucharistie zu beschäftigen. Es geht um die Auslegung von Christus' Worten über sein Fleisch und Blut. Colampadius war ein Reformator, was diesen Kontext unterstützt.
-*   **"One of her" und "wiel":** Die englische Formulierung "one of her" sowie das holländisch anmutende "wiel" sind Fremdkörper im Text. Möglicherweise sind es Anmerkungen oder Zitate aus anderen Quellen.
-
-Diese Übersetzung ist so genau wie möglich angesichts der Schwierigkeiten des Textes. Ich hoffe, sie ist hilfreich.

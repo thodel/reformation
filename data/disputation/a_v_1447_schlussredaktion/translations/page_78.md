@@ -1,8 +1,5 @@
 # Seite 78
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird und jede Zeile einzeln übersetzt wird:
-
-Text:
 others
 warf
 Jattens

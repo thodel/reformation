@@ -1,7 +1,5 @@
 # Seite 666
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 118
 282
 Die Rede zum Schluss der Pibende

@@ -1,7 +1,5 @@
 # Seite 668
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 28
 28½
 Die siebte Schlussrede

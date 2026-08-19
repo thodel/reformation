@@ -1,7 +1,5 @@
 # Seite 389
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 selbst von uns ersucht werden, als das lebendige
 Brot, das uns kräftiglich speist, so wir erkennen,
 wie er sein Leib für uns in den Tod gegeben hat, von

@@ -1,7 +1,5 @@
 # Seite 236
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 **Text:**
 
 Der mit
@@ -43,12 +41,3 @@ einer Kreatur will geben, Aber sonst ein Regiment
 in dienstbarer Weise auf eine einzige Person
 Als [peno oder smen – Bedeutung unklar], nachkommen, ein Papst minder soll
 aber er ermesse, dass ein Haupt zu Stunde, allen Gliedern
-
-**Erläuterungen:**
-
-*   **Allgemein:** Der Text ist theologischer Natur und diskutiert vermutlich Fragen der Autorität, der Schriftauslegung und der Rolle Christi.
-*   **Unsicherheiten:** Einige Wörter oder Phrasen sind schwer eindeutig zu übersetzen, da sie entweder veraltet sind, regionale Eigenheiten aufweisen oder möglicherweise Schreibfehler enthalten. Diese Stellen sind mit Kommentaren versehen.
-*   **Zeilenstruktur:** Die Zeilenstruktur wurde beibehalten, um die Übersetzung so nah wie möglich am Original zu halten. Dies führt jedoch zu einem stellenweise etwas holprigen Lesefluss im modernen Deutsch.
-*   **Theologische Terminologie:** Einige theologische Begriffe wurden so nah wie möglich an ihrer modernen Entsprechung gehalten, um den theologischen Kontext zu bewahren.
-
-**Zusammenfassend** handelt es sich um eine Debatte, in der Personen zitiert werden und deren Ansichten dargestellt werden. Die Debatte dreht sich um die richtige Auslegung des Wortes Gottes und die Autorität, die diese Auslegung untermauert. Es wird auch kritisiert, dass menschliche Autoritäten (wie der Papst) möglicherweise Christus als einzigem Haupt der Kirche widersprechen.

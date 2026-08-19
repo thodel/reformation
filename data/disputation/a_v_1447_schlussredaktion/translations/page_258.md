@@ -1,7 +1,5 @@
 # Seite 258
 
-Hier die Übersetzung des frühneuhochdeutschen Texts ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 bliebte
 & mir
 nämlich

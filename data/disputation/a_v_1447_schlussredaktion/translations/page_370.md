@@ -1,7 +1,5 @@
 # Seite 370
 
-Hier die Übersetzung des Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 **Text:**
 offenbar
 ex habens

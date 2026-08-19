@@ -1,7 +1,5 @@
 # Seite 682
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 1841
 Mble Naren
 das Eine Oder

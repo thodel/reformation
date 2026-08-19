@@ -1,7 +1,5 @@
 # Seite 586
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 omme
 II,7 VY
 7

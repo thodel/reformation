@@ -1,7 +1,5 @@
 # Seite 428
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 **Text:**
 Des vierd schlußred
 '6' 178

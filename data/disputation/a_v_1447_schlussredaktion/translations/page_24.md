@@ -1,8 +1,5 @@
 # Seite 24
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die ursprüngliche Zeilenstruktur beibehalten wurde:
-
-Text:
 mehr
 Die erste Schlussrede,
 so im Inneren innig verhofft, und mag ein echt Leiden

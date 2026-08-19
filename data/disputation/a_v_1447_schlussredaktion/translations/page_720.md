@@ -1,7 +1,5 @@
 # Seite 720
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 307
 Die achte Schlussrede:
 Belassen wir es beim alten Stand, obwohl man das

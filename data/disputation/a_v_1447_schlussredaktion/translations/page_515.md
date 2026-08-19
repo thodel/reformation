@@ -1,7 +1,5 @@
 # Seite 515
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 Wort ist, durch Bedeuten verdolmetscht Ding.
 Wenn wir sagen, verletzt sei des Wortes Bedeutung,
 so lässt sich doch im Verletzen, das Wort

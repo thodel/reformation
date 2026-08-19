@@ -1,8 +1,5 @@
 # Seite 418
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 the war,
 das Ihr
 Die verd. st. sluss.

@@ -1,7 +1,5 @@
 # Seite 535
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 IR.
 160
 allenthalben ist, so muss doch darum der geringste

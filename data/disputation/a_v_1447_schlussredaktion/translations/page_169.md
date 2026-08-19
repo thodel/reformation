@@ -1,8 +1,5 @@
 # Seite 169
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile beibehalten:
-
-Text:
 wirt
 Das ewige Leben, Johannis am vi. Kapitel: und
 mögen solche Zweiungen endlich in Schaden
@@ -53,15 +50,3 @@ ihm Eresser habe, der hat das Schill des
 Heiligen Geistes zum ewigen Leben empfangen.
 Denn welche an Jesus glauben, sind Kinder
 Gottes, Johannes im ersten Kapitel und mag
-
-**Anmerkungen:**
-
-*   **Zeilenstruktur:** Die originale Zeilenstruktur wurde beibehalten, auch wenn dies manchmal zu etwas holprigen Formulierungen im modernen Deutsch führt.
-*   **Wortwahl:** Ich habe versucht, so nah wie möglich am Originaltext zu bleiben, aber einige Wörter mussten angepasst werden, um sie verständlich zu machen.
-*   **Grammatik und Syntax:** Die Grammatik und Syntax wurden an modernes Deutsch angepasst.
-*   **Bedeutung:** Ich habe versucht, die ursprüngliche Bedeutung des Textes so genau wie möglich wiederzugeben.
-*   **Kontext:** Ohne den vollständigen Kontext des Textes ist es schwierig, alle Feinheiten der Bedeutung zu erfassen. Es handelt sich um einen theologischen Text, und einige Formulierungen sind daher spezifisch für diesen Kontext.
-*   **Eigennamen:** "Johannis" wurde zu "Johannes" modernisiert.
-*   **Credi sijt habe:** Der Ausdruck "Credi sijt habe" ist etwas unklar. Ich habe ihn in "Credi seit habe" umgeändert und interpretiert ihn als "seitdem er glaubt".
-
-Diese Übersetzung sollte Ihnen eine gute Vorstellung vom Inhalt des frühneuhochdeutschen Textes geben.

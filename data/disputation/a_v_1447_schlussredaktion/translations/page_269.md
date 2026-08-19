@@ -1,7 +1,5 @@
 # Seite 269
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 such hievor onn
 *such hievor onn* (schwer zu deuten, evtl. *solches hiervon ohne…*)
 xviij blatt

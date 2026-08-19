@@ -1,7 +1,5 @@
 # Seite 243
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 # vermindert
 geben will, worauf Meister Niclas antwortet:
 "Ihr tut mir hier zu kurz. Ich bitte um

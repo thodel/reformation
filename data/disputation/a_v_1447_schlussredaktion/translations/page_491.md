@@ -1,8 +1,5 @@
 # Seite 491
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 Dechuus, gebenn sy mitt amndern worten die
 Vnseggung vnns Jun die Henne oder min her¬
 pfarrer sag her, was er nempt, Das uw tho¬

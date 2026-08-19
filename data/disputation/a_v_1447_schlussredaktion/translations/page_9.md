@@ -1,7 +1,5 @@
 # Seite 9
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Demnach sind nach der Ordnung die Orte
 Demnach sind gemäß der Anordnung die Orte
 

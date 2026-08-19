@@ -1,7 +1,5 @@
 # Seite 72
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile, wobei versucht wird, die ursprüngliche Struktur beizubehalten und den Sinn so genau wie möglich wiederzugeben:
-
 **Übersetzung:**
 
 von
@@ -47,12 +45,3 @@ und Unsterblichkeit berufen sind, ein einziges Haupt
 sein
 Buchtnaiter
 Ich habe befürchtet um Text, der das anzeigte, das
-
-**Anmerkungen:**
-
-*   **Unsicherheiten:** Einige Wörter und Phrasen sind schwer eindeutig zu übersetzen, da sie möglicherweise Dialektausdrücke oder Fachbegriffe aus dem Kontext der Zeit sind. Die Übersetzung versucht, den wahrscheinlichsten Sinn zu erfassen.
-*   **"Urnaum" und "pecco":** Diese Worte sind unklar und könnten Schreibfehler oder lateinische Begriffe sein. "Pecco" könnte sich auf "peccatum" (Sünde) beziehen, aber das ist spekulativ.
-*   **Kontext:** Der Text scheint Teil einer theologischen Auseinandersetzung zu sein, wahrscheinlich über die Rolle Christi als Haupt der Kirche. Die Bezüge zu Timotheus und die Betonung der Unsterblichkeit deuten darauf hin.
-*   **"Exchesern":** Dies ist wahrscheinlich ein Schreibfehler. Möglicherweise sollte es "Auserwählten" heißen.
-
-Der Text ist fragmentarisch und ohne weiteren Kontext schwierig vollständig zu interpretieren. Ich hoffe jedoch, diese Übersetzung ist hilfreich.

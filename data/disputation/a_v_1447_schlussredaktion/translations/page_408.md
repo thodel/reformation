@@ -1,7 +1,5 @@
 # Seite 408
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 den, dass
 St. Wens
 u. dr. (und der)

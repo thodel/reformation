@@ -1,7 +1,5 @@
 # Seite 362
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, unter Beibehaltung der Zeilenstruktur:
-
 **Übersetzung:**
 
 German
@@ -43,11 +41,3 @@ deij Kap.
 Das ist mein Leib, der für dich
 gegeben wordert und nicht wie der aunder Punkt
 In diesem Spruch lautet, von dem ertodten Leib.
-
-**Anmerkungen zur Übersetzung:**
-
-*   **Schwierigkeiten:** Der Text ist fragmentarisch, enthält Abkürzungen und Schreibweisen, die im modernen Deutsch nicht mehr üblich sind. Satzbau und Grammatik weichen ebenfalls von der heutigen Norm ab. Dies macht eine exakte Übersetzung in manchen Passagen schwierig und interpretationsbedürftig.
-*   **Kontext:** Ohne den genauen Kontext des Textes (z.B. aus welchem Werk er stammt) ist eine abschließende Interpretation und Übersetzung schwierig.
-*   **"dabo":** Das lateinische Wort "dabo" bedeutet "ich werde geben". Es scheint sich hier um eine theologische Diskussion über das Abendmahl/die Eucharistie zu handeln.
-*   **"Ertodten Leib":** Der "ertodte Leib" bezieht sich auf den Leib Jesu Christi, der gestorben ist.
-*   **Theologischer Inhalt:** Der Text diskutiert offenbar theologische Fragen im Zusammenhang mit der Bibel (Jesaja, Johannes, Lukas, Korintherbrief) und dem Abendmahl/der Eucharistie. Es werden verschiedene Schriftstellen zitiert und interpretiert.

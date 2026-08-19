@@ -1,7 +1,5 @@
 # Seite 25
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Dans les (Dieser französische Einschub wird hier nicht übersetzt)
 In den Jahren macht es und in unser Herz weitet es sich,
 welches in Wahrheit kein anderes

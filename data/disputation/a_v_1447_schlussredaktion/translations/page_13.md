@@ -1,7 +1,5 @@
 # Seite 13
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **Text:**
 Bewahrung der Ehre der frommen christ-
 lichen Obrigkeit zu Bern

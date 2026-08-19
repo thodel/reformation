@@ -1,7 +1,5 @@
 # Seite 332
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten und jede Zeile einzeln übersetzt wurde:
-
 l'oder tout
 **entweder tout**
 on die boß

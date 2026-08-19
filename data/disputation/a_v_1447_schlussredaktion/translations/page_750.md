@@ -1,7 +1,5 @@
 # Seite 750
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 ad 2
 Darüber diskutiert wurde über eine gewisse Zeit, (um) Gutes (und) nicht geneigtem
 Willen zu beweisen,

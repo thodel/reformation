@@ -1,7 +1,5 @@
 # Seite 540
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 ssen schon
 men
 ister
@@ -101,13 +99,3 @@ zu verstan gebe, Darzu em hertz bestendig an Demsel
 *   erkennt, bericht zu sein, begehre ich ihm und allen von
 *   bitt den Herren, dass er ihm das Weg auch
 *   zu verstehen gebe, dazu dem Herz beständig an demsel
-
-**Anmerkungen:**
-
-*   Der Text ist fragmentarisch und teilweise schwer verständlich. Einige Wörter und Phrasen sind unklar und die Bedeutung kann nur vermutet werden.
-*   Die Zeilen am Anfang des Textes scheinen zusammenhanglos zu sein.
-*   Das Wort "Vhat" taucht mehrmals auf und ist wahrscheinlich ein Schreibfehler oder eine Abkürzung für "Rat".
-*   Einige lateinische oder französische Ausdrücke sind enthalten.
-*   Die Sprache ist typisch für das Frühneuhochdeutsche, mit vielen abweichenden Schreibweisen und grammatischen Formen.
-
-Ich hoffe, diese Übersetzung hilft!

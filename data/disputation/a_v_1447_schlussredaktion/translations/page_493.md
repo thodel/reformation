@@ -1,7 +1,5 @@
 # Seite 493
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Viertes Kapitel, 21. Absatz: Zustand, Wesen des Nachlassens,
 betreffend die Pfarrer, Verse 8 und 9.
 Ob die Frage beantwortet ist: Das ist nur The-

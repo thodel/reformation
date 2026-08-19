@@ -1,7 +1,5 @@
 # Seite 402
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 60
 167
 Die vierte Schlussrede.

@@ -1,7 +1,5 @@
 # Seite 142
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 36
 Die erste Schlussrede
 54

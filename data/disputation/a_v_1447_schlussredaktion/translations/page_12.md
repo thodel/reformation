@@ -1,7 +1,5 @@
 # Seite 12
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 So hat Doktor Johannes Eck diese Disputation
 mit schmälichem Ausschreiben angetastet/ darin
 er sein neidiges Herz erkühlt/ und vielmehr seine

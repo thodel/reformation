@@ -1,7 +1,5 @@
 # Seite 3
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 Ordnung dieser Disputation/
 Die Ordnung dieser Disputation/
 und was sich

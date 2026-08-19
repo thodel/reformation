@@ -1,7 +1,5 @@
 # Seite 66
 
-Hier ist die Übersetzung des frühneuhochdeutschen Texts ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 in the
 e
 wem

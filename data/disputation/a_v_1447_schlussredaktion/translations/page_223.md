@@ -1,8 +1,5 @@
 # Seite 223
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 Den Houten min am xviij hott eus
 guen, allen verheissen, mit dis schlijsselen
 sonders binden vnnd entbinden, Dennen har

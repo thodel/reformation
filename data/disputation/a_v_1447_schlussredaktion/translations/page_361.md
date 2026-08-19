@@ -1,7 +1,5 @@
 # Seite 361
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 **Übersetzung:**
 
 Wirt, von dem auch im ersten geredet

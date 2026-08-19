@@ -1,7 +1,5 @@
 # Seite 213
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 210
 Nehmt hin, den Heiligen Geist, wenn ihr
 die Sünde ablasst, dem sind sie abgelassen, wem-

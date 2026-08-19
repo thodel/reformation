@@ -1,8 +1,5 @@
 # Seite 145
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 pomma
 Im vierundzwanzigsten Jahr ist es zugegangen,
 werflüssig bezeugt, nämlich wer die

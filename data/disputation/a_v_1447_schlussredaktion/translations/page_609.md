@@ -1,7 +1,5 @@
 # Seite 609
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 8 Ao
 Die fünfte Schlussrede
 theum. iii. Von, mag auch zu guter Maß wohl sagen:

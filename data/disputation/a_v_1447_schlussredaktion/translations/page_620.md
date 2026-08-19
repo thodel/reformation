@@ -1,7 +1,5 @@
 # Seite 620
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Die fünfte Schlussfolgerung/These/Aussage
 für [die] Eifersucht, und viele sind der Menschen, [der] spricht
 auch danach: Wenn dich [etwas] dazu treibt, das zu tun, so tue es

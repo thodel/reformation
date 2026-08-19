@@ -1,7 +1,5 @@
 # Seite 500
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird und jede Zeile einzeln übersetzt wird:
-
 208
 Dies trug er hinterher, ein Testament genannt,
 Und aber nicht ein Testament ist, sondern

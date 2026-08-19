@@ -1,7 +1,5 @@
 # Seite 94
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 oegen (fraglich, evtl. Eigenname)
 offer (fraglich, evtl. Opfer)
 my (mir)

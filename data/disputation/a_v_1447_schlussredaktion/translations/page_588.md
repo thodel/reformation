@@ -1,8 +1,5 @@
 # Seite 588
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
-Text:
 tum der
 In töndlich
 Darron

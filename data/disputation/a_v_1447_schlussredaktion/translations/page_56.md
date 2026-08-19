@@ -1,7 +1,5 @@
 # Seite 56
 
-Hier ist die Übersetzung des Textes ins moderne Deutsch, Zeile für Zeile:
-
 heim,
 *Heim,*
 wee

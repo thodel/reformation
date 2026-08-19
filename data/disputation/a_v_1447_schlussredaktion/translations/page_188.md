@@ -1,7 +1,5 @@
 # Seite 188
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 73
 Das erste Schlusswort
 Da klar angezeigt wird allen christgläubigen

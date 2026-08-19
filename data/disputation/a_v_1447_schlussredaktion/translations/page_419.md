@@ -1,7 +1,5 @@
 # Seite 419
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 kommen, anderen Wert, Kampf geben, allein, dass der
 Leib und das Blut Christi uns (lauter Worte)
 werde ausgeteilt in dem Nachtmahl des Herrn

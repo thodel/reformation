@@ -1,7 +1,5 @@
 # Seite 483
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 seiend. Hisruff min Herr Doktor uns entscheiden,
 *seiend. Hiermit soll mein Herr Doktor uns entscheiden,*
 

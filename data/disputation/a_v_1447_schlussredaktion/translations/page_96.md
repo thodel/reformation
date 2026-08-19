@@ -1,7 +1,5 @@
 # Seite 96
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile beibehalten:
-
 wrouw
 2e
 rirens

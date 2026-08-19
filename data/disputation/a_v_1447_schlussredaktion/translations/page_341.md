@@ -1,7 +1,5 @@
 # Seite 341
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 86
 Die dritte Schlussfolgerung:
 Wider das Böse und tue Gutes, wie wohl ich weiß und er-

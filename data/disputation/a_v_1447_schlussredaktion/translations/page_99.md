@@ -1,7 +1,5 @@
 # Seite 99
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Wählt und fresst, setzt der Pfarrer das,
 dass ein Kirchherr Hand und Gänze entlassen sei und
 den Herren Jesus Christus nicht erkenne

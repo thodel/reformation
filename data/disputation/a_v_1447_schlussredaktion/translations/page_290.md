@@ -1,7 +1,5 @@
 # Seite 290
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 3. September.
 Lourdes
 Es war

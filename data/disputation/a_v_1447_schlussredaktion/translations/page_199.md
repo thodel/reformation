@@ -1,7 +1,5 @@
 # Seite 199
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Unser lieber Pfarrer und Bruder von Oppen-
 zell bekennt, dass Christus der Herr sein Gott
 sei, auch aller Welt Behälter sei. Denn

@@ -1,7 +1,5 @@
 # Seite 468
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 von Creger
 *Von Creger*
 

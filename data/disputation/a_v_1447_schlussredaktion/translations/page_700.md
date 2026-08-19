@@ -1,7 +1,5 @@
 # Seite 700
 
-Hier ist die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 299
 Die sieben Ablässe
 von den Verstorbenen wissen, oft dass Irrtum nicht teuer

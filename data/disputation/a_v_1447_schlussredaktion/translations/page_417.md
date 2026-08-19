@@ -1,7 +1,5 @@
 # Seite 417
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 **Text:**
 Int besthechenn Dan die wortt das ist min lijb
 Den lijb Christi mitttragen, vnd wellend vns hiemit

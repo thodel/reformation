@@ -1,7 +1,5 @@
 # Seite 394
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Werk
 durch
 Fol. Crrædents

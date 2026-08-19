@@ -1,7 +1,5 @@
 # Seite 752
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wird:
-
 Demnach urteilen wir, ob nicht eine christliche, ehrsame Wer-
 Demnach urteilen wir, ob nicht eine christliche, achtbare Ge-
 keitt der loblichen statt dernn vff sollich behapt gesprech

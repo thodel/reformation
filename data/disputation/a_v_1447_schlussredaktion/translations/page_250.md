@@ -1,7 +1,5 @@
 # Seite 250
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 Zeile 1:
 scheinend
 Zeile 2:
@@ -94,13 +92,3 @@ Zeile 45:
 Disputation Ehem Ysthaufft der heiligen Lehren
 Zeile 46:
 darf juforen, denn allein Bibliotheken voorss. krifft
-
-**Anmerkungen zur Übersetzung:**
-
-*   Einige Wörter und Phrasen sind schwer eindeutig zu übersetzen, da sie entweder veraltet sind oder in einem spezifischen theologischen Kontext stehen.
-*   Die Rechtschreibung ist nicht einheitlich, was die Interpretation zusätzlich erschwert.
-*   Ich habe versucht, den Sinn so genau wie möglich wiederzugeben, auch wenn dies manchmal eine etwas freiere Übersetzung erforderte.
-*   Wo Wörter unklar sind, habe ich in Klammern mögliche Interpretationen hinzugefügt.
-*   Die Bedeutung des Wortes "Ystenckter" in Zeile 43 ist unklar, ich habe es unübersetzt gelassen.
-
-Es handelt sich um einen Text, der sich mit theologischen Fragen auseinandersetzt, insbesondere mit der Bedeutung Christi und dem Verhältnis der Gläubigen zu ihm. Die Aussagen sind fragmentarisch und bedürfen weiterer Kontextinformationen für eine vollständige Interpretation.

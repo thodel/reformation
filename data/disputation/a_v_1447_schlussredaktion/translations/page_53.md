@@ -1,7 +1,5 @@
 # Seite 53
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, wobei die Zeilenstruktur beibehalten wurde:
-
 Anfangs
 über die äußerliche Regierung der Kirchen geredet,
 So kommt Marti Buur Huijs von denen Inna,

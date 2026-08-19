@@ -1,7 +1,5 @@
 # Seite 701
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins heutige Deutsch, Zeile für Zeile:
-
 k
 lij
 Die siebte Schlussfolgerung,

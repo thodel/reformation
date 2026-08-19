@@ -1,7 +1,5 @@
 # Seite 504
 
-Hier die Übersetzung des frühneuhochdeutschen Textes ins moderne Deutsch, Zeile für Zeile:
-
 210
 Die vier Schlusssätze.
 Elender Sohn Gottes hat uns mit seinem Tod erlöst.
