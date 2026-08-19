@@ -27,8 +27,11 @@ except ModuleNotFoundError:  # pragma: no cover - exercised only without the SDK
     genai = None
     types = None
 
-# Overridable per call; confirm against `--list-models` before changing.
-DEFAULT_MODEL = "gemini-2.5-pro"
+# Confirmed callable against this project's key on 2026-08-19 via --list-models
+# AND an actual generate call. models.list() is not sufficient on its own:
+# gemini-2.5-pro is listed but returns 404 NOT_FOUND for generateContent, so a
+# default taken from the listing alone would fail every page of a full run.
+DEFAULT_MODEL = "gemini-3.1-pro-preview"
 
 ENV_KEYS = ("GEMINI_API_KEY", "GOOGLE_API_KEY")
 
@@ -44,7 +47,15 @@ PREAMBLE_RE = re.compile(rf"^\s*(?:{_OPENER})?{_ANNOUNCE}\b.*$", re.IGNORECASE)
 FENCE_RE = re.compile(r"^\s*```[a-zA-Z]*\s*$")
 LABEL_RE = re.compile(r"^\s*(?:text|original|transkription|übersetzung)\s*:\s*$", re.IGNORECASE)
 
-RETRYABLE = ("429", "500", "502", "503", "504", "deadline", "timeout", "unavailable", "overloaded")
+RETRYABLE = (
+    "429", "500", "502", "503", "504",
+    "deadline", "timeout", "unavailable", "overloaded",
+    # Long image requests get dropped mid-flight; observed as
+    # "RemoteProtocolError: Server disconnected" after ~257s on 2 of 16 sample
+    # pages. These are transient and must be retried, not surfaced as failures.
+    "disconnect", "connection reset", "connection aborted", "protocolerror",
+    "incompleteread", "incomplete read", "broken pipe", "eof occurred",
+)
 
 
 class GeminiUnavailable(RuntimeError):

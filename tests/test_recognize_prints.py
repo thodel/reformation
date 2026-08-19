@@ -96,3 +96,30 @@ class ManifestParsingTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)
+
+
+class TransientNetworkRetryTest(unittest.TestCase):
+    """Failures observed in the 2026-08-19 sample run that must be retried.
+
+    Two of sixteen pro-preview pages died with "RemoteProtocolError: Server
+    disconnected" after ~257s. The original token list did not match that, so
+    the page was abandoned on the first attempt instead of retried.
+    """
+
+    def test_server_disconnect_is_retryable(self):
+        self.assertTrue(gc.is_retryable(Exception("RemoteProtocolError: Server disconnected")))
+
+    def test_other_transport_faults_are_retryable(self):
+        for message in ["Connection reset by peer", "Connection aborted",
+                        "IncompleteRead(0 bytes read)", "Broken pipe"]:
+            self.assertTrue(gc.is_retryable(Exception(message)), message)
+
+    def test_auth_and_missing_model_are_still_not_retryable(self):
+        # gemini-2.5-pro returns this; retrying it would waste the whole run.
+        self.assertFalse(gc.is_retryable(Exception("404 NOT_FOUND model not found")))
+        self.assertFalse(gc.is_retryable(Exception("401 Unauthorized")))
+
+
+class DefaultModelTest(unittest.TestCase):
+    def test_default_is_not_the_model_that_404s(self):
+        self.assertNotEqual(gc.DEFAULT_MODEL, "gemini-2.5-pro")
