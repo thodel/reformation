@@ -97,17 +97,28 @@ jobs:
       - name: Summarise changes
         shell: bash
         run: |
+          set -euo pipefail
+          # Collect once into a file rather than piping git into head. Steps run
+          # under `-o pipefail`, and head exits as soon as it has its lines while
+          # git status is still walking a 23,000-file tree - so git takes SIGPIPE
+          # and the pipeline reports 141. That is what failed the 2026-08-20 run
+          # after a perfectly good sync of 53 pages.
+          git status --porcelain -- data/disputation > /tmp/sync-changes.txt
+          count=$(wc -l < /tmp/sync-changes.txt | tr -d ' ')
           {
             echo "### Transkribus sync"
             echo
-            if git diff --quiet -- data/disputation && [[ -z "$(git status --porcelain -- data/disputation)" ]]; then
+            if [[ "$count" -eq 0 ]]; then
               echo "No changes — Transkribus matches the repository."
             else
-              echo '```'
-              git status --porcelain -- data/disputation | head -50
-              echo '```'
+              echo "$count changed path(s)."
               echo
-              echo "$(git status --porcelain -- data/disputation | wc -l) changed path(s)."
+              echo '```'
+              head -n 50 /tmp/sync-changes.txt
+              if [[ "$count" -gt 50 ]]; then
+                echo "… and $((count - 50)) more."
+              fi
+              echo '```'
             fi
           } >> "$GITHUB_STEP_SUMMARY"
 
