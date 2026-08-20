@@ -42,7 +42,7 @@
         "similarity": 0.0,
         "semantic": 0.7992,
         "semantic_match": "da er wi=\nder die haͤlle Wort unſers Herzen Jeſu / als er heiſſet den\nBruͤder / ſo ſich uͤber bezuͤgte Warnung nit beſſern wil /",
-        "reading": "reworded"
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -51,7 +51,7 @@
         "similarity": 0.0,
         "semantic": 0.768,
         "semantic_match": "da er wi=\nder die haͤlle Wort unſers Herzen Jeſu / als er heiſſet den\nBruͤder / ſo ſich uͤber bezuͤgte Warnung nit beſſern wil /",
-        "reading": "reworded"
+        "reading": "candidate"
       },
       {
         "op": "match",
@@ -137,9 +137,10 @@
       }
     ],
     "semantic": 0.7312,
-    "reworded": 5,
+    "reworded": 3,
     "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+    "candidates": 2
   },
   "fine": {
     "similarity": 0.455,

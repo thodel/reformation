@@ -114,7 +114,7 @@
         "similarity": 0.0,
         "semantic": 0.6785,
         "semantic_match": "Nein darzů ze=\nſagen / ſonders ſo der Text klar lutet / vnd nuͤt vßnimt / darum er dann auch in kein anderen Sinn zezuͤhen vnd\nzetringen iſt /",
-        "reading": "reworded"
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -123,7 +123,7 @@
         "similarity": 0.0,
         "semantic": 0.7727,
         "semantic_match": "doch ſo nimm ich an den Verſtand deß\nh ij Doctors",
-        "reading": "reworded"
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -139,9 +139,10 @@
       }
     ],
     "semantic": 0.7067,
-    "reworded": 2,
+    "reworded": 0,
     "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+    "candidates": 2
   },
   "fine": {
     "similarity": 0.5405,

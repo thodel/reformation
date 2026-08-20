@@ -42,7 +42,7 @@
         "similarity": 0.0,
         "semantic": 0.6771,
         "semantic_match": "ich gib uͤch die\nSchluͤſſel allen / wie Petrus fuͤr alle geantwurt hat / der\nText iſt aber offenbar /",
-        "reading": "reworded"
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -51,7 +51,7 @@
         "similarity": 0.0,
         "semantic": 0.6128,
         "semantic_match": "der Text iſt heiter vnnd klar. Wen man mir bringt nach miner Gnedigen Herren von\nBern Mandat / ein offnen Spruch vß dem Euangelio\noder Geſchrifft /",
-        "reading": "reworded"
+        "reading": "candidate"
       },
       {
         "op": "match",
@@ -135,9 +135,10 @@
       }
     ],
     "semantic": 0.704,
-    "reworded": 4,
+    "reworded": 2,
     "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+    "candidates": 2
   },
   "fine": {
     "similarity": 0.3465,

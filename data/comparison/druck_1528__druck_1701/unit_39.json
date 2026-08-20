@@ -36,7 +36,7 @@
         "similarity": 0.0,
         "semantic": 0.6334,
         "semantic_match": "Die Erſte Schlußred. 23\n\nmand gehoͤre zu der Kilchen / denn die Neugebornen in\nGott / by denen verſtohn ich die /",
-        "reading": "reworded"
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -45,7 +45,7 @@
         "similarity": 0.0,
         "semantic": 0.8237,
         "semantic_match": "daß Petrus ein\nDiener geneñt ſyg und kein Haupt/ Saul aber ein Haupt/ und",
-        "reading": "reworded"
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -54,7 +54,7 @@
         "similarity": 0.0,
         "semantic": 0.74,
         "semantic_match": "noch einicher Apoſtel / moͤge kein Haupt\nder Kilchen (nach der Geſchrifft zereden) genennt werden/ ſo doch die Geſchrifft von mir anzogen iſt /",
-        "reading": "reworded"
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -130,9 +130,10 @@
       }
     ],
     "semantic": 0.7324,
-    "reworded": 3,
+    "reworded": 0,
     "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+    "candidates": 3
   },
   "fine": {
     "similarity": 0.2341,

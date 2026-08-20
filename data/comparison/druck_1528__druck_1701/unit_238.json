@@ -36,7 +36,7 @@
         "similarity": 0.0,
         "semantic": 0.6586,
         "semantic_match": "Johannis am 6. Capitel / und die\nWort deß Nachtmahls sich so vast einandern verglychend / so dörffend wir gestracks keiner Gloß /",
-        "reading": "reworded"
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -45,7 +45,7 @@
         "similarity": 0.0,
         "semantic": 0.6951,
         "semantic_match": "Johannis am 6. Capitel / und die\nWort deß Nachtmahls sich so vast einandern verglychend / so dörffend wir gestracks keiner Gloß /",
-        "reading": "reworded"
+        "reading": "candidate"
       },
       {
         "op": "match",
@@ -133,9 +133,10 @@
       }
     ],
     "semantic": 0.7278,
-    "reworded": 3,
+    "reworded": 1,
     "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+    "candidates": 2
   },
   "fine": {
     "similarity": 0.3733,

@@ -67,3 +67,26 @@ class AnnotateShapeTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)
+
+
+class RecoveredIsNotRewordedTest(unittest.TestCase):
+    """Hand-checking separated two populations that the score does not.
+
+    Pairs the character matcher found and the embedding reinterpreted held up
+    6 of 6. Pairs the embedding proposed on its own held up roughly 1 in 3,
+    and the scores overlap completely - false ones 0.72-0.78, true ones
+    0.66-0.89. They must therefore not carry the same label.
+    """
+
+    def test_classify_alone_never_returns_candidate(self):
+        # 'candidate' is assigned only where the embedding proposed the pair,
+        # which classify() cannot know about.
+        for c in (0.0, 0.3, 0.6, 0.9):
+            for s in (0.0, 0.3, 0.6, 0.9):
+                self.assertIn(classify(c, s), {"same", "reworded", "different", "check"})
+
+    def test_summary_reports_candidates_separately(self):
+        from embed_sentences import annotate_unit
+        unit = annotate_unit(None, {"unit": 1, "sentences": {"pairs": []}})
+        self.assertIn("candidates", unit["sentences"])
+        self.assertIn("reworded", unit["sentences"])
