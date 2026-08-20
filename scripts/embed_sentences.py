@@ -12,9 +12,12 @@ Two approaches from the original plan were tested and both failed:
 
   Embedding the modern translations - the plan's centrepiece - is not viable.
   Only two witnesses have translations at all, and druck_1528 scores 0.234
-  against its OWN translation, because many of those translations render
-  garbled text (see scripts/clean_translations.py). Translations of aligned
-  pages between witnesses scored 0.068, which is noise.
+  against its OWN translation. The reason turned out to be blunter than
+  "poor translations": 472 of its 552 translation files are not translations
+  but WebDAV error responses, saved verbatim when a fetch failed. Only 80
+  pages of the base text are actually translated. Translations of aligned
+  pages between witnesses scored 0.068, which is what comparing German prose
+  against XML error documents produces.
 
   Embedding whole pages does not discriminate. Aligned pages scored 0.787 and
   randomly paired pages 0.750 - a separation of 0.037. At page scale the model
