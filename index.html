@@ -713,6 +713,28 @@
     .app-orth { font-size: 0.78rem; color: var(--ink-soft); margin-top: 0.3rem; }
     .app-orth code { background: rgba(26,58,107,0.07); border-radius: 3px; padding: 0 3px; }
     .app-more { font-size: 0.78rem; color: var(--ink-soft); font-style: italic; }
+
+    /* Übersicht */
+    .ub-controls { display: flex; align-items: center; gap: 0.8rem; margin-bottom: 0.9rem; }
+    #ub-filter { flex: 1; max-width: 26rem; padding: 0.45rem 0.7rem; border-radius: 6px;
+      border: 1.5px solid rgba(26,58,107,0.25); font-size: 0.95rem; font-family: var(--font-body);
+      background: #fff; color: var(--ink); }
+    #ub-filter:focus { outline: 2px solid rgba(251,191,36,0.85); outline-offset: 1px; border-color: #1a3a6b; }
+    .ub-count { font-size: 0.85rem; color: var(--ink-soft); }
+    .ub-thesis { margin: 1.4rem 0 0.5rem; font-size: 0.8rem; font-weight: 700; color: #1a3a6b;
+      text-transform: uppercase; letter-spacing: 0.06em; border-bottom: 2px solid rgba(26,58,107,0.25);
+      padding-bottom: 0.25rem; }
+    .ub-item { display: block; text-decoration: none; color: inherit; background: #fff;
+      border: 1px solid rgba(0,0,0,0.1); border-radius: 6px; padding: 0.65rem 0.85rem;
+      margin-bottom: 0.5rem; transition: border-color 0.12s, box-shadow 0.12s; }
+    .ub-item:hover { border-color: #1a3a6b; box-shadow: 0 1px 4px rgba(26,58,107,0.12); }
+    .ub-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.6rem; }
+    .ub-title { font-weight: 700; color: #1a3a6b; font-size: 0.98rem; }
+    .ub-pages { font-size: 0.82rem; color: var(--ink-soft); font-variant-numeric: tabular-nums;
+      white-space: nowrap; margin-left: auto; }
+    .ub-sum { font-size: 0.88rem; line-height: 1.55; color: var(--ink-soft); margin-top: 0.35rem; }
+    .ub-untitled { font-style: italic; color: #999; }
+    .ub-empty { color: var(--ink-soft); font-style: italic; }
   </style>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
 </head>
@@ -725,6 +747,7 @@
 
 <nav>
   <a href="#" class="active" data-section="home" onclick="showSection(event, 'home')">Startseite</a>
+  <a href="#" data-section="uebersicht" onclick="showSection(event, 'uebersicht')">Übersicht</a>
   <a href="#" data-section="predigten" onclick="showSection(event, 'predigten')">Predigten</a>
   <a href="#" data-section="disputation" onclick="showSection(event, 'disputation')">Disputation</a>
   <a href="#" data-section="ressourcen" onclick="showSection(event, 'ressourcen')">Ressourcen</a>
@@ -773,6 +796,20 @@
         </ol>
       </div>
     </div>
+  </div>
+
+  <div id="uebersicht" class="section-page">
+    <h2 class="section-title">Übersicht</h2>
+    <p class="section-subtitle">Inhaltsverzeichnis des Drucks vom 23. März 1528.
+      Ein Klick öffnet die Seite mit Faksimile, Transkription und Übersetzung.</p>
+
+    <div class="ub-controls">
+      <input type="search" id="ub-filter" placeholder="Titel und Inhalt durchsuchen…"
+             autocomplete="off" aria-label="Inhaltsverzeichnis durchsuchen"
+             oninput="renderUebersicht()">
+      <span class="ub-count" id="ub-count"></span>
+    </div>
+    <div id="ub-body"><p class="vg-empty">Lade Inhaltsverzeichnis…</p></div>
   </div>
 
   <div id="predigten" class="section-page">
@@ -1799,6 +1836,8 @@ function showSection(event, id) {
     updateDisputation();
   } else if (id === 'suche') {
     renderGlobalSearchFilters();
+  } else if (id === 'uebersicht') {
+    initUebersicht();
   } else if (id === 'vergleich') {
     initVergleich();
     renderSimilarityMatrix();
@@ -3500,6 +3539,105 @@ async function showApparatusFor(unit) {
   const data = await loadApparatusPage(pages[0]);
   if (vergleichState.mode !== "app") return;
   detail.innerHTML = renderApparatus(data, pages[0]);
+}
+
+// ------------------------------------------------------------- Übersicht
+// Table of contents for the March 1528 print, read straight from the TSV that
+// scripts/segment_print.py proposes and a human corrects. Reading the table
+// rather than a generated copy means a hand edit shows up on the next reload
+// with nothing to regenerate.
+const SEGMENT_TABLE = "data/segments/druck_1528_segments.tsv";
+const TOC_VARIANT = "druck-1528";
+let uebersichtRows = null;
+
+function parseTsv(text) {
+  const lines = text.split(/\r?\n/).filter((l) => l.length);
+  if (!lines.length) return [];
+  const header = lines[0].split("\t");
+  return lines.slice(1).map((line) => {
+    const cells = line.split("\t");
+    const row = {};
+    header.forEach((name, i) => { row[name] = cells[i] ?? ""; });
+    return row;
+  });
+}
+
+async function initUebersicht() {
+  if (uebersichtRows) { renderUebersicht(); return; }
+  const host = document.getElementById("ub-body");
+  try {
+    const resp = await fetch(SEGMENT_TABLE);
+    if (!resp.ok) throw new Error(String(resp.status));
+    uebersichtRows = parseTsv(await resp.text());
+  } catch (e) {
+    host.innerHTML = '<p class="vg-warn">Das Inhaltsverzeichnis konnte nicht geladen werden.</p>';
+    return;
+  }
+  renderUebersicht();
+}
+
+function renderUebersicht() {
+  const host = document.getElementById("ub-body");
+  if (!host || !uebersichtRows) return;
+  const query = (document.getElementById("ub-filter")?.value || "").trim().toLowerCase();
+  const rows = query
+    ? uebersichtRows.filter((r) =>
+        `${r.title} ${r.summary}`.toLowerCase().includes(query))
+    : uebersichtRows;
+
+  const count = document.getElementById("ub-count");
+  if (count) {
+    count.textContent = query
+      ? `${rows.length} von ${uebersichtRows.length} Abschnitten`
+      : `${uebersichtRows.length} Abschnitte, ${uebersichtRows.length ? uebersichtRows[uebersichtRows.length - 1].last_page : 0} Seiten`;
+  }
+  if (!rows.length) {
+    host.innerHTML = '<p class="ub-empty">Keine Abschnitte gefunden.</p>';
+    return;
+  }
+
+  let html = "";
+  let thesis = null;
+  for (const row of rows) {
+    // Group under the Schlussred the print names in its running head; the
+    // opening pages carry none, so they are shown as front matter.
+    if (!query && row.thesis !== thesis) {
+      thesis = row.thesis;
+      html += `<div class="ub-thesis">${
+        thesis ? `${escapeHtml(thesis)}. Schlussrede` : "Vorspann"}</div>`;
+    }
+    const first = parseInt(row.first_page, 10);
+    const pages = row.first_page === row.last_page
+      ? `S.&nbsp;${escapeHtml(row.first_page)}`
+      : `S.&nbsp;${escapeHtml(row.first_page)}–${escapeHtml(row.last_page)}`;
+    const title = row.title
+      ? escapeHtml(row.title)
+      : '<span class="ub-untitled">ohne Titel</span>';
+    html += `<a class="ub-item" href="#/disputation/${TOC_VARIANT}/${first}"
+        onclick="event.preventDefault(); openTocSegment(${first});">
+        <span class="ub-head">
+          <span class="ub-title">${title}</span>
+          <span class="ub-pages">${pages}</span>
+        </span>
+        ${row.summary ? `<span class="ub-sum">${escapeHtml(row.summary)}</span>` : ""}
+      </a>`;
+  }
+  host.innerHTML = html;
+}
+
+function openTocSegment(page) {
+  // Reuse the disputation viewer, which shows facsimile, transcription and
+  // translation side by side for the page.
+  if (disputationState.variantId !== TOC_VARIANT) {
+    disputationState.variantId = TOC_VARIANT;
+    resetDisputationVariantState();
+    setActiveDisputationVariantLink(TOC_VARIANT);
+    updateDisputationVariantTitle();
+  }
+  disputationState.currentPageIndex = page - 1;
+  showSectionById("disputation");
+  initDisputationViewer();
+  updateDisputation();
 }
 
 // Sticky nav effect.
