@@ -121,11 +121,21 @@ def score_pairs(
     return candidates
 
 
-def monotone_alignment(candidates: dict[int, list[tuple[int, float]]]) -> list[tuple[int, int, float]]:
-    """Best set of pairs whose B pages never run backwards as A advances.
+def monotone_alignment(
+    candidates: dict[int, list[tuple[int, float]]],
+    *,
+    strict: bool = False,
+) -> list[tuple[int, int, float]]:
+    """Best set of pairs whose B indices never run backwards as A advances.
 
     Both witnesses transmit the same work in the same order, so a pair that
     breaks that order is a coincidence of wording rather than a correspondence.
+
+    With strict=False two A items may share one B item, which is right for
+    pages: a thinly set page can correspond to part of a denser one. With
+    strict=True each B item is used at most once, which is what sentence
+    matching inside a page needs - there, reuse silently reports one sentence
+    as matching two.
     """
     options: list[tuple[int, int, float]] = []
     for a_page in sorted(candidates):
@@ -140,7 +150,9 @@ def monotone_alignment(candidates: dict[int, list[tuple[int, float]]]) -> list[t
     previous = [-1] * len(options)
     for i in range(len(options)):
         for j in range(i):
-            if options[j][0] < options[i][0] and options[j][1] <= options[i][1]:
+            in_order = (options[j][1] < options[i][1] if strict
+                        else options[j][1] <= options[i][1])
+            if options[j][0] < options[i][0] and in_order:
                 if best[j] + options[i][2] > best[i]:
                     best[i] = best[j] + options[i][2]
                     previous[i] = j

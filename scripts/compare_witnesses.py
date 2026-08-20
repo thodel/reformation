@@ -49,6 +49,7 @@ from align_witnesses import (  # noqa: E402
     witness_dir,
 )
 from normalize_orthography import normalize  # noqa: E402
+from sentence_align import align_sentences, sentences, summarise  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT_DIR = ROOT / "data" / "comparison"
@@ -176,11 +177,13 @@ def compare(a_key: str, b_key: str, *, threshold: float, ngram: int, df_ratio: f
     units = []
     for index, (a_page, b_page, score) in enumerate(pairs, start=1):
         at, bt = a_text.get(a_page, ""), b_text.get(b_page, "")
+        sentence_pairs = align_sentences(sentences(at), sentences(bt))
         units.append({
             "unit": index,
             "pages": {a_key: [a_page], b_key: [b_page]},
             "alignment_score": round(score, 4),
             "coarse": coarse_diff(at, bt),
+            "sentences": {**summarise(sentence_pairs), "pairs": sentence_pairs},
             "fine": fine_diff(at, bt),
         })
 
@@ -234,6 +237,7 @@ def write_pair(payload: dict[str, Any]) -> tuple[int, int]:
             "alignment_score": unit["alignment_score"],
             "similarity": unit["fine"]["similarity"],
             "coarse_similarity": unit["coarse"]["similarity"],
+            "sentence_similarity": unit["sentences"]["similarity"],
             "ops": unit["fine"]["ops"],
         })
 
