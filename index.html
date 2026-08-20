@@ -697,6 +697,22 @@
     .vg-heat-table td.thin { background-image: repeating-linear-gradient(45deg,
       rgba(0,0,0,0.10) 0 3px, transparent 3px 6px); }
     .vg-heat-axis { font-size: 0.7rem; color: var(--ink-soft); text-align: center; padding-top: 0.2rem; }
+
+    .app-wit { border-top: 1px solid rgba(0,0,0,0.08); padding: 0.6rem 0 0.2rem; }
+    .app-wit:first-child { border-top: none; }
+    .app-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.5rem; margin-bottom: 0.35rem; }
+    .app-name { font-weight: 700; color: #1a3a6b; font-size: 0.88rem; }
+    .app-page { font-size: 0.8rem; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+    .app-counts { font-size: 0.76rem; color: var(--ink-soft); margin-left: auto; }
+    .app-read { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem;
+      font-size: 0.84rem; line-height: 1.5; padding: 0.25rem 0; }
+    .app-read .base { color: var(--ink); }
+    .app-read .wit { color: #7a2d2d; }
+    .app-read.ins .base { color: #999; font-style: italic; }
+    .app-read.del .wit { color: #999; font-style: italic; }
+    .app-orth { font-size: 0.78rem; color: var(--ink-soft); margin-top: 0.3rem; }
+    .app-orth code { background: rgba(26,58,107,0.07); border-radius: 3px; padding: 0 3px; }
+    .app-more { font-size: 0.78rem; color: var(--ink-soft); font-style: italic; }
   </style>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
 </head>
@@ -895,6 +911,7 @@
       <span class="vg-granularity">
         <button class="vg-toggle active" id="vg-mode-word" onclick="setVergleichMode('word')">Wortebene</button>
         <button class="vg-toggle" id="vg-mode-para" onclick="setVergleichMode('para')">Absatzebene</button>
+        <button class="vg-toggle" id="vg-mode-app" onclick="setVergleichMode('app')">Apparat</button>
       </span>
     </div>
 
@@ -3177,6 +3194,8 @@ function renderVergleichUnit(unit) {
             ` · gleich ${c.equal}, ersetzt ${c.replace}, nur A ${c.delete}, nur B ${c.insert}`;
   }
 
+  if (vergleichState.mode === "app") { showApparatusFor(unit); return; }
+
   const sides = vergleichState.mode === "word"
     ? renderWordDiff(unit)
     : renderParagraphSummary(unit);
@@ -3225,6 +3244,7 @@ function setVergleichMode(mode) {
   vergleichState.mode = mode;
   document.getElementById("vg-mode-word").classList.toggle("active", mode === "word");
   document.getElementById("vg-mode-para").classList.toggle("active", mode === "para");
+  document.getElementById("vg-mode-app").classList.toggle("active", mode === "app");
   renderVergleichList();
   const unit = vergleichState.unit && vergleichState.unitCache.get(vergleichState.unit);
   if (unit) renderVergleichUnit(unit);
@@ -3405,6 +3425,81 @@ async function renderDivergenceHeatmap() {
       ${data.min_units} ausgerichteten Einheiten und sagen nichts.</p>`;
   host.innerHTML = html;
   host.dataset.done = "1";
+}
+
+// ---------------------------------------------------- Variantenapparat (#14)
+// Anchored on the base text: for one of its pages, what every witness has
+// there. Substantive readings and orthographic variants are kept apart -
+// between 1528 and 1701 there are 4,555 of the latter against 7,013 of the
+// former, and undifferentiated they would bury every reading that matters.
+const APPARATUS_BASE = "data/apparatus";
+const apparatusCache = new Map();
+
+async function loadApparatusPage(page) {
+  if (apparatusCache.has(page)) return apparatusCache.get(page);
+  try {
+    const resp = await fetch(`${APPARATUS_BASE}/page_${page}.json`);
+    if (!resp.ok) return null;
+    const data = await resp.json();
+    apparatusCache.set(page, data);
+    return data;
+  } catch (e) { return null; }
+}
+
+function renderApparatus(data, basePage) {
+  if (!data) {
+    return '<p class="vg-empty">Für diese Seite des Basistextes liegt kein Apparat vor.</p>';
+  }
+  const entries = Object.entries(data.witnesses).sort();
+  let html = `<div class="vg-meta">Basistext ${escapeHtml(witnessLabel(data.reference || "druck_1528"))}
+    S.&nbsp;${basePage} · ${entries.length} Zeuge(n)</div>`;
+
+  for (const [key, w] of entries) {
+    const doi = w.doi
+      ? ` · <a href="https://doi.org/${escapeHtml(w.doi)}" target="_blank" rel="noopener">${escapeHtml(w.doi)}</a>`
+      : "";
+    html += `<div class="app-wit">
+      <div class="app-head">
+        <span class="app-name">${escapeHtml(witnessLabel(key))}</span>
+        <span class="app-page">dort S.&nbsp;${w.page}${doi}</span>
+        <span class="app-counts">${w.substantive_total} substanziell · ${w.orthographic_total} orthographisch</span>
+      </div>`;
+
+    const shown = (w.substantive || []).slice(0, 6);
+    for (const r of shown) {
+      const cls = r.op === "insert" ? " ins" : (r.op === "delete" ? " del" : "");
+      const base = r.base ? escapeHtml(r.base) : "—";
+      const wit = r.witness ? escapeHtml(r.witness) : "—";
+      html += `<div class="app-read${cls}"><span class="base">${base}</span><span class="wit">${wit}</span></div>`;
+    }
+    if (w.substantive_total > shown.length) {
+      html += `<p class="app-more">… und ${w.substantive_total - shown.length} weitere Lesarten.</p>`;
+    }
+    if ((w.orthographic_top || []).length) {
+      const orth = w.orthographic_top
+        .map((o) => `<code>${escapeHtml(o.base)}</code>/<code>${escapeHtml(o.witness)}</code>${o.n > 1 ? ` (${o.n}×)` : ""}`)
+        .join(", ");
+      html += `<div class="app-orth">Schreibung: ${orth}</div>`;
+    }
+    html += "</div>";
+  }
+  return html;
+}
+
+async function showApparatusFor(unit) {
+  const detail = document.getElementById("vg-detail");
+  // The apparatus is anchored on the base text, so use whichever side is it.
+  const base = "druck_1528";
+  const pages = unit.pages[base];
+  if (!pages || !pages.length) {
+    detail.innerHTML = '<p class="vg-empty">Der Apparat ist auf den Druck von 1528 bezogen; '
+      + 'wählen Sie ein Paar, das ihn enthält.</p>';
+    return;
+  }
+  detail.innerHTML = '<p class="vg-empty">Lade Apparat…</p>';
+  const data = await loadApparatusPage(pages[0]);
+  if (vergleichState.mode !== "app") return;
+  detail.innerHTML = renderApparatus(data, pages[0]);
 }
 
 // Sticky nav effect.
