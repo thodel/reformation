@@ -27,7 +27,11 @@ from compare_witnesses import page_texts  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 SEGMENTS = ROOT / "data" / "segments"
-MAX_CHARS = 12000
+# The longest segment is 20,469 characters, roughly 6k tokens - nothing for
+# this model's context. A tighter cap silently truncated 24 of 83 segments, so
+# their summaries would have described only the first part of the pages they
+# name.
+MAX_CHARS = 32000
 
 SYSTEM = """\
 Du erschliesst einen frühneuhochdeutschen Druck von 1528 über die Berner
@@ -121,6 +125,8 @@ def main() -> int:
         body = "\n\n".join(texts[p] for p in range(first, last + 1) if p in texts)
         if not body.strip():
             continue
+        if len(body) > MAX_CHARS:
+            print(f"  [WARN] segment {row[idx['segment']]}: {len(body)} chars, truncated to {MAX_CHARS}")
         try:
             title, summary = describe(client, args.model, body, usage)
         except Exception as exc:  # noqa: BLE001
