@@ -51,19 +51,25 @@
         "op": "match",
         "a": "Seite [X]\nDie fünffte\nJohannes Büchstab\n\nAbel hat geopffret von den erstgebornen siner scha⸗\nren. Berchtoldus Haller. DEr Schülmeister hat geantwurtet/",
         "b": "dann ſy nüt wider die Schlußred vermag. Jch frag\nihn / was Abel geopffert hab. Johannes Bůchſtab. Abel hat geopffert von den erſtgebornen ſyner Scharen.",
-        "similarity": 0.3556
+        "similarity": 0.3556,
+        "semantic": 0.7934,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Abel habe ge⸗\nopffret. zc. Bedunckt mich ye / Abel sye besser dann\nsine schaff. Dz er dañ ansücht vom Touff/",
         "b": "Berchtoldus Haller. DEr Schůlmeiſter hat geantwortet / Abel habe geopf-\nfert. ꝛc. Bedunckt mich je / Abel ſeye beſſer dann ſy-\nne Schaaff.",
-        "similarity": 0.3415
+        "similarity": 0.3415,
+        "semantic": 0.8629,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "der sye besser\ndann der Touffer/ wirt aber nit vß der schrifft erfundẽ/ diewyl der Touff ein vsserlich Element. Semnach hat\nMaria Christum nit geopffret/",
         "b": "Daß er dann anzůcht vom Tauff / der ſeye\nbeſſer dann der Tåuffer / wird aber nit vß der Schrifft er-\nfunden /",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.7346,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,19 +81,27 @@
         "op": "match",
         "a": "sunder nach dem gesagt\nin den tempel überantwurt/ vnd haben wol ein par Tu\nben geopffret/ aber nit Christum/ wie hie daruon geredt.",
         "b": "und haben wol ein\nPar Duben geopffert / aber nit Chriſtum / wie hie davon\ngeredt. Johannes Bůchſtab. OBſchon Abel beſſer iſt gſyn dann das Opffer /",
-        "similarity": 0.4681
+        "similarity": 0.4681,
+        "semantic": 0.55,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "Johannes Büchstab\n\nISchon Abel besser ist gsin dañ das opffer/ wirt\ndas selb darumb nitt allenthalben müssenn sin. Sag wyter vff den anfang/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.719,
+        "semantic_match": "392     Die Fünffte Schlußred. geopffert wird / iſt ohne Schrifft / dann nienert ſtaht mit\nvßgetruckten Worten / daß Abel beſſer ſeye gſyn dann das\ner geopffert hat:",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "von herrn Berch⸗\ntolden yngefürt/ das die Mässz ein grüwel vor\nGott sye/ von wegen des züsatzes/ Ceremonien/ crützen/ kleydungen/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.862,
+        "semantic_match": "wird\ndaſſelb darum nit allenthalben můſſen ſyn. Sag wy-\nter vff den Anfang / von Herren Berchtolden angeführt / daß die Måß ein Greuel vor Gott ſeye / von wegen deß\nZůſa-",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -99,19 +113,28 @@
         "op": "only_a",
         "a": "Als Exodi xxviij. vnd xxxv. xxxix. Vnd wie Ma⸗\nria Magdalena den glouben in Christum/ mit vßwen⸗\ndigen sichtbaren wercken beståtet hat.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6696,
+        "semantic_match": "diewyl der Tauff ein vſſerlich Element. Dem-\nnach hat Maria Chriſtum nit geopffert / ſonder nach dem\nGeſatz in den Tempel überantwortet /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Luce am vij. ca. Also mag ouch ein jetlicher Christ/ nach sinem willẽ/ gott\nmit vßwendigen dingen/ gaben vnd ceremonien/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7406,
+        "semantic_match": "So hat Maria die Můter / Chri-\nſtum im Tempel vfgeopffert / iſt doch nit beſſer gſyn dann\nChriſtus. Berchtoldus. DEr Schůlmeiſter hått ſölicher Vnred wol geråhten /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "dienen: wiewol harinn zů zyten/ groß mißbrüch geübt werden. Der",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6489,
+        "semantic_match": "dann in ſölicher geſtalt wurde kein ſün-\ndender Prieſter dörffen tauffen: ſo doch der Tauff beſſer\niſt dann der Täuffer:",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -119,7 +142,11 @@
         "b": "wird\ndaſſelb darum nit allenthalben můſſen ſyn. Sag wy-\nter vff den Anfang / von Herren Berchtolden angeführt / daß die Måß ein Greuel vor Gott ſeye / von wegen deß\nZůſa-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7312,
+    "reworded": 8,
+    "recovered_by_embedding": 5,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3654,

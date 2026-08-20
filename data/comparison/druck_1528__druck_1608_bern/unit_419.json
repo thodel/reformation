@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite CCII\n\n**Schlußred**\n**Erklärung D. Johannis Ecolam-**\n**padij/des orts Danielis am iiij.**\n\nSo man aber die schrifft gruntlich ersücht/so hat\nes den verstand:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.693,
+        "semantic_match": "Deß Spruchs Danielis halb/ist ein vision/ vnd Gesicht gesin/ vnd erschynung: nit das die Heiligen\nLLl ij",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -45,7 +48,10 @@
         "op": "only_a",
         "a": "vnd dienet diß argumẽt\njnen hiehar im grund nit: dann der Prophet wil allein sa\ngen/das das vrteyl schon über den Künig Nabuchodo=\nnosor ergangen sye.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6672,
+        "semantic_match": "Schlußred. 451\ndas Vrtheil schon über den Künig Nabuchodonosor er-\ngangen sye. Bůchstab. DAs Christus vnser einiger Mittler ist / vnd vns\nLåbendigen lert für ein andren zů bitten.",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,31 +63,41 @@
         "op": "match",
         "a": "**Büchstab**\n\nAls Christus vnser einiger mittler ist/vnd vns\nläbendigẽ lert für einandren zů bitten/Jst söm\nlichs den todten nit abgeschlagẽ/diewyl jr ouch\nkein heitere schrifft darumb habend.",
         "b": "Jst söm-\nlich den Todten nit abgeschlagen / diewyl ir ouch\nkein heitere Schrifft darumb habend. Der Spruch Da-\nnielis zeigt vns an /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.6552,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Der spruch\nDanielis zeigt vns an/dz er sye von himel herab gestigẽ: kan nit wol vff ein läbendigenn dienen.",
         "b": "daß er sye von Himmel herab gestigen: kan nit wol vff ein Låbendigen dienen. S. Petrus hat ouch\ngesprochen. 2.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.51,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "S. Petrus hat\nouch gesprochen. ij. Petri. j. Jch wird aber flyß ankeren/ das ich üch emsigklich habenach minem tod/das jr aller\ndiser dingẽ gedächtnuß thůgind.",
         "b": "Petri. 1. Jch wird aber flyß ankeren/das ich\nüch empfigklich habe nach mynem tod / daß ir aller diser\ndingen gedächtnuß thůgind.",
-        "similarity": 0.6122
+        "similarity": 0.6122,
+        "semantic": 0.6,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Hie hat sich S. peter\nbegeben/mit jnen etwas zehandlen nach sinem tod. **Berchtoldus.**\n\nJch frag/Ob jr bekennind/das Christus ein gnůgsa=\nmer mittler sye.",
         "b": "Hie hat sich S. Peter bege-\nben/mit jnen ettwas zehandlen nach synem Tod. Berchtoldus. JCh frag/Ob ir bekennind/daß Christus ein gnůgsamer\nMittler sye.",
-        "similarity": 0.7692
+        "similarity": 0.7692,
+        "semantic": 0.9359,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "**Büchstab.**\n\nJa ich bekenns. **Berchtoldus.**\n\nEs ist gnůgsam anzeigt dz Christus vnser einiger mit=\nler ist/deßhalb wir keyns andren mitlers bedörffen. Ecc ij",
         "b": "Bůchstab. Ja ich bekenns. Berchtoldus. ES ist gnůgsam anziegt daß Christus vnser einiger\nMittler ist/ deßhalb wir keins andren Mittlers be-\ndörffen.",
-        "similarity": 0.6522
+        "similarity": 0.6522,
+        "semantic": 0.7035,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -89,7 +105,11 @@
         "b": "Deß Spruchs Danielis halb/ist ein vision/ vnd Gesicht gesin/ vnd erschynung: nit das die Heiligen\nLLl ij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6807,
+    "reworded": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5675,

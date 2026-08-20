@@ -39,37 +39,49 @@
         "op": "match",
         "a": "Seite CLXXXIX\nSchlußred.+ CLXXXIX\nder.zc. So die recht verstanden werden/gnůgsamlich an\ntag bracht/das opffer der Mäß/gemäß zů sindem wer=\nGottes/als ich vertrůw/vnd vnderwirff mich gemey=\nner Christlichen Kilchen/",
         "b": "das Opffer der Mäß/gemäß zů ſyn dem Wort Gottes/ als ich vertruw/vnd vnderwirff mich gemeiner Chriſten=\nlichen Kilchen/",
-        "similarity": 0.5185
+        "similarity": 0.5185,
+        "semantic": 0.6043,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "wo ich nit glychförmig wä=\nre dem gottswort gesin. Zwingli\nWIr haben all vonſer tag gehört/welcher sich selbs\nzů einem zůgen darbutet/dem ſolle man kund=\nschafft nit trůwen.",
         "b": "wo ich nit glychförmig wäre dem Gottes\nWort geſin. Zwingly. WIr haben all vnſer tag gehört/welcher ſich ſelbs zů\neinem zügen darbiͤtet /",
-        "similarity": 0.6296
+        "similarity": 0.6296,
+        "semantic": 0.5445,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "So aber min herr Pfarrer/ sich ouch gar zů einem richter macht/lůge wär es jm be=\nuolhen hat/oder jm sines vrteyls gestaan werde.",
         "b": "dem ſölle man kundſchafft\nnit truͤwen. So aber myn Herr Pfarrer/ſich ouch\ngar zů einem Richter macht/luͤge wer es jm befolhen hat/",
-        "similarity": 0.549
+        "similarity": 0.549,
+        "semantic": 0.8468,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Deß=\nhalbes wol / by dem gemeinen vnderschniben/bliben wä\nre. Wir bezůgen vns vff die da glöubigen verstand der\ngschrifft habend.",
         "b": "oder jm ſynes Vrteils geſtaan werde. Deßhalb es wol\nby dem gemeinen vnderſchriben/bliben wäre. Wir bezuͤgen\nvns vff die da gloͤubigen verſtand der Gſchrifft habend.",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.5905,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Theobaldus Hůter\nICh setz min sach/wie ich geredt hab/verhoffen damit\ninůtzit verhönt haben. Am xxj tag Jenners.+\nMeister Johannes Dannberg\nIN nomine Domini, Amen.",
         "b": "Theobaldus Huͤter. JCh ſetz myn Sach/wie ich geredt hab/verhoffen damit\nnuͤtzit verhönt haben. Am xxj. Tag Jenners.",
-        "similarity": 0.6383
+        "similarity": 0.6383,
+        "semantic": 0.628,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Hochgelerten/erwirdigen/ Herren. Wiewyl diße matery/antreffende die\nMäß/ob sy ein Opffer sye oder nit/wiewol zů\nteil gnůgsam daruon disputiert wåre:",
         "b": "Meiſter Johannes Mannberg. IN nomine Domini, Amen. Hochgelerten Er=\nwirdigen Herren. Dyewil diſe Materi / an=\ntreffende die Mäß / ob ſy ein Opffer ſye oder\nnit\n\n## Marginalien\nnit/ꝛc.",
-        "similarity": 0.4314
+        "similarity": 0.4314,
+        "semantic": 0.6441,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -81,7 +93,10 @@
         "op": "only_a",
         "a": "lut also: Ein yetlicher Bischoff od hocher\npriester/vß den menschen vffgenomen/wirt den mensche\nB b b",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7266,
+        "semantic_match": "begeꝛt\ndiener\nzum ſy\nhochze\nMenſch\nGaben\ndurch\nzeiget w\nſtan/v\ngebuͤt\nHilffe\nwirt\n\nalte\nG[unleserlich]\nſelb[unleserlich]\nOpf[unleserlich]\nten/",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -89,7 +104,11 @@
         "b": "begeꝛt\ndiener\nzum ſy\nhochze\nMenſch\nGaben\ndurch\nzeiget w\nſtan/v\ngebuͤt\nHilffe\nwirt\n\nalte\nG[unleserlich]\nſelb[unleserlich]\nOpf[unleserlich]\nten/",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.655,
+    "reworded": 2,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.55,

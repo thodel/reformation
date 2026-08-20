@@ -33,13 +33,17 @@
         "op": "match",
         "a": "226     Die vierdt\nich geben wird fuͤr das leben der Welt. Soͤlichs alles hat er\nerſtattet im Nachtmal /",
         "b": "226\tDie vierdt\nich geben wird fuͤr das leben der Welt. Soͤlichs alles hat er\nerſtattet im Nachtmal /",
-        "similarity": 1.0
+        "similarity": 1.0,
+        "semantic": 1.0,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "namlich da er hat das Brot ge-\nnommen in die Haͤnd/hat danck geſagt/auch brochen/vnd\ndas geben ſinen Juͤngeren/daby geſagt:",
         "b": "namlich da er hat das Brot ge-\nnommen in die Haͤnd / hat danck geſagt / auch brochen / vnd\ndas geben ſinen Juͤngeren /",
-        "similarity": 0.9583
+        "similarity": 0.9583,
+        "semantic": 0.9422,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -51,25 +55,33 @@
         "op": "match",
         "a": "Nemmend/eſſend/ das iſt min Lyb: derglychen genommen den Kelch/danck ge-\nſagt/vnd jnen geben/ſagende/Trinckend all daruß/das iſt\nmin Bluͤt deß nuͤwen Teſtaments/welches fuͤr vil vergoſ-\nſen wirt/zu verziehung der Suͤnd.",
         "b": "das iſt\nmin Bluͦt deß nuͤwen Teſtaments / welches fuͤr vil vergoſ-\nſen wirt / zu verzichung der Suͤnd.",
-        "similarity": 0.6452
+        "similarity": 0.6452,
+        "semantic": 0.7476,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Das halt inn vnſer\nGlaub vngezwyflet. So nun Chriſtus befolcheͤ hat ſoͤlichs\ngethon werden/in ſiner Gedaͤchtnuß/Nun iſt gewuͤß alles\ndas ſo/vnmoͤglich dem Menſchen /",
         "b": "Das halt inn vnſer\nGlaub vngezwyflet. So nun Chriſtus befolchẽ hat ſoͤlichs\ngethon werden / in ſiner Gedaͤchtnuß / Nun iſt gewuͤß alles\ndas ſo /",
-        "similarity": 0.9286
+        "similarity": 0.9286,
+        "semantic": 0.9591,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "by Gott vermoͤglich/ Matth. am 19. cap. vnd Paulus zun Roͤmeren am 4. capit. vnnd Lucas am erſten capitel.",
         "b": "vnmoͤglich dem Menſchen / by Gott vermoͤglich / SMatth. am 19. cap. vnd Paulus zun Roͤmeren am 4. capit.",
-        "similarity": 0.7317
+        "similarity": 0.7317,
+        "semantic": 0.8796,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Meiſter Vlrich Zwingly/Predicant\nzu Zuͤrich. DEr erſt Spruch: Das Brot das ich uͤch geben\nwird/iſt min Fleiſch/welches ich vmb das Leben\nder Welt hingeben wird /",
         "b": "vnnd Lucas am erſten capitel. Meiſter Vlrich Zwingly / Predicant\nzu Zuͤrich. DEr erſt Spruch: Das Brot das ich uͤch geben\nwird /",
-        "similarity": 0.6792
+        "similarity": 0.6792,
+        "semantic": 0.8329,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -81,21 +93,31 @@
         "op": "match",
         "a": "Johannis am 6. capi-\ntel/treit ſinen eigentlichen verſtand vff dem Rucken/Nam-\nlich/daß er vns hie mit dem wort/Brot/vnd mit dem wort/",
         "b": "Nam-\nlich / daß er vns hie mit dem wort / Brot / vnd mit dem wort / Min Fleiſch / nit zuverſtan gibt / daß er vns im Brot ſin\nFleiſch lyblich welle zeeſſen geben /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.6331,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Min Fleiſch/nit zuverſtan gibt/daß er vns im Brot ſin\nFleiſch lyblich welle zeeſſen geben/ſonders/er verſtadt durch\ndas Brot/den Troſt vnd Sicherheit/die vns Gott in im\ngibt/verſichert werden/mit ſinem Tod/",
         "b": "ſonders / er verſtadt durch\ndas Brot / den Troſt vnd Sicherheit / die vns Gott in im\ngibt / verſichert werden / mit ſinem Tod /",
-        "similarity": 0.7241
+        "similarity": 0.7241,
+        "semantic": 0.9189,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Daß vermerckt\nman/ſo er ſpricht/ Welches Fleiſch ich geben wirdt vmb\ndas Leben der Welt: ſin Fleiſch in den Tod geben/hat die\nWelt",
         "b": "Daß vermerckt\nman / ſo er ſpricht / Welches Fleiſch ich geben wirdt vmb\ndas Leben der Welt: ſin Fleiſch in den Tod geben / hat die\nWelt",
-        "similarity": 1.0
+        "similarity": 1.0,
+        "semantic": 0.9894,
+        "reading": "same"
       }
-    ]
+    ],
+    "semantic": 0.8781,
+    "reworded": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.9922,

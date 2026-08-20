@@ -69,7 +69,9 @@
         "op": "match",
         "a": "Seite CXIII\nSchlußred. CXIII\nBuͦchstab. DJe wort Johannis am vj. capit. die anzeigend\ndas künfftig/ Die wort Christi/ Luce am xxij.",
         "b": "die anzeigend\ndas künfftig / Die Wort Chriſti / Luce am 22. die\nanzeigend die gegenwärtig Geſchicht : Die Wort Pauli\nin der erſten Epiſtel zun Corinthern am eilften Capitel /",
-        "similarity": 0.3673
+        "similarity": 0.3673,
+        "semantic": 0.5092,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -81,25 +83,36 @@
         "op": "match",
         "a": "Nun ist dz\nkünfftig/ das gegenwürtig/ vnd das vergangē/ wie her\nnach wyter anzeigt wirt/ einandren glychförmig/ daruͤb\nes sonderer gloß nit mer bedarff.",
         "b": "zei-\ngend gnügſam an die vergangene Geſchicht. Nun iſt das\nkünfftig / das gegenwürtig / und das vergangen / wie her-\nnach wyter angezeigt wird /",
-        "similarity": 0.4681
+        "similarity": 0.4681,
+        "semantic": 0.5336,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "Dz aber min herr Do=\nctor spricht/ das ich hab haryn gefuͤrt die Doctores/ hab\nich kein spruch vß jnen haryn gefuͤrt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.699,
+        "semantic_match": "einandern glychförmig / da-\nrum es ſonderer Gloß nit mehr bedarff. Daß aber myn\nHerz Doctor ſpricht / daß ich hab haryn geführt die Do-\nctores /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Als aber herr Bu=\ntzer in vergangnen tagen/ har haryn gefuͤrt/ Eusebium\nvnd Augustinum/ daby laß ichs blyben yezmal/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7236,
+        "semantic_match": "Die Vierdte Schlußred. 233\n==================================\nEcolampadius. LJeber Schůlmeiſter / by den Worten Johannis\nvon dem Brodt / das uns das Leben gibt / bringend\nihr gantz nüt wider das /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "uͤber dz\nJohannis am vj. capitel. Sich hieuor\nam 31..96.blat\n\nEcolampadius. SHat der Schuͦlmeyster vnder anderen mäl=\ndung than/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8213,
+        "semantic_match": "Die Vierdte Schlußred. 233\n==================================\nEcolampadius. LJeber Schůlmeiſter / by den Worten Johannis\nvon dem Brodt / das uns das Leben gibt / bringend\nihr gantz nüt wider das /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -117,7 +130,10 @@
         "op": "only_a",
         "a": "Was ich in minem buͤchlin\nhab lassen vßgan/ wil ich mit der warheit dar=\nbringen. ff ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8373,
+        "semantic_match": "Die Vierdte Schlußred. 233\n==================================\nEcolampadius. LJeber Schůlmeiſter / by den Worten Johannis\nvon dem Brodt / das uns das Leben gibt / bringend\nihr gantz nüt wider das /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -131,7 +147,11 @@
         "b": "hab ich kein Spruch uß ihnen haryn geführt. Als\naber Herz Butzer in vergangenen Tagen hat haryn ge-\nführt/",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6873,
+    "reworded": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2738,

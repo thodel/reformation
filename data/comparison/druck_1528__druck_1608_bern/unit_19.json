@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "II\nvnd brüder/früntlich zübeschriben/sich gewlisser war=\nheyt/von ück zu erkunden/damit mengelich allenthalb\nzü rüwen in jren gewüssen gegen gott/vnzü gütem fri-\nden/vndereinandern komen möchtind.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6646,
+        "semantic_match": "ſo dar-\nvß moͤchten volgen/zuͦ antwurten / vnd mit gewaltiger Ge-\nſchrifft zuͦ bewaͤren. Es bittet vns ouch der heilig Paulus/",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,7 +72,9 @@
         "op": "match",
         "a": "Nundem also\nnachzukomen/sind wir vnwirdigen diener/ vnd predi=\nger des heyligen Euangeliums/min brüder Berchtold\nvnd ich eruordert/ vnsers gloubens vnd predigens rech\nnung zegeben/des wir mit sampt allen denen/so das E=\nuangelion bekennen/vrpüttigfind/vnd nach ordnung\nvßzeychnover articklen/ouch allen redé/so darus möch=\nten volgen/zu antwurten/vnd mit gewaltiger gschrifft\nzü bewaren.",
         "b": "deß wir mit ſampt allen\ndenen/ſo das Euangelion bekennen/vrpuͤttig ſind/vnd nach\nOrdnung vßzeichneter Articklen/ ouch allen reden/",
-        "similarity": 0.35
+        "similarity": 0.35,
+        "semantic": 0.6168,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,7 +86,9 @@
         "op": "match",
         "a": "Es bittet vns ouch der heilig Paulus/das\nwir nit zenckisch/sonder volkomen/eins finno/eynerley\nmeynung syend/vnd das ein yegklicher der gaab/oder\nkunst/so jm Gott verlichen hare/nitstolz vnd vffgebla\nſen (quia fcientia inflat) yemats verachte/sonder in Chriſte=\nlicher liebe (que fola ædificat) einer des anderen burdy trage/",
         "b": "das wir nit zenckiſch/ſonder vollkommen/eins ſinns/ einer-\nley meinung ſiend/ vnd das ein yegklicher der Gaab/ oder\nKunſt /",
-        "similarity": 0.3836
+        "similarity": 0.3836,
+        "semantic": 0.6498,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -93,25 +100,35 @@
         "op": "match",
         "a": "einer dem andern diene. Eströstet ons ouch vnser lieber\nHerr Jesus Christus/in de da er ſpricht/Matthei. vij. Bittend/so werdend jr empfahen:",
         "b": "Es troͤſtet vns ouch vnſer lieber\nHerr Jeſus Chriſtus / in dem da er ſpricht / Matthei 7. Bittend / ſo werdend jr empfahen :",
-        "similarity": 0.6957
+        "similarity": 0.6957,
+        "semantic": 0.9648,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "suchend/so werdend\njr finden: Elopffend an/ so wirt ich offthon. Ses erma\nnen ich üch all vßerwelten/gotsfründ/das jrüwere her=\ngen vor Gott wellend demutigen/vnd mit mir beken=\nnen/fprechende/Jch armer sündiger mensch.ac.",
         "b": "ſuͤchend / ſo werdend jr\nfinden:klopffend an/ſo wirt uͤch vffthon. Deß ermanen ich\nuͤch all Vßerwelten Gottsfruͤnd /",
-        "similarity": 0.3
+        "similarity": 0.3,
+        "semantic": 0.8335,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Vatter\nvnfer. Aue Maria.ic. Wir bezligen ouch hiemit/d3 wir\nwider keinen artickel vnsers alten Christenlichen glou-\nbens/ügid handlen wellen/der also lutet:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6911,
+        "semantic_match": "Nun dem alſo nachzuͦkommen / ſind wir vn-\nwirdigen Diener/vnd Prediger deß heiligen Euangeliums/ min Bruͤder Berchtold vñ Jch eruordert/vnſers Gloubens\nvnd Predigens rechnung zegeben /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Ich gloub in\nGott vatter.ic. Wir hand ouch nützid für vns genom\nmen/wider den einfaltigen ynsatz des Nachtmals vn=\nfers herren Jesu Christi/das man bißhar die Meß ge\nnempthat. Sivi. 21 tj",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8148,
+        "semantic_match": "daß jr uͤwere Hertzen vor\nGott wellend demuͤtigen/vnd mit mir bekennen/ſprechende/ A ij",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -119,7 +136,11 @@
         "b": "daß jr uͤwere Hertzen vor\nGott wellend demuͤtigen/vnd mit mir bekennen/ſprechende/ A ij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7479,
+    "reworded": 6,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.439,

@@ -51,13 +51,18 @@
         "op": "match",
         "a": "Schlußred. gen/von dem houpt der Kilchen/das wort/ynig/ge=\nmeldet werd/gib ich im zu antwurt/das nach eygnem\nermessen/der geschrifft vnnd eygenschafft/des houpts/",
         "b": "das Wort / Einig / gemeldet werd / gib ich ihm zu Antwort / daß nach eigenem Ermeſſen der\nGeſchrifft und Eigenſchafft deß Haupts /",
-        "similarity": 0.4167
+        "similarity": 0.4167,
+        "semantic": 0.6787,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "eim yegklichen gleubige/verstendig ist/das Chriftus sye\ndas eynig houpt. Sann das Paulus spricht/zun Ephe\nfern am v.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6689,
+        "semantic_match": "deß ich\nihm groſſen Danck weiß / wie Chriſtus deß Ynfluß halb\nſeye das Haupt der Chriſtenlichen Gemeind / doch ſo\nmanglet ihm /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,13 +74,17 @@
         "op": "match",
         "a": "capitel. Das Chriftus selbs sye ein heylland\nfins lybs/darumb mag sölichs dheiner creatur zügemes=\nsen werde. Petrus ist nit vnser heyllad/Ser Bapst.ic.",
         "b": "Capitel / daß Chriſtus ſelbſt ſeye ein Heyland ſynes Lybs / darum mag ſoͤlichs keiner Creatur zugemeſſen werden. Petrus iſt nit unſer Heyland /",
-        "similarity": 0.383
+        "similarity": 0.383,
+        "semantic": 0.3849,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "fonders allein Christus: vnd ob schon d3 wortly/Linig/ mit worten nit erlütert ist/ so erlürert doch das der Apo\nstel/das Chriftus darum ein houpt sye/das er dz heyl si=\nnem lyb gebe.",
         "b": "der Papſt / ꝛc. ſonders al=\nlein Chriſtus: und obſchon das Woͤrtlin / Einig / mit\nWorten nit erluͤteret iſt / ſo erluͤteret doch das der Apoſtel /",
-        "similarity": 0.3279
+        "similarity": 0.3279,
+        "semantic": 0.7986,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,19 +96,26 @@
         "op": "match",
         "a": "Sarum lieber varter/gebend Christo die\neer/vnd lassend in dashoupt blyben/Es sye dann sach/ das jr mit geschrifft bybringent/das einicher creatur fo-\nliche eygenschafft/zügeben mog werden.",
         "b": "und laſſend ihn das Haupt blyben: Es ſeye\ndann Sach / daß ihr mit Geſchrifft beybringend / daß ei=\nnicher Creatur ſolche Eigenſchafft zugeben moͤg werden.",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.6112,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Bycheuatter. Err Berchtold hat mir ein antwurt gen/die er\njm selbs zunoz gen/so vil zu gut/d3 er dancker.",
         "b": "Bychtvatter. HErr Berchtold hat mir ein Antwort gaͤn / die er ihm\nſelbſt zuvor gaͤn / ſo viel zu guͦt /",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.5642,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "Ich bin gentzlich nit darwider/dz Chirstus der\nynfluß vnd dz gnadrych laben/der Kilche sye/von dem\nalle gnad ynflüßet.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6194,
+        "semantic_match": "Die Erſte Schlußred. 13\n\nBerchtoldus. FRomme / fuͤrgeliebte Chriſten / der Bychtvatter hat\nim Anfang ſyner Red zum guͤten theil unſer Schluß=\nred mit vier Spruͤchen der Geſchrifft beſtaͤtiget /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -111,7 +127,10 @@
         "op": "only_a",
         "a": "Sonun Christus sin\nsichtbarlich/lyblich/gegenwürtigkeit/wolt offnemmen\nin den himel/Beducht in gut/ hats ouch than/d3 er fine\neynigen lyb/das ist der heyligen Christenlichen Kilche/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7628,
+        "semantic_match": "deß ich\nihm groſſen Danck weiß / wie Chriſtus deß Ynfluß halb\nſeye das Haupt der Chriſtenlichen Gemeind / doch ſo\nmanglet ihm /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -125,7 +144,11 @@
         "b": "daß er dancket. Jch\nbin gaͤntzlich nicht darwider / daß Chriſtus der Ynfluß\nB iij und",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6361,
+    "reworded": 6,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3006,

@@ -51,7 +51,9 @@
         "op": "match",
         "a": "Seite [X]\nSchlußred. L\nfür ſich ſelbs/ſonders ſo bald die Sonn nit lúchtet/ſo iſt\nder tag númen. Alſo ouch die Apoſtel/habend ſo vil liech\ntes/ſo vil jne die Sonn der gerechtigkeyt/Chriſtus gibt/",
         "b": "ſonders ſo\nbald die Sonn nit luͤchtet / ſo iſt der tag nuͤmmen. Alſo\nouch die Apoſtel/habend ſo vil liechtes /",
-        "similarity": 0.5763
+        "similarity": 0.5763,
+        "semantic": 0.8647,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -63,13 +65,17 @@
         "op": "match",
         "a": "vnnd wo die Sonn nit lúchtet/da iſt kein liecht/vnd yſt\nChriſtus alſo allein das liecht/das läben vnd die krafft/",
         "b": "vnnd iſt Chriſtus alſo allein das\nLiecht/das Laͤben vnd die Krafft/die alle Menſchen erluͤch=\ntet/laͤbendig macht vnd behaltet.",
-        "similarity": 0.4783
+        "similarity": 0.4783,
+        "semantic": 0.7796,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "die alle menſchen erlúchtet/läbendig macht vnd behal=\ntet. Vnd ſind die Apoſtel erlúchte/läbendig gemacht gli\nder der Kilchen/vnd nit höupter/ſag ich lieber herr pfar\nrer/zů üwer vnderrichtung vnd der einfaltigen.",
         "b": "Vnd ſind die Apoſtel er=\nluͤchte/laͤbendig gemacht glider der Kilchen / vnd nit Hoͤu=\npter / ſag ich lieber Herr Pfarrer /",
-        "similarity": 0.4483
+        "similarity": 0.4483,
+        "semantic": 0.747,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,7 +87,9 @@
         "op": "match",
         "a": "Pfarrꝛ. ALs dann herr Berchtold vngefürt hatt/wie\ndie zwölffbotten nit ſygend liechter der wellt we\nſenlich/hett es des núts dörffen/jm iſt niemāts\ndarwider gſin/das er aber darnābend vngefürt hat/wie\ndann herr Berchtold ſagt/Chriſtus ſye allein das we=\nſenlich liecht/vnd die zwölffbotten nit/gloubt yedermā.",
         "b": "het es\ndeß nuͤts doͤrffen/jm iſt niemands darwider gſin/daß\ner aber darnaͤbend yngefuͤrt hat/wie dann Herr Berchtold\nſagt /",
-        "similarity": 0.3421
+        "similarity": 0.3421,
+        "semantic": 0.879,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -93,21 +101,33 @@
         "op": "match",
         "a": "Aber das exempel võ byſpil/ſo Meiſter Vlrich Zwing=\nly geredt/von dem liecht mit gegeben/vonn der Sonn\ndurch das fennſter/erkenn ich eygentlich wol/on alles\nmittel das/das war liecht iſt/vñ der anfang des liechts.",
         "b": "von dem liecht\nmir gegeben/von der Sonn durch das Fenſter/erken ich ei=\ngent=",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.6877,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Aber der ſchyn der durchtringt das fennſter/hoff ich/er\nlaß mirs ouch ein liecht ſin. Alſo ouch zů ynfürung miner\nBeſchlußred/erkenn ich ouch Gott den Herren Jeſum\nChriſtum min behalter vnnd aller welt/ein houpt ze ſin.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8585,
+        "semantic_match": "Chriſtus ſye allein das weſenlich Liecht / vnnd die\nZwoͤlffbotten nit/gloubt jederman. Aber das exempel vnd\nbyſpil / ſo Meiſter Vlrich Zwingly geredt /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Aber das nit ſye ein verordnet houpt nachgelaſſen von\nſinem Göttlichenn wort/werde nyemand wider mich\nbewären/vnd empfilch mich alſo den göttlichen worte/ N ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7702,
+        "semantic_match": "Chriſtus ſye allein das weſenlich Liecht / vnnd die\nZwoͤlffbotten nit/gloubt jederman. Aber das exempel vnd\nbyſpil / ſo Meiſter Vlrich Zwingly geredt /",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7981,
+    "reworded": 6,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4506,

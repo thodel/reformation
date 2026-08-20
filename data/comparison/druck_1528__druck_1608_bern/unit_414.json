@@ -33,37 +33,49 @@
         "op": "match",
         "a": "Seite CXCX\nDie ſechſte\nGilg Durer\nSprich ich neyn. Zwingli. So iſt üwer argument nüt. Gilg Durer\nGott hatt anzeygt in dißem ſpruch/das die abges\nſtorbnen/wol für vns bitten mögen/dann was\nwolt er ſprächen/wann Moyſes vnd Samuel\nvor mir ſtünden/wañ es jnen nit hätte mögen zügelegt\nwerden zů bitten:",
         "b": "Schlußred. 445\nGilg Murer. GOtt hat angezeigt in diſem Spruch/ daß die Abge-\nſtorbnen/wol für vns bitten mögen/dann was wolt\ner ſprechen/wann Moyſes vnd Samuel vor mir\nſtuͤnden/wann es jnen nit hette mögen zuͦgelegt werden zuͦ\nbitten:",
-        "similarity": 0.4948
+        "similarity": 0.4948,
+        "semantic": 0.7884,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "als dz wåre ein vngeſchickte red/wañ\nman ſpråche/ob Sonn vnd Mon/båtten den herrn für\ndas volck/wurden ſy nit erhört:",
         "b": "als das were ein vngeſchickte red/wann man ſpraͤ-\nche/ob Sonn vnd Mon/baͤtten den Herren für das Volck/",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.9178,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dann diſe zwo Creatu=\nren/die mögen ſömlichs niemer mer begriſflich ſyn. Wåchter. Ieder herr/wz wend jr vß deßem ſpruch ſchlieſ=\nſen.",
         "b": "wurden ſy nit erhört:dann diſe zwo Creaturen/die mögen\nſoͤmlichs niemermehr begrifflich ſyn. Waͤchter. LIeber Herr/was wend jr vß diſem Spruch ſchlieſſen.",
-        "similarity": 0.449
+        "similarity": 0.449,
+        "semantic": 0.6904,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Eſaias am lxiij. zů Gott ſpricht. So ſchow\nnun vom himmel herab/vnd lůg von diner hey\nligen wonung/vñ herrlikeyt.",
         "b": "Eſaias am 63. zuͦ Gott ſpricht. So ſchow nun vom\nHimmel herab / vnd luͤg von dyner Heiligen Wo-\nnung/",
-        "similarity": 0.6341
+        "similarity": 0.6341,
+        "semantic": 0.721,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wo iſt din yfer vñ macht\ndie menge diner herlikeyt/vnnd din erbarmung/die ſich\nruch gegen mir erzeygt hatt/du biſt doch vnnſer vatter\nvnd Abraham weyßt nüt von vns/vnnd Iſrahel hatt\nvns nit erkent.",
         "b": "vnd Herrligkeit. Wo iſt dyn Yfer vnd Macht die\nmenge dyner Herrligkeit/vnnd dyn Erbarmung/die ſich\nruch gegen mir erzeigt hat/du biſt doch vnſer Vatter vnd\nAbraham weißt nuͤt von vns /",
-        "similarity": 0.5634
+        "similarity": 0.5634,
+        "semantic": 0.8829,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Gilg Durer. Als wellé jr daruß ſchlieſſen/das vns vnſer vat=\nter Abraham nit bekent hat/vnd Iſrahel. Das\niſt zůuerſton/von der Perſon:",
         "b": "vnd Jſrael hat vns nit\nerkent. Gilg Murer. WAs wellen jr daruß ſchlieſſen/das vns vnſer Vat-\nter Abraham nit bekent hat/vnd Jſrael.",
-        "similarity": 0.5417
+        "similarity": 0.5417,
+        "semantic": 0.7643,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -77,7 +89,11 @@
         "b": "Das iſt\nzuͦuerſton/von der Perſon:vnd obs glych alſo waͤ-\nre/ daß wir ouch mögen zuͦgeben daß die alten Vaͤtter nit\nalle ding haben gewüßt von vns Menſchen vff Erdrich/in\nKKk iij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7941,
+    "reworded": 2,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5594,

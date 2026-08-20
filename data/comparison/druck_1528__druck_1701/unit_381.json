@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite [X]\n\n**Die fünffte**\n\nvnd ouch Eſaias daſelb Bezüget/darumb ſo iſt notwen=\ndig/das ein ander rein opfer werde geben/dz dißem text\nglichförmig ſye.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6948,
+        "semantic_match": "ſonders erſt anfahen im Neuen\nTeſtament. Butzer. ES folget nit / daß das rein Opffer / von dem der\nProphet hie redt /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -51,13 +54,17 @@
         "op": "match",
         "a": "Actorum xv. zun Römern vij. **Gilg Durer**\n\nS mag nit verſtanden werden/von der heylig=\nmachung des heyligē geyſts. Sañ daſſelbig opf=\nfer/namlich des wort Gottes/hatt vorhin lan=\ngeſt ſöllen verkündet worden ſin/als ouch beſchehen iſt/",
         "b": "Gilg Murer. ES mag nit verſtanden werden von der Heiligma-\nchung deß heiligen Geiſtes. Dann daſſelbig Opffer/ namlich das Wort Gottes hat vorhin langeſt ſoͤllen ver-\nkuͤndet worden ſyn/als auch beſchehen iſt Abraheͤ/Iſaac/",
-        "similarity": 0.4211
+        "similarity": 0.4211,
+        "semantic": 0.479,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Abrahe/Jſaac/vnd den lieben andern vättern/vñ dar\numb ſo müß man ney wa ein ander reyn opfer geben/das\nvoz nie iſt geſin im alten Teſtament/ſonders erſt anfa=\nhen im nüwen Teſtament.",
         "b": "und den lieben andern Vaͤttern/und darum ſo muͤß man\neinmal ein ander rein Opffer geben / das vor nie iſt gſyn\nim Alten Teſtament /",
-        "similarity": 0.4918
+        "similarity": 0.4918,
+        "semantic": 0.6851,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,13 +76,17 @@
         "op": "match",
         "a": "**Buczer.**\n\nES volget nit dz rein opffer das von dē der pro=\nphet hie redt/darum müſſe voz nie gewäſen ſin\nDer Prophet meldet hie von einem reinē opfer\nvnder den Heyden/der glichen wie zur zyt der Apoſtlen\ngeſchehen worden iſt/iſt voz nie geſin.",
         "b": "darum muͤſſe vor nie geweſen\nſyn: Der Prophet meldet hie von einem reinen Opf-\nfer under den Heyden/derglychē wie zur Zyt der Apoſt-\nlen geſchehen worden iſt /",
-        "similarity": 0.48
+        "similarity": 0.48,
+        "semantic": 0.6259,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "**Gilg murer.**\n\nJCh laß diſe gſchrifft vnd vßlegung bliben/wie vor=\nmals verantwurt iſt/vnd beuilchs den Actis. **Buczer**",
         "b": "iſt vor nie gſyn. Gilg Murer. JCh laß dieſe Geſchrifft und Ußlegung blyben / wie\nvormals beantwortet iſt / und befihls den Actis.",
-        "similarity": 0.55
+        "similarity": 0.55,
+        "semantic": 0.5033,
+        "reading": "check"
       },
       {
         "op": "only_b",
@@ -89,7 +100,11 @@
         "b": "WYter mag nach myner vorgebnen Diſtinction ein\nandere Geſchrifft harfuͤr bracht werden. Namlich\nDanielis am 12. Und die boͤſen werden boͤßlich handlen/ und",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.5976,
+    "reworded": 3,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4213,

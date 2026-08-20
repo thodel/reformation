@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite IIX\nDie ander\nBestanden/oder jr widerspråchend. Ir sechend ouch/wie\nsich die/so die artickel für güt bekennen/so trüwlich zůsa\nmen halten/darum bitt vñ erman ich üch abermals vmb\ngots willen/jr die widerspråcher/wellend üch ouch zůsa=\nmen thůn/einandern trostlich sin/mit hilff/radt/schrybē\nvnd reden/das werden vnser gnådig herren/zum höch=\nsten wol vergüt/vñ als ein gnådig wolgefallē/mit groſ\nser danckbarkeit annemen/doch das dz allweg bescheche\nnach ordnung/jnnhalt vnd anwysen des Christenlichen\ndarumb angesåchnen Mandats.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7107,
+        "semantic_match": "170\tDie Ander Schlußred. gene Artickel durch jhre Predicanten / ſamt der Lehr ſo daruß\nflüßt / erhalten werden / ſonder allein iſt jhr Fürnemmen /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,25 +72,33 @@
         "op": "match",
         "a": "Allerius Grad/bychschåtter in der\nInsel/Prediger ordens. IN dinem namen herr Jesu Christ. Ersamē/wy\nsen/günstigē lieben herren/Die ander schlußred/",
         "b": "Alexius Grad / Bychtvatter in der Jn=\n\tſel / Prediger Ordens. JN dynem Namen / Herr Jeſu Chriſt. Ehrſame / wy=\nſe / günſtige liebe Herren.",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.7645,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "yetzt etlich zyt disputiert/die selbig hat nach mi\nnem vstand/zwen teyl. Der erst/Die Kilch Christi ma\ncher nit gesetzt noch statuten one das gottes wort.",
         "b": "Die ander Schlußred / jetzt\netlich Zyt disputiert / dieſelbig hat nach mynem Verſtand / zween Theil. Der erſt: Die Kilch Chriſti machet nit Ge=\nſetz noch Statuten ohne das Gotts Wort.",
-        "similarity": 0.5263
+        "similarity": 0.5263,
+        "semantic": 0.7073,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Diſen\nteyl halt ich für war. Den andren teyl/der da lutet/das\ndaruß volg vnd beschåche/das alle menschlich satzungē/",
         "b": "Diſen Theil\nhalt ich für wahr. Den andern Theil / der da lutet / Daß\ndaruß folg und beſchähe / daß alle menſchliche Satzungen /",
-        "similarity": 0.5238
+        "similarity": 0.5238,
+        "semantic": 0.627,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "die von vns/der Kilchen gebot genant sind/vnser con=\nscientz nit anders binden/dann als vil sy im gotswort ge\ngründt sind/oder gebotten/den selben gib ich ouch zů/in\nrechtem gesundem verstand/den selben verstand recht ze\nsůchē/söllen wir gan in die schrifft.",
         "b": "die von uns der Kilchen Gebott genant ſind / unſer Con=\nſcientz nit anders binden / dann als vil ſy im Gotts Wort\ngegründt ſind /",
-        "similarity": 0.5429
+        "similarity": 0.5429,
+        "semantic": 0.7469,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -99,21 +110,32 @@
         "op": "match",
         "a": "Nun stadt Joan. xvj. Ich hab üch noch vil zesagē/jr mögends aber yetz nit tra\ngen: wenn aber der geist der warheit komen wirt/so wirt\ner üch leren alle warheit:",
         "b": "Nun ſtaht Joh. 16. Jch hab euch noch vil zeſagen / jhr mögends aber jetzt\nnit tragen / wenn aber der Geiſt der Warheit kommen\nwird /",
-        "similarity": 0.4643
+        "similarity": 0.4643,
+        "semantic": 0.8132,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dann er wirt nit reden von jm\nselbs/aber er wirdt reden alles das er wirt hören/vnnd\nwirt üch vkůnde die ding/die künfftig sind.",
         "b": "ſo wird er euch lehren alle Warheit : dann er wird\nnit reden von ihm ſelbs / aber er wird reden alles das er\nwird hören / und wird euch verkünden die Ding / die künf=\ntig",
-        "similarity": 0.5424
+        "similarity": 0.5424,
+        "semantic": 0.7519,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Disen geist\nvnnd lerer/hat Christus vnser Herr/siner Kilchen/nit",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7549,
+        "semantic_match": "wie ſich die / ſo die Artickel für gut bekennen / ſo treu=\nlich zuſammen halten / darum bitt und ermahn ich euch aber=\nmals um Gottes willen /",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7346,
+    "reworded": 3,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5442,

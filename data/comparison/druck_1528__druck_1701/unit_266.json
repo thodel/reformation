@@ -51,19 +51,26 @@
         "op": "match",
         "a": "Seite CXXVII\n\nSchlußred. Wir sprecheñ der Kelch der dancksagung sye ein vßteyl=\nung des blůts Christi/ vñd diewyl lyb vñd blůt by ein=\nandern stond/",
         "b": "Capitel alſo genom-\nmen wird: Dann was Gemeinſame hat der Kelch mit\ndem Blůt Chriſti? Wir ſprechen/der Kelch der Danck-\nſagung ſeye ein Ußtheilung deß Blůts Chriſti /",
-        "similarity": 0.3019
+        "similarity": 0.3019,
+        "semantic": 0.3254,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "mag es nit anders verstanden werdeñ/ deñ\nvon beyder vßteylung. Sernachvolgend reyt. Señ wir\nvil sind ein brot/ vnnd ein lyb/",
         "b": "und\ndiewyl lyb und blůt by einandern ſtahnd / mag es nit an-\nderſt verſtanden werden/ denn von beyder Ußtheilung. Der nachfolgend text:",
-        "similarity": 0.3256
+        "similarity": 0.3256,
+        "semantic": 0.6865,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "darumb das wir von eim\nbrot vnd von eim Kelch teylhafftig sind/ nimpt nichts\nyenem verstand. Wir bekennen den selbe text zeuerstan=\nden werden/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7404,
+        "semantic_match": "Denn wir vil ſind ein brodt und\nein lyb/darum daß wir von einem Brodt und von einem\nKelch theilhafftig ſind /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,19 +82,25 @@
         "op": "match",
         "a": "vonn dem geystlichen lyb/ welches ist die ge=\nmein Gottes. Paulus spricht aber nit/ wir syen das brot\ndas brochen wirt/",
         "b": "nimt nichts jenem Verſtand. Wir bekennen denſelben Text zeverſtahn werden von\ndem geiſtlichen Lyb / welches iſt die Gemein Gottes. Paulus ſpricht aber nit/",
-        "similarity": 0.4545
+        "similarity": 0.4545,
+        "semantic": 0.7862,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "oder das wir brechen/ sunst brech vñd\nEß die Kilch sich selbs/ darumb der erst spruch vom lyb\nChristi vßgeteylt im brot/",
         "b": "wir ſeyen das Brodt/ das bro-\nchen wird / oder das wir brechen / ſonſt brech uns es die\nKilch ſich ſelbs/",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.7703,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "der ander vom geystliche ver\nstanden můß werden. Ecolampadius. [V]nser antwurt hat Althamer nüt abrocheñ/ die=\nwyl wir klarlih dargethon haben/",
         "b": "darum der erſt Spruch vom Lyb Chri-\nſti ußgetheilt im Brodt/ der ander vom geiſtlichen ver-\nſtanden můß werden. Ecolampadius.",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.5301,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -99,13 +112,17 @@
         "op": "match",
         "a": "dʒ hie ein ge=\nmeinschafft verstanden werden soll/ vñd wil es\nnoch klarliher darthůn. Man leßnit mer dañ\nden text selbs für vñd für/",
         "b": "und wil es noch klarlicher\ndarthůn. Man laͤß nit mehr dann den Text ſelbs für und\nfür/ und wird nit folgen daruf:",
-        "similarity": 0.5106
+        "similarity": 0.5106,
+        "semantic": 0.6045,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vñd wirt nit volgen daruff: an eynem anderenn oꝛt oder zweyen/ dienet die gemeyn=\nschafft zur vßteylung Ergo es můß hie ouch also verstan=\nden werdeñ.",
         "b": "an einem andern ort oder\nzweyen / dienet die Gemeinſchafft zur Ußtheilung/ Ergò,\nEs",
-        "similarity": 0.4103
+        "similarity": 0.4103,
+        "semantic": 0.5248,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -123,9 +140,16 @@
         "op": "only_a",
         "a": "ist die vßteylung\nnit vnser/ aber wir haben ein geselschafft/ in empfahung\nsolches geistes. des hatt man ouch zun Philipeñsern am\nij. Capit. Jst yrgend ein gemeinschafft oder geselschafft\nZi iij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7,
+        "semantic_match": "Denn wir vil ſind ein brodt und\nein lyb/darum daß wir von einem Brodt und von einem\nKelch theilhafftig ſind /",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.6298,
+    "reworded": 5,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.403,

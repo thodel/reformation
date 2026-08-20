@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite LXXVI\n**Schlußred.**\n\ngeben/das alle die/die glouben vñ getoufft ſind/machen\ndie heiligen Chriſtlichen Kilchen/vnd nit mer iſt wann\nein Kilch/als wir habē Canticoꝛū am vj.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6854,
+        "semantic_match": "ſo iſt doch noch vß keiner der antwurté dar=\ngethon / daß das Wort vnd die verheiſſung Chriſti nit hab\nmoͤgen von ſo vil zyten har /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -51,19 +54,25 @@
         "op": "match",
         "a": "das alle gſchrifft von Gott ingeben/vnnd nit beſchicht\nvß eigner vßlegung/ſonders angeblaſen/oder ingegey=\nſtet/von dem heyligen geyſt/haben die heyligen maͤnner\ngottes geredt.",
         "b": "Schlußred. 187\nalle Geſchrifft von Gott ingeben / vnnd nit beſchicht vß ei=\ngner Vßlegung / ſonders angeblaſen / oder ingegeiſtet / von\ndem H.Geiſt /",
-        "similarity": 0.52
+        "similarity": 0.52,
+        "semantic": 0.7197,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "**Martinus Butzer.**\n\nL Angeſt iſt geſagt/ſo die Kilch/fuͤr die gloͤubigen Sich hieuoꝛ\ngenommen wirt/ſo macht ſy kein gebott/es hab am 3.74.75.78.",
         "b": "haben die heiligen Maͤnner Gottes geredt. Martinus Bucerus. LAngeſt iſt geſagt / ſo die Kilch fuͤr die gloͤubigen ge=\nnommen wirt /",
-        "similarity": 0.4528
+        "similarity": 0.4528,
+        "semantic": 0.6372,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ein haͤllen grund in der gſchrifft/vnd das oꝛt Pe= 79.83.84.blatt. tri in der ij. am erſten Cap.",
         "b": "ſo macht ſy kein gebot / es hab ein haͤl=\nlen grund in der Gſchrifft / vnnd das ort Petri in der\n2.",
-        "similarity": 0.4091
+        "similarity": 0.4091,
+        "semantic": 0.4665,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -75,19 +84,25 @@
         "op": "match",
         "a": "wil ouch nuͤt anders. **Bichuatter.**\n\nH Err Marti Butzer ſagt/das die kilch/wie ich\ndie nenne/dhein andre ſatzung mache/ſy ſye dañ\noffenlich gegruͤndtin dem woꝛt gottes/Begert\nwas ich fuͤr ein andere kilchen hab/dañ der ſpruch in der\nij.",
         "b": "kein andre ſatzung mache / ſy ſye dann offenlich\ngegruͤndt in dem Wort Gottes / Begert was ich fuͤr\nein andere Kilchen hab /",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.7002,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "ſant Peters/ſag nuͤt anders/weder von der Kilchen/ die wir mit einandern gemein habē/ich hab angezogē dz\noꝛt.",
         "b": "dann der Spruch in der 2. Sant\nPeters / ſag nuͤt anders / weder von der Kilchen / die wir mit\neinandern gemein haben /",
-        "similarity": 0.6977
+        "similarity": 0.6977,
+        "semantic": 0.7048,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Jch hab uͤch vil zeſagē. Er neme die kilch wie er well/ y ij",
         "b": "ich hab angezogen das ort. Ich\nhab uͤch vil zeſagen. Er nemme die Kilch wie er well / fuͤr ein\ngemeine verſamlung der gloͤubigen /",
-        "similarity": 0.4878
+        "similarity": 0.4878,
+        "semantic": 0.7699,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -137,7 +152,11 @@
         "b": "daß\n[unleserlich]alle\n\n[Rechte Spalte:]\nSuͤch\nhieuor\nam 5. 6. 160. 162\n169. 171. 181. vnd\n183. blat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6691,
+    "reworded": 3,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3574,

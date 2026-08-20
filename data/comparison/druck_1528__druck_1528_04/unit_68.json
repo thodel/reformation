@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite IVXX\nDie erſt\nſchlußred zů beueſtigung der minen/ alſo darthůn. So dick vnd vil/vnd ſich zweyung vnd zwytracht\nzůtreyt in vnſerem waren vnbefleckte͂ glouben/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6136,
+        "semantic_match": "die ein sul\nvn̄ grundueste ist der warheyt / d’ hoͤchst gewalt\nin'sachen deß gloubens zehandlen/funden wirt/ vnnd diewyl aber beyd/",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,37 +60,50 @@
         "op": "match",
         "a": "iſt von\nnoͤten/das da ein richter funden werd/ der den zuckende͂\nwolff / durch ſinen gewallt hinweg trybe/ vnd abſůnde=\nre von der haͤrd des Herren /",
         "b": "So dick vnd vil / vnd sich zweyung vnd zwy\ntracht zůtreyt in vnserem waaren vnbefleckten\nglouben/ist von noͤtten/das da ein richter fundē\nwerd/der den zuckenden wolff/durch sinen ge=\nwalt hinweg trybe /",
-        "similarity": 0.4688
+        "similarity": 0.4688,
+        "semantic": 0.8624,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnd anzeyg wellicher ein\nhirt/ oder zuckender wolff ſye. Diß iſt aber die Chriſte=\nlich Kilchen/als Matthei am xviij.ca.geſchriben ſtadt:",
         "b": "vnd absůndere vō der hård\ndes Herren / vnd anzeyg wellicher ein hirt/oder\nzuckender wolff sye. Diß ist aber die Christenlich\nkilchen/als Matthei am xviij capitel geschriben\nstadt:",
-        "similarity": 0.7692
+        "similarity": 0.7692,
+        "semantic": 0.8438,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Welcher die Kilch nit hoͤrt/der ſol dir ſin als ein Heid/ vnd ein offen ſůnder. Doctor Wolffgang Fabricius Ca=\npito/Predicant zů Straßburg.",
         "b": "Welcher die kilch nit hoͤrt / der sol dir sin\nals ein Heyd/vnd ein offen suͤnder. Doctor Wolffgang Fabricius\nCapito /",
-        "similarity": 0.766
+        "similarity": 0.766,
+        "semantic": 0.7825,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Komen lieben Chriſten/der lenge nach/hat So\ncrotz Cůnrad Treiger Prouincial/inhalt/vnnd\nmeinung ſins fuͤrnemens anzeygt/ vnd in dem\nden namen der Kilchen zweyſpaltig genomen/",
         "b": "Predicant zů\nStraßburg. Frommen lieben Christen/der lenge nach/ ha\nDoctor Cuͦnrad Treyger/Prouincial/inhalt/vn̄t\nmeinung sins fuͤrnem̄ens anzeygt/vnnd in dem\nden namen der kilchen zweyspaͤltig genomen/",
-        "similarity": 0.5806
+        "similarity": 0.5806,
+        "semantic": 0.8553,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd vß\nweltlicher můtmaſung vrſach anzeygt/warumb die vſ=\nferlich gemeyn verſamlung/ in zweyſpeltigen articklen\ndes gloubens/ſprechen ſol/dann ye ein richter ſin můß.",
         "b": "vnd vß weltlicher muͦtmasung/ vrsach anzeigt/ warum̄ die vsserlichen gemeyn versamlung / in\nzweyspeltigen articklen des gloubēs/sprechē sol-",
-        "similarity": 0.5333
+        "similarity": 0.5333,
+        "semantic": 0.7648,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Off das nun zum handel/am fuͤrderlichſten griffen wer\nde/wellen wir das erſt/die heylig Chriſtenlich Kilch/de\nro einig houpt Chriſtus iſt/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6366,
+        "semantic_match": "yetz genant Schlußred\nsoͤlichs verneynnen / vnnd allein das eynig wort\nGottes in haͤndlen des gloubens/richter wellen\nsin/so wil ich das kůrtzlichen wider soͤlich schluß\nred zů beuestigung der minen/also darthuͦn.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -99,9 +115,16 @@
         "op": "only_a",
         "a": "Weliche vo͂\njrem houpt Chriſto/vnſerm herren/laͤbendig gemacht/ vnd allein geregiert wirt. Sarum dañ Paulus ſpricht: Der geyſtlich mentſch wirt von nyemants gerichtet/er\nrichtet aber alle ding. Deßhalb/diewyl die geſchrifft ge\nwůßlich",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7515,
+        "semantic_match": "yetz genant Schlußred\nsoͤlichs verneynnen / vnnd allein das eynig wort\nGottes in haͤndlen des gloubens/richter wellen\nsin/so wil ich das kůrtzlichen wider soͤlich schluß\nred zů beuestigung der minen/also darthuͦn.",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7638,
+    "reworded": 4,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4708,

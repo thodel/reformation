@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite [X]\nDie erſt\nWarthei am vviij. cap. welches ouch Paulus zů Corin\ntho than hat/Als jr habend in der erſten Epiſtel am v.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6799,
+        "semantic_match": "Die Erſte Schlußred. 45\n\nerſten Epiſtel am 5. Cap. Jch zwar (ſpricht er) als der mit\ndem Lyb nit da bin /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -45,7 +48,9 @@
         "op": "match",
         "a": "capitel. Ich zwar (ſpricht er) als der mit dem lyb nit da\nbin/doch alls mit dem geyſt gegẽwürtig. Hab ſchon ich\nſölichs im geyſt beſchloſſen/über den/der ſölichs gethan\nhat/in dem namen vnſers Herrẽ Jeſu Chriſti/in üwer\nverſamlung mit minem geiſt/vnnd in der krafft vnſers\nHerren Jeſu Chriſti/jn zeübergeben dem tüffel/zů ver\nderbnüg des fleyſchs/vff das der geyſt ſälig werd/am tag\ndes Herren.",
         "b": "doch als mit dem Geiſt gegenwürtig / hab ſchon ich ſölichs im Geiſt beſchloſſen über den / der\nſöliches gethan hat / in dem Namen unſers Herren Jeſu\nChriſti in euer Verſamlung mit mynem Geiſt /",
-        "similarity": 0.4231
+        "similarity": 0.4231,
+        "semantic": 0.4272,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -57,7 +62,9 @@
         "op": "match",
         "a": "Hie ſechend jr das Paulus nit vß eygnem\ngewalt/ſonders in dem namen/ja in der krafft vnſers\nHerren Jeſu Chriſti verſamlet/mit einandern den of=\nfentlichen hürer/verbannet hatt/daruß abermals der\nPfarrer nit erhaltẽ mag/ein ſonderlichen eygnen gwalt\nPetzo/dem Bapſt vnd Biſchoffen beuolchen.",
         "b": "Hie ſehend ihr / daß Paulus\nnit vß eignem Gewalt / ſonders in dem Namen / ja in der\nKrafft unſers Herren Jeſu Chriſti verſamlet /",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.7391,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,7 +76,9 @@
         "op": "match",
         "a": "Pfarrer. Als herr Berchtold anzücht/vor ouch geredt iſt\nworden/wie Chriſtus Jeſus ſinen Apoſtlen be=\nuolchen hab/zů verkünden das wort Gottes/zů\nablaſung der ſünd.",
         "b": "dem Papſt und Biſchoffen befohlen. Pfarzer. Als Herz Berchtold anzůcht / vor auch geredt iſt\nworden / wie Chriſtus Jeſus ſynen Apoſtlen be-\nfohlen hab /",
-        "similarity": 0.52
+        "similarity": 0.52,
+        "semantic": 0.8315,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -81,7 +90,9 @@
         "op": "match",
         "a": "Vnd hatt daſelbs ynzogen ein glych\nnus einer pfarr/oder Kilchhöry/ſo er redt von dem ge=\nwalt einer yegklichen Kilchen geben/in welchem er mir\nwaſt wol gefellt/ſo er den gewalt ſo Paulus gebrucht/",
         "b": "ſo er redt von dem Gewalt / ei-\nner jeglichen Kilchen geben / in welchem er mir baſt wol\ngefellt / ſo er den Gewalt /",
-        "similarity": 0.5862
+        "similarity": 0.5862,
+        "semantic": 0.5587,
+        "reading": "check"
       },
       {
         "op": "only_b",
@@ -93,7 +104,9 @@
         "op": "match",
         "a": "den ich anzeigt/zůgibt der Kilchẽ: dan Paulus hat den\nſelben groſſen gewalt gebrucht/bin nit on/das Chriſtus\njm ſölichen gewalt empfolchen hab/hoff ouch/da werde\nnit erhalten/das der gewalt ſo empfolhen iſt zů entbin=\nden vnd binden/vonder Kilchen vffgehept werde. So er",
         "b": "daß Chri-\nſtus ihm ſölichen Gewalt empfohlen hab / hoff auch / da\nwerde nit erhalten / daß der Gewalt / ſo empfohlen iſt zů\nentbinden und binden /",
-        "similarity": 0.4225
+        "similarity": 0.4225,
+        "semantic": 0.6596,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -101,7 +114,11 @@
         "b": "von der Kilchen vffgehebt werde. So er dann anzeigt in der erſten Epiſtel zun Co-\nrinthern am 5. Cap. in welchen Worten er aber mir zů-\n      F ij          fellt",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6493,
+    "reworded": 2,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6202,

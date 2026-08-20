@@ -45,25 +45,34 @@
         "op": "only_a",
         "a": "Dañ der Prophet Sa\nuid schribt. Psalmo xxxj. von nachlassung der suͤnd/vñ\ndarnach/fuͤr die wirt bitten ein yetlicher heylig in d zyt/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6105,
+        "semantic_match": "da er ſpricht. Wann Moſes vnd Samuel\nvor mir ſtůnden/ ſo iſt myn Seel nit gegen dem Volck. Hie\niſt offenbar/",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "so es geschickt oder zimlich wirt. Adeyster Vlrich Zwingly\n\nVOnn der eynigkeit aber/redt hie Christus nitt/ sonders von dero/die den menschẽ zimpt/",
         "b": "444\tDie ſechſt\nMeiſter Vlrich Zwingly. VOn der Einigkeit aber/ redt hie Chriſtus nit/ ſon=\nders von dero/ die den Menſchen zimpt/",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.8072,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "hie in\ndisem zyt/der Psalm ist nit wider vnns/dann\nSanctus heyst ein heyligen/das ist/ein gloͤubigẽ/oder\ngottsfoͤrchtigen/die werden gott zuͤ jrer zyt bitten.",
         "b": "hie in diſem\nzyt/ der Pſalm iſt nit wider vns / dann Sanctus\nheißt ein Heiligen/ das iſt ein Glöubigen / oder Gotts=\nförchtigen/",
-        "similarity": 0.6154
+        "similarity": 0.6154,
+        "semantic": 0.9109,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Gilg Aͤdurer+\n\nDAs fuͤrbitt der vßerwelten heyligen im himmel\nwil ich bewaͤren vß dem Propheten Hieremia\nam xv.",
         "b": "die werden Gott zů jrer zyt bitten. Gilg Murer. DAs ſfürbit der Vſſerwelten Heiligen im Him=\nmel wil ich bewåren vß dem Propheten Hieremia\nam 15.",
-        "similarity": 0.4681
+        "similarity": 0.4681,
+        "semantic": 0.8812,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,13 +84,17 @@
         "op": "match",
         "a": "da er spricht. Wann Moyses vnd Sa=\nmuel vor mir stuͤnden/so ist min seel nit gegen dem volck\nHie ist offenbar/das der Prophet Jeremias hat geredt\nvon den abgestornen im himel/dann zuͤ der zyt/sind sy\nlangest gestorben gesin.",
         "b": "daß der Prophet Jeremias hat geredt von den\nAbgeſtorbnen im Himmel/ dann zů der zyt/ ſind ſy langeſt\ngeſtorben geſin.",
-        "similarity": 0.5397
+        "similarity": 0.5397,
+        "semantic": 0.7479,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Zwingly\n\nIch frag uͤch/ob Moyses vnnd Samuel/vor der zuͤ=\nkunfft Christi/im himel gewaͤsen syen/oder nit. Ddd iij",
         "b": "Zwingly. JCh frag ůch/ ob Moſes vnnd Samuel / vor der Zů=\nkunfft Chriſti/ im Himmel gewäſen ſyen/ oder nit. Gilg Murer.",
-        "similarity": 0.6364
+        "similarity": 0.6364,
+        "semantic": 0.8255,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -89,7 +102,11 @@
         "b": "Sprich ich nein. Zwingly. So iſt ůwer Argument nüt. Gilg",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7972,
+    "reworded": 2,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4987,

@@ -39,25 +39,34 @@
         "op": "only_a",
         "a": "Das iſt nun das Exempel/damit Chriſtus vns\nlert: So yemant ſin brůder beleydiget/ſo verſchuldet er\nſich gegen jm.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7464,
+        "semantic_match": "Ermant vns der Herr / das\nwir vns vereinbaren mit vnſerem naͤchſten/ da=\nmit das wir nit den ewigen zorn vnd ſtraff ver=\nfallen.",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Darum ſol er ſyß anſeren/das er ſich mit\njm verſůne/damit die beleydigung nit werde bracht für\nden obreſten richter/Gott/vñ der ſelb dañ ſpreche:",
         "b": "Die ſibend\n\nſich gegen jm. Darumb ſol er flyß ankeren / das\ner ſich mit jm verſuͤne/ damit die beleydigũg nit\nwerde bracht fuͤr den obreſten Richter /",
-        "similarity": 0.5357
+        "similarity": 0.5357,
+        "semantic": 0.6392,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Du\nſchalckhafftiger knecht/ich hab dir alle din ſchuld nachge\nlaſſen/diewyl du mich batteſt: ſolteſtu dich dañ nit ouch\nerbarmen über dinen mitknecht/wie ich mich din erbar=\nmet hab.",
         "b": "Gott/ vnnd der ſelb deñ ſpreche : Du ſchalckhafftiger\nknecht/ ich hab dir alle din ſchuld nachgelaſſen/ diewyl du mich batteſt:ſolteſtu dich dañ nit ouch\nerbarmen uͤber dinen mitknecht/wie ich mich din\nerbarmet hab:",
-        "similarity": 0.7761
+        "similarity": 0.7761,
+        "semantic": 0.8563,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Vnnd demnach der richter dich werffe in den\newigen kercker. Alſo mitt der glychnuß des Rechten/da\nder ſchuldner erſorgen můß ewige gfencknuß/Ermant\nvns der Herr/das wir vnns vereinbaren/mit vnſerem\nnächſten/damit das wir nit den ewigen zorn vnnd ſtraff\nverfallen.",
         "b": "Vnnd demnach der Richter dich\nwerffe in den ewigen kercker. Alſo mit der glych\nnus des rechten/da der ſchuldner beſorgen muß\newige gefencknus.",
-        "similarity": 0.5588
+        "similarity": 0.5588,
+        "semantic": 0.8033,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,19 +78,26 @@
         "op": "match",
         "a": "Vnd wirt hie gäntz nüt geredt vom fäghür/ ſunders vil mer darwider. Bůchſtab\n[W] Je gnůg es dargethan ſyge/das kein fäghür\nſye/beuilch ichs dem Läſer/frag herrn Berch=\ntolden hie by/Ob diſer ſpruch (Matthei/am v.",
         "b": "Vnd wirt hie gantz nuͤt geredt vom faͤg=\nfhuͤr/ſonders vil mer darwider. Buͦchſtab. Wie gnuͤg es dargethon ſye/dz kein' faͤgfhuͤr\nſye/beuilch ichs dem laͤſer .",
-        "similarity": 0.4054
+        "similarity": 0.4054,
+        "semantic": 0.8653,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "allein von den läbendigen ſag/oder von den todten: Berchtoldus. [A] Llein võ den läbenden/wie klar ermeſſen wirt/ Luce am vij.",
         "b": "Frag herr Berchtol=\nden hieby/ob diſer ſpruch Matth.v.allein vonn\nden laͤbendigen ſag/oder von den todten:",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.6755,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Capitel. So du aber mit dinem\nwiderſächer/für den fürſten gaaſt.ꝛc. Jr hůch\nler. ꝛc. *Marginal note:*\nVñ ward der\nText verleſen. *Bottom of page:*\nBůchſtab",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6169,
+        "semantic_match": "Dann wie er hie ſagt\nvon\n\n## Marginalien\nVnd ward\nder Text\nverlaͤſen.",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -101,7 +117,11 @@
         "b": "Dann wie er hie ſagt\nvon\n\n## Marginalien\nVnd ward\nder Text\nverlaͤſen.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7433,
+    "reworded": 4,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5447,

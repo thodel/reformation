@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "Seite 78r\nDie ſibend\n\nNütdesterminder müßt ſin ſünd bezalt vnnd gestrafft\nwerden/dann ſin Sun müßt darumb sterben/ vmb die\nſünd des vatters.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6102,
+        "semantic_match": "Das geſchicht nit für die Låbendigen: dann die-\nwyl der Menſch låbt/ ſol man nit an jm verzwiflen/ da-\nrumb iſt geredt von den Todten:",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Als der Prophet ſprach: Der Herr\nhat din ſünd/vff ein andren gelegt. Da ſechē jr/dʒ Gott\nbywil/der ſchuld nachlaßt/vn dannocht ein straff nach=\nhin volget.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7229,
+        "semantic_match": "Dann als wir habend/ in der er-\nſten Epiſtel Johannis am 5. Capitel: Welcher weißt ſynen\nBrůder ſünden/ ein Sünd nit zum Tod/",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -51,25 +57,33 @@
         "op": "match",
         "a": "zc. Wiewol Chriſtus gnůg für vnns gethan\nhat/für die ſünd der ganʒen welt/Doch werdend etlich\nverdāpt.zc. Er hat ouch die erbsünd hingenomen/noch\nmüß man die kinder touffen/oder ſy wurdend nit ſälig/",
         "b": "ꝛc. Er hat ouch die Erbſünd hingenommen/ noch můß man die Kinder Touffen/ oder ſy wurden nit\nſälig/ ſo ſy keinen Touff empfiengen.",
-        "similarity": 0.5085
+        "similarity": 0.5085,
+        "semantic": 0.3519,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "ſo ſy keinen touff empfiengē. Der hat all kranckheyt vñ\nſchmärʒen hingenommen/nütdesterminder werdē wir\nkranck/vnd müſſen den tod lyden:",
         "b": "Der hat all Kranck-\nheit vnd ſchmertzen hingenommen/ nütdeſterminder wer-\nden wir kranck/ vnd můſſen den Tod lyden: vnd wiewol er\ngnůg gethan hat/",
-        "similarity": 0.5333
+        "similarity": 0.5333,
+        "semantic": 0.8381,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd wiewol er gnůg\ngethan hat/durch ſin barmherʒigkeit/ſo erfordret doch\nſin gerechtigkeit/das wir thůgent/als vil an vns iſt.",
         "b": "durch ſyn Barmhertzigkeit/ ſo erfordret\ndoch ſyn Gerechtigkeit/ daß wir thůgent/ als vil an vns iſt. Bezůget der Prophet Johel.",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.7832,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Be\nzůget der Prophet Johel. ij. capit. Keren üch zů mir in\nganʒem üwerem herʒen/in faſten/in weynen/in trurē. Vß dem volget klar/das in der penitenʒ",
         "b": "2. Capit. Keren üch zů mir\nin gantzem üwerem Hertzen/ in faſten/ in weynen/ in tru-\nren. Vß dem volget klar/",
-        "similarity": 0.64
+        "similarity": 0.64,
+        "semantic": 0.7525,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -119,7 +133,11 @@
         "b": "noch in der\nzůkünfftigen. So nun der Text lutet/ das ein Sünd in der\nQQ q",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6765,
+    "reworded": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3792,

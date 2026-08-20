@@ -39,31 +39,41 @@
         "op": "match",
         "a": "Seite [X]\nDie hierdt\nder schlußreden) das sy vns mit gschrifft bybringind die\nwort des Nachtmals/ ein anderen verstannd zehaben.",
         "b": "Nemmend\nund Eſſend / das iſt myn Lyb) mitgetheilt. Hieruff\nerwarten wir (lut der Schlußreden) daß ſy uns mit\nGeſchrifft bybringind /",
-        "similarity": 0.3
+        "similarity": 0.3,
+        "semantic": 0.4038,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Es haben sich bißhar die Sententiarÿ vil bekümbert/ von der geburt vnnd empfencknuß Christi/ wie er vom\nheyligen geyst empfangen/",
         "b": "die Wort deß Nachtmahls\neinen andern Verſtand zehaben. Es haben ſich biß-\nhar die Sententiarij vil bekümmert von der Geburt\nund Empfäncknus Chriſti /",
-        "similarity": 0.4186
+        "similarity": 0.4186,
+        "semantic": 0.6846,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "im lyb der Jungffrouw (Ma\nrie/ wie er gebozen vngeoffneten schlossen/ vnnd wie ein\nWüter ein Jungffrouw sye. Samit alle ynryssende\nspitzfündigkeit vermitten blibind/",
         "b": "wie er vom heiligen Geiſt\nempfangen im Lyb der Jungfrauen Marie / wie er ge-\nboren ungeöffneten Schloſſen / und wie ein Můter ein\nJungfrau ſeye.",
-        "similarity": 0.4167
+        "similarity": 0.4167,
+        "semantic": 0.5186,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "sind wir vff die für=\ngetragnen sprüch nochmals nit anders bericht/ dann die\neinualtigen wort einualtigklich zeuerstan. Ecolampadius. DJe beschlußred ist durch min herrn die Respon\ndenten/",
         "b": "Damit alle ynryſſende Spitzfündig-\nkeit vermitten blybind / ſind wir uff die fürgetragenen\nSprüch nochmahls nicht anders berichtet / dann die ein-\nfaltigen Wort einfaltiglich zeverſtahn.",
-        "similarity": 0.3529
+        "similarity": 0.3529,
+        "semantic": 0.6917,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "für sich selbs etwas erlüteret wordenn/ das mag man wol anfechten/ vñ ist nit wie vil=\nlicht vß hern Benedict ynred verstanden mag\nwerden/",
         "b": "Ecolampadius. DIE Beſchlußred iſt durch myne Herren die Re-\nſpondenten / für ſich ſelbs etwas erlütert worden / das mag man wol anfechten /",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.5908,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -81,19 +91,25 @@
         "op": "match",
         "a": "in der j. Epi. Da wir gesprochen hand/ es söll\nbrütschafft werden/ gemeinsame od gemeinschafft/ tringt\nvnser Brüder Althamer daruff/",
         "b": "der Ynred halben uß dem 10. Cap. zun Corinthern / in der erſten Epiſt. Da wir geſprochen\nhand / es ſoll vertütſchet werden Gemeinſame oder Ge-\nmeinſchafft /",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.6314,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "es söll ein Vßteilung ver\nstanden werden: wil sich behelffendes Griechische wört=\nly /κοινωνία. Nun werden wir vns ouch lassen vff all östen\ndigen der sprache/",
         "b": "dringt unſer Brüder Althamer daruff / es\nſöll ein Ußtheilung verſtanden werden: wil ſich behelffen\ndeß Griechiſchen Wörtli / Κοινωνία. Nun werden wir uns\nauch laſſen uff all Verſtändigen der Sprachen /",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.7755,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das wie es in Latin vñ Griechischen\nstadt/ vff im trag ein gemeinschafft vñ gesellschafft/ vñ\nnit ein vßteylung: man säch das wörtly vom Brunnen\nhar an/",
         "b": "daß\nwie es in Latein und Griechiſchen ſtaht / uff im trag\n                                                                ein",
-        "similarity": 0.4103
+        "similarity": 0.4103,
+        "semantic": 0.7882,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -105,9 +121,16 @@
         "op": "only_a",
         "a": "als ge\nmein/ od κοινωνός ein mitgsell/ so gemeinschafft mit im hat. Die sprüch aber durch Althamer ynzogen/ vom wörtly",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6601,
+        "semantic_match": "und iſt nit / wie vielleicht\nuß Herrn Benedict Ynred verſtanden mag werden / daß wir uff unſer Vernunfft bauten / und Spitzfün-\ndigkeit uns beſlyſſen /",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.6383,
+    "reworded": 5,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4958,

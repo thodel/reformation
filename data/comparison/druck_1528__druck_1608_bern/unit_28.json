@@ -33,7 +33,9 @@
         "op": "match",
         "a": "fo zwyfellt der einfaltig nit onbillich/das villicht nit ein\nvntrüw da verborgen sye. Südem ersten/vmb der an=\nderen eygenschafftlichen übungen willen/die das houpt\nhatt über die glider des lybs/das es die andren glider wy\nset vnd regierr/in den ossern wercken.",
         "b": "Schlußred. 13\nlich / das villicht nit ein vntrüw da verborgen ſye. Zů dem\nerſten / vmb der anderen eigenſchafftlichen übungen willen/",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.7342,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -45,31 +47,41 @@
         "op": "match",
         "a": "Südemandren/ das die göttlich gschriffranzeigt/das Christus ouch har\ngesetzet einen Sratthalter der gemeinen kirchen/hie off\nerdenn/des gewalt/ouch in dem himel krafft hat.",
         "b": "Zů\ndem andrẽ/daß die Göttlich Gſchrifft anzeigt/das Chriſtus\nouch hat geſetzet einen Statthalter der gemeinen Kilchen/ hie vff Erden /",
-        "similarity": 0.4255
+        "similarity": 0.4255,
+        "semantic": 0.6893,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Von\ndem hand wir Johañis am erste capitel/Das Andreas\nfinen brüder Simonem zü dem Herren Jesu fürt/vnd\nfprach:",
         "b": "deß gewalt ouch in dem Himmel krafft hat. Von dem hand wir Johannis am erſten Capitel/Das An-\ndreas ſinen Brüder Simonem zů dem Herren Jeſu fürt/",
-        "similarity": 0.5957
+        "similarity": 0.5957,
+        "semantic": 0.8666,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wir hand Messiam funden. Do der Herr Jez\nsus Symonem ansach/do sprach er: Su bist Symo ein\nsun Johannis/du wirst hinfür heyssen Cephas/d3 wirt\nvsgeleyt/Petrus.",
         "b": "vñ ſprach:Wir hand den Meſſiam fundẽ. Do der Herr Je-\nſus Simonem anſach / do ſprach er : Du biſt Simon ein\nSun Johannis /",
-        "similarity": 0.5769
+        "similarity": 0.5769,
+        "semantic": 0.7974,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Cephas ist Griechisch/vnd bedüt ein\nhoupt. Item Matthei am vj. capit. Su bist Petrus/ vnd off den velsen wird ich buwen min Kirch:",
         "b": "du wirſt hinfür heiſſen Cephas / das\nwirt vßgeleit/ Petrus. Cephas iſt Gricchiſch/vnnd bedüt\nein Houpt. Item Matth.am 6.Cap.Du biſt Petrus/",
-        "similarity": 0.375
+        "similarity": 0.375,
+        "semantic": 0.7844,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Und die\nporten der helle werdend dir nit mogen widerston: Vnd\ndir wird ich geben die Schlüssel des Rychs der himlen/",
         "b": "vnd\nvff den Velfen wird ich buwen min Kilch: Vnnd die Porten\nder Helle werdend dir nit mögen widerſton: Vnnd dir wird\nich geben die Schlüſſel deß Rychs der Himmlen/vnd alles\ndas du wirſt binden vffErden/das wirt gebunden ſin in den\nHimmlen:vnd was du entbindeſt vff Erden /",
-        "similarity": 0.507
+        "similarity": 0.507,
+        "semantic": 0.7525,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -81,7 +93,9 @@
         "op": "match",
         "a": "das wirt entbunden sin in den himmlen. Berchtoldus. Kommen fürgeliebten Christen/der Bychtuar\nter hat in anfang finer red/zum güten theyl vn=\nser Schlußred/mit vier sprüchen der geschrifft\nBestätiger/des ich im grossen danck weyß/wie Christus\ndes ynfluß halb/syedas houpt der Christenlichenn ge=\nmeynd/doch so manglet jm/das wir sprechend/er sy ein\neynig houpt. Siewylin dheinem spruch durch in an30=\ngen/von",
         "b": "das wirt ent-\nbunden ſin in den Himmlen. Berchtoldus. Frommen fürgeliebten Chriſten/der Bychtvatter hat\nim anfang ſiner red/zum gůten theil vnſer Schluß-\nred/mit vier ſprüchen der Geſchrifft beſtåtiget/deß ich\njm groſſen danck weiß /",
-        "similarity": 0.4571
+        "similarity": 0.4571,
+        "semantic": 0.7744,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -89,7 +103,11 @@
         "b": "wie Chriſtus deß ynfluß halb / ſye\ndas Houpt der Chriſtenlichen gemeind / doch ſo manglet\nB iij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7713,
+    "reworded": 4,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6384,

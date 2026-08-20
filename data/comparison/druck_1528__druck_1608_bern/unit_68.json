@@ -63,25 +63,33 @@
         "op": "match",
         "a": "Seite IVXX\nDie erſt\nſchlußred zů beueſtigung der minen/ alſo darthůn. So dick vnd vil/vnd ſich zweyung vnd zwytracht\nzůtreyt in vnſerem waren vnbefleckte͂ glouben/",
         "b": "So dick vnd vil / vnd ſich zweyung vnd zwytracht zuͦ=\ntreit in vnſerem waren vnbefleckten Glouben / iſt von noͤ=\nten /",
-        "similarity": 0.5652
+        "similarity": 0.5652,
+        "semantic": 0.7269,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "iſt von\nnoͤten/das da ein richter funden werd/ der den zuckende͂\nwolff / durch ſinen gewallt hinweg trybe/ vnd abſůnde=\nre von der haͤrd des Herren /",
         "b": "das da ein Richter funden werd / der den zuckenden\nWolff / durch ſinen gewalt hinweg trybe / vnnd abſuͤndere\nvon der Haͤrd deß Herren /",
-        "similarity": 0.6923
+        "similarity": 0.6923,
+        "semantic": 0.8278,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd anzeyg wellicher ein\nhirt/ oder zuckender wolff ſye. Diß iſt aber die Chriſte=\nlich Kilchen/als Matthei am xviij.ca.geſchriben ſtadt:",
         "b": "vnnd anzeig wellicher ein Hirt / oder zuckender Wolff ſye. Diß iſt aber die Chriſtenlich\nKilchen / als Matth. am 18. cap.",
-        "similarity": 0.6512
+        "similarity": 0.6512,
+        "semantic": 0.6551,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Welcher die Kilch nit hoͤrt/der ſol dir ſin als ein Heid/ vnd ein offen ſůnder. Doctor Wolffgang Fabricius Ca=\npito/Predicant zů Straßburg.",
         "b": "geſchriben ſtadt: Welcher\ndie Kilch nit hoͤrt / der ſoll dir ſin als ein Heid / vnnd ein\noffnen Suͤnder.",
-        "similarity": 0.5778
+        "similarity": 0.5778,
+        "semantic": 0.7364,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -93,33 +101,51 @@
         "op": "match",
         "a": "Komen lieben Chriſten/der lenge nach/hat So\ncrotz Cůnrad Treiger Prouincial/inhalt/vnnd\nmeinung ſins fuͤrnemens anzeygt/ vnd in dem\nden namen der Kilchen zweyſpaltig genomen/",
         "b": "inhalt / vnnd mei=\nnung ſins fuͤrnemens angezeigt / vnnd in dem den na=\nmen",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.7276,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "vnd vß\nweltlicher můtmaſung vrſach anzeygt/warumb die vſ=\nferlich gemeyn verſamlung/ in zweyſpeltigen articklen\ndes gloubens/ſprechen ſol/dann ye ein richter ſin můß.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8171,
+        "semantic_match": "vnnd Kaͤtzer\nabſuͤndert / vnd by jren / die ein Sul vnnd Grundueſte iſt\nder Warheit / der hoͤchſt gewalt in ſachen deß Gloubens ze=\nhandlen /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Off das nun zum handel/am fuͤrderlichſten griffen wer\nde/wellen wir das erſt/die heylig Chriſtenlich Kilch/de\nro einig houpt Chriſtus iſt/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8717,
+        "semantic_match": "welcher jr\nſtimm nit gehoͤrt. Die ander / darumb ſy dann von der Chriſtenlichen\nhaͤrd / als zertrenner Chriſtenlicher einigkeit /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "harfuͤr nemen vnnd erklaͤ=\nren/Namlich alſo/das die ſelbig iſt die verſamlung im\ngeyſt/aller gloͤůbigen/als glider eines lybs.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6099,
+        "semantic_match": "vnnd Kaͤtzer\nabſuͤndert / vnd by jren / die ein Sul vnnd Grundueſte iſt\nder Warheit / der hoͤchſt gewalt in ſachen deß Gloubens ze=\nhandlen /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Weliche vo͂\njrem houpt Chriſto/vnſerm herren/laͤbendig gemacht/ vnd allein geregiert wirt. Sarum dañ Paulus ſpricht: Der geyſtlich mentſch wirt von nyemants gerichtet/er\nrichtet aber alle ding. Deßhalb/diewyl die geſchrifft ge\nwůßlich",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7704,
+        "semantic_match": "funden wirt / vnnd diewil aber beid jetz genannt\nSchlußred ſoͤllichs verneynnen / vnd allein das einig Wort\nGottes in haͤndlen deß Gloubens /",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7492,
+    "reworded": 5,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3941,

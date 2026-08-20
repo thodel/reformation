@@ -45,25 +45,33 @@
         "op": "match",
         "a": "Seite CXLIX\nSchlußred. CXLIX\ngern hatt dargereycht/ welches er darnach am Crütz nit\nvergieſſung ſyns blůts hatt vollendet. Aechster Ulrich zwingly.",
         "b": "erklärt Mattheus vnd Marcus/ das das\nſo der Herr das Teſtament geheiſſen / den Jüngeren\nhat dargereicht / welches er darnach am Crütz mit ver=\ngieſſung ſyns Blůts hat vollendet.",
-        "similarity": 0.3265
+        "similarity": 0.3265,
+        "semantic": 0.2398,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "DIß iſt nit ein antwurt vff das/ dz wir eruorſchẽ/ wir wüſſend wol was Mattheus vnd Marcus\nſaged: wir begeren an ſy/",
         "b": "Meiſter Vlrich Zwingly. Diß iſt nit ein antwurt vff das / das wir erforſchen/ wir wüſſend wol was Mattheus vnnd Marcus\nſagend :",
-        "similarity": 0.6512
+        "similarity": 0.6512,
+        "semantic": 0.8641,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "ob ſy erkennind/ das die\nvergeblich nachlaſſung der ſünd das Teſtament ſye. Pfarrer von ſant Gallen. MInes verſtands iſt vor gnůg geantwurt/",
         "b": "wir begeren an ſy/ ob ſy erkennind/ das die\nvergeblich nachlaſſung der Sünd das Teſtament ſye. Pfarrer von Sant Gallen.",
-        "similarity": 0.7619
+        "similarity": 0.7619,
+        "semantic": 0.9121,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das das\nnüw Teſtament ſye verzychung der ſünd. Zwingly. NUn frag ich ſy/ ob zwey Nüwe teſtament ſyend oder\nnun eins.",
         "b": "MInes verſtands/ iſt vor gnůg geantwurt/ das das nüw\nTeſtament ſye verzychung der Sünd. Zwingly. NVn frag ich ſy / ob zwey Nüwe Teſtament ſyend oder\nnun eins. Pfarrer",
-        "similarity": 0.8163
+        "similarity": 0.8163,
+        "semantic": 0.819,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -75,7 +83,10 @@
         "op": "only_a",
         "a": "Pfarrer von ſant Gallen. ANtwurt ich/ kein tranck vermag das Nüw teſta=\nment ſin/ Aber das blůt Chriſti wie er geredt hatt\ndurch Mattheum.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.789,
+        "semantic_match": "ſo muß daß wort Teſtament hie\nnit eigentlichen genommen werden. Pfarrer von Sant Gallen. Zvßlegung der worten/ ſo Herr Meiſter Vlrich für=\ngetragen/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -87,9 +98,16 @@
         "op": "only_a",
         "a": "kein tranck mag das Nüw\nteſtament ſin/ das blůt Chriſti iſt ein tranck (alß\npp",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6998,
+        "semantic_match": "ſo muß daß wort Teſtament hie\nnit eigentlichen genommen werden. Pfarrer von Sant Gallen. Zvßlegung der worten/ ſo Herr Meiſter Vlrich für=\ngetragen/",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7206,
+    "reworded": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4581,

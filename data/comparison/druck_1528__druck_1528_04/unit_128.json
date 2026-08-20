@@ -45,13 +45,17 @@
         "op": "match",
         "a": "Seite IVII\nDie erst\nChristus hart hirten / vnd nit allein ein hirten / sonders\nvil ingesetzt / zuͦn Ephesern am iiij.",
         "b": "mag nit beſton: dañ ſchaͤffly weyden/ ein hirt ſin\ngepuͤrt allen predigeren: Dañ Chriſtus hatt hir-\nten/vnd nit allein ein hirtẽ/ſonders vil yngeſetzt\nzun Epheſ.iiij.cap.",
-        "similarity": 0.3137
+        "similarity": 0.3137,
+        "semantic": 0.7351,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Cap. In den geschich\nten der Apostlen am xx. Cap. In der ersten Epistel Pē=\ntri am v. Cap. Darum hand jr ein gschrifft wider vn̄ser\nschlußred /",
         "b": "In den geſchichten der Apo\nſtlen am xx/cap. In der erſten Epiſtel Petri am\nv.cap. Darum̃ hand jr ein gſchrifft wider vnſer\nſchlußred/ſo bringend ſy.",
-        "similarity": 0.7143
+        "similarity": 0.7143,
+        "semantic": 0.7145,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -63,37 +67,49 @@
         "op": "match",
         "a": "vnd das in solcher gestalt das Pe\ntro vß söllicher vrsach vnd den andern allen verheyssen\nhabe / das Petrus jn veriehen habe /",
         "b": "Meyſter Jacob Edlebach. Als herr Berchtold ynzuͤcht zuͤbewaͤren/Chri\nſtum nit allein Petro/ſonders allen die ſchluͤſſel\nverheyſſen haben/vnd das in ſoͤlicher geſtalt/da\nPetro vß ſoͤlicher vrſach vnd den andern allẽ ver\nheyſſen habe/das Petrus jn veriehen habe /",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.8311,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "den sun sin des lå=\nbendigen gotts / das die andern nun all gloubt habē / wil\ndas bewåren Johannis am vj.",
         "b": "den\nſun ſin deß laͤbendigen Gottes/ das die anderen\nnun all gloubt haben/ wil das bewaͤren / Joan. vj.capit.",
-        "similarity": 0.6341
+        "similarity": 0.6341,
+        "semantic": 0.7972,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Cap. Da Petrus in jr al\nler namen / sprach / zů wem werden wir gon / du hast die\nwort des låbens /",
         "b": "da Petrus in jr aller namen ſprach: Zuͦ\nwem werden wir gon/ du haſt die wort des laͤ-\nbens/welches ort Joan.vj.",
-        "similarity": 0.7442
+        "similarity": 0.7442,
+        "semantic": 0.8517,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "welches ort Joan. am vj. nit mag pro=\nbieren / noch bewåren / das an disem ort / sy all ein sölchen\nvesten gloubē haben gehan /",
         "b": "nit mag probieren/ noch bewaͤrẽ/das an diſem ort/ſy all ein ſoͤlichẽ\nveſten glouben haben gehept/ diewyl doch der\nJudas kein glouben hatt/als Chriſtus anzeygt/",
-        "similarity": 0.4615
+        "similarity": 0.4615,
+        "semantic": 0.6272,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "diewil doch der Judas sein\nglouben hatt / als Christus anzeygt Johannis am vj. Cap. Auch am selben ort / einer vß ůch ist der tüffel /",
         "b": "Joannis vj.cap. Ouch am ſelben ort: Einer vß\nuͤch iſt der tuͤffel/vnd ob es ſchon alſo waͤre /",
-        "similarity": 0.3913
+        "similarity": 0.3913,
+        "semantic": 0.6017,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnd\nob es schon also were / wie herr Berchtold seyt / so stat ge\nschrifft vffrecht. Er hatt gesprochen du bist Petrus dir\nwird ich geben die schlüssel des richs /",
         "b": "wie\nherr Berchtold ſagt / ſo ſtadt gſchrifft vfrecht. Er hatt geſprochen: Du biſt Petrus / dir wird\ni",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.7927,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -111,9 +127,16 @@
         "op": "only_a",
         "a": "so er die schlüssel allein hette / so wurd\ner allein müssen ein hirt sin / vermag das die gschrifft nit\nwil ich erzeygen Matthei am xvj. Capitel. Diewyl vñ\nhett",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7066,
+        "semantic_match": "das er aber vermeint Petro\nſyend in ſonderheyt die ſchluͤſſel geleyſtet/mit de\nnen worten da er ſpricht: Weyd mine ſchaͤffly/",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7398,
+    "reworded": 5,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5064,

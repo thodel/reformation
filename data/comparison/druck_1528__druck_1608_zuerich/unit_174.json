@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite XIXII\n\nDie ander\nButzer. [Initial S] S ist noch nüt wid vnſere ſchlußred yngebracht\ndan die ſatzung der Apoſtlen /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7924,
+        "semantic_match": "Schlußred. 173\n\nhalten / vnnd söllich satzungen mit vßgetruckten worten / in\nBiblischer Schrifft nit angezeigt / vnd aber die / so in der zyt\nder Apostlen geläbt hand /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -45,7 +48,10 @@
         "op": "only_a",
         "a": "So verr iſt ſy ouch im\ngebott gottes gegruͤndet gewaͤſen. Buͦchſtab. [Initial H] Err Butzer/jr wolten gern min ynzug vmbſtür\ntzen/aber one volkomne ſchrifft:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6406,
+        "semantic_match": "vnnd mir nit Ge-\nschrifft bracht wirt / was die selben satzungen syen / vnd aber sömlich puncten durch mich anzogen / vß den sa-\ntzungen der Apostlen kommen sin /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,25 +63,33 @@
         "op": "match",
         "a": "dan diewyl ſan=\nctus Paulus/an der ij. zuͦ den Theſſa. ij. deßgli=\nchen am iij. ouch anzeigt von diſen ſatzungẽ zehalten/oñ\nſy ruͤmpt/das ſy halten/vnd ſoͤlich ſatzungen mit vß=\ngetruckten wortẽ/in Bibliſcher ſchrifft nit anzeigt/vnd\naber die/ſo in der zyt der Apoſtlen gelaͤbt hand/vnd bald\ndarnach anzeigung vñ kundſchafft geben/das diß die ſa\ntzungenn der Apoſtlen ſyen/namlich gegen der Sonnen\nVffgang baͤtten:",
         "b": "vnd bald darnach anzeigung vnd\nkundschafft geben / das diß die satzungen der Apostlen syen / namlich gegen der Sonnen Vffgang bätten :",
-        "similarity": 0.3542
+        "similarity": 0.3542,
+        "semantic": 0.5793,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Von dem Kindertouff/wie man darby\nſoͤlle fragen vnd antwurten: Den Sunntag nit vff den\nSabbath/nach Juͤdiſcher art haltẽ:",
         "b": "Von dem\nKindertouff / wie man darby sölle fragen vnd antwurten: Den Sontag nit vff den Sabbath / nach Jüdischer art\nhalten:",
-        "similarity": 0.7619
+        "similarity": 0.7619,
+        "semantic": 0.8822,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Die viertzig taͤgig\nFaſten: ouch die gebaͤtt fuͤr die todten/vnd derglychen. Butzer. *Vñ hat hiemit*\n*ſoͤlichen Text*\n*verlaͤſen.*\n\n[Initial M] MErch alle gſchrifft/wider alles yngezogens/iſt\nzun Coloſſenſer ij.",
         "b": "Die viertzig tägig Fasten : ouch die Gebätt für die\nTodten / vnd derglychen. Butzer. Vnsere hälle Gschrifft / wider alles yngezogens / ist zun\nColossens.",
-        "similarity": 0.5517
+        "similarity": 0.5517,
+        "semantic": 0.7917,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "So laßt nuͤ niemar.zc. Jtem\ndas end des gſatzes iſt die liebe/was ſich vff die\nzuͤcht/",
         "b": "2. So laßt nun niemant / etc. Item das end\ndeß gsatztes ist die liebe / was sich vff die zücht / vß dero\nflüßt /",
-        "similarity": 0.5366
+        "similarity": 0.5366,
+        "semantic": 0.7593,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -107,7 +121,11 @@
         "b": "Y\tiij\n\n## Marginalien\nBů hat\nhiemit\nsölichen\ntext ver-\nläsen.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7409,
+    "reworded": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3398,

@@ -39,7 +39,9 @@
         "op": "match",
         "a": "Seite XI\n\nX.I Die erſt\n\niſt vns zů leer vñd vnderwyſuñg geſchriben. Jtem das\ngeredt wirt ſo einer prediget/",
         "b": "ouch\nPaulus zun Roͤmern 15.cap.ſpricht: Alles das da geſchri-\nben / iſt vns zuͦ leer vnderwyſung geſchriben. Item das ge-\nredt Wort ſo einer prediget/vnd den andern vnderwißt vnd\nleeret /",
-        "similarity": 0.3774
+        "similarity": 0.3774,
+        "semantic": 0.6419,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -51,49 +53,66 @@
         "op": "match",
         "a": "ſo nit ge=\nſchriben ſtat/ wyter findt man in der gſchrifft ein heim=\nlich verkündt wort Gottes/ von gott ingeſprochen vñd\ngelert Pſal.",
         "b": "als die Apoſtel vnd Predicanten / zuͦ dicker mal re-\nden / von vnderwyſung vnnd leer willen / ſo nit geſchriben\nſtat / wyter findt man in der Gſchrifft ein heimlich verkuͤnd\nWort Gottes /",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.6809,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "am lxxviij. Jch will loſen/ was gott in mir\nrede. Jtem Apocalipſis am iij. Cap. Jch ſtand zů diner\nthür vñd kłopffen an/",
         "b": "von Gott ingeſprochen vnd gelert Pſal. am\n84. Jch wil loſen / was Gott in mir rede. Item Apocalipſis\nam 3.cap.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.5998,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "ſpricht gott/ laſt man mich yn ſo\nkom ich hinyñ/ vñnd nůß das nachtmal mit den ſelben/ hieuon ſpricht ouch Paulus in der anderen Epiſtel:",
         "b": "Jch ſtand zuͦ diner thuͤr vnd klopffen an / ſpricht\nGott / laßt man mich yn / ſo kom ich hinyn / vnnd nuͤß das\nnachtmal mit den ſelben /",
-        "similarity": 0.5769
+        "similarity": 0.5769,
+        "semantic": 0.7498,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "zůñ\nCorinthern am letſten Cap. Wend jr ein erfarung ſůchẽ\ndes ſin mir redt/ Chriſtus. Nun frag ich min herren die\npredicanten/",
         "b": "hieuon ſpricht ouch Paulus in\nder anderen Epiſtel zun Corinthern am letzten cap. Wend\nir ein erfarung ſuͤchen deß der in mir redt /",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.7339,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "was jr meynung ſye in jren gemelten arti=\nkelen/ ob die Kilch geboren werde/ vß denen gottes wor=\nten/ alleſampt/",
         "b": "Chriſtus. Nun\nfrag ich min Herren die Predicanten / was ir meinung ſye\nin jren gemelten Articklen / ob die Kilch geboren werde vß\ndenen Gottes worten alleſampt /",
-        "similarity": 0.6522
+        "similarity": 0.6522,
+        "semantic": 0.4931,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "oder vß einem beſonder. Berchtoldus. [M]Eyſter Niclaus hat ingefürt ein lange red dar\nuff ein kurtze antwurt. Die Kilch gottes iſt ge\nboren vß dem wort Gottes das Gott läbendig\nmacht/",
         "b": "oder vß einem beſonder. Berchtoldus. MEiſter Niclaus hat ingefuͤrt ein lange red daruff ein\nkurtze antwurt. Die Kilch Gottes iſt geboren vß\ndem Wort Gottes /",
-        "similarity": 0.7241
+        "similarity": 0.7241,
+        "semantic": 0.9165,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "ja er redt in vnſere hertzen/ welches in\nder warheit kein anders iſt/ dañ dz vſſerlich geprediget/ oder die gſchrifft in ir begriffe Jacobi am erſten cap.",
         "b": "das Gott laͤbendig macht / ja er\nredt in vnſere Hertzen / welches in der Warheit kein anders\niſt / dann das vſſerlich geprediget /",
-        "similarity": 0.6122
+        "similarity": 0.6122,
+        "semantic": 0.5462,
+        "reading": "check"
       },
       {
         "op": "only_a",
         "a": "vñd\nPetri in der erſten Epiſtel. j. Cap. Senger. [J]Tzt wird ich bewegt vß der geſchrifft/ das eint\nChriſten menſchen etwas mer zehalten vñd zů\nglouben ſig/ deñ in der Bibliſchẽ gſchrifft heyrer\nvßtrucke",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.658,
+        "semantic_match": "oder die Gſchrifft in\njr begrifft: Jacobi am erſten cap.vnd Petri in\nder erſten Epiſtel 1.cap. R ij",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -101,7 +120,11 @@
         "b": "oder die Gſchrifft in\njr begrifft: Jacobi am erſten cap.vnd Petri in\nder erſten Epiſtel 1.cap. R ij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6689,
+    "reworded": 4,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6881,

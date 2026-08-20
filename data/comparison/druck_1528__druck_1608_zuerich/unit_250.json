@@ -51,25 +51,33 @@
         "op": "match",
         "a": "Seite [IIVXO]\nDie vierdt\nLuca: Das iſt min lyb/der für üch geben wirt. Der zů-\nſatz by dem Euangeliſten/",
         "b": "Das iſt min Lyb/ der fuͤr uͤch geben wirt. Der Zuͦſatz by dem Euangeliſten/ gibt einem jeden der da gern ein Bericht empfachen wil/",
-        "similarity": 0.5532
+        "similarity": 0.5532,
+        "semantic": 0.6315,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "gibt einem yeden der da gern\nein bericht empfachen wil/ ein klaren verſtand/ vñ fürr\ndahin/das wir dz Brot für ein Sacramēt erkennē müſ-\nſen/des lybs Chriſti/in tod für vns geben.",
         "b": "ein klaren verſtand/ vnd fuͤrt dahin/ daß wir das Brot fuͤr\nein Sacrament erkennen muͤſſen/ deß Lybs Chriſti/",
-        "similarity": 0.3273
+        "similarity": 0.3273,
+        "semantic": 0.7821,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Soch wil ich\nhoͤren/vff welchem wort Matthei/oder Luce/min herr\nPfarrer hafften well/vnd ſich daruff laſſen well.",
         "b": "in Tod\nfuͤr vns geben. Doch wil ich hoͤren/ vff welchem wort\nMatthei/ oder Luce/ min Herz Pfarrer hafften well/",
-        "similarity": 0.6512
+        "similarity": 0.6512,
+        "semantic": 0.9279,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Pfarrer von Sant gallen+\nVff den erſten fürtrag mins herrn Doctors/war\num̃ ich ſchüchen trag vom wort/Sacrament/ erkennend alle Chriſtenliche gelerte͂/das wort/",
         "b": "vnnd\nſich daruff laſſen well. Pfarrer von Sant Gallen. VFf den erſten fuͤrtrag mins Herrn Doctors / wa-\nrumb ich ſchuͤchen trag vom wort Sacrament/",
-        "similarity": 0.5882
+        "similarity": 0.5882,
+        "semantic": 0.9057,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -81,19 +89,25 @@
         "op": "match",
         "a": "Sacramet/die wort des nachtmals/weder klarer oder\ndůnckler machend. Den rechtē namen aber/wie es ouch\nder Paulus nempt/ſol es heiſſen Communio/das iſt gemein=\nſchafft/wie es ouch etwan die alten geheiſſen habē:",
         "b": "wie es ouch\nder Paulus nempt/ ſol es heiſſen Communio, das iſt Ge-\nmeinſchafft / wie es ouch ettwan die Alten geheiſſen haben:",
-        "similarity": 0.6207
+        "similarity": 0.6207,
+        "semantic": 0.5491,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "aber\nob den worte͂/wie es geheiſſen werd/wil ich mich indhein\nwortſtryt geben/allein vff dz die wort den vſtād vñ ſin/",
         "b": "aber ob den worten / wie es geheiſſen werd/ wil ich mich in\nkein wortſtrit geben/ allein vff das die wort den verſtand\nvnd ſinn/",
-        "similarity": 0.6809
+        "similarity": 0.6809,
+        "semantic": 0.58,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "als ſy lutent/mitbringent: dañ wol erkenn ich/min herr\nDoctor/vñ alle ſin glychuerſtendig/die Sacrament nit\nwellend zů vneeren/welche oberſte eer vnd vererung/ich\nmermal in ſinen vßgangne bůcheren/ſo er jnen gibt/gelä\nſen hab.",
         "b": "als ſy lutent / mitbringend : dann wol erken ich/ min Herz Doctor / vnd alle ſin glychverſtendig / die Sa-\ncrament",
-        "similarity": 0.386
+        "similarity": 0.386,
+        "semantic": 0.7934,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -105,9 +119,16 @@
         "op": "only_a",
         "a": "Wyters fürt yn\nmin herr Doctor/das Teſtament in verzychůg der ſůn\nden/ſye allein im tod vñ ſterben Chriſti verſichert: wirt\njm",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.627,
+        "semantic_match": "er-\nkennen alle Chriſtenliche Geleerten/ das wort Sa-\ncrament / die wort deß Nachtmals / weder klarer oder\nduͤnckler machend. Den rechten namen aber/",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7246,
+    "reworded": 3,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4815,

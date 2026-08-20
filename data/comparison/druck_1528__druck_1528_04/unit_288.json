@@ -33,19 +33,28 @@
         "op": "only_a",
         "a": "Seite IVXXX\n\n**Die vierdt**\n**Meister Vlrich zwingli.**\n\nWir lassend vns ouch vff die erklärung/ vß offne\ngottes wort / von vns har fürbracht /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7607,
+        "semantic_match": "ſo vorhin in dem hertzen deß men=\nſchen ſind/vñ wo den vſſerlichen wortē me zuͤge\nben wirt:dañ ſoͤlichs beduͤtens vnd erinnern/ſo\nmag es geacht werden fuͤr ein zoubery:Dañ wz\niſt zoubery anders/dann das man vermeint mit\nkrafft der worten vßzerichtē /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "wie ouch\ndie Acta inhaltend. Die andre red/ dz im Nacht\nmal/ mit dem mund der lychnam Christi geessen werde/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6843,
+        "semantic_match": "ſo vorhin in dem hertzen deß men=\nſchen ſind/vñ wo den vſſerlichen wortē me zuͤge\nben wirt:dañ ſoͤlichs beduͤtens vnd erinnern/ſo\nmag es geacht werden fuͤr ein zoubery:Dañ wz\niſt zoubery anders/dann das man vermeint mit\nkrafft der worten vßzerichtē /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "erkennē wir gar ein vngefüg red sin: dan so vnser münd\nlyblich sind/ vnnd nütz dann lyplichs essen mögen/ vnnd\nempfindtlich/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6142,
+        "semantic_match": "Es iſt\ndie menſchlich natur der erſtenn gepurt halben/ v ij",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -57,31 +66,42 @@
         "op": "match",
         "a": "Empfelhend das ouch eim yeden der da\ngloubmässigen verstand hatt. **Pfarrer von sant Gallen**\n\nSo wir nun hand die handlūg ō figur den Actis\nbeuolhen /",
         "b": "Schlußred. CLIIII\nPfarrer von Sant Gallen. So wir nun hand die handlūg der figur den\nActis beuolhen/vnd sy ander erklårung yngetra\ngen/vnd namlich/yetz in der letſten red:",
-        "similarity": 0.5091
+        "similarity": 0.5091,
+        "semantic": 0.8344,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "vnd sy an der erklärung ingetragen/ vñ namlich yetz in der letsten red / Bewelchē wir\nallen so von gott geleert söllen werden/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7604,
+        "semantic_match": "ſo vorhin in dem hertzen deß men=\nſchen ſind/vñ wo den vſſerlichen wortē me zuͤge\nben wirt:dañ ſoͤlichs beduͤtens vnd erinnern/ſo\nmag es geacht werden fuͤr ein zoubery:Dañ wz\niſt zoubery anders/dann das man vermeint mit\nkrafft der worten vßzerichtē /",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "was das offenlich\nwort/ der gschrifft vermög/ vnd sin verstand. **Meyster Vlrich zwingly.**\n\nWir empfelchends ouch denen/ die von Gott geleert\nsind.",
         "b": "beuelchē\nwir allen ſo von Gott gelert ſoͤllen werden/ wz\ndas offenlich wort der gſchrifft vermoͤg/vnd ſin\nverſtand.",
-        "similarity": 0.3721
+        "similarity": 0.3721,
+        "semantic": 0.9144,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "**Ecolampadius.**\n\nVnder andern ist gester/ ouch hüt geredt worden\nwie das die vfferliche wort/ tragend mit jn/ nit\nallein/ das so sy bedüten/",
         "b": "Zwingly: Wir empfelches ouch denen/die vō Gott ge=\nlert ſind. Ecolampadius. Vnd andern iſt geſter/ouch huͤtt geredt wor=\nden/wie das die vſſerliche wort/tragend mit jn/",
-        "similarity": 0.4906
+        "similarity": 0.4906,
+        "semantic": 0.7321,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "sonders ouch das sy ver\nheyssen: das gepürrt sich ouch zeuerantwurten/ vnd sag\nalsouil darzů / man söll ansehen die natur vnnd art der\nwort",
         "b": "nit allein/das ſo ſy beduͤtē/ſonders ouch das ſy\nverheyſſen:dz gepuͤrt ſich ouch zeuerantwurtē/ vnd ſag alſo vil darzuͤ:man ſoͤl anſehē die natur\nvnd art der wort/",
-        "similarity": 0.5263
+        "similarity": 0.5263,
+        "semantic": 0.8713,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -107,7 +127,11 @@
         "b": "Es iſt\ndie menſchlich natur der erſtenn gepurt halben/ v ij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7715,
+    "reworded": 6,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.359,

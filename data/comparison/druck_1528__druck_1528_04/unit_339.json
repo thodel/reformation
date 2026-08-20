@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite CLXII\n**Schlußred.**\n\nwiderwertig/hatt ſich herr Benedict der Pfarrer daſelbs/hie zů gegen=\nouch vor einem Erſamen Radt by vns Chriſtenlich erbotten/bericht zů=\ngeben vnnd zůnemen/in der hoffnung/er werde ouch bericht finden/als\ndann beſchehen iſt(Gott dem herrn ſy lob)Diewyl er aber ſich zum teyl\nerkent bericht zeſin/beger ich im vnd allen von gott dem herrn/das er im\ndas übrig ouch zůuerſtan gebe/darzů ein hertz beſtendig an dem ſelbigen\nzebeharrē.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6976,
+        "semantic_match": "vnd mich virblenden nach ſinen wunderbarlichẽ\nwercken/ein ſchrecklicher gott/ dẽ ſy ouch krafft\nvnd rych vnd danck/zuͦ ewigen zyten/",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -45,13 +48,17 @@
         "op": "match",
         "a": "Bezüg mich hie vor diſer Erſamen verſamlung/von vnſerer\ngemeind wegen zů ſant Gallen/das wir yetz ein lange zeyt nüt geſpart\nhaben/vnd allen flyß ankert/das wir einmütig die warheyt Chriſti vnd\nſin wort predigten/haben ouch vil geſprech/nach beuelch vnſerer herrn\ngegen einandern gehalten.",
         "b": "das wir yetz ein lange\nzeyt nuͤt geſpart haben/vnd allen flyß anſert/dz\nwir einmuͤtig die warheit Chriſti vnnd ſin wort\npredigten/haben ouch vil geſprech/nach beuelch\nvnſerer herren gegen einanderen gehalten.",
-        "similarity": 0.619
+        "similarity": 0.619,
+        "semantic": 0.9098,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "In welchen der Pfarrer/ouch etwan mit ant=\nwurten hatt können/das ich alles Gott dem herrn beuilch/der da jn ſin\nlüchten mag in dißem Artickel/vnd mich verblenden nach ſinen wunder=\nbarlichen wercken/ein ſchreckentlicher Got/dem ſy ouch krafft vnd rych\nvnd danck/zů ewigen zyttten/Amen.",
         "b": "Jn\nwelchen der pfarrer/ouch etwan nit antwurten\nhatt koͤnden / das ich alles Gott dem herren be=\nuilch/der da jn erluͤchten mag in diſem Artickel/",
-        "similarity": 0.4359
+        "similarity": 0.4359,
+        "semantic": 0.9365,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,13 +70,17 @@
         "op": "match",
         "a": "**Pfarrer von ſant Gallen.**\n\nIch laß beliben/wie ich vor geantwurt. **Theobaldus Hütter Pfarrer**\n**von Apenzell.**\n\n[N]Emend hin vnd eſſend/das iſt min lyb/iſt offte\nvñ mengßmal diß tags gehandelt/vil gſchrifft\nda angezeygt/mit red vnd antwurt dargethon.",
         "b": "Amen. Pfarrer von ſant Gallen. Jch laß beliben/wie ich vor geantwurt. Pfarrer von Appenzel. Nͤemend hin vnnd eſſend/das iſt min lyb/iſt\nofft vnd mengßmal diß tags gehandelt /",
-        "similarity": 0.6944
+        "similarity": 0.6944,
+        "semantic": 0.8753,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "So aber Meyſter Vlrich Zwingli das wörtli Iſt vnd\nander mit jm/wellen allwegen vff Süten zyehē/als ob=\nman ſprechen ſölte/dz Sütet min lyb/zc.",
         "b": "vil ge=\nſchrifft da angezeygt/mit red vnd antwurt dar\ngethon. So aber Meyſter Vlrich Zwingli das\nwoͤrtly Jſt vnd ander mit jm /",
-        "similarity": 0.3922
+        "similarity": 0.3922,
+        "semantic": 0.8646,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,15 +92,23 @@
         "op": "match",
         "a": "Am ſelben er=\nwas ingeleyt mit ſyner Declaration/zůbewarē dz wört=\nly Iſt vff düten/welche Declaration ich nit annim/vñ\ndas alls ich hoff mitt güter vrſach.",
         "b": "zuͦbewaͤren das woͤrtly/ Jſt vff duͤten/ welche Declaration ich nit annim\nvnd das alls ich hoff mit guͤter vrſach.",
-        "similarity": 0.4231
+        "similarity": 0.4231,
+        "semantic": 0.8215,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Namlich ſo diedry\nEuangeliſtē. Matheus Marcus vñ Lucas diemeldüg\nthůnd/vñ vnder jnen allen dryen keiner vff Süten vß\ngeleyt. Deßglichen/das vſſerwelt vaß Paulus ouch mit\nSo ij",
         "b": "Namlich\nſo die dry Euangeliſten. Mattheus/ Marcus\nvnd Lucas die meldung thuͦnd/ vnd vnder jnen\nallen dryen keyner vff Duͤten vßgeleyt. Deß=",
-        "similarity": 0.3396
+        "similarity": 0.3396,
+        "semantic": 0.7926,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.8426,
+    "reworded": 5,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5522,

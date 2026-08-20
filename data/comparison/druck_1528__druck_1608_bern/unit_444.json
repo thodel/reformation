@@ -39,7 +39,10 @@
         "op": "only_a",
         "a": "Sind jr nitt min werck in Gott dem\nherrn / Das fhür iſt anfaͤchtung / verfolgung / vñ durch=\nachtung / welche heylſam iſt allen gloͤubige.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6487,
+        "semantic_match": "Berchtoldus. DEr Schůlmeiſter klagt ſich einer gloß / über den\nSpruch Pauli yngefüret / So doch nüt anders/ weder",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -51,13 +54,17 @@
         "op": "match",
         "a": "ich wird ſy\nprobieren / wie das gold probiert wirdt. Das gold aber / ſilber / vnnd Edelgeſtein / ſind die das wort gottes anges\nnomen hand /",
         "b": "480\tDie ſibend\nbiert wirdt. Das Gold aber / Silber vnd Edelgeſtein/ ſind die das Wort Gottes angenommen hand/vnd ee den\nTod lyden/",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.7651,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd ee den tod lyden / ee ſy daruon ſtünden\nHoltz hoͤw vnd ſtufflen ſind / die ein zytlang glouben / ſo\naber die anfaͤchtung kompt /",
         "b": "ee ſy daruon ſtůnden : Holtz Hôw vnd ſtufflen\nſind/die ein zyt lang glouben/ſo aber die anfachtung kompt\nvnd ſich das Fhür der Trůbſal vnd Verfolgung erhebt/",
-        "similarity": 0.566
+        "similarity": 0.566,
+        "semantic": 0.7632,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -69,37 +76,50 @@
         "op": "match",
         "a": "alſo iſt vß dem text Pauli ſelbs / heyter\nvnd klar / das er nitt vom faͤgfůr redt / ſonder von dem\nfür der veruolgung /",
         "b": "ſo\nfallen ſy dahin/wie Holtz vnd ſtuffel von dem Fhür : alſo\niſt vß dem Text Pauli ſelbs/heiter vnd klar/daß er nit vom\nFägfür redt/",
-        "similarity": 0.48
+        "similarity": 0.48,
+        "semantic": 0.8502,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vmb der leer willen. Vff den rriiij. tag Jenners\nBůchſtab. [D]Ie gloß über den ſpruch Pauli / geſteren vnges\nfürt /",
         "b": "ſonder von dem Für der verfolgung/vmb der\nLeer willen. Vff den xxiiij. Tag Jenners. Bůchſtab. DJe gloß über den Spruch Pauli/geſteren yngefürt/",
-        "similarity": 0.6818
+        "similarity": 0.6818,
+        "semantic": 0.8376,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "nim ich nitt an / wann Paulus hie heyter\nſprichtꝛ. Der tag des herren / wirt das erklaͤren / nun iſt der tag des herrn /",
         "b": "nim ich nit an / wann Paulus hie heiter ſpricht. Der Tag deß Herren/wirt das erklären/nun iſt der\nTag deß Herren /",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.8993,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "nüt anders / dann der abſcheyd\nvon diſer zyt / von dem Paulus ouch ſagt.j. Theſſalo. v. Das der tag des herren werde kommen /",
         "b": "nüt anders/dann der abſcheid von diſer\nzyt / von dem Paulus ouch ſagt 1. Theſſalon. 5. Das der\nTag deß Herm werde kommen/wie ein Dieb in der nacht/",
-        "similarity": 0.6538
+        "similarity": 0.6538,
+        "semantic": 0.91,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "wie eyn dieb in\ndernacht.zc. Darumb ich hie / by dem bloſſen Text bly=\nben / ob mir aber ein gloß wurde notürfftig ſin /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6303,
+        "semantic_match": "Berchtoldus. DEr Schůlmeiſter klagt ſich einer gloß / über den\nSpruch Pauli yngefüret / So doch nüt anders/ weder",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "wurde ich\nby dero blyben / die in dryen teylen der welt / als in Aſia in\nAffrica vnd Europa / ob den tuſent Jaren / gebrucht iſt\nworden. Berchtoldus",
         "b": "2c. Darumb ich hie/by dem bloſſen Text blyben/ob mir\naber ein gloß wurde notürfftig ſin/wurde ich by dero bly=\nben/die in dryen teilen der Welt/als in Aſia in Affrica vnd\nEuropa/ob den tuſent Jaren/gebrucht iſt worden.",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.7617,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -107,7 +127,11 @@
         "b": "Berchtoldus. DEr Schůlmeiſter klagt ſich einer gloß / über den\nSpruch Pauli yngefüret / So doch nüt anders/ weder",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7851,
+    "reworded": 3,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6309,

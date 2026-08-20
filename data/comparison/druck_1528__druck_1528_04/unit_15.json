@@ -51,13 +51,17 @@
         "op": "match",
         "a": "Seite [15]\n\nBern kosten zeuermögen/ist er doch vß Beliben/zc.Vonn\nden dryen Grauwen pünden/Melchior Thilman vonn\nLuzern/Predicant vnd vorstender der Pfarr yenas in\nBråtigouw/vß geheyß siner Kilchozy sich hargefugt/",
         "b": "Melchior Thilman von Lutzern/Predicant vnd\nvorſtender der Pfarr yenatz in Braͤtigouw/ vß\ngeheyß ſiner Kilchoͤry ſich hårgefuͤgt /",
-        "similarity": 0.4364
+        "similarity": 0.4364,
+        "semantic": 0.8361,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "der hat sich offenlich erbotten/finer leer/vßi predig mence\nlichen antwurt zegeben: vnd fürnemlich den/so in vnnd\nfin leer gescholten haben/denen er zum teyl fin barkomen\nzu wüssen bat thon/zc.Protestierende sin leer mit heyli-\nger geschrifft zeerhalten/zc.",
         "b": "der hatt\nſich offenlich erbottẽ/ſiner leer/vñ predig menck\nlichen antwurt zegeben: vnd fuͤrnemlich den/ſo\njn vnnd ſin leer geſcholten haben /",
-        "similarity": 0.4776
+        "similarity": 0.4776,
+        "semantic": 0.8855,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,25 +73,34 @@
         "op": "match",
         "a": "Semnach sind berifft wo:-\nden die von vssern stetten/vßi sind zügegen gsin von Co=\nstentz ein Radtbotschafft vnnd zwen Predicanten/von\nStraßburg die in Actis Benampt sind/Von Augspurg\netlich sundrig personen/Von Vlm/von Memmingen/",
         "b": "Demnach ſind beruͤfft worden die vonn\nvſſern ſtetten / vnd ſind zuͦ gegen gſin von Co=\nſtentz ein Radtbottſchafft vnd zween Predican\nten/von Straßburg die in Actis benampt ſind\nVon Augſpurg etlich ſonderig Perſonen.",
-        "similarity": 0.5833
+        "similarity": 0.5833,
+        "semantic": 0.869,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Von Lindouw/Von Jßnach etlich. Sem allem nach/ ist ein gemein vßriffen Beschehe/ob yemand von andern\nstetten vnnd landen/zugegen wåre/möchteharfür tret=\nren/wurde im statt vnd plats geben.",
         "b": "Von\nVlm. Von Memmingen. Von Lindouw. Von\nIſsnach etlich. Dem allem nach / iſt ein gemeyn\nvßruͤffen geſchehen/ob jemand von andern ſtet=\nten vnnd landen/",
-        "similarity": 0.4561
+        "similarity": 0.4561,
+        "semantic": 0.7035,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Sü letst sind eruoz=\ndert der statt vnnd landrschaffe Bern/Prelaten/Pfarrer\nvnd all jr geystlich/nach ordnung/vnd die insonders be=\nschriben waren.",
         "b": "zuͦgegen waͤre/ moͤchte herfuͤr\ntretten/wurde jm ſtatt vnd platz geben. Zuͦ letzt\nſind eruordert d’ ſtatt vñ lãdtſchafft Bern/Pre=\nlaten/Pfarrer vnd all jr geyſtlich/nach ordnung\nvnd die inſonders beſchriben waren.",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.8424,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Sie ouch all haben müssen gegenwür=\ntig sin/vnd biß zu end der Sisputatz verharren. Es ist ouch zuwissenn/das im anfang eyner yeden\nSession/ein gemeyn gebått beschehen ist/das Hott der\nalmechtig/den rechten waren verstand/sins heyligenn\nworts verlyhen wolte/zc.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7051,
+        "semantic_match": "Rotwil niemands. Vnnd iſt eruordert worden/ Joͤrg Nuͤwdorffer/Prior zun predigern zuͦ Rot\nwil. Dann er vor diſer Diſputatz einer oberkeyt\nzuͦ Bern/ein buͤchli wider die zechen Schlußred\nzuͦgeſchickt hat/dem ouch geſchickter zyt/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -101,7 +114,11 @@
         "b": "Die ouch\nall haben muͤſſen gegenwuͤrtig ſin/ vnnd biß zuͦ\nend der",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8069,
+    "reworded": 5,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4217,

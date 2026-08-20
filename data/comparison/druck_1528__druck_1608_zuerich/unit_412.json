@@ -33,31 +33,44 @@
         "op": "only_a",
         "a": "Seite CXIII\nDie ſechſte\nOder es iſt ein ſoͤmlich ding/das alleyn Chriſto zuͦhoͤret/ namlich das baͤtten im himmel/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6224,
+        "semantic_match": "Gilg Murer. HAtt Christus gebåtten / das die Jünger hie vff Erd-\nrich/ein ding mit jm syen/syner Gnaden vnd Geist\nhalb:",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "ſo ſoͤlle es ouch nit zuͦge\nlegt werden denen hie vff erderich/das aber nit ſin mag. Zwingli\n[D]Iß iſt alles verantwurt:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7301,
+        "semantic_match": "Gilg Murer. HAtt Christus gebåtten / das die Jünger hie vff Erd-\nrich/ein ding mit jm syen/syner Gnaden vnd Geist\nhalb:",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "vnd wie das ein volg\nſye/Chriſtus ſtadt fuͤr vns da oben/darum wir\nGottes wort haben/ Vnd wir ſoͤllen hie fuͤr ein\nandren bitten/darum wir ouch Gottes wort ha\nben/So volge nun/das die ſaͤligen da oben fuͤr vns bit=\nten/darumb wir kein gottes wort habend.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8233,
+        "semantic_match": "Gilg Murer. HAtt Christus gebåtten / das die Jünger hie vff Erd-\nrich/ein ding mit jm syen/syner Gnaden vnd Geist\nhalb:",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Beuilch ich al\nlen gloͤubigen/die ſich Gottes wort alleyn laſſend verſi=\ncheren. Gilg Durer\n[D]Ie antwurt wirt nit gnuͦg ſin/dan ſo Chriſtus\nfuͤr vns bitter im himmel/ſo mags ouch mit kei\nner ſchrifft abgeſchlagen werden den heiligen im\nhimmel.",
         "b": "Schlußred. 443\nGilg Murer. DIse antwurt wirt nit gnůg syn/ dann so Christus\nfür vns bittet im Himmel/so mags ouch mit keiner\nSchrifft abgeschlagen werden den Heiligen im\nHimmel.",
-        "similarity": 0.5263
+        "similarity": 0.5263,
+        "semantic": 0.8939,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Das bewaͤr ich/vß dem heiligen Euaͤgeliſten/ Johannis am xvij. cap. Spricht Chriſtus: Vatter/die\neer die du mir geben haſt/die hab ich jnen geben/vff das\nſy ein ding ſygind/glych wie ouch wir ein ding ſind:",
         "b": "Daß bewår ich/ vß dem Heiligen Euangelisten\nJohannis am 17. Capit. Spricht Christus /Vatter/ die\nEer die du mir geben hast/die hab ich jnen geben/",
-        "similarity": 0.6269
+        "similarity": 0.6269,
+        "semantic": 0.9086,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,13 +82,17 @@
         "op": "match",
         "a": "ich in\njnen/vnd du in mir. Sind ſy nun ein ding mitt Chriſto/ ſo wirt one allen zwyffel/jnen das baͤtt nit abgeſchlagen\nwerden/mit Bibliſcher ſchrifft.",
         "b": "Sind sy nun ein ding mit Christo/so wirt\nohne allen zwyffel/jnen das Båt nit abgeschlagen werden/ mit Biblischer Schrifft.",
-        "similarity": 0.72
+        "similarity": 0.72,
+        "semantic": 0.9096,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Zwingli\n[D]As wort Chriſti Johannis xvij. cap. lutet nit\nvonden Saͤligen/die vſſerthalb diſer zyt ſind. Verlaß mich vff die wort Chriſti. Gilg",
         "b": "Zwingly. DAs Wort Christi Johannis 17. Cap. lutet nit von\nden Såligen / die vsserthalb diser zyt sind. Verlaß\nmich vff die Wort Christi.",
-        "similarity": 0.7083
+        "similarity": 0.7083,
+        "semantic": 0.8671,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -101,7 +118,11 @@
         "b": "KKk ij\n\n## Marginalien\n[e]t aber nit\n[d]as redt/vn[d]\n[gmeinschaff[t]\n[r]echnen/ nit\n\nArgument\n[im] Himmel\n[F]ürbitt der\n[ge]n im Him[el]\n[d]ie Heiligen\nLåbendigen\nSo wurd\nst ein sö[m-]\n[m] das båt[ten]\nerden den[n]\n\nein volg[ende]\nnd wir En[t-]\nr einandern\nen/So volg[t]\ndarumb solt\nGlåubigen/ ll. Gilg",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8221,
+    "reworded": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.376,

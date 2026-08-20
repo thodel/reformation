@@ -45,7 +45,9 @@
         "op": "match",
         "a": "Seite CXIII\n**Schlußred**\n\nßfasset/vnd andere bewärung vffertthalb des yngebrach\nten/acht ich yeczmal vnnötig/vnnd laß es by miner für=\ntragner erklärung/derhalben yecz blyben/mit angeding\nter vordriger beuelchnuß/damit vnd wir zů den rechten\nworten des ynsatz des Herren Nachtmal kommen mö=\ngend/beuilchs vnd vndergibs wie vormals.",
         "b": "vnd laß es by myner fuͤrtragner erklaͤrung/ derhalben jetzblyben/ mit angedingter vordriger beuelch=\nnuß/ damit vnd wir zuͤ den rechten worten deß ynsatz deß\nHerren Nachtmal kommen moͤgend/",
-        "similarity": 0.4878
+        "similarity": 0.4878,
+        "semantic": 0.8746,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,19 +59,25 @@
         "op": "match",
         "a": "**Zwingli**\n\nDEr verzug vnsers brůders erfröwt vnns seer/ das er sich nit wyter ynlaßt/die offtgedachten\nwort/für verheryßliche wort des lyblichen essens\nzebewären/wellend jm ouch sölichen züchtigen\nabzug gern zülassen.",
         "b": "die offtgedachten wort/fuͤr\nverheißliche wort deß lyblichen eſſens zebewaͤren/ wellend im ouch ſoͤlichen zuͤchtigen abzug gern zuͤlaſſen.",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.7985,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "**Johannes Büchstab**\n\nTCh wird bericht/das an anzognen orten/vonn\ndryerley brot gesagt werdend. Zum ersten/von\ndem himelbrot/des sich die Juden berümpten/",
         "b": "Johannes Buͤchſtab. JCh wird bericht/das an anzognen orten/von dryer=\nley Brot geſagt werde. Zum erſten / von dem Him=\nmelbrot/deß ſich die Juden beruͤmbten /",
-        "similarity": 0.6154
+        "similarity": 0.6154,
+        "semantic": 0.8091,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "jnen geben worden sin/sprechende: Vnser vät=\nter habend geessen himelbrot in der wüst etc. Das an=\nder brot ist dz wort Gottes/als sich Christus bezügt vß\nGott sinem himmelschen vatter/den Juden gebenn sin/",
         "b": "jnen geben\nworden ſin/ſprechende : Vnſer Våtter haben geeſſen Him=\nmelbrot in der Wuͤſte/ꝛc. Das ander Brot iſt das Wort\nGottes /",
-        "similarity": 0.4746
+        "similarity": 0.4746,
+        "semantic": 0.786,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -81,7 +89,10 @@
         "op": "only_a",
         "a": "dann das ist das waar brot/ das vom himmel herab ist gestigen/vnd gibt das läben\nder welt.ꝛc. Das drit brot ist/das waar fleysch Gottes/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6206,
+        "semantic_match": "beuilchs vnd vnder=\ngibs wie vormals. Zwingly. DEr verzug vnſers Bruͤders erfroͤwt vns ſeer / das\ner ſich nit wyter ynlaßt/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -101,7 +112,11 @@
         "b": "als ſich Chriſtus bezuͤgt von Gott ſinem Him=\nmelſchen Vatter/ den Juden geben ſin/ſo er von dem ſelbt=\ngen",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7778,
+    "reworded": 4,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4062,

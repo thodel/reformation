@@ -45,19 +45,25 @@
         "op": "match",
         "a": "die er haryn bringt/ als Kil\nchen satzung/ von vnderscheyd der tagen vñ spyfen/ Sa\ngen wir/ das sölche des tůffels satzung sind/",
         "b": "Schlußred. 189\naber/die er haryn bringt/als Kilchen satzung/von vnder=\nſcheid der tagen vnnd ſpyſen/Sagen wir/das ſölche deß\nTüffels satzung ſind/lut deß hållen Spruchs/1.",
-        "similarity": 0.566
+        "similarity": 0.566,
+        "semantic": 0.7642,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "lut des hål=\nlen spruchs/ j. zum Thimo. am. iiij. cap. Nun aber das\ner wyter anzogen hat/ den spruch am v.",
         "b": "zum Ti=\nmoth.am 4.cap. Nun aber das er wyter anzogen hat/den\nSpruch am 5.cap.zum Timoth.der 1.Epiſtel:",
-        "similarity": 0.5778
+        "similarity": 0.5778,
+        "semantic": 0.6842,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "ca. zum Thimo. der j. Epistel: Sie da sůndend/ straff vor yedermã. Sõ Sůch hieuor\nlichs ist ouch in vorgenden antwurtē überflůssig erklärt:",
         "b": "Die da ſün=\ndend/ſtraff vor jederman. Söllichs iſt ouch in vorgenden\nantwurten überflüſſig erklärt: Namlich/das nach der ord=\nnung Chriſti/Matth.am 18.cap.",
-        "similarity": 0.3673
+        "similarity": 0.3673,
+        "semantic": 0.7476,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -69,37 +75,49 @@
         "op": "match",
         "a": "Vß dem allem aber/ ist noch nit be\nwårt/ das die wort Christenlich gemeind/ ein einigs ge=\nböttlin machen mög/",
         "b": "die ſtraff der Chriſtenli=\nchen gemein/ernſtlich ſoll gehalten werden. Vß dem allem\naber/iſt noch nit bewårt/daß die Chriſtenlich gemeind/ein\neinigs geböttlin machẽ mög/das die gewüſſen binden ſölle/",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.8975,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das die gewůssen binden sölle/ vnd\ndoch in göttlichem wort/ nit klaren grund habe. Sölichs Sůch am. 74. ist hůtt vnnd gestern zů meren malen verantwurt/",
         "b": "vnd doch in göttlichem Wort nit klaren grund habe. Söl=\nlichs iſt hüt vnnd geſtern zü meren malen verantwort/lut\nder Acta.",
-        "similarity": 0.625
+        "similarity": 0.625,
+        "semantic": 0.7488,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "lut 76. 78. 79. vnd\nder Acta. 81. blatt. Bichtuatter\n[D]Als der spruch Joannis am v vj. ca. Jch hab ůch\nnoch vil ze sagen zc.",
         "b": "Bychtuatter. DAs der Spruch Joan.am 16.cap. Jch hab üch noch\nvil zeſagen/etc. gnügsamklich verantwort ſye/das\ngſtan ich nit.",
-        "similarity": 0.3265
+        "similarity": 0.3265,
+        "semantic": 0.5725,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "gnůgsamklich verantwurt\nsye/ das gstan ich nit. Vnd so man sagt/ das die\nvnderscheyd der tagen vñ spysen/ syend des tů\nfels satzung gesin/",
         "b": "Vnd so man ſagt/daß die vnderſcheid\nder tagen vnd ſpyſen/ſyend deß Tüffels satzung geſin/vnnd\nbringt harzü den Spruch Pauli zum Timoth.am 4.",
-        "similarity": 0.44
+        "similarity": 0.44,
+        "semantic": 0.7779,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vñ bringt harzů den spruch Pauli zů\nThimotheo am. iiij. Vff den antwurt ich/ das der selbig\nspruch nit sagt von der Christenlichen Kilchenn/",
         "b": "Vff\nden antwurt ich/daß der ſelbig Spruch nit ſagt von der\nChriſtenlich Kilchen/als da klar der Text anzeigt/der da\nſpricht:",
-        "similarity": 0.4681
+        "similarity": 0.4681,
+        "semantic": 0.8674,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "als da\nklar der text anzeigt/ der da spricht: Der geyst sagt aber\noffenlich. zc. Das sye wyt von der heylige Christenlichen\nKilchen:",
         "b": "Der Geiſt ſagt aber offenlich/etc. Das ſye wyt von\nder heiligen Chriſtenlichen Kilchen:dann sy wirt von\ndem heiligen Geiſt geregiert.",
-        "similarity": 0.4889
+        "similarity": 0.4889,
+        "semantic": 0.6177,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -113,7 +131,11 @@
         "b": "Aa iij\n\n## Marginalien\nSůch\nhieuor\nam 45. vnd 47. blat. Sůch\nhieuor\nam 160. 165. 169. 171. 172. vnd 176\nblat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.742,
+    "reworded": 4,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6056,

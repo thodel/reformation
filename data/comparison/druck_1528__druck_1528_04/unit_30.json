@@ -33,31 +33,43 @@
         "op": "only_a",
         "a": "Die erst\nvi wysen in ein tugenrich Christenlich labe/dz er das ge\nthon habe. Es zeyger zu ersten an die verheyssung/oder\nvoz verkündung/die geschrubé stadt Joannis am ersten\nCapitel/da Christus sprach zu Petro:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7489,
+        "semantic_match": "Chriſtenlich blůt zeuergieſſen. Die ge\nſchrifft zeygt vns gnůgſam an/ wer der Stat=\nhalter Chriſti ſye/ nach ſinem lyplichẽ abweſen.",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "du bist Simon\nJoannis/du wirst fürhin geheissen Cephas. Berchtoldus. Rommen lieben Christen. Es hatt der Bicht-\nuarter anzeygt/das das houpt nit allein geb dz\nlaben dem lyb/sond hab ouch ander eygenschafft\nten/den lyb zeregieren/in sinen offerlichen wercken vnd\nübunge:",
         "b": "Schlußred. VIII\nlåben de lyb/ ſonder hab ouch ander eigenſchaff=\nten/ den lyb zeregieren/ in ſinen vſſerlichẽ werck\nen vnd ůbungen:",
-        "similarity": 0.3692
+        "similarity": 0.3692,
+        "semantic": 0.558,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Sonu Christus sin sichbarliche lypliche gegen\nwürtigkeit hab offgenommen/hab er gelassen/synceygne\nlyb offertrich/ein gesetzt houpt/sin Kilch zeregieren/",
         "b": "So nun Chriſtus ſin ſichtbar=\nliche lypliche gegenwürtigkeyt hab vffgenomẽ\nhab er gelaſſen/ ſynen eygnen lyb vff ertrich/ ein\ngeſetzt houpt/",
-        "similarity": 0.5238
+        "similarity": 0.5238,
+        "semantic": 0.8532,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "zu cim thugenliche lábé/sag ich also darzu des erste: Die\neigenschafft des houpts Christi/istouch die/d3 er sin lyb\nregiere/als ein fürst vn gepieter/Ezechielis am xxxvij\nCapitel.",
         "b": "ſin Kilch zeregieren/ zů eim thu=\ngentlichen låbẽ: ſag ich alſo darzů des erſten. Die\neygenſchafft des houpts Chriſti/ iſt ouch die/",
-        "similarity": 0.4528
+        "similarity": 0.4528,
+        "semantic": 0.7715,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Item dz er sin lyb regiert ſchirmpt vn fürt/ift\nallegschzifft vol/dann es spricht Hott durch den Prophe=\nten:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7435,
+        "semantic_match": "dz\ner ſyn lyb regiere/ als ein fürſt vnnd gepieter. Ezechielis am xxxvij. Cap. Item das er ſin lyb re\ngiert ſchirmpt vnd fůrt/",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,13 +87,17 @@
         "op": "match",
         "a": "Es wirt ein einiger künig fin/Ser yederman gepü=\ntet/Es vermag ouch der lyb Christi/ vi alle glider nüt\non die verwaltung des houpts/dann der Berrspricht:",
         "b": "Es vermag ouch der lyb Chriſti/ vnd alle glider\nnüt on die verwaltũg des houpts/ dañ der herr\nſpricht: On mich mögend jr nüt zethůnd.",
-        "similarity": 0.5283
+        "similarity": 0.5283,
+        "semantic": 0.843,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "On mich mögend jrnüt zethund/darum soll die eer al-\nlein Gott geben werden/das er sin Kilch regiere/vnd fü=\nre/zu einem thugentrichen labe.",
         "b": "Dar=\numb ſoll die Eer allein gott geben werden/ das\ner ſin Kilch regiere/ vnd fůre/ zů einem thugent=\nrichen låben.",
-        "similarity": 0.5957
+        "similarity": 0.5957,
+        "semantic": 0.7842,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -93,7 +109,9 @@
         "op": "match",
         "a": "Eristouch vnser wyf=\nheyt in der ersten Epistel zun Corinthern am ersten Ca-\npitel. Sarumb wirt vns nüt fålen/so wir jm volgen:es\nlyt am tag/zu was Christenlichem låben vns der Bapst\ngefurthab/so er synen soldnern applas gibt/Christen=\nlich blüt zeuergiessen. Sie gschrifft zeigt vnns gnügsam\nan/",
         "b": "es lyt am tag/ zů was Chriſtenlichem låben vns\nder Bapſt gefůrt hab/ ſo er ſynen ſöldnern ap=\nplas gibt/",
-        "similarity": 0.4507
+        "similarity": 0.4507,
+        "semantic": 0.8681,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -113,7 +131,11 @@
         "b": "dann ſo ich nit von ůch gang/ ſo wirt der\ntröſter nit zů ůch komen/ ſo ich aber võ ůch gang\nb",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7713,
+    "reworded": 4,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5029,

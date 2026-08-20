@@ -39,19 +39,27 @@
         "op": "only_a",
         "a": "Antwurten wyter vff herrn\nBerchtolds ynzug/Das Chriſtus gſprochē hab: Tůnd\ndas in miner gedächtnuß/ſyenit opfferen/find ich/das\netlich der Hebraiſchen ſpraach bericht/das facere, ouch et\nwan/opfferen/heyßt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7034,
+        "semantic_match": "Johannes Bůchſtab. VFf die gegenwürff vß Paulo zů den Hebreern/ant-\nwurt ich kurtzlich alſo/Paulus hat den Hebreern/ als denen/ſo deß Chriſtenlichen Gloubens noch nit\n                                        voll-",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Doch ſetz ich ſolichs den Hebrai=\nſchen erfarnen zů/dan mir die ſelb ſpraach vnwüſſen iſt. Butzer.+\n\nSo der Herr ſpricht:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7624,
+        "semantic_match": "Johannes Bůchſtab. VFf die gegenwürff vß Paulo zů den Hebreern/ant-\nwurt ich kurtzlich alſo/Paulus hat den Hebreern/ als denen/ſo deß Chriſtenlichen Gloubens noch nit\n                                        voll-",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Tůnd mir das zů gedächt=\nnuß/Jſt håll/das Thůn/nit opffern heißt/wirt\nouch durch Paulū.j.Corinth.vj.gnůgſam erklä\nret/da er ſpricht:",
         "b": "396                    Die fünfft\n                Bůzer. SO der Herr ſpricht: Tůnd mir das zů gedechtnuß/ Jſt häll / das thůnd / nit opfferen heißt/",
-        "similarity": 0.3913
+        "similarity": 0.3913,
+        "semantic": 0.7464,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,25 +71,33 @@
         "op": "match",
         "a": "So offt jr von dem brot eſſen.zc. Vnd\nAſah. wiewol עשה/by der ſchrifft/etwan für Opfferen genom\nmen wirt/ſo ſtadt doch darby/was man opffere/als ein\nſchaaff/oder derglychen.",
         "b": "Vnd wie-\nwol Aſah, by der Schrifft / ettwan für opfferen/ genom-\nmen wirdt/ ſo ſtadt doch darby/ was man opffere/",
-        "similarity": 0.6038
+        "similarity": 0.6038,
+        "semantic": 0.855,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Hie iſt aber håll/das/Thůn/ Eſſen heyßt. Der zůſatz halb/iſt vorgeſagt/das ſy mit\nhäller ſchrifft vmbgeſtoſſen ſind/lut herrn Berchtolden\nDeclaration/über diſe Schlußred.",
         "b": "als ein\nSchaaff/ oder derglychen. Hie iſt aber häll/das/Thůn/ Eſſen heißt. Der züſatz halb/iſt vorgeſagt/das ſy mit häl-\nler Schrifft vmbgeſtoſſen ſind/",
-        "similarity": 0.6792
+        "similarity": 0.6792,
+        "semantic": 0.685,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Büchstab\n\nDJewyl jr zůlaſſen/das Facere, ouch etwan heißt/Op=\npfferen/wirt vns hie ouch zůgelaſſen. Butzer\n\nWAs iſt das für ein conſequentz/Facere heißt etwan an\neinem ort/vonn wegen eins zůgeſagten wörtlins/",
         "b": "lut Herrn Berchtolden\nDeclaration / über diſe Schlußred. Bůchſtab. DJewyl ir zülaſſen/das Facere, ouch ettwan heißt/opffe-\nren/wirt vns hie ouch zügelaſſen.",
-        "similarity": 0.4561
+        "similarity": 0.4561,
+        "semantic": 0.595,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Opfferen/darum můß es hie ouch Opffren heyſſen/ da doch klarlich das widerſpil vßgetruckt iſt. Johannes",
         "b": "Bůzer. WAs iſt das für ein Conſequentz/Facere heißt et-\nwan an einem ort / von wegen eins zügeſatzten\nwörtlins/Opfferen/darumb můß es hie ouch opf-\nferen heiſſen/da doch klarlich das widerſpil vßgetruckt iſt.",
-        "similarity": 0.4706
+        "similarity": 0.4706,
+        "semantic": 0.6959,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -89,7 +105,11 @@
         "b": "Johannes Bůchſtab. VFf die gegenwürff vß Paulo zů den Hebreern/ant-\nwurt ich kurtzlich alſo/Paulus hat den Hebreern/ als denen/ſo deß Chriſtenlichen Gloubens noch nit\n                                        voll-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7204,
+    "reworded": 4,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6057,

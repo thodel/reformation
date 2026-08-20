@@ -57,37 +57,49 @@
         "op": "match",
         "a": "Seite XXIIII\nDie ander\nBerchtoldus\n\n[I]Romem Christen/ so man besicht den Euange-\nlisten. Johanne am xiiij. vnd xvj. cap.",
         "b": "ſonder als das woꝛt des heyligen geyſts. Berchtoldus. Fromen Chriſten/ſo man beſicht den Euan=\ngeliſten. Joan.am xiiij.vnd xvj.",
-        "similarity": 0.4878
+        "similarity": 0.4878,
+        "semantic": 0.8089,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ouch am\nvij. So erfindt es sich/ das wie wir ein gott ein\nerlöser hand/ also ouch ein einigen leermeyſter vñ ler/",
         "b": "cap.ouch am xij\nSo erfindt’es ſich/das wie wir ein gott/ein erloͤ\nſer hand/alſo ouch ein einigen leermeyſter vnnd\nleer/der maſſen das der heylig geyſt /",
-        "similarity": 0.6923
+        "similarity": 0.6923,
+        "semantic": 0.7729,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "der\nmaſſen das der heylig geyſt/ mit ein andere leer/ dan Chri\nſtus gelert hat/ der Kilche gottes fürtrågt/ des ich mich\nlaſſen vff die ſprüch des Euangeliſten ſelbs/",
         "b": "nit ein an=\ndere leer/dann Chriſtus geleert hat/der Kilchen\ngottes fuͤrtraͤgt: dz ich mich laſſen vff die ſpruͤch\ndes Euangeliſten ſelbs (vnnd wurdend ſoͤlich\nſpruͤch geleſen) Vñ wyter Math.am letſten.",
-        "similarity": 0.3881
+        "similarity": 0.3881,
+        "semantic": 0.5991,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "vnnd wurdend\nſölich ſprüch geleſen. Vñ wyter Matth. am letſten. Leerend\nſy halten die ding/ die ich gebotten hab. Vff den andern\nſpruch der ingefürt iſt zů Thimoth.",
         "b": "Le\nrend ſy halten die ding/die ich gebotten hab. Vff\nden andern ſpruch der ingefuͤrt iſt zuͦ Thimoth.",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.9238,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wie das die Kilch\nGottes ſye ein ſul vnnd grundfeſte der warheit/ kan nie-\nmand verneine/ dan ſy vff der warheyt göttlichs worts\nBeſtåt/",
         "b": "Wie das die Kilch gottes ſye ein ſul vñ grund=\nfeſte der warheit/kan niemand verneinẽ/dañ ſy\nvff d̃ warheyt goͤttlichs woꝛts beſtaͤt/gegruͤndt\nvnd befeſtiget iſt /",
-        "similarity": 0.5818
+        "similarity": 0.5818,
+        "semantic": 0.5231,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "begründt/ vnd befeſtiget iſt/ vnd nit vff die ſag-\nungen der menſchen/ vnd wår vns ein andre leer bringt\ndann Chriſti/",
         "b": "vnd nit vff die ſatzungen der\nmenſchen / vnnd waͤr vns ein andꝛe leer bringt\ndañ Chriſti/den ſoͤllẽd wir nitt hoͤꝛen in ij.Epi. Johannis",
-        "similarity": 0.44
+        "similarity": 0.44,
+        "semantic": 0.593,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -99,7 +111,10 @@
         "op": "only_a",
         "a": "ſonder als dz\ngotts wort ſelbs/ das was es ouch/ vnnd der heylig geyſt\nhatt das bezüget/ vnnd verſiglet die Theſſalonicenſer/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8174,
+        "semantic_match": "Sicander\n\njr von mir empfangẽ hand/die gehoͤꝛd des gots\nwoꝛt / hand jr das nitt empfangen als das woꝛt\nder menſchen /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -111,15 +126,25 @@
         "op": "only_a",
         "a": "Bichwatter. [H]Err Berchtold/ zů antwurten vff min red/ gitt\nzü/ als dañ war iſt/ das der heylig geyſt nüt an-\nders leere/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6143,
+        "semantic_match": "Sicander\n\njr von mir empfangẽ hand/die gehoͤꝛd des gots\nwoꝛt / hand jr das nitt empfangen als das woꝛt\nder menſchen /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "weder das Chriſtus leert/ hatt aber\ndamit noch nit gnůgſamklich bewårt/ dz der heylig geiſt\nden nachkomenden in der heyligen Chriſtenlichen Kilchẽ\nnit",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8691,
+        "semantic_match": "billich das woꝛt der gemey=\nnen Chriſtenheyt / die man nempt die Chriſten=\nlichen Kilchen annemmen/nit als das menſchen\nwoꝛt/",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7246,
+    "reworded": 4,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.41,

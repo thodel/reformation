@@ -45,31 +45,42 @@
         "op": "only_a",
         "a": "der sye besser\ndann der Touffer/ wirt aber nit vß der schrifft erfundẽ/ diewyl der Touff ein vsserlich Element. Semnach hat\nMaria Christum nit geopffret/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6594,
+        "semantic_match": "der Diebſtal/ſind heryn gefloſſen/vnnd hat ein\nbluͦt das ander erreycht/ vñ von des wegẽ wirt\nweynen",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "sunder nach dem gesagt\nin den tempel überantwurt/ vnd haben wol ein par Tu\nben geopffret/ aber nit Christum/ wie hie daruon geredt.",
         "b": "Die fuͤnffte\nſatzt in den Tempel uͤberantwort/vnnd habend\nwol ein par Tuben geopffret/ aber nit Chriſtũ/ wie hie daruon geredt.",
-        "similarity": 0.5652
+        "similarity": 0.5652,
+        "semantic": 0.8766,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Johannes Büchstab\n\nISchon Abel besser ist gsin dañ das opffer/ wirt\ndas selb darumb nitt allenthalben müssenn sin. Sag wyter vff den anfang/",
         "b": "Buͤchſtab. Ob ſchon Abel beſſer iſt gſin dañ das opffer/ wirt das ſelb darum̃ nit allenthalbẽ muͤſſen ſin.",
-        "similarity": 0.5116
+        "similarity": 0.5116,
+        "semantic": 0.8431,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "von herrn Berch⸗\ntolden yngefürt/ das die Mässz ein grüwel vor\nGott sye/ von wegen des züsatzes/ Ceremonien/ crützen/ kleydungen/",
         "b": "Sag wyter vff den anfang/ von herrn Berch-\ntolden yngefuͤrt/ das die Maͤſſz ein gruͤwel vor\nGott ſye/",
-        "similarity": 0.4878
+        "similarity": 0.4878,
+        "semantic": 0.8627,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "personen. zc. Bin ich mit gschrifft noch nitt\ngnůgsam võ im vnderricht. Der kostlichen Mässgwãn\nder halb/ habẽ wir glychförmige vorbedütnuß im glagt/",
         "b": "von waͤgẽ des zuͤſatzes/Ceremonien/ cruͤtzen/kleydungen/ perſonen.zc. bin ich mit ge\nſchrifft noch nit gnuͤgſã von jm vnderricht.",
-        "similarity": 0.3404
+        "similarity": 0.3404,
+        "semantic": 0.5663,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -81,19 +92,26 @@
         "op": "match",
         "a": "Als Exodi xxviij. vnd xxxv. xxxix. Vnd wie Ma⸗\nria Magdalena den glouben in Christum/ mit vßwen⸗\ndigen sichtbaren wercken beståtet hat.",
         "b": "xxxix. Vñ wie Maria Mag-\ndalena den glouben in Chriſtum/mit vßwendi-\ngen ſichbaren werckẽ beſtaͤtet hat. Luce am vij.",
-        "similarity": 0.3721
+        "similarity": 0.3721,
+        "semantic": 0.7915,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Luce am vij. ca. Also mag ouch ein jetlicher Christ/ nach sinem willẽ/ gott\nmit vßwendigen dingen/ gaben vnd ceremonien/",
         "b": "Alſo mag ouch ein yetlicher Chriſt/nach ſinem\nwillen/Gott mit vßwendigen dingen/ gaaben\nvnd ceremonien/ dienen: wiewol hierinn zuͦ zy-\nten/groß mißbruͤch geuͤbt werden.",
-        "similarity": 0.5417
+        "similarity": 0.5417,
+        "semantic": 0.84,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "dienen: wiewol harinn zů zyten/ groß mißbrüch geübt werden. Der",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6663,
+        "semantic_match": "der Diebſtal/ſind heryn gefloſſen/vnnd hat ein\nbluͦt das ander erreycht/ vñ von des wegẽ wirt\nweynen",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -119,7 +137,11 @@
         "b": "der Diebſtal/ſind heryn gefloſſen/vnnd hat ein\nbluͦt das ander erreycht/ vñ von des wegẽ wirt\nweynen",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7632,
+    "reworded": 4,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4035,

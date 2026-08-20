@@ -39,25 +39,37 @@
         "op": "only_a",
         "a": "Nun mag\nes in der hell nit sin/ im himmel darff es sy nit/ so müß es\nim mittel sin/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8114,
+        "semantic_match": "ſo der lyblich Tod nit auch werde hingenommen / ſo er\naber das nit will ſagen / was dienet dann ſoͤlches ſyn Fåg-\nfeur zů bewaͤhren.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "wir dz fägbür nennend/dann zwey vet=\nziehen werden hie gemelt/ Beuilch vñ vnderwirff mich\ngemeyner Christlichen Kilchen/wo ich geirt hette.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7111,
+        "semantic_match": "Die Sibend Schlußred. 451\n\ndeßhalb das Fågfeur bewåhren / und iſt aber vorhar\ngnůg angezeigt/daß Chriſtus unſer Erloͤſer/Bezahlung/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Pro=\ntestier mich ouch/hie niemand nütz verhönt haben/dañ\nich mich erkenn eins kleinen verstands/in sölliche großen\nhendlen/anträffend vnsern einigen glouben.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7092,
+        "semantic_match": "Daß in der Penitentz etwas ſtraͤff-\nliches ſyn muͤſſe / reicht dahin / daß unſer Bůß ufflegen\netwas ſoͤlle hinnemmen/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Antwurt Ulrich Zwingly\n\nS Je ganze sum̄ des Pfarrers Argument wil/das\nwir für vnser sünd müssen gnüg thün/vnnd deß=\nhalb das fägbür bewären/vnnd ist aber vorhar\ngnüg anzeygt/dz Christus vnser erlöser/bezalung/mit=\nler/versüner/zc.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7427,
+        "semantic_match": "Die Sibend Schlußred. 451\n\ndeßhalb das Fågfeur bewåhren / und iſt aber vorhar\ngnůg angezeigt/daß Chriſtus unſer Erloͤſer/Bezahlung/",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,13 +93,17 @@
         "op": "match",
         "a": "allein ist/wie dann in vorgenden schluß\nreden/gnügsam anzeygt. Das aber Dauid gestrafft/vñ\ndas gebozen kind gestorben/bewärt darumb dhein fäg=\nfhür/dann soliche straff/hie in zyt beschehen ist/sy ist ouch\nnit ein bezalung der sünd/noch erwerben der gnad Got=\ntes/dann keine lydungen sind gelich wichtig der künffti=\ngen Eer/die vns gott wirt eroffnē:",
         "b": "ſy iſt auch nit ein Bezahlung der Sůnd/ noch Erwerben der Gnad Gottes / dann keine Lydun-\ngen ſind glych wichtig der kuͤnfftigen Ehr/",
-        "similarity": 0.3529
+        "similarity": 0.3529,
+        "semantic": 0.6541,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "aber die trübsal fügt\nvns Gott/als sinen geschirren zü/damit er vns bewär/ vnd in gehorsame behalt/zun Römern am v.",
         "b": "die uns Gott\nwird eroͤffnen: aber die Truͤbſal fuͤgt uns Gott/ als ſy-\nnen Geſchirren zů/ damit er uns bewaͤhr /",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.8206,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -99,13 +115,17 @@
         "op": "match",
         "a": "Wir rü=\nmen vns der trübsalen/dann wir wüssen das die trübsal\ngedult machen/gedult aber bewärnus/vnd die bewär=\nnus bringt hoffnung/vnd die hoffnung bringt vns nitt\nzüschanden/zc.",
         "b": "daß die Truͤbſal Ge-\ndult machen / Gedult aber Bewaͤhrnus / und die Be-\nwaͤhrnus bringt Hoffnung / und die Hoffnung bringt\nuns nit zů ſchanden/",
-        "similarity": 0.4561
+        "similarity": 0.4561,
+        "semantic": 0.8634,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Das etlich verdampt werden/ist war/ aber die vngloubigen/daruon gnüg gesagt/was bewärt\nJii iij",
         "b": "ꝛc. Daß etlich verdamt werden/ iſt\nwahr / aber die Unglaͤubigen / darvon gnůg geſagt: Was bewaͤhrt aber das / daß ein Fågfeur ſeye?",
-        "similarity": 0.4615
+        "similarity": 0.4615,
+        "semantic": 0.6731,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -137,7 +157,11 @@
         "b": "das nit iſt: dann ſo wir glych al-\nles thaͤten / das Gott heißt/ dannoch ſind wir unnuͤtz\nKnecht / daß uns die Gerechtigkeit Gottes / neben der\nLll Barm-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7482,
+    "reworded": 8,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2882,

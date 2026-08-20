@@ -39,19 +39,25 @@
         "op": "match",
         "a": "Seite CLII\n\nDie vierdt\nZwingy\n\nIr erkennend wol/das offt ein ding den name\nDes behept/darůß es gemacht ist/Das dient\naber hiehar nit/dann wo der lychnam Chri=\nsti vß dem brot gemacht wåre/so wår hie die\nwandlung der substantz des brots/in die substantz des\nlychnams Christi/welche versubstantzung sy mit vnns\nnit erkennend/vnnd thůnd das recht vnnd Christenlich:",
         "b": "den hoͤrenden vnnd laͤſenden darumb\nerkennen. Zwingly. Wir erkennen wol/das offt ein ding den na=\nmen des ſchebt/daruß es gemacht iſt/Das die=\nnet aber hieher nit/dann wo der Lychnam Chri=\nſti vß dem brot gemacht waͤre/ſo waͤr hie die ver\nwandlung der ſubſtantz des brots /",
-        "similarity": 0.5424
+        "similarity": 0.5424,
+        "semantic": 0.734,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Dann wo jm anderst/so wåre nit allein das geschlåcht oß\nsam Abrahams angenomen/sonder ouch das geschlåcht\noder samen des korns/wie vor gnůgsam erklårt ist.",
         "b": "in die ſub=\nſtantz des lichnams Chriſti/ welche verſubſtantz\nung ſy mitt vns nit erkennend/vnnd thuͤnd das\nrecht vnnd Chriſtenlich:dann wo jm anderſt/ſo\nwaͤre nitt allein das geſchlaͤcht oder ſam Abra=\nhams angenommen/ſonder ouch das geſchlaͤcht\noder ſamen des korns/wie vor gnuͤgſam erklaͤrt\niſt.Den ſpruch Jheremie am xj.cap.",
-        "similarity": 0.4091
+        "similarity": 0.4091,
+        "semantic": 0.5972,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Den\nspruch Jheremie am vj. cap. der etwan ein andren sinn\nhat/weder gemeinlich wirt angezeigt/bedarff keins ver\nantwurtens:",
         "b": "der etwan\nein andren ſinn hatt/weder gemeinlich wirt an=\ngezeygt/bedarff keins verantwurtens:dañ nach\nſinẽ ſinn ſtryt er nit wider vns.",
-        "similarity": 0.4651
+        "similarity": 0.4651,
+        "semantic": 0.8321,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -63,25 +69,36 @@
         "op": "match",
         "a": "dann solichs gnůg vß=\ngericht wirt mit den vßgetruckten worten/Brot/dann\nEquipollentia, das ist glychgeltende red/erhaltend einandern\nin glychem vstand/empfelhend solichs ouch allen Christ\nglöubigen menschenn/nach dem grund angezeygter ge=\nschrifft.",
         "b": "Dz Paulus fuͤr\nvnd fuͤr trinckgſchier / oder tranck nempt/vnnd\nnit wyn/mag nuͤt helffen:dañ ſoͤlichs gnuͤg vß=\ngericht wirt mit vßgetrucktẽ worten/Brot/dañ\nEquipollentia/das iſt glychgeltende red/erhaltend\nein andern in glychem verſtand:empfelhend ſoͤl=\nlich ouch allen Chriſtgloͤubigen menſchen /",
-        "similarity": 0.3953
+        "similarity": 0.3953,
+        "semantic": 0.7536,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Hienos: am 118\nblatt. Zwingy wyter: Lff anwůrdrung vnsere grůnd harfůr ze tragen/ge=\nbend wir im namen Gottes dise antwurt:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6625,
+        "semantic_match": "nach\ndem grund angezeygter geſchrifft. Zwingly\n\n## Marginalien\nSuͤch am\n133. 134. blat.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "jn vorab\nbittende/das er vß Göttlicher gnad/vnns verliche\nwider sin heyligs wort nienen zegedencken/damit weder\nlerende noch hörende/ůzit vß eygnem radt fůrnemind.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6332,
+        "semantic_match": "Die vierdt\n\nverſtand Pauli/alſo wie ers namſet/Brot/hette\ner ouch meldũg thon/des!worts/Wyn. Von dẽ\nzeychen yngefuͤrt/laſſen wir als Arugumenten\nRationis /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Erstlich/das Christus Jesus vnser heyland/Johannjs\nam vj. capit. selbs also geredt hat: Das brot Gottes ist\ndas von himel kumpt/vnnd der welt das låben gibt/an\nwelchen",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6127,
+        "semantic_match": "Die vierdt\n\nverſtand Pauli/alſo wie ers namſet/Brot/hette\ner ouch meldũg thon/des!worts/Wyn. Von dẽ\nzeychen yngefuͤrt/laſſen wir als Arugumenten\nRationis /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -89,7 +106,11 @@
         "b": "nach\ndem grund angezeygter geſchrifft. Zwingly\n\n## Marginalien\nSuͤch am\n133. 134. blat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6893,
+    "reworded": 5,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4948,

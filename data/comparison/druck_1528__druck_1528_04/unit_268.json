@@ -39,55 +39,73 @@
         "op": "match",
         "a": "Seite [IVX]\n**Die vierdt**\nlydens / also ouch des trosts / So wåren wir ouch vßteys\nler der lyden vnd anfechtungen. Das wurd aber dienen\nvil mer den schergen /",
         "b": "zun Corinth. am j.ca. Wie wir sind Koinwvi / dz ist gsellen des\nlydens/ also ouch des trosts/ So wårē wir ouch\nvßteyler der lyden vnd anfechtungē.",
-        "similarity": 0.4074
+        "similarity": 0.4074,
+        "semantic": 0.7129,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dann den Christen. Hierumb an\ndisem ort zun Corinthiern / am x. cap. So haben wir ein\ngemeinschafft vnd ein gesellschafft /",
         "b": "Dz wurd\naber dienen vil mer den schergen/ dann den Chri\nsten. Hierumb an disem ort zun Corinthern am\nx.cap.",
-        "similarity": 0.4878
+        "similarity": 0.4878,
+        "semantic": 0.7939,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnd sind ouch ein ge\nsellschafft in vnserem houpt Christo Jesu. Wildarnebē\nvnabgeschlagen habenn / das die diener der Kilchen ge\nmeynlich miteinandern oder in sonderheyt /",
         "b": "So haben wir ein gemeinschafft vnd ein\ngesellschafft / vnd sind ouch ein gesellschafft in\nvnserm houpt Christo Jesu. Wil darneben vn-\nabgeschlagen haben /",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.7952,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "die Sacra=\nmenten / vßteylen. Aber diß ist zů allen geschriben / vnd\ndie nachgenden wort die erklårens / so er spricht: Dann\nwir vil /",
         "b": "das die diener der Kilchen\ngemeinlich miteinanderen oder in sonderheyt/ die Sacramentē/ vßteylen. Aber diß ist zü allen\ngeschriben / vnd die nachgendē wort die erklår-\nens/",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7741,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "sind ein brot / vnnd ein lyb / diewyl wir all eins\nbrots teylhafftig sind / Sann wir sind teylhafftig / zum\nersten miteinandern /",
         "b": "so er spricht: Dann wir vil / sind ein brot/ vnd ein lyb/ diewil wir all eins brots teylhafftig\nsind/ Dañ wir sind teylhafftig /",
-        "similarity": 0.6512
+        "similarity": 0.6512,
+        "semantic": 0.8393,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "des himmelschen brots Christi Je\nsu. Vnd hernach bezůgen wir vns / solichs warhafftig=\nklich in den Sacramenten / durch das Sacramentlich\nbrot.",
         "b": "zum ersten mit-\neynandern/ des himmelschen brots Christi Jesu\nVnd hernach bezügē wir vns/ sölichs warhaff-\ntigklich in den Sacramenten /",
-        "similarity": 0.5854
+        "similarity": 0.5854,
+        "semantic": 0.8822,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "**Allehamer+**\n\n[E]S bringt min herr Doctor herfür / das Grie=\nchisch wort / κοινωνία / heyß ein gesellschafft / das\nvernein ich jm nit /",
         "b": "durch das sacra-\nmentlich brot. Althamer. Es bringt min herr Doctor herfür/ dz Grie\nchisch wort/ κοινωνία/ heyß ein gesellschafft/",
-        "similarity": 0.5854
+        "similarity": 0.5854,
+        "semantic": 0.7904,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das an vil orten den selbigen\nverstand oder bedůtung hab. Aber daruß wirt nit vol=\ngen / das es ouch hie můß haben:",
         "b": "das\nvernein ich jm nit/ das es an vil orten den selbigē\nverstand oder bedütung hab. Aber daruß wirdt\nnit volgen /",
-        "similarity": 0.5581
+        "similarity": 0.5581,
+        "semantic": 0.7582,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dan in der andern Epi. zun Corinthiern am xiij. capitel / so Paulus spricht: Die\ngnad vnsers herren Jesu Christi / vnd liebe Gottes /",
         "b": "das es ouch hie müß haben: dann in\nder andern Epist. zun Corinthern am xiij. Capi. so Paulus",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.8753,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -107,7 +125,11 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8024,
+    "reworded": 4,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6071,

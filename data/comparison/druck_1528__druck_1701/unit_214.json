@@ -57,7 +57,9 @@
         "op": "match",
         "a": "Seite CI\n**Schlußred.** **CI**\nGottes. Er spricht aber witer/zun Römeren am ij cap. Nit die da hören das gesetz/sind gerecht vor Gott/sun=\nder die thüyer/werden gerecht gemacht.",
         "b": "Cap. Nit die da hoͤren das Ge-\nſatz / ſind gerecht vor Gott / ſonder die Thaͤter werden ge-\nrecht gemacht.",
-        "similarity": 0.4615
+        "similarity": 0.4615,
+        "semantic": 0.6935,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,31 +71,44 @@
         "op": "match",
         "a": "In weliche woz=\nten er wol spürẽ mag/das wir zů der gnad Gottes/vnß\nsöllen schicken zů den wercken:dan als Jacobi stadt/das\nder gloub ane die werck tod ist/der da ouch ein gnad/vn̄\nein vngößne gaab ist/etc.",
         "b": "Dann als Jacobi ſtaht / daß der Glaub ohne\ndie Werck tod iſt / der da auch ein Gnad / und ein einge-\ngoßne Gaab iſt /",
-        "similarity": 0.4242
+        "similarity": 0.4242,
+        "semantic": 0.6572,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "**Herr Poley.**\nALles so herr Pfarrer geredt hatt/ist alles vffge= Süch hienor\nlößt vnd erklärt/durch der predicanten vn̄ an= am.94.vnd 96\ndrer antwurt/Darum referieren wirs ad acta.",
         "b": "ꝛc. Herz Poley. ALles ſo Herz Pfarrer geredt hat / iſt alles vff-\ngeloͤſzt und erklaͤrt durch der Predicanten und\nanderer Antwort /",
-        "similarity": 0.4364
+        "similarity": 0.4364,
+        "semantic": 0.663,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "blatt. **Theobaldus hütter**\nICh hoff herr Poley/so er mich anzücht/das min\nangezogne sprüch nit gnůgsam sind erklärt/ge= Süch hienor\ngen siner inred/hoff ich gnůgsamklich widerstad am 100.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7366,
+        "semantic_match": "Die Dritte Schlußred. 207\n\nvß den Wercken / zun Roͤmern am I. Iſt kein wunder / daß myn Herz Pfarrer die Sach nit merckt /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "blatt. thůyen der selben inred/vnd referier mich zun Acta: **Herr Josephus Forrer pfarrer**\n**zů Herißouw.**\nVAlgelerten wysen vnd lieben/der anzug/so min\nherren zůgegen/ouch gůten vnd lieben brüder\nvñ landlüt von Appenzell/gethon/ist hüt lang\nmit vil anzogner geschrifft daruon geredt/darumb nitt\nnott ist/vilmer daruon zůreden/damit vnd jr aber er=\nkennen min meinung/der yetz vorhanden schlußred/wil\nich ein kleyne meinung darzů reden.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7076,
+        "semantic_match": "Die Dritte Schlußred. 207\n\nvß den Wercken / zun Roͤmern am I. Iſt kein wunder / daß myn Herz Pfarrer die Sach nit merckt /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Ich bekenn wol/wie\nsant Paulus redt zů den Römern/das da nit sind gnůg\nCc",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7905,
+        "semantic_match": "Die Dritte Schlußred. 207\n\nvß den Wercken / zun Roͤmern am I. Iſt kein wunder / daß myn Herz Pfarrer die Sach nit merckt /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -107,7 +122,11 @@
         "b": "hoff ich gnuͤgsamlich widerstand thuͤyen\nderſelben ynred / und referier mich zun Acta. Cc iij      Herz\n\n## Marginalien\n\nſuch hie-\nvor am\n195 und\n197. blat. ſuch hie-\nvor am\n205. blat",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7081,
+    "reworded": 6,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3355,

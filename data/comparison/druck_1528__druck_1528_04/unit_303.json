@@ -45,19 +45,25 @@
         "op": "match",
         "a": "Seite CXLIII\n\n**Schlußred.**\n\nrer entſcheydung/vnd begåren wyter als vor/antwurt: die figur aber laß ich in ſiner wirde ſtan.",
         "b": "darum̄ nit not wy\nter zeerholen in wyter entscheydung/ vnd begä\nrẽ wyter als vor/antwurt: die figur aber laß ich\nin siner wirde stan.",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.699,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "**Ecolampadius.**\n\n[S] S fragt herr Benedict/was der herr den jun=\ngerē gereicht hab/gib ich im antwurt: Den kelch\noder den wyn/aber nit ſchlächtlich/ſonder dz er\nſin lyden jnen damit beuelche/vnnd ſy zů einer danckſa\ngung ynfüre.",
         "b": "Ecolampadius. Es fraget herr Benedict/ was der Herr den\njüngeren gereicht hab/gib ich jm antwurt: Den\nKelch oder den wyn/aber nit schlächtlich/sonder\ndas er sin lyden jnen damit beuelche/vnnd sy zů\neiner dancksagung ynfüre.",
-        "similarity": 0.8354
+        "similarity": 0.8354,
+        "semantic": 0.9011,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "**Pfarrer von Sant Gallen.**\n\n[D] As vnſer pündnuß am crütz verſicherer wor=\nden ſye/wirt niemand lut der worten/ſelbs ver\nneynen/ſo ſymåldend/Das iſt min blůt/das\nes am crütz vergoſſenn worden ſye/in wellichen\nworten ſo der Herr geſagt hat/Trinckend all daruß/",
         "b": "Pfarrer von Sant Gallen. Dz vnser pündtnuß am crütz versichert wor\nden sye/wirt niemand/lut der worten/selbs ver\nneinen/so sy mäldend/das ist min blůt/",
-        "similarity": 0.5946
+        "similarity": 0.5946,
+        "semantic": 0.8605,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,27 +75,41 @@
         "op": "match",
         "a": "das iſt min blůt/hab er jnen das gegeben/ſo er jnen dar=\ngebotten/vnd heyſſen trincken/beuolchen hat: darumb\ndas diſe wort den ſinn vnd verſtand nit haben mögind/",
         "b": "so er jnẽ\ndargebotten/ vnnd heyssen trincken/ beuolchen\nhat: darumb das dise wort den sinn vnnd ver=\nstannd nitt habenn mögind/",
-        "similarity": 0.5098
+        "similarity": 0.5098,
+        "semantic": 0.8812,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "begåren wir dargegen gſchrifftliche vnderrichtung/die\nvns von ſölichem verſtand in vnſere gewüßne verſich=\nren möge:dann der Herr mit ſölichen wortē/Trincked/",
         "b": "begärend wir dar=\ngegenn geschrifftliche vnderrichtung/ die vnns\nvonn sölichem verstand in vnsere gewißne ver\nsicherenn möge : dann der Herr mit söllichenn\n                                x  ij",
-        "similarity": 0.5106
+        "similarity": 0.5106,
+        "semantic": 0.8219,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "das vßgeteylet hat/ſo er darnach am Crütz vergoſſenn\nhat. Von der vßteylung wågen/vß Petro vñ der Epi\nſtel zum Hebreern/kan niemand bneinen:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7088,
+        "semantic_match": "das es\nam crütz vergoſſen wordẽ sye/in wellichen wor\nten so der Herr gesagt hat:Trincked all daruß/ das ist min blůt/hab er jnen das geben/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "probiert aber\ndamit nit/das die wort/Das iſt min blůt/nit das blůt\nChriſti gewåſen ſye. Sz keiner on glouben dißers Sacra\nments (als ſy es benamſend) on zwyffel der/ſo in Chri=\nſtum durch den glouben nit yngepflantzet iſt/der würder",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7289,
+        "semantic_match": "das es\nam crütz vergoſſen wordẽ sye/in wellichen wor\nten so der Herr gesagt hat:Trincked all daruß/ das ist min blůt/hab er jnen das geben/",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.8002,
+    "reworded": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5376,

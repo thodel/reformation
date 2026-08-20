@@ -63,49 +63,68 @@
         "op": "only_a",
         "a": "in weli\nchen klarlich anzeigt wirt/ das regieren der Kilchen. ***\n\n*Marginalia:*\nSuͤch hieuor\nam. 38. 41. 42. 62. 64.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6323,
+        "semantic_match": "Damit wil ich beschliessen/von fuͤr=\ntze vnd bit waͤgen miner Herren der Presidenten. Aber ge=\n\n## Marginalien\nSuͤch\nhieuor\nam 82.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "65. bla\nSuͤch am. 58. 48. 77. 79. vn\nam nåchſten\nblatt harnach. Suͤch hieuor\nam 63. blatt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8266,
+        "semantic_match": "vñ\n172. blat. Suͤch\nhieuor\nam 136. 137. blat. Suͤch\nhieuor\nam 136. blat.",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "***\n\n**Martinus Bucer.**\n\nIn der Offenbarug Gottes/ die er zuͤ allen glöu\nbigē im hertzē redt/ iſt vorhin uͤberflüſſig durch\nMeiſter Vlrich Zwinglin vnnd mich/",
         "b": "Schlußred. 175\nMartinus Butzer. VOn der Offenbarung Gottes / die er zü allen gloͤu=\nbigen im Hertzen redt / ist vorhin überflüssig durch\nMeister Vlrich Zwinglin vnd mich/anzeigt/dergly=\nchen ouch von den ordnungen der rechtgloͤubigen gemeind/",
-        "similarity": 0.5079
+        "similarity": 0.5079,
+        "semantic": 0.9009,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "anzeigt/ vnd derglychen ouch von den ordnungen der rechtglöubigen\ngemeynd/ ouch dem regieren/ das doch weydē heyßt/ zc. rozuͤ ij.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6297,
+        "semantic_match": "Damit wil ich beschliessen/von fuͤr=\ntze vnd bit waͤgen miner Herren der Presidenten. Aber ge=\n\n## Marginalien\nSuͤch\nhieuor\nam 82.",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "deren Biſchoff. zc. Des alles referier ich mich vff\nDie Acta. **Theobaldus Huͤter.**\n\nVnd nach dem bißhar nit wyter anzogen iſt/",
         "b": "ouch dem regieren / das doch weiden heißt / Actor.20.cap. deren Bischoff/ꝛc. Deß alles referier ich mich vff die Acta.",
-        "similarity": 0.4186
+        "similarity": 0.4186,
+        "semantic": 0.6023,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Ac=\ntorum ij. In dem vorgenanten capitel/ ſpricht\ner alſo: Vnd ietz empfilch ich uͤch Gott/ vn̄ dem\nwort ſiner gnadē/",
         "b": "Theobaldus Huͤter. VNd nach dem bißhar nit wyter anzogen ist / Actor. 20. cap. In dem vorgenanten capitel / spricht er also:",
-        "similarity": 0.3256
+        "similarity": 0.3256,
+        "semantic": 0.6842,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "der da mächtig iſt zuͤ erbuwen/ vnd ze\ngeben die erbſchafft in allen geheyligoten. Vß welichem\ntext klarlich volget/ die erbſchafft zuͤ leren/",
         "b": "Vnd jetz empfilch ich uͤch Gott / vnd dem Wort siner\ngnaden / der da maͤchtig ist zü erbuwen / vnnd ze geben die\nErbschafft in allen geheiligoten.",
-        "similarity": 0.44
+        "similarity": 0.44,
+        "semantic": 0.6347,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "in allen ſinen\nvßerwelten klarlich gemerckt/ was Gott ſinem geſpons\nvnd",
         "b": "Vß wellichem Text klarlich\nvolget die Erbschafft zü leren / in allen sinen Vßerwelten\nklarlich gemerckt/was Gott sinem Gespons vnd Gemachel\nder Christenlichen Kilchen beuolchen/ꝛc.",
-        "similarity": 0.5405
+        "similarity": 0.5405,
+        "semantic": 0.8033,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -137,7 +156,11 @@
         "b": "vñ\n172. blat. Suͤch\nhieuor\nam 136. 137. blat. Suͤch\nhieuor\nam 136. blat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7143,
+    "reworded": 6,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3573,

@@ -39,43 +39,57 @@
         "op": "match",
         "a": "Seite LXVI\nSchlußred. LXVI\ngottes zů allen gůten wercken geschickt machet/darum\nalles das nit gůt sin můß/das sy nit überflüssig leret:",
         "b": "darumb alles das nit gůt ſin můß / das ſy\nnit überflüſſig leret : vnnd alſo der Senger bekennet / wenn\ndie Lerer vnnd jr Vßlegung nit gelten ſölle /",
-        "similarity": 0.449
+        "similarity": 0.449,
+        "semantic": 0.6573,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vñ\nalso so der Senger bekennet/wenn die lerer vnd jr vßle=\ngung nit gelten solle/so wüsse er nützit zeschaffen/bekent\ner fry/das vnsere Schlußreden/in Göttlicher geschrifft\ngegründet sind/darumb sy ouch die ware Göttliche war\nheyt sind.",
         "b": "ſo wüſſe er nü=\ntzt zeſchaffen / bekent er fry / das vnſere Schlußreden / in\nGöttlicher Gſchrifft gegründet ſind / darumb ſy ouch die\nware Göttliche Warheit ſind.",
-        "similarity": 0.6364
+        "similarity": 0.6364,
+        "semantic": 0.7602,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Dem Herren sye lob/ Das er jnn zů sölicher\nbekantnuß bracht hat. Das er aber disen handel/ Gott\nvnd gemeiner Christenlichen Kilchen/",
         "b": "Dem Herren ſye lob / Daß er\njnn zů ſöllicher Bekantnuß bracht hat. Daß er aber diſen\nhandel / Gott vnnd gemeiner Chriſtenlichen Kilchen be=\nuilcht /",
-        "similarity": 0.7826
+        "similarity": 0.7826,
+        "semantic": 0.9624,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "beuilcht vnd be=\ngibt sich zegelåben/dem das die selbig hierinn gloube vñ\nhalte/Da welte Gott das er verstünde sine eygne wort:",
         "b": "vnnd begibt ſich zegelåben dem / das die ſelbig hierin\ngloube vnd halte / Da welte Gott das er verſtůnde ſine ei=\ngne Wort :",
-        "similarity": 0.7111
+        "similarity": 0.7111,
+        "semantic": 0.9536,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "daß die gemeyn heylig Christelich Kilch allein die recht=\nglåubigen Gottes sind/ vß dem wort gottes wider gebo\nren/By dem belyben sy.",
         "b": "dann die gemein heilig Chriſtenlich Kilch allein\ndie rechtglöubigen Gottes ſind / vß dem Wort Gottes wi=\nder geboren / by dem belyben ſy.",
-        "similarity": 0.6222
+        "similarity": 0.6222,
+        "semantic": 0.881,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Darumb sölche Kilchen dann ein\nsul vnnd grundueste der warheyt/ von Paulo genannt\nwirt/Das die göttlich warheit ståt vnnd vest by jr be=\nlybt/vnd sy by der warheit:",
         "b": "Darumb ſölche Kilchen\ndann ein Sul vnd grundueſte der Warheit / von Paulo ge=\nnannt wirt / Das die Göttlich Warheit ſtåt vnd veſt by jr\nbelybt /",
-        "similarity": 0.6909
+        "similarity": 0.6909,
+        "semantic": 0.9135,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Das Christus by jr ist/ vñ\nsin geyst lert sy/ derhalb sy nun das gůt gloubt vnd hal=\ntet/ alles aber/nů das gůt ist/haltet die geschrifft über=\nflüssig.",
         "b": "vnd ſy by der Warheit : Das Chriſtus by jr iſt / vnd\nſin Geiſt lert ſy / derhalb ſy nun das gůt gloubt vnd haltet /",
-        "similarity": 0.6038
+        "similarity": 0.6038,
+        "semantic": 0.7625,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -87,7 +101,9 @@
         "op": "match",
         "a": "Darumb nympt sy nüt an/ das in der geschrifft\nnit ist. So dann er selbs bekennt/ das er wider vns/mit\nder geschrifft/nüt vermag/damit er all vnser Schluß=\nreden/der gschrifft gemåß/vnnd in jr gegründet/beken=\nnet/sölt er jren ouch gelåben:",
         "b": "So\ndann er ſelbs bekennt / daß er wider vns / mit der Gſchrifft\nnüt vermag / damit er all vnſer Schlußreden / der Gſchrifft\ngemåß /",
-        "similarity": 0.5672
+        "similarity": 0.5672,
+        "semantic": 0.5758,
+        "reading": "check"
       },
       {
         "op": "only_b",
@@ -99,9 +115,15 @@
         "op": "match",
         "a": "dann sy die war Christen=\nlich Kilch gloubt vnd haltet. Wie sy der geyst der\nwarheyt anderst nüt/dann die gschrifft jnn=\nhaltet/lernen mag. K ij",
         "b": "Wie ſy der Geiſt der Warheit anderſt nüt / dann die\nGſchrifft jnnhaltet / lernen mag.",
-        "similarity": 0.5366
+        "similarity": 0.5366,
+        "semantic": 0.7045,
+        "reading": "same"
       }
-    ]
+    ],
+    "semantic": 0.7968,
+    "reworded": 1,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.7481,

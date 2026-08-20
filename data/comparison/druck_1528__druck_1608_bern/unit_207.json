@@ -63,49 +63,67 @@
         "op": "match",
         "a": "Seite XCVI\nSchlußred. XCVI\ngůte werck můß man an vnderlaß tůn / wañ man aber\nſchon alles dz gethon hette / dz noch niedheiner gemocht\nhat /",
         "b": "die Erklaͤrung Herren Berchtolden / guͤte\nWerck muͤß man ane vnderlaß thuͤn / wañ man aber ſchon\nalles das gethon hette /",
-        "similarity": 0.4255
+        "similarity": 0.4255,
+        "semantic": 0.7512,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "was jm gebotten iſt / noch dannocht wåre er ein vn=\nnůtzer knecht / vnnd alle ſyne gůten werck / die möchten\ndie gnad gottes noch nit verglichen /",
         "b": "das noch nie keiner gemoͤcht hat / was jm gebotten iſt / noch dannocht waͤre er ein vnnuͤtzer\nKnecht /",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.5755,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "zů dem ſo ſind alle\ngůte werck / nitt vnſer / ſonder des geyſt Gottes in vnns\nwůrckend / darumb ſind es ſich /",
         "b": "vnnd alle ſyne guͤten Werck / die moͤchten die gnad\nGottes noch nit verglichen: Zuͤ dem / ſo ſind alle guͤte Werck\nnit vnſer /",
-        "similarity": 0.3111
+        "similarity": 0.3111,
+        "semantic": 0.8938,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "wie ſant Auguſtin recht\ngeſchriben hatt / das gott ſyn eigne werck in vns belonet. Bůchſtab. Dein frömbde gloß nim ich an /",
         "b": "ſonder deß Geiſt Gottes in vns wuͤrckend / dar=\numb find es ſich / wie Sant Auguſtin recht geſchriben hat / das Gott ſyn eigne Werck in vns belonet.",
-        "similarity": 0.5417
+        "similarity": 0.5417,
+        "semantic": 0.7606,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "ich behůlff mich\nder gſchrifft / durch mich vorhar angezogen / vñ\ndie ich jetz harin wird fůre. Exodi am erſte ſtat\ngſchriben /",
         "b": "Buͤchſtab. Kein froͤmbd gloß nim ich an / ich behilff mich der Ge=\nſchrifft / durch mich vorhar angezogen / vnd die ich jetz\nharin wird fuͤren.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.8504,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das gott hat angeſehẽ den verdienſt der He=\nbreiſchen hebameñ / die die kinder nach dem gebott Pha=\nronis / nitt wolten vmbringen /",
         "b": "Exod. am erſten ſtat geſchriben / das Gott hat angeſehen den verdienſt der Hebreiſchen\nHebam=",
-        "similarity": 0.3429
+        "similarity": 0.3429,
+        "semantic": 0.7382,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "ſpricht der text daſelbs / das gott den hebameñ / vmb ſolicher gůtthåt willen / bat\nhůſer gebuwen. Danielis am iiij. Hatt er geſprochen zů\ndem kůnig /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6778,
+        "semantic_match": "es iſt ouch nit uͤbel geredt von\nTobia / wie wol die ſelb Hiſtori nit Bibliſch iſt / das mit\ngloub vnd Allmuͤſen die Suͤnden gereiniget werden /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "entledig din ſůnd mit dem almůſen / ſpricht\nder Prophet Dauid am hundert vnd xviij. Pſalmen. Jch hab geneygt min hertz zů thůn din gerechtigkeit /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7579,
+        "semantic_match": "dann\nje mer man Gott glaubt / vnñ den glouben mit den Wer=\ncken der liebe beweißt / je mer die liebe Gottes in vns zuͤ=\nnimpt /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -117,15 +135,25 @@
         "op": "only_a",
         "a": "Martinus Butzer. Vff das ort Exodi / wiewol es nit wider vns iſt / dañ gnůg geſagt iſt / wie vnſer werck von Gott\nbelonet werden /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6784,
+        "semantic_match": "ſind von\nGott angenommen worden / es ſtat aber nit / daß er\nGott damit etwas abuerdienet hette / das ſine werck Goͤtt=\nliche gnad verglichet hetten /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "doch ſo wil der Hebreiſch bůch\nſtab / daſelbs ouch die meinung gebe / es hatt ſich begeben",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7591,
+        "semantic_match": "es iſt ouch nit uͤbel geredt von\nTobia / wie wol die ſelb Hiſtori nit Bibliſch iſt / das mit\ngloub vnd Allmuͤſen die Suͤnden gereiniget werden /",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7443,
+    "reworded": 7,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.324,

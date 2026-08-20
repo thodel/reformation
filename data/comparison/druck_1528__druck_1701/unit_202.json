@@ -63,55 +63,75 @@
         "op": "match",
         "a": "Seite [XCV]\n\n**Schlußred.**\ndem touff an sich neme wurden im siñ sünd / so er vorhar\ngethon nüt schaden / wo aber der mensch nach dem touff\nin houpt sünd valt /",
         "b": "wurden ihm ſyne Sůnd / ſo er vor-\nher gethan / nůt ſchaden / wo aber der Menſch nach dem\nTauff in Haubtſůnd fallt /",
-        "similarity": 0.52
+        "similarity": 0.52,
+        "semantic": 0.678,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "müß er sich gegen Gott / mit bycht\nrüw / penitentʒ / oder güten wercken versüne / sunst wirt\njm nach sinen wercken geben /",
         "b": "műß er ſich gegen Gott / mit\nBycht / Reu / Penitentz / oder gůten Wercken verſuͤhnen / ſonſt wird ihm nach ſynen Wercken geben /",
-        "similarity": 0.6341
+        "similarity": 0.6341,
+        "semantic": 0.791,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vñ jm der tod Christi nit\nmernütz sin / diewil er in houptsünden verharret. **Martinus Butzer.**\nD As der dʒ ewig läben hab /",
         "b": "und ihm der\nTod Chriſti nit mehr nůtz ſyn / diewyl er in Haubtſuͤnden\nverharret. Martinus Butzer. DAsz der das ewig Leben hab /",
-        "similarity": 0.5333
+        "similarity": 0.5333,
+        "semantic": 0.7103,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vñ jm also dhein sünd\nentlich (hab ich gesagt) schadẽ möge / hat Chri=\nstus selbs geredt / nitt destweniger müß rechen=\nschafft geben werden /",
         "b": "und ihm alſo kein\nSůnd endlich (hab ich geſagt) ſchaden moͤge / hat\nChriſtus ſelbſt geredt / nit deſto weniger műß Rechen-\nſchafft geben werden fůr ein jedes unnůtzes Wort /",
-        "similarity": 0.4615
+        "similarity": 0.4615,
+        "semantic": 0.2985,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "für ein yedes vnnützes wort / vnd\nwas vnrecht ist: aber in der rechnung wirt Christus die\nsünd / wie Paulus zum Rhömern am viij.",
         "b": "und\nwas unrecht iſt : Aber in der Rechnung wird Chriſtus\ndie Sůnd / wie Paulus zun Roͤmern am 8. klarlich ſagt /",
-        "similarity": 0.6364
+        "similarity": 0.6364,
+        "semantic": 0.9267,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "klarlich sagt / vertretten / vnd durch synen geyst / sy entlich gantz from\nvñ jm selbs glich machen / dʒ jnen nach jren güten werck\nen /",
         "b": "vertretten / und durch ſynen Geiſt ſy endlich gantz from̃\nund ihm ſelbs glych machen / daß ihnen nach ihren gůten\nWercken /",
-        "similarity": 0.5116
+        "similarity": 0.5116,
+        "semantic": 0.6908,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "die doch des herren syn werden / vnd nit jr eygen / das\newig läben volkomenklich zügestelt wirt. **Büchstab**\nD Als vnser werck /",
         "b": "die doch deß Herzen ſyn werden / und nit ihr\neigen / das ewig Leben vollkomlich zůgeſtellt wird. Bb\t\t\tBůch-\n\n## Marginalien\n[unleserlich]",
-        "similarity": 0.3902
+        "similarity": 0.3902,
+        "semantic": 0.8179,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "so nach empfahung des touffs\nvß dem glouben beschehen / verdienstlich syen / wirt mencklich im alten vñ nüwen Testament\nerfunden / als Christus spricht Matth.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6069,
+        "semantic_match": "und\nder Gerecht ſchwårlich behalten wird / wie wird es dann\ndem Sůnder gahn. So St. Paulus ſpricht in der erſten\nzů den Corinth.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "am vj. Ser der da thüt den willen myns himelschen vatters / der\nwirt gon in das rich der himlen. Actuum am v.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6297,
+        "semantic_match": "wo werden dann die Boßhafftigen und die Sůn-\nder blyben oder erſchynen ? Hierum / diewyl wir nun von\neinem jeden unnůtzen Wort műſſen Rechnung geben /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -119,7 +139,11 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6833,
+    "reworded": 3,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3742,

@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "Schlufzred. XI\nin sollichem vsserlichen regiment/hatt bewysen können/ so man aber redt nach Paulo von der Christenlichen ge=\nmeind/welches da find alle die im geyst nüw gepozenn/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6627,
+        "semantic_match": "Schlußred. 23\n(der Geſchrifft nach zůreden) Petrus oder einiger anderer\nApoſtel Gottes/mög ein Houpt der Kilchen genempt wer=\nden /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "ein göttlich låben furen/welches niemand/dan allein der\nherr verlyhenmag/vnd alles thun/Sant Peters/vnd\naller Apostlen/nur ein vsserlicher dienst durch Paulus\ngenempt wirt/so ist noch nit bewert/das (der geschrifft\nnach zureden) Petrus oder einiger anderer Apostel got=\nres/mog ein houpt der Kirchen genempt werden/vnd\nsolte der Bychtuatter den ſpruch pauli am vierden Ca\npitel 8 ersten Epistel zun Chozi.verantwurte/da pau=\nlus von jim vnnd syns glichen scheibt/man föll sy halten\nfürdiener Christi vnd schaffner/das ist prediger der ge=\nheymnussenn Gottes.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8208,
+        "semantic_match": "man ſöll\nſy halten für Diener Chriſti vnd Schaffner / das iſt Pre=\ndiger der Geheimnuſſen Gottes. Nemlich das heilig Eu=\nangelion daran ſtat es noch /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,25 +69,34 @@
         "op": "match",
         "a": "Nemlich das heylig Euangelion\ndaran stat es noch/d3 er geschrifft bring/ was er gethon\ndas es inne zum houpt machen mog.",
         "b": "das er Geſchrifft bring / was\ner gethon/das es jnne zum Houpt machen mög. Chriſtus\niſt allein der geiſtlich Hertz/er kan ſy enderen /",
-        "similarity": 0.6087
+        "similarity": 0.6087,
+        "semantic": 0.3185,
+        "reading": "check"
       },
       {
         "op": "only_a",
         "a": "Christus ist allein\nder geystlich herr/er kan sy endere/das sy krofftig sind. Sant Paulus/Petrus leer/bringt nüt/Christus leyte\nsy dann.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7972,
+        "semantic_match": "man ſöll\nſy halten für Diener Chriſti vnd Schaffner / das iſt Pre=\ndiger der Geheimnuſſen Gottes. Nemlich das heilig Eu=\nangelion daran ſtat es noch /",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Niemand kan die hergen enderndann er/vnnd\ngebend also Christo die eer/land sy binden/das ist/erken\nnen gebunden/die nit glouben.",
         "b": "das ſy kräfftig\nſind. Sant Paulus/vnnd Petrus leer/bringt nüit/Chri=\nſtus leite ſy dann. Niemand kan die Hertzen endern dann\ner/vnd gebend alſo Chriſto die eer/wann ſy binden/das iſt/",
-        "similarity": 0.4561
+        "similarity": 0.4561,
+        "semantic": 0.8019,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Sann das sind die kinder\nAbrahe/die die werck Abrahe thund/darumb so eruor=\ndern ich geschrifft. Sz Petrus von ſyne ampt ein houpt\nmog genempt werden.",
         "b": "erkennen gebunden/die nicht glouben. Dann das ſind die\nKinder Abrahe / die die Werck Abrahe thůnd/darumb ſo\neruordern ich Geſchrifft /",
-        "similarity": 0.5833
+        "similarity": 0.5833,
+        "semantic": 0.8039,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -93,7 +108,9 @@
         "op": "match",
         "a": "Bichtuatter. Err Parti Bucer/langt mich an zubewaren/ das der nam eins houpts Sant Peter/vnd sy=\nnen nach komen mog geben werden/seyt zü dem\nſpruch am erste Büch & küngeim yv. Cap. Sen ich han\nC ij",
         "b": "vnnd ſynen Nach=\nkommen mög geben werden / ſeit zů dem Spruch am\nerſten Bůch der Kůnigen im 15.cap. Den ich han har in ge=\nfůrt von dem Kůnig Saul/vnd in dem ſelbigen/den zeuer=\nſtoſſen/ſo ſeit er /",
-        "similarity": 0.3077
+        "similarity": 0.3077,
+        "semantic": 0.7081,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -107,7 +124,11 @@
         "b": "[unleserlich]geſtw\n[unleserlich]Regi=\n[unleserlich]Paulo\n[unleserlich]ie im\n[unleserlich]ſwie=\n[unleserlich]hin/ [unleserlich]ienſt\n[unleserlich]daß\n[unleserlich](der",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7019,
+    "reworded": 5,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4917,

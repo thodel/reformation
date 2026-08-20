@@ -63,7 +63,9 @@
         "op": "match",
         "a": "Seite CLXXXI\nSchlußred? tåglichen opfer der dancksagung/vnd der widergedåcht=\nnis der Måß/nit darum/das wir Christo ſin liden min=\ndren welleñ/ſunder das began mit widergedåchtnis/des\nvor einoſt verbrachten opfers/wil ich bewåren/mit dem\nſpꝛuch/vnd denen worten/die Christus hat geredt:das\nthůnd in miner gedåchtnis.",
         "b": "wil ich bewaͤh=\nren mit dem Spruch / und denen Worten / die Chri=\nſtus hat geredt: Das thuͦnd in myner Gedechtnus.",
-        "similarity": 0.3288
+        "similarity": 0.3288,
+        "semantic": 0.754,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,7 +77,9 @@
         "op": "match",
         "a": "San Paulus zů den Corin=\nthern/hat vns vßgelegt die gedåchtnis/die ſelbig ſtadt\nin verkündernuß des ſterbens Christi. Das iſt aber kunt\nlich/dann die Euangeliſten klar anzeigen/wie da ſye ge=\nendet worden das Oſterlamb des alten gſatzt/vnd ynge\nſetzt das Oſterlamb der Kilchen:",
         "b": "Das iſt aber kundlich / dann die Evan=\ngeliſten klar anzeigen / wie da ſeye geendet worden das\nOſterlam deß alten Geſatzes /",
-        "similarity": 0.3582
+        "similarity": 0.3582,
+        "semantic": 0.6664,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,39 +91,58 @@
         "op": "match",
         "a": "dañ es wz not/ſpricht\nder text/das das Oſterlamb geródt wurd. Nun halt die\nſchrifft inn/Exodi xij. daß das Oſterlamb geopferet/",
         "b": "Nun haltet die\nSchrifft inn / Exodi am 12. daß das Oſterlam̃ geopf=\nfert / und demnach geeſſen ward. So nun Chriſtus /",
-        "similarity": 0.3256
+        "similarity": 0.3256,
+        "semantic": 0.634,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vñ demnach geåſſen ward. So nů Christus/der dz recht\nOſterlamb iſt/ſpricht Paulus/nach dem alten hat ynge\nſetzt dz nůw/vñ ſagt/Das thůnd in miner gedåchtnuß.",
         "b": "der das recht Oſterlam̃ iſt / ſpricht Paulus / nach dem\nAlten hat yngesetzt das Neu / und ſagt / Das thuͦnd in\nmyner Gedechtnus.",
-        "similarity": 0.4706
+        "similarity": 0.4706,
+        "semantic": 0.6505,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Was hat er jnen anders beuolchen/dann das die alte ge\nthan hatten/das iſt opfferen vnd nieſſen/wie dann ouch\nnach der ordnung Melchiſedech/one zwyfel/Christus in\nſinem Nachtmal erfüllt hat.",
         "b": "Was hat er ihnen anders befohlen / dann das die Alten gethan hatten / das iſt opffern und\nnieſ=",
-        "similarity": 0.44
+        "similarity": 0.44,
+        "semantic": 0.7654,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Butzer\nDEß brods Chriſti gedencken/vnd jm danckſagen/ heyßt jn nit widerufopffren: vnd vff vnſeren Si=\nlogiſmum/habeñ wir noch kein antwurt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7303,
+        "semantic_match": "372        Die Fuͤnffte Schlußred. mit ſynem Tod die Geheiligten in Ewigkeit vollendet/ da=\nrum mag kein Menſch etwas mit ſynem opffern hinzuͦ=\nthuͦn /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Wie man des\nlydens Chriſti durch den Glouben/vnnd nit die Måß/ Sich hieuor\nteylhafftig werden můß/iſt by dem dritteñ artickel gnůg= am.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6678,
+        "semantic_match": "372        Die Fuͤnffte Schlußred. mit ſynem Tod die Geheiligten in Ewigkeit vollendet/ da=\nrum mag kein Menſch etwas mit ſynem opffern hinzuͦ=\nthuͦn /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "98. blatt. ſam erklårt. Gilg Murer. DE widergedåchtnuß Chriſti/ſins lydens vnd ſter=\nbens/mag genant werden nach der ſchrifft/ein tåg=\n33",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6993,
+        "semantic_match": "372        Die Fuͤnffte Schlußred. mit ſynem Tod die Geheiligten in Ewigkeit vollendet/ da=\nrum mag kein Menſch etwas mit ſynem opffern hinzuͦ=\nthuͦn /",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.696,
+    "reworded": 8,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3569,

@@ -51,19 +51,25 @@
         "op": "match",
         "a": "Seite CXCIII\n\nDie Sechßte Schlußred. Wie Christus ist allein für vns ge=\nstorben / also sol er ein einiger mittler vnd\nfürsprech /",
         "b": "und wider die\nSchlußred. Berchtoldus Haller. Iſt alles vorhin beantwortet. Ende der Fünfften Schlußred. Die Sechſte Schlußred. Wie Chriſtus iſt allein für uns geſtorben /",
-        "similarity": 0.3556
+        "similarity": 0.3556,
+        "semantic": 0.795,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "zwüschenn Gott dem Vatter\nvnnd vns glöubigen / angerüfft werden. Deßhalb all ander mittler vnd fürsprech\nen vßzerhalb disem ytz anzerüffen/võ vns\non grund der geschrifft/",
         "b": "alſo ſoll er\nein einiger Mittler und Fürſprech zwiſchen Gott\ndem Vatter und uns Glåubigen angerüfft werden. Deßhalb alle andere Mittler und Fürſprecher vſ-\nſerhalb diſem zyt anzerüffen von uns /",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.7363,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vffgeworffen. Erklärung der sächßten schlußred\nMeyster Frantz Kolb. Iñ der ersten Epistel\nPetri am ij. Cap. Christus ist\nder/d̃ kein sünd nie gethon hat\nvnnd ist in sinem mund d̃ kein\nbetrug nie erfunden/darumb\nsagt er Johannis am xiiij.",
         "b": "ohne grund\nder Geſchrifft vffgeworffen. Erklårung der Sechſten Schlußred. Meiſter Frantz Kolb. IN der erſten Epiſtel Petri am 2. Cap.",
-        "similarity": 0.4262
+        "similarity": 0.4262,
+        "semantic": 0.6949,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,7 +81,9 @@
         "op": "match",
         "a": "ims\nNachtmal. Der fürst diser\nwelt wåre komen / er hette a=\nber nüt an jm kein vrsach des\ntodes / des sich keyn heylig nie\nhat mögen berümen:",
         "b": "darum ſagt er Johannis am 14. im Nachtmahl: Der Fürſt diſer Welt wåre kommen / er\nhåtte aber nüt an ihm kein urſach deß Tods / deß ſich kein\nDdd ij heilig",
-        "similarity": 0.386
+        "similarity": 0.386,
+        "semantic": 0.7609,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -87,9 +95,16 @@
         "op": "only_a",
         "a": "Vergib vns vnser schuld / als\nwir vergeben vnsern schuldnern. Darumb Christus al=\nleyn/ vnnd niemand anders für vnns gestorben ist / deß=\nCcc",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6479,
+        "semantic_match": "Die Sechſſte Schlußred. 397\n\nſeye der Schrifft widrig/bedunckt aber es mich/es ſeye der\nGeſchrifft einhällig / vß den ſubſtantzlichen Worten\nChriſti unſers Herren.",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.727,
+    "reworded": 5,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4057,

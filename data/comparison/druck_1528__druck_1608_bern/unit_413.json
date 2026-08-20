@@ -51,25 +51,33 @@
         "op": "match",
         "a": "so es geschickt oder zimlich wirt. Adeyster Vlrich Zwingly\n\nVOnn der eynigkeit aber/redt hie Christus nitt/ sonders von dero/die den menschẽ zimpt/",
         "b": "444\tDie ſechſt\nMeiſter Vlrich Zwingly. VOn der Einigkeit aber/ redt hie Chriſtus nit/ ſon-\nders von dero/ die den Menſchen zimpt/",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.8122,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "hie in\ndisem zyt/der Psalm ist nit wider vnns/dann\nSanctus heyst ein heyligen/das ist/ein gloͤubigẽ/oder\ngottsfoͤrchtigen/die werden gott zuͤ jrer zyt bitten.",
         "b": "hie in diſem\nzyt/ der Pſalm iſt nit wider vns/ dann Sanctus\nheißt ein Heiligen/ das iſt ein Gloͤubigen/",
-        "similarity": 0.64
+        "similarity": 0.64,
+        "semantic": 0.9158,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Gilg Aͤdurer+\n\nDAs fuͤrbitt der vßerwelten heyligen im himmel\nwil ich bewaͤren vß dem Propheten Hieremia\nam xv.",
         "b": "oder Gotts-\nfoͤrchtigen/ die werden Gott zuͦ jrer zyt bitten. Gilg Murer. DAs ſfuͤrbit der Vſſerwelten Heiligen im Him-\nmel wil ich bewaͤren vß dem Propheten Hieremia\nam 15.",
-        "similarity": 0.4906
+        "similarity": 0.4906,
+        "semantic": 0.8385,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "da er spricht. Wann Moyses vnd Sa=\nmuel vor mir stuͤnden/so ist min seel nit gegen dem volck\nHie ist offenbar/das der Prophet Jeremias hat geredt\nvon den abgestornen im himel/dann zuͤ der zyt/sind sy\nlangest gestorben gesin.",
         "b": "da er ſpricht. Wann Moſes vnd Samuel\nvor mir ſtuͤnden/ ſo iſt myn Seel nit gegen dem Volck. Hie\niſt offenbar/",
-        "similarity": 0.5538
+        "similarity": 0.5538,
+        "semantic": 0.7075,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -81,7 +89,9 @@
         "op": "match",
         "a": "Zwingly\n\nIch frag uͤch/ob Moyses vnnd Samuel/vor der zuͤ=\nkunfft Christi/im himel gewaͤsen syen/oder nit. Ddd iij",
         "b": "Zwingly. JCh frag uͤch/ ob Moſes vnnd Samuel/ vor der Zuͦ-\nkunfft Chriſti/ im Himmel geſwaͤſen ſyen/ oder nit.",
-        "similarity": 0.7727
+        "similarity": 0.7727,
+        "semantic": 0.8168,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -89,7 +99,11 @@
         "b": "Gilg Murer. Sprich ich nein. Zwingly. So iſt uͤwer Argument nuͤt. Gilg",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8182,
+    "reworded": 1,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5337,

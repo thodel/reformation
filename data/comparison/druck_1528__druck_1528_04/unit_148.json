@@ -51,13 +51,17 @@
         "op": "match",
         "a": "Seite [IV]\n\nDie erſt\nHerr Daniel Schatt/Lütprieſter\nzů Gundiſchwyl. S nun dry ding vermerckt/oder begriffen wer=\ndend in Chriſto/das iſt die Gottheit allein/vnd\ndie Menſchheyt allein/vnnd die Gottheit vnnd\nmenſchheit/miteinandern vereynt in Chriſto.",
         "b": "So nun dry ding vermerckt / oder begriffen\nwerdend in Chriſto / das iſt die gottheyt allein/ vnd die menſcheyt allein/vnd die Gottheyt vnd\nmenſcheit/mit einandern vereint in Chriſto.",
-        "similarity": 0.5294
+        "similarity": 0.5294,
+        "semantic": 0.829,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Nun yetz\nfrag ich/ob Chriſtus nach der Gottheit allein/angenom̄\nmen ſyge/ein houpt der Chriſtenlichen Kilch/oder nach\nder menſchheit allein/oder als die Gottheyt vñ menſch=\nheit/vereynt in einer perſon.zc.",
         "b": "Nuͦ\nyetz frag ich/ ob Chriſtus nach der Gottheit al=\nlein/angenommen ſye / ein houpt der Chriſten=\nlichen Kilch/oder nach der menſcheit allein/",
-        "similarity": 0.5424
+        "similarity": 0.5424,
+        "semantic": 0.8896,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,19 +73,27 @@
         "op": "match",
         "a": "Zwingly. CHriſtus Jeſus warer Gott vnd menſch/dar=\numb er ouch Chriſtus Jeſus heyßt/iſt nach bey=\nden naturen/ein houpt der Chriſtenlichen Kil=\nchen/mit der erlütterung/das er nach der Gottheit für=\nnemlich vnd eygentlich/das wäſen aller dingen iſt/vnd\nnach der menſchheit das bezaler/gerödt/opfer/dz die göt\nlich gerechtigkeyt mit vns verſünet hat/bedarff nit ge=\nſchrifft:",
         "b": "iſt nach bey\nden naturen/ein houpt der Chriſtenlichen Kilch\nen:mit der erluͤterung / das er nach der gottheit\nfuͤrnemlich vn̄ eygentlich/das waͤſen aller dingē\niſt/vnd nach der menſcheyt das bezalet/",
-        "similarity": 0.4848
+        "similarity": 0.4848,
+        "semantic": 0.8321,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Berüff daruber zů kůndſchafft das gantz E=\nuangelion Johannis/vnnd die Epiſtel zun Hebreern/ fürnemlich für andre g̃ſchrifft. Daniel Schatt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7852,
+        "semantic_match": "vn̄ die Epiſtel zun Hebreern/ fuͤrnem=\nlich fuͤr andre gſchrifft. E •iiij",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Als Chriſtus ein warer Gott vnnd menſch ſye/ ein houpt der Chriſtenlichẽ Kilchen/Iſt recht/ aber das wörtly Einig/mag die red nit erlyden\ndañ nach der Gottheit/ſo iſt er einig mit Gott dẽ vatter",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7798,
+        "semantic_match": "oder\nals die Gottheyt vnnd menſcheit/vereynt in ey=\nner Perſon/ꝛc. Zwingly. Chriſtus Jeſus warer Got vn̄ menſch/ dar=\numb er ouch Chriſtus Jeſus heyßt/",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -95,7 +107,11 @@
         "b": "vn̄ die Epiſtel zun Hebreern/ fuͤrnem=\nlich fuͤr andre gſchrifft. E •iiij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8231,
+    "reworded": 3,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4541,

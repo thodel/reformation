@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite [IVXXD]\nDie fünfft\nin der heyligen statt/vnd der da lißt/der vßstande. Dieß\nwyl nun Christus ſöliche wort hat geſagt/zů ſinen jün=\ngeren/da ſy jnn fragten/weñ ſin zůkunfft wurde ſin/hat\ner jnen diſe wort zů anzeigung geſagt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7273,
+        "semantic_match": "iſt ſchon klar gnůg\nverantwurtet. Daß aber durch den Schůlmeiſter Bůch=\nſtab / yngefürt wirdt / zů erklärung der Prophetien vß\nApocalipſi/beſchicht nit ohne Schmach /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -45,25 +48,35 @@
         "op": "only_a",
         "a": "Wan wir jnnerthalb Bibliſchen ſchrifften/ als Actorum viij. als vorgemeldet/ouch vſſerthalb den\nſelben Bibliſchen ſchrifften/kundtſchafft haben/das die\nApoſtel geopffret/das iſt/Mäß gehept hand.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7291,
+        "semantic_match": "vnd vff welchen der Apoſtel Paulus zů den Teſſalonichern\nbedütet hat. Man mercke nun allein/was etlich Lüt an=\nfächte/ die da wellend ein ander Houpt der Chriſtenlichen\nGGg",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Begär al\nſo von vnſer gegenparthy/vns ein jar/oder ein zyt anze\nzeigen/ſitt der zyt har der Apoſtlen/das das hoch wirdig\nSacrament des lybs Chriſti/nit für ein opffer gehalten\nſye worden.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6891,
+        "semantic_match": "vnd vff welchen der Apoſtel Paulus zů den Teſſalonichern\nbedütet hat. Man mercke nun allein/was etlich Lüt an=\nfächte/ die da wellend ein ander Houpt der Chriſtenlichen\nGGg",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Sag mins verſtands wyter darzů/das es al\nlein vmb der ſünd willen/ein zyt lang/vffhören werde. Doctor Johannes Ecolampadius.",
         "b": "Schlußred. 417\ncrament deß Lybs Chriſti / nit für ein Opffer gehalten ſye\nworden. Sag myns verſtands wyter darzů/ daß es allein\nvmb der Sünd willen/ein zyt lang/vffhören werde.",
-        "similarity": 0.549
+        "similarity": 0.549,
+        "semantic": 0.7239,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Je prophetiẽ vß Daniele/ wie ſy der hyſtori\nnach/ſöllend erfült werden/in den vierdthalb\njaren/vn̄ by der zerſtörung des tẽpels/iſt ſchon\nklar gnůg verantwurtet.",
         "b": "Doctor Johannes Ecolampadius. DIe Prophetien vß Daniele/wie ſy der Hyſtori nach/ ſöllend erfüllt werden/in den vierdthalb Jaren/vnd\nby der zerſtörung deß Tempels/",
-        "similarity": 0.5769
+        "similarity": 0.5769,
+        "semantic": 0.7354,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -75,13 +88,17 @@
         "op": "match",
         "a": "Das aber durch den\nSchülmeyſter Bůchſtab/yngeführt wirdt/zů erklärung\nd’Prophetien vß Apocalipſi/ Beſchicht nit one ſchmach/ wie er ouch mit vnuerſtand(Er iſt jung/wir wellen jms\nverzicht̃) in ſinem Bůchlin gethan hat:glych ſam/wo ein\nChriſtliche gemeind/ſich hielte vff dz aller nächſt by der\nynſatzu͂g vnſers herre͂ Jeſu Chriſti/in dem Nachtmal/",
         "b": "wie er ouch mit\nvnverſtand (Er iſt jung / wir wellen jms verzyehen) in\nſynem Bůchli gethan hat: glychſam / wo ein Chriſtli=\nche Gemeind/ſich hielte vff das aller nächſt by der Ynſa=\ntzung vnſers Herren Jeſu Chriſti/in dem Nachtmal/das\nſölichs ſölte Endchriſtlich ſyn.",
-        "similarity": 0.5825
+        "similarity": 0.5825,
+        "semantic": 0.9018,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das ſölichs ſölte Endchriſtlich ſin. Wie von gotts gna=\nden der Herr/an vilen orten/gnad hat gethan/blyb võ\njm noch wol vnangetaſt.",
         "b": "Wie von Gottes gnad ē der\nHerr/an vilen ortē/gnad hat gethan/blyb von jm noch wol\nvnangetaſt. Wir ſechen ouch nit/ein ſo volkomnen Geiſt\nder offenbarung in jm.",
-        "similarity": 0.5091
+        "similarity": 0.5091,
+        "semantic": 0.8898,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -107,7 +124,11 @@
         "b": "vnd vff welchen der Apoſtel Paulus zů den Teſſalonichern\nbedütet hat. Man mercke nun allein/was etlich Lüt an=\nfächte/ die da wellend ein ander Houpt der Chriſtenlichen\nGGg",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7709,
+    "reworded": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4633,

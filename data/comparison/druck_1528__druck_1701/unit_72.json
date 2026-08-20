@@ -45,13 +45,17 @@
         "op": "match",
         "a": "Seite XXXI\nSchlußred. in ſin nechſten menſchẽ in ein Chriſtenlich gemeind/den\nDa zwytracht/vneinigkeit/ſtifft in vnſern vnbeflecken\nglouben/vñ der da ſicht wider den rechten verſtand des\nwort gottes/vñ nüw rotten/vñ ſeckten ſtifft.",
         "b": "deñ der da Zwytracht / Uneinig-\nkeit ſtifft in unſerem unbefleckten Glauben / und der da\nficht wider den rechten Verſtand deß Worts Gottes /",
-        "similarity": 0.3729
+        "similarity": 0.3729,
+        "semantic": 0.629,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Witer ſo\nzeygt der text hie luter vñ klar an/dz der herr redt von\nergernuß/darumb ſagt der herr/weñ ein glid dir erger=\nnus gibt/ſo ſchnids ab/vñ wirffs võ dir/zc.",
         "b": "und\nneu Rotten und Secten ſtifft. Wyter ſo zeigt der Text\nhie luter und klar an / daß der Herz redt von Ergernus /",
-        "similarity": 0.3509
+        "similarity": 0.3509,
+        "semantic": 0.4859,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -63,7 +67,9 @@
         "op": "match",
         "a": "Das on zwif\nfel von geiſtlichen glidern des herrn zeuerſton iſt/ſo ein\nmenſch den andern/oder einer ganzen Chriſtẽ gemeind\nergernuß gibt/dañ je kein gröſſer ergernus nit iſt/dañ zer\ntrengnung in vnſerm vnbefleckten gloubẽ/darumb her=\nnach volgt/dz diſer text voruß vñ voran in dißem vall\nze verſton iſt.",
         "b": "ſo ein Menſch dem andern / oder einer gantzen Chriſten-\nGemeind Ergernus gibt / dann je kein groͤſſer Erger-\nnus nit iſt /",
-        "similarity": 0.3243
+        "similarity": 0.3243,
+        "semantic": 0.7013,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,7 +81,9 @@
         "op": "match",
         "a": "Zum dritten hat min herr Doctor antwurt\ngeben/wie das diſer text verſtandẽ ſoll werden/nit von\nder gemeiner Chriſtenlichen Kilchen/ſonder vonn einer\nyegklichen Kilchen/für ſich ſelbs alſo/das ein yegkliche/",
         "b": "Zum dritten hat\nmyn Herz Doctor antwort geben / wie daß diſer Text\nverſtanden ſoͤll werden / nit von der gemeinen Chriſtli-\nchen Kilchen /",
-        "similarity": 0.4643
+        "similarity": 0.4643,
+        "semantic": 0.8278,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,7 +95,9 @@
         "op": "match",
         "a": "einige Kilch in ſtuckẽ des gloubens handlen/vñ ſpreche\nmög vñ nit vonnören zů er warre/eins gemeine ſpruchs\nvon gemeiner Chriſtenlichen Kilchen/wider dißen ſinen\nverſtand/arguier ich alſo.",
         "b": "und nit vonnoͤh-\nten zuͦ erwarten eines gemeinen Spruchs von gemeiner\nChriſtenlichen Kilchen. Wider diſen ſynen Verſtand ar-\nguier ich alſo :",
-        "similarity": 0.3846
+        "similarity": 0.3846,
+        "semantic": 0.7406,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -99,7 +109,10 @@
         "op": "only_a",
         "a": "Martinus Butzer.+\n\nLIeben frommen Chriſten/wir haben ein handel\ndas wort Gottes belangend/gegen minẽ herrn\nDoctor zů gegen/darumb wil ich yetzund ant=\nwurt gebenn vnnd damit die ſach kürtzert werd/wil ich\ndas widerbringenn/die red des Doctors laſſen anſton\nH ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6808,
+        "semantic_match": "und\nvon der Suͤnd. Jch frag aber myn Herz Doctor / welki-\ncher hoͤher ſuͤndet in ſyn naͤchſten Menſchen in ein\nChriſtenlich Gemeind /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -113,7 +126,11 @@
         "b": "den wir\nhaben ſoͤllen in Haͤndlen deß Glaubens / unſtrefflich ſoll\nſyn / und nit moͤgen irren. Martinus",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6776,
+    "reworded": 5,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4226,

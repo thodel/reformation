@@ -51,31 +51,42 @@
         "op": "match",
         "a": "Seite LXVIII\n**Schlußred.**\n\n**Zwingli.**\n[Initial V] Sʒdem woꝛt Chꝛiſti. Der vatter iſt min gröſ-\nſerꝛ/oder gröſſer weder ich/weißt man wol/wie\nGott ein houpt Chꝛiſti iſt/dann wie der vatter\nein merer Chꝛiſti alleyn der menſcheyt Chꝛiſti halb ge-\nnempt wirt/Alſo wirt er ouch allein der menſcheyt halb/",
         "b": "oder grőſſer weder ich / weyßt man wol/ wie Gott ein houpt Chriſti iſt:dañ wie der vat=\nter ein merer Chriſti allein der menſcheit Chriſti\nhalb genempt wirt .",
-        "similarity": 0.4557
+        "similarity": 0.4557,
+        "semantic": 0.2716,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "ſin houpt genempt/ Niſi uelit hic inducere prioritatem originis, de qua\napud Theologos. Das aber hiehar nit dienet/darzů dienent die\nwoꝛt/die ich zum erſten zun Thimotheo j.",
         "b": "Alſo wirt er ouch allein der\nmenſcheit halb/ ſin houpt genempt . Niſi uelit hic\ninducere prioritatem originis, de qua apud Theologos,\ndas aber hiehar nit dienet/darzů dienẽt die wort\ndie ich zum erſten zun Thimoth.j.Epiſt.vj.cap.",
-        "similarity": 0.7536
+        "similarity": 0.7536,
+        "semantic": 0.93,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Epiſt. vj. ca-\npitel erſt hab angezogen/das Chꝛiſtus allein der heylig/ allein der gewaltig oder fürſt (für welches wir hie/das\nwoꝛt houpt bruchen) genempt wirt.",
         "b": "erſt hab angezogen/das Chriſtus allein d' heilig/ allein d' gewaltig od' fürſt (für welches wir hie/ das wort houpt bruchen) genempt wirt.",
-        "similarity": 0.68
+        "similarity": 0.68,
+        "semantic": 0.4542,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "**Daniel.**\n[Initial N] On alle ding vnderwegen glon/ſo dunckt mich\nich hab verſtanden vß yeczigen woꝛten/meyſter\nOlrich Zwinglis/das die fürſten werden ge-\nhalten/für höupter vnnd damit abgeſtanden.",
         "b": "Daniel Schart. Nun alle ding vnderwegen glon / ſo dunckt\nmich ich hab verſtanden vß yetzigen wortẽ / mey\nſter Vlrich Zwinglis/das die fürſten werden ge\nhalten für hőupter/vnd damit abgeſtanden. Herr Gilg Murer Pfarrer\nzů Kapfenſchwil. Die",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.7989,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "**Herr Gilg Durer Pfarrer**\n**zů Rapfenſchwil.**\n[Initial D] Ie gnad vnſers herrē Jeſu Chꝛiſti/ſig mit vns\nallen/Amē. Dʒ Chꝛiſtus ſye vnſer einig houpt\nder vns läbendig macht ſyn gnad vñ barmher\nbigkeit vns mitteilt/iſt war/das aber daby nit ſölle ſin\nein geiſtlicher gewalt oder regiment/mag mit der geſchri\nfft nit erzeigt werde/dan Paulus zun Römern am .xiij.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7656,
+        "semantic_match": "Die erſt\nDaniel Schart. Meyſter Vlrich Zwingli/der begert võ mir\ndas ich anzeyg ein anders houpt dañ Chriſtum. Das ſelbig ander houpt dz find ich in der erſten\nEpiſt.zun Corinth.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -83,7 +94,11 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6441,
+    "reworded": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4858,

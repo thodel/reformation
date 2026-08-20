@@ -33,25 +33,34 @@
         "op": "only_a",
         "a": "Seite CXXXII\nSchlußred+ CXXXII\nPaulus spricht: Darumb sind wir ein brot/das wir eins\nbrots teylhafftig sind/oder von einem brot essend.ꝛc.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6347,
+        "semantic_match": "da er spricht/ Dann / welches ein vrsach gibt/warumb ers\ngenempt habe / Ein Brot vnd Einen Lychnam : jedoch so\nwirt hie deß Lychnams Christi nit lyblich gedacht.",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Zwingli\nAls vnser lieber brůder zwey brot hie anzeygt/ ist doch gnůg erfochten/das es nun eins ist: das\nan dem ersten ort/da er spricht:",
         "b": "Schlußred. 289. Zwingly. DAs vnser lieber Brüder zwei Brot hie anzeugt/ist\nvor gnůg erfochten / daß es nun eins ist :",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.5802,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Das brot/das\nwir brechend/sye die gmeind des lychnams Christi/zeigt\nvns gnůg an durch die vrsachlichen red/die von stund=\nan hernach volget/das er võ dem brot redt/Das wir bre\nchend.",
         "b": "dann an\ndem ersten ort/da er spricht : Das Brot/das wir\nbrechend/sye die Gmeind deß Lychnams Christi/zeigt vns\ngnůg an durch die vrsachlichen red/die von stundan her-\nnach volget/daß er von dem Brot redt /",
-        "similarity": 0.6757
+        "similarity": 0.6757,
+        "semantic": 0.8176,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Das er aber dannethin spricht: Das wir/so das\nselbig brot/miteinander brechend/syen die gemeynd des\nlychnams Christi. Das ist ein liebliche der Tropen.",
         "b": "das wir brechend. Daß er aber dannethin spricht : Daß wir / so das selbig\nBrot/mit einander brechend/syend die Gmeind deß Lych-\nnams Christi :",
-        "similarity": 0.5306
+        "similarity": 0.5306,
+        "semantic": 0.8135,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -63,19 +72,25 @@
         "op": "match",
         "a": "Das\ner darnach spricht: Ein brot vnd ein lychnam/sind wir\ndie menge. In den wortten erkennen ich wol/das er die\nKilchen das Brot nempt/Er spilt aber daruff/das sy\ndeß vsseren Sacramentlichen brot halb/das die Kilch\nmiteinandern teylt/ein brot vnd ein lychnam sye.",
         "b": "In den worten erkennen ich wol / daß er die Kilchen\ndas Brot nempt / Er spillt aber daruff / daß sy deß vsseren\nSacramentlichen Brot halb/das die Kilch mit einande-\nren theilt/ein Brot vnd ein Lychnam sye.",
-        "similarity": 0.6824
+        "similarity": 0.6824,
+        "semantic": 0.8156,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "So er\nvon stundan spricht/vnd vrsach gibt/Warumb er ouch\ndie Kilch Ein brot vñ Ein lychnã genempt habe:",
         "b": "So er von stund\nan spricht / vnd vrsach gibt / Warumb er ouch die Kilchen\nEin Brot vnd Ein Lychnam genempt habe :",
-        "similarity": 0.7805
+        "similarity": 0.7805,
+        "semantic": 0.9063,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dañ\nwir all miteinander teylhafftig sind võ einem brot. Hie\nist aber ein ander Prosapodosis, dz ist ein vrsach in dem wört\nly/da er spricht/Dann/welches ein vrsach gibt/warum\ners genempt habe/Ein brot vñ Einen lychnam:",
         "b": "dann wir all\nmit einander theilhafftig sind von einem Brot. Hie ist aber\nein ander Prosapodosis / das ist ein vrsach in dem wörtly/",
-        "similarity": 0.5079
+        "similarity": 0.5079,
+        "semantic": 0.59,
+        "reading": "check"
       },
       {
         "op": "only_b",
@@ -87,9 +102,15 @@
         "op": "match",
         "a": "yedoch\nso wirt hie des lychnãs Christi nit lyblich gedacht. Aber\ndes wirdt gedacht in einer sum̃/das wir die menge/das\nist die Christenlich gemeynd/ein gemeind des lychnams\nvnnd Blůts Christi sygend/ein Brot vnnd ein lychnam\nsygend.",
         "b": "Aber\ndeß wirdt gedacht in einer Sum̃/daß wir die menge/das\nist die Christenlich Gmeind/ein Gmeind deß Lychnams\nvnd Blůts Christi sygend/ein Brot vnd ein Lychnam sy-\ngend. Oo",
-        "similarity": 0.6111
+        "similarity": 0.6111,
+        "semantic": 0.8982,
+        "reading": "same"
       }
-    ]
+    ],
+    "semantic": 0.757,
+    "reworded": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.7186,

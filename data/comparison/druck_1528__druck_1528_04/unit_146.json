@@ -39,13 +39,17 @@
         "op": "match",
         "a": "Seite [62]\nDie erst\nBerchtolduß. [M]Eister Niclaus meint der man werde des wybs\nhoupt genannt/darumb das er jr oberer sye/ob\ner sy schon nit läbendig mache/Also söllend alle\noberer der Kilchen höupter genant werden.",
         "b": "Berchtoldus. Meiſter Niclaus meint / der man werde deß\nwybs houpt genañt/darum̃ das er jr oberer ſye/ ob er ſy ſchon nit låbendig mache.",
-        "similarity": 0.6129
+        "similarity": 0.6129,
+        "semantic": 0.8588,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Antwurt: Wir wellend jm gern zugeben/wo er mitt geschrifft bÿ-\nbringt/das ein mensch sölich recht vnnd gwallt/zu der\nChristeñlichen gemeÿnd habe/als ein mañ zu sinem Le-\nwyb/das er ein sölichen/jr houpt neme.",
         "b": "Alſo ſöllent al\nle oberer der Kilchen houpter genannt werden. Antwurt: Wir wöllend jm gerñ zůgeben/wo er\nmit gſchrifft bybringt/das ein mẽſch ſölich recht\nvnd gwalt/zů der Chriſtenlichen gmeynd habe/",
-        "similarity": 0.3889
+        "similarity": 0.3889,
+        "semantic": 0.7732,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,7 +61,9 @@
         "op": "match",
         "a": "Die höchst A-\npostel aber/als Petrus vnd Paulus sampt der gangen\nwelt/sind vnser/vnnd wir nit jr/sonders Christi/in der\nersten Epistel zun Corinthern am dritten capitel/Die-\nner sind sy der Kilchen/wie sy sich selbs rümend/vnnd\nnit Eegmachel/die Kilch wåre sunst nit from̃/so sy mer\ndann ein Gemachel hette/vnnd darumb blybt es noch/",
         "b": "ſind vnſer/vnd wir nit jr/ſonders Chriſti/in der\nerſten Epiſtel zun Corinthern am dritten capit. Diener ſind ſy der Kilchen/",
-        "similarity": 0.4524
+        "similarity": 0.4524,
+        "semantic": 0.8341,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,7 +75,9 @@
         "op": "match",
         "a": "das die Kilch nur ein eynig houpt habe/Christum/wie\nouch nur einen gemachel/åben den selben Christum/der\ngeystlich vnd lyblich/jr allerding hilfft nach siner macht/",
         "b": "Vnd\nDarumb blybt es noch / das die Kilch nur ein ei=\nnig houpt habe / Chriſtum : wie ouch nur einen\ngemachel/åben den ſelben Chriſtum /",
-        "similarity": 0.6538
+        "similarity": 0.6538,
+        "semantic": 0.8694,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -81,27 +89,41 @@
         "op": "match",
         "a": "wie ein yeder fromer Eegmachel sinem wyb/nach sinem\nvermögen. Also ist noch nit bewårt/das yemand nåben\nChristo möge/weder Eegmachel noch houpt/genempt\nSiich hienor werden.",
         "b": "Alſo iſt noch nit be\nwårt / das yemand nåben Chriſto möge/ weder\nEegmachel noch houpt genempt werden . Des\nnamen oberer halb/iſt ouch gnůg geſagt:",
-        "similarity": 0.566
+        "similarity": 0.566,
+        "semantic": 0.759,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Des namen Oberer halb/ist ouch gnůg gesagn\nam ii. 12. vff. 58 diener nit oberer/sind allhellgen. Gott sye lob/das er sin\nblatt.",
         "b": "diener\nnit ober/ſind all heyligen . Gott ſye lob / das er\nſin warheyt ſo gewaltig vnns armen ſůnderen\n                        k   iij\n\n## Marginalien\nSůch hie=\nuor am 12. 13. 57. blat.",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.7745,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "warheyt so gewalltig vns armen sunderen eroffnet hat/ das min herr Senger bekennen můß/er möge wider vns\nnüt schaffen/so allein mit Göttlicher geschrifft sölle ge-\nhandlet werden.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7024,
+        "semantic_match": "als ein mañ zů ſinem Eewyb / das er ein ſölichen\njr houpt nemme. Die höchſten Apoſtel aber/als\nPetrus vnnd Paulus ſampt der gantzen welt/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Nun ist es offenbar/wie Paulus in der\nanderen Epistel/zun Corinthern am dritten Capitel/ schrybt/das sy zur säligkeyt wyse/vnnd den menschenn\ngottes zu",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7391,
+        "semantic_match": "als ein mañ zů ſinem Eewyb / das er ein ſölichen\njr houpt nemme. Die höchſten Apoſtel aber/als\nPetrus vnnd Paulus ſampt der gantzen welt/",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7888,
+    "reworded": 5,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.636,

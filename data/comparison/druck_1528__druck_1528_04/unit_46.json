@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Die erst\nander gschrifft/das Christus nit ein einig houpt sye/dan\nob schon jr thusent ſprüch ynfurend von de leerer ampt\noder dienstbarkeyt/des worts/werdend jr doch nit pro-\nbieren/das Petrus oder yemand anders ein houpt [ye/al\nso find all yngefurt ſprüch verantwurter.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.691,
+        "semantic_match": "in eim rych\nvnd ſo man die glychnus haltet gegen vnſerem\nhåndel/ſo wil er damit bewåren/das Petrus ein\ndiener vñ ein houpt ſye:",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -45,25 +48,34 @@
         "op": "match",
         "a": "Bichauatter. Udine name siisser herr Jesu Erwürdige gün\nstigen wysen Herrn / gefter han ich das erst das\nherr Berchtold iets gemeldt hatt/der dienstbar\nkeyt halb oder diener/wie sy sich dienernemen/gnügsam\nverantwurt/d3 thut ein künig ouch/ist dennocht ein kü\nnig.",
         "b": "der Dienſtbarkeyt halb/odͤ diener/wie ſy ſich die=\nner nem̄en/ gnůgſam verantwurt / Das thůt ein\nkűnig ouch/iſt dennocht ein kűnig .",
-        "similarity": 0.4478
+        "similarity": 0.4478,
+        "semantic": 0.7205,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Ist nüt vnzimlich noch unmöglichsda har bracht/ ob schon einer ist/vnd genent wirt ein oberer/vn vnder-\nthon zuuergliche/nir gegen eim.",
         "b": "Iſt niit vn=\nzimlichs noch vnmőglichs dahar bracht/ob ſchō\neiner iſt/vnd genent wirt ein oberer/ vnd vnder=\nthon zůuerglichen/",
-        "similarity": 0.5909
+        "similarity": 0.5909,
+        "semantic": 0.5409,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Ein Herzog in eim kü\nnigrich mag genempt werde ein vnderthon. Er ist ouch\nein oberer/zuuerglichet de künig/so ist er ein vnderthon:",
         "b": "nit gegeneim . Ein Hertzog\nin eim kűnigrych mag genempt werden ein vn=\nderthon. Er iſt ouch ein oberer/zůuerglichet dem\nkűnig/ſo iſt er ein vnderthon/Zůuerglichet gegē\nſinen vnderthonen lűten/ſo iſt er ein oberer/vnd\nwirt genempt ein houpt/das iſt eins.",
-        "similarity": 0.5294
+        "similarity": 0.5294,
+        "semantic": 0.7536,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Süuerglicher gegen sinen onderthonen liten/so ist er eyn\noberer/vnd wirt genempt ein houpt/das ist eins. Off das ander zeant wurten/Bezüg ich/ist mir nitt\nmoglich/gloubouch das wenige möglich ordenlich in dz\nboupt zefaffen zeuerantwurte/nun sind & gründ vñ vr=\nsachen harnach volgend/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8414,
+        "semantic_match": "dz er ein diener ſye/wirt\ndͬ Bichtuatter nit lőugnen/ das es gnůgſam jetz\n\tc   ij",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,13 +87,17 @@
         "op": "match",
         "a": "so vildas ich die nit wol Behal-\nren mag/Beger aber dz mir herr Berchtold die nochmals\neroffne wil ich darnach aber antwurten.",
         "b": "nun ſind der grűnd vnd vrſachen harnach vol=\ngend/ ſo vil das ich die nit wol behalten mag/be\ngår aber das mir herr Berchtold die nochmals\neroffne/wil ich darnach aber antwurten.",
-        "similarity": 0.6429
+        "similarity": 0.6429,
+        "semantic": 0.8871,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Berchtoldus. Romen Christen es hatt ein kurtzen bescheid die\nglichnus so er har fürbringt/d3 einer ein hertzog\nvnnd ein diener sye mit einandern / in eim rych\nvnd",
         "b": "Berchtoldus. Fromen Chriſten/ es hat ein kurtzen beſcheyd\ndie glichnus ſo er harfűrbringt/dz einer ein her=\ntzog vñ ein diener ſye mit einandern/",
-        "similarity": 0.6154
+        "similarity": 0.6154,
+        "semantic": 0.8329,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -95,7 +111,11 @@
         "b": "dz er ein diener ſye/wirt\ndͬ Bichtuatter nit lőugnen/ das es gnůgſam jetz\n\tc   ij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7525,
+    "reworded": 3,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5225,

@@ -51,7 +51,9 @@
         "op": "match",
         "a": "Seite CLXV\nSchlußred. dann Gott hat das verschlossenn/vnnd verhüt/das die\nmenschen nit daryn komend/Genesis iij. cap. Deßhalb\nParadyß/an disem ort genomen wirt/für fröud vnnd\nwunne:",
         "b": "niemand mehr\nkompt : dann Gott hat das verſchloſſen/vnd verhuͤt/daß\ndie Menſchen nit daryn kommend/Geneſis am 3.",
-        "similarity": 0.36
+        "similarity": 0.36,
+        "semantic": 0.7545,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,19 +65,25 @@
         "op": "match",
         "a": "welches alles alleyn bewårt/das die erschynung\nJesu Christi/Paulo beschehen/nit sol gemessen werdẽ/ das Christi lychnam darumb mer dã an einem ort sye:",
         "b": "das Chriſti Lychnam darumb mehr dann an ei-\nnem ort ſye: dann Paulus ſelbs bekent/daß er vſſhin erhept\nſye /",
-        "similarity": 0.3111
+        "similarity": 0.3111,
+        "semantic": 0.7366,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dann Paulus selbs erkennt/dz er vffhin erhept sye/wüß\nse doch nit eygentlich/ob es mit sinem lyb oder on sinen lyb\nbeschehen sye.",
         "b": "wuͤſſe doch nit eigentlich / ob es mit ſynem Lyb oder an\nſynem Lyb beſchechen ſye. Allſo allein geiſtlich iſt die Er-\nſchynung beſchechen.",
-        "similarity": 0.3673
+        "similarity": 0.3673,
+        "semantic": 0.5496,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Also allein geystlich ist die erschynung be=\nschehen. Das ort Matthei am xviij. capit. Hie/oder\ndöꝛt ist Christus/söllenit von dẽ Sacrament verstã=\nden werden/sonder von den letsten zyten/Sol herr pfar\nrer wüssen/das die letsten zyt Christo/vnd sinen Apost=\nlen/alle die zyt heyst/die von der zyt Christi ist/biß zů\nend der welt.",
         "b": "Das ort Matthei am 24. Capitel. Hie / oder doͤrt iſt Chriſtus/ſoͤlle nit von dem Sacrament\nverſtanden werden/ſonder von den letſten zyten/Soll Herr\nPfarrer wuͤſſen/das die letſten zyt Chriſto /",
-        "similarity": 0.4632
+        "similarity": 0.4632,
+        "semantic": 0.9075,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,27 +95,42 @@
         "op": "match",
         "a": "Die Allmechtigkeyt Gottes erkennen wir\nwol/das dero alle ding möglich sind: es sol aber daby er=\nwågen werden/das åben die selb Allmechtigkeyt mitt jr\nkrafft/das waar machet/das mit rechtuerstandner ge=\nschrifft/oder Gottes wort/jnen entgegen stadt.",
         "b": "es ſoll aber daby\nerwaͤgen werden/das åben die ſelb Allmechtigkeit mit jhr\nKrafft/das waar machet/daß wir rechtuerſtandner Ge-\nſchrifft",
-        "similarity": 0.4688
+        "similarity": 0.4688,
+        "semantic": 0.6512,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Alls ouch\ndas/das sy vermeinend allein mit der Allmechtigkeitt ze\nbeschirmenn: dann Gott jm selbs nitt widerwertig ist. Vnnd wie er geredt hatt:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.782,
+        "semantic_match": "im Lyb/ oder vſſerthalb dem Lyb. Jn wellchen worten wir gſechen/ das Paulus die Himmelſchen Liecht vnnd Freuͤd / die jm\nGott verlichen hat/ſelbs nit allſo beduͤtet/als ob Chriſtus\nzuͦ jm lyblich herab kommen ſye /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Jch wird fürhin nümmen\nin der welt sin/Johannisam xvij. Capitel. Also ist er\nouch mächtig/das niemand jnn lyplich in die welt zwin=\ngen wag/wider sin wort.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6363,
+        "semantic_match": "vnd ſpricht wyter : Jch\nweiß ouch daß er verzucket iſt in das Paradyß. Nun iſt\nwuͤſſenbar / das in das lyblich Paradyß /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Er ist ouch so waar/das er sich\nselbs nit velscht. Pfarrer von Appentzell. [Initial A] Lso referier ich mich zun Acta/wie ichs darge=\nthan/Vnnd wil also hiemit beschlossenn haben/ mit miner darthanen geschrifft: vnnd wo ich nit\nTt",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7345,
+        "semantic_match": "im Lyb/ oder vſſerthalb dem Lyb. Jn wellchen worten wir gſechen/ das Paulus die Himmelſchen Liecht vnnd Freuͤd / die jm\nGott verlichen hat/ſelbs nit allſo beduͤtet/als ob Chriſtus\nzuͦ jm lyblich herab kommen ſye /",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.719,
+    "reworded": 7,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.392,

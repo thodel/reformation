@@ -39,55 +39,76 @@
         "op": "only_a",
         "a": "ca. da er\nſpricht: Der ſol/wie Chriſtus gewandlet/ouch wandle. Wie ſpadt werden wir Chriſten vm̄b Chriſtus willen/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7757,
+        "semantic_match": "daß die Verſamlung der Gläubigen den H. Geiſt hat/ alſo kräfftigklich / daß Chriſtus ſpricht / Luc. 10. Der euch\nhört / der hört mich /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "etwas lyden/oder ſinen kamp̄ff annemen/ſo wir vm̄b iſt\nnent willen/nit viertzig tag one fleyſch eſſen mögend ſin/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.627,
+        "semantic_match": "und der euch verſchmächt / der ver-\nſchmächt mich. Jtem Matth. am 24. Vff dem Stül Mo-\nſis",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "vnd faſten. **Martinus Bucerus**\n\nVS allem das anzogen/bewårt ſich nit/das die\nKilch gebott mache/die im gots wort kein grůd\nhaben/vñ doch die gewüſſen binden ſöllend/daß\numb iſt nüt wid vns.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6175,
+        "semantic_match": "dañ daß enthaltung oder abbruch der ding dariñ beſtimt/ güt ſeye / und darum zü Ordnung der Kilchen / die den\nH.",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Das aber yngezogẽ/von der vier-\ntzig tågigen faſten/Moſe/Helie/vñ Chriſti/dienet hie\nhar nit: ſy ſind nit bin lüten gewäſen/darůb hat ſy gott\nder Herr/one menſchliche ſpyß erhalten müſſenn.",
         "b": "184   Die Ander Schlußred. Sy ſind nit byn Lüten geweſen / darum hat ſy Gott der\nHerr ohne menſchliche Spyß erhalten müſſen.",
-        "similarity": 0.4364
+        "similarity": 0.4364,
+        "semantic": 0.7394,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Das\nvom lyden ynher gezogen/wir ſöllind vm̄b Chriſtus wil\nlen etwas lyden/das iſt zů verſtan/von dem lyden/das\nvns Gott zůſchickt/vñ nit dz wir ſelbs erwellen.",
         "b": "Das\nvom lyden ynher gezogen / wir ſöllen um Chriſtus wil-\nlen etwas lyden / das iſt züverſtahn von dem lyden / das\nuns Gott züſchickt/und nit das wir ſelbs erwehlen.",
-        "similarity": 0.8
+        "similarity": 0.8,
+        "semantic": 0.842,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wand\nlen ſol man wie Chriſtus/in aller zucht vnd liebe/aber nit\ndas man darumb viertzig tag vnd nacht/one ſpyß můſ-\nſe ſin.",
         "b": "Wan-\ndeln ſoll man wie Chriſtus / in aller Zucht und Liebe/ aber nit daß man darum viertzig Tag und Nächt ohne\nSpyß müſſe ſyn :",
-        "similarity": 0.6531
+        "similarity": 0.6531,
+        "semantic": 0.7712,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Es wirdts ouch der Schůlmeiſter wol blyben laſ-\nſen/ſunſt můßten wir ouch todten vfferwecken/vñ an-\ndre wunder thůn/die der Herr gewürcket hat.",
         "b": "es wirds auch der Schülmeiſter wol\nblyben laſſen / ſunſt müßten wir auch Todten vfferwe-\ncken / und andere Wunder thün / die der Herr gewürcket\nhat.",
-        "similarity": 0.6531
+        "similarity": 0.6531,
+        "semantic": 0.366,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "**Bichuatter.**\n\nMArtin Burger hat angefangen zů antwurten/dz\ndie Kilch nit verbiete fleyſch zů eſſenn/oder an-\nders/ſunders Gott/vonn der ergernuß wågen.",
         "b": "Bychtvatter. MArtin Butzer hat angefangen zü antworten / daß die\nKilch nit verbiete Fleiſch zü eſſen / oder anders / ſon-\nders Gott /",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.6934,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Sagt nun das S. Paulus/den angezognen ſpruch zun\nJ",
         "b": "von der Ergernus wegen. Sagt nun das St. Paulus / den angezogenen Spruch zun Römern am 14. bedüte vff die Schwachen /",
-        "similarity": 0.4667
+        "similarity": 0.4667,
+        "semantic": 0.7248,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -131,7 +152,11 @@
         "b": "und der euch verſchmächt / der ver-\nſchmächt mich. Jtem Matth. am 24. Vff dem Stül Mo-\nſis",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6841,
+    "reworded": 5,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3333,

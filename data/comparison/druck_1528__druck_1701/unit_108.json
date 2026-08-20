@@ -39,55 +39,73 @@
         "op": "match",
         "a": "Seite XLVIII\nSchlußred. XLVIII\nBerchtoldus. Ich frag den Pfarrer ein stuck/ ob er vß denen\nzweyen sprüchen/ die dann meldend das ampt/",
         "b": "JCh frag den Pfarzer ein Stuck / ob er vß denen zween\nSprüchen / die dann melden das Ampt und Dienſt=\nbarkeit /",
-        "similarity": 0.619
+        "similarity": 0.619,
+        "semantic": 0.5434,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "vnnd dienstbarkeyt/ so Christus siner Kilchen\nverlassen hat/ ob er daruß ynfüren welle/ das welicher ein\nsölich ampt hat/ in der Eilchen/",
         "b": "ſo Chriſtus ſyner Kilchen verlaſſen hat / ob er da=\nrußynführen wölle / daß welicher ein ſölich Ampt hat in\nder Kilchen /",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.9478,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "er sye ein lerer/ ein Euan\ngelist/ ein hirt vnd wächter/ das er darū ein houpt der\nKilchen sye/ daruff gebe antwurt.",
         "b": "er ſeye ein Lehrer / ein Evangeliſt / ein Hirt\nund Wächter / daß er darum ein Haubt der Kilchen ſeye / daruff gebe Antwort.",
-        "similarity": 0.6047
+        "similarity": 0.6047,
+        "semantic": 0.5729,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Theobaldus Pfarrer von\nAppenzell. Kommen lieben Christen/ ich hab yngeleyt wi\nder Herr Berchtolden/ mines anligens/ vnd\nmeynt er sölte mir antwurt geben/",
         "b": "Theobaldus / Pfarzer von Appenzell. FRomme / liebe Chriſten / ich hab yngeleit wider Herz\nBerchtolden / mynes Anligens / und meynt / er ſöl=\nte mir Antwort geben /",
-        "similarity": 0.5652
+        "similarity": 0.5652,
+        "semantic": 0.8018,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "so facht er\nan/ vnnd fragt mich/ ich sölle jṁ antwurt geben/ das\nman vor solt vfflösen/ hab ich allweg gehört/",
         "b": "ſo faht er an / und fragt mich / ich\nſölle ihm Antwort geben : Das man vor ſölte vfflöſen / hab ich allweg gehört /",
-        "similarity": 0.7619
+        "similarity": 0.7619,
+        "semantic": 0.9519,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "ob man söl\nre fragen. So mich fragt herr Berchtold/ vnnd mir vff\nmin frag nit geantwurt/ in dem so ich begärt hab ein vn=\nderscheyd/",
         "b": "ob man ſölte fragen. So mich\nfragt Herz Berchtold / und mir vff myn Frag nit geant=\nwortet / in dem ſo ich begehrt hab ein underſcheid zwiſchen\ndem hirten und lehren :",
-        "similarity": 0.6071
+        "similarity": 0.6071,
+        "semantic": 0.7093,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "zwischend dem Hirten vnnd leren/ aber in\ndem dhein verzug zehan/ sonders ein antwurt zegeben/ vff sin frag/ so er nach hat gelan/",
         "b": "aber in dem kein Verzug zehan / ſonders ein Antwort zegeben vff ſyn Frag / ſo er nach=\nhat gelahn / ein gewalt gebenſyn ſynen lieben zwölf Bot=\nten /",
-        "similarity": 0.5306
+        "similarity": 0.5306,
+        "semantic": 0.7727,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "ein gewallt geben sin si\nnen lieben zwölffbotten/ Wüß ye darnach volgen/ so ein\nLerer ein Hirt gebiet einem/ oder hab einem zügedie=\nten/",
         "b": "műß je harnach folgen / ſo ein Lehrer / ein Hirt gebietet\neinem / oder hab einem zů gebieten / deſſelbigen Haubt\nſyge er /",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.6474,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "desselbigen houpt syge er/ oder Oberer: Dann wir\nwend ye nit in woztenn stan/ das ich dennocht min ding\nan tag bring/",
         "b": "oder Oberer : dann wir wend je nit in Worten\nſtahn / daß ich dennoch myn Ding an Tag bring / und\ndas nit mit umſchweiffenden Reden /",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.8062,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -99,9 +117,15 @@
         "op": "match",
         "a": "vnd geb mir dann antwurt: Der Herr Jesus hat zů sinen liebē jüngern gesprochē",
         "b": "ſo bring ich harfür\ndas heilig Wort / daſſelb beſehe Herz Berchtold / und geb\nmir dann Antwort: Der",
-        "similarity": 0.3226
+        "similarity": 0.3226,
+        "semantic": 0.6714,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7425,
+    "reworded": 2,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5821,

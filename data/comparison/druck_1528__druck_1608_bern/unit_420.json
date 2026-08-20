@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite 100\nDie ſechſte\n\nDes ſpruchs Danielis halb/iſt ein uiſion/vnd geſicht ge\nſin/vnd erſchynung: nit das die heyligen erſt von himel\nwårend kommen/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7114,
+        "semantic_match": "452\tDie ſechſte\nerſt von Himmel waͤrend kommen / ſonder durch die En=\ngel/die/ als ouch ander Viſionen/ angericht.",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -45,7 +48,9 @@
         "op": "match",
         "a": "ſunder durch die Engel/die/als ouch\nander viſionen/angericht. Der ſpruch Petri/dienet gar\nnitt zů ſinem fürnemen/dann er alſo luter:",
         "b": "Der Spruch\nPetri/dienet gar nit zuͦ ſynem fuͤrnemmen/ dann er alſo\nlutet : Jch wil aber flyß thuͦn /",
-        "similarity": 0.4186
+        "similarity": 0.4186,
+        "semantic": 0.7635,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,19 +62,25 @@
         "op": "match",
         "a": "Ich wil aber\nflyß thůn/das jr allenthalbe haben nach minem vßgåg/ ſolichs in gedåchtnuß zů halten: dan̄ wir habend nit den\nklůge fablen gefolget/da wir üch kund gethan die krafft\nvnd zůkunfft vnſers Herren Jeſu Chriſti.",
         "b": "da wir\nuͤch kund gethan die Krafft vnd Zuͦkunfft vnſers Herren\nJeſu Chriſti. Johannes Buͦchſtab. WJe ichs dargethan hab/daby blyb ich.",
-        "similarity": 0.3492
+        "similarity": 0.3492,
+        "semantic": 0.7588,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Johannes Bůchſtab\n\n[W]Je ichs dargethan hab/daby blyb ich. Ich find\ngeſchriben im bůch Job.xxxiij. das Heliu ein\nfründ Jobs/de Job ein Radt gibt/damit Job\nvõ ſiner widerwertigkeit/entlediget wurde/vñ ſpricht:",
         "b": "Jch find ge=\nſchriben im Buͦch Job. 33. das Heliu ein Fruͤnd\nJobs/ dem Job ein Radt gibt /",
-        "similarity": 0.3929
+        "similarity": 0.3929,
+        "semantic": 0.8641,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "So da wirt ein Engel ſin/der da für in eins redt/vß der\nglychen/vnd verkündt die from̄keit des menſchen/wirt\nſich über jn erbarmē/vñ ſagen:",
         "b": "damit Job von ſy=\nner Widerwertigkeit entlediget wurde/ vnd ſpricht : So\nda wirt ein Engel ſyn / der da fuͤr jn eins redt/vß der gly=\nchen /",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.801,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,13 +92,17 @@
         "op": "match",
         "a": "Erledig jn/damit er nit\nabſtyg in die zerſtörung.zc. Hie haben wir kundtſchafft/ das die Engel mögen für vns bitten/wie vil mer die hei\nligen.So S.",
         "b": "ꝛc. Hie haben wir kundſchafft/daß\ndie Engel moͤgen fuͤr vns bitten/wie vil mehr die Heiligen. So S.",
-        "similarity": 0.48
+        "similarity": 0.48,
+        "semantic": 0.8545,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Paulus ſpricht.j. Corinth. vj. Wüſſen jr\nnit/das wir die Engel vrteyle werden? Hand nun die\nEngel ſolichen gwalt/wie vil mer haben gewalt die/ſo\nüber ſy vrteylen werden.",
         "b": "Paulus ſpricht. 1. Corinth. 6. Wuͤſſen jr nit/das\nwir die Engel vrteilen werden ? Hand nun die Engel ſoͤl=\nlichen gwalt /",
-        "similarity": 0.5556
+        "similarity": 0.5556,
+        "semantic": 0.8632,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -99,15 +114,24 @@
         "op": "match",
         "a": "Ecolampadius.+\n\n[D]Er ſpruch angezogenn vß Job/zücht ſich nit da\nhin/das den englen zügebe werd/bitt/oder für=\nbitt:",
         "b": "daß den Englen zuͤgeben werd/ bitt/oder fuͤrbitt: aber",
-        "similarity": 0.3125
+        "similarity": 0.3125,
+        "semantic": 0.6185,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "aber vil mer/das der engel erman/oð etwz\nverkůnde/vnd ſo krefftigklich vnderwyß vñ lere/dz der\nmenſch",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6724,
+        "semantic_match": "vnd verkuͤndt die Fromkeit deß Menſchen/wirt ſich\nuͤber jn erbarmen/vnd ſagen: Erledig jn/ damit er nit ab=\nſtyg in die Zerſtoͤrung.",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7675,
+    "reworded": 8,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5772,

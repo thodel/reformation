@@ -33,43 +33,59 @@
         "op": "only_a",
         "a": "Seite [CCXXV]\n\n**Schlußred.**\nschirmpt ōne Gottes wort. So volget/das sich der Pfarrer von Appen\nzell/nit der Kilchen vnderwirfft/die sich gottes wort halt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.669,
+        "semantic_match": "Cap. Diewyl dann die Geſchrifft\nehelichen Stand niemand verbůtt/niemand vßnimt/daß\nMmm iij                    die",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "**Theobaldus Huͤter.**\nIch laß es blyben/wie vor dargerhan. **Die nuͤnde Schlußred.**\nDie heilig Ee/ist keinem stand verbot\nten in der geschrifft/sunders huͤry vñ vn\nkuͤnscheit zuͦ vermiden/allen stände botte.",
         "b": "Die Nůndte Schlußred. 463\n\nDie Nůndte Schlußred. Die heilig Ehe iſt keinem Stand verbotten in der Ge=\nſchrifft / ſonders / Hůrey und Unkůſchheit zů vermy=\nden /",
-        "similarity": 0.3226
+        "similarity": 0.3226,
+        "semantic": 0.729,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "**Berchtoldus Haller.**\nDie Schlußred/ist\nso heiter vñ klar in Gottes\nwort/das sy nit vil vñ lan=\nger red bedarff.",
         "b": "allen Stånden botten. Berchtoldus Haller. DIſe Schlußred iſt ſo heiter und klar in Gottes\nWort / daß ſy nit vil und langer Red bedarff.",
-        "similarity": 0.6818
+        "similarity": 0.6818,
+        "semantic": 0.6132,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Allen Chri=\nsten ist zuͦ wüssenn/das der\nEelich stand/von Gott yn=\ngesetzt ist/Genesis.j. vñ.ij. vñ daruon niemand vßge\nnomen wirt:",
         "b": "Allen Chriſten iſt zů wiſſen / daß der Ehelich\nStand von Gott yngeſetzt iſt / Geneſis I. und\n2. und darvon niemand vßgenommen wird :",
-        "similarity": 0.5106
+        "similarity": 0.5106,
+        "semantic": 0.5177,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "dann die Chri=\nstus (Mathei xix. vßnimpt/ Naͤlich die da vntougenlich\nsind zuͦ der Ee/also von muͦter lyb geboren:",
         "b": "dann die\nChriſtus Matthei am 19. vßnimt / namlich die da untu=\ngenlich ſind zů der Ehe/ alſo von Můtter Lyb gebohren :",
-        "similarity": 0.4651
+        "similarity": 0.4651,
+        "semantic": 0.3342,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "etlich vonn\nden menschen verschnitten/etlich die sich selbs verschnit\nten haben vmb des Rych Gottes willen. So volget vß\nnoten/das nieman die Ee verbotten mag werde.",
         "b": "et=\nlich von den Menſchen verſchnitten / etlich die ſich ſelbs\nverſchnitten haben um deß Rychs Gottes willen. So fol=\nget von noͤhten /",
-        "similarity": 0.4314
+        "similarity": 0.4314,
+        "semantic": 0.7492,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "San̄\ndas wort/Kuͤnsch sin/vñ one Ee laͤben/fasset nit yeder=\nZ ll",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6874,
+        "semantic_match": "eines Wybs Mann/ ꝛc. der ſynem eignen Huß wol fůr=\nſtande : der gehorſame Kinder habe / mit aller Redlichkeit : Alſo auch ad Titum I.",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -101,7 +117,11 @@
         "b": "Cap. Diewyl dann die Geſchrifft\nehelichen Stand niemand verbůtt/niemand vßnimt/daß\nMmm iij                    die",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6142,
+    "reworded": 4,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.341,

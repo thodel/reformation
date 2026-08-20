@@ -57,13 +57,17 @@
         "op": "match",
         "a": "dan Chriſtū. Man ſeche an/ was gotaleſtrige leer/ etliche hundert jar\nbißhar gebrucht ſind worden/ vnd noch werdē. Der Sa\ncrament halben vnd andrer ſtucken/",
         "b": "418                 Die fünfft\nKilchen ſetzen/dañ Chriſtum. Man ſeche an/was Gotts=\nleſtrige leer/etliche hundert Jar biß har gebrucht ſind wor=\nden/vnd noch werden.",
-        "similarity": 0.4706
+        "similarity": 0.4706,
+        "semantic": 0.8104,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "erfindt ſich wol wie\nman abtretten iſt vom Gloubē. Vnſer leer richt ʒů dem\nGlouben/ vnd wyßt nit vom Glouben/",
         "b": "Der Sacrament halben vnd andrer\nſtucken/erfind ſich wol wie man abtretten iſt vom Gloubẽ. Vnſer leer richt zů dem Glouben/vnd wyßt nit vem Glou=\nben/wie da ſtadt by dem Apoſtel/Da er tütſcht Abtren=\nnung/da iſt/Defectio, Abtrettung deß Gloubens.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.6555,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -75,7 +79,9 @@
         "op": "match",
         "a": "am xx. capitel/ wie gar bald ſchädlich Wölff/ in die Kil\nchen komen ſölten. Item Joannes in ſiner Epiſtel ʒeigt\nan/",
         "b": "Der\nApoſtel hat ſelbs erkent/Actor. am 20. Capitel/wie gar\nbald ſchädlich Wölff/in die Kilchen kommen ſölten. Jtem\nJohannes in ſyner Epiſtel zeigt an/daß ſchon by ſyner zyt\nEndchriſten ſind geweſen.",
-        "similarity": 0.4727
+        "similarity": 0.4727,
+        "semantic": 0.4293,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -87,25 +93,33 @@
         "op": "match",
         "a": "dann alle die da got=\nſälig wellend läbenn/ die lydend die durchächtung vmb\nChriſti willen/ in der erſten Epiſtel ʒum Thimotheum\nam iij.",
         "b": "Hierumb ouch das Wyb/ſo in\ndie Wůſte geflochen iſt/bedüt ein gemeine Chriſtenliche\nKilch: dann alle die da Gottsålig wellend låben/die lydend\ndie durchåchtung vmb Chriſti willen/in der andern Epi=\nſtel zum Timotheum am 3.",
-        "similarity": 0.4918
+        "similarity": 0.4918,
+        "semantic": 0.7593,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "cap. Man möcht ouch ʒů güter maß wol ſechen/ welche vff hütt den tag/ die andren begären ʒů vertrybē\nvnd ʒů töden.",
         "b": "Cap. Man moͤcht ouch zů gů=\nter maß wol ſechen / welche vff hüt den tag/die andren be=\ngären zů vertryben vnd zů toͤden.",
-        "similarity": 0.5417
+        "similarity": 0.5417,
+        "semantic": 0.827,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Vnſer Euangelium lert gedult/ darumb\njnen dʒ nit dienet. Wiewol Joannes in ſiner offenbarüg/ in denen oꝛten/ wie in andren mer.",
         "b": "Vnſer Euangelium lert\ngedult/darumb jnen das nit dienet. Wiewol Johannes in\nſyner Offenbarung/in denen orten/wie in andren mehr/",
-        "similarity": 0.7143
+        "similarity": 0.7143,
+        "semantic": 0.7608,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Sin offenbarüg ʒücht\nvff die vergangnen hiſtoryen. Wo hat aber der Schül=\nmeiſter geläſen in der Offebarüg Joannis/ das dʒ Mäß\nopfer vffhörē ſölle/ dʒ welten wir gern vō jm hörē. Wir",
         "b": "ſyn Offenbarung zücht vff die vergangnen Hiſtoryen. Wo\nhat aber der Schůlmeiſter geleſen in der Offenbarung\nJohannis/das das Måßopffer vffhoͤren ſoͤlle/daß welten\nwir gern von jm hoͤren.",
-        "similarity": 0.4688
+        "similarity": 0.4688,
+        "semantic": 0.7186,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -113,7 +127,11 @@
         "b": "Wir foͤrchten vns vor den Prophe=\nten noch nit. Mit ſoͤlichen Kundtſchafften bewärt er nüts\nwenigers/dann das die Måß ein Opffer ſye. Bůchſtab",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7087,
+    "reworded": 3,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5064,

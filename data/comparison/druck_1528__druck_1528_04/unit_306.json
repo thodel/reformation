@@ -33,25 +33,36 @@
         "op": "only_a",
         "a": "Seite [V.ZO]\n**Die vierdt**\nzwüschend mir. zc. Da ist Testament oder Pũndt/ges\nnempt/ein zeychen des pundes.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7993,
+        "semantic_match": "Jterum petit principium/ begaͤrt eben\nmit dem zebewaͤren/ das im span stadt: Dañ wir\nbestond im nit/ das die wort des jnnhalts vnnd\nsinns syend/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "**Pfarrer von Sant Gallen.**\nVff die erklārung mins herr Doctors/ über die\nwort des Kelchs/antwurt ich des ersten/das\ndas wort/Daruß/ſölle referiert werden/vff dz\nvorgend wort/geſtaan ich nit/dann die wort alſo ſtond:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8251,
+        "semantic_match": "wie er daruon redt. Am XVIII. tag Jenners. Pfarrer von Sant Gallen. Vff die erklaͤrung des Kelchs/ durch mich ge=\nthan/ darinn ich min herr Doctor/ der glychenn\nr iiij",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Trinckend all daruß/das ist min Blüt. So hat er ſy nit\ngeheyſſen den leyminen oder hültzinen Båcher trincken/ ſonder das/ſo er geredt hat/vnd jnen dargeborten:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6946,
+        "semantic_match": "dar=\numb sin wort nüit tringend. Vnnd das er sagt/ was hat er anders jnen geben/ dañ das die wort\ndarbringend/",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Trin\nckend all daruß. Was habend ſy anders trincken ſöllen/ dann er jnen gebotten: Was hat er jnen anders darge=\nreicht/dann ſo die wort verſachen/Das ist min Blüt:",
         "b": "Schlußred. CLXIIII\nruß. Was habend sy anders trincken söllen/ dañ\ner jnen gebotten: Was hat er jnen anders darge=\nreycht/",
-        "similarity": 0.6
+        "similarity": 0.6,
+        "semantic": 0.6283,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -63,13 +74,17 @@
         "op": "match",
         "a": "**Œcolampadius.**\nS ist wüſſend/das man die Relatiua, das ist die wi\nderåfferig wörtzlin/vff das vorgend richten ſol/ darumb das wörtzlin (Darus) wår ein vnuers\nſtentlich wort/wo es nit gieng vff dz vordrig wort/nam=\nlich/Den Kelch/dann es ſtådt nit:",
         "b": "vff das vorgend richtẽ\nsol/ darum̃ das wörtlin (Daruß) wår ein vnuer=\nstentlich wort/ wo es nit gieng vff das vorderig\nwort/",
-        "similarity": 0.4545
+        "similarity": 0.4545,
+        "semantic": 0.7645,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Er hat genommen\ndas Blüt/Jst wol wüſſend/das wyn im Kelch gewåſen/ vnd ist nit daran gelågen/das der Euangelist schon den\nKelch genempt:",
         "b": "namlich/ Den Kelch/ dañ es stadt nit: Er\nhat genommen das bluͦt/ Jst wol wüssend/ das\nwyn im Kelch gewesen/",
-        "similarity": 0.4783
+        "similarity": 0.4783,
+        "semantic": 0.8535,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,13 +96,17 @@
         "op": "match",
         "a": "man redt nit/Trinck den Kelch/oder/ Trinck den Båcher/ſonder: Trincken vß dem Kelch/ Jst güt zeuerſtan per ſynecdochen, wañ mā ouch vom Kelch\nschon redt/das man darmit mag verſtan/das dardurch\nverstanden wirt.",
         "b": "Trinck den\nBaͤcher: sonder/ Trinckend vßz dem Kelch. Jst\nguͦtt zeuerstan per synecdochen/ wenn man ouch\nvom Kelch schon redt/",
-        "similarity": 0.4828
+        "similarity": 0.4828,
+        "semantic": 0.8316,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Wie Paulus ſagt: Der Kelch ist das\nnüw Testament.zc. darumb ſĩn wort nüt trĩngend. Vß\n                                                                                             das",
         "b": "das mã darmit mag ver=\nstan/ das dardurch verstandẽ wirt/ wie Paulus\nsagt: Der Kelch ist das nüw Testament. ꝛc.",
-        "similarity": 0.4615
+        "similarity": 0.4615,
+        "semantic": 0.8994,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -107,7 +126,11 @@
         "b": "wie er daruon redt. Am XVIII. tag Jenners. Pfarrer von Sant Gallen. Vff die erklaͤrung des Kelchs/ durch mich ge=\nthan/ darinn ich min herr Doctor/ der glychenn\nr iiij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.787,
+    "reworded": 7,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4606,

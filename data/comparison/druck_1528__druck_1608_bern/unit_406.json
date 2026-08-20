@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite [X]\nDie ſechſt\nanderen Epiſtel zun Theſſalon. am iij. ca. Jr brüder/ bit\nten Gott für vns. Das aber die läbendigen hie vff erd=\ntrich/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6421,
+        "semantic_match": "der ein gwiſſer/vngezwyffelter Für=\nſtender vnd Fridmacher/zwüſchen Gott vnd vns ſye/das\n                                                        iſt",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -51,13 +54,17 @@
         "op": "match",
         "a": "dz eins dem andren behilfflich ſol\nſin. Des werden nit vßgeſchloſſen die lieben vßerwelten\nheyligen in dem himel: dan ſy blyben allweg glider Chri\nſti des Herren.",
         "b": "436               Die ſechſt\nſyn. Deß werden nit vßgeſchloſſen die lieben Vßerwelten\nHeiligen in dem Himmel: dann ſy blyben allweg Glider\nChriſti deß Herren.",
-        "similarity": 0.48
+        "similarity": 0.48,
+        "semantic": 0.8449,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Wächter. LIeber Herr/ ſidt vß jr anzeigt hand die fürbitt der\nHeiligen oder ſäligen/ zů der zyt der Apoſtlen/ ſo be=\ngären wir/",
         "b": "Wächter. Lieber Herr/ſidt vnd jr angezeigt hand die fürbitt der\nHeiligen oder Säligen/zů der zyt der Apoſtlen/ſo\nbegeren wir/daß jhr vns die anzeigind vß Göttlicher\nSchrifft.",
-        "similarity": 0.717
+        "similarity": 0.717,
+        "semantic": 0.9255,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -69,19 +76,25 @@
         "op": "match",
         "a": "DAls der heiligen fürbitt/ jres verſtands/ ye vnd\nye gewäſen ſye/ mag mit Bibliſcher ſchrifft nit\nbybracht werden. Sann das die mütter Gottes\nvñ die ſäligen/",
         "b": "Gilg Murer. Wir ſind alle Glider/wie ich vor yngezogen hab. Zwingly. DAs der Heiligen fürbitt/jres verſtands/je vnd je\ngewäſen ſye/mag mit Bibliſcher Schrifft nit by=\nbracht werden.",
-        "similarity": 0.4912
+        "similarity": 0.4912,
+        "semantic": 0.7615,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "die by Gott ſind/ ye angerüfft ſyen zů der\nApoſtel zyten/ mag ſich genglich nit erfinde. Wir laſſen\nouch gern nach/",
         "b": "Dann das die Můter Gottes vnd\ndie Säligen / die by Gott ſind / je angerüfft ſyen zů der\nApoſtel zyten/mag ſich gentzlich nit erfinden.",
-        "similarity": 0.5778
+        "similarity": 0.5778,
+        "semantic": 0.8463,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das alle pflantzung/ die der himelſch vat\nter nit gepflantzet hat/ vßgerütet werde. So nů der hey\nligen fürbitt vnd anrüffen/",
         "b": "Wir laſſen\nouch gern nach/das alle pflantzung/die der Himelſch Vat=\nter nit gepflantzet hat/vßgerütet werde. So nun der Hei=\nligen fürbitt vnd anrüffen/als ſy es verſtond/in Göttlicher\nSchrifft nit erfunden wirt/ſo ſoll es billich vßgerütet wer=\nden.",
-        "similarity": 0.5625
+        "similarity": 0.5625,
+        "semantic": 0.8114,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -93,7 +106,9 @@
         "op": "match",
         "a": "nemen wir vns jrer abtey=\nlung nützit an: dan wir reden hie/ als die ſchlußred hat/ allein von dem mittler/ der ein gwüſſer/ vngezwyffelter\nfürſtänder",
         "b": "Deß Mittlers halb/nemmen wir vns jrer abteilung\nnützit an: dann wir reden hie/als die Slußred hat/allein\nvon dem Mittler /",
-        "similarity": 0.6383
+        "similarity": 0.6383,
+        "semantic": 0.6956,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -101,7 +116,11 @@
         "b": "der ein gwiſſer/vngezwyffelter Für=\nſtender vnd Fridmacher/zwüſchen Gott vnd vns ſye/das\n                                                        iſt",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7896,
+    "reworded": 3,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6168,

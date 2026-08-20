@@ -39,55 +39,74 @@
         "op": "match",
         "a": "erkennē\nwir wol: aber diß Argumēt / oder gegenwurff\nwurd allein reychē vff die grösse des gloubēs\nvnd nit vff das vermögen des vsserlichen worts/dan so\nder gloub das vermag/vnd nitt das vsser wort/so habē\nwir recht/vñ sind sy von jrem spruch getrungē/",
         "b": "Die vierdt\nnit vff das vermoͤgẽ des vſſerlichen worts/ daſs\nso der gloub das vermag/ vñ nit das vſſer wort\nso haben wir recht/",
-        "similarity": 0.507
+        "similarity": 0.507,
+        "semantic": 0.7618,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das das\nvsser wort söllich vermögen hab/als sy anzeygent vonn\nwunderzeychen/die von Petro gewürcket/vñ durch mich\nglöubigen nit gewürckt sind.",
         "b": "vnd sind sy von jrem spruch\ngetrungen/ das dz vſſer wort soͤllichs vermoͤgẽ\nhabe/ als sy anzeygent von wunderzeychen/",
-        "similarity": 0.3182
+        "similarity": 0.3182,
+        "semantic": 0.8398,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Sag ich das die red vnser\nvordrig meynung bestättet/ dann die wunderwerck we=\nder an minē gloubē noch am vssern wort stand/",
         "b": "die\nvon Petro gewuͤrckt / vnnd durch mich gloͤubi=\ngen nit gewuͤrckt sind . Sag ich das die red vn=\nser vordrig meynung bestaͤtet/dañ die wunder=\nwerck weder an minem glouben noch am vſſern\nwort stand/deßhalb aber jr meinung zeruck lyt/",
-        "similarity": 0.4179
+        "similarity": 0.4179,
+        "semantic": 0.8481,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "deßhalb\naber jr meynung zeruck lyt/ dann die krafft der wunder\nwercken/nit an vnserm glouben/ sonders an der wal got\ntes stand/daruon hie nit statt ist nach notdurfft zereden/",
         "b": "dann die krafft der wunderwercken / nit an vn=\nserm glouben / sonder an der wal gottes stand/ daruon hie nitt statt est nach notdurfft zereden/",
-        "similarity": 0.6182
+        "similarity": 0.6182,
+        "semantic": 0.9057,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd sind die ozt die Christus vom starcken glouben rede\nnit darwider. Pfarrer von Sant Gallen. Jr wüssend wol/das das wort des menschē/als\neins menschē nüt bmag:",
         "b": "vnd sind die ort die Christus vom starcken glou\nben redt nit darwider. Pfarrer von Sant Gallen. Wir wuͤſſend wol/dz das wort des mensch=\nen /",
-        "similarity": 0.6071
+        "similarity": 0.6071,
+        "semantic": 0.9265,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "aber so wir handlen vß\ndem beuelch vñ wort gottes so thůt es nit allein\nnatürliche ding/sonders übernatürliche/ dz eroffnet sich\nin dē wort/",
         "b": "als eins menschen nuͤt vermag : aber so wir\nhandlen vß dem beuelch vnnd wort Gottes/so\nthuͤt es nitt allein natuͤrliche ding /",
-        "similarity": 0.52
+        "similarity": 0.52,
+        "semantic": 0.7394,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "so Petrus dē herrn antwurt/Gebieter durch\ndie ganze nacht arbeitend/habē wir nüt gefangen/indy\nnem wort aber/ wil ich vßspanne das netz:",
         "b": "sonders uͤber\nnatuͤrliche/das eroffnet sich in dem wort/so Pe=\ntrus dem Herren antwurt/ Gebieter durch die\ngantze nacht arbeitend/haben wir nuͤt gefangen\nin dynem wort aber/will ich vßspannen dz netz:",
-        "similarity": 0.4262
+        "similarity": 0.4262,
+        "semantic": 0.6756,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "als sy söllichs\nthon haben/habē sy vmschlossen/ ein grosse viled er visch\nen. Also möchte zůgefürt werden/ der spruch in der ersten\nEpist.",
         "b": "als sy soͤllichs thon haben/haben sy vmschloſſen\nein grosse vile der vischen. Also moͤchte zuͤgefuͤrt\nwerden /",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.7672,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Petri am ersten cap. vnd zun Römern am am 9. Epitel.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6921,
+        "semantic_match": "der spruch in der ersten Epistel Petri\nam ersten capitel vnd zun Rhoͤmern am x. capi. Ouch die erst Conclusion/ darum̃ (ob gott wil)\nChristenlich red gehalten worden. Zwingly",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -95,7 +114,11 @@
         "b": "der spruch in der ersten Epistel Petri\nam ersten capitel vnd zun Rhoͤmern am x. capi. Ouch die erst Conclusion/ darum̃ (ob gott wil)\nChristenlich red gehalten worden. Zwingly",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7951,
+    "reworded": 5,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5686,

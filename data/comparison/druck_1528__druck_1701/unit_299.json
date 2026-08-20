@@ -63,7 +63,9 @@
         "op": "match",
         "a": "Seite [X]\nDie vierde\nlung/wirt vns hie verkündet/darumb man ouch Gott\ndanck sagt. Ich vermein ouch/herr Benedict söll mir dz\nnit löugnen/das keiner sölich Sacrament empfachenn\nsol/er hab dann vorhin ein gloubē/das jm sin sünd durch\ndas lyden Christi verzigen syend:",
         "b": "Jch vermeyn auch / Herr Benedict söll\nmir das nit läugnen / daß keiner sölich Sacrament em-\npfahen söll / er hab dann vorhin ein Glauben /",
-        "similarity": 0.3714
+        "similarity": 0.3714,
+        "semantic": 0.7707,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,31 +77,41 @@
         "op": "match",
         "a": "dañ das gehört darzü\ndas sich der mensch selbs bewäre/probiere/in der erstenn\nzun Corinthiern am .xi. cap. So nun der mensch erkennt/",
         "b": "probiere / in der ersten zun Corinthern am eilften Capitel. So nun der Mensch erkennt / daß ihm das Blůt schon\nußgetheilt ist /",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.7264,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "das jm das blüt schon vßgereylt ist/so wirdt sich sin red\nnit schicken/als söll es jm aller erst vßgereylt werde.",
         "b": "so wird sich syn Red nit schicken / als söll es\nihm allererst ußgetheilt werden. So wird syn Bewähr-\nnus / daß der Wyn oder in dem Wyn /",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.7371,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "So\nwirt sin bewärnuß/das der wyn oder in dem wyn/syewes\nsenlich blüt/aber eins nit gestan. Pfarrer von Sant gallen.",
         "b": "seye wesentlich\nBlůt / aber eins nit gestahn. Pfarrer von Sant Gallen. ·\n\nUff die Ableinung / so myn Herr Doctor vermeynt/ die Wort deß Kelchs /",
-        "similarity": 0.3556
+        "similarity": 0.3556,
+        "semantic": 0.567,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Vnd die ableinung so min herr Doctor vermeint/ die wort des Kelchs/nit also zuͦ vstan sin/wölt\nich gern demütigklich/ouch eins von jm fragen/",
         "b": "nit also zeverstahn syn / wölt\nich gern demütiglich auch eins von ihm fragen / zů Ent-\nscheidung / da der Herr gesagt hat :",
-        "similarity": 0.3404
+        "similarity": 0.3404,
+        "semantic": 0.6789,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "zuͦ entscheidnüg/da der Herr gesagt hat: Trinckeñd all\ndarus/sprechende: Das ist min blüt/was der herr sinen\njüngeren dargereycht hab/oder was sy truncken haben.",
         "b": "Trinckend all da-\nruß / sprechende: Das ist myn Blůt / was der Herr sy-\nnen Jüngern dargereicht hab / oder was sy truncken ha-\nben. Ecolam-",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.6476,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -111,15 +123,25 @@
         "op": "only_a",
         "a": "wo das nit/wellend wir\ndas vordrig abrichten. Pfarrer von Sant gallen. Gib ich antwurt minem herr Doctor/von wä=\ngen der yngezognen figur/Ich hab die selbige in\ndie Acta geben/vnd so ich recht yngedenck bin/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.603,
+        "semantic_match": "294         Die Vierdte Schlußred. Crütz versichert worden nach dem ewigen Raht Gottes / der synem eingebohrnen Sohn um syner unußsprechli-\nchen Gehorsame willen /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "die selben erkläret: darumb nit not wyter zeerhole in wy\nter",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6525,
+        "semantic_match": "294         Die Vierdte Schlußred. Crütz versichert worden nach dem ewigen Raht Gottes / der synem eingebohrnen Sohn um syner unußsprechli-\nchen Gehorsame willen /",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.6729,
+    "reworded": 6,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4133,

@@ -39,13 +39,17 @@
         "op": "match",
         "a": "Seite XXXVII\nSchlußred. XXXVII\n\nDie prh. Wunderred. Sarumb achten wir das vß goͤttlichem Radt be-\nschechen sye/das die Kilch vil Euangelia/",
         "b": "vnd lutet alſo/die 25. Die 25.Wunderred. Darumb achten wir das vß Goͤttlichem Rhadt be-\nſchehen ſye / daß die Kilch vil Euangelia/welcher etlich ge-\nhalten wurden/vnd das ſy die Apoſtel/als Thomas/Ma-\nthias /",
-        "similarity": 0.459
+        "similarity": 0.459,
+        "semantic": 0.5727,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "welcher etlich\ngehalten wurden/vnd das sy die Apostel/als Thomas/ Mathias / Bartholomeus / soͤltenn geschriben haben\nverworffen hat/vnd vns zuͤ glouben fuͤrgebẽ/",
         "b": "Bartholomeus / ſoͤlten geſchriben haben/verworf-\nfen hat / vnd vns zuͤ glouben fuͤrgeben / wie Marcus vnnd\nLucas/die nit Apoſtel ſind geweſen/geſchriben haben.",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.8793,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -57,13 +61,17 @@
         "op": "match",
         "a": "wie die\nuͤberheylig Kilch alle uͤbertrifft/das also ouch wurde by\njr sin das gericht aller leeren / ouch der Apostolischen /",
         "b": "Die 26. Wunderred. Damit offenlich kundt werde iederman / wie die uͤber\nheilig Kilch alle uͤbertrifft / das alſo ouch wurde by ir ſin\ndas gericht aller leeren /",
-        "similarity": 0.72
+        "similarity": 0.72,
+        "semantic": 0.8641,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "also das was sy nit bewaͤrte/keyner stercke noch achtung\nsin soͤlte. Die prix. Wunderred. Sarumb ist nit weniger/vß goͤttlichem rechten an=\nzenaͤme/das sy die gemeine Kilch gloubt hat /",
         "b": "ouch der Apoſtoliſchen / alſo das\nwas ſy nit bewaͤrte/keiner ſtercke noch achtung ſin ſoͤlte. Die 29. Wunderred.",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.7202,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -75,15 +83,23 @@
         "op": "match",
         "a": "zum glou\nben gehoͤrend/vnd vns dasselbig zum wenigosten durch\njr annemen/zuͤ glouben fuͤrgebẽ/dañ das sy vns vß goͤt=\nlicher geschrifft hatt leeren glouben /",
         "b": "vnd vns das ſelbig zum wenigoſten durch jr\nannemen/zuͤ glouben fuͤrgeben / dann das ſy vns vß Goͤtt-\nlicher Geſchrifft hat leeren glouben/etc.",
-        "similarity": 0.6909
+        "similarity": 0.6909,
+        "semantic": 0.7683,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "zc. In diser letsten schlußred/zeyget oͤ Provincial Clar=\nlich an/dz vns anzenemen sye o",
         "b": "Jn diſer letſten Schlußred / zeiget der Prouincial klaͤr-\nlich an/das vns anzenemmen ſye ouch one Gſchrifft / was\ndie Chriſtenlich Kilch angenommen hab/ vnd verſtat aber\nhie",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.6408,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7409,
+    "reworded": 2,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6824,

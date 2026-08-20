@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "Seite 78r\nDie ſibend\n\nNütdesterminder müßt ſin ſünd bezalt vnnd gestrafft\nwerden/dann ſin Sun müßt darumb sterben/ vmb die\nſünd des vatters.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6718,
+        "semantic_match": "nuͤt desto minder werden wir\nkranck / und muͤssen den Tod lyden: und wiewol er gnuͤg\ngethan hat durch syn Barmhertzigkeit /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Als der Prophet ſprach: Der Herr\nhat din ſünd/vff ein andren gelegt. Da ſechē jr/dʒ Gott\nbywil/der ſchuld nachlaßt/vn dannocht ein straff nach=\nhin volget.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7569,
+        "semantic_match": "Da sehen jhr / daß Gott bißwy-\nlen die Schuld nachlaßt/ und dennoch ein Straff nachhin\nfolget/ ꝛc. Wiewol Christus gnuͤg fuͤr uns gethan hat/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -99,7 +105,9 @@
         "op": "match",
         "a": "ſo ſy keinen touff empfiengē. Der hat all kranckheyt vñ\nſchmärʒen hingenommen/nütdesterminder werdē wir\nkranck/vnd müſſen den tod lyden:",
         "b": "noch\nmuͤß man die Kinder tauffen / oder sy wurden nit selig / so\nsy keinen Tauff empfiengen. Der hat all Kranckheit und\nSchmertzen hingenommen/",
-        "similarity": 0.3111
+        "similarity": 0.3111,
+        "semantic": 0.5629,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -111,15 +119,23 @@
         "op": "match",
         "a": "vnd wiewol er gnůg\ngethan hat/durch ſin barmherʒigkeit/ſo erfordret doch\nſin gerechtigkeit/das wir thůgent/als vil an vns iſt.",
         "b": "so erfordert doch\nsyn Gerechtigkeit / daß wir thuͤhen / als vil an uns ist. Bezuͤget der Prophet Johel am 2.",
-        "similarity": 0.4186
+        "similarity": 0.4186,
+        "semantic": 0.7702,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Be\nzůget der Prophet Johel. ij. capit. Keren üch zů mir in\nganʒem üwerem herʒen/in faſten/in weynen/in trurē. Vß dem volget klar/das in der penitenʒ",
         "b": "Cap. Kehren euch zů\nmir in gantzem euerm Hertzen / in Fasten / in Waͤinen/ in",
-        "similarity": 0.3182
+        "similarity": 0.3182,
+        "semantic": 0.7862,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7096,
+    "reworded": 4,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3573,

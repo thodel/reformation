@@ -57,13 +57,17 @@
         "op": "match",
         "a": "Seite IIII\nDie erſt\ngehalten/als kätzerisch verdamnet/das die Christenlich\ngemeind syend nun die verordneten zum ewigen läben. So doch sant Paulus mit aller geschrifft/zuñ Römern\nam viij.",
         "b": "ſo doch\nSant Paulus mit aller Geſchrifft/ zun Roͤmern am 8. Cap. geſchriben hat: Welche der Herr verordnet hat/",
-        "similarity": 0.36
+        "similarity": 0.36,
+        "semantic": 0.8195,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "capitel geschriben hat: Welcher der Herr ver=\nordnet hat/die hat er ouch berüfft/fromm vñd heylig ge\nmacht/Da ist nun klar/das des Provincials Kilch sich\nvermessen hat/die hälle wort Gottes abzetůn/darum\nnit von vnnöten/sölich vrtheyl menschlich abzeſtricken:",
         "b": "die hat er auch beruͤfft/fromm und heilig gemacht. Da\niſt nun klar/daß deß Provincials Kilch ſich vermeſſen\nhat/",
-        "similarity": 0.4375
+        "similarity": 0.4375,
+        "semantic": 0.6443,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,31 +79,42 @@
         "op": "match",
         "a": "Aber vff sölich vnred von Concilien/wil ich nümmen ant\nwurt geben/man bring haryn was man welle/es sye dañ\ngeschrifft/die geachtet werden möchten/sölichen yrrthum\nbeschützenn.",
         "b": "man bring haryn was man woͤlle/ es ſeye\ndann Geſchrifft/ die geachtet werden moͤchten/ſoͤllichen\nJrzthum zebeſchuͤtzen.",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.711,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Zum anderen/lieben Christen/diewyl der\nProvincial gar ernstlichen tringet/den vnüberwindtli=\nchen spruch/Der geystlich richtet alles/in der ersten Epi\nstel zum Corintheren am ij.",
         "b": "Zum andern/ liebe Chriſten/ diewyl der Provincial gar ernſtlichen tringet/ den un=\nuͤberwindlichen Spruch/ Der Geiſtlich richt alles/in\nder erſten Epiſtel zun Corintheren am 2.Cap.",
-        "similarity": 0.6182
+        "similarity": 0.6182,
+        "semantic": 0.8568,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Capitel/das von eym yeden\nChristen verstandenn werden müß/diewyl niemands\nChristi ist/der nit sin geyst habe/zuñ Römern am viij.",
         "b": "das von\neim jeden Chriſten verſtanden werden muͤß / diewyl\nniemands Chriſti iſt/der nit ſyn Geiſt habe/ zun Roͤ=\nmern am 8.Cap.",
-        "similarity": 0.5652
+        "similarity": 0.5652,
+        "semantic": 0.8254,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "capitel. Da hat der Provincial one gschrifft sölichen her\nlichen spruch vnderstanden zeuerdůncklen/vñd das mit\nzweyen fragen. Die erst/So der geyst alle Christen müß\nse leren/vñd one den geyst des herren/vñnd eygnem ver=\nstand des götlichē worts/kein gloub gehabt werdē mög.",
         "b": "Da hat der Provincial ohne Ge=\nſchrifft ſoͤllichen herzlichen Spruch underſtanden zever=\nduncklen/und das mit zweyen Fragen. Die erſt: So\nder",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.4623,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "Warum wir dañ so flyssig den nüw erwachßnen gloubē\npredigē. Welche frag/fromen Christē/ob sy nit sye ein off\nne Calumnia, vñ låres vmtrybē/söllen jr alle vrteilen/Es\nist ouch allen Christē bekant/dz wo Got nit lert/alle pre\ndig vgebē sind/noch dennost hat Gott der Herr diß ord\nnung/damit dester mer lieb vñ einigkeit vñd den Chri=\nsten bestůnde/gewellet/dz sy einandern on vnderlaß wy\nsen vñd leren sölten.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7015,
+        "semantic_match": "78        Die Erſte Schluſſred. Jn diſer letzten Schluſſred zeiget der Provin=\ncial klaͤrlich an/daß uns anzenemmen ſeye auch ohne Ge=\nſchrifft/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -107,7 +122,11 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7173,
+    "reworded": 4,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3752,

@@ -57,13 +57,18 @@
         "op": "match",
         "a": "fo zwyfellt der einfaltig nit onbillich/das villicht nit ein\nvntrüw da verborgen sye. Südem ersten/vmb der an=\nderen eygenschafftlichen übungen willen/die das houpt\nhatt über die glider des lybs/das es die andren glider wy\nset vnd regierr/in den ossern wercken.",
         "b": "daß villicht nit ein Untreu da\nverborgen ſeye. Zů dem erſten / um der andern eigen-\nſchafftlichen übungen willen / die das Haupt hat über\ndie Glieder deß Lybs /",
-        "similarity": 0.3889
+        "similarity": 0.3889,
+        "semantic": 0.6586,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Südemandren/ das die göttlich gschriffranzeigt/das Christus ouch har\ngesetzet einen Sratthalter der gemeinen kirchen/hie off\nerdenn/des gewalt/ouch in dem himel krafft hat.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7916,
+        "semantic_match": "daß es die andern Glieder wy-\nſet und regiert in den vſſeren Wercken. Zů dem ande-\nren / daß die Göttlich Geſchrifft anzeigt/daß Chriſtus\nauch hat geſetzet einen Statthalter der gemeinen Kil-\nchen hie vff Erden /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,19 +80,25 @@
         "op": "match",
         "a": "Von\ndem hand wir Johañis am erste capitel/Das Andreas\nfinen brüder Simonem zü dem Herren Jesu fürt/vnd\nfprach:",
         "b": "deß Gewalt auch in dem Himmel\nkrafft hat. Von dem hand wir Johannis am erſten\nCapitel / daß Andreas ſynen Brüder Simonem zů\ndem Herren Jeſu führt /",
-        "similarity": 0.5652
+        "similarity": 0.5652,
+        "semantic": 0.8104,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wir hand Messiam funden. Do der Herr Jez\nsus Symonem ansach/do sprach er: Su bist Symo ein\nsun Johannis/du wirst hinfür heyssen Cephas/d3 wirt\nvsgeleyt/Petrus.",
         "b": "und ſprach : Wir hand den\nMeſſiam funden. So der Herr Jeſus Simonem an-\nſach / do ſprach er : Du biſt Simon ein Sohn Johan-\nnis /",
-        "similarity": 0.4151
+        "similarity": 0.4151,
+        "semantic": 0.5773,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Cephas ist Griechisch/vnd bedüt ein\nhoupt. Item Matthei am vj. capit. Su bist Petrus/ vnd off den velsen wird ich buwen min Kirch:",
         "b": "du wirſt hinfür heiſſen Cephas/ das wird vßgelegt/ Petrus. Cephas iſt Griechiſch / und bedüt ein Haupt. item Matth. am 16.",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.8954,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -99,19 +110,27 @@
         "op": "match",
         "a": "Und die\nporten der helle werdend dir nit mogen widerston: Vnd\ndir wird ich geben die Schlüssel des Rychs der himlen/",
         "b": "Und dir wird\nich geben die Schlüſſel deß Rychs der Himlen/und alles\ndas du wirſt binden vff Erden/ das wird gebunden ſyn in\nden Himlen :",
-        "similarity": 0.4255
+        "similarity": 0.4255,
+        "semantic": 0.8471,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "vnd alles das du wirst binden off erden/das wirt gebun\nden sin in den himmlen: vn was du entbindest off erden/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6776,
+        "semantic_match": "und was du entbindeſt vff Erden/das wird\nentbunden ſyn in den Himlen. Berch-",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "das wirt entbunden sin in den himmlen. Berchtoldus. Kommen fürgeliebten Christen/der Bychtuar\nter hat in anfang finer red/zum güten theyl vn=\nser Schlußred/mit vier sprüchen der geschrifft\nBestätiger/des ich im grossen danck weyß/wie Christus\ndes ynfluß halb/syedas houpt der Christenlichenn ge=\nmeynd/doch so manglet jm/das wir sprechend/er sy ein\neynig houpt. Siewylin dheinem spruch durch in an30=\ngen/von",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6532,
+        "semantic_match": "und Paulus Eph. 4. Einem jeglichen vß uns\niſt Gnad geben / nach der Maass der Begabung Chri-\nſti. Vß den Sprüchen und derglychen /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -119,7 +138,11 @@
         "b": "und was du entbindeſt vff Erden/das wird\nentbunden ſyn in den Himlen. Berch-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7389,
+    "reworded": 6,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4291,

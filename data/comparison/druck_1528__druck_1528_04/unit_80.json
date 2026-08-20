@@ -39,7 +39,9 @@
         "op": "match",
         "a": "Seite XXX\nDie erſt\nder doch ein hochgeleerter der gſchrifft beruͤmpt iſt/ ſich\nnit beruͤmpt das er aller oͤrter der Biblien natuͤrlichenn\nrechten vſtand erlanget hab.",
         "b": "ſich nitt beruͤmpt das er\naller oͤrter der Biblien natuͤrlichen rechten ver-\nſtand erlanget hab. Noch dennocht wo er gloubt\ndas Chriſtus Jeſus ſin eyniger heyland waͤre/",
-        "similarity": 0.459
+        "similarity": 0.459,
+        "semantic": 0.6584,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -51,49 +53,66 @@
         "op": "match",
         "a": "vnd wurden\nim ſuͤnd vnd irrthumb/ mit den er ſampt andern Chriſte\nbehafft were/ endtlich nuͤr ſchaden/ zun Rhoͤmern am\nviij.",
         "b": "hette er nach dem wort des herrn/das ewig laͤ-\nben/vnd wurden jm ſuͤnd vnd jrthum̃/ mitt den\ner ſampt anderen Chriſten behafft were/entlich\nnuͤt ſchaden/",
-        "similarity": 0.4815
+        "similarity": 0.4815,
+        "semantic": 0.8114,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Cap. Nun ſuma damit man die warheit truͤwlich\nſuͤche/ vnd von dem gewalt der Kilchen/ dz iſt der recht\ngloubigen/",
         "b": "zun Roͤmern am viij.capitel. Nun\nſum̃a damit man die warheyt truͤlich ſuͤche/vnd\nvon dem gewalt der Kilchen /",
-        "similarity": 0.5778
+        "similarity": 0.5778,
+        "semantic": 0.8446,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "der gantz handel iſt der gegenwuͤrtigen Diſ-\nputatz/ ſo welle min herr Doctor vff das nechſt/ von de\nſelbigen/",
         "b": "das iſt der recht\ngloͤubigen / der gantz handel iſt der gegenwuͤr-\ntigen Diſputatz/ſo welle min herr Doctor vff\ndas nechſt/",
-        "similarity": 0.6512
+        "similarity": 0.6512,
+        "semantic": 0.9006,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd das mit der gſchrifft ynred thuͤn. Doctor Cůnrad Treiger\nProuincial. [K]amen fromen lieben Chriſten/ vff min ynred\nbuͤr durch mich beſchehen/",
         "b": "von dem ſelbigen / vnd das mit der\ngſchrifft ynred thuͦn. Prouincial. Erſamen from̃en lieben Chriſten/vff min yn-\nred huͤt durch mich geſchehen/",
-        "similarity": 0.5882
+        "similarity": 0.5882,
+        "semantic": 0.7805,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vff die antwurt/ So\nctor Wolffen Capito/ hat geantwurt/ der wol=\ngelert Martin Butzer Predicant von Straßburg/ vñ\nerſtlich/ die wyl ich krefftigklich probiert/",
         "b": "vff die antwurt/ Doctor Wolffen Capito / hatt geantwurt / der\nwol gelert Martin Butzer predicant võ Straß\nburg/vnd erſtlich/diewyl ich krefftklich probiert\nvnd anzeygt hab vß der gſchrifft/wider genan-\nten Doctor Wolffen/",
-        "similarity": 0.5172
+        "similarity": 0.5172,
+        "semantic": 0.8226,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "vnnd anzeygt\nhab vß der gſchrifft/ wider genanten Doctor Wolffen/ das die gſchrifft geurteylt moͤg werden/ wie ſy dan biß=\nhar die heilig Chriſtenlich Kilch geurteylt hat/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8225,
+        "semantic_match": "Schlußred. XXXVII\nverſtand ſin moͤgen/wie ich dañ acht/ das ouch\nmin herr Doctor/ der doch ein hochgelerter der\ngeſchrifft beruͤmpt iſt/",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dz doch\nbißhar von jnen allenſame͂/ verneint vñ fuͤr ein froͤmb=\ndes geacht iſt worden/ vnd ſoͤllichs zuͤ verkleiben/",
         "b": "das die gſchrifft geurteylt\nmoͤg werden/wie ſy dann bißhar die heylig Chri\nſtenlich Kilch geurteylt hatt / das doch bißhar\nvon jnen allenſamen/verneint vñ fuͤr ein froͤmb-\ndes geacht iſt worden :",
-        "similarity": 0.5263
+        "similarity": 0.5263,
+        "semantic": 0.816,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "ſo ſagt\nMartin Butzer/ wie das vnſer verſtand/ bißhar ſye ge=\nſin/ das die Chriſtenlich Kilch vnnd die Concilia etwas\nvon der gſchrifft hinweg nemen/",
         "b": "vnnd ſoͤllichs zuͦ verkley-\nben/ſo ſagt Martin Butzer/wie das vnſer ver-\nc\tv",
-        "similarity": 0.3415
+        "similarity": 0.3415,
+        "semantic": 0.7059,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -101,7 +120,11 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7958,
+    "reworded": 4,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6342,

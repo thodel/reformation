@@ -51,25 +51,33 @@
         "op": "match",
         "a": "Der disputierenden Ordnung\nDas die/dené nachgelassen zedisputieren/zam/fittés\nElich vnd gsatzlich reden/damit die vier Notharien/die\nwort glychlich verfassen möchtind.",
         "b": "Der Diſputierenden Ordnung. Das die / denen nachgelaſſen zediſputieren / zam/ſit-\ntenklich vnd gſatzlich reden / damit die vier Nota-\nrien/die Wort glychlich verfaſſen moͤchtind.",
-        "similarity": 0.75
+        "similarity": 0.75,
+        "semantic": 0.922,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Das ouch keiner reden sölte one erloupnuß der presi\ndenten/oder so sy in der vrfrag/ harum fragrind vin er=\nloubrind zereden.",
         "b": "Das ouch keiner reden ſolte ohne erloubnuß der Pre-\nſidenten/oder ſo ſy in der vmfrag/harumb fragtind vnd er-\nloubtind zereden.",
-        "similarity": 0.5909
+        "similarity": 0.5909,
+        "semantic": 0.5577,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Es ist ouch zu gütem/vnd fürdrig der warheit/ye=\nderman mit ordnung zereden/nit abgeschlage wordé/vi\nalso mencklich erlaubt/zü handthabung der warheit/ei=\nnem yeden Respondente vi Opponenten/züzespringe.",
         "b": "Es iſt ouch zů guͦtem/ vnd fuͤrdrung der Warheit/ie-\nderman mit ordnung zereden / nit abgeſchlagen worden/ vnd alſo mengklich erloubt/zůhandhabung der Warheit/",
-        "similarity": 0.5172
+        "similarity": 0.5172,
+        "semantic": 0.7123,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Så dem/so ist (wie in den Actis befunden wirdt) vff\nbeiden parthyen zügelassen/das ein yeder dem anderen\nbilfflich vnd rådtlich sin mochte/",
         "b": "einem jeden Reſpondenté vnd Opponenten/zů zeſpringen. Zů dem/ſo iſt (wie in den Actis befunden wirt) vff\nbeyden Parthyen zůgelaſſen/",
-        "similarity": 0.4889
+        "similarity": 0.4889,
+        "semantic": 0.7341,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,13 +89,17 @@
         "op": "match",
         "a": "schriftlich od mundt=\nlich zuschub geben. Duch das yede parthy/einen/zween/ dry oder mer/der gelertesten vnd geschicktesten/verord=\nnen mochten/die in jrer aller namen/Sisputieren/ant=\nwurt/red vnd gegenred geben.",
         "b": "dry oder mehr/der Gelerteſten vnd Geſchickteſten/verord-\nnen moͤchten/die in jrer aller namen / Diſputieren / ant-\nwurt / red vnd gegenred geben.",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.8481,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Und sind also garnach zu\nallen Sessionen des ermant worden/vñ fürnemlich im\nanfang eins yede Artickels geheyssen worde/sich den ver\nordnete schribern anzegebe/vozab die so den Coclufioné\nzewiderfechten willens weren. Doch so ist niemands be",
         "b": "Vnd ſind alſo garnach zů\nallen Seſſionen deß ermant worden / vnd fuͤrnemlich im\nanfang eins jeden Artickels geheiſſen worden/ſich den ver-\nordneten Schribern anzegeben /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7206,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -107,7 +119,11 @@
         "b": "Vnd alſo beyder ſydt (wie erſt geſeit iſt) die ſo die Ar-\ntickel",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7491,
+    "reworded": 1,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4582,

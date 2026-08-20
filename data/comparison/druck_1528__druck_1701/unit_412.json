@@ -63,19 +63,26 @@
         "op": "match",
         "a": "Seite CC\nSchlußred. Våter/mit alleding haben gewuͤßt von vnns menschen\nvff ertrich/in der vozhell: vil mer doch/moͤge sy es wuͤs=\nsen im himmel/Dann wie Johannes schribt im heyligen\nEuangelio/das iſt dz ewig laͤben/das sy dich einige gott\nerkennen:",
         "b": "in der Vorhell : vilmehr doch mögen ſy es wiſſen im\nHimmel/ dann wie Johañes ſchrybt im heiligen Evan-\ngelio/ Das iſt das ewig Leben/daß ſy dich einigen Gott\nerkennen :",
-        "similarity": 0.4359
+        "similarity": 0.4359,
+        "semantic": 0.6376,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "so sy nun Gott erkennen im himel/wie wolten\nsy nit etliche andre ding erkennen in Christo. Zwinggly. DAs wort Johannis hart den sinn/das diß fuͤre zů\ndem ewigen laͤben/gott erkennen/vnd Jesum Chri\nstum.",
         "b": "So ſy nun Gott erkennen im Himmel/ wie\nwolten ſy nit etliche andere ding erkennen in Chriſto. Zwingly. DAs Wort Johannis hat den Sinn /",
-        "similarity": 0.6349
+        "similarity": 0.6349,
+        "semantic": 0.8665,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Was dienet aber das vff die schlußred. Gilg Durer\nDEwylder Rich mann. Luce xvj. gebåtten hart in\nder hell/fuͤr die vff ertrich/vil mer soͤllen wir glou=\nben/das die vßerwelten im himmel Gott fuͤr vns bitte\nmoͤgen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7814,
+        "semantic_match": "So ſchau nun\nvom Himmel herab / und lůg von dyner heiligen Woh-\nnung und Herzlichkeit. Wo iſt dyn Yfer und Macht /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -87,19 +94,28 @@
         "op": "only_a",
         "a": "vnd dienet die meinung vns/vnd nit jnen/vnd\niſt ein παραβολή/Gott hat sich selb vorgebildet durch Abra\nham/durch den Lazaru͂/ein yeden/ð vff gott vertruwt\ndan souil vermag צדקתו Cui robur eſt deus.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6194,
+        "semantic_match": "So ſchau nun\nvom Himmel herab / und lůg von dyner heiligen Woh-\nnung und Herzlichkeit. Wo iſt dyn Yfer und Macht /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Durch den rich= Lazuriah. en/die kinder diser welt/vnnd wil anzeygen/das die vff\nGott vertruwt sind/vonn stundan/so sy vß diser zyt\nscheyden in die schoß vnnd froͤud Gottes komen:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8251,
+        "semantic_match": "Die Sechſzte Schlußred. 4II\n-------------------------------------------------------\nWächter. LJeber Herz/ was wend ihr vß dieſem Spruch ſchlief-\nſen. Eſaias am 63. zů Gott ſpricht.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "die aber\nnach jren gluͤsten in disem zyt laͤben/werden ewigklich",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7322,
+        "semantic_match": "daß die Vßerwehlten im Himel Gott fůr\nuns bitten mögen. Fff          Zwing-",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -119,7 +135,11 @@
         "b": "daß die Vßerwehlten im Himel Gott fůr\nuns bitten mögen. Fff          Zwing-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7437,
+    "reworded": 5,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2966,

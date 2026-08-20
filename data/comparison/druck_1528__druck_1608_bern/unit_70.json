@@ -75,51 +75,75 @@
         "op": "match",
         "a": "Seite IIvXX\nDie erst\nvolgt daruß wie vormals anzeygt ist worden / das soͤl-\nliche gemeine versamluͤg im geyst des herrn versamlet/",
         "b": "wie vormals anzeigt iſt wordẽ / das ſoͤlli=\nche gemeine Verſamlung im Geiſt deß Herren verſamlet / ouch hab zerichten die Geſchrifft /",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.6607,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ouch hab zerichtē/die gschrifft voñ zeurteylen/dan̄ ye ge=\nschriben stat / der geistlich richter alle ding / hie nimpt die\nschrifft nuͤr vß/dz aber min herr Doctor wyter ynzuͤcht\nvff die wort des herrn do er also sagt /",
         "b": "vnnd zeurtheilen / dann\nje geſchriben ſtat / der geiſtlich richt alle ding / hie nimpt die\nſchrifft nuͤt vß. Das aber min Herr Doctor wyter ynzuͤcht\nvff die Wort deß Herren /",
-        "similarity": 0.5833
+        "similarity": 0.5833,
+        "semantic": 0.8466,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "welcher die Kilchē\nnit hoͤrt/sy dir als ein heyd / zc. Wie dz soͤllichs voñ yn=\nnerlichen/geystlichen menschen/verstanden soll werden/",
         "b": "do er alſo ſagt / welcher die Kilchen\nnit hoͤrt / der ſy dir als ein Heid / etc. Wie das ſoͤllichs von\ninnerlichen geiſtlichen Menſchen verſtanden werden /",
-        "similarity": 0.6275
+        "similarity": 0.6275,
+        "semantic": 0.5783,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "der da alle ding richt zuͤ dem glouben/vnnd zuͤ der lieby/ sag ich das darzuͤ/das vns hie der herr hatt woͤllen an=\nzeygen/ein vsserlichen/sichtbarlichen richter/damit wir\nin spennen vnd zweyspaltigkeyt zuͤ friden vnd zuͤ eynig=\nkeyt vnsers rechten vnbefleckten glouben komen moͤch=\nten/dan̄ der herr ye seit/so er dich nit hoͤrt/so nim ein oder\nzween zuͤ dir /",
         "b": "der\nda alle ding richt zů dem Glouben / vnd zů der Liebi / ſag ich\ndas",
-        "similarity": 0.3133
+        "similarity": 0.3133,
+        "semantic": 0.8303,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "so er die selben ouch nitt hoͤren will/so sags\nder Kilchen/muͤß ye ein vsserlich/sichtbarlich Kilchenn\nsin/dann ye schimpfflichē zehoͤren wer/das vns der herr\nein richter gesetzt het/vnsichtbarlich vnd vnerkantlich/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.806,
+        "semantic_match": "vnd laͤßt ſton wie ouch gemel=\ndet iſt / wie dem gerechten kein geſatz ſye geſtelt / dann Pau=\nlus in vnſerem fuͤrbrachten ort /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Darumb noch huͤt by tag volgt/das dieselb sichtbarlich\nKilch in einem waren glouben / vñ im namen des herrn\nversamlet/in hendlen des gloubens zuͤ vrteylen/vnd ze=\nsprechen hab.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.783,
+        "semantic_match": "vnd laͤßt ſton wie ouch gemel=\ndet iſt / wie dem gerechten kein geſatz ſye geſtelt / dann Pau=\nlus in vnſerem fuͤrbrachten ort /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Doctor Capito+\nJe min herr Doctor fuͤrwedt/dz er disen spruch\nder geistlich richter alle ding bstat vñ annimpt\nwie er vor geduͤtet ist /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7147,
+        "semantic_match": "nit vom gerechten vff ſoͤlli=\nche wyß / ſonders eigentlichen von dem geiſtlichen / das iſt\nvon dem Chriſten redet. Doctor Cůnrad Treiger /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "nemen wir an / das aber\ndaruß soͤlte volgen/das er die gschrifft/ouch moͤchte vr\nteylen/die wyl er alle ding vrteylet/mag nit volgē/dan̄\ndie art der red ist/das er vrteylt alles das/so zuͤ vrteylen\nist/nun mag die schrifft als die gewuͤßlich voñ geyst Got=\ntes ist/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7889,
+        "semantic_match": "vnd laͤßt ſton wie ouch gemel=\ndet iſt / wie dem gerechten kein geſatz ſye geſtelt / dann Pau=\nlus in vnſerem fuͤrbrachten ort /",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7511,
+    "reworded": 6,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2438,

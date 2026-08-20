@@ -63,13 +63,18 @@
         "op": "match",
         "a": "Seite XCII\n**Schlußred.**\n\ncreaturen / als vnheilig verwerffen / zeygt an die vrsach / die er darsetzt / dann alle creatur gottes ist gůt /",
         "b": "zeygt an die vr\nſach/ die er darſetzt: dann alle creatur Gottes iſt\ngůt/ vnd nit verwerfflich/Aber daruon hienach\nwyter an ſinem ort.",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.6447,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "vnd nit\nverwårfflich / aber daruon hienach witer an sinem ort. **Bichwatter.**\n\nHErr Martin Buͦtzer sagt uͤch. Ich hab ein nit=\nwegloß uͤber das Capi.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7519,
+        "semantic_match": "Er wirt ſin kilch\nouch nit entſchuldigē vō ſölichem/der Ee halb/ darumb das ſy die ſelb nit ſtracks verbüt/",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,33 +86,49 @@
         "op": "match",
         "a": "zuͦ Thimotheo harfuͤr\nBracht / darzuͦ sag ich / wie er gesagt hat / sag ich\nneyn / das ist der verstand von alterhar /",
         "b": "wie er geſagt hat/ſag ich\nneyn/das iſt der verſtand von alterhar/der hey=\nligen Chriſtenlichen Kilchen/ als wol gegründt\nin diſem text/als ſin vßlegung :",
-        "similarity": 0.5417
+        "similarity": 0.5417,
+        "semantic": 0.7206,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "der heylige Chri\nstenlichen Kilchen / als wol gegruͤndt in disem text / als\nsyn vßlegung / vnd wie sy myns verstandes nit gestan=\nden /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8392,
+        "semantic_match": "Diewyl dañ ſin\nvermeinte Kilch/ wie er ſelbs bekennt/ die ſpyß\nverbüit/es ſye nun glych zů etlicher zyt/ſo ligt ye\nam tag/das ſy tüffelſche leer fürgibt:",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "also gestan ich jres verstands ouch nit / referier mich\nouch vff den selben text / vnnd die gschrifft / mit dem wil\nich nu zemal beschlossen habe͂ /",
         "b": "vñ wie ſy mins\nverſtands nit geſtanden/alſo geſtan ich jres ver=\nſtands ouch nit: Referier mich ouch vff den ſel=\nben text/vnd die gſchrifft.",
-        "similarity": 0.549
+        "similarity": 0.549,
+        "semantic": 0.6932,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vß der gschrifft Beuelchen / Protestier mich / das ich alles das so ich hie geredt hab / vnderwuͤrff der straff vnnd besserung /",
         "b": "Mit dem wil ich nun\nzemal beſchloſſen habē/vñ der ſchrifft beuelchē. Proteſtier mich/ das ich alles das/ ſo ich geredt",
-        "similarity": 0.4762
+        "similarity": 0.4762,
+        "semantic": 0.8566,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "der ge=\nmeynen Christlichen kilchen / wo die nach ord=\nenlicheit versamnot wirt / vrbuͤrtig / wo\nich des gewisen wurd / zuͦ corrigie=\nren vnd zuͦbessern bin\nich willig. End der andern schlußred.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7867,
+        "semantic_match": "wie kan dz\nnun gůter meinung geſchehen: wär wil einem\ngifft zetrincken geben/der meinūg jm zehelffen: Damit die ſach geendet werde/ſo referieren wir\nvns vff die angezognē ſprüch.",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7561,
+    "reworded": 4,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4386,

@@ -39,7 +39,10 @@
         "op": "only_a",
         "a": "so\nbald der gloub kumpt. Hieby sol man nit verstan/das\nwir einicherley trüw/verspruch/verschrybung/vereyd=\nungen der weltlichen hand/vermeynen zebrechen/sun=\nder wir redend allein von den gelübden/die man gelübd\nder geystlichen nempt/die die Conscientz solten antref=\nfen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6777,
+        "semantic_match": "ſo verwarnet er die Kilchen/ vnnd ſpricht/Man ſolle ſy nit in die vnderhal=\ntung der Kilchen vffnemmen : dann ſy habend\nin eynem Bruch /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -51,7 +54,9 @@
         "op": "match",
         "a": "sich ouch junge wittwen/vnderstüendend ze=\nweyden/ Vñ so sy in die enthaltung der Kilchen kame/ würden der jungen etlich erfunden/die vnkúscheiten/oð\nverschurten die enthaltung/mit etwas vnzucht/Vñ so\ndas beschach/suchten sy die flucht:",
         "b": "Die nuͤndte\n\nwarend/ꝛc. ſich ouch junge wittwen/ vnderſtuͤn\ndend zeweyden. Vnd ſo ſy in die enthaltung der\nKilchen kamen/",
-        "similarity": 0.3667
+        "similarity": 0.3667,
+        "semantic": 0.7598,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,7 +68,9 @@
         "op": "match",
         "a": "(Eya es ist wäger/ich\nnem ein man. So das Paulus zum dickeren mal geseche\nhatt/so warner er die Kilchen/vnd spricht/(Dan solle\nsy nit in die vnderhaltung der Kilchen vfnemmen:",
         "b": "ſuͤchten ſy die flucht: Eya es iſt waͤger/ ich nẽm ein man. Do das Paulus zum dickeren\nmal geſehen hatt/",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.8664,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,31 +82,42 @@
         "op": "match",
         "a": "dan̄\nsy habend in einem Bruch/wie erst gesagt ist/dz sy sich ver\ngiengen mit mütwillen/vnd wellen sich dan vereeliche/",
         "b": "wie erſt geſagt iſt / das ſy ſich\nvergiengen mit muͦtwillen/vnd wellen ſich dañ\nvereelichen/vnd habend aber den erſten glouben\ngebrochen /",
-        "similarity": 0.4889
+        "similarity": 0.4889,
+        "semantic": 0.7425,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnd habend aber den ersten glouben gebrochen/das ist/ sy haben geunküschet/oð vnerberlich geläbt/ee vñ sy der\nEe nach gefragt haben.",
         "b": "das iſt/ſy haben geunkuͤſchet / oder\nvnerberlich gelaͤbt / ee vñ ſy der Ee nachgefragt\nhaben. Sy ſyen ouch des anſechens zur Kilchen\nkomen/",
-        "similarity": 0.4583
+        "similarity": 0.4583,
+        "semantic": 0.8215,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Sy syen ouch des ansechens zur\nKilche komen/sam sy der gantz verlaßnen wittwe gewe\nsen/dz doch sy nit syen gsin/vñ habe also betrug gethan.",
         "b": "ſam ſy der gantz verlaſſnen witwen ge=\nweſen/das doch ſy nit ſyen gſin/ vnd haben al=\nſo betrug gethon .",
-        "similarity": 0.4255
+        "similarity": 0.4255,
+        "semantic": 0.9313,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Das ist also Paulo/den ersten glouben brechen/vñ wirt\nhie des gelübds nützit gedacht: dan in dem vfnemen der\nwittwen/werden alle gelegenheiten anzeigt/die zur selbe\nordnung dienen.",
         "b": "Dꝫ iſt alſo Paulo/den erſten\nglouben brechen / vñ wirt hie des geluͤbds nuͤtz\ngedacht : dann in dem vffnemmen der witwen/",
-        "similarity": 0.566
+        "similarity": 0.566,
+        "semantic": 0.6698,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Aber Paulus lert darby nit/dz man jne\n(Omm ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8026,
+        "semantic_match": "werden alle gelegenheyten anzeygt / die zur ſel=\nben ordnung dienen . Aber Paulus leert darby\nnit / das man jnen einicherley geluͤbten ſoͤlle an=\nmuͤten/Darum ſo dienet diß ort nit die menſch=\nlichẽ geluͤbd zuͦ bewaͤren.",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -119,7 +137,11 @@
         "b": "nit hinder=\nſich ſechen ſoͤllẽ: vñ redt nit võ den geluͤbdtẽ/die\nvon den menſchen erdacht ſind : dañ in dem ſel=\nben\n\n## Marginalien\nben\nwi\nPa\nſta\nſta\nge\nab\nA\ng\nel\nſo\nm\nu\nſt\nle\nn\nle\nb\ng\nh\ng\n[unleserlich]\nj\nl",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.784,
+    "reworded": 7,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4278,

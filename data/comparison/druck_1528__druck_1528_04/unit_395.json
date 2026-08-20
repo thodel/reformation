@@ -33,31 +33,44 @@
         "op": "only_a",
         "a": "Seite 190\nSchlußred. CXC\nDannberger\nPaulus der heylig Apostel redt/namlichenn/das der\nhoch vnd obrest Priester/werde bitten für die sünd\nder menschen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.603,
+        "semantic_match": "das Abel beſſer ſye gſin/ dañ das er\ngeopfert hat: dann in ſölcher gſtalt/ wurde kein\nſündender Prieſter dörffen touffen/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Das hat ouch bezüget das alt Testa\nment/Numeri.xvj.Sañ Aaron was ein Priester des al\nten Testaments/welcher gestanden ist zwüschen den lä\nbenden vnd todten/vnd hat gebätten.zc.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7127,
+        "semantic_match": "das Abel beſſer ſye gſin/ dañ das er\ngeopfert hat: dann in ſölcher gſtalt/ wurde kein\nſündender Prieſter dörffen touffen/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Berchtoldus Haller. DAs W. Hans anzücht/von dem gebätt Aarons/ ist alles in Christo erfüllt/wie in disem fünfften ca\npitel glych volgt:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6688,
+        "semantic_match": "das Abel beſſer ſye gſin/ dañ das er\ngeopfert hat: dann in ſölcher gſtalt/ wurde kein\nſündender Prieſter dörffen touffen/",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Vnd er hat am tag sins fleischs.zc. Text verlesen. Dannberger. Jch blyb by dem Text. Berchtoldus. Jch ouch. Büchstab\nJn anfang diser Schlußred/võ hern Berchtolde\nyngefürt/hab ich noch nit gar bantwurt, Sag al=\nso:",
         "b": "Schlußred. CCXV\nBerchtoldus. Ich ouch\nJoannes Bůchſtab. Den anfang diſer Schlußred/ võ hern Berch\ntoldenn yngefůret/ hab ich noch nit gar verant=\nwurt.",
-        "similarity": 0.4333
+        "similarity": 0.4333,
+        "semantic": 0.8346,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Der gegenwurff/dz der Opffrer besser sin müß/ dann das geopffret wirt/Jst one schrifft/dann niendert\nstade mit vßgetruckten worten/das Abel besser syeg sin\ndann das er geopffret hat:",
         "b": "Sag alſo: Der gegenwurff/ dz der Opf\nferer beſſer ſin můß/ dañ das geopfret wirt/ iſt\none gſchrifft: dañ niendert ſtadt mit vßgetruck=\nten worten/",
-        "similarity": 0.4643
+        "similarity": 0.4643,
+        "semantic": 0.6145,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,13 +82,17 @@
         "op": "match",
         "a": "dann in solicher gestalt/wurde\nkein sündender priester dözffe töuffen: so doch der Touff\nbesser ist/dann der Touffer. So hat Maria die müter/",
         "b": "ſo doch der\nTouff beſſer iſt dann der Töuffer. So hat Ma\nria die můter/ Chriſtum in tempel vfgeopffret/ iſt doch nit beſſer gſin dann Chriſtus.",
-        "similarity": 0.52
+        "similarity": 0.52,
+        "semantic": 0.7739,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Christum in tempel vffgeopffret/ist doch nit besser gsin/ dann Christus. Berchtoldus. SEr Schülmeister herr fälicher ynred wol geradte/ dañ sy nüt wid die schlußred vermag. Jch frag in/ wz Abel geopffret hab. Bbb ij",
         "b": "Berchtoldus. Der Schůlmeiſter hett ſölicher ynred wol ge\nradtē/ dañ ſy nüt wider die Schlußred vermag. Ich frag jn/ was Abel geopffret hab.",
-        "similarity": 0.5172
+        "similarity": 0.5172,
+        "semantic": 0.8361,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -101,7 +118,11 @@
         "b": "ſunder nach dem ge=\n\n## Marginalien\n[..]err\n[..]de/ [..]von\n[..]o ge\n[..]ulus\n\n[..]e ſin\n[..]nſt\n[..]t vo\n[..]vol\n[..]haria\n\n[..]hen\n[..]ten\n[..]ezt\n[..]dan\n[..]nte\n[..]n vi\n\n[..]bāt\n[..]ſem\n[..]rag\n\n[..]ch",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7205,
+    "reworded": 5,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.375,

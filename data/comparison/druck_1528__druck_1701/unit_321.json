@@ -51,13 +51,18 @@
         "op": "match",
         "a": "Seite [X]\nDie vierde\nwir/das diße wort einen andern ſinn/weder wåſenlich/ haben můſſend: vñd ſo von menſchlichem aller Chriſten/",
         "b": "weder weſentlich / haben müſſend : und ſo von menckli-\nchem aller Chriſten / auch mit der Kundſchafft Pauli / in der erſten Epiſtel zun Corinthern am 5.",
-        "similarity": 0.3556
+        "similarity": 0.3556,
+        "semantic": 0.5204,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "ouch mit der kundſchafft Pauli/in der erſten Epi. zun\nCorinthern am v. cap. Das Oſterlamb im Alten Teſta\nment/ein vorbedůtnuß gewåſen iſt des rechtenn lambs\nChriſti/welches nit allein die Jſraeler vſſz Egypten ge\nfůrt/ſonder die gantzen welt/vſſz gewalt des tůffels vñ\nverdamnůß/erlõſt hat.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6943,
+        "semantic_match": "Capitel / Das\nOſterlam im Alten Teſtament ein Vorbedütnus gewe-\nſen iſt deß rechten Lams Chriſti / welches nit allein die Iſ-\nraeler vß Eaypten geführt /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -81,19 +86,25 @@
         "op": "match",
         "a": "capit. in dem mund Chriſti Jeſu die\nwort gebrucht hat/die er ouch vormals in der vorbedů=\ntenden danckſagung gebrucht:",
         "b": "durch den die Geſchrifft\ngeſchriben iſt / in der andern Petri am erſten Capitel / in\ndem mund Chriſti Jeſu die wort gebrucht hat/die er auch\nvormals in der vorbedütenden Danckſagung gebrucht :",
-        "similarity": 0.6275
+        "similarity": 0.6275,
+        "semantic": 0.8545,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "darmit er in allen ſinen\nwortē athmen empfundē wurde. Nun ſtadt Exodi am\nxij. capitel/alſo: Vnnd jr werdend das Oſterlamb alſo\neſſen:",
         "b": "darmit er in allen ſynen Worten Athmen empfunden\nwurde. Nun ſtaht Exodi am 12. Capitel alſo : Und ihr\nwerdend das Oſterlam̃ alſo eſſen :",
-        "similarity": 0.6522
+        "similarity": 0.6522,
+        "semantic": 0.7208,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Dwer lende ſollend gůrt ſin: ůwer ſchůch an ůwe\nren fůſſen/vñd ſtåb in ůweren henden: jr werdends ouch\nmit yl eſſen/Das iſt der ůberſchritt des Herrē.",
         "b": "Euer Lände ſöllend gür-\ntet ſyn / euere Schüh an euern Füſſen / und Stäb in\neuern Händen : ihr werdends auch mit yl eſſen /",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.6202,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -105,15 +116,24 @@
         "op": "match",
         "a": "Hie ſe=\nched wir/das das Oſterlamb nit das ůberhupffen/oder\nder ůberſchritt was/ſonder das fåſt oder hochzyt=\nlicher tag/an dem man widerumb Gott dancket des ů=\nberſchritts/da er ſy ůberhupfft hat/vnnd die Egypter\nerſtgeborne erſchlagen/das das lamb genempt wirt/der\nOberſchritt/darumb das es ein gmein maß/oder vſſer=\nliche/oder Sacramentliche ſpyß was/die man gemein=\nlich miteinandern brucht vff der ſelben danckſagůg/vñ\nHh.",
         "b": "an dem man\nwiderum Gott dancket deß überſchritts / da er ſy über-\nhupffet hat / und der Egypter erſtgeborne erſchlagen/ daß das Lamm genennet wird der überſchrittt/darum daß\nes ein gemein maß / oder vſſerliche / oder Sacramentliche\n                    Rr ij               Spyß",
-        "similarity": 0.3784
+        "similarity": 0.3784,
+        "semantic": 0.5307,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "vermag diſes wort/Jſt/Hebraice/הוּא/an dē ort alſo\nvil/als: Es iſt ein gedåchtnus:es iſt ein figur/es iſt ein be\ndůtnůß/Darus wir eygenlich ſechē/das ouch die gegen=\nwůrtigen wort/Das iſt min lychnam/nůtzit anders wel\nlenn/weder das fåſt vnnd das Brot/das am fåſt der\ndanckſagung vmbgetragen wordenn/mit der maß ge=\nnempt",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.732,
+        "semantic_match": "diſe Wort / Das iſt myn Lychnam / nit zeverſtahn von dem lyblichen weſentlichen Lychnam\nChriſti / erkennen wir / daß diſe Wort einen andern ſinn/",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.6676,
+    "reworded": 3,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4591,

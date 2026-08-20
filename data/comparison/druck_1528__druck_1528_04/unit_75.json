@@ -39,13 +39,17 @@
         "op": "match",
         "a": "Seite XXXI\nSchlußred. in ſin nechſten menſchẽ in ein Chriſtenlich gemeind/den\nDa zwytracht/vneinigkeit/ſtifft in vnſern vnbeflecken\nglouben/vñ der da ſicht wider den rechten verſtand des\nwort gottes/vñ nüw rotten/vñ ſeckten ſtifft.",
         "b": "deñ der\nda zwytracht/vneinigkeit stifft in vnseren vnbe-\nfleckten gloubē/vnd der da ficht wider den rech\nten verstand des wort gottes/vñ nüw rotten vñ\nsecktē stifft.",
-        "similarity": 0.5758
+        "similarity": 0.5758,
+        "semantic": 0.8151,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Witer ſo\nzeygt der text hie luter vñ klar an/dz der herr redt von\nergernuß/darumb ſagt der herr/weñ ein glid dir erger=\nnus gibt/ſo ſchnids ab/vñ wirffs võ dir/zc.",
         "b": "Wyter/so zeigt der text hie luter vñ\nklar an/das der Herr redt von ergernuß/darūb\nsagt der Herr:",
-        "similarity": 0.5818
+        "similarity": 0.5818,
+        "semantic": 0.8336,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -57,31 +61,43 @@
         "op": "match",
         "a": "Das on zwif\nfel von geiſtlichen glidern des herrn zeuerſton iſt/ſo ein\nmenſch den andern/oder einer ganzen Chriſtẽ gemeind\nergernuß gibt/dañ je kein gröſſer ergernus nit iſt/dañ zer\ntrengnung in vnſerm vnbefleckten gloubẽ/darumb her=\nnach volgt/dz diſer text voruß vñ voran in dißem vall\nze verſton iſt.",
         "b": "dañ ye kein grỏsser erger\nnuß nit ist/dañ zertrennūg in vnserm vnbefleck-\nten gloubē: darum̄ hernach volgt/das diser text\nvoruß vñ voran in disem val zeuerstan ist.",
-        "similarity": 0.4146
+        "similarity": 0.4146,
+        "semantic": 0.6831,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Zum dritten hat min herr Doctor antwurt\ngeben/wie das diſer text verſtandẽ ſoll werden/nit von\nder gemeiner Chriſtenlichen Kilchen/ſonder vonn einer\nyegklichen Kilchen/für ſich ſelbs alſo/das ein yegkliche/",
         "b": "Zum\ndritten hat min herr Doctor antwurt gebē/wie\ndas diser text verstandē sỏll werden/nit von der\ngemeiner Christenlichē Kilchē/sonder von einer\nyegklichen Kilchen für sich selbs/also/dz ein yet-\nliche einige Kilch/in stuckē des gloubens handlē\nvnd sprechen mỏg:vñ nit von nỏten zů erwartē\neins gemeinen spruchs/von gemeiner Christen-\nlichen Kilchen.",
-        "similarity": 0.5934
+        "similarity": 0.5934,
+        "semantic": 0.7618,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "einige Kilch in ſtuckẽ des gloubens handlen/vñ ſpreche\nmög vñ nit vonnören zů er warre/eins gemeine ſpruchs\nvon gemeiner Chriſtenlichen Kilchen/wider dißen ſinen\nverſtand/arguier ich alſo.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7662,
+        "semantic_match": "Weñ ein glid dir ergernuß gibt/ so schnyds ab/vñ wirffs von dir. Dz on zwyfel\nvon geistlichē glideren des herrē zeuerstan ist/so\nein mensch den andren/od einer gantzen Christē\ngmeind ergernuß gibt:",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Ein yegkliche einige Kilch/ mag in ſtucken des gloubens jrr gon/darumb dann key=\nne in ſtucken des gloubens vrteylen mag/dañ yeder rich\nter den wir habenn ſöllen in hendlen des gloubens/on=\nſträfflich ſoll ſin vnd nit mögen jrren.",
         "b": "Wider disen sinen verstand/ar-\nguier ich also/Ein jegkliche einge Kilch/mag in\nstucken des Gloubens jrrgan/darum̄ dañ keine\nin stucken des Gloubens vrteylen mag:",
-        "similarity": 0.3824
+        "similarity": 0.3824,
+        "semantic": 0.7201,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Martinus Butzer.+\n\nLIeben frommen Chriſten/wir haben ein handel\ndas wort Gottes belangend/gegen minẽ herrn\nDoctor zů gegen/darumb wil ich yetzund ant=\nwurt gebenn vnnd damit die ſach kürtzert werd/wil ich\ndas widerbringenn/die red des Doctors laſſen anſton\nH ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6735,
+        "semantic_match": "Schlußred. XXXIIII\ndas/dz verstanden sol werden/so einer in sin brů\nder sündet/vñ von der sünd. Jch frag aber min\nherr Doctor/wellicher hỏcher sündet in sin nåch\nsten menschē/in ein christenlich gmeind:",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -89,7 +105,11 @@
         "b": "dañ ye\nder richter/den wir habē sỏllē in hendlē des glou\nbens/vnstråfflich sol sin/vnd nit mỏgen jrren. c   ij\n\n## Marginalien\n[abgeschnitten]",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7505,
+    "reworded": 4,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5725,

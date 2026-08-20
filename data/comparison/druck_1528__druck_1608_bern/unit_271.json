@@ -39,7 +39,9 @@
         "op": "match",
         "a": "Seite CXXVIII\nSchlußred. CXXVIII\nvolget wyter. Ich wil nit das jr gemeiner fiend der tüffle\ndas iſt/das jr mit gemeinſchafft haben in der abgöttery\nIſt aber klar das es nit heyßt vßteylen der tüffel vnnd\nſtat da κοινωνοὺς/vn̄ volget wyter:",
         "b": "das woͤrtli Κοινωνοὶ/vnnd hernach\nvolget wyter: Jch wil nit das jr Gemeiner ſiend der Tüf-\nlen/das iſt/das jr nit gemeinſchafft haben in der Abgoͤtte-\nry/",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.7539,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -51,13 +53,17 @@
         "op": "match",
         "a": "Jr mögend nit trinck-\nen den Kelch des Herrn/vnnd den Kelch des tüffels/ wie nun an dem ort der Kelch der tüffel/nitt bedütet/",
         "b": "vnd den Kelch deß Tüffels/wie nun\nan dem ort der Kelch der Tüffel / nit beduͤtet / das in dem\nKelch oder Tranck die Tüffel waͤſenlich ſyend /",
-        "similarity": 0.4528
+        "similarity": 0.4528,
+        "semantic": 0.8051,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "das in dem Kelch oder tranck die tüffel wäſenlich ſyend/ alſo iſt es ouch mitt dem Kelch des Herren/das er dar=\numb nit wäſenlich vnd Lyplich das blůt Chriſti inhelt/",
         "b": "alſo iſt es\nouch mit dem Kelch deß Herren/das er darumb nit waͤſen-\nlich vnnd Lyblich das Bluͦt Chriſti inhelt /",
-        "similarity": 0.4815
+        "similarity": 0.4815,
+        "semantic": 0.9065,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,19 +75,26 @@
         "op": "match",
         "a": "Vnd aber eyns ſagt er: Jr mögent nitt gemeyn haben/ an dem Tiſch des Herrn/vnd an dem Tiſch der tüfflen\nda ſicht man vß den worten/das die nit ein teyl åben ha\nben genommen von den Tüfflen/aber das ſy ein gemein=\nſchafft haben gehabt in dem dienſt der abgöttern/das\niſt der Tüfflen.",
         "b": "das die nit ein teil åben haben genommen von\nden Tüfflen / aber das ſy ein Gemeinſchafft haben gehabt\nin dem dienſt der Abgoͤttern/das iſt der Tüfflen.",
-        "similarity": 0.5476
+        "similarity": 0.5476,
+        "semantic": 0.7229,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Alſo ouch wir Chriſten/ſo von des herrn\nTiſch geſpyſet werden/bezügen vnns die waren diener\nChriſti ſin/der vnns vortzhin durch ſich ſelbs geſpyſet\nhatt/vnnd alſo iſt offenbarlich das das wort κοινωνία hie\nnite vßteylung heyßt/vnd diſes ort Pauli vnſeren wi=\nderſacheren gang nüt züſtat vnnd bewert.",
         "b": "Alſo ouch\nwir Chriſten / ſo von deß Herrn Tiſch geſpißt werden/be-\nzügen vns die waren Diener Chriſti ſin/ der vns vorthin\ndurch ſich ſelbs geſpyſet hat/vnd alſo iſt offenbarlich das\ndas wort Κοινωνία hie nit vßteilung heißt/vnnd diſes orts\nPauli vnſeren Widerſechern gantz nüt zuͦſtat vnnd be-\nwårt.",
-        "similarity": 0.6275
+        "similarity": 0.6275,
+        "semantic": 0.8506,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Alchamer\n\nIch vnderwürff myne vnnd ſine vßlegung dem Chri=\nſtenlichen läſer. Zwingly. ALß myner Herren Mandat luter / das nie=\nmands die warheyt ſoll laſſen vnderligen / wil\nich vß krafft der ſelbigenn Punctenn / ouch",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8039,
+        "semantic_match": "Jſt aber klar das es nit heißt vßteilen der Tüffel / vnd\nſtat da Κοινωνοὺς/vnd volget wyter : Jr moͤgend nit trincken\nden Kelch deß Herrn /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -89,7 +102,11 @@
         "b": "Althamer. JCh vnderwuͤrff myne vnd ſyne Vßlegung dem Chri-\nſtenlichen Låſer\n\nZwingly",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8072,
+    "reworded": 4,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6016,

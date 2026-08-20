@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite [X]\n**Die erst**\njm/namlich mit dem wort Gottes/wo das ein rechtenn\nverstand hett/wider das nit zesin:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6805,
+        "semantic_match": "ouch nit dem Prelaten oder\nBiſchoffen allein/dann er ein eynige perſon iſt/ ſonder der Kilchen/ſo Chriſtum bezuͤget in hoͤ-\nrung ſins worts/vnd volgung deſſelben/in wel\nchre",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -51,31 +54,41 @@
         "op": "match",
         "a": "Vnd so herr Berchtold mine\nsprüch/so ich hab anzogen vß dem heyligen Euangelio/ ouch vß Paulo/vnnd das selb genempt ein gewallt/den\nGott sinen jüngeren empfolchen hart/spricht er/es sye\nnun ein beuelch gsin/das die/die in der Kirchē ergernuß\ngebind/oder sündetind/wie dann das selb ist/die selben\nverbannen.",
         "b": "den gott ſinen jůngeren empfolchen hat/ſpricht\ner/es ſye nun ein beuelch gſin/das die/die in der\nKilchẽ ergernuß gebind/od ſuͤndetind/wie dañ\ndz ſelb iſt/die ſelben verbannen/welches ich doch\ngern von dem Predicantẽ võ Bern/gehoͤrt hab/",
-        "similarity": 0.52
+        "similarity": 0.52,
+        "semantic": 0.7399,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Welches ich doch gern von dem Predicantē\nvon Bernn/gehört hab/das er der Christennlichen Kir=\nchen zügibt/Das sy ein empfelch hab zeuerbannen/dañ\nbißhar der arm/güt from Christ ein grosse beschwård ge\nhept hab (als sy gemeynt habend) von dem Bann der\nKirchen/sittenmal so nun yez klårlich gehört ist von\ndem Bann/müß vß not volgen ein gewallt.",
         "b": "das er der Chriſtenlichẽ Kilchen zůgibt/dz ſy ein\nempfelch hab zů verbannen: dañ bißhar der arm\ngůt from̃ Chriſt ein groſſe bſchwaͤrd gehept hab\n(als ſy gemeint haben) von dem Bann der Kil\nchen/ſittenmal ſo nun yetz klarlich gehoͤrt iſt von\ndem Bañ/můß vß not volgen ein gewalt.",
-        "similarity": 0.6261
+        "similarity": 0.6261,
+        "semantic": 0.8158,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Darumb\nich vestenklich bestand/vnd nit abwych von dem gewalt\nder Christenlichen Kirchen. **Berchtoldus.**\nKomen Christen zügütrem allenzühörern/vñ\nzü kürtzerung der sach/sol der Pfarrer vermer=\ncken/vß dem Euangelio/Datthei am xviij.",
         "b": "Dar-\numb ich veſtenklich beſtand/vnd nit abwych võ\ndem gewalt der Chriſtenlichen Kilchen. Berchtoldus. Fromen Chriſten/zů gůtem allen zůhoͤreren/",
-        "similarity": 0.4643
+        "similarity": 0.4643,
+        "semantic": 0.9021,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "wie es ein gestalt vmb den Bann heyg/Er ist von Chri\nsto beuolchen/der Kirchen/nit alleyn der allgemeynen\nChristenlichē Kirchen:",
         "b": "vnd zů kůrtzerung der ſach/ſol der Pfarrer ver-\nmercken vß dem Euangelio/Matthei am. xviij. wie es ein geſtalt vmb den Bann habe/Er iſt võ\nChriſto beuolchen der Kilchen/nit allein der all-\ngemeinẽ Chriſtenlichẽ Kilchen:",
-        "similarity": 0.4667
+        "similarity": 0.4667,
+        "semantic": 0.8098,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dañ die vff disem zyt nit züsamen\nkompt/ouch nit der kirchē so Båpst vñ Bischoff zesamē\nkomend",
         "b": "Dañ die vff diſem\nzyt nit zůſamen kompt/ouch nit der Kilchen/ſo\nBaͤpſt vnd Biſchoff zeſamen komend. Dañ das\nmit groſſem koſten beſchechen můßt/den offnen\nſuͤnder zeuerbannẽ:",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.8536,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -83,7 +96,11 @@
         "b": "ouch nit dem Prelaten oder\nBiſchoffen allein/dann er ein eynige perſon iſt/ ſonder der Kilchen/ſo Chriſtum bezuͤget in hoͤ-\nrung ſins worts/vnd volgung deſſelben/in wel\nchre",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8003,
+    "reworded": 3,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5714,

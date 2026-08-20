@@ -39,31 +39,42 @@
         "op": "only_a",
         "a": "Vnd die da sagen/dz\nApocalipsis/nit sye Johannis des Euangeliste/ die sage\nouch/dz die Epistel zů den Hebreeren/nit Pauli sye/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8193,
+        "semantic_match": "Ich für\nmyn Person / erkenn nitt anders dann das sy\nPauli sye / vnnd das vonn etlicher Hebraismen\n\n## Marginalien\nfo\nich\nons\nts.",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vß\nwelcher Epistel/ vnser gegen parthy nach jre verstand/ alle grůnd hatt wider die Meß/ das sy nit ein opffer sye.",
         "b": "Schlußred. CCXXX\ngegen parthy nach jrē verstand/ alle gründ hatt\nwider die Mäß/das sy nit ein opffer sye. Zwingly.",
-        "similarity": 0.7805
+        "similarity": 0.7805,
+        "semantic": 0.7521,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Meyster Vlrich Zwingli\nW Jr bruchen gern/dz die Christenlich kilch brucht\naber yedes in synem wård. Es sind bůcher im Al\nten Testament/welich die kinder Jßraels/in der\nsum̄ vnd zal der heyligen gschrifft/",
         "b": "Wir bruchen gern / das die Christenlich kilch\nbrucht/aber jedes in synem wärd. Es sind büch\ner im Alten Testament /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.6189,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "nie haben angenom=\nmen/ ützit zůbewåren/ wie vor durch Ecolampadi=\num geredt ist. Also sind ouch in dem Nüwe Testament.",
         "b": "welich die kinder Isra=\nels/in der sum̄ vnd zal der heyligen gschrifft/nie\nhaben angenommen / ützit zů bewären/wie vor\ndurch Ecolampadium geredt ist.",
-        "similarity": 0.3556
+        "similarity": 0.3556,
+        "semantic": 0.5061,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Die bewårnus der kilche/ist nit das bewåren der zůsa=\nmen kom̄enden Bischoffen/ sonder das bewåren aller\nrecht glöubigen.",
         "b": "Also sind ouch\nin dem nüwen Testament . Die bewärnus der\nkilchen/ist nit das bewären der zůsamen kom =\nmenden Bischoffen /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.5693,
+        "reading": "check"
       },
       {
         "op": "only_b",
@@ -75,25 +86,33 @@
         "op": "match",
         "a": "Die bůcher/dero kundtschafft wir nitt\nnemmen/in bewårnus der schwåren håndlen des glou=\nbens/verwerffen wir nitt/glich wie ouch die wyber/in der\nkilchen nitt verworffen werden.",
         "b": "verwerffen wir nit/glich wie\nouch die wyber / in der kilchen nitt verworffen\nwerden . So man aber ernstlich sachen bezügen\nsoll/nimpt man jr kundtschafft nitt an.",
-        "similarity": 0.4643
+        "similarity": 0.4643,
+        "semantic": 0.6057,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "So man aber ernstlich\nsachen bezügen soll/ nimpt man jr kundtschafft nitt an. So nun dise Disputation/ ein so groß ansehen hatt/ha=\nben wir nach dem bruch aller gelerten/vnd Gottsförch=\ntigen/allein lassen die kundtschafft gelten/die nyemand\nverwerffen mag.",
         "b": "So nun\ndise Disputation/ ein so groß ansehen hatt/ha=\nben wir nach dem bruch aller geleerten / vnnd\nGottsförchtigen / allein lassen die kundtschafft\ngelten/die nyemand verwerffen mag .",
-        "similarity": 0.7143
+        "similarity": 0.7143,
+        "semantic": 0.844,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Nit das in den geschrifften/dere sy sich\nklagen/ützit sye/das der Predicanten schlußred möchte\nschwåcheren/sonders das man gewüsse ordnung hielte/",
         "b": "Nitt das\nin den geschrifften/deren sy sich klagen/ützit sye\ndas der Predicanten schlußred möchte schwä=\nchen/ sonders das man gewüsse ordnung hielte/",
-        "similarity": 0.8511
+        "similarity": 0.8511,
+        "semantic": 0.9044,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "wie vorgeſagt. Der Epistel zů den Hebreern halb/sa=\ngen wir/das wir hie eynem yeden sin vrteyllassen/wer\nsy geschriben hab. Jch für min Person/erken nit anders",
         "b": "wie vorgesagt . Der Epistel zů den Hebreeren\nhalb / sagen wir / das wir hie eynem yeden sin\nvrtheyl lassen / wer sy geschriben hab .",
-        "similarity": 0.7059
+        "similarity": 0.7059,
+        "semantic": 0.8479,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -107,7 +126,11 @@
         "b": "vö. biff\nge=\nals\nus\nge=\num̄\ners\nns\nan\nll. ich\nes\nnd\nf=\nen\nen\ns",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7186,
+    "reworded": 2,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.668,

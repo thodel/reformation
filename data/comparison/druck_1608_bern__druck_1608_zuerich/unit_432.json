@@ -33,49 +33,65 @@
         "op": "match",
         "a": "Schlußred. 407\nText: ſündren mir von dem vordrigen Dienſt/ Barnabam\nvnnd Saulum / damit wil ichs befolchen haben der Ge-\nſchrifft.",
         "b": "Schlußred. 407\n\nText: sůndren mir von dem vordrigen Dienst/ Barnabam\nvnnd Saulum / damit wil ichs befolchen haben der Ge=\nschrifft.",
-        "similarity": 1.0
+        "similarity": 1.0,
+        "semantic": 0.9663,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Butꝛer. Paulus vnd Barnabas / ſind zů dem predig ampt\ngeſündret worden. Darzů hat vaſt wol gedienet/ daß man gebått zů Gott dem Herren gethan hab.",
         "b": "Butzer. PAulus vnd Barnabas / sind zů dem predig ampt\ngesůndret worden. Darzů hat vast wol gedienet/ daß man gebått zů Gott dem Herren gethan hab.",
-        "similarity": 0.96
+        "similarity": 0.96,
+        "semantic": 0.8916,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Gilg Murer. Vß aber wyter moͤge bybracht werden/das taͤglich\nOpffer der Mäß: Nim ich fuͤr mich /",
         "b": "Gilg Murer. DAß aber wyter mỏge bybracht werden/ das tåglich\nOpffer der Mäß: Nim ich fůr mich / Malachi=\nam den Propheten am ersten Capitel/",
-        "similarity": 0.5909
+        "similarity": 0.5909,
+        "semantic": 0.9061,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Malachi-\nam den Propheten am erſten Capitel/ſo er ſpricht: Mir iſt der Will nit in uͤch/ſpricht der Herr der haͤren/",
         "b": "so er spricht: Mir ist der Will nit in ůch/ spricht der Herr der håren/ Opffer oder Gaben wil ich nit nemmen von ůweren Hen=\nden /",
-        "similarity": 0.52
+        "similarity": 0.52,
+        "semantic": 0.7651,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Opffer oder Gaben wil ich nit nemmen von uͤweren Hen-\nden /dann von Vffgang der Sonnen biß zů Nidergang/",
         "b": "dann von Vffgang der Sonnen biß zů Nidergang/ ist groß myn Namen in den Völckern/ vnd in aller Statt\nwirt geopffert mynem Nammen/",
-        "similarity": 0.3721
+        "similarity": 0.3721,
+        "semantic": 0.6907,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "iſt groß myn Namen in den Voͤlckern/ vnd in aller Statt\nwirt geopffert mynem Nammen/ein reines Opffer/wann\nwarumb myn Nammen iſt groß in den Voͤlckeren.",
         "b": "ein reines Opffer/ wann\nwarumb myn Nammen ist groß in den Völckeren. Hie\nmag nůt anders / nach der vßlegung der Göttlichen Lee=\nrer /",
-        "similarity": 0.4231
+        "similarity": 0.4231,
+        "semantic": 0.6524,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Hie\nmag nuͤt anders / nach der vßlegung der Goͤttlichen Lee-\nrer / verſtanden werden / dann das rein Opffer / der zart\nFronlichnam vnſers Herren Jeſu Chriſti /",
         "b": "verstanden werden / dann das rein Opffer / der zart\nFronlichnam vnsers Herren Jesu Christi / in dem Ampt\nder Heiligen Mäß. Butzer.",
-        "similarity": 0.5652
+        "similarity": 0.5652,
+        "semantic": 0.7777,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "in dem Ampt\nder Heiligen Mäß. Butꝛer. Dvrch haͤlle Schrifft / vnſer Widerpart / vnuͤber-\nwindtlich iſt bewaͤrt/das die Mäß kein Opffer ſyn",
         "b": "DVrch hålle Schrifft / vnser Widerpart / vnůber=\nwindtlich ist bewårt/ das die Mäß kein Opffer syn\n\n## Marginalien\nAmpt der\nes Suns/",
-        "similarity": 0.4889
+        "similarity": 0.4889,
+        "semantic": 0.878,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -89,7 +105,11 @@
         "b": "die\nder Geins=\nschuldighy\n\nbått gesu\nsten soll mi\naber hie in\nder",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.816,
+    "reworded": 3,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.7718,

@@ -39,13 +39,17 @@
         "op": "match",
         "a": "Die ſicht\nman frommen chriſten/ wie vil das vſſer wort vermag/ da das ynner nit iſt. Das demnach iſt anzeige/",
         "b": "306              Die vierdt\nvſſer wort vermag/da das jnner nit iſt. Das demnach iſt\nanzeigt/wie Gott zů Abraham geredt hab:",
-        "similarity": 0.5366
+        "similarity": 0.5366,
+        "semantic": 0.6989,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "wie Gott\nzů Abraham geredt hab: Ich bin din Gott. Da habend\ndie wort Abrahamen zůbracht Gott mit allen ſinen gů\ntern/",
         "b": "Jch bin dyn\nGott: Da habend die wort Abrahamen zůbracht Gott\nmit allen ſynen gůtern/ſagend wir das das ein geſůch iſt.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.9288,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -57,13 +61,17 @@
         "op": "match",
         "a": "das iſt ſiner gnaden gůte vnnd erwegnus\ngeweſen/ ee vnd er kein vſſer wort ye mit jm redte: dann\nes iſt vß gnad vnd nit verdienſt.",
         "b": "Das ſich Gott Abrahamen früntlich vnd zů einem Vat=\nter ergeben/vnnd gemacht hat/das iſt ſiner gnaden gůte\nvnd erwegnuß geweſen/ee vnd er kein vſſer wort je mit im\nredte:",
-        "similarity": 0.5172
+        "similarity": 0.5172,
+        "semantic": 0.7328,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Daruff ein groſſer teyl\nder Epiſtel zun Romeren geſchribenn iſt. Das ſy aber\nanzeygt das ſich Gott alſo ynlåſſe/ oder zů herberg kom\nme mit allen ſinen gůteren ( wenn man jm gloubt) So\nerlernen wir aber/",
         "b": "dann es iſt vß gnad vnd nit verdienſt. Daruff ein\ngroſſer theil der Epiſtel zun Römeren geſchriben iſt. Das\nſy aber anzeigt das ſich Gott alſo ynlaſſe/oder zů Herberg\nkomme mit allen ſinen gůteren(wenn man im gloubt)So\nerlernen wir aber/das Gott by dem Glouben wohnt/vnd\nzů herbrig iſt.",
-        "similarity": 0.6966
+        "similarity": 0.6966,
+        "semantic": 0.9075,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -75,19 +83,25 @@
         "op": "match",
         "a": "nůgit bringt/ dan̄ wie vor gſeit/ vñ ſitmal vnſer wider=\npart ſich jres verſtands vnd erklårung vff die acta ver=\nSůch hieucz låßt/",
         "b": "Johannis am 14. Capit. vnd das das vſſer\nWort nützit bringt/dann wie vor gſeit/vnd ſitmal vnſer\nWiderpart ſich jres verſtands vnd erklärung vff die Acta\nverlaßt/wellen wir vns ouch vff die Acta in vnſer erklärung\ngründen laſſen.",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.5007,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "wellen wir vns ouch vff die acta in vnſer erklårūg\nam 107. 108. 109 grůnden laſſen. blatt. **Pfarrer von ſant Gallen.**\n\nVff die antwurt Meiſter Vlrichs alle wort/",
         "b": "Pfarrer von Sant Gallen. VFf die antwurt Meiſter Vlrichs Alle Wort/ꝛc. wie\nſy von vns geredt/verlaſſen wir vns vff die Acta:",
-        "similarity": 0.4314
+        "similarity": 0.4314,
+        "semantic": 0.8428,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "etc\nwie ſy von vnns geredt/ verlaſſen wir vns vff\ndie acta: Vff den ſpruch in den geſchichten der\nZwolffbottē am xix cap.",
         "b": "Vff den Spruch in den Geſchichten der Zwölffbot=\nten am 19. Capit. wie der ſelbig iſt yngefürt/nit not wider\nzeäffern.",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.4898,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -99,7 +113,9 @@
         "op": "match",
         "a": "das bezůgēd die wort: Ich erken Jeſum/ vnd Paulum\nweyß ich / Jr aber / wer ſind jr: Daruß der miſgloub\njrer / den hózenden vnnd låſenden gnůgſam verſtendig. Dann",
         "b": "Jſt aber gewüß vß dem anhang der Worten/das\ndieſelbigen nit vß glouben gehandlet haben/das bezügend\ndie Wort: Jch erkenn Jeſum/vnd Paulum weiß ich/Jr\naber/wer ſind jr?",
-        "similarity": 0.4138
+        "similarity": 0.4138,
+        "semantic": 0.7445,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -107,7 +123,11 @@
         "b": "Daruß der Mißgloub jrer/den Hö=\nrenden\n\n## Marginalien\nHieuor\n281. amblat. Sůch\nhieuor\nam 233. 234. 235\n236. 237. vnd 238\nblat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7307,
+    "reworded": 2,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.7084,

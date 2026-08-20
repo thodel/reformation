@@ -33,25 +33,33 @@
         "op": "match",
         "a": "Seite [72]\nLXXII\n\nDie ander Schlußred / vnd der selben\ngründ/hat Meyſter Frantz Kolb/predicant\nzů Bernn eroffnet. Die kilch Chriſti /",
         "b": "IS6\tDie ander\nDie ander Schlußred/ vnnd derſelben gründ/ hat Meiſter Frantz\nKolb/ Predicant zü Bern eröffnet. Die Kilch Chriſti machet nit Geſatz vnnd\nBott/",
-        "similarity": 0.5652
+        "similarity": 0.5652,
+        "semantic": 0.7497,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "machet nitt geſatz\nvnd bot/ane gottes wort/deßhalb all men\nſchen ſatzungen / ſo man nempt der kilchē\nbott/vnß nit witer bindend/dan̄ ſy in göt\ntlichē wort gegründt vnd botten ſind.",
         "b": "ane Gottes Wort/ deßhalb all Men-\nſchen ſatzungen / ſo man nempt der Kilchen\nBott/vns nit wyter bindend/ dañ ſy in Gött-\nlichem Wort gegründt vnd botten ſind.",
-        "similarity": 0.7541
+        "similarity": 0.7541,
+        "semantic": 0.753,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Meyſter Frantz Kolb. Gnad vnd frid von got\ndem vatter/vnd vnſerm her=\nren Jeſu Chriſto/Amen. Vß=\nerwelten Gottes fründ/nach\ndem min brüder Berchtold/",
         "b": "Meiſter Frantz Kolb. GNad vnd frid von Gott dem Vat-\nter/vnd vnſerm Herrn Jeſu Chriſto/Amen. Vßertwelten Gottes Fründ /",
-        "similarity": 0.6087
+        "similarity": 0.6087,
+        "semantic": 0.9182,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "in der erſten vnſer ſchlußred/ gnůgſamklich erlütret hatt/ was da ſye die Chriſtenlich\nmeind/dero das eynig houpt\nſye Chriſtus Jeſus/nach lut\ndes andern Artickels vnſers vralten Criſtenlichen glou\nbens/der alſo lutet.",
         "b": "nach dem min\nBrůder Berchtold/in der erſtẽ vnſer ſchluß-\nreden / gnůgſamklich erlütret hat / was da\nſye die Chriſtenlich gemeind/dero das einig Houpt ſye Chri-\nſtus Jeſus /",
-        "similarity": 0.4839
+        "similarity": 0.4839,
+        "semantic": 0.7587,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,7 +71,9 @@
         "op": "match",
         "a": "Jch gloub in Jeſum ſinen eingebornē\nſun/vnſern herrn/merckē Menceſchlich/vnſern herrn/vns\nſer houpt/vnſern heyland/vnſern låbendig macher/vn",
         "b": "vnſern Herrn/merckt mengk-\nlich/vnſern Herrn / vnſer Houpt / vnſern Heiland / vnſern\nLåbendigmacher/vnſern Enthalter/vnſern einigẽ Biſchoff\nvnd Leermeiſter/den vnd keinen andern/",
-        "similarity": 0.3043
+        "similarity": 0.3043,
+        "semantic": 0.6998,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -71,7 +81,11 @@
         "b": "wåder in Himmel\nnoch vff ertrich bekennen wir/in diſem bliben wir/keins an-\nderen",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7759,
+    "reworded": 2,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6284,

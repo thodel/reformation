@@ -57,13 +57,17 @@
         "op": "match",
         "a": "Seite CXVI\n**Schlußred.**\n\nDie sprüch so da etwas dũckler sind/ mögen baß erken\nnen. So wil ich nun hören von mine brüder/",
         "b": "So wer\nden wir vß den klaren ſprüchenn/ die ſprüch ſo\nda etwas dünckler ſind/mögenn bas erkennen. So wil ich nun hören von minem brůd/",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7171,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vff welche\nworten/ er also vast hafften wöll/ vñ im darnach wyter\nantwurten. **Pfarrer von sant Gallen.**\n\nVff antwurt mins herrn Doctors über die wort\nWarthei vñ Pauli /",
         "b": "vff wel\nchen worten er alſo vaſt hafftē welle/vñ jm dar-\nnach wyter antwurten. Pfarrer von Sant Gallen. Vff antwurt mins herrn Doctors über die\nwort Matthei vñ Pauli/begårt er ſölichs im vj.",
-        "similarity": 0.7302
+        "similarity": 0.7302,
+        "semantic": 0.8784,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -75,31 +79,43 @@
         "op": "match",
         "a": "Das aber\nmin herr Doctor keyn ander geschrifft über die wort des\nNachtmals fürbringt/ die selbige zů verdũcke/ freüwt\nmich nit wenig.",
         "b": "ca.anzeygt/ recht verſtandē werden: des geiſts\nvnd gemůts bin ich ouch/wie vor angezeygt iſt. Das aber min herr Doctor kein ander gſchrifft\nüber die wort des Nachtmals fürbringt/die ſel-\nbigen zů verduncken/",
-        "similarity": 0.4912
+        "similarity": 0.4912,
+        "semantic": 0.7276,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dz er sich in laßt zů derklārüg des worts\nSacramentum/ ist mengklichem der geschrifft geübt offenbar/ das wir kein bott /",
         "b": "fröuwt mich nitt wenig. Das er ſich ynlaßt zů der erklärung des worts\nSacramentum/iſt mengklichem der ſchrifft geübt\noffenbar/das wir kein Bott/",
-        "similarity": 0.6818
+        "similarity": 0.6818,
+        "semantic": 0.8879,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das des herren wort des Nachtmals\nfür ein Sacrament (wie sy es halten) benamsen söllen/ söllichs ist vnns ouch fry zů namsen /",
         "b": "das des herrē wort\ndes Nachtmals/für ein Sacrament (wie ſy es\nhalten)",
-        "similarity": 0.6857
+        "similarity": 0.6857,
+        "semantic": 0.9345,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "als ein Testament\nChristi/ des herrn Abendmal/ vñ der glichen. Vff die in=\nfürung vom touff / hatt der selbig/ lut vñ verheissung\ngottes/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7247,
+        "semantic_match": "ꝛc. Wo man nũ\nacht wirt nem̃en/die art der Sacrament/ſo wirt\nes ſich nit ſchlieſſenn/ hie vſſz denen fürgenom-\nnen worten/das man müß vßlegẽ/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "sin vßtrucklich insazüg. Herwiderum dz nacht\nmal des herrn/ mitt hållen/ starcken/ vßgetruckten wor\nten/ wie wol ich mich vmb das wort Sacrament nit in=\nlassen wird:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8498,
+        "semantic_match": "ꝛc. Wo man nũ\nacht wirt nem̃en/die art der Sacrament/ſo wirt\nes ſich nit ſchlieſſenn/ hie vſſz denen fürgenom-\nnen worten/das man müß vßlegẽ/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -111,15 +127,25 @@
         "op": "only_a",
         "a": "min herr Doctor vilfaltigklich baß weyßt\nden vnderscheyd der Sacramenten im nüwen vñ alten\nTestament: welches im alten Testamēt/ figuren vñ be=\ndeütnus/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6121,
+        "semantic_match": "Das brot iſt\nwåſenlich der lyb Chriſti. Vnd ſo wir die ande-\nren Euangeliſten/als Lucam vnd Paulum/he-\nben gegen dem Mattheo vnd Marco.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "yetz aber im nüwen so vil Moyses vñ Chri=\nstus/ sich vnderscheyde/ geacht werden solle. Vff den un=\ntrag der alten Sacramentē söllen nit geschlossen werde",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6884,
+        "semantic_match": "ꝛc. Wo man nũ\nacht wirt nem̃en/die art der Sacrament/ſo wirt\nes ſich nit ſchlieſſenn/ hie vſſz denen fürgenom-\nnen worten/das man müß vßlegẽ/",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7801,
+    "reworded": 5,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3725,

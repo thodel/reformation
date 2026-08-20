@@ -63,25 +63,34 @@
         "op": "match",
         "a": "Seite LXXX\n**Schlußred.**\n\nzůcht/vß dero flůßt/nemen wir ouch an:was nit/das laſ\nſend wir faren. **Bůchſtab.**\n\nJEwyl ich angezeigt hab/das man ſchuldig iſt/",
         "b": "nemmen wir ouch an : was nit / das lassend wir faren. Bůchstab. Diewyl ich angezeigt hab / das man schuldig ist / die\nsatzungen der Apostlen zů halten /",
-        "similarity": 0.6154
+        "similarity": 0.6154,
+        "semantic": 0.3944,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "die ſatzungen der Apoſtlen zů halten/vnnd mit\nnit gſchrifft bracht wirt/was die ſelben ſatzun=\ngen ſyen/vnd aber ſömlich puncten durch mich\nanzogen/vß den ſatzungenn der Apoſtlen kommen ſin/",
         "b": "vnnd mir nit Ge-\nschrifft bracht wirt / was die selben satzungen syen / vnd aber sömlich puncten durch mich anzogen / vß den sa-\ntzungen der Apostlen kommen sin /",
-        "similarity": 0.7119
+        "similarity": 0.7119,
+        "semantic": 0.9309,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vor zwölffhundert jaren vnnd mer/beſchriben/zůg ich\nmich vff den hochgelertẽ Ecolampadiũ/der ſölichs für\nander vß wyßt/by Ignatio/einem junger Johanis des\nEuangeliſten/by Origene vnd andren/erfunden werdẽ.",
         "b": "vor zwölffhundert jaren\nvnd mer / beschriben / züg ich mich vff den hochgelerten Eco-\nlampadium / der söllichs für ander vß wyßt /",
-        "similarity": 0.5769
+        "similarity": 0.5769,
+        "semantic": 0.6001,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Beuilch hiemit min ynzug dem vnpartyeſchen läſer. **Martinus butzer**\n\nOB jr ſchrifft oder nit ſchrifft/wider vns habend/re=\nferier ich vns zun Actis.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6654,
+        "semantic_match": "Die viertzig tägig Fasten : ouch die Gebätt für die\nTodten / vnd derglychen. Butzer. Vnsere hälle Gschrifft / wider alles yngezogens / ist zun\nColossens.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -93,13 +102,19 @@
         "op": "only_a",
         "a": "lxxxv viij. Ich wird loſen was der Herr in mir wirdt re=\nden/in welichen worten der Prophet anzeygt/ ein vffſehen zehaben/vff den geyſt Gottes.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6674,
+        "semantic_match": "Schlußred. 173\n\nhalten / vnnd söllich satzungen mit vßgetruckten worten / in\nBiblischer Schrifft nit angezeigt / vnd aber die / so in der zyt\nder Apostlen geläbt hand /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Wie dan ge\nſter nach der lenge daruon geredt iſt wordẽ/welcher geiſt\ngottes by dem geſpons vnd gemahel Jeſu Chriſti iſt/vñ\nvff",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6456,
+        "semantic_match": "Y\tiij\n\n## Marginalien\nBů hat\nhiemit\nsölichen\ntext ver-\nläsen.",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -113,7 +128,11 @@
         "b": "Y\tiij\n\n## Marginalien\nBů hat\nhiemit\nsölichen\ntext ver-\nläsen.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6506,
+    "reworded": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3759,

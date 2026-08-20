@@ -57,13 +57,17 @@
         "op": "match",
         "a": "Seite [Diiij]\n\n**Die vierde**\n\nde/das ist/Gott allein durch die gnad in jm̄ habed/ist al\nso endtlich vnser verstand/doch vorzbehalten allweg/wo\nwir nit recht gloubend/oder hieltend Christenlicher Be-\nricht:",
         "b": "möchte er Theophorus genant\nwerden/ das ist/ Gott allein durch die gnad in jm habend/ ist allso endtlich vnser verstand/",
-        "similarity": 0.4815
+        "similarity": 0.4815,
+        "semantic": 0.6982,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "daruß nun Christum lyblich im brot der dancksag\ngung genossen werden/wider den anderen artickel ze sin/ nit verstanden werden sol.",
         "b": "doch vorbehalten allweg/ wo wir nit recht gloubtend/ oder hieltend/ Christenlicher\nbericht: daruß nun Christum lyblich im Brot der danck-\nsagung genossen werden/",
-        "similarity": 0.4091
+        "similarity": 0.4091,
+        "semantic": 0.8277,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,45 +79,67 @@
         "op": "match",
         "a": "**Butzer.**\n\n[V]f das erst sagen wir: Vnser herr ist ja wunder=\nbarlich/vnnd übernatürlich gebozen: aber doch\nein warer mensch/der einen menschlichen lyb ge\nhept hat/vnd noch:",
         "b": "vnd übernatürlich geboren: aber doch ein warer\nMensch/ der einen Menschlichen Lyb gehebt hat/ vnd noch: der nach art Menschlicher natur/",
-        "similarity": 0.5098
+        "similarity": 0.5098,
+        "semantic": 0.7711,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "der nach art menschlicher natur/nun\nan einem ort zemal sin mag/damit brechen wir der All=\nmechtigkeit Gottes nüt ab.",
         "b": "nun an einem\nort zemal syn mag/ damit brechen wir der Allmechtigkeit\nGottes nüt ab. Gott mag alle ding/ handlet aber nach dem\ners durch syn eigen wort anzeigt.",
-        "similarity": 0.52
+        "similarity": 0.52,
+        "semantic": 0.852,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Gott mag alle ding/hand=\nlet aber nach dem ers durch sin eygen wort anzeygt. Dar\numb so er sagt/das vnser herr ein warer mensch sye/so be\nwyst er sinen gwalt an jm̄/das er ein sölicher blybe.",
         "b": "Darumb so er sagt/ das\nvnser Herr ein warer Mensch sye/ so bewyst er synen gewalt\nan im",
-        "similarity": 0.4828
+        "similarity": 0.4828,
+        "semantic": 0.7682,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Des\nanderen artickels halb/sind wir so vil eins/das wir mit\njnen bekennen/das Christus der menscheyt nach/zü der\ngerechten des vatters/erhöchet ist.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7927,
+        "semantic_match": "welche Herrligkeit Gottes\nerfüllet Himmel vnd Erden/ so ist die gerechte Gottes kein\nsonders ort. Vß disem allem/ wo der Lyb Christi also an einẽ\nsonderen ort syn můste/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Das sy aber wyter\nynfürend/die gerechte Gottes sye allenthalbe/Darumb\nmöge die menscheyt Christi ouch allenthalbe/oder glych\nan vil ortē zümal sin.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7187,
+        "semantic_match": "welche Herrligkeit Gottes\nerfüllet Himmel vnd Erden/ so ist die gerechte Gottes kein\nsonders ort. Vß disem allem/ wo der Lyb Christi also an einẽ\nsonderen ort syn můste/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Darzü sagen wir/das sölichs gar\nnüt volget: vnser herr Jesus der menscheyt nach/ist er=\nhöcht zür gerechten gottes/dz ist/jm̄ ist der gröst gwalt\ngeben/vnnd ist erhöchet über alle creaturen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8683,
+        "semantic_match": "welche Herrligkeit Gottes\nerfüllet Himmel vnd Erden/ so ist die gerechte Gottes kein\nsonders ort. Vß disem allem/ wo der Lyb Christi also an einẽ\nsonderen ort syn můste/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Das aber\nalles/wie er selbs bekennet/der menscheyt nach/dz er nit\ndestweniger ein warer mensch beliben ist. Darum/wie=\nwol die herligkeit vnd der gewalt Gottes/allenthalben\nist/so müß doch darumb der mensch Christus/nitt ouch\nallenthalben sin/dan die menscheyt nit zur gottheit wor\nden",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8457,
+        "semantic_match": "welche Herrligkeit Gottes\nerfüllet Himmel vnd Erden/ so ist die gerechte Gottes kein\nsonders ort. Vß disem allem/ wo der Lyb Christi also an einẽ\nsonderen ort syn můste/",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7936,
+    "reworded": 7,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3992,

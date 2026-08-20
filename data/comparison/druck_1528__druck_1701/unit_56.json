@@ -33,7 +33,9 @@
         "op": "match",
         "a": "Seite [X]\n**Die erſt**\n\ndurch ſyn nachgelaßnen gewalt/ſo hand ſy ouch zuͦ bindẽ\nvnd entbinden gehan/nach ſozim ſins goͤttlichẽ wozts.",
         "b": "Die Erſte Schlußred. 43\n\nnachgelaßnen Gewalt / ſo hand ſy auch zů binden und\nentbinden ghan / nach Form ſynes Goͤttlichen Worts.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7024,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -51,19 +53,26 @@
         "op": "match",
         "a": "**Berchtoldus.**\n\nIn kurtze antwurt. Die allmechtigkeyt gottes\nBekennen wir mit dem Pfarrer/vnd den ſpruch\nſo er ynfürt/das Gott gnad vnnd glori geb/iſt\nfür vns/dann das iſt ſin gnad/das er vns verzycht die\nſünd vñ vns ſoͤlliche ſin gnad verkündet/durch ſine A-\npoſtel die dann ſins worts diner ſind/als hüt vß Paulo\ngehoͤrt iſt in der erſten Epiſtel Pauli zun Corinthern.iij.",
         "b": "die dann\nſynes Worts Diener ſind / als huͤt vß Paulo gehoͤrt iſt / in\nder erſten Epiſtel Pauli zun Corinthern am 3.",
-        "similarity": 0.3656
+        "similarity": 0.3656,
+        "semantic": 0.6267,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Cap. Wer iſt Paulus/wer iſt Apollo/dann allein diener\ndes dem jr gloubt hand/der da pflantzet/der da begüßt\niſt nüt/Gott aber gibt das vffwachſſen/dan ob ſchon der\nprieſter ſpricht/ich abſoluier oder entbind dich von dinen\nſünden/wirt mir nit gnüg beſchechen/ich ſig dann in mi-\nnem hertzen durch den gloubenn verſicheret.",
         "b": "Cap. Wer\niſt Paulus / wer iſt Apollo / dañ allein Diener deß / dem ihr\nglaubt hand / der da pflantzet / der da beguͤßt iſt nuͤt /",
-        "similarity": 0.4096
+        "similarity": 0.4096,
+        "semantic": 0.8287,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Gott iſt der\nder vffthüt/vñ niemäd wirt beſchlieſſen. Er beſchlüßt\nvnnd niemand thüt vff. Eſaie xxij. Capitel. Dar=\nrumb iſt der gewalt eygentlich die ſünd zeuergebẽ/allein\nGottes.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7664,
+        "semantic_match": "daß Gott Gnad und Glori geb / iſt fuͤr uns / dann\ndas iſt ſyn Gnad verkuͤndet durch ſyne Apoſtel /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -93,13 +102,17 @@
         "op": "match",
         "a": "Aber verkünden die vergebung der ſünd den\nglöubigẽ. Verkündẽ die vorbehaltung der ſünd/den vn\nglöubigen/iſt das ampt der dienſtbarkeyt/vnd beuelch\nder Apoſtlen/vnd verkündung des worts.",
         "b": "iſt das Ampt der Dienſtbarkeit / und Beſelch der\nApoſtlen / und Verkuͤndung deß Worts. Pfarzer. ALes myn Hertz Berchtold in dem Gewalt /",
-        "similarity": 0.3529
+        "similarity": 0.3529,
+        "semantic": 0.7603,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "**Pfarrer.**\n\nAls myn herr Berchtold in dem gewalt den ich\nzertheilt han. Zum erſten/mir züuellt gott geb\nallein eer vnd glozi. Hab aber den Apoſtlen be=\nuolchen/",
         "b": "den ich\nzertheilt han / zum erſten mir zufallt / Gott geb allein\nehr und glori : hab aber den Apoſtlen befohlen das ampt\nſynes goͤttl.",
-        "similarity": 0.5769
+        "similarity": 0.5769,
+        "semantic": 0.8353,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -107,7 +120,11 @@
         "b": "worts / und das abſolvieren vonden ſuͤnden / allein ſy den Glaͤubigen verkuͤnden ablaſſung der ſuͤnd. F\tNun",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7533,
+    "reworded": 4,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5505,

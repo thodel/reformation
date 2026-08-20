@@ -39,13 +39,19 @@
         "op": "only_a",
         "a": "Nun hat nye iemant gehoͤrt/das weder die A=\npostel/noch vnser heyligoster vatter der Bapstall/Prie\nster nie kein empfelch gehapt zuͤ absoluieren/ein/der da\nnit den glouben hab/sonders jm empfolhen/zuͤ binden\nin dem gewallt Gottes/vnd zuͤ entbinden die/die sich ge\nschickt hand in glouben/vnd hoffnung/vnd truͤw/dem\ngoͤttlichen wort Christi/das da empfolhen hat/zebindē\nvnd entbinden/wie vor dauon geredt ist.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8132,
+        "semantic_match": "in\nuͤwer Verſamlung mit minem Geiſt / vnd in der krafft vn-\nſers Herren Jeſu Chriſti / jn zeuͤbergeben dem Tuͤffel /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "<br>\n&nbsp;&nbsp;&nbsp;&nbsp;Aber zuͤ einer besser bestaͤtung des gewalts/zuͤge ich\ndas durch den heyligen Paulum.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.784,
+        "semantic_match": "Nun ſo Paulus / als das Vßerwelt Vaß Chriſti / hat\nhie in diſer zyt den gewalt brucht / vnnd gehan / vnnd iſt nit\non /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,7 +63,9 @@
         "op": "match",
         "a": "j. Timoth. j. cap. da er\ngeredt hat von denen die schiffbruͤchig sind gsin am glou\nben/vß welchen ist gsin Himeneus vnd Alexander/wel\nche ich hab geben dem tuͤffel/vff das/das sy lernen/gott\nnit lesteren.",
         "b": "vß\nſwelchen iſt gſin Himeneus vnnd Alexander / ſwelche ich\nhab geben dem Tuͤffel / vff das / daß ſy lernen / Gott nit leſte-\nren.",
-        "similarity": 0.5312
+        "similarity": 0.5312,
+        "semantic": 0.7613,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,25 +77,33 @@
         "op": "match",
         "a": "Nun so Paulus/als dz vßerwelt vaß Chri\nsti/hat hie inn diser zyt den gewallt brucht/vnd gehan/ vnd ist nit on/das der ewig Gott/Christus Jesus/vns\nklarlichen eroffnet hab/den gewallt/so er dem Paulo gen\nhatt/der text ist klar/die wort haͤll vnd luter.",
         "b": "daß der ewig Gott / Chriſtus Jeſus / vns klarlich eroff-\nnet hab / den gewalt / ſo er dem Paulo gen hat / der Text iſt\nklar /",
-        "similarity": 0.4595
+        "similarity": 0.4595,
+        "semantic": 0.7679,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "<br>\n<br>\n<div style=\"text-align: center; font-size: 1.2em; margin-bottom: 1em;\">Berchtoldus.</div>\n\n&nbsp;&nbsp;&nbsp;&nbsp;[D]Er Herr hat beuolchen/sin Goͤttlich wort zuͤ\nverkuͤnden/den Apostlen/als sinen dieneren/",
         "b": "die Wort haͤll vnd luter. Berchtoldus. DEr Herr hat beuolchen / ſin Goͤttlich Wort zuͦ ver-\nkuͤnden / den Apoſtlen /",
-        "similarity": 0.4138
+        "similarity": 0.4138,
+        "semantic": 0.6106,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "waͤr den selben gloubt hat/dem haben sy zuͤge=\nsprochen vergebung der suͤnd/vnnd nit die vergebung\nder suͤnd selbs geben.",
         "b": "als ſinen Dieneren / waͤr den\nſelben gloubt hat / dem haben ſy zuͦgeſprochen Verge-\nbung der Suͤnd / vnnd nit die Vergebung der Suͤnd ſelbs\ngebẽ.",
-        "similarity": 0.7547
+        "similarity": 0.7547,
+        "semantic": 0.6423,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Der spruch vß Thimotheo/zeygt\nan den befelch Christi/einer yeglichen Kilchhoͤry geben/ dz der/so vnordentlich wandlet/in vnuerschampter er=\ngernuß sol verbannet vnnd vßgeschlossenn werdenn. <br>\n<div style=\"text-align: center;\">f</div>",
         "b": "Der Spruch vß Timotheo / zeigt an den beſelch Chri-\nſti / einer jeglichen Kilch hoͤry geben / daß der / ſo vnordenlich\nwandlet /",
-        "similarity": 0.386
+        "similarity": 0.386,
+        "semantic": 0.6723,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -119,7 +135,11 @@
         "b": "zuͦ\nverderbung deß fleiſchs / vff daß der Geiſt ſaͤlig werd / am\nF iij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7217,
+    "reworded": 5,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4087,

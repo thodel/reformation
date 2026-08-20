@@ -57,31 +57,45 @@
         "op": "match",
         "a": "IX\nDicerst\nharin gefurt von dem künig Saul/vi in dem selbigen/ den zeuerstoffen/so seyt er an alle gschrifft/dz Saul dem\nKünig der nam ein houpt/eygentlicher hab zügehost/",
         "b": "Capitel / den ich\nhan haryn gefůhrt von dem Kůnig Saul / und in dem-\nſelbigen / den zeberſtoſſen / ſo ſeit er ohn alle Geſchrifft/",
-        "similarity": 0.4151
+        "similarity": 0.4151,
+        "semantic": 0.8975,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "vnd mög zugeleit werden/wenn Sant Petern/oder ey\nnem/oder allen sinen nach komen. Er zelte allein die vr=\nfach siner osserlichen regierung/vnnd sins gewalts/alls\nweer der waltlich gewalt/der ouch von Gott ist etwas\ngroffers/vnd wirdiger eynes ſollichen namens/wen das\nVicariat/oder Stathalter ampt Chrifti/vermeint da\nmit gnüg sin d3 S.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7204,
+        "semantic_match": "der\nauch von Gott iſt / etwas gróſſers / und wůrdiger eines\nſolchen Namens / als das Vicariat oder Statthalter-\nAmpt Chriſti / vermeynt damit gnůg ſyn /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Peter od sine nach komen nit mögint\nhoüpter genent werde/ so doch eim yegliche Christen wol\nwüssend ist/das das geystlich regieren/in beyden gesatze\ngesetztist/hocher in würdigkeyt vi an gewalt wed das\nweltlich/zücht an déspruch Paulizu Cozinthern/wie er\nsich vn die anden diener erket/d3 on 3 wyffel ein jeglich=\ner recht geschaffner fünig ouch thüt/syend ouch diener\ngottes/gibt ouch zuerston/das niemand gehöry zu der\nKirché den die nüw geborne in Hot/by dené verston ich\ndie so on sünd sind:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6077,
+        "semantic_match": "daß Sant\nPeter oder ſyne Nachkommen nit mógind Håupter ge-\nnennt werden/ ſo doch einem jeglichen Chriſten wol wüſ-\nſend iſt /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "die geystlich vnd wolgeschaffen die sel\nben zelt Marti Butzer für recht Christen/vi sagt daby\ndas die selben die Christenlich Kirch sind/die sünder vs\nbeschlossen/seyt/das den selbigen niemant moge gedult/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7951,
+        "semantic_match": "daß Sant\nPeter oder ſyne Nachkommen nit mógind Håupter ge-\nnennt werden/ ſo doch einem jeglichen Chriſten wol wüſ-\nſend iſt /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "liebe vnd ander thugent(weyßnit wie er die thugent all\nerzelt hatt in der gemeind) geben/d3 geſton ich alles.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6137,
+        "semantic_match": "Darum ſo erforderen\nich Geſchrifft / daß Petrus von ſynem Ampt ein Haupt\nmóg genennt werden. Bychtvatter. HErr Marti Butzer langt mich an zu bewähren /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -93,7 +107,10 @@
         "op": "only_a",
         "a": "Wann\ndas gnügsamlich verantwurt wire/das der spruch nitt\nso vil gewalt gibt/das nit Petro vnnd sinem nachkom-\nmen/gnügsamergewalt zu einem houpt geben/vnd das\nsy mogend",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6477,
+        "semantic_match": "daß das geiſtlich regieren / in beyden Geſatzen\ngeſetzt iſt/ hóher in Wůrdigkeit und Gewalt / weder das\nweltlich/ zúcht an den Spruch Pauli zun Corintheren/",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -131,7 +148,11 @@
         "b": "wie er ſich und die andern Diener erkennt / das ohn zwy-\nfel ein jeglicher rechtgeſchaffener Kůnig auch thut/ſeyend\nauch Diener Gottes: gibt auch zuverſtohn / daß Nie-\nmand",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7137,
+    "reworded": 6,
+    "recovered_by_embedding": 5,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2644,

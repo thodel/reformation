@@ -39,19 +39,25 @@
         "op": "match",
         "a": "**Ecolampadius.**\nS ist kein sophisteri gnauw vnd flißlich vff die\nwort mercken. Es wär aber ein sophistery wo\nman eim andre wort /",
         "b": "Schlußred. 269\nEcolampadius. ES iſt kein Sophiſteri / gnaw vnnd flyßlich vff die\nwort mercken. Es waͤr aber ein Sophiſtery/wo man\n'ein andre wort /",
-        "similarity": 0.6809
+        "similarity": 0.6809,
+        "semantic": 0.8785,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "für andre dar schübt / oder\nouch ein andern verstand vß den gschrifften / vnbewer=\nlich. Wolan die wort von herrn Benedict anzogen (wie\nobgesagt ist) halten nit in jnen /",
         "b": "fuͤr andre darſchuͤbt / oder ouch ein\nandern verſtand vß den Gſchrifften/vnbewerlich. Wolan\ndie wort von Herrn Benedict anzogen (wie obgeſagt iſt)\nhalten nit in jnen/daß wir vnder dem Brot ſoͤllen ein ge=\nmeinſame Chriſti verſton.",
-        "similarity": 0.6765
+        "similarity": 0.6765,
+        "semantic": 0.9081,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das wir vnder dem brot\nsöllen ein gemeynsame Christi verston. Es stat hie das\nwörtly Jst / vñ stat nit vnder dem brot Jst.",
         "b": "Es hat hie das woͤrtly Iſt/ vnd ſtat nit vnder dem Brot Iſt. Es iſt auch einem jeden\nverſtentlich gnuͤgſam /",
-        "similarity": 0.3556
+        "similarity": 0.3556,
+        "semantic": 0.595,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -63,31 +69,42 @@
         "op": "match",
         "a": "beger ich\nkeine wort für die ander / darzů schůbē / oder ein\nandern verstand / on gschrifft fürbringen / dann\nso ich hab die wort des Nachtmals erkläret /",
         "b": "das wir / die Chriſten ſind / vnder\ndem Sacramentlichen Brot nit vergriffen ſind. Pfarzer von Sant Gallen. VF fuͤrtrag Doctors Ecolampadij/beger ich keine\nwort fuͤr die ander /darzuͦ ſchuͤben/oder ein andern\nverſtand/ohn Gſchrifft fuͤrbringen/dann ſo ich hab\ndie wort deß Nachtmals erklaͤret/mit dem Spruch Pau=\nli in der erſten Epiſtel zun Corinthern am 10.",
-        "similarity": 0.4318
+        "similarity": 0.4318,
+        "semantic": 0.6693,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "mit dem spruch pauli in der ersten Epist. zun Chorin. am x. cap. Kan es nit vngschrifftlich sin. Derglichen sy=\nnes sinns bewärung oder vßlegung von jm nochmal nit\nbeschehen.",
         "b": "Capitel. Kan es nit vngſchrifftlich ſin. Derglychen ſines ſinns\nbewaͤrung oder vßlegung von im nochmal nit beſchechen. Dann die wort /",
-        "similarity": 0.4706
+        "similarity": 0.4706,
+        "semantic": 0.6815,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Dan die wort / Das ist min lyb / den lyb Chri=\nsti mit tragen / vnd wellend vns hie mit in keynen wort\nkampff gebē /",
         "b": "Das iſt min Lyb/den Lyb Chriſti mit=\ntragen / vnd wellend vns hie mit in keinen wort kampff ge=\nben/als ettwan von den Schuͤleren vil gezancket iſt:",
-        "similarity": 0.6154
+        "similarity": 0.6154,
+        "semantic": 0.8187,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "als etwan von den schülerern vil gezanck=\net ist: allein das der sinn der worten belib / dann es ye bes\nwärt sölt werdē (Das ist min lyb) so vil sölle gelten /",
         "b": "allein\ndas der ſinn der worten belyb/dann es je bewaͤrt ſoͤlt wer=\nden (Das iſt myn Lyb) ſo vil ſoͤlle gelten/als Das beduͤt\nLl iij\n\n## Marginalien\n[unleserlich]t /",
-        "similarity": 0.4308
+        "similarity": 0.4308,
+        "semantic": 0.8322,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "als\nDas bedüt min lyb / od: Das ist mins lybs zeychen. Vff\ndz die gewüßne / bim wort gottes / wol versichert werde. Hh iij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6438,
+        "semantic_match": "jetz [unleserlich]\n[unleserlich]n in dem\n[unleserlich]huͤt/ſch[unleserlich]\n[unleserlich]aͤndig/v[unleserlich]\n[unleserlich]m/daß[unleserlich]\n[unleserlich]:",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -107,7 +124,11 @@
         "b": "mit dem\n[unleserlich]a iſt/nie ge[unleserlich]\n[unleserlich]die wort ſo\n[unleserlich]on geredt\n[unleserlich]zuͦ ſetzen\n\nEcolam[unleserlich]",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7534,
+    "reworded": 4,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5566,

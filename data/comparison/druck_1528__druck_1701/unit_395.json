@@ -57,13 +57,17 @@
         "op": "match",
         "a": "Seite [X]\nDie fünffte\nweyß ich nit/das dz Brot angebättet ſölle werden/aber\ndas/ſo vnder der geſtalt des Brots iſt/welches dhein ge=\nſchrifft verbüreret /",
         "b": "daß das Brodt angebaͤttet ſoͤlle\nwerden / aber das / ſo under der geſtalt deß Brodts iſt/ welches kein Geſchrifft verbuͤtet.",
-        "similarity": 0.4082
+        "similarity": 0.4082,
+        "semantic": 0.6178,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Vonnieſſung wägt vnder beyden ge=\nſtalten des Sacraments/ſag ich nüt/dann was die ge=\nmein Chriſtlich Kilch annimpt/wil ich ouch halten.",
         "b": "Von Nieſſung wegen\nunder beyden geſtalten deß Sacraments / ſag ich nuͤt/ dann was die gemein Chriſtlich Kilch annimt / das wil\nich auch halten.",
-        "similarity": 0.5532
+        "similarity": 0.5532,
+        "semantic": 0.9203,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -75,39 +79,58 @@
         "op": "match",
         "a": "Berchtoldus.+\nStat geſchriben. Su ſolt Got dinen herrn an=\nbätten/vnnd jm allein dienen: diewyl nun mit\ndheiner geſchrifft wider die vierde ſchlußred by\nbracht iſt/das der lyb vnd das blůt Chriſti wäſenlich in\ndem Brot der danckſagůg ſyen/ſo ſoll es ye nit angebät=\ntet werden:",
         "b": "daß der Lyb und das Bluͤt Chriſti weſentlich in dem\nBrodt der Danckſagung ſeyen / ſo ſoll es je nit ange-\nbaͤttet werden :",
-        "similarity": 0.3611
+        "similarity": 0.3611,
+        "semantic": 0.4732,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "dann man wurde ſunſt nüt anbätten/dann\ndas Sacramentlich Brot/wellen hie mit nit veracht ha=\nben/oder veruneeren die Sacrament/ſonders nach der\nBeuelch Chriſti/ſy halten vnd handlen.",
         "b": "dann man wurde ſonſt nuͤt anbaͤtten/ dann das Sacramentlich Brodt / woͤllen hiemit nit\nverachtet haben oder verunehren die Sacrament /",
-        "similarity": 0.3846
+        "similarity": 0.3846,
+        "semantic": 0.749,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Bůchſtab.+\nJewil ich halt den lyb Chriſti/vnder der geſtalt\ndes Brots/vnd nit im brot/vn̄ den ſelbigen an=\nbätten.",
         "b": "ſon-\nders nach dem Befelch Chriſti ſy halten und handlen. Buͤchſtab. DIewyl ich halt den Lyb Chriſti under der geſtalt\ndeß Brodts / und nit im Brodt / und denſelbigen\nanbaͤt-",
-        "similarity": 0.4231
+        "similarity": 0.4231,
+        "semantic": 0.4682,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "Hab ich wider dz erſt gebot nit gehan=\ndelt/ſonders gethan/das mit darin gebotten wirt. Wy=\nter das die Meß ein grüwel ſye vor gott/darumb das\nſy groß geachtet wirt/geſtan ich nit:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7822,
+        "semantic_match": "Wyter uff myn fuͤrgenommene Meynung / daß es\nein Mißbruch ſeye / das Brodt der Danckſagung an-\nzuͤbaͤtten weiß ich nit /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "dan̄ der geſtalt ouch\ndas Nachtmal Chriſti nach jrem bruch/ouch dz vffopfe=\nren Chriſti am crütz beſchehe/eyn grüwel genent möch\nte werde.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7855,
+        "semantic_match": "Berchtoldus. ES ſtaht geſchriben : Du ſolt Gott dynen Herren\nanbaͤtten / und ihm allein dienen: Diewyl nun mit\nkeiner Geſchrifft wider die vierdte Schlußred bybracht\niſt/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Sie ouch hoch vor dē menſchē geachtet werden\nvndbillich/dz aber dhein grüwel iſt/vn̄ niemer ſin wirt. Berchtoldus\nDarumb das die Meß/für das beſt werck geach=\ntet iſt worden vor den menſchen/vnnd doch mitt\nſo vil",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7262,
+        "semantic_match": "das ſoͤllen wir thuͤn gegen unſerm\nNaͤchſten : In der uͤbrigen Red beſtaͤtiget der Schuͤl-\nmeiſter unſere Schlußred.",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.6903,
+    "reworded": 5,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3205,

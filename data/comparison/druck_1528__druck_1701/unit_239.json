@@ -63,37 +63,49 @@
         "op": "match",
         "a": "Capitel. **Ecolampadius.**\n[J]eber Schůlmeyßter/ By den worten Johannis\nvon dem Brot/ das vnns das låben gibt/ Brin=\ngend jr gantz nůt wider das/",
         "b": "Die Vierdte Schlußred. 233\n==================================\nEcolampadius. LJeber Schůlmeiſter / by den Worten Johannis\nvon dem Brodt / das uns das Leben gibt / bringend\nihr gantz nüt wider das /",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.8429,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "so hůtt so gewalti\ncklich vß den worten Johannis angezeygt ist. Man hat nitt geredt daruon/ wie manigfaltigklich der\nnamen des Brots genommen móg werden/",
         "b": "ſo hütt ſo gewaltigklich uß den\nWorten Johannis angezeigt iſt. Man hat nit geredt\ndarvon / wie manigfaltigklich der Namen deß Brodts\ngenommen mög werden /",
-        "similarity": 0.7755
+        "similarity": 0.7755,
+        "semantic": 0.6643,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "wir möchten\nsich sunst darneben ouch anzeygen von den Broten/ die ma\nnigualtig sind worden/ vonn denen ouch in dem capitel\nstadt geschriben.",
         "b": "wir möchten euch ſonſt darne-\nben auch anzeigen von den Brodten / die manigfaltig\nſind worden / von denen auch in dem Capitel ſtaht ge-\nſchrieben.",
-        "similarity": 0.4681
+        "similarity": 0.4681,
+        "semantic": 0.4235,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "In suma/ der Herr wil allein sich selbs\nvon vns ersůcht werden/ als das låbenhafftig Brot/ das\nvnns krefftigklich spyset/",
         "b": "In Summa / der Herz wil allein ſich ſelbs\nvon uns erſůcht werden / als das lebenhafftig Brot / das\nuns kräfftiglich ſpeiſet /",
-        "similarity": 0.7
+        "similarity": 0.7,
+        "semantic": 0.8649,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "so wir erkennend/ wie er sin lyb\nfůr vns in tod geben hat. Vom Sacramentlichen Brot/ stadt ůch noch zů bewåren mit gótlicher schrifft.",
         "b": "ſo wir erkennend / wie er ſyn Lyb\nfür uns in Tod geben hat. Vom Sacramentlichen\nBrodt ſtaht euch noch zů bewähren mit Göttlicher\nSchrifft.",
-        "similarity": 0.75
+        "similarity": 0.75,
+        "semantic": 0.7282,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Jr wůl\nfend wol/ das wir yegund nit von wegen der Lerer ver=\nsamlet sind. Bůchstab",
         "b": "Jhr wüſſend wol / daß wir jetzund nit von\nwegen der Lehrer verſamlet ſind. Bůchſtab. DIe Wort Johannis am 6. Capitel /",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.7146,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -119,7 +131,11 @@
         "b": "hab ich kein Spruch uß ihnen haryn geführt. Als\naber Herz Butzer in vergangenen Tagen hat haryn ge-\nführt/",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7064,
+    "reworded": 1,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3498,

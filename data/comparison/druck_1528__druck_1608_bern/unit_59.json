@@ -39,7 +39,10 @@
         "op": "only_a",
         "a": "ſonders in dem geyſt/das der zeſtraffen ſye/der alſo läbte\nin der vnluterkeyt als die Heyden/dz er den ſelben ouch\nhab geben dem ſyend/oder tüffel/welcher text/den vor=\ndrigen anzognen text erklärr vnd erlüttert/vnd dem da\nnit widerwertig wirt erfunden/als ich hoff.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6509,
+        "semantic_match": "dann\nes gericht iſt/durch das ewig wort/ aber der mißuerſtand\nder Geſchrifft/derſelb eruorſchet ein goͤttlich vßlegen. Vnd",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -51,31 +54,41 @@
         "op": "match",
         "a": "Berchtoldus. [H]Err Pfarrer/ir ſtond vns zů/doch nit vns/ſon\nder der geſchrifft/welche vns leret/dz Christus\nein beuelch hab geben einer yeglichen Kilchhözy\noder Pfarr/den vnuerschämpten ſünder zebannen.",
         "b": "HErr Pfarrer/ir ſtond vns zuͤ/doch nit vns / ſonder der\nGeſchrifft / welche vns leeret / daß Chriſtus ein be-\nuelch hab geben einer jeglichen Kilch hoͤrn oder Pfarr/",
-        "similarity": 0.6129
+        "similarity": 0.6129,
+        "semantic": 0.8068,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wel\nche vßſchlieſſung mit jr bringt ein crütz vnd bitterkeit/ damit des lybs begird vnd mütwil/getämpt wirt/ vnd\nder ſünder trungen zů erkantnuß ſiner ſünd/",
         "b": "den vnuerſchaͤmpten Suͤnder zebannen. Welche vßſchlies-\nſung mit jr bringt ein Cruͤtz vnnd Bitterkeit / damit deß\nLybs begird vnd muͤtwil getaͤmpt wirt /",
-        "similarity": 0.3774
+        "similarity": 0.3774,
+        "semantic": 0.7392,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vñ ſin geiſt\nſälig werd/darumb hand jr noch nit probiert/dhein ge=\nwalt/den die Kilch hab/nach jrem geuallen zebruchen/",
         "b": "vnd der Suͤnder\ntrungen zuͤ Erkantnuß ſiner Suͤnd / vnnd ſin Geiſt ſaͤlig\nwerd/darumb hand jr noch nit probiert /",
-        "similarity": 0.4091
+        "similarity": 0.4091,
+        "semantic": 0.8953,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ſonders ein beuelch mit den rüdigen ſchäfflin/zehandlen/ vnnd bitt üch vmb geſchrifft/damit jr anzeygend/das\nein ander houpt ſye dan Christus/dz ouch gewallt hab\ndie Kilchen zů verwalten.",
         "b": "kein gewalt/den\ndie Kilch hat/nach jrem geuallen zebruchen/ſonders ein be-\nuelch mit den ruͤdigen Schaͤfflin zehandlen/vnnd bitt uͤch\nvmb Geſchrifft/damit jr anzeigend /",
-        "similarity": 0.3607
+        "similarity": 0.3607,
+        "semantic": 0.6795,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Pfarrer. [A]Ls min herr Predicāt ſpricht/jch habs mit jm/ nit allein mit jm/ſonders mit dem wotr Got=\ntes.",
         "b": "das ein ander Houpt\nſye dann Chriſtus / das ouch gewalt hab die Kilchen zuͤ\nverwalten. Pfarrer. ALls min Herr Predicant ſpricht/ich habs mit jm /",
-        "similarity": 0.3478
+        "similarity": 0.3478,
+        "semantic": 0.8427,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -95,7 +108,11 @@
         "b": "dann\nes gericht iſt/durch das ewig wort/ aber der mißuerſtand\nder Geſchrifft/derſelb eruorſchet ein goͤttlich vßlegen. Vnd",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7691,
+    "reworded": 5,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4642,

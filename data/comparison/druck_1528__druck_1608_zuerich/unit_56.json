@@ -33,19 +33,27 @@
         "op": "only_a",
         "a": "Seite [X]\n**Die erſt**\n\ndurch ſyn nachgelaßnen gewalt/ſo hand ſy ouch zuͦ bindẽ\nvnd entbinden gehan/nach ſozim ſins goͤttlichẽ wozts.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7134,
+        "semantic_match": "der da nit den\nglouben hab / ſonders jm empfolhen / zů binden in dem ge=\nwalt Gottes/vnnd zů entbinden die /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "**Berchtoldus.**\n\nIn kurtze antwurt. Die allmechtigkeyt gottes\nBekennen wir mit dem Pfarrer/vnd den ſpruch\nſo er ynfürt/das Gott gnad vnnd glori geb/iſt\nfür vns/dann das iſt ſin gnad/das er vns verzycht die\nſünd vñ vns ſoͤlliche ſin gnad verkündet/durch ſine A-\npoſtel die dann ſins worts diner ſind/als hüt vß Paulo\ngehoͤrt iſt in der erſten Epiſtel Pauli zun Corinthern.iij.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7388,
+        "semantic_match": "der da nit den\nglouben hab / ſonders jm empfolhen / zů binden in dem ge=\nwalt Gottes/vnnd zů entbinden die /",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Cap. Wer iſt Paulus/wer iſt Apollo/dann allein diener\ndes dem jr gloubt hand/der da pflantzet/der da begüßt\niſt nüt/Gott aber gibt das vffwachſſen/dan ob ſchon der\nprieſter ſpricht/ich abſoluier oder entbind dich von dinen\nſünden/wirt mir nit gnüg beſchechen/ich ſig dann in mi-\nnem hertzen durch den gloubenn verſicheret.",
         "b": "44          Die erſt\ngibt das vffwachſſen/dann ob ſchon der Prieſter ſpricht/ich\nabſoluier oder entbind dich von dinen Sünden /",
-        "similarity": 0.4103
+        "similarity": 0.4103,
+        "semantic": 0.7485,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,19 +65,25 @@
         "op": "match",
         "a": "Gott iſt der\nder vffthüt/vñ niemäd wirt beſchlieſſen. Er beſchlüßt\nvnnd niemand thüt vff. Eſaie xxij. Capitel. Dar=\nrumb iſt der gewalt eygentlich die ſünd zeuergebẽ/allein\nGottes.",
         "b": "vnd niemand wirt beſchlieſſen.Er beſchlüßt vnnd niemand\nthůt vff.Eſaie 22.cap.Darumb iſt der gewalt eigentlich die\nSünd zeuergeben /",
-        "similarity": 0.56
+        "similarity": 0.56,
+        "semantic": 0.5804,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Aber verkünden die vergebung der ſünd den\nglöubigẽ. Verkündẽ die vorbehaltung der ſünd/den vn\nglöubigen/iſt das ampt der dienſtbarkeyt/vnd beuelch\nder Apoſtlen/vnd verkündung des worts.",
         "b": "allein Gottes : Aber verkünden die\nVergebung der Sünd den glöubigen/Verkünden die Vor=\nbehaltung der Sünd / den vnglöubigen/iſt das Ampt der\nDienſtbarkeit/vnnd beuelch der Apoſtlen/vnnd Verkün=\ndung deß Worts.",
-        "similarity": 0.5902
+        "similarity": 0.5902,
+        "semantic": 0.8094,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "**Pfarrer.**\n\nAls myn herr Berchtold in dem gewalt den ich\nzertheilt han. Zum erſten/mir züuellt gott geb\nallein eer vnd glozi. Hab aber den Apoſtlen be=\nuolchen/",
         "b": "Pfarrer. ALs min Herr Berchtold in dem gewalt / den ich zer=\ntheilt han:Zum erſten mir zůuellt/ Gott geb allein eer\nvnd glori.",
-        "similarity": 0.7451
+        "similarity": 0.7451,
+        "semantic": 0.6454,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -101,7 +115,11 @@
         "b": "Aber zů einer beſſer beſtätung deß gewalts / zügen ich\ndas",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.706,
+    "reworded": 3,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4017,

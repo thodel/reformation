@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Wyter so hat Doctor Johannes Eck dise Disputati-\non mitt schmachlichem vs briben angethaster/darinen\ner sin nydig hertz erkuler/vnd vil mersin Narerzungen\nbarfürgestreckr/dan Christenliche liebi vn warnig an\nzeyge:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.612,
+        "semantic_match": "Fuͤrer iſt zuͦ wyſſen/ als der Welſchen Diſpu\ntatz vff das end geſchoben/ iſt harfuͤrgetretten/ ein welſcher Doctor/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -63,7 +66,9 @@
         "op": "match",
         "a": "Wirt (ob gott will) mitt\nglimpff vn fügen allwegé geantwurt. Vocab zu handt-\nhabung der Eer gottes vi ſins heyligen worts/vin ents\nschüttung gegenwürriges Chriſtenliches handels/ouch\nrettung vi bewarung der Beren der fromen Christen-\nlichen Oberkeyt zu Bern.",
         "b": "moͤcht werdenn zuͦ verkleinerung diſer Acten: Wirt (ob gott will) mit glimpff vnd fuͤgen all=\nwegen geantwurt. Vorab zuͦ handthabung der\nEer Gottes vnd ſins heyligen worts/",
-        "similarity": 0.3768
+        "similarity": 0.3768,
+        "semantic": 0.8284,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,21 +86,31 @@
         "op": "match",
         "a": "fürer ist zu wüssen/als & Welsche Disputats off dz\nend geschoben/ist barfürgetretten/ein welscher Soctor/ vi etlich welsch pfaffen im zügestanden/der hat wid die\nJechen schlußred gedisputiert/vi jm Guilielmus Pha-\nrellus/Predicant zü Elenn darüber geantwurt.",
         "b": "vnd etlich welſch pfaffen\njm zuͦgeſtandẽ: der hat wider die Zechen ſchluß=\nred gediſputiert/ vnnd jm Guilielmus Pha=\nrellus/",
-        "similarity": 0.4068
+        "similarity": 0.4068,
+        "semantic": 0.775,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Wirt\nmit der zyt in Latinischer sprach in Truck ouch vigan. So vilin kurzer sum von d'ordnung diser disputas vii\nwas sich der will zügetragen hat.",
         "b": "Predicant zuͦ Elen daruͤber geantwurt. Wirt mit der zyt in Latiniſcher ſprach in Truck\nouch vßgan. So vil in kurtzer ſum̃ von der ord=\nnung diſer diſputatz vnd was ſich der wil zuͦge\ntragen hatt.",
-        "similarity": 0.5312
+        "similarity": 0.5312,
+        "semantic": 0.7206,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Sas übrig ist in Actis\nvstrucklich griffen/sye alles den Christenlichen låseris\nvin zübszern Beuolhen.",
         "b": "Das uͤbrig iſt in Actis vßtrucklich\nvergriffen/ ſye alles den Chriſtenlichen laͤſern vñ\nzuͦhoͤrern beuolhen.",
-        "similarity": 0.4706
+        "similarity": 0.4706,
+        "semantic": 0.6625,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7197,
+    "reworded": 4,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3541,

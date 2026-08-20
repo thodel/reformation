@@ -51,25 +51,34 @@
         "op": "match",
         "a": "Seite 170\nDie ſibend\nMatth. am viij. an Petro nit einen ganzen volkōmen\nglauben fundē hat. So er zů jm ſprach /",
         "b": "Wir wuͤſſend ouch/ das der menſch\nmag glouben/ vñ doch etwan nit volkomenlich: dann Chriſtus/Matth.am xiiij. an Petro nit ei\nnen gantzen volkomnen glouben funden hat/do\ner zuͦ jm ſprach:",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.7001,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "O du klein glöu\nbiger / warumb haſt du gezwiflet : glich als wol/mag der\nmenſch glouben/vnd doch nit ſo krefftig/das er im glou=\nben volkōmen ſye /",
         "b": "O du kleingloͤubiger/warumb\nhaſtu gezwyflet. Glych als wol mag der menſch\nglouben/vnd doch nit ſo krefftig/das er im glou\nben volkomen ſye/dann Matthei am xix.ca.",
-        "similarity": 0.7119
+        "similarity": 0.7119,
+        "semantic": 0.879,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "wañ Matth. am xix. von dem jüng=\nling geſagt wirdt / der alle gebott gehalten hatt / ſprach\ndannocht Chriſtus zů jm /",
         "b": "von\ndem juͤngling geſagt wirt/der alle gebott gehal\nten hat/ſprach dennocht Chriſtus zuͦ jm : Wiltu\nvolkomen ſin/gang vnnd verkouff alles das du\nhaſt/vnd gibs den armen.",
-        "similarity": 0.3922
+        "similarity": 0.3922,
+        "semantic": 0.6972,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "wilt du volkommen ſin/gang\nvnd verkouff alles das du haſt / vnnd gibs den armen. Hieby iſt zů glouben / wann der jüngling /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.752,
+        "semantic_match": "vnd du haſt vns\ngefuͤrt in die ruͦw. Deßglychenn Hieremie am\nxxxj.",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,19 +90,26 @@
         "op": "match",
         "a": "alſo ane alle\nhouptſünd geſtorben / das er nitt verdampt wåre wor=\nden/vnd danocht nit volkommen geſin : vnd ob er glich\nnit verdampt wåre geſin/hette er denocht für das übrig\ngereyniget mögen werden /",
         "b": "vnd\ndennocht nit volkomen gſin: vnd ob er glych nit\nverdampt waͤre gſin/ hette er dennocht fuͤr das\nuͤbrig gereyniget moͤgen werden/",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.7935,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnnd darnach behalten/das\nwir mögen ermäſſen/vß dem lxv. Pſalmen/ſo er ſpricht\nWir ſind durchgangen das waſſer/vnnd das fhür/vnd\ndu haſt vnns geſürt in die rüw.",
         "b": "vnd darnach\nbehalten/das wir moͤgend ermeſſenn / vß dem\nlxv. Pſalmen/ſo er ſpricht: Wir ſind durchgan\ngen das waſſer/vnd das fhuͤr/",
-        "similarity": 0.5818
+        "similarity": 0.5818,
+        "semantic": 0.9361,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Deßglichen Hieremie. am xxxj. Si werden in dem weynen kommen / vnnd ich\nwird ſy in der barmhertzigkeyt widerumb füren / vnnd\nwird ſy harzů füren/durch die vngeſtümikeit der waſſer\nin den rechten wåg/der da fürt zů dem ewigen läben:find\nich niendert /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8279,
+        "semantic_match": "die nit houptſuͤnden ſind/abgereyniget muͤſſent\nwerden. Dañ Eſaias ſpricht am. xxxv. ca. Der\nwaͤg wirt heylig genẽpt/der befleckt wirt durch\njn nit gan.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -105,7 +121,10 @@
         "op": "only_a",
         "a": "Zwingly\n[S]uil wir verſtond/lang die gantze ſumm ſynes\nArguments/oder innred/dahinn/das ettlicher\ngloub/vnuolkomē ſye / deßhalb jr vnuolkom=\nmenheit/bedörffe durch das fågfür/geuolkomnet/oder\ngebeſſert werden. Sagen wir des gloubens halb alſo/das\ndiß der",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6699,
+        "semantic_match": "Hieby iſt zuͦ gloubẽ/ wenn der juͤngling alſo one alle houptſuͤnd ge=\nſtorben/das er nit verdampt waͤre worden/",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -113,7 +132,11 @@
         "b": "vnd du haſt vns\ngefuͤrt in die ruͦw. Deßglychenn Hieremie am\nxxxj.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.782,
+    "reworded": 6,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3774,

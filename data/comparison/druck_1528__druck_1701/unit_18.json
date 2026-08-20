@@ -39,7 +39,10 @@
         "op": "only_a",
         "a": "Dann wo solichs nit be-\nschache/wurded ſy (des sy doch gern ab sin welten) dar=\nyn zereden/vnd die überjrenden zewysen vnnd zeerma=\nnen geursachet/guter hoffnung/es werde niemants an=\nders faren/dan dem handel diser loblichen Sisputation\nvnd gedachter miner gnedigen herren von Bernn Oan\ndaten/ordnungen vnd abscheyden (wie sy sich mit der ge\nschrifft verglychen) gelågen vñ gemaß sye.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8707,
+        "semantic_match": "treulich/ mit Fleiß vnd Sorg halten woͤllind. Dann wo ſoͤlichs nit be=\nſchaͤhe / wurdend ſie (deß ſy doch gern abſyn welten) daryn zere=\nden /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,19 +72,25 @@
         "op": "match",
         "a": "Off sölichs\nso mogent jrmin herren die Predicanten/üwerem erbie\ntennach/die erst Schlußred in des herren namen/andie\nhand nemen/vñ die mit geschrifft beuestnen/damit den\nherren/geystlich oder weltlich/so dargegen zehaben verz\nmeinend zedisputieren/anlaß geben werden moge.",
         "b": "ewerem\nErbieten nach / die erſte Schlußred in deß HErren Namen an\ndie Hand nemmen / vnd die mit Geſchrifft beveſtnen / damit den\nHerzen/Geiſtlich oder Weltlich /",
-        "similarity": 0.4179
+        "similarity": 0.4179,
+        "semantic": 0.7287,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Weyster Frantzen Kolben Pre\ndicant zü Bernn/vozred. Nad bnd frid von Gott dem\nvatter vnd vnserm Herrn Jesu Christo/",
         "b": "ſo dargegen zehaben vermeinend\nzediſputieren/Anlas geben werden moͤge. Meiſter Frantzen Kolben / Predicanten\nzuͦ Bern / Vorred. Gnad vnd Frid von Gott dem Vatter vnd vnſerem Herzen\nJeſu Chriſto/Amen.",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.8038,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Amen. Ir vßerwelten menner vnd brüder\nin Christo. Wiewol es sich in aller welt/in\nmencherley valansechen last/das Gott vast übel über\nvns erzürnt sye/So bewyster vns doch besonder grof\nsegnad/welicher wir im nit gnüg mogend danckbar sin/",
         "b": "Ihr vßerwehlten Maͤnner vnd Bruͤ=\nder in Chriſto. Wiewol es ſich in aller Welt in mancher=\n’ly Zahl anſehen laßt /",
-        "similarity": 0.3226
+        "similarity": 0.3226,
+        "semantic": 0.8366,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -93,13 +102,18 @@
         "op": "match",
         "a": "in dem das er yetz alle welt bewegt/zů fragen nach der\nwarheyt/ vnd sich bekümbern der jrthumb. Sarumb\non allen zwyfel/nit on besondre würckung des heyligen\ngeysts/vnser fürsichtigen wysen vnd gnädigen berren/",
         "b": "in dem daß er jetzt alle Welt bewegt/ zuͦ fragen nach der Warheit / vnd ſich bekuͤmmeren der Jrzthum. Darum ohn allen Zwyfel nit ohne beſondere Wuͤrckung deß heili=\ngen Geiſts /",
-        "similarity": 0.4776
+        "similarity": 0.4776,
+        "semantic": 0.5584,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "Råde vnd Burger/diser loblichenstatt Bernn/bewegt\nfind/üch Erbern/hochgelerten/Chriſtenlichen herren",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7299,
+        "semantic_match": "vnſere Fuͤrſichtige/ Wyſe vnd Gnaͤdige Herzen/ Raͤht\nvnd Burger diſer loblichen Statt Bern / bewegt ſind / Euch / Ehr=\nbaren /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -131,7 +145,11 @@
         "b": "vnd nach Ordnung außgezeichneter Articklen / auch\nallen Reden / ſo daruß moͤchten folgen / zuͦ antworten / vnd mit\ngewal=",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7547,
+    "reworded": 5,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3767,

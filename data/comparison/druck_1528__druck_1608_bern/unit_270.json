@@ -33,31 +33,42 @@
         "op": "only_a",
         "a": "Seite [lVXXD]\nDie vierde\ndes geyſts/ꝛc. Zů erklårung diſers texts/ iſt zů mercken\ndas Paulus in der ganzen Epiſtel die Corinthiern vß vi\nlen vrſachen zwyſpaltig/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6412,
+        "semantic_match": "was die Sacrament\nbeduͤten. Jſt nit der Kelch der benedyung den wir benedyen/ ein Gemeinſchafft deß Blůts Chriſti? das iſt/",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "begert in einigkeit zebringē/ vñ\ndiewyl jr etlich ouch noch gemeinſchafft hatten/ mitt den\nabgötiſchen/ das dañ ouch zů vneinigkeit diener/",
         "b": "Schlußred. 279\nder gantzen Epiſtel/ die Korinthern vß vilen vrſachen zwy-\nſpaltig / begert in Einigkeit zebringen/ vnd diewyl ir etlich\nouch noch Gemeinſchafft hatten /",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.7294,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ſo fürt\ner ſy zů Chriſtenlicher einigkeit/ zeygt jnen an/ wie ſy ge=\nmeinſchafft haben an dem lyb vnd blůt Chriſti/",
         "b": "mit den Abgoͤttiſchen/ das dann ouch zů Vneinigkeit dienet/ ſo fuͤrt er ſy zů Chri-\nſtenlicher Einigkeit/ zeigt jnen an/",
-        "similarity": 0.3256
+        "similarity": 0.3256,
+        "semantic": 0.6485,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "darumb\nſy billich vngetrennt ſöllen ſin: vnd wender jnen für wie\nſy ſich doch ſelbs bezůgē/ ſöllicher gmeinſchafft i den Sa=\ncramenten/",
         "b": "wie ſy gemeinſchafft ha-\nben an dem Lyb vnd Blůt Chriſti/ darumb ſy billich vn-\ngetrennt ſoͤllen ſin: vnd wendet jnen fuͤr wie ſy ſich doch\nſelbs bezuͤgen/",
-        "similarity": 0.4151
+        "similarity": 0.4151,
+        "semantic": 0.8144,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vñ ſagt Jch red mit üch als mit den verſten\ndigen: das iſt als mitt denen die da",
         "b": "ſoͤllicher Gemeinſchafft in den Sacramen-\nten/ vnd ſagt: Jch red mit uͤch als mit den Verſtendigen: das\niſt als mit denen die da wol verſtand/",
-        "similarity": 0.5778
+        "similarity": 0.5778,
+        "semantic": 0.6209,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -107,7 +118,11 @@
         "b": "ſpricht alſo: Se-\nhend den Jſrahel nach dem Fleiſch. Jſt es nit/ das die ſo\neſſend das opffer / ſind gemeiner deß Altars? Das iſt ſy",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6909,
+    "reworded": 4,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.298,

@@ -45,49 +45,66 @@
         "op": "match",
         "a": "Seite CCXXIII\nSchlußred. CCXXIII\nrung fürkomme. Diewil nun wider das häll wort got=\ntes/vnd wider die leer Christi vnd der Apostel /",
         "b": "mit eer erbiettung\nfürkomme. Diewyl nun wider das håll wort\nGottes/vnnd wider die leer Chriſti vnd der A=\npoſtlen/ſo mit groſſem koſten /",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.7575,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "so mit\ngrossem kosten / allenthalp vffgericht sind Götzen / vo\nwelichen man Gott/vnd die abgestorbnen heyligen hatt\nvererer/darumb man der läbendigen heyligen hie vff er=\ntrich/nit geachtet/haben wir voigesatzte schlußred ge=\nprediget.",
         "b": "allenthalb, vfge=\nricht ſind Götzen/ vor welichen man Gott/ vnd\ndie abgeſtorbnen heyligen hatt vereeret/darumb\nman der låbendigen Heyligen hie vff erdtrich\nnit geachtet/",
-        "similarity": 0.6333
+        "similarity": 0.6333,
+        "semantic": 0.8067,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Bůchstab. Der bildern halb/dz anzůbätten syen/oder zů Lern\nmit Göttlicher Eer/der meynung wirt ob gottwil\ndheyn Christen syn.",
         "b": "habend wir vorgeſatzte Schlußred\ngeprediget. Bůchſtab. Der Bilderen halb/das ſy anzůbåttẽ ſyen/o=\nder zů eren mit gôttlicher eer:",
-        "similarity": 0.3902
+        "similarity": 0.3902,
+        "semantic": 0.5798,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Wir habē im Alten testament\nExodi am xxv. Das Moyses zwen Cherub ließ machē\nvff die Arch. Derglichē im drittē bůch d’ Künig am vij.",
         "b": "der meynung wirt\nob Gottwil/kein Chriſten ſyn. Wir habend im\nAlten Teſtament/Exodi am xxv capit. das Mo\nyſes zween Cherub ließ machen vff die Arch.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7474,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Capitel. Sie selben sind allein für bildtnus geachtet wor\nden/vnnd nitt für abgött / darumb sind sy nitt verbot=\nten gesin:",
         "b": "Derglychen im dritten bůch der Künig/ am vij. capitel. Die ſelben ſind allein für bildtnus ge=\nachtet worden / vnnd nit für Abgôtt:",
-        "similarity": 0.4186
+        "similarity": 0.4186,
+        "semantic": 0.7012,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "deßglichen der Erin schlang / diewyl er ist ge=\nsin/als ein figur vnd zeychen/ist er blibē. Aber nach dem\ner angebätten ist worden /",
         "b": "darumb\nſind ſy nit verbotten geſin. Deßglychen der E=\nrin ſchlang/diewyl er iſt geſin/als ein figur vnd\nzeychen /iſt er bliben :",
-        "similarity": 0.5106
+        "similarity": 0.5106,
+        "semantic": 0.821,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "hatt jn Ezechias der Künig\nJuda zerbrochen.iiij. Regum am viij. Capitel. Darum\nwir Christenliche menschē/diewil wir die erkantnus got\ntes hand /",
         "b": "aber nach dem er angebåt=\nten iſt worden / hatt jnn Ezechias / der Künig\nJuda zerbrochen . iiij. Regum am viij capitel.",
-        "similarity": 0.5116
+        "similarity": 0.5116,
+        "semantic": 0.6582,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "vnnd syner heyligen/vnnd aber sy nit gesehen\nhand / mögend wir ouch jre bildtnus habenn/so Paulus\nspricht zun Rhömern am j.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7964,
+        "semantic_match": "Matthei am\nxxv.capitel/hie nechſt angezogen. Vnd Paulus\nermandt vns ouch / zun Rômern am xij capitel: Das wir/einer den anderen /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -107,7 +124,11 @@
         "b": "Darumb wir, Chriſtenliche menſchen / diewyl\nwir die erkanntnus Gottes hand / vnnd ſiner\nheyligen\n\n## Marginalien\nheyl=\nwir\nzun\ntes/ geſc\nwir\ndie\nſin=\nden\n\ndie\np=\ndig\ngr\nw=\nw\nn=\nfo\nge\nge\nch\nin\ng=\nv\np\nn\nn\nb\nn",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7335,
+    "reworded": 2,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5051,

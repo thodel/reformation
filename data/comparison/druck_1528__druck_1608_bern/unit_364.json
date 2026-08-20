@@ -45,49 +45,66 @@
         "op": "match",
         "a": "Seite [LXXV]\n\n**Die fünffte**\n**Berchtoldus Haller**\n\nDamit wir vß dem spā komind/ vnd yedermã\nverstande/ wie Christus sye ein priester nach der\nordnung Melchisedech/",
         "b": "verglicht moͤg werden. Berchtoldus Haller. DAmit wir vß dem Span kommind/vnd iederman\nverſtande / wie Chriſtus ſye ein Prieſter nach der\nordnung Melchiſedech/erklaͤrts der heilig Paulus\nzuͤ den Hebreern am 7.",
-        "similarity": 0.5862
+        "similarity": 0.5862,
+        "semantic": 0.6971,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "erklärts der heilig Paū\nlus zů den Hebreern am vij. Zum ersten heißt Melchi: sedech/ ein Rünig der gerechtigkeit/ also ist Christus ein\nKünig der gerechtigkeit:",
         "b": "Zum erſten heißt Melchiſedech/ ein Kuͤnig der gerechtigkeit / alſo iſt Chriſtus ein Kuͤnig\nder gerechtigkeit : ja er iſt ſelbs vnſer gerechtigkeit /",
-        "similarity": 0.4898
+        "similarity": 0.4898,
+        "semantic": 0.7562,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ja er ist selbs vnser gerechtig\nkeit/ in der. j. Corinth. j. Zum andren/ ist Melchisedech\nein künig des fridẽs/",
         "b": "in der\nerſten zun Corinth. 1. Zum andren/iſt Melchiſedech ein\nKuͤnig deß fridens/alſo ouch Chriſtus/zun Epheſern am\n2.",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.6976,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "also ouch Christus/ zun Ephesiern\nam ij. Zum dritten/ Melchisedech ist gesin ein Priester\ndes allerhöchsten Gottes/ das ist ouch Christus.",
         "b": "Zum dritten/ Melchiſedech iſt gſin ein Prieſter deß al=\nler hoͤchſten Gottes/das iſt ouch Chriſtus. Zum vierten/ Melchiſedech hat geopffret/aber nit dem Abraham Wyn\nvnd Brot:",
-        "similarity": 0.44
+        "similarity": 0.44,
+        "semantic": 0.7679,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Zum\nvierden/ Melchisedech hat geopffret/ aber nit dem Abra\nham wyn vnd Brot: Christus aber hat sich selbs geopffe: ret/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7999,
+        "semantic_match": "386        Die fuͤnfft\nChriſtus nach ſyner ordnung/ein Prieſter genempt wirt\nin ewigkeit / ſo muͤß er je ouch etwas haben /",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "das sollen wir ouch thůn/ wie Paulus lert zun Rö: meren am vij. Zum fünfften/ das geschlächt Melchise\ndech/ ist nit Bekannt in der schrifft/",
         "b": "Chriſtus aber hat ſich ſelbs geopfferet / das\nſoͤllen wir ouch thuͦn/wie Paulus lert zun Roͤmeren am\n12.",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.6288,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ouch sin tod verbor: gen/ Also ist Christi Göttliche geburt/ nit zů ermessen/ Esaie liij. Daruß ermessen wirt die ewigkeyt der Prie:",
         "b": "Zum fuͤnfften/das Geſchlaͤcht Melchiſedech/ iſt nit be=\nkannt in der Schrifft / ouch ſyn Tod verborgen/ Alſo iſt\nChriſti Goͤttliche Geburt nit zuͤ ermeſſen/",
-        "similarity": 0.3673
+        "similarity": 0.3673,
+        "semantic": 0.762,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "sterschafft Christi/ nach der ordnung Melchisedech/ vnd\nso jr lang vff dem text ligend/ so werdend jr nit finden/ das Melchisedech/",
         "b": "Eſaie 53. Da=\nruß ermeſſen wirt die Ewigkeit der Prieſterſchafft Chriſti/ nach der ordnung Melchiſedech/ vnd ſo jhr lang vff dem\nText ligend / ſo werdend jr nit finden / daß Melchiſedech/ Wyn",
-        "similarity": 0.6923
+        "similarity": 0.6923,
+        "semantic": 0.8554,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -105,7 +122,10 @@
         "op": "only_a",
         "a": "Zů dem ersten/ sye er gsin ein Rünig der ge\nrechtigkeit zc. Dise ordnung/ durch herrn Berchtolden\nyngefürt/ verneinen wir nit:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6285,
+        "semantic_match": "386        Die fuͤnfft\nChriſtus nach ſyner ordnung/ein Prieſter genempt wirt\nin ewigkeit / ſo muͤß er je ouch etwas haben /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -113,7 +133,11 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7326,
+    "reworded": 7,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5306,

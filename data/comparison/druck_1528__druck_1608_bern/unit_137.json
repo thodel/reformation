@@ -39,25 +39,33 @@
         "op": "match",
         "a": "Seite LXI\n\nSchlußred. vßtruckt iſt/Als dann die zwölffbotten anzeigent/in der\nandern Epiſtel zum Timotheo ij. cap. vnd zum Thito/",
         "b": "denn in der Bibliſchen Geſchrifft hei-\nter vßtruckt iſt / Als dann die Zwölffbotten anzeigent / in\nder andern Epiſtel zum Timotheo 2.",
-        "similarity": 0.619
+        "similarity": 0.619,
+        "semantic": 0.589,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "am erſten capitel. Sy hand etwan gelert vnd prediget/ durch red/durch brüch/andern verkündet/wie ſy es ouch\nvon anderen gehört hand/vnd hand nit allwegē ſchrifft\ndarumb anzeigt.",
         "b": "cap. vnd zum Tito/am\nerſten capitel. Sy hand etwan gelert vnd prediget durch\nred/durch brüch / andern verkundt / wie ſy es ouch von an-\nderen gehört hand/vñ hand nit allwegen Gſchrifft darumb\nanzeigt.",
-        "similarity": 0.7692
+        "similarity": 0.7692,
+        "semantic": 0.9101,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Ich mein ouch/die heylig Kilch ſye glich\nvor dem Euangelio vnd der zwölffbotten gſchrifft/vñ\nwerd ouch in ewigkeit belyben/ſo dhein gſchrifft mer ſye.",
         "b": "Jch mein ouch / die heilig Kilch ſye gſin vor dem\nEuangelio/vnd der Zwölffbotten Gſchrifft/vnd werd ouch\nin ewigkeit belyben/ſo kein Geſchrifft mer ſye.",
-        "similarity": 0.7692
+        "similarity": 0.7692,
+        "semantic": 0.8839,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Item in der andern Epiſt. zum Thimotheo am iij. cap. ſpricht Paulus: Ein yegkliche geſchrifft/die von Gott\nyngeſprochen iſt/iſt nützlich zů leren vnnd zů vnderwy-\nſen.",
         "b": "Jtem in der\nandern Epiſtel zum Timotheo am 3. cap. ſpricht Paulus: Ein jegliche Geſchrifft / die von Gott yngſprochen iſt /",
-        "similarity": 0.5833
+        "similarity": 0.5833,
+        "semantic": 0.8217,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,25 +77,33 @@
         "op": "match",
         "a": "Nun iſt vil geſchriben nach der Bibliſchen geſchrifft/ durch die lieben heiligen/zů lüttrung vñ erkantnuß Bib\nliſcher geſchrifft/mein ich ouch Gott der heilig geyſt/můß\nge jnen die yngeſprochen han/ſonderlich die gſchrifft/die\nvon gemeyner Chriſtenlichen Kilchen angenommen iſt.",
         "b": "mein ich\nouch Gott der heilig Geiſt möge jnen die yngſprochē han/ ſonderlich die Geſchrifft / die von gemeiner Chriſtenlichen\nKilchen angenommen iſt.",
-        "similarity": 0.5312
+        "similarity": 0.5312,
+        "semantic": 0.8112,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Es ſtadt ouch geſchriben in den Geſchichten der Apoſt-\nlen am xv. vnd xvj. capitel. Ir ſöllend halten die port\nder zwölffbotten/vñ die brüch der Elteren/ſpricht ouch\nPaulus/in der erſten Epiſtel zun Corinthern am xj.",
         "b": "Es ſtadt ouch geſchriben in den\nGeſchichten der Apoſtlen am 15. vnd 16. cap. Jr ſöllend hal-\nten die Bott der Zwölffbotten /",
-        "similarity": 0.4667
+        "similarity": 0.4667,
+        "semantic": 0.7128,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ca. Ich lob üch mine brüder/das jr in allen dingen min ynge\ndenck ſind/als ich üch mine port gebenn hab.",
         "b": "vnnd die brüch der Elteren/ ſpricht ouch Paulus/ in der erſten Epiſtel zun Corinthern\nam 11. cap. Jch lob üch mine Brüder/das jr in allen dingen\nmin yngedenck ſind/als ich üch mine Bott geben hab.",
-        "similarity": 0.5424
+        "similarity": 0.5424,
+        "semantic": 0.5664,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Verheyſſet\njnen daby: Die andern ding wil ich üch ouch ordnen/weñ\nich zů üch kom. Wan findt aber nienan geſchriben/wo er\ndas geordnet habe/",
         "b": "Ver-\nheiſſet jnen daby: Die andern ding wil ich üch ouch ordnen/ wenn",
-        "similarity": 0.5128
+        "similarity": 0.5128,
+        "semantic": 0.8334,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -99,9 +115,16 @@
         "op": "only_a",
         "a": "Von ſölichen brüchen findt man ouch geſchribē/ zun Theſſalonicheren in der anderen Epiſtel/am ande-\nren Cap. die nit all geſchriben ſtond/als ich mein. ℛ",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6386,
+        "semantic_match": "132      Die erſt\nSenger. WIter wird ich bewegt vß der Geſchrifft / das eim\nChriſten Menſchen etwas mer zehalten vnnd zů\nglouben ſyg /",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7519,
+    "reworded": 2,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6241,

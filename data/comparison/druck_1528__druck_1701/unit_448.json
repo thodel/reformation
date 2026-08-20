@@ -69,7 +69,9 @@
         "op": "match",
         "a": "Seite 218\nSchlußred. CCXVIII\nden vnd füſſen/in die vſſerlich finſternuß. Wo ſölich fin\nſternuß ſind/vnd ſölich binden/ſampt weinen vnd zån=\nklappen/mag billich ein Kercker genempt werden.",
         "b": "mit gebundenen Händen und Fůſſen / in die vſſerliche\nFinſternus. Wo ſölichs Finſternus iſt / und ſölich bin-\nden / ſamt wäinen und Zähnklaffen/",
-        "similarity": 0.3137
+        "similarity": 0.3137,
+        "semantic": 0.6752,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,13 +83,17 @@
         "op": "match",
         "a": "Bůchſtab\nVndem Tittel des angezeigten pſalmen/weiß\nich nit/ich behůlff mich des Pſalmē. Vñ Eſaia: Hat Dauid begårt vō Saul gelediget zewer\nden/vnd ſölich ſin anfechtung/ein Kercker hat genant/",
         "b": "Und Eſaia. Hat\nDavid begährt vom Saul gelediget zů werden / und\nſölich ſyn Anfechtung ein Kercker hat genannt / iſt nit wi-\nder mich.",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.6511,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "iſt nit wider mich. Das ich aber welte ſagen/das ein ker=\ncker ſölte genommen werden/für die verdamnůß/nach\nOrigeniſcher art/iſt mins willens nit/dañ ich ouch gloub\nnach jnnhalt aller ſchrifft/das die verdamnůß ewig ſye:",
         "b": "Daß ich aber wölte ſagen / daß ein Kercker ſol-\nte genommen werden für die Verdamnus / nach Orige-\nniſcher Art / iſt mynes Willens nit /",
-        "similarity": 0.4194
+        "similarity": 0.4194,
+        "semantic": 0.6439,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -99,7 +105,9 @@
         "op": "match",
         "a": "dann das allein min fürnemen vnnd meynung iſt/das\ndas wörtly/Kercker/ein vfenthalt ſye/die nit ewig iſt: vnnd wie ſömlichs durch mich yngefürt/darby blyb ich.",
         "b": "daß das Wörtly / Kercker / ein Auffenthalt ſeye / die\nnit ewig iſt : und wie ſömlichs durch mich yngeführt/ darby",
-        "similarity": 0.5652
+        "similarity": 0.5652,
+        "semantic": 0.875,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -111,21 +119,34 @@
         "op": "only_a",
         "a": "S. Ecolampadius. DEr verſtand der gſchrifft/iſt dargethan/daby wir\nes laſſend blyben. Theobaldus Hůter Pfarrer\nzů Appenzell. V rhabend ij.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6345,
+        "semantic_match": "dann ich auch glaub\nnach Jnnhalt aller Schrifft / daß die Verdamnus ewig\nſeye : dann das allein myn Fürnemmen und Meynung\niſt /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Regum am vij. Wie der künig\nDauid geſünder hat/Als jm der Prophet Na\ntan anzeigt.zc. hat er růw vñ leid vmb ſine ſůnd\nvnd wurden jm von Gott nachgelaſſen/dann er ſprach:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6272,
+        "semantic_match": "Wir ha-\nben Matthei am 22. von dem / der das Hochzytkleid nit\nhat / daß jhn der König hat geheiſſen geworffen werden/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Ich hab geſündet dem Herrē.zc. Vnd erkant ſine ſůnd. Jů ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7564,
+        "semantic_match": "Wir ha-\nben Matthei am 22. von dem / der das Hochzytkleid nit\nhat / daß jhn der König hat geheiſſen geworffen werden/",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.6948,
+    "reworded": 6,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3042,

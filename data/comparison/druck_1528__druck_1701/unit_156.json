@@ -33,19 +33,25 @@
         "op": "match",
         "a": "Seite [72]\nLXXII\n\nDie ander Schlußred / vnd der selben\ngründ/hat Meyſter Frantz Kolb/predicant\nzů Bernn eroffnet. Die kilch Chriſti /",
         "b": "Die Ander Schlußred. 149\n\nDie ander Schlußred\n/ Und derſelben Gründ / hat Meiſter Frantz Kolb / Predi-\ncant zu Bern / eröffnet. Die Kilch Chriſti machet nit Geſatz und Bott /",
-        "similarity": 0.5417
+        "similarity": 0.5417,
+        "semantic": 0.7856,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "machet nitt geſatz\nvnd bot/ane gottes wort/deßhalb all men\nſchen ſatzungen / ſo man nempt der kilchē\nbott/vnß nit witer bindend/dan̄ ſy in göt\ntlichē wort gegründt vnd botten ſind.",
         "b": "ohne\nGottes Wort / deßhalb alle Menſchen-Satzungen / ſo man nennet der Kilchen Bott / uns nit wyter bin-\ndend / dann ſy in Göttlichem Wort gegründet und\nbotten ſind.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.4369,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Meyſter Frantz Kolb. Gnad vnd frid von got\ndem vatter/vnd vnſerm her=\nren Jeſu Chriſto/Amen. Vß=\nerwelten Gottes fründ/nach\ndem min brüder Berchtold/",
         "b": "Meiſter Frantz Kolb. GNad und Frid von Gott dem Vatter / und\nunſerm Herren Jeſu Chriſto / Amen. Ußer-\nwehlte Gottes-Fründ /",
-        "similarity": 0.6087
+        "similarity": 0.6087,
+        "semantic": 0.911,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -57,13 +63,17 @@
         "op": "match",
         "a": "in der erſten vnſer ſchlußred/ gnůgſamklich erlütret hatt/ was da ſye die Chriſtenlich\nmeind/dero das eynig houpt\nſye Chriſtus Jeſus/nach lut\ndes andern Artickels vnſers vralten Criſtenlichen glou\nbens/der alſo lutet.",
         "b": "dero das einig Haubt ſeye Chriſtus Jeſus / nach lut deß andern Artickels unſers uhralten Chriſten-\nlichen Glaubens / der alſo lutet:",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.7798,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Jch gloub in Jeſum ſinen eingebornē\nſun/vnſern herrn/merckē Menceſchlich/vnſern herrn/vns\nſer houpt/vnſern heyland/vnſern låbendig macher/vn",
         "b": "Jch glaub in Jeſum ſy-\nnen eingebohrnen Sohn / unſern Herren / merckt mengck-\nlich / unſern Herren / unſer Haubt / unſern Heyland / un-\nſern Lebendigmacher /",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.5656,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -77,7 +87,11 @@
         "b": "in diſem\nblyben wir / keines andern Stimm hören wir / wie dann\nT ij diſer",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6958,
+    "reworded": 1,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.487,

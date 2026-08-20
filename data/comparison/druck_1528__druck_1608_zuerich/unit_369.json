@@ -39,7 +39,9 @@
         "op": "match",
         "a": "Seite CLXXVII\nSchlußred CLXXVII\nsedech/vnd es nit mag sin der tod/so bitten wir min her\nren der widerparthy/das sy vns nennen vß der schrifft/",
         "b": "vnd\nſytenmal Chriſtus iſt ein Prieſter / nach der ord=\nnung Melchiſedech / vnd es nit mag ſyn der Tod / ſo bitten\nwir myn Herren der Widerparthy /",
-        "similarity": 0.4231
+        "similarity": 0.4231,
+        "semantic": 0.5204,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -51,25 +53,33 @@
         "op": "match",
         "a": "was Opffer Melchisedech vffgeopffret habe/das ewig=\nlich sol wären. Zwingli\n[S]Ift gnug anzeigt/das die vorbildung des al=\nten Testamēts/nit vsserlichē in alle maas müß\nim Nüwen vßgetruckt werdē/oder aber es wä\nren nit vmbræ, das ist/Entwerffungē vnd Bedütussen/",
         "b": "daß die vorbildung deß Alten\nTeſtaments / nit vſſerlichen in alle maas muͤß im\nNuͤwen vß getruckt werden / oder aber es waͤren nit\nVmbræ, das iſt /",
-        "similarity": 0.4167
+        "similarity": 0.4167,
+        "semantic": 0.5977,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "sonders die that selbs/welliches wir an Melchisedech se=\nchend/so er ein priester des höchsten Gottes ist gewäsen/ vnd vsserliche opffer vffgeopffret hat:",
         "b": "Entwerffungen vnd Beduͤtnuſſen / ſon=\nders die that ſelbs / welliches wir an Melchiſedech ſechend / ſo er ein Prieſter deß Hoͤchſten Gottes iſt gewaͤſen /",
-        "similarity": 0.5306
+        "similarity": 0.5306,
+        "semantic": 0.8316,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dann er darumb\nein Priester was/von opfferen/Jst damit bedütet/das\nChristus sich selbs hat vffgeopffret/Hebreorū vij. cap.",
         "b": "vnd\nvſſerleche Opffer vffgeopffret hat: dann er darumb ein\nPrieſter was / von opfferen / Jſt damit beduͤtet / daß Chri=\nſtus ſich ſelbs hat vffgeopffret /",
-        "similarity": 0.6364
+        "similarity": 0.6364,
+        "semantic": 0.7656,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Sann wo Melchisedech müßte Christo in allweg vßge\ntruckt/glych sin/so müßte er von einer jungffrowen ge=\nbozen sin/ein sun Gottes sin/gecrütziget sin.",
         "b": "Hebreorum 7. Cap. Dann\nwo Melchiſedech muͤßte Chriſto in allweg vßgetruckt / glych ſyn / ſo muͤßte er von einer Jungfrouwen geboren ſyn /",
-        "similarity": 0.4082
+        "similarity": 0.4082,
+        "semantic": 0.7684,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,21 +91,33 @@
         "op": "match",
         "a": "2c. So nun\ndas nit/so sechē wir offenlich/das sin wäsen nun ein vor=\nbild gewäsen ist/in vsserlichen dingen/die aber Christus\nmit jm selbs erfüllt hat.",
         "b": "in vſſerlichen dingen / die aber Chriſtus mit jm\nſelbs erfuͤllt hat. Gilg",
-        "similarity": 0.4762
+        "similarity": 0.4762,
+        "semantic": 0.7872,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Gilg Durer. [W]Jr sagend nit/das Christus vnnd Melchise=\ndech/in allen dingen glychförmig söllend sin/ wie man vns gern züschryben wölt/sunders/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7519,
+        "semantic_match": "392 Die fuͤnfft\nGilg Murer. DArumb iſt es notwendig / das Melchiſedech mit\ndem Tod / Chriſto nit verglychet mag werden /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "so der tod mit Melchisedech nitt verglychet\nmag werden/habend wir ein ander opffer begärt zeüf\nsen vß der schrifft/das nit beschehen ist/Vnd damit be\nselchen wir es der schrifft. yy",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6051,
+        "semantic_match": "392 Die fuͤnfft\nGilg Murer. DArumb iſt es notwendig / das Melchiſedech mit\ndem Tod / Chriſto nit verglychet mag werden /",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7035,
+    "reworded": 4,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4771,

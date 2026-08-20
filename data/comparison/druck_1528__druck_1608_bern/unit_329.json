@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite CLVII\n**Schlußred.**\n\nHierumb ſin vßlegung / ſo er ſagt / der fleyſchlich ver=\nſtand ſye kein nütz/iſt ein gezwungne gloß/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6353,
+        "semantic_match": "Capitel/vnd jm gegeben ſyn aller Gewalt im Himmel\n                                                vnd",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -45,25 +48,33 @@
         "op": "match",
         "a": "wie ich üch geſagt hab. Alſo glouben vnd vertru\nwen macht vnns läbenhafftig / vnnd zeygt an den geyſt\nGottes in vnns /",
         "b": "346                Die vierdt\nvertruwen macht vns läbenhafftig / vnnd zeigt an den\nGeiſt Gottes in vns/welches ſo ein Chriſt in ſynem Her=\ntzen verſichert iſt /",
-        "similarity": 0.3043
+        "similarity": 0.3043,
+        "semantic": 0.7261,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "welches ſo ein Chriſt in ſynem hertzen\nverſichert iſt/wirt er ſich des troſt gern benügen laſſen. **Pfarrer von ſant Gallen**\n\nEſtlich vnnſere ingefürten erklärung /",
         "b": "wirt er ſich deß troſt gern benuͤgen laſ=\nſen. Pfarrer von Sant Gallen. ERſtlich vnſere ingefuͤrten erklaͤrung /",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.7363,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "über die\nangezognen wort / mit gegebner antwurt vmb\nkürtze willen beuelhen wirs den Actis / vñ dem\nChriſtenlichen läſer. **Ecolampadius.**\n\nWJr beuelhens ouch der Kilchen Chriſti/",
         "b": "uͤber die an=\ngezognen wort / mit gegebner antwurt vmb kuͤrtze\nwillen/befelchen wirs den Actis/vnd dem Chriſten=\nlichen Läſer.",
-        "similarity": 0.5106
+        "similarity": 0.5106,
+        "semantic": 0.7852,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd allen\nChriſtenlichen läſern. **Pfarrer von Sant gallen.**\n\nIn den dryen Articklen des gloubens. Namlich\ndas er ſye vffgefaren gen himlen /",
         "b": "Ecolampadius. WJr befelchens ouch der Kilchen Chriſti/vnnd allen\nChriſtenlichen Läſern. Pfarrer von Sant Gallen. VOn den dryen Articklen deß Gloubens:",
-        "similarity": 0.5238
+        "similarity": 0.5238,
+        "semantic": 0.7867,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -75,13 +86,17 @@
         "op": "match",
         "a": "ſöllen wüſſen\nalle Chriſtliche hertzen/da Chriſtus das Nacht\nmal hatt ingeſetzt mit den worten. Nemend vnd eſſend/ das iſt myn lyb/iſt er by ſynen jüngern noch vff erden ge\nweſen/vnd die himmelfart nochmals nit volfürt/dar=\numb das er gen himel geſtigen vß Göttlicher krafft /",
         "b": "Nemmend vnd eſſend/ das iſt\nmyn lyb / iſt er by ſynen Jüngern noch vff Erden geweſen/ vnnd die Himmelfart nochmals nit volfuͤrt/darumb daß\ner gen Himmel geſtigen vß Goͤttlicher Krafft/ſo er vor hat\ngeredt im ſterblichen läben /",
-        "similarity": 0.4944
+        "similarity": 0.4944,
+        "semantic": 0.8243,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ſo\ners voz hatt geredt im ſterblichen läben/nit zů entgegen\nſin kan. Siewyl vnd Chriſtus nach gemeynem vnſerm\ngloubẽ/als wir bekennẽ/jn eins ſin mit dem vatter. Jo=\nannes",
         "b": "nit zů entgegen ſyn kan: Die=\nwyl vnd Chriſtus nach gemeinem vnſerm Glouben/als\nwir bekennen / jn eins ſin mit dem Vatter/Johannis am\n10.",
-        "similarity": 0.5357
+        "similarity": 0.5357,
+        "semantic": 0.6822,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -89,7 +104,11 @@
         "b": "Capitel/vnd jm gegeben ſyn aller Gewalt im Himmel\n                                                vnd",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7394,
+    "reworded": 4,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5504,

@@ -51,7 +51,9 @@
         "op": "match",
         "a": "Seite [XXID]\n\nDie fünffte\nnielis am vij. Zeygen wir jnen an/das dasselbig aͤmpßig\nopffer/das liplich Juͤdisch opffer gewaͤsen ist im alten te-\nstament/das erfindt sich erstlich.",
         "b": "Deß spruchßhalb Da-\nnielis am xij.zeygen wir jnen an/ das dasselbig\naͤmßig opfer/ dz lyplich Juͤdisch opfer gewaͤsen\nist im alten Testament /",
-        "similarity": 0.5517
+        "similarity": 0.5517,
+        "semantic": 0.5092,
+        "reading": "check"
       },
       {
         "op": "only_b",
@@ -63,7 +65,9 @@
         "op": "match",
         "a": "Danielis am ix. vñ xj. Matthei am xxiiij. vnd Luceam xxj. sol man laͤsen. Gilg Durer. CHristus hat dise gschrifft anzogen im heyligen\nEuangelio/vnd mag nit allein verstanden wer\nden dem buͦchstaben nach/von der vffhoͤrung deß\nopffer der Juden/sonders es muͦß ouch nach dem geyst=\nlichen sinn verstanden werden/vonn der letsten zyt/das\nwil ich bewaͤre durch den vorgenanteñ Danielem am ix.",
         "b": "Gilg Murer. Christus hat dise schrifft anzogen im heyligẽ\nEuangelio/ vñ mag nit allein verstanden werdẽ\ndem buͤchstaben nach /",
-        "similarity": 0.3297
+        "similarity": 0.3297,
+        "semantic": 0.7494,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,27 +79,41 @@
         "op": "match",
         "a": "Da er spricht/das opffer wirt vffhoͤzen/vn̄ der gruͤwel d\neroͤdung wirt waͤren oder sin im tempel/vnd wirdt waͤ=\nren biß zuͤ ende.",
         "b": "das wil ich bewaͤren durch den vorge-\nnanten Danielem am ix. Da er spricht/das opf-\nfer wirt vffhoͤren/vnd der gruͤwel der eroͤdung\nwirt waͤren oder sin im tempel /",
-        "similarity": 0.5625
+        "similarity": 0.5625,
+        "semantic": 0.6545,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Hie hatt heyter geredt Daniel von den\nletsten zyten des Entchrists/vnd dann so sol eroͤdet wer\nden der tempel/daruoz vns Gott behuͤte/das wirs nitt\nanfahen by vnsern zyten.",
         "b": "vnd wirdt waͤ-\nren biß zů ende. Hie hatt heyter geredt Daniel\nvon den letsten zyten des Entchrists/ vnd dann\nso sol eroͤdet werden der tempel / daruor vnns\nGott",
-        "similarity": 0.6349
+        "similarity": 0.6349,
+        "semantic": 0.901,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Meyster Vlrich zwingli. DJe gesagte zyt bim Daniel/so sy recht vßge=\nrechnet wirt/zeygt wol an/wan̄ die gruͤwlich\nzerstoͤrung komen werd/dann heyterer pro=\nphety der zythald/wann Christus komen soͤl\noder die gruͤwlich zerstoͤrung/in dheinem Propheten ist:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7774,
+        "semantic_match": "vonn der vffhoͤrung der\nopfer der Juden / sonders es můß ouch nach dẽ\ngeystlichen siñ verstanden werden / von der let-\nsten zyt /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "das aber anzeygt ist/d verharrung halb des gruͤwels der\nzerstoͤrung/ist wider sy: dan̄ der Prophet sagt/die gru=\nsamlich zerstoͤrung werde im tempel sin/das ist so vil ge\nsagt/Der tempel wirt so grusamlich zerstoͤrt blibe/es ist\nein προσωποποιϊα: vnnd wil sagen/das der tempel so gru=\nlich",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6685,
+        "semantic_match": "vonn der vffhoͤrung der\nopfer der Juden / sonders es můß ouch nach dẽ\ngeystlichen siñ verstanden werden / von der let-\nsten zyt /",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.71,
+    "reworded": 3,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4453,

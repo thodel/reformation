@@ -45,31 +45,41 @@
         "op": "match",
         "a": "Seite [X]\nvnd gib antwurt erstlich des spruchs halbē/ der geystlich\nricht alles/zc. Diewyl wir wüssen das vnser widerpart/",
         "b": "und gib Antwort\nerſtlich deß Spruchs halben / Der geiſtlich richt alles / ꝛc. diewyl wir wiſſen / daß unſer Widerpart das urtheilen\ndahin zůhen wil /",
-        "similarity": 0.5116
+        "similarity": 0.5116,
+        "semantic": 0.5714,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "das vrteilen dahin zühen wil/ das ein gmein Concilium\nmacht hab/ etwas nebend der geschrifft anzenemen/ hab\nouch erstlich der schrifft /",
         "b": "daß ein gemein Concilium Macht habe / etwas nebend der Geſchrifft anzenemmen / hab ich auch\nerſtlich der Schrifft das Anſehen geben /",
-        "similarity": 0.5366
+        "similarity": 0.5366,
+        "semantic": 0.8003,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Das ansehen geben / so ist Billich\ngeantwurt worden/ das der geystlich die geschrifft nit ze=\nrichten hab/ das ist sins geuallens die geschrifft anzenem\nmen oder zeuerwerffen/",
         "b": "ſo iſt billich geant-\nwortet worden / daß der geiſtlich die Geſchrifft nit zerich-\nten hab / das iſt ſynes Gefallens die Geſchrifft anzenem-\nmen oder zeverwerffen /",
-        "similarity": 0.6538
+        "similarity": 0.6538,
+        "semantic": 0.7346,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "sonder er hats allein müssen an=\nnemen/ dann er åben durch den geyst sin erkantnus hatt/ durch welchen die Bibel vns geben ist /",
         "b": "ſonder er hats allein muͤſſen an-\nnemmen / dann er eben durch den Geiſt ſyn Erkantnus\nhat / durch welchen die Bibel uns geben iſt:",
-        "similarity": 0.7234
+        "similarity": 0.7234,
+        "semantic": 0.9055,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "so aber min herr\nDoctor das vrteylen verston will / wie es ouch Paulus",
         "b": "So aber myn\nHerr Doctor das urtheilen verſtohn will / wie es auch\nPaulus ſelbs brucht fuͤr erkennen / daß die Geſchrifft das\nWort Gottes fuͤrtregt /",
-        "similarity": 0.4615
+        "similarity": 0.4615,
+        "semantic": 0.8407,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -95,7 +105,11 @@
         "b": "er waͤre ſonſt nit Gott-glaͤubig / deſſen Red er nit\nwuͤßte. Hieruß folget nun / daß alle Chriſten ſamenthafft\nund ſonder alle Lehr zů urtheilen haben / wie das gar\n\tH iij\tChri-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7705,
+    "reworded": 1,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3799,

@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Die erst\nander gschrifft/das Christus nit ein einig houpt sye/dan\nob schon jr thusent ſprüch ynfurend von de leerer ampt\noder dienstbarkeyt/des worts/werdend jr doch nit pro-\nbieren/das Petrus oder yemand anders ein houpt [ye/al\nso find all yngefurt ſprüch verantwurter.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.749,
+        "semantic_match": "in eim Rych / vnd\nſo man die Glychnuß haltet gegen vnſerm handel / ſo wil er\ndamit bewåren / daß Petrus ein Diener vnd ein Houpt ſye / E",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -45,19 +48,25 @@
         "op": "match",
         "a": "Bichauatter. Udine name siisser herr Jesu Erwürdige gün\nstigen wysen Herrn / gefter han ich das erst das\nherr Berchtold iets gemeldt hatt/der dienstbar\nkeyt halb oder diener/wie sy sich dienernemen/gnügsam\nverantwurt/d3 thut ein künig ouch/ist dennocht ein kü\nnig.",
         "b": "der Dienſtbarkeit halb\noder Diener / wie sy ſich Diener nem̃en / gnůgſam verant=\nwurt / das thůt ein Künig ouch / iſt dennocht ein Künig.",
-        "similarity": 0.4478
+        "similarity": 0.4478,
+        "semantic": 0.691,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Ist nüt vnzimlich noch unmöglichsda har bracht/ ob schon einer ist/vnd genent wirt ein oberer/vn vnder-\nthon zuuergliche/nir gegen eim.",
         "b": "Jſt nüt vnzimlich noch vnmöglichs da har bracht / ob ſchon\neiner iſt / vnd genennt wirt ein Oberer / vnd Vnderthon zů=\nuerglichen /",
-        "similarity": 0.5909
+        "similarity": 0.5909,
+        "semantic": 0.7371,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Ein Herzog in eim kü\nnigrich mag genempt werde ein vnderthon. Er ist ouch\nein oberer/zuuerglichet de künig/so ist er ein vnderthon:",
         "b": "nicht gegen eim: Ein Hertzog in eim Künigrich\nmag genempt werden ein Vnderthon : Er iſt ouch ein Obe=\nrer / zůuerglichet dem Künig /",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.6657,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,19 +78,25 @@
         "op": "match",
         "a": "Süuerglicher gegen sinen onderthonen liten/so ist er eyn\noberer/vnd wirt genempt ein houpt/das ist eins. Off das ander zeant wurten/Bezüg ich/ist mir nitt\nmoglich/gloubouch das wenige möglich ordenlich in dz\nboupt zefaffen zeuerantwurte/nun sind & gründ vñ vr=\nsachen harnach volgend/",
         "b": "das iſt eins. Vff das ander zeantwurten / bezüg ich / iſt mir nicht\nmöglich / gloub ouch das wenigen möglich ordenlich in das\nHoupt zefaſſen zeuerantwurten /",
-        "similarity": 0.3944
+        "similarity": 0.3944,
+        "semantic": 0.4012,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "so vildas ich die nit wol Behal-\nren mag/Beger aber dz mir herr Berchtold die nochmals\neroffne wil ich darnach aber antwurten.",
         "b": "nun ſind der gründ vnnd\nvrſachen harnach volgend / ſo vil / das ich die nit wol behal=\nten mag / beger aber daß mir Herz Berchtold die nochmals\neröffne /",
-        "similarity": 0.56
+        "similarity": 0.56,
+        "semantic": 0.6986,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Berchtoldus. Romen Christen es hatt ein kurtzen bescheid die\nglichnus so er har fürbringt/d3 einer ein hertzog\nvnnd ein diener sye mit einandern / in eim rych\nvnd",
         "b": "wil ich darnach aber antwurten. Berchtoldus. FRommen Chriſten es hat ein kurtzen beſcheid die\nGlichnuß ſo er hår fürbringt / das einer ein Hertzog\nvnd ein Diener ſye mit einandern /",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.6853,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -89,7 +104,11 @@
         "b": "in eim Rych / vnd\nſo man die Glychnuß haltet gegen vnſerm handel / ſo wil er\ndamit bewåren / daß Petrus ein Diener vnd ein Houpt ſye / E",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6611,
+    "reworded": 2,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.567,

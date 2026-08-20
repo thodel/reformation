@@ -33,49 +33,65 @@
         "op": "match",
         "a": "Seite LXVII\n\n**Schlußred. LXVII**\n\nvnnd heyligen geyst / das sind nun dry Personen / das ist\nGott der vatter / Gott der sun /",
         "b": "Schlußred. 145\nvnnd heiligen Geiſt / das ſind nun dry Perſonen / das iſt\nGott der Vatter/Gott der Sun/ Gott der Heilig Geiſt/",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.7095,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Gott der heylig geyst/ die dry sind das recht wåsenlich houpt der Christenliche\nKilchen / die das selbig regierend / låbendig machē im lå=\nben behalten /",
         "b": "die dry ſind das recht wäſenlich Houpt der Chriſtenlichen\nKilchen / die das ſelbig regierend / läbendig machen im lä-\nben behalten /",
-        "similarity": 0.8182
+        "similarity": 0.8182,
+        "semantic": 0.7532,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd das heyl geben / darumb mag nitt ge=\nfeyt werden / das Christus sye das eynig houpt / aber wol\ndas houpt der Christenlichen Kilchen /",
         "b": "vnnd das heil geben/ darumb mag nit geſeit\nwerden / das Chriſtus ſye das einig Houpt / aber wol das\nHoupt der Chriſtenlichen Kilchen /",
-        "similarity": 0.7556
+        "similarity": 0.7556,
+        "semantic": 0.9508,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "mit gott dē vat=\nter / vnd heyligen geyst. **Zwingli.**\n\n[D]Er gůtt herr erkennt noch nit / das ob glich dry\nPersonen in der Gottheyt sind /",
         "b": "mit Gott dem Vat-\nter/vnd heiligen Geiſt. Zwingly. DEr gůt Herr erkennt noch nit / das ob glich dry Per-\nſonen in der Gottheit ſind /",
-        "similarity": 0.6
+        "similarity": 0.6,
+        "semantic": 0.6818,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "die dry Perso=\nnen / nůt desterminder ein einiger gott sye / vnd\ndas so von dem vatter geredt wirt / oder vom sun /",
         "b": "die dry Perſonen nüt\ndeſterminder ein einigen Gott ſye / vnnd das ſo von\ndem Vatter geredt wirt / oder vom Sun /",
-        "similarity": 0.7805
+        "similarity": 0.7805,
+        "semantic": 0.6136,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "oder\nvom heyligē geyst / nůtdesterminder vnder yegklichs sin\nPerson / der eynig Gott verstanden wirt / da nitt not ist\nlenger von ze sagen /",
         "b": "oder vom Heili-\ngen Geiſt/nüt deſterminder vnder jeglichs ſin Perſon/der\neinig Gott verſtanden wirt / da nit not iſt lenger von zeſa-\ngen /",
-        "similarity": 0.6087
+        "similarity": 0.6087,
+        "semantic": 0.7407,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dann es gar spåtlich wår / das man\nin der loblichē disputation / liesse sållich argwånige ar=\ngument machen die / da vnderstůnden die einigen einig=\nkeyt des einigen Gottes /",
         "b": "dann es gar ſpöttlich wär / das man in der loblichen\nDiſputation lieſſe ſöllich argwänige Argument machen/ die da vnderſtünden die einigen einigkeit deß einigen Got-\ntes /",
-        "similarity": 0.6792
+        "similarity": 0.6792,
+        "semantic": 0.4264,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "zeylen oder vil machen / dar=\numb das dry Personen sind / zc. Off sållichs ist syn argument vnkrefftig / all diewyl\ner vns nit anzeygt /",
         "b": "zeynlen oder vil machen / darumb das dry Perſonen\nſind/etc. Vff ſöllichs iſt ſyn Argument vnkrefftig / all diewyl er\nvns nit anzeigt einen /",
-        "similarity": 0.6957
+        "similarity": 0.6957,
+        "semantic": 0.9045,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -87,7 +103,9 @@
         "op": "match",
         "a": "ob wir glich diß wort / eynig vß der gschrifft Sůch hieuor\nnie bewert hettend / das doch volkomenlich in den Acta an dem 17.",
         "b": "der warer Gott vnd Menſch ſyg / ſo\nblibt für vnnd für der einig Chriſtus/das einig Houpt der\nKilchen / ob wir glich diß Wort/einig/vß der Gſchrifft\nnie bewert hettend/das doch vollkommenlich in\nden Acta beſchehen iſt.",
-        "similarity": 0.5161
+        "similarity": 0.5161,
+        "semantic": 0.5186,
+        "reading": "check"
       },
       {
         "op": "only_a",
@@ -101,7 +119,11 @@
         "b": "T\n\n## Marginalien\nSůch\nhieuor\nan dem\n36. vnd\n37.blat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6999,
+    "reworded": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6777,

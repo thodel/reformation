@@ -33,31 +33,44 @@
         "op": "only_a",
         "a": "Seite IIXXD\n\n**Die vierdt**\n\nzů der sach reden / wider den mißuerstand vnser widersächer/vnnd sag also erstlich/so veer sy mit dem ort des\nkrancken wybs.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7173,
+        "semantic_match": "die vns heyſſen oder anmůtend/ das wir\nglouben ſöllend oder müſſen/ das hie ſin fleyſch\nvnd blůt lyblich vnd wåſenlich geeſſen werd.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Luc. am viij. Cap. Vnd mit dem ort der\nsendung des heyligen geysts da fürin zungen gewesenn\nsind / in den geschichten der Apostel am .",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7101,
+        "semantic_match": "Pfarrer von Sant Gallen. Vff erfordrūg Meiſter Vlrichs/laß ich nach/ das allen worten Gottes gloubt werden ſölle/ vnd das mit rechter vßlegung vñ verglychung\nder ſchrifft/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "ij Capitel nitt\nvermeinend jr Synecdochen bewert haben. Den wil ich wyter zů jrem fürtrag reden. **Pfarrer von sant Gallen**\n\nVff den fürtrag mins lieben herrn brůders /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7461,
+        "semantic_match": "Pfarrer von Sant Gallen. Vff erfordrūg Meiſter Vlrichs/laß ich nach/ das allen worten Gottes gloubt werden ſölle/ vnd das mit rechter vßlegung vñ verglychung\nder ſchrifft/",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "hab\nich hüt mermals geantwurt / vnd ist darumb in\ndie fäder verfasset/darby laß ichs beliben. Den\nspruch vonn dem glouben des fröuwlins.",
         "b": "Schlußred. CXLV\nPfarrer von ſant Gallen. Vff den fürtrag mins lieben herren brůders/ hab ich hütt mermals geantwurt/ vñ iſt darum̃\nin die fåder verfaſſet/darby laß ichs blybē.",
-        "similarity": 0.4615
+        "similarity": 0.4615,
+        "semantic": 0.5074,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Luce am viij. Cap. verston ich ein ergebung vnsers hertzens mit hertzlichem vertruwen in Christum/vß aller siner worten. **Meister Vlrich Zwingli.+**\n\nSo veerer das vertruwen aller worten Christi\nalso verstat.",
         "b": "Den\nſpruch von dem gloubē des fröwlins/Luce am\nviij. ca. verſtan ich ein ergebung vnſers hertzēs\nmit hertzlichem vertruwen in Chriſtum/vnd al=\nler ſiner worten.",
-        "similarity": 0.4828
+        "similarity": 0.4828,
+        "semantic": 0.8394,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,7 +82,9 @@
         "op": "match",
         "a": "Das alle wort Christi Jesu vonn\nden glöubigē waar sin/gloubt werden/nach warem verstand/der vß sinen worten worte gezwungē wirt\nlaß ich das nach/so veer er aber mit den worte vermeinete/das man glouben můßte/das hie das fleysch vñ blůt\nChristi/wäsenlich/lyblich im Sacramēt můßte geessen\nwerden/so eruordern ich jnn/das er wort Christi anzeyge/die vns heyssen oder anmůten/das wir glouben sollen\noder můssen/das hie syn fleysch vnnd blůt lyblich vnnd\nwäsenlich geessen werd. Pfarrer",
         "b": "gloubt werdenn/ nach\nwarem verſtand/der vß ſinen waren worten ge\nzwungen wirt/laß ich das nach. So veer er aber\nmit den wortē vermeinte/das man gloubē můß\nte/das hie das fleyſch vnnd blůt Chriſti/wåſen=\nlich/lyblich im Sacrament můſte geeſſen wer=\nden So eruodrē ich jn/das er wort Chriſti an=\nzeygte/",
-        "similarity": 0.5286
+        "similarity": 0.5286,
+        "semantic": 0.9482,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -89,7 +104,11 @@
         "b": "dann mengs wort in der gſchrifft/ der geſtalt lutet/ wo es mit einem andren wort\nnit erklårt wirt/ trůg es mit jm ein vngeſchicktē\nſinn. Das aber ich ſölle ſchrifft bringen/in wel=\nt",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7447,
+    "reworded": 4,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5069,

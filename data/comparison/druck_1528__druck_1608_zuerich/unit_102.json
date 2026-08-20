@@ -63,13 +63,17 @@
         "op": "match",
         "a": "Seite [X]\n<div style=\"text-align: center;\">Die erſt</div>\n\nnen ouch wir uͤch aber vff ein recht verſtand/durch den\nHerren/vnnd uͤwer eygne wolfart alleyn vermercket.",
         "b": "erma=\nnen ouch wir ůch / aber vff ein rechten verſtand / durch den\nHerren / vnd ůwer eigne wolfart allein vermercket. Das diß\ndie heilig Chriſtenlich Kilch iſt /",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.5274,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Das diß die heylig Chriſtenlich Kilch iſt/dero eynig\nhoupt Chriſtus/nit der Bapſt/die vß dem wort got\ntes geboren/nit vß beſchluß der Concilien/die im ſelbi=\ngen blypt/darnach laͤbt/vnangeſehen was alle welt ſuͤſt\nthuͤt/Jr werdend vor dem richterſtuͤl Chriſti Jeſu fuͤr\nuͤch/vnd nit fuͤr andre Kilchen rechenſchafft geben muͤſ=\nſen/vnnd nit vor den Concilien/oder Baͤpſtlichen Kil=\nchen.",
         "b": "dero einig Houpt Chri=\nſtus / nit der Bapſt iſt / die vß dem Wort Gottes geboren / nit vß Beſchluß der Concilien /",
-        "similarity": 0.3158
+        "similarity": 0.3158,
+        "semantic": 0.8309,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -93,15 +97,24 @@
         "op": "match",
         "a": "Darumb wellend jr zuͤ goͤtlicher vnnd allein Be=\nſtendiger einigkeyt kommen/ſo laſſend uͤch lieben Chri=\nſten ja kein ſcharpff liſtig geſchwaͤtz der menſchen vff die\nuͤberuß haͤßlich vnd Beſudlete gmeynd der Baͤpſtlichen\nabzien/ſonders gebt rum vnnd ſtatt dem wort/deß der\nſich geſchaffen/vnnd durch das bluͤt ſines ſuns thuͤr er=\nkoufft hat.",
         "b": "ſonders gebt rum vnnd ſtatt dem\nWort deß / der ůch geſchaffen / vnnd durch das Blůt ſines\nSuns thůr erkaufft hat. Hörend nit die ſtimm der frömb=\n                                                            den /",
-        "similarity": 0.3556
+        "similarity": 0.3556,
+        "semantic": 0.7931,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Hoͤrend nit die ſtim der froͤmbdenn/die ſich\nſ",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7559,
+        "semantic_match": "die im ſelbigen blybt / dar=\nnach låbt / vnangeſechen was alle Welt ſunſt thůe / Jr wer=\ndend vor dem Richterſtůl Chriſti Jeſu für ůch /",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7268,
+    "reworded": 3,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4501,

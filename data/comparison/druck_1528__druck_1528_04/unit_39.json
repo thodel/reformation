@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Schlufzred. XII\nsymogend hõupter genempt werden / so wend wir wy=\nter lügen/wie wir im thuyend. Bucerus. Ch hab vorhin gesagt/dz die angezogne ſprüch\nvon binden vnd entbinden ouch weiden/sollend\ngnügsam verantwurt werdenn/vnnd hab ictzo\ngschifft geuordert/das der beuelch Petri in zum houpt\nder Kirché mache/die selb geschrifft hatt & Bichruatter\nnoch nit herfürbzacht/vnd mißt doch mir zu ich gebe on\ngschrifft zu/dz Saul ein houpt in Iſrahel gewesen sye/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6355,
+        "semantic_match": "vñ kein houpt: Saul aber ein houpt/ vnd bekenn daby/das der\ngeyſtlich gewalt/vnuerglychlich mer iſt/dañ der\nweltlich:",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,13 +60,17 @@
         "op": "match",
         "a": "vn Petrus aber/noch einicher Apostel/moge kein houpt\nder Kirche (nach 8 geschrifft zu rede) genempt werde/so\ndoch die gschrifft võ mir anzogé ist/d3 Petrus ein diener\ngenampt syg/vndhein houpt/Saul aber ein houpt/vn\nBekenn daby dz der geistlich gewalt/vnuerglichlich mer\nist dann der weltlich/geystlicher gewalt/aber ist über die\ngeyster/über die gemiter/den hatt Christus allein/vnd\ndienend zu solchem gewalt/die prediger des Euangeli=\nons/wolches das hochst ampt aller Apostlen gewesen ist\nallweg vnkrefftig/wo der geistlich herr sin gewalt in den\nbertzen nit erzeyget/vnd ereyget hat/darumb wander\nBichtuarter bewarenn wurd/das fant Peter oder eini-\ncher Apostel/gewalt hat/oder gehebt/die hertzen zeeнде\nren/vnd fromb zemachen/so wirt er ouch bewert haben/",
         "b": "welliches das hoͤchſt ampt aller\nApoſtlen geweſen iſt/allweg vnkreftig/wo der\ngeyſtlich Herr ſin gewallt in den hertzen nit er-\nzeygt/vnd ereyget hat :darumb weñ der Bicht-\nuatter bewaͤren wurd/das Sant Peter oder ei-\nnicher Apoſtel/gewalt hat/oder gehept/die her-\ntzen zeenderen/vnd fromm zemachen/",
-        "similarity": 0.3222
+        "similarity": 0.3222,
+        "semantic": 0.717,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "das er ein houpt der Kirchen sye/Christus ist das houpt\ndann es kan sunst niemand fromb vnd sålig machen/dan\nChristus/vin beger darum geschrifft/das Petri beuelch\nin zum houpt mache. C iiij",
         "b": "ſo wirt er\nouch bewaͤrt haben/das er ein houpt der Kilchẽ\nſye. Chriſtus iſt das houpt/ dann es kan ſunſt\nniemant frõm vnd ſaͤlig machen/dann Chriſtus:",
-        "similarity": 0.5231
+        "similarity": 0.5231,
+        "semantic": 0.8265,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -77,7 +84,11 @@
         "b": "Waͤr vm̃-\nſchweyff machet/das vrteylend die vernuͤnffti-\ngen. Jch han võ dem Regiment vñ Petro (waͤr\nmich recht verſtanden hat) von der vſſerlichẽ re-\ngierung der Kilchen/anfangs geredt/ſo kompt\nMarti Butzer haͤr võ dem jnnerlichẽ regiment.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7263,
+    "reworded": 2,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4454,

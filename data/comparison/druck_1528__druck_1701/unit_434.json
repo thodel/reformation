@@ -33,37 +33,49 @@
         "op": "match",
         "a": "Seite CCXI\nSchlußred. dann der heylig Job / wil ſin bůßuertigkeyt / nitt in das\nkűnfftig låben ſparen / vnd zeygt an / das daſelbs /",
         "b": "434         Die Sibend Schlußred. heilig Job wil syn Bůßfertigkeit nit in das künfftig Le-\nben sparen / und zeigt an / daß daselbst denen /",
-        "similarity": 0.4186
+        "similarity": 0.4186,
+        "semantic": 0.6584,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "denen\nſo hie vnbůßuertig ſind / ein ewiger grůwel vorhanden / das heyßt nit das ſågſůr. Meyster Hans Dannberger. Ich laß es bliben /",
         "b": "so hie un-\nbůßfertig sind / ein ewiger Greuel vorhanden / das heißt\nnit das Fägfür. Meister Hans Mannberger. JCh laß es blyben /",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.855,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "wie ich es ingefůrt hab / vnd beuilh\nes der gſchrifft. Meyster Vlrich Zwingli. DAls niemand zů himel kom̃ / dann der ane maſen ſye\nlaſſen wir nach:",
         "b": "wie ich es yngefůhrt hab / und be-\nfihl es der Geschrifft. Meister Ulrich Zwingly. DAß niemand zů Himmel komm / dann der ohne\nMasen seye /",
-        "similarity": 0.48
+        "similarity": 0.48,
+        "semantic": 0.6728,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "aber die reinikeit kompt nit vß vn\nſerm låben / oder lydẽ / ſond gott iſt / der da gerecht macht\nzun Rõmern am viij.",
         "b": "lassen wir nach / aber die Reinigkeit\nkommt nit vß unserm Leben oder Lyden / sonder Gott\nist / der da gerecht macht /",
-        "similarity": 0.5238
+        "similarity": 0.5238,
+        "semantic": 0.6438,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Bůchstab. Vff den anfang / von herrn Berchtolden hůt in=\ngefůrt / antwůrt ich kůrtzlich alſo / wie Chriſtus\nvnſer eynig gnůg tůn ſye /",
         "b": "zun Rỏmern am 8. Bůchstab. VUf den Anfang / von Herzen Berchtolden hůtt yn-\ngefůhrt / antwort ich kurtzlich also / wie Christus un-\nser einig Gnůgthůn seye /",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.9076,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "iſt in der drittẽ ſchluß\nred / gnůgſam verantwurt. Es ſpricht ſant Paulus in\nder erſten Epiſt. zun Corinth. am vj.",
         "b": "ist in der dritten Schlußred\ngnůgsam beantwortet. Es spricht Sant Paulus in\nder I. Epistel zun Corinthern am 6. deßglycken zun\nGalathern am 5.",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.8665,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -75,19 +87,25 @@
         "op": "match",
         "a": "nyd / zanck / haß / zc. anhangen: das ſolche / das rich der himlen nit beſitzẽ wer\nden. So ſpricht Chriſtus. Math. am vij.",
         "b": "Capitel / daß die / so den Sünden deß\nFleisches / als da sind Hůrey / Gytigkeit / Unluterkeit / Nyd / Zanck / Haß / ꝛc. anhangen / daß solche das Rych\nder Himmlen nit besitzen werden.",
-        "similarity": 0.3265
+        "similarity": 0.3265,
+        "semantic": 0.6986,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Das man rech\nnung můſſe geben / von eynẽ yeden vnnůtzen wort. Nun\niſt nit ein yecklich vnnutz wort / ein houptſůnd /",
         "b": "So spricht Christus\nMatthei am 12. daß man Rechnung můsse geben von\neinem jeden unnůtzen Wort. Nun ist nit ein jeglich un-\nnůtz Wort ein Haubtsünd /",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.551,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "darumb\nouch / ettlich vnnůtze wort / dienit houptſůndẽ ſind / ab=\ngereyniget můſſen werden: dann Eſaias ſpricht. xxv. Der wåg wirt heylig genempt /",
         "b": "darum auch etliche unnůtze\nWort / die nit Haubtsünden sind / abgereiniget můssen\nwerden: Dann Esaias spricht am 35. Cap. Der Weg\n                                                                            wird",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.6854,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -95,7 +113,11 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7266,
+    "reworded": 5,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5122,

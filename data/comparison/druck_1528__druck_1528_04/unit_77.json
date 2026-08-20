@@ -57,55 +57,77 @@
         "op": "match",
         "a": "Seite XXXI\n**Schlußred.**\nGottes gehebt habe/ den allegloͤubigen noch huͤt by tag\nhabend/ dañ Eusebius d vor d zyt Constantini des groſ\nſen geſchriben hat/",
         "b": "ſo aͤben\nden geyſt Gottes gehept hand/den alle gloͤubi=\ngen noch hüttbytag habend: Dañ Euſebius der\nvor der zyt Conſtantini des groſſen/geſchribenn\nhat/meldet im Bůch /",
-        "similarity": 0.386
+        "similarity": 0.386,
+        "semantic": 0.8365,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "meldet im buͦch Eccleſiaſtica Hiſtoria: genent\nim dritten buͦch im xxvj. Capi. Das ouch die alten/ die\nander Epiſtel Petri/",
         "b": "Eccleſiaſtica Hiſtoria/ ge\nnennet im Dritten Bůch im xxvj. cap. Das ouch\ndie alten/die ander Epiſtel Petri/die Epiſtel Ja\ncobi/Apocalipſin Joānis/",
-        "similarity": 0.6087
+        "similarity": 0.6087,
+        "semantic": 0.8307,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "die Epiſtel Jacobi/ Apocalipſin\nJoannis/ nit des werdes gehalten habe/ wie die andern/ als die vier Euangelien/ vnnd viij. Epiſtel Pauli/",
         "b": "nit des wårts gehal\nten haben/ wie die anderen/ als die vier Euange\nlien/vnd xiiij. Epiſtel Pauli/ die erſt Petri vnnd\nJohannis.",
-        "similarity": 0.4091
+        "similarity": 0.4091,
+        "semantic": 0.6754,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "die\nerſt Petri vnd Joannis/ diewyl dann niemand Chriſti\niſt. Er hab dann ſin geyſt/ zun Rhoͤmern am viij.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7608,
+        "semantic_match": "dann alle Chriſten/das iſt/die Chriſti ſind/ ouch\ngeyſtlich ſind: dann ſy den geyſt Chriſti hannd/ zun Römern am viij.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Cap. Vnd wir Chriſti ſind/ ſin geyſt/ deßhalb haben/ So moͤ\ngen wir aͤben die warheyt wie die alten/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7736,
+        "semantic_match": "dann alle Chriſten/das iſt/die Chriſti ſind/ ouch\ngeyſtlich ſind: dann ſy den geyſt Chriſti hannd/ zun Römern am viij.",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "durch den ſelben\neinigen geyſt erkennen vnd vrteylen/ an welcher vrteyl/ ſo min herr Doctor vaͤl hett/ iſt entgege die Goͤttlich ge\nſchrifft/",
         "b": "Diewyl dann niemand Chriſti iſt/ er\nhab dann ſin geyſt/zun Römern am viij. ca. Vñ\nwir Chriſti ſind/ ſin geyſt deßhalb haben/ſo moͤ\ngen wir eben die warheyt wie die altē/durch den\nſelben einigen geiſt erkennen vñ vrteylen/an wel\ncher vrteyl/ſo min herr Doctor vål hett/iſt enge\ngen die goͤttlich geſchrifft/",
-        "similarity": 0.4096
+        "similarity": 0.4096,
+        "semantic": 0.3565,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "die alles guͦts leret/ in der andern Epiſtel Paule\nzun Timotheo am iij. Cap. Daruß mag er wol darthon\nob wir menſchlich oder geiſtlich in dem vall vrtheilen/",
         "b": "die alles gůts leret/in\nder anderen Epiſtel Pauli zum Thimotheon iij. ca. Daruß mag er wol darthůn/ ob wir mēſch=\n                                e   ij",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.4953,
+        "reading": "check"
       },
       {
         "op": "only_a",
         "a": "Den anderen ſpruch betreffend/ das min bruͤder Capito\ngeſagt hatt/ er lure von vrteyl uͤber die ſuͤnd/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7112,
+        "semantic_match": "wie mans nempt/verfaſſet ſind. Sag ich daruf/ das mer dann vor thuſent jar der ſelbig vnder=\nſcheyd vnd vrteyl gemacht iſt/durch die/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "hat er nit\nan geſchrifft geredt/ das es mit ſchlechtem neyn verant=\nwurtet moͤg werden wie jn des min herr Doctor anzoge\nhat/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7077,
+        "semantic_match": "capit. Das aber min herr\nDoctor vns anzogē hat/ als ob wir vnbillich ein\nvnderſcheid der bůcher/ſo im nüwen Teſtamēt/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -117,13 +139,19 @@
         "op": "only_a",
         "a": "wiewol\ndie gſchrifft erheyſcht/ vñ meint aber daby/ was ſchwaͤrs\nmoͤge dem nechſten leyde begegnen/ dann ſo er von eyni=\nkeit vnſers vnbemaßgoten gloubens abriſſe/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7374,
+        "semantic_match": "Schlußred. XXXV\ndeß red er nit wüßte. Hieruß volget nun/das al\nle Chriſten ſamenthafft/ vnnd ſonder alle leer zü\nvrteylen haben/wie das gar Chriſtenlichenn ein\nKilch von Bernn/vff diß mal fürgenōmen hat/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "das geſton\nich jm nun gern/ ich bit aber jn vñ all gemeind/ das man\nwol daruff ſeche/ wer doch die ſyend/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6548,
+        "semantic_match": "Schlußred. XXXV\ndeß red er nit wüßte. Hieruß volget nun/das al\nle Chriſten ſamenthafft/ vnnd ſonder alle leer zü\nvrteylen haben/wie das gar Chriſtenlichenn ein\nKilch von Bernn/vff diß mal fürgenōmen hat/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -135,9 +163,16 @@
         "op": "only_a",
         "a": "alſo moͤgen ſy ſchwaͤrlicher nit verletz\nwerde/ dañ ſo ſy jm glouben verirret werde: wir wyſend\naber zum glouben in vnſern Herrn Jeſum Chriſtum\n☙ iij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7358,
+        "semantic_match": "Schlußred. XXXV\ndeß red er nit wüßte. Hieruß volget nun/das al\nle Chriſten ſamenthafft/ vnnd ſonder alle leer zü\nvrteylen haben/wie das gar Chriſtenlichenn ein\nKilch von Bernn/vff diß mal fürgenōmen hat/",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.6896,
+    "reworded": 9,
+    "recovered_by_embedding": 7,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3441,

@@ -39,55 +39,75 @@
         "op": "only_a",
         "a": "den Christen aber den dienst\nGöttliches worts. Also findt es sich selbs an\nsprüchen / vom spruch in den geschichten der Apostel am\nxx.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7407,
+        "semantic_match": "vngerimt iſt aber / daß der Senger ſagt/ Chriſtus ſye\nnach der Menſcheit vnd ſinem Lyden / nit vor der Kilchen\ngeweſen /",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Cap. ist erst gesagt. Sich hieuor\nam 63. blatt. ***\n**Senger.**\n\nITem als herr Berchtold meint diser spruch zun\nEphesern am v.",
         "b": "Schlußred. 139\nSenger. JTEm als Herr Berchtold meint diſer Spruch zun\nEpheſ. am 5. cap. Von mir angezogen zebewyſen geiſt-\nliche Oberkeit ſye wider mich /",
-        "similarity": 0.3913
+        "similarity": 0.3913,
+        "semantic": 0.8486,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Capitel. Von mir angezogen\nzebewysen geystliche oberkeyt sye wider mich / so\ndoch daby stat / das Christus sye ein behalter der Kilch=\nen /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7285,
+        "semantic_match": "vngerimt iſt aber / daß der Senger ſagt/ Chriſtus ſye\nnach der Menſcheit vnd ſinem Lyden / nit vor der Kilchen\ngeweſen /",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnd aber ich das vßgelassen hab / vnd allein das an=\ngezogen / die wyber söllen jren mannen gehorsamen vnd\nvnderthänig sin als eine herrn /",
         "b": "ſo doch daby ſtat / das\nChriſtus ſye ein Behalter der Kilchen / vnnd aber ich das\nvßgelaſſen hab/vnd allein das angezogen/die Wyber ſoͤllen\nyren Mannen gehorſamen vnd vnderthaͤnig ſin als einen\nHerren /",
-        "similarity": 0.5172
+        "similarity": 0.5172,
+        "semantic": 0.8858,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dañ o mañ ist ein houpt\nder frouwen / also ist ouch Christus ein houpt der Kilche\nAntwurt ich / dz ich durch disen spruch allein hab wellen\nanzeygen /",
         "b": "dann der Mann iſt ein Houpt der Frouwen / al-\nſo iſt ouch Chriſtus ein Houpt der Kilchen: Antwurt ich/ das ich durch diſen Spruch allein hab wellen anzeigen/",
-        "similarity": 0.7273
+        "similarity": 0.7273,
+        "semantic": 0.8433,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das houpt syn / oberer sin / vñ herr sin / eins für\ndas ander möge genomen werdẽ / hab damit Christo nit\nwellen abrechen /",
         "b": "das Houpt ſyn/ Oberer ſin/vnd Herr ſin / eins fuͤr das an-\nder moͤge genommen werden / hab damit Chriſto nit wel-\nlen abrechen/daß er nit ſig ein Behalter der Kilchen /",
-        "similarity": 0.5185
+        "similarity": 0.5185,
+        "semantic": 0.9404,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das er nit sige ein behalter der Kilchen / dann ich das in die ewigkeyt wil bekennen. ***\n**Berchtoldus.**\n\nVJr haben nun offt /",
         "b": "dann\nich das in die ewigkeit wil bekennen. Berchtoldus. WJr haben nun offt / das Chriſtus das Houpt der\nKilchen ſye /",
-        "similarity": 0.5366
+        "similarity": 0.5366,
+        "semantic": 0.5896,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "das Christus das houpt der\nKilchen sye / Christus ist aber nitt nur mensch\nsonder ouch gott / darumb v̄ns beuyler hat /",
         "b": "Chriſtus iſt aber nit nur Menſch ſon-\nder ouch Gott/darumb vns beunlet hat/das Mei-\nſter Niclaus geſagt / Chriſtus ſye der Kilchen yngelybet\nworden /",
-        "similarity": 0.3913
+        "similarity": 0.3913,
+        "semantic": 0.9074,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dz\nMeyster Niclaus gesagt / Christus sye der Kilchen inge=\nlybet worden / als ob die Kilch vor Christo wer gewesen\nder doch der eingeborn ist aller Creaturen / zun Colossen.",
         "b": "als ob die Kilch vor Chriſto wer gewaͤſen der doch\nder eingeborn iſt aller Creaturen/ zun Coloſſenſ. am erſten\ncap.",
-        "similarity": 0.6122
+        "similarity": 0.6122,
+        "semantic": 0.7941,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -101,7 +121,11 @@
         "b": "vnnd ſagt ouch/ ſy ſye formiert worden ein vnuer-\nmaßgote Eua / als Chriſtus am Cruͤtz alles erfuͤllt / vnnd\nS\tij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8087,
+    "reworded": 4,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5721,

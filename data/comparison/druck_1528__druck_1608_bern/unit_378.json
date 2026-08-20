@@ -45,7 +45,9 @@
         "op": "match",
         "a": "Seite LXXI\nDie fünffte\nlich opffer: dañ wiewol es nit stadt mit vßgetrucktẽ wor\nten im heyligen Euangelio/oder in anderen schrifftẽ/jr\nsöllend Christum vßopfferen/in der Måß/",
         "b": "Gilg Murer. DIe widergedechtnuß Chriſti/ſyns lydens vnd ſter=\nbens/mag genant werden/nach der Schrifft/ein\ntäglich Opffer: dann wiewol es nit ſtadt mit vß=\ngetruckten worten im Heiligen Euangelio/oder in ande=\nren Schrifften/yhr ſöllend Chriſtum vffopfferen/in der\nMäß/ſo haben wir doch deß gůte zügnuß/in den Geſchich=\nten der Apoſtlen/am 13.",
-        "similarity": 0.3678
+        "similarity": 0.3678,
+        "semantic": 0.8523,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -57,25 +59,35 @@
         "op": "match",
         "a": "Vnd so die selbigen geopffret hand\nGott dem Herren/vnd hand gefastet/hat gesprochen\nder heylig geist. Sůndret mir Barnabam vnd Saulũ/",
         "b": "Capitel/ſtadt alſo: Es ſind etlich\ngſin in der Kilchen zü Antiochia/ꝛc. Vnd ſo dieſelbigen\ngeopffret hand Gott dem Herren/vnd hand gefaſtet/hat\ngeſprochen der Heilig Geiſt.",
-        "similarity": 0.549
+        "similarity": 0.549,
+        "semantic": 0.723,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "in dz werck/zů welchem ich sy berůfft hab. Hie mag nit\nanders förmklich nach der schrifft dargeben werden/als\nwir hoffen/dann allein das opffer der Måß.",
         "b": "Sündert mir Barnabam\nvnd Saulum/in das Werck/zü welchem ich ſy berüfft hab. Hie mag nit anders förmklich nach der Schrifft dargeben\nwerden/als wir hoffen/dann allein das Opffer der Mäß. Bußer\n\n## Marginalien\nSůch\nhievor\nam 213. blat.",
-        "similarity": 0.7941
+        "similarity": 0.7941,
+        "semantic": 0.8154,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Butzer\n[I]ch stadt der Silogismus/dz nüt geopfrer wer\nden mag. Darum ob schon schrifft vßbracht wer\nden möchte/die glych die widergedächtnuß ein\nOpffer nennet/das doch gar nit ist/noch deßocht möchte\nman nit sagẽ/eygenlich daruon zů reden/das die Måß=\nmacher opffreten.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6565,
+        "semantic_match": "heiſſt in nit wider vffopfferen: vn̄ vff vnſeren Sillo=\ngiſmum/haben wir noch kein antwurt. Wi man\ndeß Lydens Chriſti durch den Glouben/vnd nit die Mäß\nteilhafftig werden můß/iſt by dem dritten Artickel gnůg=\nſam erklärt.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Das ort xiij. Actorum/angezogen/dz\nlutet also: Alls sy aber dem herren dieneten vnd fastete/ stadt nit/Opffreten. Sann Grece habe wir/λειτουργούντωρ\ndz heyßt nit/Alls sy opffrete.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7076,
+        "semantic_match": "heiſſt in nit wider vffopfferen: vn̄ vff vnſeren Sillo=\ngiſmum/haben wir noch kein antwurt. Wi man\ndeß Lydens Chriſti durch den Glouben/vnd nit die Mäß\nteilhafftig werden můß/iſt by dem dritten Artickel gnůg=\nſam erklärt.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -87,9 +99,16 @@
         "op": "only_a",
         "a": "Der glychen\nhaben wir zun Römern/von dem weltlichen gwalt/das\ner ein dienerin sye des Herren. Zů den Römern xiij. da\nhaben wir ouch λειτουργοί. Gilg Wurer\nDas",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6071,
+        "semantic_match": "heiſſt in nit wider vffopfferen: vn̄ vff vnſeren Sillo=\ngiſmum/haben wir noch kein antwurt. Wi man\ndeß Lydens Chriſti durch den Glouben/vnd nit die Mäß\nteilhafftig werden můß/iſt by dem dritten Artickel gnůg=\nſam erklärt.",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.727,
+    "reworded": 4,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3814,

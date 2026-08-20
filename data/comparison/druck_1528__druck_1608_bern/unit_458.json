@@ -39,19 +39,27 @@
         "op": "only_a",
         "a": "die frouwen vnd ander ein mitleiden gehept haben/das\nſind aber die wort Pauli. Ir brüder/wir ſöllen üch von\nden abgeſtorbnen wyſen/vff das ir nit truren ꝛc.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7981,
+        "semantic_match": "Berchtoldus. EIn lange red/one Schrifft harin gefuͤrt/bedarff kei=\nner antwurt. Paulus verbuͤt zun Theſſalonicenſern/ ein vngloͤubig truren/deren die kein hoffnung haben\ndeß kuͤnfftigen Laͤbens.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Paulus\nlegt hie vß die vrſtende/das wir nitt alſo ſöllen truren\nvmb die todten/als die Heyden thäten/die nit glouben/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8106,
+        "semantic_match": "Berchtoldus. EIn lange red/one Schrifft harin gefuͤrt/bedarff kei=\nner antwurt. Paulus verbuͤt zun Theſſalonicenſern/ ein vngloͤubig truren/deren die kein hoffnung haben\ndeß kuͤnfftigen Laͤbens.",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "die vrſtende des lybs: vnnd verbütet nit/das man für\ndie abgeſtorbnen/nit ſölle bätten. Berchtoldus+\nIn lange red/ane gſchrifft harin gefürt/Bedarff\ndheiner antwurt.",
         "b": "496 Die ſibend\ndie vrſtende deß Lybs: vnd verbuͤtet nit/das man fuͤr die\nAbgeſtorbnen nit ſoͤlle baͤtten.",
-        "similarity": 0.375
+        "similarity": 0.375,
+        "semantic": 0.5955,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -63,13 +71,17 @@
         "op": "match",
         "a": "Paulus verbüt zun Theſſa=\nlonicenſern/ein vnglöubig trurē/deren die dhein\nhoffnung haben des künfftigen läbens. Siewil aber wir\nglouben/das Chriſtus vom tod erſtanden iſt/vnnd wir\nin Chriſto werden vfferſton/vnnd alſo by dem Herren\nſin alle zyt/ſo ſöllen wir vns mit diſen worten/vnderein=\nandren tröſten/wie Chriſtenliche liebe vordert/ſo veer\ndas wir nit in vnglouben fallen/vnd iſt darumb nit wi=\nder die Exempel/durch den ſchülmeyſter angezogen.",
         "b": "Diewyl aber wir glouben/das\nChriſtus vom Tod erſtanden iſt/vnd wir in Chriſto wer=\nden vfferſton/vnd alſo by dem Herren ſyn allezyt/ſo ſoͤllen\nwir vns mit diſen worten/vndereinanderen troͤſten/wie\nChriſtenliche liebe vordert/ſo veer das wir nit in vnglou=\nben fallen/vnd iſt darumb nit wider die Exempel/durch\nden Schulmeiſter angezogen.",
-        "similarity": 0.6466
+        "similarity": 0.6466,
+        "semantic": 0.8875,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Büchſtab\nD Je hoffnung/vonndero Paulus hie ſagt/iſt de=\nnen ſo im fágfür ſind/nitt abgeſchlagen/vnd iſt\nherr Berchtolden ingefürte red/gar nüt wider\nmich/dann wir hoffnung haben/darumb wir für ſy bit=\nten/ſy ſyen der vſſerwelten. Berchtoldus",
         "b": "Buͤchſtab. DIe Hoffnung/von dero Paulus hie ſagt/iſt denen\nſo im Faͤgfuͤr ſind/nit abgeſchlagen/vnd iſt Herr\nBerchtolden yngefuͤrte red/gar nuͤt wider mich/",
-        "similarity": 0.4658
+        "similarity": 0.4658,
+        "semantic": 0.8916,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -83,7 +95,11 @@
         "b": "Das welcher gloubt in Chriſtum Jeſum/werde nit\nkommen in das Gericht/ſonder vom Tod zum Laͤben\nhin=\n\n## Marginalien\nSuͦch\nhievor\nam 465. vnd 466\nblat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7967,
+    "reworded": 3,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4589,

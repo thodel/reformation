@@ -39,7 +39,10 @@
         "op": "only_a",
         "a": "Sind jr nitt min werck in Gott dem\nherrn / Das fhür iſt anfaͤchtung / verfolgung / vñ durch=\nachtung / welche heylſam iſt allen gloͤubige.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6797,
+        "semantic_match": "Berchtoldus. DEr Schuͦlmeiſter klagt ſich einer Gloß / uͤber den\nSpruch Pauli yngefuͤhrt / ſo doch nuͤt anders /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -69,37 +72,50 @@
         "op": "only_a",
         "a": "alſo iſt vß dem text Pauli ſelbs / heyter\nvnd klar / das er nitt vom faͤgfůr redt / ſonder von dem\nfür der veruolgung /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7968,
+        "semantic_match": "Berchtoldus. DEr Schuͦlmeiſter klagt ſich einer Gloß / uͤber den\nSpruch Pauli yngefuͤhrt / ſo doch nuͤt anders /",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vmb der leer willen. Vff den rriiij. tag Jenners\nBůchſtab. [D]Ie gloß über den ſpruch Pauli / geſteren vnges\nfürt /",
         "b": "442       Die Sibend Schlußred. Vff den 24. Tag Jenners. Buͦchſtab. DIe Gloß uͤber den Spruch Pauli / geſteren ynge-\nfuͤhrt /",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.704,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "nim ich nitt an / wann Paulus hie heyter\nſprichtꝛ. Der tag des herren / wirt das erklaͤren / nun iſt der tag des herrn /",
         "b": "nimm ich nit an / wann Paulus hie heiter\nſpricht: Der Tag deß Herren wird das erklaͤren / nun\niſt der Tag deß Herren nuͤt anders /",
-        "similarity": 0.6122
+        "similarity": 0.6122,
+        "semantic": 0.8947,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "nüt anders / dann der abſcheyd\nvon diſer zyt / von dem Paulus ouch ſagt.j. Theſſalo. v. Das der tag des herren werde kommen /",
         "b": "dan der Abſcheid\nvon diſer Zyt / von dem Paulus auch ſagt I. Theſſ. 5. Daß der Tag deß Herren werde kommen wie ein Dieb\nin der Nacht /",
-        "similarity": 0.56
+        "similarity": 0.56,
+        "semantic": 0.8793,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "wie eyn dieb in\ndernacht.zc. Darumb ich hie / by dem bloſſen Text bly=\nben / ob mir aber ein gloß wurde notürfftig ſin /",
         "b": "ꝛc. Darum ich hie by dem bloſſen Text\nblyben / ob mir aber ein Gloß wurde nohtduͤrfftͤig ſyn / wurde ich by dero blyben /",
-        "similarity": 0.5106
+        "similarity": 0.5106,
+        "semantic": 0.6845,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "wurde ich\nby dero blyben / die in dryen teylen der welt / als in Aſia in\nAffrica vnd Europa / ob den tuſent Jaren / gebrucht iſt\nworden. Berchtoldus",
         "b": "die in dreyen Theilen der\nWelt / als in Aſia / in Africa und Europa ob den tuſend\nJahren gebrucht iſt worden.",
-        "similarity": 0.6522
+        "similarity": 0.6522,
+        "semantic": 0.736,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -137,7 +153,11 @@
         "b": "wie\ner ein Werck Gottes ſeye. So aber der Herz uns beſuͤcht\nmit dem Cruͤtz / ſo werden die Gedancken unſers Hertzens\noffge-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7679,
+    "reworded": 3,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2879,

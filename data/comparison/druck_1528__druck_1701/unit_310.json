@@ -45,37 +45,50 @@
         "op": "only_a",
         "a": "ob ſy erkennind/ das die\nvergeblich nachlaſſung der ſünd das Teſtament ſye. Pfarrer von ſant Gallen. MInes verſtands iſt vor gnůg geantwurt/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6711,
+        "semantic_match": "Zwingly. SO folget nun / daß die Wort: Das Tranck iſt das\nNeu Teſtament / nit müſſend ſchlaͤchtlich noch we-\nſentlich verſtanden werden / ſonder das per Methonymiam,\ndas",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "das das\nnüw Teſtament ſye verzychung der ſünd. Zwingly. NUn frag ich ſy/ ob zwey Nüwe teſtament ſyend oder\nnun eins.",
         "b": "306        Die Vierdte Schlußred. =========================================\nZwingly. NVn frag ich ſy / ob zwey Neue Teſtament ſeyend/ oder nur eins. Pfarrer. Antworte ich:",
-        "similarity": 0.439
+        "similarity": 0.439,
+        "semantic": 0.6792,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Pfarrer. Antwurt ich: Es iſt allein ein Nüw teſtament. Zwingli. So volgt/ dz kein tranck dz Nüw teſtamẽt ſin mag.",
         "b": "Es iſt allein ein Neu Teſtament. Zwingly. SO folget / daß kein Tranck das Neu Teſtament ſyn\nmag. Pfarrer von Sant Gallen.",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.3976,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Pfarrer von ſant Gallen. ANtwurt ich/ kein tranck vermag das Nüw teſta=\nment ſin/ Aber das blůt Chriſti wie er geredt hatt\ndurch Mattheum.",
         "b": "ANtwort ich / kein Tranck vermag das Neu Teſta-\nment ſyn / aber das Blüt Chriſti / wie er geredt hat\ndurch Mattheum :",
-        "similarity": 0.7273
+        "similarity": 0.7273,
+        "semantic": 0.7054,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Das iſt min blůt des Nüwen teſta=\nments/ vnd Lucas ouch ſagt in minem blůt/ zc. Zwingli\nDAs ſind jr einige wort/",
         "b": "Das iſt myn Blüt deß Neuen Te-\nſtaments / und Lucas auch ſagt / In mynem Blüt/ꝛc. Zwingly. DAs ſind ihr eigene Wort/",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7155,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "kein tranck mag das Nüw\nteſtament ſin/ das blůt Chriſti iſt ein tranck (alß\npp",
         "b": "kein Tranck mag das Neu\nTeſtament ſyn/ das Blüt Chriſti iſt ein Tranck (als\nſy reden) ſo můß das Blüt Chriſti nit das Neu Teſta-\nment ſyn.",
-        "similarity": 0.5238
+        "similarity": 0.5238,
+        "semantic": 0.5508,
+        "reading": "check"
       },
       {
         "op": "only_b",
@@ -89,7 +102,11 @@
         "b": "Zwingly. SO folget nun / daß die Wort: Das Tranck iſt das\nNeu Teſtament / nit müſſend ſchlaͤchtlich noch we-\nſentlich verſtanden werden / ſonder das per Methonymiam,\ndas",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6199,
+    "reworded": 2,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3865,

@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite IIX\nDie ander\nBestanden/oder jr widerspråchend. Ir sechend ouch/wie\nsich die/so die artickel für güt bekennen/so trüwlich zůsa\nmen halten/darum bitt vñ erman ich üch abermals vmb\ngots willen/jr die widerspråcher/wellend üch ouch zůsa=\nmen thůn/einandern trostlich sin/mit hilff/radt/schrybē\nvnd reden/das werden vnser gnådig herren/zum höch=\nsten wol vergüt/vñ als ein gnådig wolgefallē/mit groſ\nser danckbarkeit annemen/doch das dz allweg bescheche\nnach ordnung/jnnhalt vnd anwysen des Christenlichen\ndarumb angesåchnen Mandats.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7098,
+        "semantic_match": "Schlußred. 179\nlen/ ir die widerſpraͤcher/wellend uͤch ouch zuͦſammenthuͦn/ einandern troͤſtlich ſin / mit hilff/",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,19 +60,25 @@
         "op": "match",
         "a": "Allerius Grad/bychschåtter in der\nInsel/Prediger ordens. IN dinem namen herr Jesu Christ. Ersamē/wy\nsen/günstigē lieben herren/Die ander schlußred/",
         "b": "Alexius Grad/Bychtuatter in der Jn-\nſel/Prediger Ordens. IN dinem namen Herr Jeſu Chriſt. Erſamen/wyſen/ guͤnſtigen lieben Herren /",
-        "similarity": 0.5909
+        "similarity": 0.5909,
+        "semantic": 0.8371,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "yetzt etlich zyt disputiert/die selbig hat nach mi\nnem vstand/zwen teyl. Der erst/Die Kilch Christi ma\ncher nit gesetzt noch statuten one das gottes wort.",
         "b": "Die ander Schlußred/jetzt\netlich zyt diſputiert / die ſelbig hat nach minem ver-\nſtand/zwen teil. Der erſt/Die Kilch Chriſti machet nit ge-\nſetzt noch ſtatuten one das Gottswort.",
-        "similarity": 0.6207
+        "similarity": 0.6207,
+        "semantic": 0.8281,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Diſen\nteyl halt ich für war. Den andren teyl/der da lutet/das\ndaruß volg vnd beschåche/das alle menschlich satzungē/",
         "b": "Diſen theil halt ich\nfuͤr war. Den andren teil/der da lutet/ das daruß volg vnd\nbeſchaͤche / das alle menſchlich ſatzungen /",
-        "similarity": 0.7273
+        "similarity": 0.7273,
+        "semantic": 0.9312,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -81,27 +90,39 @@
         "op": "match",
         "a": "die von vns/der Kilchen gebot genant sind/vnser con=\nscientz nit anders binden/dann als vil sy im gotswort ge\ngründt sind/oder gebotten/den selben gib ich ouch zů/in\nrechtem gesundem verstand/den selben verstand recht ze\nsůchē/söllen wir gan in die schrifft.",
         "b": "oder ge-\nbotten/den ſelben gib ich ouch zuͦ/in rechtem geſundem ver-\nſtand / den ſelben verſtand recht zeſuͦchen/ſoͤllen wir gan in\ndie Schrifft.",
-        "similarity": 0.5135
+        "similarity": 0.5135,
+        "semantic": 0.7322,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Nun stadt Joan. xvj. Ich hab üch noch vil zesagē/jr mögends aber yetz nit tra\ngen: wenn aber der geist der warheit komen wirt/so wirt\ner üch leren alle warheit:",
         "b": "Nun ſtadt Joan. 16. Jch hab uͤch noch vil ze-\nſagen/ir moͤgends aber jetz nit tragen: wenn aber der Geiſt\nder Warheit kommen wirt /",
-        "similarity": 0.5424
+        "similarity": 0.5424,
+        "semantic": 0.8005,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dann er wirt nit reden von jm\nselbs/aber er wirdt reden alles das er wirt hören/vnnd\nwirt üch vkůnde die ding/die künfftig sind.",
         "b": "ſo wirt er uͤch leren alle War-\nheit:dann er wird nit reden von im ſelbs/aber er wird reden\nalles das er wirt hoͤren /",
-        "similarity": 0.5283
+        "similarity": 0.5283,
+        "semantic": 0.7498,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Disen geist\nvnnd lerer/hat Christus vnser Herr/siner Kilchen/nit",
         "b": "vnd wirt uͤch verkuͤnden die ding/ die kuͤnfftig ſind. Diſen Geiſt vnd Lerer hat Chriſtus vn-\nZ ij",
-        "similarity": 0.3125
+        "similarity": 0.3125,
+        "semantic": 0.7741,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7954,
+    "reworded": 2,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5959,

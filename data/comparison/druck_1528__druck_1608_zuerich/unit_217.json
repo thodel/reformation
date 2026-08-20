@@ -45,25 +45,33 @@
         "op": "match",
         "a": "Seite CI\n**Schlußred.** **CI**\nGottes. Er spricht aber witer/zun Römeren am ij cap. Nit die da hören das gesetz/sind gerecht vor Gott/sun=\nder die thüyer/werden gerecht gemacht.",
         "b": "Nit die da hỏ-\nren das geſatz / ſind gerecht vor Gott / ſunder die thůyer\nwerden gerecht gemacht. In wellichen worten er wol ſpüren\nmag /",
-        "similarity": 0.4727
+        "similarity": 0.4727,
+        "semantic": 0.6428,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "In weliche woz=\nten er wol spürẽ mag/das wir zů der gnad Gottes/vnß\nsöllen schicken zů den wercken:dan als Jacobi stadt/das\nder gloub ane die werck tod ist/der da ouch ein gnad/vn̄\nein vngößne gaab ist/etc.",
         "b": "das wir zů der gnad Gottes / vns ſỏllen ſchicken zů\nden Wercken:dann als Jacobi ſtadt / das der gloub ane die\nWerck todt iſt/der da ouch ein gnad /",
-        "similarity": 0.7222
+        "similarity": 0.7222,
+        "semantic": 0.8707,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "**Herr Poley.**\nALles so herr Pfarrer geredt hatt/ist alles vffge= Süch hienor\nlößt vnd erklärt/durch der predicanten vn̄ an= am.94.vnd 96\ndrer antwurt/Darum referieren wirs ad acta.",
         "b": "vnd ein yngoßne gaab\niſt/etc. Herr Poley. ALles ſo Herr Pfarrer geredt hat/iſt alles vffgelỏſt vnd\nerklårt / durch der Predicanten vnd andrer antwurt/",
-        "similarity": 0.5614
+        "similarity": 0.5614,
+        "semantic": 0.7951,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "blatt. **Theobaldus hütter**\nICh hoff herr Poley/so er mich anzücht/das min\nangezogne sprüch nit gnůgsam sind erklärt/ge= Süch hienor\ngen siner inred/hoff ich gnůgsamklich widerstad am 100.",
         "b": "Darumb referieren wirs ad Acta. Theobaldus Hůter. JCh hoff Herr Poley / ſo er mich anzůcht/das min an-\ngezognen Sprůch nit gnůgsam ſind erklårt /",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.8591,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -75,13 +83,18 @@
         "op": "match",
         "a": "blatt. thůyen der selben inred/vnd referier mich zun Acta: **Herr Josephus Forrer pfarrer**\n**zů Herißouw.**\nVAlgelerten wysen vnd lieben/der anzug/so min\nherren zůgegen/ouch gůten vnd lieben brüder\nvñ landlüt von Appenzell/gethon/ist hüt lang\nmit vil anzogner geschrifft daruon geredt/darumb nitt\nnott ist/vilmer daruon zůreden/damit vnd jr aber er=\nkennen min meinung/der yetz vorhanden schlußred/wil\nich ein kleyne meinung darzů reden.",
         "b": "EDlgelerten wyſen vnnd lieben / der anzug / ſo min\nHerren zůgegen / ouch gůten vnnd lieben Brůder\nvnd Landlüt von Appenzell/gethon /",
-        "similarity": 0.3516
+        "similarity": 0.3516,
+        "semantic": 0.7856,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Ich bekenn wol/wie\nsant Paulus redt zů den Römern/das da nit sind gnůg\nCc",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6514,
+        "semantic_match": "Schlußred. 219\nTheobaldus Hůter\nALs Pelagius fůrbracht hat / den Spruch zů den Rõ-\nmern am 11. So es vß gnaden /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -89,7 +102,11 @@
         "b": "iſt hüt lang\nEe ij\n\n## Marginalien\nSůch\nhieuor\nam 204. 208.vñ\n209. blat. Sůch\nhieuor\nam 217. blat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7675,
+    "reworded": 3,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6014,

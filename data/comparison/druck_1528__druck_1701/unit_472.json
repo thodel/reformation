@@ -33,7 +33,9 @@
         "op": "match",
         "a": "Seite CCXXX\nSchlußred. +\ngeben/so man jnn mit menschen gesagt vnnd botten ver\neret/(Datthei am xv. Capitel. Darumb so fallend alle\ndie gelübd hin/die von den menschen gedichtet sind/",
         "b": "Die Nündte Schlußred. 473\n\nman jhn mit Menschen Gesatz und Botten verehret / Matthei am 15. Capitel. Darum so fallend alle die Ge-\nlübd hin /",
-        "similarity": 0.4364
+        "similarity": 0.4364,
+        "semantic": 0.5978,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -45,7 +47,9 @@
         "op": "match",
         "a": "so\nbald der gloub kumpt. Hieby sol man nit verstan/das\nwir einicherley trüw/verspruch/verschrybung/vereyd=\nungen der weltlichen hand/vermeynen zebrechen/sun=\nder wir redend allein von den gelübden/die man gelübd\nder geystlichen nempt/die die Conscientz solten antref=\nfen.",
         "b": "Versprüch / Verschrybung / Verey-\ndungen der weltlichen Hand / vermeynen zebrechen / son-\nder wir reden allein von den Gelübden / die man Ge-\nlübd der Geistlichen nennt /",
-        "similarity": 0.4179
+        "similarity": 0.4179,
+        "semantic": 0.7189,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,7 +61,9 @@
         "op": "match",
         "a": "Das. j. zum Thimotheum am. v. ist anzogen/von\nder wittwen/die den ersten glouben gebrochen hette: hat\nden sinn/das by den Kilche/da allein alte/gantz verlas=\nne wittwen enthalten wurden/als die ob sechzig jareñ\nwarend.zc.",
         "b": "hat den Sinn / daß by den Kilchen / da allein\nalte / gantz verlassene Wittwen enthalten wurden / als\ndie ob sechtzig Jahren waren /",
-        "similarity": 0.4918
+        "similarity": 0.4918,
+        "semantic": 0.5987,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -69,19 +75,25 @@
         "op": "match",
         "a": "sich ouch junge wittwen/vnderstüendend ze=\nweyden/ Vñ so sy in die enthaltung der Kilchen kame/ würden der jungen etlich erfunden/die vnkúscheiten/oð\nverschurten die enthaltung/mit etwas vnzucht/Vñ so\ndas beschach/suchten sy die flucht:",
         "b": "die Unkuͤschheiten triben / oder verschutten die\nEnthaltung mit etwas Unzucht / und so das beschach / suͤchten sy die Flucht :",
-        "similarity": 0.4138
+        "similarity": 0.4138,
+        "semantic": 0.7013,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "(Eya es ist wäger/ich\nnem ein man. So das Paulus zum dickeren mal geseche\nhatt/so warner er die Kilchen/vnd spricht/(Dan solle\nsy nit in die vnderhaltung der Kilchen vfnemmen:",
         "b": "Eya es ist waͤger / ich nemm ein\nMann. Da das Paulus zum dickern mal gesehen hat / so verwahrnet er die Kilchen /",
-        "similarity": 0.4727
+        "similarity": 0.4727,
+        "semantic": 0.8803,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dan̄\nsy habend in einem Bruch/wie erst gesagt ist/dz sy sich ver\ngiengen mit mütwillen/vnd wellen sich dan vereeliche/",
         "b": "und spricht / Man soͤlle sy\nnit in die Underhaltung der Kilchen uffnemmen : dann\nsy haben in einem Brauch / wie erst gesagt ist /",
-        "similarity": 0.3111
+        "similarity": 0.3111,
+        "semantic": 0.8235,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -93,13 +105,17 @@
         "op": "match",
         "a": "vnd habend aber den ersten glouben gebrochen/das ist/ sy haben geunküschet/oð vnerberlich geläbt/ee vñ sy der\nEe nach gefragt haben.",
         "b": "das ist / sy haben geunkeuschet / oder unehrbarlich gelebt / ehe und sy der Ehe nachgefragt haben. Sy seyen auch\ndeß ansehens zur Kilchen kommen /",
-        "similarity": 0.3043
+        "similarity": 0.3043,
+        "semantic": 0.3847,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Sy syen ouch des ansechens zur\nKilche komen/sam sy der gantz verlaßnen wittwe gewe\nsen/dz doch sy nit syen gsin/vñ habe also betrug gethan.",
         "b": "sam sy der gantz ver-\nlaßnen Witwen gewesen / daß doch sy nit seyen gsyn / und haben also betrug gethan. Das ist also Paulo /",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.8205,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -119,7 +135,11 @@
         "b": "den\nersten Glauben brechen / und wird hie deß Glübds nit-\ntzit",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6907,
+    "reworded": 5,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5379,

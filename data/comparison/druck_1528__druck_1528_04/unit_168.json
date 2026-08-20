@@ -33,7 +33,9 @@
         "op": "match",
         "a": "Seite XXII\nDie ander\nhaben/Das Maria ein můter des Herren Jesu sye/vñ\ndaby ein junckfrow/habe wir yenit wyter daruon gefor\nschen/trifft ouch vnser heylnit an/wiewol es one zwyffel\nist by allen/so die wirde der můter des Herren erachten/",
         "b": "Schlußred. LXXXVII\nby ein jungkfrow/habẽ wir ye nit wyter daruon\nzeforſchen/trifft ouch vnſer heyl nit an/ wiewol\nes on zwyffel iſt by allẽ/ſo wir die wirde der muͤ\nter des Herren erachten/",
-        "similarity": 0.5316
+        "similarity": 0.5316,
+        "semantic": 0.9049,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -45,7 +47,9 @@
         "op": "match",
         "a": "sy sye für vñ für ein junckfrow bliben. Des Sunntags\nhalb/hat es die meinung/dz die fyrung desselben/für sich\nselber den Christen nit gebotte/aber so die liebe so stätigs\nzů vffbuwung der gemeyn betrachtet/alles das zůordne\nhat/so darzů dienstlich sin mag/so hat die glöubig ge=\nmeind/vß fryer verwilligung angenoñen/zů der wochen\nein tag zů fyren von lyblichen wercke/damit sich die gantz\ngemeynd/zů hörung des worts Gottes/müssigen möch=\nte.",
         "b": "fuͤr ſich\nſelber den Chriſten nit gebotten: aber ſo die liebe\nſo ſtåtigs zuͦ vffbuwung der gemein betrachtet/ alles das zuͦ ordnen hat/",
-        "similarity": 0.3495
+        "similarity": 0.3495,
+        "semantic": 0.6152,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,7 +67,9 @@
         "op": "match",
         "a": "Wie dann Gott der Her ouch im gebott des Sab=\nbaths/angesehenn hat. Jst ouch söllicher bruch/zur zyt\nPauli schon gewäsen/als wir läsend am xvj.",
         "b": "Iſt ouch ſoͤ\nlicher bruch zur zyt Pauli/ ſchon geweſenn/ als\nwir laͤſend am xvj. cap. in der erſten zuͦ den Co=\nrinthern/da er alſo ſchrybt:",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.6621,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -81,25 +87,35 @@
         "op": "match",
         "a": "Der A=\npostlen tag halb aber/habe die alte aben sölichs bedacht/ das das volck zůsamen käm/vnd des gloubens der Apo\nstel/sampt den götlichen gnade/durch das wort erinnert\nwurde/ist aber nie gewäsen/das sölich fyren by den recht=\nglöubigen/für ein notwendig gebott/das die conscientz\nbinden sölt/gehalten worden.",
         "b": "durch das wort erinnert wurde: iſt aber nie geweſen/dz ſoͤlich fyren by den recht=\ngloͤubigen/fuͤr ein notwendig gebott/dz die con\nſcientz binden ſoͤlt/gehalten worden.",
-        "similarity": 0.4419
+        "similarity": 0.4419,
+        "semantic": 0.6535,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Die sum aber vnser ant=\nwurt/ist vor ouch anzeigt/was da notwendig flüßt vß\ndem gebott gottes: Lieb Gott von ganzem hertzen/vñ\ndin nächsten als dich selbs.",
         "b": "Die ſum̃\naber vnſer antwurt/iſt vor ouch angezeigt/was da\nnotwendig fluͤſt vſſz dem gebott Gottes: Lieb\nGott von gantzem hertzen/",
-        "similarity": 0.6538
+        "similarity": 0.6538,
+        "semantic": 0.7889,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Jtem was vß gesägt der ge=\nschrifft/notwendig beschlossen wirt/als patrem esse ingenitum\nden vatter vngebozen sin: den sun dem vatter glych/vñ\nderglychen/Das erkennen wir in götlicher gschrifft ge=\ngründt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6499,
+        "semantic_match": "vnd din naͤchſtẽ als\ndich ſelbs. Item was vſſz gſatzt der geſchrifft/ ## Marginalien\nHieuor anz\nam 71. 76. 77. blatt",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Die Bäpstlich Kilch aber hat vns vffgezochen\ndas nit allein vß dem wort gottes in der schrifft verfas=\nset/ *Marginalia (left margin):*\nBienor am 74. blatt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6342,
+        "semantic_match": "ſo darzuͦ dienſtlich ſin\nmag:ſo hat die gloͤubig gemeynd/vß fryer ver=\nwilligung angenomen/ zuͦ der wochẽ ein tag zuͦ\nfyren von lyblichen wercken/",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -107,7 +123,11 @@
         "b": "vnd din naͤchſtẽ als\ndich ſelbs. Item was vſſz gſatzt der geſchrifft/ ## Marginalien\nHieuor anz\nam 71. 76. 77. blatt",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7012,
+    "reworded": 5,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5724,

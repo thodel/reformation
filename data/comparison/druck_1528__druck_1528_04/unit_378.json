@@ -33,19 +33,28 @@
         "op": "only_a",
         "a": "Seite LXXI\nDie fünffte\nlich opffer: dañ wiewol es nit stadt mit vßgetrucktẽ wor\nten im heyligen Euangelio/oder in anderen schrifftẽ/jr\nsöllend Christum vßopfferen/in der Måß/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7604,
+        "semantic_match": "Buzer. Noch ſtadt der Silogiſmus/ das nuͤt geopf=\nfert werden mag. Darum̃ ob ſchon ſchrifft vß=\nbracht werdẽ moͤchte/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "so haben wir\ndoch des gůte zügnuß in den Geschichten der Apostlen/ am xiij. capitel/stadt also: Es sind etlich gsin in der Kil\nchen zů Antiochia.zc.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6547,
+        "semantic_match": "ſtadt nit\nopferten. Dañ Grece haben wir/ Λειτουργοῦντων\ndas heyßt nit / Als ſy opferten. Wir haben zun\nHebreern j. Sind ſy nit all dienſtbarliche geyſt.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Vnd so die selbigen geopffret hand\nGott dem Herren/vnd hand gefastet/hat gesprochen\nder heylig geist. Sůndret mir Barnabam vnd Saulũ/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7019,
+        "semantic_match": "Die fuͤnfft\nfaſtet/ hat geſprochẽ der heylig geyſt. Suͤndrent\nmir Barnabam vnd Saulum/ in das werck/ zuͤ\nwelchem ich ſy beruͤfft hab.",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,7 +66,9 @@
         "op": "match",
         "a": "in dz werck/zů welchem ich sy berůfft hab. Hie mag nit\nanders förmklich nach der schrifft dargeben werden/als\nwir hoffen/dann allein das opffer der Måß.",
         "b": "Hie mag nit anders\nfoͤrmklicher nach d̃ gſchrifft dargeben werdẽ/ als\nwir hoffen/ dann allein das opfer der Mäß.",
-        "similarity": 0.5833
+        "similarity": 0.5833,
+        "semantic": 0.914,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,13 +80,17 @@
         "op": "match",
         "a": "Butzer\n[I]ch stadt der Silogismus/dz nüt geopfrer wer\nden mag. Darum ob schon schrifft vßbracht wer\nden möchte/die glych die widergedächtnuß ein\nOpffer nennet/das doch gar nit ist/noch deßocht möchte\nman nit sagẽ/eygenlich daruon zů reden/das die Måß=\nmacher opffreten.",
         "b": "die glych die widergedaͤcht\nnuß ein opfer nennet / das doch gar nit iſt/ noch\ndennocht moͤchte man nit ſagen/",
-        "similarity": 0.3824
+        "similarity": 0.3824,
+        "semantic": 0.825,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Das ort xiij. Actorum/angezogen/dz\nlutet also: Alls sy aber dem herren dieneten vnd fastete/ stadt nit/Opffreten. Sann Grece habe wir/λειτουργούντωρ\ndz heyßt nit/Alls sy opffrete.",
         "b": "eygenlich dar=\nuon zuͤ reden/ dz die Mäßmacher opferten. Dz\nort xiij. Actorum/ angezogen/ das lutet alſo: Als\nſy aber dem herrn dieneten vñ faſteten/",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.8692,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,13 +102,17 @@
         "op": "match",
         "a": "Wir habẽ zun Hebreern v\nSind sy nit all dienstbarliche geyst. Da haben wir Gre\nce λειτουργικὰ πνεύματα Da wurd sich gar übel rymẽ/wölte\nman es vertolmetschen/Opfferliche geyst.",
         "b": "Da haben wir Grece λιτουργικὰ πνεύματα Da\nwurd ſich gar uͤbel rymen/ woͤlte man es vertol=\nmetſchen/ Opferliche geyſt.",
-        "similarity": 0.4314
+        "similarity": 0.4314,
+        "semantic": 0.664,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Der glychen\nhaben wir zun Römern/von dem weltlichen gwalt/das\ner ein dienerin sye des Herren. Zů den Römern xiij. da\nhaben wir ouch λειτουργοί. Gilg Wurer\nDas",
         "b": "Der glychen haben\nwir zun Roͤmern/ von dem weltlichen gwalt/ dz\ner ein dienerin ſye des Herrn. Zuͤ den Roͤmern.",
-        "similarity": 0.6275
+        "similarity": 0.6275,
+        "semantic": 0.8856,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -113,7 +132,11 @@
         "b": "das in der ſchrifft\ngeredt wirdt von zweyerley opfferung Chriſti. Zum",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7843,
+    "reworded": 6,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4748,

@@ -39,7 +39,10 @@
         "op": "only_a",
         "a": "anhengig yend/off die Sisputas zuuerozdnen/vñ ab-\nuertigen. Ob mit göttlicher hilff vin gnad/gemeine Eyd\ngnoſchafft/so vorhin mit eydspflichte/so wyt sich lyb vi\ngüt/lannd vn lüt erstreckr/vereinbaret ist/Duch in eyni\nkeyt des waren Christenliché gloubens/vnrechtgeschaf=\nfen gottsdienst mocht gebracht werden:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6699,
+        "semantic_match": "ſo Bibliſch genempt wirt/ vnd\nGottes Wort iſt/ ſtatt hab vnd gelten ſölle: ſonder das bloß/ klar/ vnd luter Wort Got-\ntes/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -51,19 +54,26 @@
         "op": "only_a",
         "a": "San\nvns vin ich dernhalb nit gnüg beschehen/so vns vff vil-\nfaltige nach wärbung/die Acta der selbe wie sy in die få-\nderen geredt/nit habé mögen verlangen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6685,
+        "semantic_match": "ein jeder Chriſten-\nmenſch/ ſyn Glouben vnd vertruwen richten/ ſetzen/",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Duch nütdest=\nminder in zweyug des gloubens beharret wirr. Wir wel\nlen aber hiemit nit vermeynen noch verston/bemellt on\nfer lieb Eyd/vin Pundegnoffen/gemeinlich/noch sonder\nlich/zu haltung des:so off gedachter Sisputas Beschloss\nfen wirt/zebez wingen/noch sy von jrem fürname zerren\ngen.",
         "b": "lich/ zů haltung deß/ ſo off gedachter Diſpu-\ntaz beſchloſſen wirt/ zebezwingen/ noch ſy von\njrem fürnämmen zetrengen. So denne/",
-        "similarity": 0.3235
+        "similarity": 0.3235,
+        "semantic": 0.7302,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "So denne/haben wir gar eygenlich beredt/ vnnd\nentlich beschlossen/das in disem gesprach/dhein andre ge\nschrifft/dan beyder Nüws vn Alts testaments/so Bib-\nlisch genempt wirt/on gottes wozt ist/statthab vingel=\nten solle:",
         "b": "ha-\nben wir gar eigenlich beredt/ vnd entlich be-\nſchloſſen/ das in diſem Geſpräch/ kein andre\nGeſchrifft/ dann beyder Nüws vnd Alts Te-\nſtaments/",
-        "similarity": 0.3934
+        "similarity": 0.3934,
+        "semantic": 0.5077,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -75,19 +85,25 @@
         "op": "match",
         "a": "sonder das bloß/klar/vnd luter wort Hotres/ hierinn anzogen/vnd gebrucht: vin das es mit lerer ver-\nstand vi vßlegung/wellich doch die syen/nir sölle über=\ngwaltiget/noch erliitert werde.",
         "b": "hierin anzogen/ vnd gebrucht: vnd daß\nes mit Leer verſtand vnd vßlegung/ welich\ndoch die ſyen/ nit ſölle übergwaltiget/ noch er-\nlütert werden.",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.7573,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Allein Biblisch geschrifft\nmit Biblischer erklärt/vsgeleyt/verglichet/vnnd die\ndunckle mit der heyteré erlüchtet: Duch niemants darü=\nber/dan allein die gottlich geschrifft sich selbs/zeurteyle\nhab:",
         "b": "Allein Bibliſch Geſchrifft mit\nBibliſcher erklärt/ vßgeleit/ verglychet/ vnd\ndie dunckle mit der heiteren erlüchtet: Ouch\nniemands darüber/ dann allein die Göttlich\nGeſchrifft ſich ſelbs/",
-        "similarity": 0.6415
+        "similarity": 0.6415,
+        "semantic": 0.9404,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "die dann das Richtschyt/schnür/grundueſte/vnd\neyniger richter/des waren Christenlichen gloubens ist. Saruff",
         "b": "zeurteilen hab: die dann\ndas richtſchyt/ ſchnůr/ Grundveſte/ vnd eini-\nger Richter deß waren Chriſtenlichen Glou-\nbens iſt. Daruff vnd nach/",
-        "similarity": 0.6111
+        "similarity": 0.6111,
+        "semantic": 0.7752,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -95,7 +111,11 @@
         "b": "ein jeder Chriſten-\nmenſch/ ſyn Glouben vnd vertruwen richten/ ſetzen/",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7213,
+    "reworded": 4,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3645,

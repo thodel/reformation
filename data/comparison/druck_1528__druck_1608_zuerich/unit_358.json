@@ -57,25 +57,34 @@
         "op": "match",
         "a": "Seite [X]\nDie fünffte\nſterthumb / deßhalb er dheins erſetzens bedarff. Zum\nvierden. Er erſchint vor dem angeſicht Gottes / vnnd\nvertrittet vnns /",
         "b": "Er hat ein ewig\nPriesterthumb / deßhalber keines erſetzens bedarff. Zum\nvierten. Er erschint vor dem Angesicht Gottes / vnnd\nvertrittet vns /",
-        "similarity": 0.5854
+        "similarity": 0.5854,
+        "semantic": 0.6264,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "darumb werden jr inn nit Repreſen=\ntatiue / das iſt inn widerſtelliger wyß opffern. Zum\nfünfften. Er hats vollender vnd volkomen gemacht /",
         "b": "darumb werden jhr jnn nit Repreſentati=\nue/das ist in widerstelliger wyß opfferen. Zum fünfften. Er hats vollendet vnd vollkommen gemacht/was ist dann\nder jetzigen Priestern opfferen anders/dann ein Schmä=\nchen deß Opffers Christi.",
-        "similarity": 0.4912
+        "similarity": 0.4912,
+        "semantic": 0.685,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "wz\niſt dann der yetzigen Prieſtern opffern anders / dann eyn\nſchmächen des opffers Chriſti. Zum ſechßten. Er hatt\nein ewige erlöſung erfundē /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8786,
+        "semantic_match": "verstadt ein jeder daß Christus nit soll noch\nmag geopfferet werdẽ. Zum ersten/er ist einest vffgeopffert/ vnd die Priester wellen in all tag opfferen.",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "was ſeelen welle dan die prie\nſter mit den Meßen erlöſen. Zum ſibenden. Es i",
         "b": "Zum sechstẽ. Er hat ein ewige er=\nlösung erfundẽ / was Seelen wellen dann die Priester mit\nden Mäſſen erlösen? Zum sibenden.",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.4481,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -107,7 +116,11 @@
         "b": "Diewyl\ntter offe\nestet syn\nHebreern\nrch das\nPriester\nvnd ma\nie Sün\nSünd ge\nten Got\nSchänd\nOpffer hat\nbald dar\nin Opffer\nnd er blibt\n/darumb\ner ouch",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6595,
+    "reworded": 2,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2545,

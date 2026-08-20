@@ -33,7 +33,9 @@
         "op": "match",
         "a": "Seite [X]\nDie erſt\nlaß daby ein yeden Chriſten/dz vrteyl wie ſich des pfar=\nrers red/der warheyt vnd dem geſtrigen veriechen ver=\ngliche vnnd veranlaß mich vff ſine wort /",
         "b": "Die Erſte Schlußred. 107\n\ndaby einem jeden Chriſten das Urtheil / wie ſich deß\nPfarrers Red der Warheit und dem geſtrigen Verſe=\nhen verglyche /",
-        "similarity": 0.3704
+        "similarity": 0.3704,
+        "semantic": 0.7676,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -45,13 +47,18 @@
         "op": "match",
         "a": "die von den\nſchriberen in die Acta verfaſſet ſind/zc. Meyſter Niclaus Chriſten\nSenger von Zoffingen. IN dem namen vnſers lieben herrn Jeſu Chriſti\nverlich vns gott der hímeliſch vatter/durch die\ngnad gotts des heilige geiſts/ware/rechte/Chri\nſtenlich erkantnus ſines heyligen worts/vnd goͤttlicher\ngeſchrifft/Erwürdig/großmechtig/Edel/veſt/fürſich\ntig/wyß/lieben /",
         "b": "JN dem Namen unſers lieben Herren Jeſu Chriſti / verlych uns Gott der himmliſch Vatter / durch die\nGnad Gottes deß heiligen Geiſts /",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.7766,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "gnedigen Herrn / vnnd gůten fründ\nouch fromen/biderben Chriſte wie je hie verſamlet ſind/ vnberkantnus goͤttlicher warheyt / wiewol iſt das ich\nmich nit vnderſtand/entſcheid vñ lårung zůgeben vmb\ndiſe ſchwåre ſpen hie zů gegen/dann es miner kunſt/die\nklein iſt überlegen ſin wil/diewil vor zwölff hundert Ja=\nren vnd mer/ſo vil heyliger gelerter månner/ouch dariñ\ngehandelt/entſcheid vñ lårrung gebe hand /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8657,
+        "semantic_match": "wiewol iſt / daß ich mich nit un=\nderſtand / Entſcheid und Luͤterung zuͤ geben um diſe ſchwaͤ=\nre Spaͤhn hie zuͤgegen /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,7 +88,9 @@
         "op": "match",
         "a": "vñ aber die\nſach yetz widerumb in ſpan kommen iſt / diewyl aber es\nmir ſchwår iſt / von ſolchem lang geübtē/vnſer vordern\nglouben zeſton/den wir ſo in langer gewård/vnd beſitz=\nung gehebt hand /",
         "b": "Entſcheid und Luͤterung geben hand / und aber\ndie Sach jetzt widerum in Spahn kommen iſt / diewyl aber\nes mir ſchwaͤr iſt /",
-        "similarity": 0.3793
+        "similarity": 0.3793,
+        "semantic": 0.7148,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -93,13 +102,17 @@
         "op": "match",
         "a": "bedunckt mich not ſin / nach der leer\ndes heyligen Petri in der erſten Epiſtel am iij. Capitel. Das ich ouch rechnung geb /",
         "b": "bedunckt mich noht ſeyn / nach der\nLehr deß heiligen Petri in der erſten Epiſtel am 3. Capitel: Daß ich auch Rechnung geb um myn Hoffnung und\nGlauben /",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.6561,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vmb myn hoffnung vnnd\nglouben/ſo ich darumb eruordert bin/vnd wil das thůn\nfrüntlich vnd gůtlich/mir vnd anderen zů wyterer vn=\nderwyſung/Alß der heylig Paulus ſpricht zun Gala=\nthern",
         "b": "ſo ich darum erfordert bin / und wil das thuͤn\nfruͤndlich und guͤtlich / mir und andern zuͤ wyterer Under=\nwyſung /",
-        "similarity": 0.4074
+        "similarity": 0.4074,
+        "semantic": 0.7341,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -107,7 +120,11 @@
         "b": "als der heilig Paulus ſpricht zun Galatern am\n6. Cap. Ihr ſoͤllend einandern underwyſen im Geiſt der\nD Sanfft=",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7525,
+    "reworded": 5,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4981,

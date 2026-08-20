@@ -33,19 +33,26 @@
         "op": "only_a",
         "a": "Die erste Schlufzred/vnd der selben\ngründ/hat Berchtoldus Baller/predicant\nzu Bernn eroffnet. Die heylig Chriftenlich kilch/deren einig\nhoupe Chriftus/ift off dem wort Gots ge\nbom/im selben blybcfy/vnd hozecnic die\nftium eines frombden.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6261,
+        "semantic_match": "Kilch/ vff jm trag. Zum andern / Das ſich ſemliche vnwüſſen=\nheit des volcks / nit rechtgebrucht: Die in man=\ncherley Kilchen geteylt /",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Nad vnd frid bd gott\nvnsere himelschen vatter/der\nwill ons senden sin liecht vin\nwarheit in vnser hertzen/da-\nmit wir all yngefürt werdint/",
         "b": "Die erſt Schlußred. III\n\nGNad vnnd\nfrid von Gott\nvnſerẽ himelſchenn\nvatter/ dͬ wöl vnns\nſenden ſin liecht vñ\nwarheyt in vnſere\nhertzẽ damit wir all\nyngefůrt werdind/",
-        "similarity": 0.4151
+        "similarity": 0.4151,
+        "semantic": 0.7782,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "in ware erkatnuß vnsers edle\nsten Herren Jesus Christi des\ngecrützigoten/Amen. fürgeliebten/frommen\nChristen/der Schlußreden/ ſo in gegenwirtiger zweyung/von vns bericht/vn rech=\nnung zu geben/wir erfordret sind/voz einer fölichen lob\nlichen versamlung.",
         "b": "in ware erkantnuß\nvnſers edleſten/ Herren Jeſu Chriſti/ des ge=\ncrützgoten/ Amen. Fůrgeliepten/ from̃en Chriſten/ der Schluß=\nreden/ ſo in gegẽwirtiger zweyung von vns be=\nricht/",
-        "similarity": 0.4308
+        "similarity": 0.4308,
+        "semantic": 0.771,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,7 +64,9 @@
         "op": "match",
         "a": "Ist die erst/ Die heilig Christens\nlich Kilch.ac. Soliche also üwer liebe fürzetragenn/ hat ons verursachet. Sum ersten/das dz gemein volck\nzu meremtheyl/nit verstadt/was der name (Kilch) off\nim trag.",
         "b": "alſo üwer liebe fürzetragen/ hatt vns ver=\nurſachet. Zum erſten/ Das das gemeyn volck/ zů me=\nremtheyl / nit verſtadt / was der namen/",
-        "similarity": 0.3929
+        "similarity": 0.3929,
+        "semantic": 0.552,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -69,7 +78,9 @@
         "op": "match",
         "a": "Sum andren/das sich somlicher vnwissen=\nheyt des volcks/nit recht gebraucht/die in macherley kil\nchen getheylt/yegund ein allgemeine/dann ein versam\nlug/die die Kilchen anzeygt/representiert vnd & wyst/ vnd z",
         "b": "yetzund ein allgemeyne: Denn ein verſammlung/ die die Kilchen anzeygt/ repreſentiert vnd verwyßt / vnd zů ſondern per=\nſonen der Cardinalen/",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.6763,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -77,7 +88,11 @@
         "b": "Biſchoffen / vnnd Båp=\nſten getrungen haben. Zum dritten / Das durch ſömlich fürgeben/: A ij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6807,
+    "reworded": 4,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3975,

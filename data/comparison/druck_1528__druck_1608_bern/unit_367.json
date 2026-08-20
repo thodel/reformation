@@ -39,25 +39,33 @@
         "op": "match",
         "a": "die dise sprach\nerfaren haben. Vnns ist gnůg / das wir by dem\nhällen Latinischen Text blyben. Das er aber spricht /",
         "b": "390          Die fuͤnfft\nſchen/laſſen wir verantwurten/die diſe ſprach erfaren ha-\nben. Vns iſt gnůg/ daß wir by dem hållen Latiniſchen\nText blyben.",
-        "similarity": 0.5778
+        "similarity": 0.5778,
+        "semantic": 0.867,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "wir haben nit bewärt das Melchisedech hie geopfert ha=\nbe/geben wir antwurt / wie wol es dem bůchstaben nach\nnit stat /",
         "b": "Daß er aber ſpricht/wir haben nit bewårt\ndaß Melchiſedech hie geopffert habe/geben wir antwurt/ wiewol es dẽ Bůchſtaben nach nit ſtadt/ſo gends doch hin\ndie wort vormals anzogen/dañ er iſt ein Prieſter/ꝛc.",
-        "similarity": 0.4483
+        "similarity": 0.4483,
+        "semantic": 0.5653,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "so gends doch hin die wort vormals anzogen/ dann er ist ein priester/ꝛc. Vnnd so ers zůgeben hart/er\nmöge ander mal wyn vnnd brot geopfert haben/ist für\nvns/sytemal (wie gester ouch ist anzeygt wordē) dz Chri\nstus ein priester/nach der ordnůg Melchisedech:",
         "b": "Vnd\nſo ers zůgeben hat/er moͤge ander mal Wyn vnd Brot ge-\nopffert haben/iſt fuͤr vns/ſyntenmal (wie geſter ouch iſt an-\nzeigt worden) daß Chriſtus ein Prieſter nach der ord-\nnung Melchiſedech:",
-        "similarity": 0.4762
+        "similarity": 0.4762,
+        "semantic": 0.7944,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "so frag\nich jn/das er vns anzeyge/mit was opfer/sy glichsam ge\nopfert haben: so trüwen wir wie vor/er mög mit der ge=\nschrifft dhein anders harfür bringē.",
         "b": "ſo frag ich jn/daß er vns anzeige/mit\nwas Opffer ſy glichſam geopffert haben: ſo trůwen wir\nwie vor /",
-        "similarity": 0.6275
+        "similarity": 0.6275,
+        "semantic": 0.8095,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,25 +77,33 @@
         "op": "match",
         "a": "Sas es aber die ver\nglichung sölle vnnd müsse syn / wilich wyter bewären\nmit der geschrifft / vß dem bůch Prouerbiorum am ix.",
         "b": "will ich wyter bewåren mit der Geſchrifft/vß dem Bůch\nProuerbiorum am 9. ſpricht Salomon alſo. Die Wyß-\nheit hat jr gebuwen ein Huß/hat vßgehouwen ſiben Sů-\nlen/",
-        "similarity": 0.3922
+        "similarity": 0.3922,
+        "semantic": 0.5851,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "spricht Salomõ also. Sie wisheit hat jr gebuwē ein huß\nhat vßgehouwen siben sülen/hat geopffert jre opfer/vñ\nhat vermischet den wyn/vnd nach andern worten wyter/",
         "b": "hat geopffert jre Opffer/vnd hat vermiſcht den Wyn/ vnd nach andern worten wyter/Kommen vnd eſſen myn\nBrot/ vnd trincken den Wyn den ich uͤch vermiſchet hab.",
-        "similarity": 0.386
+        "similarity": 0.386,
+        "semantic": 0.7129,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Komen vñ essen myn brot/vnd trincken den wyn den ich\nüch vermischet hab. Nun beschicht das opfer mit der ver\nmischung des wyns in keynem opfer anders/Dann in der\nMäß/darum so volget hernach/dz die mäß ein opfer ist.",
         "b": "Nun beſchicht das Opffer mit der vermiſchung deß Wyns\nin keinem Opffer anders / dann in der Måß/darumb ſo\nvolget hernach /",
-        "similarity": 0.4762
+        "similarity": 0.4762,
+        "semantic": 0.7751,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Zwingly+\nEEr worte halb Genesis am xiiij. Verlassen wir\nvns vff den text. Der fragthalb / wie Christus Sůch hieuor\nnach d ordnung Melchisedech/ein priester sye/ist am 174. blatt.",
         "b": "das die Måß ein Opffer iſt. Zwingly. Der worten halb Geneſis am 14. Verlaſſen wir vns\nvff den Text. Der Fraghalb /",
-        "similarity": 0.4314
+        "similarity": 0.4314,
+        "semantic": 0.7255,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -95,7 +111,11 @@
         "b": "wie Chriſtus nach\nder ordnung Melchiſedech / ein Prieſter ſye/iſt ge-\nſtern",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7293,
+    "reworded": 4,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6474,

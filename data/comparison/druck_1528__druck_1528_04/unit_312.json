@@ -45,25 +45,33 @@
         "op": "match",
         "a": "Seite [149]\n\nDie vierdt\n\nnüw Teſtament/das tranck nit das Teſtament iſt dar-\nuß ſy dann erleernen/das das wort Teſtament an dem\nort alls vill iſt/als zeychen des Teſtaments.",
         "b": "Das\ntranck iſt das Nüw Teſtament / das tranck nitt\ndz Teſtament iſt. Daruß ſy dann erleernen/ das\ndas wort Teſtament an dem ort alls vill iſt /",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.8927,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Pfarrer von Sant Gallen: Als das tranck nit ſye das nüw Teſtament/ſoll\ndarby verſtande werden/vnd zů geſegt In my\nnem blůt/dann ſöllichen verſtand gar häll vnd\nklar/gibt Mattheus/ſo er ſagt.",
         "b": "als\nzeychen des Teſtaments. Pfarrer von ſant Gallen. Das das tranck nit ſye das nüw Teſtament/ ſoll darby verſtanden werden/vnd zuͤgeſetzt In\nminem bluͤt/dann ſoͤllichen verſtand gar haͤll vñ\nklar/gibt Mattheus/ſo er ſagt.",
-        "similarity": 0.6842
+        "similarity": 0.6842,
+        "semantic": 0.9213,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Das iſt myn blůt des\nnüwen Teſtaments/welches vergoſſen wirt/zů verzich-\nung der ſůnd. Darum nochmals der handel nit erobert\noder der ſpruch Matth.",
         "b": "Dz iſt min bluͤt\ndes nüwen teſtaments/welches vergoſſen wirt\nzuͤ verzichung der ſuͤnd. Darumb nochmals der\nhandel nit erobert oder der ſpruch Matth.",
-        "similarity": 0.7059
+        "similarity": 0.7059,
+        "semantic": 0.76,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "nitt gnůgſam erklärt/als vnſer\nherr/vnd brůder vermeint. Meister Vlrich Zwingli. Vnſer ſpan iſt darumb/ob das tranck das Teſta\nment ſye/vnd nit darumb wo mit das Teſta-\nment überkomen ſye.",
         "b": "nitt\ngnuͤgſam erklaͤrt / als vnſer herr / vnnd bruͤder\nvermeint. Zwingly. Vnſer ſpan iſt darumb/ob das tranck das Te\nſtament ſye/vnd˙nit darum̃/",
-        "similarity": 0.5333
+        "similarity": 0.5333,
+        "semantic": 0.7149,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -75,27 +83,42 @@
         "op": "match",
         "a": "Wir ſchlahen nitt ab/das\nvns die nachlaſſung der ſůnd mitt dem vergoſſnen blůt\nChriſti erworben ſye/ſonder ſöliche wort/die beueſtnen\nvnſern grund/das das blůt Chriſti ſelbsſelb nitt das\nTeſtament iſt/ſonder das wård:",
         "b": "die beueſtnen vnſern grund/das das bluͤt Chri=\nſti ſelbs ſelb nitt das Teſtament iſt / ſonder das\nwaͤrd:damit vns das Teſtament/ welches da iſt",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.8245,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "damit vns das Teſta-\nment/welches da iſt nachlaſſung der ſůnd erworben iſt/ Der bůchſtab lutet das tranck ſye das Teſtament:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7969,
+        "semantic_match": "wo mit das Teſta=\nment uͤberkommen ſye. Wir ſchlahen nit ab/das\nvns die nachlaſſung der ſuͤnd mit dem vergoß=\nnen bluͤt Chriſti erworbẽ ſye/ſond ſoͤliche wort/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "ſo iſt\nnachlaſſung der ſůnd das Teſtament/ſo můß das wort\nTeſtament/hie nit eygentlichen genomen werden. Pfarrer von Sant Gallen:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7125,
+        "semantic_match": "Schlußred. CLXVII\n\nſten Johannis am erſten capitel. Das bluͤt Jeſu\nreiniget vns von vnſern ſuͤnden. Zwingly. So nun das Teſtament /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Vßlegung 8 worten/ſo herr Meyſter Vlrich\nfürgetrage/erklärt Mattheus vñ Marcus/dz\ndas ſo 8 herr das Teſtament geheyſſen den jůn=\ngern hatt",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6735,
+        "semantic_match": "Schlußred. CLXVII\n\nſten Johannis am erſten capitel. Das bluͤt Jeſu\nreiniget vns von vnſern ſuͤnden. Zwingly. So nun das Teſtament /",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.787,
+    "reworded": 4,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5333,

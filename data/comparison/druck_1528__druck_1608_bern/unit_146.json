@@ -33,7 +33,9 @@
         "op": "match",
         "a": "Seite [62]\nDie erst\nBerchtolduß. [M]Eister Niclaus meint der man werde des wybs\nhoupt genannt/darumb das er jr oberer sye/ob\ner sy schon nit läbendig mache/Also söllend alle\noberer der Kilchen höupter genant werden.",
         "b": "142                 Die erſt\nBerchtoldus. MEiſter Niclaus meint der Mann werde deß Wybs\nHoupt genannt/ darumb daß er jr Oberer ſye/ob er\nſy ſchon nit låbendig mache/",
-        "similarity": 0.6462
+        "similarity": 0.6462,
+        "semantic": 0.7946,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -45,7 +47,9 @@
         "op": "match",
         "a": "Antwurt: Wir wellend jm gern zugeben/wo er mitt geschrifft bÿ-\nbringt/das ein mensch sölich recht vnnd gwallt/zu der\nChristeñlichen gemeÿnd habe/als ein mañ zu sinem Le-\nwyb/das er ein sölichen/jr houpt neme.",
         "b": "das ein Menſch ſölliche recht vnnd gwalt/ zů der Chriſten-\nlichen gemeind habe/als ein Mann zů ſinem Eewyb/ daß\ner ein ſöllichen jr Houpt nemme.",
-        "similarity": 0.5538
+        "similarity": 0.5538,
+        "semantic": 0.702,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -57,7 +61,9 @@
         "op": "match",
         "a": "Die höchst A-\npostel aber/als Petrus vnd Paulus sampt der gangen\nwelt/sind vnser/vnnd wir nit jr/sonders Christi/in der\nersten Epistel zun Corinthern am dritten capitel/Die-\nner sind sy der Kilchen/wie sy sich selbs rümend/vnnd\nnit Eegmachel/die Kilch wåre sunst nit from̃/so sy mer\ndann ein Gemachel hette/vnnd darumb blybt es noch/",
         "b": "in der erſten\nEpiſtel zun Corinthern am dritten capitel / Diener ſind ſy\nder Kilchen/wie ſy ſich ſelbs růmend/vnnd nit Eegmachel/",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7334,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,33 +75,47 @@
         "op": "match",
         "a": "das die Kilch nur ein eynig houpt habe/Christum/wie\nouch nur einen gemachel/åben den selben Christum/der\ngeystlich vnd lyblich/jr allerding hilfft nach siner macht/",
         "b": "Chriſtum/ wie ouch nur einen Gema-\nchel/åben denſelben Chriſtum / der geiſtlich vnd lyblich/ jr\nallerding hilfft nach ſiner macht/",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.8888,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "wie ein yeder fromer Eegmachel sinem wyb/nach sinem\nvermögen. Also ist noch nit bewårt/das yemand nåben\nChristo möge/weder Eegmachel noch houpt/genempt\nSiich hienor werden.",
         "b": "wie ein jeder frommer Ee-\ngmachel ſinem Wyb / nach ſinem vermögen. Alſo iſt noch\nnit bewårt/das jemand nåben Chriſto môge /",
-        "similarity": 0.6531
+        "similarity": 0.6531,
+        "semantic": 0.7933,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Des namen Oberer halb/ist ouch gnůg gesagn\nam ii. 12. vff. 58 diener nit oberer/sind allhellgen. Gott sye lob/das er sin\nblatt.",
         "b": "weder Eege-\nmachel noch Houpt genempt werden. Deß namen Obe-\nrer halb/iſt ouch gnůg geſagt: Diener nit Oberer ſind Hei-\nligen.",
-        "similarity": 0.383
+        "similarity": 0.383,
+        "semantic": 0.6411,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "warheyt so gewalltig vns armen sunderen eroffnet hat/ das min herr Senger bekennen můß/er möge wider vns\nnüt schaffen/so allein mit Göttlicher geschrifft sölle ge-\nhandlet werden.",
         "b": "Gott ſye lob/daß er ſin Warheit ſo gewaltig vns ar-\nmen Sůnderen eroffnet hat/ das min Herr Senger beken-\nnen můß/",
-        "similarity": 0.3922
+        "similarity": 0.3922,
+        "semantic": 0.681,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Nun ist es offenbar/wie Paulus in der\nanderen Epistel/zun Corinthern am dritten Capitel/ schrybt/das sy zur säligkeyt wyse/vnnd den menschenn\ngottes zu",
         "b": "er môge wider vns nüt ſchaffen / ſo allein mit\nGöttlicher Geſchrifft ſölle gehandlet werden. Nun iſt es\noffenbar / wie Paulus in der anderen Epiſtel zun Corin-\nthern\n\n## Marginalien\nSůch\nhieuor\nam 20. 23.24. 25.26. vnd 58. blat.",
-        "similarity": 0.3692
+        "similarity": 0.3692,
+        "semantic": 0.8864,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7651,
+    "reworded": 3,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.738,

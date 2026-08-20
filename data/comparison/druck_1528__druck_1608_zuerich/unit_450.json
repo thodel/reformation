@@ -45,55 +45,75 @@
         "op": "only_a",
         "a": "psalmo. cxlj. Fůr vß von dem kercker\nmin seel. Vnd diewyl kein volkomne schrifft harfůr wirt\ngebracht/ das das wörtly/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8025,
+        "semantic_match": "mag billich ein Kercker genempt\nwerden. Bůchſtab. VOn dem Titel deß angezeigten Pſalmen / weiß ich\nnit / ich behilff mich deß Pſalmen:",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Kercker/ ein ewige gefenck=\nnuß sye/ wirt diser Text/ nach minem fůrgeben/ vest bly\nben. Ecolampadius\nMAn Beseche by dem propheten Esaia/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6163,
+        "semantic_match": "mag billich ein Kercker genempt\nwerden. Bůchſtab. VOn dem Titel deß angezeigten Pſalmen / weiß ich\nnit / ich behilff mich deß Pſalmen:",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "was vor\nvnd nach gange/ so wirt sich wol erfinden/ ob di\nse min gloß/ ein frömbde syge/ oder nitt:",
         "b": "Schlußred. 487\nEcolampadius. MAn beſeche by dem Propheten Eſaia / was vor vnd\nnach gange / ſo wirt ſich wol erfinden / ob diſe myn\ngloß /",
-        "similarity": 0.5581
+        "similarity": 0.5581,
+        "semantic": 0.5803,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "in dem\ncxlj. psalmen/ mag man vß dem Titel dessel=\nben psalmen/ wol mercken/ was der Dauid verstanden\nhab durch den Kercker:",
         "b": "ein frömbde ſyge / oder nit : in dem 141. Pſal-\nmen / mag man vß dem Titel deſſelben Pſalmen / wol mer-\ncken /",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.8936,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dann der selb psalm/ hat ein sölí\nche überschrifft: Ein verstand Dauid/ da er wß in der hú\nle/ Von welchem wol zů vermercken/",
         "b": "was der Dauid verſtanden hab durch den Kercker: dann der ſelb Pſalm / hat ein ſöliche übeſchrifft : Ein ver-\nſtand Dauid /",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.91,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "das der Dauid be\ngärt hat/ von Saul erlediget zů werden/ vnd von siner\nanfächtung/ welche anfächtung er einen Kercker nennet.",
         "b": "da er was in der Hüle / Von welchen wol zů-\nvermercken / daß der Dauid begårt hat von Saul erlediget\nzů werden /",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.8575,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Also ouch/ so wir bätten disen psalmen/ begären wir/ vō\nvnsern geystlichen syenden vnnd anfechtungen/ erlöst\nwerden. Wo ouch der Schůlmeister den kercker der ver\ndampten/",
         "b": "vnd von ſyner anfechtung / weliche anfechtung\ner einen Kercker nennet. Alſo ouch / ſo wir båtten diſen\nPſalmen / begåren wir von vnſern geiſtlichen Fyenden vnd\nanfechtungen erlößt werden.",
-        "similarity": 0.4528
+        "similarity": 0.4528,
+        "semantic": 0.8397,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "nit welte lassen sin ewig/ wurd er in den Dzige\nnischen jrsal fallen. Wir habend Matthei am xvij. von\ndem/",
         "b": "Wo ouch der Schůlmeiſter\nden Kercker der Verdampten / nit welte laſſen ſyn ewig / wurd er in den Origeniſchen Jrrſal fallen.",
-        "similarity": 0.45
+        "similarity": 0.45,
+        "semantic": 0.5088,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "der das hochzytlich kleyd nit hatt/ das jn der Ků=\nnig hat geheyssen geworffen werde/ mit gebundnen hän=\nden",
         "b": "Wir habē Mat-\nthei am 22. von dem / der das hochzytlich Kleid nit hat / daß\nin der Künig hat geheiſſen geworffen werden /",
-        "similarity": 0.3902
+        "similarity": 0.3902,
+        "semantic": 0.6615,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -113,7 +133,11 @@
         "b": "Vnd Eſaia. Hat\nDauid begårt vom Saul gelediget zůwerden / vnd",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7411,
+    "reworded": 7,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5011,

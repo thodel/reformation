@@ -39,25 +39,34 @@
         "op": "match",
         "a": "Seite [X]\nDie fünffte\ndann der Daniel ſchribt / das es allein wårde vffhoren\nvierdhalb Jar. Hie wil ichs beuolhen haben der ſchrifft/",
         "b": "daß hie an di=\nſem ort / von dem ſelbigen geredt werde/ dann der Daniel\nſchribt/das es allein werde vffhoͤren vierdthalb Jar.",
-        "similarity": 0.3556
+        "similarity": 0.3556,
+        "semantic": 0.7565,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnd dem Chriſtlichen låſer. Ecolampadius. [Initial D] Er Daniel ſchribt in zweyerley wåg / von vff=\nhórung der opfer. Ein mal vff vierdhalb Jar/",
         "b": "Hie\nwil ichs befolhen haben der Schrifft/vnd dem Chriſtlichen\nLaͤſer. Ecolampadius. DEr Daniel ſchribt in zweyerley waͤg /",
-        "similarity": 0.3721
+        "similarity": 0.3721,
+        "semantic": 0.7749,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "als am ſybenden cap. Solchs iſt erfult vnder de\nAntiocho vor der zyt Chriſti. Zum anderen / by der zyrd\nzerſtórung Jeruſalem /",
         "b": "von vffhoͤ=\nrung der opffer. Ein mal vff vierdthalb Jar / als\nam 7. Capit. Solche iſt erfuͤllt vnder dem Antio=\ncho vor der zyt Chriſti.",
-        "similarity": 0.3404
+        "similarity": 0.3404,
+        "semantic": 0.6543,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "ſólche vffhórung des opffers/die\nSüch hieuor wårt für vnd für/wie Meyſter Vlrich geſagt hatt. am nechſten\nblat. Meyſter Vlrich zwingli\n[Initial D] Eßhalb/die ort Danielis nit bewåre/dz die Måß\nein opffer ſye/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.76,
+        "semantic_match": "414          Die fuͤnfft. Gilg Murer. ES mag nit verſtanden werden/von dem opffer der\nJuden/dann ob glych daſſelbig/nach jr ordnũg hette\nvffgehoͤrt/ſo mag darumb nit volgen /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,13 +78,18 @@
         "op": "match",
         "a": "dann an beyden orten / die zyt langeſt\nerfult ſind / veranlaſſend vns ouch vff rechten verſtand\nder glóubigen. Johannes Büchſtab. [Initial D] Je wil man gſchrifft mit gſchrifft vßlegen ſoll/",
         "b": "Meiſter Vlrich Zwingly. DEßhalb / die ort Danielis nit bewaͤren / das die\nMaͤß ein Opffer ſye/dann an beyden orten/die zyt\nlangeſt erfuͤlt ſind/veranlaſſend vns ouch vff rech=\nten verſtand der Gloͤubigen.",
-        "similarity": 0.4242
+        "similarity": 0.4242,
+        "semantic": 0.5563,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "vñ aller meyſt/die ſchrifft des alten Teſtamēts/ mit den gſchrifften des nüwen Teſtaments/er=\nklårt ſóllen werden/finden wir an dryen ortenn/das die\nprophetien Danielis vff vns dienen/namlich Danielis\nam xj.ſtat.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6218,
+        "semantic_match": "Johannes Buͦchſtab. DJewyl man Gſchrifft mit Gſchrifft vßlegen ſoll/ vnd allermeiſt/die Gſchrifft deß alten Teſtaments/ mit\n## Marginalien\nSuͦch\nhievor\nam 413. blat.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -99,7 +113,10 @@
         "op": "only_a",
         "a": "zů den Theſſalonern in der ij. Epiſt. dienen vol haruff / vnd geben diſen worten eynen\nverſtand",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6241,
+        "semantic_match": "Johannes Buͦchſtab. DJewyl man Gſchrifft mit Gſchrifft vßlegen ſoll/ vnd allermeiſt/die Gſchrifft deß alten Teſtaments/ mit\n## Marginalien\nSuͦch\nhievor\nam 413. blat.",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -107,7 +124,11 @@
         "b": "Johannes Buͦchſtab. DJewyl man Gſchrifft mit Gſchrifft vßlegen ſoll/ vnd allermeiſt/die Gſchrifft deß alten Teſtaments/ mit\n## Marginalien\nSuͦch\nhievor\nam 413. blat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6783,
+    "reworded": 6,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3753,

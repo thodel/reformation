@@ -45,7 +45,9 @@
         "op": "match",
         "a": "Seite [X]\nSchlußred. L\nfür ſich ſelbs/ſonders ſo bald die Sonn nit lúchtet/ſo iſt\nder tag númen. Alſo ouch die Apoſtel/habend ſo vil liech\ntes/ſo vil jne die Sonn der gerechtigkeyt/Chriſtus gibt/",
         "b": "nützit für ſich ſelbs/ ſond ſo bald\ndie Sonn nit lüchtet/ ſo iſt der tag nümen. Alſo\nouch die Apoſtel/",
-        "similarity": 0.6316
+        "similarity": 0.6316,
+        "semantic": 0.8172,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -57,13 +59,17 @@
         "op": "match",
         "a": "vnnd wo die Sonn nit lúchtet/da iſt kein liecht/vnd yſt\nChriſtus alſo allein das liecht/das läben vnd die krafft/",
         "b": "vnnd\niſt Chriſtus alſo allein das liecht/ das läben vñ\ndie krafft/ die alle menſchen erlüchtet/ läbendig\nmacht vñ behaltet.",
-        "similarity": 0.5238
+        "similarity": 0.5238,
+        "semantic": 0.7859,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "die alle menſchen erlúchtet/läbendig macht vnd behal=\ntet. Vnd ſind die Apoſtel erlúchte/läbendig gemacht gli\nder der Kilchen/vnd nit höupter/ſag ich lieber herr pfar\nrer/zů üwer vnderrichtung vnd der einfaltigen.",
         "b": "Vnd ſind die Apoſtel erlüch\nte/ läbendig gemachte glider der Kilchen/ vñ nit\nhoͧpter. Sag ich lieber herr Pfarrer/",
-        "similarity": 0.4364
+        "similarity": 0.4364,
+        "semantic": 0.8967,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,7 +81,9 @@
         "op": "match",
         "a": "Pfarrꝛ. ALs dann herr Berchtold vngefürt hatt/wie\ndie zwölffbotten nit ſygend liechter der wellt we\nſenlich/hett es des núts dörffen/jm iſt niemāts\ndarwider gſin/das er aber darnābend vngefürt hat/wie\ndann herr Berchtold ſagt/Chriſtus ſye allein das we=\nſenlich liecht/vnd die zwölffbotten nit/gloubt yedermā.",
         "b": "hett es des nüt dorffen: jm iſt niemants\ndarwider gſin. Das er aber darneben yngefürt\nhat/ wie dañ herr Berchtold ſagt/",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.7446,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,19 +95,27 @@
         "op": "match",
         "a": "Aber das exempel võ byſpil/ſo Meiſter Vlrich Zwing=\nly geredt/von dem liecht mit gegeben/vonn der Sonn\ndurch das fennſter/erkenn ich eygentlich wol/on alles\nmittel das/das war liecht iſt/vñ der anfang des liechts.",
         "b": "von\ndem liecht mir geben/ von der Sonn durch das\nfenſter/ erkenn ich eygentlich wol/ one alles mit=\ntel/ das/",
-        "similarity": 0.4407
+        "similarity": 0.4407,
+        "semantic": 0.7439,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Aber der ſchyn der durchtringt das fennſter/hoff ich/er\nlaß mirs ouch ein liecht ſin. Alſo ouch zů ynfürung miner\nBeſchlußred/erkenn ich ouch Gott den Herren Jeſum\nChriſtum min behalter vnnd aller welt/ein houpt ze ſin.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8348,
+        "semantic_match": "Chriſtus ſye\nallein das wäſenlich liecht/ vnd die zwölffbotten\nnit/ gloubt yederman. Aber das exempel vnnd\nbyſpil/ ſo Meiſter Vlrich Zwingly geredt/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Aber das nit ſye ein verordnet houpt nachgelaſſen von\nſinem Göttlichenn wort/werde nyemand wider mich\nbewären/vnd empfilch mich alſo den göttlichen worte/ N ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7809,
+        "semantic_match": "Chriſtus ſye\nallein das wäſenlich liecht/ vnd die zwölffbotten\nnit/ gloubt yederman. Aber das exempel vnnd\nbyſpil/ ſo Meiſter Vlrich Zwingly geredt/",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -107,7 +123,11 @@
         "b": "das waar liecht iſt/ vnd der anfang des\nliechts. Aber der ſchyn dͦ durchtringt dz fenſter/ h ij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8006,
+    "reworded": 5,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5892,

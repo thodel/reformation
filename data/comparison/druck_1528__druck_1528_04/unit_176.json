@@ -57,7 +57,9 @@
         "op": "match",
         "a": "in welicher uͤch der heylig geyſt ge\nſetzt hat/ Biſchoff oder Hirten/ zuͤ regieren die Kilchen\nGottes/ welch er uͤberkomen hat mit ſinē bluͤt zc.",
         "b": "Die ander\nzů regieren die Kilchen Gottes/ welche er über=\nkommen hatt mit ſinem blůt/zc. in welchen klar\nlich anzeygt wirt/",
-        "similarity": 0.32
+        "similarity": 0.32,
+        "semantic": 0.8338,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -69,43 +71,58 @@
         "op": "only_a",
         "a": "65. bla\nSuͤch am. 58. 48. 77. 79. vn\nam nåchſten\nblatt harnach. Suͤch hieuor\nam 63. blatt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6781,
+        "semantic_match": "Damit wil ich be=\nſchlieſſen\n\n## Marginalien\nSůch am\n44.45.71. blat. Sůch am\n67.56.88. blat. Sůch am\n72.blat. Sůch am\n72.blat.",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "***\n\n**Martinus Bucer.**\n\nIn der Offenbarug Gottes/ die er zuͤ allen glöu\nbigē im hertzē redt/ iſt vorhin uͤberflüſſig durch\nMeiſter Vlrich Zwinglin vnnd mich/",
         "b": "das regieren der Kilchen. Martin Butzer. Von der offenbarung Gottes/ die er zů allen\ngloͤubigen im hertzen redt/ iſt vorhin überflüſſig\ndurch Meyſter Vlrich Zwinglin vnd mich/",
-        "similarity": 0.5283
+        "similarity": 0.5283,
+        "semantic": 0.7434,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "anzeigt/ vnd derglychen ouch von den ordnungen der rechtglöubigen\ngemeynd/ ouch dem regieren/ das doch weydē heyßt/ zc. rozuͤ ij.",
         "b": "an=\nzeygt. Der glychen ouch von den ordnungẽ der\nrechtgloͤubigen gemeind: ouch dem regieren/ dz\ndoch weydẽ heyßt. Actorũ xx.",
-        "similarity": 0.4878
+        "similarity": 0.4878,
+        "semantic": 0.8398,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "deren Biſchoff. zc. Des alles referier ich mich vff\nDie Acta. **Theobaldus Huͤter.**\n\nVnd nach dem bißhar nit wyter anzogen iſt/",
         "b": "deren Biſchoff/zc\nDes alles referier ich mich vff die Acta. Theobaldus Huͤtter. Vnd nach dem bißher nit wyter anzogen iſt.",
-        "similarity": 0.9091
+        "similarity": 0.9091,
+        "semantic": 0.7016,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Ac=\ntorum ij. In dem vorgenanten capitel/ ſpricht\ner alſo: Vnd ietz empfilch ich uͤch Gott/ vn̄ dem\nwort ſiner gnadē/",
         "b": "Actorum ij. In dem vorgenanten capi. ſpricht\ner alſo: Vnd ietz empfilch ich uͤch Gott/ vnd dem\nwort ſiner gnaden /",
-        "similarity": 0.7907
+        "similarity": 0.7907,
+        "semantic": 0.7886,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "der da mächtig iſt zuͤ erbuwen/ vnd ze\ngeben die erbſchafft in allen geheyligoten. Vß welichem\ntext klarlich volget/ die erbſchafft zuͤ leren/",
         "b": "der da maͤchtig iſt zů erbu=\nwen/ vnd zegeben die erbſchafft in allen gehey=\nligoten. Vß welchẽ text klarlich volget/",
-        "similarity": 0.5909
+        "similarity": 0.5909,
+        "semantic": 0.678,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "in allen ſinen\nvßerwelten klarlich gemerckt/ was Gott ſinem geſpons\nvnd",
         "b": "die erb=\nſchafft zů leeren/ in allen ſinen vßerwelten klar=\nlich gemerckt/ was Gott ſinem geſpons vñ ge=\nmachel der Chriſtenlichen Kilchẽ beuolchen.zc.",
-        "similarity": 0.5143
+        "similarity": 0.5143,
+        "semantic": 0.4939,
+        "reading": "check"
       },
       {
         "op": "only_b",
@@ -125,7 +142,11 @@
         "b": "Damit wil ich be=\nſchlieſſen\n\n## Marginalien\nSůch am\n44.45.71. blat. Sůch am\n67.56.88. blat. Sůch am\n72.blat. Sůch am\n72.blat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7197,
+    "reworded": 3,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4024,

@@ -39,25 +39,33 @@
         "op": "match",
         "a": "Seite LXXD\nDie vierde\nvierde Schlußred lutet/das der lyb vnd das blůt Chri\nſti weſenlich vnnd lyblich in dem brot der danckſagung/",
         "b": "So nun die\nvierdt schlußred lutet/ Das der lyb vnd das bluͦt\nChristi waͤsenlich vnnd lyblich in dem Brot der\ndancksagung/empfangen werde/moͤge mit Bi\nblischer geschrifft nit bybracht werden.",
-        "similarity": 0.5263
+        "similarity": 0.5263,
+        "semantic": 0.5997,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "empfangen werde/mög mit Bibliſcher geſchrifft nit by=\nbracht werden. Dargegen ich nun vnd min mit aſſren/ ſölichs der geſchrifft nit entgegen/ſonders mit geſundem\nverſtand der gſchrifft/wol möge bybracht werden.",
         "b": "Darge-\ngen ich nun/vnd min mithafften/soͤlichs der ge\nschrifft nit entgegẽ/sonders mit gesundem ver\nstand der gschrifft/wol moͤge bybracht werdeñ.",
-        "similarity": 0.4828
+        "similarity": 0.4828,
+        "semantic": 0.735,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Die=\nwyl vnd vnſer heyland/Chriſtus/die ding ſo er vff dem\nerdtrich hatt gelert vnd than/wellchem der himmeliſch\nvatter zůgnuß gebenn hat/Matthei am xvij.",
         "b": "Diewyl vnd vnser heylland/Christus/die ding\nso er vff dem erdtrich hat gelert vnd than/welli-\nchem der himmelsch vatter zuͤgnuß geben hat/",
-        "similarity": 0.6154
+        "similarity": 0.6154,
+        "semantic": 0.8891,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "capitel: Das iſt min geliebter ſun/in dem ich mir hab wolgefal=\nlen/den hörend. Als er hat wellen vffheben/das alt Te\nſtament/vnnd anheben ein nůws/hat er vßgeſchickt ſi=\nne Apoſtel zů predigen/die ding ſo ſy gehört haben vnd\ngeſehen/Johannis in der erſten Epiſtel am erſten capit.",
         "b": "Matthei am xvij.ca. Das ist min geliebter sun/ in dem ich mir hab wolgefallen/den hoͤrend. Als\ner hat wellen vffheben das alt Testament/vnnd\nanheben ein nüws/hat er vßgeschickt sine Apo\nstel zuͦ predigen/die ding so sy gehoͤrt haben vñ\ngesehen/Johannis in der ersten Epistel am er-\nsten cap.",
-        "similarity": 0.7222
+        "similarity": 0.7222,
+        "semantic": 0.926,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,19 +77,26 @@
         "op": "match",
         "a": "keyne andern Predigern anzenemen/dann ſo Chriſtus\nhat verordnet: dann niemand anderſt den vatter erken\nnet/dan der Sun/vnd wäm ers hat eroffnet/hats ouch\nniemand dann ſinen Apoſtlen/die er hat vßgeſandt zů\npredigen/das er jnen durch den geyſt hat eroffnet.",
         "b": "hats ouch niemand dann\nsinen Apostlen/die er hat vßgesandt zuͦ predigẽ/ das er jneͤ durch den geyst hat eröffnet.",
-        "similarity": 0.5625
+        "similarity": 0.5625,
+        "semantic": 0.8331,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Das\ner aber jnen eroffnet hat/iſt in der gſchrifft bfaſſet/nam=\nlich Chriſtum Jeſum den crůtzigeten/den Juden ein er=\ngernuß/den Heyden ein torheyt/den berůfftenn aber die\nkrafft Gottes.",
         "b": "Das er\naber jnen eröffnet hat/ist in der gschrifft verfas-\nset/Namlich Christum Jesum den crützigeten/ den Juden ein ergernuß/den Heydẽ ein torheit/ den",
-        "similarity": 0.6897
+        "similarity": 0.6897,
+        "semantic": 0.9034,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "So wir nun aber von Chriſto Jeſu zwey\nding gloubend/namlich Allmechrigkeit vnd Warheyt. Dann die wort des Herren/warheit ſind/Joannis am\nxvij.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6898,
+        "semantic_match": "Die vierdt\nBenedictus Burgouwer/Pfarrer\nzuͦ Sant Gallen. Gott erbarme sich vnser/vnnd gesaͤgne vns: zuͤnde ouch an in vns sin Goͤttlich liecht/vff das\nwir erkennind sinen waͤg/Amen.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -95,7 +110,11 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7966,
+    "reworded": 2,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5441,

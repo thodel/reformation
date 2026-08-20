@@ -39,7 +39,10 @@
         "op": "only_a",
         "a": "den Christen aber den dienst\nGöttliches worts. Also findt es sich selbs an\nsprüchen / vom spruch in den geschichten der Apostel am\nxx.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7155,
+        "semantic_match": "ꝛc. Hat nun Chriſtus die Kilch uͤberkommen durch ſyn\nSterben und Bluͤtvergieſſen / wie iſt ſy dann vor jhm\ngeweſen :",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -51,43 +54,57 @@
         "op": "match",
         "a": "Capitel. Von mir angezogen\nzebewysen geystliche oberkeyt sye wider mich / so\ndoch daby stat / das Christus sye ein behalter der Kilch=\nen /",
         "b": "Die Erſte Schlußred. 133\n\ngeiſtliche Oberkeit ſeye wider mich / ſo doch daby ſtaht / daß\nChriſtus ſeye ein Behalter der Kilchen /",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.6385,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnd aber ich das vßgelassen hab / vnd allein das an=\ngezogen / die wyber söllen jren mannen gehorsamen vnd\nvnderthänig sin als eine herrn /",
         "b": "und aber ich das\nvßgelaſſen hab / und allein das angezogen / Die Wyber\nſoͤllen jhren Mannen gehorſammen und underthaͤnig ſyn\nals einem Herren /",
-        "similarity": 0.5957
+        "similarity": 0.5957,
+        "semantic": 0.7945,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dañ o mañ ist ein houpt\nder frouwen / also ist ouch Christus ein houpt der Kilche\nAntwurt ich / dz ich durch disen spruch allein hab wellen\nanzeygen /",
         "b": "dann der Mann iſt ein Haubt der\nFrauen / alſo iſt auch Chriſtus ein Haubt der Kilchen : Antwort ich / daß ich durch diſen Spruch allein hab woͤl-\nlen anzeigen /",
-        "similarity": 0.5357
+        "similarity": 0.5357,
+        "semantic": 0.7303,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das houpt syn / oberer sin / vñ herr sin / eins für\ndas ander möge genomen werdẽ / hab damit Christo nit\nwellen abrechen /",
         "b": "das Haubt ſyn / Oberer ſyn / und Herr ſyn / eins fuͤr das ander moͤge genommen werden / hab damit\nChriſto nit woͤllen abbrechen /",
-        "similarity": 0.4889
+        "similarity": 0.4889,
+        "semantic": 0.9505,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "das er nit sige ein behalter der Kilchen / dann ich das in die ewigkeyt wil bekennen. ***\n**Berchtoldus.**\n\nVJr haben nun offt /",
         "b": "daß er nit ſyg ein Behalter\nder Kilchen / dann ich das in die Ewigkeit wil bekennen. Berchtoldus. WIr haben nun offt /",
-        "similarity": 0.8095
+        "similarity": 0.8095,
+        "semantic": 0.7164,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das Christus das houpt der\nKilchen sye / Christus ist aber nitt nur mensch\nsonder ouch gott / darumb v̄ns beuyler hat /",
         "b": "daß Chriſtus das Haubt der Kil-\nchen ſeye / angezeigt / Chriſtus iſt aber nit nur\nMenſch ſonder auch Gott / darum uns bebylet hat //",
-        "similarity": 0.5116
+        "similarity": 0.5116,
+        "semantic": 0.9544,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dz\nMeyster Niclaus gesagt / Christus sye der Kilchen inge=\nlybet worden / als ob die Kilch vor Christo wer gewesen\nder doch der eingeborn ist aller Creaturen / zun Colossen.",
         "b": "daß\nMeiſter Niclaus geſagt : Chriſtus ſeye der Kilchen yn-\ngelybet worden / als ob die Kilch vor Chriſto waͤre ge-\nweſen /",
-        "similarity": 0.4898
+        "similarity": 0.4898,
+        "semantic": 0.8783,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -119,7 +136,11 @@
         "b": "diſevWort zeigen an einen groſſen Unverſtand\ndiſer Goͤttlichen Dingen / der jhm billich wehren ſoͤlt / unſer ja mehr Goͤttlicher Warheit zewiderfechten / wahr\nR ij iſts /",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7973,
+    "reworded": 4,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3881,

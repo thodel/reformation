@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "V\nDie erst\nvnnd widerumb geystlich / Sodoma vnnd Egyptus. Sie sind nun nit abtrünnig gewesen von Jherusalem/ der heyligen statt Gottes/die sich nit hand geben inn die\nAbgotteryen/o8mit ungerechtigkeit befleckt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6043,
+        "semantic_match": "vnd alſo mit ſölicher begird/ daß\nman ee die gantze Welt verlaſſen/ begärt/ dann diſen glou-\nben in Chriſtum. So wir nun ſölichen glouben begären/",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Also ouch\nnun/söllen nit gezellt werden/als abtrünnig von Chri-\nstenlicher gmeynd/die da in dem glouben in Christo sich\nBeslissen zeuerharren/vnd vmb Chriftus willen ein liebe\ntragen gegen mengklichem/vnmoglich ist es/das sõlich\nnit in Christenlicher gemeynd burger sind.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7249,
+        "semantic_match": "Schlußred. II\nmengklichem/ vnmöglich iſt es/ das ſölich nit in Chriſtenli-\ncher gemeind Burger ſind. Den Glouben nenn ich aber\nhie nit Erkandtnuß aller ſonderlichen ſtucken in der Ge-\nſchrifft:",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -51,7 +57,9 @@
         "op": "match",
         "a": "Den glouben\nnenn ich aber hie nit erkantnuß aller sonderlichen stucké\nin der geschriffe: sonder das vertruwen in Gott/vndin\nJesum Chriftum fin gesandten/durch welichen glouben\nman bereyt ist/dz woit gottes zehozen/vnd also mit så\nlicher begird/dz man ee die gantze welt blassen/begårt/",
         "b": "ſonder das vertruwen in Gott/ vnd in Jeſum Chri-\nſtum ſin geſandten/ durch welichen Glouben man bereit iſt/ das Wort Gottes zehören/",
-        "similarity": 0.3714
+        "similarity": 0.3714,
+        "semantic": 0.8083,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,13 +71,17 @@
         "op": "match",
         "a": "dan disen gloube in Chriftu. So wir nun sölichen glou-\nben begåren/zu bekennen vi vßspreiten/vnd dem wort\nGottes an allen ortë gloubé geben/sind wir gewiß/das\ndheyn verbannung der mentschen/mog vns vstilgen/",
         "b": "zů\nbekennen vnd vßſpreiten/ vnnd dem Wort Gottes an allen\norten glouben geben/ ſind wir gewiß / das kein Verban-\nnung der Menſchen/",
-        "similarity": 0.4828
+        "similarity": 0.4828,
+        "semantic": 0.8721,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vs dem Büch der labenden: oder billich zelle/als abrrün-\nnig von Christelicher gemeinsame/zunozab/diewyl wir\nBegirig/allen glidern Chrifti/in warer liebe anzchange.",
         "b": "mög vns vßtilgen/ vß dem Bůch der\nLåbenden: oder billich zellen/ als abtrünnig von Chriſtenli-\ncher gemeinſame/ zuuorab/ diewyl wir begirig/",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.8316,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -81,7 +93,9 @@
         "op": "match",
         "a": "Alexius Grat/Prediger ordens/bycht-\nuarter in der Jsel zü Bern. Die heylig gmenn Chriftenlich filch/de\nro einig houpe Chriftus ist/die ist geboren\nbfz dem worx Gottes in dem fy blybt/vnd\nborer keins frombden stim. Sise",
         "b": "dero\nHoupt Chriſtus iſt/ die iſt geborē vß dem Wort\nGottes/ in dem ſy blybt/ vnd höret keins fröm-\nden ſtim̄.",
-        "similarity": 0.3667
+        "similarity": 0.3667,
+        "semantic": 0.7198,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -89,7 +103,11 @@
         "b": "DJſe Schlußred begrifft vier Arti-\nkel. Der erſt iſt: Chriſtus iſt der heiligen/ ge-\nmeinen Kilchen einigs Houpt. Wenn diſer\nArtickel verſtanden wirt/ von dem innern vn-\n      B    ij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7602,
+    "reworded": 5,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5036,

@@ -33,49 +33,65 @@
         "op": "match",
         "a": "Schlußred. 211\nmend har jr gebenedyeten mines Vatters / beſitzend das\nRych das üch zügericht iſt von anfang der Welt : Mich\nhat gehungert/vnd jr habend mich geſpyſt/etc.",
         "b": "Schlußred. 211\n\nmend har jr gebenedyeten mines Vatters / beſißend das\nRych das üch zůgericht iſt von anfang der Welt : Mich\nhat gehungert/vnd jr habend mich geſpyſt/etc.",
-        "similarity": 0.9643
+        "similarity": 0.9643,
+        "semantic": 0.9607,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Martinus Butzer. DAs ort Joan.am 6.cap.Das iſt das Werck Gottes/ das jr gloubind an den / den er geſandt hat/",
         "b": "Martinus Butzer. DAs ort Joan.am 6.cap.Das iſt das Werck Gottes/ das jr gloubind an den / den er geſandt hat /",
-        "similarity": 1.0
+        "similarity": 1.0,
+        "semantic": 0.9992,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Iſt ein\nnach åſrende red/zü Griechiſch μίμησις, Latine, Imi-\ntatio,genant/als ſy etlich züſammen kåmen/ vnd ſpråchen: Wellen wir nit mit einandern zåchen /",
         "b": "Iſt ein\nnach åfrende red/zů Griechiſch μίμησις, Latine, Imi-\ntatio,genant/als ſy etlich zůſammen kåmen/vnd ſpråchen: Wellen wir nit mit einandern zåchen /",
-        "similarity": 0.96
+        "similarity": 0.96,
+        "semantic": 0.9601,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd einandren ſag=\nten daruff / das wirt vnſer zåch ſin / wir müſſend ſchryben/ oder derglychen etwas thůn. Da wåre ſchryben nit zå=\nchen/wurde aber in nachåſrender red/",
         "b": "vnd einandren ſag-\nten daruff / das wirt vnſer zåch ſin / wir müſſend ſchryben/ oder derglychen etwas thůn. Da wåre ſchryben nit zå-\nchen/wurde aber in nachåfrender red/",
-        "similarity": 0.9643
+        "similarity": 0.9643,
+        "semantic": 0.8547,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "alſo genant. Der=\nmaſſen hat ouch der Herz gethan/ die Juden fragten nach\nWercken / von denen wolt er ſy zum glouben züchen/",
         "b": "alſo genant. Der-\nmaſſen hat ouch der Herr gethan / die Juden fragten nach\nWercken / von denen wolt er ſy zum glouben züchen/",
-        "similarity": 0.9545
+        "similarity": 0.9545,
+        "semantic": 0.927,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnnd\nnempt nach jr red den glouben / ein Werck Gottes / das iſt\nein Werck/das by Gott gelten wurde: Als hette er geſagt/",
         "b": "vnnd\nnempt nach jr red den glouben / ein Werck Gottes / das iſt\nein Werck/das by Gott gelten wurde: Als hette er geſagt/",
-        "similarity": 1.0
+        "similarity": 1.0,
+        "semantic": 1.0,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Jr fragend nach wercken / damit jr Gott gefallind: gloub=\nten jr an mich / das wåre ein recht Göttlich Werck / vnnd\nwurde minem Himmelſchen Vatter gefallen.",
         "b": "Jr fragend nach wercken / damit jr Gott gefallind: gloub-\nten jr an mich / das wåre ein recht Göttlich Werck / vnnd\nwurde minem Himmelſchen Vatter gefallen.",
-        "similarity": 1.0
+        "similarity": 1.0,
+        "semantic": 0.9945,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Das ander\nalles / iſt in der Erklårung Herzen Berchtolden/ überflüſ=\nſiger lütret. Bůchſtab. JR bringen mir zü zyten gloſſen / one vollkomne Ge=\nſchrifft/als ouch geſtern in der andren Schlußred/do\nich haryn fürt dry Sprüch / jetz in diſe Schlußred\nDd ij",
         "b": "Das ander\nalles / iſt in der Erklårung Herren Berchtolden/überflüſ-\nſig erlütret. Bůchſtab. JR bringen mir zů zyten gloſſen / one vollkomne Ge-\nſchrifft/als ouch geſtern in der andren Schlußred/do\nich haryn fürt dry Sprüch /",
-        "similarity": 0.8462
+        "similarity": 0.8462,
+        "semantic": 0.9371,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -95,7 +111,11 @@
         "b": "am\n[unleserlich]rden im\nAntwurt\n[unleserlich]loubind/ [unleserlich]iſſen die\nEind jr\n[unleserlich]mma/ſo\n[unleserlich]erde am\nRom. mend",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.9542,
+    "reworded": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.8455,

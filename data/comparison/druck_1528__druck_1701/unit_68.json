@@ -39,13 +39,18 @@
         "op": "match",
         "a": "Seite [28]\nSchlußred. XXVIII\nvnnd das wyter anzeygt/wo der geyſtlich menſch alle\nding richtet/ſo wurde er die gſchrifft ouch richten/geben\nwir diſe anttwurt/dz die geſchrifft geyſtlich iſt/wie Pau-\nlus ſagt/dann das geſatz iſt geyſtlich/vnd der geyſtlich\nmenſch vrteylet alles der lyebenach/vß eim glouben/dz\niſt er vnderſcheidet/was gloub vnd lieb gemåß ſye.",
         "b": "geben wir diſe Antwort / daß die\nGeſchrifft geiſtlich iſt / wie Paulus ſagt / dann das Geſatz\niſt geiſtlich / vnd der geiſtlich Menſch vrtheilet alles der\nLiebe nach vß einem Glauben /",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.4574,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "Zů\nletſt der die Kilch nitt hoͤzet/zc. Sagen wir das diſer\nſpruch von der ſonderen gmeind gottes redt/welche ſich\nbegeben hatt im wåg des abſterbens zů låben/vnd wirt\nein vſſerlich gemeind deßhalben genempt/das ſy durch\nden geyſt zur lieb des nechſtes vnnd gloubens an Gott ge\nfürt wirt/welche nůtzit thůt/dann das Chriſtus vorhin\nin jr würcket/vñ alſo als glider nach ynfluß des einigen\nhoupts handlet/vñ låßt ſton wie ouch gemeldet iſt/wie\ndem gerechtenn keyn geſatz ſye geſtelt/dann Paulus in\nvnſerem fürbrachten ort/nit vom gerechten vff ſölliche\nwyß/ſonders eygentlichen vonn dem geyſtlichen/das iſt\nvon dem Chriſten redet.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8074,
+        "semantic_match": "das iſt / er underſcheidet\nwas Glaub und Lieb gemäß ſeye. Zů letzt / der die Kilch\nnit hoͤret / ꝛc. ſagen wir /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,7 +92,9 @@
         "op": "match",
         "a": "Doctor Cůnrad Treiger/ Prouincial. [F]amen frommen Chriſten/min herr Doctor\nwendt für/das diſer ſpruch Pauli: So er alſo\nſagt/den geyſtlichen richt niemands/er richt\naber alle ding/wie das ſöllichs ſöll verſtanden wer=\nden/vonn eynem yegklichen Chriſten/der da hatt den\ngeyſt des Herren empfangen/darumb es dann vonn\neyner gemeyner Chriſtenlichenn verſamlung verſtan=\nden wirde/dem ich dheins wågs widerſprich/ſonders",
         "b": "daß diſer Spruch Pauli / ſo er alſo ſagt : Den Geiſtlichen richt Niemand / er richt aber alle ding / wie daß ſoͤlichs ſoͤll verſtanden werden von einem jegli-\nchen Chriſten /",
-        "similarity": 0.3542
+        "similarity": 0.3542,
+        "semantic": 0.6281,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -101,7 +108,11 @@
         "b": "ſonders folget daruß / wie vormals angezeigt iſt\nworden / daß ſoͤliche gemeine Verſammlung im Geiſt deß\nHerzen",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.631,
+    "reworded": 2,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5255,

@@ -33,13 +33,18 @@
         "op": "match",
         "a": "Seite [X]\nDie erſt\nin ſtucken des gloubens/dheins wegs teylen. Jch erman\nſich aber frommen Chriſten/jr wellend ein hoch vffſechē\nhaben/vff die rechten ſecten/vñ vff die rechten zertren\nner Chriſtenlicher eynigkeit/vnd die ſo ſich in den hoͤch\nſten ſtucken des gloubens/anfachen zertrennen:",
         "b": "72                     Die Erſte Schlußred. und vff die rechten Zertrenner Chriſtenlicher Einigkeit/ und die ſo ſich in den hoͤchſten Stucken deß Glaubens an=\nfahen zertrennen:",
-        "similarity": 0.3784
+        "similarity": 0.3784,
+        "semantic": 0.7987,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "jr haben\nye gehórt in zåhe jaren har/das einer Luterſch/der an=\nder Zwingliſch/der dritt Carolſtadiſch/der vierd Œ=\ncolampadiſch/der fünfft Widertóufferiſch/vnd dergly\nchen ſeltzamer namen/ſich nennen/oder/zum wenigoſtē/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7092,
+        "semantic_match": "Jhr haben je gehoͤrt in zehen Jahren\nhar/daß einer Lutheriſch/der ander Zwingliſch/der drit=\nte Caroloſtadiſch / der vierdt Ecolampadiſch /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,7 +62,9 @@
         "op": "match",
         "a": "genannt werden/die nit allein vnderſcheyd habē in kley\ndern: dann der ſelb vnderſcheyd/niemand nachteil oder\nſchaden bringen mag/ſonder ſich trennen in treſſenlichen\nſtucken vnſers vnbeflecktēnn gloubens/vnnd da iſt der\ngróſt ſchaden/vnd das hoͤchſt vffſechen zehabē.",
         "b": "dann derſelben Under=\nſcheid Niemand Nachtheil oder Schaden bringen mag/ ſonder ſich trennen in treffenlichen Stucken unſers unbe=\nfleckten Glaubens;",
-        "similarity": 0.3934
+        "similarity": 0.3934,
+        "semantic": 0.4942,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -69,13 +76,17 @@
         "op": "match",
         "a": "Es zeigt\nvns ouch an Martin Bůtzer/wie das alle Concilia biß=\nhar/wider ſich ſelbs geſin/vnd wider einandern gehand=\nlet/das ich jm/ſo er verſtan wil/in ſtucken des gloubens\nabred bin/vnd dheins wegs geſtan/er wirts ouch nůmer\nmer darbringen.",
         "b": "und wider einandern gehandlet/das ich jhm/ ſo er ver=\nſtahn wil/in ſtucken deß glaubens abred bin / und keines\nwegs geſtahn/er wirds auch nimmermehr darbringen.",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.4445,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Wol iſt war das in andren puncten/by\nlangen/malſtatten/eygen",
         "b": "Wol iſt wahr/ daß in anderen Puncten/by langen/mal=\nſtatten/ eigen Perſonen/Zyt/ꝛc. etwan ein Concilium\nhinweg gethan/das das ander geſetzt und gemacht hat/",
-        "similarity": 0.3158
+        "similarity": 0.3158,
+        "semantic": 0.6384,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -101,7 +112,11 @@
         "b": "dann der Herr der ſagt: So er dich nit hoͤrt/ſo nimm ei=\nnen oder zween zuͦ dir/und ſo er dieſelben nit hoͤren will/ ſo",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.617,
+    "reworded": 3,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3771,

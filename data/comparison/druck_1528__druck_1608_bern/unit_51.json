@@ -45,7 +45,9 @@
         "op": "match",
         "a": "Schlußred. XVIII\ndas wortly/in/als vil als eintzig: dann nieman wirt\njme ein nåbend Gort bekennen. Also ist ouch hie niemat\nnåbend Christo/derdas thün möge.",
         "b": "Ein/als vil als einzig : dann nieman wirt jme ein naͤbend\nGott bekennen. Alſo iſt ouch hie niemant naͤbend Chriſto/",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.7966,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -63,19 +65,25 @@
         "op": "match",
         "a": "Sarumb er von\nPaulo/ein houpt genempt wirt/darum ist er ein eintzig\nhoupt. Wyterdes würtlins halb/gschrifft vo:schen/ift\nwellenn/offenlich ein wort zanck/wider vnser gnadigen\nHerrn von Bernn Mandat ynfüren/das gib ich vnseren\nwirdigen hern den Presidenten/zü erkennen/vnnd der\ngantzen gemeynd gottes/hie verſamlet.",
         "b": "das gib ich vnſeren wirdigen Herrn den Pre-\nſidenten zuͦ erkennen / vnnd der gantzen gemeind Gottes/ hie verſamlet. Bychtuatter. HErr Martin ſagt /",
-        "similarity": 0.3836
+        "similarity": 0.3836,
+        "semantic": 0.5995,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Bichuatter. Err Martin ſagt/zum letsten/ich kempff mit\nworten/Sarzu sag ich/es ist ein anders kempf-\nfen mit worten/vnnd ein anders kempffen mit\ndé wort Gottes.",
         "b": "zum letzten / ich kempff mit Wor-\nten/ Darzuͦ ſag ich / es iſt ein anders kempffen mit\nWorten / vnnd ein anders kempffen mit dem Wort\nGottes.",
-        "similarity": 0.7037
+        "similarity": 0.7037,
+        "semantic": 0.8395,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Die text all die herr Marti harbracht\nhat/saged von eim mitler/jch red doch nit von eim mit=\nler/die conclusio lutet ouch nit daruon/sy lutet von eym\nhoupt/zwischend dem lyb/nit mittler.",
         "b": "Die Text all/ die Herr Marti harbracht hat/ſa-\ngend von eim Mitler/ich red doch nit von eim Mitler /",
-        "similarity": 0.6071
+        "similarity": 0.6071,
+        "semantic": 0.9122,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -87,13 +95,17 @@
         "op": "match",
         "a": "Ich han gestern\nzügelassen/vnnd laß noch zu/das Christus vnserheyl=\nland sye/ ein houpt der gantzen Christenbeit/hatt aber\nder regierung halb ein ſtatthalter gesetzt/mit den kreff=\ntigen worten/Weyd mine schaffly.",
         "b": "das Chriſtus vnſer Heiland ſye ein\nHoupt der gantzen Chriſtenheit / hat aber der Regierung\nhalb ein Statthalter geſetzt / mit den krefftigen Worten/",
-        "similarity": 0.6071
+        "similarity": 0.6071,
+        "semantic": 0.8199,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Ich han nåchtest ge=\nseyt/ich well damit beschlossen ban/wen mit allen spri=\nchen die harbracht sind/der dienstbarkeyt halb/wirt pe\n220 der gewallt/der jm vonn Christo gebenn/über die\nschaaff/nüt abbrochen.",
         "b": "Weid mine Schaͤffly. Ich han naͤchteſt geſeit/ich well da-\nmit beſchloſſen han/weñ mit allen Spruͤchen die harbracht\nſind/",
-        "similarity": 0.4068
+        "similarity": 0.4068,
+        "semantic": 0.7071,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -105,9 +117,16 @@
         "op": "only_a",
         "a": "Capitel/ Sa Paulus spricht/ Sas Jesus Christus ist gſin ein diener der schnydung/ 进门",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7359,
+        "semantic_match": "38                                      Die erſt\nniemand mitlen kan zwiͤſchen Gott vnnd den Menſchen/ dann allein Chriſtus/ſo gilt aber das Woͤrtly /",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.773,
+    "reworded": 2,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5487,

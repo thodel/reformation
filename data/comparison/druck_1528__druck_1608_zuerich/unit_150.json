@@ -39,7 +39,9 @@
         "op": "match",
         "a": "Seite [X]\nDie erſt\nerken die eynigkeit der Götlichen dryualtigkeyt/ ſo ſag\nich/ das ich darfür han/ das er mir daran vnrecht thůt/",
         "b": "ſo ſag\nich/das ich darfuͤr han/daß er mir daran vnrecht thuͦt/dañ\nich ſo lang den gloubẽ gebaͤttet han/das ichs wol weiß.",
-        "similarity": 0.3922
+        "similarity": 0.3922,
+        "semantic": 0.6218,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -51,43 +53,57 @@
         "op": "match",
         "a": "das\nder ſun Gottes ſye das houpt der Chriſtenlichen kilchen/ der da iſt jn ewigkeyt gebozen/ vß Gott ſym himelſchen\nvatter/",
         "b": "So\ner aber nun ſeyt/ vnd vor geſeit hat / das d:r Sun Gottes\nſye das Houpt der Chriſtenlichẽ Kilchen/der da iſt in ewig=\nkeit geboren/vß Gott ſym himmelſchen Vatter/",
-        "similarity": 0.566
+        "similarity": 0.566,
+        "semantic": 0.9051,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das gib ich ouch nach/ das aber darumb Chri=\nſtus ſig das einig houpt/ das gib ich noch nit nach/",
         "b": "das gib ich\nouch nach/daß aber darum̃ Chriſtus ſyg das einig Houpt/ das gib ich noch nit nach/ vnnd das vrſach/",
-        "similarity": 0.7143
+        "similarity": 0.7143,
+        "semantic": 0.83,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd\ndas vrſach/ das das wort (Chriſtus) iſt ein zytlichs wort\nvnnd iſt Chriſtus gebozen worden in der zyt/ als Lucas\nzůget/",
         "b": "daß das Wort\n(Chriſtus) iſt ein zytlichs Wort vnd iſt Chriſtus geboren\nwoꝛden in der zyt/als Lucas zuͤget/deß glychen Eſaie.",
-        "similarity": 0.6222
+        "similarity": 0.6222,
+        "semantic": 0.8686,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "des glichen Eſaie. Ecce uirgo concipiet. &c. Vnnd von\ndem ſelbigen ſag ich/ das Chriſtus nach der menſcheyt/ nit mag genempt werden eyn eynig houpt der Chriſten\nlichen kilchen.",
         "b": "Ecce\nvirgo concipiet, &c. Vnnd von dem ſelbigen ſag ich/das\nChriſtus nach der Menſcheit / nit mag genempt werden\nein einig Houpt der Chriſtenlichen Kilchen.",
-        "similarity": 0.7778
+        "similarity": 0.7778,
+        "semantic": 0.8929,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Sich hieuor\nam 66. blat. Zwingli. Iß argument darff keiner antwurt/ iſt in vnſer\nvozdrigen red klärlich verantwurt/ dz Chriſtus\nvns hie genomen wirt/",
         "b": "Zwingly. DIß Argument darff keiner antwurt/iſt in vnſer voꝛ=\ndrigen red klaͤrlich verantwurt / das Chriſtus vns\nhie genommen wirt fuͤr d:n /",
-        "similarity": 0.5306
+        "similarity": 0.5306,
+        "semantic": 0.8695,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "für den/ der warer Gott\nvon ewigkeyt har iſt/ vnnd ouch in der zyt menſch wor=\nden/ zc. Daniel Schat.",
         "b": "der warer Gott von\newigkeit har iſt/vnd ouch in der zyt Menſch woꝛden/ꝛc. Daniel Schatt. Meiſter Vlrich Zwingly/der begert von mir /",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.9275,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Meyster Vlrich Zwingli/ der begert von mir/ das\nich anzeyg ein anders houpt dann Chriſtum/ das\nſelbig ander houpt das find ich in der erſten Epiſtel zun\nCorinthern am xj.",
         "b": "das ich\ninzeig ein anders Houpt dann Chriſtum / das ſel=\nbig ander Houpt das ſind ich in der erſten Epiſtel\nzun\n\n## Marginalien\nSuͦch\nhieuoꝛ\nam 144. blat.",
-        "similarity": 0.6207
+        "similarity": 0.6207,
+        "semantic": 0.746,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -99,9 +115,16 @@
         "op": "only_a",
         "a": "vñ\ndarumb iſt Chriſtus nitt eyn eynig houpt der kilchenn\nZwingly.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6713,
+        "semantic_match": "146\tDie erſt\nDaniel Schatt. Der wolgelert Meiſter Vlrich Zwingly hat geſeyt\nam anfang diſer jetzigen red / das ich noch nit erken\ndie einigkeit der Goͤttlichen Dryfaltigkeit /",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.8147,
+    "reworded": 2,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5921,

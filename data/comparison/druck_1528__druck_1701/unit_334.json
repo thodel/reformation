@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite CLXI\nSchlußred\nAlſo wirt er nit mer by vnns verachtlich by wonen/ ſo=\nders wirt komen/das iſt/ſich eroffnen in der herrlikeit ſi=\nnes vatters/mit ſinen englen/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7711,
+        "semantic_match": "ſonders wird kom=\nmen / das iſt / ſich eroͤffnen in der Herzlichkeit ſynes Vat=\nters / mit ſynen Englen / Matthei am 26.",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -51,7 +54,9 @@
         "op": "match",
         "a": "Matthei am xxvj. cap. Iſt alſo die Vrſtende võ Oſſart Chriſti/ endtlichen ze=\nuerſtan/ein bekrefftigũg aller worten vnd wercke Chri\nſti/ſo Moyſes vnd die Propheten/vnd alle gſchrifft von\njm bezüget hat:",
         "b": "Cap.. Jſt\nalſo die Urſtånde und Uffahrt Chriſti endlichen zever=\nſtahn ein Bekråfftigung aller Worten und Wercken\nChriſti / ſo Moyſes und die Propheten /",
-        "similarity": 0.4561
+        "similarity": 0.4561,
+        "semantic": 0.8561,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,7 +68,9 @@
         "op": "match",
         "a": "daruß ich endtlich beſchlüß/ allweg zů\neinem Chriſtenlichen beſcheyd/ſo er die wort geredt hat/ des Nachtmals/vor ſiner himelfart/ſye die himmelfart\nden worten/nit entgegen.",
         "b": "ſo er\ndie Wort geredt hat deß Nachtmahls vor ſyner Him=\nmelfahrt / ſeye die Himmelfahrt den Worten nit entge=\ngen.",
-        "similarity": 0.4681
+        "similarity": 0.4681,
+        "semantic": 0.7544,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,19 +82,25 @@
         "op": "match",
         "a": "Butzerũs. M In herr pfarrer der vermeint/der dritt anzoge\narrickel (Von dannen er künfftig iſt zů richtē. zc)\nmit andren gſchrifften/die da anzeigen/das der\nHerr lyblich von vns zum vatter gangen iſt/vnnd erſt\nzum gericht wider künfftig:",
         "b": "zc ) mit andern Geſchrifften / die da anzeigen / daß\nder Herz lyblich von uns zum Vatter gangen iſt / und\nerſt zum Gericht wider kuͤnfftig:",
-        "similarity": 0.4848
+        "similarity": 0.4848,
+        "semantic": 0.4122,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "bringend nit mer/dann das\nder herr nit mer ſichtbarlich lyblich by vns ſye/vñ ſchla=\nchend nit ab/das er möge by vnns ſin lyblich/",
         "b": "bringend nit mehr / dann daß der Herz nit mehr ſichtbarlich lyblich by uns\nſeye / und ſchlagen nit ab daß er moͤge by uns ſyn lyblich /",
-        "similarity": 0.5385
+        "similarity": 0.5385,
+        "semantic": 0.5886,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "aber doch\nvnſichtbarlich. Daruff ſagenn wir/ wir blybend by der\neinfaltigen hällen vnd dürren gſchrifft/die vns anzey=\nget/er ſye von vns zum vatter lyblich gangen/vnd ha=\nbe die welt verlaſſen.",
         "b": "aber doch unſichtbarlich. Daruff ſagen wir / wir blyben\nby der einfaltigen hållen und duͤrzen Geſchrifft / die uns\nanzeiget / er ſeye von uns zum Vatter lyblich gangen /",
-        "similarity": 0.6333
+        "similarity": 0.6333,
+        "semantic": 0.7982,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -99,15 +112,24 @@
         "op": "match",
         "a": "Die gſchrifft leert vns nit von der\nmittlen wyß/das er lyblich/vnnd doch vnſichtbarlich by\nvns ſye/Paulus hert ſunſt ouch wol etwas vff ſine wort\nlutē laſſen/namlich/da er redt von dem Brot des nacht\nmals/in dem dann vnſer gegenteyl Chriſtum lyblich ze=\nhaben/vermeinend/Die Chriſten wellen acht nemmen\nder worten Pauli:",
         "b": "Paulus håt ſonſt auch wol et=\nwas uff ſyne Wort luten laſſen / namlich da er redt von\ndem Brodt deß Nachtmahls / in dem dann unſer Ge=\nTt\t\tgentheil",
-        "similarity": 0.3529
+        "similarity": 0.3529,
+        "semantic": 0.8846,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Dann ſo offt/ſo jr von dißem brot eſ=\nſend. zc. Das vnns fürgeworffen wirdt/aber ein mal/ die wort des Nachtmals ſygend geredt/ee das er gen\nSß",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7097,
+        "semantic_match": "ſonders wird kom=\nmen / das iſt / ſich eroͤffnen in der Herzlichkeit ſynes Vat=\nters / mit ſynen Englen / Matthei am 26.",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7219,
+    "reworded": 5,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.513,

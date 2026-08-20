@@ -45,37 +45,50 @@
         "op": "match",
         "a": "Seite CXXII\n\nDie vierde\nPfarrer von Sant gallen\nIch laß beliben wie vormals / geantwurt vnd erwart\nIwyter geschrifft. Ecolampadius\nEſzund kom ich vff etlich ſprüch /",
         "b": "JCh laß es blyben wie vormahls geantwortet / und\nerwarte wyter Geſchrifft. Ecolampadius. JEtzund komm ich vff etliche Sprüch / vorhin durch\nHerrn Benedict yngeführt /",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.6755,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vozhin durch\nherrn Benedict ingefürt / die ouch nitt dienlich\nſind / vnd zum erſten den ſpruch Johannis am\nxx. Cap. Den er vermeint ouch etwas gewaltiger zůſin/",
         "b": "die auch nit dienlich ſind/ und zum erſten den Spruch Johannis am 20. Capitel/ den er vermeynt auch etwas gewaltiger zů ſyn/",
-        "similarity": 0.5833
+        "similarity": 0.5833,
+        "semantic": 0.7259,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "da ſagt der text. Er hatt in ſy geblaſen vnd geſprochen\nzů jnen. Nemend/den heylig̃ geyſt/aber der glichen wirt\nnit geredt in den worten des Herrn Nachtmals /",
         "b": "da ſagt der\nText: Er hat in ſy geblaſen / und geſprochen zů jhnen: Nemmend den heiligen Geiſt: aber derglychen wird nit\ngeredt in den Worten deß Herren Nachtmahls /",
-        "similarity": 0.6316
+        "similarity": 0.6316,
+        "semantic": 0.7005,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "da es\nſtatt. Er hatt genommen das Brot / vnd ſtat nit er hat\ngenommen ſin Lyb / das ſich gebürt zeſetzen gegen dem\ndas da ſtat.",
         "b": "da es\nſtaht: Er hat genommen das Brodt / und ſtaht nit / Er\nhat genommen ſyn Lyb / das ſich gebürt zeſetzen gegen\ndem /",
-        "similarity": 0.7234
+        "similarity": 0.7234,
+        "semantic": 0.7514,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Johannis am xx. Capitel. Er hatt inn ſy\ngeblaſen. Vn̄ aber eins ſo Johan. am xx. cap. ſtat: Nem\nmend /",
         "b": "das da ſtaht Johannis am 20. Capitel. Er hat in\nſy geblaſen: und aber eins / ſo Johannis am 20. Capitel\nſtaht:",
-        "similarity": 0.4878
+        "similarity": 0.4878,
+        "semantic": 0.5472,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "hin den heyligen geyſt / ſo ſtat in den worten / des\nHerrn Nachtmal nit: Nemend hin min Lyb: vnd ſo da\nſtat in des herrn Nachtmal /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8886,
+        "semantic_match": "Nemmend hin den heiligen Geiſt / ſo ſtaht in den\nWorten deß Herren Nachtmahls / Das iſt myn Lyb: ſo\nſtaht nit Johannis am 20.",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,13 +100,17 @@
         "op": "match",
         "a": "das iſt min Lyb / ſo ſtat nit\nJohannis am xx. Cap. Der athem iſt der heylig geyſt/ Darumb ouch die wort nitt glych ſind /",
         "b": "Cap. Der Athem iſt der hei-\nlig Geiſt / darum auch die Wort nit glych ſind / und wird\nſyn Tropum daruß nit mögen erzwingen.",
-        "similarity": 0.383
+        "similarity": 0.383,
+        "semantic": 0.7238,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vñ wirt ſin Tropum\ndaruß nit mögen erzwingen. Pfarrer von Sant gallen\nIch antwurt kurtz / Chriſtus hat mermals die\ngöttlichen geyſtlichen ding /",
         "b": "Pfarrer von Sant Gallen. JCh antwort kurtz / Chriſtus hat mehrmahls die\ngöttlichen / geiſtlichen Ding mit vſſerlichem anzei-\nJi iij get/",
-        "similarity": 0.4762
+        "similarity": 0.4762,
+        "semantic": 0.8681,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -101,7 +118,11 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7351,
+    "reworded": 4,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5133,

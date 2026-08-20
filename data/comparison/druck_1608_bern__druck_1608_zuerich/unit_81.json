@@ -33,55 +33,73 @@
         "op": "match",
         "a": "56                  Die erſt\nwirt: Als ſy die ſtim deß froͤmbden nit hoͤrt / alſo iſt jr vnnd\njrem Spons vnnd Gemachel Chriſto froͤmbd /",
         "b": "56 Die erſt\nwirt: Als ſy die ſtim̃ deß froͤmbden nit hoͤrt/ alſo iſt jr vnnd\njrem Spons vnnd Gemachel Chriſto froͤmbd /",
-        "similarity": 1.0
+        "similarity": 1.0,
+        "semantic": 0.9911,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "welcher jr\nſtimm nit gehoͤrt. Die ander / darumb ſy dann von der Chriſtenlichen\nhaͤrd / als zertrenner Chriſtenlicher einigkeit /",
         "b": "welcher jr\nſtimm nit gehoͤrt. Die ander / darumb ſy dann von der Chriſtenlichen\nhaͤrd/als zertrenner Chriſtenlicher einigkeit /",
-        "similarity": 1.0
+        "similarity": 1.0,
+        "semantic": 0.9943,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnnd Kaͤtzer\nabſuͤndert / vnd by jren / die ein Sul vnnd Grundueſte iſt\nder Warheit / der hoͤchſt gewalt in ſachen deß Gloubens ze=\nhandlen /",
         "b": "vnnd Kaͤtzer\nabſuͤndert / vnd by jren/ die ein Sul vnnd Grundueſte iſt\nder Warheit/der hoͤchſt gewalt in ſachen deß Gloubens ze=\nhandlen /",
-        "similarity": 1.0
+        "similarity": 1.0,
+        "semantic": 0.9934,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "funden wirt / vnnd diewil aber beid jetz genannt\nSchlußred ſoͤllichs verneynnen / vnd allein das einig Wort\nGottes in haͤndlen deß Gloubens /",
         "b": "funden wirt / vnnd diewil aber beid jetz genannt\nSchlußred ſoͤllichs verneynnen/vnd allein das einig Wort\nGottes in haͤndlen deß Gloubens/Richter wellen ſyn /",
-        "similarity": 0.9388
+        "similarity": 0.9388,
+        "semantic": 0.9637,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Richter wellen ſyn / ſo\nwil ich das kuͤrtzlichen wider ſoͤllich Schlußred zuͦ beueſti=\ngung der minen / alſo darthuͦn.",
         "b": "ſo\nwil ich das kuͤrtzlichen wider ſoͤllich Schlußred zuͤ beueſti=\ngung der minen/alſo darthuͦn. So dick vnd vil /",
-        "similarity": 0.8372
+        "similarity": 0.8372,
+        "semantic": 0.7631,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "So dick vnd vil / vnd ſich zweyung vnd zwytracht zuͦ=\ntreit in vnſerem waren vnbefleckten Glouben / iſt von noͤ=\nten /",
         "b": "vnd ſich zweyung vnd zwytracht zuͤ=\ntreit in vnſerem waren vnbefleckten Glouben / iſt von noͤ=\nten / das da ein Richter funden werd /",
-        "similarity": 0.7619
+        "similarity": 0.7619,
+        "semantic": 0.9073,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das da ein Richter funden werd / der den zuckenden\nWolff / durch ſinen gewalt hinweg trybe / vnnd abſuͤndere\nvon der Haͤrd deß Herren /",
         "b": "der den zuckenden\nWolff / durch ſinen gewalt hinweg trybe / vnnd abſuͤndere\nvon der Haͤrd deß Herren / vnnd anzeig wellicher ein Hirt/",
-        "similarity": 0.766
+        "similarity": 0.766,
+        "semantic": 0.9242,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnnd anzeig wellicher ein Hirt / oder zuckender Wolff ſye. Diß iſt aber die Chriſtenlich\nKilchen / als Matth. am 18. cap.",
         "b": "oder zuckender Wolff ſye. Diß iſt aber die Chriſtenlich\nKilchen/als Matth.am 18.cap.geſchriben ſtadt: Welcher\ndie Kilch nit hoͤrt /",
-        "similarity": 0.6977
+        "similarity": 0.6977,
+        "semantic": 0.6492,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "geſchriben ſtadt: Welcher\ndie Kilch nit hoͤrt / der ſoll dir ſin als ein Heid / vnnd ein\noffnen Suͤnder.",
         "b": "der ſoll dir ſin als ein Heid / vnnd ein\noffnen Suͤnder. Doctor Wolffgang Fabricius Capito/ Predicant zuͤ Straßburg. ERkommen lieben Chriſten/der lenge nach /",
-        "similarity": 0.5333
+        "similarity": 0.5333,
+        "semantic": 0.5784,
+        "reading": "check"
       },
       {
         "op": "only_a",
@@ -93,9 +111,15 @@
         "op": "match",
         "a": "inhalt / vnnd mei=\nnung ſins fuͤrnemens angezeigt / vnnd in dem den na=\nmen",
         "b": "hat Do=\nctor Cuͤnrad Treiger Prouincial/inhalt/vnnd mei=\nnung ſins fuͤrnemens anzeigt / vnnd in dem den na=\nmen",
-        "similarity": 0.7429
+        "similarity": 0.7429,
+        "semantic": 0.8515,
+        "reading": "same"
       }
-    ]
+    ],
+    "semantic": 0.8616,
+    "reworded": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.9914,

@@ -33,25 +33,35 @@
         "op": "only_a",
         "a": "Seite [X]\nDie erst\nallein/daher dañ volgen muͤß rechte ware liebe/das alle\nChristen/wie ein lyb siend/vnser widerpart aber wil vns\nouch vff den Bapst/vff die Concilia/die ye vnd ye wider\neinandern beschlossen habẽ/vff die vaͤtter/deren dheiner\nist/õ nit ouch sin eigne leer an menchem ort geendert hab\nwysen/in vnser leer ist/weder knecht/noch herr/weder\nwyb noch mañ/sonders alle in Christo Jesu/so vff vnser\ngegenpart/geystlich vñ weltlich/oͤrdens vñ and priester/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8338,
+        "semantic_match": "ein ſölche ſondre Gemeind könne jrren/darumb ſye diß\nort von ſondrigen Perſonen nit zůuerſton. Jn dem/lieben\nChriſten/wo min Herr Doctor nit wolt glouben/ſo mer=\nckend doch jr/das diß ort von ſöllicher Gemeind/lut der\nworten vnſers Herren Jeſu Chriſti/verſtanden werden\nmůß.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "die oͤrden ouch vnzaͤlichs vnderscheids/vñ alles vol sectẽ\nvñ parthyen die ouch einandern toͤdlich sind sind/wie dz\nallein zwuͤschẽ Prediger/vñ Barfuͤßer aller welt kundt\nist/darum̃ lieben Christen lassend uͤch mit laͤren worten\ndhein Bruͤlle vffsetzẽ/vñ besechend den spruch Pauli zun\nRhoͤmern/xvj.cap.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8153,
+        "semantic_match": "ein ſölche ſondre Gemeind könne jrren/darumb ſye diß\nort von ſondrigen Perſonen nit zůuerſton. Jn dem/lieben\nChriſten/wo min Herr Doctor nit wolt glouben/ſo mer=\nckend doch jr/das diß ort von ſöllicher Gemeind/lut der\nworten vnſers Herren Jeſu Chriſti/verſtanden werden\nmůß.",
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Jch ermanen aber/zc. Zum dritten\ndz von ergernus da anzogẽ/gib ich gern zuͤ/dz schwaͤrer\nergernus nit sin mag/dañ die luͤt vom rechtẽ einigẽ glou\nben abwysen/das soll sich aber by vns niemer mer/aber\nby der widerparthy vilfaltig erfinden.",
         "b": "68\tDie erſt\nJch ermanen aber/ꝛc. Zum dritten das von der Ergernuß\nda anzogen/gib ich gern zů/das ſchwårer Ergernuß nit ſin\nmag/dann die lüt vom rechten einigen glouben abwyſen/",
-        "similarity": 0.4304
+        "similarity": 0.4304,
+        "semantic": 0.8024,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Nun zum letsten\ndaran ouch õ gantz handel stat/dz durch die Kilch zuuer\nston sie/der man nach dẽ wort Christi õ jrrenden Bruͤder\nvbel vñ maͤngel anzeygen sol/ist im recht vñ billich geant\nwurt worden/das soͤlche Kilch ein yede gemeind/vnnd\nversamlung der Christen ist/die wol vsserlich im fleysch\naber nit nach dem fleysch laͤbet/dann sy den geyst Christi\nhat/der selbigen nun soll man anzeygen/den bruͤder der\nuͤber die sondre vñ bezuͤgte warnung/sins jrrthumbs nit\nhat wellen abston/vff das jn ouch die gmeind straff/vnd\nverwarne/vñ wo er sy ouch verachtet jn fuͤr einen Hey\nden halte/vñ einen der froͤmbd sy võ der gemeind gottes\nwie dann by den Juden die zoller der Rhoͤmer gehaltenn\nPublicani. wurden/das aber min herr doctor dargegen gearguiert\nhatt",
         "b": "das ſoll ſich aber by vns niemer mer/aber by der widerpar=\nthy vilfaltig erfinden. Nun zum letzten daran ouch der\nganß handel ſtat/was durch die Kilch zůuerſton ſie/der\nman nach dem Wort Chriſti der jrrenden Brüder våll vnd\nmångel anzeygen ſoll/iſt im recht vnnd billich geantwurt\nworden/das ſölche Kilch ein jede gemeind/vnd verſamlung\nder Chriſten iſt/die wol vſſerlich im fleiſch/aber nit nach\ndem fleiſch låbet/dann ſy den Geiſt Chriſti hat/der ſelbi=\ngen nun ſoll man anzeigen den Brüder/der über die ſon=\ndre vnnd bezügte warnung/ſins jrrthumbs nit hat wellen\nabſton/vff das jn ouch die gmeind ſtraff/vnnd verwarne/",
-        "similarity": 0.5039
+        "similarity": 0.5039,
+        "semantic": 0.8096,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -71,7 +81,11 @@
         "b": "Zů welcher ein jeder Chriſt als bald kommen/vnnd\nden/ſo er jn ſicht ſündigen/nach vorgender warnung/ange=\nben möge/Dañ klårlich der Text lutet/vor verlåſen/Sün=\ndet aber din Brüder/ꝛc. Deß jrrens halb aber/bekenn ich/ es",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8153,
+    "reworded": 3,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4098,

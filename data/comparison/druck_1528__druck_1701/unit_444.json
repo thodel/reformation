@@ -63,19 +63,25 @@
         "op": "match",
         "a": "Seite CCXVI\nSchlußred. men/hat yngelegt zwey öztly/Das hat Gott das gefal\nlen/daß dezo/die vß überflüssigkeit yngelegt haben.",
         "b": "das hat Gott bas gefallen / dann dero / die\nvß überflüssigkeit yngelegt haben. Daß ich sölle probieren/ daß ein Fägfeur seye /",
-        "similarity": 0.3902
+        "similarity": 0.3902,
+        "semantic": 0.6477,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Dz\nich sölle probieren/dz ein fägfür sye/hoff ich gethan ha\nben: hab aber noch kein beytere gschrifft gehört/das sö\nlichs nit sye.",
         "b": "hoff ich gethan haben : hab aber\nnoch kein heitere Geschrifft gehört / daß sölichs nit seye/ Und sömlichs wyter zů bestäten /",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.8171,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Vn sömlichs wyter zů bestäten/nim ich für\nmich die wort Christi/Matth. v. So der Herr spricht: Vertrag dich mit dinem fyend bald/diewyl du noch vff\ndem wäg bist/damit dich nitt din widersächer geb dem\nRichter/vnd der Richter sinen dienern/vnd lege dich in\nden kercker:",
         "b": "nimm ich für mich die\nWort Christi / Matth. am 5. so der Herr spricht : Vertrag\ndich mit dynem Fynd bald /",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.8338,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,7 +93,9 @@
         "op": "match",
         "a": "fürwar sag ich dir/das du nit wurdest har=\nuß gan/so lang biß du bezalest den minsten quadranten. Durch disen kercker/můß hie verstanden werdenn/ein\nmittle vfenthaltung/zwüschen himel vñ Hell/das ist\ndas fägfür:",
         "b": "und lege dich in den Kercker: fürwar sag ich dir / daß du nit wurdest heruß gahn / so\nlang biß du bezahltest den minsten Quadranten.",
-        "similarity": 0.459
+        "similarity": 0.459,
+        "semantic": 0.5867,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -99,25 +107,35 @@
         "op": "match",
         "a": "dan̄ so er nit haruß wirt gan/biß er bezalt\nhat/so wirt er darnach haruß gan/so er bezalt hat.",
         "b": "dann so er nit haruß wird gahn / biß er bezahlt hat/ so wird er darnach haruß gahn / so er bezahlt hat.",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.6396,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Berchtoldus Haller\nAls kein fägfür möge sin/ist mit klarer schrifft\nin erlüterung der schlußred/genūgsam darge=\nthan/vñ blybt noch beständig vñ vnuerruckt.",
         "b": "Berchtoldus Haller. DAß kein Fägfeur möge syn / ist mit klarer Schrifft\nin Erlüterung der Schlußred genügsam darge-\nthan/",
-        "similarity": 0.7143
+        "similarity": 0.7143,
+        "semantic": 0.8392,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Den spruch aber Matthei. v. so der Schůlmei\nster vff das fägfür zůchen wil/hat den sinn/den ouch die\nvorgenden wort Christi/zum teyl anzeigen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7384,
+        "semantic_match": "Da Christus sahe die Rychen / die vil legten in den Gelt-\nstock / ist auch ein arme Witfrau kommen / hat yngelegt\nzwey Oertly /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Er hat ge\nredt/wie man sich mit dem brůder versünen sölle/ee das\nman die opffer/nach bruch des gsatzes/vff den Altar le=\nge.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7712,
+        "semantic_match": "Da Christus sahe die Rychen / die vil legten in den Gelt-\nstock / ist auch ein arme Witfrau kommen / hat yngelegt\nzwey Oertly /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -131,7 +149,11 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7342,
+    "reworded": 5,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4211,

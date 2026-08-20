@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Schlußred/ XVII\nEr Herr leer ons füchen/sinen willen vn war=\nheit/mit luterm herze. Vß alle anzogne spri=\nchen/so hat der Bichtuatternit wyters bewårt\ndan das Sant Perer/ein fürtreffenlicher die-\nner des Euangelij/vñ gar kein houpt gewäsen ist.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7094,
+        "semantic_match": "ſo hat der Bychtvatter nit wyters bewaͤhrt / dann\ndaß Sant Peter ein fuͤrtreffenlicher Diener deß Evange=\nlij / und gar kein Haubt geweſen iſt.",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -51,25 +54,33 @@
         "op": "match",
         "a": "Sar\numb begåren wir noch hätt by rag schrifft/die Petrum\nzum houpt mache. Die Kilch leren (mer hat kein Apo-\nstel nye können) ist der Kirchen Diener sin/",
         "b": "Darum begaͤhren\nwir noch huͤt by Tag Schrifft / die Petrum zum Haubt\nmache. Die Kilch lehren (mehr hat kein Apoſtel nie koͤn=\nnen) iſt der Kilchen Diener ſyn /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.8169,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnnd nitt\nhoupt. Bycheuatter. Herr Marti Butzer hat am ersten anzogen/ich\nhab den spruch des erste büchs Regum/im xv.",
         "b": "und nit Haubt. Bychtvatter. HErz Marti Butzer hat am erſten anzogen / ich hab\nden Spruch deß erſten Buͤchs Regum /",
-        "similarity": 0.5366
+        "similarity": 0.5366,
+        "semantic": 0.7977,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "capitel/gestern verantwurt/hütt wider an30-\ngen. Darzu sag ich das ich den selbigen spruch nit an30=\ngen hab/aber gemeldet.",
         "b": "im 15. Cap. geſtern beantwortet / huͤt wider anzogen. Darzuͤ ſag\nich / daß ich denſelbigen Spruch nit anzogen hab / aber\ngemeldet.",
-        "similarity": 0.5238
+        "similarity": 0.5238,
+        "semantic": 0.6783,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Das gestrig zülassen/durch jnn\nBeschechen/ein antwurt zegeben. I lun yetz zum andren/ das er begårt/vn mich tringt/ein heytern text/darbrin\ngen/zübewaren/d3 Petrus ein houpt der Kirchen sye/",
         "b": "Das geſtrig zuͤlaſſen / durch ihn beſchehen / ein Antwort zegeben. Nun jetzt zum anderen / daß er\nbegehrt / und mich tringt /",
-        "similarity": 0.3396
+        "similarity": 0.3396,
+        "semantic": 0.6124,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,21 +92,31 @@
         "op": "match",
         "a": "da mein ich/jm sye gnug beschechen/So ich bewårt han/ das Sant Peter hatt die regierung der beyligen Chri=\nſtenlichen Kirchenn/of beuelch Chriſtigethon.",
         "b": "ſo ich bewaͤhre\nhan / daß Sant Peter hat die Regierung der heiligen\nChriſtenlichen Kilchen / vß Befelch Chriſti gethon. Wil er aber /",
-        "similarity": 0.3404
+        "similarity": 0.3404,
+        "semantic": 0.7201,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Wiler\naber das ich ein spruch bring/der dz wozt/houpt/hab/ so sol er ouch billichen darbringen ein spruch/der d3 wort\nVnicum/das ist/Einig/hab.",
         "b": "daß ich ein Spruch bring / der das Wort / Haubt / hab / ſo ſoll er auch billichen darbringen ein\nSpruch / der das Wort /",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.7304,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Butzer. Ir begårend nit geschrifft die &ben das wõitly\nhoupt/vstrucke/am wort ist es nitt gelågen/",
         "b": "Vnicum, das iſt / Einig / hab. Bucerus. WIr begehrend nit Geſchrifft / die eben das Woͤrtlin\nHaubt / vßtrugke / am Wort iſt es nit gelegen / wir be=\ngehrend",
-        "similarity": 0.3721
+        "similarity": 0.3721,
+        "semantic": 0.7896,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7319,
+    "reworded": 4,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4732,

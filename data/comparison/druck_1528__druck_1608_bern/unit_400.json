@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite 149\n\n<br>\nDie fünffe\n<br>\n\nSüch hienoch mit sinem tod/es ist ouch offentlich erfũden/das nit al=\nam 149 blat.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6978,
+        "semantic_match": "Sye der Gſchrifft widrig/bedunckt aber mich es\nſye der Gſchrifft einhaͤllig/vß den Subſtantzlichen wor=\nten\n\n## Marginalien\nSůch\nhievor\nam 327. vnd 328. blat.",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -45,31 +48,42 @@
         "op": "match",
         "a": "lein das fleysch Christi liplich geessen/nit das testament\nist/sonders ouch syn eygē blůt/nit das testament ist: son\nder das /",
         "b": "vnd wie ein jedes Teſtament/in krafft vnd\nwaͤſen kumpt/wann der ſtirbt/der das Teſtament gemacht\nhat/das alſo Chriſtus Jeſus der Sun Gottes geſtorben\niſt/vnd das Teſtament befeſtnet mit ſynem Tod/es iſt ouch\noffentlich erfunden/daß nit allein das Fleiſch Chriſti lyb=\nlich geeſſen/nit das Teſtament iſt/ſonders ouch ſyn eigen\nBluͤt/nit das Teſtament iſt:",
-        "similarity": 0.3294
+        "similarity": 0.3294,
+        "semantic": 0.6828,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "mitt dem das testament ist vffgericht/wie erst\nvnd vormals gehoͤrt. Die Testamenter aber/oder vß=\nrichter/sĩd die Apostel/ist wol recht geredt.",
         "b": "ſonders das/mit dem das\nTeſtament iſt vffgericht/wie erſt vnd vormals gehoͤrt. Die\nTeſtamenter aber/oder Vßrichter/ſind die Apoſtel/iſt wol\nrecht geredt.",
-        "similarity": 0.8077
+        "similarity": 0.8077,
+        "semantic": 0.9206,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Sy teylen\naber das Testament vß/das ist die vergäbne nachlaß=\nung der sũnden. Wie Luce am xxiiij. Matth.",
         "b": "Sy teilen aber das Teſtament vß/das iſt die\nvergebne nachlaſſung der Suͤnden. Wie Luce am 24. Matth. 29.",
-        "similarity": 0.75
+        "similarity": 0.75,
+        "semantic": 0.8715,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "xxviij. Marci am letsten. Das die nachlassung der sũnd gepre=\ndiget soͤlle werden/durch die gantzen welt hin.",
         "b": "Marci am letzten. Daß die Nachlaſſung der\nSuͤnd geprediget ſoͤlle werden/durch die gantzen Welt hin. Daß von Johanſen vnd Maria angezogen iſt/glouben\nwir gern/daß die Muͤter Chriſti Johanſen ſye befolhen/",
-        "similarity": 0.5357
+        "similarity": 0.5357,
+        "semantic": 0.7135,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Das von\nJohansen vnd Maria angezogen ist/glouben wir gern/ das die můter Christi Johansen sye beuolhen/vnnd er\ndero züchtig vnd getrüwlich gewartet habe.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6078,
+        "semantic_match": "vnd er dero zuͤchtig vnd getruͤwlich gewartet habe. Meiſter Johannes Mannberger. HErr Berchtold/wider uͤwer Schlußred arguier ich/",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,7 +95,9 @@
         "op": "match",
         "a": "Meyster Johannes Dannberger. [Initial H] Err Berchtold/wider üwer schlußred Arguier\nich/die da inhalter/Christum den herrn vffopf=\nfern dem vatter/für die sũ",
         "b": "die da inhaltet / Chriſtum den Herren vffopfferen\ndem Vatter fuͤr die Suͤnd der Laͤbenden vnd Tod=\nten/zc.",
-        "similarity": 0.3043
+        "similarity": 0.3043,
+        "semantic": 0.7235,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -89,7 +105,11 @@
         "b": "Sye der Gſchrifft widrig/bedunckt aber mich es\nſye der Gſchrifft einhaͤllig/vß den Subſtantzlichen wor=\nten\n\n## Marginalien\nSůch\nhievor\nam 327. vnd 328. blat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7454,
+    "reworded": 4,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5226,

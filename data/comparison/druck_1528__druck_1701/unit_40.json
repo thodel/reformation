@@ -75,31 +75,43 @@
         "op": "match",
         "a": "Ich han von dem regiment vnnd Petro (wer mich\nrecht verstanden hatt) von der vsserlichen regierung der\nKirchen anfangs geredt /",
         "b": "Wer umſchweiff macht/ das urtheilend die Vernuͤnfftigen. Jch han von dem\nRegiment / und Petro/ (wer mich recht verſtanden hat)\nvon der uſſerlichen Regierung der Kilchen anfangs ge-\nredt /",
-        "similarity": 0.6122
+        "similarity": 0.6122,
+        "semantic": 0.7401,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "so kompt Marti Butzer hår\nvon dem ynnerlich en regiment. Seshalb ich vor am an\nfang zügeben hab/vnnd will ouch zügeben haben/das\nChristus deshalb syedas eynig houpt der Kirchen.",
         "b": "ſo kom̃t Marti Butzer haͤr von dem innerlichen\nRegiment. Deßhalb ich vor am Anfang zugeben hab/ und will auch zugeben haben/daß Chriſtus deßhalb ſeye\ndas einig Haupt der Kilchen.",
-        "similarity": 0.5079
+        "similarity": 0.5079,
+        "semantic": 0.8285,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Ich\nhan aber der vsserlichen regierung halb/dz ich hoff/gnüg\ngeschrifft in disen z weyen sprüche/oder dryen. Sir wird\nich geben die schlüssel der himmlen/zc.",
         "b": ": Jch han aber der uſ-\nſerlichen Regierung halb / das ich hoff/ gnug Geſchrifft\nin dieſen zweyen Spruͤchen oder dreyen /",
-        "similarity": 0.4583
+        "similarity": 0.4583,
+        "semantic": 0.6482,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Vnd weyd my-\nne schaffli/auch den/den Christus vnser heiland zu allen\nfinen jüngern gſagt batt/nach finer vfferstende/Joann;",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7737,
+        "semantic_match": "Dir wird ich\ngeben die Schluͤſſel der Himmlen/ꝛc. und weid myne\nSchaͤfflin/ auch den / den Chriſtus unſer Heyland zu\nallen ſynen Juͤngeren geſagt hat nach ſyner Urſtaͤnde/ Joan.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "am letſten Capitel. Nemmend hin den heyligen geyst/ denen jr die sünd vergeben/denen sind sy vergeben/dené\nirs Behalten/denen sind sy behalten/mit denen ſprüchen\nhoff ich beschlossen habe.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7056,
+        "semantic_match": "allweg unkraͤfftig / wo der geiſtlich Herz ſynen\nGewalt in den Hertzen nit erzeiget und ereiget hat / darum\nwann der Bychtvatter bewaͤhren wurd /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -125,7 +137,11 @@
         "b": "Dir wird ich\ngeben die Schluͤſſel der Himmlen/ꝛc. und weid myne\nSchaͤfflin/ auch den / den Chriſtus unſer Heyland zu\nallen ſynen Juͤngeren geſagt hat nach ſyner Urſtaͤnde/ Joan.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7392,
+    "reworded": 3,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2533,

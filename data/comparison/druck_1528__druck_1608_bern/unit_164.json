@@ -45,31 +45,41 @@
         "op": "match",
         "a": "Seite CXXI\nDie ander\nam vj. schribt also. Das jr aber wüssen welicheding by\nmir sind/oder wie es by mir stande/wirt üch kundt thůn\nTichicus/ð glichē ouch zun Colossenses am iiij.",
         "b": "am 6.ſchribt alſo. Das jr aber wüſſen welliche ding by mir\nſind / oder wie es by mir ſtande / wirt üch kundt thůn Ti=\nchicus /",
-        "similarity": 0.678
+        "similarity": 0.678,
+        "semantic": 0.6947,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Tichicus\nvñ Onesimus / solle üch kundt tůn alle ding/in ð andern\nzun Timotheum am ij. Cap. Sieding so du gehört hast\nvon mir durch vil zügen /",
         "b": "der glichen ouch zun Coloſſenſes am 4. Tichicus\nvnd Oneſimus ſöllen üch kundt thůn alle ding / in der an=\ndern zun Timoth.am 2.cap.Die ding ſo du gehört haſt von\nmir durch vil Zügen /",
-        "similarity": 0.6032
+        "similarity": 0.6032,
+        "semantic": 0.8521,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "die selbigen ding empfilch den\ngetrüwen menschen. Martinus Butzer. Sich am 62. blatt. ES ist gestern/durch meyster Ulrich Zwinglin/",
         "b": "die ſelbigen ding empfilch den getrü=\nwen Menſchen. Martinus Butzer. ES iſt geſtern/ durch Meiſter Vlrich Zwinglin/ ant=\nwurt geben vff alle ſölliche inred /",
-        "similarity": 0.5909
+        "similarity": 0.5909,
+        "semantic": 0.8371,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "antwurt geben vff alle soliche inred / das gesatz\nvnd propheten/sampt allem dem/das ye göt=\nlich gelert worden ist /",
         "b": "das geſatz vnd Pro=\npheten / ſampt allem dem/das je Göttlich gelert wor=\nden iſt/oder jemer mer mag gelert werden /",
-        "similarity": 0.439
+        "similarity": 0.439,
+        "semantic": 0.8207,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "oder yemer mer mag gelert werdē\nist alles veruasset in dise kurtze red / lieb gott von ganßē\nhertzen/vnd den nächsten als dich selbs/das haben gelert\nvñ vß gott gelert/alle die von anfang der welt recht ge=\nlert habē/ist darum nit von nöten /",
         "b": "iſt alles verfaſ=\nſet in diſe kurtze red / Lieb Gott von gantzem Hertzen/vnnd\nden Nächſten als dich ſelbs / das haben gelert vnnd vß\nGott gelert /",
-        "similarity": 0.5833
+        "similarity": 0.5833,
+        "semantic": 0.8138,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -81,21 +91,33 @@
         "op": "match",
         "a": "dz es alles beschribē\nsye/überflüssig habē wir an dem/so die Biblische bůcher\ninhalten. Johannes Bůchstab. DEr anzug/das wir söllen vnsern nächsten liebē\nals vns selbs/zc.",
         "b": "überflüſſig haben wir an dem/ſo die\nBibliſchen Bůcher inhalten. X\n\n## Marginalien\nSůch\nhieuor\n134. blat.",
-        "similarity": 0.3556
+        "similarity": 0.3556,
+        "semantic": 0.8079,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Dienet hie wider nit/das man\nnit schuldig sye / ouch ander ding zůhalten/wie\nvor gesagt ist. Vnd das man schuldig sye/ouch\nander ding zůhalten/dz mit vßgetrucktē worten nit ge=\nschriben stand/Beger ich/dz jr mir anzeygē dry sprůch des\nheiligen Christlichen gloubens mit vßgetrucktē wor=\nten/wie wir sy bätten.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6507,
+        "semantic_match": "Schlußred. 161\nJoannes Bůchſtab. DAs Timotheus die Geſchrifften von jugend vff hab\ngewüßt/laß ich blyben/das aber ander leeren/durch\nSant Paulum geleert ſind worden/die ouch nit be=\nſchriben ſind/wirt an vil orten angezeigt/als zun Römern am\n5.zun Galat.am 1.Actuum 11.am 13.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Namlich Crist ist abgestigen zů den\nhellen. Jtem jch gloub in die heylige Christēliche kilchē/ vnd Jch gloub gemeinsame der heiligen. Martinus",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7323,
+        "semantic_match": "Schlußred. 161\nJoannes Bůchſtab. DAs Timotheus die Geſchrifften von jugend vff hab\ngewüßt/laß ich blyben/das aber ander leeren/durch\nSant Paulum geleert ſind worden/die ouch nit be=\nſchriben ſind/wirt an vil orten angezeigt/als zun Römern am\n5.zun Galat.am 1.Actuum 11.am 13.",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7762,
+    "reworded": 4,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4777,

@@ -33,49 +33,65 @@
         "op": "match",
         "a": "Schlußred. 185\nBychtuatter. HErr Berchtold zücht mich an / daß ich von jm begere/ das mir zůstůnde byzebringen / vermein ich / daß er\nvß syner hüttigen antwurt /",
         "b": "Schlußred. 185\nBychtuatter. HErr Berchtold zücht mich an / daß ich von jm begere / das mir zůſtůnde byzebringen / vermein ich / daß er\nvß ſyner hüttigen anttwurt /",
-        "similarity": 0.96
+        "similarity": 0.96,
+        "semantic": 0.9931,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "bybringens gnůg habe/ da er nach geben hat/daß die heilig Christenlich Kilch / wie\nS. Paulus sagt/ist ein Sul vnnd vestigung der Warheit/",
         "b": "bybringens gnůg habe / da er nach geben hat / daß die heilig Chriſtenlich Kilch / wie\nS. Paulus ſagt / iſt ein Sul vnnd veſtigung der Warheit /",
-        "similarity": 1.0
+        "similarity": 1.0,
+        "semantic": 0.99,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd daby gesagt / daß die Christenlich Kilch gegründt sye/ vff das Wort Gottes / das ich ouch sprich / darumb mein\nich/das nit not sye zů wyter bewärung /",
         "b": "vnd daby geſagt / daß die Chriſtenlich Kilch gegrůndt ſye / vff das Wort Gottes / das ich ouch ſprich / darumb mein\nich /",
-        "similarity": 0.8511
+        "similarity": 0.8511,
+        "semantic": 0.959,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das ich die satzun=\ngen der heiligen Christenlichen Kilchen / die vff die War=\nheit vnnd Gottswort also gegründ ist/wyter bewäre /",
         "b": "das nit not ſye zů wyter bewårung / das ich die ſatzun=\ngen der heiligen Chriſtenlichen Kilchen / die vff die War=\nheit vnnd Gottswort alſo gegrůnd iſt /",
-        "similarity": 0.8085
+        "similarity": 0.8085,
+        "semantic": 0.8462,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "so sy\ndoch hat den heiligen Geist / vß dem sy geregiert wirt / der\nnit fälen kan / daß aber daruß volge/",
         "b": "wyter bewåre / ſo ſy\ndoch hat den heiligen Geiſt / vß dem ſy geregiert wirt / der\nnit fålen kan / daß aber daruß volge /",
-        "similarity": 0.9524
+        "similarity": 0.9524,
+        "semantic": 0.8735,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "daß die satzungen der\nChristenlichen Kilchen/von Christen Menschen nit söllen\nangenommen werden / wo sy nit mit heitern vnnd glychen\nworten in der Geschrifft gegründ syen /",
         "b": "daß die ſatzungen der\nChriſtenlichen Kilchen / von Chriſten Menſchen nit ſöllen\nangenommen werden / wo ſy nit mit heitern vnnd glychen\nworten in der Geſchrifft gegrůnd ſyen /",
-        "similarity": 1.0
+        "similarity": 1.0,
+        "semantic": 0.9943,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "oder begriffen/ das=\nselb wirt sich nit erfinden/so doch Christus vnser Heiland/ jro den H. Geist geben hat/daß er sy inleite in alle Warheit/",
         "b": "oder begriffen / daſ=\nſelb wirt ſich nit erfinden / ſo doch Chriſtus vnſer Heiland / jꝛo den H. Geiſt geben hat / daß er ſy inleite in alle Warheit /",
-        "similarity": 0.9615
+        "similarity": 0.9615,
+        "semantic": 0.9933,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "daruß wyter volget/daß die satzung der heiligen Christen=\nheit als wenig söllen Menschen gebot / eder Menschen\nthant genant werden /",
         "b": "daruß wyter volget / daß die ſatzung der heiligen Chriſten=\nheit als wenig ſöllen Menſchen gebot / oder Menſchen\nthant genant werden /",
-        "similarity": 0.95
+        "similarity": 0.95,
+        "semantic": 0.7925,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -87,7 +103,9 @@
         "op": "match",
         "a": "als die Wort der Propheten / oder\nder Euangelisten/oder der Zwölffbotten/oder ob man schon\nmich recht wil vernemmen / die Wort/die Gott durch sy ge=\nredt hat/so doch sy all/oder jeder in sonderheit nit mer\nmögen syn dann die gantß gemein Chri=\nstenheit. Aa",
         "b": "die Gott durch ſy ge=\nredt hat / ſo doch ſy all / oder jeder in ſonderheit nit mer\nmögen ſyn dann die gantz gemein Chri=\nſtenheit.",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.8269,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -101,7 +119,11 @@
         "b": "[unleserlich]gich / [unleserlich]it an=\n[unleserlich]dt ſye / [unleserlich]as hab\n[unleserlich]ſye. [unleserlich]ringen\n[unleserlich]riſti=\n[unleserlich]ſtůnd / [unleserlich]oſſert\n[unleserlich]en / vff\n[unleserlich]ich / ſo\n[unleserlich]ſte\n\n[unleserlich]ncht",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.9188,
+    "reworded": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.8838,

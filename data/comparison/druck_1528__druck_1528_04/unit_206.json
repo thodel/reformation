@@ -45,19 +45,25 @@
         "op": "match",
         "a": "Seite [VCX]\n\nDie dritte\nMartinus Bucerus\n\nHieuor am\npꝛ.vii.94.blat. Vff die erst / ist die antwurt geben in der erklaͤr=\nung herrn Berchtolden/die ander bringt dz nit/",
         "b": "Marti Butzer. Vff die erſt / iſt die antwurt gebē in der erklaͤ\nrung herrn Berchtolden. Die ander bringt das\nnit /",
-        "similarity": 0.5882
+        "similarity": 0.5882,
+        "semantic": 0.6855,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das Thabita jr vfferweckung verdienet habe. Bůchstab +\n\nVerklaͤrung vnd beståtung miner vor angezo=\ngnen gschrifften / sag ich / das darby geschriben\nstat /",
         "b": "dz Thabita jr vfferweckung verdienet habe. Bůchſtab. Zů erklaͤrung vnd beſtaͤtung miner vorange=\nzognen gſchrifften / ſag ich / das darby geſchribē\nſtadt:",
-        "similarity": 0.6222
+        "similarity": 0.6222,
+        "semantic": 0.9058,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das sy wåre vol gůter wercken / vnd almů\nsen geben / als sy thet / volget schier hernach am v. Capi. Das der Engel zů Cornelio hab gesprochen /",
         "b": "das ſy waͤre voll gůter wercken / vnnd all=\nmůſen geben / als ſy thett / volget ſchier hernach\nam x. cap.",
-        "similarity": 0.4783
+        "similarity": 0.4783,
+        "semantic": 0.7874,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,13 +75,17 @@
         "op": "match",
         "a": "din gebått\nvnd allmůsen sind vffgestigen in die gedechtnus / für das\nangesicht gottes / der glichen wirt ouch funden by dem så\nligen man Thobia /",
         "b": "fůr das angeſicht got=\ntes. Derglychen wirt ouch funden by dem ſaͤli=\ngen mā Thobia / ſo er ſpricht: Mit dem allmů=\nſen vnd glouben werden abgereiniget die ſuͤnd.",
-        "similarity": 0.3704
+        "similarity": 0.3704,
+        "semantic": 0.6945,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "so er spricht / mitt dem almůsen vnd\nglouben werden abgereiniget die sůnd. Martinus Butzer. Der Thabita halber / ist 8 reyt klar / da laß ichs\nbliben",
         "b": "Martin Butzer. Der Thabita halber / iſt der Text klar / da laß\nichs blyben. Cornelius gebaͤtt vn̄ allmůſen / ſind\nvon Gott angenomen wordē /",
-        "similarity": 0.375
+        "similarity": 0.375,
+        "semantic": 0.6608,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -89,7 +99,11 @@
         "b": "wiewol die\nſelb Hiſtori nit Bibliſch iſt / das mit gloub vnd\no iij\n\n## Marginalien\nHieuor am\n105. 106.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7468,
+    "reworded": 3,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4463,

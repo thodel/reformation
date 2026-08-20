@@ -57,13 +57,18 @@
         "op": "match",
         "a": "II\nvnd brüder/früntlich zübeschriben/sich gewlisser war=\nheyt/von ück zu erkunden/damit mengelich allenthalb\nzü rüwen in jren gewüssen gegen gott/vnzü gütem fri-\nden/vndereinandern komen möchtind.",
         "b": "von uͤch zuͤerkunden/ damit\nmengklich allenthalb zuͤ ruͤwen in jren gewuͤſſen\ngegen Gott/ vñ zuͤ guͤtẽ friden/",
-        "similarity": 0.3846
+        "similarity": 0.3846,
+        "semantic": 0.6563,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Nundem also\nnachzukomen/sind wir vnwirdigen diener/ vnd predi=\nger des heyligen Euangeliums/min brüder Berchtold\nvnd ich eruordert/ vnsers gloubens vnd predigens rech\nnung zegeben/des wir mit sampt allen denen/so das E=\nuangelion bekennen/vrpüttigfind/vnd nach ordnung\nvßzeychnover articklen/ouch allen redé/so darus möch=\nten volgen/zu antwurten/vnd mit gewaltiger gschrifft\nzü bewaren.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8354,
+        "semantic_match": "min bruͤder Berch\ntold vnd ich eruordert/ vnſers gloubens vnd pre\ndigens rechnung zuͤgeben / des wir / mitſampt\nallen denen /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -93,31 +98,45 @@
         "op": "match",
         "a": "Es bittet vns ouch der heilig Paulus/das\nwir nit zenckisch/sonder volkomen/eins finno/eynerley\nmeynung syend/vnd das ein yegklicher der gaab/oder\nkunst/so jm Gott verlichen hare/nitstolz vnd vffgebla\nſen (quia fcientia inflat) yemats verachte/sonder in Chriſte=\nlicher liebe (que fola ædificat) einer des anderen burdy trage/",
         "b": "ſonder vollkomen / eins\nſinns / einerley meynung ſyend : Vnnd das ein\nyegklicher der gaab/ oder kunſt / ſo jm Gott ver\nlichen hatt/",
-        "similarity": 0.3784
+        "similarity": 0.3784,
+        "semantic": 0.716,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "einer dem andern diene. Eströstet ons ouch vnser lieber\nHerr Jesus Christus/in de da er ſpricht/Matthei. vij. Bittend/so werdend jr empfahen:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7381,
+        "semantic_match": "II\nſto. Wiewol es ſich in aller welt/ in mancherley\nval anſechẽ laßt: das Gott vaſt uͤbel uͤber vns er\nzuͤrnt ſye /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "suchend/so werdend\njr finden: Elopffend an/ so wirt ich offthon. Ses erma\nnen ich üch all vßerwelten/gotsfründ/das jrüwere her=\ngen vor Gott wellend demutigen/vnd mit mir beken=\nnen/fprechende/Jch armer sündiger mensch.ac.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7234,
+        "semantic_match": "II\nſto. Wiewol es ſich in aller welt/ in mancherley\nval anſechẽ laßt: das Gott vaſt uͤbel uͤber vns er\nzuͤrnt ſye /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Vatter\nvnfer. Aue Maria.ic. Wir bezligen ouch hiemit/d3 wir\nwider keinen artickel vnsers alten Christenlichen glou-\nbens/ügid handlen wellen/der also lutet:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6768,
+        "semantic_match": "II\nſto. Wiewol es ſich in aller welt/ in mancherley\nval anſechẽ laßt: das Gott vaſt uͤbel uͤber vns er\nzuͤrnt ſye /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Ich gloub in\nGott vatter.ic. Wir hand ouch nützid für vns genom\nmen/wider den einfaltigen ynsatz des Nachtmals vn=\nfers herren Jesu Christi/das man bißhar die Meß ge\nnempthat. Sivi. 21 tj",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8129,
+        "semantic_match": "II\nſto. Wiewol es ſich in aller welt/ in mancherley\nval anſechẽ laßt: das Gott vaſt uͤbel uͤber vns er\nzuͤrnt ſye /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -125,7 +144,11 @@
         "b": "nit ſtoltz vnd vffgeblaſen (Quia ſcien\ntia inat ) Iemands verachte/ ſonder in Chriſten=\na ij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.737,
+    "reworded": 7,
+    "recovered_by_embedding": 5,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2946,

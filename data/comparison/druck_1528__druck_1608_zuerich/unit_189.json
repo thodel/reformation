@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite LXXXVII\nSchlußred. Martinus Bucer. [D]Es spruchs halben/ Joannis am v vj. Jch hab Sůch am. 83. ůch noch vil ze sagen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6274,
+        "semantic_match": "Bychtuatter. DAs der Spruch Joan. am 16. cap. Ich hab ůch noch\nvil zesagen / etc. gnůgsamklich verantwurt sye / das\ngstan ich nit.",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -45,37 +48,49 @@
         "op": "match",
         "a": "die er haryn bringt/ als Kil\nchen satzung/ von vnderscheyd der tagen vñ spyfen/ Sa\ngen wir/ das sölche des tůffels satzung sind/",
         "b": "Schlußred. 189\n\naber / die er haryn bringt / als Kilchen satzung / von vnder=\nscheid der tagen vnnd spysen / Sagen wir / das sölche deß\nTüffels satzung sind /",
-        "similarity": 0.625
+        "similarity": 0.625,
+        "semantic": 0.8687,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "lut des hål=\nlen spruchs/ j. zum Thimo. am. iiij. cap. Nun aber das\ner wyter anzogen hat/ den spruch am v.",
         "b": "lut deß hällen Spruchs / 1. zum Ti=\nmoth. am 4. cap. Nun aber das er wyter anzogen hat / den\nSpruch am 5.",
-        "similarity": 0.6818
+        "similarity": 0.6818,
+        "semantic": 0.6672,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "ca. zum Thimo. der j. Epistel: Sie da sůndend/ straff vor yedermã. Sõ Sůch hieuor\nlichs ist ouch in vorgenden antwurtē überflůssig erklärt:",
         "b": "cap. zum Timoth. der 1. Epistel: Die da sün=\ndend / straff vor jederman. Söllichs ist ouch in vorgenden\nantwurten überflüssig erklärt:",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.7657,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "am. 21. vnd 22. Namlich/ das nach der ordnung Christi/ Matthei am\nxviij. ca. die straff der Christenlichen gemeynd/ ernstlich\nsol gehalten werden.",
         "b": "Namlich / das nach der ord=\nnung Christi / Matth. am 18. cap. die straff der Christenli=\nchen gemein / ernstlich soll gehalten werden.",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.6762,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Vß dem allem aber/ ist noch nit be\nwårt/ das die wort Christenlich gemeind/ ein einigs ge=\nböttlin machen mög/",
         "b": "Vß dem allem\naber / ist noch nit bewårt / daß die Christenlich gemeind / ein\neinigs geböttlin machẽ mög / das die gewüssen binden sölle /",
-        "similarity": 0.619
+        "similarity": 0.619,
+        "semantic": 0.9198,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das die gewůssen binden sölle/ vnd\ndoch in göttlichem wort/ nit klaren grund habe. Sölichs Sůch am. 74. ist hůtt vnnd gestern zů meren malen verantwurt/",
         "b": "vnd doch in göttlichem Wort nit klaren grund habe. Söl=\nlichs ist hüt vnnd gestern zů meren malen verantwurt / lut\nder Acta.",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.7382,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -93,19 +108,25 @@
         "op": "match",
         "a": "gnůgsamklich verantwurt\nsye/ das gstan ich nit. Vnd so man sagt/ das die\nvnderscheyd der tagen vñ spysen/ syend des tů\nfels satzung gesin/",
         "b": "Vnd so man sagt / daß die vnderscheid\nder tagen vnd spysen / syend deß Tüffels satzung gsin / vnnd\nbringt harzů den Spruch Pauli zum Timoth.",
-        "similarity": 0.4167
+        "similarity": 0.4167,
+        "semantic": 0.5611,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "vñ bringt harzů den spruch Pauli zů\nThimotheo am. iiij. Vff den antwurt ich/ das der selbig\nspruch nit sagt von der Christenlichen Kilchenn/",
         "b": "am 4. Vff\nden antwurt ich / daß der selbig Spruch nit sagt von der\nChristenlich Kilchen / als da klar der Text anzeigt /",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.8401,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "als da\nklar der text anzeigt/ der da spricht: Der geyst sagt aber\noffenlich. zc. Das sye wyt von der heylige Christenlichen\nKilchen:",
         "b": "der da\nspricht: Der Geist sagt aber offenlich / etc. Das sye wyt von\nder heiligen Christenlichen Kilchen: dann sy wirt von\ndem heiligen Geist geregiert.",
-        "similarity": 0.5833
+        "similarity": 0.5833,
+        "semantic": 0.6698,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -131,7 +152,11 @@
         "b": "Sůch\nhieuor\nam 45. vnd 47. blat. Sůch\nhieuor\nam 160. 165. 169. 171. 172. vnd 176\nblat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7334,
+    "reworded": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.532,

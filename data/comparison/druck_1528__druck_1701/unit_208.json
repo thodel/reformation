@@ -69,37 +69,50 @@
         "op": "match",
         "a": "dann Chriſtus/ſo bedörffen ſy dheiner anttwurt: ſind ge=\nnuͤg erklårt in der probatioͤ diſers artickels/ſo her Berch\ntold vorhin geben hat.",
         "b": "ſo bedörffen ſy keiner Antwort / ſind\ngenůg erklärt in der Probation dieſers Artickels / ſo Herz\nBerchtold vorhin geben hat. Daß wir aber uns nit eigen\nLyden erwehlen ſöllend /",
-        "similarity": 0.4615
+        "similarity": 0.4615,
+        "semantic": 0.5557,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Das wir aber vns/ nit eygen ly=\nden erwellen ſöllend/ ſunders gedultig annemmen was\nvnns Gott zuͦſendt/Bewårdt ouch gnuͤgſam der ſpruch\nvon jm ſelbs angezogen/Matthei am x vj.",
         "b": "ſonders gedultig annemmen / was uns Gott zůſendt / bewährt auch gnůgſam der ſpruch\nvon ihm ſelbs angezogen / Matth. am 16. Cap.",
-        "similarity": 0.3846
+        "similarity": 0.3846,
+        "semantic": 0.7047,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "capitel. Das\nwir vns ſelbs ſöllen verleügnen. Jetz koͤnne wir ye nach\nvnſerem eygnen willenn nitt handlen. Die erwelten ca=\nſtierungen ſind von Paulo verworffenn/zun Coloſſeren\nam anderen capitel.",
         "b": "daß wir\nuns ſelbs ſöllen verlåugnen. Jetzt können wir je nach un-\nſerem eignen Willen nit handlen. Die erwehlten Caſtey-\nungen ſind von Paulo verworffen /",
-        "similarity": 0.3929
+        "similarity": 0.3929,
+        "semantic": 0.7578,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "**Buͦchſtab**\n[D]Je geſchrifft durch mich bißhar yngefuͤret/ by\nder ſelbigen laß ich es yetzunder blybe/ verleüg\nnen Chriſtum nit/",
         "b": "zun Col. am 2. Cap. Johannes Bůchſtab. DIe Geſchrifft durch mich bißhar yngeführt / by der-\nſelbigen laß ich es jetzunder blyben /",
-        "similarity": 0.4651
+        "similarity": 0.4651,
+        "semantic": 0.8524,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ein volkomne gnuͤgthuͦguͤg\nfuͤr aller welt ſuͤnd/doch mitt dem geding/das\nwir vns der ſelben gnuͤgthuͦgung Chriſti/",
         "b": "verlåugnen\nChriſtum nit / ein vollkommene Gnůgthůung für aller\nWelt Sünd / doch mit dem Geding / daß wir uns der-\nſelben Gnůgthůung Chriſti auch theilhafftig machen /",
-        "similarity": 0.449
+        "similarity": 0.449,
+        "semantic": 0.7208,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "ouch teylhaff=\ntig machen/wie ich zum teyl anzeigt hab. **Butzer.**\n[G]Ott ſye lob/das der Schuͤlmeyſter/Chriſtü Je=\nſum bekent vnſer volkomne gnuͤgthuͦgung:dan\niſt er ein volkomne gnuͤgthuͦgung/ſo werdend\nwir nit mit vnſeren werckenn wyter moͤgend zuͦthuͦn.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6173,
+        "semantic_match": "DEr Antwort halb / vff drey Sprüch geſtern yn-\ngezogen / referier ich mich vff die Acta / die myn\nAntwort anderſt habend /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -111,7 +124,10 @@
         "op": "only_a",
         "a": "das ſölichs in Gott/vnnd nit vnſer hand ſtadt. Glou=\nbend wir an vnſeren herren/ſo iſt er vnſer gantz eygē/vñ\nBb ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6578,
+        "semantic_match": "DEr Antwort halb / vff drey Sprüch geſtern yn-\ngezogen / referier ich mich vff die Acta / die myn\nAntwort anderſt habend /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -119,7 +135,11 @@
         "b": "wie ich zům theil angezeigt hab. Butzer. ## Marginalien\nSuch\nhievor am\n182. und\n184 blat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6952,
+    "reworded": 6,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3231,

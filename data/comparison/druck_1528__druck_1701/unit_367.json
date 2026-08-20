@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Seite LXXIIII\nDie fünffte\nMeyster Vlrich Zwingli. WIr lassend vns vff die erklärung vorgehört / vnd\ngründe der gschrifft angezeygt. Gilg Durer.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6638,
+        "semantic_match": "das nit beſche-\nhen iſt / und damit befehlen wir es der Schrifft. Meiſter Ulrich Zwingly. WIr laſſend uns off die Erklaͤrung vorgehoͤrt /",
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -51,45 +54,63 @@
         "op": "match",
         "a": "Als Meyster Vlrich vns geantwurt hat / zů de\nspruch / Prouerbioꝛum ix. Er sye nit für vnns / vnd gibt ein vßlegung one gschrifft /",
         "b": "und\nGruͤnde der Gſchrifft angezeigt. Gilg Murer. ALſz Meiſter Ulrich uns geantwortet hat zů dem\nSpruch Proverb. 9. Er ſey nit fuͤr uns/und gibt\nein Ußlegung ohne Schrifft /",
-        "similarity": 0.3774
+        "similarity": 0.3774,
+        "semantic": 0.5444,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "werdẽ wir\njm nit glouben: dann es stadt heyter / nacheinandern be\ngriffen: Die wyßheit hat vffgeopffret jre opffer / vñ hat\nvermischt den wyn.zc.",
         "b": "werden wir ihm nit glau-\nben : dann es ſtaht heiter nach einandern begriffen : Die\nWyßheit hat vfgeopffert ihre Opffer/und hat vermiſcht\nden Wyn/",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.4344,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "In keinem andren opfer beschicht\ndie vermischung des wyns / dann allein in der Mäss / da\nrumb so můß die Mäss ein opffer sin.",
         "b": "ꝛc. In keinem andern Opffer beſchicht die\nVermiſchung deß Wyns / dann allein in der Maͤß/da-\nrum ſo můß die Maͤß ein Opffer ſyn.",
-        "similarity": 0.6122
+        "similarity": 0.6122,
+        "semantic": 0.757,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Zwingli. WIr haben keinen andren verstand / Prouerbioꝛu͂\nix. anzeygt / dann wie der bůchstab selbs lutet / vnd der sinn vermag / vnd ob glych das selb ort /",
         "b": "Zwingly. WIr haben keinen andern Verſtand Proverbiorum\n9. angezeigt / dann wie der Bůchſtab ſelbs lutet/ und\nder Sinn vermag : und obglych daſſelb Ort alſo můßte\nverſtanden werden /",
-        "similarity": 0.5769
+        "similarity": 0.5769,
+        "semantic": 0.6992,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "also můßte verstanden werden / wie sy es dargebend / dz\ndoch nit ist / so stadt also: Die Wyßheit hat jre opffer vf\ngeopffret /",
         "b": "wie ſy es dargebend / das doch nit\niſt / ſo ſtaht alſo: Die Wyßheit hat ihre Opffer vfgeopf-\nfert / und nit:",
-        "similarity": 0.619
+        "similarity": 0.619,
+        "semantic": 0.8759,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd nit: Die Wyßheit hat wyn vnd brot vff=\ngeopffret. Lassend es by rechtem verstand der gschrifft\nblyben. Gilg Durer.",
         "b": "Die Wyßheit hat Wyn und Brodt vfge-\nopffert. Laſſend es by rechtem Verſtand der Geſchrifft\nblyben. Gilg Murer. JCh blyben by mynem vorigen Verſtand /",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.8258,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Ich blyben by minem vorbrigen verstand / wie geant=\nwurt ist / der ist ouch bestättiget durch den heyligẽ Cy=\nprianum / vnd darby laß ichs blyben. Meyster Vlrich Zwingli. Ir thůnd dem Cypriano vnrecht. Bůchstab",
         "b": "wie geant-\nwortet iſt / der iſt auch beſtaͤtiget durch den heiligen\nCyprianum / und darby laß ichs blyben. Zz ij\t\t\tMei-",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.6837,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.6855,
+    "reworded": 2,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5084,

@@ -39,7 +39,9 @@
         "op": "match",
         "a": "Seite XLIX\nSchlußred. XLIX\nnempt ein liecht der welt/das ist er wäsenlich vnd sunst\nniemands anders/die Aposteln aber sind liechter d welt/",
         "b": "darumb iſt aber nit wider vns vffbracht / das\nChriſtus ſich ſelbs nempt ein Liecht der Welt / das iſt er\nwaͤſenlich vnd ſunſt niemands anders /",
-        "similarity": 0.4898
+        "similarity": 0.4898,
+        "semantic": 0.6104,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -51,19 +53,25 @@
         "op": "match",
         "a": "genempt per participationem das sy erlüchtet sind/vonn dem\nwarē liecht Christo: wie nü Christus ist ein einig houpt/ ein eynig liecht/also mag dhein ander houpt/dhein an=\nder liecht wesenlich sin/dann er allein.",
         "b": "wie nun\nChriſtus iſt ein einig Houpt / ein einig Liecht / alſo mag\nkein ander Houpt/kein ander Liecht weſentlich ſin /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.8352,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Kurtz daruon/al\nles das der Pfarrer heryn zogen hat/zeigt vns kein an=\nder houpt an/dann Christum Jesum.",
         "b": "dann er\nallein. Kurtz daruon / alles das der Pfarrer heryn zogen\nhat/zeigt vns kein ander Houpt an/dañ Chriſtum Jeſum.",
-        "similarity": 0.7317
+        "similarity": 0.7317,
+        "semantic": 0.8352,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Pfarrer. [K]ommen Christē/als herr Berchtold anzücht/ die erst Epistel zun Corinthern/im xij. capitel. Wie Gott der allmechtig mancherley gaben ge\nben hat sinen liebē jüngern/das jm doch niemand ab ist.",
         "b": "Pfarrer. EKommen Chriſten / als Herr Berchtold anzuͤcht/ die erſt Epiſtel zun Corinth. im 12. cap. Wie Gott\nder Allmechtig mancherley gaben geben hat ſinen lie=\nben Juͤngern /",
-        "similarity": 0.5397
+        "similarity": 0.5397,
+        "semantic": 0.9167,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -75,13 +83,17 @@
         "op": "match",
         "a": "Allen Christglöubigen menschen ist wol wüssend/das\nGott der Allmechtig die menschen begabet mit mancher\nley gaben/vnnd dennoch ein yedes Christen mensch/säl\nlich lob vnnd danck zesagen schuldig ist/mit was gaben\ner jnn ouch begabet hat.",
         "b": "vnd\ndennocht ein jedes Chriſten Menſch / billich lob vnd danck\nzeſagen ſchuldig iſt / mit was gaben er jnn ouch begabet\nhat.",
-        "similarity": 0.5333
+        "similarity": 0.5333,
+        "semantic": 0.8935,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Aber in dem so er mich anzücht/ mich gefraget/es sye ein herr/darumb möge kein ande=\nrer herr sin/vnnd den text fürgewendt/den ich im vor=\nbracht han/Wieder der Herr Jhesus sprach:",
         "b": "Aber in dem ſo er mich anzuͤcht/ mich gefraget/ es ſye\nein Herr / darumb moͤge kein anderer Herr ſin /",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.8621,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -93,21 +105,33 @@
         "op": "match",
         "a": "Jch bin das\nliecht der wellt. Deßglychen ouch zů sinen jüngeren: Jr\nsind das liecht der welt. zc. Aber ein herr vnnd vil ämp=\nter sy sind wol.",
         "b": "Deßglychen\nouch zuͤ ſinen Juͤngeren : Jr ſind das Liecht der Welt / etc. Aber ein Herr vnnd vil aͤmpter ſygind wol. Gott ſyge ein\nHerr",
-        "similarity": 0.5926
+        "similarity": 0.5926,
+        "semantic": 0.5846,
+        "reading": "check"
       },
       {
         "op": "only_a",
         "a": "Gott syge ein Herr wesenlich/vnnd ein\nliecht wesenlich/aber sine jünger sy sind ein liecht Participa\ntiue/das ist theylhafftiglich/oder von jm empfengklich.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7469,
+        "semantic_match": "106 Die erſt\nGott in jnen vnnd durch ſy / dann jr nit ſind die da reden/ ſpricht der Herr/ ſonders der Geiſt myns Himmeliſchen\nVatters /",
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "So er nun nachgelassen hat/Herr Berchtold/das die\njünger des herren Jesu Christi habind den empfangnen\ngewallt/Volget ye daruß/das sy ouch höupter mögend\nn",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7748,
+        "semantic_match": "vnnd den\nText fuͤrgewendt/den ich jm vorbracht han / Wie der Herr\nJeſus ſprach : Jch bin das Liecht der Welt.",
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7844,
+    "reworded": 3,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6157,
