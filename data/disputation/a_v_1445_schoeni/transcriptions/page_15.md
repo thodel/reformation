@@ -17,7 +17,6 @@ genempt würd. So hat die gschifft
 die unsamluͦg gutter und böser weniger
 und vilen, E. Kilchennempt, Als
 Paulus Schubt den kilchen die Ist in Cornelis
-bhens
 Wennch, unnd gepütter
 den Sünden so zwey mal ermant, vnd
 sich im besser, der kilchen funzetregenn

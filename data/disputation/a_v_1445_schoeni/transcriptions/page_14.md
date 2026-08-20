@@ -30,5 +30,4 @@ der Menschen zeheischen
 Zum Fünfften
 das vil unnder dem schin, Tittel vnnd
 Namenn den kilchen sich beschmult haben, wider den
-Höl gottswert, fuͤrwendend die i Pesses vnd
-gwerd, den kilhen, dise vnnd derglichen sy
+Höl gottswert, fuͤrwendend die i Pesses vnd gwerd, den kilhen, dise vnnd derglichen sy
