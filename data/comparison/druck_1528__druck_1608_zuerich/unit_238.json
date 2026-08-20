@@ -33,31 +33,42 @@
         "op": "only_a",
         "a": "**Die vierdt**\ndem tod/ in den worten verheyßt/ vnnd von dem eſſenn\nfür vertruwen in ſich.ꝛc. **Pfarrer von Sant Gallen.**\nFRomen Chriſten/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6849,
+        "semantic_match": "daß er mit\nden dryen Euangeliſten bewären wil / das an diſem\nOrt verheiſen werde/das Sacramentlich Brot/vnd\nHh ij",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "damit vnd all wytſchweiffig\nred vermitten blyben/ vnd ſo alleyn zum han=\ndel diener/ herfür bracht/ bin ich erfordert wor=\nden/",
         "b": "Schlußred. 243\nPfarrer von Sant Gallen. FRommen Chriſten / damit vnd all weytſchweiffig\nred vermitten blyben/ vnd ſo allein zum Handel die-\nnet/herfür bracht /",
-        "similarity": 0.4889
+        "similarity": 0.4889,
+        "semantic": 0.5384,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "durch min herr vn͂ mitbrüder Meiſter Vl=\nrich/ mit vßtruckten worten zeantwurten/ ob der ſpruch\nJohannis am vj. capitel: Das brot/",
         "b": "bin ich erfordert worden / durch\nmin Herr vnd Mittbrüder Meiſter Vlrich/mit vßtruck-\nten worten zeantworten / ob der Spruch Johannis am 6.",
-        "similarity": 0.5116
+        "similarity": 0.5116,
+        "semantic": 0.8545,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "welches ich gebenn\nwirt.ꝛc. ynſchlieſſe/ den tod Chriſti allein/ oder ouch das\nlyblich eſſen des fleyſchs Chriſti. Antwurt/ Das brot ſo\nda anzogenn wirt/",
         "b": "Capitel: Das Brot / welches ich geben wirt. ꝛc. ynſchlieſſe\nden Tod Chriſti allein/oder ouch das lyblich eſſen deß Flei-\nſchs Chriſti.",
-        "similarity": 0.6383
+        "similarity": 0.6383,
+        "semantic": 0.8943,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "iſt die verheyſſung deß/ ſo Chriſtus\ndurch die anderen dry Euangeliſten/ vnnd den heyligen\nPaulum/ das Nachtmal beſchrybend/ in die hennd ge=\nnomen hat/",
         "b": "Antwurt / Das Brot ſo da anzogen wirt/ iſt die Verheiſſung deß/ſo Chriſtus durch die anderen dry\nEuangeliſten / vnd den Heiligen Paulum /",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.8351,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -75,19 +86,25 @@
         "op": "match",
         "a": "wirt erklärt\nin den worten Luce: Welcher für üch gegeben wirt/ dañ\nJohannes ſich befliſſen/ ſo die anderen Euangeliſten/ ha\nben vnderlaſſen/",
         "b": "Darnach der ander Punct/ Welches ich geben wirdt für\ndas Leben der Welt/wirt erklärt in den worten Luce: Wel-\ncher für üch gegeben wirt/dañ Johannis ſich befliſſen/ſo die\nanderen Euangeliſten haben vnderlaſſen /",
-        "similarity": 0.6316
+        "similarity": 0.6316,
+        "semantic": 0.8744,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "ſölichs in ſinem ſchryben zeerfüllẽ/ als\nden geübten der geſchrifft erfarend/ vnnd befelchend/ zů\nfürdrung der ſach/ ſölich yntrag beſchehen/",
         "b": "ſölichs in ſinem\nſchryben zeerfüllen / als den geübten der Geſchrifft erfa-\nrend/vnd befelchend/zü fürderung der Sach/ſölich ynträg\nbeſchehend /",
-        "similarity": 0.7317
+        "similarity": 0.7317,
+        "semantic": 0.9605,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "des vj. cap. halb Johannis/ der geſchrifft vnnd allen Chriſtenlichen\nläſern. **Meiſter Vlrich Zwingli.**\nVNſers brüders antwurt/ beſzömbdet vns/ das\ner mitt den dryen Euangeliſten bewärenn wil/ das an dißem ort verheyſſen werde/ das Sacra\nmentlich",
         "b": "deß 6. Capitel halb Johannis/der Geſchrifft\nvnd allen Chriſtlichen Läſern. Meiſter Vlrich Zwingly. VNſer Brüder antwurt / befroͤmbdet vns /",
-        "similarity": 0.3571
+        "similarity": 0.3571,
+        "semantic": 0.9049,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -95,7 +112,12 @@
         "b": "daß er mit\nden dryen Euangeliſten bewären wil / das an diſem\nOrt verheiſen werde/das Sacramentlich Brot/vnd\nHh ij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8184,
+    "reworded": 1,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6682,

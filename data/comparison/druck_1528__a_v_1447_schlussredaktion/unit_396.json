@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "Schlußred. Våter/mit alleding haben gewuͤßt von vnns menschen\nvff ertrich/in der vozhell: vil mer doch/moͤge sy es wuͤs=\nsen im himmel/Dann wie Johannes schribt im heyligen\nEuangelio/das iſt dz ewig laͤben/das sy dich einige gott\nerkennen:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.757,
+        "semantic_match": "παραβολ½\n# Lazurya\nDie vi. Schlussered\nMeister Vlrich Zwingli,\nDas wortJohannis hat den Quin, das disse fure zu\ndem ewigen laben, gott erkennen, vnd Jesum Chri¬\nstum, was dienst aber das vff die Ohlusvredi\ngidius muer,\nDie wil der Rich man, Luce xvjc.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "so sy nun Gott erkennen im himel/wie wolten\nsy nit etliche andre ding erkennen in Christo. Zwinggly. DAs wort Johannis hart den sinn/das diß fuͤre zů\ndem ewigen laͤben/gott erkennen/vnd Jesum Chri\nstum.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7208,
+        "semantic_match": "παραβολ½\n# Lazurya\nDie vi. Schlussered\nMeister Vlrich Zwingli,\nDas wortJohannis hat den Quin, das disse fure zu\ndem ewigen laben, gott erkennen, vnd Jesum Chri¬\nstum, was dienst aber das vff die Ohlusvredi\ngidius muer,\nDie wil der Rich man, Luce xvjc.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -51,31 +57,42 @@
         "op": "match",
         "a": "Was dienet aber das vff die schlußred. Gilg Durer\nDEwylder Rich mann. Luce xvj. gebåtten hart in\nder hell/fuͤr die vff ertrich/vil mer soͤllen wir glou=\nben/das die vßerwelten im himmel Gott fuͤr vns bitte\nmoͤgen.",
         "b": "gebatten hat In\nder hebb, fur die hier vff ertrich, vil mor sollen\nwir glauben, das die userwelten Im. hunel 1\nGott fur vns bitten mogen,\nMeister Vlrich Zwingki\nDas Luce am.",
-        "similarity": 0.3467
+        "similarity": 0.3467,
+        "semantic": 0.8085,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Zwinggly. DAs Luce am xvj. der maẞ geschriben. Iſt ein in=\nleytung vñ leer/das die abgescheidnen/vergeb=\nlich Båtten/werden ouch nitt erhoͤrt/ob sy glich\nBåtten:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.708,
+        "semantic_match": "παραβολ½\n# Lazurya\nDie vi. Schlussered\nMeister Vlrich Zwingli,\nDas wortJohannis hat den Quin, das disse fure zu\ndem ewigen laben, gott erkennen, vnd Jesum Chri¬\nstum, was dienst aber das vff die Ohlusvredi\ngidius muer,\nDie wil der Rich man, Luce xvjc.",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "vnd dienet die meinung vns/vnd nit jnen/vnd\niſt ein παραβολή/Gott hat sich selb vorgebildet durch Abra\nham/durch den Lazaru͂/ein yeden/ð vff gott vertruwt\ndan souil vermag צדקתו Cui robur eſt deus.",
         "b": "xvjc. der masz geschriben, Ist ein\nInleitung vnd ler, das die abgestheidnen, vergablich\nbitten, werden ouch nitt erhort, ob si glich bestenn,\nvnd dienst die mennung vns, und nitt Inen, vnd Ist\nein Parabola Gott hat Sich sabb vorgebildot durch\nAbraham, durch den Lazarum, Ein Jeden, der vff gott\nvertruwt, dann gouil vermagg 719;",
-        "similarity": 0.3956
+        "similarity": 0.3956,
+        "semantic": 0.6894,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Durch den rich= Lazuriah. en/die kinder diser welt/vnnd wil anzeygen/das die vff\nGott vertruwt sind/vonn stundan/so sy vß diser zyt\nscheyden in die schoß vnnd froͤud Gottes komen:",
         "b": "yt # Cui vobur\nest deus, durch den Richen, die kinder diser welt\nvnd wil anzoigen, das, die vff gott vertruwt sind,\nvan stunden, So Oi vsz.",
-        "similarity": 0.4667
+        "similarity": 0.4667,
+        "semantic": 0.7148,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "die aber\nnach jren gluͤsten in disem zyt laͤben/werden ewigklich",
         "b": "diser zitt Othouden, In die\nOthosz und fröid gottes komende, Die aber nach Iren\nglüsten, In disem Zitt leben, werden ewiklich ver¬\ndampt, vnd wirdt hie wraham, nitt für en per¬\nson angezogen.",
-        "similarity": 0.3043
+        "similarity": 0.3043,
+        "semantic": 0.7364,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -83,7 +100,12 @@
         "b": "Ounders wie gesagt Ist, fur ein be¬\nditto te person gottes",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7336,
+    "reworded": 4,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4146,

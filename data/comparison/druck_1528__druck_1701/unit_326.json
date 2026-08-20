@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "**Schlußred.**\n\nHierumb ſin vßlegung / ſo er ſagt / der fleyſchlich ver=\nſtand ſye kein nütz/iſt ein gezwungne gloß/ vnd redt der\nherr noch ein wort/vñ zücht dz Capitel in ein ſum ſprech\nend.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6753,
+        "semantic_match": "und die Himmelfahrt nochmals nit voll=\nführt / darum daß er gen Himmel geſtigen uß Göttli=\ncher Krafft / ſo er vor hat geredt im ſterblichen Leben/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -45,31 +48,42 @@
         "op": "only_a",
         "a": "vnnd zeygt an den geyſt\nGottes in vnns / welches ſo ein Chriſt in ſynem hertzen\nverſichert iſt/wirt er ſich des troſt gern benügen laſſen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6473,
+        "semantic_match": "und die Himmelfahrt nochmals nit voll=\nführt / darum daß er gen Himmel geſtigen uß Göttli=\ncher Krafft / ſo er vor hat geredt im ſterblichen Leben/",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "**Pfarrer von ſant Gallen**\n\nEſtlich vnnſere ingefürten erklärung / über die\nangezognen wort / mit gegebner antwurt vmb\nkürtze willen beuelhen wirs den Actis /",
         "b": "Die Vierdte Schlußred. 323\n\nPfarrer von Sant Gallen. ERſtlich unſere yngeführte Erklärung über die an=\ngezogenen Wort / mit gegebner Antwort um kürtze\nwillen /",
-        "similarity": 0.5333
+        "similarity": 0.5333,
+        "semantic": 0.6223,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vñ dem\nChriſtenlichen läſer. **Ecolampadius.**\n\nWJr beuelhens ouch der Kilchen Chriſti/ vnd allen\nChriſtenlichen läſern. **Pfarrer von Sant gallen.**\n\nIn den dryen Articklen des gloubens.",
         "b": "befehlen wirs den Actis / und dem Chriſtenli=\nchen Leſer. Ecolampadius. WJr befehlens auch der Kilchen Chriſti / und allen\nChriſtenlichen Leſern.",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.634,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Namlich\ndas er ſye vffgefaren gen himlen / ſöllen wüſſen\nalle Chriſtliche hertzen/da Chriſtus das Nacht\nmal hatt ingeſetzt mit den worten.",
         "b": "Pfarrer von Sant Gallen. VOn den dreyen Articklen deß Glaubens: Namlich\ndaß er ſeye uffgefahren gen Himmel / ſöllen wüſſen\nalle Chriſtliche Hertzen /",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.7016,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Nemend vnd eſſend/ das iſt myn lyb/iſt er by ſynen jüngern noch vff erden ge\nweſen/vnd die himmelfart nochmals nit volfürt/dar=\numb das er gen himel geſtigen vß Göttlicher krafft /",
         "b": "da Chriſtus das Nachtmahl\nhat yngeſetzt mit den Worten: Nemmend und eſſend/ das iſt myn Lyb / iſt er by ſynen Jüngern noch uff Er=\nden geweſen /",
-        "similarity": 0.4407
+        "similarity": 0.4407,
+        "semantic": 0.7496,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,7 +95,9 @@
         "op": "match",
         "a": "ſo\ners voz hatt geredt im ſterblichen läben/nit zů entgegen\nſin kan. Siewyl vnd Chriſtus nach gemeynem vnſerm\ngloubẽ/als wir bekennẽ/jn eins ſin mit dem vatter. Jo=\nannes",
         "b": "nit züentgegen ſyn kan: Diewyl und Chriſtus nach ge=\nmeinem unſerm Glauben / als wir bekennen / ihn eins\nſyn mit dem Vatter /",
-        "similarity": 0.4231
+        "similarity": 0.4231,
+        "semantic": 0.6444,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -101,7 +117,12 @@
         "b": "Luce am 2. Capitel angezogen: Alſo\nderglychen hat er vil übernatürliche Ding im Lyb ge=\nwürcket uß Göttlicher Krafft und Macht / als da iſt die\nSſ\t\tGeſchicht",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6678,
+    "reworded": 4,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3224,

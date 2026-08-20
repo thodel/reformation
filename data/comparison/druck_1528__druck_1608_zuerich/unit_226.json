@@ -33,19 +33,28 @@
         "op": "only_a",
         "a": "Die vierdt\nEs ist ouch nit gruͤndtlich/sonders wider den pfarrer/dz\nhie zwurend stat Dabo/das ist/ich wirts geben/dañ es ein\nnatuͤrliche Epanaphora ist.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6492,
+        "semantic_match": "Nemmend vnd eſſend das iſt min Lyb/dañ\ner nit ſagt das Brot/welches ich geben wird/iſt ein Beduͤ=\ntung mines Fleiſchs/ſonders das Brot ſo ich geben wird/ iſt min",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Am xv. tag Jenners. Pfarrer von sant Gallen. [M]In herr vnnd mitbrüder Weyſter Vlrich nach\nnechtigem fürtrag/wil in die allmechtigkeit nit\ngeredt habē/deñ gott gwüß nit alles das thüt/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6753,
+        "semantic_match": "230       Die vierdt\nGottes/ Eccleſiaſtes am 11. capit. Sagt min Hertz daby/ Chriſtus belibe by der Gſchrifft/als ſinem Wort/iſt war=\nhafft:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "so er vermag/warumb aber sin wort lutet/vnnd was es\nverfacht/volstreckt er/als die verheissung hie. Joan. am\nvj.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6229,
+        "semantic_match": "dann min verſtand iſt/daß das wort Brot\n(welches ich geben wird) luter zuͤverſton/ daß er vns zuͤeſ=\nſen bouolhen/vnd inſetzen werde/ſye ſin Fleiſch/dann er nye\nſunſt nienen Brot hat geben/vß welchem er ſinen Lyb ge=\nmacht/dann in dem Nachtmal/da er das Brot in die Haͤnd\nnam vnd ſagt:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -63,25 +72,34 @@
         "op": "match",
         "a": "cap. Sagt min herr das\nby/Christus belibe by der gschrifft/als syne wort/ist war\nhafft:so wir es aber nit begryffen/söllend wir alle vnsern\nbstand in die dienstbarkeit Christi vndergebē/zun Cor=\ninthern in der ij.",
         "b": "ſo wir es aber nit begryffen/ſoͤllen wir allen vnſern\nVerſtand in die Dienſtbarkeit Chriſti vndergeben / zum\nCorinthern in der andern Epiſt.",
-        "similarity": 0.4516
+        "similarity": 0.4516,
+        "semantic": 0.668,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Epist. am x. cap. Dann vil so wir nitt\nglouben wurdent/werdē wir nit verston. Esaie am vij. cap. Dañ als himel vnd erden sind vnderscheiden/also\nouch vnsere gedancken/vñ die wåg des herrn.",
         "b": "am 10. cap. Dann vil/ ſo wir nit glouben wurdend/werden wir nit verſton. Eſaie\nam 7.cap. Dann als Himel vnd Erden ſind vnderſchei=\nden/alſo ouch vnſere Gedancken/vnd die Waͤg deß Herren.",
-        "similarity": 0.6479
+        "similarity": 0.6479,
+        "semantic": 0.8872,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Esaie. am\nlv. cap. Nun ist nechtig angezogen der spruch Johan. am\nvj. cap. Das brot/welches ich geben wird/ist min fleisch/",
         "b": "Eſaie am 55. capit. Nun iſt nechtig angezogen worden der\nSpruch Johannis am 6.capit. Das Brot/welches ich\ngeben wird/iſt min Fleiſch/welches ich geben wird/fuͤr das\nLaͤben der Welt/ſoͤlle nit getheilt werden/vermein aber ich\nſoͤllichs recht beſcheheͤ/diewyl deß woͤrtli Dabo,Das iſt/ich\nwird geben/zwey mal da ſtand/wil ich alſo daß das Brot/",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.6516,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "welches ich geben wird/für das låben der welt/sölle nitt\ngereylt werden/vermein aber ich/söllichs recht beschehe/ diewil des wörtli Dabo/Das ist ich wird geben zwey mal\nda stand/wil ich also/das das brott/so er für vns hat ge=\nben in tod für das låben der welt/åben das selbig hab er\nvns zů essen ingesetzt/vñ beuolhen/lut des worts. Luc. am xxij.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7854,
+        "semantic_match": "Nemmend vnd eſſend das iſt min Lyb/dañ\ner nit ſagt das Brot/welches ich geben wird/iſt ein Beduͤ=\ntung mines Fleiſchs/ſonders das Brot ſo ich geben wird/ iſt min",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -107,7 +125,12 @@
         "b": "Nemmend vnd eſſend das iſt min Lyb/dañ\ner nit ſagt das Brot/welches ich geben wird/iſt ein Beduͤ=\ntung mines Fleiſchs/ſonders das Brot ſo ich geben wird/ iſt min",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7057,
+    "reworded": 2,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3954,

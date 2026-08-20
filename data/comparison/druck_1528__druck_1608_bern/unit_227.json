@@ -39,19 +39,27 @@
         "op": "only_a",
         "a": "dañ min verſtand iſt/das das wort Brot(welches ich ge\nben wird) luter züuerſton/das er vns züessen beuolhen/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8201,
+        "semantic_match": "was\ner meinen welle mit dem woͤrtly Brot/dann ſo er ſpricht\nvnd das Brot aber: Sicht man wol/daß widerumb hin-\nvff gadt zuͦ dem Brot/von dem er vor geredt hat/vnnd hat\nden ſinn ſam Chriſtus ſpreche:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "vnd inſeren werde/ſye sin fleysch/dann er ye sunſt nienen\nbrot hatt geben/vß welchem er sinen lyb gemacht/dann\nin dem Nachtmal/da er das brot in die hend nam vnnd\nsagt:Nemend vnd eſſend/das iſt min lyb/dañ er nit sagt\ndas brot/welches ich geben wird/iſt ein bedüttung mines\nfleyschs/sonders das brot so ich gebē wird/iſt min fleisch/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6332,
+        "semantic_match": "was\ner meinen welle mit dem woͤrtly Brot/dann ſo er ſpricht\nvnd das Brot aber: Sicht man wol/daß widerumb hin-\nvff gadt zuͦ dem Brot/von dem er vor geredt hat/vnnd hat\nden ſinn ſam Chriſtus ſpreche:",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Vnd hernach dz ander/so er verheißt für vns gebē wer=\nden/verfacht den troſt/so er sin leben für vns durch den\ntod geben wurd/als die gſchrifft richlich bezüget zun Rö\nmern am v.",
         "b": "Schlußred. 231\niſt min Fleiſch/Vnd hernach das ander/ſo er verheißt fuͤr\nvns geben werden/verſacht den Troſt/ſo er ſin Låben fuͤr\nvns durch den Tod geben wurd/",
-        "similarity": 0.5294
+        "similarity": 0.5294,
+        "semantic": 0.7785,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -63,25 +71,33 @@
         "op": "match",
         "a": "cap. zun Corinthern in der erſten Epiſt. am\nxv. Capitel. Dann er ye vß dem brot sinen lyb gemacht\nvnd den sinen jüngern am letſten Nachtmal gebotten/",
         "b": "Capitel. Dann er ye vß dem Brot\nſinen Lyb gemacht vñ den ſinen Juͤngern am letzten Nacht-\nmal gebotten/welcher darnach fuͤr vns geben ſolt werden.",
-        "similarity": 0.5091
+        "similarity": 0.5091,
+        "semantic": 0.6714,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "welcher darnach für vns geben solt werden. **Zwingli.**\n[D]Amit dß wortz kampff vermittēt werde/sol er al=\nso mercken/dz glich vor den wortē also ſtat.",
         "b": "Zwingly. DAmit der worten kampff vermitten werde/ſol er al-\nſo mercken/daß glych vor den worten alſo ſtat. Jch\nbin das Brot/",
-        "similarity": 0.44
+        "similarity": 0.44,
+        "semantic": 0.8585,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Ich\nbin das brot/dz läbendig/das da von himel her=\nab komen iſt/welcher von dem Brot eſſen wirt/der wirt\newenklich läben/das nun hie verſtandē werde/wz Chri\nſtus mit dem wort Brott/gewelt habe/so erklärt er sich\nſelbs/mit den nachgendē wortē/καὶ ὁ ἄρτος δὲ ὃν ἐγὼ δώσω vñ\ndas brot aber dz ich üch geben wird/zc.",
         "b": "das låbendig/ das da von Him̃el\nherkommen iſt/ welcher von dem Brot eſſen wirt/ der wirt\newenklich låben/daß nun hie verſtanden werde/was Chri-\nſtus mit dem wort Brot/gewelt habe/ſo erklaͤrt er ſich ſelbs\nmit den nachgenden worten/καὶ ὁ ἄρτος δὲ ὃν ἐγὼ δώσω vnnd\ndas Brot aber das ich uͤch geben wird/",
-        "similarity": 0.7258
+        "similarity": 0.7258,
+        "semantic": 0.7076,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "In welche wörtli\nnen man häll vñ merckt/dz er per Epanaphoram/das iſt ein wi\nderholen/hat wellen zeuerſton geben/wz er meinen welle\nSo ij",
         "b": "ꝛc. Jn welchen\nwoͤrtlinen man hål vermerckt/daßer per Epanaphoram/ das iſt ein widerholen /hat wellen zuͦverſton geben/",
-        "similarity": 0.383
+        "similarity": 0.383,
+        "semantic": 0.7077,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -101,7 +117,12 @@
         "b": "Es\nmag auch hie nit ein Aſyntethon ſin ἣν ἐγὼ δώσω. Sonders\ndiſe gantze Pericopa/oder ſinn iſt nit ein Verheiſſung/ſen-\nde-\n\nz",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7396,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4337,

@@ -33,19 +33,25 @@
         "op": "match",
         "a": "**Schlußred. LX**\nich kein ſäligmacher/kein erlöſer weyß/dann Chriſtum\nJeſum/min herrn vnd behalter. **Ecolampadius.**\nZVo vnderwyſüg/So beduͤckt mich M.",
         "b": "Schlußred. LXIX\n\nich kein ſåligmacher/kein erloͤſer weyß/ dañ Chri\nſtum Jeſum/ min herrn vnd behalter. Ecolampadius. Zuͦ vnderwyſung .",
-        "similarity": 0.5581
+        "similarity": 0.5581,
+        "semantic": 0.9037,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Niclaus\nwell ein and houpt han vnd dem einigẽ houpt/mit\ndz er die wirdigkeit Chriſti einer creatur welle gebẽ:",
         "b": "So bedunckt mich mey=\nſter Niclaus well ein ander houpt habē vnder dē\neinigen houpt / nit das er die wirdigkeyt Chriſti\neiner creatur welle geben :",
-        "similarity": 0.4889
+        "similarity": 0.4889,
+        "semantic": 0.8773,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "aber\nſunſt ein Regiment in dienſtbarlicher wyß/vff ein einzi\nge perſon/als Petro od ſine nachkomen eim Bapſt. J Nun\nſol aber er ermeſſen/dz eim houpt zuͤſtuͤnd/allen glideren\nzuͤdienẽ.",
         "b": "aber ſunſt ein Regi=\nment in dienſtbarliche wyß/vff ein eyntzige per=\nſon/als Petro oder ſinē nachkōmen/ eim Bapſt.",
-        "similarity": 0.4727
+        "similarity": 0.4727,
+        "semantic": 0.6412,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,13 +63,17 @@
         "op": "match",
         "a": "Nun iſt dz rych Chriſti wyt/gadt võ Vfgang\nder Sonnẽ/biß zuͤ Nidergang der ſonnẽ/vnd iſt kein crea\ntur die allein ſöliche dienſtbarkeit ye bwalter hat/oder\nouch bwalten mög.",
         "b": "gadt von Vſgang der Sonnen/biß zuͦ\nNidergang dͤ Sonnen / vnd iſt kein creatur die\nallein ſoͤliche dienſtbarkeyt je verwaltet hat/",
-        "similarity": 0.4074
+        "similarity": 0.4074,
+        "semantic": 0.6824,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Wie wir menſchẽ blöd ſind/ſo wurd\nouch volgẽ/dz Chriſtus nit warhaftig wär gewäſen/wo\ner dz einer perſon beuolhẽ hett:",
         "b": "oder\nouch verwaltē moͤg. Wie wir mēſchē bloͤd ſind/ ſo wurd ouch volgen/dz Chriſtus nit warhaff=\ntig wår gewåſen/wo er das einer perſon beuol\nhen hett:",
-        "similarity": 0.6154
+        "similarity": 0.6154,
+        "semantic": 0.7858,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -75,7 +85,9 @@
         "op": "match",
         "a": "vñ wir aber niergen erfin\ndẽ/dz ein perſon ſöliche dienſtbarkeit gefuͤrt hat/darum̃\nouch Gott vil Apoſtel erwelt hat/vnd alſo ouch vff die\nwyß/wie er daruon redẽ wil/welche doch die ſchrifft nit\nweißt/ſchickt ſich nit/dz wir näbẽd vnſerm einigẽ houpt\nChriſti/ein ander geiſtlich Monarchi/oder ein vndergeord\nnet einzig houpt ynfuͤren.",
         "b": "vnd alſo ouch\nvff die wyß/wie er daruon redē wil/welche doch\ndie gſchrifft nit weyßt / ſchickt ſich nit /",
-        "similarity": 0.45
+        "similarity": 0.45,
+        "semantic": 0.6648,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,7 +99,9 @@
         "op": "match",
         "a": "**Senger**\nDEr ander artickel der erſten Concluſion/lut al=\nſo: Die Kilch iſt vß dem wort Gottes geboren. Da frag ich/ſitmal mācherley geſtalt des wort\ngottes in der gſchrifft/gefundẽ wirt.",
         "b": "Der ander Artickel der erſten Concluſion/lut\nalſo: Die Kilch iſt vß dem wort Gottes geboꝛē. Da frag ich/ſitmal mancherley geſtalt des wort\ni v",
-        "similarity": 0.7241
+        "similarity": 0.7241,
+        "semantic": 0.8942,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -101,7 +115,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7785,
+    "reworded": 4,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6194,

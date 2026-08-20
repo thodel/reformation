@@ -63,19 +63,25 @@
         "op": "match",
         "a": "Des fastens halb\nvñ etlicher ander übungē/ wiewol vil in der schrifft ist/ mein ich/es sye vmb kürtze willen gnůg/der spruch Paulī\nin der ij.",
         "b": "Es Ist gus nitt fleisch Essen, vnd mitt win¬\ntrincken, noch etwas anders, In een en bruder geer¬\ngrot wirdt, Des fastenshalb, vnd ettlicher anderer wun¬\ngen, wiewol vil In der Christ Ist, mein Ich, Es sij vmb\nkurze willen gnug, der Opruch Pauli, In der.",
-        "similarity": 0.4384
+        "similarity": 0.4384,
+        "semantic": 0.7958,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Epist. zun Corinth. vj. da er also spricht: Wir\nsöllen vns selbs in allen dingē erzeigen/als die diener got=\ntes/in vil gedult/in trübſeligkeyt/in nötikeit/in angſti=\nkeit/in streichē/in gefencknus/in wachē/in fasten/in kü=\nscheit/in heilikeit/in langmütikeit.zc.",
         "b": "ii. epistel\nZij den Cornithern, am vi. da Er also Opricht, wij\nCollen vns Pills In allen Dingen erzoügen, Als die die¬\nner gottes, In vil gedult, In trubsalikeit, In notikit,\nIn augstikeit, In Streichen, In gefenckens, In wachen\nIn fasten, In kustheit, in heilikeit, In langumtikeit is\nItem Johelis am.",
-        "similarity": 0.4898
+        "similarity": 0.4898,
+        "semantic": 0.7379,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Item Johelis. ij. sagt Gott der Herr: Bekerē üch zü mir in gantzem üwe\nrem hertzē/in fasten/in weinen/in klagē.",
         "b": "ij. Cagt gott der herr, bekeren vth\nzu mir, In ganthem vwerem hertzen, In fasten, In\nweinen. In klagen u, von der kustheit, da haben\nwir.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.3857,
+        "reading": "check"
       },
       {
         "op": "only_a",
@@ -87,7 +93,9 @@
         "op": "match",
         "a": "Vß disen wenigen/vß vilen\nangezeigten texten/ist güt zemerckē/dz die satzungē der\nheiligen Christenheit/der stückēhalb die erzelt sind in der\nj.",
         "b": "j.r Cornithiorum. vii.o da lutet das halb capittel,\nvon der kustheit zuhalten, Voss disen wenigenn,\nvss vilen angezougten texten, Ist gut zu mercken, das\ndie Nyungen der heiligen christenheit, der Duc:",
-        "similarity": 0.3509
+        "similarity": 0.3509,
+        "semantic": 0.7615,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -105,7 +113,10 @@
         "op": "only_a",
         "a": "dan sy weißt wol/dz der gerecht nach\nder meinung Pauli/nit ist vnder dem gesetzt\n\nMartinus butzer\n[D]Jewyl Sanctus Paulus war haben wirt/das\ntüfelsch leren seyē/spyß vñ gebieten/so wirt\nkein Christenlich gemeynd/sölichs niemarmer",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6954,
+        "semantic_match": "ben fur gijt geachtot sind, In hoffnung, Een Jetlicher\nfromer gehorsamer christ, werde Oich, alicher Ordnung\nder christenheit, nitt beschwaren, In dem verteuwen, das\nder regierer der heilig geist, die heiligen christlichen kilch:",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -113,7 +124,12 @@
         "b": "tenhalb die erzelt oind, In der. i. Epistel zu Thimo.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6753,
+    "reworded": 3,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3363,

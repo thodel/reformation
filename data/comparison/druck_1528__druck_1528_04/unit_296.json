@@ -33,49 +33,68 @@
         "op": "only_a",
         "a": "**Die vierdt**\nred nit grund hat/da sy spreche/Das vsser wort bringt\nmit jm/das es luter vnd verheysst.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.798,
+        "semantic_match": "dz vſſer wort heißt. od ver-\nheißt. So ich nun das nit zuͦ verſuͤchung red/vñ\nnit zwyffel er werde ſich des nit vnderſton/dañ\ner wol wüſſen mag/dz er mit dem vſſern wort/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "**Pfarrer von Sant gallen.**\nVynzug vnd verantwurtzūg vnser mitbrüder/ ist mencklichem wissend/das (ob Gott wil) wir\nChristi sind/vnd sin zesin begårend/vñ darumb\nvon sinem wort reden.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7512,
+        "semantic_match": "Vlun Reſpi\nce/erſich. Diß iſt ein wort Chriſti / vnd iſt darby\nverheyſſen / das die Apoſtel vñ prediger/die vñ\ndie andre wunderzeychẽ thün werdent/ſo hat er\nnun den gloube vñ das vſſer wort by einandern\nvolſtrecke mir das /",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Wåren wir Heydē oder vnglöu\nbig/so redten wir von Machameto oder Joue. Dan ich\ndie bekenn Christen sin/die da mit dem hertzen glouben\nzů der gerechtigkeyt/vnd solichs mit dem mund beken=\nnend zc.",
         "b": "Die vierdt\nJoueͤ. Dann ich die bekenn Chriſten ſin/ die da\nmit dem hertzen gloubenn zuͦ der gerechtigkeyt/ vnd ſoͤlichs mit dem mund bekennend/ꝛc.",
-        "similarity": 0.5806
+        "similarity": 0.5806,
+        "semantic": 0.8154,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Vnd beuelchens von kürtze wegen den Actis. **Zwingli.**\nVff dise antwurt sagend wir also/Das sollicher\nwyß/nieman möcht wüssen ob er den lychtnūg\nChristi niesse oder nit:",
         "b": "Vnnd\nbeuelchens von kürtze wegen den Actis. Zwingly. Vff diſe antwurt ſagend wir alſoͤ / Das ſoͤl-\nlicher wyß / niemant moͤchte wüſſen ob er den\nlychnam Chriſti nieſſe oder nit:",
-        "similarity": 0.7458
+        "similarity": 0.7458,
+        "semantic": 0.9263,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dann wir einfaltigen nit\nmågend wüssen/ob der/der soliche wort spricht/waaren\nglouben vom hertzen vff Christum hab oder nit:",
         "b": "dann wir einfal-\ntigen nit moͤgend wüſſen/ob der/dͤ ſoͤliche wort\nſpricht/ waaren glouben vom hertzen vff Chri-\nſtum hab oder nit:",
-        "similarity": 0.6957
+        "similarity": 0.6957,
+        "semantic": 0.8721,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dan ich\nwil min lieben brüder also fragen: Hast du rechten/vn=\ngezwyffelten glouben vff den låbendigen Sūn Gottes/ Christum Jesum?",
         "b": "dann ich wil min lieben brü-\nder alſo fragen: Haſt du rechten / vngezwyffel-\nten glouben vff den laͤbendigen Sun Gottes/",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.7194,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "**Pfarrer von Sant gallen.**\nOb Gott wil ja. **Zwingli**\nFürend vns ein blinden oder ein lamen har/vnd\nsage mir/zů dem selben blinden:",
         "b": "Chriſtum Jeſum: Pfarrer von ſant Gallen. Ob Gott wil ja. Zwingly. Fürend vnns ein blinden oder ein lamen her/ vnd ſagte mir/zuͦ dem ſelben blinden:",
-        "similarity": 0.8
+        "similarity": 0.8,
+        "semantic": 0.9025,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Nun Respice, era\nsich. Diß ist ein wort Christi/vnd ist darby ver\nheyssen",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7433,
+        "semantic_match": "ouch by ſinem glouben/alſo nütz vermag/es ſye\ndann das Gott geualle ſoͤllichs zewürcken. So\nhoff ich es ſye nyemands ſo eyns kleynenn ver ⸗\nſtands/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -95,7 +114,12 @@
         "b": "ouch by ſinem glouben/alſo nütz vermag/es ſye\ndann das Gott geualle ſoͤllichs zewürcken. So\nhoff ich es ſye nyemands ſo eyns kleynenn ver ⸗\nſtands/",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.816,
+    "reworded": 0,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4847,

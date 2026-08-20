@@ -45,43 +45,61 @@
         "op": "match",
         "a": "Schlußred. CXLIX\ngern hatt dargereycht/ welches er darnach am Crütz nit\nvergieſſung ſyns blůts hatt vollendet. Aechster Ulrich zwingly. DIß iſt nit ein antwurt vff das/",
         "b": "den Jüngeren\nhat dargereicht/ welches er darnach am Crüß mit ver=\ngieſſung ſyns Blůts hat vollendet. Meiſter Vlrich Zwingly. DIß iſt nit ein anttwurt vff das /",
-        "similarity": 0.5385
+        "similarity": 0.5385,
+        "semantic": 0.5912,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "dz wir eruorſchẽ/ wir wüſſend wol was Mattheus vnd Marcus\nſaged: wir begeren an ſy/ ob ſy erkennind/ das die\nvergeblich nachlaſſung der ſünd das Teſtament ſye.",
         "b": "das wir erforſchen/ wir wüſſend wol was Mattheus vnnd Marcus\nſagend:wir begeren an ſy/ob ſy erkennind/das die\nvergeblich nachlaſſung der Sünd das Teſtament ſye.",
-        "similarity": 0.8519
+        "similarity": 0.8519,
+        "semantic": 0.9579,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Pfarrer von ſant Gallen. MInes verſtands iſt vor gnůg geantwurt/ das das\nnüw Teſtament ſye verzychung der ſünd. Zwingly. NUn frag ich ſy/",
         "b": "Pfarrer von Sant Gallen. MInes verſtands/iſt vor gnůg geantwurt/das das nüw\nTeſtament ſye verzychung der Sünd. Zwingly. NVn frag ich ſy/ob zwey Nüwe Teſtament ſyend oder\nnun eins.",
-        "similarity": 0.8148
+        "similarity": 0.8148,
+        "semantic": 0.914,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "ob zwey Nüwe teſtament ſyend oder\nnun eins. Pfarrer. Antwurt ich: Es iſt allein ein Nüw teſtament. Zwingli. So volgt/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7097,
+        "semantic_match": "ſo müß daß wort Teſtament hie\nnit eigentlichen genommen werden. Pfarrer von Sant Gallen. ZVßlegung der worten/ſo Herr Meiſter Vlrich für=\ngetragen/erklärt Mattheus vnd Marcus/das das\nſo der Herr das Teſtament geheiſſen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "dz kein tranck dz Nüw teſtamẽt ſin mag. Pfarrer von ſant Gallen. ANtwurt ich/ kein tranck vermag das Nüw teſta=\nment ſin/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7789,
+        "semantic_match": "Pfarrer\n\n## Marginalien\nng der\nder ge=\niſt das\ndaruff\nem ort\n\n/ſoll\nynem\nr/gibt\nen Te=\nſünd. pruch\nbrüder\n\ns Teſta=\nſtament\nſie nach=\nriſti er=\ngrund/ iſt/ſo v=\nes da iſt\nnach=",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Aber das blůt Chriſti wie er geredt hatt\ndurch Mattheum. Das iſt min blůt des Nüwen teſta=\nments/ vnd Lucas ouch ſagt in minem blůt/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6376,
+        "semantic_match": "ſo müß daß wort Teſtament hie\nnit eigentlichen genommen werden. Pfarrer von Sant Gallen. ZVßlegung der worten/ſo Herr Meiſter Vlrich für=\ngetragen/erklärt Mattheus vnd Marcus/das das\nſo der Herr das Teſtament geheiſſen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "zc. Zwingli\nDAs ſind jr einige wort/ kein tranck mag das Nüw\nteſtament ſin/ das blůt Chriſti iſt ein tranck (alß\npp",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7348,
+        "semantic_match": "ſo müß daß wort Teſtament hie\nnit eigentlichen genommen werden. Pfarrer von Sant Gallen. ZVßlegung der worten/ſo Herr Meiſter Vlrich für=\ngetragen/erklärt Mattheus vnd Marcus/das das\nſo der Herr das Teſtament geheiſſen /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -89,7 +107,12 @@
         "b": "Pfarrer\n\n## Marginalien\nng der\nder ge=\niſt das\ndaruff\nem ort\n\n/ſoll\nynem\nr/gibt\nen Te=\nſünd. pruch\nbrüder\n\ns Teſta=\nſtament\nſie nach=\nriſti er=\ngrund/ iſt/ſo v=\nes da iſt\nnach=",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7606,
+    "reworded": 0,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4152,

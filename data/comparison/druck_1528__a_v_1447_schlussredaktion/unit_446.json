@@ -33,31 +33,45 @@
         "op": "only_a",
         "a": "**Schlußred.**\nschirmpt ōne Gottes wort. So volget/das sich der Pfarrer von Appen\nzell/nit der Kilchen vnderwirfft/die sich gottes wort halt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7936,
+        "semantic_match": "ten, das niemand die te verbotten mag werden\nOann das wort kusten zin, vnd aue beladen, fas¬\nsot nitt Jederman, Ounder Denen Es gaben Ist\nCannenhar ouch Paulus Opricht, prima ad Corin¬\nthios.",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "**Theobaldus Huͤter.**\nIch laß es blyben/wie vor dargerhan. **Die nuͤnde Schlußred.**\nDie heilig Ee/ist keinem stand verbot\nten in der geschrifft/sunders huͤry vñ vn\nkuͤnscheit zuͦ vermiden/allen stände botte.",
         "b": "11\n304\nDie minde Schlusfred,\ndie heilig Ee, Ist keinem Land verbotten In der ge¬\nschrift, Qunders hury vnd vntustheit zu vermiden,\nallen stauden bottenn,\nBerchtoldus hatter\nise Chlussered Ist Co.",
-        "similarity": 0.3235
+        "similarity": 0.3235,
+        "semantic": 0.7821,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "**Berchtoldus Haller.**\nDie Schlußred/ist\nso heiter vñ klar in Gottes\nwort/das sy nit vil vñ lan=\nger red bedarff.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8394,
+        "semantic_match": "hutter vnd char In gottes wort\ndas Si nitt vil und langer red bedarff, Allen Christen\nIst zuwussen, das der felich Stand, van gott Inge¬\nseyt Ist, Benesis, 1o.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Allen Chri=\nsten ist zuͦ wüssenn/das der\nEelich stand/von Gott yn=\ngesetzt ist/Genesis.j. vñ.ij. vñ daruon niemand vßge\nnomen wirt:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7534,
+        "semantic_match": "vnd ii.o vnd daruen niemand vs. ge¬\nnomen wirdt, Oum die Christus Mathi xviije. vSzminpt, Namlich die da vntougenlich sind zij der\nfe, also von muter lib geboren, Ettlich von den Mant¬\nsthen versthuitten, Ettlich die Aich Salbs verschnitten\nhaben, vmb des Rich gotts willen, So volgot von no.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "dann die Chri=\nstus (Mathei xix. vßnimpt/ Naͤlich die da vntougenlich\nsind zuͦ der Ee/also von muͦter lyb geboren:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6203,
+        "semantic_match": "vnd ii.o vnd daruen niemand vs. ge¬\nnomen wirdt, Oum die Christus Mathi xviije. vSzminpt, Namlich die da vntougenlich sind zij der\nfe, also von muter lib geboren, Ettlich von den Mant¬\nsthen versthuitten, Ettlich die Aich Salbs verschnitten\nhaben, vmb des Rich gotts willen, So volgot von no.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -69,7 +83,10 @@
         "op": "only_a",
         "a": "San̄\ndas wort/Kuͤnsch sin/vñ one Ee laͤben/fasset nit yeder=\nZ ll",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7432,
+        "semantic_match": "hutter vnd char In gottes wort\ndas Si nitt vil und langer red bedarff, Allen Christen\nIst zuwussen, das der felich Stand, van gott Inge¬\nseyt Ist, Benesis, 1o.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -107,7 +124,12 @@
         "b": "capite. Diewil dann die othrift, Relichen vande\nniemand verbijtt, niemand vsminpt, dann die Chri¬\n. Deutsches\n¬",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7553,
+    "reworded": 1,
+    "candidates": 5,
+    "recovered_by_embedding": 5,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2708,

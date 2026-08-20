@@ -39,43 +39,61 @@
         "op": "match",
         "a": "Pber dise nachuolgend Schlußrede/wel\nlend wir Franciscus Kolb/vnnd Berchtoldus Haller/ beyd Predicanten zu Bernn/sampt andren/die das Euangelium verje\nchend/einem yeden/mit Gott/antwurt vnd bericht geben/vß heyli\nger Byblischer geschriffr/klüws vi alts Testaments/off an\ngesetztem tag zu Bern/Sonnentag nach Circum\n15 cafionis/im jar.",
         "b": "einem jeden/mit\nGott/antwurt vnd bericht geben/vß Heiliger Bibliſcher Ge=\nſchrifft/ Nüws vnd Alts Teſtaments/vff angeſetztem\nTag zů Bern/Sonnentag nach Circumciſio=\nnis/jm Jar.",
-        "similarity": 0.3951
+        "similarity": 0.3951,
+        "semantic": 0.8255,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "M. D. XXVIIL\nSie heylig Christenlich Kilch / deren eynig houpt I\nChristus/ist vß dem wort Gottes geborn/im selben be=\nlybt sy/vnd hoztnit die■tim eines frombden.",
         "b": "M. D. XXVIII. I. Die Heilig Chriſtenlich Kilch/deren ei=\nnig Houpt Chriſtus/iſt vß dem Wort Gottes\ngeboren/ im ſelben belybt ſy/vnd hoͤrt nit die\nStīm̃ eines Froͤmbden.",
-        "similarity": 0.5806
+        "similarity": 0.5806,
+        "semantic": 0.9161,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Die Kilch Christi/macher nitt gesatz vnd Bott/on II\nGottes wort. Seßhalb all menschen ■atzungen / so man\nnempt der Kilchen bott/",
         "b": "Am blat. 4. II. Die Kilch Chriſti machet nit Geſatz vnd\nBott ohn Gottes Wort/ Deßhalb all Men=\nſchen Satzungen/ſo man nempt der Kilchen\nBott/vns nit wyter bindend/dañ ſy in Goͤtt=\nlichem Wort gegruͤndt vnd botten ſind.",
-        "similarity": 0.4688
+        "similarity": 0.4688,
+        "semantic": 0.706,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "vns nit wyter bindend/dann\nsy in Göttlichem woit gegründe vnd botten sind. Christus ist vnnser eynige wyßheyt/gerechtigkeyt/ III\nerlösung/vnd bezalung für aller wellt fund.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.749,
+        "semantic_match": "Am\nblat. IS6. III. Chriſtus iſt vnſer einige Wyßheit / Ge=\n¶ ¶ iij",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Seßhalb\nein andern verdienst/der såligkeit/vnnd gnüg thün/für\ndie fund bekennen/ist Chriftum verlougnen. Sas der lyb vn das blüt Chrifti/wåsenlich viliplich III\nin dem brot der dancesagung empfange werd/mag mit\nBiblischer geschrifft nit Bybracht werden.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6502,
+        "semantic_match": "Am\nblat. IS6. III. Chriſtus iſt vnſer einige Wyßheit / Ge=\n¶ ¶ iij",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Sie Maß/yetz im Bruch/darin man Chriftum/Gott V\ndem vatter/für die find der låbendigen vn todten/off-\nopffere/ist der geschrifft widrig:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6219,
+        "semantic_match": "Vber diſe nachuolgend\nSchlußreden/wellend wir Franciſcus Kolb/ vnd Berchtoldus Haller / beid Predicanten zů Bern/ ſampt anderen die das Euangelium verjechend /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "de aller heyligosten opf-\nfer/lyden und sterben Christi/ein lesterung/ vnnd vmb\nder mißbrüchen willen/ein grüwel voz Gott.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6969,
+        "semantic_match": "Am\nblat. IS6. III. Chriſtus iſt vnſer einige Wyßheit / Ge=\n¶ ¶ iij",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -83,7 +101,12 @@
         "b": "Am\nblat. IS6. III. Chriſtus iſt vnſer einige Wyßheit / Ge=\n¶ ¶ iij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7379,
+    "reworded": 2,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4217,

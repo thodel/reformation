@@ -135,25 +135,89 @@ def annotate_unit(model, unit: dict[str, Any]) -> dict[str, Any]:
     return unit
 
 
+def pair_dirs() -> list[Path]:
+    return [d for d in sorted(COMPARISON.iterdir())
+            if d.is_dir() and "__" in d.name]
+
+
+def missing_semantic(directory: Path) -> tuple[int, int]:
+    """(units lacking semantic data, units total) for one pair.
+
+    Semantic annotation is added on top of the comparison output, so
+    regenerating a pair removes it. That is correct - a changed text needs
+    re-embedding - but it must be visible rather than silent, which is what
+    this reports.
+    """
+    total = missing = 0
+    for path in directory.glob("unit_*.json"):
+        total += 1
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except Exception:
+            missing += 1
+            continue
+        sentences = payload.get("sentences", {})
+        if sentences.get("embedding_model") != MODEL_NAME:
+            missing += 1
+    return missing, total
+
+
+def cmd_check() -> int:
+    stale = []
+    for directory in pair_dirs():
+        missing, total = missing_semantic(directory)
+        if total and missing:
+            stale.append((directory.name, missing, total))
+    if not stale:
+        print("semantic annotation: current for every pair")
+        return 0
+    print(f"semantic annotation missing or outdated in {len(stale)} pair(s):")
+    for name, missing, total in stale:
+        print(f"  {name}: {missing}/{total} unit(s)")
+    return 1
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Add semantic similarity to sentence pairs")
-    parser.add_argument("--pair", required=True, help="Directory name under data/comparison")
+    parser.add_argument("--pair", help="Directory name under data/comparison")
+    parser.add_argument("--all", action="store_true", help="Every pair that needs it")
+    parser.add_argument("--check", action="store_true",
+                        help="Report which pairs lack semantic data, exit 1 if any do")
     parser.add_argument("--limit", type=int, default=0, help="Only the first N units")
     return parser.parse_args()
 
 
 def main() -> int:
     args = parse_args()
-    directory = COMPARISON / args.pair
-    if not directory.is_dir():
-        print(f"[ERROR] no such pair: {args.pair}", file=sys.stderr)
+    if args.check:
+        return cmd_check()
+
+    if args.all:
+        targets = [d for d in pair_dirs() if missing_semantic(d)[0]]
+        if not targets:
+            print("semantic annotation current for every pair; nothing to do.")
+            return 0
+    elif args.pair:
+        directory = COMPARISON / args.pair
+        if not directory.is_dir():
+            print(f"[ERROR] no such pair: {args.pair}", file=sys.stderr)
+            return 2
+        targets = [directory]
+    else:
+        print("[ERROR] give --pair, --all, or --check", file=sys.stderr)
         return 2
 
     model = load_model()
+    for directory in targets:
+        annotate_pair(model, directory, args.limit)
+    return 0
+
+
+def annotate_pair(model, directory: Path, limit: int = 0) -> None:
     unit_files = sorted(directory.glob("unit_*.json"),
                         key=lambda p: int(p.stem.split("_")[1]))
-    if args.limit:
-        unit_files = unit_files[: args.limit]
+    if limit:
+        unit_files = unit_files[:limit]
 
     totals = {"same": 0, "reworded": 0, "candidate": 0, "different": 0, "check": 0}
     recovered = 0
@@ -166,12 +230,11 @@ def main() -> int:
                 totals[p["reading"]] = totals.get(p["reading"], 0) + 1
         recovered += unit["sentences"]["recovered_by_embedding"]
 
-    print(f"{args.pair}: {len(unit_files)} unit(s)")
+    print(f"{directory.name}: {len(unit_files)} unit(s)")
     for key, count in totals.items():
         print(f"  {key:10} {count}")
     print(f"  of which proposed by embedding alone: {recovered} "
           f"(labelled 'candidate' - roughly one in three held up by hand)")
-    return 0
 
 
 if __name__ == "__main__":

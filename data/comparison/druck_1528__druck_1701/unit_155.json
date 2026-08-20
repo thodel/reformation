@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "Die erſt\ntigen gottes wort glouben geben. Also were vil beſſer ge=\nſin/ein Kilch von Bern hette dz gewiß wort gottes von\njren predicanten angenomen/als ouch onzwyffel vil ge=\nthon haben/on weyters befragen/so aber jr etlich gewe=\nſen ſind/die darüber ouch ander lüt zehören begert habe/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.638,
+        "semantic_match": "ſöllen\nſie anders ſelig werden / die Kilch von Bern můß für ſich\nglauben / und deß Worts Gottes gewůß ſyn / was joch\nandere halten /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "iſt diſe Diſputatz angeſehen worde/nit das yemand me\ndurch vns (vñ wen vnſer vier tuſent werendt/vñ all ge\nlerter vñ fromer/dan ſant Paulus) in göttlichen dingen\nmöge gelert werde/dan åben durch die predicante.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6891,
+        "semantic_match": "ſöllen\nſie anders ſelig werden / die Kilch von Bern můß für ſich\nglauben / und deß Worts Gottes gewůß ſyn / was joch\nandere halten /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -51,7 +57,9 @@
         "op": "match",
         "a": "blatt. richt alles/er ſye wer er welle/vnd ſye wie vil oder wenig\njr wellen. Es hat ouch nit die meinung in ſachen des glou\nbens/wie in vſſern gebotte/gott hat åben ein ding allen\nerwelten zů glouben fürgeben/darum̃ wen er eim hirten/",
         "b": "148      Die Erſte Schlußred. nit die Meynung in Sachen deß Glaubens / wie in un-\nſern Gebotten / Gott hat eben ein Ding allen Erwehlten\nzů glauben fürgeben /",
-        "similarity": 0.3611
+        "similarity": 0.3611,
+        "semantic": 0.6125,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,13 +77,17 @@
         "op": "match",
         "a": "daſſelbig offenbart/so můß in ſinem hertzen beſchloſſen\nwerden/das alle fürſten vñ herrn glouben müſſen/ſölle\nſy anders ſålig werde/die Kilch von Bern můß für ſich\nglouben/vñ des wort gottes gewüß ſin/was joch andre\nhalten/erfunde ſy in dem den wille gottes/so iſt alle welt\nſchuldig/daſſelbig anzenemen/die Kilch von Bern/ge=\nbüret darumb niemand nüt/ſonder Gott.",
         "b": "erfunde ſy in dem den Willen Gottes / ſo\niſt alle Welt ſchuldig / daſſelbig anzenemmen / die Kilch\nvon Bern gebütet darum niemand nů́t/ſonder Gott.",
-        "similarity": 0.427
+        "similarity": 0.427,
+        "semantic": 0.6444,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Diewyl aber\nvnſer widerpart de wort gottes durch vns fürgetragen\nnit gloube will/so dan yendert ein Petrus oder Jacobus\nwåre ein warer Apoſtel Chriſti/welten wir vnſer wider\nwertigen zůgüt/ouch gern ſöllicher zůgung zůhören zů\nfälliche komen/wo ſind ſy aber.",
         "b": "Die-\nwyl aber unſer Widerpart dem Wort Gottes / durch uns\nfürgetragen/nit glauben wil/ſo dann jenderd ein Petrus\noder Jacobus wåre ein wahrer Apoſtel Chriſti /",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.8932,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -87,7 +99,9 @@
         "op": "match",
         "a": "Dz herr Daniel ſagt der\nBapſt ſye darzů erwelt/iſt nit gnůg/er můßte ouch ſant\nPeters geyſts haben/dann der natürlich menſch verſtat\nder göttlichen dingen nüt zun Corin. in der erſten Epiſt. am andern cap.",
         "b": "Daß Herr Daniel ſagt / der Papſt ſeye darzů erwehlt / iſt\nnit gnůg/er můßte auch Sant Peters Geiſt haben / dann\nder natürlich Menſch verſtaht der Göttlichen Dingen nůt/",
-        "similarity": 0.6462
+        "similarity": 0.6462,
+        "semantic": 0.8004,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -95,7 +109,12 @@
         "b": "zun Corinthern in der erſten Epiſtel am\nandern Capitel. Die",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7129,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4476,

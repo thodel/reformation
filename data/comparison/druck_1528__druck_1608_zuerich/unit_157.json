@@ -57,7 +57,9 @@
         "op": "match",
         "a": "Schlußred. Martinus Bucerus. DJe verklerung meyſter Jacobs / wie er verſton\nwil/das Chriſtus der Kilchen ingelybet iſt/ne=\nmen wir an/das er aber wider harfür bringt Pe\ntrus ſye ein vnderhoupt über die Kilch/darumb das ims\nfürnemlich beuolhen ſye/die ſchäfflin Chriſti zeweyden/",
         "b": "wie er verston wil/ das Christus der Kilchen ingelybet ist / nemen wir\nan / daß er aber wider harfuͤr bringt Petrus sye ein\nVnderhoupt uͤber die Kilch /",
-        "similarity": 0.5479
+        "similarity": 0.5479,
+        "semantic": 0.6997,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,7 +71,9 @@
         "op": "match",
         "a": "iſt voz gnůgſam verantwurt/ein Apoſtel iſt er geweſen Süch am. 56. der nit allein noch alle ſchäffli Chriſti/wie ouch nit móg vnd.",
         "b": "der nit allein\nnoch alle Schaͤffly Christi / wie ouch nit moͤglich gewesen/ geweidet hat / sonder mit andern / vnnd hat Paulus mer\nthon dann er /",
-        "similarity": 0.36
+        "similarity": 0.36,
+        "semantic": 0.8538,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,21 +91,34 @@
         "op": "match",
         "a": "68. blatt\nlich geweſen/geweydet hat/ſonder mit andern/vnd hat\nPaulus mer thon dann er/darumb er ſeyn houpt über\ndie andern mag genennet werden/das er aber wider myn\nantwurt dem Provincial gegeben/diewyl Chriſtus ouch\nvnder zweyen oder dryen iſt/in ſynem namen verſamlet\nein yede gemeyn Gottes ſich entſchlieſſen móge/was ſy\nglouben ſoll fürwúrfft/es ſolle kein beſondre gemein/dz\nein gantze Kilch angat beſchlieſſen/vnd darumb hetten\ndie in Anthiochia Paulum vnd Barnabam/gen Jheru\nſalem geſchickt/in der geſchichten den Apoſtel am xv.",
         "b": "was sy glouben soll / fuͤr=\nwuͤrfft/Es solle kein besondre gemein / das ein gantze Kilch\nangat/beschliessen / vnnd darumb hetten die in Antiochia\nB\n\n## Marginalien\nSuͤch\nhieuor\nam 121. 122. vnd\n148. blat.",
-        "similarity": 0.3016
+        "similarity": 0.3016,
+        "semantic": 0.7269,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "ca\npitel. Hieruff gib ich antwurt/das vns hie meyſter Ja=\ncob ein ſträfflich exempel fürwúrfft/als dem ouch wir\nſóllen nachuolgen/ſo die in Anthiochia recht hetten ge=\nhandelt/ſo hetten ſy das wort Gottes/ſo jnen Paulus\nvnd Barnabas vonn Chriſtenlichen fryheytten hatten\nfürgetragen/in jnen ſelbs ermeſſen/vnd angenomen/on\nvffſehen vff ander lüt/do aber ein vffrür was worden/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.778,
+        "semantic_match": "darumb das jm fuͤrnemlich\nbeuolchen sye/die Schaͤfflin Christi zeweiden/ist vor gnuͤg=\nsam verantwort / ein Apostel ist er gewesen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "on zwyffel durch die bóßwilligen/vnd die immer das an=\nſehen/Petri/Jacobi/vnd anderer in Jheruſalem wider\nPaulum fürwarffen/hart ſich Paulus vnd Barnabas\ngern begeben der ſachen für die ſelbigen zeromen/vil lie=\nber hette er aber gehebt/ſy on wyter fragen ſinem einfal=\nS iij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7214,
+        "semantic_match": "darumb das jm fuͤrnemlich\nbeuolchen sye/die Schaͤfflin Christi zeweiden/ist vor gnuͤg=\nsam verantwort / ein Apostel ist er gewesen /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.756,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4054,

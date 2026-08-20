@@ -33,7 +33,9 @@
         "op": "match",
         "a": "Dis iſt die ſibend\nDas nach dißem zyt kein Fågfür in\nder ſchrifft erfunden wirt. Deßhalb alle\ntodtendienſt/als Vigil/Seelmäsz/Seel=\ngråt/ſibend/drißgoſt/jarzit/amplen/ker=\ntzen/vnd derglichen/vergeblich ſind.",
         "b": "464\nDiß iſt die Sibend\nSchlußred. Daß nach diſem Zyt kein Fågfůhr in der\nGſchrifft erfunden wirt. Deßhalb alle Tod-\ntendienſt/",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.7597,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -45,31 +47,43 @@
         "op": "match",
         "a": "Berchtoldus Haller. Die Schlußred iſt ſü\nteyl gnůgſam bewårdt/in der\ndritten/da wir bekennē/Chri\nſtum vnſer einige wyßheit/ge\nrechtigkeit/erlöſung vnd be=\nzalūg für aller welt ſünd.",
         "b": "in der\ndritten / da wir bekennen / Chri-\nſtum vnſer einige Wyßheit / Ge-\nrechtigkeit / Erloͤſung vnd Beze-\nlung fůr aller Welt Sůnd.",
-        "similarity": 0.6538
+        "similarity": 0.6538,
+        "semantic": 0.6925,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "So\nvolget ye von nöten/das kein\nander gnůgthůn/vnnd beza=\nlen für die ſünd/den abgeſtorb\nnen nachzerhůn/ſin mag/dañ\ndas lyden Chriſti.",
         "b": "So\nvolget je von noͤten/das kein an-\nder gnůgthůn/vnd bezalung fůr\ndie Sůnd / den Abgeſtorbnen\nnachzethůn/ſyn mag/dann das Lyden Chriſti.",
-        "similarity": 0.56
+        "similarity": 0.56,
+        "semantic": 0.8956,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Zum andren/Johannis iij. ſpricht\nder Herr: Alſo hat Gott die welt lieb gehept/das er ſin\neinigen ſun gab/vff das alle/die in jnn glouben/nit verlo\nren werden/ſunder das ewig låben haben:",
         "b": "Zum an-\ndren / Johannis am 3. ſpricht der Herr: alſo hat Gott die\nWelt lieb gehebt / daß er ſyn einigen Sun gab/vff das alle\ndie in jnn glouben /",
-        "similarity": 0.6769
+        "similarity": 0.6769,
+        "semantic": 0.9055,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "dan Gott hat\nſin Sun nitt geſandt in die welt/das er die welt richte/ ſunders/das die welt durch jn ſålig werde.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7823,
+        "semantic_match": "nit verloren werden / ſunder das ewig\nLåben haben: dann Gott hat ſyn Sun nit geſandt in die\nWelt\n\n## Marginalien\nWel[unleserlich]\njn ſa[unleserlich]\nſter [unleserlich]\ndaß d[unleserlich]\nſcheid[unleserlich]\nwenn[unleserlich]\nbrinn[unleserlich]\ngloub[unleserlich]\nchriſti[unleserlich]\nbige [unleserlich]\nnuß [unleserlich]\nWa[unleserlich]\nder [unleserlich]\nnit [unleserlich]\nhind[unleserlich]\nFůr[unleserlich]\ngyn[unleserlich]\ndie [unleserlich]\nles[unleserlich]\nge[unleserlich]\nbe[unleserlich]\nE[unleserlich]\ntes[unleserlich]\nſen [unleserlich]\nſa[unleserlich]\nfůr[unleserlich]\nmi[unleserlich]",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Wår an jnn\ngloubt/der wirt nit gericht: wår aber nit gloubt/der iſt\nſchon gericht. Hie iſt offenbar/das den glöubigen vol=\nget das ewig låben/nach jrem abſcheyd vß diſer zyt. Nů\naber",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.654,
+        "semantic_match": "als Vigil/ Seelmåß / Seelgråd/ Sibend/ Trißgoſt/ Jarzyt/ Amplen/ Kertzen/ vnd derglychen/ vergeblich ſind. Berchtoldus Haller. DIſe Schlußred iſt zum\nteil gnůgſam bewårdt /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -77,7 +91,12 @@
         "b": "nit verloren werden / ſunder das ewig\nLåben haben: dann Gott hat ſyn Sun nit geſandt in die\nWelt\n\n## Marginalien\nWel[unleserlich]\njn ſa[unleserlich]\nſter [unleserlich]\ndaß d[unleserlich]\nſcheid[unleserlich]\nwenn[unleserlich]\nbrinn[unleserlich]\ngloub[unleserlich]\nchriſti[unleserlich]\nbige [unleserlich]\nnuß [unleserlich]\nWa[unleserlich]\nder [unleserlich]\nnit [unleserlich]\nhind[unleserlich]\nFůr[unleserlich]\ngyn[unleserlich]\ndie [unleserlich]\nles[unleserlich]\nge[unleserlich]\nbe[unleserlich]\nE[unleserlich]\ntes[unleserlich]\nſen [unleserlich]\nſa[unleserlich]\nfůr[unleserlich]\nmi[unleserlich]",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7816,
+    "reworded": 1,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4947,

@@ -51,13 +51,17 @@
         "op": "match",
         "a": "Die fünfft\nwürcket. Vß dem allem wirt gar nit volgen/das ſin lyb\nvnd blůt in der Mäß müſſe täglich geopffert werden/jr\nhabt des dhein Beuelch /",
         "b": "Vß dem allen wirt gar nit volgen/ das ſyn\nLyb vnd Bluͦt in der Maͤß muͤſſe taͤglich geopffert werden/",
-        "similarity": 0.52
+        "similarity": 0.52,
+        "semantic": 0.7965,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd wirt in Chriſto ane das/die\nfigur Melchiſedech / vnd alle andre/gnůgſam erfült ſin\nwie vor überflüſſig angezeygt iſt.",
         "b": "jr habt deß kein befelch/ vnd wirt in Chriſto/ ane das/ die\nFigur Melchiſedech/ vnd alle andre/ gnuͤgſam erfuͤllt ſyn/",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.7443,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,39 +73,58 @@
         "op": "match",
         "a": "Johannes Büchstab. DAls Paulus den Hebreern hatt alſo geſchriben/ iſt klar gnůg / das er jnen hat den vnderſcheyd\ngeben. Das opfer aber der Mäß/wirt hienach\nwiter durch die Propheten /",
         "b": "das er jnen hat den vnderſcheid geben. Das Opffer aber der Maͤß/ wirt hienach wyter\ndurch die Propheten/ vnd ouch das nuͤw Teſtament an-\nzeigt.",
-        "similarity": 0.4912
+        "similarity": 0.4912,
+        "semantic": 0.781,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnnd ouch das nüw Teſta=\nment anzeygt. Es iſt noch nitt/in der red herrn Martin\nBuͦzers harfür bracht/vff min vorgebne antwurt /",
         "b": "Es iſt noch nit/ in der red herrn Martin Buͦtzers\nharfuͤr bracht/ vff myn vorgebne antwurt / das der Lyb\nChriſti nit moͤg vffgeopffert werden /",
-        "similarity": 0.5098
+        "similarity": 0.5098,
+        "semantic": 0.7827,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dz\nder lyb Chriſti nitt moͤg vffgeopfert werden/die gegen=\nwürff ſo er geben hatt / wellen wir hienach das verant=\nwurten.",
         "b": "die gegenwuͤrff ſo\ner geben hat/ wellen wir hienach bas verantwurten. Martinus Buͦtzer. ALles was durch Chriſtum vollendet iſt in ewigkeit/",
-        "similarity": 0.3111
+        "similarity": 0.3111,
+        "semantic": 0.7025,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Martinus Butzer. ALles was durch Chriſtum vollendet iſt in ewi=\nkeyt/dẽ mag dhein menſch ein zůſatz thůn/Chri\nſtus hatt mit ſynem tod die heyligeten in ewig=\nkeit vollendet/darum mag dhein menſch etwas mit ſinē\nopffern hinzů thůn /",
         "b": "dem mag kein Menſch ein zuͦſatz thuͦn/ Chriſtus hat\nmit ſynem Tod die Heiligeten in ewigkeit vollendet/ darumb mag kein Menſch ettwas mit ſynem opfferen hin\nzuͦ",
-        "similarity": 0.3478
+        "similarity": 0.3478,
+        "semantic": 0.3914,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "darumb ſo müß das Mäß opfferen\nvergebens ſyn / vnd ſo man vermeynt / den geheyligeten\ndamit etwas zůhelffen/ein verleſtrung des tods Chriſti.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7593,
+        "semantic_match": "vnd danck ouch taͤglich vffopfferen. Welches alles in vns\nder Geiſt Chriſti Jeſu/ vnſers einigen vnd ewigen Opf-\nferers wuͤrcket.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Gilg Adurer. VEwol Chriſtus gnůg gethan hatt in ewigkeyt\nvolkommenlich / wie ingeſfirt iſt / durch Herr\nMartin Buͦzer/iſt nitt deſterminder vns beuol\nhen von Chriſto / das wir vns teylhafftig machen mit dẽ\ntäglichen",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7921,
+        "semantic_match": "vnd danck ouch taͤglich vffopfferen. Welches alles in vns\nder Geiſt Chriſti Jeſu/ vnſers einigen vnd ewigen Opf-\nferers wuͤrcket.",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7187,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4444,

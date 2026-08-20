@@ -45,25 +45,34 @@
         "op": "match",
         "a": "so kompt Marti Butzer hår\nvon dem ynnerlich en regiment. Seshalb ich vor am an\nfang zügeben hab/vnnd will ouch zügeben haben/das\nChristus deshalb syedas eynig houpt der Kirchen.",
         "b": "Die erſt\n\nDeßhalb ich vor am anfang zůgeben hab/ vnnd\nwil ouch zůgeben habẽ/ dz Chriſtus deßhalb ſye\ndz einig houpt der Kilchen Jch han aber dͤ vſſer\nlichen regierūg halb/dz ich hoff/",
-        "similarity": 0.3385
+        "similarity": 0.3385,
+        "semantic": 0.4055,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "Ich\nhan aber der vsserlichen regierung halb/dz ich hoff/gnüg\ngeschrifft in disen z weyen sprüche/oder dryen. Sir wird\nich geben die schlüssel der himmlen/zc.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6495,
+        "semantic_match": "Mit denen ſprü-\nchen/hoff ich beſchloſſen haben / das ein ſölicher\nStatthalter Chriſti mit ſo vil gewalts begabt/ der da nit allein begryfft/",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Vnd weyd my-\nne schaffli/auch den/den Christus vnser heiland zu allen\nfinen jüngern gſagt batt/nach finer vfferstende/Joann;",
         "b": "gnůg geſchüfft\nin diſen zweyen ſprüchen/oder dryen. Dir wird\nich geben die ſchlüſſel der himlen/etc. Vnd weyd\nmine ſchäffly/auch den/den Chriſtus vnſer hey-\nland zů allen ſinen jüngern geſagt hatt/",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.771,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "am letſten Capitel. Nemmend hin den heyligen geyst/ denen jr die sünd vergeben/denen sind sy vergeben/dené\nirs Behalten/denen sind sy behalten/mit denen ſprüchen\nhoff ich beschlossen habe.",
         "b": "nach ſi-\nner vfferſtende/ Joan. am letſten capitel: Nem-\nmend hin den heyligen geyſt / denen jr die ſünd\nvergeben/denen ſind ſy vergeben/denen jrs be-\nhalten/denen ſind ſy behalten.",
-        "similarity": 0.6774
+        "similarity": 0.6774,
+        "semantic": 0.9238,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -75,7 +84,9 @@
         "op": "match",
         "a": "Sz ein solcher Stathalter Chri\nsti mit so vil gewalts begabt/der da nit alleyn Begrifft/ oder in sich Beschlüßt/die vſſeren regierung die dann nütt\nanderst/wen über die vsseren werck/sonders ouch über\ndie innern/wenn die selbigen durch bekantnus oder vsser\nveriechung/denselbige Statthaltern oder regierern er=\noffnet wirt.",
         "b": "oder in ſich beſchlüßt/ die vſſeren regierung/ die dañ nüt anderſt/denn\nüber die vſſeren werck / ſonders ouch über die jn\nnern:",
-        "similarity": 0.4595
+        "similarity": 0.4595,
+        "semantic": 0.7672,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,13 +98,17 @@
         "op": "match",
         "a": "Will ouch daby ein mal/08 zwey gemeldet\nmißbrüch/weder gerechuertiget noch verantwurt habe. Es ist aber klar/das sünd vergeben/oder nit vergeben/",
         "b": "oder zwey gemeldet mißbrůch/weder gerechtfer\ntiget noch verantwurt haben. Es iſt aber klar/ das ſünd vergeben/oder nit vergeben /",
-        "similarity": 0.7273
+        "similarity": 0.7273,
+        "semantic": 0.8326,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "die Conscients oder feel antrifft. Darum hoffenich/ich be\ndd:ffe sin nüt/dz S. Peters innere regierung über keine\nmensche oder oberkeit wyter Bewaredseff/blypt by dene\nsprüchen/zc. Off",
         "b": "die Con-\nſcientz oder ſeel antrifft. Darumb hoffen ich/ich\ndörffe ſin nüt/das Sant Peters innere regierūg\nüber keinen menſchen oder oberkeyt wyter bewä\nren dörff/blypt by denen ſprüchen/etc.",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.6493,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -101,7 +116,12 @@
         "b": "Vff den achtenden tag Jenners/hat\nBerchtoldus wyter geoffnet/als\nhernach volgt.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7141,
+    "reworded": 3,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5598,

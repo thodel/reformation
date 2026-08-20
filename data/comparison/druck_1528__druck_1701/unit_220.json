@@ -39,19 +39,27 @@
         "op": "match",
         "a": "Schlußred. Brot genomen in die hend / hat dãck geſagt / ouch Broche / vnnd das geben ſinen jüngern / daby geſagt: Nemmend / åſſend /",
         "b": "hat Danck gesagt / auch brochen / und das geben\nsynen Jüngeren / daby gesagt: Nemmend / essend / das\nist myn Lyb: derglychen genommen den Kelch /",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.815,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "das iſt min lyb: der glychen genoñen den Kelch / danck geſagt / vnnd jnen geben / ſagende / Trinckennd all\ndarůß / das iſt min blůt des nüwen Teſtaments /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8072,
+        "semantic_match": "danck-\ngesagt / und ihnen geben / sagende : Trinckend all da-\nruß / das ist myn Blůt deß Neuen Testaments / wel-\nches für viel vergoſſen wird zů Verzyhung der Sünd.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "welches\nfür vil vergoſſenn wirt / zů verzychung der ſünd. Das\nhalt inn / vnſer gloub / ongezwiffelt / ſo nun Chriſtus be=\nfolchen hat /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7421,
+        "semantic_match": "so unmüglich dem\nMenschen / by Gott vermüglich / Matth. am 19. Cap. und Paulus zun Römern am 4. und Lucas am 1.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -63,13 +71,18 @@
         "op": "match",
         "a": "ſolichs gethon werden / in ſiner gedächtnuß. Nun iſt gewüß alles das / ſo vnmöglich dem menſchen / by Gott vermöglich / Matthei am xix.",
         "b": "Das halt inn unser Glaub ungezwyfelt. So nun Chri-\nstus befohlen hat / sölichs gethon werden / in syner Ge-\ndächnus. Nun ist gewiß alles das /",
-        "similarity": 0.3556
+        "similarity": 0.3556,
+        "semantic": 0.6826,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "capit. vnd Pau\nlus zun Römeren am iiij. capitel. vnnd Lucas am er=\nſten capitel. Meiſter Vlrich Zwingli / predicant zů Zůrich.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6034,
+        "semantic_match": "welches ich um das Leben der Welt\nhingeben wird / Johan. am 6. Cap. treit synen eigentli-\nchen Verstand off dem Rucken /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -81,13 +94,18 @@
         "op": "match",
         "a": "[E]r erſt ſpruch: Das brot das ich üch gebẽ wirt / iſt min fleyſch / welches ich vmb das labenn der\nwelt hingeben wird /",
         "b": "Cap. Meister Ulrich Zwingly / Predicant\n                    zu Zürich. DEr erst Spruch : Das Brot das ich euch geben wird / ist myn Fleisch /",
-        "similarity": 0.3256
+        "similarity": 0.3256,
+        "semantic": 0.5324,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "Johannis am ſechßten ca=\npitel / treyt ſinen eygentlichen verſtand vff dem rucken / Namlich / das er vns hie mit dem wort /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8132,
+        "semantic_match": "welches ich um das Leben der Welt\nhingeben wird / Johan. am 6. Cap. treit synen eigentli-\nchen Verstand off dem Rucken /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -99,33 +117,49 @@
         "op": "match",
         "a": "Brot / vnd mit\ndem wort / (Min fleyſch / nit zů verſtan gibt / das er vns\nim brot ſin fleyſch lyplich welle zeeſſenn geben /",
         "b": "namlich / daß er uns hie\nmit dem Wort (Brot) und mit dem Wort (myn Fleisch)\nnit zů verstahn gibt / daß er uns im Brot syn Fleisch lyb-\nlich wölle zeessen geben /",
-        "similarity": 0.4906
+        "similarity": 0.4906,
+        "semantic": 0.8602,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ſonders / er\nverſtadt durch das Brot / den troſt vnnd ſicherheyt / die\nvns Gott in jm gibt / verſichert werden / mit ſinem tod /",
         "b": "sonder er verstaht durch das Brot\nden Trost und Sicherheit / die uns Gott in ihm gibt / ver-\nsichert werden mit synem Tod /",
-        "similarity": 0.6512
+        "similarity": 0.6512,
+        "semantic": 0.9112,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Das vermerckt man / ſo er ſpricht / Welches fleyſch ich\ngeben wird vmb das låben der welt: ſin fleyſch in tod ge=\nben /",
         "b": "das vermerckt man / so er\nspricht: Welches Fleisch ich geben wird um das Leben der\nWelt: syn Fleisch in den Tod geben /",
-        "similarity": 0.6818
+        "similarity": 0.6818,
+        "semantic": 0.7686,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "hat die welt låbendig gemacht: lyblichenn geeſſen / hat Gott nienen geredt / das es låbendig macht. Deß andren puncten halb / erkenné wir /",
         "b": "hat die Welt lebendig\ngemacht: lyblichen geessen / hat Gott nienen geredt / daß\nes lebendig macht. Deß andern Puncten halb / erkennen wir / daß Gott\n                         Dd ij                               halt/",
-        "similarity": 0.6383
+        "similarity": 0.6383,
+        "semantic": 0.7606,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "dz Gott halt / das er verheyſſen hatt / Das er aber vns das fleyſch ſins",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8214,
+        "semantic_match": "welches ich um das Leben der Welt\nhingeben wird / Johan. am 6. Cap. treit synen eigentli-\nchen Verstand off dem Rucken /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7598,
+    "reworded": 3,
+    "candidates": 5,
+    "recovered_by_embedding": 5,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5547,

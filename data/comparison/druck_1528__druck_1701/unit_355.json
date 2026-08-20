@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Die fünffte\nſterthumb / deßhalb er dheins erſetzens bedarff. Zum\nvierden. Er erſchint vor dem angeſicht Gottes / vnnd\nvertrittet vnns / darumb werden jr inn nit Repreſen=\ntatiue /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6896,
+        "semantic_match": "Die Fuͤnffte Schlußred. 353\nGottes / vnd vertrittet vns / darum werden ihr jhn nit\nrepræſentativè, das iſt / in widerſtelliger wys opffern.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -45,13 +48,17 @@
         "op": "match",
         "a": "das iſt inn widerſtelliger wyß opffern. Zum\nfünfften. Er hats vollender vnd volkomen gemacht / wz\niſt dann der yetzigen Prieſtern opffern anders /",
         "b": "Zum\nfuͤnfften. Er hats vollendet vnd vollkommen gemacht / was iſt dann der jetzigen Prieſtern opffern anders / dann\nein ſchmaͤhen deß Opffers Chriſti.",
-        "similarity": 0.4783
+        "similarity": 0.4783,
+        "semantic": 0.8628,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dann eyn\nſchmächen des opffers Chriſti. Zum ſechßten. Er hatt\nein ewige erlöſung erfundē / was ſeelen welle dan die prie\nſter mit den Meßen erlöſen. Zum ſibenden. Es i",
         "b": "Zum ſechſten. Er\nhat ein ewige Erloͤſung erfunden / was Seelen woͤllen\ndann die Prieſter mit den Maͤſſen erloͤſen?",
-        "similarity": 0.3529
+        "similarity": 0.3529,
+        "semantic": 0.7583,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -113,7 +120,12 @@
         "b": "ſo ſy in aͤrger-\nnus leben / vnd die Pfaffen (ob ſy ſchon die boͤſten ſind)\n                                                       all",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7702,
+    "reworded": 2,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.1907,

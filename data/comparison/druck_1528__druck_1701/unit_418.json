@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "**Schlußred.**\nmensch harnach/Gott den herrn bitt/diewil er von dem\nEngel bewegt worde ist/vnd also erlang die barmhertzig\nkeyt Gottes.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.708,
+        "semantic_match": "der in\nmir redt guͤte und troſtliche Wort. Hie haben wir aber\nKundſchafft / daß die Engel moͤgen fuͤr uns bitten.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Darumb so dient üch der spruch gar nüt/ dann wyter ouch hernach volgt: das gott dem menschen\nwil nachlassen/vnd beuilcht dem Engel/das er jn erlöß\nmit synem dienst/als wir im psalmen ouch haben Angelis\nsuis mandauit de te, &c.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7582,
+        "semantic_match": "Zacha-\nrie am I. ſtaht alſo geſchriben: Daß der Engel Gottes an-\nfaht / und ſpricht: Herr der Scharen / wie lang erbar-\nmeſt du dich nit uͤber Jeruſalem /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -51,7 +57,9 @@
         "op": "match",
         "a": "**Johannes Büchstab.**\nAls der spruch Job/nach mynem fürgeben be=\nstande. Wil ich darfür ein andern harin füren/ Zacharie.j.stat also geschriben.",
         "b": "418          Die Sechſzte Schlußred. ________________________________________\nJohannes Buͤchſtab. DAß der Spruch Job nach mynem Fuͤrgeben beſtan-\nde / wil ich darfuͤr ein andern haryn fuͤhren /",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.717,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,7 +71,9 @@
         "op": "match",
         "a": "Das der Engel\nGottes anfacht/vnd spricht: Herr der scharen/wie lang\nerbarmestu dich nit über Jerusalem/vnd die statt Juda\nwider welche du erzürnet bist/vnd das ist yetz das siben=\nzig Jar/vnnd der herr antwurt dem Engel/der in mit\nredt güte vñ trostliche wort.",
         "b": "und die Statt Juda / wider welche du erzoͤrneſt biſt / und das iſt jetzt das ſiben-\ntzigſt Jahr / und der Herr antwortet dem Engel /",
-        "similarity": 0.4722
+        "similarity": 0.4722,
+        "semantic": 0.7647,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,13 +85,17 @@
         "op": "match",
         "a": "Hie haben wir aber kundt=\nschafft/das die Engel mögen für vns bitten. **Ecolampadius.**\nDiser spruch Zacharie/ist vom schülmeister ouch\nnit verstanden.",
         "b": "Ecolampadius. DIſer Spruch Zacharie iſt vom Schuͤlmeiſter auch\nnit verſtanden. Es ſtaht nit da / daß der Engel ge-\nbåtten hab /",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.8377,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Es stat nitt da/das der Engel\ngebetten hab. Es stat ouch nitt da/das Gott\nsyn gebätt erhört hab/es ist aber eyn schematismus/das ist\nin dem gesicht/durch fürgeben solicher wort des Engels\nwirt der Prophet gelert/das die zyt der widerbuwung\nJerusale schon vorhanden sye.",
         "b": "Es ſtaht auch nit da / daß Gott ſyn Gebått\nerhoͤret hab / es iſt aber ein Schematiſmus, das iſt in dem\nGeſicht:",
-        "similarity": 0.4225
+        "similarity": 0.4225,
+        "semantic": 0.7898,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -93,7 +107,9 @@
         "op": "match",
         "a": "Es möcht einer als bald\nvnwisschende wort/als bittende wort hieruß nemen. Eee iij",
         "b": "Es moͤcht einer alsbald\nunwirſchende Wort / als bittende Wort hieruß nemen. Buͤchſtab. DIe Schrifft durch mich yngefuͤhrt /",
-        "similarity": 0.4706
+        "similarity": 0.4706,
+        "semantic": 0.832,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -107,7 +123,12 @@
         "b": "und warnemme / woruff die Propheten redend. Buͤchſtab. WIr moͤchten noch haben Kundſchafft vß Tobia / Ba-\nruch / Machabeorum / und Apocalypſi / ſo laßt man\nes uns nit zuͤ. Ecolam-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7725,
+    "reworded": 5,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4221,

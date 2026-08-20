@@ -45,37 +45,49 @@
         "op": "match",
         "a": "Die fünffte\nGilg murer\n[D]As aber wyter möge bybracht werden/das tåg\nlich opffer d̊ Måß. J nům ich für mich /",
         "b": "Gilg Murer. Vß aber wyter moͤge bybracht werden/das taͤglich\nOpffer der Mäß: Nim ich fuͤr mich /",
-        "similarity": 0.5238
+        "similarity": 0.5238,
+        "semantic": 0.7351,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Malachi\nam den Prophetẽ am ersten Capi. so er spricht. Mir ist der will nitt in üch / spricht der Herr der håren/",
         "b": "Malachi-\nam den Propheten am erſten Capitel/ſo er ſpricht: Mir iſt der Will nit in uͤch/ſpricht der Herr der haͤren/",
-        "similarity": 0.7391
+        "similarity": 0.7391,
+        "semantic": 0.9143,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "opffer oder gaben wil ich nit nemen von üweren henden/ dañ von vffgang der Soñen/biß zů nidergang/ist groß\nmin namen in den völckern /",
         "b": "Opffer oder Gaben wil ich nit nemmen von uͤweren Hen-\nden /dann von Vffgang der Sonnen biß zů Nidergang/",
-        "similarity": 0.5333
+        "similarity": 0.5333,
+        "semantic": 0.8812,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd in aller statt wirt ge=\nopffert minem namen / ein reyns opffer/wann warumb\nmin namen ist groß in den völckeren.",
         "b": "iſt groß myn Namen in den Voͤlckern/ vnd in aller Statt\nwirt geopffert mynem Nammen/ein reines Opffer/wann\nwarumb myn Nammen iſt groß in den Voͤlckeren.",
-        "similarity": 0.52
+        "similarity": 0.52,
+        "semantic": 0.7815,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Hie mag nüt an=\nders nach der vßlegung der götlichen leerer verstanden\nwerden/dann das rein opffer/der zart fronlichnam vn=\nsers Herren Jesu Christi /",
         "b": "Hie\nmag nuͤt anders / nach der vßlegung der Goͤttlichen Lee-\nrer / verſtanden werden / dann das rein Opffer / der zart\nFronlichnam vnſers Herren Jeſu Chriſti /",
-        "similarity": 0.7059
+        "similarity": 0.7059,
+        "semantic": 0.8751,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "inn dem Ampt der heyligen\nMåß. Butzer\n[D]rch hålle schrifft/vnser widerpart vnüberwindt\nlich ist bewårt/das die Måß dhein opffer sin mag/",
         "b": "in dem Ampt\nder Heiligen Mäß. Butꝛer. Dvrch haͤlle Schrifft / vnſer Widerpart / vnuͤber-\nwindtlich iſt bewaͤrt/das die Mäß kein Opffer ſyn",
-        "similarity": 0.4898
+        "similarity": 0.4898,
+        "semantic": 0.8043,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -93,9 +105,17 @@
         "op": "only_a",
         "a": "Das ist anders nüt gesin / als bißhar\ndiser Prophet ist vßgelegt worden/dann das rein opfer/ wie vormals gesagt ist. Butzer",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.646,
+        "semantic_match": "Butꝛer. Paulus vnd Barnabas / ſind zů dem predig ampt\ngeſündret worden. Darzů hat vaſt wol gedienet/ daß man gebått zů Gott dem Herren gethan hab.",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.8054,
+    "reworded": 1,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4262,

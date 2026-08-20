@@ -39,25 +39,35 @@
         "op": "only_a",
         "a": "jro geſchlächt gemeret/dann es ſtat להם. ad ipſos. vnd nit. להם. ad ipſas. Dz ander ort Sātelis iſt ouch nit wider vns\ndann ye billich iſt/das der von gott barmhertzigkeyt er=\nlanget hatt/das er widerumb gegen ſynem nechſten ouch\nbarmhertzigkeit bewiſe/damit iſt aber noch nit bewärt\ndas die ſelbigen werck/die göttlich barmhertzigkeit ver\nglichen möchte/ſonder es belybt alles gnad/wie zun Rö\nmern am iiij.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6644,
+        "semantic_match": "Jch hab min Hertz geneigt/zethuͦn di-\nne sitten ewigklich/entlich/das ist jmmer fuͤr vnd fuͤr.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "vñ iiij. klarlich anzeygt wirt/dz alles gnad\nſye/vnd nit verdienter lon/ſunſt were es dhein gnad/dz\nwir ouch am vj.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7864,
+        "semantic_match": "Jch hab min Hertz geneigt/zethuͦn di-\nne sitten ewigklich/entlich/das ist jmmer fuͤr vnd fuͤr.",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "zun Römern haben/doch wäre überuß\ngnüg/der einig ſpruch zun Römern am iij. So haltē wir\nnun/das der menſch gerechtuertiget werde/ane züthůn\nder werck des geſatzes/allein durch den glouben/dz aber\nvß dem hundert vnd xviij.",
         "b": "210 Die dritt\nzun Roͤmern am 3. So halten wir nun / das der Mensch\ngerechtuertiget werde/ ane zuͦthuͦn deß Werck deß gesatzes/",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.6038,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Pſalmen angezogen iſt/ſtat\nnit im Hebreiſche/wie es anzoge iſt/ſonder alſo/Jch hab\nmin hertz geneigt/zethůn dine ſitten ewigklich/entlich/",
         "b": "allein durch den glouben / das aber vß dem hundert vnd 19. Psalmen angezogen ist/stat nit im Hebreischen / wie es an-\nzogen ist/sonder also/",
-        "similarity": 0.4583
+        "similarity": 0.4583,
+        "semantic": 0.8484,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,13 +79,17 @@
         "op": "match",
         "a": "das iſt ymmer für vnd für. Diß haben wir allein geant\nwurt zů erklären die yngezognen ſprüch/ſunſt wäre kein\nantwurt von nöten gewäſen:",
         "b": "Diß\nhaben wir allein geantwurt zuͦ erklaͤren die yngezognen\nSpruͤch/sunst waͤre kein antwurt von noͤten gewaͤsen:",
-        "similarity": 0.4783
+        "similarity": 0.4783,
+        "semantic": 0.8269,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dann ſy nit bringen/dz wir\ndie ſäligkeit vß vns verdienen/oder gnüg thůn/das vn\nſere werck die gaaben Gottes verglychtē/welcherley ver\ndienſt wir nach der ſchrifft/allein verneinen.",
         "b": "dañ\nsy nit bringen/das wir die saͤligkeit vß vns verdienen / oder\ngnuͦg thuͦn/ das vnsere Werck die gaaben Gottes verglich-\nten/",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.929,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -87,7 +101,9 @@
         "op": "match",
         "a": "**Bůchſtab**\n[D]Je erlüterung der Hebreiſchen geſchrifft halb/ wird ich nit genötiget anzenemmen/ſo iſt ouch\nnit das min meinung/das man möge vß den ei\nnigen wercken/vſſerthalben dem Chriſtlichen glouben/ ſälig",
         "b": "so ist ouch nit das\nmin meinung / das man moͤge vß den einigen Wer-\ncken/vsserthalben dem Christlichen glouben /",
-        "similarity": 0.566
+        "similarity": 0.566,
+        "semantic": 0.7254,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -113,7 +129,12 @@
         "b": "Jn summa/so\nhat Christus / Matth.am 25.anzeigt / Wie er werde am\nletsten gericht/zuͦ den Vßerwelten Gottes sprechen: Kom-\nmend",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7692,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3901,

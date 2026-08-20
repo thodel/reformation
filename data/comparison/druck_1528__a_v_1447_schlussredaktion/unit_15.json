@@ -45,13 +45,17 @@
         "op": "match",
         "a": "Schlußred. IIII\ndas er vns nit alle ding mit jm gebëhette/Ro.viij.Vn\nwie das heyl des lybsstadt in verwaltung des houpts/",
         "b": "mit Im geben hette / Roma: 8° / vnd\nwie das heill # des lybs stat in verwaltung des houpts / also ouch das heill /",
-        "similarity": 0.4091
+        "similarity": 0.4091,
+        "semantic": 0.6917,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "also ouch das heyl vnnd låben/aller glsubigen/stadtin\nChristo: dann er ist ein heilland fins lybs. Unnd wiedie\nglider krafftloß sind/vnnd nüt vermogen/on verwal=\nrung des houpts/also ouch die glider des lybs Chrifti/",
         "b": "vnnd läbenn aller glöubigen statt In/ Christo/Dann er Ist ein heilland/sins lybs vnnd\nwie die glider krafftloß sind /",
-        "similarity": 0.4561
+        "similarity": 0.4561,
+        "semantic": 0.7778,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,37 +67,51 @@
         "op": "match",
         "a": "der Kilchen vermogend nüt on Chrifto. Dann wie das\nRabschoß kein frucht treyt/wo es dem wynstock nit yn=\ngelybet Blypt.",
         "b": "Dan wie das Rhaͤbschoß kein\nfrucht treit wo es dem winstock nit Ingelybet\nblipt / Also ouch wir so nitt inegelibet /",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.7405,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Also ouch wir/ so nit yngelybet sind dem\nhoupt Chrifto/werden wir kein frucht Bringen: dann on\nin vermogend wir nüt/Johan.yv.",
         "b": "sind / Dem houpt christo / werden wir kein frucht\nbringen Dann on \"in„ vermogennd wir nuͤdt/ Johan / 15°. Dahar ein jegklicher verstadt /",
-        "similarity": 0.5778
+        "similarity": 0.5778,
+        "semantic": 0.7984,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Sahar ein yeglicher\nverstadt/das kein creatur mag ein solich houpt der kil=\nchen sin/das die güter vin gaaben Gottes/in vnsere her=\ngen giesse/",
         "b": "Das kein Creatur mag ein soͤllich houpt der\nKilchen sin / Das die guͤter vnnd gaben gotes / In vnsere hertzen giesse /",
-        "similarity": 0.5417
+        "similarity": 0.5417,
+        "semantic": 0.812,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vns stercke/tzöste/fire/vñ regiere/ouch sye\nein heylland des lybs Christi. Sise Kilche ist vs dem wort gottes geborn/wiewol\nsy Gott von ewigkeit/eedie welt erschaffen/erwelt hat:",
         "b": "vns stercke / troͤste / fuͤre\nvnnd regiere / ouch sye ein heiland des lybs Christi / Dise  kilchen Ist vß dem wort gottes geboren /",
-        "similarity": 0.4815
+        "similarity": 0.4815,
+        "semantic": 0.7896,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "yedoch ist sy geborn/vs dem innerlichen wort gottes/v\ndem wort des gloubens/Rom.y. Das Gott låbendig\nvnd tätig machet/vn in vnser hertz redet/welches ouch\nin der warheyt/kein anders ist/von dem das vsserlich ge\npredigot/oder in gschrifft verfasser ist.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7726,
+        "semantic_match": "wiewoll sy gott  von ewigkeit / ee die welt erschaffen / erwellet hatt / Jedoch ist sy geporn / vß dem Iner // lichen wort gottes /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Dise beruffung/ erlüchtung/vnd ernt werung der hertze/nenn ich geburt\nder Kilchen. Petri.1. Habend einander ynbrünstig lieb\nvon reinem hertzen/Als die wider geboren sind/nit vs\neim sterblichen somen/sond vs eim vnsterblichen/durch\ndie wort des labendigen Gottes/der in ewigkeyt belybr:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7304,
+        "semantic_match": "wiewoll sy gott  von ewigkeit / ee die welt erschaffen / erwellet hatt / Jedoch ist sy geporn / vß dem Iner // lichen wort gottes /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -105,7 +123,10 @@
         "op": "only_a",
         "a": "ouch nit ein zergengklich\nsonder das ewig vnd libendig wort Gottes/deß vnser",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7046,
+        "semantic_match": "wiewoll sy gott  von ewigkeit / ee die welt erschaffen / erwellet hatt / Jedoch ist sy geporn / vß dem Iner // lichen wort gottes /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -119,7 +140,12 @@
         "b": "Vß. Dem wort des gloubens\nRoma: 10°/ Das got laͤbendig vnnd taͤtig",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7575,
+    "reworded": 4,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4371,

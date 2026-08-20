@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "**Die vierde**\n\n**Ecolampadius.**\n\nVnſer vßlegung welle wir darnach gnůgſamlich\nbybringenn / herr Benedict zeyg in diřen ange=\nzognen worten Pauli / ſin synecdoche an /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7486,
+        "semantic_match": "legung wellen wir hernach gnugsamlich\nbbringen, Her Benedicht zoigt, In desen ange¬\nDas\nzognen worten pauen, sin sijnech doche, san¬\nsind wir von Im erwarten,\nPfarrex von santij:",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -57,37 +60,53 @@
         "op": "match",
         "a": "das ſind\nw ir vonjm erwarten. **Pfarrer von ſant Gallen.**\n\nVff die frag ich zeyge ein synecdoche an / verlaß ich\nmich gang vñ gar vff die fürgebrachten erklär=\nung /",
         "b": "off die frag ich zouff ein mechdoche an\nverlas ich mich gantz vnnd gar vff die\nfurgebrachten erklärung vnnd mijne verstend will\nsich voorss.",
-        "similarity": 0.4151
+        "similarity": 0.4151,
+        "semantic": 0.5549,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "vnd mine verſtend wil ich vß dem Paulo\nerklärt habenn / ſyner vßlegung aber halb / můſſen wir\nnochmalß erwarten. **Ecolampadius.**\n\nES ſolt das/das dunckel durch ein klärers gelert\nwerden /",
         "b": "dem paulo erklart haben/ Siner uslegung\naber halb/ mussen wir nochmallsz erwarten\nEcolampadius\nEs sollt das das Dinckell durch ein klarers ge¬\nlertt werden, das beschicht hie uit, vnnd wir\nerwarten, dorwie er doch das vss den worten\npauli ex klaren well,\nverfarrer van Santg:",
-        "similarity": 0.4324
+        "similarity": 0.4324,
+        "semantic": 0.6481,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "das beſchicht hie nit / vnd wir erwarten\nwie er doch das vß den worten pauli erklären\nwöll. **Pfarrer von ſant Gallen**\n\nDAruff ich antwurt /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6972,
+        "semantic_match": "legung wellen wir hernach gnugsamlich\nbbringen, Her Benedicht zoigt, In desen ange¬\nDas\nzognen worten pauen, sin sijnech doche, san¬\nsind wir von Im erwarten,\nPfarrex von santij:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "damit vnd aller zanck ab=\ngeleynet / über die wort des Nachtmals. Das\niſt min lyb / hab ich hüt gnůgſamlich gantwurt\ndarumb ich mich vff die Acta verlaſſen /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.716,
+        "semantic_match": "Das ist min lijb so viel solle gelltenn\nAls das bedut min lye, oder das ist mus\nlebs Zeichen\nvff das die gewusschen\nbinn wortt gottes woll versichert werde,\nEccolampadius\nVnser voorss.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "was der ver=\nſtand der worten ſin ſölle. Es wåre ein verlengerliche wi\nderråffung: beger alſo von minem herrn Doctor /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7857,
+        "semantic_match": "Das ist min lijb so viel solle gelltenn\nAls das bedut min lye, oder das ist mus\nlebs Zeichen\nvff das die gewusschen\nbinn wortt gottes woll versichert werde,\nEccolampadius\nVnser voorss.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "zů für\ndrung der ſach wyter gſchrifft. Warumb die wort / das iſt\nmin lyb / vnd das iſt min blůt / nit alſo ſöllen verſtanden\nwerden / wie ſy klar vnd ſtarck lutend. Zwingli",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.734,
+        "semantic_match": "Das ist min lijb so viel solle gelltenn\nAls das bedut min lye, oder das ist mus\nlebs Zeichen\nvff das die gewusschen\nbinn wortt gottes woll versichert werde,\nEccolampadius\nVnser voorss.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -95,7 +114,12 @@
         "b": "Doruff ick antwurt Damit vnnd aller ganck\nabgeleuwt, wer die wort des nachtmalls, Das",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6978,
+    "reworded": 1,
+    "candidates": 5,
+    "recovered_by_embedding": 5,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3144,

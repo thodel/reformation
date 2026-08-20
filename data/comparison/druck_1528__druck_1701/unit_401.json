@@ -57,19 +57,25 @@
         "op": "match",
         "a": "Die ſechſzte\ndarzuͦ. Das letſt Mandat miner gnedigen herrn/das\ndann Chriſtenlich vnd Goͤttlich iſt/ halt ſollichs nit inn\ndarumb ich jm des nit beſtendig bin.",
         "b": "das\ndann Chriſtenlich vnd Goͤttlich iſt/halt ſoͤlichs nit inn/ darum ich jhm deß nit beſtaͤndig bin.",
-        "similarity": 0.5532
+        "similarity": 0.5532,
+        "semantic": 0.8885,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Allein das ſol man\npredigen/was mit Goͤttlicher warhafftiger vnd Bibli=\nſcher gſchrifft fuͤrbracht mag werde/ daruß bewiſe er ſin\npredige/waͤr ouch das buͦch Machabeorum/joch Bibli=\nſche gſchrifft.",
         "b": "Allein das ſoll man\npredigen / was mit Goͤttlicher / warhafftiger vnd Bib-\nliſcher Schrifft fuͤrbracht mag werden / daruß bewyſe er\nſyne Predig:",
-        "similarity": 0.5263
+        "similarity": 0.5263,
+        "semantic": 0.8362,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wil doch der Judas nit anders/dañ das\nman ſoͤlle ruͤffen zuͦ Gott der im himel wone. Als ouch d\nProphet Dauid thuͤt/im hundert vnd xxiij.",
         "b": "Waͤr auch das bůch der Machabeorum joch\nBibliſche Geſchrifft: Wil doch der Judas nůt anders/ dann daß man ſoͤlle růffen zů Gott /",
-        "similarity": 0.3704
+        "similarity": 0.3704,
+        "semantic": 0.6695,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,31 +87,43 @@
         "op": "match",
         "a": "Pſalmen/ da er ſpricht. Zuͦ dir herr heb ich mine ougen vff/der du\nwoneſt in den himlen/ Ouch vnns Chriſtus lert baͤtten.",
         "b": "heb ich myne Augen auff/ der\ndu wohneſt in den Himmlen / Auch uns Chriſtus lehrt\nbaͤtten / Matth. am 6.",
-        "similarity": 0.4091
+        "similarity": 0.4091,
+        "semantic": 0.7997,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Math.am vj. Vatter vnnſer/der du biſt in himlen. So\nnun er ſins teyls beuolhen hatt den geleerten ſyner geſel=\nſchafft/",
         "b": "Vatter Vnſer / der du biſt in Him-\nlen. So nun er ſynes theils befohlen hat den Gelehrten\nſyner Geſellſchafft / mag ich vnd wil das auch wol thůn/",
-        "similarity": 0.4082
+        "similarity": 0.4082,
+        "semantic": 0.7609,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "mag ich vnd wil das ouch wol thuͤn/minen Chri\nſtenlichen bruͤdern vñ herrn hie. Herr Johannes Lottſtetter\nZe ich mich begeben hab/wil ichs ouch laſſen bli=\nben/dañ ich mich ſin nit verſehen hab/mitt jm\nzuͦ diſputieren/noch vil minder mit den hochge=\nlerten da zuͦgegen/ſonders allweg minen glouben offnen\nlich zuͦ veriehen/vff vnderwyſung beſſers.",
         "b": "mynen Chriſtenlichen Brůdern vnd Herren hie. Herr Johannes Lottſtetter. WJe ich mich begeben hab / wil ichs auch laſſen bly-\nben /",
-        "similarity": 0.3133
+        "similarity": 0.3133,
+        "semantic": 0.7824,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Johannes Waͤchter\nMine gnedigen herren/haben mich darzuͦ eruordert\niſt es uͤch nitt zuͦ wuͤſſen gethon/das wuͤſſen myne\nherrn wol.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7685,
+        "semantic_match": "denen ich mich underſchriben hab. Hans Waͤchter. NVn vff ſoͤllichs / als er dann ynzůcht / wie myner\nGnaͤdigen Herren Mandat /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Gila Durer\nJe gnad vnſers Herren Jeſu Chriſti/ſye mitt\nvns allen/Amē. Siewil ein gantze Chriſtenliche\ngemeynd/ye vnd ye gehalten hatt/das fuͤrbitt\nder",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.765,
+        "semantic_match": "wyſe vff die ſiben Sa-\ncrament / vnd andere Ceremonien / ſprich ich Nein dar-\nzů. Das letſt Mandat myner Gnaͤdigen Herren /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -113,7 +131,12 @@
         "b": "dann ich mich ſyn nit verſehen hab mit jhm ze\ndisputie-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7838,
+    "reworded": 4,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4094,

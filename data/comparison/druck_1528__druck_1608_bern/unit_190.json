@@ -33,49 +33,66 @@
         "op": "match",
         "a": "Die ander\nButzer+\n\nDarum ſo volget/ dz\nnit ſin mag/ die ſoͤlichs gebotten hat/ vñ wil ich\nein klaren silogiſmum vß den worten Pauli ſezenn.",
         "b": "190\t\t\tDie ander\n\t\t\tButzer. DArumb ſo volget / das diſes die Chriſtenlich Kilch\nnit ſin mag/die ſöllichs gebotten hat/vnd wil üch ein\nklaren Silogiſmum vß den worten Pauli ſetzē.",
-        "similarity": 0.6786
+        "similarity": 0.6786,
+        "semantic": 0.8644,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Welich die Le vnnd ſpyß verbieten/ ſind vom glouben\nabgetretten/ vnd bringend tuͤfels ler. Die Concilia vnd\nPrelaten/ ſo jr fuͤr Chriſtlich Kilch zellen/",
         "b": "We=\nlich die Ee vnd ſpyß verbieten / ſind vom glouben abgetret=\nten/vnd bringend Tüffels leer. Die Concilia vnd Prela=\nten /",
-        "similarity": 0.4681
+        "similarity": 0.4681,
+        "semantic": 0.7258,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "habend ſpyß\nvnd Le verbotten/ darum ſy vom glouben abgetretten/ vnd dhein Chriſtlich Kilch gewaͤſen. Bichtuatter+\n\nSo man ie der kuͤrze der red begaͤrt/",
         "b": "ſo jr für Chriſtlich Kilch zellen / habend ſpyß vnnd Ee\nverbotten/darumb ſy vom glouben abgetretten / vnnd kein\nChriſtlich Kilch gewäſen.",
-        "similarity": 0.375
+        "similarity": 0.375,
+        "semantic": 0.5374,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "in 8 ſo ſchwaͤ\nren ſach/ ſo wil ich kuͤrzlich vff die red Martini\nBuzers/ alſo anwurt geben/ Das die ſazunge\nder heilige Chriſtenlichen Kilchen/",
         "b": "Bychtuatter. SO man je der kürtze der red begärt/in der ſo ſchwären\nſach/ſo wil ich kürtzlich vff die red Martini Butzers/",
-        "similarity": 0.4082
+        "similarity": 0.4082,
+        "semantic": 0.7081,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "die da ſind von abbruch\nder ſpyß/ der Le/ der Feſt/ vnd ander derglychen/ voͤ der\nheiligen Chriſtliche Kilche geſetzt/",
         "b": "alſo antwurt geben / Das die ſatzungen der heiligen\nChriſtenlichen Kilchen / die da ſind von abbruch der ſpyß/ der Ee / der Feſt/vnnd ander derglychen /",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.929,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "nit ſind ſazunge der\nvngloͤubigen/ noch der tuͤfel/ ſunders in der ſchrifft inge\nmein/ fuͤr guͦt gehaltẽ/",
         "b": "von der heiligen\nChriſtlichen Kilchen geſetzt/nit ſind ſatzungen der vnglöu=\nbigen/noch der Tüffel / ſunders in der Schrifft in gemein/",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.6895,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnd durch die Chriſtliche Kilche/ vff zyten/ perſonen/ vernuͤnfftigklich vñ rechtenklich ge\nordnet. Das aber diſe ſtuͦck/ vnd was derglichen moͤchte\nſin/",
         "b": "für gůt gehalten / vnnd durch die Chriſtlichen Kilchen/vff\nzyten/perſonen/vernünfftigklich vnd rechtenklich geordnet. Daß aber diſe ſtuck / vnnd was derglichen möchten ſin/in\nder Schrifft gegründ ſind/das haben wir an vil orten.",
-        "similarity": 0.3667
+        "similarity": 0.3667,
+        "semantic": 0.7369,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "in der ſchrifft gegruͤndet ſind/ das haben wir an vil or\nten. Des in ſunderheit zuͦ bewaͤren von allen ſtuͦcken/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7738,
+        "semantic_match": "Deß\nin ſunderheit zů bewären von allen ſtucken / das wurde ze=\nlang. Jch wil aber dannocht etliche beſtimmen/ vnnd die ort\nanzeigen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -93,7 +110,9 @@
         "op": "match",
         "a": "in hoff\nnung/ ein yetlicher fromer gehorſamer Chriſt/ werde ſich\nſoͤlicher ordnuͤg der Chriſtenheit nit beſchwaͤren/ in dem\nh̊ truͤwẽ/",
         "b": "da die ſelben für gůt geachtet ſind/in hoffnung/ ein jetlicher frommer gehorſamer Chriſt/werde ſich ſöllicher\nordnung der Chriſtenheit nit beſchwären / in dem vertrü=\n\t\t\t\t\t\twen/",
-        "similarity": 0.44
+        "similarity": 0.44,
+        "semantic": 0.8807,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -101,7 +120,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7606,
+    "reworded": 5,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5598,

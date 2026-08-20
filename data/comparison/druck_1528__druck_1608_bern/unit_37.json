@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "Schlufzred. XI\nin sollichem vsserlichen regiment/hatt bewysen können/ so man aber redt nach Paulo von der Christenlichen ge=\nmeind/welches da find alle die im geyst nüw gepozenn/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6974,
+        "semantic_match": "cap. Den ich han har in ge=\nfuͤrt von dem Kuͤnig Saul/ vnd in dem ſelbigen/ den zeuer=\nſtoſſen/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "ein göttlich låben furen/welches niemand/dan allein der\nherr verlyhenmag/vnd alles thun/Sant Peters/vnd\naller Apostlen/nur ein vsserlicher dienst durch Paulus\ngenempt wirt/so ist noch nit bewert/das (der geschrifft\nnach zureden) Petrus oder einiger anderer Apostel got=\nres/mog ein houpt der Kirchen genempt werden/vnd\nsolte der Bychtuatter den ſpruch pauli am vierden Ca\npitel 8 ersten Epistel zun Chozi.verantwurte/da pau=\nlus von jim vnnd syns glichen scheibt/man föll sy halten\nfürdiener Christi vnd schaffner/das ist prediger der ge=\nheymnussenn Gottes.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8133,
+        "semantic_match": "man ſoͤll\nſy halten fuͤr Diener Chriſti vnd Schaffner / das iſt Pre=\ndiger der Geheimnuſſen Gottes. Nemlich das heilig Eu=\nangelion daran ſtat es noch /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -63,25 +69,33 @@
         "op": "match",
         "a": "Nemlich das heylig Euangelion\ndaran stat es noch/d3 er geschrifft bring/ was er gethon\ndas es inne zum houpt machen mog.",
         "b": "das er Geſchrifft bring / was\ner gethon/ das es jnne zum Houpt machen moͤg. Chriſtus\niſt allein der geiſtlich Herz/",
-        "similarity": 0.6047
+        "similarity": 0.6047,
+        "semantic": 0.2669,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Christus ist allein\nder geystlich herr/er kan sy endere/das sy krofftig sind. Sant Paulus/Petrus leer/bringt nüt/Christus leyte\nsy dann.",
         "b": "er kan ſy enderen/ das ſy kraͤfftig\nſind. Sant Paulus/ vnnd Petrus leer/ bringt nuͤt/ Chri=\nſtus leite ſy dann.",
-        "similarity": 0.5652
+        "similarity": 0.5652,
+        "semantic": 0.8325,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Niemand kan die hergen enderndann er/vnnd\ngebend also Christo die eer/land sy binden/das ist/erken\nnen gebunden/die nit glouben.",
         "b": "Niemand kan die Hertzen endern dann\ner/ vnd gebend alſo Chriſto die eer/ wann ſy binden/ das iſt/ erkennen gebunden/",
-        "similarity": 0.6512
+        "similarity": 0.6512,
+        "semantic": 0.9245,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Sann das sind die kinder\nAbrahe/die die werck Abrahe thund/darumb so eruor=\ndern ich geschrifft. Sz Petrus von ſyne ampt ein houpt\nmog genempt werden.",
         "b": "die nicht glouben. Dann das ſind die\nKinder Abrahe / die die Werck Abrahe thuͦnd/ darumb ſo\neruordern ich Geſchrifft /",
-        "similarity": 0.5532
+        "similarity": 0.5532,
+        "semantic": 0.8217,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -93,7 +107,9 @@
         "op": "match",
         "a": "Bichtuatter. Err Parti Bucer/langt mich an zubewaren/ das der nam eins houpts Sant Peter/vnd sy=\nnen nach komen mog geben werden/seyt zü dem\nſpruch am erste Büch & küngeim yv. Cap. Sen ich han\nC ij",
         "b": "daß der\nNam eins Houpts Sant Peter / vnnd ſynen Nach=\nkommen moͤg geben werden / ſeit zuͦ dem Spruch am\nerſten Buͦch der Kuͤnigen im 15.",
-        "similarity": 0.3939
+        "similarity": 0.3939,
+        "semantic": 0.6646,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -113,7 +129,12 @@
         "b": "vnnd moͤg\nzuͦgeleit werden/ wenn Sant Petern/ oder einem/ oder allen",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7173,
+    "reworded": 1,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4874,

@@ -39,7 +39,9 @@
         "op": "match",
         "a": "Schlußred. CXIII\nBuͦchstab. DJe wort Johannis am vj. capit. die anzeigend\ndas künfftig/ Die wort Christi/ Luce am xxij.",
         "b": "Dis anzagent\nDas kunfftig die wortt Christi Luce am xxii capi\ndie anzoigen die gegenwirtig geschicht, die wort pauen\nIn der 1 Eprst:",
-        "similarity": 0.3256
+        "similarity": 0.3256,
+        "semantic": 0.6634,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -63,13 +65,19 @@
         "op": "only_a",
         "a": "Als aber herr Bu=\ntzer in vergangnen tagen/ har haryn gefuͤrt/ Eusebium\nvnd Augustinum/ daby laß ichs blyben yezmal/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6334,
+        "semantic_match": "selbs von ons ersucht werden, allß Das leben hafftig\nbrott, das vns krefftigklich spist, so wir erkennen\nwie er sin lijs fur vnns Inn tod gebenn, hatt van\nsacramentlichen brott, stett vth noch zu bewarenn, mit\npottlicher ystchrifft, Ir cvussene woll, das wir Jetz,\nnue niet von wegen, der lerer versambt sind ende\nBuchstab\nDie Ooxtt Johannis vi cap:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "uͤber dz\nJohannis am vj. capitel. Sich hieuor\nam 31..96.blat\n\nEcolampadius. SHat der Schuͦlmeyster vnder anderen mäl=\ndung than/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6252,
+        "semantic_match": "zum Chornichern, am ii Jap: Zeigend\ngnugsam an Die vergangen geschicht, Om ist das\nkunfftig, Das gegen wijrtig vnnd das vergangen wie\nhernach wyter anzeigt wirt, ein andern geichförmig\nDarumb es sonderer plos nitt mer bedarff, Das er\naber spricht min her Doctor, das ick hab har Inge\nfurt die Doctores hab ich dhein spruch vff Inen harje\npfunt\nAlss aber her bucces In vergangnen tagen\nhatt har In gefurt, Enswinn vnnd Augustinne Dabe\nlass ichs bliben Jetzmall wer, Das Johannus aen vyren\nEcolampandius\nIs hatt der Schulmeister vunder anndern mel\ndung thun, ertlicher falstchen glosen, so von vns ge¬\nschechen, sind wir wartenn, wie er die mitt der\nende schrifft vmbstossen Sin amider ree sind eurch meister\nVlrich abgeleuwt\nZuch stav. 29",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -87,7 +95,10 @@
         "op": "only_a",
         "a": "Was ich in minem buͤchlin\nhab lassen vßgan/ wil ich mit der warheit dar=\nbringen. ff ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8173,
+        "semantic_match": "zum Chornichern, am ii Jap: Zeigend\ngnugsam an Die vergangen geschicht, Om ist das\nkunfftig, Das gegen wijrtig vnnd das vergangen wie\nhernach wyter anzeigt wirt, ein andern geichförmig\nDarumb es sonderer plos nitt mer bedarff, Das er\naber spricht min her Doctor, das ick hab har Inge\nfurt die Doctores hab ich dhein spruch vff Inen harje\npfunt\nAlss aber her bucces In vergangnen tagen\nhatt har In gefurt, Enswinn vnnd Augustinne Dabe\nlass ichs bliben Jetzmall wer, Das Johannus aen vyren\nEcolampandius\nIs hatt der Schulmeister vunder anndern mel\ndung thun, ertlicher falstchen glosen, so von vns ge¬\nschechen, sind wir wartenn, wie er die mitt der\nende schrifft vmbstossen Sin amider ree sind eurch meister\nVlrich abgeleuwt\nZuch stav. 29",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -95,7 +106,12 @@
         "b": "zum Chornichern, am ii Jap: Zeigend\ngnugsam an Die vergangen geschicht, Om ist das\nkunfftig, Das gegen wijrtig vnnd das vergangen wie\nhernach wyter anzeigt wirt, ein andern geichförmig\nDarumb es sonderer plos nitt mer bedarff, Das er\naber spricht min her Doctor, das ick hab har Inge\nfurt die Doctores hab ich dhein spruch vff Inen harje\npfunt\nAlss aber her bucces In vergangnen tagen\nhatt har In gefurt, Enswinn vnnd Augustinne Dabe\nlass ichs bliben Jetzmall wer, Das Johannus aen vyren\nEcolampandius\nIs hatt der Schulmeister vunder anndern mel\ndung thun, ertlicher falstchen glosen, so von vns ge¬\nschechen, sind wir wartenn, wie er die mitt der\nende schrifft vmbstossen Sin amider ree sind eurch meister\nVlrich abgeleuwt\nZuch stav. 29",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6848,
+    "reworded": 1,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3259,

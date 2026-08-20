@@ -39,13 +39,17 @@
         "op": "match",
         "a": "**Schlußred.**\nmensch harnach/Gott den herrn bitt/diewil er von dem\nEngel bewegt worde ist/vnd also erlang die barmhertzig\nkeyt Gottes.",
         "b": "Gott den Herren bitt/ dieweyl er von dem Engel\nbewegt worden ist / vnd also erlang die Barmhertzigkeit\nGottes. Darumb so dient uͤch der Spruch gar nuͤt/",
-        "similarity": 0.56
+        "similarity": 0.56,
+        "semantic": 0.9104,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Darumb so dient üch der spruch gar nüt/ dann wyter ouch hernach volgt: das gott dem menschen\nwil nachlassen/vnd beuilcht dem Engel/das er jn erlöß\nmit synem dienst/als wir im psalmen ouch haben Angelis\nsuis mandauit de te, &c.",
         "b": "dann\nwyter ouch hernach volgt: daß Gott dem Menschen wil\nnachlassen / vnd befilcht dem Engel/ daß er jn erloͤß mit sy-\nnem dienst/",
-        "similarity": 0.5152
+        "similarity": 0.5152,
+        "semantic": 0.8715,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -57,13 +61,17 @@
         "op": "match",
         "a": "Er hat sinen Englen gebotten von dir/ vnd stat darby/dan ich hab funden/in dem ich im gnedig\nbin/namlich/so sich der sünder bekert.",
         "b": "dann ich hab funden/ in dem ich jm\ngnedig bin/ namlich/ so sich der Suͤnder bekert. Johannes Buͤchstab.",
-        "similarity": 0.6087
+        "similarity": 0.6087,
+        "semantic": 0.8206,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "**Johannes Büchstab.**\nAls der spruch Job/nach mynem fürgeben be=\nstande. Wil ich darfür ein andern harin füren/ Zacharie.j.stat also geschriben.",
         "b": "DAs der Spruch Job/ nach mynem fuͤrgeben bestan-\nde. Wil ich darfuͤr ein andern harin fuͤren/ Zacha-\nrie.",
-        "similarity": 0.4545
+        "similarity": 0.4545,
+        "semantic": 0.7293,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,7 +83,9 @@
         "op": "match",
         "a": "Das der Engel\nGottes anfacht/vnd spricht: Herr der scharen/wie lang\nerbarmestu dich nit über Jerusalem/vnd die statt Juda\nwider welche du erzürnet bist/vnd das ist yetz das siben=\nzig Jar/vnnd der herr antwurt dem Engel/der in mit\nredt güte vñ trostliche wort.",
         "b": "vnd die statt Juda wider wel-\nche du erzuͤrnet bist/ vnd das ist jetz das sibentzig Jar/ vnnd\nder Herr antwurt dem Engel /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.8685,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -87,19 +97,27 @@
         "op": "match",
         "a": "Hie haben wir aber kundt=\nschafft/das die Engel mögen für vns bitten. **Ecolampadius.**\nDiser spruch Zacharie/ist vom schülmeister ouch\nnit verstanden.",
         "b": "Ecolampadius. DIser Spruch Zacharie/ ist vom Schuͤlmeister ouch\nnit verstanden. Es stat nit da / das der Engel ge-\nbaͤtten hab/",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.7216,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Es stat nitt da/das der Engel\ngebetten hab. Es stat ouch nitt da/das Gott\nsyn gebätt erhört hab/es ist aber eyn schematismus/das ist\nin dem gesicht/durch fürgeben solicher wort des Engels\nwirt der Prophet gelert/das die zyt der widerbuwung\nJerusale schon vorhanden sye.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8855,
+        "semantic_match": "1. stat also geschriben: Das der Engel Gottes\nanfacht/ vnd spricht: Herr der Scharen/ wie lang erbarme-\nstu dich nit uͤber Jerusalem /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Es möcht einer als bald\nvnwisschende wort/als bittende wort hieruß nemen. Eee iij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6215,
+        "semantic_match": "der in mir redt guͤte vnnd\ntroͤstliche wort. Hie haben wir aber kundtschafft/ das die\nEngel moͤgen fuͤr vns bitten.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -113,7 +131,12 @@
         "b": "da ...]\n[...rs Herren]\n\n[Ich find ge...]\n[ein Fruͤnt...]\n[Job von j...]\n[richt: E...]\n[vß der gl...]\n[n/ wirt si...]\n[t er nit d...]\n[schafft d...]\n[ie Heili...]\n[n jr nit...]\n[ie Engel...]\n[o uͤber sy...]\n\n[schnit dahin/]\n[oder fuͤrbit/]\n[aber]",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8036,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.574,

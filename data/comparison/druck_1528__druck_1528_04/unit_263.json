@@ -39,31 +39,44 @@
         "op": "only_a",
         "a": "ſonder an dem end / das\nſy jr Synecdochen bewärend / dañ das ort Pauli in der erſten\nEpiſt. zum Corinth. am x.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6618,
+        "semantic_match": "vnnd zum erſten den ſpruch Johannis am\nxx.capitel. Den er vermeint ouch etwas gewal=\ns iij\n\n## Marginalien\nSuͦch am\n134.blat.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Cap. Tringt nit das es můß\nein Synecdoche ſin / ob man glich gemeind oder gemeinſame\ndurch vßteylen thůrſchte / noch volgt es nit das es můß\nein Synecdoche ſin /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6245,
+        "semantic_match": "vñ\nerwart wyter gſchrifft. Ecolampadius. Jetzund kom ich vff etlich ſpruͤch/ vorhin durch\nherr Benedict yngefuͤrt / die ouch nit dienlich\nſind/",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "dann wenn das brot glich wäſenlich vn̄\nſubſtantzlich der lychnam Chriſti wär / wie die Bäpſtiſch\nmeynung halt / ſo wär doch aber der lychnam Chriſti vß-\ngeteylt /",
         "b": "Schlußred. CXL\n\nDann wenn das brot glych wäſenlich vnd ſub=\nſtantzlich der lychnam Chriſti wär/ wie die Bäp\nſtiſch meynung halt/",
-        "similarity": 0.5532
+        "similarity": 0.5532,
+        "semantic": 0.7586,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd wär darumb kein Synecdoche / dann äben dz\nbrot / das ouch der lychnam Chriſti wär / das wurde vß-\ngeteylt / vnd mag deßhalb der ſinn vnder dem brot /",
         "b": "ſo wär doch aber der lych=\nnam Chriſti vßgeteylt / vnnd wär darumb keyn\nSynecdoche / Dann eben das brot / das ouch der\nlychnam Chriſti wär/",
-        "similarity": 0.4314
+        "similarity": 0.4314,
+        "semantic": 0.8512,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "hie\nnit erzwungen werden / vnnd darumb ſo ſůchent ander\ngeſchrifft. **Pfarrer von ſanct Gallen.**\nIe vil mal angezogen / vnd verantwort /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7493,
+        "semantic_match": "vñ\nerwart wyter gſchrifft. Ecolampadius. Jetzund kom ich vff etlich ſpruͤch/ vorhin durch\nherr Benedict yngefuͤrt / die ouch nit dienlich\nſind/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -81,19 +94,25 @@
         "op": "match",
         "a": "belyb\nich by dem ſpruch Pauli / vñ wil mich in keynen\nanderen wort kampff geben / alleyn das der lyb\nvnd das blůt Chriſti vns (lut ſiner worten) wärde vß-\ngeteylt in dem Nachtmal des herrn.",
         "b": "allein das der\nlyb vnd das bluͦt Chriſti vns (lut ſiner worten)\nwerde vßgeteylt in dem Nachtmal deß herren.",
-        "similarity": 0.4727
+        "similarity": 0.4727,
+        "semantic": 0.7305,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "**Zwingy**\nIer den worten / iſt immerdar jr Synecdoche nit be-\nwärt / des verlaß ich mich ouch vff die Acta / vñ\nhaben vnns ein Tropum fürgeben /",
         "b": "Zwingly: Mit den worten/ iſt immerdar ir Synecdoche\nnit bewärt / deß verlaß ich mich ouch vff die A=\ncta/ vnd habẽd vns ein Tropum fuͤrgeben/",
-        "similarity": 0.5882
+        "similarity": 0.5882,
+        "semantic": 0.8149,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "den ſy mitt ge-\nſchrifft nit mögen erhalten / ſy bringend dann ander ge-\nſchrifften\n\nSůch hieuor\nam. 119. blatt.",
         "b": "den ſy\nmit gſchrifft nit moͤgen erhalten / ſy bringend\ndann ander gſchrifften. Pfarrer von ſant Gallen. Ich laß beliben wie vormals geantwurt/",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.7521,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -107,7 +126,12 @@
         "b": "vnnd zum erſten den ſpruch Johannis am\nxx.capitel. Den er vermeint ouch etwas gewal=\ns iij\n\n## Marginalien\nSuͦch am\n134.blat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7429,
+    "reworded": 3,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4736,

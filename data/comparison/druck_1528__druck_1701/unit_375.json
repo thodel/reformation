@@ -51,13 +51,17 @@
         "op": "match",
         "a": "Die fünffte\nlich opffer: dañ wiewol es nit stadt mit vßgetrucktẽ wor\nten im heyligen Euangelio/oder in anderen schrifftẽ/jr\nsöllend Christum vßopfferen/in der Måß/",
         "b": "Gilg Murer. DIe Widergedechtnus Chriſti / ſynes Lydens und\nſterbens mag genant werden nach der Schrifft ein\ntäglich Opffer : dann wiewol es nit ſtaht mit außgetruck-\nten Worten im heiligen Evangelio /",
-        "similarity": 0.3158
+        "similarity": 0.3158,
+        "semantic": 0.5965,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "so haben wir\ndoch des gůte zügnuß in den Geschichten der Apostlen/ am xiij. capitel/stadt also: Es sind etlich gsin in der Kil\nchen zů Antiochia.zc.",
         "b": "oder in andern\nSchrifften/ jhr ſöllend Chriſtum vfopffern in der Mäß/ ſo haben wir doch deß gůte Zügnus in den Geſchich-\nten der Apoſtlen am 13.",
-        "similarity": 0.3704
+        "similarity": 0.3704,
+        "semantic": 0.7193,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,25 +73,35 @@
         "op": "match",
         "a": "Vnd so die selbigen geopffret hand\nGott dem Herren/vnd hand gefastet/hat gesprochen\nder heylig geist. Sůndret mir Barnabam vnd Saulũ/",
         "b": "und hand gefa-\nſtet / hat geſprochen der heilig Geiſt : Sündert mir\nBarnabam und Saulum in das Werck/ zů welchem ich\nſy berüffen hab.",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.8842,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "in dz werck/zů welchem ich sy berůfft hab. Hie mag nit\nanders förmklich nach der schrifft dargeben werden/als\nwir hoffen/dann allein das opffer der Måß.",
         "b": "Hie mag nit anders förmklich nach der\nSchrifft dargeben werden / als wir hoffen / dann allein\ndas Opffer der Mäß. Butzer.",
-        "similarity": 0.7917
+        "similarity": 0.7917,
+        "semantic": 0.7401,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Butzer\n[I]ch stadt der Silogismus/dz nüt geopfrer wer\nden mag. Darum ob schon schrifft vßbracht wer\nden möchte/die glych die widergedächtnuß ein\nOpffer nennet/das doch gar nit ist/noch deßocht möchte\nman nit sagẽ/eygenlich daruon zů reden/das die Måß=\nmacher opffreten.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.745,
+        "semantic_match": "NOch ſtaht der Syllogiſmus / daß nüt geopffert wer-\nden mag. Darum / obſchon Schrifft vßbracht wer-\nAaa ij den\n\n## Marginalien\nſuch hie-\nvor am\n202. bl.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Das ort xiij. Actorum/angezogen/dz\nlutet also: Alls sy aber dem herren dieneten vnd fastete/ stadt nit/Opffreten. Sann Grece habe wir/λειτουργούντωρ\ndz heyßt nit/Alls sy opffrete.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.745,
+        "semantic_match": "Capitel/ ſtaht alſo : Es ſind et-\nlich gſyn in der Kilchen zů Antiochia/ ꝛc. und ſo dieſelbi-\ngen geopffert hand Gott dem Herren /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -99,7 +113,10 @@
         "op": "only_a",
         "a": "Der glychen\nhaben wir zun Römern/von dem weltlichen gwalt/das\ner ein dienerin sye des Herren. Zů den Römern xiij. da\nhaben wir ouch λειτουργοί. Gilg Wurer\nDas",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6218,
+        "semantic_match": "NOch ſtaht der Syllogiſmus / daß nüt geopffert wer-\nden mag. Darum / obſchon Schrifft vßbracht wer-\nAaa ij den\n\n## Marginalien\nſuch hie-\nvor am\n202. bl.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -107,7 +124,12 @@
         "b": "NOch ſtaht der Syllogiſmus / daß nüt geopffert wer-\nden mag. Darum / obſchon Schrifft vßbracht wer-\nAaa ij den\n\n## Marginalien\nſuch hie-\nvor am\n202. bl.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7217,
+    "reworded": 2,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3789,

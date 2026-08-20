@@ -57,13 +57,17 @@
         "op": "match",
         "a": "Die erſt\nlaß daby ein yeden Chriſten/dz vrteyl wie ſich des pfar=\nrers red/der warheyt vnd dem geſtrigen veriechen ver=\ngliche vnnd veranlaß mich vff ſine wort /",
         "b": "der war-\nheit vnd dem geſtrigen verjechen/ verglyche: vñ\nveranlaß mich vff ſine wort/ die von den Schry\nberen in die Acta verfaſſet ſind/",
-        "similarity": 0.3774
+        "similarity": 0.3774,
+        "semantic": 0.736,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "die von den\nſchriberen in die Acta verfaſſet ſind/zc. Meyſter Niclaus Chriſten\nSenger von Zoffingen. IN dem namen vnſers lieben herrn Jeſu Chriſti\nverlich vns gott der hímeliſch vatter/durch die\ngnad gotts des heilige geiſts/ware/rechte/Chri\nſtenlich erkantnus ſines heyligen worts/vnd goͤttlicher\ngeſchrifft/Erwürdig/großmechtig/Edel/veſt/fürſich\ntig/wyß/lieben /",
         "b": "zc. Meyſter Niclaus Chriſten. Senger von Zoffingen. In dem namen vnſers lieben Herren Jeſu\nChriſti/ verlych vnns Gott der himelſch vatter/",
-        "similarity": 0.4359
+        "similarity": 0.4359,
+        "semantic": 0.7799,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,13 +91,18 @@
         "op": "match",
         "a": "gnedigen Herrn / vnnd gůten fründ\nouch fromen/biderben Chriſte wie je hie verſamlet ſind/ vnberkantnus goͤttlicher warheyt / wiewol iſt das ich\nmich nit vnderſtand/entſcheid vñ lårung zůgeben vmb\ndiſe ſchwåre ſpen hie zů gegen/dann es miner kunſt/die\nklein iſt überlegen ſin wil/diewil vor zwölff hundert Ja=\nren vnd mer/ſo vil heyliger gelerter månner/ouch dariñ\ngehandelt/entſcheid vñ lårrung gebe hand /",
         "b": "dañ es\nminer kuſt/ die klein iſt/ überlaͤgẽ ſin wil/ diewyl\nvor zwölff hundert jaren vñ mer/ ſo vil heyliger",
-        "similarity": 0.3182
+        "similarity": 0.3182,
+        "semantic": 0.7455,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "vñ aber die\nſach yetz widerumb in ſpan kommen iſt / diewyl aber es\nmir ſchwår iſt / von ſolchem lang geübtē/vnſer vordern\nglouben zeſton/den wir ſo in langer gewård/vnd beſitz=\nung gehebt hand /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7083,
+        "semantic_match": "bezüg ich mich/ dz ich den glou\nben ouch hab/ vnd laß daby eim yeden Chriſten/ das vrteyl/ wie ſich des Pfarrers red/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -105,9 +114,17 @@
         "op": "only_a",
         "a": "vmb myn hoffnung vnnd\nglouben/ſo ich darumb eruordert bin/vnd wil das thůn\nfrüntlich vnd gůtlich/mir vnd anderen zů wyterer vn=\nderwyſung/Alß der heylig Paulus ſpricht zun Gala=\nthern",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8223,
+        "semantic_match": "vm̃\nerkantnuß göttlicher warheit. Wiewol iſt dz ich\nmich nit vnderſtand/ entſcheid vñ lütrung zů ge\nben vm̃ diſe ſchwäre ſpenn hie zůgegen:",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7584,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3922,

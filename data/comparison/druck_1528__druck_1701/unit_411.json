@@ -69,19 +69,26 @@
         "op": "match",
         "a": "Die ſechſte\nGilg Durer\nSprich ich neyn. Zwingli. So iſt üwer argument nüt. Gilg Durer\nGott hatt anzeygt in dißem ſpruch/das die abges\nſtorbnen/wol für vns bitten mögen/dann was\nwolt er ſprächen/wann Moyſes vnd Samuel\nvor mir ſtünden/wañ es jnen nit hätte mögen zügelegt\nwerden zů bitten:",
         "b": "dann was wolt\ner ſprechen / Wann Moyſes und Samuel vor mir ſtuͤhn-\nden / wann es ihnen nit haͤtte moͤgen zuͤgelegt werden zuͤ\nbitten:",
-        "similarity": 0.3797
+        "similarity": 0.3797,
+        "semantic": 0.7753,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "als dz wåre ein vngeſchickte red/wañ\nman ſpråche/ob Sonn vnd Mon/båtten den herrn für\ndas volck/wurden ſy nit erhört:",
         "b": "als das waͤre ein ungeſchickte Red / wann man\nſpraͤche / ob Sonn und Mond baͤtten den Herren fuͤr das\nVolck /",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.8321,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "dann diſe zwo Creatu=\nren/die mögen ſömlichs niemer mer begriſflich ſyn. Wåchter. Ieder herr/wz wend jr vß deßem ſpruch ſchlieſ=\nſen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6243,
+        "semantic_match": "da er ſpricht: Wann Moſes und Samuel vor mir\nſtuͤhnden / ſo iſt myn Seel nit gegen dem Volck. Hie iſt of-\nfenbahr /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -93,7 +100,10 @@
         "op": "only_a",
         "a": "Wo iſt din yfer vñ macht\ndie menge diner herlikeyt/vnnd din erbarmung/die ſich\nruch gegen mir erzeygt hatt/du biſt doch vnnſer vatter\nvnd Abraham weyßt nüt von vns/vnnd Iſrahel hatt\nvns nit erkent.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7685,
+        "semantic_match": "da er ſpricht: Wann Moſes und Samuel vor mir\nſtuͤhnden / ſo iſt myn Seel nit gegen dem Volck. Hie iſt of-\nfenbahr /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -113,7 +123,12 @@
         "b": "wurden ſy nit erhoͤrt: dann diſe zwo Creaturen\ndie moͤgen ſoͤlichs nimmermehr begryfflich ſyn. Waͤchter.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.75,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2379,

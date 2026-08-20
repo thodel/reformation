@@ -39,19 +39,25 @@
         "op": "match",
         "a": "Deßglichen all an=\nder/so vff diser Disputatz zů disputieren fürnämens wä\nrend/sich in das Chor verfügen/vnd sich allda/einer/oð\nder andern parthy/vnderschrybē lassen.",
         "b": "178          Die ander\ngenwürtige Diſputatz beſchriben ſind. Deßglichen all an-\nder / ſo vff diſer Diſputatz zů diſputieren fürnåmens wå-\nrend/ſich in das Chor verfügen/vnd ſich allda /",
-        "similarity": 0.75
+        "similarity": 0.75,
+        "semantic": 0.8605,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Vnd sitmal vff\nder Predicanten parthy/vil gelerter menner sind/möge\nder gegenteil sich beraten/vñ zwen/dry/vier/oder mer/",
         "b": "einer/oder\nder andern Parthy/vnderſchryben laſſen. Vnd ſitmal vff\nder Predicanten Parthy/vil gelerter Menner ſind / mőge\nder gegentheil ſich beraten /",
-        "similarity": 0.6512
+        "similarity": 0.6512,
+        "semantic": 0.7354,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "erkiesen/die in jr aller namen wider die Schlußreden di=\nsputieren. Hienäben/so mag ouch ein yed vff beiden par\nthyen die sinen stüren/denen schrifftlich oð muntlich bera\nten vñ beholffen sin/vñ barfür bringē/wz zů erkůndigūg\ngöttlicher warheit/dienstlich ist:",
         "b": "vnd zwen / dry / vier oder mer/ erkieſen / die in jr aller namen wider die Schlußreden di-\nſputieren. Hienåben/ſo mag ouch ein jeder vff beiden Par-\nthyen die ſinen ſtüren/",
-        "similarity": 0.6301
+        "similarity": 0.6301,
+        "semantic": 0.5726,
+        "reading": "check"
       },
       {
         "op": "only_b",
@@ -63,19 +69,25 @@
         "op": "match",
         "a": "alles nach vermög vß=\ngeschribnen Mandats der Disputation. Es söllen ouch\nall priester/Predicanten/pfarrer/vñ seelsorger/vō statt\nvnd land/biß zů end diser Disputatz/hie verharrē vnd\nnit verrucken.",
         "b": "Predicanten / Pfarrer/ vnd Seelſorger/von\nStatt vnd Land/biß zů end diſer Diſputatz/hie verharren\nvnd nit verzucken. Demnach hat Niclaus Manuel/Vogt zů\nErlach/nochuolgende red gethan.",
-        "similarity": 0.4746
+        "similarity": 0.4746,
+        "semantic": 0.704,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "**Demnach hat Niclaus Manuel/Vogt**\n**zů Erlach/nachuolgendered gethan.**\n\nEwůrdigen gelerten/Es sol niemant erachten/ das vnsere gnädigen herren/allein begirig syen/",
         "b": "ERwürdigen gelerten / Es ſoll niemant erachten / das\nvnſere Gnedigen Herren / allein begirig ſyen/das die\nfürgetragnen Artickel durch jre Predicanten /",
-        "similarity": 0.4762
+        "similarity": 0.4762,
+        "semantic": 0.6977,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "das die fürgetragnē artickel durch jre Predican\nten/sampt der leer so darus flüßt/erhalten werdē/sun=\nder allein ist jr fürnämen/die warheit von Göttlichem\nwort zů erforschen/ob die artickel in göttlicher geschrifft\nE ij",
         "b": "ſampt\nder leer ſo daruß flüßt/erhalten werden / ſunder allein iſt jr\nfürnåmen / die Warheit von Göttlichem Wort zů erfor-\nſchen /",
-        "similarity": 0.5517
+        "similarity": 0.5517,
+        "semantic": 0.8832,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -89,7 +101,12 @@
         "b": "ſo trüwlich zůſammen halten/ darumb bit vnd erman ich üch abermals vmb Gotts wil-\nlen/",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7422,
+    "reworded": 2,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6756,

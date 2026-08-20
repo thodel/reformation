@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Wyter so hat Doctor Johannes Eck dise Disputati-\non mitt schmachlichem vs briben angethaster/darinen\ner sin nydig hertz erkuler/vnd vil mersin Narerzungen\nbarfürgestreckr/dan Christenliche liebi vn warnig an\nzeyge:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7773,
+        "semantic_match": "so hatt Doctor Johannes eck Diss Disputation\nmit schmechlichem ußschriben angethastett/ darInnen\ner sin nydig hertz erkuͤlet/ vnnd vill mer sin\nnatter zungen harfurgestreckt/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -69,31 +72,42 @@
         "op": "match",
         "a": "Sodeñe hat Cocleus ouch\netlich gschriffren/zu hindrung disers gesprechs erdichter\ndené fuglicher zyt mit antwurt sol Begegnet werde. Sie\ngrüwlichen helden/habe sich treffenlich geriffen/aber nüt\ngeschafft/dan der glans des wort gottes hat sy verblent\nvnd die weltliche Eer sy verstopffr.",
         "b": "aber nuͤtzit geschafft dan\nDer glantz des wort gottes han sy verblaͤndt/vnnd\ndie Weltliche eer sey verstopft/",
-        "similarity": 0.3438
+        "similarity": 0.3438,
+        "semantic": 0.6147,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Ser gyt hatt sy gar\nvmgeben/vnd die Entchristischen satzungen gang vin\nfangen/woran es inen gelegen ſye/mag ein yeder fromer\nChrist wol gedencken.",
         "b": "Der gyt\nhatt sy gar umgeben/ vnnd die Endchristischen\nsatzungen gnze umbfangen/ woran es ihnen\ngelegen sie mag ein jeder fromer Christ woll ge//",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.9103,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Ober welches alles / vnd was noch wider dise Sispu\ntation geschriben/geredt vi vigespreyt mocht werden\nzu verkleinerung diser Acten.",
         "b": "dencken./ Über welches alles/ unnd was noch wider diß\nDisputation geschriben/ geredt/ vnd ußgespreit moͤcht\nwerden/ zuͦ verkleinrung diser acten/",
-        "similarity": 0.5366
+        "similarity": 0.5366,
+        "semantic": 0.5417,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Wirt (ob gott will) mitt\nglimpff vn fügen allwegé geantwurt. Vocab zu handt-\nhabung der Eer gottes vi ſins heyligen worts/vin ents\nschüttung gegenwürriges Chriſtenliches handels/ouch\nrettung vi bewarung der Beren der fromen Christen-\nlichen Oberkeyt zu Bern.",
         "b": "wirtt\n(ob got will) mit glimpff vnnd fuͦgen allwegen ge// ant wurt/ vor ab zuͦ handthabung, der eer gotes\nunnd sins heilligen worts vnnd entschuͤttung gegen// würtiges christenliches handels/ ouch rettung vnnd",
-        "similarity": 0.3243
+        "similarity": 0.3243,
+        "semantic": 0.8274,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "fürer ist zu wüssen/als & Welsche Disputats off dz\nend geschoben/ist barfürgetretten/ein welscher Soctor/ vi etlich welsch pfaffen im zügestanden/der hat wid die\nJechen schlußred gedisputiert/vi jm Guilielmus Pha-\nrellus/Predicant zü Elenn darüber geantwurt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6704,
+        "semantic_match": "licher wyß gehandellt/ Das es einer verantwur// tung nit werdt ist/ gott geb ime erkantnuͤs sins\nselbs/ Do denne hatt Cocleus ouch etlich\nschrifften/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -107,7 +121,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7236,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3656,

@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "**Schlußred.**\nwellen das nit thůn vß vnſerm gwalt / oder einiger na=\ntur / ſonders mit hilff der gnad gottes. **Martinus Butzer.**\nGlichs thůnd alle Chriſten.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6654,
+        "semantic_match": "spricht der Herr der Heeren / Opffer\noder Gaben wil ich nit nemen von euern Händen / dann\nvon Ufgang der Sonnen biß zů Nidergang ist groß myn\nNamen",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Erhart witer ge=\nfragt / was der dienſt ſye gewäſen / dauon Lu=\ncas Actorum am .viij. meldet / ſag ich: Es iſt ein\nernſtlich gebått geweſen /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6362,
+        "semantic_match": "spricht der Herr der Heeren / Opffer\noder Gaben wil ich nit nemen von euern Händen / dann\nvon Ufgang der Sonnen biß zů Nidergang ist groß myn\nNamen",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -51,43 +57,57 @@
         "op": "match",
         "a": "darumb meldet Lu=\ncas / propheten vnd lerer / nit aber ſacerdotes / das iſt / o=\npferer. Das er aber fürgeworffen hat Eraſmum Rote=\nrodamum /",
         "b": "Die Fünffte Schlußred. 377\nten und Lehrer / nit aber Sacerdotes / das ist / Opfferer. Daß er aber fürgeworffen hat Erasmum Roteroda-\nmum /",
-        "similarity": 0.5116
+        "similarity": 0.5116,
+        "semantic": 0.6342,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "iſt ſich zůuerwundren : dañ bißhar haben ſy\nby der alten vertolmetſchung die ſy Hieronimo zůſchri=\nben / wellen bliben: wir haben zwey håller oꝛt angezeygt /",
         "b": "ist sich zů verwundern: dann bißhar haben sy by\nder alten Vertolmetschung / die sy Hieronymo zůschry-\nben / wöllen blyben: wir haben zwey hälle Ort ange-\nzeigt /",
-        "similarity": 0.56
+        "similarity": 0.56,
+        "semantic": 0.8186,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "da man ſicht das ein dienſt hie ſol verſtanden werden. Paulus nennet die wåltliché obré λειτουργούσ / dz iſt diener\nGottes.",
         "b": "da man sihet / daß ein Dienst hie soll verstanden\nwerden. Paulus nennet die weltlichen Obern (λειτουργοὺς)\ndas ist / Diener Gottes.",
-        "similarity": 0.65
+        "similarity": 0.65,
+        "semantic": 0.9188,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Solt es opferer heiſſen / ſo wurd ein jed Schul=\nheis vnd vogt / ouch ein opferer ſin. **Gilg Aͤdurer.**\nD Als er geantwurt hat /",
         "b": "Solt es Opfferer heissen / so\nwurd ein jeder Schulttheiß und Vogt auch ein Opffe-\nrer syn. Gilg Murer. DAß er geantwortet hat /",
-        "similarity": 0.4783
+        "similarity": 0.4783,
+        "semantic": 0.7263,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "der dienſt ſye das bått geſin\nmag nit ſin / dañ vo ſömliche dienſten ſol niemant\ngeſůndrot werden. Er ſpricht aber hie im text :",
         "b": "der Dienst seye das Gebätt\ngsyn / mag nit syn / dann von sömlichen Diensten\nsoll niemand gesündert werden. Er spricht aber hie im\nText:",
-        "similarity": 0.5652
+        "similarity": 0.5652,
+        "semantic": 0.8351,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "ſůndren\nmir von dem vordrigen dienſt / Barnabam vnd Sau=\nlum / damit wil ichs beuolchen haben der ſchrifft. **Butzer.**\nP Aulus vnd Barnabas /",
         "b": "Sünderend mir von dem vordrigen Dienst Bar-\nnabam und Saulum / damit wil ichs befohlen haben\nder Geschrifft. Butzer. PAulus und Barnabas sind zů dem Predig-Ampt\ngesündert worden.",
-        "similarity": 0.56
+        "similarity": 0.56,
+        "semantic": 0.4635,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "ſind zů de predig ampt\ngeſůndret worden. Darzů hat vaſt wol gedie=\nnet / dz man gebått zů gott de herrē gethan hab. Zz iij",
         "b": "Darzů hat vast wol gedienet / daß man Gebätt zů Gott dem Herren gethan hab. Gilg Murer. DAß aber wyter möge bybracht werden das täglich\nOpffer der Mäß /",
-        "similarity": 0.3922
+        "similarity": 0.3922,
+        "semantic": 0.6416,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -101,7 +121,12 @@
         "b": "spricht der Herr der Heeren / Opffer\noder Gaben wil ich nit nemen von euern Händen / dann\nvon Ufgang der Sonnen biß zů Nidergang ist groß myn\nNamen",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7044,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4153,

@@ -33,13 +33,17 @@
         "op": "match",
         "a": "Lydgnossen vin pundtgnossen/vonstetten vin ländern/ schrifftlich verkundung zügesandt/jr gelerten/geystlich\nvn weltlich/welcher parthy sy doch/des gloubens halb/",
         "b": "ſandt/ jhr Gelerten/ Geiſtlich vnd Weltlich/ welcher Parthy ſy doch/ deß Gloubens halb/ anhengig ſyend / vff die Diſputatz züuerord=\nnen/",
-        "similarity": 0.3902
+        "similarity": 0.3902,
+        "semantic": 0.7273,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "anhengig yend/off die Sisputas zuuerozdnen/vñ ab-\nuertigen. Ob mit göttlicher hilff vin gnad/gemeine Eyd\ngnoſchafft/so vorhin mit eydspflichte/so wyt sich lyb vi\ngüt/lannd vn lüt erstreckr/vereinbaret ist/Duch in eyni\nkeyt des waren Christenliché gloubens/vnrechtgeschaf=\nfen gottsdienst mocht gebracht werden:",
         "b": "vnd abfertigen. Ob mit Göttlicher hilff\nvnd gnad/ gemeine Eydgnoſſchafft/ ſo vorhin\nmit Eydspflichten/ ſo wyt ſich Lyb vnd Gůt/",
-        "similarity": 0.4118
+        "similarity": 0.4118,
+        "semantic": 0.7756,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -51,19 +55,25 @@
         "op": "match",
         "a": "damit sament-\nbafft die Ber gottes/vozab/vndemnach gemeiner Chri\nſtenheyt/wolfart gefürdert/vn erhalte wurd:ongeach=\ntet/gehalten Sifputation/zu Baden im Ergeuw.",
         "b": "damit ſamenthafft die Eer\nGottes vorab/ vnd demnach gemeiner Chri=\nſtenheit wolfart gefuͤrdert/ vnd erhaltẽ wurd: vngeachtet/ gehalten Diſputation zů Baden\nim Ergew.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7719,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "San\nvns vin ich dernhalb nit gnüg beschehen/so vns vff vil-\nfaltige nach wärbung/die Acta der selbe wie sy in die få-\nderen geredt/nit habé mögen verlangen.",
         "b": "Dann vns vnnd uͤch dernhalb\nnit gnůg beſchechen/ ſo vns vff vilfaltige nach\nwaͤrbung/ die Acta derſelben wie ſy in die Faͤ=\nderen geredt /",
-        "similarity": 0.6071
+        "similarity": 0.6071,
+        "semantic": 0.734,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Duch nütdest=\nminder in zweyug des gloubens beharret wirr. Wir wel\nlen aber hiemit nit vermeynen noch verston/bemellt on\nfer lieb Eyd/vin Pundegnoffen/gemeinlich/noch sonder\nlich/zu haltung des:so off gedachter Sisputas Beschloss\nfen wirt/zebez wingen/noch sy von jrem fürname zerren\ngen.",
         "b": "nit haben moͤgen verlangen. Ouch nuͤtdeſtminder in zweiung deß Glou=\nbens beharret wirt. Wir wellẽ aber hiemit nit\nvermeinẽ noch verſton/ bemelt vnſer lieb Eyd=\nvnd Pundtsgnoſſen/ gemeinlich/ noch ſender=",
-        "similarity": 0.3
+        "similarity": 0.3,
+        "semantic": 0.7925,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -81,15 +91,26 @@
         "op": "only_a",
         "a": "Allein Biblisch geschrifft\nmit Biblischer erklärt/vsgeleyt/verglichet/vnnd die\ndunckle mit der heyteré erlüchtet: Duch niemants darü=\nber/dan allein die gottlich geschrifft sich selbs/zeurteyle\nhab:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6684,
+        "semantic_match": "Land vnd Lüt/ erſtreckt/ vereinbaret iſt/ Ouch\nin Einigkeit deß waren Chriſtenlichen Glou=\nbens/ vnd rechtgeſchaffen Gottsdienſt moͤcht\ngebracht werden :",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "die dann das Richtschyt/schnür/grundueſte/vnd\neyniger richter/des waren Christenlichen gloubens ist. Saruff",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6865,
+        "semantic_match": "Land vnd Lüt/ erſtreckt/ vereinbaret iſt/ Ouch\nin Einigkeit deß waren Chriſtenlichen Glou=\nbens/ vnd rechtgeſchaffen Gottsdienſt moͤcht\ngebracht werden :",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7366,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3521,

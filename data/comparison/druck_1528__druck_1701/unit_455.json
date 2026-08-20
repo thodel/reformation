@@ -33,25 +33,36 @@
         "op": "only_a",
         "a": "Die ſibend\nnach ingefuͤrtē verſtand wider die gſchrifft/von Abrahā\nvon Jacob/von Joſeph/ꝛc. Wie dann dem herren Jeſu/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6111,
+        "semantic_match": "und alſo by dem Herren ſyn allezyt / ſo ſoͤllen wir uns mit diſen Worten under einandern troͤ-\nſten / wie Chriſtliche Liebe fordert /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "die frouwen vnd ander ein mitleiden gehept haben/das\nſind aber die wort Pauli. Ir brüder/wir ſöllen üch von\nden abgeſtorbnen wyſen/vff das ir nit truren ꝛc.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7068,
+        "semantic_match": "Berchtoldus. EIn lange Red ohne Schrifft haryn gefuͤhrt / bedarff\nkeiner Antwort. Paulus verbuͤt zun Theſſalonicen-\nſern / ein unglaͤubig Trauren /",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Paulus\nlegt hie vß die vrſtende/das wir nitt alſo ſöllen truren\nvmb die todten/als die Heyden thäten/die nit glouben/",
         "b": "456\t\tDie Sibend Schlußred. legt hie auß die Urstånde / daß wir nit alſo ſoͤllen trauren\num die Todten / als die Heyden thaͤten /",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.7597,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "die vrſtende des lybs: vnnd verbütet nit/das man für\ndie abgeſtorbnen/nit ſölle bätten. Berchtoldus+\nIn lange red/ane gſchrifft harin gefürt/Bedarff\ndheiner antwurt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6171,
+        "semantic_match": "die nit glaͤuben\ndie Urstånde deß Lybs : und verbuͤtet nit / daß man fuͤr die\nAbgeſtorbnen nit ſoͤlle baͤtten.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -69,7 +80,9 @@
         "op": "match",
         "a": "Paulus verbüt zun Theſſa=\nlonicenſern/ein vnglöubig trurē/deren die dhein\nhoffnung haben des künfftigen läbens. Siewil aber wir\nglouben/das Chriſtus vom tod erſtanden iſt/vnnd wir\nin Chriſto werden vfferſton/vnnd alſo by dem Herren\nſin alle zyt/ſo ſöllen wir vns mit diſen worten/vnderein=\nandren tröſten/wie Chriſtenliche liebe vordert/ſo veer\ndas wir nit in vnglouben fallen/vnd iſt darumb nit wi=\nder die Exempel/durch den ſchülmeyſter angezogen.",
         "b": "deren die kein Hoffnung\nhaben deß kuͤnfftigen Lebens. Diewyl aber wir glauben / daß Chriſtus vom Tod erſtanden iſt / und wir in Chriſto\nwerden vfferſtahn /",
-        "similarity": 0.303
+        "similarity": 0.303,
+        "semantic": 0.7931,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,7 +100,9 @@
         "op": "match",
         "a": "Büchſtab\nD Je hoffnung/vonndero Paulus hie ſagt/iſt de=\nnen ſo im fágfür ſind/nitt abgeſchlagen/vnd iſt\nherr Berchtolden ingefürte red/gar nüt wider\nmich/dann wir hoffnung haben/darumb wir für ſy bit=\nten/ſy ſyen der vſſerwelten. Berchtoldus",
         "b": "DIe Hoffnung / von dero Paulus hie ſagt / iſt denen\nſo im Faͤgfeur ſind / nit abgeſchlagen / und iſt Herr\nBerchtolden yngefuͤhrte Red gar nuͤt wider mich /",
-        "similarity": 0.4857
+        "similarity": 0.4857,
+        "semantic": 0.9154,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -107,7 +122,12 @@
         "b": "Johannis am 5. Cap. By\nden klaren Worten Pauli laſſen wir es blyben. Buͤch-\n\n## Marginalien\nſuͦch hie-\nvor am\n428. und\n429 blat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7339,
+    "reworded": 3,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4169,

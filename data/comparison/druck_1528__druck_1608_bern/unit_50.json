@@ -39,19 +39,25 @@
         "op": "match",
         "a": "Die erst\nWir begårend aber geschrifft/die Petzo zügeb/das inn\nein houpt der Kirchen mache/namlich ein beylland sin\nder Kirchen.",
         "b": "die Petro zügeb/ das jnn\nein Houpt der Kilchen mache / namlich ein Heiland sin\nder Kilchẽ. Wir gebend aber jm Gschrifft /",
-        "similarity": 0.5581
+        "similarity": 0.5581,
+        "semantic": 0.6592,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wir gebend aber jm geschrifft/ouch des\nwortlin balben/Eynig/darumb das wir am iiij. capia\ntel zun Ephesern haben/ein Herren.",
         "b": "ouch deß Wårt=\nlin halben/ Einig/ darumb daß wir am 4.cap.zun Ephesern\nhaben/ ein Herzen. Vnd in der ersten Epistel zun Timotheo/",
-        "similarity": 0.3478
+        "similarity": 0.3478,
+        "semantic": 0.7102,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Vnnd in der ersten\nEpistel zu Thimotheo/am ij. capitel/Ein mitler zwi-\nschen Gott vnnd dem menschen. Christus hat allein die\nvnsterblicheyt/vnd das laben/darumb wirt er ouch al-\nlein deren/so zum låben vnd vnsterblicheyt beriffe sind/",
         "b": "am 2.cap. Ein Mittler zwüschen Gott vnnd dem Men=\nschen. Christus hat allein die vnsterblicheit/ vnnd das lå=\nben/",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.8681,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,31 +69,43 @@
         "op": "match",
         "a": "ein eynig houpt sin. Bichtuatter. Ch han begårt ein Text/ der da anzeygte das\nwort/Einzig/sind nur text bracht/die da få-\ngen/Ein/ein yerlicher Tütscher weyßt das ein\ngrosser vnderscheyd ist vnder Ein vn Einzig/",
         "b": "der da anzeigte/ das Wort/ Einzig/ sind nur Text bracht/ die da sagẽ Ein/ Ein jet=\nlicher Tütscher weißt dz ein grosser vnderscheid ist vn=\nder Ein vnd Einzig/",
-        "similarity": 0.5672
+        "similarity": 0.5672,
+        "semantic": 0.8243,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Einzig\nschlüßt all ander vf/in/laßt ein anderen by jm bely-\nben/vnd wirt warlich gseyt/wenn zwen sind/Einer ist/",
         "b": "Einzig schlüßt all ander vß/ Ein/ laßt\nein anderen by jm belyben / vnnd wirt warlich gseit / wenn\nzwen sind / Einer ist /",
-        "similarity": 0.7442
+        "similarity": 0.7442,
+        "semantic": 0.8906,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "es wirt aber nit war gseyt/ein eynzigerist. Buccrus. Jewyl niemand überal ist/der das hab/das zu\neinem houptder Kirchengehört/namlich sy få-\nlig macht/dan allein Christus/",
         "b": "es wirt aber nit war gseit / ein einzi=\nger ist. Bucerus. DIeswyl niemand überall ist / der das hab / das zü ei=\nnem Houpt der Kilchen gehört /",
-        "similarity": 0.4727
+        "similarity": 0.4727,
+        "semantic": 0.7174,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "so volgt ye klar\nlich/das man sagé můß/das einzig houpt. Sarzu/die-\nwylniemand mitlen kan zwischen Gott und demen=\nschen/dann allein Christus/so gillt aber dz wortli/Ein\nmitler/als vil als einzig/Also/Jch gloub in eine Gorr.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7561,
+        "semantic_match": "Schlußred. 37\nBucer. WIr begårend nit Geschrifft die åben das Wårtly\nHoupt/ vßtrucke/ am Wort ist es nit gelågen/ Wir\nbegårend aber Geschrifft /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Sa ist aber Ein/vnd nit einzig/vnd gillt aber dennest\nDas",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7666,
+        "semantic_match": "Schlußred. 37\nBucer. WIr begårend nit Geschrifft die åben das Wårtly\nHoupt/ vßtrucke/ am Wort ist es nit gelågen/ Wir\nbegårend aber Geschrifft /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -95,7 +113,12 @@
         "b": "namlich sy sålig\nmacht / dann allein Christus / so volgt je klarlich/ daß man sagen müß/ das einzig Houpt. Darzü/ diewyl\nE iij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7741,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5459,

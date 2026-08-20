@@ -69,19 +69,25 @@
         "op": "match",
         "a": "**Schlußred.** LXIII\nſin/des Prouincials ampt/ er welle mit geſchrifft wider\ndie ſelbigen hinfür handlen/ vnd menſchlich vnred on ge\nſchrifft fallen laſſen.",
         "b": "vnnd ſin deß Prouin-\ncials Ampt / er welle mit Geſchrifft wider dieſelbigen hin-\nfuͤr handlen / vnnd menſchlich ynred on Geſchrifft fallen\nlaſſen.",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.8041,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Was er aber vermeint on geſchrifft\nan ſy geurſachen/ wider vns in gemeind/oder vnns pre=\ndiger zů Straßburg zehabenn.",
         "b": "Was er aber vermeint on Geſchrifft an ſy geurſa-\nchen / wider vns in gemeind / oder vns Prediger zuͤ Straß-\nburg zehaben /",
-        "similarity": 0.6829
+        "similarity": 0.6829,
+        "semantic": 0.6039,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Er welle die ſelbig/ſo er\nnoch hie iſt/oder von hinnen kommen/in gſchrifft verfaſ\nſenn/ ſol jm darumb gnůgſam geantwurt/vnnd durch\nvns ſelbs in Truck verſchaffet werden.",
         "b": "er welle dieſelbig / ſo er noch hie iſt / oder von\nhinnen kommen / in Geſchrifft verfaſſen / ſoll jm darumb\ngnuͤgſam geantwurt /",
-        "similarity": 0.5882
+        "similarity": 0.5882,
+        "semantic": 0.6825,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -93,33 +99,51 @@
         "op": "match",
         "a": "Siewyl aber hie\nallein durch Gottes wort/lut miner gnedigẽ herren von\nBernn Mandat/gehandlet werdenn ſol/ſo bring er das\nſelbig herfür/ſol jm von minen lieben brůdern gnůgſam\nantwurt widerfaren.",
         "b": "gehandlet werden ſoll / ſo bring er das ſelbig herfuͤr / ſoll jm\nvon minen lieben Bruͤdern gnuͤgſam antwurt widerfaren.",
-        "similarity": 0.4528
+        "similarity": 0.4528,
+        "semantic": 0.6625,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Das wellend lieben Chriſten im\nbeſten verſtan/vnd der warheit nach vrteylen. **Meiſter Vlrich Zwingli/**\nPredicant zů Zůrich. S O min Herren von Zůrich/der ſo\nalten erlichẽ Statt/die ſich ſo frömlich/",
         "b": "Das wellend lieben Chriſten im beſten verſtan / vnnd der\nWarheit nach vrteilen.",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.6671,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "wyß=\nlich vnnd getrůwlich/ye vnnd ye gehalten/Es\nſyge zů frid oder kriegszytenn/beſonder anzogenn ſind/ ſam ſy durch mich verfůrt/wiewol ſöliches billich erſpa\nret wåre/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6356,
+        "semantic_match": "der da ſpricht / Kompt zuͤ mir\n(nit zuͤ minem Statthalter / oder Concilien / ſonders zuͤ\nmir) alle die jr beladen ſind /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "zimpt ſich doch nitt/ein ſo loblich Ort/vnnd\ndas vorderſt einer Eydgnoſchafft/vnuerantwurtet laſ\nſenn. Vff das ſag ich/das die genannten mine genådige\nHerrenn/durch mich gennglich nit verfůrt/ouch mir\nnit gloubt/ſonders/nach dem ſy min leer/die nitt min/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8093,
+        "semantic_match": "der da ſpricht / Kompt zuͤ mir\n(nit zuͤ minem Statthalter / oder Concilien / ſonders zuͤ\nmir) alle die jr beladen ſind /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "ſonder Gottes leer iſt. Glych wie die Jſraheler in Berœa",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7702,
+        "semantic_match": "Schlußred. 95\nden / die ſich ſelber ſuͤchen / wie jrs gryffen muͤſſend / ſonders\nhoͤrend die laͤbendigmachend ſtimm deß einigen Hirten\nuͤwer Seelen Jeſu Chriſti /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7044,
+    "reworded": 2,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3424,

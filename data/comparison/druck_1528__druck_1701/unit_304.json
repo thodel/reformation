@@ -33,37 +33,52 @@
         "op": "only_a",
         "a": "**Schlußred.**\n\nDas er sagt/was hat er anders jnen geben/dann das die\nwort darbringed iterum petit principium, Begårt eben mir dem\nzebewåren/das im span stadt/dann wir bestond jm nit\nDas die wort des jnnhalts vnnd sinns syend/wie er dar=\nuon reder.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7432,
+        "semantic_match": "ſeye zeverſtahn / als geſchriben iſt / Geneſis am\n17. mit ſoͤlichen Worten: Es ſoll beſchnitten werden al-\nles Månnliches Geſchlecht /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "**Uff den rviij. tag Jenners.**\n**Pfarrer von Sant Gallen.**\n\nVff die erklårung des Kelchs/durch mich ge=\nthan/darinn ich min herr Doctor/derglychenn\nzů erklårung lines verstands/gefragt hab/vnd\nmir geantwurt/wie in den Actis verfasset.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6419,
+        "semantic_match": "ſeye zeverſtahn / als geſchriben iſt / Geneſis am\n17. mit ſoͤlichen Worten: Es ſoll beſchnitten werden al-\nles Månnliches Geſchlecht /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "So\nmir yetzmal manglet/vff sine yngefürte red/wil ich söl=\nche antwurt Summarie gegeben habenn: Alles das so\nChristus ye gethan/so es vns fruchtbar sin sol/vñ nutz=\nlich/von vns im glouben vnd geyst verstanden/vñ an=\ngenomen werden sol.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7684,
+        "semantic_match": "ſeye zeverſtahn / als geſchriben iſt / Geneſis am\n17. mit ſoͤlichen Worten: Es ſoll beſchnitten werden al-\nles Månnliches Geſchlecht /",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Samit aber das vsserlich nit ab=\ngesündert/als/Essend/das ist min lyb: vñ/Trinckend/ das ist min blůt/sunst hette Christus dz brot in die hend\ngenommen/vnd danck gesagt/vnd gesprochen:",
         "b": "300     Die Vierdte Schlußred. iſt myn Lyb / und / Trinckend / das iſt myn Blůt : ſonſt\nhåtte Chriſtus das Brodt in die Hånd genommen /",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.7488,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Nem=\nmend/vnd essend/das thůnd min zegedencken/vnd het\nte das wort/Das ist min lyb/nit bedörffen. Derglychen\nzum Kelch/hette er danck gesagt/vnd jnen geben/spre=\nchende:",
         "b": "und\ndanckgeſagt / und geſprochen : Nemmend / und eſſend / das thůnd myn zegedencken / und håtte das Wort / Das\niſt myn Lyb / nit bedorffen.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7463,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Trinckend all daruß/so offt jr sollichs werdend\ntrincken/so thůnds in miner gedåchtnuß/vnd bedörf=\ntend die wort/Das ist min blůt/nit darby staan:",
         "b": "Derglychen zum Kelch / håtte\ner danckgeſagt / und ihnen geben / ſprechende: Trinckend\nall daruß / ſo offt ihr ſolches werdend trincken / ſo thůnds\nin myner Gedechtnus /",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.7393,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,7 +90,9 @@
         "op": "match",
         "a": "dann\nder anderen worten/gedåchtnuß zehalten/vnnd danck=\nbarkeit daby erzeigen/gnůg wåre: dañ ye in den worten\nChristi/ist nit ja vnd nein/sonders/ja ja/vnd nein nein/ Do ij",
         "b": "gnůg wåre : dann je in den Worten Chriſti iſt nit\nja und nein / ſonders ja ja / und nein nein / in der andern\nEpiſtel zun Corinthern am erſten Capitel /",
-        "similarity": 0.5667
+        "similarity": 0.5667,
+        "semantic": 0.7736,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -119,7 +136,12 @@
         "b": "So aber ſtaht håll ohn alle ußlegung: Das iſt\nmyn Blůt deß Neuen Teſt. und nit ein bedůtung. Herr\nDoctor / ſo iſt unſere gewůßne noch nit verſichert/einem\n                                                                andern",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7374,
+    "reworded": 2,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2642,

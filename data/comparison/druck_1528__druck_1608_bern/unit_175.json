@@ -57,13 +57,17 @@
         "op": "match",
         "a": "**Schlußred.**\n\nzůcht/vß dero flůßt/nemen wir ouch an:was nit/das laſ\nſend wir faren. **Bůchſtab.**\n\nJEwyl ich angezeigt hab/das man ſchuldig iſt/",
         "b": "vß dero\nflüßt/nemmen wir ouch an:was nit/das laſſend wir faren. Buͦchſtab. DEſwyl ich angezeigt hab / das man ſchuldig iſt /",
-        "similarity": 0.75
+        "similarity": 0.75,
+        "semantic": 0.6853,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "die ſatzungen der Apoſtlen zů halten/vnnd mit\nnit gſchrifft bracht wirt/was die ſelben ſatzun=\ngen ſyen/vnd aber ſömlich puncten durch mich\nanzogen/vß den ſatzungenn der Apoſtlen kommen ſin/",
         "b": "die\nſatzungen der Apoſtlen zuͦ halten/vnnd mir nit Ge=\nſchrifft bracht wirt / was die ſelben ſatzungen ſyen/ vnd aber ſoͤmlich puncten durch mich anzogen /",
-        "similarity": 0.6897
+        "similarity": 0.6897,
+        "semantic": 0.9308,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -75,7 +79,9 @@
         "op": "match",
         "a": "vor zwölffhundert jaren vnnd mer/beſchriben/zůg ich\nmich vff den hochgelertẽ Ecolampadiũ/der ſölichs für\nander vß wyßt/by Ignatio/einem junger Johanis des\nEuangeliſten/by Origene vnd andren/erfunden werdẽ.",
         "b": "der ſoͤllichs fuͤr ander vß wyßt / by Ignatio/ Juͤnger Joannis deß Euangeliſten/ by Origene vnnd an=\ndren/erfunden werden.",
-        "similarity": 0.3704
+        "similarity": 0.3704,
+        "semantic": 0.7086,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -87,19 +93,28 @@
         "op": "only_a",
         "a": "**Theobaldus Hůter Pfarrrer**\n**zů Appenzell.**\n\nVff die meinůg mines ſpruchs/ſo ich hie yngefůrt\nhab/Audiam quid loquatur in me Dominus, Pſal.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7354,
+        "semantic_match": "Beuilch hiemit min ynzug dem vn=\nparthyͤeſchen laͤſer. Y iij\n\n## Marginalien\nVñ hat\nhiemit\nſoͤlichen\ntext ver=\nlaͤſen.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "lxxxv viij. Ich wird loſen was der Herr in mir wirdt re=\nden/in welichen worten der Prophet anzeygt/ ein vffſehen zehaben/vff den geyſt Gottes.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7148,
+        "semantic_match": "Schlußred. 173\nhalten / vnnd ſoͤllich ſatzungen mit vßgetruckten worten/in\nBibliſcher Schrifft nit angezeigt / vnd aber die / ſo in der zyt\nder Apoſtlen gelaͤbt hand/vnd bald darnach anzeigung vnd\nkundſchafft geben/das diß die ſatzungen der Apoſtlen ſyen/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Wie dan ge\nſter nach der lenge daruon geredt iſt wordẽ/welcher geiſt\ngottes by dem geſpons vnd gemahel Jeſu Chriſti iſt/vñ\nvff",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.727,
+        "semantic_match": "namlich gegen der Sonnen Vffgang baͤtten : Von dem\nKindertouff / wie man darby ſoͤlle fragen vnd antwurten: Den Sontag nit vff den Sabbath /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -107,7 +122,12 @@
         "b": "Beuilch hiemit min ynzug dem vn=\nparthyͤeſchen laͤſer. Y iij\n\n## Marginalien\nVñ hat\nhiemit\nſoͤlichen\ntext ver=\nlaͤſen.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7503,
+    "reworded": 1,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3301,

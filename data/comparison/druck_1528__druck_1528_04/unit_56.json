@@ -33,19 +33,27 @@
         "op": "only_a",
         "a": "**Die erſt**\n\ndurch ſyn nachgelaßnen gewalt/ſo hand ſy ouch zuͦ bindẽ\nvnd entbinden gehan/nach ſozim ſins goͤttlichẽ wozts.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7584,
+        "semantic_match": "ein/der\nda nit den glouben hab/ ſonders jm empfolhen/ zuͦ binden in dem gewalt Gottes/vnd zuͦ entbin\nden die/die ſich geſchickt hand in glouben/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "**Berchtoldus.**\n\nIn kurtze antwurt. Die allmechtigkeyt gottes\nBekennen wir mit dem Pfarrer/vnd den ſpruch\nſo er ynfürt/das Gott gnad vnnd glori geb/iſt\nfür vns/dann das iſt ſin gnad/das er vns verzycht die\nſünd vñ vns ſoͤlliche ſin gnad verkündet/durch ſine A-\npoſtel die dann ſins worts diner ſind/als hüt vß Paulo\ngehoͤrt iſt in der erſten Epiſtel Pauli zun Corinthern.iij.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7583,
+        "semantic_match": "ein/der\nda nit den glouben hab/ ſonders jm empfolhen/ zuͦ binden in dem gewalt Gottes/vnd zuͦ entbin\nden die/die ſich geſchickt hand in glouben/",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Cap. Wer iſt Paulus/wer iſt Apollo/dann allein diener\ndes dem jr gloubt hand/der da pflantzet/der da begüßt\niſt nüt/Gott aber gibt das vffwachſſen/dan ob ſchon der\nprieſter ſpricht/ich abſoluier oder entbind dich von dinen\nſünden/wirt mir nit gnüg beſchechen/ich ſig dann in mi-\nnem hertzen durch den gloubenn verſicheret.",
         "b": "[unleserlich] Die erſt\n\nſchon der prieſter ſpricht/ich abſoluier oder ent=\nbind dich von dinen ſuͤnden / wirt mir nit gnuͤg\nbeſchehen /",
-        "similarity": 0.321
+        "similarity": 0.321,
+        "semantic": 0.7328,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,19 +65,25 @@
         "op": "match",
         "a": "Gott iſt der\nder vffthüt/vñ niemäd wirt beſchlieſſen. Er beſchlüßt\nvnnd niemand thüt vff. Eſaie xxij. Capitel. Dar=\nrumb iſt der gewalt eygentlich die ſünd zeuergebẽ/allein\nGottes.",
         "b": "Er beſchluͤßt vñ\nniemand thuͦt vff. Eſaie am xxij. cap. Darum̃ iſt\nder gewalt eygentlich die ſuͤnd zeuergebẽ /",
-        "similarity": 0.44
+        "similarity": 0.44,
+        "semantic": 0.7412,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Aber verkünden die vergebung der ſünd den\nglöubigẽ. Verkündẽ die vorbehaltung der ſünd/den vn\nglöubigen/iſt das ampt der dienſtbarkeyt/vnd beuelch\nder Apoſtlen/vnd verkündung des worts.",
         "b": "allein\nGottes. Aber verkuͤnden die vergebung d’ ſuͤnd\nden gloͤubigen . Verkuͤnden die vorbehaltung d’\nſuͤnd/den vngloͤubigẽ/Jſt das ampt der dienſt=\nbarkeyt/vnd beuelch der Apoſtlen/",
-        "similarity": 0.4516
+        "similarity": 0.4516,
+        "semantic": 0.883,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "**Pfarrer.**\n\nAls myn herr Berchtold in dem gewalt den ich\nzertheilt han. Zum erſten/mir züuellt gott geb\nallein eer vnd glozi. Hab aber den Apoſtlen be=\nuolchen/",
         "b": "vnd verkuͤn=\ndung des worts. Pfarrer. Als min herr Berchtold in dem gewalt den\nich zerteylt hab. Zum erſten/mir zuͦuellt gott geb\nallein Eer vñ glori.",
-        "similarity": 0.5614
+        "similarity": 0.5614,
+        "semantic": 0.8238,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -101,7 +115,12 @@
         "b": "Aber zuͦ einer beſſer beſtaͤtung des gewalts/ zuͤgen ich das durch den heyligẽ Paulum. j. Ti=\nmothei.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7829,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3203,

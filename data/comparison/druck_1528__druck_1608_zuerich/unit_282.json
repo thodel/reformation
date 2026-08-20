@@ -51,7 +51,9 @@
         "op": "match",
         "a": "Die vierde\nPfarrer von Sant Gallen. Vantwurt Doctor Ecolampadij allen yntrag\nzů verantworten/mit erklärung der danckſa=\ngung/ſo by dem Nachtmal des herrē gebrucht\nſöll werden/weiß ich nit vilzewider:",
         "b": "mit erklaͤrung der danckſagung/ ſo\nby dem Nachtmal deß Herren gebrucht ſoͤll werden/ weiß ich nit vil zewider:",
-        "similarity": 0.4314
+        "similarity": 0.4314,
+        "semantic": 0.8598,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,45 +65,67 @@
         "op": "match",
         "a": "allein dz begär ich/ zů verſicherung vnſers gloubens/das mit gſchrifft erklä\nret zewerden/das Glouben/ſye/Eſſen. So nun (als ers\nnempt) dz Sacramentlich brot/vns des lyden vñ tods\nChriſti/erinnert/wie vil me ſölte vns erinneren dz wä=\nſen ſelber/damit vñ alle liebe ſinen/deſter volkomlicher\nin vns erklert:",
         "b": "Eſſen. So nun (als ers nempt)\ndas Sacramentlich Brot/ vns deß Lyden vnd Tods Chri-\nſti erinnert/ wie vil me ſoͤlte vns erinneren das waͤſen ſel-\nber /",
-        "similarity": 0.4634
+        "similarity": 0.4634,
+        "semantic": 0.7661,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dann die Alten vnder dem Moyſe/habe\nzeichen gehept der verheyſſung/welche vnns mit wäſen\nvnd that warlich ſind mitgereycht:",
         "b": "damit vnd alle liebe ſinen/ deſter vollkomlicher in vns\nerklaͤrt: dann die Alten vnder dem Moyſe/ haben zeichen\ngehebt der verheiſſung/",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.6305,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnd wie das bedü=\nret wirt/übertrifft ſin figur/Alſo ouch der Lyb Chriſti\ndurch das lamb vns prefiguriert vnd anzeygt.",
         "b": "welche vns mit waͤſen vnnd that\nwarlich ſind mitgereicht: vnd wie das beduͤtet wirt/ uͤber-\ntrifft ſin figur/",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.5341,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Ecolampadius. Süch am. 107. 108. vnnd 109. blatt. DAs gloubē ſye geiſtlich Eſſe/ iſt gnůgſamlich\nbewärt worden/vß dem vj.",
         "b": "Alſo ouch der Lyb Chriſti durch das Lamb\nvns prefiguriert vnd angezeigt. Ecolampadius. Das glouben ſye geiſtlich Eſſen/ iſt gnuͤgſamlich be-\nwaͤrt worden/ vß dem 6. Capitel Johannis/ yetz\nvnnot",
-        "similarity": 0.3077
+        "similarity": 0.3077,
+        "semantic": 0.643,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "cap. Johannis/ yezt vnnot mer bewärung ynzefüren. Das\naber herr Benedict ſpricht: Diewyl das Sa=\ncramentlich brot vnns ynfürt zů der gedächtnuß/ſo ſol\nvns die gegenwürtigkeit des lybs Chriſti ſelbs/vilmer\nerinneren:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6568,
+        "semantic_match": "iſt in Chriſto ſelbs erfuͤlt worden am Cruͤtz/ vnnd\ndurch vnſeren Glouben. Pfarrer von Sant Gallen. Vf antwurt Doctor Ecolampadij allen yntrag zuͤ\nverantwurten/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "ſo ſol man da vermerckē/was das wort/Er=\ninneren/vff jm hab/vnnd wie der menſch mag erinnert\nwerden/ſo erfindt ſich/das vſſerliche ding zů der erinne=\nrung dienend/müſſen mit den ſinnē begriffen werdē/als\ndurch das gehör oder geſicht.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7076,
+        "semantic_match": "allein das begaͤr ich/ zuͤ verſiche-\nrung vnſers Gloubens/ baß mit Gſchrifft erklaͤret zewer-\nden/ das Glouben/ ſye/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "So nun aber der lyb Chri=\nſti/hat vns nit mer ſichtbarlich gegen gehept ſöllen wer\nden/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6655,
+        "semantic_match": "allein das begaͤr ich/ zuͤ verſiche-\nrung vnſers Gloubens/ baß mit Gſchrifft erklaͤret zewer-\nden/ das Glouben/ ſye/",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.6829,
+    "reworded": 4,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4329,

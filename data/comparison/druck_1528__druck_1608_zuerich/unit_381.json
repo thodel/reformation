@@ -45,63 +45,90 @@
         "op": "match",
         "a": "**Schlußred.**\nwellen das nit thůn vß vnſerm gwalt / oder einiger na=\ntur / ſonders mit hilff der gnad gottes. **Martinus Butzer.**\nGlichs thůnd alle Chriſten.",
         "b": "oder einiger natur/ ſonders mit hilff der Gnad Gottes. Martinus Butzer. Solichs thuͦnd alle Chriſten. Er hat wyter gefragt/",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.5903,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Erhart witer ge=\nfragt / was der dienſt ſye gewäſen / dauon Lu=\ncas Actorum am .viij. meldet / ſag ich: Es iſt ein\nernſtlich gebått geweſen /",
         "b": "was der Dienſt ſye geweſen/ dauon Lucas Actorum\nam 13. meldet / ſag ich / Es iſt ein ernſtlich Gebaͤtt\ngeweſen/",
-        "similarity": 0.6818
+        "similarity": 0.6818,
+        "semantic": 0.691,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dañ das Båtte allweg gemeyn\nlich zum faſten / in der gſchrifft geſatz wirdt. Soch ſo iſt\nouch die übung der leer mitgangen /",
         "b": "dann das Baͤtten allweg gemeinlich zum Faſten/ in der Gſchrifft geſatzt wirdt/ Doch ſo iſt ouch die uͤbung\nder Leer mitgangen/",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.6902,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "darumb meldet Lu=\ncas / propheten vnd lerer / nit aber ſacerdotes / das iſt / o=\npferer. Das er aber fürgeworffen hat Eraſmum Rote=\nrodamum /",
         "b": "darum meldet Lucas/ Propheten vnd\nLerer/ nit aber Sacerdotes/ das iſt/ Opfferer. Daß er aber\nfuͤr geworffen hat Eraſmum Roterodamum/",
-        "similarity": 0.6047
+        "similarity": 0.6047,
+        "semantic": 0.6091,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "iſt ſich zůuerwundren : dañ bißhar haben ſy\nby der alten vertolmetſchung die ſy Hieronimo zůſchri=\nben / wellen bliben: wir haben zwey håller oꝛt angezeygt /",
         "b": "iſt ſich zuͦ-\nverwunderen: dann bißhar haben ſy by der alten vertol-\nmetſchung/ die ſy Hieronimo zuͦſchryben / wellen blyben:",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.8864,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "da man ſicht das ein dienſt hie ſol verſtanden werden. Paulus nennet die wåltliché obré λειτουργούσ / dz iſt diener\nGottes.",
         "b": "wir haben zwen haͤller ort angezeigt/ da man ſicht das ein\nDienſt hie ſol verſtanden werden. Paulus nennet die\nWeltlichen Obren (λειτουργοὺς) das iſt Diener Gottes.",
-        "similarity": 0.6809
+        "similarity": 0.6809,
+        "semantic": 0.8679,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Solt es opferer heiſſen / ſo wurd ein jed Schul=\nheis vnd vogt / ouch ein opferer ſin. **Gilg Aͤdurer.**\nD Als er geantwurt hat /",
         "b": "Solt es Opfferer heiſſen/ ſo wurd ein jeder Schuldheiß\nvnd Vogt/ ouch ein Opfferer ſyn. Gilg Murer. As er geantwurt hat/",
-        "similarity": 0.5778
+        "similarity": 0.5778,
+        "semantic": 0.7636,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "der dienſt ſye das bått geſin\nmag nit ſin / dañ vo ſömliche dienſten ſol niemant\ngeſůndrot werden. Er ſpricht aber hie im text :",
         "b": "der dienſt ſye das baͤtt geſin/ mag nit ſyn/ dann von ſoͤmlichen dienſten ſoll nie-\nmand geſuͤndret werden. Er ſpricht aber hie im\nText",
-        "similarity": 0.6
+        "similarity": 0.6,
+        "semantic": 0.9039,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "ſůndren\nmir von dem vordrigen dienſt / Barnabam vnd Sau=\nlum / damit wil ichs beuolchen haben der ſchrifft. **Butzer.**\nP Aulus vnd Barnabas /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7242,
+        "semantic_match": "das vns der Vatter guͤtigklich zuͦ jm zuͤchen welle vnd wel-\nlen das nit thuͦn vß vnſerem Gewalt/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "ſind zů de predig ampt\ngeſůndret worden. Darzů hat vaſt wol gedie=\nnet / dz man gebått zů gott de herrē gethan hab. Zz iij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8088,
+        "semantic_match": "das vns der Vatter guͤtigklich zuͦ jm zuͤchen welle vnd wel-\nlen das nit thuͦn vß vnſerem Gewalt/",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7535,
+    "reworded": 0,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5088,

@@ -57,37 +57,49 @@
         "op": "match",
         "a": "**Schlußred XXVI**\ntiern ſonders für ſich ſelbs/ vnd ſunſt für niemands/ vnd ouch daſſelbig\nallein zů eren mynen gnedigen Herrn von Bern/",
         "b": "noch Bischoffen von\nLosen hargesand/von frentwegen zedisputiern/ sonders fůr sich selbs/ vnd sunst fůr niemands / vñ ouch dasselbig allein zů eren minen Gne=\ndigen Herrn von Bern/vñ diser Disputation/wider die 10.",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.8327,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vñ diſer Diſputatioñ\nwider die. X. ſchlußreden/ Berreyt zefechten/ vnd etwas fürzetragen/ ſich\nProteſtierende vñ bezügende/ was er diſputieren / vnd all da vnformgt-\nlichs handlen wurd/",
         "b": "Schluß=\nreden/bereydt zefechten / vnd etwas fůrzetragen/ sich Protestierende\nvnd bezůgende was er disputieren / vnd all da vnformglichs handlen\nwurd/söllichs gepůrer Oberkeit Christenlicher Kilchen vnnd gemei=\nnem Concilio vnderworffen haben/vnd sich die selben wysen lassen.",
-        "similarity": 0.4762
+        "similarity": 0.4762,
+        "semantic": 0.8477,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ſollichs gepürer oberkeyt Chriſtenlicher Kilchen vnd\ngemeinem Concilo vnderworffen habe/ vñ ſich die ſelben wyſen laſſen. **Doctor Cůnrad Treiger**\n**Provincial.**\n\nVNd ich ſag alſo des Erſten der zweyen ſchlußre\nden halben /",
         "b": "Doctor Cůnrad Treiger Prouincial. VNvd ich sag also / deß Ersten der zweyen Schlußreden\nhalben / so da belangend vnnd betreffend / die heilig\nChristenlich Kilch/ꝛc.",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.7677,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ſo da belangend vnnd betreffend/ die heylig Chriſtenlich Kilch/ ꝛc. Das die ſel-\nben nach lut vnd form/ vnnd dem bůchſtaben nach/",
         "b": "Das dieselben nach lut vnnd\nform/vnd dem Bůchstaben nach / nit vnchristenlich sind/ aber jr verstand / der da durch sy wirt fůrgenommen /",
-        "similarity": 0.3182
+        "similarity": 0.3182,
+        "semantic": 0.7964,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "nitt\nvnchriſtenlich ſind/ aber jr verſtand/ der da durch ſy wirt\nfürgenommen/ der ſelbig iſt jrriſch vnnd vnwoꝛhafftig\ndarumb ich denn zů erlütrung benåmpter ſchlußred/",
         "b": "der\nselbig ist jrꝛdisch vnd vnworhafftig/darumb ich denn zů er=\nlůtrung benämpter Schlußred/dise zwo Schlußred dar=\ngegen setzen wil/vnd ist das nemlich die erst.",
-        "similarity": 0.3462
+        "similarity": 0.3462,
+        "semantic": 0.7826,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "di-\nſe zwo ſchlußred dargegen ſezen wil/ vnd iſt das nemlich\ndie erſt. Die heylig Chriſtelich Kilch die durch den geyſt jrs\ngemachels/",
         "b": "Die heilig Christenlich Kilch/die durch den Geist jrs\nGemachels/ vnnd Spons/ewiglich erhalten vnnd regiert\n\n## Marginalien\nga-\nder\ndem\nder\nnet/",
-        "similarity": 0.3111
+        "similarity": 0.3111,
+        "semantic": 0.6283,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -105,13 +117,19 @@
         "op": "only_a",
         "a": "vnnd kå-\nzer abſündertt/ vnnd by jren/ die ein ſul vnnd grundue-\nſti iſt der warheyt/ der hoͤchſt gewalt in ſachen des glou-\nbens zehandlenn/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6335,
+        "semantic_match": "söllichs in jrer al=\nler namen zethůnd. Jst bemelter Doctor Cůnradus Treyger / Pro=\nuincial Sant Augustins Ordens / hinuff zů den Disputanten ge=\ntretten/vnd anfangs protestiert/mit langer red:Als er dann vernom=\nmen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "funden wirdt/ vnnd diewil aber beyd\nkez genannt Schlußred ſollichs verneynnen/ vnnd al-\nleyn das eynig woꝛt Gottes in håndlen des gloubens/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7074,
+        "semantic_match": "söllichs in jrer al=\nler namen zethůnd. Jst bemelter Doctor Cůnradus Treyger / Pro=\nuincial Sant Augustins Ordens / hinuff zů den Disputanten ge=\ntretten/vnd anfangs protestiert/mit langer red:Als er dann vernom=\nmen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -125,7 +143,12 @@
         "b": "So\nellen\n§ di-\neren\n\nden\nten/ rost-\nchen\ne/so\nzen/ ine/ chen\nvnd\nsum\nderꝛ\nrad=\ndar=\n\noffs\nrei-\nsob\nan-\nten",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7495,
+    "reworded": 5,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4066,

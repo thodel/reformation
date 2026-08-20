@@ -45,13 +45,17 @@
         "op": "match",
         "a": "Die fünfft\nwürcket. Vß dem allem wirt gar nit volgen/das ſin lyb\nvnd blůt in der Mäß müſſe täglich geopffert werden/jr\nhabt des dhein Beuelch /",
         "b": "Welches alles in vns\nder Geiſt Chriſti Jeſu/ vnſers einigen vnd ewigen Opf=\nferers wuͤrcket. Vß dem allen wirt gar nit volgen/das ſyn\nLyb vnd Bluͦt in der Maͤß muͤſſe taͤglich geopffert werden/",
-        "similarity": 0.3939
+        "similarity": 0.3939,
+        "semantic": 0.6633,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnd wirt in Chriſto ane das/die\nfigur Melchiſedech / vnd alle andre/gnůgſam erfült ſin\nwie vor überflüſſig angezeygt iſt.",
         "b": "jr habt deß kein befelch/vnd wirt in Chriſto/ane das/die\nFigur Melchiſedech/ vnd alle andre/gnuͤgsam erfuͤllt ſyn/",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.6994,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -63,37 +67,51 @@
         "op": "match",
         "a": "Johannes Büchstab. DAls Paulus den Hebreern hatt alſo geſchriben/ iſt klar gnůg / das er jnen hat den vnderſcheyd\ngeben. Das opfer aber der Mäß/wirt hienach\nwiter durch die Propheten /",
         "b": "das er jnen hat den vnderſcheid geben. Das Opffer aber der Maͤß/wirt hienach wyter\ndurch die Propheten/ vnd ouch das nuͤw Teſtament an=\nzeigt.",
-        "similarity": 0.4912
+        "similarity": 0.4912,
+        "semantic": 0.7871,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnnd ouch das nüw Teſta=\nment anzeygt. Es iſt noch nitt/in der red herrn Martin\nBuͦzers harfür bracht/vff min vorgebne antwurt /",
         "b": "Es iſt noch nit/ in der red herrn Martin Butzers\nharfuͤr bracht/vff myn vorgebne antwurt / das der Lyb\nChriſti nit moͤg vffgeopffert werden /",
-        "similarity": 0.48
+        "similarity": 0.48,
+        "semantic": 0.701,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dz\nder lyb Chriſti nitt moͤg vffgeopfert werden/die gegen=\nwürff ſo er geben hatt / wellen wir hienach das verant=\nwurten.",
         "b": "die gegenwuͤrff ſo\ner geben hat/wellen wir hienach bas verantwurten. Martinus Butzer. ALles was durch Chriſtum vollendet iſt in ewigkeit/",
-        "similarity": 0.3182
+        "similarity": 0.3182,
+        "semantic": 0.6523,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Martinus Butzer. ALles was durch Chriſtum vollendet iſt in ewi=\nkeyt/dẽ mag dhein menſch ein zůſatz thůn/Chri\nſtus hatt mit ſynem tod die heyligeten in ewig=\nkeit vollendet/darum mag dhein menſch etwas mit ſinē\nopffern hinzů thůn /",
         "b": "dem mag kein Menſch ein zuͦsatz thuͦn/Chriſtus hat\nmit ſynem Tod die Heilgeten in ewigkeit vollendet/ darumb mag kein Menſch ettwas mit ſynem opfferen hin\nzuͦ\n\n## Marginalien\nzuͦt\nſyn\nzuͦh\n\nſto/",
-        "similarity": 0.3158
+        "similarity": 0.3158,
+        "semantic": 0.4898,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "darumb ſo müß das Mäß opfferen\nvergebens ſyn / vnd ſo man vermeynt / den geheyligeten\ndamit etwas zůhelffen/ein verleſtrung des tods Chriſti.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6404,
+        "semantic_match": "400        Die fuͤnfft\nouch geantwurt vff die figur deß Oſterlaͤmblis/ vnd deß\ntaͤglichen Opffers im Geſatz: Chriſtus iſt ein mal geſtor=\nben/vnſers wares Oſterlaͤmbli/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Gilg Adurer. VEwol Chriſtus gnůg gethan hatt in ewigkeyt\nvolkommenlich / wie ingeſfirt iſt / durch Herr\nMartin Buͦzer/iſt nitt deſterminder vns beuol\nhen von Chriſto / das wir vns teylhafftig machen mit dẽ\ntäglichen",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7553,
+        "semantic_match": "400        Die fuͤnfft\nouch geantwurt vff die figur deß Oſterlaͤmblis/ vnd deß\ntaͤglichen Opffers im Geſatz: Chriſtus iſt ein mal geſtor=\nben/vnſers wares Oſterlaͤmbli/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -101,7 +119,12 @@
         "b": "Opf\nMaͤ\nwoll\neine\nvnd\namm\nvns\nmuͤſ\ndie\ndas\nlan\ndas\nCre\naͤſſe\niſt/ſ\nvnd\njnen\nDas",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6736,
+    "reworded": 4,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4289,

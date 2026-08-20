@@ -45,7 +45,10 @@
         "op": "only_a",
         "a": "Luce am ij. Capitel\nangezoge. Also der glich hatt er vil übernatürliche ding\nim lyb gewürcket vß götlicher krafft vn macht/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7224,
+        "semantic_match": "to\nsollichem\n219\nDie viere Sluszwe\nDann alls er naturlich geperen, vnnd gelebet hatt, Durch\nMeister Vlrich. Luce am andern cap:",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -57,7 +60,9 @@
         "op": "match",
         "a": "als da\nist die geschicht der vßteylung der fünff Brotten/ in die\nfünff tusent menschen/ ane das so überbeliben: dann wie\nwir vß ordnung gottes vnd der natur/",
         "b": "angezogenn\nAllso derglichen hatt er will wirnatuerliche dinge\nIm leb gewurcket vss. göttlicher krafft vnd macht\nalls da ist die geschicht der vnßtheilung der\nfunff brotten In die funff thunter Monschen\naus das so werbeleven, Dann wie wir uss.",
-        "similarity": 0.4776
+        "similarity": 0.4776,
+        "semantic": 0.4693,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -69,7 +74,9 @@
         "op": "match",
         "a": "also so wir be=\ntrachten den so sollichs redet. Vnd diewyl es voz der him\nmelfart beschehen ist/ soll das wort (er ist vffgefaren) sol\nlichem nit entgegen sin.",
         "b": "ordnung\ngottes vnnd der natur, mit vnsern ongen die\nvils der mousthen mogen sichen, vnd mir ein\noug ijt oder zwey, ein wort In vilen oxen gehort\nallso so wir betrachten, den so sollichs radett, vnd\ndie wijl es vor der hunelfart beschechen ist soll\nDas wort er ist vffgefaren, uit entgegen sin\nMartinus Buur\nDas wir die arngkell des glaubens vor erzellet\nanziechen Damit zu bewaren.",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.6338,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -81,13 +88,17 @@
         "op": "match",
         "a": "Hatt vns\nouch Paulus in der ersten Epyst. zun Corinthbern am vj. Capitel vrsach gegebē. So er åben vom Nachtmal redt\nvnd sagt das wir sin tod verkündigen/",
         "b": "Das der\nlijb Christi int moge leblich Im brott ge¬\nessen werdenn hatt vns ouch paulus in\nDer ersten zijn Chorinchern N 2/3 am vi cap:",
-        "similarity": 0.3273
+        "similarity": 0.3273,
+        "semantic": 0.6189,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "biß das er kome/ vnnd hatt da glich wol gewisst wie er allenthalben sin\nkan/ ouch wie er im Nachtmal gegenwirtig gehapt wirt\nAber in kurtzem so hatt die sach den verstand/",
         "b": "zijn Chornech: Vrsach gegeben, Ja er eben\nende sagt, das wir\nvom nachtmall vedt\nsin toe verkundigen, biss das er kome vnnde het\nDa glich woll gewusst, wie er allenthalben sin\nkan.",
-        "similarity": 0.3125
+        "similarity": 0.3125,
+        "semantic": 0.6933,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -101,7 +112,12 @@
         "b": "Auch wie er Im nachtmall gegen\nVirtel. gehapt, wirt over In kurtzen so",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6275,
+    "reworded": 3,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4677,

@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Die erst\nhimlen/vnnd das du entbindest offerden/das wirt ent=\nbunden sin in den himlen/Johanis am yyj.capitel.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7345,
+        "semantic_match": "Sant Peters/vnd aller Apoſtlen/nur ein vſſerlicher dienſt\ndurch Paulum genempt wirt/ſo iſt noch nicht bewårt/daß\n(der",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -45,13 +48,18 @@
         "op": "only_a",
         "a": "Und zwey mal ward im ge=\nsagt: Weid mine lamer oder schäffly. Sise gschrifft halt\nich vest/vnd gnügsam sin/das Petrus vñ ander nach=\nkomend Statthalter Christi/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.714,
+        "semantic_match": "Denne\nhan ich vorgeſeit/gůnnt die Gſchrifft anderen mindern re-\ngierenden den namen deß Houpts/iſt klar/am erſten Bůch\nder Kůnigen /",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "habend empfangen den\ngewallt off erden/zu binden vnnd entbinden/zu wysen\nvnd leren/das gehdit dem weyden zu/zü pieten vnnd\nverbieten/Sennehan ich vorgeseyt/günnt diegschrifft\nanderen mindern regierendenden namen/des houpts/",
         "b": "22\t\tDie erſt\nvff Erden/zů binden vnd entbinden/ zů wyſen vnnd leeren/ das gehört dem weiden zů/zů pieten vnd verbieten /",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.6858,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,13 +71,17 @@
         "op": "match",
         "a": "ist Elar/am ersten Büch der Küngen/im vv.cap.sprach\nSamuel vß oder in dem wort Gottes/zu Saul:So du\nElein warest in dinen ougen/da bist du worden ein houpt\nin den geschlachte Ifrahels.",
         "b": "im 15.capit. ſprach Samuel vß oder in dem\nWort Gottes/ zů Saul: Do du klein wareſt in dinen ou-\ngen/da biſt du worden ein Houpt in den Geſchlechten Jſra-\nhels.",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.6359,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Amos/am vj.capitel. Sie\nfürnemſten hsupter der volckeren.ac. Butzer. f die anzognen gschrifft/damit das heilig wort\nGottes ernstlich gehandlet werde/wirt durch\nmine brüder/nach ordnung geantwurt werde.",
         "b": "Amos / am 6.capitel: Die fürnemſten Hoͤupter der\nVoͤlckeren/ꝛc. Butzer. VF die anzognen Geſchrifft / damit das heilig Wort\nGottes ernſtlich gehandlet werde/",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.9178,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -81,13 +93,17 @@
         "op": "match",
         "a": "Sas fölte bewaren der Bychruatrer/das sant Peters\nBeuelch jnn möge zu einem houpt der Kilchen machenn. Sarzu hatt er anzogenn das fünffzehend capitel/des\nersten Büchs Samuelis/da gemåldet wirt/das Gott\nden Saul/zu einem houpt des volcks gesetzet hab/Sa\nfolt er aber merckenn/das Saulein vsserlicher Regent/",
         "b": "Darzů hat\ner anzogen das fůnfftzehend capitel/ deß erſten Bůchs Sa-\nmuelis / da gemåldet wirt / das Gott den Saul/zů einem\nHoupt deß Volcks geſetzet hab /",
-        "similarity": 0.4156
+        "similarity": 0.4156,
+        "semantic": 0.6797,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "von Gott gesetzt gewesennist/ vnnd des houpts art/ in sõlichem",
         "b": "Da ſolt er aber mercken/ daß Saul ein vſſerlicher Regent / von Gott geſetzt gewe-\nſen iſt/vnd deß Houpts art /",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.5906,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -101,7 +117,12 @@
         "b": "Sant Peters/vnd aller Apoſtlen/nur ein vſſerlicher dienſt\ndurch Paulum genempt wirt/ſo iſt noch nicht bewårt/daß\n(der",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7083,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4612,

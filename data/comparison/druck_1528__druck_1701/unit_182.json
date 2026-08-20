@@ -39,7 +39,9 @@
         "op": "match",
         "a": "**Schlußred.**\n\nſtenlich Kilch etwas hab geſetzt/das in de gotts wort nit\ngegründt ſye/das ſye durch jnn noch nit bewärt mit der\nſchrifft/ſag ich/ich hab nit geſprochen/das die Chriſten=\nlich Kilch nüt angenomen habe/dz nit in dem gots wort\ngegründt ſye/ſonder ich hab geſprochen/er ſöll bewären/",
         "b": "das in dem Gottswort nit gegruͤndt ſeye/ das ſeye durch ihn noch nit bewaͤhrt mit der Schrifft / ſag\nich /",
-        "similarity": 0.3243
+        "similarity": 0.3243,
+        "semantic": 0.6178,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,19 +65,26 @@
         "op": "match",
         "a": "das ſy etwas hab geſetzt oder geordnet/das nit im gotts\nwort gegründet ſye. **Berchtoldus.**\n\n[Initial D] Er Bichtuatter wil mir vfftrechen/byzebringe\ndas aber jm züſtünde/als das die Kilch Chriſti\netwas vffgeſetzt hette/das nitt im gotts wort\nſtünde/demnach dz die Kilch Chriſti kein ſatzung mach\nvſſerthalb dem wort gottes/iſt heyter vñ klar züermäſ=\nſen/vß dem ſpruch Eſaie am xxix.",
         "b": "das nit in Gottswort ſtuͤhnde/ demnach / daß die Kilch Chriſti kein Satzung mache uſ=\nſerhalb dem Wort Gottes / iſt heiter und klar zuͤ ermeſ=\nſen /",
-        "similarity": 0.3077
+        "similarity": 0.3077,
+        "semantic": 0.6722,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Vergäbens Eeren\nſy mich/ſo ſy leeren/die leer vnnd bott der menſchen/wie Süch hienoz\nim anfang anzeygt iſt/ouch Matthei am xv.",
         "b": "uß dem Spruch Eſaje am 29. Vergebens\nehren ſy mich/ ſo ſy lehren die Lehr und Bott der\nMenſchen / wie im Anfang angezeigt iſt /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.5561,
+        "reading": "check"
       },
       {
         "op": "only_a",
         "a": "am 73. blatt. **Bichtuatter.**\n\n[Initial H] Err Berchtold zücht mich an/das ich von jms\nbegere/das mir züſtünde byzebringen/vermein\nich/daser vß ſyner hürtigen antwurt/bybring=\nens gnüg habe/da ernach geben hat/das die hey\nlig Chriſtenlich Kilch/wie S.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.74,
+        "semantic_match": "uff das Wort Gottes / das ich auch ſprich/ darum meyn ich / daß nit noht ſeye zuͤ wyter Bewaͤh=\nrung /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -93,13 +102,18 @@
         "op": "match",
         "a": "Paulus ſagt/iſt ein ſul\nvnd veſtigung der warheit/vnnd daby geſagt/das die\nChriſtenlich Kilch gegründet ſye/vff das wort gottes/",
         "b": "wie St. Paulus ſagt / iſt ein Sul und Veſtigung der\nWarheit / und daby geſagt / daß die Chriſtenlich Kilch\ngegruͤndt ſeye/",
-        "similarity": 0.6047
+        "similarity": 0.6047,
+        "semantic": 0.9129,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "das ich ouch ſprich/darumb meyn ich/das nit not ſye zü\nwiter bewärung/das ich die ſatzungen der heyligen Chri\nſtenlichen Kilchen/die vff die warheyt vnd gotts wort\nalſo gegründet iſt witer bewäre/ſo ſy doch hat den heilige\ny",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8674,
+        "semantic_match": "uff das Wort Gottes / das ich auch ſprich/ darum meyn ich / daß nit noht ſeye zuͤ wyter Bewaͤh=\nrung /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -113,7 +127,12 @@
         "b": "daß ich die Satzungen der heiligen Chriſtenli=\nY iij chen\n\n## Marginalien\nSuch\nhievor am\n151. blat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7277,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4845,

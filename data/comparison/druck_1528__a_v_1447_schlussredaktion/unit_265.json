@@ -45,7 +45,9 @@
         "op": "match",
         "a": "Das brot/das\nwir brechend/sye die gmeind des lychnams Christi/zeigt\nvns gnůg an durch die vrsachlichen red/die von stund=\nan hernach volget/das er võ dem brot redt/Das wir bre\nchend.",
         "b": "dam,\nDan an ersten, opt Da er spricht, Das brot\n& morn\ndas orie brechen, sie die grad Des lichnams\nChristi, zoigt vnns gnug an Durch die\nversachlichen rede, die von stund an, hernach\nwelget;",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.7617,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -57,13 +59,18 @@
         "op": "match",
         "a": "Das\ner darnach spricht: Ein brot vnd ein lychnam/sind wir\ndie menge. In den wortten erkennen ich wol/das er die\nKilchen das Brot nempt/Er spilt aber daruff/das sy\ndeß vsseren Sacramentlichen brot halb/das die Kilch\nmiteinandern teylt/ein brot vnd ein lychnam sye.",
         "b": "Das er von Dem Brot radt das\nwir brechen, Das er wer dannechin spricht,\nDas wir, so dasselbige brot, mit einanderen brochen\nsind die gemeind des lichnams Christi Das\nist ein lyebliche der tropen, Das er dar¬\nnach spricht ein brot vnnd ein lichnam,\nwir die minge, In den worten\nsind\nkerkennen ich woll, Das er die kirchen, Das\nbrott rempt, er spillt aber daruff, das sy\nDes osserij sacramentlichen bret hale.",
-        "similarity": 0.35
+        "similarity": 0.35,
+        "semantic": 0.8149,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "So er\nvon stundan spricht/vnd vrsach gibt/Warumb er ouch\ndie Kilch Ein brot vñ Ein lychnã genempt habe:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6712,
+        "semantic_match": "Das\nDie kilch mit einanndern thallt, ein brott\nSo er von stunden\nVnnd ein lichnam sys\nJan spricht vnnd vrsach geptt.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -87,9 +94,16 @@
         "op": "match",
         "a": "yedoch\nso wirt hie des lychnãs Christi nit lyblich gedacht. Aber\ndes wirdt gedacht in einer sum̃/das wir die menge/das\nist die Christenlich gemeynd/ein gemeind des lychnams\nvnnd Blůts Christi sygend/ein Brot vnnd ein lychnam\nsygend.",
         "b": "Das is ein\nErsach Inn dem worth, da er sprichtt\nDann welches ein Vrsach gijt, warumb\nvoorss. genampt habe, ein brott vnnd einen lichnam\ngedoch so wirt hie des lichuams Christi\nint lyblich gedacht, Aber des wirt\ngedacht In einen Sum Das wir die meeste\nDas ist Die Christenlich gemeind, ein gemeine",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.6971,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7362,
+    "reworded": 3,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4946,

@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Schlußred. Pfarrer von Sant Gallen. DAls min lieber herr Doctor vermeint/das wort\nIſt/ſölle nit wåſenlich vßgeleyt werden/wann\nes des erſten /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6306,
+        "semantic_match": "Arb. G\nThe Ceterie being\nwegen des\ngelenckte\nder Eigne zu\nenci\nWunster Amst\n169\nDie vierd Schlußrad\nDas my Neben her Doctor vermeint, das wortt\nist.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -45,13 +48,17 @@
         "op": "match",
         "a": "der Analogia des gloubens zů wider\nſye/ſoll mines verſtands nit zůgelaſſen werden/dañ wie\nwol es vnſerm verſtand/als o vernunfft/gantz widrig/",
         "b": "selle niet wesenlichen oßgelen werden, Wann\nes des ersten, der Analogia des glaubens zu wider sy\nSoll minnes verstands int zugelassen werden.",
-        "similarity": 0.3913
+        "similarity": 0.3913,
+        "semantic": 0.4232,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "ſo man aber ſicht die verglichung/des alte͂ Teſtaments/ in nieſſung des låmblins/vor angezeygt/vnd yetz in ſy=\nnen worten/ſoll es (als ich acht) den glöubigen/zů ande=\nrer vßlegung nit bekuͤmbern:",
         "b": "Dan\nwie woll es vnserm verstand allß der vernunfft\ngants ordreert, So man aber sich die vergleichung des\nallten Testamens In messung des lenclins vor ange¬\nzeigt, vnnd Jetz In smen overten, soll es (alls ich acht)\nDen glauwen zu amderer ustlegung int bekumbern dan\nDen es redt, dem gewallt, geben Im himell vnnd\nvff erden /",
-        "similarity": 0.3297
+        "similarity": 0.3297,
+        "semantic": 0.5042,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -63,13 +70,17 @@
         "op": "match",
         "a": "Dañ hie ein Tropum oder\nbeduͤtlich vßlegung anzenemen/ſoll mitt duͤrrer häller\ngeſchrifft/die gewüßne verſichert werden. Von d men=\nſchlichen natur/wirt dem ſelbigen niemand abſin/das es\nvon dem ſamen Abrahe beſchehen:",
         "b": "ergathei am xxviij capn. zum Ephestern\nam 1 cap: Dann hie ein trosum oder bedurich vsser¬\nging, anzenemen, soll mit durper halber g schrifft,\ndie gewißne versichert werden, von der Moustlichen\nneur wirt dem selbigen niem and absin Das es\nObrache besthechen, vnd over\nvon dem samen\nen noturlich warer monsten ist gesin.",
-        "similarity": 0.382
+        "similarity": 0.382,
+        "semantic": 0.6337,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnd wie er natuͤrlich\nwarer menſch iſt geſin. Derglichen vmb willen der ver=\neinten Gottheit/vnd der beyden naturen vermiſchung/",
         "b": "Derglichen\nvmb willen. Der vereinsten gottheitt vnnd der\nbeiden naturen vermischung, hatt en vill wer¬\nnatürlichs gethan, Alls da ist die erklärung\noff Dom Berg/",
-        "similarity": 0.3043
+        "similarity": 0.3043,
+        "semantic": 0.7293,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -81,13 +92,17 @@
         "op": "match",
         "a": "Item ouch das er\nſinen vienden entgieng enmitten vß ir henden. Luc. am\niiij. Cap. Vff den anzug mins herrn Doctors von anne=\nmung des Brots in ſin natur.",
         "b": "Macher am xvii cap. Item\nonch Das er sinen vienden en entgrengen, en mitten\noff\nvss Ir hemden, Lucas iiii cap:",
-        "similarity": 0.32
+        "similarity": 0.32,
+        "semantic": 0.4326,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Sag ich nit das/das brot\nzů göttlichem wåſen vereiniget werde/ſonder das in de͂\nbrot vns d Lyb Chriſti vñ vnder de͂ win das bluͤt Chri\nſti vß Göttlicher krafft/lut d worten vßgeteylt werde.",
         "b": "Den anzug minst hern Doctors van annemund\nDes brots Inn sin natur. Sag ick mit das das\nbrot zu getlichem wesen vereiniget werde, somder das\nIn dem brot, das vns der lijb Christi vnnd\nvnder dem win das blut/ Christi, v/ götlicher\nEen\no",
-        "similarity": 0.3704
+        "similarity": 0.3704,
+        "semantic": 0.6666,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -95,7 +110,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.5743,
+    "reworded": 3,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.438,

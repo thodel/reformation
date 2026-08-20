@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Süch hienor\nam 193 blat. Die ſechſte\nES iſt anzeigt gnůgſam/das wir haben ein eynigen mitler. j. Timoth. ij.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6494,
+        "semantic_match": "274\nDie. vi. Schlussredi\nJohannes bijchstab\nSr. haben noch nitt bewijdt, das si nitt fuij vns bit: ten mogen\nBerchtoldus hafter\n8 Ist anzoigt gnugsam, das wir haben om einigen\nmittler, Prima ad Thuno.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -45,7 +48,9 @@
         "op": "match",
         "a": "vnnd j. Johannis. ij. Vn̄ das bätt/diewyl es ſol vß dem glouben beſchehen/vnd der hoffnung/vnd aber die vßerwelten heyligen darůber ſind/ſo volget/das ſy nit bätte.",
         "b": "ijo prima Johannis. ii. E vnd das batt, die wil es sol vsz. dem glauben beschaech¬\nen, und der hoffnung, vnd aber die vserwelten heili¬\ngen darüber sind, So volgt, das si niet betten,\nJohannes buchstab,\nTwee Ingefurten Opruch wurden vns glich als wol\nerhalten, das wir labendijgen nitt mochten bitten,\nals die todten, Das aber die heiligen bitten, Ha:",
-        "similarity": 0.3778
+        "similarity": 0.3778,
+        "semantic": 0.8078,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -63,13 +68,17 @@
         "op": "match",
         "a": "Es\niſt geſetzt oder geſtelt/in das vrteyl der wächtern/vnnd\ndie red der heyligen/vñ das bitt. Hie iſt heyter anzeigt/",
         "b": "ben wir krundtschaft, Danielis, iiii. So also dat\nNun war der wachter, vnd der heilig, Ist abgesti¬\ngen van himel, Volgot Thier daruf han:ach, Es\nIst gesagt oder gestelt, In das vrteil der wichtern,\nvnd die Red der heiligen, vnd dan bitt, hie Ist heit¬\nter anzogt, das die heiligen Im.",
-        "similarity": 0.3514
+        "similarity": 0.3514,
+        "semantic": 0.4401,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "das die heyligen im himmel bättend. Berchtoldus\nVf das erſt volget nit/Die Säligen bitten nitt\nfür vnns/oder/Chriſtus iſt ein einiger mittler/",
         "b": "himel, battenn,\nWerchtoldus haller\noff das erst volgot nitt, die daligen bitten mitt\nfür vns, oder Christus Ist ein einiger mittler,\ndarmus sollen wie nitt fur ein andren bittenn,",
-        "similarity": 0.4151
+        "similarity": 0.4151,
+        "semantic": 0.657,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -93,7 +102,10 @@
         "op": "only_a",
         "a": "in der ſchrifft/allen Chriſten zůgelegt wirt/Als ſich erfin\ndet by der Epiſt. des heyligen Pauli/in der. j.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6186,
+        "semantic_match": "274\nDie. vi. Schlussredi\nJohannes bijchstab\nSr. haben noch nitt bewijdt, das si nitt fuij vns bit: ten mogen\nBerchtoldus hafter\n8 Ist anzoigt gnugsam, das wir haben om einigen\nmittler, Prima ad Thuno.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -101,7 +113,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6346,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3607,

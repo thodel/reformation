@@ -33,19 +33,28 @@
         "op": "only_a",
         "a": "Schlußred. Pfarrer von Alpentzell. Vlyßt der wol welchen lyb er jnen gebe͂ hatt/der\njnen das empfolhen hat/ſprechend: Thůnds in\nmyner gedechtnus/Den lyb der gelitten hatt/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7642,
+        "semantic_match": "Pfarrer von Appenzell. So er mich fragt/ob der lyb Chriſti da lyplich\nvnnd empfindtlich geeſſen werd/ſprich ich nein/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Den lyb der zehimel gefaren iſt. Waltherus Klarer. Eſsen wir den lychnam/der für vns gelytte͂ hat\nſo můſſen wir jn ouch empfindtlich eſsen/dañ er\nhatt empfindtlich gelitten:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7612,
+        "semantic_match": "Waltherus Klarer. Ir doͤrffen mich nit fragen / gebend antwurt\nvff min Sylogiſmum / ob der lychnam Chriſti lyp=\nlich vnd empfindtlich geeſſen werde.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "welches eſsen aber\nnit iſt. Pfarrer von Alpentzell. D Als er jnen/ſin wäſenlichen lyb blůt vnd fleyſch\nvnder der geſtalt des brots vnnd wyns zů eſsen\ngeben hab/findt man dargethon in miner inge=\nleyten gſchrifft.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8409,
+        "semantic_match": "Schlußred. CLXXXIX\n\ngeben hab/ſindt man dargethon in miner ynge=\nleyten gſchrifft. Was woͤllẽ wir ſuͤchẽ ordnung\nder natur /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -57,25 +66,33 @@
         "op": "match",
         "a": "Was wöllen wir ſůchen ordnung der na\ntur/an dem der da übernatürlich gebozen iſt/als vnſer\ngloub klärlich anzeygt.",
         "b": "an dem der da uͤbernatuͤrlich geboren\niſt/als vnſer gloub klaͤrlich anzeygt: Geboren vß\nder Junckfrouwen Maria/ꝛc.",
-        "similarity": 0.439
+        "similarity": 0.439,
+        "semantic": 0.4099,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Gebozen vß der Junckfrouwen\nMaria/rc. Vnd laſſes alſo by ingelegter Copy beliben. Waltherus Klarer. S lyt nit an üwer geſchrifft/jr hand veriehen/",
         "b": "Vnnd laſſes alſo\nby yngelegter copy beliben. Waltherus Klarer. Es lyt nit an uͤwer gſchrifft/jr hand verjehen\ndas wir den getoͤdtnen /",
-        "similarity": 0.5417
+        "similarity": 0.5417,
+        "semantic": 0.9037,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das wir den getödtenen/oder gecrützgoten lych=\nnam eſsen. Nun hat er empfindtlich gelitten/ſo\nmůſſen wir jn ouch empfindtlich eſsen.",
         "b": "oder gecruͤtzgeten lych=\nnam eſſen. Nun hat er empfindtlich gelitten / ſo\nmuͤſſen wir jn ouch empfindtlich eſſen. Pfarrer von Appenzell.",
-        "similarity": 0.6977
+        "similarity": 0.6977,
+        "semantic": 0.7793,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Pfarrer von Alpentzell. Frag ich jn ob doch Chriſtus ein andern lyb hab/ dann in dem er gelitten/geſtorben oder zehimel\ngefaren ſye/oder ob er mer dañ einen lyb hab. Tt iij",
         "b": "Frag ich jnn ob doch Chriſtus ein anderen lyb\nhab/dañ in dem er gelitten/geſtorben od zehimel\ngefaren ſye/oder ob er mer dañ einen lyb hab.",
-        "similarity": 0.7869
+        "similarity": 0.7869,
+        "semantic": 0.9591,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -101,7 +118,12 @@
         "b": "referier mich widerumb vff min\ndargelegte gſchrifft. Waltherus Klarer. Wirt er nit empfintlich geeſſen/ſo iſt er nit im\nSacrament. Aa v",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.774,
+    "reworded": 0,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4192,

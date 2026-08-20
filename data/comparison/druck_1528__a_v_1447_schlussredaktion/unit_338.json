@@ -33,25 +33,35 @@
         "op": "match",
         "a": "CLXX\n\nDiß ist die fünffte Schlußred. Die Mäß yetz im bruch/darinn man\nChristū/Gott dem vatter/für die sünd\nder läbendigen vnnd todten/vffopffere/ist\nder geschrifft widrig/dem aller heiligosten\nopffer/lyden vnd sterben Christi/ein leste=\nrung/vnd vmb der mißbrüchen willē/ein\ngrüwel vor Gott.",
         "b": "236\nDie fünfte Schlussred\nDie Maͤss jetz Im bruch, darinn man Christum,\nGott dem vatter, für die Sund der läbendigen vnd todten\nvfopfore, Ist der geschrift widrig, Dem allerheiligosten\nOpfer, liden vnd Sterben Christi, ein lesterung, vnd\nvmb der mißbruchen willen, ein grüwel vor gott,\nBerchtoldus Haller,\nDas Ist vnser grund, prima Johannis iiij.ͦ welicher\nChristum hat erkendt, der weist, das Er gott vnd mensch,\nEin Heiland Ist der welt, vnd das niemand mag zum\nvatter komen, dann allein durch Christum, Johan¬\nnis.",
-        "similarity": 0.4662
+        "similarity": 0.4662,
+        "semantic": 0.7638,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Berchtoldus Haller. Das ist vnser grund/ in der j. Epi. Johannis iij. capitel. Welcher Christū\nhat erkennt/der weyßt/das\nEr/Gott vnnd mensch/ein\nheyland ist der welt/vnd dz\nniemand mag zum Vatter\nkommen/dann allein durch\nChristū/Johannis vj.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.703,
+        "semantic_match": "lx iij.ͦ  Er hat vff alle wiß, vff das\n4 Ver\ngnügsamest, für vns bezalt vnd gnüg gethan, am\nkrütz, wo anders  One das wir Im vertrüwen, welicher\nnun leugnet, das Christus vns erloͤst hab, oder ver¬\nmeindt, das Er vns nitt vff ein mal erloͤst hab, Oder\ndas Er vns nitt vff alle wiß erlͤst hab, wie wir\nsolten erloͤst werden, der macht Christum, zu Ei¬\nnem vnuolkomnen Priester vnd erloͤser, vnd verleug¬\nnot also sinen, Das beschicht nun durch alle,\nSo Christum von nüwem vfopferen wellen, dann\nSi ver vermeinen, das wir durch das vertrüwen, vff\ndie volkommen vßrichtung vnsers Herren Jesu chri¬\nsti, saͤlig werden, vnd gaͤben das Heil den wercken,",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Dañ\ner ist dem vatter so lieb/das\ner vmb sinentwillen/vns be\ngnadiget. Er hat ouch das werck der erlösung/volkom=\nme vßgericht/one alle mitgehülffen/Esaie.lviij.",
         "b": "vj.ͦ Dann Er Ist dem vatter so lieb, das Er vmb\nSinent willen, vns begnadigot, Er hat ouch das werck\nder Erloͤsung, volkomen vsgericht, aue alle mittge¬\nhilffen, Esaÿe.",
-        "similarity": 0.5763
+        "similarity": 0.5763,
+        "semantic": 0.8351,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Er hat\nvff alle wyß/vff das gnügsamest/für vns bezalt/vnnd\nDu ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8002,
+        "semantic_match": "lx iij.ͦ  Er hat vff alle wiß, vff das\n4 Ver\ngnügsamest, für vns bezalt vnd gnüg gethan, am\nkrütz, wo anders  One das wir Im vertrüwen, welicher\nnun leugnet, das Christus vns erloͤst hab, oder ver¬\nmeindt, das Er vns nitt vff ein mal erloͤst hab, Oder\ndas Er vns nitt vff alle wiß erlͤst hab, wie wir\nsolten erloͤst werden, der macht Christum, zu Ei¬\nnem vnuolkomnen Priester vnd erloͤser, vnd verleug¬\nnot also sinen, Das beschicht nun durch alle,\nSo Christum von nüwem vfopferen wellen, dann\nSi ver vermeinen, das wir durch das vertrüwen, vff\ndie volkommen vßrichtung vnsers Herren Jesu chri¬\nsti, saͤlig werden, vnd gaͤben das Heil den wercken,",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -59,7 +69,12 @@
         "b": "lx iij.ͦ  Er hat vff alle wiß, vff das\n4 Ver\ngnügsamest, für vns bezalt vnd gnüg gethan, am\nkrütz, wo anders  One das wir Im vertrüwen, welicher\nnun leugnet, das Christus vns erloͤst hab, oder ver¬\nmeindt, das Er vns nitt vff ein mal erloͤst hab, Oder\ndas Er vns nitt vff alle wiß erlͤst hab, wie wir\nsolten erloͤst werden, der macht Christum, zu Ei¬\nnem vnuolkomnen Priester vnd erloͤser, vnd verleug¬\nnot also sinen, Das beschicht nun durch alle,\nSo Christum von nüwem vfopferen wellen, dann\nSi ver vermeinen, das wir durch das vertrüwen, vff\ndie volkommen vßrichtung vnsers Herren Jesu chri¬\nsti, saͤlig werden, vnd gaͤben das Heil den wercken,",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7755,
+    "reworded": 1,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.439,

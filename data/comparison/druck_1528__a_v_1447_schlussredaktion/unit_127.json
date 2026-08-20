@@ -39,43 +39,59 @@
         "op": "match",
         "a": "X.I Die erſt\n\niſt vns zů leer vñd vnderwyſuñg geſchriben. Jtem das\ngeredt wirt ſo einer prediget/ vñ den andern vnderwiſt\nvñd leeret/",
         "b": "ist/ Ist vns zuͦ leer vnd\nvnderwysung geschriben/ Item das geredt wort\nso einer predigbt vnnd den anndern vnderwysst\nvnd leret/",
-        "similarity": 0.5778
+        "similarity": 0.5778,
+        "semantic": 0.7588,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "als die Apoſtel vñd predicanten/ zů dicker=\nmal reden/ von vnderwiſung vñd leer willen/ ſo nit ge=\nſchriben ſtat/ wyter findt man in der gſchrifft ein heim=\nlich verkündt wort Gottes/",
         "b": "allß die Apostell vnd predicanten/ zuͦ\ndickermall reden/ von vnderwysung vnd leer willen\nso nit geschriben stat/ Wyter findt man In der\ngschrifft ein heimlich verkundt wort gottes von got\nIngesprochen vnnd gelert/",
-        "similarity": 0.6875
+        "similarity": 0.6875,
+        "semantic": 0.8113,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "von gott ingeſprochen vñd\ngelert Pſal. am lxxviij. Jch will loſen/ was gott in mir\nrede. Jtem Apocalipſis am iij.",
         "b": "psalmo/ am vi ͦ cap: Ich will losen/ was got/ In mir rede/ Item\nApocalipsis/ am iij ͦ cap: Ich stand zuͦ diner\npricht gyt\nthur vnnd klopffen/",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.5253,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Cap. Jch ſtand zů diner\nthür vñd kłopffen an/ ſpricht gott/ laſt man mich yn ſo\nkom ich hinyñ/ vñnd nůß das nachtmal mit den ſelben/",
         "b": "an / Ich/ Dat man mich In\nSo kum ich/ hinIn/ vnnd nüͤß das nachtmall\nmit denselbenn hievon spricht auch paulus\nIn der andern Epist:",
-        "similarity": 0.3137
+        "similarity": 0.3137,
+        "semantic": 0.7089,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "hieuon ſpricht ouch Paulus in der anderen Epiſtel: zůñ\nCorinthern am letſten Cap. Wend jr ein erfarung ſůchẽ\ndes ſin mir redt/",
         "b": "zum Chorinthern am lossen/ Cap: Wenndt ir ein erfarung suͤchen des der\nIn mir redt Christus / Nnn frag ich nun\nWas ic meynng\nherren die predicanten/",
-        "similarity": 0.3265
+        "similarity": 0.3265,
+        "semantic": 0.7086,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Chriſtus. Nun frag ich min herren die\npredicanten/ was jr meynung ſye in jren gemelten arti=\nkelen/ ob die Kilch geboren werde/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6931,
+        "semantic_match": "waen\nherde\nhet\naner\ni\nDie erst schus red\nstatt/ ouch paulus zum Romern/ am vn cap: spricht\nAlles das da geschriben/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "vß denen gottes wor=\nten/ alleſampt/ oder vß einem beſonder. Berchtoldus. [M]Eyſter Niclaus hat ingefürt ein lange red dar\nuff ein kurtze antwurt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6524,
+        "semantic_match": "waen\nherde\nhet\naner\ni\nDie erst schus red\nstatt/ ouch paulus zum Romern/ am vn cap: spricht\nAlles das da geschriben/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -87,7 +103,9 @@
         "op": "match",
         "a": "Die Kilch gottes iſt ge\nboren vß dem wort Gottes das Gott läbendig\nmacht/ ja er redt in vnſere hertzen/",
         "b": "ein lange red\ndie kilch gotes\nDaruff ein kurtze antwurt\nIst geborenn vsß Dem wort gottes/ Das gott",
-        "similarity": 0.4211
+        "similarity": 0.4211,
+        "semantic": 0.5789,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -99,9 +117,17 @@
         "op": "only_a",
         "a": "vñd\nPetri in der erſten Epiſtel. j. Cap. Senger. [J]Tzt wird ich bewegt vß der geſchrifft/ das eint\nChriſten menſchen etwas mer zehalten vñd zů\nglouben ſig/ deñ in der Bibliſchẽ gſchrifft heyrer\nvßtrucke",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6302,
+        "semantic_match": "waen\nherde\nhet\naner\ni\nDie erst schus red\nstatt/ ouch paulus zum Romern/ am vn cap: spricht\nAlles das da geschriben/",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.6742,
+    "reworded": 2,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4706,

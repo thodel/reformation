@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Schlußred. CXIII\nBuͦchstab. DJe wort Johannis am vj. capit. die anzeigend\ndas künfftig/ Die wort Christi/ Luce am xxij.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6686,
+        "semantic_match": "Jr wüssend wol / das wir jetzund\nnit von wegen der Leerer versamlet sind. Bůchstab. DJe wort Johannis am 6. Capitel /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -63,31 +66,41 @@
         "op": "match",
         "a": "die anzeygend die gegenwürtig geschicht/ Die\nwort Pauli in der j. Epi. zum Corinth. xj. cap. zeigend gnuͦgsam an die vßgangnen geschicht.",
         "b": "die anzeigend\ndas künfftig/ Die wort Christi / Luce am 22. die\nanzeigend die gegenwürtig Geschicht / Die wort\nPauli in der ersten Epistel zun Corinth.",
-        "similarity": 0.4255
+        "similarity": 0.4255,
+        "semantic": 0.6687,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Nun ist dz\nkünfftig/ das gegenwürtig/ vnd das vergangē/ wie her\nnach wyter anzeigt wirt/ einandren glychförmig/ daruͤb\nes sonderer gloß nit mer bedarff.",
         "b": "11. Capitel/zei=\ngend gnügsam an die vergangnen Geschicht. Nun ist das\nkünfftig / das gegenwürtig / vnd das vergangen / wie her=\nnach wytter anzeigt wirt/einandren glychförmig/darumb\nes sonderer gloß nit mer bedarff.",
-        "similarity": 0.6897
+        "similarity": 0.6897,
+        "semantic": 0.8395,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Dz aber min herr Do=\nctor spricht/ das ich hab haryn gefuͤrt die Doctores/ hab\nich kein spruch vß jnen haryn gefuͤrt.",
         "b": "Das aber min Herr\nDoctor spricht/das ich hab haryn gefürt die Doctores/ hab ich kein Spruch vß jnnen harin gefuͤhrt.",
-        "similarity": 0.6957
+        "similarity": 0.6957,
+        "semantic": 0.8929,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Als aber herr Bu=\ntzer in vergangnen tagen/ har haryn gefuͤrt/ Eusebium\nvnd Augustinum/ daby laß ichs blyben yezmal/",
         "b": "Als aber\nHerr Butzer in vergangnen Tagen/hat haryn gefuͤrt/Eu=\nsebium vnnd Augustinum/daby laß jchs blyben jetzmal/",
-        "similarity": 0.7
+        "similarity": 0.7,
+        "semantic": 0.8751,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "uͤber dz\nJohannis am vj. capitel. Sich hieuor\nam 31..96.blat\n\nEcolampadius. SHat der Schuͦlmeyster vnder anderen mäl=\ndung than/",
         "b": "über das Johannis am 6. Capitel. Ecolam=\n\n## Marginalien\nSuͤch\nhievor\nam 66. 208. blat.",
-        "similarity": 0.3158
+        "similarity": 0.3158,
+        "semantic": 0.5802,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -105,9 +118,17 @@
         "op": "only_a",
         "a": "Was ich in minem buͤchlin\nhab lassen vßgan/ wil ich mit der warheit dar=\nbringen. ff ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8139,
+        "semantic_match": "Jr wüssend wol / das wir jetzund\nnit von wegen der Leerer versamlet sind. Bůchstab. DJe wort Johannis am 6. Capitel /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7627,
+    "reworded": 1,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3614,

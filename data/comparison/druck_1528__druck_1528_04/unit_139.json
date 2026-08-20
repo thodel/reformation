@@ -63,51 +63,77 @@
         "op": "match",
         "a": "**Schlußred.**\n\nstadt/das/das sy geredt haben/ist vß der goͤttlich ynge\nblaßnen gschrifft/Vnd harwiderum/alles das von gott\nyngeblasen ist/das hand sy fuͤr goͤtlich gschrifft/doch mit\ndem ynschluß/das in dem Herren Christo Jesu alle pro\npheten gehoͤrt habend/ja ouch biß vff Johansen/Luce\nam vvj.ca.deßhalb sy keine nuͤwe ruͤmer der offenbarun\ngen annemen/die da uͤtzid bringed/dz da widrig sye dem\nDas vor Christo geschriben ist/biß vff jn:",
         "b": "ja ouch\nbiß vff Johanſen/Luce am xvj.ca. Deßhalb ſy\nkeine nüwe růmer der offenbarungen annem̃en/ die da nützid bringen/das da widrig ſye dem/dz\nvor Chriſto geſchriben iſt/biß vff jn:ouch dem/",
-        "similarity": 0.4098
+        "similarity": 0.4098,
+        "semantic": 0.7972,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ouch dem/das\ndie handlung Christi begryfft: dann nuͤtzid mag mer her\nfuͤr bracht werden/das im Herren Christo Jesu/als in\ndem liecht des gsatz/vnd des geists nit eroffnet sye.",
         "b": "das die handlung Chriſti begryfft: Dann nützid\nmag mer herfür bracht werden/das im Herren\nChriſto Jeſu/als in dem liecht des gſatzes/",
-        "similarity": 0.7018
+        "similarity": 0.7018,
+        "semantic": 0.9128,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "**Am zwoͤlfften tag Jenners/was**\nSonntag vor dem XX. tag\n\n**Meister Niclaus Senger.**\n\nL Jeben frommen Christen/als jr gestern spade/",
         "b": "vnd\ndes geiſts/nit eröffnet ſye. Am zwólfften tag Jenners/was\nSonntag vor dem XX.tag. Senger. Lieben frommen Chriſten/als jr geſtern ſpadt",
-        "similarity": 0.6522
+        "similarity": 0.6522,
+        "semantic": 0.891,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "das ist vff Sambstag ze abennt/gehoͤzet/wie\nherr Berchtold vff min anzuͤg aͤbe schmaͤchlich\ngeantwurt hat/vnd aber zespat was in die sa=\ndern zerede/wil ich min antwurt hie in gschrifft ynlegen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6989,
+        "semantic_match": "ſonders der ſinn Pauli iſt der: Ein yede gſchrifft die von Gott yngeblaſen iſt. Alſo vermag ouch der text:Die iſt ouch nutzbar\nzů der leer.Hieby fromen Chriſten/merckt üwer\nlieb/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Zum ersten/als herr Berchtold sprach/Lieben fromen\nChristẽ/mercked hie welcher vnd uns mer die eer gottes\nsuͤche in de so ich erken Jesu Christũ fuͤr ein einig houpt/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8422,
+        "semantic_match": "Vnd herwiderum̃/ alles das von Gott\nyngeblaſen iſt/das hand ſy für gôttlich ſchrifft: Doch mit dem ynſchluß/das in dem Herrẽ Chri\nſto Jeſu alle Prophetien gehórt habend/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "der Christeliche Kilche/vn aber D. Niclaus soͤlche eer/ ouch eim andrẽ mẽsche gebe wil. Vff dz antwurt D.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6875,
+        "semantic_match": "ſonders der ſinn Pauli iſt der: Ein yede gſchrifft die von Gott yngeblaſen iſt. Alſo vermag ouch der text:Die iſt ouch nutzbar\nzů der leer.Hieby fromen Chriſten/merckt üwer\nlieb/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Ni\nclaus: Jr thuͤnd mir hie zekurtz/jch begaͤr die eer Christi\nin dheinen weg zeminderen/sonders zemerenn:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8192,
+        "semantic_match": "ſonders der ſinn Pauli iſt der: Ein yede gſchrifft die von Gott yngeblaſen iſt. Alſo vermag ouch der text:Die iſt ouch nutzbar\nzů der leer.Hieby fromen Chriſten/merckt üwer\nlieb/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "dann ich\nmit Paulo zun Collossensern/am j. capit. Christum er=\nkennen/fuͤr das obrist houpt der heyligen Kilchen: dann\nQ ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6775,
+        "semantic_match": "ſonders der ſinn Pauli iſt der: Ein yede gſchrifft die von Gott yngeblaſen iſt. Alſo vermag ouch der text:Die iſt ouch nutzbar\nzů der leer.Hieby fromen Chriſten/merckt üwer\nlieb/",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7908,
+    "reworded": 1,
+    "candidates": 5,
+    "recovered_by_embedding": 5,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3855,

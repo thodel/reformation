@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "vnd gib antwurt erstlich des spruchs halbē/ der geystlich\nricht alles/zc. Diewyl wir wüssen das vnser widerpart/ das vrteilen dahin zühen wil/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7569,
+        "semantic_match": "Diewyl wir\nwüſſen das vnſer widerparth/das vrteylen da\nhin ziehen wil/das ein gemein Concilium macht\nhab/etwas nåbend der ſchrifft anzenem̃en:",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -51,19 +54,26 @@
         "op": "match",
         "a": "das ein gmein Concilium\nmacht hab/ etwas nebend der geschrifft anzenemen/ hab\nouch erstlich der schrifft / Das ansehen geben / so ist Billich\ngeantwurt worden/",
         "b": "hab\nouch erſtlich der gſchrifft das anſechen geben/ſo\niſt billich geantwurt worden/dz der geyſtlich die\ngſchrifft nit zerichten hab:",
-        "similarity": 0.4889
+        "similarity": 0.4889,
+        "semantic": 0.8162,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "das der geystlich die geschrifft nit ze=\nrichten hab/ das ist sins geuallens die geschrifft anzenem\nmen oder zeuerwerffen/ sonder er hats allein müssen an=\nnemen/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7917,
+        "semantic_match": "Dann wie ein yeder gerechter ſines eygens\ngloubens gelåben můß/alſo můß er ouch die ge=\nſchrifft vnd wort Gottes/für ſich ſelbs vrteylẽ\nvnd erkennen/er wåre ſunſt nit Gott glöubig/ deß",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "dann er åben durch den geyst sin erkantnus hatt/ durch welchen die Bibel vns geben ist / so aber min herr\nDoctor das vrteylen verston will / wie es ouch Paulus",
         "b": "das iſt ſins gefallens\ndie gſchrifft anzenem̃en oder zů verwerffen/ſon\nder er hats allein müſſen annemen: dann er åben\ndurch den geiſt ſin erkantnuß hat/durch welche\ndie Bibel vns geben iſt.",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.7741,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -83,7 +93,12 @@
         "b": "Dann wie ein yeder gerechter ſines eygens\ngloubens gelåben můß/alſo můß er ouch die ge=\nſchrifft vnd wort Gottes/für ſich ſelbs vrteylẽ\nvnd erkennen/er wåre ſunſt nit Gott glöubig/ deß",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7847,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4174,

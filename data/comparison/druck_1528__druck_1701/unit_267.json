@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Die vierde\ndes geyſts/ꝛc. Zů erklårung diſers texts/ iſt zů mercken\ndas Paulus in der ganzen Epiſtel die Corinthiern vß vi\nlen vrſachen zwyſpaltig/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6377,
+        "semantic_match": "Die Vierdte Schlußred. 261\n\nEs muͤß hie alſo verſtanden werden. Die Ort die wir ha-\nben anzogen / und inſonderheit vß dem Johanne /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -63,25 +66,33 @@
         "op": "match",
         "a": "begert in einigkeit zebringē/ vñ\ndiewyl jr etlich ouch noch gemeinſchafft hatten/ mitt den\nabgötiſchen/ das dañ ouch zů vneinigkeit diener/",
         "b": "daß Paulus\nin der gantzen Epiſtel die Corinther vß vilen urſachen zwy-\nſpaͤltig / begehrt in Einigkeit zebringen : und diewyl ihr\netlich auch noch Gemeinſchafft hatten mit den Abgoͤtti-\nſchen /",
-        "similarity": 0.3077
+        "similarity": 0.3077,
+        "semantic": 0.4591,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "ſo fürt\ner ſy zů Chriſtenlicher einigkeit/ zeygt jnen an/ wie ſy ge=\nmeinſchafft haben an dem lyb vnd blůt Chriſti/",
         "b": "das dann auch zuͤ Uneinigkeit dienet / ſo fuͤhrt er\nſy zuͤ Chriſtenlicher Einigkeit / zeigt ihnen an / wie ſy Ge-\nmeinſchafft haben an dem Lyb und Bluͤt Chriſti /",
-        "similarity": 0.68
+        "similarity": 0.68,
+        "semantic": 0.8892,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "darumb\nſy billich vngetrennt ſöllen ſin: vnd wender jnen für wie\nſy ſich doch ſelbs bezůgē/ ſöllicher gmeinſchafft i den Sa=\ncramenten/",
         "b": "darum\nſy billich ungetrennet ſoͤllen ſyn / und wendet ihnen fuͤr/ wie ſy ſich doch ſelbs bezuͤgen ſoͤlicher Gemeinſchafft in den\nSacramenten /",
-        "similarity": 0.383
+        "similarity": 0.383,
+        "semantic": 0.6133,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vñ ſagt Jch red mit üch als mit den verſten\ndigen: das iſt als mitt denen die da",
         "b": "und ſagt: Jch red mit euch als mit den\nVerſtaͤndigen / das iſt / als mit denen / die da wol ver-\nſtahnd /",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.5953,
+        "reading": "check"
       },
       {
         "op": "only_b",
@@ -113,7 +124,12 @@
         "b": "Dann wir die vil / ſind ein Brodt/ Kk ij\t\tein",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6389,
+    "reworded": 1,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.307,

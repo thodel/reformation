@@ -51,7 +51,9 @@
         "op": "match",
         "a": "Die oberſt eer Got=\ntes iſt/ſo er ſich lut ſines worts/vns mitteylt: vnd iſt im\nnit (vnſers verſtands) vnerlich/ſo ſin lyb im brot geno\nmen/vnd ſin blůt im wyn getruncken/ſo er doch ſine ge=\nbott vns tåglich vß gůtigkeit übertretten laſſet.",
         "b": "Gallen\nVff die amt wurt se suchind die eer goetes\nvnnd den namplichen verstand Ist vnnser\nantwort, Das kein besserer verstand furbracht\nwerden mag, dann ystchrifft mitt gsthafft\nzu erklaren, In welchem die heiligen En ange¬\nlijten emmuteugklich mitsampt Dem paulo\nDie wort des nachtmals beschreiben vnd keiner\nred niendert\nbedutlicher anemen gedencken Die oberst eer\nyours ist, so er sich lint sines worts, vns mit\ntheilt, vnnd ist Im nit (vnsers verstands)\nvuerlich, so sin lijb Im brot, genomen vnnd\nVier doch\nsin blut Im Aem getruncken\nsijne gepot, vns täglich vnnd, sijungkert wertreten\nlasset, von der out Zereden hatt min her docter\nnochmalls, kein sollich gleichnus vff der ree\nvoorss.",
-        "similarity": 0.3291
+        "similarity": 0.3291,
+        "semantic": 0.5971,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -69,7 +71,10 @@
         "op": "only_a",
         "a": "capi. Ouch die Tub/ Matthei am .iij. ca. Vom Båcher ſagt niemant anderſt\nnach gemeinem bruch/Das iſt Ryſſwin oder Wålſch=\nwyn/gibt aller verſtand/das darum holtz oder ſilber nit\niſt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6336,
+        "semantic_match": "am ii cap. onch die thue machi¬\nam iiij cap: vom Decher sagt niemand nach\n20\nduxt",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -95,7 +100,12 @@
         "b": "am ii cap. onch die thue machi¬\nam iiij cap: vom Decher sagt niemand nach\n20\nduxt",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6154,
+    "reworded": 0,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3758,

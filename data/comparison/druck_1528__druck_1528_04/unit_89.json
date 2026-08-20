@@ -33,37 +33,51 @@
         "op": "match",
         "a": "Schlußred. XXXVII\n\nDie prh. Wunderred. Sarumb achten wir das vß goͤttlichem Radt be-\nschechen sye/das die Kilch vil Euangelia/",
         "b": "Die erſt\nDie xxv wunderred. Darum̃ achten wir das vß goͤttlichem Radt\nbeſchehen ſye/das die Kilch vil Euangelia/wel\ncher etlich gehalten wurden/vñ das ſy die Apo=\nſtel/als Thomas /",
-        "similarity": 0.5556
+        "similarity": 0.5556,
+        "semantic": 0.8587,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "welcher etlich\ngehalten wurden/vnd das sy die Apostel/als Thomas/ Mathias / Bartholomeus / soͤltenn geschriben haben\nverworffen hat/vnd vns zuͤ glouben fuͤrgebẽ/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6704,
+        "semantic_match": "vnnd verſtadt aber hie durch die Kilch das\ngemein concilium vnnd den gemeinen huffen d̃\ngetoͤufftẽ/woͤllich offt geſtrackts wid̃ das wort\nGottes gehandlet haben/ſchwaͤre jrrthum̃ vnd\nabgoͤtteryen\n\n## Marginalien\n[unleserlich]",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "wie Mar\ncus vnd Lucas/die nit Apostel sind gewesen/geschriben\nhaben. Die prov. Wunderred. Samit offenlich kundt werde/ yederman/",
         "b": "Matthias/ Bartholomeus/ ſoͤlten geſchriben haben/verworffen hat/vñ vns\nzůglouben fuͤrgeben/wie Marcus vnd Lucas/ die nit Apoſtel ſind geweſen/geſchriben haben.",
-        "similarity": 0.4545
+        "similarity": 0.4545,
+        "semantic": 0.7136,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "wie die\nuͤberheylig Kilch alle uͤbertrifft/das also ouch wurde by\njr sin das gericht aller leeren / ouch der Apostolischen /",
         "b": "Die xxvj wunderred. Damit offenlich kundt werde/yederman/wie\ndie uͤber heylig Kilch alle uͤbertrifft/dz alſo ouch\nwurde by jr ſin das gericht aller leren /",
-        "similarity": 0.64
+        "similarity": 0.64,
+        "semantic": 0.7811,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "also das was sy nit bewaͤrte/keyner stercke noch achtung\nsin soͤlte. Die prix. Wunderred. Sarumb ist nit weniger/vß goͤttlichem rechten an=\nzenaͤme/das sy die gemeine Kilch gloubt hat /",
         "b": "ouch der\nApoſtoliſchen/alſo das was ſy nit bewaͤrte/key\nner ſtercke noch achtung ſin ſoͤlte. Die xxjx wunderred.",
-        "similarity": 0.5357
+        "similarity": 0.5357,
+        "semantic": 0.7691,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "zum glou\nben gehoͤrend/vnd vns dasselbig zum wenigosten durch\njr annemen/zuͤ glouben fuͤrgebẽ/dañ das sy vns vß goͤt=\nlicher geschrifft hatt leeren glouben /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8192,
+        "semantic_match": "Darum̃ iſt nit weniger vß goͤttlichem rechtẽ\nanzenaͤmen/das ſy die gemeine Kilch gloubt hat\nzum gloubend gehoͤrend/vñ vns das ſelbig zum\nwenigeſten durch jr annemen zůglouben fuͤrge=\nben:",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -75,7 +89,9 @@
         "op": "match",
         "a": "zc. In diser letsten schlußred/zeyget oͤ Provincial Clar=\nlich an/dz vns anzenemen sye o",
         "b": "Dann das ſy vnns vß goͤttlicher geſchrifft\nhat leren glouben/etc. In diſer letſten ſchlußred/zeyget der Prouin\ncial klaͤrlich an/das vns anzenemen ſye ouch one\ngſchrifft/was die Chriſtenlich Kilch angenomen\nhab:",
-        "similarity": 0.3462
+        "similarity": 0.3462,
+        "semantic": 0.5483,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -83,7 +99,12 @@
         "b": "vnnd verſtadt aber hie durch die Kilch das\ngemein concilium vnnd den gemeinen huffen d̃\ngetoͤufftẽ/woͤllich offt geſtrackts wid̃ das wort\nGottes gehandlet haben/ſchwaͤre jrrthum̃ vnd\nabgoͤtteryen\n\n## Marginalien\n[unleserlich]",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7372,
+    "reworded": 1,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6227,

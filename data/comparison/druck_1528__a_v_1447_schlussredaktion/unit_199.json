@@ -45,37 +45,51 @@
         "op": "match",
         "a": "Schlußred. ſälig werden. Ich ſag aber/das der gloub ouch ein werck\nſye/ Johannis am vj. ca. ſprachen die jünger zů Chriſto:",
         "b": "Die dritt ende thushredt\nwird Ich nitt genotiget anzonamen, So Ist ouch\nnitt das min meinung, die man moge vss den\neinigen wercken, vsserthikken dan Christlichen\nglauben, Oalig werden, Ich sag aber, doch der\ngloub, ouch ein werck etc., Johannis am vj.",
-        "similarity": 0.375
+        "similarity": 0.375,
+        "semantic": 0.6979,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Was werden wir thůn/das wir verbringend die werck\nGottes? Antwurt Jeſus: Das iſt das werck Gottes/ das jr in den gloubind/den er geſandt hat/welichem glou\nben nachuolgen müſſen die werck/",
         "b": "Opachen\ndie Junger zu Christo, was werden wir tun, das\nwir verbringen die werck gottes, Andtwurt Jesus,\nDas Ist das werck gottes, das Ir In den glauben,\nden Ex gesandt hat, welichem gloulen nachuol:",
-        "similarity": 0.6567
+        "similarity": 0.6567,
+        "semantic": 0.8043,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Johannis am viij. ca. hat Chriſtus geſprochen: Sind jr ſün Abrahe/ ſo thůnd\ndie werck Abrahe. In ſuma/ ſo hat Chriſtus/(Datt het\nam xxv.",
         "b": "gen mussen die werck, Johannis am. viii. het\nChristus gesprochen, Vind Ir Gun Woche, So\ntune die werck Wrahe, In Omme so hat Christus\nMathei.",
-        "similarity": 0.52
+        "similarity": 0.52,
+        "semantic": 0.8147,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "anzeigt/Wie er werde am letſtẽ gericht/ zů den\nvßerwelten Gottes ſprechen: Komend har jr gebenedye\nten mines vatters/ beſitzend das rych das üch zůgericht\niſt von anfang der welt:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6745,
+        "semantic_match": "Ettlich zusamen ka: men, vnd Opachen, wellen wir nitt mitt ein: 20\nandren zachen, vnd einandren Oegten daruf, das\nwirdt vnser zach sin, wie mussen Schriben,\noder derglichen etwas thuijm, Da ware Schriben nitt\nhachen, wurde aber In nachifrender red, also ge¬",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Dich hat gehungert/vnd jr ha\nbend mich geſpyßt.ꝛc. Martinus Butzer. Als Dꝛ Johannis am vj. capit. Das iſt das\nwerck Gottes/das jr gloubind an den/den er\ngeſandt hat/",
         "b": "xxv. anzoegt, wie sy werde nu lesten ge¬\nricht, En den vferwelten gottes Oprachen, kom¬\nmend har Ir gebenedijeten mues vatters, besigene\ndas Rich, das vth zugericht Ist von anfang der\nwolt, Mich het gchnugrot, vnd Ir haben mich\ngespisten\nMartinus buijer\nDas Ist das werck gottes,\nDas Ort Johannis vi\nden\ndas Ir glauben, an den, Er gesandt hat, Ist ein\nnach afrende red, zu Griechisth, Unmesses, tdeff Latius,\nImitatio, genant, Als etc.",
-        "similarity": 0.3019
+        "similarity": 0.3019,
+        "semantic": 0.5195,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "Jſt ein nach åfrende red/zů Grie\nchiſch μίμησις, Latine, imitatio, genant/ als ſo etlich\nzůſamen kåmen/vnd ſpråchen: Wellen wir nit mit ein=\nandern zåchen/vnd ein andren ſagtẽ daruff/das wirr on\nſer zåch ſin/wir müſſend ſchrybẽ/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.742,
+        "semantic_match": "Pfinde\nErewilner\nernikierung\nDas diese\nverpliegen ist\nn'hier\nwirdt\nter lon de\nouch. & i. gurde\nin\nStuertigke\n& allein\nn.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -87,7 +101,10 @@
         "op": "only_a",
         "a": "Als hette er geſagt/ Jr fragend nach wer=\ncken/damit jr Gott gefallind: gloubtẽ jr an mich/dz wå\nre ein recht göttlich werck/vnnd wurde minem himmel=\nBb",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6048,
+        "semantic_match": "Pfinde\nErewilner\nernikierung\nDas diese\nverpliegen ist\nn'hier\nwirdt\nter lon de\nouch. & i. gurde\nin\nStuertigke\n& allein\nn.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -95,7 +112,12 @@
         "b": "Ettlich zusamen ka: men, vnd Opachen, wellen wir nitt mitt ein: 20\nandren zachen, vnd einandren Oegten daruf, das\nwirdt vnser zach sin, wie mussen Schriben,\noder derglichen etwas thuijm, Da ware Schriben nitt\nhachen, wurde aber In nachifrender red, also ge¬",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.694,
+    "reworded": 1,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4205,

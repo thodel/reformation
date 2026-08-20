@@ -39,19 +39,25 @@
         "op": "match",
         "a": "**Schlußred.**\n\nso vil widerchristlicher mißbrüchẽ besudlot/ wie bewårt\nist/ vñ der schůlmeyſter selbs zum teyl bekent/ wie könde\nsy dañ nit ein grüwel sin vor gott:",
         "b": "wie bewårt\niſt/ vnd der Schůlmeiſter ſelbs zum teil bekent/ wie koͤndte\nſy dann nit ein grůwel ſyn vor Gott:",
-        "similarity": 0.5957
+        "similarity": 0.5957,
+        "semantic": 0.795,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "So dz Nachtmal des\nhern/ der tod Christi hoch geachtet wirt von den glöubi\ngen: haben sy zügnüß von dem heyligen geyſt/",
         "b": "So das Nachtmal\ndeß Herrn / der Tod Chriſti hoch geachtet wirt von den\nGloͤubigen: haben ſy zůgnuß von dem Heiligen Geiſt/",
-        "similarity": 0.6818
+        "similarity": 0.6818,
+        "semantic": 0.816,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "welcher\ngeyſt/ der schmelerung des lydens Christi inn der Mäß\nkhein zügnis gibt. **Dannberger.**\n\n[D]Jewyl vñ das Nachtmal Christi genant wirt\nCena/",
         "b": "welcher Geiſt der ſchmelerung deß Lydens Chriſti in der\nMäß kein zůgnis gibt. Mannberger. DIewyl vnnd das Nachtmal Chriſti genannt wirt\nCena /",
-        "similarity": 0.6222
+        "similarity": 0.6222,
+        "semantic": 0.7571,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -63,31 +69,42 @@
         "op": "match",
         "a": "so hat ein yetlich\nTestament eyn volſtrer Executorem/ das aber die Apoſtel\nvolstreckt vnd volfürt haben das Testament Christi/ bewåren ich durch die heyligen gschrifft Johan.",
         "b": "vnd Danckſagung / ſo wirts ouch genannt\nein Teſtament Chriſti. Matth. am 26. Diewyl es\nnun ein Teſtament genannt wirt/ ſo hat ein jetlich Teſta-\nment ein vollfůrer Executorem, das aber die Apoſtel voll-\nſtreckt vnd vollfůrt haben das Teſtament Chriſti/bewåren\nich durch die Heiligen Gſchrifft Johan.",
-        "similarity": 0.5205
+        "similarity": 0.5205,
+        "semantic": 0.8146,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "xix. So\nChristus am Crůtz gemert hat sin Testament/ vnd sin\nmůter Mariam beuolhen Johanni/ vnnd gesprochen. Ecce mater tua/",
         "b": "19. Do Chriſtus\nam Crůtz gemert hat ſyn Teſtament/ vnd ſyn Můter Ma-\nriam befolhen Johanni / vnd geſprochen: Ecce mater tua,\nnim̄ war dyn Můter /",
-        "similarity": 0.5778
+        "similarity": 0.5778,
+        "semantic": 0.9022,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "nim war din můter/ spricht der text am sel=\nben ozt/ vnd vß diser stund/ hatt er sy genommen in syn\nhůt.",
         "b": "ſpricht der Text am ſelben ort/ vnd vß diſer ſtund/ hat er ſy genommen in ſyn Hůt. Da iſt\nklar offenbar /",
-        "similarity": 0.6512
+        "similarity": 0.6512,
+        "semantic": 0.6365,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Da ist klar offenbar/ das vß beuelch Christi. Johan\nnes sol sin ein zůgebner hůter Marie. **Zwingly**\n\n[S]Iſt klarlich gnůg anzeygt/",
         "b": "das vß befelch Chriſti/ Johannes ſol ſyn ein\nzůgebner Hůter Marie. Hhh ij\n\n## Marginalien\n[unleserlich]er das ſo\n[unleserlich]Geſchrifft\n[unleserlich]alten deß\n[unleserlich]chriſtlich\n\nanbåt-\n[unleserlich]te\niſt/",
-        "similarity": 0.3529
+        "similarity": 0.3529,
+        "semantic": 0.7996,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "das das Testament\ndas vns gott gemacht hatt/ iſt gnedige vergeb=\nung vnser sünd: vnd wie ein yedes Testament/ in krafft vnnd wäsen kompt/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.634,
+        "semantic_match": "Schlußred. 427\nBerchtoldus Haller. Darumb das die Mäß/ für das beſt Werck geachtet\niſt worden vor den Menſchen/ vnd doch mit ſo vil\nwiderchriſtlicher mißbrüchen beſudlet/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -101,7 +118,12 @@
         "b": "das\nBrot der\nent: dann\namentlich\nmeren di-\nhalten vnd\n\nder geſtalt\nſelbigen\nnit geſtü-\nirt. Vnd\ndas ſy geſt-\nt ouch das\nvffgeſſen\nent möchte\ntet werden/ ſyn wirt. Berchtold",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7694,
+    "reworded": 1,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5393,

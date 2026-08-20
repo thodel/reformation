@@ -39,7 +39,9 @@
         "op": "match",
         "a": "Dic erst\nselbs leert vnnd regiert/fůrt ouch zů einem tugenlichen\nlebenn/vnnd was er geredt/laffe er im also nach.",
         "b": "fuͤrt ouch\nzuͦ einem thugenlichen leben / vnnd was er ge // redt lasß er im nach / sagt / er Ja / Er hab aber\nnoch nitt bewert/",
-        "similarity": 0.3913
+        "similarity": 0.3913,
+        "semantic": 0.7417,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -51,25 +53,34 @@
         "op": "match",
         "a": "Er\nhab aber noch nit bewårt/das Christus alls das ynflies\nsend houpt nit regiert die heilig Christelich Kilche durch\nsin gesetzte Stathalter/diser ſprüch keiner Bewårt/das\nChristus nit die Kilchen regiere/durch seinen Stathal=\nter/den er gesagt hab/in ein thugenlich låben.",
         "b": "Das Christus nit die kilchen\nregiere/ Durch sinen Statthallter/ den er ge // satzt hab In ein thugenlich laͤben./ Berchtoldus\nDahaben wir nach der lenge bewaͤrt\ndas Christus sy Das einig haupt der\nsin kilchen lert /",
-        "similarity": 0.3171
+        "similarity": 0.3171,
+        "semantic": 0.6801,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Berchtoldus. Ir haben nach der lenge bewårdt/das Chri-\nſtus sye das einig houpt der sin Kilchen lert/re\ngiert/fůrt vnnd bringt zů einem thugenlichen\nlåben/das keiner creatur möglich/d3 er aber fůrwendt/",
         "b": "regiert / fuͤret vnnd bringt / zu einem thugenlichen laͤben Das keiner\nCreatur moglich / Das er aber fuͤrwendt / von einem gesetzten statthalter /",
-        "similarity": 0.3793
+        "similarity": 0.3793,
+        "semantic": 0.7066,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "von einem gesetzten Srathalter/der föllichs vermöge/ das probiere mit der gschrifft/dann das ist Chriſtum ge\nschmecht. Wartinus Bucerus.",
         "b": "Der soͤllichs\nvermoͤge / Das probiere mit der gschrifft / dan\ndas ist Christum / geschmecht. DATES DES ACTES",
-        "similarity": 0.4737
+        "similarity": 0.4737,
+        "semantic": 0.8093,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Nedigen herrn liebe brůder im herren/demnach\ndie ordnung miner gnedige herrn vermag.Sas\nwer etwas zu erlütrung der warheit/vermeint\nfürzebzingen/das der selbig fölle gehort werden/so mei=\nnet ich ein wenig zü iets yngefürter gegenred des bicht-\nuatters/zesagen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6666,
+        "semantic_match": "Das Christus allsß das Jnfliessend\nhoupt nit regiere die heillig  Christenlich Kilchen\ndurch sin gesetzten statthalter / diser Spruͤch\nkeiner bewaͤrt /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -81,9 +92,17 @@
         "op": "only_a",
         "a": "Er will Bewå=\nren/das Christus nit das eynig houpt sye der Kilchen/ dann ob er woll nach dem gnadrichen ynfluß in fine glis\nder/allein der Kilchen houpt sye/so fiend doch ouch an=\ndre eigenschafft des houpts/deren noch Sant Peter vi\nfine",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8362,
+        "semantic_match": "-\nDargethan Die nit not  zeerzellenn / Die all Die\nbewaͤrend woll / Das Christus die heillig chri // stenlichen kilch selbst lert vnnd regieret /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7401,
+    "reworded": 4,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.383,

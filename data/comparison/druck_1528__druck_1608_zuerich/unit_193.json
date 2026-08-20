@@ -51,25 +51,33 @@
         "op": "match",
         "a": "**Schlußred**\n\nten/vnd üch ein exempel verlassen/das ir nachuolgen ſi-\nnen fůßstapffen. Item in der j. Johannis am ij.",
         "b": "vnnd uͤch ein exempel verlaſſen/ das jr nachuolgen ſinen Fuͤßſtapffen. Item in der 1. Jo=\nhan. am. 2.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7732,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "ca. da er\nſpricht: Der ſol/wie Chriſtus gewandlet/ouch wandle. Wie ſpadt werden wir Chriſten vm̄b Chriſtus willen/",
         "b": "capit. da er ſpricht: Der ſoll / wie Chriſtus ge=\nwandlet/ouch wandlen. Wie ſpadt werden wir Chriſten\nvmb Chriſtus willen /",
-        "similarity": 0.7
+        "similarity": 0.7,
+        "semantic": 0.9458,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "etwas lyden/oder ſinen kamp̄ff annemen/ſo wir vm̄b iſt\nnent willen/nit viertzig tag one fleyſch eſſen mögend ſin/",
         "b": "etwas lyden / oder ſinen Kampff\nannemmen / ſo wir vmb ſinent willen / nit vierßig tag one\nFleiſch eſſen moͤgend ſin/vnd faſten.",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.7609,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd faſten. **Martinus Bucerus**\n\nVS allem das anzogen/bewårt ſich nit/das die\nKilch gebott mache/die im gots wort kein grůd\nhaben/vñ doch die gewüſſen binden ſöllend/daß\numb iſt nüt wid vns.",
         "b": "Martinus Bucerus. VSz allem das anzogen/bewaͤrt ſich nit/daß die Kilch\ngebot mache / die im Gottswort kein grund haben/",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.8223,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -81,7 +89,9 @@
         "op": "match",
         "a": "Das aber yngezogẽ/von der vier-\ntzig tågigen faſten/Moſe/Helie/vñ Chriſti/dienet hie\nhar nit: ſy ſind nit bin lüten gewäſen/darůb hat ſy gott\nder Herr/one menſchliche ſpyß erhalten müſſenn.",
         "b": "Moſe / Helie / vnnd Chriſti / dienet hie har nit:ſy\nſind nit bin Luͤten gewaͤſen / darumb hat ſy Gott der Herr/",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.8092,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -93,19 +103,26 @@
         "op": "match",
         "a": "Das\nvom lyden ynher gezogen/wir ſöllind vm̄b Chriſtus wil\nlen etwas lyden/das iſt zů verſtan/von dem lyden/das\nvns Gott zůſchickt/vñ nit dz wir ſelbs erwellen.",
         "b": "das iſt zuͦ verſtan/von dem lyden / das vns Gott zuͤſchickt/ vnnd nit das wir ſelbs erwellen. Wandlen ſoll man wie\nChriſtus /",
-        "similarity": 0.5185
+        "similarity": 0.5185,
+        "semantic": 0.8457,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wand\nlen ſol man wie Chriſtus/in aller zucht vnd liebe/aber nit\ndas man darumb viertzig tag vnd nacht/one ſpyß můſ-\nſe ſin.",
         "b": "in aller zucht vnd liebe / aber nit das man dar=\numb vierßig tag vnd naͤcht / one ſpyß muͤſſe ſin.",
-        "similarity": 0.6087
+        "similarity": 0.6087,
+        "semantic": 0.5648,
+        "reading": "check"
       },
       {
         "op": "only_a",
         "a": "Es wirdts ouch der Schůlmeiſter wol blyben laſ-\nſen/ſunſt můßten wir ouch todten vfferwecken/vñ an-\ndre wunder thůn/die der Herr gewürcket hat.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8194,
+        "semantic_match": "cap. Vch\niſt geben zethuͦn / das jr nit allein an Chriſtum gleuben/ ſunder ouch/das jr fuͤr jn lyden /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -117,7 +134,10 @@
         "op": "only_a",
         "a": "Sagt nun das S. Paulus/den angezognen ſpruch zun\nJ",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8238,
+        "semantic_match": "Schlußred. 193\n\nlig Kilch ſoͤmlichs hieruß angenommen / vnnd angeſechen\ndie Wort Pauli / ſo er ſpricht/zuͦ den Philip. am 1.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -137,7 +157,12 @@
         "b": "ſten ge=\nung der\nſels ſa=\nn/das\nriſtus\neſchei=\nlig",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7961,
+    "reworded": 0,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4675,

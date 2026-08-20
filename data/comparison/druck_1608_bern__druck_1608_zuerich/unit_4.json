@@ -33,19 +33,25 @@
         "op": "match",
         "a": "jeder was jm angnåm / anmůtig / vnd gefel=\nlig iſt / beſchützen / handthaben vnd ſchirmen\nwill: vnermåſſen / vnd vnerwågen Göttli=\nche Warheit /",
         "b": "jeder was jm angnaͤm/anmuͤtig/vnd gefel=\nlig iſt/beſchützen/handthaben vnd ſchirmen\nwill: vnermaͤſſen / vnd vnerwaͤgen Goͤttli=\nche Warheit /",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.9419,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd einfaltige meinung deß\nwaren Chriſtenlichen Gloubens. Das alles\nzerzůttung Brůderlicher Liebe / vnd Chriſten=\nlicher Einigkeit gebirt: zů dem das daruß ver=\nderblicher nachteil /",
         "b": "vnd einfaltige meinung deß\nwaren Chriſtenlichen Gloubens. Das alles\nzerruͤttung Bruͤderlicher Liebe/vnd Chriſten=\nlicher Einigkeit gebirt: zuͦ dem das daruß ver=\nderblicher nachteil/",
-        "similarity": 0.88
+        "similarity": 0.88,
+        "semantic": 0.9892,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Lybs / Seel / Eer vnd\nGůts / vnd abfal gemeines Nutzes / From=\nmen Wåſens vnd Stands / ouch Thyranni=\nſche Regierung entſpringen. Dem allem mit\nhilff vnd gnad deß Allmåchtigen /",
         "b": "Lybs/ Seel/ Eer vnd\nGuͦts/vnd abfal gemeines Nutzes/From=\nmen Waͤſens vnd Stands/ouch Thyranni=\nſche Regierung entſpringen.",
-        "similarity": 0.7083
+        "similarity": 0.7083,
+        "semantic": 0.9359,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -57,13 +63,17 @@
         "op": "match",
         "a": "fürzekom=\nmen / vnd den grund Göttlicher Warheit / Chriſtenliches Verſtands vnnd Gloubens / fürzebringen / vnd dem nachzelåben: rechtge=\nſchaffen / vnd in Göttlicher Schrifft gegrůndt\nGottsdienſt zepflantzen vnd ůben:",
         "b": "fuͤrzebringen/ vnd dem nachzelaͤben: rechtge=\nſchaffen/vnd in Goͤttlicher Schrifft gegruͤndt\nGottsdienſt zepflantzen vnd uͤben:",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.873,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "der Men=\nſchen Satzung (damit man Gott vergeben\neeret) vßzerůten: So haben wir mit wolbe=\ndachtem einhållem Rhadt / ein gemein Ge=\nſpräch vnd Diſputation / allhie in vnſer Statt\n\t¶\tiij",
         "b": "der Men=\nſchen Satzung (damit man Gott vergeben\neeret) vßzeruͤten: So haben wir mit wolbe=\ndachtem einhaͤllem Rhadt/",
-        "similarity": 0.6531
+        "similarity": 0.6531,
+        "semantic": 0.9537,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -71,7 +81,12 @@
         "b": "ein gemein Ge=\nſpraͤch vnd Diſputation/allhie in vnſer Statt\n¶\tiij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.9387,
+    "reworded": 1,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.7794,

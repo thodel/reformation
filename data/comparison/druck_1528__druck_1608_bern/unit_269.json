@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Schlußred. Wir sprecheñ der Kelch der dancksagung sye ein vßteyl=\nung des blůts Christi/ vñd diewyl lyb vñd blůt by ein=\nandern stond/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8026,
+        "semantic_match": "Cap. Ist\nyrgendein Gemeinschafft oder Gesellschafft deß Geists/ꝛc. Zuͦ erklårung disers Texts/ist zü mercken/das Paulus/in\nder",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -45,7 +48,9 @@
         "op": "match",
         "a": "darumb das wir von eim\nbrot vnd von eim Kelch teylhafftig sind/ nimpt nichts\nyenem verstand. Wir bekennen den selbe text zeuerstan=\nden werden/",
         "b": "278          Die vierdt\nvñ von eim Kelch theilhafftig sind/nimpt nichts jenem ver-\nstand. Wir bekennen den selben Text zeuerstanden werden/",
-        "similarity": 0.4889
+        "similarity": 0.4889,
+        "semantic": 0.6375,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -57,19 +62,25 @@
         "op": "match",
         "a": "oder das wir brechen/ sunst brech vñd\nEß die Kilch sich selbs/ darumb der erst spruch vom lyb\nChristi vßgeteylt im brot/",
         "b": "von dem geistlichen Lyb/welches ist die Gemein Gottes. Paulus spricht aber nit/wir syen das Brot das brochen\nwirt/oder das wir brechen/sunst brech vns es die Kilch sich\nselbs/darumb der erst Spruch vom Lyb Christi vßge-\ntheilt im Brot/der ander vom geistlichen verstanden muß\nwerden.",
-        "similarity": 0.5278
+        "similarity": 0.5278,
+        "semantic": 0.7127,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "der ander vom geystliche ver\nstanden můß werden. Ecolampadius. [V]nser antwurt hat Althamer nüt abrocheñ/ die=\nwyl wir klarlih dargethon haben/",
         "b": "Ecolampadius. VNser antwurt hat Althamer nüt abrochen/diewyl\nwir klarlich dargethon haben/daß hie ein Gemein-\nschafft verstanden werden soll/vnd wil es noch klar-\nlicher darthuͦn.",
-        "similarity": 0.36
+        "similarity": 0.36,
+        "semantic": 0.8362,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dʒ hie ein ge=\nmeinschafft verstanden werden soll/ vñd wil es\nnoch klarliher darthůn. Man leßnit mer dañ\nden text selbs für vñd für/",
         "b": "Man leß nit mer dann den Text selbs für\nvnd für/vnd wirt nit volgen daruff: an einem anderen ort/",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.5538,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -81,19 +92,26 @@
         "op": "match",
         "a": "Die oꝛt die wir haben anzogen/ vñd insonder\nheit vß dem Johanne/ zeygen vns klarlih vnser gemein\nschafft an/ sin gmeinschafft aber mit der vßteylůg/",
         "b": "oder zweien/dienet die Gemeinschafft zur vßtheilung/Er-\ngo/ Es muß hie also verstanden werden. Die ort die wir\nhaben anzogen/vnd insonderheit vß dem Johanne/zeigen\nvns klarlich vnser Gemeinschafft an/sin Gemeinschafft\naber mit der vßtheilung/dienet hieher gar nüt/vnnd noch\nweniger der Beschluß der anderen Epistel zun Corinthern\nam 13.",
-        "similarity": 0.4051
+        "similarity": 0.4051,
+        "semantic": 0.6342,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "dienet\nhieher gar nüt/ vñd noch weniger der beschluß der an=\ndern Epist. zun Corin. xiij. da es stat Die gemeinschafft\ndes heyligen geystes sye mitt üch allen:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7412,
+        "semantic_match": "Cap. Ist\nyrgendein Gemeinschafft oder Gesellschafft deß Geists/ꝛc. Zuͦ erklårung disers Texts/ist zü mercken/das Paulus/in\nder",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "ist die vßteylung\nnit vnser/ aber wir haben ein geselschafft/ in empfahung\nsolches geistes. des hatt man ouch zun Philipeñsern am\nij. Capit. Jst yrgend ein gemeinschafft oder geselschafft\nZi iij",
         "b": "Capit. da es stat/Die Gmeinschafft deß Heiligen\nGeists sye mit üch allen: ist die vßtheilung nit vnser/aber\nwir haben ein Gesellschafft/in empfahung sölches Gei-\nstes/Deß hat man ouch zun Philippensern am 2.",
-        "similarity": 0.4478
+        "similarity": 0.4478,
+        "semantic": 0.6057,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -101,7 +119,12 @@
         "b": "Cap. Ist\nyrgendein Gemeinschafft oder Gesellschafft deß Geists/ꝛc. Zuͦ erklårung disers Texts/ist zü mercken/das Paulus/in\nder",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6905,
+    "reworded": 4,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5766,

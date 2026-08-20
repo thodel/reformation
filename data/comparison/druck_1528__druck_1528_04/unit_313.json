@@ -51,39 +51,58 @@
         "op": "match",
         "a": "dz wir eruorſchẽ/ wir wüſſend wol was Mattheus vnd Marcus\nſaged: wir begeren an ſy/ ob ſy erkennind/ das die\nvergeblich nachlaſſung der ſünd das Teſtament ſye.",
         "b": "Zwingly. Diß iſt nit ein antwurt vff das / das wir er=\nuorſchen/wir wüſſend wol was Mattheus vn̄\nMarcus ſagend:wir begeren an ſy/ob ſy erken\nnend /",
-        "similarity": 0.4727
+        "similarity": 0.4727,
+        "semantic": 0.6279,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Pfarrer von ſant Gallen. MInes verſtands iſt vor gnůg geantwurt/ das das\nnüw Teſtament ſye verzychung der ſünd. Zwingly. NUn frag ich ſy/",
         "b": "das die vergeblich nachlaſſung der ſünd\ndas Teſtament ſye. Pfarrer von ſant Gallen. Mines verſtands iſt vor gnůg geantwurt/ das dz nüw Teſtament ſye verzychung d̄ ſünd.",
-        "similarity": 0.64
+        "similarity": 0.64,
+        "semantic": 0.91,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "ob zwey Nüwe teſtament ſyend oder\nnun eins. Pfarrer. Antwurt ich: Es iſt allein ein Nüw teſtament. Zwingli. So volgt/",
         "b": "Zwingly. Nun frag ich ſy / ob zwey Nüwe Teſtament\nſyend oder nun eins. Pfarrer von Sant Gallen. Antwurt ich:Es iſt allein ein nüw Teſtament.",
-        "similarity": 0.7556
+        "similarity": 0.7556,
+        "semantic": 0.628,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dz kein tranck dz Nüw teſtamẽt ſin mag. Pfarrer von ſant Gallen. ANtwurt ich/ kein tranck vermag das Nüw teſta=\nment ſin/",
         "b": "Zwingly. So volgt / das kein tranck das Nüw Teſta=\nment ſin mag. Pfarrer. Antwurt",
-        "similarity": 0.3784
+        "similarity": 0.3784,
+        "semantic": 0.8187,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Aber das blůt Chriſti wie er geredt hatt\ndurch Mattheum. Das iſt min blůt des Nüwen teſta=\nments/ vnd Lucas ouch ſagt in minem blůt/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6058,
+        "semantic_match": "Pfarrer von ſant Gallen\nZů vßlegung der worten / ſo herr Meyſter\nVlrich fürgetragen/erklårt Mattheus vn̄ Mar\ncus/das daß ſo der herr das Teſtament geheyſ=\nſen den jüngern hatt dargebotē/welches er dar=\nnach am crütz mitt vergieſſung ſins blůts hatt\nvollendet.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "zc. Zwingli\nDAs ſind jr einige wort/ kein tranck mag das Nüw\nteſtament ſin/ das blůt Chriſti iſt ein tranck (alß\npp",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7285,
+        "semantic_match": "Pfarrer von ſant Gallen\nZů vßlegung der worten / ſo herr Meyſter\nVlrich fürgetragen/erklårt Mattheus vn̄ Mar\ncus/das daß ſo der herr das Teſtament geheyſ=\nſen den jüngern hatt dargebotē/welches er dar=\nnach am crütz mitt vergieſſung ſins blůts hatt\nvollendet.",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7198,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5179,

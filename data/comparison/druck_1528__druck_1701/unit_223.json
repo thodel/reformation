@@ -51,25 +51,33 @@
         "op": "match",
         "a": "Die vierdt\nEs ist ouch nit gruͤndtlich/sonders wider den pfarrer/dz\nhie zwurend stat Dabo/das ist/ich wirts geben/dañ es ein\nnatuͤrliche Epanaphora ist.",
         "b": "daß hie zweymal ſtaht Dabo, das iſt / ich\nwirds geben / dann es ein natürliche Epanaphora iſt. Am IS. Tag Jenners.",
-        "similarity": 0.4082
+        "similarity": 0.4082,
+        "semantic": 0.5822,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Am xv. tag Jenners. Pfarrer von sant Gallen. [M]In herr vnnd mitbrüder Weyſter Vlrich nach\nnechtigem fürtrag/wil in die allmechtigkeit nit\ngeredt habē/deñ gott gwüß nit alles das thüt/",
         "b": "Pfarrer von Sant Gallen. Myn Herz und Mitbrüder Meiſter Ulrich/ nach näch-\ntigem Fürtrag/ will in die Allmächtigkeit nit geredt\nhaben/dann Gott gewüß nit alles das thůt/",
-        "similarity": 0.5333
+        "similarity": 0.5333,
+        "semantic": 0.8553,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "so er vermag/warumb aber sin wort lutet/vnnd was es\nverfacht/volstreckt er/als die verheissung hie. Joan. am\nvj.",
         "b": "ſo er vermag/ warum aber ſyn wort lutet/und was es verfaßt/vollſtreckt\ner / als die Verheiſſung hie / Johannis am 6.",
-        "similarity": 0.619
+        "similarity": 0.619,
+        "semantic": 0.5948,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "cap. Ob wir aber glich söllichs mit vnser vnunfft nitt\nvernåmend/wie wir nitt wüssen/welches da ist der wåg\ndes geysts/ouch in was gestalt die bein in dem lyb der mü\nter zůsamen gefügt werden/der glichen wüssen wir nitt\ndie werck gottes Ecclesiastes am xj.",
         "b": "Cap. ob\nwir aber glych ſöllichs mit der Vernunfft nit vernemmen/ wie wir nit wüſſen / welches iſt der Weg deß Geiſtes/auch\nin was geſtalt die Bein in dem Lyb der Můter zůſammen\ngefügt werden :",
-        "similarity": 0.5542
+        "similarity": 0.5542,
+        "semantic": 0.8254,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -81,7 +89,9 @@
         "op": "match",
         "a": "cap. Sagt min herr das\nby/Christus belibe by der gschrifft/als syne wort/ist war\nhafft:so wir es aber nit begryffen/söllend wir alle vnsern\nbstand in die dienstbarkeit Christi vndergebē/zun Cor=\ninthern in der ij.",
         "b": "als ſynem Wort / iſt war-\nhafft: ſo wir es aber nit begryffen / ſöllen wir allen unſern\nVerſtand in die Dienſtbarkeit Chriſti undergeben /",
-        "similarity": 0.5574
+        "similarity": 0.5574,
+        "semantic": 0.7794,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -93,7 +103,9 @@
         "op": "match",
         "a": "Epist. am x. cap. Dann vil so wir nitt\nglouben wurdent/werdē wir nit verston. Esaie am vij. cap. Dañ als himel vnd erden sind vnderscheiden/also\nouch vnsere gedancken/vñ die wåg des herrn.",
         "b": "Eſaie am\n7. Cap. Dann als Himmel und Erden ſind underſchei-\nden / alſo auch unſere Gedancken und die Weg deß Her-\nren.",
-        "similarity": 0.386
+        "similarity": 0.386,
+        "semantic": 0.6303,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -105,9 +117,17 @@
         "op": "only_a",
         "a": "welches ich geben wird/für das låben der welt/sölle nitt\ngereylt werden/vermein aber ich/söllichs recht beschehe/ diewil des wörtli Dabo/Das ist ich wird geben zwey mal\nda stand/wil ich also/das das brott/so er für vns hat ge=\nben in tod für das låben der welt/åben das selbig hab er\nvns zů essen ingesetzt/vñ beuolhen/lut des worts. Luc. am xxij.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7176,
+        "semantic_match": "ſo folget / daß / wie der ander Punct von dem\ngetödten Lychnam Chriſti lutet/ daß auch der erſt den Ver-\nſtand hab /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7121,
+    "reworded": 1,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4428,

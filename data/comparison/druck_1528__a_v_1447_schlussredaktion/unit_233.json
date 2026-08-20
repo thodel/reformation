@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Die vierde\nEcolampadius. [E]S hat min lieber brůder sich widerum gewent\nzů den worten Johannis am vj. Capitel. Das\nsy im dienen/des bin ich im nit abred (welte got)\nsy von mengklichen wol verstanden wurden:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6551,
+        "semantic_match": "welchen inge\nInn minen gedechtnus\nfurten schrifften wir verniemen der lijb vnnd\nDas blutt Christi werde Inn dem brot Der Danc¬\nsagunglyblichen vnnd wesenlich dancksagung empfangen\ncolampadius\nS'han min lieber bruder sich widerumb ge¬\nwendt zu den worten Johanus am vi cap:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -57,13 +60,18 @@
         "op": "match",
         "a": "So er aber nun kompt vff die insatzung\ndes herren Nachtmals/damit wir dester geschickter vñ\noffentlicher rede/so versich ich mich zů ersten/dz min lie=\nber brůder werd nit verneinen /",
         "b": "das sy Im dienen, Des bin ich Im int par abred\n(welleg pott) sij von mencklichen woll verstandenn\nOp wundert dienen\nwurden, vngezweffellt\nber die ver¬\nzu hinnemmen voler Insael\nheissung des sacramenteichen brots findt er\nam selbigen ort nit so er aber min kumpt vff\ndie Insatzung des herren nachtmals Damit\nwir dester geschickter vnd verstentlicher reden\nSo versich ich mich zum ersten das min lieber\nbruder werdt int verneinen, hie Ingesetzt sin\nsacrament des lybs vnnd bluts Jesu Christi  So\nwirtt min nutz vnd gut sin wer da erkennen",
-        "similarity": 0.3415
+        "similarity": 0.3415,
+        "semantic": 0.7752,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "hie ingesetzt sin Sacra=\nment des lybs vñ blůt Jesu Christi: so wirt nun nutz vñ\ngůt sin (wer da erkennen wil den inhalt diser wort) dz er\nsich dermasse halt/wie sich gepůrt zehalten.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7827,
+        "semantic_match": "and in all\nnot vnne that\nInngeren vijff\nning her\nOmnt Jans\nnckenal all\nhoven tot\nwhich\net de\nDie vierd schlußrad\n164\nHer Jesus Inn der nachs alls er ward verraten\nhabe der gestaelt das brot genomen, vnnd danck\ngesagt) gebrochen vnnd gesagt, niemand vnd essende\nDas ist min lijb welcher fur vch geben wirtt\nDas thund Inn immer gedechtnus Derglichen\nonch den kelch, nach dem er hatt zenacht\ndas ist der\ngessen hatt er gesagt\nkelck, Das nuw thestament In minem blut\nDas sollende Ir thun, so offtmalls Ir werden trincken\nvoorss.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -75,7 +83,10 @@
         "op": "only_a",
         "a": "vnnd etwas das da bedůtet wirdt: als in dem\ntouff/bedůtet vns das wasser die gnad des heilige geists\nvñ die widergebůrung/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6508,
+        "semantic_match": "welchen inge\nInn minen gedechtnus\nfurten schrifften wir verniemen der lijb vnnd\nDas blutt Christi werde Inn dem brot Der Danc¬\nsagunglyblichen vnnd wesenlich dancksagung empfangen\ncolampadius\nS'han min lieber bruder sich widerumb ge¬\nwendt zu den worten Johanus am vi cap:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -93,9 +104,17 @@
         "op": "only_a",
         "a": "hie vß denen fůrge\nnomen worten/das man můß vßlegen / das brot ist we=\nsenlich der Lyb Christi. Vnd so wir die andern Euan=\ngelisten/als Lucam vñ Paulum heben/gegen de Mat=\ntheo vñ Marco: So werden wir vß den klaren sprůche. Sie",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8208,
+        "semantic_match": "and in all\nnot vnne that\nInngeren vijff\nning her\nOmnt Jans\nnckenal all\nhoven tot\nwhich\net de\nDie vierd schlußrad\n164\nHer Jesus Inn der nachs alls er ward verraten\nhabe der gestaelt das brot genomen, vnnd danck\ngesagt) gebrochen vnnd gesagt, niemand vnd essende\nDas ist min lijb welcher fur vch geben wirtt\nDas thund Inn immer gedechtnus Derglichen\nonch den kelch, nach dem er hatt zenacht\ndas ist der\ngessen hatt er gesagt\nkelck, Das nuw thestament In minem blut\nDas sollende Ir thun, so offtmalls Ir werden trincken\nvoorss.",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7369,
+    "reworded": 1,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2574,

@@ -33,25 +33,36 @@
         "op": "only_a",
         "a": "Die fünffte\nJohannes Büchstab\n\nAbel hat geopffret von den erstgebornen siner scha⸗\nren. Berchtoldus Haller. DEr Schülmeister hat geantwurtet/ Abel habe ge⸗\nopffret.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6323,
+        "semantic_match": "Buͤchſtab. Ob ſchon Abel beſſer iſt gſin dañ das opffer/ wirt das ſelb darum̃ nit allenthalbẽ muͤſſen ſin.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "zc. Bedunckt mich ye / Abel sye besser dann\nsine schaff. Dz er dañ ansücht vom Touff/ der sye besser\ndann der Touffer/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7332,
+        "semantic_match": "Buͤchſtab. Ob ſchon Abel beſſer iſt gſin dañ das opffer/ wirt das ſelb darum̃ nit allenthalbẽ muͤſſen ſin.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "wirt aber nit vß der schrifft erfundẽ/ diewyl der Touff ein vsserlich Element. Semnach hat\nMaria Christum nit geopffret/ sunder nach dem gesagt\nin den tempel überantwurt/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6431,
+        "semantic_match": "xxxix. Vñ wie Maria Mag-\ndalena den glouben in Chriſtum/mit vßwendi-\ngen ſichbaren werckẽ beſtaͤtet hat. Luce am vij.",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "vnd haben wol ein par Tu\nben geopffret/ aber nit Christum/ wie hie daruon geredt. Johannes Büchstab\n\nISchon Abel besser ist gsin dañ das opffer/",
         "b": "Die fuͤnffte\nſatzt in den Tempel uͤberantwort/vnnd habend\nwol ein par Tuben geopffret/ aber nit Chriſtũ/ wie hie daruon geredt.",
-        "similarity": 0.4167
+        "similarity": 0.4167,
+        "semantic": 0.5657,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -63,25 +74,34 @@
         "op": "match",
         "a": "wirt\ndas selb darumb nitt allenthalben müssenn sin. Sag wyter vff den anfang/ von herrn Berch⸗\ntolden yngefürt/ das die Mässz ein grüwel vor\nGott sye/",
         "b": "Sag wyter vff den anfang/ von herrn Berch-\ntolden yngefuͤrt/ das die Maͤſſz ein gruͤwel vor\nGott ſye/",
-        "similarity": 0.6383
+        "similarity": 0.6383,
+        "semantic": 0.7906,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "von wegen des züsatzes/ Ceremonien/ crützen/ kleydungen/ personen. zc. Bin ich mit gschrifft noch nitt\ngnůgsam võ im vnderricht. Der kostlichen Mässgwãn\nder halb/",
         "b": "von waͤgẽ des zuͤſatzes/Ceremonien/ cruͤtzen/kleydungen/ perſonen.zc. bin ich mit ge\nſchrifft noch nit gnuͤgſã von jm vnderricht.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.3421,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "habẽ wir glychförmige vorbedütnuß im glagt/ Als Exodi xxviij. vnd xxxv. xxxix. Vnd wie Ma⸗\nria Magdalena den glouben in Christum/",
         "b": "Der\nkoſtlichen Maͤßgwender halb/haben wir glich-\nfoͤrmige vorbeduͤtnuß im gſatzt/ Als Exodi am\nxxviij. vnd xxxv.",
-        "similarity": 0.3415
+        "similarity": 0.3415,
+        "semantic": 0.8807,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "mit vßwen⸗\ndigen sichtbaren wercken beståtet hat. Luce am vij. ca. Also mag ouch ein jetlicher Christ/ nach sinem willẽ/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6843,
+        "semantic_match": "xxxix. Vñ wie Maria Mag-\ndalena den glouben in Chriſtum/mit vßwendi-\ngen ſichbaren werckẽ beſtaͤtet hat. Luce am vij.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -93,7 +113,9 @@
         "op": "match",
         "a": "gott\nmit vßwendigen dingen/ gaben vnd ceremonien/ dienen: wiewol harinn zů zyten/ groß mißbrüch geübt werden. Der",
         "b": "Alſo mag ouch ein yetlicher Chriſt/nach ſinem\nwillen/Gott mit vßwendigen dingen/ gaaben\nvnd ceremonien/ dienen: wiewol hierinn zuͦ zy-\nten/groß mißbruͤch geuͤbt werden.",
-        "similarity": 0.4889
+        "similarity": 0.4889,
+        "semantic": 0.6838,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -119,7 +141,12 @@
         "b": "der Diebſtal/ſind heryn gefloſſen/vnnd hat ein\nbluͦt das ander erreycht/ vñ von des wegẽ wirt\nweynen",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6618,
+    "reworded": 2,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4053,

@@ -51,13 +51,17 @@
         "op": "match",
         "a": "Die erſt\ngewalt iſt ein gewalt gſin/die wyl die Chriſtenheyt hatt\ngewert/darumb ſoll es niemand widerſprechen/er hette\ndann heyttere klare gſchrifft darwider.",
         "b": "Der geyſtlich ge=\nwalt iſt ein gewalt gſin/die wil die Chriſtenheyt\nhat gewaͤrt/darum̃ ſoll es niemad̃ widerſprechẽ\ner hette dañ heyttere klare gſchrifft dar wider.",
-        "similarity": 0.5283
+        "similarity": 0.5283,
+        "semantic": 0.6746,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Berchtoldus+\nSüch hienoꝛ\nam 58. vnd 59. blat. Herr Hilgen argument/ iſt geſter gnůgſam erlů\nthert/aber ich bitt jn/das er den heyligen Pau=\nlum wol beſeche/zun Rhömeren am xiij.",
         "b": "Berchtoldus. Herr Gilgen argument/ iſt geſter gnuͤgſam\nerluͤthert/aber ich bitt jn/das er den heyligẽ Pau\nlum wol beſehe/",
-        "similarity": 0.6296
+        "similarity": 0.6296,
+        "semantic": 0.6981,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,7 +73,9 @@
         "op": "match",
         "a": "Capi. Jederman ſig vnderthänig der oberkeyt/zc. Vnd ward\nſöllicher text verleſen. Gillg Durer+\nPaulus zun Römern. Nimpt nůr vß/er ſpricht\naller gewalt iſt von gott/vnd das er nit alleyn\ngemeynt hab/den weltlichen gewalt/bezüglich\nvß den vorgenden wortē Pauli/ſo er ſpricht/ein yegliche\nſeel/ſoll gehorſam ſin den hochen gewalten/wenn nun ein\ngewalt ſoll ſin/der weltlich/ſo hette Paulus der red nůr\ndörffen.",
         "b": "Gilg Murer. Paulus zun Roͤm. Nimpt nuͤt vß/er ſpricht. Aller gewalt iſt von Gott/ vnd das er nit alleyn\ngemeynt hab /",
-        "similarity": 0.383
+        "similarity": 0.383,
+        "semantic": 0.7649,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,21 +93,34 @@
         "op": "match",
         "a": "Berchtoldus+\nSüch hienoꝛ\nam. 9. 12. 13. 14. 15. vnd. 17. blat\nIeben fromen Chriſten/der antwurt halb/refe\nrier ich mich zun Acta/vnd vff den klaren text\nPauli am xiij.",
         "b": "d antwurt halb/refe=\nrier ich mich zun Acta/ vnnd vff den klaren Text\n\n## Marginalien\nSuͤch hie=\nuor am 58. 59.blaͤt.",
-        "similarity": 0.4643
+        "similarity": 0.4643,
+        "semantic": 0.6963,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Jezt ordenlich verläſen/darzů ſo\nthůnd jr der gſchrifft gewalt/dann Paulus hie von der\nweltlichen oberkeit redt. Gillg+\nDas Paulus zun Römern am xiij.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8166,
+        "semantic_match": "den weltlichen gewalt/ beziͤg ich\nvß den vorgenden worten Pauli / ſo er ſpricht/ eyn yegliche ſeel/ſol gehorſam den hoͤchẽ gewal\nten.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Cap. Nit allein\ngeredt hab/von dem weltlichen gewalt/iſt offenbar\ngnůg",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6654,
+        "semantic_match": "ſyn gnad vnd\nBarmhertzigkeit vns mitteylt / iſt war: Das aber\ndaby nit ſoͤlle ſin ein geyſtlicher gewalt oder re=\ngiment/",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7193,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4742,

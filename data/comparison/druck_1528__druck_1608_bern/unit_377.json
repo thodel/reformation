@@ -51,7 +51,9 @@
         "op": "match",
         "a": "Schlußred? tåglichen opfer der dancksagung/vnd der widergedåcht=\nnis der Måß/nit darum/das wir Christo ſin liden min=\ndren welleñ/ſunder das began mit widergedåchtnis/des\nvor einoſt verbrachten opfers/wil ich bewåren/mit dem\nſpꝛuch/vnd denen worten/die Christus hat geredt:das\nthůnd in miner gedåchtnis.",
         "b": "nit darumb / das wir Chriſto ſyn Lyden mindren\nwellen/ ſonder das began mit widergedechtnis / deß vor\neinoſt verbrachten opffers/ wil ich bewåren/",
-        "similarity": 0.3944
+        "similarity": 0.3944,
+        "semantic": 0.8636,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,7 +65,9 @@
         "op": "match",
         "a": "San Paulus zů den Corin=\nthern/hat vns vßgelegt die gedåchtnis/die ſelbig ſtadt\nin verkündernuß des ſterbens Christi. Das iſt aber kunt\nlich/dann die Euangeliſten klar anzeigen/wie da ſye ge=\nendet worden das Oſterlamb des alten gſatzt/vnd ynge\nſetzt das Oſterlamb der Kilchen:",
         "b": "hat\nvns vßgeleit die gedechtnis / die ſelbig ſtadt in verkůndt-\nnuß deß ſterbens Chriſti. Das iſt aber kundlich / dann\ndie Euangeliſten klar anzeigen/",
-        "similarity": 0.4857
+        "similarity": 0.4857,
+        "semantic": 0.776,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,25 +79,34 @@
         "op": "match",
         "a": "dañ es wz not/ſpricht\nder text/das das Oſterlamb geródt wurd. Nun halt die\nſchrifft inn/Exodi xij. daß das Oſterlamb geopferet/",
         "b": "ſpricht der Text/ das\ndas Oſterlamb getoͤdt wurd. Nun halt die Schrifft inn/ Exodi 12. das das Oſterlamb geopferet/",
-        "similarity": 0.7442
+        "similarity": 0.7442,
+        "semantic": 0.7956,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vñ demnach geåſſen ward. So nů Christus/der dz recht\nOſterlamb iſt/ſpricht Paulus/nach dem alten hat ynge\nſetzt dz nůw/vñ ſagt/Das thůnd in miner gedåchtnuß.",
         "b": "vnd demnoch ge-\näſſen ward. So nun Chriſtus/ der das recht Oſterlamb\niſt/ ſpricht Paulus/ nach dem alten hat ingeſeßt das nůw/",
-        "similarity": 0.549
+        "similarity": 0.549,
+        "semantic": 0.6324,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Was hat er jnen anders beuolchen/dann das die alte ge\nthan hatten/das iſt opfferen vnd nieſſen/wie dann ouch\nnach der ordnung Melchiſedech/one zwyfel/Christus in\nſinem Nachtmal erfüllt hat.",
         "b": "vnd ſagt/ Das thůnd in myner gedechtnis. Was hat er\njnen anders befolchen/ dann das die Alten gethan hatten/ das iſt opfferen vnd nieſſen/ wie dann ouch nach der ord-\nEEe",
-        "similarity": 0.5938
+        "similarity": 0.5938,
+        "semantic": 0.7311,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Butzer\nDEß brods Chriſti gedencken/vnd jm danckſagen/ heyßt jn nit widerufopffren: vnd vff vnſeren Si=\nlogiſmum/habeñ wir noch kein antwurt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6318,
+        "semantic_match": "ein verleſterung deß Tods Chriſti. Gilg Murer. WIetwol Chriſtus gnůg gethan hat in Ewigkeit voll-\nkommenlich / wie ingefůrt iſt/ durch Herr Martin\nButzer/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -107,7 +120,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7384,
+    "reworded": 2,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5,

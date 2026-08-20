@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Schlußred. Der ſünden halb vnd mißbrüchen/ſo von jm witer inge\nfürt/Beger ich nit zů beſchirmen/ſonder ſag ich/das wir\nvil vnfůgs daruon haben/wañ Hieremie am v.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7432,
+        "semantic_match": "da man ouch von den Ceremonien wirdt handlen. Wyter vff myn fuͤrgenommen meinung/ das es ein miß=\nbruch ſye /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -45,31 +48,41 @@
         "op": "match",
         "a": "geſchri\nben ſtat. Vnſer ſünd haben verhindert die gůten ding\nvon vns. Deßglichen Oſee am iiij. Es iſt dhein warheyt\ndhein barmhertzigkeyt/kein wüſſen Gottes in der ertrich\nDer flůch/die Lúgine/der Todſchlag/der Eebruch/der\nDiebſtal ſind harin gefloſſen/vnd hat ein blůt das an=\nder erreicht/vnd von des wägen wirt weynen dz ertrich\nvñ wirt bekrånckt.",
         "b": "der Diebſtal ſind harin gefloſſen/ vnd hat ein Blůt\ndas ander erreicht / vnd von deßwegen wirt weinen das\nErdrich vnd wirt bekraͤnckt/",
-        "similarity": 0.3614
+        "similarity": 0.3614,
+        "semantic": 0.6505,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Ein yetlicher ð dariñ wonet/darüß\nheiter volget/das wir von ſünden vnd müßbrüchen wä\ngen vntrůwen hand. Berchtoldus Haller.",
         "b": "ein jetlicher der darin wonet. daruß heiter volget/ daß wir von Sůnden vnd mißbrůch=\nen wegen/ vnrůwen hand. Berchtoldus Haller.",
-        "similarity": 0.65
+        "similarity": 0.65,
+        "semantic": 0.8631,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Paulus zů den Galathern am v. Ermanet vns\ndas wir beſtåndig bliben in der fryheyt/damit\nvns Chriſtus hat befreyet.",
         "b": "PAulus zů den Galathern am 5. Ermanet vns/ das wir beſtendig blyben in der Fryheit/ damit vns\nChriſtus hat befryet.",
-        "similarity": 0.75
+        "similarity": 0.75,
+        "semantic": 0.7866,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Die wil nun die Cere\nmonien vſſerthalb dem wort gottes/vnſer Conſcienzen\ngefangen vnd gebunden hand:ſo ſöllen wir vns billichen\nder ſelben entſchlaben/dann wir nit mer gefangen ſind/",
         "b": "Diewyl nun die Ceremonien\nvſſerthalb dem Wort Gottes / vnſer Conſcientzen gefan=\ngen vnnd gebunden hand: ſo ſoͤllen wir vns billichen der\nſelben entſchlahen /",
-        "similarity": 0.5556
+        "similarity": 0.5556,
+        "semantic": 0.6792,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnder dem Knåchtiſchen joch des geſatzes. Magdalena\nhatt jren glouben bezüget mit dem werck der lyebe gegē\nChriſto Jeſu/das ſöllen wir tůn gegen vnſerm nåchſt/",
         "b": "dann wir nit mehr gefangen ſind/ vn=\nder dem Knaͤchtiſchen Joch deß Geſatzes. Magdalena\nhat jren Glouben bezuͤget mit dem Werck der Liebe gegen\nChriſto Jeſu /",
-        "similarity": 0.4074
+        "similarity": 0.4074,
+        "semantic": 0.6857,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,13 +94,18 @@
         "op": "match",
         "a": "in ůbrigē red beſtåtiget ð ſchůlmeiſter vnſer ſchlußred. Johannes Büchstab\nWer red yezmal ingefürt/wirt glimpflicher ſin\nzů verantwurten/in der ſchlußred von dē ſåg=\nfür/da man ouch vonn den Ceremonien würde\nhandlen.",
         "b": "Johannes Bůchſtab. DIsſer red jetzmal ingefuͤrt / wirt glimpflicher ſyn zů\nverantwurten/ in der Schlußred von dem Faͤgfuͤr/",
-        "similarity": 0.4074
+        "similarity": 0.4074,
+        "semantic": 0.8639,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Witer vff min fürgenomen meynung/das es\nein mißbruch ſye/das brot der danckſagung anzůbåtte\nBbb iij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6665,
+        "semantic_match": "das Brot der Danckſagung anzuͤbaͤtten weiß\nH h h\n\n## Marginalien\n[unleserlich]uff/ der\nSchrifft\n. Dem\nnach dem\n[unleserlich]wol ein\ndaruon\n\n[unleserlich]er/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -113,7 +131,12 @@
         "b": "ſo ouch nit\nder ſaglich\n[ce]remie am 5. rt die gelten\nſtein War\nhat",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7423,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4713,

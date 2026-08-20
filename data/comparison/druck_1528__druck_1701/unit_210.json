@@ -45,13 +45,18 @@
         "op": "match",
         "a": "Schlußred XCIX\nnamlich zc. Ich hab gelert vnnd geprediget/ Chriſtus\nhab allein für die Erbſünd gelitten/ vñ müſſen wir ſonſt\nvmb vnſer ſünd ouch etwas thůn/",
         "b": "von mynen Herren von Appenzell / namlich/ rc. Ich hab gelehrt und geprediget / Chriſtus hab allein fuͤr\ndie Erbſuͤnd gelitten /",
-        "similarity": 0.383
+        "similarity": 0.383,
+        "semantic": 0.783,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "weiß ich nieman/ der\nfür vns ye gelittẽ hab für die Erbſünd/ dan̄ Jeſum Chri\nſtum allein/ wüſſen ſy aber etwan einandern/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8057,
+        "semantic_match": "dann Jeſum Chriſtum allein / wuͤſ=\nſen sy aber ettwan ein andern/der fuͤr die Erbſuͤnd je gelitten\nhabe /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -69,25 +74,33 @@
         "op": "match",
         "a": "der für die\nErbſünd gelitten habe/ den zeygen mir an/ damit nit ab\ngeſchlagen/ dz er für die Erbſund/ vñ all ander ſünd ge\nlittẽ hab/",
         "b": "den zeigen mir an / damit nit abgeſchlagen / daß er\nfuͤr die Erbſuͤnd/und alle andere Suͤnden gelitten hab/und\nuns erloͤßt /",
-        "similarity": 0.3137
+        "similarity": 0.3137,
+        "semantic": 0.7926,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vñ vns erlöſt/ dz wir aber ouch müſſen etwas\ntůn/ damit wir nit lår erſchinē. Ermant er vns ſynen ge\nbotten gehorſam zůſin/",
         "b": "daß wir aber auch muͤſſen etwas thuͦn / da=\nmit wir nit laͤr erſchynen / ermahnt er uns ſynen Gebot=\nten gehorſam zuͤ ſyn /",
-        "similarity": 0.375
+        "similarity": 0.375,
+        "semantic": 0.7964,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "güts zůwürcken vnd zütůn/ als\nPſalmo xxxvj. Declina à malo, & fac bonum. Neygt dich vonn\ndem böſen/ vnd thů gůts/",
         "b": "guͦts zuͤ wuͤrcken und zuͤ thuͦn / als\nim 36. Pſalm. declina à malo, & fac bonum, Neig dich von\ndem boͤſen /",
-        "similarity": 0.4091
+        "similarity": 0.4091,
+        "semantic": 0.9235,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "wie wol ich weiß vnd erkenn\nvß Paulo/ all vnſer hoffnung in gott zůhebē/ alſo ſprech\nend. Eyn ſoliche hoffnung haben wir durch Chriſtum zů\ngott/",
         "b": "und thuͦ guͦts : wiewol ich weiß und erkenn\nvß Paulo / all unſer Hoffnung in Gott zuͤ haben / alſo\nſprechend:",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.8875,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -99,19 +112,25 @@
         "op": "match",
         "a": "nit das wir gnůgſam ſyen/ zůtrachten etwas vonn\nvns/ als vß vns/ ſonder vnſer gnůgſamkeyt iſt vß gott/ in welchen wortẽ vns Paulus zůden Corinthbern in der\nandern Epiſt.",
         "b": "als vß uns / ſonder vnſer gnuͤgſamkeit iſt\nvß Gott. In welchen Worten uns Paulus zuͤ den Corin=\nthern in der II.",
-        "similarity": 0.549
+        "similarity": 0.549,
+        "semantic": 0.7869,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "am iij. leert. Das wir ſöllen erkennen/ das\nalles gnůg thůn von gott harkompt/ vnd von vns nit\nals von vnns/",
         "b": "Epiſtel am 3. lehrt / daß wir ſoͤllen erken=\nnen / daß alles Gnuͤgthuͦn von Gott harkomt / und von\nuns nit als von uns /",
-        "similarity": 0.4783
+        "similarity": 0.4783,
+        "semantic": 0.6349,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "den ſelbigen reyt/ ſo er klarlich angeſehen\nwirt/ ſo man etwas heiſſt vnd rat einem menſchen gůts\nzůthůn/ zůlåben in dem willen ſines ſchöpffers/ das iſt",
         "b": "denſelbigen Text / ſo er klarlich an=\ngeſehen wird / ſo man etwas heißt und rahtet einem Men=\nſchen guͦts zuͤ thuͦn/zuͤ leben in dem Willen ſynes Schoͤpf=\nfers /",
-        "similarity": 0.386
+        "similarity": 0.386,
+        "semantic": 0.5989,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -119,7 +138,12 @@
         "b": "das iſt / demſelben Fuͤrdernuß geben / geſchickt ma=\n      Cc                   chen",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7788,
+    "reworded": 5,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4328,

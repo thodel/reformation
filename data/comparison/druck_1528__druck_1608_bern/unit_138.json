@@ -51,37 +51,50 @@
         "op": "match",
         "a": "Die erſt\nZwingy\nMeyster Niclaus/ was wellend jr mit denen wortẽ\nallen ynfüren? Senger. Als iſt min meinung/ der anzügen halb/",
         "b": "was wellend jr mit denen worten\nallen ynfůren? Senger. DAs iſt min meinung / der anzůgen halb / Diewyl\nůwer Schlußreden tringent vff das Wort Gottes\ngeſchriben vnd yngeſprochen/",
-        "similarity": 0.5833
+        "similarity": 0.5833,
+        "semantic": 0.6812,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Diewyl\nüwer Schlußreden tringer vff das wort Got=\ntes/ geſchriben vnd vngeſprochen/ vñ aber min\nG. Herrẽ jr Diſputation halb/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7305,
+        "semantic_match": "Spricht ouch jm ſelben cap. Das ſag ich ůch/vnd nit der Herr/ Seyt da von Ee ſachen/ etc. Von ſoͤllichen brůchen findt man ouch geſchriben/",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "verſchloſſen ha\nbend/ nüt hie ynzefüren in diſer Diſputation/ dann ſo in\nBibliſcher gſchrifft begriffen iſt/ meynt ich/ man möchte\nouch probieren vñ bezügẽ/",
         "b": "vnd aber min Gnedi=\ngen Herren jr Diſputation halb / verſchloſſen habend/ nüt\nhie ynzefůren in diſer Diſputation / dann ſo in Bibliſcher\nGeſchrifft begriffen iſt/meint ich/",
-        "similarity": 0.56
+        "similarity": 0.56,
+        "semantic": 0.9111,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "etwas vß den brüchen in der\nheiligen Chriſtẽlichen Kilchen vnd übungen/ ſo nit ge=\nſchriben/ vnd an vns kommen ſind.",
         "b": "man moͤchte ouch probie=\nren vnnd bezůgen / etwas vß den brůchen in der heiligen\nChriſtenlichen Kilchen vnd ůbungen/ſo nit geſchriben/vnd\nan vns kommen ſind.",
-        "similarity": 0.7234
+        "similarity": 0.7234,
+        "semantic": 0.9454,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Zwingy. DIß wort in der ij. Epi. zum Thimotheo iij. cap. Ein yegklich gſchrifft/ wie es dann meyſter Ni=\nclaus gemelder hat/",
         "b": "Zwingly. DIsß Wort in der 2. Epiſtel zum Timotheo 3. cap. Ein\njegklich Geſchrifft / wie es dann Meiſter Niclaus\ngemeldet hat/iſt nit recht vertůtſchet.",
-        "similarity": 0.4255
+        "similarity": 0.4255,
+        "semantic": 0.5772,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "iſt nit recht vertütſchet. Er\nhats alſo vertütſchet: Ein yegkliche gſchrifft iſt nutzbar\nzü leren/ welches aber der ſinn Pauli genglich nit iſt:",
         "b": "Er hats alſo\nvertůtſchet:Ein jegkliche Gſchrifft iſt nuzbar zů leren/wel=\nR iij",
-        "similarity": 0.4865
+        "similarity": 0.4865,
+        "semantic": 0.6858,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -93,15 +106,26 @@
         "op": "only_a",
         "a": "ſonders der ſinn Pauli iſt der/ Ein\nyede gſchrifft die von Gott yngeblaſen iſt. Alſo vermag\nouch der Text: Sie iſt ouch nutzbar zü der leer.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6728,
+        "semantic_match": "zun\nTheſſalonicheren in der anderen Epiſtel / am anderen cap. die nit all geſchryben ſtond/als ich mein. Zwingly. MEiſter Niclaus /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Hieby\nfrommen Chriſten/ merckt üwer lieb/ das der verſtand\nvnser brüder der Predicanten/ noch jmmerdar vffrecht\nſtade",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7004,
+        "semantic_match": "zun\nTheſſalonicheren in der anderen Epiſtel / am anderen cap. die nit all geſchryben ſtond/als ich mein. Zwingly. MEiſter Niclaus /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.738,
+    "reworded": 1,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4348,

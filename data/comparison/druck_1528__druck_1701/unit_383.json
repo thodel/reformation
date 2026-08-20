@@ -39,19 +39,25 @@
         "op": "match",
         "a": "Danielis am ix. vñ xj. Matthei am xxiiij. vnd Luceam xxj. sol man laͤsen. Gilg Durer. CHristus hat dise gschrifft anzogen im heyligen\nEuangelio/vnd mag nit allein verstanden wer\nden dem buͦchstaben nach/von der vffhoͤrung deß\nopffer der Juden/sonders es muͦß ouch nach dem geyst=\nlichen sinn verstanden werden/vonn der letsten zyt/das\nwil ich bewaͤre durch den vorgenanteñ Danielem am ix.",
         "b": "382             Die Fuͤnffte Schlußred. ſtaben nach / von der Aufhoͤrung der Opffer der Juden/ ſonder es muͤß auch nach dem geiſtlichen Sinn verſtan-\nden werden von der letzten Zyt /",
-        "similarity": 0.3137
+        "similarity": 0.3137,
+        "semantic": 0.5417,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Da er spricht/das opffer wirt vffhoͤzen/vn̄ der gruͤwel d\neroͤdung wirt waͤren oder sin im tempel/vnd wirdt waͤ=\nren biß zuͤ ende.",
         "b": "das wil ich bewaͤhren\ndurch den vorgenanten Danielem am 9. da er ſpricht/ Das Opffer wird vffhoͤren/und der Greuel der Eroͤdung\nwird waͤhren oder ſyn im Tempel/und wird waͤhren biß\nzuͤ Ende.",
-        "similarity": 0.5294
+        "similarity": 0.5294,
+        "semantic": 0.6428,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Hie hatt heyter geredt Daniel von den\nletsten zyten des Entchrists/vnd dann so sol eroͤdet wer\nden der tempel/daruoz vns Gott behuͤte/das wirs nitt\nanfahen by vnsern zyten.",
         "b": "Hie hat heiter geredt Daniel von den letzten\nZyten deß Endchriſts / und dann ſo ſoll eroͤdet werden\nder Tempel /",
-        "similarity": 0.4906
+        "similarity": 0.4906,
+        "semantic": 0.7759,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,7 +69,9 @@
         "op": "match",
         "a": "Meyster Vlrich zwingli. DJe gesagte zyt bim Daniel/so sy recht vßge=\nrechnet wirt/zeygt wol an/wan̄ die gruͤwlich\nzerstoͤrung komen werd/dann heyterer pro=\nphety der zythald/wann Christus komen soͤl\noder die gruͤwlich zerstoͤrung/in dheinem Propheten ist:",
         "b": "ſo ſy recht ußgerech-\nnet wird / zeigt wol an / wann die greuliche Zerſtoͤ-\nrung kommen werd / dann heiterer Prophecey der Zyt\nhalb /",
-        "similarity": 0.3235
+        "similarity": 0.3235,
+        "semantic": 0.743,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,7 +83,9 @@
         "op": "match",
         "a": "das aber anzeygt ist/d verharrung halb des gruͤwels der\nzerstoͤrung/ist wider sy: dan̄ der Prophet sagt/die gru=\nsamlich zerstoͤrung werde im tempel sin/das ist so vil ge\nsagt/Der tempel wirt so grusamlich zerstoͤrt blibe/es ist\nein προσωποποιϊα: vnnd wil sagen/das der tempel so gru=\nlich",
         "b": "iſt wider ſy : dann der Prophet ſagt/ die grauſamlich\nZerſtoͤrung werde im Tempel ſyn / das iſt ſo vil geſagt/",
-        "similarity": 0.4211
+        "similarity": 0.4211,
+        "semantic": 0.8379,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -101,7 +111,12 @@
         "b": "nit ſo man abbricht das / ſo\nwider Gott iſt vffgericht/ ſonder ſo wir andere Troͤſt/ Heyland und Goͤtter ſuͤchen weder den lebendigen Gott. Gilg",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7083,
+    "reworded": 3,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4554,

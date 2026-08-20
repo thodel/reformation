@@ -51,7 +51,9 @@
         "op": "match",
         "a": "Die ander\ngruſamliche abgötteryen / ſo alle welt allenthalbe erfüle\niſt / durch menſchen ſatzungen. Vnd darumb ſo ermanen\nvñ bitten ich üch all Chriſtenlich brüder /",
         "b": "Vnd darumb ſo ermanen vnnd bitten ich üch all Chriſten-\nlich Brüder/die da diſen Artickel vnderſtond zů widerfech-\nten /",
-        "similarity": 0.4091
+        "similarity": 0.4091,
+        "semantic": 0.8174,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -63,25 +65,33 @@
         "op": "match",
         "a": "vñ vns der ſelbe in Chriſtenlicher liebe zůberich-\nten geneigt ſye / damit das niemand in die gruſamlichen\nvnuergeblichen ſünd falle /",
         "b": "das ſich ein jeglicher in ſinem Hertzen erkunde / ob er\nſich der luteren Warheit zů erfaren / vnnd vns der ſelben in\nChriſtenlicher liebe zůberichten geneigt ſye/damit das nie-\nmand in die gruſamlichen vnuergeblichen Sünd falle/",
-        "similarity": 0.5357
+        "similarity": 0.5357,
+        "semantic": 0.8597,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vñ der bekanten warheyt wi\nder ſträbe / dz vns all gott vor behüete. Johannes Büchſtab ſchülmey,\nſter Zofingen. [I]N dem namen der heyligen dryfaltikeyt /",
         "b": "vnd der bekanten Warheit wider ſtråbe / das vns all Gott\nvor behiete. Johannes Bůchſtab Schůlmeiſter\nZofingen. JN dem namen der heiligen Dryfaltigkeit /",
-        "similarity": 0.5532
+        "similarity": 0.5532,
+        "semantic": 0.9157,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vñ al-\nles himelſchen heres / Amen. Diewil ich in hoch-\ngeblümbten glatten worten / vor welchen vnns\nſant Paulus zů den Colloſſenſern am ij.",
         "b": "vnnd alles\nhimmelſchen Heres / Amen. Diewil ich in hochge-\nblůmbten glatten worten / vor welchen vns Sant\nPaulus zů den Coloſſenſ.",
-        "similarity": 0.6047
+        "similarity": 0.6047,
+        "semantic": 0.8296,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "gewarnet hatt / damit nit verführt ſölle werde / nit bericht noch gebrucht\nbin / wil ich kurtzlich die gſchrifft angriffen / vnd das wir\nouch andre gſchrifften dan Bibliſch ſchuldig ſyen zůhal-\nten /",
         "b": "am 2. gewarnet hat / damit nit\nverfürt ſollen werden/nit bericht noch gebrucht bin / wil ich\nkurtzlich die Gſchrifft angriffen /",
-        "similarity": 0.56
+        "similarity": 0.56,
+        "semantic": 0.7072,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -93,13 +103,18 @@
         "op": "match",
         "a": "iſt zů glouben / ſo Sanctus Joannes ſpricht am xx. vñ am xxj. Das Chriſtus vil ding gethon / die in dißem\nbůch nit begriffen ſyen /",
         "b": "Das\nChriſtus vil dingen gethon / die in diſem Bůch nit begrif-",
-        "similarity": 0.4571
+        "similarity": 0.4571,
+        "semantic": 0.8535,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "ꝛc. Darumb ich wil vff das kürtz\neſt / etliche ort vnd Capitel anzeygen / in welchen etliche\nwort vnnd reden Chriſti nitt beſchriben ſind /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6065,
+        "semantic_match": "vnd Danie-\nlis am 8. vnnd die zerſtröwt mit den Ceremonien/damit ſy\ndeſter minder warnemen / was da redte jnnerlich das ewig\nWort mit jnen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -119,7 +134,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7985,
+    "reworded": 2,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4682,

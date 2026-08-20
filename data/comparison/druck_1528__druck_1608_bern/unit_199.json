@@ -39,7 +39,10 @@
         "op": "only_a",
         "a": "aber daruon hienach witer an sinem ort. **Bichwatter.**\n\nHErr Martin Buͦtzer sagt uͤch. Ich hab ein nit=\nwegloß uͤber das Capi.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7155,
+        "semantic_match": "200 Die ander\nBychtuatter. HErr Martin Butzer sagt ůch: Jch hab ein nůwe gloß\nůber das capitel zů Timotheo hær fůr bracht /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -51,33 +54,48 @@
         "op": "match",
         "a": "zuͦ Thimotheo harfuͤr\nBracht / darzuͦ sag ich / wie er gesagt hat / sag ich\nneyn / das ist der verstand von alterhar /",
         "b": "darzů\nsag ich/wie er gesagt hat / sag ich nein/das ist der ver=\nstand von alterhar / der heiligen Christenlichen Kilchen/",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.8359,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "der heylige Chri\nstenlichen Kilchen / als wol gegruͤndt in disem text / als\nsyn vßlegung / vnd wie sy myns verstandes nit gestan=\nden /",
         "b": "als wol gegrůndt in disem Text / als syn Vßlegung / vnnd\nwie sy myns verstandes nit verstanden / also gestan ich\njres verstandts ouch nit /",
-        "similarity": 0.5652
+        "similarity": 0.5652,
+        "semantic": 0.8582,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "also gestan ich jres verstands ouch nit / referier mich\nouch vff den selben text / vnnd die gschrifft / mit dem wil\nich nu zemal beschlossen habe͂ /",
         "b": "referier mich ouch vff den selben\nText / vnnd die Geschrifft / mit dem wil ich nun zemal be=\nschlossen haben / vnnd der Geschrifft beuelchen/",
-        "similarity": 0.5833
+        "similarity": 0.5833,
+        "semantic": 0.908,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vß der gschrifft Beuelchen / Protestier mich / das ich alles das so ich hie geredt hab / vnderwuͤrff der straff vnnd besserung /",
         "b": "Protestier\nmich / das ich alles das / so ich hie geredt hab / vnderwůrff\nder straff vnnd besserung der gemeinen Christlichen Kil=\nchen /",
-        "similarity": 0.7143
+        "similarity": 0.7143,
+        "semantic": 0.8687,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "der ge=\nmeynen Christlichen kilchen / wo die nach ord=\nenlicheit versamnot wirt / vrbuͤrtig / wo\nich des gewisen wurd / zuͦ corrigie=\nren vnd zuͦbessern bin\nich willig. End der andern schlußred.",
         "b": "wo die nach ordenlicheit versamnot wirt/vrbůt=\ntig/wo ich deß gewisen wurt/zů corrigieren vnd\nzů bessern bin ich willig. Ende der andern Schlußred. Bercht",
-        "similarity": 0.6207
+        "similarity": 0.6207,
+        "semantic": 0.7902,
+        "reading": "same"
       }
-    ]
+    ],
+    "semantic": 0.8294,
+    "reworded": 0,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6205,

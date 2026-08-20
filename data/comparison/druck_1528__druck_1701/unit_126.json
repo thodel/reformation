@@ -33,25 +33,33 @@
         "op": "match",
         "a": "**Schlußred**\nherr Chriſtus Petro die ſchluͤſſel in ſonderheit verheiſſen\nbeduͤt vns ein ſondrige oberkeit vnd gewalt vnder den\nhirten/im xviij.",
         "b": "118\tDie Erſte Schlußred. heiſſen / beduͤtet uns ein ſondrige Obrigkeit und Gewalt\nunder den Hirtẽ/im 18.Cap. het ers ihnen allen verheiſſen/",
-        "similarity": 0.4255
+        "similarity": 0.4255,
+        "semantic": 0.4311,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "cap. hett ers jnen allen verheyſſen/ nit\ndie ſchluͤſſel/ ſonders binden vnd entbinden / Dennenhar\nmuß er nit darumb allein ein hirt ſin/darum̃ dz er ein fuͤr\nnemer iſt/als in eim krieg ein Oberſter houptman iſt/nit.",
         "b": "nit die Schluͤſſel/ſonders binden und entbinden/dañenher\nmuͦß er nit darum allein ein Hirt ſyn / darum daß er ein\nfuͤrnemmer iſt /",
-        "similarity": 0.5538
+        "similarity": 0.5538,
+        "semantic": 0.7548,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "nit das ander houptluͤt ouch ſiend / als dann im Euan=\ngelio Centurio ein houptman iſt geſin/vnder eim ande=\nren houptman/iſt nuͤt deſterminder ein houptman gſin\ndannanhar gnuͤgſamlich darthon iſt /",
         "b": "als in eim Krieg ein Oberſter Haubtman\niſt / irzt nit / daß ander Haubtleut auch ſeyend / als dann\nim Evangelio Centurio ein Haubtmann iſt gſyn under\neim anderen Haubtmann/iſt nuͤt deſterminder ein Haubt-\nmann gſyn /",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.7295,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vß d gſchrifft/dz\ndem Petro als eyn fuͤrnemer inſonders verheyſſen ſind\ndie ſchluͤſſel/ vnd den andern nuͤtdeſterminder gewalt ze\nbinden vnd entbinden.",
         "b": "dannenhaͤr gnuͤgſam darthon iſt vß der Ge-\nſchrifft / daß dem Petro/ als ein fuͤrnemmer inſonders ver-\nheiſſen ſind die Schluͤſſel /",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.6666,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,25 +71,33 @@
         "op": "match",
         "a": "**Berchtoldus.**\n[Initial M] Eyster Jacob uͤwer red iſt ſo vnußtragen / das\nſy keiner anwurt bedarff/gſchrifft ſtat vffrecht\nvnſer ſchlußred ſtond vffrecht/vnd iſt das alls\nverantwurtet/des laß ich mich an die Acta hie ob.",
         "b": "Geſchrifft ſtaht vffrecht/ un-\nſer Schlußred ſtohnd vffrecht / und iſt das alles verant-\nwortet / deß laß ich mich an die Acta hieoben.",
-        "similarity": 0.4068
+        "similarity": 0.4068,
+        "semantic": 0.7263,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "**Meyster Jacob Edlebach.**\n[Initial H] Err Berchtold ich bin grad glicher meynuͤg/dz\nich mich halten vñ laſſen an die Acta.",
         "b": "Meiſter Jacob Edlebach. HErr Berchtold/ich bin grad glycher Meynung/daß\nich mich halte und laſſe an die Acta : namlich gnuͤg-\nſamlich dargethon han /",
-        "similarity": 0.4681
+        "similarity": 0.4681,
+        "semantic": 0.7817,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Namlich\ngnuͤgſamlich dargethon han/als ich hoff vß der\ngſchrifft/dz ein oberſter hirt / d Kilche notwendig wårde\nſin vñ ſye/alls jetzund gewårt hatt vff die xv.hundert.",
         "b": "als ich hoffe / vß der Geſchrifft/ daß ein Oberſter Hirt der Kilchen nohtwendig werde\nſyn und ſey / als jetzund gewaͤhrt hat vff die 1500.",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.5541,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "jar oder vm̃ das ſelb võ Petro/von einẽ vff den andern/ das min red beſtåtet/vnd wie min herr Genger ſich be=\nzuͤgt hat/alſo thuͤn ich ouch/vñ wil damit bezuͤget han. p",
         "b": "Jahr\noder um daſſelb / von Petro / von einem vff den andern/ daß myn Red beſtaͤtet / und wie myn Herr Senger ſich\nbezuͤget hat /",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.6854,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -89,7 +105,12 @@
         "b": "alſo thuͦn ich auch / und wil damit bezuͤget\nhan. Berch-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6662,
+    "reworded": 5,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.565,

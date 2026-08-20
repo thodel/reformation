@@ -51,7 +51,9 @@
         "op": "match",
         "a": "**Schlußred.**\n\nwiderwertig/hatt ſich herr Benedict der Pfarrer daſelbs/hie zů gegen=\nouch vor einem Erſamen Radt by vns Chriſtenlich erbotten/bericht zů=\ngeben vnnd zůnemen/in der hoffnung/er werde ouch bericht finden/als\ndann beſchehen iſt(Gott dem herrn ſy lob)Diewyl er aber ſich zum teyl\nerkent bericht zeſin/beger ich im vnd allen von gott dem herrn/das er im\ndas übrig ouch zůuerſtan gebe/darzů ein hertz beſtendig an dem ſelbigen\nzebeharrē.",
         "b": "hat ſich Herr Benedict der Pfarrer das\nſelbs/ hie zů gegen/ ouch vor einem Erſamen Radt by vns Chriſten-\nlich erbottẽ/bericht zů geben vnd zů nemen /in der hoffnung/er werde\nouch bericht finden/als dañ beſchechen iſt (Gott dem Herren ſye lob)\nDiewyl er aber ſich zum theil erkennt bericht zeſyn/beger ich jm vnd\nallen von Gott dem Herrn/daß er jm das übrig ouch zůverſtan gebe/",
-        "similarity": 0.7211
+        "similarity": 0.7211,
+        "semantic": 0.969,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -63,13 +65,17 @@
         "op": "match",
         "a": "Bezüg mich hie vor diſer Erſamen verſamlung/von vnſerer\ngemeind wegen zů ſant Gallen/das wir yetz ein lange zeyt nüt geſpart\nhaben/vnd allen flyß ankert/das wir einmütig die warheyt Chriſti vnd\nſin wort predigten/haben ouch vil geſprech/nach beuelch vnſerer herrn\ngegen einandern gehalten.",
         "b": "daß wir yetz ein lange Zyt nüt geſpart haben/vnd\nallen flyß ankert/daß wir einmůtig die Warheit Chriſti vnd ſyn wort\npredigten/haben ouch vil geſprech/nach befelch vnſerer Herrn gegen\neinandern gehalten.",
-        "similarity": 0.6829
+        "similarity": 0.6829,
+        "semantic": 0.8848,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "In welchen der Pfarrer/ouch etwan mit ant=\nwurten hatt können/das ich alles Gott dem herrn beuilch/der da jn ſin\nlüchten mag in dißem Artickel/vnd mich verblenden nach ſinen wunder=\nbarlichen wercken/ein ſchreckentlicher Got/dem ſy ouch krafft vnd rych\nvnd danck/zů ewigen zyttten/Amen.",
         "b": "In welchen der Pfarrer /ouch etwan nit ant-\nwurten hat können/ daß ich alles Gott dem Herrn befilch/der da jn\nerlüchten mag in diſem Artickel/",
-        "similarity": 0.5263
+        "similarity": 0.5263,
+        "semantic": 0.8482,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -81,19 +87,27 @@
         "op": "match",
         "a": "**Pfarrer von ſant Gallen.**\n\nIch laß beliben/wie ich vor geantwurt. **Theobaldus Hütter Pfarrer**\n**von Apenzell.**\n\n[N]Emend hin vnd eſſend/das iſt min lyb/iſt offte\nvñ mengßmal diß tags gehandelt/vil gſchrifft\nda angezeygt/mit red vnd antwurt dargethon.",
         "b": "Amen. Pfarrer von Sant Gallen. Jch laß beliben/ wie ich vor geantwurt. Yy\tiij",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.5803,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "So aber Meyſter Vlrich Zwingli das wörtli Iſt vnd\nander mit jm/wellen allwegen vff Süten zyehē/als ob=\nman ſprechen ſölte/dz Sütet min lyb/zc.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6094,
+        "semantic_match": "vnnd mich verblenden nach ſynen\nwunderbarlichen Wercken / ein ſchreckenlicher Gott/ dem ſye ouch\nKrafft vnd Rych vnd danck zů ewigen zyten/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Am ſelben er=\nwas ingeleyt mit ſyner Declaration/zůbewarē dz wört=\nly Iſt vff düten/welche Declaration ich nit annim/vñ\ndas alls ich hoff mitt güter vrſach.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6671,
+        "semantic_match": "vnnd mich verblenden nach ſynen\nwunderbarlichen Wercken / ein ſchreckenlicher Gott/ dem ſye ouch\nKrafft vnd Rych vnd danck zů ewigen zyten/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -101,7 +115,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7598,
+    "reworded": 0,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5362,

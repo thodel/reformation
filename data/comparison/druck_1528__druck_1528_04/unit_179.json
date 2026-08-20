@@ -33,7 +33,9 @@
         "op": "match",
         "a": "**Schlußred. LXXXII**\n\n**Ordnung miner herren**\n\nHAbend vnser gnädigen herren/Schultheß vnd\nRädt/diser loblichen statt Bern/zů vermidung\naller vnrůwē/vñ aller parthyen klag/abermal\ngeratē vñ geordnet/dz all jr pfarrer/seelsorger/vñ Pre\ndicantē/in statt vñ land/ouch die so sunderbar vff gegen\nwůrtige Disputatz beschriben sind.",
         "b": "Schlußred. XCIII\ndung aller vnruͤwen/ vnnd aller parthyen klag/ abermal geraten vñ geordnet. Dz all jr Pfarrer/ seelsorger/ vnd predicanten/",
-        "similarity": 0.3662
+        "similarity": 0.3662,
+        "semantic": 0.7908,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -45,19 +47,26 @@
         "op": "match",
         "a": "Deßglichen all an=\nder/so vff diser Disputatz zů disputieren fürnämens wä\nrend/sich in das Chor verfügen/vnd sich allda/einer/oð\nder andern parthy/vnderschrybē lassen.",
         "b": "sich in das Chor verfuͤgen / vnd sich all da/ einer/ oder der andern parthy/ vnderschribẽ las-\nsen. Vnd sytmal vff der Predicantẽ parthy/",
-        "similarity": 0.3846
+        "similarity": 0.3846,
+        "semantic": 0.7224,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Vnd sitmal vff\nder Predicanten parthy/vil gelerter menner sind/möge\nder gegenteil sich beraten/vñ zwen/dry/vier/oder mer/",
         "b": "vil\ngelerter menner sind / moͤge der gegen teyl sich\nberaten/ vnd zwen/ dry/ vier/ oder mer/ erwellẽ/ die in aller namen wider die Schlußreden dispu\ntieren.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.8383,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "erkiesen/die in jr aller namen wider die Schlußreden di=\nsputieren. Hienäben/so mag ouch ein yed vff beiden par\nthyen die sinen stüren/denen schrifftlich oð muntlich bera\nten vñ beholffen sin/vñ barfür bringē/wz zů erkůndigūg\ngöttlicher warheit/dienstlich ist:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6648,
+        "semantic_match": "Hienaͤben/ so mag ouch ein yeder vff bey\nden parthyen die sinen stuͤren / denen gschrifft-\nlich odér mundtlich beraten vnd beholffen sin/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -75,13 +84,17 @@
         "op": "match",
         "a": "alles nach vermög vß=\ngeschribnen Mandats der Disputation. Es söllen ouch\nall priester/Predicanten/pfarrer/vñ seelsorger/vō statt\nvnd land/biß zů end diser Disputatz/hie verharrē vnd\nnit verrucken.",
         "b": "Es\nsoͤllen ouch all priester/ Predicanten/ pfarrer/ vñ\nseelsorger/ von statt vnnd land/ biß zuͤ end diser\nDisputatz/ hie verharren vnd nit verrucken.",
-        "similarity": 0.6909
+        "similarity": 0.6909,
+        "semantic": 0.9142,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "**Demnach hat Niclaus Manuel/Vogt**\n**zů Erlach/nachuolgendered gethan.**\n\nEwůrdigen gelerten/Es sol niemant erachten/ das vnsere gnädigen herren/allein begirig syen/",
         "b": "Demnach hat Niclaus Manuel\n  Vogt zuͤ Erlach/ nachuolgẽde red gethan. Erwuͤrdigen gelertẽ. Es sol niemand erachten/ das vnsere gnaͤdigen herrn/",
-        "similarity": 0.5778
+        "similarity": 0.5778,
+        "semantic": 0.6131,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -93,7 +106,9 @@
         "op": "match",
         "a": "das die fürgetragnē artickel durch jre Predican\nten/sampt der leer so darus flüßt/erhalten werdē/sun=\nder allein ist jr fürnämen/die warheit von Göttlichem\nwort zů erforschen/ob die artickel in göttlicher geschrifft\nE ij",
         "b": "sonder allein ist jr fuͤrnaͤmen/ die war-\nheyt von goͤttlichẽ wort zuͤ erforschẽ/ ob die Ar-\ntickel in Goͤttlicher geschrifft bestanden /",
-        "similarity": 0.3548
+        "similarity": 0.3548,
+        "semantic": 0.7173,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -101,7 +116,12 @@
         "b": "oder jr\n                                       m   v\n\n## Marginalien\n[abgeschnittene Marginalie am linken Rand]",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7516,
+    "reworded": 3,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5797,

@@ -57,25 +57,33 @@
         "op": "match",
         "a": "Die erst\nhimlen/vnnd das du entbindest offerden/das wirt ent=\nbunden sin in den himlen/Johanis am yyj.capitel.",
         "b": "vnd\nwas du entbindeſt vff Erden/ das wird entbunden ſyn in\nden Himmlen. Johannis am 21. Capitel/ Do ſprach\nder Herr zu Petro:",
-        "similarity": 0.3256
+        "similarity": 0.3256,
+        "semantic": 0.7121,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "So\nsprach der Herr zu Petzo: Symon Johannis/hast du\nmich liebs Zwey mal ward jm geantwurtet: Ja/vñ du\nweyst das ich dich lieb han.",
         "b": "Simon Joannis/ haſt du mich lieb? zweymal ward ihm geantwortet/ Ja: vnd du weiſt/ daß\nich dich lieb han. vnd zweymal ward ihm geſagt:",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.5237,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Und zwey mal ward im ge=\nsagt: Weid mine lamer oder schäffly. Sise gschrifft halt\nich vest/vnd gnügsam sin/das Petrus vñ ander nach=\nkomend Statthalter Christi/",
         "b": "Weid\nmyne Låmmer oder Schåfli. Dieſe Geſchrifft halt ich\nfeſt/ vnd gnůgſam ſyn/ daß Petrus/ vnd andere nach=\nkommende Statthalter Chriſti/",
-        "similarity": 0.4082
+        "similarity": 0.4082,
+        "semantic": 0.6834,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "habend empfangen den\ngewallt off erden/zu binden vnnd entbinden/zu wysen\nvnd leren/das gehdit dem weyden zu/zü pieten vnnd\nverbieten/Sennehan ich vorgeseyt/günnt diegschrifft\nanderen mindern regierendenden namen/des houpts/",
         "b": "habend empfangen\nden Gewalt vff Erden/ zu binden vnd entbinden/ zu wy=\nſen vnd lehren/ das gehört dem weiden zu/",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.7908,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,25 +95,36 @@
         "op": "match",
         "a": "ist Elar/am ersten Büch der Küngen/im vv.cap.sprach\nSamuel vß oder in dem wort Gottes/zu Saul:So du\nElein warest in dinen ougen/da bist du worden ein houpt\nin den geschlachte Ifrahels.",
         "b": "am Erſten Bůch der kůnigen im 15. Capitel ſprach Samuel vß oder in dem Wort Gottes/ zu Saul: Do du klein wareſt in deinen Augen/",
-        "similarity": 0.5806
+        "similarity": 0.5806,
+        "semantic": 0.7106,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Amos/am vj.capitel. Sie\nfürnemſten hsupter der volckeren.ac. Butzer. f die anzognen gschrifft/damit das heilig wort\nGottes ernstlich gehandlet werde/wirt durch\nmine brüder/nach ordnung geantwurt werde.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7254,
+        "semantic_match": "Matthei am 16. Capitel/ Du\nbiſt Petrus/ vnd vff dieſen Velfen wird ich bauen myne\nKilchen/ vnd die Porten der Höllen werden der nit mö=\ngen widerſtan:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Sas fölte bewaren der Bychruatrer/das sant Peters\nBeuelch jnn möge zu einem houpt der Kilchen machenn. Sarzu hatt er anzogenn das fünffzehend capitel/des\nersten Büchs Samuelis/da gemåldet wirt/das Gott\nden Saul/zu einem houpt des volcks gesetzet hab/Sa\nfolt er aber merckenn/das Saulein vsserlicher Regent/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6542,
+        "semantic_match": "Matthei am 16. Capitel/ Du\nbiſt Petrus/ vnd vff dieſen Velfen wird ich bauen myne\nKilchen/ vnd die Porten der Höllen werden der nit mö=\ngen widerſtan:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "von Gott gesetzt gewesennist/ vnnd des houpts art/ in sõlichem",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8237,
+        "semantic_match": "zu pieten vnd\nverpieten: Denne han ich vorgeſeyt/ gůnnt die Ge=\nſchrifft andern mindern Regierenden den Namen deß\nHaupts/ iſt klar/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -113,7 +132,12 @@
         "b": "da biſt\ndu worden ein Haupt in den Geſchlechten Jſrael. Amos\nam 6. Capitel: Die fürnemſten Håupter der Völcke=\nren. ꝛc. Bucerus.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.703,
+    "reworded": 3,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3436,

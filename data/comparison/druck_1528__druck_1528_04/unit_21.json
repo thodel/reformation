@@ -39,31 +39,41 @@
         "op": "match",
         "a": "gebott und verbott/ouch valsch gotsdienst/ sich yngeris\nsen haben/vnd das zü grossem nachtheyl götlicher war\nbeyt/Christenliches gloubens vnd liebe:",
         "b": "III . Die erſt\n\nvil irſal/gebott vnnd verbott/ouch falſch Gotts\ndienſt'/ſich yngeriſſen haben / vnd das zů groſ-\nſem nachteyl goͤttlicher warheyt /",
-        "similarity": 0.3478
+        "similarity": 0.3478,
+        "semantic": 0.7428,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Tum vierden/Sas sy nit allein vnder dem schyn/ zytlichs güts/ja die besten/jnen züzogen/welches doch\ngeduldet werden möcht:",
         "b": "Chriſtenliches\ngloubens vnd liebe. Zum vierden / Das ſy nit allein vnder dem\nſchyn/zytlichs guͦts/ja die beſten/jnen zůzogen:",
-        "similarity": 0.619
+        "similarity": 0.619,
+        "semantic": 0.667,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "sonder sich ouch vermessen über\ndie seelen vnd consciens der menschen zü herrschen. Zum fünffren/das vil vnder dem schyn/thittel vin\nnamen/der Kilchen sich beschirmpt haben/wider d3 hell\ngotswort/fürwendend die possess vnd gewerd der Kil-\nchen.",
         "b": "welches doch geduldet werden moͤcht / Sonder\nſich ouch vermeſſen uͤber die ſeelen vn̄ conſcientz\nder menſchen zůherrſchen. Zum fuͤnfften/Das vil vnder dem ſchyn/tit-\ntel vnd namen /",
-        "similarity": 0.4225
+        "similarity": 0.4225,
+        "semantic": 0.4614,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Sise vnnd der glychen/sotäglich in gemeiner red\nfind/hand ons bewegt/das wir mit diser Schlußred be\ngriffind/alles das vins der Herr vf dem schatz göttli=\ncher gschrifft zeleren/verlichen hat.",
         "b": "der Kilchen ſich beſchirmpt ha-\nbend / wider daß haͤll Gottswort/fuͤrwendend\ndie poſſeſſz/vnd gewerd der Kilchen. Diſe vnd\nder glychẽ/ſo taͤglich in gemeiner red ſind/hand\nvns bewegt/dz wir mit diſer Schlußred begrif-\nfind/alles das vns der Herr vß dē ſchatz Goͤtt-\nlicher geſchrifft zeleren verlichē hatt.",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.7673,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Samit wir nun ver\nstandind was dernamen (kilch) off im trag/wüffend\nall gelerten/das das wort ἐκκλησία, Ecclefia, Griechisch/off\nTutsch ein versamlung heißt.",
         "b": "Damit wir\nnun verſtandind was der namen/Kilch / vff jm\ntrag/wuͤſſend all gelertẽ daß dz wort/ἐκκλησΐα,\nEccleſia /",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.6586,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,19 +85,26 @@
         "op": "match",
         "a": "Als wir habe/Llum.xv. Wo:umb hast vsgefurt die gmeynd des Herren in die\nwüster Bie sechend jr/das nit sunder personen/sonder\nein gantzegmeynd/der kinder von Ssrabel/ein Kilchen\ngenempt wirt.",
         "b": "Hie ſechend jr/das nit ſonder perſonen/ ſonder ein gantze gemeind der kinder vō Jſrael\nein Kilchen genempt wirt . Daher die geſchrifft\ndie verſamlung guͦter vnd boͤſer weniger vnnd\nviler /",
-        "similarity": 0.3939
+        "similarity": 0.3939,
+        "semantic": 0.744,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Sahar die geschrifft die versamlung gu\nrer vnd böser/weniger vnd viler/ein Kilché nempt.Als\nPaulus schrybt der Kilche/die in Corintho ist/j.",
         "b": "ein Kilchen nempt / Als Paulus ſchribt\nder Kilchen/die in Corintho iſt.1.Corinth.1. Vn̄\nChriſtus gebuͤttet / den ſuͤnder /",
-        "similarity": 0.383
+        "similarity": 0.383,
+        "semantic": 0.761,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Coz. j. vn Christus gebütet den sünder/fo zwey mal/ermant/ vnd sich nit bessert/der Kilchen fürzetragen. Also ver=\nglychet er sy dem acker/des guten samens vnd vnkruts\ndie er beide heyßt wachsen/Bißzüder zyt der ernd.Sef=\nglychen dem neze/das biß vnnd güt fisch facher. Also\n21  ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7002,
+        "semantic_match": "ſo zweymal er-\nmandt/vnd ſich nit beſſert/der Kilchen fuͤrzetra\n                                                              gen",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -95,7 +112,12 @@
         "b": "ſo zweymal er-\nmandt/vnd ſich nit beſſert/der Kilchen fuͤrzetra\n                                                              gen",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6878,
+    "reworded": 5,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5106,

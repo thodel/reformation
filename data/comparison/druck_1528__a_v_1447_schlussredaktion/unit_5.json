@@ -39,25 +39,35 @@
         "op": "only_a",
         "a": "vsgeschriwen worden/ob yemands mer vorhanden/8\nwyrer darzu/oder wider reden welle/2c. Vn also beyder fitr (wie erst ge■eytist) die so die Artick\nel/all oder erlich widerfechten welten:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.708,
+        "semantic_match": "sonders\nall vier sich geschriftlichen ihres vssblibens entschuldiget/ da// ruber siner zyt ouch buͤrlichen/soll geantwortet werden/ vnnd insonders vff des von Losan vielfalltig schreiben/",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "vn ouch die/sodie\nhandthaben/gerecht vin Christenlich erkandten/sich ye=\nder sins gevallens vnderschribe. Weliche onderschribüg\nvon kürze wege(wie obgemeldet ist)einen yeden mit [y=\nnem namen zebenamffen/vnderlassen ist/Gott weyst\nwer finem wort vertruwet/dann er alleyn der menschen\nherzen erkent.",
         "b": "Wax\nndt\nDas\n& sin\ngeven\nchristenlich erkandten / sich Jeder sins gefallens vnder// schriben/Welichs  vnderschribung von kürtze\nwegen (wie obgemeldet ist) einen Jeden mit sinem\nnamen zebenammssen/underlassen ist.",
-        "similarity": 0.3514
+        "similarity": 0.3514,
+        "semantic": 0.6592,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Ist ouch zu wüssen/das anfangs des gesprechs eyn\noffenlich Beriffen beschehen ist/aller dero so off diß ge=\n■prech Beschribe/vi früntlich geladé gewesen/luxdes vf=\nschribens.",
         "b": "Gott weisst\nwer sinem wort vertrauet/ Dan er allein der\nMöntschen hertzen erkent/ Ist ouch zu wüssen  Das anfangs des gesprechs\nein offentlich beruffen beschehen ist/",
-        "similarity": 0.3704
+        "similarity": 0.3704,
+        "semantic": 0.6188,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Ses er■té/so sind nach einandern berifft woz=\nden/die vier Bischoffe/von Costanz/Baffel/Wallis/vi\nZosan/obsy/oder jemands võjrent wegen zu gege were\nhatt niemants geantwurt/sonders all vier sich gschrifft\nlichen jrß vßbliben entschuldiget/darüber siner zyt ouch\nBürlichen soll geantwurt werden:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8537,
+        "semantic_match": "sonders\nall vier sich geschriftlichen ihres vssblibens entschuldiget/ da// ruber siner zyt ouch buͤrlichen/soll geantwortet werden/ vnnd insonders vff des von Losan vielfalltig schreiben/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -81,13 +91,18 @@
         "op": "match",
         "a": "vnd insonders vff des\nvon Losan villfaltig schriben/dann der selbig ouch/sin\ngelerten durch ein Oberkeyt zu Bernn ze mernmaln/fich\noff dise Sisputatz zefugen/gebåten/",
         "b": "dann derselbig ouch/sin Gelerten durch ein Ober// keit zu Bern ze mehrmaln/ sich uff des Disputatz\nzefuͤgen/gepetten/vnn angesucht sind worden/",
-        "similarity": 0.3137
+        "similarity": 0.3137,
+        "semantic": 0.7115,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "vn angesicht sind\nworden. Und wie wol ettlich finer Soctores/allhie ge=\nwesen/baben sy sich doch keiner gestalt mercké lassen/son\nders stumer dan die visch/hiehinne abgescheyde/darab\nman nemen mag/wie vast/follichen byrten & Christen-\nlichen hård weydung zü herzen gat/Hot sye/es geflagr.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8654,
+        "semantic_match": "Darob man nemmen mag/ wie vast/sollichen hirtten\nder christenlichen herd weidung zu hertzen gat/Gott\nsye es geklagt/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -107,7 +122,12 @@
         "b": "Darob man nemmen mag/ wie vast/sollichen hirtten\nder christenlichen herd weidung zu hertzen gat/Gott\nsye es geklagt/",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7361,
+    "reworded": 3,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3848,

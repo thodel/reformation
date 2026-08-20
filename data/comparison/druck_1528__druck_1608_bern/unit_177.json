@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "**Schlußred LXXXI**\n\nvnnd gemachel der Christenlichen Kilchen beuolchen. zc. **Martinus Butzer.**\n\nICH referier mich zun Acta/ vonn disem angezognen Zienor an 65\nspruch selbs.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6141,
+        "semantic_match": "das iſt nit/ſunders\ndiſe Kilch bindet conſcientz nit/weder ſy vß liebe vnd Geiſt/ ſich vff ein zyt ſoͤllichs zuͤthuͤnd:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -45,49 +48,67 @@
         "op": "only_a",
         "a": "nit vß dem geyst gsin syend/ Samit wil ich be-\nschliessen/ von kuͤrtze vnd bitt waͤgen miner her\nren der presidenten/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6998,
+        "semantic_match": "das iſt nit/ſunders\ndiſe Kilch bindet conſcientz nit/weder ſy vß liebe vnd Geiſt/ ſich vff ein zyt ſoͤllichs zuͤthuͤnd:",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Aber gestern in der lenge anzogenn/ ein Exempel von der vnuermasßgeten junckfrowē Ma\nria/ als ob man jr hettē vneer zuͤgelegt.",
         "b": "176                     Die ander\nſtern in der lenge anzogen/ein Exempel von der vnuermas-\ngeten Jungkfrowen Maria / als ob man jr hette vneer zuͤ-\ngelegt.",
-        "similarity": 0.6522
+        "similarity": 0.6522,
+        "semantic": 0.5233,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Nach dem vnnd\nich verstan/ so sag ich also darzuͤ/ das ich/ sampt minen di\nsputanten/ erkenn/ Mariam die muͤter Gottes/",
         "b": "Nach dem vnd ich verſtan/ſo ſag ich alſo darzuͤ/ das\nich/ſampt minen Disputanten / erken Mariam die Muͤt-\nter Gottes /",
-        "similarity": 0.8182
+        "similarity": 0.8182,
+        "semantic": 0.9407,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dz sy sye\nein junckfrow/ vor der geburt/ nach der geburt/ vnnd in\nder geburt/ reyn vnd vnbefleckt. **Zwingli.**\n\nLIeber herr Pfarrer/",
         "b": "daß ſy ſye ein Jungkfrow vor der geburt / nach\nder geburt/vnd in der geburt/rein vnd vnbefleckt. Zwingly. LJeber Herr Pfarrer /",
-        "similarity": 0.7273
+        "similarity": 0.7273,
+        "semantic": 0.7741,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "damit die sach gekuͤrtzt wer\nde/ so verstond vns also. Die ander Schlußred\nhat zwen puncten/ vff erklaͤrt der nachgend den\nvorderen/",
         "b": "damit die ſach gekuͤrßt werde/ſo\nverſtond vns alſo. Die ander Schlußred hat zween\npuncten/vnd erklaͤrt der nachgend den vorderen/vnd\nligend aber jr allein vff dem erſten.",
-        "similarity": 0.6909
+        "similarity": 0.6909,
+        "semantic": 0.8857,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd ligend aber jr allein vff dem ersten. Wer\ncked also/ Man ist nit darwider/ das ein yede Kilchhoͤze\nsich moͤge in ynfallenden sachen/",
         "b": "Merckend alſo / Man\niſt nit darwider / das ein jede Kilchhoͤre ſich moͤge in ynfal-\nlenden ſachen/nach gelaͤgenheit vereinbaren/zuͤ baͤtten/",
-        "similarity": 0.5098
+        "similarity": 0.5098,
+        "semantic": 0.8551,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "nach gelaͤgenheyt verein\nbaren/ zuͤ baͤtten/ fasten/ allmuͤsen geben/ vnnd anderen\ngoͤtlichen wercken. Byspil. Wo hunger/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6602,
+        "semantic_match": "ſunder ſind\nfry/ſo volget/das ſoͤllich gebot allein vſſerlich iſt : vnd ſo die\nKilch",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "tod/ krieg (darz\nuor vnns Gott behuͤte) ynfallend/ so mag die Kilch zuͤ\nBaͤlp/ vnd Bollingen/ vff ein yede/ zuͤsamen komen/ sich\n[symbol]",
         "b": "fa-\nſten / allmuͤſen geben/vnnd anderen Goͤttlichen Wercken. Byſpil. Wo hunger/todt / Krieg (daruor vns Gott behuͤ-\nte)ynfallend/ſo mag die Kilch zu Baͤlp /",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.7422,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -119,7 +140,12 @@
         "b": "ſunder ſind\nfry/ſo volget/das ſoͤllich gebot allein vſſerlich iſt : vnd ſo die\nKilch",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7439,
+    "reworded": 1,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.485,

@@ -33,19 +33,28 @@
         "op": "only_a",
         "a": "Schluffred. Off den achtenden tag Jenners/hat\nBerchtoldus wyter geoffnet/als\nhernach volgt. XIII\n\nRommen lieben Christen/off geſter ist der han\ndel so wyt bracht/das der Bychtuatter probie=\nren solt/alles so Christus Beuolhen hatt Pet:0/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6257,
+        "semantic_match": "in der Er=\nsten Epistel zun Corinthern am IS. Capitel. Zum drit=\nten / macht lehren einen zum Haupt / so folget /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "in zu einem houpt gemacht/Sat vnser brüder Burger\nanzsigt/das Petrus/Paulus/vnnd all Apostel/allein\ndiener/nithsupter/nitherren/vnd hat das Bewart/in\nder Epistel zun Corinthern am vierden capitel.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7668,
+        "semantic_match": "26    Die Erste Schlußred. am dritten Capitel. Wer ist Paulus/wer ist Apollo/dann\nDiener Gottes/durch die ihr glaubt hand :",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Also fol\nvns der mentsch achten/ als diener Gottes/vnd vsthei\nler der geheymnussen. Item in siner ersten Epistel/am\ndritten capitel.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7522,
+        "semantic_match": "26    Die Erste Schlußred. am dritten Capitel. Wer ist Paulus/wer ist Apollo/dann\nDiener Gottes/durch die ihr glaubt hand :",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -57,37 +66,50 @@
         "op": "match",
         "a": "Warist Paulus/warist Appollo/dan\ndiener Gottes/durch die jr gloubt hand: Also der pflan\nget/ist nüt/der begüßt ist nüt/aber Gott gibt das vf=\nwachsen/Sas macht alles Petrum nit zu einem houpt.",
         "b": "Also der pflan=\ntzet / ist nüt / der begůßt / ist nüt / aber Gott gibt das Vff=\nwachsen ; das macht alles Petrum nicht zu einem Haupt:",
-        "similarity": 0.6333
+        "similarity": 0.6333,
+        "semantic": 0.8105,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wie Petrus selbs spricht/in syner ersten Epi.am v.Ca\npitel: Weydend die hård Chrifti/die onder üch ist/vnd\nversechend sy/nit genstiger/sonder selbs willig:",
         "b": "wie Petrus selbs spricht in syner Ersten Epistel am fünff=\nten Capitel : Weidend die Hård Christi / die under euch\nist /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.6211,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "nit vss\nschantliches gewüns sich/sonder vß geney grem gemit/ nit als die herschend über das volck gottes/fonder wer=\ndend vorbild der hård.",
         "b": "und versehend sy / nit genöhtiget / sondern selbs wil=\nlig / nicht vß schandtlichen Gewůns Sůch / sonder vß ge=\nneigtem Gemüht/ nit als die herzschend über das Volck\nGottes /",
-        "similarity": 0.3922
+        "similarity": 0.3922,
+        "semantic": 0.7443,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Lie sechend jr frommen Christen das/dienst vnnd\nampt der Apstlen/sy nit houpter noch herren mag ma=\nchen/sonderdiener:",
         "b": "sonder werdend Vorbilder der Hård. Hie sehend ihr / fromme Christen / daß Dienst und\nAmpt der Apostlen / sy nit Håupter noch Herren mag ma=\nchen /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.8102,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dann so der gewallt Petri jnn zü ei-\nnem houpe machte/ so volger das alle Apostel/hópter\nsyend gsin/dann sy all den beuelch vnnd dienst glych ge=\nhept.",
         "b": "sonder Diener: dann so der Gewalt Petri ihn zu ei=\nnem Haupt machte / so volget / daß alle Apostel Håupter\nseyend gsyn /",
-        "similarity": 0.44
+        "similarity": 0.44,
+        "semantic": 0.698,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Sumanderen/so war Paulus mer ein houpt für\nander/darumb das er mer gearbeyter hat/in der ersten\nS",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8194,
+        "semantic_match": "dann sy all den Befelch und Dienst glych\ngehabt. Zum andern/ so wåre Paulus mehr ein Haupt\nfür andere / darum daß er mehr gearbeitet hat ;",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -131,7 +153,12 @@
         "b": "daß das Haupt\nder Kilchen sölche Ding gebe / die keiner Creatur müglich/ als lebendig / fromm / gerecht und sålig machen / ůnd die\nSeelen",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7387,
+    "reworded": 2,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3358,

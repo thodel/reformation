@@ -51,25 +51,33 @@
         "op": "match",
         "a": "Schlußred. CL\nZwingli. VNd also lassend wir by vnser erFlärung beliben\nDas aber des Osterlambs halb ist anzeygt/sye\ndas Osterlamb gegenwürtig gewesen/vnd hab\nnüt desterminder die Egyptische erlösung bedütet ouch\ndas lämbly bedütet.",
         "b": "Das aber des Oſterlambs halb iſt anzeygt/ ſye das Oſterlamb gegenwürtig gewäſen/ vnd\nhab niit deſterminder die Egyptiſchen erlöſung\nbedütet ouch das lämbly bedütet .",
-        "similarity": 0.7119
+        "similarity": 0.7119,
+        "semantic": 0.906,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Sagen wir/das das lamb sich selbs\nnüt bedütet könd. Es was ouch das Järlich fest nit inge=\nsetzt zů gedechtnuß eins Lambs/sonders zů gedechtnus\nder Egyptische erlösung.",
         "b": "Sagen wir/ das das lamb ſich ſelbs nit bedütē könd. Es wz\nouch dz Järlich feſt nit ingeſetzt zů gedechtnuß\neins Lambs /",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.8852,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Exodi am xij. cap. daran wir\nwol mögen merckẽ/ das alls wenig das lamb sin selbs be\ndüt nus was/sonders der Egyptische erlösung:",
         "b": "ſonders zů gedechtnus der Egy=\nptiſchen erlöſung. Exodi am xij. cap. Daran wir\nwol mögen mercken / das alls wenig das lamb\nſin ſelbs bedütnus wz/ſonders der Egyptiſch=\nen erlöſung :",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.9193,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "also we=\nnig ist der lychnam Christi ein gedechtnus des lychnams\nChristi/sonder wie das läm ein vsser zeychẽ in der gedech\nnus vñ dancksagung der Egyptischen erlösung/ein be=\ndütend zeychen was:",
         "b": "alſo wenig iſt der lychnam Chriſti\nein gedechtnus des lychnams Chriſti / ſond wie\ndas lamb ein vſſer zeychen in der gedechtnus vn̄\ndanckſagung der Egyptiſchen erlöſung/",
-        "similarity": 0.7119
+        "similarity": 0.7119,
+        "semantic": 0.8922,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -81,13 +89,19 @@
         "op": "only_a",
         "a": "So die dancksagung der hek=\nlischen erlösung begangen: wirt das brot vnnd der wyn\ndarin harūm getragen vsserlichen bedüten/vnsere inne=\nre vereinbarung des gloubens/durch den wir vff den tod\nChristi Jesu verlassen sind/vnd stat also noch vest/das\nein gegenwürtig ding/nit ein gedechtnus oder bedütnus\nsins selbs sin mag.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7159,
+        "semantic_match": "Pfarrer von ſant Gallen. Wir laſſens by vnſer vorgethonen antwurt\nbelyben. Zwingly. Vnd alſo laſſends wir by vnſer erklärung be=\nlibē.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Pfarrer von Sant gallen. DAs das brot vnd win/söllichs allein sye/bekennẽ\nwir nochmaß nit/verlassen vns also/vff vnser\ningetragne erFlärung so wir villicht wyters in\nanzeygung jrer gründ/mit der gnad gottes entschliessen\nwerden. pp ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7311,
+        "semantic_match": "ein be=\nüten d\n\n## Marginalien\nSti[l]\nſac[h?]\nlich\nSie\ngar\num̄\nver[?]\nden\nnoch\ndeck[?]\n\nC[?]\nſten\nvñ\nters\ntes\n\n[?]\ndie\ntes\n\n[?]\nwie\ndie\nam\ner ſ[?]\nBe[?]\ndes\nPa[?]",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -95,7 +109,12 @@
         "b": "ein be=\nüten d\n\n## Marginalien\nSti[l]\nſac[h?]\nlich\nSie\ngar\num̄\nver[?]\nden\nnoch\ndeck[?]\n\nC[?]\nſten\nvñ\nters\ntes\n\n[?]\ndie\ntes\n\n[?]\nwie\ndie\nam\ner ſ[?]\nBe[?]\ndes\nPa[?]",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8416,
+    "reworded": 0,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.394,

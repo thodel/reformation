@@ -63,39 +63,58 @@
         "op": "match",
         "a": "Die dritt\nBerchtoldus Haller. DEr Allmechtig ewig Gott / der ünß durch\nſin gnad eroffnet hat / die warheit der erſtenn\nzweyen Schlußreden /",
         "b": "Die dritte Schlußred. Berchtoldus Haller. DEr Allmaͤchtig ewig Gott / der uns durch ſyn Gnad eroͤff-\nnet hat die Warheit der erſten zweyen Schlußreden /",
-        "similarity": 0.6522
+        "similarity": 0.6522,
+        "semantic": 0.9416,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "der welle vnns füren/ durch ſinen geyſt / zů warem verſtand vnnd\nliecht der dritten / weliche alſo lutet: Chriſtus iſt vnſer einige wyßheit /",
         "b": "der\nwölle uns fuͤhren durch ſynen Geiſt / zu wahrem Verſtand und\nLiecht der dritten / welche alſo lutet: Chriſtus iſt unſer einige Wyßheit /",
-        "similarity": 0.5778
+        "similarity": 0.5778,
+        "semantic": 0.8933,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "gerech\ntigkeit / erlöſung / vnnd bezalung für aller\nwelt ſuñd / Deßhalb ein andern verdienſt\nder ſeligkeit / vnd gnůg thůn für die ſuñd\nbekennen iſt Chriſtum verleügnen.",
         "b": "Gerechtigkeit / Er-\nloͤſung / und Bezahlung fuͤr aller Welt Suͤnd / deß-\nhalb ein andern Verdienſt der Seligkeit / und gnuͤg-\nthuͦn fuͤr die Suͤnd bekennen/",
-        "similarity": 0.3273
+        "similarity": 0.3273,
+        "semantic": 0.7201,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "WEwol diſe ſchlußred\nſo klar / vnd in göttlicher ge=\nſchrifft gegründet / dz ſich wol\nzů verwunderen / wie ſy doch\nvon mengem gezwÿflet mö=\nge werde.",
         "b": "iſt Chriſtum verlaͤug-\nnen. WJEwol diſe Schlußred ſo klar/und in Goͤttli-\ncher Geſchrifft gegruͤndt / daß ſich wol zuͦ ver-\nwundern / wie ſy doch von Menſchen gezwy-\nfelt",
-        "similarity": 0.4643
+        "similarity": 0.4643,
+        "semantic": 0.7617,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Diewyl aber ſo vil\neigner gerechtigkeyt / vnd eig=\nnen wercken vertrůwen / oder\nvertrůwe leren / oder jren ver\ndienſt ſo hoch achtenn /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6394,
+        "semantic_match": "als\nwol gegruͤndt in diſem Text / als ſyn Ußlegung/und wie\nſy mynes Verſtands nit verſtanden/ alſo geſtahn ich ih-\nres Verſtands auch nit /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "das er\newiger ſaligkeyt gemåß ſyge / ſind wir verurſachet / diſe\nSchlußred zeſtellen / weliche Paulus j. Corinth. j. alſo\nbeueſtnet: Chriſtus Jeſus iſt vnns worden die wyßheit\nvon",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6962,
+        "semantic_match": "190        Die Dritte Schlußred. ſag ich / wie er geſagt hat / Nein / das iſt der Verſtand\nvon alterhar / der heiligen Chriſtenlichen Kilchen /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7754,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2881,

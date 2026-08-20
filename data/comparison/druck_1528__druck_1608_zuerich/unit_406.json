@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Die ſechſt\nanderen Epiſtel zun Theſſalon. am iij. ca. Jr brüder/ bit\nten Gott für vns. Das aber die läbendigen hie vff erd=\ntrich/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6379,
+        "semantic_match": "vngezwyffelter Für=\nſtender vnd Fridmacher/ zwüſchen Gott vnd vns ſye/ das\n\t\t\t\t\t\t\t\t\t\t\tiſt",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -51,49 +54,65 @@
         "op": "match",
         "a": "dz eins dem andren behilfflich ſol\nſin. Des werden nit vßgeſchloſſen die lieben vßerwelten\nheyligen in dem himel: dan ſy blyben allweg glider Chri\nſti des Herren.",
         "b": "436\t\tDie ſechſt\nſyn. Deß werden nit vßgeſchloſſen die lieben Vßerwelten\nHeiligen in dem Himmel: dann ſy blyben allweg Glider\nChriſti deß Herren.",
-        "similarity": 0.48
+        "similarity": 0.48,
+        "semantic": 0.8449,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Wächter. LIeber Herr/ ſidt vß jr anzeigt hand die fürbitt der\nHeiligen oder ſäligen/ zů der zyt der Apoſtlen/ ſo be=\ngären wir/",
         "b": "Wächter. Lieber Herr/ ſidt vnd jr angezeigt hand die fürbitt der\nHeiligen oder Säligen/ zů der zyt der Apoſtlen/ ſo\nbegeren wir/",
-        "similarity": 0.8444
+        "similarity": 0.8444,
+        "semantic": 0.9379,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dz jr vns die anzeygind vß götlicher ſchrifft. Gilg Durer. Wir ſind alle glider/ wie ich vor yngezogen hab. Zwingly.",
         "b": "daß jhr vns die anzeigind vß Göttlicher\nSchrifft. Gilg Murer. Wir ſind alle Glider/ wie ich vor yngezogen hab. Zwingly.",
-        "similarity": 0.75
+        "similarity": 0.75,
+        "semantic": 0.951,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "DAls der heiligen fürbitt/ jres verſtands/ ye vnd\nye gewäſen ſye/ mag mit Bibliſcher ſchrifft nit\nbybracht werden. Sann das die mütter Gottes\nvñ die ſäligen/",
         "b": "Das der Heiligen fürbitt/ jres verſtands/ je vnd je\ngewäſen ſye/ mag mit Bibliſcher Schrifft nit by=\nbracht werden. Dann das die Můter Gottes vnd\ndie Säligen/",
-        "similarity": 0.717
+        "similarity": 0.717,
+        "semantic": 0.9495,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "die by Gott ſind/ ye angerüfft ſyen zů der\nApoſtel zyten/ mag ſich genglich nit erfinde. Wir laſſen\nouch gern nach/",
         "b": "die by Gott ſind/ je angerüfft ſyen zů der\nApoſtel zyten/ mag ſich gentzlich nit erfinden. Wir laſſen\nouch gern nach/",
-        "similarity": 0.8571
+        "similarity": 0.8571,
+        "semantic": 0.9498,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das alle pflantzung/ die der himelſch vat\nter nit gepflantzet hat/ vßgerütet werde. So nů der hey\nligen fürbitt vnd anrüffen/",
         "b": "das alle pflantzung/ die der Himelſch Vat=\nter nit gepflantzet hat/ vßgerütet werde. So nun der Hei=\nligen fürbitt vnd anrüffen/",
-        "similarity": 0.8571
+        "similarity": 0.8571,
+        "semantic": 0.9388,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "als ſy es verſtond/ in göttli=\ncher ſchrifft nit erfunden wirt/ ſo ſol es billich vßgerütet\nwerden. Des mittlers halb/",
         "b": "als ſy es verſtond/ in Göttlicher\nSchrifft nit erfunden wirt/ ſo ſoll es billich vßgerütet wer=\nden. Deß Mittlers halb/",
-        "similarity": 0.75
+        "similarity": 0.75,
+        "semantic": 0.7837,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "nemen wir vns jrer abtey=\nlung nützit an: dan wir reden hie/ als die ſchlußred hat/ allein von dem mittler/ der ein gwüſſer/ vngezwyffelter\nfürſtänder",
         "b": "nemmen wir vns jrer abteilung\nnützit an: dann wir reden hie/ als die Slußred hat/ allein\nvon dem Mittler/ der ein gewüſſer/",
-        "similarity": 0.7234
+        "similarity": 0.7234,
+        "semantic": 0.6507,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -101,7 +120,12 @@
         "b": "vngezwyffelter Für=\nſtender vnd Fridmacher/ zwüſchen Gott vnd vns ſye/ das\n\t\t\t\t\t\t\t\t\t\t\tiſt",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8494,
+    "reworded": 1,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6196,

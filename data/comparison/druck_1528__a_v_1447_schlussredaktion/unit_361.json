@@ -51,13 +51,18 @@
         "op": "match",
         "a": "in dz werck/zů welchem ich sy berůfft hab. Hie mag nit\nanders förmklich nach der schrifft dargeben werden/als\nwir hoffen/dann allein das opffer der Måß.",
         "b": "A τονέυμαται\n183\nDie funfte Schlußredi\ndem herren, vnd hand gefastot, het gesprochen der\nheilig geist, Oundret mir Garrabam vnd Oaulum\nIn das werck zij welchem Ich Oi berust hab, Hie\nmag nitt anders formcklich nach der Schrift darge¬\nben werden, Als wir hoffen, dann allein das opfer¬\nDer Mäsß.",
-        "similarity": 0.4615
+        "similarity": 0.4615,
+        "semantic": 0.7855,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Butzer\n[I]ch stadt der Silogismus/dz nüt geopfrer wer\nden mag. Darum ob schon schrifft vßbracht wer\nden möchte/die glych die widergedächtnuß ein\nOpffer nennet/das doch gar nit ist/noch deßocht möchte\nman nit sagẽ/eygenlich daruon zů reden/das die Måß=\nmacher opffreten.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6193,
+        "semantic_match": "da haben wir ouch, Αειτουριοι. gidius muerer,\nDas Er opricht, der Silogismus gije nitt vfgolost,",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -69,19 +74,26 @@
         "op": "match",
         "a": "Das ort xiij. Actorum/angezogen/dz\nlutet also: Alls sy aber dem herren dieneten vnd fastete/ stadt nit/Opffreten. Sann Grece habe wir/λειτουργούντωρ\ndz heyßt nit/Alls sy opffrete.",
         "b": "0\ndas die wassmacher opfroten, Das opt xiii. ontorum, angezogen, das lutet also, als Ou aber dem\nherren dienoten vnd fastoten, dat nitt opfroten,\nDann grece haben wir Arrvoorzworuop das heeft\nnitt, als di opfroten, Wir haben ad Hebreos.",
-        "similarity": 0.3188
+        "similarity": 0.3188,
+        "semantic": 0.6103,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Wir habẽ zun Hebreern v\nSind sy nit all dienstbarliche geyst. Da haben wir Gre\nce λειτουργικὰ πνεύματα Da wurd sich gar übel rymẽ/wölte\nman es vertolmetschen/Opfferliche geyst.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.607,
+        "semantic_match": "da haben wir ouch, Αειτουριοι. gidius muerer,\nDas Er opricht, der Silogismus gije nitt vfgolost,",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Der glychen\nhaben wir zun Römern/von dem weltlichen gwalt/das\ner ein dienerin sye des Herren. Zů den Römern xiij. da\nhaben wir ouch λειτουργοί. Gilg Wurer\nDas",
         "b": "etc. kind ende mitt all dienstbarliche geist, Da haben wir\ngrece Anoverman, Da wurdt sich gar wel vinnen\nwelt man es vertolmetsthen, opferliche geist, Der¬\nglichen haben wir zum Romern, von dem wiltlichen\ngwalt, das er ein dienerin sije des herren, zij den\nRomern xiii.",
-        "similarity": 0.4054
+        "similarity": 0.4054,
+        "semantic": 0.7715,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -89,7 +101,12 @@
         "b": "da haben wir ouch, Αειτουριοι. gidius muerer,\nDas Er opricht, der Silogismus gije nitt vfgolost,",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6787,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3981,

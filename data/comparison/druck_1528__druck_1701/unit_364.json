@@ -51,25 +51,33 @@
         "op": "match",
         "a": "Schlußred. CLXXVI\nBurgmurer. DAls Meyster Vlrich gesprochen hat. Das wört=\nly enim stand nit im Griechischen / noch im He=\nbreische lassen wir verantwurtē /",
         "b": "Gilg Murer. DAß Meiſter Ulrich geſprochen hat : Das Woͤrtly\nenim ſtand nit im Griechiſchen noch Hebreiſchen / laſ-\nſen wir verantworten /",
-        "similarity": 0.4545
+        "similarity": 0.4545,
+        "semantic": 0.8414,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "die dise sprach\nerfaren haben. Vnns ist gnůg / das wir by dem\nhällen Latinischen Text blyben. Das er aber spricht /",
         "b": "die diſe Sprach erfahren haben. Vns iſt gnůg / daß wir by dem haͤllen Latyniſchen Text\nblyben. Daß er aber ſpricht /",
-        "similarity": 0.6829
+        "similarity": 0.6829,
+        "semantic": 0.9589,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "wir haben nit bewärt das Melchisedech hie geopfert ha=\nbe/geben wir antwurt / wie wol es dem bůchstaben nach\nnit stat /",
         "b": "wir haben nit bewaͤhrt / daß\nMelchiſedech hie geopffert habe / geben wir Antwort / wie-\nwol es dem Bůchſtaben nach nit ſtaht /",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.7965,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "so gends doch hin die wort vormals anzogen/ dann er ist ein priester/ꝛc. Vnnd so ers zůgeben hart/er\nmöge ander mal wyn vnnd brot geopfert haben/ist für\nvns/sytemal (wie gester ouch ist anzeygt wordē) dz Chri\nstus ein priester/nach der ordnůg Melchisedech:",
         "b": "ſo gebends doch\nhin die Wort vormals anzogen / dann er iſt ein Prie-\nſter / ꝛc. vnd ſo ers zůgeben hat /",
-        "similarity": 0.4478
+        "similarity": 0.4478,
+        "semantic": 0.706,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,7 +89,9 @@
         "op": "match",
         "a": "so frag\nich jn/das er vns anzeyge/mit was opfer/sy glichsam ge\nopfert haben: so trüwen wir wie vor/er mög mit der ge=\nschrifft dhein anders harfür bringē.",
         "b": "ſo frag ich ihn / daß\ner vnsGu/anzeige / mit was Opffer ſy glychſam geopffert\nhaben : ſo trauen wir wie vor /",
-        "similarity": 0.4706
+        "similarity": 0.4706,
+        "semantic": 0.754,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -93,27 +103,41 @@
         "op": "match",
         "a": "Sas es aber die ver\nglichung sölle vnnd müsse syn / wilich wyter bewären\nmit der geschrifft / vß dem bůch Prouerbiorum am ix.",
         "b": "wil ich wyter bewaͤhren mit\nder Geſchrifft / vß dem Bůch Proverbiorum am 9. ſpricht\nSalomon alſo : Die Wyßheit hat ihr gebauen ein Huß /",
-        "similarity": 0.3913
+        "similarity": 0.3913,
+        "semantic": 0.4443,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "spricht Salomõ also. Sie wisheit hat jr gebuwē ein huß\nhat vßgehouwen siben sülen/hat geopffert jre opfer/vñ\nhat vermischet den wyn/vnd nach andern worten wyter/",
         "b": "hat vßgehauen ſiben Suͤlen / hat geopffert ihre Opffer / und hat vermiſcht den Wyn : und nach andern Worten\nwyter / Kommend und eſſend myn Brodt /",
-        "similarity": 0.4615
+        "similarity": 0.4615,
+        "semantic": 0.8277,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Komen vñ essen myn brot/vnd trincken den wyn den ich\nüch vermischet hab. Nun beschicht das opfer mit der ver\nmischung des wyns in keynem opfer anders/Dann in der\nMäß/darum so volget hernach/dz die mäß ein opfer ist.",
         "b": "und trinckend\nden Wyn / den ich euch vermiſcht hab. Nun beſchicht das\n                                          Opffer",
-        "similarity": 0.3273
+        "similarity": 0.3273,
+        "semantic": 0.6805,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Zwingly+\nEEr worte halb Genesis am xiiij. Verlassen wir\nvns vff den text. Der fragthalb / wie Christus Sůch hieuor\nnach d ordnung Melchisedech/ein priester sye/ist am 174. blatt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6831,
+        "semantic_match": "362        Die Fünſte Schlußred. das Opffer / da Chriſtus ſich ſelbs vffgeopffert hat. Mel-\nchiſedech iſt nit ein Figur vnſer Pfaffen /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7436,
+    "reworded": 5,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4593,

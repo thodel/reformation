@@ -33,7 +33,9 @@
         "op": "match",
         "a": "Schlufzred. XV\ndas die Apostel die sünd vergebind/bindent vnd losend\ndienet ouch off das leerer ampt/vnd dienstbarkeyt des\nworts /",
         "b": "Dienet ouch vff das lerer ampt / vnd dienstbarkeit\nDes worts / welches ermeaͤssen / wirt, vsß den um // stennden des handels vermerckt /",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.4659,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -51,43 +53,59 @@
         "op": "match",
         "a": "Su bist Petrus ein velſer gefestiget/gründe\nim glouben vnd wort/darum diewyldu Petre/im wort\nvnd glouben geuestiget/wird ich dir geben die schlüssel/",
         "b": "gruͤndt Im glouben\nvnnd wort/ darumb Diewyl du petre/ Im wort vnnd glouben gevestiget / wird ich Dir\ngeben die schluͤssell Diesselben hatt er geleistet /",
-        "similarity": 0.5098
+        "similarity": 0.5098,
+        "semantic": 0.763,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "die selben hatt er geleister/Joannis vy. Cap. Mit alleyn\nPetro/sonder allen Apostlen/so er ſpricht/welchen jrdie\nsünd verzüchend/zc.",
         "b": "Johannus xx ͦ cap. nit allein petro / sonder allen\nApostlen, so er spricht welchen in die suͤnd\nverzuͤchend / (n.",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.7827,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Sz aber die sünd verzychen zu der\ndienstbarkeyt des worts gehore/findt sich vß dem/das\ndaruoz stat in Joanne:",
         "b": "Das aber die suͤnd ver // Zuͤchen zuͦ der Dienstbarkeit des worts / gehoͤre / findt sich vsß dem / das darvor statt\nInn Johanne /",
-        "similarity": 0.4545
+        "similarity": 0.4545,
+        "semantic": 0.7298,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Nammend den heyligen geyst/ welches Lucas also erklärt Erhart jnen jr gmåt offge\nthon/das sy verstendig wurdint/ vnnd Joan.",
         "b": "Naͤmend  den heilligen / geist / Welches Lucas allso erkläͤrt / Er hatt Inen ir\ngmuͤt vffgethan / Das sy verstendigt wurdint\nVnnd Johannis xx ͦ cap.",
-        "similarity": 0.3556
+        "similarity": 0.3556,
+        "semantic": 0.5521,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "yy.Cap. Nach dem Christus den friden synen jüngern gewünſt\nhat/sprach er/wie mich der labendig vatter vi gesendt\nhart/also send ich üch.",
         "b": "Nach dem Chri // stus den friden  sinen Juͤngern gewuͤnscht hat / sprach er / wie mich der laͤbendig vatter vssge //",
-        "similarity": 0.4783
+        "similarity": 0.4783,
+        "semantic": 0.7484,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Marcus erklärt es also:Gond vs\nin alle welt/vnd predigent das Euangelion allen crea=\nturen. Lucas: Es müß geprediget werden in finem na=\nmen/diebüß vnnd vergebung der sünd/vnd das ist das\nEuangelion/welches Marcus also darthüt/wer gloubt\nvnnd toufft wirt der wirt sålig/wer nit gloubt der wirt\nverdampt/als vs den vmbstenden des handels/dendie\nEuangeliften schribend/ist offenbar/das die schlüssel des\nrychs derhimlen/sind die predig des Euangelij die sünd\nofflåsen vnnd verzychen/ist verkünden den glóubigen/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7016,
+        "semantic_match": "Das  euangelion allen Creaituren/ Lucas / es muͦß geprediget werden In sinem",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "das jnen jr sünd verzigen sind durch Christum Binden\nvi vorbehalten die sund/ist verkünden dem vngloubi-\ngen/das im sine sünd vnuerzigen vnd vorbehalten sind\ndarumb lyt es hie Bichtuatter/das jr bewarind durch\nSiij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6697,
+        "semantic_match": "Das  euangelion allen Creaituren/ Lucas / es muͦß geprediget werden In sinem",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -101,7 +119,12 @@
         "b": "Das  euangelion allen Creaituren/ Lucas / es muͦß geprediget werden In sinem",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6766,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3915,

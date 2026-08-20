@@ -57,25 +57,34 @@
         "op": "match",
         "a": "Die dritt\nhaben teyl vnd gmeyn an siner gnůgthůgung/ den glou: ben můß aber Gott geben/ der vnns zum sun zůcht/",
         "b": "Gloubend wir an vnſern her=\nren/ſo iſt er vnſer gantz eygen/vnd haben teyl\nvnd gmeyn an ſiner gnuͦgthuͤung/den glouben\nmuͦß aber Gott geben/der vns zum ſun zuͤcht.",
-        "similarity": 0.4643
+        "similarity": 0.4643,
+        "semantic": 0.7831,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Jo: hannis vj. Vnsere werck vermögend hie nůt. Bůchstab\nDEwyl Christus vns so gantz vnd gar sölte fry\ngesagt haben/",
         "b": "Johan. vj. Vnſere werck vermoͤgend hie nuͤt. Buͤchſtab. Diewyl Chriſtus vns ſo gantz vnd gar ſoͤlte\nfry geſagt haben:",
-        "similarity": 0.6047
+        "similarity": 0.6047,
+        "semantic": 0.9137,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "wurde vergäben gesin sin/ das er\nvns hat geheyssen bätten/ vnd sprechen/ Mat\nthei am vj. Vergib vns vnser schuld.ꝛc.",
         "b": "wurde vergaͤben geſin ſin/dz\ner vns hat geheyſſen baͤtten/vñ ſprechen. Mat=\nthei am vj. Vergib vns vnſer ſchuld.",
-        "similarity": 0.7442
+        "similarity": 0.7442,
+        "semantic": 0.7366,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Martinus Butzer+\nSich hie voꝛ\nam 93. 94. blatt\nSIst verantwurt in der declaratiõ hern Berch\ntolden. Bätten vmb verzychung/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6888,
+        "semantic_match": "Schlußred. CXI\n\nBy der ſelbigen laß ich es yetzunder blyben/ver=\nloͤugnen Chriſtum nit/ein volkomne gnuͦgthuͤ=\nung fuͤr aller welt ſuͤnd/doch mit dem geding/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -87,27 +96,43 @@
         "op": "match",
         "a": "ist nit gnůg\nthůn/ Ich laß mich vff die Acta. Pelagius am Stein/ Walcher Klarer/ Mathias Keßler/ all dry von Appenzell.",
         "b": "Pelagius am Stein/Walther Kla=\nrer/Mathias Keßler/all dry von Appentzel. ## Marginalien\nSuͦch am\n105. 106. blat.",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.835,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "ALs vff den dritten Artickel belanget/ so hat vn\nser herr Pfarrer von Appenzell/ Christum mit\nsinem verdienst/ vnsern heyland/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6661,
+        "semantic_match": "Das er aber des geding hinzuͦ ſetzt/wir\nmuͤſſen vns ſines gnuͦgthuͤens teylhafftig mach\nen. Sagend wir/das ſoͤllichs in Gott/vnd nitt\nvnſer hand ſtadt.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "gezogẽ vff die\nErbsůnd/ damit dem völckli vil verdienst/ in mancher=\nley wyß/ an vil orten verordnet vnd fůrgeben/ des beghä=\nren wir ein vrkund der gschrifft.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7693,
+        "semantic_match": "Schlußred. CXI\n\nBy der ſelbigen laß ich es yetzunder blyben/ver=\nloͤugnen Chriſtum nit/ein volkomne gnuͦgthuͤ=\nung fuͤr aller welt ſuͤnd/doch mit dem geding/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Theobaldus Hůter/ Pfarrer\nzů Appenzell. IN dinem namen Herr Jesu Christi/ Amen. In\ndem/ als sy mich anzůchen/ die dry so wider mich\nstaand/ von minen Herrenn von Appenzell/ namlich",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.718,
+        "semantic_match": "Schlußred. CXI\n\nBy der ſelbigen laß ich es yetzunder blyben/ver=\nloͤugnen Chriſtum nit/ein volkomne gnuͦgthuͤ=\nung fuͤr aller welt ſuͤnd/doch mit dem geding/",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7638,
+    "reworded": 2,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2972,

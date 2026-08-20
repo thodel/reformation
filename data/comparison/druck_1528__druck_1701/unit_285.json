@@ -45,13 +45,19 @@
         "op": "only_a",
         "a": "erkennē wir gar ein vngefüg red sin: dan so vnser münd\nlyblich sind/ vnnd nütz dann lyplichs essen mögen/ vnnd\nempfindtlich/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6576,
+        "semantic_match": "dann sölichs bedůtens und erinnerns / so mag es\ngeachtet werden für ein Zauberey. Dann was ist Zaube-\nrey anders / dann daß man vermeynt / mit Krafft der wor-\nten",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "wurde volgen/ das wir den lychnam Chri\nsti empfindtlich essen müsten. Der geyst ist der da läben\ndig macht/ zc.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6254,
+        "semantic_match": "dann sölichs bedůtens und erinnerns / so mag es\ngeachtet werden für ein Zauberey. Dann was ist Zaube-\nrey anders / dann daß man vermeynt / mit Krafft der wor-\nten",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -75,25 +81,33 @@
         "op": "match",
         "a": "vnd sy an der erklärung ingetragen/ vñ namlich yetz in der letsten red / Bewelchē wir\nallen so von gott geleert söllen werden/",
         "b": "SO wir nun hand die Handlung der Figur den Actis\nbefohlen / und sy andere Erklärung yngetragen / und\nnamlich jetzt in der letsten Red /",
-        "similarity": 0.3556
+        "similarity": 0.3556,
+        "semantic": 0.5285,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "was das offenlich\nwort/ der gschrifft vermög/ vnd sin verstand. **Meyster Vlrich zwingly.**\n\nWir empfelchends ouch denen/ die von Gott geleert\nsind.",
         "b": "befehlen wir allen / so von\nGott gelehrt sollen werden / was das offentlich Wort der\nGeschrifft vermög / und syn Verstand. Meister Ulrich Zwingly.",
-        "similarity": 0.3182
+        "similarity": 0.3182,
+        "semantic": 0.7876,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "**Ecolampadius.**\n\nVnder andern ist gester/ ouch hüt geredt worden\nwie das die vfferliche wort/ tragend mit jn/ nit\nallein/ das so sy bedüten/",
         "b": "WIr empfehlends auch denen / die von Gott gelehrt\nsind. Ecolampadius. UNder andern ist gester / auch hůt geredt worden / wie\ndaß die vsserliche Wort tragen mit ihnen /",
-        "similarity": 0.449
+        "similarity": 0.449,
+        "semantic": 0.5766,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "sonders ouch das sy ver\nheyssen: das gepürrt sich ouch zeuerantwurten/ vnd sag\nalsouil darzů / man söll ansehen die natur vnnd art der\nwort",
         "b": "nit allein\ndas so sy bedůten / sonders auch / das sy verheissen : das\ngebůhrt sich auch zeverantworten / und sag also vil darzů /",
-        "similarity": 0.3556
+        "similarity": 0.3556,
+        "semantic": 0.8655,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -113,7 +127,12 @@
         "b": "dann sölichs bedůtens und erinnerns / so mag es\ngeachtet werden für ein Zauberey. Dann was ist Zaube-\nrey anders / dann daß man vermeynt / mit Krafft der wor-\nten",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6735,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4337,

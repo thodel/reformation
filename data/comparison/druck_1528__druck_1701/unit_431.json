@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "selbs/spricht: Der da yngadrone masen/ vnnd würckt\ndie gerechtigkeyt/Psal.viij. Zwingli\n\nAls in den Geſchichten im j. Cap.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.831,
+        "semantic_match": "ſonders habend den Ver-\nſtand / Als Chriſtus die Juͤnger geheiſſen hat / zů Je-\nruſalem zů blyben / biß zů der Zůkunfft deß H.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -57,13 +60,17 @@
         "op": "match",
         "a": "iſt anzogen/ dienet vff kein ſaghür/ſunders habend den\nverſtand/Als Chriſtus die junger geheyssen\nhat/zů Jheruſalem Blybenn/biß zů der zů=\nkunfft des heyligen geyſts/fragen ſy/ob die ſelb zůkunfft\ndas Rych Jſraels/das denßůmal vnder dem gwalt der\nRömern was/wurde widerbringen.",
         "b": "Geiſtes / fragen ſy / ob dieſelb Zukunfft das Rych Jſraels / das\ndennzůmal under dem Gewalt der Roͤmern was / wurde\nwiderbringen.",
-        "similarity": 0.4179
+        "similarity": 0.4179,
+        "semantic": 0.6941,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Vff das gibt er jne\nantwurt: Es ſtadt üch nit zů/gewüssen die zyt vnd vāl\noder ougenblick/die der vatter in eignem gwalt behal=\nten hat/Nimpt Chriſtus mit den worten hin/das wir\nvnns nit frömbder künfftiger dingen beladind/ſunder\nvff ſin wort vnnd verheyſſung/laſſenn ſöllend/vnnd\nſpricht oben daruff:",
         "b": "Auf das gibt er ihnen antwort: Es ſtaht\neuch nit zů / zewiſſen die Zyt und Zaͤhl oder Augenblick / die der Vatter in eignem gewalt behalten hat /",
-        "similarity": 0.375
+        "similarity": 0.375,
+        "semantic": 0.6676,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,7 +82,9 @@
         "op": "match",
         "a": "Jr werdend empfachenn die krafft\ndes kommenden geyſts.zc. Sam er ſpräch: Loſend was\nich üch ſag/Jch verheyß üch den geyſt/ſo fragen ir mich\nvmb das zytlich Rych:",
         "b": "und ſpricht oben daruff : Jhr wer-\ndend empfahen die Krafft deß kommenden Geiſtes / ꝛc. Sam er ſpraͤch : Loſend was ich euch ſag /",
-        "similarity": 0.3396
+        "similarity": 0.3396,
+        "semantic": 0.7165,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,19 +96,25 @@
         "op": "match",
         "a": "das laſſend fallen/vnnd rüſtend\nüch vff die zůkunfft des geyſts. Vnd hat alſo Chriſtus\nnit allein den Jüngeren/ſunders ouch ſiner eygnen mü=\nter/keyner fürwitz wellen geſtatten.",
         "b": "Und hat alſo Chriſtus nit allein den Juͤngern / ſonders auch ſyner eignen Muͤtter kein Fuͤrwitz woͤl-\nlen geſtatten.",
-        "similarity": 0.3137
+        "similarity": 0.3137,
+        "semantic": 0.6835,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Von der müter\niſt hütt gehört. Von den Jüngeren habend wir/das er\nPetzo abſchlüg das End vnnd tod Johannis zewüssen/",
         "b": "Von der Muͤtter iſt huͤtt gehoͤrt. Von den\nJuͤngern haben wir / daß er Petro abſchluͤg das end und\ntod Johannis ze wiſſen /",
-        "similarity": 0.4583
+        "similarity": 0.4583,
+        "semantic": 0.8243,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Johannis am xxj. Capitel. Vnnd wirt mit diſem ort/ kein ſaghür bewärt: dann wir wüſſend/das alle die in\nChriſto Jeſu ſterbend/by Chriſto Jeſu läbennd/vnnd\nouch mit jm regnieren/zun Römeren am viij.",
         "b": "Johannis am 21. Capitel. Und\nwird mit diſem ort kein Faͤgfuͤr bewaͤhrt: dann wir wiſ-\nſend / daß alle die in Chriſto Jeſu ſterbend /",
-        "similarity": 0.4918
+        "similarity": 0.4918,
+        "semantic": 0.8295,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -111,9 +126,16 @@
         "op": "match",
         "a": "Capitel. Vn in der andren Epiſtel zun Corinthern/am erſten Ca\npitel. Hieby hat der Sechan/Reſtituere regnũ iſrael/oder Dei,\nver=",
         "b": "zun Cor. am 1. Hieby hat der\nDecan Reſtituere Regnum Jſrael, oder Dei, vertuͤtſchet (Wi-\n            Hhh iij                     derum",
-        "similarity": 0.3902
+        "similarity": 0.3902,
+        "semantic": 0.6027,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7311,
+    "reworded": 7,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4956,

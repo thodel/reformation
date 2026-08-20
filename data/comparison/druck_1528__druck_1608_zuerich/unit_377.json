@@ -51,7 +51,9 @@
         "op": "match",
         "a": "Schlußred? tåglichen opfer der dancksagung/vnd der widergedåcht=\nnis der Måß/nit darum/das wir Christo ſin liden min=\ndren welleñ/ſunder das began mit widergedåchtnis/des\nvor einoſt verbrachten opfers/wil ich bewåren/mit dem\nſpꝛuch/vnd denen worten/die Christus hat geredt:das\nthůnd in miner gedåchtnis.",
         "b": "ſonder das began mit widergedechtnis / deß vor\neinoſt verbrachten opffers/wil ich bewåren/mit dem ſpruch/ vnd denen worten / die Chriſtus hat geredt:",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.876,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -63,45 +65,67 @@
         "op": "match",
         "a": "San Paulus zů den Corin=\nthern/hat vns vßgelegt die gedåchtnis/die ſelbig ſtadt\nin verkündernuß des ſterbens Christi. Das iſt aber kunt\nlich/dann die Euangeliſten klar anzeigen/wie da ſye ge=\nendet worden das Oſterlamb des alten gſatzt/vnd ynge\nſetzt das Oſterlamb der Kilchen:",
         "b": "Das iſt aber kundlich/dann\ndie Euangeliſten klar anzeigen/wie da ſye geendet worden\ndas Oſterlamb deß alten Gſatz/vnd ingeſetzt das Oſter=\nlamb der Kilchen :",
-        "similarity": 0.5205
+        "similarity": 0.5205,
+        "semantic": 0.7985,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dañ es wz not/ſpricht\nder text/das das Oſterlamb geródt wurd. Nun halt die\nſchrifft inn/Exodi xij. daß das Oſterlamb geopferet/",
         "b": "dann es was not/ſpricht der Text/das\ndas Oſterlamb getödt wurd. Nun halt die Schrifft inn/ Exodi 12. das das Oſterlamb geopferet/vnd dennoch ge=\näſſen ward.",
-        "similarity": 0.7059
+        "similarity": 0.7059,
+        "semantic": 0.8043,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vñ demnach geåſſen ward. So nů Christus/der dz recht\nOſterlamb iſt/ſpricht Paulus/nach dem alten hat ynge\nſetzt dz nůw/vñ ſagt/Das thůnd in miner gedåchtnuß.",
         "b": "So nun Chriſtus/der das recht Oſterlamb\niſt/ſpricht Paulus/ nach dem alten hat ingeſetzt das nůw/ vnd ſagt/ Das thůnd in myner gedechtnis.",
-        "similarity": 0.6415
+        "similarity": 0.6415,
+        "semantic": 0.6005,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Was hat er jnen anders beuolchen/dann das die alte ge\nthan hatten/das iſt opfferen vnd nieſſen/wie dann ouch\nnach der ordnung Melchiſedech/one zwyfel/Christus in\nſinem Nachtmal erfüllt hat.",
         "b": "Was hat er\njnen anders befolchen/dann das die Alten gethan hatten/ das iſt opfferen vnd nieſſen/wie dann ouch nach der ord=\nEEe",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.745,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Butzer\nDEß brods Chriſti gedencken/vnd jm danckſagen/ heyßt jn nit widerufopffren: vnd vff vnſeren Si=\nlogiſmum/habeñ wir noch kein antwurt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7675,
+        "semantic_match": "Gilg Murer. WJewol Chriſtus gnůg gethan hat in Ewigkeit voll=\nkommenlich / wie ingefůrt iſt/durch Herz Martin\nButzer/iſt nit deſterminder vns befolhen von Chri=\nſto /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Wie man des\nlydens Chriſti durch den Glouben/vnnd nit die Måß/ Sich hieuor\nteylhafftig werden můß/iſt by dem dritteñ artickel gnůg= am.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7313,
+        "semantic_match": "Gilg Murer. WJewol Chriſtus gnůg gethan hat in Ewigkeit voll=\nkommenlich / wie ingefůrt iſt/durch Herz Martin\nButzer/iſt nit deſterminder vns befolhen von Chri=\nſto /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "98. blatt. ſam erklårt. Gilg Murer. DE widergedåchtnuß Chriſti/ſins lydens vnd ſter=\nbens/mag genant werden nach der ſchrifft/ein tåg=\n33",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7739,
+        "semantic_match": "Gilg Murer. WJewol Chriſtus gnůg gethan hat in Ewigkeit voll=\nkommenlich / wie ingefůrt iſt/durch Herz Martin\nButzer/iſt nit deſterminder vns befolhen von Chri=\nſto /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7621,
+    "reworded": 0,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5011,

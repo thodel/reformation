@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "**Die vierde**\n\n**Ecolampadius.**\n\nVnſer vßlegung welle wir darnach gnůgſamlich\nbybringenn / herr Benedict zeyg in diřen ange=\nzognen worten Pauli / ſin synecdoche an /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6145,
+        "semantic_match": "Herr Benedict zeig in diſen angezogenen Wor-\nten Pauli ſyn Synechdoche an / das ſind wir von ihm er-\nwarten. Pfarrer von Sant Gallen.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -69,39 +72,58 @@
         "op": "match",
         "a": "das ſind\nw ir vonjm erwarten. **Pfarrer von ſant Gallen.**\n\nVff die frag ich zeyge ein synecdoche an / verlaß ich\nmich gang vñ gar vff die fürgebrachten erklär=\nung /",
         "b": "UF die Frag / ich zeige ein Synechdoche an / verlaß ich\nmich gantz und gar uff die fůrgebrachten Erklärung / und myne Verſtånd wil ich uß dem Paulo erklärt haben/",
-        "similarity": 0.4211
+        "similarity": 0.4211,
+        "semantic": 0.7744,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnd mine verſtend wil ich vß dem Paulo\nerklärt habenn / ſyner vßlegung aber halb / můſſen wir\nnochmalß erwarten. **Ecolampadius.**\n\nES ſolt das/das dunckel durch ein klärers gelert\nwerden /",
         "b": "ſyner Ußlegung aber halb / můſſen wir nochmahls er-\nwarten. Ecolampadius. ES ſolt das / das dunckel / durch ein klårers gelehrt\nwerden /",
-        "similarity": 0.6531
+        "similarity": 0.6531,
+        "semantic": 0.6246,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das beſchicht hie nit / vnd wir erwarten\nwie er doch das vß den worten pauli erklären\nwöll. **Pfarrer von ſant Gallen**\n\nDAruff ich antwurt /",
         "b": "das beſchicht hie nit / und wir erwarten / wie\ner doch das uß den Worten Pauli erklåren wöll. Pfarrer von Sant Gallen.",
-        "similarity": 0.9333
+        "similarity": 0.9333,
+        "semantic": 0.7506,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "damit vnd aller zanck ab=\ngeleynet / über die wort des Nachtmals. Das\niſt min lyb / hab ich hüt gnůgſamlich gantwurt\ndarumb ich mich vff die Acta verlaſſen /",
         "b": "DAruff ich antwort / damit und aller Zanck abgelei-\nnet / ůber die Wort deß Nachtmahls / Das iſt myn\nIi ij Lyb/",
-        "similarity": 0.4255
+        "similarity": 0.4255,
+        "semantic": 0.6479,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "was der ver=\nſtand der worten ſin ſölle. Es wåre ein verlengerliche wi\nderråffung: beger alſo von minem herrn Doctor /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6338,
+        "semantic_match": "Die Vierdte Schlußred. 253\noder Ußlegung von ihm nochmahl nit beſchehen. Dann\ndie Wort / Das iſt myn Lyb / den Lyb Chriſti mittragen/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "zů für\ndrung der ſach wyter gſchrifft. Warumb die wort / das iſt\nmin lyb / vnd das iſt min blůt / nit alſo ſöllen verſtanden\nwerden / wie ſy klar vnd ſtarck lutend. Zwingli",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7513,
+        "semantic_match": "dann es je bewährt ſolt wer-\nden (Das iſt myn Lyb) ſoviel ſölle gelten / als (Das be-\ndůtet myn Lyb) oder :",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.6853,
+    "reworded": 2,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4364,

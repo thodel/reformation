@@ -45,7 +45,10 @@
         "op": "only_a",
         "a": "Bůchſtab\nWer yngefüren ſprůch/wurden vns glych als\nwolerhalten/das wir läbendigen nit möchtind\nbitten/als die todten. Das aber die heiligen bättend/habend wir kundſchafft/Danielis am.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7412,
+        "semantic_match": "Diß iſt in verſchaffung der Waͤch-\ntern geſprochen / vnd im Geſpraͤch der Heiligen er-\nfragt. Hie iſt offenbar /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -57,43 +60,57 @@
         "op": "match",
         "a": "Es\niſt geſetzt oder geſtelt/in das vrteyl der wächtern/vnnd\ndie red der heyligen/vñ das bitt. Hie iſt heyter anzeigt/",
         "b": "450\tDie ſechſt\noder geſtelt / in das Vrtheil der Waͤchtern/vnd die red der\nHeiligen/vnd das bitt. Hie iſt heiter angezeigt/das die Heili-\ngen im Himmel baͤttend.",
-        "similarity": 0.4528
+        "similarity": 0.4528,
+        "semantic": 0.4699,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "das die heyligen im himmel bättend. Berchtoldus\nVf das erſt volget nit/Die Säligen bitten nitt\nfür vnns/oder/Chriſtus iſt ein einiger mittler/",
         "b": "Berchtoldus. Jſt das erſt volget nit / Die Saͤligen bitten nit fuͤr\nvns / oder / Chriſtus iſt ein einiger Mittler /",
-        "similarity": 0.5909
+        "similarity": 0.5909,
+        "semantic": 0.904,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "darumb ſöllend wir nit für einanderen bitten. Gſchrifft zeyget an/das Chriſtus iſt ein einiger mittler/ vnd lert vns für einandern/ja vil mer miteinandern/ze\nbitten:",
         "b": "darumb\nſoͤllen wir nit fuͤr einanderen bitten. Gſchrifft zeiget\nan / daß Chriſtus iſt ein einiger Mittler / vnd lert vns fuͤr\nein anderen/ja vil mehr mit einanderen/zebitten:",
-        "similarity": 0.5862
+        "similarity": 0.5862,
+        "semantic": 0.9336,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Aber die Säligen anzerůffen/da iſt noch kein ge=\nſchrifft fürbracht. Das er vß dem Daniele anzůcht/die=\nnet gar nüt zů der ſach:",
         "b": "Aber die\nSaͤligen anzeruͤffen/da iſt noch kein Geſchrifft fuͤrbracht. Daß er vß dem Daniele anzuͤcht /",
-        "similarity": 0.4545
+        "similarity": 0.4545,
+        "semantic": 0.8972,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dann es von den läbendigen ge=\nredt iſt/die vonn dem Thyrannen genötiget wurdend. Man můß warnemen/wie das wörtly/Sanctus/Heylig/",
         "b": "dienet gar nuͤt zuͦ der\nſach: dann es von den Laͤbendigen geredt iſt/die von dem\nThyrannen genoͤtiget wurdend.",
-        "similarity": 0.4091
+        "similarity": 0.4091,
+        "semantic": 0.8374,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "in der ſchrifft/allen Chriſten zůgelegt wirt/Als ſich erfin\ndet by der Epiſt. des heyligen Pauli/in der. j.",
         "b": "Man muß warnemmen/ wie das woͤrtly / Sanctus , Heilig/in der Schrifft / allen\nChriſten zuͦgelegt wirt/Als ſich erfindet by der Epiſt.",
-        "similarity": 0.5116
+        "similarity": 0.5116,
+        "semantic": 0.5722,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "zun Cor. am j. cap. vnd in der anderen zun Corinth. am i. cap. Erklärung",
         "b": "deß\nHeiligen Pauli / in der 1. zun Corinth. am 1. Cap. vnd in\nder anderen zun Corinth. am 1. Cap.",
-        "similarity": 0.6286
+        "similarity": 0.6286,
+        "semantic": 0.6545,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -113,7 +130,12 @@
         "b": "das doch kein meldung deß Ge-\nbaͤtts geſchehen iſt: vnd dienet diß Argument inen hie-\nhar im grund nit: dann der Prophet wil allein ſagen/das\ndas",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7512,
+    "reworded": 2,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4082,

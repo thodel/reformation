@@ -57,19 +57,25 @@
         "op": "match",
         "a": "Schlußred XCIX\nnamlich zc. Ich hab gelert vnnd geprediget/ Chriſtus\nhab allein für die Erbſünd gelitten/ vñ müſſen wir ſonſt\nvmb vnſer ſünd ouch etwas thůn/",
         "b": "Chri\nstus hab allein fuͤr die Erbsuͤnd gelittẽ/ vñ muͤſ=\nsen wir sonst vmb vnser suͤnd ouch etwas thuͤn\nweyß ich nieman/",
-        "similarity": 0.3774
+        "similarity": 0.3774,
+        "semantic": 0.5326,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "weiß ich nieman/ der\nfür vns ye gelittẽ hab für die Erbſünd/ dan̄ Jeſum Chri\nſtum allein/ wüſſen ſy aber etwan einandern/",
         "b": "der fuͤr vns ye geliten hab fuͤr\ndie Erbsuͤnd/ dann Jesum Christũ allein: wuͤſ=\nsen sy aber etwan einanderen /",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.8894,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "der für die\nErbſünd gelitten habe/ den zeygen mir an/ damit nit ab\ngeſchlagen/ dz er für die Erbſund/ vñ all ander ſünd ge\nlittẽ hab/",
         "b": "der fuͤr die Erb=\nsuͤnd gelitten habe/ den zeygen mir an/ damit nit\nabgeschlagen/ das er fuͤr die Erbsuͤnd/",
-        "similarity": 0.4898
+        "similarity": 0.4898,
+        "semantic": 0.9356,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,31 +87,42 @@
         "op": "match",
         "a": "vñ vns erlöſt/ dz wir aber ouch müſſen etwas\ntůn/ damit wir nit lår erſchinē. Ermant er vns ſynen ge\nbotten gehorſam zůſin/",
         "b": "damit wir nit laͤr\nerschinen. Ermant er vns synen gebottenn ge=\nhorsam zuͤsin/ guͤts zuͤwuͤrcken vnd zuͤthuͤn /",
-        "similarity": 0.3404
+        "similarity": 0.3404,
+        "semantic": 0.764,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "güts zůwürcken vnd zütůn/ als\nPſalmo xxxvj. Declina à malo, & fac bonum. Neygt dich vonn\ndem böſen/ vnd thů gůts/",
         "b": "als\nPsalmo xxxvj. Declina a malo, & fac bonum. Neigt\ndich von dem boͤsen / vnd thuͤ guͤts/ wie wol ich\nweyß vnd erkenn vß Paulo/",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.8866,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "wie wol ich weiß vnd erkenn\nvß Paulo/ all vnſer hoffnung in gott zůhebē/ alſo ſprech\nend. Eyn ſoliche hoffnung haben wir durch Chriſtum zů\ngott/",
         "b": "all vnser hoffnung\nin Gott zuͤheben / also sprechend. Eyn soliche\nhoffnung haben wir durch Christum zuͤ Gott/ nit das wir gnuͤgsam syen/",
-        "similarity": 0.6
+        "similarity": 0.6,
+        "semantic": 0.7691,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "nit das wir gnůgſam ſyen/ zůtrachten etwas vonn\nvns/ als vß vns/ ſonder vnſer gnůgſamkeyt iſt vß gott/ in welchen wortẽ vns Paulus zůden Corinthbern in der\nandern Epiſt.",
         "b": "zuͤ trachtẽ etwas võ\nvns/ als vß vns / sonder vnser gnuͤgsamkeyt ist\nist vß Got. Jn welchen worten vns Paulus zuͤ\nden",
-        "similarity": 0.4615
+        "similarity": 0.4615,
+        "semantic": 0.8424,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "am iij. leert. Das wir ſöllen erkennen/ das\nalles gnůg thůn von gott harkompt/ vnd von vns nit\nals von vnns/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7164,
+        "semantic_match": "vnnd all\nander suͤnd gelitten hab/ vnd vns erloͤst/ dz wir\naber ouch muͤssen etwas thuͤn/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -113,7 +130,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.792,
+    "reworded": 4,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4323,

@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "Die vierde\nPfarrer von Sant Gallen. Vantwurt Doctor Ecolampadij allen yntrag\nzů verantworten/mit erklärung der danckſa=\ngung/ſo by dem Nachtmal des herrē gebrucht\nſöll werden/weiß ich nit vilzewider:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7231,
+        "semantic_match": "allso ouch der lijb\nChristi Durch Das lam vns præsignriert\nEenige anzouft, ende\nEcolampadius\nDas glauben sie geistlich essen, Ist gnugsamlich\nbewert worden vnser dem vande capn:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "allein dz begär ich/ zů verſicherung vnſers gloubens/das mit gſchrifft erklä\nret zewerden/das Glouben/ſye/Eſſen. So nun (als ers\nnempt) dz Sacramentlich brot/vns des lyden vñ tods\nChriſti/erinnert/wie vil me ſölte vns erinneren dz wä=\nſen ſelber/damit vñ alle liebe ſinen/deſter volkomlicher\nin vns erklert:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6944,
+        "semantic_match": "haben zen hen gehept, der verhassung welche\nvns mitt cvesen vnnd that waarlich sine mit¬\ngereicht, vnnd wie das bedutet wirt wer¬\ntaffet sin figur /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -63,7 +69,10 @@
         "op": "only_a",
         "a": "cap. Johannis/ yezt vnnot mer bewärung ynzefüren. Das\naber herr Benedict ſpricht: Diewyl das Sa=\ncramentlich brot vnns ynfürt zů der gedächtnuß/ſo ſol\nvns die gegenwürtigkeit des lybs Chriſti ſelbs/vilmer\nerinneren:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7012,
+        "semantic_match": "allso ouch der lijb\nChristi Durch Das lam vns præsignriert\nEenige anzouft, ende\nEcolampadius\nDas glauben sie geistlich essen, Ist gnugsamlich\nbewert worden vnser dem vande capn:",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -81,15 +90,25 @@
         "op": "match",
         "a": "ſo ſol man da vermerckē/was das wort/Er=\ninneren/vff jm hab/vnnd wie der menſch mag erinnert\nwerden/ſo erfindt ſich/das vſſerliche ding zů der erinne=\nrung dienend/müſſen mit den ſinnē begriffen werdē/als\ndurch das gehör oder geſicht.",
         "b": "Johaes Itz\npompt over bewaring Inzufuren, Das aber\nher Benndicht spricht, Die will Das sacca¬\nmentlich bret vns infurt zu der gedechtnus\nso soll vnns die gegen wiertigken des lebs\nChristi, selbst, vill mer erjnnern, So soll man\nDa vermercken was Das wort erInnern\nVff Im hab vnnd wie der mousten mag\nerInnert werden, So erfindt sich das vsser¬\nliche ding zu der er Junxing dienen mussen\nmit Den sine begriffen werden, Als durch\ndas gehort oder gesicht, So min aber der lijb\nChristi, Hart vnns nit mer schbar lich geben,\ngegept, sollen werden vnnd soll nach smer red, vn\nsich barlich do sin vnnd vnentpfindtlich, So\nwirt er dermassen, kein erJuring gebenn\nwill man aber ansuchen, wie der monsten\nInneckich erinnert werd vnd wer das wurck\nso sell das vnserm einge Meister der da Im",
-        "similarity": 0.3352
+        "similarity": 0.3352,
+        "semantic": 0.6492,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "So nun aber der lyb Chri=\nſti/hat vns nit mer ſichtbarlich gegen gehept ſöllen wer\nden/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6508,
+        "semantic_match": "haben zen hen gehept, der verhassung welche\nvns mitt cvesen vnnd that waarlich sine mit¬\ngereicht, vnnd wie das bedutet wirt wer¬\ntaffet sin figur /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.6837,
+    "reworded": 1,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3239,

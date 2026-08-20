@@ -57,13 +57,18 @@
         "op": "match",
         "a": "Seite IVb\nDie vierdt\nmit dem wörtly Brot/ dann so er spricht/ vnd das Brot. aber. Sicht man wol/ dz er widerum hinuff gadt zů dem\nBrot/",
         "b": "und das Brot aber : sihet\nman wol / daß widerum hinuff gaht zů dem Brot / von\ndem er vor geredt hat /",
-        "similarity": 0.4681
+        "similarity": 0.4681,
+        "semantic": 0.8191,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "von dem er vor geredt hatt/ vñ hatt den sinn sam\nChristus spreche. Sz jr aber wüssend wz dz Brot sye/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7996,
+        "semantic_match": "welches er darnach in dem\nNachtmahl vßtrucklich vollfuͤhrt und yngesetzt hat / wel-\nches erklaͤrend der Mißglaub der zanckenden Juden /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -75,7 +80,9 @@
         "op": "match",
         "a": "võ\ndem ich üch sag/ so ist es:dz ich meyn fleysch vm das läbē\nder welt wird in tod geben.",
         "b": "so ist es / daß ich myn Fleisch\num das Leben der Welt wird in Tod geben. Es mag\nauch hienit ein Asyntethon syn ὃν ἐγὼ δώσω, sonder diese gan-\ntze Pericopa, oder Sinn /",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.6909,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -87,19 +94,25 @@
         "op": "match",
         "a": "sonder ein vßlegung was Chri-\nstus verstande/ durch das/ das er sich selbs das läbendig\nBrott genempt habe. Pfarrer von sant Gallen.",
         "b": "ist nit ein Verheissung / sonder\nein Ußlegung was Christus verstande durch das / daß\ner sich selbs das lebendig Brot genennet habe.",
-        "similarity": 0.5581
+        "similarity": 0.5581,
+        "semantic": 0.6391,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "S will min herr Meyster Vlrich/ das dise wort\ndas Brot/ zc. söllend verstanden werden/ lut der\nvorgenden worten. Ich bin dz läbendig Brot/",
         "b": "Pfarrer von Sant Gallen. ES will myn Herr Meister Ulrich / daß diese Wort / Das Brot / ꝛc. soͤllen verstanden werden /",
-        "similarity": 0.3182
+        "similarity": 0.3182,
+        "semantic": 0.6444,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "zc. Daruff aber min verstand ist/ das an disem ort mit dem\nwort Brot/ vheissen sye/ welchs er darnach in d Nacht\nmal vßtrucklich volfürt vnd ingesetzt hatt/",
         "b": "lut der vor-\ngehenden Worten : Ich bin das lebendig Brot / ꝛc. Da-\nruff aber myn Verstand ist / daß an disem Ort mit dem\nWort Brot verheissen seye /",
-        "similarity": 0.3273
+        "similarity": 0.3273,
+        "semantic": 0.6669,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -111,33 +124,51 @@
         "op": "match",
         "a": "welches er=\nklärend der mißgloub der zanckenden Juden/ als sy sag=\nten. Wie mag diser sin fleysch vns gebē zeessen:",
         "b": "als\nsy sagten : Wie mag diser syn Fleisch uns geben zeessen ? hat es der Herr selber erklaͤrt mit ernstlichen Worten /",
-        "similarity": 0.3415
+        "similarity": 0.3415,
+        "semantic": 0.7245,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "hatt es d\nherr selbs erklärt mit ernstlichen wortē/ sagende/ war=\nlich warlich sag ich üch/ es sye dann sach das jr werdent\nessen/",
         "b": "sa-\ngende : Warlich / warlich sag ich euch / es sey dann sach / daß",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.7149,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "das fleysch des suns des menschen/ vnnd werdent\ntrincken sin blůt/ so werdent jr nit habendz läben in üch/ vñ hernach:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7407,
+        "semantic_match": "welches er darnach in dem\nNachtmahl vßtrucklich vollfuͤhrt und yngesetzt hat / wel-\nches erklaͤrend der Mißglaub der zanckenden Juden /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "min fleysch ist warlich ein spyß/ vñ min blůt\nist warlich ein tranck: vñ wie min herr meynit dise Pericopa\nsie allein ein vßlegūg/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6084,
+        "semantic_match": "daß er per\nEpanaphoram, das ist / ein widerholen / hat woͤllen zů ver-\nstohn geben / was er meynen woͤlle mit dem Woͤrclin\n(Brot) dann so er spricht /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "was Christus verstande/ vermein\nich die nachuolgenden wort/ gebens dem Christlichen lä=\nser vnnd zůhörer/ gnugsam zeuerston/ dann ye das wort\nDabo, begryffe die verheyssunge/ das ist das ich geben wird. Zwingli",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8014,
+        "semantic_match": "der\nwird ewigklich leben : Daß nun hie verstanden werde / was Christus mit dem Wort Brot gewoͤlt habe / so er-\nklaͤrt er sich selbs mit den nachgehenden Worten /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7136,
+    "reworded": 6,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4,

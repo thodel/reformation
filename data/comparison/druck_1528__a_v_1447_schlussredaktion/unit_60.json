@@ -39,25 +39,33 @@
         "op": "match",
         "a": "Die erſt\nſchlußred zů beueſtigung der minen/ alſo darthůn. So dick vnd vil/vnd ſich zweyung vnd zwytracht\nzůtreyt in vnſerem waren vnbefleckte͂ glouben/",
         "b": "richter willen sin / so will ich das kuͤrtzlichen wider sollich\nschlussred  zu bevestigung der minnen / also\nDar thuͦn\nSo Dick vnnd vill vnnd sich Zweyung\nvnnd Zwytracht zuͦtreit In vnserem waren\nunbefleckten  glouͦben /",
-        "similarity": 0.3934
+        "similarity": 0.3934,
+        "semantic": 0.6118,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "iſt von\nnoͤten/das da ein richter funden werd/ der den zuckende͂\nwolff / durch ſinen gewallt hinweg trybe/ vnd abſůnde=\nre von der haͤrd des Herren /",
         "b": "Ist von noͤten Das\nda ein richter funden werd / der den zuckenden\nwolff / Durch sinen gewallt hinweg tribe / vnnd\nabsundere /",
-        "similarity": 0.6939
+        "similarity": 0.6939,
+        "semantic": 0.9035,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd anzeyg wellicher ein\nhirt/ oder zuckender wolff ſye. Diß iſt aber die Chriſte=\nlich Kilchen/als Matthei am xviij.ca.geſchriben ſtadt:",
         "b": "vn der heiaͤrd des hern / vnnd\nanzaigt wellicher ein hirt / oder zuckender wolff\nsy / Diss ist aber Die Christenlich Kirchen /",
-        "similarity": 0.4091
+        "similarity": 0.4091,
+        "semantic": 0.7207,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Welcher die Kilch nit hoͤrt/der ſol dir ſin als ein Heid/ vnd ein offen ſůnder. Doctor Wolffgang Fabricius Ca=\npito/Predicant zů Straßburg.",
         "b": "Alls Mathei xviij ͦ cap: geschriben statt\nwelcher Dir kilch nit hoͤrt / Der soll Die\nsin allß ein heid / vnnd ein offen suͤnder /",
-        "similarity": 0.449
+        "similarity": 0.449,
+        "semantic": 0.6517,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,13 +77,18 @@
         "op": "match",
         "a": "Komen lieben Chriſten/der lenge nach/hat So\ncrotz Cůnrad Treiger Prouincial/inhalt/vnnd\nmeinung ſins fuͤrnemens anzeygt/ vnd in dem\nden namen der Kilchen zweyſpaltig genomen/",
         "b": "vnnd meynung  sins fuͤrnaͤmens anzaͤigt\nvnnd In dem / namen der kilchen  zwey // spelltig genomen vnnd vss welltlicher  mut //",
-        "similarity": 0.3673
+        "similarity": 0.3673,
+        "semantic": 0.7454,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "vnd vß\nweltlicher můtmaſung vrſach anzeygt/warumb die vſ=\nferlich gemeyn verſamlung/ in zweyſpeltigen articklen\ndes gloubens/ſprechen ſol/dann ye ein richter ſin můß.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7011,
+        "semantic_match": "Breda\nDas\nor I am\nhafft\nDurch\nvingtly\nden\neest\nf ist\nichs\nsollichs\nwort sij\n4\n1\n39\nDie erst Schlußred\nInn hendlen des gloubens /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -95,7 +108,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7224,
+    "reworded": 4,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3784,

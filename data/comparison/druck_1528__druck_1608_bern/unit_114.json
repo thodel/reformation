@@ -45,25 +45,33 @@
         "op": "match",
         "a": "**Die erst**\n\nsin Participatiue/nit vßgeschlossen/dz war einig houpt/Jē=\nsus Christus. Darumb so Herr Berchtold die zwo zer=\ntheylung than hat/sol er die wolbetrachten/dann die nit\nwerdend wider mich sin.",
         "b": "daß sy\nouch Hoͤupter moͤgend ſin Participatiuè, nit vßgeſchloſſen / das waar einig Houpt / Jeſus Chriſtus. Darumb ſo Herr\nBerchtold die zwo zerteilung than hat /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.8253,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "**Berchtoldus.**\n\n[S]ist ein eynigs houpt/ wellches da ist ein heyl=\nland der gemeynd Gottes/ Paulus zun Ephe=\nsern am fünfftenn capitel.",
         "b": "ſoll er die wol be=\ntrachten / dann die nit werdend wider mich ſin. Berchtoldus. ES iſt ein einigs Houpt / welches da iſt ein Heiland der\ngemeind Gottes /",
-        "similarity": 0.3673
+        "similarity": 0.3673,
+        "semantic": 0.7823,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Es sind vil Empter\noder āplüt/die sind glider des libs Christi/sy sind aber\nnit das houpt/ von dem die gschrifft redt/",
         "b": "Paulus zun Epheſern am fünfften\ncapitel. Es ſind vil Empter oder Amptlüt / die ſind\nglider deß Lybs Chriſti / sy ſind aber nit das Houpt /",
-        "similarity": 0.625
+        "similarity": 0.625,
+        "semantic": 0.6939,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das die glider\nläbendig macht/ vñnd ein heylannd ist des lybs/ daruß\nmag der Pfarrer aber nit bewären/wider vñser Schluß\nred/ob schon die Apostel liechter sind der welt/",
         "b": "von\ndem die Gſchrifft redt / daß die glider laͤbendig macht / vnd\nein Heiland iſt deß Lybs / daruß mag der Pfarrer aber nit\nbewaͤren /",
-        "similarity": 0.4364
+        "similarity": 0.4364,
+        "semantic": 0.9147,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,27 +83,42 @@
         "op": "match",
         "a": "nit wesen\nlich/ sonder die vom houpt Christo erlüchtet sind/ wie\nouch alle glöubigen all Christen sind. Daruß volgt aber\nnit/das darumb all Christenn höupter sygend der Kil=\nchen.",
         "b": "wie ouch alle gloͤuͤbigen all Chri=\nſten ſind. Daruß volgt aber nit / das darumb all Chriſten\nhoͤupter ſygend der Kilchen.",
-        "similarity": 0.5283
+        "similarity": 0.5283,
+        "semantic": 0.8176,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Bringend klare geschrifft/das ein ander houpt der\nKilchen sye/ welliches sy läbendig macht/ vñnd ir heyl=\nland sye. **Meister Vlrich Zwingli/**\n\n[I]ch begär ein wenig zů erklärung/wie Christus\ndas liecht syge/",
         "b": "Bringend klare Gſchrifft / das ein ander Houpt der Kilchen ſye / welliches sy laͤ=\nbendig macht / vnd jr Heiland ſye. D    ij",
-        "similarity": 0.5091
+        "similarity": 0.5091,
+        "semantic": 0.8211,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "vñnd wie die Apostel das liecht\nsyend/zereden: Christus ist das waar wäsenlich\nliecht/Johannis im ersten capitel/ Vnd alles liecht das\ndie Apostel habend/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8032,
+        "semantic_match": "wider vnſer Schlußred / ob ſchon die Apoſtel\nLiechter ſind der Welt / nit weſenlich / ſonder die vom Houpt\nChriſto erlüchtet ſind /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "gibt er inen. Nemmend lieber herr\nPfarrer ein Byspil: Die Sonn gibt den tag durch das\nfenster haryn/ vñnd ist aber der tag oder liecht/ nützid\n                                                              für sich",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7152,
+        "semantic_match": "So er nun nachgelaſſen hat / Herr\nBerchtold / das die Jünger deß Herren Jeſu Chriſti ha=\nbind den empfangnen gewalt / Volget je daruß /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7967,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5309,

@@ -51,7 +51,9 @@
         "op": "match",
         "a": "die Sacra=\nmenten / vßteylen. Aber diß ist zů allen geschriben / vnd\ndie nachgenden wort die erklårens / so er spricht: Dann\nwir vil /",
         "b": "Schlußred. 277\nallen geſchriben/vnd die nachgenden wort die erklaͤrens/ſo\ner ſpricht: Dann wir vil ſindein Brot/vnd ein Lyb/die-\nwyl wir all eins Brots teilhafftig ſind /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.8376,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -63,25 +65,33 @@
         "op": "match",
         "a": "des himmelschen brots Christi Je\nsu. Vnd hernach bezůgen wir vns / solichs warhafftig=\nklich in den Sacramenten / durch das Sacramentlich\nbrot.",
         "b": "Dann wir ſind\nteilhafftig/zum erſten mit einandern/ deß Himmeliſchen\nBrots Chriſti Jeſu. Vnd hernach bezugen wir vns ſoͤl-\nlichs warhafftiglich in den Sacramenten/",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.846,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "**Allehamer+**\n\n[E]S bringt min herr Doctor herfür / das Grie=\nchisch wort / κοινωνία / heyß ein gesellschafft / das\nvernein ich jm nit /",
         "b": "durch das\nSacramentlich Brot. Althamer. ES bringt min Herr Doctor herfuͤr / das Griechiſch\nwort/Κοινωνία heiß ein Geſellſchafft/ das vernein ich\nim nit/das an vil orten den ſelbigen verſtand oder be-\nduͤtung hab.",
-        "similarity": 0.4912
+        "similarity": 0.4912,
+        "semantic": 0.7452,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "das an vil orten den selbigen\nverstand oder bedůtung hab. Aber daruß wirt nit vol=\ngen / das es ouch hie můß haben:",
         "b": "Aber daruß wirt nit volgen / das es ouch\nhie muͤß haben : dann in der andern Epiſt. zun Corinth. am 13.",
-        "similarity": 0.4186
+        "similarity": 0.4186,
+        "semantic": 0.6731,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dan in der andern Epi. zun Corinthiern am xiij. capitel / so Paulus spricht: Die\ngnad vnsers herren Jesu Christi / vnd liebe Gottes /",
         "b": "Capitel/ſo Paulus ſpricht: Die Gnad vnſers\nHerren Jeſu Chriſti/vnd liebe Gottes/vnd Gemeinſchafft\ndeß Heilihen Geiſts/ſye mit uͤch allen:",
-        "similarity": 0.5778
+        "similarity": 0.5778,
+        "semantic": 0.9,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -93,7 +103,10 @@
         "op": "only_a",
         "a": "Wie ers ouch zun Ga=\nlathern am vj. capitel / brucht: derhalben es ouch hie in\nder .j. Ep. zun Corinth.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6674,
+        "semantic_match": "Wir\nſprechen der Kelch der danckſagung ſye ein vſteilung deß\nBluͤts Chriſti/vnd diewyl Lyb and Bluͤt by einandern\nſtond/mag es nit vnderſt verſtanden werden /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -105,7 +118,9 @@
         "op": "match",
         "a": "v. cap. also genomen wirt: Soñ\nwas gemeinsame hat der Kelch mit dem blůt Christi: Wir",
         "b": "Capit. brucht: derhalben es ouch hie in der erſten Epiſt. zun Co-\nrinth. am 10. Capit. alſo genommen wirt: Dann was\ngemeinſame hat der Kelch mit dem Bluͤt Chriſti?",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.6742,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -119,7 +134,12 @@
         "b": "denn von\nbeider vſteilung. Der nachuolgend Text: Denn wir vil\nſind ein Brot/vnd ein Lyb/darumb daß wir von eim Brot\nMm iij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7634,
+    "reworded": 4,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.497,

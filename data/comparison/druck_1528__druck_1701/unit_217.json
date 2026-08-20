@@ -51,21 +51,33 @@
         "op": "match",
         "a": "Seite [IIJ]\n\nDie vierdt\nHat meiſter Frantz Kolb die vierdt\nSchlußred vnd grund der ſelbigen eroffnet/ als hernach volget. Ich bitten uͤch liebenn\nGotsfruͤnd/ernſtlich vmb got\ntes willẽ/das jr uͤch ab nach=\ngender Schlußred nit welled\nergeren/oder ein ſchuͤchen em=\npfachen/oder vns darfuͤr ach\nten/das wir ein luſt habind et\nwas vngehoͤrdts harfuͤr ze=\nbringẽ/Sonder die groſſen vn\ngeſchickte mißbruͤch/ſo in die\nten waaren verſtand des Goͤttlichen worts/vns zwin=\ngend vnd tringend/diſe ſchlußred alſo zuͤ bekennen/wie\nſy dann luter/namlich:",
         "b": "oder ein Scheuhen empfahen/oder uns dar-\nfuͤr achten/daß wir ein Luſt habind etwas ungehoͤrtes\nharfuͤr zebringen/ſonder die groſſen ungeſchickten Miß-\nbruͤch/ſo in die Chriſtenlich Gemeind gewachſen ſind/wi-\nder den rechten wahren Verſtand deß goͤttlichen Worts/",
-        "similarity": 0.3056
+        "similarity": 0.3056,
+        "semantic": 0.1859,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Das der lyb vnd bluͤt Chriſti waͤſenlich\nvnnd lyblich in dem brot der danckſagung\nempfangẽ werdind/mag mit bibliſche ge\nſchrifft nit bybracht werden+\n\nDas bewyß ich mit luter gſchrifft/fuͤrnemlich Johan=\nnis am vj.",
         "b": "uns zwingend und tringend/dieſe Schlußred alſo zuͦ be-\nkennen/wie ſy dann lutet/namlich: Daß der Lyb und Bluͦt Chriſti waͤſentlich und lyblich\nin dem Brot der Danckſagung empfangen wer-\ndind/mag mit bibliſcher Geſchrifft nit bybracht wer-\nden. Das",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.7591,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Cap. Das fleyſch iſt garnuͤt nuͤtz (verſtand\ngeeſſen) Deßhalb Chriſtus ye nit hat gewellen/wie dañ\nwir bißhar gemeinlich verſtanden/das wir in diſem Sa\ncrament",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7831,
+        "semantic_match": "als hernach folget. JCh bitten Euch/liebe Gottes = Fruͤnd/ernſt-\nlich um Gottes willen/daß ihr euch ab nach-\ngehender Schlußred nit woͤllend aͤrgeren/",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.576,
+    "reworded": 1,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3204,

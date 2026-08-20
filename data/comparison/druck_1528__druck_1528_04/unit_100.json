@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Die erſt\ndas er ſöllichs zeurteylen / ouch eynem yeden Chriſten/ müß zůgeben/dann nach dem gebott Chriſti/ ſo ſoll eyn\nyeder ſin ſündigen brůder ſtraffen/das kan er nun nitt\nBillich thůn/er hab jn dann recht vnnd Billich als ein ſün=\nder vnd jrrigen geurteylet.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7887,
+        "semantic_match": "gefuͤrdert werden mag: ſonders wir muͤſſen durch den geyſt Gottes im\nhertzen eyn yeder fuͤr ſich ſelbs verſichert werdẽ:",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -51,19 +54,25 @@
         "op": "match",
         "a": "Zum anderen/diewil ſin men=\nſchliche ynred/ By den einfaltigen/ eyn ſchin möchte ha=\nben/als ob mer eynigkeyt im glouben zůhoffen wer/wo\ndie ſachen des gloubens/durch ein gemeyn Concilium\nentſcheyden wurden.",
         "b": "als ob mer einigkeyt im glouben zuͦhoffen wer/ wo die ſachen des gloubens / durch ein gmeyn\nconcilium entſcheyden wurden.",
-        "similarity": 0.5926
+        "similarity": 0.5926,
+        "semantic": 0.6528,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "So erman ich üch lieben Chriſten\njr wellend yndenck ſin/des/ſo ich üch hüt vß Göttlicher\ngeſchrifft håll vnnd klar hab dargethon.",
         "b": "So erman ich\nuͤch lieben Chriſten / jr wellend yndenck ſin/des\nſo ich uͤch huͤtt vß Goͤttlicher gſchrifft/",
-        "similarity": 0.5778
+        "similarity": 0.5778,
+        "semantic": 0.9105,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Namlich das\nrechter verſtand des wort Gottes vnnd eynigkeyt des\ngloubens/durch keinen huffen der menſchen die von jnen\nſelbs lugner ſind/gefürdert werden mag/ſonders wir\nmüſſen durch den geyſt Gottes im hertzen eyn jeder für\nſich ſelbs verſichert werden/dis begegnet nu endtlichen\nallen/die Gott zum ewigen läben verordnet hatt/dann\ner berüfft ſölche/macht ſy from vnnd ſälig/zun Rö=\nmern vuj.",
         "b": "haͤll vñ\nklar hab dargethon/Namlich / das rechter ver=\nſtand deß wort Gottes vnd eynigkeyt des glou\nbens/durch keinen huffen der menſchẽ die von\njnen ſelbs lugner ſind /",
-        "similarity": 0.3542
+        "similarity": 0.3542,
+        "semantic": 0.6813,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,7 +96,9 @@
         "op": "match",
         "a": "Capi. Da nebē wir aber wie hüt geſagt/mag\nein Kilch etliche ort ð geſchrifft anderſt verſton/wañ die\nandere/wie dañ geſchicht von diſem ſpruch/das iſt minn\nlyb/nit allein zwüſchend der Kilchē/zů Wittenberg/vñ\ndera von Zůrich/ſondert ouch vil andern mer/wo aber\ndz vertruwē vff den eynigen heyland Jeſum geſetzt wirt\nda hat man dz ewig läbē/Joan.",
         "b": "wañ die andere.: wie dañ geſchicht vonn diſem\nſpruch:das iſt min lyb/ nit allein zwuͤſchend der\nKilchen zuͦ Wittenberg/vnnd dero von Zuͤrich/",
-        "similarity": 0.3778
+        "similarity": 0.3778,
+        "semantic": 0.8851,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -99,9 +110,16 @@
         "op": "match",
         "a": "am vj. cap. Vñ mögent\nſölche zweyung endtlich nit ſchade/dz vertruwē vff gott/ welches der erwellten läben iſt/wirt für faren/vñ durch\nGottes geyſt noch volkomen werden/vnd kein end nie=\nmermer nemen",
         "b": "Vnd moͤgend ſoͤliche zweyung endtlich nit ſcha\nden. Das vertruwen vff Gott / welches der er=\nwelten laͤbẽ iſt/wirt fuͤr faren/ vñ durch Gottes\ng",
-        "similarity": 0.4062
+        "similarity": 0.4062,
+        "semantic": 0.8866,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.8008,
+    "reworded": 3,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6004,

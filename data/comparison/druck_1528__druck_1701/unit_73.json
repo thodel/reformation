@@ -45,25 +45,33 @@
         "op": "match",
         "a": "vnd gib antwurt erstlich des spruchs halbē/ der geystlich\nricht alles/zc. Diewyl wir wüssen das vnser widerpart/ das vrteilen dahin zühen wil/",
         "b": "und gib Antwort\nerſtlich deß Spruchs halben / Der geiſtlich richt alles / ꝛc. diewyl wir wiſſen / daß unſer Widerpart das urtheilen\ndahin zůhen wil /",
-        "similarity": 0.6522
+        "similarity": 0.6522,
+        "semantic": 0.5913,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "das ein gmein Concilium\nmacht hab/ etwas nebend der geschrifft anzenemen/ hab\nouch erstlich der schrifft / Das ansehen geben / so ist Billich\ngeantwurt worden/",
         "b": "daß ein gemein Concilium Macht habe / etwas nebend der Geſchrifft anzenemmen / hab ich auch\nerſtlich der Schrifft das Anſehen geben /",
-        "similarity": 0.6364
+        "similarity": 0.6364,
+        "semantic": 0.8465,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das der geystlich die geschrifft nit ze=\nrichten hab/ das ist sins geuallens die geschrifft anzenem\nmen oder zeuerwerffen/ sonder er hats allein müssen an=\nnemen/",
         "b": "ſo iſt billich geant-\nwortet worden / daß der geiſtlich die Geſchrifft nit zerich-\nten hab / das iſt ſynes Gefallens die Geſchrifft anzenem-\nmen oder zeverwerffen /",
-        "similarity": 0.5098
+        "similarity": 0.5098,
+        "semantic": 0.7888,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dann er åben durch den geyst sin erkantnus hatt/ durch welchen die Bibel vns geben ist / so aber min herr\nDoctor das vrteylen verston will / wie es ouch Paulus",
         "b": "ſonder er hats allein muͤſſen an-\nnemmen / dann er eben durch den Geiſt ſyn Erkantnus\nhat / durch welchen die Bibel uns geben iſt:",
-        "similarity": 0.4528
+        "similarity": 0.4528,
+        "semantic": 0.8131,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -95,7 +103,12 @@
         "b": "er waͤre ſonſt nit Gott-glaͤubig / deſſen Red er nit\nwuͤßte. Hieruß folget nun / daß alle Chriſten ſamenthafft\nund ſonder alle Lehr zů urtheilen haben / wie das gar\n\tH iij\tChri-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7599,
+    "reworded": 1,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.382,

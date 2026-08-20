@@ -51,49 +51,66 @@
         "op": "match",
         "a": "**Schlußred**\n\nman wol/das der Saam des worts Gottes/vilmals in\ndie vnfruchtbare erdtrich valt/vnd erst in dem vierden\nvilfaltige frucht fürbringt.",
         "b": "Von der ver\nheyſſung weyßt man wol/ das der Saam des\nworts Gottes/vilmals in die vnfruchtbare erd=\ntrich falt/vñ erſt in dem vierden vilfaltige frucht\nfuͤrbringt.",
-        "similarity": 0.6923
+        "similarity": 0.6923,
+        "semantic": 0.9366,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Dan alles so die Apostel ge=\nthan haben/habend sy nit vß jnen selbs/sonders in dem\nnamen/dz ist in der krafft Gottes/gehandlet:",
         "b": "Dañ alles ſo die Apoſtel gethan ha=\nben/habend ſy nit vß jnen ſelbs/ſonders in dem\nnamen/ das iſt in der krafft Gottes/",
-        "similarity": 0.8163
+        "similarity": 0.8163,
+        "semantic": 0.8785,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "gewüß ist/ das die vsseren wort/als mittel vnd instrumenten sind/ des so Gott wil. Wie er sagt/ durch die Propheten vnd\nMoyse:",
         "b": "gehandlet: gewuͤß iſt/das die vſſern wort/als mittel vñ in=\nſtrumenten ſind/ des ſo Gott wil. Wie er ſagt\ndurch die Propheten vnnd Moyſe:",
-        "similarity": 0.7347
+        "similarity": 0.7347,
+        "semantic": 0.8971,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Ich bin din Gott. Sölliche verheyssunge in den\nkurtzen worten/fürend vnd bringend mit/Gott mit al=\nlen sinen güteren/so man jm demütigklich gloubt.",
         "b": "Jch bin din\nGott. Soͤlliche verheyſſung in den kurtzē wor=\nten/fuͤrend vnd bringend mitt/ Gott mit allen\nſinen guͤteren/ſo man jm demuͤtigklich gloubt.",
-        "similarity": 0.5185
+        "similarity": 0.5185,
+        "semantic": 0.9187,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Das\nübrig das beuilch ich dem Christenlichen läser. **Zwingli**\n\n[A]lle wort vnser widersechern/dienend dahar/ das alles so beschicht/",
         "b": "Dꝫ uͤbrig dꝫ beuilch ich dem Chriſtenlichē laͤſer. Zwingly. Alle wort vnſer widerſechern/dienēd daher/ das alles ſo geſchicht/",
-        "similarity": 0.439
+        "similarity": 0.439,
+        "semantic": 0.7867,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vß Gottes würckung be\nscheche/vnd nit vß krafft oder gesellschafft des\nvsserlichen worts. Darumb so die vsseren wort/mittel\noder instrument genempt werde/dessin so Gott wil/",
         "b": "vß Gottes wuͤrckung ge=\nſcheche/vnnd nit vß krafft oder geſellſchafft deß\nvſſerlichen worts. Darumb ſo die vſſeren wort\nmittel oder inſtrument genempt werden/deſſin\nſo Gott wil/",
-        "similarity": 0.807
+        "similarity": 0.807,
+        "semantic": 0.946,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "ver\nstan wir das nit/das sy volbringende instrument syend/ sonder das die wort/sy syend von stim oder büchstaben/",
         "b": "verſtond wir das nit/ das ſy vol=\nbringende inſtrument ſyen/ſonder dꝫ die wort/ ſy",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.8854,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "allein den Göttlichen willen anzeygend. Wir habend in\nden Geschichten der Apostel/am xix. cap. also: Es wa=\nrend etliche sun Sceue eins Judens/eins obresten Prie=\nsters/deren waren siben/die vnderstündend sich by dem\nnamen des Herren Jesu zebeschweren/die von den bö=\nsen geysten besässenn warend/vnnd sprachend:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6697,
+        "semantic_match": "wie die hiſtori vermag. Vom lyden Je=\nſu Chriſti/weyßt mencklich/das er ſin willen in\nden willen ſins vatters ergeben.ꝛc.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -105,9 +122,17 @@
         "op": "only_a",
         "a": "Ich\nkenn Jesum/ich kenn Paulum/wär sind aber jr? Vnd\nviel der mensch in sy/in dem der böß geist was/vnnd be=\nMm iij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6187,
+        "semantic_match": "wie die hiſtori vermag. Vom lyden Je=\nſu Chriſti/weyßt mencklich/das er ſin willen in\nden willen ſins vatters ergeben.ꝛc.",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.8375,
+    "reworded": 1,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.438,

@@ -33,13 +33,17 @@
         "op": "match",
         "a": "Schlußred. 487\nEcolampadius. MAn beſeche by dem Propheten Eſaia/was vor vnd\nnach gange / ſo wirt ſich wol erfinden/ob diſe myn\ngloß/ein froͤmbde ſyge/",
         "b": "Schlußred. 487\nEcolampadius. MAn beſeche by dem Propheten Eſaia / was vor vnd\nnach gange / ſo wirt ſich wol erfinden / ob diſe myn\ngloß /",
-        "similarity": 0.92
+        "similarity": 0.92,
+        "semantic": 0.9784,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "oder nit : in dem 141. Pſal=\nmen/mag man vß dem Titel deſſelben Pſalmen/wol mer=\ncken / was der Dauid verſtanden hab durch den Kercker:",
         "b": "ein frömbde ſyge / oder nit : in dem 141. Pſal-\nmen / mag man vß dem Titel deſſelben Pſalmen / wol mer-\ncken /",
-        "similarity": 0.7556
+        "similarity": 0.7556,
+        "semantic": 0.9384,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -51,13 +55,17 @@
         "op": "match",
         "a": "dann der ſelb Pſalm / hat ein ſoͤliche uͤbeſchrifft : Ein ver=\nſtand Dauid/da er was in der Huͤle/Von welchem wol zuͤ=\nvermercken/daß der David begaͤrt hat von Saul erlediget\nzuͤ werden/vnd von ſyner anfechtung/weliche anfechtung\ner einen Kercker nennet.",
         "b": "da er was in der Hüle / Von welchen wol zů-\nvermercken / daß der Dauid begårt hat von Saul erlediget\nzů werden /",
-        "similarity": 0.5294
+        "similarity": 0.5294,
+        "semantic": 0.7797,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Alſo ouch / ſowir baͤtten diſen\nPſalmen/begaͤren wir von vnſern geiſtlichen Fyenden vnd\nanfechtungen erloͤßt werden. Wo ouch der Schuͤlmeiſter\nden Kercker der Verdampten/",
         "b": "vnd von ſyner anfechtung / weliche anfechtung\ner einen Kercker nennet. Alſo ouch / ſo wir båtten diſen\nPſalmen / begåren wir von vnſern geiſtlichen Fyenden vnd\nanfechtungen erlößt werden.",
-        "similarity": 0.4364
+        "similarity": 0.4364,
+        "semantic": 0.9102,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,19 +77,25 @@
         "op": "match",
         "a": "nit welte laſſen ſyn ewig / wurd er in den Origeniſchen Jreſal fallen. Wir habẽ Mat=\nthei am 22.von dem/der das hochzytlich Kleid nit hat/daß\nin der Kuͤnig hat geheiſſen geworffen werden/mit gebun=\ndenen Haͤnden vnd Fuͤſſen /",
         "b": "Wir habē Mat-\nthei am 22. von dem / der das hochzytlich Kleid nit hat / daß\nin der Künig hat geheiſſen geworffen werden /",
-        "similarity": 0.6462
+        "similarity": 0.6462,
+        "semantic": 0.823,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "in die vſſerliche Finſternus. Wo ſoͤlichs Finſternuß ſind / vnd ſoͤlich binden / ſampt\nweinen vnd zaͤnklaffen / mag billich ein Kercker genempt\nwerden.",
         "b": "mit gebun-\ndenen Hånden vnd Füſſen / in die vſſerliche Finſternus. Wo ſölichs Finſternuß ſind / vnd ſölich binden / ſampt\nweinen vnd zånklaffen /",
-        "similarity": 0.5333
+        "similarity": 0.5333,
+        "semantic": 0.942,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Buͤchſtab. VOn dem Titel deß angezetgten Pſalmen / weiß ich\nnit / ich behilff mich deß Pſalmen:Vnd Eſaia. Hat\nDauid begaͤrt vom Saul gelediget zuͤwerden/vnd",
         "b": "mag billich ein Kercker genempt\nwerden. Bůchſtab. VOn dem Titel deß angezeigten Pſalmen / weiß ich\nnit / ich behilff mich deß Pſalmen:",
-        "similarity": 0.5306
+        "similarity": 0.5306,
+        "semantic": 0.9181,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -89,7 +103,12 @@
         "b": "Vnd Eſaia. Hat\nDauid begårt vom Saul gelediget zůwerden / vnd",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8985,
+    "reworded": 1,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.8525,

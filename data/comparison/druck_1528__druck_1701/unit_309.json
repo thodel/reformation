@@ -57,7 +57,9 @@
         "op": "match",
         "a": "Die vierdt\n\nnüw Teſtament/das tranck nit das Teſtament iſt dar-\nuß ſy dann erleernen/das das wort Teſtament an dem\nort alls vill iſt/als zeychen des Teſtaments.",
         "b": "daß ſo hie ſtaht / Das Tranck iſt das\nNeu Teſtament / das Tranck nit das Teſtament iſt / daruß ſy dann erlernen /",
-        "similarity": 0.3673
+        "similarity": 0.3673,
+        "semantic": 0.7682,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,13 +71,17 @@
         "op": "match",
         "a": "Pfarrer von Sant Gallen: Als das tranck nit ſye das nüw Teſtament/ſoll\ndarby verſtande werden/vnd zů geſegt In my\nnem blůt/dann ſöllichen verſtand gar häll vnd\nklar/gibt Mattheus/ſo er ſagt.",
         "b": "ſoll\ndarby verſtanden werden / und zuͦgeſetzt / In mynem\nBluͦt / dann ſoͤlichen Verſtand gar haͤll und klar gibt\nMattheus /",
-        "similarity": 0.4211
+        "similarity": 0.4211,
+        "semantic": 0.6859,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Das iſt myn blůt des\nnüwen Teſtaments/welches vergoſſen wirt/zů verzich-\nung der ſůnd. Darum nochmals der handel nit erobert\noder der ſpruch Matth.",
         "b": "ſo er ſagt: Das iſt myn Bluͦt deß Neuen\nTeſtaments / welches vergoſſen wird zuͦ Verzyhung der\nSuͤnd. Darum nochmals der Handel nit erobert /",
-        "similarity": 0.56
+        "similarity": 0.56,
+        "semantic": 0.8514,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -87,25 +93,37 @@
         "op": "only_a",
         "a": "Wir ſchlahen nitt ab/das\nvns die nachlaſſung der ſůnd mitt dem vergoſſnen blůt\nChriſti erworben ſye/ſonder ſöliche wort/die beueſtnen\nvnſern grund/das das blůt Chriſti ſelbsſelb nitt das\nTeſtament iſt/ſonder das wård:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8166,
+        "semantic_match": "Zwingly. SO nun das Teſtament iſt die freye nachlaſſung der\nSuͤnd / ſo iſt ſchon erfochten / und unſere Bruͤder\ngewuͤß gemacht /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "damit vns das Teſta-\nment/welches da iſt nachlaſſung der ſůnd erworben iſt/ Der bůchſtab lutet das tranck ſye das Teſtament:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7856,
+        "semantic_match": "ſtaht / ob\nſy das nachlaſſind. Pfarrer von Sant Gallen. UFf die Frag antwort ich / daß das Neu Teſtament ſeye\nVerzyhung und Nachlaſſung der Suͤnd im Bluͦt Je-\nſu Chriſti /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "ſo iſt\nnachlaſſung der ſůnd das Teſtament/ſo můß das wort\nTeſtament/hie nit eygentlichen genomen werden. Pfarrer von Sant Gallen:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.9303,
+        "semantic_match": "daß das Wort Teſtament an\ndem Ort als vil iſt / als Zeichen deß Teſtaments. Pfarrer von Sant Gallen. DAß das Tranck nit ſeye das Neu Teſtament /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Vßlegung 8 worten/ſo herr Meyſter Vlrich\nfürgetrage/erklärt Mattheus vñ Marcus/dz\ndas ſo 8 herr das Teſtament geheyſſen den jůn=\ngern hatt",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7878,
+        "semantic_match": "ſtaht / ob\nſy das nachlaſſind. Pfarrer von Sant Gallen. UFf die Frag antwort ich / daß das Neu Teſtament ſeye\nVerzyhung und Nachlaſſung der Suͤnd im Bluͦt Je-\nſu Chriſti /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -113,7 +131,12 @@
         "b": "oder\nder Spruch Matth. nit gnuͤgſam erklaͤrt / als unſer Herr\nund Bruͤder vermeynt. Wei-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8037,
+    "reworded": 2,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3041,

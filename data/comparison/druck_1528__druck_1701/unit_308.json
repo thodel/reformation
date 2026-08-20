@@ -69,63 +69,93 @@
         "op": "match",
         "a": "Schlußred. CXLVIII\nthůnd in miner gedechtnus/ so es ein gedechtnuß heyßt/ wirt da nit abgeschlagen das wäsen: dan̄ die gedechtnus\nnit allweg der abwäsenden dingen/",
         "b": "so es ein Ge-\ndechtnus heißt / wird da nit abgeschlagen das Wesen: dann die Gedechtnus nit allweg der abwesenden dingen/",
-        "similarity": 0.5778
+        "similarity": 0.5778,
+        "semantic": 0.7117,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "sonder ouch der gegen\nwürtigen vilmals sind/ als des mengerley inzüg der ge=\nschrifft harin bracht moͤchten werden/ als Exodi am xij\nCapitel.",
         "b": "sonder auch der gegenwårtigen vilmals sind / als deß\nmancherley ynzůg der Geschrifft haryn bracht möchten\nwerden / als Exodi am 12.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.6851,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Was das lamb das lamb/ vnd nüt dester min\nder ward die gedechtnus gehalten/ des so gott der Herr\njnen in der wolthat erzeygt hat/",
         "b": "Capitel. Was das Lam/das\nLam/und nüt destominder ward die Gedåchtnus gehal-\nten deß / so Gott der Herr ihnen in der Wolthat erzeigt\nhat /",
-        "similarity": 0.6
+        "similarity": 0.6,
+        "semantic": 0.8139,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das übrig erfindt sich in\nder erst gegebnen antwurt. Zwingli\nZ Vßtrag der sach/ Bit ich vnsere lieben brüder\ndas sy vns kủrtzlich beruß lassend/",
         "b": "das übrig erfindt sich in der erst gegebnen Antwort. Zwingly. ZU Ußtrag der Sach / bitt ich unsere lieben Brüder/ daß sy uns kurtzlich heruß lassend /",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.7556,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "was dz nüw\nTestament sye/ vnd so das selbig der heilig Pau\nlus zun Hebreern am viij. nennet/ das es das sye/",
         "b": "was das Neu Te-\nstament seye / und so dasselbig der heilig Paulus zun\nHebreern am 8. Capitel nennet / daß es das seye / daß er\nPp iij barm-",
-        "similarity": 0.449
+        "similarity": 0.449,
+        "semantic": 0.7365,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "das er\nbarmhertzig werde sin vnsern mißthaten vnd vnseren\nsünden/ vnd vnserer übertrettungen/ niemer mer werde\ndencken/ als ouch Hieremie am xxxj.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6548,
+        "semantic_match": "gewüßlich auch ist / daß der Kelch / das Testament Chri-\nsti beståtlich genommen werden mag / und soll von dem\nWort / das thůnd in myner Gedåchtnus /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Capitel stat/ ob sy\ndas nachlassind. Pfarrer von sant Gallen\nV ff die frag antwurt ich/ das das nüw Testa=\nment/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7902,
+        "semantic_match": "Die Vierdte Schlußred. 303\n\nPfarrer von Sant Gallen. UFf Verantwortung mynes Herren Doctors über myn\nyntragene red/vil so durch ihn fürbracht/verlaß ich den\nZůhörenden und Lesern /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "sye verzichung vnd nachlassung der sünd\nim blůt Jesu Christi/ wie da stat in der ersten\nJoannis am ersten Capitel.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6215,
+        "semantic_match": "gewüßlich auch ist / daß der Kelch / das Testament Chri-\nsti beståtlich genommen werden mag / und soll von dem\nWort / das thůnd in myner Gedåchtnus /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Das blůt Jesu reiniget vns\nvon vnsern sünden. Zwingli. S o nun das Testament/ ist die frye nachlassung\nder sünd/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7579,
+        "semantic_match": "gewüßlich auch ist / daß der Kelch / das Testament Chri-\nsti beståtlich genommen werden mag / und soll von dem\nWort / das thůnd in myner Gedåchtnus /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "so ist schon erfochtē/ vñ vnsere brüder\ngewüß gmacht/ dz so hie stat/ Das tranck ist dz",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6802,
+        "semantic_match": "Die Vierdte Schlußred. 303\n\nPfarrer von Sant Gallen. UFf Verantwortung mynes Herren Doctors über myn\nyntragene red/vil so durch ihn fürbracht/verlaß ich den\nZůhörenden und Lesern /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7207,
+    "reworded": 1,
+    "candidates": 5,
+    "recovered_by_embedding": 5,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3,

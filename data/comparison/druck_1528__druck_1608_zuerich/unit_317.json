@@ -45,7 +45,9 @@
         "op": "match",
         "a": "Schlußred. CLI\nvnwirdig iſſet/vñ nit gar/Welcher das brot vnwirdig\niſſet. Volgt wyter/Duch trincken wirt/das tranck deß\nHerren vnwirdig :",
         "b": "ſo muͤßt er ge-\nredt haben: Welcher nun den Lychnam vnwirdig iſſet/ vnd nit gar/ Welcher das Brot vnwirdig iſſet.",
-        "similarity": 0.4186
+        "similarity": 0.4186,
+        "semantic": 0.4468,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -57,7 +59,9 @@
         "op": "match",
         "a": "nempt es aber tranck/vñ nit blůt. Aber diß wörtly/Wirdig/heißt als vil by Paulo vnnd\nLuca.iij.als/geschickt/komlich/oder zügehörig/vß de\nerkennt wirt/das hie vnwirdigklich/nit verstanden sol\nwerde/das der mensch newan möchte gnůg wirdig sin/",
         "b": "Wirdig heißt als vil by Paulo vnd Luca. 3. als/ geſchickt/ komlich/ oder zuͦ gehoͤrig. Vß dem erkennt wirt/",
-        "similarity": 0.4127
+        "similarity": 0.4127,
+        "semantic": 0.6887,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,13 +73,18 @@
         "op": "match",
         "a": "zů den aller kleynsten gaaben Gottes. Darzů ouch die\naber den lychnam Christi geystlichē niessen/welches doch\nvil einander essen ist/weder das lyblich wåre/daruon sy\nsagend/den hat Gott wirdig gemacht.",
         "b": "Darzuͦ ouch/ die aber den Lychnam Chriſti\ngeiſtlichen nieſſen/ welches doch vil einander eſſen iſt/ weder\ndas lyblich waͤre/",
-        "similarity": 0.6415
+        "similarity": 0.6415,
+        "semantic": 0.85,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Daruß nun vol\nget/dʒ (wirdig essen) nützit anders ist/wed mit dem rech\nten glouben harzů komen. Onwirdig essen/aber nützit\nanders/weder one glouben harzů kommen/da aber der\ngloub eynig eruorderet wirt/nit zegloubenn/das fleysch\nvnd blůt lyblich da geessen werde/dañ das gnůgsam er=\nfochten ist/das wir darumb keins verheyssens gots wort\nhabend/sonder glouben/dʒ der låbendig sun Gottes mit\nsinem tod vns erlöst hab.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7865,
+        "semantic_match": "Volgt wy-\nter/ Ouch trincken wirt/ das Tranck deß Herren vnwirdig: nempt es aber Tranck/ vnnd nit Bluͦt. Aber diß woͤrtly/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -105,15 +114,24 @@
         "op": "match",
         "a": "Es volgt wyter/in den wor=\nten Pauli: Der wirt schuldig am lychnam vnd blůt des\nHerren/nit die er vnwirdigklich geessenn habe/sonder/",
         "b": "Der wirt ſchuldig\nam Lychnam vnnd Bluͦt deß Herren/ nit die er vnwirdig-\nklich geeſſen habe/ ſonder/ deren er ſich ein vertroͤſten falſch-\nlich dargeben hab:",
-        "similarity": 0.4231
+        "similarity": 0.4231,
+        "semantic": 0.5522,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "deren er sich ein vertzösten valschlich dargeben hab: das\nist/er wil nit sagē",
         "b": "das iſt/ er wil nit ſagen/ daß man in dem\ngeeſſnen",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.7418,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.6777,
+    "reworded": 2,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5976,

@@ -57,49 +57,66 @@
         "op": "match",
         "a": "alſo ſagt der wyſe man. Die wort der wyſen (Eccle. am letſten Capitel) dz ſind alle ſtimuli oder negel. Es iſt\ndie menſchlich natur der erſten gepurt halbẽ/",
         "b": "Die Wort der Wysen\n(Eccleſ. am letzten Capitel) das sind alles Stimuli oder\nNågel. Es ist die menschlich Natur der ersten geburt hal=\nben /",
-        "similarity": 0.6154
+        "similarity": 0.6154,
+        "semantic": 0.7436,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "in der bild=\nnus/ als er gegen Gott erſchaffen iſt/ vaſt verduncklet\nvnd verfinſtert. Alſo das er den rechtē leer meyſter Chri\nſtum langſam hört/",
         "b": "in der Bildnus / als er gegen Gott erschaffen ist / vast\nverdunckelt und verfinstert: Also daß er den rechten Lehr=\nmeister Christum langsam hört /",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.8272,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnnd den glaſt Göttlicher warheit\nnit bald annimpt: durch bewegnus vnnd hindernus des\nfleyſchs/ ſind dem thorechten menſchen ettlich hilff gege=\nben worden:",
         "b": "und den Glast Göttlicher\nWarheit nit bald annimt: Durch Bewegnus und Hin=\ndernus deß Fleischs sind dem thorechten Menschen etlich\nHilff gegeben worden:",
-        "similarity": 0.6087
+        "similarity": 0.6087,
+        "semantic": 0.8345,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "nemlich die vſſerlichen wort/ durch welche\nder menſch als durch ſtimulos vnd negel/ als in jm ſelbs er=\ninnert werd/",
         "b": "nemlich die vsserlichen Wort/durch\nwelche der Mensch als durch Stimulos und Någel / als in\nihm selbs erinnert werd / und also lehr erkennen synen\ninnerlichen Meister/und empfåhig werd der Warheit.",
-        "similarity": 0.6275
+        "similarity": 0.6275,
+        "semantic": 0.7957,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "vnnd alſo leer erkennen ſynen innerlichen\nmeyſter/ vnnd empfächig werd der warheit. Es můß ye\nvoz im menſchen etwas erkantnus ſin/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6191,
+        "semantic_match": "und sind ihnen\nnit geben sonderliche Krafft etwas vßzerichten wyters\ndann gesagt. Aber der Geist Gottes/der da erlůchtet / der\ngibt sölche Erkantnus.",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "ſoll er geleert mö\ngen werden: weñ man tuſent jar einem vnbekante wort\nfürhůb/ ſo wurd doch einer nichts deſter geleerter/",
         "b": "Es\nmůß je vor im Menschen etwas Erkantnus syn/soll er ge=\nlehrt mögen werden: Wan̄ man tusend jahr einem unbe=\nkandte Wort fürhůb /",
-        "similarity": 0.3111
+        "similarity": 0.3111,
+        "semantic": 0.8327,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "er ver\nſtand dann ouch die wort. Vnd ſo aber die wort verſten=\ndig ſind/ wirt der menſch inwendig erwegt/",
         "b": "so wurd doch einer nichts desto ge=\nlehrter / er verstand dann auch die Wort. Und so aber\ndie Wort verståndig sind /",
-        "similarity": 0.439
+        "similarity": 0.439,
+        "semantic": 0.7336,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "das er erken=\nne das/ vonn dem da geredt wirdt: darzů ſind verordnet\nworden die wort/ vñ ſind jnen nit gebẽ ſonderlich krafft\netwas vßzerichten wyter dann geſagt.",
         "b": "wird der Mensch innwendig\nerwegt / daß er erkenne das / von dem da geredt wird: darzů sind verordnet worden die Wort /",
-        "similarity": 0.4167
+        "similarity": 0.4167,
+        "semantic": 0.6889,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -111,7 +128,9 @@
         "op": "match",
         "a": "Aber der geyſt\nGottes der da erlüchtet/ der gibt ſölche erkantnus. Es\nwer ye vß der wyß/ dz wir dem vſſerlichen wort mer zů=\ngeben dann der Perſon/ die ſölliche vſſerliche wort redt/ Am",
         "b": "Es wer je vß der wyß/daß wir dem\nvsserlichen Wort mehr zůgeben dann der Person / die söli=\nche vsserliche Wort redet.",
-        "similarity": 0.5357
+        "similarity": 0.5357,
+        "semantic": 0.7966,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -131,7 +150,12 @@
         "b": "dann sy reden die Wort deß Glaubens / und wurde der\n                                                                 Glaub",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7635,
+    "reworded": 3,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5204,

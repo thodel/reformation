@@ -51,51 +51,75 @@
         "op": "match",
         "a": "Die ſechſzte\ndarzuͦ. Das letſt Mandat miner gnedigen herrn/das\ndann Chriſtenlich vnd Goͤttlich iſt/ halt ſollichs nit inn\ndarumb ich jm des nit beſtendig bin.",
         "b": "vnnd ander Ceremonien / ſprich ich nein\ndarzů. Das letſt Mandat myner gnedigen Herren/das\ndann Chriſtenlich vnd Goͤttlich iſt/",
-        "similarity": 0.5106
+        "similarity": 0.5106,
+        "semantic": 0.8265,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Allein das ſol man\npredigen/was mit Goͤttlicher warhafftiger vnd Bibli=\nſcher gſchrifft fuͤrbracht mag werde/ daruß bewiſe er ſin\npredige/waͤr ouch das buͦch Machabeorum/joch Bibli=\nſche gſchrifft.",
         "b": "halt ſoͤllichs nit jnn/ darumb ich jm deß nit beſtendig bin. Allein das ſoll man\npredigen/ was mit Goͤttlicher warhafftiger vnnd Bibli=\nſcher Gſchrifft fuͤrbracht mag werden/dar uß bewyſe er ſyn\nPredige/wer ouch das Bůch Machabeorum /",
-        "similarity": 0.5333
+        "similarity": 0.5333,
+        "semantic": 0.8118,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wil doch der Judas nit anders/dañ das\nman ſoͤlle ruͤffen zuͦ Gott der im himel wone. Als ouch d\nProphet Dauid thuͤt/im hundert vnd xxiij.",
         "b": "joch Bibli=\nſche Gſchrifft: Wyl doch der Judas niit anders/ dann\ndas man ſoͤlle ruͤffen zů Gott der im Himmel wone.",
-        "similarity": 0.566
+        "similarity": 0.566,
+        "semantic": 0.8859,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Pſalmen/ da er ſpricht. Zuͦ dir herr heb ich mine ougen vff/der du\nwoneſt in den himlen/ Ouch vnns Chriſtus lert baͤtten.",
         "b": "Als\nouch der Prophet Dauid thůt / im hundert vnd 22: Pſal. da er ſpricht : Zů dir Herr heb ich myne Ougen vff/der du\nwoneſt in den Himlen/",
-        "similarity": 0.6154
+        "similarity": 0.6154,
+        "semantic": 0.6482,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Math.am vj. Vatter vnnſer/der du biſt in himlen. So\nnun er ſins teyls beuolhen hatt den geleerten ſyner geſel=\nſchafft/",
         "b": "Ouch vns Chriſtus lert baͤtten/ Matth. am 6. Vatter vnſer/der du biſt in Him̃len. So\nnun er ſyns teils befolhen hat den Gelerten ſyner Geſell=\nſchafft/mag ich vnd wil das ouch wol thůn/mynen Chri=\nſtenlichen Brůdern vnd Herren hie. Jji",
-        "similarity": 0.3582
+        "similarity": 0.3582,
+        "semantic": 0.6744,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "mag ich vnd wil das ouch wol thuͤn/minen Chri\nſtenlichen bruͤdern vñ herrn hie. Herr Johannes Lottſtetter\nZe ich mich begeben hab/wil ichs ouch laſſen bli=\nben/dañ ich mich ſin nit verſehen hab/mitt jm\nzuͦ diſputieren/noch vil minder mit den hochge=\nlerten da zuͦgegen/ſonders allweg minen glouben offnen\nlich zuͦ veriehen/vff vnderwyſung beſſers.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8078,
+        "semantic_match": "Vn vff ſoͤllichs / als er dann jnzuͤcht / wie myner\ngnedigen Herren Mandat / wyſe vff die ſiben Sa=\ncrament/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Johannes Waͤchter\nMine gnedigen herren/haben mich darzuͦ eruordert\niſt es uͤch nitt zuͦ wuͤſſen gethon/das wuͤſſen myne\nherrn wol.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7652,
+        "semantic_match": "Vn vff ſoͤllichs / als er dann jnzuͤcht / wie myner\ngnedigen Herren Mandat / wyſe vff die ſiben Sa=\ncrament/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Gila Durer\nJe gnad vnſers Herren Jeſu Chriſti/ſye mitt\nvns allen/Amē. Siewil ein gantze Chriſtenliche\ngemeynd/ye vnd ye gehalten hatt/das fuͤrbitt\nder",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8132,
+        "semantic_match": "Schlußred. 433\nmals verjehe oder nit / antwurt ich / wie dozemal ich ge=\nlert habe/alſo verjehe ichs nochmals. Jchhab mich doze=\nmal/vff die heiligen gemeinen Chriſtenlichen Kilchen/ouch\nan myner gnedigen Herren Mandat verlaſſen/vnnd ver=\nmein ich hab Chriſtlich vnd gehorſamlichgehandlet.",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7791,
+    "reworded": 1,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4512,

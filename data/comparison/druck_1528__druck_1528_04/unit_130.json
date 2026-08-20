@@ -51,43 +51,60 @@
         "op": "match",
         "a": "Die erst\nBerchtoldus. [I]Ch bin mit meyster Jacoben eins / das nun vber\nhundert jar har / ein eynig volkon̄en gnůgsam\nhoupt der Kilchen sye /",
         "b": "vnd\nwil damit bezůget han. Berchtoldus. Jch bin mit Meyſter Jacoben eins/ das nun\nxv hundert jar hår/ein einig volkomẽ gnůgſam\nhoupt der Kilchen ſye/das iſt Chriſtus/",
-        "similarity": 0.5818
+        "similarity": 0.5818,
+        "semantic": 0.8668,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das ist Christus vnd nit\nder Bapst / nach inhalt vnser schlußred. Edlebach. [I]Ch sprich / herr Berchtold erkennt sich mit mir\neins sin /",
         "b": "vnd nit\nder Bapſt/nach ynhalt vnſer ſchlußred. Edlebach. Jch ſprich/herr Berchtold erkẽt ſich mit mir\neins ſin/ſo erkennen ich ein oberſten hirten /",
-        "similarity": 0.6531
+        "similarity": 0.6531,
+        "semantic": 0.8405,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "so erkennen ich ein Obersten hirten / vn̄\nder Kilchen / vnd Christum als ein war ingely=\nber houpt der Kilchen. Senger.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7789,
+        "semantic_match": "Namlich gnůgſamlich dargethon hab / als ich\nhoff vß der gſchrifft / das ein oberſter hirt der\nKilchen notwendig wårde/ſin vnnd ſye/als ye=\ntzund gewårt hatt vff die xv hundert jar /",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "[I]N dem namen vnsers lieben Herrn Jesu Chri=\nsti / als min herren die predicante͂ / in jren schluß\nreden fuͤrgenommen hand /",
         "b": "vnd\nder Kilchen / vnd Chriſtum'als ein war yngely=\nbet houpt der Kilchen. Senger. Jn dẽ namen vnſers lieben Herrẽ Jeſu Chri\nſti/als min herren die predicanten in jren ſchluß\nreden fůrgenommen hand/ein einig houpt zeſin\nChriſtenlicher Kilche/lan ich nach/fůrnẽlich Chri\nſtum Jeſum als das obereſt houpt yngelybet d̃\nKilchen/das iſt allen Chriſtgloͤubigen menſchẽ.",
-        "similarity": 0.3659
+        "similarity": 0.3659,
+        "semantic": 0.8631,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "ein einig houpt ze sin\nChristenlicher Kilchen / lan ich nach / fuͤrnemlich Christu͂\nJesum als das Oberest houpt / yngeliber der Kilchen /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7177,
+        "semantic_match": "Namlich gnůgſamlich dargethon hab / als ich\nhoff vß der gſchrifft / das ein oberſter hirt der\nKilchen notwendig wårde/ſin vnnd ſye/als ye=\ntzund gewårt hatt vff die xv hundert jar /",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Das ist allen Christgloͤubigen menschen. Ich meyn aber\ndie geschrifft geb zů / das durch sin ordnung vnd geheyss\nsins Gottwort /",
         "b": "Jch mein aber die geſchrifft geb zů / das durch\ni ij",
-        "similarity": 0.4375
+        "similarity": 0.4375,
+        "semantic": 0.6182,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "vnd siner zwoͤlffbotten andre Oberer / Prelaten / Regente͂ vn̄ Hoͤupter / in d’ Kilchen ouch soͤl=\nlen syn / den ich da kein zanck wil han /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7671,
+        "semantic_match": "Namlich gnůgſamlich dargethon hab / als ich\nhoff vß der gſchrifft / das ein oberſter hirt der\nKilchen notwendig wårde/ſin vnnd ſye/als ye=\ntzund gewårt hatt vff die xv hundert jar /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -99,7 +116,10 @@
         "op": "only_a",
         "a": "Cap. Was von gott ist / das ist geordnet / nun ist die hey\nlig Christenlich Kilch von Christo Jesu / darumb muͤß\nouch ein ordnung darin sin /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7208,
+        "semantic_match": "Namlich gnůgſamlich dargethon hab / als ich\nhoff vß der gſchrifft / das ein oberſter hirt der\nKilchen notwendig wårde/ſin vnnd ſye/als ye=\ntzund gewårt hatt vff die xv hundert jar /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -107,7 +127,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7716,
+    "reworded": 2,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4161,

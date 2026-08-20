@@ -33,31 +33,44 @@
         "op": "only_a",
         "a": "Die ſechſte\nOder es iſt ein ſoͤmlich ding/das alleyn Chriſto zuͦhoͤret/ namlich das baͤtten im himmel/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7173,
+        "semantic_match": "Gilg Murer. HAtt Chriſtus gebaͤtten / das die Jünger hie vff Erd=\nrich/ ein ding mit jm ſyen/ſyner Gnaden vnd Geiſt\nhalb:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "ſo ſoͤlle es ouch nit zuͦge\nlegt werden denen hie vff erderich/das aber nit ſin mag. Zwingli\n[D]Iß iſt alles verantwurt:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7133,
+        "semantic_match": "Gilg Murer. HAtt Chriſtus gebaͤtten / das die Jünger hie vff Erd=\nrich/ ein ding mit jm ſyen/ſyner Gnaden vnd Geiſt\nhalb:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "vnd wie das ein volg\nſye/Chriſtus ſtadt fuͤr vns da oben/darum wir\nGottes wort haben/ Vnd wir ſoͤllen hie fuͤr ein\nandren bitten/darum wir ouch Gottes wort ha\nben/So volge nun/das die ſaͤligen da oben fuͤr vns bit=\nten/darumb wir kein gottes wort habend.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8208,
+        "semantic_match": "Gilg Murer. HAtt Chriſtus gebaͤtten / das die Jünger hie vff Erd=\nrich/ ein ding mit jm ſyen/ſyner Gnaden vnd Geiſt\nhalb:",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Beuilch ich al\nlen gloͤubigen/die ſich Gottes wort alleyn laſſend verſi=\ncheren. Gilg Durer\n[D]Ie antwurt wirt nit gnuͦg ſin/dan ſo Chriſtus\nfuͤr vns bitter im himmel/ſo mags ouch mit kei\nner ſchrifft abgeſchlagen werden den heiligen im\nhimmel.",
         "b": "Schlußred. 443\nGilg Murer. Dſe antwurt wirt nit gnůg ſyn/ dann ſo Chriſtus\nfür vns bittet im Himmel/ſo mags ouch mit keiner\nSchrifft abgeſchlagen werden den Heiligen im\nHimmel.",
-        "similarity": 0.5263
+        "similarity": 0.5263,
+        "semantic": 0.8963,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Das bewaͤr ich/vß dem heiligen Euaͤgeliſten/ Johannis am xvij. cap. Spricht Chriſtus: Vatter/die\neer die du mir geben haſt/die hab ich jnen geben/vff das\nſy ein ding ſygind/glych wie ouch wir ein ding ſind:",
         "b": "Daß bewaͤr ich/ vß dem Heiligen Euangeliſten\nJohannis am 17. Capit. Spricht Chriſtus / Vatter/ die\nEer die du mir geben haſt/die hab ich jnen geben/",
-        "similarity": 0.6765
+        "similarity": 0.6765,
+        "semantic": 0.9108,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,13 +82,17 @@
         "op": "match",
         "a": "ich in\njnen/vnd du in mir. Sind ſy nun ein ding mitt Chriſto/ ſo wirt one allen zwyffel/jnen das baͤtt nit abgeſchlagen\nwerden/mit Bibliſcher ſchrifft.",
         "b": "Sind ſy nun ein ding mit Chriſto/ſo wirt\nohne allen zwyffel/jnen das Baͤt nit abgeſchlagen werden/ mit Bibliſcher Schrifft.",
-        "similarity": 0.7451
+        "similarity": 0.7451,
+        "semantic": 0.9178,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Zwingli\n[D]As wort Chriſti Johannis xvij. cap. lutet nit\nvonden Saͤligen/die vſſerthalb diſer zyt ſind. Verlaß mich vff die wort Chriſti. Gilg",
         "b": "Zwingly. DAs Wort Chriſti Johannis 17. Cap. lutet nit von\nden Saͤligen / die vſſerthalb diſer zyt ſind. Verlaß\nmich vff die Wort Chriſti.",
-        "similarity": 0.7755
+        "similarity": 0.7755,
+        "semantic": 0.8866,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -95,7 +112,12 @@
         "b": "Dann der Prophet Dauid\nſchribt. Pſalmo 31. von nachlaſſung der Sünd/vnd dar=\nnach / für die wir bitten ein jetlicher Heilig in der zyt/ſo es\ngeſchickt oder zimlich wirt. KKk ij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8376,
+    "reworded": 0,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4464,

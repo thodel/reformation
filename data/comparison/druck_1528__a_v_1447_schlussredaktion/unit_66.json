@@ -39,7 +39,9 @@
         "op": "match",
         "a": "Schlußred. in ſin nechſten menſchẽ in ein Chriſtenlich gemeind/den\nDa zwytracht/vneinigkeit/ſtifft in vnſern vnbeflecken\nglouben/vñ der da ſicht wider den rechten verſtand des\nwort gottes/vñ nüw rotten/vñ ſeckten ſtifft.",
         "b": "Wellicher\nhoͤcher sundet Inn sim nechsten moͤnschen\ninn d ein Christenlich gemeind / den der\nda zwytracht / vneingkeit\nvneinikeit\nstifft In vnsern\nvnbefleckten glouben /",
-        "similarity": 0.3667
+        "similarity": 0.3667,
+        "semantic": 0.8464,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -51,13 +53,17 @@
         "op": "match",
         "a": "Witer ſo\nzeygt der text hie luter vñ klar an/dz der herr redt von\nergernuß/darumb ſagt der herr/weñ ein glid dir erger=\nnus gibt/ſo ſchnids ab/vñ wirffs võ dir/zc.",
         "b": "redt van ergernuß\ndarumb sagt / der her / wen ein glid / dir\nergernus gipt / so schnids ab / vnnd wirffs\nvon dir etc.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.5869,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Das on zwif\nfel von geiſtlichen glidern des herrn zeuerſton iſt/ſo ein\nmenſch den andern/oder einer ganzen Chriſtẽ gemeind\nergernuß gibt/dañ je kein gröſſer ergernus nit iſt/dañ zer\ntrengnung in vnſerm vnbefleckten gloubẽ/darumb her=\nnach volgt/dz diſer text voruß vñ voran in dißem vall\nze verſton iſt.",
         "b": "Das on zwyffell von\ngeistlichen glidern / des hern zeverston ist / so ein mensch den anndern / oder einer\ngantzen Christen gemeind ergernuß gipt gibt\ndan ie kein groͤsser ergernus nit ist dan\nzertrenunng in vnsrem vmbefleckten glou //",
-        "similarity": 0.5556
+        "similarity": 0.5556,
+        "semantic": 0.8435,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,13 +75,18 @@
         "op": "match",
         "a": "Zum dritten hat min herr Doctor antwurt\ngeben/wie das diſer text verſtandẽ ſoll werden/nit von\nder gemeiner Chriſtenlichen Kilchen/ſonder vonn einer\nyegklichen Kilchen/für ſich ſelbs alſo/das ein yegkliche/",
         "b": "wie das diser text\nverstanden soͤll werden / nit von der ge //",
-        "similarity": 0.3556
+        "similarity": 0.3556,
+        "semantic": 0.4524,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "einige Kilch in ſtuckẽ des gloubens handlen/vñ ſpreche\nmög vñ nit vonnören zů er warre/eins gemeine ſpruchs\nvon gemeiner Chriſtenlichen Kilchen/wider dißen ſinen\nverſtand/arguier ich alſo.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7647,
+        "semantic_match": "vnnd der da sticht\nficht\nwider den rechten verstand des wort\ngotes / vnnd nuw roten / vnnd secten stifft / Vytter so zeigt der text hie luter vnnd\nklar an Das der her /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -89,7 +100,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6988,
+    "reworded": 1,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4263,
