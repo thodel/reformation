@@ -215,6 +215,8 @@ config/*
 !config/disputation_transkribus.example.json
 !config/prints.json
 config/transkribus_config.json
-segments/
+# Derived per-page segments from segment_pages.py are not tracked.
+data/disputation/*/segments/
+data/prints/*/segments/
 data/prints/_samples/
 data/alignment/
