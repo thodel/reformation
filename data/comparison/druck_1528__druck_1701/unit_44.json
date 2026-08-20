@@ -36,7 +36,7 @@
         "similarity": 0.0,
         "semantic": 0.7251,
         "semantic_match": "geſchriben ſtaht /da\nGott ſpricht: Nim wahr / ich hab myne Wort in dynen\nMund geben / daß du ußrůteſt / zerſtöreſt / und zertren-\nneſt /",
-        "reading": "reworded"
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -45,7 +45,7 @@
         "similarity": 0.0,
         "semantic": 0.8414,
         "semantic_match": "wird hierauß vermerckt/ ſo Gott ſpricht: Jch hab myne Wort in dynen Mund\ngeſetzt; bedůtet / daß der Prophet lehren und ſtraffen\nſölle /",
-        "reading": "reworded"
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -133,9 +133,10 @@
       }
     ],
     "semantic": 0.758,
-    "reworded": 6,
+    "reworded": 4,
     "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+    "candidates": 2
   },
   "fine": {
     "similarity": 0.5515,

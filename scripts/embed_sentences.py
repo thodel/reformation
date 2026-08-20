@@ -115,13 +115,21 @@ def annotate_unit(model, unit: dict[str, Any]) -> dict[str, Any]:
             if scores[best] >= SEMANTIC_FLOOR:
                 pa["semantic"] = round(scores[best], 4)
                 pa["semantic_match"] = only_b[best]["b"]
-                pa["reading"] = "reworded"
+                # Deliberately NOT "reworded". Where the character matcher found
+                # a pair and the embedding merely reinterprets it, hand-checking
+                # gave 6 of 6 correct. Where the embedding alone proposes the
+                # pair, it gave roughly 1 in 3 - and the score does not separate
+                # them: false ones scored 0.72-0.78, true ones 0.66-0.89. A
+                # higher floor would not fix that, so these are labelled as what
+                # they are: candidates for a human to judge.
+                pa["reading"] = "candidate"
                 recovered += 1
 
     summary = unit.setdefault("sentences", {})
     scored = [p["semantic"] for p in pairs if "semantic" in p]
     summary["semantic"] = round(sum(scored) / len(scored), 4) if scored else 0.0
     summary["reworded"] = sum(1 for p in pairs if p.get("reading") == "reworded")
+    summary["candidates"] = sum(1 for p in pairs if p.get("reading") == "candidate")
     summary["recovered_by_embedding"] = recovered
     summary["embedding_model"] = MODEL_NAME
     return unit
@@ -147,7 +155,7 @@ def main() -> int:
     if args.limit:
         unit_files = unit_files[: args.limit]
 
-    totals = {"same": 0, "reworded": 0, "different": 0, "check": 0}
+    totals = {"same": 0, "reworded": 0, "candidate": 0, "different": 0, "check": 0}
     recovered = 0
     for path in unit_files:
         unit = json.loads(path.read_text(encoding="utf-8"))
@@ -161,7 +169,8 @@ def main() -> int:
     print(f"{args.pair}: {len(unit_files)} unit(s)")
     for key, count in totals.items():
         print(f"  {key:10} {count}")
-    print(f"  recovered by embedding (character found nothing): {recovered}")
+    print(f"  of which proposed by embedding alone: {recovered} "
+          f"(labelled 'candidate' - roughly one in three held up by hand)")
     return 0
 
 

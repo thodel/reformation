@@ -36,7 +36,7 @@
         "similarity": 0.0,
         "semantic": 0.7235,
         "semantic_match": "haben/Das\nMaria ein můter des Herren Jesu sye/vnd das\nby ein",
-        "reading": "reworded"
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -45,7 +45,7 @@
         "similarity": 0.0,
         "semantic": 0.7142,
         "semantic_match": "vnd vff das vmschweyffen\nbezüg ich mich nit mer zů antwurten. Johannes Bůchstab. Herr Marti Butzer/ ich sag also: Die Kilch\ngibt Gott vnd siner wirdigẽ můter/vil wort zů/",
-        "reading": "reworded"
+        "reading": "candidate"
       },
       {
         "op": "match",
@@ -125,9 +125,10 @@
       }
     ],
     "semantic": 0.816,
-    "reworded": 5,
+    "reworded": 3,
     "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+    "candidates": 2
   },
   "fine": {
     "similarity": 0.6172,
