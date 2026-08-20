@@ -8,7 +8,7 @@
       525
     ]
   },
-  "alignment_score": 0.4715,
+  "alignment_score": 0.4764,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 2,
     "only_b": 5,
-    "similarity": 0.4559,
+    "similarity": 0.4598,
     "pairs": [
       {
         "op": "only_b",
@@ -43,27 +43,21 @@
       },
       {
         "op": "match",
-        "a": "Seite [X]\nDie ſibend\nnach ingefuͤrtē verſtand wider die gſchrifft/von Abrahā\nvon Jacob/von Joſeph/ꝛc. Wie dann dem herren Jeſu/",
+        "a": "Die ſibend\nnach ingefuͤrtē verſtand wider die gſchrifft/von Abrahā\nvon Jacob/von Joſeph/ꝛc. Wie dann dem herren Jeſu/",
         "b": "Das aber Paulus zů den Theſſaloni\ncenſerñ ſpricht: das man nit ſölle truren vm̃ die\nabgeſtorbnen/wåre nach yngefürtẽ verſtand wi\nder die gſchrifft/von Abraham/von Jacob/von\nJoſeph/ꝛc.",
-        "similarity": 0.4074,
-        "semantic": 0.6742,
-        "reading": "reworded"
+        "similarity": 0.4231
       },
       {
         "op": "match",
         "a": "die frouwen vnd ander ein mitleiden gehept haben/das\nſind aber die wort Pauli. Ir brüder/wir ſöllen üch von\nden abgeſtorbnen wyſen/vff das ir nit truren ꝛc.",
         "b": "Wie dañ dem herren Jeſu/die frou=\nwen vnnd ander ein mitliden gehept haben: das\nſind aber die wort Pauli:",
-        "similarity": 0.449,
-        "semantic": 0.7095,
-        "reading": "reworded"
+        "similarity": 0.449
       },
       {
         "op": "match",
         "a": "Paulus\nlegt hie vß die vrſtende/das wir nitt alſo ſöllen truren\nvmb die todten/als die Heyden thäten/die nit glouben/",
         "b": "Jr brüder/wir ſöllen\nüch von den abgeſtorbnen wyſen / vff das jr nit\ntruren/ꝛc. Paulus legt hie vß die vrſtende/das\nwir nit alſo ſöllen truren vmb die todten/als die\nHeyden thåtten/die nit glouben/die vrſtende\ndeß lybs:vnd verbütet nit/das man für die abge\nſtorbnen/nit ſölle båtten.",
-        "similarity": 0.5333,
-        "semantic": 0.8799,
-        "reading": "same"
+        "similarity": 0.5333
       },
       {
         "op": "only_a",
@@ -81,18 +75,13 @@
         "op": "match",
         "a": "Paulus verbüt zun Theſſa=\nlonicenſern/ein vnglöubig trurē/deren die dhein\nhoffnung haben des künfftigen läbens. Siewil aber wir\nglouben/das Chriſtus vom tod erſtanden iſt/vnnd wir\nin Chriſto werden vfferſton/vnnd alſo by dem Herren\nſin alle zyt/ſo ſöllen wir vns mit diſen worten/vnderein=\nandren tröſten/wie Chriſtenliche liebe vordert/ſo veer\ndas wir nit in vnglouben fallen/vnd iſt darumb nit wi=\nder die Exempel/durch den ſchülmeyſter angezogen.",
         "b": "Diewyl\naber wir glouben/das Chriſtus vom tod erſtan\nden iſt/vnnd wir in Chriſto vferſton werdend/ vnd alſo by dem Herrenn ſin alle zyt/ſo ſöllend\nwir vnns mit diſen worten /",
-        "similarity": 0.434,
-        "semantic": 0.8643,
-        "reading": "reworded"
+        "similarity": 0.434
       },
       {
         "op": "only_a",
         "a": "Büchſtab\nD Je hoffnung/vonndero Paulus hie ſagt/iſt de=\nnen ſo im fágfür ſind/nitt abgeſchlagen/vnd iſt\nherr Berchtolden ingefürte red/gar nüt wider\nmich/dann wir hoffnung haben/darumb wir für ſy bit=\nten/ſy ſyen der vſſerwelten. Berchtoldus",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7732,
-        "semantic_match": "vndereinandren\ntröſten / wie Chriſtenliche liebe vordret / ſo veer\ndas wir nit in vnglouben fallen/vnd iſt darumb\nJi ij\n\n## Marginalien\npd\nnd\nnd\n30\nryf\ndich\nſon\nten/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -106,34 +95,19 @@
         "b": "gen\ndas\nſte\nnus\nfur\nbe\nſſe\nen/ en/ jm\nn/ bt\nn. in\nß\nel\ne\n[unleserlich]\nt\n3",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7802,
-    "reworded": 3,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.5496,
+    "similarity": 0.5477,
     "words": {
-      "a": 216,
+      "a": 214,
       "b": 268
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite",
-        "b": "Schlußred CCL dreas Matthias vnd die andren Apoſtel ouch die zween vnd ſibentzig ſo vonn Chriſto zů jnen erwelt Luc am"
-      },
-      {
-        "op": "equal",
-        "a": "X",
-        "b": "x"
-      },
-      {
         "op": "insert",
         "a": "",
-        "b": "ouch gelert habẽ Darum man nüt hat So hab ich ouch in d andern ſchlußred yñgefürt wie"
+        "b": "Schlußred CCL dreas Matthias vnd"
       },
       {
         "op": "equal",
@@ -143,7 +117,7 @@
       {
         "op": "replace",
         "a": "ſibend",
-        "b": "ſatzungẽ der Apoſtel ouch ſyen zůhaltẽ darin ouch ſtadt dz gebått für todtẽ vñ låbendigen Das aber Paulus zů den Theſſaloni cenſern ſpricht das man nit ſölle truren vm die abgeſtorbnen wåre"
+        "b": "andren Apoſtel ouch die zween vnd ſibentzig ſo vonn Chriſto zů jnen erwelt Luc am x ouch gelert habẽ Darum man nüt hat So hab ich ouch in d andern ſchlußred yñgefürt wie die ſatzungẽ der Apoſtel ouch ſyen zůhaltẽ darin ouch ſtadt dz gebått für todtẽ vñ låbendigen Das aber Paulus zů den Theſſaloni cenſern ſpricht das man nit ſölle truren vm die abgeſtorbnen wåre"
       },
       {
         "op": "equal",
@@ -416,7 +390,7 @@
         "b": "n bt n in ß el e unleserlich t 3"
       }
     ],
-    "ops": 30,
+    "ops": 29,
     "truncated": false
   }
 }

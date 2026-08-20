@@ -8,7 +8,7 @@
       424
     ]
   },
-  "alignment_score": 0.3578,
+  "alignment_score": 0.3614,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 2,
     "only_b": 3,
-    "similarity": 0.6109,
+    "similarity": 0.6151,
     "pairs": [
       {
         "op": "only_b",
@@ -37,11 +37,9 @@
       },
       {
         "op": "match",
-        "a": "Seite CLXXVII\nSchlußred CLXXVII\nsedech/vnd es nit mag sin der tod/so bitten wir min her\nren der widerparthy/das sy vns nennen vß der schrifft/",
+        "a": "Schlußred CLXXVII\nsedech/vnd es nit mag sin der tod/so bitten wir min her\nren der widerparthy/das sy vns nennen vß der schrifft/",
         "b": "nach der ord-\nnung Melchiſedech / vnd es nit mag ſyn der Tod / ſo bitten\nwir myn Herren der Widerparthy / daß ſy vns nennen vß\nder Schrifft /",
-        "similarity": 0.6415,
-        "semantic": 0.7058,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "only_b",
@@ -53,33 +51,25 @@
         "op": "match",
         "a": "was Opffer Melchisedech vffgeopffret habe/das ewig=\nlich sol wären. Zwingli\n[S]Ift gnug anzeigt/das die vorbildung des al=\nten Testamēts/nit vsserlichē in alle maas müß\nim Nüwen vßgetruckt werdē/oder aber es wä\nren nit vmbræ, das ist/Entwerffungē vnd Bedütussen/",
         "b": "nit vſſerlichen in alle maas můß im\nNüwen vß getruckt werden / oder aber es wären nit\nVmbræ, das iſt / Entwerffungen vnd Bedütnuſſen /",
-        "similarity": 0.4242,
-        "semantic": 0.6281,
-        "reading": "reworded"
+        "similarity": 0.4242
       },
       {
         "op": "match",
         "a": "sonders die that selbs/welliches wir an Melchisedech se=\nchend/so er ein priester des höchsten Gottes ist gewäsen/ vnd vsserliche opffer vffgeopffret hat:",
         "b": "ſon-\nders die that ſelbs / welliches wir an Melchiſedech ſechend / ſo er ein Prieſter deß Höchſten Gottes iſt gewäſen / vnd\nvſſerleche Opffer vffgeopffret hat:",
-        "similarity": 0.7917,
-        "semantic": 0.924,
-        "reading": "same"
+        "similarity": 0.7917
       },
       {
         "op": "match",
         "a": "dann er darumb\nein Priester was/von opfferen/Jst damit bedütet/das\nChristus sich selbs hat vffgeopffret/Hebreorū vij. cap.",
         "b": "dann er darumb ein\nPrieſter was / von opfferen / Iſt damit bedütet / daß Chri-\nſtus ſich ſelbs hat vffgeopffret / Hebreorum 7.",
-        "similarity": 0.7,
-        "semantic": 0.8798,
-        "reading": "same"
+        "similarity": 0.7
       },
       {
         "op": "match",
         "a": "Sann wo Melchisedech müßte Christo in allweg vßge\ntruckt/glych sin/so müßte er von einer jungffrowen ge=\nbozen sin/ein sun Gottes sin/gecrütziget sin.",
         "b": "Cap. Dann\nwo Melchiſedech müßte Chriſto in allweg vßgetruckt / glych ſyn / ſo müßte er von einer Jungfrouwen geboren ſyn / ein Sohn Gottes ſyn /",
-        "similarity": 0.5714,
-        "semantic": 0.7849,
-        "reading": "same"
+        "similarity": 0.5714
       },
       {
         "op": "only_b",
@@ -91,18 +81,13 @@
         "op": "match",
         "a": "2c. So nun\ndas nit/so sechē wir offenlich/das sin wäsen nun ein vor=\nbild gewäsen ist/in vsserlichen dingen/die aber Christus\nmit jm selbs erfüllt hat.",
         "b": "in vſſerlichen dingen / die aber Chriſtus mit jm\nſelbs erfüllt hat. Gilg",
-        "similarity": 0.5366,
-        "semantic": 0.7751,
-        "reading": "same"
+        "similarity": 0.5366
       },
       {
         "op": "only_a",
         "a": "Gilg Durer. [W]Jr sagend nit/das Christus vnnd Melchise=\ndech/in allen dingen glychförmig söllend sin/ wie man vns gern züschryben wölt/sunders/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7132,
-        "semantic_match": "392 Die fünfft\nGilg Murer. DArumb iſt es nottwendig / das Melchiſedech mit\ndem Tod / Chriſto nit verglychet mag werden / vnd\nſyntenmal Chriſtus iſt ein Prieſter /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -110,23 +95,18 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.773,
-    "reworded": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.5381,
+    "similarity": 0.5407,
     "words": {
-      "a": 227,
+      "a": 225,
       "b": 193
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite CLXXVII Schlußred CLXXVII sedech",
+        "a": "Schlußred CLXXVII sedech",
         "b": "392 Die fünfft Gilg Murer DArumb iſt es nottwendig das Melchiſedech mit dem Tod Chriſto nit verglychet mag werden vnd ſyntenmal Chriſtus iſt ein Prieſter nach der ord nung Melchiſedech"
       },
       {

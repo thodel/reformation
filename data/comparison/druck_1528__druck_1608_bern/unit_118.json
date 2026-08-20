@@ -8,7 +8,7 @@
       144
     ]
   },
-  "alignment_score": 0.3167,
+  "alignment_score": 0.3196,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -31,29 +31,21 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [X]\nDie erſt\nlaß daby ein yeden Chriſten/dz vrteyl wie ſich des pfar=\nrers red/der warheyt vnd dem geſtrigen veriechen ver=\ngliche vnnd veranlaß mich vff ſine wort /",
+        "a": "Die erſt\nlaß daby ein yeden Chriſten/dz vrteyl wie ſich des pfar=\nrers red/der warheyt vnd dem geſtrigen veriechen ver=\ngliche vnnd veranlaß mich vff ſine wort /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7015,
-        "semantic_match": "das durch\nmins diſputierens willen / dem gemeinen Chriſtenlichen\nglouben/kein nachteil ſoll erwachſen. Jch wil ouch fuͤr nie=\nmands anders diſputieren / dann myner Perſon halb fuͤr\n                                             mich",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "die von den\nſchriberen in die Acta verfaſſet ſind/zc. Meyſter Niclaus Chriſten\nSenger von Zoffingen. IN dem namen vnſers lieben herrn Jeſu Chriſti\nverlich vns gott der hímeliſch vatter/durch die\ngnad gotts des heilige geiſts/ware/rechte/Chri\nſtenlich erkantnus ſines heyligen worts/vnd goͤttlicher\ngeſchrifft/Erwürdig/großmechtig/Edel/veſt/fürſich\ntig/wyß/lieben /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7555,
-        "semantic_match": "ich bitt aber uͤch all min Herrn vnnd frommen\nChriſten / wie jr hie verſamlet ſind / durch Gottes willen/ was meinung dann jeder ſy /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "gnedigen Herrn / vnnd gůten fründ\nouch fromen/biderben Chriſte wie je hie verſamlet ſind/ vnberkantnus goͤttlicher warheyt / wiewol iſt das ich\nmich nit vnderſtand/entſcheid vñ lårung zůgeben vmb\ndiſe ſchwåre ſpen hie zů gegen/dann es miner kunſt/die\nklein iſt überlegen ſin wil/diewil vor zwölff hundert Ja=\nren vnd mer/ſo vil heyliger gelerter månner/ouch dariñ\ngehandelt/entſcheid vñ lårrung gebe hand /",
         "b": "II2                Die erſt\nhie zuͦ gegen / dann es miner kunſt / die klein iſt/uͤberlegen\nſin wil/ diewil vor zwoͤlff hundert Jaren vnnd mer /",
-        "similarity": 0.3478,
-        "semantic": 0.7108,
-        "reading": "reworded"
+        "similarity": 0.3478
       },
       {
         "op": "only_b",
@@ -65,25 +57,19 @@
         "op": "match",
         "a": "vñ aber die\nſach yetz widerumb in ſpan kommen iſt / diewyl aber es\nmir ſchwår iſt / von ſolchem lang geübtē/vnſer vordern\nglouben zeſton/den wir ſo in langer gewård/vnd beſitz=\nung gehebt hand /",
         "b": "von ſoͤl=\nchem lang geuͤbten/vnſer vordern glouben zeſton/den wir ſo\nin langer gewaͤrd/vñ beſitzung gehebt hand/",
-        "similarity": 0.4561,
-        "semantic": 0.7673,
-        "reading": "reworded"
+        "similarity": 0.4561
       },
       {
         "op": "match",
         "a": "bedunckt mich not ſin / nach der leer\ndes heyligen Petri in der erſten Epiſtel am iij. Capitel. Das ich ouch rechnung geb /",
         "b": "bedunckt mich\nnot ſin/ nach der Leer deß heiligen Petri in der erſten Epiſt. am 3.cap. Das ich ouch rechnung geb /",
-        "similarity": 0.7727,
-        "semantic": 0.8935,
-        "reading": "same"
+        "similarity": 0.7727
       },
       {
         "op": "match",
         "a": "vmb myn hoffnung vnnd\nglouben/ſo ich darumb eruordert bin/vnd wil das thůn\nfrüntlich vnd gůtlich/mir vnd anderen zů wyterer vn=\nderwyſung/Alß der heylig Paulus ſpricht zun Gala=\nthern",
         "b": "vmb min hoffnung\nvnd glouben/ſo ich darum̃ eruordert bin/ vnd wil das thuͦn\nfruͤntlich vnd guͤtlich /",
-        "similarity": 0.4231,
-        "semantic": 0.8151,
-        "reading": "reworded"
+        "similarity": 0.4231
       },
       {
         "op": "only_b",
@@ -121,23 +107,18 @@
         "b": "das durch\nmins diſputierens willen / dem gemeinen Chriſtenlichen\nglouben/kein nachteil ſoll erwachſen. Jch wil ouch fuͤr nie=\nmands anders diſputieren / dann myner Perſon halb fuͤr\n                                             mich",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.774,
-    "reworded": 3,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 2
+    ]
   },
   "fine": {
-    "similarity": 0.324,
+    "similarity": 0.3252,
     "words": {
-      "a": 244,
+      "a": 242,
       "b": 293
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite X",
+        "op": "insert",
+        "a": "",
         "b": "II2"
       },
       {

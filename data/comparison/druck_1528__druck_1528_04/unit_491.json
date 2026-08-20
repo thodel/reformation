@@ -8,15 +8,15 @@
       570
     ]
   },
-  "alignment_score": 0.3333,
+  "alignment_score": 0.3478,
   "coarse": {
     "paragraphs": {
-      "a": 6,
+      "a": 5,
       "b": 5
     },
     "counts": {
       "equal": 0,
-      "replace": 6,
+      "replace": 5,
       "delete": 0,
       "insert": 0
     },
@@ -27,23 +27,19 @@
     "matched": 2,
     "only_a": 0,
     "only_b": 1,
-    "similarity": 0.4128,
+    "similarity": 0.4222,
     "pairs": [
       {
         "op": "match",
-        "a": "Seite [492]\n\nEin yeglicher güter boum/bringe\ngüte frucht. CHRISTOF OVER ZVO\nFROS\n\nEin jegliche pflanzung die nit gepflanget hat\nmin himelischer vatter/wirt vßgewurtzlet.",
+        "a": "Ein yeglicher güter boum/bringe\ngüte frucht. CHRISTOF OVER ZVO\nFROS\n\nEin jegliche pflanzung die nit gepflanget hat\nmin himelischer vatter/wirt vßgewurtzlet.",
         "b": "Ein yeglicher guͦter baum/bringt\nguͦte frucht. Ein yegliche pflantzuͤg die nit gepflantzet hat\nmein himeliſcher vatter/wirt außgewurtzlet.",
-        "similarity": 0.4255,
-        "semantic": 0.8738,
-        "reading": "reworded"
+        "similarity": 0.4444
       },
       {
         "op": "match",
         "a": "Das fenffkdenli wirt ein boum/vnd wachst so groß/ das die vogel off sinen esten ni■tend. Ein yeglicher boum der nit gute frucht\nbringt/wirt vßgebouwen.",
         "b": "CHRISTOF FR|CHOVER ZVO|VRICH\n\nDas ſenffkoͤrnli wirt ein baum/vnd wachſt ſo\ngroß/das die voͤgel auff ſeinen eſten niſtend.",
-        "similarity": 0.4,
-        "semantic": 0.652,
-        "reading": "reworded"
+        "similarity": 0.4
       },
       {
         "op": "only_b",
@@ -51,25 +47,15 @@
         "b": "Ein yeglicher baum der nit guͦte frucht\nbringt/wirt außgehauwen.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7629,
-    "reworded": 2,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.5,
+    "similarity": 0.5094,
     "words": {
-      "a": 52,
+      "a": 50,
       "b": 56
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite 492",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Ein yeglicher",
@@ -201,7 +187,7 @@
         "b": "außgehauwen"
       }
     ],
-    "ops": 14,
+    "ops": 13,
     "truncated": false
   }
 }

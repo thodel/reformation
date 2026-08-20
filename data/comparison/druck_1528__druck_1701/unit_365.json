@@ -8,35 +8,38 @@
       379
     ]
   },
-  "alignment_score": 0.2452,
+  "alignment_score": 0.2476,
   "coarse": {
     "paragraphs": {
-      "a": 7,
+      "a": 6,
       "b": 2
     },
     "counts": {
       "equal": 0,
-      "replace": 7,
+      "replace": 6,
       "delete": 0,
       "insert": 0
     },
     "similarity": 0.0
   },
   "sentences": {
-    "units": 13,
-    "matched": 8,
-    "only_a": 2,
-    "only_b": 3,
-    "similarity": 0.4605,
+    "units": 18,
+    "matched": 3,
+    "only_a": 7,
+    "only_b": 8,
+    "similarity": 0.384,
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [IVXXID]\n\nDie fünffte\n\nBienorũ am 174. blatt. Gestern vnd hüt gnůg gesagt / das wie Melchisedech der\nPriester des oberste gotts /",
+        "a": "Die fünffte\n\nBienorũ am 174. blatt. Gestern vnd hüt gnůg gesagt / das wie Melchisedech der\nPriester des oberste gotts / vsserlich opffer geopfert.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8574,
-        "semantic_match": "Der Frag halb / wie Christus nach\nder Ordnung Melchiſedech ein Prieſter ſeye / iſt ge-\nſtern vnd huͤt gnuͤg geſagt /",
-        "reading": "candidate"
+        "similarity": 0.0
+      },
+      {
+        "op": "only_a",
+        "a": "Als\nso hat sich selbs Christus Jesus / dem höchsten Gott vff=\ngeopfert / dann Christus ist dem Melchisedech / nitt dar=\numb glich genent /",
+        "b": null,
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -57,97 +60,92 @@
         "similarity": 0.0
       },
       {
-        "op": "match",
-        "a": "vsserlich opffer geopfert. Als\nso hat sich selbs Christus Jesus / dem höchsten Gott vff=\ngeopfert / dann Christus ist dem Melchisedech /",
+        "op": "only_b",
+        "a": null,
         "b": "daß wie Melchiſedech der\nPrieſter deß oberſten Gottes / vſſerlich Opffer geopf-\nfert: Alſo hat ſich ſelbs Christus Ieſus dem hoͤchſten\nGott vffgeopffert /",
-        "similarity": 0.3721,
-        "semantic": 0.8541,
-        "reading": "reworded"
+        "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "nitt dar=\numb glich genent / das er win vnd brot hab vffgeopfert / oder aber Christus hette allein müssen wyn vnnd brot /",
+        "a": "das er win vnd brot hab vffgeopfert / oder aber Christus hette allein müssen wyn vnnd brot / oder vsserliche opfer vffopfern /",
         "b": "dann Christus iſt dem Melchiſedech\nnit darum glych genennet / daß er Wyn vnd Brodt hab\nvffgeopffert / oder aber Christus haͤtte allein muͤſſen\nWyn vnd Brodt /",
-        "similarity": 0.3333,
-        "semantic": 0.6178,
-        "reading": "reworded"
+        "similarity": 0.3404
       },
       {
         "op": "match",
-        "a": "oder vsserliche opfer vffopfern / wie ouch Melchisedech / die selben allein vffgeopfert hatt / vnd nit sich selbs: aber\nes ist gnůg gesagt /",
+        "a": "wie ouch Melchisedech / die selben allein vffgeopfert hatt / vnd nit sich selbs: aber\nes ist gnůg gesagt / das Christus / mit sin selbs vffopferen\nerfült hatt /",
         "b": "oder vſſerliche Opffer vfopffern / wie\nauch Melchiſedech dieſelben allein vfgeopffert hat / vnd\nnit ſich ſelbs: aber es iſt gnuͤg geſagt /",
-        "similarity": 0.619,
-        "semantic": 0.7831,
-        "reading": "same"
+        "similarity": 0.4783
       },
       {
         "op": "match",
-        "a": "das Christus / mit sin selbs vffopferen\nerfült hatt / das Melchisedech / mitt vssern opfer bedü=\ntet hat. Des ozts halb Prouerbioꝛum am ix.",
+        "a": "das Melchisedech / mitt vssern opfer bedü=\ntet hat. Des ozts halb Prouerbioꝛum am ix. angezogen / dient jnen gar nit / sonders ist mer für vns /",
         "b": "daß Christus mit\nſyn ſelbs vfopffern erfuͤllet hat / das Melchiſedech mit\nvſſern Opffern beduͤtet hat. Deß Orts halb Prover-\nbiorum am 9.",
-        "similarity": 0.4783,
-        "semantic": 0.4843,
-        "reading": "different"
-      },
-      {
-        "op": "match",
-        "a": "angezogen / dient jnen gar nit / sonders ist mer für vns / vñ verlassen\nvns darumb an den Text. Gilg Durer. S ist notwendig /",
-        "b": "angezogen / dienet ihnen gar nit / ſonder\niſt mehr fuͤr vns / vnd verlaſſen vns darum an den Text. Gilg Murer.",
-        "similarity": 0.5238,
-        "semantic": 0.8619,
-        "reading": "same"
-      },
-      {
-        "op": "match",
-        "a": "das eyn ander opffer / mitt\nMelchisedech vñ Christo werde angezeygt / dañ\nder tod Christi / vnd sytenmal das sy daselb / mit\nder gschrifft nitt harfür bringen mögen.",
-        "b": "ES iſt nohtwendig / daß ein ander Opffer mit Melchi-\nſedech vnd Chriſto werde angezeigt dann der Tod\nChriſti / vnd ſittenmal daß ſy daſſelb mit der Geſchrifft\nnit harfuͤr bringen moͤgen /",
-        "similarity": 0.4138,
-        "semantic": 0.8658,
-        "reading": "reworded"
-      },
-      {
-        "op": "match",
-        "a": "So bliben wir / wie vormals anzeygt ist / vnnd beuelhens den schrifften\nder Notarien / vnd eynem yetlichen Christlichen läser. Zwingli+\n\nAls es not sye /",
-        "b": "ſo blyben wir / wie vormals\nanzeigt iſt / vnd befehlens den Geſchrifften der Notarien / vnd einem jeglichen Chriſtlichen Leſer. Zwingly. DAß es noht ſeye /",
-        "similarity": 0.4783,
-        "semantic": 0.8737,
-        "reading": "reworded"
-      },
-      {
-        "op": "match",
-        "a": "dz wir ein ander opfer in Christo / weder sinen tod anzeygen / das reden sy / vnd er=\nuorderen wir sy / das sy darumb gschrifft bringen.",
-        "b": "daß wir ein ander Opffer in Chri-\nſto / weder ſynen Tod anzeigen / das reden ſy / vnd\nZ z erfor-",
-        "similarity": 0.4651,
-        "semantic": 0.6166,
-        "reading": "reworded"
+        "similarity": 0.3333
       },
       {
         "op": "only_a",
-        "a": "Gilg Durer\n\nDarumb ist es notwendig / das Melchisedech mit de\ntod / Christo nit verglichet mag werden / vnd syten=\nmal Christus ist ein Priester / nach der ordnung Melchi\nsedech / vnd",
+        "a": "vñ verlassen\nvns darumb an den Text. Gilg Durer. S ist notwendig / das eyn ander opffer / mitt\nMelchisedech vñ Christo werde angezeygt /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8234,
-        "semantic_match": "Der Frag halb / wie Christus nach\nder Ordnung Melchiſedech ein Prieſter ſeye / iſt ge-\nſtern vnd huͤt gnuͤg geſagt /",
-        "reading": "candidate"
+        "similarity": 0.0
+      },
+      {
+        "op": "only_a",
+        "a": "dañ\nder tod Christi / vnd sytenmal das sy daselb / mit\nder gschrifft nitt harfür bringen mögen. So bliben wir / wie vormals anzeygt ist /",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "only_a",
+        "a": "vnnd beuelhens den schrifften\nder Notarien / vnd eynem yetlichen Christlichen läser. Zwingli+\n\nAls es not sye / dz wir ein ander opfer in Christo /",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "only_a",
+        "a": "weder sinen tod anzeygen / das reden sy / vnd er=\nuorderen wir sy / das sy darumb gschrifft bringen. Gilg Durer\n\nDarumb ist es notwendig /",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "only_a",
+        "a": "das Melchisedech mit de\ntod / Christo nit verglichet mag werden / vnd syten=\nmal Christus ist ein Priester / nach der ordnung Melchi\nsedech / vnd",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "angezogen / dienet ihnen gar nit / ſonder\niſt mehr fuͤr vns / vnd verlaſſen vns darum an den Text. Gilg Murer.",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "ES iſt nohtwendig / daß ein ander Opffer mit Melchi-\nſedech vnd Chriſto werde angezeigt dann der Tod\nChriſti / vnd ſittenmal daß ſy daſſelb mit der Geſchrifft\nnit harfuͤr bringen moͤgen /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "ſo blyben wir / wie vormals\nanzeigt iſt / vnd befehlens den Geſchrifften der Notarien / vnd einem jeglichen Chriſtlichen Leſer. Zwingly. DAß es noht ſeye /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "daß wir ein ander Opffer in Chri-\nſto / weder ſynen Tod anzeigen / das reden ſy / vnd\nZ z erfor-",
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7638,
-    "reworded": 5,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 2
+    ]
   },
   "fine": {
-    "similarity": 0.4066,
+    "similarity": 0.4083,
     "words": {
-      "a": 229,
+      "a": 227,
       "b": 253
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite IVXXID",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Die",
@@ -689,7 +687,7 @@
         "b": "Z z erfor"
       }
     ],
-    "ops": 55,
+    "ops": 54,
     "truncated": false
   }
 }

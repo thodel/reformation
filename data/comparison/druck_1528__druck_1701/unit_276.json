@@ -8,7 +8,7 @@
       286
     ]
   },
-  "alignment_score": 0.2587,
+  "alignment_score": 0.2613,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 3,
     "only_b": 7,
-    "similarity": 0.5174,
+    "similarity": 0.5228,
     "pairs": [
       {
         "op": "only_b",
@@ -61,27 +61,21 @@
       },
       {
         "op": "match",
-        "a": "Seite CXXXII\nSchlußred+ CXXXII\nPaulus spricht: Darumb sind wir ein brot/das wir eins\nbrots teylhafftig sind/oder von einem brot essend.ꝛc.",
+        "a": "Schlußred+ CXXXII\nPaulus spricht: Darumb sind wir ein brot/das wir eins\nbrots teylhafftig sind/oder von einem brot essend.ꝛc.",
         "b": "wie\nPaulus spricht: Darum sind wir ein Brodt / daß wir\neines Brodts theilhafftig sind / oder von einem Brodt\nessend. ꝛc.",
-        "similarity": 0.5581,
-        "semantic": 0.8404,
-        "reading": "same"
+        "similarity": 0.5854
       },
       {
         "op": "match",
         "a": "Zwingli\nAls vnser lieber brůder zwey brot hie anzeygt/ ist doch gnůg erfochten/das es nun eins ist: das\nan dem ersten ort/da er spricht:",
         "b": "Zwingly. DAß unser lieber Brüder zwey Brodt hie anzeigt/ ist vor gnůg erfochten / daß es nun eins ist: Dann\nan dem ersten Ort /",
-        "similarity": 0.6531,
-        "semantic": 0.6449,
-        "reading": "same"
+        "similarity": 0.6531
       },
       {
         "op": "match",
         "a": "Das brot/das\nwir brechend/sye die gmeind des lychnams Christi/zeigt\nvns gnůg an durch die vrsachlichen red/die von stund=\nan hernach volget/das er võ dem brot redt/Das wir bre\nchend.",
         "b": "da er spricht: Das Brodt/das wir\nbrechen/ seye die Gemeind deß Lychnams Christi/zeigt\nuns gnůg an durch die ursachliche Red /",
-        "similarity": 0.4561,
-        "semantic": 0.8358,
-        "reading": "reworded"
+        "similarity": 0.4561
       },
       {
         "op": "only_b",
@@ -93,44 +87,31 @@
         "op": "match",
         "a": "Das er aber dannethin spricht: Das wir/so das\nselbig brot/miteinander brechend/syen die gemeynd des\nlychnams Christi. Das ist ein liebliche der Tropen.",
         "b": "Daß wir/so\nwir dasselbig Brodt mit einander brechen / seyend die\nGemeind deß Lychnams Christi: das ist ein liebliche\nder Tropen.",
-        "similarity": 0.4783,
-        "semantic": 0.8478,
-        "reading": "reworded"
+        "similarity": 0.4783
       },
       {
         "op": "match",
         "a": "Das\ner darnach spricht: Ein brot vnd ein lychnam/sind wir\ndie menge. In den wortten erkennen ich wol/das er die\nKilchen das Brot nempt/Er spilt aber daruff/das sy\ndeß vsseren Sacramentlichen brot halb/das die Kilch\nmiteinandern teylt/ein brot vnd ein lychnam sye.",
         "b": "Daß er darnach spricht: Ein Brodt und\nein Lychnam sind wir die Menge. In den Worten er-\nkenne ich wol /",
-        "similarity": 0.4412,
-        "semantic": 0.6791,
-        "reading": "reworded"
+        "similarity": 0.4412
       },
       {
         "op": "only_a",
         "a": "So er\nvon stundan spricht/vnd vrsach gibt/Warumb er ouch\ndie Kilch Ein brot vñ Ein lychnã genempt habe:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7765,
-        "semantic_match": "dasselbig brechen\nwir / und theilends uß den Brüdern: dasselb ist nit die\nKilch oder Gemeind ; Von sölchen spricht er : Das\nBrodt /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "dañ\nwir all miteinander teylhafftig sind võ einem brot. Hie\nist aber ein ander Prosapodosis, dz ist ein vrsach in dem wört\nly/da er spricht/Dann/welches ein vrsach gibt/warum\ners genempt habe/Ein brot vñ Einen lychnam:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6582,
-        "semantic_match": "dasselbig brechen\nwir / und theilends uß den Brüdern: dasselb ist nit die\nKilch oder Gemeind ; Von sölchen spricht er : Das\nBrodt /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "yedoch\nso wirt hie des lychnãs Christi nit lyblich gedacht. Aber\ndes wirdt gedacht in einer sum̃/das wir die menge/das\nist die Christenlich gemeynd/ein gemeind des lychnams\nvnnd Blůts Christi sygend/ein Brot vnnd ein lychnam\nsygend.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7837,
-        "semantic_match": "brechend und essend wir nit: heißt darum ein Brodt / daß sy von einem Brodt deß\nAbendmahls und Testaments Christi niessend:",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -138,23 +119,18 @@
         "b": "daß er die Kilchen das Brodt nennet / er\nspillt aber daruff / daß sy deß ußern Sacramentlichen\nBrodts",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7583,
-    "reworded": 3,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 3
+    ]
   },
   "fine": {
-    "similarity": 0.3723,
+    "similarity": 0.3738,
     "words": {
-      "a": 257,
+      "a": 255,
       "b": 248
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite CXXXII",
+        "op": "insert",
+        "a": "",
         "b": "270 Die Vierdte"
       },
       {

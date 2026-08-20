@@ -8,32 +8,38 @@
       458
     ]
   },
-  "alignment_score": 0.1639,
+  "alignment_score": 0.1657,
   "coarse": {
     "paragraphs": {
-      "a": 9,
+      "a": 8,
       "b": 1
     },
     "counts": {
       "equal": 0,
-      "replace": 9,
+      "replace": 8,
       "delete": 0,
       "insert": 0
     },
     "similarity": 0.0
   },
   "sentences": {
-    "units": 13,
-    "matched": 2,
-    "only_a": 7,
-    "only_b": 4,
-    "similarity": 0.4793,
+    "units": 12,
+    "matched": 3,
+    "only_a": 6,
+    "only_b": 3,
+    "similarity": 0.4195,
     "pairs": [
       {
-        "op": "only_a",
-        "a": "Seite IVXXX\n\n**Die vierdt**\n**Meister Vlrich zwingli.**\n\nWir lassend vns ouch vff die erklärung/ vß offne\ngottes wort / von vns har fürbracht /",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "Janvier\nPuxH\nas I am\nangeszeij\nprestus vij\nwert\nte lyblen\nWill\nIhr Zeichn\nren\nitt cresrs\nDie vierd schlußred.",
         "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "**Die vierdt**\n**Meister Vlrich zwingli.**\n\nWir lassend vns ouch vff die erklärung/ vß offne\ngottes wort / von vns har fürbracht /",
+        "b": "191. 202\nvsscheret, wie meister Vlrich soll erzougt habenn\nverlassenn wir vnns vff die acta\nHovingh\nDir lassennde vnns ouch vff die erklaringe, vss\noffnem gortes wort, van vns har fur bracht wie\nonch die acta Inhaeltene Die andere reed.",
+        "similarity": 0.3
       },
       {
         "op": "only_a",
@@ -63,18 +69,6 @@
         "op": "only_a",
         "a": "vnd sy an der erklärung ingetragen/ vñ namlich yetz in der letsten red / Bewelchē wir\nallen so von gott geleert söllen werden/",
         "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "Janvier\nPuxH\nas I am\nangeszeij\nprestus vij\nwert\nte lyblen\nWill\nIhr Zeichn\nren\nitt cresrs\nDie vierd schlußred.",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "191. 202\nvsscheret, wie meister Vlrich soll erzougt habenn\nverlassenn wir vnns vff die acta\nHovingh\nDir lassennde vnns ouch vff die erklaringe, vss\noffnem gortes wort, van vns har fur bracht wie\nonch die acta Inhaeltene Die andere reed.",
         "similarity": 0.0
       },
       {
@@ -110,15 +104,15 @@
     ]
   },
   "fine": {
-    "similarity": 0.4203,
+    "similarity": 0.4224,
     "words": {
-      "a": 199,
+      "a": 197,
       "b": 196
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite IVXXX",
+        "op": "insert",
+        "a": "",
         "b": "Janvier PuxH as I am angeszeij prestus vij wert te lyblen Will Ihr Zeichn ren itt cresrs"
       },
       {

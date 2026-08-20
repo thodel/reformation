@@ -8,7 +8,7 @@
       241
     ]
   },
-  "alignment_score": 0.2389,
+  "alignment_score": 0.2416,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -23,23 +23,29 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 9,
-    "matched": 6,
-    "only_a": 3,
-    "only_b": 0,
-    "similarity": 0.407,
+    "units": 10,
+    "matched": 5,
+    "only_a": 4,
+    "only_b": 1,
+    "similarity": 0.4118,
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [X]\nDie erſt\nZwingy\nMeyster Niclaus/ was wellend jr mit denen wortẽ\nallen ynfüren? Senger. Als iſt min meinung/",
+        "a": "Die erſt\nZwingy\nMeyster Niclaus/ was wellend jr mit denen wortẽ\nallen ynfüren? Senger. Als iſt min meinung/ der anzügen halb/",
         "b": null,
         "similarity": 0.0
       },
       {
-        "op": "match",
-        "a": "der anzügen halb/ Diewyl\nüwer Schlußreden tringer vff das wort Got=\ntes/ geſchriben vnd vngeſprochen/ vñ aber min\nG. Herrẽ jr Diſputation halb/",
+        "op": "only_a",
+        "a": "Diewyl\nüwer Schlußreden tringer vff das wort Got=\ntes/ geſchriben vnd vngeſprochen/ vñ aber min\nG. Herrẽ jr Diſputation halb/",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
         "b": "# gestorben\nvertuijsshett\n. Das ist min meijning der anzugen halb\ndie wijll vover staenßreden vrugt pff Das\nwort gottes vnnd Ingesprochenn, vnd aber min\ng.",
-        "similarity": 0.383
+        "similarity": 0.0
       },
       {
         "op": "match",
@@ -86,15 +92,15 @@
     ]
   },
   "fine": {
-    "similarity": 0.504,
+    "similarity": 0.5067,
     "words": {
-      "a": 198,
+      "a": 196,
       "b": 179
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite X Die erſt Zwingy Meyster Niclaus was wellend jr mit denen wortẽ allen ynfüren Senger Als",
+        "a": "Die erſt Zwingy Meyster Niclaus was wellend jr mit denen wortẽ allen ynfüren Senger Als",
         "b": "gestorben vertuijsshett Das"
       },
       {

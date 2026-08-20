@@ -8,7 +8,7 @@
       190
     ]
   },
-  "alignment_score": 0.5,
+  "alignment_score": 0.5063,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 1,
     "only_b": 8,
-    "similarity": 0.4345,
+    "similarity": 0.4412,
     "pairs": [
       {
         "op": "only_b",
@@ -37,28 +37,21 @@
       },
       {
         "op": "match",
-        "a": "Seite [LXXIII]\nSchlußred. LXXIII\n\nſonder/oder an das wort gottes/ſind vns von Chriſto\nverbotten/Matthei am xv. vnd ouch von Gott.",
+        "a": "Schlußred. LXXIII\n\nſonder/oder an das wort gottes/ſind vns von Chriſto\nverbotten/Matthei am xv. vnd ouch von Gott.",
         "b": "ja ſollich ſatzungen/ſon=\nder oder one das Wort Gottes / ſind vns von Chriſto ver=\nbotten/Matth.am 15.vnd ouch von Gott.Eſaie am 29.ſagt\nder Herr alſo :",
-        "similarity": 0.5,
-        "semantic": 0.8272,
-        "reading": "same"
+        "similarity": 0.52
       },
       {
         "op": "match",
         "a": "Eſaie\nam xxix. ſagt der herr alſo. Darumb das ſich das volck\nzů mir nahet/mich mit ſinem mund vnd låffzen zůlobet/",
         "b": "Darumb das ſich das Volck zuͤ mir nahet/ mich mit ſinem Mund vnd Laͤfftzen zuͤ loben / vnd doch ſin\nHertz wyt von mir kert/mich nun mit Menſchen gebot vnd\nleere foͤrchtet/ſich/",
-        "similarity": 0.4211,
-        "semantic": 0.6983,
-        "reading": "reworded"
+        "similarity": 0.4211
       },
       {
         "op": "only_a",
         "a": "vnd doch ſin hertz wyt von mir ſert/mich nun mit men=\nſchen gebot vnd leere förchtet/ſich/darum̄ wird ich mer\nwunder mit dißem volck begon/wunderbarlich vñ ſeltzå\ndas die wißheit ſiner klůgen zů grund faren/vñ der ver\nſtand ſiner verſtåndigē zů boden gon wirt/Diß ſind die\nwort des herrn/die ſich in gegenwůrtiger zyt vor ougen\nerzeygen/wie ſich die/ſo menſchen ſatzungen gern entbiel\nten/ſo vnuerſtanden am wort Gottes abrennen/diewil\nnun Got der herr nit will/das wir jm yendert mit dienen\nnach vnſerem gůt bedunckē.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7412,
-        "semantic_match": "vnd der verſtand ſiner Ver=\nſtaͤndigen zuͤ boden gon wirt / Diß ſind die Wort deß Her=\nren / die ſich in gegenwuͤrtiger zyt vor ougen erzeigen /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -82,9 +75,7 @@
         "op": "match",
         "a": "Deuteronomij am xij. Ja\nſo das/das wir hoch achten ein grůwel vor gott iſt. Luc. am xvj. So kan vñ mag ein yetlicher from̄er Chriſt er=\nmeſſen/von welcher Kilch oder verſamlung die ſeyen/die",
         "b": "daß wir jm jendert mit dienen nach vnſerem\nguͤt beduncken : Deut.am 12.Ja ſo das/das wir hoch ach=\nten/ein gruͤſwel vor Gott iſt.Luc.am 16.",
-        "similarity": 0.3824,
-        "semantic": 0.6697,
-        "reading": "reworded"
+        "similarity": 0.3824
       },
       {
         "op": "only_b",
@@ -110,23 +101,18 @@
         "b": "dann Gottes\ngebot / ja das man ſy in allen dingen uͤbler foͤrchte / dann\nGott. Waͤr mag diſer mit ſynem huffen anders ſin / dann\n                                                             der",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7341,
-    "reworded": 2,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.5149,
+    "similarity": 0.5171,
     "words": {
-      "a": 175,
+      "a": 173,
       "b": 295
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite LXXIII Schlußred LXXIII ſonder",
+        "a": "Schlußred LXXIII ſonder",
         "b": "158 Die ander Kilchen gebot vns nit wyter binden dann ſy im go ttlichen Wort gegru nd vnd gebotten ſind ja ſollich ſatzungen ſon der"
       },
       {

@@ -8,7 +8,7 @@
       308
     ]
   },
-  "alignment_score": 0.181,
+  "alignment_score": 0.1826,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,15 +23,15 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 19,
-    "matched": 4,
-    "only_a": 9,
-    "only_b": 6,
-    "similarity": 0.3817,
+    "units": 16,
+    "matched": 7,
+    "only_a": 6,
+    "only_b": 3,
+    "similarity": 0.4563,
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [X]\nDie vierdt\nBringen / Vnnd bezuͤg mich vff eins yetliches Chris\nſten laͤſers verſtand. Pfarrer von ſant Gallen.",
+        "a": "Die vierdt\nBringen / Vnnd bezuͤg mich vff eins yetliches Chris\nſten laͤſers verſtand. Pfarrer von ſant Gallen. [D]Erglichen /",
         "b": null,
         "similarity": 0.0
       },
@@ -55,143 +55,88 @@
       },
       {
         "op": "match",
-        "a": "[D]Erglichen / ſo wir geredt vnd geantwurt von\nkrafft des worts Gottes / wirt (ob gott wil) die\nhoͤzend kilch /",
+        "a": "ſo wir geredt vnd geantwurt von\nkrafft des worts Gottes / wirt (ob gott wil) die\nhoͤzend kilch / vnnd Chriſtlich laͤſer wol erken=\nnen.",
         "b": "und bezüg\nmich das vff eines jeglichen Christen-Lesers Verstand. Pfarrer von Sant Gallen. DErglychen / so wir geredt und geantwortet von\nKrafft deß Worts Gottes /",
-        "similarity": 0.3556,
-        "semantic": 0.6707,
-        "reading": "reworded"
-      },
-      {
-        "op": "only_a",
-        "a": "vnnd Chriſtlich laͤſer wol erken=\nnen. Gotts gnad ſye witter mitt vnns / Amen. So vil\nvnnd vnns vonn verglichung /",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7737,
-        "semantic_match": "dann sy nüt anders vermö-\ngen / dann sam Petrus spreche / Herr / so du michs heissest / so wil ichs thůn. Wo ist aber hie das vsser Wort /",
-        "reading": "candidate"
+        "similarity": 0.32
       },
       {
         "op": "match",
-        "a": "vß dem Alten Teſta=\nment zuͤ den wortenndes Nachtmals vonn dem Lyb\nChriſti vnnd ſyner gegenwuͤrtigkeyt geurſachet hatt/ iſt der geſchrifft beuolhen.",
+        "a": "Gotts gnad ſye witter mitt vnns / Amen. So vil\nvnnd vnns vonn verglichung / vß dem Alten Teſta=\nment zuͤ den wortenndes Nachtmals vonn dem Lyb\nChriſti vnnd ſyner gegenwuͤrtigkeyt geurſachet hatt/",
         "b": "wird (ob Gott wil) die\nhörend Kilch und Christenlich Leser wol erkennen. Gottes Gnad seye wyter mit uns / Amen. So vil und\nuns von Verglychung vß dem Alten Testament zů den\nWorten deß Nachtmahls von dem Lyb Christi und\nsyner Gegenwürtigkeit geursachet hat /",
-        "similarity": 0.303,
-        "semantic": 0.6744,
-        "reading": "reworded"
+        "similarity": 0.3733
       },
       {
         "op": "match",
-        "a": "Vff ſoͤlliches wellen wir an=\nzeygen / die wort des Kelchs alſo lutend. Vnnd er hatt\ngenommen den Kelch / hatt danck geſagt vnnd jn jnen\ngeben /",
+        "a": "iſt der geſchrifft beuolhen. Vff ſoͤlliches wellen wir an=\nzeygen / die wort des Kelchs alſo lutend. Vnnd er hatt\ngenommen den Kelch /",
         "b": "ist der Geschrifft\nbefohlen. Vff sölichs wöllen wir anzeigen / die Wort deß\nKelchs also lutend : Und er hat genommen den Kelch /",
-        "similarity": 0.4681,
-        "semantic": 0.7796,
-        "reading": "reworded"
-      },
-      {
-        "op": "only_a",
-        "a": "ſprechende: Trinckend daruon all / das iſt myn\nbluͤt des nuͤwen Teſtaments / welches fuͤr vil vergoſſen\nwirt / zuͤ verzyhung der ſuͤnd.",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6831,
-        "semantic_match": "dann sy nüt anders vermö-\ngen / dann sam Petrus spreche / Herr / so du michs heissest / so wil ichs thůn. Wo ist aber hie das vsser Wort /",
-        "reading": "candidate"
-      },
-      {
-        "op": "only_a",
-        "a": "In welcheͤ worten wir glou\nben das mitt vßteylt ſin / ſo die wort anzygen: vnd das\nwaͤſenlich ſin / wie es der herr geheiſſen hatt.",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7718,
-        "semantic_match": "dann sy nüt anders vermö-\ngen / dann sam Petrus spreche / Herr / so du michs heissest / so wil ichs thůn. Wo ist aber hie das vsser Wort /",
-        "reading": "candidate"
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "hat danck gesagt/und ihn ihnen geben/sprechende: Trin-\nckend darvon all / das ist myn Blůt deß Neuen Testa-\nments /",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "welches für vil vergossen wird / zů Verzyhung\nder Sünd. In welchen Worten wir glauben / das mit-\nvßtheilt syn / so die Wort anzeigen :",
-        "similarity": 0.0
+        "similarity": 0.6364
       },
       {
         "op": "match",
-        "a": "Dann wie\ndas bluͤt Chriſti vßgegoſſen worden iſt / zuͤ verzichung\nder ſuͤnd / vnd geheyſſen worden / das ſo ſy truncken ha=\nben /",
+        "a": "hatt danck geſagt vnnd jn jnen\ngeben / ſprechende: Trinckend daruon all / das iſt myn\nbluͤt des nuͤwen Teſtaments /",
+        "b": "hat danck gesagt/und ihn ihnen geben/sprechende: Trin-\nckend darvon all / das ist myn Blůt deß Neuen Testa-\nments /",
+        "similarity": 0.45
+      },
+      {
+        "op": "match",
+        "a": "welches fuͤr vil vergoſſen\nwirt / zuͤ verzyhung der ſuͤnd. In welcheͤ worten wir glou\nben das mitt vßteylt ſin /",
+        "b": "welches für vil vergossen wird / zů Verzyhung\nder Sünd. In welchen Worten wir glauben / das mit-\nvßtheilt syn / so die Wort anzeigen :",
+        "similarity": 0.4186
+      },
+      {
+        "op": "match",
+        "a": "ſo die wort anzygen: vnd das\nwaͤſenlich ſin / wie es der herr geheiſſen hatt. Dann wie\ndas bluͤt Chriſti vßgegoſſen worden iſt /",
         "b": "und das wesentlich\nsyn / wie es der Herr geheiſſen hat. Dann wie das Blůt\nChristi vßgegossen worden ist zů Verzyhung der sünd /",
-        "similarity": 0.4,
-        "semantic": 0.7482,
-        "reading": "reworded"
+        "similarity": 0.6087
+      },
+      {
+        "op": "match",
+        "a": "zuͤ verzichung\nder ſuͤnd / vnd geheyſſen worden / das ſo ſy truncken ha=\nben / dz bluͤt des nuͤwẽ Teſtaments:",
+        "b": "und geheissen worden / das so sy truncken haben das\nBlůt",
+        "similarity": 0.3871
       },
       {
         "op": "only_a",
-        "a": "dz bluͤt des nuͤwẽ Teſtaments: glicher geſtalt (Moy=\nſen vnnd Chriſtum zeuerglichen / haben wir Exodiam\nxxiiij. Cap. Da hat er genomen das buͤch des punds /",
+        "a": "glicher geſtalt (Moy=\nſen vnnd Chriſtum zeuerglichen / haben wir Exodiam\nxxiiij. Cap. Da hat er genomen das buͤch des punds /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6689,
-        "semantic_match": "deßhalb\ndie Wort : Das ist myn Lychnam / durch den und andere\nGründ noch nie bewährt sind / daß sy vermögend den Lych-\nnam Christi in das Brodt wesentlich bringen /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "vñ\nhatts gelaͤſen / zuͤhoͤren dẽ volck die da haben geſagt. Alle\ndie ding ſo der herr hatt geredt /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7079,
-        "semantic_match": "und geheissen worden / das so sy truncken haben das\nBlůt",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "wellen wir thuͤn / vñ wer\nden gehorſam: alſo hatt er genomen das bluͤt vnd vßge=\nſprengt in das volck vnnd geſagt.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7258,
-        "semantic_match": "und geheissen worden / das so sy truncken haben das\nBlůt",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Das iſt das bluͤt des\npunds / welchen Gott mitt uͤch troffen hat / uͤber alle diſe\nwort. Vß welchem allem /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7899,
-        "semantic_match": "dann sy nüt anders vermö-\ngen / dann sam Petrus spreche / Herr / so du michs heissest / so wil ichs thůn. Wo ist aber hie das vsser Wort /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "damit vnd aber die figur dem\nglich ſye / ſo es beduͤtet hatt / wie da waͤſenlich bluͤt ge=\nweſen",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6554,
-        "semantic_match": "und geheissen worden / das so sy truncken haben das\nBlůt",
-        "reading": "candidate"
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "und geheissen worden / das so sy truncken haben das\nBlůt",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7208,
-    "reworded": 4,
-    "recovered_by_embedding": 8,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 8
+    ]
   },
   "fine": {
-    "similarity": 0.3525,
+    "similarity": 0.3538,
     "words": {
-      "a": 297,
+      "a": 295,
       "b": 242
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite X",
+        "op": "insert",
+        "a": "",
         "b": "292"
       },
       {

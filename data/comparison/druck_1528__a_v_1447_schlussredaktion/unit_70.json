@@ -8,7 +8,7 @@
       126
     ]
   },
-  "alignment_score": 0.2371,
+  "alignment_score": 0.2388,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,14 +27,8 @@
     "matched": 5,
     "only_a": 6,
     "only_b": 5,
-    "similarity": 0.4638,
+    "similarity": 0.4684,
     "pairs": [
-      {
-        "op": "only_a",
-        "a": "Seite XXXII\nSchlußred. hat ein ſölche ſondre gemeind koͤnne jrrẽ/ darumb ſy diß\noꝛt von ſondrigen perſonen nit zuͦuerſton.",
-        "b": null,
-        "similarity": 0.0
-      },
       {
         "op": "only_b",
         "a": null,
@@ -49,9 +43,15 @@
       },
       {
         "op": "match",
-        "a": "In dem liebe\nChriſte / wo min herr Doctor nit wolt gloubẽ ſo merck=\nend doch jr/dz diß oꝛt voͤ ſöllicher gemeind lut der woꝛt\nvnſers Herren Jeſu Chriſti verſtanden werden muͤß.",
+        "a": "Schlußred. hat ein ſölche ſondre gemeind koͤnne jrrẽ/ darumb ſy diß\noꝛt von ſondrigen perſonen nit zuͦuerſton. In dem liebe\nChriſte /",
         "b": "Dorumb sy dis ort von\nsondrigen personen nit zuͦ verstan / In dem lieben\nChristen / wo min her Doctor nit wellt glouben\nSo merckend doch Ir /",
-        "similarity": 0.3103
+        "similarity": 0.3333
+      },
+      {
+        "op": "only_a",
+        "a": "wo min herr Doctor nit wolt gloubẽ ſo merck=\nend doch jr/dz diß oꝛt voͤ ſöllicher gemeind lut der woꝛt\nvnſers Herren Jeſu Chriſti verſtanden werden muͤß.",
+        "b": null,
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -128,15 +128,15 @@
     ]
   },
   "fine": {
-    "similarity": 0.4476,
+    "similarity": 0.4491,
     "words": {
-      "a": 336,
+      "a": 334,
       "b": 236
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite XXXII Schlußred hat",
+        "a": "Schlußred hat",
         "b": "Publicanij 3½ 48 vnnd einen der fro mbd sy von der gemeind gotes Wie dann by den Juden de Zoller der Rho mer gehallten wurden Das aber min her Doctor Dargegen gearguiert hatt"
       },
       {

@@ -49,6 +49,23 @@ DEFAULT_DF_RATIO = 0.05   # bigrams in more than this share of pages are noise
 DEFAULT_THRESHOLD = 0.10  # containment below this is not a match
 PAGE_RE = re.compile(r"page_(\d+)\.md$")
 
+# A page heading, in any of the shapes the transcriptions use. druck_1528 was
+# transcribed by Gemini and writes "Seite [X]", "Seite CXIII" or "Seite 170"
+# with no marker, so 456 of its 496 pages carried their heading into the
+# compared text while every other witness was clean - and it is the base text
+# for every comparison. Content lines such as "Die erst" or "Schlussred." must
+# survive, so the pattern requires a numeral and nothing else.
+HEADING_RE = re.compile(r"^\s*#*\s*Seite\s+\[?[IVXLCDMivxlcdm\d]+\]?\s*#*\s*$")
+HTML_RE = re.compile(r"</?[a-zA-Z][^>]{0,60}>")
+
+
+def page_body(text: str) -> str:
+    """The transcribed text of a page, without its heading or stray markup."""
+    lines = text.splitlines()
+    while lines and (not lines[0].strip() or HEADING_RE.match(lines[0])):
+        lines.pop(0)
+    return HTML_RE.sub(" ", "\n".join(lines)).strip()
+
 
 def witness_dir(key: str) -> Path:
     for root in SEARCH_ROOTS:
@@ -65,7 +82,7 @@ def load_pages(key: str) -> dict[int, list[str]]:
         match = PAGE_RE.match(path.name)
         if not match:
             continue
-        body = re.sub(r"^# Seite \d+\s*", "", path.read_text(encoding="utf-8")).strip()
+        body = page_body(path.read_text(encoding="utf-8"))
         if not body:
             continue
         tokens = re.findall(r"\w+", normalize(body).normalized.lower())

@@ -8,7 +8,7 @@
       313
     ]
   },
-  "alignment_score": 0.3627,
+  "alignment_score": 0.37,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -31,45 +31,33 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [lVXXD]\nDie vierde\ndes geyſts/ꝛc. Zů erklårung diſers texts/ iſt zů mercken\ndas Paulus in der ganzen Epiſtel die Corinthiern vß vi\nlen vrſachen zwyſpaltig/",
+        "a": "Die vierde\ndes geyſts/ꝛc. Zů erklårung diſers texts/ iſt zů mercken\ndas Paulus in der ganzen Epiſtel die Corinthiern vß vi\nlen vrſachen zwyſpaltig/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6103,
-        "semantic_match": "diewyl wir teilhafftig ſind eins Sacramentlichen Brots/ vnd kompt hernach wyter ein Exempel/ſpricht alſo: Se=\nhend den Iſrahel nach dem Fleiſch.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "begert in einigkeit zebringē/ vñ\ndiewyl jr etlich ouch noch gemeinſchafft hatten/ mitt den\nabgötiſchen/ das dañ ouch zů vneinigkeit diener/",
         "b": "Schlußred. 279\nder gantzen Epiſtel/die Corinthern vß vilen vrſachen zwy=\nſpaltig/begert in Einigkeit zebringen/vnd diewyl jr etlich\nouch noch Gemeinſchafft hatten /",
-        "similarity": 0.4444,
-        "semantic": 0.7539,
-        "reading": "reworded"
+        "similarity": 0.4444
       },
       {
         "op": "match",
         "a": "ſo fürt\ner ſy zů Chriſtenlicher einigkeit/ zeygt jnen an/ wie ſy ge=\nmeinſchafft haben an dem lyb vnd blůt Chriſti/",
         "b": "mit den Abgoͤttiſchen/ das dann ouch zů Vneinigkeit dienet/ſo fuͤrt er ſy zů Chri=\nſtenlicher Einigkeit/zeigt jnen an/wie ſy gemeinſchafft ha=\nben an dem Lyb vnd Blůt Chriſti/darumb ſy billich vn=\ngetrennt ſoͤllen ſin:",
-        "similarity": 0.4839,
-        "semantic": 0.6375,
-        "reading": "reworded"
+        "similarity": 0.4839
       },
       {
         "op": "only_a",
         "a": "darumb\nſy billich vngetrennt ſöllen ſin: vnd wender jnen für wie\nſy ſich doch ſelbs bezůgē/ ſöllicher gmeinſchafft i den Sa=\ncramenten/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7917,
-        "semantic_match": "Gottes\ns brochen\nKelch ſich\niſti vſge-\nden miſ-\n\nn/dieſen/ ſemen\noch klar/ elbs fuͤr\nen ort/ ng/Er-\ndie fol-\ne/zeigt\neinſchaf-\nnndnach\nrinthern\nHeiligen\nſer/aber\nes Co-\nCap. jſt\niffſ/ut. lus/in\nder",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "vñ ſagt Jch red mit üch als mit den verſten\ndigen: das iſt als mitt denen die da",
         "b": "vnd wendet jnen fuͤr wie ſy ſich doch\nſelbs bezuͤgen/ſoͤllicher Gemeinſchafft in den Sacramen=\nten/vnd ſagt:Ich red mit uͤch als mit den Verſtendigen:das\niſt als mit denen die da wol verſtand/was die Sacrament\nbeduͤten.",
-        "similarity": 0.3871,
-        "semantic": 0.5358,
-        "reading": "different"
+        "similarity": 0.3871
       },
       {
         "op": "only_b",
@@ -113,23 +101,18 @@
         "b": "Gottes\ns brochen\nKelch ſich\niſti vſge-\nden miſ-\n\nn/dieſen/ ſemen\noch klar/ elbs fuͤr\nen ort/ ng/Er-\ndie fol-\ne/zeigt\neinſchaf-\nnndnach\nrinthern\nHeiligen\nſer/aber\nes Co-\nCap. jſt\niffſ/ut. lus/in\nder",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6658,
-    "reworded": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 2
+    ]
   },
   "fine": {
-    "similarity": 0.2636,
+    "similarity": 0.2648,
     "words": {
-      "a": 109,
+      "a": 107,
       "b": 331
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite lVXXD Die vierde des geyſts ꝛc Zů erklårung diſers texts iſt zů mercken das Paulus in",
+        "a": "Die vierde des geyſts ꝛc Zů erklårung diſers texts iſt zů mercken das Paulus in",
         "b": "Schlußred 279"
       },
       {

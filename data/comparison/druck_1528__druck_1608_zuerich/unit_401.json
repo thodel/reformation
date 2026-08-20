@@ -8,10 +8,10 @@
       464
     ]
   },
-  "alignment_score": 0.3916,
+  "alignment_score": 0.3972,
   "coarse": {
     "paragraphs": {
-      "a": 4,
+      "a": 3,
       "b": 5
     },
     "counts": {
@@ -27,47 +27,37 @@
     "matched": 5,
     "only_a": 1,
     "only_b": 1,
-    "similarity": 0.5998,
+    "similarity": 0.6395,
     "pairs": [
       {
         "op": "match",
-        "a": "Seite CXCIII\n\nDie Sechßte Schlußred. Wie Christus ist allein für vns ge=\nstorben / also sol er ein einiger mittler vnd\nfürsprech /",
+        "a": "Die Sechßte Schlußred. Wie Christus ist allein für vns ge=\nstorben / also sol er ein einiger mittler vnd\nfürsprech / zwüschenn Gott dem Vatter\nvnnd vns glöubigen /",
         "b": "430\nDie ſechſzte Schluſſred. Wie Chriſtus iſt allein für vns geſtorben/ alſo ſoll er ein einiger Mittler vnd Fürſprech/ zwüſchen Gott dem Vatter vnd vns Glöu-\nbigen/angerüfft werden.",
-        "similarity": 0.56,
-        "semantic": 0.8448,
-        "reading": "same"
+        "similarity": 0.6545
       },
       {
         "op": "match",
-        "a": "zwüschenn Gott dem Vatter\nvnnd vns glöubigen / angerüfft werden. Deßhalb all ander mittler vnd fürsprech\nen vßzerhalb disem ytz anzerüffen/võ vns\non grund der geschrifft/",
+        "a": "angerüfft werden. Deßhalb all ander mittler vnd fürsprech\nen vßzerhalb disem ytz anzerüffen/võ vns\non grund der geschrifft/ vffgeworffen.",
         "b": "Deßhalb all ander\nMitttler vnnd Fürſprechen vſſerthalb diſem\nZyt anzerüffen/von vns ohn Grund der Ge-\nſchrifft/vffgeworffen. Erklärung der ſechſzten Schluſſred.",
-        "similarity": 0.3333,
-        "semantic": 0.7878,
-        "reading": "reworded"
+        "similarity": 0.4286
       },
       {
         "op": "match",
-        "a": "vffgeworffen. Erklärung der sächßten schlußred\nMeyster Frantz Kolb. Iñ der ersten Epistel\nPetri am ij. Cap. Christus ist\nder/d̃ kein sünd nie gethon hat\nvnnd ist in sinem mund d̃ kein\nbetrug nie erfunden/darumb\nsagt er Johannis am xiiij.",
+        "a": "Erklärung der sächßten schlußred\nMeyster Frantz Kolb. Iñ der ersten Epistel\nPetri am ij. Cap. Christus ist\nder/d̃ kein sünd nie gethon hat\nvnnd ist in sinem mund d̃ kein\nbetrug nie erfunden/darumb\nsagt er Johannis am xiiij.",
         "b": "Meiſter Frantz Kolb. IN der erſten Epiſtel Pe-\ntri am 2. Capit. Chriſtus iſt\nder/der kein Sünd nie gethon\nhat/vnnd iſt in ſynem Mund\nkein betrug nie erfunden/da-\nrumb ſagt er Johannis am 14.",
-        "similarity": 0.6923,
-        "semantic": 0.8587,
-        "reading": "same"
+        "similarity": 0.7013
       },
       {
         "op": "match",
         "a": "ims\nNachtmal. Der fürst diser\nwelt wåre komen / er hette a=\nber nüt an jm kein vrsach des\ntodes / des sich keyn heylig nie\nhat mögen berümen:",
         "b": "im Nachtmal: Der Fürſt diſer\nWelt wåre kommen/ er hette\naber nüt an jm keit Vrfach deß\nTodts/deß ſich kein heilig nie hat mögen berůmen:",
-        "similarity": 0.6038,
-        "semantic": 0.8049,
-        "reading": "same"
+        "similarity": 0.6038
       },
       {
         "op": "match",
         "a": "zun Ephe. am ij. Wan von natur\nwaren wir all kinder des zorns / sy haben all sich müssen\nbekennen / vnd sprechen.",
         "b": "zun\nEpheſern am 2. Wann von natur waren wir all Kinder\ndeß Zorns/ſy haben all ſich můſſen bekennen/vnd ſprechen:",
-        "similarity": 0.8095,
-        "semantic": 0.8749,
-        "reading": "same"
+        "similarity": 0.8095
       },
       {
         "op": "only_a",
@@ -81,23 +71,18 @@
         "b": "Vergib\n\n## Marginalien\nVer-\nnem-\nvns/ Gott\nſchen/ můgen\nEpheſ. gen/v-\nvnd ſo\nDan-\nter ſy\nderer\nGlö-\ntige\ncher\nvnnd\nNo-\nſiõ\nge\nPf-\ntet/ geh",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.8342,
-    "reworded": 1,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.5875,
+    "similarity": 0.5912,
     "words": {
-      "a": 158,
+      "a": 156,
       "b": 162
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite CXCIII",
+        "op": "insert",
+        "a": "",
         "b": "430"
       },
       {

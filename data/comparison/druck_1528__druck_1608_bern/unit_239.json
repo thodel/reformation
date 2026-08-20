@@ -8,15 +8,15 @@
       276
     ]
   },
-  "alignment_score": 0.5052,
+  "alignment_score": 0.5158,
   "coarse": {
     "paragraphs": {
-      "a": 3,
+      "a": 2,
       "b": 1
     },
     "counts": {
       "equal": 0,
-      "replace": 3,
+      "replace": 2,
       "delete": 0,
       "insert": 0
     },
@@ -27,31 +27,25 @@
     "matched": 3,
     "only_a": 0,
     "only_b": 8,
-    "similarity": 0.5264,
+    "similarity": 0.5312,
     "pairs": [
       {
         "op": "match",
-        "a": "Seite CXII\n\nSchlußred. CXII\n\nmentlich Brot/vnd das an den oꝛten/da ſy das Nacht=\nmal beſchryben: dann diß nützit anders iſt/weder bewä\nren/ein yedes durch ſich ſelbs (idem per ſeipſum probare) Vnſer\nſpan iſt/ob die woꝛt/Das iſt min lychnam/müſſend wä=\nſenlich vnnd ſubſtantzlich verſtanden werden.",
+        "a": "Schlußred. CXII\n\nmentlich Brot/vnd das an den oꝛten/da ſy das Nacht=\nmal beſchryben: dann diß nützit anders iſt/weder bewä\nren/ein yedes durch ſich ſelbs (idem per ſeipſum probare) Vnſer\nſpan iſt/ob die woꝛt/Das iſt min lychnam/müſſend wä=\nſenlich vnnd ſubſtantzlich verſtanden werden.",
         "b": "244       Die vierdt\ndas an den orten/ da sy das Nachtmal beschryben: dann diß\nnützit anders ist/ weder bewåren / ein jedes durch sich selbs\n(Idem per seipsum probare) Vnser Span ist/",
-        "similarity": 0.5854,
-        "semantic": 0.799,
-        "reading": "same"
+        "similarity": 0.6
       },
       {
         "op": "match",
         "a": "Vnnd ſo\nvnſer widerparth by den ſelbe woꝛtē (als ich wol denck)\nnit beſtaan mag/ſo ſüchet ſy ein woꝛt der verheyſſung/",
         "b": "ob die wort/ Das ist myn Lychnam / můsend wåsenlich vnnd sub=\nstantzlich verstanden werden. Vnnd so vnser Widerparth\nby den selben worten(als ich wol denck) nit bestaan mag/",
-        "similarity": 0.5098,
-        "semantic": 0.7174,
-        "reading": "same"
+        "similarity": 0.5098
       },
       {
         "op": "match",
         "a": "da aber kein verheyſſung iſt/des Sacraments/von dem\nder ſpan iſt. Vnnd ſo ſy das ſelb oꝛt bewären ſöllend/ein\nverheyſſung ſin/ſo wellend ſy es bewären mit den woꝛ=\ntenn/denen ſy diſe zehil",
         "b": "so\nsůchet sy ein wort der verheisung/ da aber kein verheissung\nist / deß Sacraments/ von dem der Span ist. Vnnd so sy\ndasselb Ort bewåren söllend /",
-        "similarity": 0.4839,
-        "semantic": 0.8759,
-        "reading": "reworded"
+        "similarity": 0.4839
       },
       {
         "op": "only_b",
@@ -101,23 +95,18 @@
         "b": "im Geist vnd glouben genossen. Wir habend ouch alles Capitel mit allen besonderen Stu=\ncken",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7974,
-    "reworded": 1,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.4054,
+    "similarity": 0.4076,
     "words": {
-      "a": 109,
+      "a": 107,
       "b": 261
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite CXII Schlußred CXII mentlich Brot vnd",
+        "a": "Schlußred CXII mentlich Brot vnd",
         "b": "244 Die vierdt"
       },
       {

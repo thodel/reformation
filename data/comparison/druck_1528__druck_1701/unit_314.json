@@ -8,7 +8,7 @@
       326
     ]
   },
-  "alignment_score": 0.3542,
+  "alignment_score": 0.3579,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -31,20 +31,15 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite CLI\nSchlußred. CLI\nvnwirdig iſſet/vñ nit gar/Welcher das brot vnwirdig\niſſet. Volgt wyter/Duch trincken wirt/das tranck deß\nHerren vnwirdig :",
+        "a": "Schlußred. CLI\nvnwirdig iſſet/vñ nit gar/Welcher das brot vnwirdig\niſſet. Volgt wyter/Duch trincken wirt/das tranck deß\nHerren vnwirdig :",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7208,
-        "semantic_match": "Als da einer ein vsser Zeichen\nsyner Herren von Bern tragt / und aber innwendig ei-\nnem Volck von Bern nit Treu halt /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "nempt es aber tranck/vñ nit blůt. Aber diß wörtly/Wirdig/heißt als vil by Paulo vnnd\nLuca.iij.als/geschickt/komlich/oder zügehörig/vß de\nerkennt wirt/das hie vnwirdigklich/nit verstanden sol\nwerde/das der mensch newan möchte gnůg wirdig sin/",
         "b": "310          Die Vierdte Schlußred. Aber diß Wörtli / Würdig / heißt als vil by Paulo und\nLuca am 3. als geschickt / komlich /",
-        "similarity": 0.3492,
-        "semantic": 0.5878,
-        "reading": "different"
+        "similarity": 0.3492
       },
       {
         "op": "only_b",
@@ -56,9 +51,7 @@
         "op": "match",
         "a": "zů den aller kleynsten gaaben Gottes. Darzů ouch die\naber den lychnam Christi geystlichē niessen/welches doch\nvil einander essen ist/weder das lyblich wåre/daruon sy\nsagend/den hat Gott wirdig gemacht.",
         "b": "Darzů auch/ die aber den Lychnam Christi geistlichen niessen / welches\ndoch vil einander essen ist/ weder das lyblich wåre/ darvon\nsy sagend /",
-        "similarity": 0.7273,
-        "semantic": 0.9063,
-        "reading": "same"
+        "similarity": 0.7273
       },
       {
         "op": "only_b",
@@ -70,9 +63,7 @@
         "op": "match",
         "a": "Daruß nun vol\nget/dʒ (wirdig essen) nützit anders ist/wed mit dem rech\nten glouben harzů komen. Onwirdig essen/aber nützit\nanders/weder one glouben harzů kommen/da aber der\ngloub eynig eruorderet wirt/nit zegloubenn/das fleysch\nvnd blůt lyblich da geessen werde/dañ das gnůgsam er=\nfochten ist/das wir darumb keins verheyssens gots wort\nhabend/sonder glouben/dʒ der låbendig sun Gottes mit\nsinem tod vns erlöst hab.",
         "b": "Unwürdig essen\naber nůßit anders / weder ohne Glauben harzů kommen/ da aber der Glaub einig erfordert wird / nit zeglauben/ daß Fleisch und Blůt lyblich da geessen werde/",
-        "similarity": 0.3232,
-        "semantic": 0.5089,
-        "reading": "different"
+        "similarity": 0.3232
       },
       {
         "op": "only_b",
@@ -84,17 +75,13 @@
         "op": "match",
         "a": "Es volgt wyter/in den wor=\nten Pauli: Der wirt schuldig am lychnam vnd blůt des\nHerren/nit die er vnwirdigklich geessenn habe/sonder/",
         "b": "Es\nfolget wyter in den Worten Pauli: Der wird schuldig\nam Lychnam und Blůt deß Herren/ nit die er unwürdig-\nlich geessen habe /",
-        "similarity": 0.6809,
-        "semantic": 0.7738,
-        "reading": "same"
+        "similarity": 0.6809
       },
       {
         "op": "match",
         "a": "deren er sich ein vertzösten valschlich dargeben hab: das\nist/er wil nit sagē",
         "b": "sonder deren er sich ein vertrösten fålsch-\nlich dargeben hab: das ist / er wil nit sagen / daß man\nin dem geessenen Lyb schuldig werde /",
-        "similarity": 0.5789,
-        "semantic": 0.7257,
-        "reading": "same"
+        "similarity": 0.5789
       },
       {
         "op": "only_b",
@@ -120,23 +107,18 @@
         "b": "so wird er geredt\nschuldig syn an denen von Bern/ ob er sy glych nit hat mö-\ngen umbbringen: oder da einer der Herren von Bern\nZeichen",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7039,
-    "reworded": 0,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.464,
+    "similarity": 0.4659,
     "words": {
-      "a": 210,
+      "a": 208,
       "b": 290
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite CLI",
+        "op": "insert",
+        "a": "",
         "b": "310 Die Vierdte"
       },
       {

@@ -8,7 +8,7 @@
       377
     ]
   },
-  "alignment_score": 0.3171,
+  "alignment_score": 0.3197,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 3,
     "only_b": 8,
-    "similarity": 0.4633,
+    "similarity": 0.4658,
     "pairs": [
       {
         "op": "only_b",
@@ -55,27 +55,21 @@
       },
       {
         "op": "match",
-        "a": "Seite CXXIII\nDie fünffe\nZwingly\n\n[E]S iſt gnůg angezeygt/das sy für vnnd für got-\ntes worts zůthůnd/das es nit hatt:es stat allein\ner hab wyn vnd Brot harfür bracht/so thůnd sy\njmerdar darzů.",
+        "a": "Die fünffe\nZwingly\n\n[E]S iſt gnůg angezeygt/das sy für vnnd für got-\ntes worts zůthůnd/das es nit hatt:es stat allein\ner hab wyn vnd Brot harfür bracht/so thůnd sy\njmerdar darzů.",
         "b": "das es nit hat: Es ſtaht allein / er\nhab Wyn und Brodt harfuͤr bracht / ſo thuͤnd ſy im̃erdar\ndarzuͦ:",
-        "similarity": 0.4333,
-        "semantic": 0.6922,
-        "reading": "reworded"
+        "similarity": 0.4483
       },
       {
         "op": "match",
         "a": "Vnd geopffert/das aber hie diß wörtli\nEnim das ist (Dann) stande/das ist nit/neque Greci neque He-\nbræi habent vnnd ob es aber glich by den Hebreeren wåre.",
         "b": "Und geopffert. Daß aber hie diß Wortly enim,\ndas iſt (Dann) ſtande / das iſt nit / neque Græci, neque He-\nbræi habent.",
-        "similarity": 0.6667,
-        "semantic": 0.8578,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "match",
         "a": "So ist es doch nüt anders/dann ein εκβασις eyn vßgang\ndie Personen zůbeschriben/als Genesis am viiij. Capi. eygentlich erfunden wirdt.",
         "b": "Und ob es aber glych by den Hebreern waͤre / ſo iſt es doch nuͤt anders / dann ein Ἔκβασις, ein Ußgang /",
-        "similarity": 0.4091,
-        "semantic": 0.5325,
-        "reading": "different"
+        "similarity": 0.4091
       },
       {
         "op": "only_b",
@@ -87,18 +81,13 @@
         "op": "match",
         "a": "Das demnach anzeygt wirt/ er hab nüt vffgeopffert dann win vnnd brot/reden wir\nalso. Wellen sy verstan/vonn win vnnd brot/das er hie\nAbraham gebracht hatt/so sagen wir/das er nit vffge=\nopffert hab/vnd ist nun Petitio principij.",
         "b": "reden\nwir alſo. Woͤllen ſy verſtahn von Wyn und Brodt / das\ner hie Abraham gebracht hat / ſo ſagen wir /",
-        "similarity": 0.3871,
-        "semantic": 0.6956,
-        "reading": "reworded"
+        "similarity": 0.3871
       },
       {
         "op": "only_a",
         "a": "So veer sy aber ver\nstan wellen von anderen opfermalen/wo wellen sy bewe\nren/das er zů andern zytenden obersten Gott/nitt habe\nvffgeopfert win vnd brot:dann die Negatiuam mögen\nsy nit bewåren.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7573,
-        "semantic_match": "wo woͤl-\nlen ſy bewaͤhren / daß er zuͦ andern Zyten dem oberſten\nGott nit habe vffgeopffert Wyn und Brodt:",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -122,17 +111,13 @@
         "op": "match",
         "a": "Das sicht aber nit wider vnns/er habe\nwyn vnnd Brot vffgeofert oder nitt: dann als sy selbs be\nkennen/so hett Melchisedech sich selbs nie inn tod vffge=\nopffert/vnnd ist aber ein bedüter Christi/darůß volget/",
         "b": "dann als ſy ſelbs bekennen / ſo hat Melchiſedech ſich\nſelbs nie in Tod vffgeopffert / und iſt aber ein Beduͤter\nChriſti:",
-        "similarity": 0.4746,
-        "semantic": 0.5612,
-        "reading": "different"
+        "similarity": 0.4746
       },
       {
         "op": "match",
         "a": "das wie Melchisedech vffgeopffert hatt/das sye was es\nwelle/das er damit bedütet hat/das opfer/da Christus\nsich selbs vffgeopffert hat.",
         "b": "daruß folget / daß wie Melchiſedech vffgeopf-\nfert hat / das ſeye was es woͤlle / daß er damit beduͤtet hat\ndas",
-        "similarity": 0.4091,
-        "semantic": 0.7712,
-        "reading": "reworded"
+        "similarity": 0.4091
       },
       {
         "op": "only_a",
@@ -146,25 +131,15 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6954,
-    "reworded": 3,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.4456,
+    "similarity": 0.4471,
     "words": {
-      "a": 276,
+      "a": 274,
       "b": 303
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite CXXIII",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Die",
@@ -716,7 +691,7 @@
         "b": ""
       }
     ],
-    "ops": 56,
+    "ops": 55,
     "truncated": false
   }
 }

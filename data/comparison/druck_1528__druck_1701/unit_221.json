@@ -8,7 +8,7 @@
       230
     ]
   },
-  "alignment_score": 0.4079,
+  "alignment_score": 0.4189,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 2,
     "only_a": 0,
     "only_b": 9,
-    "similarity": 0.4889,
+    "similarity": 0.4997,
     "pairs": [
       {
         "op": "only_b",
@@ -37,19 +37,15 @@
       },
       {
         "op": "match",
-        "a": "Seite IIII\nDie vierde\nſuns verheyssen hab lyblich zeessen/das mag mit\ngschrifft nit bybracht werden/deßhalb das argument\nvffhört/wir erkennen jn ouch den almechtigen ſyn.",
+        "a": "Die vierde\nſuns verheyssen hab lyblich zeessen/das mag mit\ngschrifft nit bybracht werden/deßhalb das argument\nvffhört/wir erkennen jn ouch den almechtigen ſyn.",
         "b": "das mag\nmit Geſchrifft nit bybracht werden / deßhalb das Argu-\nment vffhỏrt / wir erkennen ihn auch den Allmåchtigen\nſyn. Aber daruß folget nit /",
-        "similarity": 0.52,
-        "semantic": 0.6558,
-        "reading": "same"
+        "similarity": 0.5417
       },
       {
         "op": "match",
         "a": "Aber\ndaruß volget nit/gott vermag das/so ist es ouch/dañ er\nmöchte die steyne sul zů Heliasen vñ predigende Johañ\nsen keren/sy sind aber darumb nit die predigenden/He=\nlias vñ Johannes/darzů thůt gott wider sin eygẽ wort\nnit/es wirt ouch wider sin eygen wort thůn/nitt für ein",
         "b": "Gott vermag das / ſo iſt es\nauch: Dann er mỏchte die ſteinerne Sul zů Heliaſen vnd\npredigenden Johanſen kehren / ſy ſind aber darum nit die\npredigenden Helias vnd Johannes :",
-        "similarity": 0.4578,
-        "semantic": 0.539,
-        "reading": "different"
+        "similarity": 0.4578
       },
       {
         "op": "only_b",
@@ -99,23 +95,18 @@
         "b": "daß das / ſo er am\nNachtmahl hat wỏllen ynſetzen vnd erſtatten / hat er ver-\nheiſſen / in dem ſo er ſagt : Das Brot / ſo ich euch geben\nwird /",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.5974,
-    "reworded": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.2982,
+    "similarity": 0.3,
     "words": {
-      "a": 81,
+      "a": 79,
       "b": 261
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite IIII",
+        "op": "insert",
+        "a": "",
         "b": "214"
       },
       {

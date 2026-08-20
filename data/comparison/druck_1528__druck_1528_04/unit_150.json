@@ -8,7 +8,7 @@
       179
     ]
   },
-  "alignment_score": 0.4072,
+  "alignment_score": 0.4115,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 4,
     "only_b": 3,
-    "similarity": 0.5597,
+    "similarity": 0.5619,
     "pairs": [
       {
         "op": "only_b",
@@ -49,11 +49,9 @@
       },
       {
         "op": "match",
-        "a": "Seite [X]\nDie erſt\nerken die eynigkeit der Götlichen dryualtigkeyt/ ſo ſag\nich/ das ich darfür han/ das er mir daran vnrecht thůt/",
+        "a": "Die erſt\nerken die eynigkeit der Götlichen dryualtigkeyt/ ſo ſag\nich/ das ich darfür han/ das er mir daran vnrecht thůt/",
         "b": "So ſag ich/das ich darfuͤr hab/das er mir\ndaran vnrecht thuͤt / dann ich ſo lang den glou-\nben gebaͤttet hab/dz ichs wol weyß.",
-        "similarity": 0.3846,
-        "semantic": 0.5877,
-        "reading": "different"
+        "similarity": 0.4
       },
       {
         "op": "only_a",
@@ -65,49 +63,37 @@
         "op": "match",
         "a": "das\nder ſun Gottes ſye das houpt der Chriſtenlichen kilchen/ der da iſt jn ewigkeyt gebozen/ vß Gott ſym himelſchen\nvatter/",
         "b": "So er aber\nnun ſeyt/vñ vor geſeyt hat/dz d̃ ſun gottes ſye\ndas houpt der Chriſtenlichen Kilchen/der da iſt\nin ewigkeyt geboren /",
-        "similarity": 0.5652,
-        "semantic": 0.7741,
-        "reading": "same"
+        "similarity": 0.5652
       },
       {
         "op": "match",
         "a": "das gib ich ouch nach/ das aber darumb Chri=\nſtus ſig das einig houpt/ das gib ich noch nit nach/",
         "b": "vß Gott ſym himelſchen\nvatter/ das gib ich ouch nach: das aber darumb\nChriſtus ſye das einig houpt/ dz gib ich nit nach\nvnd das vrſach.",
-        "similarity": 0.6522,
-        "semantic": 0.7471,
-        "reading": "same"
+        "similarity": 0.6522
       },
       {
         "op": "match",
         "a": "vnd\ndas vrſach/ das das wort (Chriſtus) iſt ein zytlichs wort\nvnnd iſt Chriſtus gebozen worden in der zyt/ als Lucas\nzůget/",
         "b": "Das das wort (Chriſtus) iſt ein\nzytlichs wort / vnd iſt Chriſtus geboren worden\nin der zyt/ als Lucas zuͤget:",
-        "similarity": 0.7619,
-        "semantic": 0.946,
-        "reading": "same"
+        "similarity": 0.7619
       },
       {
         "op": "match",
         "a": "des glichen Eſaie. Ecce uirgo concipiet. &c. Vnnd von\ndem ſelbigen ſag ich/ das Chriſtus nach der menſcheyt/ nit mag genempt werden eyn eynig houpt der Chriſten\nlichen kilchen.",
         "b": "des glichenn Eſaie. Ecce uirgo concipiet/zc. Vnd von dem ſelbigẽ ſag\nich / das Chriſtus nach der menſcheyt/nitt mag\ngenempt werden ein eynig houpt der Chriſten\nlichen Kilchen.",
-        "similarity": 0.7931,
-        "semantic": 0.9568,
-        "reading": "same"
+        "similarity": 0.7931
       },
       {
         "op": "match",
         "a": "Sich hieuor\nam 66. blat. Zwingli. Iß argument darff keiner antwurt/ iſt in vnſer\nvozdrigen red klärlich verantwurt/ dz Chriſtus\nvns hie genomen wirt/",
         "b": "Zwingly. Diß Argument darff keyner antwurt / iſt in\nvnſer vordrigẽ red klaͤrlich verantwurt/ dz Chri\nſtus vns hie genomen wirdt/fuͤr den/der warer\nGott von ewigkeit har iſt/",
-        "similarity": 0.4364,
-        "semantic": 0.7271,
-        "reading": "reworded"
+        "similarity": 0.4364
       },
       {
         "op": "match",
         "a": "für den/ der warer Gott\nvon ewigkeyt har iſt/ vnnd ouch in der zyt menſch wor=\nden/ zc. Daniel Schat.",
         "b": "vnnd ouch in der zyt\nmenſch worden. k\tv\n\n## Marginalien\nSuͦch hiuor\nam 20. 21. blat.",
-        "similarity": 0.3243,
-        "semantic": 0.7837,
-        "reading": "reworded"
+        "similarity": 0.3243
       },
       {
         "op": "only_a",
@@ -125,28 +111,20 @@
         "op": "only_a",
         "a": "vñ\ndarumb iſt Chriſtus nitt eyn eynig houpt der kilchenn\nZwingly.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.672,
-        "semantic_match": "Schlußred. LXXVII\nvnnd menſch ſye / ſo blibt fuͤr vnd fuͤr der eynig\nChriſtus / das eynig houpt der Kilchen /",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7743,
-    "reworded": 2,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.5163,
+    "similarity": 0.5184,
     "words": {
-      "a": 248,
+      "a": 246,
       "b": 244
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite X Die erſt",
+        "a": "Die erſt",
         "b": "Schlußred LXXVII vnnd menſch ſye ſo blibt fu r vnd fu r der eynig Chriſtus das eynig houpt der Kilchen ob wir glich diß wort Einig vß d gſchrifft nie bewert hettend das doch volkomenlich in den Acta be ſchehen iſt Daniel Schatt Der wolgelert meyſter Vlrich Zwingly hatt geſagt am anfang diſer yetzige red das ich noch nit"
       },
       {

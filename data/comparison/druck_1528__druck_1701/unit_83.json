@@ -8,15 +8,15 @@
       90
     ]
   },
-  "alignment_score": 0.2774,
+  "alignment_score": 0.2794,
   "coarse": {
     "paragraphs": {
-      "a": 2,
+      "a": 1,
       "b": 1
     },
     "counts": {
       "equal": 0,
-      "replace": 2,
+      "replace": 1,
       "delete": 0,
       "insert": 0
     },
@@ -27,29 +27,25 @@
     "matched": 10,
     "only_a": 3,
     "only_b": 1,
-    "similarity": 0.4254,
+    "similarity": 0.4212,
     "pairs": [
       {
+        "op": "match",
+        "a": "Die erſt\nden/ ſy habend den verſtand der geſchrifft/ vnd wie hoch\ngelert / vnd wie geſchickt ſy beyd ſiend / iſt mengklichem\nkundt vnd offenbarlich /",
+        "b": "74\t\tDie Erſte Schlußred. Geſchrifft : Und wie hochgelehrt/und wie geſchickt ſy beyd\nſind / iſt månniglichem kund und offenbarlich. Soll nun\nfuͤr und fuͤr eine ſoͤlliche Zertrennung und Uneinigkeit in\nunſerem wahren Glauben erlitten werden /",
+        "similarity": 0.3871
+      },
+      {
         "op": "only_a",
-        "a": "Seite [XXV]\n\nDie erſt\nden/ ſy habend den verſtand der geſchrifft/ vnd wie hoch\ngelert / vnd wie geſchickt ſy beyd ſiend /",
+        "a": "ſoll nun für vnnd für ein ſöllich\nzertreñnung vnd vneinigkeit in vnſerm waren glouben\nerlitten werden / ſo werdent wir nitt alleyn ein glouben/",
         "b": null,
         "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "iſt mengklichem\nkundt vnd offenbarlich / ſoll nun für vnnd für ein ſöllich\nzertreñnung vnd vneinigkeit in vnſerm waren glouben\nerlitten werden /",
-        "b": "74\t\tDie Erſte Schlußred. Geſchrifft : Und wie hochgelehrt/und wie geſchickt ſy beyd\nſind / iſt månniglichem kund und offenbarlich. Soll nun\nfuͤr und fuͤr eine ſoͤlliche Zertrennung und Uneinigkeit in\nunſerem wahren Glauben erlitten werden /",
-        "similarity": 0.3729,
-        "semantic": 0.5144,
-        "reading": "different"
-      },
-      {
-        "op": "match",
-        "a": "ſo werdent wir nitt alleyn ein glouben/ ſonders vier fünff glouben in vnſer Chriſtenheit haben/ wie dañ ouch beſchehen in dem vnſålige Böhemer land\ndie ſich abgewendt vnd geſündert haben von einigkeyt\nder Chriſtenlichen Kilchen /",
+        "a": "ſonders vier fünff glouben in vnſer Chriſtenheit haben/ wie dañ ouch beſchehen in dem vnſålige Böhemer land\ndie ſich abgewendt vnd geſündert haben von einigkeyt\nder Chriſtenlichen Kilchen /",
         "b": "ſo werden wir\nnit allein ein Glauben / ſonders vier / fuͤnff Glauben in\nunſer Chriſtenheit haben/wie dann auch beſchehen in dem\nunſeligen Boͤhemerland /",
-        "similarity": 0.4333,
-        "semantic": 0.8179,
-        "reading": "reworded"
+        "similarity": 0.3774
       },
       {
         "op": "only_a",
@@ -67,65 +63,49 @@
         "op": "match",
         "a": "ein Erſame gmeind diſer loblichen ſtatt Bernn/ das ſy hoch zů hertzen faſſen wellend / wie ſchädlich/ wie\nnachteylig/ das ſye/",
         "b": "darum ich abermahls euch hoch\ngebetten und ermahnt will haben/ ein Ehrſame Gemeind\ndiſer Loblichen Statt Bern / daß ſy hoch zuͦ hertzen faſſen\nwoͤllend /",
-        "similarity": 0.4,
-        "semantic": 0.5015,
-        "reading": "different"
+        "similarity": 0.4
       },
       {
         "op": "match",
         "a": "ſich abzůſündern von eynigkeyt der\ngantzen Chriſtenlichen gmeind/ vnnd was jnen mit der\nzeyt daruß nachteyl vnd ſchad erwachſen mög /",
         "b": "wie ſchaͤdlich / wie nachtheilig das ſeye/ſich ab-\nzuͦſuͤndern von Einigkeit der gantzen Chriſtenlichen Ge-\nmeind / und was ihnen mit der Zyt daruß Nachtheil und\nSchaden erwachſen moͤg /",
-        "similarity": 0.4231,
-        "semantic": 0.6513,
-        "reading": "reworded"
+        "similarity": 0.4231
       },
       {
         "op": "match",
         "a": "wellend\nſich nit laſſen ein behånd/ ſcharpff/ liſtig geſchwåtz bewe\ngen/ dañ ye nit gnůg iſt/ wie Harri Bůtzer zů letſt an=\nzeygt hat:",
         "b": "woͤllend ſich nit laſſen ein be-\nhaͤnd / ſcharpff / liſtig Geſchwetz bewegen : Dann je nit\ngnuͤg iſt / wie Marti Butzer zuͦletzt angezeigt hat/Daß/wel-\ncher allein glaubt /",
-        "similarity": 0.4364,
-        "semantic": 0.7044,
-        "reading": "reworded"
+        "similarity": 0.4364
       },
       {
         "op": "match",
         "a": "Das/ welcher allein gloubt/ das Chriſtus vn=\nſer Herr vns ſålig gemacht/ vnd erlöſt hat/ ob er glich\nin andern jrrgieng /",
         "b": "daß Chriſtus unſer Herz uns ſelig ge-\nmacht und erloͤſt hat / ob er glych in andern irr gieng/daß\nderſelbig ſelig wurd /",
-        "similarity": 0.3636,
-        "semantic": 0.7276,
-        "reading": "reworded"
+        "similarity": 0.3636
       },
       {
         "op": "match",
         "a": "Das der ſelbig ſålig wurd/ dann nitt\ngnůg iſt das da einer eim puncten/ oder eim Artickel des\ngloubens/ ſtat vnd glouben geb/",
         "b": "dann nit gnuͤg iſt/daß da einer einem\nPuncten / oder einem Artickel deß Glaubens ſtatt und\nglauben geb / ſonders iſt vonnoͤhten /",
-        "similarity": 0.3913,
-        "semantic": 0.5041,
-        "reading": "different"
+        "similarity": 0.3913
       },
       {
         "op": "match",
         "a": "ſonders iſt von nötten/ das er die andern ouch gloub bißhår von gantzer Chri=\nſtenlicher Kilchen gloubt/ dan welcher in einem ſtuck dē\nherrn nit glouben geb/",
         "b": "daß er die andern\nauch glaub / bißhaͤr von gantzer Chriſtenlicher Kilchen\nglaubt / dann welcher in einem Stuck dem Hertzen nit\nGlauben geb /",
-        "similarity": 0.48,
-        "semantic": 0.4322,
-        "reading": "different"
+        "similarity": 0.48
       },
       {
         "op": "match",
         "a": "der eracht den herrn nit in alle ſtuck\nen warhafft/ es werind ouch vil zertrenner/ vnnd kåtzer\nder Chriſtenlichen einigkeyt/",
         "b": "der eracht den Hertzen nit in allen Stucken\nwarhafft / es waͤren auch vil Zertrenner und Kaͤtzer der\nChriſtenlichen Einigkeit /",
-        "similarity": 0.5366,
-        "semantic": 0.899,
-        "reading": "same"
+        "similarity": 0.5366
       },
       {
         "op": "match",
         "a": "die ouch nach vrteyl/ d wi=\nderparthy verdampt ſind/ die doch ſålig wåren wordē/ dann ſy ouch diſen Artickel gloubt haben.",
         "b": "die auch nach Urtheil der Wi-\nderparthey verdampt ſind/ die doch ſelig waͤren worden/ daß ſy auch diſen artickel glaubt habẽ. Jch wil aber harum\n\t\t\t\t\t\t\t\t\tnit",
-        "similarity": 0.4167,
-        "semantic": 0.5943,
-        "reading": "different"
+        "similarity": 0.4167
       },
       {
         "op": "only_a",
@@ -133,23 +113,18 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6347,
-    "reworded": 4,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.4923,
+    "similarity": 0.494,
     "words": {
-      "a": 290,
+      "a": 288,
       "b": 295
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite XXV",
+        "op": "insert",
+        "a": "",
         "b": "74"
       },
       {

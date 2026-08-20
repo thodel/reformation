@@ -8,7 +8,7 @@
       455
     ]
   },
-  "alignment_score": 0.3037,
+  "alignment_score": 0.3069,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -31,7 +31,7 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite 190\nSchlußred. CXC\nDannberger\nPaulus der heylig Apostel redt/namlichenn/das der\nhoch vnd obrest Priester/werde bitten für die sünd\nder menschen.",
+        "a": "Schlußred. CXC\nDannberger\nPaulus der heylig Apostel redt/namlichenn/das der\nhoch vnd obrest Priester/werde bitten für die sünd\nder menschen.",
         "b": null,
         "similarity": 0.0
       },
@@ -39,35 +39,25 @@
         "op": "only_a",
         "a": "Das hat ouch bezüget das alt Testa\nment/Numeri.xvj.Sañ Aaron was ein Priester des al\nten Testaments/welcher gestanden ist zwüschen den lä\nbenden vnd todten/vnd hat gebätten.zc.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.697,
-        "semantic_match": "das Abel beſſer\nſye gſin dann daß er geopffret hat: dann in ſölicher geſtalt/ wurde kein ſůndender Prieſter dörffen touffen:",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Berchtoldus Haller. DAs W. Hans anzücht/von dem gebätt Aarons/ ist alles in Christo erfüllt/wie in disem fünfften ca\npitel glych volgt:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6679,
-        "semantic_match": "Johannes Bůchſtab. ABel hat geopffret vcn den erſtgebornen ſyner Scha=\nren. Berchtoldus Haller. Der Schůlmeiſter hat geantwurtet/ Abel habe\ngeopffret. ꝛc. Bedunckt mich je/ Abel ſye beſſer",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Vnd er hat am tag sins fleischs.zc. Text verlesen. Dannberger. Jch blyb by dem Text. Berchtoldus. Jch ouch. Büchstab\nJn anfang diser Schlußred/võ hern Berchtolde\nyngefürt/hab ich noch nit gar bantwurt, Sag al=\nso:",
         "b": "Schlußred. 423\nBerchtoldus. Jch ouch. Bůchſtab. Den anfang diſer Schlußred/von Herrn Berchtol=\nden yngefůrt / hab ich noch nit gar verantwurt/",
-        "similarity": 0.4483,
-        "semantic": 0.845,
-        "reading": "reworded"
+        "similarity": 0.4483
       },
       {
         "op": "match",
         "a": "Der gegenwurff/dz der Opffrer besser sin müß/ dann das geopffret wirt/Jst one schrifft/dann niendert\nstade mit vßgetruckten worten/das Abel besser syeg sin\ndann das er geopffret hat:",
         "b": "Sag alſo: Der gegentwurff/daß der Opffrer beſſer\nſyn můß/dann das geopffret wirt/Jſt ohne Schrifft/daß\nniendert ſtadt mit vßgetruckten worten/",
-        "similarity": 0.5556,
-        "semantic": 0.838,
-        "reading": "same"
+        "similarity": 0.5556
       },
       {
         "op": "only_b",
@@ -79,17 +69,13 @@
         "op": "match",
         "a": "dann in solicher gestalt/wurde\nkein sündender priester dözffe töuffen: so doch der Touff\nbesser ist/dann der Touffer. So hat Maria die müter/",
         "b": "ſo doch der\nTouff beſſer iſt dañ der Tåuffer:So hat Maria die Můt=\nter / Chriſtum in Tempel vffgeopffret/ iſt doch nit beſſer\ngſin/dann Chriſtus.",
-        "similarity": 0.44,
-        "semantic": 0.7749,
-        "reading": "reworded"
+        "similarity": 0.44
       },
       {
         "op": "match",
         "a": "Christum in tempel vffgeopffret/ist doch nit besser gsin/ dann Christus. Berchtoldus. SEr Schülmeister herr fälicher ynred wol geradte/ dañ sy nüt wid die schlußred vermag. Jch frag in/ wz Abel geopffret hab. Bbb ij",
         "b": "Berchtoldus. Der Schůlmeiſter het ſölicher ynred wol geradten/ dann ſy nůt wider die Schlußred vermag. Jch frag\nin/was Abel geopffret hab.",
-        "similarity": 0.5263,
-        "semantic": 0.8082,
-        "reading": "same"
+        "similarity": 0.5263
       },
       {
         "op": "only_b",
@@ -97,25 +83,15 @@
         "b": "Johannes Bůchſtab. ABel hat geopffret vcn den erſtgebornen ſyner Scha=\nren. Berchtoldus Haller. Der Schůlmeiſter hat geantwurtet/ Abel habe\ngeopffret. ꝛc. Bedunckt mich je/ Abel ſye beſſer",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7718,
-    "reworded": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 2
+    ]
   },
   "fine": {
-    "similarity": 0.4812,
+    "similarity": 0.484,
     "words": {
-      "a": 206,
+      "a": 204,
       "b": 139
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite 190",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Schlußred",
@@ -337,7 +313,7 @@
         "b": "Johannes Bůchſtab ABel hat geopffret vcn den erſtgebornen ſyner Scha ren Berchtoldus Haller Der Schůlmeiſter hat geantwurtet Abel habe geopffret ꝛc Bedunckt mich je Abel ſye beſſer"
       }
     ],
-    "ops": 23,
+    "ops": 22,
     "truncated": false
   }
 }

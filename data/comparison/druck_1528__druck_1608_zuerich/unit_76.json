@@ -8,7 +8,7 @@
       99
     ]
   },
-  "alignment_score": 0.5484,
+  "alignment_score": 0.5604,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -24,10 +24,10 @@
   },
   "sentences": {
     "units": 10,
-    "matched": 5,
+    "matched": 4,
     "only_a": 0,
-    "only_b": 5,
-    "similarity": 0.6331,
+    "only_b": 6,
+    "similarity": 0.5945,
     "pairs": [
       {
         "op": "only_b",
@@ -43,43 +43,33 @@
       },
       {
         "op": "match",
-        "a": "Seite [X]\nvnd gib antwurt erstlich des spruchs halbē/ der geystlich\nricht alles/zc. Diewyl wir wüssen das vnser widerpart/",
+        "a": "vnd gib antwurt erstlich des spruchs halbē/ der geystlich\nricht alles/zc. Diewyl wir wüssen das vnser widerpart/ das vrteilen dahin zühen wil/",
         "b": "vnnd gib ant=\nwurt erſtlich deß Spruchs halben / der geiſtlich richt alles / zc. Diewil wir wüſſen das vnſer widerpart / das vrteilen\ndahin zühen wil /",
-        "similarity": 0.5455,
-        "semantic": 0.7178,
-        "reading": "same"
+        "similarity": 0.7234
       },
       {
         "op": "match",
-        "a": "das vrteilen dahin zühen wil/ das ein gmein Concilium\nmacht hab/ etwas nebend der geschrifft anzenemen/ hab\nouch erstlich der schrifft /",
+        "a": "das ein gmein Concilium\nmacht hab/ etwas nebend der geschrifft anzenemen/ hab\nouch erstlich der schrifft / Das ansehen geben / so ist Billich\ngeantwurt worden/",
         "b": "das ein gmein Concilium macht hab / et=\nwas nebend der Geſchrifft anzenemmen / hab ich ouch erſt=\nlich der Schrifft / das anſehen geben /",
-        "similarity": 0.6047,
-        "semantic": 0.8266,
-        "reading": "same"
+        "similarity": 0.6957
       },
       {
         "op": "match",
-        "a": "Das ansehen geben / so ist Billich\ngeantwurt worden/ das der geystlich die geschrifft nit ze=\nrichten hab/ das ist sins geuallens die geschrifft anzenem\nmen oder zeuerwerffen/",
+        "a": "das der geystlich die geschrifft nit ze=\nrichten hab/ das ist sins geuallens die geschrifft anzenem\nmen oder zeuerwerffen/ sonder er hats allein müssen an=\nnemen/",
         "b": "ſo iſt billich geant=\nwurt worden / daß der geiſtlich die Geſchrifft nit zerichten\nhab / das iſt ſins geuallens die Gſchrifft anzenemmen oder\nzeuertwerffen /",
-        "similarity": 0.6,
-        "semantic": 0.7996,
-        "reading": "same"
+        "similarity": 0.449
       },
       {
         "op": "match",
-        "a": "sonder er hats allein müssen an=\nnemen/ dann er åben durch den geyst sin erkantnus hatt/ durch welchen die Bibel vns geben ist /",
+        "a": "dann er åben durch den geyst sin erkantnus hatt/ durch welchen die Bibel vns geben ist / so aber min herr\nDoctor das vrteylen verston will / wie es ouch Paulus",
         "b": "ſonder er hats allein müſſen annemen / dann\ner åben durch den Geiſt ſin Erkantnuß hat / durch welchen\ndie Bibel vns geben iſt /",
-        "similarity": 0.8,
-        "semantic": 0.9071,
-        "reading": "same"
+        "similarity": 0.5098
       },
       {
-        "op": "match",
-        "a": "so aber min herr\nDoctor das vrteylen verston will / wie es ouch Paulus",
+        "op": "only_b",
+        "a": null,
         "b": "ſo aber min Herr Doctor das vr=\nteilen verſton will / wie es ouch Paulus ſelbs brucht / für\nerkennen / das die Gſchrifft das Wort Gottes für tregt /",
-        "similarity": 0.6154,
-        "semantic": 0.869,
-        "reading": "same"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -99,23 +89,18 @@
         "b": "dann wie ein jeder\ngerechter ſins eigens gloubens gelåben můß / alſo můß er\nouch die Gſchrifft / vnnd Wort Gottes für ſich ſelbs vrtei=\nlen vnnd erkennen / er were ſunſt nit Gott glöubig / deß red\nJ",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.824,
-    "reworded": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.4444,
+    "similarity": 0.447,
     "words": {
-      "a": 104,
+      "a": 102,
       "b": 247
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite X vnd",
+        "a": "vnd",
         "b": "Schlußred 65 Martinus Butzer LJeben frommen Chriſten wir haben ein handel das Wort Gottes belangend gegen minem Herm Do ctor zů gegen darumb wil ich yetzund antwurt ge ben vnnd damit die ſach kürtzert werd wil ich das wider bringen die red deß Doctors laſſen anſton vnnd"
       },
       {

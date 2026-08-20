@@ -8,7 +8,7 @@
       411
     ]
   },
-  "alignment_score": 0.36,
+  "alignment_score": 0.3699,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 12,
+    "units": 11,
     "matched": 3,
-    "only_a": 1,
+    "only_a": 0,
     "only_b": 8,
-    "similarity": 0.5182,
+    "similarity": 0.5301,
     "pairs": [
       {
         "op": "only_b",
@@ -55,36 +55,21 @@
       },
       {
         "op": "match",
-        "a": "Seite [X]\nDie fünffte\nſterthumb / deßhalb er dheins erſetzens bedarff. Zum\nvierden. Er erſchint vor dem angeſicht Gottes / vnnd\nvertrittet vnns /",
+        "a": "Die fünffte\nſterthumb / deßhalb er dheins erſetzens bedarff. Zum\nvierden. Er erſchint vor dem angeſicht Gottes / vnnd\nvertrittet vnns / darumb werden jr inn nit Repreſen=\ntatiue /",
         "b": "Er hat ein ewig\nPrieſterthumb / deßhalb er keines erſetzens bedarff. Zum\nvierten. Er erſchint vor dem Angeſicht Gottes / vnnd\nvertrittet vns /",
-        "similarity": 0.619,
-        "semantic": 0.6501,
-        "reading": "same"
+        "similarity": 0.5532
       },
       {
         "op": "match",
-        "a": "darumb werden jr inn nit Repreſen=\ntatiue / das iſt inn widerſtelliger wyß opffern. Zum\nfünfften. Er hats vollender vnd volkomen gemacht /",
+        "a": "das iſt inn widerſtelliger wyß opffern. Zum\nfünfften. Er hats vollender vnd volkomen gemacht / wz\niſt dann der yetzigen Prieſtern opffern anders /",
         "b": "darumb werden jhr jnn nit Repreſentati-\nue/das iſt in widerſtelliger wyß opfferen. Zum fünfften. Er hats vollendet vnd vollkommen gemacht/was iſt dann\nder jetzigen Prieſtern opfferen anders/dann ein Schmä-\nchen deß Opffers Chriſti.",
-        "similarity": 0.4912,
-        "semantic": 0.6568,
-        "reading": "reworded"
-      },
-      {
-        "op": "only_a",
-        "a": "wz\niſt dann der yetzigen Prieſtern opffern anders / dann eyn\nſchmächen des opffers Chriſti. Zum ſechßten. Er hatt\nein ewige erlöſung erfundē /",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8905,
-        "semantic_match": "verſtadt ein jeder daß Chriſtus nit ſoll noch\nmag geopfferet werdeͤ. Zum erſten/er iſt eineſt vffgeopffert/ vnd die Prieſter wellen jn all tag opfferen.",
-        "reading": "candidate"
+        "similarity": 0.5172
       },
       {
         "op": "match",
-        "a": "was ſeelen welle dan die prie\nſter mit den Meßen erlöſen. Zum ſibenden. Es i",
+        "a": "dann eyn\nſchmächen des opffers Chriſti. Zum ſechßten. Er hatt\nein ewige erlöſung erfundē / was ſeelen welle dan die prie\nſter mit den Meßen erlöſen. Zum ſibenden. Es i",
         "b": "Zum ſechſteͤ. Er hat ein ewige er-\nlöſung erfundeͤ / was Seelen wellen dann die Prieſter mit\nden Mäſſen erlöſen? Zum ſibenden.",
-        "similarity": 0.4444,
-        "semantic": 0.4799,
-        "reading": "different"
+        "similarity": 0.52
       },
       {
         "op": "only_b",
@@ -110,23 +95,18 @@
         "b": "dem Glouben vnd der Liebe widrig/ iſt ein grüwel vor Gott. Zum erſten alſo/das der Prieſter\nBBb ij",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6693,
-    "reworded": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.2967,
+    "similarity": 0.2985,
     "words": {
-      "a": 79,
+      "a": 77,
       "b": 258
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite X",
+        "op": "insert",
+        "a": "",
         "b": "Schlußred 379 er ouch ſälig machen kan ewencklichen"
       },
       {

@@ -8,7 +8,7 @@
       451
     ]
   },
-  "alignment_score": 0.4019,
+  "alignment_score": 0.4058,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 4,
     "only_b": 4,
-    "similarity": 0.4797,
+    "similarity": 0.4821,
     "pairs": [
       {
         "op": "only_b",
@@ -49,35 +49,27 @@
       },
       {
         "op": "match",
-        "a": "Seite [LXXXV]\nDie fünffte\nförchten vns vor den propheten noch nit. Mit sölichen\nkundtschafften bewährt er nůtz wenigers/ dann das die\nMäß ein Opffer sye.",
+        "a": "Die fünffte\nförchten vns vor den propheten noch nit. Mit sölichen\nkundtschafften bewährt er nůtz wenigers/ dann das die\nMäß ein Opffer sye.",
         "b": "Mit sölichẽ kundt\nschafften bewårt er nůts wenigers/ dan das die\nMåß nit ein opfer sye. Bůchstab. Es fröuwt mich gegen minem herr Doctor/",
-        "similarity": 0.3265,
-        "semantic": 0.4686,
-        "reading": "different"
+        "similarity": 0.3404
       },
       {
         "op": "match",
         "a": "Bůchstab\nES fröwt mich gegen minem herren Doctorn/ das er miner jugend verschonen wil/ sag jm des\nhochen danck. Der vnnützen leren halb/",
         "b": "das er miner jugend verschonen wil / sag jm des\nhochen danck . Der vnnützen leeren halb/etlich\nhundert jar erwachsen/nim ich mich nüt an :",
-        "similarity": 0.5957,
-        "semantic": 0.6651,
-        "reading": "same"
+        "similarity": 0.5957
       },
       {
         "op": "match",
         "a": "etlich\nhůdert jar erwachsen/ nim ich mich nůt an: hat\nouch keiner von mir nie gehört/ das ich keinerley mißbrů\nchen ye gelobt hab/",
         "b": "hat\nouch keiner von mir nie gehört / das ich keinerley\nmißbrüchẽ ye gelobt hab:ich hab ouch nit gesagt\ndas Joannes in Apocalipsi /",
-        "similarity": 0.5532,
-        "semantic": 0.6624,
-        "reading": "same"
+        "similarity": 0.5532
       },
       {
         "op": "match",
         "a": "jch hab ouch nit gesagt/ das Joannes\nin Apocalipsi/ von dem Opffer der Mäß geschribē hab. Jch hab aber allein die zwifaltig ynziehung der vierd=\nhalb jaren /",
         "b": "von dem opfer der\nMåß geschryben hab . Jch hab aber allein die\nzwyfaltig ynziehung der vierdthalb jaren/ inge\nfürt/damit kundtbar wurde/Joannem in Apo-\ncalipsi /",
-        "similarity": 0.4906,
-        "semantic": 0.8068,
-        "reading": "reworded"
+        "similarity": 0.4906
       },
       {
         "op": "only_a",
@@ -89,17 +81,13 @@
         "op": "match",
         "a": "Jch hab ouch noch\nnit gnůgsam verstanden/ das min herr Doctor hat ge=\nredt/ das man wol säche/ welche vff hůtt/",
         "b": "zum teyl dem Daniele sich verglychen/ der zyt halb der vierdthalb jaren. Jch hab ouch\nnoch nit gnügsam verstanden/das min herr Do\nctor hat geredt /",
-        "similarity": 0.4681,
-        "semantic": 0.5313,
-        "reading": "different"
+        "similarity": 0.4681
       },
       {
         "op": "match",
         "a": "begåre die an=\nderen zů vertryben vnnd zů töden/ des willens ich gantz\nvnd gar nit bin. Die erklärung über die wort Danielis/",
         "b": "das man wol sehe/ welche vff\nhütt / begåren die anderen zůuertryben vnnd zů\ntöden/deß willens ich gantz vñ gar nit bin .",
-        "similarity": 0.4444,
-        "semantic": 0.9013,
-        "reading": "reworded"
+        "similarity": 0.4444
       },
       {
         "op": "only_a",
@@ -125,23 +113,18 @@
         "b": "Die\nerklärung über die wort Danielis / vonn mir\nDd v",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6726,
-    "reworded": 2,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.538,
+    "similarity": 0.5403,
     "words": {
-      "a": 232,
+      "a": 230,
       "b": 229
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite LXXXV",
+        "op": "insert",
+        "a": "",
         "b": "Schlußred CCXIII welche vff hütt den tag"
       },
       {

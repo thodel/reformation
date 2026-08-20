@@ -8,7 +8,7 @@
       553
     ]
   },
-  "alignment_score": 0.4029,
+  "alignment_score": 0.4058,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -31,7 +31,7 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite CCXXXIII\nSchlußred. er spricht: Ein yeder blybe in der berüffung/ in wellicher\ner berüfft ist. Da redt Paulus võ dem vsserlichen stand\nderen so zum glouben berüfft wurden/",
+        "a": "Schlußred. er spricht: Ein yeder blybe in der berüffung/ in wellicher\ner berüfft ist. Da redt Paulus võ dem vsserlichen stand\nderen so zum glouben berüfft wurden/",
         "b": null,
         "similarity": 0.0
       },
@@ -51,17 +51,13 @@
         "op": "match",
         "a": "die Ee abschlagen. Also beschlüßt das\nArgument ouch nüt. Büchstab. Ich beuilchs der schrifft/ über das alles/ so gehand=\nlet ist.",
         "b": "Schlußred. CCLXIIII\nIch beuilchs der gſchrifft/ůber das alles ſo\ngehandlet iſt. Berchtoldus. Vnd wir ouch. Meyſter Ambroſius Blarer\nPredicant zü Coſtentz.",
-        "similarity": 0.3721,
-        "semantic": 0.4587,
-        "reading": "different"
+        "similarity": 0.3721
       },
       {
         "op": "match",
         "a": "Berchtoldus Haller. Vnd wir ouch. Meyster Ambrosius Blarer/ Predicant zů Costentz: Ieben fromen Christen/ Es haben vnser gnädig Herren von Bern\neinen ersamen Radt zů Costentz/",
         "b": "Lieben from̃en Chriſten/Es haben vnſer gnå\ndig Herren von Berñ einen Erſamen Rhadt zü\nCoſtentz/ſchrifftlich angelanget vnnd gebåtten/",
-        "similarity": 0.4681,
-        "semantic": 0.7738,
-        "reading": "reworded"
+        "similarity": 0.4681
       },
       {
         "op": "only_a",
@@ -73,9 +69,7 @@
         "op": "match",
         "a": "vnd by nach zů glücklichem end\n(Gott hab lob) geloffen ist/ züuerordnen/ Weliches minen Herren vonn\nCostentz/ jnen zů frůntlichem wolgeuallen gethan/",
         "b": "etwarn vß jren Predicanten/allhår vff diß jr\nloblich Chriſtenlich Diſputation: ſo dann yetz in\nůbung/vnd by nach zü glůcklichem end (Gott\nhab lob) geloffen iſt/zůuerordnen/Weliches mi-\nnen Herren vonn Coſtentz/jnen zü frůntlichem\nwolgefallen gethon/vnd alſo ein erbere Radts-\nbottſchafft/vnd mich mit der ſelbigen hårzůkom̃\nmen/",
-        "similarity": 0.5135,
-        "semantic": 0.8467,
-        "reading": "same"
+        "similarity": 0.5135
       },
       {
         "op": "only_a",
@@ -93,17 +87,13 @@
         "op": "match",
         "a": "Oder Jörg Nüwdorffer/ Prediger ordens zů Rodtwyl/ der durch\nmine gnedigen Herren von Bern/ sich harzůfügen/ ernstlich vnnd tring\ngenlich geforderet ist/",
         "b": "abgeuertiget haben/mit keinem ſundern\nBefelch ůtzit wider yemandt hie zůhandlen: Dann\nallein/wo Doctor Johan Egck: ſo dan vonn\nMeiſter Huldrichen Zwinglin/vnd Cůnradtẽ\nSom/Predicanten zü Vlm/minen lieben brůde\nren/oder Joͤrg Nüwdorffer/Prediger ordens zů\nRodtwyl/der durch mine gnådigen Herren võ\nBerñ/ſich hårzůfůgen/ernſtlich vnd trungelich\ngeforderet iſt/komen:",
-        "similarity": 0.4103,
-        "semantic": 0.4316,
-        "reading": "different"
+        "similarity": 0.4103
       },
       {
         "op": "match",
         "a": "komen/ wär ich willes gewesen/ jr beyder schmach\nschrifften/ Darin sy zum teyl/ mine Herren vonn Costentz/ zum teyl ouch\nmin person sonderlich/",
         "b": "wåre ich willens geweſen\njr beyder ſchmachſchrifften/darinn ſy zum teyl/ mine Herren von Coſtentz/zum teyl ouch min\nperſon ſonderlich/mit fråfel vñ der vnwarheyt/ angetaſtet haben/můntlich/vnnd vff das aller-",
-        "similarity": 0.5714,
-        "semantic": 0.9388,
-        "reading": "same"
+        "similarity": 0.5714
       },
       {
         "op": "only_a",
@@ -123,25 +113,15 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6899,
-    "reworded": 1,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.5861,
+    "similarity": 0.5885,
     "words": {
-      "a": 304,
+      "a": 302,
       "b": 184
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite CCXXXIII",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Schlußred",
@@ -443,7 +423,7 @@
         "b": ""
       }
     ],
-    "ops": 31,
+    "ops": 30,
     "truncated": false
   }
 }

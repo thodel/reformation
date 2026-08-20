@@ -8,15 +8,15 @@
       432
     ]
   },
-  "alignment_score": 0.1949,
+  "alignment_score": 0.1969,
   "coarse": {
     "paragraphs": {
-      "a": 12,
+      "a": 11,
       "b": 1
     },
     "counts": {
       "equal": 0,
-      "replace": 12,
+      "replace": 11,
       "delete": 0,
       "insert": 0
     },
@@ -31,7 +31,7 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite CCII\n\n**Schlußred**\n**Erklärung D. Johannis Ecolam-**\n**padij/des orts Danielis am iiij.**\n\nSo man aber die schrifft gruntlich ersücht/so hat\nes den verstand:",
+        "a": "**Schlußred**\n**Erklärung D. Johannis Ecolam-**\n**padij/des orts Danielis am iiij.**\n\nSo man aber die schrifft gruntlich ersücht/so hat\nes den verstand:",
         "b": null,
         "similarity": 0.0
       },
@@ -39,27 +39,19 @@
         "op": "only_a",
         "a": "Siß ist inn verschaffung der\nwächtern gesprochen/vnd im gespräch der heyli\ngen erfragt. Sie ist offenbar/dz doch kein mel=\ndung des gebätts geschächẽ ist:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.602,
-        "semantic_match": "Iſt ſömlichs\nden Todten nit abgeſchlagen / diewyl ihr auch kein heile-\nre Schrifft darum habend. Der Spruch Danielis zeigt\nuns an /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "vnd dienet diß argumẽt\njnen hiehar im grund nit: dann der Prophet wil allein sa\ngen/das das vrteyl schon über den Künig Nabuchodo=\nnosor ergangen sye.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7187,
-        "semantic_match": "dann\ner alſo lutet : Ich wil aber Flyß thůn / daß ihr allenthal-\nben habend nach mynem Ußgang / ſölichs in Gedächt-\nnus zů halten :",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "**Büchstab**\n\nAls Christus vnser einiger mittler ist/vnd vns\nläbendigẽ lert für einandren zů bitten/Jst söm\nlichs den todten nit abgeschlagẽ/diewyl jr ouch\nkein heitere schrifft darumb habend.",
         "b": "416        Die Sechſte Schlußred. Bůchſtab. DAß Chriſtus unſer einiger Mittler iſt / und uns Le-\nbendige lehrt für einandern zů bitten.",
-        "similarity": 0.44,
-        "semantic": 0.7304,
-        "reading": "reworded"
+        "similarity": 0.44
       },
       {
         "op": "only_b",
@@ -71,18 +63,13 @@
         "op": "match",
         "a": "Der spruch\nDanielis zeigt vns an/dz er sye von himel herab gestigẽ: kan nit wol vff ein läbendigenn dienen.",
         "b": "daß er ſeye vom Himmel herab geſtigen : kan\nnit wol vff einen Lebendigen dienen. Sant Petrus hat\nauch geſprochen / in der andern Epiſtel Petri am I.",
-        "similarity": 0.3043,
-        "semantic": 0.4436,
-        "reading": "different"
+        "similarity": 0.3043
       },
       {
         "op": "only_a",
         "a": "S. Petrus hat\nouch gesprochen. ij. Petri. j. Jch wird aber flyß ankeren/ das ich üch emsigklich habenach minem tod/das jr aller\ndiser dingẽ gedächtnuß thůgind.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6584,
-        "semantic_match": "Capit. Ich wird aber Flyß ankehren / daß ich euch emſiglich ha-\nbe nach mynem Tod / daß ihr aller diſer Dingen Gedächt-\nnus thůind.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -94,17 +81,13 @@
         "op": "match",
         "a": "Hie hat sich S. peter\nbegeben/mit jnen etwas zehandlen nach sinem tod. **Berchtoldus.**\n\nJch frag/Ob jr bekennind/das Christus ein gnůgsa=\nmer mittler sye.",
         "b": "Hie hat ſich Sant Peter begeben / mit ihnen\netwas zehandlen nach ſynem Tod. Berchtoldus. ICh frag / ob ihr bekennind / daß Chriſtus ein gnůg-\nſamer Mittler ſeye.",
-        "similarity": 0.6538,
-        "semantic": 0.8185,
-        "reading": "same"
+        "similarity": 0.6538
       },
       {
         "op": "match",
         "a": "**Büchstab.**\n\nJa ich bekenns. **Berchtoldus.**\n\nEs ist gnůgsam anzeigt dz Christus vnser einiger mit=\nler ist/deßhalb wir keyns andren mitlers bedörffen. Ecc ij",
         "b": "Bůchſtab. Ja ich bekenns. Berchtoldus. ES iſt gnůgſam angezeigt / daß Chriſtus unſer einiger\nMittler iſt / deßhalb wir keines andern Mittlers be-\ndörffen.",
-        "similarity": 0.6087,
-        "semantic": 0.7453,
-        "reading": "same"
+        "similarity": 0.6087
       },
       {
         "op": "only_b",
@@ -130,23 +113,18 @@
         "b": "dann wir haben nit den klůgen Fablen\ngefolget / da wir euch kund gethan die Krafft und Zů-\nkunfft unſers Herren Jeſu Chriſti. Johan-",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6738,
-    "reworded": 1,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 3
+    ]
   },
   "fine": {
-    "similarity": 0.3488,
+    "similarity": 0.3505,
     "words": {
-      "a": 205,
+      "a": 203,
       "b": 225
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite CCII",
+        "op": "insert",
+        "a": "",
         "b": "416 Die Sechſte"
       },
       {

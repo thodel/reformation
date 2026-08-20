@@ -8,7 +8,7 @@
       169
     ]
   },
-  "alignment_score": 0.3131,
+  "alignment_score": 0.316,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -31,12 +31,9 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [X]\n**Die erſt**\ner jn allen den obriſten ſtand hat. Vñ ob ich ſchon ein an=\nder houpt vnder jm bekenn/oder andre houpter vß yn=\ngefürter gſchrifft:",
+        "a": "**Die erſt**\ner jn allen den obriſten ſtand hat. Vñ ob ich ſchon ein an=\nder houpt vnder jm bekenn/oder andre houpter vß yn=\ngefürter gſchrifft:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7837,
-        "semantic_match": "Berchtoldus. Alle yngefuͤrte schrifft/sagen nun von die=\nnern der gmeind gottes/ wie vß vil gschrifften/ nun offt bewaͤret/wie dañ ouch Bischoff/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -48,27 +45,19 @@
         "op": "only_a",
         "a": "Diewyl nun Chri\nſtus ouch ein houpt genempt/wirt darumb ſin eer nit ge\nmindert/ob ſchon meiſter Frantz vnd Berchtoldus/Bi=\nſchoff heyſſen.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6503,
-        "semantic_match": "Berchtoldus. Alle yngefuͤrte schrifft/sagen nun von die=\nnern der gmeind gottes/ wie vß vil gschrifften/ nun offt bewaͤret/wie dañ ouch Bischoff/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Alſo mein ich ouch der houptern halb/nach\nminem verſtand ſye es ouch alſo. **Berchtoldus.**\n[E]S iſt nun ſo offt geſagt/das ein houpt der Kil=\nchen ſin/ſye ſy läbendig vnd heyl machen.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7927,
-        "semantic_match": "Houpt zesin vordert mer dañ ein waͤchter/oder\nhirt zesin: Die Kilch ist ein lyb/darũb hat sy ouch\nnun ein houpt/Christum/ der ouch nitt schlaͤcht",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "So dz\nnun Chriſtus allein vermag vnd kein creatur/ vnd doch vnſer gegenteyl alles verſücht/das ſy näbend\nChriſto ein ander houpt der Kilchen gebend/vnd wellen\ndoch geſchenn ſin/als die ſo die eer Gottes ouch ſüchend.",
         "b": "Schlußred. LXXII\ntur/vnd doch vnser gegenteyl alles versuͤcht/dz\nsy naͤbend Christo ein ander houpt der Kilchenn\ngebend/vnnd wellend doch gesechen sin/als die\nso die eer gottes ouch suͤchend.",
-        "similarity": 0.5753,
-        "semantic": 0.6421,
-        "reading": "same"
+        "similarity": 0.5753
       },
       {
         "op": "only_b",
@@ -80,25 +69,19 @@
         "op": "match",
         "a": "Hab ich hierüber nit dem Senger zü ſchmaach/ſonders\nder warheit zü güt/das vrteyl der Chriſten angerüfft. **Senger.**\n[D]Er ſprüchen halb/von mir anzogen/vß der ge\nſchrifft/der Oberkeyt halb/hat herr Berchtold\nmir geantwurt/Sy dienen allein vff die welt=\nlich oberkeyt/mein ich nein:",
         "b": "Senger. Der spruͤchen halb/von mir anzogen/vß der\ngschrifft/der Oberkeit halb/hat herr Berchtold\nmir geantwurt: Sy dienind allein vff die welt=\nlich oberkeit/Mein ich neyn:",
-        "similarity": 0.5823,
-        "semantic": 0.8908,
-        "reading": "same"
+        "similarity": 0.5823
       },
       {
         "op": "match",
         "a": "dann Paulus zun Hebre. am letſten cap. gar heyter von den fürgeſetzten redt/die\ndas wort Gottes verkündẽ/durch den ſpruch in den Ge\nſchichten der pij.botten.",
         "b": "Dann Paulus zun\nHebreern am letsten ca. gar heyter von den fuͤr=\ngesetzten redt/die das wort Gottes verkuͤnden.",
-        "similarity": 0.5714,
-        "semantic": 0.9258,
-        "reading": "same"
+        "similarity": 0.5714
       },
       {
         "op": "match",
         "a": "am xx. ca. durch mich anzogen: Darumb laß ich mich vff den Chriſtenlichen läſer. Berch:",
         "b": "Ouch den spruch in den Gschichten der xij. bot\nten/am xx. cap.durch mich anzogen. Darumb\nlaß ich mich vff den Christenlichen laͤser.",
-        "similarity": 0.6,
-        "semantic": 0.751,
-        "reading": "same"
+        "similarity": 0.6
       },
       {
         "op": "only_b",
@@ -124,23 +107,18 @@
         "b": "Houpt zesin vordert mer dañ ein waͤchter/oder\nhirt zesin: Die Kilch ist ein lyb/darũb hat sy ouch\nnun ein houpt/Christum/ der ouch nitt schlaͤcht",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7766,
-    "reworded": 0,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 3
+    ]
   },
   "fine": {
-    "similarity": 0.3614,
+    "similarity": 0.3629,
     "words": {
-      "a": 245,
+      "a": 243,
       "b": 242
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite X Die erſt er jn allen den obriſten ſtand hat Vñ ob ich ſchon ein an der houpt vnder jm bekenn oder andre houpter vß yn gefürter gſchrifft dann üwere parthy als Zwingli vff geſter offentlich bekennt vnd verjehen hat das meiſter Frantz vñ Berchtoldus Haller wol mögen hiezü Bern für zween Biſchoff genempt werden Diewyl nun Chri ſtus ouch ein houpt genempt wirt darumb ſin eer nit ge mindert ob ſchon meiſter Frantz vnd Berchtoldus Bi ſchoff heyſſen Alſo mein ich ouch der houptern halb nach minem verſtand ſye es ouch alſo Berchtoldus E S iſt nun ſo offt geſagt das ein houpt der Kil chen ſin ſye ſy läbendig vnd heyl machen So dz nun Chriſtus allein vermag vnd kein creatur",
+        "a": "Die erſt er jn allen den obriſten ſtand hat Vñ ob ich ſchon ein an der houpt vnder jm bekenn oder andre houpter vß yn gefürter gſchrifft dann üwere parthy als Zwingli vff geſter offentlich bekennt vnd verjehen hat das meiſter Frantz vñ Berchtoldus Haller wol mögen hiezü Bern für zween Biſchoff genempt werden Diewyl nun Chri ſtus ouch ein houpt genempt wirt darumb ſin eer nit ge mindert ob ſchon meiſter Frantz vnd Berchtoldus Bi ſchoff heyſſen Alſo mein ich ouch der houptern halb nach minem verſtand ſye es ouch alſo Berchtoldus E S iſt nun ſo offt geſagt das ein houpt der Kil chen ſin ſye ſy läbendig vnd heyl machen So dz nun Chriſtus allein vermag vnd kein creatur",
         "b": "Schlußred LXXII tur"
       },
       {

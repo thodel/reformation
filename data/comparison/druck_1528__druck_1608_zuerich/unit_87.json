@@ -8,7 +8,7 @@
       112
     ]
   },
-  "alignment_score": 0.4508,
+  "alignment_score": 0.4545,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -23,105 +23,89 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 13,
-    "matched": 8,
-    "only_a": 3,
-    "only_b": 2,
-    "similarity": 0.5572,
+    "units": 14,
+    "matched": 7,
+    "only_a": 4,
+    "only_b": 3,
+    "similarity": 0.5392,
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [XXXVI]\n**Schlußred. XXXVI**\nouch keiner wie hoch gelert er sye / schuldig vnd pflichtig\nsye / alle Artickel vnd alle stuck /",
+        "a": "**Schlußred. XXXVI**\nouch keiner wie hoch gelert er sye / schuldig vnd pflichtig\nsye / alle Artickel vnd alle stuck / vnd alle gschrifft zeuer=\nston vnd zeglouben /",
         "b": null,
         "similarity": 0.0
       },
       {
         "op": "only_a",
-        "a": "vnd alle gschrifft zeuer=\nston vnd zeglouben / vßtrucklich. Es ist aber gnůg dem\neinfältigen das er gloubt mitt gemeyner Christenlicher\nKilchen /",
+        "a": "vßtrucklich. Es ist aber gnůg dem\neinfältigen das er gloubt mitt gemeyner Christenlicher\nKilchen / dero S herr zůgeseyt hat / sinen geist biß zů end\nder welt.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6242,
-        "semantic_match": "78                  Die erſt\n        Am zaͤchenden tag Jenners. Martinus Bucerus. DIe gnad deß Herren ſig mit vns allen / Amen. Die-\nwyl ich geſter zuͦ einem beſchluß /",
-        "reading": "candidate"
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "**Am zåchenden tag Jenners.**\n**Martinus Bucerus.**\nDE gnåd des herrn / sig mit vns alle / Amen. Sie\nwylich gester zů einem beschluß gott dem herrn\ndancket hab /",
+        "b": "78                  Die erſt\n        Am zaͤchenden tag Jenners. Martinus Bucerus. DIe gnad deß Herren ſig mit vns allen / Amen. Die-\nwyl ich geſter zuͦ einem beſchluß /",
+        "similarity": 0.5385
       },
       {
         "op": "only_a",
-        "a": "dero S herr zůgeseyt hat / sinen geist biß zů end\nder welt. **Am zåchenden tag Jenners.**\n**Martinus Bucerus.**\nDE gnåd des herrn /",
+        "a": "das vnsere widerpart / so schrifft=\nloß gehört ist / vnnd ermanet yetz wider zekomen / vnsere\nantwurt zeuernemen / vnd sich aber des der Doctor be=\nschwärt hat /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7607,
-        "semantic_match": "78                  Die erſt\n        Am zaͤchenden tag Jenners. Martinus Bucerus. DIe gnad deß Herren ſig mit vns allen / Amen. Die-\nwyl ich geſter zuͦ einem beſchluß /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "78                  Die erſt\n        Am zaͤchenden tag Jenners. Martinus Bucerus. DIe gnad deß Herren ſig mit vns allen / Amen. Die-\nwyl ich geſter zuͦ einem beſchluß /",
+        "b": "Gott dem Herren\ndancket hab / das vnſere Widerpaͤrt / ſo ſchriffteloß\ngehoͤrt iſt / vnd ermanet jetz wider zekom̃en /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "vnſere ant-\nwurt zeuernem̃en/vnd ſich aber deß der Doctor beſchwaͤrd\nhat / ſo wil ich hie dieſelbig red in Gſchrifft verfaſſet/",
         "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "sig mit vns alle / Amen. Sie\nwylich gester zů einem beschluß gott dem herrn\ndancket hab / das vnsere widerpart / so schrifft=\nloß gehört ist /",
-        "b": "Gott dem Herren\ndancket hab / das vnſere Widerpaͤrt / ſo ſchriffteloß\ngehoͤrt iſt / vnd ermanet jetz wider zekom̃en /",
-        "similarity": 0.3636,
-        "semantic": 0.8945,
-        "reading": "reworded"
-      },
-      {
-        "op": "match",
-        "a": "vnnd ermanet yetz wider zekomen / vnsere\nantwurt zeuernemen / vnd sich aber des der Doctor be=\nschwärt hat / so wil ich die die selbig red in gschrifft ver=\nfasset /",
-        "b": "vnſere ant-\nwurt zeuernem̃en/vnd ſich aber deß der Doctor beſchwaͤrd\nhat / ſo wil ich hie dieſelbig red in Gſchrifft verfaſſet/",
-        "similarity": 0.5098,
-        "semantic": 0.7653,
-        "reading": "same"
-      },
-      {
-        "op": "match",
-        "a": "den Notarien nach miner gnedigen herrn ordnůg\ninlegen / lutter also / zc. Dem allmechtigen Gott sye lob\nvnd danck / fromen Christen /",
+        "a": "so wil ich die die selbig red in gschrifft ver=\nfasset / den Notarien nach miner gnedigen herrn ordnůg\ninlegen / lutter also /",
         "b": "den\nNotarien nach miner Gnedigen Herrn Ordnūg inlegen/ lutet alſo/etc. Dem Allmechtigen Gott ſye lob vnd danck/ frommen Chriſten/",
-        "similarity": 0.85,
-        "semantic": 0.9503,
-        "reading": "same"
+        "similarity": 0.439
+      },
+      {
+        "op": "only_a",
+        "a": "zc. Dem allmechtigen Gott sye lob\nvnd danck / fromen Christen / das er sin warheit by vns\nso herlich beschirmet / vnd geben hat /",
+        "b": null,
+        "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "das er sin warheit by vns\nso herlich beschirmet / vnd geben hat / das diser so hochge=\nleerter Doctor / in siner wider vnns /",
+        "a": "das diser so hochge=\nleerter Doctor / in siner wider vnns / so langer red eynig\nschrifft nit fůrbracht hat / sonder allein vß fälen vñ men=\nglen der menschen /",
         "b": "das er ſin Warheit by vns ſo herlich be-\nſchirmet/vnd geben hat/ das diſer ſo hochgeleerter Doctor/ in ſiner wider vns/ſo langer red einig Schrifft nit fuͤrbracht\nhat/ſonder allein vß faͤlen vnd mengleͤn der Menſchen /",
-        "similarity": 0.5714,
-        "semantic": 0.9311,
-        "reading": "same"
+        "similarity": 0.5294
       },
       {
         "op": "match",
-        "a": "so langer red eynig\nschrifft nit fůrbracht hat / sonder allein vß fälen vñ men=\nglen der menschen / wider miner gnedigē herrn Mandat\nbegert vns dem einfaltigen zůhörer verdacht zů machē\nso mit gschrifft võ gewalt der Kilchen hie sölte gehan=\ndelt werdē /",
+        "a": "wider miner gnedigē herrn Mandat\nbegert vns dem einfaltigen zůhörer verdacht zů machē\nso mit gschrifft võ gewalt der Kilchen hie sölte gehan=\ndelt werdē /",
         "b": "wi-\nder miner Gnedigen Herren Mandat/ begert vns dem ein-\nfaltigen Zuͦhoͤrer verdacht zuͦ machen / ſo mit Gſchrifft von\nGewalt der Kilchen hie ſoͤlte gehandelt werdeͤ/",
-        "similarity": 0.4507,
-        "semantic": 0.6095,
-        "reading": "reworded"
+        "similarity": 0.5556
       },
       {
         "op": "match",
         "a": "liebe fromen Christen / laßt üch nit jrren vñ\nbekümbern / hie nach wider vnser antwurt daruff zeuer\nnemen werdt jr hören /",
         "b": "lieben from-\nmen Chriſten/laßt uͤch nit jrren vnd bekuͤmbern / hie nach\nwider vnſer antwurt daruff zeuernem̃en werdt jr hoͤren/",
-        "similarity": 0.5455,
-        "semantic": 0.9167,
-        "reading": "same"
+        "similarity": 0.5455
       },
       {
         "op": "match",
         "a": "wie gschrifft vnnd warheit bloß\nsyeder Bäpstlich huff / vñ bitt ouch vff dz aller flyssigost\nden Doctor / er wellenit abtretten /",
         "b": "wie Gſchrifft vnnd Warheit bloͤß ſye der Baͤpſtlich huͦff/ vnd ouch vff das aller flyſſigoſt den Doctor /",
-        "similarity": 0.5,
-        "semantic": 0.9192,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "match",
         "a": "dan sin red gestellet\nist / als ob er vns den angel lassen welle. Demnach zůueråtwurtē / des Prouincials jnred / Bezüg",
         "b": "er welle nit\nabtretten/dann ſin red geſtellet iſt/ als ob er vns den Angel\nlaſſen welle. Demnach zuͤuerantwurten /",
-        "similarity": 0.6667,
-        "semantic": 0.8411,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "only_b",
@@ -129,23 +113,18 @@
         "b": "deß Prouincials inred/ bezuͤg ich mich vff diß mal / wellen vff ſine vngeſchrifftlich\n                                        gegens",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.8213,
-    "reworded": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 2
+    ]
   },
   "fine": {
-    "similarity": 0.5524,
+    "similarity": 0.5547,
     "words": {
-      "a": 258,
+      "a": 256,
       "b": 238
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite XXXVI Schlußred XXXVI ouch keiner wie hoch gelert er sye schuldig vnd pflichtig sye alle Artickel vnd alle stuck vnd alle gschrifft zeuer ston vnd zeglouben vßtrucklich Es ist aber gnůg dem einfältigen das er gloubt mitt gemeyner Christenlicher Kilchen dero S herr zůgeseyt hat sinen geist biß zů end der welt",
+        "a": "Schlußred XXXVI ouch keiner wie hoch gelert er sye schuldig vnd pflichtig sye alle Artickel vnd alle stuck vnd alle gschrifft zeuer ston vnd zeglouben vßtrucklich Es ist aber gnůg dem einfältigen das er gloubt mitt gemeyner Christenlicher Kilchen dero S herr zůgeseyt hat sinen geist biß zů end der welt",
         "b": "78 Die erſt"
       },
       {

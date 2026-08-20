@@ -8,7 +8,7 @@
       530
     ]
   },
-  "alignment_score": 0.2963,
+  "alignment_score": 0.3077,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -27,7 +27,7 @@
     "matched": 1,
     "only_a": 2,
     "only_b": 8,
-    "similarity": 0.5778,
+    "similarity": 0.6047,
     "pairs": [
       {
         "op": "only_b",
@@ -73,29 +73,21 @@
       },
       {
         "op": "match",
-        "a": "Seite CCXXII\nSchlußred. CCXXII\nBerchtoldus Haller. ES iſt gnuͤgſam erkleͤrt/im anfang dißer ſchluß-\nred. Das welcher gloubt in Chriſtum Jeſum/",
+        "a": "Schlußred. CCXXII\nBerchtoldus Haller. ES iſt gnuͤgſam erkleͤrt/im anfang dißer ſchluß-\nred. Das welcher gloubt in Chriſtum Jeſum/",
         "b": "ES iſt gnuͦgſam erklaͤrt / im anfang diſer Schlußred / Das welcher gloubt in Chriſtum Jeſum / werde nit\nkommen in das Gericht /",
-        "similarity": 0.5778,
-        "semantic": 0.6868,
-        "reading": "same"
+        "similarity": 0.6047
       },
       {
         "op": "only_a",
         "a": "werden nitt kommen in das gericht/ ſonder vom\ntod zum laͤben hindurch tringen. Johannis v. By den\nklaren worten Pauli/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6822,
-        "semantic_match": "Berchtoldus. EIn lange red / one Schrifft harin gefuͤrt / bedarff kei-\nner antwurt. Paulus verbuͤt zun Theſſalonicenſern / ein vngloͤubig truren /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "laſſen wir es belyben. Sich hienos\nam 208. blat. Buͦchſtab. WJe ich das vormals verantwurt hab/darby",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.612,
-        "semantic_match": "ſonder vom Tod zum Låben\n                                        hine\n\n## Marginalien\nSuͦch\nhievor\nam 465. vnd 466\nblat.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -103,23 +95,18 @@
         "b": "ſonder vom Tod zum Låben\n                                        hine\n\n## Marginalien\nSuͦch\nhievor\nam 465. vnd 466\nblat.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6603,
-    "reworded": 0,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 2
+    ]
   },
   "fine": {
-    "similarity": 0.1946,
+    "similarity": 0.1961,
     "words": {
-      "a": 62,
+      "a": 60,
       "b": 195
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite CCXXII Schlußred CCXXII",
+        "a": "Schlußred CCXXII",
         "b": "496 Die ſibend die vrſtende deß Lybs vnd verbu tet nit das man fu r die Abgeſtorbnen nit ſo lle båtten Berchtoldus EIn lange red one Schrifft harin gefu rt bedarff kei ner antwurt Paulus verbu t zun Theſſalonicenſern ein vnglo ubig truren deren die kein hoffnung haben deß ku nfftigen Låbens Diewyl aber wir glouben das Chriſtus vom Tod erſtanden iſt vnd wir in Chriſto wer den vfferſton vnd alſo by dem Herren ſyn allezyt ſo ſo llen wir vns mit diſen worten vndereinanderen tro ſten wie Chriſtenliche liebe vordert ſo veer das wir nit in vnglou ben fallen vnd iſt darumb nit wider die Exempel durch den Schu lmeiſter angezogen Bu chſtab DIe Hoffnung von dero Paulus hie ſagt iſt denen ſo im Fågfu r ſind nit abgeſchlagen vnd iſt Herr Berchtolden yngefu rte red gar nu t wider mich dann wir hoffnung haben darumb wir fu r ſy bitten ſy ſyen der Vſſerwelten"
       },
       {

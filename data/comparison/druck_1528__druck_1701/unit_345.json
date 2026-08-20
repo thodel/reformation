@@ -8,7 +8,7 @@
       359
     ]
   },
-  "alignment_score": 0.3498,
+  "alignment_score": 0.3529,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -31,29 +31,21 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [X]\nDie vierdt\ngebietenden herren von Bernn/vnd die andren all’vor/ hab ich mich nach ordnung vnnd satzung/der gemeynen\nChristenlichen Kilchen/biß har lang zyt gehaltenn:",
+        "a": "Die vierdt\ngebietenden herren von Bernn/vnd die andren all’vor/ hab ich mich nach ordnung vnnd satzung/der gemeynen\nChristenlichen Kilchen/biß har lang zyt gehaltenn:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6333,
-        "semantic_match": "welchen Lyb er ihnen geben hat / der ihnen das empfohlen hat / ſprechende : Thuͦnds\nin myner Gedaͤchtnus / Den Lyb der gelitten hat /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "bin\ndes sinns/so wyt ich mit dem wott gottes nit wyters be-\nricht wirt/von bemelter Christenlicher Kilchen nit ze-\nstaan.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7513,
-        "semantic_match": "Den\nLyb / der ze Himmel gefahren iſt. Uu iij Wal-",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "So er aber mir die Kilchen vßleyt/nempt sy die\nBäpstlich Kilchen.zc. Frag ich jnn/wo die sye gesin/vor\nviertzig/fünfftzig/oder hundertt jaren/so doch sin leer vñ\nmeinũg/wie er sy yetz ein lange zyt im bruch hat gehan/",
         "b": "Die Vierdte Schlußred. 343\n\nvßlegt / nennet sy die Baͤpstlich Kilchen / ꝛc. frag ich ihn / wo die ſeye gſyn vor viertzig/fünfftzig oder hundert Jah-\nren /",
-        "similarity": 0.3478,
-        "semantic": 0.6333,
-        "reading": "reworded"
+        "similarity": 0.3478
       },
       {
         "op": "only_b",
@@ -65,17 +57,13 @@
         "op": "match",
         "a": "so by der gemeinen Christenlichen Kilchen nit ist gehal-\nten. Waltherus Clarer\n[D]Jewyl der pfarrer vonn Appenzell sich vor=\nmals allweg/vnd yetz ouch/des verstands der\nwortt Christi/Das ist min lyb/berümpt hat/",
         "b": "Waltherus Clarer. DEwyl der Pfarrer von Appenzell ſich vormahls\nallweg / und jetzt auch/ deß Verſtands der Worten\nChriſti / Das iſt myn Lyb /",
-        "similarity": 0.4483,
-        "semantic": 0.8647,
-        "reading": "reworded"
+        "similarity": 0.4483
       },
       {
         "op": "match",
         "a": "namlich/das vßtz krafft derselbigen/das brot/ in den lyb/vnnd der wyn in das blůt Christi verwandlet\nwerde/So ist klar/das er solichs vß dem grund zůcht/",
         "b": "berühmt hat / namlich daß\nvß Krafft derſelbigen das Brodt in den Lyb / und der\nWyn in das Bluͤt Chriſti verwandlet werde /",
-        "similarity": 0.549,
-        "semantic": 0.7325,
-        "reading": "same"
+        "similarity": 0.549
       },
       {
         "op": "only_b",
@@ -87,9 +75,7 @@
         "op": "match",
         "a": "das Christus soliche wort geredt/vnnd denen die krafft\nverlassen hab. Also welcher der nachkomen/die über dz\nBrot spricht/müsse die zal der wortenn/vnnd den ver=\nstand Christi/by der hand behalten/sunst möchte er der\npfarrer/dhein grund anzeygenn solcher krafft/die er den\nwortenn zůgeben wil.",
         "b": "Alſo\nwelcher der nachkommen / die uͤber das Brodt ſpricht / müſſe die Zahl der Worten / und den Verſtand Chriſti\nby der Hand behalten /",
-        "similarity": 0.3836,
-        "semantic": 0.8372,
-        "reading": "reworded"
+        "similarity": 0.3836
       },
       {
         "op": "only_b",
@@ -101,9 +87,7 @@
         "op": "match",
         "a": "Vff das/so er des sinns ist/so frag\nich jnn/ob er in obbemelten worten/Das ist min lyb/so er\nsy über die offleten oder über das brot spricht/den tödt=\nlichen oder sterblichen lyb: oder den vntödtlichen clarifi=\ncierten lyb Christi/verstande. Pfarrer",
         "b": "ſo er deß Sinnes iſt / ſo frag ich ihn/ ob er in obbemeldten Worten / Das iſt myn Lyb / ſo er\nſy uͤber die Offleten oder uͤber das Brodt ſpricht /",
-        "similarity": 0.5455,
-        "semantic": 0.8528,
-        "reading": "same"
+        "similarity": 0.5455
       },
       {
         "op": "only_b",
@@ -123,25 +107,15 @@
         "b": "Den\nLyb / der ze Himmel gefahren iſt. Uu iij Wal-",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7579,
-    "reworded": 3,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 2
+    ]
   },
   "fine": {
-    "similarity": 0.5089,
+    "similarity": 0.511,
     "words": {
-      "a": 255,
+      "a": 253,
       "b": 248
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite X",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Die",
@@ -623,7 +597,7 @@
         "b": "von Appenzell WEiſt der wol welchen Lyb er ihnen geben hat der ihnen das empfohlen hat ſprechende Thu nds in myner Geda chtnus Den Lyb der gelitten hat Den Lyb der ze Himmel gefahren iſt Uu iij Wal"
       }
     ],
-    "ops": 49,
+    "ops": 48,
     "truncated": false
   }
 }

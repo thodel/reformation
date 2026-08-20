@@ -8,7 +8,7 @@
       361
     ]
   },
-  "alignment_score": 0.3529,
+  "alignment_score": 0.3582,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -31,36 +31,27 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite LXXII\nDie vierde\nWalterus klarer. IR dörffen mich nit fragen/ gebend antwurt vff\nmin Sylogismum / ob der lychnam Chriſti ly=\nplich vnd empfindelich geſſen werde.",
+        "a": "Die vierde\nWalterus klarer. IR dörffen mich nit fragen/ gebend antwurt vff\nmin Sylogismum / ob der lychnam Chriſti ly=\nplich vnd empfindelich geſſen werde.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6617,
-        "semantic_match": "dem\ngedachten Pfarrer perſoͤnlich widerſtand zethuͤn / in allen Artick-\nlen der Schlußreden / waͤr unſers groſſen Willens gſyn /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Pfarrer von Appenzell. SO er mich fragt/ ob der lyb Chriſti da lyplich vñ\nempfindelich geeſſen werd / ſprich ich neyn /",
         "b": "Die Vierdte Schlußred. 345\n–––––––––––––––––––––––––––––––––––\nPfarrer von Appenzell. SO er mich fragt / ob der Lyb Chriſti da lyblich und\nempfindelich geeſſen werd /",
-        "similarity": 0.7317,
-        "semantic": 0.677,
-        "reading": "same"
+        "similarity": 0.7317
       },
       {
         "op": "match",
         "a": "ſon=\nders die geſtalt / vnder welcher er wäſenlich mit\nfleyſch vñ mitt blůt iſt / vñ ds hab ich gnůgſam darthan\nReferier mich widerumb vff min dargelegte gſchrifft.",
         "b": "ſprich ich nein / ſonders\ndie geſtalt / under welcher er weſentlich mit Fleiſch und\nBlůt iſt / und das hab ich gnůgſam darthan /",
-        "similarity": 0.5,
-        "semantic": 0.6519,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "match",
         "a": "Walterus klarer. WJrt er nit empfindelich geeſſen / ſo iſt er nit im Sa=\ncrament. Pfarrer von Appenzell. REferier mich ad Acta /",
         "b": "Referier\nmich widerum uff myn da gelegte Geſchrifft. Waltherus Clarer. WIrd er nit empfindtlich geeſſen / ſo iſt er nit im Sa-\ncrament.",
-        "similarity": 0.4651,
-        "semantic": 0.5912,
-        "reading": "different"
+        "similarity": 0.4651
       },
       {
         "op": "only_b",
@@ -72,17 +63,13 @@
         "op": "match",
         "a": "wie ichs vorbeschloſſen hab / alſo ouch hie. Walterus klar. Ich ouch. Pelagius am Steyn Predicant zů\nTrogen Waltherus Klarer Pfarrer zů\nHundwyl all von Appenzell.",
         "b": "Predicant zů Tro-\ngen / Waltherus Clarer / Pfarrer zu\nHundwyl / all von Appenzell. EHrwuͤrdig / Hoch-und Wolgelehrt / Fůrſichtig / Wyß Her-\nren /",
-        "similarity": 0.3913,
-        "semantic": 0.7651,
-        "reading": "reworded"
+        "similarity": 0.3913
       },
       {
         "op": "match",
         "a": "EWirdig / hoch vnd wolgelert / fürſichtig / wyß\nHerrn fromē Chriſtē / diewyl der Pfarrer vonn Appēzell\nvnſer mittgnoß / ſich bißhar wider all ſchlußredē ingelaſſē\nvnd die ſelbē ze widerfechtē vndernomē hat: dem gedachtē\nten Pfarrer",
         "b": "Fromme Chriſten: Diewyl der Pfarrer von Appen-\nzell / unſer Mitgenoß ſich bißhar wider alle Schlußreden\nyngelaſſen/ und dieſelben zewiderfechten undernomen hat:",
-        "similarity": 0.3333,
-        "semantic": 0.6027,
-        "reading": "reworded"
+        "similarity": 0.3333
       },
       {
         "op": "only_b",
@@ -102,25 +89,15 @@
         "b": "ſamt andern Gelehrten / ſoͤlichs bißhar gnůgſamlicher und ge-\nſchicklicher dargethan / dann wir koͤnnen håtten / geben wir ih-\nnen die Ehr gern / und laſſinds gern alſo by demſelben blyben. Wie",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6583,
-    "reworded": 2,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.4525,
+    "similarity": 0.4551,
     "words": {
-      "a": 152,
+      "a": 150,
       "b": 206
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite LXXII",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Die",
@@ -362,7 +339,7 @@
         "b": "perſo nlich widerſtand zethu n in allen Artick len der Schlußreden wa r unſers groſſen Willens gſyn und yhm ſyn vermeynt Gegenwůrff mit hållem klarem Wort Got tes abzeleinen oder umzeſtoſſen diewyl aber unſere liebe Her ren und Brůder Predicanten dieſer loblichen Statt Bern ſamt andern Gelehrten ſo lichs bißhar gnůgſamlicher und ge ſchicklicher dargethan dann wir ko nnen håtten geben wir ih nen die Ehr gern und laſſinds gern alſo by demſelben blyben Wie"
       }
     ],
-    "ops": 25,
+    "ops": 24,
     "truncated": false
   }
 }

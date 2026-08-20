@@ -8,7 +8,7 @@
       184
     ]
   },
-  "alignment_score": 0.2717,
+  "alignment_score": 0.2749,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 5,
     "only_b": 3,
-    "similarity": 0.5754,
+    "similarity": 0.5831,
     "pairs": [
       {
         "op": "only_b",
@@ -49,62 +49,45 @@
       },
       {
         "op": "match",
-        "a": "Seite LXX\nSchlußred+ LXX\nHerren/ so er hat gesprochen: Bestätige dine brüder. Berchtoldus+\nMyses vnd Aaron beid/ sind gsin ein figur des ey\nnigen Christi/",
+        "a": "Schlußred+ LXX\nHerren/ so er hat gesprochen: Bestätige dine brüder. Berchtoldus+\nMyses vnd Aaron beid/ sind gsin ein figur des ey\nnigen Christi/",
         "b": "ſo er hat geſprochen: Beſtä-\ntige dine brüder. Berchtoldus. Moyſes vnd Aaron beyd/ſind gſin ein figur\ndes einigen Chriſti/",
-        "similarity": 0.6667,
-        "semantic": 0.8048,
-        "reading": "same"
+        "similarity": 0.6977
       },
       {
         "op": "match",
         "a": "zun Hebreern am iij. v. vnd vi. Capitel. Sannanhin der spruch vß Luca/ ist Sůch hieuor\nvor dryen tagen verantwurtet/",
         "b": "zun Hebreern am iij. v. vñ\nvj. capitel. Dannenhin der ſpruch vß Luca/ iſt\nvor dryen tagen verantwurtet/ ich laß mich an\ndie Acta.",
-        "similarity": 0.7273,
-        "semantic": 0.7893,
-        "reading": "same"
+        "similarity": 0.7273
       },
       {
         "op": "match",
         "a": "ich laß mich an am 14. blatt. die Acta. Gilg Durer\nMIr ist noch nitt gnůg beschehen/ vnnd wils darby\nlassen blyben/",
         "b": "Gilg Murer. Mir iſt noch nit gnůg geſchehen/vnnd wils\ndarby laſſen blyben/ Jch befilch min teyl der ge\nſchrifft.",
-        "similarity": 0.4762,
-        "semantic": 0.8198,
-        "reading": "reworded"
+        "similarity": 0.4762
       },
       {
         "op": "match",
         "a": "ich befilch min teyl der geschrifft. Meister Jacob Edlibach+\nAlso Herr Berchtold in der antwurt (Meyster\nNiclaus von Zofingenn geredt hat/",
         "b": "M. Jacob Edlebach. Als herr Berchtold in der antwurt Meiſter\nNiclaus von Zofingenn geredt hat/ Chriſtum\nnennen ein yngelybet houpt der Kilchen ſye ein\njrthum/ ## Marginalien\nHieuor am\n14. blat.",
-        "similarity": 0.4314,
-        "semantic": 0.8459,
-        "reading": "reworded"
+        "similarity": 0.4314
       },
       {
         "op": "only_a",
         "a": "Christum\nneñen ein yngelybet houpt der Kilchen/ sye eyn\nyrthumb/ welches ich nun ouch geredt hab/ dar=\numb es mir zů verantwurten stadt.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8681,
-        "semantic_match": "Die erſt\n\nMoyſes ein obreſter gſin der Synagog/gegen\nGott dem allmechtigen/ Alſo ouch Chriſtus dz\nobreſt houpt iſt der gantzen Chriſtenheit/in de-\nnen dingen die da gegen Gott werden verhand\nlet:namlich da er geſprochen hat/Er welle für jn\nbittẽ/dz ſin gloub nit vſhöre.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Sprich ich/ Chri=\nstum ein yngelybet houpt sin/ ist kein yrthumb/ so es nit\nvß halls vßgeleyt wuͤrdt/ sonder Christenlich/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8572,
-        "semantic_match": "Die erſt\n\nMoyſes ein obreſter gſin der Synagog/gegen\nGott dem allmechtigen/ Alſo ouch Chriſtus dz\nobreſt houpt iſt der gantzen Chriſtenheit/in de-\nnen dingen die da gegen Gott werden verhand\nlet:namlich da er geſprochen hat/Er welle für jn\nbittẽ/dz ſin gloub nit vſhöre.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "darumb\nnenn ich jnn/ vnser yngelybet houpt/ das er jm selbs die\nKilchen yngelybet hat/ vnnd nit die Kilch ir jnn/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6074,
-        "semantic_match": "Die erſt\n\nMoyſes ein obreſter gſin der Synagog/gegen\nGott dem allmechtigen/ Alſo ouch Chriſtus dz\nobreſt houpt iſt der gantzen Chriſtenheit/in de-\nnen dingen die da gegen Gott werden verhand\nlet:namlich da er geſprochen hat/Er welle für jn\nbittẽ/dz ſin gloub nit vſhöre.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -118,23 +101,18 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7989,
-    "reworded": 2,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 3
+    ]
   },
   "fine": {
-    "similarity": 0.3577,
+    "similarity": 0.3595,
     "words": {
-      "a": 198,
+      "a": 196,
       "b": 199
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite LXX Schlußred LXX",
+        "a": "Schlußred LXX",
         "b": "Die erſt Moyſes ein obreſter gſin der Synagog gegen Gott dem allmechtigen Alſo ouch Chriſtus dz obreſt houpt iſt der gantzen Chriſtenheit in de nen dingen die da gegen Gott werden verhand let namlich da er geſprochen hat Er welle für jn bittẽ dz ſin gloub nit vſhöre Petrus aber wirt verglychet vnnd verſtanden durch den Prieſter Aaronem dañ wie dem ſelbigen empfolhen wz das Jſraeliſch volck diewyl Moyſes gieng vff den berg Sinai mit Gott dem allmechtigen zů reden Alſo hat Chriſtus ouch empfolhen dem heyligen Sant Petro füruß das er ſölte ſin ein verwäſer des volcks vnd verbringen das ampt Gott des"
       },
       {

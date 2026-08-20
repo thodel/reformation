@@ -8,7 +8,7 @@
       128
     ]
   },
-  "alignment_score": 0.5411,
+  "alignment_score": 0.5725,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 1,
     "only_b": 8,
-    "similarity": 0.3667,
+    "similarity": 0.3905,
     "pairs": [
       {
         "op": "only_b",
@@ -61,19 +61,15 @@
       },
       {
         "op": "match",
-        "a": "Seite [X]\n<div style=\"text-align: center;\">Die erſt</div>\n\nnen ouch wir uͤch aber vff ein recht verſtand/durch den\nHerren/vnnd uͤwer eygne wolfart alleyn vermercket.",
+        "a": "Die erſt \n\nnen ouch wir uͤch aber vff ein recht verſtand/durch den\nHerren/vnnd uͤwer eygne wolfart alleyn vermercket.",
         "b": "erma=\nnen ouch wir ůch / aber vff ein rechten verſtand / durch den\nHerren / vnd ůwer eigne wolfart allein vermercket. Das diß\ndie heilig Chriſtenlich Kilch iſt /",
-        "similarity": 0.4286,
-        "semantic": 0.5274,
-        "reading": "different"
+        "similarity": 0.5
       },
       {
         "op": "match",
         "a": "Das diß die heylig Chriſtenlich Kilch iſt/dero eynig\nhoupt Chriſtus/nit der Bapſt/die vß dem wort got\ntes geboren/nit vß beſchluß der Concilien/die im ſelbi=\ngen blypt/darnach laͤbt/vnangeſehen was alle welt ſuͤſt\nthuͤt/Jr werdend vor dem richterſtuͤl Chriſti Jeſu fuͤr\nuͤch/vnd nit fuͤr andre Kilchen rechenſchafft geben muͤſ=\nſen/vnnd nit vor den Concilien/oder Baͤpſtlichen Kil=\nchen.",
         "b": "dero einig Houpt Chri=\nſtus / nit der Bapſt iſt / die vß dem Wort Gottes geboren / nit vß Beſchluß der Concilien /",
-        "similarity": 0.3158,
-        "semantic": 0.8309,
-        "reading": "reworded"
+        "similarity": 0.3158
       },
       {
         "op": "only_b",
@@ -97,36 +93,26 @@
         "op": "match",
         "a": "Darumb wellend jr zuͤ goͤtlicher vnnd allein Be=\nſtendiger einigkeyt kommen/ſo laſſend uͤch lieben Chri=\nſten ja kein ſcharpff liſtig geſchwaͤtz der menſchen vff die\nuͤberuß haͤßlich vnd Beſudlete gmeynd der Baͤpſtlichen\nabzien/ſonders gebt rum vnnd ſtatt dem wort/deß der\nſich geſchaffen/vnnd durch das bluͤt ſines ſuns thuͤr er=\nkoufft hat.",
         "b": "ſonders gebt rum vnnd ſtatt dem\nWort deß / der ůch geſchaffen / vnnd durch das Blůt ſines\nSuns thůr erkaufft hat. Hörend nit die ſtimm der frömb=\n                                                            den /",
-        "similarity": 0.3556,
-        "semantic": 0.7931,
-        "reading": "reworded"
+        "similarity": 0.3556
       },
       {
         "op": "only_a",
         "a": "Hoͤrend nit die ſtim der froͤmbdenn/die ſich\nſ",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7559,
-        "semantic_match": "die im ſelbigen blybt / dar=\nnach låbt / vnangeſechen was alle Welt ſunſt thůe / Jr wer=\ndend vor dem Richterſtůl Chriſti Jeſu für ůch /",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7268,
-    "reworded": 2,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.4501,
+    "similarity": 0.4586,
     "words": {
-      "a": 179,
+      "a": 171,
       "b": 252
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite X div style text align center",
+        "op": "insert",
+        "a": "",
         "b": "94"
       },
       {
@@ -135,8 +121,8 @@
         "b": "Die erſt"
       },
       {
-        "op": "replace",
-        "a": "div",
+        "op": "insert",
+        "a": "",
         "b": "Das aber wyter der Prouincial ſine Concilia in ſacken deß gloubens wie ſy den glouben verſtond hat vnderſtan den einhållig zebewären wil ich vff dißmal nit mer daruff ſagen dann das ſich das widerſpil gefunden hat nun im nächſten Römiſchen Concilio das für ein verderblich Kå tzery erkennet hat halten das ein gemein Concilium über den Bapſt ſye Welches doch alls ein heilſame Warheit beide Concilia zů Coſtantz vnd Baſel gehalten erkennet habend Nun zum beſchluß ſo hat der Prouincial mit gar ernſtlichen worten ein gemeind Gottes von Bern erma net von gemeiner Chriſtenlichen Kilchen ſich nit zeſůndern åben daſſelbig lieben frommen Chriſten von Bern erma"
       },
       {

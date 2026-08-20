@@ -8,7 +8,7 @@
       289
     ]
   },
-  "alignment_score": 0.156,
+  "alignment_score": 0.1574,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -27,7 +27,7 @@
     "matched": 2,
     "only_a": 6,
     "only_b": 9,
-    "similarity": 0.5044,
+    "similarity": 0.5119,
     "pairs": [
       {
         "op": "only_b",
@@ -67,20 +67,15 @@
       },
       {
         "op": "match",
-        "a": "Seite 129\nDie vierde\nPfarrer von Sant Gallen. Vantwurt Doctor Ecolampadij allen yntrag\nzů verantworten/mit erklärung der danckſa=\ngung/ſo by dem Nachtmal des herrē gebrucht\nſöll werden/weiß ich nit vilzewider:",
+        "a": "Die vierde\nPfarrer von Sant Gallen. Vantwurt Doctor Ecolampadij allen yntrag\nzů verantworten/mit erklärung der danckſa=\ngung/ſo by dem Nachtmal des herrē gebrucht\nſöll werden/weiß ich nit vilzewider:",
         "b": "und durch unſern Glauben. Pfarrer von Sant Gallen. AUf antwort Doctor Ecolampadij allen Yntrag zuͤ ver=\nantworten / mit Erklaͤrung der Danckſagung /",
-        "similarity": 0.4,
-        "semantic": 0.824,
-        "reading": "reworded"
+        "similarity": 0.4151
       },
       {
         "op": "only_a",
         "a": "allein dz begär ich/ zů verſicherung vnſers gloubens/das mit gſchrifft erklä\nret zewerden/das Glouben/ſye/Eſſen. So nun (als ers\nnempt) dz Sacramentlich brot/vns des lyden vñ tods\nChriſti/erinnert/wie vil me ſölte vns erinneren dz wä=\nſen ſelber/damit vñ alle liebe ſinen/deſter volkomlicher\nin vns erklert:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7475,
-        "semantic_match": "ſo by\ndem Nachtmahl deß Herzen gebrucht ſoͤll werden / weiß\nich nit vil zewider: allein das begehr ich / zuͤ verſicherung\nunſers Glaubens /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -104,9 +99,7 @@
         "op": "match",
         "a": "dann die Alten vnder dem Moyſe/habe\nzeichen gehept der verheyſſung/welche vnns mit wäſen\nvnd that warlich ſind mitgereycht:",
         "b": "Dann die Alten under dem Moyſe haben\nZeichen gehabt der Verheiſſung / welche uns mit Weſen\nund That warlich ſind mitgereicht: und wie das beduͤtet\nwird /",
-        "similarity": 0.6087,
-        "semantic": 0.6934,
-        "reading": "same"
+        "similarity": 0.6087
       },
       {
         "op": "only_a",
@@ -124,48 +117,29 @@
         "op": "only_a",
         "a": "cap. Johannis/ yezt vnnot mer bewärung ynzefüren. Das\naber herr Benedict ſpricht: Diewyl das Sa=\ncramentlich brot vnns ynfürt zů der gedächtnuß/ſo ſol\nvns die gegenwürtigkeit des lybs Chriſti ſelbs/vilmer\nerinneren:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6697,
-        "semantic_match": "ſo by\ndem Nachtmahl deß Herzen gebrucht ſoͤll werden / weiß\nich nit vil zewider: allein das begehr ich / zuͤ verſicherung\nunſers Glaubens /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "ſo ſol man da vermerckē/was das wort/Er=\ninneren/vff jm hab/vnnd wie der menſch mag erinnert\nwerden/ſo erfindt ſich/das vſſerliche ding zů der erinne=\nrung dienend/müſſen mit den ſinnē begriffen werdē/als\ndurch das gehör oder geſicht.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.63,
-        "semantic_match": "baß mit Geſchrifft erklaͤrt zuͤ werden / daß glauben / ſeye / Eſſen. So nun (als ers nennt) das\nSacramentlich Brodt / uns deß Lydens und Tods Chri=\nſti erinnert /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "So nun aber der lyb Chri=\nſti/hat vns nit mer ſichtbarlich gegen gehept ſöllen wer\nden/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.61,
-        "semantic_match": "ſo by\ndem Nachtmahl deß Herzen gebrucht ſoͤll werden / weiß\nich nit vil zewider: allein das begehr ich / zuͤ verſicherung\nunſers Glaubens /",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.6958,
-    "reworded": 1,
-    "recovered_by_embedding": 4,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 4
+    ]
   },
   "fine": {
-    "similarity": 0.2515,
+    "similarity": 0.2525,
     "words": {
-      "a": 240,
+      "a": 238,
       "b": 261
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite 129",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Die",
@@ -447,7 +421,7 @@
         "b": "tet wird"
       }
     ],
-    "ops": 29,
+    "ops": 28,
     "truncated": false
   }
 }

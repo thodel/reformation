@@ -8,7 +8,7 @@
       108
     ]
   },
-  "alignment_score": 0.4551,
+  "alignment_score": 0.461,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 1,
     "only_b": 7,
-    "similarity": 0.5028,
+    "similarity": 0.5051,
     "pairs": [
       {
         "op": "only_b",
@@ -55,11 +55,9 @@
       },
       {
         "op": "match",
-        "a": "Seite [X]\nDie erſt\nin ſtucken des gloubens/dheins wegs teylen. Jch erman\nſich aber frommen Chriſten/jr wellend ein hoch vffſechē\nhaben/vff die rechten ſecten/vñ vff die rechten zertren\nner Chriſtenlicher eynigkeit/vnd die ſo ſich in den hoͤch\nſten ſtucken des gloubens/anfachen zertrennen:",
+        "a": "Die erſt\nin ſtucken des gloubens/dheins wegs teylen. Jch erman\nſich aber frommen Chriſten/jr wellend ein hoch vffſechē\nhaben/vff die rechten ſecten/vñ vff die rechten zertren\nner Chriſtenlicher eynigkeit/vnd die ſo ſich in den hoͤch\nſten ſtucken des gloubens/anfachen zertrennen:",
         "b": "vns gar keines\nwegs / von dem Herzen trennen / ouch in ſtucken deß glou-\nbens/keins wegs teilen. Jch erman uͤch aber from̃en Chri-\nſten/jr wellend ein hoch vffſechẽ haben/vff die rechten Seck-\nten/vnnd vff die rechten zertrenner Chriſtenlicher einigkeit/",
-        "similarity": 0.4086,
-        "semantic": 0.8503,
-        "reading": "reworded"
+        "similarity": 0.4176
       },
       {
         "op": "only_b",
@@ -71,9 +69,7 @@
         "op": "match",
         "a": "jr haben\nye gehórt in zåhe jaren har/das einer Luterſch/der an=\nder Zwingliſch/der dritt Carolſtadiſch/der vierd Œ=\ncolampadiſch/der fünfft Widertóufferiſch/vnd dergly\nchen ſeltzamer namen/ſich nennen/oder/zum wenigoſtē/",
         "b": "das\neiner Luterſch/der ander Zwingliſch / der dritte Caroloſta-\ndiſch/der vierd Ecolompadiſch/der fuͤnfft Widertouͤfferiſch/ vnd derglychen ſeltꝫamer Namen /",
-        "similarity": 0.386,
-        "semantic": 0.7674,
-        "reading": "reworded"
+        "similarity": 0.386
       },
       {
         "op": "only_b",
@@ -85,26 +81,19 @@
         "op": "match",
         "a": "genannt werden/die nit allein vnderſcheyd habē in kley\ndern: dann der ſelb vnderſcheyd/niemand nachteil oder\nſchaden bringen mag/ſonder ſich trennen in treſſenlichen\nſtucken vnſers vnbeflecktēnn gloubens/vnnd da iſt der\ngróſt ſchaden/vnd das hoͤchſt vffſechen zehabē.",
         "b": "niemand nach-\nteil oder ſchaden bringen mag / ſonder ſich trennen in tref-\nfenlichen ſtucken vnſers vnbefleckten gloubens/ vnnd da iſt\nder groͤſt ſchaden/vnd das hoͤchſt vffſechen zehaben.",
-        "similarity": 0.6197,
-        "semantic": 0.6936,
-        "reading": "same"
+        "similarity": 0.6197
       },
       {
         "op": "match",
         "a": "Es zeigt\nvns ouch an Martin Bůtzer/wie das alle Concilia biß=\nhar/wider ſich ſelbs geſin/vnd wider einandern gehand=\nlet/das ich jm/ſo er verſtan wil/in ſtucken des gloubens\nabred bin/vnd dheins wegs geſtan/er wirts ouch nůmer\nmer darbringen.",
         "b": "Es zeigt\nvns ouch an Martin Butꝫer / wie das alle Concilia biß-\nhar/wider ſich ſelbs geſin / vnnd wider einandern gehand-\nlet /",
-        "similarity": 0.597,
-        "semantic": 0.7514,
-        "reading": "same"
+        "similarity": 0.597
       },
       {
         "op": "only_a",
         "a": "Wol iſt war das in andren puncten/by\nlangen/malſtatten/eygen",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6678,
-        "semantic_match": "vnnd die ſo ſich in den hoͤchſten ſtucken deß gloubens/anfa-\nchen zertrennen: jr haben je gehoͤrt in zaͤhen jaren har /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -112,23 +101,18 @@
         "b": "das ich jm / ſo er verſtan wil / in ſtucken deß gloubens\nabred",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7461,
-    "reworded": 2,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.4848,
+    "similarity": 0.487,
     "words": {
-      "a": 181,
+      "a": 179,
       "b": 281
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite X",
+        "op": "insert",
+        "a": "",
         "b": "74"
       },
       {

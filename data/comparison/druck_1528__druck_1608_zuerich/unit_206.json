@@ -8,15 +8,15 @@
       241
     ]
   },
-  "alignment_score": 0.4035,
+  "alignment_score": 0.4107,
   "coarse": {
     "paragraphs": {
-      "a": 8,
+      "a": 7,
       "b": 2
     },
     "counts": {
       "equal": 0,
-      "replace": 8,
+      "replace": 7,
       "delete": 0,
       "insert": 0
     },
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 1,
     "only_b": 3,
-    "similarity": 0.4288,
+    "similarity": 0.4332,
     "pairs": [
       {
         "op": "only_b",
@@ -49,62 +49,46 @@
       },
       {
         "op": "match",
-        "a": "Seite [VCX]\n\nDie dritte\nMartinus Bucerus\n\nHieuor am\npꝛ.vii.94.blat. Vff die erst / ist die antwurt geben in der erklaͤr=\nung herrn Berchtolden/die ander bringt dz nit/",
+        "a": "Die dritte\nMartinus Bucerus\n\nHieuor am\npꝛ.vii.94.blat. Vff die erst / ist die antwurt geben in der erklaͤr=\nung herrn Berchtolden/die ander bringt dz nit/",
         "b": "Martinus Butzer. VFf die erſt/iſt die antwurt gebẽ in der erklaͤrung Her=\nren Berchtolden/die ander bringt das nit/das Tha=\nbita jr Vfferweckung verdienet habe.",
-        "similarity": 0.5085,
-        "semantic": 0.7385,
-        "reading": "same"
+        "similarity": 0.5263
       },
       {
         "op": "match",
         "a": "das Thabita jr vfferweckung verdienet habe. Bůchstab +\n\nVerklaͤrung vnd beståtung miner vor angezo=\ngnen gschrifften / sag ich / das darby geschriben\nstat /",
         "b": "Buͦchſtab. ZVerklaͤrung vnd beſtetung miner vor angezognen Ge=\nſchrifften/ſag ich/das darby geſchriben ſtat/das ſy waͤ=\nre voll guͤter Wercken/vnd Allmuͤſen geben/als ſy thet/",
-        "similarity": 0.3704,
-        "semantic": 0.8615,
-        "reading": "reworded"
+        "similarity": 0.3704
       },
       {
         "op": "match",
         "a": "das sy wåre vol gůter wercken / vnd almů\nsen geben / als sy thet / volget schier hernach am v. Capi. Das der Engel zů Cornelio hab gesprochen /",
         "b": "volget ſchier hernach am 10. cap. Das der Engel zuͦ Cor=\nnelio hab geſprochen / din Gebaͤt vnd Allmuͤſen ſind vffge=\nſtigen in die Gedechtnuß /",
-        "similarity": 0.3846,
-        "semantic": 0.7625,
-        "reading": "reworded"
+        "similarity": 0.3846
       },
       {
         "op": "match",
         "a": "din gebått\nvnd allmůsen sind vffgestigen in die gedechtnus / für das\nangesicht gottes / der glichen wirt ouch funden by dem så\nligen man Thobia /",
         "b": "fuͤr das Angeſicht Gottes / der\nglichen wirt ouch funden by dem ſaͤligen Mañ Thobia/ ſo er ſpricht / mit dem Allmuͤſen vnd glouben\nwerden abgereiniget die Suͤnd. ## Marginalien\nSuͤch\nhieuor\n202. vñ\n204. blat.",
-        "similarity": 0.4516,
-        "semantic": 0.71,
-        "reading": "reworded"
+        "similarity": 0.4516
       },
       {
         "op": "only_a",
         "a": "so er spricht / mitt dem almůsen vnd\nglouben werden abgereiniget die sůnd. Martinus Butzer. Der Thabita halber / ist 8 reyt klar / da laß ichs\nbliben",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6143,
-        "semantic_match": "Actuum am 10. hat Thabita vmb der guͤten\nWercken willen / die ſy gethon hat/verdienet von S. Petro\nbarmhertzenklich von dem tod erquickt werden.",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7374,
-    "reworded": 3,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.4709,
+    "similarity": 0.4738,
     "words": {
-      "a": 128,
+      "a": 126,
       "b": 199
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite VCX",
+        "op": "insert",
+        "a": "",
         "b": "Schlußred 207 Bu chſtab DAs vnſer Werck ſo nach empfahung deß Touffs vß dem glouben beſchechen verdienſtlich ſyen wirt mencklich im alten vnd nu wen Teſtament erfinden als Chriſtus ſpricht Matth am 7 Der da thu t den willen mins Himmelſchen Vatters der wirt gon in das Rych der Himlen Actuum am 10 hat Thabita vmb der gu ten Wercken willen"
       },
       {

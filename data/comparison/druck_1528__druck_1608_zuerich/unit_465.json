@@ -8,10 +8,10 @@
       539
     ]
   },
-  "alignment_score": 0.2925,
+  "alignment_score": 0.2966,
   "coarse": {
     "paragraphs": {
-      "a": 5,
+      "a": 4,
       "b": 5
     },
     "counts": {
@@ -31,7 +31,7 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [CCXXV]\n\n**Schlußred.**\nschirmpt ōne Gottes wort. So volget/das sich der Pfarrer von Appen\nzell/nit der Kilchen vnderwirfft/die sich gottes wort halt.",
+        "a": "**Schlußred.**\nschirmpt ōne Gottes wort. So volget/das sich der Pfarrer von Appen\nzell/nit der Kilchen vnderwirfft/die sich gottes wort halt.",
         "b": null,
         "similarity": 0.0
       },
@@ -39,49 +39,37 @@
         "op": "match",
         "a": "**Theobaldus Huͤter.**\nIch laß es blyben/wie vor dargerhan. **Die nuͤnde Schlußred.**\nDie heilig Ee/ist keinem stand verbot\nten in der geschrifft/sunders huͤry vñ vn\nkuͤnscheit zuͦ vermiden/allen stände botte.",
         "b": "SOS\nDie nuͤndte Schlußred. Die Heilig Ee / iſt keinem Stand verbot=\nten in der Geſchrifft / ſonders / Huͤry vnnd\nVnkuͤſchheit zuͦ vermyden /",
-        "similarity": 0.5574,
-        "semantic": 0.7785,
-        "reading": "same"
+        "similarity": 0.5574
       },
       {
         "op": "match",
         "a": "**Berchtoldus Haller.**\nDie Schlußred/ist\nso heiter vñ klar in Gottes\nwort/das sy nit vil vñ lan=\nger red bedarff.",
         "b": "allen Staͤnden\nbotten. Berchtoldus Haller. DJſe Schlußred / iſt ſo hei=\nter vnd klar in Gottes Wort / das ſy nit vil vnd langer red be=\ndarff.",
-        "similarity": 0.5957,
-        "semantic": 0.8464,
-        "reading": "same"
+        "similarity": 0.5957
       },
       {
         "op": "match",
         "a": "Allen Chri=\nsten ist zuͦ wüssenn/das der\nEelich stand/von Gott yn=\ngesetzt ist/Genesis.j. vñ.ij. vñ daruon niemand vßge\nnomen wirt:",
         "b": "Allen Chriſten iſt zuͦ=\nwuͤſſen / das der Eelich ſtand / von Gott yngeſetzt iſt / Geneſis. 1. vnd 2. vnd daruon niemand\nvßgenommen wirt :",
-        "similarity": 0.5833,
-        "semantic": 0.7302,
-        "reading": "same"
+        "similarity": 0.5833
       },
       {
         "op": "match",
         "a": "dann die Chri=\nstus (Mathei xix. vßnimpt/ Naͤlich die da vntougenlich\nsind zuͦ der Ee/also von muͦter lyb geboren:",
         "b": "dann die\nChriſtus Matthei 19. vßnimpt / Namlich die da vntugenlich ſind zuͦ der Ee / alſo von Muͦ=\nter lyb geboren :",
-        "similarity": 0.7143,
-        "semantic": 0.7098,
-        "reading": "same"
+        "similarity": 0.7143
       },
       {
         "op": "match",
         "a": "etlich vonn\nden menschen verschnitten/etlich die sich selbs verschnit\nten haben vmb des Rych Gottes willen. So volget vß\nnoten/das nieman die Ee verbotten mag werde.",
         "b": "etlich von den Menſchen verſchnitten / et=\nlich die ſich ſelbs verſchnitten haben vmb deß Rych Got=\ntes willen. So volget von noͤten /",
-        "similarity": 0.5098,
-        "semantic": 0.585,
-        "reading": "check"
+        "similarity": 0.5098
       },
       {
         "op": "match",
         "a": "San̄\ndas wort/Kuͤnsch sin/vñ one Ee laͤben/fasset nit yeder=\nZ ll",
         "b": "das nieman die Ee ver=\nbotten mag werden. Dann das Wort / Kuͤnſch ſyn / vnd\nohne Ee laͤben / faſſet nit yederman /",
-        "similarity": 0.4737,
-        "semantic": 0.7551,
-        "reading": "reworded"
+        "similarity": 0.4737
       },
       {
         "op": "only_b",
@@ -89,23 +77,18 @@
         "b": "ſonder denen es geben\niſt. Dannenhar ouch Paulus ſpricht / in der erſten Co=\nSSs\n\n## Marginalien\n[unleserlich]\n[unleserlich]ndte",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7342,
-    "reworded": 1,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.5317,
+    "similarity": 0.535,
     "words": {
-      "a": 175,
+      "a": 173,
       "b": 156
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite CCXXV Schlußred schirmpt o ne Gottes wort So volget das sich der Pfarrer von Appen zell nit der Kilchen vnderwirfft die sich gottes wort halt Theobaldus Hu ter Ich laß es blyben wie vor dargerhan",
+        "a": "Schlußred schirmpt o ne Gottes wort So volget das sich der Pfarrer von Appen zell nit der Kilchen vnderwirfft die sich gottes wort halt Theobaldus Hu ter Ich laß es blyben wie vor dargerhan",
         "b": "SOS"
       },
       {

@@ -8,7 +8,7 @@
       135
     ]
   },
-  "alignment_score": 0.3776,
+  "alignment_score": 0.3808,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -31,21 +31,15 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [X]\nSchlußred. XLVII\n\nvnnd der ganzen hård. Das ist der Christenlichen ver=\nsamlung/in welcher üch der heylig geyst hatt gesetzt Bi=\nschoff zů regieren die Kilchen Gotts/welche er hat über=\nkomen/mit synem rosenfarben blůt.",
+        "a": "Schlußred. XLVII\n\nvnnd der ganzen hård. Das ist der Christenlichen ver=\nsamlung/in welcher üch der heylig geyst hatt gesetzt Bi=\nschoff zů regieren die Kilchen Gotts/welche er hat über=\nkomen/mit synem rosenfarben blůt.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7538,
-        "semantic_match": "der den ſchaͤfflin vor\nſtand / vnd ſy regier als ein hirtt / vnd nit alß ein\nhalßherr / ſonder wie der hirt den ſchaͤfflin vor=\ngat /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Es hatt ouch Pau=\nlus gesetzt zun Epheseren am iiij. Capi. Das Christus\nhab gesetzt etlich zwölffbotten/etlich propheten/etlich\nEuangelisten/etlich hirten/vnd ouch leerer zů erbuwung\nsins göttlichen diensts vnd des lybs Christi/zc.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8144,
-        "semantic_match": "ſy zeweyden / alſo hatt Chriſtus verordnet\nApoſtel / Euangeliſten / Propheten / hirten vnd\nleerer / zü erbuwung des lybs Chriſti / in dz ampt\nder dienſtbarkeyt /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -57,9 +51,7 @@
         "op": "match",
         "a": "Er hatt nit gesagt/das yetlicher allein solle regie=\nren/nach sinem geualt/vnd das kurtz/vnd damit ich\nlåb dem beuelch so durch vnser gnedig herren von Bern\nbeide parthyen gebe ist/sy sich ouch sollichs darnach sol=\nlen flysen/wytschweyffend reden/so zů der sach nitt die=\nnen zů vnderlassen.",
         "b": "Schlußred. LV\n\nlicher allein ſoͤlle regieren / nach ſinem geuallen: vnd das kurtz / vnd damit ich laͤb dem Beuelch ſo\ndurch vnnſer gnedig herren von Bernn beyden\nparthyen geben iſt /",
-        "similarity": 0.4337,
-        "semantic": 0.8622,
-        "reading": "reworded"
+        "similarity": 0.4337
       },
       {
         "op": "only_b",
@@ -71,18 +63,13 @@
         "op": "match",
         "a": "Berchtoldus.✜\n\n[A]n dem gewalt/soll man schrifftlich verston ein\nbeuelch/vnd machet nit mer ein houpt dann die\ndienstbarkeyt des worts.",
         "b": "Von dem gewalt / ſoll man gſchrifftlich ver=\nſton ein beuelch / vnnd machet nit mer ein houpt\ndann die dienſtbarkeyt des worts.",
-        "similarity": 0.7442,
-        "semantic": 0.7954,
-        "reading": "same"
+        "similarity": 0.7442
       },
       {
         "op": "only_a",
         "a": "Die schrifft/so d pfar=\nrer inzogen hatt vß den geschichten der zwölffbotten/am\nxx cap. Wie der heylig geyst hab Bischoff gesetzt zů re=\ngieren/die gemeind gottes/soll er eygentlich verston/wz\ndie schrifft ein Bischoff nempt/dann das wörtly eygent\nlich heyst ein wechter/der den schåfflin vorstand/vnd sy\nregier als ein hirtt/vnd nit alß ein halßherr/sonder wie\nder hirtt den schåfflin vorgat/sy zeweyden/also hat Chri\nstus verordnet Apostel/Euangelisten/propheten/hir=\nten vñ leerer/zů erbuwung des lybs Christi/in dz ampt\nder dienstbarkeyt wie Paulus zun Epheseren am. iiij. D iij",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8943,
-        "semantic_match": "die gmeind\nGottes : ſoll er eygentlich verſton / was die ge=\nſchrifft ein Biſchoff nempt / dañ das woͤrtly ey=\ngentlich heyßt ein waͤchter /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -132,25 +119,15 @@
         "b": "## Marginalien\nn: ers\nge\nter\nin\nin\nſ-\nitt\ndet\nitt\ner\nch\nes\ngt\nr. er\nm\ngt\npe\nt. m\nſ-\n/ s\nn\nn\nle\ne-\nr",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.824,
-    "reworded": 1,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 3
+    ]
   },
   "fine": {
-    "similarity": 0.4444,
+    "similarity": 0.4461,
     "words": {
-      "a": 270,
+      "a": 268,
       "b": 270
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite X",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Schlußred",
@@ -462,7 +439,7 @@
         "b": "Capitel ſelbs redt Darumb ſchlüßt der Pfarrer noch nüit anders weder das vor gnüg ſam jm verantwortet iſt andre geſchrifft bringt er harfür die zum houpt diene dann ſo ſin ver ſtand beſtůnde ſo wurden ſo vil ho upter als vil Biſchoff ja in einer Kilchen dann Paulus in ſi nem anzognen ſpruch zü den hirten in Epheſo deren vil waren ſo llichs wort geredt hat Marginalien n ers ge ter in in ſ itt det itt er ch es gt r er m gt pe t m ſ s n n le e r"
       }
     ],
-    "ops": 32,
+    "ops": 31,
     "truncated": false
   }
 }

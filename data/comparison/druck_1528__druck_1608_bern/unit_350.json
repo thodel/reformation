@@ -8,7 +8,7 @@
       402
     ]
   },
-  "alignment_score": 0.3561,
+  "alignment_score": 0.3615,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,23 +27,19 @@
     "matched": 4,
     "only_a": 2,
     "only_b": 0,
-    "similarity": 0.5049,
+    "similarity": 0.5115,
     "pairs": [
       {
         "op": "match",
-        "a": "Seite LXXII\nDie vierde\nWalterus klarer. IR dörffen mich nit fragen/ gebend antwurt vff\nmin Sylogismum / ob der lychnam Chriſti ly=\nplich vnd empfindelich geſſen werde.",
+        "a": "Die vierde\nWalterus klarer. IR dörffen mich nit fragen/ gebend antwurt vff\nmin Sylogismum / ob der lychnam Chriſti ly=\nplich vnd empfindelich geſſen werde.",
         "b": "370\t\tDie vierdt\n\tWaltherus Clarer. JR dörffen mich nit fragen/gebend antwurt vff myn\nSylogiſmum/ ob der Lychnam Chriſti lyblich vnd\nempfindtlich geſſen werde.",
-        "similarity": 0.64,
-        "semantic": 0.8857,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "match",
         "a": "Pfarrer von Appenzell. SO er mich fragt/ ob der lyb Chriſti da lyplich vñ\nempfindelich geeſſen werd / ſprich ich neyn /",
         "b": "Pfarrer von Appenzell. SO er mich fragt/ob der Lyb Chriſti da lyblich vnnd\nempfindlich geeſſen werd/ſprich ich nein/ſonders die\ngeſtalt/vnder welcher er wäſenlich mit Fleiſch vnnd\nBlüt iſt/vnd das hab ich gnügſam darthan /",
-        "similarity": 0.5517,
-        "semantic": 0.8413,
-        "reading": "same"
+        "similarity": 0.5517
       },
       {
         "op": "only_a",
@@ -55,17 +51,13 @@
         "op": "match",
         "a": "Walterus klarer. WJrt er nit empfindelich geeſſen / ſo iſt er nit im Sa=\ncrament. Pfarrer von Appenzell. REferier mich ad Acta /",
         "b": "Referier\nmich widerumb vff myn da gelegte Gſchrifft. Waltherus Clarer. WJrt er nit empfindtlich geeſſen/ſo iſt er nit im Sacra=\nment.",
-        "similarity": 0.4186,
-        "semantic": 0.7464,
-        "reading": "reworded"
+        "similarity": 0.4186
       },
       {
         "op": "match",
         "a": "wie ichs vorbeschloſſen hab / alſo ouch hie. Walterus klar. Ich ouch. Pelagius am Steyn Predicant zů\nTrogen Waltherus Klarer Pfarrer zů\nHundwyl all von Appenzell.",
         "b": "Pfarrer von Appenzell. REferier mich ad Acta/wie ichs vorbeſchloſſen hab/alſo\nouch hie. Waltherus Clarer. Jch ouch. Pelagius",
-        "similarity": 0.4091,
-        "semantic": 0.8018,
-        "reading": "reworded"
+        "similarity": 0.4091
       },
       {
         "op": "only_a",
@@ -73,23 +65,18 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.8188,
-    "reworded": 2,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.5882,
+    "similarity": 0.5929,
     "words": {
-      "a": 152,
+      "a": 150,
       "b": 103
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite LXXII",
+        "op": "insert",
+        "a": "",
         "b": "370"
       },
       {

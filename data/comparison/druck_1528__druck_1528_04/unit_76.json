@@ -8,7 +8,7 @@
       94
     ]
   },
-  "alignment_score": 0.4615,
+  "alignment_score": 0.4719,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,15 +23,15 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 8,
-    "matched": 4,
-    "only_a": 1,
-    "only_b": 3,
-    "similarity": 0.4515,
+    "units": 9,
+    "matched": 2,
+    "only_a": 2,
+    "only_b": 5,
+    "similarity": 0.435,
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [X]\nvnd gib antwurt erstlich des spruchs halbē/ der geystlich\nricht alles/zc. Diewyl wir wüssen das vnser widerpart/",
+        "a": "vnd gib antwurt erstlich des spruchs halbē/ der geystlich\nricht alles/zc. Diewyl wir wüssen das vnser widerpart/ das vrteilen dahin zühen wil/",
         "b": null,
         "similarity": 0.0
       },
@@ -42,28 +42,28 @@
         "similarity": 0.0
       },
       {
-        "op": "match",
-        "a": "das vrteilen dahin zühen wil/ das ein gmein Concilium\nmacht hab/ etwas nebend der geschrifft anzenemen/ hab\nouch erstlich der schrifft /",
+        "op": "only_b",
+        "a": null,
         "b": "Diewyl wir\nwüſſen das vnſer widerparth/das vrteylen da\nhin ziehen wil/das ein gemein Concilium macht\nhab/etwas nåbend der ſchrifft anzenem̃en:",
-        "similarity": 0.4444,
-        "semantic": 0.8732,
-        "reading": "reworded"
+        "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "Das ansehen geben / so ist Billich\ngeantwurt worden/ das der geystlich die geschrifft nit ze=\nrichten hab/ das ist sins geuallens die geschrifft anzenem\nmen oder zeuerwerffen/",
+        "a": "das ein gmein Concilium\nmacht hab/ etwas nebend der geschrifft anzenemen/ hab\nouch erstlich der schrifft / Das ansehen geben / so ist Billich\ngeantwurt worden/",
         "b": "hab\nouch erſtlich der gſchrifft das anſechen geben/ſo\niſt billich geantwurt worden/dz der geyſtlich die\ngſchrifft nit zerichten hab:",
-        "similarity": 0.5,
-        "semantic": 0.8826,
-        "reading": "same"
+        "similarity": 0.4889
+      },
+      {
+        "op": "only_a",
+        "a": "das der geystlich die geschrifft nit ze=\nrichten hab/ das ist sins geuallens die geschrifft anzenem\nmen oder zeuerwerffen/ sonder er hats allein müssen an=\nnemen/",
+        "b": null,
+        "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "sonder er hats allein müssen an=\nnemen/ dann er åben durch den geyst sin erkantnus hatt/ durch welchen die Bibel vns geben ist /",
+        "a": "dann er åben durch den geyst sin erkantnus hatt/ durch welchen die Bibel vns geben ist / so aber min herr\nDoctor das vrteylen verston will / wie es ouch Paulus",
         "b": "das iſt ſins gefallens\ndie gſchrifft anzenem̃en oder zů verwerffen/ſon\nder er hats allein müſſen annemen: dann er åben\ndurch den geiſt ſin erkantnuß hat/durch welche\ndie Bibel vns geben iſt.",
-        "similarity": 0.5614,
-        "semantic": 0.8126,
-        "reading": "same"
+        "similarity": 0.381
       },
       {
         "op": "only_b",
@@ -72,12 +72,10 @@
         "similarity": 0.0
       },
       {
-        "op": "match",
-        "a": "so aber min herr\nDoctor das vrteylen verston will / wie es ouch Paulus",
+        "op": "only_b",
+        "a": null,
         "b": "jch\nwôlt aber min Herr Doctor/bedåchte wol/das\nPaulus hie ſagt/Der geyſtlich/nit die verſam=\nlung der geiſtlichẽ im Concilio/habe alles zů rich\nten:",
-        "similarity": 0.3,
-        "semantic": 0.6845,
-        "reading": "reworded"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -85,23 +83,18 @@
         "b": "Dann wie ein yeder gerechter ſines eygens\ngloubens gelåben můß/alſo můß er ouch die ge=\nſchrifft vnd wort Gottes/für ſich ſelbs vrteylẽ\nvnd erkennen/er wåre ſunſt nit Gott glöubig/ deß",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.8132,
-    "reworded": 2,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.415,
+    "similarity": 0.4174,
     "words": {
-      "a": 104,
+      "a": 102,
       "b": 243
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite X",
+        "op": "insert",
+        "a": "",
         "b": "Die erſt Butzer Lieben fromen Chriſten wir habend ein han del das wort Gottes belangend gegen minem herren Doctor zů gegen darum wil ich yetzund antwurt geben"
       },
       {

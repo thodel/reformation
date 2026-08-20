@@ -8,7 +8,7 @@
       216
     ]
   },
-  "alignment_score": 0.1688,
+  "alignment_score": 0.1703,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -24,10 +24,10 @@
   },
   "sentences": {
     "units": 18,
-    "matched": 6,
+    "matched": 5,
     "only_a": 6,
-    "only_b": 6,
-    "similarity": 0.4721,
+    "only_b": 7,
+    "similarity": 0.364,
     "pairs": [
       {
         "op": "only_b",
@@ -55,105 +55,75 @@
       },
       {
         "op": "match",
-        "a": "Seite [X]\nDie dritt\nschen vatter gefallen. Das ander alles/ iſt in der erklär=\nung herrn Berchtolden/ überflüſſig erlütret. Buchstab.",
+        "a": "Die dritt\nschen vatter gefallen. Das ander alles/ iſt in der erklär=\nung herrn Berchtolden/ überflüſſig erlütret. Buchstab. A bringen mir zů zyten gloſen one volkomnege\nſchrifft/",
         "b": "Glaubtet ihr an mich / das wåre ein recht göttlich Werck / und wurde mynem\nhimmliſchen Vatter gefallen. Das ander alles iſt in der\nErklårung Herzen Berchtolden überflüſſig erlüteret.",
-        "similarity": 0.383,
-        "semantic": 0.3622,
-        "reading": "different"
+        "similarity": 0.3333
       },
       {
         "op": "match",
-        "a": "A bringen mir zů zyten gloſen one volkomnege\nſchrifft/ als ouch geſtern in der andré ſchlußred/ do ich haryn fürrt/",
+        "a": "als ouch geſtern in der andré ſchlußred/ do ich haryn fürrt/ dry ſprüch / yetz in diſe ſchluß=\nred ouch dienend/",
         "b": "Bůchſtab. JHr bringend mir zů zyten Gloſſen / ohne vollkomme=\nne Geſchrifft / als auch geſtern in der andern Schluß=\nred / da ich haryn fůhrt drey Sprůch /",
-        "similarity": 0.4,
-        "semantic": 0.8418,
-        "reading": "reworded"
+        "similarity": 0.3111
       },
       {
         "op": "match",
-        "a": "dry ſprüch / yetz in diſe ſchluß=\nred ouch dienend/ zů den Philippern am. j. Vch iſt geben\nzethůn/ ꝛc j.",
+        "a": "zů den Philippern am. j. Vch iſt geben\nzethůn/ ꝛc j. Petri am. ij. Chriſtus hat für vns gelitten/ in der erſten Epi.",
         "b": "jeßt in dieſe Schluß=\nred auch dienend / zů den Philip am I. Euch iſt geben ze=\nthůn / ꝛc. I. Pet.",
-        "similarity": 0.6,
-        "semantic": 0.6162,
-        "reading": "same"
+        "similarity": 0.3721
       },
       {
-        "op": "match",
-        "a": "Petri am. ij. Chriſtus hat für vns gelitten/ in der erſten Epi. Johannis am ij. Welcher ſpricht/ dꝛ er\nin Chriſto blybe/",
+        "op": "only_b",
+        "a": null,
         "b": "2. Chriſtus hat fůr uns gelitten / in der\nI. Epiſtel Johannis am 2. Welcher ſpricht / daß er in Chri=\nſto blybe /",
-        "similarity": 0.6512,
-        "semantic": 0.8422,
-        "reading": "same"
+        "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "der ſol wie Chriſtus gewaͤdlet hat/ ouch\nwandlen. Durch ſöliche gſchrifften ouch gnůgſam offen=\nbar/ das der bloß einig gloub/",
+        "a": "Johannis am ij. Welcher ſpricht/ dꝛ er\nin Chriſto blybe/ der ſol wie Chriſtus gewaͤdlet hat/ ouch\nwandlen. Durch ſöliche gſchrifften ouch gnůgſam offen=\nbar/",
         "b": "der ſoll / wie Chriſtus gewandelt hat / auch wan=\ndeln. Durch ſöliche Geſchrifften iſt auch gnůgſam offen=\nbar / daß der bloß einig Glaub nit gnůgſam zů der Seelen\nSeligkeit iſt.",
-        "similarity": 0.48,
-        "semantic": 0.7797,
-        "reading": "reworded"
+        "similarity": 0.3273
       },
       {
         "op": "only_a",
-        "a": "nit gnůgſam zů der ſeel ſaͤ=\nligkeyt iſt. Antwurt mir vff die ſelbigen dry ſprüch/ ge=\nſtern yngefürt/ das Chriſtus lyden ſye zů verſtan/",
+        "a": "das der bloß einig gloub/ nit gnůgſam zů der ſeel ſaͤ=\nligkeyt iſt. Antwurt mir vff die ſelbigen dry ſprüch/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8289,
-        "semantic_match": "das iſt / ein Werck / das by Gott gel=\nten wurde : Als håtte er geſagt / Jhr fragend nach Wer=\ncken / damit ihr Gott gefallind :",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "von\ndem lyden das vns Gott zůſchickt/ vnnd nit ſelbs erwel\nlen/ doch one ſchrifft/ Sag hie by/ das an Chriſtum glou\nben/",
+        "a": "ge=\nſtern yngefürt/ das Chriſtus lyden ſye zů verſtan/ von\ndem lyden das vns Gott zůſchickt/ vnnd nit ſelbs erwel\nlen/",
         "b": "Antwortet mir off dieſelbigen drey Sprůch / geſtern yngefůhrt / daß Chriſtus Lyden ſeye zů verſtahn\nvon dem Lyden / das uns Gott zůſchickt /",
-        "similarity": 0.3182,
-        "semantic": 0.8003,
-        "reading": "reworded"
+        "similarity": 0.4762
       },
       {
         "op": "only_a",
-        "a": "in jm halt/ alles das/ ſo im Nüwen Teſtament ge=\nſchriben ſtadt/ zů volbringen vnnd anzenemen. Als Chri\nſtus ſpricht/",
+        "a": "doch one ſchrifft/ Sag hie by/ das an Chriſtum glou\nben/ in jm halt/ alles das/ ſo im Nüwen Teſtament ge=\nſchriben ſtadt/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7876,
-        "semantic_match": "und nit ſelbs er=\nwehlen / doch ohne Geſchrifft / ſage hieby / daß an Chri=\nſtum glauben / in ihm halte alles das /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
-        "a": "Johannis vj. Es ſye dann/ das jr werden\neſſen.ꝛc. Jtem Matth. am xvj. Ob etlicher mir wil nach\nuolgen/",
+        "a": "zů volbringen vnnd anzenemen. Als Chri\nſtus ſpricht/ Johannis vj. Es ſye dann/ das jr werden\neſſen.ꝛc. Jtem Matth.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.762,
-        "semantic_match": "das iſt / ein Werck / das by Gott gel=\nten wurde : Als håtte er geſagt / Jhr fragend nach Wer=\ncken / damit ihr Gott gefallind :",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
-        "a": "ſol ſich ſelbs verlöugnen: ſin crütz vff ſich nemen\nvnd mir alſo nachuolgen. Zun Römern am. xij. So din\nfyend hungert/",
+        "a": "am xvj. Ob etlicher mir wil nach\nuolgen/ ſol ſich ſelbs verlöugnen: ſin crütz vff ſich nemen\nvnd mir alſo nachuolgen.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6122,
-        "semantic_match": "200           Die Dritte Schlußred. chen : Wöllen wir nit mit einandern zåchen / und einan=\ndern ſagten daruff / das wird unſer Zåch ſyn /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
-        "a": "ſo ſpyß jn: ſo jn dürſt/ ſo trenck jn.ꝛc. Martinus butzer\nSüch hieuor\nam 88. vnd 89. blatt. Er antwurt halb/",
+        "a": "Zun Römern am. xij. So din\nfyend hungert/ ſo ſpyß jn: ſo jn dürſt/ ſo trenck jn.ꝛc. Martinus butzer\nSüch hieuor\nam 88.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6553,
-        "semantic_match": "ſo im Neuen Te=\nſtament geſchriben ſtaht / zů vollbringen und anzůnemen : als",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
-        "a": "vff dry ſprüch geſtern ynge=\nzogen/ referier ich mich vff die Acta/ die min ant=\nwurt anderſt habend/ dañ ers yetz geäſſert hat. Sie",
+        "a": "vnd 89. blatt. Er antwurt halb/ vff dry ſprüch geſtern ynge=\nzogen/ referier ich mich vff die Acta/ die min ant=\nwurt anderſt habend/ dañ ers yetz geäſſert hat. Sie",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.702,
-        "semantic_match": "das iſt / ein Werck / das by Gott gel=\nten wurde : Als håtte er geſagt / Jhr fragend nach Wer=\ncken / damit ihr Gott gefallind :",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -167,23 +137,18 @@
         "b": "ſo im Neuen Te=\nſtament geſchriben ſtaht / zů vollbringen und anzůnemen : als",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7159,
-    "reworded": 3,
-    "recovered_by_embedding": 6,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 6
+    ]
   },
   "fine": {
-    "similarity": 0.3314,
+    "similarity": 0.3327,
     "words": {
-      "a": 257,
+      "a": 255,
       "b": 268
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite X",
+        "op": "insert",
+        "a": "",
         "b": "200"
       },
       {

@@ -8,7 +8,7 @@
       441
     ]
   },
-  "alignment_score": 0.3314,
+  "alignment_score": 0.3353,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -31,7 +31,7 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite CLXXXIII\nSchlußred CLXXXIII\nButzer\nES iſt vorgeſagt/die wil die Mäß dhein opfer ſin ſan\nwie vß Paulo überflüſſig bewärt iſt/",
+        "a": "Schlußred CLXXXIII\nButzer\nES iſt vorgeſagt/die wil die Mäß dhein opfer ſin ſan\nwie vß Paulo überflüſſig bewärt iſt/",
         "b": null,
         "similarity": 0.0
       },
@@ -51,33 +51,25 @@
         "op": "match",
         "a": "ſo mag diß oꝛt\nvon der Mäß nit verſtanden werdẽ es lege/ es vonn der\nMäß vß/glich wer da welle.",
         "b": "Butzer. Es iſt vorgſagt/diewyl die Maͤß kein opfer\nſin kan/wie vß Paulo überflüſſig bewaͤrt iſt/ ſo\nmag diß ort von der Maͤß nit verſtanden wer-\nden/es lege es vonn der Maͤß vß/glych waͤr da\nwelle.",
-        "similarity": 0.4615,
-        "semantic": 0.6884,
-        "reading": "reworded"
+        "similarity": 0.4615
       },
       {
         "op": "match",
         "a": "Gilg Murer. Wir haben es bewärt/mit vnſer Diſtinction. Butzer. DIe ſelbig Diſtinction iſt ane geſchrifft:des anderen\nteyls halb /",
         "b": "Gilg Murer\nWir habē es bewaͤrt/mit vnſer Diſtinction. Butzer. Die ſelbig Diſtinction iſt one gſchrifft deß\nanderen teyls halb/",
-        "similarity": 0.7317,
-        "semantic": 0.7952,
-        "reading": "same"
+        "similarity": 0.7317
       },
       {
         "op": "match",
         "a": "nãmlich des vermeinten Mäßopffers\nhalb/das ſy geyſtlich nemen/vnd doch liplich iſt. Gilg Murer. WIr fragen hie / zů merer erkantnus /",
         "b": "namlich des vermeyntenn\nMaͤßopffers halb/ das ſy geyſtlich nemē/ vnd\ndoch lyblich iſt. Gilg Murer. Wir fragend hie/zů merer erkantnuß/wz das\nreyn opffer ſye/von dem Malachias ſchrybt.",
-        "similarity": 0.5769,
-        "semantic": 0.7677,
-        "reading": "same"
+        "similarity": 0.5769
       },
       {
         "op": "match",
         "a": "was das reyn\nopffer ſye/von dem Malachias ſchribt. Butzer. ANtwurt. Es ſind die rechtglöubigen hertzen/ir\ngebätt/vñ gantz begäbung/in den willen gottes\ndie werden dem herrn zůbereyt/durch die predi\nger des Euangelij/dauon Paulus zuñ Römern am xv.",
         "b": "Butzer. Antwurt: Es ſind die rechtgloͤubigē hertzē/ jr gebaͤtt vnd gantz begaͤbung in den willē Got-\ntes/die werden dem Herren zůbereyt/durch die\n\n## Marginalien\nHieron am\n203. 204.",
-        "similarity": 0.4324,
-        "semantic": 0.5848,
-        "reading": "different"
+        "similarity": 0.4324
       },
       {
         "op": "only_a",
@@ -89,30 +81,17 @@
         "op": "only_a",
         "a": "Gilg murer. ALs vns̄ geantwurt iſt worden/das rein opffer/ſyen\ndie glöubigen/mit jren bätte vnd der glichen:mag\nhie nit verſtanden werden/dann alle vnſer gerech\ntigkeyt / iſt vnſuber vor Gott / als ſy ſelbs anred ſynd/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6154,
-        "semantic_match": "Schlußred. CCVIII\nGilg Murer. Malachias der Prophet redt hie nit võ jnner-\nlichem opffer/ dann warum er hat vormals ge-\nredt/von dem vſſerlichē opffer der Juden:dan-\nnethin ſo ſetzt er ein Opffer/",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.6903,
-    "reworded": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.4167,
+    "similarity": 0.4188,
     "words": {
-      "a": 191,
+      "a": 189,
       "b": 193
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite CLXXXIII",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Schlußred",
@@ -374,7 +353,7 @@
         "b": "203 204"
       }
     ],
-    "ops": 27,
+    "ops": 26,
     "truncated": false
   }
 }

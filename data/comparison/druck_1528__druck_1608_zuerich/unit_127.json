@@ -8,7 +8,7 @@
       155
     ]
   },
-  "alignment_score": 0.3966,
+  "alignment_score": 0.4,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -23,81 +23,65 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 14,
-    "matched": 6,
-    "only_a": 7,
-    "only_b": 1,
-    "similarity": 0.4323,
+    "units": 13,
+    "matched": 7,
+    "only_a": 6,
+    "only_b": 0,
+    "similarity": 0.4496,
     "pairs": [
       {
         "op": "match",
-        "a": "Seite LVI\n**Schlußred+**\n\nzuͦ d sach dienet / deñ wir erkennen die Christenlich kilch. Das Christus jnen alle gewalt gebe hat /",
+        "a": "**Schlußred+**\n\nzuͦ d sach dienet / deñ wir erkennen die Christenlich kilch. Das Christus jnen alle gewalt gebe hat / die suͤnd zeuer\nzychen da er spricht /",
         "b": "Schlußred. 121\ndie Chriſtenlich Kilch. Das Chriſtus jnen allen gewalt\ngeben hat/die Sünd zeuerzychen da er ſpricht/nemmet hin\nden heillgen Geiſt/wem jr die Sünd verzychend/etc.",
-        "similarity": 0.3673,
-        "semantic": 0.7885,
-        "reading": "reworded"
+        "similarity": 0.4727
       },
       {
         "op": "only_a",
-        "a": "die suͤnd zeuer\nzychen da er spricht / nement hin den heyligen geyst / wem\njr die suͤnd verzychent / ꝛc.",
+        "a": "nement hin den heyligen geyst / wem\njr die suͤnd verzychent / ꝛc. Da niemand abred ist / das es\nzuͦ allen juͤngern geschehe sig /",
         "b": null,
         "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "Da niemand abred ist / das es\nzuͦ allen juͤngern geschehe sig / das er aber darum̃ den an=\ndern die schluͤssel verheissen da geleystet habe /",
+        "a": "das er aber darum̃ den an=\ndern die schluͤssel verheissen da geleystet habe / das zeygt\ndie gschrifft nit heyrrer an /",
         "b": "Da\nniemand abred iſt/ daß es zů allen Jüngern geſchehen ſyg/ daß er aber darumb den andern die Schlüſſel verheiſſen da\ngeleiſtet habe/das zeigt die Gſchrifft nit heiter an/ſonders\nzeigt die Gſchrifft nit heiter an/ſonders zeigt die Gſchrifft\nan/das Johan.am letzten cap.",
-        "similarity": 0.3836,
-        "semantic": 0.6404,
-        "reading": "reworded"
+        "similarity": 0.3529
       },
       {
         "op": "only_a",
-        "a": "das zeygt\ndie gschrifft nit heyrrer an / sonders zeygt die gschrifft an\ndas Joan. am letsten Cap. Petro in sonderheit geleistet\nsien die schluͤssel /",
+        "a": "sonders zeygt die gschrifft an\ndas Joan. am letsten Cap. Petro in sonderheit geleistet\nsien die schluͤssel / in de so er spricht zum dritten mal /",
         "b": null,
         "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "in de so er spricht zum dritten mal / weid\nmine schaͤffly / das es aber insonderheyt jm da geleistet sy\nvnd nit den andern /",
+        "a": "weid\nmine schaͤffly / das es aber insonderheyt jm da geleistet sy\nvnd nit den andern / zeygt an das Christus Petrum voͤ\nden anderen genommen hat /",
         "b": "Petro in ſonderheit geleiſtet\nſyen die Schlüſſel/ in dem ſo er ſpricht zum dritten mal/ weid mine Schäffly/ daß es aber inſonderheit jm da gelei=\nſtet ſy vnd nit den andern/zeigt an das Chriſtus Petrum\nvon den anderen genommen hat/",
-        "similarity": 0.5538,
-        "semantic": 0.7856,
-        "reading": "same"
+        "similarity": 0.5672
       },
       {
-        "op": "only_a",
-        "a": "zeygt an das Christus Petrum voͤ\nden anderen genommen hat / dannanhar heyrer ist / das\ner jm verheyssen Matthei am xviij.",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_a",
-        "a": "Capi. in sonders\ngeleystet habe Joan. am letste Cap. Das aber Christus\nMatth. am xviij. Capitel. Den gewalt geben / zuͦ bin\nden vnd entbinden /",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
+        "op": "match",
+        "a": "dannanhar heyrer ist / das\ner jm verheyssen Matthei am xviij. Capi. in sonders\ngeleystet habe Joan. am letste Cap. Das aber Christus\nMatth.",
         "b": "dannenhar heiter iſt/das\ner jm verheiſſen Matth.am 18.cap.inſonders geleiſtet ha=\nbe Johan.am letzten cap. Das aber Chriſtus Matth.am\n18.cap.",
+        "similarity": 0.449
+      },
+      {
+        "op": "match",
+        "a": "am xviij. Capitel. Den gewalt geben / zuͦ bin\nden vnd entbinden / das hat er jnen geleystet. Johannis\nam xx. cap.",
+        "b": "Den gewalt geben/zů binden vnnd entbinden/das\nhat er jnen geleiſtet Joan. am 20.ca.Do er ſprach/nemend\nden heiligen Geiſt/etc.",
+        "similarity": 0.4545
+      },
+      {
+        "op": "only_a",
+        "a": "So er sprach / nemend den heyligen geyst / ꝛc. **Berchtoldus+**\n\nWEnn meyster Jacob seche die vrsach / warumb\nChristus Petro die schluͤssel verheissen hatt /",
+        "b": null,
         "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "das hat er jnen geleystet. Johannis\nam xx. cap. So er sprach / nemend den heyligen geyst / ꝛc. **Berchtoldus+**\n\nWEnn meyster Jacob seche die vrsach /",
-        "b": "Den gewalt geben/zů binden vnnd entbinden/das\nhat er jnen geleiſtet Joan. am 20.ca.Do er ſprach/nemend\nden heiligen Geiſt/etc.",
-        "similarity": 0.375,
-        "semantic": 0.4295,
-        "reading": "different"
-      },
-      {
-        "op": "match",
-        "a": "warumb\nChristus Petro die schluͤssel verheissen hatt / so\nwurd er verston das die selbige verheyssung all\nApostel antrifft / dann aben das Petrus gloubt vnd be=\nkent hat /",
+        "a": "so\nwurd er verston das die selbige verheyssung all\nApostel antrifft / dann aben das Petrus gloubt vnd be=\nkent hat /",
         "b": "Berchtoldus. WEnn Meiſter Jacob ſeche die vrſach/warumb Chri=\nſtus Petro die Schlüſſel verheiſſen hat/ſo wurd er\nverſton daß die ſelbige Verheiſſung all Apoſtel an=\ntrifft/dann åben das Petrus gloubt vnnd bekent hat/das\nChriſtus ſye ein Sun deß låbendigen Gottes/",
-        "similarity": 0.507,
-        "semantic": 0.9065,
-        "reading": "same"
+        "similarity": 0.4444
       },
       {
         "op": "only_a",
@@ -109,9 +93,7 @@
         "op": "match",
         "a": "Darum̃ haben sy ouch die leistung der schluͤssel\nempfangen / demnach wz er herin bringt ist alles verant\nwurtet vilfaltrig /",
         "b": "das hend\nouch die andern bekent vnd gloubt. Johan. am ſechſten. Darumb haben ſy ouch die leiſtung der Schlüſſel empfan=\ngen/demnach was er herin bringt iſt alles verantwort vil=\n                             Q\n\n## Marginalien\n[Zeile 1–2, rechts:]\nIoan. 20. cap.",
-        "similarity": 0.4068,
-        "semantic": 0.6411,
-        "reading": "reworded"
+        "similarity": 0.4068
       },
       {
         "op": "only_a",
@@ -123,30 +105,17 @@
         "op": "only_a",
         "a": "mag nit beston / dan schaͤffly\nweyden / eyn hirt sin gepuͤrt allen Predigerenn / dann",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6393,
-        "semantic_match": "dannenhar heiter iſt/das\ner jm verheiſſen Matth.am 18.cap.inſonders geleiſtet ha=\nbe Johan.am letzten cap. Das aber Chriſtus Matth.am\n18.cap.",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.6901,
-    "reworded": 3,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.5698,
+    "similarity": 0.572,
     "words": {
-      "a": 288,
+      "a": 286,
       "b": 249
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite LVI",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Schlußred",
@@ -638,7 +607,7 @@
         "b": "verantwort vil Q Marginalien Zeile 1 2 rechts Ioan 20 cap"
       }
     ],
-    "ops": 50,
+    "ops": 49,
     "truncated": false
   }
 }

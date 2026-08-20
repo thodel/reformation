@@ -8,15 +8,15 @@
       241
     ]
   },
-  "alignment_score": 0.4364,
+  "alignment_score": 0.4444,
   "coarse": {
     "paragraphs": {
-      "a": 8,
+      "a": 7,
       "b": 6
     },
     "counts": {
       "equal": 0,
-      "replace": 8,
+      "replace": 7,
       "delete": 0,
       "insert": 0
     },
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 0,
     "only_b": 5,
-    "similarity": 0.4868,
+    "similarity": 0.4916,
     "pairs": [
       {
         "op": "only_b",
@@ -43,27 +43,21 @@
       },
       {
         "op": "match",
-        "a": "Seite [VCX]\n\nDie dritte\nMartinus Bucerus\n\nHieuor am\npꝛ.vii.94.blat. Vff die erst / ist die antwurt geben in der erklaͤr=\nung herrn Berchtolden/die ander bringt dz nit/",
+        "a": "Die dritte\nMartinus Bucerus\n\nHieuor am\npꝛ.vii.94.blat. Vff die erst / ist die antwurt geben in der erklaͤr=\nung herrn Berchtolden/die ander bringt dz nit/",
         "b": "Marti Butzer. Vff die erſt / iſt die antwurt gebē in der erklaͤ\nrung herrn Berchtolden. Die ander bringt das\nnit /",
-        "similarity": 0.5882,
-        "semantic": 0.6855,
-        "reading": "same"
+        "similarity": 0.6122
       },
       {
         "op": "match",
         "a": "das Thabita jr vfferweckung verdienet habe. Bůchstab +\n\nVerklaͤrung vnd beståtung miner vor angezo=\ngnen gschrifften / sag ich / das darby geschriben\nstat /",
         "b": "dz Thabita jr vfferweckung verdienet habe. Bůchſtab. Zů erklaͤrung vnd beſtaͤtung miner vorange=\nzognen gſchrifften / ſag ich / das darby geſchribē\nſtadt:",
-        "similarity": 0.6222,
-        "semantic": 0.9058,
-        "reading": "same"
+        "similarity": 0.6222
       },
       {
         "op": "match",
         "a": "das sy wåre vol gůter wercken / vnd almů\nsen geben / als sy thet / volget schier hernach am v. Capi. Das der Engel zů Cornelio hab gesprochen /",
         "b": "das ſy waͤre voll gůter wercken / vnnd all=\nmůſen geben / als ſy thett / volget ſchier hernach\nam x. cap.",
-        "similarity": 0.4783,
-        "semantic": 0.7874,
-        "reading": "reworded"
+        "similarity": 0.4783
       },
       {
         "op": "only_b",
@@ -75,17 +69,13 @@
         "op": "match",
         "a": "din gebått\nvnd allmůsen sind vffgestigen in die gedechtnus / für das\nangesicht gottes / der glichen wirt ouch funden by dem så\nligen man Thobia /",
         "b": "fůr das angeſicht got=\ntes. Derglychen wirt ouch funden by dem ſaͤli=\ngen mā Thobia / ſo er ſpricht: Mit dem allmů=\nſen vnd glouben werden abgereiniget die ſuͤnd.",
-        "similarity": 0.3704,
-        "semantic": 0.6945,
-        "reading": "reworded"
+        "similarity": 0.3704
       },
       {
         "op": "match",
         "a": "so er spricht / mitt dem almůsen vnd\nglouben werden abgereiniget die sůnd. Martinus Butzer. Der Thabita halber / ist 8 reyt klar / da laß ichs\nbliben",
         "b": "Martin Butzer. Der Thabita halber / iſt der Text klar / da laß\nichs blyben. Cornelius gebaͤtt vn̄ allmůſen / ſind\nvon Gott angenomen wordē /",
-        "similarity": 0.375,
-        "semantic": 0.6608,
-        "reading": "reworded"
+        "similarity": 0.375
       },
       {
         "op": "only_b",
@@ -99,23 +89,18 @@
         "b": "wiewol die\nſelb Hiſtori nit Bibliſch iſt / das mit gloub vnd\no iij\n\n## Marginalien\nHieuor am\n105. 106.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7468,
-    "reworded": 3,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.4463,
+    "similarity": 0.4488,
     "words": {
-      "a": 128,
+      "a": 126,
       "b": 235
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite VCX",
+        "op": "insert",
+        "a": "",
         "b": "Schlußred CVIII ment erfindenn Als Christus spricht Matthei am vij Der da thůt den willen mins him elſche vatters der wirt gon inn das rych der himlen Actuum am x hat Thabita vmb der gůten wer cke wille"
       },
       {

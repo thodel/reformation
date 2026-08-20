@@ -8,42 +8,42 @@
       329
     ]
   },
-  "alignment_score": 0.1458,
+  "alignment_score": 0.1471,
   "coarse": {
     "paragraphs": {
-      "a": 2,
+      "a": 1,
       "b": 1
     },
     "counts": {
       "equal": 0,
-      "replace": 2,
+      "replace": 1,
       "delete": 0,
       "insert": 0
     },
     "similarity": 0.0
   },
   "sentences": {
-    "units": 15,
-    "matched": 2,
-    "only_a": 10,
-    "only_b": 3,
-    "similarity": 0.4567,
+    "units": 13,
+    "matched": 4,
+    "only_a": 8,
+    "only_b": 1,
+    "similarity": 0.3954,
     "pairs": [
       {
-        "op": "only_a",
-        "a": "Seite XCIII\n\n**Schlußred.** **XCIII**\nChriſten verſtan / daß das wort Gottes allenthalß vns\nermant / zů den wercken vnd früchten des geiſts /",
-        "b": null,
-        "similarity": 0.0
+        "op": "match",
+        "a": "**Schlußred.** **XCIII**\nChriſten verſtan / daß das wort Gottes allenthalß vns\nermant / zů den wercken vnd früchten des geiſts / vñ die\nvnſern gloub vnd liebe bezůge /",
+        "b": "49\nDie dritt Schlusfred,\nstus allein vobbracht hat, das werck unser erlofung\ndaerumb Ist de hein mitt verdienst, Noch vordienst der\ndan werck der erlofung vnd ewiger Delierit gemaes Sie\nHiemitt sollen aber all From schriften verstan, das das\nwort gottes, allen halb vns ermandt, zu den werc¬\nken und fruchten des geists, vnd die unser glaub\nvnd liebe bezugen, ad Romanos.i.",
+        "similarity": 0.3182
+      },
+      {
+        "op": "match",
+        "a": "zun Römern. j. ca. Aber\nvon dem vertrůwen vn̄ eygengesůchtigē an̄nemen der\nwercken / warnet vnd bedzöwt vns alle gſchrifft.",
+        "b": "wer van dem\nvertruwen, vnd eygen gesuchigem annamen der\nwercken, warnot vnd bedrowt vns alle schrifft,\ndeutronomij viiije. Esaije. v.",
+        "similarity": 0.35
       },
       {
         "op": "only_a",
-        "a": "vñ die\nvnſern gloub vnd liebe bezůge / zun Römern. j. ca. Aber\nvon dem vertrůwen vn̄ eygengesůchtigē an̄nemen der\nwercken /",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_a",
-        "a": "warnet vnd bedzöwt vns alle gſchrifft. Deut. am viiij. Eſaie am v. Zum Tito. ij. vnd iij. cap. vnd der\nHerr mit einer glychnuß vom Phariſeer /",
+        "a": "Deut. am viiij. Eſaie am v. Zum Tito. ij. vnd iij. cap. vnd der\nHerr mit einer glychnuß vom Phariſeer /",
         "b": null,
         "similarity": 0.0
       },
@@ -63,18 +63,6 @@
         "op": "only_a",
         "a": "Alſo vzycht ſich Paulus aller ſiner ge\nrechtigſeit / vn̄ achters für kat / vff das er Chriſtů gewin̄e\nne / zun Philip.",
         "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "49\nDie dritt Schlusfred,\nstus allein vobbracht hat, das werck unser erlofung\ndaerumb Ist de hein mitt verdienst, Noch vordienst der\ndan werck der erlofung vnd ewiger Delierit gemaes Sie\nHiemitt sollen aber all From schriften verstan, das das\nwort gottes, allen halb vns ermandt, zu den werc¬\nken und fruchten des geists, vnd die unser glaub\nvnd liebe bezugen, ad Romanos.i.",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "wer van dem\nvertruwen, vnd eygen gesuchigem annamen der\nwercken, warnot vnd bedrowt vns alle schrifft,\ndeutronomij viiije. Esaije. v.",
         "similarity": 0.0
       },
       {
@@ -122,15 +110,15 @@
     ]
   },
   "fine": {
-    "similarity": 0.428,
+    "similarity": 0.4297,
     "words": {
-      "a": 271,
+      "a": 269,
       "b": 243
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite XCIII Schlußred XCIII Chriſten",
+        "a": "Schlußred XCIII Chriſten",
         "b": "49 Die dritt Schlusfred stus allein vobbracht hat das werck unser erlofung daerumb Ist de hein mitt verdienst Noch vordienst der dan werck der erlofung vnd ewiger Delierit gemaes Sie Hiemitt sollen aber all From schriften"
       },
       {

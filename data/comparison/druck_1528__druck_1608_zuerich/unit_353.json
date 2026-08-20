@@ -8,19 +8,19 @@
       408
     ]
   },
-  "alignment_score": 0.4946,
+  "alignment_score": 0.4982,
   "coarse": {
     "paragraphs": {
-      "a": 6,
+      "a": 5,
       "b": 3
     },
     "counts": {
       "equal": 1,
-      "replace": 5,
+      "replace": 4,
       "delete": 0,
       "insert": 0
     },
-    "similarity": 0.2222
+    "similarity": 0.25
   },
   "sentences": {
     "units": 19,
@@ -31,7 +31,7 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite CLXIX\n\n**Schlußred CLXIX**\n***Aechster Vlrich zwingly.***\n\n[A]ll vnser leer vnd red ist ouch allein der selben / darumb lassen wir alle Christglöubigen erken-\nnen.",
+        "a": "**Schlußred CLXIX**\n***Aechster Vlrich zwingly.***\n\n[A]ll vnser leer vnd red ist ouch allein der selben / darumb lassen wir alle Christglöubigen erken-\nnen.",
         "b": null,
         "similarity": 0.0
       },
@@ -39,67 +39,49 @@
         "op": "only_a",
         "a": "***HErr Matthias/ Pfarrer zů Söngen/ vff anzug***\n[H]des Comenthůrs zů Kůßnacht/ als Collatorn vnd Lehenherren\nder genempte Pfarr zů Sön̄ge/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6802,
-        "semantic_match": "Dernhalben ich im zuͤgeschriben/ in vff das hoͤchst/ vnd by Christen=\nlicher pflicht / erfordert hab / das er sich hiehar verfuͤge/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "vmb rechenschafft siner lerr/ hat\nsich der selb Herr Matthis/ offenlich bekannt/ das er das Euangelium\ngeprediget hab/ vnd alle Ceremonien abgestellt/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7244,
-        "semantic_match": "Darzuͦ hab ich die selbigen einer\nChristenlichen Gemeind zuͦ Vlm/ geprediget/ vnd in sonderheit die\nvierdte Schlußred/ jnnhaltet vom Nachtmal deß Herrn /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "so vil jm möglich. Aber\ndes Sacraments halb/ habe er vß den Euangelisten Mattheo/ Marco/ Luca/ Johanne vnd Paulo/ den bůchstaben anders nit verstanden/",
         "b": "374 Die vierdt\nMattheo/ Marco/ Luca/ Johanne vnd Paulo/ den Buͦchstaben an=\nders nit verstanden vnd also geprediget/ wie der Pfarrer von Sant\nGallen:",
-        "similarity": 0.3673,
-        "semantic": 0.7524,
-        "reading": "reworded"
+        "similarity": 0.3673
       },
       {
         "op": "match",
         "a": "vnnd\nalso geprediget/ wie der Pfarrer von Sant Gallen: Vnd wie der selb be\nricht/ also sye er ouch durch Meyster Vlrich vnnd ander/",
         "b": "Vnnd wie derselb bericht/ also sye er ouch durch Meister\nVlrich vnd ander/ bericht: benuͤge sich der erklaͤrung wol.",
-        "similarity": 0.3556,
-        "semantic": 0.8656,
-        "reading": "reworded"
+        "similarity": 0.3556
       },
       {
         "op": "match",
         "a": "bericht: benůge\nsich der erklärung wol. Vnd wie er hieuor vff dem ersten/ handtuest ge\nwesen/ also well er yetz ouch by disem/",
         "b": "Vnd wie\ner hievor vff dem ersten/ handvest gewesen/ also well er jetz ouch by\ndisem/ vest vnd handhafft syn/",
-        "similarity": 0.6047,
-        "semantic": 0.8487,
-        "reading": "same"
+        "similarity": 0.6047
       },
       {
         "op": "match",
         "a": "vest vnd handthafft sin/ so vil jm\nGott sin hilff verlycht. ꝛc. ***Conradus Som von Rotenacker/***\n***Predicant zů Vlm.***\n\n[F]Romen Christenlichen/",
         "b": "so vil im Gott syn hilff verlicht. tc. Conradus Som von Rotenacker/ Predicant zuͦ Vlm. ERkommen Christenlichen/ lieben Herren vnd Bruͤ=\nder/",
-        "similarity": 0.5909,
-        "semantic": 0.7632,
-        "reading": "same"
+        "similarity": 0.5909
       },
       {
         "op": "match",
         "a": "lieben herren vnd Brů-\nder/ ich bin nit der meinung hie/ das ich die Schlußred wider\nfechten welle/ sonders halt ich sy für Christenlich/",
         "b": "ich bin nit der meinung hie/ daß ich die Schlußred wi=\nderfechten welle/ sonders halt ich sy fuͤr Christenlich/",
-        "similarity": 0.6818,
-        "semantic": 0.8551,
-        "reading": "same"
+        "similarity": 0.6818
       },
       {
         "op": "match",
         "a": "vnd in Göt\nlicher gschrifft so wol gegrůndt/ das weder Tůffel noch men\nschen etwas darwider vermögend. Darzů hab ich die selbige einer Chri\nstenlichen gemeynd zů Vlm/",
         "b": "vnd in\nGoͤttlicher Gschrifft so wol gegruͤndt/ das weder Tuͤffel noch Men=\nschen etwas darwider vermoͤgend.",
-        "similarity": 0.5,
-        "semantic": 0.8545,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "only_b",
@@ -111,33 +93,25 @@
         "op": "match",
         "a": "geprediget/ vnnd in sonderheyt die vierdte\nSchlußred/ jnnhaltet vom Nachtmal des Herren/ gelert/ namlich/ das\nder lyb vnd das blůt Christi im brot vnd wyn/",
         "b": "gelert/ namlich/ das der Lyb vnd das Bluͦt Christi im Brot vnd Wyn/ nit\nwesenlich empfangen werde. Vff soͤlich myn Leer/",
-        "similarity": 0.5,
-        "semantic": 0.7948,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "match",
         "a": "nit wesenlich empfangen\nwerde. Vff sölich min leer/ hat mich Doctor Hans Eck/ zů Ingolstatt/ der wytberůmpt fyend/ aller dero die das Euangelium Christi trůwlich\nverkůndend/",
         "b": "hat mich Doctor\nHans Eck/ zuͦ Ingolstatt/ der wytberuͤmpt syend/ aller dero die das\nEuangelium Christi truͤwlich verkuͤndend /",
-        "similarity": 0.5957,
-        "semantic": 0.9162,
-        "reading": "same"
+        "similarity": 0.5957
       },
       {
         "op": "match",
         "a": "vff das schmädlichest antastet/ vnd ein lasterbůchly wider\nmich in truck lassen vßgan/ darumb er mich diser leer halb/ ein gotzle-\nrer vnnd kätzer schiltet:",
         "b": "vff das schmaͤchlichest\nantastet/ vnnd ein Lasterbuͤchly wider mich in Truck lassen vßgan/ Darumb er mich diser Leer halb/",
-        "similarity": 0.6957,
-        "semantic": 0.8577,
-        "reading": "same"
+        "similarity": 0.6957
       },
       {
         "op": "match",
         "a": "ja er überschůtt mich vor aller welt/ mit so vil vns\nVu",
         "b": "ein Gottslesterer vnd Kaͤzer schiltet: ja er uͤberschuͤt mich vor aller Welt/ mit so vil vnwarhafftigen\nSchmachworten /",
-        "similarity": 0.5625,
-        "semantic": 0.6818,
-        "reading": "same"
+        "similarity": 0.5625
       },
       {
         "op": "only_b",
@@ -169,23 +143,18 @@
         "b": "Aber mir ist syn eigne Handgschrifft/ hieher ge=\nschickt worden/ darinnen er sich widert harzekōmen: laßt sich hoͤren/ als",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7995,
-    "reworded": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 2
+    ]
   },
   "fine": {
-    "similarity": 0.5015,
+    "similarity": 0.5031,
     "words": {
-      "a": 302,
+      "a": 300,
       "b": 348
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite CLXIX Schlußred CLXIX Aechster Vlrich zwingly A ll vnser leer vnd red ist ouch allein der selben darumb lassen wir alle Christglöubigen erken nen HErr Matthias Pfarrer zů Söngen vff anzug H des Comenthůrs zů Kůßnacht als Collatorn vnd Lehenherren der genempte Pfarr zů Sön ge vmb rechenschafft siner lerr hat sich der selb Herr Matthis offenlich bekannt das er das Euangelium geprediget hab vnd alle Ceremonien abgestellt so vil jm möglich Aber des Sacraments halb habe er vß den Euangelisten",
+        "a": "Schlußred CLXIX Aechster Vlrich zwingly A ll vnser leer vnd red ist ouch allein der selben darumb lassen wir alle Christglöubigen erken nen HErr Matthias Pfarrer zů Söngen vff anzug H des Comenthůrs zů Kůßnacht als Collatorn vnd Lehenherren der genempte Pfarr zů Sön ge vmb rechenschafft siner lerr hat sich der selb Herr Matthis offenlich bekannt das er das Euangelium geprediget hab vnd alle Ceremonien abgestellt so vil jm möglich Aber des Sacraments halb habe er vß den Euangelisten",
         "b": "374 Die vierdt"
       },
       {
