@@ -57,19 +57,25 @@
         "op": "match",
         "a": "Schlußred. X\ngelium predigen/weliches doch on alle krafft ist/Ser\nHerr Jesus das einig houpt/mache dan föliche predig/",
         "b": "welches doch ohn alle Krafft iſt / der Herr Jeſus / das einig Haupt / mache dann ſolche Predig im Hertzen\nkraͤfftig /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.9308,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "im herzen krefftig/dann Gott gibt das wachsen. Bichouatter. Err Parti Buzer begårt an mich schrifftlich\nzü bewaren/das der heylig S.",
         "b": "dann Gott gibt das wachſen. Bychtvatter. HErr Marti Butzer begehrt an mich / ſchrifftlich zu\nbewaͤhren / daß der heilig Sant Peter ein ſoͤlichen\nGewalt habe /",
-        "similarity": 0.4167
+        "similarity": 0.4167,
+        "semantic": 0.67,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Peter/einfoli=\nchen gewalt habe/oder das die regierung im be\nuolchen/sich also wyt verstreckt/das er in oder fine nach\nkomen/habemogen mache/ein houpt der Kirchen/进\nhoffe so vil jm Gott gnad gibt/das zebewåren.",
         "b": "oder daß die Regierung ihm befohlen / ſich alſo wyt erſtreckt / daß er ihn oder ſyne Nachkommen\nhabe moͤgen machen ein Haupt der Kilchen /",
-        "similarity": 0.3175
+        "similarity": 0.3175,
+        "semantic": 0.4371,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -81,13 +87,17 @@
         "op": "match",
         "a": "Lucas\nam fünfften capitel/sprach Christus zü Pet20: fir d3\nschiff in die tieffe/ vnd spreytend vs üwere netze zu fa=\nchen/wenn die vßlegung Chrisostomi gelten ſolte/alls\nBillich sin fölte.ac.",
         "b": "Fuͤhr das\nSchiff in die Tieffe / und ſpreitend auß euere Netze / zu\nfahen / wenn die Ußlegung Chryſoſtomi gelten ſoͤlte\nals billich ſyn ſoͤlte /",
-        "similarity": 0.4068
+        "similarity": 0.4068,
+        "semantic": 0.4746,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Hieruff ward dem Bichtuatter/durch die Presiden\nten geweert vnd abgeschlagen/nach ordnung der Herren von Bernn/ dhein Lerer anzezüchen.",
         "b": "ꝛc. Hierauff ward dem Bychtvatter durch die Preſidenten geweh-\nret und abgeſchlagen / nach Ordnung der Herren von\nBern / kein Lehrer anzuͤziehen.",
-        "similarity": 0.5238
+        "similarity": 0.5238,
+        "semantic": 0.7725,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -99,13 +109,19 @@
         "op": "only_a",
         "a": "capitel/ sprach Christus zu Petzo: Ich han für dich gebåtten/ vnd du erwan bekert/bestätig dine Brüder/Matthei/ am xvj.capitel/Du bist Petrus/vnnd off den velsen\nwird ich buwen min Kirchen/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7222,
+        "semantic_match": "er hoffe / ſo\nviel ihm Gott Gnad gibt / das zebewaͤhren. Lucas am\nfuͤnfften Capitel ſprach Chriſtus zu Petro:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "vnd die porten der hellen\nwerdend der nitt mogen widerstan: vnnd dir wird ich\ngeben die Schlüssel des Rychs der himlen:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6207,
+        "semantic_match": "er hoffe / ſo\nviel ihm Gott Gnad gibt / das zebewaͤhren. Lucas am\nfuͤnfften Capitel ſprach Chriſtus zu Petro:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -119,7 +135,12 @@
         "b": "Deßhalb derſelb Bycht-\nvatter ſoͤlicher maß wyter redt. C ij Bycht-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6611,
+    "reworded": 1,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3017,

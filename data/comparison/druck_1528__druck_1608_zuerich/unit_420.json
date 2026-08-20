@@ -39,7 +39,9 @@
         "op": "match",
         "a": "ſunder durch die Engel/die/als ouch\nander viſionen/angericht. Der ſpruch Petri/dienet gar\nnitt zů ſinem fürnemen/dann er alſo luter:",
         "b": "452 Die ſechſt\n\nerſt von Himmel wårend kommen / ſonder durch die En=\ngel/die/ als ouch ander Viſionen / angericht. Der Spruch\nPetri/dienet gar nit zů ſynem fürnemmen/",
-        "similarity": 0.5098
+        "similarity": 0.5098,
+        "semantic": 0.7555,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -51,13 +53,17 @@
         "op": "match",
         "a": "Ich wil aber\nflyß thůn/das jr allenthalbe haben nach minem vßgåg/ ſolichs in gedåchtnuß zů halten: dan̄ wir habend nit den\nklůge fablen gefolget/da wir üch kund gethan die krafft\nvnd zůkunfft vnſers Herren Jeſu Chriſti.",
         "b": "dann wir haben nit den klůgen Fablen gefolget / da wir\nůch kund gethan die Krafft vnd Zůkunfft vnſers Herren\nJeſu Chriſti.",
-        "similarity": 0.6102
+        "similarity": 0.6102,
+        "semantic": 0.5985,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Johannes Bůchſtab\n\n[W]Je ichs dargethan hab/daby blyb ich. Ich find\ngeſchriben im bůch Job.xxxiij. das Heliu ein\nfründ Jobs/de Job ein Radt gibt/damit Job\nvõ ſiner widerwertigkeit/entlediget wurde/vñ ſpricht:",
         "b": "Johannes Bůchſtab. WJe ichs dargethan hab/daby blyb ich. Jch find ge=\nſchriben im Bůch Job. 33. das Heliu ein Fründ\nJobs /",
-        "similarity": 0.5862
+        "similarity": 0.5862,
+        "semantic": 0.8785,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,33 +75,49 @@
         "op": "match",
         "a": "So da wirt ein Engel ſin/der da für in eins redt/vß der\nglychen/vnd verkündt die from̄keit des menſchen/wirt\nſich über jn erbarmē/vñ ſagen:",
         "b": "der da für in eins redt/vß der gly=\nchen / vnd verkůndt die Fromkeit deß Menſchen/wirt ſich\nüber in erbarmen/vnd ſagen:",
-        "similarity": 0.6538
+        "similarity": 0.6538,
+        "semantic": 0.7619,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Erledig jn/damit er nit\nabſtyg in die zerſtörung.zc. Hie haben wir kundtſchafft/ das die Engel mögen für vns bitten/wie vil mer die hei\nligen.So S.",
         "b": "Erledig in/damit er nit ab=\nſtyg in die Zerſtörung. ꝛc. Hie haben wir kundſchafft/daß\ndie Engel mögen für vns bitten/wie vil mehr die Heiligen.",
-        "similarity": 0.7143
+        "similarity": 0.7143,
+        "semantic": 0.8884,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Paulus ſpricht.j. Corinth. vj. Wüſſen jr\nnit/das wir die Engel vrteyle werden? Hand nun die\nEngel ſolichen gwalt/wie vil mer haben gewalt die/ſo\nüber ſy vrteylen werden.",
         "b": "So S. Paulus ſpricht. 1. Corinth. 6. Wüſſen jr nit/das\nwir die Engel vrteilen werden ? Hand nun die Engel ſöl=\nlichen gewalt /",
-        "similarity": 0.5926
+        "similarity": 0.5926,
+        "semantic": 0.9402,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Ecolampadius.+\n\n[D]Er ſpruch angezogenn vß Job/zücht ſich nit da\nhin/das den englen zügebe werd/bitt/oder für=\nbitt:",
         "b": "wie vil mehr haben gewalt die/ſo über ſy vr=\nteilen werden. Ecolampadius. DEr Spruch angezogen vß Job/zůcht ſich nit dahin/ daß den Englen zůgeben werd / bitt/oder fürbitt: aber",
-        "similarity": 0.4615
+        "similarity": 0.4615,
+        "semantic": 0.7455,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "aber vil mer/das der engel erman/oð etwz\nverkůnde/vnd ſo krefftigklich vnderwyß vñ lere/dz der\nmenſch",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6417,
+        "semantic_match": "dann er alſo\nlutet: Jch wil aber flyß thůn / daß jhr allenthalben haben\nnach mynem Vßgang / ſöllichs in gedåcktnuß zůhalten:",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7763,
+    "reworded": 1,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6609,

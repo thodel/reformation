@@ -33,13 +33,17 @@
         "op": "match",
         "a": "Es ist ouch darneben yederma erloubt und vergont\nvfzezeychne/was dan difputiert wurde/doch mit gedin=\ngen/das all die/so also für sich selbs schrybend/jrnamen\nden verordneten Norharien angebend/vndaby gelobt/",
         "b": "name\nDas\nthoull\nDeo\nwurde Doch mitt gedingen/ Das all die so\nallso fur sich selbs schribend/ Ir namen Den ver//",
-        "similarity": 0.3704
+        "similarity": 0.3704,
+        "semantic": 0.4432,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "das sy nüt des/so sy ofzwicken/Trucken lassen/voz dem\nvnd die Acta vßgangen. Duch wider die Acta nüzit zeschrybé.",
         "b": "ordnoten Notharien angebend/ vnd daby gelobet/ Das sy nudt des/ so sy vffzwicken trucken lassen/ Vor dem vnd die acta vssgangen/",
-        "similarity": 0.5238
+        "similarity": 0.5238,
+        "semantic": 0.5654,
+        "reading": "check"
       },
       {
         "op": "only_b",
@@ -51,25 +55,33 @@
         "op": "match",
         "a": "Wo aber in den\nActen etwan gejrret wire/ aldan das einer Oberkeit zu\nBern gutlich anzeygen. Item das sy nit gemietet\nnoch vnderschoben/oder einichs wegs bößlich yngefüret\n■yend/sond allein zu zü gütem der warheit/schribe wellent.",
         "b": "Item das sy nit gemietet/noch vderschobenn\noder einichs wegs böslich zugefurt siend/ sonders\nallein zuͦ guͦtten der warheit/",
-        "similarity": 0.4483
+        "similarity": 0.4483,
+        "semantic": 0.6764,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Der disputierenden Ordnung\nDas die/dené nachgelassen zedisputieren/zam/fittés\nElich vnd gsatzlich reden/damit die vier Notharien/die\nwort glychlich verfassen möchtind.",
         "b": "schriben wellend/ Der Disputierenden\nordnung/ Das die denen nachgelassen ze disputieren\nzam/ sittentlich vnnd gsatzlich reden/ Damit\ndie vier notharien/",
-        "similarity": 0.6047
+        "similarity": 0.6047,
+        "semantic": 0.7647,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Das ouch keiner reden sölte one erloupnuß der presi\ndenten/oder so sy in der vrfrag/ harum fragrind vin er=\nloubrind zereden.",
         "b": "die wort glichlich verfassen\nmochten/ 1/ Das ouch keiner reden soͤlle ane erloubnus der pre// sidenten/ oder so sy in der vrsach/",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.514,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Es ist ouch zu gütem/vnd fürdrig der warheit/ye=\nderman mit ordnung zereden/nit abgeschlage wordé/vi\nalso mencklich erlaubt/zü handthabung der warheit/ei=\nnem yeden Respondente vi Opponenten/züzespringe.",
         "b": "harumb fragtind/ vnd\nerlouptnis zereden/ 2/ Es ist ouch zuͦ guͦtem vnnd fürdrung Der warheit Jederman\nmit ordnung zereden/ nit abgeschlagen worden/ vnnd",
-        "similarity": 0.3571
+        "similarity": 0.3571,
+        "semantic": 0.6789,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -89,7 +101,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6071,
+    "reworded": 2,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4135,

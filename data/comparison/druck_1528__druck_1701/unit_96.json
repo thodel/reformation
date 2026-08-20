@@ -39,19 +39,27 @@
         "op": "only_a",
         "a": "darumb der herr deſter mer by jnenn ſyn welle/ſo muͤß\nouch ein yeder gloͤubiger empfinden vnnd nitt waͤnen/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7992,
+        "semantic_match": "da er wi=\nder die haͤlle Wort unſers Herzen Jeſu / als er heiſſet den\nBruͤder / ſo ſich uͤber bezuͤgte Warnung nit beſſern wil /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "das der herr by jm ſye/das er mit Paulo ſprechen moͤge/ jch laͤben nit/ich richten nit/ich reden nit/ſonders Jeſus\nChriſtus der thůt es in mir alles.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.768,
+        "semantic_match": "da er wi=\nder die haͤlle Wort unſers Herzen Jeſu / als er heiſſet den\nBruͤder / ſo ſich uͤber bezuͤgte Warnung nit beſſern wil /",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "In der verantwurtung/der geſtrigen vnred des Pro\nuincials/hab ich huͤt an dem ort gelaſſen/do er wider die\nhaͤlle wort vnſers herren Jeſu/als er heyſſet den brůder/",
         "b": "88\tDie Erſte Schlußred. Jn der Verantwortung der geſtrigen Vnred deß\nProvincials / hab ich huͤt an dem Ort gelaſſen /",
-        "similarity": 0.4231
+        "similarity": 0.4231,
+        "semantic": 0.5545,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -63,7 +71,9 @@
         "op": "match",
         "a": "ſo ſich uͤber bezuͤgte warnung nit beſſeren wil/der Kilch\nen anzeygen/fuͤrgeben hat/das die Kilch/nit allein ein\nſondre verſamlung/ſonder die gantze gemeine Kilch im\nConcilio verſamlet heyſſen ſoͤlle/vn̄ hatt fuͤrgebē/das in\ngemeinen ſuͤnden wol nit not ſye/eins gemeynen Conci=\nlij zeerwarten/ſonders es moͤge ein yede gemeynd gottes\nſolche ſtraffe.",
         "b": "der Kilchen anzeigen / fuͤrgeben hat / daß die Kilch nit\nallein ein ſondere Verſamlung / ſonder die gantze ge=\nmeine Kilch im Concilio verſamlet heiſſen ſoͤlle /",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.7708,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,7 +91,9 @@
         "op": "match",
         "a": "Aber ſo es den gloubē belange/ſo ſye die ſach\nnit durch ein yede gemeynd/ſonder ein gemeyn Concili=\num vßzerichten/damit nit diſe Kilch eyn meynung an=\nneme/vnd die andre das widerspil/vnnd werde alſo zuͤ=\ngerichtet zertrennung vnnd ſpaltung/wie er des exem=\npels wyß/die Kilch zuͤ Wyttenberg/vnd Zuͤrich ſo des\nSacramēts halbē/mißhaͤlig ſind/angezogē.",
         "b": "damit nit diſe Kilch ein Meynung annemme / und die\nandere das Widerſpil / und werde alſo zuͤgerichtet Zer=\ntrennung und Spaltung /",
-        "similarity": 0.3294
+        "similarity": 0.3294,
+        "semantic": 0.7915,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -93,13 +105,17 @@
         "op": "match",
         "a": "Hieruff iſt\nmyn anwurt/am erſten/dz ſin vnred on gſchrifft iſt/vß\ndeshalb dißs ortt nit zeuerantwurten/der text iſt klar/",
         "b": "Hieruff iſt myn Ant=\nwort / am erſten / daß ſyn Vnred ohn Geſchrifft iſt / und\ndeßhalb diß Ort nit zeberantworten : Der Text iſt\nklar /",
-        "similarity": 0.4889
+        "similarity": 0.4889,
+        "semantic": 0.8542,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "das er redt vonn der gemeind/welcher der ſuͤndig brůder\nmoͤge von eim yeden angegeben werden/ſo wil der Pro=\nuincial ſelber vnder dem namen/ſuͤnd/diſers orts ouch\nKaͤtzery vn̄ falſche leer verſtande habe/daruß dan volget\nZ ij",
         "b": "daß er redt von der Gemeind / welcher der ſuͤndig\nBruͤder moͤge von einem jeden angegeben werden. So\nwil der Provincial ſelber under dem Namen (Suͤnd)\ndiſes Orts auch Kaͤtzerey und falſche Lehr verſtanden\nhaben /",
-        "similarity": 0.6024
+        "similarity": 0.6024,
+        "semantic": 0.5805,
+        "reading": "check"
       },
       {
         "op": "only_b",
@@ -119,7 +135,12 @@
         "b": "Zum andern / diewyl ſyn menſchliche Vn=\nred by den Einfaͤltigen ein Schyn moͤcht haben / als ob\nmehr\nM 2",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7312,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4565,

@@ -39,43 +39,57 @@
         "op": "match",
         "a": "**Schlußred. LXXVIII**\nnichtigen Element / vnnd wältlich ſatzungen abgefůrt\nſind / haben einen tag heiliger dañ den andern gehalten/ des vernåme man den ſpruch Pauli zů den Galatern am\niiij.",
         "b": "vrsach das Volck dadurch von Gott dem Herren vff die\nnichtigen Element / vnnd weltlich satzungen abgefürt sind / haben einen tag heiliger dann den andern gehalten /",
-        "similarity": 0.4906
+        "similarity": 0.4906,
+        "semantic": 0.7184,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Nun aber ſo jr gott erkent haben/zc. Das er aber an= Vnd hatt ſol=\nzogen hatt / die Kilch habe ſolche ding gott zů lob vnnd lichen text da=\nEer angericht /",
         "b": "deß\nvernäme man den Spruch Pauli zů den Galatern am 4. Nun aber so jr Gott erkent haben / etc. Das er aber anzogẽ\nhat /",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.4321,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "geſton wir nitt / ſonders Gott iſt damit mit geleſen. geſchmåcht worden / diewil fůrgebē iſt / als man mit ſol=\nlichem jm etwas abuerdienen möge /",
         "b": "die Kilch habe solche ding Gott zů lob vnd Eer ange-\nricht / geston wir nit / sonders Gott ist damit geschmächt\nworden /",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.8888,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "man hat ouch Chri\nſtum Jeſum zů einem vnuolkomnē meyſter darmit dar\ngeben / als ob er vns nit gnůg gelert habe /",
         "b": "diewil fürgeben ist / als man mit sollichem jm et-\nwas abuerdienen möge / man hat ouch Christum Jesum\nzů einem vnuollkommen Meister darmit dar geben /",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.72,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "was dem vat=\nter gefellig iſt / wo man aber fry willig etlich tag zůſamē\nkåme / in hözung des gottes worts /",
         "b": "als\nob er vns nit gnůg gelert habe / was dem Vatter gefellig ist / wo man aber frywillig etlich tag zůsammen kåme /",
-        "similarity": 0.4878
+        "similarity": 0.4878,
+        "semantic": 0.4669,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "vnd vmb etwas an=\nligende ſachen / ernſtlich gebåt / mit faſtung zů thůn / wie\nwir låſen / das die Apoſtel gethon habē /",
         "b": "in hoͤ-\nrung deß Gottes Worts / vnnd vmb etwas anligende sa-\nchen / ernstliche gebåt / mit fastung zů thůn / wie wir låsen /",
-        "similarity": 0.4878
+        "similarity": 0.4878,
+        "semantic": 0.8658,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "in Actis am xiij. vnd andren orten mer / dasſelb erkanten wir / von Gott\ngeoffenbaret ſin / warhafftig / erſam. **Am xiij. tag Jenners.**\n**Bůchſtab**\n\nDJe wort ſancti pauli /",
         "b": "das die Apostel gethon haben / in Actis am 12. vnd andren\norten mer / dasselb erkanten wir / von Gott geoffenbaret sin /",
-        "similarity": 0.6087
+        "similarity": 0.6087,
+        "semantic": 0.4237,
+        "reading": "check"
       },
       {
         "op": "only_b",
@@ -87,7 +101,9 @@
         "op": "match",
         "a": "zun Galathern am iiij. vō\ntagē / Moneten / zc. dienen nit vff vns Chriſten / ſonders alleyn vff die / ſo die brůch vnd gewon=\nheiten des geſatzes noch ůbten /",
         "b": "sonders\nallein vff die / so die brüch vnd gewonheiten deß gesa-\ntzes noch übten / das aber Krützgeng / Fasttag / etc. Bim\nY\n\n## Marginalien\nVñ hat\nsoͤllichẽ\ntext das\nmit ge=\nlesen.",
-        "similarity": 0.3103
+        "similarity": 0.3103,
+        "semantic": 0.6113,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -99,9 +115,17 @@
         "op": "only_a",
         "a": "das aber der widerchriſt ſolichs gethon ſoll haben / verſton ich nit / wår hie đ widerchriſt verſtanden ſol wer\nden / ob der Bapſt / oder ander ſyen. D ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7726,
+        "semantic_match": "Schlußred. 169\neiner todtSünd gebotten worden sind / das sy nit von Gott\ndem Herren / sonder von dem Widerchrist vffkommen sind /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.6555,
+    "reworded": 5,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6164,

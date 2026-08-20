@@ -51,7 +51,9 @@
         "op": "match",
         "a": "**Die ander**\n**Bichuatter.**\n\nDEr Berchtold/ vff innred miner antwurt/oder\nvnser antwurt/sagt vñ gibt nach/dz der heylig\ngeyst als ein regierer der Kilchẽ etwas habe ver\nkündt/",
         "b": "Bychtuatter. HErr Berchtold / vff ynred miner antwurt / oder vnſer\nantwurt / ſagt vnd gibt nach / daß der heilig Geiſt/ als ein Regierer der Kilchen /",
-        "similarity": 0.5769
+        "similarity": 0.5769,
+        "semantic": 0.6967,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -63,7 +65,9 @@
         "op": "match",
         "a": "oder geredt/ durch die heyligen Christenlichen\nKilchen/sagt aber/das er nüt habe gesagt oder geleert/ dann das in der Biblischen geschrifft gegründet sye/das\ngib ich gern nach/das aber das von der heyligen Christen\nlichen Kilchen/den Christen menschen gesetzt oder geord\nnet ist/das das nit komen vß dem heiligen geyst/",
         "b": "dann das in der\nBibliſchen Gſchrifft gegruͤndt ſye / das gib ich gern nach/ daß aber das von der heiligen Chriſtenlichen Kilchen /",
-        "similarity": 0.4211
+        "similarity": 0.4211,
+        "semantic": 0.8231,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,7 +79,9 @@
         "op": "match",
         "a": "oder in\nder geschrifft nit sye gegründet/das stat jm noch zůbewä=\nren/hoff ouch das die auctoritet oder der spruch am ij.",
         "b": "das ſtat jm noch zuͤbewaͤren / hoff ouch das\ndie Auctoritet oder der Spruch am 2. zuͦ Timoth. am 3.",
-        "similarity": 0.6364
+        "similarity": 0.6364,
+        "semantic": 0.6491,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -87,21 +93,34 @@
         "op": "match",
         "a": "zů Timotheum am iij. Capi. durch jn ingelegt. Jm das\nnit werde helffen bewären. **Berchtoldus.**\n\nDIe Kilch Christi/ hat nie nüt angenomen/dañ\ndas im wort gottes gegründet ist/nach lut vnd\nsag der ersten bekanten schlußred/aber die kilch\ndienit Christi ist die hat vsserthalb dem wort gottes vil\nangenomen/der spruch Pauli am ij.",
         "b": "dann\ndas im Wort Gottes gegruͤndt iſt / nach lut vnd ſag\nder erſten bekanten Schlußred / aber die Kilch die",
-        "similarity": 0.4474
+        "similarity": 0.4474,
+        "semantic": 0.7888,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "zů Thimoth. am iij\nder zeigt an/das die geschrifft gnůgsam ist wyß zemachẽ\nzur säligkeit. **Bichuatter.**\n\nNIder antwurt herr Berchtolds/so er spricht/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7944,
+        "semantic_match": "cap. durch jn ingelegt/Jm das nit werde helffen bewaͤren. Berchtoldus. DIe Kilch Chriſti / hat nie nuͤt angenommen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "das die Kilch Christi nüt hab angenomen/dañ\ndas in dem gots wort gegründet ist/vnd wil da=\nmit geantwurt haben/vff das so ich sprich/das die Chri\nstenlich",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8509,
+        "semantic_match": "Schlußred. 183\nwiderumb/ Chriſtus ſpricht / ich hab uͤch vil zuͤſagen/aber\nnit anders/dann die Gſchrifft hat alles guͦts/vnd iſt gnuͤg-\nſam vnnd vollkommen den Menſchen zuͦ vnderwyſen zum\nheil:",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7672,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4967,

@@ -39,55 +39,76 @@
         "op": "only_a",
         "a": "aber diß Argumēt / oder gegenwurff\nwurd allein reychē vff die grösse des gloubēs\nvnd nit vff das vermögen des vsserlichen worts/dan so\nder gloub das vermag/vnd nitt das vsser wort/so habē\nwir recht/vñ sind sy von jrem spruch getrungē/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6853,
+        "semantic_match": "beger ich von vnſerm Bruͦder was vſ=\nſerlichen Worts Petrus geredt hab / zuͦ deß netꝫes\ninlaſſung.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "das das\nvsser wort söllich vermögen hab/als sy anzeygent vonn\nwunderzeychen/die von Petro gewürcket/vñ durch mich\nglöubigen nit gewürckt sind.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.712,
+        "semantic_match": "beger ich von vnſerm Bruͦder was vſ=\nſerlichen Worts Petrus geredt hab / zuͦ deß netꝫes\ninlaſſung.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Sag ich das die red vnser\nvordrig meynung bestättet/ dann die wunderwerck we=\nder an minē gloubē noch am vssern wort stand/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6779,
+        "semantic_match": "beger ich von vnſerm Bruͦder was vſ=\nſerlichen Worts Petrus geredt hab / zuͦ deß netꝫes\ninlaſſung.",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "deßhalb\naber jr meynung zeruck lyt/ dann die krafft der wunder\nwercken/nit an vnserm glouben/ sonders an der wal got\ntes stand/daruon hie nit statt ist nach notdurfft zereden/",
         "b": "Schlußred. 311\nſonders an der Wal Gottes ſtand / daruon hie nit ſtatt iſt\nnach noturfft zereden / vnd ſind die ort die Chriſtus vom\nſtarcken Glouben redt /",
-        "similarity": 0.4211
+        "similarity": 0.4211,
+        "semantic": 0.7043,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnd sind die ozt die Christus vom starcken glouben rede\nnit darwider. Pfarrer von Sant Gallen. Jr wüssend wol/das das wort des menschē/als\neins menschē nüt bmag:",
         "b": "nit darwider. Pfarrer von Sant Gallen. WJr wüſſend wol / das das wort deß Menſchen / als\nein Menſchen nǘt vermag:",
-        "similarity": 0.4898
+        "similarity": 0.4898,
+        "semantic": 0.847,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "aber so wir handlen vß\ndem beuelch vñ wort gottes so thůt es nit allein\nnatürliche ding/sonders übernatürliche/ dz eroffnet sich\nin dē wort/",
         "b": "aber ſo wir handlen vß\ndem beſelch vnd Wort Gottes / ſo thuͦt es nit allein\nnatürliche ding / ſonders über natürliche /",
-        "similarity": 0.6522
+        "similarity": 0.6522,
+        "semantic": 0.7342,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "so Petrus dē herrn antwurt/Gebieter durch\ndie ganze nacht arbeitend/habē wir nüt gefangen/indy\nnem wort aber/ wil ich vßspanne das netz:",
         "b": "das eroffnet ſich\nin dem wort / ſo Petrus dem Herrn antwurt / Gebieter / durch die gantze Nacht arbeitend / haben wir nǘt gefangen /",
-        "similarity": 0.4783
+        "similarity": 0.4783,
+        "semantic": 0.8405,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "als sy söllichs\nthon haben/habē sy vmschlossen/ ein grosse viled er visch\nen. Also möchte zůgefürt werden/ der spruch in der ersten\nEpist.",
         "b": "in dynem Wort aber / wil ich vßſpannen das Netꝫ : als ſy\nſöllichs thon haben / haben ſy vmbſchloſſen ein groſſe vile\nder Viſchen.",
-        "similarity": 0.3913
+        "similarity": 0.3913,
+        "semantic": 0.6705,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Petri am ersten cap. vnd zun Römern am am 9. Epitel.",
         "b": "Alſo moͤchte zuͦgefuͤrt werden / der Spruch in\nder erſten Epiſtel Petri am erſten Cap. vnd zun Roͤmern\nam 10.",
-        "similarity": 0.4118
+        "similarity": 0.4118,
+        "semantic": 0.7694,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -101,7 +122,12 @@
         "b": "beger ich von vnſerm Bruͦder was vſ=\nſerlichen Worts Petrus geredt hab / zuͦ deß netꝫes\ninlaſſung.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7379,
+    "reworded": 5,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4149,

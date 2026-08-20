@@ -33,19 +33,25 @@
         "op": "match",
         "a": "Die erst\nWir begårend aber geschrifft/die Petzo zügeb/das inn\nein houpt der Kirchen mache/namlich ein beylland sin\nder Kirchen.",
         "b": "Die Erſte Schlußred. 37\ngehrend aber Geſchrifft / die Petro zügeb / das ihn ein\nHaubt der Kilchen mache / nemlich ein Heyland ſyn der\nKilchen.",
-        "similarity": 0.4889
+        "similarity": 0.4889,
+        "semantic": 0.388,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Wir gebend aber jm geschrifft/ouch des\nwortlin balben/Eynig/darumb das wir am iiij. capia\ntel zun Ephesern haben/ein Herren.",
         "b": "Wir gebend aber ihm Geſchrifft auch deß Wört-\nlins halben/Einig/darum daß wir am 4. Cap. zun Ephe-\nſern haben /",
-        "similarity": 0.3721
+        "similarity": 0.3721,
+        "semantic": 0.7602,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Vnnd in der ersten\nEpistel zu Thimotheo/am ij. capitel/Ein mitler zwi-\nschen Gott vnnd dem menschen. Christus hat allein die\nvnsterblicheyt/vnd das laben/darumb wirt er ouch al-\nlein deren/so zum låben vnd vnsterblicheyt beriffe sind/",
         "b": "einen Herren. und in der erſten Epiſtel zun\nTimotheo am 2. Cap. Ein Mittler zwiſchen Gott und\ndem Menſchen. Chriſtus hat allein die Unſterblichkeit/",
-        "similarity": 0.4062
+        "similarity": 0.4062,
+        "semantic": 0.8103,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,7 +63,9 @@
         "op": "match",
         "a": "ein eynig houpt sin. Bichtuatter. Ch han begårt ein Text/ der da anzeygte das\nwort/Einzig/sind nur text bracht/die da få-\ngen/Ein/ein yerlicher Tütscher weyßt das ein\ngrosser vnderscheyd ist vnder Ein vn Einzig/",
         "b": "Bychtvatter. ICh han begehrt ein Text/der da anzeigte das wort/ Eintzig / ſind nur Text bracht / die da ſagen / Ein :",
-        "similarity": 0.4828
+        "similarity": 0.4828,
+        "semantic": 0.761,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,25 +77,33 @@
         "op": "match",
         "a": "Einzig\nschlüßt all ander vf/in/laßt ein anderen by jm bely-\nben/vnd wirt warlich gseyt/wenn zwen sind/Einer ist/",
         "b": "Ein/ laßt einen andern by ihm blyben/ und wird\nwarlich gſeit / wenn zween ſind / Einer iſt / es wird aber\nnit wahr gſeit /",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.7759,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "es wirt aber nit war gseyt/ein eynzigerist. Buccrus. Jewyl niemand überal ist/der das hab/das zu\neinem houptder Kirchengehört/namlich sy få-\nlig macht/dan allein Christus/",
         "b": "ein eintziger iſt. Bucerus. DJewyl Niemand überal iſt / der das hab / das zu ei-\nnem Haupt der Kilchen gehört / namlich ſy ſelig\nmacht /",
-        "similarity": 0.4615
+        "similarity": 0.4615,
+        "semantic": 0.6714,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "so volgt ye klar\nlich/das man sagé můß/das einzig houpt. Sarzu/die-\nwylniemand mitlen kan zwischen Gott und demen=\nschen/dann allein Christus/so gillt aber dz wortli/Ein\nmitler/als vil als einzig/Also/Jch gloub in eine Gorr.",
         "b": "dann allein Chriſtus / ſo volgt je klarlich / daß\nman ſagen müß/das eintzig Haupt. Darzů / diewyl Nie-\nmand mittlen kan zwiſchen Gott und den Menſchen/dann\nallein Chriſtus/ſo gilt aber das Wörtlin /",
-        "similarity": 0.3733
+        "similarity": 0.3733,
+        "semantic": 0.6178,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Sa ist aber Ein/vnd nit einzig/vnd gillt aber dennest\nDas",
         "b": "Ein Mittler/ als vil als Eintzig/ Alſo/ Jch glaub in einen Gott. Da iſt\naber Ein / und nit Eintzig / und gilt aber dennoch das\nWörtlin/",
-        "similarity": 0.4324
+        "similarity": 0.4324,
+        "semantic": 0.7295,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -95,7 +111,12 @@
         "b": "Ein/ als vil als Eintzig : Dann niemand wird\nihme ein Nebend-Gott bekennen ; alſo iſt auch hie niemand\nE ij          nebend",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6893,
+    "reworded": 7,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4969,

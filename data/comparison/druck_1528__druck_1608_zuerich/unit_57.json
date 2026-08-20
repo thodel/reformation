@@ -39,13 +39,19 @@
         "op": "only_a",
         "a": "Nun hat nye iemant gehoͤrt/das weder die A=\npostel/noch vnser heyligoster vatter der Bapstall/Prie\nster nie kein empfelch gehapt zuͤ absoluieren/ein/der da\nnit den glouben hab/sonders jm empfolhen/zuͤ binden\nin dem gewallt Gottes/vnd zuͤ entbinden die/die sich ge\nschickt hand in glouben/vnd hoffnung/vnd truͤw/dem\ngoͤttlichen wort Christi/das da empfolhen hat/zebindē\nvnd entbinden/wie vor dauon geredt ist.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8104,
+        "semantic_match": "uͤber den / der ſoͤlliches ge-\nthan hat / in dem Namen vnſers Herren Jeſu Chriſti / in\nuͤwer Verſamlung mit minem Geiſt/vnd in der krafft vn-\nſers Herren Jeſu Chriſti/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "&nbsp;&nbsp;&nbsp;&nbsp;Aber zuͤ einer besser bestaͤtung des gewalts/zuͤge ich\ndas durch den heyligen Paulum.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6246,
+        "semantic_match": "daß der/ſo vnordenlich\nwandlet/in vnuerſchampter ergernuß/ſoll verbannet vnnd\nvßgeſchloſſen werden. Matthei am 18.capit. welches ouch\nPaulus zů Corintho than hat/Als jr habend in der erſten\nEpiſtel am 5.cap.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -57,13 +63,17 @@
         "op": "match",
         "a": "j. Timoth. j. cap. da er\ngeredt hat von denen die schiffbruͤchig sind gsin am glou\nben/vß welchen ist gsin Himeneus vnd Alexander/wel\nche ich hab geben dem tuͤffel/vff das/das sy lernen/gott\nnit lesteren.",
         "b": "vß\nwelchen iſt gſin Himeneus vnnd Alexander / welche ich\nhab geben dem Tuͤffel/vff das/daß ſy lernen/Gott nit leſte-\nren.",
-        "similarity": 0.5625
+        "similarity": 0.5625,
+        "semantic": 0.7511,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Nun so Paulus/als dz vßerwelt vaß Chri\nsti/hat hie inn diser zyt den gewallt brucht/vnd gehan/ vnd ist nit on/das der ewig Gott/Christus Jesus/vns\nklarlichen eroffnet hab/den gewallt/so er dem Paulo gen\nhatt/der text ist klar/die wort haͤll vnd luter.",
         "b": "Nun ſo Paulus/als das Vßertwelt Vaß Chriſti/hat\nhie in diſer zyt den gewalt brucht/vnnd gehan/vnnd iſt nit\non/daß der ewig Gott/Chriſtus Jeſus/vns klarlich eroff-\nnet hab/den gewalt /",
-        "similarity": 0.5116
+        "similarity": 0.5116,
+        "semantic": 0.8266,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -81,13 +91,17 @@
         "op": "match",
         "a": "waͤr den selben gloubt hat/dem haben sy zuͤge=\nsprochen vergebung der suͤnd/vnnd nit die vergebung\nder suͤnd selbs geben.",
         "b": "ſin Goͤttlich Wort zů ver-\nkuͤnden/den Apoſtlen/als ſinen Dieneren/ſwaͤr den\nſelben gloubt hat/dem haben ſy zůgeſprochen Verge-\nbung der Suͤnd /",
-        "similarity": 0.4151
+        "similarity": 0.4151,
+        "semantic": 0.6044,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Der spruch vß Thimotheo/zeygt\nan den befelch Christi/einer yeglichen Kilchhoͤry geben/ dz der/so vnordentlich wandlet/in vnuerschampter er=\ngernuß sol verbannet vnnd vßgeschlossenn werdenn. f",
         "b": "vnnd nit die Vergebung der Suͤnd ſelbs\ngebeͤ. Der Spruch vß Timotheo/zeigt an den befelch Chri-\nſti/einer jeglichen Kilch hoͤry geben/",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.8145,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -113,7 +127,12 @@
         "b": "jn zeuͤbergeben dem Tuͤffel / zů\nverderbung deß fleiſchs / vff daß der Geiſt ſaͤlig werd / am\nF   iij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7386,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4172,

@@ -51,7 +51,9 @@
         "op": "match",
         "a": "Die erste Schlufzred/vnd der selben\ngründ/hat Berchtoldus Baller/predicant\nzu Bernn eroffnet. Die heylig Chriftenlich kilch/deren einig\nhoupe Chriftus/ift off dem wort Gots ge\nbom/im selben blybcfy/vnd hozecnic die\nftium eines frombden.",
         "b": "Dixi. Die erſte Schlußred / vnd derſelben gruͤnd/ hat Berchtoldus Haller / Predicant zuͦ\nBern eroͤffnet. Die heilig Chriſtenlich Kilch /",
-        "similarity": 0.3103
+        "similarity": 0.3103,
+        "semantic": 0.6592,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,27 +65,42 @@
         "op": "match",
         "a": "Nad vnd frid bd gott\nvnsere himelschen vatter/der\nwill ons senden sin liecht vin\nwarheit in vnser hertzen/da-\nmit wir all yngefürt werdint/",
         "b": "GNad vnnd frid von Gott vnſerem\nhimelſchen Vatter / der woͤll vns ſenden ſin\nLiecht vnnd Warheit in vnſer Hertzen/damit\nwir all yngefuͤrt werdint/in wahre Erkandt-\nnuß vnſers HErren Jeſu Chriſti deß gecruͤ-\ntzigoten /",
-        "similarity": 0.4516
+        "similarity": 0.4516,
+        "semantic": 0.7784,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "in ware erkatnuß vnsers edle\nsten Herren Jesus Christi des\ngecrützigoten/Amen. fürgeliebten/frommen\nChristen/der Schlußreden/ ſo in gegenwirtiger zweyung/von vns bericht/vn rech=\nnung zu geben/wir erfordret sind/voz einer fölichen lob\nlichen versamlung.",
         "b": "Amen. Fuͤrgeliebten / frommen Chriſten/ der Schlußreden/ſo\nin gegenwirtiger zſweiung/ von vns bericht/ vnnd rechnung\nzuͦ geben/wir erfordret ſind/vor einer ſoͤlichen loblichen Ver-\nſammlung/Jſt die erſt/Die heilig Chriſtenlich Kilch/ꝛc. Soͤ-\n                                                                 liche",
-        "similarity": 0.4737
+        "similarity": 0.4737,
+        "semantic": 0.9308,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Ist die erst/ Die heilig Christens\nlich Kilch.ac. Soliche also üwer liebe fürzetragenn/ hat ons verursachet. Sum ersten/das dz gemein volck\nzu meremtheyl/nit verstadt/was der name (Kilch) off\nim trag.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7745,
+        "semantic_match": "deren einig\nHoupt Chriſtus / iſt vß dem Wort Gottes ge-\nborn/imſelben blybt ſy/vnd hoͤret nit die Stĩm\neines froͤmbden.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Sum andren/das sich somlicher vnwissen=\nheyt des volcks/nit recht gebraucht/die in macherley kil\nchen getheylt/yegund ein allgemeine/dann ein versam\nlug/die die Kilchen anzeygt/representiert vnd & wyst/ vnd z",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7396,
+        "semantic_match": "4                    Die erſt\n\nJch armer ſuͤndiger Menſch/ ꝛc. Vatter Vnſer. Aue Ma-\nria/ꝛc. Wir bezuͤgen ouch hiemit /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7765,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3249,

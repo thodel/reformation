@@ -33,7 +33,9 @@
         "op": "match",
         "a": "**Schlußred. LIIII**\n\nsend/dem sind sy behalten. Vnnd blyb noch hüttbytag\ndarby/ob schon Petrus für all vff die frag Christi geant\nwurt hab/So hat nach dem allem Christus jm sonder=\nlich den gwalt der schlüßlen verheyssen.",
         "b": "112        Die Erſte Schlußred. ────────────────────────────────\nUnd blyb noch huͤt by Tag darby / obſchon Petrus fuͤr\nall vff die Frag Chriſti geantwortet hab /",
-        "similarity": 0.3607
+        "similarity": 0.3607,
+        "semantic": 0.7685,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -45,19 +47,25 @@
         "op": "match",
         "a": "Vnnd als min\nHerr Berchtold ynzücht/Christus hab etwan mer son=\nderlich verheyssen/das er nacher andren ouch geben hat/",
         "b": "Chriſtus hab etwan mehr ſonderlich verheiſſen / das er\nnacher andern auch geben hat / bringt aber darby nit Zuͤg=\nnus offener Geſchrifft /",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.768,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "bringt aber daby nit zügnüß offner geschrifft/das Chri=\nstus das hie ouch than habe/die schlüssel allen verheissen\nhab:",
         "b": "daß Chriſtus das hie auch than\nhabe / die Schluͤſſel allen verheiſſen hab : dann es folget\nnit daruß / Chriſtus hat das an einem andern ort gethan /",
-        "similarity": 0.3478
+        "similarity": 0.3478,
+        "semantic": 0.534,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "dann es volgt nit daruß/Christus hat dz an einem\nanderen ort gethan/darumb hat ers hie ouch than/dann\nder text ist hie heyter/das ers sonderlichs gethan vnnd\ngeredt hab.",
         "b": "darum hat ers hie auch than : dann der Text iſt hie heiter / daß ers ſonderlichs gethan und geredt hab. Berchtoldus.",
-        "similarity": 0.5385
+        "similarity": 0.5385,
+        "semantic": 0.7114,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,7 +77,9 @@
         "op": "match",
         "a": "**Berchtoldus+**\n\nMeyster Niclaus fürt haryn/das Petro sonderlich\ndie schlüssel verheyssen syend vnd geben/verstadt\ners sonderlich/das ist allein verheyssenn vnnd geben/so\nhat er wider jnn die klaren wort Christi/Johannis am\nzwentzigosten capitel/dann die wort sind so klar/Mat=\nthei am xvj.",
         "b": "ſo hat er wider\nihn die klaren Wort Chriſti / Johan. am 20. Cap. dann\ndie Wort ſind ſo klar / Matth.",
-        "similarity": 0.4545
+        "similarity": 0.4545,
+        "semantic": 0.6513,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -87,7 +97,9 @@
         "op": "match",
         "a": "Demnach so ich im ein glyche red vß der\ngeschrifft hab anzeygt/da der Herr wenigen verheyst/ vnd aber vilen leystet/müß darumb nit in aller gschrifft\nalso sin:",
         "b": "ſo ſtrecket ſich auch billich die\nVerheiſſung vff ſy all. Demnach ſo ich ihm ein glyche\nRed vß der Geſchrifft hab angezeigt /",
-        "similarity": 0.3922
+        "similarity": 0.3922,
+        "semantic": 0.563,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -99,7 +111,9 @@
         "op": "match",
         "a": "sonder hab allein ein glychnuß gebe/nach art der\ngschrifft/vnd hett des wol nüt bedörffen/dan die gegen=\nwürtigen wort sind für sich selbs heyter vnd klar gnůg. **Senger**\n\nD ij",
         "b": "nach Art der Geſchrifft / und het deß wol nuͤt bedoͤrffen : dann die gegenwuͤrtigen Wort ſind fuͤr ſich ſelbs heiter und\nklar gnuͤg.",
-        "similarity": 0.4068
+        "similarity": 0.4068,
+        "semantic": 0.7846,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -107,7 +121,12 @@
         "b": "Senger. ICh red darwider nuͤt / daß Chriſtus allen zwoͤlff=\nBotten den Gewalt der Schluͤßlen geben hab / Matth.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.683,
+    "reworded": 4,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.556,

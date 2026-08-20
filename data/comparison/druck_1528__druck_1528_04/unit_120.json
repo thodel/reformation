@@ -33,19 +33,28 @@
         "op": "only_a",
         "a": "**Dicerſt**\n \n\nfür einen hirten vñd ſoll ſpiſen ſine ſchäffly/dann Matth. xviij. Cap. Da hatt Chriſtus ouch allein ſinen jüngern\nvoz ſinem lyden den gewalt geben/zebinden vñd entbin=\nden/was jr binden vff dem ertrich wirt bunden in dem\nhimel/aber Matth.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7506,
+        "semantic_match": "Berchtoldus hatt daruff den text geleſen. Senger. Ich mein diſer text mőge die vßlegũg nit er=\nlyden/ darumb das Chriſtus ſy all gefragt habe/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "xvj. Da hatt er Petro verheyſſen\nbinden in vil himlen. **Berchtoldus.**\n \n\nD Ielange vozred/laß ich fallen/vnnd zů dem\nſpruch Matth.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7674,
+        "semantic_match": "das Chriſtus die jůnger ge=\nfragt hat / als da: Wo wend wir brot kouffen/ das wir die vile ſpyſind? Joan.vj cap .",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "am xvj. Capitel angezogen/gib\nich die antwurt/Petrus hatt in namẽ aller Apo\nſtlen dem herrn geantwurtet/vñ alſo die verheyſſung d\nſchlüßlen in jrer aller namen empfangen Johannis am\nxxj.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.654,
+        "semantic_match": "Do ant=\nwurt Philippus/ vnd nit Petrus . Es hat ouch\nein gůte geſtalt / das / ſo Petrus der hitziger iſt\ngeweſen vnder jnen allē zwőlffbottē/ vß trüw\nh v",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -57,13 +66,18 @@
         "op": "match",
         "a": "Capitel. Hat jn Chriſtus ſins ampts ermant/die\nſchäffly zů weyden/das aber von binden vñd entbinden\nMatth. xviij. Capi.",
         "b": "die ſchåffly zůweyden/ das aber von binden vñ entbinden Matth. xviij\ncapitel geſchriben ſtadt / iſt diß tags gnůgſam\nerklårt/ das es der Kilchen geſagt ſye.etc.",
-        "similarity": 0.3913
+        "similarity": 0.3913,
+        "semantic": 0.6161,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "geſchriben ſtat/iſt dis tags gnůg=\nſam erklärt/das es der Kilchen geſetzt ſy/ꝛc. Berchtoldus hatt daruff den text geleſen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6748,
+        "semantic_match": "Berchtoldus hatt daruff den text geleſen. Senger. Ich mein diſer text mőge die vßlegũg nit er=\nlyden/ darumb das Chriſtus ſy all gefragt habe/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -81,7 +95,9 @@
         "op": "match",
         "a": "**Sennger.**\n \n\nI Ch mein dißer text möge die vßlegung nit erly=\nden/darumb das Chriſtus ſy all gefragt heyge/ vnd Petrus allein für ſy all geantwurt/darum\ner jne allen die ſchlüſſel heyg geben/dañ weñ das die mey\nnung Chriſti were geſin/ſo hette er wol geſprochen/jch\ngib üch die ſchlüſſel alle/wie Petrus für alle geantwurt\nhatt/der text iſt aber offenbar das er nach aller frag het\ngeſprochen zů Petro/ich wird dir geben die ſchlüſſel/nun\niſt dir zegeben vñ allen zegebẽ vnglich/der text iſt heiter\nvnd",
         "b": "ſo hette er\nwol geſprochen: Jch gib ůch die ſchlüſſel allen/ wie Petrus für alle geantwurt hatt / der text iſt\naber offenbar das er nach aller frag hett geſpro=\nchen zů Petro:",
-        "similarity": 0.432
+        "similarity": 0.432,
+        "semantic": 0.5497,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -113,7 +129,12 @@
         "b": "Do ant=\nwurt Philippus/ vnd nit Petrus . Es hat ouch\nein gůte geſtalt / das / ſo Petrus der hitziger iſt\ngeweſen vnder jnen allē zwőlffbottē/ vß trüw\nh v",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6688,
+    "reworded": 1,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4403,

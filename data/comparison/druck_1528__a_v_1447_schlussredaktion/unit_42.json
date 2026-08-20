@@ -51,13 +51,17 @@
         "op": "match",
         "a": "Die erst\nWir begårend aber geschrifft/die Petzo zügeb/das inn\nein houpt der Kirchen mache/namlich ein beylland sin\nder Kirchen.",
         "b": "am wort ist es nit gelaͤgen / wir begaͤren aber geschrifft / die petro zuͤgeb/ Das\nInn ein houpt /",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.6021,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Wir gebend aber jm geschrifft/ouch des\nwortlin balben/Eynig/darumb das wir am iiij. capia\ntel zun Ephesern haben/ein Herren.",
         "b": "der kirchen mache namlich\nein heilland sin der kirchen / Wir geben\naber Im schrifft / ouch des woͤrthlin  halben / einig Darmumb Das wir am iiij ͦ capitell\nzuͤm Ephesern /",
-        "similarity": 0.3922
+        "similarity": 0.3922,
+        "semantic": 0.7189,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,19 +73,26 @@
         "op": "match",
         "a": "Vnnd in der ersten\nEpistel zu Thimotheo/am ij. capitel/Ein mitler zwi-\nschen Gott vnnd dem menschen. Christus hat allein die\nvnsterblicheyt/vnd das laben/darumb wirt er ouch al-\nlein deren/so zum låben vnd vnsterblicheyt beriffe sind/",
         "b": "Christus\nhatt allein die vnsterblickeichkeit vnnd Das laͤben\nDarumb wirt er ouch allein deren / so zuͤm laͤben /",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.8496,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ein eynig houpt sin. Bichtuatter. Ch han begårt ein Text/ der da anzeygte das\nwort/Einzig/sind nur text bracht/die da få-\ngen/Ein/ein yerlicher Tütscher weyßt das ein\ngrosser vnderscheyd ist vnder Ein vn Einzig/",
         "b": "vnnd vnsterblichkeit beruͤfft sind / ein einig houͤpt\nsin / Bichtvatter\nIch han begert ein text der da anzaigte Das",
-        "similarity": 0.3103
+        "similarity": 0.3103,
+        "semantic": 0.7236,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Einzig\nschlüßt all ander vf/in/laßt ein anderen by jm bely-\nben/vnd wirt warlich gseyt/wenn zwen sind/Einer ist/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6059,
+        "semantic_match": "ein spruch\nDer das wort Vnicum  einig habe hab Das ist\neinig hab / Bucer\nWir begeren nit schrifft die aͤben Das woͤrtly\nhoupt usßtrucke /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -93,15 +104,26 @@
         "op": "only_a",
         "a": "so volgt ye klar\nlich/das man sagé můß/das einzig houpt. Sarzu/die-\nwylniemand mitlen kan zwischen Gott und demen=\nschen/dann allein Christus/so gillt aber dz wortli/Ein\nmitler/als vil als einzig/Also/Jch gloub in eine Gorr.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7962,
+        "semantic_match": "vsß beuelch\nChristi gethan / will er aber das ich\nein spruch bring der Das wort houpt hab / so soll er ouch billichen darbringen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Sa ist aber Ein/vnd nit einzig/vnd gillt aber dennest\nDas",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7672,
+        "semantic_match": "ein spruch\nDer das wort Vnicum  einig habe hab Das ist\neinig hab / Bucer\nWir begeren nit schrifft die aͤben Das woͤrtly\nhoupt usßtrucke /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7234,
+    "reworded": 4,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2878,

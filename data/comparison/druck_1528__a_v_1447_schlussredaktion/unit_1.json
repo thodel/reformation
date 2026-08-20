@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Vored\nElen ond yeden from\nmen Christen/sye kund vn of\nfenbar/das vns Schultheiß\nRhat vi Burger der State\nBernn in lichtland/vil vnnd\nmancherley vrsachen bewegt\nhaben/diß gegenwärtig Ge=\nsprach zehalte.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7679,
+        "semantic_match": "Vorred\nAllenn vnnd jedenn frommen Christen\nsei  kundt und offenbar dass uns Schult// heiss Rhät vnnd burger der Statt Bern in\nUechtland vill vnnd mancherley ursachen bewegt\nhabenn/diss gegenwürtig gesprech ze halten/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -63,25 +66,33 @@
         "op": "match",
         "a": "Weyßt\nGott das vnser/vnd der vnfernhalb/die vnuermyden=\nlich notturffr d3 erbouschen hat/wir geschwygen der an=\ndren. Und darum so haben wir fölichen handel/vß den\nvier Origenal büchern/der Notaryen/so die Acten in die\nfåder empfange/gezoge/in Truck vßgan lassen:",
         "b": "sollchen handell uss den vier original Büchern der\nNotaryen/so die  acten in die fäder empfangen/gezogen/ in truck ussgan lassen/damit nit verstande/",
-        "similarity": 0.4058
+        "similarity": 0.4058,
+        "semantic": 0.7009,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "damit\nnit verstande/yemands zezwingen/noch zehindergan/ diß vnser anseche anzenemen/dan allein als vil die gnad\ngottes ein yeden zücht vi ermant.",
         "b": "jemands\nzezwingen/noch zehindergan/diss unser anssechen anze// nemmen/dann allein alls vil die gnad gottes ein jeden\nzücht und und ermant/",
-        "similarity": 0.5333
+        "similarity": 0.5333,
+        "semantic": 0.6738,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wir haben ouch vff\nfölichs ein Reformatz gemacht/deso wir vnd die vnsern\nhinfür gelåben werden. Mengklich bittende vi verma=\nnende/dise Acten mit Chri■tenlichem gmit vi bergen\nzemercké/vn die keinerley gestalt noch wag schmachlich\nnoch verachtlich antaste.",
         "b": "Wir haben ouch/ uff söllichs ein Reformatz gemacht/ dero wir vnnd die\nunseren hinfür geläben werden/Mengklich bittende\nvnnd vermandende/dise acten mit christenlichem gmüht\nvnnd hertzen zemercken /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7716,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wir wellen ouch vm kein sach\nnachlassen noch vergonne/dz die in ander spraache/dan\nin Tütscher/on vnser gunst/wüssen vnd willen/vßge=\nspreyt werde.",
         "b": "vnnd die keinerley gestalt\nnoch wäg/schmächlich noch verachtlich antasten wir\nwellen ouch/umb kein sach nachlassen noch ver// gönnen/das die in anndern sprachen/dann in Tütscher/",
-        "similarity": 0.4074
+        "similarity": 0.4074,
+        "semantic": 0.8211,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -93,9 +104,16 @@
         "op": "match",
         "a": "Sas welle mencklich Christenlicher mey=\nnung (als es ouch beschechen) von vns vffnemen. Sie\nmit syeder frid vnd die gnad Gottes mit vns allen. b",
         "b": "hiemit sye der frid vnnd die gnad Gottes mit uns\nAllen.",
-        "similarity": 0.3889
+        "similarity": 0.3889,
+        "semantic": 0.7636,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7498,
+    "reworded": 3,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5268,

@@ -33,49 +33,68 @@
         "op": "only_a",
         "a": "Die vierdt\nAlchamer\nIch beuilch abermals/sin vnnd min erklärung/ dem\nChristenlichen läser. Zwingly\nVnd wir ouch.zc. Am sibenzehenden tag Jenners.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7573,
+        "semantic_match": "nieſſen ſoll : und\nnit allein zů der Zyt der Sacrament Empfahung. Sö-\nlichs Volck wil er / daß es allweg rein ſeye / und von ihm\nabge-",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Pfarrer von Sant Gallen: NAch abscheyd vnsers anfangs wider die vierde\nSchlußred/ Das vnns/ lut der wortenn/des\nNachtmals Christi/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7023,
+        "semantic_match": "nieſſen ſoll : und\nnit allein zů der Zyt der Sacrament Empfahung. Sö-\nlichs Volck wil er / daß es allweg rein ſeye / und von ihm\nabge-",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "eynmůtigklich durch die\nEuangelisten vnnd Paulum beschribe: wir den\nlyb Christi/ wäsenlich vnnd lyblich/ derglychen sin blüt\nempfachind/ vrsachet vns zů erst von dem lyb zů reden.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.774,
+        "semantic_match": "Diewyl Paulus hie hat das Volck wöllen underwyſen / welches in dem Glauben allweg Chriſtum das wahr\nOſterlam am Crütz für uns geopffert /",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Die figur Exodi am xij. ca. Welche vnsers verstands\nPaulus erkläret/ in der erste zun Corinthiern am v. ca. so er Christum dargegen stellt mit sölichen wozten:",
         "b": "272        Die Vierdte Schlußred. ſachet uns zů erſt von dem Lyb zů reden : Die Figur\nExod. am 12. Cap. welche unſers Verſtands Paulus\nerklårt in der erſten zun Corinthern am 5.",
-        "similarity": 0.3448
+        "similarity": 0.3448,
+        "semantic": 0.864,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Vn\nser Osterlamb Christus/ ist vffgeopffert/ wie sy habend\nwäsenlich vnd lyblich das Osterlamb genossen/ vnd sö\nlichs geheyssen worden/",
         "b": "Cap. ſo er\nChriſtum dargegen ſtellt mit ſölchen Worten: Unſer\nOſterlam Chriſtus / iſt uffgeopffert / wie ſy habend wä-\nſentlich und lyblich das Oſterlam genoſſen /",
-        "similarity": 0.4545
+        "similarity": 0.4545,
+        "semantic": 0.7345,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "zů einer ewigen gedächtnuß tůn/ der wolthat Gottes/ jnen in Egypto erzeygt mit vorbe\nwarung des zytlichen tods. Derglychen söllen wir Chri\nsten/",
         "b": "und ſölichs\ngeheiſſen worden zů einer ewigen Gedächtnus thůn / der\nWolthat Gottes / ihnen in Egypten erzeiget / mit Vor-\nbewahrung deß zytlichen tods:",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.8403,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "das lamb Christum niessen/ lut der wozten: Nem=\nmend vnd essend/ das ist min lyb.zc. Darby vns erinne=\nren/",
         "b": "Derglychen ſöllen wir\nChriſten das Lam Chriſtum nieſſen / lut der Worten: Nemmend und eſſend / das iſt myn Lyb / ꝛc. Darby\nuns erinnern glycher geſtalt der Erlöſung deß höl-\nliſchen Pharaonis /",
-        "similarity": 0.48
+        "similarity": 0.48,
+        "semantic": 0.6107,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "glycher gstalt der erlösung des hellschen Pharaonis/ vnd bewarung vor dem ewige tod/ vff dz sich der schatt\nmit dem liecht/ das ist mit der warheit/ vnd widerumb\ndie",
         "b": "und Bewahrung vor dem ewigen\nTod / uff daß ſich der Schatten mit dem Liecht / das iſt\nmit der Warheit / und widerum die Warheit mit der Fi-\ngur vereinbare.",
-        "similarity": 0.5965
+        "similarity": 0.5965,
+        "semantic": 0.606,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -107,7 +126,12 @@
         "b": "nieſſen ſoll : und\nnit allein zů der Zyt der Sacrament Empfahung. Sö-\nlichs Volck wil er / daß es allweg rein ſeye / und von ihm\nabge-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7361,
+    "reworded": 4,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3758,

@@ -33,43 +33,57 @@
         "op": "match",
         "a": "Die vierdt\nAlchamer\nIch beuilch abermals/sin vnnd min erklärung/ dem\nChristenlichen läser. Zwingly\nVnd wir ouch.zc. Am sibenzehenden tag Jenners.",
         "b": "290\t\tDie vierdt\n\t\tAlthamer. JCh befilch abermals / ſyn vnd myn erklaͤrung / dem Chri-\nſtenlichen Laͤſer. Zwingly. Vnd wir ouch /",
-        "similarity": 0.3721
+        "similarity": 0.3721,
+        "semantic": 0.812,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Pfarrer von Sant Gallen: NAch abscheyd vnsers anfangs wider die vierde\nSchlußred/ Das vnns/ lut der wortenn/des\nNachtmals Christi/",
         "b": "ꝛc. Am xvij. Tag Jenners. Pfarrer von Sant Gallen. Nach abſcheid vnſers Anfangs wider die vierte\nSchlußred / Daß vns / lut der worten deß Nacht-\nmals Chriſti einmuͤtigklich durch die Euangeli-\nſten vnd Paulum beſchriben :",
-        "similarity": 0.4727
+        "similarity": 0.4727,
+        "semantic": 0.918,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "eynmůtigklich durch die\nEuangelisten vnnd Paulum beschribe: wir den\nlyb Christi/ wäsenlich vnnd lyblich/ derglychen sin blüt\nempfachind/ vrsachet vns zů erst von dem lyb zů reden.",
         "b": "wir den Lyb Chriſti / waͤſen-\nlich vnd lyblich / derglichen ſin Bluͤt empfachind / vrſachet\nvns zuͦ erſt von dem Lyb zuͦ reden :",
-        "similarity": 0.64
+        "similarity": 0.64,
+        "semantic": 0.5609,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Die figur Exodi am xij. ca. Welche vnsers verstands\nPaulus erkläret/ in der erste zun Corinthiern am v. ca. so er Christum dargegen stellt mit sölichen wozten:",
         "b": "Die figur Exodi am 12. Cap. Welche vnſers verſtands Paulus erklaͤrt / in der er-\nſten zun Corinthern am 5.",
-        "similarity": 0.5106
+        "similarity": 0.5106,
+        "semantic": 0.8937,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Vn\nser Osterlamb Christus/ ist vffgeopffert/ wie sy habend\nwäsenlich vnd lyblich das Osterlamb genossen/ vnd sö\nlichs geheyssen worden/",
         "b": "Cap. ſo er Chriſtum dargegen\nſtellt mit ſoͤlichen worten : Vnſer Oſterlamb Chriſtus / iſt\nvffgeopffert / wie ſy habend waͤſentlich vnd lyblich das Oſter-\nlamb genoſſen /",
-        "similarity": 0.4783
+        "similarity": 0.4783,
+        "semantic": 0.6695,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "zů einer ewigen gedächtnuß tůn/ der wolthat Gottes/ jnen in Egypto erzeygt mit vorbe\nwarung des zytlichen tods. Derglychen söllen wir Chri\nsten/",
         "b": "vnd ſoͤlichs geheiſſen worden / zuͦ einer ewi-\ngen gedaͤchtnuß thuͦn / der wolthat Gottes / jnen in Egy-\npto erzeigt mit vorbewarung deß zytlichen Tods :",
-        "similarity": 0.4082
+        "similarity": 0.4082,
+        "semantic": 0.6726,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "das lamb Christum niessen/ lut der wozten: Nem=\nmend vnd essend/ das ist min lyb.zc. Darby vns erinne=\nren/",
         "b": "Dergly-\nchen ſoͤllen wir Chriſten / das Lamb Chriſtum nieſſen / lut\nder worten : Nemmend vnnd eſſend das iſt myn Lyb / ꝛc. Darby",
-        "similarity": 0.5238
+        "similarity": 0.5238,
+        "semantic": 0.8875,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -77,7 +91,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7735,
+    "reworded": 4,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5429,

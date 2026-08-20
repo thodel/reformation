@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "Die vierde\n\ndas der lyb Christi in worten des Nachtmals verfasset\nwerde/dann glicher gestalt wie sich min herr Doctor ins=\nlaßt vff Lucam/glicher maß gründen wir vnns vff die\nhällen sprüch vnnd beschribung Matthei vnnd Marci\nwelliche/allen vnglichen verstand mit jr klarheit abzü=\nletnen starck gnůg.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7321,
+        "semantic_match": "[unleserlich]\tDie vierdt\n\nDie Sacramẽt zuͦ vneerẽ/ aber welten vaſt gern/ das man den natuͤrlichen goͤttlichen verſtand in\njrem bruch hielte /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Ecolampadius. +\n\nS nimpt mich frömb warumb min herr Pfar=\nrer/ein abschüchen treyt võ dem wörtly Sacra\nment/das da zů klarem verstand diser Materia\nen dienet/aber wir gebruchen vns der nit vngern/dann\nwir nit wellen sin/die da begern die Sacrament zů vn=\neren/aber welten fast gern/dz man den natürlichen/göt\nlichen verstand in jrem bruch hielte/vñ verwerffen da=\nneben nit die namen des Testaments Christi/oder des\nherren Nachtmals/dann sy vns ouch dienent/zů offen=\nbarung söllicher warheyt:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6608,
+        "semantic_match": "wiewol es das nuͤw Teſtament\ngenempt wirt: dan vß der Epiſtel zun Hebre-\neren / vnnd ouch vß dem Propheten Hieremie\nam xxxj.capitel/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -57,7 +63,9 @@
         "op": "match",
         "a": "vnnd namlich so Lucas den\nKelch nempt/dz nüw Testament/haben wir ein gewal\ntige anzeygung/das sölliches tranck ein gedenck zeychen\nsye des Testaments Christi/wie wol es das nüw Testa=\nment genempt wirt/dan vß der Epistel zun Hebreren\nvnd ouch vß dem Propheten Jheremie am xxxj.",
         "b": "vnnd namlich ſo\nLucas den Kelch nempt / das nuͤw Teſtament/ haben wir ein gewaltige anzeygung / das ſoͤli-\nches tranck ein gedenck zeychen ſye des Teſta-\nments Chriſti /",
-        "similarity": 0.5128
+        "similarity": 0.5128,
+        "semantic": 0.9027,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -75,7 +83,9 @@
         "op": "match",
         "a": "Capi. finden wir das/das Testament vnnd pündtnus stat in\nverzichung der sünden/vnd ist aber sölliches Testament\noder ouch pündtnus/allein in dem tod vnd sterben vns\nsers herrn Jesu Christi versichert/vnd versiglet worden\nwie denn ouch die hertzen der glöubigen/allein also vol=\nkomenlich versichert werden/darby ouch können wir nit\nverneinen/dz die Sacrament im nüwen gesatz/nit ouch\nbedüren vnd figuren sind/wir müssen ye sagen/das der\ntouff",
         "b": "allein in dem tod vnd ſterben vnſers herren\nJeſu Chriſti verſichert/ vnnd verſiglet worden: wie dann ouch die hertzen der gloͤubigen /",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.785,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -107,7 +117,12 @@
         "b": "alſo ſagend wir danc\nby vnſeren Sacramenten / das Chriſtus ſchon\nkommen ſye. Es hat ein ander vnderſcheyd di-\nfigu",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7702,
+    "reworded": 1,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4322,

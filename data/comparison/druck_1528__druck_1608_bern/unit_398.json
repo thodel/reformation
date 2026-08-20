@@ -33,43 +33,57 @@
         "op": "match",
         "a": "Die fünffte\nweyß ich nit/das dz Brot angebättet ſölle werden/aber\ndas/ſo vnder der geſtalt des Brots iſt/welches dhein ge=\nſchrifft verbüreret /",
         "b": "426             Die fuͤnfft\nich nit/daß das Brot angebåttet ſoͤlle werden/aber das/ſo\nvnder der geſtalt deß Brots iſt/welches kein Geſchrifft\nverbuͤtet.",
-        "similarity": 0.6154
+        "similarity": 0.6154,
+        "semantic": 0.875,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Vonnieſſung wägt vnder beyden ge=\nſtalten des Sacraments/ſag ich nüt/dann was die ge=\nmein Chriſtlich Kilch annimpt/wil ich ouch halten.",
         "b": "Von nieſſung wegen vnder beiden geſtalten deß\nSacraments/ſag ich nuͤt/dann was die gemein Chriſtlich\nKilch annimpt/wil ich ouch halten.",
-        "similarity": 0.6087
+        "similarity": 0.6087,
+        "semantic": 0.9541,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Berchtoldus.+\nStat geſchriben. Su ſolt Got dinen herrn an=\nbätten/vnnd jm allein dienen: diewyl nun mit\ndheiner geſchrifft wider die vierde ſchlußred by\nbracht iſt/das der lyb vnd das blůt Chriſti wäſenlich in\ndem Brot der danckſagůg ſyen/ſo ſoll es ye nit angebät=\ntet werden:",
         "b": "Berchtoldus. ES ſtat geſchriben: Du ſolt Gott dynen Herrn anbå-\nten/vnd jm allein dienen: diewyl nun mit keiner Ge-\nſchrifft wider die vierte Schlußred bybracht iſt/das\nder Lyb vnd das Bluͤt Chriſti wäſenlich in dem Brot der\ndanckſagung ſyen/ſo ſoll es je nit angebåttet werden:",
-        "similarity": 0.6598
+        "similarity": 0.6598,
+        "semantic": 0.8659,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dann man wurde ſunſt nüt anbätten/dann\ndas Sacramentlich Brot/wellen hie mit nit veracht ha=\nben/oder veruneeren die Sacrament/ſonders nach der\nBeuelch Chriſti/ſy halten vnd handlen.",
         "b": "dann\nman wurde ſunſt nuͤt anbåtten/dann das Sacramentlich\nBrot/wellen hiemit nit veracht haben/oder veruneren die\nSacrament/ſonders nach der beſelch Chriſti/ſy halten vnd\nhandlen.",
-        "similarity": 0.7797
+        "similarity": 0.7797,
+        "semantic": 0.9255,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Bůchſtab.+\nJewil ich halt den lyb Chriſti/vnder der geſtalt\ndes Brots/vnd nit im brot/vn̄ den ſelbigen an=\nbätten.",
         "b": "Buͦchſtab. DIewyl ich halt den Lyb Chriſti / vnder der geſtalt\ndeß Brots/vnd nit im Brot/vnd den ſelbigen an-\nbåtten:",
-        "similarity": 0.7907
+        "similarity": 0.7907,
+        "semantic": 0.6364,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Hab ich wider dz erſt gebot nit gehan=\ndelt/ſonders gethan/das mit darin gebotten wirt. Wy=\nter das die Meß ein grüwel ſye vor gott/darumb das\nſy groß geachtet wirt/geſtan ich nit:",
         "b": "Hab ich wider das erſt Gebott nit gehan-\ndelt/ſonders gethan/daß mir dariñ gebotten wirt. Wyter\ndas die Måß ein gruͤwel ſye vor Gott/darumb das ſy groß\ngeachtet wirt /",
-        "similarity": 0.7164
+        "similarity": 0.7164,
+        "semantic": 0.8295,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dan̄ der geſtalt ouch\ndas Nachtmal Chriſti nach jrem bruch/ouch dz vffopfe=\nren Chriſti am crütz beſchehe/eyn grüwel genent möch\nte werde.",
         "b": "geſtan ich nit / dann der geſtalt ouch das\nNachtmal Chriſti nach jrem bruch/ouch das vffopfferen\nChriſti am Cruͤtz beſchechen /",
-        "similarity": 0.5333
+        "similarity": 0.5333,
+        "semantic": 0.7803,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -83,7 +97,12 @@
         "b": "ein gruͤwel genent moͤchte\nwerden/die ouch hoch vor dem Menſchen geachtet werden/ vnd billich/das aber kein gruͤwel iſt/vnd niemer ſyn wirt. Berchtol-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8381,
+    "reworded": 0,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6345,

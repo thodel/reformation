@@ -33,13 +33,17 @@
         "op": "match",
         "a": "164     Die ander\nblyben biß zů end der Welt/iſt fuͤr mich/in ſwellicher War=\nheit wir bißhar gelaͤbt hand/ſo er ouch an einem andren\nort geredt hat:",
         "b": "164                Die ander\nblyben biß zů end der Welt/iſt ſ. ir mich/ in wellicher War-\nheit wir bißhar gelåbt hand /",
-        "similarity": 0.6538
+        "similarity": 0.6538,
+        "semantic": 0.8324,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Jch wird uͤch ſchicken den Geiſt der War=\nheit/der wirt uͤch leren alle Warheit/Joan.16. So nun\nChriſtus ſin Volck/deß liechts ſiner goͤttlichen Warheit/",
         "b": "ſo er ouch an einem andren\nort geredt hat : Jch wird üch ſchicken den Geiſt der War-\nheit / der wirt üch leren alle Warheit /",
-        "similarity": 0.4815
+        "similarity": 0.4815,
+        "semantic": 0.751,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -51,19 +55,25 @@
         "op": "match",
         "a": "bißhar beroubt hette/vnd ſo ein lange zyt vnder ein geſchier\ngeſtellt/das doch wider ſin Wort waͤre/Luc.8.wurde vol=\ngen/daß er bißhar nit ein getruͤwer Hirt an ſinen Schaa=\nfen waͤre gſin.",
         "b": "das doch wider ſin Wort wåre/ Luc. 8. wur de vol-\ngen / daß er bißhar nit ein getrüwer Hirt an ſinen Schaa-\nfen wåre gſin.",
-        "similarity": 0.625
+        "similarity": 0.625,
+        "semantic": 0.7107,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "So er ſpricht/Joannis 10. Jch bin ein guͤter\nHirt/Ein guͤter Hirt ſetzt ſin Seel fuͤr ſine Schaaff/etc.",
         "b": "So er ſpricht/ Joannis 10. Jch bin ein gůter\nHirt/Ein gůter Hirt ſetzt ſin Seel für ſine Schaaff/etc.",
-        "similarity": 0.7907
+        "similarity": 0.7907,
+        "semantic": 0.9583,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Martinus Butzer. DJe ynred iſt zum teil wider nachgende Schlußre=\nden/da dann wider das erdicht Opffer der Maͤß\nvnd fleiſchlichen jrthumb/von lyblicher gegenwuͤr=\ntigkeit Chriſti/geſetzt iſt/ſo iſt ouch in vorgenden antwur=\nten angezeigt/wie wyt die Kilch Gottes jrren moͤge.",
         "b": "Martinus Butzer. DJe ynred iſt zum teil wider nachgende Schlußre-\nden / da dann wider das erdicht Opffer der Måß\nvnd fleiſchlichen jrthumb /",
-        "similarity": 0.6087
+        "similarity": 0.6087,
+        "semantic": 0.882,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -75,27 +85,40 @@
         "op": "match",
         "a": "Es iſt ge=\nwaͤſen die zyt der blindheit/jetzt vil jar/vß rechter ordnung\nGottes. Darumb hat aber Gott die ſinen entlich nit ver=\nlaſſen:",
         "b": "Es iſt ge-\nwåſen die zyt der blindheit / jetzt vil jar/vß rechter ordnung\nGottes. Darumb hat aber Gott die ſinen entlich nit ver-\nlaſſen :",
-        "similarity": 0.9412
+        "similarity": 0.9412,
+        "semantic": 0.9649,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dann nit moͤglich gewaͤſen/daß die erwelten in jr=\nthumb belyben/Matth.24. Darzů ſo habend offt etliche\nglider der Kilchen nit gewuͤßt/das doch ander wol gewuͤßt\nhaben/vnnd iſt alſo die Warheit by der Kilchen allweg bly=\nben/aber nit glychermaß by allen glideren der Kilchen/",
         "b": "dann nit möglich gewåſen / daß die erwelten in ir-\nthumb belyben / Matth. 24. Darzů ſo habend offt etliche\nglider der Kilchen nit gewüßt/das doch ander wol gewüßt\nhaben/",
-        "similarity": 0.6173
+        "similarity": 0.6173,
+        "semantic": 0.7992,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnnd bit uͤch/daß jr vff der ban blybend/vnnd vff das\nvmbſchweiffen bezuͤg ich mich nit mer zů\nantwurten.",
         "b": "vnnd iſt alſo die Warheit by der Kilchen allweg bly-\nben / aber nit glychermaß by allen glideren der Kilchen/ vnnd bit üch/daß jr vff der ban blybend/vnnd vff das\nvmbſchweiffen bezüg ich mich nit mer zů\nantwurten.",
-        "similarity": 0.5902
+        "similarity": 0.5902,
+        "semantic": 0.7402,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Joans\n\n## Marginalien\nSuͤch\nhieuor\n68. 69. 82. vnd\n83. blat.",
         "b": "Joan-\n\n## Marginalien\nSůch\nhieuor\n68. 69. 82. vnd\n83. blat.",
-        "similarity": 0.7619
+        "similarity": 0.7619,
+        "semantic": 0.9474,
+        "reading": "same"
       }
-    ]
+    ],
+    "semantic": 0.8429,
+    "reworded": 1,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.8561,

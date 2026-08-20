@@ -39,31 +39,41 @@
         "op": "match",
         "a": "Schlußred. Zwingli\n\n[D]As der gloub vff Jesum Christum / alle sünder\nheyl mache / wie ouch S gloub Petri / ist dz wort\nGotts.",
         "b": "Zwingly. DAß der Glaub off Jesum Christum alle Sünder heil\nmache/wie auch der Glaub Petri / ist das Wort\nGottes.",
-        "similarity": 0.4762
+        "similarity": 0.4762,
+        "semantic": 0.6713,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Johan. vj. Welcher in mich vertruwt/ der hatt ewigs läben. Es ist aber gnůg gesagt / wie die Sich hieuor\nglöubigen sünder syen /",
         "b": "Johan. am 6. Welcher in mich vertraut/der hat\newigs Leben. Es ist aber gnůg gesagt / wie die Gläu-\nbigen Sünder seyen /",
-        "similarity": 0.6364
+        "similarity": 0.6364,
+        "semantic": 0.7551,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd wie die vnglöubigen sünder am. 38. vnd 48. syen. Die glöubigen mit scham vnd schmertzen / aber mit blat. vngezwifleter hoffnung zů Gott.",
         "b": "und wie die Ungläubigen Sün-\nder seyen. Die Gläubigen mit scham und schmertzen/ aber mit ungezwyffelter Hoffnung zů Gott. Die Un-\ngläubigen ohne scham und wehe /",
-        "similarity": 0.5306
+        "similarity": 0.5306,
+        "semantic": 0.6786,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Die vnglöubigen / ane\nscham vñ wee / aber mit vertzwiflung an gott / Das blůt\nChristi reyniget vns von aller sünd / spricht Johannes.",
         "b": "aber mit Verzwyf-\nlung an Gott. Das Blůt Christi reiniget uns von aller\nSünd / spricht Johannes 1. Epist. Cap. 1.",
-        "similarity": 0.6341
+        "similarity": 0.6341,
+        "semantic": 0.6079,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "j. cap. j gott wirt ouch einē yeden / nach sinē werckē geben / Aber nach dem sy jm glouben oder vnglouben beschehen\nsind /",
         "b": "Gott wird auch\neinem jeden nach synen Wercken geben/aber nach dem sy\nim Glauben oder Unglauben beschehen sind / und wird\nGott syn eigene Gab belohnen /",
-        "similarity": 0.4583
+        "similarity": 0.4583,
+        "semantic": 0.3266,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -75,19 +85,25 @@
         "op": "match",
         "a": "vñ 96. blat. Johannes Büchstab. [D]Es gloubens halb / laß ichs belibē / wie vormals\nouch in der dritten schlußred / daruon gesagt ist.",
         "b": "darvon gnůg gesagt ist/ und bewähren diese Ort aber kein Fägfür. Johannes Bůchstab. DEß Glaubens halb laß ichs blyben/wie vormals\nauch in der dritten Schlußred darvon gesagt ist.",
-        "similarity": 0.549
+        "similarity": 0.549,
+        "semantic": 0.5112,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Sie vordrigen sprüch / von mir ingefürt / zůbea\nstäten / find ich by dem Propheten Esaia am xliij. Capi. Secundum septuaginta interpretes.",
         "b": "Die vordrigen Sprüch / von mir yngeführt/ zů bestä-\nten/find ich by dem Propheten Esaia am 43. Capit. Secundùm septuaginta Interpretes.",
-        "similarity": 0.6829
+        "similarity": 0.6829,
+        "semantic": 0.8914,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Spricht er also / du solt dir nitt\nförchtē / wan ich hab dich erlöst / ich hab dich berüfft mit\ndinem namen /",
         "b": "spricht er also : Du solt\ndir nit förchten/ wann ich hab dich erlöset/ich hab dich\nberüfft mit dynem Namen/du bist myn/und so du durch\ndas Wasser wurdest gahn / so bin ich by dir / und die\nWas-",
-        "similarity": 0.5085
+        "similarity": 0.5085,
+        "semantic": 0.8343,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -105,7 +121,10 @@
         "op": "only_a",
         "a": "dann ich der herr / din heyliger Gott Jsrael / din\nheylmacher / zc. Deßglichen xlviij. Esaie spricht er vonn\nden Caldeeren also.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.722,
+        "semantic_match": "438          Die Sibend Schlußred. --------------------------------------------------------------------------------\nzun Römern am 2. Daß Gott einem jeden werde ge-\nben nach synen Wercken. Die Wort deß Propheten\nDavids und auch Hieremie/diewyl sy mit offenbarer\nGeschrifft nicht widerfochten werden/wird ich nach my-\nnem Fürgeben lassen bestohn.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -113,7 +132,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6665,
+    "reworded": 1,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5096,

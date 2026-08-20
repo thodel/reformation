@@ -33,25 +33,35 @@
         "op": "only_a",
         "a": "Die sibend\nChristus spräche/du rechnest din gütē nach dinen werck̄: en/vnd thůst aber nun werck/die din liebe der Richtagē\nnit verlezen:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8285,
+        "semantic_match": "dz er der sun\nGottes wåre/ wurden alle suͤnder sålig/ die soͤ=\nlichs ouch glouben/ das dz blůt Christi alles ab=\nwåsche/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Wiltu nun volkomen sin/nach diner meyn̄\nnung/so verkouff alles das du hast. Hie sehen wir/das\nder jüngling nit hatt gloubē gehabt/sonder vertruwen\nvff sine werck/vn̄ die selbē werck/die hat er wellen schetz̄\nen/wie er hat wellen/vnd so jm Gott sagt/was der recht\ngloub eruordert/so gat er dannen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8347,
+        "semantic_match": "dz er der sun\nGottes wåre/ wurden alle suͤnder sålig/ die soͤ=\nlichs ouch glouben/ das dz blůt Christi alles ab=\nwåsche/",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Hieremie am xxvi. Jst ein verglichende red/vnd dienet nit vff das fägfür/ sonder vff die straffen/mügē/vnd arbeyten/die Gott\nvns menschen zůfügt.",
         "b": "Schlußred. CCXL\n\ngadt er dannen. Hieremie xxxj. Jst ein vergly=\nchende red/ vnd dienet nit vff das fågfhuͤr/ son=\nder vff die straffen/",
-        "similarity": 0.4898
+        "similarity": 0.4898,
+        "semantic": 0.8278,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Esaye am xxxv. wirdt geredt/ von dem wäg des Euangelij/das alle die darin wonen/ die werden nit vnrein syn.",
         "b": "můyen/ vñ arbeyten/ die gott\nvns menschen zůfůgt. Esaie am xxxv. wirt ge=\nredt/ von dem wåg des Euangelij/ das alle die\ndarinn wonend/",
-        "similarity": 0.4545
+        "similarity": 0.4545,
+        "semantic": 0.7338,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,13 +73,17 @@
         "op": "match",
         "a": "Also wirdt ouch in dem Psal=\nmen/fhür vnd wasser/für angst vnd trübsal genomen/ mit denen vns Gott ansicht in diser zyt/nit für einicher\nley fägfür/es můß sūst ouch ein fäg wasser sin/deßhalb\ndise ort alle/dhein fägfür bewären.",
         "b": "mit denen vns gott\nanficht in diser zyt/ nit fuͤr einicherley fågfhůr/ es můß sunst ouch ein fågwasser sin/",
-        "similarity": 0.4127
+        "similarity": 0.4127,
+        "semantic": 0.7251,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Johannes Büchstab. [W]Ann der gloub Petri/in dem gnůgsam was/das\ner in Jesum Christū gloubt/dz er der sun gotts\nwäre/wurden alle sünder sälig/die solichs ouch\nglouben:",
         "b": "deßhalb di\nse ort alle/ kein fågfhůr bewårend. Bůchstab. Wañ der gloub Petri/ in dem gnůgsam wz/ das er in Jesum Christum gloubt/",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.8478,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,13 +95,17 @@
         "op": "match",
         "a": "das das blůt Christi/alles abwäsche/das wir\nan der rechnung hinder haben/ist mitt dheiner gschrifft\nbewärt: dann Paulus spricht zūn Römern am ij.",
         "b": "das wir an der rechnung hinder haben/ ist mitt keiner gschrifft bewårdt: Dann Paulus\nspricht zun Roͤmern am ij.",
-        "similarity": 0.7111
+        "similarity": 0.7111,
+        "semantic": 0.8554,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Das\ngott einē yeden werde gebē nach sinen wercken. Sie wort\ndes Propheten Dauids vnd ouch Hieremie/die wyl sy\nmit offenbarer gschrifft/nit widerfochten werden/wird\nich nach minem fürgeben lassen beston. Zwingli",
         "b": "Das gott einem ye=\nden werde geben nach sinen wercken. Die wort\ndes Propheten Dauids/ vñ ouch Hieremie/ die=\nwyl sy mit offenbarer gschrifft/",
-        "similarity": 0.6207
+        "similarity": 0.6207,
+        "semantic": 0.955,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -101,7 +119,12 @@
         "b": "wie ouch der gloub Petri/ ist das\nwort Gottes. Johan. vj. Welcher in mich ver=\ntruwt/ der hat ewigs låben. Es ist aber gnůg",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.826,
+    "reworded": 4,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5175,

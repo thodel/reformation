@@ -33,7 +33,9 @@
         "op": "match",
         "a": "Die fünffte\nBuchstab\n\n[D] Jewyl Melchisedech ein obrester Priester/brot\nvnd wyn/ harfür hat getragen/ vnd als Pau-\nlus zů den Hebreeren bezügt/das kein Priester\nnit ist/der nit opfferet/müß volgen/das ouch\nMelchisedech etwas hab geopffret.",
         "b": "Die fünffte\nBůchſtab. Diewyl Melchiſedech eyn obreſter Prieſter/ brot vnd wyn/herfür hat getragen/vñ als Pau-\nlus zů den Hebreern bezügt /",
-        "similarity": 0.5574
+        "similarity": 0.5574,
+        "semantic": 0.8939,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -45,37 +47,50 @@
         "op": "match",
         "a": "Es wirt ouch mit kei\nner gschrifft bybracht/das Melchisedech/brot vnd wyn/ nit voz hab vffgeopffret/ee vñ er Abrahe solichs harfür\nhabe getragen:",
         "b": "dz Melchiſedech\nbrot vnd wyn/nit vor hab vffgeopfferet/ee vnd\ner Abrahe ſölichs herfür habe getragen: dañ der\nText heyter ſpricht:",
-        "similarity": 0.5106
+        "similarity": 0.5106,
+        "semantic": 0.9077,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dann der Text heyter spricht: Er ist gsin\nein Priester des obresten Gottes/dem von nöten ouch zů\ngehört hat ze opfferen.",
         "b": "Er iſt geſin ein Prieſter des\noberſten Gottes/dem von nöten ouch zůgehört\nhat zeopfferen. Berchtoldus. Wir bekennen mit der geſchrifft/das Melchi-\nſedech ein priſter des aller Oberiſten Gottes ſye\ngeſin.",
-        "similarity": 0.4074
+        "similarity": 0.4074,
+        "semantic": 0.8281,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Berchtoldus\n\n[W] Jr bekennen mit der schrifft/das Melchisedech\nein Priester des aller obristen Gottes sye gesin/ Sas er aber Abraham/brot vnd wyn hab vff-\ngeopffret/oder vorhin Gott dem herrē/erfindt\nsich nit in dē text/durch den Schülmeyster anzogē:",
         "b": "Das er Abraham/brot vnd wyn hab vff-\ngeopffret/oder vorhin Gott dem herrn/ erfindt\nſich nit in dem text/durch den Schůlmeyſter an-\nzogen:",
-        "similarity": 0.6269
+        "similarity": 0.6269,
+        "semantic": 0.6894,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wo\nses hat sich benügt/dz er anzeigte/Melchisedech ein Prie\nster sin des allerhöchsten Gottes. Daruß demnach wol\nvermerckt wirt/vß dem heiligen Paulo/wo hin solchesi\ngur dütet vñ lendet.",
         "b": "Moyſes hat ſich benůgt/dz er anzeygte/ Melchiſedech ein Prieſter ſin des allerhöchſten\nGottes. Daruß demnach wol vermerckt wirt/ vß dem heyligen Paulo /",
-        "similarity": 0.6909
+        "similarity": 0.6909,
+        "semantic": 0.8239,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Jr haben den spruch vff üwer für-\nnemen angezogen/damit zů bewären das Måßopffer. So gebürt nun üch/das jr probieren/wo Melchisedech\nwyn vnd brot geopffret habe.",
         "b": "wo hin ſöliche figur\ndütet vnd lendet. Jr haben den ſpruch vff üwer\nfürnemmen angezogen / damit zů bewären das\nMäßopffer.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.6783,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Buchstab\n\n[D] Jewyl jr nit findē/was er nach sinem Priester-\nthům geopffret habe/vnd hie aber heyter stadt/ Sas er brot vnnd wyn/harfür hab getragen/ vnd",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6765,
+        "semantic_match": "So gebürt nun üch/das jr probie-\nren/wo Melchiſedech wyn vnnd brot geopffert\nhabe. Bůchſtab. Diewyl jr nit finden/was er nach ſinem prie-\nſterthům",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -83,7 +98,12 @@
         "b": "So gebürt nun üch/das jr probie-\nren/wo Melchiſedech wyn vnnd brot geopffert\nhabe. Bůchſtab. Diewyl jr nit finden/was er nach ſinem prie-\nſterthům",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7854,
+    "reworded": 1,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.7108,

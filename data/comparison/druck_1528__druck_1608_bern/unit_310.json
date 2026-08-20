@@ -39,7 +39,9 @@
         "op": "match",
         "a": "vß eyne ort der gſchrifft\nin glichen vällen die andern lernen verſton / vñ darumb ſo\nman die Cerimonien gegen Cerimonien verglicher /",
         "b": "324           Die vierdt\nin glychen fålen die andern lernen verston/vnd darumb so\nman hie Cerimonien gegen Cerimonien verglychet / vnnd\nLucas vnd Paulus/welche doch klårer reden/vßtrucklich\nſprechen:",
-        "similarity": 0.44
+        "similarity": 0.44,
+        "semantic": 0.787,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -51,49 +53,65 @@
         "op": "match",
         "a": "Sas thůnd in miner gedechnuß / gebē ſy mit\nandern worten die vßlegung vns in die hend / odermyn\nherr Pfarrer ſag hät /",
         "b": "Der Kelch ſye das Nüw Teſtament/ Vnd darby\nouch ſagend / Das thůnd in myner gedechtnuß/geben ſy\nmit andern worten die vßlegung vns in die Hend:",
-        "similarity": 0.5106
+        "similarity": 0.5106,
+        "semantic": 0.7699,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "was er nempt das nüw Teſtamēt\ndamit die Coſcientz verſichert werden: dañ ſo er den kla=\nren ſpruch alſo verduncklet /",
         "b": "Oder\nmyn Herr Pfarrer ſag hår/was er nempt das Nüw Teſta-\nment damit die Conſcientz verſichert werden: dann ſo er den\nklaren Spruch alſo verduncklet/mit ſiner vnbewertẽ vßle-\ngung/ſo wirt er ſin Conſcientz nit verſicheren/noch keines.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7715,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "mit ſiner vnbewerten vßle\ngung / ſo wirt er ſin Coſcientz nit verſichern / noch keynes\nEs wirt ſich aber erfinden / dz der ſpruch klar für vns iſt\nvnnd die Apoſtel wolnach vnſerm verſtand jn begriffen\nhand.",
         "b": "Es wirt ſich aber erfinden / daß der Spruch klar für vns\niſt/vnd die Apoſtel wol / nach vnſerm verſtand/jn begriffen\nhand.",
-        "similarity": 0.6316
+        "similarity": 0.6316,
+        "semantic": 0.8694,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Pfarrer von ſant Gallen. [V]erantwurtung myns herrn Doctors / über\nmin intragne red / wil ſo durch jn fürbracht / ver\nlaß ich den zůhörendē vñ läſern /",
         "b": "Pfarrer von Sant Gallen. VF verantwurtung myns Herrn Doctors/über myn\nintragne red/vil ſo durch jn fürbracht/verlaß ich den\nZůhorenden vnd Låſern/ſöllichs zeerkennen.",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.8985,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "ſöllichs zeerken\nnen. Von dem wörtly Enim / mit verglichung des ſpruchs\nPauli / verſton ich durch dz wort Enim / ſo vertütſcht wirt /",
         "b": "Von\ndem wörtly Enim/mit verglychung deß Spruchs Pauli/ verſton iſt durch das wort Enim/ſo vertütſchet wirt/(dañ)\nſye ein gnůgſame erklårung der worten /",
-        "similarity": 0.5652
+        "similarity": 0.5652,
+        "semantic": 0.8732,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "(dañ) ſye eingnůgſame erklärung der wortē / ſo in eynen\nſinn vnd verſtand vmb ein gliche ſach verſtanden wer=\nden ſoll /",
         "b": "ſo in einem ſinn\nvnd verſtand vmb ein glyche ſach verſtanden werden ſoll/ von der figur Geneſis am 17. Capitel:",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.4563,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "vonn der figur Geneſis am vvij. Capitel. Wo\nda ſtůnd der geſtalt wie vor anzeygt / in myner erſten red\nließ ichs bliben:",
         "b": "Wo da ſtůnd der\ngeſtalt wie vor anzeigt / in myner erſten red/ ließ ichs bly-\nben. Vff den Spruch Luce :",
-        "similarity": 0.619
+        "similarity": 0.619,
+        "semantic": 0.7975,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Vff den ſpruch Luce. Ser Kelch ſye das\nnüw Teſtament in minem blůt / iſt einem yegklichē wol\nzeuerſton / das er nitt redt in mynem wyn /",
         "b": "Der Kelch ſye das Nüw\nTeſtament in my[unleserlich]m Blůt/iſt einem jegklichen wol zeuer-\nſton / daß er nit [unleserlich]t in mynem Wyn/gewüßlich ouch iſt/ das",
-        "similarity": 0.5185
+        "similarity": 0.5185,
+        "semantic": 0.8661,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -101,7 +119,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7877,
+    "reworded": 1,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.664,

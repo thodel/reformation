@@ -39,13 +39,18 @@
         "op": "match",
         "a": "Schlußred XIX\nmit beſchlieſſen/ vn̄ nach der leer Pauli dz vrteil den zu=\nhoͤzern/ vn̄ so die Acta laͤsen werde/",
         "b": "Diewyl aber er\nanderen/villicht darzuͦ platz geben wil/vnnd be-\nſchloſſen haben: ſo wellend ouch wir hiemit be-\nſchlieſſen/vñ nach der leer Pauli das vrteyl den\nzuͦhoͤrern/vnd ſo die Acta laͤſen werdẽ/befolchẽ\nhaben:vngezwyffelter hoffnuͤg/alle die/ſo Chri\nſti ſind/vnd ſin geyſt haben/",
-        "similarity": 0.3733
+        "similarity": 0.3733,
+        "semantic": 0.7161,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "beſolhen habe/ vnge\nzwyfelter hoffnung/ alle die/ so Chriſti ſind/ vn̄ ſin geyſt\nhaben/ welich ouch allein goͤttlich ding vſton moͤgind/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6012,
+        "semantic_match": "welche ouch alleyn\ngoͤttlich ding verſtan moͤgind/ſy werdind erken\nnen/das vnſer artickel in goͤttlicher geſchrifft ge\ngruͤndt/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -57,37 +62,50 @@
         "op": "match",
         "a": "ſy\nwerdint erkennen / das vnſer artickel in Goͤttlicher ge=\nſchrifft gegründet/ vnd die ewig warheit iſt/ vn̄ aber des\nBichtuatters meynung vom naͤben houpt/",
         "b": "vnd die ewig warheit iſt: vnd aber deß\nBychtuatters meinung/ vom naͤbendhoupt vñ\nStatthalter/ ein gefaͤrlicher menſchen fund ſye/",
-        "similarity": 0.3404
+        "similarity": 0.3404,
+        "semantic": 0.7268,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnd Stat=\nhalter ein geſaͤrlicher menſchen fund ſye/ dadurch by al=\nlen (die anderſt verſtand) Gott der almechtig vnnd ſyn\ngeſalbter vnſer Herr Jeſus grülich geleſtert wirt/",
         "b": "dardurch by allen (die anderſt verſtond) Gott\nder allmechtig/vnd ſin geſalbter vnſer Herr Je\nſus/gruͤlich geleſteret wirt/das iſt erwiſen/",
-        "similarity": 0.3529
+        "similarity": 0.3529,
+        "semantic": 0.8488,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "das\niſt er wiſen/ vnd ſol noch erwiſen werden/ mit haͤller goͤt=\nlicher gſchrifft vor allen die Gott kennen.",
         "b": "vnd\nſol noch erwiſen werden mit haͤller goͤttlicher ge\nſchrifft/ vor allen die Gott kennend. Bichtuatter. Ich wil wie vor/hiemit beſchloſſen haben/vñ\nbefilchs der gſchrifft.",
-        "similarity": 0.52
+        "similarity": 0.52,
+        "semantic": 0.758,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Bichuatter. Ich will wie vor hiemit beſchloſſen haben / vnd be=\nuilchs der geſchrifft/zc. Theobaldus huͤter Pfarrer\nzuͦ Appenzell.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6034,
+        "semantic_match": "welche ouch alleyn\ngoͤttlich ding verſtan moͤgind/ſy werdind erken\nnen/das vnſer artickel in goͤttlicher geſchrifft ge\ngruͤndt/",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "IEſu ein behalter der welt/ durch dyn Goͤttlich\ngnad vn̄ barmherzigkeyt/ verlich vns ware er=\nkantnus vnd klaren verſtand dynes goͤttlichen\nworts/",
         "b": "Theobaldus Huͤter/ Pfarrer\nzuͦ Appenzell. Jeſu ein behalter der welt/ durch din Goͤtt-\nlich gnad vnd barmhertzigkeit/verlich vns ware\nerkantnuß vnd klaren verſtand dins Goͤttlichen\nworts/Amen.",
-        "similarity": 0.5818
+        "similarity": 0.5818,
+        "semantic": 0.6917,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Amen. Alß dann vnſer Hochgepietend gnedig herren von\nBernn/ angeſchlagen von waͤgen einer Diſputation/ in\nwelcher begriffen ettlich Artickel/",
         "b": "Als dañ vnſer Hochgebietend\ngnedig herren von Bern/angeſchlagẽ/ von waͤ-\ngen einreͤ",
-        "similarity": 0.4242
+        "similarity": 0.4242,
+        "semantic": 0.6732,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -101,7 +119,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7024,
+    "reworded": 4,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4933,

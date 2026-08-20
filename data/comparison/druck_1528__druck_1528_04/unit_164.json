@@ -33,37 +33,53 @@
         "op": "only_a",
         "a": "Die ander\nam vj. schribt also. Das jr aber wüssen welicheding by\nmir sind/oder wie es by mir stande/wirt üch kundt thůn\nTichicus/ð glichē ouch zun Colossenses am iiij.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.697,
+        "semantic_match": "beger ich/das jr mir\nanzeygen dry ſpruͤch des heyligen Chriſtenlichẽ\ngloubens mit vßgetruckten worten/ wie wir ſy\nbaͤtten.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Tichicus\nvñ Onesimus / solle üch kundt tůn alle ding/in ð andern\nzun Timotheum am ij. Cap. Sieding so du gehört hast\nvon mir durch vil zügen /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7032,
+        "semantic_match": "vnd mit vßgetruckter\nſchrifft bewaͤrẽ / dry Artickel des heyligen Chri\nſtenlichen gloubens/ den erſten : der Herr iſt\nabgeſtigen zuͦ den hellen .",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "die selbigen ding empfilch den\ngetrüwen menschen. Martinus Butzer. Sich am 62. blatt. ES ist gestern/durch meyster Ulrich Zwinglin/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6274,
+        "semantic_match": "Martin Butzer. Der ſchuͦlmeyſter fragt . diewil wir vermey\nnen allein der Bibliſchen gſchrifft zegloubẽ ſin/ wo wir gruͤnden wellen/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "antwurt geben vff alle soliche inred / das gesatz\nvnd propheten/sampt allem dem/das ye göt=\nlich gelert worden ist /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7328,
+        "semantic_match": "Buͤchſtab. Der anzug / das wir ſoͤllen vnſern naͤchſten\nlieben als vns ſelbs/ꝛc. Dienet hie wider nit/das\nman nit ſchuldig ſye/ouch ander ding zuͦhalten/",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "oder yemer mer mag gelert werdē\nist alles veruasset in dise kurtze red / lieb gott von ganßē\nhertzen/vnd den nächsten als dich selbs/das haben gelert\nvñ vß gott gelert/alle die von anfang der welt recht ge=\nlert habē/ist darum nit von nöten /",
         "b": "Schlußred. LXXXV\ndich ſelbs: das haben gelert vnd vß gott gelert/ alle die von anfang der welt recht gelert haben.",
-        "similarity": 0.4545
+        "similarity": 0.4545,
+        "semantic": 0.5001,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "dz es alles beschribē\nsye/überflüssig habē wir an dem/so die Biblische bůcher\ninhalten. Johannes Bůchstab. DEr anzug/das wir söllen vnsern nächsten liebē\nals vns selbs/zc.",
         "b": "Iſt darum̃ nit von noͤten / dz es alles beſchriben\nſye/uͤberfluͤſſig haben wir an dem/ ſo die Bibli=\nſchen buͤcher inhalten.",
-        "similarity": 0.3704
+        "similarity": 0.3704,
+        "semantic": 0.7943,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,7 +91,9 @@
         "op": "match",
         "a": "Dienet hie wider nit/das man\nnit schuldig sye / ouch ander ding zůhalten/wie\nvor gesagt ist. Vnd das man schuldig sye/ouch\nander ding zůhalten/dz mit vßgetrucktē worten nit ge=\nschriben stand/Beger ich/dz jr mir anzeygē dry sprůch des\nheiligen Christlichen gloubens mit vßgetrucktē wor=\nten/wie wir sy bätten.",
         "b": "wie voꝛ geſagt iſt. Vnnd das man ſchuldig ſye/ ouch ander ding zuͦhalten/ das mit vßgetrucktẽ\nworten nit geſchribẽ ſtand :",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.6462,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,7 +105,9 @@
         "op": "match",
         "a": "Namlich Crist ist abgestigen zů den\nhellen. Jtem jch gloub in die heylige Christēliche kilchē/ vnd Jch gloub gemeinsame der heiligen. Martinus",
         "b": "Namlich Er iſt abgeſtigen zuͦ den hellen. Item ich gloub in die heyligen Chriſtlichẽ Kilch\nen/vnd Jch gloub gemeinſame der heyligen.",
-        "similarity": 0.6818
+        "similarity": 0.6818,
+        "semantic": 0.7705,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -113,7 +133,12 @@
         "b": "Item in der erſten Epiſtel ſant Peters am iij. capitel . Jn dem ſelbigen iſt er ouch hingangen/ vnd hat geprediget den geyſten in der gefenck=\nnuß. Demnach teylet er einen Artickel des glou\n                                l   v",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6839,
+    "reworded": 2,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3666,

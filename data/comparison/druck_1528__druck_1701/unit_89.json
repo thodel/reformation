@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Die erst\nglantz/des herrlichen spruchs: Der geystlich richters als\nles/ein rouch vfftrybe/ist diſe/ so der geyst/dann die Chri\nsten/das ist die geistlichen/alle warheyt lere/vnd ich mit\nanderen die schrifften flyssig ersůchen /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6532,
+        "semantic_match": "und ihm diſen Jrr-\nthum vertragen: Dann Gott allein / und nit wir / ihn\ndeß entledigen moͤgen: Wil er aber und ſyn Hauff uns\ngar verwerffen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -51,37 +54,51 @@
         "op": "only_a",
         "a": "Wie\nPaulus schrybt/zun Corinthern.j.cap.viij. Dz die Chri\nsten/so lang sy hie läben/noch vil mangel vnd yrthumb\nhaben.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.612,
+        "semantic_match": "und ihm diſen Jrr-\nthum vertragen: Dann Gott allein / und nit wir / ihn\ndeß entledigen moͤgen: Wil er aber und ſyn Hauff uns\ngar verwerffen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Aber diewyl der geyst Gottes jrem geyst zůgnuß\ngipt/das die kinder Gottes sygend/Dahar sy Gott/als\njrem vatter vertrůwen/zun Römern am viij.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.772,
+        "semantic_match": "und ihm diſen Jrr-\nthum vertragen: Dann Gott allein / und nit wir / ihn\ndeß entledigen moͤgen: Wil er aber und ſyn Hauff uns\ngar verwerffen /",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "capitel/ so habend sy das ewig läbenn. Johannis am vj. capitel. Darumb mag ye nit schaden/ob sy schon nit alle ort der\ngeschrifft/eygentlich verstanden/oder sunst ouch in jrr=\nthumb syend/welche doch das kindtlich vertruwen vff\nGott nit vmbstossen.",
         "b": "Die Erſte Schlußred. 81\n\nder Geſchrifft eigentlich verſtanden / oder ſunſt auch in\nJrthum ſeyend / welche doch das kindlich Vertrauen vff\nGott nit umſtoſſen.",
-        "similarity": 0.3692
+        "similarity": 0.3692,
+        "semantic": 0.4753,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Nun bekenn ich gern/lieben from=\nmen Christen/das mich Gott der allmechtig von tag zů\ntag/wyter erkläret hat:",
         "b": "Nun bekenn ich gern / liebe fromme\nChriſten / daß mich Gott der Allmaͤchtig von Tag zuͦ Tag\nwyter erklaͤret hat:",
-        "similarity": 0.6829
+        "similarity": 0.6829,
+        "semantic": 0.792,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "etwan hab ich vß vnuerstand/ ouch Tomá de Aquino gebriße. So mir aber gott durch\nsin wort ze erkennen gebë hat/das er von Gott abfüret/",
         "b": "etwan hab ich vß Unverſtand auch\nThomam de Aquino gepriſen. Da mir aber Gott durch\nſyn Wort zeerkennen geben hat /",
-        "similarity": 0.5652
+        "similarity": 0.5652,
+        "semantic": 0.9043,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "hab ich jm Alde gesagt. Den Luther hab ich hoch gebri=\nsen/vnnd Bryß jnnoch hůtt by tag/ja vil mer Gott/",
         "b": "daß er von Gott abfuͤhret/ hab ich ihm Alde geſagt. Den Luther hab ich hoch gepri-\nſen / und pryß ihn noch huͤt by Tag /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.5846,
+        "reading": "check"
       },
       {
         "op": "only_b",
@@ -93,7 +110,9 @@
         "op": "match",
         "a": "den Herren in jm/das er vns vom menschen vff Gott\ngewisen hat. Das er aber nun zemal durch verhencknuß\nGottes/damit nit villicht jm die eer/so Gott allein zů=\nstadt/geben wurde/er in dem beharren welle/das man\ndie geystlichen wort Christi fleischlichen wider die eynig=\nkeit des gloubens verstan sölle/vñ leret trost by den Sa\ncramenten",
         "b": "damit nit villeicht ihm die Ehr / ſo Gott allein zuͤ-\nſtaht / geben wurde / er in dem beharren woͤlle / daß man\ndie geiſtlichen Wort Chriſti fleiſchlichen wider die Einig-\nkeit deß Glaubens verſtahn ſoͤlle/",
-        "similarity": 0.4375
+        "similarity": 0.4375,
+        "semantic": 0.7718,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -131,7 +150,12 @@
         "b": "das endlich Urtheil zuͤgeſtellet hat. Unſere\nliebe Bruͤder genuͤgt wol / wo man in der Summ deß\nGlaubens mit uns eins iſt / namlich daß wir alle nichts\nſind/",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6956,
+    "reworded": 1,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3163,

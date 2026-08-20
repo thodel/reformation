@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "**Schlußred.**\n\nDas er sagt/was hat er anders jnen geben/dann das die\nwort darbringed iterum petit principium, Begårt eben mir dem\nzebewåren/das im span stadt/dann wir bestond jm nit\nDas die wort des jnnhalts vnnd sinns syend/wie er dar=\nuon reder.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6817,
+        "semantic_match": "vnd bedoͤrfftend die wort/Das iſt myn Bluͤt/nit darby\nſtan: dann der anderen worten/gedechtnuß zehalten/vnd\ndanckbarkeit daby erzeigen/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "**Uff den rviij. tag Jenners.**\n**Pfarrer von Sant Gallen.**\n\nVff die erklårung des Kelchs/durch mich ge=\nthan/darinn ich min herr Doctor/derglychenn\nzů erklårung lines verstands/gefragt hab/vnd\nmir geantwurt/wie in den Actis verfasset.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6665,
+        "semantic_match": "mit ſoͤlichen worten: Es ſol beſchnitten werden alles\nMennliches Geſchlaͤcht/ vnnd jr ſoͤllen beſchnyden das\nFleiſch uͤwer Vorhut/vff das es ſye ein Zeichen deß Punds\n        Sſ",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -51,25 +57,33 @@
         "op": "match",
         "a": "So\nmir yetzmal manglet/vff sine yngefürte red/wil ich söl=\nche antwurt Summarie gegeben habenn: Alles das so\nChristus ye gethan/so es vns fruchtbar sin sol/vñ nutz=\nlich/von vns im glouben vnd geyst verstanden/vñ an=\ngenomen werden sol.",
         "b": "Alles daß ſo Chriſtus je gethan/ſo es vns\nfruchtbar ſyn ſoll/vnd nutzlich/von vns im Glouben vnd\nGeiſt verſtanden/vnd angenommen werden ſol.",
-        "similarity": 0.4706
+        "similarity": 0.4706,
+        "semantic": 0.6498,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Samit aber das vsserlich nit ab=\ngesündert/als/Essend/das ist min lyb: vñ/Trinckend/ das ist min blůt/sunst hette Christus dz brot in die hend\ngenommen/vnd danck gesagt/vnd gesprochen:",
         "b": "Damit\naber das vſſerlich nit abgeſuͤndert/als/Eſſend/das iſt myn\nLyb/ vnd/Trinckend/das iſt myn Bluͤt:ſunſt hette Chri-\nſtus das Brot in die Hend genommen/vnd danck geſagt/",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.7276,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Nem=\nmend/vnd essend/das thůnd min zegedencken/vnd het\nte das wort/Das ist min lyb/nit bedörffen. Derglychen\nzum Kelch/hette er danck gesagt/vnd jnen geben/spre=\nchende:",
         "b": "vnd geſprochen: Nemmend/vnd eſſend/das thuͦnd myn\nzegedencken/vnd hette das wort/Das iſt myn Lyb/nit be-\ndoͤrffen.",
-        "similarity": 0.4151
+        "similarity": 0.4151,
+        "semantic": 0.8511,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Trinckend all daruß/so offt jr sollichs werdend\ntrincken/so thůnds in miner gedåchtnuß/vnd bedörf=\ntend die wort/Das ist min blůt/nit darby staan:",
         "b": "Derglychen zum Kelch/hette er danck geſagt/vnd\njnen geben/ſprechende: Trinckend all daruß/ſo offt jr ſoͤl-\nlichs werdend trincken/ſo thuͦnds in myner gedechtnuß/",
-        "similarity": 0.3704
+        "similarity": 0.3704,
+        "semantic": 0.7747,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,7 +95,9 @@
         "op": "match",
         "a": "dann\nder anderen worten/gedåchtnuß zehalten/vnnd danck=\nbarkeit daby erzeigen/gnůg wåre: dañ ye in den worten\nChristi/ist nit ja vnd nein/sonders/ja ja/vnd nein nein/ Do ij",
         "b": "gnuͦg waͤre: dann je in den\nworten Chriſti/iſt nit ja vnd nein/ſonders ja ja/vnd nein\nnein/in der anderen Epiſtel zun Corinth.",
-        "similarity": 0.5424
+        "similarity": 0.5424,
+        "semantic": 0.8068,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -101,7 +117,12 @@
         "b": "mit ſoͤlichen worten: Es ſol beſchnitten werden alles\nMennliches Geſchlaͤcht/ vnnd jr ſoͤllen beſchnyden das\nFleiſch uͤwer Vorhut/vff das es ſye ein Zeichen deß Punds\n        Sſ",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7369,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4343,

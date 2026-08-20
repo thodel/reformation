@@ -57,13 +57,17 @@
         "op": "match",
         "a": "**Die vierdt**\nlydens / also ouch des trosts / So wåren wir ouch vßteys\nler der lyden vnd anfechtungen. Das wurd aber dienen\nvil mer den schergen /",
         "b": "So wåren wir auch Vß-\ntheiler der Lyden und Anfechtungen. Das wurd aber die-\nnen vil mehr den Schergen / dann den Chriſten.",
-        "similarity": 0.5532
+        "similarity": 0.5532,
+        "semantic": 0.5354,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "dann den Christen. Hierumb an\ndisem ort zun Corinthiern / am x. cap. So haben wir ein\ngemeinschafft vnd ein gesellschafft /",
         "b": "Hierum\nan diſem Ort zun Corinthern am 10. Cap. So haben wir\nein Gemeinſchafft und ein Geſellſchafft / und ſind auch\nein Geſellſchafft in unſerm Haubt Chriſto Jeſu.",
-        "similarity": 0.5957
+        "similarity": 0.5957,
+        "semantic": 0.6665,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -75,37 +79,50 @@
         "op": "match",
         "a": "die Sacra=\nmenten / vßteylen. Aber diß ist zů allen geschriben / vnd\ndie nachgenden wort die erklårens / so er spricht: Dann\nwir vil /",
         "b": "Wil dar-\nneben unabgeſchlagen haben / daß die Diener der Kilchen\ngemeinlich mit einandern oder inſonderheit die Sacra-\nmenten vßtheilen. Aber diß iſt zů allen geſchrieben /",
-        "similarity": 0.3404
+        "similarity": 0.3404,
+        "semantic": 0.7621,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "sind ein brot / vnnd ein lyb / diewyl wir all eins\nbrots teylhafftig sind / Sann wir sind teylhafftig / zum\nersten miteinandern /",
         "b": "und\ndie nachgehenden Wort erklårens / ſo er ſpricht: Dann\nwir vil ſind ein Brodt und ein Lyb / diewyl wir all eines\nBrodts theilhafftig ſind:",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.7159,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "des himmelschen brots Christi Je\nsu. Vnd hernach bezůgen wir vns / solichs warhafftig=\nklich in den Sacramenten / durch das Sacramentlich\nbrot.",
         "b": "Dann wir ſind theilhafftig/zum\nerſten mit einandern deß himliſchen Brodts Chriſti Jeſu. Und hernach bezůgen wir uns ſölichs warhafftiglich in\nden Sacramenten /",
-        "similarity": 0.4091
+        "similarity": 0.4091,
+        "semantic": 0.8332,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "**Allehamer+**\n\n[E]S bringt min herr Doctor herfür / das Grie=\nchisch wort / κοινωνία / heyß ein gesellschafft / das\nvernein ich jm nit /",
         "b": "durch das Sacramentlich Brodt. Alchammer. ES bringt myn Herr Doctor herfür / das Griechiſch\nWort Κοινωνία heiß ein Geſellſchafft / das vernein ich\nihm nit /",
-        "similarity": 0.5909
+        "similarity": 0.5909,
+        "semantic": 0.7346,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das an vil orten den selbigen\nverstand oder bedůtung hab. Aber daruß wirt nit vol=\ngen / das es ouch hie můß haben:",
         "b": "daß an vilen Orten denſelbigen Verſtand oder\nBedütung hab. Aber daruß wird nit folgen / daß es\nKk\t\tauch",
-        "similarity": 0.45
+        "similarity": 0.45,
+        "semantic": 0.7229,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "dan in der andern Epi. zun Corinthiern am xiij. capitel / so Paulus spricht: Die\ngnad vnsers herren Jesu Christi / vnd liebe Gottes /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.701,
+        "semantic_match": "in der andern Epiſtel zun Corinthern am\nerſten Capitel. Wie wir ſind Κοινωνοὶ. das iſt / Geſellen deß\nLydens / alſo auch deß Troſts:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -125,7 +142,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7089,
+    "reworded": 4,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4339,

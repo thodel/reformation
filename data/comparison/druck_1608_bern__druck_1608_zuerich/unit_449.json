@@ -33,7 +33,9 @@
         "op": "match",
         "a": "424        Die fiinfft. dann ſyne Schaff. Daß er dann anzuͤcht vom Touff/der\nſye beſſer dann der Toͤuffer/wirt aber nit vß der Schrifft\nerfunden/diewyl der Touff ein vſſerlich Element.",
         "b": "424 Die fuͤnfft. dann ſyne Schaff. Daſſ er dann anzuͤcht vom Touff/ der\nſye beſſer dann der Toͤuffer/",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.8422,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -45,19 +47,25 @@
         "op": "match",
         "a": "Dem-\nnach hat Maria Chriſtum nit geopffret/ſonder nach dem\nGeſatz in den Tempel uͤberantwurt/vnnd haben wol ein\nPar Tuben geopffret/aber nit Chriſtum/wie hie daruon\ngeredt.",
         "b": "ſonder nach dem\nGeſatz in den Tempel uͤberantwurt/ vnnd haben wol ein\nPar Tuben geopffret/ aber nit Chriſtum/ wie hie daruon\ngeredt.",
-        "similarity": 0.8679
+        "similarity": 0.8679,
+        "semantic": 0.9278,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Johannes Buͤchſtab. OB ſchon Abel beſſer iſt gſin dann das Opffer/wirt\ndaſſelb darumb nit allenthalben muͤſſen ſyn.",
         "b": "Johannes Buͤchſtab. OB ſchon Abel beſſer iſt gſin dann das Opffer/ wirt\ndaſſelb darumb nit allenthalben muͤſſen ſyn.",
-        "similarity": 1.0
+        "similarity": 1.0,
+        "semantic": 0.987,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Sag\nwyter vff den anfang/von Herrn Berchtolden ynge-\nfuͤrt/das die Maß ein gruͤſwel vor Gott ſye/von wegen deß\nzuͤſatzes/Ceremonien/Cruͤzen/Kleidungen/Perſonen/ꝛc.",
         "b": "Sag\nwyter vff den anfang/ von Herrn Berchtolden ynge-\nfuͤrt/ das die Mäß ein gruͤwel vor Gott ſye/",
-        "similarity": 0.7451
+        "similarity": 0.7451,
+        "semantic": 0.8723,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,33 +77,48 @@
         "op": "match",
         "a": "Bin ich mit Gſchrifft noch nit gnuͤgſam von jm vnderricht. Der koſtlichen Maßgwaͤnder halb/haben wir glychfoͤrmi-\nge vorbeduͤtnuß im Gſatzt/Als Exodi 28.",
         "b": "Der koſtlichen Mäßgwänder halb/ haben wir glychfoͤrmi-\nge vorbeduͤtnuß im Gſatzt/ Als Exodi 28. vnd 35. 39. Vnd\nwie Maria Magdalena den Glouben in Chriſtum/",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.6696,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd 35.39. Vnd\nwie Maria Magdalena den Glouben in Chriſtum/mit\nvßwendigen ſichtbaren Wercken beſtaͤtet hat. Luce am 7.",
         "b": "mit\nvßwendigen ſichtbaren Wercken beſtaͤtet hat. Luce am 7. Capit. Alſo mag ouch ein ietlicher Chriſt/ nach ſynem wil-\nlen/",
-        "similarity": 0.4762
+        "similarity": 0.4762,
+        "semantic": 0.6083,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Capit. Alſo mag ouch ein ietlicher Chriſt/nach ſynem wil-\nlen/Gott mit vßwendigen dingen/Gaben vnd Ceremo-\nnien/dienen:wiewol harin zuͤ zyten/groß Mißbruͤch geuͤbt\nwerden.",
         "b": "Gott mit vßwendigen dingen/ Gaben vnd Ceremo-\nnien/ dienen: wiewol darin zuͦ zyten/ groß Mißbruͤch geuͤbt\nwerden. Der Suͤnden halb vnd mißbruͤchen/",
-        "similarity": 0.6429
+        "similarity": 0.6429,
+        "semantic": 0.8457,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Der Suͤnden halb vnd mißbruͤchen/ſo von jm\nwyter yngefuͤrt/beger ich nit zuͤbeſchirmen/ſonder ſag ich/",
         "b": "ſo von jm\nwyter yngefuͤrt/ beger ich nit zuͦbeſchirmen/ ſonder ſag ich/ daß wir vil vnfuͤgs daruon haben/",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.6611,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "daß wir vil vnfuͤgs daruon haben/wann Hieremie am 5. geſchriben ſtat: Vnſer Suͤnd haben verhindert die guͤten\nding von vns. Deßglychen Oſee am 4. Es iſt kein War-\nheit",
         "b": "wann Hieremie am 5. geſchriben ſtat: Vnſer Suͤnd haben verhindert die guͤten\nding von vns. Deßglychen Oſee am 4. Es iſt kein War-\nheit",
-        "similarity": 0.8814
+        "similarity": 0.8814,
+        "semantic": 0.9309,
+        "reading": "same"
       }
-    ]
+    ],
+    "semantic": 0.8161,
+    "reworded": 1,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.9717,

@@ -33,13 +33,17 @@
         "op": "match",
         "a": "Schlußred. in ſin nechſten menſchẽ in ein Chriſtenlich gemeind/den\nDa zwytracht/vneinigkeit/ſtifft in vnſern vnbeflecken\nglouben/vñ der da ſicht wider den rechten verſtand des\nwort gottes/vñ nüw rotten/vñ ſeckten ſtifft.",
         "b": "64\tDie erſt\nMenſchen in ein Chriſtenlich gemeind / den der da zwy-\ntracht / vneinigkeit ſtifft in vnſern vnbefleckten glouben/ vnnd der da ficht wider den rechten verſtand deß Worts\nGottes/vnd nüw Rotten/vnnd Seckten ſtifft.",
-        "similarity": 0.6197
+        "similarity": 0.6197,
+        "semantic": 0.568,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Witer ſo\nzeygt der text hie luter vñ klar an/dz der herr redt von\nergernuß/darumb ſagt der herr/weñ ein glid dir erger=\nnus gibt/ſo ſchnids ab/vñ wirffs võ dir/zc.",
         "b": "Wyter ſo\nzeigt der Text hie luter vnd klar an / daß der Herr redt von\nErgernuß/darumb ſagt der Herr /",
-        "similarity": 0.5818
+        "similarity": 0.5818,
+        "semantic": 0.6386,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -51,7 +55,9 @@
         "op": "match",
         "a": "Das on zwif\nfel von geiſtlichen glidern des herrn zeuerſton iſt/ſo ein\nmenſch den andern/oder einer ganzen Chriſtẽ gemeind\nergernuß gibt/dañ je kein gröſſer ergernus nit iſt/dañ zer\ntrengnung in vnſerm vnbefleckten gloubẽ/darumb her=\nnach volgt/dz diſer text voruß vñ voran in dißem vall\nze verſton iſt.",
         "b": "ſo ein\nMenſch den andern/ oder einer ganzen Chriſten gemeind\nErgernuß gibt/dann je kein gröſſer Ergernuß nit iſt/dann\nzertrennung in vnſerm vnbefleckten glouben /",
-        "similarity": 0.4872
+        "similarity": 0.4872,
+        "semantic": 0.6587,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,19 +69,25 @@
         "op": "match",
         "a": "Zum dritten hat min herr Doctor antwurt\ngeben/wie das diſer text verſtandẽ ſoll werden/nit von\nder gemeiner Chriſtenlichen Kilchen/ſonder vonn einer\nyegklichen Kilchen/für ſich ſelbs alſo/das ein yegkliche/",
         "b": "nit von\nder gemeiner Chriſtenlichen Kilchen/ſonder von einer jeg-\nlichen Kilchen / für ſich ſelbs alſo / das ein jegliche / einige\nKilch in ſtucken deß gloubens handlen/",
-        "similarity": 0.5085
+        "similarity": 0.5085,
+        "semantic": 0.6589,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "einige Kilch in ſtuckẽ des gloubens handlen/vñ ſpreche\nmög vñ nit vonnören zů er warre/eins gemeine ſpruchs\nvon gemeiner Chriſtenlichen Kilchen/wider dißen ſinen\nverſtand/arguier ich alſo.",
         "b": "vnd ſprechen mög/ vnnd nit von nöten zü erwarten eins gemeinen Spruchs\nvon gemeiner Chriſtenlichen Kilchen / wider diſen ſinen\nverſtand arguier ich alſo.",
-        "similarity": 0.566
+        "similarity": 0.566,
+        "semantic": 0.7895,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Ein yegkliche einige Kilch/ mag in ſtucken des gloubens jrr gon/darumb dann key=\nne in ſtucken des gloubens vrteylen mag/dañ yeder rich\nter den wir habenn ſöllen in hendlen des gloubens/on=\nſträfflich ſoll ſin vnd nit mögen jrren.",
         "b": "Ein jegliche Kilch/mag in ſtucken\ndeß gloubens jrr gon / darumb dann keine in ſtucken deß\ngloubens vrteilen mag / dann je der Richter den wir haben\nſöllen in hendlen deß gloubens / vnſtraͤfflich ſoll ſin / vnnd\nnit mögen jrren. Marti-",
-        "similarity": 0.6173
+        "similarity": 0.6173,
+        "semantic": 0.7258,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -83,7 +95,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6733,
+    "reworded": 1,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6546,

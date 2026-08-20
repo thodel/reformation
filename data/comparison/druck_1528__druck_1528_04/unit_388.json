@@ -51,13 +51,18 @@
         "op": "only_a",
         "a": "ſólche vffhórung des opffers/die\nSüch hieuor wårt für vnd für/wie Meyſter Vlrich geſagt hatt. am nechſten\nblat. Meyſter Vlrich zwingli\n[Initial D] Eßhalb/die ort Danielis nit bewåre/dz die Måß\nein opffer ſye/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6096,
+        "semantic_match": "das die zwytracht vorhin kome/vñ geoffenbaret\nwerde der menſch der ſuͤnde/der ſun d’ verderb-\nnuß/der ſich widerſetzt/",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "dann an beyden orten / die zyt langeſt\nerfult ſind / veranlaſſend vns ouch vff rechten verſtand\nder glóubigen. Johannes Büchſtab. [Initial D] Je wil man gſchrifft mit gſchrifft vßlegen ſoll/",
         "b": "Schlußred. CCXI\n\ndie Mäß ein opffer ſye/dañ an beyden orten/die\nzyt langeſt erfüllt ſind /veranlaſſen vns ouch vff\nrechten verſtand der gloͤubigen.",
-        "similarity": 0.4815
+        "similarity": 0.4815,
+        "semantic": 0.7296,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,31 +74,43 @@
         "op": "match",
         "a": "vñ aller meyſt/die ſchrifft des alten Teſtamēts/ mit den gſchrifften des nüwen Teſtaments/er=\nklårt ſóllen werden/finden wir an dryen ortenn/das die\nprophetien Danielis vff vns dienen/namlich Danielis\nam xj.ſtat.",
         "b": "finden wir an dry\nen orten / das die Prophetien Danielis vff vns\ndienen / namlich Danielis am xj. ſtat . Alſo das\nvonn dem Endtchriſt verſtanden wirdt /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.8341,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Alſo das vonn dem Endchriſt verſtanden\nwirdt/das er wirdt vfferhebt / vnnd groß gemacht wi=\nder alles das ſo Gott iſt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8029,
+        "semantic_match": "vnnd vfferheben wirdt\nuͤber alles das Gott genempt wirt/oder das ge-\neret wirdt/ Alſo / das er in dem tempel Gottes\nſitze/vnd ſich erzeyge/als ob er Got ſye/zc.",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Ja er wirt ouch wunderbarlich\nwider den Gott aller Góttern reden / darumb wirt jm ge\nlingen / biß der grim vß iſt /",
         "b": "das\ner wirdt vfferhebt / vnnd großgemacht wider\nalles das ſo Gott iſt . Ja er wirt ouch wunder-\nbarlich wider den Gott aller goͤtten reden/dar-\numb wirt jm gelingen/biß der grim vß iſt/",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.953,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dann der ſchluß iſt ſchon ge=\nmacht/den gott ſyner våtter wirt er nit achte. Die wort\nSancti Pauli / an dem ij.",
         "b": "dañ\nder ſchluß iſt ſchon gemacht/deñ gott ſiner våt-\nter wirt er nit achten. Die wort ſancti Pauli/an\ndem ij.zů den Theſſalonern in der ij.",
-        "similarity": 0.64
+        "similarity": 0.64,
+        "semantic": 0.7824,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "zů den Theſſalonern in der ij. Epiſt. dienen vol haruff / vnd geben diſen worten eynen\nverſtand",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6376,
+        "semantic_match": "das die zwytracht vorhin kome/vñ geoffenbaret\nwerde der menſch der ſuͤnde/der ſun d’ verderb-\nnuß/der ſich widerſetzt/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -131,7 +148,12 @@
         "b": "[unleserlich]vonn\n[unleserlich]b jar/ [unleserlich]–An-\n[unleserlich]y der\n[unleserlich]eung\n[unleserlich]pffer\n\n[unleserlich]das\n[unleserlich]die",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7642,
+    "reworded": 1,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4088,

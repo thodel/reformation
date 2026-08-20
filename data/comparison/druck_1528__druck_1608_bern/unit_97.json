@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Schlußred\nmeinten gewalt des Bapſts/ vnd der Concilien/ in fuͤr=\nſchribung der Articklen des gloubens/ ſo ſy naͤbend der ge\nſchrifft dem Chriſten volck zuͤ glouben vffgetrochen ha\nben/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6319,
+        "semantic_match": "Schlußred. 89\nbend der Geſchrifft dem Chriſten Volck zů glouben vffge-\ntrochen haben / das ort wellen wir hie anfahen. Das kein\nOug geſehen hat/etc.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -45,13 +48,17 @@
         "op": "match",
         "a": "das ozt welle wir hie anfahen. Das kein oug geſehen\nhatt/zc. Vnd iſt ſoͤlliches ozt verleſen. ¶ Nun iſt ye das vrteyl d warheit hierin klaͤrlichen alle\ngeyſtliche dz iſt Chriſte(merckens wol)deñ wer/",
         "b": "Vnd iſt ſölliches ort verleſen. Nun iſt je das vrteil der Warheit hierin klärlichen al-\nlen geiſtlichen / das iſt Chriſten (merckens wol) denn\nwer den Geiſt Chriſti nicht hat /",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.6784,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dẽ geyſt\nChriſti nit hat/ iſt nit ſin zuͤ geſtellet vñ keyne Concilio/ keine Bapſt. Sind ſy geyſtlich/ ſo werdet ſy fuͤr ſich vrtei\nlen/",
         "b": "iſt nicht ſin / zů geſtellet\nvnd keinem Concilio/keinem Bapſt. Sind ſy geiſtlich / ſo\nwerdent ſy für ſich vrteilen/vnd vns ouch laſſen für vns vr-\nteilen/deß halben die jetzig Diſputatz gar Chriſtenlich für-\ngenommen iſt /",
-        "similarity": 0.3492
+        "similarity": 0.3492,
+        "semantic": 0.6143,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -81,19 +88,25 @@
         "op": "match",
         "a": "von welchẽ der herr\nſagt/ er der geyſt der warheyt wirt uͤch (nit der Bapſt/ nit die Concilia) in alle warheyt geleytẽ/",
         "b": "Er der Geiſt der Warheit\nwirt üch (nit der Bapſt / nit die Concilia) in alle Warheit\ngeleiten / Joan. am 16.",
-        "similarity": 0.5581
+        "similarity": 0.5581,
+        "semantic": 0.6838,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Joan. am xvj. Darumb ſind truͤwlich verwarnet/ fromen lieben Chri\nſten/ vor des Prouincials leer der uͤch begert entſcheidig\nin ſachen des gloubens/",
         "b": "Darumb ſind trüwlich verwarnet/ frommen lieben Chriſten/vor deß Prouincials leer der üch\nbegert entſcheidung in ſachen deß gloubens / ererſt von ei-\nnem Concilio zeerwarten /",
-        "similarity": 0.48
+        "similarity": 0.48,
+        "semantic": 0.61,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "er erſt von einẽ Concilio zeerwar\nten/ das doch wie er es bſchribt/ nie vff erden geweſen iſt/ vnd niemmer mer werden wuͤrdt/",
         "b": "das doch wie er es bſchribt / nie\nvff Erden geweſen iſt/vnd nimmer mer werden würdt/ lut\nſiner 66. Wunderreden/die alſo lutend/Daß ſo nit geſche-\nhen mag das/etc.",
-        "similarity": 0.5091
+        "similarity": 0.5091,
+        "semantic": 0.7939,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -105,7 +118,9 @@
         "op": "match",
         "a": "alle getoͤufften/ wo iſt nun ye ein Con\ncilium, ex aſſenſu, & auctoritate / vß gehaͤl vnnd beuelch / oder\ngewalt/",
         "b": "Nun vermerckend hie/das der Prouin-\ncial die gemeinen Kilch haltet/alle getoufften/wo iſt nun je\nein Concilium/ex aſſenſu, & auctoritate, vß gehalt vnd be-\nM ij",
-        "similarity": 0.375
+        "similarity": 0.375,
+        "semantic": 0.8835,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -113,7 +128,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6994,
+    "reworded": 4,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.509,

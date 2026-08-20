@@ -39,13 +39,18 @@
         "op": "match",
         "a": "hie oder anderſch wo/ weliche darumb ein gmeind Gotts\ngenempt iſt/ das ſy im fleyſch iſt/ vñ aber nit dem fleyſch\nnach läbet/",
         "b": "43\ngenempt ist / Das sy im fleisch ist / vnd aber\nnit dem fleisch nach lebet / Vnnd ist wol\nein vsserlich versamlung Aber doch die\nallein durch een geist gotes vrtheilt /",
-        "similarity": 0.3774
+        "similarity": 0.3774,
+        "semantic": 0.8842,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "vnnd iſt wol ein vſſerlich verſamlung/ aber\ndoch die allein durch den geyſt Gottes vrtheylt/ welcher\nvrteyl ſich allein ſtreckt wider die ſünder/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6763,
+        "semantic_match": "Welcher\nvrtheill sich allin streckt wider die sunder / Dann der her spricht wen din bruͦder sundet\nwider dich etc.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -57,31 +62,42 @@
         "op": "match",
         "a": "dann der herr\nſpricht/ wenn din brüder ſündet wider dich/zc. In ſälen\naber den glouben belangend/ hatt ſy nit zeurteylen/",
         "b": "In faͤlen aber Den glouben\nbelangend / hatt sy nit ze vrtheillen / sonnder\nder gschrifft nach anzeglichen\nanzezeigen\nwas irrig sy\noder nit /",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.5871,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "ſon=\nder der gſchrifft nach anzezeyge was jrrig ſig oder nit/ vñ\ndas nach der glichmaſſe des gloubens. Doctor Cůnrad Treiger\nProuincial.",
         "b": "vnnd das nach der glichmasse\ndes gloubens. / Doctor Cuͦnrad\nTreiger proui: In namen des hern amen / Ersamen / fromen lieben /",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.7998,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "IOnamen des herrn amen. Erſamen/ fromen lie\nben Chriſte/ vff min fürtrag ſo ich hüt thon hab\nbelangent zwey pünctly/",
         "b": "Christen  Vff min fur // trag so ich hut than / hab / belangent zwey\npunctly / das erst / Wie das der geist // lich moͤnsch alle Dinge ze vrtheillen hatt /",
-        "similarity": 0.3404
+        "similarity": 0.3404,
+        "semantic": 0.7232,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "das erſt/ wie das der\ngeyſtlich menſch alle ding zeuerteylen hatt/ vnd ich har=\nuff beſchloſſen hab/ dz er ouch hab zeurteylẽ die geſchrifft\niſt min herr Doctor mir begegnet mit antwurt/",
         "b": "vnnd ich haruff beschlossen hab / das er\nouch hab ze vrtheillen / die gschrifft ist mir\nmin her doctor mir begegnet, mit antwurt",
-        "similarity": 0.5185
+        "similarity": 0.5185,
+        "semantic": 0.8707,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "das ſöl\nlicher text alſo zeuerſton ſig/ dz was da geurteylt ſol wer\nden/ das mög vrteylen der geyſtlich menſch/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6183,
+        "semantic_match": "Welcher\nvrtheill sich allin streckt wider die sunder / Dann der her spricht wen din bruͦder sundet\nwider dich etc.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -101,7 +117,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7371,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4439,

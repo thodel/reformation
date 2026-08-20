@@ -33,13 +33,17 @@
         "op": "match",
         "a": "Die fünffte\nBüchstab\n\nVnden zůſätzen/hab ich vorhin geſagt/diewyl\nſy mit offner gſchrifft nit werden vmbgeſtoſſen/ laß ichs blybenn.",
         "b": "Schlußred. CCII\nBůchſtab. Von den zůſaͤtzen/hab ich vorhin geſagt/die-\nwyl ſy mit offner gſchrifft nit werden vmgeſtof-\nſen/laß ichs blyben.",
-        "similarity": 0.5909
+        "similarity": 0.5909,
+        "semantic": 0.7858,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Antwurten wyter vff herrn\nBerchtolds ynzug/Das Chriſtus gſprochē hab: Tůnd\ndas in miner gedächtnuß/ſyenit opfferen/find ich/das\netlich der Hebraiſchen ſpraach bericht/das facere, ouch et\nwan/opfferen/heyßt.",
         "b": "Antwurten wyter vff herr\nBerchtolds ynzug / Das Chriſtus geſprochen\nhab:Thuͤnd das in miner gedaͤchtnus / ſye nit o-\nferen.",
-        "similarity": 0.4151
+        "similarity": 0.4151,
+        "semantic": 0.8694,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -51,19 +55,25 @@
         "op": "match",
         "a": "Doch ſetz ich ſolichs den Hebrai=\nſchen erfarnen zů/dan mir die ſelb ſpraach vnwüſſen iſt. Butzer.+\n\nSo der Herr ſpricht:",
         "b": "zů: Dañ mir die ſelb ſpraach vnwuͤſſen iſt. Butzer. So d’ herr ſpricht:Thuͤnd mir das zůgedaͤcht-\nnuß.",
-        "similarity": 0.5238
+        "similarity": 0.5238,
+        "semantic": 0.7161,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Tůnd mir das zů gedächt=\nnuß/Jſt håll/das Thůn/nit opffern heißt/wirt\nouch durch Paulū.j.Corinth.vj.gnůgſam erklä\nret/da er ſpricht:",
         "b": "Iſt haͤll: das thuͤnd/nit opfern heyßt/ wirt\nouch durch Paulum/j. Corinth.xj. gnuͤgſam er-\nklaͤret/da er ſpricht:",
-        "similarity": 0.44
+        "similarity": 0.44,
+        "semantic": 0.8987,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "So offt jr von dem brot eſſen.zc. Vnd\nAſah. wiewol עשה/by der ſchrifft/etwan für Opfferen genom\nmen wirt/ſo ſtadt doch darby/was man opffere/als ein\nſchaaff/oder derglychen.",
         "b": "So offt jr von dem brot aͤſ-\nſend/etc. Vnd wiewol עשׂה /by der ſchrifft/ et-\nwan fuͤr opferen genommen wirt/",
-        "similarity": 0.4211
+        "similarity": 0.4211,
+        "semantic": 0.6299,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,21 +85,32 @@
         "op": "match",
         "a": "Hie iſt aber håll/das/Thůn/ Eſſen heyßt. Der zůſatz halb/iſt vorgeſagt/das ſy mit\nhäller ſchrifft vmbgeſtoſſen ſind/lut herrn Berchtolden\nDeclaration/über diſe Schlußred.",
         "b": "das ſy mit haͤller\nſchrifft vmbgeſtoſſen ſind/lut herr Berchtolden\ndeclaration/uͤber diſe ſchlußred. Johannes Bůchſtab. Diewyl jr zůlaſſen/dz Facere/ouch etwan heißt\nopferen/wirt vns hie ouch zůgelaſſen.",
-        "similarity": 0.3729
+        "similarity": 0.3729,
+        "semantic": 0.7541,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Büchstab\n\nDJewyl jr zůlaſſen/das Facere, ouch etwan heißt/Op=\npfferen/wirt vns hie ouch zůgelaſſen. Butzer\n\nWAs iſt das für ein conſequentz/Facere heißt etwan an\neinem ort/vonn wegen eins zůgeſagten wörtlins/",
         "b": "Butzer. Was iſt dz fuͤr ein cōſequentz / facere heißt et-\nwan an einem ort/vonn wegen eins zůgeſetzten\nwoͤrtlins /",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.6534,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Opfferen/darum můß es hie ouch Opffren heyſſen/ da doch klarlich das widerſpil vßgetruckt iſt. Johannes",
         "b": "opfferen / Darumb můß es hie ouch\nCc  ij\n\n## Marginalien\n[Zeile 14]: Aſah",
-        "similarity": 0.3571
+        "similarity": 0.3571,
+        "semantic": 0.6221,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.7412,
+    "reworded": 6,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6122,

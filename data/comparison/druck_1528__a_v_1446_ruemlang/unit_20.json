@@ -69,19 +69,28 @@
         "op": "only_a",
         "a": "ſonder von dem\nfür der veruolgung / vmb der leer willen. Vff den rriiij. tag Jenners\nBůchſtab. [D]Ie gloß über den ſpruch Pauli /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6892,
+        "semantic_match": "Fritag nach Vincsmy vor mittag\npesten\nBuͦchstab, die gloß über den spruct Pauli gsset ingefüren\nnimm ich nitt an, wann paulus bee hern spricht, der\ntag deß herrn wirt das erclären, nu ist der dag desß\nherren, mit anderst dann der alßheid von diserzit\nvon dem paulitz ouch sagt 1 tess.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "geſteren vnges\nfürt / nim ich nitt an / wann Paulus hie heyter\nſprichtꝛ. Der tag des herren / wirt das erklaͤren /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6231,
+        "semantic_match": "Fritag nach Vincsmy vor mittag\npesten\nBuͦchstab, die gloß über den spruct Pauli gsset ingefüren\nnimm ich nitt an, wann paulus bee hern spricht, der\ntag deß herrn wirt das erclären, nu ist der dag desß\nherren, mit anderst dann der alßheid von diserzit\nvon dem paulitz ouch sagt 1 tess.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "nun iſt der tag des herrn / nüt anders / dann der abſcheyd\nvon diſer zyt / von dem Paulus ouch ſagt.j.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6981,
+        "semantic_match": "1. Tess. 5. vernirret er sich selbs dann Paulus\nvan der duͤnssen tag daselbs rett, wer aber\nverpand durch das tag diß hernn den tag.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -93,13 +102,17 @@
         "op": "match",
         "a": "Theſſalo. v. Das der tag des herren werde kommen / wie eyn dieb in\ndernacht.zc. Darumb ich hie / by dem bloſſen Text bly=\nben /",
         "b": "5. Das der tag\ndeß herrn werde kommen, wie ein dieb in der\nnacht etc. Darumb ich hie, bi dem blosen ierst blib.",
-        "similarity": 0.5106
+        "similarity": 0.5106,
+        "semantic": 0.34,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "ob mir aber ein gloß wurde notürfftig ſin / wurde ich\nby dero blyben / die in dryen teylen der welt / als in Aſia in\nAffrica vnd Europa / ob den tuſent Jaren / gebrucht iſt\nworden. Berchtoldus",
         "b": "ob mir aber ein gloß wurde vturtftig sin, würde\nich bideren beliben, die in drien teilen der wolt\nalß in tsia Aphrica, und Europa ob den 1 jaren\ngebrucht ist worden, wel wer antwurten vff\nden Inzug deß schach erb halb\nEr schulreisten klagt sich euer gloß über dem\nBruldg\nSpruch pardi Ingfütt So doch nüt anders\nweden die eigentlicher wort Pauli mite Irem Witür¬\nlichen sinn, allen gschrifften gmäß herfür nach sind\nWirt Sölists erkennen ein ietlicher Christenlicher\nleser, das er vonn tag erst herrn herfürbungen\nes seÿn, eins ierlicher absterben und probieren ett\npaulo.",
-        "similarity": 0.3077
+        "similarity": 0.3077,
+        "semantic": 0.7036,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -113,7 +126,12 @@
         "b": "Darum\nvnd gott bewerrt, heimisucht und offenbar nach ett,\nwie wir erbuwen siend, dann du dem abscheid\noch absterben eins ierlichten, wan nitt iederman offelbar\nnur ein\nwie er werck gottes sig so aber der herr\nuns bsütt. mitt dem kuius so werch die gedanken",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6108,
+    "reworded": 1,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2148,

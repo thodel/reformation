@@ -51,25 +51,34 @@
         "op": "match",
         "a": "Wiltu nun volkomen sin/nach diner meyn̄\nnung/so verkouff alles das du hast. Hie sehen wir/das\nder jüngling nit hatt gloubē gehabt/sonder vertruwen\nvff sine werck/vn̄ die selbē werck/die hat er wellen schetz̄\nen/wie er hat wellen/vnd so jm Gott sagt/was der recht\ngloub eruordert/so gat er dannen.",
         "b": "sinen wercken, vff dem weg der volkomenheit in\nwelichs doch nun ein glichstuerij was, Oomme Christus\nsprache, Ou rechnest din gute nach dinen werckenn,\nvnd thust aber nun werck, die die biebe der Richtagen\nnitt verlegen, wilt du min volkomen sin, nach duier\nmeinung, So verkouff ibles die du hist, hier gehen\nwie, das der Jungking, nitt het glauben gehapt, sun¬\nder vertruwen vff sine werck, vnd die selben werk,\ndie hat Er wetten Rhezen, wie Er hat geweltenn,\nvnd 80 tm.",
-        "similarity": 0.3022
+        "similarity": 0.3022,
+        "semantic": 0.6749,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Hieremie am xxvi. Jst ein verglichende red/vnd dienet nit vff das fägfür/ sonder vff die straffen/mügē/vnd arbeyten/die Gott\nvns menschen zůfügt.",
         "b": "gott tagt, was der Recht glaub enuordrot,\nSo gat Er dannen, Ihere mie. xxxj o. Iff ein ver¬\nglichende Red, und dienst nitt vff das fugfür, gun¬\nders vff die Straffen, mijgen, vnd arbeitten, die\ngott vns mentsthen zufugt, Is aije am.",
-        "similarity": 0.3881
+        "similarity": 0.3881,
+        "semantic": 0.6477,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Esaye am xxxv. wirdt geredt/ von dem wäg des Euangelij/das alle die darin wonen/ die werden nit vnrein syn.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7097,
+        "semantic_match": "sin In¬\nnerliche kranckheit an, die Fr meint allen mentschen\nverborgen sin, vnd opricht, wilt volcomende sin, Etholo¬\ngice, nitt das vijit moet volkomen machen, weder der\neinig gott, vnnders, das der Jüngling, sich vermeint\nvoorss.",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Also wirdt ouch in dem Psal=\nmen/fhür vnd wasser/für angst vnd trübsal genomen/ mit denen vns Gott ansicht in diser zyt/nit für einicher\nley fägfür/es můß sūst ouch ein fäg wasser sin/deßhalb\ndise ort alle/dhein fägfür bewären.",
         "b": "xxxv. wirdt geredt, van dem weij des fuangelij, das alle die\ndarum wonen, die werden nitt vurein sin, Also\nwirdt ouch In dem Psalmen, fur vnd wasser, für\nangst und trubsal genomen, mitt denen vns gott\nanficht In diser zitt, Nitt für einicherleij fug fur\nEs minst gunst ouch ein fagwasser zin, Oesshalb\ndise ort alle, de hein fagfur bewarenn\nJohannes bijchstab",
-        "similarity": 0.4762
+        "similarity": 0.4762,
+        "semantic": 0.7554,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -81,15 +90,26 @@
         "op": "only_a",
         "a": "das das blůt Christi/alles abwäsche/das wir\nan der rechnung hinder haben/ist mitt dheiner gschrifft\nbewärt: dann Paulus spricht zūn Römern am ij.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6735,
+        "semantic_match": "sin In¬\nnerliche kranckheit an, die Fr meint allen mentschen\nverborgen sin, vnd opricht, wilt volcomende sin, Etholo¬\ngice, nitt das vijit moet volkomen machen, weder der\neinig gott, vnnders, das der Jüngling, sich vermeint\nvoorss.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Das\ngott einē yeden werde gebē nach sinen wercken. Sie wort\ndes Propheten Dauids vnd ouch Hieremie/die wyl sy\nmit offenbarer gschrifft/nit widerfochten werden/wird\nich nach minem fürgeben lassen beston. Zwingli",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7416,
+        "semantic_match": "sin In¬\nnerliche kranckheit an, die Fr meint allen mentschen\nverborgen sin, vnd opricht, wilt volcomende sin, Etholo¬\ngice, nitt das vijit moet volkomen machen, weder der\neinig gott, vnnders, das der Jüngling, sich vermeint\nvoorss.",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7005,
+    "reworded": 3,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3708,

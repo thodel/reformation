@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Schlufired. Ise schlufred Begrifft vier artickel. Der erst\nist:Christus ist der heiligen/gemeinen Kilch=\nen einigs houpt. Wen diser artickel verstan=\nden wirt/von dem innern ynfluß der gnade/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7591,
+        "semantic_match": "das laͤbenn der Seel / Ephe: 1 ͦ Got hatt Christum geben ein houpt uͤber\nalle kirchen / die sin lyb ist /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -51,13 +54,18 @@
         "op": "match",
         "a": "Also flüßtouch vs Chri-\nsto dem houpt der Kilchen/in alle vereinte glider die\ngnad die da ist/das laben der feel Ephe.1.",
         "b": "Das laͤben vnd\ndie bewegnus / Also fluͤßt ouch vsß Christo\nDem houpt der kilchen In alle vereinte glider\ndie gnad die da ist /",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.6577,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Gott hat Chri\nſtum geben ein houpt überalle Kirchen/die synlybist/ vnd die volkomenheit/des der alle ding in alle hatt er-\nfült.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.631,
+        "semantic_match": "das laͤbenn der Seel / Ephe: 1 ͦ Got hatt Christum geben ein houpt uͤber\nalle kirchen / die sin lyb ist /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -75,19 +83,25 @@
         "op": "match",
         "a": "Item daselbst am vierden Capitel/wirfölléthin/ die warheyt/vnnd also in im wachssen/durch alle ding/ der dashoupt ist/vß welchem der ganz lybist zesamen\ngehefft/vnd geknüpfft durch ein yedes gleich der vßthei\nlung /",
         "b": "die warheit / vnnd allso In Im wachssen / Durch alle Ding / der das houpt ist / vß welchem\nDer gantz lyb ist zesamen gehefft /",
-        "similarity": 0.5263
+        "similarity": 0.5263,
+        "semantic": 0.5742,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "nachwürckung / in die maß eynes yegklichenn\nglids/vñ also machet das zünemendes lybs/zü erbuw=\nung sin selbs in der liebi.",
         "b": "vnd geknüpfft\ndurch ein jedes gleich der vßtheillung / der\nnach wuͤrckung In die mass eines  jegklichen\nglids vnnd allso machet das zuͦ nemen des\nlybs zu erbuwung sin selbs Inn Der lieby /",
-        "similarity": 0.3704
+        "similarity": 0.3704,
+        "semantic": 0.6913,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Item daselbst am fünfften Ca\npitel/Christus ist das houpt der Kirchen/vnd er ist der\nheylmacher jres lybs. Sisesprüch vnd derglichen/zeyge\nan das Christus ist dzhoupe der Kirchen von dem yn=\nfluß/des houpts in den lyb & Kirche/seyt Joan.",
         "b": "Item Daßelbst am v ͦ Capitell / Christus Ist das / houpt der kirchen / vnnd er ist der heill // macher ires lybs / Diser Spruch vnd der //",
-        "similarity": 0.4615
+        "similarity": 0.4615,
+        "semantic": 0.6614,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -99,27 +113,43 @@
         "op": "match",
         "a": "Bapt. Joann.. Von siner volli hand wir all genommen/gnad\nvmbgnad/wenn das gesatz ist durch Moysen geben/die\ngnad vnd warheit ist beschehen durch Jesum Christum\nvnnd Paul.",
         "b": "seit Joās\nbapt: Johanns / 1 ͦ von siner voͤlly hand wir\nall genommen / gnad umb gnad / wenn das\ngsatz ist Durch Moysen geben / Die gnad vnd\nwarheit ist beschehen Durch Jesum Christum",
-        "similarity": 0.7097
+        "similarity": 0.7097,
+        "semantic": 0.8032,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Ephe. iij. Einem yetliche vß vns ist gnad\ngeben/nach der mas & begabung Christi/vf den sprüch\nen vnd derglichen/ist klar.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7804,
+        "semantic_match": "das laͤbenn der Seel / Ephe: 1 ͦ Got hatt Christum geben ein houpt uͤber\nalle kirchen / die sin lyb ist /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Das Christus ist/das houpt\nder Kirchen/vñ von im einem yegklichen glid/ynflüße\ndas gnadrych låben/so aber das wortli vnicum/Eynig/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8244,
+        "semantic_match": "glichen / Zeigen / an Das Christus ist Das\nhoupt der kirchen von dem Influß / des\nhoupts Inn den lyb der Kirchen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "weder in denen noch derglichen ſprüchen niendert start/ 23 ij\nVI",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6099,
+        "semantic_match": "vnnd die volkom // menheit / des der alle ding In allen hat erfuͤlt / Item Daßelbst am vierden Cappittell wir sollen\nthuͦn /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.6993,
+    "reworded": 2,
+    "candidates": 5,
+    "recovered_by_embedding": 5,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4669,

@@ -39,7 +39,9 @@
         "op": "match",
         "a": "Die ſechſt\nApocalipſi. v. cap. Vnd do das lamb das bůch nam/do\nvielen die vier thier/vnd vier vnnd zwentzig Eltreſten/",
         "b": "Capit. Vnd do das Lamb das Buͦch nam/do vielen die vier Thier/ vnd vier vnd zwentzig Elteſten/fuͤr das Lamb/vnd hat ein\njetlicher Harpffen vnd gulden Schalen voll Geruͦchs/",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.6773,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -57,7 +59,9 @@
         "op": "match",
         "a": "Hie beſchrybt der heylig Johannes/dz gebätt der\nvßerwelten Heyligen im himmel. Zwingli\n[E] S iſt gnůg geſagt/wie die vßerwelten Gottes\nin der ſäligkeit/Chriſti glider ſind/vnd vnſere\nmitglider/Vñ dz ſy vnſere mitglider/des lych\nnams ſo noch hie iſt/ſyen/vermögende die wort\nPauli nit/",
         "b": "Zwingly. ES iſt gnuͦg geſagt/wie die Vſſerwelten Gottes in\nder Saͤligkeit/Chriſti Glider ſind/vnd vnſere Mit=\nglider/Vnd daß ſy vnſere Mittglider deß Lichnams/",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.8093,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,33 +73,50 @@
         "op": "match",
         "a": "j. Corinth. vij. ca. dañ die mängel/die da der\nhieygen Kilchen zůgeben werden/gezimen jnẽ nit. Vß\nApocalipſi/nemen wir kein kundſchafft an/dann es nit\nein Bibliſch bůch iſt/wiewol alles/das ſy derglychen ha\nryn möchten zůchen/vns dienet/vnd nit jnen.",
         "b": "Vß Apocalipſi/ nemmen wir kein Kundtſchafft an / dann es nit ein Bib=\nliſch Buͦch iſt / wiewol alles / daß ſy derglychen harin\nmoͤchten zuͤchen/vns dienet/vnd nit jnen.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.4929,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Gilg Durer\n[S] D Meiſter Vlrich ſpricht/vnd gibt nach/die\nvßerweltẽ heyligen im him̃el/ſyen glider Chri\nſti/aber nit wie wir glider Chriſti genant wer=\nden.",
         "b": "Gilg Murer\nSO Meiſter Vlrich ſpricht/vnd gibt nach/die Vſſer=\nwelten Heiligen im Himmel/ſyend Glider Chriſti/ aber nit wie wir Glider Chriſti genant werden.Vß\ndem volget aber /",
-        "similarity": 0.5763
+        "similarity": 0.5763,
+        "semantic": 0.9081,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Vß dem volget aber/das die vßerwelten\nheyligen/Gott für vns bitten mögen/dann wir habend\ngeſchriben. j. Johannis .ij.",
         "b": "das die Vſſerwelten Heiligen/Gott fuͤr\nvns bitten moͤgen/dann wir haben geſchriben. 1. Johan. 2. So jemand ſuͤndiget/ſo habē wir ein Fuͤrſpraͤchen vor Gott\ndem",
-        "similarity": 0.3077
+        "similarity": 0.3077,
+        "semantic": 0.5998,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "So yemand ſündiget/ſo ha=\nbend wir ein fürſprächen vor Gott dem vatter/Jeſum\nChriſtum. So nun die lieben heyligen im himel/ſind gli=\nder Chriſti/vnnd das houpt Christus/für vns bittet/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6388,
+        "semantic_match": "welches ſind die Gebaͤt der Heiligen. Hie beſchrybt der\nHeilig Johannes/das Gebaͤtt der Vſſerwelten Heiligen\nim Himmel.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "warumb wolten dan ſich ſine glider/jm nit glychförmig\nmachen im gebätt. Das er aber ſpricht/das bůch Apoca\nlipſis",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6159,
+        "semantic_match": "ſo noch hie iſt/ſyen/vermoͤgend die wort Pauli nit 1. Co=\nrinth. 12. Cap.. dann die maͤngel/die da der hieygen Kil=\nchen zuͦgeben werden/gezimmen jnen nit.",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.6774,
+    "reworded": 1,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5063,

@@ -57,19 +57,25 @@
         "op": "match",
         "a": "also ouch das heyl vnnd låben/aller glsubigen/stadtin\nChristo: dann er ist ein heilland fins lybs. Unnd wiedie\nglider krafftloß sind/vnnd nüt vermogen/on verwal=\nrung des houpts/also ouch die glider des lybs Chrifti/",
         "b": "Dann er iſt ein Heyland\nſynes Lybs. Und wie die Glider krafftlos ſind / und nůt\nvermogen / ohn Verwaltung deß Haupts /",
-        "similarity": 0.3158
+        "similarity": 0.3158,
+        "semantic": 0.7119,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "der Kilchen vermogend nüt on Chrifto. Dann wie das\nRabschoß kein frucht treyt/wo es dem wynstock nit yn=\ngelybet Blypt.",
         "b": "alſo auch die\nGlider deß Lybs Chriſti der Kilchen / vermögend nůt ohn\nChriſto. Dann wie das Råbſchoß kein Frucht treit /",
-        "similarity": 0.4878
+        "similarity": 0.4878,
+        "semantic": 0.5337,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Also ouch wir/ so nit yngelybet sind dem\nhoupt Chrifto/werden wir kein frucht Bringen: dann on\nin vermogend wir nüt/Johan.yv.",
         "b": "wo\nes dem Wynſtock nit yngelybet blybt : Alſo auch wir / ſo\nnit yngelybet ſind dem Haupt Chriſto / werden wir kein\nFrucht bringen;",
-        "similarity": 0.5333
+        "similarity": 0.5333,
+        "semantic": 0.7518,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -93,13 +99,17 @@
         "op": "match",
         "a": "vns stercke/tzöste/fire/vñ regiere/ouch sye\nein heylland des lybs Christi. Sise Kilche ist vs dem wort gottes geborn/wiewol\nsy Gott von ewigkeit/eedie welt erschaffen/erwelt hat:",
         "b": "Diſe Kilchen iſt vß dem Wort Gottes geboren/ wiewol ſy Gott von Ewigkeit / eh die Welt erſchaffen/ erwehlt hat : jedoch iſt ſy geboren vß dem innerlichen Wort\nGottes /",
-        "similarity": 0.4068
+        "similarity": 0.4068,
+        "semantic": 0.7804,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "yedoch ist sy geborn/vs dem innerlichen wort gottes/v\ndem wort des gloubens/Rom.y. Das Gott låbendig\nvnd tätig machet/vn in vnser hertz redet/welches ouch\nin der warheyt/kein anders ist/von dem das vsserlich ge\npredigot/oder in gschrifft verfasser ist.",
         "b": "vß dem Wort deß Glaubens. Rom. 10. das\nGott lebendig und thåtig machet / und in unſer Hertz re-\ndet / welches auch in der Warheit kein anders iſt/",
-        "similarity": 0.4384
+        "similarity": 0.4384,
+        "semantic": 0.5893,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -111,21 +121,34 @@
         "op": "match",
         "a": "Dise beruffung/ erlüchtung/vnd ernt werung der hertze/nenn ich geburt\nder Kilchen. Petri.1. Habend einander ynbrünstig lieb\nvon reinem hertzen/Als die wider geboren sind/nit vs\neim sterblichen somen/sond vs eim vnsterblichen/durch\ndie wort des labendigen Gottes/der in ewigkeyt belybr:",
         "b": "1. Pet. 1. Habend\neinander ynbrůnſtig lieb von reinem Hertzen / als die wi-\n                                                  derge-",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.6698,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "dann es müß die geystlich geburt der Kilchen ouch von\neim somen fin. Wellicher aber nit fleysch vnd blut/noch\nkeins menschen willen/Joan.1.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6737,
+        "semantic_match": "Die Erſte Schlußred. 7\ngierer vnd Schirmer ſyner Geſpons der Kilchen/vnd alſo\nallen/ ſo in jhn verhoffend/ vnd mag ein Mitlyden han mit\nuns in aller unſer Schwachheit Heb.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "ouch nit ein zergengklich\nsonder das ewig vnd libendig wort Gottes/deß vnser",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8136,
+        "semantic_match": "das die Gůter und Ga-\nben Gottes in unſere Hertzen gieſſe / uns ſtårcke / tröſte/ führe / und regiere / auch ſeye ein Heiland deß Lybs\nChriſti.",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.6905,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4842,

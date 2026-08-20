@@ -45,7 +45,9 @@
         "op": "match",
         "a": "Die erst\nvi wysen in ein tugenrich Christenlich labe/dz er das ge\nthon habe. Es zeyger zu ersten an die verheyssung/oder\nvoz verkündung/die geschrubé stadt Joannis am ersten\nCapitel/da Christus sprach zu Petro:",
         "b": "das er das gethan habe / Es zeiget des ersten die\nVerheissung oder vor verkuͤndung die geschriben\nstadt Johannis am ersten Capittel /",
-        "similarity": 0.3729
+        "similarity": 0.3729,
+        "semantic": 0.7038,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,13 +59,17 @@
         "op": "match",
         "a": "du bist Simon\nJoannis/du wirst fürhin geheissen Cephas. Berchtoldus. Rommen lieben Christen. Es hatt der Bicht-\nuarter anzeygt/das das houpt nit allein geb dz\nlaben dem lyb/sond hab ouch ander eygenschafft\nten/den lyb zeregieren/in sinen offerlichen wercken vnd\nübunge:",
         "b": "anzeygt / Das das houpt nit allein\ngeb / das leben / den lyb / sonder hab ouch ander / Eigenschafften den lyb zeregieren / In sinen vsser /",
-        "similarity": 0.4848
+        "similarity": 0.4848,
+        "semantic": 0.6417,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Sonu Christus sin sichbarliche lypliche gegen\nwürtigkeit hab offgenommen/hab er gelassen/synceygne\nlyb offertrich/ein gesetzt houpt/sin Kilch zeregieren/",
         "b": "lichen wercken vnnd uͤbungen / So nun Christus\nsin sichtbarlich lyblich gegenwuͤrdigkeit hab vffge // nomen / hab er gelassen / sinen eignen lyb vff\nertrich /",
-        "similarity": 0.3111
+        "similarity": 0.3111,
+        "semantic": 0.9363,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,33 +81,52 @@
         "op": "match",
         "a": "zu cim thugenliche lábé/sag ich also darzu des erste: Die\neigenschafft des houpts Christi/istouch die/d3 er sin lyb\nregiere/als ein fürst vn gepieter/Ezechielis am xxxvij\nCapitel.",
         "b": "ist ouch die / das er sin lyb regiere / als\nein fuͤrst vnnd gepieter / Ezechielis am xxxvij ͦ",
-        "similarity": 0.4583
+        "similarity": 0.4583,
+        "semantic": 0.7942,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Item dz er sin lyb regiert ſchirmpt vn fürt/ift\nallegschzifft vol/dann es spricht Hott durch den Prophe=\nten:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6842,
+        "semantic_match": "Kelchen\nhaupt\nA or\n10\nDie erst Schlußred\nthan / Das er sinen einigen / lyb Das ist der\nheiligen christenlichhen kilchen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Es wirt ein einiger künig fin/Ser yederman gepü=\ntet/Es vermag ouch der lyb Christi/ vi alle glider nüt\non die verwaltung des houpts/dann der Berrspricht:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8079,
+        "semantic_match": "ein gesetzt houpt / sin kilch ze Regieren / zuͦ thugenlichem leben / Sag ich allso darzuͦ\ndes ersten / Die eigenstchafft des houpts\nChristi /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "On mich mögend jrnüt zethund/darum soll die eer al-\nlein Gott geben werden/das er sin Kilch regiere/vnd fü=\nre/zu einem thugentrichen labe.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7773,
+        "semantic_match": "ein gesetzt houpt / sin kilch ze Regieren / zuͦ thugenlichem leben / Sag ich allso darzuͦ\ndes ersten / Die eigenstchafft des houpts\nChristi /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Eristouch vnser wyf=\nheyt in der ersten Epistel zun Corinthern am ersten Ca-\npitel. Sarumb wirt vns nüt fålen/so wir jm volgen:es\nlyt am tag/zu was Christenlichem låben vns der Bapst\ngefurthab/so er synen soldnern applas gibt/Christen=\nlich blüt zeuergiessen. Sie gschrifft zeigt vnns gnügsam\nan/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8323,
+        "semantic_match": "Da Christus\nsprach zuͦ Petro / Du bist Symon Johannis / Du\nWirst, fuͤrhin geheissen Cephas / Berchtoldus\nFromen Lieben Christen / Es hatt Der\nBichtvatter /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7722,
+    "reworded": 4,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3796,

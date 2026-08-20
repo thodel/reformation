@@ -39,13 +39,19 @@
         "op": "only_a",
         "a": "nement hin den heyligen geyst / wem\njr die suͤnd verzychent / ꝛc. Da niemand abred ist / das es\nzuͦ allen juͤngern geschehe sig /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7167,
+        "semantic_match": "Demn ach was er her In bringt\nIst alles verantwurtet villfalltig/ Das er\naber vermeint / Petrus sie Insenderheit die",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "das er aber darum̃ den an=\ndern die schluͤssel verheissen da geleystet habe / das zeygt\ndie gschrifft nit heyrrer an /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7531,
+        "semantic_match": "Demn ach was er her In bringt\nIst alles verantwurtet villfalltig/ Das er\naber vermeint / Petrus sie Insenderheit die",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -57,37 +63,49 @@
         "op": "match",
         "a": "weid\nmine schaͤffly / das es aber insonderheyt jm da geleistet sy\nvnd nit den andern / zeygt an das Christus Petrum voͤ\nden anderen genommen hat /",
         "b": "6\ndie erst schlußred\ndas es aber Insanderheit In Da geleistet sy/ vnnd\nnit den andern zeigt an das christus petrum\nvon den anndern genomen het/",
-        "similarity": 0.5385
+        "similarity": 0.5385,
+        "semantic": 0.8274,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dannanhar heyrer ist / das\ner jm verheyssen Matthei am xviij. Capi. in sonders\ngeleystet habe Joan. am letste Cap. Das aber Christus\nMatth.",
         "b": "Dannanhar\nheiter ist/ Das das er Im verheissen hett\nMathei am xviii ͦ cap: i sonders geleistet/ hett\nJohannis am lesten cap:",
-        "similarity": 0.4545
+        "similarity": 0.4545,
+        "semantic": 0.3605,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "am xviij. Capitel. Den gewalt geben / zuͦ bin\nden vnd entbinden / das hat er jnen geleystet. Johannis\nam xx. cap.",
         "b": "Das aber Christus\nMachen am/ vein cap: Den gewalt geben\nhat / zuͦ binden vnnd zuͦ entbinden/ Das het\ner Inen geleistet/",
-        "similarity": 0.439
+        "similarity": 0.439,
+        "semantic": 0.7434,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "So er sprach / nemend den heyligen geyst / ꝛc. **Berchtoldus+**\n\nWEnn meyster Jacob seche die vrsach / warumb\nChristus Petro die schluͤssel verheissen hatt /",
         "b": "Johannis am xx ͦ cap: Da er sprach/ nement den heilligen geistie\nBBerchtoldus\nDert meister Jacob seche die vrsich\nworumb Christus petro die schluͤssell\nverheissen hatt/",
-        "similarity": 0.4898
+        "similarity": 0.4898,
+        "semantic": 0.8096,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "so\nwurd er verston das die selbige verheyssung all\nApostel antrifft / dann aben das Petrus gloubt vnd be=\nkent hat /",
         "b": "so wurd er verstan Das\nDieselbige verheissung all aostell antrifft\nDan eben Das petrus glaubt vnd bekent\nhat/ Das Christus/",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.6276,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das Christus sye ein sun des laͤbendigen gottes\ndas hend ouch die andern bekent vnd gloubt. Joann. am\nsechsten.",
         "b": "sye ein Sun des lebendi// gen gotes/ Das hend ouch die ondern bekent\nvnd gloubt/. Joh anns am Sechten/ Darumb\nhaben sy auch die leistung der schluͤsslen\nempfangen /",
-        "similarity": 0.4898
+        "similarity": 0.4898,
+        "semantic": 0.635,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -99,13 +117,19 @@
         "op": "only_a",
         "a": "das er aber vermeynt Petro syen in\nsonderheyt die schluͤssel geleystet / mit denen worten da er\nspricht / weid meine schaͤffly /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6046,
+        "semantic_match": "Demn ach was er her In bringt\nIst alles verantwurtet villfalltig/ Das er\naber vermeint / Petrus sie Insenderheit die",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "mag nit beston / dan schaͤffly\nweyden / eyn hirt sin gepuͤrt allen Predigerenn / dann",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7677,
+        "semantic_match": "Demn ach was er her In bringt\nIst alles verantwurtet villfalltig/ Das er\naber vermeint / Petrus sie Insenderheit die",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -113,7 +137,12 @@
         "b": "Demn ach was er her In bringt\nIst alles verantwurtet villfalltig/ Das er\naber vermeint / Petrus sie Insenderheit die",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6846,
+    "reworded": 3,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4107,

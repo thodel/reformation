@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Schlußred. ſünden/hat er vns mit Chriſto läbendig gemacht (Dann\nvß gnaden ſind jr ſälig worden) vnnd hatt vns mit jm\nvfferweckt/vnd geſetzt in dz himelſch wäſen durch Chri\nſtum/vff das er zeygte in den zükünfftige͂ zyten/die über\nſchwenckliche richtumb ſiner gnad/mit ſiner früntlikeit\nüber vns/durch Jeſum Chriſtum/dañ vß gnaden ſind\njr ſälig worden/durch den glouben/vnd daſſelbig nit vß\nüch.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8419,
+        "semantic_match": "wo iſt dann vn=\nſer verdienſt ? Vß gnaden mit Chriſto vnnd durch Chri=\nſtum/machet er vns laͤbendig / ſaͤlig/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -69,7 +72,9 @@
         "op": "match",
         "a": "Es iſt gottes gab/nit vß den wercken/vff das ſich\nnit yemand rüme/dañ jr ſind ſin werck/geſchaffen durch\nJeſum Chriſtum zů güten wercken/zů welichen Gott\nvns zeuorbereittet hatt/das wir darinnen wandlen ſöl-\nlen.",
         "b": "Es iſt Gottes\ngab / nit vß den Wercken / vff das ſich nit jemand ruͤme/ dann jr ſind ſin Werck /",
-        "similarity": 0.5517
+        "similarity": 0.5517,
+        "semantic": 0.8714,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -81,19 +86,27 @@
         "op": "match",
         "a": "Hie ſehen jr heiter vñ klar/das vns gott fürkomen\nhatt/mit ſyner liebe vnd gnad/da wir noch ſünder wa-\nren/wo iſt dañ vnſer verdienſte Vß gnade͂ mit Chriſto\nvnd durch Chriſtum/machet er vns läbendig/ſälig/vff\nvfferweckt vns in das himelſch weſen durch den gloube͂/",
         "b": "Hie ſehen jr heiter\nvnnd klar / das vns Gott fuͤrkommen hat / mit ſyner liebe\nvnnd gnad / da wir noch Suͤnder waren/",
-        "similarity": 0.4167
+        "similarity": 0.4167,
+        "semantic": 0.6277,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "vnd gantz nit vß den wercke͂. Zum andren wil gott dar-\numb nit das wir müſſig gangen/vnd alles güts zürthůn\nvnderlaſſend/ſonders ſo wir glouben/vnd gott hertzlich\nvertrüwen/werden die werck gottes nit vßblibe͂/darum\nfromen Chriſten/ſo tröſten üch allein der gnad Gottes/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8454,
+        "semantic_match": "vnnd vfferwerckt vns\nin das Himelſch waͤſen durch den glouben / vnnd gantz nit\nvß den Wercken. Zum andren wil Gott darumb nit das\nwir muͤßig gangend /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "der gerechtigkeyt vnd volkomnen erlöſung vnſers herrn\nJeſu Chriſti/vnd erkennen/das alles das/damit jr ge-\nlert ſind/für die ſünd gnůg thůn/vñ das rich gottes ver\ndienen/es ſye Applas/wich waſſer/kertzenbrennen/ja in\neiner ſum/was der glichen ſin mag/ytel vergeblich/vnd\ndem ſchatz des lydens Chriſti ein leſterung/hie mitt ſye\nGott lob vnd Eer in ewigkeit/Amen. Cc ij\nEnd der drytten ſchlußred.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8147,
+        "semantic_match": "DEr handel vnſers verdienſts/iſt wol erluͤtret / durch\nPaulum zun Epheſern am 2. Gott der da rich iſt\nvon barmhertzigkeit /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -113,7 +126,12 @@
         "b": "vnnd alles guͤts zuͤthuͤn vnderlaſ=\nſend / ſonders ſo wir glouben / vnnd Gott hertzlich vertruͤ=\nEe iij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8002,
+    "reworded": 1,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4601,

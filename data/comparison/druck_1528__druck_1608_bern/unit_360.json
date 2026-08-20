@@ -39,13 +39,19 @@
         "op": "only_a",
         "a": "Sölich/vñd derglychen mißbrüch/wår kan nit ſehen/ das ſy erſchrockenlich grüwel ſind vor Gott: vñnd das\neben erfült wirt/das Chriſtus Luce.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.719,
+        "semantic_match": "382             Die fuͤnfft\nnit annemmen / daß so jhr harfuͤr bringen moͤchten / von\nden Opffern deß Alten Testaments /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "xvj. ſpricht: Wz\nhoch iſt vor den menſchen/iſt ein grüwel vor Gott. Alſo\nvermeinen wir/diſe ſchlußred/gnugſam bewårt vñd er=\nklårt ſin.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6543,
+        "semantic_match": "382             Die fuͤnfft\nnit annemmen / daß so jhr harfuͤr bringen moͤchten / von\nden Opffern deß Alten Testaments /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -63,19 +69,25 @@
         "op": "match",
         "a": "Wir werden ouch nit annemen/das ſo jr harfür\nbringe möchten/von den Opffern des alten Teſtamẽts/ dann die ſchon in Chriſto volendet vñd erfült ſind/als\njr yetz gehört habend/vß den Hebreern am v.",
         "b": "dann die schon in\nChristo vollendet vnnd erfuͤllt sind / als jr jetz gehoͤrt ha-\nbend / vß den Hebreern am 10.",
-        "similarity": 0.4138
+        "similarity": 0.4138,
+        "semantic": 0.7568,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "capitel: Daß wir nun ein Opffer/ein Opfferer/vñd ein Altar/ der Chriſtus iſt/zun Hebreern am. viij. bekennend. Jr\nwerden ouch vergebens ynfüren/die ſprüch vß den Pro\npheten/Eſaie am xix.",
         "b": "Capitel: Dann wir nun ein\nOpffer / ein Opfferer / vnd ein Altar / der Christus ist / zun\nHebreern am 13. bekennend. Jr werden ouch vergebens\nynfuͤren /",
-        "similarity": 0.7241
+        "similarity": 0.7241,
+        "semantic": 0.8593,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "lvj. Sophonie am iij. Ma\nlachie am. j. vñd iij. die dann redend von den opffren/al\nlen Chriſten gemein/dann die ſelben ſind vnſere lyb/zun\nRömern xij.",
         "b": "die Spruͤch vß den Propheten / Esaie am 19. 56. 66. Sophonie am 3. Malachie am 1. vnd 3. die dann\nredend von den Opffren /",
-        "similarity": 0.3704
+        "similarity": 0.3704,
+        "semantic": 0.7289,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,19 +99,25 @@
         "op": "match",
         "a": "Opffer des lobs. Pſalmo. l. vñd dienſtbar\nkeit brüderlicher liebe/zun Hebreern xiij. Wir werden\nouch nit mer hören von dem gewalt der Kilchen.",
         "b": "zun Hebreern am 13. Wir werden ouch nit mehr hoͤren\nvon dem Gewalt der Kilchen. Dann by den ersten vnnd\nanderen Schlußred /",
-        "similarity": 0.4681
+        "similarity": 0.4681,
+        "semantic": 0.7647,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Dañ\nby der erſten vñ anderen ſchlußred/gnůg daruon geſagt\niſt. Darzů lert Paulus/daß das Nachtmal allen Chri\nſten gemein/in der gemeynd gehalten ſölle werden.",
         "b": "gnuͤg daruon gesagt ist / darzuͦ leert\nPaulus das das Nachtmal allen Christen gemein in der\nGemeind gehalten soͤlle werden.",
-        "similarity": 0.5417
+        "similarity": 0.5417,
+        "semantic": 0.7704,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Dar\numb wår diſe ſchlußred widerſächen welle/bringe kla=\nre gſchrifft/darmit die gmeind Gottes mitt vnnützen\nwortten nit beladen werde. Johannes",
         "b": "Darumb waͤr dise schluß-\nred widerfaͤchten welle / bringe klare Gschrifft / darmit\ndie Gmeind Gottes mit vnnuͤtzen worten nit beladen\nwerde.",
-        "similarity": 0.4889
+        "similarity": 0.4889,
+        "semantic": 0.7933,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -119,7 +137,12 @@
         "b": "Derselbig\nMelchisedech / ein Koͤnig zuͦ Salem / hat Abrahe fuͤrgetra-\ngen",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7558,
+    "reworded": 4,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4275,

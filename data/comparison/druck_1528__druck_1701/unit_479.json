@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "zůgegen wære/der da vermeindte/das ich/oder die andren mine gelieb-\nten brůder/vnd Mitarbetter im wort zů Costentz/etwas gelert oder ge-\nprediget hetten/der yetzund hie gedisputierten artickel halber/das vnchri\nstenlich/vnd dem wort Gottes widrig wære (wie mich dan/seltzam vn-\nbillich reden/so etlich hie vßgiessen/gloublich anlangen) Den oder die sel\nbigen bitt ich vmb Gottes eer/vnd brůderlicher liebe willen/solichs hie/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8685,
+        "semantic_match": "kommen / wåre ich willens geweſen / ihr beyder\nSchmachſchrifften / darinn ſy zum theil myne Herren von Co=\nſtentz / zum theil auch myn Perſon ſonderlich /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -105,7 +108,9 @@
         "op": "match",
         "a": "in anhoͤren der gelerten vnd hochuerstendigen/harfür zůtragen. Wil ich\ndarumb/mit Gotts hilff/vnd verwilligung der Eerwirdigen Herren\nPresidenten/frůntliche/brůderliche/vnd in allwåg Christeliche antwurt\ngeben.",
         "b": "in Anhören der Gelehrten und Hochverſtåndigen / harfůr zu\ntragen / wil ich darum / mit Gottes Hůlff / und Verwilligung\nder Ehrwůrdigen Herren Preſidenten /",
-        "similarity": 0.44
+        "similarity": 0.44,
+        "semantic": 0.6782,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -117,13 +122,17 @@
         "op": "match",
         "a": "Deß ich mich ouch also hiemit vor aller mencklichem hie zůgegen/ bezůget vnd protestiert wil haben. Damit sich nachmals niemant gůden\nmoge/das er mich zů recht vertigen/hie erschinen/vnd aber der mangel\nan mir gewesen sye.",
         "b": "Damit ſich nachmahls niemand gůden\nmôge / daß er mich zu rechtfertigen hie erſchienen / und aber der\nMangel an mir geweſen ſeye.",
-        "similarity": 0.5085
+        "similarity": 0.5085,
+        "semantic": 0.7542,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Dan ich mines gloubens vnd lerens/allwåg vnd ei\nnem yeden rechnung zůgeben/bereyt vnd willig bin. Die zehende Schlußred.",
         "b": "Dann ich mynes Glaubens\nund Lehren allweg und einem jeden Rechnung zu\ngeben bereit und willig bin. Ende der Nůndten Schlußred. Die",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.6459,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -135,21 +144,35 @@
         "op": "only_a",
         "a": "Franciscus Kolb. Exodi am xx. Du solt\nnit vnkůsch sin. Thůt pau=\nlus mit sinē geyst/sampt den\nCorinthern/den vnkůsche in\nBann/j.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7904,
+        "semantic_match": "kommen / wåre ich willens geweſen / ihr beyder\nSchmachſchrifften / darinn ſy zum theil myne Herren von Co=\nſtentz / zum theil auch myn Perſon ſonderlich /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Corinth. v. ca. Vnd\nspricht wyter. j. Corinth. vj. Wüssen jr nit/das üwer lyb\nsind glid Christi? So ich nū\nnim die glider Christi/mach\nsy glid der hůren/dz sye verr.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6366,
+        "semantic_match": "kommen / wåre ich willens geweſen / ihr beyder\nSchmachſchrifften / darinn ſy zum theil myne Herren von Co=\nſtentz / zum theil auch myn Perſon ſonderlich /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Wüssen jr nit/das der da anhanget der hůren/wirt ein\nlyb",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7887,
+        "semantic_match": "kommen / wåre ich willens geweſen / ihr beyder\nSchmachſchrifften / darinn ſy zum theil myne Herren von Co=\nſtentz / zum theil auch myn Perſon ſonderlich /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7375,
+    "reworded": 2,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3015,

@@ -51,31 +51,41 @@
         "op": "match",
         "a": "[I]N dem namen vnsers lieben Herrn Jesu Chri=\nsti / als min herren die predicante͂ / in jren schluß\nreden fuͤrgenommen hand /",
         "b": "obresten hrgen/ vnnd houpt/ der kilchen\nVnnd Christum allß ein war Ingelibet haupt\nDer kilchen/ euger\nIn dem namen vnsers lieben hern Jesu\nChristi allß min herren die predicanten\nIn Iren schlusßreden furgenomen hannd/",
-        "similarity": 0.3571
+        "similarity": 0.3571,
+        "semantic": 0.758,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ein einig houpt ze sin\nChristenlicher Kilchen / lan ich nach / fuͤrnemlich Christu͂\nJesum als das Oberest houpt / yngeliber der Kilchen /",
         "b": "zesns: ein einig houpt Jesaum. Christenlicher kilchen/ Ean ich nach/ furnemlich Christus esl/ Alß dem obristen/ houpt Ingelibet Der\nkilchen /",
-        "similarity": 0.4878
+        "similarity": 0.4878,
+        "semantic": 0.8246,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Das ist allen Christgloͤubigen menschen. Ich meyn aber\ndie geschrifft geb zů / das durch sin ordnung vnd geheyss\nsins Gottwort /",
         "b": "Das ist allen Christ glaubigen/ moͤnschen / Ich mein aber die gschi\ngeb zuͦ Das Durch sin ordnung vnd\ngeheiß sins gots wort/",
-        "similarity": 0.6364
+        "similarity": 0.6364,
+        "semantic": 0.8156,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd siner zwoͤlffbotten andre Oberer / Prelaten / Regente͂ vn̄ Hoͤupter / in d’ Kilchen ouch soͤl=\nlen syn / den ich da kein zanck wil han /",
         "b": "vnnd siner zwollffboten\nandre oberer/ prelaten/ fegenten vnd houpter\nInn der kilchen/ ouch soͤllen sin Denn\nIch da kein zangk will han /",
-        "similarity": 0.449
+        "similarity": 0.449,
+        "semantic": 0.8941,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vm dz wort houpt\nals glich eins wie das ander houpt / Prelaten / oð Oberer\nals da spricht d heylig zwoͤlffbot zun Rhoͤmern am xiij.",
         "b": "vmb das\nwort houpt/. Allß glich eins wie das\ntonet\nannder/ prelaten/ oder oberer/ Allll da\nspricht / Der heillig zwolff pot zum Rhoͤnen",
-        "similarity": 0.44
+        "similarity": 0.44,
+        "semantic": 0.6944,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -89,7 +99,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7973,
+    "reworded": 4,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3407,

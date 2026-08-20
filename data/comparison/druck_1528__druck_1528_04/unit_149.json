@@ -45,19 +45,26 @@
         "op": "match",
         "a": "**Schlußred. LXVII**\n\nvnnd heyligen geyst / das sind nun dry Personen / das ist\nGott der vatter / Gott der sun / Gott der heylig geyst/",
         "b": "Das ſind nun dry\nPerſonen/das iſt gott der vatter/Gott der ſun/ Gott der heylig geyſt/die dry ſind das recht wå\nſenlich houpt der Chriſtenlichen Kilchen /",
-        "similarity": 0.68
+        "similarity": 0.68,
+        "semantic": 0.7943,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "die dry sind das recht wåsenlich houpt der Christenliche\nKilchen / die das selbig regierend / låbendig machē im lå=\nben behalten /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7158,
+        "semantic_match": "Die erſt\nDaniel Schatt. Das Chriſtus ein warer gott vñ menſch ſye/ ein houpt der Chriſtenlichen Kilchen : iſt recht/ aber das wörtly Einig /",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "vnd das heyl geben / darumb mag nitt ge=\nfeyt werden / das Christus sye das eynig houpt / aber wol\ndas houpt der Christenlichen Kilchen /",
         "b": "die dz\nſelbig regierend/låbendig machẽ/ im låben behal\nten/vnd das heyl geben. Darum̃ mag nit geſagt\nwerden/das Chriſtus ſye das eynig houpt/aber\nwol das houpt der Chriſtenlichen Kilchen/mitt\ngott dem vatter/vnd heyligen geyſt.",
-        "similarity": 0.6129
+        "similarity": 0.6129,
+        "semantic": 0.8641,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -69,31 +76,42 @@
         "op": "match",
         "a": "die dry Perso=\nnen / nůt desterminder ein einiger gott sye / vnd\ndas so von dem vatter geredt wirt / oder vom sun /",
         "b": "Zwingly. Der gůt herr erkeñt noch nit / dz ob glich dry\nPerſonen in der Gottheyt ſind/ die dry Perſo=\nnen/nüt deſterminder ein eyniger Gott ſye/vnd\ndas ſo von dem vatter geredt wirdt /",
-        "similarity": 0.5818
+        "similarity": 0.5818,
+        "semantic": 0.7712,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "oder\nvom heyligē geyst / nůtdesterminder vnder yegklichs sin\nPerson / der eynig Gott verstanden wirt / da nitt not ist\nlenger von ze sagen /",
         "b": "oder vom\nſun/oder vom heyligen geyſt/ nüt deſterminder\nvnder yegklichs ſin Perſon/ der eynig Gott ver\nſtanden wirt/ da nit not iſt lenger von zeſagen:",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.8442,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dann es gar spåtlich wår / das man\nin der loblichē disputation / liesse sållich argwånige ar=\ngument machen die / da vnderstůnden die einigen einig=\nkeyt des einigen Gottes /",
         "b": "dann es gar ſpötlich wår / das man in der lob=\nlichen Diſputation / lieſſe ſöllich argwånige ar=\ngument machen/die da vnderſtůndẽ die eynigen\neynigkeyt des eynigen Gottes/zeuylen oder vil\nmachen/darum̃ das dry Perſonen ſind/ꝛc.",
-        "similarity": 0.5938
+        "similarity": 0.5938,
+        "semantic": 0.8283,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "zeylen oder vil machen / dar=\numb das dry Personen sind / zc. Off sållichs ist syn argument vnkrefftig / all diewyl\ner vns nit anzeygt /",
         "b": "Vff ſöllichs iſt ſyn Argument vnkrefftig/all\ndiewyl er vns nit anzeygt/ einen der warer gott\nvnnd",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7508,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "einen der warer Got vnd mensch sy / so blibt fůr vnd fůr der eynig Christus / das einig houpt\nder Kilchē /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8186,
+        "semantic_match": "Die erſt\nDaniel Schatt. Das Chriſtus ein warer gott vñ menſch ſye/ ein houpt der Chriſtenlichen Kilchen : iſt recht/ aber das wörtly Einig /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -107,7 +125,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7984,
+    "reworded": 0,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5895,

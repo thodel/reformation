@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "Die erſt\ngehalten/als kätzerisch verdamnet/das die Christenlich\ngemeind syend nun die verordneten zum ewigen läben. So doch sant Paulus mit aller geschrifft/zuñ Römern\nam viij.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6613,
+        "semantic_match": "Es ist auch allen Christen bekant\nDas wo got nit lert / alle predig vergebenn\nNoch dennost / Hat, got  der her\nsind /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "capitel geschriben hat: Welcher der Herr ver=\nordnet hat/die hat er ouch berüfft/fromm vñd heylig ge\nmacht/Da ist nun klar/das des Provincials Kilch sich\nvermessen hat/die hälle wort Gottes abzetůn/darum\nnit von vnnöten/sölich vrtheyl menschlich abzeſtricken:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7877,
+        "semantic_match": "Es ist auch allen Christen bekant\nDas wo got nit lert / alle predig vergebenn\nNoch dennost / Hat, got  der her\nsind /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -57,13 +63,17 @@
         "op": "match",
         "a": "Zum anderen/lieben Christen/diewyl der\nProvincial gar ernstlichen tringet/den vnüberwindtli=\nchen spruch/Der geystlich richtet alles/in der ersten Epi\nstel zum Corintheren am ij.",
         "b": "Zum andern lieben Christen / Die // wyl der pronimnal gar ernstlichen tringet  den\nvnuͤberwindtlichen Spruch / der geistlich richts\nalles / i a ad Corinthos ij ͦ cap:",
-        "similarity": 0.4615
+        "similarity": 0.4615,
+        "semantic": 0.7928,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Capitel/das von eym yeden\nChristen verstandenn werden müß/diewyl niemands\nChristi ist/der nit sin geyst habe/zuñ Römern am viij.",
         "b": "Das von eijn Jeden\nChristen verstanden werden muͦß / die wyl niemandes\nChristi ist / der nit sin geist habe / zum Rhoͤmern\nam viii cap:",
-        "similarity": 0.5106
+        "similarity": 0.5106,
+        "semantic": 0.8676,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -75,13 +85,18 @@
         "op": "match",
         "a": "capitel. Da hat der Provincial one gschrifft sölichen her\nlichen spruch vnderstanden zeuerdůncklen/vñd das mit\nzweyen fragen. Die erst/So der geyst alle Christen müß\nse leren/vñd one den geyst des herren/vñnd eygnem ver=\nstand des götlichē worts/kein gloub gehabt werdē mög.",
         "b": "die\nerst / So der geist alle Christen / muͤsse lerenn / vnd one den geist des hern vnnd eygnem ver // stand des götlichen worts /",
-        "similarity": 0.4638
+        "similarity": 0.4638,
+        "semantic": 0.7311,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Warum wir dañ so flyssig den nüw erwachßnen gloubē\npredigē. Welche frag/fromen Christē/ob sy nit sye ein off\nne Calumnia, vñ låres vmtrybē/söllen jr alle vrteilen/Es\nist ouch allen Christē bekant/dz wo Got nit lert/alle pre\ndig vgebē sind/noch dennost hat Gott der Herr diß ord\nnung/damit dester mer lieb vñ einigkeit vñd den Chri=\nsten bestůnde/gewellet/dz sy einandern on vnderlaß wy\nsen vñd leren sölten.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6637,
+        "semantic_match": "kein gloub gehapt\nWarumb wir dan so\nwerden mog / vyssigk den nuͤw erwachsßenen glouben predigen\nwelche frag / fromen / Christen ob sy nit  sye\nein offne  Calumnia vnnd laͤres vmbtriben soͤllend\nIr alle vrtheillen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -113,7 +128,12 @@
         "b": "am dritten capitell Daten zum\nChorinthern / Epist: pri: beschriben ist. Das ortt\nwill ich uͤch laͤsen\nwer ist nun paulus",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7507,
+    "reworded": 2,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3837,

@@ -39,13 +39,18 @@
         "op": "match",
         "a": "Sadurch ein parthy disem/vnd die andredem andren/ sich anhenckr: vnd ein yeder was jm angnam/anmütig/ vnd gefellig ist/beschützen/handthaben vnnd schirmen/",
         "b": "vnglychfoͤrmiger vßlegung vnd\nlere/ſich gebruchẽ. Dadurch ein parthy diſem/ vnd die andre dem andren/ſich anhenckt: vñ ein\nyeder was jm angnaͤm/anmuͤtig/vñ gefellig iſt/",
-        "similarity": 0.4815
+        "similarity": 0.4815,
+        "semantic": 0.8253,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "wil: vnermåssen/vnd vnerwågen Göttliche warheyt/ vnnd einfaltigemeinung des waren Christenlichen glou\nbens. Sas alles zerrüttung Brüderlicher liebe vnd Chri\nſtenlicher eynigkeit gebirt:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8708,
+        "semantic_match": "Das alles zerruͤttung bruͤderli-\ncher liebe vnd Chriſtenlicher eynigkeit gebirt: zuͦ\ndem das daruß verderblicher nachteil/lybs/ſeel/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -63,7 +68,9 @@
         "op": "match",
         "a": "zu dem das darus verderbli=\ncher nachteyl/lybs/feel/eer vnd guts/vnd abfal gemei=\nnes nutzes/frommen wåsens vndstands/ouch Thyran\nnische regierung entspringen/Sem allem mitt hilff vnd\ngnad des allmechtigen/fürzekomen/vnd den grund Hot\nlicher warheyt/Christenliches verstands vnd gloubens/",
         "b": "eer vnd guͦts/vnd abfal gemeines nutzes/from-\nmen waͤſens vnd ſtands/ouch Thyranmiſche re-\ngierung entſpringen. Dem allem mit hilff vnd\ngnad des allmechtigen/",
-        "similarity": 0.3662
+        "similarity": 0.3662,
+        "semantic": 0.7867,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,31 +82,43 @@
         "op": "match",
         "a": "fürzebringen/vnd dem nach zelaben: rechtgeschaffen/vn\nin Göttlicher schrifft gegründe Hotsdienst/zepflanzen\nvnd üben. Ser menschen satzung (damit man Gott ver\ngeben eeret) vszerüten.",
         "b": "vnd in Goͤttlicher\ngſchrifft gegruͤndt Gottsdienſt zepflantzen vñ\nuͤben. Der menſchen ſatzung (damit man Gott\nvergaͤben eeret) vßzeruͤten.",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.6418,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "So haben wir mit wolbedach\nrem einhallem Radt/ein gemein Gespräch vnd Sispu\ntation/allhie in vnserstart Bern zehalten/angesechen:",
         "b": "So habend wir mit\nwolbedachtem einhaͤllem Radt/ein gemein Ge-\nſpraͤch vnd Diſputation/ allhie in vnſer Statt\nBern zehalten/angeſechẽ:",
-        "similarity": 0.5238
+        "similarity": 0.5238,
+        "semantic": 0.7809,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd deshalb verrumpte zyt beſtimpt/namlichen nach=\nſten Sontag nach dem Nüwen jars tag/schierestkom=\nmend/sol yederman zů nacht an der herberg sin:",
         "b": "vnd deßhalb verruͤm\nte zyt beſtimpt/namlichen naͤchstẽ Sontag nach\ndem Nüwen jars tag/ ſchiereſt komend/ ſol ye-\nderman zuͦ nacht an der herberg ſin:",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.8631,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "nachuol\ngenden tagé die Sisputan zü volfüren. Zu welcher wir\nerstlich beschribe haben/die vier Bischoffen/Wirnamen\nden von Costents/Basel/Wallis/vnd Losen/deren Bi\nſtumb sich in vnser stert vi land strecken/Sas die selbe\nin eygnen persone/von wegen jrs ampts/als oberst seel=\nforger vnd hirten/die sy wellen geachtet vnnd gehalten\nwerden/allhie erschynen/vn jr gelerten im wort Gottes\nmit jnen Bringen/vnd zedisputieren anhalten/vn keins\nwegs vßblyben/by verlierung alles des/so sy Bischoff-\nliches ampts/vnd wirde halb/hinder ons ligen haben.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6958,
+        "semantic_match": "fuͤrzekommen/ vnd den\ngrund Goͤttlicher warheyt/ Chriſtenliches ver-\nſtands vnd gloubens/fuͤrzebringen/ vnnd dem\nnachzelaͤben: rechtgeſchaffen/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Semnach so ist allen vnd yeden vnsern lieben getrüwen\neij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6795,
+        "semantic_match": "vnglych verſtaͤnd vßgebrochen. Harflieſſend vß\ndem/ das die Predicanten allenthalbẽ in vnſern\nſtetten/landen vnd gebieten/in verkuͤndung des\nwort Gottes/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -107,7 +126,12 @@
         "b": "nachuol-\ngenden tagen die Diſputatz zuͦ volfuͤrẽ. Zuͦ wel\ncher wir erſtlich beſchriben habend/ die vier Bi-\nſchoffen/mit namen den vonn Coſtentz/ Baſel/ Wallis",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.768,
+    "reworded": 3,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3872,

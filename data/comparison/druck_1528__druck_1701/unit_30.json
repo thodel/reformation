@@ -57,7 +57,9 @@
         "op": "match",
         "a": "Die erst\nvi wysen in ein tugenrich Christenlich labe/dz er das ge\nthon habe. Es zeyger zu ersten an die verheyssung/oder\nvoz verkündung/die geschrubé stadt Joannis am ersten\nCapitel/da Christus sprach zu Petro:",
         "b": "und Statthalter / regieren wölte / und wyſen in ein tu-\ngendrych Chriſtenlich Leben: daß er das gethan habe / zeiget es zum erſten an die Verheiſſung /",
-        "similarity": 0.3607
+        "similarity": 0.3607,
+        "semantic": 0.7446,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,7 +71,9 @@
         "op": "match",
         "a": "du bist Simon\nJoannis/du wirst fürhin geheissen Cephas. Berchtoldus. Rommen lieben Christen. Es hatt der Bicht-\nuarter anzeygt/das das houpt nit allein geb dz\nlaben dem lyb/sond hab ouch ander eygenschafft\nten/den lyb zeregieren/in sinen offerlichen wercken vnd\nübunge:",
         "b": "du wirſt fürhin geheiſſen Cephas. Berchtoldus. FRomme / liebe Chriſten. Es hat der Bychtvatter\nanzeigt / daß das Haupt nit allein geb das Leben\ndem Lyb /",
-        "similarity": 0.4412
+        "similarity": 0.4412,
+        "semantic": 0.7308,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,39 +85,59 @@
         "op": "match",
         "a": "Sonu Christus sin sichbarliche lypliche gegen\nwürtigkeit hab offgenommen/hab er gelassen/synceygne\nlyb offertrich/ein gesetzt houpt/sin Kilch zeregieren/",
         "b": "hab er gelaſſen ſynen eig-\nnen Lyb vff Erdrich / ein geſetzt Haupt / ſyn Kilch zere-\ngieren / zu einem tugendlichen Leben /",
-        "similarity": 0.3415
+        "similarity": 0.3415,
+        "semantic": 0.6393,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "zu cim thugenliche lábé/sag ich also darzu des erste: Die\neigenschafft des houpts Christi/istouch die/d3 er sin lyb\nregiere/als ein fürst vn gepieter/Ezechielis am xxxvij\nCapitel.",
         "b": "ſag ich alſo darzu\ndeß erſten: Die Eigenſchafft deß Haupts Chriſti iſt auch\ndie / daß er ſyn Lyb regiere als ein Fürſt und Gepieter /",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.7358,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Item dz er sin lyb regiert ſchirmpt vn fürt/ift\nallegschzifft vol/dann es spricht Hott durch den Prophe=\nten:",
         "b": "Ezechielis am 37. Capitel. Jtem daß er ſyn Lyb regiert / ſchirmpt nnd führt / iſt alle Geſchrifft voll / dann es ſpricht\nGott",
-        "similarity": 0.3415
+        "similarity": 0.3415,
+        "semantic": 0.5289,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "Es wirt ein einiger künig fin/Ser yederman gepü=\ntet/Es vermag ouch der lyb Christi/ vi alle glider nüt\non die verwaltung des houpts/dann der Berrspricht:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7714,
+        "semantic_match": "ſonder hab auch andere Eigenſchafften / den\nLyb zeregieren in ſynen vſſerlichen Wercken und Ubun-\ngen: So nun Chriſtus ſyn ſichtbarliche lybliche Gegen-\nwürtigkeit hab vffgenommen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "On mich mögend jrnüt zethund/darum soll die eer al-\nlein Gott geben werden/das er sin Kilch regiere/vnd fü=\nre/zu einem thugentrichen labe.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.702,
+        "semantic_match": "ſonder hab auch andere Eigenſchafften / den\nLyb zeregieren in ſynen vſſerlichen Wercken und Ubun-\ngen: So nun Chriſtus ſyn ſichtbarliche lybliche Gegen-\nwürtigkeit hab vffgenommen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Eristouch vnser wyf=\nheyt in der ersten Epistel zun Corinthern am ersten Ca-\npitel. Sarumb wirt vns nüt fålen/so wir jm volgen:es\nlyt am tag/zu was Christenlichem låben vns der Bapst\ngefurthab/so er synen soldnern applas gibt/Christen=\nlich blüt zeuergiessen. Sie gschrifft zeigt vnns gnügsam\nan/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7806,
+        "semantic_match": "ſonder hab auch andere Eigenſchafften / den\nLyb zeregieren in ſynen vſſerlichen Wercken und Ubun-\ngen: So nun Chriſtus ſyn ſichtbarliche lybliche Gegen-\nwürtigkeit hab vffgenommen /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7042,
+    "reworded": 3,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3353,

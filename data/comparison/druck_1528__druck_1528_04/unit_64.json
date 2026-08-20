@@ -39,19 +39,27 @@
         "op": "match",
         "a": "Die erſt\nJſrahel/dañ glich wie die prieſter im alten Teſtame͂t\nden vßſetzige͂ nit machtend/ſonder allein erkantend vnd\nbeſchouwt e͂ den der vorhin vßſetzig wz/alſo verdampt/",
         "b": "Syn ver=\nderbnuß / oder vmbkommen / ist vß dir selber/ O Israhel / dann glych wie die priester im alten\nTestament den vßsetzigen nit machtend /",
-        "similarity": 0.3077
+        "similarity": 0.3077,
+        "semantic": 0.7382,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "oder vßſchlüßt die Kilchen keyne/weder den d' ſich mitt\nfräffnem vngoͤtlichen läben vorhin dargegeben hatt/dz\nman woll ſicht das er ein fründ Gottes nit iſt/den ſelben\nhatt man aber by der gmeynd oder Kilche͂ gelaſſen/biß\nzu dem vßſatz/deßhalb er nach dem vſſern anſehe͂/glich\nalls wol ein glid der Kirchen gerechnet ward/als der al=\nler frömeſt/aber by Gott/was er nit from/er trüge dañ\nrechten waren rüwen vnnd glouben im hertzen/welches\nnit woll ſin mag/nübend ſo fräffne vnuerschambte wä=\nſen/wiewol der zu Corintho von ſtundan/nach de͂ Ban\nſich treſſenlich gebeſſert vnd gerüwet hatt/iſt ein zeichen\ndas die Göttliche gnad die jn hat laſſen valle͂/widerum\nvffgericht hatt/deßhalb das widerumb vffnemen ee võ\nGott beſchehen iſt/weder von der Kilchen/daruß aber\nvolget/das die vßgeſetzt werden die vor von Gott ver=\nſchupffet ſind/vnd widerumb ingenomen die die vorhin\nvon Gott begnadet ſind/hierumb nennet nun Paulus/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7534,
+        "semantic_match": "das man wol sicht das er ein fründ Gottes nit\nist / den selben hat man aber by der gemeynd od\nKilchen gelassen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "das vßſetzen von der ganzen gmeind ein vſſerliche ver=\nderbnus/darumb das der vormals by der Kilchen was\nvon allen brüderen erkent wirt/ein vngehorſam kind vñ\nglid/des volcks Gottes/vnd iſt alſo der Ban ein eroff=\nnung des böſen/der die ganzen Kilchen verergern mag\ndamit die Kilch vergoume vñ der böß gezüchtiget wer\nde/das aber der Pfarrer von Appentzell für vñ für dar=\nuff tringt/der Ban ſye ein gewalt/den Gott den men=\nſchen habe gebe͂/vñ vermeint damit (als ich wol merck)\nein ander houpt des gewalts inzeſüre/iſt ein irrung/dañ\nder gewalt zebannen/iſt der gewalt Chriſti/als Paulus\nClar",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7965,
+        "semantic_match": "näbend so fräff=\nnem vnuerschampten wäsen/wiewol der zů Co\nrinthe von stundan / nach dem Ban sich träffen\nlich gebessert vnnd gerüwet hatt/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -101,7 +109,12 @@
         "b": "Hierumb nen=\nnet nun Paulus / das vßsetzen von der gantzen\ngemeynd ein vsserliche verderbnus / darumb\ndas\n\n## Marginalien\n[abgeschnitten]",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7627,
+    "reworded": 1,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.524,

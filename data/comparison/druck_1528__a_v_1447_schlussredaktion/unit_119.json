@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Die erst\nChristus hart hirten / vnd nit allein ein hirten / sonders\nvil ingesetzt / zuͦn Ephesern am iiij. Cap. In den geschich\nten der Apostlen am xx.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7297,
+        "semantic_match": "ͦ cap: Die wyl vnnd hett Christus petro die\nschluͤssell Insonderheit verheissen bedut vns\nein sonndrige oberkeit vnnd gewallt/ vnder",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -51,37 +54,52 @@
         "op": "only_a",
         "a": "vnd das in solcher gestalt das Pe\ntro vß söllicher vrsach vnd den andern allen verheyssen\nhabe / das Petrus jn veriehen habe /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7455,
+        "semantic_match": "ͦ cap: Die wyl vnnd hett Christus petro die\nschluͤssell Insonderheit verheissen bedut vns\nein sonndrige oberkeit vnnd gewallt/ vnder",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "den sun sin des lå=\nbendigen gotts / das die andern nun all gloubt habē / wil\ndas bewåren Johannis am vj.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6799,
+        "semantic_match": "ͦ cap: Die wyl vnnd hett Christus petro die\nschluͤssell Insonderheit verheissen bedut vns\nein sonndrige oberkeit vnnd gewallt/ vnder",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Cap. Da Petrus in jr al\nler namen / sprach / zů wem werden wir gon / du hast die\nwort des låbens /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6223,
+        "semantic_match": "Die wird Ich geben/ die schluͤssell des richs het woll moͤgen\nsagen / Ich wuͤrd uͤch allen geben /",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "welches ort Joan. am vj. nit mag pro=\nbieren / noch bewåren / das an disem ort / sy all ein sölchen\nvesten gloubē haben gehan /",
         "b": "Deina\n68\nDie ausß schlstnd\nprobieren / noch bewaͤren/ Das an disem\nort/ sy all ein soͤlchen vesten glouben higenn\ngehan/",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.7917,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "diewil doch der Judas sein\nglouben hatt / als Christus anzeygt Johannis am vj. Cap. Auch am selben ort / einer vß ůch ist der tüffel /",
         "b": "Diewyl doch der Indas kein\nglouben hat / Als Christus anzeigt Johaus\nv cap: ouch am selben ort/ einer vss/ uch Ist der thuͦffell/",
-        "similarity": 0.5417
+        "similarity": 0.5417,
+        "semantic": 0.7733,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd\nob es schon also were / wie herr Berchtold seyt / so stat ge\nschrifft vffrecht. Er hatt gesprochen du bist Petrus dir\nwird ich geben die schlüssel des richs /",
         "b": "vnnd ob es schon\nallso were/ wie her Berchtold seit/ so\nstat gschrifft vffrecht/ Er het gesprochen\nDu bist petrus/",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.5548,
+        "reading": "check"
       },
       {
         "op": "only_b",
@@ -93,7 +111,9 @@
         "op": "match",
         "a": "Christus hett wol\nkönnē sprechē / ich wirds ůch all gebē / dz er aber spricht\nsy habent langest / min gegen wurff mit gschrifft verant=\nwurt sprich ich nein /",
         "b": "Das\ner aber spricht / sy heigent langest/ nin\ngesenlff mit gschrifft verantwurtt\nsprich ich nein/ besonders die gschrifft han\nich klarlich vnnd heiter anzogen mag hi//",
-        "similarity": 0.3774
+        "similarity": 0.3774,
+        "semantic": 0.5067,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -105,7 +125,9 @@
         "op": "match",
         "a": "so er die schlüssel allein hette / so wurd\ner allein müssen ein hirt sin / vermag das die gschrifft nit\nwil ich erzeygen Matthei am xvj. Capitel. Diewyl vñ\nhett",
         "b": "mell vnnd ertrich nit darwider Das\naber sprechent/ So er die schluͤssell allein\nhette / So wurd er allein mussen ein\nhirt sin vermag Das die gschrifft\nnit will ich erzogen Johannis vvj.",
-        "similarity": 0.6129
+        "similarity": 0.6129,
+        "semantic": 0.6895,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -113,7 +135,12 @@
         "b": "ͦ cap: Die wyl vnnd hett Christus petro die\nschluͤssell Insonderheit verheissen bedut vns\nein sonndrige oberkeit vnnd gewallt/ vnder",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.677,
+    "reworded": 1,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3786,

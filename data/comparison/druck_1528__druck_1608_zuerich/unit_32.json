@@ -51,19 +51,25 @@
         "op": "match",
         "a": "Dic erst\nselbs leert vnnd regiert/fůrt ouch zů einem tugenlichen\nlebenn/vnnd was er geredt/laffe er im also nach.",
         "b": "das\nChriſtus die heilig Chriſtenlich Kilch ſelbs leert vnd\nregiert/fürt ouch zů einem thugentlichen leben/vnd was er\ngeredt/laſſe er im alſo nach.",
-        "similarity": 0.6087
+        "similarity": 0.6087,
+        "semantic": 0.6551,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Er\nhab aber noch nit bewårt/das Christus alls das ynflies\nsend houpt nit regiert die heilig Christelich Kilche durch\nsin gesetzte Stathalter/diser ſprüch keiner Bewårt/das\nChristus nit die Kilchen regiere/durch seinen Stathal=\nter/den er gesagt hab/in ein thugenlich låben.",
         "b": "Er hab aber noch nicht bewärt/ das Chriſtus/als das ynflieſſend Houpt / nicht regiert die\nheilig Chriſtenlich Kilchen durch ſin geſetzten Statt-\nhalter/diſer Sprüch keiner bewärt/das Chriſtus nicht die\nKilchen regiere durch ſeinen Statthalter /",
-        "similarity": 0.6173
+        "similarity": 0.6173,
+        "semantic": 0.8793,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Berchtoldus. Ir haben nach der lenge bewårdt/das Chri-\nſtus sye das einig houpt der sin Kilchen lert/re\ngiert/fůrt vnnd bringt zů einem thugenlichen\nlåben/das keiner creatur möglich/d3 er aber fůrwendt/",
         "b": "den er geſäzt\nhab/in ein thugentlich läben. Berchtoldus. WJr haben nach der lenge bewärdt/das Chriſtus ſye\ndas einig Houpt der ſin Kilchen leert/regiert/fürt/",
-        "similarity": 0.4839
+        "similarity": 0.4839,
+        "semantic": 0.7078,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,19 +81,27 @@
         "op": "match",
         "a": "von einem gesetzten Srathalter/der föllichs vermöge/ das probiere mit der gschrifft/dann das ist Chriſtum ge\nschmecht. Wartinus Bucerus.",
         "b": "das probiere mit\nder Gſchrifft / dann das iſt Chriſtum geſchmecht. C",
-        "similarity": 0.5806
+        "similarity": 0.5806,
+        "semantic": 0.8652,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Nedigen herrn liebe brůder im herren/demnach\ndie ordnung miner gnedige herrn vermag.Sas\nwer etwas zu erlütrung der warheit/vermeint\nfürzebzingen/das der selbig fölle gehort werden/so mei=\nnet ich ein wenig zü iets yngefürter gegenred des bicht-\nuatters/zesagen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7683,
+        "semantic_match": "vnd bringt zů einem thugentlichen läben/ das kei-\nner Creatur möglich/daß er aber fürtwendt / von einem ge-\nſetzten Statthalter/der ſöllichs vermöge /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Namlich das er von deabtrit/das mi\nner gnedige herren von Bernn viſchriben vermag/das\nnur mit gschrifft gehandelt werden soll.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6149,
+        "semantic_match": "das ein Houpt heißt. Bychtuatter. JR hand vil Geſchrifft harbracht vnnd gründ darge-\nthon die nicht not zeerzelen/die all bewärend wol /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -95,7 +109,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7484,
+    "reworded": 1,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3877,

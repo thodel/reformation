@@ -45,13 +45,18 @@
         "op": "match",
         "a": "Die fünffte\nBüchstab\n\nVnden zůſätzen/hab ich vorhin geſagt/diewyl\nſy mit offner gſchrifft nit werden vmbgeſtoſſen/ laß ichs blybenn.",
         "b": "diewyl ſy mit\noffener Gſchrifft nit werden umgeſtoſſen / laß ichs bly-\nben. Antworte wyter vff Herzen Berchtolds Ynzug / daß\nChriſtus geſprochen hab:",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.5832,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "Antwurten wyter vff herrn\nBerchtolds ynzug/Das Chriſtus gſprochē hab: Tůnd\ndas in miner gedächtnuß/ſyenit opfferen/find ich/das\netlich der Hebraiſchen ſpraach bericht/das facere, ouch et\nwan/opfferen/heyßt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.644,
+        "semantic_match": "DIewyl ihr zulaſſend / daß facere auch etwan heiſſe\nopffern / wird uns hie auch zuͤgelaſſen. Zz iij          Butzer. ## Marginalien\nſuch am\n163. 164. 165. und\n166. blat.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -63,13 +68,17 @@
         "op": "match",
         "a": "Doch ſetz ich ſolichs den Hebrai=\nſchen erfarnen zů/dan mir die ſelb ſpraach vnwüſſen iſt. Butzer.+\n\nSo der Herr ſpricht:",
         "b": "Doch ſetz ich ſoͤlichs den Hebraiſchen Erfahrnen zuͤ / dann\nmir dieſelb Sprach unwuͤſſend iſt. Butzer. SO der Herz ſpricht:",
-        "similarity": 0.5238
+        "similarity": 0.5238,
+        "semantic": 0.8376,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Tůnd mir das zů gedächt=\nnuß/Jſt håll/das Thůn/nit opffern heißt/wirt\nouch durch Paulū.j.Corinth.vj.gnůgſam erklä\nret/da er ſpricht:",
         "b": "Thuͤnd mir das zuͤ Gedaͤchtnus / iſt haͤll / daß Thuͤnd / nit Opffern heißt / wird auch\ndurch Paulum I.",
-        "similarity": 0.3404
+        "similarity": 0.3404,
+        "semantic": 0.6574,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,7 +90,9 @@
         "op": "match",
         "a": "So offt jr von dem brot eſſen.zc. Vnd\nAſah. wiewol עשה/by der ſchrifft/etwan für Opfferen genom\nmen wirt/ſo ſtadt doch darby/was man opffere/als ein\nſchaaff/oder derglychen.",
         "b": "Und wiewol Aſah by der Schrifft etwan fuͤr opffern ge-\nnommen wird / ſo ſtaht doch darby / was man opffere /",
-        "similarity": 0.4151
+        "similarity": 0.4151,
+        "semantic": 0.8367,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -93,7 +104,9 @@
         "op": "match",
         "a": "Hie iſt aber håll/das/Thůn/ Eſſen heyßt. Der zůſatz halb/iſt vorgeſagt/das ſy mit\nhäller ſchrifft vmbgeſtoſſen ſind/lut herrn Berchtolden\nDeclaration/über diſe Schlußred.",
         "b": "iſt vorgeſagt / daß\nſy mit haͤller Schrifft umgeſtoſſen ſind / lut Herzen Berch-\ntolden Declaration uͤber dieſe Schlußred. Buͤchſtab.",
-        "similarity": 0.375
+        "similarity": 0.375,
+        "semantic": 0.7466,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -105,7 +118,10 @@
         "op": "only_a",
         "a": "Opfferen/darum můß es hie ouch Opffren heyſſen/ da doch klarlich das widerſpil vßgetruckt iſt. Johannes",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6734,
+        "semantic_match": "Das ander iſt in Handlung der andern Schluß-\nred auch gnuͤgſam erklaͤrt. Buͤchſtab. VOn den Zuͤſaͤtzen hab ich vorhin geſagt /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -113,7 +129,12 @@
         "b": "DIewyl ihr zulaſſend / daß facere auch etwan heiſſe\nopffern / wird uns hie auch zuͤgelaſſen. Zz iij          Butzer. ## Marginalien\nſuch am\n163. 164. 165. und\n166. blat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7113,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3991,

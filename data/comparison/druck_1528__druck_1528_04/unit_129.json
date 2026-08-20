@@ -51,13 +51,17 @@
         "op": "match",
         "a": "**Schlußred**\nherr Chriſtus Petro die ſchluͤſſel in ſonderheit verheiſſen\nbeduͤt vns ein ſondrige oberkeit vnd gewalt vnder den\nhirten/im xviij.",
         "b": "vermag dz\ndie gſchrifft nit/ wil ich erzeygen Matthei .xvj. cap. Diewyl/vnd hatt Chriſtus Petro die ſchluͤſ\nſel in ſonderheyt verheyſſen/beduͤt vns ein ſon=\ndrige oberkeyt vñ gewalt vnder den hirten.",
-        "similarity": 0.4483
+        "similarity": 0.4483,
+        "semantic": 0.5345,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "cap. hett ers jnen allen verheyſſen/ nit\ndie ſchluͤſſel/ ſonders binden vnd entbinden / Dennenhar\nmuß er nit darumb allein ein hirt ſin/darum̃ dz er ein fuͤr\nnemer iſt/als in eim krieg ein Oberſter houptman iſt/nit.",
         "b": "Jm\nxviij capitel / hett ers jnen allen verheyſſen / nit\ndie ſchluͤſſel/ſonders binden vnd entbindẽ/den=\nnenhaͤr muͤß er nit darum̃ allein ein hirt ſin /",
-        "similarity": 0.5294
+        "similarity": 0.5294,
+        "semantic": 0.7772,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,37 +73,52 @@
         "op": "match",
         "a": "nit das ander houptluͤt ouch ſiend / als dann im Euan=\ngelio Centurio ein houptman iſt geſin/vnder eim ande=\nren houptman/iſt nuͤt deſterminder ein houptman gſin\ndannanhar gnuͤgſamlich darthon iſt /",
         "b": "als dañ im Euangelio Centurio\nein houptman iſt geſin vnder eim anderẽ houpt\nmañ / iſt nuͤtdesterminder ein houptman geſin/",
-        "similarity": 0.4815
+        "similarity": 0.4815,
+        "semantic": 0.857,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vß d gſchrifft/dz\ndem Petro als eyn fuͤrnemer inſonders verheyſſen ſind\ndie ſchluͤſſel/ vnd den andern nuͤtdeſterminder gewalt ze\nbinden vnd entbinden.",
         "b": "dannenhår gnůgſamlich darthon iſt / vß der\ngſchrifft / das dem Petro als ein fuͤrnemmer in=\nſonders verheyſſen ſind die ſchluͤſſel /",
-        "similarity": 0.4681
+        "similarity": 0.4681,
+        "semantic": 0.687,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "**Berchtoldus.**\n[Initial M] Eyster Jacob uͤwer red iſt ſo vnußtragen / das\nſy keiner anwurt bedarff/gſchrifft ſtat vffrecht\nvnſer ſchlußred ſtond vffrecht/vnd iſt das alls\nverantwurtet/des laß ich mich an die Acta hie ob.",
         "b": "vnnd den\nanderen nuͤtdesterminder gewalt zebinden vnd\nentbinden. Berchtoldus. Meiſter Jacob uͤwer red iſt ſo vnußtragẽ/dz\nſy keiner antwurt bedarff/gſchrifft ſtadt vfrecht\nvnſer ſchlußred ſtond vfrecht /",
-        "similarity": 0.4179
+        "similarity": 0.4179,
+        "semantic": 0.703,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "**Meyster Jacob Edlebach.**\n[Initial H] Err Berchtold ich bin grad glicher meynuͤg/dz\nich mich halten vñ laſſen an die Acta.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6943,
+        "semantic_match": "vñ iſt das als ver\nantwurtet / deß laß ich mich an die Acta hie ob. Meyſter",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Namlich\ngnuͤgſamlich dargethon han/als ich hoff vß der\ngſchrifft/dz ein oberſter hirt / d Kilche notwendig wårde\nſin vñ ſye/alls jetzund gewårt hatt vff die xv.hundert.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7686,
+        "semantic_match": "da=\nrumb das er ein fuͤrnemmer iſt : als in eim krieg\nein oberſter houptman iſt/ jrt nit das and houpt\nluͤt ouch ſyend /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "jar oder vm̃ das ſelb võ Petro/von einẽ vff den andern/ das min red beſtåtet/vnd wie min herr Genger ſich be=\nzuͤgt hat/alſo thuͤn ich ouch/vñ wil damit bezuͤget han. p",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8829,
+        "semantic_match": "Dz jr aber ſprechẽ/ſo er die ſchluͤſſel allein hette/ ſo wurd er allein muͤſſen ein hirt ſin /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -107,7 +126,12 @@
         "b": "vñ iſt das als ver\nantwurtet / deß laß ich mich an die Acta hie ob. Meyſter",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7381,
+    "reworded": 3,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4225,

@@ -33,7 +33,9 @@
         "op": "match",
         "a": "Schlußred. CXLII\nCapitel. Auch die erſt Concluſion / darū (ob gott wil)\nChriſtenlich red gehalten worden. Zwingli. DAs Petrus ſprach / in dinem wort wil ich dz netz vß=\nſpreyten /",
         "b": "Schlußred. CLX\n   Zwingly. Da Petrus ſprach/ in dinem wort wil ich dz\nnetz vßſpreyten/ beger ich von vnnſerm brůder\nwas vſſerlichen worts Petrus geredt hab /",
-        "similarity": 0.3774
+        "similarity": 0.3774,
+        "semantic": 0.6385,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -45,31 +47,41 @@
         "op": "match",
         "a": "wil ich\ndarzů nüt thůn / noch daruon nemen / vn̄ jm die\nwort des Capitels zů antwurt laſſen. Zwingli. ICh trag die Perſon des einfaltigen vnnd bin es\nouch.",
         "b": "zů\ndes netzes inlaſſung. Pfarrer von ſant Gallen\nWie es im text verfaſſet mit allem inhalt/wil\nich darzů nůt thůn/noch daruon nem̃en/vnd jm\ndie wort des capitels zů antwurt laſſen.",
-        "similarity": 0.4839
+        "similarity": 0.4839,
+        "semantic": 0.7748,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Sagē mir herr Pfarrer wʒ heyßt hie wort\nda er ſpricht / in dinem wort wil ich das netz vß=\nſpreiten.",
         "b": "Zwingly. Ich trag die Perſon des einfaltigen vnd bin\nes ouch. Sagen mir herr Pfarrer was heißt hie\nwort da er ſpricht/",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.5876,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Pfarrer von sant Gallen\nDas wort iſt das beuelch des herrn. Zwingly\nDEs verſtands mögend ſy ſich nit annemen / das\nPetrus mitt keym vfferlichen wort den buffen\nder viſchen zemenbracht hab /",
         "b": "in dinem wort wil ich dz netz\nvßſpreyten. Pfarrer von ſant Gallen. Das wort iſt das beuelch des herrn. Zwingly.",
-        "similarity": 0.4706
+        "similarity": 0.4706,
+        "semantic": 0.8639,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dann ſy nütz an=\nders vermögen dann ſam Petrus ſpreche / Herr ſo du\nmichs heyſſeſt / ſo wil ichs thůn. Wo iſt aber hie das vſ=\ner wort /",
         "b": "Des verſtands moͤgend ſy ſich nit annemen/ das Petrus mit keym vſſerlichen wort den huf=\nfen der viſchen zemenbracht hab/dañ ſy nuͤtz an=\nders vermoͤgen dann ſam Petrus ſpreche/Herr\nſo du michs heyſſeſt /",
-        "similarity": 0.3692
+        "similarity": 0.3692,
+        "semantic": 0.8893,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "deßhalb die wort. Das iſt myn lychnam / durch\nden vnnd andre gründ noch nie bewert ſind / das ſy ver=\nmögend den Lychnam Chriſti inn das brot wäſenlich\nNn ij",
         "b": "ſo wil ichs thůn. Wo iſt\naber hie das vſſer wort / deßhalb die wort. Das\niſt myn lychnam / durch den vnnd andre gruͤnd\nnoch nie bewert ſind /",
-        "similarity": 0.5263
+        "similarity": 0.5263,
+        "semantic": 0.8116,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -77,7 +89,12 @@
         "b": "das ſy vermoͤgend den\nLychnam Chriſti in das brot waͤſenlich bringen\nVnd bezuͤg mich das vff eins yetliches Chriſten\nlaͤſers verſtands.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7609,
+    "reworded": 4,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.7311,

@@ -63,7 +63,9 @@
         "op": "match",
         "a": "Schlußred. Berchtoldus\n[D]Er schůlmeyſter klagt ſich einer gloß/ůber den\nſpruch Pauli yngefůret/ So doch nůt anders/ weder die eygenlich en wort Pauli/mit jrem na\ntůrlichen ſinn/allen g̃ſchrifften gemåß/harfůr getragen\nſind/wirr ſölichs erkennen/ein yerlicher Chriſtlicher lå-\nſer.",
         "b": "Berchtoldus. Der Schůlmeiſter klagt ſich einer gloß/ über\nden ſpruch Pauli yngefůrt/ ſo doch nǘt anders/ weder die eygenlichen wort Pauli/",
-        "similarity": 0.4848
+        "similarity": 0.4848,
+        "semantic": 0.8476,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,39 +77,59 @@
         "op": "match",
         "a": "Das er vom tag des Herren/harfůr bringt/es ſye\neins yegklichen abſterben/vnnd probiert es mit Paulo/ j. Theſſalonichern am.",
         "b": "harfůr bringt/ es ſye eins yegklichen abſterben/ vnd probiert es mit Paulo/ j. Teſſalonichern. v. verjrret er ſich ſelbs: dann Paulus vonn dem\nJüngſten tag daſelbs redt:",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7589,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "v. verjrret er ſich ſelbs: dan Pau\nlus von dem Jůngſtenn tag daſelbs redt: wir aber ver=\nſtaand durch den tag des Herren/den tag darinn vnns\nGott bewårt/heimſůcht/vnd offenbar machet/wie wir\nerbuwen ſygind:",
         "b": "wir aber verſtond\ndurch den tag des Herren/ den tag/ darinn vns\nGott bewårt/ heimſůcht/ vnd offenbar machet/ wie wir erbuwen ſyend:",
-        "similarity": 0.6441
+        "similarity": 0.6441,
+        "semantic": 0.6898,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dan̄ in dem abſcheyd eins yetlichen/wirr\nmit yederman offenbar/wie er ein werck Gottes ſye. So\naber der Herr vns beſůcht mit dem crůtz/ſo werde die\ngedancken vnſers hertzen vffgethan.",
         "b": "dañ in dem abſcheyd\neins yetlichen/ wirt nit yederman offenbar/ wie\ner ein",
-        "similarity": 0.4889
+        "similarity": 0.4889,
+        "semantic": 0.7533,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Hiemit dienet der\nſpruch gantz vnd gar nůt zum fågfůr. Bůchſtab. Ich blyb bȳm bållen Text. Berchtoldus. Deßglychen wir ouch.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6533,
+        "semantic_match": "wie ein dieb in der nacht. ꝛc. Darumb\nich hie/ by dem bloſſen text blyben: ob mir aber\nein gloß wurde notdurfftig ſin/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Bůchſtab. [D]s Schaadhers halb/ſprich ich alſo: So wir\nvmb vnſer ſůnd penitentz thůnd/oder ſtraaff\ndarumb lydend/wie er vmb die ſinen gelittenn\nhat/mit einem volkomnen glouben/werde wir\none zwyfel mit im/glyche belonung empfachẽ:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7203,
+        "semantic_match": "mit jrem na=\ntürlichen ſinn/ allen geſchrifften gemåß/ herfůr\ngetragen ſind/ wirt ſölichs erkennẽ/ ein yetlicher\nChriſtlicher låſer. Das er vom tag des Herren/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "ouch ein\nyerlicher/ſo volkomenlich gloubt. Dz hangt aber daran\nHbb iij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7425,
+        "semantic_match": "wie ein dieb in der nacht. ꝛc. Darumb\nich hie/ by dem bloſſen text blyben: ob mir aber\nein gloß wurde notdurfftig ſin/",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.738,
+    "reworded": 2,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3981,

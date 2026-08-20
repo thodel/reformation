@@ -33,19 +33,28 @@
         "op": "only_a",
         "a": "Die erſt\n\nKirchen/das aber er vns Chriſtglubigen menſchen nie\nhab verordnet ein gewalt hie in diſer zyt/ſprich ich/das\ner vns ein gewalt verordnet hab/zů binden vnd zů ent=\nbinden/vß das vß gnaden ſiner Goͤttlichen barmhertzi\nkeyt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6735,
+        "semantic_match": "vnnd haben// Inn allso gesetzt / zuͦ einem fuͤrnemlichen\ngewalthaber / sins götlichen worts vnnd\nempfelchs / Berchtoldus\nFrommen fuͤrgeliebten / Christen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Sz aber deß alſo ſig/bewer ich dz durch dz Goͤttlich\nwort Chriſti. Matthei xvj. Capitel. In welchen wor=\nten vnns der Herr Jeſus ſelbs durch ſynen Goͤttlichen\nmund anzeygt/vnnd geſprochen zů ſynem Apoſtel Pe=\ntro.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6072,
+        "semantic_match": "vnnd haben// Inn allso gesetzt / zuͦ einem fuͤrnemlichen\ngewalthaber / sins götlichen worts vnnd\nempfelchs / Berchtoldus\nFrommen fuͤrgeliebten / Christen /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Jch gib dir die ſchluͤſſel des rychs der himmelen/vß\nwas du wirſt binden vff dem ertrich/das wirt bundenn\nin den himlen/vnd was du wirſt vffloͤſen/das ſoll vffge\nloͤſt ſin in den himlen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6979,
+        "semantic_match": "vns da clarlich an wirt zaͤigt / ein nachgelassener\ngewallt / Dann nützit gewuͤssers ist dan\nDas wort vnsers einigen gots /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -57,13 +66,17 @@
         "op": "match",
         "a": "In welchen worten vns da clar=\nlich an wirt zeygt/ein nachgelaßner gewalt/dan nůtzit\ngewuͤſſers iſt/dann das wort vnſers eynigen Gots vnd\nerloͤſers/das da ſtiff ſtat/welches nit mag vmbkert wer\nden/den binden vnd entbinden oder entledigen/eruorde=\nret ye ein gewalt.",
         "b": "vnnd erloͤsers\ndas da stiff stat / welches nit mag vmkert\nwerden / Den binden vnd entbinden oder\nentledigen / ervorderet Je ein gewallt /",
-        "similarity": 0.4571
+        "similarity": 0.4571,
+        "semantic": 0.747,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "So nun Gott das geredt hatt/volgt ye\ndarnach/das er ſynem lieben junger Petro/hab den ge=\nwalt ſines Goͤttlichen worts empfolhen/vnd habe jnn\nalſo geſetzt/zů eine fůrnemlichen gewalthaber/ſins goͤt=\nlichen worts vnd empfelchs.",
         "b": "So nun\nGot das geredt hatt / volgt je Darnach / Das\ner sinen / lieben Juͤnger petro/ hab den gewalt/ sins goͤtlichen worts empfolen /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7787,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -75,7 +88,9 @@
         "op": "match",
         "a": "Berchtoldus. [K]ommen fůrgeliebten Chriſten/die vnred des\nPfarrers/hatt ein kurzen beſcheyd/er laßt nach\nzum erſtē/dz Chriſtus ein eynig houpt ſy/ſo be=\ndarff er dheins Stathalters/dann aller gewalt im him\nmel vß erden/iſt im gebē/Matthei am letſten Capitel.",
         "b": "die\nInred / des pfarrers hatt ein kurtzen bescheid\nEr lasßt nach zum ersten Das Christus\nein einig houpt sy / so bedarff er dheins stat //",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.7219,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,9 +102,16 @@
         "op": "match",
         "a": "Welchen gewalt kein creatur verwalten mag. Zum an\ndern hatt er inzogen/die ſchluͤſſel zebinden vnnd zeloͤſen/ welche Chriſtus Matthei xvj. Cap. Petro geben hab/ ſprich",
         "b": "tur verwallten mag / Zuͦm andern hatt / er Inzogen Die schluͤssel zebinden vunnd ze //",
-        "similarity": 0.3721
+        "similarity": 0.3721,
+        "semantic": 0.6126,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.6913,
+    "reworded": 3,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3925,

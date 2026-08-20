@@ -45,19 +45,25 @@
         "op": "match",
         "a": "Schlußred. Zwingly. [W]Ir haben gestern gnůg anzeygt / das die gelüb=\nten des Alten Testaments/so sy den merern teil\nvfferliche gaben sind gewäsen/vnd deßhalb mit\nandern opffern verschinen /",
         "b": "Zwingly. WIr haben gestern gnüg angezeigt / daß die Gelübde\ndeß Alten Testaments / so sy den mehrentheil vf=\nserliche Gaben sind gewesen /",
-        "similarity": 0.4706
+        "similarity": 0.4706,
+        "semantic": 0.8501,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "als zun Hebreern. ix. erfun=\nden wirt. Der Nazareer halb ist ouch gehört/das sy eyn\nvorbild Christi gewäsen sind/dann Barthei am ij.",
         "b": "und deßhalb mit andern\nOpffern verschinen / als zun Hebreern am 9. erfunden\nwird. Der Nazareer halb ist auch gehört / daß sy ein\nVorbild Christi gewesen sind /",
-        "similarity": 0.44
+        "similarity": 0.44,
+        "semantic": 0.6995,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "stat\nvon Christo. Er wirdt eyn Nazareer genant werden/ Etiam dicitur Nazareus à ciuitate Nazareth. Deßhalb dasselb glübd\nouch vffgehört hatt in Christo.",
         "b": "dann Matthei am 2. staht von Christo: Er wird ein Nazareer genannt wer=\nden/ Etiam dicitur Nazareus à civitate Nazareth.",
-        "similarity": 0.4651
+        "similarity": 0.4651,
+        "semantic": 0.8246,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,31 +75,41 @@
         "op": "match",
         "a": "Wir sind noch des sins/ das wir vnder dem gesatz nit mer sind / sonders vnder d\ngnad/dann das gesatz/ist nun ein schülfürer gewäsen zů\nChristo:",
         "b": "sonders under der Gnad / dann das Gesetz ist nun\nein Schülführer gewesen zü Christo: so nun Christus\nkommen ist/so bedörffen wir deß Schülführers nit mehr/",
-        "similarity": 0.3774
+        "similarity": 0.3774,
+        "semantic": 0.839,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "so nun Christus komen ist/ so bedörffen wir des\nschülfürers numen/sonders wir benügen vns/der einigen\ngnad gottes/dero wir versichert werden durch den glou=\nben/vnd so der gloub/",
         "b": "sonder wir vernügen uns / der einigeñ Gnad Gottes/ dero wir versichert werden durch den Glauben / und so\nder Glaub allein von Gottes Geist komt/",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.7513,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "allein von gottes geyst kompt. Jo\nhannis am vj. Vnd wo der geyst gottes ist/da ist fryheit\nij. Corinth.",
         "b": "Johannis am\n6. Und wo der Geist Gottes ist/da ist Freyheit. 2. Cor. 3. So folget / daß dero Geist und Conscientz frey ist/",
-        "similarity": 0.3182
+        "similarity": 0.3182,
+        "semantic": 0.6064,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "iij. So volget/das dero geyst vñ Conscien tz\nfry ist/die da sind in Christo Jesu. Wir wellẽ hie allwäg\nverstanden werden/das wir nitt reden von der gelübd/",
         "b": "die da sind in Christo Jesu. Wir wöllen hie allweg ver=\nstanden werden / daß wir nit reden von der Gelübd und\nTreu /",
-        "similarity": 0.5385
+        "similarity": 0.5385,
+        "semantic": 0.7378,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vñ trüw/die der mensch sinem nächsten schuldig ist: wir\nreden allein von den gelübden / die man jralich?/vffert=\nhalb dem glouben/der Conscientz zühelffen/oder sälikeit\nzü erlangenn gethan hatt hiehar dienet/das zun Gala=\nthern am iij.",
         "b": "die der Mensch synem Nächsten schuldig ist: wir reden allein von den Gelübden / die man irtzlichen/ vsserhalb dem Glauben / der Conscientz zü helffen/",
-        "similarity": 0.5806
+        "similarity": 0.5806,
+        "semantic": 0.754,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -105,7 +121,10 @@
         "op": "only_a",
         "a": "Nun sind ye vnser gelübd oder verheissunge\ndie wir vsserthalb dem glouben gethon hand / tozechẽr\ndann die gelübd võ denẽ Salomon redt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6344,
+        "semantic_match": "Deßhalb das=\nselb Gelübd auch auffgehört hat in Christo. Wir sind\nnoch deß Sinns / daß wir under dem Gesetz nit mehr\nsind /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -119,7 +138,12 @@
         "b": "oder\nSeligkeit zü erlangen / gethan hat : Hiehar dienet das\nDoo\tzun",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7441,
+    "reworded": 5,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5,

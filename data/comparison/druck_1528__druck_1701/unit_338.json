@@ -63,7 +63,9 @@
         "op": "match",
         "a": "Schlußred. der liebi nit vergeſſen: dz wir nit zů zytē dem gloubē zů=\ngeben/das wir der lieby gottes zů geben ſollen.",
         "b": "sagen wir auch / man\nsölle es thůn / aber darby der Liebe nit vergessen / daß wir\nnit zů Zyten dem Glauben zůgeben /",
-        "similarity": 0.3256
+        "similarity": 0.3256,
+        "semantic": 0.7482,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,7 +77,9 @@
         "op": "match",
         "a": "Als Pau=\nlus ſpricht. Hette ich allen gloubē/vn̄ die lieby nit/wäre\nes mir nit nütz. Dan̄ ſo wir den koſtbarlichen ſchatz war\nfleyſch vnd blůt nieſſend/ſöllend wir dz allweg/mit glou\nben/lieby/vnd hoffnung thůn/als vns Paulus ermanet\ndas wir das wirdigklich ſollen nieſſen:",
         "b": "Dann so wir den kostbarlichen Schatz / wahr Fleisch und\nBlůt niessend / söllend wir das allweg mit Glauben/ Lie-\nbe / und Hoffnung thůn /",
-        "similarity": 0.4225
+        "similarity": 0.4225,
+        "semantic": 0.6399,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,7 +91,9 @@
         "op": "match",
         "a": "tråuwt vnns\nwie er zů den Corinth. Wår das vnwirdiglich nůtz/ werd ſchuldig an dē lyb vnd blůt des Herrn/volget wol\ndaruß/das da iſt war fleyſch vnd blůt Chriſti/dan̄ wår\nes nit da/ſonders ſchlecht brot/der Apoſtel Paulus hette\nwol geſagt/wirt ſchuldig an dem brot/vnnd nit an dem\nlyb des herrn.",
         "b": "folget wol da-\nruß / das da ist wahr Fleisch und Blůt Christi/dann wår\nes nit da / sonders schlecht Brodt /",
-        "similarity": 0.3377
+        "similarity": 0.3377,
+        "semantic": 0.779,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -99,7 +105,9 @@
         "op": "match",
         "a": "Die gloß ſo meyſter Vlrich Zwingli über\ndz wörtly( vnwirdig) dargethon/nim ich nit an/dan̄ es\nnit gnůgſam bewert/vß Bibliſcher ſchrifft/als ich hoff\nJtem von dero ſprüchen.",
         "b": "so Meister Ulrich\nZwingly über das Wörtli (unwürdig) dargethan/nim̃\nich nit an / dann es nit gnůgsam bewåhrt vß Biblischer\nSchrifft /",
-        "similarity": 0.4706
+        "similarity": 0.4706,
+        "semantic": 0.8924,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -111,25 +119,37 @@
         "op": "only_a",
         "a": "das ers nit wol betrachtet hatt die almechtigkeyt Got=\ntes/alß durch den heyligen Euangeliſten Lucam ange=\nzeygt wieder Engel zů Maria ſprach.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6077,
+        "semantic_match": "Als\nder Herz auch anzeigt Petro / Matth. am 16. Cap. Fleisch\nund Blůt hand dir das nit geoffenbahret / sonder myn\nVatter der im Himmel ist.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Es wirt nit vn=\nmöglich ſin by got alles wott. So er ingefürt wie er ſige\nzů der gerechten gottes/ſagen wir ouch:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7804,
+        "semantic_match": "als ich hoff. Jtem von dero Sprüchen: Er ist\nvffgefahren zů dem Himmel / Sitzet zů der Rechten Got-\nTt iij tes",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "aber das er yetz\nby vns nit mög ſin lyplich/laſſent wir nit nach/dan̄ wir\nhaben vßgetruckte gſchrifft. Actorum am ix.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6971,
+        "semantic_match": "als ich hoff. Jtem von dero Sprüchen: Er ist\nvffgefahren zů dem Himmel / Sitzet zů der Rechten Got-\nTt iij tes",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "cap. Wie\nPaulus von Hieruſalem in Samaſcum wolt/vnnd do\ner naher Samaſco/hatt in vmgeben ein glaſt vom him=\nmel/vnd ſo er viel vff das erdtrich/hort er ein ſtim zů jm\nSo iij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6759,
+        "semantic_match": "das wir der Liebe\nGottes zůgeben söllen: Als Paulus spricht : Håtte ich\nallen Glauben / und die Liebe nit / wåre es mir nit nůtz.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -137,7 +157,12 @@
         "b": "als ich hoff. Jtem von dero Sprüchen: Er ist\nvffgefahren zů dem Himmel / Sitzet zů der Rechten Got-\nTt iij tes",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7276,
+    "reworded": 4,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3669,

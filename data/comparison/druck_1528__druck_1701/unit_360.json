@@ -39,25 +39,33 @@
         "op": "match",
         "a": "**Schlußred.+ CLXXIII**\n\nvnd darnach/das Chriſtus/ein prieſter nach jm gſin iſt\nder ouch in der gſtalt/brots vnd wyns/bißhar vffgeopf\nfert iſt/muͤß volgen/dz harfuͤrgetragen brot vnd wyn/",
         "b": "der auch in\nder Geſtalt Brodts und Wyns bißhar uffgeopffert iſt/ muͤß folgen / daß harfuͤrgetragen Brodt und Wyn auch\nuffgeopffert werde:",
-        "similarity": 0.4643
+        "similarity": 0.4643,
+        "semantic": 0.5683,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "ouch vffgeopffret werde: dann ſunſt niendert kein ander\nopffer von jm erfunden wirt. Hiemit wil ich diß ſchrifft\nder figur (Melchiſedech/dem Laͤſer beuelchen.",
         "b": "dann ſonſt nienen kein ander Opffer\nvon ihm erfunden wird. Hiemit wil ich diſe Schrifft der\nFigur Melchiſedech dem Leſer befehlen.",
-        "similarity": 0.6087
+        "similarity": 0.6087,
+        "semantic": 0.6164,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "**Berchtoldus Haller.**\n\nES iſt noch nitt bybracht/das (Melchiſedech hab ge=\nopffret/wyn vnd brot/dann die haͤllen klaren wort\ndes Texts/ſoͤlichs nit bmoͤgend.",
         "b": "Berchtoldus Haller. ES iſt noch nit bybracht / daß Melchiſedech hab ge-\nopffert Wyn und Brodt / dann die haͤllen klaren\nWort deß Texts ſoͤlichs nit vermoͤgend.",
-        "similarity": 0.7857
+        "similarity": 0.7857,
+        "semantic": 0.8322,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Bringend ein an=\ndre gſchrifft. **Johannes Buͤchſtab.**\n\nICh habend mir ouch noch nit bybracht/das (Melchiſe=\ndech etwas anders geopffret habe.",
         "b": "Bringend ein\nandere Geſchrifft. Johannes Buͤchſtab. JHr habend mir auch noch nit bybracht / daß Melchi-\nſedech etwas anders geopffert habe.",
-        "similarity": 0.6047
+        "similarity": 0.6047,
+        "semantic": 0.722,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,13 +77,17 @@
         "op": "match",
         "a": "**Gilg Murer.**\n\nIN diſem text wirt weyter anzeygt/das (Melchiſedech\nwyn vnd brot geopffret habe/dann es ſtadt geſchribe: Er hab wyn vnd brot harfuͤr bracht/darumb das er iſt\nein Prieſter geſin des hoͤchſte.",
         "b": "Er hab Wyn und Brodt harfuͤr bracht/da-\nrum daß er iſt ein Prieſter gſyn deß Hoͤchſten. Diß\nWoͤrtly /",
-        "similarity": 0.4068
+        "similarity": 0.4068,
+        "semantic": 0.7083,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Diß woͤrtly/Er iſt ein prie\nſter geſin des hoͤchſten/ſtadt nit vergeben da: dann ſo er\ndz ſelbig nit hat ſoͤllen opfferen/hett es (Moſes wol vff=\ngelaſſen.",
         "b": "Er iſt ein Prieſter gſyn deß Hoͤchſten / ſtaht\nnit vergebens da: dann ſo er daſſelbig nit hat ſoͤllen opf-\nfern /",
-        "similarity": 0.5185
+        "similarity": 0.5185,
+        "semantic": 0.7008,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -87,9 +99,16 @@
         "op": "match",
         "a": "Wyter/Sittenmal die ordnuͤg (Melchiſedech/ anders nuͤt iſt/vnd erfunden mag werden/dann das er\ngeopffret hat wyn vnd brot/ſo muͤß ye volgē/ſittenmal\nChriſtus nach ſiner ordnung/ein Prieſter genempt wirt\nin ewigkeit/ſo muͤß er ye ouch etwas haben/wie Paulus\nſchrybt/das er opffere/mag anders nitt harfuͤr bracht\nwerden mit Biblicher gſchrifft/damit die figur/vnd dz\nſo beduͤt wirt/verglycht moͤge werden. Ke ij",
         "b": "dann daß er geopffert hat Wyn\nund Brodt / ſo muͤß je folgen / ſintemal Chriſtus nach\nſyner ordnung ein Prieſter genennt wird in Ewigkeit/ ſo",
-        "similarity": 0.3137
+        "similarity": 0.3137,
+        "semantic": 0.6854,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.6905,
+    "reworded": 2,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5542,

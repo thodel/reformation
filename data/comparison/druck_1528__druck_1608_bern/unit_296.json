@@ -45,51 +45,74 @@
         "op": "match",
         "a": "**Die vierdt**\nred nit grund hat/da sy spreche/Das vsser wort bringt\nmit jm/das es luter vnd verheysst.",
         "b": "Das vſſer wort bringt mit im/daß es lutet vnnd\nverheißt. Pfarrer von Sant Gallen. VFſynzug vnnd verantwortung vnſer Mitbrüder/",
-        "similarity": 0.35
+        "similarity": 0.35,
+        "semantic": 0.5866,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "**Pfarrer von Sant gallen.**\nVynzug vnd verantwurtzūg vnser mitbrüder/ ist mencklichem wissend/das (ob Gott wil) wir\nChristi sind/vnd sin zesin begårend/vñ darumb\nvon sinem wort reden.",
         "b": "iſt mencklichem wüſſend / das (ob Gott wil) wir\nChriſti ſind/vnd ſin zeſin begärend/vnnd darumb\nvon ſinem wort reden.",
-        "similarity": 0.7347
+        "similarity": 0.7347,
+        "semantic": 0.7964,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wåren wir Heydē oder vnglöu\nbig/so redten wir von Machameto oder Joue. Dan ich\ndie bekenn Christen sin/die da mit dem hertzen glouben\nzů der gerechtigkeyt/vnd solichs mit dem mund beken=\nnend zc.",
         "b": "Wären wir Heiden oder Vnglöu-\nbig/ſo redten wir von Machameto oder Joue. Dann ich\ndie bekenn Chriſten ſyn / die da mit dem Hertzen glouben\nzů der Gerechtigkeit/vnnd ſölichs mit dem Mund beken-\nnend 2c.",
-        "similarity": 0.8056
+        "similarity": 0.8056,
+        "semantic": 0.9284,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Vnd beuelchens von kürtze wegen den Actis. **Zwingli.**\nVff dise antwurt sagend wir also/Das sollicher\nwyß/nieman möcht wüssen ob er den lychtnūg\nChristi niesse oder nit:",
         "b": "Vnd befelchens/von kurtze wegen/den Actis. Zwingly. VF diſe anttwurt ſagen wir alſo/ Das ſöllicher wyß/ niemant möchte wüſſen /",
-        "similarity": 0.5417
+        "similarity": 0.5417,
+        "semantic": 0.591,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "dann wir einfaltigen nit\nmågend wüssen/ob der/der soliche wort spricht/waaren\nglouben vom hertzen vff Christum hab oder nit:",
         "b": "ob er den Lychnam Chri-\nſti nieſſe oder nit : dann wir einfaltigen nit mögend\nwüſſen / ob der / der ſöliche wort ſpricht /",
-        "similarity": 0.5238
+        "similarity": 0.5238,
+        "semantic": 0.8471,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dan ich\nwil min lieben brüder also fragen: Hast du rechten/vn=\ngezwyffelten glouben vff den låbendigen Sūn Gottes/ Christum Jesum?",
         "b": "waren glouben\nvon Hertzen vff Chriſtum hab oder nit: dann ich wil myn\nlieben Brüder alſo fragen: Haſt du rechten/vngetzwyffel-\nten Glouben vff den läbendigen Sun Gottes/Chriſtum\nJeſum ? Pfarrer",
-        "similarity": 0.6538
+        "similarity": 0.6538,
+        "semantic": 0.748,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "**Pfarrer von Sant gallen.**\nOb Gott wil ja. **Zwingli**\nFürend vns ein blinden oder ein lamen har/vnd\nsage mir/zů dem selben blinden:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6324,
+        "semantic_match": "308      Die vierdt\ndir in dem Namen Jeſu/welches ein wort deß Gebotts iſt/ vß dem Mund Chriſti: Jn mynem Namen werden ſy die\nTüffel vßtryben/Marci 16.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Nun Respice, era\nsich. Diß ist ein wort Christi/vnd ist darby ver\nheyssen",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6755,
+        "semantic_match": "Capitel. So ſy nun das vſſer\nwort gebrucht habend/ vnd nütdestermer das vßtryben\ngefolgt hat / ſo volget aber daß jr red nit grund hat da ſy\nſprechen /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7257,
+    "reworded": 0,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6212,

@@ -57,19 +57,25 @@
         "op": "match",
         "a": "Die ſibend\nals vor ouch gemeldet/welicher an Chriſtum Jeſum wil\nglauben/müß volbringen alles das/ſo er gelert hat/de-\nren (zů beſorgen) wenig iſt.",
         "b": "můß\nvollbringen alles das / so er gelehrt hat / deren (zů befor-\ngen) wenig ist. Daß aber die Rychen Jahrzyt begangen /",
-        "similarity": 0.3913
+        "similarity": 0.3913,
+        "semantic": 0.6475,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Das aber die rychen Jarzyt\nBegangen/vñd ſömlichs den armen/die ſömlichs nit ver\nmögend/nit̄ zůnutz kumpt/geſtand ich nit̄:",
         "b": "und sömlichs den Armen / die sömlichs nit vermögend / nit zů nutz komt / gestand ich nit: dann kein Vigyl noch\nSeelmåß gelesen wird /",
-        "similarity": 0.5116
+        "similarity": 0.5116,
+        "semantic": 0.8535,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dann dhein\nVigilg noch Seelmäſſz geläſen wirt/da nit̄ für all glöü\nbig ſeelen/in den Collecten ouch gebätten werde.",
         "b": "da nit für all glåubig Seelen in\nden Collecten auch gebåtten werde. Berchtoldus. DEß Schåchers halb bedarff keiner Antwort / auch\nwas vom Glauben haryn ist gezogen /",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.4981,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -87,33 +93,52 @@
         "op": "match",
         "a": "Das\naber wir ſprechen/all todten dienſt ſyen widrig der liebe/ darumb das ſy überflüßiger für die rychen beſchechend/ Dann für die armen/die ſy nit ſtifften/ligt am tag:",
         "b": "darum daß sy überflüs-\nsiger für die Rychen beschehend / dann für die Armen / die sy nit stifften / ligt am Tag: dann so der Rych nie\n\t\t\tKkk\t\tverhof-",
-        "similarity": 0.5263
+        "similarity": 0.5263,
+        "semantic": 0.8661,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "dann\nſo der rych nit verhoffete/dz jm ſölich todtendienſt fürs\nderlicher dieneten/dañ dem armen/wurde er es bald vn\nderlaſſen/ob ſchon zähen/fidelium/geſprochen wurden.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.635,
+        "semantic_match": "dann es kein\nFågfeur probiert / und nåcht nach der långe durch Mei-\nster Ulrichen erlütert. Daß aber wir sprechen / all Tod-\ntendienst seyen widrig der Liebe /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Es wirt not ſin/das jr zum erſten probieren/dz ein ſåg=\nfhůr ſye: Vnd ſo das ſelb Geſchicht/ſo wellen wir dan be\nſächen/wie den ſeelen daruß zůhelffen ſye.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6999,
+        "semantic_match": "Berchtoldus. Deßglychen wir auch. Bůchstab. DEß Schåchers halb sprich ich also: So wir um un-\nser Sünd Penitentz thůnd / oder Straff darum ly-\ndend /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Bůchstab. DAs die rychen vß jrem gůt/mer thůgend/dann\ndie armen/vnd der arm ſin willen darzů gibt/ ſo er ſölichs vermöchte/welte er es ouch thůn.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6406,
+        "semantic_match": "Berchtoldus. Deßglychen wir auch. Bůchstab. DEß Schåchers halb sprich ich also: So wir um un-\nser Sünd Penitentz thůnd / oder Straff darum ly-\ndend /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Deß wir ein Byſpil mögend nemmen/vß dem\nEuangelio Marci.xij. So Chriſtus ſach die rychen/die\nvil legtē in den geltſtock/iſt ouch ein arme witfrow kom\nmen",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7501,
+        "semantic_match": "dann es kein\nFågfeur probiert / und nåcht nach der långe durch Mei-\nster Ulrichen erlütert. Daß aber wir sprechen / all Tod-\ntendienst seyen widrig der Liebe /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.6988,
+    "reworded": 1,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4009,

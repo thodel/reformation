@@ -45,51 +45,75 @@
         "op": "match",
         "a": "Die fünffte\nMeyster Vlrich Zwingli. WIr lassend vns vff die erklärung vorgehört / vnd\ngründe der gschrifft angezeygt. Gilg Durer. Als Meyster Vlrich vns geantwurt hat /",
         "b": "Meiſter Vlrich Zwingly. WJr laſſend vns vff die Erklärung vorgehört/vnd grün=\nde der Gſchrifft angezeigt. Gilg Murer. DAs Meiſter Vlrich vns geanttwurt hat/",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.6789,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "zů de\nspruch / Prouerbioꝛum ix. Er sye nit für vnns / vnd gibt ein vßlegung one gschrifft / werdẽ wir\njm nit glouben:",
         "b": "zü dem\nſpruch/Prouerb. 9. Er ſye nit für vns/vnd gibt ein\nvßlegung ohne Gſchrifft/werden wir jm nit glou=\nben:",
-        "similarity": 0.6512
+        "similarity": 0.6512,
+        "semantic": 0.9151,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dann es stadt heyter / nacheinandern be\ngriffen: Die wyßheit hat vffgeopffret jre opffer / vñ hat\nvermischt den wyn.zc. In keinem andren opfer beschicht\ndie vermischung des wyns /",
         "b": "Dann es ſtadt heiter nach ein andern begriffen: Die\nWyßheit hat vffgeopffret jre Opffer/vnd hat vermiſcht\nden Wyn/ꝛc.",
-        "similarity": 0.5417
+        "similarity": 0.5417,
+        "semantic": 0.7541,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dann allein in der Mäss / da\nrumb so můß die Mäss ein opffer sin. Zwingli. WIr haben keinen andren verstand /",
         "b": "Jn keinem andren Opffer beſchicht die ver=\nmiſchung deß Wyns/dann allein in der Mäß/darumb ſo\nmüß die Mäß ein Opffer ſyn.",
-        "similarity": 0.4186
+        "similarity": 0.4186,
+        "semantic": 0.7359,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Prouerbioꝛu͂\nix. anzeygt / dann wie der bůchstab selbs lutet / vnd der sinn vermag / vnd ob glych das selb ort / also můßte verstanden werden /",
         "b": "Zwingly. WJr haben keinen andren verſtand/Prouerbiorum\n9. angezeigt/dann wie der Bůchſtab ſelbs lutet/vnd\nder Sinn vermag/ vnd ob glych das ſelb ort/alſo\nDDd",
-        "similarity": 0.68
+        "similarity": 0.68,
+        "semantic": 0.4684,
+        "reading": "check"
       },
       {
         "op": "only_a",
         "a": "wie sy es dargebend / dz\ndoch nit ist / so stadt also: Die Wyßheit hat jre opffer vf\ngeopffret / vnd nit:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.761,
+        "semantic_match": "Schlußred. 393\nGilg Murer\n\nWJr ſagend nit/daß Chriſtus vnd Melchiſedech/in\nallen dingen glychförmig ſöllend ſyn/wie man vns\ngern züſchryben wölt/ſonders/ſo der tod mit Mel=\nchiſedech nit verglychet mag werden/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Die Wyßheit hat wyn vnd brot vff=\ngeopffret. Lassend es by rechtem verstand der gschrifft\nblyben. Gilg Durer. Ich blyben by minem vorbrigen verstand /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6938,
+        "semantic_match": "haben wir ein ander\nOpffer begärt zewüſſen vß der Schrifft/das nit beſchehen\niſt/Vnd damit befelchen wir es der Schrifft.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "wie geant=\nwurt ist / der ist ouch bestättiget durch den heyligẽ Cy=\nprianum / vnd darby laß ichs blyben. Meyster Vlrich Zwingli. Ir thůnd dem Cypriano vnrecht. Bůchstab",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6734,
+        "semantic_match": "Schlußred. 393\nGilg Murer\n\nWJr ſagend nit/daß Chriſtus vnd Melchiſedech/in\nallen dingen glychförmig ſöllend ſyn/wie man vns\ngern züſchryben wölt/ſonders/ſo der tod mit Mel=\nchiſedech nit verglychet mag werden/",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7101,
+    "reworded": 1,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4234,

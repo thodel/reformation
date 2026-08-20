@@ -39,7 +39,10 @@
         "op": "only_a",
         "a": "SO bitten wir ein yegklichen Chriſtenlichen låſer/ dz er\ndie ſchrifft mit verſtand låſe/ vnd warneme/ woruf\ndie Propheten Redend.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6619,
+        "semantic_match": "ſo die Chriſtlich Kilch brucht / und ſo wir\nvon derſelbigen wurden tretten / wůßten wir nit / wel-\nche Evangelia wir ſölten halten /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -51,37 +54,49 @@
         "op": "match",
         "a": "DEr ſchůlmeyſter ſolt wůſſen/ das die bůcher/ ſo\nby der Bibel zůſamen geſetzt ſind / eyn vnder=\nſcheyd haben/ vnd ſind nit glichs gewichts.",
         "b": "Die Sechſte Schlußred. 419\n══════════════════════════\nEcolampadius. DEr Schůlmeiſter ſolt wiſſen / daß die Bůcher / ſo by\nder Bibel zůſamen geſetzt ſind / ein underſcheid ha-\nben /",
-        "similarity": 0.4783
+        "similarity": 0.4783,
+        "semantic": 0.6525,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Erſt\nlich bůcher ſind darzů verordnet/ wo man von dem glou\nben reden wil/ dz man zůgknůß dözůff anziehen / wider die\nwiderſåcher /",
         "b": "und ſind nit glyches Gewichts. Etliche Bůcher ſind\ndarzů verordnet / wo man von dem Glauben reden will / daß man Zůgnus dörff anziehen wider die Widerſecher /",
-        "similarity": 0.5532
+        "similarity": 0.5532,
+        "semantic": 0.4968,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "die werden genant Canonici/ darumb das\nſy vns ſöllen ſin/ als ein Regel oder Richtſch ytt/ in ſachē\ndes gloubens/",
         "b": "die werden genannt Canonici / darum daß ſy uns ſöllen\nſyn als ein Regel oder Richtſchyt / in Sachen deß Glau-\nbens /",
-        "similarity": 0.55
+        "similarity": 0.55,
+        "semantic": 0.6389,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd dero bůcher dheins/ wirdt jnen abge=\nſchlagen. Andere bůcher werden gelåſen/ darumb das ſy\nentweders gůt Exempel/ oder ouch ermanung haben/",
         "b": "und dero Bůcher keins wird ihnen abgeſchlagen. Andere Bůcher werden geleſen / darum daß ſy eintwe-\nders gůte Erempel / oder auch Ermahnung haben /",
-        "similarity": 0.4091
+        "similarity": 0.4091,
+        "semantic": 0.6476,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "aber doch nit ſolichs anſehens ſind/ wo man vom gloubē\nhandlen wil/ das man vß ſolchen bůchern / kundtſchafft\nnemen ſöll.",
         "b": "aber\ndoch nit ſöliches Anſehens ſind / wo man vom Glauben\nhandlen wil / daß man vß ſolchen Bůchern Kundſchafft\nnemmen ſöll.",
-        "similarity": 0.75
+        "similarity": 0.75,
+        "semantic": 0.5844,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Sie nent man Apocrypha/ vnd darumb hatt\nſich der ſchůlmeyſter nůr zůbeklagen. Bůchſtab. DJewil wir Chriſten ſind/ ſo die Chriſtenlich Kilch brucht/ vnnd ſo wir von d\nſelbigen",
         "b": "Die nennet man Apocrypha: und darum\nhat ſich der Schůlmeiſter nüt zů beklagen. Bůchſtab. DIewyl wir Chriſten ſind / ſöllen wir uns deſſen be-\nhelffen /",
-        "similarity": 0.3846
+        "similarity": 0.3846,
+        "semantic": 0.8322,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -113,7 +128,12 @@
         "b": "aber jedes in ſynem wärth. Es ſind Bůcher im Al-\nGgg ten",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6449,
+    "reworded": 3,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3841,

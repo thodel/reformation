@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Schlußred. CCIX\ngesprochen zů dem Herren: Herr/ ob du werdest wide=\nrumb geben in diser zyt/ das rych dinem volck Jſraelo:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7826,
+        "semantic_match": "nickel, vnd gibt andtwurt Im selbst, Opricht,\nOer da Jngat aue masen, und wuijfft die gerich¬\ntikeit, fsalmo xiiijo. Meister Vlrich zwingli\nas In geschichten Im. i. capittel. Ist anzogen,\nMonsieur",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -51,7 +54,10 @@
         "op": "only_a",
         "a": "noch kein oug nie geſechenn.zc. So ſpricht Chri=\nſtus im Euangelio Johannis/ am viiij. In dem huß mi\nnes vatters ſind vil wonungenn.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7409,
+        "semantic_match": "nickel, vnd gibt andtwurt Im selbst, Opricht,\nOer da Jngat aue masen, und wuijfft die gerich¬\ntikeit, fsalmo xiiijo. Meister Vlrich zwingli\nas In geschichten Im. i. capittel. Ist anzogen,\nMonsieur",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -69,25 +75,33 @@
         "op": "match",
         "a": "Fin\nden wir ein obren teyl der hell/ ein mitlen teyl/ vnnd den\naller nidriſten teyl. Von dem obren teyl haben wir j.",
         "b": "284\nDie vii. Thlusbredi\nPaulus, ad Rijhesios, Eo Ist abgestigen, zu den iu\ndren teillen des Ertrichs, finden wir ein obren teil der\nhell, ein mittlen teil, vnd den aller nidristen teil\nvon dem oben teil haben wir.",
-        "similarity": 0.4262
+        "similarity": 0.4262,
+        "semantic": 0.454,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Re\ngum. ij. cap. Der Herr der tödt/ vñ macht läbendig: Er fürt zun hellen/ vnnd fürt wider haruß. Vonn dem\nmitlen teyl der hellen/",
         "b": "1o. Regum. ij. capite\nDer herr der todt, vnd machof labendig, Er turt\nzijn hetten, vnd furt wider hawus, von dem mitt:",
-        "similarity": 0.4255
+        "similarity": 0.4255,
+        "semantic": 0.7506,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ſchrybt der Prophet Dauid/ pſal\nmo lxxxv. Herr du haſt erlöſt min ſeel/ von der nide=\nren helle. Jtem wir findend ouch ein ſtatt der helle/",
         "b": "len teil der hellen, Othribt der Prophet David\nDsalmo. lxxxv.e Herr du hast erlost min Del, vande\nder uidren hette, Item wir finden ouch ein statt\nder hell, Zacharie viiiio.",
-        "similarity": 0.5263
+        "similarity": 0.5263,
+        "semantic": 0.8672,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Za=\ncharie. ix. ca. ſtadt alſo geſchriben: Herr/ du haſt dine ge\nfangnen vßgefürt in dem blůt dins Teſtaments/ vß der\ngrůben/",
         "b": "Etat also geschribenn,\nHerr du hast dine gefangnen vs. gefurt In dem\nblut d'un Testaments, vsz der gruben, darum de¬\nhein wasser was, voor vermeeristen statt der\nhebt, dat fun dahem erlösung Est, Ochrift Job\n1o.",
-        "similarity": 0.3729
+        "similarity": 0.3729,
+        "semantic": 0.6956,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -99,7 +113,9 @@
         "op": "match",
         "a": "vnd nit mer wider harumb komen/ zů dem\nfinſteren erdtrich/ das da bedeckt iſt mit der finſtere des\ntods.zc.",
         "b": "Ich wird hingan, vnd nitt mer wider harumb\nkomen, zu dem finsteren ertrich, das da bedeckt\nIst, mitt der finstere des todes uijs, Vss dem\nwil Ich bewirt haben, zu glicherwis als da gijen\nvil stett der beloming, also B'en ouch, vil stott\nder Straffen, wann niemand zu himel mag kom¬\nmen, befleckt oder gemaß got, Bezugt der Prophet\nDavid, herr wer wirdt Ingan In die Faber:",
-        "similarity": 0.3409
+        "similarity": 0.3409,
+        "semantic": 0.5357,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -119,7 +135,12 @@
         "b": "nickel, vnd gibt andtwurt Im selbst, Opricht,\nOer da Jngat aue masen, und wuijfft die gerich¬\ntikeit, fsalmo xiiijo. Meister Vlrich zwingli\nas In geschichten Im. i. capittel. Ist anzogen,\nMonsieur",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6895,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3934,

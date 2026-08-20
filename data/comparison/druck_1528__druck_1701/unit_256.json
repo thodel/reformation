@@ -45,55 +45,73 @@
         "op": "match",
         "a": "**Schlußred.**\ngschrifft herren/ dañ disen einigen spruch/ so wår er doch\ngewaltig gnůg zů bewåren die vßreylung des lybs vnd\nBlůts Christi im Abentmal:",
         "b": "so wär er doch ge-\nwaltig gnůg zůbewähren die Ußtheilung deß Lybs und\nBlůts Christi im Abendmahl: bin auch gewiß /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7698,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "bin ouch gewüß dz alle wele\nden spruch nit wellen wirt: er stadt für vns/ vñ lůt also: Der Kelch oder dz tråck der benedyung/",
         "b": "daß\nalle Welt den Spruch nit fellen wird: er staht für uns/ und lutet also: Der Kelch oder das Tranck der Bene-\ndeyung /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.5102,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "den wir bene=\ndyen/ ist er nit die gemeinschafft des blůts Christi: Vnd\ndz Brot das wir brechen/ ist dz nit die gemeinschafft des\nlybs Christi:",
         "b": "den wir benedyen / ist er nit die Gemeinschafft\ndeß Blůts Christi? und das Brodt / das wir brechen/ ist das nit die Gemeinschafft deß Lybs Christi?",
-        "similarity": 0.7059
+        "similarity": 0.7059,
+        "semantic": 0.8354,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Es wüssend alle/ so ein kleinen vstand ha\nben des Griechischen/ was κοινωνία/ heißt/ namlich ein ge\nmeinschafft/ ein vßreilung.",
         "b": "Es wüſ-\nsen alle / so ein kleinen Verstand haben deß Griechischen/ was Κοινωνία heißet / namlich ein Gemeinschafft / ein Ußthei-\nlung:",
-        "similarity": 0.55
+        "similarity": 0.55,
+        "semantic": 0.7147,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Als Rom. xv. Paulus in gli\ncher form dz wort gebrucht/ so er spricht: Es hat die von\nMacedonia vñ Achaia/",
         "b": "als Röm. am 15. Paulus in glycher form das\nWort gebrucht / so er spricht: Es hat die von Macedo-\nnia und Achaia für gůt angesehen/",
-        "similarity": 0.6522
+        "similarity": 0.6522,
+        "semantic": 0.7697,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "für gůt angesehen/ ein gemein=\nschafft zethůn in die arme heiligē/ die da sind zů Jerusa\nlem. Wz ist gemeinschafft da anders/",
         "b": "ein Gemeinschafft ze-\nthůn in die armen Heiligen / die da sind zů Jerusalem. Was ist Gemeinschafft da anders / dann ein ußtheilung/",
-        "similarity": 0.5116
+        "similarity": 0.5116,
+        "semantic": 0.7998,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dañ ein vßteilūg/ das sy den armen hülfflich wolten sin. Vñ in der ij. Epi. zun Corinthern am. viij. cap.",
         "b": "daß sy den Armen hülfflich wolten syn. Und in der an-\ndern Epistel zun Corinthern am 8. Cap. wird widerum\nΚοινωνία für ein Ußtheilung genommen.",
-        "similarity": 0.4889
+        "similarity": 0.4889,
+        "semantic": 0.5129,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "wirt widerum κοινωνία/ für\nein vßreylūg genomen. Also ouch hie der Kelch der dåck\nsagung oder benedyung/ ist ein gemeinschafft/",
         "b": "Also auch hie der\nKelch der Dancksagung oder Benedeyung ist ein Ge-\nmeinschafft / das ist/ ein Ußtheilung deß Blůts / und das\nBrodt /",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.6147,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "das ist ein\nvßreilung des blůts: vnnd das brot das wir brechen/ ist\nein vßreilung des lybs Christi. Kan mir min herr So=\ncroz mit gschrifften erzwingen/",
         "b": "das wir brechen / ist ein Ußtheilung deß Lybs\nChristi. Kan mir myn Herr Doctor mit Geschrifften\nerzwingen einen andern Verstand / so wöllen wir ihn\nhören. Ecolam-",
-        "similarity": 0.4151
+        "similarity": 0.4151,
+        "semantic": 0.6959,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -111,9 +129,17 @@
         "op": "only_a",
         "a": "frag ich jn/ ob Synecdoche ouch ein Tropus\nsye. Hh ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.603,
+        "semantic_match": "am 10. Cap. nit formklich\nan / wie sy lutend. Sag ich / ob wir sunst kein Geschriffte\nhätten / dann diesen einigen Spruch /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.6826,
+    "reworded": 2,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4846,

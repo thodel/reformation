@@ -69,25 +69,33 @@
         "op": "match",
         "a": "**Schlußred.**\n\ncramenten zeſuͤche. Jtem/ vermiſchet die ware menſch=\nheit Jeſu Chriſti mit der Gottheit/ daruon harnach ge=\nhandlet wirt/",
         "b": "und lehret Troſt by den\nSacramenten zeſuͤchen / item / vermiſchet die wahre\nMenſchheit Jeſu Chriſti mit der Gottheit/darvon hernach\ngehandlet wird:",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.6427,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ſo zwingt mich die eer Gottes/ vnd andre\nfrom Chriſten mit mir/ dz wir des orts/ dem Luter ab=\nſtan muͤſſen/",
         "b": "ſo zwingt mich die Ehr Gottes / und an-\ndere fromme Chriſten mit mir / daß wir deß Orts dem\nLuther abſtahn muͤſſen/wie wir auch Gott und nit Luther\nglaͤubig ſyn ſoͤllend.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.4131,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Wie wir ouch Gott vnd nit Luter gloͤubig\nſin ſoͤllend. Darnebe aber/ ſo lang er prediget/ das Chris\nſtus Jeſus vnſer einiger heylland ſye/",
         "b": "Darneben aber / ſo lang er prediget/ daß Chriſtus Jeſus unſer einiger Heiland ſeye / woͤllend\nwir ihn fuͤr unſeren Bruͤder halten /",
-        "similarity": 0.3265
+        "similarity": 0.3265,
+        "semantic": 0.8139,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "wellend wir jn fuͤr\nvnſeren bruͤder halten/ vnd jm diſen jrrthum vertragen: dann Gott allein/ vnd nit wir/",
         "b": "und ihm diſen Jrr-\nthum vertragen: Dann Gott allein / und nit wir / ihn\ndeß entledigen moͤgen: Wil er aber und ſyn Hauff uns\ngar verwerffen /",
-        "similarity": 0.3913
+        "similarity": 0.3913,
+        "semantic": 0.7256,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -99,19 +107,26 @@
         "op": "match",
         "a": "dz der vatter ſine ſun Chriſto/ vnd nit dem\nLuter/ wie ouch nit dem Bapſt/ das endtlich vrteyl zu=\ngeſteller hat.",
         "b": "ſo freuen wir uns deß / daß der Vatter\nſynem Sohn Chriſto / und nit dem Luther / wie auch nit\ndem Pabſt /",
-        "similarity": 0.3902
+        "similarity": 0.3902,
+        "semantic": 0.4761,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Vnſere lieben bruͤder genuͤgt wol/ wo man\nin der ſum des gloubens mit vns eins iſt/ namlich dz wir\nalle nichts ſind/",
         "b": "das endlich Urtheil zuͤgeſtellet hat. Unſere\nliebe Bruͤder genuͤgt wol / wo man in der Summ deß\nGlaubens mit uns eins iſt / namlich daß wir alle nichts\nſind/",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.7801,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "vnnd onne Gott durch Chriſtum allein\nfromm vnd ſaͤlig machen wil. Die alten heilgen lerer ha\nbend vom fryen willen/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7102,
+        "semantic_match": "Nun bekenn ich gern / liebe fromme\nChriſten / daß mich Gott der Allmaͤchtig von Tag zuͦ Tag\nwyter erklaͤret hat:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -123,7 +138,10 @@
         "op": "only_a",
         "a": "die eer Gottes zeſuͤchen. Es iſt vnns ouch\nhertzlich leyd/ das ſich yemants von vns trennet/ ſecten\nvnd partyen machet.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7073,
+        "semantic_match": "damit nit villeicht ihm die Ehr / ſo Gott allein zuͤ-\nſtaht / geben wurde / er in dem beharren woͤlle / daß man\ndie geiſtlichen Wort Chriſti fleiſchlichen wider die Einig-\nkeit deß Glaubens verſtahn ſoͤlle/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -141,7 +159,10 @@
         "op": "only_a",
         "a": "vñ\nſechend/ lieben frommen Chriſtenn/ diewyl man vnns\nachren ſol/ demnach ſo wir leren/ vnnd nit demnach das\ndozecht vnnd boͤſe luͤt mißhandlen/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6036,
+        "semantic_match": "Nun bekenn ich gern / liebe fromme\nChriſten / daß mich Gott der Allmaͤchtig von Tag zuͦ Tag\nwyter erklaͤret hat:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -149,7 +170,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6525,
+    "reworded": 3,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3153,

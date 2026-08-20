@@ -33,31 +33,46 @@
         "op": "only_a",
         "a": "**Schlußred. LIIII**\n\nsend/dem sind sy behalten. Vnnd blyb noch hüttbytag\ndarby/ob schon Petrus für all vff die frag Christi geant\nwurt hab/So hat nach dem allem Christus jm sonder=\nlich den gwalt der schlüßlen verheyssen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6778,
+        "semantic_match": "Das Christus\nallen zwoͤlffbotten/ den gewallet der schluͤssell\ngeben hab / Mathei vvii ͦ cap: oder Johannis\nxx ͦ cap: Ich red aber Darwider Das aber\npetro nut sin sonderlich verheissung ouch da\ngeleistet sye/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Vnnd als min\nHerr Berchtold ynzücht/Christus hab etwan mer son=\nderlich verheyssen/das er nacher andren ouch geben hat/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8295,
+        "semantic_match": "Das Christus\nallen zwoͤlffbotten/ den gewallet der schluͤssell\ngeben hab / Mathei vvii ͦ cap: oder Johannis\nxx ͦ cap: Ich red aber Darwider Das aber\npetro nut sin sonderlich verheissung ouch da\ngeleistet sye/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "bringt aber daby nit zügnüß offner geschrifft/das Chri=\nstus das hie ouch than habe/die schlüssel allen verheissen\nhab:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7341,
+        "semantic_match": "Das Christus\nallen zwoͤlffbotten/ den gewallet der schluͤssell\ngeben hab / Mathei vvii ͦ cap: oder Johannis\nxx ͦ cap: Ich red aber Darwider Das aber\npetro nut sin sonderlich verheissung ouch da\ngeleistet sye/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "dann es volgt nit daruß/Christus hat dz an einem\nanderen ort gethan/darumb hat ers hie ouch than/dann\nder text ist hie heyter/das ers sonderlichs gethan vnnd\ngeredt hab.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7511,
+        "semantic_match": "Das briunge by/. Ich gloub ee das\nChristus petro von stund an geleistert heige/do/ n a",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "**Berchtoldus+**\n\nMeyster Niclaus fürt haryn/das Petro sonderlich\ndie schlüssel verheyssen syend vnd geben/verstadt\ners sonderlich/das ist allein verheyssenn vnnd geben/so\nhat er wider jnn die klaren wort Christi/Johannis am\nzwentzigosten capitel/dann die wort sind so klar/Mat=\nthei am xvj.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8379,
+        "semantic_match": "Das Christus\nallen zwoͤlffbotten/ den gewallet der schluͤssell\ngeben hab / Mathei vvii ͦ cap: oder Johannis\nxx ͦ cap: Ich red aber Darwider Das aber\npetro nut sin sonderlich verheissung ouch da\ngeleistet sye/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -75,19 +90,25 @@
         "op": "match",
         "a": "capitel/das die verheyssung daselbs ist an=\nzeigt. Aber Johannis am xx. capitel/die leystung al=\nlen ggeben ist/so streckt sich ouch billich die verheyssung\nouch vff sy all.",
         "b": "Aber\nJohannus xx ͦ cap: Die leistung/ allen geben\nist. So streckt ssich ouch billich die verheissung\nna o\nouch vff sy all/",
-        "similarity": 0.4231
+        "similarity": 0.4231,
+        "semantic": 0.7439,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Demnach so ich im ein glyche red vß der\ngeschrifft hab anzeygt/da der Herr wenigen verheyst/ vnd aber vilen leystet/müß darumb nit in aller gschrifft\nalso sin:",
         "b": "ich Im ein glicht red vsß der gschrifft hab\nanzeigt Da der her wenigen verheisst\nvnd aber vilen leistet/ Muß darumb /",
-        "similarity": 0.56
+        "similarity": 0.56,
+        "semantic": 0.8191,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "sonder hab allein ein glychnuß gebe/nach art der\ngschrifft/vnd hett des wol nüt bedörffen/dan die gegen=\nwürtigen wort sind für sich selbs heyter vnd klar gnůg. **Senger**\n\nD ij",
         "b": "nit\nIn aller gschrifft allso sin/ Sonder hab allein\nein glichnus geben / nach art der gschrifft/ vnd het des woll nudt/",
-        "similarity": 0.3774
+        "similarity": 0.3774,
+        "semantic": 0.9164,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -107,7 +128,12 @@
         "b": "Das briunge by/. Ich gloub ee das\nChristus petro von stund an geleistert heige/do/ n a",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7887,
+    "reworded": 2,
+    "candidates": 5,
+    "recovered_by_embedding": 5,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3215,

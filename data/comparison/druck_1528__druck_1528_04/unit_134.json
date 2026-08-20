@@ -45,13 +45,17 @@
         "op": "match",
         "a": "wird ich üch nit überſehen. Dz gebürt jm vff ein yegklichē hirten/dz er in offnen la\nſtern/niemants überſehe ze ſtraffen/ſonders ſchrye/vnd\ndem volck jre ſünd anzöug.",
         "b": "Die erſt\nDas er in offnen laſteren/niemants uͤberſeche ze-\nſtraffen/ſonders ſchrye/vnd dem volck jre ſuͤnd\nanzeyg.",
-        "similarity": 0.4706
+        "similarity": 0.4706,
+        "semantic": 0.855,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Zů ſechſte. Die ſprüch die\ner bringt vß der erſte Epiſt. zun Co. vij. Von den regie\nrunge/betrifft das weltlich Regiment vff oberkeit:",
         "b": "Zum ſechſten. Die ſpruͤch die er bringt\nvß der erſten Epiſt. zun Corin. am xij. Von den\nregierungen/betrifft das weltlich Regiment vñ\noberkeyt:dañ das ſelbig notwendig iſt vm̃ deren\nwille/die als valſch Chriſten /den frommen mit\ndͦ that uͤberlaͤgẽ ſind.",
-        "similarity": 0.4
+        "similarity": 0.4,
+        "semantic": 0.7231,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -63,31 +67,41 @@
         "op": "match",
         "a": "Wyter bringt\ner ein ſpruch vß den Hebr. xiij. ca. Gehorſamend denen\ndie üch vorſtond/dan̄ ſy wached für üwer ſeele als die da\nrechnůg werdē gebe.",
         "b": "Wyter bringt er ein ſpruch\nvß den Hebre. am xiij.capi. Gehorſamend de-\nnen die uͤch vorſtond/dañ ſy wachend fuͤr uͤwer\nſeelen als die da rechnũg werden gebẽ.",
-        "similarity": 0.5667
+        "similarity": 0.5667,
+        "semantic": 0.8405,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Iſt aber eineſt geredt von der dienſt\nbarkeit der weltlichē oberkeit: dan̄ ſy ouch rechnung wer\ndē gebe jrs Chriſtenlichē befelchs/aber in dem ſpruch der\nvor de ſtadt/ouch zun Hebre.",
         "b": "Jſt aber\neineſt geredt von der dienſtbarkeyt der weltlichẽ\noberkeyt: Dann ſy ouch rechnung werden geben\njrs Chriſtenlichen beuelchs. Aber in dem ſpruch\nder vor dem ſtadt/ouch zun Hebreern am xiij.ca\npitel lutet alſo.",
-        "similarity": 0.5882
+        "similarity": 0.5882,
+        "semantic": 0.8303,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "xiij. ca. lutent alſo: Sind\nyngedenck dere ſo üch vorſtond. Was dz/vorſtand/ſye/ volgt vß ſtundan daruff: Sie üch kündet hand dz wort\ngottes.",
         "b": "Sind yngedenck derenn ſo uͤch\nvorſtond. Was das vorſtond ſye/volget vonn\nſtundan daruff:Die uͤch verkuͤndt hand dz wort\ngottes.",
-        "similarity": 0.4898
+        "similarity": 0.4898,
+        "semantic": 0.7758,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Vß dißem allemſamē iſt noch kein ſchrifft harfür\nbracht/von höuptern/obern/Prelaten/die ſy beſtätige/ vnd vnſer Schlußred vmbſtoſſend.",
         "b": "Vß diſem allemſamen iſt noch kein ge-\nſchrifft harfuͤr bracht/vonn hoͤupteren/oberen/ Preͤlaten/die ſy beſtaͤtige/vnnd vnſer Schluß-\nred vmbſtoſſe.",
-        "similarity": 0.3913
+        "similarity": 0.3913,
+        "semantic": 0.7742,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Senger\n[E]rr Berchtold hat mich zů aller erſte da anzo=\ngen/ſprechende/fromen lieben Chriſtẽ/lügend\nwelcher die eer gottes ſůche/vß der vrſach/das\nich Jeſü Chriſtū beken̄ für ei houpt/vff doch nit well er=\nkenne/dz er ſye vnſer lābē vff ſäligkeit/des ich mich zů al\nler erſte entſchuldige vor allen biderben Chriſtẽ hie: dan̄\nich",
         "b": "Senger. Herr Berchtold hat mich zum aller erſten da\nanzogen/ſprechende. Frommen lieben Chriſten/ luͤgend welcher die Eer gottes ſuͤche/vß der vr-\nſach/das ich Jeſum Chriſtũ bekeñ fuͤr ein houpt\nvnd doch nit well erkeñen/das er ſye vnſer laͤben\nvnd ſaͤligkeyt.",
-        "similarity": 0.4505
+        "similarity": 0.4505,
+        "semantic": 0.8272,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -95,7 +109,12 @@
         "b": "Des ich mich zum aller erſten ent\nſchuldigen vor allen biderben Chriſten hie:Dann\nich kein",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8037,
+    "reworded": 5,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4891,

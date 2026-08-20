@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "ſprach zü gut off gestrigen tag/von Bern Stattschry\nber/vsansechen der herren/verlåsen sind/trüwlich mit\nflys vnnd sorg/balten wellind.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6214,
+        "semantic_match": "ſonder groß vn̄ vnſerer ſeelen heyl betreffen iſt. Sonderlich aber / begerend min herren die Pre-\nſidenten / das alle die / ſo zedisputieren willens\nvnnd verfaſſet ſind /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -57,7 +60,9 @@
         "op": "match",
         "a": "Dann wo solichs nit be-\nschache/wurded ſy (des sy doch gern ab sin welten) dar=\nyn zereden/vnd die überjrenden zewysen vnnd zeerma=\nnen geursachet/guter hoffnung/es werde niemants an=\nders faren/dan dem handel diser loblichen Sisputation\nvnd gedachter miner gnedigen herren von Bernn Oan\ndaten/ordnungen vnd abscheyden (wie sy sich mit der ge\nschrifft verglychen) gelågen vñ gemaß sye.",
         "b": "vn̄ die übels\njrrenden zewyſen vnnd zeermanen geurſachet. Gůter hoffnung / es werde niemandts anders\nfaren / dañ dem handel diſer loblichen Disputati-\non vnnd gedachter miner gnedigen Herren von\nBernn Mandaten /",
-        "similarity": 0.4255
+        "similarity": 0.4255,
+        "semantic": 0.8481,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,19 +74,26 @@
         "op": "match",
         "a": "Off sölichs\nso mogent jrmin herren die Predicanten/üwerem erbie\ntennach/die erst Schlußred in des herren namen/andie\nhand nemen/vñ die mit geschrifft beuestnen/damit den\nherren/geystlich oder weltlich/so dargegen zehaben verz\nmeinend zedisputieren/anlaß geben werden moge.",
         "b": "üwerem erpieten\nnach / die erſt ſchlußred jn des Herrē namen / an\ndie hand nämen / vn̄ die mit geſchrifft beueſtnen. Damit den Herren /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7144,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Weyster Frantzen Kolben Pre\ndicant zü Bernn/vozred. Nad bnd frid von Gott dem\nvatter vnd vnserm Herrn Jesu Christo/",
         "b": "geyſtlich oder weltlich / ſo\ndargegen zehaben / vermeinend zedisputieren / anlaß geben werden möge. Meyſter Frantzen Kolben\nPredicanten zů Bern̄ / vorred. GNad vnnd frid vonn Gott\ndem vatter vnnd vnſerem Herren\nJeſu Chriſto /",
-        "similarity": 0.3529
+        "similarity": 0.3529,
+        "semantic": 0.8433,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Amen. Ir vßerwelten menner vnd brüder\nin Christo. Wiewol es sich in aller welt/in\nmencherley valansechen last/das Gott vast übel über\nvns erzürnt sye/So bewyster vns doch besonder grof\nsegnad/welicher wir im nit gnüg mogend danckbar sin/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.714,
+        "semantic_match": "vß anſechen der Herrē verläſen ſind / trüw\nlich mit flyß vnd ſorg / halten wellind. Dañ wo\nſölichs nit beſcheche / wurdend ſy (deß ſy doch\ngern abſin weltend) daryn zereden /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -93,7 +105,10 @@
         "op": "only_a",
         "a": "Råde vnd Burger/diser loblichenstatt Bernn/bewegt\nfind/üch Erbern/hochgelerten/Chriſtenlichen herren",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7383,
+        "semantic_match": "ſy zůuor des außgangnen\nMandats / vnd aller ordnung / ſo dem geſprech\nzů gůt auff geſtrigen tag / von Herr Statteſchri\nber /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -101,7 +116,12 @@
         "b": "Amen. Jr vſſer-\nwelten menner vnd brüder in Chri-\nſto.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7466,
+    "reworded": 2,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4533,

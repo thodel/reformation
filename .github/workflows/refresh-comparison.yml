@@ -92,6 +92,23 @@ jobs:
       - name: Refresh divergence heatmap
         run: python3 scripts/divergence_heatmap.py
 
+      # Semantic annotation is added on top of the comparison output, so
+      # regenerating a pair removes it. Re-embedding needs sentence-transformers,
+      # which is too heavy to install on a daily job, so this reports the gap
+      # instead of hiding it. Run scripts/embed_sentences.py --all to close it.
+      - name: Report semantic staleness
+        shell: bash
+        run: |
+          set +e
+          python3 scripts/embed_sentences.py --check > /tmp/sem.txt 2>&1
+          {
+            echo "### Semantische Ebene"
+            echo '```'
+            cat /tmp/sem.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+          cat /tmp/sem.txt
+
       - name: Validate repository
         run: python3 scripts/validate_repo.py
 

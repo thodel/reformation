@@ -45,19 +45,25 @@
         "op": "match",
         "a": "Die vierde\ngebe/vnd aber am andren/Er hats durch die Engel ge\nben/So verstan wir ye/das soliche würckungen Gottes\ndie er durch sine engel würcket/jm als dem ersten Autor/",
         "b": "vnnd Gſatz geben / vnd aber am andren / Er\nhats durch die Engel geben / So verſtan wir je / das ſöliche\nwuͤrckungen Gottes die er durch ſyne Engel wuͤrckt /",
-        "similarity": 0.6129
+        "similarity": 0.6129,
+        "semantic": 0.8751,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vñ houptsecher/recht zůgeben werden. So man es aber\nvon den Englen seyt/ist nůrdestminder die eer Gottes/ vnd ist doch allein die substantz/der engel in einer gstalt/",
         "b": "jm\nals dem erſten Autor / vnnd Heuptſeecher / recht zuͦgeben\nwerden. So man es aber von den Englen ſeit / iſt nuͤt\ndeſsminder die Ehr Gottes /",
-        "similarity": 0.4364
+        "similarity": 0.4364,
+        "semantic": 0.7511,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "die Gott gefallen hat/erschinen. Also stadt es ouch vmb\ndie erschynung Gottes/Abraham beschehen/dem doch\ndry engel erschinen sind/nach der gestalt.",
         "b": "vnnd iſt doch allein die Sub-\nſtantz / der Engel in einer gſtalt / die Gott gefallen hat / er-\nſchinen. Alſo ſtadt es ouch vmb die Erſchinung Gottes /",
-        "similarity": 0.44
+        "similarity": 0.44,
+        "semantic": 0.9029,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,19 +75,25 @@
         "op": "match",
         "a": "Jst aber Chri-\nstus Jesus Paulo vff erden mit eygner person sins lybs\nerschinen/so ist sin lyb persönlich/diewyl er by der gerech\nten Gottes nit gewäsen.",
         "b": "ſo iſt ſyn Lyb\nperſönlich diewyl by der gerechten Gottes nit gewäſen. Dann als wenig vnſere Lychnam nach der Vrſtende /",
-        "similarity": 0.4167
+        "similarity": 0.4167,
+        "semantic": 0.647,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Dann als wenig vnsere lychnä\nnach der Vrstende/mer dann an einem ort sind/also ist\nouch der lychnam Christi/der in allweg vnserm glych ist/",
         "b": "mer\ndann an einem ort ſind / alſo iſt ouch der Lychnam Chriſti / der in alliweg vnſerm glych iſt / allein an einem ort (Confu-\ntandi gratia dictum) Vß dem volgt /",
-        "similarity": 0.6182
+        "similarity": 0.6182,
+        "semantic": 0.7484,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "allein an einem ort (Confutandi gratiā dictum) Vß dem volgt/ das die erschynung Paulo beschehen/von vnns nit also\nsol gemessen werden/als ob Christus herab gefaren sye/",
         "b": "das die Erſchinung\nPaulo beſchechen / von vns nit alſo ſoll gemeſſen werden / als ob Chriſtus herab gefahren ſye / vnnd die gerech-\nten Gottes verlaſſen:",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.8467,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -93,19 +105,27 @@
         "op": "match",
         "a": "vnd die gerechten Gottes verlassen: sonder wir wellend\ndie wort Pauli. ij. Epist. zun Corinth. am xij. cap. selbs\nhören/an welchem wir mercken werdend/das die erschy\nnung/ein wunderbarlich verzucken Pauli gesin/ist ouch\nein wunderbarliche offenbarüg der heimligkeit Gottes/",
         "b": "das die Erſchy-\nnung / ein wunderbarlich verzucken Pauli geſin / iſt ouch\nein wunderbarliche offenbarung der Heimligkeit Gottes / Zz ij\n\n## Marginalien\n- Diß\n[unleserlich]nuͤg)\nfleiſch\nglychen\neint es\n/",
-        "similarity": 0.4571
+        "similarity": 0.4571,
+        "semantic": 0.8539,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "vnd spricht also: Jch weyß das der selb mensch (sich ver\nstande) verzuckt ist worden/biß in dritten himmel/vnd\nweyß doch nit ob es dem menschen beschehen ist/im lyb/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6215,
+        "semantic_match": "Jeſus\nvnnd mit\nn / geſtan\nErſchy-\nng ver-\n. Das\nGott",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "oder vsserthalb dem lyb. Jn welchen worte wir gsehen/ das Paulus die himmelschen liecht vñ freüd/die jm gott\nverlichen",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7569,
+        "semantic_match": "Jeſus\nvnnd mit\nn / geſtan\nErſchy-\nng ver-\n. Das\nGott",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -119,7 +139,12 @@
         "b": "Jeſus\nvnnd mit\nn / geſtan\nErſchy-\nng ver-\n. Das\nGott",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7782,
+    "reworded": 4,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5749,

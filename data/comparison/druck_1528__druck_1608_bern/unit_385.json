@@ -33,19 +33,26 @@
         "op": "only_a",
         "a": "Schlußred. CLXXXV\nButzer. SO laſſen wirs by de͂ gwüſſen Gottes wort bliben/ vn͂\nBeuelhen es den rechgeſchaffnen Chriſten. Gilg Aurer.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7716,
+        "semantic_match": "dann Chriſtus/oder das Chriſtus mehr dann eineſt vff=\ngeopffert moͤg werden. Deß Spruchs halb Danielis\nFFſ ij",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "WYter mag nach miner vorgebnen Diſtinction/ ein andre gſchrifft harfür bracht werde͂. Nam=\nlich Danielis am xij. Vnd die boͤſen werde͂ boͤß\nlich handlen /",
         "b": "Schlußred. 4II\nGilg Murer\n\nWYter mag nach myner vorgebnen Diſtinction/ein\nandre Gſchrifft harfuͤr bracht werden. Namlich\nDanielis am 12.",
-        "similarity": 0.4681
+        "similarity": 0.4681,
+        "semantic": 0.6585,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnd all boͤſen werden es nitt verſton/ aber\ndie gelerten werden es verſton/ vn͂ von der zyt hin/ ſo da\nhin weg wirt genomen werde͂/",
         "b": "Vnd die Boͤſen werden boͤßlich\nhandlen/vnnd all Boͤſen werden es nit verſton/aber die\nGelerten werden es verſton/vnnd von der zyt hin/ſo da\nhinweg wirt genommen werdẽ/das ſtaͤdt Opffer/vnd wirt\ngeſetzt ſyn der Gruͤwel der Eroͤdung/tuſent tag zweyhun=\ndert vnd nuͤntzig/das iſt als vil/als vierthalb Jar.",
-        "similarity": 0.4598
+        "similarity": 0.4598,
+        "semantic": 0.7496,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -57,25 +64,33 @@
         "op": "match",
         "a": "als vierdhalb Jar. Hie hat geredt\nder Prophet Daniel vo͂ den letſte͂ zyten des Entchriſts\nWelcher ſpruch ouch anzogen iſt/",
         "b": "Hie\nhat geredt der Prophet Daniel von den letſten zyten deß\nEntchriſts. Welcher Spruch ouch anzogen iſt/durch\nChriſtum/Matth.",
-        "similarity": 0.7
+        "similarity": 0.7,
+        "semantic": 0.8448,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "durch Chriſtu͂. Math. am xxiiij. Vn͂ ſytemal das er ſpricht/ es ſye ein ſtådt opf\nfer/ vn͂ das werd vßgehebt werden in der letſten zyt:",
         "b": "am 24. Vnd ſitenmal daß er ſpricht/ es ſye ein ſtaͤdt Opffer/vnd das werd vffgehebt werden in\nder letſten zyt:",
-        "similarity": 0.5532
+        "similarity": 0.5532,
+        "semantic": 0.7841,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "kan\nman vnd mag nit koͤmlichen/ nach recht verſtandner ge=\nſchrifft ein ander opfer anzeygen/ als ich hoff/ dann allein\ndas opfer der Måß.",
         "b": "kan man vnd mag nit komlichen/nach recht\nverſtandner Geſchrifft/ein ander opffer anzeigen als ich\nhoff/dann allein das Opffer der Maͤß.",
-        "similarity": 0.6939
+        "similarity": 0.6939,
+        "semantic": 0.8911,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Zwingli\nS gnůgſam gehoͤrt iſt / das kein ander opfer ſin\nmag/ weder Chriſtus: ouch weder Chriſtus noch\ndie Apoſtel/",
         "b": "Zwingly. SO gnuͤgſam gehoͤrt iſt/das kein ander Opffer ſyn\nmag/weder Chriſtus: ouch weder Chriſtus noch die\nApoſtel/deß worts oder dings Maͤß/oder das das\nNachtmal ein Opffer ſye/je gedacht haben:",
-        "similarity": 0.5263
+        "similarity": 0.5263,
+        "semantic": 0.7364,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -87,7 +102,9 @@
         "op": "match",
         "a": "die vß dem alten Teſtame͂t\nharfür gezogen wirdt/ nitt bewåren mag/ das ein ander\nopffer ſye/ dann Chriſtus / oder das Chriſtus mer dann\neyneſt vffgeopfert moͤg werden. Des ſpruchßhalb Sa=\nAaa",
         "b": "So iſt gwiß\ndas alle kundſchafft/die vß dem alten Teſtament harfuͤr\ngezogen wirdt/nit bewaͤren mag/das ein ander opffer ſye/",
-        "similarity": 0.4211
+        "similarity": 0.4211,
+        "semantic": 0.7974,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -95,7 +112,12 @@
         "b": "dann Chriſtus/oder das Chriſtus mehr dann eineſt vff=\ngeopffert moͤg werden. Deß Spruchs halb Danielis\nFFſ ij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7792,
+    "reworded": 3,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6296,

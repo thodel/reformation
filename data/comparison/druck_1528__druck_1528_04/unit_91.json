@@ -57,13 +57,18 @@
         "op": "match",
         "a": "Schlußred+\nEpistel/beschriben ist/das oꝛt wil ich uͤch laßen: Wår ist\nnun Paulus? Wår ist Apollo? zc. Da habend jr lieben\nChristen/håtte gschrifft/das Gott durch sin geyst allein\nleret/das der gloub im hertzen vffgange/vnd wil nit dest\nweniger das wir mit flyssigem predigen/des vsserlichen\nwoꝛts/jm darzuͤ dienen/vnnd also hab ich jm gschrifft=\nlich geantwurtet/vff sin vngschrifftlich frag.",
         "b": "Waͤr iſt nun Paulus? Waͤr iſt\nApollo ? ꝛc. Da habend jr lieben Chriſten/ haͤlle\ngſchrifft/das Gott durch ſin geyſt allein leret/",
-        "similarity": 0.3913
+        "similarity": 0.3913,
+        "semantic": 0.8458,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Das er a=\nber daby vnsern eynigen alten vnbefleckten glouben ge=\nscholten hat/ein nuͤw erwachsen/zåhen jårigen glouben/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7259,
+        "semantic_match": "das der gloub im hertzen vfgange/ vnnd wil nit\ndeſtweniger das wir mit flyſſigem predigẽ/deß\nvſſerlichen worts/jm darzuͤ dienẽ:",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -93,19 +98,27 @@
         "op": "match",
         "a": "muͤssend wir lyden/wie sine andren vergebnen schmuͤtz=\nreden. Wår aber Gott kennet/weyst wol das von an=\nfang der welt/dhein ander gloub by allen kinderen got=\ntes/nye gewesen/dann allein den wir predigend/Nam=\nlich/das sich der mensch vff die guͤte Gottes durch Je=\nsum Christum getzoͤsten/sicher vnd gewuͤß sye/das jnn\nGott endtlichen/ewig/fromm vnd sålig machen welle/",
         "b": "das ſich der menſch vff die guͤte\nGottes durch Jeſum Chriſtum getroͤſtẽ/ſicher\nvnd gewuͤß ſye/das jnn Gott endtlichen/ewig/",
-        "similarity": 0.4468
+        "similarity": 0.4468,
+        "semantic": 0.6717,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "daher er dann willig vnnd geneygt sye/aller wellt liebs\nvnd guͤts gethuͤnd. Der gloub ist/in dem alle gerechten\nye vnd ye gelåbt habend/ein vnerschoͤpffter brunn aller\nwaren guͤter werck:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7455,
+        "semantic_match": "das der gloub im hertzen vfgange/ vnnd wil nit\ndeſtweniger das wir mit flyſſigem predigẽ/deß\nvſſerlichen worts/jm darzuͤ dienẽ:",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "disen glouben predigen wir/vnd be\ngebend vns des tods/wo sich in vnser leer/anders erfun=\nde/By einiger Goͤttlicher gschrifft/die das ewig goͤttlich\nwoꝛt ist/wellend wir belyben/vnnd sind ouch yetz åben\ndrumb hie/vß gantzer Christelicher oꝛdnuͤg/vnser gnå=\ndigen herrn von Bern/das soͤlicher alter gloub/by einer\ngoͤttlichen gemeind hie zuͤ Bern an tag gebracht werde/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8023,
+        "semantic_match": "from̃ vnd ſaͤlig machen woͤlle/dahaͤr er dañ wil=\nlig vnnd geneygt ſye aller welt liebs vnnd guͤts\n\t\t\tzethuͤnd\n\n## Marginalien\n[zet...]\n[ye...]\n[all...]\n[g...]\n[in...]\n[lic...]\n[w...]\n[d...]\n[v...]\n[al...]\n[E...]\n[s...]\n[je...]\n[n...]\n[r...]",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -117,7 +130,10 @@
         "op": "only_a",
         "a": "Die ander frag/mit der/der Prouincial den hållen\n        K ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.638,
+        "semantic_match": "das der gloub im hertzen vfgange/ vnnd wil nit\ndeſtweniger das wir mit flyſſigem predigẽ/deß\nvſſerlichen worts/jm darzuͤ dienẽ:",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -125,7 +141,12 @@
         "b": "from̃ vnd ſaͤlig machen woͤlle/dahaͤr er dañ wil=\nlig vnnd geneygt ſye aller welt liebs vnnd guͤts\n\t\t\tzethuͤnd\n\n## Marginalien\n[zet...]\n[ye...]\n[all...]\n[g...]\n[in...]\n[lic...]\n[w...]\n[d...]\n[v...]\n[al...]\n[E...]\n[s...]\n[je...]\n[n...]\n[r...]",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7382,
+    "reworded": 2,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4048,

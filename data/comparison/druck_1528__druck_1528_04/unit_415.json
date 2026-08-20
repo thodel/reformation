@@ -45,7 +45,9 @@
         "op": "match",
         "a": "Schlußred. Våter/mit alleding haben gewuͤßt von vnns menschen\nvff ertrich/in der vozhell: vil mer doch/moͤge sy es wuͤs=\nsen im himmel/Dann wie Johannes schribt im heyligen\nEuangelio/das iſt dz ewig laͤben/das sy dich einige gott\nerkennen:",
         "b": "in der vorhell/ vil mer doch\nmoͤgend ſy es wüſſen im himel: Dann wie Jo-\nhannes ſchrybt im heyligen Euangelio/",
-        "similarity": 0.4179
+        "similarity": 0.4179,
+        "semantic": 0.656,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,19 +59,25 @@
         "op": "match",
         "a": "so sy nun Gott erkennen im himel/wie wolten\nsy nit etliche andre ding erkennen in Christo. Zwinggly. DAs wort Johannis hart den sinn/das diß fuͤre zů\ndem ewigen laͤben/gott erkennen/vnd Jesum Chri\nstum.",
         "b": "Zwingly. Das wort Johannis hat den ſinn/ das diß\nfüre zů dem ewigen låben/ Gott erkennen/ vnd\nJeſum Chriſtum. Was dienet aber das vff die\nSchlußred.",
-        "similarity": 0.4308
+        "similarity": 0.4308,
+        "semantic": 0.8282,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Was dienet aber das vff die schlußred. Gilg Durer\nDEwylder Rich mann. Luce xvj. gebåtten hart in\nder hell/fuͤr die vff ertrich/vil mer soͤllen wir glou=\nben/das die vßerwelten im himmel Gott fuͤr vns bitte\nmoͤgen.",
         "b": "Gilg Murer. Diewyl der Rych man/ Luce xvj. gebåttenn\nhat in der Hell/ für die vff erdtrich/ vil mer ſoͤl-\nlen wir glouben/",
-        "similarity": 0.3582
+        "similarity": 0.3582,
+        "semantic": 0.8195,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Zwinggly. DAs Luce am xvj. der maẞ geschriben. Iſt ein in=\nleytung vñ leer/das die abgescheidnen/vergeb=\nlich Båtten/werden ouch nitt erhoͤrt/ob sy glich\nBåtten:",
         "b": "das die vßerwelten im himmel\nGott für vns bitten moͤgen. Zwingly. Das Luce am xvj. der maß geſchriben/ iſt ein\nynleitung vnd leer/",
-        "similarity": 0.3774
+        "similarity": 0.3774,
+        "semantic": 0.5755,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -81,19 +89,27 @@
         "op": "match",
         "a": "vnd dienet die meinung vns/vnd nit jnen/vnd\niſt ein παραβολή/Gott hat sich selb vorgebildet durch Abra\nham/durch den Lazaru͂/ein yeden/ð vff gott vertruwt\ndan souil vermag צדקתו Cui robur eſt deus.",
         "b": "vñ nit jnẽ/ vnd iſt ein παραβολὴ : Gott hat ſich ſelb vorge-\nbildet durch Abraham/ durch den Lazarũ/ ein ye-\nden/",
-        "similarity": 0.4828
+        "similarity": 0.4828,
+        "semantic": 0.8439,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Durch den rich= Lazuriah. en/die kinder diser welt/vnnd wil anzeygen/das die vff\nGott vertruwt sind/vonn stundan/so sy vß diser zyt\nscheyden in die schoß vnnd froͤud Gottes komen:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7341,
+        "semantic_match": "Die ſechſt\n\nWas wellend jr daruß ſchlieſſen/ das vns vn\nſer vatter Abraham nit bekent hat/ vnd Jſrael. Dꝫ iſt zů verſtan/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "die aber\nnach jren gluͤsten in disem zyt laͤben/werden ewigklich",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7463,
+        "semantic_match": "von der perſon: vñ obs glych\nalſo wåre/ das wir ouch moͤgen zůgeben/ dꝫ die\nalten våtter nit alle ding haben gewüßt von vns\nmenſchẽ vff erdtrich/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -107,7 +123,12 @@
         "b": "tra[gt?]\ncas\nvf\nwe\nV[nd]\nein\nfür\ntri\n\nan\nler\ntod\nſto\nber\nw[as]\nder\ndu",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7434,
+    "reworded": 4,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5118,

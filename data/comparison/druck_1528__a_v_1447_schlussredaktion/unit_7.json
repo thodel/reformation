@@ -45,13 +45,17 @@
         "op": "match",
         "a": "Semnach sind berifft wo:-\nden die von vssern stetten/vßi sind zügegen gsin von Co=\nstentz ein Radtbotschafft vnnd zwen Predicanten/von\nStraßburg die in Actis Benampt sind/Von Augspurg\netlich sundrig personen/Von Vlm/von Memmingen/",
         "b": "worden/ die von ussern Stetten/ vnnd sind zuͦgegen\ngsin von Costantz ein Ratzpotschafft vnnd zwen\npredicanten/ Von Straßburg, Die\ninn actis benampt sind/",
-        "similarity": 0.5246
+        "similarity": 0.5246,
+        "semantic": 0.805,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Von Lindouw/Von Jßnach etlich. Sem allem nach/ ist ein gemein vßriffen Beschehe/ob yemand von andern\nstetten vnnd landen/zugegen wåre/möchteharfür tret=\nren/wurde im statt vnd plats geben.",
         "b": "von Ougspurg ettlich\nsonndrig personen/ von Ulm/ von Memingen\nVon Lindouw/ von Jssnach ettlich/ Dem\nallen nach/ ist ein gemein ussruͤffen beschechen\nob Jemand von anndern Stetten/",
-        "similarity": 0.3051
+        "similarity": 0.3051,
+        "semantic": 0.597,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -63,13 +67,17 @@
         "op": "match",
         "a": "Sü letst sind eruoz=\ndert der statt vnnd landrschaffe Bern/Prelaten/Pfarrer\nvnd all jr geystlich/nach ordnung/vnd die insonders be=\nschriben waren.",
         "b": "Prelaten\npfarrer/ vnnd all ir geistlich/ nach ordnung vnd\ndie insonnders beschriben waren/ Die ouch all\nhaben muͤssen gegenwärtig sin/vnnd biss zu end\nder Disputatz verharren/",
-        "similarity": 0.3462
+        "similarity": 0.3462,
+        "semantic": 0.6934,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Sie ouch all haben müssen gegenwür=\ntig sin/vnd biß zu end der Sisputatz verharren. Es ist ouch zuwissenn/das im anfang eyner yeden\nSession/ein gemeyn gebått beschehen ist/das Hott der\nalmechtig/den rechten waren verstand/sins heyligenn\nworts verlyhen wolte/zc.",
         "b": ".n\nEs ist ouch zuͦ wuͤssen, Das Jm anfang einer\njeden session/ ein gemein gepett beschechen ist/ da\nhett der almechtig/",
-        "similarity": 0.303
+        "similarity": 0.303,
+        "semantic": 0.579,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -81,9 +89,16 @@
         "op": "match",
         "a": "So denn ist zemercken/das dise Disputation vil an=\nrennens erlitten/vnnd das von vilen onderstanden ist/ die zeuerhinderenn/als durch etlich Dit der Eydrgno =\nschafft/die dann ein Missiue zu wider haben lassen vß=\ngan/darüber aber gnügsamlich geantwurt worden ist.",
         "b": "vnd das von vylen\nvnderstanden ist// die ze verhindern/ alls durch\nettlich ort der Eidtgnoßhafft/ die dan ein missiv\nzuo wider haben lassen vßgan/ Daruber aber\ngnuͦgsamlich geantwurt worden/ Wyter\n[M]\n.",
-        "similarity": 0.4054
+        "similarity": 0.4054,
+        "semantic": 0.714,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.6777,
+    "reworded": 2,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4157,

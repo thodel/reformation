@@ -33,37 +33,52 @@
         "op": "only_a",
         "a": "Die fünfft\nherren/ob ſy mit jrem Måßopfer vermeinen den erwel\nten ützit zů helffen/oder nit. Gilg Murer\nWJr gebend antwurt/Das wir nit der meinung\nſind/das wir wellen erfüllen/noch behülflich ſin\ndem lyden Chriſti/ſunders wir vermeine/vns\na lleyn teylhafftig zů machen ſines lydens.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7223,
+        "semantic_match": "und halten ihm für das Lyden ſynes\nSohns / daß uns der Vatter gütiglich zů ihm zühen woͤl-\nle / und woͤllen das nit thůn auß unſerm Gwalt oder ei-\nniger Natur /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Als\nmöcht ich ein Exempel gebenn: Gott der Herr hat ge=\nſchaffen die edle creatur der Sunnen/das ſy erlüchte die\ngantz welt.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.688,
+        "semantic_match": "Noch\nſtaht vnſer Syllogiſmus: Hats Chriſtus alles gethan\nund vollendet / ſo kůnd ihr nüt. Gilg Murer. DAß er ſpricht / Es komme niemand zum Sohn /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Wenn aber einer wåre ynbeschloſſenn in ein\nfinſter huß/wår die Sun̄ nit ſchuldig/ſunders hette vol\nbracht volkomenlich jr ampt/darzů ſy geſchaffen iſt:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6261,
+        "semantic_match": "und halten ihm für das Lyden ſynes\nSohns / daß uns der Vatter gütiglich zů ihm zühen woͤl-\nle / und woͤllen das nit thůn auß unſerm Gwalt oder ei-\nniger Natur /",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "der\nmenſch wåre aber ſchuldig/das er nit vffthåte/damit er\nbelüchter möchte werden. Alſo vermeinen wir hie ouch/ Chriſtus habe gnůg gethan/gantz vnd gar.",
         "b": "376        Die Fünfte Schlußred. schuldig / daß er nit vffſtåte / damit er belüchtet möchte\nwerden. Alſo vermeynen wir hie auch / Chriſtus habe\ngnůg gethan gantß und gar.",
-        "similarity": 0.6154
+        "similarity": 0.6154,
+        "semantic": 0.7979,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wir ſöllen\nvns aber teylhafftig machen/mit dem betrachtlichen opf\nfer der Måß. Butzer\nCHriſtus ſagt: Nieman kumpt zů mir/der vatter\nzüch jnn dann/Johannis vj.",
         "b": "Wir ſoͤllen uns aber theil-\nhafftig machen mit dem betrachtlichen Opffer der Måß. Butzer. Chriſtus ſagt : Niemand komt zů mir /",
-        "similarity": 0.5833
+        "similarity": 0.5833,
+        "semantic": 0.8081,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Darumb werden die\nMåßmacher niemand teylhafftig machen des lydenns\nChriſti/vnd alſo an das gnaden liecht füren. Noch ſtat\nvnſer Silogiſmus:",
         "b": "der Vatter\nzůch ihn dann / Johannis am 6. Darum werden die\nMåßmacher niemand theilhafftig machen deß Lydens\nChriſti / und alſo an das Gnaden-Liecht führen.",
-        "similarity": 0.5217
+        "similarity": 0.5217,
+        "semantic": 0.6003,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -75,7 +90,9 @@
         "op": "match",
         "a": "Hats Chriſtus alles gethan vnnd\nvolendet/ſo tůnd jr nůts. Gilg Durer. DAls er ſpricht/Es kome niemand zum ſun̄/es ſyge\ndann/das jn der vatter züche/Darwider ſind wir\nnit/ſund wir bitten Gott den herren/im ampt der\nheilige Måß/vnd halten jm für das lyden ſines Suns/",
         "b": "es\nſyge dann / daß ihn der Vatter zühe / darwider ſind\nwir nit / ſonder wir bitten Gott den Herren im Ampt der\nheiligen Måß /",
-        "similarity": 0.4595
+        "similarity": 0.4595,
+        "semantic": 0.7916,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -107,7 +124,12 @@
         "b": "Doch ſo iſt auch die ůbung\nder Lehr mitgangen / darum meldet Lucas / Prophe-\nten",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7192,
+    "reworded": 1,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3857,

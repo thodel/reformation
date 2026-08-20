@@ -33,7 +33,9 @@
         "op": "match",
         "a": "Die ander\nBuchstab. [A]Ls herr Marti Butzer hat zuͦgebē/ den Soñ=\ntag vnd zwoͤlffbotten tag vffgesetzt sin wordē\nvon 8 Kilchen/froͤwt mich/wan̄ alles dz/so die\nKilch haltet/vn̄ mit gestracks wider dz gotts wort sichter\nist nit zuͦverwaͤrffen/dan̄ S.",
         "b": "168                    Die ander\n                        Bůchſtab. ALs Herr Marti Butzer hat zügeben / den Sontag\nvnnd Zwölffbotten tag vffgeſetzt ſin worden von der\n    Kilchen /",
-        "similarity": 0.3714
+        "similarity": 0.3714,
+        "semantic": 0.7347,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -45,7 +47,9 @@
         "op": "match",
         "a": "Paulus zuͦ den philippern\nam iiij. also schribt. So jr etwas anders ersinnend/das\nwirt ouch uͦch gott offenbarē/verston ich also/so die Chri\nstenlich Kilch gott dem almechtigen etwas zuͦ Eer vnd\nzuͦ lob/setzt vnd ordnet/das solichs in krafft diser wortē/",
         "b": "dann Sant Paulus zů den Philippern am\n3. alſo ſchribt. So jr etwas anders erſinnend / das wirt\nouch üch Gott offenbaren /",
-        "similarity": 0.4776
+        "similarity": 0.4776,
+        "semantic": 0.6827,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,7 +67,9 @@
         "op": "match",
         "a": "Christenlich beston moͤge/ouch vß dem das er im iiij. cap. der selbigen Epistel/ouch also schribt. Lieben Bruͤder wz\nwarhafft ist/was schambafftig ist/was gerecht ist/was\nheylig oder rein ist/was Billich ist/was eins guͦten luͦmb=\ndens/ist etwan ein tugent/zc.",
         "b": "ouch alſo ſchrybt. Lieben Brüder war-\nhafft iſt / was ſchamhafftig iſt / was gerecht iſt / was heilig\noder rein iſt / was billich iſt /",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.8172,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,13 +81,17 @@
         "op": "match",
         "a": "In krafft diser zweiē spruͤ=\nchen Pauli/Bestond alle guͦten Christenlichen ordnungē/ als vffsatzung der fast tagen/fyrtagen/gesang/ouch lob=\nlich Kruͦtzgaͤng/in welchen geschehen ernstliche gebaͤt/be=\ngerungen/vnnd dancksagungen fuͤr alle menschen.",
         "b": "als\nvffſatzung der Faſttagen / fyrtagen / geſang / ouch loblich\nkrützgång / in welchen geſchehen ernſtliche gebåt / begerun-\ngen / vnnd danckſagungen für alle Menſchen /",
-        "similarity": 0.459
+        "similarity": 0.459,
+        "semantic": 0.5187,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "j. zun\nTimoth. am ij. Martinus Butzer. [W]As sich haltet/lut der zweyen angezogen spruͤch\nnamlich das von gott geoffenbart ist/das war=\nhafftig vnd ersam ist/zc.",
         "b": "1. zun Ti-\nmoth. am 2. Martinus Butzer. WAs ſich haltet / lut der zweien angezogen Sprüch / namlich das von Gott geoffenbart iſt /",
-        "similarity": 0.5769
+        "similarity": 0.5769,
+        "semantic": 0.7696,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -93,15 +103,25 @@
         "op": "match",
         "a": "Das er aber exempels\nwiß inbar zuͦcht von fast tagen/fyrtagē/vn̄ Kruͦtzgaͤngē/ sagen wir/das solich/wie sy bißhar gebrucht/ein zyt/by\neiner tod suͤnd gebotten worden sind/das sy nit von gott\ndem herren/sonder von dem widerchrist vffkomen sind/",
         "b": "das ſöllich / wie ſy bißhar gebrucht / ein zyt / by\n                                                 einer",
-        "similarity": 0.3158
+        "similarity": 0.3158,
+        "semantic": 0.7437,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "vrsach das volck dadurch von Gott dem herren vff die\nnichtigen",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8861,
+        "semantic_match": "verſton ich alſo / ſo die Chriſten-\nlich Kilch Gott dem Allmechtigen etwas zů Eer vnnd zů\nlob / ſetzt vnnd ordnet /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7361,
+    "reworded": 4,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6098,

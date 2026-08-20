@@ -39,7 +39,10 @@
         "op": "only_a",
         "a": "eim yegklichen gleubige/verstendig ist/das Chriftus sye\ndas eynig houpt. Sann das Paulus spricht/zun Ephe\nfern am v.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6697,
+        "semantic_match": "du wirſt fuͤrhin geheyſſen Cephas. Berchtoldus. frommen lieben Chriſten. Es hat der Bicht\nuatter anzeygt / das das houpt nit allein geb dz\nlaͤben",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -51,31 +54,42 @@
         "op": "only_a",
         "a": "fonders allein Christus: vnd ob schon d3 wortly/Linig/ mit worten nit erlütert ist/ so erlürert doch das der Apo\nstel/das Chriftus darum ein houpt sye/das er dz heyl si=\nnem lyb gebe.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7041,
+        "semantic_match": "du wirſt fuͤrhin geheyſſen Cephas. Berchtoldus. frommen lieben Chriſten. Es hat der Bicht\nuatter anzeygt / das das houpt nit allein geb dz\nlaͤben",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Sarum lieber varter/gebend Christo die\neer/vnd lassend in dashoupt blyben/Es sye dann sach/ das jr mit geschrifft bybringent/das einicher creatur fo-\nliche eygenschafft/zügeben mog werden.",
         "b": "Die erſt. ler / vnnd laſſend jn das houpt blyben / Es ſyeͤ\ndann ſach / das jr mit geſchrifft bybringent / das\neynicher creatur ſoͤliche eygeſchafft /",
-        "similarity": 0.5926
+        "similarity": 0.5926,
+        "semantic": 0.7267,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Bycheuatter. Err Berchtold hat mir ein antwurt gen/die er\njm selbs zunoz gen/so vil zu gut/d3 er dancker.",
         "b": "zůgebē moͤg\nwerden. Bichtuatter. Herr Berchtold hatt mir ein antwurt gebē\ndie er jm ſelbs zůuor gebē / ſo vil zů gůt /",
-        "similarity": 0.5581
+        "similarity": 0.5581,
+        "semantic": 0.3826,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Ich bin gentzlich nit darwider/dz Chirstus der\nynfluß vnd dz gnadrych laben/der Kilche sye/von dem\nalle gnad ynflüßet.",
         "b": "das er\ndancket. Jch bin gentzlich nit darwider / dz Chri\nſtus der ynfluß vñ das gnadrych laͤben / dͬ Kilch\nen ſye /",
-        "similarity": 0.4186
+        "similarity": 0.4186,
+        "semantic": 0.7614,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Sas houptstadt nit alleyn off den\nmenschlichen lyb/das jm das låben allein ynfliessen fölle. Es har ouch die Lygenschafft/denlyb zeregieren/in fi=\nnen offeren wercken/vin ibungen.",
         "b": "von dem alle gnad ynflüſſet. Das houpt\nſtadt nit allein vff den menſchlichen lyb / das jm\ndas laͤben allein ynflieſſen ſoͤlle.",
-        "similarity": 0.3462
+        "similarity": 0.3462,
+        "semantic": 0.6869,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -87,13 +101,17 @@
         "op": "match",
         "a": "Sonun Christus sin\nsichtbarlich/lyblich/gegenwürtigkeit/wolt offnemmen\nin den himel/Beducht in gut/ hats ouch than/d3 er fine\neynigen lyb/das ist der heyligen Christenlichen Kilche/",
         "b": "lyplich / gegenwuͤrtigkeyt / wolt\nvffnemmen in den himel / beducht jn gůt / hatts\nouch than / das er ſinen eynigen lyb / das iſt der\nheyligen Chriſtenlichen Kilchen /",
-        "similarity": 0.6415
+        "similarity": 0.6415,
+        "semantic": 0.7548,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "bie offerden satzte/einen/durch den er/als durch sin ver\nordnet gesetzt houpt/vnd Statthalter/regieren welte/ Bij",
         "b": "hie vff erden\nſatzte / einen / durch den er / als durch ſin verord\nnet geſetzt houpt / vñ Statthalter / regieren wel\nte /",
-        "similarity": 0.6154
+        "similarity": 0.6154,
+        "semantic": 0.6592,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -113,7 +131,12 @@
         "b": "du wirſt fuͤrhin geheyſſen Cephas. Berchtoldus. frommen lieben Chriſten. Es hat der Bicht\nuatter anzeygt / das das houpt nit allein geb dz\nlaͤben",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6682,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.375,

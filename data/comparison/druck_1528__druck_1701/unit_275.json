@@ -69,7 +69,9 @@
         "op": "match",
         "a": "Die vierde\nlichs dem glouben vnnd der warheyt wider iſt/Vrsach/ Wir werdend allein in einem geyſt eynig/vnd in einem\nglouben der von dem geyſt kumpt/Aber das lyblich eſ-\nſen des lychnams Chriſti/die einigkeit der Kilchen ma-\nche/das mag mit keiner gſchrifft bybracht werden.",
         "b": "urſach/ Wir\nwerdend allein in einem Geiſt einig / und in einem Glau-\nben / der von dem Geiſt kommt / aber daß das lyblich Eſſen\ndeß Lychnams Chriſti die Einigkeit der Kilchen mache/",
-        "similarity": 0.5063
+        "similarity": 0.5063,
+        "semantic": 0.6732,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -81,13 +83,17 @@
         "op": "match",
         "a": "Sa-\nruß grundtlich ermeſſen wirt/das der heilig Paulus vß\nſinen eygnen worten/ouch vß der krafft der warheit des\ngeyſts bewårt wirt/hie zereden/das die/die einerley zey\nchen miteinandren brůchend/ein Kilchen ſyend.zc.",
         "b": "auch vß der Krafft der Warheit deß\nGeiſtes bewaͤhrt wird / hie zereden / daß die / die einerley\nZeichen mit einandern bruchend /",
-        "similarity": 0.3793
+        "similarity": 0.3793,
+        "semantic": 0.6332,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "wie\nobſtat. Vnnd deßhalb ſållend ſy ſich zů der gmeind vnd\nKilchen der götzen dieneren/nienan fügen noch gſellen. Vnnd wirt hie das vßteylen des lyblichen lybs Chriſti/",
         "b": "ein Kilch ſind / ꝛc. wie\nobſtaht. Und deßhalb ſoͤllend ſy ſich zuͦ der Gemeind und\nKilchen der Goͤtzendienern /",
-        "similarity": 0.375
+        "similarity": 0.375,
+        "semantic": 0.7145,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -99,33 +105,52 @@
         "op": "match",
         "a": "vnder die Kilchen nienan benamſet. Andreas Allchamer\nvon Nürenberg. Paulus in diſen anzognen ſprüchen/in der erſten\nEpiſtel zun Corinthern/am x.",
         "b": "von Nuͤrenberg. PAulus in dieſen angezogenen Spruͤchen / in der\nerſten Epiſtel zun Corinthern am 10. Capitel redt\nLl ij                        von",
-        "similarity": 0.4545
+        "similarity": 0.4545,
+        "semantic": 0.7183,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "capit. redt von\nzweyerley Brot/Von einem geiſtlichen Brot/dz\niſt die Chriſtenlich gemeind in Chriſto/dem låbendigen\nwort erbuwē/die da låbt in frid vñ einigkeit/vñ teylhaff\ntig iſt aller güter Chriſti.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6757,
+        "semantic_match": "und\nſpricht / Daß die Menge ſeye ein Brodt und ein Lychnam/ nit daß ſy einen Lychnam Chriſti geeſſen habind / ſonders\nwie hernach folget /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Vñ von dem Brot des Nacht-\nmals des Herren/dz ſelbig Brechen wir/vñ teilends vß\nden brüdern: das ſelb iſt nit die Kilch oder gmeind/Von\nſolchen ſpricht er:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7809,
+        "semantic_match": "und\nſpricht / Daß die Menge ſeye ein Brodt und ein Lychnam/ nit daß ſy einen Lychnam Chriſti geeſſen habind / ſonders\nwie hernach folget /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Das Brot/das wir brechend/iſt dz nit\ndie gemeinſchafft oder vßteylūg des lybs Chriſti: Das\nander Brot/das die Chriſtenheit iſt/Brechen vnd eſſend\nwir nit:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8139,
+        "semantic_match": "daß wir mit eſſen eines\nLychnams (lyblich) ein Lyb Chriſti werdind : dann ſoͤlichs\ndem Glauben und der Warheit zuͦwider iſt /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "heiſst darumb ein brot/das ſy vonn einem brot\ndes Abentmals vnd Teſtaments Chriſti/nieſſend. Wie\nPaulus",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8143,
+        "semantic_match": "Μετέχομεν, und haben nit mehr das Wort Κοινωνία, vß welcher\nErklaͤrung ich einem jeden Chriſten hoff offenbar ſyn: Daß Paulus nit ſagen woͤll /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.728,
+    "reworded": 3,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3217,

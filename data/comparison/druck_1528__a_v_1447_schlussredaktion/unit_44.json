@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "vmb der warheit gottes willen/ zů beſtåtigung der ver\nheyſſungen/ der våtter/ ich nimen die gloſen vñ vßlegū=\ngen nit an/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6713,
+        "semantic_match": "wust\nwhen\nis werden\nVotre\nChristus\nch vmb\nin\nDj. dan\nis and\nvor\nDienster\nDas\nRhein\ndiener\nIchter\nE\nDie erst Schlußred /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "vnd wil damit beſchloſſen haben/ das ohein\ngeſchrifft harfůr bracht/ damit das ampt des Bapſt=\nthůmbs abgeſtellt/ Acht aber das ander wyter darzů re\nden werden.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6406,
+        "semantic_match": "so wellen ouch wir hiemit beschliessen / vnnd nach der leer pauli \"das urtheyl\" den zuhoͤreren\nvnnd so die acta laͤsen werden /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -63,37 +69,49 @@
         "op": "match",
         "a": "da Chriſtus ein diener der bſchnydung genempt\nwirt/ anzůcht/ der meynung/ wie Chriſtus ouch darby\nder Kirchen houpt ſye/ mõge alſo ouch Petrus bed/",
         "b": "217 / meinung wie Christus ouch daby der Kirchen\nhoupt sye / moͤge allso auch petrus bed / ein\ndiener vnnd houpt der kirchen sin /",
-        "similarity": 0.383
+        "similarity": 0.383,
+        "semantic": 0.9054,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ein\ndiener vnnd houpt der Kirchen ſin/ Diß iſt jm ouch mer\ndann zeuil/ nun lengeſt verantwort. Diewyl ſampt al=\nler geſchrifft/",
         "b": "Daß ist\nIm ouch mer dan zuͦ vill nun lengest  ver // antwurt / Diewyl   sampt aller geschrifft / die erfarung  des glaubens gibt /",
-        "similarity": 0.4186
+        "similarity": 0.4186,
+        "semantic": 0.8927,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "die erfarung des gloubens gibt/ das Chri=\nſtus Jeſus vnſer Herr/ allein den heyligen geyſt geben/ vnnd alſo ſine Kilch recht leren/",
         "b": "Das Christus\nJesus vnnser / her/ allein  den heilligen geist ge// ben / vnnd allso sine kilch recht leren / vnnd\nfuͤren mag /",
-        "similarity": 0.4186
+        "similarity": 0.4186,
+        "semantic": 0.8787,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnnd fůren mag/ dar=\numb er dann allein/ das houpt der Kirchen bekent wer\nden můß/ vonn allen/ die nur ein fůnckle Chriſtenliches\ngloubens ye empfangen habend.",
         "b": "Darumb er dan allein / Das\nhoupt der kirchen bekent werden muͦß von\nallen / die nur ein fuͤnckly / Christenliches  gloubens\nje smofantum empfangen haben /",
-        "similarity": 0.5385
+        "similarity": 0.5385,
+        "semantic": 0.9475,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Das aber der Bycht=\nuatter/ die ſchrifftlich verantwortung/ vff ſine anzogne\nort/ bmeynt nit anzenemen/ gepůrt jm/ nach miner her\ntē Mandat/",
         "b": "das aber der\nbichtvatter / Die schrifftlich verantwurtung / vff sine anzogne ort vermeint nit anzuͦne // men / gepuͤret / Im nach miner herren mandat /",
-        "similarity": 0.6222
+        "similarity": 0.6222,
+        "semantic": 0.9105,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "mit geſchrifft/ warumb ſy nit anzenemen wå\nrind darzethůn. Diewyl aber er anderen/ villicht darzů\nplatz gebē wil/ vñ beſchloſſenhabe/ ſo wõlle ouch wir hie\nmit beſchlieſſen",
         "b": "mit geschrifft/warumb sy nit anzenemen waͤrind\ndarzethuͦn / Diewyl aber er anderen / viellicht darzuͦ platz geben will / vnd beschlossen\nhaben /",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.7721,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -107,7 +125,12 @@
         "b": "befolen haben / vngezweyffelter hoffnung / alle die / so christi\nsind / vnnd sin geist habenn / wellich ouch allein\ngoͤttlich Ding verstan moͤgind / sy werdintt",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8274,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3991,

@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "Die ſibend\ndas da buwen wirt / ſind die das wort hoͤren / vnd annes\nmen.j. Corinth.ip. Sind jr nitt min werck in Gott dem\nherrn /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7036,
+        "semantic_match": "ꝛc. Darum ich hie by dem bloſſen Text\nblyben / ob mir aber ein Gloß wurde nohtduͤrfftͤig ſyn / wurde ich by dero blyben /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Das fhür iſt anfaͤchtung / verfolgung / vñ durch=\nachtung / welche heylſam iſt allen gloͤubige. Zacharie am\nxiij. Ich wird den dritte teyl füren durch das fhür /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6727,
+        "semantic_match": "Berchtoldus. DEr Schuͦlmeiſter klagt ſich einer Gloß / uͤber den\nSpruch Pauli yngefuͤhrt / ſo doch nuͤt anders /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -57,37 +63,52 @@
         "op": "only_a",
         "a": "die ein zytlang glouben / ſo\naber die anfaͤchtung kompt / vñ ſich dz fhür der trübſal\nvñ verfolgūg erhebt / ſo falle ſy dahin /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6844,
+        "semantic_match": "ꝛc. Darum ich hie by dem bloſſen Text\nblyben / ob mir aber ein Gloß wurde nohtduͤrfftͤig ſyn / wurde ich by dero blyben /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "wie holtz vñ ſtuff=\nel von dem fhür: alſo iſt vß dem text Pauli ſelbs / heyter\nvnd klar / das er nitt vom faͤgfůr redt /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6303,
+        "semantic_match": "Berchtoldus. DEr Schuͦlmeiſter klagt ſich einer Gloß / uͤber den\nSpruch Pauli yngefuͤhrt / ſo doch nuͤt anders /",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "ſonder von dem\nfür der veruolgung / vmb der leer willen. Vff den rriiij. tag Jenners\nBůchſtab. [D]Ie gloß über den ſpruch Pauli /",
         "b": "442       Die Sibend Schlußred. Vff den 24. Tag Jenners. Buͦchſtab. DIe Gloß uͤber den Spruch Pauli / geſteren ynge-\nfuͤhrt /",
-        "similarity": 0.3556
+        "similarity": 0.3556,
+        "semantic": 0.6602,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "geſteren vnges\nfürt / nim ich nitt an / wann Paulus hie heyter\nſprichtꝛ. Der tag des herren / wirt das erklaͤren /",
         "b": "nimm ich nit an / wann Paulus hie heiter\nſpricht: Der Tag deß Herren wird das erklaͤren / nun\niſt der Tag deß Herren nuͤt anders /",
-        "similarity": 0.4783
+        "similarity": 0.4783,
+        "semantic": 0.8937,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "nun iſt der tag des herrn / nüt anders / dann der abſcheyd\nvon diſer zyt / von dem Paulus ouch ſagt.j.",
         "b": "dan der Abſcheid\nvon diſer Zyt / von dem Paulus auch ſagt I. Theſſ. 5. Daß der Tag deß Herren werde kommen wie ein Dieb\nin der Nacht /",
-        "similarity": 0.383
+        "similarity": 0.383,
+        "semantic": 0.8289,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Theſſalo. v. Das der tag des herren werde kommen / wie eyn dieb in\ndernacht.zc. Darumb ich hie / by dem bloſſen Text bly=\nben /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6545,
+        "semantic_match": "Berchtoldus. DEr Schuͦlmeiſter klagt ſich einer Gloß / uͤber den\nSpruch Pauli yngefuͤhrt / ſo doch nuͤt anders /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -99,7 +120,9 @@
         "op": "match",
         "a": "ob mir aber ein gloß wurde notürfftig ſin / wurde ich\nby dero blyben / die in dryen teylen der welt / als in Aſia in\nAffrica vnd Europa / ob den tuſent Jaren / gebrucht iſt\nworden. Berchtoldus",
         "b": "die in dreyen Theilen der\nWelt / als in Aſia / in Africa und Europa ob den tuſend\nJahren gebrucht iſt worden.",
-        "similarity": 0.5556
+        "similarity": 0.5556,
+        "semantic": 0.6646,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -137,7 +160,12 @@
         "b": "wie\ner ein Werck Gottes ſeye. So aber der Herz uns beſuͤcht\nmit dem Cruͤtz / ſo werden die Gedancken unſers Hertzens\noffge-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7103,
+    "reworded": 3,
+    "candidates": 5,
+    "recovered_by_embedding": 5,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2889,

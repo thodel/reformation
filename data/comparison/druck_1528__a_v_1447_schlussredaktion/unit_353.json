@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "Die fünffte\nMeyster Vlrich Zwingli. WIr lassend vns vff die erklärung vorgehört / vnd\ngründe der gschrifft angezeygt. Gilg Durer. Als Meyster Vlrich vns geantwurt hat /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.649,
+        "semantic_match": "1\n278\nDie funfte Schlusred\ngidius muur,\nVir dagen nitt, das Christus vnd Melchisedech, In al¬\nlen dingen, glichformig sollen zijn, wie man vns geen\nzusthriben welt, Onnders So der tod, mitt, Melchisedoch\nnitt verglicht mag werden, haben wir ein ander opfer\nbegort zijwussen, vsz der Christ, des nitt besthach¬\nen Ist, vnd damitt beuelchen wir es der Othrift,\nMeister Vlrich Zwingli\nDir lassen uns vff die erklärung vor gehort, vnd\ngrunde der Obrist angezongt.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "zů de\nspruch / Prouerbioꝛum ix. Er sye nit für vnns / vnd gibt ein vßlegung one gschrifft / werdẽ wir\njm nit glouben:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.69,
+        "semantic_match": "gidius murer,\nC\nDas Meister Vlrich vns geandtwurt hat, zu dem\nOpruch prouerbiorum viii. fr gye nitt fur vns\nvnd get.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -57,7 +63,9 @@
         "op": "match",
         "a": "dann es stadt heyter / nacheinandern be\ngriffen: Die wyßheit hat vffgeopffret jre opffer / vñ hat\nvermischt den wyn.zc. In keinem andren opfer beschicht\ndie vermischung des wyns /",
         "b": "ein vflegung aus Xthrift, werden wir Im\nnitt glauben, dann es dat heitter nachemandren be\ngriffen, Die wissheit het ofgeopfoot Ire opfer, vnd\nhat vermischt den win u, In keinem uuren opfer\nbesthicht die vermischung des wuns, dann allein In\nder wask, darumb go muß die wask ein opfer gun¬\nMeister Vlrich Zwingli,\nDir haben de hemmen anderen verstand prouerbiorum\nviii.",
-        "similarity": 0.3371
+        "similarity": 0.3371,
+        "semantic": 0.6807,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -69,13 +77,18 @@
         "op": "match",
         "a": "Prouerbioꝛu͂\nix. anzeygt / dann wie der bůchstab selbs lutet / vnd der sinn vermag / vnd ob glych das selb ort / also můßte verstanden werden /",
         "b": "anjongt, dann wie der buchstab gelbs lutet\nvnd der zum vermag, vnd ob glich dasselb ort,",
-        "similarity": 0.5641
+        "similarity": 0.5641,
+        "semantic": 0.4373,
+        "reading": "check"
       },
       {
         "op": "only_a",
         "a": "wie sy es dargebend / dz\ndoch nit ist / so stadt also: Die Wyßheit hat jre opffer vf\ngeopffret / vnd nit:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6127,
+        "semantic_match": "1\n278\nDie funfte Schlusred\ngidius muur,\nVir dagen nitt, das Christus vnd Melchisedech, In al¬\nlen dingen, glichformig sollen zijn, wie man vns geen\nzusthriben welt, Onnders So der tod, mitt, Melchisedoch\nnitt verglicht mag werden, haben wir ein ander opfer\nbegort zijwussen, vsz der Christ, des nitt besthach¬\nen Ist, vnd damitt beuelchen wir es der Othrift,\nMeister Vlrich Zwingli\nDir lassen uns vff die erklärung vor gehort, vnd\ngrunde der Obrist angezongt.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -87,9 +100,17 @@
         "op": "only_a",
         "a": "wie geant=\nwurt ist / der ist ouch bestättiget durch den heyligẽ Cy=\nprianum / vnd darby laß ichs blyben. Meyster Vlrich Zwingli. Ir thůnd dem Cypriano vnrecht. Bůchstab",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6793,
+        "semantic_match": "gidius murer,\nC\nDas Meister Vlrich vns geandtwurt hat, zu dem\nOpruch prouerbiorum viii. fr gye nitt fur vns\nvnd get.",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.6248,
+    "reworded": 1,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3047,

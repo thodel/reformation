@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Die ander\nRömern xiiij. Bedüre vff die schwache/vnd neme die für\nstarck im gloube/die da alles essend/das Gott erschaffen\nhat:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.703,
+        "semantic_match": "x\nDer vch hort, der hort mich, vnd der vch vorsthmacht,\nder versthmacht mich, Item Mathei am xxiii. vff\ndem Aul Wijsi, Ome gesessen die Chariseer vnd die\nOthreiber, die binden zesamen Schwart.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -45,13 +48,18 @@
         "op": "only_a",
         "a": "Dann ich hab ye nit mer angezogen in ynfürungenn diser\nsprüch/dann das enthaltung oder abbruch der ding da: rinn bestimpt/güt sye/vñ darumb zů ordnung der Kil\nchen/die den heiligen geyst hat/vnnd vff das gotswort\nwol mag zů zyten ordnen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6746,
+        "semantic_match": "x\nDer vch hort, der hort mich, vnd der vch vorsthmacht,\nder versthmacht mich, Item Mathei am xxiii. vff\ndem Aul Wijsi, Ome gesessen die Chariseer vnd die\nOthreiber, die binden zesamen Schwart.",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Sad er aber sagt/mir stand zů\nBewåren/das die Christlich Kilch/ein sul vnd grund der\nwarheit/sölichs zů verbieten hab/Sag ich/das das lan=\ngest bewärrt ist/so bewärt ist/dz die versamlüg der glöu\nbigen/den heylige geyst hat/also krefftigklich/das Chri\nstus spricht/Luc.",
         "b": "wifen\nrege de\n- l'en cois,\nwer m\nane\nwurten\nder andere\nund mij\nan, das ge\nnoch mitt\naben tewe\n& his say\n131\nDie ander Ochlusfred\ndas enthaltung oder abbruch der duyg darinn bestimpt,\ngut bije, vnd darumb zu Ordnung der kelchen, die\nden heiligen geist hat, vnd vff das gotswort wol\nmagt zu zitten ornen, Das Er aber dagt, mir stand\nzu bewaren, das die christlich kilch, fin Sul vnnd\nGrund der warheit, Solichs zu verbieten hab, Oag Ich,\ndas das langost bewijrt ist, so bewiet Ist, das die\nversammlung der gloúbigen, den heiligen geist hat,\nalso kreftenblich, das Christus Opricht Luce am.",
-        "similarity": 0.3871
+        "similarity": 0.3871,
+        "semantic": 0.7204,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,27 +71,40 @@
         "op": "match",
         "a": "x. Der üch hört/der hört mich: vñ der\nüch verschmächt/der verschmächt mich. Jtem Matthei\nam xxiij. Vff dem stůl Moysi/sind gesässen die Phari=\nseer vñ die schryber/die bindend zesamen schwår vñ vn=\ntråglich burdin/legend die vff die schultern der mensche\naber mit jrem minsten finger/bewegen sy die nit/das sy\nsagen/das halten vnd thůnd/aber nach jren wercken söl\nlen jr nit thůn.",
         "b": "und vntreglich\nburdin, legen die, vff die Schultern der monsthen,\nOber mitt Irem minsten finger, bewegen si die\nnitt, Cas si Sagen, das halten vnd tunder, Aber nach\nren wercken sollen Ir nitt tun, Da merck ein Jet:",
-        "similarity": 0.3519
+        "similarity": 0.3519,
+        "semantic": 0.4134,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Da merck ein yetlicher fromer Christ/dz\nChristus vnser herr/dise wort hat geredt zů sinen jünge\nren/die er doch vß dem alten gsatz genomen hat/zů er=\nbuwung der Kilchen in dem nüwen gsatz/vnd sagt jne\ndoch:",
         "b": "licher fromer Christ, das Christus vnser her, dise\nwort het geredt zu Omen Jungern, die Er doch\nvss dem alten gefugt genomen hat, zu erbuwung\nder kilchen fudem nuwen gesagt, vnd sigt fuen\ndoch, die burduien sindt thawr.",
-        "similarity": 0.5385
+        "similarity": 0.5385,
+        "semantic": 0.8068,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Die burdinen sind schwår vnd vntråglich/vnnd\ndie so sy vfflegen/die sagends/vnd tůnd es nit. Er wolts\naber darumb von der ghorsame nit absoluteren/sunders\ner sprach:",
         "b": "vnd vntreglich, vnd\ndie Co Ti vflegen, die Pagens, vnd tuijdes nitt\nEr wolts aber darumb, von der gehorsame nitt absoluie:",
-        "similarity": 0.32
+        "similarity": 0.32,
+        "semantic": 0.6412,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Haltends vnd tůnds. Da ist/als mich bedun\ncket/klarer heyterer text/das die satzungen vñ ordnun=\ngen der Christlichen kilche/billich in demütigkeit sol\nlend angenomen werden/vnnd nach vermögen gehalten\nwerden/",
         "b": "ren, Ounders Er Op rach, haltende und tunde, de\nIst, als mich bedunckt, klarer heitteer text, das die\nPagnijgen und Ordnungen der christlichen kirchen\nbillich In demutikeit, Oollen angenomen werden,\nvnd noch vermogen gehalten werden, verhoff ouch,\ndas die bijwonung Christi, In der heiligen christen: 890",
-        "similarity": 0.4304
+        "similarity": 0.4304,
+        "semantic": 0.7548,
+        "reading": "reworded"
       }
-    ]
+    ],
+    "semantic": 0.6735,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4805,

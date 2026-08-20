@@ -33,61 +33,82 @@
         "op": "match",
         "a": "**Die vierde**\n\nBeuilch ich min red vnd antwurt dargegen/zuͦ fürderuͦg\ndes handels/deßglychen min mithafften/abermals dem\nChristenlichen läser.",
         "b": "330 Die Vierdte Schlußred. ich myn Red / und antwort dargegen / zů Fůrderung\ndeß Handels / deßglychen myne Bitschafften / abermals\ndem Christenlichen Leser.",
-        "similarity": 0.5238
+        "similarity": 0.5238,
+        "semantic": 0.8453,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "**Butzer.✚**\n\nDas thůnd wir ouch. **Pfarrer von Sant Gallen.✚**\n\nVff den dritten artickel des Gloubens/Von dan\nnen er künfftig ist zů richten/über die läbenden\nvnd todten/zc.",
         "b": "Butzer. Das thůnd wir auch. Pfarrer von Sant Gallen. AUf den dritten Artickel deß Glaubens / Von dan-\nnen er künfftig ist zů richten über die Lebenden und\nTodten /",
-        "similarity": 0.807
+        "similarity": 0.807,
+        "semantic": 0.73,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Als dann vormals angezogen\nist/der spruch Pauli. j. Corinth. am xj. capit. Das wir die gedächtnuß des Herren halten sollen/biß\ner kumpt/vn̄ also sin tod verkünden.",
         "b": "ꝛc. alsdann vormals anzogen ist der Spruch\nPauli I. Cor. am eilften Cap. Daß wir die Gedächt-\nnus deß Herren halten sollen /",
-        "similarity": 0.4706
+        "similarity": 0.4706,
+        "semantic": 0.8309,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Daruß zeuerstan\nist/dz wir sollen sölich sin wolthat des lydens/mit Chri\nstenlicher haltung des Nachtmals/biß zů end der welt/",
         "b": "biß er komt / und also syn\nTod verkünden. Daruß zeberstahn ist / daß wir söllen\nsölich syn Wolthat deß Lydens mit Christenlicher Hal-\ntung deß Nachtmahls /",
-        "similarity": 0.3404
+        "similarity": 0.3404,
+        "semantic": 0.7401,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "zů halten mit vnderlassenn: dann Christus im selbs das\nerdtrich vnsichtbarlicher wyß/nit abgeschlage͂ hat/son=\nders/söllend die wort an disem ort/wie ouch Acto.",
         "b": "biß zů End der Welt / zů halten\nnit underlassen: dann Christus ihm selbs das Erdrich\nunsichtbarlicher wyß nit abgeschlagen hat /",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.8561,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "j. cap. von einer herlichen gwaltigen zůkunfft/vnd sichtbarli=\ncher eroffnung verstanden werden/als ein richter/der lä\nbendigen vnd todten.",
         "b": "sonders söl-\nlend die Wort an disem ort / wie auch Actor. am I. Cap. von einer herzlichen gewaltigen Zůkunfft und sichtbarli-\ncher Eroffnung verstanden werden /",
-        "similarity": 0.4783
+        "similarity": 0.4783,
+        "semantic": 0.7043,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "So er doch sagt/Matthei am let=\nsten cap. Jch bin by üch biß an das end der welt. Sarge\ngen aber die gschrifft meldet:",
         "b": "als ein Richter der\nLebendigen und der Todten: so er doch sagt Matthei\nam letsten Cap. Jch bin by euch biß an das End der\nWelt.",
-        "similarity": 0.6275
+        "similarity": 0.6275,
+        "semantic": 0.6414,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Sie armen habend jr all=\nweg by üch/mich werdend jr aber nit allweg haben. Jst\nalso zeuerstan/wie solichs entscheydet/Paulus.",
         "b": "Dargegen aber die Geschrifft meldet: Die Ar-\nmen habend ihr allweg by euch / mich werdend ihr aber\nnit allweg haben.",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.6817,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "ij. Cor. v\ncapitel: Vnnd so wir Jesum erkennen/thůnd wir doch\nsölichs nit nach dem fleisch. Welches allein vff die vsser=\nlichen sichtbarlichen Bywonung zeuerstan ist:",
         "b": "Jst also zeberstahn / wie sölichs ent-\nscheidet Paulus 2. Cor. am 5. Cap. Und so wir Je-\nsum erkennen/thůnd wir doch sölichs nit nach dem fleisch.",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.6775,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "dan̄ wir ye\nChristum suster nach gemeinem gloube/vnsern mitbrů\nder im fleysch gelitten haben/vnd vns erlöst/Bekennen. Also",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7822,
+        "semantic_match": "Welches allein vff die vsserlichen sichtbarlichen Bywoh-\nnung zeberstahn ist: dann wir je Christum suber nach\ngemei-",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -95,7 +116,12 @@
         "b": "Welches allein vff die vsserlichen sichtbarlichen Bywoh-\nnung zeberstahn ist: dann wir je Christum suber nach\ngemei-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.749,
+    "reworded": 6,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6342,

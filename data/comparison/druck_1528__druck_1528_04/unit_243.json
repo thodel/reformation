@@ -57,13 +57,18 @@
         "op": "match",
         "a": "die anzeygend die gegenwürtig geschicht/ Die\nwort Pauli in der j. Epi. zum Corinth. xj. cap. zeigend gnuͦgsam an die vßgangnen geschicht.",
         "b": "capitel die anzey=\ngend das kuͤnfftig. Die wort Chriſti / Luce am\nxxij. die anzeygend die gegenwuͤrtig geſchicht/ Die wort Pauli in der erſten Epiſt.",
-        "similarity": 0.3673
+        "similarity": 0.3673,
+        "semantic": 0.6694,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Nun ist dz\nkünfftig/ das gegenwürtig/ vnd das vergangē/ wie her\nnach wyter anzeigt wirt/ einandren glychförmig/ daruͤb\nes sonderer gloß nit mer bedarff.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6307,
+        "semantic_match": "Die vierdt\n\nvon vnns erſuͤcht werden/ als das laͤbenhafftig\nbrot/das vnns krefftigklich ſpyſet/ſo wir erken\nnend /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -75,13 +80,17 @@
         "op": "match",
         "a": "Dz aber min herr Do=\nctor spricht/ das ich hab haryn gefuͤrt die Doctores/ hab\nich kein spruch vß jnen haryn gefuͤrt.",
         "b": "darumb es\nſonderer gloß nit mer bedarff. Dz aber min herr\nDoctor ſpricht/ dz ich hab herin gefuͤrt die Do=\nctores /",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.9033,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Als aber herr Bu=\ntzer in vergangnen tagen/ har haryn gefuͤrt/ Eusebium\nvnd Augustinum/ daby laß ichs blyben yezmal/",
         "b": "hab ich kein ſpruch vß jnen herin gefuͤrt. Als aber herr Butzer in vergangen tagen / hatt\nherin gefuͤrt /",
-        "similarity": 0.35
+        "similarity": 0.35,
+        "semantic": 0.4219,
+        "reading": "different"
       },
       {
         "op": "only_a",
@@ -93,7 +102,9 @@
         "op": "match",
         "a": "etlicher falsche glosen/ so von vns ge\nschechē sind: wir warten wie er die mit der schrift\nvmbstoffe. Sin ander red sind durch Meister Vlrich ab=\ngeleinet.",
         "b": "Euſebium vnd Auguſtinũ / daby\nlaß ichs blyben yetzmal/ uͤber das Johannis am\nvj.capitel. Ecolampadius. Es hat der Schuͦlmeyſter vnder andren maͤl=\ndung gethon/etlicher falſchẽ gloſen/ſo von vns\ngeſchehen ſind:wir warten wie er die mit der ge\nſchrifft vm̃ſtoſſe.",
-        "similarity": 0.3836
+        "similarity": 0.3836,
+        "semantic": 0.6547,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -105,7 +116,10 @@
         "op": "only_a",
         "a": "Was ich in minem buͤchlin\nhab lassen vßgan/ wil ich mit der warheit dar=\nbringen. ff ij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7559,
+        "semantic_match": "Jr wuͤſſend wol/ das wir yetzund nit von wegen der Leerer ver=\nſamlet ſind. Buͦchſtab. Die wort Johannis am vj.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -113,7 +127,12 @@
         "b": "Sin ande red ſind durch mey=\nſter Vlrich abgeleinet. Buͦchſtab\n\n## Marginalien\nHieuor am\n35. 36. 108\nblat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6726,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4977,

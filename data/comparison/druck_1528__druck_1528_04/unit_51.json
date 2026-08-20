@@ -33,7 +33,9 @@
         "op": "match",
         "a": "Schlußred. XVIII\ndas wortly/in/als vil als eintzig: dann nieman wirt\njme ein nåbend Gort bekennen. Also ist ouch hie niemat\nnåbend Christo/derdas thün möge.",
         "b": "Die erſt\nEinzig/vn̄ gillt aber denneſt das wỏrtly/Ein/ als vil als Einzig : dann niemand wirdt jm ein\nnåbend Gott bekennen.",
-        "similarity": 0.3673
+        "similarity": 0.3673,
+        "semantic": 0.7255,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -45,45 +47,65 @@
         "op": "match",
         "a": "Sarumb er von\nPaulo/ein houpt genempt wirt/darum ist er ein eintzig\nhoupt. Wyterdes würtlins halb/gschrifft vo:schen/ift\nwellenn/offenlich ein wort zanck/wider vnser gnadigen\nHerrn von Bernn Mandat ynfüren/das gib ich vnseren\nwirdigen hern den Presidenten/zü erkennen/vnnd der\ngantzen gemeynd gottes/hie verſamlet.",
         "b": "Wyter des wỏrtlins halb/ gſchrifft vorſchen/iſt wellen/ offenlich ein wort=\nzanck/wider vnſer gnedigen herrn von Bernn\nMandat ynfůren/das gib ich vnſern wirdigen\nherren den Preſidenten zů erkennen/vn̄ der gan\ntzen gemeynd Gottes/hie verſamlet.",
-        "similarity": 0.5843
+        "similarity": 0.5843,
+        "semantic": 0.7899,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Bichuatter. Err Martin ſagt/zum letsten/ich kempff mit\nworten/Sarzu sag ich/es ist ein anders kempf-\nfen mit worten/vnnd ein anders kempffen mit\ndé wort Gottes.",
         "b": "Bychtuatter. Herr Marti ſagt zum letſtē/ich kempffe mit\nwortē/Darzů ſag ich/es iſt ein anders kempffen\nmit worten/vnnd ein anders kempffen mit dem\nwort Gottes.",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.8273,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Die text all die herr Marti harbracht\nhat/saged von eim mitler/jch red doch nit von eim mit=\nler/die conclusio lutet ouch nit daruon/sy lutet von eym\nhoupt/zwischend dem lyb/nit mittler.",
         "b": "Die text all/die herr Marti har=\nbracht hat/ſagend von eim mittler : jch red doch\nnit von eim mittler/die concluſio lutet ouch nit\ndaruon:ſy lutet von eim houpt/zwiſchend dem\nlyb/nit mittler.",
-        "similarity": 0.8333
+        "similarity": 0.8333,
+        "semantic": 0.965,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Ich han gestern\nzügelassen/vnnd laß noch zu/das Christus vnserheyl=\nland sye/ ein houpt der gantzen Christenbeit/hatt aber\nder regierung halb ein ſtatthalter gesetzt/mit den kreff=\ntigen worten/Weyd mine schaffly.",
         "b": "Jch han geſtern zůgelaſſen/vnd\nlaß noch zů/das Chriſtus vnſer heylland ſye/ein\nhoupt der gantzen chriſtenheit/hat aber der re=\ngierung halb ein ſtatthalter geſetzt/mit den kreff\ntigen wortē/Weyd mine ſchåffly.",
-        "similarity": 0.7536
+        "similarity": 0.7536,
+        "semantic": 0.8322,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Ich han nåchtest ge=\nseyt/ich well damit beschlossen ban/wen mit allen spri=\nchen die harbracht sind/der dienstbarkeyt halb/wirt pe\n220 der gewallt/der jm vonn Christo gebenn/über die\nschaaff/nüt abbrochen.",
         "b": "Jch han nåch\ntig geſagt/ich well damit beſchloſſen habē/dañ\nmit allen ſprůchen die harbracht ſind/der dienſt=\nbarkeit halb/wirt Petro der gewallt/der jm von\nChriſto geben/ůber die ſchaaff/nůt abbꝛochenn.",
-        "similarity": 0.6197
+        "similarity": 0.6197,
+        "semantic": 0.8311,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wenn machte die dienstbarkeit\ndas eyner darumb nit ein Oberer/Regierer/oder houpt\nmöchte genempt werden/wie geschache dan dem spruch\nzun Rhomeren/amyv.",
         "b": "Dañ machte die Dienſtbarkeit/das einer darum̃\nnit ein Oberer/Regierer/oder houpt mỏchte ge\nnempt",
-        "similarity": 0.55
+        "similarity": 0.55,
+        "semantic": 0.7129,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Capitel/ Sa Paulus spricht/ Sas Jesus Christus ist gſin ein diener der schnydung/ 进门",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6449,
+        "semantic_match": "Alſo iſt ouch hie niemāt\nnåbend Chriſto/der das thůn mỏge. Darum̃ er\nvon Paulo ein houpt genempt wirt/darumb iſt\ner ein einzig houpt.",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7911,
+    "reworded": 1,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6708,

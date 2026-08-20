@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "Die erſt\ngewalt iſt ein gewalt gſin/die wyl die Chriſtenheyt hatt\ngewert/darumb ſoll es niemand widerſprechen/er hette\ndann heyttere klare gſchrifft darwider.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.63,
+        "semantic_match": "Wenn nun ein Gewalt ſoll\nſyn / der weltlich / ſo hätte Paulus der Red nüt bedörffen. Berchtoldus. Liebe / fromme Chriſten / der Antwort halb re-\nferier ich mich zun Acta /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -45,7 +48,9 @@
         "op": "match",
         "a": "Capi. Jederman ſig vnderthänig der oberkeyt/zc. Vnd ward\nſöllicher text verleſen. Gillg Durer+\nPaulus zun Römern. Nimpt nůr vß/er ſpricht\naller gewalt iſt von gott/vnd das er nit alleyn\ngemeynt hab/den weltlichen gewalt/bezüglich\nvß den vorgenden wortē Pauli/ſo er ſpricht/ein yegliche\nſeel/ſoll gehorſam ſin den hochen gewalten/wenn nun ein\ngewalt ſoll ſin/der weltlich/ſo hette Paulus der red nůr\ndörffen.",
         "b": "142\t\tDie Erſte Schlußred. Gilg Murer. PAulus zun Römern / nimt nüt vß / er ſpricht / aller\nGewalt iſt von Gott / und daß er nit allein gemeynt\nhab den weltlichen Gewalt /",
-        "similarity": 0.3838
+        "similarity": 0.3838,
+        "semantic": 0.7769,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -69,13 +74,17 @@
         "op": "match",
         "a": "Jezt ordenlich verläſen/darzů ſo\nthůnd jr der gſchrifft gewalt/dann Paulus hie von der\nweltlichen oberkeit redt. Gillg+\nDas Paulus zun Römern am xiij.",
         "b": "und vff den klaren\nText Pauli am 13. jetzt ordenlich verleſen: Dar-\nzů ſo thůnd ihr der Geſchrifft Gewalt / dann Pau-\nlus hie von der weltlichen Oberkeit redt.",
-        "similarity": 0.4528
+        "similarity": 0.4528,
+        "semantic": 0.7799,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Cap. Nit allein\ngeredt hab/von dem weltlichen gewalt/iſt offenbar\ngnůg",
         "b": "Gilg. DAß Paulus zun Römern am 13. Cap. nit allein ge-\nredt hab von dem weltlichen Gewalt / iſt offenbar\ngnůg /",
-        "similarity": 0.6875
+        "similarity": 0.6875,
+        "semantic": 0.5961,
+        "reading": "check"
       },
       {
         "op": "only_b",
@@ -101,7 +110,12 @@
         "b": "nach Verſtand der Geſchrifft / welcher\nGewalt\n\n## Marginalien\nSuch\nhievor\nam 17. 18. 19. 21. 26. 27. 28. 29. 30. 36. und 37. blat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6957,
+    "reworded": 2,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4038,

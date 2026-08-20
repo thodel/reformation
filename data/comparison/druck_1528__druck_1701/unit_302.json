@@ -63,7 +63,9 @@
         "op": "match",
         "a": "Schlußred\nhabed/Es waͤr sunst manchem übel gesagt/der ſöliches\ntrosts beroubt waͤre. Das sol ouch hie vermerckt wer=\nden/das vnsere ſünd vnns vergeben sind/als das blüt\nChristi am crütz vßgossen:",
         "b": "der ſoͤliches Troſts beraubet waͤre. Das ſoll auch hie vermerckt werden / daß unſere Suͤnd\nvns vergeben ſind /",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.8661,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,25 +77,33 @@
         "op": "match",
         "a": "vnd dahin sol sich vnser gloub\nwenden. Wir wüssend wol/daß das blüt vnsers Her=\nren Jhesu Christi wirdig ist/ouch da Christus noch ein\nkind was/vnd beschnitten ward.",
         "b": "daß das Bluͤt unſers Herren Jeſu Chri-\nſti wuͤrdig iſt / auch da Chriſtus noch ein Kind was/und\nbeſchnitten ward.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.8477,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Aber das blüt vergies\nsen Christi in siner kindtheyt/in der Bschnydung/ist nit\ndahin verordnet worden/vnser conscientz gar zů versi=\ncheren.",
         "b": "Aber das bluͤtvergieſſen Chriſti in ſy-\nner Kindheit / in der Beſchnydung / iſt nit dahin ver-\nordnet worden / unſer Conſcientz gar zuͤ verſichern.",
-        "similarity": 0.6087
+        "similarity": 0.6087,
+        "semantic": 0.5437,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "Also ouch in dem Nachtmal/ob schon das blüt da\nwaͤre wåsenlich (Das ich nit red) so ist es doch dahin nitt\nverordnet von Gott/sonder an dem crütz:",
         "b": "Al-\nſo auch in dem Nachtmahl / obſchon das Bluͤt da waͤre\nwaͤſenclich (das ich nit red) ſo iſt es doch dahin nit verord-\nnet von Gott /",
-        "similarity": 0.5763
+        "similarity": 0.5763,
+        "semantic": 0.931,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dann wir ha=\nbend/Johannjs am dritten cap. da der Herr von dem\nGloubenn redt zů Nicodemo/Da bringt er yn die figur\ndes erhöchten Eͤrinen schlangen in der wůste:",
         "b": "ſonder an dem Cruͤtz: dann wir habend\nJohannis am 3. Cap. da der Herr von dem Glauben\nredt zuͤ Nicodemo /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7968,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -105,13 +115,18 @@
         "op": "match",
         "a": "offenbaret\nvns da den heymlichen radt Gottes/wie durch dz wort\ndes crütz/wir das låben vnd erlösung erlangend. Dar=\nzů vil gschrifft gefürt möchten werden/als zun Colossen\nfern ij.",
         "b": "wie durch das Wort\ndeß Cruͤtzes wir das Leben und Erloͤſung erlangend. Darzuͤ vil Geſchrifft gefuͤhrt moͤchten werden / als zun\nColoſ-",
-        "similarity": 0.3929
+        "similarity": 0.3929,
+        "semantic": 0.7368,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "capit. Das vnsere sünd gehefft sind an das crütz\nvnd anderen orten. Vnnd diewyl aber das Testament/ allein in dem tod erfüllt wirdt/wie es klarlich stadt zůn\nHebreern/so gibt vns die natürliche\nvßlegung/so es stadt:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6178,
+        "semantic_match": "am 6. Cap. vßleit: Wenn wir durch den Geiſt Chriſti\ndas Vertrauen in Chriſtum habend/es waͤre ſonſt man-\nchem uͤbel geſagt /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -123,15 +138,26 @@
         "op": "only_a",
         "a": "was trosts wir empfachen söllend von dem lyden vnsers\nHerren Jesu Christi. Vnd ist kein nüws/das man den\npundt od das Testament nempt/ein zeychẽ des punds/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7454,
+        "semantic_match": "als das Bluͤt Chriſti am Cruͤtz ver-\ngoſſen: und dahin ſoll ſich unſer Glaub wenden. Wir\nwuͤſſend wol /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "oder Testaments/wie dann das klarlich/Genesis xvij. capitel/schynbar ist: Vnd ich wird setzen min pundtnus\nDo",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7189,
+        "semantic_match": "am 6. Cap. vßleit: Wenn wir durch den Geiſt Chriſti\ndas Vertrauen in Chriſtum habend/es waͤre ſonſt man-\nchem uͤbel geſagt /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.756,
+    "reworded": 2,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3615,

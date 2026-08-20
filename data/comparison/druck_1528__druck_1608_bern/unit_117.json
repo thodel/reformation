@@ -51,49 +51,67 @@
         "op": "match",
         "a": "**Schlußred\nAm eindlifften tag Jenners.**\n\n**Pfarrer.**\n\nI N dinem namē herr Jeſu Chriſte/Amen. From\nmen Chriſten als ich hab meiſter Vlrich Zwing\nly gefraget/",
         "b": "Am eindlifften tag Jenners. Pfarrer. JN dinem Namen Herr Jeſu Chriſte / Amen. From=\nmen Chriſten / als ich hab Meiſter Vlrich Zwingly\ngefragt /",
-        "similarity": 0.766
+        "similarity": 0.766,
+        "semantic": 0.8856,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "mit ſinem byſpil vnnd exempel des\nfenſters halb von den zweyen liechtern / ſo hat er geant=\nwurt/ er hab das nit anzogen/",
         "b": "mit ſinem byſpil vnnd exempel deß Fenſters\nhalb von den zweyen Liechtern/ſo hat er geantwurt / er hab\ndas nit anzogen /",
-        "similarity": 0.8837
+        "similarity": 0.8837,
+        "semantic": 0.8675,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das er daruß vff das göt=\nlich wort gründen welle/ darnach ein groß geſchrey vnd\npomp/ als ob ich ſiner meynung zügefallen wåre/",
         "b": "das er daruß vff das Goͤttlich Wort\ngruͤnden welle / darnach ein groß geſchrey vnnd pomp/als\nob ich ſiner meinung zuͦgefallen waͤre/mein ich ſoͤllichs wer=\nde ſich nit erfinden by den Acten /",
-        "similarity": 0.5246
+        "similarity": 0.5246,
+        "semantic": 0.7466,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "meyn\nich ſöllichs werde ſich nitt erfinden/ by den Acten/ ſo ich\nGott erkenn mynen erlöſer/ vnnd der welt/ als all from\nChriſten ſöllen thůn/",
         "b": "ſo ich Gott erken mynen\nErloͤſer/vnd der Welt/als all fromm Chriſten ſoͤllen thuͦn/ ſoͤllichs hab ich gethon vnnd gelert/",
-        "similarity": 0.36
+        "similarity": 0.36,
+        "semantic": 0.8001,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "ſöllichs hab ich gethon vnd gelert/ ee vnd ich meyſter Vlrich Zwingli ye erkent hab/ dar=\nby nūt deeſter minder ein geyſtlicher gewalt/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6985,
+        "semantic_match": "nach keinem\nanderen liecht/nach keinem anderen troſt. Darby ich wol\nvermercken mag / das by jm aller Creaturen troſt ſchnoͤd\nſind/Ja in ſumma/darumb ſag ich Gott lob vnd danck.",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "nachgelas=\nſen vff erd/ wie ich dann das klarlich anzeygt hab/ mitt\ngötlicher geſchrifft/ ſoll ſich erfinden by den Notarien/",
         "b": "ee vnd ich Meiſter Vl=\nrich Zwingly ie erkent hab / darby nuͤtdeesterminder ein\ngeiſtlicher gewalt nachgelaſſen vff Erd / wie ich dann das\nklarlich anzeigt hab/mit Goͤttlicher Geſchrifft/",
-        "similarity": 0.36
+        "similarity": 0.36,
+        "semantic": 0.7146,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnnd Proteſtier mich hie vor einer ganzen erſamen ge=\nmeind/ das ich meyſter Vlrichs Zwingli glouben/ noch\nſiner leer/ nit anhengig/",
         "b": "ſoll ſich er=\nfi den by den Notarien / vnd Proteſtier mich hie vor einer\ngantzen erſamen Gemeind / das ich Meiſter Vlrichs\nZwin=",
-        "similarity": 0.4186
+        "similarity": 0.4186,
+        "semantic": 0.534,
+        "reading": "different"
       },
       {
         "op": "only_a",
         "a": "noch ſin wil/ ſonders by eynigkeit\nChriſtenlicher Kilchen/ vnd löblichen harkomen/ belibē\nwil/ vñ ob es die not eruorderen wurd/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8298,
+        "semantic_match": "IIo    Die erſt\nrechtem warem glouben geredt / ſo wirt der Pfarrer kei=\nnem Houpt/keinem Behalter/keinem Liecht/keinem ande=\nren Vatter /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -105,9 +123,17 @@
         "op": "only_a",
         "a": "er erkenne gott den her=\nren Jeſum Chriſtum ſynen behalter/ vnnd der ganzen\nwelt/ Bezüg ich mich das ich den glouben ouch hab/ vnd\nN iij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7663,
+        "semantic_match": "IIo    Die erſt\nrechtem warem glouben geredt / ſo wirt der Pfarrer kei=\nnem Houpt/keinem Behalter/keinem Liecht/keinem ande=\nren Vatter /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7603,
+    "reworded": 2,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4387,

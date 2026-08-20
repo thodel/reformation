@@ -33,19 +33,25 @@
         "op": "match",
         "a": "Schlußred. S II\nlůchten ſoͤlle vor den Menſchen / erkennen wir : das die\njungen deß Liechts ringer verfaͤlen/ weder die alten/laſſen\nwir aber nach :",
         "b": "Schlußred. LII\n\nlüchten sölle vor den Menschen / erkennett wir : das die\njungen deß Liechts ringer verfälen/ weder die alten/ laſſen\nwir aber nach:",
-        "similarity": 0.7755
+        "similarity": 0.7755,
+        "semantic": 0.9295,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "das dient aber nit / daß der Biſchoff da-\nrumb nit ſoͤlle ein Wyb haben/ſonder er ſye jung oder alt/",
         "b": "das dient aber nit / daß der Bischoff da-\nrumb nit sölle ein Wyb haben/ sonder er sye jung oder alt/",
-        "similarity": 0.9268
+        "similarity": 0.9268,
+        "semantic": 0.9829,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "ſo er die Biſchofflichen ſitten oder gaben hat/mag er dar-\nzů erwelt werden. Hieriñ aber ſchirmpt den Biſchoff/er\nſye jung oder alt/vor allem argwon/ein eygen Wyb haben/",
         "b": "so er die Bischofflichen sitten oder gaben hat/ mag er dar-\nzů erwelt werden. Hieriñ aber schirmpft den Bischoff/ er\nsye jung oder alt/",
-        "similarity": 0.8364
+        "similarity": 0.8364,
+        "semantic": 0.942,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -57,19 +63,25 @@
         "op": "match",
         "a": "ſo laſſen vns nit witziger ſyn weder Gott. Vnd ſo der die\nEe Biſchoffen erloubt/binde die niemand an. Ee verbieten\nſye vß dem gwalt der Tůfflen/doch allein als die Marcio-\nniten vnd Tacioniten verbotten haben/ſtritet wider den\nSpruch Pauli.",
         "b": "binde die niemand an. Ee verbieten\nsye vß dem gwalt der Tüfflen/ doch allein als die Marcio-\nniten vnd Tacioniten verbotten haben/",
-        "similarity": 0.6875
+        "similarity": 0.6875,
+        "semantic": 0.6736,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "1. Timothei 4. Dann Paulus daſelbs vß-\ntruckenlich redt. Es werden in nachkomēnden zyten / etlich\nvom Glouben tretten/die werden die Ee vnd ſpyß verbie-\nten.",
         "b": "stritet wider den\nSpruch Pauli. 1. Timothei 4. Dann Paulus daselbs vß-\ntruckenlich redt. Es werden in nachkom̃enden zyten /",
-        "similarity": 0.5652
+        "similarity": 0.5652,
+        "semantic": 0.8711,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "So nun die/ ſo die Ee verbieten/vom Glouben tret-\nten/ſo volget/ das alle/die ſy verbieten/vß dem Tůffel ſyen.",
         "b": "etlich\nvom Glouben tretten/ die werden die Ee vnd spysz verbie-\nten. So nun die/ so die Ee verbieten/ vom Glouben tret-\nten/",
-        "similarity": 0.4889
+        "similarity": 0.4889,
+        "semantic": 0.8376,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -81,27 +93,40 @@
         "op": "match",
         "a": "Das aber hie geredt wirt/wir machen vns ſelbs die Ee ver-\nbotten/iſt vor gnůg angezeigt/daß wir Gott nit verheiſſen\nſoͤllen/daß er vns nit geben wil:",
         "b": "ist vor gnůg angezeigt/ daß wir Gott nit verheiſſen\nsöllen/ daß er vns nit geben wil: vnd wo aber das geschicht/",
-        "similarity": 0.5882
+        "similarity": 0.5882,
+        "semantic": 0.7748,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd wo aber das geſchicht/ das es wie vorgeſagt / ein vermenſſenheit iſt/nit ein gehor-\nſame oder gloub/dañ wo gloub iſt/da iſt die hoͤchſte pflicht/",
         "b": "das es wie vorgesagt / ein vermenssenheit ist/ nit ein gehor-\nsame oder gloub/ dañ wo gloub ist/ da ist die höchste pflicht/",
-        "similarity": 0.84
+        "similarity": 0.84,
+        "semantic": 0.9432,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "wo man ſunſt geluͤbde thůt/iſt ein gwuͤß zeichen/das gloub\nda nit iſt. Bůchſtab. ES iſt klar das Ananias nit gehalten hat/ſonſt waͤre\ner nit gaͤchlingen geſtorben.",
         "b": "wo man sunst gelübde thůt/ ist ein gwüß zeichen/ das gloub\nda nit ist. Bůchstab. ES ist klar das Ananias nit gehalten hat/",
-        "similarity": 0.75
+        "similarity": 0.75,
+        "semantic": 0.8902,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Der Kuͤſchheit halb wirt\nniemand abgeſchlagen/ſo Sanctus Paulus ſpricht.",
         "b": "sonst wäre\ner nit gächlingen gestorben. Der Küschheit halb wirt\nniemand abgeschlagen/ so Sanctus Paulus spricht.",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.89,
+        "reading": "same"
       }
-    ]
+    ],
+    "semantic": 0.8735,
+    "reworded": 1,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.9208,

@@ -33,13 +33,17 @@
         "op": "match",
         "a": "Schlußred. CXII\n\nmentlich Brot/vnd das an den oꝛten/da ſy das Nacht=\nmal beſchryben: dann diß nützit anders iſt/weder bewä\nren/ein yedes durch ſich ſelbs (idem per ſeipſum probare) Vnſer\nſpan iſt/ob die woꝛt/Das iſt min lychnam/müſſend wä=\nſenlich vnnd ſubſtantzlich verſtanden werden.",
         "b": "244\t\tDie vierdt\ndas an den orten/ da sy das Nachtmal beschryben: dann diß\nnützit anders ist/weder bewären / ein jedes durch sich selbs\n(Idem per seipsum probare) Vnser Span ist/ob die wort/",
-        "similarity": 0.6265
+        "similarity": 0.6265,
+        "semantic": 0.8104,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Vnnd ſo\nvnſer widerparth by den ſelbe woꝛtē (als ich wol denck)\nnit beſtaan mag/ſo ſüchet ſy ein woꝛt der verheyſſung/",
         "b": "Das ist myn Lychnam / müsend wäsenlich vnnd sub-\nstantzlich verstanden werden. Vnd so vnser Widerparth\nby den selben worten (als ich wol denck) nit bestaan mag/",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.5785,
+        "reading": "check"
       },
       {
         "op": "only_b",
@@ -51,7 +55,9 @@
         "op": "match",
         "a": "da aber kein verheyſſung iſt/des Sacraments/von dem\nder ſpan iſt. Vnnd ſo ſy das ſelb oꝛt bewären ſöllend/ein\nverheyſſung ſin/ſo wellend ſy es bewären mit den woꝛ=\ntenn/denen ſy diſe zehil",
         "b": "Vnd so sy\ndasselb Ort bewären söllend / ein verheissung syn/ so wel-\nlend sy es bewären mit den worten/ denen sy dise zehilff ge-\nnommen hattend /",
-        "similarity": 0.4516
+        "similarity": 0.4516,
+        "semantic": 0.7113,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -95,7 +101,12 @@
         "b": "im Geist vnd glouben genossen. Wir habend ouch alles Capitel mit allen besonderen Stu-\ncken",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7001,
+    "reworded": 1,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3892,

@@ -33,19 +33,27 @@
         "op": "only_a",
         "a": "Die erſt\nlaß daby ein yeden Chriſten/dz vrteyl wie ſich des pfar=\nrers red/der warheyt vnd dem geſtrigen veriechen ver=\ngliche vnnd veranlaß mich vff ſine wort /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7825,
+        "semantic_match": "wider den rechten verſtand deß heiligen Gottes\nWorts / vnd ob mir das begegnete (da Gott vor ſy) ſo wil ich\nes jetz widerruͤfft habé /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "die von den\nſchriberen in die Acta verfaſſet ſind/zc. Meyſter Niclaus Chriſten\nSenger von Zoffingen. IN dem namen vnſers lieben herrn Jeſu Chriſti\nverlich vns gott der hímeliſch vatter/durch die\ngnad gotts des heilige geiſts/ware/rechte/Chri\nſtenlich erkantnus ſines heyligen worts/vnd goͤttlicher\ngeſchrifft/Erwürdig/großmechtig/Edel/veſt/fürſich\ntig/wyß/lieben /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7568,
+        "semantic_match": "ich bitt aber uͤch all min Herrn vnnd frommen\nChriſten / wie jr hie verſamlet ſind / durch Gottes willen / was meinung dann jeder ſy /",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "gnedigen Herrn / vnnd gůten fründ\nouch fromen/biderben Chriſte wie je hie verſamlet ſind/ vnberkantnus goͤttlicher warheyt / wiewol iſt das ich\nmich nit vnderſtand/entſcheid vñ lårung zůgeben vmb\ndiſe ſchwåre ſpen hie zů gegen/dann es miner kunſt/die\nklein iſt überlegen ſin wil/diewil vor zwölff hundert Ja=\nren vnd mer/ſo vil heyliger gelerter månner/ouch dariñ\ngehandelt/entſcheid vñ lårrung gebe hand /",
         "b": "112    Die erſt\nhie zů gegen / dann es miner kunſt / die klein iſt / uͤberlegen\nſin wil / diewil vor zwoͤlff hundert Jaren vnnd mer /",
-        "similarity": 0.3478
+        "similarity": 0.3478,
+        "semantic": 0.8719,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,19 +65,25 @@
         "op": "match",
         "a": "vñ aber die\nſach yetz widerumb in ſpan kommen iſt / diewyl aber es\nmir ſchwår iſt / von ſolchem lang geübtē/vnſer vordern\nglouben zeſton/den wir ſo in langer gewård/vnd beſitz=\nung gehebt hand /",
         "b": "diewyl aber es mir ſchwaͤr iſt / von ſoͤl-\nchem lang geuͤbten / vnſer vordern glouben zeſton / den wir ſo\nin langer gewaͤrd /",
-        "similarity": 0.5333
+        "similarity": 0.5333,
+        "semantic": 0.6972,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "bedunckt mich not ſin / nach der leer\ndes heyligen Petri in der erſten Epiſtel am iij. Capitel. Das ich ouch rechnung geb /",
         "b": "vñ beſitzung gehebt hand / bedunckt mich\nnot ſin / nach der Leer deß heiligen Petri in der erſten Epiſt. am 3.",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.6608,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vmb myn hoffnung vnnd\nglouben/ſo ich darumb eruordert bin/vnd wil das thůn\nfrüntlich vnd gůtlich/mir vnd anderen zů wyterer vn=\nderwyſung/Alß der heylig Paulus ſpricht zun Gala=\nthern",
         "b": "cap. Das ich ouch rechnung geb / vmb min hoffnung\nvnd glouben / ſo ich darum̃ eruordert bin / vnd wil das thuͤn\nfruͤntlich vnd guͤtlich /",
-        "similarity": 0.3793
+        "similarity": 0.3793,
+        "semantic": 0.8942,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -107,7 +121,12 @@
         "b": "wyter proteſtier ich ouch / das durch\nmins diſputierens willen / dem gemeinen Chriſtenlichen\nglouben / kein nachteil ſoll erwachſen. Jch wil ouch fuͤr nie-\nmands anders diſputieren / dann myner Perſon halb fuͤr\nmich",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7772,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3258,

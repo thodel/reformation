@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "Schlußreo. V\nfilrnemens achrete/sind wir ouch bereyt/sölichs zeuer=\nantwurten. Nun walte sin Gott. Disem nach sind berufft worden all ge\nlerten vnd vngelerten/geyſtlich vnnd weltlich/heymsch\nvndfzsmbd/nach der ordnung/als die vozred das vf=\ntruckt.ac.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6372,
+        "semantic_match": "vnnd nicht\nſchlaͤcht vff die vermiſchten Kilchen / wie wir durch alle Pro-\npheten / vnd geſchrifft finden / daß die Statt Gottes Hieru-\nſalem ein heilige Statt genempt wirt /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "hic von kürze wege vßgelassen/die ynzeschry\nben/so offgestanden find/vnnd die erste Schlußred für\ngut vnd Christenlich geschetzt/ouch die so die zewider=\nfechten vnderstanden.ac.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6693,
+        "semantic_match": "dañ der Menſchen: dañ wo wir den Menſchẽ\ngeuallen wellen / werden wir nit ſin Knecht Chriſti. Nun iſt\nein ander Vrtheil Gottes /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -51,7 +57,9 @@
         "op": "match",
         "a": "Doctor Johans Huischyn/ vß nachlaß der Presidenten. Jdtmals vil sind/die uns anziend als abtrün=\nnigen/von der heyligen Christenlichen gemeyn=\nsame/des wir achren für das aller grülich oft la=\nster/das einem Chriften mag offgehept werden.",
         "b": "SIdtmals vil ſind / die vns anziend als abtrünnigen / von der heiligen Chriſtenlichen gemeinſame / deß wir\nachtẽ für das aller grülichoſt Laſter /",
-        "similarity": 0.4407
+        "similarity": 0.4407,
+        "semantic": 0.7938,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,7 +71,9 @@
         "op": "match",
         "a": "Hier=\num mit kurzem/begårichs zeuerantwurten. Es stade\neim yeden Christen zu/sin låben dermas anzerichtenn/ wie ers am jüngsten tag vetrüwt zeuerantwurten/vnd\ngrössers vffsecken zehan off das vitheylgottes/dan der\nmentschen:",
         "b": "ſin lå-\nben dermaß anzerichten / wie ers am jüngſten tag vertrüwt\nzeuerantwurten / vnd groͤſſers vffſechen zehan vff das Vr-\ntheil Gottes /",
-        "similarity": 0.3636
+        "similarity": 0.3636,
+        "semantic": 0.7504,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,7 +85,9 @@
         "op": "match",
         "a": "dan wo wir den mentschen geuallen wellen/ werden wir nit ſin Enecht Chriſti. Nun ist ein ander vr=\ntheyl gottes/vnd ein ander vrtheyl der menschen/Bie=\nrumb gepürt vns allen/ein offsechézehan/dz wir syend\nin der Kilchen die von Christo erwellt/vnd nit schliche\noff die vermischten Kilchen/wie wir durch alle prophe=\nten/vn geschrifft finden/das diestart gottes Bierusale\nein heilige start genempt wirt/von wege der ynwonern/ 23",
         "b": "vnd ein ander Vrtheil der Men-\nſchen / Hierumb gepürt vns allen / ein vffſechen zehan / daß\nwir ſyend in der Kilchen die von Chriſto erwellt /",
-        "similarity": 0.3505
+        "similarity": 0.3505,
+        "semantic": 0.787,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -101,7 +113,12 @@
         "b": "als abtrünnig von Chriſtenlicher Ge-\nmeind / die da in dem glouben in Chriſto ſich befliſſen zeuer-\nharren / vnnd vmb Chriſtus willen ein liebe tragen gegen\nmengk-",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7275,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4354,

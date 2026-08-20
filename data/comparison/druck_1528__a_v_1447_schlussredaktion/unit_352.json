@@ -45,7 +45,9 @@
         "op": "match",
         "a": "Schlußred CLXXVII\nsedech/vnd es nit mag sin der tod/so bitten wir min her\nren der widerparthy/das sy vns nennen vß der schrifft/",
         "b": "dech, vnd es nitt mag ginder tod, So bitten wir min\nherren der widerparthij, das Oi vns namen vsß der\nOchrift, was opfer Melchisedech vfgeopfrot habe, das\newencklich sol waer enn 1\nMeister Vlrich Zwingli,\nIs Ist gnug annoigt, das die vorbildung des alten Te:",
-        "similarity": 0.3429
+        "similarity": 0.3429,
+        "semantic": 0.6538,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -57,25 +59,34 @@
         "op": "match",
         "a": "sonders die that selbs/welliches wir an Melchisedech se=\nchend/so er ein priester des höchsten Gottes ist gewäsen/ vnd vsserliche opffer vffgeopffret hat:",
         "b": "staments, nitt vsserlicken In alle muß, muss Im mijwen\nvoor getruckt wevden, over eber es waren nitt vmbre, das\nIst Entwerffungen und bedutnussen, Qunders die\nthat vntbs, welichs wir an Melchisedoch gulden, So Er\nein priester des hochsten gets.",
-        "similarity": 0.3175
+        "similarity": 0.3175,
+        "semantic": 0.8084,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dann er darumb\nein Priester was/von opfferen/Jst damit bedütet/das\nChristus sich selbs hat vffgeopffret/Hebreorū vij. cap.",
         "b": "Ist gewesen, vnd vsserliche\nopter vffgeopfrot hat, dann fr darumb ein Priester was,\nvon opfern, Ist damitt beducot, das Christus Sich\nselbs hat vfgropfrot, gebreorum vijo.",
-        "similarity": 0.4783
+        "similarity": 0.4783,
+        "semantic": 0.8777,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Sann wo Melchisedech müßte Christo in allweg vßge\ntruckt/glych sin/so müßte er von einer jungffrowen ge=\nbozen sin/ein sun Gottes sin/gecrütziget sin.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6479,
+        "semantic_match": "darumb Schrift bringenn,\nTgidius murer\nDarmub Ist es notwendig, das Welthisedech, mitt dem\ntod, Christo nitt verglichot magt werden, vnd sittenmal\nChristus Ist ein priester, nach der Ordnung welchise:",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "2c. So nun\ndas nit/so sechē wir offenlich/das sin wäsen nun ein vor=\nbild gewäsen ist/in vsserlichen dingen/die aber Christus\nmit jm selbs erfüllt hat.",
         "b": "Dann wo\nMelchisedech muste Christo In all wag v/ getruckt\nglich zin, So muste fo, von einer Junckfrowen geboren\nsin, Ein Ann gottes sin gekruggot zijn is, To min\ndas nitt, So Cachen wir offenlich, das ging wasen,\nnun een vorbild gewesen Ist, In vsserlicken din¬\ngen, die aber Christus mitt ende selbst erfult hat,",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.8309,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -89,7 +100,12 @@
         "b": null,
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7637,
+    "reworded": 4,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3535,

@@ -45,43 +45,59 @@
         "op": "match",
         "a": "Schlußred. LXIX\ngnůg/doch so bezůg ichs wyter vß der ij. Epistel/ zu\nCorinthern/am v. capit. so er spricht:",
         "b": "doch ſo bezuͤg ichs wyter vß der\nij.Epiſtel/zun Corinthern am x.ca.ſo er ſpricht: Dann ſo ich etwas mer eer ſoͤlte ſuͤchen/von vn\nſerm gwalt.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.7117,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Dann so ich etwas\nmer eer solte sůchen/von vnserem gwallt. Hie berůmpt\nsich Paulus von jrem gwalle/das ist ye geredt von dem\ngeystlichen gewallt/darumb so sol es nit widersprochenn\nwerdenn/man hette dann heyrere geschrifft/die das selb\nvßtruckte.",
         "b": "Hie beruͤmpt ſich Paulus von jreͤ\ngwalt/das iſt ye geredt von dem geiſtlichen ge-\nwalt/darumb ſo ſol es nit widerſprochen wer-\nden/",
-        "similarity": 0.4478
+        "similarity": 0.4478,
+        "semantic": 0.6705,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Berchtoldus. Als ein gewallt sye in der Kilchen/habe wir noch\nnie verneynt/nach verstand der geschrifft/wel-\ncher gwalt darumb dhein ander houpt machet/",
         "b": "man hette dann heytere geſchrifft/ die das\nſelb vßtruckte. Berchtoldus. Das ein gwalt ſye in der Kilchen/haben wir\nnoch nie verneint/nach verſtand der ſchrifft/wel\ncher gwalt darum̃ kein ander houpt machet/ſon\nders vil mer iſt ein dienſtbarkeit.",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.8027,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "sonders vil mer ist ein dienstbarkeit/ Vnnd der spruch/ den herr Gilg fůrhar bringt/erlůtert dz selb/so Paulus\nspricht:",
         "b": "Vñ der ſpruch/ den herr Gilg fuͤrher bringt/erluͤtert das ſelb/ ſo Paulus ſpricht: Vnd ſo ich mich wyter etwꝫ\nberuͤm von dem gewalt/welchen Gott der herr\nvns geben hat zuͦ beſſerung/",
-        "similarity": 0.3571
+        "similarity": 0.3571,
+        "semantic": 0.9061,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Vnnd so ich mich wyter etwas berům von dem\ngewallt/welchen Gott der Herr vns geben hat zů besse\nrung/vnd nit zů verderben/welches Paulus/als ein trů\nwer Apostel gottes/mit predigen/vnnd verkůnden des\nworts/vßgericht hat/vnd ist gantz vnd gar nůt wider\nvnser Schlußredenn/des referier ich mich allwegen zun\nActa.",
         "b": "vnd nit zuͦ verder-\nben/welchs Paulus/als ein truͤwer Apoſtel got\ntes/mit predigen vñ verkuͤnden des woꝛts/vß-\ngericht hat/vnd iſt gantz vnd gar nuͤt wider vn-\nſer ſchlußreden/",
-        "similarity": 0.4176
+        "similarity": 0.4176,
+        "semantic": 0.8252,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Sůch hieno: am.11.12.18. vñ\nam . 20. blatt. Gilg Adurer. Ls herr Berchtold spricht/Es syge ein geystli-\ncher gewalt/der da von Gott geben ist zů einer\nerbuwung/dadurch wir sollend verkůnden dz\nwort gottes/nim ich an.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6513,
+        "semantic_match": "deß referier ich mich allwegenn\nzun Acta. Gilg Murer. Als\n\n## Marginalien\nSuͤch am 14\n15.16.17. vnd. 19.bla\n\n*Hieuoꝛ am\n13. 15. 20. vnd.23. bl.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "So nun ein geystlicher gewalt\nist So můß ouch ein oberkeit sin die dz Regiment fůr/dz\nwil ich bewåren vß dem alten Testament/Also ein yeg\nliche figur sol erfůllt werden im nůwen Testament/Als\ndie Synagog der Judenn/hat bedůtet die Christenliche",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6744,
+        "semantic_match": "Gilg. Das Paulus zun Roͤmern am xiij.cap. nit al\nlein geredt hab/vonn dem weltlichen gewalt/iſt\noffenbar gnuͤg:",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -89,7 +105,12 @@
         "b": "deß referier ich mich allwegenn\nzun Acta. Gilg Murer. Als\n\n## Marginalien\nSuͤch am 14\n15.16.17. vnd. 19.bla\n\n*Hieuoꝛ am\n13. 15. 20. vnd.23. bl.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7488,
+    "reworded": 3,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4746,

@@ -39,25 +39,36 @@
         "op": "only_a",
         "a": "dz wir eruorſchẽ/ wir wüſſend wol was Mattheus vnd Marcus\nſaged: wir begeren an ſy/ ob ſy erkennind/ das die\nvergeblich nachlaſſung der ſünd das Teſtament ſye.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6787,
+        "semantic_match": "Fauxxer v. f. g. Inntwort ick kein trank vermag das nur thesta,\nAber Das blut Christi wie ex ge¬\nment sin /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Pfarrer von ſant Gallen. MInes verſtands iſt vor gnůg geantwurt/ das das\nnüw Teſtament ſye verzychung der ſünd. Zwingly. NUn frag ich ſy/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.72,
+        "semantic_match": "Fauxxer v. f. g. Inntwort ick kein trank vermag das nur thesta,\nAber Das blut Christi wie ex ge¬\nment sin /",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "ob zwey Nüwe teſtament ſyend oder\nnun eins. Pfarrer. Antwurt ich: Es iſt allein ein Nüw teſtament. Zwingli. So volgt/",
         "b": "Zwingli\nNun frag ick sy, ob zweij muwe thestament siende\noder nun eins\npfarrer v.s.g. Nuntwurt ick es ist allein een mur thestament\nLwingli\nSo voegt Das kom tranck Das miw thestament\nsen mag.",
-        "similarity": 0.3214
+        "similarity": 0.3214,
+        "semantic": 0.6474,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "dz kein tranck dz Nüw teſtamẽt ſin mag. Pfarrer von ſant Gallen. ANtwurt ich/ kein tranck vermag das Nüw teſta=\nment ſin/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6802,
+        "semantic_match": "Fauxxer v. f. g. Inntwort ick kein trank vermag das nur thesta,\nAber Das blut Christi wie ex ge¬\nment sin /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -69,13 +80,17 @@
         "op": "match",
         "a": "Aber das blůt Chriſti wie er geredt hatt\ndurch Mattheum. Das iſt min blůt des Nüwen teſta=\nments/ vnd Lucas ouch ſagt in minem blůt/",
         "b": "redt hatt, durch machennen. Das ist min blut\ndes nuwen thestaments vnnd Lucas ouw sagt\nIn minem blut ende\nZevingh\nDas sind Ir egne wort, kein tranck mag.",
-        "similarity": 0.4906
+        "similarity": 0.4906,
+        "semantic": 0.6868,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "zc. Zwingli\nDAs ſind jr einige wort/ kein tranck mag das Nüw\nteſtament ſin/ das blůt Chriſti iſt ein tranck (alß\npp",
         "b": "Das\nmuw thestament sin, Das blut Christi ist ein\ntranck, (allss sy roeen) So muß Das blut Busti¬\nmit Das nur testament sin.",
-        "similarity": 0.3556
+        "similarity": 0.3556,
+        "semantic": 0.7367,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -83,7 +98,12 @@
         "b": "Pfarrer v. s. g. De fiat processus in infinitio et ex theologus Aristote\nlicus bemlich ick sollichs een lesenden In een\nactis zeeckennen\nZwingh\nSo voegt min das die wort, Das tranck is\nDas nuw thestament, int mussend schlechtlich\n„ sonder\nnoch wesen lich verstanden werden, Das per\nMethonomiam Das ist durch ein nachnemen",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6916,
+    "reworded": 3,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.2813,

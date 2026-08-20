@@ -33,13 +33,19 @@
         "op": "only_a",
         "a": "Schlußred. [H]Ochgelert/wyß/fürsichtig herren/vnnd fromen Christen. Min meinung ist nit/wider diſe Schlußreden zůfächtē: Dañ\nich ſy ſälbs der merteyl geprediget hab:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7524,
+        "semantic_match": "Göttl. Wort / unvermiſcht mit\nmenſchlicher Lehr / rein und lauter / dem Volck fürzůtragen und\nzů verkünden. Sölichs hab ich nach mynem Vermögen mit gan=\ntzem höchſtem Flyß gethan.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Bin aber von einem\nerſamen wyſen Rhadt der statt Vlm/verordnet/vnd geſetzt\nin die statt Gißlingen/irer herrschafft/vnnd mir ernſtlich von jnen be=\nfolchen/daſelbs das heylig götlich wort/vnuermischt mit menſchli=\ncher leer/reyn vnd luter/dem volck fürzůtragen/vnd zůuerkünden.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.709,
+        "semantic_match": "Göttl. Wort / unvermiſcht mit\nmenſchlicher Lehr / rein und lauter / dem Volck fürzůtragen und\nzů verkünden. Sölichs hab ich nach mynem Vermögen mit gan=\ntzem höchſtem Flyß gethan.",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -57,7 +63,9 @@
         "op": "match",
         "a": "Das\nlichs hab ich/nach minem vermögen/mit gantzem höchſtem flyß gethan. Nun ist aber ein pfarrer in der gemeldten statt Gißlingen/mit namen\nDoctor Jörg Oßwald/der zum dickern mal/mich den geringſten/mit\nandren fromen Chriſtenlichen Predicanten/ſchmächt/kåtzert/verfürisch\nlerer/vor dem einfaltigen volck vßrůfft/vnnd mit vil andren leſtrungē\nangrifft.",
         "b": "Nun iſt aber ein Pfarrer in der ge=\nmelten Statt Sißlingen / mit Namen Doctor Geörg Gßwald / der zum dickern mal /",
-        "similarity": 0.4054
+        "similarity": 0.4054,
+        "semantic": 0.7638,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -69,13 +77,17 @@
         "op": "match",
         "a": "Ouch diſe zåchen artigkel/zum offtern mal antastet hat/Dar=\nzů sich zů dem offtern mal/offenlich erbotten/vor den Hochen schůlen/",
         "b": "Auch diſe zehen Artickel zum offtern mal an=\ntaſtet hat / darzů ſich zu dem dickern mal offentlich erbotten / vor\nden Hohen Schulen und allen Gelehrten ſyner Lehr Rechnung\nzu geben /",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.658,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd allen gelerten/siner leer rechnung zůgeben/in eigner perſon/oder\nschrifftlich. Wyl nun yetzund ein verſamnung/viler träffenlicher gelers\nter menner/hie verſamnot ist/hab ich vff solich sin hoch erbieten/schrifft\nlich vff dz aller höchst in eruordret/dz er sich hiehar/vff disen fryen platz\nverfüge/welle ich jm vor den gelerten/vñ vor diser christēlichen gemeynd/",
         "b": "in eigner Perſon oder ſchrifftlich. Weil nun jetzund\nein Verſamlung viler treffenlicher gelehrter Männer hie verſam=\nlet iſt / hab ich vff ſolich ſyn hoch Erbieten ſchrifftlich vff das aller=\nhöchſt ihn erfordert /",
-        "similarity": 0.413
+        "similarity": 0.413,
+        "semantic": 0.5945,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -93,7 +105,9 @@
         "op": "match",
         "a": "rechnung vnd antwurt miner leer geben/Barwiderumb ouch in siner\njrthumb/mit heyliger schrifft/wyſen vnd leeren. Bin gentzlich der hoff=\nnung geweſen/er wurde sinem hochen erbieten nach/erschinen sin/Hab\ndeßhalb sin gewartet/biß vff den hüttigen tag/Aber ich sich jn noch\nnit.",
         "b": "er wurde ſynem\nhohen Erbieten nach / erſchinnen ſyn / hab deßhalb ſyn gewartet / biß vff den hüttigen Tag / aber ich ſihe ihn noch nit.",
-        "similarity": 0.4638
+        "similarity": 0.4638,
+        "semantic": 0.4648,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -111,9 +125,16 @@
         "op": "match",
         "a": "Ob nun er/oder yemand vonn sinendt wågen/mit siner’ schrifft hie\nwåre/der mich miner lere halber/anziechen wölt/Bin ich bereyt/jm/vor\ndiser gemeynd Gottes/antwurt zůgeben/wil mich ouch des hie offen=\nlich protestiert vnd bezüget haben/vnd hoff/ich hab vor allen frommen\nChristen/wie eim christenlichen predyer gebür/gehandlet. End der ſechßten Schlußred. fff iij",
         "b": "und hoff / ich hab vor\nallen frommen Chriſten / wie einem Chriſtlichen\nPrediger gebührt / gehandlet. Ende der Sechſzten Schlußred. Diß",
-        "similarity": 0.3
+        "similarity": 0.3,
+        "semantic": 0.5361,
+        "reading": "different"
       }
-    ]
+    ],
+    "semantic": 0.6398,
+    "reworded": 1,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5338,

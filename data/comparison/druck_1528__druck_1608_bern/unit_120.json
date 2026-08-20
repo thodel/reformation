@@ -33,31 +33,44 @@
         "op": "only_a",
         "a": "**Dicerſt**\n \n\nfür einen hirten vñd ſoll ſpiſen ſine ſchäffly/dann Matth. xviij. Cap. Da hatt Chriſtus ouch allein ſinen jüngern\nvoz ſinem lyden den gewalt geben/zebinden vñd entbin=\nden/was jr binden vff dem ertrich wirt bunden in dem\nhimel/aber Matth.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8365,
+        "semantic_match": "Senger. ICh mein diſer Text moͤge die Vßlegung nit erlyden / darumb das Chriſtus ſy all gefragt heige / vnnd Pe-\ntrus allein fuͤr ſy all geantwurt /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "xvj. Da hatt er Petro verheyſſen\nbinden in vil himlen. **Berchtoldus.**\n \n\nD Ielange vozred/laß ich fallen/vnnd zů dem\nſpruch Matth.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7619,
+        "semantic_match": "Senger. ICh mein diſer Text moͤge die Vßlegung nit erlyden / darumb das Chriſtus ſy all gefragt heige / vnnd Pe-\ntrus allein fuͤr ſy all geantwurt /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "am xvj. Capitel angezogen/gib\nich die antwurt/Petrus hatt in namẽ aller Apo\nſtlen dem herrn geantwurtet/vñ alſo die verheyſſung d\nſchlüßlen in jrer aller namen empfangen Johannis am\nxxj.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6128,
+        "semantic_match": "der Text iſt heiter vnnd klar. Wen man mir bringt nach miner Gnedigen Herren von\nBern Mandat / ein offnen Spruch vß dem Euangelio\noder Geſchrifft /",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Capitel. Hat jn Chriſtus ſins ampts ermant/die\nſchäffly zů weyden/das aber von binden vñd entbinden\nMatth. xviij. Capi.",
         "b": "114                           Die erſt\nſtus ſins Ampts ermant / die Schaͤffly zuͦ weiden / das aber\nvon binden vnnd entbinden Matth. 18.",
-        "similarity": 0.55
+        "similarity": 0.55,
+        "semantic": 0.6701,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "geſchriben ſtat/iſt dis tags gnůg=\nſam erklärt/das es der Kilchen geſetzt ſy/ꝛc. Berchtoldus hatt daruff den text geleſen.",
         "b": "capit. geſchriben\nſtat / iſt diß tags gnuͤgſam erklaͤrt / das es der Kilchen\ngeſeyt ſy / etc. Berchtoldus hat daruff den Text geleſen.",
-        "similarity": 0.6364
+        "similarity": 0.6364,
+        "semantic": 0.7845,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -81,7 +94,9 @@
         "op": "match",
         "a": "**Sennger.**\n \n\nI Ch mein dißer text möge die vßlegung nit erly=\nden/darumb das Chriſtus ſy all gefragt heyge/ vnd Petrus allein für ſy all geantwurt/darum\ner jne allen die ſchlüſſel heyg geben/dañ weñ das die mey\nnung Chriſti were geſin/ſo hette er wol geſprochen/jch\ngib üch die ſchlüſſel alle/wie Petrus für alle geantwurt\nhatt/der text iſt aber offenbar das er nach aller frag het\ngeſprochen zů Petro/ich wird dir geben die ſchlüſſel/nun\niſt dir zegeben vñ allen zegebẽ vnglich/der text iſt heiter\nvnd",
         "b": "daß er nach aller frag het geſprochen\nzuͦ Petro / ich wird dir geben die Schluͤſſel / nun iſt dir zege-\nben vnd allen zegeben vnglich /",
-        "similarity": 0.3051
+        "similarity": 0.3051,
+        "semantic": 0.5,
+        "reading": "different"
       },
       {
         "op": "only_b",
@@ -119,7 +134,12 @@
         "b": "fuͤr ſich ſelbs habe geantwurtet. Wiewol es iſt / das",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6943,
+    "reworded": 0,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3592,

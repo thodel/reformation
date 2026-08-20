@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "zwungen worden sich diser oder yener parthy/ze vndere\nschriben/sonders mengkliché sin fryer will gelassen. Es ist ouch für vnnd für in beschluß yedes Artickels/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6292,
+        "semantic_match": "aller dero ſo vff diß Ge-\nſprech beſchriben / vnd früntlich geladen geweſen / lut deß\nvßſchribens. Deß erſten / ſo ſind nach einanderen berüfft\nworden/die vier Biſchoffe/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -51,13 +54,18 @@
         "op": "match",
         "a": "vn ouch die/sodie\nhandthaben/gerecht vin Christenlich erkandten/sich ye=\nder sins gevallens vnderschribe. Weliche onderschribüg\nvon kürze wege(wie obgemeldet ist)einen yeden mit [y=\nnem namen zebenamffen/vnderlassen ist/Gott weyst\nwer finem wort vertruwet/dann er alleyn der menschen\nherzen erkent.",
         "b": "Weliche vnderſchry-\nbung von kürtze wegen (wie obgemeldet iſt) einen jeden\nmit ſynem Namen zebenamſen / vnderlaſſen iſt/ Gott\nweißt wer ſynem Wort vertruwet /",
-        "similarity": 0.4118
+        "similarity": 0.4118,
+        "semantic": 0.6692,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "Ist ouch zu wüssen/das anfangs des gesprechs eyn\noffenlich Beriffen beschehen ist/aller dero so off diß ge=\n■prech Beschribe/vi früntlich geladé gewesen/luxdes vf=\nschribens.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6446,
+        "semantic_match": "aller dero ſo vff diß Ge-\nſprech beſchriben / vnd früntlich geladen geweſen / lut deß\nvßſchribens. Deß erſten / ſo ſind nach einanderen berüfft\nworden/die vier Biſchoffe/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -75,13 +83,17 @@
         "op": "match",
         "a": "Ses er■té/so sind nach einandern berifft woz=\nden/die vier Bischoffe/von Costanz/Baffel/Wallis/vi\nZosan/obsy/oder jemands võjrent wegen zu gege were\nhatt niemants geantwurt/sonders all vier sich gschrifft\nlichen jrß vßbliben entschuldiget/darüber siner zyt ouch\nBürlichen soll geantwurt werden:",
         "b": "von Coſtentz/Baſel/Wallis/ vnd Loſan/ ob ſy/oder jemands von jrent wegen zü gegen\nwere / hat niemants geantwurt/ ſonders all vier ſich Ge-\nſchrifftlichen jhrs vßblyben entſchuldiget /",
-        "similarity": 0.3733
+        "similarity": 0.3733,
+        "semantic": 0.6894,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnd insonders vff des\nvon Losan villfaltig schriben/dann der selbig ouch/sin\ngelerten durch ein Oberkeyt zu Bernn ze mernmaln/fich\noff dise Sisputatz zefugen/gebåten/",
         "b": "darüber ſyner\nzyt auch bürlichen ſoll geantwurt werden : vnd in ſonders\nvff deß von Loſan vilfaltig ſchryben/ dann der ſelbig ouch/",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.679,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -93,15 +105,24 @@
         "op": "match",
         "a": "vn angesicht sind\nworden. Und wie wol ettlich finer Soctores/allhie ge=\nwesen/baben sy sich doch keiner gestalt mercké lassen/son\nders stumer dan die visch/hiehinne abgescheyde/darab\nman nemen mag/wie vast/follichen byrten & Christen-\nlichen hård weydung zü herzen gat/Hot sye/es geflagr.",
         "b": "haben ſy ſich doch keiner geſtalt mercken laſ-\nſen/ſonders ſtummer dann die Viſch/hiehinnen abgeſchei-\nden/darab man nemmen mag/wie vaſt/ſölichen Hirten der\nChriſtenlichen Härd weidung zü Hertzen gat/",
-        "similarity": 0.35
+        "similarity": 0.35,
+        "semantic": 0.8848,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Demnach sind nach der ordnung die Dit & Eydgno=\nschafft/vn jr verwandten von Stetten ond 1 anderen\nBerüfft. Vi sind zü gegen gsin/von Zürich ein Ersame\nbiij",
         "b": "Gott ſye es\ngeklagt. Demnach ſind nach der Ordnung die Ort der Eyd-\ngnoſchafft / vnd jr verwandten von Stetten vnd Ländern\nberüfft. Vnd ſind zügegen gſin/von Zürich ein Erſame\nRadts-",
-        "similarity": 0.5763
+        "similarity": 0.5763,
+        "semantic": 0.8016,
+        "reading": "same"
       }
-    ]
+    ],
+    "semantic": 0.714,
+    "reworded": 4,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4715,

@@ -57,7 +57,9 @@
         "op": "match",
         "a": "Schlußred. Der ſünden halb vnd mißbrüchen/ſo von jm witer inge\nfürt/Beger ich nit zů beſchirmen/ſonder ſag ich/das wir\nvil vnfůgs daruon haben/wañ Hieremie am v.",
         "b": "begehr ich nit zů beſchirmen / ſonder ſag ich / daß\nwir vil unfůgs darvon haben / wann Jeremie am 5. ge-\nſchriben ſtaht:",
-        "similarity": 0.5098
+        "similarity": 0.5098,
+        "semantic": 0.7031,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -69,45 +71,67 @@
         "op": "match",
         "a": "geſchri\nben ſtat. Vnſer ſünd haben verhindert die gůten ding\nvon vns. Deßglichen Oſee am iiij. Es iſt dhein warheyt\ndhein barmhertzigkeyt/kein wüſſen Gottes in der ertrich\nDer flůch/die Lúgine/der Todſchlag/der Eebruch/der\nDiebſtal ſind harin gefloſſen/vnd hat ein blůt das an=\nder erreicht/vnd von des wägen wirt weynen dz ertrich\nvñ wirt bekrånckt.",
         "b": "kein Wüſſen Gottes in dem\nErdrich: Der Flůch / die Lugenen / der Todtſchlag / der\nEhebruch / der Diebſtahl ſind haryn gefloſſen / und hat\nein Blůt das ander erreicht /",
-        "similarity": 0.4186
+        "similarity": 0.4186,
+        "semantic": 0.7675,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Ein yetlicher ð dariñ wonet/darüß\nheiter volget/das wir von ſünden vnd müßbrüchen wä\ngen vntrůwen hand. Berchtoldus Haller.",
         "b": "und von deßwegen wird\nwäinen das Erdrich / und wird bekränckt ein jeglicher\nder darinn wohnet. Daruß heiter folget / daß wir von\nSünden und Mißbrüchen wegen unrůhen hand.",
-        "similarity": 0.3404
+        "similarity": 0.3404,
+        "semantic": 0.6119,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Paulus zů den Galathern am v. Ermanet vns\ndas wir beſtåndig bliben in der fryheyt/damit\nvns Chriſtus hat befreyet.",
         "b": "Berchtoldus Haller. PAulus zů den Galatern am 5. ermahnet uns / daß\nwir beſtändig blyben in der Freyheit / damit\nuns Chriſtus hat befreyet.",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.7792,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Die wil nun die Cere\nmonien vſſerthalb dem wort gottes/vnſer Conſcienzen\ngefangen vnd gebunden hand:ſo ſöllen wir vns billichen\nder ſelben entſchlaben/dann wir nit mer gefangen ſind/",
         "b": "Diewyl nun die Ceremo-\nnien vſſerhalb dem Wort Gottes unſere Conſcientzen\ngefangen und gebunden hand: ſo ſöllen wir uns billich\nderſelben entſchlahen / dann wir nit mehr gefangen ſind\nunder",
-        "similarity": 0.6102
+        "similarity": 0.6102,
+        "semantic": 0.7181,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "vnder dem Knåchtiſchen joch des geſatzes. Magdalena\nhatt jren glouben bezüget mit dem werck der lyebe gegē\nChriſto Jeſu/das ſöllen wir tůn gegen vnſerm nåchſt/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7664,
+        "semantic_match": "Gaaben und Ceremonien dienen / wie-\nwol darin zů zyten groß Mißbrüch geübt werden. Der\nSünden halb und Mißbrüchen / ſo von ihm wyter ynge-\nführt /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "in ůbrigē red beſtåtiget ð ſchůlmeiſter vnſer ſchlußred. Johannes Büchstab\nWer red yezmal ingefürt/wirt glimpflicher ſin\nzů verantwurten/in der ſchlußred von dē ſåg=\nfür/da man ouch vonn den Ceremonien würde\nhandlen.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7304,
+        "semantic_match": "Gaaben und Ceremonien dienen / wie-\nwol darin zů zyten groß Mißbrüch geübt werden. Der\nSünden halb und Mißbrüchen / ſo von ihm wyter ynge-\nführt /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Witer vff min fürgenomen meynung/das es\nein mißbruch ſye/das brot der danckſagung anzůbåtte\nBbb iij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7125,
+        "semantic_match": "Gaaben und Ceremonien dienen / wie-\nwol darin zů zyten groß Mißbrüch geübt werden. Der\nSünden halb und Mißbrüchen / ſo von ihm wyter ynge-\nführt /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7236,
+    "reworded": 2,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4076,

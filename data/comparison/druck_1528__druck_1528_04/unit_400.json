@@ -33,37 +33,49 @@
         "op": "match",
         "a": "Die fünffe\n \n\nSüch hienoch mit sinem tod/es ist ouch offentlich erfũden/das nit al=\nam 149 blat. lein das fleysch Christi liplich geessen/nit das testament\nist/sonders ouch syn eygē blůt/nit das testament ist:",
         "b": "Die fünfft. Teſtament beueſtnet mit ſinē tod/es iſt ouch of=\nfentlich erfunden/das nit allein das fleyſch Chri\nſti lyplich geeſſen/nit das Teſtamēt iſt /",
-        "similarity": 0.4375
+        "similarity": 0.4375,
+        "semantic": 0.7926,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "son\nder das / mitt dem das testament ist vffgericht/wie erst\nvnd vormals gehoͤrt. Die Testamenter aber/oder vß=\nrichter/sĩd die Apostel/ist wol recht geredt.",
         "b": "ſonders\nouch ſin eigen blůt / nit das Teſtamēt iſt/ſonder\ndas / mit,dem das Teſtament iſt vfgericht / wie\nerſt vnd vormals gehört.",
-        "similarity": 0.3529
+        "similarity": 0.3529,
+        "semantic": 0.8165,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Sy teylen\naber das Testament vß/das ist die vergäbne nachlaß=\nung der sũnden. Wie Luce am xxiiij. Matth.",
         "b": "Die Teſtamenter aber/ oder vßrichter/ſind die Apoſtel/ iſt wol recht ge=\nredt. Sy teylend aber das Teſtament vß / das iſt\ndie vergåbne nachlaſſung der ſünden/",
-        "similarity": 0.4348
+        "similarity": 0.4348,
+        "semantic": 0.7897,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "xxviij. Marci am letsten. Das die nachlassung der sũnd gepre=\ndiget soͤlle werden/durch die gantzen welt hin.",
         "b": "wie Luce\nxxiij/Mat.xxvij/ Mar.am letſtē/ Dz die nach=\nlaſſung der ſünd geprediget ſölle werden durch\ndie gantzen welt hin.",
-        "similarity": 0.4286
+        "similarity": 0.4286,
+        "semantic": 0.5903,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "Das von\nJohansen vnd Maria angezogen ist/glouben wir gern/ das die můter Christi Johansen sye beuolhen/vnnd er\ndero züchtig vnd getrüwlich gewartet habe.",
         "b": "Das võ Johanſen vñ Ma\nria angezogen iſt/glouben wir gern/das die mů\nter Chriſti Johanſen ſye beuolhen/vnnd er dero\nzüchtig vnd getrüwlich gewartet habe.",
-        "similarity": 0.8077
+        "similarity": 0.8077,
+        "semantic": 0.8642,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Meyster Johannes Dannberger. [Initial H] Err Berchtold/wider üwer schlußred Arguier\nich/die da inhalter/Christum den herrn vffopf=\nfern dem vatter/für die sũ",
         "b": "Mannberger. Herr Berchtold/wider üwer ſchlußred argu\nier ich / die da jnhalt / Chriſtum den herren vf=\nopfern dem vatter für die ſünd der låbendigē vñ\ntodtē/etc.ſye der ſchrifft widrig /",
-        "similarity": 0.4643
+        "similarity": 0.4643,
+        "semantic": 0.833,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -89,7 +101,12 @@
         "b": "Berchtoldus. Iſt alles vorhin verantwurt. End der fünfften ſchlußred. Die\n\n## Marginalien\nHieuor am\n168.blat.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7811,
+    "reworded": 4,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4781,

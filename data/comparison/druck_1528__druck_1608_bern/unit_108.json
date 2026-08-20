@@ -45,7 +45,10 @@
         "op": "only_a",
         "a": "doch vß Gottes wort / vnderlaſſen ſchmütz vnnd ſchmachred / wie dann\nminer herrn Preſidente / verkündüg / yetz vß des Erſamen Rhadts em=\npfelch gehör iſt /",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7388,
+        "semantic_match": "Hand uͤch acht\nvnd der gantzen Haͤrd:Das iſt/der Chriſtenlichen verſam=\nlung/in welcher uͤch der heilig Geiſt hat geſetzt Biſchoff zuͦ\nregieren die Kilchen Gottes /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -63,31 +66,41 @@
         "op": "match",
         "a": "Das er aber bezüget / er wölte gern vnſere aller gröſte verfürnuß vnd\nmangel dem einfaltigen Chriſtenlichen volck anzeigen / ſo verſtrick man\njms.",
         "b": "Schlußred. IoI\nvnd mangel dem einfaͤltigen Chriſtenlichen Volck anzeigen / ſo ver=\nſtrick man jms. Bezuͤg ich/ daß wir ſoͤllichs gern woͤlten hoͤren/",
-        "similarity": 0.3265
+        "similarity": 0.3265,
+        "semantic": 0.7689,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Bezüg ich / das wir ſölichs gern wölten hören / mit gottes wort be=\nſchechen / das ouch wol ſin mag one alle leſttrung vnd ſchmach /",
         "b": "mit\nGottes Wort beſchechen/das ouch wol ſin mag one alle leſtrung vnd\nſchmach/wie dann geſter von jm gebrucht iſt.",
-        "similarity": 0.5455
+        "similarity": 0.5455,
+        "semantic": 0.8078,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "wie dann\ngeſter von jm gebrucht iſt. Hat wyter geoffnet der Pfar=\nrer von Appenzell. In dinem namen herr Jeſu Chriſt /",
         "b": "Hat wyter geoͤffnet der Pfarꝛer von\nAppenzell. JN dinem Namen Herr Jeſu Chriſt/Amen. Als dann\nHerr Berchtold Predicant miner Herren von Bern/",
-        "similarity": 0.4444
+        "similarity": 0.4444,
+        "semantic": 0.6853,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Amen. Als\ndann herr Berchtold / predicant / miner herren\nvon Bern / von des Bans wegen ein lange vm=\nſchweyffende red brucht /",
         "b": "von deß Bans wegen ein lange vmbſchweiffende red\nbrucht/in wellicher langer red / er doch bekeñt hat ein Ban\nzeſin/",
-        "similarity": 0.3415
+        "similarity": 0.3415,
+        "semantic": 0.6926,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "in welicher langer red / er doch\nbekennt hat ein Bann ze ſin / es ſye ein Pfarrer / oder ein\nPfarr / welches ich gern von jm verſtanden hab:",
         "b": "es ſye ein Pfarrer / oder ein Pfarr/welliches ich gern\nvon jm verſtanden hab:dann der Ban iſt ein vßſchlieſſung\nder Chriſtenlichen gemeind/welcher nit geſchechen mag on\ngewalt.",
-        "similarity": 0.4727
+        "similarity": 0.4727,
+        "semantic": 0.738,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -99,13 +112,17 @@
         "op": "match",
         "a": "ſo gehalten ſyen worden / mit dem\nBann oder nit / der Kilchen mißbrüch / zeuerſpreche bin\nich nit hie. Aber loblich Chriſtenlich ſtraffungen /",
         "b": "So er dann anzuͤchet etlich mißbruͤch / ſo gehalten\nſyen worden/mit dem Ban oder nit/der Kilchen mißbruͤch\nzeuerſprechẽ bin ich nit hie.Aber loblich Chriſtenlich ſtraf=\nfungen /",
-        "similarity": 0.6923
+        "similarity": 0.6923,
+        "semantic": 0.6879,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "einem\nChriſtenlichen Regiment gegeben / lob ich / vnd das ſelb\niye zů loben / bezügt vns das an die heylig ſchrifft / Acto=\nrum am xx. capitel / welche alſo lutet: Hannd üch acht\nvnd",
         "b": "einem Chriſtenlichen Regiment gegeben/ lob ich/ vnd das ſelb ſye zuͦ loben / bezuͤgt vns das an die heilig Ge=\nſchrifft/Act.am 20.capit.welche alſo lutet:",
-        "similarity": 0.678
+        "similarity": 0.678,
+        "semantic": 0.7787,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -125,7 +142,12 @@
         "b": "Das Chriſtus hab geſetzt ettlich zwoͤlff=\nbotten/ettlich Propheten/ettlich Euangeliſten/ettlich Hir=\nten/vnd ouch Leerer zuͦ erbuwung ſins goͤttlichen dienſt vnd\ndeß Lybs Chriſti/ect. Jn welchen worten da klaͤrlich an=\nN iij",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7372,
+    "reworded": 4,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4667,

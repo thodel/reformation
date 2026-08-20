@@ -93,19 +93,26 @@
         "op": "match",
         "a": "Schluͤßred. CLIII\nſin mag/ob glych die krafft Gottes allenthalben iſt. Deß=\nhalb er lyblich by vns ordenlich nit ſin mag/nach Mar=\nci wort/am v oj.",
         "b": "Deß-\nhalb er lyblich by vns ordenlich nit ſyn mag/nach Marci\nwort/am 16. Capitel/vnd Lucas Acto. j.",
-        "similarity": 0.4898
+        "similarity": 0.4898,
+        "semantic": 0.7993,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "vnd Lucas Acto. j. Biß an den tag/da\ner zů Gericht ſitzen wirt.zc. nach den articklen des Glou\nbens.",
         "b": "Biß an den\nTag/da er zuͤ Gericht ſitzen wirt. ꝛc. nach den Articklen\ndeß\n\n## Marginalien\nde\nal\nge\nCh\neſſen\ner d\nli.",
-        "similarity": 0.5778
+        "similarity": 0.5778,
+        "semantic": 0.589,
+        "reading": "check"
       },
       {
         "op": "only_a",
         "a": "Zum fuͤnfften/ſpricht Paulus zun Hebreern/ am. ij. capitel: Er hat die Engliſche natur nit an ſich ge\nnomen (in welchem wirt aller hoͤchſten vñ niderſten crea\nturen/natur verſtanden) ſonder des geſchlächts oder ſa\nmen Abrahams/hat er an ſ",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6663,
+        "semantic_match": "338\tDie vierdt\nChriſtus (nach dem die Juden durch das wort/Eſſen/mit\ndem er doch/vertruͤſwen/zeuerſtan gab/daruff fielend/das\ner meinte/man muͤſte ſyn Fleiſch lyblich eſſen) jnen die\nantwurt gibt:",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -113,7 +120,12 @@
         "b": "Da\nwit\nvn\nals\nzuͤ\nda\nder\nſtem\ngly\nne\nte\n[unleserlich]\nſer\n[unleserlich]\n[unleserlich]\njnt\ndie\n[unleserlich]\nge",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.6849,
+    "reworded": 1,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.1872,

@@ -51,63 +51,91 @@
         "op": "match",
         "a": "**Schlußred.**\ndem touff an sich neme wurden im siñ sünd / so er vorhar\ngethon nüt schaden / wo aber der mensch nach dem touff\nin houpt sünd valt /",
         "b": "wurden im\nsin Sünd / so er vorhar gethon / nüt schaden / wo aber der\nMensch nach dem Touff in Houptsünd valt /",
-        "similarity": 0.8085
+        "similarity": 0.8085,
+        "semantic": 0.8894,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "müß er sich gegen Gott / mit bycht\nrüw / penitentʒ / oder güten wercken versüne / sunst wirt\njm nach sinen wercken geben /",
         "b": "můß er sich\ngegen Gott/mit bycht/růw/penitentz/oder gůten Wercken\nversůnen/sunst wirt im nach sinen Wercken geben /",
-        "similarity": 0.9
+        "similarity": 0.9,
+        "semantic": 0.7229,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vñ jm der tod Christi nit\nmernütz sin / diewil er in houptsünden verharret. **Martinus Butzer.**\nD As der dʒ ewig läben hab /",
         "b": "vnd im\nder todt Christi nit mer nütz sin / diewyl er in Houptsün=\nden verharret. Martinus Butzer. DAs der das ewig läben hab /",
-        "similarity": 0.6222
+        "similarity": 0.6222,
+        "semantic": 0.6795,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vñ jm also dhein sünd\nentlich (hab ich gesagt) schadẽ möge / hat Chri=\nstus selbs geredt / nitt destweniger müß rechen=\nschafft geben werden /",
         "b": "vnd im also kein Sünd\nentlich (hab ich gesagt) schaden möge / hat Christus\nselbs geredt / nit dest weniger můß rechenschafft ge=\nben werden für ein jedes vnnützes Wort /",
-        "similarity": 0.5098
+        "similarity": 0.5098,
+        "semantic": 0.4499,
+        "reading": "check"
       },
       {
         "op": "match",
         "a": "für ein yedes vnnützes wort / vnd\nwas vnrecht ist: aber in der rechnung wirt Christus die\nsünd / wie Paulus zum Rhömern am viij.",
         "b": "vnd was vnrecht\nist:aber in der rechnūg wirt Christus die Sünd/wie Pau=\nlus zun Römern am 8.klarlich sagt/vertretten /",
-        "similarity": 0.5778
+        "similarity": 0.5778,
+        "semantic": 0.8751,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "klarlich sagt / vertretten / vnd durch synen geyst / sy entlich gantz from\nvñ jm selbs glich machen / dʒ jnen nach jren güten werck\nen /",
         "b": "vnd durch\nsynen Geist / sy entlich gantz fromm vnd im selbs glich ma=\nchen/das jnen nach jren gůten Wercken /",
-        "similarity": 0.6047
+        "similarity": 0.6047,
+        "semantic": 0.9055,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "die doch des herren syn werden / vnd nit jr eygen / das\newig läben volkomenklich zügestelt wirt. **Büchstab**\nD Als vnser werck /",
         "b": "die doch deß\nHerren syn werden/vnnd nit jr eigen/das ewig\nläben vollkommlich zůgestellt\nwirt. Bůch=",
-        "similarity": 0.5789
+        "similarity": 0.5789,
+        "semantic": 0.6533,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "so nach empfahung des touffs\nvß dem glouben beschehen / verdienstlich syen / wirt mencklich im alten vñ nüwen Testament\nerfunden / als Christus spricht Matth.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6146,
+        "semantic_match": "206\tDie dritt\nlich behalten wirt/wie wirt es dann dem Sünder gan. So\nSant Paulus spricht in der ersten zů den Corinth.",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "am vj. Ser der da thüt den willen myns himelschen vatters / der\nwirt gon in das rich der himlen. Actuum am v.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6152,
+        "semantic_match": "Wol\nist es war / so einer in einem vnglouben bißhar geläbt/den\nglouben / mit sampt dem Touff an sich neme /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "hat Tha\nbita vmb der güten wercken willen / die sy gethon hatt / verdiener von sancto Petro barmhertzenlich von dem\ntod erquickt werden. Zia iij",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6513,
+        "semantic_match": "Wol\nist es war / so einer in einem vnglouben bißhar geläbt/den\nglouben / mit sampt dem Touff an sich neme /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7057,
+    "reworded": 0,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5125,

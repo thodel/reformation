@@ -33,19 +33,26 @@
         "op": "only_a",
         "a": "Die fünffte\nBuchstab\n\n[D] Jewyl Melchisedech ein obrester Priester/brot\nvnd wyn/ harfür hat getragen/ vnd als Pau-\nlus zů den Hebreeren bezügt/das kein Priester\nnit ist/der nit opfferet/müß volgen/das ouch\nMelchisedech etwas hab geopffret.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7137,
+        "semantic_match": "Berchtoldus. WJr bekennen mit der Schriff / daß Melchiſedech\nein Prieſter deß aller Obriſten Gottes ſye geſin/ Das er aber Abraham/",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "Es wirt ouch mit kei\nner gschrifft bybracht/das Melchisedech/brot vnd wyn/ nit voz hab vffgeopffret/ee vñ er Abrahe solichs harfür\nhabe getragen:",
         "b": "384     Die fünfft\nnit iſt / der nit opfferet/můß volgen/das ouch Melchiſe=\ndech etwas hab geopffert. Es wirt ouch mit keiner Gſchrifft\nbybracht/das Melchiſedech/Brot vnd Wyn/nit vor hab\nvffgeopfferet/ee vnd er Abrahe ſoͤllichs harfür habe getra=\ngen:",
-        "similarity": 0.5294
+        "similarity": 0.5294,
+        "semantic": 0.7686,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dann der Text heyter spricht: Er ist gsin\nein Priester des obresten Gottes/dem von nöten ouch zů\ngehört hat ze opfferen.",
         "b": "dann der Text heiter ſpricht: Er iſt gſin ein Prieſter\ndeß Oberſten Gottes/dem von noͤten ouch zů gehoͤrt hat\nzeopfferen.",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.9592,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -57,13 +64,17 @@
         "op": "match",
         "a": "Berchtoldus\n\n[W] Jr bekennen mit der schrifft/das Melchisedech\nein Priester des aller obristen Gottes sye gesin/ Sas er aber Abraham/brot vnd wyn hab vff-\ngeopffret/oder vorhin Gott dem herrē/erfindt\nsich nit in dē text/durch den Schülmeyster anzogē:",
         "b": "Brot vnd Wyn hab vff=\ngeopffret/oder vorhin Gott dem Herren/erfindt ſich nit in\ndem Text /durch den Schůlmeiſter anzogen :",
-        "similarity": 0.5397
+        "similarity": 0.5397,
+        "semantic": 0.709,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wo\nses hat sich benügt/dz er anzeigte/Melchisedech ein Prie\nster sin des allerhöchsten Gottes. Daruß demnach wol\nvermerckt wirt/vß dem heiligen Paulo/wo hin solchesi\ngur dütet vñ lendet.",
         "b": "Moſes hat\nſich benůgt/das er anzeigte/Melchiſedech ein Prieſter ſyn\ndeß aller hoͤchſten Gottes. Daruß demnach wol vermerckt\nwirt /",
-        "similarity": 0.4906
+        "similarity": 0.4906,
+        "semantic": 0.6827,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,15 +86,24 @@
         "op": "match",
         "a": "Jr haben den spruch vff üwer für-\nnemen angezogen/damit zů bewären das Måßopffer. So gebürt nun üch/das jr probieren/wo Melchisedech\nwyn vnd brot geopffret habe.",
         "b": "damit zůbewaͤren das Maͤßopffer. So gebuͤrt\nnun uͤch / das jr probieren / wo Melchiſedech Wyn vnnd\nBrot geopffret habe.",
-        "similarity": 0.52
+        "similarity": 0.52,
+        "semantic": 0.7025,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Buchstab\n\n[D] Jewyl jr nit findē/was er nach sinem Priester-\nthům geopffret habe/vnd hie aber heyter stadt/ Sas er brot vnnd wyn/harfür hab getragen/ vnd",
         "b": "Bůchſtab. SJetwyl jhr nit finden/was er nach ſynem Prieſter=\nthům geopffert habe / vnnd hie aber heiter ſtadt/ das er Brot vnd Wyn harfür hab getragen/vnd\ndar=",
-        "similarity": 0.6429
+        "similarity": 0.6429,
+        "semantic": 0.8947,
+        "reading": "same"
       }
-    ]
+    ],
+    "semantic": 0.7758,
+    "reworded": 1,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.6361,

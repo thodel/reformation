@@ -63,7 +63,9 @@
         "op": "match",
         "a": "aber diß Argumēt / oder gegenwurff\nwurd allein reychē vff die grösse des gloubēs\nvnd nit vff das vermögen des vsserlichen worts/dan so\nder gloub das vermag/vnd nitt das vsser wort/so habē\nwir recht/vñ sind sy von jrem spruch getrungē/",
         "b": "und nit uff das Ver=\nmoͤgen deß uſſerlichen Worts / dann ſo der Glaub das\nvermag / und nit das uſſer Wort/",
-        "similarity": 0.4375
+        "similarity": 0.4375,
+        "semantic": 0.8549,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -75,31 +77,42 @@
         "op": "match",
         "a": "das das\nvsser wort söllich vermögen hab/als sy anzeygent vonn\nwunderzeychen/die von Petro gewürcket/vñ durch mich\nglöubigen nit gewürckt sind.",
         "b": "Als ſy anzeigend von Wun=\nderzeichen / die von Petro gewuͤrckt / und durch mich\nglaͤubigen nit gewuͤrckt ſind:",
-        "similarity": 0.4186
+        "similarity": 0.4186,
+        "semantic": 0.6569,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Sag ich das die red vnser\nvordrig meynung bestättet/ dann die wunderwerck we=\nder an minē gloubē noch am vssern wort stand/",
         "b": "ſag ich/daß die Red unſer\nvordrig Meynung bestaͤtet / dann die Wunderwerck\nweder an mynem Glauben noch am uſſern wort ſtahnd/",
-        "similarity": 0.6818
+        "similarity": 0.6818,
+        "semantic": 0.7962,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "deßhalb\naber jr meynung zeruck lyt/ dann die krafft der wunder\nwercken/nit an vnserm glouben/ sonders an der wal got\ntes stand/daruon hie nit statt ist nach notdurfft zereden/",
         "b": "deßhalb aber ihr Meynung zuruck lyt / dann die Krafft\nder wunderwercken nit an unſerm glauben / ſonders an\nder Wahl Gottes ſtahnd /",
-        "similarity": 0.5385
+        "similarity": 0.5385,
+        "semantic": 0.6761,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vnd sind die ozt die Christus vom starcken glouben rede\nnit darwider. Pfarrer von Sant Gallen. Jr wüssend wol/das das wort des menschē/als\neins menschē nüt bmag:",
         "b": "darvon hie nit ſtatt iſt nach\nNohtdurfft zereden / und ſind die Ort / die Chriſtus\nvom ſtarcken Glauben redt / nit darwider.",
-        "similarity": 0.3673
+        "similarity": 0.3673,
+        "semantic": 0.679,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "aber so wir handlen vß\ndem beuelch vñ wort gottes so thůt es nit allein\nnatürliche ding/sonders übernatürliche/ dz eroffnet sich\nin dē wort/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6612,
+        "semantic_match": "Meiſter Vlrich Zwingly. DAlß die Gaab deß Glaubens vilen unterſchiedlich\nmehr oder minder geben werde/erkennen wir wol: aber diß Argument oder Gegenwurff wurd allein rei=\nchen uff die Groͤſſe deß Glaubens /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
@@ -125,7 +138,12 @@
         "b": "Pfarrer von Sant Gallen. WIr wuͤſſend wol / daß das Wort deß Menſchen/ als eines Menſchen nuͤt vermag: aber ſo wir hand=\nlen",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7207,
+    "reworded": 3,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4229,

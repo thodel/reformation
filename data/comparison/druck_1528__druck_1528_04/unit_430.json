@@ -33,37 +33,51 @@
         "op": "only_a",
         "a": "Dis iſt die ſibend\nDas nach dißem zyt kein Fågfür in\nder ſchrifft erfunden wirt. Deßhalb alle\ntodtendienſt/als Vigil/Seelmäsz/Seel=\ngråt/ſibend/drißgoſt/jarzit/amplen/ker=\ntzen/vnd derglichen/vergeblich ſind.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7108,
+        "semantic_match": "ſonder zeygt an/ das ſy hie durch den gewiſſen vngezwyffelten. glouben/anfachend ſaͤlig werden/ vñ werden in\nkein vrteyl/rach/oder verdamnuß fallen/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Berchtoldus Haller. Die Schlußred iſt ſü\nteyl gnůgſam bewårdt/in der\ndritten/da wir bekennē/Chri\nſtum vnſer einige wyßheit/ge\nrechtigkeit/erlöſung vnd be=\nzalūg für aller welt ſünd.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7297,
+        "semantic_match": "vñ kompt\nnit in das gericht/ ſonder er iſt vom tod zum laͤ-\nben hindurch trungen. Hie ſchluͤſt Chriſtus nuͤt\nvß von dem Juͤngſten gericht:",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "So\nvolget ye von nöten/das kein\nander gnůgthůn/vnnd beza=\nlen für die ſünd/den abgeſtorb\nnen nachzerhůn/ſin mag/dañ\ndas lyden Chriſti.",
         "b": "Die ſibend\ndie ſuͤnd/den abgeſtorben nach zethuͦn/ſin mag/ dañ das lyden Chriſti . Zum andern. Johan.iij.",
-        "similarity": 0.3556
+        "similarity": 0.3556,
+        "semantic": 0.7517,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Zum andren/Johannis iij. ſpricht\nder Herr: Alſo hat Gott die welt lieb gehept/das er ſin\neinigen ſun gab/vff das alle/die in jnn glouben/nit verlo\nren werden/ſunder das ewig låben haben:",
         "b": "ſpricht der Herr: Alſo hat gott die welt lieb ge-\nhabt/dz er ſin einigẽ ſun gab/ vff dz alle die jn in\ngloubẽ/nit verloren werdẽ /",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.7944,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "dan Gott hat\nſin Sun nitt geſandt in die welt/das er die welt richte/ ſunders/das die welt durch jn ſålig werde.",
         "b": "ſond das ewig laͤbẽ\nhaben: Dañ Gott hatt ſin ſun nitt geſandt in die\nwelt/das er die welt richte/ſonders/dz die welt\ndurch jn ſaͤlig werde.",
-        "similarity": 0.717
+        "similarity": 0.717,
+        "semantic": 0.7833,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Wår an jnn\ngloubt/der wirt nit gericht: wår aber nit gloubt/der iſt\nſchon gericht. Hie iſt offenbar/das den glöubigen vol=\nget das ewig låben/nach jrem abſcheyd vß diſer zyt. Nů\naber",
         "b": "Waͤr an jn gloubt/der wirt\nnit gericht:waͤr aber nit gloubt/der iſt ſchon ge-\nricht. Hie iſt offenbar/das den gloͤubigen volget\ndas ewig laͤben/nach jrem abſcheyd vß diſer zyt.",
-        "similarity": 0.6944
+        "similarity": 0.6944,
+        "semantic": 0.9298,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -113,7 +127,12 @@
         "b": "vnd\nwas ſy verhofft habẽ/beſitzen. Daruß wir ver-\nſtaand",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7833,
+    "reworded": 1,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3215,

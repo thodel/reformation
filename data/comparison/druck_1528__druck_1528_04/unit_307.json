@@ -33,25 +33,34 @@
         "op": "only_a",
         "a": "**Schlußred.**\n\nDas er sagt/was hat er anders jnen geben/dann das die\nwort darbringed iterum petit principium, Begårt eben mir dem\nzebewåren/das im span stadt/dann wir bestond jm nit\nDas die wort des jnnhalts vnnd sinns syend/wie er dar=\nuon reder.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8442,
+        "semantic_match": "ſunſt hette Chriſtus das brot in die\nhend genommen/vnd danck geſagt/vnd geſpro\nchen:Nemmend/vnd eſſend/ das thuͤnd min ze=\ngedencken/vnd hette das wort:Das iſt min lyb/",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "**Uff den rviij. tag Jenners.**\n**Pfarrer von Sant Gallen.**\n\nVff die erklårung des Kelchs/durch mich ge=\nthan/darinn ich min herr Doctor/derglychenn\nzů erklårung lines verstands/gefragt hab/vnd\nmir geantwurt/wie in den Actis verfasset.",
         "b": "Die vierdt\n\nzů erklårung ſines verſtands/gefragt hab/vnnd\nmir geantwurt/wie in den Actis vefaſſet. So\nmir yetzmal manglet vff ſine yngefuͤrte red /",
-        "similarity": 0.381
+        "similarity": 0.381,
+        "semantic": 0.6626,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "So\nmir yetzmal manglet/vff sine yngefürte red/wil ich söl=\nche antwurt Summarie gegeben habenn: Alles das so\nChristus ye gethan/so es vns fruchtbar sin sol/vñ nutz=\nlich/von vns im glouben vnd geyst verstanden/vñ an=\ngenomen werden sol.",
         "b": "wil\nich ſoͤliche antwurt ſummarie gegeben haben: Alles dz ſo Chriſtus ye gethon/ſo es vns frucht\nbar ſin ſol/vnd nutzlich/von vns im glouben vñ\ngeyſt verſtanden/vnnd angenomen werden ſol.",
-        "similarity": 0.5714
+        "similarity": 0.5714,
+        "semantic": 0.8227,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Samit aber das vsserlich nit ab=\ngesündert/als/Essend/das ist min lyb: vñ/Trinckend/ das ist min blůt/sunst hette Christus dz brot in die hend\ngenommen/vnd danck gesagt/vnd gesprochen:",
         "b": "Damit aber das vſſerlich nit abgeſuͤndert / als: Eſſend/das iſt min lyb/vnnd:Trinckend/das iſt\nmin bluͤt /",
-        "similarity": 0.5283
+        "similarity": 0.5283,
+        "semantic": 0.7911,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -63,19 +72,25 @@
         "op": "match",
         "a": "Nem=\nmend/vnd essend/das thůnd min zegedencken/vnd het\nte das wort/Das ist min lyb/nit bedörffen. Derglychen\nzum Kelch/hette er danck gesagt/vnd jnen geben/spre=\nchende:",
         "b": "nit bedoͤrffen. Derglychen zum Kelch / hette er\ndanck geſagt/vnd jnen geben/ſprechende:Trin=\nckend all daruß / ſo offt jr ſoͤlichs werdend trin=\ncken/",
-        "similarity": 0.386
+        "similarity": 0.386,
+        "semantic": 0.8196,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Trinckend all daruß/so offt jr sollichs werdend\ntrincken/so thůnds in miner gedåchtnuß/vnd bedörf=\ntend die wort/Das ist min blůt/nit darby staan:",
         "b": "ſo thuͤnds in miner gedaͤchtnuß/ vnnd be=\ndoͤrfftend die wort: Das iſt min bluͤt / nit darby\nſton:Dann der anderen worten /",
-        "similarity": 0.3922
+        "similarity": 0.3922,
+        "semantic": 0.8162,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "dann\nder anderen worten/gedåchtnuß zehalten/vnnd danck=\nbarkeit daby erzeigen/gnůg wåre: dañ ye in den worten\nChristi/ist nit ja vnd nein/sonders/ja ja/vnd nein nein/ Do ij",
         "b": "gedaͤchtnuß ze=\nhalten/vnnd danckbarkeyt daby erzeygen/gnuͤg\nwaͤre:Dann ye in den worten Chriſti / iſt nit ja vñ\nnein/ſonders/ja ja/vnd nein nein/ij.",
-        "similarity": 0.5484
+        "similarity": 0.5484,
+        "semantic": 0.93,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -95,7 +110,12 @@
         "b": "Vonn dem anderen puncten/ſo es das bluͤt deß\nnuͤwen Teſtaments genempt wirt / ſye zeuer=\nſton/als geſchryben iſt/Geneſis xvij.cap.mit ſoͤ\nlichen\n\n## Marginalien\n[abgeschnitten]\nlich\nme\ndas\nche\nme\ndas\nes\ndee\nme\nſich\nD\nnit\nw\nſta\npia\nvn\nw\nth\nG\nzu\nſet\nby\nzuͤ\n\nw\ndi\nw\nſo\nw",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8123,
+    "reworded": 3,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4721,

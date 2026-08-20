@@ -45,7 +45,9 @@
         "op": "match",
         "a": "Schlußred. vßtruckt iſt/Als dann die zwölffbotten anzeigent/in der\nandern Epiſtel zum Timotheo ij. cap. vnd zum Thito/ am erſten capitel.",
         "b": "denn in der Bibliſchen gſchrifft\nheyter vßtruckt iſt. Als dañ die zwölffbottẽ an=\nzeigent / in der andern Epiſt. zun Timoth.",
-        "similarity": 0.3333
+        "similarity": 0.3333,
+        "semantic": 0.7562,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -57,19 +59,25 @@
         "op": "match",
         "a": "Sy hand etwan gelert vnd prediget/ durch red/durch brüch/andern verkündet/wie ſy es ouch\nvon anderen gehört hand/vnd hand nit allwegē ſchrifft\ndarumb anzeigt.",
         "b": "wie ſy es ouch von andern ge\nhört hand / vnd hand nit allwegen gſchrifft dar=\num anzeygt. Jch mein ouch /",
-        "similarity": 0.383
+        "similarity": 0.383,
+        "semantic": 0.6841,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Ich mein ouch/die heylig Kilch ſye glich\nvor dem Euangelio vnd der zwölffbotten gſchrifft/vñ\nwerd ouch in ewigkeit belyben/ſo dhein gſchrifft mer ſye.",
         "b": "die heylig Kilch ſye\ngſin vor dem Euangelio vñ d̃ zwölffbotten ge=\nſchrifft / vnd werd ouch in ewigkeyt belyben / ſo\nkein gſchrifft mer ſye.",
-        "similarity": 0.64
+        "similarity": 0.64,
+        "semantic": 0.7311,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Item in der andern Epiſt. zum Thimotheo am iij. cap. ſpricht Paulus: Ein yegkliche geſchrifft/die von Gott\nyngeſprochen iſt/iſt nützlich zů leren vnnd zů vnderwy-\nſen.",
         "b": "Jtem in d̃ andern Epiſt. zum Thimotheo iij. capi. ſpricht Paulus. Ein\nyegliche gſchrifft / die von gott yngeſprochen iſt\niſt nützlich zů leeren /",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.8848,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -81,13 +89,17 @@
         "op": "match",
         "a": "Nun iſt vil geſchriben nach der Bibliſchen geſchrifft/ durch die lieben heiligen/zů lüttrung vñ erkantnuß Bib\nliſcher geſchrifft/mein ich ouch Gott der heilig geyſt/můß\nge jnen die yngeſprochen han/ſonderlich die gſchrifft/die\nvon gemeyner Chriſtenlichen Kilchen angenommen iſt.",
         "b": "meyn ich ouch Gott\nder heylig geyſt / möge jnenn die yngeſprochen\nhaben / ſonderlich die gſchrifft / die von gemey=\nner Chriſtenlichen Kilchẽ angenommen iſt.",
-        "similarity": 0.4615
+        "similarity": 0.4615,
+        "semantic": 0.8449,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Es ſtadt ouch geſchriben in den Geſchichten der Apoſt-\nlen am xv. vnd xvj. capitel. Ir ſöllend halten die port\nder zwölffbotten/vñ die brüch der Elteren/ſpricht ouch\nPaulus/in der erſten Epiſtel zun Corinthern am xj.",
         "b": "Es\nſtat ouch geſchribẽ in den Geſchichten d̃ Apoſt\nlen am xv. vnd xvj. capitel. Jr ſöllend halten die\nBott der zwölffbotten /",
-        "similarity": 0.5667
+        "similarity": 0.5667,
+        "semantic": 0.6906,
+        "reading": "same"
       },
       {
         "op": "only_a",
@@ -111,7 +123,10 @@
         "op": "only_a",
         "a": "Von ſölichen brüchen findt man ouch geſchribē/ zun Theſſalonicheren in der anderen Epiſtel/am ande-\nren Cap. die nit all geſchriben ſtond/als ich mein. ℛ",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7563,
+        "semantic_match": "vnd die brüch der Elte=\nren / ſpricht ouch Paulus / in d̃ erſten Epiſt. zun",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -119,7 +134,12 @@
         "b": "vnd die brüch der Elte=\nren / ſpricht ouch Paulus / in d̃ erſten Epiſt. zun",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.764,
+    "reworded": 3,
+    "candidates": 1,
+    "recovered_by_embedding": 1,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.4656,

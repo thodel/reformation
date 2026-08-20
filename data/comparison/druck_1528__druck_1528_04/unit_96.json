@@ -39,7 +39,9 @@
         "op": "match",
         "a": "Die erſt\nvölcker/in eynigkeit der jrrthumb erhalten hatt/vnd so\nbald by vns das göttlich wort durch den fromen Ruf=\nfen in höchem harfür brochen hatt/hatt der alt feynd\nſine alte ſtückly wider harfür bracht/vnd vilerley ſeck=\nten/vnd zertrenung angerichtet/namlich da fryheit des\nworts geweſen iſt.",
         "b": "vnnd by den Ocidentaliſchen/ durch das Baͤpſtlich regiment uͤberhand genom\nmen hatt: iſt keyn wunder das es die voͤlcker/in\neynigkeyt der jrthumb erhalten hat/vnd ſo bald\nby vns das Goͤttlich wort durch den frommen\nHuſſen in Boͤhem harfuͤr brochen hat/hatt der\nalt feynd ſine alte ſtuͤckly wider harfuͤr bracht/",
-        "similarity": 0.4144
+        "similarity": 0.4144,
+        "semantic": 0.7727,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -51,7 +53,9 @@
         "op": "match",
         "a": "An anderen ortenn hatt er mit dem\nweltlichen gewalt/das wort zeundertrucken/vnder=\nſtandẽ/åben vff die wyß handlet er yetzunder/nach vff=\ngang des Euangelij by vns dürſchen/wo er die weltlich\noberkeyt/züuerbieten das predig ampt/nit bringẽ mag\nbewegt er ſunſt jrrige/vñ verwürret lüt/die vnbilliche\nzertrennung anrichten/das will dann Gott alſo haben/",
         "b": "das wort zeundertrucken / vnderſtanden : eben\nvff die wyß handlet er yetzunder/nach vffgang\ndes Euangelij by vns tuͤtſchen / wo er die welt=\nlich oberkeyt/zuͤuerbieten das predig ampt/",
-        "similarity": 0.4773
+        "similarity": 0.4773,
+        "semantic": 0.8439,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,25 +67,36 @@
         "op": "match",
         "a": "damit das die ſynen leren vff kein menſchen ſechen/ſon=\nders vff die verſicherung des heyligen geyſts/inwendig\nim hertzen.",
         "b": "damit das\ndie ſynen leeren vff kein menſchen ſehẽ / ſonders\nvff die verſicherung des heyligen geyſts/inwen\ndig im hertzen.",
-        "similarity": 0.75
+        "similarity": 0.75,
+        "semantic": 0.891,
+        "reading": "same"
       },
       {
         "op": "only_a",
         "a": "Ein yeder müß von gott gelert vnd in ſinem\nhertzen alſo verſichert ſyn/das er/wo nit allein ein Con=\ncilium nit allein die gantze welt/ſonders ouch die Engel\nvom himel mit zeichen/vnd wundern ein anders fürge=\nben/das er ſy mit Paulo/ſy verflüchen doͤrfft/Söllichs\nhab ich/lieben frommen Chriſten wellen zü antwurt ge=\nben/vff die ynreden des Prouincials/abzetriben den häl\nlen ſpruch der geyſtlich/das iſt ein yeder Chriſt/ſoll alles\nrichten yngefürt hat/Bezůg mich aber/das ich ſöllicher\nkeine mer verantwurtē will/bringt er gſchrifft/ſo findt\ner antwurt/bringt er eygen red/ſo findt er ſtilſchwigen/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.901,
+        "semantic_match": "ſonders ouch die Engel vom him=\nmel mit zeichen/ vnnd wundern ein anders fuͤr=\ngeben/das er ſy mit Paulo/ſy verfluͤchen doͤrfft/",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "damit aber üwer lieb/nach dẽ kampff menſchlicher redẽ\njre hertzen wider in dem liecht Göttlicher warheit erlu=\nſtigen möge/ſo wil ich das gemeldt ozt Pauli.j.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8473,
+        "semantic_match": "Soͤllichs hab ich/ lieben frõmen Chriſten wellen\nzuͤ antwurt geben/ vff die ynreden des Prouin=\ncials",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Corin=\nthern .ij. Cap. üwer lieb verläſen/vernemens aber mit\nflyß/dann der hafft daran lyt/vñ ſtürtzet eins mal vm\nnit allein die ynred des Prouincials/ſonders allen ver=\nmeinten",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7568,
+        "semantic_match": "ſonders ouch die Engel vom him=\nmel mit zeichen/ vnnd wundern ein anders fuͤr=\ngeben/das er ſy mit Paulo/ſy verfluͤchen doͤrfft/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -101,7 +116,12 @@
         "b": "Soͤllichs hab ich/ lieben frõmen Chriſten wellen\nzuͤ antwurt geben/ vff die ynreden des Prouin=\ncials",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8355,
+    "reworded": 2,
+    "candidates": 3,
+    "recovered_by_embedding": 3,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5018,

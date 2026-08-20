@@ -33,7 +33,10 @@
         "op": "only_a",
         "a": "**Schlußred.**\n\n**F**ürſtender vnd fridmacher/zwüſchen Gott vñ vns ſy/ das iſt allein Chriſtus Jeſus/vnd lutet die Schlußred\nſelb alſo:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7415,
+        "semantic_match": "Dann daß die Muͦter Gottes und die\nSeligen / die by Gott ſind / je angeruͤfft ſeyen zuͦ der Apo-\nſtel Zyten /",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -75,13 +78,17 @@
         "op": "match",
         "a": "Wie Chriſtus allein für vns geſtorben iſt/alſo\nſol er ein eyniger mittler zwüſchen Gott dem vatter/vñ\nvns ſin.",
         "b": "das iſt allein Chriſtus Jeſus / und\nlutet die Schlußred ſelbſt alſo: Wie Chriſtus allein fuͤr\nuns geſtorben iſt: alſo ſoll er ein einiger Mittler zwiſchen\nGott dem Vatter und uns ſyn.",
-        "similarity": 0.5
+        "similarity": 0.5,
+        "semantic": 0.8548,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Der glidern vnd gantzen lychnãs halb/ſicht ein\nyetlicher/das Paulus /j. Corinth. vij. die glider vnnd\nden lychnam Chriſti/alleyn beſchrybt/der noch in diſem\nzyt iſt/laſſend vns des oꝑden Text/der ward geleſen Seß\nhalb diß argument/wol das bewårt/das wir für einan=\ndern bitten ſöllen/diewyl wir in diſer zyt ſind:",
         "b": "Der Glidern und gantzen\nLychnams halb ſicht ein jeglicher / daß Paulus I. Cor. 12. die Glider und den Lychnam Chriſti allein beſchrybt /",
-        "similarity": 0.3846
+        "similarity": 0.3846,
+        "semantic": 0.6328,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -99,7 +106,9 @@
         "op": "match",
         "a": "aber das\nanrüffen vnd fürbitt dero/ſo vſſert diſerm zyt ſind/wirt\nnit bewårt. **Gilg Durer**\n\n**I**ch fragen oꝑ diſe ynred/ob nit die vſſerweltẽ heylige\nim himel/all vnſer mitglider ſyend.",
         "b": "ſo uſſert diſer Zyt ſind / wird nit bewaͤhrt. Gilg Durer. JCh frage uff diſe Ynred / ob nit die ußerwehlten\nHeiligen im Himmel all unſere Mitglider ſeyend. Eee                              Meiſter",
-        "similarity": 0.4839
+        "similarity": 0.4839,
+        "semantic": 0.6985,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
@@ -111,21 +120,35 @@
         "op": "only_a",
         "a": "Der mảnglen halb die wir tragẽ\nin diſem zyt/ſind ſy nit mer vnſer mitglider: dan die heye\nligen Gottes/berürt kein hitz noch arbeit/noch ſchmårtz\nmer/wie Eſaie ſtadt/deßhalb ſy nit der glidern ſind/võ Eſaie 25.",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7221,
+        "semantic_match": "als die\nSchlußred hat / allein von dem Mittler / der ein gewiſſer / ungezwyffleter Fuͤrſtender und Fridmacher zwiſchen\nGott und uns ſeye /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "Cap. denen Paulus an genantem ort redt. **Gilg Durer.**\n\n**S**o die lieben Heyligen mitglider Chriſti ſind/ſo\nmüſſend ſy ouch vnſere glider ſin:",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6633,
+        "semantic_match": "Dann daß die Muͦter Gottes und die\nSeligen / die by Gott ſind / je angeruͤfft ſeyen zuͦ der Apo-\nſtel Zyten /",
+        "reading": "candidate"
       },
       {
         "op": "only_a",
         "a": "dann es iſt als\nein lyb/So mögen ſy ouch für vns bitten. Sʒ\nbewårenn ich zů einem überfluß/vß dem Bůch",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.6953,
+        "semantic_match": "der noch in diſem Zyt iſt: laſſend uns deß uff den Text / (der ward verleſen) Deßhalb diß Argument wol das be-\nwaͤhrt /",
+        "reading": "candidate"
       }
-    ]
+    ],
+    "semantic": 0.7155,
+    "reworded": 2,
+    "candidates": 4,
+    "recovered_by_embedding": 4,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.3367,

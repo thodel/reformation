@@ -39,19 +39,26 @@
         "op": "match",
         "a": "Schlußred. Klar anzeÿgt/ſo er ſpricht/mitt der krafft vnßers herren\nJeſu Chriſti/deßhalb alle ſo bannen/nach dē geiſt Chri\nſti bannen werdē/oder aber es iſt ein gewalt/vñ frässen/",
         "b": "ist der gewalt Christi/als Paulus klar anzeigt/so er spricht/ mit der Krafft vnsers Herren Jesu Christi/deßhalb alle so\nbannen/nach dem Geist Christi bannen werden/oder aber\nes ist ein gewalt/vñ fräffen/setze der Pfarrer das ein Kilch-\nhoͤry gantz vnnd gar Gottloß sye/vnnd den Herren Jesum\nChristum nit erkenne/vnd gange zů derselben Kilchen/vnd\nsage/jr habend Goͤtzen vnnd Abgoͤttery/jr sind Abgoͤtter/",
-        "similarity": 0.434
+        "similarity": 0.434,
+        "semantic": 0.8178,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "ſetze der Pfarrer das ein Kilchhöry gang vnd gar got=\nloß ſye/vnd den Herren Jeſum Chriſtum nit erkenne\nvnd gange zů der ſelben Kilchen/vnnd ſage/jr habend\ngötzen vnd abgöttery/jr ſind abgötter/oder der glychen/",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.7408,
+        "semantic_match": "en daß\nmbyff/ Gott\nvolget/ hupffet\non Gott\nvßsetzt\nß/da-\nn Bruͤ-\nVolcks\nn/der\nch ver-\nPfar-\nan sye\nein",
+        "reading": "candidate"
       },
       {
         "op": "match",
         "a": "ſo wirt der die warheit geredt hatt verbanet/warum=\ndarumb das die ſelbe Kilch den geyſt Chriſti nitt hatt/ vnd durch jn nit geregiert wirt/darūß lichtlich ermessen\nwirt/das der gewalt zebannen kein gewalt des menſchē\niſt/ſonder die würckung des einigen gottes/dañ wo Got\nden Ban nit waltet/mit ſinem geiſt/ſo iſt es ein thyran=\nny vnd ein geböch/vñ nit ein beſſerung oder zucht/das er\naber demnach/ouch vnsůcht den ſpruch Pauli.",
         "b": "oder derglychen/so wirt der die Warheit geredt hat/ver-\nbannet/warumb? darumb daß die selbe Kilch den Geist\nChristi nit hat/vnd durch jñ nit geregiert wirt/daruß licht-\nlich ermessen wirt/daß der gewalt zebannen kein gewalt\ndeß Menschen ist/sonder die Wuͤrckung deß einigen Got-\ntes/dann wo Gott den Bann nit waltet/mit sinem Geist/",
-        "similarity": 0.5362
+        "similarity": 0.5362,
+        "semantic": 0.6396,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -63,19 +70,26 @@
         "op": "match",
         "a": "j.ad Thi=\nmoth. j. Cap. Welichen Himeneü vnd Alexandrum ich\ndem tüffel geben hab/damit ſy gezüchtiget werdent nit\nzeleſteren/vnd vermeint damit zebewåren.",
         "b": "ad Timoth. 1. cap. Welichen Himeneum vnd Ale-\nxandrum ich dem Tuͤffel geben hab/damit sy gezuͤchtiget\nwerdent nit zelesteren/vnnd vermeint damit zebewaͤren:",
-        "similarity": 0.5769
+        "similarity": 0.5769,
+        "semantic": 0.7524,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Paulus ha=\nbe allein an die Kilchen gebannet/iſt aber ein irrung/vñ\nein vnwüſſenheit des bruchs der geſchrifft/die allenthal\nben vil Synechdochen brucht/das iſt ein art/da man/eint=\nweders/glider für die menge/oder/harwiderumb die\nmenge für die glider nenet/als do man einē Rhatz Bottē\nder Erſamen von Bernn/die von Bernn nempt/vnd\nharwiderumb/ſpricht/die von Bernn redtend/oder ga\nbend antwurt/vnd redtent aber nit all von Bernn/ſon\nder der einig Bott/alſo ſpricht ouch hie Paulus/ich hab\nſy dem tüffel gegeben/nitt das er ſy allein gebannet hab/",
         "b": "Paulus habe allein on die Kilchen gebannet/ist aber ein\njrrung/vnnd ein vnwüssenheit deß bruchs der Geschrifft/ die allenthalben vil Synechdochen brucht/das ist ein art/",
-        "similarity": 0.3465
+        "similarity": 0.3465,
+        "semantic": 0.6251,
+        "reading": "reworded"
       },
       {
         "op": "only_a",
         "a": "ſonder das er wil ſagen/ſy ſind vmb jrs abfals willen ge=\nbannet/von der Kilchen/dero ich jren abfal fürgeragt\nhab/ſo vil hab ich lieben brüder vom Ban zůerlüterung\nG",
         "b": null,
-        "similarity": 0.0
+        "similarity": 0.0,
+        "semantic": 0.8032,
+        "semantic_match": "G\tiij\n\n## Marginalien\nament\nvnnd\nampt/ ich mit\nt/das\nn selben\nen/biß\n/glich\nder aller\ne dann\nvelches\nentwå-\nBan/",
+        "reading": "candidate"
       },
       {
         "op": "only_b",
@@ -95,7 +109,12 @@
         "b": "en daß\nmbyff/ Gott\nvolget/ hupffet\non Gott\nvßsetzt\nß/da-\nn Bruͤ-\nVolcks\nn/der\nch ver-\nPfar-\nan sye\nein",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.7298,
+    "reworded": 2,
+    "candidates": 2,
+    "recovered_by_embedding": 2,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5087,

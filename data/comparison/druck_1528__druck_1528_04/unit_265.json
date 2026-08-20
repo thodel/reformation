@@ -45,13 +45,17 @@
         "op": "match",
         "a": "**Zwingli.+**\n\nA vnſer brůder bekennt/das die wort Joannis\nam vv. cap. Jeſus hat ſy anſuchet.zc. nit glych\nſin denen worten/Das iſt min lychnam:",
         "b": "Zwingly. So vnſer bruͤder bekennt / das die wort Jo=\nhannis am xx.cap.Jeſus hat ſy ankuchet/ꝛc.nit\nglych ſin denen worten .",
-        "similarity": 0.6
+        "similarity": 0.6,
+        "semantic": 0.8852,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "vñ wil\naber damit bewårt haben/das die wort ſöllen verſtandẽ\nwerden/Vnder dem Brot iſt min lychnam/ſo wurde jm\nbas dienen/daß das waſſer in die krůg geſaſſet iſt/vnd Ioan.",
         "b": "Das iſt min lychnam: vnd wyl aber damit bewårt haben/das die wort\nſoͤllen verſtanden werden / Vnder dem Brot iſt\nmin lychnā /",
-        "similarity": 0.4643
+        "similarity": 0.4643,
+        "semantic": 0.8272,
+        "reading": "reworded"
       },
       {
         "op": "only_b",
@@ -63,25 +67,33 @@
         "op": "match",
         "a": "am anderẽ\nzů wyn gemacht/weder diß ort. Wellen hieby von dem Capitel. anblaaſen vñ geyſt Chriſtinit beſonder red halten:",
         "b": "Wellen hieby von dem anblaaſen\nvnd geyſt Chriſti nit beſonder red halten: dann\nes nit zuͤ der ſach dienet. Pfarrer von Sant Gallen.",
-        "similarity": 0.4186
+        "similarity": 0.4186,
+        "semantic": 0.5964,
+        "reading": "different"
       },
       {
         "op": "match",
         "a": "dañ\nes nit zů der ſach diener. **Pfarrer von Sant Gallen.+**\n\nV hůtt vergangen vilfaltigen fürtrågen/mi\nner lieben herrn vnd mitbrůdern/beſelchen wir\nſölichs alles den Actis.",
         "b": "Vff huͤt vergangen vilfaltigen fuͤrtragen/ mi\nner lieben herrn vnd mitbruͤdern / befelchen wir\nſoͤlichs alles den Actis .",
-        "similarity": 0.449
+        "similarity": 0.449,
+        "semantic": 0.7585,
+        "reading": "reworded"
       },
       {
         "op": "match",
         "a": "Iſt hieruff vnſer begå=\nren nit zedisputierẽ/ob das Brot/oder im Brot/oð der=\nglychen zanckredẽ(wie die vernunfft ſölchs harfür brin=\ngen möcht) der lyb Chriſti ſye.",
         "b": "Iſt hieruff vnſer begå=\nren nit zedisputieren/ob das Brot/oder im brot/ oder derglychen zanckreden (wie die vernunfft\nſoͤlichs herfuͤr bringē moͤcht)der lyb Chriſti ſye.",
-        "similarity": 0.6441
+        "similarity": 0.6441,
+        "semantic": 0.9071,
+        "reading": "same"
       },
       {
         "op": "match",
         "a": "Allein wellẽ wir/vns wer\nde der lyb Chriſti (lut der worten/Nemend vnd eſſend/ das iſt min lyb) mitgeteylt. Hieruff erwarten wir (lut\nJi",
         "b": "Allein wellē wir/vns werde der lyb Chriſti (lut\nder worten : Nemmend vnd eſſend/ das iſt myn\nlyb)mitgeteylt . Hieruff erwarten wir (lut der\nſchlußreden)das ſy vns mit ſchrifft bybringend\ndie wort des Nachtmals /",
-        "similarity": 0.6667
+        "similarity": 0.6667,
+        "semantic": 0.8305,
+        "reading": "same"
       },
       {
         "op": "only_b",
@@ -95,7 +107,12 @@
         "b": "im lyb der Junckfrouw Marie / wie er geboren\ns v\n\n## Marginalien\nJoan.2.ca.",
         "similarity": 0.0
       }
-    ]
+    ],
+    "semantic": 0.8008,
+    "reworded": 2,
+    "candidates": 0,
+    "recovered_by_embedding": 0,
+    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
   },
   "fine": {
     "similarity": 0.5322,
