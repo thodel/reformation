@@ -806,7 +806,7 @@
     <div class="ub-controls">
       <input type="search" id="ub-filter" placeholder="Titel und Inhalt durchsuchen…"
              autocomplete="off" aria-label="Inhaltsverzeichnis durchsuchen"
-             oninput="renderUebersicht()">
+             oninput="renderUebersicht(); updateSectionUrl('uebersicht', this.value.trim() || null);">
       <span class="ub-count" id="ub-count"></span>
     </div>
     <div id="ub-body"><p class="vg-empty">Lade Inhaltsverzeichnis…</p></div>
@@ -1836,8 +1836,12 @@ function showSection(event, id) {
     updateDisputation();
   } else if (id === 'suche') {
     renderGlobalSearchFilters();
+    updateSectionUrl('suche');
+  } else if (id === 'home' || id === 'ressourcen') {
+    updateSectionUrl(id);
   } else if (id === 'uebersicht') {
     initUebersicht();
+    updateSectionUrl('uebersicht');
   } else if (id === 'vergleich') {
     initVergleich();
     renderSimilarityMatrix();
@@ -2098,11 +2102,48 @@ function navigateToDisputationFromUrl() {
 
 // Handle browser back/forward (hash changes)
 window.addEventListener('hashchange', () => {
+  // Back and forward through comparison links.
+  const vergleichParams = parseVergleichUrl();
+  if (vergleichParams) {
+    const section = document.getElementById('vergleich');
+    if (!section || !section.classList.contains('active')) {
+      showSectionById('vergleich');
+      initVergleich();
+      renderSimilarityMatrix();
+      renderDivergenceHeatmap();
+      return;
+    }
+    const pairChanged = vergleichParams.a !== vergleichState.a
+      || vergleichParams.b !== vergleichState.b;
+    if (pairChanged) {
+      vergleichState.a = vergleichParams.a;
+      vergleichState.b = vergleichParams.b;
+      document.getElementById('vg-a').value = vergleichParams.a;
+      document.getElementById('vg-b').value = vergleichParams.b;
+      loadVergleichIndex().then(() => {
+        if (vergleichParams.unit) openVergleichUnit(vergleichParams.unit);
+      });
+      return;
+    }
+    if (vergleichParams.mode !== vergleichState.mode) setVergleichMode(vergleichParams.mode);
+    if (vergleichParams.unit && vergleichParams.unit !== vergleichState.unit) {
+      openVergleichUnit(vergleichParams.unit);
+    }
+    return;
+  }
+
   // Try disputation URL first
   const disputationParams = parseDisputationUrl();
   if (disputationParams) {
     const variant = DISPUTATION_VARIANTS.find(v => v.id === disputationParams.variantId);
     if (!variant) return;
+    // A link followed from another section has to switch section too, not only
+    // move the page within one already open.
+    const section = document.getElementById('disputation');
+    if (!section || !section.classList.contains('active')) {
+      showSectionById('disputation');
+      initDisputationViewer();
+    }
     if (variant.id !== disputationState.variantId) {
       switchDisputationVariantById(variant.id);
     }
@@ -2117,13 +2158,21 @@ window.addEventListener('hashchange', () => {
   // Try predigten URL
   const predigtenParams = parsePredigtenUrl();
   if (predigtenParams) {
+    const section = document.getElementById('predigten');
+    if (!section || !section.classList.contains('active')) {
+      showSectionById('predigten');
+      initPredigtenViewer();
+    }
     const targetPage = predigtenParams.pageNum - 1;
     if (targetPage !== predigtenState.currentPageIndex) {
       predigtenState.currentPageIndex = targetPage;
-      updatePredigten();
     }
+    updatePredigten();
     return;
   }
+
+  // A plain section link, including a shared search
+  applySectionUrl(parseSectionUrl());
 });
 
 function switchDisputationVariantById(variantId) {
@@ -2922,6 +2971,7 @@ function setAllSearchFilters(value) {
 function triggerGlobalSearch() {
   const input = document.getElementById('gs-input');
   const query = input ? input.value.trim() : '';
+  updateSectionUrl('suche', query || null);
   runGlobalSearch(query);
 }
 
@@ -3285,6 +3335,7 @@ function setVergleichMode(mode) {
   document.getElementById("vg-mode-para").classList.toggle("active", mode === "para");
   document.getElementById("vg-mode-app").classList.toggle("active", mode === "app");
   renderVergleichList();
+  updateVergleichUrl();
   const unit = vergleichState.unit && vergleichState.unitCache.get(vergleichState.unit);
   if (unit) renderVergleichUnit(unit);
 }
@@ -3292,20 +3343,45 @@ function setVergleichMode(mode) {
 function onVergleichPairChange() {
   vergleichState.a = document.getElementById("vg-a").value;
   vergleichState.b = document.getElementById("vg-b").value;
+  vergleichState.unit = null;
+  updateVergleichUrl();
   loadVergleichIndex();
 }
 
+// #/vergleich/<a>__<b>[/<einheit>[/<ebene>]] - every part of the view a reader
+// might want to cite: which two witnesses, which passage, and at which
+// granularity they were reading it.
+const VERGLEICH_MODES = ["word", "para", "app"];
+
 function updateVergleichUrl() {
-  const { a, b, unit } = vergleichState;
-  if (!unit) return;
-  const hash = `#/vergleich/${a}__${b}/${unit}`;
-  if (window.location.hash !== hash) window.location.hash = hash;
+  const { a, b, unit, mode } = vergleichState;
+  if (!a || !b || a === b) return;
+  let hash = `#/vergleich/${a}__${b}`;
+  if (unit) {
+    hash += `/${unit}`;
+    if (mode && mode !== "word") hash += `/${mode}`;
+  }
+  if (window.location.hash === hash) return;
+  // replaceState keeps the back button meaning "the page I came from" rather
+  // than filling history with every toggle of the granularity.
+  if (window.history && window.history.replaceState) {
+    window.history.replaceState(null, "", hash);
+  } else {
+    window.location.hash = hash;
+  }
 }
 
 function parseVergleichUrl() {
-  const match = window.location.hash.match(/^#\/vergleich\/([^/]+)__([^/]+)\/(\d+)/);
+  const match = window.location.hash.match(
+    /^#\/vergleich\/([^/]+)__([^/]+)(?:\/(\d+))?(?:\/([a-z]+))?/);
   if (!match) return null;
-  return { a: match[1], b: match[2], unit: parseInt(match[3], 10) };
+  const mode = VERGLEICH_MODES.includes(match[4]) ? match[4] : "word";
+  return {
+    a: match[1],
+    b: match[2],
+    unit: match[3] ? parseInt(match[3], 10) : null,
+    mode,
+  };
 }
 
 async function initVergleich() {
@@ -3316,9 +3392,11 @@ async function initVergleich() {
     vergleichState.b = params.b;
     document.getElementById("vg-a").value = params.a;
     document.getElementById("vg-b").value = params.b;
+    if (params.mode !== vergleichState.mode) setVergleichMode(params.mode);
   }
   if (!vergleichState.index) await loadVergleichIndex();
-  if (params && vergleichState.index) openVergleichUnit(params.unit);
+  if (params && params.unit && vergleichState.index) openVergleichUnit(params.unit);
+  else updateVergleichUrl();
 }
 
 // ------------------------------------------------- Ähnlichkeitsmatrix (#16)
@@ -3640,6 +3718,56 @@ function openTocSegment(page) {
   updateDisputation();
 }
 
+// ------------------------------------------------------- Zitierbare URLs
+// Every section is addressable, so any view can be linked to or cited.
+// predigten, disputation and vergleich carry their own state in the hash and
+// write it themselves; the rest are named here.
+const SIMPLE_SECTIONS = ["home", "uebersicht", "ressourcen"];
+
+function updateSectionUrl(id, extra) {
+  let hash = id === "home" ? "#/" : `#/${id}`;
+  if (extra) hash += `/${encodeURIComponent(extra)}`;
+  if (window.location.hash === hash) return;
+  if (window.history && window.history.replaceState) {
+    window.history.replaceState(null, "", hash);
+  } else {
+    window.location.hash = hash;
+  }
+}
+
+function parseSectionUrl() {
+  const hash = window.location.hash;
+  if (!hash || hash === "#" || hash === "#/") return { id: "home", extra: null };
+  const match = hash.match(/^#\/([a-zA-Z]+)(?:\/(.*))?$/);
+  if (!match) return null;
+  const id = match[1];
+  if (!SIMPLE_SECTIONS.includes(id) && id !== "suche") return null;
+  let extra = null;
+  if (match[2]) {
+    try { extra = decodeURIComponent(match[2]); } catch (e) { extra = match[2]; }
+  }
+  return { id, extra };
+}
+
+function applySectionUrl(params) {
+  if (!params) return false;
+  showSectionById(params.id);
+  if (params.id === "uebersicht") {
+    initUebersicht();
+    if (params.extra) {
+      const input = document.getElementById("ub-filter");
+      if (input) { input.value = params.extra; renderUebersicht(); }
+    }
+  } else if (params.id === "suche" && params.extra) {
+    const input = document.getElementById("gs-input");
+    if (input) { input.value = params.extra; runGlobalSearch(params.extra); }
+    renderGlobalSearchFilters();
+  } else if (params.id === "suche") {
+    renderGlobalSearchFilters();
+  }
+  return true;
+}
+
 // Sticky nav effect.
 function updateNavElevation() {
   const nav = document.querySelector('nav');
@@ -3668,11 +3796,24 @@ updatePredigten();
 
 // Check URL for deep linking
 (function initDeepLink() {
+  // A shared comparison link must open the Vergleich tab, not the default one.
+  const vergleichParams = parseVergleichUrl();
+  if (vergleichParams) {
+    showSectionById('vergleich');
+    initVergleich();
+    renderSimilarityMatrix();
+    renderDivergenceHeatmap();
+    return;
+  }
   const disputationParams = parseDisputationUrl();
   if (disputationParams && disputationParams.variantId) {
     showSectionById('disputation');
     navigateToDisputationFromUrl();
     initDisputationViewer();
+    updateDisputation();
+    return;
+  }
+  if (applySectionUrl(parseSectionUrl())) {
     updateDisputation();
     return;
   }
