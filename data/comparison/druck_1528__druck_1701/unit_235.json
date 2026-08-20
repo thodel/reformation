@@ -8,7 +8,7 @@
       244
     ]
   },
-  "alignment_score": 0.204,
+  "alignment_score": 0.206,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 4,
     "only_b": 6,
-    "similarity": 0.4615,
+    "similarity": 0.4657,
     "pairs": [
       {
         "op": "only_b",
@@ -67,43 +67,33 @@
       },
       {
         "op": "match",
-        "a": "Seite IXD\n**Die vierdt**\ndem tod/ in den worten verheyßt/ vnnd von dem eſſenn\nfür vertruwen in ſich.ꝛc. **Pfarrer von Sant Gallen.**\nFRomen Chriſten/",
+        "a": "**Die vierdt**\ndem tod/ in den worten verheyßt/ vnnd von dem eſſenn\nfür vertruwen in ſich.ꝛc. **Pfarrer von Sant Gallen.**\nFRomen Chriſten/",
         "b": "daß er\nallein von dem Tod in den Worten verheiſzt / und von\ndem eſſen fuͤr vertrauen in ſich / ꝛc.",
-        "similarity": 0.4444,
-        "semantic": 0.3895,
-        "reading": "different"
+        "similarity": 0.4651
       },
       {
         "op": "match",
         "a": "damit vnd all wytſchweiffig\nred vermitten blyben/ vnd ſo alleyn zum han=\ndel diener/ herfür bracht/ bin ich erfordert wor=\nden/",
         "b": "Pfarrer von Sant Gallen. FRomme Chriſten / damit und all wytſchweiffig Red . vermitten blyben / und ſo allein zum Handel dienet / herfuͤr bracht /",
-        "similarity": 0.5116,
-        "semantic": 0.6659,
-        "reading": "same"
+        "similarity": 0.5116
       },
       {
         "op": "match",
         "a": "durch min herr vn͂ mitbrüder Meiſter Vl=\nrich/ mit vßtruckten worten zeantwurten/ ob der ſpruch\nJohannis am vj. capitel: Das brot/",
         "b": "bin ich erfordert worden / durch myn Herr\nund Mitbruͤder Meiſter Ulrich / mit vſztruckten Worten\nzeantworten / ob der Spruch Johannis am 6.",
-        "similarity": 0.4651,
-        "semantic": 0.818,
-        "reading": "reworded"
+        "similarity": 0.4651
       },
       {
         "op": "match",
         "a": "welches ich gebenn\nwirt.ꝛc. ynſchlieſſe/ den tod Chriſti allein/ oder ouch das\nlyblich eſſen des fleyſchs Chriſti. Antwurt/ Das brot ſo\nda anzogenn wirt/",
         "b": "Capitel / Das Brot / welches ich geben wird / ꝛc. ynſchlieſſe den\nTod Chriſti allein / oder auch das lyblich Eſſen deß Flei-\nſches Chriſti.",
-        "similarity": 0.5532,
-        "semantic": 0.8739,
-        "reading": "same"
+        "similarity": 0.5532
       },
       {
         "op": "match",
         "a": "iſt die verheyſſung deß/ ſo Chriſtus\ndurch die anderen dry Euangeliſten/ vnnd den heyligen\nPaulum/ das Nachtmal beſchrybend/ in die hennd ge=\nnomen hat/",
         "b": "Antwort : Das Brot / ſo da anzogen wird / iſt die Verheiſſung deß / ſo Chriſtus durch die andern drey\nEvan=",
-        "similarity": 0.3333,
-        "semantic": 0.7178,
-        "reading": "reworded"
+        "similarity": 0.3333
       },
       {
         "op": "only_a",
@@ -121,37 +111,26 @@
         "op": "only_a",
         "a": "ſölichs in ſinem ſchryben zeerfüllẽ/ als\nden geübten der geſchrifft erfarend/ vnnd befelchend/ zů\nfürdrung der ſach/ ſölich yntrag beſchehen/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7934,
-        "semantic_match": "Von dem\nWort aber / Dabo. befihl ichs der Geſchrifft. Zwingly. JCherfordere fuͤr und fuͤr an unſerm lieben Bruͤder /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "des vj. cap. halb Johannis/ der geſchrifft vnnd allen Chriſtenlichen\nläſern. **Meiſter Vlrich Zwingli.**\nVNſers brüders antwurt/ beſzömbdet vns/ das\ner mitt den dryen Euangeliſten bewärenn wil/ das an dißem ort verheyſſen werde/ das Sacra\nmentlich",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8241,
-        "semantic_match": "Von dem\nWort aber / Dabo. befihl ichs der Geſchrifft. Zwingly. JCherfordere fuͤr und fuͤr an unſerm lieben Bruͤder /",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7261,
-    "reworded": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 2
+    ]
   },
   "fine": {
-    "similarity": 0.29,
+    "similarity": 0.2913,
     "words": {
-      "a": 221,
+      "a": 219,
       "b": 241
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite IXD",
+        "op": "insert",
+        "a": "",
         "b": "228"
       },
       {

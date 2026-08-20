@@ -8,7 +8,7 @@
       91
     ]
   },
-  "alignment_score": 0.3348,
+  "alignment_score": 0.3379,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,25 +27,25 @@
     "matched": 4,
     "only_a": 3,
     "only_b": 4,
-    "similarity": 0.4087,
+    "similarity": 0.4619,
     "pairs": [
-      {
-        "op": "match",
-        "a": "Seite [X]\n**Die erst**\njm/namlich mit dem wort Gottes/wo das ein rechtenn\nverstand hett/wider das nit zesin:",
-        "b": "wort gottes / Sprich ich mit dem einen\nbin Ich woll mit Im / Namlich mit dem\nwort gotes / wo das ein rechten verstand het /",
-        "similarity": 0.4186
-      },
       {
         "op": "only_b",
         "a": null,
-        "b": "wider das nit zesin / dan ob got will\nniemand ist der wider das haͤll wort gots\nsy welches keins richters darff /",
+        "b": "wort gottes / Sprich ich mit dem einen\nbin Ich woll mit Im / Namlich mit dem\nwort gotes / wo das ein rechten verstand het /",
         "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "dann ob Gott wil nie\nmand ist/der wider das håll wort Gotts sye/welches kei\nnes richters darff: dann es gericht ist/durch das ewig\nwort/aber der mißuerstand der geschrifft/der selb eruoz=\nschet ein göttlich vßlegen.",
+        "a": "**Die erst**\njm/namlich mit dem wort Gottes/wo das ein rechtenn\nverstand hett/wider das nit zesin: dann ob Gott wil nie\nmand ist/der wider das håll wort Gotts sye/welches kei\nnes richters darff:",
+        "b": "wider das nit zesin / dan ob got will\nniemand ist der wider das haͤll wort gots\nsy welches keins richters darff /",
+        "similarity": 0.4407
+      },
+      {
+        "op": "match",
+        "a": "dann es gericht ist/durch das ewig\nwort/aber der mißuerstand der geschrifft/der selb eruoz=\nschet ein göttlich vßlegen.",
         "b": "dann\nes gericht ist / durch das ewig wort / aber\nder mißverstand der geschrifft / derselb\nervorschet / ein goͤttlich vßlegen / vnnd\nso her Berchtold mine spruͤch /",
-        "similarity": 0.4615
+        "similarity": 0.6522
       },
       {
         "op": "match",
@@ -98,15 +98,15 @@
     ]
   },
   "fine": {
-    "similarity": 0.5045,
+    "similarity": 0.5068,
     "words": {
-      "a": 250,
+      "a": 248,
       "b": 190
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite X Die erst",
+        "a": "Die erst",
         "b": "wort gottes Sprich ich mit dem einen bin Ich woll mit"
       },
       {

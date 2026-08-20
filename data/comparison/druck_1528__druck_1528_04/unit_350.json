@@ -8,7 +8,7 @@
       403
     ]
   },
-  "alignment_score": 0.3233,
+  "alignment_score": 0.3282,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 2,
     "only_b": 5,
-    "similarity": 0.5904,
+    "similarity": 0.5974,
     "pairs": [
       {
         "op": "only_b",
@@ -61,35 +61,27 @@
       },
       {
         "op": "match",
-        "a": "Seite LXXII\nDie vierde\nWalterus klarer. IR dörffen mich nit fragen/ gebend antwurt vff\nmin Sylogismum / ob der lychnam Chriſti ly=\nplich vnd empfindelich geſſen werde.",
+        "a": "Die vierde\nWalterus klarer. IR dörffen mich nit fragen/ gebend antwurt vff\nmin Sylogismum / ob der lychnam Chriſti ly=\nplich vnd empfindelich geſſen werde.",
         "b": "Waltherus Klarer. Ir doͤrffen mich nit fragen / gebend antwurt\nvff min Sylogiſmum / ob der lychnam Chriſti lyp=\nlich vnd empfindtlich geeſſen werde.",
-        "similarity": 0.6531,
-        "semantic": 0.9089,
-        "reading": "same"
+        "similarity": 0.6809
       },
       {
         "op": "match",
         "a": "Pfarrer von Appenzell. SO er mich fragt/ ob der lyb Chriſti da lyplich vñ\nempfindelich geeſſen werd / ſprich ich neyn /",
         "b": "Pfarrer von Appenzell. So er mich fragt/ob der lyb Chriſti da lyplich\nvnnd empfindtlich geeſſen werd/ſprich ich nein/",
-        "similarity": 0.85,
-        "semantic": 0.9747,
-        "reading": "same"
+        "similarity": 0.85
       },
       {
         "op": "match",
         "a": "ſon=\nders die geſtalt / vnder welcher er wäſenlich mit\nfleyſch vñ mitt blůt iſt / vñ ds hab ich gnůgſam darthan\nReferier mich widerumb vff min dargelegte gſchrifft.",
         "b": "ſonders die geſtalt / vnder' welcher er waͤſenlich\nmit fleyſch vnd mit bluͤt iſt/vñ das hab ich gnuͤg\nſam darthon /",
-        "similarity": 0.44,
-        "semantic": 0.8362,
-        "reading": "reworded"
+        "similarity": 0.44
       },
       {
         "op": "match",
         "a": "Walterus klarer. WJrt er nit empfindelich geeſſen / ſo iſt er nit im Sa=\ncrament. Pfarrer von Appenzell. REferier mich ad Acta /",
         "b": "referier mich widerumb vff min\ndargelegte gſchrifft. Waltherus Klarer. Wirt er nit empfintlich geeſſen/ſo iſt er nit im\nSacrament. Aa v",
-        "similarity": 0.4186,
-        "semantic": 0.6127,
-        "reading": "reworded"
+        "similarity": 0.4186
       },
       {
         "op": "only_a",
@@ -101,28 +93,20 @@
         "op": "only_a",
         "a": "EWirdig / hoch vnd wolgelert / fürſichtig / wyß\nHerrn fromē Chriſtē / diewyl der Pfarrer vonn Appēzell\nvnſer mittgnoß / ſich bißhar wider all ſchlußredē ingelaſſē\nvnd die ſelbē ze widerfechtē vndernomē hat: dem gedachtē\nten Pfarrer",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6996,
-        "semantic_match": "Vnnd laſſes alſo\nby yngelegter copy beliben. Waltherus Klarer. Es lyt nit an uͤwer gſchrifft/jr hand verjehen\ndas wir den getoͤdtnen /",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.8064,
-    "reworded": 2,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.3371,
+    "similarity": 0.339,
     "words": {
-      "a": 152,
+      "a": 150,
       "b": 204
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite LXXII Die vierde Walterus",
+        "a": "Die vierde Walterus",
         "b": "Schlußred CLXXXIX geben hab ſindt man dargethon in miner ynge leyten gſchrifft Was wo lle wir ſu che ordnung der natur an dem der da u bernatu rlich geboren iſt als vnſer gloub kla rlich anzeygt Geboren vß der Junckfrouwen Maria ꝛc Vnnd laſſes alſo by yngelegter copy beliben Waltherus Klarer Es lyt nit an u wer gſchrifft jr hand verjehen das wir den geto dtnen oder gecru tzgeten lych nam eſſen Nun hat er empfindtlich gelitten ſo mu ſſen wir jn ouch empfindtlich eſſen Pfarrer von Appenzell Frag ich jnn ob doch Chriſtus ein anderen lyb hab dañ in dem er gelitten geſtorben od zehimel gefaren ſye oder ob er mer dañ einen lyb hab Waltherus"
       },
       {

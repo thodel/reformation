@@ -8,7 +8,7 @@
       410
     ]
   },
-  "alignment_score": 0.4576,
+  "alignment_score": 0.4655,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 1,
     "only_b": 2,
-    "similarity": 0.5407,
+    "similarity": 0.5446,
     "pairs": [
       {
         "op": "only_b",
@@ -37,11 +37,9 @@
       },
       {
         "op": "match",
-        "a": "Seite 170\nCLXX\n\nDiß ist die fünffte Schlußred. Die Mäß yetz im bruch/darinn man\nChristū/Gott dem vatter/für die sünd\nder läbendigen vnnd todten/vffopffere/ist\nder geschrifft widrig/dem aller heiligosten\nopffer/lyden vnd sterben Christi/ein leste=\nrung/vnd vmb der mißbrüchen willē/ein\ngrüwel vor Gott.",
+        "a": "CLXX\n\nDiß ist die fünffte Schlußred. Die Mäß yetz im bruch/darinn man\nChristū/Gott dem vatter/für die sünd\nder läbendigen vnnd todten/vffopffere/ist\nder geschrifft widrig/dem aller heiligosten\nopffer/lyden vnd sterben Christi/ein leste=\nrung/vnd vmb der mißbrüchen willē/ein\ngrüwel vor Gott.",
         "b": "fuͤr die Suͤnd der\nLaͤbendigen vnnd Todten / vffopffere / iſt der\nGeſchrifft widrig / dem aller heiligoſten Opf-\nfer/lyden vnd ſterben Chriſti /",
-        "similarity": 0.4267,
-        "semantic": 0.7547,
-        "reading": "reworded"
+        "similarity": 0.4384
       },
       {
         "op": "only_b",
@@ -53,44 +51,32 @@
         "op": "match",
         "a": "Berchtoldus Haller. Das ist vnser grund/ in der j. Epi. Johannis iij. capitel. Welcher Christū\nhat erkennt/der weyßt/das\nEr/Gott vnnd mensch/ein\nheyland ist der welt/vnd dz\nniemand mag zum Vatter\nkommen/dann allein durch\nChristū/Johannis vj.",
         "b": "Capitel. Welcher Chriſtum\nhat erkennt/ der weiſſt / das Er\nGott vnd Menſch/ein Heiland\niſt der Welt / vnd das niemand\nmag zum Vatter kommen/dann\nallein durch Chriſtum /",
-        "similarity": 0.6286,
-        "semantic": 0.8121,
-        "reading": "same"
+        "similarity": 0.6286
       },
       {
         "op": "match",
         "a": "Dañ\ner ist dem vatter so lieb/das\ner vmb sinentwillen/vns be\ngnadiget. Er hat ouch das werck der erlösung/volkom=\nme vßgericht/one alle mitgehülffen/Esaie.lviij.",
         "b": "Johan-\nnis am 6. Dann er iſt dem Vat-\nter ſo lieb/das er vmb ſinet willen/vns begnadiget. Er hat\nouch das werck der erloͤſung/ vollkommen vßgericht / ohne\nalle",
-        "similarity": 0.5667,
-        "semantic": 0.8218,
-        "reading": "same"
+        "similarity": 0.5667
       },
       {
         "op": "only_a",
         "a": "Er hat\nvff alle wyß/vff das gnügsamest/für vns bezalt/vnnd\nDu ij",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7398,
-        "semantic_match": "376\n# Diß iſt die fuͤnfft Schluß\n### red. Die Maͤß jetz im bruch/darinn man Chri-\nſtum / Gott dem Vatter /",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7821,
-    "reworded": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.609,
+    "similarity": 0.6136,
     "words": {
-      "a": 136,
+      "a": 134,
       "b": 130
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite 170 CLXX",
+        "a": "CLXX",
         "b": "376"
       },
       {

@@ -8,15 +8,15 @@
       203
     ]
   },
-  "alignment_score": 0.2857,
+  "alignment_score": 0.2885,
   "coarse": {
     "paragraphs": {
-      "a": 5,
+      "a": 4,
       "b": 3
     },
     "counts": {
       "equal": 0,
-      "replace": 5,
+      "replace": 4,
       "delete": 0,
       "insert": 0
     },
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 3,
     "only_b": 3,
-    "similarity": 0.523,
+    "similarity": 0.5257,
     "pairs": [
       {
         "op": "only_b",
@@ -43,19 +43,15 @@
       },
       {
         "op": "match",
-        "a": "Seite LXXIX\n\n**Schlußred. Martinus Butzer.**\n\nDEß Suñtags halben/iſt nit geredt worden/ das jnn die Kilch gebotte hab/ſunders zuͦ guͦt\nder gemeynd/iſt er frywillig angenomen wor\nden.",
+        "a": "**Schlußred. Martinus Butzer.**\n\nDEß Suñtags halben/iſt nit geredt worden/ das jnn die Kilch gebotte hab/ſunders zuͦ guͦt\nder gemeynd/iſt er frywillig angenomen wor\nden.",
         "b": "vnd am 20. werden ouch Gſchrifften ingefürt / als ob ſy anderſtwo in\nBibliſchen Gſchrifften gefunden wurden. Martinus Bucerus. DEß Sontags halben/iſt nit geredt worden/das jnn\ndie Kilch gebotten hab/ſunders zů gůt der gemeind/",
-        "similarity": 0.4478,
-        "semantic": 0.7305,
-        "reading": "reworded"
+        "similarity": 0.4615
       },
       {
         "op": "match",
         "a": "Derglichen der Apoſtlen tag/wiewol die\nſelbigen nie glichermassen/angenomen vñ gewaͤſen ſind/ Darumb waͤr hierinn etwas gebuͤtet/vnd die conſcienẑ\nbinder/der iſt ein widerchriſt.",
         "b": "iſt er frywillig angenommen worden. Derglichen\nder Apoſtlen tag/wiewol dieſelbigen nie glichermaſſen/an=\ngenommen vnd gewäſen ſind/Darumb wär hierin etwas\ngebütet/vnnd die conſcientz bindet /",
-        "similarity": 0.3929,
-        "semantic": 0.8594,
-        "reading": "reworded"
+        "similarity": 0.3929
       },
       {
         "op": "only_b",
@@ -67,25 +63,19 @@
         "op": "match",
         "a": "Die anderen oꝛt alleſame͂/ bringend nuͤt wider vnſere Schlußred: wir redend ſelbs\nouch vil im predige/das von woꝛt zuͦ woꝛt in der Bibel\nnit ſtadt/es iſt aber in der Bibel gegruͤndet.",
         "b": "das\nvon Wort zu Wort in der Bibel nit ſtadt / es iſt aber in\nder Bibel gegründet. Joannes Bůchſtab. LVcas der Euangeliſt /",
-        "similarity": 0.4912,
-        "semantic": 0.7854,
-        "reading": "reworded"
+        "similarity": 0.4912
       },
       {
         "op": "match",
         "a": "**Johannes Bůchſtab**\n\nLVcas der Euangeliſt/Actuum am xv.ca.zeigt\nan/die wandlung Pauli durch vil landſchaffte͂/ zuͦ verkuͤnden das Rych Gottes/Vnnd ſpricht\ndemnach alſo:",
         "b": "Actuum am 15. cap. zeigt an/ die wandlung Pauli durch vil Landſchafften/ zů ver=\nkünden das Rych Gottes / Vnd ſpricht demnach al=\nſo:",
-        "similarity": 0.6,
-        "semantic": 0.8388,
-        "reading": "same"
+        "similarity": 0.6
       },
       {
         "op": "match",
         "a": "Paulus durch wandlet Syriam vnd Ci-\nliciam/Beſtaͤtiget die Kilchen: vnd gebot zchalten die ge\nbott der Apoſtlen/vnd der Elteren.",
         "b": "Paulus durch wandlet Syriam vnd Ciliciam / beſtä=\ntiget die Kilchen:vnd gebot zehalten die gebot der Apoſtlen/ Y ij",
-        "similarity": 0.6829,
-        "semantic": 0.9025,
-        "reading": "same"
+        "similarity": 0.6829
       },
       {
         "op": "only_a",
@@ -105,25 +95,15 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.8233,
-    "reworded": 3,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.4124,
+    "similarity": 0.4143,
     "words": {
-      "a": 247,
+      "a": 245,
       "b": 204
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite LXXIX",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Schlußred",
@@ -395,7 +375,7 @@
         "b": "Y ij"
       }
     ],
-    "ops": 28,
+    "ops": 27,
     "truncated": false
   }
 }

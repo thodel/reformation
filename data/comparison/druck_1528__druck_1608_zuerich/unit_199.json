@@ -8,7 +8,7 @@
       234
     ]
   },
-  "alignment_score": 0.4028,
+  "alignment_score": 0.4085,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -31,13 +31,13 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite XCII\n**Schlußred.**\n\ncreaturen / als vnheilig verwerffen / zeygt an die vrsach / die er darsetzt / dann alle creatur gottes ist gůt /",
+        "a": "**Schlußred.**\n\ncreaturen / als vnheilig verwerffen / zeygt an die vrsach / die er darsetzt / dann alle creatur gottes ist gůt / vnd nit\nverwårfflich /",
         "b": null,
         "similarity": 0.0
       },
       {
         "op": "only_a",
-        "a": "vnd nit\nverwårfflich / aber daruon hienach witer an sinem ort. **Bichwatter.**\n\nHErr Martin Buͦtzer sagt uͤch. Ich hab ein nit=\nwegloß uͤber das Capi.",
+        "a": "aber daruon hienach witer an sinem ort. **Bichwatter.**\n\nHErr Martin Buͦtzer sagt uͤch. Ich hab ein nit=\nwegloß uͤber das Capi.",
         "b": null,
         "similarity": 0.0
       },
@@ -51,25 +51,19 @@
         "op": "match",
         "a": "zuͦ Thimotheo harfuͤr\nBracht / darzuͦ sag ich / wie er gesagt hat / sag ich\nneyn / das ist der verstand von alterhar /",
         "b": "darzů\nſag ich/wie er geſagt hat / ſag ich nein/das iſt der ver=\nſtand von alterhar / der heiligen Chriſtenlichen Kilchen/",
-        "similarity": 0.6667,
-        "semantic": 0.8359,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "match",
         "a": "der heylige Chri\nstenlichen Kilchen / als wol gegruͤndt in disem text / als\nsyn vßlegung / vnd wie sy myns verstandes nit gestan=\nden /",
         "b": "als wol gegründt in diſem Text/als ſyn Vßlegung/vnnd\nwie ſy myns verſtandes nit verſtanden / alſo geſtan ich\njres verſtandts ouch nit /",
-        "similarity": 0.5652,
-        "semantic": 0.8724,
-        "reading": "same"
+        "similarity": 0.5652
       },
       {
         "op": "match",
         "a": "also gestan ich jres verstands ouch nit / referier mich\nouch vff den selben text / vnnd die gschrifft / mit dem wil\nich nu zemal beschlossen habe͂ /",
         "b": "referier mich ouch vff den ſelben\nText / vnnd die Geſchrifft / mit dem wil ich nun zemal be=\nſchloſſen haben / vnnd der Geſchrifft beuelchen/Proteſtier\nmich/",
-        "similarity": 0.56,
-        "semantic": 0.8982,
-        "reading": "same"
+        "similarity": 0.56
       },
       {
         "op": "only_a",
@@ -81,27 +75,20 @@
         "op": "match",
         "a": "der ge=\nmeynen Christlichen kilchen / wo die nach ord=\nenlicheit versamnot wirt / vrbuͤrtig / wo\nich des gewisen wurd / zuͦ corrigie=\nren vnd zuͦbessern bin\nich willig. End der andern schlußred.",
         "b": "das ich alles das/ ſo ich hie geredt hab/vndertwürff\nder ſtraff vnnd beſſerung der gemeinen Chriſtlichen Kil=\nchen / wo die nach ordenlicheit verſamnot wirt/vrbüt=\ntig/wo ich deß gewiſen wurt/zů corrigieren vnd\nzů beſſern bin ich willig. Ende der andern Schlußred. Bercht",
-        "similarity": 0.5195,
-        "semantic": 0.9295,
-        "reading": "same"
+        "similarity": 0.5195
       }
-    ],
-    "semantic": 0.884,
-    "reworded": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.6118,
+    "similarity": 0.6159,
     "words": {
-      "a": 169,
+      "a": 167,
       "b": 135
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite XCII Schlußred creaturen als vnheilig verwerffen zeygt an",
+        "a": "Schlußred creaturen als vnheilig verwerffen zeygt an",
         "b": "200"
       },
       {

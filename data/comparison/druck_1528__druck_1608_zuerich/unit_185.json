@@ -8,7 +8,7 @@
       218
     ]
   },
-  "alignment_score": 0.2952,
+  "alignment_score": 0.2981,
   "coarse": {
     "paragraphs": {
       "a": 6,
@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 3,
     "only_b": 7,
-    "similarity": 0.4549,
+    "similarity": 0.4586,
     "pairs": [
       {
         "op": "only_b",
@@ -49,11 +49,9 @@
       },
       {
         "op": "match",
-        "a": "Seite LXXXV\n**Schlußred.**\n\nſtenlich Kilch etwas hab geſetzt/das in de gotts wort nit\ngegründt ſye/das ſye durch jnn noch nit bewärt mit der\nſchrifft/ſag ich/ich hab nit geſprochen/das die Chriſten=\nlich Kilch nüt angenomen habe/dz nit in dem gots wort\ngegründt ſye/ſonder ich hab geſprochen/er ſöll bewären/",
+        "a": "**Schlußred.**\n\nſtenlich Kilch etwas hab geſetzt/das in de gotts wort nit\ngegründt ſye/das ſye durch jnn noch nit bewärt mit der\nſchrifft/ſag ich/ich hab nit geſprochen/das die Chriſten=\nlich Kilch nüt angenomen habe/dz nit in dem gots wort\ngegründt ſye/ſonder ich hab geſprochen/er ſöll bewären/",
         "b": "vff das/ ſo ich ſprich/ das die Chriſtenlich Kilch\netwas hab geſetzt/ das in dem Gottswort nit gegrůndt ſye/ das ſye durch jnn noch nit bewårt mit der Schrifft/",
-        "similarity": 0.4524,
-        "semantic": 0.7592,
-        "reading": "reworded"
+        "similarity": 0.4634
       },
       {
         "op": "only_b",
@@ -77,44 +75,31 @@
         "op": "match",
         "a": "das ſy etwas hab geſetzt oder geordnet/das nit im gotts\nwort gegründet ſye. **Berchtoldus.**\n\n[Initial D] Er Bichtuatter wil mir vfftrechen/byzebringe\ndas aber jm züſtünde/als das die Kilch Chriſti\netwas vffgeſetzt hette/das nitt im gotts wort\nſtünde/demnach dz die Kilch Chriſti kein ſatzung mach\nvſſerthalb dem wort gottes/iſt heyter vñ klar züermäſ=\nſen/vß dem ſpruch Eſaie am xxix.",
         "b": "das nit im Gottswort ſtůnde/ demnach das die Kilch Chriſti kein ſatzung mache vſſert=\nhalb dem Wort Gottes/ iſt heiter vnd klar zůermåſſen /",
-        "similarity": 0.3409,
-        "semantic": 0.7711,
-        "reading": "reworded"
+        "similarity": 0.3409
       },
       {
         "op": "match",
         "a": "Vergäbens Eeren\nſy mich/ſo ſy leeren/die leer vnnd bott der menſchen/wie Süch hienoz\nim anfang anzeygt iſt/ouch Matthei am xv.",
         "b": "vß\ndem Spruch Eſaie am 29. Vergåbens eeren ſy mich/ ſo\nſy leeren die leer vnd bot der Menſchen/ wie im an=\nfang angezeigt iſt/",
-        "similarity": 0.5714,
-        "semantic": 0.7186,
-        "reading": "same"
+        "similarity": 0.5714
       },
       {
         "op": "only_a",
         "a": "am 73. blatt. **Bichtuatter.**\n\n[Initial H] Err Berchtold zücht mich an/das ich von jms\nbegere/das mir züſtünde byzebringen/vermein\nich/daser vß ſyner hürtigen antwurt/bybring=\nens gnüg habe/da ernach geben hat/das die hey\nlig Chriſtenlich Kilch/wie S.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8623,
-        "semantic_match": "Berchtoldus. DEr Bychtuatter wil mir vſſrechen / byzebringen\ndas aber jm zůſtůnde / als das die Kilch Chriſti et=\nwas vffgeſetzt hette /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Paulus ſagt/iſt ein ſul\nvnd veſtigung der warheit/vnnd daby geſagt/das die\nChriſtenlich Kilch gegründet ſye/vff das wort gottes/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8252,
-        "semantic_match": "184        Die ander\nnit Chriſti iſt/ die hat vſſerthalb dem Wort Gottes vil an=\ngenommen / der Spruch Pauli am 2.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "das ich ouch ſprich/darumb meyn ich/das nit not ſye zü\nwiter bewärung/das ich die ſatzungen der heyligen Chri\nſtenlichen Kilchen/die vff die warheyt vnd gotts wort\nalſo gegründet iſt witer bewäre/ſo ſy doch hat den heilige\ny",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7945,
-        "semantic_match": "ſag ich/ ich hab nit geſprochen / daß die Chriſtenlich Kilch nüt an=\ngenommen habe/ das nit in dem Gottswort gegrůndt ſye/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -122,23 +107,18 @@
         "b": "ouch Matth. am 15. Bycht=\n\n## Marginalien\nSůch\nhieuor\nam 158. blat.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7885,
-    "reworded": 2,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 3
+    ]
   },
   "fine": {
-    "similarity": 0.4344,
+    "similarity": 0.4363,
     "words": {
-      "a": 251,
+      "a": 249,
       "b": 214
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite LXXXV Schlußred ſtenlich",
+        "a": "Schlußred ſtenlich",
         "b": "184 Die ander nit Chriſti iſt die hat vſſerthalb dem Wort Gottes vil an genommen der Spruch Pauli am 2 zů Timoth am 3 der zeigt an das die Geſchrifft gnůgſam iſt wyß zemachen zur ſåligkeit Bychtuatter JN der antwurt Herr Berchtolds ſo er ſpricht daß die Kilch Chriſti nüt hab angenommen dann das in dem Gottswort gegrůndt iſt vnnd wil damit geant wurt haben vff das ſo ich ſprich das die Chriſtenlich"
       },
       {

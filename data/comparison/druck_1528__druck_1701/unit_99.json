@@ -8,7 +8,7 @@
       107
     ]
   },
-  "alignment_score": 0.2207,
+  "alignment_score": 0.2336,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -31,7 +31,7 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [X]\n<div style=\"text-align: center;\">Die erſt</div>\n\nnen ouch wir uͤch aber vff ein recht verſtand/durch den\nHerren/vnnd uͤwer eygne wolfart alleyn vermercket.",
+        "a": "Die erſt \n\nnen ouch wir uͤch aber vff ein recht verſtand/durch den\nHerren/vnnd uͤwer eygne wolfart alleyn vermercket.",
         "b": null,
         "similarity": 0.0
       },
@@ -39,10 +39,7 @@
         "op": "only_a",
         "a": "Das diß die heylig Chriſtenlich Kilch iſt/dero eynig\nhoupt Chriſtus/nit der Bapſt/die vß dem wort got\ntes geboren/nit vß beſchluß der Concilien/die im ſelbi=\ngen blypt/darnach laͤbt/vnangeſehen was alle welt ſuͤſt\nthuͤt/Jr werdend vor dem richterſtuͤl Chriſti Jeſu fuͤr\nuͤch/vnd nit fuͤr andre Kilchen rechenſchafft geben muͤſ=\nſen/vnnd nit vor den Concilien/oder Baͤpſtlichen Kil=\nchen.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8876,
-        "semantic_match": "unangeſehen\nwas alle Welt ſunſt thůe / ihr werdend vor dem Richter-\nſtůl Chriſti Jeſu für euch / und nit für andere Kilchen Re-\nchenſchafft geben můſſen /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -72,18 +69,13 @@
         "op": "match",
         "a": "Darumb wellend jr zuͤ goͤtlicher vnnd allein Be=\nſtendiger einigkeyt kommen/ſo laſſend uͤch lieben Chri=\nſten ja kein ſcharpff liſtig geſchwaͤtz der menſchen vff die\nuͤberuß haͤßlich vnd Beſudlete gmeynd der Baͤpſtlichen\nabzien/ſonders gebt rum vnnd ſtatt dem wort/deß der\nſich geſchaffen/vnnd durch das bluͤt ſines ſuns thuͤr er=\nkoufft hat.",
         "b": "ſonders gebt Rum und ſtatt dem\nWort deß / der euch geſchaffen / und durch das Blůt ſynes\nSohns thüͤr erkaufft hat.",
-        "similarity": 0.3333,
-        "semantic": 0.5719,
-        "reading": "different"
+        "similarity": 0.3333
       },
       {
         "op": "only_a",
         "a": "Hoͤrend nit die ſtim der froͤmbdenn/die ſich\nſ",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7751,
-        "semantic_match": "unangeſehen\nwas alle Welt ſunſt thůe / ihr werdend vor dem Richter-\nſtůl Chriſti Jeſu für euch / und nit für andere Kilchen Re-\nchenſchafft geben můſſen /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -127,25 +119,15 @@
         "b": "und\nmenſchlich Ynred ohn Geſchrifft fallen laſſen. Was er aber\nvermeynt ohn Geſchrifft an ſy geurſachen / wider uns in\nM gemeind/",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7449,
-    "reworded": 0,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 2
+    ]
   },
   "fine": {
-    "similarity": 0.2812,
+    "similarity": 0.2864,
     "words": {
-      "a": 179,
+      "a": 171,
       "b": 269
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite X div style text align center",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Die",
@@ -153,7 +135,7 @@
       },
       {
         "op": "replace",
-        "a": "erſt div nen ouch wir u ch aber vff ein recht verſtand durch den Herren vnnd u wer eygne wolfart alleyn vermercket Das diß die heylig Chriſtenlich Kilch iſt dero eynig houpt Chriſtus nit der Bapſt die",
+        "a": "erſt nen ouch wir u ch aber vff ein recht verſtand durch den Herren vnnd u wer eygne wolfart alleyn vermercket Das diß die heylig Chriſtenlich Kilch iſt dero eynig houpt Chriſtus nit der Bapſt die",
         "b": "Erſte Schlußred 91"
       },
       {
@@ -437,7 +419,7 @@
         "b": "ſelber ſůchen wie ihrs gryffen můſſend ſonders hörend die lebendig machende Stīm deß einigen Hirten euerer Seelen Jeſu Chriſti der da ſpricht Kompt zů mir nit zů mynem Statthalter oder Concilien ſon ders zů mir alle die ihr beladen ſind ich will euch erqui cken Zů diſem zeführen habend ſich gefliſſen euere treue Diener an Gott unſere liebe Brüder Franciſcus Kolb und Berchthold Haller deß ſy und wir menglich durch hälle Gſchrifft darzethůn und zebewyſen hie verſamlet ſind Diewyl dann die Lehr deß Provincials in ſynen hundert Wunderreden oder villeicht beſſer zů vertütſchen Ungläubliche Sprüch verfaſſet geſtracks entgegen iſt den zwey erſten bemeldter Brüder Schlußreden und zwar auch den andern ſo bitt und ermahn ich umb der Warheit willen und ſyn deß Provincials Ampt er wölle mit Geſchrifft wider dieſelbigen hinfür handlen und menſchlich Ynred ohn Geſchrifft fallen laſſen Was er aber vermeynt ohn Geſchrifft an ſy geurſachen wider uns in M gemeind"
       }
     ],
-    "ops": 30,
+    "ops": 29,
     "truncated": false
   }
 }

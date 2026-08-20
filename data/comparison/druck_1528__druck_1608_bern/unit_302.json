@@ -8,7 +8,7 @@
       347
     ]
   },
-  "alignment_score": 0.4952,
+  "alignment_score": 0.5,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 2,
     "only_b": 3,
-    "similarity": 0.4834,
+    "similarity": 0.4848,
     "pairs": [
       {
         "op": "only_b",
@@ -37,43 +37,33 @@
       },
       {
         "op": "match",
-        "a": "Seite [X]\nDie vierde\nlung/wirt vns hie verkündet/darumb man ouch Gott\ndanck sagt. Ich vermein ouch/herr Benedict söll mir dz\nnit löugnen/das keiner sölich Sacrament empfachenn\nsol/er hab dann vorhin ein gloubē/das jm sin sünd durch\ndas lyden Christi verzigen syend:",
+        "a": "Die vierde\nlung/wirt vns hie verkündet/darumb man ouch Gott\ndanck sagt. Ich vermein ouch/herr Benedict söll mir dz\nnit löugnen/das keiner sölich Sacrament empfachenn\nsol/er hab dann vorhin ein gloubē/das jm sin sünd durch\ndas lyden Christi verzigen syend:",
         "b": "Jch ver=\nmein ouch/ Herr Benedict ſoͤll mir das nit loͤugnen/das\nkeiner ſoͤlich Sacrament empfachen ſol/er hab dann vor=\nhin ein glouben/",
-        "similarity": 0.3514,
-        "semantic": 0.8546,
-        "reading": "reworded"
+        "similarity": 0.3611
       },
       {
         "op": "match",
         "a": "dañ das gehört darzü\ndas sich der mensch selbs bewäre/probiere/in der erstenn\nzun Corinthiern am .xi. cap. So nun der mensch erkennt/",
         "b": "das jm ſin Suͤnd durch das lyden Chri=\nſti verzigen ſyend: dann das gehoͤrt darzuͦ/das ſicht der\nMenſch ſelbs bewaͤre/probiere/in der erſten zun Corinth.",
-        "similarity": 0.3704,
-        "semantic": 0.6193,
-        "reading": "reworded"
+        "similarity": 0.3704
       },
       {
         "op": "match",
         "a": "das jm das blüt schon vßgereylt ist/so wirdt sich sin red\nnit schicken/als söll es jm aller erst vßgereylt werde.",
         "b": "am 11. Capit. So nun der Menſch erkennt/ das jm das\nBluͦt ſchon vßgetheilt iſt/ſo wirdt ſich ſin red nit ſchicken/",
-        "similarity": 0.5333,
-        "semantic": 0.8504,
-        "reading": "same"
+        "similarity": 0.5333
       },
       {
         "op": "match",
         "a": "So\nwirt sin bewärnuß/das der wyn oder in dem wyn/syewes\nsenlich blüt/aber eins nit gestan. Pfarrer von Sant gallen.",
         "b": "als ſoͤll es jm aller erſt vßgetheilt werden. So wirt ſin be=\nſwaͤrnuß/ das der Wyn oder in dem Wyn/ſye waͤſenlich\nBluͦt/aber eins nit geſtan.",
-        "similarity": 0.566,
-        "semantic": 0.7028,
-        "reading": "same"
+        "similarity": 0.566
       },
       {
         "op": "match",
         "a": "Vnd die ableinung so min herr Doctor vermeint/ die wort des Kelchs/nit also zuͦ vstan sin/wölt\nich gern demütigklich/ouch eins von jm fragen/",
         "b": "Pſarrer von Sant Gallen. VFf die ableinung ſo myn Herr Doctor vermeint/die\nwort deß Kelchs/ nit alſo zuͦverſtan ſin/",
-        "similarity": 0.5532,
-        "semantic": 0.6556,
-        "reading": "same"
+        "similarity": 0.5532
       },
       {
         "op": "only_b",
@@ -85,17 +75,13 @@
         "op": "match",
         "a": "zuͦ entscheidnüg/da der Herr gesagt hat: Trinckeñd all\ndarus/sprechende: Das ist min blüt/was der herr sinen\njüngeren dargereycht hab/oder was sy truncken haben.",
         "b": "ſprechende: Das iſt myn Bluͦt/waß der Herr ſinen Juͤn=\ngeren dargereicht hab/oder was ſy truncken haben.",
-        "similarity": 0.5,
-        "semantic": 0.8242,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "match",
         "a": "Ecolampadius. Ist üch lieb/das jr üch welled verzichen der yn=\ngezognen figure/so wil ich üch von stundan vff\nüwer frag antwurten:",
         "b": "Ecolampadius. JSt uͤch lieb/das jr uͤch wellend verzichen der vnge=\nzognen figuren/ſo wil ich uͤch von ſtund an vff uͤwer\nfrag antwurten:",
-        "similarity": 0.5098,
-        "semantic": 0.8735,
-        "reading": "same"
+        "similarity": 0.5098
       },
       {
         "op": "only_a",
@@ -107,10 +93,7 @@
         "op": "only_a",
         "a": "die selben erkläret: darumb nit not wyter zeerhole in wy\nter",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7445,
-        "semantic_match": "woͤlt ich\ngern demuͤtigklich/ ouch eins von jm fragen/zuͦ ent=\nſcheidung/da der Herr geſagt hat: Trincken all daruß/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -118,23 +101,18 @@
         "b": "wo das nit/wellen wir das vordrig\nabrichten. Rr  ij",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7656,
-    "reworded": 2,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.5949,
+    "similarity": 0.5975,
     "words": {
-      "a": 241,
+      "a": 239,
       "b": 233
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite X Die vierde lung",
+        "a": "Die vierde lung",
         "b": "Schlußred 315 iſt war ſo lche gnad Gottes vnd vßtheilung"
       },
       {

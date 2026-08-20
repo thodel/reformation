@@ -8,7 +8,7 @@
       324
     ]
   },
-  "alignment_score": 0.3077,
+  "alignment_score": 0.3107,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -31,44 +31,33 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite 150\nSchlußred. CL\nZwingli. VNd also lassend wir by vnser erFlärung beliben\nDas aber des Osterlambs halb ist anzeygt/sye\ndas Osterlamb gegenwürtig gewesen/vnd hab\nnüt desterminder die Egyptische erlösung bedütet ouch\ndas lämbly bedütet.",
+        "a": "Schlußred. CL\nZwingli. VNd also lassend wir by vnser erFlärung beliben\nDas aber des Osterlambs halb ist anzeygt/sye\ndas Osterlamb gegenwürtig gewesen/vnd hab\nnüt desterminder die Egyptische erlösung bedütet ouch\ndas lämbly bedütet.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6109,
-        "semantic_match": "So die Dancksagung der hoͤllischen Er-\nloͤsung begangen : Wird das Brodt und der Wyn darinn\nharum getragen vsserlichen beduͤten /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Sagen wir/das das lamb sich selbs\nnüt bedütet könd. Es was ouch das Järlich fest nit inge=\nsetzt zů gedechtnuß eins Lambs/sonders zů gedechtnus\nder Egyptische erlösung.",
         "b": "308      Die Vierdte Schlußred. Sagen wir / daß das Lam sich selbs nit beduͤten koͤnt. Es\nwas auch das jaͤhrlich Fest nit yngesetzt zuͦ Gedechtnus\neines Lamms /",
-        "similarity": 0.4138,
-        "semantic": 0.7345,
-        "reading": "reworded"
+        "similarity": 0.4138
       },
       {
         "op": "match",
         "a": "Exodi am xij. cap. daran wir\nwol mögen merckẽ/ das alls wenig das lamb sin selbs be\ndüt nus was/sonders der Egyptische erlösung:",
         "b": "sonders zuͦ Gedechtnus der Egyptischen\nErloͤsung / Exodi am 12. Cap. daran wir wol moͤgen mer-\ncken / daß als wenig das Lam̃ syn selbs Beduͤtnus was /",
-        "similarity": 0.3846,
-        "semantic": 0.7119,
-        "reading": "reworded"
+        "similarity": 0.3846
       },
       {
         "op": "match",
         "a": "also we=\nnig ist der lychnam Christi ein gedechtnus des lychnams\nChristi/sonder wie das läm ein vsser zeychẽ in der gedech\nnus vñ dancksagung der Egyptischen erlösung/ein be=\ndütend zeychen was:",
         "b": "sonders der Egyptischen Erloͤsung : also wenig ist der\nLychnam Christi ein Gedechtnus deß Lychnams Christi / sonders wie das Lam̃ ein vsser Zeichen in der Gedechtnus\nund Dancksagung der Egyptischen Erloͤsung ein beduͤtend\nzeichen was :",
-        "similarity": 0.6,
-        "semantic": 0.8022,
-        "reading": "same"
+        "similarity": 0.6
       },
       {
         "op": "match",
         "a": "in welchem sich die Kilch/das ist\ndas volck Israel/gegen einandern offentlich vffthet: also\nouch in der Kilche Christi.",
         "b": "in welchem sich die Kilch / das ist / das volck\nIsrael / gegen einander offentlich offthet. Also auch in der\nKilchen Christi :",
-        "similarity": 0.8,
-        "semantic": 0.9221,
-        "reading": "same"
+        "similarity": 0.8
       },
       {
         "op": "only_b",
@@ -80,9 +69,7 @@
         "op": "match",
         "a": "So die dancksagung der hek=\nlischen erlösung begangen: wirt das brot vnnd der wyn\ndarin harūm getragen vsserlichen bedüten/vnsere inne=\nre vereinbarung des gloubens/durch den wir vff den tod\nChristi Jesu verlassen sind/vnd stat also noch vest/das\nein gegenwürtig ding/nit ein gedechtnus oder bedütnus\nsins selbs sin mag.",
         "b": "unsere innerliche\nVereinbahrung deß Glaubens / durch den wir vff den\nTod Christi Jesu verlassen sind / und staht also noch vest /",
-        "similarity": 0.4054,
-        "semantic": 0.7583,
-        "reading": "reworded"
+        "similarity": 0.4054
       },
       {
         "op": "only_b",
@@ -100,9 +87,7 @@
         "op": "match",
         "a": "Pfarrer von Sant gallen. DAs das brot vnd win/söllichs allein sye/bekennẽ\nwir nochmaß nit/verlassen vns also/vff vnser\ningetragne erFlärung so wir villicht wyters in\nanzeygung jrer gründ/mit der gnad gottes entschliessen\nwerden. pp ij",
         "b": "so wir villeicht wyters in An-\nzeigung ihrer Gruͤnd mit der gnad Gottes entschliessen\nwerden. Zwingly. WIr verlassend uns auch vff die Gruͤnd /",
-        "similarity": 0.3125,
-        "semantic": 0.4128,
-        "reading": "different"
+        "similarity": 0.3125
       },
       {
         "op": "only_b",
@@ -110,23 +95,18 @@
         "b": "und die Er-\nklaͤrung von uns angezeigt / vß hellem Gottes Wort. Pfarrer",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7075,
-    "reworded": 3,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.5074,
+    "similarity": 0.5096,
     "words": {
-      "a": 236,
+      "a": 234,
       "b": 237
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite 150",
+        "op": "insert",
+        "a": "",
         "b": "308 Die Vierdte"
       },
       {

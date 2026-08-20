@@ -8,10 +8,10 @@
       18
     ]
   },
-  "alignment_score": 0.2672,
+  "alignment_score": 0.2696,
   "coarse": {
     "paragraphs": {
-      "a": 2,
+      "a": 1,
       "b": 3
     },
     "counts": {
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 4,
     "only_b": 2,
-    "similarity": 0.419,
+    "similarity": 0.4219,
     "pairs": [
       {
         "op": "only_b",
@@ -37,19 +37,15 @@
       },
       {
         "op": "match",
-        "a": "Seite [10]\n\nOrdnung diser Difputation/vnd was\nsich mittlerzyt zütragen hat. 20\ndisers Gesprächs/nalich/Pentag vj. Janna=\nrij/Anno 2c.",
+        "a": "Ordnung diser Difputation/vnd was\nsich mittlerzyt zütragen hat. 20\ndisers Gesprächs/nalich/Pentag vj. Janna=\nrij/Anno 2c. XXVIII.",
         "b": "Ordnung diser disputation/ vñ was\nsich mittler zyt zůtragen hatt. JSt des ersten zů vermerckẽ / Als der\ngesatzt tag disers Gesprächs /",
-        "similarity": 0.3333,
-        "semantic": 0.6272,
-        "reading": "reworded"
+        "similarity": 0.3415
       },
       {
         "op": "match",
-        "a": "XXVIII. erschinen. Ist desselbigenn\ntags die erste beruffung vnnd besamlung/im Barfusser\nKloster zu Bernn/da dann diß gespräch in der Richen\nvoz mencklich gehalten/nach mittag beschechen.",
+        "a": "erschinen. Ist desselbigenn\ntags die erste beruffung vnnd besamlung/im Barfusser\nKloster zu Bernn/da dann diß gespräch in der Richen\nvoz mencklich gehalten/nach mittag beschechen.",
         "b": "nam-\nlich / Mentag vj. Januarij / Anno. D. M. xxviij. erschinen. Jst dessel-\nben tags die erste berůffung vnnd besamlung/ im Barfůsser Kloster zů Bernn /",
-        "similarity": 0.4615,
-        "semantic": 0.51,
-        "reading": "different"
+        "similarity": 0.4706
       },
       {
         "op": "only_b",
@@ -61,9 +57,7 @@
         "op": "match",
         "a": "Vnnd\nanfangs mencklich/so da zu gegen gewesen/mit früntli\nchem grüß/bråderlichen empfangen. Off sölichs ist ob=\nberirt Mandat/offenlich verlåsen.",
         "b": "mit frůntlichem\ngrůß/brůderlichen empfangen. Vff söllichs ist\nobberůrt Mandat / offenlich verläsen. Dem-\nnach die ordnung diß gesprächs. Erstlich der\nherrn Presidenten/befelch /",
-        "similarity": 0.3111,
-        "semantic": 0.5643,
-        "reading": "different"
+        "similarity": 0.3111
       },
       {
         "op": "only_a",
@@ -75,25 +69,19 @@
         "op": "match",
         "a": "der Ordnung/die jnen anzeigt wurde/gehorsam zesin. Semnach allen mütwilligen zanck vnd hader zetem\nmen vnd zestillen: ouch alle vppige geschwitz/vnd was\nim wort Gottes keinen grund hat/nitzüzelassen.",
         "b": "die haben by gůten\ntrüwen/an Eyds statt gelobt/der Ordnung die\njnen anzeygt wurde/ gehorsam zesin. Demnach allen můtwilligẽ zanck vnd hader\nzetemmen vnnd zestillen:",
-        "similarity": 0.4211,
-        "semantic": 0.7799,
-        "reading": "reworded"
+        "similarity": 0.4211
       },
       {
         "op": "match",
         "a": "Item die ding/so einest off der ban gewesen/vnd ver\nantwurt worden/nit mer one not/eräfferen noch fürbrin\ngen lassen.",
         "b": "ouch alle üppige ge-\nschwätz/ vñ was im wort Gottes keynẽ grund\nhat/nit zůzelassen. Jtem die ding/so eynest vff der ban gewesen\nvnd verantwurt wordẽ/nit mer one not/eräffe-\nren noch fůrbringen lassen.",
-        "similarity": 0.4483,
-        "semantic": 0.5413,
-        "reading": "different"
+        "similarity": 0.4483
       },
       {
         "op": "match",
         "a": "Mütwillige verlängerung zeuermyden. Soch nüzit zü vrteylen/richten noch erkennen/über\ndie Schlußreden/jremjnnhalt/argument vnd schrifft/ so wider/oder für die/dargethan/vn fürtragé wurden/",
         "b": "Můtwillige ver-\nlängerung zeuermyden. Doch nütz zů vrteylen / richten noch erkennẽ\nüber die Schlußredẽ/jrem Jnhalt/argument vñ\ngeschrifft / so wider / oder für die / dargethon/ vnd",
-        "similarity": 0.5385,
-        "semantic": 0.7976,
-        "reading": "same"
+        "similarity": 0.5385
       },
       {
         "op": "only_a",
@@ -113,23 +101,18 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6367,
-    "reworded": 2,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.4706,
+    "similarity": 0.4727,
     "words": {
-      "a": 243,
+      "a": 241,
       "b": 199
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite 10",
+        "op": "insert",
+        "a": "",
         "b": "der meynung als es ouch beschehen von vns vffnemen Hiemit sye der fryd vnnd die gnad Gottes mit vns allen"
       },
       {

@@ -8,15 +8,15 @@
       87
     ]
   },
-  "alignment_score": 0.2661,
+  "alignment_score": 0.2685,
   "coarse": {
     "paragraphs": {
-      "a": 4,
+      "a": 3,
       "b": 2
     },
     "counts": {
       "equal": 0,
-      "replace": 4,
+      "replace": 3,
       "delete": 0,
       "insert": 0
     },
@@ -31,12 +31,9 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite XXVII\n\n**Schlußred XXVII**\nwüßlich von dem geyst Gottes ist/mag kein fügklicher/ vfferlich mittel/jrrung hinzelegen/ynzogen vnd fürge=\nnomen werden dann die selbig/sittmal der geyst Gottes\nwider sich selbs nit sin mag.",
+        "a": "**Schlußred XXVII**\nwüßlich von dem geyst Gottes ist/mag kein fügklicher/ vfferlich mittel/jrrung hinzelegen/ynzogen vnd fürge=\nnomen werden dann die selbig/sittmal der geyst Gottes\nwider sich selbs nit sin mag.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7723,
-        "semantic_match": "Dann die ſelbige ye nit ſprechen\nvnd vrteylen in händlen des gloubens kan/noch\nabſündern/den zertreñer Chriſtenlicher eynikeit/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -48,10 +45,7 @@
         "op": "only_a",
         "a": "Sonders des gwalts Christi. Offt dz aber d handel nit\nverduncklet werd/bitte wir Doctor Cůnrad Treiger/ der vilfaltigen bewegten puncten einen für sich zeneme/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6521,
-        "semantic_match": "So mich min herr Do\nctor ermant / jch ſöll früntlichen ein puncten für\ndie hand nemmen / iſt mir ich habs thon.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -63,17 +57,13 @@
         "op": "match",
         "a": "Fromen lieben Christen/vff min ynred sament=\nhafftig vngefürt/wider beide erst schlußred/der\nwiderparthy/gibt antwurt Doctor Fabricius\nCapito/vnd zůchtharyn wie das ein zweyspaltig Chri=\nstenlich Kilch sye/namlich ein geystliche/die da sye in de\ngeist/das sye d lyb Christi des herren/đ ouch allein durch\nden herren geregiert werde/söliche Kilchen hab niemant\nzů richten noch vrteylen/dann der herr.",
         "b": "Schlußred. XXXI\n\nus Capito/vnnd zůcht harin wie das eyn zwey=\nſpaltig Chriſtenlich Kilch ſye/namlich ein geyſt=\nliche/die da ſye in dem geyſt/das ſye der lyb Chri\nſti des herren /",
-        "similarity": 0.3469,
-        "semantic": 0.8112,
-        "reading": "reworded"
+        "similarity": 0.3469
       },
       {
         "op": "match",
         "a": "Wie dann Pau\nlus anzeigt/da er sagt/Den gerechten richt niemants/er\nricht aber alle ding/solt min herr Doctor hirůß beschlos\nsen han/das der gerecht/so er alle ding richten mag/ouch\ndie geschrifft zů richten hett/so doch bißhar/von jnen b=\nmeint worden/namlich/die geschrifft lyd dhein richter/",
         "b": "der ouch allein durch den herren\ngeregiert werde/ ſöliche Kilchen hab niemant zů\nrichten noch vrteyle/dañ der herr. Wie dañ Pau\nlus anzeygt/da er ſagt.Den gerechten richt nie=\nmants/er richt aber alle ding:ſolt min herr Do=\nctor hieruß beſchloſſẽ han/das der gerecht/ſo er\nalle ding richten mag/",
-        "similarity": 0.5,
-        "semantic": 0.8596,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "only_b",
@@ -85,9 +75,7 @@
         "op": "match",
         "a": "Paulus wil aber hie sagen/Der gerecht werd nit gericht/ dz da on zwyfel war ist/wie er an einem andren ort seyt/ G iij",
         "b": "Der gerecht werd nit ge=\nricht/das da on zwyfel war iſt/ wie er an eynem\nandern ort ſagt / Dẽ gerechten iſt kein geſatz ge=\nſetzt/",
-        "similarity": 0.5098,
-        "semantic": 0.8194,
-        "reading": "same"
+        "similarity": 0.5098
       },
       {
         "op": "only_b",
@@ -119,25 +107,15 @@
         "b": "Dann die ſelbige ye nit ſprechen\nvnd vrteylen in händlen des gloubens kan/noch\nabſündern/den zertreñer Chriſtenlicher eynikeit/",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7829,
-    "reworded": 1,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 2
+    ]
   },
   "fine": {
-    "similarity": 0.3636,
+    "similarity": 0.3651,
     "words": {
-      "a": 247,
+      "a": 245,
       "b": 259
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite XXVII",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Schlußred",
@@ -339,7 +317,7 @@
         "b": "ſagt De gerechten iſt kein geſatz ge ſetzt vnd redt hie Paulus nüt von der Chriſten lichen Kilchen die der geyſtlich lyb des Herren iſt doch laß ich das valle So mich min herr Do ctor ermant jch ſöll früntlichen ein puncten für die hand nemmen iſt mir ich habs thon Nam lich von dem gewalt der Chriſtenlichen Kilchen vnd das die ſelbige jnzweyung vnd zwytracht belangend vnſern glouben zeſprechen vnd zeur teylen hab das hatt ye Chriſtus geſagt do er ge redt hat welcher die heilig Chriſtenlich Kilch nit hört der ſye dir als eyn Heyd vn ein offen ſünd von keyner heimlicher verborgne Chriſtenlichen Kilchen geredt Dann die ſelbige ye nit ſprechen vnd vrteylen in händlen des gloubens kan noch abſündern den zertreñer Chriſtenlicher eynikeit"
       }
     ],
-    "ops": 21,
+    "ops": 20,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       392
     ]
   },
-  "alignment_score": 0.139,
+  "alignment_score": 0.1401,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,12 +23,24 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 10,
-    "matched": 2,
-    "only_a": 7,
-    "only_b": 1,
-    "similarity": 0.377,
+    "units": 11,
+    "matched": 1,
+    "only_a": 8,
+    "only_b": 2,
+    "similarity": 0.3415,
     "pairs": [
+      {
+        "op": "only_a",
+        "a": "Die vierde\nEcolampadius. [E]S hat min lieber brůder sich widerum gewent\nzů den worten Johannis am vj. Capitel. Das\nsy im dienen/des bin ich im nit abred (welte got)\nsy von mengklichen wol verstanden wurden:",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "only_a",
+        "a": "vngezwi=\nfelt / sy wurdent dienen zů binnemung viler jrsal. Aber\ndie verheyßung des Sacramentlicheñ brots / findt er am\nselbigen ozt nit.",
+        "b": null,
+        "similarity": 0.0
+      },
       {
         "op": "only_b",
         "a": null,
@@ -36,22 +48,16 @@
         "similarity": 0.0
       },
       {
-        "op": "match",
-        "a": "Seite [110]\nDie vierde\nEcolampadius. [E]S hat min lieber brůder sich widerum gewent\nzů den worten Johannis am vj.",
+        "op": "only_b",
+        "a": null,
         "b": "welchen inge\nInn minen gedechtnus\nfurten schrifften wir verniemen der lijb vnnd\nDas blutt Christi werde Inn dem brot Der Danc¬\nsagunglyblichen vnnd wesenlich dancksagung empfangen\ncolampadius\nS'han min lieber bruder sich widerumb ge¬\nwendt zu den worten Johanus am vi cap:",
-        "similarity": 0.3175
-      },
-      {
-        "op": "only_a",
-        "a": "Capitel. Das\nsy im dienen/des bin ich im nit abred (welte got)\nsy von mengklichen wol verstanden wurden: vngezwi=\nfelt /",
-        "b": null,
         "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "sy wurdent dienen zů binnemung viler jrsal. Aber\ndie verheyßung des Sacramentlicheñ brots / findt er am\nselbigen ozt nit. So er aber nun kompt vff die insatzung\ndes herren Nachtmals/damit wir dester geschickter vñ\noffentlicher rede/so versich ich mich zů ersten/dz min lie=\nber brůder werd nit verneinen /",
+        "a": "So er aber nun kompt vff die insatzung\ndes herren Nachtmals/damit wir dester geschickter vñ\noffentlicher rede/so versich ich mich zů ersten/dz min lie=\nber brůder werd nit verneinen /",
         "b": "das sy Im dienen, Des bin ich Im int par abred\n(welleg pott) sij von mencklichen woll verstandenn\nOp wundert dienen\nwurden, vngezweffellt\nber die ver¬\nzu hinnemmen voler Insael\nheissung des sacramenteichen brots findt er\nam selbigen ort nit so er aber min kumpt vff\ndie Insatzung des herren nachtmals Damit\nwir dester geschickter vnd verstentlicher reden\nSo versich ich mich zum ersten das min lieber\nbruder werdt int verneinen, hie Ingesetzt sin\nsacrament des lybs vnnd bluts Jesu Christi  So\nwirtt min nutz vnd gut sin wer da erkennen",
-        "similarity": 0.4366
+        "similarity": 0.3415
       },
       {
         "op": "only_a",
@@ -92,15 +98,15 @@
     ]
   },
   "fine": {
-    "similarity": 0.2564,
+    "similarity": 0.2574,
     "words": {
-      "a": 279,
+      "a": 277,
       "b": 228
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite 110",
+        "op": "insert",
+        "a": "",
         "b": "and in all not vnne that Inngeren vijff ning her Omnt Jans nckenal all hoven tot which et de"
       },
       {

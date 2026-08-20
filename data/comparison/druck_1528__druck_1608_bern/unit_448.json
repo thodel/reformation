@@ -8,7 +8,7 @@
       516
     ]
   },
-  "alignment_score": 0.3705,
+  "alignment_score": 0.3739,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 3,
     "only_b": 4,
-    "similarity": 0.538,
+    "similarity": 0.5417,
     "pairs": [
       {
         "op": "only_b",
@@ -49,52 +49,39 @@
       },
       {
         "op": "match",
-        "a": "Seite IVXX\nDie ſibend\nvnd möchtreſt aber der ſchuld nit lůgnen/Was volgte\nanders daruß/weder das dich der Richter wurffe inn die\ngfencknuß/biß du die ſchuld bezalteſt/biß vff das minſt\nörtly.",
+        "a": "Die ſibend\nvnd möchtreſt aber der ſchuld nit lůgnen/Was volgte\nanders daruß/weder das dich der Richter wurffe inn die\ngfencknuß/biß du die ſchuld bezalteſt/biß vff das minſt\nörtly.",
         "b": "vnd moͤchteſt aber der ſchuld nit loͤugnen/Was volgte an-\nders daruß/weder das dich der Richter wurffe in die Ge-\nfencknuß /",
-        "similarity": 0.5172,
-        "semantic": 0.6442,
-        "reading": "same"
+        "similarity": 0.5357
       },
       {
         "op": "match",
         "a": "Das iſt nun das Exempel/damit Chriſtus vns\nlert: So yemant ſin brůder beleydiget/ſo verſchuldet er\nſich gegen jm.",
         "b": "biß du die Schuld bezalteſt / biß vff das minſt\noͤrtly. Das iſt nun das Exempel/damit Chriſtus vns lert:",
-        "similarity": 0.45,
-        "semantic": 0.8561,
-        "reading": "reworded"
+        "similarity": 0.45
       },
       {
         "op": "match",
         "a": "Darum ſol er ſyß anſeren/das er ſich mit\njm verſůne/damit die beleydigung nit werde bracht für\nden obreſten richter/Gott/vñ der ſelb dañ ſpreche:",
         "b": "So jemand ſyn Bruͤder beleidiget/ſo verſchuldet er ſich ge-\ngen jm. Darumb ſol er flyß ankeren/daß er ſich mit jm ver-\nſuͤne/damit die beleidigung nit werde bracht fuͤr den obre-\nſten Richter/Gott/vnd derſelb dann ſpreche:",
-        "similarity": 0.4286,
-        "semantic": 0.6325,
-        "reading": "reworded"
+        "similarity": 0.4286
       },
       {
         "op": "match",
         "a": "Du\nſchalckhafftiger knecht/ich hab dir alle din ſchuld nachge\nlaſſen/diewyl du mich batteſt: ſolteſtu dich dañ nit ouch\nerbarmen über dinen mitknecht/wie ich mich din erbar=\nmet hab.",
         "b": "Du ſchalck-\nhafftiger Knecht / ich hab dir alle dyn Schuld nachgelaſ-\nſen/diewyl du mich batteſt: ſolteſt du dich dann nit ouch\nerbarmen uͤber dynen Mitknecht/wie ich mich dyn erbar-\nmet hab?",
-        "similarity": 0.6769,
-        "semantic": 0.9203,
-        "reading": "same"
+        "similarity": 0.6769
       },
       {
         "op": "match",
         "a": "Vnnd demnach der richter dich werffe in den\newigen kercker. Alſo mitt der glychnuß des Rechten/da\nder ſchuldner erſorgen můß ewige gfencknuß/Ermant\nvns der Herr/das wir vnns vereinbaren/mit vnſerem\nnächſten/damit das wir nit den ewigen zorn vnnd ſtraff\nverfallen.",
         "b": "Vnd demnach der Richter dich werffe in den ewi-\ngen Kercker. Alſo mit der glychnuß deß Rechten/da der\nSchuldner erſorgen muͤß ewige Gefencknuß/Ermant vns\nder Herz/das wir vns vereinbaren mit vnſerem Naͤchſten/",
-        "similarity": 0.6173,
-        "semantic": 0.7894,
-        "reading": "same"
+        "similarity": 0.6173
       },
       {
         "op": "only_a",
         "a": "Vnd wirt hie gäntz nüt geredt vom fäghür/ ſunders vil mer darwider. Bůchſtab\n[W] Je gnůg es dargethan ſyge/das kein fäghür\nſye/beuilch ichs dem Läſer/frag herrn Berch=\ntolden hie by/Ob diſer ſpruch (Matthei/am v.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7303,
-        "semantic_match": "In di-\nſen worten aber / gibt der Herz ein Exempel/damit er vns\ntrybt/zuͦ verſuͤnen mit vnſerem Nechſten/vnd iſt das die\nmeinung:So dyn Gelten/dich fuͤr Gericht beruͤffen/vñ du\njetz vnderwaͤgen mit inn waͤreſt/zum Richter/wie moͤch-\nteſt baß handlen /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -114,23 +101,18 @@
         "b": "damit daß wir nit den ewigen Zorn vnd Straff verfallen. Vnd wirt hie gantz nuͤt geredt vom Faͤgſhuͤr/ſonders vil\nmehr darwider. Buͤchſtab",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7621,
-    "reworded": 2,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.4525,
+    "similarity": 0.4542,
     "words": {
-      "a": 244,
+      "a": 242,
       "b": 282
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite IVXX",
+        "op": "insert",
+        "a": "",
         "b": "484"
       },
       {

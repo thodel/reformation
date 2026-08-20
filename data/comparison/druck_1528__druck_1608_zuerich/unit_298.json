@@ -8,7 +8,7 @@
       345
     ]
   },
-  "alignment_score": 0.2691,
+  "alignment_score": 0.2715,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -31,13 +31,13 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [X]\nDie vierdt\nAdeyster Ulrich zwingy. Als die gab des gloubens / vilen vnderscheid=\nlich merer oder minder geben werde/",
+        "a": "Die vierdt\nAdeyster Ulrich zwingy. Als die gab des gloubens / vilen vnderscheid=\nlich merer oder minder geben werde/ erkennē\nwir wol:",
         "b": null,
         "similarity": 0.0
       },
       {
         "op": "only_a",
-        "a": "erkennē\nwir wol: aber diß Argumēt / oder gegenwurff\nwurd allein reychē vff die grösse des gloubēs\nvnd nit vff das vermögen des vsserlichen worts/dan so\nder gloub das vermag/vnd nitt das vsser wort/so habē\nwir recht/vñ sind sy von jrem spruch getrungē/",
+        "a": "aber diß Argumēt / oder gegenwurff\nwurd allein reychē vff die grösse des gloubēs\nvnd nit vff das vermögen des vsserlichen worts/dan so\nder gloub das vermag/vnd nitt das vsser wort/so habē\nwir recht/vñ sind sy von jrem spruch getrungē/",
         "b": null,
         "similarity": 0.0
       },
@@ -51,50 +51,37 @@
         "op": "only_a",
         "a": "Sag ich das die red vnser\nvordrig meynung bestättet/ dann die wunderwerck we=\nder an minē gloubē noch am vssern wort stand/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7026,
-        "semantic_match": "vnd zun Roͤmern\nam 10. Capitel. Ouch die erſt Concluſion / darumb ( ob\nGott wil ) Chriſtenlich red gehalten worden. Zwingly.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "deßhalb\naber jr meynung zeruck lyt/ dann die krafft der wunder\nwercken/nit an vnserm glouben/ sonders an der wal got\ntes stand/daruon hie nit statt ist nach notdurfft zereden/",
         "b": "Schlußred. 311\nſonders an der Wal Gottes ſtand / daruon hie nit ſtatt iſt\nnach noturfft zereden / vnd ſind die ort die Chriſtus vom\nſtarcken Glouben redt /",
-        "similarity": 0.4211,
-        "semantic": 0.7043,
-        "reading": "reworded"
+        "similarity": 0.4211
       },
       {
         "op": "match",
         "a": "vnd sind die ozt die Christus vom starcken glouben rede\nnit darwider. Pfarrer von Sant Gallen. Jr wüssend wol/das das wort des menschē/als\neins menschē nüt bmag:",
         "b": "nit darwider. Pfarrer von Sant Gallen. WJr wüſſend wol / das das wort deß Menſchen / als\nein Menſchen nüt vermag: aber ſo wir handlen vß\ndem beſelch vnd Wort Gottes /",
-        "similarity": 0.4483,
-        "semantic": 0.7998,
-        "reading": "reworded"
+        "similarity": 0.4483
       },
       {
         "op": "match",
         "a": "aber so wir handlen vß\ndem beuelch vñ wort gottes so thůt es nit allein\nnatürliche ding/sonders übernatürliche/ dz eroffnet sich\nin dē wort/",
         "b": "ſo thůt es nit allein\nnatürliche ding / ſonders über natürliche / das eroffnet ſich\nin dem wort / ſo Petrus dem Herrn antwurt /",
-        "similarity": 0.5217,
-        "semantic": 0.7466,
-        "reading": "same"
+        "similarity": 0.5217
       },
       {
         "op": "match",
         "a": "so Petrus dē herrn antwurt/Gebieter durch\ndie ganze nacht arbeitend/habē wir nüt gefangen/indy\nnem wort aber/ wil ich vßspanne das netz:",
         "b": "Gebieter / durch die gantze Nacht arbeitend / haben wir nüt gefangen / in dynem Wort aber / wil ich vßſpannen das Netz : als ſy\nſöllichs thon haben /",
-        "similarity": 0.5833,
-        "semantic": 0.7966,
-        "reading": "same"
+        "similarity": 0.5833
       },
       {
         "op": "match",
         "a": "als sy söllichs\nthon haben/habē sy vmschlossen/ ein grosse viled er visch\nen. Also möchte zůgefürt werden/ der spruch in der ersten\nEpist.",
         "b": "haben ſy vmbſchloſſen ein groſſe vile\nder Fiſchen. Alſo moͤchte zůgefürt werden / der Spruch in\nder erſten Epiſtel Petri am erſten Cap.",
-        "similarity": 0.4681,
-        "semantic": 0.4987,
-        "reading": "different"
+        "similarity": 0.4681
       },
       {
         "op": "only_a",
@@ -114,23 +101,18 @@
         "b": "AL Petrus ſprach / in dinem wort wil ich das Netz\nvßſpreiten / beger ich von vnſerm Bruͤder was vſ=\nſerlichen . Worts Petrus geredt hab / zů deß netzes\ninlaſſung.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7081,
-    "reworded": 2,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.4413,
+    "similarity": 0.4434,
     "words": {
-      "a": 255,
+      "a": 253,
       "b": 171
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite X Die vierdt Adeyster Ulrich zwingy Als die gab des gloubens vilen vnderscheid lich merer oder minder geben werde erkennē wir wol aber diß Argumēt oder gegenwurff wurd allein reychē vff die grösse des gloubēs vnd nit vff das vermögen des vsserlichen worts dan so der gloub das vermag vnd nitt das vsser wort so habē wir recht vñ sind sy von jrem spruch getrungē das das vsser wort söllich vermögen hab als sy anzeygent vonn wunderzeychen die von Petro gewürcket vñ durch mich glöubigen nit gewürckt sind Sag ich das die red vnser vordrig meynung bestättet dann die wunderwerck we der an minē gloubē noch am vssern wort stand deßhalb aber jr meynung zeruck lyt dann die krafft der wunder wercken nit an vnserm glouben",
+        "a": "Die vierdt Adeyster Ulrich zwingy Als die gab des gloubens vilen vnderscheid lich merer oder minder geben werde erkennē wir wol aber diß Argumēt oder gegenwurff wurd allein reychē vff die grösse des gloubēs vnd nit vff das vermögen des vsserlichen worts dan so der gloub das vermag vnd nitt das vsser wort so habē wir recht vñ sind sy von jrem spruch getrungē das das vsser wort söllich vermögen hab als sy anzeygent vonn wunderzeychen die von Petro gewürcket vñ durch mich glöubigen nit gewürckt sind Sag ich das die red vnser vordrig meynung bestättet dann die wunderwerck we der an minē gloubē noch am vssern wort stand deßhalb aber jr meynung zeruck lyt dann die krafft der wunder wercken nit an vnserm glouben",
         "b": "Schlußred 311"
       },
       {

@@ -8,7 +8,7 @@
       229
     ]
   },
-  "alignment_score": 0.2715,
+  "alignment_score": 0.274,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -23,30 +23,12 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 14,
-    "matched": 9,
-    "only_a": 3,
-    "only_b": 2,
-    "similarity": 0.5384,
+    "units": 16,
+    "matched": 7,
+    "only_a": 5,
+    "only_b": 4,
+    "similarity": 0.4966,
     "pairs": [
-      {
-        "op": "only_a",
-        "a": "Seite CIII\nSchlußred. Brot genomen in die hend / hat dãck geſagt / ouch Broche / vnnd das geben ſinen jüngern / daby geſagt:",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7273,
-        "semantic_match": "hat Danck gesagt / auch brochen / und das geben\nsynen Jüngeren / daby gesagt: Nemmend / essend / das\nist myn Lyb: derglychen genommen den Kelch /",
-        "reading": "candidate"
-      },
-      {
-        "op": "only_a",
-        "a": "Nemmend / åſſend / das iſt min lyb: der glychen genoñen den Kelch / danck geſagt / vnnd jnen geben / ſagende / Trinckennd all\ndarůß /",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6554,
-        "semantic_match": "hat Danck gesagt / auch brochen / und das geben\nsynen Jüngeren / daby gesagt: Nemmend / essend / das\nist myn Lyb: derglychen genommen den Kelch /",
-        "reading": "candidate"
-      },
       {
         "op": "only_b",
         "a": null,
@@ -54,82 +36,88 @@
         "similarity": 0.0
       },
       {
+        "op": "match",
+        "a": "Schlußred. Brot genomen in die hend / hat dãck geſagt / ouch Broche / vnnd das geben ſinen jüngern / daby geſagt: Nemmend / åſſend /",
+        "b": "hat Danck gesagt / auch brochen / und das geben\nsynen Jüngeren / daby gesagt: Nemmend / essend / das\nist myn Lyb: derglychen genommen den Kelch /",
+        "similarity": 0.3333
+      },
+      {
+        "op": "only_a",
+        "a": "das iſt min lyb: der glychen genoñen den Kelch / danck geſagt / vnnd jnen geben / ſagende / Trinckennd all\ndarůß / das iſt min blůt des nüwen Teſtaments /",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "only_a",
+        "a": "welches\nfür vil vergoſſenn wirt / zů verzychung der ſünd. Das\nhalt inn / vnſer gloub / ongezwiffelt / ſo nun Chriſtus be=\nfolchen hat /",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
         "op": "only_b",
         "a": null,
-        "b": "hat Danck gesagt / auch brochen / und das geben\nsynen Jüngeren / daby gesagt: Nemmend / essend / das\nist myn Lyb: derglychen genommen den Kelch /",
+        "b": "danck-\ngesagt / und ihnen geben / sagende : Trinckend all da-\nruß / das ist myn Blůt deß Neuen Testaments / wel-\nches für viel vergoſſen wird zů Verzyhung der Sünd.",
         "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "das iſt min blůt des nüwen Teſtaments / welches\nfür vil vergoſſenn wirt / zů verzychung der ſünd. Das\nhalt inn / vnſer gloub /",
-        "b": "danck-\ngesagt / und ihnen geben / sagende : Trinckend all da-\nruß / das ist myn Blůt deß Neuen Testaments / wel-\nches für viel vergoſſen wird zů Verzyhung der Sünd.",
-        "similarity": 0.3333,
-        "semantic": 0.7667,
-        "reading": "reworded"
-      },
-      {
-        "op": "match",
-        "a": "ongezwiffelt / ſo nun Chriſtus be=\nfolchen hat / ſolichs gethon werden / in ſiner gedächtnuß. Nun iſt gewüß alles das / ſo vnmöglich dem menſchen /",
+        "a": "ſolichs gethon werden / in ſiner gedächtnuß. Nun iſt gewüß alles das / ſo vnmöglich dem menſchen / by Gott vermöglich / Matthei am xix.",
         "b": "Das halt inn unser Glaub ungezwyfelt. So nun Chri-\nstus befohlen hat / sölichs gethon werden / in syner Ge-\ndächnus. Nun ist gewiß alles das /",
-        "similarity": 0.4783,
-        "semantic": 0.6297,
-        "reading": "reworded"
+        "similarity": 0.3556
       },
       {
-        "op": "match",
-        "a": "by Gott vermöglich / Matthei am xix. capit. vnd Pau\nlus zun Römeren am iiij. capitel. vnnd Lucas am er=\nſten capitel.",
+        "op": "only_a",
+        "a": "capit. vnd Pau\nlus zun Römeren am iiij. capitel. vnnd Lucas am er=\nſten capitel. Meiſter Vlrich Zwingli / predicant zů Zůrich.",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
         "b": "so unmüglich dem\nMenschen / by Gott vermüglich / Matth. am 19. Cap. und Paulus zun Römern am 4. und Lucas am 1.",
-        "similarity": 0.381,
-        "semantic": 0.6576,
-        "reading": "reworded"
+        "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "Meiſter Vlrich Zwingli / predicant zů Zůrich. [E]r erſt ſpruch: Das brot das ich üch gebẽ wirt / iſt min fleyſch /",
+        "a": "[E]r erſt ſpruch: Das brot das ich üch gebẽ wirt / iſt min fleyſch / welches ich vmb das labenn der\nwelt hingeben wird /",
         "b": "Cap. Meister Ulrich Zwingly / Predicant\n                    zu Zürich. DEr erst Spruch : Das Brot das ich euch geben wird / ist myn Fleisch /",
-        "similarity": 0.55,
-        "semantic": 0.7902,
-        "reading": "same"
+        "similarity": 0.3256
       },
       {
-        "op": "match",
-        "a": "welches ich vmb das labenn der\nwelt hingeben wird / Johannis am ſechßten ca=\npitel / treyt ſinen eygentlichen verſtand vff dem rucken /",
+        "op": "only_a",
+        "a": "Johannis am ſechßten ca=\npitel / treyt ſinen eygentlichen verſtand vff dem rucken / Namlich / das er vns hie mit dem wort /",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
         "b": "welches ich um das Leben der Welt\nhingeben wird / Johan. am 6. Cap. treit synen eigentli-\nchen Verstand off dem Rucken /",
-        "similarity": 0.4762,
-        "semantic": 0.8835,
-        "reading": "reworded"
+        "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "Namlich / das er vns hie mit dem wort / Brot / vnd mit\ndem wort / (Min fleyſch / nit zů verſtan gibt / das er vns\nim brot ſin fleyſch lyplich welle zeeſſenn geben /",
+        "a": "Brot / vnd mit\ndem wort / (Min fleyſch / nit zů verſtan gibt / das er vns\nim brot ſin fleyſch lyplich welle zeeſſenn geben /",
         "b": "namlich / daß er uns hie\nmit dem Wort (Brot) und mit dem Wort (myn Fleisch)\nnit zů verstahn gibt / daß er uns im Brot syn Fleisch lyb-\nlich wölle zeessen geben /",
-        "similarity": 0.6557,
-        "semantic": 0.8903,
-        "reading": "same"
+        "similarity": 0.4906
       },
       {
         "op": "match",
         "a": "ſonders / er\nverſtadt durch das Brot / den troſt vnnd ſicherheyt / die\nvns Gott in jm gibt / verſichert werden / mit ſinem tod /",
         "b": "sonder er verstaht durch das Brot\nden Trost und Sicherheit / die uns Gott in ihm gibt / ver-\nsichert werden mit synem Tod /",
-        "similarity": 0.6512,
-        "semantic": 0.9112,
-        "reading": "same"
+        "similarity": 0.6512
       },
       {
         "op": "match",
         "a": "Das vermerckt man / ſo er ſpricht / Welches fleyſch ich\ngeben wird vmb das låben der welt: ſin fleyſch in tod ge=\nben /",
         "b": "das vermerckt man / so er\nspricht: Welches Fleisch ich geben wird um das Leben der\nWelt: syn Fleisch in den Tod geben /",
-        "similarity": 0.6818,
-        "semantic": 0.7686,
-        "reading": "same"
+        "similarity": 0.6818
       },
       {
         "op": "match",
         "a": "hat die welt låbendig gemacht: lyblichenn geeſſen / hat Gott nienen geredt / das es låbendig macht. Deß andren puncten halb / erkenné wir /",
         "b": "hat die Welt lebendig\ngemacht: lyblichen geessen / hat Gott nienen geredt / daß\nes lebendig macht. Deß andern Puncten halb / erkennen wir / daß Gott\n                         Dd ij                               halt/",
-        "similarity": 0.6383,
-        "semantic": 0.7606,
-        "reading": "same"
+        "similarity": 0.6383
       },
       {
         "op": "only_a",
@@ -137,23 +125,18 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7674,
-    "reworded": 4,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 2
+    ]
   },
   "fine": {
-    "similarity": 0.5525,
+    "similarity": 0.5547,
     "words": {
-      "a": 253,
+      "a": 251,
       "b": 261
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite CIII",
+        "op": "insert",
+        "a": "",
         "b": "Die Vierte"
       },
       {

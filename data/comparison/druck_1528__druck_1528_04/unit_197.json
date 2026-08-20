@@ -8,15 +8,15 @@
       231
     ]
   },
-  "alignment_score": 0.3705,
+  "alignment_score": 0.3732,
   "coarse": {
     "paragraphs": {
-      "a": 3,
+      "a": 2,
       "b": 2
     },
     "counts": {
       "equal": 0,
-      "replace": 3,
+      "replace": 2,
       "delete": 0,
       "insert": 0
     },
@@ -24,19 +24,16 @@
   },
   "sentences": {
     "units": 15,
-    "matched": 10,
+    "matched": 9,
     "only_a": 4,
-    "only_b": 1,
-    "similarity": 0.5753,
+    "only_b": 2,
+    "similarity": 0.5111,
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite XCI\n\n**Schlußred.**\n\nlicher / ouch die verſtand gubernierer ſchuldig ſȳn zůhoͤ=\nren / ſo doch geſchriben ſtat zun Hebreern am.",
+        "a": "**Schlußred.**\n\nlicher / ouch die verſtand gubernierer ſchuldig ſȳn zůhoͤ=\nren / ſo doch geſchriben ſtat zun Hebreern am. xiij. Sůnd\ngehorſam üweren fürgeſetzten /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6816,
-        "semantic_match": "Schlußred. CIII\n\nals waͤre das allein den Predigeren gesagt/ die\nselbig vßlegũg nam ich nit an/ Dañ mich beduͤckt\nsoͤlle man die Prediger hoͤren/so soͤlle man noch\nals billich/vnd billicher/ouch die vrostendē Gu-\nbernierer schuldig sin zuͦ hoͤren/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -46,130 +43,91 @@
       },
       {
         "op": "match",
-        "a": "xiij. Sůnd\ngehorſam üweren fürgeſetzten / zc. Zum andren / ward\nmir antwurt geben / vff den ſpruch Matthei am xxiij. Vff dem ſtůl Moyſi /",
+        "a": "zc. Zum andren / ward\nmir antwurt geben / vff den ſpruch Matthei am xxiij. Vff dem ſtůl Moyſi / zc. Das daſſelbig ſolt verſtanden\nwerden /",
         "b": "so doch geschri-\nben stadt zun Hebreern am xiij. Sind gehorsam\nuͤweren fuͤrgesetzten/ꝛc. Zum andren/ward mir\nantwurt gebẽ/vff den spruch Matthei am xxiij.",
-        "similarity": 0.52,
-        "semantic": 0.774,
-        "reading": "same"
+        "similarity": 0.4314
       },
       {
-        "op": "match",
-        "a": "zc. Das daſſelbig ſolt verſtanden\nwerden / vonn der beſchwårnus des alten geſatzes / meyn\nich / er ſolle ouch billich verſtanden werden /",
+        "op": "only_b",
+        "a": null,
         "b": "Vff dem stuͦl Moysi/ꝛc. Das dasselbig solt ver\nstanden werden/ von der beschwaͤrnuß des al-\nten gsatzes/mein ich/er soͤlle ouch billich verstan\nden werden/",
-        "similarity": 0.44,
-        "semantic": 0.7252,
-        "reading": "reworded"
+        "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "von dem das\nvß der geſchrifft des alten oder nüwen Teſtaments ge=\nnomen iſt / ob es ſchon allein ein ſinn hat /",
+        "a": "vonn der beſchwårnus des alten geſatzes / meyn\nich / er ſolle ouch billich verſtanden werden / von dem das\nvß der geſchrifft des alten oder nüwen Teſtaments ge=\nnomen iſt /",
         "b": "von dem das vß der geschrifft deß\nalten oder nuͤwenn Testaments genomen ist/ob\nes schon allein ein sinn hat/",
-        "similarity": 0.8095,
-        "semantic": 0.9108,
-        "reading": "same"
+        "similarity": 0.4082
       },
       {
         "op": "match",
-        "a": "vnd nüt die glich\nen wort / ſo doch der Herr das geſagt hatt zů ſynen jůn=\ngern / ſy ſölten es halten vnnd thůn /",
+        "a": "ob es ſchon allein ein ſinn hat / vnd nüt die glich\nen wort / ſo doch der Herr das geſagt hatt zů ſynen jůn=\ngern /",
         "b": "vnnd nit die glychen\nwort/ so doch der Herr das gesagt hat zuͦ sinen\njuͤngeren/sy soͤlten es halten vñ thuͦn/",
-        "similarity": 0.5106,
-        "semantic": 0.837,
-        "reading": "same"
+        "similarity": 0.375
       },
       {
         "op": "match",
-        "a": "ward mir ouch ge=\nmacht ein Silogiſmus / wie das ein yegklicher / der da wi\nder den ſpruch Pauli zů Thimo.",
+        "a": "ſy ſölten es halten vnnd thůn / ward mir ouch ge=\nmacht ein Silogiſmus / wie das ein yegklicher / der da wi\nder den ſpruch Pauli zů Thimo.",
         "b": "ward mir\nouch gemacht ein Silogismus:wie das ein yeg-\nklicher/der da wider den spruch Pauli zuͦ Thim. am iiij.",
-        "similarity": 0.6829,
-        "semantic": 0.9296,
-        "reading": "same"
+        "similarity": 0.5957
       },
       {
         "op": "match",
         "a": "am iiij. verbutte ſpyſen\ndie gott zů nieſſen erſchaffen hatt / vnd Eelich zůwerden\nder ſelbig hette die leer der tüffle /",
         "b": "cap/ verbotte spysen die Gott zuͦ niessen\nerschaffen hat/ vnd Eelich zuͦ werden/der selbig\nhette die leer der tuͤfflen/ꝛc.",
-        "similarity": 0.6667,
-        "semantic": 0.7423,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "match",
         "a": "zc. Vff den ſelben ant=\nwurten ich alſo / zů erklårung des / ſo geſtern geredt iſt\nworden / wann man ſpricht ein yetlicher der daſſelb ver=\nbüt /",
         "b": "Vff den selben ant-\nwurten ich also/zuͦ erklaͤrung des/so gestern ge-\nredt ist worden/ wenn man spricht:",
-        "similarity": 0.6667,
-        "semantic": 0.8622,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "match",
         "a": "hatt die leer der tüfflen / das gib ich zů in rechtem\nverſtand / welchs dann in der meynung ſind jrrung in zů=\nfüren /",
         "b": "Ein yegkli-\ncher der dasselb verbuͤt/hat die leer der tuͤfflenn/ das gib ich zuͦ in rechtem verstand/",
-        "similarity": 0.4762,
-        "semantic": 0.869,
-        "reading": "reworded"
+        "similarity": 0.4762
       },
       {
         "op": "match",
         "a": "als dan̄ ſant Paulus das anzeygt / von den Kåtz=\neryen / die ſych in künfftiger zyt erhebē wurdē / als da wa\nren die Manichei /",
         "b": "welche dann\nin der meinung sind/jrrung ynzefuͤren/ als dañ\nSant Paulus das anzeygt/ von den kaͤtzeryen/ die sich in kuͤnfftiger zyt erheben wurdẽ/",
-        "similarity": 0.48,
-        "semantic": 0.7534,
-        "reading": "reworded"
+        "similarity": 0.48
       },
       {
         "op": "match",
         "a": "die da die ſpyſen verbotten / meynten\nes wåre ein teyl gottes etwan darín / vnd der glichen / wie\nman daruon lißt /",
         "b": "Als da\nwarend die Manichei/ die da die spysen verbo-\ntend/meynten es waͤre ein teyl gottes etwan da-",
-        "similarity": 0.5,
-        "semantic": 0.8133,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "only_a",
         "a": "zc. Welcher ein ſolichs leert / leert nit\nrecht / witer / wan̄ man ſpricht üwer Kilch / dardurch an=\nzeygend die Chriſtenlich gemeind /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8111,
-        "semantic_match": "Schlußred. CIII\n\nals waͤre das allein den Predigeren gesagt/ die\nselbig vßlegũg nam ich nit an/ Dañ mich beduͤckt\nsoͤlle man die Prediger hoͤren/so soͤlle man noch\nals billich/vnd billicher/ouch die vrostendē Gu-\nbernierer schuldig sin zuͦ hoͤren/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "ſampt jren vorſten=\nderen / die nun ſo lang har / für die Chriſtlichen Kilchen\ngehalten iſt / ſo iſt es nit war (ob gott wil) wann die ſelbig\nChriſtlich Kilch /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8434,
-        "semantic_match": "Schlußred. CIII\n\nals waͤre das allein den Predigeren gesagt/ die\nselbig vßlegũg nam ich nit an/ Dañ mich beduͤckt\nsoͤlle man die Prediger hoͤren/so soͤlle man noch\nals billich/vnd billicher/ouch die vrostendē Gu-\nbernierer schuldig sin zuͦ hoͤren/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "ob ſy ſchon vff ettlich tag oder zyt die\nBůßvertigkeyt oder hochzytlicher fåſt / ſolich ſpyß ver=\nbüt / geſchicht ouch das in eyner götlichen meinung / die\nO iij",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7751,
-        "semantic_match": "Schlußred. CIII\n\nals waͤre das allein den Predigeren gesagt/ die\nselbig vßlegũg nam ich nit an/ Dañ mich beduͤckt\nsoͤlle man die Prediger hoͤren/so soͤlle man noch\nals billich/vnd billicher/ouch die vrostendē Gu-\nbernierer schuldig sin zuͦ hoͤren/",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.8091,
-    "reworded": 3,
-    "recovered_by_embedding": 4,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 4
+    ]
   },
   "fine": {
-    "similarity": 0.5236,
+    "similarity": 0.5254,
     "words": {
-      "a": 311,
+      "a": 309,
       "b": 281
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite XCI",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Schlußred",
@@ -661,7 +619,7 @@
         "b": "da"
       }
     ],
-    "ops": 50,
+    "ops": 49,
     "truncated": false
   }
 }

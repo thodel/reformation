@@ -8,7 +8,7 @@
       79
     ]
   },
-  "alignment_score": 0.4194,
+  "alignment_score": 0.4286,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -24,10 +24,10 @@
   },
   "sentences": {
     "units": 11,
-    "matched": 5,
+    "matched": 4,
     "only_a": 0,
-    "only_b": 6,
-    "similarity": 0.5774,
+    "only_b": 7,
+    "similarity": 0.5628,
     "pairs": [
       {
         "op": "only_b",
@@ -43,43 +43,33 @@
       },
       {
         "op": "match",
-        "a": "Seite [X]\nvnd gib antwurt erstlich des spruchs halbē/ der geystlich\nricht alles/zc. Diewyl wir wüssen das vnser widerpart/",
+        "a": "vnd gib antwurt erstlich des spruchs halbē/ der geystlich\nricht alles/zc. Diewyl wir wüssen das vnser widerpart/ das vrteilen dahin zühen wil/",
         "b": "und gib Antwort\nerſtlich deß Spruchs halben / Der geiſtlich richt alles / ꝛc. diewyl wir wiſſen / daß unſer Widerpart das urtheilen\ndahin zůhen wil /",
-        "similarity": 0.5116,
-        "semantic": 0.5714,
-        "reading": "check"
+        "similarity": 0.6522
       },
       {
         "op": "match",
-        "a": "das vrteilen dahin zühen wil/ das ein gmein Concilium\nmacht hab/ etwas nebend der geschrifft anzenemen/ hab\nouch erstlich der schrifft /",
+        "a": "das ein gmein Concilium\nmacht hab/ etwas nebend der geschrifft anzenemen/ hab\nouch erstlich der schrifft / Das ansehen geben / so ist Billich\ngeantwurt worden/",
         "b": "daß ein gemein Concilium Macht habe / etwas nebend der Geſchrifft anzenemmen / hab ich auch\nerſtlich der Schrifft das Anſehen geben /",
-        "similarity": 0.5366,
-        "semantic": 0.8003,
-        "reading": "same"
+        "similarity": 0.6364
       },
       {
         "op": "match",
-        "a": "Das ansehen geben / so ist Billich\ngeantwurt worden/ das der geystlich die geschrifft nit ze=\nrichten hab/ das ist sins geuallens die geschrifft anzenem\nmen oder zeuerwerffen/",
+        "a": "das der geystlich die geschrifft nit ze=\nrichten hab/ das ist sins geuallens die geschrifft anzenem\nmen oder zeuerwerffen/ sonder er hats allein müssen an=\nnemen/",
         "b": "ſo iſt billich geant-\nwortet worden / daß der geiſtlich die Geſchrifft nit zerich-\nten hab / das iſt ſynes Gefallens die Geſchrifft anzenem-\nmen oder zeverwerffen /",
-        "similarity": 0.6538,
-        "semantic": 0.7346,
-        "reading": "same"
+        "similarity": 0.5098
       },
       {
         "op": "match",
-        "a": "sonder er hats allein müssen an=\nnemen/ dann er åben durch den geyst sin erkantnus hatt/ durch welchen die Bibel vns geben ist /",
+        "a": "dann er åben durch den geyst sin erkantnus hatt/ durch welchen die Bibel vns geben ist / so aber min herr\nDoctor das vrteylen verston will / wie es ouch Paulus",
         "b": "ſonder er hats allein muͤſſen an-\nnemmen / dann er eben durch den Geiſt ſyn Erkantnus\nhat / durch welchen die Bibel uns geben iſt:",
-        "similarity": 0.7234,
-        "semantic": 0.9055,
-        "reading": "same"
+        "similarity": 0.4528
       },
       {
-        "op": "match",
-        "a": "so aber min herr\nDoctor das vrteylen verston will / wie es ouch Paulus",
+        "op": "only_b",
+        "a": null,
         "b": "So aber myn\nHerr Doctor das urtheilen verſtohn will / wie es auch\nPaulus ſelbs brucht fuͤr erkennen / daß die Geſchrifft das\nWort Gottes fuͤrtregt /",
-        "similarity": 0.4615,
-        "semantic": 0.8407,
-        "reading": "reworded"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -105,23 +95,18 @@
         "b": "er waͤre ſonſt nit Gott-glaͤubig / deſſen Red er nit\nwuͤßte. Hieruß folget nun / daß alle Chriſten ſamenthafft\nund ſonder alle Lehr zů urtheilen haben / wie das gar\n\tH iij\tChri-",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7705,
-    "reworded": 1,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.3799,
+    "similarity": 0.382,
     "words": {
-      "a": 104,
+      "a": 102,
       "b": 275
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite X",
+        "op": "insert",
+        "a": "",
         "b": "Die Erſte Schlußred 63 Martinus Bucerus LJebe fromme Chriſten wir haben einen Handel das Wort Gottes belangend gegen mynem Herren Doc tor zůgegen darum wil ich jetzund Antwort geben und damit die Sach ku rzert werde wil ich das widerbringen die Red deß Doctors laſſen anſtohn"
       },
       {

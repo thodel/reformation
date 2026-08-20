@@ -8,7 +8,7 @@
       402
     ]
   },
-  "alignment_score": 0.4189,
+  "alignment_score": 0.4227,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -31,7 +31,7 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [X]\nDie vierdt\ngebietenden herren von Bernn/vnd die andren all’vor/ hab ich mich nach ordnung vnnd satzung/der gemeynen\nChristenlichen Kilchen/biß har lang zyt gehaltenn:",
+        "a": "Die vierdt\ngebietenden herren von Bernn/vnd die andren all’vor/ hab ich mich nach ordnung vnnd satzung/der gemeynen\nChristenlichen Kilchen/biß har lang zyt gehaltenn:",
         "b": null,
         "similarity": 0.0
       },
@@ -39,43 +39,31 @@
         "op": "only_a",
         "a": "bin\ndes sinns/so wyt ich mit dem wott gottes nit wyters be-\nricht wirt/von bemelter Christenlicher Kilchen nit ze-\nstaan.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7636,
-        "semantic_match": "grund anzeigen\nſölcher Krafft/die er den worten zůgeben wil. Vff das/ſo\ner deß ſinns iſt/ſo frag ich in/ob er in obbemelten worten/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "So er aber mir die Kilchen vßleyt/nempt sy die\nBäpstlich Kilchen.zc. Frag ich jnn/wo die sye gesin/vor\nviertzig/fünfftzig/oder hundertt jaren/so doch sin leer vñ\nmeinũg/wie er sy yetz ein lange zyt im bruch hat gehan/",
         "b": "368        Die vierdt\nſye geſin/vor viertzig/fünfftzig/oder hundert Jaren/ſo doch\nſyn Leer vnd meinung/wie er ſy jetz ein lange zyt im bruch\nhat ghan/ſo by der gmeinen Chriſtenlichen Kilchen nit iſt\ngehalten.",
-        "similarity": 0.475,
-        "semantic": 0.532,
-        "reading": "different"
+        "similarity": 0.475
       },
       {
         "op": "only_a",
         "a": "so by der gemeinen Christenlichen Kilchen nit ist gehal-\nten. Waltherus Clarer\n[D]Jewyl der pfarrer vonn Appenzell sich vor=\nmals allweg/vnd yetz ouch/des verstands der\nwortt Christi/Das ist min lyb/berümpt hat/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6508,
-        "semantic_match": "grund anzeigen\nſölcher Krafft/die er den worten zůgeben wil. Vff das/ſo\ner deß ſinns iſt/ſo frag ich in/ob er in obbemelten worten/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "namlich/das vßtz krafft derselbigen/das brot/ in den lyb/vnnd der wyn in das blůt Christi verwandlet\nwerde/So ist klar/das er solichs vß dem grund zůcht/",
         "b": "Waltherus Clarer. JEtwyl der Pfarzer von Appenzell ſich vormals all-\nweg/vnd jetz ouch/deß verſtands der worten Chri-\nſti/Das iſt myn Lyb/berümpt hat/namlich/das\nvß Krafft der ſelbigen/das Brot/in den Lyb/vnnd der\nWyn in das Blůt Chriſti verwandlet werde/So iſt klar/",
-        "similarity": 0.5128,
-        "semantic": 0.767,
-        "reading": "same"
+        "similarity": 0.5128
       },
       {
         "op": "match",
         "a": "das Christus soliche wort geredt/vnnd denen die krafft\nverlassen hab. Also welcher der nachkomen/die über dz\nBrot spricht/müsse die zal der wortenn/vnnd den ver=\nstand Christi/by der hand behalten/sunst möchte er der\npfarrer/dhein grund anzeygenn solcher krafft/die er den\nwortenn zůgeben wil.",
         "b": "das er ſölichs vß dem grund zücht / das Chriſtus ſöli-\nche wort geredt/vnd denen die Krafft verlaſſen hab. Alſo\nwelcher der nach komen/die über das Brot ſpricht/müſſe\ndie zal der worten/vnd den verſtand Chriſti/by der Hand\nbehalten/ſunſt möchte er der Pfarzer/kein.",
-        "similarity": 0.6122,
-        "semantic": 0.921,
-        "reading": "same"
+        "similarity": 0.6122
       },
       {
         "op": "only_b",
@@ -87,9 +75,7 @@
         "op": "match",
         "a": "Vff das/so er des sinns ist/so frag\nich jnn/ob er in obbemelten worten/Das ist min lyb/so er\nsy über die offleten oder über das brot spricht/den tödt=\nlichen oder sterblichen lyb: oder den vntödtlichen clarifi=\ncierten lyb Christi/verstande. Pfarrer",
         "b": "Das iſt myn Lyb/ſo er ſy über die offleten oder über das\nBrot ſpricht/den tödtlichen oder ſterblichen Lyb:",
-        "similarity": 0.5455,
-        "semantic": 0.7513,
-        "reading": "same"
+        "similarity": 0.5455
       },
       {
         "op": "only_b",
@@ -97,23 +83,18 @@
         "b": "oder den\nvntödtlichen clarificierten Lyb Chriſti/verſtande. Pfarzer von Appenzell. WEißt der wol/welchen Lyb er jnen geben hat/der\njnen das empfolhen hat/ſprechend:Thůnds in my-\nner gedechtnuß/Den Lyb der gelitten hat/Den\nLyb der zehimmel gefaren iſt. Wal-",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7309,
-    "reworded": 0,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 2
+    ]
   },
   "fine": {
-    "similarity": 0.6038,
+    "similarity": 0.6063,
     "words": {
-      "a": 255,
+      "a": 253,
       "b": 222
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite X",
+        "op": "insert",
+        "a": "",
         "b": "368"
       },
       {

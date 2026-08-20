@@ -8,15 +8,15 @@
       79
     ]
   },
-  "alignment_score": 0.282,
+  "alignment_score": 0.2918,
   "coarse": {
     "paragraphs": {
-      "a": 4,
+      "a": 6,
       "b": 4
     },
     "counts": {
       "equal": 0,
-      "replace": 4,
+      "replace": 6,
       "delete": 0,
       "insert": 0
     },
@@ -27,11 +27,11 @@
     "matched": 4,
     "only_a": 4,
     "only_b": 6,
-    "similarity": 0.4332,
+    "similarity": 0.4556,
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite XXI\n\n<br>\n<div style=\"text-align: center; font-size: 1.2em; margin-bottom: 1em;\">Schlußred.</div>\n\nuolche/dz ampt sins goͤtlichen worts/vn̄ dz absoluieren\nvoͤ den suͤndē/allein sy den gloͤubigen/vßkuͤndē ablasung\nder suͤnd.",
+        "a": "<div style=\"text-align: center; font-size: 1.2em; margin-bottom: 1em;\">Schlußred. uolche/dz ampt sins goͤtlichen worts/vn̄ dz absoluieren\nvoͤ den suͤndē/allein sy den gloͤubigen/vßkuͤndē ablasung\nder suͤnd.",
         "b": null,
         "similarity": 0.0
       },
@@ -39,19 +39,13 @@
         "op": "only_a",
         "a": "Nun hat nye iemant gehoͤrt/das weder die A=\npostel/noch vnser heyligoster vatter der Bapstall/Prie\nster nie kein empfelch gehapt zuͤ absoluieren/ein/der da\nnit den glouben hab/sonders jm empfolhen/zuͤ binden\nin dem gewallt Gottes/vnd zuͤ entbinden die/die sich ge\nschickt hand in glouben/vnd hoffnung/vnd truͤw/dem\ngoͤttlichen wort Christi/das da empfolhen hat/zebindē\nvnd entbinden/wie vor dauon geredt ist.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8104,
-        "semantic_match": "uͤber den / der ſoͤlliches ge-\nthan hat / in dem Namen vnſers Herren Jeſu Chriſti / in\nuͤwer Verſamlung mit minem Geiſt/vnd in der krafft vn-\nſers Herren Jeſu Chriſti/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
-        "a": "<br>\n&nbsp;&nbsp;&nbsp;&nbsp;Aber zuͤ einer besser bestaͤtung des gewalts/zuͤge ich\ndas durch den heyligen Paulum.",
+        "a": "&nbsp;&nbsp;&nbsp;&nbsp;Aber zuͤ einer besser bestaͤtung des gewalts/zuͤge ich\ndas durch den heyligen Paulum.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6483,
-        "semantic_match": "daß der/ſo vnordenlich\nwandlet/in vnuerſchampter ergernuß/ſoll verbannet vnnd\nvßgeſchloſſen werden. Matthei am 18.capit. welches ouch\nPaulus zů Corintho than hat/Als jr habend in der erſten\nEpiſtel am 5.cap.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -63,17 +57,19 @@
         "op": "match",
         "a": "j. Timoth. j. cap. da er\ngeredt hat von denen die schiffbruͤchig sind gsin am glou\nben/vß welchen ist gsin Himeneus vnd Alexander/wel\nche ich hab geben dem tuͤffel/vff das/das sy lernen/gott\nnit lesteren.",
         "b": "vß\nwelchen iſt gſin Himeneus vnnd Alexander / welche ich\nhab geben dem Tuͤffel/vff das/daß ſy lernen/Gott nit leſte-\nren.",
-        "similarity": 0.5625,
-        "semantic": 0.7511,
-        "reading": "same"
+        "similarity": 0.5625
       },
       {
         "op": "match",
         "a": "Nun so Paulus/als dz vßerwelt vaß Chri\nsti/hat hie inn diser zyt den gewallt brucht/vnd gehan/ vnd ist nit on/das der ewig Gott/Christus Jesus/vns\nklarlichen eroffnet hab/den gewallt/so er dem Paulo gen\nhatt/der text ist klar/die wort haͤll vnd luter.",
         "b": "Nun ſo Paulus/als das Vßertwelt Vaß Chriſti/hat\nhie in diſer zyt den gewalt brucht/vnnd gehan/vnnd iſt nit\non/daß der ewig Gott/Chriſtus Jeſus/vns klarlich eroff-\nnet hab/den gewalt /",
-        "similarity": 0.5116,
-        "semantic": 0.8266,
-        "reading": "same"
+        "similarity": 0.5116
+      },
+      {
+        "op": "only_a",
+        "a": "<div style=\"text-align: center; font-size: 1.2em; margin-bottom: 1em;\">Berchtoldus. &nbsp;&nbsp;&nbsp;&nbsp;[D]Er Herr hat beuolchen/sin Goͤttlich wort zuͤ\nverkuͤnden/den Apostlen/als sinen dieneren/",
+        "b": null,
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -83,28 +79,15 @@
       },
       {
         "op": "match",
-        "a": "<br>\n<br>\n<div style=\"text-align: center; font-size: 1.2em; margin-bottom: 1em;\">Berchtoldus.</div>\n\n&nbsp;&nbsp;&nbsp;&nbsp;[D]Er Herr hat beuolchen/sin Goͤttlich wort zuͤ\nverkuͤnden/den Apostlen/als sinen dieneren/",
+        "a": "waͤr den selben gloubt hat/dem haben sy zuͤge=\nsprochen vergebung der suͤnd/vnnd nit die vergebung\nder suͤnd selbs geben.",
         "b": "ſin Goͤttlich Wort zů ver-\nkuͤnden/den Apoſtlen/als ſinen Dieneren/ſwaͤr den\nſelben gloubt hat/dem haben ſy zůgeſprochen Verge-\nbung der Suͤnd /",
-        "similarity": 0.3385,
-        "semantic": 0.6005,
-        "reading": "reworded"
+        "similarity": 0.4151
       },
       {
         "op": "match",
-        "a": "waͤr den selben gloubt hat/dem haben sy zuͤge=\nsprochen vergebung der suͤnd/vnnd nit die vergebung\nder suͤnd selbs geben.",
+        "a": "Der spruch vß Thimotheo/zeygt\nan den befelch Christi/einer yeglichen Kilchhoͤry geben/ dz der/so vnordentlich wandlet/in vnuerschampter er=\ngernuß sol verbannet vnnd vßgeschlossenn werdenn. f",
         "b": "vnnd nit die Vergebung der Suͤnd ſelbs\ngebeͤ. Der Spruch vß Timotheo/zeigt an den befelch Chri-\nſti/einer jeglichen Kilch hoͤry geben/",
-        "similarity": 0.32,
-        "semantic": 0.5909,
-        "reading": "different"
-      },
-      {
-        "op": "only_a",
-        "a": "Der spruch vß Thimotheo/zeygt\nan den befelch Christi/einer yeglichen Kilchhoͤry geben/ dz der/so vnordentlich wandlet/in vnuerschampter er=\ngernuß sol verbannet vnnd vßgeschlossenn werdenn. <br>\n<div style=\"text-align: center;\">f</div>",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7873,
-        "semantic_match": "jn zeuͤbergeben dem Tuͤffel / zů\nverderbung deß fleiſchs / vff daß der Geiſt ſaͤlig werd / am\nF   iij",
-        "reading": "candidate"
+        "similarity": 0.3333
       },
       {
         "op": "only_b",
@@ -130,23 +113,18 @@
         "b": "jn zeuͤbergeben dem Tuͤffel / zů\nverderbung deß fleiſchs / vff daß der Geiſt ſaͤlig werd / am\nF   iij",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7164,
-    "reworded": 1,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 3
+    ]
   },
   "fine": {
-    "similarity": 0.4067,
+    "similarity": 0.4172,
     "words": {
-      "a": 327,
+      "a": 312,
       "b": 268
     },
     "segments": [
       {
         "op": "delete",
-        "a": "Seite XXI br div style text align center font size 1 2em margin bottom 1em",
+        "a": "div style text align center font size 1 2em margin bottom 1em",
         "b": ""
       },
       {
@@ -156,7 +134,7 @@
       },
       {
         "op": "replace",
-        "a": "div uolche dz ampt sins go tlichen worts vn dz absoluieren vo den su nde allein sy den glo ubigen vßku nde ablasung der su nd Nun hat nye iemant geho rt das weder die A postel noch vnser heyligoster vatter der Bapstall Prie ster nie kein empfelch gehapt zu absoluieren ein der da nit den glouben hab sonders jm empfolhen zu binden in dem gewallt Gottes vnd zu entbinden die die sich ge schickt hand in glouben vnd hoffnung vnd tru w dem go ttlichen wort Christi das da empfolhen hat zebinde vnd entbinden wie vor dauon geredt ist br nbsp nbsp nbsp nbsp Aber zu einer besser besta tung des gewalts zu ge ich",
+        "a": "uolche dz ampt sins go tlichen worts vn dz absoluieren vo den su nde allein sy den glo ubigen vßku nde ablasung der su nd Nun hat nye iemant geho rt das weder die A postel noch vnser heyligoster vatter der Bapstall Prie ster nie kein empfelch gehapt zu absoluieren ein der da nit den glouben hab sonders jm empfolhen zu binden in dem gewallt Gottes vnd zu entbinden die die sich ge schickt hand in glouben vnd hoffnung vnd tru w dem go ttlichen wort Christi das da empfolhen hat zebinde vnd entbinden wie vor dauon geredt ist nbsp nbsp nbsp nbsp Aber zu einer besser besta tung des gewalts zu ge ich",
         "b": "45"
       },
       {
@@ -336,7 +314,7 @@
       },
       {
         "op": "delete",
-        "a": "br br div style text align center font size 1 2em margin bottom 1em",
+        "a": "div style text align center font size 1 2em margin bottom 1em",
         "b": ""
       },
       {
@@ -346,7 +324,7 @@
       },
       {
         "op": "replace",
-        "a": "div nbsp nbsp nbsp nbsp D Er",
+        "a": "nbsp nbsp nbsp nbsp D Er",
         "b": "DEr"
       },
       {
@@ -466,7 +444,7 @@
       },
       {
         "op": "replace",
-        "a": "vßgeschlossenn werdenn br div style text align center",
+        "a": "vßgeschlossenn werdenn",
         "b": "vßgeſchloſſen werden Matthei am 18 capit welches ouch Paulus zů Corintho than hat Als jr habend in der erſten Epiſtel am 5 cap Jch zwar ſpricht er als der mit dem Lyb nit da bin doch alls mit dem Geiſt gegẽwu rtig hab ſchon ich ſo llichs im Geiſt beſchloſſen u ber den der ſo lliches ge than hat in dem Namen vnſers Herren Jeſu Chriſti in u wer Verſamlung mit minem Geiſt vnd in der krafft vn ſers Herren Jeſu Chriſti jn zeu bergeben dem Tu ffel zů verderbung deß fleiſchs vff daß der Geiſt ſa lig werd am"
       },
       {
@@ -475,8 +453,8 @@
         "b": "F"
       },
       {
-        "op": "replace",
-        "a": "div",
+        "op": "insert",
+        "a": "",
         "b": "iij"
       }
     ],

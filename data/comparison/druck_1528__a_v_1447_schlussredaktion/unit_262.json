@@ -8,7 +8,7 @@
       439
     ]
   },
-  "alignment_score": 0.1449,
+  "alignment_score": 0.146,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -31,7 +31,7 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [X]\nDie vierde\n\nSüch hieuor\nam .119. blatt. so haben sy mit jrem eygnen mund geredt. Die wort soͤl=\nlend also verstanden werden/in oder vnder dem brot Jst\nder lichnam Christi:",
+        "a": "Die vierde\n\nSüch hieuor\nam .119. blatt. so haben sy mit jrem eygnen mund geredt. Die wort soͤl=\nlend also verstanden werden/in oder vnder dem brot Jst\nder lichnam Christi:",
         "b": null,
         "similarity": 0.0
       },
@@ -92,26 +92,16 @@
     ]
   },
   "fine": {
-    "similarity": 0.3629,
+    "similarity": 0.3604,
     "words": {
-      "a": 303,
+      "a": 301,
       "b": 204
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite",
-        "b": "an"
-      },
-      {
-        "op": "equal",
-        "a": "X",
-        "b": "x"
-      },
-      {
         "op": "insert",
         "a": "",
-        "b": "cap"
+        "b": "an x cap"
       },
       {
         "op": "equal",
@@ -564,7 +554,7 @@
         "b": ""
       }
     ],
-    "ops": 47,
+    "ops": 46,
     "truncated": false
   }
 }

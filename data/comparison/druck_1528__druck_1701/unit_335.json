@@ -8,7 +8,7 @@
       348
     ]
   },
-  "alignment_score": 0.2703,
+  "alignment_score": 0.2721,
   "coarse": {
     "paragraphs": {
       "a": 6,
@@ -23,48 +23,12 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 20,
-    "matched": 6,
-    "only_a": 8,
-    "only_b": 6,
-    "similarity": 0.4419,
+    "units": 19,
+    "matched": 7,
+    "only_a": 7,
+    "only_b": 5,
+    "similarity": 0.4232,
     "pairs": [
-      {
-        "op": "only_a",
-        "a": "Seite [X]\n**Die vierdt**\n\nSich hieuor himmel gefaren sye/ das ist vor verantwortt wurt. Das letst\nam 158. blat. das der Herr verheyssen hat/",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6467,
-        "semantic_match": "mit kurtzer Meldung uͤber die vierdte Concluſion/ gib ich alſo fuͤr. Alſo ſtaht myn Gewuͤßne jetztmahl / darum\nmyn Begehren iſt /",
-        "reading": "candidate"
-      },
-      {
-        "op": "only_a",
-        "a": "by vnns zesin/ biß zů end\nder wellt/ ist ouch vor verantwortt. Durch sinen geyst/ Sich ouch den tröster/ wirt er die sinen niemermer verlassen:",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.694,
-        "semantic_match": "Durch ſynen Geiſt/ den Troͤſter / wird er die ſynen nimmermehr verlaſſen: und iſt weder nutz noch noht / lut ſyner eigenen Wort/",
-        "reading": "candidate"
-      },
-      {
-        "op": "only_a",
-        "a": "vnnd\nam 158. blat. ist weder nutz noch not/ lut siner eygnē wort/ das er lyb=\nlich mer by vns sye.",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.62,
-        "semantic_match": "Durch ſynen Geiſt/ den Troͤſter / wird er die ſynen nimmermehr verlaſſen: und iſt weder nutz noch noht / lut ſyner eigenen Wort/",
-        "reading": "candidate"
-      },
-      {
-        "op": "only_a",
-        "a": "Also ist ouch verantwortt/ vnd wirt\nvillicht wyter erklärt werde/ dz vß ij. Cor. v. anzogē ist. **Vff den xix.",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6212,
-        "semantic_match": "mit kurtzer Meldung uͤber die vierdte Concluſion/ gib ich alſo fuͤr. Alſo ſtaht myn Gewuͤßne jetztmahl / darum\nmyn Begehren iſt /",
-        "reading": "candidate"
-      },
       {
         "op": "only_b",
         "a": null,
@@ -78,9 +42,27 @@
         "similarity": 0.0
       },
       {
-        "op": "only_b",
-        "a": null,
+        "op": "match",
+        "a": "**Die vierdt**\n\nSich hieuor himmel gefaren sye/ das ist vor verantwortt wurt. Das letst\nam 158. blat. das der Herr verheyssen hat/",
         "b": "das iſt vor beantwortet. Das letzt / das\nder Herz verheiſſen hat / by uns zeſyn biß zuͦ End der\nWelt / iſt auch vor beantwortet.",
+        "similarity": 0.3111
+      },
+      {
+        "op": "only_a",
+        "a": "by vnns zesin/ biß zů end\nder wellt/ ist ouch vor verantwortt. Durch sinen geyst/ Sich ouch den tröster/ wirt er die sinen niemermer verlassen:",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "only_a",
+        "a": "vnnd\nam 158. blat. ist weder nutz noch not/ lut siner eygnē wort/ das er lyb=\nlich mer by vns sye.",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "only_a",
+        "a": "Also ist ouch verantwortt/ vnd wirt\nvillicht wyter erklärt werde/ dz vß ij. Cor. v. anzogē ist. **Vff den xix.",
+        "b": null,
         "similarity": 0.0
       },
       {
@@ -99,17 +81,13 @@
         "op": "match",
         "a": "tag Jenners.**\n**Pfarrer von Sant Gallen.**\n\n[H]ch vnd wolgelert/ fürsichtig/ wyß. G. Herrē\nvnd Christenlichen brüder/ wie jr hie versamlet sind/",
         "b": "zun Corinthern am 5. Cap. angezogen iſt. Auff den 19. Tag Jenners. Pfarrer von Sant Gallen. HOch= und Wolgelehrt / Fuͤrſichtig /",
-        "similarity": 0.3256,
-        "semantic": 0.7332,
-        "reading": "reworded"
+        "similarity": 0.3256
       },
       {
         "op": "match",
         "a": "den be=\nschluß/ des ich mich off gestrigen tag/ in die fädern/ zeerzellen\nerbotten hab/ mit kurtzer meldung über die vierd Conclusiō/",
         "b": "Wyß / E. Herzen und\nChriſtenliche Bruͤder / wie ihr hie verſamlet ſind / den Be=\nſchluß / deß ich mich vff geſtrigen Tag in die Federn zeerzehlen\nerbotten hab /",
-        "similarity": 0.449,
-        "semantic": 0.724,
-        "reading": "reworded"
+        "similarity": 0.449
       },
       {
         "op": "only_b",
@@ -121,9 +99,7 @@
         "op": "match",
         "a": "gib ich also für. Also stadt min gewüssne yeczmal/ darumb min begärenn\nist/ das mir niemands nüt verargere (Gott welle allzyt sin gnad geben)\nNamlich das ich bekenn/",
         "b": "daß mir niemands nuͤt verargere (Gott woͤl=\nle allzyt ſyn Gnad geben) namlich daß ich bekenn / mich vß fuͤr=\ngehaltenen Gegenſchrifften und Erklaͤrungen myner geliebten\nHerzen und Bruͤdern /",
-        "similarity": 0.3279,
-        "semantic": 0.6986,
-        "reading": "reworded"
+        "similarity": 0.3279
       },
       {
         "op": "only_a",
@@ -135,43 +111,31 @@
         "op": "match",
         "a": "als ich zů der stund besinnet/ vnd willens bin/ mich gegen diser schlußred/ der gestalt/ wie gethan/ nit\nynzelassen noch widerfechten/",
         "b": "Zwinglij / Ecolampadij und Buceri/ dergeſtalt berichtet ſyn / daß ich / als ich zuͦ der Stund geſinnet\nund willens bin / mich gegen diſer Schlußred dergeſtalt /",
-        "similarity": 0.5455,
-        "semantic": 0.771,
-        "reading": "same"
+        "similarity": 0.5455
       },
       {
         "op": "match",
         "a": "guter hoffnung/ die gnad Gottes/ durch\nwelche das liecht der warheyt/ etlich jar so schynbarlich eroffnet hat/ wer\nde in gegenwürtigem handel/",
         "b": "wie ge=\nthan / nit ynzelaſſen noch widerfechten / guͤter Hoffnung / die\nGnad Gottes / durch welche das Liecht der Warheit etlich Jahr\nſo ſchynbarlich eroͤffnet hat /",
-        "similarity": 0.5417,
-        "semantic": 0.8111,
-        "reading": "same"
+        "similarity": 0.5417
       },
       {
         "op": "match",
         "a": "mir vnd anderen/ ouch entdecken/ was für\nvngezwyffelt daran anzenemen sye/ vnd wil also mir alle zyt wyter be=\nricht mit Gottes wort vorbehalten haben.",
         "b": "werde in gegenwaͤrtigem Handel\nmir und andern auch entdecken / was fuͤr ungezweyfelt daran an=\nzenemmen ſeye / und wil alſo mir allzyt wyter Bericht mit\nGottes",
-        "similarity": 0.4615,
-        "semantic": 0.7875,
-        "reading": "reworded"
+        "similarity": 0.4615
       },
       {
         "op": "only_a",
         "a": "Vnd hiermit minen mitthaffte\nso an disem Tisch gesessen/ nüt vffgelegt noch abgenomen haben: Befilch\nsölichs alles in summa/ göttlicher erlychtigung vnnd dem Christenlichen\nläser.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6901,
-        "semantic_match": "332\t\tDie Vierdte Schlußred. gentheil Chriſtum lyblich zehaben vermeynend. Die\nChriſten woͤllen acht nemmen der Worten Pauli: Dann ſo offt /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "**Dominicus Zilli predicant zů**\n**Sant Gallen.**\n\n[E]rsamen/ fürsichtigen/ Günstigen Herrn/ Christenlichen lie=\nben brüder/ wie wir von vnsern herrn einem Ersamen/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6753,
-        "semantic_match": "332\t\tDie Vierdte Schlußred. gentheil Chriſtum lyblich zehaben vermeynend. Die\nChriſten woͤllen acht nemmen der Worten Pauli: Dann ſo offt /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -179,23 +143,18 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7061,
-    "reworded": 4,
-    "recovered_by_embedding": 6,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 6
+    ]
   },
   "fine": {
-    "similarity": 0.4448,
+    "similarity": 0.4463,
     "words": {
-      "a": 319,
+      "a": 317,
       "b": 297
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite X",
+        "op": "insert",
+        "a": "",
         "b": "332"
       },
       {

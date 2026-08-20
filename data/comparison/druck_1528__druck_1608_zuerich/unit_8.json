@@ -8,15 +8,15 @@
       21
     ]
   },
-  "alignment_score": 0.2028,
+  "alignment_score": 0.2057,
   "coarse": {
     "paragraphs": {
-      "a": 6,
+      "a": 5,
       "b": 4
     },
     "counts": {
       "equal": 0,
-      "replace": 6,
+      "replace": 5,
       "delete": 0,
       "insert": 0
     },
@@ -27,23 +27,19 @@
     "matched": 3,
     "only_a": 2,
     "only_b": 3,
-    "similarity": 0.4163,
+    "similarity": 0.4226,
     "pairs": [
       {
         "op": "match",
-        "a": "Seite [8]\n\nVI Wie Chriftus ist alleyn für vns gestorben/ also fol er\nein eyniger mitler vnd fürspråch/zwischent Gott dem\nvatter/vn vns glöubigen/angerifft werden.",
+        "a": "VI Wie Chriftus ist alleyn für vns gestorben/ also fol er\nein eyniger mitler vnd fürspråch/zwischent Gott dem\nvatter/vn vns glöubigen/angerifft werden.",
         "b": "alſo ſol er ein einiger Mitler vnd Fürſpräch/ zwiſchen Gott dem Vatter/ vnd vns Gloͤu-\nbigen/ angeruͤfft werden.",
-        "similarity": 0.4255,
-        "semantic": 0.6357,
-        "reading": "reworded"
+        "similarity": 0.4444
       },
       {
         "op": "match",
         "a": "Seßhalb\nall ander mittler vnd fürsprachen v■■erthalb disem zyt\nanzeriffen/von vns on grund der gschrifft/offgeworf=\nfen. VII Sas nach disem zyt kein fågfhür in der gschrifft erz\nfunden wirt.",
         "b": "Deßhalb all ander\nMitler vnd Fürſprächen vſſerthalb diſem zyt\nanzeruͤffen/ von vns ohn grund der Gſchrifft\nvffgeworffen. Am blat 430.",
-        "similarity": 0.4151,
-        "semantic": 0.5688,
-        "reading": "different"
+        "similarity": 0.4151
       },
       {
         "op": "only_b",
@@ -55,27 +51,19 @@
         "op": "match",
         "a": "Seßhalb all todten dienst/als Vigill/feel-\nmåß/Seelgråt/Sibend/Trysgoft/Jarzyt/amplen/ kertzen/vnd derglychen/vergeblich sind. VIII Bilder machen zü vereerug/ist wider Gottes wozt/",
         "b": "Seelmaͤß/ Seelgraͤt/ Si-\nbend/ Trißgoſt/ Jahrzyt/ Amplen/ Kertzen/ vnd derglychen/ vergeblich ſind. Am blat. 464. VIII. Bilder machen zuͤ vereerung/",
-        "similarity": 0.4082,
-        "semantic": 0.6546,
-        "reading": "reworded"
+        "similarity": 0.4082
       },
       {
         "op": "only_a",
         "a": "Nüws vnd Alts Testaments. Seßhalb wo sy in gefar\nder vererung fürgestellt/abzethünd syend. IX Sie heylig Ee/ist keinem stand verbotten in der ge\nschrifft/sunder hury vnd vnkünschhert zü vermyden al\nlenstanden botten.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7915,
-        "semantic_match": "iſt wider\nGottes wort/ Nuͤws vnd Alts Teſtaments: Deßhalb wo ſy in gefahr der vereerung fuͤrge-\nſtelt/ abzethuͤnd ſind.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "X Diewyl ein offenlicher bürer nach der gschrift/im wa\nren Bann/so volget/das vnküscheit vnd hury der erger=\nnußhalb/keinem stand schadlicher/dan priesterlichem. Alles Gott vnd finem\nbeyligen wort zu eren.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6517,
-        "semantic_match": "iſt wider\nGottes wort/ Nuͤws vnd Alts Teſtaments: Deßhalb wo ſy in gefahr der vereerung fuͤrge-\nſtelt/ abzethuͤnd ſind.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -89,23 +77,18 @@
         "b": "Am blat. 498. IX. Die Heilig Ee/ iſt keinem Stand verbot-",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6605,
-    "reworded": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 2
+    ]
   },
   "fine": {
-    "similarity": 0.428,
+    "similarity": 0.4312,
     "words": {
-      "a": 155,
+      "a": 153,
       "b": 116
     },
     "segments": [
       {
         "op": "delete",
-        "a": "Seite 8 VI Wie Chriftus ist alleyn für vns gestorben",
+        "a": "VI Wie Chriftus ist alleyn für vns gestorben",
         "b": ""
       },
       {

@@ -8,7 +8,7 @@
       183
     ]
   },
-  "alignment_score": 0.2281,
+  "alignment_score": 0.2308,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 5,
     "only_b": 4,
-    "similarity": 0.4879,
+    "similarity": 0.4928,
     "pairs": [
       {
         "op": "only_b",
@@ -55,19 +55,15 @@
       },
       {
         "op": "match",
-        "a": "Seite LXX\nSchlußred+ LXX\nHerren/ so er hat gesprochen: Bestätige dine brüder. Berchtoldus+\nMyses vnd Aaron beid/ sind gsin ein figur des ey\nnigen Christi/",
+        "a": "Schlußred+ LXX\nHerren/ so er hat gesprochen: Bestätige dine brüder. Berchtoldus+\nMyses vnd Aaron beid/ sind gsin ein figur des ey\nnigen Christi/",
         "b": "vnnd verbringen das Ampt Gott\ndeß Herren/ſo er hat geſprochen: Beſtåtige dine Brůder. Berchtoldus. Oyſes vnd Aaron beid ſind gſin ein Figur deß eini-\ngen Chriſti/zun Hebreern am 3.5.vnd 6.cap.",
-        "similarity": 0.5667,
-        "semantic": 0.8264,
-        "reading": "same"
+        "similarity": 0.5862
       },
       {
         "op": "match",
         "a": "zun Hebreern am iij. v. vnd vi. Capitel. Sannanhin der spruch vß Luca/ ist Sůch hieuor\nvor dryen tagen verantwurtet/",
         "b": "Dan-\nnanhin der Spruch vß Luca / iſt vor dryen tagen\nverantwurtet/ich laß mich an die Acta. Gilg Murer. Jriſt noch nit gnůg beſchechen /",
-        "similarity": 0.4091,
-        "semantic": 0.6571,
-        "reading": "reworded"
+        "similarity": 0.4091
       },
       {
         "op": "only_a",
@@ -79,44 +75,31 @@
         "op": "match",
         "a": "ich befilch min teyl der geschrifft. Meister Jacob Edlibach+\nAlso Herr Berchtold in der antwurt (Meyster\nNiclaus von Zofingenn geredt hat/",
         "b": "vnd wils darby laſ-\nſen blyben/ich befilch min teil der Geſchrifft. Meiſter Jacob Edlebach. Ls Herr Berchtold in [unleserlich]er antwurt Meiſter Niclaus\nvon Zofingen geredt hat /",
-        "similarity": 0.6122,
-        "semantic": 0.9378,
-        "reading": "same"
+        "similarity": 0.6122
       },
       {
         "op": "match",
         "a": "Christum\nneñen ein yngelybet houpt der Kilchen/ sye eyn\nyrthumb/ welches ich nun ouch geredt hab/ dar=\numb es mir zů verantwurten stadt.",
         "b": "Chriſtum nennen ein vnge-\nlybet Houpt der Kilchen ſye ein jrthumb / welches ich\n\n## Marginalien\nSůch\nhieuor\nam 29. vnd 30. blat.",
-        "similarity": 0.3636,
-        "semantic": 0.755,
-        "reading": "reworded"
+        "similarity": 0.3636
       },
       {
         "op": "only_a",
         "a": "Sprich ich/ Chri=\nstum ein yngelybet houpt sin/ ist kein yrthumb/ so es nit\nvß halls vßgeleyt wuͤrdt/ sonder Christenlich/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7118,
-        "semantic_match": "Schlußred. ISI\nMoyſes ein Obreſter gſin der Synagog/ gegen Gott dem\nAllmechtigen / Alſo ouch Chriſtus das obereſt Houpt iſt\nder gantzen Chriſtenheit/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "darumb\nnenn ich jnn/ vnser yngelybet houpt/ das er jm selbs die\nKilchen yngelybet hat/ vnnd nit die Kilch ir jnn/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6416,
-        "semantic_match": "in denen dingẽ die da gegen Gott\nwerdend verhandlet/namlich da er geſprochen hat/ Er wel-\nle für in bitten/das ſin gloub nit vffhỏr.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "dan=\nnen bar ich jnn noch erkenn/ ein yngelybet houpt sin der\nKilchen/ von welichem houpt der Kilchenn/ fliessend/ gnad/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6191,
-        "semantic_match": "in denen dingẽ die da gegen Gott\nwerdend verhandlet/namlich da er geſprochen hat/ Er wel-\nle für in bitten/das ſin gloub nit vffhỏr.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -124,25 +107,15 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7355,
-    "reworded": 2,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 3
+    ]
   },
   "fine": {
-    "similarity": 0.3284,
+    "similarity": 0.33,
     "words": {
-      "a": 198,
+      "a": 196,
       "b": 204
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite LXX",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Schlußred",
@@ -344,7 +317,7 @@
         "b": "Marginalien Sůch hieuor am 29 vnd 30 blat"
       }
     ],
-    "ops": 21,
+    "ops": 20,
     "truncated": false
   }
 }

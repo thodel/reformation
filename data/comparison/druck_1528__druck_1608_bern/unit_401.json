@@ -8,10 +8,10 @@
       462
     ]
   },
-  "alignment_score": 0.3873,
+  "alignment_score": 0.3929,
   "coarse": {
     "paragraphs": {
-      "a": 4,
+      "a": 3,
       "b": 4
     },
     "counts": {
@@ -27,47 +27,37 @@
     "matched": 5,
     "only_a": 1,
     "only_b": 0,
-    "similarity": 0.5551,
+    "similarity": 0.53,
     "pairs": [
       {
         "op": "match",
-        "a": "Seite CXCIII\n\nDie Sechßte Schlußred. Wie Christus ist allein für vns ge=\nstorben / also sol er ein einiger mittler vnd\nfürsprech /",
+        "a": "Die Sechßte Schlußred. Wie Christus ist allein für vns ge=\nstorben / also sol er ein einiger mittler vnd\nfürsprech / zwüschenn Gott dem Vatter\nvnnd vns glöubigen /",
         "b": "430\nDie ſechſzte Schlußred. Wie Chriſtus iſt allein fuͤr vns geſtorben/ alſo ſoll er ein einiger Mittler vnd Fuͤrſprech/",
-        "similarity": 0.619,
-        "semantic": 0.869,
-        "reading": "same"
+        "similarity": 0.5532
       },
       {
         "op": "match",
-        "a": "zwüschenn Gott dem Vatter\nvnnd vns glöubigen / angerüfft werden. Deßhalb all ander mittler vnd fürsprech\nen vßzerhalb disem ytz anzerüffen/võ vns\non grund der geschrifft/",
+        "a": "angerüfft werden. Deßhalb all ander mittler vnd fürsprech\nen vßzerhalb disem ytz anzerüffen/võ vns\non grund der geschrifft/ vffgeworffen.",
         "b": "zwuͤſchen Gott dem Vatter vnd vns Gloͤu=\nbigen/angeruͤfft werden. Deßhalb all ander\nMitttler vnnd Fuͤrſprechen vſſerthalb diſem\nZyt anzeruͤffen/von vns ohn Grund der Ge=\nſchrifft/vffgeworffen.",
-        "similarity": 0.4068,
-        "semantic": 0.7329,
-        "reading": "reworded"
+        "similarity": 0.3396
       },
       {
         "op": "match",
-        "a": "vffgeworffen. Erklärung der sächßten schlußred\nMeyster Frantz Kolb. Iñ der ersten Epistel\nPetri am ij. Cap. Christus ist\nder/d̃ kein sünd nie gethon hat\nvnnd ist in sinem mund d̃ kein\nbetrug nie erfunden/darumb\nsagt er Johannis am xiiij.",
+        "a": "Erklärung der sächßten schlußred\nMeyster Frantz Kolb. Iñ der ersten Epistel\nPetri am ij. Cap. Christus ist\nder/d̃ kein sünd nie gethon hat\nvnnd ist in sinem mund d̃ kein\nbetrug nie erfunden/darumb\nsagt er Johannis am xiiij.",
         "b": "Erklaͤrung der ſechſten Schlußred. Meiſter Frantz Kolb. JN der erſten Epiſtel Pe=\ntri am 2. Capit. Chriſtus iſt\nder/der kein Suͤnd nie gethon\nhat/vnnd iſt in ſynem Mund\nkein betrug nie erfunden/da=\nrumb ſagt er Johannis am 14.",
-        "similarity": 0.6429,
-        "semantic": 0.8764,
-        "reading": "same"
+        "similarity": 0.6506
       },
       {
         "op": "match",
         "a": "ims\nNachtmal. Der fürst diser\nwelt wåre komen / er hette a=\nber nüt an jm kein vrsach des\ntodes / des sich keyn heylig nie\nhat mögen berümen:",
         "b": "im Nachtmal: Der Fuͤrſt diſer\nWelt waͤre kommen/er hette\naber nuͤt an jm keit Vrſach deß\nTodts/deß ſich kein heilig nie hat moͤgen beruͤmen:",
-        "similarity": 0.3793,
-        "semantic": 0.7564,
-        "reading": "reworded"
+        "similarity": 0.3793
       },
       {
         "op": "match",
         "a": "zun Ephe. am ij. Wan von natur\nwaren wir all kinder des zorns / sy haben all sich müssen\nbekennen / vnd sprechen.",
         "b": "zun\nEpheſern am 2. Wann von natur waren wir all Kinder\ndeß Zorns/ſy haben all ſich muͤſſen bekennen/vnd ſprechen: Vergib",
-        "similarity": 0.7273,
-        "semantic": 0.8703,
-        "reading": "same"
+        "similarity": 0.7273
       },
       {
         "op": "only_a",
@@ -75,23 +65,18 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.821,
-    "reworded": 2,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.5243,
+    "similarity": 0.5277,
     "words": {
-      "a": 158,
+      "a": 156,
       "b": 151
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite CXCIII",
+        "op": "insert",
+        "a": "",
         "b": "430"
       },
       {

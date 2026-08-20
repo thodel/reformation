@@ -8,7 +8,7 @@
       180
     ]
   },
-  "alignment_score": 0.3869,
+  "alignment_score": 0.3916,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 2,
     "only_b": 6,
-    "similarity": 0.4397,
+    "similarity": 0.4453,
     "pairs": [
       {
         "op": "only_b",
@@ -43,19 +43,15 @@
       },
       {
         "op": "match",
-        "a": "Seite [IIIVXI]\nDie erſt\ngewalt iſt ein gewalt gſin/die wyl die Chriſtenheyt hatt\ngewert/darumb ſoll es niemand widerſprechen/er hette\ndann heyttere klare gſchrifft darwider.",
+        "a": "Die erſt\ngewalt iſt ein gewalt gſin/die wyl die Chriſtenheyt hatt\ngewert/darumb ſoll es niemand widerſprechen/er hette\ndann heyttere klare gſchrifft darwider.",
         "b": "der geiſtlich gewalt iſt ein ge=\nwalt gſin / diewyl die Chriſtenheit hat gewert / darumb ſoll\nes nieman widerſprechen / er hette dann heitere klare Ge=\nſchrifft darwider.",
-        "similarity": 0.566,
-        "semantic": 0.7023,
-        "reading": "same"
+        "similarity": 0.5882
       },
       {
         "op": "match",
         "a": "Berchtoldus+\nSüch hienoꝛ\nam 58. vnd 59. blat. Herr Hilgen argument/ iſt geſter gnůgſam erlů\nthert/aber ich bitt jn/das er den heyligen Pau=\nlum wol beſeche/zun Rhömeren am xiij.",
         "b": "Berchtoldus. HErz Gilgen Argument / iſt geſter gnuͤgſam erluͤtert / aber ich bitt jn / daß er den heiligen Paulum wol be=\nſeche /",
-        "similarity": 0.4444,
-        "semantic": 0.4199,
-        "reading": "different"
+        "similarity": 0.4444
       },
       {
         "op": "only_b",
@@ -73,9 +69,7 @@
         "op": "match",
         "a": "Capi. Jederman ſig vnderthänig der oberkeyt/zc. Vnd ward\nſöllicher text verleſen. Gillg Durer+\nPaulus zun Römern. Nimpt nůr vß/er ſpricht\naller gewalt iſt von gott/vnd das er nit alleyn\ngemeynt hab/den weltlichen gewalt/bezüglich\nvß den vorgenden wortē Pauli/ſo er ſpricht/ein yegliche\nſeel/ſoll gehorſam ſin den hochen gewalten/wenn nun ein\ngewalt ſoll ſin/der weltlich/ſo hette Paulus der red nůr\ndörffen.",
         "b": "den weltlichen gewalt / bezuͤg ich vß den vorgen=\nden worten Pauli / ſo er ſpricht / ein jegliche Seel ſoll gehor=\nſam ſin den hochen gewalten /",
-        "similarity": 0.3368,
-        "semantic": 0.8066,
-        "reading": "reworded"
+        "similarity": 0.3368
       },
       {
         "op": "only_b",
@@ -87,27 +81,19 @@
         "op": "match",
         "a": "Berchtoldus+\nSüch hienoꝛ\nam. 9. 12. 13. 14. 15. vnd. 17. blat\nIeben fromen Chriſten/der antwurt halb/refe\nrier ich mich zun Acta/vnd vff den klaren text\nPauli am xiij.",
         "b": "der antwurt halb / referier\nich mich zun Acta / vnd vff den klaren Text Pauli am\n13. Jetꝫ ordenlich verleſen / darzuͤ ſo thuͤnd jr der Ge=\nſchrifft\n\n## Marginalien\n\n[Obere Marginalie links:]\nSuͤch\nhieuor\nam 125.",
-        "similarity": 0.4118,
-        "semantic": 0.7686,
-        "reading": "reworded"
+        "similarity": 0.4118
       },
       {
         "op": "only_a",
         "a": "Jezt ordenlich verläſen/darzů ſo\nthůnd jr der gſchrifft gewalt/dann Paulus hie von der\nweltlichen oberkeit redt. Gillg+\nDas Paulus zun Römern am xiij.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8084,
-        "semantic_match": "wenn nun ein gewalt ſoll ſin / der weltlich / ſo hette Paulus der red nuͤt doͤrffen. Berchtoldus. LJeben frommen Chriſten /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Cap. Nit allein\ngeredt hab/von dem weltlichen gewalt/iſt offenbar\ngnůg",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6733,
-        "semantic_match": "Gilg Murer. PAulus zun Roͤmern / Nimpt nuͤt vß / er ſpricht aller\ngewalt iſt von Gott / vnnd das er nit allein gemeint\nhab /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -115,23 +101,18 @@
         "b": "126. vñ\n127. blat\n\n[Untere Marginalie links:]\nSuͤch\nhieuor\nam 18. 19. 23. 27. 28. 29. 30. 31. 36. vnd 37. blat.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6965,
-    "reworded": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 2
+    ]
   },
   "fine": {
-    "similarity": 0.4629,
+    "similarity": 0.465,
     "words": {
-      "a": 198,
+      "a": 196,
       "b": 247
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite IIIVXI",
+        "op": "insert",
+        "a": "",
         "b": "148"
       },
       {

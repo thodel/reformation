@@ -8,15 +8,15 @@
       507
     ]
   },
-  "alignment_score": 0.375,
+  "alignment_score": 0.3782,
   "coarse": {
     "paragraphs": {
-      "a": 3,
+      "a": 2,
       "b": 2
     },
     "counts": {
       "equal": 0,
-      "replace": 3,
+      "replace": 2,
       "delete": 0,
       "insert": 0
     },
@@ -31,12 +31,9 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite CXII\n\nDie sibend\nChristus spräche/du rechnest din gütē nach dinen werck̄: en/vnd thůst aber nun werck/die din liebe der Richtagē\nnit verlezen:",
+        "a": "Die sibend\nChristus spräche/du rechnest din gütē nach dinen werck̄: en/vnd thůst aber nun werck/die din liebe der Richtagē\nnit verlezen:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7367,
-        "semantic_match": "welchs doch nun ein glyßnery was / ſam Chri-\nſtus ſpraͤche / du rechneſt dyn guͤte nach dynen wercken / vnd\nthůſt aber nun Werck /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -78,25 +75,19 @@
         "op": "match",
         "a": "Wiltu nun volkomen sin/nach diner meyn̄\nnung/so verkouff alles das du hast. Hie sehen wir/das\nder jüngling nit hatt gloubē gehabt/sonder vertruwen\nvff sine werck/vn̄ die selbē werck/die hat er wellen schetz̄\nen/wie er hat wellen/vnd so jm Gott sagt/was der recht\ngloub eruordert/so gat er dannen.",
         "b": "die hat er wellen ſchetzen / wie er hat\nwelleͤ / vnd ſo jm Gott ſagt / was der recht Gloub erfordert / ſo gat er dannen.",
-        "similarity": 0.5,
-        "semantic": 0.5964,
-        "reading": "check"
+        "similarity": 0.5
       },
       {
         "op": "match",
         "a": "Hieremie am xxvi. Jst ein verglichende red/vnd dienet nit vff das fägfür/ sonder vff die straffen/mügē/vnd arbeyten/die Gott\nvns menschen zůfügt.",
         "b": "Hierimie am 31. Jſt ein verglychende red / vnd dienet nit vff das Faͤgfuͤr / ſonder vff die ſtraffen / muͤgeͤ\nvnd arbeiten /",
-        "similarity": 0.5833,
-        "semantic": 0.8564,
-        "reading": "same"
+        "similarity": 0.5833
       },
       {
         "op": "match",
         "a": "Esaye am xxxv. wirdt geredt/ von dem wäg des Euangelij/das alle die darin wonen/ die werden nit vnrein syn.",
         "b": "die Gott vns Menſchen zůfuͤgt. Eſaie am 35. wirt geredt / von dem waͤg deß Euangelij / das alle die da-\nriñ wonen /",
-        "similarity": 0.4091,
-        "semantic": 0.7894,
-        "reading": "reworded"
+        "similarity": 0.4091
       },
       {
         "op": "only_b",
@@ -108,9 +99,7 @@
         "op": "match",
         "a": "Also wirdt ouch in dem Psal=\nmen/fhür vnd wasser/für angst vnd trübsal genomen/ mit denen vns Gott ansicht in diser zyt/nit für einicher\nley fägfür/es můß sūst ouch ein fäg wasser sin/deßhalb\ndise ort alle/dhein fägfür bewären.",
         "b": "mit denen vns Gott anſicht in diſer zyt / nit fuͤr eini-\ncherley Faͤgfuͤr / es muͤß ſunſt ouch ein Faͤgwaſſer ſyn /",
-        "similarity": 0.3529,
-        "semantic": 0.7817,
-        "reading": "reworded"
+        "similarity": 0.3529
       },
       {
         "op": "only_b",
@@ -122,9 +111,7 @@
         "op": "match",
         "a": "Johannes Büchstab. [W]Ann der gloub Petri/in dem gnůgsam was/das\ner in Jesum Christū gloubt/dz er der sun gotts\nwäre/wurden alle sünder sälig/die solichs ouch\nglouben:",
         "b": "das\ner in Jeſum Chriſtũ gloubt / daß er der Sun Gotts\nDDo ij",
-        "similarity": 0.4545,
-        "semantic": 0.6713,
-        "reading": "reworded"
+        "similarity": 0.4545
       },
       {
         "op": "only_a",
@@ -136,28 +123,20 @@
         "op": "only_a",
         "a": "Das\ngott einē yeden werde gebē nach sinen wercken. Sie wort\ndes Propheten Dauids vnd ouch Hieremie/die wyl sy\nmit offenbarer gschrifft/nit widerfochten werden/wird\nich nach minem fürgeben lassen beston. Zwingli",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7215,
-        "semantic_match": "weder der einig Gott / ſonders das der Juͤngling\nſich vermeint vß ſynen Wercken / vff dem waͤg der volkom-\nmenheit ſyn /",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7362,
-    "reworded": 3,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 2
+    ]
   },
   "fine": {
-    "similarity": 0.457,
+    "similarity": 0.4587,
     "words": {
-      "a": 261,
+      "a": 259,
       "b": 286
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite CXII",
+        "op": "insert",
+        "a": "",
         "b": "Schlußred 475"
       },
       {

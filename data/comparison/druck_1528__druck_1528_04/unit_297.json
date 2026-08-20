@@ -8,15 +8,15 @@
       343
     ]
   },
-  "alignment_score": 0.3636,
+  "alignment_score": 0.3667,
   "coarse": {
     "paragraphs": {
-      "a": 3,
+      "a": 2,
       "b": 1
     },
     "counts": {
       "equal": 0,
-      "replace": 3,
+      "replace": 2,
       "delete": 0,
       "insert": 0
     },
@@ -31,7 +31,7 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite CXLI\n\nSchlußred. heyssen/das die Apostel vnd prediger/die vnd die andre\nwunderzeychen thůn werdent/so hatt er nun den gloubē\nvnd das vsser wort by einandern /",
+        "a": "Schlußred. heyssen/das die Apostel vnd prediger/die vnd die andre\nwunderzeychen thůn werdent/so hatt er nun den gloubē\nvnd das vsser wort by einandern /",
         "b": null,
         "similarity": 0.0
       },
@@ -45,9 +45,7 @@
         "op": "match",
         "a": "also nütz vermag/es sye\ndann das gott geualle sollichs zewůrcken. So hoff ich es\nsye niemands so eins klynen verstands/dann das er ver=\nmercke/das die vssern wort nütz vermöge/für oder har\nzebringen/ob glich der gloub da sye /",
         "b": "Schlußred. CLIX\nſtands/Dann das er vermercke/das die vſſeren\nwort nuͤtz vermoͤgẽ/fuͤr oder haͤr zebringen/ob\nglich der gloub da ſye/vnd valt damit jr grund\nhin.",
-        "similarity": 0.3733,
-        "semantic": 0.6332,
-        "reading": "reworded"
+        "similarity": 0.3733
       },
       {
         "op": "only_a",
@@ -59,42 +57,31 @@
         "op": "match",
         "a": "das er den geyst Christi\nnit hab/hatt er den geyst Christi nit/ so ist er nit\nsin/zun Rhömern am viij.",
         "b": "Das wort bringt mit jm/das es beduͤtet\noder verheyſſet. Pfaͤrrer von ſant Gallen. Der da nit handlet vß dem wort/vnd beuelch\ngottes/da iſt zeuermeſſen/das er den geyſt Chri\nſti nit hab/hatt er den geyſt Chriſti nitt/ſo iſt er\nnit ſin/zun Rhoͤmern am viij.capi.",
-        "similarity": 0.5,
-        "semantic": 0.7797,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "only_a",
         "a": "Cap. Vff die frag vom blin=\nden/antwurt ich also. Das die gab des gloubens in men=\ngerley gestalt wirt vßgeteylt/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7397,
-        "semantic_match": "erkennen wir\nwol:aber diß argumẽt/oder gegenwurff/wurd\nallein dienen vff die groͤſſe des gloubens vnnd",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "vnd eim yegklichen Gott\nmitteylt/als jm gefelt. Wie wol Oeyffer Vlrich Chris-\nstum Jesum als wol prediget/ vnd den Crůtzigeren/als\nPetrus vñ Paulus (ob gott wil) ouch mit gůtē glouben:",
         "b": "Vff die frag\nvom blinden/antwurt ich alſo. Das die gab des\ngloubẽs in mengerley geſtalt wirt vßgeteilt/vñ\neim yegklichen Gott mitteylt/als jm gefelt.Wie\nwol Meyſter Vlrich Chriſtum Jeſum als wol\nprediget/vnd den cruͤtzigeten/als Petrus vnnd\nPaulus (ob gott wil)ouch mit guͦtem glouben:",
-        "similarity": 0.5952,
-        "semantic": 0.8841,
-        "reading": "same"
+        "similarity": 0.5952
       },
       {
         "op": "match",
         "a": "nůt desterminder/hab ich nit gehört/dz er die lamē grad\nhab gemacht/vñ sin schart die krancken gesund. Der ge\nstalt haben wir ouch Oarthei am xvj.",
         "b": "nuͤt deſterminder / hab ich nit gehoͤrt/das er die\nlamen grad hab gemacht/vñ ſin ſchat die kranck\nen geſund.Der geſtalt haben wir ouch Matth.",
-        "similarity": 0.6071,
-        "semantic": 0.842,
-        "reading": "same"
+        "similarity": 0.6071
       },
       {
         "op": "match",
         "a": "Cap. Im sygen\nboum vnd verendrung des bergs. Dann alle die ding/so\nwir werden begeren/bittend/vnd glöubig / werden wir\nempfahen/vnd beuelhen sollichs abermals den Actis. Fin",
         "b": "am xxj. cap. Jm fygenboum vnd verenderung\ndes bergs. Dann alle die ding/ſo wir werdenn\nbegeren/bittend/vnd gloͤubig/werden wir em=\npfahen /",
-        "similarity": 0.5556,
-        "semantic": 0.8382,
-        "reading": "same"
+        "similarity": 0.5556
       },
       {
         "op": "only_b",
@@ -108,25 +95,15 @@
         "b": "erkennen wir\nwol:aber diß argumẽt/oder gegenwurff/wurd\nallein dienen vff die groͤſſe des gloubens vnnd",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7862,
-    "reworded": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.5146,
+    "similarity": 0.5166,
     "words": {
-      "a": 281,
+      "a": 279,
       "b": 232
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite CXLI",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Schlußred",
@@ -538,7 +515,7 @@
         "b": "Zwingly Das die gab des gloubens vilen vnderſcheid lich merer od minder gebe werde erkennen wir wol aber diß argume t oder gegenwurff wurd allein dienen vff die gro ſſe des gloubens vnnd"
       }
     ],
-    "ops": 42,
+    "ops": 41,
     "truncated": false
   }
 }

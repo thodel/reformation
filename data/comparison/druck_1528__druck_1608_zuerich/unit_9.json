@@ -8,10 +8,10 @@
       23
     ]
   },
-  "alignment_score": 0.3,
+  "alignment_score": 0.3029,
   "coarse": {
     "paragraphs": {
-      "a": 2,
+      "a": 1,
       "b": 3
     },
     "counts": {
@@ -31,21 +31,15 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [9]\n\nVored\nElen ond yeden from\nmen Christen/sye kund vn of\nfenbar/das vns Schultheiß\nRhat vi Burger der State\nBernn in lichtland/vil vnnd\nmancherley vrsachen bewegt\nhaben/diß gegenwärtig Ge=\nsprach zehalte.",
+        "a": "Vored\nElen ond yeden from\nmen Christen/sye kund vn of\nfenbar/das vns Schultheiß\nRhat vi Burger der State\nBernn in lichtland/vil vnnd\nmancherley vrsachen bewegt\nhaben/diß gegenwärtig Ge=\nsprach zehalte.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8584,
-        "semantic_match": "Vorred. [Große Initiale A]Llen vnd jeden frommen\nChriſten/ſye kundt vñ offenbar/ das vns Schultheyß Rhaͤdt\nvnd Burger der Statt Bern in\nVchtland /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Sie nun mer=\nteils/in vorgendem Mandat\nder vßschrybung vergriffenn\nfind/Den Christenliché laser vi zühözer bittende/disen\nhandel nitt zü verargen/noch argwenig achten.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6333,
-        "semantic_match": "vil vnd mancherley\nvrſachen bewegt haben / diß ge=\ngenwuͤrtig Geſpraͤch zehalten/ die nun merteils / in vorgenden\nMandat der vßſchribung ver=\ngriffen ſind/den Chriſtenlichen Laͤſer vnd Zuͤhoͤrer bitten=\nde/diſen Handel nit zuͤuerargen /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -69,25 +63,19 @@
         "op": "match",
         "a": "Weyßt\nGott das vnser/vnd der vnfernhalb/die vnuermyden=\nlich notturffr d3 erbouschen hat/wir geschwygen der an=\ndren. Und darum so haben wir fölichen handel/vß den\nvier Origenal büchern/der Notaryen/so die Acten in die\nfåder empfange/gezoge/in Truck vßgan lassen:",
         "b": "Vnd darumb ſo haben wir ſoͤlichen handel/vß\nden vier Original Buͤchern/ der Notarien/ſo die Acten in\ndie Faͤder empfangen/gezogen /",
-        "similarity": 0.3714,
-        "semantic": 0.7361,
-        "reading": "reworded"
+        "similarity": 0.3714
       },
       {
         "op": "match",
         "a": "damit\nnit verstande/yemands zezwingen/noch zehindergan/ diß vnser anseche anzenemen/dan allein als vil die gnad\ngottes ein yeden zücht vi ermant.",
         "b": "in Truck vßgan laſſen: da=\nmit nit verſtande / jemands zezſwingen/noch zehindergan/ diß vnſer anſecken anzenemmen / dann allein als vil die\ngnad Gottes ein jeden zuͤcht vnd ermant.",
-        "similarity": 0.5385,
-        "semantic": 0.6563,
-        "reading": "same"
+        "similarity": 0.5385
       },
       {
         "op": "match",
         "a": "Wir haben ouch vff\nfölichs ein Reformatz gemacht/deso wir vnd die vnsern\nhinfür gelåben werden. Mengklich bittende vi verma=\nnende/dise Acten mit Chri■tenlichem gmit vi bergen\nzemercké/vn die keinerley gestalt noch wag schmachlich\nnoch verachtlich antaste.",
         "b": "Wir haben\nouch vff ſoͤlichs ein Reformaß gemacht / dero wir vnd die\nvnſern hinfuͤr gelaͤben werden. Mengklich bittende vnd\nvermanende /",
-        "similarity": 0.4127,
-        "semantic": 0.8084,
-        "reading": "reworded"
+        "similarity": 0.4127
       },
       {
         "op": "only_b",
@@ -99,36 +87,26 @@
         "op": "match",
         "a": "Wir wellen ouch vm kein sach\nnachlassen noch vergonne/dz die in ander spraache/dan\nin Tütscher/on vnser gunst/wüssen vnd willen/vßge=\nspreyt werde.",
         "b": "Wir wellen ouch\nvmb kein ſach nachlaſſen noch vergoͤnnen/das die in ander\n¶ ¶ ¶\n\n## Marginalien\n[unleserlich]\not\n[unleserlich]\nder\nas\nb/ lt",
-        "similarity": 0.4167,
-        "semantic": 0.7213,
-        "reading": "reworded"
+        "similarity": 0.4167
       },
       {
         "op": "only_a",
         "a": "Sas welle mencklich Christenlicher mey=\nnung (als es ouch beschechen) von vns vffnemen. Sie\nmit syeder frid vnd die gnad Gottes mit vns allen. b",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7797,
-        "semantic_match": "diſe Acten mit Chriſtenlichem Gmuͤt vnd\nHertzen zemercken / vnd die keinerley geſtalt noch waͤg\nſchmaͤchlich/noch verachtlich antaſten.",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7419,
-    "reworded": 3,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 3
+    ]
   },
   "fine": {
-    "similarity": 0.4695,
+    "similarity": 0.4717,
     "words": {
-      "a": 220,
+      "a": 218,
       "b": 206
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite 9 Vored Elen ond yeden from men",
+        "a": "Vored Elen ond yeden from men",
         "b": "Vorred Große Initiale A Llen vnd jeden frommen"
       },
       {

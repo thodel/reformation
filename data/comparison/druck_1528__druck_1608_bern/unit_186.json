@@ -8,7 +8,7 @@
       218
     ]
   },
-  "alignment_score": 0.3081,
+  "alignment_score": 0.311,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -31,46 +31,33 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite XXXI\nDie ander\ngeyst vß dem sy geregiert wirt/der nit fälen kan/dz aber\ndaruß volge/das die satzungen der Christenlichen kilch=\nen/von Christen menschen nit sollen angenomen werden/",
+        "a": "Die ander\ngeyst vß dem sy geregiert wirt/der nit fälen kan/dz aber\ndaruß volge/das die satzungen der Christenlichen kilch=\nen/von Christen menschen nit sollen angenomen werden/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7107,
-        "semantic_match": "daruff gib ich antwurt/das ich vnnd min Parthy/ alle die/ die in der heiligen Chriſtenlichen Kilchen durch den heili=\ngen Geiſt /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "wo sy nit mit heyttern vñ glichen worten in der gschrifft\ngegründt syen/oder begriffen/dasselb wirt sich nit erfin=\nden/so doch Christus vnser heyland/jro den heyligen\ngeyst geben hatt/das er sy inleyte in alle warheyt/daruß\nwitter volget/das die satzung der heyligen Christenheit\nals wenig sollen menschen gebott/oder menschen thant\ngenant werde/als die wort der Propheten/oder S.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7681,
-        "semantic_match": "daruff gib ich antwurt/das ich vnnd min Parthy/ alle die/ die in der heiligen Chriſtenlichen Kilchen durch den heili=\ngen Geiſt /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Euan\ngelisten/oder der zwölffbotten/oder ob man schon mich\nrecht wil vernemmen/die wort/die Gott durch sy geredt\nhatt/so doch sy all/oder yeder in sonderheit nit mer möge\nsyn dann die gantz gemeyn Christenheyt.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7989,
-        "semantic_match": "daruff gib ich antwurt/das ich vnnd min Parthy/ alle die/ die in der heiligen Chriſtenlichen Kilchen durch den heili=\ngen Geiſt /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Martinus Butzer. Damit wir die Kilch nit vffhalten/so sage vnns der\nBichtuatter/was jm doch die Christenlich Kilch\nheysse/wir haben vns langest erklärt/das vns die kilch\nalle rechtglöubigen sind.",
         "b": "186\t\t\tDie ander\nMartinus Butzer. DAmit wir die Kilch nit vffhalten / ſo ſage vns der\nBychtuatter / was jm doch die Chriſtenlich Kilch\nheiſſe /",
-        "similarity": 0.6182,
-        "semantic": 0.8023,
-        "reading": "same"
+        "similarity": 0.6182
       },
       {
         "op": "match",
         "a": "Bichtuatter. So herr Marti Butzer mich fragt/das ich sagē/ was ich durch die Kilchē verstande/meynt/mir\nsye gnůgsamklich vor erklärt/dz die widerpar=\nthy/die rechtgeschaffnen Christen oder glöubigen für die\nKilchen halt/daruff gib ich antwurt/das ich vnnd min\nparthy/alle die/die in der heyligen Christenlichen kilchen\ndurch den heyligen geyst/vnd durch das wasser/vñ durch\ndas wort des läbens in gott geboren sind. Nun so jr nach\ngeben/",
         "b": "wir haben vns langeſt erklaͤrt / das vns die\nKilch alle rechtgloͤubigen ſind. Bychtuatter. SO Herr Marti Butzer mich fragt/das ich ſage/was\nich durch die Kilchen verſtande/meint/mir ſye gnůg=\nſamklich vor erklaͤrt/daß die Widerparthy/die recht=\ngeſchaffnen Chriſten oder gloͤubigen fuͤr die Kilchen halt/",
-        "similarity": 0.375,
-        "semantic": 0.8601,
-        "reading": "reworded"
+        "similarity": 0.375
       },
       {
         "op": "only_b",
@@ -114,23 +101,18 @@
         "b": "2.Petr.am 1.cap. Da alſo\ngeſchriben ſtat / Das ſoͤllend jr zum erſten verſtan / daß\nalle",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.788,
-    "reworded": 1,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 3
+    ]
   },
   "fine": {
-    "similarity": 0.3595,
+    "similarity": 0.361,
     "words": {
-      "a": 242,
+      "a": 240,
       "b": 242
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite XXXI",
+        "op": "insert",
+        "a": "",
         "b": "186"
       },
       {

@@ -8,7 +8,7 @@
       388
     ]
   },
-  "alignment_score": 0.1486,
+  "alignment_score": 0.15,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -23,17 +23,17 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 16,
-    "matched": 0,
-    "only_a": 11,
-    "only_b": 5,
-    "similarity": 0.0,
+    "units": 15,
+    "matched": 1,
+    "only_a": 10,
+    "only_b": 4,
+    "similarity": 0.3019,
     "pairs": [
       {
-        "op": "only_a",
-        "a": "Seite [X]\n**Die vierdt**\nin vergangnem/ von dem das er gibt/ als in gegenwůr=\ntigem/ vnnd von dem das er geben wirt als in kůnffti=\ngem/",
-        "b": null,
-        "similarity": 0.0
+        "op": "match",
+        "a": "**Die vierdt**\nin vergangnem/ von dem das er gibt/ als in gegenwůr=\ntigem/ vnnd von dem das er geben wirt als in kůnffti=\ngem/",
+        "b": "162\ndie vieren schlußrae\nvnnd van Dem Das er geben wierdjallsz In kunffti¬\nOom allß geschechen ist / nach Dem nachtmall\ndie wijl min Eijse wortt, Johanus am vi cap:",
+        "similarity": 0.3019
       },
       {
         "op": "only_a",
@@ -98,12 +98,6 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "162\ndie vieren schlußrae\nvnnd van Dem Das er geben wierdjallsz In kunffti¬\nOom allß geschechen ist / nach Dem nachtmall\ndie wijl min Eijse wortt, Johanus am vi cap:",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
         "b": "vnnd die wortt des nachtmats sich so vast\nein andern verglichen, so Dorffen wir bestrap kemer\nglos nach Inhalt des manndats van das lutter\nwort gots.",
         "similarity": 0.0
       },
@@ -128,15 +122,15 @@
     ]
   },
   "fine": {
-    "similarity": 0.4098,
+    "similarity": 0.4116,
     "words": {
-      "a": 257,
+      "a": 255,
       "b": 192
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite X",
+        "op": "insert",
+        "a": "",
         "b": "162"
       },
       {

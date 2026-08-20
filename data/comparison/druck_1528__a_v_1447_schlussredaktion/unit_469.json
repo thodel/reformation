@@ -8,44 +8,38 @@
       748
     ]
   },
-  "alignment_score": 0.1528,
+  "alignment_score": 0.1536,
   "coarse": {
     "paragraphs": {
-      "a": 3,
+      "a": 2,
       "b": 1
     },
     "counts": {
       "equal": 0,
-      "replace": 3,
+      "replace": 2,
       "delete": 0,
       "insert": 0
     },
     "similarity": 0.0
   },
   "sentences": {
-    "units": 10,
-    "matched": 2,
-    "only_a": 7,
-    "only_b": 1,
-    "similarity": 0.3693,
+    "units": 9,
+    "matched": 3,
+    "only_a": 6,
+    "only_b": 0,
+    "similarity": 0.3744,
     "pairs": [
       {
-        "op": "only_a",
-        "a": "Seite [488]\n\nAbred Doctor Joachim von Watt/Burgermey\nsters von Sant Gallen/in namen der herren Presidenten\nzu einem Beschluß.",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
+        "op": "match",
+        "a": "Abred Doctor Joachim von Watt/Burgermey\nsters von Sant Gallen/in namen der herren Presidenten\nzu einem Beschluß. Kwürdig/hoch vi wolgelert/gestreng/Edel/vest/from/firs\nsichtig/wyß Berren/Lieben vnnd guten fründ:",
         "b": "321\nBurgermeisters van Sant Gallen\nDoctor\nvred hern Burgermeisters van vant wollen, Joachim\nvon watts funamen der herren Presidenten, zu\neinem beschluß\nt'wurdig hoch und wolgelext, gestreng edel vest, from\nfursichtig wiss herren, Lieben und guten frund, die¬\nwil sich, dis christenliche disputation zu Ende gezo¬\ngen, vnd min heeren die Presidenten, von minen gna¬\ndigen herren, thulthessen und Rijt, diser loblichen\nOtatt Gern, vss.",
-        "similarity": 0.0
+        "similarity": 0.34
       },
       {
         "op": "match",
-        "a": "Kwürdig/hoch vi wolgelert/gestreng/Edel/vest/from/firs\nsichtig/wyß Berren/Lieben vnnd guten fründ: Diewyl sich\ndis Christenliche disputation zu end gezogen/vnd min herre\ndie Presidenten/von minen gnådigen herren/Schulthessen\nvnd Khadt diser loblichen statt Bernn/vss dem grund gedachter dispu\ntation vorzustand/verordnet sind/das sy schidlich der parthyen halb wå\nren/daby höchsten flyß ankerten/damit red vnnd widerred/sampt alles\nfürtrags zu der sach dienende/in die Acta von herr Stateschriber/vnd\nden andren verordneten schribren/nach vermog der gelübden/so sy gea\nthan/verfasset/vnd zusamen gebracht wurden.",
+        "a": "Diewyl sich\ndis Christenliche disputation zu end gezogen/vnd min herre\ndie Presidenten/von minen gnådigen herren/Schulthessen\nvnd Khadt diser loblichen statt Bernn/vss dem grund gedachter dispu\ntation vorzustand/verordnet sind/das sy schidlich der parthyen halb wå\nren/daby höchsten flyß ankerten/damit red vnnd widerred/sampt alles\nfürtrags zu der sach dienende/in die Acta von herr Stateschriber/vnd\nden andren verordneten schribren/nach vermog der gelübden/so sy gea\nthan/verfasset/vnd zusamen gebracht wurden.",
         "b": "dem grund, gedachter disputation\nvorzustand, verordnet sind, das ende schielich der par¬\nthijen halb waeren, dabij hochsten fliss anckerten, da¬\nmitt red vnd widerred, sampt alles furtrags, zu der\nSach dienende, In die Acta, van hern Stattsthreiber, vnd\nden andren verordneten Othribren, nach vermog der\ngebübden, Co Si gethan, verfasset, vnd zusamen ge¬\nbracht wurden, Bevelchen mir, geracht min\nherren, mencklichem zueroffnen, das Oi in Colich:",
-        "similarity": 0.4074
+        "similarity": 0.4521
       },
       {
         "op": "match",
@@ -92,15 +86,15 @@
     ]
   },
   "fine": {
-    "similarity": 0.361,
+    "similarity": 0.3622,
     "words": {
-      "a": 404,
+      "a": 402,
       "b": 222
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite 488 Abred",
+        "a": "Abred",
         "b": "321 Burgermeisters van Sant Gallen"
       },
       {

@@ -8,7 +8,7 @@
       190
     ]
   },
-  "alignment_score": 0.4683,
+  "alignment_score": 0.4758,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -27,31 +27,25 @@
     "matched": 5,
     "only_a": 0,
     "only_b": 2,
-    "similarity": 0.6009,
+    "similarity": 0.5673,
     "pairs": [
       {
         "op": "match",
-        "a": "Seite [72]\nLXXII\n\nDie ander Schlußred / vnd der selben\ngründ/hat Meyſter Frantz Kolb/predicant\nzů Bernn eroffnet. Die kilch Chriſti /",
+        "a": "LXXII\n\nDie ander Schlußred / vnd der selben\ngründ/hat Meyſter Frantz Kolb/predicant\nzů Bernn eroffnet. Die kilch Chriſti / machet nitt geſatz\nvnd bot/ane gottes wort/deßhalb all men\nſchen ſatzungen /",
         "b": "156 Die ander\nDie ander Schlußred/ vnnd derſelben gründ/ hat Meiſter Frantz\nKolb/ Predicant zů Bern eroffnet. Die Kilch Chriſti machet nit Geſatz vnnd\nBott/",
-        "similarity": 0.5652,
-        "semantic": 0.8359,
-        "reading": "same"
+        "similarity": 0.5263
       },
       {
         "op": "match",
-        "a": "machet nitt geſatz\nvnd bot/ane gottes wort/deßhalb all men\nſchen ſatzungen / ſo man nempt der kilchē\nbott/vnß nit witer bindend/dan̄ ſy in göt\ntlichē wort gegründt vnd botten ſind.",
+        "a": "ſo man nempt der kilchē\nbott/vnß nit witer bindend/dan̄ ſy in göt\ntlichē wort gegründt vnd botten ſind.",
         "b": "ane Gottes Wort/ deßhalb all Men-\nſchen ſatzungen / ſo man nempt der Kilchen\nBott/ vns nit wyter bindend/ dañ ſy in Gött-\nlichem Wort gegründt vnd botten ſind.",
-        "similarity": 0.7541,
-        "semantic": 0.7467,
-        "reading": "same"
+        "similarity": 0.625
       },
       {
         "op": "match",
         "a": "Meyſter Frantz Kolb. Gnad vnd frid von got\ndem vatter/vnd vnſerm her=\nren Jeſu Chriſto/Amen. Vß=\nerwelten Gottes fründ/nach\ndem min brüder Berchtold/",
         "b": "Meiſter Frantz Kolb. Gnad vnd frid von Gott dem Vat-\nter/ vnd vnſerm Herrn Jeſu Chriſto/ Amen. Vßerwelten Gottes Fründ/",
-        "similarity": 0.6087,
-        "semantic": 0.9352,
-        "reading": "same"
+        "similarity": 0.6087
       },
       {
         "op": "only_b",
@@ -63,17 +57,13 @@
         "op": "match",
         "a": "in der erſten vnſer ſchlußred/ gnůgſamklich erlütret hatt/ was da ſye die Chriſtenlich\nmeind/dero das eynig houpt\nſye Chriſtus Jeſus/nach lut\ndes andern Artickels vnſers vralten Criſtenlichen glou\nbens/der alſo lutet.",
         "b": "dero das einig Houpt ſye Chri-\nſtus Jeſus / nach lut deß andern Artickels vnſers vralten\nChriſtenlichen gloubens/ der alſo lutet.",
-        "similarity": 0.5185,
-        "semantic": 0.8469,
-        "reading": "same"
+        "similarity": 0.5185
       },
       {
         "op": "match",
         "a": "Jch gloub in Jeſum ſinen eingebornē\nſun/vnſern herrn/merckē Menceſchlich/vnſern herrn/vns\nſer houpt/vnſern heyland/vnſern låbendig macher/vn",
         "b": "Jch gloub in Je-\nſum ſinen eingebornen Sun/ vnſern Herrn/ merckt mengk-\nlich/ vnſern Herrn/ vnſer Houpt/ vnſern Heiland/ vnſern\nLåbendigmacher/",
-        "similarity": 0.5581,
-        "semantic": 0.8419,
-        "reading": "same"
+        "similarity": 0.5581
       },
       {
         "op": "only_b",
@@ -81,23 +71,18 @@
         "b": "vnſern Enthalter/ vnſern einigẽ Biſchoff\nvnd Leermeiſter/ den vnd keinen andern/ wåder in Himmel\nnoch vff ertrich bekennen wir/ in diſem bliben wir/ keins an-\nderen",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.8413,
-    "reworded": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.6284,
+    "similarity": 0.6327,
     "words": {
-      "a": 136,
+      "a": 134,
       "b": 160
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite 72 LXXII",
+        "a": "LXXII",
         "b": "156 Die ander"
       },
       {

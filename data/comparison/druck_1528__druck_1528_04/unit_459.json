@@ -8,7 +8,7 @@
       526
     ]
   },
-  "alignment_score": 0.4727,
+  "alignment_score": 0.4906,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 0,
     "only_b": 3,
-    "similarity": 0.4611,
+    "similarity": 0.4672,
     "pairs": [
       {
         "op": "only_b",
@@ -43,27 +43,21 @@
       },
       {
         "op": "match",
-        "a": "Seite CCXXII\nSchlußred. CCXXII\nBerchtoldus Haller. ES iſt gnuͤgſam erkleͤrt/im anfang dißer ſchluß-\nred. Das welcher gloubt in Chriſtum Jeſum/",
+        "a": "Schlußred. CCXXII\nBerchtoldus Haller. ES iſt gnuͤgſam erkleͤrt/im anfang dißer ſchluß-\nred. Das welcher gloubt in Chriſtum Jeſum/",
         "b": "darumb\nwir für ſy bitten / ſy ſyen der vßerwelten. Berchtoldus. Es iſt gnůgſam erklärt / im anfang diſer\nſchlußred: das / welcher gloubt in Chriſtum Je-\nſum /",
-        "similarity": 0.4167,
-        "semantic": 0.7524,
-        "reading": "reworded"
+        "similarity": 0.4348
       },
       {
         "op": "match",
         "a": "werden nitt kommen in das gericht/ ſonder vom\ntod zum laͤben hindurch tringen. Johannis v. By den\nklaren worten Pauli/",
         "b": "werde nit kommen in das gericht / ſonder\nvom tod zum låben hindurch tringen / Joannis\nam v capitel. By den klaren worten Pauli laſ-\nſend wir es belyben.",
-        "similarity": 0.6667,
-        "semantic": 0.8368,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "match",
         "a": "laſſen wir es belyben. Sich hienos\nam 208. blat. Buͦchſtab. WJe ich das vormals verantwurt hab/darby",
         "b": "Bůchſtab\nWie ich das vormals verantwurt hab / darby\nblyb ich / vnd beuilch es der gſchrifft. Berchtoldus. So referieren wir vns ad Acta.",
-        "similarity": 0.3,
-        "semantic": 0.5296,
-        "reading": "different"
+        "similarity": 0.3
       },
       {
         "op": "only_b",
@@ -71,23 +65,18 @@
         "b": "End der ſibenden Schlußred. Die\n\n## Marginalien\nSůch hie\n235.237.bl.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7063,
-    "reworded": 1,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.3723,
+    "similarity": 0.3763,
     "words": {
-      "a": 62,
+      "a": 60,
       "b": 126
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite CCXXII Schlußred CCXXII",
+        "a": "Schlußred CCXXII",
         "b": "Die ſibend nit wider die exempel durch den Schůlmeyſter angezogen Joannes Bůchſtab Die hoffnung vonn dero Paulus hie ſagt iſt denen ſo im fägfhür ſind nit abgeſchlagen vnd iſt herr Berchtolden yngefůrte red gar nüt wider mich Dann wir hoffnung haben darumb wir für ſy bitten ſy ſyen der vßerwelten"
       },
       {

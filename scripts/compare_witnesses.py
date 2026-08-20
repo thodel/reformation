@@ -41,6 +41,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from align_witnesses import (  # noqa: E402
     DEFAULT_DF_RATIO,
+    page_body,
     DEFAULT_NGRAM,
     DEFAULT_THRESHOLD,
     load_pages,
@@ -64,7 +65,7 @@ def page_texts(key: str) -> dict[int, str]:
         match = PAGE_RE.match(path.name)
         if not match:
             continue
-        body = re.sub(r"^# Seite \d+\s*", "", path.read_text(encoding="utf-8")).strip()
+        body = page_body(path.read_text(encoding="utf-8"))
         if body:
             texts[int(match.group(1))] = body
     return texts

@@ -8,7 +8,7 @@
       607
     ]
   },
-  "alignment_score": 0.1912,
+  "alignment_score": 0.1928,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,19 +27,19 @@
     "matched": 5,
     "only_a": 4,
     "only_b": 0,
-    "similarity": 0.3712,
+    "similarity": 0.3714,
     "pairs": [
       {
-        "op": "only_a",
-        "a": "Seite [IVXXD]\nDie fünfft\nin der heyligen statt/vnd der da lißt/der vßstande. Dieß\nwyl nun Christus ſöliche wort hat geſagt/zů ſinen jün=\ngeren/da ſy jnn fragten/weñ ſin zůkunfft wurde ſin/hat\ner jnen diſe wort zů anzeigung geſagt.",
-        "b": null,
-        "similarity": 0.0
+        "op": "match",
+        "a": "Die fünfft\nin der heyligen statt/vnd der da lißt/der vßstande. Dieß\nwyl nun Christus ſöliche wort hat geſagt/zů ſinen jün=\ngeren/da ſy jnn fragten/weñ ſin zůkunfft wurde ſin/hat\ner jnen diſe wort zů anzeigung geſagt.",
+        "b": "Die funfte Schluszredi\nverstande, Diewil nun Christus, Soliche wort het\ngesagt, zij vinen Jungern, da g. Jun fragten, wann\nhin zukunft wurde ziii, hat Er Inen dise wort, zu\namorgung gesagt, wil Ich hie muis teils verstanden\nhaben, das der gruwel der zerstornung sijn, die zerste\nrung vnd hinnamming der Misss., und aller ceremo¬\nnien, wann wir Inderthebb biblisthen Schriften, Als\nOctorum.",
+        "similarity": 0.3107
       },
       {
-        "op": "match",
+        "op": "only_a",
         "a": "Wil ich hie mines\nteyls verſtanden haben/das der grüwel der zerſtörung/ ſye die zerſtötzung vnd hinnemung der Mäß/vnnd aller\nCeremonien.",
-        "b": "Die funfte Schluszredi\nverstande, Diewil nun Christus, Soliche wort het\ngesagt, zij vinen Jungern, da g. Jun fragten, wann\nhin zukunft wurde ziii, hat Er Inen dise wort, zu\namorgung gesagt, wil Ich hie muis teils verstanden\nhaben, das der gruwel der zerstornung sijn, die zerste\nrung vnd hinnamming der Misss., und aller ceremo¬\nnien, wann wir Inderthebb biblisthen Schriften, Als\nOctorum.",
-        "similarity": 0.3095
+        "b": null,
+        "similarity": 0.0
       },
       {
         "op": "match",
@@ -86,17 +86,12 @@
     ]
   },
   "fine": {
-    "similarity": 0.4597,
+    "similarity": 0.4615,
     "words": {
-      "a": 274,
+      "a": 272,
       "b": 222
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite IVXXD",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Die",
@@ -648,7 +643,7 @@
         "b": "Colicks"
       }
     ],
-    "ops": 56,
+    "ops": 55,
     "truncated": false
   }
 }

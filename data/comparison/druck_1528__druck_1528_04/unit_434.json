@@ -8,7 +8,7 @@
       498
     ]
   },
-  "alignment_score": 0.5146,
+  "alignment_score": 0.519,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -23,34 +23,23 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 11,
-    "matched": 7,
-    "only_a": 1,
-    "only_b": 3,
-    "similarity": 0.4837,
+    "units": 10,
+    "matched": 8,
+    "only_a": 0,
+    "only_b": 2,
+    "similarity": 0.4649,
     "pairs": [
       {
-        "op": "only_a",
-        "a": "Seite XI\nselbs/spricht: Der da yngadrone masen/ vnnd würckt\ndie gerechtigkeyt/Psal.viij. Zwingli\n\nAls in den Geſchichten im j.",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7794,
-        "semantic_match": "das deñ zůmal vnder dem gwalt\nder Roͤmern was/wurde widerbringen. Vff dz\ngibt er jnen antwurt : Es ſtadt uͤch nit zů zewuͤſ-\nſen die zyt vnd vål oder ougenblick /",
-        "reading": "candidate"
-      },
-      {
-        "op": "only_b",
-        "a": null,
+        "op": "match",
+        "a": "selbs/spricht: Der da yngadrone masen/ vnnd würckt\ndie gerechtigkeyt/Psal.viij. Zwingli\n\nAls in den Geſchichten im j. Cap.",
         "b": "Die ſibend\nZwingly. Das in den Geſchichten im j. cap. iſt anzogeͤ/ diener vff kein faͤgfyͤir/ſonders habend den ver-\nſtand.",
-        "similarity": 0.0
+        "similarity": 0.3256
       },
       {
         "op": "match",
-        "a": "Cap. iſt anzogen/ dienet vff kein ſaghür/ſunders habend den\nverſtand/Als Chriſtus die junger geheyssen\nhat/zů Jheruſalem Blybenn/biß zů der zů=\nkunfft des heyligen geyſts/fragen ſy/ob die ſelb zůkunfft\ndas Rych Jſraels/das denßůmal vnder dem gwalt der\nRömern was/wurde widerbringen.",
+        "a": "iſt anzogen/ dienet vff kein ſaghür/ſunders habend den\nverſtand/Als Chriſtus die junger geheyssen\nhat/zů Jheruſalem Blybenn/biß zů der zů=\nkunfft des heyligen geyſts/fragen ſy/ob die ſelb zůkunfft\ndas Rych Jſraels/das denßůmal vnder dem gwalt der\nRömern was/wurde widerbringen.",
         "b": "Als Chriſtus die jünger geheyſſen hat/zů\nJeruſalem blyben/ biß zů der zůkunfft deß hey-\nligen geyſts:fragend ſy/ob die ſelb zůkunfft das\nrych Jſraels /",
-        "similarity": 0.5205,
-        "semantic": 0.8163,
-        "reading": "same"
+        "similarity": 0.5278
       },
       {
         "op": "only_b",
@@ -62,9 +51,7 @@
         "op": "match",
         "a": "Vff das gibt er jne\nantwurt: Es ſtadt üch nit zů/gewüssen die zyt vnd vāl\noder ougenblick/die der vatter in eignem gwalt behal=\nten hat/Nimpt Chriſtus mit den worten hin/das wir\nvnns nit frömbder künfftiger dingen beladind/ſunder\nvff ſin wort vnnd verheyſſung/laſſenn ſöllend/vnnd\nſpricht oben daruff:",
         "b": "die der vat-\nter in eignem gwalt behalten hat : nimpt Chri-\nſtus mit den worten hin / das wir vns nit froͤm\nder künfftiger dingen beladind /",
-        "similarity": 0.4304,
-        "semantic": 0.5053,
-        "reading": "different"
+        "similarity": 0.4304
       },
       {
         "op": "only_b",
@@ -76,59 +63,44 @@
         "op": "match",
         "a": "Jr werdend empfachenn die krafft\ndes kommenden geyſts.zc. Sam er ſpräch: Loſend was\nich üch ſag/Jch verheyß üch den geyſt/ſo fragen ir mich\nvmb das zytlich Rych:",
         "b": "etc. ſam er spraͤch:Lo-\nſend was ich uͤch ſag/ich verheyß uͤch den geyſt/ ſo fragen jr mich vmb das zytlich rych :",
-        "similarity": 0.5714,
-        "semantic": 0.7774,
-        "reading": "same"
+        "similarity": 0.5714
       },
       {
         "op": "match",
         "a": "das laſſend fallen/vnnd rüſtend\nüch vff die zůkunfft des geyſts. Vnd hat alſo Chriſtus\nnit allein den Jüngeren/ſunders ouch ſiner eygnen mü=\nter/keyner fürwitz wellen geſtatten.",
         "b": "das laſ-\nſend fallen/vnd ruͤſtend uͤch vff die zůkunfft des\ngeyſts. Vnd hat alſo Chriſtus nit allein den jün-\ngeren /",
-        "similarity": 0.5385,
-        "semantic": 0.8364,
-        "reading": "same"
+        "similarity": 0.5385
       },
       {
         "op": "match",
         "a": "Von der müter\niſt hütt gehört. Von den Jüngeren habend wir/das er\nPetzo abſchlüg das End vnnd tod Johannis zewüssen/",
         "b": "ſonders ouch ſiner eignen muͤter / keiner\nfürwitz wellen geſtatten. Von der muͤter iſt huͤtt\ngehoͤrt. Vonn den jüngeren habend wir /das er\nPetro abſchluͤg das end vnnd tod Johannis ze-\nwuͤſſen/Joannis am xxj.",
-        "similarity": 0.4262,
-        "semantic": 0.7429,
-        "reading": "reworded"
+        "similarity": 0.4262
       },
       {
         "op": "match",
         "a": "Johannis am xxj. Capitel. Vnnd wirt mit diſem ort/ kein ſaghür bewärt: dann wir wüſſend/das alle die in\nChriſto Jeſu ſterbend/by Chriſto Jeſu läbennd/vnnd\nouch mit jm regnieren/zun Römeren am viij.",
         "b": "capitel. Vnd wirtmit\ndiſem ort/kein faͤgfhuͤir bewaͤrt:dann wir wuͤſ-\nſend / das alle die in Chriſto Jeſu ſterbend/by\nChriſto Jeſu laͤbend/",
-        "similarity": 0.5079,
-        "semantic": 0.8227,
-        "reading": "same"
+        "similarity": 0.5079
       },
       {
         "op": "match",
         "a": "Capitel. Vn in der andren Epiſtel zun Corinthern/am erſten Ca\npitel. Hieby hat der Sechan/Reſtituere regnũ iſrael/oder Dei,\nver=",
         "b": "vnnd ouch mit jm regnie-\nren/zun Roͤmeren am viij capitel/vnd in der an-\nderen Epiſtel zun Corinthern am erſten capitel. Hieby",
-        "similarity": 0.3913,
-        "semantic": 0.7737,
-        "reading": "reworded"
+        "similarity": 0.3913
       }
-    ],
-    "semantic": 0.7568,
-    "reworded": 2,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.6326,
+    "similarity": 0.635,
     "words": {
-      "a": 258,
+      "a": 256,
       "b": 270
     },
     "segments": [
       {
         "op": "delete",
-        "a": "Seite XI selbs spricht Der da yngadrone masen vnnd würckt",
+        "a": "selbs spricht Der da yngadrone masen vnnd würckt",
         "b": ""
       },
       {

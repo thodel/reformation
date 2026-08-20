@@ -8,15 +8,15 @@
       350
     ]
   },
-  "alignment_score": 0.4,
+  "alignment_score": 0.404,
   "coarse": {
     "paragraphs": {
-      "a": 7,
+      "a": 6,
       "b": 3
     },
     "counts": {
       "equal": 0,
-      "replace": 7,
+      "replace": 6,
       "delete": 0,
       "insert": 0
     },
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 3,
     "only_b": 1,
-    "similarity": 0.6299,
+    "similarity": 0.5296,
     "pairs": [
       {
         "op": "only_b",
@@ -37,27 +37,21 @@
       },
       {
         "op": "match",
-        "a": "Seite CXLIII\n\n**Schlußred.**\n\nrer entſcheydung/vnd begåren wyter als vor/antwurt: die figur aber laß ich in ſiner wirde ſtan.",
+        "a": "**Schlußred.**\n\nrer entſcheydung/vnd begåren wyter als vor/antwurt: die figur aber laß ich in ſiner wirde ſtan. **Ecolampadius.**\n\n[S] S fragt herr Benedict/was der herr den jun=\ngerē gereicht hab/gib ich im antwurt:",
         "b": "Darumb nit not wyter zeerholen in wyter ent-\nſcheidung/vnd begåren wyter als vor/antwurt: die figur\naber laß ich in ſiner wirde ſtan.",
-        "similarity": 0.6818,
-        "semantic": 0.5053,
-        "reading": "check"
+        "similarity": 0.5
       },
       {
         "op": "match",
-        "a": "**Ecolampadius.**\n\n[S] S fragt herr Benedict/was der herr den jun=\ngerē gereicht hab/gib ich im antwurt: Den kelch\noder den wyn/aber nit ſchlächtlich/ſonder dz er\nſin lyden jnen damit beuelche/vnnd ſy zů einer danckſa\ngung ynfüre.",
+        "a": "Den kelch\noder den wyn/aber nit ſchlächtlich/ſonder dz er\nſin lyden jnen damit beuelche/vnnd ſy zů einer danckſa\ngung ynfüre.",
         "b": "Ecolampadius. Es fragt Herr Benedict/was der Herr den Jünge-\nren gereicht hab/gib ich jm antwurt: Den Kelch\noder den Wyn/aber nit ſchlåchtlich/ſonder das er ſyn\nLyden jnen damit befelche/vnnd ſy zů einer danckſagung\nynfüre.",
-        "similarity": 0.8,
-        "semantic": 0.9197,
-        "reading": "same"
+        "similarity": 0.5806
       },
       {
         "op": "match",
         "a": "**Pfarrer von Sant Gallen.**\n\n[D] As vnſer pündnuß am crütz verſicherer wor=\nden ſye/wirt niemand lut der worten/ſelbs ver\nneynen/ſo ſymåldend/Das iſt min blůt/das\nes am crütz vergoſſenn worden ſye/in wellichen\nworten ſo der Herr geſagt hat/Trinckend all daruß/",
         "b": "Pfarrer von Sant Gallen. Das vnſer Pündtnuß am Crüß verſicheret worden\nſye/wirt niemand lut der worten/ſelbs verneinen/ ſo ſy meldend/Das iſt myn Blůt/das es am Crüß\nvergoſſen worden ſye/in wellichen worten ſo der Herr ge-\nſagt hat/Trinckend all daruß/das iſt myn Blůt/hab er\njnen das gegeben/ſo er inen dargebotten/vnd heiſſen trin-\ncken/befolchen hat:",
-        "similarity": 0.5818,
-        "semantic": 0.8926,
-        "reading": "same"
+        "similarity": 0.5818
       },
       {
         "op": "only_a",
@@ -69,9 +63,7 @@
         "op": "match",
         "a": "begåren wir dargegen gſchrifftliche vnderrichtung/die\nvns von ſölichem verſtand in vnſere gewüßne verſich=\nren möge:dann der Herr mit ſölichen wortē/Trincked/",
         "b": "darumb das diſe wort den Sinn vnd\nVerſtand nit haben mågind/begåren wir dargegẽ gſchrifft-\nliche Vnderrichtung/die vns von ſölichem verſtand in vn-\nſere gewißne verſicheren måge: Dann der Herr mit ſölichen\nworten/",
-        "similarity": 0.4561,
-        "semantic": 0.8038,
-        "reading": "reworded"
+        "similarity": 0.4561
       },
       {
         "op": "only_a",
@@ -85,23 +77,18 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7803,
-    "reworded": 1,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.539,
+    "similarity": 0.5416,
     "words": {
-      "a": 228,
+      "a": 226,
       "b": 195
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite CXLIII Schlußred rer entſcheydung",
+        "a": "Schlußred rer entſcheydung",
         "b": "316 Die vierdt Pfarrer von Sant Gallen Gib ich antwurt mynem Herr Doctor von wågen der yngezognen figur Jch hab dieſelbigen in die Ac ta geben vnnd ſo ich recht yngedenck bin dieſelben erklåret Darumb nit not wyter zeerholen in wyter ent ſcheidung"
       },
       {

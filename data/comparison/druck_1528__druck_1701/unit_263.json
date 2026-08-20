@@ -8,7 +8,7 @@
       273
     ]
   },
-  "alignment_score": 0.2641,
+  "alignment_score": 0.2664,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -24,10 +24,10 @@
   },
   "sentences": {
     "units": 13,
-    "matched": 8,
+    "matched": 7,
     "only_a": 3,
-    "only_b": 2,
-    "similarity": 0.4111,
+    "only_b": 3,
+    "similarity": 0.436,
     "pairs": [
       {
         "op": "only_b",
@@ -36,115 +36,86 @@
         "similarity": 0.0
       },
       {
-        "op": "match",
-        "a": "Seite [X]\nDie hierdt\nder schlußreden) das sy vns mit gschrifft bybringind die\nwort des Nachtmals/ ein anderen verstannd zehaben.",
+        "op": "only_b",
+        "a": null,
         "b": "Nemmend\nund Eſſend / das iſt myn Lyb) mitgetheilt. Hieruff\nerwarten wir (lut der Schlußreden) daß ſy uns mit\nGeſchrifft bybringind /",
-        "similarity": 0.3,
-        "semantic": 0.4038,
-        "reading": "different"
+        "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "Es haben sich bißhar die Sententiarÿ vil bekümbert/ von der geburt vnnd empfencknuß Christi/ wie er vom\nheyligen geyst empfangen/",
+        "a": "Die hierdt\nder schlußreden) das sy vns mit gschrifft bybringind die\nwort des Nachtmals/ ein anderen verstannd zehaben. Es haben sich bißhar die Sententiarÿ vil bekümbert/",
         "b": "die Wort deß Nachtmahls\neinen andern Verſtand zehaben. Es haben ſich biß-\nhar die Sententiarij vil bekümmert von der Geburt\nund Empfäncknus Chriſti /",
-        "similarity": 0.4186,
-        "semantic": 0.6846,
-        "reading": "reworded"
+        "similarity": 0.3265
       },
       {
         "op": "match",
-        "a": "im lyb der Jungffrouw (Ma\nrie/ wie er gebozen vngeoffneten schlossen/ vnnd wie ein\nWüter ein Jungffrouw sye. Samit alle ynryssende\nspitzfündigkeit vermitten blibind/",
+        "a": "von der geburt vnnd empfencknuß Christi/ wie er vom\nheyligen geyst empfangen/ im lyb der Jungffrouw (Ma\nrie/ wie er gebozen vngeoffneten schlossen/",
         "b": "wie er vom heiligen Geiſt\nempfangen im Lyb der Jungfrauen Marie / wie er ge-\nboren ungeöffneten Schloſſen / und wie ein Můter ein\nJungfrau ſeye.",
-        "similarity": 0.4167,
-        "semantic": 0.5186,
-        "reading": "different"
+        "similarity": 0.4681
       },
       {
         "op": "match",
-        "a": "sind wir vff die für=\ngetragnen sprüch nochmals nit anders bericht/ dann die\neinualtigen wort einualtigklich zeuerstan. Ecolampadius. DJe beschlußred ist durch min herrn die Respon\ndenten/",
+        "a": "vnnd wie ein\nWüter ein Jungffrouw sye. Samit alle ynryssende\nspitzfündigkeit vermitten blibind/ sind wir vff die für=\ngetragnen sprüch nochmals nit anders bericht/",
         "b": "Damit alle ynryſſende Spitzfündig-\nkeit vermitten blybind / ſind wir uff die fürgetragenen\nSprüch nochmahls nicht anders berichtet / dann die ein-\nfaltigen Wort einfaltiglich zeverſtahn.",
-        "similarity": 0.3529,
-        "semantic": 0.6917,
-        "reading": "reworded"
+        "similarity": 0.375
       },
       {
         "op": "match",
-        "a": "für sich selbs etwas erlüteret wordenn/ das mag man wol anfechten/ vñ ist nit wie vil=\nlicht vß hern Benedict ynred verstanden mag\nwerden/",
+        "a": "dann die\neinualtigen wort einualtigklich zeuerstan. Ecolampadius. DJe beschlußred ist durch min herrn die Respon\ndenten/ für sich selbs etwas erlüteret wordenn/",
         "b": "Ecolampadius. DIE Beſchlußred iſt durch myne Herren die Re-\nſpondenten / für ſich ſelbs etwas erlütert worden / das mag man wol anfechten /",
-        "similarity": 0.4,
-        "semantic": 0.5908,
-        "reading": "different"
+        "similarity": 0.4186
+      },
+      {
+        "op": "match",
+        "a": "das mag man wol anfechten/ vñ ist nit wie vil=\nlicht vß hern Benedict ynred verstanden mag\nwerden/ dz wir vff vnser vernunfft buwten/",
+        "b": "und iſt nit / wie vielleicht\nuß Herrn Benedict Ynred verſtanden mag werden / daß wir uff unſer Vernunfft bauten / und Spitzfün-\ndigkeit uns beſlyſſen /",
+        "similarity": 0.5106
+      },
+      {
+        "op": "match",
+        "a": "vñ spitzfün\ndigkeit vns flyssen/ der ynred halben vß dem x. cap. zun\nCorinth. in der j. Epi. Da wir gesprochen hand/",
+        "b": "der Ynred halben uß dem 10. Cap. zun Corinthern / in der erſten Epiſt. Da wir geſprochen\nhand / es ſoll vertütſchet werden Gemeinſame oder Ge-\nmeinſchafft /",
+        "similarity": 0.5532
+      },
+      {
+        "op": "match",
+        "a": "es söll\nbrütschafft werden/ gemeinsame od gemeinschafft/ tringt\nvnser Brüder Althamer daruff/ es söll ein Vßteilung ver\nstanden werden: wil sich behelffendes Griechische wört=\nly /κοινωνία.",
+        "b": "dringt unſer Brüder Althamer daruff / es\nſöll ein Ußtheilung verſtanden werden: wil ſich behelffen\ndeß Griechiſchen Wörtli / Κοινωνία. Nun werden wir uns\nauch laſſen uff all Verſtändigen der Sprachen /",
+        "similarity": 0.4
       },
       {
         "op": "only_a",
-        "a": "dz wir vff vnser vernunfft buwten/ vñ spitzfün\ndigkeit vns flyssen/ der ynred halben vß dem x. cap. zun\nCorinth.",
+        "a": "Nun werden wir vns ouch lassen vff all östen\ndigen der sprache/ das wie es in Latin vñ Griechischen\nstadt/",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "only_a",
+        "a": "vff im trag ein gemeinschafft vñ gesellschafft/ vñ\nnit ein vßteylung: man säch das wörtly vom Brunnen\nhar an/ so ist keiner der nun nit mer dan angefangen hat\nzelernen/",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "only_a",
+        "a": "der weißt das κοινός oder κοινὸν/ ist als vil/ als ge\nmein/ od κοινωνός ein mitgsell/ so gemeinschafft mit im hat. Die sprüch aber durch Althamer ynzogen/ vom wörtly",
         "b": null,
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "und iſt nit / wie vielleicht\nuß Herrn Benedict Ynred verſtanden mag werden / daß wir uff unſer Vernunfft bauten / und Spitzfün-\ndigkeit uns beſlyſſen /",
-        "similarity": 0.0
-      },
-      {
-        "op": "match",
-        "a": "in der j. Epi. Da wir gesprochen hand/ es söll\nbrütschafft werden/ gemeinsame od gemeinschafft/ tringt\nvnser Brüder Althamer daruff/",
-        "b": "der Ynred halben uß dem 10. Cap. zun Corinthern / in der erſten Epiſt. Da wir geſprochen\nhand / es ſoll vertütſchet werden Gemeinſame oder Ge-\nmeinſchafft /",
-        "similarity": 0.4444,
-        "semantic": 0.6314,
-        "reading": "reworded"
-      },
-      {
-        "op": "match",
-        "a": "es söll ein Vßteilung ver\nstanden werden: wil sich behelffendes Griechische wört=\nly /κοινωνία. Nun werden wir vns ouch lassen vff all östen\ndigen der sprache/",
-        "b": "dringt unſer Brüder Althamer daruff / es\nſöll ein Ußtheilung verſtanden werden: wil ſich behelffen\ndeß Griechiſchen Wörtli / Κοινωνία. Nun werden wir uns\nauch laſſen uff all Verſtändigen der Sprachen /",
-        "similarity": 0.5455,
-        "semantic": 0.7755,
-        "reading": "same"
-      },
-      {
-        "op": "match",
-        "a": "das wie es in Latin vñ Griechischen\nstadt/ vff im trag ein gemeinschafft vñ gesellschafft/ vñ\nnit ein vßteylung: man säch das wörtly vom Brunnen\nhar an/",
         "b": "daß\nwie es in Latein und Griechiſchen ſtaht / uff im trag\n                                                                ein",
-        "similarity": 0.4103,
-        "semantic": 0.7882,
-        "reading": "reworded"
-      },
-      {
-        "op": "only_a",
-        "a": "so ist keiner der nun nit mer dan angefangen hat\nzelernen/ der weißt das κοινός oder κοινὸν/ ist als vil/",
-        "b": null,
         "similarity": 0.0
-      },
-      {
-        "op": "only_a",
-        "a": "als ge\nmein/ od κοινωνός ein mitgsell/ so gemeinschafft mit im hat. Die sprüch aber durch Althamer ynzogen/ vom wörtly",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6601,
-        "semantic_match": "und iſt nit / wie vielleicht\nuß Herrn Benedict Ynred verſtanden mag werden / daß wir uff unſer Vernunfft bauten / und Spitzfün-\ndigkeit uns beſlyſſen /",
-        "reading": "candidate"
       }
-    ],
-    "semantic": 0.6383,
-    "reworded": 4,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.4958,
+    "similarity": 0.4979,
     "words": {
-      "a": 248,
+      "a": 246,
       "b": 228
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite X",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Die",
@@ -586,7 +557,7 @@
         "b": ""
       }
     ],
-    "ops": 45,
+    "ops": 44,
     "truncated": false
   }
 }

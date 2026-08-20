@@ -8,7 +8,7 @@
       181
     ]
   },
-  "alignment_score": 0.367,
+  "alignment_score": 0.3704,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 2,
     "only_b": 5,
-    "similarity": 0.3978,
+    "similarity": 0.4008,
     "pairs": [
       {
         "op": "only_b",
@@ -43,35 +43,27 @@
       },
       {
         "op": "match",
-        "a": "Seite LXIX\nSchlußred. LXIX\ngnůg/doch so bezůg ichs wyter vß der ij. Epistel/ zu\nCorinthern/am v. capit. so er spricht:",
+        "a": "Schlußred. LXIX\ngnůg/doch so bezůg ichs wyter vß der ij. Epistel/ zu\nCorinthern/am v. capit. so er spricht:",
         "b": "Epiſtel zun\nCorinthern / am 10. capit. ſo er ſpricht: Dann ſo ich etwas\nmer eer ſoͤlte ſuͤchen/von vnſerem gwalt.",
-        "similarity": 0.3182,
-        "semantic": 0.4761,
-        "reading": "different"
+        "similarity": 0.3333
       },
       {
         "op": "match",
         "a": "Dann so ich etwas\nmer eer solte sůchen/von vnserem gwallt. Hie berůmpt\nsich Paulus von jrem gwalle/das ist ye geredt von dem\ngeystlichen gewallt/darumb so sol es nit widersprochenn\nwerdenn/man hette dann heyrere geschrifft/die das selb\nvßtruckte.",
         "b": "Hie beruͤmpt ſich\nPaulus von jrem gwalt / das iſt je geredt von dem geiſtli=\nchen gewalt / darumb ſo ſoll es nit widerſprochen werden/",
-        "similarity": 0.4242,
-        "semantic": 0.6572,
-        "reading": "reworded"
+        "similarity": 0.4242
       },
       {
         "op": "match",
         "a": "Berchtoldus. Als ein gewallt sye in der Kilchen/habe wir noch\nnie verneynt/nach verstand der geschrifft/wel-\ncher gwalt darumb dhein ander houpt machet/",
         "b": "man hette dann heitere Gſchrifft/die das ſelb vßtruckte. Berchtoldus. DAs ein gewalt ſye in der Kilchen / haben wir noch\nnie verneint /",
-        "similarity": 0.383,
-        "semantic": 0.5971,
-        "reading": "different"
+        "similarity": 0.383
       },
       {
         "op": "match",
         "a": "sonders vil mer ist ein dienstbarkeit/ Vnnd der spruch/ den herr Gilg fůrhar bringt/erlůtert dz selb/so Paulus\nspricht:",
         "b": "nach verſtand der Gſchrifft / welcher\ngewalt darumb kein ander Houpt machet / ſonders\nvil mer iſt ein Dienſtbarkeit / Vnd der Spruch /",
-        "similarity": 0.4,
-        "semantic": 0.623,
-        "reading": "reworded"
+        "similarity": 0.4
       },
       {
         "op": "only_b",
@@ -89,9 +81,7 @@
         "op": "match",
         "a": "Vnnd so ich mich wyter etwas berům von dem\ngewallt/welchen Gott der Herr vns geben hat zů besse\nrung/vnd nit zů verderben/welches Paulus/als ein trů\nwer Apostel gottes/mit predigen/vnnd verkůnden des\nworts/vßgericht hat/vnd ist gantz vnd gar nůt wider\nvnser Schlußredenn/des referier ich mich allwegen zun\nActa.",
         "b": "mit predigen / vnnd verkuͤnden deß Worts/vßgericht\nhat/vnd iſt gantz vnd gar nit wider vnſer Schlußre=\nden / deß referier ich mich allwegen\nzun Acta.",
-        "similarity": 0.4634,
-        "semantic": 0.8341,
-        "reading": "reworded"
+        "similarity": 0.4634
       },
       {
         "op": "only_a",
@@ -103,10 +93,7 @@
         "op": "only_a",
         "a": "So nun ein geystlicher gewalt\nist So můß ouch ein oberkeit sin die dz Regiment fůr/dz\nwil ich bewåren vß dem alten Testament/Also ein yeg\nliche figur sol erfůllt werden im nůwen Testament/Als\ndie Synagog der Judenn/hat bedůtet die Christenliche",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7062,
-        "semantic_match": "wel=\nchen Gott der Herr vns geben hat zuͦ beſſerung / vnd nit zuͦ\nverderben/welches Paulus / als ein truͤwer Apoſtel Got=\ntes /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -114,25 +101,15 @@
         "b": "T iij\n\n## Marginalien\nSuͦch\nhieuor\nam 23. 27. 28. 38. vnd. am 42\nblat.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.649,
-    "reworded": 3,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.5138,
+    "similarity": 0.516,
     "words": {
-      "a": 250,
+      "a": 248,
       "b": 221
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite LXIX",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Schlußred",
@@ -474,7 +451,7 @@
         "b": "42 blat"
       }
     ],
-    "ops": 35,
+    "ops": 34,
     "truncated": false
   }
 }

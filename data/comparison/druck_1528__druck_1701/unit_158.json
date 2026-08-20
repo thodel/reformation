@@ -8,7 +8,7 @@
       167
     ]
   },
-  "alignment_score": 0.3704,
+  "alignment_score": 0.375,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -31,20 +31,15 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [LXXIII]\nSchlußred. LXXIII\n\nſonder/oder an das wort gottes/ſind vns von Chriſto\nverbotten/Matthei am xv. vnd ouch von Gott.",
+        "a": "Schlußred. LXXIII\n\nſonder/oder an das wort gottes/ſind vns von Chriſto\nverbotten/Matthei am xv. vnd ouch von Gott.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7206,
-        "semantic_match": "dann der\nGreuel / der ſich geſetzt hat an die ſtatt Gottes / das iſt in\nder Chriſtglaͤubigen Hertzen. Matth. am 24.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Eſaie\nam xxix. ſagt der herr alſo. Darumb das ſich das volck\nzů mir nahet/mich mit ſinem mund vnd låffzen zůlobet/",
         "b": "Die Ander Schlußred. 151\n\nthei am 15. und auch von Gott. Eſaje am 29. ſagt der Herz\nalſo: Darum daß ſich das Volck zü mir nahet /",
-        "similarity": 0.4167,
-        "semantic": 0.6293,
-        "reading": "reworded"
+        "similarity": 0.4167
       },
       {
         "op": "only_a",
@@ -86,9 +81,7 @@
         "op": "match",
         "a": "Deuteronomij am xij. Ja\nſo das/das wir hoch achten ein grůwel vor gott iſt. Luc. am xvj. So kan vñ mag ein yetlicher from̄er Chriſt er=\nmeſſen/von welcher Kilch oder verſamlung die ſeyen/die",
         "b": "ein Greuel vor Gott iſt. Luc. am 16. So kan und mag ein jeglicher frommer Chriſt er-\nmeſſen / von welcher Kilch oder Verſamlung die ſeyen /",
-        "similarity": 0.6129,
-        "semantic": 0.8236,
-        "reading": "same"
+        "similarity": 0.6129
       },
       {
         "op": "only_b",
@@ -126,23 +119,18 @@
         "b": "und Da-\nnielis am 8. und die zerſtreut mit den Ceremonien / damit\nſy deſterminder warnemmen / was daredte innerlich das\newig Wort mit ihnen. Es nemme lange Wyl zuͤ erzellen\nT iij\tdie",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7245,
-    "reworded": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.4091,
+    "similarity": 0.4108,
     "words": {
-      "a": 175,
+      "a": 173,
       "b": 309
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite LXXIII",
+        "op": "insert",
+        "a": "",
         "b": "Die Ander"
       },
       {

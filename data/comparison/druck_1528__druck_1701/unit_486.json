@@ -8,50 +8,32 @@
       504
     ]
   },
-  "alignment_score": 0.2212,
+  "alignment_score": 0.2226,
   "coarse": {
     "paragraphs": {
-      "a": 5,
+      "a": 4,
       "b": 1
     },
     "counts": {
       "equal": 0,
-      "replace": 5,
+      "replace": 4,
       "delete": 0,
       "insert": 0
     },
     "similarity": 0.0
   },
   "sentences": {
-    "units": 22,
-    "matched": 5,
-    "only_a": 6,
-    "only_b": 11,
-    "similarity": 0.4201,
+    "units": 20,
+    "matched": 6,
+    "only_a": 4,
+    "only_b": 10,
+    "similarity": 0.401,
     "pairs": [
       {
-        "op": "only_a",
-        "a": "Seite [489]\n\nyetlicher ■olich reden/nit anders vfnamen: dan sy geschächen sind/vnnd\nzu keinem argen/die selbigen ztichen welle:",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6829,
-        "semantic_match": "488      Die Zehende Schlußred. vffnemmen / dann sy geschehen sind / und zu keinem argen\ndieselbigen zühen woͤlle: Dann ihr Will und Fuͤrnemmen nit\nanders vor ihm tragen hat /",
-        "reading": "candidate"
-      },
-      {
-        "op": "only_a",
-        "a": "dan jr will vnd fürnåmen/nit\nanders voz jm tragen hat/dan die warheyt zufürdren/vnd yetlichem zu\nrechtem fürtrag siner argumenten/mitflyß verholffen sin.",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7296,
-        "semantic_match": "dann die Warheit zu fuͤrdern / und\njeclichem zu rechtem Fuͤrtrag syner Argumenten mit Flyß ver=\nholffen syn. Hierum sy nochmals urbuͤtig sind /",
-        "reading": "candidate"
-      },
-      {
-        "op": "only_b",
-        "a": null,
+        "op": "match",
+        "a": "yetlicher ■olich reden/nit anders vfnamen: dan sy geschächen sind/vnnd\nzu keinem argen/die selbigen ztichen welle: dan jr will vnd fürnåmen/nit\nanders voz jm tragen hat/dan die warheyt zufürdren/vnd yetlichem zu\nrechtem fürtrag siner argumenten/mitflyß verholffen sin.",
         "b": "488      Die Zehende Schlußred. vffnemmen / dann sy geschehen sind / und zu keinem argen\ndieselbigen zühen woͤlle: Dann ihr Will und Fuͤrnemmen nit\nanders vor ihm tragen hat /",
-        "similarity": 0.0
+        "similarity": 0.3056
       },
       {
         "op": "only_b",
@@ -63,18 +45,13 @@
         "op": "match",
         "a": "Bierumb\n■y nochmals vrbiittig sind/alle denen/so disputiert haben/alle zyt/guts\nmit geneygtem willen zübewisen. Sancksagung von Bern Berchtolden Haller/",
         "b": "allen denen / so\ndisputiert haben / allezyt guts mit geneigtem Willen zubewysen. Dancksagung von Hrn. Berchtold Haller / vß befelch\nHerren Schuldtheiſſen /",
-        "similarity": 0.4286,
-        "semantic": 0.743,
-        "reading": "reworded"
+        "similarity": 0.4286
       },
       {
         "op": "only_a",
         "a": "oss Befelch Herr Schulthessen vnd Radts der statt\nBern/Beschächen. Kwürdigen hochgelerten/Edlen/Ersamen wysen herren/ vnd fromen Christen/jr ■yend von vnsern triiwen liebe Eide\ngnoffen von Zürich/Glaris/Basel/Schaffhusen/Appenzel\nBieln/SantGallen/Mülhusen/geystlich vnd waltlich/Mit\nburger/oder von andren stetten vnd landren/so har off dise disputas\ntion/Gott zu lob/vnsern gnådigen herren zu gutem/erschinen sind/zu-\nfürdrung der warheyt.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.834,
-        "semantic_match": "deß Rahts der Statt\nBern beschehen. EHrwuͤrdige / Hochgelehrte / Edle / Ehrsame / Wyse Herren / und Fromme Christen / ihr seyend von unseren treuen lie=\nben Eydgnoſſen von Zuͤrich /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -98,9 +75,7 @@
         "op": "match",
         "a": "Unser gnådig herren/Schultheß/klein vn groß\nRådt/so man nåmpt die zweyhundert/diser loblichen statt Bern/befel\nchen mir vngeschickten/üwern Heren off das aller höchst zudancken/",
         "b": "Unsere Gnaͤ=\ndige Herren / Schuldtheiß / Klein und Groß Raͤht / so man nennt\ndie Zweyhundert / diser loblichen Statt Bern / befehlen mir un=\ngeschickten /",
-        "similarity": 0.4706,
-        "semantic": 0.6585,
-        "reading": "reworded"
+        "similarity": 0.4706
       },
       {
         "op": "only_b",
@@ -112,35 +87,25 @@
         "op": "match",
         "a": "Das fr mit üwer Erlichen gegenwärtigkeyt/grossem kosten/mig vnnd\naebeyt/jr angesachne disputation/Besucht habe/vnd in allwåg geholffen\nmit allem üwerem zuthun/Ir göttlich firnamen/Christenlich zü voll-\nStrecken.",
         "b": "ihr angeſehene Disputation besucht haben / und in all=\nweg geholffen mit allem euerem Zuthun / ihr Goͤttlich fuͤrnem=\nmen Christenlich zu vollstrecken.",
-        "similarity": 0.3704,
-        "semantic": 0.5668,
-        "reading": "different"
+        "similarity": 0.3704
       },
       {
         "op": "match",
         "a": "Erbietten sich hiemit/allen vnd yeden herschafften vnd perso-\nnen/solichs in danckbarer wys/niemermer zuuergåssen/sonders mit\nhochem flyß vi geneigtem wille/zu allen zyte /■o wyt jr vermoge ist /",
         "b": "Erbieten sich hiemit / allen und\njeden Herrschafften und Personen soͤlichs in danckbarer wyß nim=\nmermehr zevergeſſen / sonders mit hohem Flyß und geneigtem\nWillen /",
-        "similarity": 0.4,
-        "semantic": 0.7491,
-        "reading": "reworded"
+        "similarity": 0.4
       },
       {
         "op": "only_a",
         "a": "Be\nschulden vnd verdienen. Demnach / als dann ein grosse månge volcks\nhie erschinen/da yemant vilicht etwas vnzucht begegnet ware/deß doch\nmin gnädigen herren/kein wii■■en tragen/vnd insonders leyd ware/Bit\nten sy mengklichen welle ■olichs jren gnaden/nit verargen:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8331,
-        "semantic_match": "da jemand villeicht etwas unzuchts begegnet waͤre / deß doch Myne Gnaͤdige Herren kein Wuͤssen tragen / und inson=\nders Leyd waͤre /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "dan so wytt\nesinjrem wissen ware/wurden ■y ■olichs nit ongestrafft lassen. Bies\nmit sol solich iwer eerlich gegenwärtigkeyt disputieren/antwurten/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6995,
-        "semantic_match": "dann die Warheit zu fuͤrdern / und\njeclichem zu rechtem Fuͤrtrag syner Argumenten mit Flyß ver=\nholffen syn. Hierum sy nochmals urbuͤtig sind /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -170,9 +135,7 @@
         "op": "match",
         "a": "predigen/vnd bywåsen/Deß ein lebliche statt Bern off das hochst ges\nfrouwt/niemermer/zu gütem vergåssen werden. Befelchen aller men\ncklich/der gnad vnd dem friden gottes/Verstand es alles bas/wedcr\nich kleinfüger redner habe mogen darthun.",
         "b": "deß ein lobliche Statt Bern vff das hoͤchste ge=\nfreuet / nimmermehr zu gutem vergeſſen werden. Befehlen al=\nlermaͤniglichen der Gnad und dem Friden Gottes:",
-        "similarity": 0.4308,
-        "semantic": 0.7628,
-        "reading": "reworded"
+        "similarity": 0.4308
       },
       {
         "op": "only_a",
@@ -186,23 +149,18 @@
         "b": "Verstahnd\nes alles baß / weder ich kleinfuͤger Redner\nhabe moͤgen darthun. Hiemit ist diß Gespraͤch beschloſſen und vollendet/Sonntag\nden 26. Januarij 1528.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7259,
-    "reworded": 4,
-    "recovered_by_embedding": 5,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 5
+    ]
   },
   "fine": {
-    "similarity": 0.4174,
+    "similarity": 0.4185,
     "words": {
-      "a": 340,
+      "a": 338,
       "b": 374
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite 489 yetlicher olich reden nit anders vfnamen dan",
+        "a": "yetlicher olich reden nit anders vfnamen dan",
         "b": "488 Die Zehende Schlußred vffnemmen dann"
       },
       {

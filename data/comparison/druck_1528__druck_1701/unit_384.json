@@ -8,7 +8,7 @@
       399
     ]
   },
-  "alignment_score": 0.2785,
+  "alignment_score": 0.2811,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -31,7 +31,7 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite CLXXXVI\nSchlußred. ſamlich zerſtört werde ſin/biß zů end der welt/was ſoll\naber das jne helffen/das die Mäß ein opffer ſye.",
+        "a": "Schlußred. ſamlich zerſtört werde ſin/biß zů end der welt/was ſoll\naber das jne helffen/das die Mäß ein opffer ſye.",
         "b": null,
         "similarity": 0.0
       },
@@ -39,10 +39,7 @@
         "op": "only_a",
         "a": "Der ver\nmanung halb/ſol ſich ane zwiuel mencklich hůten/dz wir\nGott nitt ſo ſchwärlich erzürnen/als das Jüdiſch volck\nſich an Chriſto Beſchuldet hat.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6645,
-        "semantic_match": "ſonder es muͤß ein ander Opffer ſyn / das werde vff-\nhören zuͦ End der Welt / vierdthalb Jahr. Zwingly. OB glych die Juden noch opfferten /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -54,9 +51,7 @@
         "op": "match",
         "a": "Gilg murer\nDIſers opffer/daruon Daniel ſchribt/mag nit ſin\nder Juden opffer/dan̄ daſſelbig by jnen noch wä\nret.",
         "b": "Die Fünfte Schlußred. 383\n\nGilg Murer. DIſes Opffer / darvon Daniel ſchrybt / mag nit ſyn\nder Juden opffer / dañ daſſelbig by jhnen noch wäh-\nret /",
-        "similarity": 0.6818,
-        "semantic": 0.8811,
-        "reading": "same"
+        "similarity": 0.6818
       },
       {
         "op": "only_b",
@@ -68,17 +63,13 @@
         "op": "match",
         "a": "Beſonder es müß ein ander opffer ſin/das\nwerde vffhören zů end der welt/vierdhalb Jar. Zwingli. OB glich die Juden noch opfferten/ſo iſt doch die\nkrafft des vfferen opffers hingenomen/wiewol\nhieby gemeinlich die Judé durch die ganꜩe welt\nhin ſy ſelbs erkenné/das ſy jr Prieſterthůmb nit mer er\nkennen.",
         "b": "ſo iſt doch die\nKrafft deß vſſern Opffers hingenommen / wiewol\nhieby gemeinlich die Juden durch die gantze Welt hin\nſelbs erkennen /",
-        "similarity": 0.4054,
-        "semantic": 0.8194,
-        "reading": "reworded"
+        "similarity": 0.4054
       },
       {
         "op": "match",
         "a": "So nun jr Prieſterthům hin iſt/als ſich ouch an\nder that befindet:ſo iſt ouch gewüß/das ouch die ordnůg\ndes vffopffers hingenommen iſt/zun Hebreern am vij.",
         "b": "daß ſy jhr Prieſterthum nit mehr er-\nkennen. So nun jhr Prieſterthum hin iſt / als ſich auch\nan der That befindet :",
-        "similarity": 0.44,
-        "semantic": 0.7567,
-        "reading": "reworded"
+        "similarity": 0.44
       },
       {
         "op": "only_b",
@@ -90,9 +81,7 @@
         "op": "match",
         "a": "Deßhalb noch für vnd für beſtat/das Daniel von dem\nJüdiſchen opffer redt. Gilg Aurer. ES mag nit verſtanden werden/von dem opfer\nder Juden/dann ob glich daſſelbig/nach jr ord\nnung hette vffgehört/ſo mag darumb nit vol\ngen/das hie an dißem ort/von de ſelbigen geredt werde/ Zlaa ij",
         "b": "daß\nDaniel von dem Jüdiſchen Opffer redt. Gilg Murer. ES mag nit verſtanden werden von dem Opffer\nder Juden / dann obglych daſſelbig nach jhr Ord-\nnung hätte vffgehört /",
-        "similarity": 0.5432,
-        "semantic": 0.6592,
-        "reading": "same"
+        "similarity": 0.5432
       },
       {
         "op": "only_b",
@@ -112,23 +101,18 @@
         "b": "Einmal vff vierdthalb Jahr / als am 7. Bbb iij Capt-",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7562,
-    "reworded": 2,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.4714,
+    "similarity": 0.4736,
     "words": {
-      "a": 237,
+      "a": 235,
       "b": 200
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite CLXXXVI",
+        "op": "insert",
+        "a": "",
         "b": "Die Fünfte"
       },
       {

@@ -8,15 +8,15 @@
       305
     ]
   },
-  "alignment_score": 0.2114,
+  "alignment_score": 0.2131,
   "coarse": {
     "paragraphs": {
-      "a": 3,
+      "a": 2,
       "b": 1
     },
     "counts": {
       "equal": 0,
-      "replace": 3,
+      "replace": 2,
       "delete": 0,
       "insert": 0
     },
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 3,
     "only_b": 4,
-    "similarity": 0.4062,
+    "similarity": 0.4092,
     "pairs": [
       {
         "op": "only_b",
@@ -43,19 +43,15 @@
       },
       {
         "op": "match",
-        "a": "Seite CXLI\n\nSchlußred. heyssen/das die Apostel vnd prediger/die vnd die andre\nwunderzeychen thůn werdent/so hatt er nun den gloubē\nvnd das vsser wort by einandern /",
+        "a": "Schlußred. heyssen/das die Apostel vnd prediger/die vnd die andre\nwunderzeychen thůn werdent/so hatt er nun den gloubē\nvnd das vsser wort by einandern /",
         "b": "ſo hat er nun den Glau-\nben und das vſſer Wort by einandern / vollſtrecke mir\ndas / das vſſer Wort heißt /",
-        "similarity": 0.4167,
-        "semantic": 0.5693,
-        "reading": "different"
+        "similarity": 0.4348
       },
       {
         "op": "match",
         "a": "volstrecke mir das/ dz vsser wort heyßt/oder verheyßt. So ich nun dz nit zů\nversůchung red / vnd nitt zweyffel er werde sich des nitt\nvnderston/danner wol wůssen mag/das er mit dem vss-\nsern wort/ouch by sinem gloubē /",
         "b": "oder verheißt. So ich nun\ndas nit zů Verſůchung red / und nit zwyffle / er werde\nſich deß nit underſtahn / dann er wol wüſſen mag /",
-        "similarity": 0.4308,
-        "semantic": 0.7658,
-        "reading": "reworded"
+        "similarity": 0.4308
       },
       {
         "op": "only_b",
@@ -67,9 +63,7 @@
         "op": "match",
         "a": "also nütz vermag/es sye\ndann das gott geualle sollichs zewůrcken. So hoff ich es\nsye niemands so eins klynen verstands/dann das er ver=\nmercke/das die vssern wort nütz vermöge/für oder har\nzebringen/ob glich der gloub da sye /",
         "b": "So hoff ich / es ſeye niemands ſo eines kleinen\nVerſtands / dann daß er vermercke / daß die vſſern wort\nnüt vermögen /",
-        "similarity": 0.3548,
-        "semantic": 0.8019,
-        "reading": "reworded"
+        "similarity": 0.3548
       },
       {
         "op": "only_b",
@@ -81,17 +75,13 @@
         "op": "match",
         "a": "vnnd valt damit jr\ngrund hin. Das wort bringt mit jm̄/ dz es bedůtet oder\nverheisset. Pfarrer von sant Gallen\n[Large initial D] Er da nitt handlet vß dē wort vnd beuelch got\ntes/da ist zener messen /",
         "b": "Pfarrer von Sant Gallen: DEr da nit handlet vß dem Wort und Befelch Got-\ntes / da iſt zů ermeſſen / daß er den Geiſt Chriſti nit\nhab /",
-        "similarity": 0.4062,
-        "semantic": 0.9329,
-        "reading": "reworded"
+        "similarity": 0.4062
       },
       {
         "op": "match",
         "a": "das er den geyst Christi\nnit hab/hatt er den geyst Christi nit/ so ist er nit\nsin/zun Rhömern am viij.",
         "b": "hat er den Geiſt Chriſti nit / ſo iſt er nit ſyn / zun Röm. am 8. Cap. Vff die Frag vom Blinden antwort ich alſo:",
-        "similarity": 0.4348,
-        "semantic": 0.699,
-        "reading": "reworded"
+        "similarity": 0.4348
       },
       {
         "op": "only_a",
@@ -103,18 +93,13 @@
         "op": "match",
         "a": "vnd eim yegklichen Gott\nmitteylt/als jm gefelt. Wie wol Oeyffer Vlrich Chris-\nstum Jesum als wol prediget/ vnd den Crůtzigeren/als\nPetrus vñ Paulus (ob gott wil) ouch mit gůtē glouben:",
         "b": "Daß die Gaab deß Glaubens in mengerley Geſtalt wird\nvßgetheilt / und einem jeglichen Gott mittheilt / als ihm\ngefällt. Wiewol Meiſter Ulrich Chriſtum Jeſum als wol\nprediget / und den Crützigten / als Petrus und Paulus/ (Ob",
-        "similarity": 0.3939,
-        "semantic": 0.5448,
-        "reading": "different"
+        "similarity": 0.3939
       },
       {
         "op": "only_a",
         "a": "nůt desterminder/hab ich nit gehört/dz er die lamē grad\nhab gemacht/vñ sin schart die krancken gesund. Der ge\nstalt haben wir ouch Oarthei am xvj.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6311,
-        "semantic_match": "für oder harzebringen / obglych der\nGlaub da ſeye/ und falt damit ihr grund hin/ Das wort\nbringt mit ihm / das es bedütet oder verheißet.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -122,23 +107,18 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7064,
-    "reworded": 4,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.4668,
+    "similarity": 0.4686,
     "words": {
-      "a": 281,
+      "a": 279,
       "b": 246
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite CXLI",
+        "op": "insert",
+        "a": "",
         "b": "Die Vierdte"
       },
       {

@@ -8,7 +8,7 @@
       365
     ]
   },
-  "alignment_score": 0.262,
+  "alignment_score": 0.2649,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -31,30 +31,21 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite CLI\nSchlußred. CLI\nvnwirdig iſſet/vñ nit gar/Welcher das brot vnwirdig\niſſet. Volgt wyter/Duch trincken wirt/das tranck deß\nHerren vnwirdig :",
+        "a": "Schlußred. CLI\nvnwirdig iſſet/vñ nit gar/Welcher das brot vnwirdig\niſſet. Volgt wyter/Duch trincken wirt/das tranck deß\nHerren vnwirdig :",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7364,
-        "semantic_match": "ſon\nder glouben/das der låbendig ſun Gottes mitt\nſinem tod vnns erlͤoͤſt hab. Es volgt wyter/in\nden worten Pauli :",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "nempt es aber tranck/vñ nit blůt. Aber diß wörtly/Wirdig/heißt als vil by Paulo vnnd\nLuca.iij.als/geschickt/komlich/oder zügehörig/vß de\nerkennt wirt/das hie vnwirdigklich/nit verstanden sol\nwerde/das der mensch newan möchte gnůg wirdig sin/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7257,
-        "semantic_match": "ſon\nder glouben/das der låbendig ſun Gottes mitt\nſinem tod vnns erlͤoͤſt hab. Es volgt wyter/in\nden worten Pauli :",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "zů den aller kleynsten gaaben Gottes. Darzů ouch die\naber den lychnam Christi geystlichē niessen/welches doch\nvil einander essen ist/weder das lyblich wåre/daruon sy\nsagend/den hat Gott wirdig gemacht.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7823,
-        "semantic_match": "ouch vff den ſun Gottes nitt vertruwt iſt/ vnnd aber zů der Kilchen gadt / die ſoͤllich ver=\ntruwen vnnd glouben vergicht /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -66,9 +57,7 @@
         "op": "match",
         "a": "Daruß nun vol\nget/dʒ (wirdig essen) nützit anders ist/wed mit dem rech\nten glouben harzů komen. Onwirdig essen/aber nützit\nanders/weder one glouben harzů kommen/da aber der\ngloub eynig eruorderet wirt/nit zegloubenn/das fleysch\nvnd blůt lyblich da geessen werde/dañ das gnůgsam er=\nfochten ist/das wir darumb keins verheyssens gots wort\nhabend/sonder glouben/dʒ der låbendig sun Gottes mit\nsinem tod vns erlöst hab.",
         "b": "Vnwirdig eſſen/aber niit an=\nders/weder one gloubē harzů kommen/ da aber\nder gloub eynig eruorderet wirt/ nit zeglouben/",
-        "similarity": 0.3043,
-        "semantic": 0.8243,
-        "reading": "reworded"
+        "similarity": 0.3043
       },
       {
         "op": "only_b",
@@ -86,18 +75,13 @@
         "op": "match",
         "a": "Es volgt wyter/in den wor=\nten Pauli: Der wirt schuldig am lychnam vnd blůt des\nHerren/nit die er vnwirdigklich geessenn habe/sonder/",
         "b": "Der wirt ſchuldig am lych=\nnam vnd blůt des Herren/nit die er vnwirdig=\nklich geeſſen habe / ſonder/ deren er ſich ein ver=\ntrͤoͤſten valſchlich dargeben hab:",
-        "similarity": 0.4906,
-        "semantic": 0.761,
-        "reading": "reworded"
+        "similarity": 0.4906
       },
       {
         "op": "only_a",
         "a": "deren er sich ein vertzösten valschlich dargeben hab: das\nist/er wil nit sagē",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8056,
-        "semantic_match": "ouch vff den ſun Gottes nitt vertruwt iſt/ vnnd aber zů der Kilchen gadt / die ſoͤllich ver=\ntruwen vnnd glouben vergicht /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -129,25 +113,15 @@
         "b": "oder da einer der herrn von Bern\nzeychen veruneret / dryn ſchlecht/oder ſticht/hat\ner nitt die von Bernn geſchlagen oder geſtoch=\nen : vnnd iſt niit deſterminder ſchuldig das er\ny ÿ",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7725,
-    "reworded": 2,
-    "recovered_by_embedding": 4,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 4
+    ]
   },
   "fine": {
-    "similarity": 0.3487,
+    "similarity": 0.3502,
     "words": {
-      "a": 210,
+      "a": 208,
       "b": 266
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite CLI",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Schlußred",
@@ -409,7 +383,7 @@
         "b": "ſagen das man in dem geeſſnen lyb ſchuldig werde ſonders das welcher nit gloubt das er vns mit ſinem lyb vnd blůt erl o ſt vnd geſu hret hat ouch vff den ſun Gottes nitt vertruwt iſt vnnd aber zů der Kilchen gadt die ſo llich ver truwen vnnd glouben vergicht vnnd er aber nit ein gl o biger noch vertruwter iſt Als da ey ner ein vſſer zeychen ſiner herrn von Bern treyt vnd aber jnnwendig einem volck von Bern nitt trůw halt ſo wirt er geredt ſchuldig ſin an de nen vonn Bernn ob er ſy glych nit hat m o gen vmb bringen oder da einer der herrn von Bern zeychen veruneret dryn ſchlecht oder ſticht hat er nitt die von Bernn geſchlagen oder geſtoch en vnnd iſt niit deſterminder ſchuldig das er y ÿ"
       }
     ],
-    "ops": 27,
+    "ops": 26,
     "truncated": false
   }
 }

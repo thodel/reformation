@@ -8,10 +8,10 @@
       332
     ]
   },
-  "alignment_score": 0.407,
+  "alignment_score": 0.4167,
   "coarse": {
     "paragraphs": {
-      "a": 2,
+      "a": 1,
       "b": 3
     },
     "counts": {
@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 0,
     "only_b": 8,
-    "similarity": 0.4862,
+    "similarity": 0.4913,
     "pairs": [
       {
         "op": "only_b",
@@ -37,27 +37,21 @@
       },
       {
         "op": "match",
-        "a": "Seite CLIII\n\nSchluͤßred. CLIII\nſin mag/ob glych die krafft Gottes allenthalben iſt. Deß=\nhalb er lyblich by vns ordenlich nit ſin mag/nach Mar=\nci wort/am v oj.",
+        "a": "Schluͤßred. CLIII\nſin mag/ob glych die krafft Gottes allenthalben iſt. Deß=\nhalb er lyblich by vns ordenlich nit ſin mag/nach Mar=\nci wort/am v oj.",
         "b": "daß ſyn Menſch-\nheit nit mehr dann an einem Ort ordenlich ſyn mag/ obglych die Krafft Gottes allenthalben iſt. Deßhalb\ner lyblich by uns ordenlich nit ſyn mag /",
-        "similarity": 0.4407,
-        "semantic": 0.2258,
-        "reading": "different"
+        "similarity": 0.4561
       },
       {
         "op": "match",
         "a": "vnd Lucas Acto. j. Biß an den tag/da\ner zů Gericht ſitzen wirt.zc. nach den articklen des Glou\nbens.",
         "b": "nach Marci\nWort am 16. Capitel / und Lucas Actorum am 1. Biß\nan den Tag / da er zů Gericht ſitzen wird /",
-        "similarity": 0.5238,
-        "semantic": 0.7343,
-        "reading": "same"
+        "similarity": 0.5238
       },
       {
         "op": "match",
         "a": "Zum fuͤnfften/ſpricht Paulus zun Hebreern/ am. ij. capitel: Er hat die Engliſche natur nit an ſich ge\nnomen (in welchem wirt aller hoͤchſten vñ niderſten crea\nturen/natur verſtanden) ſonder des geſchlächts oder ſa\nmen Abrahams/hat er an ſ",
         "b": "ꝛc. nach den Ar-\nticklen deß Glaubens. Zum fünfften / ſpricht Paulus\nzun Hebreern am 2. Cap. Er hat die Engliſche Natur nit\nan ſich genomen (in welchem wird der allerhöchſten und\nniderſten Creaturen Natur verſtanden) ſonders deß Ge-\nſchlechts oder Samen Abrahams /",
-        "similarity": 0.4941,
-        "semantic": 0.9029,
-        "reading": "reworded"
+        "similarity": 0.4941
       },
       {
         "op": "only_b",
@@ -101,23 +95,18 @@
         "b": "Capitel / da Chri-\nſtus die für falſche Propheten anzeiget / die Chriſtum hie\noder\n\n## Marginalien\nſuch hie\nvor am\n243. blat.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.621,
-    "reworded": 1,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 0
+    ]
   },
   "fine": {
-    "similarity": 0.2768,
+    "similarity": 0.2782,
     "words": {
-      "a": 95,
+      "a": 93,
       "b": 288
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite CLIII Schlu ßred CLIII ſin",
+        "a": "Schlu ßred CLIII ſin",
         "b": "316 Die Vierdte Schlußred heit unendlich und unermeßlich ſonder yngezihlt und ermeßlich der Menſchlichen Subſtanz nach geweſen iſt Daruß allem folget daß ſyn Menſch heit nit mehr dann an einem Ort ordenlich ſyn"
       },
       {

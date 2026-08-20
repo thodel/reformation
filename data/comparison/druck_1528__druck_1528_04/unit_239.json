@@ -8,15 +8,15 @@
       277
     ]
   },
-  "alignment_score": 0.398,
+  "alignment_score": 0.4062,
   "coarse": {
     "paragraphs": {
-      "a": 3,
+      "a": 2,
       "b": 2
     },
     "counts": {
       "equal": 0,
-      "replace": 3,
+      "replace": 2,
       "delete": 0,
       "insert": 0
     },
@@ -27,7 +27,7 @@
     "matched": 2,
     "only_a": 1,
     "only_b": 7,
-    "similarity": 0.5121,
+    "similarity": 0.5197,
     "pairs": [
       {
         "op": "only_b",
@@ -67,28 +67,21 @@
       },
       {
         "op": "match",
-        "a": "Seite CXII\n\nSchlußred. CXII\n\nmentlich Brot/vnd das an den oꝛten/da ſy das Nacht=\nmal beſchryben: dann diß nützit anders iſt/weder bewä\nren/ein yedes durch ſich ſelbs (idem per ſeipſum probare) Vnſer\nſpan iſt/ob die woꝛt/Das iſt min lychnam/müſſend wä=\nſenlich vnnd ſubſtantzlich verſtanden werden.",
+        "a": "Schlußred. CXII\n\nmentlich Brot/vnd das an den oꝛten/da ſy das Nacht=\nmal beſchryben: dann diß nützit anders iſt/weder bewä\nren/ein yedes durch ſich ſelbs (idem per ſeipſum probare) Vnſer\nſpan iſt/ob die woꝛt/Das iſt min lychnam/müſſend wä=\nſenlich vnnd ſubſtantzlich verſtanden werden.",
         "b": "da ſy\ndas Nachtmal beſchrybennd: Dann diß nuͤtzit\nanders iſt/ weder bewaͤren/ ein yedes durch ſich\nſelbs (Idem per ſeipſum probare) Vnſer ſpan\niſt/",
-        "similarity": 0.5714,
-        "semantic": 0.8088,
-        "reading": "same"
+        "similarity": 0.5867
       },
       {
         "op": "match",
         "a": "Vnnd ſo\nvnſer widerparth by den ſelbe woꝛtē (als ich wol denck)\nnit beſtaan mag/ſo ſüchet ſy ein woꝛt der verheyſſung/",
         "b": "ob die wort/ Das iſt min lychnam/muͤſſind\nwaͤſenlich vnnd ſubſtantzlich verſtandenn wer-\nden. Vnnd ſo vnſer widerparthy by den ſelben\nworten (als ich wol denck) nit beſtaan mag/",
-        "similarity": 0.4528,
-        "semantic": 0.687,
-        "reading": "reworded"
+        "similarity": 0.4528
       },
       {
         "op": "only_a",
         "a": "da aber kein verheyſſung iſt/des Sacraments/von dem\nder ſpan iſt. Vnnd ſo ſy das ſelb oꝛt bewären ſöllend/ein\nverheyſſung ſin/ſo wellend ſy es bewären mit den woꝛ=\ntenn/denen ſy diſe zehil",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7632,
-        "semantic_match": "ſo\nſuͤcht ſy ein wort der verheyſſung/da aber kein",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -96,25 +89,15 @@
         "b": "ſo\nſuͤcht ſy ein wort der verheyſſung/da aber kein",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.753,
-    "reworded": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.3314,
+    "similarity": 0.3333,
     "words": {
-      "a": 109,
+      "a": 107,
       "b": 241
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite CXII",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Schlußred",
@@ -246,7 +229,7 @@
         "b": ""
       }
     ],
-    "ops": 14,
+    "ops": 13,
     "truncated": false
   }
 }

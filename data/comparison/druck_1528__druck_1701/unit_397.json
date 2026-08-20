@@ -8,10 +8,10 @@
       412
     ]
   },
-  "alignment_score": 0.3696,
+  "alignment_score": 0.3806,
   "coarse": {
     "paragraphs": {
-      "a": 5,
+      "a": 4,
       "b": 6
     },
     "counts": {
@@ -23,21 +23,12 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 12,
+    "units": 11,
     "matched": 6,
-    "only_a": 1,
+    "only_a": 0,
     "only_b": 5,
-    "similarity": 0.5039,
+    "similarity": 0.5025,
     "pairs": [
-      {
-        "op": "only_a",
-        "a": "Seite 149\n\n<br>\nDie fünffe\n<br>\n\nSüch hienoch mit sinem tod/es ist ouch offentlich erfũden/das nit al=\nam 149 blat.",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6398,
-        "semantic_match": "396          Die Fünffte Schlußred. tua, Nimm wahr dyn Můter / ſpricht der Text am ſelben\nOrt / und vß diſer ſtund hat er ſy genommen in ſyn Hůt.",
-        "reading": "candidate"
-      },
       {
         "op": "only_b",
         "a": null,
@@ -64,51 +55,39 @@
       },
       {
         "op": "match",
-        "a": "lein das fleysch Christi liplich geessen/nit das testament\nist/sonders ouch syn eygē blůt/nit das testament ist: son\nder das /",
+        "a": "Die fünffe\n \n\nSüch hienoch mit sinem tod/es ist ouch offentlich erfũden/das nit al=\nam 149 blat. lein das fleysch Christi liplich geessen/nit das testament\nist/sonders ouch syn eygē blůt/nit das testament ist:",
         "b": "es iſt auch offentlich erfunden / daß nit allein\ndas Fleiſch Chriſti lyblich geeſſen nit das Teſta-\nment iſt / ſonder auch ſyn eigen Blůt nit das Teſta-\nment iſt:",
-        "similarity": 0.44,
-        "semantic": 0.5596,
-        "reading": "different"
+        "similarity": 0.4242
       },
       {
         "op": "match",
-        "a": "mitt dem das testament ist vffgericht/wie erst\nvnd vormals gehoͤrt. Die Testamenter aber/oder vß=\nrichter/sĩd die Apostel/ist wol recht geredt.",
+        "a": "son\nder das / mitt dem das testament ist vffgericht/wie erst\nvnd vormals gehoͤrt. Die Testamenter aber/oder vß=\nrichter/sĩd die Apostel/ist wol recht geredt.",
         "b": "ſonder das / mit dem das Teſtament iſt vffge-\nricht / wie erſt und vormahls gehöꝛt. Die Teſtamenter\naber oder Ußrichter ſind die Apoſtel /",
-        "similarity": 0.5417,
-        "semantic": 0.8816,
-        "reading": "same"
+        "similarity": 0.549
       },
       {
         "op": "match",
         "a": "Sy teylen\naber das Testament vß/das ist die vergäbne nachlaß=\nung der sũnden. Wie Luce am xxiiij. Matth.",
         "b": "iſt wol recht geredt; Sy theilen aber das Teſtament vß / das iſt die vergebne\nNachlaſſung der Sůnden / wie Luce am 24.",
-        "similarity": 0.5854,
-        "semantic": 0.8845,
-        "reading": "same"
+        "similarity": 0.5854
       },
       {
         "op": "match",
         "a": "xxviij. Marci am letsten. Das die nachlassung der sũnd gepre=\ndiget soͤlle werden/durch die gantzen welt hin.",
         "b": "Matthei\nam 29. Marci am letzten. daß die Nachlaſſung der Sůnd\ngeprediget ſölle werden durch die gantze Welt hin. Das\nvon Johanſen und Maria angezogen iſt /",
-        "similarity": 0.4348,
-        "semantic": 0.6284,
-        "reading": "reworded"
+        "similarity": 0.4348
       },
       {
         "op": "match",
         "a": "Das von\nJohansen vnd Maria angezogen ist/glouben wir gern/ das die můter Christi Johansen sye beuolhen/vnnd er\ndero züchtig vnd getrüwlich gewartet habe.",
         "b": "glauben wir\ngern / daß die Můter Chriſti Johanſen ſeye befohlen / und\ner dero züchtig und getreulich gewartet habe. Meiſter Johannes Wannberger.",
-        "similarity": 0.5217,
-        "semantic": 0.7555,
-        "reading": "same"
+        "similarity": 0.5217
       },
       {
         "op": "match",
         "a": "Meyster Johannes Dannberger. [Initial H] Err Berchtold/wider üwer schlußred Arguier\nich/die da inhalter/Christum den herrn vffopf=\nfern dem vatter/für die sũ",
         "b": "HErr Berchtold / wider euer Schlußred arguier ich / die da innhaltet / Chriſtum den Herren vfopffern\ndem Vatter für die Sůnd der lebenden und todten /",
-        "similarity": 0.5,
-        "semantic": 0.7093,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "only_b",
@@ -116,23 +95,18 @@
         "b": "ꝛc. ſeye\n\n## Marginalien\nſuch hie,\nvor am\n305. und\n306. blat.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7227,
-    "reworded": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.4352,
+    "similarity": 0.4395,
     "words": {
-      "a": 161,
+      "a": 157,
       "b": 248
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite 149 br",
+        "op": "insert",
+        "a": "",
         "b": "396"
       },
       {
@@ -142,7 +116,7 @@
       },
       {
         "op": "replace",
-        "a": "fünffe br Süch hienoch",
+        "a": "fünffe Süch hienoch",
         "b": "Fünffte Schlußred tua Nimm wahr dyn Můter ſpricht der Text am ſelben Ort und vß diſer ſtund hat er ſy genommen in ſyn Hůt Da iſt klar offenbahr daß vß Befelch Chriſti Johannes ſölle ſyn ein zůgebner Hůter Marie Zwingly ES iſt klarlich gnůg angezeigt daß das Teſtament das uns Gott gemacht hat iſt gnådige Vergebung un ſer Sůnd und wie ein jedes Teſtament in Kafft und Weſen komt wann der ſtirbt der das Teſtament ge macht hat daß alſo Chriſtus Jeſus der Sohn Gottes geſtorben iſt und das Teſtament befeſtnet"
       },
       {

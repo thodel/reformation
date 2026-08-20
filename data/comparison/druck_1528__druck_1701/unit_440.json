@@ -8,7 +8,7 @@
       456
     ]
   },
-  "alignment_score": 0.2784,
+  "alignment_score": 0.2804,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -31,7 +31,7 @@
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite CCXIII\n**Schlußred.**\n\netwas/ſonder Gott/der das vff wachſen gibt/der aber\npflantzet/vnd der da begüßt/iſt einer wie der ander/ein\nyegklicher aber wirdt ſin lon empfahen/nach ſiner arbeit\nDann wir ſind gottes gehilffen/jr ſind gottes ackerwerck\nvnd gebüw:ich von Gottes gnaden die mir gebē iſt/hab\nden grund gelegt/als ein wiſer buwmeiſter/ein anderer\nbuwt daruff/ein yegklicher aber ſehe zů/wie er daruff\nbuwe/dan ſouil das fundament antrifft/mag niemand\ndhein anders ſetzen/weder das geſetzt iſt/Chriſtus Je=\nſus.",
+        "a": "**Schlußred.**\n\netwas/ſonder Gott/der das vff wachſen gibt/der aber\npflantzet/vnd der da begüßt/iſt einer wie der ander/ein\nyegklicher aber wirdt ſin lon empfahen/nach ſiner arbeit\nDann wir ſind gottes gehilffen/jr ſind gottes ackerwerck\nvnd gebüw:ich von Gottes gnaden die mir gebē iſt/hab\nden grund gelegt/als ein wiſer buwmeiſter/ein anderer\nbuwt daruff/ein yegklicher aber ſehe zů/wie er daruff\nbuwe/dan ſouil das fundament antrifft/mag niemand\ndhein anders ſetzen/weder das geſetzt iſt/Chriſtus Je=\nſus.",
         "b": null,
         "similarity": 0.0
       },
@@ -93,17 +93,13 @@
         "op": "match",
         "a": "So nun yemand der leerende/die zůhörer alſo grün=\ndet vff Chriſtum/da ſo ſchon das fhür der verfolgung\nkompt/ſo wenig wider ſy vermag/als das Elementiſch\nfhür/in gold/ſilber/vnd Edelgeſteyn/ſo ligt es am tag/",
         "b": "da\nso schon das Feuer der Verfolgung komt / so wenig wi-\nder sy vermag / als das Elementisch Feuer in Gold /",
-        "similarity": 0.4746,
-        "semantic": 0.5141,
-        "reading": "different"
+        "similarity": 0.4746
       },
       {
         "op": "match",
         "a": "wie trüwlich der leerer/das volck mitt dem wort Got=\ntes erbuwen hatt/diewil es ee das läben/dann das wort\ngottes verlieſſe.",
         "b": "Silber und Edelgestein / so ligt es am Tag / wie treu-\nlich der Lehrer das volck mit dem Wort Gottes erbauen\nhat /",
-        "similarity": 0.3182,
-        "semantic": 0.5801,
-        "reading": "different"
+        "similarity": 0.3182
       },
       {
         "op": "only_a",
@@ -115,10 +111,7 @@
         "op": "only_a",
         "a": "gold/ſilber/vnd Edelgeſtein vffgebuwen hat/vnd wirt\nnach ſinem buwen/den lon empfahen:ſo aber yemands\nwerck verbrent wirt/ſo ſind ſy holtz höw vnnd ſtufflen\ngeſin/vnnd wiewol der Prediger/ein ſchaden lydet/de=\nren ſo er gelert hatt/ſo wirdt doch er ſälig werden/ſo er\ndurch das fhür aller anfechtung/vnuerruckt inn glo=\nben tringt.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6802,
-        "semantic_match": "hab den Grund gelegt / als ein\nwyser Baumeister / ein anderer baut daruff / ein jegli-\ncher aber sehe zů / wie er daruff baue /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -132,23 +125,18 @@
         "b": "diewyl es ehe das Leben / dann das Wort Gottes\nverlieſſe. So aber jemand das Wort Gottes so hinlåſſig\nlehrte / daß uß zůfålliger Verfolgung die Zůhórenden\nabfielen / nit anders / dann wie das Holtz / Heu / und\nStuff-",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.5915,
-    "reworded": 0,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.4164,
+    "similarity": 0.4178,
     "words": {
-      "a": 308,
+      "a": 306,
       "b": 278
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite CCXIII",
+        "op": "insert",
+        "a": "",
         "b": "440 Die Sibend"
       },
       {

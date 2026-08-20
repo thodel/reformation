@@ -8,10 +8,10 @@
       461
     ]
   },
-  "alignment_score": 0.383,
+  "alignment_score": 0.3885,
   "coarse": {
     "paragraphs": {
-      "a": 4,
+      "a": 3,
       "b": 4
     },
     "counts": {
@@ -27,24 +27,19 @@
     "matched": 4,
     "only_a": 2,
     "only_b": 2,
-    "similarity": 0.492,
+    "similarity": 0.4794,
     "pairs": [
       {
         "op": "match",
-        "a": "Seite CXCIII\n\nDie Sechßte Schlußred. Wie Christus ist allein für vns ge=\nstorben / also sol er ein einiger mittler vnd\nfürsprech /",
+        "a": "Die Sechßte Schlußred. Wie Christus ist allein für vns ge=\nstorben / also sol er ein einiger mittler vnd\nfürsprech / zwüschenn Gott dem Vatter\nvnnd vns glöubigen /",
         "b": "CCXVIII\n\nDie ſechſzt Schluſzred\nWie Chriſtus iſt allein fuͤr vns\ngeſtorbẽ/ alſo ſol er ein einiger mit=\nler vnd fuͤrſprech/",
-        "similarity": 0.5581,
-        "semantic": 0.8275,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "only_a",
-        "a": "zwüschenn Gott dem Vatter\nvnnd vns glöubigen / angerüfft werden. Deßhalb all ander mittler vnd fürsprech\nen vßzerhalb disem ytz anzerüffen/võ vns\non grund der geschrifft/",
+        "a": "angerüfft werden. Deßhalb all ander mittler vnd fürsprech\nen vßzerhalb disem ytz anzerüffen/võ vns\non grund der geschrifft/ vffgeworffen.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6172,
-        "semantic_match": "zwiͤſchen Gott\ndem vatter vñ vns gloͤubigen/ an=\ngeruͤfft werdẽ. Deſzhalb all ander\nmitler vnd fuͤrſpraͤchen vſzerthalb\ndiſem zyt anzeruͤffen/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -60,27 +55,21 @@
       },
       {
         "op": "match",
-        "a": "vffgeworffen. Erklärung der sächßten schlußred\nMeyster Frantz Kolb. Iñ der ersten Epistel\nPetri am ij. Cap. Christus ist\nder/d̃ kein sünd nie gethon hat\nvnnd ist in sinem mund d̃ kein\nbetrug nie erfunden/darumb\nsagt er Johannis am xiiij.",
+        "a": "Erklärung der sächßten schlußred\nMeyster Frantz Kolb. Iñ der ersten Epistel\nPetri am ij. Cap. Christus ist\nder/d̃ kein sünd nie gethon hat\nvnnd ist in sinem mund d̃ kein\nbetrug nie erfunden/darumb\nsagt er Johannis am xiiij.",
         "b": "cap. Chriſtus iſt der/ der\nkein ſuͤnd nie gethon\nhat/ vnd iſt in ſinem\nmũd kein Betrug nie\nerfundenn/",
-        "similarity": 0.4839,
-        "semantic": 0.74,
-        "reading": "reworded"
+        "similarity": 0.4918
       },
       {
         "op": "match",
         "a": "ims\nNachtmal. Der fürst diser\nwelt wåre komen / er hette a=\nber nüt an jm kein vrsach des\ntodes / des sich keyn heylig nie\nhat mögen berümen:",
         "b": "darumb\nſagt er Joannis am\nxiiij. im Nachtmal. Der fuͤrſt diſer welt\nwaͤre komen/ er hette aber nuͤt an jm kein vrſach\ndes tods/",
-        "similarity": 0.4444,
-        "semantic": 0.7361,
-        "reading": "reworded"
+        "similarity": 0.4444
       },
       {
         "op": "match",
         "a": "zun Ephe. am ij. Wan von natur\nwaren wir all kinder des zorns / sy haben all sich müssen\nbekennen / vnd sprechen.",
         "b": "des ſich kein heylig nie hat moͤgen be=\nruͤmen/ zun Epheſ. am ij. Dann von natur wa\nren wir all kinder des zorns/ ſy habẽ all ſich muͤſ\nEe ij",
-        "similarity": 0.4815,
-        "semantic": 0.7108,
-        "reading": "reworded"
+        "similarity": 0.4815
       },
       {
         "op": "only_a",
@@ -88,23 +77,18 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7263,
-    "reworded": 3,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.529,
+    "similarity": 0.5325,
     "words": {
-      "a": 158,
+      "a": 156,
       "b": 152
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite CXCIII",
+        "op": "insert",
+        "a": "",
         "b": "CCXVIII"
       },
       {

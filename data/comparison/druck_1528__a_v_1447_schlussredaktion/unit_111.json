@@ -8,15 +8,15 @@
       209
     ]
   },
-  "alignment_score": 0.2143,
+  "alignment_score": 0.2254,
   "coarse": {
     "paragraphs": {
-      "a": 9,
+      "a": 7,
       "b": 1
     },
     "counts": {
       "equal": 0,
-      "replace": 9,
+      "replace": 7,
       "delete": 0,
       "insert": 0
     },
@@ -24,20 +24,20 @@
   },
   "sentences": {
     "units": 10,
-    "matched": 4,
+    "matched": 3,
     "only_a": 3,
-    "only_b": 3,
-    "similarity": 0.3634,
+    "only_b": 4,
+    "similarity": 0.3762,
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [X]\n<div align=\"center\">\n\n**Dicerſt**\n</div>\n\nfür einen hirten vñd ſoll ſpiſen ſine ſchäffly/dann Matth. xviij. Cap. Da hatt Chriſtus ouch allein ſinen jüngern\nvoz ſinem lyden den gewalt geben/zebinden vñd entbin=\nden/was jr binden vff dem ertrich wirt bunden in dem\nhimel/aber Matth.",
+        "a": "**Dicerſt**\n \n\nfür einen hirten vñd ſoll ſpiſen ſine ſchäffly/dann Matth. xviij. Cap. Da hatt Chriſtus ouch allein ſinen jüngern\nvoz ſinem lyden den gewalt geben/zebinden vñd entbin=\nden/was jr binden vff dem ertrich wirt bunden in dem\nhimel/aber Matth.",
         "b": null,
         "similarity": 0.0
       },
       {
         "op": "only_a",
-        "a": "xvj. Da hatt er Petro verheyſſen\nbinden in vil himlen. <div align=\"center\">\n\n**Berchtoldus.**\n</div>\n\nD Ielange vozred/laß ich fallen/vnnd zů dem\nſpruch Matth.",
+        "a": "xvj. Da hatt er Petro verheyſſen\nbinden in vil himlen. **Berchtoldus.**\n \n\nD Ielange vozred/laß ich fallen/vnnd zů dem\nſpruch Matth.",
         "b": null,
         "similarity": 0.0
       },
@@ -55,13 +55,13 @@
       },
       {
         "op": "match",
-        "a": "geſchriben ſtat/iſt dis tags gnůg=\nſam erklärt/das es der Kilchen geſetzt ſy/ꝛc. <div align=\"center\">\nBerchtoldus hatt daruff den text geleſen.",
+        "a": "geſchriben ſtat/iſt dis tags gnůg=\nſam erklärt/das es der Kilchen geſetzt ſy/ꝛc. Berchtoldus hatt daruff den text geleſen.",
         "b": "Das es der kilchen geseit sy / Ber: hat doruff den text\ngelesen/ Bunger/ Iich mein diser text moge die vstlegung\nnit erliden /",
-        "similarity": 0.3478
+        "similarity": 0.3721
       },
       {
         "op": "only_a",
-        "a": "</div>\n\n<div align=\"center\">\n\n**Sennger.**\n</div>\n\nI Ch mein dißer text möge die vßlegung nit erly=\nden/darumb das Chriſtus ſy all gefragt heyge/",
+        "a": "**Sennger.**\n \n\nI Ch mein dißer text möge die vßlegung nit erly=\nden/darumb das Chriſtus ſy all gefragt heyge/ vnd Petrus allein für ſy all geantwurt/darum\ner jne allen die ſchlüſſel heyg geben/dañ weñ das die mey\nnung Chriſti were geſin/ſo hette er wol geſprochen/jch\ngib üch die ſchlüſſel alle/wie Petrus für alle geantwurt\nhatt/der text iſt aber offenbar das er nach aller frag het\ngeſprochen zů Petro/ich wird dir geben die ſchlüſſel/nun\niſt dir zegeben vñ allen zegebẽ vnglich/der text iſt heiter\nvnd",
         "b": null,
         "similarity": 0.0
       },
@@ -78,10 +78,10 @@
         "similarity": 0.0
       },
       {
-        "op": "match",
-        "a": "vnd Petrus allein für ſy all geantwurt/darum\ner jne allen die ſchlüſſel heyg geben/dañ weñ das die mey\nnung Chriſti were geſin/ſo hette er wol geſprochen/jch\ngib üch die ſchlüſſel alle/wie Petrus für alle geantwurt\nhatt/der text iſt aber offenbar das er nach aller frag het\ngeſprochen zů Petro/ich wird dir geben die ſchlüſſel/nun\niſt dir zegeben vñ allen zegebẽ vnglich/der text iſt heiter\nvnd",
+        "op": "only_b",
+        "a": null,
         "b": "wie petrus fuͤr\nall geantwuret hat. Der text ist/ aber offenla\nfrag\nDas er nach aller vd het gesprochen zuͦ petro\nIch wirt dir geben die schluͤssell/",
-        "similarity": 0.3495
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -92,15 +92,15 @@
     ]
   },
   "fine": {
-    "similarity": 0.4155,
+    "similarity": 0.4343,
     "words": {
-      "a": 249,
+      "a": 231,
       "b": 165
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Seite X div align center Dicerſt div für einen hirten",
+        "a": "Dicerſt für einen hirten",
         "b": "Drea aller apostlen dem herren geantwurtet"
       },
       {
@@ -110,7 +110,7 @@
       },
       {
         "op": "delete",
-        "a": "ſoll ſpiſen ſine ſchäffly dann Matth xviij Cap Da hatt Chriſtus ouch allein ſinen jüngern voz ſinem lyden den gewalt geben zebinden vñd entbin den was jr binden vff dem ertrich wirt bunden in dem himel aber Matth xvj Da hatt er Petro verheyſſen binden in vil himlen div align center Berchtoldus div D Ielange vozred laß ich fallen vnnd zů dem ſpruch Matth am xvj Capitel angezogen gib ich die antwurt Petrus hatt in namẽ aller Apo ſtlen dem herrn geantwurtet vñ",
+        "a": "ſoll ſpiſen ſine ſchäffly dann Matth xviij Cap Da hatt Chriſtus ouch allein ſinen jüngern voz ſinem lyden den gewalt geben zebinden vñd entbin den was jr binden vff dem ertrich wirt bunden in dem himel aber Matth xvj Da hatt er Petro verheyſſen binden in vil himlen Berchtoldus D Ielange vozred laß ich fallen vnnd zů dem ſpruch Matth am xvj Capitel angezogen gib ich die antwurt Petrus hatt in namẽ aller Apo ſtlen dem herrn geantwurtet vñ",
         "b": ""
       },
       {
@@ -200,7 +200,7 @@
       },
       {
         "op": "replace",
-        "a": "ꝛc div align center Berchtoldus hatt daruff",
+        "a": "ꝛc Berchtoldus hatt daruff",
         "b": "Ber hat doruff"
       },
       {
@@ -210,7 +210,7 @@
       },
       {
         "op": "replace",
-        "a": "div div align center Sennger div I Ch",
+        "a": "Sennger I Ch",
         "b": "Bunger Iich"
       },
       {

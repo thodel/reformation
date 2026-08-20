@@ -8,15 +8,15 @@
       283
     ]
   },
-  "alignment_score": 0.1959,
+  "alignment_score": 0.1975,
   "coarse": {
     "paragraphs": {
-      "a": 2,
+      "a": 1,
       "b": 1
     },
     "counts": {
       "equal": 0,
-      "replace": 2,
+      "replace": 1,
       "delete": 0,
       "insert": 0
     },
@@ -27,19 +27,19 @@
     "matched": 5,
     "only_a": 7,
     "only_b": 1,
-    "similarity": 0.4195,
+    "similarity": 0.4163,
     "pairs": [
       {
-        "op": "only_a",
-        "a": "Seite LXXV\n\nSchlußred LXXV\nMartinus Butzer. [D]Er Schülmeister fragt/ Diewyl wir vermei-\nnen allein der Biblischen gschrifft zeglouben sin/",
-        "b": null,
-        "similarity": 0.0
+        "op": "match",
+        "a": "Schlußred LXXV\nMartinus Butzer. [D]Er Schülmeister fragt/ Diewyl wir vermei-\nnen allein der Biblischen gschrifft zeglouben sin/ wo wir gründen wellen/",
+        "b": "Die ander Artickel Schlußred\nMartinus buijer\nDer Ochulmeister fragt, Ciewil wir vermeinen\nAllein der Wittisthen Schrift zu glauben bin¬\nwo wir grunden wellen, vnd mitt vs getruckter\nOthrift bewaren, dry Articul des heiligen kristen¬\nlichen glaubens, Een Ersten, Der here Ist w:",
+        "similarity": 0.3125
       },
       {
-        "op": "match",
-        "a": "wo wir gründen wellen/ vnd mit vßgetruckter\nschrifft bewären/ dry artickel des heyligen Chri\nstenlichen gloubens/ Den ersten: Der Herr ist abgestige\nzů den hellen.",
-        "b": "Die ander Artickel Schlußred\nMartinus buijer\nDer Ochulmeister fragt, Ciewil wir vermeinen\nAllein der Wittisthen Schrift zu glauben bin¬\nwo wir grunden wellen, vnd mitt vs getruckter\nOthrift bewaren, dry Articul des heiligen kristen¬\nlichen glaubens, Een Ersten, Der here Ist w:",
-        "similarity": 0.3284
+        "op": "only_a",
+        "a": "vnd mit vßgetruckter\nschrifft bewären/ dry artickel des heyligen Chri\nstenlichen gloubens/ Den ersten: Der Herr ist abgestige\nzů den hellen.",
+        "b": null,
+        "similarity": 0.0
       },
       {
         "op": "match",
@@ -110,15 +110,15 @@
     ]
   },
   "fine": {
-    "similarity": 0.466,
+    "similarity": 0.4679,
     "words": {
-      "a": 262,
+      "a": 260,
       "b": 223
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite LXXV",
+        "op": "insert",
+        "a": "",
         "b": "Die ander Artickel"
       },
       {

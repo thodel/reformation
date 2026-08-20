@@ -8,7 +8,7 @@
       369
     ]
   },
-  "alignment_score": 0.2027,
+  "alignment_score": 0.2083,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,24 +23,15 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 16,
-    "matched": 1,
-    "only_a": 3,
-    "only_b": 12,
-    "similarity": 0.3913,
+    "units": 14,
+    "matched": 2,
+    "only_a": 1,
+    "only_b": 11,
+    "similarity": 0.4156,
     "pairs": [
       {
         "op": "only_a",
-        "a": "Seite [X]\nDie fünffte\nſterthumb / deßhalb er dheins erſetzens bedarff. Zum\nvierden. Er erſchint vor dem angeſicht Gottes / vnnd\nvertrittet vnns /",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6583,
-        "semantic_match": "ein Laͤſterung. Daß ſy aber\nder Mißbruͤchen halb ein Greuel ſey vor Gott / erfindt\nſich alſo. Alles das vſſerhalb dem Ynsatz Chriſti in der\nMaͤß jetzt gebraucht /",
-        "reading": "candidate"
-      },
-      {
-        "op": "only_a",
-        "a": "darumb werden jr inn nit Repreſen=\ntatiue / das iſt inn widerſtelliger wyß opffern. Zum\nfünfften. Er hats vollender vnd volkomen gemacht /",
+        "a": "Die fünffte\nſterthumb / deßhalb er dheins erſetzens bedarff. Zum\nvierden. Er erſchint vor dem angeſicht Gottes / vnnd\nvertrittet vnns / darumb werden jr inn nit Repreſen=\ntatiue /",
         "b": null,
         "similarity": 0.0
       },
@@ -52,23 +43,15 @@
       },
       {
         "op": "match",
-        "a": "wz\niſt dann der yetzigen Prieſtern opffern anders / dann eyn\nſchmächen des opffers Chriſti. Zum ſechßten. Er hatt\nein ewige erlöſung erfundē /",
+        "a": "das iſt inn widerſtelliger wyß opffern. Zum\nfünfften. Er hats vollender vnd volkomen gemacht / wz\niſt dann der yetzigen Prieſtern opffern anders /",
         "b": "Zum\nfuͤnfften. Er hats vollendet vnd vollkommen gemacht / was iſt dann der jetzigen Prieſtern opffern anders / dann\nein ſchmaͤhen deß Opffers Chriſti.",
-        "similarity": 0.3913,
-        "semantic": 0.8672,
-        "reading": "reworded"
+        "similarity": 0.4783
       },
       {
-        "op": "only_a",
-        "a": "was ſeelen welle dan die prie\nſter mit den Meßen erlöſen. Zum ſibenden. Es i",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
+        "op": "match",
+        "a": "dann eyn\nſchmächen des opffers Chriſti. Zum ſechßten. Er hatt\nein ewige erlöſung erfundē / was ſeelen welle dan die prie\nſter mit den Meßen erlöſen. Zum ſibenden. Es i",
         "b": "Zum ſechſten. Er\nhat ein ewige Erloͤſung erfunden / was Seelen woͤllen\ndann die Prieſter mit den Maͤſſen erloͤſen?",
-        "similarity": 0.0
+        "similarity": 0.3529
       },
       {
         "op": "only_b",
@@ -130,25 +113,15 @@
         "b": "ſo ſy in aͤrger-\nnus leben / vnd die Pfaffen (ob ſy ſchon die boͤſten ſind)\n                                                       all",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7628,
-    "reworded": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
-    "candidates": 1
+    ]
   },
   "fine": {
-    "similarity": 0.1897,
+    "similarity": 0.1907,
     "words": {
-      "a": 79,
+      "a": 77,
       "b": 290
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite X",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Die",
@@ -370,7 +343,7 @@
         "b": "drit ten Daß ohn Glauben vnd Liebe ſo vil an vßwendi gen Fru chten erkennt mag werden von Prieſtern die eines a rgerlichen Lebens ſind die Ma ß all Tag ge halten wird Heißt das nit die Sacrament von Gott yngesetzt verla ſtern Zum vierdten Daß ja hrlich den Leyen die Sacrament verbotten werden ſo ſy in a rger nus leben vnd die Pfaffen ob ſy ſchon die bo ſten ſind all"
       }
     ],
-    "ops": 23,
+    "ops": 22,
     "truncated": false
   }
 }
