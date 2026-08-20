@@ -63,9 +63,19 @@ def load_model(name: str = MODEL_NAME):
 
 
 def embed(model, texts: list[str]):
-    import numpy as np  # noqa: F401
     return model.encode(texts, batch_size=32, show_progress_bar=False,
                         normalize_embeddings=True)
+
+
+def _cosine(a, b) -> float:
+    """Dot product of two already-normalised vectors.
+
+    Imported lazily so the module stays usable - and testable - without the
+    embedding stack installed. A unit with nothing to embed must not require
+    numpy to be present.
+    """
+    import numpy as np
+    return float(np.dot(a, b))
 
 
 def classify(character: float, semantic: float) -> str:
@@ -81,14 +91,13 @@ def classify(character: float, semantic: float) -> str:
 
 def annotate_unit(model, unit: dict[str, Any]) -> dict[str, Any]:
     """Add semantic similarity to a unit's sentence pairs."""
-    import numpy as np
     pairs = unit.get("sentences", {}).get("pairs", [])
     matched = [p for p in pairs if p["op"] == "match" and p.get("a") and p.get("b")]
     if matched:
         ea = embed(model, [p["a"] for p in matched])
         eb = embed(model, [p["b"] for p in matched])
         for i, p in enumerate(matched):
-            semantic = float(np.dot(ea[i], eb[i]))
+            semantic = _cosine(ea[i], eb[i])
             p["semantic"] = round(semantic, 4)
             p["reading"] = classify(p.get("similarity", 0.0), semantic)
 
@@ -101,7 +110,7 @@ def annotate_unit(model, unit: dict[str, Any]) -> dict[str, Any]:
         ea = embed(model, [p["a"] for p in only_a])
         eb = embed(model, [p["b"] for p in only_b])
         for i, pa in enumerate(only_a):
-            scores = [float(np.dot(ea[i], eb[j])) for j in range(len(only_b))]
+            scores = [_cosine(ea[i], eb[j]) for j in range(len(only_b))]
             best = max(range(len(scores)), key=lambda j: scores[j])
             if scores[best] >= SEMANTIC_FLOOR:
                 pa["semantic"] = round(scores[best], 4)
