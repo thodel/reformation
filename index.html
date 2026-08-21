@@ -1097,10 +1097,46 @@ async function loadEntityIndex() {
   }
 }
 
-// Show entity section
 // The old entity register was replaced by the person register above.
 // It linked 969 of 986 entries to one Metagrid id that does not resolve,
 // counted Bible books as people, and split each person across spellings.
+
+// Keyboard handlers for the page and search inputs. This block was lost when
+// the dead entity register was removed: it sat inside the deleted range, so
+// typing a page number stopped doing anything while the arrows still worked,
+// and Enter stopped triggering both the book search and the global search.
+document.addEventListener("DOMContentLoaded", function() {
+  ['predigten', 'disputation'].forEach(function(section) {
+    const bookInput = document.getElementById(`${section}-book-search-input`);
+    if (!bookInput) return;
+    bookInput.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') { e.preventDefault(); triggerBookSearch(section); }
+    });
+  });
+
+  const predigtenPageInput = document.getElementById('page-input');
+  if (predigtenPageInput) {
+    predigtenPageInput.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') { e.preventDefault(); goToPredigtenPage(); this.blur(); }
+    });
+    predigtenPageInput.addEventListener('blur', goToPredigtenPage);
+  }
+
+  const disputationPageInput = document.getElementById('disputation-page-input');
+  if (disputationPageInput) {
+    disputationPageInput.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') { e.preventDefault(); goToDisputationPage(); this.blur(); }
+    });
+    disputationPageInput.addEventListener('blur', goToDisputationPage);
+  }
+
+  const gsInput = document.getElementById('gs-input');
+  if (gsInput) {
+    gsInput.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') { e.preventDefault(); triggerGlobalSearch(); }
+    });
+  }
+});
 
 function getDisputationVariantUnavailableMessage(variant) {
   if (variant && variant.availability && variant.availability.available === false) {
