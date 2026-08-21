@@ -810,7 +810,8 @@
   <a href="#" class="active" data-section="home" onclick="showSection(event, 'home')">Startseite</a>
   <a href="#" data-section="uebersicht" onclick="showSection(event, 'uebersicht')">Übersicht</a>
   <a href="#" data-section="predigten" onclick="showSection(event, 'predigten')">Predigten</a>
-  <a href="#" data-section="disputation" onclick="showSection(event, 'disputation')">Disputation</a>
+  <a href="#" data-section="disputation" onclick="showDisputationGroup(event, 'manuscript')">Manuskripte der Disputation</a>
+  <a href="#" data-section="drucke" onclick="showDisputationGroup(event, 'print')">Drucke der Disputation</a>
   <a href="#" data-section="ressourcen" onclick="showSection(event, 'ressourcen')">Ressourcen</a>
   <a href="#" data-section="vergleich" onclick="showSection(event, 'vergleich')">Vergleich</a>
   <a href="#" data-section="suche" onclick="showSection(event, 'suche')">Suche</a>
@@ -920,15 +921,8 @@
 
   <div id="disputation" class="section-page">
     <h2 class="section-title">Disputation</h2>
-    <p class="section-subtitle" id="disputation-variant-title">Disputation — Druck von 1528</p>
-    <div class="variant-switcher">
-      <a href="#" class="variant-link active" data-disputation-variant="druck-1528" onclick="switchDisputationVariant(event, 'druck-1528')">1) Druck von 1528</a>
-      <a href="#" class="variant-link" data-disputation-variant="a-v-1447" onclick="switchDisputationVariant(event, 'a-v-1447')">2) A V 1447: Schlussredaktion</a>
-      <a href="#" class="variant-link" data-disputation-variant="a-v-1443" onclick="switchDisputationVariant(event, 'a-v-1443')">3) A V 1443: Hertwig</a>
-      <a href="#" class="variant-link" data-disputation-variant="a-v-1444" onclick="switchDisputationVariant(event, 'a-v-1444')">4) A V 1444: Cyro</a>
-      <a href="#" class="variant-link" data-disputation-variant="a-v-1445" onclick="switchDisputationVariant(event, 'a-v-1445')">5) A V 1445: Schöni</a>
-      <a href="#" class="variant-link" data-disputation-variant="a-v-1446" onclick="switchDisputationVariant(event, 'a-v-1446')">6) A V 1446: Rümlang</a>
-    </div>
+    <p class="section-subtitle" id="disputation-variant-title">Disputation</p>
+    <div class="variant-switcher" id="disputation-variant-switcher"></div>
     <div class="viewer-container">
       <div class="viewer-col">
         <div class="viewer-col-header">📜 Faksimile</div>
@@ -1269,7 +1263,8 @@ function renderSourceTable() {
 const DISPUTATION_VARIANTS = [
   {
     id: "druck-1528",
-    label: "Druck von 1528",
+    group: "print",
+    label: "Druck, 23. März 1528",
     basePath: "data/disputation/druck_1528",
     manifestUrl: null,
     defaultTotalPages: 496,
@@ -1279,6 +1274,7 @@ const DISPUTATION_VARIANTS = [
   },
   {
     id: "a-v-1447",
+    group: "manuscript",
     label: "A V 1447: Schlussredaktion",
     basePath: "data/disputation/a_v_1447_schlussredaktion",
     manifestUrl: null,
@@ -1289,6 +1285,7 @@ const DISPUTATION_VARIANTS = [
   },
   {
     id: "a-v-1443",
+    group: "manuscript",
     label: "A V 1443: Hertwig",
     basePath: "data/disputation/a_v_1443_hertwig",
     manifestUrl: null,
@@ -1299,6 +1296,7 @@ const DISPUTATION_VARIANTS = [
   },
   {
     id: "a-v-1444",
+    group: "manuscript",
     label: "A V 1444: Cyro",
     basePath: "data/disputation/a_v_1444_cyro",
     manifestUrl: null,
@@ -1309,6 +1307,7 @@ const DISPUTATION_VARIANTS = [
   },
   {
     id: "a-v-1445",
+    group: "manuscript",
     label: "A V 1445: Schöni",
     basePath: "data/disputation/a_v_1445_schoeni",
     manifestUrl: null,
@@ -1319,6 +1318,7 @@ const DISPUTATION_VARIANTS = [
   },
   {
     id: "a-v-1446",
+    group: "manuscript",
     label: "A V 1446: Rümlang",
     basePath: "data/disputation/a_v_1446_ruemlang",
     manifestUrl: null,
@@ -1326,6 +1326,50 @@ const DISPUTATION_VARIANTS = [
     transcriptionBasePath: "data/disputation/a_v_1446_ruemlang/transcriptions",
     translationBasePath: "data/disputation/a_v_1446_ruemlang/translations",
     entityIndexPath: "data/disputation/a_v_1446_ruemlang/entities/named_entities.json"
+  },
+  {
+    id: "druck-1528-04",
+    group: "print",
+    label: "Druck, 23. April 1528",
+    basePath: "data/prints/druck_1528_04",
+    manifestUrl: null,
+    defaultTotalPages: 570,
+    transcriptionBasePath: "data/prints/druck_1528_04/transcriptions",
+    translationBasePath: null,
+    entityIndexPath: null
+  },
+  {
+    id: "druck-1608-bern",
+    group: "print",
+    label: "Druck 1608 (Bern)",
+    basePath: "data/prints/druck_1608_bern",
+    manifestUrl: null,
+    defaultTotalPages: 568,
+    transcriptionBasePath: "data/prints/druck_1608_bern/transcriptions",
+    translationBasePath: null,
+    entityIndexPath: null
+  },
+  {
+    id: "druck-1608-zuerich",
+    group: "print",
+    label: "Druck 1608 (Zürich)",
+    basePath: "data/prints/druck_1608_zuerich",
+    manifestUrl: null,
+    defaultTotalPages: 836,
+    transcriptionBasePath: "data/prints/druck_1608_zuerich/transcriptions",
+    translationBasePath: null,
+    entityIndexPath: null
+  },
+  {
+    id: "druck-1701",
+    group: "print",
+    label: "Druck 1701",
+    basePath: "data/prints/druck_1701",
+    manifestUrl: null,
+    defaultTotalPages: 672,
+    transcriptionBasePath: "data/prints/druck_1701/transcriptions",
+    translationBasePath: null,
+    entityIndexPath: null
   }
 ];
 
@@ -1926,9 +1970,10 @@ function getCurrentDisputationVariant() {
 
 // URL routing for deep linking: #/disputation/druck-1528/25 or /disputation/druck-1528/25
 function parseDisputationUrl() {
-  // Check hash first (#/disputation/variant/page)
+  // Both prefixes resolve. #/disputation/... links are already published and
+  // cited, so they must keep working whichever group the witness now sits in.
   const hash = window.location.hash;
-  let match = hash.match(/^#\/disputation\/([^\/]+)\/(\d+)/);
+  let match = hash.match(/^#\/(?:disputation|drucke)\/([^\/]+)\/(\d+)/);
   if (match) {
     const variantId = match[1];
     const pageNum = parseInt(match[2], 10);
@@ -1946,11 +1991,15 @@ function parseDisputationUrl() {
   return null;
 }
 
+function disputationUrlPrefix() {
+  return groupOfVariant(disputationState.variantId) === "print" ? "drucke" : "disputation";
+}
+
 function updateDisputationUrl() {
   const variant = getCurrentDisputationVariant();
   const pageNum = disputationState.currentPageIndex + 1;
-  // Use hash-based routing for better GitHub Pages compatibility
-  const newHash = `#/disputation/${variant.id}/${pageNum}`;
+  // Prints get their own prefix so the two tabs are distinguishable in a link.
+  const newHash = `#/${disputationUrlPrefix()}/${variant.id}/${pageNum}`;
   if (window.location.hash !== newHash) {
     window.location.hash = newHash;
   }
@@ -2034,7 +2083,9 @@ window.addEventListener('hashchange', () => {
     // move the page within one already open.
     const section = document.getElementById('disputation');
     if (!section || !section.classList.contains('active')) {
+      disputationGroup = groupOfVariant(disputationParams.variantId);
       showSectionById('disputation');
+      renderVariantSwitcher();
       initDisputationViewer();
     }
     if (variant.id !== disputationState.variantId) {
@@ -2081,6 +2132,7 @@ function switchDisputationVariantById(variantId) {
 }
 
 function setActiveDisputationVariantLink(variantId) {
+  renderVariantSwitcher();
   document.querySelectorAll('[data-disputation-variant]').forEach((link) => {
     const currentVariantId = link.getAttribute('data-disputation-variant');
     const variant = DISPUTATION_VARIANTS.find((item) => item.id === currentVariantId);
@@ -4002,6 +4054,64 @@ function jumpToSegment(segmentId) {
   if (button) button.scrollIntoView({ block: "center", behavior: "smooth" });
 }
 
+// ---------------------------------------- Zwei Register, ein Betrachter
+// Manuscripts and prints are shown in separate tabs but through the same
+// viewer: the machinery for facsimile, page navigation and transcription is
+// identical, and duplicating it would mean maintaining it twice. The tabs
+// differ only in which group of witnesses the switcher offers.
+//
+// #/disputation/... keeps working whichever group the witness belongs to.
+// Those links are already published, and a citation that stops resolving
+// because a tab was renamed is a broken citation.
+let disputationGroup = "manuscript";
+
+function variantsInGroup(group) {
+  return DISPUTATION_VARIANTS.filter((v) => (v.group || "manuscript") === group);
+}
+
+function renderVariantSwitcher() {
+  const host = document.getElementById("disputation-variant-switcher");
+  if (!host) return;
+  const variants = variantsInGroup(disputationGroup);
+  host.innerHTML = variants.map((v, i) => {
+    const active = v.id === disputationState.variantId ? " active" : "";
+    return `<a href="#" class="variant-link${active}" data-disputation-variant="${escapeHtml(v.id)}"
+      onclick="switchDisputationVariant(event, '${escapeHtml(v.id)}')">${i + 1}) ${escapeHtml(v.label)}</a>`;
+  }).join("");
+}
+
+function showDisputationGroup(event, group) {
+  if (event) event.preventDefault();
+  disputationGroup = group;
+  const current = DISPUTATION_VARIANTS.find((v) => v.id === disputationState.variantId);
+  // Entering a tab whose group the current witness does not belong to moves to
+  // that group's first witness, rather than showing a switcher with nothing
+  // selected.
+  if (!current || (current.group || "manuscript") !== group) {
+    const first = variantsInGroup(group)[0];
+    if (first) {
+      disputationState.variantId = first.id;
+      resetDisputationVariantState();
+    }
+  }
+  document.querySelectorAll(".section-page").forEach((el) => el.classList.remove("active"));
+  document.getElementById("disputation").classList.add("active");
+  document.querySelectorAll("nav a").forEach((a) => a.classList.remove("active"));
+  const nav = document.querySelector(`nav a[data-section="${group === "print" ? "drucke" : "disputation"}"]`);
+  if (nav) nav.classList.add("active");
+
+  renderVariantSwitcher();
+  updateDisputationVariantTitle();
+  initDisputationViewer();
+  updateDisputation();
+  updateDisputationUrl();
+}
+
+function groupOfVariant(variantId) {
+  const v = DISPUTATION_VARIANTS.find((x) => x.id === variantId);
+  return (v && v.group) || "manuscript";
+}
+
 // Sticky nav effect.
 function updateNavElevation() {
   const nav = document.querySelector('nav');
@@ -4041,8 +4151,14 @@ updatePredigten();
   }
   const disputationParams = parseDisputationUrl();
   if (disputationParams && disputationParams.variantId) {
+    disputationGroup = groupOfVariant(disputationParams.variantId);
     showSectionById('disputation');
+    const navId = disputationGroup === "print" ? "drucke" : "disputation";
+    document.querySelectorAll("nav a").forEach((a) => a.classList.remove("active"));
+    const nav = document.querySelector(`nav a[data-section="${navId}"]`);
+    if (nav) nav.classList.add("active");
     navigateToDisputationFromUrl();
+    renderVariantSwitcher();
     initDisputationViewer();
     updateDisputation();
     return;
