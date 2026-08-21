@@ -52,7 +52,9 @@ TITLES = re.compile(
     r"amman|weibel|vogt|prior|abt|bruder|vatter|junker|gnaden)s?$"
 )
 MIN_MENTIONS = 3
-SIMILARITY = 0.86
+# 0.85, not 0.86: "zwingly" against "zwingli" scores 0.857, and at the higher
+# threshold the two forms of the same man sat apart at 854 and 64 mentions.
+SIMILARITY = 0.85
 
 
 def norm_key(name: str) -> str:
@@ -92,10 +94,14 @@ def same_person(a: str, b: str) -> bool:
     token = single[0]
     if len(token) < 4:
         return False
-    return any(
-        difflib.SequenceMatcher(None, token, word).ratio() >= SIMILARITY
-        for word in other
-    )
+    if any(difflib.SequenceMatcher(None, token, word).ratio() >= SIMILARITY
+           for word in other):
+        return True
+    # Recognition splits a word at a line break often enough to matter:
+    # "Bůchſtab" also appears as "Buͤchſtab" with a space, giving "bu chstab",
+    # which matches neither of its own halves. Compare the joined form too.
+    joined = "".join(other)
+    return difflib.SequenceMatcher(None, token, joined).ratio() >= SIMILARITY
 
 
 def cluster(entities: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -169,13 +175,25 @@ def main() -> int:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     table = OUT_DIR / "persons.tsv"
 
+    # A hand-made decision must follow the person, not the string. Keyed on the
+    # cluster key alone, a re-extraction that changed the dominant spelling
+    # orphaned it: eight of ten confirmed HLS links were lost that way when the
+    # prints were extracted and "berchtold" became "berchtoldus". Every surface
+    # form of the old cluster is therefore an entry point back to its decision.
     existing: dict[str, list[str]] = {}
     if table.exists():
         with table.open(encoding="utf-8") as fh:
             rows = list(csv.reader(fh, delimiter="\t"))
         head = rows[0]
+        key_i, forms_i = head.index("key"), head.index("forms")
         for row in rows[1:]:
-            existing[row[head.index("key")]] = row
+            if len(row) <= forms_i:
+                continue
+            existing.setdefault(row[key_i], row)
+            for form in row[forms_i].split("|"):
+                form_key = norm_key(form.strip())
+                if form_key:
+                    existing.setdefault(form_key, row)
 
     header = ["key", "label", "mentions", "forms", "hls_id", "hls_title",
               "hls_years", "confirmed", "pages"]
@@ -184,6 +202,11 @@ def main() -> int:
         writer.writerow(header)
         for c in kept:
             prior = existing.get(c["key"])
+            if prior is None:
+                for form in c["forms"]:
+                    prior = existing.get(norm_key(form))
+                    if prior is not None:
+                        break
             writer.writerow([
                 c["key"], c["label"], c["mentions"],
                 " | ".join(dict.fromkeys(c["forms"]))[:200],
