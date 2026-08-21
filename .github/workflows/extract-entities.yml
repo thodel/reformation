@@ -65,10 +65,6 @@ jobs:
             $EXTRA > /tmp/ner.txt 2>&1 || { tail -40 /tmp/ner.txt; exit 1; }
           tail -30 /tmp/ner.txt
 
-      - name: Rebuild the registers on the new entities
-        run: |
-          python3 scripts/build_person_register.py
-          python3 scripts/recognize_bible_refs.py
 
       - name: Summary
         shell: bash
@@ -80,17 +76,55 @@ jobs:
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Commit and push
+      # Two commits, deliberately. The per-witness state is the only thing this
+      # run actually produced; the merged file and the registers are derived
+      # from every witness's state at once. Committing the derived files before
+      # rebasing made two runs conflict on the same regenerated lines, and the
+      # loser threw away its extraction - 1701 lost fourteen minutes of work
+      # that way. Rebasing on state alone, then rebuilding on top, cannot
+      # conflict: the inputs merge cleanly because they are per witness.
+      - name: Commit the extraction state
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/entities/ data/register/
+          git add data/entities/*_state.json
           if git diff --staged --quiet; then
-            echo "No changes to commit."
+            echo "No new extraction state."
+          else
+            git commit -m "chore: extraction state"
+          fi
+          git pull --rebase --autostash
+          git push
+
+      - name: Rebuild the merged file and the registers
+        run: |
+          python3 scripts/extract_entities.py --merge-only
+          python3 scripts/build_person_register.py
+          python3 scripts/recognize_bible_refs.py
+
+      - name: Commit the derived files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add data/entities/named_entities.json data/register/
+          if git diff --staged --quiet; then
+            echo "Nothing derived changed."
             exit 0
           fi
-          git commit -m "chore: extract named entities"
-          git pull --rebase --autostash
+          git commit -m "chore: rebuild entity register"
+          # Derived files are rebuilt from state, so a conflict here is resolved
+          # by regenerating rather than by merging text.
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash; then break; fi
+            git rebase --abort || true
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/extract_entities.py --merge-only
+            python3 scripts/build_person_register.py
+            python3 scripts/recognize_bible_refs.py
+            git add data/entities/named_entities.json data/register/
+            git diff --staged --quiet || git commit -m "chore: rebuild entity register"
+          done
           git push
