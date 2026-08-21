@@ -36,27 +36,48 @@ from typing import Any
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from compare_witnesses import page_texts  # noqa: E402
+from normalize_orthography import normalize  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT_DIR = ROOT / "data" / "segments"
 MIN_PAGES = 1
 MAX_PAGES = 10
 TARGET_PAGES = 6
+# Heads alternate sides, so one intervening page is expected; beyond this the
+# heads have ended.
+HEAD_GAP = 4
 
+# Keys are compared after orthographic normalisation, which folds ů and ü to u
+# and removes the combining macron - so "Die nuͤn̄te", "Die nůndte" and "Die
+# nünte", the three spellings this print uses for the ninth, all arrive as
+# "nunte" or "nundte". Without these the ninth thesis was read as a
+# continuation of the eighth.
 ORDINALS = {
-    "erst": 1, "ander": 2, "dritt": 3, "vierd": 4, "funfft": 5, "fünfft": 5,
-    "sechst": 6, "sibend": 7, "siebend": 7, "acht": 8, "neunt": 9, "neundt": 9,
-    "zehend": 10, "zehnd": 10,
+    "erst": 1, "ander": 2, "dritt": 3, "vierd": 4, "funfft": 5, "funft": 5,
+    "sechst": 6, "sibend": 7, "siebend": 7, "acht": 8,
+    "neunt": 9, "neundt": 9, "nunt": 9, "nundt": 9, "nunndt": 9,
+    "zehend": 10, "zehnd": 10, "zehent": 10,
 }
 HEAD_RE = re.compile(r"(?im)^\s*(?:\*\*)?\s*(?:Die\s+\w+|Schlu[sſß]+red\.?[^\n]{0,12})\s*(?:\*\*)?\s*$")
-ORDINAL_RE = re.compile(r"(?i)^\s*(?:\*\*)?Die\s+([A-Za-zſüöäͤ]+)")
+# The class must admit ů and combining marks: with a narrower one "Die nůndte"
+# captured just "n", and "Die nuͤn̄te" stopped at the macron, so the ninth
+# thesis was never recognised.
+ORDINAL_RE = re.compile(r"(?i)^\s*(?:\*\*)?Die\s+(\S+)")
+
+
+# Both sides must pass through the same transform. normalize() folds v to u, so
+# a raw key of "vierd" stops matching once the observed word becomes "uierde" -
+# which is exactly what happened when this switched to full normalisation.
+ORDINALS = {normalize(k).normalized.lower(): v for k, v in ORDINALS.items()}
 
 
 def thesis_of(text: str) -> int | None:
     match = ORDINAL_RE.search(text[:60])
     if not match:
         return None
-    word = match.group(1).lower().replace("ſ", "s").replace("ͤ", "")
+    # normalize() folds ů/ü to u and strips combining marks; the previous
+    # hand-rolled substitution handled only ſ and the combining e.
+    word = normalize(match.group(1)).normalized.lower()
     for key, number in ORDINALS.items():
         if word.startswith(key):
             return number
@@ -80,11 +101,19 @@ def thesis_spans(texts: dict[int, str], pages: list[int]) -> dict[int, int]:
     """
     assigned: dict[int, int] = {}
     current = 0
+    since_head = 0
     for page in pages:
         found = thesis_of(texts[page])
         if found is not None and found >= current:
             current = found
-        assigned[page] = current
+            since_head = 0
+        else:
+            since_head += 1
+        # The running head is the evidence. It alternates recto/verso, so a gap
+        # of one page is normal; a long gap means the heads have stopped, as
+        # they do after p481 where the closing matter begins. Claiming a thesis
+        # there would assert something the print does not say.
+        assigned[page] = current if since_head <= HEAD_GAP else 0
     return assigned
 
 
@@ -160,6 +189,28 @@ def main() -> int:
     segments = payload["segments"]
 
     table = OUT_DIR / f"{args.witness}_segments.tsv"
+
+    # Carry forward anything a human wrote. Re-running previously discarded all
+    # 83 titles and summaries without warning, which would have thrown away
+    # work this table exists to hold.
+    previous: dict[tuple[int, int], tuple[str, str]] = {}
+    if table.exists():
+        with table.open(encoding="utf-8") as fh:
+            old = list(csv.reader(fh, delimiter="\t"))
+        if old:
+            head = old[0]
+            fp, lp = head.index("first_page"), head.index("last_page")
+            ti, su = head.index("title"), head.index("summary")
+            for row in old[1:]:
+                if len(row) > su:
+                    previous[(int(row[fp]), int(row[lp]))] = (row[ti], row[su])
+    carried = 0
+    for seg in segments:
+        prior = previous.get((seg["first_page"], seg["last_page"]))
+        if prior and prior[0]:
+            seg["title"], seg["summary"] = prior
+            carried += 1
+
     with table.open("w", encoding="utf-8", newline="") as fh:
         writer = csv.writer(fh, delimiter="\t", quoting=csv.QUOTE_MINIMAL)
         writer.writerow(["segment", "thesis", "first_page", "last_page", "pages", "title", "summary"])
@@ -178,6 +229,7 @@ def main() -> int:
     for s in segments:
         by_thesis[s["thesis"]] = by_thesis.get(s["thesis"], 0) + 1
     print(f"  segments per thesis: {dict(sorted(by_thesis.items(), key=lambda x: str(x[0])))}")
+    print(f"  carried forward {carried} existing title(s)")
     print(f"wrote {table.relative_to(ROOT)} (editable) and the JSON beside it")
     return 0
 
