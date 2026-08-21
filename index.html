@@ -724,6 +724,7 @@
     .ub-thesis { margin: 1.4rem 0 0.5rem; font-size: 0.8rem; font-weight: 700; color: #1a3a6b;
       text-transform: uppercase; letter-spacing: 0.06em; border-bottom: 2px solid rgba(26,58,107,0.25);
       padding-bottom: 0.25rem; }
+    .ub-item-link { display: block; text-decoration: none; color: inherit; }
     .ub-item { display: block; text-decoration: none; color: inherit; background: #fff;
       border: 1px solid rgba(0,0,0,0.1); border-radius: 6px; padding: 0.65rem 0.85rem;
       margin-bottom: 0.5rem; transition: border-color 0.12s, box-shadow 0.12s; }
@@ -757,6 +758,44 @@
     .reg-pages a { display: inline-block; margin-right: 0.35rem; color: #1a3a6b;
       text-decoration: none; border-bottom: 1px dotted rgba(26,58,107,0.4); }
     .reg-pages a:hover { border-bottom-style: solid; }
+
+    /* Übersicht: aufklappbare Gliederung */
+    .ub-group { border: 1px solid rgba(0,0,0,0.12); border-radius: 6px; margin-bottom: 0.5rem;
+      background: #fff; overflow: hidden; }
+    .ub-group > summary { cursor: pointer; padding: 0.6rem 0.85rem; font-weight: 700;
+      color: #1a3a6b; font-size: 0.95rem; list-style: none; display: flex;
+      align-items: baseline; gap: 0.6rem; }
+    .ub-group > summary::-webkit-details-marker { display: none; }
+    .ub-group > summary::before { content: "▸"; font-size: 0.8rem; color: var(--ink-soft);
+      transition: transform 0.12s; }
+    .ub-group[open] > summary::before { transform: rotate(90deg); }
+    .ub-group > summary:hover { background: rgba(26,58,107,0.05); }
+    .ub-group-meta { margin-left: auto; font-weight: 400; font-size: 0.82rem;
+      color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+    .ub-group-body { padding: 0 0.6rem 0.5rem; }
+    .ub-tools { display: flex; gap: 0.5rem; margin-bottom: 0.8rem; }
+    .ub-tools button { font-family: var(--font-body); font-size: 0.8rem; cursor: pointer;
+      padding: 0.25rem 0.7rem; border-radius: 999px; border: 1.5px solid rgba(26,58,107,0.3);
+      background: #fff; color: #1a3a6b; }
+    .ub-tools button:hover { background: rgba(26,58,107,0.06); }
+
+    /* Konkordanz */
+    .conc { margin-top: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.3rem; align-items: center; }
+    .conc-label { font-size: 0.75rem; color: var(--ink-soft); margin-right: 0.2rem; }
+    .conc-item { font-size: 0.76rem; padding: 0.1rem 0.45rem; border-radius: 999px;
+      border: 1px solid rgba(26,58,107,0.25); background: rgba(26,58,107,0.04);
+      color: #1a3a6b; text-decoration: none; white-space: nowrap; }
+    .conc-item:hover { background: rgba(26,58,107,0.12); }
+    .conc-item.partial { border-style: dashed; color: #8a5a00;
+      border-color: rgba(138,90,0,0.4); background: rgba(138,90,0,0.06); }
+    .conc-item.missing { border-style: dotted; color: #999; background: transparent;
+      text-decoration: line-through; }
+    .vg-seg-bar { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;
+      margin-bottom: 0.7rem; }
+    .vg-seg-bar select { font-family: var(--font-body); font-size: 0.88rem; padding: 0.3rem 0.4rem;
+      border-radius: 5px; border: 1.5px solid rgba(26,58,107,0.25); background: #fff;
+      color: var(--ink); max-width: 32rem; }
+    .vg-seg-hint { font-size: 0.8rem; color: var(--ink-soft); }
   </style>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
 </head>
@@ -830,6 +869,10 @@
              autocomplete="off" aria-label="Inhaltsverzeichnis durchsuchen"
              oninput="renderUebersicht(); updateSectionUrl('uebersicht', this.value.trim() || null);">
       <span class="ub-count" id="ub-count"></span>
+    </div>
+    <div class="ub-tools">
+      <button onclick="setAllUebersichtGroups(true)">Alle aufklappen</button>
+      <button onclick="setAllUebersichtGroups(false)">Alle zuklappen</button>
     </div>
     <div id="ub-body"><p class="vg-empty">Lade Inhaltsverzeichnis…</p></div>
   </div>
@@ -973,6 +1016,15 @@
         <button class="vg-toggle" id="vg-mode-para" onclick="setVergleichMode('para')">Absatzebene</button>
         <button class="vg-toggle" id="vg-mode-app" onclick="setVergleichMode('app')">Apparat</button>
       </span>
+    </div>
+
+    <div class="vg-seg-bar">
+      <label class="vg-seg-hint">Abschnitt
+        <select id="vg-segment" onchange="jumpToSegment(this.value)">
+          <option value="">— ganzes Werk —</option>
+        </select>
+      </label>
+      <span class="vg-seg-hint" id="vg-seg-note"></span>
     </div>
 
     <div id="vg-status" class="vg-status"></div>
@@ -3191,6 +3243,7 @@ function parseVergleichUrl() {
 
 async function initVergleich() {
   populateVergleichSelectors();
+  populateSegmentSelector();
   const params = parseVergleichUrl();
   if (params) {
     vergleichState.a = params.a;
@@ -3446,6 +3499,7 @@ function parseTsv(text) {
 }
 
 async function initUebersicht() {
+  await loadConcordance();
   if (uebersichtRows) { renderUebersicht(); return; }
   const host = document.getElementById("ub-body");
   try {
@@ -3464,8 +3518,7 @@ function renderUebersicht() {
   if (!host || !uebersichtRows) return;
   const query = (document.getElementById("ub-filter")?.value || "").trim().toLowerCase();
   const rows = query
-    ? uebersichtRows.filter((r) =>
-        `${r.title} ${r.summary}`.toLowerCase().includes(query))
+    ? uebersichtRows.filter((r) => `${r.title} ${r.summary}`.toLowerCase().includes(query))
     : uebersichtRows;
 
   const count = document.getElementById("ub-count");
@@ -3479,33 +3532,59 @@ function renderUebersicht() {
     return;
   }
 
-  let html = "";
-  let thesis = null;
+  // Group by the Schlussrede the print names in its running head. A filtered
+  // view opens every group that still has a hit, so a search is not hidden
+  // behind a closed summary.
+  const groups = [];
   for (const row of rows) {
-    // Group under the Schlussred the print names in its running head; the
-    // opening pages carry none, so they are shown as front matter.
-    if (!query && row.thesis !== thesis) {
-      thesis = row.thesis;
-      html += `<div class="ub-thesis">${
-        thesis ? `${escapeHtml(thesis)}. Schlussrede` : "Vorspann"}</div>`;
+    const key = row.thesis || "";
+    if (!groups.length || groups[groups.length - 1].key !== key) {
+      groups.push({ key, rows: [] });
     }
-    const first = parseInt(row.first_page, 10);
-    const pages = row.first_page === row.last_page
-      ? `S.&nbsp;${escapeHtml(row.first_page)}`
-      : `S.&nbsp;${escapeHtml(row.first_page)}–${escapeHtml(row.last_page)}`;
-    const title = row.title
-      ? escapeHtml(row.title)
-      : '<span class="ub-untitled">ohne Titel</span>';
-    html += `<a class="ub-item" href="#/disputation/${TOC_VARIANT}/${first}"
-        onclick="event.preventDefault(); openTocSegment(${first});">
+    groups[groups.length - 1].rows.push(row);
+  }
+
+  host.innerHTML = groups.map((group, index) => {
+    const label = group.key ? `${escapeHtml(group.key)}. Schlussrede` : "Vorspann und Nachspann";
+    const first = group.rows[0].first_page;
+    const last = group.rows[group.rows.length - 1].last_page;
+    const open = query || index === 0 ? " open" : "";
+    return `<details class="ub-group"${open}>
+      <summary>${label}
+        <span class="ub-group-meta">${group.rows.length} Abschnitt${group.rows.length === 1 ? "" : "e"} · S.&nbsp;${escapeHtml(first)}–${escapeHtml(last)}</span>
+      </summary>
+      <div class="ub-group-body">${group.rows.map(uebersichtItem).join("")}</div>
+    </details>`;
+  }).join("");
+}
+
+function uebersichtItem(row) {
+  const first = parseInt(row.first_page, 10);
+  const pages = row.first_page === row.last_page
+    ? `S.&nbsp;${escapeHtml(row.first_page)}`
+    : `S.&nbsp;${escapeHtml(row.first_page)}–${escapeHtml(row.last_page)}`;
+  const title = row.title
+    ? escapeHtml(row.title)
+    : '<span class="ub-untitled">ohne Titel</span>';
+  // The item is a div, not an anchor. The concordance contains links to the
+  // other editions, and an anchor may not contain another anchor - the parser
+  // hoists the inner ones out, which silently dropped every e-rara link while
+  // leaving the plain markers visible.
+  return `<div class="ub-item">
+      <a class="ub-item-link" href="#/disputation/${TOC_VARIANT}/${first}"
+         onclick="event.preventDefault(); openTocSegment(${first});">
         <span class="ub-head">
           <span class="ub-title">${title}</span>
           <span class="ub-pages">${pages}</span>
         </span>
         ${row.summary ? `<span class="ub-sum">${escapeHtml(row.summary)}</span>` : ""}
-      </a>`;
-  }
-  host.innerHTML = html;
+      </a>
+      ${concordanceHtml(row)}
+    </div>`;
+}
+
+function setAllUebersichtGroups(open) {
+  document.querySelectorAll("#ub-body .ub-group").forEach((el) => { el.open = open; });
 }
 
 function openTocSegment(page) {
@@ -3756,6 +3835,135 @@ function renderBible() {
       <div class="reg-pages">${registerPageLinks(r.pages)}</div>
     </div>`;
   }).join("");
+}
+
+// ------------------------------------------------------------- Konkordanz
+// Where each segment of the base text sits in the other editions. Built from
+// the page alignment, so this is a lookup rather than a second guess at the
+// same question. Coverage is shown rather than hidden: the alignment reaches
+// 95% at best, and a segment placed on a third of its pages is a lead, not a
+// location.
+const CONCORDANCE = "data/segments/concordance.json";
+const CONC_PRINTS = ["druck_1528_04", "druck_1608_bern", "druck_1608_zuerich", "druck_1701"];
+let concordance = null;
+
+async function loadConcordance() {
+  if (concordance) return concordance;
+  try {
+    const resp = await fetch(CONCORDANCE);
+    if (!resp.ok) throw new Error(String(resp.status));
+    concordance = await resp.json();
+  } catch (e) { concordance = { segments: [] }; }
+  concordance.bySegment = {};
+  for (const seg of concordance.segments || []) concordance.bySegment[seg.segment] = seg;
+  return concordance;
+}
+
+function shortWitness(key) {
+  return witnessLabel(key).replace(/^Druck,?\s*/, "").replace(/^A V /, "");
+}
+
+function concordanceHtml(row) {
+  if (!concordance || !concordance.bySegment) return "";
+  const seg = concordance.bySegment[parseInt(row.segment, 10)];
+  if (!seg) return "";
+  const parts = CONC_PRINTS.map((key) => {
+    const e = seg.witnesses[key];
+    const name = escapeHtml(shortWitness(key));
+    if (!e || e.status === "missing") {
+      return `<span class="conc-item missing" title="In dieser Ausgabe nicht nachgewiesen">${name}</span>`;
+    }
+    const pages = e.first_page === e.last_page
+      ? `S.&nbsp;${e.first_page}` : `S.&nbsp;${e.first_page}–${e.last_page}`;
+    const cls = e.status === "partial" ? "conc-item partial" : "conc-item";
+    const title = e.status === "partial"
+      ? `nur ${e.aligned} von ${e.of} Seiten zugeordnet`
+      : `${e.aligned} von ${e.of} Seiten zugeordnet`;
+    if (!e.erara) return `<span class="${cls}" title="${title}">${name} ${pages}</span>`;
+    return `<a class="${cls}" href="${escapeHtml(e.erara)}" target="_blank" rel="noopener"
+      title="${title}" onclick="event.stopPropagation();">${name} ${pages}</a>`;
+  }).join("");
+  return `<span class="conc"><span class="conc-label">Auch in:</span>${parts}</span>`;
+}
+
+// ------------------------------- Abschnittsnavigation im Vergleich
+// The segments are named on the base text; the concordance says which pages
+// each other witness has for them. Selecting a segment therefore jumps to the
+// unit covering it, whichever pair is being compared - the titles from the
+// Übersicht become a way into the comparison rather than a separate index.
+let segmentTitles = null;
+
+async function loadSegmentTitles() {
+  if (segmentTitles) return segmentTitles;
+  try {
+    const resp = await fetch(SEGMENT_TABLE);
+    segmentTitles = resp.ok ? parseTsv(await resp.text()) : [];
+  } catch (e) { segmentTitles = []; }
+  return segmentTitles;
+}
+
+async function populateSegmentSelector() {
+  const select = document.getElementById("vg-segment");
+  if (!select || select.dataset.filled === "1") return;
+  const [rows] = await Promise.all([loadSegmentTitles(), loadConcordance()]);
+  if (!rows.length) return;
+  select.innerHTML = '<option value="">— ganzes Werk —</option>' + rows.map((r) => {
+    const label = r.title || `Abschnitt ${r.segment}`;
+    const thesis = r.thesis ? `${r.thesis}. Schlussrede · ` : "";
+    return `<option value="${escapeHtml(r.segment)}">${escapeHtml(thesis)}${escapeHtml(label)} (S. ${escapeHtml(r.first_page)}–${escapeHtml(r.last_page)})</option>`;
+  }).join("");
+  select.dataset.filled = "1";
+}
+
+function segmentPagesFor(segmentId, witness) {
+  // The base text names the segment; every other witness is reached through
+  // the concordance.
+  const row = (segmentTitles || []).find((r) => r.segment === String(segmentId));
+  if (!row) return null;
+  if (witness === "druck_1528") {
+    return { first: parseInt(row.first_page, 10), last: parseInt(row.last_page, 10) };
+  }
+  const seg = concordance && concordance.bySegment && concordance.bySegment[parseInt(segmentId, 10)];
+  const entry = seg && seg.witnesses[witness];
+  if (!entry || entry.status === "missing") return null;
+  return { first: entry.first_page, last: entry.last_page, status: entry.status };
+}
+
+function jumpToSegment(segmentId) {
+  const note = document.getElementById("vg-seg-note");
+  if (!segmentId) {
+    if (note) note.textContent = "";
+    renderVergleichList();
+    return;
+  }
+  const { a, b } = vergleichState;
+  const range = segmentPagesFor(segmentId, a) || segmentPagesFor(segmentId, b);
+  if (!range) {
+    if (note) {
+      note.innerHTML = '<span class="vg-warn">Dieser Abschnitt ist in keiner der '
+        + 'beiden gewählten Fassungen nachgewiesen.</span>';
+    }
+    return;
+  }
+  const side = segmentPagesFor(segmentId, a) ? a : b;
+  const units = (vergleichState.index && vergleichState.index.units) || [];
+  const hit = units.find((u) => {
+    const pages = u.pages[side] || [];
+    return pages.length && pages[0] >= range.first && pages[0] <= range.last;
+  });
+  if (!hit) {
+    if (note) note.innerHTML = '<span class="vg-warn">Für diesen Abschnitt liegt in '
+      + 'diesem Paar keine ausgerichtete Einheit vor.</span>';
+    return;
+  }
+  if (note) {
+    const partial = range.status === "partial"
+      ? " · nur teilweise zugeordnet" : "";
+    note.textContent = `S. ${range.first}–${range.last} in ${witnessLabel(side)}${partial}`;
+  }
+  openVergleichUnit(hit.unit);
+  const button = document.querySelector(`#vg-list button[data-unit="${hit.unit}"]`);
+  if (button) button.scrollIntoView({ block: "center", behavior: "smooth" });
 }
 
 // Sticky nav effect.
