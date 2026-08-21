@@ -838,6 +838,12 @@
     .reg-page-row { display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem;
       margin-top: 0.25rem; }
     .reg-page-row a { margin-right: 0.15rem; }
+
+    .rights-note { font-size: 0.78rem; color: var(--ink-soft); line-height: 1.5;
+      border-left: 3px solid rgba(26,58,107,0.25); padding: 0.45rem 0.7rem;
+      margin: 0.6rem 0 0; background: rgba(26,58,107,0.03); border-radius: 0 4px 4px 0; }
+    .rights-note a { color: #1a3a6b; }
+    .rights-inline { font-size: 0.76rem; color: var(--ink-soft); margin-top: 0.35rem; }
   </style>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
 </head>
@@ -923,6 +929,7 @@
 
   <div id="predigten" class="section-page">
     <h2 class="section-title">Die Predigten (1528)</h2>
+    <div id="disputation-rights"></div>
     <div class="viewer-container">
       <div class="viewer-col">
         <div class="viewer-col-header">📜 Faksimile</div>
@@ -1249,15 +1256,25 @@ async function getDisputationVariantAvailability(variant) {
 // where it has not been confirmed rather than guessed at.
 const WITNESS_METADATA = [
   { key: "druck_1528",         label: "Druck, 23. März 1528",   year: "1528", kind: "Druck",
-    holding: "UB Bern",   pages: 496, doi: "10.3931/e-rara-141267", inEdition: true },
+    holding: "UB Bern",   pages: 496, doi: "10.3931/e-rara-141267", inEdition: true,
+    institution: "Universitätsbibliothek Bern", shelfmark: "MUE AD 124 : 2",
+    rights: "https://creativecommons.org/publicdomain/mark/1.0/", rightsLabel: "Public Domain Mark 1.0" },
   { key: "druck_1528_04",      label: "Druck, 23. April 1528",  year: "1528", kind: "Druck",
-    holding: "UB Bern",   pages: 570, doi: "10.3931/e-rara-127203" },
+    holding: "UB Bern",   pages: 570, doi: "10.3931/e-rara-127203",
+    institution: "Universitätsbibliothek Bern", shelfmark: "MUE H X 83 : 1",
+    rights: "https://creativecommons.org/publicdomain/mark/1.0/", rightsLabel: "Public Domain Mark 1.0" },
   { key: "druck_1608_bern",    label: "Druck 1608 (Bern)",      year: "1608", kind: "Druck",
-    holding: "UB Bern",   pages: 568, doi: "10.3931/e-rara-5557" },
+    holding: "UB Bern",   pages: 568, doi: "10.3931/e-rara-5557",
+    institution: "Universitätsbibliothek Bern", shelfmark: "MUE H IV 206 a : 1",
+    rights: "https://creativecommons.org/publicdomain/mark/1.0/", rightsLabel: "Public Domain Mark 1.0" },
   { key: "druck_1608_zuerich", label: "Druck 1608 (Zürich)",    year: "1608", kind: "Druck",
-    holding: "ZB Zürich", pages: 836, doi: "10.3931/e-rara-80702" },
+    holding: "ZB Zürich", pages: 836, doi: "10.3931/e-rara-80702",
+    institution: "Zentralbibliothek Zürich", shelfmark: "7.487",
+    rights: "https://creativecommons.org/publicdomain/mark/1.0/", rightsLabel: "Public Domain Mark 1.0" },
   { key: "druck_1701",         label: "Druck 1701",             year: "1701", kind: "Druck",
-    holding: "UB Bern",   pages: 672, doi: "10.3931/e-rara-47098" },
+    holding: "UB Bern",   pages: 672, doi: "10.3931/e-rara-47098",
+    institution: "Universitätsbibliothek Bern", shelfmark: "MUE H IV 47",
+    rights: "https://creativecommons.org/publicdomain/mark/1.0/", rightsLabel: "Public Domain Mark 1.0" },
   { key: "a_v_1447_schlussredaktion", label: "A V 1447: Schlussredaktion", year: "1528",
     kind: "Handschrift", holding: "", pages: 755, doi: null, inEdition: true },
   { key: "a_v_1443_hertwig",   label: "A V 1443: Hertwig",  year: "1528", kind: "Handschrift",
@@ -2193,6 +2210,7 @@ function setActiveDisputationVariantLink(variantId) {
 }
 
 function updateDisputationVariantTitle() {
+  updateWitnessRights();
   const variant = getCurrentDisputationVariant();
   const title = document.getElementById('disputation-variant-title');
   if (!title) return;
@@ -4197,6 +4215,48 @@ function witnessLegend() {
     <span class="wit-legend-item">${witnessSigil("a_v_1447_schlussredaktion")} Handschriften</span>
     <span>· Das Sigel benennt die Fassung, die Farbe nur ihre Rolle.</span>
   </div>`;
+}
+
+// ------------------------------------------------------------- Nachweis
+// The facsimiles are shown live from e-rara and never copied here, so the
+// credit has to travel with the view rather than sit on a page nobody opens.
+// Institution and shelfmark come from the IIIF manifests. The rights statement
+// is e-rara's platform-wide Public Domain Mark; the manifests themselves carry
+// no rights field, so it is asserted from the platform terms, not read.
+function witnessRights(key) {
+  const w = WITNESS_METADATA.find((x) => x.key === key);
+  if (!w) return "";
+  const parts = [];
+  if (w.institution) {
+    parts.push(escapeHtml(w.institution) + (w.shelfmark ? `, ${escapeHtml(w.shelfmark)}` : ""));
+  }
+  if (w.doi) {
+    parts.push(`<a href="https://doi.org/${escapeHtml(w.doi)}" target="_blank" rel="noopener">${escapeHtml(w.doi)}</a>`);
+  }
+  if (!parts.length) {
+    // The manuscripts are not on e-rara and their repository is not yet
+    // confirmed, so no provenance is claimed for them - but the caveat about
+    // the text applies to every witness and must not be dropped with it.
+    return `<p class="rights-note">Der Text ist <strong>maschinell erkannt
+      beziehungsweise transkribiert und nicht ediert</strong>. Herkunftsangabe
+      zur Handschrift folgt.</p>`;
+  }
+  const rights = w.rights
+    ? ` · Digitalisat <a href="${escapeHtml(w.rights)}" target="_blank" rel="noopener">${escapeHtml(w.rightsLabel || "Public Domain Mark")}</a>, bereitgestellt von <a href="https://www.e-rara.ch/" target="_blank" rel="noopener">e-rara</a>`
+    : "";
+  return `<p class="rights-note">Faksimile: ${parts.join(" · ")}${rights}.
+    Der Text ist <strong>maschinell erkannt und nicht ediert</strong>.</p>`;
+}
+
+function updateWitnessRights() {
+  const host = document.getElementById("disputation-rights");
+  if (!host) return;
+  const variant = getCurrentDisputationVariant();
+  if (!variant) { host.innerHTML = ""; return; }
+  // Viewer variant ids differ from the data keys used elsewhere.
+  const key = Object.keys(VARIANT_BY_KEY).find((k) => VARIANT_BY_KEY[k] === variant.id)
+    || variant.id.replace(/-/g, "_");
+  host.innerHTML = witnessRights(key);
 }
 
 // Sticky nav effect.
