@@ -735,6 +735,28 @@
     .ub-sum { font-size: 0.88rem; line-height: 1.55; color: var(--ink-soft); margin-top: 0.35rem; }
     .ub-untitled { font-style: italic; color: #999; }
     .ub-empty { color: var(--ink-soft); font-style: italic; }
+
+    /* Register */
+    .reg-only { font-size: 0.85rem; color: var(--ink-soft); display: inline-flex;
+      align-items: center; gap: 0.3rem; white-space: nowrap; }
+    .reg-note { font-size: 0.82rem; color: var(--ink-soft); margin: 0 0 0.8rem;
+      border-left: 3px solid rgba(26,58,107,0.3); padding-left: 0.7rem; }
+    .reg-item { background: #fff; border: 1px solid rgba(0,0,0,0.1); border-radius: 6px;
+      padding: 0.6rem 0.85rem; margin-bottom: 0.5rem; }
+    .reg-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.6rem; }
+    .reg-name { font-weight: 700; color: #1a3a6b; font-size: 0.98rem; }
+    .reg-hls { font-size: 0.85rem; }
+    .reg-hls a { color: #1a5c3a; text-decoration: none; border-bottom: 1px solid rgba(26,92,58,0.35); }
+    .reg-hls a:hover { border-bottom-color: #1a5c3a; }
+    .reg-unlinked { font-size: 0.8rem; color: #999; font-style: italic; }
+    .reg-mentions { font-size: 0.82rem; color: var(--ink-soft); margin-left: auto;
+      font-variant-numeric: tabular-nums; white-space: nowrap; }
+    .reg-forms { font-size: 0.8rem; color: var(--ink-soft); margin-top: 0.3rem; }
+    .reg-forms code { background: rgba(26,58,107,0.06); border-radius: 3px; padding: 0 3px; }
+    .reg-pages { margin-top: 0.35rem; font-size: 0.82rem; }
+    .reg-pages a { display: inline-block; margin-right: 0.35rem; color: #1a3a6b;
+      text-decoration: none; border-bottom: 1px dotted rgba(26,58,107,0.4); }
+    .reg-pages a:hover { border-bottom-style: solid; }
   </style>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
 </head>
@@ -907,25 +929,26 @@
   </div>
 
   <div id="ressourcen" class="section-page">
-    <div class="intro">
-      <h2>Register</h2>
-      <ul>
-        <li><a href="#" onclick="showEntitySection(event, 'persons')">Personenregister</a></li>
-        <li><a href="#" onclick="showEntitySection(event, 'places')">Ortsregister</a></li>
-        <li><a href="#" onclick="showEntitySection(event, 'organizations')">Institutionsregister</a></li>
-        <li>Glossar</li>
-      </ul>
-      
-      <div id="entity-search" style="margin-top: 20px; display: none;">
-        <input type="text" id="entity-search-input" placeholder="Suche nach Personen, Orten oder Institutionen..." 
-               style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;">
-        <div id="entity-results"></div>
-      </div>
-      
-      <div id="entity-list" style="margin-top: 20px;">
-        <p><em>Laden...</em></p>
-      </div>
+    <h2 class="section-title">Register</h2>
+    <p class="section-subtitle">Personen der Disputation, aus den erkannten Texten
+      erschlossen und mit dem <a href="https://hls-dhs-dss.ch/" target="_blank"
+      rel="noopener">Historischen Lexikon der Schweiz</a> verknüpft.</p>
+
+    <span class="vg-granularity" style="margin-bottom:0.8rem;display:inline-flex;">
+      <button class="vg-toggle active" id="reg-tab-persons" onclick="setRegisterTab('persons')">Personen</button>
+      <button class="vg-toggle" id="reg-tab-bible" onclick="setRegisterTab('bible')">Bibelstellen</button>
+    </span>
+
+    <div class="ub-controls">
+      <input type="search" id="reg-filter" placeholder="Namen durchsuchen…"
+             autocomplete="off" aria-label="Register durchsuchen"
+             oninput="registerTab === 'bible' ? renderBible() : renderRegister()">
+      <label class="reg-only"><input type="checkbox" id="reg-linked-only"
+             onchange="renderRegister()"> nur mit HLS-Eintrag</label>
+      <span class="ub-count" id="reg-count"></span>
     </div>
+    <p class="reg-note" id="reg-note"></p>
+    <div id="reg-body"><p class="vg-empty">Lade Register…</p></div>
   </div>
 
   <div id="vergleich" class="section-page">
@@ -1023,239 +1046,9 @@ async function loadEntityIndex() {
 }
 
 // Show entity section
-function showEntitySection(event, type) {
-  if (event) event.preventDefault();
-  currentEntityType = type;
-  currentPage = 1; // Reset to first page
-  
-  const searchDiv = document.getElementById("entity-search");
-  const listDiv = document.getElementById("entity-list");
-  const searchInput = document.getElementById("entity-search-input");
-  
-  if (searchDiv) searchDiv.style.display = "block";
-  if (searchInput) {
-    searchInput.value = "";
-    searchInput.placeholder = type === "persons" ? "Suche nach Personen..." : 
-                             type === "places" ? "Suche nach Orten..." : "Suche nach Institutionen...";
-  }
-  if (listDiv) listDiv.innerHTML = "<p><em>Laden...</em></p>";
-  
-  // Load and display entities
-  loadEntityIndex().then(entities => {
-    displayEntities(entities, type);
-  });
-}
-
-// Display entities
-function displayEntities(entities, type) {
-  const listDiv = document.getElementById("entity-list");
-  if (!listDiv) return;
-  
-  const typeMap = {
-    "persons": "PERSON",
-    "places": ["LOC", "GPE"],
-    "organizations": "ORG"
-  };
-  
-  let filtered = entities.filter(e => {
-    if (Array.isArray(typeMap[type])) {
-      return typeMap[type].includes(e.type);
-    }
-    return e.type === typeMap[type];
-  });
-  
-  // Sort by normalized name, then original name
-  filtered.sort((a, b) => {
-    const nameA = a.normalized_name || a.name;
-    const nameB = b.normalized_name || b.name;
-    return nameA.localeCompare(nameB);
-  });
-  
-  const totalItems = filtered.length;
-  const totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE);
-  const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
-  const endIndex = startIndex + ITEMS_PER_PAGE;
-  const pageItems = filtered.slice(startIndex, endIndex);
-
-  if (totalItems === 0) {
-    listDiv.innerHTML = "<p>Keine Einträge gefunden.</p>";
-    return;
-  }
-  
-  let html = "<h3>" + (type === "persons" ? "Personen" : type === "places" ? "Orte" : "Institutionen") + 
-             " (" + totalItems + ")</h3><ul>";
-  
-  pageItems.forEach(ent => {
-    const displayName = ent.normalized_name || ent.name;
-    const originalName = ent.name !== displayName ? ` (Original: ${ent.name})` : "";
-    const occCount = ent.occurrences ? ent.occurrences.length : 0;
-    
-    html += `<li><strong>${displayName}</strong>${originalName}`;
-    if (ent.metagrid_id) {
-      // Add Metagrid and GND links
-      html += ' <a href="https://metagrid.ch/wrongentries/hls/' + ent.metagrid_id + '" target="_blank" title="Metagrid">📖</a>';
-      html += ' <a href="https://d-nb.info/gnd/' + ent.metagrid_id + '" target="_blank" title="GND">🎓</a>';
-    }
-    html += ` (${occCount} Stellen)<ul>`;
-    
-    ent.occurrences.slice(0, 5).forEach(occ => {
-      const docName = occ.doc || "druck_1528";
-      const page = occ.page || 1;
-      html += `<li><a href="#/disputation/${docName}/${page}">${docName}, S. ${page}</a></li>`;
-    });
-    if (ent.occurrences.length > 5) {
-      html += `<li>... und ${ent.occurrences.length - 5} weitere</li>`;
-    }
-    html += "</ul></li>";
-  });
-  
-  html += "</ul>";
-
-  // Pagination Controls
-  if (totalPages > 1) {
-    html += `<div class="pagination">`;
-    if (currentPage > 1) {
-      html += `<a href="#" onclick="changeEntityPage(${currentPage - 1})">&laquo; Zurück</a>`;
-    }
-    html += `<span> Seite ${currentPage} von ${totalPages} </span>`;
-    if (currentPage < totalPages) {
-      html += `<a href="#" onclick="changeEntityPage(${currentPage + 1})">Weiter &raquo;</a>`;
-    }
-    html += `</div>`;
-  }
-  
-  listDiv.innerHTML = html;
-}
-
-function changeEntityPage(page) {
-  currentPage = page;
-  // Re-display with the new page (assumes entityIndex is loaded)
-  if (entityIndex) {
-    displayEntities(entityIndex, currentEntityType);
-  }
-  return false; // prevent default link behavior
-}
-
-
-// Search entities
-function searchEntities(query) {
-  currentPage = 1; // Reset to first page on new search
-  loadEntityIndex().then(entities => {
-    if (!query || query.length < 2) {
-      displayEntities(entities, currentEntityType);
-      return;
-    }
-    
-    const q = query.toLowerCase();
-    const filtered = entities.filter(e => {
-      const name = e.name.toLowerCase();
-      const normName = (e.normalized_name || "").toLowerCase();
-      return name.includes(q) || (normName && normName.includes(q));
-    });
-    
-    // Also filter by type for the search results
-    const typeMap = {
-      "persons": "PERSON",
-      "places": ["LOC", "GPE"],
-      "organizations": "ORG"
-    };
-    const finalFiltered = filtered.filter(e => {
-      if (Array.isArray(typeMap[currentEntityType])) {
-        return typeMap[currentEntityType].includes(e.type);
-      }
-      return e.type === typeMap[currentEntityType];
-    });
-
-    displayEntities(finalFiltered, currentEntityType);
-  });
-}
-
-// Add search listeners
-document.addEventListener("DOMContentLoaded", function() {
-  const entitySearchInput = document.getElementById("entity-search-input");
-  if (entitySearchInput) {
-    entitySearchInput.addEventListener("input", function() {
-      searchEntities(this.value);
-    });
-  }
-
-  ['predigten', 'disputation'].forEach(function(section) {
-    const bookInput = document.getElementById(`${section}-book-search-input`);
-    if (!bookInput) return;
-    bookInput.addEventListener('keydown', function(e) {
-      if (e.key === 'Enter') { e.preventDefault(); triggerBookSearch(section); }
-    });
-  });
-
-  const predigtenPageInput = document.getElementById('page-input');
-  if (predigtenPageInput) {
-    predigtenPageInput.addEventListener('keydown', function(e) {
-      if (e.key === 'Enter') { e.preventDefault(); goToPredigtenPage(); this.blur(); }
-    });
-    predigtenPageInput.addEventListener('blur', goToPredigtenPage);
-  }
-
-  const disputationPageInput = document.getElementById('disputation-page-input');
-  if (disputationPageInput) {
-    disputationPageInput.addEventListener('keydown', function(e) {
-      if (e.key === 'Enter') { e.preventDefault(); goToDisputationPage(); this.blur(); }
-    });
-    disputationPageInput.addEventListener('blur', goToDisputationPage);
-  }
-
-  const gsInput = document.getElementById('gs-input');
-  if (gsInput) {
-    gsInput.addEventListener('keydown', function(e) {
-      if (e.key === 'Enter') { e.preventDefault(); triggerGlobalSearch(); }
-    });
-  }
-});
-
-// Load image URL from Transkribus PAGE XML for variants without a viewer_manifest entry
-async function loadTranskribusImageUrl(variant, pageNr) {
-  const cacheKey = variant.id + '_' + pageNr;
-  if (transkribusPageXmlCache[cacheKey]) {
-    return transkribusPageXmlCache[cacheKey];
-  }
-
-  try {
-    const pageXmlPath = variant.basePath + '/pagexml/page_' + pageNr + '.xml';
-    const response = await fetch(pageXmlPath);
-    if (!response.ok) return null;
-
-    const text = await response.text();
-    const imgMatch = text.match(/imgUrl="([^"]+)"/);
-    if (imgMatch && imgMatch[1]) {
-      const imgUrl = imgMatch[1].replace(/&amp;/g, '&');
-      transkribusPageXmlCache[cacheKey] = imgUrl;
-      return imgUrl;
-    }
-  } catch (e) {
-    console.error('Error loading pagexml:', e);
-  }
-  return null;
-}
-
-async function pathExists(path) {
-  try {
-    const headResponse = await fetch(path, { method: 'HEAD' });
-    if (headResponse.ok) {
-      return true;
-    }
-    if (headResponse.status && headResponse.status !== 405) {
-      return false;
-    }
-  } catch (_error) {
-    // Fall back to GET when HEAD is unavailable.
-  }
-
-  try {
-    const response = await fetch(path);
-    return response.ok;
-  } catch (_error) {
-    return false;
-  }
-}
+// The old entity register was replaced by the person register above.
+// It linked 969 of 986 entries to one Metagrid id that does not resolve,
+// counted Bible books as people, and split each person across spellings.
 
 function getDisputationVariantUnavailableMessage(variant) {
   if (variant && variant.availability && variant.availability.available === false) {
@@ -1350,6 +1143,15 @@ const WITNESS_METADATA = [
   { key: "a_v_1446_ruemlang",  label: "A V 1446: Rümlang",  year: "1528", kind: "Handschrift",
     holding: "", pages: 561, doi: null, inEdition: true }
 ];
+
+const VARIANT_BY_KEY = {
+  druck_1528: "druck-1528",
+  a_v_1447_schlussredaktion: "a-v-1447",
+  a_v_1443_hertwig: "a-v-1443",
+  a_v_1444_cyro: "a-v-1444",
+  a_v_1445_schoeni: "a-v-1445",
+  a_v_1446_ruemlang: "a-v-1446",
+};
 
 function witnessLabel(key) {
   const found = WITNESS_METADATA.find((w) => w.key === key);
@@ -1837,7 +1639,10 @@ function showSection(event, id) {
   } else if (id === 'suche') {
     renderGlobalSearchFilters();
     updateSectionUrl('suche');
-  } else if (id === 'home' || id === 'ressourcen') {
+  } else if (id === 'ressourcen') {
+    initRegister();
+    updateSectionUrl(id);
+  } else if (id === 'home') {
     updateSectionUrl(id);
   } else if (id === 'uebersicht') {
     initUebersicht();
@@ -3752,7 +3557,9 @@ function parseSectionUrl() {
 function applySectionUrl(params) {
   if (!params) return false;
   showSectionById(params.id);
-  if (params.id === "uebersicht") {
+  if (params.id === "ressourcen") {
+    initRegister();
+  } else if (params.id === "uebersicht") {
     initUebersicht();
     if (params.extra) {
       const input = document.getElementById("ub-filter");
@@ -3766,6 +3573,189 @@ function applySectionUrl(params) {
     renderGlobalSearchFilters();
   }
   return true;
+}
+
+// ----------------------------------------------------------- Register (#14)
+// Persons drawn from the recognised text, clustered across the spellings each
+// witness uses, and linked to the Historisches Lexikon der Schweiz where a
+// match was confirmed by hand.
+//
+// The previous register linked 969 of its 986 entries to a single Metagrid id
+// that does not resolve. An unlinked entry is therefore left visibly unlinked
+// here: a wrong authority link is worse than none, because it looks checked.
+const REGISTER_TABLE = "data/register/persons.tsv";
+const HLS_BASE = "https://hls-dhs-dss.ch/de/articles/";
+let registerRows = null;
+
+async function initRegister() {
+  if (registerRows) { renderRegister(); return; }
+  const host = document.getElementById("reg-body");
+  try {
+    const resp = await fetch(REGISTER_TABLE);
+    if (!resp.ok) throw new Error(String(resp.status));
+    registerRows = parseTsv(await resp.text());
+  } catch (e) {
+    host.innerHTML = '<p class="vg-warn">Das Register konnte nicht geladen werden.</p>';
+    return;
+  }
+  renderRegister();
+}
+
+function registerPageLinks(pages) {
+  // "druck_1528:12,14,15; a_v_1447_schlussredaktion:3"
+  if (!pages) return "";
+  const out = [];
+  for (const part of pages.split(";")) {
+    const [doc, list] = part.split(":");
+    if (!doc || !list) continue;
+    const key = doc.trim();
+    const variant = (WITNESS_METADATA.find((w) => w.key === key) || {}).key;
+    const variantId = VARIANT_BY_KEY[key];
+    for (const raw of list.split(",").slice(0, 8)) {
+      const page = parseInt(raw, 10);
+      if (!page) continue;
+      const href = variantId
+        ? `#/disputation/${variantId}/${page}`
+        : `#/predigten/${page}`;
+      out.push(`<a href="${href}" onclick="event.preventDefault(); openRegisterPage('${escapeHtml(key)}',${page});">S.&nbsp;${page}</a>`);
+    }
+  }
+  return out.join("");
+}
+
+function openRegisterPage(witnessKey, page) {
+  const variantId = VARIANT_BY_KEY[witnessKey];
+  if (!variantId) return;
+  if (disputationState.variantId !== variantId) {
+    disputationState.variantId = variantId;
+    resetDisputationVariantState();
+    setActiveDisputationVariantLink(variantId);
+    updateDisputationVariantTitle();
+  }
+  disputationState.currentPageIndex = page - 1;
+  showSectionById("disputation");
+  initDisputationViewer();
+  updateDisputation();
+}
+
+function renderRegister() {
+  const host = document.getElementById("reg-body");
+  if (!host || !registerRows) return;
+  const query = (document.getElementById("reg-filter")?.value || "").trim().toLowerCase();
+  const linkedOnly = document.getElementById("reg-linked-only")?.checked;
+
+  let rows = registerRows;
+  if (query) {
+    rows = rows.filter((r) => `${r.label} ${r.forms} ${r.hls_title}`.toLowerCase().includes(query));
+  }
+  if (linkedOnly) rows = rows.filter((r) => r.hls_id);
+
+  const linked = registerRows.filter((r) => r.hls_id).length;
+  const note = document.getElementById("reg-note");
+  if (note) {
+    note.innerHTML = `${linked} von ${registerRows.length} Einträgen sind mit dem HLS `
+      + `verknüpft. Die übrigen bleiben bewusst ohne Verweis: für sie liess sich `
+      + `kein Eintrag zweifelsfrei bestimmen, und ein falscher Normdatenlink `
+      + `wäre schlechter als keiner.`;
+  }
+  const count = document.getElementById("reg-count");
+  if (count) count.textContent = `${rows.length} von ${registerRows.length}`;
+
+  if (!rows.length) { host.innerHTML = '<p class="ub-empty">Keine Einträge gefunden.</p>'; return; }
+
+  host.innerHTML = rows.map((r) => {
+    const hls = r.hls_id
+      ? `<span class="reg-hls"><a href="${HLS_BASE}${escapeHtml(r.hls_id)}/" target="_blank" rel="noopener">${escapeHtml(r.hls_title)}</a>${r.hls_years ? ` (${escapeHtml(r.hls_years)})` : ""}</span>`
+      : '<span class="reg-unlinked">kein gesicherter HLS-Eintrag</span>';
+    const forms = (r.forms || "").split("|").map((f) => f.trim()).filter(Boolean);
+    const formHtml = forms.length > 1
+      ? `<div class="reg-forms">Schreibungen: ${forms.slice(0, 8).map((f) => `<code>${escapeHtml(f)}</code>`).join(" ")}${forms.length > 8 ? " …" : ""}</div>`
+      : "";
+    return `<div class="reg-item">
+      <div class="reg-head">
+        <span class="reg-name">${escapeHtml(r.hls_title || r.label)}</span>
+        ${hls}
+        <span class="reg-mentions">${escapeHtml(r.mentions)} Nennungen</span>
+      </div>
+      ${formHtml}
+      <div class="reg-pages">${registerPageLinks(r.pages)}</div>
+    </div>`;
+  }).join("");
+}
+
+// ------------------------------------------------------ Bibelstellenregister
+// The Disputation argues from Scripture, so where a passage is cited is a
+// first-order question. Until now those citations were mis-filed: the person
+// recogniser read book names as people - "Mathei" 33 times, "Johannis" 34.
+const BIBLE_TABLE = "data/register/bible_refs.tsv";
+let bibleRows = null;
+let registerTab = "persons";
+
+function setRegisterTab(tab) {
+  registerTab = tab;
+  document.getElementById("reg-tab-persons").classList.toggle("active", tab === "persons");
+  document.getElementById("reg-tab-bible").classList.toggle("active", tab === "bible");
+  const filter = document.getElementById("reg-filter");
+  if (filter) {
+    filter.value = "";
+    filter.placeholder = tab === "persons" ? "Namen durchsuchen…" : "Buch oder Stelle durchsuchen…";
+  }
+  const onlyBox = document.querySelector(".reg-only");
+  if (onlyBox) onlyBox.style.display = tab === "persons" ? "" : "none";
+  if (tab === "bible") initBible(); else renderRegister();
+}
+
+async function initBible() {
+  if (bibleRows) { renderBible(); return; }
+  const host = document.getElementById("reg-body");
+  try {
+    const resp = await fetch(BIBLE_TABLE);
+    if (!resp.ok) throw new Error(String(resp.status));
+    bibleRows = parseTsv(await resp.text());
+  } catch (e) {
+    host.innerHTML = '<p class="vg-warn">Das Bibelstellenregister konnte nicht geladen werden.</p>';
+    return;
+  }
+  renderBible();
+}
+
+function renderBible() {
+  const host = document.getElementById("reg-body");
+  if (!host || !bibleRows) return;
+  const query = (document.getElementById("reg-filter")?.value || "").trim().toLowerCase();
+  const rows = query
+    ? bibleRows.filter((r) => `${r.reference} ${r.book} ${r.surfaces}`.toLowerCase().includes(query))
+    : bibleRows;
+
+  const total = bibleRows.reduce((n, r) => n + (parseInt(r.count, 10) || 0), 0);
+  const uncertain = bibleRows.filter((r) => parseFloat(r.min_confidence) < 0.9).length;
+  const note = document.getElementById("reg-note");
+  if (note) {
+    note.innerHTML = `${total} Nachweise auf ${bibleRows.length} Stellen. `
+      + `Buch und Kapitel werden erkannt, <strong>keine Verse</strong>: der Druck nennt sie `
+      + `selten, und eine Genauigkeit vorzutäuschen, die die Vorlage nicht hat, wäre `
+      + `schlechter als sie wegzulassen. ${uncertain} Stellen beruhen auf einer unsicheren `
+      + `Lesung des Buchnamens und sind gekennzeichnet.`;
+  }
+  const count = document.getElementById("reg-count");
+  if (count) count.textContent = `${rows.length} von ${bibleRows.length}`;
+  if (!rows.length) { host.innerHTML = '<p class="ub-empty">Keine Stellen gefunden.</p>'; return; }
+
+  host.innerHTML = rows.map((r) => {
+    const conf = parseFloat(r.min_confidence);
+    const flag = conf < 0.9
+      ? ` <span class="reg-unlinked">Lesung unsicher (${conf.toFixed(2)})</span>` : "";
+    const surfaces = (r.surfaces || "").split("|").map((x) => x.trim()).filter(Boolean);
+    return `<div class="reg-item">
+      <div class="reg-head">
+        <span class="reg-name">${escapeHtml(r.reference)}</span>
+        <span class="reg-hls">${escapeHtml(r.book)}</span>${flag}
+        <span class="reg-mentions">${escapeHtml(r.count)} Nachweise</span>
+      </div>
+      ${surfaces.length ? `<div class="reg-forms">Im Text: ${surfaces.slice(0, 5).map((x) => `<code>${escapeHtml(x)}</code>`).join(" ")}</div>` : ""}
+      <div class="reg-pages">${registerPageLinks(r.pages)}</div>
+    </div>`;
+  }).join("");
 }
 
 // Sticky nav effect.
