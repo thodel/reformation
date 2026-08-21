@@ -18,11 +18,11 @@ ist worden /  alle Dinge vrtheillet / aber
 Diewyll ein jeder Christ / der Je ein Christ
 sye ouch disen geist habe / Namlich den
 geist des herren / So moͤg ouch ein Jegklicher
-Christ die gsthrifft vrtheilen / vnd darzuͦ
+Christ die gschrifft vrtheilen / vnd darzuͦ
 die gschrifft verstan / durch den geist des
 vnnd soͤlle niemands glouben
 Herren /
-von wegen eines anndern / azeigen / dan
+von wegen eines anndern / anzeigen / dan
 Je alls dan / so gloubt / er / nit dem herren son /
 ders dem / so es Im anzeygt  hat / mich
 niemandt

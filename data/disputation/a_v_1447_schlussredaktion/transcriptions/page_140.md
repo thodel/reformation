@@ -23,7 +23,7 @@ viel Rhoten / Zertheillt vnnd Zertrent  werden als
 wir jetz leider vor handen sechen / Es hat yetz
 Martin luter / sin wittenbergesche kilchen beredt /
 Er habe den rechten waren glouben vnnd ver //
-stand der ystchrifft /
+stand der gschrifft /
 Deß gleichen alle sine
 anhenger / Im krefftengklich stat vnnd glouben
 geben /

@@ -13,13 +13,13 @@ Chorm
 55
 Die erst Schlussred
 vff Das aller flyssgist den Doctor / Er welle
-nit  abtretten / Dan sin reed gestellet ist, allss
-ob er vns den angell lassen welle./ 30
+nit  abtretten / Dan sin red gestellet ist / allss
+ob er vns den angell lassen welle / 30
 Demnach zuͦ verantwurten / Des provincials
 Inred / bezuͤg Ich mich vff dis mall wellen
 vff sine vngschrifftlich gegen wurff / antwurt
 geben  / Damit die einfalltig gemeind gottes
-nümen
+nimmer
 nit verletzet werde /  vnnd demnach meinen
 mer / wie scharff er vns doch immer angriffen /
 wirt /  Dann miner herren mandat / sollichs

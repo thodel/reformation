@@ -2,7 +2,7 @@
 
 warmd
 Zertrennungen vnnd secten machen In der
-Christenheit vnnd har fur zucht, Das sollichs
+Christenheit vnnd har fur zucht / Das sollichs
 by Inen nit funden werden  Dann sy allein Christum
 Jesum predigen / vnnd sy by Inen kein wyb
 noch kein man / kein herr noch kein knecht /

@@ -1,20 +1,20 @@
 # Seite 139
 
 pr
-abred bin / vnnd Dhenis wegs gestan / Er wirds
+abred bin / vnnd Dhens wegs gestan / Er wirds
 ouch nuͤmmerands  mer Darbringen / woll ist war das
 In anndern punckten / by langen / mallstattenen /
 eigen personen Zyt etc.  Etwan ein Concilia
 hinweg gethan / Das das annder gesatzt vnnd
 gemacht hatt / Dasß sy ouch guͦten fuͦg vnnd
 Recht haben / Dan Je inn gesatzten / den glouben
-int beruͤren / anndre zyt vnnd anndre eigenschafft
+nit beruͤren / anndre zyt vnnd anndre eigenschafft
 der moͤntschen anndre recht ervordern / Uff
 Den Dritten puncten / Da huͤt min her Doctor
 fuͤrgewendt hatt / wie das soͤllicher text / Matthei
 am xviij cap: verstanden soll werden / von einer
 Jegklingen einigen kilchen  vnnd christenlicher ge //
-meind vnnd hatt das Martinus buier ge //
+meind vnnd hatt das Martinus luter ge //
 bessert / vnnd sagt der text / tringt vnns darzu
 Das es je von dheiner anndern / kilchen ver //
 standen mog werden  / Dann der her der

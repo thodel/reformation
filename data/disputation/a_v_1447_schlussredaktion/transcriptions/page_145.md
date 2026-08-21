@@ -2,9 +2,9 @@
 
 pomma
 Im vier vnnd zwentzigosten Jar vßgangen /
-uͤberflussig beuͤget, namlich uber die
+uͤberflussig bezuͤget  namlich uber die
 fuͤnfft / Sechst, sibend / vnnd acht vnd zwentzigk
-propositon, oder wunderred / ijr hats genempt
+propositon, oder wunderred / ir hats genempt
 paradoxa / Das aber kein Christenlich gemeind
 Die gschrifft Dermaß ze vrtheillen hab Da
 sy daruͣber sig / etwas da anzenemmen oder

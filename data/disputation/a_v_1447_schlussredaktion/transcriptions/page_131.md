@@ -17,11 +17,11 @@ sagt / nuͤdt anders / namlich In Dem
 stucke  des hochwuͤrdigen sacraments / wo
 ist dann der geist / des sy sich beruͤmen
 dadurch sy die gschrifft vermeinen zuͦ
-verstan / oder was soll ein fromer einfalt i//
+verstan / oder was soll ein fromer einfalti //
 ger gschrifft Christ In dissem hanndell fuͤr //
 nemen  / ob sy sagen wellten / Er soͤlle zuͦ der
 gschrifft gan / vnnd darin ervorschen / was
 er zeglouben schuldig were / Wie kan er des
 wuͤssen haben / so sich so hoch gelert / vnnd
 treffenlich geuͤbt In der gschrifft vnnd die
-sich der gshhrifft vnnd geists beruͤmen /.
+sich der gschrifft vnnd geists beruͤmen /.

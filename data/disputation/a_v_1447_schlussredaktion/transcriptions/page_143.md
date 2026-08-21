@@ -12,20 +12,20 @@ ist / Vnnd ermanet jetz wider zekomen / vnsern
 antwurt zevernemen / vnnd sich aber des„ / der
 Doctor beschwaͤrdt hat / So will ich  hie
 dieselbige red In gschrifft verfassen / den nota //
-rien nach muner gnedigen hern ordnung
+rien nach miner gnedigen hern ordnung
 Dem
-Inleggen / Lutter allso /etc
+Inleggen / Lutter allso / tc
 allmechtigen got sye lob vnnd Danck fromen
 Christen / Das er sin warheit by vns so herlich
-besthirmbt vnnd geben hat  / das diser so hoch //
+beschirmbt vnnd geben hat  / das diser so hoch //
 gelerter Doctor In siner wider vns so langer
 red einig schrifft / nit fuͤrbracht / hat Sonder
 allein vsß fälen vnnd menglen der moͤnschen
 wider miner gnedigen hern / mandat begert vns
 dem einfalltigen zuͦhoren verdacht zuͦ machenn
-so mit gschrifft vom gawallt der kilchen hie
+so mit gschrifft vom gewallt der kilchen hie
 soͤlle gehandellt werden / Lieben fromen Christen
-Lasßt vch nit Jrren, vnd bekumbern / hienach
+Lasßt vch nit Jrren / vnd bekumbern / hienach
 wider vnser antwurt vnnd daruff zevernemen
 werdt Ir hoͤren / wie gschrifft vnd warheit
 bloss / sye  Der Baͤpstlich hauff / vnnd pitt ouch

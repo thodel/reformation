@@ -13,11 +13,11 @@ Das Christus vnnser her vns saͤlig gemacht / vnd
 erloͤßt hatt / Ob er glich Inn anderm Jrr gieng /
 Das derselbig saͤlig wurd / Dann nit gnug ist
 Das Da einer eim / puncten / oder ein / artigkell des
-glaubens / stat vnnd glauben geb / somnders Ist
+glaubens / stat vnnd glauben geb / sonders Ist
 von noͤdten / Das er die andern ouch gloubt /
 bisß här er von gantzer / Christenlicher Kilchen glaubt /
 Dann wellicher Jnn einem stuͤck / Dem herren /
-nit glouben geb / Der eracht / den hern nit  In
+nit glouben geb / Der eracht / den hern nit  in
 allen stuͤcken warhafft / Es werind ouch vill zertrennet /
 vnnd ketzer der Christenlichen einigkeit / Die
 ouch nach vrtheill der wider parthy verdampt

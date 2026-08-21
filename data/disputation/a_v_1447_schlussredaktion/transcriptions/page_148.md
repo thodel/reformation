@@ -21,7 +21,7 @@ Christen verstanden werden muͦß / die wyl niemandes
 Christi ist / der nit sin geist habe / zum Rhoͤmern
 am viii cap: Da hat der provincial aus
 gschrifft soͤllichen herlichen / spruch vnderstanden
-zweien
+weim
 ze verduͤncklen / vnd das mit zwe zweyen fragenn / die
 erst / So der geist alle Christen / muͤsse lerenn /
 vnd one den geist des hern vnnd eygnem ver //

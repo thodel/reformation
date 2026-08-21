@@ -12,9 +12,9 @@ Doctor vff Das nechst, von demselbigen / vnnd
 Das mit der gschrifft Inred thuͦn /
 Doctor Cunrad treiger
 promn(vincial)
-Ersamen fromen lieben Christen, vff min
+Ersamen fromen lieben Christen / vff min
 Inred / hutt durch mich beschehen / vff die
-antwurt / Doctor Wolffen Capito, Hart ge //
+antwurt / Doctor Wolffen Capito / Hart ge //
 antwurt/ Der wolgelert martin Bucer predicant
 von Strastburg / vnnd erstlich Diewyl  ich krefftig
 klich probiert / vnnd anzeygt hab vsß der gschrifft

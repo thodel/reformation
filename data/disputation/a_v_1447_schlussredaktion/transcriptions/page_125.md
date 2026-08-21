@@ -10,10 +10,10 @@ Christen / Lassendt vͤch mit laͤren wortten /
 Dhein bruͤllen vffsetzen / vnnd beßt besechend den
 spruch pauly zum Rhoͤmern / xvi cap: Ich
 zum Dritten
-ermanen aber / etc.
-das von der ergernus da anzogen / gib Ich
+ermanen aber / tc
+das von der ergernuͤs da anzogen / gib Ich
 Das schwaͤrer engernus nit sin
-gern / zuͦ
+gern / zuͦ /
 mag / Dann die lut vom nechten einichen
 glouben / abwysen / Das soll sich aber by
 uns niemer mer / aber by der widerparthy
@@ -30,7 +30,7 @@ aber  nit  nach dem fleisch laͤbet / Dan sy
 Den geist Christi hatt der selbigen nun soll
 man anzoͤigen / den bruͦder der vͤber die son //
 nung
-dre vnnd bezuͤgte Warheit nung sins Irrthumbs
+der vnnd bezuͤgte Warheit nung sins Irrthumbs
 vff das in ouch
 nit hatt wollen abstan,
 die gemeind straff vnnd verwarnt vnd wo er

@@ -4,12 +4,12 @@ Luter
 50.1
 wachssnen glouben Dem gemeinen  man Inzuͦ //
 sagen
-bilden /  Ich eracht / er werde ergoeten, darumb
+bilden /  Ich eracht / er werde ergoeten / darumb
 Das Inen glauben geben werd / vnnd das er
 wyter fuͤr wendt / wie das ein Jegklicher der
 Den geist des herrn hatt / die geschrifft selbs
 Wuͤssen mag  / vnnd soll / will ich Inn vor //
-schen wo her es kumpt diewyl er doch nitt
+sehen wo her es kumpt diewyl er doch nitt
 ein wenig
 Inwendig / sonders treffenlich In der gschrifft
 geuͤbt vnnd grossen verstand / der geschrifft hatt /
@@ -29,5 +29,5 @@ Parthy verfuͤrer  siend vnnd Zertrenner Chri //
 stenlicher einigkeit vnnd wuͤsse das by Inen
 Dhein geist des herren sie vnnd was geists
 er inen zuͦlegt / namlich meister Vͦlrichen
-zwingly / sampt een anderen / vnderlasß ich
+zwingly / sampt den anderen / vnderlasß ich
 zuͦ melden / von wegen der Christenlichen

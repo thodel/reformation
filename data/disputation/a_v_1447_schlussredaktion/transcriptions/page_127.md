@@ -4,7 +4,7 @@ Darumb hatt es die gestallt / Ein jeder Christ
 muͦsß fur sich selbs mit paulo wuͤssen waem
 er gloubt hettabe /  So aber ein Christ mer
 geists hat dan der annder / so mag der hoͤcher
-begabt mit smein vrtheill Dem minder begabten
+begabt mit sinem vrtheill Dem minder begabten
 dienen / zuͦ komen Inn erkantnus der warheit
 vnnd wuͤrde sich aber Doch die sach / aller christen
 vff Dißem Jamerthall Da vnser beerkantnus
@@ -27,5 +27,5 @@ Dennost wo er gloubt / Das Christus Ihesus
 sin einiger Heilland waͤre / hette er nach dem
 wort Des herren Das ewig laͤben / vnnd
 wurden Im suͤnd vnnd Jrrthumb / mit den
-er sampt aundern Christen behafft / were
+er sampt andern Christen behafft / were
 endtlich nüt  schaden / zun Rhoͤmmen viii cap:
