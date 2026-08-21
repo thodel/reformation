@@ -1183,6 +1183,78 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 });
 
+// Restored after range-based edits removed them. All three were called but
+// never defined - valid syntax, fatal at runtime - and none of the 198 unit
+// tests noticed. tests/test_page_integrity.py now checks for exactly this.
+async function pathExists(path) {
+  try {
+    const headResponse = await fetch(path, { method: 'HEAD' });
+    if (headResponse.ok) {
+      return true;
+    }
+    if (headResponse.status && headResponse.status !== 405) {
+      return false;
+    }
+  } catch (_error) {
+    // Fall back to GET when HEAD is unavailable.
+  }
+
+  try {
+    const response = await fetch(path);
+    return response.ok;
+  } catch (_error) {
+    return false;
+  }
+}
+
+async function loadTranskribusImageUrl(variant, pageNr) {
+  const cacheKey = variant.id + '_' + pageNr;
+  if (transkribusPageXmlCache[cacheKey]) {
+    return transkribusPageXmlCache[cacheKey];
+  }
+
+  try {
+    const pageXmlPath = variant.basePath + '/pagexml/page_' + pageNr + '.xml';
+    const response = await fetch(pageXmlPath);
+    if (!response.ok) return null;
+
+    const text = await response.text();
+    const imgMatch = text.match(/imgUrl="([^"]+)"/);
+    if (imgMatch && imgMatch[1]) {
+      const imgUrl = imgMatch[1].replace(/&amp;/g, '&');
+      transkribusPageXmlCache[cacheKey] = imgUrl;
+      return imgUrl;
+    }
+  } catch (e) {
+    console.error('Error loading pagexml:', e);
+  }
+  return null;
+}
+
+let segmentTitles = null;
+
+async function loadSegmentTitles() {
+  if (segmentTitles) return segmentTitles;
+  try {
+    const resp = await fetch(SEGMENT_TABLE);
+    segmentTitles = resp.ok ? parseTsv(await resp.text()) : [];
+  } catch (e) { segmentTitles = []; }
+  return segmentTitles;
+}
+
+async function populateSegmentSelector() {
+  const select = document.getElementById("vg-segment");
+  if (!select || select.dataset.filled === "1") return;
+  const [rows] = await Promise.all([loadSegmentTitles(), loadConcordance()]);
+  if (!rows.length) return;
+  select.innerHTML = '<option value="">— ganzes Werk —</option>' + rows.map((r) => {
+    const label = r.title || `Abschnitt ${r.segment}`;
+    const thesis = r.thesis ? `${r.thesis}. Schlussrede · ` : "";
+    return `<option value="${escapeHtml(r.segment)}">${escapeHtml(thesis)}${escapeHtml(label)} (S. ${escapeHtml(r.first_page)}–${escapeHtml(r.last_page)})</option>`;
+  }).join("");
+  select.dataset.filled = "1";
+}
+
 function getDisputationVariantUnavailableMessage(variant) {
   if (variant && variant.availability && variant.availability.available === false) {
     return variant.availability.reason;
@@ -1276,15 +1348,20 @@ const WITNESS_METADATA = [
     institution: "Universitätsbibliothek Bern", shelfmark: "MUE H IV 47",
     rights: "https://creativecommons.org/publicdomain/mark/1.0/", rightsLabel: "Public Domain Mark 1.0" },
   { key: "a_v_1447_schlussredaktion", label: "A V 1447: Schlussredaktion", year: "1528",
-    kind: "Handschrift", holding: "", pages: 755, doi: null, inEdition: true },
+    kind: "Handschrift", holding: "Staatsarchiv Bern", pages: 755, doi: null, inEdition: true,
+    institution: "Staatsarchiv des Kantons Bern", shelfmark: "A V 1447" },
   { key: "a_v_1443_hertwig",   label: "A V 1443: Hertwig",  year: "1528", kind: "Handschrift",
-    holding: "", pages: 735, doi: null, inEdition: true },
+    holding: "Staatsarchiv Bern", pages: 735, doi: null, inEdition: true,
+    institution: "Staatsarchiv des Kantons Bern", shelfmark: "A V 1443" },
   { key: "a_v_1444_cyro",      label: "A V 1444: Cyro",     year: "1528", kind: "Handschrift",
-    holding: "", pages: 839, doi: null, inEdition: true },
+    holding: "Staatsarchiv Bern", pages: 839, doi: null, inEdition: true,
+    institution: "Staatsarchiv des Kantons Bern", shelfmark: "A V 1444" },
   { key: "a_v_1445_schoeni",   label: "A V 1445: Schöni",   year: "1528", kind: "Handschrift",
-    holding: "", pages: 776, doi: null, inEdition: true },
+    holding: "Staatsarchiv Bern", pages: 776, doi: null, inEdition: true,
+    institution: "Staatsarchiv des Kantons Bern", shelfmark: "A V 1445" },
   { key: "a_v_1446_ruemlang",  label: "A V 1446: Rümlang",  year: "1528", kind: "Handschrift",
-    holding: "", pages: 561, doi: null, inEdition: true }
+    holding: "Staatsarchiv Bern", pages: 561, doi: null, inEdition: true,
+    institution: "Staatsarchiv des Kantons Bern", shelfmark: "A V 1446" }
 ];
 
 const VARIANT_BY_KEY = {
