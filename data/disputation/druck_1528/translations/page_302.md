@@ -1,14 +1,16 @@
-Seite [X]  
-The fourth — Lung/Wirt announces to us here, therefore one also gives thanks to God.  
+Seite [X]  
+Die vierte  
 
-I also think, Lord Benedict, that you should not lie to me, that no one should receive such a sacrament; he then had beforehand a faith that a man’s sin is forgiven through the suffering of Christ: for this belongs to the fact that a man should preserve himself, test himself, in the first to the Corinthians at chapter XI. Thus now a man recognizes that someone’s bloom has already been corrupted; therefore his counsel will not be sent, as if it should first be corrupted for everyone. Thus his trial is that the wine, or in the wine, always sensually blossoms, but one thing does not stand.  
+Lung/Wirt verkündet uns hier, darum soll man auch Gott danken. Ich vermute, Herr Benedikt, dass Sie mir das nicht verschweigen, dass niemand das heilige Sakrament empfangen soll; er habe vorher einen Glauben, dass jemand seine Sünde durch das Leiden Christi vergibt, denn dazu gehört, dass sich der Mensch selbst bewährt, prüft, im ersten Brief an die Korinther, Kapitel 1. So erkennt nun der Mensch, dass jemand das Blut bereits vergoren ist; dann wird sein Reden nicht weiter gesendet, als sollte es zuerst vergoren werden. So wird seine Bewährung, dass der Wein oder im Wein sinnlich Blut ist, aber eines nicht gestand.  
 
-Pfarrer von Sant Gallen.  
+Pfarrer von Sant Gallen.  
 
-And the conclusion, as my lord Doctor thinks, the word of the cup is not thus to be understood; I would gladly, humbly, also ask one of them to decide, since the Lord has said: “Drink all thereof,” speaking: “That is my bloom, what the Lord has bestowed upon his younger ones, or what they have drunk.”  
+Und die Ablehnung, so mein Herr Doktor, meint, das Wort des Kelches nicht so zu verstehen; ich will demütig auch eines von ihm fragen, zur Entscheidung, da der Herr gesagt hat: „Trinkend alle daraus“, sprechend: „Das ist mein Blut, was der Herr seinen Jüngern dargebracht hat oder was sie trinken.“  
+
 Ecolampadius.  
 
-If it pleases you, that you may well refrain from the drawn figure, I will answer your question from the hour: where that not …  
+Ist euch lieb, dass ihr euch willig von der gezogenen Figur abwendet, so will ich euch von den Stunden an über die Frage antworten: wo das nicht sein soll, wollen wir das vordringlich ausrichten.  
 
-Pfarrer von Sant Gallen.  
-I give answer to my lord Doctor concerning the drawn figure; I have placed the same in the Acts, and so I am quite mindful, having explained the same: therefore it is not necessary further …
+Pfarrer von Sant Gallen.  
+
+Gebe ich Antwort meinem Herrn Doktor wegen der gezogenen Figur: Ich habe dieselbe in die Akten gegeben und bin mir daher recht bewusst, sie erklärt zu haben; darum ist es nicht nötig, weiter zu wiederholen.

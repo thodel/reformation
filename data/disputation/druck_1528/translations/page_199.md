@@ -1,26 +1,10 @@
-Seite XCII  
+Seite XCII  
 **Schlußred.**  
 
-creatures / as unholy rejected / shows the cause /  
-that he sets forth / then all creature of God is good / and not  
-contemptible / but thereafter further in its place.  
+Kreaturen, die als unheilig verworfen werden, zeigen die Ursache, die er darlegt; dann ist jede Kreatur Gottes gut und nicht verwerflich, aber daraufhin weiter an ihrem Ort.  
 
 **Bichwatter.**  
 
-Lord Martin Butzer also says. I have not  
-forgotten about the chapter to Timothy brought / thereto I say / as he has said / I say  
-nay / that is the understanding of the old / the holy Christian  
-church / as well founded in this text / as its exposition / and how they  
-my understanding do not comprehend / thus I do not comprehend your  
-understanding either / I refer also to the same text / and the  
-scripture / with the will  
-that I now at once have concluded / because of the scripture little  
-Protest I / that I all that so I have spoken here /  
-under the penalty of the punishment and correction / the  
-intended Christian church / where according to  
-order it is assembled / properly / where  
-I was shown / to correct  
-and to improve I am  
-willing.  
+Herr Martin Buͦtzer sagt auch: Ich habe nichts vergessen über das Kapitel zu Timotheus. Darauf habe ich hingewiesen; dazu sage ich, wie er gesagt hat, sage ich nein; das ist der Verstand von Alterhar, der heilige christliche Kirchen, wohl begründet in diesem Text, als seine Auslegung, und weil sie meines Verstandes nicht verstanden, verstand ich ihren Verstand ebenfalls nicht; ich beziehe mich auch auf denselben Text und die Schrift, mit dem Willen, den ich nun zugleich beschlossen habe, über die Schrift Beuelchen; ich protestiere, dass ich alles, was ich hier gesagt habe, unterwerfe den Strafen und der Besserung der gemeinen christlichen Kirche, wo nach Ordnung versammelt wird, verburgt, wo ich des Gewissens wurde zu korrigieren und zu bessern, bin ich willig.  
 
-End der andern schlußred.
+End der andern Schlußred.

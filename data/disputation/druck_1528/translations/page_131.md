@@ -1,15 +1,12 @@
-Seite LVIII  
+Seite LVIII  
 
-**Schlußred.**  
-I think not that it is uncommon, then the synagogues of the Jews have had a higher / superior / judge. Deuteronomy at xvii and xxviii Cap. What there is has become darker and more obscure, that one must have had to come to a decision as for the higher ones. Thus I think it is fitting for our Christian church also.  
+**Schlussrede.**  
+Ich halte nicht dafür, dass es ungewohnt sei, dass die Synagoge der Juden einen Oberen bzw. Richter hat. Siehe Deuteronomium 17 und 28. Was dort geschehen ist, finster und jährlich, dass man dasselbe haben muss, um zu einem Urteil zu kommen, wie für die Oberen. So meine ich, dass dies auch bei unserer christlichen Kirche zulässig ist.  
 
 **Berchtoldus.**  
-Master Niclaus says / Christ is indeed an angelic head of the church / it is a yoke / then the church is not before Christ / but Christ is before the church from eternity / and the church is indeed beloved.  
-Secondly / the prelates who are higher / or superior of the church are not higher / according to the Scripture / then there is no savior of the church / and the Scripture knows nothing of earthly prelates / who appear as half‑lords / but only of shepherds, preachers / and servants of the word of God.  
-Thirdly / the church of Christ lacks no ordinance / for it has been sufficiently shown by the Apostle Paul in the first Epistle to the Corinthians at xii / and to the Ephesians at iii Cap. fully heard.  
-Fourthly the Scripture from the fifth book of Moses at xvii Cap. opposes the concluding speech / then Christ is the highest priest / which signifies the Aaronic priesthood / moreover the priests of the old testament have not raised force / but have been appointed to decide / rather to teach / according to the law of God / therefore bring another Scripture / then our concluding speech is rightly left.  
+Meister Niclaus spricht: Christus ist das Haupt der Kirche; die Kirche steht nicht vor Christus, sondern Christus steht seit Ewigkeit vor der Kirche, und die Kirche ist ihm untergeordnet. Zum anderen: Die Prälaten, die Oberen, nennen die Kirche nicht höher, nach der Schrift; das Heil der Kirche ist nicht dadurch bestimmt, und die Schrift kennt keine irdischen Prälaten, die dort herrschen, sondern allein Hirten, Prediger und Diener des Wortes Gottes. Zum dritten: Der Kirche Christi fehlt keine Ordnung, denn Christus hat sie ausreichend gezeigt durch den Apostel Paulus im ersten Brief an die Korinther, Kapitel 12, und im Brief an die Epheser, Kapitel 3, vollständig erläutert. Zum vierten: Die Schrift aus dem fünften Buch Mose, Kapitel 17, widerspricht der Schlussrede nicht; Christus ist der höchste Priester, das bedeutet das aaronitische Priestertum. Dazu haben die seligen Priester des alten Testaments keine Gewalt, um nach ihrem Gewissen zu entscheiden, sondern zu lehren nach dem Gesetz Gottes. Deshalb bringe ich andere Schrift heran, damit unsere Schlussrede nicht verfälscht bleibt.  
 
 *[Marginalia, right margin]*  
-See here on the 48th leaf.  
+Sich hierzu am 48. Blatt.  
 
-p ij
+p ij

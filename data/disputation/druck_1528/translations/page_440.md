@@ -1,34 +1,11 @@
-Page CXII
+Seite CXII  
 
-The seventh  
-Christ said, “You reckon your goodness according to your works;  
-and thus now work, that your love of righteousness is not lost:  
-Do you now wish to be completely sinless according to your mind,  
-so conceal everything that you have?” Here we see that  
-the young man has not had faith, but rather trusts  
-upon his works; and the same works he has willed to keep,  
-as he has willed, and so God says to him, what true  
-faith orders, so he then goes. Jeremiah chapter xxvi.  
-It is a comparative discourse, not concerning the law,  
-but concerning the punishments, the burdens, and the works  
-that God has assigned to man. An essay on xxxv is spoken  
-of the way of the Gospel, that all who dwell therein  
-will not be unclean. Thus also in the Psalms,  
-for fire and water, for fear and tribulation taken,  
-with those God’s sight in this time does not for any  
-law punish; there must also be a water punish, therefore  
-this place all their punishments will be.
+Die Sünde  
+Christus sprach: Du rechnest deine Güte nach deinen Werken, und doch nun das Werk, das deine Liebe zur Gerechtigkeit nicht vernachlässigt: Willst du nun vollkommen sein nach deiner Meinung, so verkaufe alles, was du hast. Hier sehen wir, dass der Jüngling keinen Glauben gehabt hat, sondern von seinen Werken abgelenkt ist; die selben Werke, die er schätzt, und wie er zu Gott spricht, was der wahre Glaube erfordert, so geht er dahin. Hieremia, Kapitel xxvi.  
 
-Johannes Büchstab.  
-When the faith of Peter in the humble … that  
-he believes in Jesus Christ, that he is the Son of God,  
-all sinners would be saved; those also believe:  
-that the blood of Christ washes all, that we have  
-behind the account, is affirmed with your scripture:  
-then Paul speaks to the Romans in chapter iij. That  
-God will give each one according to his works. They are  
-the words of the prophet David and also Jeremiah,  
-which they will not be contradicted with revealed scripture;  
-I will, according to my forgiveness, remain.  
+Ist ein vergleichender Redner, der nicht dem Fachgebiet dient, sondern den Strafen, Mühen und Arbeiten, die Gott den Menschen auferlegt. In der Abhandlung bei xxxv. wird vom Weg des Evangeliums geredet, dass alle, die darin wohnen, nicht unrein sein werden. Auch im Psalm wird von Wasser, von Angst und Trübsal gesprochen; mit diesen Dingen sieht Gott in dieser Zeit nicht ein leeres Fachgebiet – es muss also ein wahres Fach sein, deshalb sind alle diese Orte, deren Fachgebiet bewährt ist.  
+
+Johannes Büchstab.  
+Wenn der Glaube des Petrus in der Gnade war, dass er an Jesus Christus glaubt, dass er der Sohn Gottes ist, würden alle Sünder selig, die solchen Glauben: das Blut Christi wäscht alles ab, das wir in der Rechnung hinter uns haben, ist mit deiner Schrift belegt. Dann spricht Paulus zu den Römern: Gott wird jedem nach seinen Werken geben. Das ist das Wort des Propheten David und auch des Hieremia, die mit offener Schrift nicht widerlegt werden können. Ich will nach meinem Gewissen vergeben lassen.  
 
 Zwingli

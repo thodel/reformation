@@ -1,13 +1,13 @@
-Seite XXXVII  
-Schlußred. XXXVII  
+Seite XXXVII  
+Schlußrede XXXVII  
 
-Die prh. Wunderred.  
-Therefore we consider that the divine council has decided that the Church possesses many Evangelia, some of which have been kept, and that the Apostles—such as Thomas, Matthias, Bartholomew—should have written them; that this has been rejected, and that we are to believe, as Marcus and Luke, who are not Apostles, have written.  
+Die erste Wunderrede.  
+Darum achten wir darauf, dass wir den göttlichen Rat befolgen, dass die Kirche viele Evangelien besitzt, von denen einige erhalten wurden, und dass die Apostel Thomas, Matthias und Bartholomäus sie geschrieben haben. Sie haben verworfen, uns zum Glauben zu geben, wie Markus und Lukas, die nicht Apostel sind, geschrieben haben.  
 
-Die prov. Wunderred.  
-Thus it shall be openly made known to everyone how the supreme Church surpasses all; that also the judgment of all the empty, also of the Apostolic, was rendered, that which they do not preserve, any weak thing should still be.  
+Die provokative Wunderrede.  
+Damit allen offen wird, dass jeder erkennt, wie die überhebliche Kirche alles übertrifft, dass das Gericht über alle Leeren, auch über die apostolischen, stattfindet, und dass das, was sie nicht bewahrt, dennoch Achtung verdient.  
 
-Die prix. Wunderred.  
-Therefore it is no less a divine right that the common Church has believed, belonging to belief, and that we likewise, at the very least, by accepting, are to believe, then that they have given us a divine writing, empty belief.  
+Die prächtige Wunderrede.  
+Darum ist es nicht weniger, als dass das göttliche Recht anerkannt wird, dass die gemeine Kirche den Glauben hat, zum Glauben gehörend, und uns das Mindeste durch Annahme des Glaubens gibt, dass sie uns durch göttliche Schrift leeren Glauben hat.  
 
-In diser letsten schlußred/zeyget oͤ Provincial Clar­lich an/dz vns anzenemen sye o
+In dieser letzten Schlussrede zeige ich … Provincial … und wir nehmen es an.

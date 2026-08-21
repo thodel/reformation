@@ -1,12 +1,13 @@
-Seite XXVI  
-**Schlußred XXVI**  
-tiern sonders für sich selbst / und sonst für niemandes / und auch dasselbe allein zu ehren meinen gnädigen Herrn von Bern / und dieser Disputation wider die … X. Schlussreden / Berreit … und etwas vorgetragen / sich protestierend / was er disputieren / und all das unverändert gehandelt wurde / solches geprüft … oberkeitet christlicher Kirche und gemeinem Concilium unterworfen habe / und sich die selben weisen lassen.  
+Seite XXVI  
+**Schlussrede XXVI**  
 
-**Doctor Cůnrad Treiger**  
-**Provincial.**  
+Tirn, besonders für sich selbst und sonst für niemanden, und auch dasselbe allein zu Ehren meines gnädigen Herrn von Bern in dieser Disputation gegen die zehn Schlussreden, den Rat, die Verurteilung und das, was die Protestierenden in Bezug auf das, was sie disputieren, vorgetragen haben, und alles, was in unformgemäßer Weise gehandelt wurde, soll solches geprüft, oberste christliche Kirche und allgemeines Konzil unterworfen werden, und die selben sollen sich weise zeigen.  
 
-Und ich sage also des Ersten der beiden Schlussreden den halben, so da betreffend und betreffend die heilige christliche Kirche … etc. Dass dieselben nach Lust und Form und dem Buchstaben nach nicht unchristlich sind, aber ihr Verstand, der da durch sie wird aufgenommen, der selbe ist irrtümlich und unwahrhaftig, darum ich denn zu Erklärung benannter Schlussrede diese zwei Schlussreden dagegen setzen will, und ist das nämlich die erste.  
+**Doctor Conrad Treiger**  
+**Provincial**  
 
-Die heilige christliche Kirche, die durch den Geist, das Gemach und das ewige Spons erhalten und regiert wird. Wenn sie die Stimme des Frommen nicht hört, ist ihr Spons und gemachter Christo fromm, welcher ihre Stimme nicht hört.  
+Und ich sage also das Erste der beiden Schlussreden, den halben, also das, was die heilige christliche Kirche betrifft. Denn die selben nach Laut und Form und nach dem Buchstaben nach nicht christlich sind, aber ihr Verstand, der dadurch wird aufgenommen, ist ihr eigentlicher und unentbehrlicher Grund; darum will ich zur Erläuterung der beiden Schlussreden, die hiergegen gesetzt werden, das Folgende darlegen, und das ist nämlich das Erste.  
 
-Die andere, darum ist sie dann von der christlichen Härte als Zerstörer christlicher Einheit und kurzer abgesondert, und bei ihr, die ein Sul und Grundust ist, der Wahrheit, der höchsten Gewalt in Sachen des Glaubens zu handeln, gefunden wird, und dieweil aber beide genannt Schlussrede solches verneinen und allein das einzig Wort Gottes in Handeln des Glaubens Richter sein wollen, so will ich das kürzlich … (Text bricht hier ab).
+Die heilige christliche Kirche, die durch das ewige Gemach und das Spons (Patronat) völlig erhalten und regiert wird. Wenn sie jedoch die Stimme des Frühbeters nicht hört, dann ist ihr Spons und das gemachte Christum‑Frühbeter, dessen Stimme nicht gehört wird.  
+
+Die andere, darum ist sie dann von der christlichen Härte als Zerstörer der christlichen Einheit und als kurzer Abstand getrennt, und bei ihr ist ein solcher und grundlegender Grund die Wahrheit, die höchste Gewalt in den Dingen des Glaubens, die gefunden wird; und diese wird aber beide, die beiden Schlussreden genannt, verneinen, und allein das eine Wort Gottes im Handeln des Glaubens soll Richter sein; so will ich das Kürzlich‑Wider‑G… (Text unvollständig).

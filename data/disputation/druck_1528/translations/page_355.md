@@ -1,31 +1,28 @@
-Seite 170  
+Seite 170  
 CLXX  
 
-This is the fifth concluding speech.  
+Dies ist die fünfte Schlussrede.  
 
-The measure yet in the breach/ wherein man  
-Christ/God the Father/ for the sin  
-of the living and the dead/offering/ is  
-the Scripture contrary/to the most holy  
-sacrifice/ of the dying and the death of Christ/a  
-restoration/ and of the will of misdeeds/a  
-grievance before God.  
+Die Maß noch im Bruch, darin man Christus, Gott dem Vater für die Sünde der lebendigen und toten Opfer darbringt, ist der Schrift widrig, dem allerheiligsten Opfer, dem Leiden und Sterben Christi, eine Läuterung und um des Missbrauchs willen ein Gräuel vor Gott.  
 
 Berchtoldus Haller.  
 
-This is our foundation/  
-in the third Epistle of John,  
-chapter. Whoever Christ  
-has recognized/ who knows/ that  
-He/God and man/a  
-Heiland is the world/ and that  
-no one may come to the Father  
-except alone through  
-Christ/John vj. Then  
-he is so dear to the Father/ that  
-he, for his will, grants us  
-grace. He also has the work of redemption/ the people  
-with judgment/ without all assistance/ Isaiah LVIij. He has  
-of all knowledge/ of the most sufficient/ for us  
-paid/ and  
-You
+Das ist unser Grund/  
+in der j. Epistel Johannes ii. Kapitel. Welcher Christus  
+hat erkannt/der weiß, dass  
+Er, Gott und Mensch  
+ein Heiland  
+ist der Welt  
+und dass  
+niemand zum Vater  
+kommen kann,  
+dann allein durch  
+Christus/Johannes …  
+er ist dem Vater so lieb,  
+dass er um seiner Sünde willen uns gnädigt.  
+Er hat auch das Werk der Erlösung vollendet,  
+das Gericht, ohne alle mitzuhelfen,  
+Jesaja lviij.  
+Er hat alles gewusst,  
+alles das Günstigste für uns bezahlt,  
+und du …

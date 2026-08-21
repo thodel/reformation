@@ -1,17 +1,13 @@
-Seite [CCXXV]
+Seite [CCXXV]
 
-**Schlußred.**  
-He shields without God’s word. Thus follows that the pastor of Appenzell does not submit to the church that holds to God’s word.
+**Schlussrede.**  
+Schirmt ohne Gottes Wort. So folgt, was der Pfarrer von Appenzell nicht der Kirche unterwirft, die sich an Gottes Wort hält.
 
-**Theobaldus Hüter.**  
-I let it remain as before presented.
+**Theobaldus Hüter.**  
+Ich lasse es bleiben, wie zuvor dargelegt.
 
-**Die nunnde Schlussrede.**  
-Holy marriage is forbidden to no estate in Scripture; otherwise … arts to avoid … offered to all estates.
+**Die nunende Schlussrede.**  
+Die heilige Ehe ist keinem Stand verboten; in der Schrift, sonst zu vermeiden, ist sie allen Ständen geboten.
 
 **Berchtoldus Haller.**  
-The closing speech is so bright and clear in God’s word that it needs neither much nor long discourse.  
-All Christians ought to know that the eternal state is ordained by God (Genesis 1:1‑2).  
-Upon that no one is to be excluded: then the Christ (Matt. 19) … namely those who are naturally to the marriage, i.e., born of a mother’s womb: some of the people are cut off, some have cut themselves off for the sake of God’s kingdom.  
-Thus follows our note that no one may forbid the marriage.  
-Since the word … without marriage life … does not …
+Die Schlussrede ist so heiter und klar im Wort Gottes, dass sie keinen langen Redebedarf mehr hat. Allen Christen ist zu wissen, dass der ewige Stand von Gott gesetzt ist (Genesis …); darüber darf niemand etwas sagen. Dann die Christus (Matthäus XIX) … Nahezu diejenigen, die für die Ehe ungeeignet sind, also aus mütterlicher Liebe geboren: einige von den Menschen abgeschnitten, einige haben sich selbst abgeschnitten um des Reiches Gottes willen. So folgt unser Hinweis, dass niemand die Ehe verbieten darf. Denn das Wort …

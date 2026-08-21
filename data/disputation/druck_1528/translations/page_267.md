@@ -1,27 +1,10 @@
-Seite 126  
-Schlußred. CXXVI  
+Seite 126  
+Schlußrede CXXVI  
 
-κοινωνία / have also **von** a community / **von** land **sich**  
-me **von** common **sin** / that **von** distribution. One may in two  
-ways **von** community have in one thing that less is  
-than we / or **von** us is: therefore we may have community  
-in the taking of grace: so we may also have  
-community in prayer. They grace we take **Christen** all together with one another: and thus we are companions:  
-and thus this must be understood **von** a worthy place / that  
-we all **Christen** / community have **von** the body of Christ: then he is **unser** all (so we truly **Christen** are) with  
-all his merits: Christ, however, we may not give **von** man / but as **Johannes** **am** vj. chapter **Stadt**: The Son of man / that is Christ / who gives  
-us the bread / that which remains **in** eternal life. And but one:  
-the Father gives us the bread **von** heaven / we however  
-cannot **von** distribute / then that we alone are servants and  
-proclaimers. Thus also the name κοινωνία / **an** many  
-other uses / **in** the **J**. Epistle **Johannes** **am** j. chapter **da** the name  
-for the fourth time **Stadt** zc. which place fittingly serves **zu** confirmation **unser** disposition. But that **forgewender**  
-appears **in** the ij. Epistle **zu** Corinthians **am** viij. and **zu** Romans **am** xv. chapter: That is a community of  
-things / that we **von** distribute hand / as **almüsen** give / and  
-with one another serve **in** the word. Then it invents itself / that  
-still a community is / **von** one more understands  
-**von** the common giving / then **von** the distribution **an** each **self**. Would we then decide **from** this / that such community  
-always was a distribution / how then would we  
-come afterwards with the saying / **in** the ij. Epistle **zu**  
-Corinth **am** j. chapter. How we are κοινωνία / that is companions of  
-Ji ij.
+κοινωνία – das bedeutet Gemeinschaft. Wir haben also eine Gemeinschaft, die uns verbindet, weil wir gemeinsam etwas besitzen. Man kann zwischen zwei Arten von Gemeinschaft unterscheiden: einer, die weniger ist als das, was wir über uns haben; und einer, die wir im Empfangen der Gnade haben. So sollen wir auch Gemeinschaft im Geben haben. Diese Gnade nehmen wir Christen alle miteinander auf; deshalb sind wir verbunden, und das soll an einem würdigen Ort verstanden werden, wo wir alle Christen Gemeinschaft im Leib Christi haben: dann ist er unser aller (so wir echte Christen sind) mit allen seinen Verdiensten.  
+
+Christus wollen wir den Menschen jedoch nicht geben, sondern – wie Johannes im ersten Kapitel sagt – „Der Sohn des Menschen, das ist Christus, gibt uns das Brot, das ewig bleibt.“ Und eines: Der Vater gibt uns das Brot vom Himmel; wir können es jedoch nicht verteilen, weil wir allein Diener und Verkünder sind.  
+
+Deshalb wird der Name κοινωνία an vielen Stellen gebraucht, zum Beispiel in der ersten Epistel des Johannes im ersten Kapitel, wo der Name zum vierten Mal genannt wird, ein Ort, der passend zur Bestätigung unserer Auslegung dient. Das wird aber auch in der neunten Epistel an die Korinther im achten und im Römerbrief im fünfzehnten Kapitel erwähnt: Es ist eine Gemeinschaft der Dinge, die wir gemeinsam geben und miteinander im Wort dienen.  
+
+Da erkennt man, dass es doch eine Gemeinschaft ist, die mehr bedeutet als das bloße Geben, dann die Verteilung an sich selbst. Wollen wir daraus schließen, dass solche Gemeinschaft immer eine Verteilung ist, so kommen wir mit dem Spruch aus der neunten Epistel an die Korinther im ersten Kapitel: Wie wir sind κοινωνία, das ist das Gesellen des …

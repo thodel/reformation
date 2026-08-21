@@ -1,15 +1,17 @@
-Seite CCXXIII  
+Seite CCXXIII  
 
-**Schlußred.**  
-Let it be read as written: There are two in one flesh/flowed the unchastity. Since now in the Old Testament the fleshly priesthood is forbidden, the Levites at the xxj no whore is taken to the ... and a young woman: how much less may be endured that in the New Testament the spiritual priesthood ... whore. Therefore it does not so oppose our Christian belief as the whore of the priests.  
+**Schlußrede.**  
+Lies mit JRO, wie geschrieben steht: Es werden zwei in einem Fleisch/Flücht die Unkeuschheit. Während im Alten Testament die fleischliche Priesterschaft verboten ist, nimmt das Volk am xxj. keine Hure zu sich, sondern eine Jungfrau: Wie viel weniger darf im Neuen Testament das geistliche Priesteramt als Hure ertragen werden. Darum widerspricht das unserem christlichen Glauben, wie die Hure der Pfaffen.  
 
-Wider diese Schlußred hat niemand wollen disputieren.  
+Gegen diese Schlussrede hat niemand zu streiten.  
 
 **Johannes Büchstab.**  
-Zum Beschluß. Hiemit wollen wir all unser reden/beschlossen/von den christlichen Lesern vermutet haben/zu betrachten/wie von unsern gegnerischen Parteien/viele hochgelernte Leute sind/und bei uns/kein besonders gelernter Mann ist, damit alle Sachen uns zu dienend/off das geschehlichste dargetan wurden. So haben wir solches auch vonachter neue gebraucht noch geübt. Darum wir alle Christen bitten/an unser Einfaltigkeit/für gut zu haben/und uns/so wir nicht allweg dem schärfsten geantwortet hätten/zu verzichten. Dann ein ekliger/so solcher Sachen nicht wohl geübt/So immer auf einen jeden Gegenwurf/schwärlichen Antworten kann. Gott sehe es alles zum Besten/Fiat/fiat.  
+Zum Schluss. Damit wollen wir alle unsere Reden, Beschlüsse und die christlichen Leser einbeziehen, betrachten, wie wir gegen die Partei vieler hochgelehrter Leute stehen und bei uns kein besonders Gelehrter ist, damit alle Dinge uns dienlich werden und das Geschehene am besten dargestellt wird. So haben wir solches auch von Anfang an gebraucht und geübt. Darum bitten wir alle Christen um unsere Einfalt, für das Gute zu haben und uns, damit wir nicht alle Wege des Scharfsinns beantworten müssen, zu verzichten. Dann ein eifriger, solch eine Sache nicht gut geübt; so wird immer ein jeder Gegenwurf, schwere Antwort, können. Gott sehe es alles zum Besten. Fiat, fiat.  
 
-**Theobaldus Hůter.**  
-Ich verstehe mich/gemeiner christlicher Kirche/will auch bei allen Schlussreden/so bisher gehalten sind/gemeiner christlicher Kirche befohlen haben. Sankt Paulus spricht zu Epheser iiij. Ein Herr Ein Gott/Ein Touff/und ein Glaube sei/etc. Also auch eine gemeine christliche Versammlung wird von dem heiligen Geist geregelt, welcher selbst nicht widerwärtig ist/bei dem selben zu bleiben. Und ob ich gerufen hätte in dem wahren Wort Gottes/mich zu berichten lassen/und folgen/als ein gehorsamer. Dass ich mich also offenlich protestiert habe/Theobaldus Hůter/Pfarrer zu Appenzell/Amen.  
+**Theobaldus Hüter.**  
+Ich unterrichte mich, die allgemeine christliche Gemeinde, will auch bei allen bisher gehaltenen Schlussreden die allgemeine christliche Gemeinde belehren. Der heilige Paulus spricht zu den Ephesern 4,8: Ein Herr, ein Gott, ein Glaube sei … Auch eine gemeine christliche Versammlung wird vom heiligen Geist geleitet, welcher nicht widersprüchlich ist, bei dem wir bleiben sollen. Und ob ich im wahren Wort Gottes gerichtet wäre, mich berichten lassen und folgen würde als ein gehorsamer. Dass ich mich also offen protestiert habe. Theobaldus Hüter, Pfarrer zu Appenzell. Amen.  
 
 **Berchtoldus Haller.**  
-Herr Pfarrer/ich bitte/du willst bleiben/beim heiligen christlichen Kirche/die Christus durch seinen Geist und Wort regiert/so werden du an .../keiner unserer Schlussreden widersprechen.
+Herr Pfarrer, ich bitte, dass wir bei der heiligen christlichen Gemeinde bleiben, die Christus durch seinen Geist und sein Wort regiert; so werden wir einig sein, keiner wird unseren Schlussreden widersprechen.  
+
+Inn ij

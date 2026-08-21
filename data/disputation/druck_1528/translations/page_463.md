@@ -1,17 +1,9 @@
 Seite [223]  
 **Schlußred CCXXIII**  
-to avoid … they let … .  
-With this I wish to have concluded this article.  
+um zu vermeiden, dass sie bleiben. Damit will ich diesen Artikel abschließen.  
 
 **Zwingli**  
-We know well that the opposition, those who keep the image‑shields, must soon be forbidden, so that one may speak according to God’s word.  
-But the images, because they have become broken, and one would know that they should not be venerated, may be kept in order to avoid misuse.  
-If we recognize a speech of human good deeds, then God, who knows all things, has also known that one should not teach images in appropriate places, because they were later venerated; therefore He also forbade it.  
-If now we were to speak in jest: we could keep them as long as they are not venerated, and we would thus be like the daughter who lets all vanity go, and says concerning this: She knows well that she ought to do what is right.  
-Whoever, for fear, comes into the … Church … iij. Therefore we know why the images belong: at no place where they are to be venerated are they to be given.  
-Hence the clarity of God’s word should appear at all places, that it may be removed there, and no longer be a source of irritation.  
+Wir wissen wohl, dass der Widerstand gegen die Bildschirme bald enden muss, damit man über Gottes Wort reden kann. Aber die Bilder sind deshalb zerbrochen, und man wüsste, dass sie nicht zu verehren sind; man sollte sie daher behalten, um Ärger zu vermeiden. Erkennen wir ein Wort menschlichen Guten: Gott, der alle Dinge weiß, hat wohl gewusst, dass man Bilder an heiligen Orten aufstellt, die nach der Zeit verachtet wurden; darum hat er es auch verboten. Wenn wir nun für das Wort „Witz“ sprechen wollen: Wir könnten sie behalten, solange man sie nicht verehrt, und an den genannten Orten erhalten; dann wären wir gleich, wie die Tochter, die zu aller Aufrichtigkeit gelassen wird, und spricht dazu: Sie weiß wohl, dass sie recht tun soll. Wer gern Gefahr sucht, kommt um in der Kirche. Deshalb wissen wir, warum die Bilder gehört werden: an keinem Ort, wo sie der Vererbung halb oder ganz entgegenstehen. Deshalb ist die Klarheit von Gottes Wort an allen Orten sichtbar, sodass sich dort wenig mehr verärgert.  
 
-**Theobaldus Bůter.**  
-The removal of the images from the Christian churches has often been present in former times, but altogether after the common Christian churches they remain.  
-The saying, as Master Franz has inserted against the use of images, reads: “You shall not make for yourself a carved, sculpted image, nor any similar use, that which is in heaven.”  
-So one sees the decision of this speech; it resolves itself, not to be wholly against our image; and he says: “You will not worship them; you must be a foolish man, who, whether wood or stone, has called himself for his God, and thus proved divine honor to him.”
+**Theobaldus Bůter**  
+Das Anbringen von Bildern in christlichen Kirchen war in der Vergangenheit häufig, doch nach allgemeiner christlicher Praxis bleibt es selten. Der Spruch, den Meister Franz eingeführt hat, gegen die Bildnutzung lautet: „Du sollst dir nicht ein graviertes, geschnitztes Bild machen, auch nicht alles gleich, das im Himmel ist.“ So betrachtet man den Beschluss dieser Rede, und er löst sich selbst, nicht zu unserem Bild. Er spricht: „Du wirst sie nicht anbeten; du musst ein unrechtmäßiger Mensch sein, der Holz oder Stein für seinen Gott aufgerichtet hat, und damit göttliche Ehre beweist.“

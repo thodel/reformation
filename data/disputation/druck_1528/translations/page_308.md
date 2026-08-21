@@ -1,20 +1,16 @@
-Seite IV  
+Seite IV  
 
-The fourth  
-Epistle to the Corinthians, chapter … By which alone every Christian believer should understand the word, the faith, and the various things set together, that we become the cup, so that the blood of Christ is poured out to us, and we should be thankful, proclaiming his death.  
+Die vierte (1.) Epistel an die Korinther, Kapitel …  
+Durch die allein ein jeder Christgläubige versteht, dass das Wort und der Glaube zusammengefügt werden, damit wir den Kelch empfangen, mit dem uns das Blut Christi gereicht wird, und wir dankbar sein sollen, seinen Tod zu verkünden.  
 
-From the other point, as the blood of the New Testament is taken, it is first shown, as is written in Genesis at chapter 17, with these words:  
+Von dem anderen Punkt, dass das Blut des Neuen Testaments genommen wird, siehe zuerst, wie es geschrieben steht: Genesis 17 mit den Worten: „Es soll alles männliche Geschlecht beschnitten werden, und ihr sollt das Fleisch über dem Vorhof entfernen, damit es ein Zeichen des Bundes zwischen mir und euch sei.“  
 
-“It shall be cut off all male offspring, and they shall be punished for the flesh over the fore‑hand, that it may be a sign of the covenant between me and you.”  
+Hier erkennt ein jeder Zuhörende und auch Leser, dass der Text des Bundes halb selbst verborgen ist; er sei allein ein Zeichen, das hier in den Worten des Abendmahls steht. Es ist ein Zeichen des Testaments oder des Blutes; so möchte ich an diesem Ort sicher sein.  
 
-Here every listener and also reader notes that the text of the covenant is half‑revealed by itself; it is only a sign, standing here in the words of the night‑mass. It is a sign of the Testament or of blood; so I may be certain at this place.  
+So aber steht alles in der Auslegung: Das ist mein Blut des Neuen Testaments und nicht bedeutungslos. Der Doktor ist uns noch nicht sicher. Einen anderen Stand zulassen.  
 
-But instead there is a whole arrangement: “This is my blood of the New Testament and not a mere symbol.” The doctor is therefore not yet known, nor is he assured. Another argument is to be added.  
-
-From that place again the principles are requested, that the closing word, that which is not ordinary and lively, the flesh and blood of Christ, we have set before a warning, Matthew and Paul with their words: “Then you, Almighty God, are merciful.” Thus you are indeed to the word of the cup, the word of Enim, set forth, which is a blessing of explanation, by which the explanation of the word of Enim, indeed, is first, what one drinks.  
+Von dem Ort wird erneut das Prinzip gefordert, und die Schlussrede, dass das Fleisch und Blut Christi nicht wesentlich und leblich seien, haben wir dagegen gestellt zu einer Bewahrung, Matthäus und Paulus mit ihren Worten: …  
 
 Ecolampadius.  
 
-When Lord Benedict … was raised … as God truly lay … there was no need. No one … is … in this …  
-
-When he deals with the understanding of the …
+Als Herr Benedict O. anzücht, wie Gott wahrhaftig liege, war hier nicht nötig. Niemand ist ihm abgeneigt; wann handelt von dem Verstand der …

@@ -1,18 +1,12 @@
-Page [X]  
-The fourth  
+Seite [X]  
+Die Vierte: Es ist mein Fleisch. Wenn man nach meinem Verständnis die Lehre der lutherischen Art, wie sie bis jetzt nicht ausreichend diskutiert wurde, anlegt, dann gilt Folgendes: Die Worte der Nacht‑Mahl‑Rede sollen von den Seligen ohne jedes Glas gehalten werden; das Brot wird nicht mehr, sondern das Gestalt‑Gehen wird vollendet.  
 
-is my flesh. When according to my understanding it should be according to the exposition of the Lutheran art, it has not been disputed to serve: such the word of the night, so that the blessed on all glory should keep, the bread will not be more, especially the formed go.  
+**Zwingli**  
 
-Zwingli  
+107 – 108 – 109 Blatt.  
 
-Heiliger am  
-107.108. und 109  
-blatt.  
+Der Ort Johannes im ersten Kapitel ist oben ausreichend erklärt; Christus spricht das Wort, das er gesagt hat: „Ich bin das lebendige Brot.“ Er wollte es verlegen, wie es zur rechten Zeit wäre; er hat also gesprochen. Und das Brot aber, das ich ebenfalls geben werde, ist mein Fleisch, das ich für das Leben der Welt geben werde. Nun hat er sein Licht nicht zum Essen gegeben für das Leben der Welt, sondern der Tod ist eingetreten. Deshalb folgt, dass er nicht mehr von diesem Fleisch spricht, sondern von dem Sterbenden oder Gekreuzigten; darüber ist genug geschrieben. Wir geben den Worten kein Glas, sondern wir lehren das Wort Gottes aus Gottes Worten.  
 
-The place of John in the fifth chapter is sufficiently explained above: that Christ the word, that he said “I am the living bread,” … and that bread, that I also will give, is my flesh, that I give for the life of the world. Now he has not given his lychnam to eat for the life of the world, except in death. Therefore it follows that he does not speak of that same flesh, especially of the dying or crucified, … enough is read … we also give the words no glory, but we read the word of God from God’s words.  
+**Buchstab**  
 
-Buͦchſtab  
-
-While we the fifth chapter of John on Sunday ... ... of both parties against one whose ... . Let me, by my answer, remain. Say further to the conclusion of this closing speech. So that the mandate of this disputation is clear, that one should lay out the dark word with holy writings and explain. So now the four Evangelists of Paul ...  
-
-Zwingli
+Während wir das erste Kapitel Johannes am Sonntag verlesen, von beiden Parteien gegen einen, dessen Lehre wir erörtern, lasse ich meine Antwort selbst geben. Sagt weiter zum Abschluss dieses Schlusses: So sei das Mandat dieser Disputation klar, dass man die dunklen Worte mit hellen Schriften verlegen und erklären soll. So nun die vier Evangelien von Paulus, so einträchtig geschrieben, will ich mich den Seligen unterwerfen.  

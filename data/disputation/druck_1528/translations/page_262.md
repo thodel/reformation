@@ -3,19 +3,15 @@ Seite CXXD
 **Die vierde**  
 
 **Ecolampadius.**  
+Unsere Auslegung wollen wir danach gewissenhaft darlegen; Herr Benedict soll in den von Paulus angeführten Worten seine Synekdoche zeigen, das erwarten wir von ihm.  
 
-Our exposition we would like thereafter to bring sufficiently / Lord Benedict shows in these drawn‑out words of Paul his synecdoche / that is what we expect from him.  
-
-**Pfarrer von Sant Gallen.**  
-
-Upon that I ask, I show a synecdoche / I rely wholly on the explanations that have been brought forward / and I wish that my understanding be explained by Paul / his exposition, however, is only partial / we must await it again.  
+**Pfarrer von Sant Gallen.**  
+Auf die Frage zeige ich eine Synekdoche; ich verlasse mich darauf, dass die vorgebrachten Erklärungen verständlich sind, und mein Verstand soll durch den Paulus erklärt werden. Seine Auslegung ist jedoch unvollständig; wir müssen sie noch einmal erwarten.  
 
 **Ecolampadius.**  
+Es soll das Dunkel durch ein klareres Licht erhellt werden; das ist hier nicht gegeben, und wir erwarten, wie er doch das über die Worte Paulus erklären wollte.  
 
-It should be that the darkness be cleared by a clearer light / this is not yet shown here / and we await how he will indeed explain the words of Paul.  
-
-**Pfarrer von Sant Gallen**  
-
-In answer to that, and with all thanks rejected, concerning the word of the night‑mass. This is my life / I have today sufficiently answered / therefore I turn away from the Acts, what the understanding of the words should be. It would be a prolonged discussion: indeed, regarding my lord Doctor, to further the writing of the matter. Why the word, that is my life, and that is my blood, should not be understood as it is clear and strongly sounding.  
+**Pfarrer von Sant Gallen.**  
+Darauf antworte ich, damit aller Dank abgelegt ist, über die Worte des Nachtmals. Das ist mein Leben; ich habe heute gewissenhaft geantwortet, darum habe ich mich von den Akten zurückgezogen, was der Verstand der Worte sein soll. Es wäre eine verlängerte Wiederholung: also von meinem Herrn Doktor, um die Sache weiter zu schreiben. Warum die Worte – das ist mein Leben und das ist mein Blut – nicht so verstanden werden sollen, wie sie klar und stark leuchten.  
 
 <p align="right">Zwingli</p>

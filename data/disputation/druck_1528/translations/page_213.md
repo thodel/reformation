@@ -1,6 +1,10 @@
 Seite XCIX  
 Schlußred XCIX  
 
-namely to Christ. I have learned and preached that Christ alone suffered for the original sin; otherwise we must also do something for our sin. I know no one who for us has suffered for the original sin, except Jesus Christ alone; if there were anyone else who had suffered for the original sin, they would show it to me, so that it would not be struck down, that he suffered for the original sin, and for all other sins he suffered for us and redeemed us, that we also must do something, so that we may not appear late. He has offered us his obedient service, good deeds, and instruction, as Psalm xxxvj. Declina à malo, & fac bonum. Reject the evil and do good, as well as I know and recognize from Paul, all our hope in God is gathered; thus he speaks.  
+Nämlich also: Ich habe gelehrt und gepredigt: Christus hat allein für die Erbsünde gelitten; wir müssen sonst wegen unserer Sünde ebenfalls etwas tun. Ich kenne niemanden, der für uns wegen der Erbsünde gelitten hat, außer Jesus Christus allein. Wüssten jedoch andere, die für die Erbsünde gelitten haben, das, dann würden sie uns nicht abschlagen, weil er für die Erbsünde und alle anderen Sünden gelitten hat und uns erlöst hat, sodass wir ebenfalls etwas tun müssen, damit wir nicht länger erscheinen.  
 
-Such a hope we have through Christ to God, not that we are sufficient, to consider something of us, as we are; besides our sufficiency is God, in which words Paul addresses the Corinthians in the other Epistle, chapter ii, letter. That we should recognize that all sufficient things are from God alone, and not from us, as from us the blessed right, so it is clearly seen, so one is called something and counsels a man to do good, to love in the will of his Creator; that is.
+Ermahnt uns, seine Gebote gehorsam zu befolgen, Gutes zu wirken und zu tun, wie Psalm xxxvj sagt: „Wende dich vom Bösen und tue Gutes.“  
+
+Wie ich wohl weiß und erkenne, dass Paulus all unsere Hoffnung in Gott zusammenführt, so spreche ich.  
+
+Eine solche Hoffnung haben wir durch Christus zu Gott, nicht dass wir vollkommen sind, zu trachten etwas von uns, als sei uns – besonders unsere Vollkommenheit – Gott. In welchen Worten Paulus die Korinther in der anderen Epistel, im 2. Kapitel, lehrt: Wir sollen erkennen, dass alles Gute von Gott kommt und nicht von uns, dass der selige Rat so klar gesehen wird, dass man etwas heißt und einem Menschen rät, Gutes zu tun, zu loben im Willen seines Schöpfers; das ist …

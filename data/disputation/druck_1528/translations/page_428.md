@@ -1,14 +1,4 @@
-Seite [X]  
-The sixth [argument] has been heard, sufficient for eternity; then it itself is not otherwise, nor is the payment for our sin.  
-So, however, it should be given— that is, payment for our sin— no one may do, neither the one Christ, nor anyone God and man, nor any single mediator of God for men, nor He.  
-Thus it does not follow that Christ has power or force; therefore the worlds also, or rather, that Christ is God, must follow; so the saints also are God, etc., which does not fit.  
-That the saints pray for us, likewise the angels pray for us, we do not leave it aside, for it is arguable “Ex non concesis.”  
-We do not leave it aside that the angels pray for us— such knowledge— so it is my belief: we awaken well, that you are dutiful.  
-But your certain “un‑twice‑fold” understanding may not be Christ’s.  
-The place of Genesis on the 28th and Christ at one place performed a greater miracle, not elsewhere, nor the Solomon II, Regum viii, Cap. gave birth.  
-Whoever entered the temple— that is, all is absent.  
-When Christ speaks to John on the third, the time comes that the things are attached, neither on the mountain nor in Jerusalem will they be attached, and Matthew on the 23rd says, “If one also says, Christ is in the field, does not go further,” that is, the death‑body Beliſei has therefore no power to make life; that he also has not lived such, but all miracles are divine, not human power; then also Christ says, “The Father who is in me does the work.”  
+Seite [X]  
+Die sechste (erhört worden) in die Ewigkeit genug, dann dasselbe nicht anders, weder die Bezahlung für unsere Sünde ist. So aber soll es gelten: das ist Bezahlung für unsere Sünde; niemand darf tun, weder der eine Christus, noch Gott und Mensch, niemand ein einziger Mittler Gottes für die Menschen ist, weder Er. So folgt nicht: Christus hat die Kraft oder Gewalt; darum haben es die anderen Welten auch, oder aber: dass Christus Gott ist, musste folgen; so sind die Seligen auch Gott, z. B. das gar nicht stimmt. Dass die Seligen für uns, gleichsam auch die Engel für uns bitten, lassen wir nicht nach; dann ist es argumentativ *ex non consessis*. Wir lassen nicht nach, dass die Engel für uns bitten, solcherweise, so sei es meiner Meinung nach: Wir erkennen wohl, dass es dienende Geister sind. Aber dein gewisser ungezählter Fürst ist verständlich, weder Christus. Das Ort *Genesis* am xxviii. und das Christus an einem Ort mehr Wunder gewirkt hat, weder am anderen, und das Salomon II Regum, VIII Kapitel geboren hat. Wer in den Tempel kam, z. B. ist alles abwesend. Da Christus Johannes am iii. spricht. Es kommt die Zeit, dass die Waren angebetet werden, weder auf dem Berg noch zu Jerusalem, und Matth. am xxiii. Wenn man auch sagt, Christus ist im Feld, geht nicht hinunter, z. B. Der tödliche Leib Beliſei hat also nicht Kraft, lebendig zu machen; das er auch lebendig solches nicht gehabt, sondern alle Wunderwerke sind göttlich, nicht menschliche Kraft; dann spricht auch Christus: Der Vater, der in mir ist, tut das Werk.  
 
-Paulus Beck, Preacher  
-to Gißlingen.  
-Hochgelert
+Paulus Beck, Prediger zu Gißlingen. Hochgelert

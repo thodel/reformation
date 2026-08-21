@@ -1,7 +1,12 @@
-Seite [X]  
-The other Christian believers to retain, by the old customs taken up as good practices, is this a good sign that they do not forbid such foods altogether, but only for a certain time. The reason I say this is that the Christian Kirche does not forbid itself, but something should be held for it, so that they, the weight, may become, not accepted, when they will have the desire to become, and they so the praised hand, therefore strives that they keep it, etc.  
+Seite [X]  
+
+Die anderen christlichen Gläubigen, die die alten Praktiken beibehalten, haben gute Übungen angenommen; das ist eine gute Anregung, dass sie solche Speisen nicht verbieten, zumindest für einige Zeit.  
+
+Der Anlass ist, dass ich sage, dass die christliche Kirche grundsätzlich sich selbst nicht verbietet; es soll jedoch etwas dafür gehalten werden, dass sie das Gewicht (die Verantwortung) nicht annehmen, wenn sie wollen, dass sie eilig werden, und dass sie das gelobte Handeln anstreben, damit sie es halten.  
 
 Martinus Bützer.  
-Here on the 90th leaf.  
 
-[D] He says half‑v. Luce, also Matthew v. Jrem, Matthew xviii, drawn from the Bichtuatter, I refer to the given answer and the same at present itself, that he, however, of the saying half to Thimo‑theum introduced a new gloss on the basis of Scripture, that he first should be of them, so spurious and forbidden, the opinion ... we also gladly accept; only he leaves us by the words of Paul, the ... and ... forbid a false doctrine, which remains, that also from Christ gently ... to Coloss. ... chapter ... the ... his supposed Kirche, as he himself confesses, the ... forbid ... now likewise for some time; so it lies today that they false doctrine ...: how can that now be of good opinion, will give ... to ... the opinion ... help. So that the matter may be ended, we refer ourselves to the aforementioned sayings. He will his Kirche also not excuse from such ... the reason, therefore that they themselves not directly forbid, but rather demand that they be betrothed; then Saint Paul ... false doctrine ... the breach of several creatures.
+Hiezu am 90. Blatt.  
+
+[D] Er spricht halb‑v. Luce / auch Matth. v. Jrem  
+Matth. xviij. vom Bischof angezogen / ich beziehe mich auf die gegebene Antwort / die selben Worte selbst / er aber hat den Spruch halb zu Thimotheus ein neues Gesetz eingeführt / auf Grund der Schrift / dass er zunächst sei von denen / so Speise und Ehe verbiete / der Meinung nach in die Sicherung / welche wir auch gern annehmen / allein er lasse uns bei den Worten Paulus / der Ehe und Speise verbiete / ein törichtes Lehrstück erkannt hat / bleibe / die auch von Christus gänzlich abzuweisen sind zu Kolos. am ij. Cap. Diewil dann sein vermeintliche Kirche / wie er selbst bekennt / die Speise verbiete / sie sei nun gleich zu etlicher Zeit / so liegt ihr am Tag / dass sie törichtes Lehrstück gibt: wie kann das nun guter Meinung sein, wenn jemand einem Gift trinken geben will / der Meinung nach zu helfen. Damit die Sache beendet werde / so referieren wir uns / auf die angezeigten Sprüche. Er wird seine Kirche auch nicht entschuldigen von solcher / der Anlass / darum, dass sie die selbst nicht sofort verbiete, sondern fordert, dass sie verlobt werde / dann sagt Paulus heute törichtes Lehrstück / den Bruch etlicher Kreaturen.

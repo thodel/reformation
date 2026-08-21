@@ -1,30 +1,15 @@
-The first
-list/of the apostles and by Scripture it is shown/that it was necessary
-that a Judas instead of ...  
+Die erste Zahl der Apostel, durch Schrift belegt, dass es nötig wäre, einen Judas zu ersetzen.  
 
-Item in the first Council of Acts, chapter ... it was asked/whether
-one should fulfill the prayer and protection of the old law/should
-be offered to those who were converted from the heathen
-craft/there he was/who gave the first sentence.  
+Item: Im ersten Konzil der Akte, Kapitel … wurde gefragt, ob man die Gebote und die Bewahrung des alten Gesetzes offenlegen solle, denen die Bekenntnisse von den Heiden zugewiesen wurden; da war er, der die erste Sentenz gab.  
 
-Item in the fifth chapter of Acts/Ananias and Sapphira had a field concealed/and something of the money hidden/or thereafter retained/then Saint Peter
-had the same punished with the goad. 2c. Item the inner
-government and order half/has he together
-with the other apostles/with Saint Paul, may well say:
-I have born you in Christ Jesus/through the Luan‑gelion.  
+Item: Im Kapitel … der Akte haben Ananias und Saphira ein Feld verpfändet und etwas des Geltens verheimlicht oder zurückbehalten; darauf hat Sankt Petrus dieselben mit dem gehenden Tod bestraft.  
 
-Item in the third chapter of Acts/he also proved the same office/when he said: “Working penance/and becoming a regular [person] in the name of the
-Lord Jesus/so you will receive the holy spirit/the Scriptures all/and likewise/that one may still bring much/while the holy Saint
-Peter/has received power/and also used the same.”  
+Item: Die innere Regierung und Ordnung hat er zusammen mit den anderen Aposteln, mit Sankt Paulus, wohl gesagt: „Ich habe euch in Christus Jesus geboren durch das Lügen.“  
 
-Thus the governance half/of the holy churches/therefore he together/with the others is set/a prince over all earth/as it is said in the
-seventeenth Psalm/there Sa‑uid says:  
+Item: Im Kapitel … der Akte hat er dasselbe Amt ebenfalls bewiesen, indem er sprach: „Wirklich Buße, und wird ein jeglicher getauft im Namen des Herrn Jesus, so werden sie empfangen den heiligen Geist, die Schriften alle und dergleichen, der noch viel mehr bringen mag.“ Währenddessen hat der heilige Sankt Petrus Gewalt empfangen und ebenfalls denselben gebraucht.  
 
-Sir are five born for the fathers:  
-You will set princes over all earth.  
+Item: Die Regierungshälfte der heiligen Kirche, darum ist er zusammen mit den anderen gesetzt, ein Fürst über alle Erde, wie im 37. Psalm gesagt ist: Da spricht der Herr: „Ihr seid geboren für die Väter; du sollst Fürsten setzen über alle Erde.“  
 
-Now Peter has exercised the regiment and used it/and has received power/as it is proven/so the office and the work
-the name with him.  
+Hat nun Petrus das Regiment geübt und gebraucht und die Gewalt empfangen, als bewährt ist, so treibt das Amt und das Werk den Namen mit ihm.  
 
-Burger+  
-Ser
+Burger+

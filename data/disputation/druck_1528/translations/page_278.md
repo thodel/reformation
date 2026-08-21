@@ -1,15 +1,13 @@
 Seite IXXX  
-The fourth (section) of faith and of truth is opposed / cause /  
-We become united only in one spirit and in one faith that comes from the spirit.  
-But the bodily nourishment of the bodily Christ, the unity of the Church,  
-that cannot be brought forward by any Scripture.  
-Such a foundation will be thoroughly remembered, that the holy Paul,  
-according to his own words, also according to the power of the truth of the spirit,  
-is preserved here, that the one who breaks the bond between one another,  
-a Church being, as if an estate. And therefore, being bound, one should turn to the community and the Church of the gods‑serving, adding no further (things).  
-And here the distribution of the bodily love of Christ / under the Church is not named.  
+
+Die vierte  
+Lichts dem Glauben und der Wahrheit wider ist/Verschlag/  
+Wir werden allein in einem Geist einig/ und in einem  
+Glauben, der von dem Geist kommt. Aber das leibliche Essen des Leichnamens Christi / die Einheit der Kirchen macht / das mag mit keiner Schrift gebracht werden. Sogar grundlegend ermessen wird / das der heilige Paulus aus seinen eigenen Worten / auch aus der Kraft der Wahrheit des Geistes bewahrt wird / hier zerreden / das die / die einley Zeichen miteinander brechend / ein Kirche seiend. z. B. wie obstat. Und deshalb sollend sei sich zu der Gemeinde und Kirchen der Götzen dienenden / niemand fügen noch gesellen. Und wird hier das verteilen des leiblichen Lebens Christi / unter die Kirchen niemand benannt.  
 
 Andreas Allchamer  
-von Nürenberg.  
+von Nürnberg.  
 
-Paul, in these cited sayings / in the first Epistle to the Corinthians / at chapter ten, speaks of two kinds of bread / of a spiritual bread / that the Christian community in Christ / the living word is built / that there love in peace and unity / in part, the whole good of Christ. And of the bread of the Lord’s night‑meal / that we likewise break / in sharing among the brothers: that bread is not the Church or community. Of such he says: The bread / that we break / is not the fellowship or distribution of the love of Christ: The other bread / that is Christianity / breaking and eating we do not: therefore it is called a bread / that is from one bread of the covenant and Testament of Christ / never ending. As Paul…
+Paulus in diesen anzognen Sprüchen / in dem ersten  
+Epistel an die Korinther / im 10. Kapitel redet von  
+zweierlei Brot / von einem geistlichen Brot / das ist die christliche Gemeinde in Christus / dem lebendigen Wort erbaut / die da liebt in Frieden und Einigkeit / und teilhaftig ist aller Güter Christi. Und von dem Brot des Abendmahls des Herrn / das selbig brechen wir / teilend unter den Brüdern: das selbst ist nicht die Kirche oder Gemeinde. Von solchen spricht er: Das Brot / das wir brechen / ist das nicht die Gemeinschaft oder Verteilung des Lebens Christi: Das andere Brot / das die Christlichkeit ist / brechen und essen wir nicht: heißt darum ein Brot / das ist von einem Brot des Abendmahls und Testaments Christi / nährend. Wie Paulus …

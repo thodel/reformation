@@ -1,13 +1,13 @@
 Seite CXIII  
-**The fourth**  
+**Die vierte**  
 **Pfarrer von Appenzell.**  
-[Initial F]Come, Christians; it is my lord the pastor of Saint Gall who has brought the clear and whole Scripture of John in the … chapter, reading thus: “The bread which I will give you … against … with very … (hard) words; Master Wilhelm has … this text … after which we have transferred … from Jerome … namely the literal … (Autem), defended.” But when I understood … now in Latin by us … not interpreted by Jerome … do not take that itself … but rather apply it to those who are versed in the Greek language … and also among the others it was spoken … so of the blood and flesh of Christ … which I then essentially confess … under the form of … bread … according to the reading of the text … previously mentioned.  
+[Initial F] Kommt, Christen! Mein Herr Pfarrer von St. Gallen hat die klare und heilige Schrift des Johannes im Kapitel zitiert, lautend: „Das Brot, das ich euch geben werde …“ Gegen diese Aussage hat Meister Wilhelm zu diesem Text etwas gesagt, das wir von Jerome übernommen haben, nämlich das wörtliche „Autem“, das verteidigt wird. Aber als ich es verstand, jetzt in Latein bei uns, weil Jerome es nicht interpretiert hat, nehme ich das nicht an, sondern beziehe mich auf diejenigen, die in griechischer Sprache geübt sind, und die auch unter den anderen gesprochen wurde, also vom Blut und Fleisch Christi, das ich dann wesentlich bekenne, in der Gestalt von Wein und Brot, nach dem Wortlaut des Textes, vorgetragen.  
 
 **Zwingli**  
-[Initial I]I have set aside my … all Greek exemplars of the Gospel of John …  
+[Initial I] Ich ließ meine Autorität auf alle griechischen Exemplare des Evangelisten Johannes stützen.  
 
 **Pfarrer von Appenzell.**  
-And I … the translation of Jerome.  
+Und ich beziehe mich auf die Übersetzung des Jerome.  
 
-**Pfarrer von Saint Gall.**  
-[Initial G]But again … recognized … today / Amen. As it was presented … for a sound understanding … several … explanations … of the … chapter … of John … … to the …
+**Pfarrer von St. Gallen.**  
+[Initial G] Oft hat uns erneut Erkenntnis verlassen, das war heute … Amen. Als dies vorgetragen wurde, war es nützlich für ein gesundes Verständnis; einige Sprüche und Erklärungen des Johannes aus unserem Verständnis dienen dazu, …

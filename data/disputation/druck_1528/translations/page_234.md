@@ -1,27 +1,6 @@
-Page [X]  
-The fourth  
-bread and eating in this chapter is not taken  
-for an offering or sacramental bread, nor for the  
-living food of the body and blood of Christ. Accordingly  
-as the lord pastor declares, it stands here this literal gift, that  
-is, I will give, that there is a promising word, we are glad to hear.  
-It promises however nothing else, neither that Christ is his humanity  
-(which he, by allegory, from the inferior part, flesh—that is, meat—takes)  
-so that the life of the world will be given in death:  
-and in sum we thus hold, at present truly judged, that this in the declared  
-statement, and the bread however, that I will give, namely your sacramental  
-bread, will be promised, also that the flesh of Christ is not to be eaten  
-alive, except in a special and living way, to be killed in our life, will be  
-promised, namely.  
+Seite [X]  
+Die vierte Brot‑ und Speise‑Verabredung in diesem Kapitel wird nicht als Opfer‑ oder sakramentales Brot noch als leibliches Essen des Leichnams und Blutes Christi angesehen. Demnach, wie der Pfarrer anzeigt, steht hier das wörtliche: „Ich will geben“, das ein verheißenes Wort ist, das wir gern annehmen. Es verheißen aber nicht anders, weder dass Christus seine Menschheit (die er per aliosim ab inferiore parte carne, das heißt Fleisch, nennt) um das Leben der Welt in den Tod geben wird, noch dass wir im Übrigen so heißen, momentan eigentliche Bewertung ist, dass hier in dem angegebenen Spruch das Brot, das ich geben werde – also dein sakramentales Brot – verheißen wird, und dass das Fleisch Christi nicht leiblich zu essen, sondern wesentlich und leiblich zu unserem Leben getötet werden soll, verheißen wird, also.  
 
-Pastor of Saint Gall.  
-In a long explanation introduced by Master  
-Ulrich Zwingli, so that I, in part, have heard Christianly and gladly,  
-namely that our hearts are the heartfelt trust in Christ being introduced,  
-it is, in my understanding, explained Christianly. But my lord Master  
-Ulrich will in this chapter leave no promise concerning the living food,  
-so in the nightly full— I rely on the many used words in his explanation.  
-He has, in that, indicated the murmuring of the Jews; no Christian  
-understander should place the withdrawn text. Since he presents the  
-living bread from heaven, which the Jews find entirely distressing, then  
-it is not otherwise held by them.
+Pfarrer von Sant Gallen.  
+
+In langer Erklärung von Meister Wilhelm Zwingli eingeführt, so dass ich zum Teil christlich und gern gehört habe, nämlich damit unsere Herzen auf das herzliche Vertrauen in Christus eingeleitet werden, ist leiblich nach meinem Verständnis christlich erzählt. Das aber mein Herr Meister Wilhelm in diesem Kapitel keine Verheißung des leiblichen Essens zulassen will, das im Abendmahl vollendet wird, verlasse ich mich auf die vielen fürgebrachten Sprüche zu seiner Erklärung. Das er dabei angesetzt hat, von Murren der Juden, mag kein christlich Verständiger den zurückgeholten Text verleugnen. Da er sich das lebendige Brot vom Himmel anzeigt, was den Juden ganz verdrießlich ist, dann ist es nicht anders von ihm gehalten.

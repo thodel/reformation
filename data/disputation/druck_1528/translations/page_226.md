@@ -1,21 +1,18 @@
 Seite [X]  
-The fourth  
+Die vierte  
 
-It is not fundamentally so, but rather opposed to the pastor; here, instead of Dabo, that is, I will give it, then it is a natural epanaphora.  
+Es ist auch nicht grundlegend, sondern richtet sich gegen den Pfarrer, dass hier Zwurden anstelle von Dabo steht; das ist, ich werde es geben, denn es ist eine natürliche Epanaphora.  
+Am xv. Tag Jenners.  
+Pfarrer von St. Gallen.  
 
-On the 15th day of January.  
-Pastor of St. Gallen.  
+[M] In Herr und mit Brüdern Weyster Wilhelm nach nächtlichem Vortrag will in die Allmächtigkeit nicht geredet haben, denn Gott weiß nicht alles, das tut er, so er vermag; warum aber sein Wort läutet und was es verfälscht, vollstreckt er, als die Verheißung hier. Johannes am vj. Kapitel.  
 
-[M] In the Lord and with the brothers, Western Wilhelm, after a nocturnal discourse, will not have spoken concerning the Almighty; for God knows not everything that He does, as He is able; why, however, his word ... and what it provokes, he fully ... as the promise here. John, chapter 5.  
+Ob wir aber gleich solches mit unserem Unfug nicht vernehmen, wie wir nicht wissen, welcher Weg des Geistes ist, auch in welcher Gestalt die Beine im Leib der Mutter zusammengefügt werden, das Gleiche wissen wir nicht, die Werke Gottes (Ecclesiastes am xj. Kapitel) sagt mein Herr, dass Christus bei der Schrift bleibt, als sein Wort ist wahrhaftig: so wir es aber nicht begreifen, sollen wir alle unseren Stand in die Dienstbarkeit Christi untergeben, zum Beispiel in der ij. Epistel am x. Kapitel. Dann, wenn wir nicht glauben, werden wir nicht verstehen. Jesaja am vij. Kapitel.  
 
-If, however, we likewise do not comprehend this with our ... not ... as we do not know what is the way of the spirit, nor in what shape the bones in the body of the mother are united; likewise we do not know the works of God, Ecclesiastes, chapter 68.  
+Denn Himmel und Erde sind unterschieden, also auch unsere Gedanken und der Weg des Herrn. Jesaja am lv. Kapitel.  
 
-My Lord says that Christ remains by the Scripture, as his word is truly firm; if we do not grasp it, we should all submit our being to the servitude of Christ, as in the Second Epistle, chapter 10.  
+Nun ist nächtlich angezogen der Spruch Johannes am vj. Kapitel: Das Brot, welches ich geben werde, ist mein Fleisch, welches ich geben werde, für das Leben der Welt; die Hölle wird nicht gerichtet, aber ich ...  
 
-Then, if we do not become believers, we will not be understood. Isaiah, chapter 5.  
+Das Wort des Herrn Dabo: Das ist, ich werde geben zweimal, da stand, will ich also, das Brot, so er für uns hat gegeben im Tod für das Leben der Welt; aber das Selbe hat er uns zu essen eingesetzt, und ...  
 
-Then, as heaven and earth are separated, so also our thoughts, and the way of the Lord. Isaiah, chapter 55.  
-
-Now the saying of John, chapter 5, is cloaked in night.  
-
-The bread which I will give is my flesh, which I will give for the life of the world; it will not be burned in hell; but I ... thus rightly declare ... the will of the little word Dabo. This is that I will give twice, there stood ... if I thus ... that the bread ... as he has given for us in death for the life of the world; also the same he has set for us to eat ... and ... the light of the word. Luke, chapter 22.
+Lukas am xxij.

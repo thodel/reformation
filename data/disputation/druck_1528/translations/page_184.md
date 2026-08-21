@@ -1,14 +1,10 @@
-Seite [XXXI]
+Seite [XXXI]
 
-**The other**  
-**Bishop.**
+**Bichuatter.**  
+Der Berchtold hat meine bzw. unsere Antwort wiedergegeben und sagt, dass nach dem heiligen Geist, als Regierender der Kirche, etwas verkündet oder geredet worden sei durch die heiligen christlichen Kirchen; er behauptet jedoch, dass er nichts gesagt oder gelehrt habe. Dann führt er an, dass dies in der biblischen Schrift begründet sei – dem stimme ich gern zu. Aber das, was von der heiligen christlichen Kirche den christlichen Menschen gesetzt oder geordnet ist, komme nicht vom heiligen Geist, noch sei es in der Schrift begründet; das soll noch bewahrt werden. Hoffentlich ist auch die Autorität oder der Spruch aus dem ersten Timotheus, Kapitel II, durch jemanden eingefügt worden. Das wird jedoch nicht helfen, etwas zu beweisen.
 
-Der Berchtold, von innern meiner Antwort / unserer Antwort sagt, dass es gebe, dass der heilige Geist als ein Regierer der Kirche etwas verkündet oder geredet habe durch die heiligen christlichen Kirchen; er sagt aber, dass er nichts gesagt oder gelehrt habe, dann dass es in der biblischen Schrift gegründet sei; das gebe ich gern zu, aber dass das von der heiligen christlichen Kirche / den christlichen Menschen gesetzt oder geordnet sei, das nicht komme vom heiligen Geist, oder in der Schrift nicht gegründet sei; das stehe noch zu bewähren; hoffentlich auch, dass die Autorität oder der Spruch im ersten zu Timotheus im zweiten Kapitel, durch jemanden eingefügt, nicht helfen werde, bewährt zu werden.
+**Berchtoldus.**  
+Die Kirche Christi hat niemals etwas angenommen, das im Wort Gottes gegründet ist. Nach Lust und nach der ersten bekannten Schlussrede sagt er, dass die Kirche des Dienstes Christi das, was dem Wort Gottes sehr viel angenommen hat, besitzt. Der Spruch des Paulus an den ersten Timotheus, Kapitel II, zeigt, dass die Schrift gnädig ist und zur Seligkeit führt.
 
-**Berchtoldus.**
-
-Die Kirche Christi hat nie nichts angenommen, denn das ist im Wort Gottes gegründet; nach der ersten bekannten Schlussrede, aber die Kirche des Christus ist die, die über das Wort Gottes viel angenommen hat; der Spruch Pauli im ersten zu Timotheus im zweiten Kapitel zeigt an, dass die Schrift gnädig ist, weiß zu machen zur Seligkeit.
-
-**Bishop.**
-
-Der andere Antwort, Herr Berchtolds, so er spricht, dass die Kirche Christi nichts angenommen hat, denn das ist im Gotteswort gegründet; und will damit geantwortet haben, dass ich so spreche, dass die christlich…
+**Bichuatter.**  
+Keine Antwort, Herr Berchtold, so spricht er: die Kirche Christi habe nichts angenommen, das im Wort Gottes gegründet ist; er will damit antworten, dass … (Text bricht hier ab).

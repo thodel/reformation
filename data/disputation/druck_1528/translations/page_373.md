@@ -1,5 +1,12 @@
-Seite 179
+Seite 179  
 
-Schlußred. CLXXIX
-Johannes Bůchstab.
-Against the arguments of Paul concerning the Hebrews I answer briefly as follows / Paul has written to the Hebrews / as to them / that the Christian faith has not yet been fully reported / that we Christians / this sacrifice of Christ is sufficient / in that we need no further sacrifice / Book / Kelber / etc. to be offered. But that we, in place of the old sacrifices, have the supreme sacrifice of Christ / who was offered once in a mortal, bodily life for all human race on the cross. Therefore to the Hebrews on the 9th and on the 10th Christ entered once through his own blood into the heavenly / He was offered once / he has with a sacrifice entered eternity / completing the sanctified / which word however does not cease / the now‑heard form of the sacrifice / so daily in the measure described. Then Paul writes here how Christ once died because of our sin / and on the Cross his blood was poured / he offered himself / God his heavenly Father / as to the Romans in the 5th chapter Christ is once died from the sin‑way / that also has been thrown away / Christ has done enough for the whole world’s sin / is therefore not enough / that we must not do [anything] / or even be free / since no one was condemned. The suffering Christ is completely sufficient for the whole world’s sin / yes, he makes himself partially / as in the third concluding speech sufficiently shown. The other sacrifice, however, is spiritual / then as He (Christ) according to the order of Melchizedek is a priest am.98.blatt. into eternity. Also it is also necessary that he also in eternity has a sacrifice / … Yy iij
+Schlußrede CLXXIX  
+Johannes Bůchstab.  
+
+Auf die Gegenargumente des Paulus an die Hebräer antworte ich kurz: Paulus hat den Hebräern, also denen, die noch nicht vollständig vom christlichen Glauben berichtet sind, geschrieben, dass unser Christus das Opfer gnädig sei, weil er nicht weiter nötig sei, ein weiteres Opfer zu bringen. Stattdessen haben wir an die Stelle der alten Opfer das höchste Opfer: Christus, der sich freiwillig in einem tödlichen, leidvollen Leib einmal für das ganze menschliche Geschlecht am Kreuz geopfert hat.  
+
+Darauf, zu den Hebräern im ix. und x., ist Christus einmal eingegangen durch sein eigenes Blut in das Heiligtum. Er ist einmal geopfert, er hat mit einem Opfer die Ewigkeit vollendet, die Heiligung vollendet, welches Wort jedoch nicht abgetan wird; die heutige Gestalt des Opfers wird täglich im Messopfer beschrieben.  
+
+Dann schreibt Paulus hier, dass Christus einmal wegen unserer Sünde gestorben ist, am Kreuz sein Blut vergossen hat, sich selbst geopfert hat, Gott, seinem himmlischen Vater, wie im Römerbrief, Kapitel v, Christus ist einmal gestorben, um die Sünde zu überwinden. Das ist ebenfalls bewiesen; Christus hat genug getan für die ganze Welt, doch das ist nicht genug, weil wir noch etwas tun sollen, oder gar frei sein sollen; niemand wird verdammt. Das leidende Christus ist vollkommen genug für die ganze Welt; ja, er macht sich teilhaftig, wie in der dritten Schlussrede gnädig gezeigt wird.  
+
+Das andere Opfer aber ist geistlich, so wie Christus nach der Ordnung Melchisedeks ein Priester ist (vgl. Blatt 98) in die Ewigkeit. Also ist es auch nötig, dass er auch in die Ewigkeit ein Opfer hat.

@@ -1,25 +1,20 @@
-Page CXXVIII  
-Conclusion CXXVIII  
+Seite CXXVIII  
+Schlußred. CXXVIII  
 
-continue further. I will not that you be a common friend of the devil,  
-that is, that you have fellowship in idolatry.  
-But it is clear that it does not mean the division of the devil, and  
-instead of κοινωνοὺς continue further: you cannot drink  
-the cup of the Lord and the cup of the devil;  
-as now at the place the cup of the devil is not meant,  
-that in the cup or draught the devil is essentially present;  
-so it is also with the cup of the Lord, that therefore it is not essentially  
-and bodily that the blood of Christ is contained.  
-And yet one says: you cannot have common share  
-at the table of the Lord and at the table of the devils,  
-there one sees by the words that they have not taken an open part  
-from the devils, but that they have had a fellowship in the service of the idols,  
-that is the devils. Thus also we Christians…  
+folgte weiter. Ich will nicht, dass ihr gemeinsamer Feind die Tüffel sind, das heißt, dass ihr Gemeinschaft habt in der Götzendienst.  
+
+Es ist jedoch klar, dass es nicht bedeutet, die Tüffel zu unterscheiden, sondern vielmehr: Ihr könnt nicht den Kelch des Herrn trinken und zugleich den Kelch der Tüffel.  
+
+Wie nun an dem Ort, wo der Kelch der Tüffel steht, nicht bedeutet, dass in diesem Kelch oder Trank die Tüffel wesentlich seien, so ist es auch beim Kelch des Herrn: Er enthält deshalb nicht wesentlich und leiblich das Blut Christi.  
+
+Und aber einer sagt: Ihr könnt nicht gemeinsam am Tisch des Herrn und am Tisch der Tüffel sitzen. Dort sieht man an den Worten, dass sie nicht einen Teil offen von den Tüffeln genommen haben, sondern dass sie Gemeinschaft im Dienst der Götzen gehabt haben – das ist die Gemeinschaft der Tüffel.  
+
+So auch wir Christen, die vom Tisch des Herrn gespendet werden, beziehen uns auf die wahren Diener Christi, die von Anfang an durch sich selbst gespendet haben. Und so ist offenbar, dass das Wort κοινωνία hier nicht „Verteilung“ bedeutet, und dieses Wort Pauli …  
 
 Alchamer  
 
-I submit my and his exposition to the Christian reader.  
+Ich unterwerfe meine und seine Erklärung dem christlichen Leser.  
 
-Zwingli.  
+Zwingly  
 
-Thus my Lord’s mandate louder / that no one should let the truth be concealed / I will, by the strength of the same points, also…
+Als meines Herren Mandat lautet: dass niemals die Wahrheit unterliegen soll, will ich mit Kraft der selben Punkte …

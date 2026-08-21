@@ -1,5 +1,11 @@
 Seite [X]  
-The first that he should judge the guilty / also every Christian must acknowledge / then according to the command of Christ / so each should punish his sinful brother / that he can now not lawfully do so / he has then judged him right and lawfully as a sinner and (jurigen) judged.  
-Secondly / the will of human in‑red / By the simple / a semblance would like to have / as if we might hope for something in faith / where the matters of faith / were decided by a common council.  
-So I, dear Christians, think / thus I today hold of divine Scripture / and have clearly shown it. Namely the correct understanding of the word of God and something of faith / through no deceit of men who themselves are liars / may be promoted / but we must, through the spirit of God in the heart, each for himself be assured / this now meets the eternal all / whom God has appointed to eternal life / then he calls such / makes them pious and blessed / to Romans … Cap.  
-Moreover, as we have said today / a church in some places may misunderstand the Scripture / while the other / as the story of this saying / that is love / not only between the church / at Wittenberg / and that of Zürich / but also many other … where the trust of the one … Jesus is set / there has been eternal life / Joan. at vj. cap. … may such … finally not harm / the trust of God / which is the chosen life / will be … through God’s spirit become complete / and never again … take.
+Die erste  
+dass er solch ein Zeugnis auch jedem einzelnen Christen hinzufügen muss,  
+dann nach der Taufe Christi soll jeder seiner sündigen Brüder bestraft werden,  
+das kann er nun nicht billig tun; er hat dann Recht und ist billig als ein Sünder und jahrelang geurteilt.  
+Zum anderen, die will, dass menschliche Einigkeit durch die Einfalt ein Zeichen erhalten soll,  
+als ob man irgendeine Hoffnung im Glauben hätte, wo die Dinge des Glaubens durch ein allgemeines Konzil entschieden wurden.  
+So ermahne ich euch, liebe Christen, wohl darüber nachzudenken; so habe ich euch heute aus göttlicher Schrift gehalten und klar dargelegt.  
+Nämlich, dass das richtige Verständnis des Wortes Gottes und die Einheit des Glaubens durch keinen menschlichen Trug, der von ihnen selbst gelogen ist, gefördert werden kann; vielmehr müssen wir durch den Geist Gottes im Herzen jeder für sich selbst gesichert werden; das begegnet nun allen, die Gott zum ewigen Leben bestimmt hat; dann beruft er solche Macht, er ist fromm und selig, zu Rom hin. Capi.  
+Da nebenbei, wie heute gesagt, kann eine Kirche an manchen Orten die Schrift anders verstehen,  
+während die andere, wie diese Geschichte von diesem Spruch, das ist Minnelieb, nicht allein zwischen der Kirche zu Wittenberg und der von Zürich, sondern auch vielen anderen, wo das Vertrauen auf den einzigen Heiland Jesus gesetzt wird, das ewige Leben hat. Johannes am … Kapitel … kann solche Zwänge endlich nicht schaden; das Vertrauen auf Gott, welches das erlöste Leben ist, wird für die Ferne durch Gottes Geist noch vollkommen werden und kein Ende mehr nehmen.

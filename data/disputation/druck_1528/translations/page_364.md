@@ -1,10 +1,17 @@
 Seite [LXXV]
 
-**Die fünffte**  
+**Die fünfte**  
 **Berchtoldus Haller**
 
-That we may, from the beginning, and also understand how Christ is a priest according to the order of Melchizedek, the holy Paul explains to the Hebrews in chapter vii. First, Melchizedek is called a king of righteousness; thus Christ is a king of righteousness: indeed he himself is our righteousness, as in 1 Corinthians 1. Secondly, Melchizedek is a king of peace; likewise also Christ, to the Ephesians in chapter i. Third, Melchizedek is also a priest of the Most High God; that is also Christ. Fourth, Melchizedek offered, but not to Abraham, wine and bread: Christ, however, offered himself; that we also ought to do, as Paul teaches to the Romans in chapter vii. Fifth, the lineage of Melchizedek is not known in Scripture, nor is his death recorded; thus Christ’s divine birth is not to be measured, Isaiah 58. From this the eternity of the priesthood of Christ is measured according to the order of Melchizedek; and so, as long as the text lies, we will not find that Melchizedek offered wine and bread to Abraham; therefore we also will not bring about that the Mass is a sacrifice.
+Damit wir aus dem Spähen kommen / und jedermann verstehen / wie Christus ein Priester nach der Ordnung Melchisedechs ist / erklärt der heilige Paulus zu den Hebräern im 5. Kapitel.  
+Zum ersten heißt Melchisedech ein König der Gerechtigkeit / also ist Christus ein König der Gerechtigkeit: ja, er ist selbst unsere Gerechtigkeit / vgl. 1 Kor. 1.  
+Zum anderen ist Melchisedech ein König des Friedens / also auch Christus / vgl. Eph. 1.  
+Zum dritten ist Melchisedech ein Priester des Allhöchsten Gottes / das ist ebenfalls Christus.  
+Zum vierten hat Melchisedech geopfert / aber nicht dem Abraham Wein und Brot: Christus aber hat sich selbst geopfert / das sollen wir auch tun / wie Paulus lehrt zu den Römern im 5. Kapitel.  
+Zum fünften ist das Geschlecht Melchisedechs nicht in der Schrift bekannt / auch sein Tod ist verborgen / also ist Christi göttliche Geburt nicht zu ermessen / vgl. Jes. 58. Daraufhin wird die Ewigkeit der Priesterschaft Christi nach der Ordnung Melchisedechs gemessen / und solange der Text liegt, wird man nicht finden, dass Melchisedech Wein und Brot dem Abraham geopfert hat; darum wird man auch nicht behaupten, dass das Mahl ein Opfer sei.
 
 **Gilg Adurer+**
 
-After what you answered me, Lord Berchtold told how Melchizedek is a figure of Christ. To the first, he is a king of righteousness, etc. This order, introduced by Lord Berchtold, we do not deny: that he has spoken, we do not find in the text that Melchizedek, Abraham…
+Nach dem, was mir geantwortet hat, hat Herr Berchtold gesagt, wie Melchisedech eine Figur Christi gewesen ist.  
+Zum ersten ist er ein König der Gerechtigkeit gewesen.  
+Diese Ordnung, durch Herrn Berchtold eingeführt, verneinen wir nicht: dass er aber gesprochen hat, wir finden im Text nicht, dass Melchisedech Abraham Wein …

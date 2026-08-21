@@ -1,12 +1,12 @@
 Seite 129  
-The fourth pastor of St Gallen.  
+Die vierte Pfarrer von Sant Gallen.  
 
-Doctor Ecolampadius, the respondent, shall answer all contributions with an explanation of the thanksgiving, so that the sign of the Lord may be used; I know no other way. This alone I desire for the assurance of our faith, that it may be explained by Scripture, that belief be the essence. Thus now, as first, this sacramental bread, which reminds us of the dying and death of Christ, should remind us how much we ought to remember that we ourselves, that we may love all, this complete [thing] in us is explained: then the elders under the month have set a sign of the covenant, which we, with being, truly were justified; and how that is meant to be surpasses its figure; likewise the body of Christ is prefigured and shown to us through the Lamb.  
+Antwort Doctor Ecolampadi an allen Beitrag zu verantworten, mit Erklärung der Danksagung, so soll durch das Nachtmahl des Herrn gebraucht werden; ich weiß nicht viel weiter. Allein das bitte ich zur Bestätigung unseres Glaubens, das mit Schrift erklärt werden soll, das Glauben sei Essen. So nun (als Erstes) das sakramentale Brot uns des Leids und des Todes Christi erinnert, wie viel mehr uns das Wesen selbst erinnern sollte, damit uns alle Liebe sei, dieser vollkommen in uns erklärt: dann die Alten unter dem Mose haben Zeichen der Verheißung genannt, welche uns mit Wesen und Wahrheit zugesprochen sind; und wie das bedeutet, wird über seine Gestalt hinausgehen. Also auch der Leib Christi ist durch das Lamm uns vorgezeichnet und angezeigt.  
 
 Ecolampadius.  
 
-Search at 107.  
-108. and 109.  
-leaf.  
+S. 107.  
+108. und 109.  
+Blatt.  
 
-The belief is spiritual food; it has been sufficiently proven by the fifth chapter of John, yet we must still bring further proof. But Lord Benedict says: Since the sacramental bread is brought to us for remembrance, we should more often remember the present life of Christ himself; thus one should note what the word remembers, that we have … and how a man may be remembered; thus the perishable thing serving remembrance must be understood with the senses, as through hearing or sight. But now the body of Christ is no longer visibly …
+Der Glaube sei geistliches Essen, ist ausreichend bewährt, nach dem 5. Kapitel Johannes; jetzt soll noch mehr Bewährung eingeführt werden. Herr Benedikt spricht: Weil das sakramentale Brot uns zum Gedächtnis führt, soll uns die Gegenwart des Leibes Christi selbst immer erinnern; man soll vermerken, was das Wort erinnert, was er hat, und wie der Mensch erinnert werden kann. So erfindet sich das verschiedenste Ding zur Erinnerung dienend; es muss mit den Sinnen begriffen werden, etwa durch Gehör oder Sicht. So nun aber der Leib Christi hat uns nicht mehr sichtbar geheiligt werden sollen.

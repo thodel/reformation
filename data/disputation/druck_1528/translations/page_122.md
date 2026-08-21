@@ -1,12 +1,8 @@
 Seite [X]  
-The first  
+Die erste  
 
-of the Scripture will be found / that something to a few has been promised / and yet many have been deceived / as Matthew in chapter IV  
-spoke the Lord to Peter and Andrew: Follow me / I will make you fishers of men.  
-Now, through the prophet Jeremiah in chapter XIV,  
-all apostles are taken as fishers; therefore they should catch men with the net of the word of God. And because of this the power / of Matthew in chapter IV of the two is spoken / to all is commanded. Bringing Scripture against the conclusion / then those who have thus been introduced / only preserving.  
+der Schrift gefunden wird, das etwas wenigen versprochen ist, und aber vielen gelobt, als Matthäus im 8. Kapitel sprach der Herr zu Petrus und Andreas: Folgt mir nach, ich will euch zu Fischern der Menschen machen. Nun werden durch den Propheten Jeremia (18. Kapitel) alle Apostel zu Fischern berufen, darum sollen sie mit dem Netz des Wortes Gottes die Menschen fangen. Und deshalb wird die Kraft aus Matthäus Kapitel 8 von zweien gesprochen, allen befohlen ist. Bringt die Schrift zur Schlussrede, dann die hier eingeführt habend, nur bewahrend.  
 
 Senger  
 
-It is my intention to announce / that Peter, son,  
-truly may be given the power to bind and release the keys in heaven. If I wish to show / that I have shown my purpose / thus it will be right concerning the conclusion. And that you may indicate with Scripture / as Peter for all has answered / not to this matter. Moreover John says in chapter XX: thus speaking: Christ has there deceived Peter and all other youths / the keys / I also say / that the same to the other promise of Peter / Matthew in chapter XIV cannot serve: then the word and saying are alike. The saying just mentioned, Matthew chapter XIV, thus knows: I will give you the keys: what you bind on earth shall be bound in heaven. But this saying, John in chapter XX, knows thus: Taking the holy spirit, if you the sin ablate, to them they are forgiven: if you keep.
+Anzeigen ist mein Vermächtnis geschehen, dass Petrus wirklich Gewalt hat, die Schlüssel zu binden und zu lösen im Himmel. Wenn ich das zeigen mag, dass ich meinen Teil gezeigt habe, so wird es richtig sein über die Schlussrede. Und dass ihr viel anzeigt mit Schrift, wie Petrus dafür alles beantwortet hat, dient nicht zu dieser Sache. Zudem spricht Johannes im 20. Kapitel so hier sprechend: Christus habe da Petrus und allen anderen Jüngern gelobt, die Schlüssel, spreche ich also, dass er selbst zur sonstigen Verheißung Petrus/Matthäus im 16. Kapitel nicht dienen mag: dann sind das Wort und Spruch ungleich. Der jetzt genannte Spruch Matthäus 16. Kapitel weiß also: Ich will dir die Schlüssel geben: was du auf Erden bindest, das wird im Himmel gebunden sein. Aber dieser Spruch Johannes im 20. Kapitel weiß also: Nehmt den heiligen Geist, dem die Sünde vergeben wird, dem ist sie vergeben: dem ihr behaltet.

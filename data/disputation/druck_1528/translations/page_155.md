@@ -1,12 +1,12 @@
-Page LXX  
-Closing remarks LXX  
-Gentlemen, as he has spoken: Confirm your brothers.  
+Seite LXX  
+Schlußred+ LXX  
+Herren, wie er gesprochen hat: Bestätige deine Brüder.  
 
 Berchtoldus+  
-Moses and Aaron both are a figure of the one Christ to the Hebrews in chapter III, verses … and VI. Chapter. Sannannihn the saying of Luke is such here before three days answered; I leave myself at the 14th leaf, the Acts.  
+Moses und Aaron beide sind ein Bild des einen Christus für die Hebräer im zweiten und sechsten Kapitel. Der Spruch aus Lukas ist hier vor drei Tagen erklärt worden; ich lasse mich am 14. Blatt die Akten ansehen.  
 
 Gilg Durer  
-It has not yet happened enough to me, and I will let it remain; I request my part of the writing.  
+Mir ist noch nicht genug geschehen, und ich will dabei bleiben; ich befasse mich mit meinem Teil der Schrift.  
 
 Meister Jacob Edlibach+  
-Thus, Lord Berchtold, in answer (Master Niclaus of Zofingen has spoken) that Christ is a beloved head of the Church; it is a head, which I have now also spoken, therefore it is fitting for me to answer. Say I, Christ is a beloved head; there is no head, if it is not of all being guided, but Christian; therefore I call him our beloved head, that he himself has beloved the Church, and not the Church his; then I still call him a beloved head of the Church, of which head the Church …
+Also, Herr Berchtold, in der Antwort, die Meister Niclaus von Zofingen gegeben hat, heißt es, Christus sei ein ungeteiltes Haupt der Kirche; das ist ein Joch, das ich nun ebenfalls gesagt habe, darum ist es mir zu verantworten. Sprich, Christus ist ein ungeteiltes Haupt; es ist kein Joch, wenn es nicht von allen getragen wird, sondern christlich. Darum nenne ich unser ungeteiltes Haupt, dass er selbst die Kirche ungeteilt hat und nicht die Kirche ihn. Dann erkenne ich ihn noch als ein ungeteiltes Haupt der Kirche, von welchem Haupt die Kirche fließt: Gnade, Weisheit, Erlösung und alle Vollkommenheit und Gott. Also nenne ich den Papst nicht ein Haupt, sondern ein gesetzlich eingesetztes Haupt der Kirche.

@@ -2,15 +2,10 @@ Seite [LXXXII]
 
 **Schlußred. LXXXII**
 
-**Ordnung miner herren**
+**Ordnung meiner Herren**
 
-Having our gracious lord, the Schultheiss and Council of this illustrious place Bern, to avoid all unrest of all parties’ complaint, again arranged and ordered that all the pastors, soul‑caretakers, and preachers in the city and country, also those so wonderfully described against the present dispute, are mentioned.  
-Thus all the others, likewise concerning this dispute, should perhaps be placed in the choir and let each party write their own.  
-And again from the preachers’ party many learned men are present; may the opposite be consulted of two, three, four, or more, elected in all their names to dispute the closing speeches.  
-Besides, also one [representative] from both parties whose [matters] may be addressed in writing or orally, to be helped, to bring forth for the proclamation of divine truth, which is serviceable: all according to the authority of the written mandate of the disputation.  
-All priests, preachers, pastors, and soul‑caretakers of the city and country should also remain here until the end of this disputation and not depart.
+Abend, unser gnädiger Herr Schultheiß und Rat dieser lobwürdigen Stadt Bern, zur Vermeidung aller Unruhe von allen Parteien, Klage, jedoch einmal geräte und geordnet, dass alle ihre Pfarrer, Seelsorger und Prediger in der Stadt, auch die so wunderbar gegenwärtig in den Disputen beschrieben sind. Ebenso sollen alle anderen, die an dieser Disputation teilnehmen, sich im Chor versammeln und einander die Parteien schriftlich festhalten lassen. Und diesmal ist die Predigantenpartei von vielen gelehrten Männern besetzt; der Gegenstand soll von zwei, drei, vier oder mehr Personen erörtert werden, die im Namen aller gegen die Schlussreden disputieren. Außerdem kann jeder von beiden Parteien seine Vertreter schriftlich oder mündlich beraten und unterstützen, um die göttliche Wahrheit zu erkennen; alles nach dem schriftlich festgelegten Mandat der Disputation. Es sollen auch alle Priester, Prediger, Pfarrer und Seelsorger von Stadt und Land bis zum Ende dieser Disputation hier verbleiben und nicht weichen.
 
-**Demnach hat Niclaus Manuel/Vogt**  
-**zů Erlach/nachuolgendered gethan.**
+**Demnach hat Niclaus Manuel, Vogt zu Erlach, nachgeholfen.**
 
-Esteemed learned, no one should think that our gracious lord alone understands that the articles presented through their sermons together with the doctrine flow from them, are to be preserved; that alone is to be undertaken to investigate the truth of the divine word, whether the articles are in the holy Scripture …
+Ewürdigter Gelehrter, es soll niemand annehmen, dass unser gnädiger Herr allein begierig sei, dass die vorgetragenen Artikel durch ihre Predigten samt Lehre daraus fließen und erhalten werden, sofern er allein ist …

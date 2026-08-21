@@ -1,32 +1,13 @@
 Seite [198]  
 **Schlußred.+** **CXCVIII**  
 **Meyster Vlrich zwingly.+**  
-So likewise it is for us also of the Christian community/  
-and those who understand the title.  
+So bezeugen wir es auch, die christliche Gemeinde, und denen, die den Titel verstehen.  
 
 **Gilg Aͤdurer**  
-But what Master Wilhelm Zwingli has said, Paul to the Corinthians on the 12th/  
-does not speak here of the love of the saints; it is without doubt not/  
-then he says: “She will never be loved again,” and I also do not think/  
-that he may say that the heavenly saints in heaven/  
-should not have the divine love; indeed even more,/  
-that no man may have it here in this time.  
+Was jedoch Meyster Vlrich gesagt hat, dass Paulus zu den Korinthern am 12. nicht hier von der Liebe der Heiligen spricht, ist zweifellos nicht so; dann sagt er: Sie wird nie wieder geliebt werden, und ich meine auch nicht, dass er sagen darf, dass die jenseitigen Heiligen im Himmel nicht die göttliche Liebe besitzen; ja, sogar im Überfluss, dann könnte kein Mensch hier in dieser Zeit besitzen.  
 
 **Zwingly**  
-We hereby acknowledge that the love of the heavenly saints/  
-is far more powerful and greater than the love of the mortals./  
-This, however, does not oppose us,/  
-for we point out that Paul speaks of the love/  
-that we have in this time: that same powerful love/  
-we may not attribute to the blessed God,/  
-as is shown in the words of Paul.  
+Wir bekennen, dass die Liebe der jenseitigen Heiligen viel anders, kraftvoller und größer ist als die Liebe der Sterblichen. Das widerspricht uns jedoch nicht, denn wir zeigen, dass Paulus von der Liebe spricht, die wir in dieser Zeit haben: die gleiche kraftvolle Liebe, die wir dem seligen Gott nicht zuzurechnen pflegen, wie in den Worten Paulus angezeigt ist.  
 
 **Gilg Aͤdurer+**  
-I am present, my argument is partly turned away,/  
-so Christ intercedes for us in heaven/  
-and gives our repentance, that the intercession of the people here on earth:/  
-so it should also be demanded of those in heaven:/  
-then why, however, the saints in heaven/  
-do not intercede for us as the living do here on earth:/  
-therefore it does not suit them;/  
-thus it would also not be appropriate for Christ to be drawn…
+Ich bin vorhanden, mein Argument ist zum Teil gewandt: Christus bittet für uns im Himmel und gibt uns seine Gegenwart; das Fürbitte der Menschen hier auf Erden soll auch von den Engeln im Himmel verlangt werden. Warum? Einerseits beten die Heiligen im Himmel nicht für uns, wie hier die Lebenden auf Erden, und deshalb ist es ihnen nicht zustehen. So würde es auch Christus nicht angemessen sein, ihnen diese Aufgabe zu übertragen.

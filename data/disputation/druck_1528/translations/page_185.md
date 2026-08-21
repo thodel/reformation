@@ -1,14 +1,9 @@
 Seite LXXXV  
-**Schlußred.**  
-
-Truly the church has set something / that is not founded in God’s word / that it is not yet verified by anyone with the Scripture / I say, I have not spoken / that the Christian church has taken nothing / that it is not founded in God’s word / rather I have spoken, he should verify / that it has set or ordered something / that is not founded in God’s word.  
+**Schlussrede.**  
+Ehrlich gesagt habe ich in der Kirche etwas eingesetzt, das nicht im Wort Gottes gegründet ist; das ist durch niemanden noch nicht mit der Schrift belegt. Ich sage, ich habe nicht behauptet, dass die christliche Kirche nichts angenommen habe, das nicht im Wort Gottes gegründet ist, sondern ich habe gesagt, er solle beweisen, dass ich etwas gesetzt oder geordnet habe, das nicht im Wort Gottes gegründet ist.  
 
 **Berchtoldus.**  
+[Initial D] Der Bischof will mir etwas vortragen, das jedoch jemandem zusteht, wenn die christliche Kirche etwas gesetzt hätte, das nicht im Wort Gottes steht. Deshalb würde die christliche Kirche keine Satzung machen, die dem Wort Gottes widerspricht; das ist jedoch klar zu erkennen an dem Spruch aus dem Buch Jesaja, Kapitel 29.  
 
-[Initial D] The Bichtuatter wants to explain to me / bring forth that however it would be appropriate / as if the Christian church had set something / that does not stand in God’s word / therefore the Christian church makes no doctrine whatsoever contrary to the word of God / is however not clearly … / according to the saying of Isaiah on the twenty‑ninth / of the … / so that I … the emptiness and the message of men, as it is shown here at the beginning, also Matthew chapter XV, page 73.  
-
-**Bichtuatter.**  
-
-[Initial H] Sir Berchtold admonishes me / that I am beguiled by someone / that it would be appropriate to bring / I mean / that this is his proper answer / I have enough to bring / as he has given thereafter / that the holy Christian church, as St. Paul says, is a pillar and strengthening of the truth / and thereby said that the Christian church is founded upon the word of God / that I also speak, therefore I think that it is not necessary for further proof / that I further prove the doctrines of the holy Christian churches, which are founded on truth and God’s word, further …  
-
-(Note: the manuscript ends abruptly.)
+**Bischof.**  
+[Initial H] Herr Berchtold, ermahne mich, dass ich von jemandem beauftragt wurde, das mir zusteht, zu bringen; ich meine, dass ich seiner rechten Antwort genug gegeben habe. Denn danach hat er gesagt, dass die heilige christliche Kirche, wie der heilige Paulus sagt, ein Werkzeug und eine Festigung der Wahrheit ist und dass die christliche Kirche auf das Wort Gottes gegründet ist, das ich ebenfalls verkünde. Deshalb meine ich, dass es nicht nötig ist, weiter zu beweisen, dass ich die Satzungen der heiligen christlichen Kirche, die auf die Wahrheit und das Wort Gottes gegründet sind, weiter bestätige.

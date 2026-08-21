@@ -1,11 +1,2 @@
-Page [X]  
-and first give an answer to the half of the saying of the clerical,  
-which corrects everything; therefore we know that our opponent  
-wishes to divide there, that a common council has taken something  
-besides the Scripture, has also first of the Scripture  
-to give the appearance; so it has become clearly answered  
-that the clerical has not corrected the Scripture; that is his desire  
-to take the Scripture up or to reject it, but he must alone take it;  
-then he openly, through the Spirit, has recognized, by which the Bible  
-is given to us; however my lord Doctor wishes to understand the division,  
-as also Paul.
+Seite [X]  
+Und gib zunächst Antwort auf den Spruch „halbē“, der geistlich alles richtet. Denn wir wissen, dass unser Gegenpart das Verteilen dahin ziehen will, dass ein gemeines Concilium etwas neben der Schrift anzunehmen hat. Er hat auch zunächst der Schrift das Ansehen geben; so ist Billich geantwortet worden, dass der Geistliche die Schrift nicht zu richten hat. Das ist seiner Meinung nach, die Schrift anzunehmen oder zu verleihen, sondern er hat allein sie annehmen müssen, dann er offen durch den Geist seine Erkenntnis hat, durch welchen die Bibel uns gegeben ist. So aber mein Herr Doctor das Verteilen verstehen will, wie es auch Paulus …

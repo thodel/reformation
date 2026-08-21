@@ -1,13 +1,12 @@
-Page [X]  
-The first  
+Seite [X]  
 
 Berchtoldus.  
-[I] I am united with Master Jacob, that now over a hundred years have passed, a single wholly sufficient head of the Church is, that is Christ and not the Pope, according to the content of our concluding address.  
+[I] Ich bin mit Meister Jacob einig, das nun über hundert Jahre her ist; ein einzig vollkommen genügsames Haupt der Kirche sei, das ist Christus und nicht der Papst, nach Inhalt unserer Schlussrede.  
 
 Edlebach.  
-[I] I speak: Lord Berchtold acknowledges himself with me as one, so I recognize a supreme shepherd of the Church and Christ as the true head of the Church.  
+[I] Ich spreche: Herr Berchtold erkennt sich mit mir einig; so erkenne ich einen obersten Hirten der Kirche und Christus als das wahre Haupt der Kirche.  
 
 Senger.  
-[I] In the name of our beloved Lord Jesus Christ, as my lord the preacher, in his concluding words taken up, a single head to be the Christian Church; I then especially regard Christ Jesus as the supreme head, the only head of the Church. This is for all Christian‑believing people. I think, however, that Scripture says that through its order and the secret of the Word of God and its twelve apostles, other superiors—prelates, regents, and heads—are also to be in the Church; that I there will have no thanks for this word‑head as equal to the other head, prelates or superiors, as the holy twelve apostles speak to the Romans in chapter XII.  
+[I] Im Namen unseres lieben Herrn Jesu Christi, wie meine Herren die Predigenden in ihrer Schlussrede vorgetragen haben, ist ein einheitliches Haupt für die christliche Kirche nötig. Ich behaupte, dass Christus Jesus das höchste Haupt aller Kirchen ist; das gilt für alle christlichen Gläubigen. Ich meine jedoch, dass die Schrift lehrt, dass durch seine Ordnung und das Geheimnis seines Gotteswortes sowie seiner zwölf Apostel, Prälaten, Regenten und Oberhäupter in der Kirche ebenfalls ein solches Haupt bestehen soll. Ich will keinen Streit darüber, dass das Wort „Haupt“ gleichbedeutend ist mit dem anderen Haupt, den Prälaten oder Oberen, wie der heilige Zwölf in Rom am xiij. Kapitel spricht.  
 
-Cap. What is from God is ordered; now the holy Christian Church of Christ Jesus, therefore there must also be order within it; we find through the prophet Job in chapter V that in the assembly of the holy Church there is all … but in the Church of Jesus Christ …
+Cap. Was von Gott ist, das ist geordnet; nun ist die heilige christliche Kirche von Christus Jesus, darum muss auch Ordnung darin sein. Wir finden durch den Propheten Hiob im ersten Kapitel, in der Versammlung der Kirche des Himmels, dort ist alle Unordnung, aber in der Kirche Jesu Christi …

@@ -1,18 +1,14 @@
-Page CCVII  
-Conclusion.  
-[H] Ochgelert, wise, prudent lords and devout Christians.  
+Seite CCVII  
+Schlussrede.  
+[H] Ochsgekehrt, weise, vorsichtige Herren und fromme Christen.  
 
-My opinion is not contrary to these concluding words: for I myself have preached the martyr’s doctrine.  
+Meine Meinung ist nicht zu schwach gegen diese Schlussreden: Denn ich habe selbst den Märtyrer gepredigt. Ich bin jedoch von einem ersten weißen Rat, der anstelle von Ulm verordnet und gesetzt ist, in die Stadt Gißlingen, seiner Herrschaft, und mir ernstlich von jenen Befehlen, dasselbe das heilige göttliche Wort unvermischt mit menschlicher Leere rein und lutherisch dem Volk zu tragen und zu verkünden. Dieses Licht habe ich nach meinem Vermögen mit ganz höchstem Fleiß getan.  
 
-But I am from an ancient wise council of the city of Ulm, ordained and appointed in the city of Gißlingen, its dominion, and I earnestly, from them, therefore bring and proclaim the holy divine word, mixed with human learning, pure and clear, to the people. That light I have, according to my ability, performed with the utmost flow.  
+Nun ist aber ein Pfarrer in der genannten Stadt Gißlingen, mit Namen Doctor Jörg Oßwald, der zum zweiten Mal mich und die geringsten unter den anderen frommen christlichen Predigern schwächt, verachtet, vor dem einfältigen Volk aufrüttelt und mit vielen anderen Lehrungen angreift. Auch diese Zechen‑Artikel zum offenen Mal hat er angetastet. Daraufhin hat er sich zu dem offenen Mal öffentlich vor den hohen Schulen und allen Gelehrten seiner Lehre bereit erklärt, in eigener Person oder schriftlich Rechnung zu geben.  
 
-Now, however, there is a pastor in the aforementioned city of Gißlingen, named Doctor Jörg Oßwald, who, for the second time, has reduced me to the least, together with other devout Christian preachers, weak, contemptible, before the simple people, and with many other assaults.  
+Weil nun jedoch eine Versammlung vieler trefflicher gelehrter Männer hier versammelt ist, habe ich von solcher Art hoch schriftlich allen Höchsten mitgeteilt, dass er sich hierher von diesem freien Platz verfahren soll. Ich will jemandem vor den Gelehrten und vor dieser christlichen Gemeinde Rechnung und Antwort meiner Lehre geben; zugleich auch in seiner Jugend mit heiliger Schrift weise und leer. Ich war ganz der Hoffnung, dass er seinem hohen Angebot nach erscheinen würde. Deshalb ist er bis zum heutigen Tag erwartet worden, aber ich sehe ihn noch nicht.  
 
-Also this said article has been touched for the public occasion; therefore it is openly offered before the high scholars and all the learned, his empty calculation to give, in his own person or in writing.  
+Ob nun er oder jemand von seinen Weggefährten mit seiner Schrift hier wäre, der mich meiner Lehre halber ansehen würde: Bin ich bereit, jemandem vor dieser Gemeinde Gottes Antwort zu geben, will ich mich auch hier offen protestieren und bezeugen; und ich hoffe, ich habe vor allen frommen Christen wie einem christlichen Prediger gehandelt.  
 
-But now there is a gathering of many learned men here; I have offered such a high written petition, the most earnest, that he may here, on this free place, arrange … I would, before the learned, before this Christian community, give account and answer my emptiness, also in his … with holy Scripture, wise and empty.  
-
-I have been gently hopeful; he was offered his high … appeared … Therefore his waiting … until the present day … but I have not yet … whether he or anyone from his … with his writing would … that I, for the sake of my doctrine, might be shown … I am ready … before this community of God … to give answer … I also have publicly protested … and … I have before all pious Christians … as a Christian preacher … acted.  
-
-End of the sixth conclusion.  
-fff iij
+Ende der sechsten Schlussrede.  
+fff iij

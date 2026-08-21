@@ -1,26 +1,4 @@
-Seite XXIII  
-. Schlußred. XXIII  
-Apostle speaks) thus giving with the power of our Lord  
-Jesus Christ / who has such a burden upon him the  
-Thüffel / to the corruption of the flesh / that the soul may be  
-consumed / on the day of the Lord Jesus. Here we hear  
-actually that Paul not only banned / but  
-the Church and he with the Churches / I also  
-wish to show you here / dear Sir Pastor of Appenzell. Why  
-the Apostle Paul the ban the corruption  
-of the flesh took / He took flesh / that we call  
-offering / as at the Rebezer at the ninth Chapter.  
-Since he speaks / with justification of the flesh / for which  
-we speak / earthly justifications / or earthly service / Example / that a child‑baptized / according to the law  
-Moses the two thieves / or otherwise thieves / according to their  
-behavior offered / makes the offering internally not  
-just / nor pure / from that then follows / that such offering only an  
-earthly justification has been / and so much  
-that the women again into the community  
-came / sent / thereby we will notice / that  
-Paul fleshly justifications / took for earthly  
-justifications / thus he does here also / since he speaks  
-giving in the Thüffel to the corruption of the flesh / for  
-earthly corruption / then the ban is needed otherwise /  
-neither a clause and conclusion of the evil glid / that  
-dozhin
+Seite XXIII  
+Schlußrede XXIII  
+
+Apostel spricht) So gebend mit der Kraft unseres Herrn Jesu Christi, den ein solches Laster auf ihn hat, den Tüffel, zur Verderbnis des Fleisches, damit die Seele gefristet werde am Tag des Herrn Jesu. Hier hören wir ausdrücklich, dass Paulus nicht allein den Bann ausgesprochen hat, sondern die Kirche und er mit den Kirchen; ich will euch hier ebenfalls ansprechen, lieber Herr Pfarrer von Appenzell. Warum der Apostel Paulus den Bann der Verderbnis des Fleisches verhängt hat: Er nennt das Fleisch, das wir äußerlich nennen, als zum Beispiel im neunten Kapitel. Da er spricht von der Rechtfertigung des Fleisches, für das wir sprechen, äußere Rechtfertigungen oder äußerliche Dienste; Beispiel: ein Kind, das nach dem Gesetz Mose die zwei Täter oder sonst Diebe, nach ihrem Vergehen, aufgefordert hat, macht das Opfer innerlich nicht gerecht, noch rein; daraus folgt dann, dass solches Opfer nur eine äußere Rechtfertigung gewesen ist und so viel getan wurde, dass die Frauen wiederum in die Gemeinde kommen, geschickt wurden; daran werden wir merken, dass Paulus fleischliche Rechtfertigungen nicht für äußere Rechtfertigungen nimmt; also tut er hier auch, da er spricht, indem er dem Tüffel zur Verderbnis des Fleisches gibt, für äußere Verderbnis; dann ist der Bann nützlich, anders weder ein Zusatz noch Abschluss des bösen Glieds, das dahin …

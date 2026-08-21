@@ -1,28 +1,14 @@
-Seite CLXXXIX  
-Schlußred.+ CLXXXIX  
-der.zc. So die recht verstanden werden/gnädiglich an  
-tag gebracht/das Opfer der Messe/gemäß zu sein werden  
-Gottes/als ich vertraue und unterrief mich gemein  
-christlichen Kirchen/ wo ich nicht gleichförmig wäre  
-dem Gotteswort gewesen.  
+Seite CLXXXIX  
+Schlußred. + CLXXXIX  
 
-Zwingli  
-Wir haben aller unser Tag gehört/welcher sich selbst  
-zu einem Zuges darbot/dem sollte man Kundschaft nicht trügen. So aber mein Herr Pfarrer/  
-sich auch gar zu einem Richter macht/Lüge wäre es ihm gewesen  
-zu verhohlen/ oder ihm seines Verrats gestanden werden. Deshalb wohl / bei dem gemeinen  
-Unterscheiden bleiben würde. Wir bezogen uns auf die da gläubigen  
-Verstand der Schrift habend.  
+derzeit – So dass das Recht verstanden wird, genügsam an den Tag gebracht, das Opfer der Messe gemäß Gottes, als ich vertraue und mich in der gemeinen christlichen Kirche unterrief, wo ich nicht gleichförmig dem Gotteswort gewesen wäre.  
 
-Theobaldus Hůter  
-Ich setz meine Sache/wie ich geredet habe/hoffe damit  
-inützlich verhöhnt haben.  
+**Zwingli**  
+Wir haben an diesem Tag alles gehört, was sich selbst zu einem Zug darbot; dem sollte man nicht vertrauen. So aber mein Herr Pfarrer, der sich auch gar zu einem Richter macht, wäre das eine Lüge, wenn er jemandem etwas vorwerfen oder jemandes Urteil annehmen würde. Das Halbe würde bei dem gemeinen Unterschied bleiben. Wir bezogen uns auf die, die den gläubigen Verstand der Schrift besitzen.  
 
-Am xxj Tag Jenners.+  
-Meister Johannes Dannberg  
-IN nomine Domini, Amen. Hochgelerten/erwirdigen/  
-Herren. Wie wohl diese Materie/antreffende die  
-Messe/ob sie ein Opfer sei oder nicht/wie wohl zu  
-Teil gnädig darauf disputiert wäre: so begegnet mir ein Spruch Paulus/in meinem Bedünken/dienend  
-auf diese Materie/welcher Spruch Paulus schreibt/zu den Hebräern am v. lut also: Ein ätzlicher Bischof od hoher  
-Priester/ß den Menschen aufgenommen/ward den Menschen.
+**Theobaldus Hůter**  
+Ich setze meine Sache, wie ich gesprochen habe, in die Hoffnung, dass sie unverzüglich vernommen wird.  
+
+Am xx. Tag Jenners. + Meister Johannes Dannberg  
+
+IN nomine Domini, Amen. Hochgeehrte, ehrwürdige Herren. Wie diese Materie, die die Messe betrifft, ob sie ein Opfer sei oder nicht, wie auch immer zu einem genügsamen Teil darüber disputiert werden könnte: so begegnet mir ein Spruch des Paulus in meinem Bemühen, dienend für diese Materie, welcher Spruch Paulus zu den Hebräern schreibt, also: Ein  …  Bischof oder hoher Priester, der den Menschen aufgenommen hat …

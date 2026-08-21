@@ -1,13 +1,9 @@
-Page [X]  
-The seven  
-the earthly leader yet the heavenly, whereby man may be purified, then only the ability.  
-Master Ulrich Zwingli.  
-
-This is all responsible: one knows well what leader and water at those places is called.  
-Buchstabe.  
-
-This writing consists with a passage from the New Testament, says Saint Paul, 2 Corinthians 13. The work of a true one becomes manifest; then the day of the Lord will explain it, when it is clarified in the leader, and the work of a true one, as it is, the leader will be preserved: whether the work will remain, that he has built upon it, he receives the reward; whether the work burns, it is a shame or a disaster; it will, however, be wretched, yet as through the leader. Paul says here not of the leader of this world, then it is not holy, nor of the leader of the heavens, then the same is eternal.  
-
+Seite [X]  
+Die Sieben  
+das irdische Feuer, noch das Helle, dadurch soll der Mensch gereinigt werden, dann allein das Fähige.  
+Meister Wilhelm Zwingli.  
+Dies alles verantwortet: man weiß wohl, was Feuer und Wasser an diesen Orten heißen. Buchstab.  
+Diese Schrift ist verbunden mit einem Spruch aus dem Neuen Testament, sagt der heilige Paulus, 2 Kor. 13. Das Werk eines Jünglings wird offenbar, dann am Tag des Herrn wird es erklärt, wenn es im Feuer erklärt wird, und das Werk eines Jünglings, wie es sei, wird das Feuer bewahren: ob das Werk ewig bleiben wird, dass er darauf gebaut hat, er empfängt die Belohnung; ob das Werk brennt, ist es ein Schaden oder ein Wunder, es wird aber traurig, doch so wie durch das Feuer. Paulus sagt hier nicht vom Feuer dieser Welt, dann ist es nicht heilig, noch vom Feuer des Himmels, dann ist das Selbe ewig.  
 Berchtoldus Haller.  
-
-The holy Paul speaks here of the preservation of the doctrine and not of the leader: this is not our glory, except the truth of the words of Paul himself. He confounds the Corinthians with the sects, that one who follows himself, the other Paul, the third Apollo renowned. “Who is Paul?” he asks, “who is Apollo? Their servants are they, through which years they have become believers, and the same as the Lord has given to each.” I have planted; Apollo has watered it, but God has given it growth; so now neither the one who planted nor the one who watered …
+Der heilige Paulus spricht hier von der Bewahrung der Lehre und nicht vom falschen Feuer: das ist nicht unser Los, sondern die Wahrheit der Worte Pauli selbst. Er verwirrt die Korinther, die Sekten, das einer …  
+Cefe, der andere Paulus, der dreifach Apollo berühmt. Wer ist Paulus (spricht er), wer ist Apollo? Sie sind Diener, durch welche Jahre sind gläubig geworden und dasselbe, wie der Herr jedem geben hat. Ich habe gepflanzt, Apollo hat es begossen, aber Gott hat das Aufwachsen gegeben, so ist nun weder der, der gepflanzt hat, noch der, der begossen hat, etwas.

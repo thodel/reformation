@@ -1,10 +1,10 @@
 Seite [X]
 
-The third  
+Die dritte  
 Berchtoldus Haller.
 
-The Almighty eternal God, who has opened to us through his grace the truth of the first two concluding speeches, the wave that leads us / through his spirit / to warm understanding and the light of the third, which therefore reads:
+Der allmächtige ewige Gott, der uns durch seine Gnade eröffnet hat, die Wahrheit der ersten beiden Schlussreden, die wir uns führen durch seinen Geist, zu warmem Verstand und Licht der Dritten, welche also leuchtet:
 
-Christ is our certain wisdom / righteousness / redemption / and payment for the sin of the whole world / Therefore another merit of blessedness / and enough to do for the sin / to confess is to deny Christ.
+Christus ist uns einige Weisheit, Gerechtigkeit, Erlösung und Bezahlung für alle Sünden der Welt; deshalb verdient ein anderer die Seligkeit und genug Tun für die Sünde, bekennen ist Christus verleugnen.
 
-Well, this concluding speech so clear / and founded in divine Scripture / that it may well be wondered at / as it indeed may be twisted by many. Yet however so much own righteousness / and own works trust / or learn to trust / or their merit so highly esteem / that he eternal blessedness according to [the] victory / we are condemned / this concluding speech to set / which Paul to Corinth also advises: Christ Jesus has become to us the wisdom of
+Weil diese Schlussrede so klar und in göttlicher Schrift gegründet ist, die sich wohl zu verwundern gibt, wie sie doch von meinem Gewissen möglich werden könnte. Doch weil so viel eigentliche Gerechtigkeit und eigene Werke vertrauen oder Vertrauen lernen oder ihren Dienst so hoch achten, dass er ewige Seligkeit gemäß siegt; sind wir verurteilt, diese Schlussrede zu stellen, welche Paulus an die Korinther also bezeugt: Christus Jesus ist uns geworden die Weisheit von.

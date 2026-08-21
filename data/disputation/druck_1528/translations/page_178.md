@@ -1,12 +1,5 @@
 Seite [X]  
-The other  
-agree/We will, on the day of hearing God’s word, together in communal prayer, give alms, fast.  
-c. But with that another church, bound by the command and admonition, or another church this binding is not; otherwise this church binds no conscience; then indeed no church may command this thing, for they are given by God.  
-Over time and place, becoming not given by God, otherwise they are free, so follows that such a command alone is false; and thus the church, being false, abandons it, or love no longer requires it; thus the command no longer binds the conscience.  
-That becomes evident, originally with festivals in the Old Testament, which also alone at certain times were given, and again were abolished.  
-Furthermore we say, the following Acts xv. chapter, in the command of the children and apostles, therein are two commands eternal and unchangeable: but two alone at one time, for love concerning the weak, to endure.  
-The first two are grounded in God’s word: Thou shalt not have a false God, and thou shalt not be unholy.  
-The other two: that may not be blood nor stone, are thus not evidently given, that one has never held them, not even the Bishop himself; then at all times blood and stone is … without burden of conscience, even today.  
-There one sees that the apostolic service never burdens the conscience; they alone, for the sake of the weak, at one time have left or given.  
-Therefore, dear Lord priest, I also ask you, wishing us and the burdened not to be loaded with unnecessary argument, that you may be able to defend.  
+Die andere  
+Vereinbarung/Wir wollen auf den Tag Gottes Wort hören/miteinander in Gemeinde beten/Almosen geben/fasten. Das aber, damit eine andere Kirche/mit dem Gebot und Ansehen/gebunden wird/oder eine andere Kirche diese Bindung/ist nicht/sonst bindet diese Kirche kein Gewissen/tun: dann soll keine Kirche dieses Ding gebieten/da sie von Gott gegeben ist. Über Zeit und Statt, die nicht von Gott gegeben sind/sonst sind sie frei/so folgt, dass das alleinige Gebot verschieden ist: und so lässt die Kirche das Verschiedene nach/oder die Liebe nicht mehr fordert/so bindet das Gebot das Gewissen nicht mehr. Das wird offenbar/erstlich mit Festen im Alten Testament/die ebenfalls allein zu bestimmten Zeiten gegeben/und wiederum danach aufgehoben wurden. Zum anderen sehen wir/das heutige Acta XV, Kapitel/in dem Gebot der Kinder und Apostel/darin sind zwei Gebote ewig und unabdinglich: zwei jedoch allein für einen Augenblick/aus Liebe zu den Schwachen zu dulden. Die ersten beiden sind begründet im Wort Gottes: Du sollst nicht Gott haben/und du sollst nicht unkehren. Die anderen beiden/Das muss noch …/sind also nicht wesentlich gegeben/das man nie gehalten hat/auch der Bischof selbst nicht: dann ist man zu allen Zeiten … ohne … noch heute/daran sieht man, dass die Apostel … nie damit das Gewissen … Sie … allein von den Schwachen … für einen Augenblick … nachlassen haben oder geben. Deshalb, lieber Herr Pfarrer/ich bitte euch/und will euch nicht belasten/mit unnötigem …/damit ihr …  
+
 Ordnung

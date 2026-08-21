@@ -1,18 +1,19 @@
 Seite LXXIIII  
-The fifth  
+Die fünfte  
+
 Meyster Vlrich Zwingli.  
-We, leaving us from the explanation, have heard / and shown the grounds of the Scripture.  
+Wir lassen uns die Erklärung vortragen und die Gründe der Schrift angezeigt.  
 
 Gilg Durer.  
-When Meyster Vlrich answered us / to the saying / Proverbium ix. He says not for us / and gives an exposition without Scripture / will we not believe him: then it stands clearer / one after another understood: The wisdom has offered its sacrifice / it has mixed the wine. In no other sacrifice is the mixing of the wine described / only in the Mass / therefore the Mass must be a sacrifice.  
+Als Meyster Vlrich uns geantwortet hat zu dem Spruch/Proverbium ix: Er sagt nicht für uns und gibt eine Auslegung ohne Schrift; werden wir jemand nicht glauben, dann ist es klar, nacheinander begriffen: Die Weisheit hat ihr Opfer aufgeopfert und hat den Wein vermischt. In keinem anderen Opfer wird die Vermischung des Weins beschrieben; nur in der Messe muss die Messe ein Opfer sein.  
 
 Zwingli.  
-We have no other understanding / Proverbium ix. indicated / then as the letter itself illuminates / and the sense can / and even the same place / thus it must be understood / as they present it / which however is not / so it stands thus: The Wisdom has offered its sacrifice / and not: The Wisdom has offered wine and bread. Let it remain by the correct understanding of the Scripture.  
+Wir haben keinen anderen Verstand; Proverbium ix ist angezeigt, dann wie der Buchstabe selbst leuchtet und der Sinn vermag, und ebenso am selben Ort, also musste verstanden werden, wie sie es dargelegt haben, das jedoch nicht ist; so steht also: Die Weisheit hat ihr Opfer aufgeopfert und nicht: Die Weisheit hat Wein und Brot aufgeopfert. Lassen wir es beim rechten Verstand der Schrift bleiben.  
 
 Gilg Durer.  
-I remain by my previous understanding / as answered is / it is also confirmed by the holy Cyprianum / and thereby I let it remain.  
+Ich bleibe bei meinem vorherigen Verstand, wie geantwortet ist; dieser ist auch bestätigt durch das heilige Cyprian, und dadurch lasse ich es bleiben.  
 
 Meyster Vlrich Zwingli.  
-You do Cyprian an injustice.  
+Ihr tut dem Cyprian Unrecht.  
 
 Buchstabe

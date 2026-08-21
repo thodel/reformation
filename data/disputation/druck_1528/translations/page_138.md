@@ -1,20 +1,11 @@
 Seite [X]  
-The first  
+Die erste  
 Zwingy  
-Master Niclaus was well … with those words  
-to introduce everything?  
+Meister Niclaus, was wollte er mit diesen Worten alles einführen?  
 
 Senger.  
-As it is my opinion / the introduction half / therefore  
-over the concluding speeches more fitting of the word of God / written and spoken / but also my  
-Lord … the Disputation half  
-closed has  
-therefore nothing here to introduce in this Disputation / then so in  
-biblical writing is understood / I think / one should also try concerning / something about the breaches in the holy Christian Church and practices / so not written / and have come to us.  
+Meiner Meinung nach ist die Anklage nur halb begründet, weil über die Schlussreden das Wort Gottes geschrieben und ausgesprochen wurde. Aber mein Herr hat die Disputation halb verschlossen, sodass hier nichts in dieser Disputation eingeführt werden kann. Dann ist das Wort in der biblischen Schrift verstanden; ich denke, man sollte auch versuchen, in Bezug auf die Brüche in der heiligen christlichen Kirche und deren Praxis etwas zu schreiben, das zu uns kommt.  
 
 Zwingy.  
-THIS word in the Epistle to Timothy, chapter 2.  
-A true writing, as Master Niclaus has reported, is not rightly  
-defended. He has therefore defended: A true writing is useful  
-for learning, which however the sense of Paul is not at all: then  
-with the understanding one would introduce that any writing would be useful for learning …
+Dieses Wort im ersten Epistel an Timotheus, Kapitel 2.  
+Eine gleichartige Schrift, wie Meister Niclaus sie später erwähnt hat, ist nicht richtig ausgelegt. Er hat sie also ausgelegt: Eine gleichartige Schrift ist zum Lernen nützlich, aber der Sinn des Paulus ist damit nicht gleichzusetzen. Dann möchte man mit dem Verständnis einführen, dass jede Schrift zum Lernen nützlich wäre, was jedoch keinen Weg zulässt, außer der Sinn des Paulus ist der: Jede Schrift, die von Gott eingegeben ist. So ist auch der Text nutzbar für die Lehre. Hierbei merken fromme Christen über die Liebe, dass das Verständnis unserer Brüder, der Prediger, noch immer nicht recht ist.

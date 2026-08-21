@@ -1,20 +1,14 @@
-Page CCXV  
-Conclusion.  
+Seite CCXV  
+Schlußrede.  
 Berchtoldus  
-[D]The most learned complains of a great ... concerning the saying of Paul introduced ... Yet not otherwise,  
-neither the truly ... word of Paul, with its natural sense, according to all Scriptures, has been carried,  
-we thus recognize a true Christian ... . That he, from the day of the Lord, brings ... it is a certain death,  
-and tries it with Paul ... The ... (the) ... himself: then Paul, from the youngest day, likewise says:  
-but we understand through the day of the Lord, the day in which God is present, feared, and made manifest,  
-as we are ... then in that distinction a certain ... we with everyone are manifest, as it is a work of God.  
-Thus the Lord visits us with the cross; so the thoughts of our hearts are opened. With this the saying serves wholly and truly for the ...  
+
+[D] Er, der Schuldige, wirft sich selbst die Schuld zu, weil er die Lehre des Paulus missverstanden hat. Doch das ist nicht anders: weder die eigentlichen Worte Paulus’ mit ihrem natürlichen Sinn noch nach allen Schriften getragen, wir sollen erkennen, dass ein irdischer Christ … . Dass er vom Tag des Herrn herführt, sei ein gleichmäßiges Sterben; und er prüft es mit Paulus … . Dann spricht Paulus vom jüngsten Tag: Wir aber verstehen durch den Tag des Herrn, den Tag, an dem Gott uns bewahrt, heimführt und offenbar macht, wie wir erben sollen; dann, im Unterschied eines ewigen …, wir mit jedem offenbar …, wie es ein Werk Gottes sei. So aber besucht uns der Herr mit dem Kreuz; so werden die Gedanken unseres Herzens geöffnet. Damit dient der Spruch ganz und gar nicht zum Vorwurf.  
 
 Buchstab.  
-I remain by the whole text.  
+Ich bleibe beim ganzen Text.  
 Berchtoldus.  
-The same we also.  
+Dasselbe gilt auch.  
 
 Buchstab.  
-[D]For the sake of the injury I speak thus: So we, concerning our sin, penitently endure thousand ... or punishment  
-because of it, as he has suffered for us ... with a completely ... belief we will, without ... with the same reward receive: also a true ... so completely believed. That, however, depends on ...  
-Hbb iij
+
+[D] Des Schadens halber spreche ich so: Wenn wir um unsere Sünde Buße tun oder Strafe dafür erleiden, wie er um unsere Sünden gelitten hat, mit einem vollkommenen Glauben werden wir ohne Zweifel … . Auch ein irdischer … so vollkommen gläubig. Das hängt aber daran …

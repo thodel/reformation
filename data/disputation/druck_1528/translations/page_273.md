@@ -1,11 +1,13 @@
 Seite CXXIX  
 
-**Schlußred.**  
+**Schlussrede**  
 
-**Pfarrer von Sant Gallen.**  
+**Pfarrer von Sant Gallen**  
 
-Upon the request of Master Wilhelm I shall let it be that all the words of God should be believed, and that with a correct exposition and without distortion of the Scripture, that many words in the Scripture which are shaped like a lute where they are not explained with another word, I will convey them with a sent meaning. But I shall bring the Scripture in which we will be humbled and believed, that the body of Christ, truly and rightly, be eaten, and thus believed; I bring there another, then the many‑times drawn. He has taken the bread in his hand.  
+Auf die Erörterung des Meisters Wilhelm lasse ich nach, dass alle Worte Gottes geglaubt werden sollen und dass mit richtiger Auslegung und Vergebung der Schrift meine Worte in der Schrift der Gestalt Luther’s, wo sie mit einem anderen Wort nicht erklärt werden, mit einem ungeschickten Sinn versehen sind.  
+Doch soll ich die Schrift bringen, in welcher uns belehrt wird und von uns geglaubt, dass der Leib Christi wesentlich und leiblich gegessen wird; und wenn wir das glauben, bringe ich das andere, das vielfach angezogene. Er hat das Brot in die Hand genommen …  
 
 **Zwingli**  
 
-Similarly our brothers bring a whole word for it, that we should believe that the flesh and blood of Christ are truly to be eaten in the sacrament, as we however have often been pressed with words that we are spiritually … that is, in belief, must be eaten. John … at chapter … So I hope we may end the speech, since we with belief each word of God being burdened … as we do not believe these words: and grasp the third Scripture, which in the histories of the twelve apostles at … has been brought. The holy spirit is not … the foreign tongues … or in the foreign tongues … or with the foreign tongues. Which part of me … in the foreign tongues … has been burdened … then such speech … as we the spirit of God in a visible thing …
+Unseren Brüdern, dein ganzes Wort bringt dafür, dass uns das wahre Glauben gelehrt wird, dass das Fleisch und Blut Christi leiblich im Sakrament gegessen werden muss.  
+Als wir jedoch zuvor das Wort verinnerlicht haben, das wir geistlich, das ist im Glauben, essen müssen, so hoffe ich, dass wir am Ende der Rede entladen sind, da wir mit dem Glauben jedes Wort Gottes beschwert werden, solange wir diese Worte nicht glauben. Und greift das dritte Schriftstück an, das in den Geschichten der Zwölfpropheten im ersten Kapitel angeführt ist. Der heilige Geist sei nicht die fremde Zunge, sondern die fremde Zunge, oder mit den fremden Zungen. Welcher Teil redet mich an? In den fremden Zungen hat er mich beschwert; dann soll solcher Reden das Verglich sein, solange wir den Geist Gottes in sichtbare Dinge verwandeln.

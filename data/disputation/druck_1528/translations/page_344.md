@@ -1,25 +1,3 @@
-Seite lix  
-The fourth  
-given however at the other/He has it through the angels given/Thus we understand ye/that such works of God  
-which He works through His angels/jm as the first author/  
-of chief scribe/right to be given. So as it is said of the angels/  
-is at least the honor of God/  
-and indeed it is only the substance/of the angel in one form/  
-that God has pleased/appeared. Thus it also stands concerning  
-the appearance of God/Abraham happened/for however  
-three angels have appeared/according to the form. But now Christ‑  
-us Jesus Paul from earth with his own person of his life  
-appeared/so his life is personal/while he by the righteous God not has been. Then as little our doctrine  
-according to the understanding/more then at one place are/so also the doctrine of Christ/that in all ways our alike is/  
-alone at one place (Confutandi gratia dictum) Thus follows/  
-that the appearance of Paul happened/from us not thus  
-measured as if Christ had descended/  
-and the righteous God abandoned: but we will  
-the word of Paul. ii. Epist. to Corinth. at xii. chapter ourselves  
-hear/on which we notice/becoming that the appearance/  
-a wondrously concealed Paul is also  
-a wondrous revelation of the intimacy of God/  
-and thus says: I know that the same man (understood) has been concealed/until the third heaven/  
-and I know not whether it has happened to the man/in life/  
-or elsewhere the life. In which words we see/  
-that Paul the heavenly light …
+Seite lix  
+
+Die vierte Gabe jedoch am andern: Er hat es durch die Engel gegeben. So verstehen wir, dass solche Wirkungen Gottes, die er durch seine Engel wirkt, dem ersten Autor, dem Hauptschreiber, recht zugefügt werden. Wenn man es aber von den Engeln sagt, ist es zumindest die Ehre Gottes, und es ist doch allein die Substanz der Engel in einer Gestalt, die Gott gefallen hat, erschienen. So steht es auch um die Erscheinung Gottes: Abraham geschah, dem jedoch drei Engel nach der Gestalt erschienen sind. Ist aber Christus Jesus, der von Paulus auf Erden mit eigener Person seines Lebens erschienen ist, so ist sein Leben persönlich, weil er bei dem gerechten Gott nicht gewesen ist. Dann, wenn wenig unser Licht nach dem Verstand mehr an einem Ort ist, also ist auch das Licht Christi, das in aller Weise unser gleich ist, allein an einem Ort (Confutandi gratia dictum). Weiter folgt, dass die Erscheinung Paulus’ geschehen, von uns nicht so gemessen werden kann, als ob Christus herabgefahren wäre und die gerechten Gott verlassen hätten; sondern wir wollen das Wort Paulus, I. Epist. an die Korinther, Kapitel 12, selbst hören, an welchem wir merken, dass die Erscheinung ein wunderbares Verziehen Pauli ist, auch ein wunderbares Offenbaren der Heiligkeit Gottes, und spricht also: Ich weiß, dass derselbe Mensch (sich verstand) verzückt ist worden bis in den dritten Himmel, und ich weiß doch nicht, ob es dem Menschen im Leben oder außerhalb des Lebens geschehen ist. In welchen Worten wir sehen, dass Paulus das himmlische Licht erfreut, das ihm Gott verleiht.

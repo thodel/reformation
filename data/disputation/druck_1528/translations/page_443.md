@@ -1,5 +1,16 @@
-Seite CCXIII  
-**Schlußred.**  
+Seite CCXIII  
+**Schlussrede.**  
 
-something besides God, who gives the growth, who also plants and who there greets, is one like the other; an actual one, however, will receive his reward after his work  
-Then we are God’s helpers, we are God’s field‑work and building: I from God’s grace that which He gives me have laid the foundation, as a wise builder, another builds upon it, an actual one, however, see how he builds upon it, then the soul that finds the foundation may set none else there, nor is the law Christ Jesus. So now anyone who learns, the listeners, thus are grounded in Christ, when already the spear of persecution comes, so little can they resist, as the elemental spear in gold, silver and precious stone; so it lies in the day how wretched the learner, the people having built with the word of God, when they have it the life, then the word of God is abandoned. But if anyone the word of God so lazily learns, the cause of sudden persecution, those who listen fall away, no other than like wood, hay and stubble, from the spear become twisted; so it lies in the day the unfaithfulness of the learner, or of the one who builds up: but the day of the Lord, that is, if the Lord is pleased, such things will be openly revealed; but if anyone’s learning remains, those who have taken it up have not abandoned it; then one again may see how he has built gold, silver and precious stone, and will after his building receive his reward; but anyone’s work is burned, so they are wood, hay and stubble, spirit, and wherever the preacher a damage incurs, then he has learned, so he will indeed become blessed, for he through the spear of all trial is drawn back into belief. Therefore here is called building, learning and preaching: the foundation is Jesus Christ, the work …
+Etwas Besonderes ist Gott, der das Wachstum gibt, der aber pflanzt und der dort begünstigt; er ist einer wie der andere, ein eigentlicher (eigentlich) aber wird seinen Lohn nach seiner Arbeit empfangen.  
+
+Dann sind wir Gottes Gehilfen, wir sind Gottes Ackerwerk und gebaut: ich, von Gottes Gnade, die mir gegeben ist, habe den Grund gelegt als weiser Baumeister; ein anderer baut darauf, ein eigentlicher aber sieht zu, wie er darauf baut; dann soll das Fundament gefunden werden, niemand kann es anders setzen, weder das Gesetz ist Christus Jesus.  
+
+So nun jemand, der lehrt, die Zuhörer also auf Christus gründet, da schon das Führ (der Anstifter) der Verfolgung kommt, so wenig wider sie vermag, wie das Elementare für Gold, Silber und Edelstein; so liegt es am Tag, wie trüblich der Lehrer das Volk mit dem Wort Gottes erbaut hat; die wollen das Leben, dann das Wort Gottes verlassen.  
+
+So aber jemand das Wort Gottes hinlänglich lehrte, das ist zufällige Verfolgung, die Zuhörer fallen ab, nicht anders als das Holz, das Haus und das Stüffeln (die Stücke), vom Führ verzehrt werden; so liegt am Tag die Untrübsal des Lehrers oder des Aufbaufenden: aber der Tag des Herrn, das ist, so es dem Herrn gefallen wird, solches offenbaren.  
+
+So aber jemandes Lehre bleibt, und die, die sie angenommen haben, die nicht verlassen, so wird man aber einmal sehen, wie er Gold, Silber und Edelstein aufgebaut hat und wird nach seinem Bau den Lohn empfangen.  
+
+So aber jemandes Werk verbrannt wird, so sind sie Holz, Haus und Stüffeln gesinnt, und wie wohl der Prediger einen Schaden erleidet, denn er hat so gelehrt, so wird er doch selig werden, weil er durch das Führ aller Anfechtungen unverrückt im Glauben bleibt.  
+
+Darum heißt hier Bauen, Lehren und Predigen: das Fundament ist Jesus Christus; das Werk …

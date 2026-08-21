@@ -1,9 +1,28 @@
-Seite [IIII C XXXI]
+Seite [IV C XXXI]
 
 **Die ander**
 
-Such, Sir, we undertake. It is, however, also said / that the Christians freely am.78.81. / blot willingly / fast in common and apart / have / therefore admonish Paul in a drawn oath. / But that from meat‑eating / the bishop’s mother has drawn in / will not be preserved for long / that the church may forbid meat‑eating / God the Lord, however, has forbidden it / as also wine‑drinking / where the next thereby is angered / that is in belief of love prevented: unless there is held / that one may eat all kinds / the one is from Paul esteemed as a starcker in belief / and the God taken up / chapter of the seventh to the Romans. / She sees instead thereof / for herself / the breaking of certain creatures forbid / is the work of the devil / and will thus remain / as long as the word of Paul was remaining. Freely, however, Christ / all things to improvement need. Likewise it holds itself with the eye / of which thereafter is acted.
+Sucht, Herr, zu vernehmen. Es ist jedoch gesagt, dass die Christen frei
+fasten können, sowohl in Gemeinschaft als auch allein, und dass Paulus
+sie dazu ermahnt hat. Aber das Verbot des Fleischessens, das von der
+Bischofsstelle eingeführt wurde, wird noch lange nicht aufgehoben; die
+Kirche kann das Fleischessen nicht verbieten, denn Gott, der Herr,
+hat es verboten, ebenso wie das Trinken von Wein, woraufhin das nächste
+Problem entsteht. Das ist im Glauben und in der Liebe verhindert; sonst
+wäre es zulässig, allerlei Essen zu verzehren. Paulus achtet den
+Starken im Glauben, der Gott aufgenommen hat, gemäß dem vierten Kapitel
+zu den Römern. Sie sahen darauf, für sich selbst den Bruch einiger
+Kreaturen zu verbieten; das ist ein Werk des Teufels und wird so lange
+bestehen, wie Paulus’ Worte gelten. Freiwillig aber soll Christus alle
+Dinge zur Besserung benötigen. So hält es sich mit der Ehre, von der
+hiernach gehandelt wird.
 
 **Bůchſtab**
 
-Since I today also from the setting of the fast have said / and Herr Butzer speaks / the prohibition of spitting / drinking according to the word of Paul / of the devil’s commandments and prayers. I say no / then because the / Moses / Exodus xviii. and Elijah ii. Kings xix. and Christ Jesus / Matthew iii. each forty days set / has the holy Church so wholly here named / and mentioned the word of Paul / as he speaks / to the Philippians in chapter Vc is given / that it / not only / to believe in Christ / also / that it for / a / people / have / or / the same / fight / so / it / in me / have seen. It Petri. ii. Christ has for us ...
+Während ich heute auch von der Verfassung des Fastens gesprochen habe
+und Herr Butzer das Verbot des Speises nach den Worten Paulus, den
+Sätzen des Teufels und Geboten erwähnt, sage ich: Nein, dann gilt
+nach Mose/Exodus XVIII und Elija II Könige XIX sowie Christus Jesus/
+Matthäus III, dass jeder vierzigste Tag gesetzt ist. Die heilige Kirche
+wird hier ähnlich genannt und angesprochen; die Worte Paulus, wie er
+zu den Philippern im Kapitel V spricht, geben ...

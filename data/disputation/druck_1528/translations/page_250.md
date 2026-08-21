@@ -1,9 +1,13 @@
 Seite [IIVXO]  
-Die vierdt  
+Die vierte  
 
-Luca: This is my life that will be given for you. The addition by the Evangelist gives to every one who wishes to receive a report a clear understanding for the purpose that we must recognize the bread as a Sacrament of the life of Christ in death for us. So I want to hear from which word Matthew or Luke my lord pastor has taken and to which he will bind himself.  
+Luca: Das ist mein Leben, das für euch gegeben wird. Der Zusatz des Evangelisten gibt jedem, der gern einen Bericht empfangen möchte, ein klares Verständnis dafür, dass wir das Brot als Sakrament erkennen müssen, das das Leben Christi im Tod für uns gibt. So will ich hören, von welchem Wort Matthäus oder Lukas mein Herr Pfarrer gehalten hat und worauf er sich beziehen will.  
 
-Pfarrer von Sant gallen+  
-On the first discourse of my lord Doctor, I am tasked to seek the word / sacrament, recognizing all Christian teaching, the word / sacrament / the word of the night‑mass, making it neither clearer nor darker. The proper name, however, as also Paul calls it, should be *Communio*, that is communion, as the ancients also called it. But concerning the words, as they are called, I will engage in a word‑contest therein, only on the basis that the words are the foundation of sin, as they are brought forth. Then I will recognize, my lord Doctor, that all are equally consistent, the sacrament not being willed to be undone, which above all is honor and inheritance; I have often in his former books, as he gave them, read.  
+Pfarrer von Sant gallen+  
+Auf den ersten Vortrag meines Herrn Doktors ging es darum, dass ich das Wort des Sakraments suche, alle christlichen Lehren erkennend, das Wort, das Sakrament, das Wort des Abendmahls, weder klarer noch dunkler machend.  
 
-But my lord Doctor departs from the word Luke xxii cap., that the cup is a new testament, is named; the Evangelist says not; it is a memorial sign of the testament, otherwise it is called the testament in blood. I understand that which he does not wish to give in a word‑cage; I have by Matthew and Mark enough clarification, those who say: This is my blood. Further, in my lord Doctor, the testament in the burial of the son, they alone in the death of Christ assure: …
+Den richtigen Namen aber, wie Paulus ihn nennt, soll es *Communio* heißen, das ist Gemeinschaft, wie es auch die Alten geheiligt haben. Aber das Wort, wie es geheiligt wird, will ich in diesem Wortstreit geben, allein von dem Wort, das das Verständnis von ihm ist, während sie lügen, mitbringen. Dann erkenne ich, mein Herr Doktor, dass alle gleichwertig sind, das Sakrament nicht zu verneinen, welche höchste Ehrfurcht und Verehrung ich mehrfach in seinen vergangenen Büchern sehe, so er es gibt, gelassen habe.  
+
+Doch mein Herr Doktor verlässt sich auf das Wort Lukas 22, Kapitel …: Der Kelch wird ein neues Testament genannt, sagt der Evangelist nicht, es sei ein Gedächtniszeichen des Testaments, sondern es heißt das Testament im Blut. Ich verstehe, dass er sich nicht gern in Wortkämpfen geben will; bei Matthäus und Markus finde ich genug Klarheit, wo sie sagen: „Das ist mein Blut.“  
+
+Weiter führt mein Herr Doktor aus, dass das Testament im Verzicht des Sohnes, allein im Tod und Sterben Christi, gesichert ist.

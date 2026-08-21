@@ -1,14 +1,11 @@
 Seite [X]  
-The fifth work. Thus, from all this there can be no following / that his life and blood in the Mass must be offered daily / you have your ... and become in Christ ... the figure of Melchisedec / and all others / completely fulfilled as was shown above in excess.  
-
+Die fünfte Arbeit. Bis zu all dem wird gar nicht folgen, dass sein Leben und Blut in der Messe täglich geopfert werden muss; hier habt ihr euren Beutel und wird in Christus an die Figur Melchisedeks und aller anderen genugsam erfüllt sein, wie vorher überflüssig angezeigt ist.  
 Johannes Büchstab.  
 
-When Paul wrote to the Hebrews / it is clear enough / that he gave them the distinction. But the sacrifice of the Mass / is further shown here by the prophets / and also by the new Testament. It is not yet / in the speech of Lord Martin Butzer brought / upon my given answer / that the living Christ cannot be offered / the contrary ... as he gave ... therefore we must ... the ...  
-
+Als Paulus den Hebräern also geschrieben hat, ist klar genug, dass er ihnen den Unterschied gegeben hat. Das Opfer aber der Messe wird hiernach weiter durch die Propheten und auch das neue Testament angezeigt. Es ist noch nicht in der Rede des Herrn Martin Butzers herbeigebracht, auf meine vorgegebene Antwort, dass das Leben Christi nicht mehr geopfert werden kann; die Gegenwart, die er gegeben hat, wollen wir hiernach das verantworten.  
 Martinus Butzer.  
 
-All that is completed through Christ is eternal / therefore your man may add something / Christ, by his death, has completed the saints in eternity / therefore your man may do something with his offerings / therefore the Mass must be offered in vain / and thus one prevents / the saints from helping anything / a loss of the death of Christ.  
-
+Alles, was durch Christus vollendet ist, ist in Ewigkeit; dein Mensch kann einen Zusatz tun; Christus hat mit seinem Tod die Heiligten in Ewigkeit vollendet; darum kann dein Mensch etwas mit seinen Opfern hinzufügen; darum muss das Mahl des Opfers vergebens sein, und so meint man, den Heiligen damit etwas zu helfen, eine Verleugnung des Todes Christi.  
 Gilg Adurer.  
 
-Thus Christ has sufficiently done in eternity completely / as it is inserted / through Lord Martin Butzer / it is not ... to ... us ... of Christ / that we ... partially make with the daily.
+Weil Christus genug getan hat in Ewigkeit vollkommenlich, wie eingeführt ist, durch Herrn Martin Butzer; es ist nicht das, was uns von Christus befreit, dass wir uns teilhaftig machen mit den täglichen …

@@ -1,13 +1,13 @@
-Seite CI  
-**Schlußred.** **CI**  
-Gottes. Er spricht aber weiter zu den Römern im Kapitel. Nicht die, die das Gesetz hören, sind gerecht vor Gott, sondern die, die durch den Glauben gerecht gemacht werden. In welcher Weise er wohl spüren mag, dass wir zu der Gnade Gottes uns sollen schicken zu den Werken: dann als Jakobus Stadt, dass der Glaube an die Werke tot ist, der da auch ein Gnade, uns ein unendliche Gabe ist, etc.  
+Seite CI  
+**Schlussrede.** CI  
+Gott spricht jedoch weiter zu den Römern im genannten Kapitel. Nicht die, die das Gesetz hören, sind vor Gott gerecht, sondern die, die durch den Glauben gerecht gemacht werden. In welcher Weise er das wohl spüren mag, dass wir zur Gnade Gottes gesandt werden sollen, um die Werke zu tun: dann, wie Jakob sagt, ist der Glaube an die Werke tot, und doch ist die Gnade ein unendliches Gut usw.  
 
-**Herr Poley.**  
-Alles, so Herr Pfarrer geredet hat, ist alles aufgegeben. Such, Herr, löst und erklärt durch den Prediganten uns an, am 94 und 96 der Antwort. Darum referieren wir’s ad acta. Blatt.  
+**Herr Poley.**  
+Alles, was Herr Pfarrer gesagt hat, ist bereits ausgeführt. Der Herr löst und erklärt durch den Prediger die Antworten in den Kapiteln 94 und 96. Darum verweisen wir darauf im Aktenblatt.  
 
-**Theobaldus hütter**  
-Ich hoff, Herr Poley, so er mich anzücht, dass meine angezogenen Sprüche nicht gnädig sind erklärt, such, Herr, gen seiner Inred, hoff ich gnädiglich wiederstand am 100. Blatt. Thüen der selben Inred und referier mich zu Acta:  
+**Theobaldus Hütter**  
+Ich hoffe, Herr Poley, dass er mich ermutigt, dass meine vorgebrachten Worte nicht unverständlich bleiben, sondern erklärt werden. Ich bitte den Herrn, in seiner Rede gnädig zu sein; ich hoffe, am 100. Blatt wieder darauf zurückzukommen. Die gleichen Punkte werden im Akt vermerkt:  
 
-**Herr Josephus Forrer pfarrer**  
-**zů Herißouw.**  
-Vollgelerten weisen und lieben, der Anzug, so meine Herren zugegen, auch guten und lieben Brüdern und Landleuten von Appenzell, gethon, ist heut lang mit viel anzogener Schrift darüber geredet, darum nicht nötig ist, viel mehr darüber zu reden, damit und ihr aber er kennen meine Meinung, der jetz vorhandene Schlussred, will ich ein kleine Meinung dazu reden. Ich bekenne wohl, wie Sankt Paulus redet zu den Römern, dass das nicht sind gnädig.  
+**Herr Josephus Forrer, Pfarrer**  
+**zu Herisau.**  
+Gelernte und liebe Menschen, der Anzug, so mein Herr zugegen, auch gute und liebe Brüder im Land Appenzell, ist heute lange mit vielen angefertigten Schriften darüber geredet worden; darum ist es nicht nötig, weiter darüber zu reden, damit ihr meine Meinung kennt. Die bereits vorhandene Schlussrede möchte ich kurz ergänzen. Ich bekenne, wie Paulus zu den Römern spricht, dass das nicht genug ist.

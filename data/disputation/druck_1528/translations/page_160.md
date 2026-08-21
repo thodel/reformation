@@ -1,12 +1,15 @@
-Seite [71]  
-The other, far removed, our certain bishops and teachers, and also the others, neither in heaven nor on earth,  
-we acknowledge / in this we remain / of the other stance,  
-we hear / how then this article is sufficiently explained with a powerful Scripture / and completely unaltered / by those who are taught by God.  
-From which follows now the other article, the Lutheran one, that the Church of Christ makes neither law nor command according to God’s word; one should first understand in those things which concern our own salvation.  
-Secondly, we also speak here not of statutes, land rights, or ordinances, which concern bodily good, where such are not contrary to God.  
-Thirdly, we speak here of statutes that reveal to us the divine will / and the divine decree / that only a purely natural man may recognize. j. zun Corinth. am ij. especially such thoughts are as four of the gifts of God’s grace, as heaven and earth.  
-Thus at lv. therefore the one son who is in the bosom of the father, John at j. Hatt alone must reveal to us which the ... of the clouds ... has given / Matthew at xvii.  
-This is my beloved son, in whom I have a great affection; they should hear him, who is a certain son, whose ... had forbidden / that they should not be called master of the earth / nor any other master to be confessed / then only / Matthew at xxii.  
-He also has the ... (Beuolchen) that they should not preach and teach otherwise / then that he had ... commanded / Matthew at the last.  
-Therefore we hold in the following part of this other article that all human statutes, as one calls the church’s command, do not bind us further; for they are founded in the divine word and are not bound.  
-Indeed such statutes …
+Seite [71]  
+
+Der andere, fernab von unseren Bischöfen und Lehrmeistern, und von deinen anderen, weder im Himmel noch auf Erden, bekennen wir: In diesem bleiben wir, deinem anderen Stand. Wir hören, dass dieser Artikel gewissenhaft und mit gewichtiger Schrift erläutert ist und völlig unverzerrt von denen, die von Gott gelehrt sind. Durch welchen nun der andere Artikel – Luther also – die Kirche Christi nicht Gesetz noch Gebot an Gottes Wort macht, soll man zuerst verstehen, in welchen Dingen unsere eigene Seligkeit antritt.  
+
+Zum anderen reden wir hier nicht von Satzungen, Landesrechten oder Verordnungen, die das Leben und das Gut anregen, wo solche nicht gegen Gott sind.  
+
+Zum dritten reden wir hier von Satzungen, die den göttlichen Willen offenbaren und das göttliche Gesetz, das dein bloß natürlicher Mensch erkennen kann.  
+
+j. zun Corinth. am ij. – besonders solche Gedanken sind wie vier von den Gedanken Gottes, wie Himmel und Erde.  
+
+Esaie am lv. – darum der eine Sohn, der da ist im Schoß des Vaters, Johannes am j. Hatt allein uns den Müßig offenbaren, welchen die Stimm v. der Wolken‑Zugnis gegeben hat.  
+
+Matth. am xvii. – das ist mein geliebter Sohn, in welchem ich ein Wohlgefallen habe; den sollen wir hören, welcher einiger Sohn, den seinen hat verboten, das sich nicht lassen soll, Meister nennen von Erde, auch keinen anderen Meister bekennen; dann allein — Matth. am xxii. – er hat auch den Sünden‑Beulen, das sie nicht anders predigen und lehren sollen; dann dass er ihnen Gebote hat — Matth. am letzten.  
+
+Darum halten wir im nachfolgenden Teil diesen anderen Artikel fest: das aller Menschen Satzungen, so man nennt das Kirchengesetz, uns nicht weiter bindet; denn sie sind im göttlichen Wort gegründet und von Geboten sind; ja solche Satzungen …

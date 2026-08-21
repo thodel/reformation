@@ -1,23 +1,23 @@
 Seite [X]
 
-**The Fifth**
+**Die fünfte**
 
-and also Isaiah likewise refers, therefore it is necessary that another pure sacrifice will be given, that this text be likewise.
+und auch Ezechiel derselbe Bezug / darum so ist notwendig / dass ein anderes reines Opfer werden geben / das gleichförmig sei.
 
 **Martinus Bucerus.**
 
-Therefore Paul says, sanctified through the holy spirit, in the words shown above, that the hearts of those themselves become unclean, through faith become pure. Acts xv. to Romans vi.
+Deshalb sagt Paulus / geheiligt durch den heiligen Geist / in den angezeigten Worten / so werden die Herzen von denen selbst unrein / durch den Glauben rein. (Apostelgeschichte XV, Römer V.)
 
 **Gilg Durer**
 
-It may not be misunderstood, concerning the sanctification of the holy spirit. For that very sacrifice, namely the word of God, had previously long been to be proclaimed, as also has happened, Abraham, Isaac, and the dear other fathers; therefore one must also give another pure sacrifice, which has never been in the old Testament, but first begins in the New Testament.
+Es mag nicht verstanden werden / von der Heiligmachung des heiligen Geistes. So dass dasselbe Opfer / nämlich das Wort Gottes / hatte vorher lange / sollte verkündet worden sein / als auch geschehen ist / Abraham / Isaak / und den lieben andern Vätern / und darum so muss man nun ein anderes reines Opfer geben / das von nie ist gewesen im alten Testament / besonders erst anfangen im neuen Testament.
 
 **Buczer.**
 
-It does not follow that the pure sacrifice which the prophet here speaks of, therefore must never have been. The prophet reports here of a pure sacrifice under the heathen, which is like at the time of the Apostles has been done, it has never been.
+Es folgt nicht das reine Opfer, das von dem der Prophet hier redet / darum muss von nie gewesen sein. Der Prophet meldet hier von einem reinen Opfer / unter den Heiden / das gleiche wie zur Zeit der Apostel geschehen worden ist / ist von nie gewesen.
 
 **Gilg murer.**
 
-I let this writing and its exposition remain, as formerly is warranted, and also according to the Acts.
+Ich lasse diese Schrift und Auslegung bleiben / wie vormals verantwortlich ist / und ebenfalls den Akten.
 
 **Buczer**

@@ -1,27 +1,24 @@
-Seite [XXXII]
+Seite [XXXII]
 
-**Die ander**
+**Die ander**  
+Bleibt. Und so nun sind Satzungen und Ordnungen in der christlichen Kirche gebraucht und angesetzt, und sie sind nicht unbedingt zu lernen: dann, als wir die zweite Epistel und das zweite Kapitel zu Timotheus haben, da spricht er also: „Empfiehlt diese Dinge den christgläubigen Menschen, welche gesandt werden, die anderen zu lehren oder zu belehren.“ So sei aber ein Belehrung … probiere ich das durch die Geschichte der Zwölfboten am xx. Habt ihr auch ein Verständnis von der ganzen Härte, in welcher auch der heilige Geist gesetzt hat, Bischof oder Hirte, zu regieren die Kirche Gottes, welche er überkommen hat mit seinem Blut, … in welcher klar gezeigt wird das Regieren der Kirche.
 
-Remain. And so now the statutes and orders used and shown in the Christian Church are, and are not necessarily to be learned: then, as we have in the first epistle and first chapter to Timothy, where he says thus: He recommends these things to the Christian‑believing people, who will be sent to teach the others or to admonish. So, if there is an admonition, I test it through the history of the Twelve Apostles on the twentieth. They also have an understanding and the whole hardness, in which also the Holy Spirit has placed. Bishop or shepherd to govern the Church of God, which he has overcome with his blood … in which it is clearly shown the governance of the Church.
+---
 
-***
+*Marginalia:*  
+Süch hievor  
+am 38 41 42 62 64 65 bla  
+Süch am 58 48 77 79 vn  
+am nächsten Blatt danach.  
+Süch hievor  
+am 63 Blatt.
 
-*Marginalia:*
-Search earlier
-pages 38, 41, 42,
-62, 64, 65, etc.
-Search page 58,
-48, 77, 79, etc.
-on the next leaf thereafter.
-Search earlier
-page 63 leaf.
+---
 
-***
+**Martinus Bucer**  
+In der Offenbarung Gottes, die er zu allen Gläubigen im Herzen spricht, ist zuvor überflüssig durch Meister Ulrich Zwingli und mich angezeigt, und ebenso von den Ordnungen der rechtgläubigen Gemeinde, auch dem Regieren, das doch weiter heißt … zu zweiten Jahren deren Bischof … Des Alles beziehe ich mich auf die Acta.
 
-**Martinus Bucer.**
+---
 
-In the revelation of God, which he speaks to all believers in the heart, it was previously superfluous, as shown by Master Ulrich Zwingli and me, and likewise by the orders of the rightly‑believing congregation, also the governance, which nevertheless is further called … concerning the bishop … Of all this I refer to the Acts.
-
-**Theobaldus Hüter.**
-
-And after that, not further drawn is … Actorum ij. In the aforementioned chapter he says thus: And now I also recommend God, in the word of his grace, who is powerful to bestow and give the inheritance in all sanctified. By which text clearly follows the inheritance to be learned, in all his outer worlds clearly marked, what God …
+**Theobaldus Hüter**  
+Und nach dem bisher nicht weiter angezogen ist, Actorum II. In dem vorgenannten Kapitel spricht er also: „Und jetzt empfehle ich euch Gott und dem Wort seiner Gnade, der da mächtig ist zu erbauen und zu geben die Erbschaft in allen Geheiligten.“ Welchem Text klar folgt, die Erbschaft zu lehren, in allen seinen … was Gott seinem …

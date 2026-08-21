@@ -1,35 +1,12 @@
 Seite CXI  
-Schlußred.  
+Schlußrede  
 
-Der Sünden halb und Missbrüche, so von ihm weiter inge‑  
-führt; ich begehre nicht zu beschirmen, sondern sage,  
-daß wir viel Unfug darüber haben, wie Jeremia im fünften  
-Kapitel geschrieben steht. Unsere Sünden haben die guten  
-Dinge von uns verhindert. Derselbe Hosea am achten. Es ist  
-deine Wahrheit, deine Barmherzigkeit; kein Wissen Gottes in  
-der Erde. Der Fluch, die Lüge, der Todesstoß, der Bruch, der  
-Diebstahl sind alle hineingeflossen, und ein Blut, das  
-anders erreicht, und von diesem Wege wird die Erde  
-verwelkt und wird beschränkt. Ein ewigliches Ding, darin  
-wohnt, draußen folgt, dass wir von Sünden und Missbrüchen  
-wegen Unvertrauens handeln.  
+Die Sünden und Mißbrüche, die von jemandem weiter verbreitet werden, führen zu weiterem Unheil. Ich will nicht beschützen, sondern sage, dass wir viel Unfug darüber haben, wann Jeremia im 5. Kapitel geschrieben steht. Unsere Sünden haben die guten Dinge von uns abgehalten. Ebenso ist deine Wahrheit, deine Barmherzigkeit, kein Wissen Gottes in der Erde. Der Fluch, die Lüge, der Todesstoß, der Bruch und der Diebstahl sind hierher geflossen und haben ein Blut hinterlassen, das andere erreicht; von diesem Weg wird die Erde weinen und wird gekränkt. Ein solcher Zustand bleibt darin bestehen, und wir sollen wegen Sünden und Mißbrüchen das Vertrauen nicht verlieren.  
 
 Berchtoldus Haller.  
 
-Paulus zu den Galathern im fünften Kapitel: dass wir beständig  
-bleiben in der Freiheit, damit uns Christus hat befreit.  
-Sie wollen nun die Zeremonien über das Wort Gottes, unser  
-Gewissen, gefangen und gebunden halten; so sollen wir uns  
-nicht binden an derselben, dann sind wir nicht mehr gefangen,  
-außer dem knechtischen Joch des Gesetzes. Magdalena hat ihr  
-Glauben bezogen auf das Werk der Liebe gegen Christus Jesus;  
-das sollen wir tun gegen unser Nächstes, in übriger Rede  
-bestätigt der Schultmeister unser Schlußred.  
+Paulus zu den Galatern am 5. Ermangeln: Wir sollen beständig in der Freiheit bleiben, damit Christus uns befreit hat. Nun wollen die Zeremonien das Wort Gottes verfälschen, unser Gewissen gefangen und gebunden halten. Deshalb sollen wir uns von denselben befreien, damit wir nicht mehr gefangen sind unter dem knöchernen Joch des Gesetzes. Magdalena hat ihren Glauben mit dem Werk der Liebe gegen Christus Jesus verbunden; das sollen wir ebenfalls tun, um unser Nächstes zu stärken. In der übrigen Rede bestätigt der Schulmeister unsere Schlussrede.  
 
-Johannes Büchstab  
+Johannes Büchstab.  
 
-Wer redet einmal eingeführt, wird glimpflicher sein zu  
-verantworten in der Schlußrede von dem ... für, da man auch von  
-den Zeremonien würde handeln. Weiter, nach meiner genommenen  
-Meinung, dass es ein Missbrauch sei, dass das Brot der  
-Dank­sgabe angeboten wurde. Bbb ii
+Wer einmal eingeleitet wurde, wird leichter zur Verantwortung gezogen werden können in der Schlussrede, weil man auch über die Zeremonien sprechen muss. Weiterhin vertrete ich die Meinung, dass es ein Mißbrauch sei, das Brot des Dankes anzubieten.

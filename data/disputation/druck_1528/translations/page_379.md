@@ -1,10 +1,18 @@
-Seite CLXXXII  
-Schlußred. CLXXXII  
+Seite CLXXXII  
+Schlußred. CLXXXII  
 
-Da, as he speaks / the syllogism is not pursued /  
-I say / that it may be graciously pursued / so  
-may the matter be rightly understood. But to us it is recognized useful / so we speak / that in the Scripture is spoken of the two offerings of Christ. The first of the offering / that which is brought forth through Christ / on the wood of the holy Cross. This very offering / is not sacramental / as we say / and is only once completely made in eternity. And thus it is true / that Christ may no longer be gently offered / than little / than to die again. The other offering / is spiritual / that God the Father / the first offering is again upheld / or represented / with the most worthy Sacrament / in the office of the holy Mass. And that this was / so I relate it with this drawn‑out phrase / Acts chapter eight. So has given me answer / Lord Martinus Butzer / It did not stand / offering / without / service. I answer / So it is written here / Offering / and is interpreted / through the most and well‑learned Erasmus Redemptor / who, without all doubt, has well examined the matter / even by this time alive / and the Greek language is well known / we have to one his example here presently. But Lord Martinus Butzer says / It stood / Service / as the old translation has / we would gladly know / what that itself for an empty service would have been / to our greater recognition of the truth.  
+Als er spricht, der Syllogismus sei nicht verfolgt; ich sage, dass er genügsam verfolgt werden soll, damit die Sache richtig verstanden wird. Aber zu uns erkannt nützt, so sprechen wir, dass in der Schrift das Wort von zweierlei Opfer Christi vorkommt.  
+
+Zum ersten Opfer, das durch Christus am Holz des heiligen Kreuzes vollbracht ist: Dieses Opfer ist nicht sakramental, wie wir sagen, sondern ist allein ein einmalig vollendetes, für die Ewigkeit vollbrachtes Opfer. Und so ist es wahr, dass Christus nicht mehr als wenig, als wieder sterben, geopfert werden kann.  
+
+Das andere Opfer ist geistlich; da Gott dem Vater die erste Opfer wieder aufgehoben bzw. repräsentiert, mit dem hochwürdigsten Sakrament im Amt der heiligen Messe. Und das ist wahr, so beziehe ich es mit diesem gezogenen Spruch aus dem Akt des Kapitels VIII.  
+
+So hat mir geantwortet Herr Martinus Butzer: „Es stand nicht, Opfer zu geben ohne zu dienen.“  
+
+Ich antworte: „So steht hier oben, Opfer, und ist übersetzt durch den hoch- und wohlgelehrten Erasmus Rotam, der ohne alle Zweifel die Sache wohl betrachtet hat, noch zu dieser Zeit lebt und die griechische Sprache wohl erfahren ist; das haben wir zu einem Zugegen, sein Beispiel hier gegenwärtig.“  
+
+Aber Herr Martinus Butzer spricht: „Es stand, zu dienen, wie die alte Übersetzung hat; würden wir gern wissen, was das selbst für ein Amt des Dienstes gewesen wäre, zu unserer Erkenntnis der Wahrheit.“  
 
 Butzer  
 
-Thus we may remain on the ban / so we shall / of this time introduced / thereafter answered / on the question the good Zz ij
+Damit wir von der Bahn bleiben, so wollend wir, von dieser Zeit eingeführt, nachher antworte ich auf die Frage die gute …

@@ -1,10 +1,10 @@
-Seite CCIII  
+Seite CCIII  
 
-**Concluding Speech.**  
-Man, after … God the Lord … the will that has been moved by the angel … and thus obtain the merciful kindness of God. Therefore this saying is of no use to you … then further afterwards follows: that God will lessen the will of man and enlighten the angel … that he … in his release with his service … as we also have in the Psalms … Angel … He has … his angels … from you … and therefore … then I have found … in which I am … namely … so that the sinner repents.  
+**Schlussrede.**  
+Mensch, nachher bittet Gott den Herrn, dass sein Wille von dem Engel bewegt worden ist, und so erlangt er die barmherzige Gnade Gottes. Darum dient euch dieser Spruch gar nicht; weiter folgt danach: Gott will dem Menschen den Willen nachlassen und den Engel erleuchten, dass er in seinem Erlass mit seinem Dienst wirkt, wie wir im Psalmen auch lesen: Engel sind … . Er hat seinen Engeln von dir geboten, und stattdessen habe ich gefunden, dass ich in Gnade bin, nämlich dass sich der Sünder bekehrt.  
 
 **Johannes Büchstab.**  
-When the saying of Job, according to my understanding, was established, I would for that purpose lead another … Zacharias … also wrote thus. That the angel of God begins … and says: “Lord of the hosts, how long will you not have mercy on Jerusalem, and the city of Judah, against which you are angry; that is now the seventy years,” and the Lord answered the angel, who spoke to him with good and comforting words. Here we have learned that the angels may pray for us.  
+Als der Spruch aus Hiob nach meinem Verständnis bestand, will ich dafür ein anderes Beispiel führen, wie Zacharias geschrieben hat. Der Engel Gottes spricht: „Herr der Heerscharen, wie lange erbarmst du dich nicht über Jerusalem und die Stadt Juda, gegen die du zornig bist?“ Das ist jetzt das siebzigste Jahr, und der Herr antwortet dem Engel mit gütigen und tröstlichen Worten. Hier haben wir jedoch die Mitteilung, dass die Engel für uns bitten.  
 
 **Ecolampadius.**  
-This saying of Zacharias is not understood even by the schoolmaster. It does not stand that the angel … had prayed. It also does not stand that God … heard his prayer. It is, however, a schematism, that is, in the face, through the giving of such a word of the angel the prophet is taught, that the time of the rebuilding of Jerusalem is already present. One might take it as a soon‑to‑be‑known word, as a praying word, hereafter.
+Dieser Spruch aus Zacharias wird vom Schulmeister ebenfalls nicht verstanden. Es ist nicht so, dass der Engel gebeten hat; es ist auch nicht so, dass Gott sein Gebet erhört hat. Es ist jedoch ein Schema, das im Angesicht erscheint: Durch das Vergeben solcher Worte des Engels wird der Prophet belehrt, dass die Zeit der Wiederherstellung Jerusalems bereits gekommen ist. Man könnte daraus ein bald unverwechselbares, bittendes Wort entnehmen.  

@@ -1,13 +1,13 @@
 Seite CXXIII  
 **Schlußred.**  
-**Zwingy**  
-In our understanding / we have often enough promised / and also (if God wills) will. The matter, however, is not yet present / except at the end / that it is being preserved by a Synecdoche / that the passage of Paul in the first Epistle to the Corinthians at chapter 10 / does not require that it must be a Synecdoche / whether one equally (or commonly) through the same means / it still does not follow that it must be a Synecdoche / then, if the bread were essentially the light of Christ / as the bishop’s opinion holds / indeed the light of Christ would be divided / and therefore there would be no Synecdoche / then also the bread / which also would be the light of Christ / would be divided / and therefore the sense of the bread here cannot be forced / and thus they seek another Scripture.  
-
-**Pfarrer von ſanct Gallen.**  
-I have often been drawn / and answer / I believe by Paul’s saying / that I will give myself in any other word a fight / only that the body and the blood of Christ to us (according to his words) would be divided in the Lord’s night‑sign.  
 
 **Zwingy**  
-In the words / there is always no Synecdoche / I also rely on the Acts / that we have given a token / which they will not be able to receive with Scripture / bringing then other Scriptures.  
+Nach unserem Verständnis haben wir oft genug versprochen und, wenn Gott will, auch gelassen. Die Sache ist jedoch noch nicht geklärt, sondern am Ende, dass sie die Synekdochen bewahrt, nämlich die Stelle des Paulus in der ersten Epistel an die Korinther, Kapitel 10. Es scheint nicht, dass es ein Synekdoche sein muss, ob man gleich Gemeinde oder Gemeinschaft durch das Verstehen durchschreitet; noch folgt es, dass es ein Synekdoche sein muss, wenn das Brot gleich wesentlich dem Leib Christi wäre, wie die Bischofsmeynung hält. So wäre jedoch der Leib Christi zerteilt und wäre deshalb kein Synekdoche. Dann aber das Brot, das ebenfalls der Leib Christi wäre, würde zerteilt; und daher kann der Sinn unter dem Brot hier nicht erzwungen werden, und deshalb suchen wir eine andere Schrift.  
 
-Sůch hieuor  
-am. 119. Blatt.
+**Pfarrer von sanct Gallen.**  
+Ich habe mich oft angezogen und verantwortet, ich glaube nach dem Wort des Paulus, dass ich mich in keinem anderen Wort kämpfen gebe, allein dass der Leib und das Blut Christi uns (laut seiner Worte) im Nachtmahl des Herrn zerteilt.  
+
+**Zwingy**  
+Bei diesen Worten ist die Synekdoche immerdar nicht wert; darauf verlasse ich mich auch auf die Akten, dass wir uns ein Traktat gegeben haben, das sie mit der Schrift nicht erhalten mögen, sie bringen dann andere Schriften.  
+
+Such hier, am 119. Blatt.

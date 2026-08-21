@@ -1,12 +1,34 @@
 Seite [IIII]  
-The first  
-Actorum. xvij. cap. against the divine word called /  
-and the true and divinely invented / having not taken my special God's word and opinion /  
-earnestly attached (God have praise) and so much given to God / according to the original churches / customs and order reformed / and shaped / unanswered all humanly empty. But I have drawn from them / as I consider the case / the Scripture praised / truly describes to me / and concerning all my writings / and those who have heard my preaching. I ask here my lord Provincial / from false untrue words to be silent / and only the divine word to be held / that the time may not be uselessly wasted. Ecclampadius and with empty calculation will be given to many, if God wills, with earnestness and discipline in further disputation, so that one may speak with the love of God and the truth fully. zc.  
+Der erste  
+Actus. xvii. Kapitel gegen das göttliche Wort geheißen  
+und die wahrhaft und göttlich erfundene, haben sie nicht  
+mein besonderes Gotteswort und meine Meinung angenommen, dem  
+ernstlich angehangen (Gott habe Lob) und sich so sehr Gott  
+gegeben, nach der anfänglichen Kirche, Sitten und Ordnung  
+reformiert und gestaltet, und alle menschliche Leere abgelegt. Das aber  
+ich von ihnen angezogen, samt ich des Geistes, der Schrift berühmt,  
+beschütze mir wirklich nützlich und beziehe das auf alle meine Schriften  
+und die, so meine Predigten gehört habend. Bitte hier mein Herr  
+Prouincial, von frechen unwahren Reden, sich zu besinnen  
+und allein des göttlichen Wortes zu halten, damit die Zeit nicht unnütz  
+verzerrt werde. Ecolampadius und mit seiner leeren Rechnung wird  
+möglichlich gegeben, ob Gott will mit Ernst und Zucht in fortführender  
+Disputation, so werden die mit Liebe Gottes und der Wahrheit voll  
+ausgesprochen. zc.  
 
-Upon such words, as the Provincial began to speak:  
-Gather, pious dear Christians, it has today the whole day Martin Buzer very often spoken and let a long sermon be heard. zc.  
+Auf solche Rede, als der Prouincial anfing zu reden:  
+Erst einmal, fromme liebe Christen, es hat heute den ganzen Tag Martin  
+Buzer sehr häufig Reden eingeführt und eine lange Predigt lassen hören. zc.  
 
-And when the President wanted to press, the aforementioned lord Provincial wanted the preachers from Strasbourg, for his own sake, so that they might be against each other, further antagonize, and long speech would be needed to counter the current dispute, which serves no purpose. My lords the Presidents, the lords of the council and the citizens of Bern, order the removal of heavy and unnecessary speeches, opened.  
+Und als die Präsidenten wollten bedrücken, der erwähnte  
+Herr Prouincial wollte die Predicanten von Straßburg, ihres Handels halb,  
+so sei gegen einander Hand, weitere Anstöße und lange Reden brauchen zu  
+gegenwärtiger Disputation, nichts dient, haben meine Herren die Präsidenten,  
+Herren Rhåten und Burger zu Bern Ordnung zu Abstellung von  
+schwerwiegenden und unnötigen Reden angesprochen, eröffnet.  
 
-Namely that one should be illuminated by the Scripture, and according to the content of my lord's mandate should dispute, and all idle words and the antagonisms of the persons should be entirely removed. And as the Provincial and the preachers from Strasbourg have dealt with each other, this time should be set aside, and accordingly a suitable time should be sought for each other.
+Nämlich dass man bei der Schrift beleben sollte und nach Inhalt meines  
+Herrn Mandat disputieren sollte und aller Schmutzworte und Anklagen der Personen ganz ab  
+sein. Und wie der Prouincial und die Predicanten von Straßburg miteinander gehandelt haben,  
+so soll diese Zeit angesetzt werden und demnach geeignete Zeit einander darum ersuchen.  
+Wo

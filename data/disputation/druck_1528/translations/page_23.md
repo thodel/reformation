@@ -1,22 +1,20 @@
 Schlußred.  
 IIII  
+das er uns nicht alle Dinge mit ihm gebe / Ro. viij. Vn  
+wie das Heil der Liebesstadt in Verwaltung des Hauptes /  
+also auch das Heil und Leben aller gläubigen Stadt in Christus: dann ist er ein Heiland für das Leben. Und wie  
+Glieder kraftlos sind und nichts vermögen in Verwaltung des Hauptes / also auch die Glieder des Lebens Christi /  
+der Kirche vermögen nichts ohne Christus. Dann wie das  
+Räucherschiff keine Frucht trägt / wo es dem Weinstock nicht gleichbedeutend bleibt. Also auch wir / so nicht gleichbedeutend  
+sind dem Haupt Christus / werden wir keine Frucht bringen: dann ohne Vermögen wir nichts / Johann. yv. sah einen ewigen  
+Verstand / dass kein Geschöpf ein solcher Haupt der Kirche sein mag / das die Güter von Gott geben / in unsere Herzen gießen /  
+uns stärken / töten / Feuer / und regieren / auch sei ein Heiland des Lebens Christi.  
 
-that it does not give us all things with Him (Ro. viij. Vn)  
-as the salvation of the city of love is in the administration of the head,  
-also the salvation and life of all believers in the city of Christ:  
-then it is a salvation for his love.  
-And as the members are powerless and have no ability in the administration of the head,  
-also the members of the love of Christ, the Church, are capable of nothing without Christ.  
-Then, as the branch bears no fruit, where it is not grafted onto the vine.  
-Thus also we, being not grafted to the head Christ, will bring no fruit:  
-then we are unable to do anything (Johan. yv.).  
-Yet a certain person understood that no creature may be such a head of the Church, that the goods are given by God, poured into our hearts, strengthen us, govern us, and also be a holy land of the love of Christ.  
-
-This Church is born from the word of God, since God from eternity created the world, gave it:  
-yet it is born from the inner word of God, the word of faith (Rom. y).  
-That God, loving and active, makes it speak in our heart, which also in truth is no other, from which the heavenly thing is preached, or is written in Scripture.  
-This calling, illumination, and harvest of the heart I call the birth of the Church (Petri 1).  
-
-Having each other passionately love from a pure heart, as they are reborn not into a mortal body but into an immortal one through the word of the living God who reigns in eternity:  
-then the spiritual birth of the Church must also be from a body.  
-Which, however, is not flesh and blood, nor any human will (Joan 1), also not a temporary thing but the eternal and living word of God, our…
+Sise Kirche ist uns dem Wort Gottes geboren / weil sie Gott von Ewigkeit, die Welt erschaffen, die Welt hat:  
+jedoch ist sie geboren dem innerlichen Wort Gottes / dem Wort des Glaubens / Rom. y. Das Gott liebend  
+und tätig machend, in unser Herz redet, welches auch / in der Wahrheit nichts anderes ist / von dem das äußerlich  
+gepredigt wird / oder in Schrift verfasst ist. Diese Berufung /  
+Erleuchtung und Ernte der Herzen nenne ich Geburt der Kirche. Petrus 1. Habend einander innig lieb  
+von reinem Herzen / als die wieder geboren sind, nicht aus einem sterblichen Samen / sondern aus einem unsterblichen /  
+durch das Wort des lebendigen Gottes, der in Ewigkeit gelobt wird:  
+dann muss die geistliche Geburt der Kirche auch von einem Samen kommen. Welcher aber nicht Fleisch und Blut / noch keinen Menschenwillen hat / Johannes 1. auch nicht ein zergängliches, sondern das ewige und lebendige Wort Gottes / dessen unser.

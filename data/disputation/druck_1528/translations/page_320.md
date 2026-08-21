@@ -1,40 +1,19 @@
-Seite CLII  
+Seite CLII  
 
 Die vierte  
-Zwingli  
+Zwingy  
 
-If recognizing well that often a thing bears the name  
-of which it is made, that serves  
-but not here, then where the Lichnam of Christ  
-is made from the bread, so was here the  
-transformation of the substance of the bread  
-into the substance of the Lichnam of Christ,  
-which substitution they with us do not recognize,  
-and think that it is right and Christian:  
-Then where otherwise, it would not only be the slaughter taken from  
-the seed of Abraham, but also the slaughter  
-or seed of the grain, as sufficiently explained.  
-The saying of Jeremiah in chapter 7 has a different meaning,  
-neither generally is it shown, needs no answer:  
-then according to its sense it does not strike us back,  
-the Paul for us for “trunkgschier” or “track” empty,  
-and not wine, may need to help: then such enough  
-of judgment will be with the printed words, bread, then  
-Equipollentia, that is equalizing speech, preserving each other  
-in the same understanding, recommending such also to all Christ‑believing men,  
-according to the foundation shown in Scripture.  
+Ihr erkennt wohl, dass oft ein Ding einen Namen hat, der bezeichnet, dass es gemacht ist.  
+Das dient hier jedoch nicht, wenn der leuchtende Name Christi aus dem Brot gemacht wäre; dann wäre hier die Verwandlung der Substanz des Brotes in die Substanz des leuchtenden Namens Christi, die wir nicht erkennen und die das Recht und das Christliche verkennt.  
 
-Hienos: am 118  
-blatt.  
+Dann, wo es anders wäre, wäre nicht allein das Geschlecht, das von Abraham angenommen wurde, sondern auch das Geschlecht bzw. der Same des Korns, wie zuvor ausreichend erklärt ist.  
 
-Zwingli wyter:  
+Der Spruch Jeremia im 5. Kapitel, der einen anderen Sinn hat, wird weder allgemein dargelegt noch bedarf es einer Antwort. Nach seinem Sinn richtet er sich nicht gegen uns, wie Paulus für uns, für Trank oder Trauer nichts hat und nicht weint, kann jedoch nützlich helfen. Dann wird ein solches gerechtes Urteil mit den ausgestrickten Worten „Brot“ ergehen; dann „Equipollentia“, das ist gleichwertige Rede, die einander im gleichen Verständnis erhalten, und das wird auch allen christlichen gläubigen Menschen nach dem Grund der angezeigten Schrift empfohlen.  
 
-Lff answer our ground for carrying,  
-we bind in the name of God this answer: in advance  
-praying that it may be by divine grace, not contrary  
-to his holy word we may think, that neither  
-learners nor hearers use our own counsel for the mind.  
-First, that Christ Jesus our homeland, John  
-in chapter 7 also spoke thus: The bread of God is  
-that which comes from heaven, and the world gives life,  
-to which
+Hinweis: am 118. Blatt.  
+
+Zwingy weiter:  
+
+Lff‑Antwort, unsere Grundlage dafür zu tragen, beenden wir im Namen Gottes diese Antwort: im Vorfeld bittend, dass er aus göttlicher Gnade uns vergelte, damit wir nicht gegen sein heiliges Wort verstoßen, damit weder Lernende noch Hörende uns mit eigenem Rat fürchten.  
+
+Erstlich: Christus Jesus, unser Heiland, Johannes im 5. Kapitel hat selbst so gesprochen: Das Brot Gottes ist das, das vom Himmel kommt und der Welt das Leben gibt, an welchen …

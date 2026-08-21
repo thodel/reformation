@@ -1,14 +1,12 @@
 Seite CCXXIII  
-Schlußred. CCXXIII  
-
-Now therefore against the holy word of God and against the doctrine of Christ and the Apostles, so with great cost, in all cases idols are erected, of which one has worshipped God and the dead saints; therefore the living saints here are not honored. We have therefore preached the foregoing concluding speech.  
+Schlußrede. CCXXIII  
+Rung fürkomme. Die wollen nun wider das heilige Wort Gottes und wider die Lehre Christi und der Apostel, so mit großem Kosten, allenthalben aufgeführt sind Götzen, von welchen man Gott und die verstorbenen Heiligen hat verehrt; darum hat man die lebendigen Heiligen hier nicht geachtet, und wir haben die vorgenannte Schlussrede gepredigt.  
 
 Buchstab.  
+Die Bilder sollen angeboten werden oder zum Lernen mit göttlicher Ehr dienen; die Meinung wird nach Gottes Willen der Christen sein. Wir haben im Alten Testament, Exodus 25, dass Mose zwei Cherubim über die Arche anfertigen ließ; das Gleiche findet sich im dritten Buch des Königs, Kapitel 5.  
 
-The images, half offered or to be learned with divine honor, the opinion will be according to God’s will for the Christian. We have in the Old Testament, Exodus chapter 25, that Moses made two cherubs for the Ark of the Covenant in the third book, the king at …  
+Kapitel. Sie selbst sind allein für die Bildnutzung geachtet worden und nicht für den Götzendienst; darum sind sie nicht verboten: ebenso die Schlange Erins, weil sie ein Bild und Zeichen ist, bleibt sie bestehen. Aber nachdem er angebetet worden war, hat König Ezechias von Juda sie zerbrochen (4 Könige, Kapitel 8).  
 
-Capitel.  
+Darum, wir christlichen Menschen, die wir die Erkenntnis von Gottes Hand und seiner Heiligen besitzen, aber nicht die sichtbare Hand sehen, können wir auch ihre Bildnutzung haben; so spricht Paulus zu den Römern, Kapitel 1. Das unsichtbare Wesen Gottes wird offenbar; es wird in der Geschichte der Schöpfung der Welt dargestellt: Wie wir den Schöpfer nicht sehen, aber die Geschöpften sehen, so sehen wir die Dinge nicht, aber durch die Bilder werden sie uns verständlich; daher sollen wir das Gedächtnis an die Bilder bewahren.  
 
-They themselves are regarded only for images and not for idolatry; therefore they are not forbidden: likewise the serpent of Eden, which was a figure and a sign, remained. But after it had been offered, King Hezekiah of Judah broke it (4 Kings chapter 8).  
-
-Darum wir christliche Menschen, die wir die Erkenntnis Gottes Hand und seiner Heiligen haben, und aber seine Hand nicht sehen, können wir auch unsere Bilder haben; so spricht Paulus zu den Römern …: Das unsichtbare Wesen Gottes wird gesehen werden, so wie man … die Geschichte der Schöpfung der Welt …; also wie wir den Schöpfer nicht sehen, aber die Geschöpften sehen, so werden wir die Dinge nicht sehen; durch die Bilder wird das gemeint, dass wir uns an die Bilder erinnern mögen.  
+Kkē iij

@@ -1,15 +1,4 @@
 II  
-and, brothers, in order to describe at the outset that we were certain of the truth,  
-to investigate again, so that we might wholly turn toward God in our certain opposition to God, and toward good peace, and be able to come to one another. And thus, in order to come after, we are unworthy servants and preachers of the holy Gospel—my brother Berchtold and I have examined the account of our faith and preaching—so that we, together with all those, may confess the Gospel, find it true, and according to order set forth the articles, also all speech, so that we may follow from it, answer, and preserve it with mighty writing.  
-
-The holy Paul also bids us that we should not be fickle, but wholly find one opinion, and that a true one gave—whether art or craft—so that God may have mercy on us, not prideful and despised (for science inflates), despising worldly matters, but in Christian love (which builds up) bear one another’s burdens, serve one another.  
-
-May our dear Lord Jesus Christ also comfort us, as He says in Matthew 5:7.  
-
-Praying, you will receive; seeking, you will find; opening, I will be frank. I now remind you of all things beyond the world, friend of God, that the younger generation before God may be humbled and with me confess, speaking: “I, a poor sinful man, father, our Father, and also Mary.”  
-
-We also testify here that we reject any article of our old Christian belief that would act otherwise; therefore we say: “I believe in God the Father.” We have also taken useful for ourselves the simple use of the Night‑Mass of our Lord Jesus Christ, which hitherto has been taken.  
-
-Sivi.  
+Und Brüder, zunächst zu erläutern, war es nötig, erneut zu prüfen, damit wir alle im Inneren unseres Gewissens gegen Gott und für guten Frieden und einander kommen können. Und damit wir nachkommen, sind wir unwürdige Diener und Prediger des heiligen Evangeliums; mein Bruder Berchtold und ich erörtern unseren Glauben und die Predigt, um zu erklären, dass wir mit allen zusammen das Evangelium bekennen, verpflichtend finden und nach Ordnung über die neueren Artikel sowie alle Reden, sodass daraus folgen soll, zu antworten und mit gewaltiger Schrift zu bewahren. Es bittet uns auch der heilige Paulus, dass wir nicht streiten, sondern vollkommen eins werden, einig in Meinung sein, und dass ein echter Glaube, nicht Kunst, Gott verherrlicht, nicht Stolz und Verblendung (weil Wissenschaft aufbläht), sondern in christlicher Liebe (die aufbaut) einander tragen und dienen. Er ruft uns auch unser lieber Herr Jesus Christus, in dem er spricht: Matthäus 5. Bittend, so werden wir empfangen; suchend, so werden wir finden; hoffend, so werde ich offen. So erinnere ich euch alle außerhalb der Welt, Gottesfreund, dass ihr vor Gott demütig sein sollt und mit mir bekennen sollt, sprechend: Ich, armer sündiger Mensch, Vater unser. Auch Maria. Wir beziehen uns damit, dass wir keinen Artikel unseres alten christlichen Glaubens ablehnen, sondern handeln wollen, der lautet: Ich glaube an Gott, den Vater. Wir handeln auch nützlich für uns, indem wir den einfachen Gebrauch des Abendmahls unseres Herrn Jesu Christi befolgen, das man bisher die Messe genannt hat. Sivi.  
 
 21 tj

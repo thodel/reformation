@@ -1,9 +1,9 @@
-Seite [28]  
+Seite [28]  
 Schlußred. XXVIII  
-and the further point is shown, where the spiritual man judges all things; likewise he would judge the Scripture. We give this answer, that the Scripture is spiritual, as Paul says; then the law is spiritual, and the spiritual man disposes of everything according to the living, according to a faith, which he distinguishes, what is believed and loved according to measure.  
-Lastly, he who does not lift up the church … we say that this saying concerns the special congregation of God, which has set itself on the way of dying to life, and will be understood everywhere, therefore called; that it is through the Spirit that one is led to love the neighbour and to faith in God, which is of benefit; then Christ previously works in it, and thus as members, according to the influence of the one head, acts, and lets stand as has also been reported, as the just law is established; then Paul in our brought place does not speak of the just … such … especially proper of the spiritual, that is, it speaks of the Christian.  
 
-Doctor Cůnrad Treiger/  
-Provincial.  
+und das Weitere angezeigt, wo der geistliche Mensch alle Dinge richtet; so wurde er die Schrift auch richten. Wir geben diese Antwort, dass die Schrift geistlich ist, wie Paulus sagt; dann ist das Gesetz geistlich, und der geistliche Mensch veräußert alles des Lebens nach einem Glauben, das ist er unterscheidet, was Glauben und Liebe gemäß sei. Zuletzt, dass die Kirche nicht erhöht wird, zu c. Sagen wir, dass dieser Spruch von der besonderen Gemeinde Gottes redet, welche sich im Weg des Absterbens zu leben befunden hat und ein äußerst gemeines Gemeindemitglied desselben deshalb genannt wird; das sei durch den Geist zur Liebe des Nächsten und zum Glauben an Gott geführt, welche nützt; dann wirkt Christus zuvor in ihr, und also als Glieder nach dem Einfluss des einen Hauptes handelt, und lässt, wie auch gemeldet ist, wie dem gerechten Gesetz geknüpft sei, dann Paulus in unserem vorgebrachten Ort nicht vom gerechten, sondern von solchen Weiß, besonders von dem geistlichen; das ist von dem Christen geredet.
 
-[F]amen pious Christians / my lord Doctor turns for / that this saying of Paul: So he also says / the spiritual is judged by no one / but he judges all things / as that which should be understood by an eternal Christian / who has received the Spirit of the Lord / therefore it will be understood from a common Christian assembly / to which I …
+Doctor Cůnrad Treiger  
+Provincial  
+
+[F]amen frommen Christen/min Herr Doctor wendet für den Spruch Paulus: So er also sagt, der geistliche richtet niemanden, er richtet aber alle Dinge, wie das so verstanden werden soll von einem gleichmäßigen Christen, der den Geist des Herrn empfangen hat; darum ist es dann von einer gemeinen christlichen Versammlung verstanden worden, dem ich deines Weges widerspreche, besonders.

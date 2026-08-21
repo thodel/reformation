@@ -1,22 +1,15 @@
 Seite XCVII  
-Schlußred.  
+Schlussrede.  
 
-Selig werden. I say, however, that faith also is a work. In John chapter VIII the disciples speak to Christ:  
+Selig werden. Ich sage aber, dass der Glaube auch ein Werk sei. Johannes am … sprach die Jünger zu Christus:  
+Was werden wir tun, damit wir das Werk Gottes vollbringen? Antwort Jesus: Das ist das Werk Gottes, das ihr im Glauben, den er gesandt hat, welchem Glauben ihr nachfolgen müsst, das Werk.  
 
-“What shall we do, that we may accomplish the work of God?”  
+Johannes am VIII. sprach Christus: Sind ihr Söhne Abrahams, so tut die Werke Abrahams.  
 
-Answer of Jesus: “That is the work of God, that you, in the faith which He has sent, must follow the works.”  
+In summa so hat Christus … (das hat am 25. angezeigt, wie er werden am letzten Gericht zu den … Gottes sprechen wird): Kommend hat er euch gesegnet, meines Vaters, besitzend das Reich, das euch zu richten ist von Anfang der Welt; dich hat er hungern lassen, und ihr habt mich gegeißelt.  
 
-John chapter VIII also records Christ speaking: “If you are the sins of Abraham, then you perform the works of Abraham.”  
-
-In sum, Christ (as shown in chapter XXV) says how He will be at the last judgment before the worlds of God: “Coming, you have blessed my father, possessing the right that you are judged from the beginning of the world; He has hungered for you, and you have spied me.”  
-
----  
+---
 
 Martinus Butzer.  
 
-When the Lord John in chapter VIII says, “That is the work of God, that you, in the faith which He has sent,” it is a kind of imitative discourse to Greek μίμησις, Latin imitatio, called so when several came together and spoke:  
-
-“Shall we not speak with one another, and shall another answer on this point, that we are our own speech; we must write, or do something similar.”  
-
-Then writing would not have been done, but it would be called a similar discourse. Therefore the Lord also acted; the Jews asked about works, of which He would draw them to belief, and not after His speech the belief, a work of God, that is a work that would be counted by God: as if He had said, “You ask about works, that you may please God: believe in me; that would be a truly divine work, and it became my heaven …”
+Als der Johannes am … Kapitel. Das ist das Werk Gottes, das ihr im Glauben an den, den er gesandt hat. Es ist ein nachahmender Red, zu griechisch μίμησις, Latein *imitatio* genannt, als so etliche zusammen kamen und sprachen: Wollen wir nicht mit einem anderen Zeichen, und ein anderer sagt darauf, dass wir …

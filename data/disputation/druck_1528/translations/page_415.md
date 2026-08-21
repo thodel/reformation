@@ -1,12 +1,12 @@
-Seite CC  
-Schlußred.  
-Våter/mit alleding haben gewuͤßt von vnns menschen vff ertrich/in der vozhell: vil mer doch/moͤge sy es wuͤs= sen im himmel/Dann wie Johannes schribt im heyligen Euangelio/das iſt dz ewig laͤben/das sy dich einige gott erkennen: so sy nun Gott erkennen im himel/wie wolten sy nit etliche andre ding erkennen in Christo.  
+Seite CC  
+Schlussrede.  
+Wort, mit allem, haben wir Menschen von Ertrich in der Vorsehung gewusst: viel mehr möge es sein, dass es im Himmel geschieht. Dann, wie Johannes im heiligen Evangelium schreibt, das ist das ewige Leben, dass ihr Gott erkennen sollt; so sollt ihr nun Gott im Himmel erkennen, wie ihr nicht andere Dinge in Christus erkennen wollt.  
 
-Zwinggly.  
-DAs wort Johannis hart den sinn/das diß fuͤre zů dem ewigen laͤben/gott erkennen/vnd Jesum Chri stum. Was dienet aber das vff die schlußred.  
+Zwingli.  
+Das Wort Johannes hat den Sinn, das führt zu dem ewigen Leben, zu Gott erkennen und zu Jesus Christus. Was dient aber das von der Schlussrede?  
 
-Gilg Durer  
-DEwylder Rich mann. Luce xvj. gebåtten hart in der hell/fuͤr die vff ertrich/vil mer soͤllen wir glou= ben/das die vßerwelten im himmel Gott fuͤr vns bitte moͤgen.  
+Gilg Durer  
+Der weidliche reiche Mann. Luz XV. gebeten hart in der Hölle für die von Ertrich; viel mehr sollen wir glauben, dass die überwelt im Himmel Gott für uns bitten möge.  
 
-Zwinggly.  
-DAs Luce am xvj. der maẞ geschriben. Iſt ein in= leytung vñ leer/das die abgescheidnen/vergeb= lich Båtten/werden ouch nitt erhoͤrt/ob sie glich Båtten: vnd dienet die meinung vns/vnd nit jnen/vnd iſt ein παραβολή/Gott hat sich selb vorgebildet durch Abra ham/durch den Lazaru͂/ein yeden/ð vff gott vertruwt dan souil vermag צדקתו Cui robur eſt deus. Durch den rich= Lazuriah. en/die kinder diser welt/vnnd wil anzeygen/das die vff Gott vertruwt sind/von stunden/so sy.
+Zwingli.  
+Das Luz am XV. der Maß geschrieben ist ein leeres Wort; die abgesonderten, vergeblichen Bitten werden nicht erhört, ob sie gleich Bitten sind. Und das dient nur unserer Meinung, nicht jener; es ist ein Gleichnis. Gott hat sich selbst durch Abraham und durch den Lazarus vorgespiegelt; ein jeder, der Gott vertraut, soll dadurch vermögen, Gerechtigkeit zu erlangen. Durch den reichen Lazarus und die Kinder dieser Welt will ich zeigen, dass die von Gott Vertrauten, seit dieser Zeit in den Schoß und die Freude Gottes kommen; die aber nach ihrem Glück in dieser Zeit leben, werden ewiglich.

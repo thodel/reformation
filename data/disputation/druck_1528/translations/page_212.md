@@ -1,29 +1,22 @@
-Page [X]  
-The third  
-have a part and share in his forgiveness / the glory:  
-but must give God, who to us for the Son … Jo:  
-Hans … Our work … capable here.  
+Seite [X]  
+Die Dritte haben Teil und gemein an seiner Genugtuung, am Glauben:  
+Man muss aber Gott geben, der uns zum Sohn macht, ja:  
+Hans, unser Werk vermag hier nicht.
 
-Letter  
-Because Christ should have said to us completely and entirely … was given … that he has begged … and said … Matthew … Forgive us our sins.  
+Buchstabe  
+Da Christus uns so ganz und gar frei hätte sagen sollen, wurde vergeben, gesinnt, dass er uns hat bitten lassen und spricht: „Matthäus, vergib uns unsere Schuld.“
 
 Martinus Butzer+  
-Here before  
-on the 93rd / 94th leaf  
-is responsible in the declaration of Lord Berch told.  
-We ask for clarification; it is not enough to do so.  
-I leave myself to the Acts.  
+Sich hier vor  
+am 93./94. Blatt  
+ist verantwortlich in der Erklärung des Herrn Berchtold.  
+Bittet um Verzeihung, ist nicht genug getan.  
+Ich lasse mich auf die Akten.
 
-Pelagius the Stone / Walcher the Clear /  
-Mathias Keßler / all three from Appenzell.  
-As concerning the third article, so our  
-Lord pastor of Appenzell, Christ with  
-his merit, our Savior, has drawn upon the  
-original sin, thereby to the people much merit, in many  
-places white, at many places ordained and forgiven; of this we  
-have a testimony of the writing.  
+Pelagius am Stein / Walcher Klarer / Mathias Keßler / alle drei von Appenzell.  
+In Bezug auf den dritten Artikel hat unser Herr Pfarrer von Appenzell Christus mit seinem Verdienst unser Land von der Erbsünde befreit, damit dem Volk viel Verdienst in mancherlei Hinsicht.  
+An vielen Orten verordnet und vergeben; darüber hinaus geben wir ein Vorwort der Schrift.
 
-Theobaldus Huter / Pastor  
-of Appenzell.  
-In your name, Lord Jesus Christ, Amen. In  
-the … as they address me … the three so far.
+Theobaldus Huter, Pfarrer zu Appenzell.  
+In deinem Namen, Herr Jesu Christus, Amen.  
+Da sie mich ansprechen, die drei, die mir entgegenstehen, von meinen Herren aus Appenzell, nämlich...

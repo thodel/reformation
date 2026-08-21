@@ -1,12 +1,12 @@
 Seite LXXIX  
-**Schlußred**  
+**Schlußrede**  
 
-Take for yourselves an example, that you may follow his footsteps. Also in the Gospel of John, where he says: “As Christ walked, so also shall you walk.” How soon will we Christians, for Christ’s sake, endure something or take up his struggle, so that we may not for forty days without meat be able to eat and fast.  
+Denn ihr verlasst ein Beispiel, dem ihr nachfolgen sollt, seinen Fußstapfen. Ebenso in der Lesung des Johannes, wo er spricht: „Er soll wie Christus wandeln und wandeln.“ Wie spät werden wir Christen um Christi willen etwas leiden oder seinen Kampf aufnehmen, wenn wir nicht vierzig Tage ohne Fleisch essen können und fasten.  
 
 **Martinus Bucerus**  
 
-Above all, that drawing does not prove itself, that the church makes God, which in God’s word has no foundation, and yet consciences should be bound, that there is nothing with us. But that which is drawn from the forty‑day fast—Moses, Elijah, of Christ—here has not: they are not … thereby God the Lord, without human help, must have been sustained. That from the suffering drawn, we should, for Christ’s sake, endure something; that is to understand from the suffering that God sends us, not that we ourselves choose. Thus one should be like Christ in all discipline and love, but not that one must be for forty days and nights without … It will also the schoolmaster keep alive, unless we also awaken the dead and perform other wonders which the Lord has wrought.  
+Vor allem das Anziehen ist nicht das, was die Kirche Gott macht, die im Wort Gottes keinen Grund hat; und doch sollen die gewohnten Bünde bestehen, damit um nichts uns etwas wird. Das aber, was von den vierzig täglichen Fasten gezogen ist – das Fasten, das Heil und das Christi‑Dienen – ist hier nicht: Sie sind nicht bei den Leuten gewesen; darüber hat Gott, der Herr, ohne menschliche Spieße erhalten müssen. Das vom Leiden hier Gezogene soll uns dazu bringen, um Christi willen etwas zu leiden; das ist zu verstehen als das Leiden, das uns Gott zuschickt und nicht, dass wir es selbst wählen. Man soll wandeln wie Christus in aller Zucht und Liebe, aber nicht, dass man dafür vierzig Tage und Nächte ohne Spieße aushalten muss. Auch der Schulmeister wird wohl bleiben dürfen; sonst müssten wir Tote wiedererwecken und andere Wunder tun, die der Herr gewirkt hat.  
 
-**Bichuatter.**  
+**Bichuatter**  
 
-Martin Burger has begun to answer that the church does not forbid meat to be eaten, or otherwise … God … because of the … Now says St. Paul, the drawn speech to …
+Martin Burger hat begonnen zu antworten, dass die Kirche nicht verbiete, Fleisch zu essen oder anderweitig Gott zu missfallen aus Gründen der Erregung. Nun sagt der heilige Paulus den angezogenen Spruch zu …

@@ -1,3 +1,3 @@
-Page [X]  
-The fifth  
-first / therefore he needs a replacement of the one. To the fourth. He appears before the face of God / and represents us / therefore they are not representative / that is, in contrary wise, an offering. To the fifth. He has made it complete and perfect / which then the present priest’s offering is different / than a little piece of the offering Christ. To the sixth. He has invented an eternal redemption / which souls will then the priests redeem with the measures. To the seventh. It i
+Seite [X]  
+Die fünfte  
+Erstens, deshalb braucht er einen Ersatz. Zum Vierten. Er erscheint vor dem Angesicht Gottes und vertritt uns, darum werden wir nicht repräsentativ; das ist in widersprüchlicher Weise ein Opfer. Zum Fünften. Er hat es vollendet und vollkommen gemacht, und ist dann das heutige Priesteropfer anders, dann ein Schmächen des Opfers Christus. Zum Sechsten. Er hat eine ewige Erlösung erfunden, was Seelen wollen, dann die Priester mit den Messen erlösen. Zum Siebenten. Es i

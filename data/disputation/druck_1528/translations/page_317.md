@@ -1,5 +1,12 @@
-Page CLI  
-Conclusion Speech CLI  
-unworthy is / not at all / Which the bread is unworthy.  
-Further follows / By drinking becomes / the drink of the Lord unworthy: but it is not drink / not blood.  
-But this literally / worthy / is as much by Paul and Luke II as / sent / comely / or belonging / that is recognized / that here unworthily / not understood should become / that the man now wishes to be sufficiently worthy / to the smallest gifts of God. Therefore also the / but the light of Christ spiritually / which indeed / much another eat is / neither would be bodily / thereby is saying / that God has made worthy. From that now full / (worthy eat) nothing else is / with the right faith come. Unworthy eat / but nothing else / neither without faith come / but the faith some one ordered is / not believed / that flesh and blood bodily then be eaten / that enough is fought / that we therefore have no misunderstanding of God’s word having / except faith / the living sun of God with its death has redeemed us. It follows further / in the words of Paul: He is guilty at the light and blood of the Lord / not that he unworthily has eaten / except / that he has given himself a false ...
+Seite CLI  
+Schlußred. CLI  
+
+Unwürdig ist, wer das Brot unwürdig isst. Weiter folgt: Durch das Trinken wird das Teil des Herrn unwürdig; jedoch ist das Teil nicht Blut.  
+
+Aber das wörtlich Gesagte heißt, wie bei Paulus und Lukas II, dass es erkannt werden soll, dass hier das Unwürdige nicht verstanden werden darf, dass der Mensch neu genug würdig sein soll zu den aller kleinsten Gaben Gottes.  
+
+Dazu aber den Leib Christi geistlich zu verzehren, welches doch viel miteinander essen ist, weder leiblich wäre, daran sei zu sagen, dass Gott ihn würdig gemacht hat.  
+
+Daraufhin ist das Essen nicht anders, als mit dem rechten Glauben zu kommen. Unwürdiges Essen nützt nichts, weder ohne Glauben zu kommen; aber der Glaube wird einig erörtert, nicht zu glauben, dass Fleisch und Blut leiblich gegessen werden, weil das genügsam erfochten ist, dass wir deshalb nichts verstehen, das Gottes Wort hat, sondern nur Glauben, dass die lebendige Sonne Gottes mit seinem Tod uns erlöst hat.  
+
+Es folgt weiter in den Worten des Paulus: Der wird schuldig am Leib und Blut des Herrn, nicht weil er unwürdig gegessen hat, sondern weil er sich ein verirrtes, falsches Darbieten hat: das ist, er will nicht sagen.

@@ -1,21 +1,7 @@
 Seite XLVI  
 
 **Schlußred.**  
-The city / in our church has been written and acted upon; therefore we have asked our noble lord of Bern to describe it. From that we have alone requested to deal with him. Yet he has introduced a common sermon against the common Christian doctrine according to his old custom, not by Scripture; it has been necessary to answer the same. And we have done so with Scripture, by service, in the two first Schlussreden.  
-
-Now he has free (open) place with Scripture against the two first Schlussreden to deal with; may he not; thus lies his whole undertaking: may he do it, so he does it, thus he will be as in the main matter, also in everything. That I have spoken against him, (and) humbled myself. So if he does not will do it, as he also cannot, it appears to everyone bright and clear that these are belief/doctrine and all is his doing without Scripture.  
-
-So then, however, the Scripture contains all good; recognize perhaps what his doing and doctrine be, that he with Divine Scripture does not know how to preserve, and how Divine our … that he with Divine Scripture could not refute.  
-
-Your Christians consider that and judge.  
-
-We offer ourselves, however, thereby; he brings forth what is dear to him (Truth is his own never unequal); we will give a sufficient answer.  
-
-So, however, at this place, there alone should be dealt with by Scripture; the other side is not heard; write he, should be answered superfluously.  
-
-We have also the worthy gentlemen Presidents, freely asked; they should grant him this time an answer to do, to his pleasure; while we do not answer, then only by the Scripture, from him against the two first Schlussreden, was it brought, and all other speech was to be let go.  
-
-So, however, should not have (because of our noble lord of Bern’s mandate) his may; so we have asked him; he does with Scripture bring forth what he may; should be answered, that all Christians may see that we are seeking the Law of God.  
+Die Stadt in unserer Kirche hat geschrieben und gehandelt; darum haben wir unseren gnädigen Herren von Bern gebeten, ihn zu beschreiben. Von dem haben wir allein mit ihm zu handeln gebeten. So aber er die gemeine Einrede wider die gemeine christliche Lehre nach seiner alten Gewohnheit ohne Schrift eingeführt hat, war es nötig, dieselben zu erwidern. Und das haben wir mit Schrift, also dienstlich, die zwei ersten Schlussreden getan. Nun hat er freien Platz, mit Schrift wider die zwei ersten Schlussreden zu handeln; mag er das nicht, so liegt sein ganzes Vorhaben: mag er es tun, so tut er es; so wird er wie an der Hauptsache, also an allem. Dass ich wider ihn geredet habe, besitze ich. So er das nicht tun will, wie er auch nicht vermag, sieht jeder hell und klar, das sind Glaube, Lehre und alles ist getan ohne Schrift. So aber die Schrift alles Gute enthält, erkenne ich, was sein Tun und Lehre sei; die er mit göttlicher Schrift nicht weiß zu erhalten und wie göttlich das unser ist; dass er mit göttlicher Schrift nicht widerlegen kann. Ihr Christen bedenkt das und richtet euch. Wir bieten euch aber dabei, er bringe dafür, was ihm lieb ist (Wahrheit ist ihr selbst niemals ungleich), wir wollen ihm genug Antwort geben. So aber an diesem Ort, da allein mit Schrift gehandelt werden soll, andererseits nichts gehört, schreibe er, soll ihm überflüssig Antwort werden. Wir haben auch die erwünschten Herren Präsidenten fleißig gebeten, sie sollen ihm vergeben, an diesem Mal Antwort zu geben, zu seiner Gunst; wollen wir nun darauf antworten, dann allein so, dass die Schrift von ihm wider die zwei ersten Schlussreden gebracht wurde und all andere Reden für ganz lassen. So aber sollte es nicht haben (wegen unseres gnädigen Herren von Bern Mandat) sein mögen; so wollen wir ihn gebeten haben, er tue mit Schrift dafür, was er möge, soll ihm verantwortlich werden; dass alle Christen sehen, dass wir die Lehre Gottes suchend.  
 
 **Meister Vlrich Zwinglis protestation**  
 **nach Doctor Cůnraden Treigers protestation beschehenn.**  

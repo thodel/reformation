@@ -1,21 +1,21 @@
-Page LXXII  
-The fourth  
+Seite LXXII  
+Die vierte  
 
-Walterus klarer.  
-You may not ask me, giving answer of my syllogism, whether the bodily Christ should be seen as bodily and sensible.  
-
-Pfarrer von Appenzell.  
-Thus, if he asks me whether the body of Christ is bodily and sensible, I answer no; rather the form under which he is apparently with flesh and blood, and I have enough thereof; refer me again to my presented treatise.  
-
-Walterus klarer.  
-If he is not seen as sensible, then he is not in the Sacrament.  
+Walterus Klarer.  
+Ihr dürft mich nicht fragen, ich gebe Antwort auf meinen Syllogismus, ob der leibliche Christus leiblich und empfindlich gesehen werden soll.  
 
 Pfarrer von Appenzell.  
-Refer me to the Acts, as I have previously decided, likewise here.  
+So er mich fragt, ob der Leib Christi dort leiblich und empfindlich gesehen werden soll, antworte ich: nein, sondern die Gestalt, unter welcher er gewöhnlich mit Fleisch und Blut ist; darüber habe ich genug dargelegt und verweise erneut auf meine dargelegte Schrift.  
 
-Walterus klar.  
-I as well.  
+Walterus Klarer.  
+Wäre er nicht empfindlich gesehen, so ist er nicht im Sakrament.  
 
-Pelagius am Steyn Predicant zu Trogen, Walterus klarer, Pfarrer zu Hundwyl, all von Appenzell.  
+Pfarrer von Appenzell.  
+Verweise mich auf die Akten, wie ich es bereits beschlossen habe, so auch hier.  
 
-Ewig / hoch und wohlgekehrt / vorsichtig / weiß Herrn frome Christe / dieweil der Pfarrer von Appenzell unser ... / sich bisher wider alle Schlussrede eingelassen und die selbe zu widerfechten und zu erneuern hat: dem gedachten Pfarrer.
+Walterus Klar.  
+Ich auch.  
+
+Pelagius am Stein predigt zu Trogen, Walterus Klarer, Pfarrer zu Hundwil, alles von Appenzell.  
+
+Ewig, hoch und wohlgelehrt, vorsichtig, weise, Herr von Christus, der Pfarrer von Appenzell.  

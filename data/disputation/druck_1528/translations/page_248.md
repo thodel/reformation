@@ -1,11 +1,9 @@
-Page [IVX]
+Seite [IVX]
 
-The fourth
+Die vierte
 
-that the body of Christ in words of the Night Meal be written / then in the same form as my lord Doctor lets himself be taken from Luke / in the same measure we base ourselves on the holy sayings and the description of Matthäus and Markus, which to all unequal understanding with their clarity bring forth a strong enough conclusion.
+dass der Leib Christi in Worten des Nachtmahls verfasst wird, dann gleiche Gestalt, wie sich mein Herr Doktor von Lukas lassen lässt, gleichen Maß gründen wir uns von den heiligen Sprüchen und Beschreibungen Matthäus und Markus, welche allen ungelesenen Verstand mit ihrer Klarheit abzuleiten stark genug.
 
 Ecolampadius. +
 
-S
-
-It takes me, therefore, why my lord pastor / a cutting off (abschüchen) is true to the literal Sacrament / that there to clear understanding of this matter / serves, but we use it not unwillingly / then we do not wish it / those who beg the Sacrament to us / but they almost gladly / that one holds the natural / divine understanding in their breach / and rejects besides not the names of the Testament of Christ / or of the lord’s Night Meal / then they also serve us / to revelation of such truth: and namely so Luke takes the cup / that new Testament / we have a powerful attraction / that such drink is a memorial sign / of the Testament of Christ, how well the new Testament is taken / then from the Epistle to the Hebrews and also from the prophet Jeremiah in chapter xxxj we find that / the Testament and the pledge stand in the forgiveness of sins / and that such Testament or also pledge / alone in the death and dying of our lord Jesus Christ is assured / and sealed, as also the hearts of the believers / alone thus completely assured / thereby we also cannot deny / that the Sacrament in the new sentence / does not also require and figures / we must say that the ...
+S nimmt mich früh, warum mein Herr Pfarrer ein Abschneiden treibt von dem wörtlichen Sakrament, das zu klarem Verstand dieser Materie dient, aber wir brauchen uns der nicht zu verneinen, dann wir nicht wollen sein, die da begehren das Sakrament zu verneinen, aber wollen fast gern, dass man den natürlichen/göttlichen Verstand in ihrem Bruch halte und verwerfen dabei nicht die Namen des Testaments Christi oder des Herrn Nachtmahls, dann sind sie uns auch dienend zu Offenbarung solcher Wahrheit: und nämlich so nimmt Lukas den Kelch, das neue Testament, haben wir eine gewaltige Anziehung, das solche Trank ein Gedächtniszeichen sei des Testaments Christi, wie wohl es das neue Testament genommen wird, danach ist die Epistel zu den Hebräern und auch nach dem Propheten Jeremia am xxxj. Kapitel finden wir das Testament und Pündtnus statt in Verzichung der Sünden, und ist aber solches Testament oder auch Pündtnus allein im Tod und Sterben uns seines Herrn Jesu Christi versichert und versiegelt worden, wie denn auch die Herzen der Gläubigen, allein also vollkommen versichert werden, dadurch auch können wir nicht verneinen, dass das Sakrament im neuen Satz nicht auch bedeuten und Figuren sind; wir müssen ja sagen, dass der …

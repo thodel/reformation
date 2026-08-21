@@ -1,17 +1,12 @@
-Seite XXXI  
-Schlußred.  
+Seite XXXI  
+Schlußrede  
 
-In his nearest men in a Christian community,  
-there discord and disunity sow in our unblemished faith, and he who sees contrary to the true understanding of the word of God now spreads false doctrines and sects.  
+In seinem nächsten Menschen in einer christlichen Gemeinde  
+da Arroganz und Einigkeit stiften in unserem unbefleckten Glauben wie der,  
+der da sich widert dem rechten Verständnis des Wortes Gottes und nun raucht und sektisch stiftet. Weiter so zeigt der Text hier luter und klar an, dass der Herr redet von Erbarmen; darum sagt der Herr, wenn ein Glied dir Erbarmen gibt, so schneidet es ab und wirfst es dir zu. Das ein‑ und zweite Feld von geistlichen Gliedern des Herrn Zeugnis ist, so ein Mensch dem andern oder einer ganzen christlichen Gemeinde Erbarmen gibt; dann gibt es keinen größeren Erbarmen, und dann zerrt die Trennung in unserem unbefleckten Glauben; darum folgt hieraus, dass dieser Text vorwärts und voran in diesem Falle zu verstehen ist.  
 
-Furthermore the text here shows more clearly that the Lord speaks of annoyance; therefore the Lord says, “Weep, a member, for annoyance gives you, so cut off and cast away.”  
+Zum Dritten hat mein Herr Doctor Antwort gegeben, wie dieser Text zu verstehen sei, nicht von der gemeinen christlichen Kirche, sondern von einer eigentlichen Kirche, für sich selbst also; das eine eigentliche einige Kirche in Stücken des Glaubens handelt und spricht nicht von uns, er war ein gemeiner Spruch von gemeiner christlicher Kirche gegen diesen Verstand; ich argumentiere also. Eine eigentliche einige Kirche mag in Stücken des Glaubens irren; darum dann keine in Stücken des Glaubens verurteilen mag; dann jeder richtige den wir haben sollen in Handeln des Glaubens oder strafflich soll sein und nicht mögen irren.  
 
-This double (twofold) testimony of the Lord’s spiritual members is such a man to another, or to an entire Christian community, that it gives annoyance; then no greater annoyance exists, then separation in our unblemished faith; therefore thereafter follows that this text proceeds forward in this case to be understood.  
+Martinus Butzer.+  
 
-In the third place my lord Doctor has given an answer as to how this text should be understood, not by the common Christian church, but by a particular church for itself, that a particular church deals in pieces of the faith, and I may not speak for us to expect a common saying of the common Christian church; contrary to this understanding I therefore argue.  
-
-A true church may err in pieces of the faith; therefore it may not corrupt pieces of the faith; then every right that we should have in the practice of faith ought to be orderly and not err.  
-
-Martinus Butzer.+  
-
-Lieben frommen Christen, wir haben ein Handel das Wort Gottes betreffend gegen meinen Herrn Doctor zu gegen; darum will ich jetzt Antwort geben und damit die Sache gekürzt wird; ich will das wiederbringen, die Rede des Doctors lassen anstatt …
+Lieben frommen Christen, wir haben ein Anliegen, das Wort Gottes betreffend, gegen meinen Herrn Doctor zu richten; darum will ich jetzt Antwort geben und damit die Sache gekürzt werden; ich will das zurückbringen, die Rede des Doctors lassen …

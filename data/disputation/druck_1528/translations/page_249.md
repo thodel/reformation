@@ -1,4 +1,32 @@
 Seite CXVII  
 Schlußred. CXVII  
-Tauf, der da ist ein Sacrament; im neuen Gesetz ein Figur  
-ist, der Wiedergeburt des Menschen vom Geist; wird dadurch unser Herr Christus nicht verloren, als wäre er noch nicht gekommen. Wie die Alten ein eindeutiges Bild des zukünftigen Christus verstanden, also sagen wir dankend bei unserem Sakrament, dass Christus schon gekommen sei. Es hat einen anderen Unterschied: die Figur mit Christus wird verglichen mit den Zeremonien des alten Gesetzes, als sei es Beschneidung oder Osterlamm, mit den Zeremonien und Sakramenten des neuen Gesetzes, als sei da die Tauf und das Herren‑Nachtmahl. Wo man Mose zu Christus vergleicht, da ist die Figur so weiß, weil das bedeutet, so weiß wie der Schatten und das Licht. Wo aber ein Zeremoniell dem andern entgegensteht, da findet man genau gleiche Bedeutung. Es hat die Beschneidung gemeint, eine innere Beschneidung im Geist, zu Römern Kapitel 2. So bedeutet uns der geistliche Tauf, die Tauf im Geist. Nun sucht zu dem Verständnis, dass die beiden nicht weiß voneinander sind, sondern im Geist abgeschnitten werden; die Tauf wird im Geist vollzogen. Also auch, dass die Alten gesagt haben, das Oster‑Lamm und haben gewartet auf das Lamm, das mit seinem Blut die Sünden der Welt hinwegnehmen soll. Und so halten wir des Herren Nachtmahl mit Danksagung, dass das sündige Lamm für uns geopfert worden ist; so werden wir im gleichen Glauben gefunden. Zum Schluss jetzt, dass mein Herr Pfarrer sich lieber lassen finden wird, bei Matthäus, dann bei Lukas, vermute ich, er sollte ein klareres Wort zu Hand nehmen. Matthäus spricht mit wenigen Worten: Das ist mein Leben. War das nicht, dass mit klareren Worten gesprochen würde von Gg.
+Die Taufe ist ein Sakrament; im neuen Gesetz ist sie eine Figur  
+der Wiedergeburt des Menschen vom Geist,  
+dadurch wird unser Herr Christus nicht vernachlässigt, als wäre  
+er noch nicht gekommen. Wie die Alten ein verständliches Bild  
+von dem zukünftigen Christus hatten, so sagen wir  
+dank unseres Sakraments, dass Christus schon gekommen sei.  
+Es gibt einen anderen Unterschied: die Figur wird mit Christus  
+verglichen, oder die Zeremonien des alten Gesetzes,  
+wie Beschneidung oder das Osterlamm, mit den Zeremonien  
+der Sakramente des neuen Gesetzes; das ist die Taufe und das Herrenabendmahl.  
+Wo man das Mysterium zu Christus vergleicht, ist die Figur als Licht,  
+das, was dort bedeutet, das Licht der Schatten und  
+des Lichts. Wo man aber eine Zeremonie gegen die andere  
+stellt, findet man dennoch gleiche Bedeutung. Die Beschneidung  
+bedeutete eine innere Beschneidung im Geist,  
+bei den Römern im ersten Kapitel. So bedeutet uns  
+die äußere Taufe, die Taufe im Geist. Nun sucht man  
+nach dem Verständnis, dass die beiden nicht voneinander  
+getrennt sind, sondern im Geist verbunden werden,  
+also auch, dass die Alten das Osterlamm gegessen haben und das Lamm,  
+das mit seinem Blut die Sünden der Welt hinwegnehmen soll.  
+Und so halten wir das Herrenabendmahl mit Danksagung,  
+das sündige Lamm ist für uns geopfert worden; so werden  
+wir im gleichen Glauben erneuert. Zum Schluss nun  
+dass mein Herr Pfarrer sich lieber finden lässt  
+nach Matthäus, dann nach Lukas; ich meine, er  
+sollte einen klareren Spruch lieber zu Hand nehmen. Matthäus  
+spricht mit wenigen Worten: Das ist mein Leib. Wäre  
+das jedoch nicht, das mit klareren Worten gesprochen würde von  
+Gg

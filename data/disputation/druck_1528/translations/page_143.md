@@ -1,17 +1,20 @@
-Seite LXIII
+Seite LXIII  
 
-**Schlußred. LXIII**
-***
-**Berchtoldus.**
+**Schlussrede LXIII**  
+***  
+**Berchtoldus.**  
 
-Master Wilhelm has added the other saying concerning the broader at the seventh chapter solely of the secular authority / to the Christians however the service of the divine word. Thus it presents itself in sayings / from the saying in the histories of the Apostles at the twentieth chapter is first said.
+Meister Wilhelm hat den anderen Spruch zum Hebräerbrief am fünften Kapitel allein der weltlichen Oberkeit zugefügt, den Christen aber den Dienst des göttlichen Wortes. So findet man ihn selbst in den Sprüchen; vom Spruch in den Geschichten der Apostel am zwanzigsten Kapitel ist er erst gesagt.  
 
-Sich hierüber am 63. Blatt.
-***
-**Senger.**
+Sich höher  
+am 63. Blatt.  
+***  
+**Senger.**  
 
-Item, as Lord Berchtold means this saying to the Ephesians at the fifth chapter. From me drawn to prove that ecclesiastical authority is against me / so nevertheless it stands / that Christ is a holder of the church / and yet I have abandoned it / and only that drawn / the women should be men's obedient and submissive as a lord / then a man is a head of the women / thus also Christ is a head of the church. I answer that I, through this saying alone, wish to show / that the head is superior / a lord / one for the other may be taken / I do not wish to break with Christ / that he not be called a holder of the church / then I will declare that in eternity.
-***
-**Berchtoldus.**
+Ich, wie Herr Berchtold meint, beziehe mich auf diesen Spruch zu den Ephesern am fünften Kapitel. Ich habe ihn herangezogen, um zu beweisen, dass geistliche Oberkeit mir entgegensteht; dabei steht jedoch, dass Christus ein Behälter der Kirche ist, ich jedoch das Verlassene bin und nur das Angezeigte habe. Die Frauen sollen ihren Männern gehorsam und untertänig sein, wie einem Herrn; dann ist ein Mann das Haupt der Frauen. So ist auch Christus das Haupt der Kirche.  
 
-We have now often / that Christ is the head of the church / Christ is however not only man but also God / therefore we believe / that Master Niclaus said / Christ is the church’s beloved / as if the church before Christ had been, who indeed is the unborn of all creatures / to the Colossians.
+Ich antworte, dass ich durch diesen Spruch allein zeigen will, dass das Haupt oberhalb ist, ein Herr ist, und dass das eine für das andere genommen werden kann. Damit will ich Christus nicht abbrechen, dass er nicht ein Behälter der Kirche sei; das will ich in die Ewigkeit bekennen.  
+***  
+**Berchtoldus.**  
+
+Wir haben nun oft gesagt, dass Christus das Haupt der Kirche sei. Christus ist aber nicht nur Mensch, sondern auch Gott; darum hat uns Beuyl berichtet, dass Meister Niklaus sagte, Christus sei der Kirche eingeweiht worden, als ob die Kirche vor Christus gewesen wäre, der doch der Eingeborene aller Kreaturen ist, zu Kolosser.

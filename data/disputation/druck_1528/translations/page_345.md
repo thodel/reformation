@@ -1,32 +1,14 @@
-Page CLXV  
-Conclusion.  
+Seite CLXV  
+Schlußrede.  
 
-Then God has that sealed and guarded, that the people do not come to it;  
-Genesis ii. chapter. Therefore Paradise on this place was taken for joy and  
-delight: which alone preserves all that the appearance of Jesus Christ/Paul  
-should not be measured; that Christ’s light therefore may be at one place:  
+Dann hat Gott das Verschlossene und Verhütete, sodass die Menschen nicht daran kommen. Genesis II, Kapitel. Deshalb wird das Paradies an diesem Ort genommen für Freude und Wonne: es bewahrt alles allein, dass die Erscheinung Jesu Christi/Paulus nicht gemessen werden soll, dass Christi Licht daher mehr an einem Ort sei. Dann erkennt Paulus selbst, dass er von dort erhoben wird, weiß jedoch nicht genau, ob es mit seinem Leib oder ohne seinen Leib geschieht. Also ist die Erscheinung geistlich geschehen.  
 
-Then Paul himself recognizes that he is raised from there; yet he does not  
-actually know whether it happened with his body or without his body.  
-Thus the appearance alone is spiritual.  
+Der Ort Matthäus im XVIII. Kapitel hier/da ist Christus, soll nicht vom Sakrament verstanden werden, sondern von den letzten Zeiten. Der Herr Pfarrer soll wissen, dass die letzten Zeiten zu Christus und seinen Aposteln allezeit gelten, die von der Zeit Christi sind bis zum Ende der Welt.  
 
-The place Matthew at xviii. chapter. Here Christ is dead/should not be  
-understood from the Sacrament, except from the last times. The lord priest  
-must know that the last time Christ and his apostles—all the time now—are  
-the time of Christ, until the end of the world.  
+Die Allmacht Gottes erkennen wir wohl, dass dadurch alle Dinge möglich sind; es soll dabei jedoch erwogen werden, dass offen die Allmacht selbst mit ihrer Kraft wirkt, das wahr macht, das mit rechtmäßiger Schrift bzw. Gottes Wort einander entgegensteht. Also auch das, was allein mit der Allmacht zu beschirmen gemeint ist, ist Gott selbst nicht widersinnig.  
 
-We recognize the Almighty God, that all things are possible for Him:  
-but it must be that He, by His own power, makes it open, that the Almighty  
-himself, with His strength, makes it, that with right‑standing Scripture or  
-God’s word, it stands opposite the city. Also that, which they imagine, alone  
-with the Almighty to protect: then God is not contrary to Himself.  
+Und wie er gesagt hat: „Ich werde dafür nun nicht mehr in der Welt sein“ (Johannes XVII, Kapitel). Also ist er auch mächtig, dass niemand ihm lächerlich in die Welt zu ziehen wagt, wider sein Wort. Er ist auch so wahr, dass er sich selbst nicht verlässt.  
 
-And as He said: “I will henceforth no longer be in the world,” John xvii.  
-chapter. Thus He is also mighty, that no one may willingly enter the world  
-against His word. He is also true, that He does not deceive Himself.  
+Pfarrer von Appenzell.  
 
-Pfarrer von Appentzell.  
-
-[Initial A] So I refer myself to the Acts as I have presented them, and I  
-therefore wish to have concluded with this, with my presented writing: and  
-where I do not …
+[Initial A] Also beziehe ich mich auf die Akten, wie ich sie dargelegt habe, und will damit beschlossen haben, mit meiner dargelegten Schrift: und wo ich nicht …

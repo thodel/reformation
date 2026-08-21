@@ -1,11 +1,6 @@
-Page XCIX  
+Seite XCIX  
 
-The third  
-The priests of Appenzell  
-and in their name Herr Poley.  
+Die dritte  
+Die Priester von Appenzell und in ihrem Namen Herr Poley.  
 
-The answer / Christ for the original sin and truly sin suffered / has been heard from my lord pastor / I am well in peace, God be praised / have not heard nor noted this in our land. Afterwards too long a circle was used in the speech / the messenger obediently to the ... / evil to work / it is nicely formerly spoken.  
-
-Deserved we cut off / but not good work / what ... the letter or spirit ... said Paul in the appointed saying of my lord pastor / cuts it off / us ... the power ... as ... gives Christ to our heathen ... as Peter in the first ... of belief / thereafter in the other Epistle / of works of belief said / are good works briefly shown / deservedly however they are / it is not valued and not written.  
-
-That he had drawn the Psalms / says the whole Scripture / love / fear / and the same / as ... in our ... / so it is not in us (as ... responsible) ... except that in us lives Christ: ... Jesus
+Die Antwort: Christus hat für die Erbsünde und tatsächlich die Sünde gelitten; das ist von meinem Herrn Pfarrer gehört worden; darüber bin ich wohl in Frieden; Gott sei Lob; das Selbst habe ich in unserem Land nicht gehört noch vermerkt. Danach wurde zu lange im Kreis geredet, den Boten gehorsam zu sich zu bringen, böse zu wirken; das war früher hübsch abgeredet. Wir verdienen, dass wir schlafen, aber keine guten Werke; was über den Buchstaben oder Geist gesagt wird, lehrt Paulus in einem angezogenen Spruch von meinem Herrn Pfarrer; damit schlagt ihr ab, uns das Vermögen, und (wie billig) gibt Christus unserem Heiland zu, und wie Petrus in der ersten Epistel vom Glauben, danach in der anderen Epistel von Werken über den Glauben gesagt; gute Werke werden hübsch angezeigt, verdienstlich aber sind sie; sie sind nicht bewertet und nicht geschrieben. Dass er die Psalmen angezogen hat, sagt die ganze Schrift: Liebe, Furcht und dergleichen; als still er es in unsere Kräfte, so wäre es nicht in uns (wie verantwortet) zu wirken; sondern der in uns lebt Christus, Jesus.

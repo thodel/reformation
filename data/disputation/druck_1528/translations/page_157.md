@@ -1,7 +1,11 @@
-Page LXXI  
-Conclusion.  
-Martin Bucer.  
+Seite LXXI  
+Schlußred.  
+Martinus Bucerus.  
 
-The accusation of Master Jacob / as he wishes to be understood / that Christ has entered the church / we assume / that, however, he brings against Peter / that Peter is a subordinate head over the church / therefore it is especially ... / the creation of Christ is doubted / is sufficiently responsible / he has been an apostle, see p. 56. / who not only ... all creations of Christ / as also not ... p. 68. / ... has been ... especially / especially has been / especially with others / and has Paul more than then he / therefore he may be called head over the others / but that he, however, gave a contrary answer to the Provincial / because Christ also is among two or three / in his name each common of God may decide / what they should believe truly / there should be no special common / a whole church should be decided / and therefore those in Antioch, Paul and Barnabas, sent to Jerusalem / in the histories the apostle at the 15th ... chapter. / Upon this I give answer / that here Master Jacob gives a strict example truly / as we also should follow / so those in Antioch acted rightly / so they have the word of God / so Paul and Barnabas of Christian liberty ... / ... but a ... was ... / ... through the ... and those always ... / Peter / Jacob / and others in Jerusalem against Paul ... hard Paul and Barnabas gladly gave themselves for the matters of the blessed ... rather he would have ... / ... no further questions ...  
+Die Erklärung des Meisters Jacob, wie er verstanden werden will, dass Christus die Kirche gegründet hat, nehmen wir an; dass er jedoch dagegen etwas vorbringt, dass Petrus ein Haupt über die Kirche sei, darum soll es für uns besonders wichtig sein, die Schöpfung Christi zu bewahren. Es ist völlig unverantwortlich, dass er ein Apostel gewesen sein soll; nicht allein alle Schöpfungen Christi, wie auch nicht das übrige Werk, ist ihm allein zuzurechnen.  
 
-(Note: The original transcription is severely corrupted; the translation follows the line breaks and wording of the source as closely as possible.)
+Paulus aber, der mehr als er selbst ist, soll deshalb als Haupt über die anderen genannt werden; er hat jedoch meiner Antwort gegenüber dem Provinzialen widersprochen, weil Christus auch unter zweien oder dreien wirkt. In seinem Namen versammelt sich jeder Gläubige zu Gott, um zu entscheiden, woran er glauben soll; es soll kein besonderes Gemein­wesen geben, das eine ganze Kirche betrifft, und deshalb haben die in Antiochien Paulus und Barnabas nach Jerusalem gesandt, wie es in der Geschichte des Apostels im 15. Kapitel berichtet wird.  
+
+Hierauf gebe ich Antwort, dass uns hier Meister Jacob ein schreckliches Beispiel vorlegt, dem wir ebenfalls folgen sollen. So haben die in Antiochien recht gehandelt, so haben sie das Wort Gottes verkündet, so haben Paulus und Barnabas christliche Freiheiten getragen und in ihrem eigenen Ermessen angenommen.  
+
+Ein Vorwurf ist jedoch entstanden, weil böse Willige immer das Gegenteil sehen: Petrus, Jakob und andere in Jerusalem haben Paulus verworfen. Paulus und Barnabas wollten sich gern den Dingen für die Selben zuwenden; viel lieber hätte er jedoch ... (weitere Fragen bleiben unbeantwortet).

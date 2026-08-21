@@ -1,16 +1,14 @@
 Seite [X]  
 **Die erſt**  
 
-through his neglected power/so he also has the hand to bind  
-and to unbind go/according to such his godly ...  
+Durch seine nachgelassene Gewalt handelt er sowohl zu binden als auch zu entbinden, nach solchen seiner göttlichen Worte.  
 
 **Berchtoldus.**  
 
-In short answer. The omnipotence of God  
-we acknowledge with the pastor/and the saying  
-as he brings/that God grace and glory gives/for us/then that is his grace/that he ... forgives the sin of us/so his grace is proclaimed/through his apostle who then ... as today Paul is heard in the first Epistle of Paul to the Corinthians iii.  
-Cap. Who is Paul? Who is Apollo? then only the servant of the one who believes/ the one who plants/ the one who gathers is nothing/ God however gives the awakening/ then even if the priest speaks/ I absolve or release you from your sins/ it will not be enough for me to forgive/ I then see in my heart through the belief assured. God is the one who ... no one can be condemned. He decides and no one does otherwise. Essay xxii. Chapter. Therefore the power is actually the sin’s punishment/ of God alone. But they proclaim the forgiveness of sins to the believers. They proclaim the reservation of sins to the unbelievers/ this is the office of servitude/ and the burden of the apostles/ and the proclamation of the word.  
+In kurzer Antwort. Die Allmacht Gottes bekennen wir mit dem Pfarrer und dem Spruch, dass er ausführt, dass Gott Gnade und Herrlichkeit für uns gibt; das ist seine Gnade, dass er uns die Sünde vergibt; seine Gnade verkündet er durch seinen Apostel, der dann seines Wortes Diener ist, wie heute von Paulus gehört, in der ersten Epistel des Paulus an die Korinther, Kapitel III.  
+
+Cap. Wer ist Paulus, wer ist Apollo? Dann allein der Diener, dem das Glauben an das Jahr liegt, der da pflanzt, der da begießt, ist nichts; Gott aber gibt das Aufwachsen; dann, ob schon der Priester spricht, ich absolviere oder entbinde dich von deinen Sünden; wird mir nicht genug, zu beschneiden; ich sehe dann in meinem Herzen durch den Glauben versichert. Gott ist der, der über alles wacht; über niemanden wird beschlossen. Er beschließt und niemand tut es. Esaie xxii. Kapitel. Darum ist die Gewalt eigentlich die Sünde, die allein Gott gibt. Aber verkünden die Vergebung der Sünde den Gläubigen. Verkünden die Vorbehaltung der Sünde den Ungläubigen; das ist das Amt der Dienstbarkeit und das Zeugnis der Apostel und die Verkündigung des Wortes.  
 
 **Pfarrer.**  
 
-As my lord Berchtold in the power which I have divided. At first/ to me God gave alone ... and glory. But I have the apostle ...
+Als mein Herr Berchtold in der Gewalt, die ich verteilt habe, zum ersten Mal gibt mir Gott allein Ehre und Herrlichkeit. Ich habe aber den Apostel …

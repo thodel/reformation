@@ -1,11 +1,9 @@
-Page [X]  
-**The third**  
-assembly of this time / to the future glory / that will become manifest to us / therefore we will not obtain from our works / sufficient salvation / as my lord Berchtold today in the closing speech also has presented / then, when according to the works of the law there would be a righteousness / so God would have suffered on the cross / therefore the sufficient grace is only half / our work is not again useful for salvation / then Christ our Lord / had the sufficient grace for our sin / to bear our burdens / on the cross for us sufficiently accomplished. Even less necessary / will not follow from that / that God therefore ... the works / so we ... his grace ... will not be rewarded / as today Martin Butzer has shown / according to the saying of August ... here before / on page 96.  
-
-nor / that he will the work so he in us works reward / therefore I now wish to further embellish the closing speech with the Scripture.  
+Seite [X]  
+**Die dritte**  
+Sammlung dieser Zeit zu der zukünftigen Herrlichkeit, die uns offenbar werden wird; darum werden wir nicht genug erhalten von unseren Werken, genug für die Seligkeit, wie mein Herr Berchtold heute in der Schlussrede ebenfalls angesprochen hat. Wenn wir durch die Werke des Gesetzes Gerechtigkeit erlangen wollten, so hätte Gott dafür gesündigt; darum ist das genügende Halbe, unsere Werke sind nicht ausreichend für die Seligkeit. Dann hat Christus, unser Herr, die Sünde genug getragen, am Kreuz für uns genug getan. Noch nützer noch weniger wird daraus folgen, dass Gott uns durch die Werke nicht belohnen wird, wie heute Martin Butzer gezeigt hat, nach dem Spruch Auguſti‑Sůch hiervor, Am 96. Blatt. Denn er wird die Werke, die er in uns wirkt, belohnen. Darum will ich nun die Schlussrede weiter mit der Schrift belegen.  
 
 **Berchtoldus.**  
-Lord pastor, preach there at home, as you here acknowledge the truth; thus you act not contrary to the word of God, nor to our closing speech, nor to these our brothers, and such a great familiarity you have, a rich ... by the holy Paul to the Ephesians. Moreover: Deus qui dies est in misericordia, etc. God who is rich in mercy, etc.  
+Herr Pfarrer, predige hier heimlich, wie ihr hier mit der Wahrheit bekennt; so handelt ihr nicht wider das Wort Gottes, noch unsere Schlussrede, noch diese unserer Brüder, und solcher Überzeugung habt ihr einen reichen Nutzen, durch den heiligen Paulus zum Epheser. Andererseits: Deus qui dies est in misericordia, Gott, der reich ist in Barmherzigkeit, usw.  
 
-**Conclusion of the third closing speech.**  
-The conduct of our merit is well explained / through Paul to the Ephesians in the year. God who is rich in mercy / through his great love / that he has loved us / when we were dead.
+**Beschluss der dritten Schlussrede.**  
+Der Handel unseres Verdienstes ist wohl erleuchtet durch Paulus zum Epheser; Gott, der reich ist in Barmherzigkeit, durch seine große Liebe, damit er uns geliebt hat, da wir tot waren in den Sünden.

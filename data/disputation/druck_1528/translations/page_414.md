@@ -1,17 +1,17 @@
-Page CXCX  
-The sixth  
+Seite CXCX  
+Die sechste  
 
 Gilg Durer  
-I speak not.  
+Sprich ich nein.  
 
 Zwingli.  
-Thus there is no argument over us.  
+So ist über das Argument nichts.  
 
 Gilg Durer  
-God has shown in this saying that the departed would for us be willing to ask; then what would He speak when Moses and Samuel stood before me, when it had not been laid down to ask, as if it were an ungracious word, when one speaks, whether sun or moon, praying to the Lord for the people, they would not be heard: then these two creatures may never again be comprehensible.  
+Gott hat in diesem Spruch gezeigt, dass die Verstorbenen für uns bitten können. Was wollte er damit sagen, wenn Mose und Samuel vor mir stünden und es ihnen nicht möglich wäre, zu bitten? Das wäre eine ungeschickte Rede, wenn man sagen würde: ob Sonne und Mond den Herrn für das Volk bitten, würden sie nicht erhört werden. Dann diese beiden Kreaturen, die niemals mehr verständlich sein werden.  
 
-Wåchter.  
-Every lord, when he wishes to draw a conclusion from this saying, [see] Isaiah 68 to God. So look now from heaven down and lie from your holy dwelling and your lordship. Where is your fire and your power, the multitude of your holiness and your mercy, which has been raised against me? Yet you are our Father, and Abraham knows nothing of us, and Israel has not recognized us.  
+Wächter.  
+Jeder Herr, der sich von diesem Spruch abwendet, schließt. Jesaja 68 zu Gott spricht. So schaue nun vom Himmel herab und lege deine heilige Wohnung, deine Herrlichkeit. Wo ist dein Feuer und deine Macht, die Menge deiner Herrlichkeit und deine Barmherzigkeit, die sich gegen mich gerichtet hat? Du bist doch unser Vater, und Abraham weiß nichts von uns, und Israel hat uns nicht erkannt.  
 
 Gilg Durer.  
-As you will conclude from this, that our father Abraham has not known us and Israel. That is the certainty of the person, and if it were likewise, that we also may give that…
+Als wolle er daraus schließen, dass unser Vater Abraham uns nicht kennt und Israel. Das ist zurzeit von der Person: und ob es gleich so wäre, dass wir auch noch geben, dass die alten Väter nicht …

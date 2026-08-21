@@ -1,37 +1,17 @@
 Seite [X]  
-Die ſechſte  
+Die sechste  
 
-Bůchſtab.  
-DJe ſchrifft durch mich yngefůrt/ laß ich by dem bloſ  
-ſen Text/ one alle gloß blyben.  
+**Buchstab.**  
+Die Schrift, die durch mich eingeführt wird, lasse ich beim bloßen Text, ohne alle Glossen zu belassen.  
 
-Ecolampadius.  
-SO bitten wir ein yegklichen Chriſtenlichen låſer/ dz er  
-die ſchrifft mit verſtand låſe/ vnd warneme/ woruf  
-die Propheten Redend.  
+**Ecolampadius.**  
+So bitten wir einen eigentlichen christlichen Leser, dass er die Schrift mit Verstand lese und wandle, worauf die Propheten reden.  
 
-Bůchſtab.  
-WJr möchten noch haben kundtſchafft vß Thobia/  
-Baruch/ Machabeorum/ vnnd Apocalipſi/ ſo laßt  
-man es vns nit zů.  
+**Buchstab.**  
+Wir möchten noch die Kundschaft von Tobit, Baruch, Makkabäer und Apokalypse haben; so lässt man es uns nicht zu.  
 
-Ecolampadius.  
-DEr ſchůlmeyſter ſolt wůſſen/ das die bůcher/ ſo  
-by der Bibel zůſamen geſetzt ſind / eyn vnder=  
-ſcheyd haben/ vnd ſind nit glichs gewichts. Erſt  
-lich bůcher ſind darzů verordnet/ wo man von dem glou  
-ben reden wil/ dz man zůgknůß dözůff anziehen / wider die  
-widerſåcher / die werden genant Canonici/ darumb das  
-ſy vns ſöllen ſin/ als ein Regel oder Richtſch ytt/ in ſachē  
-des gloubens/ vnd dero bůcher dheins/ wirdt jnen abge=  
-ſchlagen. Andere bůcher werden gelåſen/ darumb das ſy  
-entweders gůt Exempel/ oder ouch ermanung haben/  
-aber doch nit ſolichs anſehens ſind/ wo man vom gloubē  
-handlen wil/ das man vß ſolchen bůchern / kundtſchafft  
-nemen ſöll. Sie nent man Apocrypha/ vnd darumb hatt  
-ſich der ſchůlmeyſter nůr zůbeklagen.  
+**Ecolampadius.**  
+Der Schultheiß soll wissen, dass die Bücher, die nach der Bibel zusammen gesetzt sind, einen Unterschied haben und nicht gleiches Gewicht besitzen. Erstlich sind Bücher dazu verordnet, wo man vom Glauben reden will, dass man sich dazu passend anziehen kann. Gegen die Widersprecher, die genannt werden Kanoniker, sollen sie uns als Regel oder Richtlinie in der Sache des Glaubens dienen, und deren Bücher werden einander abgelegt. Andere Bücher werden gelassen, weil sie entweder ein gutes Beispiel oder auch Ermahnung enthalten, aber doch nicht solche Ansichten besitzen, wo man vom Glauben handeln will. Von solchen Büchern soll man Kundschaft nehmen. Man nennt sie Apokryphen, und darum hat sich der Schultheiß nur zu beklagen.  
 
-Bůchſtab.  
-DJewil wir Chriſten ſind/  
-ſo die Chriſtenlich Kilch brucht/ vnnd ſo wir von d  
-ſelbigen
+**Buchstab.**  
+Doch wir Christen sind, so die christliche Kirche braucht, und so wir von dem Selbigen …

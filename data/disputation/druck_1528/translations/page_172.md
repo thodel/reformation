@@ -1,22 +1,9 @@
-Page IIVXXI  
-The other  
-Martinus Butzer.  
-We shall let it remain by the distribution of the believers,  
-wandering or to the Galatians, meets all Christians;  
-the same we also have concerning the Colossians in the year.  
-Thus now no one has been known to make … then the Christian …  
-on another day … the binding of the believers … so light on the day …  
-that now the anti‑Christian violence … such … understood … is called … the anti‑Christian … was … taken …  
+Seite IIVXXI  
 
-Johannes Büchstab.  
-Since yesterday you have given signs, the Sabbath on the twelfth day,  
-from the church may have been set forth; may also this piece be distinguished,  
-but I asked whether the bishop was the anti‑Christian;  
-I would have spoken with biblical scripture on the contrary,  
-but the wind reached the matter, that we also have other writings in the Bible  
-with concepts of Christian order and teaching service, which we may also hold;  
-I find in the holy Paul, to the Corinthians, Epistle 1, chapter 15.  
-He refutes the poet Therentium, as he says: “Evil deception destroys good sitting”;  
-daily to the Epistles at v. … he harangues, as if it were otherwise where truly written stands … of the … you slumber.  
-Also at 2 Timothy, at 2 … he reproaches as John and Jambres, Moses’ opponents.  
-Also to Titus at the first … the Cretans are all liars … the same act at 17 and at 20 also introduces writings, as if they were elsewhere in biblical writings found.
+Die andere  
+
+Martinus Butzer.  
+Wir lassen es bleiben bei dem Verteilen der Gläubigen, wenn auch zu den Galatern (Galater) alle Christen treffen, die Gleichheit haben, wir haben auch zum Kolosserbrief (am …). So soll nun niemand mehr Unwissenheit verbreiten. Denn dann wird die christliche Lehre an einem anderen Tag verkündet, die Gläubigen zusammengebunden, so gilt es am Tag, dass nun die widerrechtliche Gewalt solches verstanden hat, heißt uns der Widerspruch, war es solches, das man genommen hat.  
+
+Johannes Büchſtab.  
+Da wir gestern den Sonntag, den zwölften Tag, von der Kirche gesetzt worden sind, mögen auch dieses Stück besonders. Dabei frage ich, ob der Bischof der Widersacher ist; ich wollte mit biblischer Schrift dagegen argumentieren, aber wir greifen die Sache an, dass wir auch andere Schriften in der Bibel mit Begriffen zur christlichen Ordnung und Lehre finden, wie es der heilige Paulus im Korintherbrief, Kapitel 15, sagt. Er zitiert den Dichter Therentium, das er spricht. Böses Geschwätz verderbt das Gute, täglich richtet es die Ephemeren, als ob es anders geschrieben stünde, sonst schläfst du. Weiter am 2. zu Timotheus, am 2. zitiert er wie Johannes und Jambres, Mose sei widerstanden. Weiter zu Titus am ersten, die Kretaner seien völlig Lügner, das gleiche gilt am 17. und am 20., wo weitere Schriften eingeführt werden, als ob sie anderswo in biblischen Schriften gefunden würden.

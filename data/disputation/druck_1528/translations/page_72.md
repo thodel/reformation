@@ -1,7 +1,20 @@
-Seite IIVXX
+Seite IIVXX  
 
-The first follows thereafter, as previously indicated, that the so‑called common assembly has gathered in the spirit of the Lord / also has destroyed the Scripture of the Jews / that they wrote instead / the spiritual judge all things / here takes the Scripture as nothing but that / but my lord Doctor further instructs on the word of the Lord, where he says / whoever the Church does not hear / they are to you as a heathen / etc. How this should be understood by ordinary, spiritual people / that he who judges all things toward belief / and toward love / I say this also / that here the Lord wanted to show a reconciling, visible judge / so that we, in tension and division, might come to peace and unity, to our right, undefiled belief / for the Lord says / if he does not hear you / then one or two may come to you / if he also does not wish to hear the same / then says the Church / you must be a reconciling, visible Church / then you will be reproachfully heard / that the Lord has set a judge for us / invisible and unrecognized / therefore even today, by day, follows that the same visible Church in one were believing / in the name of the Lord gathered / in the handling of belief to be destroyed / and have spoken.
+Die erste  
+folgt daraus, wie zuvor angezeigt wurde, dass die solch gemeine Versammlung im Geist des Herrn versammelt ist,  
+auch hat sie die Schrift von Zeugen zerstört, die ihr geschrieben steht;  
+der geistliche Richter richtet alle Dinge; hier nimmt die Schrift nichts weg.  
+Doch mein Herr Doctor weist weiter an die Worte des Herrn, wo er also sagt:  
+„Welcher die Kirche nicht hört, sei dir wie ein Heiden.“  
+Wie das solch von innerlichen, geistlichen Menschen verstanden werden soll,  
+der, der alle Dinge richtet zum Glauben und zur Liebe,  
+sage ich dazu, dass hier der Herr uns zeigen wollte,  
+einen sichtbaren, klaren Richter, damit wir in Spaltung und Zwiespältigkeit zu Frieden und zu Einheit unseres unbefleckten Rechtsglaubens kommen mögen.  
+Denn der Herr sagt: „Wenn er dich nicht hört, so nimm einen oder zwei zu dir; wenn er dieselben ebenfalls nicht hören will, so spricht die Kirche: Ihr müsst ein sichtbarer, klarer Kirchenrat sein; dann wird man schimpflich hören, was uns der Herr als Richter gesetzt hat, unsichtbar und unkenntlich.“  
+Darum folgt noch heute, dass dieselbe sichtbare Kirche in einem Glauben versammelt ist, im Namen des Herrn, im Handeln des Glaubens zu bewahren und zu sprechen hat.  
 
-Doctor Capito+
+Doctor Capito+  
 
-Indeed, my lord Doctor, because he makes this saying / the spiritual judge all things / as it has been previously thought / let us assume / but from this should follow / that he would also destroy the Scripture / which he wishes to destroy / the way he wishes to destroy everything / so that he destroys all / now may the Scripture, as the usual spirit of God, be ...
+Mein Herr Doctor widerspricht, dass er diesen Spruch, den geistlichen Richter, alle Dinge ausführt, annimmt, wie er zuvor gedacht war; nehmen wir an.  
+Aber daraus sollte folgen, dass er die Schrift ebenfalls zu bewahren meint, die er alle Dinge bewahren will, nicht zu vernachlässigen; die Art der Rede ist, dass er alles bewahrt, so zu bewahren ist.  
+Nun soll die Schrift, wie gewöhnlich im Geist Gottes, sein.

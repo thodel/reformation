@@ -1,18 +1,25 @@
-Page XIXII  
+Seite XIXII  
 
-The other  
-Butzer.  
-
-[Initial S] S has still contributed nothing to our closing speech, except the decree of the Apostles, which on the 15th and 16th of Acts is left; it has not been made, that they should bind conscience; therefore they have also no longer kept the pagans; then so much love, the free love, for a time to serve the weak in faith; such requires hardness. Thus it is also founded in the word of God, as has been shown.  
-
-Buͦchſtab.  
-
-[Initial H] Herr Butzer, we would gladly present our introduction, but without a complete writing: then, as Saint Paul in the ... to the theses ... the same on the ... also indicates that these sayings are to be held, that they are broken, that they are held, and such sayings with printed words in the biblical scripture are not shown; but they, in the time of the Apostles, were alive, and soon thereafter give an indication of knowledge, that these are the sayings of the Apostles, namely against the setting of the sun: concerning infant baptism, how one should ask and answer: not to keep Sunday as the Sabbath in the Jewish manner; the forty‑day fast; also the burial for the dead and the like.  
+Die andere  
 
 Butzer.  
 
-*One has hereby*  
-*left such*  
-*text.*  
+[Initial S] S ist noch nichts zu unserer Schlussrede gebracht,  
+dann die Satzung der Apostel, von denen am 15. und 18. Juli  
+gelassen wird, die ist nicht gemacht worden, dass sie das  
+Gewissen binden soll; darum sollen die Heiden nicht weiter  
+gehalten werden, denn so viel, so liebe, die freie Liebe,  
+eine Zeit lang zu dienen den Schwachen im Glauben,  
+solche erfordert Härte. So war es auch im Gebot Gottes gegründet gewesen.  
 
-[Initial M] More all writing / against all ... is to ... So now let ... the end of the sentence is love, what ...
+Büchstabe.  
+
+[Initial H] Herr Butzer, wir wollten gern meinen Eingang — um‑b‑stür‑tzen — aber ohne vollständige Schrift: dann die Weise, dass der heilige Paulus an der ersten zu den Thesen der gleichen am zweiten auch anzeigt von diesen Satzungen zu halten; und sie räumt, dass sie halten und solche Satzungen mit ungesagten Worten in biblischer Schrift nicht anzeigt, aber die so in der Zeit der Apostel geläutert hand‑ und bald danach Anzeige und Kundschaft geben, dass dies die Satzungen der Apostel seien, nämlich gegen den Sonnenuntergang gebeten: von dem Kindertod, wie man dabei so fragen und antworten soll: den Sonntag nicht nach dem Sabbat nach jüdischer Art halten; das vierzig‑tägige Fasten; auch das Gebet für die Toten und dergleichen.  
+
+Butzer.  
+
+*Nun hat hierzu*  
+*solchen Text*  
+*verlassen.*  
+
+[Initial M] Merke, alle Schrift, wider alles Eingezogene, ist zu Kolossäer II. So lasst nun …

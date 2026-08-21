@@ -1,21 +1,13 @@
 Seite [X]  
-The fifth  
-then Daniel writes / that it alone would be heard  
-four and a half years. Here I want to have it explained of the Scripture  
-and of the Christian laſt.  
+Die fünfte  
+Dann schreibt Daniel, dass es allein vier einhalb Jahre dauern würde, zu hören. Hier will ich das Schriftwort und den christlichen Lehrer beleuchten.  
 
 Ecolampadius.  
-[Initial D] He Daniel writes in a two‑fold way / of the hearing of the sacrifice.  
-Once after four and a half years / as at the seventh chapter.  
-Such is fulfilled under Antioch before the time of Christ.  
-To the other / by the time of the destruction of Jerusalem / such hearing of the sacrifice / the search higher was for and for / as Master Wilhelm has said.  
-on the next page.  
+[Initial D] Daniel schreibt in zweierlei Weise von der Aufforderung des Opfers. Einmal vier einhalb Jahre, wie im siebenten Kapitel. So ist es erfüllt unter Antiochos vor der Zeit Christi. Zum anderen, bei der Zerstörung Jerusalems, solche Aufforderung des Opfers, die Suche hier war für und für, wie Meister Wilhelm gesagt hat.  
+am nächsten Blatt.  
 
-Meyſter Vlrich Zwingli  
-[Initial D] Therefore the place of Daniel does not preserve / the measures / a sacrifice is / then at both places / the time longest fulfilled / are, causing us also / to have a correct understanding / of the believers.  
+Meister Wilhelm zwinglich  
+[Initial D] Deshalb bewahrt der Ort Daniel nicht, dass das Maß ein Opfer sei; dann an beiden Orten, die Zeit längst erfüllt ist, veranlassend, uns auch im rechten Verständnis der Gläubigen zu verstehen.  
 
-Johannes Büchſtab.  
-[Initial D] One wants to set Scripture against Scripture / above all most / the Scripture of the old Testament / with the writings of the new Testament / to be clarified / we find at three places / that the prophecies of Daniel serve us / namely Daniel at the sixteenth year.  
-Thus that from the end Christ is understood / that he will be raised up / and made great, as all that is so God.  
-Yes, he will also wonderfully speak against the God of all gods; therefore he will be ... until the grim ... then the conclusion is already made / the god of his father will not be considered.  
-The words of Saint Paul / to the Thessalonians in the ... Epistle serve ... and give these words an understanding.
+Johannes Büchstab.  
+[Initial D] Man will Schrift mit Schrift gegenüberlegen, und zwar allermeist die Schrift des alten Testaments mit den Schriften des neuen Testaments, damit sie klar werden. Wir finden an drei Orten, dass die Prophezeiungen Danieles uns dienen, nämlich Danieles im 16. Kapitel. So wird das vom Endchristen verstanden, dass er erhöht und groß gemacht wird, weil alles so Gott ist. Ja, er wird auch wunderbar wider den Gott aller Götter reden; darum wird ihm geraten, bis der Grimm ist; dann ist der Schluss schon gemacht; der Gott seiner Väter wird er nicht achten. Die Worte des heiligen Paulus an die Thessalonicher im ersten Brief dienen voll Kraft und geben diesen Worten einen Verstand.

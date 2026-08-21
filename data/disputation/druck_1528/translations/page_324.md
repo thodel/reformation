@@ -1,7 +1,34 @@
 Seite [X]  
-Die vierte  
-wir/that this word has another sense/not merely/  
-has been used: and thus from the human nature of all Christians/  
-also with the testimony of Paul/in the first Epistle to the Corinthians at chap. v. The Easter lamb in the Old Testament/a prefiguration has been the true Lamb, Christ/which not only led the Israelites out of Egypt/but also the whole world/by the power of the cross has condemned/has fulfilled. So we recognize/that the holy spirit/through which the Scripture is written/in the other (second) Peter at chap. j. in the mouth of Christ Jesus the word was used/which he also formerly used in the prefiguring thanksgiving: thereby he was found in all his words as a man.  
+Die vierde  
 
-Now besides Exodus at chap. xii/also: and thus the Easter lamb is also eaten: the land should be good/our foot on our foot/and [something] in our hand: it also becomes with [something] eaten/This is the crossing of the Lord. Here we seek/that the Easter lamb is not the overleap/or the crossing/but the feast or high holy day/on which one again thanks God for the crossing/that he has overleapt and the Egyptians first‑born were slain/that the lamb is taken/the crossing/therefore that it is a common measure/or a different/or sacramental [thing] which people commonly use among each other from the same thanksgiving/that Hh. can [do] this word/Just/Hebrew/הוּא/at the place thus much/as: it is a remembrance: it is a figure: it is a purpose/Darus we truly see/that also the contrary word/That is my lychnam/needed otherwise either the feast and the bread/that at the feast of thanksgiving were carried/with the measure taken
+Wir haben dieses Wort einen anderen Sinn, weder wesentlich  
+haben müssen: und so von menschlichem aller Christen  
+auch mit der Kundschaft Pauli in der ersten Epistel zu  
+Corinthen am v. Kap. Das Osterlamm im Alten Testament  
+ein vorbedingter Hinweis ist des rechten Lammes Christi,  
+welches nicht allein die Jünger aus Ägypten geführt,  
+sondern die ganze Welt aus der Gewalt des Teufels und  
+verdammt erlöst hat. So erkennen wir, dass das heilige Gesetz,  
+durch das die Schrift geschrieben ist, in der anderen  
+Petri am J. Kap. im Mund Christi Jesu das Wort gebraucht hat,  
+das er auch vormals in der vorbedingten Danksagung gebraucht:  
+damit er in allen seinen Worten Atem empfangen wurde.  
+
+Nun statt Exodus am xij. Kapitel also: Und ihr werdet das Osterlamm also essen:  
+Dort werden sollen Gurte sein: über Schuld an unseren Füßen  
+und Stab in unseren Händen: ihr werdet auch mit ihm essen.  
+Das ist der Übertritt des Herrn. Hier suchen wir,  
+dass das Osterlamm nicht das Überhüpfen oder der Übertritt war,  
+sondern das Fest oder der hochzeitliche Tag,  
+an dem man wieder Gott dankt für den Übertritt,  
+da er überhüpft hat und die Ägypter erstgeborene erschlagen,  
+das das Lamm genommen wird, der Übertritt,  
+darum dass es ein gemeines Maß oder verschiedenes oder sakramentales Sprichwort war,  
+das man gemeinhin miteinander benutzt von derselben Danksagung.  
+
+und Hh. vermag dieses Wort / Jst / Hebraice / הוא / an dem Ort also viel / als:  
+Es ist ein Gedächtnis: es ist eine Figur: es ist ein Bedürfnis /  
+Darum wir eigentlich sehen / das auch die gegenwärtigen Worte /  
+Das ist mein Lichnam / nützlich anders weil  
+weder das Fest und das Brot / das am Fest der Danksagung umgebracht worden  
+mit dem Maß genommen.

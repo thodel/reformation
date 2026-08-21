@@ -1,47 +1,21 @@
 Seite [X]  
-Die sieben nach eingeführte Verstand wider die Schrift  
-von Abraham von Jacob von Joseph etc.  
-Wie dann dem Herren Jesus  
-die Frauen und andere ein Mitleiden geheißen haben  
-das sind aber die Worte Pauli.  
-Ihr Brüder  
-wir sollen euch von den Abgestorbenen wissen  
-auf dass ihr nicht trauert etc.  
-Paulus legt hier das Erste dar  
-dass wir nicht also sollen trauern um die Toten  
-wie die Heiden tun  
-die nicht glauben  
-das Erste des Lebens: und beschuldigt nicht  
-dass man für die Abgestorbenen  
-nicht soll beten.  
+Die sieben  
+nach eingeführtem Verständnis wider die Schrift/von Abraham  
+von Jakob/von Joseph/usw. Wie dann dem Herrn Jesus/  
+die Frauen und andere ein Mitleiden geheilt haben/das  
+sind aber die Worte Paulus. Ihr Brüder/wir sollen euch von  
+den Verstorbenen weisen/da dass ihr nicht trauert usw. Paulus  
+legt hier die erste Lehre/dass wir nicht so sollen trauern  
+um die Toten/als die Heiden es tun/die nicht glauben/  
+die erste des Lebens: und nicht verurteilen/dass man  
+für die Verstorbenen/nicht beten soll.  
 
 Berchtoldus+  
-In lange Rede  
-eine Schrift hierher geführt  
-Bedarf deiner Antwort.  
-Paulus verbietet zu den Thessalonicern  
-ein ungläubiges Trauern  
-deren die deine Hoffnung haben des künftigen Lebens.  
-Sie wollen aber wir glauben  
-dass Christus vom Tod erstanden ist  
-und wir in Christus werden erforscht  
-und also bei dem Herren sein allezeit  
-so sollen wir uns mit diesen Worten  
-und einander trösten  
-wie christliche Liebe fordert  
-so sehr dass wir nicht in Unglauben fallen  
-und ist darum nicht wie die Beispiele  
-durch den Schülmeister angezogen.  
+In langer Rede/einer Schrift habe ich geführt/Bedarf  
+einer Antwort. Paulus verbietet zu den Thessalonichern/ein ungläubiges Trauern/deren die deine Hoffnung haben des künftigen Lebens. Sie wollen aber wir glauben/dass Christus vom Tod auferstanden ist/und wir in Christus werden erstens/und also bei dem Herrn sein allezeit/so sollen wir uns mit diesen Worten/und andern trösten/wie christliche Liebe fordert/so sehr, dass wir nicht in Unglauben fallen/und ist darum nicht wie die Beispiele/durch den Schulmeister angezogen.  
 
 Büchstab  
-D Je Hoffnung  
-von und er Paulus hier sagt  
-ist denn so im Fach für sind  
-nicht abge­schlagen und ist Herr  
-Berchtoldus eingeführte Rede gar nichts wider  
-mich  
-dann wir Hoffnung haben  
-darum wir für sie bitten  
-sie seien der Verstorbenen.  
-
+Die Hoffnung/von dem Paulus hier sagt/ist denn so im/  
+Fagfür nicht abgeschlagen/und ist/Herr Berchtoldens eingeführte Rede gar nichts wider mich/dann  
+wir Hoffnung haben/darum wir für sie bitten/sie seien der Verstorbenen.  
 Berchtoldus

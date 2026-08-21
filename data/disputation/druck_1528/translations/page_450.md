@@ -1,9 +1,12 @@
 Seite [X]  
-The seven tightly bound. Therefore in no way may the place be used for that purpose.  
-Letter.  
-This gloss is not against me; then it is necessary that it be kept in writing, that the literal prison be an eternal imprisonment. Likewise we find / Psalm cxlviii. For us from the preacher my soul. And yet no common Scripture was brought for it, that the literal / preacher / be an eternal imprisonment; this text, according to my confession, remains still.  
+Die Sünde ist streng bestraft. Hierfür gibt es keinen Weg, dass der Ort dafür dienen könnte.  
+
+Buchstabe.  
+Dieser Glaube ist nicht gegen mich; dann ist es nützlich, schriftlich festzuhalten, dass das wörtliche Gefängnis ein ewiges Gefängnis sei. Dergleichen finden wir auch im Psalm 148, für uns vom Kerker meiner Seele. Und weil keine vollständige Schrift dafür vorgelegt wird, dass das wörtliche Gefängnis ein ewiges Gefängnis sei, wird dieser Text nach meinem Verständnis stets bestehen bleiben.  
 
 Ecolampadius  
-Man Beseche by the prophet Isaiah / what went before and after / so it will be well invented / whether this my gloss / a fragrant sign / or not: in the cxlviii psalm / one may, by the title of the same psalm, well perceive what David understood through the preacher: then the very psalm has a similar heading: “A understanding David” / for he knows in the heart / of which he wishes to remark / that David began / to be completed by Saul / and from his anxiety / which anxiety he calls a preacher. Also likewise / if we request this psalm / we desire / our spiritual sighs and anxieties / to be redeemed. Where also the schoolmaster the preacher of the damned / would not let be forever / he was to fall into the …  
+Man beschreibe beim Propheten Jesaja, was vorher und nachher geschah, so wird sich wohl erfinden, ob dieser mein Glaube ein Vorbote sei oder nicht: Im Psalm 148 kann man anhand des Titels desselben Psalms wohl erkennen, was David durch den Kerker verstanden hat. Dann hat derselbe Psalm eine solche Überschrift: „Ein verstand David, da er weiß in der Hölle, von welchem er zu vermerken hat, dass David begangen hat, von Saul erledigt zu werden und von seiner Anfechtung, welche Anfechtung er einen Kerker nennt.“  
 
-We have Matthew at the xvii / of the … who has not the high‑liturgical garment, that in the king has been thrown away, with bound hands.
+Also auch, wenn wir diesen Psalm bitten, begehren wir, dass unsere geistlichen Sünden und Anfechtungen erlöst werden. Wo auch der Schuldmeister den Kerker der Verdammten nicht ewig lassen wollte, wurde er in die dunklen Nischen des Jarsal fallen.  
+
+Wir haben Matthäus am xvii. von dem, der das hochzeitliche Kleid nicht hatte, das in der Königsherrschaft geworfen wurde, mit gebundenen Händen.

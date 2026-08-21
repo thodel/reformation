@@ -1,11 +1,6 @@
-Page [HXO]  
-The fourth  
-and promising us the death of Christ, the security of our life.  
-And should our dear brother apply the same grounds of our preservation with the foundation of Scripture at the place, that also the open book (and the bread, but that which I will give you) serves us: then each one notes the two little words, and … but that it is a misleading speech and not a promising one concerning the bodily food.  
-But if our dear brother lets this word remain, that it is not a promising word of the bodily food, we will be well at peace: where it is not, it will be left to no one that he wishes to speak; it is of the bodily food a promising word, and yet that with Scripture is not preserved.  
-For the other point, that Johannes has fled, has replaced, that other Evangelists have … we say that the same occurs in many treasonous pieces.  
-So however Johannes here of the sacramental food deals with utility, as we have brought the text faithfully to the ground, so there is no need for any speech, that one should say here Johannes has the same explanation there.  
-Then Johannes at the place, the preaching of Jesus Christ our keeper, describes that the Evangelium is, but does not describe the sacrament of the thanksgiving of Christ, as is properly heard.  
+Seite [HXO]  
+Die vierte  
+und vergehend uns den Tod Christi, die Sicherheit unseres Lebens. Und soll unser lieber Bruder dieselben Gründe unseres Bewahrns mit Grund der Schrift verbinden, vor allem an dem Ort, dass auch der offene Buchstabe (und das Brot, das ich euch geben werde) uns dient: dann merkt jeder an den beiden Wortlinien und aber, dass es ein verleugnendes Wort ist und nicht ein verheilendes des leiblichen Essens. Will aber unser lieber Bruder dieses Wort bleiben lassen, dass es nicht ein verheilendes Wort sei des leiblichen Essens, werden wir wohl zu Frieden sein: wo das nicht, wird es ihm nicht nachgelassen, dass er reden wolle, es sei des leiblichen Essens ein verheilendes Wort und aber das mit Schrift nicht bewahre. Für den anderen Punkt, dass sich Johannes gefleißen habe gesetzt, das andere Evangelien ausgelassen haben, sagen wir, dass das Selbige in vielen treulichen Stücken geschehen sei. So aber Johannes hie von dem sakramentalen Essen, nützlich handelt, wie wir das grundlegend aus dem Text hergeführt haben; so bedarf es keiner Rede, dass man hier sage, Johannes habe dieselbe hier Erklärung getan. Dann Johannes an dem Ort, die Predigt Jesu Christi unseres Behälters, beschreibt, die das Evangelium ist, und beschreibt nicht das Sakrament der Danksagung Christi, wie gründlich gehört ist.  
 
 Pfarrer von Sant Gallen.  
-Amit und alle …
+Amit und alle Länge vermitten, der Bischof halb, durch meinen Herrn und Brüder eingeführt, von dem Luten und zu der Predigt ganz, mit samt anderer Erzählung, lasse ich in seiner Würde bleiben. Das so ich ihm heute zu Bestätigung seiner Erklärung geredet ist, halt.

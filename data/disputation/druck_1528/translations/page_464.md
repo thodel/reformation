@@ -1,48 +1,18 @@
 Seite IIX  
-The eighth  
-worship belongs to God alone. It is evident by the images—just as one
-worships an image—as the pagans have done, who have made that for
-their gods, counsel and help from them being obtained, as if the wood
-or stone would wish to help, or creatures that are thereby represented,
-as Jupiter and Hercules. Therefore one should have none, lest it be
-idolatry. There is also no Christ, I hope, that the image was ever
-made in that way. …  
+Die achte Anschrift gehört allein Gott zu. Zu merken ist bei den Bildern, dass man ein Bild anbetet, wie die Heiden es getan haben, die das für ihre Götter gehegt haben, Rat und Hilfe von ihm erhalten, als ob das Holz oder Stein ihnen helfen möchten, oder Kreaturen, die dadurch dargestellt werden, wie Jupiter und Herkules. Also soll man keine haben, dass es Götzendienst wäre. Es hat auch keinen Christus, so ich hoffe, das Bild nie so gehegt. etc.  
 
-The saying has been introduced—Deuteronomy am iiij. You should
-quickly hold fast to your souls. Now you have said nothing of any
-likeness on the day on which the Lord spoke to you in the mountain,
-in the middle of that …  
+Den Spruch hat eingeführt Deuteronomium 8. Ihr sollt fleißig über die Seelen wachen. Nun habt ihr nichts gesagt, etliche Gleichnisse in dem Tag, an welchem der Herr mit euch geredet hat in Oreb, in der Mitte, in dem … etc.  
 
-It is clearly evident that God has not spoken of the figure of
-Christ, as we now have, but only of his divinity, which is not
-depicted, as he has said: You have given no likeness, which nevertheless
-makes clear the understanding of his divinity.  
+Da ist klar zu merken, dass Gott nicht geredet hat von der Figur Christi, wie wir jetzt haben, sondern allein von seiner Gottheit, die dort nicht abgebildet ist, in dem … so er gesprochen hat: Ihr habt kein Gleichnis gesagt, was doch das … und der Weg …  
 
-Meyſter Vlrich Zwinggly.  
+Mister Wilhelm Zwingli.  
 
-If this is empty—by the work of Fabers—with biblical Scripture brought
-forward, therefore it should be neither shown nor answered; let us
-remain by the answer. The one reverent council of Zürich,
-bishops of Constz, in the matter gave … the other Deuteronomy iiij.
-Serves us that God will thus speak: You have not given any image,
-therefore you should not also depict me; far less should any creature
-be depicted for worship. Hic valet locus à maiore:  
-If one does not depict the one God alone, and worships him, far less
-should one depict those who are not worshiped as God. It should also
-be known here that we first had images erected after we had cast
-the ones for God and help, those for which we made an image. The
-first altar‑play Erasmi was first made, where one may cast Erasmi
-for the purpose, that he may bear the weight of the inner life here,
-as needed. Such things are cast, not shown by the Scripture.  
+Wollt diese Lehre, die von den Fabriken mit biblischer Schrift hergebracht ist, deshalb sein, weder angezeigt noch verantwortet werden soll, lassen wir doch bei der Antwort bleiben, die ein ergebener Rat von Zürich, Bischof von Konstanz, in der Materie gegeben hat. Das andere Deuteronomium 8. dient uns, dass Gott will also reden: Ihr habt mein Bild nicht gesehen, nun also sollt ihr mich auch nicht verabsolutieren; viel weniger soll man irgendeine Kreatur zur Verehrung verabsolutieren. Hic valet locus à maiore: Dann soll man den nicht verabsolutieren, der allein Gott ist, und zu verehren ist; viel weniger soll man die verabsolutieren, die nicht zu verehren sind als Gott. Es soll hier auch gewusst sein, dass wir zuerst Bilder haben geschaffen, nachdem wir die für Gott und Helfer haben ausgeworfen, denen wir Bild gemacht haben. Das Tarmbaspiel Erasmi hat man zuerst gemacht, wo man Erasmi dafür ausgeworfen hat, dass er die Werke des inneren Lebens hiermit, weil er so nötig ist. Sein solcher Gegenwurf, die nicht aus der Schrift beschaut werden.  
 
-Theobaldus Hūter.  
+Theobaldus Huter.  
 
-I, therefore, speak—behold—and I turn myself—common Christian
-church—where I would have been—myself to be shown and to follow.  
+Mein dagegen gesprochen, beulich und unterwirft mich, gemeiner christlicher Kirche, wo ich gerettet hätte, mich wissen zu lassen und zu folgen.  
 
-Zwinggly.  
+Zwingli.  
 
-Where the common Christian church turns itself, it turns itself to
-God’s word. So now the pastor of Appenzell …  
-
-(Note: The transcription ends abruptly.)
+Wo sich gemeine christliche Kirche unterwirft, das unterwirft sich Gottes Wort. So nun der Pfarrer von Appenzell, die Bilder …

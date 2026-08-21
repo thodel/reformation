@@ -1,19 +1,37 @@
 Seite [X]  
-Die vierdt  
+Die vierte  
 Zwingli.  
 
-So that we may briefly come to the matter,  
-I will, according to Paul and the same words of Christ our Savior,  
-show the figure and the remembrance or usefulness of Christ’s flesh  
-to be literally eaten; his figure or meaning I will partly display,  
-that Paul writes to the Hebrews in chapter ten.  
-The law has called the shadow the future good‑things and not an actual picture of the things.  
-In Paul’s words we note that the things which in the Old Testament signified  
-are not such things as they were; then they are known only in the shadow.  
-Therefore what was once literally known must here be spiritual;  
-so indeed Christ is the light, the life and the truth.  
-The fact that the Lamb was killed and literally eaten shows us that the Lord Christ Jesus was killed, must be literally eaten by us, that is, in trust; then, therefore, the literal must be answered literally; many unwise things would have to be omitted; in Christ Jesus, that is not to be said here.  
-The whole Christ half I first show, as he says in John chapter five:  
-“I am the bread of life; whoever comes to me shall never hunger again.”  
-Here it is evident that Christ, through this word, comes to me, is understood, trusts in me by faith: because that which follows from standing thereafter, so he says: “Whoever trusts in me shall never thirst”; here …  
-In the words we … all those who come to Christ Jesus … there is in … no longer hunger nor thirst …
+Damit wir kurz zur Sache kommen,  
+will ich, wie Paulus, in denselben Worten Christi  
+unseres Heilandes von der Figur anzeigen,  
+von der Erinnerung oder Nützlichkeit des Fleisches  
+Christi, das zum Essen bestimmt ist,  
+seine Figur oder Bedeutung halb  
+zeige ich an, dass Paulus in Hebräer, Kapitel 10, schreibt:  
+Das Gesetz hat den Schatten der zukünftigen Güter gefordert  
+und ist nicht das eigentliche Bild der Dinge. In den  
+Worten Paulus merken wir, dass die Dinge, die im Alten Testament  
+bedeutet wurden, nicht dieselben Dinge bedeuten,  
+wie sie gewirkt sind; dann sind sie im Schatten gewirkt.  
+Deshalb, was dort wirklich gewirkt ist, muss hier  
+geistlich sein; so aber ist Christus das Licht, das Leben und die Wahrheit.  
+
+Dass nun das Lamm getötet und wirklich gegessen ist,  
+zeigt uns, dass der Herr Christus Jesus getötet  
+und von uns wirklich gegessen werden muss; das ist  
+aus einem Vertrauen: dann, so sehr das wirklich sein muss,  
+wird das wirklich Geschehene zu einer wirklichen Antwort;  
+es wurden gar viele ungeschickte Dinge nachgelassen, in Christus Jesus,  
+da man hier nicht sagen kann.  
+
+Seine Würde Christi halb, zeige ich zuerst,  
+wie er sagt im Johannesevangelium, Kapitel 6:  
+„Ich bin das Brot des Lebens; wer zu mir kommt, wird nimmermehr hungern.“  
+Hier ist offenbar, dass Christus durch dieses Wort  
+zu mir kommt, versteht, in mich vertraut und glaubt:  
+wie dem, das von den Stunden her nachfolgt, so spricht er:  
+„Wer in mich vertraut, wird nimmermehr dürsten.“  
+In den Worten, die wir alle, die zu Christus Jesus kommen,  
+in einem Vertrauen (wie das Wort selbst offenlegt) finden,  
+haben wir keinen Hunger mehr, noch Durst, nach Trost oder Speise: deshalb.

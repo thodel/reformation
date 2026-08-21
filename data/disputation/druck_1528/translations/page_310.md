@@ -1,9 +1,10 @@
-Page H.V.  
-The fourth  
-between me / zc. But it should be that every understanding one who has exercised the eyes of the mind / has a place of Scripture in similar cases that the others learn to understand / and therefore one compares the ceremonies against ceremonies / and Lucas and Paul / who indeed speak more clearly / and plainly speak. His chalice is the new Testament / and therein also says / As a thousand in my ... / give it with other words the explanation to us in the hand / or my lord pastor says / what he calls the new Testament so that the conscience may be assured: then if he thus the clear saying also obscures / with his unexamined explanation / thus he will not assure his conscience / nor ...  
+Seite H.V.  
+Die vierte  
 
-But it will be invented / that the saying is clear for us / and the Apostles indeed according to our understanding are comprehended.  
+zwischen mir / zc. Es soll aber ein jeder Verständige, der da geübte Augen des Gemüts hat, — ein Ort der Schrift — in gleichen Fällen die andern lernen zu verstehen; und darum vergleicht man die Zeremonien gegen die Zeremonien, und Lukas und Paulus, welche doch klarer reden, verständlich sprechen. Der Kelch sei das neue Testament, und dabei auch gesagt: dass tausend in meiner Erinnerung — gib sie mit anderen Worten die Auslegung uns in die Hand — oder mein Herr Pfarrer sagt, was er das neue Testament nennt, damit das Gewissen versichert wird. Dann, wenn er den klaren Spruch also verdunkelt mit seiner unbewerteten Auslegung, wird er sein Gewissen nicht versichern können, noch irgendein. Es wird sich aber erweisen, dass der Spruch klar für uns ist und die Apostel wohl nach unserem Verstand begriffen werden.  
 
-Pfarrer von sant Gallen.  
+Pfarrer von Sant Gallen.  
 
-[V]erantwurtung myns herrn Doctors / über min intragne red / wil so durch jn fürbracht / ver laß ich den zůhörendē vün läſern / sölichs zeerken nen. Of the literal Enim / with comparison of the saying of Paul / I understand through the word Enim / so it is interpreted / (therefore) it is an adequate explanation of the words / so in one sense and understanding a like matter should be understood / from the figure Genesis at the vvij. Chapter. Where stands the figure as previously shown / in my first speech I let it remain: Off the saying Luce. His chalice is the new Testament in my blood / is a truly ... well ... that it does not speak in my wine / it is also customary that the chalice / the Testament of Christ may be taken as a confirmation / and therefore from the word that ...
+[Verantwortung] meines Herrn Doctors über meine Intrange‑Rede — will so durch ein (etwas) gebracht — verlasse ich den Zuhörenden und Leser, solches zu zehren. Von dem wortlichen „Enim“ — mit Vergleichung des Spruchs Paulus — verstehe ich durch das Wort „Enim“, so wird es verdeckt; (dann) sei eine eingängige Erklärung der Worte, so dass in einem Sinn und Verstand eine gleiche Sache verstanden werden soll.  
+
+Von der Figur Genesis im ... Kapitel: Dort steht die Gestalt, wie vorher angezeigt. In meiner ersten Rede ließ ich es bleiben: Auf den Spruch Lukas. Der Kelch sei das neue Testament in meinem Blut; es ist einem Gleichgewicht wohl zu ertragen, dass es nicht in meinem Wein spricht; gewöhnlich ist auch der Kelch, das Testament Christi, bestätigt und darf genommen werden, und soll vom Wort …

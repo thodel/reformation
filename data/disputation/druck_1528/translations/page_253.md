@@ -2,13 +2,6 @@ Seite CXIX
 Schlußred.  
 Pfarrer von Sant Gallen.  
 
-Since my dear Lord Doctor supposes that the word is not to be ordinarily conveyed when it concerns the first analogy of faith to the contrary, my understanding should not be dismissed, as it would be contrary to reason, entirely contrary.  
-So, however, one sees the comparison of the old Testament in the reading of the Lamb, previously shown, and yet in these words it (as I think) should not be concealed to the believer by another exposition: for he who speaks it has power both in heaven and on earth. Matthew xxviii, chapter … to Ephraim the first chapter. Here a trope or meaningful exposition should be taken, with the holy Scripture, the known assurance being confirmed.  
+Da mein lieber Herr Doktor meint, das Wort sei nicht wesentlich vernachlässigt worden, wenn es das erste, die Analogie des Glaubens zu widerlegen, sei; soll mein Verständnis nicht zugelassen werden, denn wie wohl es unserem Verstand, als Vernunft, ganz widerspricht. So aber sieht man den Vergleich des alten Testaments in der Lesung des Lamblins, vorher gezeigt und jetzt in seinen Worten, soll es – wie ich denke – den Gläubigen zu einer anderen Auslegung nicht beunruhigen: denn er spricht, dem ist Gewalt gegeben im Himmel und auf Erden. Matthei xxviii, cap. zu Ephesen am ersten cap. Dann hier ein Tropus oder bedeutende Auslegung anzunehmen, soll mit der übrigen heiligen Schrift die gewohnte Sicherheit werden. Von der menschlichen Natur, dem Wesen, dem Selbigen, niemand absondert, dass es vom Same Abrahams geschieht; und wie er natürlich war, ist der Mensch Geist. Dergleichen um des Willens der vereinten Gottheit und der beiden Naturen Vermischung hat er viel über das Natürliche gesagt; als sei die Erklärung vom Berg. Matthei xvii, cap. Ebenso dass er seinen Frieden entgegenkommt mitten aus ihren Händen. Luc. iii, cap. Auf den Anzug meines Herrn Doktors von der Anmahnung des Brotes in seiner Natur. Sage ich nicht, dass das Brot zu göttlichem Wesen vereinigt werde, sondern dass in dem Brot uns der Leib Christi und unter dem Blut Christi die göttliche Kraft ist; die Worte werden dadurch geteilt. Ecolampadius.  
 
-Of the human nature, no one is exempt from the self, as it happened to the seed of Abraham; and as he naturally was a man, so is the spirit. For the sake of the united divinity and the mixture of the two natures, he has done much beyond nature, as is the explanation on the mountain. Matthew xvii, chapter … also that he … a fifth … in the midst of … Luke iii, chapter … concerning the approach of my Lord Doctor concerning the offering of bread in its nature.  
-
-I do not say that the bread will be united to divine being, but that in the bread is the Life of Christ and … that the blood of Christ is … divine power … the words …  
-
-Ecolampadius.  
-
-Herr Pfarrer, I hear you say that the word is not to be ordinarily … (text fragment ends).
+Herr Pfarrer, ich höre gern, dass ihr lasst fallen, dass das Wort nicht wesentlich …

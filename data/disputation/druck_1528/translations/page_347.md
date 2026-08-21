@@ -1,7 +1,30 @@
-Seite CLXVI  
-**Concluding address.**  
+Seite CLXVI  
+**Schlussrede.**  
 
-**Thiebold Hüter, pastor of Appenzell, whether he will of this will and his own be / here in this Christian conversation / which was received and brought forth with divine word / that he may be found by the same and that the same may be undergone. / The cause of this question is / that he may shortly also, after the answer of my lord has become known, / be chosen for this disputation / that he may be made evident and spoken plainly. / He would gladly, according to his lord’s will, / but now he wishes to receive it, / then what is to be disputed is taken up / and accepted by many places. / And also the holy Christian church (which he nevertheless understands as the papal throne) has been used for many hundred years. / Also he now, at this moment, again alone subjects the same church to the divine word, not having thought of it. / So I ask in this way that all may and ought not be forgotten, / and to remind him that he still may ... / or that he would wish to give himself wholly to the word of God / and to the pope and the mischiefs which are contrary to it, / to leave them and the same ... . / Where he thus errs, namely by dealing only with the divine word, / it will be handled according to my gracious lord of Bern, / also a Christian authority to Appenzell, to give him a hand.**  
+**Thiebold Hüter / Pfarrer von Appenzell / ob er das will**  
+ob er das will, dass er hier in diesem christlichen Gespräch,  
+das mit göttlichem Wort erhalten und überliefert wurde,  
+sich durch dasselbe erkennen lasse und den selben Untergang erfahre.  
+Der Grund dieser Frage ist, dass er sich in Kürze auch nach der  
+Antwort, die ihm von meinem Herren gegeben wurde, erwählt hat,  
+hier in dieser Disputation zu erscheinen, dass er sich hat merken lassen  
+und verständlich geredet hat. Er wollte wohl nach seinem Herren beugen,  
+doch so wollte er nun annehmen, was zu bedenken ist, dass dies disputiert sei  
+und von vielen Orten angenommen wird.  
+
+Und auch die heilige christliche Kirche (die er jedoch das Papsttum  
+allweg verachtet) hat viele hundert Jahre gebraucht. Auch hat er sich  
+zu dieser Stunde erneut allein der selben Kirche unterworfen,  
+des göttlichen Wortes nicht gedacht. So frage ich nun, damit alle  
+mögen und nicht vergänglich sein, und erinnere daran, dass er noch immer  
+das Wort Gottes unterwürfig geben will und den Papst sowie die Missbräuche,  
+die solchen widrig sind, verlassen soll, und denselben Gnaden.  
+
+Wo er solches vergisst, nämlich nur mit dem göttlichen Wort zu handeln,  
+so wird nach dem Willen meines gnädigen Herren von Bern gehandelt,  
+auch ein christliches Obergericht zu Appenzell soll in Beuelch seine Hand geben.  
 
 **Pfarrer von Alpentzell.**  
-That from our lord of Appenzell he has sent here, there is no one against it. So he then says ... / places of the Eidgenossenschaft / of the disputation half / so laudably held / by my high …
+Dass unser Herr von Appenzell hier gesandt hat, ist niemand dagegen.  
+So er dann spricht von den Orten der Eidgenossenschaft, von der  
+Disputation halb so loblich gehalten, von meinem hohen …

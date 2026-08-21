@@ -1,10 +1,8 @@
-Seite [X]  
-**The fourth**  
+Seite [X]  
+**Die vierte**  
 
-May it be mighty and become stronger nevertheless: thus it is next and wounded away from the house. The sight of pious Christians, how much the false word can [do] since that is not within. That therefore is a sign how God spoke to Abraham: “I am your God.” Having thus brought the word to Abraham, God with all his goods, saying that this is a search. That God is Abraham’s friendly and to a father devoted, made … that is his grace’s good and … and he does not speak a false word with anyone: then it is by grace and not earned.  
+Gewaltig ist sie und wurde stärker, jedoch nicht mehr; also dass sie nackt und verwundet vom Haus fliehen musste. Man sieht fromme Christen, wie viel das ganze Wort vermag, da das Innere nicht vorhanden ist. Das ist ein Hinweis darauf, wie Gott zu Abraham gesprochen hat: „Ich bin dein Gott.“ Da haben die Worte Abraham zu Gott gebracht, mit allen seinen Gütern, und sagen, das sei ein Wunsch. Dass Gott Abraham freundlich und zu einem Vater ergeben gemacht hat, ist seiner Gnade gut und wurde erweckt; er redete kein weiteres Wort mit ihm: dann ist es Gnade und nicht Verdienst. Darauf ist ein großer Teil des Briefes an die Römer geschrieben. Das zeigt, dass Gott allein oder zu einer Herberge kommt mit allen seinen Gütern (wenn man ihm glaubt). So lernen wir aber, dass Gott durch den Glauben wirkt und Hieuoram 1, 18 zu Herbrig ist. Johannes VIII, Kapitel und dass das ganze Wort bleibt, nichts bringt, dann wie vorher gesagt, und seitdem unser Wiederpart ... (Fortsetzung folgt).  
 
-Upon this a great part of the Epistle to the Romans is written. But this shows that God thus … or comes to the inn with all his goods (if one believes him). So we learn that God, by faith, … and Hieuoram 1:18 is … to the herd. John VIII, chap. and that the false word … brings nothing, as was said before … once more our … part of our understanding and explanation of the acts … thus let … we also … of the acts in our explanation at 107, 108, 109 …  
+**Pfarrer von Sant Gallen**  
 
-**Pfarrer von sant Gallen.**  
-
-On the answer of Master Wilhelm, all words … as they are spoken to us … we leave off the acts: on the saying in the histories of the Zwolffbottē at chapter XIX as the same is introduced, not … again. It is certain, however, from the beginning of the words, that the same ones have not acted out of belief, that the word “I recognize Jesus” and “I know Paul” … but who are they? From this the …
+Auf die Antwort Meister Wilrichs, alle Worte usw., wie sie von uns geredet wurden, verlassen wir uns auf die Akten: Auf den Spruch in den Geschichten der Zwölf‑Botschaften, Kapitel XIX, wie derselbe eingeführt ist, nicht nur wieder zu belegen. Es ist jedoch gewiß, dass zu Beginn der Worte die Selbigen nicht aus Glauben gehandelt haben; das bedeutet das Wort: „Ich erkenne Jesus“ und „Paulus, ich weiß …“ aber wer sind sie? Darauf folgt der Missglaube jener, die das Hohe und das Laute genug verstehen.

@@ -1,17 +1,8 @@
-Page [X]  
-The fourth  
-Zwingly  
-We also set ourselves in motion, the ground, the explanation of us shown, the whole word of God.  
-Pastor of Sanc Gallen.  
-Further explanation of the whole word of God, which the fourth conclusion, taking for us the word of Paul in the first Epistle to the Corinthians, …  
-Thus the blessed likewise. Therefore, whoever eats this bread and drinks the Lord’s cup unworthily becomes guilty of the Lord’s life and blood.  
-Here Paul opens that he who unworthily holds the remembrance, especially unworthily eats and drinks, becomes guilty of the life and blood; there is no evil bread and wine, under which there is no way of the life or blood of Christ, we may eat death.  
-Thus Paul, in the following words, says that whoever eats and drinks unworthily, he who eats and drinks himself the fourth part, in which he does not distinguish the Lord’s body.  
-Here Paul speaks openly and declares the meaning of the Lord’s life and blood.  
+Seite [X]  
+Die vierte Zwingli  
 
-Master Ulrich Zwingli.  
+Wir veranlassen uns auch auf den Grund und die Erklärung, die uns angezeigt wurden, bis zur Halle des Wortes Gottes. Pfarrer von Sanc Gallen. Weitere Erklärung bis zum Halten des Wortes Gottes, wie es die vierte Conclusio nimmt, wir für uns das Wort Paulus in der ersten Epistel an die Korinther, xj. So die Selbigen also lautend. Darum: Wer dieses Brot isst und den Kelch des Herrn trinkt, wird unwürdig; er wird schuldig des Lebens und Blutes des Herrn. Hier offenbart Paulus, nicht der, der unwürdig das Gedächtnis hält, sondern wer unwürdig isst und trinkt, wird schuldig des Lebens und Blutes; dann gibt es kein schlechtes Brot und keinen Wein, unter denen kein wahres Leben oder Blut Christi zu finden ist, wenn wir den Tod essen wollen. Ähnlich spricht Paulus in den nachfolgenden Worten: Wer unwürdig isst und trinkt, der isst und trinkt im Grunde das Viertel, in dem er den Leib des Herrn nicht unterscheidet. Hier spricht Paulus offen und erklärt die Bedeutung des Lebens und Blutes des Herrn.  
 
-The first word of Paul. Whoever now eats and drinks the Lord’s bread and cup unworthily … thus … the meaning …  
-Whoever now the bread is eaten … we hear the first bread … and so …  
+Meister Wilhelm Zwingli  
 
-(Note: The original transcription contains numerous illegible and corrupted passages; the translation renders the readable portions as faithfully as possible while preserving the original formatting.)
+Das erste Wort Paulus: Wer nun das Brot und den Trank des Herrn unwürdig isst und trinkt, …

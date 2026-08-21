@@ -1,20 +1,32 @@
-Seite CLX  
+Seite CLX
 
-Schlußred.  
-Thus it is. We also wait to come to this glory according to our measure; therefore we shall be of no use concerning the body being in one place.  
-
-But further beyond this is where the body of Christ must be in one place; thus follows that he is called Theophorus, that is a God‑bearer, who should be taken as one who is not God himself.  
-
-Thus we say again: He is a true God in the divinity in every respect; but he is also a true man: according to the blessed one, he is now entirely in one place.  
-
-Then the divine Scripture gives us to man no other thing; truly, in this way he appears to have been cast according to a severe judgment.  
-
-Because we, our dear brothers, have shown no way whatsoever, as if humanity in Christ were mixed with divinity, or else Christ had not been a true man.  
-
-It also serves no purpose that he has been brought forth, that the Lord is from the grave and thereafter to the younger, as the door was closed, having gone.  
-
-It is not written that he is to the sealed grave, or that he should come through the stone house, or also that he should come through the sealed door to the younger, except in the evening.  
+Schlussrede.  
+Denn ist. Wir warten auch zu solcher Herrlichkeit zu kommen  
+nach unserem Maß: darum werden wir aber nützlich  
+ger dem Leib nach an einem Ort sein. Das aber weiter ist,  
+wo der Leib Christi an einem Ort sein müsste, so würde  
+die Folge sein, dass er billig Theophorus, das ist ein Gottträger,  
+genannt werden soll, als wäre er nicht selbst Gott. So sagen wir nun:  
+Er ist ein wahrer Gott in der Gottheit nach allen Seiten; er ist aber auch ein wahrer Mensch:  
+dem Selbigen nach ist er völlig nun an einem Ort zu einmal:  
+dann gibt die göttliche Schrift uns den Menschen nicht anders:  
+wie wahrlich ein solcher Er fürwurf schmeckt nach einem schweren Joch,  
+dass wir doch unsere lieben Brüder keinen Weg zeigen haben,  
+als ob die Menschheit in Christus mit der Gottheit vermischt wäre,  
+oder aber Christus kein wahrer Mensch gewesen wäre. Es  
+dient ja auch gar nichts, dass er hierher gebracht habe, dass der Herr  
+aus dem Grab und danach zu den Jüngern, als die Tür verschlossen war,  
+gegangen ist. Es steht nicht geschrieben, dass  
+der zum verschlossenen Grab oder durch das steinerne Haus kommen soll,  
+oder auch dass er durch verschlossene Tür zu den Jüngern kommen soll,  
+sondern am Abend,  
+als die Türen verschlossen waren. So man nehme dies gleich, wie man will,  
+so bringt es doch gar nichts, dass der wahre Leib Christi darum  
+zu einem Mal an vielen Orten läppisch sein möge: darum wollen auch alle  
+die Worte des Herrn im Nachtmahl gesprochen, wie sonst genug bewahrt, nicht anzeigen.  
 
 Pfarrer von Sant Gallen  
 
-For my explanation of the other article, that with all hand‑work, without further contribution, may, with the help of God, be concluded on the next day.
+Ver meine Erklärung des anderen Artikels,  
+damit alle Handlungen ohne weiteren Eintrag mit  
+der Hilfe Gottes auf heutigen Tag beendet werden.

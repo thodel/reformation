@@ -1,33 +1,17 @@
-Page CLXII  
+Seite CLXII  
 **Schlußred.**  
 
-contrary / had Lord Benedict the pastor himself / here also against  
-also before an assembled council by us Christianly offered / report to  
-give and receive / in the hope / he will also find a report / as  
-then it happens (God be praised to the lord) while he however to the part  
-recognized report says / I beg in and all of God the Lord / that he in  
-the remaining also to … give / thereby a heart steadfast in the same  
-blessed. Regarding me here before this gathered assembly / of our  
-congregation concerning Saint Gallen / that we yet for a long time have not saved  
-have / and all flow anchored / that we unanimously preach the truth of Christ and  
-his word / have also much speech / after … our lord  
-against one another held. In which the pastor / also at times with answer  
-could have / that I all God the Lord … who … in his  
-light may in this article / and me … after his wonderful  
-works / a terrible God / to whom also strength and …  
-and thanks / to eternal times / Amen.  
+Widerwertig hat sich Herr Benedict, der Pfarrer, derselbe hier zugegen, vor einem ersten Rat, den wir christlich angeboten haben, bereit erklärt, Bericht zu geben und zu erhalten, in der Hoffnung, er werde ebenfalls Bericht finden, wie es geschehen ist (Gott dem Herrn sei Lob). Während er jedoch zum Teil den Bericht erkennt, bitte ich im Namen und im Auftrag Gottes des Herrn, dass er im Übrigen auch zuerst gebe, dazu ein beständiges Herz an dem Selbigen zu bewahren. Bezüglich meiner Person hier vor dieser Versammlung unserer Gemeinde zu Sant Gallen, das wir jetzt seit langer Zeit nicht gespart haben und allen Fluss… dass wir einmütig die Wahrheit Christi und sein Wort gepredigt haben, auch viel gesprochen, nach Beuelch unser Herr, gegeneinander gehalten. In welchen der Pfarrer auch etwas mit Antworten hat, das ich alles Gott dem Herrn beuge, der da in sein Licht mag in diesem Artikel und mich verblendet nach seinen wunderbaren Werken, ein schrecklicher Gott, dem sei auch Kraft und Reich und Dank zu ewigen Zeiten. Amen.  
 
-**Pfarrer von Sant Gallen.**  
+**Pfarrer von Sant Gallen.**  
 
-I will remain as I previously answered.  
+Ich lasse bleiben, wie ich zuvor geantwortet habe.  
 
-**Theobaldus Hütter Pfarrer**  
-**von Apenzell.**  
+**Theobaldus Hütter Pfarrer von Apenzell.**  
 
-[N]Emend here and eating / that is my love / is often  
-on many times this day acted / many writings there shown / with speech and answer presented.  
-Thus however Master Wilhelm Zwingli the word is and other with …  
-other with … waves all ways of sins draw / as if one should speak / that sins my love / …  
-At the same time he was inspired with his declaration / to beware that the word is of … which declaration I do not accept / because all I hope with good …  
-Namely so the three Evangelists. Matthew, Mark and Luke the … thousand / and under … all three none of sins …  
-Likewise / the world … Paul also with
+Emend hin und essend, das ist mein Leben, ist oft  
+unter vielen Malen dieses Tages gehandelt, viel Schrift  
+da angezeigt, mit Rede und Antwort dargelegt.  
+So aber Meister Wilhelm Zwingli das wörtlich ist und  
+anderes mit ihm wollen allwegen von Sünden ziehen, als ob  
+man sprechen sollte: das Sündet mein …

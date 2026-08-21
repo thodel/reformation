@@ -1,10 +1,12 @@
 Seite CXLVI  
 
-**Conclusion.**  
+**Schlussrede.**  
 
-That he says / what else he has given to anyone / then that the word again brings forth the principle, begot just for me to preserve / that in the span city / then we did not exist  
+Was er sagt, was er anders geben soll, dann dass die Worte das Prinzip erneut fordern, bittet er mich um das Bewahren; das ist im Zusammenhang zu verstehen, dann bestehen wir nicht mehr. Die Worte des Inhalts und des Sinnes seien, wie er darauf hinweist.  
 
-**On the second day, Thursday.**  
-**Pastor of St. Gallen.**  
+**Am zweiten Tag der Disputation.**  
+**Pfarrer von Sant Gallen.**  
 
-On the explanation of the cup / given by me / in which I asked my lord Doctor (of that kind) for an explanation of the understanding and he answered me as written in the records. Thus I now lack / from his introduced speech / I will have given such an answer in summary: All that Christ has done, so it should be fruitful for us, useful, to be understood by us in belief and spirit, to be taken up. But as the water is not healed, as eating, that is my life: drinking, that is my blood; Christ would have taken that bread in his hand and said thank you and spoken: Namely, eating, that thou thinkest of my thoughts and has the word: This is my life, not needed. Similarly to the cup, he had said thank you and to give them speaking: Drinking all of it, so often you should become drinking, so thunders in my memory and needs the word: This is my blood, not standing by it. Then the other words, memory hold, and thankfulness thereby shown, would be enough: therein in the words of Christ, it is not yes and no, but rather yes yes and no no. Thus I
+Zur Erklärung des Kelches, die ich vorgetragen habe, darin ich meinem Herrn Doktor die Erklärung des Verstandes erbeten habe und mir geantwortet wurde, wie in den Akten geschrieben steht. Da mir jedoch noch etwas von seiner eingeführten Rede fehlt, will ich eine solche Antwort zusammenfassen: Alles, was Christus getan hat, soll für uns fruchtbar und nützlich sein, von uns im Glauben und im Geist verstanden und angenommen werden.  
+
+Damit das Äußere jedoch nicht getrennt bleibt, als Essendes, das ist mein Leib, und Trinkendes, das ist mein Blut; Christus nahm das Brot in die Hand, dankte und sprach: „Nimm und iss“, das ist mein Gedächtnis und das Wort. Das ist mein Leib, nicht nötig. Ebenso zum Kelch sagte er dankend und gab ihn: Trinkend alles daraus, so oft ihr trinken sollt, so oft in meiner Erinnerung das Wort nötig ist. Das ist mein Blut, nicht dabei stehend. Dann die anderen Worte, Erinnerung bewahren und Dankbarkeit zeigen, das wäre genug. Denn in den Worten Christi ist nicht ja und nein, sondern ja ja und nein nein.

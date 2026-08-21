@@ -1,17 +1,15 @@
-Seite [IX]
+Seite [IX]
 
-The first  
-Protest of the Comenthür stands especially.
+Die erste Protestation des Comenthürs steht besonders.
 
-I protest here that my lords the Presidents / the Provincial have remained silent, having dismissed / or struck down speaking and disputing, especially allowing him freely to speak and dispute with the preachers against their articles and also having ordered such, for the sake of further discussion, that the divine truth of this more and brighter may be revealed, that he is no longer struck down from speaking, then the trade and the span, as he had with the preachers of Strasbourg; beyond that we are not Presidents.
+Ich protestiere hiermit, dass meine Herren, die Präsidenten bzw. der Provincial, stillschweigend das Wort ergriffen und das Reden sowie Disputieren unterdrückt haben und ihnen nie erlaubt wurde, frei zu reden und zu disputieren mit den Predigern über deren Artikel – worum wir ebenfalls gebeten haben – zugleich um weitere Erklärung, damit die göttliche Wahrheit hiermehr und deutlicher offenbart werde und nicht länger unterdrückt werde. Dann der Handel und das Spannen – so wie er mit den Predigern von Straßburg verhandelt hat – darüber sind wir nicht Präsidenten.
 
-Master Niclaus Brieſſer  
-Protest.
+Meister Niclaus Briesers  
+Protestation.
 
-You have, Lord Provincial (as you have spoken), shown two loci scripturæ. But thereby you have drawn in many things which were not scriptural, namely the trade that has been concluded with the preachers of Strasbourg, the same have the preachers Doctor Capito and Martinus Buzer also brought forth, and such a trade, as an Ersamer Rat and Presidents do not allow to be continued in this disputation, to be further examined and mixed; rather it should be dealt with alone, what serves for or against the closing speeches of the preachers, as previously reported.  
+Wir haben, Herr Provincial (wie ihr gesprochen), zwei Lokale der Schrift gezeigt. Dabei jedoch viel eingeschoben, das nicht Schrift war, also nur vorgetäuscht, nämlich den Handel, wie er sich mit den Predigern von Straßburg verabredet hat, betreffend dieselben, die Prediger Doctor Capito und Martinus Buzer ebenfalls hergebracht haben, und solchen Handel, wie ein erhabener Rat und die Präsidenten nicht zulassen, in dieser Disputation weiter einzuzeichnen und zu vermischen, sondern allein gehandelt werden soll, was da dient für oder gegen die Schlussreden der Prediger, wie bereits gemeldet ist. Weiter, Herr Provincial, damit ihr nicht missverstanden werdet: Die Meinung eines erhabenen Rates und der Präsidenten über die Würde ist, dass es erlaubt ist zu disputieren mit der Schrift und nicht allein mit der Schrift, die mit höheren und ausgedruckten Worten gegen die Schlussreden der Prediger gerichtet ist, sondern auch mit Schrift, aus welcher Schrift ihr darauf hinweisen und angeben könnt, dass aus derselben Schrift wahrhaftig folgt, dass sie gegen die Schlussrede der Prediger gerichtet ist.
 
-Furthermore, Lord Provincial, so that you may not be misunderstood, one Ersamer Rat and the Presidents’ opinion, above all, is that it is permitted to dispute with the Scripture and not only with the Scripture, which with higher and ausgeprägten words is contrary to the closing speeches of the preachers, also with Scripture, from which Scripture you may therefore show and indicate, that from the very same Scripture, truly according to the truth, that it is again the closing speech of the preachers.
+Capitonis und Buceri  
+Protestation und Bezug.
 
-Capito and Buzer’s protest and response.
-
-Lord Provincial complains that he has no place to answer our speech, which is unchristian and contrary to the truth; now we have nothing with him, then again he repeats the two first closing speeches to those who have the whole Christian … (text ends)
+Der Provincial beklagt sich, er habe keinen Platz für unsere Rede zu Antworten, die ungeschriebenlich und gegen die Wahrheit gerichtet ist; nun haben wir nichts mehr mit ihm gemeinsam, dann jedoch wieder die beiden ersten Schlussreden an die ganz christlich Handelnden gerichtet.

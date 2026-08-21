@@ -1,11 +1,27 @@
-Page XXIII  
-**Conclusion.**  
+Seite XXIII  
+**Schlußrede.**  
 
-coming. then that it must happen with great cost /  
-the open sinner to be excommunicated / also not the prelate /  
-or bishop alone / then he is a single person / namely the church so Christian concerning hearing his word /  
-and following the same / in which the open sinner / does not and sins / thus the Roman Church / that is / the assembly of the believers likewise / a beast the / Pope excommunicates / so he would be an unfaithful sinner / the same beast had a church of Bern / of Appenzell and where one confesses Christ / we should / also thereby consider / why the ban of Christ should / be lifted / not monetary debts to be imposed / or by other / temporal actions weighed / as he then in grievous / breach is / until here / except alone for the open / sin and angry will / now let it be on the day / that all so with the ban / until now / all suffer / player / hur / blood‑spiller / in open unfaithful sin let / and to a shame of this noble divine / ban of God for the sin’s sake be lifted / be bound / breaking it / for the debt / or your freedom / and power to protect / that is the beast of God / given / a certain church and parish. Therefore the pastor has not yet brought / the first conclusion.  
+Kommt, dann muss das mit großem Aufwand geschehen,  
+den offenen Sünder zu bannen, nicht nur den Prälaten  
+oder Bischöfen allein, denn er ist eine einzelne Person,  
+sondern die Kirche, die Christus zugehörig ist, in der  
+Hörung seines Wortes und Nachfolge desselben,  
+in welcher der offene Sünder wandelt und sündigt.  
+Also hat die römische Kirche – das ist die Versammlung  
+der Gläubigen – denselben Bösen, den Papst zu bannen,  
+so dass er ein unheiliges Sünder wäre.  
+Der böse Bischof hatte eine Kirche von Bern  
+und von Appenzell, wo man Christus bekennt.  
+Wir sollen darüber nachdenken, warum der Bann von Christus  
+aufgehoben werden soll, nicht wegen Geldschulden  
+oder wegen anderer zeitlicher Handlungen,  
+wie er dann in gewerblichen Verstößen ist,  
+nur allein wegen des offenen Sündens und des erbitterten Willens.  
+Nun liegt es am Tag, dass alles so mit dem Bann  
+bis hierher vergangen ist.  
 
-**Master Wilhelm Zwingli, precentor at Zurich.**  
+**Meister Ulrich Zwingli, Prediger zu Zürich.**  
 
-[E]rrüwen dear lord and brothers in Christ Jesus / since the pastor of Appenzell / has brought the matter of the power of the ban / I will speak most briefly about the ban. First …
+Er ruft, liebe Herren und Brüder in Christus Jesus,  
+seitdem der Pfarrer von Appenzell die Sache von der Gewalt des Bannes geführt hat,  
+will ich zum Kürzesten etwas von dem Bann sagen. Erst…

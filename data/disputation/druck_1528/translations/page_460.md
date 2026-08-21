@@ -1,7 +1,30 @@
-Seite [X]  
-The worship‑making images constitute idolatry; it is contrary to God’s word; nothing of the old Testament: therefore where they are set up for worship they are condemned.  
+Seite [X]  
+Die achtende  
+Bilder machen zur Verherrlichung / ist wider  
+Gottes Wort / nichts von altem Testament:  
+Deshalb, wo sie in Gefahr der Verherrlichung  
+für gestellt / abgeordnet sind.  
 
-Franciscus Kolb  
-Eodi am ij. Thou shalt make no images for thyself, nor any likeness, neither that which is above in heaven, nor that which is below on earth, nor that which is in the water under the earth. Pray not to set them up, nor to serve them.  
-
-Deutrono= mij am. iiij. capit. Keeping over souls, having no likeness made on the day that God the Lord spoke with you on the mountain Oreb. 1 Corinth. vi. They who serve the idols will not possess the kingdom of God. In 1 Corinth. x. flying from the service of the idols. Christ Jesus has also taught us what we ought to do good to him, that we should do it to our neighbor; Matt. xxv. God can make no image of any man. They, the people of Christ, should be regarded and honored in our neighbor; Matt. xxv. ca. here shortly after. And Paul also admonishes us to the Romans xii. That we may each one offer to the other his offering.
+Franciscus Kolb  
+Eodem am I. Du sollst  
+dir keine Bilder machen / noch  
+einen Glanz / weder  
+das, was oben im Himmel / noch  
+das, was unten auf Erden / noch  
+das, was im Wasser / unter der  
+Erde ist. Bette sie nicht an / und  
+deine Jenen nicht. … Deuteronomium  
+am IV. Kapitel. Bewahrend  
+über Seelen / ihr habt keinen  
+Glanz gesehen an dem Tag, da Gott der Herr mit euch  
+geredet hat / auf dem Berg Oreb. 1. Korinth V. Sie den  
+Abgöttern dienen / werden das Reich Gottes nicht besitzen.  
+in der 1. Korinth X. Fliegend von dem Dienst der Ab‑  
+götter. Christus Jesus hat uns auch gelehrt / was wir  
+im Guten tun wollen / dass wir das tun in unserem nächsten  
+Stunden / Matthäus 25. Gott kann uns Menschen kein Bildnis  
+machen. Sie Menschen Christi / soll in unserem nächsten  
+angezeigt und verehrt werden / Matthäus 25. ca. hier  
+nächstes angezogen. Und Paulus ermahnt uns auch / zu  
+Römer XII. Dass wir / einer den anderen / mit ihrer  
+Erbietung.

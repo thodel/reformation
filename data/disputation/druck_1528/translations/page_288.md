@@ -1,20 +1,18 @@
 Seite IVXXX  
 
-**Die vierdt**  
-**Meister Vlrich zwingli.**  
+**Die vierte**  
+**Meister Ulrich Zwingli.**  
 
-We, also leaving ourselves to the explanation, open God’s word which we have brought forth, as also containing the Acts. The other thing that in the night, with the mouth of the light of Christ, shall be spoken.  
-We recognize indeed an added word: then our mouth is lively, and we may then eat lively food, and sensibly, it would follow that we must sensibly eat the light of Christ.  
-The spirit is the one that lives, which makes you, for example, also recommend that each one who possesses a faithful understanding.  
+Wir lassen uns auch von der Erklärung des offenen Gotteswortes leiten, das uns gebracht wurde, und von den Akten, die es enthalten. Der andere redet, dass im Abendmahl mit dem Mund des Leuchens Christi gegessen werden soll. Wir erkennen, dass ein ungebundenes Wort ist: dann ist unser Mund lebendig und nützlich, dann wollen wir lebliches Essen, und wir empfinden, dass wir das Leuchten Christi empfindlich essen müssten. Der Geist ist der, der das Leben bewirkt; daher empfehle ich, dass jeder, der den gläubigen Verstand hat, dem folgt.  
 
-**Pfarrer von sant Gallen**  
+**Pfarrer von St. Gallen**  
 
-So we now have the handling of the figure of the Acts, and they are entered into the explanation, namely now in the last speech, we should be enlightened by God, that the open word of Scripture is capable, and its understanding.  
+So beleuchten wir nun die Handlung und die Gestalt der Akten und tragen sie in die Erklärung ein, nämlich jetzt in der letzten Rede. Wir wollen alle so von Gott gelehrt werden, was das offene Wort der Schrift vermag und was sein Verstand versteht.  
 
-**Meyster Vlrich zwingly.**  
+**Meister Ulrich Zwingli**  
 
-We also recommend those who have been enlightened by God.  
+Wir empfehlen auch denen, die von Gott gelehrt sind.  
 
-**Ecolampadius.**  
+**Ecolampadius**  
 
-Among other things, yesterday and also today it was spoken how the efferent word, bearing with … not alone, that so it means, but also that it is called: that it purifies itself also in the present time, and say also thereof, one should consider the nature and kind of the word.
+Unter anderem ist gestern und heute geredet worden, wie das offene Wort, das nicht allein ... bedeutet, sondern auch ... (der Text bricht hier ab).

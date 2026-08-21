@@ -1,10 +1,12 @@
-Seite XLVIII  
-Schlußred. XLVIII  
+Seite XLVIII  
+Schlußred. XLVIII  
+
 Berchtoldus.  
 
-I ask the pastor a question whether he, concerning the two sayings that then announce the office and service, as Christ has left his church, would derive from that that whoever holds such an office in the church is a teacher, an evangelist, a shepherd and a guardian, that he thereby is a head of the church; give answer on this.  
+Ich frage den Pfarrer, ob er zu den beiden Sprüchen, die besagen, dass Christus sein Amt und seine Dienstbarkeit in der Kirche verlassen habe, etwas sagen kann, ob er daraus etwas einführen wolle, das ein solches Amt in der Eile innehat; er sei ein Lehrer, ein gelobter Euan, ein Hirte und Wächter, und er sei das Haupt der Kirche. Darauf bitte ich um Antwort.  
 
-Theobaldus Pfarrer von Appenzell.  
+Theobaldus, Pfarrer von Appenzell.  
 
-Come, dear Christians, I have heard from Lord Berchtold concerning my affairs and he intends to give me an answer; so he began and asks me that I should give an answer, that one should be released beforehand; I have already heard whether one should ask such questions. Thus Lord Berchtold asks me, and my question is not answered; in that I have requested a distinction between the shepherd and the teacher, but in that your delay shows, especially an answer should be given to his question; after he has spoken, a power is given to his beloved twelve commandments; know therefore to follow; so a teacher gives a shepherd to one, or has drawn one to the same head, he says, or the superior: then we do not turn in idle standing, that I nevertheless bring my matter to light, and not with circumlocutory speech; thus I bring forth the holy word, as Lord Berchtold himself says, and give me then an answer:  
-Der Herr Jesus hat zu seinen lieben jüngern gesprochen.
+Kommt, liebe Christen, ich habe vernommen, dass Herr Berchtold mir ein Anliegen vorgetragen hat und er meint, ich solle ihm Antwort geben. Er beginnt, mich zu befragen, und verlangt, dass ich ihm antworte, damit wir das Problem vorher lösen können. Ich habe jedoch noch keine klare Antwort erhalten. Ich habe um Klärung gebeten, insbesondere um den Unterschied zwischen dem Hirten und dem Lehrer. In diesem Zusammenhang bitte ich um ein eindeutiges Urteil.  
+
+Er spricht von einer Gewalt, die den lieben Zwölf Geboten entgegensteht. Wisst ihr, wie man danach handeln soll? Ein Lehrer, ein Hirte, gibt einem Menschen Führung, oder er hat einem Menschen das Haupt (die Leitung) übertragen, sagt er. Oder ein Oberster: Dann sollen wir nicht wanken, sondern fest stehen, damit ich meine Sache klar darlegen kann, ohne verwirrende Worte, und das Heilige verkünden, wie es Herr Berchtold verlangt.  

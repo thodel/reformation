@@ -1,11 +1,13 @@
-Page [X]  
-The fourth  
+Seite [X]  
+Die vierte  
 
-Search here  
-on the 119th leaf.  
+Sucht hier  
+am .119. Blatt.  
 
-so they have spoken with their own mouth. The words therefore are to be understood in or under the bread of Jesus, the body of Christ: and they now speak to the third, they will not allow themselves to be drawn into the fight. As the body of Christ in or under the bread, as steadfast and thorough as it is, according to the foundation of Scripture spoken.  
-Empathetically I address all who hear and let.  
-Now I return to the course of the words of Paul to the Corinthians.  
-in the first Epistle at chapter ten.  
-The my brothers Ecolampadius have explained Christianly and well, so that our opponents of the common Church may have sufficient notice; I will also treat those, not as previously handled, but as a basis.
+So haben sie mit ihrem eigenen Mund geredet. Die Worte sollen also verstanden werden in oder unter dem Brot Jesu, dem Leib Christi; und reden jetzt zum Dritten, sie wollen sich im Kampf nicht lassen. Wie der Leib Christi in oder unter dem Brot sei – wie Standhaftigkeit und gründlich das sei, über den Grund der Schrift geredet. Empfindlich ich’s allen Hörenden zu lassen. Jetzt komme ich wieder auf die Bahn der Worte Paulus zu Korinther, in der ersten Epistel am X. Kapitel. Die meine Brüder Ecolampadius christlich und wohl erklärt hat, damit aber unser Widerspruch zu gemeiner Kirche des Stellers genug beschieden ist, will ich dieselben auch handeln, nicht als Vorgehandelte, sondern als Basis erklären.  
+
+Auf ist für das Erst‑Vernehmen Paulus: die, so in den Götzendiensten mitmassen oder gesellen waren, das ist, dass sie mit den Götzen diener, die die Opfer ihrer Götzen miteinander aßen, auch aßen haben wollen von der Gemeinde, das ist Kirche, Gesellschaft und Vereinbarung ziehen; auf solche jährige Meinung, da die fürwitzigen meinen, sie mögen an Verletzung des Gewissens und des Nächsten von Götzenopfer essen.  
+
+Nimmt Paulus die Gemeinde für sich und spricht, sam er also spricht. Wie kann einer ein Glied sein an zweier widerwertiger Gemeinden? Ist einer ein Glied Christi von seiner Kirche? Wie kann er ein Glied der Kirche des Tiefen sein? Das ist nun die Summe, auf das folgend nun die Worte, darum (spricht Paulus) meine Geliebten, fliegend von dem Götzendienst, ich will mit euch reden als mit beständiger, zu ermessen, ja das ich mit euch rede.  
+
+Der Trank der Danksagung, damit wir danken, ist das nicht die Gemeinde des Blutes Christi: die Koinonia, das ist gemein, Communio.

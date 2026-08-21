@@ -1,12 +1,13 @@
-Seite [42]  
-**Die vierde**  
+**Die vierte**
 
-Beilich ich meine Rede und antworte dagegen zu Weiterung des Handels desgleichen, mein Mithaffen, abermals dem christlichen Leser.  
+Beiläufig ich meine Rede und antworte dagegen zur Förderung des Handels desgleichen, meiner Mithilfe, abermals dem christlichen Leser.
 
-**Butzer.✚**  
+**Butzer.✚**
 
-That we also think.  
+Das tun wir auch.
 
-**Pfarrer von Sant Gallen.✚**  
+**Pfarrer von Sant Gallen.✚**
 
-On the third article of faith, of that which is future to be judged over the living and the dead, etc. As formerly quoted is the passage of Paul, 1 Corinthians, chapter 12: that we should keep the remembrance of the Lord until He comes, also to announce His death. Therefore firstly we should so be willing to endure with Christian bearing of the Night‑Meal until the end of the world, to keep with abstention; then Christ in Himself, the earthly kingdom invisible, has … especially the word at this place, as also Acts 1, chapter …, is to be understood as a glorious, powerful future and visible opening, as a judge of the living and the dead. So He says, Matthew, the last chapter: I am with you until the end of the world. But the Scripture reports: The poor having … you all … I will not have all gone. Thus firstly, as decided, Paul, 1 Corinthians, chapter 5: And if we recognize Jesus, we think we should not … after the flesh. Which alone … the visible habitation … then we … Christ … according to common belief … who suffered in the flesh and redeemed us … confess.
+Auf den dritten Artikel des Glaubens, nach dem künftig über die Lebenden und die Toten gerichtet werden soll, beziehe ich mich auf den früheren Spruch des Paulus, 1. Korinth, Kapitel 10: Wir sollen das Gedächtnis des Herrn bewahren, bis er kommt und seinen Tod verkündet. Daraus folgt zunächst, dass wir seinen Willen des Leidens mit christlicher Haltung des Abendmahls bis ans Ende der Welt bewahren sollen, indem wir Christus im Selbst das irdische, unsichtbare Weiß …  
+Sondern soll das Wort an diesem Ort, wie auch in der Apostelgeschichte, Kapitel 1, von einer herrlichen, gewaltigen Zukunft und sichtbaren Eröffnung verstanden werden, als ein Richter der Lebenden und Toten. So sagt es Matthäus im letzten Kapitel: „Ich bin bei euch bis ans Ende der Welt.“ Doch die Schrift berichtet: „Ihr Armen habt mich ganz verlassen, ich werde euch jedoch nicht ganz verlassen.“  
+Zunächst also, wie Paulus in 1. Korinth, Kapitel 5, entscheidet: Wenn wir Jesus erkennen, dürfen wir ihn nicht nach dem Fleisch beurteilen. Denn das Fleisch ist nur das äußere, sichtbare Gewand. Deshalb bekennen wir Christus nach dem allgemeinen Glauben, den wir mitbringen, der im Fleisch gelitten hat und uns erlöst.

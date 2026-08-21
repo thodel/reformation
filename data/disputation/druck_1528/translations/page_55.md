@@ -1,26 +1,7 @@
-Seite [X]  
-Schlußred. XX  
+Schlußrede XX  
 
-sprich ich neyn darzu.  
-I speak nothing further on this.  
+sprich ich nichts dazu. Er hat es jemandem verheißen; es steht dabei, nicht dort, und Johannes 2 Kapitel allen jungen Gleiches … so er spricht / wem er verzichtet … Darum wird nicht ein Haupt sein, das zu binden und zu lösen, sondern so viel höher, als Christus vergeben hat; Johannes 2 Kapitel … und zu lösen … dazu ist es jedoch völlig nutzlos, denn der Pfarrer selbst hat eine gute Läuterung gegeben, dass Christus Petrus vergeben hat, die Kraft des Wortes Gottes, und gesetzt zu einem fürwahrhaftigen Macht­haber seines göttlichen Wortes. Das lassen wir jemand von Herzen gern zu … dann wird mit dem Wort Gottes die Gläubigen … so es jemand verkündet, wird versichert, dass Gott die Sünde durch Christus verjagen hat; darum ist Gott allein der, der die Sünde verjagt, die Apostel verkünden die Verjagung der Sünde und die Verhütung der Sünde, alles als Diener. Darum hat die besondere Macht der Staats­haltung Christi hier verheißen, hier ist es nötig, andere Schrift zu bringen.  
 
-Er hatt jm sy verheyßen es stat Dabo, nit Do, und Johannis xx. Cap. Allen jungen gelei=stet/ so er spricht/ wem jr verzichent/zc.  
-He has promised someone that it stands there, not here, and John xx. Chapter … all youths … so he says / when … etc.  
+Pfarrer.  
 
-Darum wird nicht ein haupt sin zu binden und zeloßen/ sondern so viel haup=ter/ als Christus beuolhen hat/ Joannis xx. Cap. Sebin den und zeloßen/ dazu so bedözfft  
-Therefore a chief will not be bound and ... unless … as much … as Christ has … John xx. Chapter … and … thus …  
-
-es der antwort gar nüt/ dann der Pfarrer selbst ein gute lüttrung geben hat/  
-the answer is altogether useless / then the pastor himself has given a good ...  
-
-das Christus Petro beuolhen hab/ den gewalt des wort Gottes/ und in gesetzt zu einem fürnemlichen gewalt= haben seines göttlichen worts.  
-that Christ … Peter … has … the power of the word of God / and has appointed a certain ... power of his divine word.  
-
-Das lassen wir jm von herz en gern zu/ dann mit dem wort Gottes werden die gläubigen/ so es jenen verkündt wird versichert/  
-We gladly leave this to ... then with the word of God the believers become ... so that it is proclaimed to them assuredly /  
-
-das ein Gott jr Sünd verzigen hat durch Christum/ darum ist Gott allein der die Sünd verzieht/ die Apostel verkünden die Verzichung der Sünd/ und die Verhaltung der Sünd/ als Diener.  
-that a God has ... sin ... through Christ / therefore God alone is the one who ... the sin ... / the apostles proclaim the ... of sin / and the ... of sin / as servants.  
-
-Darum dein besonderer Gewalt d Stathaltung Christi/ hier beuolchen ist/ hierumb ist not ander geschrift zebringen.  
-Therefore your special power ... the state of Christ ... is ... therefore another writing must be brought.
+Als Herr Berchtold predigt meine gnädige Herren von Bern, mich anzuziehen, ich habe oben viel nachgelassen in dem … so ich bekenne Christus ein einig Haupt, in welchem ich nicht übel getan habe, sondern wohl gehandelt nach der Schrift; die innere Kraft ist bemerkenswert zwei Dinge. Zum ersten von seiner großen Kraft seiner Allmacht, freie ungebundene Kraft; dann ist er allein der, der Gnade und Herrlichkeit gibt, und das wird er niemand anderem geben. Zum zweiten ist bemerkenswert seine nachgelassene Kraft, seine göttliche Verordnung, wie Herr Berchtold gesagt hat, er hat jemandem sein göttliches Wort empfohlen …

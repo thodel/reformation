@@ -1,9 +1,12 @@
-Schlußred/
+Schlussrede/  
 XVII  
-Lord, teach us to follow your will of truth with a Lutheran heart. As all have been spoken, so the bishop’s authority further declares that Saint Peter, a more fitting one of the Gospel, has never been a head. Therefore we still ought to bring the writing of Peter to the head. The church learns (for no apostle could do it) that the servant of the church is not the head.  
 
-Bycheuatter.  
-Herr Marti Butzer has at the first [meeting] — I have the saying of the first book of the Kings in chapter XV, yesterday answered it again. To this I say that I have not repeated the same saying, but reported it. Yesterday it was allowed, through some communication, an answer to be given. I now turn to another matter, that he has begun to try me with a higher text, therein to preserve Peter as a head of the church, that I think it is sufficiently explained. So I have declared that Saint Peter had the governance of the blessed Christian churches of the [Christendom].  
+Er Herr, lehre uns, deinen Willen der Wahrheit mit lutherischem Herzen zu befolgen. Als alle Anklagen gesprochen waren, hat der Bischof weiter bewahrt, dass der Heilige Petrus kein geeignetes Haupt für das Evangelium gewesen ist. Deshalb begehen wir noch, dass wir die Schrift über Petrus zum Haupt machen. Die Kirche lernt (mehr hat kein Apostel je können), dass der Diener der Kirche und nicht das Haupt ist.  
+
+Bischof.  
+
+Herr Marti Butzer hat am ersten Tag das Wort aus dem ersten Buch der Könige, Kapitel XV, vorgelesen. Gestern wurde es widerlegt. Ich sage, dass ich dieses Wort nicht angeklagt habe, aber gemeldet. Gestern wurde es zugelassen, durch einen Beschluss eine Antwort zu geben. Ich will nun zum anderen: dass er mir ein weiteres Schreiben überliefert, darin Petrus als Haupt der Kirche genannt wird, damit ich ihn ausreichend belehre. So habe ich bewiesen, dass der Heilige Petrus die Regierung der heiligen christlichen Kirche innehatte. Wer aber, dass ich ein Wort bringe, das dort das wahre Haupt hat, soll ebenfalls einen entsprechenden Spruch darbringen, das Wort ist einig.  
 
 Butzer.  
-It is not written that … the … truly head … the word is not laid down.
+
+Ihr versteht nicht, dass die Schrift das wahre Haupt offenbart; das Wort ist nicht verborgen.

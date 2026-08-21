@@ -1,8 +1,35 @@
 Seite [X]  
-The first  
+Die erst  
 
-Church/ but he has never ordained a power for us Christian‑believing people here in this time, I say/ that he has ordained a power for us to bind and to unbind/ because of the grace of his divine mercy. So however that thus I say through the divine word of Christ. Matthew 18, Chapter. In which words the Lord Jesus himself, through his divine mouth, showed and spoke to his apostle Peter. I give you the keys of the kingdom of heaven/ that which you will bind on earth/ that which you will bind in heaven/ and what you will loose/ that shall be loosed in heaven. In those words clearly shown to us/ a lingering power/ then the usefulness of the witness is/ then the word of our one God and Savior/ that stands firm/ which cannot be altered/ to bind and unbind or to release/ to order a power. So now God has spoken this/ follow thereafter/ that he to his beloved young Peter/ has the power of his divine word appointed/ and have thus set/ to a former holder of power/ of his divine word and appointment.  
+Kirchen / das aber er uns christgläubigen Menschen nie  
+hab verordnet ein Gewalt hier in dieser Zeit / spreche ich /  
+das er uns ein Gewalt verordnet hat / zu binden und zu ent‑  
+binden / über das über Gnaden seiner göttlichen Barmherzigkeit  
+kehrt. So aber dass also sig / bewer ich das durch das göttlich  
+Wort Christi. Matthäus xviii. Kapitel. In welchen Worten uns der  
+Herr Jesus selbst durch seinen göttlichen Mund angezeigt /  
+und gesprochen zu seinem Apostel Petrus. Ich gebe dir die  
+Schlüssel des Reichs der Himmel / über was du wirst binden  
+auf dem Ertrich / das wird binden in den Himmel / und was du  
+wirst loslassen / das soll losgelöst sein in den Himmel. In welchen  
+Worten uns das klarlich an wird gezeigt / ein nachgelassener  
+Gewalt / dann nützt gewisser ist / dann das Wort unseres einen  
+Gottes und Erlösers / das da stift steht / welches nicht mag  
+umgebracht werden / den binden und entbinden oder entledigen /  
+erörtert ye ein Gewalt. So nun Gott das geredet hat / folgt ye  
+danach / dass er seinem lieben jungen Petrus / habe den  
+Gewalt seines göttlichen Wortes empfohlen / und habe ihn  
+also gesetzt / zu einem fürnemlichen Gewalthaber / seines  
+göttlichen Wortes und Empfängers.  
 
 Berchtoldus.  
 
-[K]ommen beloved Christians/ the order of the pastor/ has a short notice/ he lets after to the first/ that Christ be one head/ so may he be your state elder/ then all power in heaven shall be given/ is in the gift/ Matthew in the last Chapter. Which power no creature may govern. Moreover he has drawn in/ the keys to bind and to loosen/ which Christ Matthew 18, Chapter gives to Peter/ speak.
+[K]ommen fürgeliebten Christen / die unred des  
+Pfarrers / hat ein kurzen Bescheid / er lässt nach  
+zum ersten / zu Christus ein einzig Haupt sei / so darf er dein  
+Stathalter / dann aller Gewalt im Himmel über erden /  
+ist im Gebet / Matthäus am letzten Kapitel.  
+Welchen Gewalt kein Geschöpf verwalten mag. Zum andern hat er  
+eingezogen / die Schlüssel zu binden und zu lösen /  
+welche Christus Matthäus xviii. Kap. Petrus geben hat /  
+sprich

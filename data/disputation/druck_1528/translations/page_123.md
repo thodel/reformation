@@ -1,13 +1,13 @@
 Seite LIIII  
 
-**Schlußred. LIIII**  
+**Schlußrede LIIII**  
 
-Thus they are retained. And still today remains that, although Peter has already been promised for all the questions of Christ, so after all Christ has especially denied the power of the keys. And when my lord Berchtold instituted Christ, he also especially denied it, that he later also gave it to others; but this does not bring any further open writing, that Christ also here has promised the keys to all. Then it does not follow that Christ has done this at another place; therefore he also here has promised; then the text is here later, that he especially has done and spoken.  
+Dann sind sie behalten worden. Und bleibe noch heute darauf, ob schon Petrus für alle, die die Fragen Christi gestellt haben, gewirkt hat. So hat nach alledem Christus besonders die Macht der Schlüssel verheißen. Und als mein Herr Berchtold einsetzte, hat Christus ebenfalls etwas besonders verheißen, das er später auch anderen geben wird. Dabei bringt er jedoch nicht die offene Schrift herbei, dass Christus das hier ebenfalls getan hat, die Schlüssel allen verheißen hat: dann folgt daraus nicht, dass Christus das an einem anderen Ort getan hat; deshalb hat er es hier ebenfalls getan; dann ist der Text hier höher, dass er besonders getan und geredet hat.  
 
 **Berchtoldus+**  
 
-Master Niclaus brings forth that Peter especially denied the keys, being and giving; he understood it especially; that is only denied and given. So he again has the clear words of Christ/Johannes in the twentieth chapter; then the words are so clear; Matthew in the xviii chapter shows that the denial itself is evident. But John in the xx chapter, the entire lection is given; thus the denial also stretches over all of them. Accordingly, as I have shown in a single speech from the Scripture, the Lord promised few and gave many; therefore it must not be in all Scripture so: but only a single little gift is given according to the kind of Scripture, and it would have needed nothing else; then the contrary words are for themselves later and clear enough.  
+Meister Niclaus führt herbei, dass Petrus besonders die Schlüssel verheißen hat, indem er sie gibt und versteht, dass das allein verheißen und geben ist. So hat er wieder die klaren Worte Christi Johannes im zwanzigsten Kapitel, dann sind die Worte so klar, Matthäus im XVI. Kapitel, das die Verheißung selbst zeigt. Aber Johannes im XX. Kapitel, die Leistung allen zu geben, ist so, dass sich auch künftig die Verheißung über alle erstreckt. Demnach habe ich in einer gleichen Rede der Schrift gezeigt, dass der Herr wenigen verheißen hat und vielen leistet; man muss deshalb nicht in allen Schriften so sein, sondern habe allein ein Gleichnis nach Art der Schrift, und das hätte wohl nichts bedürfen; dann sind die gegenwärtigen Worte für sich selbst höher und klar genug.  
 
 **Senger**  
 
-D ij
+D ij

@@ -1,20 +1,17 @@
-Page [VCX]
+Seite [VCX]
 
-The third  
+Die dritte  
 Martinus Bucerus  
 
-Here on p.r.vii.94 folio.  
+Hier am  
+p. r. vii. 94 Blatt.  
 
-First, the answer is to be given in the explanation.  
-Lord Berchtold’s, the other does not bring that,  
-that Thabita here has earned awakening.  
+Auf die erste ist die Antwort zu geben in der Erklärung, Herr Berchtold; die andere bringt das nicht, das Thabita habe die Verweckung verdient.  
 
-Letter +  
+Buchstab +  
 
-Explanation and confirmation of my previously mentioned writings, I say that it is written there that they would be full of good works and give to all as they do; this follows immediately thereafter in the v. Capi.  
-
-That the angel to Cornelius had spoken, his command and almsgiving are established in the memory for the sight of God; the same will also be found by the so holy man Thobia, as he says, with the almsgiving and belief the sins are cleansed.  
+Erklärung und Bestätigung meiner zuvor genannten Schriften: ich sage, dass das dabei Geschriebene steht, dass sie voll guter Werke und Almosen geben, wie sie tun, voll und schier danach im Kapitel V. Dass der Engel zu Cornelius gesprochen hat, dein Gebot und Almosen sind festgesetzt in das Gedächtnis für das Angesicht Gottes; der gleiche wird auch gefunden bei dem seligen Mann Thobia; so spricht er: mit dem Almosen und Glauben werden die Sünden abgewaschen.  
 
 Martinus Butzer.  
 
-The Thabita, however, is quite clear; therefore I let it remain.
+Der Thabita halber ist völlig klar; da lasse ich es bleiben.

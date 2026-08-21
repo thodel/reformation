@@ -1,22 +1,16 @@
-Seite [X]
+Seite [X]
 
-The third  
-that God the Lord the work has praised / that several of the younger  
-have rejected / and that the good ... also ... as we also in the Scripture have / as Matthew  
-on the xx. ... the workers / and give them the reward / now  
-be yours, your worker called / the one who must go /  
-the Lord also has your ... in his vineyards to place / must be said / especially to work.  
-We also have a clear saying from 1 Corinthians on ii. How the Lord would reward a certain one / according to his work / and clearly concludes / we are helped by God / then Lord Poley / and his sympathy should be well considered / what the Apostle meant / with the clause / we are helpers of God.  
+Der Dritte  
+Gott, der Herr, hat das Werk gelobt; einige der Jüngeren haben es verworfen, und das gemeinte Gut wurde auch jemandem genannt, wie wir es in der Schrift finden, etwa bei Matthäus xx. Beruff die Arbeiter und gib ihnen den Lohn; nun wird dein Arbeiter genannt, der gehen muss. Der Herr hat dich ebenfalls in seinen Garten gestellt, damit du dort arbeiten kannst; sonst wäre das nicht möglich. Wir haben außerdem einen klaren Vers aus 1 Kor. ii: „Wie der Herr einen ewigen Lohn nach seiner Arbeit geben will, so schließt er das klar.“ Wir sind Gottes Hilfe; daher soll Herr Poley und seine Mitleidenschaft wohl prüfen, was der Apostel gemeint hat mit der jeweiligen Klausel – wir sind Gottes Mithelfende.
 
-Herr Poley.  
+Herr Poley.
 
-Sich hier  
-on the 91st leaf.  
+Sich hier am 91. Blatt.
 
-S. Herr Pfarrer not deceiving Christ / we stand / with the whole of his understanding / in the manner of speaking of the Scripture: be with us and be helpful to us / Our works are not commendable for us / but for the spirit of Christ / such a saying / as also ... shall become responsible. So it is grace / so it is not yet ... the works / Romans on x. It is no wonder that my Lord Pastor does not notice the matter / then the ignorant of God’s righteousness / own seeking / are not submissive to the righteousness of God / Romans on x. With that we refer to the Scripture of the Notaries.  
+S. Herr Pfarrer, vernachlässige Christus nicht. Wir stehen mit vollem Verstand nach der Art, wie die Schrift spricht: Sie soll uns und unser Tun unterstützen. Unsere Werke sind nicht verdienstvoll für uns, doch im Geist Christi sollen wir reden, wie es zuvor gesagt wurde, und jetzt Verantwortung übernehmen. So ist es Gnade; aber es ist nicht wegen der Werke, die in Römer 10 (Römer am xj.) genannt werden. Es ist kein Wunder, dass mein Herr Pfarrer die Sache nicht bemerkt; die Unwissenden, die nach der Gerechtigkeit Gottes suchen, handeln nicht im Einklang mit Gottes Gerechtigkeit, wie es in Römer 10 (Römer am x.) steht. Damit verweisen wir auf die Schrift der Notarien.
 
-Bezogen die ganz Erklärung der Berchtold in Anfang dieser Schlussrede.  
+Bezogen auf die ganze Erklärung des Berchtold am Anfang dieser Schlussrede.
 
-Theobaldus Hütter.  
+Theobaldus Hütter.
 
-A Ls Pelagius has brought forward the saying to the Romans on x. So it is grace ... we know well that all our works are ... grace of God.
+A L S Pelagius hat den Spruch zu den Römern 10 gebracht. So ist es Gnade; wir wissen wohl, dass all unser Werk aus Gottes Gnade stammt.

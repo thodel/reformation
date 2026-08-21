@@ -1,7 +1,29 @@
-Seite [X]  
-The first  
-Warthei at chapter viii, which also Paul to the Corinthians  
-as he has/when he has in the first Epistle at the v. chapter. I indeed (he says) as one who is not present in the flesh, but wholly present in the spirit. I have already concluded such things in the spirit, concerning the one who has done such things, in the name of our Lord Jesus Christ, in the assembly with my spirit, and in the power of our Lord Jesus Christ, to hand over the devil to the corruption of the flesh, that the spirit may become blessed on the day of the Lord. Here he says that Paul does not act from his own power, but rather in the name—yes, in the power of our Lord Jesus Christ gathered together with one another the public listeners, having banished them; thereafter the pastor may no longer receive a particular private power, Petzo, the bishop and the bishops, to be polluted.  
+Seite [X]  
+Die erste  
+
+Wahrheit im VIII. Kapitel, das auch Paulus an die Korinther richtet:  
+„Als ich in dem ersten Brief an das VIII. Kapitel schrieb, sagte ich:  
+Ich bin zwar nicht mit dem Leib hier, doch ich bin mit dem Geist
+gewiss. Ich habe das, was ich im Geist beschlossen habe, bereits
+über den, der das im Namen unseres Herrn Jesus Christus getan hat,
+in unserer Versammlung mit meinem Geist und im Bunde mit der Kraft
+unseres Herrn Jesus Christus übergeben, dem Teufel zum Verderben
+des Fleisches, damit der Geist selig werde am Tag des Herrn.  
+Hier sagt Paulus, dass er nicht über eigene Kraft handelt,
+sondern im Namen und in der Kraft unseres Herrn Jesus Christus
+versammelt ist, mit den öffentlichen Hörern, die er verbannt hat;
+darauf jedoch kann der Pfarrer nicht mehr erhalten, was er
+eigenständig, mit besonderer Kraft, dem Bischof und den Bischöfen
+zu vermitteln versucht hat.“
 
 Pfarrer.  
-When Lord Berchtold was instructed/also spoken, it was said how Christ Jesus had instructed his apostles to proclaim the word of God for the remission of sins. And he had likewise taken up a similar duty of a parish or church hearing; so he speaks of the power of an eternal church to give, in which he, as I have well liked, uses the power that Paul employed, which I point out to give to the church: then Paul has used the same great power—not without—Christ has likewise employed such power; therefore it will not be retained, that the power so employed is to be released and bound, that the church may be upheld. So he…
+Als Herr Berchtold antrat, wurde er ebenfalls gerufen, zu reden,
+wie Christus Jesus seine Apostel berufen hat, das Wort Gottes zu
+verkünden und die Sünden zu sühnen. Und er zog dabei dieselbe
+Gleichheit einer Pfarr‑ oder Kirchenhörerschaft an, so dass er von
+der Kraft einer eigentlichen Kirche sprach, in welcher ihm wohl
+gefiel, dass er dieselbe Kraft, die Paulus gebraucht hat,
+weitergibt an die Gemeinde: denn Paulus hat dieselbe große Kraft
+gebraucht; er ist nicht allein, und Christus hat diese Kraft
+nicht allein, sondern sie wird durch die Gemeinde weitergegeben
+und gebunden, damit sie nicht verloren geht.

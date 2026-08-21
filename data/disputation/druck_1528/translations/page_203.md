@@ -1,4 +1,28 @@
-Page XCIII  
+Seite XCIII  
 
-**Closing address.** **XCIII**  
-Christians understand that the word of God always commands us to the works and fruits of the spirit in our faith and love relations to the Romans, indeed. But from the trust we must take the works as our own, and they are warned and required of us by all Scripture. German at 7‑8, Essay at v., to Titus ii and iii chapter, and the Lord with a smile from the Pharisee, who was not a Hebrew nor a robber, but rather God praises, embraces, recounts all his good: now before his eyes righteous and pious, and from the tax‑collector who, striking at his breast, for the grace of God, as a son called, and before the Pharisee, more just, went up to the temple. Thus Paul declares all his righteousness, not caring for the cat because he has won Christ, to Philippians iii chapter. To the other, all works should be rightly judged to the honor of God, Matthew v, etc. In the first Epistle to the Corinthians, chapter v, and in the second Corinthians, chapter v, and love also the improvement of our nearest: then thereby the people will be able that we are younger Christians, so we love one another. And all works, not reaching there, are before God useless. But that in many places of Scripture the works of the reward are forbidden, as Matthew v chapter. Genesis xv, Jeremiah xxxi, Essay xl chapter, and in other innumerable places we should not imagine that our work is equally measured and deserved of reward; otherwise God has promised us grace, becoming the believers…
+**Schlußrede. XCIII**  
+Christen verstehen, dass das Wort Gottes uns überall ermahnt,  
+zu den Werken und Früchten des Geistes, zu unserem Glauben und den  
+Liebesbezügen zu den Römern (vgl. Römer j. ca.). Aber von dem Vertrauen,  
+das wir eigenständig annehmen, den Werken, ist es gewahrt und bedarf  
+uns aller Schrift. Deut. am viii. Esaiam v. zum Titus ii und iii Cap., und  
+der Herr mit einer Gleichnis vom Pharisäer, der weder ein Räuber  
+noch ein Räuber war, sondern deshalb Gott lobt, fasst, verzehnt  
+all sein Gut: jetzt vor seinen Augen gerecht und fromm, und von dem  
+Zollner, der an seinem Brustschlag schlagend, sich für die Gnade Gottes  
+als ein Sohn berufen und vor dem Pharisäer gerechterweise vom Tempel  
+ging. Also weist Paulus alle seine Gerechten an und achtet darauf,  
+dass er Christus gewinne zu Philippus iii Cap.  
+
+Zu dem anderen sollen alle Werke richtig gerichtet werden zur  
+Ehre Gottes (Matthei v. ca.) in der ersten Epistel zu Korinth am v. und  
+in der ii. Korinth v. Cap. und Liebe, auch Besserung unseres Nächsten:  
+dann wird der Mensch erkennen, dass wir jüngere Christen sind,  
+so wir einander lieb haben. Und alle Werke, die nicht dahin reichen,  
+sind vor Gott wert.  
+
+Das aber an vielen Orten der Schrift, die Werke des Lohnes verheißen,  
+wie Matthei am v. Cap., Genesis am xv., Jeremia xxxi., Esaiam xl. Cap.  
+und an anderen unverzichtbaren Orten, sollen wir nicht vernehmen,  
+dass unser Werk dem Lohn gleichmaß sei und verdiene; sonst hat Gott  
+uns Gnade verheißen, werdend die Gläubigen j.

@@ -1,21 +1,19 @@
 Seite CLXVII  
-Schlußred.  
+Schlussrede.  
 
 Pfarrer von Alpentzell.  
-He reads well which body he has given to them, which he has recommended to them, speaking: Thun’s in my memory, the body that has suffered, the body that has been tried ten times.  
-
-If we eat the body that has suffered for us, we must also eat it reverently, for it has suffered reverently: which, however, is not food.  
+Verlässt er wohl den Leib, den er uns gegeben hat, der uns das Empfangen ermöglicht hat, spreche ich: Tausend in meiner Erinnerung, den Leib, der gelitten hat, den Leib, der zehntausendmal gelitten ist.  
 
 Waltherus Klarer.  
-If we eat the flesh that was given for us, we must also eat it with feeling, because he has suffered with feeling: which, however, is not food.  
+Wenn wir das Licht essen, das für uns geleuchtet hat, dann müssen wir ebenfalls empfindlich essen, weil er empfindlich gelitten hat; dieses Essen ist jedoch kein richtiges Essen.  
 
 Pfarrer von Alpentzell.  
-D As he gave his bodily blood and flesh, in the form of bread and wine, to be eaten, one finds the opposite in my introductory treatise. What we wish to seek is the order of nature, in which the one who is supernaturally born is clearly shown by our faith. Born of the Virgin Mary … and thus remains in the inserted copy.  
+Als er uns seinen gewöhnlichen Leib – Blut und Fleisch – in Gestalt von Brot und Wein zum Essen gab, findet man das in meiner eingeleiteten Schrift. Was wir suchen wollen, ist die Ordnung der Natur, an der das Übernatürliche geboren ist, wie unser Glaube klar zeigt. Geboren von der Jungfrau Maria rc. und bleibt daher bei einer eingereichten Kopie.  
 
 Waltherus Klarer.  
-S does not refer in our writing or hand to the claim that we should call the slain or crucified body food. Now he has suffered reverently, so we must also reverently eat him.  
+Es liegt nicht an unserer Schrift oder Hand, dass wir den Getöteten oder gekreuzigten Gottessohn essen. Nun hat er empfindlich gelitten, daher müssen wir ebenfalls empfindlich essen.  
 
 Pfarrer von Alpentzell.  
-I ask whether Christ has another body, that in which he suffered, died, or was tried ten times, or whether he has more than one body.  
+Ich frage mich, ob Christus einen anderen Leib hat, dann in dem er gelitten, gestorben oder zehntausendmal erlitten ist, oder ob er mehr als einen Leib hat.  
 
 Tt iij

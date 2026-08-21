@@ -1,9 +1,18 @@
-Seite CVIII  
-Schlußred.  
-In me trust / he has eternal life. Here every one sees that Christ the whole sum of the preceding words … and says further: I am the bread of life, in which we … that he does not speak of another or sacramental bread; then that itself is not a bread of life. And so that he completely refutes the objection that they had made against him, the half‑bread that they were to give in the wilderness; thus he declares himself even more openly and says: It is, was … father having the man or heavenly bread eaten in the wilderness; they are however dead: this is a bread that has come from heaven, the one …  
+Seite CVIII  
+Schlußrede.  
 
-Here he openly invents that Christ himself alone … therefore called a bread or “spit” … that he is the only nourishment, the consolation and security of the soul: then the bread of the Sacrament, when eaten, does not remain eternally with life. I am the bread of life, that which has come down from heaven. Here we know well that Christ from heaven … the power of the holy spirit … in the young, joyful body of Mary received and was born.  
+In mich vertraut, der hat ewiges Leben. Hier sieht ein jeder, dass Christus die ganzen Inhalte der vorherigen Rede aufgeführt hat und spricht weiter:  
 
-He, however, is only half of the flesh, not the sole consolation of the soul. So now Christ is God and man both, but chiefly according to his divinity, the consolation of the souls. Thus we truly note whether we have any word to follow, that this bread and food are taken alone for belief and trust in God, through Christ Jesus our brothers, which indeed is altogether a spiritual food.  
+„Ich bin das Brot des Lebens, in welchem wir wohnen; er redet nicht von einem vergänglichen oder sakramentalen Brot, denn das selbst ist kein Brot des Lebens. Und damit er den Vorwurf, den sie ihm gemacht hatten, völlig entkräfte, erklärt er offen: Es ist wahr, unser Vater hat das Himmelbrot in der Wüste gegessen; sie aber sind gestorben. Dies ist ein Brot, das vom Himmel gekommen ist, das, welches vom Essen sterben würde.“  
 
-But Christ made this clear with his own words, and he says above concerning it: And the bread … that I…
+Hier stellt er offen, dass Christus sich selbst allein sei, deshalb ein Brot oder Geist genannt habe, das die einzige Nahrung, Tröstung und Sicherheit der Seele ist; das Sakrament‑Brot zu essen, bleibt nicht ewiglich beim Leben.  
+
+„Ich bin das Brot des Lebens, das vom Himmel herabgekommen ist.“  
+
+Hier wissen wir wohl, dass Christus vom Himmel herabgekommen ist, die Kraft des heiligen Geistes im jungen, freudigen Leib Mariens empfangen und erhaben ist. Er ist aber des Lichts halb allein, nicht die einzige Tröstung der Seele.  
+
+So nun Christus Gott und Mensch zugleich, doch vor allem nach der Gottheit, die Tröstung der Seelen ist.  
+
+So bemerkten wir eigentlich, ob wir gleich keine Nachfolge des Wortes haben, dass dieses Brot und Essen allein genommen werden für den Glauben und das Vertrauen in Gott durch Christus Jesus, unser Bruder, welches doch alles allein ein geistliches Essen ist.  
+
+Aber Christus machte das mit seinen eigenen Worten klar und spricht darauf: „Und das Brot aber, das ich …“

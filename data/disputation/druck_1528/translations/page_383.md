@@ -1,22 +1,20 @@
 Seite CLXXXIII  
-Schlußred CLXXXIII  
+Schlußrede CLXXXIII  
 
 Butzer  
-It has been declared that the measure shall be your sacrifice, as Paul has abundantly demonstrated; therefore this place may not be misunderstood by the measure, it is laid down, it is equal to the measure, whoever wishes.  
+Es ist vorausgesagt, dass die Messe dein Opfer sein soll, wie über Paulus überflüssig bewährt ist; so mag dieses Wort von der Messe nicht verstanden werden, es lege fest, dass es von der Messe gleich sei, wer das wolle.  
 
 Gilg Murer  
-We have proven it with our distinction.  
+Wir haben es bewährt mit unserer Unterscheidung.  
 
 Butzer  
-The same distinction is a writing: half of the other part, namely half of the mentioned measure‑sacrifice, that it is to be taken wholly and yet it is insufficient.  
+Die gleiche Unterscheidung ist eine Schrift: des anderen Teils halb, nämlich des erwähnten Messeopfers halb; das ist geistlich zu verstehen, und doch lächerlich ist es.  
 
 Gilg Murer  
-We ask here, for further understanding, what the pure sacrifice is, as written by Malachias.  
+Wir fragen hier, zur weiteren Erkenntnis, was das reine Opfer sei, von dem der Prophet Maleachi schreibt.  
 
 Butzer  
-Answer. They are the truly faithful hearts, their prayer, a complete offering, in the will of God; they are presented to the Lord through the preaching of the Gospel, as Paul says to the Romans in chapter XV.  
-
-I am a servant of Christ to the heathen realm, that the Gospel of God, that the sacrifice of the heathen may be named, be sanctified through the holy spirit.  
+Antwort: Es sind die rechtgläubigen Herzen, ihr Gebet, ganz die Begabung, im Willen Gottes; sie werden dem Herrn zugebracht durch die Prediger des Evangeliums, das Wort des Paulus an die Römer, Kapitel 15. Ich bin ein Diener Christi zu den Heiden, das Reich … das Evangelium Gottes, das das Opfer der Heiden genannt wird, geheiligt durch den heiligen Geist.  
 
 Gilg Murer  
-As it has been answered to us, the pure sacrifice is the believers with their prayer and the like; may it not be misunderstood here, then all our righteousness is before God, as it itself is.
+Als uns geantwortet wurde, dass das reine Opfer die Gläubigen mit ihrem Gebet und dem Gleichen darbringen, mag hier nicht verstanden werden; dann ist all unsere Gerechtigkeit uns vor Gott, als wären sie selbst anwesend.

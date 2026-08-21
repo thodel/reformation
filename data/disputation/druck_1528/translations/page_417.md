@@ -1,13 +1,13 @@
-Seite 201  
-Schlußred.  
+Seite 201  
+Schlussrede.  
 
-For the people born, also through the will of God, healed and truly made alive. I begin the Scripture, that they wholly in heaven no longer have power, or where any such force is taken away; thus the Prophet David says in Psalm cxxxviii. God, how your friends have been almost destroyed, and firmly have been strengthened in their glory. Where now the apostles’ glory is strengthened, they are less capable in eternal life; then they become.  
+für die Menschen geboren / Etliches durch den Willen Gottes / gesund und ehrlich lebendig gemacht. Ich begehre Schrift, dass sie so ähnlich im Himmel nicht mehr vermögen, oder wo ihnen solcher Gewalt genommen sei, so doch der Prophet David spricht im CXXXVIII. Psalm: Gott, wie sind deine Freunde fast geehrt worden und fest ist gestärkt worden ihre Herrlichkeit. Wo wären nun die Apostel, deren Herrlichkeit gestärkt ist, so dass sie im ewigen Leben weniger vermögen, dann werden sie.
 
 Berchtoldus.  
-The apostles, while they have exercised the command of Christ in this time, have been born, have preached, healed, glorified, and called to love. But after they, from this time, are deprived of God, each God has given a better gift that they may partake of the eternal joy; therefore they do not follow, as one might argue concerning the office and deeds of the living over the dead. Furthermore, as he introduced the saying from the Psalms, he does not preserve the calling of the saints; rather, as God has given him his spirit, with the manifold gifts and grace: signs to be performed, the word of God to preach, to turn the pagans to faith, against all power of the world, of the devil, and of death. That is their honor; therefore they are princes, or they are taken into the congregation of God, to be received.  
+Die Apostel, die zwar sie von diesem Zeitpunkt an geübt den Befehl Christi, haben sie geboren, gepredigt, gesund gemacht, geglaubt, und lieb geheiligt. Nachdem sie aber von diesem Zeitpunkt an von Gott berufen sind, hat Gott jedem ein Besseres gegeben, dass sie der ewigen Freude nützen. Darum folgt nicht, dass man argumentieren will von dem Amt und den Taten des Lebendigen über die Verstorbenen. Zum anderen: So führt er den Spruch aus den Psalmen, bewahrt gar nicht das Anrufen der Heiligen; sondern wie Gott jedem hat gegeben seinen Geist, mit Vielseitigkeit seiner Gaben und Gnade: Zeichen zu tun. Das Wort Gottes zu predigen, die Heiden zum Glauben zu bekehren, wider allen Gewalt der Welt, des Teufels und des Todes. Das ist ihr Ehr; darum sind sie fürste oder die Fürsten in der Gemeinde Gottes, genannt werden.
 
-Johannes Buchstab.  
-I have not yet preserved that they cannot pray for us.  
+Johannes Büchstab.  
+Ich habe noch nicht bewahrt, dass sie nicht für uns bitten mögen.
 
 Berchtoldus  
 Ecc

@@ -1,31 +1,5 @@
 Seite CXX  
-Schlußrede des Ryffwins. Darum wir noch stets wid die vierden  
-Conclusion/Belieben uff den Worte “Das ist mein Leib” über  
-den Worten wollen wir nicht danken / allein dass der Sinn des  
-Beliebens / dass es nicht ein bildhaftes oder bedeutliches Brot sei /  
-das wir im Abendmahl essen / sondern das Leben und das Blut Christi:  
-so viel jedes Mal.  
+Schlussrede des Riffwins. Darum bleiben wir noch stets bei den vier Schlussfolgerungen/Behauptungen über die Worte „Das ist mein Leib“. Über die Worte wollen wir nicht zögern, allein der Sinn des Leibes: Es ist kein bildliches oder bedeutungsvolles Brot, das wir im Abendmahl essen, sondern das Leben in dem wahren Christus, so oft.  
 
 Ecolampadius.  
-[W]ir suchen auch kein Wort dank / begreifend aber  
-den natürlichen Verstand der Worte / damit sich  
-kein Joch zerrage / und Christi sein leeres Belieben /  
-hierum die Art zerlegen / wie Herr Benedict pflegt / das in  
-den Worten: “Das ist mein Leib” sei so viel als in dem Brot:  
-ist mein Leib: haben wir begreift dergleichen Art der Sprache  
-göttlicher Schrift / hat sie aber noch nicht angezeigt: und  
-erfindet sich / das gar ein fremdes weißes Zerlegen ist / sprechend.  
-Dass ein Schwamm sei das Wasser / so man verstoßen will  
-dadurch / im Schwamm sei das Wasser. Also auch so sind es  
-fremde weiße Zeremonien / so man spricht / der Becher ist Riffwin  
-so er findet sich ja klarlich / dass der Becher in seinem Wesen /  
-silbern / oder aus einer andern Materie ist und nicht win / wie  
-wohl er den Wein hält. Aber wo man solch redlich gebraucht / da  
-muss man ein Tropfen annehmen / von welchem doch Herr Benedict  
-und sein Anhang so groß abschühen tragen. Das Exempel das er  
-gebraucht / das ist für / ist auch ein unbrauchliche Rede: man  
-möchte wohl sprechen / das ist für / darum ist schlechter Hilfe / und  
-deshalb der Schrift. So er aber kommt in die Schrift / und zieht  
-an den Spruch der Epistel Paulus in der ersten Epistel zu Korinth  
-am Kapitel X und sagt Paulus sprech: Das Brot das wir brechen / das  
-ist eine Teilung des Leibes Christi.
+Wir suchen auch kein Wort zu zögern, sondern den natürlichen Verstand der Worte, damit kein Irrtum entsteht und Christi leere Liebe nicht verwirrt. Hierzu die Art zu zerlegen, wie Herr Benedikt es pflegt, in den Worten: „Das ist mein Leib“ – sie ist so viel wie das Brot, das mein Leib ist. Wir haben die gleiche Art der Sprache der göttlichen Schrift erfasst, doch sie hat sich noch nicht gezeigt und erfindet sich. Das ist ein völlig weißes Zergliedern, sprechend. Das ein Schwamm das Wasser ist, so will man dadurch verstehen, im Schwamm ist das Wasser. Ebenso ist es ein völlig weißes Zergliedern, so spricht man: Der Becher ist Riffwin, so er findet sich klar; dass der Becher in seinem Wesen silbern oder von einer anderen Materie ist, nicht Riffwin, wie wohl er den Wein hält. Aber wo man solch ein Wort gebraucht, da muss man einen Tropfen annehmen, von welchem Herr Benedikt und sein Anhang so groß abziehen tragen. Das Beispiel, das er benutzt, ist ebenfalls ein unzerbrechliches Wort: man möchte wohl sagen, das ist für … deshalb ist es eine schlechte Hilfe und deshalb der Schrift. So kommt er aber in die Schrift und zieht den Spruch aus der Epistel des Paulus in der ersten Korintherbrief, Kapitel 10, und sagt Paulus: Das Brot, das wir brechen, ist eine Teilung des Leibes Christi.

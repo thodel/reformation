@@ -1,6 +1,33 @@
 Seite [X]  
-The first and second Christian unity and that the spirit of the Lord be, and what is, namely Master Ulrich Zwingli, together with the others, I refrain from reporting concerning the Christian assembly here, for which the matter is not unknown. On the contrary, Master Ulrich Zwingli says that he is certain of the matters and has the correct true understanding of the true faith in such articles.  
-Now consider, dear beloved Christians, who so highly and so heavily are in belief between the one who first in harsh years has grown, and one who says namely the Luther, who, if he does not believe, may not become blessed: Master Ulrich Zwingli says nothing, namely in the portion of the most holy Sacraments.  
-Where then is the spirit that it may be renowned, thereby the Scripture, to understand, or what, so a pious simple Christ in this matter may take, if they say, he should turn to the Scripture, in which to investigate, we would be guilty of disbelief.  
-How can he have the wisdom, so that in the Scripture the Scripture and the spirit are praised; therefore a certain Christian may be, that it is of no use, nor to remain by unity, Holy Christian Church: then the spirit of God is not a spirit of coercion, it is the spirit of unity.  
-Ferrer, the opposition is, the Scripture should be judged, so says Martin Buzer. So has my lord Doctor Wolfgang Capito not spoken on Scripture: the text of Matthew xviii, chapter … concerning sin … I have not said … therefore the Doctor, on account of Scripture, said … the text says of the …
+Die erst  
+findend und trennende christliche Einigkeit und wüsste  
+sie das bei einem dein Geist des Herrn sei und was geht’s,  
+er einem zugelegt, nämlich Meister Ulrich Zwingli,  
+sammt den anderen, unterlasse ich zu melden von wegen  
+der christlichen Versammlung hier, denen ihr der Handel  
+nicht unwissend ist. Hinwiderum so sagt Meister Ulrich  
+Zwingli, er sei der Sachen gewiss und habe den rechten  
+Warenverstand des rechten Glaubens in solchen Artikeln.  
+Nun betrachtet fromme liebe Christen,  
+die wohl so hochgelehrt, so heftig sich im Glauben zweien,  
+der da erst in zähen Jahren erwachsen ist und einer sagt,  
+nämlich der Luther, welcher ihm nicht glauben gebe,  
+möge nicht selig werden: Meister Ulrich Zwingli sagt nichts minder,  
+nämlich in dem Stück des hochwürdigen Sakraments.  
+Wo ist dann der Geist, der sich berühmt macht,  
+dadurch, dass er die Schrift vermöge zu verstehen,  
+oder was soll ein frommer, einfältiger Christ in diesem  
+Handel fürnehmen, ob sie sagen, welch ein …? Er sollte zur Schrift gehen,  
+in ihr forschen, unser Glaube wäre schuld. Wie kann er das wissen,  
+so hochgelehrt, und zugleich geben in der Schrift,  
+die sich der Schrift und des Geistes Ruf bekennt, also zweifelnd.  
+Darum, ohne Zweifel, ein jeder Christ soll ermahnt werden,  
+das da nichts nützt, nichts gewisseres, und so bleibt bei Einigkeit  
+heilige christliche Kirche: dann ist der Geist Gottes nicht ein Geist  
+der Zwietracht und Zwietracht, er ist der Geist der Einigkeit.  
+Ferrer, die wohl der Widerpartie, die hier verachtet ist,  
+worden, die Schrift soll gerichtet werden, so sagt Martin Buzer.  
+So habe ich hier mein Herr Doctor Wolfgang Capito  
+nicht über die Schrift geredet, dass der Text Matthäus xviii, Kapitel ?  
+von der Sünde, ich habe aber nicht gesagt, dass der Doctor darum  
+nicht über die Schrift redete, dass der Text sagt von der …

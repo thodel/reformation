@@ -1,19 +1,11 @@
-Seite [X]  
-The seven  
-as previously reported, which to Christ Jesus will  
-believe, must fulfill all that he has taught, whose (to provide) little is.  
-But that the rich year has passed, especially the poor, especially those not able, not to be of use, I do not understand: then your Vigil still Soul‑measure will be read, not for all faithful souls, in the Collects also to be begged.  
+Seite [X]  
+
+Die Sieben, wie bereits zuvor gemeldet, welcher an Christus Jesus glauben will, muss alles vollbringen, was er gelehrt hat, dessen Sorge jedoch wenig ist. Aber die reichen Jahrhunderte haben das begangen und zugleich den Armen, die zugleich nicht vermögen, nicht zu Nutzen kommen, das verstehe ich nicht: dann wird dein Vigil noch Seelen­maße gelassen, das ist nicht für alle gläubigen Seelen, in den Collecten auch gebeten werden.  
 
 Berchtoldus  
-That the scholar’s half needs no answer,  
-also what from believing is drawn, then it is not a trial tried, and next after the length through Master Vlrichen illuminated.  
-But we speak, all dead service shall be contrary to love,  
-therefore they are superfluous for the rich, condemning.  
-Then for the poor they are not stiffened, lies on the day: then  
-so the rich did not hope, thus I … (so‑called dead service for the ... ) the poor … was soon … left … if already … harsh … fidelium … spoken.  
-It will be necessary that the year first be tried, that a trial be …: and so that same History … so we will then … as the souls may be helped out of it.  
+
+Des Schachers Hälfte bedarf keiner Antwort, auch was vom Glauben her ist gezogen, dann ist kein Sägführer probiert und nun nach der Länge durch Meister Vürich erleuchtet. Aber wir sprechen, alle Toten seien demütig der Liebe entgegen; darum ist das überflüssig für die Reichen, beschämend. Dann für die Armen, die nicht gestiftet werden, liegt am Tag: dann, so der Reiche nicht hoffte, ist er so todtendienend für den derlich dienenden; dem Armen wurde er es bald unterlassen, ob schon zähen, treuen, gesprochen wurden. Es wird nötig sein, das Jahr zum ersten Mal zu probieren, dass ein Sägführer sei; und so das selbst Geschichte, so wollen wir dann be­schneiden, wie die Seelen daraus zu helfen seien.  
 
 Bůchstab.  
-That the rich, by your good, may thank, then the poor, and the poor will give thereof,  
-so he might be able, he would also do it.  
-Thus we may take an example, namely from the Gospel of Mark 12, so Christ saw the rich, the many … in the money‑chest, also a poor widow came.
+
+Dass die Reichen bei ihrem Gut mehr tausend geben, dann die Armen und der Arm sein wollen dazu gibt, so er solches vermöchte, wollte er es auch tun. Dass wir ein Beispiel nehmen können, bei dem Evangelium Markus 12,12. So Christus sah die Reichen, die viel legen in den Geldstock, ist auch eine arme Witwe gekommen.

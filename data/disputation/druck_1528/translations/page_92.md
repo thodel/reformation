@@ -1,21 +1,7 @@
 Seite Ciiii  
 
-The first brilliance of the glorious saying: the ecclesiastical judge, as …, is this; so the spirit, then the Christians, that is the ecclesiastical, all truth empty, and I with others seek the Scriptures fluently, and yet the newest do not agree with one another, and especially I do not hold with Luther the half of the Sacrament, although I have indeed raised it somewhat high.  
+Der erste Glanz des herrlichen Spruchs: Der geistliche Richter, als er ein Stück Auftrieb erhält, ist dies so: Der Geist, dann die Christen – das ist das, was die Geistlichen alle Wahrheit lehren. Und ich erforsche fleißig die Schriften mit anderen, doch wir stimmen nicht überein; besonders ich halte mit Luther die Hälfte des Sakraments nicht fest, obwohl ich es einst hochgepriesen habe. Diese Frage ist bereits ausreichend schriftlich beantwortet; unser Erkenntnis hier als lehrende Christen und Geistliche ist noch ein Werkstück.  
 
-This question has already been sufficiently answered in writing; our understanding here as lay Christians and ecclesiastics is still a fragment.  
+Wie Paulus schreibt zu den Korinthern, Kapitel viii: „Die Christen, solange sie hier leben, haben noch viel Mangel und Unreife.“ Aber weil der Geist Gottes seinem Geist zugetan ist, geben die Kinder Gottes das Wort weiter, vertrauen Gott als ihrem Vater, wie in Römer Kapitel viii beschrieben, sodass sie das ewige Leben haben (Johannes Kapitel vi). Darum soll man nicht schaden, wenn man nicht alle Stellen der Schrift vollständig versteht oder sonst in Unreife verbleibt, die das kindliche Vertrauen auf Gott nicht verstoßen.  
 
-As Paul writes to the Corinthians I, chapter viii, that the Christians, as long as they live here, still have much deficiency and error.  
-
-But because the Spirit of God gives his spirit to them, that the children of God sing; therefore they trust God as their Father, according to Romans chapter viii, thus they have eternal life.  
-
-John chapter five.  
-
-Therefore you may not be harmed, even if they have not yet understood all places of Scripture correctly, or otherwise are also in error, which nevertheless does not overthrow the childlike trust in God.  
-
-Now I gladly confess, dear pious Christians, that God the Almighty has further explained to me day by day: I have indeed understood something, also the teachings of Thomas Aquinas.  
-
-So that God, through his word, has given me to know, that he is led away from God, I have said to the old.  
-
-I have highly rebuked Luther, and still today, indeed much more God the Lord in him, that he has shown us from man to God.  
-
-But now, for a time, through the misfortune of God, that perhaps not the honor of God alone was given to the city, he in his persistence wanted that one should understand the ecclesiastical word of Christ in flesh against the unity of faith, and learned comfort through the Sacraments.
+Nun bekenne ich gern, liebe fromme Christen, dass Gott, der Allmächtige, mir von Tag zu Tag weiter erklärt hat: Ich habe etwas verstanden, auch von Thomas von Aquin gelernt. So hat Gott mir durch sein Wort die Erkenntnis gegeben, dass er von Gott ausgeht; das habe ich allen Alten gesagt. Luther habe ich hochgelobt und noch heute, ja, viel mehr Gott, den Herrn, in ihm, dass er uns vom Menschen zu Gott gewiesen hat. Aber nun, durch das Verkennen Gottes, wird nicht vielleicht die Ehre allein Gott zur Stadt gegeben; er wollte darauf beharren, dass man das geistliche Wort Christi im Fleisch gegen die Einheit des Glaubens verstehen soll, und Trost findet man im Sakrament.

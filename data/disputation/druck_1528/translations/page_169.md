@@ -1,10 +1,16 @@
-Seite [LXXVII]  
-Schlußred. LXXVII  
-Set not … flüßt / but it becomes manifest / the same contrary invented.  
-Zwingly.  
-I beg you, dear brothers, something stranger concerning the eternal purity of Mary to speak / because of the matter / that the bishops give us / as we the … Mary … so nevertheless it is the greatest … and … the Jungfrau‑hood … bring forth / speak.  
-It will not be found in the Scripture that it is indeed a Jungfrau / and not that the essay at the seventh chapter thus stands.  
-Therefore God will give you a little miracle.  
-It was named … it will be a daughter received and born / a name will be Emmanuel / what a miracle that a daughter is received and born / yet all who receive and bear … also Jungfrauen have been … but that is a miracle / that a Jungfrau receives / and a Jungfrau remains / that it is born and a Jungfrau remains so now likewise.  
-So follows / that it was before and after the birth a Jungfrau … then that is a miracle / so we now have no contrary in the Scripture why.  
-So one may say / that the eternal Jungfrauschaft may not be … in Scripture … yet it will be … that it is received and … our Jungfrauschaft … and nothing that it is … here also … to Lucam first … as it will be … so I … your man recognize … and Ezekiel at xliiij. Cap.
+Seite [LXXVII]  
+Schlußred. LXXVII  
+
+Setzt nicht, dass es fließe, sondern es wird offenbar, dass demselben widersprüchlich erfunden ist.  
+
+Zwingli.  
+
+Ich, lieber Bruder, will etwas über die ewige Reinheit Mariens reden, über die Frage, die uns die Bischöfe gestellt haben, dass wir die Ehrfurcht Mariens verkleiden. Doch ist sie die allergrößte Schmach und der Argwohn, den die junge Jungfrau hervorrufen kann, zu sprechen.  
+
+Es wird in der Schrift nicht erfunden, dass sie letztlich eine Jungfrau bleibt und nicht das, was das Evangelium im fünften Kapitel sagt. Darum wird euch Gott ein kleines Wunder geben. Es wird eine Tochter empfangen und gebären, deren Name Emmanuel sein wird. Was für ein Wunder, dass eine Tochter empfangen und gebären soll!  
+
+Doch alle, die empfangen und gebären – auch Jungfrauen – sind gewesen; aber das ist ein Wunder: dass eine Jungfrau empfangen und eine Jungfrau bleiben soll, dass sie gebärt und Jungfrau bleibt, so ist es nun. So folgt, dass sie vor und nach der Geburt eine Jungfrau war; das ist ein Wunder, und wir haben das nicht in der Schrift, warum?  
+
+Man soll sagen, dass die ewige Jungfräulichkeit nicht bewahrt werden kann in der Schrift; doch das wird bewahrt, dass sie empfangen und geboren hat, unsere Jungfräulichkeit, und nichts, dass sie geschwächt sei.  
+
+Hierzu dient auch Lukas, der zuerst selbst spricht, wie das zu verstehen sei; so erkenne ich deinen Mann und Ezechiel im Kapitel 42,13. Cap.

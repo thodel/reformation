@@ -1,10 +1,10 @@
-Seite [XXID]
+Seite [XXID]
 
-Die fünffte nielis am vii.  
-Zeygen wir jnen an / das dasselbig ämtlich opffer / das lipplich Jüdisch opffer gewesen ist im alten Testament / das erfindt sich erstlich. Danielis am ix. und xj. Matthei am xxiiij. und Luceam xxj. sol man lassen.
+Die fünfte  
+Niederschrift am VII. Zeigen wir einen an, dasselbe (am) Pfiff — Opfer, das leibliche jüdische Opfer gewesen ist im Alten Testament, das sich erstlich (erst) erfand. Daniel 9, v. xj. Matthäus 24 und Lukas 22 soll man lassen.  
 
 Gilg Durer.  
-Christus hat diese Schrift angezogen im heiligen Evangelium und mag nicht allein verstanden werden, wer den dem Buchstaben nach von der Verhütung des Opfers der Juden, sondern es muss auch nach dem geistlichen Sinn verstanden werden von der letzten Zeit; das will ich bezeugen durch den vorgenannten Daniel am ix. Da er spricht: das Opfer wird verhöhnt, und von der Gräuel der Erodung wird werden oder sein im Tempel, und wird werden bis zu Ende. Hier hat später geredet Daniel von den letzten Zeiten des Antichristen, und dann soll erodet werden der Tempel, dadurch uns Gott behüte, dass wir’s nicht anfangen bei unseren Zeiten.
+Christus hat diese Schrift im heiligen Evangelium angeführt, und sie kann nicht allein nach dem Buchstaben verstanden werden, von der Verhütung des Opfers der Juden; sondern sie muss auch nach dem geistlichen Sinn verstanden werden. Von der letzten Zeit will ich das durch den vorgenannten Daniel, Kapitel 9, belegen. Denn er spricht: Das Opfer wird aufgehoben, und von der Grube der Erde wird die Erde werden, oder im Tempel sein, und wird bis zum Ende bestehen. Hier hat später Daniel von den letzten Zeiten des Antichristen gesprochen, und dann soll der Tempel, den Gott bewahrt, nicht von uns begonnen werden in unserer Zeit.  
 
-Meyster Vlrich zwingli.  
-Die gesagte Zeit beim Daniel, so ist recht berechnet, wird wohl gezeigt an, wann die irdische Zerstörung kommen wird; dann späterer Prophet der Zeit, wann Christus kommen soll, oder die irdische Zerstörung in deinem Propheten ist: das aber angezeigt ist, die Verharrung halb des irdischen der Zerstörung ist wider sie; dann der Prophet sagt, die gesamliche Zerstörung werde im Tempel sein; das ist so viel gesagt. Der Tempel wird so grausam zerstört bleiben; es ist ein προσωποποιία und will sagen, dass der Tempel so grausam…
+Meyster Vlrich Zwingli.  
+Die genannte Zeit bei Daniel, so ist sie recht berechnet, wird wohl gezeigt, wann die irdische Zerstörung kommen wird. Dann wird die spätere Prophetie der Zeit gelten, wann Christus kommen soll, oder die irdische Zerstörung in deinem Propheten ist: das aber angezeigt ist, die Verharrung halb des irdischen der Zerstörung ist wider sie. Dann sagt der Prophet, die gründliche Zerstörung werde im Tempel sein; das ist so viel gesagt. Der Tempel wird so grausam zerstört bleiben; es ist ein προσωποποιϊα und will sagen, dass der Tempel so …

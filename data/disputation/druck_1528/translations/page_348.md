@@ -1,11 +1,31 @@
 Seite [X]  
-The fourth  
-
-the governing lords of Bern and the others all before,  
-I have kept myself according to the order and statutes of the common Christian Church for a long time: I am of that opinion, as far as I am concerned, that I shall not further report the word of God concerning the aforementioned Christian Church. But if he shows me the Church, namely the Papal Church, I ask him where it has been seen for forty, fifty, or a hundred years, yet it is empty of meaning, as it has been in a long break and therefore is not held by the common Christian Church.  
+Die vierte  
+gebietenden Herren von Bern und die anderen all’vor/  
+hab ich mich nach Ordnung und Satzung/der gemeinen  
+christlichen Kirchen/bis hier lange Zeit gehalten: bin  
+des Sinnes/so weit ich mit dem Wort Gottes nicht weiter  
+berichtet werde/von benannter christlicher Kirche nicht zu‑  
+stehen. So er aber mir die Kirchen auslegt/nämlich sind die  
+bischöflichen Kirchen. z.c. Frag ich ihn/wo die sie gesinnt/  
+vor vierzig/fünfzig/oder hundert Jahren/so doch sind leer  
+in Meinung/wie er sie jetzt ein lange Zeit im Bruch hat gehen/  
+so bei der gemeinen christlichen Kirche nicht ist gehalten.  
 
 Waltherus Clarer  
-
-[D]Jewyl the pastor of Appenzell, formerly elsewhere and now also of the understanding of the words of Christ: “This is my life,” he has proclaimed, namely the power of the same that the bread in the body and the wine in the blood of Christ become transformed. So it is clear that he ought to grow from that foundation, that Christ spoke such a word and left that power to those. Thus whoever of the descendants who speaks about the bread must keep the number of the words and the understanding of Christ by the hand; otherwise the pastor would wish to point out the foundation of such power that he wishes to assign to the words. On that account, if he is of that sense, I ask him whether in the aforementioned words “This is my life” he is speaking about the offerings or about the bread, the mortal or perishable body, or the immortal clarified body of Christ’s understanding.  
-
+[D]Jewyl, der Pfarrer von Appenzell, sich zuvor/  
+allweg und jetzt auch/des Verstandes der/  
+Worte Christi/Das ist mein Leib/berühmt hat/  
+nämlich/die übertönende Kraft desselben/das Brot/  
+im Leib/und der Wein in das Blut Christi verwandelt/  
+wird/So ist klar/dass er solches von dem Grund zu‑  
+tut/dass Christus solches Wort geredet/und denen die Kraft/  
+verlassen hat. Also welcher der Nachkommen/  
+die über das Brot spricht/müsse die Zahl der Worte/und den/  
+Verstand Christi/bei der Hand behalten/sonst möchte er der/  
+Pfarrer/den Grund anzweigen solcher Kraft/die er den/  
+Worten zugeben will. Auf das/so er des Sinnes ist/so frag  
+ich ihn/ob er in obbemelten Worten/Das ist mein Leib/so er/  
+sie über die Opfer oder über das Brot spricht/den töd‑  
+lichen oder sterblichen Leib: oder den untötlichen, clarifizierten/  
+Leib Christi/Verstande.  
 Pfarrer

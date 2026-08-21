@@ -1,30 +1,10 @@
 Seite [72]  
 LXXII  
 
-Die ander Schlußred / vnd der selben  
-gründ / hat Meyſter Frantz Kolb / predicant  
-zů Bernn eroffnet.  
+Die andere Schlussrede und die derselben Grundlegung hat Meister Franz Kolb, Prediger zu Bern, eröffnet.  
 
-Die kilch Chriſti / machet nitt geſatz  
-vnd bot / ane gottes wort / desshalb all men  
-ſchen ſatzungen / ſo man nempt der kilchē  
-bott / vnß nit witer bindend / dan̄ ſy in göt  
-tlichē wort gegründt vnd botten ſind.  
+Die Kirche Christi macht nicht Gesetz und ist nicht der Bote von Gottes Wort; deshalb sind alle menschlichen Satzungen so, dass man den Kirchenboten nicht weiter bindet; dann ist sie im göttlichen Wort gegründet und Boten sind.  
 
-Meyſter Frantz Kolb.  
+Meister Franz Kolb.  
 
-Gnad vnd frid von Got  
-dem Vatter / vnd unsern Her=  
-ren Jeſu Christo / Amen. Und  
-erwelten Gottes fründ / nach  
-dem min Brüder Berchtold /  
-in der ersten unser Schlußred /  
-gnůgſamklich erlütret hatt /  
-was da ſye die Chriſtenlich  
-meind / dero das eynig houpt  
-ſye Chrīstus Jeſus / nach  
-lut des andern Artickels unsern vralten  
-Criſtenlichen glou  
-bens / der alſo lutet. Jch gloub in Jeſum ſinen eingebornē  
-ſun / unsern Herrn / merckē Menceſchlich / unsern Herrn /  
-uns ser houpt / unsern heyland / unsern låbendig macher / unsern.
+Gnade und Friede von Gott, dem Vater, und unserm Herrn Jesus Christus. Amen. Wie unser Bruder Berchtold in seiner ersten Schlussrede ausreichend erläutert hat, so ist gemeint, dass das einzige Haupt Christus Jesus ist, nach dem zweiten Artikel unseres alten christlichen Glaubens, der also … Ich glaube an Jesus, seinen eingeborenen Sohn, unsern Herrn, merke … menschlich … unsern Herrn … unser Haupt … unser Heiland … unser liebender Schöpfer …

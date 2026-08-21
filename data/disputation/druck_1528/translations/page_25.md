@@ -1,13 +1,10 @@
-Closing speech.  
+Schlussrede.  
 V  
+Für das, was wir hier noch beantworten, sind wir ebenfalls bereit, sofort zu antworten. Nun waltet sein Gott.  
 
-For the renewal we are also ready to answer at the proper time.  
-Now may his God reign.  
+Demnach sind berufen worden alle Gelehrten und Ungelehrten, geistlich und weltlich, heimisch und nach der Ordnung, wie die Vorrede das verträgt. Hier von kurzer Seite aus gelassen, die Einsicht gefunden, so offengelegt, und die erste Schlussrede für gut und christlich gesetzt, auch die, die so widerstreitend kämpfen, verstanden.  
 
-Accordingly all learned and unlearned, spiritual and worldly, ... according to order, as the preface states.  
-Briefly set aside, the ... are openly found and the first closing speech is placed for good and Christian purpose, also those who ... understand the contrary.  
+Doctor Johannes Huischyn  
+von Nachlass der Präsidenten.  
 
-Doctor Johannes Huischyn, by the leave of the Presidents.  
-
-Often many are those who consider us as apostates from the holy Christian community, which we regard as the most grievous, that a writing may be ...  
-Therefore with a short ... answer. It stands to every Christian in his life ... as it will be answered on the last day ... and greater ... to show that the ... of God ... the ... of man: then where we ... the man ... we will not be ... Christ. Now there is another ... of God ... and another ... of man ... around perceived ... all ... we are in the church that ... Christ ... and not ... the mixed churches ... as we through all prophets ... in Scripture find ... the ... of God ... a holy ... is taken ... by the way of the ...
+Manchmal werden wir als Abtrünnige von der heiligen christlichen Gemeinde angesehen, die wir achten für das allergrößte Wohl, oft das, was einem Schriftstück offensteht. Hiermit mit kurzem, begreiflichem Zeitantworten. Es steht jedem Christen zu, sein Leben demnach zu richten, wie es am jüngsten Tag vertraut wird, und größere Dinge zu zeigen, dass das wahre Gottes‑ und Menschen‑Wort dort, wo wir den Menschen gefallen wollen, nicht ewig Christi ist. Nun ist ein anderer Wille Gottes und ein anderer Wille der Menschen um uns alle gepachtet, ein offenes Zeichen, dass wir sind in der Kirche, die von Christus erwählt und nicht schuldig ist, die vermischten Kirchen, wie wir durch alle Propheten und Schriften finden, das Gotteswerk, das heilig ist, von den Wegen der Unwürdigen.  

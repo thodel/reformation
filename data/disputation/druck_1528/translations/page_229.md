@@ -1,6 +1,14 @@
-Seite 107  
-**Schlußred. Zwinglij**  
+Seite 107  
+**Schlußrede. Zwingli**  
 
-**A**s my dear brother means/it says here that the flesh in the bread/being eaten/in the night‑meal is promised and explained with the words/or murmurs of the Jews/serves us no longer/without his opinion: then before the same words/when the Jews murmured/Christ presented himself with many words, that he was the living bread/that he had come down from heaven/which would be a different bread than that which Moses would have given. So now the Jews, not understanding how he meant that it is, as if he were a bread or a spittle, thus he says with the words “off” and then speaks: “That, however, is the will of the Father who has sent me, that all that he gives me I must not lose, but keep by the living in the last time.” Now Christ, however, makes it clearer “off”, what he means with the giving, what the Father gives. And he thus says: “That is the will of the One who has sent me, that everyone who recognizes the Son and trusts in him may have eternal life, and that I keep him by the living until the last time.” When Christ in the preceding words has added so much to himself, that he makes himself a door‑bread, which Moses would not have given: also a door he makes, that was to him a lie, he would have eternal life; the Jews murmured not only that he makes himself a bread, but also that he makes himself a comfort. Thus he continues with the following words, where it stands thus: Then the Jews murmured about his will, that he had said: “I am the bread that has come from heaven,” and speaking: “Is not Jesus the Son of Joseph, of the father and mother we recognize in which words we …”  
+Als mein lieber Bruder sagt, hier sei das Fleisch im Brot, das beim Abendmahl verheißen sei, und erklärt es mit den Worten, die die Juden murmeln, die uns dienen, nicht nach seiner Meinung:  
+dann, mit denselben Worten, da die Juden murmeln, hat Christus sich mit vielen Worten dargeboten, dass er das lebendige Brot sei, das vom Himmel herabgekommen sei, ein Brot, das ein anderes Brot sei, das Moses gegeben hätte.  
+
+Nun verstehen die Juden nicht, was er meint; sie denken, es sei ein Brot oder ein Trank. Darauf spricht er mit den Worten: „Das ist aber der Wille des Vaters, der mich gesandt hat; das alles, was er mir gibt, ich werde es nicht verlieren, sondern es bis zum Ende behalten.“ Jetzt spricht Christus jedoch klarer: „Was ich meine, ist das, was der Vater gibt.“ Und er spricht weiter: „Das ist der Wille dessen, der mich gesandt hat; jeder, der den Sohn erkennt, wird ewig leben, und ich werde das Leben bis zum letzten Augenblick bewahren.“  
+
+Als Christus in den vorherigen Worten so viel hinzufügte, dass er sich selbst zu einem wahren Brot machte, das Moses nicht geben konnte, machte er sich ebenfalls zu einem wahren Brot; das war für ihn ein ewiges Leben. Die Juden haben nicht nur gemurmelt, dass er sich selbst zu einem Brot macht, sondern auch, dass er sich selbst zu einer Tröstung macht.  
+
+Er fuhr fort mit den nachfolgenden Worten, die er sagte:  
+„Da murmeln die Juden um ihren Willen, dass er gesprochen hat: Ich bin das Brot, das vom Himmel gekommen ist.“ Und er sprach weiter: „Ist nicht Jesus, der Sohn Josephs, des Vaters und der Mutter, den wir erkennen in den Worten, die wir …“  
 
 **So iij**

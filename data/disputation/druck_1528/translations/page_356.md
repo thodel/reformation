@@ -1,13 +1,11 @@
 Seite [X]  
-The fifth … sufficiently performed on the Cross / where else we are in doubt.  
-Which now looks / that Christ has released us / or thinks / that he has not released us even once / or that he has not released us at all / how we should be released / he makes Christ into an unworthy priest and redeemer / and thus discredits them. This now describes throughout / that Christ from a new offering … / then they deny / that we through the doubt / to the perfect direction of our Lord Jesus Christ become holy / and give salvation to the works / contrary to the measure / against clear Scripture: also set the measure under the best works / as they are now used / though the priests are the most corrupt / they also want co‑priests / with helpers / and co‑redeemers: so that the honor of God / the unspeakable treasure of Christ’s suffering is concealed / and becomes most despised.  
+Die fünffte  
 
-We shall now see and experience / from the first institution of the Lord’s Supper / that they take the measure / whether Christ there was offered / or offered himself to be sacrificed / then, however, / we must measure word for word / thus Christ appears as a common memory for all Christians / of the one offered sacrifice on the Cross in his Supper offered.  
+Genug getan am Kreuz, wo anders wir im Vertrauen.  
+Welcher nun legt, dass Christus uns erlöst hat, oder meint, dass er uns nicht auf einmal erlöst hat, oder dass er uns nicht auf alle Weise erlöst hat, wie wir erlöst werden sollen, der macht Christus zu einem unvergleichlichen Priester und Erlöser und verleugnet also seinen. Das beschreibt nun durch alle, dass Christus von neuem aufopfern zu wollen, dann sie verneinen, dass wir durch das Vertrauen auf die vollkommene Ausrichtung unseres Herrn Jesu Christi selig werden und das Heil den Werken geben, nach dem Maß, wider klare Schrift: setzen auch das Maß unter die besten Werke, wie sie jetzt gebraucht werden, ob schon die Priester die allerbösten sind, sie wollen auch Mitpriester, mit Helfern, mit Erlöser sein, damit die Ehre Gottes, der unaussprechlich hohe Schatz des Leidens Christi, verschoben wird und auf das höchst verschmäht wird.  
 
-He says: While eating / he says not to offer / give thanks / he says not to offer / to give the young men food he says not to offer.  
+Das werden wir nun sehen und erfahren, vom ersten Einsatz des Herren‑Nachtmahls, dass sie das Maß nehmen, ob Christus da geopfert hat oder sich zu opfern befohlen wurde, dann, so wir allerdings von Wort zu Wort ermessen, erfindet sich Christus als gemeine Gedächtnis aller Christen, der ein einziges Opfer am Kreuz in seinem Nachtmahl befohlen hat. Er spricht: Nehmt essend, das heißt nicht opfern, dankt, das heißt nicht opfern, den Jüngern geben zu essen, das heißt nicht opfern. Solches tun zu gedenken und verkünde den Tod des Herrn, das heißt nicht opfern.  
 
-Thus they should remember / and proclaim the death of the Lord / he says not to offer.  
+Glaubend, dass Christus sein Leben für uns im Tod gegeben hat und sein Blut vergossen zu Vergebung der Sünde (nicht im Nachtmahl, sondern am Kreuz) heißt nicht opfern.  
 
-Believing that Christ’s body was given for us in death / and his blood poured out for the forgiveness of sins (not in the Supper / but on the Cross) he says not to offer.  
-
-To the Lord’s Supper we come / that we may bear witness to our faith / and offer our brotherly love / as members of the life of Christ.
+Zum Nachtmahl des Herrn kommen wir, dass wir unseren Glauben bezeugen und uns brüderlicher Liebe darbringen als Mitglieder des Lebens Christi.

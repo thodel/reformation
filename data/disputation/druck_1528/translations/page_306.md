@@ -1,27 +1,9 @@
 Seite [V.ZO]  
-**The fourth**  
-between me. zc. There is a Testament or pound/ges  
-nempt a small piece of the pound.  
+**Die vierdt**  
+Zwischen mir. Zu. Da ist ein Testament oder Pfund, ein Zeichen des Pfundes.  
 
 **Pfarrer von Sant Gallen.**  
-Upon the explanation of my lord Doctor’s  
-about the word of the cup I answer the first  
-that the word  
-thereof should be referred  
-to the preceding word; I do not understand  
-it, then the word thus:  
-Drinking all thereof,  
-that is my fruit. So he has not hidden the leymine or hultzine book drinking,  
-except that he has spoken and presented it: Drinking all thereof.  
-What else should they have drunk,  
-then he commanded them:  
-What else has he presented,  
-then so the word is concealed.  
-That is my fruit:  
+Von der Erklärung meines Herrn Doktors über das Wort des Kelches antworte ich auf das Erste, das Wort. Darauf soll es referiert werden; von dem vorherigen Wort habe ich nichts verstanden, dann das Wort also: Trinkend alles daraus, das ist mein Blut. So hat er es nicht geheißen, den lehmigen oder hölzernen Bächer zu trinken, sondern das, wie er geredet hat und uns dargebracht: Trinkend alles daraus. Was hätten sie anders trinken sollen, nachdem er uns geboten hat: Was hat er uns anders dargebracht, dann so die Worte verwechseln. Das ist mein Blut:  
 
 **Œcolampadius.**  
-It is wretched that one calls the Relation, that is the contrary “wortzlin”,  
-upon the preceding right should therefore the “wortzlin” (thereof) be a universal word, where it did not go to the preceding word, namely the cup; then it does not stand:  
-He has taken the fruit; indeed wretched that wine was in the cup and is not laid upon it; that the Evangelist already named the cup: one does not speak, “Drink the cup” or “Drink the book”, except: “Drink from the cup”.  
-Indeed good to cherish through second, when one also already speaks of the cup, that one may understand it, that it is understood thereby. As Paul says: The cup is the new Testament. Therefore his word is not drinking.  
-From
+Es ist wünschenswert, dass man die Relation, das ist die widerwärtige Wortlinie, von dem vorherigen richten soll; darum ist die Wortlinie (darauf) ein unverzichtbares Wort, wo es nicht ging von dem vorherigen Wort, nämlich dem Kelch; dann steht es nicht: Er hat das Blut genommen; es ist wohl wünschenswert, dass der Wein im Kelch gewesen ist und nicht daran liegt, dass der Evangelist den Kelch bereits genannt hat: man sagt nicht „Trink den Kelch“ oder „Trink den Bächer“, sondern „Trinkt vom Kelch“. Es ist gut zu verstehen durch die zweite, wenn man auch vom Kelch schon spricht, dass man damit verstehen kann, was dadurch verstanden wird. Wie Paulus sagt: Der Kelch ist das neue Testament; darum ist sein Wort nicht trinkend. Vß das

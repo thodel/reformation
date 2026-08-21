@@ -1,12 +1,12 @@
 Seite [XCV]
 
-**Schlußred.**  
-The baptism taken to oneself becomes sin, so that he has previously done no harm; but where a man, after baptism, falls into a chief sin, he must turn to God with prayer, penitence, or good works; otherwise he will receive according to his deeds; in him the death of Christ is of no benefit, as he remains in chief sins.
+**Schlußrede.**  
+Dem Tauf an sich genommen wurden im Sünde, so er vorher getan hat keinen Schaden; wo aber der Mensch nach dem Tauf in Hauptsünde fällt, muss er sich gegen Gott mit Bitt, Reue oder guten Werken versöhnen; sonst wird ihm nach seinen Werken gegeben; und wenn der Tod Christi nicht mehr nützlich ist, der in Hauptsünden verharret.
 
 **Martinus Butzer.**  
-As I have eternal life, in him also your sin finally (as I have said) may cause harm; Christ himself has spoken; not the less must be accounted; works will be given for every useless word and for what is unjust: but in the reckoning Christ the sin, as Paul clearly says to the Romans in chapter VIII, represents, and through his spirit they finally become wholly devout, making themselves like him; those who, after their good works—which indeed become the Lord’s and not their own—receive the eternal life, it will be completely bestowed.
+Da ich ewig leben habe, in ihm also deine Sünde endlich (wie ich gesagt habe) schaden möge, hat Christus selbst gesprochen; nicht desto weniger muss Rechnung geschaffen werden für jedes unnütze Wort und für das, was Unrecht ist: aber in dieser Rechnung wird Christus die Sünde vertreten, wie Paulus zu den Römern im achten Kapitel klar sagt; und durch seinen Geist wird er schließlich ganz fromm in ihm selbst gleich werden, die nach ihren guten Werken handeln, die doch des Herrn sein werden und nicht ihr eigen; das ewige Leben wird vollkommen zugestellt.
 
 **Büchstab**  
-As our work, according to the reception of baptism, proceeds from the faith, it is commendable; it is found both in the old and the new Testament, as Christ says in Matthew, chapter V: “He who does the will of my heavenly Father shall go into the kingdom of heaven.” The act at v. V has the petition for the sake of good works, which they have performed; the merit of sancto Petro, mercifully, is refreshed by the death.
+Da unser Werk, nach Empfang der Taufe, über dem Glauben geschehen soll, ist es verdienstlich; es wird menschlich im Alten und im Neuen Testament erfunden, wie Christus spricht (Matthäus …): Wer den Willen meines himmlischen Vaters tut, der wird in das Reich der Himmel eingehen. Aktuell hat er um der guten Werke willen, die er getan hat, den Segen des heiligen Petrus erlangt, barmherzig durch den Tod erquickt werden.
 
 Zia iij

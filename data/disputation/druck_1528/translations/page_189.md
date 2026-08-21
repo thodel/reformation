@@ -1,9 +1,7 @@
-Seite LXXXVII  
+Seite LXXXVII  
 Schlußred.  
-Martinus Bucer.  
-[D] The saying of John at v vj. I have it at 83. I still have much to say. It was answered earlier and on page 84. I refer this to the Acts. Now those doctrines, half however, which he brings as a church doctrine concerning the difference of the days and … we say that such are the devil’s doctrine; the whole saying is to Timothy, chapter iiij. Now however he further brings the saying at v ca. to Timothy of the Epistle: they are sinning / strict before … So it is also explained in the previous answer, at 21 and 22. Namely, that according to the order of Christ, Matthew at xviii, the discipline of the Christian community should be seriously kept. Yet besides all this it is not yet certain that the word Christian community can make a single covenant, that certain bonds should be made, and yet in the word of God there is no clear foundation. Thus at 74 it is indeed and yesterday repeatedly answered, see 76, 78, 79, and the Acts, page 81.  
+Martinus Bucer.  
+[D] Es spricht der halbe Johannes im … Ich habe noch viel zu sagen. Zuvor wurde darauf geantwortet (vgl. Blatt 84). Ich beziehe mich darauf in den Acta. Nun, die von ihm vorgebrachten Satzungen, die er als Kirchensatzungen bezeichnet, unterscheiden sich von den Tagesordnungen. Wir sagen, dass solche Satzungen des Tuffels (vgl. den ganzen Spruch) sind, gemäß dem Spruch zum Timotheus, Kapitel IV. Nun aber hat er weiter den Spruch zum Timotheus, Kapitel IV, aus der Epistel zitiert: „Sie sind sündig, streng vor …“. So ist es auch in den vorherigen Antworten überflüssig erklärt, am 21. und 22., nämlich dass nach der Ordnung Christi (Matthäus XVIII) die Strafen der christlichen Gemeinde ernsthaft gehalten werden sollen. Trotzdem ist noch nicht gesichert, dass das Wort „christliche Gemeinde“ ein einheitliches Gebot bilden kann, das das Gewissen bindet, und doch im göttlichen Wort keinen klaren Grund hat. So ist am 74. noch einmal und gestern mehrfach verantwortet (vgl. Blätter 76, 78, 79) und in den Acta (Blatt 81).  
 
-Bichtuatter  
-[D] When the saying of John at v vj, I have still much to say, it is sufficiently answered; I do not understand that. And as it is said, that the difference of the days … is the devil’s doctrine; it brings forth the saying of Paul to Timothy, chapter iiij. In answer I say that the same saying does not speak of the Christian Church, as the text clearly shows, which says: The spirit, however, speaks openly. Thus it is from the holy Christian Church: …  
-
-y iij
+Bichtuatter.  
+[D] Als der Spruch Johannes … ich habe noch viel zu sagen, ist genügsam beantwortet worden, das … ich nicht … Und man sagt, dass der Unterschied der Tage … die Satzung des Tuffels sei … und dass er den Spruch Paulus zu Timotheus, Kapitel IV, bringt. Ich antworte, dass derselbe Spruch nicht …

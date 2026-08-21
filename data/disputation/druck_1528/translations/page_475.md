@@ -1,7 +1,13 @@
-Page CCXXX  
-Conclusion +  
-to give, so that one has spoken with people and offered … (Datthei at chapter xv. Therefore, all the vows that are made by people … as soon as faith comes. Here one must not misunderstand that we certainly … proverb … concealment … the worldly hand … prevent breaking … sundry we speak only of the vows that one has vowed … the spiritual … that the conscience should … find. This … to Timothy … is drawn … from the widow who had broken the first faith: has the mind … that by the church … alone old … completely … widows were contained … as the above sixty years were … also young widows … understanding … If so they came into the abstention of the churches, the young would have invented some … the unchastities … perverted the abstention with some impurity. If so, that is the cause; they sought flight: (Indeed it is safer, I …)  
+Seite CCXXX  
+Schlußrede +
 
-… so that Paul, at the thicker occasion, had … therefore he warns the churches … and says: (Then they should not be taken into the subordination of the churches: then they having in a breach … as first said … they would go with willingness … and then become real … and having, however, broken the first faith … that is … they have unchastened … or lived immorally … and if they have asked after the … they also came to the sight of the church … as the completely abandoned widow … yet they are not … I have thus committed fraud.  
+geben / so sagt man jedem Menschen und befiehlt / ver‑  
+eret / (Dathei im XV. Kapitel. Darum fällt es allen / die gelobt haben / die von den Menschen verfasst sind / so bald der Glaube kommt. Hierbei soll man nicht verstehen, / dass wir eindeutig treu / Verspruch / Verzerrung / Verurteilung der weltlichen Hand / vermeiden zu brechen / sondern wir reden allein von den Gelöbnissen, / die man gelobt hat, / der geistlichen Nempt / die das Gewissen treffen sollen.  
 
-Thus it is Paul … breaking the first faith … here the vow is thought of as useful: then in the taking of the widows … all occasions are shown … that serve the same order. But Paul does not learn therein … that one … (Omm ij)
+Das / J. zum Timotheus am / V. ist angezogen / von den Witwen, / die den ersten Glauben gebrochen hätten: / hat den Sinn / das bei der Kirche / da allein alte, ganz verlassene Witwen enthalten wurden, / als die über sechzig Jahre waren. / Zc. sich auch junge Witwen / unterstützend zu weiden / wenn sie in die Enthaltung der Kirche kamen / würden den jungen etliche erfunden, / die Unküschen / oder verschürten die Enthaltung / mit etwas Unzucht. / Wenn so das Beschädigte / suchten sie die Flucht: / Eya, es ist gefährlich / ich nenne einen Mann. So dass Paulus zum dickeren Mal geschehen hatte / so war er die Kirche / und spricht / (Dann sollen sie nicht in die Unterhaltung der Kirche genommen werden: / dann haben sie in einem Bruch, / wie erst gesagt ist, / sie sich ver­  
+gingen mit Müßwillen / und wollen sich dann ver­  
+ehelichen / und haben aber den ersten Glauben gebrochen. / Das ist / sie haben un­  
+küschen / oder über­  
+richtig gelebt / und wenn sie danach gefragt haben. / Sie sind auch des Ansehens zur   
+Kirche gekommen / sam sie der ganz verlassenen Witwe gewesen / da doch sie nicht gewesen / und habe also Betrug getan. / Das ist also Paulus / den ersten Glauben brechen / und wird hier des Gelübdes Nutzen gedacht: / dann in dem   
+Nehmen der Witwen / werden alle Gelegenheiten angezeigt, / die zur selben Ordnung dienen. / Aber Paulus lehrt dabei nicht, / dass man …

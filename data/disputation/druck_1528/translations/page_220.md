@@ -1,28 +1,11 @@
-Seite [IIJ]
+Seite [IIJ]
 
-The fourth  
-Master Franz Kolb has opened the fourth  
-concluding speech and the ground of the same,  
-as follows.
+Die vierte
 
-I ask you, dear  
-friends of God, earnestly for God’s  
-will, that you do not  
-let this concluding speech  
-disturb you, nor  
-bring any trouble upon yourselves,  
-or that we have a desire  
-to bring something unheard of,  
-except the great  
-misdeeds sent … so in the true  
-understanding of the divine word,  
-urgently and striving, this concluding speech therefore to acknowledge,  
-as it then truly is, namely:
+Hat Meister Franz Kolb die vierte Schlussrede und den Grund derselben eröffnet, wie hiernach folgt.
 
-That the body and blood of Christ are truly  
-and truly received in the bread of thanksgiving,  
-may not be brought with biblical  
-scripture.
+Ich bitte euch, liebe Gottesfreunde, ernstlich um Gottes Willen, dass ihr euch an die nachfolgende Schlussrede nicht weiter ärgert, kein Schüchternes empfangt oder uns dafür achtet, dass wir einen Lohn haben, das, was ungehorchen zu bringen vermag. Stattdessen sollen die großen ungeschickten Missbräuche in das wahre Verständnis des göttlichen Wortes uns zwingend und trinkend diese Schlussrede also zu bekennen, wie sie dann lutherisch lautet:
 
-I prove this with pure scripture,  
-namely John … chapter … The flesh is merely useless (understood); therefore Christ …
+Dass Leib und Blut Christi wesentlich und lebendig im Brot der Danksagung empfangen werden, darf nicht mit biblischer Schrift begründet werden.
+
+Das beweise ich mit lutherischer Schrift, nämlich Johannes Kapitel …

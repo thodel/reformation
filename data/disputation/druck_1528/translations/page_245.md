@@ -1,14 +1,11 @@
 Seite CXV  
 Schlußred.  
+zu den Worten der Einsetzung des Abendmahls des Herrn, wie in den Akten verfasst: so nun diese Schlussrede meiner Herren von Brüdern der Predigenden in Ordnung, die vierte verfasst, möge den Leib und das Blut Christi nicht wesentlich und leiblich im Brot der Danksagung empfangen werden. Dagegen, wie ich zuvor mit biblischer Schrift, beiden Testamenten, dargelegt habe, möchte ich anmerken: zunächst zu einer Bewährung nehme ich für mich das Wort aus Matthäus Kapitel 26:  
 
-Concerning the words of the institution of the Lord’s Supper as set forth in the Acts: now this concluding address of my lord and brothers who preach in order the fourth, the body and the blood of Christ, truly and fittingly in the bread of thanksgiving may be received.  
+Wie es im Abendmahl geschieht: Jesus nahm das Brot, dankte, brach es und gab es seinen Jüngern und sagte: „Nehmt und esst, das ist mein Leib.“ Ebenso nahm er den Kelch, dankte und gab ihn und sprach: „Trinkt alle daraus, das ist mein Blut des neuen Testaments, das für viele vergossen wird zur Vergebung der Sünde.“  
 
-Against this, as before, likewise with biblical writing, both Testaments may be brought forward: first, to a certain proof, I for myself take the words of Matt. xxvi, chapter 26, thus:  
+Dasselbe lehrt der heilige Paulus in seinem ersten Brief an die Korinther, Kapitel 11: Der Herr Jesus nahm in der Nacht, in der er verraten wurde, das Brot, dankte, brach es und sagte: „Nehmt und esst, das ist mein Leib, der für euch gegeben wird, damit ihr an mein Gedächtnis handelt.“ Ebenso sprach er vom Kelch, nachdem er das Mahl beendet hatte: „Das ist der Kelch, das neue Testament in meinem Blut; das sollt ihr tun, so oft ihr daraus trinkt, zu meinem Gedächtnis.“  
 
-Having taken the evening meal, Jesus took the bread, gave thanks, broke it, and gave it to his disciples, saying, “Take and eat; this is my body.” Likewise he took the cup, gave thanks, and gave it to them, saying, “Drink all of it; this is my blood of the new Testament, which will be poured out for many to the forgiveness of sins.”  
+Aus welchen Schriften wir ableiten, dass Leib und Blut Christi im Brot der Danksagung leiblich und wesentlich empfangen werden.  
 
-The same is found in the holy Paul in the first Epistle to the Corinthians, chapter 11:  
-
-The Lord Jesus, in the night when he was betrayed, having taken the bread, gave thanks, broke it, and said, “Take and eat; this is my body which is given for you; this is done in my remembrance.” Likewise the cup, after he had taken it at night, he said, “This is the cup of the new Testament in my blood; this shall be done, so often shall it be drunk, in my remembrance.”  
-
-By which we mean the writings that lead us, we intend the body and the blood of Christ to be received in the bread of thanksgiving truly and fittingly.  
+ff iij

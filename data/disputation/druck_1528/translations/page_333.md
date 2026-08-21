@@ -1,15 +1,11 @@
-Page CLIX  
+Schlußrede. CLIX  
 
-Closing speech CLIX  
+Zwei andere Artikel werden hierher gebracht. Darum haben wir uns kurzlich für die gezogene Antwort entschieden und dem Leser bezeugt: allein weil wir an Christus Jesus glauben, gemäß dem Artikel des Glaubens. Er ist übernatürlich empfangen, übernatürlich von der Mutter geboren; also ist alles so zu verantworten. Wir bezeugen die Allmächtigkeit Gottes; dagegen lässt sich nicht reden noch handeln, auch mehrfach bezogen.  
 
-Two other articles are to be brought forward. Therefore we have shortly decided on the drawn‑out answer and to burden the reader: then only because we believe in Christ Jesus, the article of faith. As he is supernaturally received, supernaturally born of the mother, thus all such things are to be accounted for, burdening the Almighty God; nevertheless He does not become divided nor is He to be handled, also repeatedly bound hand.  
+Auf den anderen Artikel des Glaubens, der lautet: Er sitzt im gerechten Sinn des himmlischen Vaters; wir können das nicht anders verstehen, dass er nach der Gottheit, dem gleichen Wesen, Gewalt und Herrlichkeit völlig gesinnt ist und bleibt. So soll es verstanden werden, dass das rechte Sitzen nach der Menschheit erfolgt; dann ist nach der Gottheit alles unterworfen (Psalm 8).  
 
-Of the other article of faith, which there says: He sits at the righteous seat of the heavenly Father; we cannot understand it otherwise, because he after the divinity, equal being, violence and glory, all ... so that it may be understood, to the rightful seat according to humanity: then everything is subjected to the divinity (Psalm VIII).  
+So steht es geschrieben (Johannes 17): „Ich habe dich, Vater, von der Erde erklärt. Ich habe das Werk vollbracht, das du mir gegeben hast, das ich tun soll. Jetzt erklärst du mich bei dir selbst mit der Klarheit, die ich bei dir habe, und die Welt wurde.“ Auch die Gestalt zu den Hebräern im ersten Kapitel: Du hast ein wenig gemindert, ein wenig unter die Engel, dergleichen auch, als er zu den verschlossenen Türen und zum Grab ging, alles erzeigte und prüfte – die unverständliche Vereinigung der göttlichen Natur mit dem menschlichen Wesen.  
 
-As it is written in John XVII: “I have declared you, Father, over the earth; I have accomplished the work which you have given me, that I should do.” Now you glorify me by yourself, with the clarity which I have grasped by you, and the world was.  
+So wurde nun zuvor durch meinen Herrn Butzer eingeführt: Er sei die Menschheit, von uns genommen, in die unsichtbare Herrlichkeit Gottes. Diese Herrlichkeit Gottes erfüllt Himmel und Erde; so gibt es keinen anderen Ort für die gerechte Gottheit. Auf all das, wo der Leib Christi an einem besonderen Ort sein müsste, möge er Theophorus genannt werden.  
 
-The doctrine also to the Hebrews in chapter 11. You have diminished a little among the angels, likewise as he entered the closed doors and beyond the grave, he has raised all and proved the incomprehensible union of the divine nature with the human being.  
-
-So now, as previously introduced by my lord Butzer, it is: He is humanity after being taken into the invisible glory of God, which glory of God fills heaven and earth; thus the righteous God has no other place.  
-
-Of all this, where the body of Christ thus must be at a special place, he may be called Theophorus.
+R ii

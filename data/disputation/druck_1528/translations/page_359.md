@@ -1,23 +1,28 @@
-Seite CLXXII  
-Schlußred. CLXXII  
+Seite CLXXII  
+Schlußrede CLXXII  
 
-all day the Sacrament is handled.  
-Zum fünfften. That the Mass, given by God as the priests claim, is good for the living and the dead, yet the judgment of God does not fall upon the institution of Christ, but rather upon the one who uses it unworthily.  
+Alltag die Sakramente handhaben.  
 
-Zum sechßten. The costly and splendid Mass, clothed in gold and silver, the samite, which is contrary to belief; therefore the service therein is sought, and the love that ought to be given to the poor is withdrawn.  
+Zum fünften.  
+Dass die Messe, Gott gebe, wie der Pfaffe (Allweg) gut sei, den Lebenden und den Toten heilbringend, jedoch das Gericht Gottes nicht über die Einsetzung Christi kommt, sondern über den, der sie unnötig gebraucht.  
 
-Zum sibenden. That the priests with the Mass commonly serve neither God nor the world in vain, but rather much more for the presence of the clergy, also give something. I protect the many of the clergy, so that the widows’ houses are feared.  
+Zum sechsten.  
+Die kostbare Messekleidung aus Gold, Silber und Samt, die dem Glauben widerspricht; deshalb wird der Dienst darin gesucht und die Liebe, wodurch den Armen solch etwas abgezogen wird.  
 
-Nun ist der Gott ein ware Abgöttery; es mag auch hierin kein Exempel aus der Schrift gebracht werden.  
+Zum siebenten.  
+Dass die Pfaffen mit der Messe gemeinlich weder Gott noch der Welt vergeblich dienen, sondern vielmehr um der Präsenz der Pfarren willen; ich schütze die Vile der Pfarren, damit die Witwenhäuser erhalten bleiben.  
 
-Zum achten. That the word of God is prevented, so that the Epistles and Gospels, spoken and read in foreign language, thereby the community of God is not inherited.  
+Zum achten.  
+Dass das Wort Gottes verhindert wird, indem die Episteln und Evangelien in fremder Sprache gesungen und gelesen werden, wodurch die Gemeinde Gottes nicht erbaut wird. Das steht im Widerspruch zu Paulus’ Aussage in Römer 15 und in 1 Korinther 4.  
 
-Welches richtig wider den Spruch Pauli ist, zu Römern am xv. und zu Korinthern in der ersten Epist. am xiv. Cap.  
+Zum neunten.  
+Auch die Danksagung und das Gebet, das Wort Gottes zu verkünden und zu hören, wird durch die vielen Zeremonien verhindert, und das Gemüt wird zerrüttet.  
 
-Zum nünden. It will also proclaim the thanksgiving, the prayer, and hear the word of God, with many of the ceremonies prevented, and the mind is destroyed.  
+Zum zehnten.  
+Dass das Volk, von einer Gestalt, wie man sagt, das Sakrament empfängt, und der Kelch gegen die Einsetzung Christi abgelehnt wird.  
 
-Zum zächenden. That the people under one form, as they say, receive the Sacrament, and the chalice, contrary to the institution of Christ, is struck down.  
+Zum elften.  
+Dass Brot und Kelch aufgehoben und angebetet werden, als wären sie wahrer Gott.  
 
-Zum einlifften. That the bread and the chalice are lifted up and offered, as if they were the true God.  
-
-Zum zwölfften. That Christ, to the worthy and thankful, seems to have been set in death, thereby they will master happiness. Let it be dying.
+Zum zwölften.  
+Dass Christus zur Gerechtigkeit und Dankbarkeit scheint, der Todesschatten eingesetzt, damit sie das Glück meistern. Es sei sterbend.

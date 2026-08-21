@@ -1,13 +1,14 @@
-Seite [X]  
-Die vierdt Schlußred.  
-true scornful words / which I ought to have written on two sheets / may be plainly understood / where he has cast the slanderous words outward.  
-therefore I have written to someone / concerning the highest and most Christian duty demanded / that he may be disposed here; then I would give someone my empty reckoning and answer: I have also been hopeful / he would appear; yet the place is certainly not common, and no other man can say otherwise / then the Disputation (as my dear lord of Bern writes) is held entirely impartially.  
-But his own manuscript has been sent to me here, in which he says as if he had arrived: let it be heard / as if someone had set the time short / he cannot fly, and yet now almost three weeks have passed / my letter has been answered, therefore he could have come without having flown.  
-But it has someone with dear lord and brother / Master Wilhelm long thereafter: about the Disputation demanded, therefore he may not complain about the time.  
-After that he shines in his letter / the Christian Disputation: it is merely Catesch and badly for me much richer for / before which he would dispute with me.  
-If therefore the truth of the writing of the Christian community / of other judges is turned / which indeed the writing entirely contradicts, as has been sufficiently heard in past days.  
-To this he himself formerly disputed before the judge at Basel: now however he wishes to have us a new judge, therefore he has neither writing nor example of the writing.  
-So he is not here, and I cannot act against him / I openly relate before this community of God / that I am humbled at the corner / and may give my empty answer: let him also be preserved with divine writing / where a free, certain place will be determined for me.  
-Hope therefore / all devout, understanding Christians will recognize / that the matter has not astonished me / except that I would / then I would have been guilty / have obtained.  
+Seite [X]  
+Die vierte Schlussrede.  
 
-End der vierdten schlußred.
+Wahrhaftige Schmähworte, die ich achtmal verfasst habe, könnten auf zwei Blättern verständlich werden, wo er die Lästerworte herausgelassen hat. Deshalb habe ich jemandem geschrieben, dass ich die höchste, christliche Pflicht erörtert habe und dass er sich hierher verflucht hat; ich möchte jemandem meine leere Rechnung und Antwort geben: Ich war ebenfalls in der Hoffnung, dass er erscheinen würde, doch der Platz ist sicher und allgemein, und man kann nichts anderes sagen, als dass die Disputation (laut den genügsamen Herren von Bern) völlig unparteiisch gehalten wird.  
+
+Mir ist jedoch seine eigene Handschrift hierher geschickt worden, in der er sich wie ein Harz (ein Wortspiel) äußert: er lasse sich hören, als ob jemand die Zeit kurz angesetzt habe; er könne nicht fliegen, und nun sind fast drei Wochen vergangen, ohne dass jemand auf meinen Brief geantwortet hat. Deshalb hätte er ohne zu fliegen kommen können.  
+
+Ein lieber Herr und Bruder, Meister Wilhelm, hat daraufhin die Disputation erörtert; deshalb kann er die Zeit nicht beklagen. In seinem Brief schließt er die christliche Disputation mit den Worten, sie sei kätzerisch und schlecht, und er wolle mit mir darüber disputieren. Er will also das Gegenteil der Schrift der christlichen Gemeinde von anderen Richtern wenden, obwohl dies der Schrift völlig widerspricht, wie in vergangenen Tagen ausreichend gehört wurde.  
+
+Dazu hat er selbst zuvor vor einem Richter in Baden disputiert; jetzt aber will er uns unverändert Richter haben, weshalb er weder Schrift noch Beispiel einer Schrift vorlegt. Da er nun nicht hier ist und ich gegen ihn nicht handeln kann, beziehe ich mich offen vor dieser Gemeinde Gottes und erkläre, dass ich bereit bin, dem Eck und meinem eigenen leeren Antwort zu geben. Ich weiß, dass er mit göttlicher Schrift zu erhalten ist, wo mir ein freier, sicherer Platz bestimmt wird.  
+
+Ich hoffe, dass alle frommen, verständigen Christen erkennen werden, dass die Sache an mir nicht verletzt hat, sondern dass ich, wenn ich schuldig gewesen wäre, nichts erhalten hätte.  
+
+End der vierten Schlussrede.

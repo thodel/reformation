@@ -1,13 +1,6 @@
 Seite [LXXIII]  
-Schlußred. LXXIII  
+Schlußrede LXXIII  
 
-Except or concerning the word of God we are forbidden by Christ;  
-Matthei am xv. and also by God. Ezra am xxix. says the Lord thus.  
-Therefore the people draw near to me, insult me with their mouth and lips,  
-and yet their hearts are far from me; they now fear the command of men and empty learning;  
-therefore I will no longer marvel at this people, marvelously in the settlement  
-that the wisdom of their clamor goes to the ground, that the understanding of their understanding becomes ground.  
-These are the words of the Lord, which in the present time are shown before the eyes,  
-as they, so men, gladly reject the sayings, so misunderstand the word of God, burning;  
-the will now God the Lord does not want, that we should serve him according to our good intention.  
-Deuteronomij am xij. yes, that we highly esteem a grave before God is. Luc. am xvj. So can any yet a pious Christ measure, from which church or congregation the seers…
+Sondern/oder an das Wort Gottes sind uns von Christus verboten, Matthäus am 15. und auch von Gott. Es heißt am 29., sagt der Herr also. Darum, dass sich das Volk zu mir nähert, mich mit seinem Mund und seinen Lippen lobt, und doch sein Herz weit von mir entfernt ist, mich nun mit Menschengebot und leerer Furcht belegt, deshalb werde ich mehr Wunder mit diesem Volk beginnen, wunderbar und seltsam, dass die Weisheit seiner Klugheit zu Grunde geht, dass der Verstand seiner Vernunft zu Boden fällt. Das sind die Worte des Herrn, die sich in gegenwärtiger Zeit vor Augen zeigen, wie die Menschen gern Sätze entbehren, so unverstanden am Wort Gottes abreißen, die wollen …  
+
+Nun Gott, der Herr, will nicht, dass wir ihm entgegen mit dienen nach unserem Gutbedenken. Deuteronomium 12. Ja, so dass wir hoch achten, ein Gräuel vor Gott ist. Lukas 16. So kann man, mag ein echter frommer Christ messen, von welcher Kirche oder Versammlung die Sehen …

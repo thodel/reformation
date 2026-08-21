@@ -1,19 +1,4 @@
-Seite 78r  
-Die sibend  
+Seite 78r  
+Die Sibende  
 
-No less must his sin be paid and punished  
-become, then his Son must die for it, because of  
-the sin of the father. As the prophet spoke: The Lord  
-has laid your sin upon another. Now I see, God  
-willingly, the guilt is remitted, and then a punishment  
-follows thereafter. cf. As much as Christ has  
-enough done for us, for the sin of the whole world, yet some  
-are condemned. cf. He has also taken the original sin,  
-still one must baptize the children, or they will not be  
-saved, so that they receive no baptism. He has taken all  
-illness and pain away, no less we become  
-sick and must endure death: and as much as he has  
-done through his mercy, nevertheless his justice  
-requires that we do, as much as is  
-necessary for us. Be  
-zůget
+Nützlich minder muss seine Sünde bezahlt und bestraft werden; dann muss sein Sohn darum sterben um die Sünde des Vaters. Als der Prophet sprach: „Der Herr hat deine Sünde auf einen anderen gelegt.“ Da sieht Gott bei Willen die Schuld nachlassen, und danach folgt dennoch eine Strafe. Wie Christus genug für uns getan hat für die Sünde der ganzen Welt, doch werden einige verdammt. Er hat auch die Erbsünde genommen; doch man muss die Kinder taufen, sonst werden sie nicht selig, wenn sie keine Taufe empfangen. Er hat alle Krankheit und Schmerzen genommen; nützlich minder werden wir krank und müssen den Tod erleiden; und wie er genug getan hat durch seine Barmherzigkeit, so fordert doch seine Gerechtigkeit, dass wir tun, was viel an uns ist. Bezüglich des Propheten Joël: i. Kapitel Keren, ihr zu mir in ganzem über unser Herz in Fasten, in Weinen, in Trauer. Deshalb folgt klar, dass in der …

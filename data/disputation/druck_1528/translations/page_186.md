@@ -1,10 +1,11 @@
-Page XXXI  
-The other matter proceeds from the fact that it is governed, which cannot fail; but consequently the statutes of the Christian church, of Christian people, must not be taken up where they are not founded with holy and equal words in Scripture, or understood; that itself will not be invented. Yet Christ our Savior gave the holy Spirit, that He enjoined it in all truth; from this follows that the ordinance of the holy Christianity should be called only a little by men as God or as men, as the word of the prophets, or as St. Euan listed, or as the twelve commandments, or if one already wishes to hear me rightly, the word that God has spoken through them; nevertheless each one, in particular, may no longer be … then the whole common Christianity.  
+Seite XXXI  
 
-Martinus Butzer.  
+Der andere Geist, der von dem regiert wird, der nicht fallen kann, folgt daraus, dass die Satzungen der christlichen Kirche von christlichen Menschen nicht angenommen werden sollen, wo sie nicht mit heiligen, gleichen Worten in der Schrift begründet oder begriffen sind; das selbst wird sich nicht erfinden. So hat Christus, unser Heiland, den heiligen Geist gegeben, dass er ihn in alle Wahrheit eingeleitet hat. Daraus folgt, dass die Satzung der heiligen Christenheit nur wenig Menschen geboten oder Menschen genannt werden soll, wie das Wort der Propheten, das Evangelium, die Zwölf Gebote, oder ob man mich recht verstehen will, das Wort, das Gott durch sie geredet hat. So soll jedoch jeder in seiner Besonderheit nicht mehr die ganze gemeine Christenheit sein.  
 
-So that we may not hold the church, thus says the … (Bichtuatter), what indeed the Christian church is called; we have long explained to us that we are all rightly believers of the church.  
+**Martinus Butzer.**  
 
-Bichtuatter.  
+Damit wir die Kirche nicht verfehlen, so sage ich, die Bischofstochter, was ja doch die christliche Kirche heißt; wir haben uns längst erklärt, dass wir die Kirche alle rechtgläubigen sind.  
 
-So, Lord Marti Butzer asks me what I say, what I understand through the church, what I think, that it has been sufficiently explained to me; that the opposition, the rightly created Christians or believers for the church hold … upon this I give answer that I and my party, all those who are in the holy Christian church through the holy Spirit and through the water and through the word of life are born in God. Now …
+**Bichtuatter.**  
+
+So, Herr Marti Butzer, fragt mich, was ich sage, was ich durch die Kirche verstehe, meint, mir sei gnädig vor erklärt, dass die Widerpartei, die rechtgeschaffenen Christen oder Gläubigen für die Kirche hält, darauf gebe ich Antwort: dass ich und meine Partei, alle die in der heiligen christlichen Kirche durch den heiligen Geist und durch das Wasser und durch das Wort des Lebens in Gott geboren sind. Nun so …

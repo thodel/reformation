@@ -1,17 +1,7 @@
-Seite IIII  
-The first  
-held as heretical condemned, that the Christian community are now the appointed for eternal life.  
-
-So however Paul, with all scripture, to the Romans in the eighth chapter, has written:  
-Whom the Lord has appointed, He also has called, devout and holy.  
-Now it is clear that the Provincial Church has overstepped, that they have set aside the whole word of God, therefore not from necessity, but rather truly humanly to reject.  
-
-But if such [matters] are from councils, I will not give a word; one brings here what one wishes, that it be written, that they may be esteemed, such [something] to protect.  
-
-Moreover, dear Christians, because the Provincial is seriously striving, the invincible saying, the spirit rules all, in the first epistle to the Corinthians in the first chapter, that it must be understood by every Christian, because no one's Christ is, who does not have his spirit, to the Romans in the eighth chapter.  
-
-There the Provincial, without writing, understood such earthly saying, and that with two questions. The first: So the spirit all Christians must learn, and without the spirit of the Lord, and the proper understanding of the divine word, no faith could be had.  
-
-Why we thus so fluently preach the newly awakened belief. Which question [to] the Christians, whether they are not an open calumny, or [something] should all be divided. It is also known to all Christians that where God does not teach, all preaching is given, yet nevertheless God the Lord has this order, that we may love in unity and the Christians may exist, chosen, that they be among each other without neglect, and should learn.  
-
-Which order of God is clearly through Paul, in the second chapter to the Corinthians, in the first epistle.
+Seite IV  
+Die erste gehalten, als ketzerisch verurteilt, dass die christliche Gemeinde nun die Verordneten zum ewigen Leben sind.  
+So jedoch schreibt Paulus mit aller Schrift zu den Römern im vierten Kapitel: Welcher Herr verordnet hat, den hat er auch berufen, fromm und heilig gemacht. Da ist nun klar, dass die Provinz­kirche sich vermessen hat, das heilige Wort Gottes absetzt, darum nicht von unnötigen, sondern wirklich menschlichen Dingen abstreckt.  
+Aber wenn solche Unred von Konzilien, will ich nun einmal das Wort geben, man bringe ihnen, was man wolle, es sei denn Schrift, die geachtet werden möchte, solche Erde beschützen.  
+Zum anderen, liebe Christen, weil der Provincial gar ernstlich trinkt, den unüberwindlichen Spruch: Der geistlich richtet alles, in der ersten Epistel zu den Korinthern im ersten Kapitel, das von jedem Christen verstanden werden muss, weil niemand Christi ist, der nicht seinen Geist habe, zu den Römern im vierten Kapitel.  
+Da hat der Provincial eine Schrift, solche irdische Sprüche verstanden, und das mit zwei Fragen. Die erste: So muss der Geist alle Christen lehren und den Geist des Herrn und das eigentliche Verständnis des göttlichen Wortes geben; kein Glaube könnte sonst entstehen.  
+Warum wir doch so flüchtig den nun erwachten Glauben predigen. Welche Frage stellen Christen, ob sie nicht ein offenes Calumnia (Verleumdung) sei, und ob wir alle teilen sollen? Es ist auch allen Christen bekannt, dass Gott nicht lehrt, alle Predigten seien gegeben, noch hat Gott, der Herr, diese Ordnung, damit wir mehr lieben und in Einigkeit und im Christentum bestehen, gewählt, dass sie einander nicht vernachlässigen, sondern lernen sollen. Welche Ordnung Gottes ist gar klar durch den Paulus, im zweiten Kapitel zu den Korinthern, in der ersten Epistel.

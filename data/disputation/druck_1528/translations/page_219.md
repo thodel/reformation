@@ -1,12 +1,12 @@
 Seite CII  
 Schlußred.  
-Sünden/has he made us alive with Christ (Then  
-the grace has made us blessed) and has he with him  
-awakened/and set in the heavenly being through Christ/that he may show in the future times/the ever‑changing direction of his grace/with his friendliness  
-over us/through Jesus Christ/then the grace has  
-made us blessed/through faith/and the same not you. It is God’s gift/not from works/that no one should boast/therefore his works have been created through  
-Jesus Christ to good works/to which God has prepared us/that we should walk therein.  
-Here you see clearly and plainly/that God has promised us/with his love and grace/when we were still sinners/where then is our deserved grace with Christ  
-and through Christ/he makes us alive/blessed/awakes us in the heavenly being through faith/and entirely not by works. Moreover God does not wish that we go miserably/and understand all good things/rather that we believe/and God sincerely trusts/that the works of God do not remain/therefore pious Christians/so may you be comforted only by the grace of God/the righteousness and perfect redemption of our Lord Jesus Christ/and recognize all that/that you may be taught/for the sins enough to do/and that the kingdom of God may be served/let it be apples/which water/candle‑burning/yes in a sum/what the like may be/utterly futile/and the treasure of the suffering Christ a consolation/here with him God be praised and honored forever/Amen.  
+
+Die Sünde hat er uns durch Christus läbig gemacht, und dadurch sind wir durch die Gnade selig geworden. Er hat uns mit ihm auferweckt und in das himmlische Wesen gesetzt, damit er uns in den zukünftigen Zeiten die überflüssige Richtung seiner Gnade und seine Freundlichkeit durch Jesus Christus zeigt. Durch diese Gnade sind wir selig geworden, durch den Glauben, und nicht durch uns selbst.  
+
+Es ist Gottes Gabe, nicht durch Werke, dass sich niemand rühmen kann; wir sind sein Werk, geschaffen durch Jesus Christus zu guten Werken, zu denen Gott uns bereits vorbereitet hat, damit wir darin wandeln sollen. Hier sehen wir klar und deutlich, dass Gott uns mit seiner Liebe und Gnade gekommen ist, obwohl wir noch Sünder waren. Wo liegt also unser verdientes Heil durch Christus, der uns läbig, selig und auferweckt hat in das himmlische Wesen durch den Glauben und nicht durch Werke?  
+
+Zum anderen will Gott nicht, dass wir mühselig umherirren und alles Gute vernachlässigen, sondern dass wir glauben und Gott herzlich vertrauen. Die Werke Gottes bleiben nicht verborgen; deshalb trösten fromme Christen euch allein mit der Gnade Gottes, der Gerechtigkeit und der vollkommenen Erlösung unseres Herrn Jesus Christus, und erkennen, dass alles das ist, damit ihr gelehrt seid, genug für die Sünden zu tun und das Reich Gottes zu dienen.  
+
 Cc ij  
-End der drytten Schlußred.
+
+End der dritten Schlußred.

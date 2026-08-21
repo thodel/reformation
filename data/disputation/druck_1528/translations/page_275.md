@@ -1,8 +1,10 @@
-Page CXXX  
-**Closing Speech.**  
+Seite CXXX  
+**Schlussrede.**  
 
-a hand in the glove may be, only that the words remain: taking and eating, that is my body, that he … us … according to the words, to be shared.  
+Eine Hand im Handschuh mag sein, doch einzig die Worte bleiben: Nehmend und essend, das ist mein Leib, den er uns laut den Worten mitgeteilt hat.  
 
 **Zwingli**  
 
-Our brothers I announce: when we no longer believe, nor are we … in the night‑meal, so it is not enough, we let … . Thus he means that one must truly believe that the night‑meal must be brought, a belief promised by Christ Jesus. So he, however, with the dark speech … one must also believe that the flesh and blood of Christ are essentially … or … … we do not … then it was … with the hidden word an eye … . If he should … preserve … for and for … the word … This is my body. Of those however the span is … so he does nothing else … “quam quod petit principium.” Is so much that he should be preserved … that he … with the … that in span … As when one speaks “why hast thou … of the church” and he gave no other answer, because … that I … to the other place … Acts … chapter … That he … he has … for equality … drawn … to one … we … we … but … not … .
+Unseren Brüdern angezeigt: Wenn wir nicht mehr glauben, wird das Abendmahl nicht mehr für uns gelten; das allein ist nicht genug, wir lassen es nach. So meint er, dass man den wahren Glauben zum Abendmahl bringen müsse, den Glauben an Christus, den Sohn Jesu. Wer jedoch mit dunklen Worten behauptet, man müsse auch an das Fleisch und Blut Christi glauben, das wesentlich und leiblich sei, dem widerspreche ich. Wir dürfen nicht zulassen, dass uns durch verborgene Rede ein Auge verwehrt bleibt. Vielmehr soll das Wort bewahrt werden, für und für die Züchtigkeit der Worte; das ist mein Leib. Wer aber den Sinn verkennt, spricht: Warum hast du Gott aus der Kirche verstoßen? Und er gibt keine andere Antwort, weil ich das so sehe. An anderer Stelle, im Kapitel der Akte, heißt es, er habe es aus Gleichheitswillen getan, um zu einer Einigung zu gelangen. Wir haben jedoch nie Einigungen erzielt; das Wort der Schrift soll allein gelten, damit wir es verstehen können. Im Brot ist mein Leib. Der Rest von der Hand im Handschuh bleibt stehen, doch so habe ich mich jetzt zu euch gewandt, erstlich. Das Brot ist nicht leiblich, sondern der Leib Christi.  
+
+Somit K ij

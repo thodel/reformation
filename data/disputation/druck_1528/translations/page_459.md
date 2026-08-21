@@ -1,14 +1,11 @@
-Seite CCXXII  
-Schlußred. CCXXII  
+Seite CCXXII  
+Schlußred. CCXXII  
 Berchtoldus Haller.  
 
-It is sufficiently explained at the beginning of this conclusion‑speech.  
-That which believers in Christ Jesus will not come to the judgment,  
-but will pass from death to life. By the clear words of Paul, John v. By,  
-we let it be demonstrated.  
+Es ist genug erklärt im Anfang dieser Schlussrede. Das, welcher Gläubige in Christus Jesus werden, nicht kommen in das Gericht, sondern vom Tod zum Leben hindurch treten. Johannes v. By den klaren Worten Paulus lassen wir es beleben.  
 
-Sich hier am 208. Blatt.  
+Sich hinens am 208. Blatt.  
 
-Buͦchſtab.  
+Buchstab.  
 
 Wie ich das vormals verantwortet habe dabei.

@@ -1,6 +1,10 @@
-Page [70]  
-First, I wish to give an answer to this matter in writing, so that the simple common people of God are not offended, and therefore we shall not be sharp in our accusations: for my lord’s mandate has first forbidden this.  
+Seite [70]  
+Zunächst möchte ich zu diesem Vorwurf Stellung nehmen, um eine schriftliche Antwort zu geben, damit die einfältige Gemeinde Gottes nicht verletzt wird. Und demnach nun, wie scharf er uns noch immer angreift, habe ich mein Mandat zunächst verboten.  
 
-Now, at first the Provincial openly and seriously complained, as my brother Capito had written, that also the Scripture should be judged by spiritual judges, which I would have liked to avoid. I beg you, dear pious Christians, to be warned of such a grasp: for the truth seeks/needs you indeed. One does not also hear here what we are to learn or be taught, except what the Scripture gives or does not give.  
+Nun zum Ersten hat der Provincial sich offen und ernsthaft bemüht, als mein Bruder Capito mit Schreiben abgetrennt wurde; auch die Schrift von geistlichen Personen sollte gerichtet werden, das ich jedoch zu verleugnen beabsichtige. Ich bitte euch, liebe fromme Christen, solch einen Griff zu vermeiden: wer die Wahrheit sucht, braucht sie gar nicht. Man hört hier auch nicht, was wir zu reden oder abzuweisen lernen, sondern was die Schrift gibt oder nicht.  
 
-If the Scripture is judged by many of the believers, that is what should be recognized; we have long written and preached, as our books and especially I, the Provincial, have answered, in the forty‑second year past, excessively addressed, namely concerning the fifth, sixth, seventh and eighth and twenty‑second proposition, or wondrous sayings, which he has called Paradoxa; but no Christian community has the Scripture judged to that extent, nor have they taken anything from it or cast it away; we have …
+Wenn die Schrift von manchen Gläubigen gerichtet ist, das ist wahr und soll erkannt werden; wir haben längst geschrieben und gepredigt, wie es in unseren Büchern steht, und besonders ich habe dem Provincial geantwortet, im vierten und zwanzigsten Jahr, überflüssig bezogen nämlich auf die fünfte, sechste, siebente, achte und achtundzwanzigste Proposition, oder wunderlich, er hat es Paradoxa genannt.  
+
+Aber keine christliche Gemeinde hat die Schrift dermaßen zu beurteilen; sie nimmt darüber etwas an oder wirft es zurück, das haben wir ja und ja verneint. Der Provincial fragte mich jedoch, ob ihr solch einen Teil der Kirche zugeben könnt; ich sage, dass wir solches leider bei vielen erfunden haben, ein Teil des frommen Christus, ob auch nicht der Provincial dieser Meinung sei, nach dem Inhalt seiner vorangegangenen wunderlichen Sammlungen.  
+
+Ich bitte euch sehr, die Vorlesungen zu übernehmen, die Notizen zu beachten, nun die Zahl, das ist hiernach, aus seinen eigenen trügerischen Büchern in die Akten einbringen zu können, und so weiter.

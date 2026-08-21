@@ -1,34 +1,13 @@
-Seite CCXX  
+Seite CCXX  
 
-**Schlußred.**  
+**Schlußrede.**  
 
-vnd doͤrt welt/vnnd ſpricht. Sy werde weder hie noch doͤrt nach gelaſſen/fuͤr niemer/vñ iſt Periphraſis ipſius nunquam/ Empfelchen vnſer leer vnd verſtand/ouch allen Chriſt= gloͤubigen/vnd nit der Baͤpſtiſchen kilchen/zuͤ vrteylen.  
+Und dort spricht die Welt. Sie wird weder hier noch dort nach Belieben für niemanden sein; es gibt keine Peripherie mehr. Unser Lehr‑ und Verständnisschatz wird allen christlichen Gläubigen empfohlen und nicht der baptistischen Kirche zur Verurteilung vorgelegt.  
 
-**Buͦchſtab.**  
+**Buchstab.**  
 
-Die ampter/ſo den todten nach beſchehe/hand  
-ouch zum teyl gruͤnd in den buͤcheren Moyſi/  
-vonn herrn Berchtolden ein wenig gemeldt.  
-Geneſis am xlix. wirt angezeigt/wie Joſeph  
-Die begrebnus ſines vatters/in dem Cananeiſchẽ ertrich  
-mit groſſer klag/ſiben tag begangen hab/darum es der  
-gſchrifft nit widrig iſt/den todten nach/ouch Sibenden  
-zuͤ halten. So Moyſes vnd Aaron ſind geſtorben/iſt yet  
-weder dryſſig tag von den kindern von Jſrael beweinet  
-worden. Numeri xx. vñ Deut. xxxiiij. Weliche nit wi=  
-drig iſt/ouch die Dryſſigeſten zuͤhalten. Das aber die hei  
-ligen Apoſtel nit haben Jargit begangen/iſt ſich nitt zuͤ  
-verwundern/dann ſy muͤſten inn alle welt vßgan/das  
-Euangelium zuͤ verkuͤnden/damit vñ erfuͤlt wurde/die  
-Propheci/ſo der Prophet Dauid geſprochẽ hat. Jn alles  
-ertrich iſt vß gegangen jr gethoͤn. pſal. xviij. Jſt aber ſoͤl=  
-lichs bald nach jren zytenn angefangen/die ſelbig kunt=  
-ſchafft ich vßlaß/dan͂ ſy yezmal nuͤt giltet: dann Lucas  
-hatt nit koͤnnen beſchriben/was in hundert oder zwey=  
-hundert Jaren nach jm beſchehen iſt.  
+Die Ämter so die Toten nach Beschluss und auch zum Teil Grund in den Büchern Moses von Herrn Berchtold ein wenig gemeldet. Genesis 49 wird angezeigt, wie Joseph die Begierde seines Vaters im Kanaan ertrank, mit großer Klage; sieben Tage begangen, darum ist die Schrift nicht widersprüchlich, die Toten nach und auch Sippen zu halten. So Moses und Aaron sind gestorben, jedoch weder dreißig Tage von den Kindern Israel beklagt worden. Numeri 20, Deuteronomium 34. Welche nicht widersprüchlich ist, auch die Dreißigsten zu halten. Das aber die heiligen Apostel nicht haben, Jargit begangen, ist sich nicht zu verwundern; dann müssen sie in alle Welt hinausgehen, das Evangelium zu verkünden, damit es erfüllt wird, die Prophezeiung, die der Prophet David gesprochen hat. In allem Ertrinken ist hinausgegangen, getönt. Psalm 18. Es ist aber so bald nach euren Zeiten angefangen, die selbe Kunst ich verließ, dann war es einmal nicht gilt: dann Lucas hat nicht können beschreiben, was in hundert oder zweihundert Jahren nach ihm geschehen ist.  
 
 **Berchtoldus**  
 
-Alles dz der ſchuͦlmeyſter harfuͤr bringt/bewaͤrt  
-dhein ſagſtuͤr/Das beſtaͤten vñ klagẽ/ſo er vß  
-dem Alten teſtamẽt/harfuͤr bringt/yſt nit beſche
+Alles das der Schülmeister hervorbringt, bewahrt dein Sagstuer. Das Bekenntnis von Klage, so er es aus dem Alten Testament hervorbringt, ist nicht …

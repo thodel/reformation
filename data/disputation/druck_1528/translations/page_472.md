@@ -1,32 +1,34 @@
-Page [CCXXVIII]  
-The needed  
-Zwingli.  
+Seite [CCXXVIII]  
+Die nützte  
+Zwingly.  
 
-Ananias has deceived / of his vow broken /  
-that he had no vow to give. The purity /  
-no one will be struck down / denies Christ /  
-himself / for he says / Matthäus XIX. It is not every man’s /  
-capacity / that is / of purity. That God does not /  
-let us be tried / or be contested / about that we may /  
-1 Korinthier X. Serves us / that God does not force us /  
-to things which we do not give / otherwise he shows altogether /  
-a passage / through which we may bear: therefore he has /  
-given the Ee / that no one in the burnt / to much fear will become.  
+Ananias hat betrogen und sein Gelübde gebrochen,  
+da er kein Gelübde geben hat. Die Reinheit wird niemandem  
+abgeschlagen, Christus selbst verneint das, denn er spricht:  
+Matth. xix. Es ist nicht jedermann fähig, das ist der Reinigkeit.  
+Dass uns Gott nicht versuchen lasse oder angefochten werden,  
+über das wir vermögen, 1 Kor. x. dient uns, dass uns Gott nicht zwingt,  
+zu Dingen, die uns nicht gegeben sind; sonst zeigt er ganz und gar  
+einen Ausgang, durch den wir tragen können: darum hat er die Ehe  
+gegeben, damit niemand in der Brust zu viel fürchtet, dass er werde.  
 
-That one himself before / should remember / let us /  
-after in the business of the Gospel / in all concerning /  
-things: that however this remembering / therefore the freedom of /  
-the Ee concludes / that it is not / that we have heard before. 1 Korinthier VII  
+Der eine soll sich selbst vor Erinnern sollen lassen; wir lassen nach  
+in der Geschäft des Evangeliums und in allen anstehenden Dingen:  
+das aber diese Erinnerung, darum die Freiheit der Ehe beschließt,  
+das ist nicht, dass wir vorher gehört haben. 1 Kor. vii  
 
-that those who are born / are allowed / to be free / or /  
-to the angels / and that is no gschlachtet of men taken.  
+Dass denen, die geboren werden, erlaubt ist, zu freyen oder zu  
+Eiligen, und das ist kein Geschlecht der Menschen übernommen. Nun  
+soll ein gleicher Satz sein, so wie es in der Gemeinde Stadt auch in  
+der Gemeinde verstanden werden soll. Demnach so verwundert uns sehr,  
+dass angezogen wird, es möge im Neuen Testament nicht bewahrt werden,  
+dass ein Priester einen Wein nehmen kann.  
 
-Now let a uniform law / so it in the common /  
-city / also in the community be understood. Accordingly /  
-so amazed us / that it is drawn / it may in /  
-the New Testament not be justified / that a priest /  
-may take a wyb. So however the holy Paul / 1 Thessalonicher III / to Titus. 1 thus so plainly says / and in /  
-the History at 27 cap. is said by Philippus / that /  
-he had four daughters / who were learned: as we /  
-clearly see / that the daughters could not be born /  
-except angels. Yet the one who has a wyb / a bishop to his / so also the one who has a wyb / a bishop to become: also the one who has a bishop / to his / the one who has a wyb / so also the bishop / so ...
+So doch der heilige Paulus 2 Thess. ii zu Titus. So offenbar sagt er  
+und in Geschichte am xxvj. Kap. gelassen wird von Philippus, dass er  
+vier Töchter hatte, die gelehrt wurden: da wir gewiss sehen, dass die  
+Töchter nicht von Hören müssen geboren sein, sonst Eilige.  
+
+Zimpt aber dem, der einen Wein hat, ein Bischof zu sein; so zimpt auch  
+dem, der einen Wein hat, ein Bischof zu werden: zimpt auch widerum ein  
+Bischof zu sein, der einen Wein hat; so zimpt auch der Bischof so…

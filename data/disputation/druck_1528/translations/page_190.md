@@ -1,15 +1,9 @@
-Page 81  
-The other  
-Butzer+
+Seite 81  
+Die ander  
+Butzer+  
 
-Therefore so follows/ that it cannot be/ that which has been so demanded/ I will  
-present a clear syllogism from the words of Paul.  
-Which forbid the Law and the sword, are withdrawn from the faith, and bring the devil’s doctrine. The councils and  
-prelates, so for the Christian Church levy, having forbidden the sword  
-and the Law, therefore they are withdrawn from the faith,  
-and your Christian Church is wretched.  
+Darum folgt, dass es nicht sein kann, was solches geboren hat; und ich will ein klares Syllogismus aus den Worten Paulus’ setzen. Welches die Lehre und den Spieß verbietet, sind vom Glauben abgetreten und bringen Tadel. Die Konzilien und Prälaten, die für die christliche Kirche gelten, haben den Spieß und die Lehre verboten; darum sind sie vom Glauben abgetreten und die christliche Kirche gewässert.  
 
-Bichtuatter+
+Bichtuatter+  
 
-Thus one may begin the short of the speech/ in eight so ...  
-so I will shortly address the speech of Martin Butzer/ likewise give an answer/ That the sayings of the holy Christian Church, which are of the breaking of the sword, the Law, the feast, and other similar things, from the holy Christian Church set, are not sayings of the unbelievers, nor of the devil, except in the Scripture entered, for good holding, and through the Christian Church/ of times/ persons/ useful and rightly ordered. But this piece, and what likewise might be, are founded in Scripture; we have that in many places. In particular to preserve all pieces, which was long delayed. I will, however, now determine some, and indicate the places where they are held for good, in hope/ that a pious, obedient Christian will not be shaken by such order of Christianity, in the true trust/ that the ruler of the holy spirit, the holy Christian Church, to his safeguard or unblemished saying, may be light or wise. For the sake of the flesh, the holy Scripture…
+So man, wenn die Kürze der Rede beginnt, in acht so schwere Sache, so will ich kürzlich auf die Rede Martines Butzers also Antwort geben: dass die Sätze des heiligen christlichen Kirchens, die dort von dem Abbruch des Spieß, der Lehre, des Festes und anderer gleicher Dinge von der heiligen christlichen Kirche gesetzt sind, nicht Sätze der Ungläubigen noch des Teufels sind, sondern in der Schrift gemeint sind, für das Gute gehalten und durch die christliche Kirche, von Zeiten, Personen, vernünftig und rechtlich geordnet. Das aber dieses Stück und was dergleichen möchte sein, ist in der Schrift begründet; das haben wir an vielen Orten. Das in Besonderheit zu bewahren von allen Stücken, das wurde zu lang. Ich will aber danach einige bestimmen und die Orte anzeigen, da dieselben für das Gute geachtet sind, in Hoffnung, ein irdischer frommer gehorsamer Christ wird sich solcher Ordnung der Christenheit nicht beschweren, in dem wahren, dass der Regierer des heiligen Geistes, die heilige christliche Kirche, zu seiner Beschwerde oder unbeschränkten Satz leitet oder weise. Des Fleischessens halb hat die heilige Schrift.

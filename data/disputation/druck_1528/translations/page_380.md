@@ -1,11 +1,11 @@
 Seite [X]  
-Die fünfft herren/ob ſy mit jrem Måßopfer vermeinen den erwel ten ützit zů helffen/oder nit.  
+Die fünf Herren, ob sie mit ihrem Maßopfer den erwählten Nutzen zu helfen beabsichtigen oder nicht.  
 
 Gilg Murer  
-WJr gebend antwurt/Das wir nit der meinung /sind/das wir wellen erfüllen/noch behülflich ſin dem lyden Chriſti/ſunders wir vermeine/vns a lleyn teylhafftig zů machen ſines lydens. Als möcht ich ein Exempel gebenn: Gott der Herr hat geſchaffen die edle creatur der Sunnen/das ſy erlüchte die gantz welt. Wenn aber einer wåre ynbeschloſſenn in ein finſter huß/wår die Sun̄ nit ſchuldig/ſunders hette volbracht volkomenlich jr ampt/darzū ſy geſchaffen iſt: der menſch wåre aber ſchuldig/das er nit vffthåte/dämit er belüchter möchte werden. Alſo vermeinen wir hie ouch/Chriſtus habe gnůg gethan/gantz vnd gar. Wir ſöllen uns aber teylhafftig machen/mit dem betrachtlichen opf fer der Måß.  
+Wir geben Antwort: Wir sind nicht der Meinung, dass wir das Maß erfüllen und dem leidenden Christus helfen können; sonst würden wir uns allein teilhaftig an seinem Leiden machen. Als Beispiel möchte ich geben: Gott, der Herr, hat die edle Kreatur der Sonne geschaffen, die die ganze Welt erleuchtet. Wenn jedoch jemand unverschämt in ein finsteres Haus käme, wo die Sonne nicht scheint, wäre er schuldig, weil er nicht aufhört, sich zu belustigen. Also meinen wir hier ebenfalls, Christus habe genug getan, ganz und gar. Wir sollen uns jedoch teilhaftig machen am betrachtlichen Opfer des Maßes.  
 
 Butzer  
-CHriſtus ſagt: Nieman kumpt zů mir/der vatter züch jnn dann/Johannis vj. Darumb werden die Måßmacher niemand teylhafftig machen des lydenns Chriſti/vnd alſo an das gnaden liecht füren. Noch ſtat vnſer Silogiſmus: Hats Chriſtus alles gethan vnnd volendet/ſo tůnd yr nůts.  
+Christus sagt: Niemand kommt zu mir, der Vater zieht ihn dann, Johannes V. Deshalb werden die Maßmacher niemanden teilhaftig am Leiden Christi machen und ihn so zum Gnadenlicht führen. Unser Silogismus lautet noch: Hat Christus alles getan und vollendet, so tut er nichts mehr.  
 
-Gilg Durer.  
-DAls er ſpricht/Es kome niemand zum ſun̄/es ſyge dann/das jn der vatter züche/Darwider ſind wir nit/ſund wir bitten Gott den herren/im ampt der heilige Måß/vnd halten jm für das lyden ſines Suns/ das vns der vatter gütigklich zů jm zůchen welle/vnd wellen
+Gilg Durer  
+Als er spricht: Es komme niemand zum Sohn, es sage dann, dass er im Vater zieht. Darauf sind wir nicht, und wir bitten Gott, den Herrn, im Amt des heiligen Maß, und halten ihn für das Leiden seines Sohnes, das uns der Vater gütig zu ihm schenken will.

@@ -1,11 +1,54 @@
-Schluffred.  
-Off den achtenden tag Jenners/hat Berchtoldus wyter geoffnet/als hernach folgt.  
+Schlussrede.  
+Off den achten Tag Jenners  
+hat Berchtoldus wyter geoffnet  
+als hernach folgt.  
 XIII  
 
-Roman dear Christians/off guest is the hand so far brought/that the bishop should test/ all as Christ has made Peter into one head/ as our brother citizens announce/that Peter/Paul/and all apostles/alone servants/without superiority/without lordship/and have preserved it/in the Epistle to the Corinthians in the fourth chapter. Thus let us, the people, consider ourselves as servants of God/and stand for the hidden.  
+Römer, liebe Christen,  
+offen ist der Herr so weit gebracht,  
+dass der Bischof probieren soll,  
+alles, was Christus bewilligt hat,  
+zu einem Haupt gemacht.  
+So unser Brüder, Bürger, anzeigen,  
+dass Petrus, Paulus und alle Apostel  
+allein Diener, nicht Oberhaupt, nicht Herr,  
+das Bewahrende in der Epistel an die Korinther  
+im vierten Kapitel.  
 
-Item in his first Epistle/in the third chapter. Who is Paul?/who is Apollo?/then servant of God/through the ... hand: Thus the plant is nothing/ the ... is nothing/ but God gives growth/that makes all not make Peter into one head.  
+Also folgt uns der Mensch achten,  
+als Diener Gottes,  
+und versteht die Geheimnisse.  
+Item in seiner ersten Epistel  
+am dritten Kapitel.  
+Wer ist Paulus,  
+wer ist Apollos,  
+der Diener Gottes,  
+durch die ihr glaubt Hand?  
+Also der Plan ist nichts,  
+der Beginn ist nichts,  
+aber Gott gibt das Wachstum;  
+so macht alles Petrus nicht zu einem Haupt.  
 
-As Peter himself says/in his first Epistle/in the ... chapter: While the hard scripture/... the other is to you/and ... not ... but willingly: not ... a charming desire/ but ... a sufficient grace/ not as those who rule over God’s people/ become the example of the ...  
+Wie Petrus selbst spricht,  
+in seiner ersten Epistel im vierten Kapitel:  
+Während die harte Schrift  
+die andere euch ist,  
+und verwechselnd ist,  
+nicht gnädig,  
+sondern selbst willig:  
+nicht ein schönes Gewünschtes,  
+sondern ein gerechtes Gesetz,  
+nicht wie die Herrschenden über das Volk Gottes,  
+sondern werdend Vorbild der Härte.  
 
-Dear pious Christians the service and office of the apostles/they are not masters nor lords to be made/but servants: then the authority of Peter made ... into a head/so follows that all apostles ... head ... then they all ... and service ... equally ... In other respects/so Paul was more a head for others/therefore he worked more ... in the first ...
+Ließ sich unser frommer Christen das  
+Dienst und Amt der Apostel,  
+sie nicht zum Oberhaupt noch Herr machen,  
+sondern Diener:  
+dann hat die Gewalt Petrus in ein Haupt gemacht,  
+so folgt das, dass alle Apostel  
+Oberhaupt sein sollen,  
+dann sind sie alle den gleichen Dienst gleich.  
+Somit war Paulus mehr ein Haupt für andere,  
+darum hat er mehr gearbeitet  
+in der ersten S.

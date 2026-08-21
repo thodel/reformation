@@ -1,10 +1,14 @@
 Seite LXXXIII  
-Schlußred. LXXXIII  
+Schlußrede LXXXIII  
 
-Count or twenty years / especially to give in eternity. Johannis at the xiv. I will ask my father / and he will give you another comforter / that he may remain with you forever. As for the sayings of the same / as they are in the xiv., xv. and xvi. chapters of John, they are shown / surely the holy Paul to all Christians / that none of the Christian church will fall / and that in the first Epistle to Timothy at the xii. he says: “These things I write to you, my son Timothy / in the hope of soon coming to you / if I should be prolonged / that you might know / how you ought or must walk in the house of the living God / which is the common church of the living God / a proof and testimony of the truth / as this understanding every Christian man / that the holy Christian church is cleared and governed / by the holy spirit until now / and will be forever.”  
+Zählen oder zwanzig Jahre / sonst in Ewigkeit geben. Johannes am 14. Ich werde meinen Vater bitten / und er wird euch einen anderen Tröster geben / dass er bei euch bleibt in Ewigkeit. Wie die Sprüche von dergleichen / wie sie im 14., 15. und 16. Kapitel Johannes angezeigt sind / sichert der heilige Paulus allen Christen / dass jene christliche Kirche nicht fallen wird / wie das in der ersten Epistel an Timotheus am 12. steht, wo er spricht:  
 
-So now the same spirit / and emptier is the spirit of truth / thus he empties the church of truth / therefore the sayings of the church ought to be rightly received from us / as the truth.  
+„Dieses Ding schreibe ich dir, mein Sohn Timotheus, in der Hoffnung, bald zu dir zu kommen. Wenn ich aber länger lebe, damit du weißt, wie du wandeln sollst oder musst im Hause des lebendigen Gottes, das ist die gemeine Kirche des lebendigen Gottes, ein Schild und eine Bestätigung der Wahrheit; dass jeder christliche Mensch durch dieses Verständnis erkennt, dass die heilige christliche Kirche gelehrt und geregelt ist vom heiligen Geist bis jetzt / und in Ewigkeit wird.“  
 
-Thus the holy Paul in his first Epistle to the Thessalonians in the iii. chapter writes to the Thessalonians. He has received from me the hearing of God’s word / he has not received it as the word of men / but as it truly is, the word of God / the Thessalonians are praised by Paul / that they have taken his word which he has spoken as given by God / not as the word of men / but as the word of God / and he is also now a member of Christianity / so all other Christians also should / rightly take the word of the common Christianity / which they call the Christian church / not as the word of men / but as the word of the Holy Spirit.  
+So nun ist derselbe Geist und leerer ist der Geist der Wahrheit / so leert er die Kirche von der Wahrheit. Darum sollen die Sprüche der Kirche, die billig von uns angenommen werden, als die Wahrheit gelten.  
 
-K iij
+So aber schreibt der heilige Paulus in seiner ersten Epistel an die Thessalonicher im 9. Kapitel an die Thessalonicher:  
+
+„Ich habe von mir selbst empfangen, die Gehörigkeit des Wortes Gottes / und ich habe das nicht empfangen als das Wort der Menschen, sondern als das wahre Wort Gottes. Das Wort Gottes wird von den Thessalonichern gelobt von Paulus, dass sie sein Wort, das er uns gesagt hat, von Gott angenommen haben / nicht als das Wort der Menschen, sondern als das Wort Gottes / und er ist auch nun ein Glied der Christenheit / so sollen auch alle anderen Christen das Wort der gemeinen Christenheit billig annehmen / die man nicht die christliche Kirche nennt / nicht als das Menschenwort, sondern als das Wort des heiligen Geistes.“  
+
+K III

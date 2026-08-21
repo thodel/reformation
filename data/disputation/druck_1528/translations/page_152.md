@@ -1,16 +1,19 @@
 Seite [IIIVXI]  
-The first authority is an authority that … the will that Christianity has valued; therefore no one should oppose it; he would then have a clearer Scripture against it.  
+Die erste  
+Gewalt ist eine Gewalt, die die Christenheit wirken soll; darum soll niemand widersprechen, er hätte dann eine heftigere klare Schrift dagegen.  
 
 Berchtoldus+  
-Seek him here on folios 58 and 59.  
-
-Herr Hilgen argument is yesterday sufficiently explained, but I ask him that he address the holy Paul well to the Romans in chapter 12. Let everyone understand the superiority … and the text was accordingly left.  
+Sucht ihn hier  
+am 58. und 59. Blatt.  
+Herr Hilgen argumentiert, ist gestern genug erklärt; aber ich bitte ihn, dass er den heiligen Paulus wohl bespräche zu den Römern im 12. Kapitel. Jeder sei untertänig der Oberkeit … und wurde ein solcher Text verlassen.  
 
 Gillg Durer+  
-Paul to the Romans. He takes only … he says all authority is from God and that he does not alone intend the worldly authority … regarding the preceding words of Paul, so he says a … soul should be obedient to the high authorities; if now an authority should be … the worldly … then Paul would only be allowed to speak.  
+Paulus zu den Römern. Er nimmt nur … er spricht, alle Gewalt ist von Gott, und dass er nicht allein gemeint hat, die weltliche Gewalt … bezüglich des vorangegangenen Wortes Pauli, so er spricht, ein gleiche Seele soll gehorsam sein den hohen Gewalten; wenn nun eine Gewalt sein soll, die weltliche, so hätte Paulus die Rede nur dürfen.  
 
 Berchtoldus+  
-Seek him here on folios 9, 12, 13, 14, 15 and 17. Even from the Christian … the answer half … I refer myself to the Acts and to the clear text of Paul in chapter 12. Now properly leave … thereby the Scripture’s authority … then Paul here speaks of the worldly superiority.  
+Sucht ihn hier  
+am 9., 12., 13., 14., 15. und 17. Blatt.  
+Eben für den Christen … die Antwort halb … ich beziehe mich auf die Akten und auf den klaren Text Pauli im 12. Kapitel. Jetzt ordentlich verlassen, darum … die Schrift hat Gewalt … dann spricht Paulus hier von der weltlichen Oberkeit.  
 
 Gillg+  
-That Paul to the Romans in chapter 12 does not only speak about the worldly authority; it is obviously enough.
+Das Paulus zu den Römern im 12. Kapitel hat nicht allein über die weltliche Gewalt geredet; das ist offenbar genug.

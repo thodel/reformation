@@ -1,13 +1,14 @@
-Seite IVb  
-Die vierte mit dem wörtlichen Brot, dann, so er spricht, und das Brot.  
-aber. Sicht man wohl, dass er wiederum hinauf geht zu dem Brot, von dem er vorher geredet hat, und hat den Sinn, wie Christus spreche.  
-Wenn ihr aber wissend wüsst, dass das Brot sei, von dem ich euch sage, so ist es: dass ich Fleisch meine, für das Leben der Welt wird in Tod geben.  
-Es mag auch hier nicht ein [Ayn‑tethon sin ἣν ἐγὼ δώσω. Sondern diese ganze Perikopa, oder Sinn, ist nicht ein Verhäßung, sondern ein Auslegung, was Christus verstande, durch das, das er sich selbst das lebendige Brot genommen habe.  
+Seite IVb  
+Die vierte Rede  
+mit dem wörtlichen Brot, dann spricht er: „Und das Brot.“  
 
-Pfarrer von sant Gallen.  
-S will mein Herr Meyster Wilhelm, dass dieses Wort das Brot, deshalb, sollen verstanden werden, laut der vorgängigen Worten.  
-Ich bin das lebendige Brot, deshalb.  
-Darauf aber mein Verstand ist, dass an diesem Ort mit dem Wort Brot heißen sei, welches er danach in der Nacht einmal verstockt vollführt und eingesetzt hat, welches er erklärend der Missglauben der anklagenden Juden, als sie sagten.  
-Wie mag dieser sein Fleisch uns geben zu essen: hat es der Herr selbst erklärt mit ernstlichen Worten, sagende, wahrlich, wahrlich sage ich euch, es sei dann, dass ihr werden essen das Fleisch des Sohnes des Menschen und werden trinken sein Blut; so werden ihr nicht haben Leben in euch, und danach: mein Fleisch ist wahrlich ein Spaß, und mein Blut ist wahrlich ein Trank; und wie mein Herr meint, diese Perikopa sei allein eine Auslegung, was Christus verstande; ich meine die nachfolgenden Worte geben dem christlichen Hörer und Zuhörer, genugsam zu dieser Zeit; dann ye das Wort Dabo, begreife die Verhäßung; das ist das, ich geben will.  
+Aber man sieht wohl, dass er wieder hinaufgeht zu dem Brot, von dem er zuvor gesprochen hat, und dass er den Sinn hat, wie Christus spricht. Wenn ihr aber wisst, dass das Brot ist, von dem ich euch sage: Es ist das, was ich meine, das Fleisch, das Leben der Welt wird in den Tod geben. Es soll hier nicht ein *Ayntethon* (ἣν ἐγὼ δώσω) sein, sondern diese ganze Perikopen‑ oder Sinn­stelle ist nicht ein Geheimnis, sondern eine Auslegung dessen, was Christus verstand, indem er sich selbst das lebendige Brot genommen hat.  
 
-Zwingli
+**Pfarrer von Sant Gallen.**  
+„So soll mein Herr Meister Wilhelm verstehen, dass dieses Wort – das Brot – so verstanden werden soll, wie es in den vorangegangenen Worten steht. Ich bin das lebendige Brot. Darauf aber beruht mein Verstand, dass an diesem Ort das Wort Brot heißt, welches er danach in der Nacht auf wunderbare Weise vollbracht und eingesetzt hat, welches er, zur Aufklärung des Unglaubens der zänkenden Juden, wie sie sagten, erklärt hat.  
+
+Wie kann dieses Fleisch uns geben zu essen? Hat es der Herr selbst mit ernsten Worten erklärt, indem er sagte: ‚Wahrlich, ich sage euch, es sei dann so, dass ihr essen werdet das Fleisch des Sohnes des Menschen und trinken werdet sein Blut; so werdet ihr nicht das Leben in euch haben, sondern danach: mein Fleisch ist wahrlich ein Genuss und mein Blut ist wahrlich ein Trank.‘  
+
+Wie mein Herr meint, ist diese Perikopen‑Stelle allein eine Auslegung dessen, was Christus verstand. Ich vermute, die nachfolgenden Worte geben dem christlichen Leser und Zuhörer genug Zeit, dann das Wort zu erfassen, das Dabo, die Verklärung zu begreifen; das ist das, was ich geben will.“  
+
+**Zwingli**

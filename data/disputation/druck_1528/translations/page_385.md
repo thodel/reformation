@@ -1,34 +1,11 @@
-Seite CLXXXV  
+Seite CLXXXV
 
-Schlußred. CLXXXV  
-Butzer.  
-So let us keep it by the certain word of God/ and  
-apply it to the rightly created Christians.  
+Schlußred. CLXXXV
+Butzer.
+So lassen wir es bei dem gewesenen Gotteswort bleiben und beugen es den rechtschaffenen Christen.
 
-Gilg Aurer.  
-Further may after my given distinction/  
-another scripture be brought forth for this. namely  
-Daniel at chapter XII. And the evils will act evilly / and  
-all evils will not understand it/ but  
-the learned will understand it/ and from the time onward/ so that  
-from here it will be taken away/ that stands as a sacrifice/ and it will  
-be set the abominations of the earth/ a thousand days two hundred and  
-ninety/ that is therefore much/ as four‑and‑a‑half years. Here has spoken  
-the prophet Daniel of the last times of the revelation  
-which also is drawn by Christ. Matthew  
-at chapter XXIV. And again that he says/ it shall be a standing sacrifice/ and that will  
-be raised up  
+Gilg Aurer.
+Weiter soll nach meiner vorgegebenen Unterscheidung ein weiteres Schriftstück herangebracht werden, nämlich Daniel 12. Und die Bösen werden böse handeln; alle Bösen werden es nicht verstehen, aber die Gerechten werden es verstehen. Von da an wird es dann weggenommen werden. Das steht als Opfer; es wird gesetzt sein die Gräuel der Erde, tausend Tage zweihundert und neunzig, das entspricht etwa viereinhalb Jahren. Hier hat der Prophet Daniel von den letzten Zeiten des Entschließens gesprochen, welcher Spruch auch durch Christus angeführt wird. Matthäus 24, und ebenfalls spricht er: Es sei ein ständiges Opfer, und das wird in der letzten Zeit aufgehoben werden.
 
-in the last time: one may and  
-
-cannot come/ according to rightly understood Scripture  
-
-to show another sacrifice/ as I hope/ then only  
-the sacrifice of the measure.  
-
-Zwingli  
-S sufficiently  
-
-heard is / that  
-
-no
+Zwingli.
+Es ist hinlänglich gehört, dass kein anderes Opfer sein kann, weder Christus noch die Apostel, weder das Wort noch das Ding (Maß oder dass das Nachtmal ein Opfer sei) haben das gedacht. So ist gewiss, dass alle Lehre, die über das alte Testament hinausgezogen wird, nicht bewahren kann, dass ein anderes Opfer sei; dann Christus oder dass Christus mehr als ein einziges Opfer werden könnte.

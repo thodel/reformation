@@ -1,7 +1,10 @@
 IX  
-The first  
-Epistle to the Corinthians, at the fifth chapter. The third  
-makes learning a … to a head / so follows / that Peter alone is a head, because he has learned / and the other apostles / also alone where he learned … . The fourth / that while neither the Pope / nor any man / may a land / nor even the whole world learn / thus follows that one may not be a head. The fifth / so Peter to Rome learned / as he indeed alone a shepherd / and servant of the same churches / so he an Epistle to us writes / to our … / he also became our servant. Accordingly the citizens … indicated / that the head of the churches / such a thing give / that no creature may … as … / blameless / just / and so make … / and the souls nourish. As Paul to the Ephesians, at the fifth chapter, shows / Christ is the head of the churches / therefore that he is the holy land’s love is given / and so the head being taken away / also everything lives / and tastes of love / silently. And thus this flesh cannot … a mortal creature / a head of the churches. And that the bishop has himself confirmed. All scribes / who the father has brought forth / giving nothing else to Saint Peter / but service: such will appear / in this our responsibility.  
+Die erste  
+Brief an die Korinther im fünften Kapitel. Zum Dritten lehrt man, dass ein Haupt nötig sei, sodass Petrus allein das Haupt sei, weil er es gelernt hat, und die anderen Apostel ebenfalls, weil sie es gelernt haben. Zum Vierten, weil weder der Papst noch irgendein Mensch ein Land noch die ganze Welt lehren kann, folgt daraus, dass niemand ein Haupt sein kann. Zum Fünften lehrt Petrus nach Rom, wie er doch allein ein Hirte und Diener derselben Kirche ist; er schreibt uns einen Brief, um uns zu unterweisen, und wird auch unser Diener sein. Demnach fordert die bürgerliche Geduld, dass das Haupt der Kirche solche Dinge geben soll, die keiner Kreatur möglich sind, wie liebend, gerecht und so weiter, und die Seelen nähren.  
 
-The first saying from the first chapter of John:  
-Thus you will be named / Cephas / the deceiver of the bishop / a head / and so he the Evangelist visited / invented / that he himself … it is called Peter / that is a veil / the erudite … is more diligent in belief … of the will of Peter / neither a cornerstone / nor a foundation stone / nor a ... / except he with other … blameless stone / an opening of the blameless stones of the Scripture.
+Wie Paulus zu den Ephesern im fünften Kapitel zeigt, ist Christus das Haupt der Kirche; darum ist er das Heiligtum, das Leben ist in ihm. Wenn das Haupt genommen wird, wird alles Leben und das Wirken des Lebens stillstehen. Und so vermag dieses Fleisch, keine sterbliche Kreatur, das Haupt der Kirche zu sein. Und das hat der Bischof selbst bestätigt.  
+
+Alle Schriften, die der Vater herfür gebracht hat, geben nichts anderes als Sankt Peter, dann Dienstbarkeit: Solches erscheint uns in unserer Verantwortung.  
+
+Der erste Spruch aus dem ersten Kapitel des Johannes:  
+So wirst du genannt, Cephas …

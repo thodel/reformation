@@ -1,9 +1,10 @@
-Seite XL  
+Seite XL  
 Schlußred.+  
 
-All good / Lutheran Scripture intended equally for all believers.  
-Now let those who the fiend / the rotten or sects arrange / then we shall not have a timely answer / what other righteous or evil people undertake / but the Provincial / because that the special / so the truth of the Gospel has come against the plan / many sects would gladly raise themselves, that the holy Gospel / so then there would be no unity and rightly established love, but suspicion would be made.  
-Therefore I, you devout Christians, consider the word of the Lord.  
-I am not come to bring peace / but rather the sword / that the Son is against the Father, the Father against the Son, etc.  
-Through the word of Paul to the Corinthians in the first Epistle, chapter XII.  
-Divisions must arise / so that the judgments become manifest / then the strongly armed Prince of the world in his wrath has his hope / thus there is a harmful peace / and it lies that the wrath only becomes stronger / and no division would come / but as soon as the Lord Jesus his truth, which is unyielding, lets shine forth / the Prince of the world moves his unbelieving subjects over whom he rules / that this one thinks otherwise / and thereby leads the simple people astray and from the Scripture would be led / thus it has happened / as the Apostles themselves have preached / as concerning their Epistle / the Acts of the Apostles / Tertulianus / Jreneus / Eusebius and all the old teachers / where however the widchrist / by the Oriental / through the Nachu met / and by the Ocidentālische / through the Bäpstlich regiment has taken over / it is no wonder that …
+alles Gute, die lutherische Schrift allen Gläubigen gleichmäßig geben. Nun legt jemand die Feinde, die Routen oder Sekten an, dann werden wir nicht sofort antworten, was andererseits törichte oder böse Leute fürnehmen; das aber der Provinzial, über das das Besondere, so die Wahrheit des Evangeliums vom Plan widerkommen ist, lässt sich viele Sekten gern erheben, weil das heilige Evangelium … so wäre nichts als Einigkeit und rechtgeschaffene Liebe leer, Verdacht machen.  
+
+Ermahne ich euch, fromme Christen, bedenkt das Wort des Herrn. Ich bin nicht gekommen, Frieden zu senden, sondern das Schwere, dass der Sohn wider den Vater, der Vater wider den Sohn sei … durch das Wort Paulus an die Korinther in der ersten Epistel, Kapitel 12. Es müssen Trennungen kommen, damit die wahren Dinge offenbart werden; dann, so der stark bewaffnete Fürst der Welt in seiner Herrschaft, hat er … so ist es ein schädlicher Friede und es lügt, dass die Herrschaft nur stärker werde und keine Trennung käme.  
+
+Sobald aber der Herr Jesus seine Wahrheit, die ihm unendlich ist, herablässt, bewegt der Fürst der Welt seine Ungläubigen, über die er herrscht; das ist das … einer denkt ein anderes und bringt damit das einfältige Volk irrt, das von der Schrift geführt werden möchte.  
+
+Also ist geschehen, also haben die Apostel noch selbst gepredigt, wie das bezüglich ihrer Epistel, die Acta der Apostel, Tertullianus, Irenäus, Eusebius und alle alten Lehrer; da aber das … von den Orientalischen, durch den Nachumet, und von den Occidentalischen, durch das bischöfliche Regime übernommen wurde, ist kein Wunder, dass es die …

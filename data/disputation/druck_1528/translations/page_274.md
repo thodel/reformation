@@ -1,21 +1,36 @@
 Seite [XCV]
 
-The fourth  
-concluding. After that stands there itself never / the fourth tongue  
-and / are also holy spirit / from which form one may take  
-the Gospel / the word of Christ: This is my Life / bearing witness  
-Under the bread is my Life.  
+Die vierte  
+schließend. Danach steht da selbst keine / die fünfzehn Zungen  
+sind o. heilig geäußert / ab welcher Form man das Bibelwort  
+nimmt / das Wort Christi: Das ist mein Leben / zeugend  
+glänzend unter dem Brot ist mein Leben.  
 
-Pfarrer von sant Gallen.  
+Pfarrer von St. Gallen.  
 
-J the exposition of the current inserted speech  
-and yet further explanation of the faith I bring  
-no scripture that the wise / to believe / that  
-flesh and blood may be eaten / I help myself  
-by the instruction of the eating of the lamb. Exodus chapter XII.  
-And the Evangelist’s sayings / so unto us  
-say: Taking and eating / this is my Life / In which  
-words the body of Christ is eaten / or enjoyed / my  
-understanding becomes …  
-
-From the places of the spiritual eating I acknowledge / that all this is so necessarily described unfruitful / … So we the word / Which body is given for you / and: Which blood is poured for you / no longer eating in the faith / then so unto us delivered / would be little comforting. If that so he thinks discharged be / of the faith half / each word / I have before declared / that with comparison of the scripture / and Christian understanding / of the saying of the Acts at the 1st chapter. It is known that the fourth tongues / not the spirit of God itself was … / I have such in parallels to introduce a clear understanding: then the parallels not all … because they are alike … and let such all fall / and say how often / that in the words / of the night I will not give myself to the fight / with what form and shape of the body unto / will be mediated / of the visible or coarse white / like a hand.
+J die Ablehnung der heutigen eingeschlossenen Sprachen  
+und jüngere Erklärung des Glaubens bringe  
+ich keine Schrift, die da weise / zu glauben / dass  
+Fleisch und Blut leiblich gegessen werden / Hilf mir  
+der Einleitung der Nahrung des Lammes. Exodus am xii.  
+Kapitel. Und die Anzeigungen der Evangelisten / so uns  
+heißen: Nehmend und essend / das ist mein Leben / In welchen  
+Worten der Leib Christi gegessen / oder genossen / meines  
+Verstandes Bewölkung wird. Von den Orten der geistlichen  
+Nahrung bekenne ich / dass alles so unverzüglich beschieden  
+unfruchtbar / zc. So ist das Wort / Welcher Leib für euch  
+gegeben wird / und: Welches Blut für euch vergossen wird /  
+nicht mehr essend im Glauben / dann so uns dargebracht /  
+wäre wenig tröstlich. Wenn das so er meinte, entladen sein /  
+des Glaubens halb / jedes Wortes / habe ich zuvor bekannt,  
+dass mit Vergleich der Schrift / und christlichem Verstand /  
+wenn den Spruch Acta am ij. Kap. ist gewusst, dass  
+die fünfzehn Zungen / nicht der Geist Gottes selbst wesentlich  
+gewesen / und habe solches in Gleichnissen zur Einleitung eines  
+klaren Verstandes eingeführt: dann die Gleichnisse nicht alle  
+wegen Strafe gleich sind / dass man dabei verglichen /  
+und lasse solches alles fallen / und sag, wie oft mehrmals  
+das in den Worten / des Abendmahls ich mich nicht dem Kampf  
+geben werde / mit welcher Form und Gestalt des Leibes uns  
+mitgeteilt wird / auf die sichtbar oder grob weiße / wie  
+eine Hand

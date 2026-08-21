@@ -1,9 +1,13 @@
-Page LXI  
+Seite LXI  
 
-Concluding address.  
+Schlußred.  
 
-It is evident that, when the Twelve Commandments are announced in the other epistle to Timothy, chapter ii, and to the first chapter, they have somewhat learned and preached through speech, through breach, and otherwise proclaimed, as they also have heard from others, hand to hand, not entirely from Scripture; therefore this is shown. I also think that the holy Church stands likewise before the Gospel and the Scripture of the Twelve Commandments, and that it will be illuminated forever, so that your Scripture may be.  
+Versucht ist es, dass die Zwölf Gebote in der anderen Epistel an Timotheus I, Kapitel II, und an Thito im ersten Kapitel angekündigt werden. Sie haben etwas gelehrt und gepredigt, durch Rede, durch Bruch, anderweitig verkündet, wie sie es auch von anderen gehört haben und nicht alles schriftlich dargestellt; darum weise ich darauf hin. Ich meine auch, dass die heilige Kirche gleich vor dem Evangelium und den Zwölf Geboten steht und dass sie in Ewigkeit leuchten wird, sodass deine Schrift mehr sei.  
 
-Moreover, in the other epistle to Timothy, chapter ii, Paul says: “A truly holy Scripture, which is spoken by God, is useful for learning and for instruction.” Now much is written according to the biblical Scripture by the dear saints for instruction and the recognition of biblical Scripture; I also think that God the Holy Spirit must have spoken those, especially the Scripture that has been accepted by the common Christian Church.  
+Weiter in der anderen Epistel an Timotheus im zweiten Kapitel spricht Paulus: Eine heilige Schrift, die von Gott ausgesprochen ist, ist nützlich zu lehren und zu unterweisen. Nun ist viel geschrieben nach der biblischen Schrift durch die lieben Heiligen zur Läuterung und Erkenntnis biblischer Schrift; ich meine auch, Gott, der heilig ist, muss geben, die ausgesprochen haben, besonders die Schrift, die von der gemeinen christlichen Kirche angenommen ist.  
 
-It is also written in the histories of the Apostles in the fifteenth and sixteenth chapters. They ought to keep the “port” (gate) of the Twelve Commandments, from the breach of the elders, as Paul also says in the first epistle to the Corinthians, chapter x. I praise you, my brothers, that in all things you are of my mind, as I have given you my “port.” Promise them this: the other matters I will also arrange for you when I come to you. Yet no one finds it written where he has arranged it; he has, however, kept it without doubt, as he has promised it. Paul also says in the same chapter: “I say this to you, not the Lord,” and continues concerning reading …
+Es steht auch geschrieben in den Geschichten der Apostel im 15. und 16. Kapitel. Ihr sollt halten die Pforte der Zwölf Gebote und die Brüche der Älteren, spricht auch Paulus in der ersten Epistel an die Korinther im 10. Kapitel: Ich lobe euch, meine Brüder, dass ihr in allen Dingen meinen Eingang bedenkt, seit ich euch meine Pforte gegeben habe. Verheißt euch das: Die anderen Dinge will ich euch auch ordnen, wenn ich zu euch komme.  
+
+Wenn man aber nicht geschrieben findet, wo er das geordnet hat, hat doch jemand nicht zwanzig gehalten, dass er euch verheißen hat. Spricht auch im selben Kapitel: Das sage ich euch und nicht der Herr; sagt da von Lesen …  
+
+Von solchen Brüchen findet man auch geschrieben zu den Theologischen in der anderen Epistel im anderen Kapitel, die nicht alles geschrieben sind, sondern … wie ich meine.

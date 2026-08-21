@@ -1,27 +1,8 @@
-Page XXXIII  
-Conclusion.  
+Seite XXXIII  
+Schlußrede.  
 
-Assuming, and as holy as that which is written through the Spirit of the Lord,  
-again to be cast aside from [abthun] may I indeed keep [your teacher] never [to be] ... I will  
-confess that he has taken for himself what he has written. He also  
-for [something] not unjust may the church,  
-through the Spirit of the Lord, through which  
-the Spirit the Scripture has been written, however it is divided:  
-but because every Christ, that he is a Christ, also  
-this Spirit has—namely the Spirit of the Lord—so may  
-also a true Christ divide the Scripture, on that  
-the Scripture is understood through the Spirit of the Lord, and so  
-no one’s belief [is] because of another [that] shows:  
-then, as [it] is, he does not believe the Lord, except  
-the [one] that it has shown. I am, however, now persuaded that belief  
-must be shown by the other, why [there] is the opposition,  
-he altogether [is] other, so [it] stands to preach,  
-the [new] first belief, the [common] man to be taught. I consider that he will say, therefore,  
-that this belief will be given. And that he further  
-turns, as a true one who has the Spirit of the Lord,  
-the Scripture itself may [be] understood, and so. I would foresee where it  
-comes, because he does not [even] a little [fit] in the Scripture,  
-and has a great understanding of the Scripture, that he so fittingly  
-places himself in the highest parts of belief with his brethren,  
-which he, in former times, held in high esteem, namely with Luther and with the church of Wittenberg.  
-It must be that one in this [valley] unjustly has, that he indeed [is] the Scripture‑related [one].
+Man nehme an, dass das Heilige durch den Geist des Herrn geschrieben ist; man könnte es jedoch von einem Abt zurückweisen. Ich achte darauf, dass dein Lehrer nie [unleserlich] ist; ich will schweigen, dass er es für sich selbst genommen und geschrieben hat. Er wendet sich auch gegen Unrecht; die Kirche soll durch den Geist des Herrn handeln, durch den die Schrift geschrieben wurde; allerdings wird sie verteilt.  
+
+Aber jeder Christ, der ein Christ sein will, hat diesen Geist, nämlich den Geist des Herrn; so soll auch ein ewiger Christ die Schrift verbreiten und sie durch den Geist des Herrn verstehen, damit niemand wegen eines anderen Glaubens angezeigt wird. Dann, wenn er nicht an den Herrn glaubt, … Ich bin jedoch besorgt, dass man glauben soll, weil die Anzeige des anderen … warum die Gegenpartei … er … zusammen mit anderen … statt … sich … predigt … den ersten Glauben … dem gemeinen … ich halte, er werde sagen, dass … geben werden.  
+
+Und dass er weiter wendet, wie ein ewiger, der den Geist des Herrn hat, die Schrift selbst wissen soll und so. Ich will voraussehen, wo er doch nicht ein wenig, sondern trefflich in der Schrift geübt hat und großen Verstand der Schrift besitzt; dass er sich so trefflich zweier … in den höchsten Stücken des Glaubens mit seinen … hat, nämlich mit Luther und mit der Kirche von Wittenberg. Es muss jemand in diesem Unrecht haben, dass … sich … bedarf der Schrift.

@@ -1,13 +1,14 @@
 Seite IIX  
-The other  
-have passed / or are contradictory. As you also see how the articles for good are confessed / so truly they are held, therefore I ask you again, for God’s will, that the opponents also be thus considered, comforting one another, with help, counsel, writing and speaking, that our gracious Lord may be most highly rewarded, as a gracious favor, to be received with great gratitude; yet that all be ordered according to the rule, content and instruction of the Christian, therefore the appointed mandate.  
+Die andern  
 
-Allerius Grad/bychschatter in der Insel, preacher of the order.  
+Bestanden oder ihr widersprechend. Ihr seid auch, wie sich die Artikel für das Gute bekennen, so trügerisch zu sagen, dass ihr euch hält. Darum bitte ich euch erneut um Gottes Willen, dass die Widersprecher wohl ebenfalls zu sagen: einander tröstlich sein mit Hilfe, Rat, Schrift und Rede; das wird unser gnädiger Herr zum höchsten Wohl vergüten, als ein gnädiges Wohlgefallen, mit großer Dankbarkeit annehmen. Doch das alles soll nach Ordnung, Inhalt und Anweisung des christlichen, darum angesetzten Mandats geschehen.  
 
-IN dinem Namen, Herr Jesu Christ.  
-Gather, we, your gracious beloved lords, the other concluding speech.  
-Now for some time disputed, the same has, according to my understanding, two parts.  
-The first: The Church of Christ has neither set statutes nor ordinances apart from the word of God. I hold this part to be true.  
-The other part: that which is taught, that which follows and is described, that all human ordinances which are from us, called by the Church, our conscience binds not otherwise than as they are founded in the word of God or commanded. To the same I also give, in right healthy understanding, the same understanding rightly to seek; we should go into the Scripture. Now stands Joannes xviii.  
+Allerius Grad/bychschatter in der Insel/Predigerordens.  
 
-I have still much to say to you, but now I cannot bear it: but if the spirit of truth comes, it will teach you all truth; then it will not speak of itself, but will speak all that it will hear, and will show you the things that are to come. This spirit and teacher has Christ our Lord, his Church…
+In deinem Namen, Herr Jesu Christ. Ersamē/wy … liebe Herren.  
+
+Die andere Schlussrede  
+
+Jetzt etliche Zeit disputiert; die selbige hat nach meinem Verstand zwei Teile. Der erste: Die Kirche Christi macht nicht gesetzt noch Statuten ohne das Gotteswort. Diesen Teil halte ich für wahr. Den anderen Teil: der da lügt, das daraus folgt und beschächt, das alle menschlichen Satzungen, die von uns, der Kirche, geboten genannt sind, unser Gewissen nicht anders binden, als viel sie im Gotteswort gegründet sind oder geboten; den selben gebe ich auch zu in rechtem, gesundem Verstand, den selben Verstand recht zu suchen; sollen wir ganz in die Schrift. Nun steht Johannes XVIII.  
+
+Ich habe euch noch viel gesagt, euer Mögliches, aber jetzt nicht tragen: wenn aber der Geist der Wahrheit kommen wird, so wird er euch lehren alle Wahrheit; dann wird er nicht reden von sich selbst, aber er wird reden alles, das er hören wird, und wird euch verkünden die Dinge, die künftig sind. Dieser Geist und Lehrer hat Christus unser Herr seiner Kirche nicht.

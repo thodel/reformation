@@ -1,10 +1,23 @@
-Seite LIX  
+Seite LIX  
 
-Schlußred.  
-Erste cap. spricht Paulus aber zu euch: Ich bin dreimal zu euch gekommen; komm ich mehr, so will ich euch nicht übersehen.  
-Mag ein jeder Christ wohl bedenken, wo die Ordnung nicht wäre, und jeder machte, was er wollte, wie es geworden ist.  
-Spricht auch Paulus weiter, 1 Kor. XII cap. In der Kirche sind Gubernationen, wo nun Regierungen sind, da muss ein Oberer sein, von dem geregelt wird. Jetzt zu Hebräer am letzten cap. spricht der heilige Paulus:  
-Sind ihr Gedanke überfürgesetzt, so achtet das Ende eures Lebens, folgend auch eurem Glauben nach: seid gehorsam euren Prälaten und Fürgesetzten, und seid einander würdig; dann seid wachend für euch und müsst Gott Rechnung für euch geben.  
+Schlussrede.  
+
+Im ersten Kapitel spricht Paulus jedoch zu euch:  
+„Ich bin dreimal zu euch gekommen; ich komme noch; so will ich euch nun nicht mehr sehen.“  
+
+Möge jeder Christ wohl bedenken, wo die Ordnung nicht wäre; jeder würde tun, was er wolle, wie es geworden wäre.  
+
+Paulus spricht weiter, 2 Kor. XII, Kapitel. In der Kirche gibt es Regierungen; wo Regierungen sind, muss ein Oberster sein, von dem alles geregelt wird.  
+
+Zum Ende des Hebräerbriefes spricht der heilige Paulus:  
+„Sind euch Gedanken über das Gesetz gegeben, so achtet das Ende eures Lebens, folgt eurem Glauben: Seid gehorsam gegenüber den Prälaten und Gesetzgebern, seid unterwürfig; dann seid wachsam für euch selbst und müsst Gott für euch Rechnung geben.“  
 
 Berchtoldus.  
-Indem also Meister Niclaus anzeigt von der Einliebe, man sieht offenbar, dass er bekennt, dass Christus, der einig Haupt, Leben und Kraft ist, und will doch nicht verkennen, dass Christus unser Haupt, Leben und Kraft sei, sondern nimmt das ein Einglück, so doch kein Apostel also redet; Christus ist uns ungleich geliebt, sondern viel mehr wir sind Christus gleich geliebt. etc. Zum andern, der Spruch zu Epheser V cap. hat er im selbst aufgefost mit nachfolgenden Worten, wie er
+
+Indem also Meister Niclaus anzieht, dass man offen sieht, dass er bekennt, Christus sei das einzige Haupt, das Leben und die Kraft, und er wolle das nicht verkennen, dass Christus unser Haupt, das Leben und die Kraft sei; er nehme jedoch nicht irgendeine Einladung, so spricht er nicht wie ein Apostel. Christus ist uns nicht ungleich geliebt, sondern vielmehr sind wir Christus gleich geliebt.  
+
+Zum anderen: Der Spruch zu Epheser, Kapitel 5, hat er im Selbst­gefällten mit nachfolgenden Worten, wie er dieselben haben will, verlassen.  
+
+Zu dritt: weil er Prälaten haben will in der Kirche und Oberste, so bringe hierfür die Schrift, was doch die Namen solcher Prälaten sind.  
+
+Zum vierten: Der Spruch aus dem ersten Brief an die Korinther, zu welchem er in beständiger Weise bekennt, ist es doch eine Frage des Apostels Paulus: Was wollt ihr? Soll ich mit der Rute zu euch kommen oder mit Liebe und sanftmütigem Geist? Was die Rute …

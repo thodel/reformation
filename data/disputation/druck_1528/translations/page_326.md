@@ -1,10 +1,17 @@
-Seite [X]  
-*Analogia fidei.* **The Fourth**  
+Seite [X]  
+*Analogia fidei.* **Die vierte**  
 
-We therefore refer to the analogy of faith with the instrument or brief of the written text, which might yet show many more reasons, which however we will spare for brevity.  
+Ansehen) So berufen wir die Ähnlichkeit des Glaubens mit dem Instrument oder Brief der Schriftzeit; ich möchte noch viel mehr Gründe anführen, die wir jedoch aus Gründen der Kürze weglassen.  
 
-### Pfarrer von sankt Gallen.  
+### Pfarrer von sanct Gallen.  
+[V]ingeleitete Probe zu volkstümlicher Erklärung des Fürnehmens, betreffend die vierte Conclusio; sind eingeführt etliche Sprüche aus dem v. Cap. Johannes, vormals erklärt.  
 
-[V]ingeleite Probation zu volkmoner Erklärung des Fürnemens, betreffend die vierte Conclusio, sind eingeführt etliche Sprüche aus dem vierten Kapitel Johannes, vormals erklärt; wir bezeugen wie zuvor unter welchem einer ist: nämlich „Das Fleisch ist nicht nützlich; der Geist ist das, was das Leben macht.“ Aus welchem allem wir verstehen, solches nicht verachten oder zu wider sin, der leiblichen Neigung des Lebens Christi, sonder solches von fleischlichem Verderb oder Verstand: dann fleischlich zu verzehren, ein Sohn ist Josephs, wie er einen sein Fleisch geben kann zu essen; das in andern vielen Sachen, viele andere übernatürliche Taten eröffnet: im Durchgang des roten Mörs in Spießung des Himmelbrotes; ein in anderen Wunderwerken durch Moïsen verfasst. So nun die Figur oder Bedeutung des Lebens Christi nützlich oder gut sein, wie viel mehr wir das wüssten, das dadurch bedeutet werden soll an ihm selbst; dann Christus nicht allein genossen leiblich an Geist des Glaubens, sondern auch gekreuzigt unser Sündebekenntnis, unverfälscht ist. Der gleiche auch über diesen Spruch, es eine Erklärung ist, die die Schrift also zugegen sein möchte, durch welches leiblich anrühren, mit bei wäsenden Geist, die stets gereinigt werden. Soll nun des Leibes oder Fleisches kein Nutzen sein, der aber dem heiligen Geist empfangen wird, in dem alle Vollkommenheit der Gottheit hat gewohnt zu Colossä.  
+Wir erläutern, wie zuvor unter welchem einer ist: nämlich das Fleisch ist nicht nützlich, der Geist ist das, was uns lebendig macht. Aus diesem Grund verstehen wir, dass wir solches nicht verachten oder ihm entgegenstehen dürfen, insbesondere nicht die leibliche Nähe des Leibes Christi, sondern nur das, was vom fleischlichen Verderb oder Missverständnis stammt. Dann wird das Fleischlich‑Verweisende, ein Sohn des Joseph, wie er ihnen sein Fleisch zum Essen geben kann, in vielen anderen Dingen offenbart; viele andere übernatürliche Taten werden gezeigt: im Durchgang des roten Moors, in der Sprengung des himmlischen Brotes, in anderen Wunderwerken, die durch Mose verfasst sind.  
 
-am i. Kapitel: trägt auf im diesen Verstand: dass es der Mensch...
+So soll nun die Figur oder Bedeutung des Leibes Christi nützlich und gut sein – je mehr wir das erkennen, desto mehr soll es an jedem Einzelnen wirksam werden. Christus ist nicht allein leiblich im Geist des Glaubens genossen, sondern auch gekreuzigt für unser aller Heil, das unerschütterlich ist.  
+
+Der gleiche Gedanke gilt über diesen Spruch: Es ist eine Erklärung, die die Schrift zugegen haben möchte, durch die das Leibliche berührt wird, mit reinigendem Geist, sodass das Wesentliche gereinigt wird.  
+
+Soll nun der Leib oder das Fleisch keinen Nutzen haben, so wird er doch vom heiligen Geist empfangen; in ihm wohnt die Vollkommenheit der Gottheit, die zur Gemeinschaft gehört.  
+
+Am I. Kapitel: Es trägt zu diesem Verständnis bei, dass der Mensch …

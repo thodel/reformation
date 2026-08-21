@@ -1,9 +1,9 @@
-Page 149  
+Seite 149  
 
-The fifth  
+Die fünfte  
 
-Such here still with his death is also openly proven / that not all … on page 149 … only the flesh of Christ is not properly read / not the testament is / rather also his own blood / not the testament is: that which … with the … the testament is adjudicated / as first and formerly heard. The testaments but / judges / are the Apostles / is well spoken. They say however that the testament … / that is the given remission of sins. As Luke at xxiiij, Matthew xxviij, Mark at the last. That the remission of sin should be proclaimed throughout the whole world. That which is drawn from John and Mary we gladly believe / that the mother of Christ John … be … and he …  
+Sucht hier noch mit seinem Tod, es ist auch öffentlich erwiesen, dass nicht alles am 149. Blatt, nur das Fleisch Christi leiblich gegessen wird, nicht das Testament, sondern auch sein eigenes Blut; nicht das Testament ist, sondern das, was mit dem Testament eröffnet ist, wie zuerst und vormals gehört. Die Testamenter aber bzw. die Richter sind die Apostel, das ist wohl richtig gesagt. Sie meinen aber das Testament, das ist die vergabene Nachlassung der Sünden. Wie Lukas im 24., Matthäus im 28., Markus zuletzt. Dass die Nachlassung der Sünde gepredigt werden soll, durch die ganze Welt hindurch. Das von Johannes und Maria angezogen ist, glauben wir gern, dass die Mutter Christi, Johannes, sich bezeugen, und er dazu züchtig und treulich gewartet habe.  
 
-Master Johannes Dannberger.  
+Meyster Johannes Dannberger.  
 
-[Initial H] Herr Berchtold / against your concluding speech I argue / the one there … Christ the Lord …
+[Initial H] Err Berchtold wider über Schlussrede argumentiere ich, die da enthalten Christus, den Herrn, aufgefordert … vom Vater für die Sünde.

@@ -1,15 +1,13 @@
 Seite 176  
-Schlußred. CLXXVI  
+Schlußrede CLXXVI  
 Burgmurer.  
 
-Als Meister Friedrich gesprochen hat.  
-The word does not stand in Greek nor in Hebrew; we leave it unanswered, those who have learned this language.  
-If that is sufficient, that we remain with the harsh Latin text.  
-That he, however, says, we have not proved that Melchisedek here offered a sacrifice; we give an answer, as the letter does not permit, yet the word previously used is brought forward.  
-Then he is a priest. And so his addition is hard; he may have once offered wine and bread; this is for us (as yesterday also was shown) that Christ is a priest according to the order of Melchisedek: therefore I ask him to show us with what sacrifice he likewise offered; so we trust, as before, that perhaps with Scripture he will bring another argument.  
+Als Meister Wilhelm gesprochen hat: Das Wort steht weder im Griechischen noch im Hebräischen; wir lassen es unverändert, weil diese Sprache erfahren wurde. Uns genügt, dass wir beim harten lateinischen Text bleiben. Dass er jedoch spricht, wir haben nicht nachgewiesen, dass Melchisedek hier geopfert hat; wir antworten, dass es dem Wortlaut nach nicht zutrifft; das Wort wurde jedoch zuvor eingeführt, und dann ist er ein Priester.  
 
-If, however, the comparison should and must be, which further proves with Scripture; from the Book of Proverbs chapter ix Solomon says: “His wisdom has built a house, has raised seven pillars, has offered his sacrifice, has mixed the wine, and in other words, further: Come, eat my bread and drink the wine that I have mixed.”  
+Und so wird hinzugefügt, dass er vielleicht einmal Wein und Brot geopfert hat; das ist für uns systematisch (wie gestern ebenfalls gezeigt wurde), dass Christus ein Priester nach der Ordnung Melchisedeks ist. Ich frage ihn, dass er uns zeige, mit welchem Opfer er zugleich geopfert hat; wir vertrauen, wie zuvor, dass er mit der Schrift etwas anderes herbeiführen wird.  
 
-Now the sacrifice is described with the mixing of the wine in his sacrifice otherwise; then in the measure; therefore it follows thereafter that the measure is a sacrifice.  
+Wenn es jedoch die Vergleichung sein soll und muss, die weiter mit der Schrift zu beweisen ist, so heißt es aus dem Buch der Sprüche, Kapitel 9, dass Salomo spricht: Seine Weisheit hat er ein Haus gebaut, hat sieben Säulen errichtet, hat sein Opfer dargebracht, hat den Wein gemischt und, mit anderen Worten, sagt: Kommt ihr, esst mein Brot und trinkt den Wein, den ich euch gemischt habe.  
 
-He wrote half of Genesis at chapter xiv. Let us rely on the text. The question is: how Christ himself, according to the order of Melchisedek, is a priest; see page 174.
+Nun verbindet das Opfer die Vermischung des Weins, in keinem anderen Opfer; dann in der Menge, darum folgt, dass die Menge ein Opfer ist. Zwingend.  
+
+Er zitiert Genesis, Kapitel 13. Wir verlassen uns auf den Text. Der Fragenteil, wie Christus sich hier nach der Ordnung Melchisedeks als Priester versteht, steht auf Blatt 174.

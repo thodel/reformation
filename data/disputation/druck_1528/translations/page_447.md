@@ -1,14 +1,8 @@
-Seite CCXVI  
-Schlußred.  
+Seite CCXVI  
+Schlußrede.  
 
-Man has laid two eastward / That has pleased God / that these / the superfluous have laid. / That I should try / that a Fegefür be? I hope I have done so: / but I have not yet heard any further writing, / that should not be. / To further confirm everything / I take for myself the word of Christ / Matt. v. / Thus the Lord says:  
-
-Make a covenant with your friend soon, / while you are still on the way, / so that your adversary does not give you to the judge, / and the judge his servants, / and lay you in the prison: truly I say to you, / that you will not go out / until you have paid the smallest quarter.  
-
-Through this prison must here be understood / a means of withholding / between heaven and hell, / that is the Fegefür: / then, if he does not go out, / until he has paid, / so he will thereafter go out, / once he has paid.  
+Man hat zwei Ötzli gelegt, das hat Gott gefallen, dass diese die Überflüssigkeit gelegt haben. Ich soll probieren, dass eine Fähigkeit sei? Ich hoffe, ich habe es getan: habe aber noch keine weitere Schrift gehört, das soll nicht sein. Und so vieles weiter zu bestätigen, nehme ich für mich das Wort Christi (Matth. v.). So spricht der Herr: „Schließe dich bald mit deinem Freund, solange du noch auf dem Weg bist, damit dich nicht dein Widersacher dem Richter übergibt, und der Richter seine Diener übergibt; lege dich in den Kerker: denn ich sage dir, dass du nicht hinausgehen wirst, solange du nicht den kleinsten Quadranten bezahlst. Durch diesen Kerker muss hier verstanden werden, eine mittlere Entfernung zwischen Himmel und Hölle, das ist die Fähigkeit: dann, wenn er nicht hinausgeht, wird er gehen, bis er bezahlt hat; so wird er danach hinausgehen, sobald er bezahlt hat.“  
 
 Berchtoldus Haller  
 
-As no Fegefür may be, / it is with clear writing / in the illumination of the closing speech / sufficiently presented, / and remains still steadfast and unshaken.  
-
-But the saying of Matt. v., / as the schoolmaster of the Fegefür wishes, / has the meaning, / also the preceding words of Christ, / to some extent indicate. / He has spoken how one should reconcile with the brother, / that one should lay the offerings / after the breaking of the covenant / upon the altar. / In these words, however, / the Lord gives an example, / that He tries us to reconcile with our neighbor; / this is the meaning: / So your law calls you to judgment, / and you now, being under way with someone, / would be judge; / how would you handle that? / Then you would be justly bound with someone, / and then you would expect the straightness of the right.
+Als kein … sein könnte, ist mit klarer Schrift in Erleuchtung der Schlussrede genügend dargelegt und bleibt noch beständig und unverrückbar. Den Spruch aber Matth. v., so der Schülmeister …, hat den Sinn, den auch die vorgängigen Worte Christi zum Teil anzeigen. Er hat geredet, wie man sich mit dem Bruder versöhnen soll, dass man die Opfer nach Bruch des Satzes auf den Altar lege. In diesen Worten aber gibt der Herr ein Beispiel, damit er uns versucht, zu versöhnen mit unserem Nächsten; ist das die Meinung: So dein Geld, dich für Gericht berufen, und du jetzt unter Wege mit ihm wärst, zum Richter, wie möchtest du das handeln, dann dass du dich mit ihm gütlich berätst, dann, wenn du die Straße des Rechts wählst, erwartest …

@@ -1,7 +1,16 @@
-Seite 209  
-Schlußred. CCIX  
+Seite 209  
+Schlussrede CCIX  
 
-gesprochen zu dem Herren: Lord/ if you will again give in this time/ the kingdom to your people Israel:  
-Hat er einen geantwortet: It is not in our understanding/ the time or the instant/ that my father has set in his power. The same also says Paul/ in the Epistle to the Corinthians/ chapter II. There is no ear that has heard/ nor any eye that has ever seen, e.g. Thus says Christ in the Gospel of John/ chapter VIII. In the house of my father there are many dwellings. The house of the father is twofold: One of the reward/ is the kingdom of the heavens/ now the choir of the angels. The other house/ is the house of punishment. Von dem da spricht Paul/ in den Episteln:  
-Er ist abgestiegen zu den niederen Teilen des Erdbodens. Finden wir einen oberen Teil der Hölle/ einen mittleren Teil/ und den aller niedrigsten Teil. Von dem oberen Teil haben wir Regum/ Kapitel II. Der Herr des Todes/ und Macht macht lebendig:  
-Er führt zu den Hellen/ und führt wieder herab. Vom mittleren Teil der Hellen schreibt der Prophet David/ Psalm 1085. Lord, du hast meine Seele erlöst/ von der niederen Hölle. Jetzt finden wir auch einen Ort der Hölle/ Za‑charie. Kapitel IX also geschrieben: Lord, du hast deine Anfänge im Blut deines Testaments/ in den Gräbern/ worin kein Wasser war. Von der niedrigsten Stätte der Hölle/ ist keine Erlösung. Schreibe Hiob/ Vers … Ich werde dorthin gehen/ und nie mehr zurückkehren zu der finsteren Erde/ die bedeckt ist mit der Finsternis des Todes, z. B. Durch das will ich gerichtet werden.
+gesprochen zu dem Herrn: Herr, wirst du in dieser Zeit das Reich deinem Volk Israel wieder geben?  
+
+Er antwortete: Es ist nicht in unserem Erkennen die Zeit oder der Augenblick, den mein Vater gesetzt hat in seiner Gewalt. Ebenso spricht Paulus im ersten Brief an die Korinther im Kapitel …: Es hat kein Ohr gehört, noch kein Auge gesehen. So spricht Christus im Evangelium nach Johannes, Kapitel 7 8.  
+
+In dem Haus meines Vaters gibt es viele Wohnungen. Das Haus des Vaters ist vielfältig: Einerseits die Belohnung, das Reich der Himmel, das jetzt der Chor der Engel ist. Das andere Haus ist das Haus der Strafe. Davon spricht Paulus in den Ephesern: Er ist abgesondert zu den niederen Teilen des Erdkreises.  
+
+Wir finden einen oberen Teil der Hölle, einen mittleren Teil und den alleruntersten Teil. Vom oberen Teil haben wir das Reich, Kapitel … Der Herr der Toten und der Lebenden macht lebendig: Er führt zu den Hellen und führt zurück nach Hause.  
+
+Vom mittleren Teil der Hellen schreibt der Prophet David, Psalm 80: Herr, du hast meine Seele erlöst von der niederen Hölle. Wir finden auch einen Ort der Hölle, Zauber, Kapitel 9 … Stadt also geschrieben: Herr, du hast deine Gefangenen geführt im Blut deines Testaments, im Graben, darin kein Wasser war.  
+
+Von der niedrigsten Stadt der Hölle, darin keine Erlösung ist. Schreibt Hiob, Vers …: Ich werde hingehen und nicht mehr zurückkommen zu dem finsteren Erdkreis, der bedeckt ist mit der Finsternis des Todes. Deshalb will ich bewahrt werden, zu gleicher Weise, als dort viel stärker die Belohnung, also auch viel stärker die Strafe: dann kann niemand zum Himmel kommen, gesegnet oder gemächt.  
+
+Bezieht der Prophet David: Herr, wärst du in deinem Tabernakel … und gibt Antwort.

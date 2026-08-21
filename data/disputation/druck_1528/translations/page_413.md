@@ -1,18 +1,20 @@
-Seite 199  
-Schlußred. CXCIX  
-Gilg Ädurer.  
+Seite 199  
+Schlussrede CXCIX  
 
-Herr Christus geboren, dass die Jünger hier auf Ertrich (gegenwärtig) ein Ding mit ihm seien, seiner Gnade und seines Geistes halb: viel mehr sind die außerhalb der Heiligen im Himmel ein Ding mit der Gnade und dem Geist in Christo; und also mögen sie auch überflüssiger für uns bitten im Himmel, denn die, die hier auf Ertrich (gegenwärtig) sind. Dann schreibt der Prophet Saul. Psalm xxxj. von der Nachlassung der Sünde und danach für die wird bitten ein ätlicher Heiliger in der Zeit, so es geschickt oder angemessen wird.  
+**Gilg Ädurer.**  
 
-Adeyster Vlrich Zwingly  
+Herr Christus, geboren, die Jünger hier gefunden haben, ein Teil seiner Gnade und seines Geistes zu sein: viel mehr sind die außerhalb der Welt stehenden Heiligen im Himmel, ein Teil der Gnade und des Geistes in Christus. Und also können sie auch für uns im Himmel überflüssig bitten, die hier gefunden wurden. Dann schreibt der Prophet Sa… im Psalm xxxj von der Nachlassung der Sünde und danach für die, die in dieser Zeit heilig werden, so wie es passend ist.  
 
-Von der Einigkeit aber redet hier Christus nicht, sondern von der, die den Menschen zürnt, hier in dieser Zeit; der Psalm ist nicht wider uns; dann heißt Sanctus ein Heiliger, das ist ein gläubiger oder gottesfürchtiger; die werden Gott zu ihrer Zeit bitten.  
+**Adeyster Vlrich Zwingly.**  
 
-Gilg Ädurer+  
+Von der Einheit her spricht hier Christus nicht, sondern er richtet sich an die Menschen, die in dieser Zeit den Psalm nicht widerlegen können; dann heißt der Sanctus ein Heiliger, das ist ein Gläubiger oder ein Gottesfürchtiger, die Gott zu ihrer Zeit bitten werden.  
 
-Das für Bitt (Gebet) der außerhalb der Heiligen im Himmel, will ich bewahren aus dem Propheten Hieremia am XV., da er spricht: Wenn Mose und Samuel vor mir standen, so ist meine Seele nicht gegen das Volk. Hier ist offenbar, dass der Prophet Jeremias geredet hat von den abgestorbenen im Himmel; dann zu der Zeit sind sie längst gestorben gewesen.  
+**Gilg Ädurer +**  
 
-Zwingly  
+Dass die außerhalb der Welt stehenden Heiligen im Himmel bitten, will ich aus dem Propheten Jeremia am 15. Tag zitieren, wo er spricht: „Wenn Mose und Samuel vor mir stehen, ist meine Seele nicht gegen das Volk.“ Hier wird offenbar, dass der Prophet Jeremia von den Verstorbenen im Himmel gesprochen hat; zu jener Zeit waren sie lange tot.  
 
-Ich frage auch, ob Mose und Samuel vor der Zukunft Christi im Himmel gewachsen seien oder nicht.  
-Ddd iij
+**Zwingly.**  
+
+Ich frage auch, ob Mose und Samuel vor der Ankunft Christi im Himmel gewachsen sind oder nicht.  
+
+---  

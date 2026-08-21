@@ -1,32 +1,32 @@
-Page CXLIX  
-Closing speech CXLIX  
+Seite CXLIX  
+Schlußred. CXLIX  
 
-He gladly presented that which, after the Cross, he did not complete the forgiveness of his blood.  
+Gern hat er dargebracht, was er danach am Kreuz nicht vergossen hat; sein Blut hat vollendet.  
 
-Aechster Ulrich Zwingli.  
+Ältester Ulrich Zwingli.  
 
-This is not an answer to what we have raised; we would like to know what Matthew and Mark say: we ask them whether they recognize that the futile remission of sin is the Testament.  
+Dies ist keine Antwort darauf, dass wir erörtern; wir wissen wohl, was Matthäus und Markus sagen: wir begehren von ihnen, ob sie erkennen, dass die vergebliche Nachlässigkeit der Sünde das Testament sei.  
 
-Pastor of Saint Gall.  
+Pfarrer von Sant Gallen.  
 
-My understanding is already sufficiently answered, that the new Testament is the remission of sin.  
-
-Zwingli.  
-
-Now I ask them whether there are two New Testaments or only one.  
-
-Pastor.  
-
-I answer: There is only one New Testament.  
+Meines Verständnisses nach ist bereits genug beantwortet, dass das neue Testament die Vergebung der Sünde sei.  
 
 Zwingli.  
 
-Thus follows that no fragment may be the New Testament.  
+Nun frage ich sie, ob zwei neue Testamente sein sollen oder nur eins.  
 
-Pastor of Saint Gall.  
+Pfarrer.  
 
-I answer: No fragment can be the New Testament; but the blood of Christ, as he spoke through Matthew. That is my blood of the New Testament, and Luke also says in my blood, etc.  
+Antwort: Es ist allein ein neues Testament.  
 
-Zwingli  
+Zwingli.  
 
-These are some words: no fragment may be the New Testament; the blood of Christ is a fragment (as …)
+So folgt, dass kein Teil das neue Testament sein kann.  
+
+Pfarrer von Sant Gallen.  
+
+Antwort: Kein Teil kann das neue Testament sein, aber das Blut Christi, wie es durch Matthäus verkündet wurde. Das ist mein Blut des neuen Testaments, und Lukas sagt ebenfalls in meinem Blut …  
+
+Zwingli.  
+
+Das sind nur einige Worte; kein Teil kann das neue Testament sein; das Blut Christi ist ein Teil (als …).

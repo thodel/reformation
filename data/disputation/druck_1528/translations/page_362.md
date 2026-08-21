@@ -1,42 +1,14 @@
 Seite CXXVIII  
 
-The fifth  
-Letter  
+Die fünfte  
+Buchstab  
 
-[D] Jewyl Melchizedek a higher priest / bread  
-and wine / for that has carried / and as Paul  
-to the Hebrews asserted / that no priest  
-is not / who does not offer / must follow / that also  
-Melchizedek something has offered. It is also brought with no  
-scripture / that Melchizedek / bread and wine /  
-not by him has offered / he, as Abraham, likewise for that  
-has carried: then the text later says: He is seen  
-as a priest of the most high God / to whom it is also necessary  
-to belong to offer.  
+[D] Jewyl: Melchisedek ist ein höchster Priester, der Brot und Wein dargebracht hat, und Paulus hat dies den Hebräern gegenüber behauptet, dass kein Priester existiere, der nicht opfert; man müsse folgen, dass auch Melchisedek etwas geopfert hat. Es wird auch ohne irgendeine Schrift überliefert, dass Melchisedek Brot und Wein nicht nur dargebracht hat, sondern dass er für Abraham solches dargebracht hat. Dann sagt der spätere Text, er sei ein Priester des höchsten Gottes, dem es ebenfalls gebührt zu opfern.  
 
 Berchtoldus  
 
-[W] I acknowledge with the scripture / that Melchizedek  
-a priest of the most high God is seen /  
-If however Abraham / bread and wine has offered /  
-or previously God the Lord / is not found in the text /  
-by the school‑master drawn: Where it has been shown / that he appears / Melchizedek a priest  
-of the most high God. From that therefore it will  
-be noted / according to the holy Paul / where  
+[W] Jr bekennt mit der Schrift, dass Melchisedek ein Priester des allerhöchsten Gottes sei gesehen worden. Wenn er aber Abraham Brot und Wein geopfert hat, oder zuvor Gott, den Herrn, erfand er sich nicht im Text, sondern wurde durch den Schulmeister angezogen: dort hat er sich bewährt, dass er gezeigt hat, dass Melchisedek ein Priester des allerhöchsten Gottes ist. Daraufhin soll nach dem heiligen Paulus vermerkt werden, wo solche Dinge gedeutet werden sollen. Jr haben den Spruch über das Fürnehmen angezogen, um das Maßopfer zu beweisen. So gebt nun euch, dass ihr prüfen sollt, wo Melchisedek Wein und Brot geopfert hat.  
 
-gur dütet  
+Buchstab  
 
-vñ  
-
-lendet  
-
-I have the saying from above for the purpose  
-
-to preserve the measure.  
-
-Letter  
-
-[D] Jewyl I do not find / what he after his priest‑  
-hood offered, and here however later states /  
-that he bread and wine / for that has carried /  
-and
+[D] Jewyl: Ich finde nicht, was er nach seinem Priesteramt geopfert hat, und hier aber später steht, dass er Brot und Wein dargebracht hat, und …

@@ -1,32 +1,10 @@
 Seite LXXIII  
 
-Schlußred.  
-lichen dingen/ was aber/ vnd wie er jnen daruon gesagt  
-hatt/ wirdt mit besundern worten nit anzeygt.  
+Schlussrede.  
+Über irdische Dinge, was aber und wie er darauf gesagt hat, wird mit besonderen Worten nicht dargestellt.  
 
 Martinus Butzer.  
-Sfind anzogen etwan vil Ort der Euangelische͂  
-schrifften/ in welchen von Etlichen lernen vnd  
-auch wårcken unsers herrn Jesu gemeldet wirt  
-die doch in sonderheyt in der gschrifft nit verfasset sind/  
-das g̃stand wir gern/ sagen aber darby/ das die selbigen  
-lernen und reden/ sampt den wercken des herren/ so nitt  
-beschriben sind/ nu͂t anders inngehalten und gelert haben/  
-dann das in dem geschriben überflüssig gelåssen wird  
-dann Sanctus Paulus/ vonn der gschrifft/ so vor der  
-Apostel zyt gewåsen ist/ also schribt/ und die wil du von  
-kindheit uff heylige gschrifft weißt/ꝛc. ij. Timothei iij.  
-Vß dem Spruch ist Clar das nitt witers zu glouben ist/  
-dann so in Biblischer gschrifft vergriffen ist/ und hat der  
-herr noch alle Apostel/ nu͂t anders lernen mögen.  
+Man findet an vielen Stellen in den evangelischen Schriften, dass von einigen Lehrern und auch von den Wächtern unseres Herrn Jesus berichtet wird, die jedoch besonders in der Schrift nicht niedergeschrieben sind. Wir möchten das gern sagen, aber dabei, dass dieselben Lehrer und Reden zusammen mit den Werken des Herrn nicht beschrieben sind, nichts anderes enthalten und gelehrt haben; dann wird das Geschriebene überflüssig gelassen, dann der heilige Paulus, von der Schrift, so vor der Apostelzeit gewesen ist, also schreibt, und du weißt von Kindheit an die heilige Schrift, z. B. 1. Timotheus 3. Nach diesem Spruch ist klar, dass das nicht weiter zu glauben ist; dann ist es in biblischer Schrift verkehrt, und der Herr hat noch alle Apostel, nichts anderes lernen können.  
 
 Johannes Büchstab.  
-DAs Timotheus die geschrifften von jugend vff  
-hab gewüßt/ laß ich blibē/ das aber ander lernen/  
-durch Sanctnm Paulum geleert sind worden/  
-die auch nicht beschriben sind/ wird an vil orten an  
-zeygt als zun Römern am v. zun Galatern am j. Actu  
-um am vj. am. viij. vnnd durch vß/ in den geschichten  
-der zwölffbotten/ er hatt ouch ettliche ding durch Bot  
-schafft vnnd mund vßgericht/ als er zû den Epheseren  
-T ij
+Dass Timotheus die Schriften von Jugend an kannte, lasse ich beibehalten; das aber andere Lehrer, durch den heiligen Paulus gelehrt worden sind, die ebenfalls nicht beschrieben sind, wird an vielen Stellen gezeigt, etwa bei den Römern, bei den Galatern, bei den Aktuellen, bei den Vierten, bei den Siebten und durch … in den Geschichten der Zwölfboten; er hat auch einige Dinge durch Bischaft und Mundgericht, als er zu den Ephesern …

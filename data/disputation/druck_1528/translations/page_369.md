@@ -1,10 +1,10 @@
 Seite CLXXVII  
 Schlußred CLXXVII  
-sedech/vnd es nit mag sin der tod/so bitten wir min her ren der widerparthy/das sy vns nennen vß der schrifft/was Opffer Melchisedech vffgeopffret habe/das ewig lich sol seien.  
+Sodass es nicht sein kann, dass der Tod, so bitten wir meine Herren der Gegenpartei, dass sie uns aus der Schrift nennen, was das Opfer Melchisedechs aufgeopfert hat, das ewiglich sein soll.  
 
 Zwingli  
-[S]Ift gnug anzeigt/das die vorbildung des alten Testamēts/nit vsserlichē in alle maas müß im Nüwen vßgetruckt werdē/oder aber es wä ren nit vmbræ, das ist/Entwerffungē vnd Bedütussen/sonders die that selbs/welches wir an Melchisedech se chend/so er ein priester des höchsten Gottes ist gewäsen/vnd vsserliche opffer vffgeopffret hat: dann er darumb ein Priester was/von opfferen/Jst damit bedütet/das Christus sich selbs hat vffgeopffret/Hebreorū vij. cap.  
-Sann wo Melchisedech müßte Christo in allweg vßge truckt/glych sin/so müßte er von einer jungffrowen ge bozen sin/ein sun Gottes sin/gecrütziget sin. 2c. So nun das nit/so sechē wir offenlich/das sin wäsen nun ein vor bild gewäsen ist/in vsserlichen dingen/die aber Christus mit jm selbs erfüllt hat.  
+[S]Ift genug anzeigt, dass die Vorbildung des alten Testaments nicht überall in alle Maße im Neuen uns gedruckt werden muss, oder aber es wäre nicht umbrae, das ist Entwurf und Bedeutung, sondern die Tat selbst, welches wir an Melchisedech sehen, sodass er ein Priester des höchsten Gottes gewesen ist und sämtliche Opfer aufgeopfert hat: dann war er deshalb ein Priester von Opfern, das ist damit gemeint, dass Christus sich selbst aufgeopfert hat (Hebräer 7, Kapitel).  
+Wenn Melchisedech Christus in aller Weise gleich sein müsste, so müsste er von einer Jungfrau geboren sein, ein Sohn Gottes sein, gerecht sein. 2c. So nun das nicht, so sehen wir offenlich, das ist gewesen, nun ein Vorbild gewesen ist in allen Dingen, die aber Christus mit ihm selbst erfüllt hat.  
 
 Gilg Durer.  
-[W]Jr sagend nit/das Christus vnnd Melchise dech/in allen Dingen glychförmig söllend sin/wie man vns gern züschryben wölt/sunders/so der tod mit Melchisedech nitt verglychet mag werden/habend wir ein ander opffer begärt zeüf sen vß der schrifft/das nit beschehen ist/Vnd damit be selchen wir es der schrifft.
+[W]Wir sagen nicht, dass Christus und Melchisedech in allen Dingen gleichförmig sein sollen, wie man uns gern schreiben würde, sondern dass der Tod mit Melchisedech nicht verglichen werden kann. Haben wir ein anderes Opfer verlangt, das aus der Schrift kommt, das nicht geschehen ist? Und damit …

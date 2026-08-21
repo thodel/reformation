@@ -1,26 +1,12 @@
 Seite LXXVI  
-**Schlußred.**  
+**Schlussrede.**  
 
-give/that all those who believe and are baptized/make  
-the holy Christian churches/and no longer is there when  
-a church/as we have Cantico in the year. Some is my  
-tub/some is my unblemished/... and John on the tenth. It  
-will become a shepherd’s fold/a shepherd/thereafter follows further/so that  
-the same statutes are made/as governed by the holy spirit/not ... nor ... nor ... their statutes are accepted  
+Es soll allen, die glauben und getauft sind, die heiligen christlichen Kirchen zugeordnet werden; es ist nicht mehr zu fragen, wann eine Kirche besteht, denn wir haben das Cantico im Jahre …. Mein Teil ist einig, meine unbefleckte Seele ist einig, und Johannes am X. Es wird ein Schafstall und ein Hirte eingerichtet, daraus folgt weiter, dass dieselbe bestimmte Statuten festlegt, die vom heiligen Geist geregelt sind, nicht von Menschen, und ihre Statuten angenommen werden, obwohl sie nicht immer in denselben Worten der Schrift wiedergegeben werden; doch der Geist Gottes hat verheißen, dass er der heiligen Christenheit das Kommende verkünden wird. Damit wird die weitere Bestätigung des Petrus im ersten Kapitel geschrieben, dass dies zum ersten Verständnis dienen soll, dass alle Schrift von Gott eingegeben ist und nicht durch eigene Auslegung, besonders nicht durch Anblässe oder Eingriffe, vom heiligen Geist, haben die heiligen Männer Gottes geredet.  
 
 **Martinus Butzer.**  
 
-L‑Angeſt is said/so the church/for the believers is taken up/so it makes no  
-gift/has at 3:74, 75, 78.  
-a firm basis in Scripture/and that ... Pe = 79, 83, 84 page.  
-... in the year at the first chapter will also not otherwise  
+Es ist gesagt, dass die Kirche für die Gläubigen genommen wird; sie gibt kein Gebot, das an den Stellen 3, 74, 75, 78 zu finden ist, ein feststehender Grund in der Schrift, und das andere Blatt 79, 83, 84 im ersten Kapitel soll ebenfalls nichts anderes bedeuten.  
 
 **Bichuatter.**  
 
-H Err Marti Butzer says/that the church/as I  
-call it/makes another doctrine/it then openly grounds in the word of God/...  
-what I have for another church/then the saying in the  
-year Saint Peter/says nothing else/neither from the church/  
-which we have in common with each other/I have drawn ...  
-... I also have many ... He takes the church as he wishes/...  
-y ij
+Herr Martin Butzer sagt, dass die Kirche, wie ich sie nenne, eine andere Satzung hat; sie sei dann offen begründet im Wort Gottes. Was ich für eine andere Kirche habe, der Spruch in der … Sankt‑Peters … sagt nichts anderes, weder von der Kirche, die wir gemeinsam haben; ich habe viel gesagt. Er nehme die Kirche, wie er will.

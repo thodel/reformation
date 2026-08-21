@@ -1,10 +1,10 @@
 Seite [X]  
-The first [recognition] of the unity of the Divine Trinity / so I say / that I have for that / that he does me injustice about it / then I have long begged for belief / that I will know it. So he now says / and has been said before / that the Son of God is the head of the Christian church / which is chosen for eternity / as God the heavenly Father / I also give that / but therefore Christ is the only head / I have not yet given that / and the matter / that the word (Christ) is a temporal word and Christ was chosen in the time / as Luke says / the same passage. Ecce virgo concipiet. &c. And of the same I say / that Christ, according to humanity, may not be taken as any head of the Christian church.  
+Die erste erkennt die Einheit der göttlichen Dreifaltigkeit/ so sage ich/ dass ich dafür habe/ dass er mir daran Unrecht tut/ dann ich so lange den Glauben gebeten habe/ dass ich es wohl weiß. So er aber nun sagt/ und von sich gesagt hat/ dass der Sohn Gottes sei das Haupt der christlichen Kirche/ der da in Ewigkeit geboren ist/ über Gott, den himmlischen Vater/ das gebe ich auch nach/ dass aber darum Christus das einzige Haupt sei/ das gebe ich noch nicht nach/ und das Verschiedene/ dass das Wort (Christus) ein zeitliches Wort ist/ und Christus in der Zeit geboren wurde/ als Lukas hinzufügte/ das gleiche Beispiel. Ecce virgo concipiet usw. Und von dem Selbigen sage ich/ dass Christus nach der Menschheit nicht als ein einziges Haupt der christlichen Kirche genommen werden kann.  
 
-Sich hieuor am 66. blat.  
+Sich hierüber am 66. Blatt.  
 
 Zwingli.  
-This argument may not be answered by anyone / it is clearly refuted in our previous discourse / that Christ is taken for us here / for the one who truly is God from eternity / and also in the time was made man / etc.  
+Dieses Argument darf keiner beantworten/ ist in unserer vorherigen Rede klar beantwortet/ dass Christus hier genommen wird für den/ der wahrer Gott von Ewigkeit her ist/ und auch in der Zeit Mensch geworden ist/ usw.  
 
 Daniel Schat.  
-Meyster Vlrich Zwingli / der begert von mir / das ich anzeyg ein anders houpt dann Chriſtum / das ſelbig ander houpt das find ich in der erſten Epiſtel zun Corinthern am xj. Capitel. Da er ſeyt alſo / das houpt der frowen iſt der mann / aber das houpt Chriſti / das iſt Gott / da habend jr ein ander houpt über Chriſtum / vñ darumb iſt Chriſtus nitt eyn eynig houpt der kilchenn Zwingly.
+Meister Ulrich Zwingli/ der von mir begehrt/ dass ich ein anderes Haupt als Christus anzeige/ das selbe andere Haupt finde ich im ersten Brief an die Korinther/ Kapitel 10/ Dort sagt er also/ dass das Haupt der Frauen der Mann ist/ aber das Haupt Christi ist Gott/ da haben wir ein anderes Haupt über Christus/ und darum ist Christus nicht ein einziges Haupt der Kirche/ Zwingli.

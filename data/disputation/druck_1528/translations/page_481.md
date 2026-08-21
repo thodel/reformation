@@ -1,13 +1,30 @@
 Seite CCXXXIII  
-Schlußred.  
-er spricht: Ein yeder blybe in der berüffung/ in wellicher er berüfft ist. Da redt Paulus võ dem vsserlichen stand deren so zum glouben berüfft wurden/ als der knechten/ vnd der beschnittnen. Nun ist der Christenlich gloub/ nit an solch eständ gebunden: dann wölt der Schülmeyster also arguieren/ Es sol blyben ein yeder in dem stand/ als er berüfft ist/ so wurde er allen Christen/ so zum glouben berüfft werden/ die Ee abschlagen. Also beschlüßt das Argument ouch nüt.  
+Schlussrede.  
+Er spricht: Jeder bleibt in der Berufung, in welcher  
+er berufen ist. Da redet Paulus vom irdischen Stand,  
+der so zum Glauben berufen wurde, wie die Knechte  
+und die Beschnittenen. Nun ist der christliche Glaube nicht  
+an solchem Stand gebunden; dann würde der Schulmeister  
+also argumentieren: Es soll jeder in dem Stand bleiben,  
+in dem er berufen ist; so wurde er allen Christen zum Glauben  
+berufen, die Ehre abschlagen. Also ist das Argument ebenfalls nutzlos.  
 
-Büchstab.  
-Ich beuilchs der schrifft/ über das alles/ so gehand=let ist.  
+Buchstab.  
+Ich bezeuge die Schrift, über das alles so gehandelt ist.  
 
 Berchtoldus Haller.  
 
-Vnd wir ouch.  
+Und wir auch.  
 
-Meyster Ambrosius Blarer/ Predicant zů Costentz:  
-Ieben fromen Christen/ Es haben vnser gnädig Herren von Bern einen ersamen Radt zů Costentz/ schrifftlich angelanget vnd gebät=ten/ etwarn vß jren Predicanten/ allhar vff diß loblich Christen lich disputation: so dann yetz in übung/ vnd by nach zů glücklichem end (Gott hab lob) geloffen ist/ züuerordnen/ Weliches minen Herren vonn Costentz/ jnen zů frůntlichem wolgeuallen gethan/ vnd also ein Erbere Radtbottschafft/ vnd mich mit der selbigen harzůkomen/ abgeuertiget haben/ mit keinem sundern befelch/ ützit wider yemand hie zühandeln/ Dan allein/ wo Doctor Johan Eck: so dan von Meyster Huldrichen Zwinglin/ vnd Cůnradten Som/ Predicanten zů Vlm/ minen lieben brů dern. Oder Jörg Nüwdorffer/ Prediger ordens zů Rodtwyl/ der durch mine gnedigen Herren von Bern/ sich harzůfügen/ ernstlich vnnd tring genlich geforderet ist/ kommen/ wär ich willes gewesen/ jr beyder schmach schrifften/ Darin sy zum teyl/ mine Herren vonn Costentz/ zum teyl ouch min person sonderlich/ mit fräfel vnd der vnwarheyt/ angetastet haben/ müntlich/ vnnd vff das aller kürtzest abzüleinen: Die sunst warlich nit wärt sind/ das sy schrifftlich verantwurt/ vnd mine Herren/ oder ich mit schriben/ vnd ander mit lesen/ deßhalb bemüht werden. Nütdesterwen=ger/ wo ouch sunst yemandt/ vnd in sunderheyt etwar von Costentz/ hie Nnn
+Meister Ambrosius Blarer, Prediger zu Costenz:  
+Ebenso von den Christen: Unser gnädiger Herr von Bern  
+hat einen ersten Rat zu Costenz schriftlich erhalten und gebeten,  
+diesen an die Prediger zu übermitteln, damit sie an dieser lobenswerten christlichen  
+Disputation teilnehmen können; so ist nun die Übung begonnen und wird nach einem glücklichen Ende  
+(Gott sei gelobt) fortgesetzt, geordnet  
+wie unser Herr von Costenz dies zu freundlichem Wohlgefallen getan hat,  
+und damit eine ererbte Rat‑ und Botschaft übermittelt wurde, die ich mit dieser Botschaft erhalten und bestätigt habe,  
+ohne dass jemand anderes eingreifen oder gegen jemanden hier handeln würde.  
+
+Nur dort, wo Doktor Johann Eck, ebenso wie Meister Heinrich Zwingli und Konrad Som, Prediger zu Ulm, meine lieben Brüder,  
+oder Jörg Nüwdorffer, Ordensprediger zu Rottweil, der durch meine gnädigen Herren von Bern sich angeschlossen hat, ernstlich und streng gefordert wurde, wäre ich gekommen; ich hätte beide Schmachschriften verfasst

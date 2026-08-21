@@ -1,8 +1,8 @@
-Page CVI  
-The sixth chapter of the Apocalypse, chapter v. And there the Lamb takes the book, and many the four beasts and the twenty‑four Elders for the Lamb, and has a true harp and golden bowls full of fragrance, which are the prayers of the saints. Here the holy John describes the prayers of the saints beyond this world in heaven.  
+Seite CVI  
+Die sechste Apokalypse, Kapitel V, und dort das Lamm, das Buch, das den vielen vier Tieren und vierundzwanzig Ältesten übergeben wird; für das Lamm hatte ein echter Harpfen goldene Schalen voll Geruch, welche die Gebete der Heiligen sind. Hier beschreibt der heilige Johannes die Gebete der irdischen Heiligen im Himmel.  
 
 Zwingli  
-[E] It is enough said how the saints beyond this world of God in the blessedness of Christ are members, and our members, and that they are members of the body, as yet still here, being endowed with the word of Paul, e.g., 1 Corinthians vi, etc., then the faults that are added to the holy Church, … we take no knowledge of the Apocalypse, then it is not a biblical book …  
+[E] Es ist genug gesagt, wie die irdischen Glieder Gottes in der Seligkeit Christi sind und unsere Mitglieder. Und dass sie noch hier sind, die Worte des Paulus (1 Kor 5) betreffen die Mängel, die der heiligen Kirche zugefügt werden. Wir nehmen keine Kenntnis von der Apokalypse; dann ist es kein biblisches Buch, weil alles, was …  
 
 Gilg Durer  
-[S] Master Wilhelm speaks and gives after the saints beyond this world in heaven: they are members of Christ, but not as we are called members of Christ. However, the people that the saints beyond this world may pray to God for us, then we have written. John … So if anyone sins, we have a discourse before God the Father, Jesus Christ. So now the dear saints in heaven are members of Christ, and the chief Christ prays for us; why then would they make their members not alike in prayer? That he, however, says, the book of Apocalypse…
+[S] Der Meister Wilhelm spricht und berichtet von den irdischen Heiligen im Himmel, seinen Gliedern Christi, jedoch nicht, wie wir Glieder Christi genannt werden. Und dem Volk, das die irdischen Heiligen, Gott, für uns bitten möge, haben wir geschrieben. Johannes … So jemand sündigt, so haben wir ein Gespräch vor Gott, dem Vater, Jesus Christus. So nun sind die lieben Heiligen im Himmel Glieder Christi und das Haupt Christus bittet für uns, warum wollten dann seine Glieder nicht gleichförmig im Gebet sein. Das aber spricht das Buch Apokalypse.

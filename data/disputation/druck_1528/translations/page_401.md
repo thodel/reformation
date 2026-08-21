@@ -1,9 +1,11 @@
-Page CXCIII  
+Seite CXCIII  
 
-The Sixth Closing Speech.  
-As Christ alone died for us, so he should be called a sole mediator and intercessor between God the Father and us believers. Therefore all other mediators and intercessors outside this time are to be rejected by us on the basis of Scripture.  
+Die sechste Schlussrede.  
+Wie Christus allein für uns gestorben ist, soll er ein einziger Mittler und Fürsprecher zwischen Gott, dem Vater, und uns Gläubigen sein. Deshalb sollen alle anderen Mittler und Fürsprecher außerhalb dieses Augenblicks an uns, ohne Grund der Schrift, verworfen werden.  
 
-Explanation of the Sixth Closing Speech  
-Meyster Frantz Kolb.  
+Erklärung der sechsten Schlussrede  
+Meister Franz Kolb.  
 
-In the first epistle of Peter, chapter 1, Christ is the one who has never committed any sin and in his mouth there is no deceit ever invented; therefore he says John, chapter 13, in the night. The prince of this world would have come; he would have had no cause of death, that no saint could ever have been glorified. To Ephesians, chapter 1, when by nature we were all children of wrath, they all must confess and speak. Forgive us our debt as we forgive our debtors. Therefore Christ alone, and no one else, died for us.
+In der ersten Epistel des Petrus am ij. Cap.: Christus ist der, der nie eine Sünde begangen hat und in seinem Mund kein Betrug je erfunden wurde; darum sagt Johannes am xiiij. ims Nachtmal: Der Fürst dieser Welt wäre gekommen; er hätte aber nichts an uns, keinen Grund des Todes, den sich kein Heiliger je hätte berühmt machen können.  
+
+Zur Epistel am ij. Wan: Von Natur aus waren wir alle Kinder des Zorns; sie haben sich alle bekennen und sprechen müssen. Vergib uns unsere Schuld, wie wir unseren Schuldnern vergeben. Darum ist Christus allein und niemand anders für uns gestorben …

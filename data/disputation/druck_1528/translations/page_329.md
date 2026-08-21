@@ -1,16 +1,18 @@
-Seite CLVII  
-**Schlußred.**  
+Seite CLVII  
+**Schlussrede.**  
 
-Therefore his exposition, as he says, the fleshly understanding is of no benefit, a forced belief, and the Lord still speaks a word to the chapter in a brief address. He wishes that I speak to you, the spirit of life, as I have told you. Thus belief and trust make us life‑bearing and show the spirit of God in us, which a Christ in his heart assures; he will gladly allow himself to be consoled by this comfort.  
+Hiermit ist die Verlegung, wie er sagt: Der fleischliche Verstand ist kein nützliches, sondern ein gezwungenes Los, und der Herr spricht noch ein Wort, und richtet das Kapitel in ein zusammenfassendes Gespräch. Er will, dass ich zu euch rede, seit der Geist des Lebens – das ist, wie ich euch gesagt habe. Also glauben und vertrauen wir, dass das Leben uns lebhaft macht und den Geist Gottes in uns zeigt, welcher, wie Christus in seinem Herzen versichert, sich gern dem Trost beugen lässt.  
 
-**Pfarrer von sant Gallen**  
+**Pfarrer von Sant Gallen**  
 
-Especially our presented explanation concerning the attached word, with the given answer, for the sake of brevity we bind it to the Acts concerning the Christian laity.  
+Ehrlich unsere eingeführte Erklärung über die angezogenen Worte, mit gegebener Antwort, um kurze Willen belegen wir sie den Akten und dem christlichen Leser.  
 
-**Ecolampadius.**  
+**Ecolampadius**  
 
-We also bind the church of Christ and all Christian laymen.  
+Wir belegen das auch der Kirche Christi und allen christlichen Lesern.  
 
-**Pfarrer von Sant gallen.**  
+**Pfarrer von Sant Gallen**  
 
-In the three articles of faith, namely that he has ascended to heaven; all Christian hearts ought to know that Christ set the sign of the night with his words, taking and giving sustenance; this is my life, that he was still among his disciples on earth, and the heavenly journey has not yet been fully accomplished, because he ascended to heaven by divine power, so he spoke in mortal life, which cannot be opposed. She will, and Christ, according to our common faith, as we confess, are one with the Father. Johannes
+In den drei Artikeln des Glaubens, nämlich dass er sich zum Himmel aufwärts bewegt, sollen alle christlichen Herzen wissen, dass Christus das Abendmahl eingesetzt hat mit den Worten: „Nehmt und esset.“ Das ist mein Leben; es ist bei seinen Jüngern noch zu werden gewesen, und die himmlische Fahrt ist noch nicht vollendet, darum dass er zum Himmel strebt mit göttlicher Kraft; so hat er im sterblichen Leben nicht entgegen seiner Kraft gehandelt. So wird Christus nach unserem Glauben, wie wir bekennen, eins sein mit dem Vater.  
+
+**Johannes**

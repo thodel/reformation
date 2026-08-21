@@ -1,34 +1,6 @@
-Page IIV  
-The seven human dignities of Christ—perhaps a fable—are still present, yet far less, so that he, by his death, has redeemed us. It is also Christian love that is contrary: then all dead‑service, they are soul‑mass, vigils, short
-ampels, weaken equally with the anointing of the person, very
-richly and over‑flowingly the rich, neither the poor.  
-It also followed that the poor would have a hindrance
-in the coming of the riches of God through such dead service
-for the poor’s sake. Therefore the fable makes
-suspicious that the work, as it should be erased,
-must be bought with money, and namely by the priests,
-so that among the poor the bread is cut off from the mouth.  
-We, however, will not have been struck
-that a Christian of this time is called, Christianly
-to be fairly equipped. As also Abraham
-in his penitential Saram, Joseph his father Jacob,
-and likewise, yet deprived of all splendor and comfort.  
-Thus we have learned by this concluding speech
-that the believers, after their death, will be
-well: the unbelievers, however, evil. Therefore we
-shall flow, that this counter‑weight life
-in innocence be fulfilled, not from the future,
-no longer carefully, then so much we the
-word of God learns. Hence all our flow,
-the fable to erase, is in vain.  
+Seite IIV  
+Die sieben Menschenwürde Christi, ein Glaube sei gegeben, noch viel weniger, sodass er mit seinem Sterben uns erlöst hat. Es ist jedoch christlicher Liebe widersinnig, dass alle Toten­dienste – seien es Seelenmaße, Vigilien, Kerzen, Ampeln – das Ungleiche schwächen, indem sie Personen anklagen, sehr schnell und überflüssig den Reichen, aber nicht den Armen. Es folgte auch, dass die Armen ein Hindernis hatten, in das Reich Gottes zu kommen durch solche Toten­dienste im Namen des armen Willens. Darum macht der Glaube verdächtig, dass das Werk, so es zu löschen sei, alle mit Geld erkaufen müssen, und zwar von den Pfaffen, damit den Armen das Brot vom Mund abgeschnitten wird. Wir wollen jedoch damit nicht abschlagen, dass ein Christ von dieser Zeit berufen wird, christlich und ziemlich ausgestattet zu werden. Wie auch Abraham in seiner Buße, Sara, Joseph, sein Vater Jakob, und gleichsam, doch vernachlässigt allen Prunk und Unkosten. Also haben wir durch diese Schlussrede gelernt, dass die Gläubigen nach ihrem Ableben wohl werden; die Ungläubigen aber übel. Deshalb sollen wir fließen, damit das Gegenwärtige leben, in Unschuld zu erfüllen, von dem künftigen nicht weiter sorgsam sein, dann so viel uns das Wort Gottes lehrt. Deshalb ist alles unser Fließen, das Glaube zu löschen, vergeblich.  
 
 Johannes Dannberger  
 
-Highly learned / venerable gentlemen,  
-where the conclusion is present,  
-the fable ...  
-presses me; it may be more a glimpse
-of the prince, then the reasoned.  
-Considered, that
-the city is written …  
-the apostles spoke on the evening.
+Hochgelehrten, erwidernden Herren, weil die Schlussfolgerung vorhanden ist, das Glaube antretend, bedrückt mich, es sei mehr ein Anblick des Freiens, dann der Vernunft. Angesehen, dass hier Stadt geschrieben, Akteure. Am Abend die Apostel gesprochen.

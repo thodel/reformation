@@ -1,25 +1,16 @@
-Seite 112  
-The six who, outside the saints in heaven, the members of Christ send,  
-therefore not thereafter, that they God for us pray, I will beware,  
-that so‑called well to believe is,  
-then that a man here on earth for the other prays,  
-Description of brotherly love, which love of the saints in heaven no one ever will be taken. 1 Cor. xiii. cap.  
+Seite 112  
+Die Sechs  
+die außerhalb der Welt Heiligen im Himmel, Glieder Christi sendet,  
+folgte darum nicht danach, dass sie Gott für uns bitten; ich will bewahren, dass solches wohl zu glauben ist,  
+dann, dass ein Mensch hier auf Erden für den anderen bittet; Beschriftung von brüderlicher Liebe, welche Liebe von den Heiligen im Himmel niemand mehr genommen wird.  
+Johannes Korinth xiii Kapitel.  
 
 Zwingli  
-[Initial E] He named and titled Apocalypse, shows us enough,  
-that it is not John of the Gospel listed, which therefore calls:  
-Apocalypse of the holy John the Theologian, I have taught the teachers.  
-But the holy intercession, of the Epistle to the Corinthians, at chapter 13:  
-Therefore it is in love that is, which from the saints will not be taken,  
-it proceeds just as many, as previously the argument from the lydd name and the gliders:  
-Then here the love is not described, which the blessed in heaven have,  
-which is an eternal dwelling and joy, without all suffering and sorrow;  
-but here the love is described, which we humans have in this time,  
-and it is called the word (the love is not taken from anyone) not thus by Paul,  
-but the love does not fall, and let us begin from the words of Paul. 1 Cor. xiii.  
+[Initial E] Er nennt und überschreibt **Apokalypse**, zeigt uns genug an, dass es nicht Johannes des Evangeliums ist, sondern lautet: **Apokalypse des heiligen Johannes**, Theologie; ich schweige den Lehrern. Aber die selige Fürbitte aus der Johannes‑Epistel zu Korinth am xiii Kapitel: Darum soll es in der Liebe sein, die von den Heiligen nicht genommen wird; streitet gleich wie viel, wie zuvor das Argument vom Lydnam und den Gliedern:  
+Dann wird hier nicht die Liebe beschrieben, die die Seligen im Himmel haben, die ein ewiges Wohnen und Freude ist, ohne alles Leid und Bekümmernis; sondern es wird hier die Liebe beschrieben, die wir Menschen in dieser Zeit haben, und heißt das Wort (die Liebe wird nicht von jemandem genommen) nicht also bei Paulus; sondern die Liebe fällt nicht, und lässt uns zurück auf das Wort Paulus.  
+Johannes Korinth xiii.  
 
-Gilg ADurer  
-[Initial V] I remain by this, and hope that the book Apocalypse shall be biblical,  
-and be read there by a Christian congregation.  
+Gilg ADurer  
+[Initial V] Ich bleibe bei dem und hoffe, dass das Buch **Apokalypse** biblisch sein soll und beleuchte es dabei einer christlichen Gemeinde.  
 
 Meister

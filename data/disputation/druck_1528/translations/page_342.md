@@ -1,12 +1,12 @@
 Seite [X]  
 **Die vierdt**  
 
-ſprechende/ Saule Saule: Why do you test me? He said, “Lord, where are you?” but he answered, “I am Jesus, whom you test: as the Christians see, how the Lord Jesus before Damascus by Paul was, and nothing determines the events that belong to the righteous God, his father.”  
+Sprechende: Saule, Saule, du prüfst mich. Was sprach der Herr: „Wo bist du?“ Aber er antwortete: „Ich bin Jesus, den du prüfst; dann sehen Christen, wie der Herr Jesus vor Damaskus durch Paulus wirkte, und nicht bestimmt, dass das Geschehene zum gerechten Gott, dem Vater des Sohnes, gehört.“  
 
-Also shown to the Corinthians in the … chapter of Paul. Also the saying (Thus in the eighth chapter: So that which will be said to you—here is Christ, there he is—shall you not believe). These words will not be understood by our Sacrament, as we say: Christ is in the Sacrament, under the form of wine and bread, as we unhesitatingly believe, his flesh and blood … the very last time in which the Lord … was.  
+Ich habe es den Korinthern im ersten Kapitel des Paulus gezeigt. Ich habe den Spruch (Daraus am vierten Kapitel: So denn, was euch gesagt wird, hier ist Christus, dort ist er, sollt ihr nicht glauben.) Dieses Wort wird nicht verstanden werden von unserem Sakrament, so wie wir sagen: Christus ist im Sakrament, unter dem geformten Wein und Brot, solange wir unzweifelhaft glauben, sein Fleisch und sein Blut sind, bis zum letzten Zeitpunkt, in welchem der Herr uns warnt.  
 
-Heavy chambers and trumpets will be understood that have never been seen since the beginning of the world, as the text clearly shows before and after, that this saying should not be understood, spoken of this Sacrament of the life and blood of Christ.  
+Es werden schwere Kummer und Trübsal überstehen, die noch nie gewesen sind seit Anfang der Welt, wie dann der Text vor und nach klarlich angezeigt, dass dieser Spruch nicht verstanden werden soll, wird geredet von diesem Sakrament, des Leibes und Blutes Christi.  
 
 **Zwingli +**  
 
-All that is brought up here has already been answered very little. When he first speaks as I have given, one should indeed be corrected in misunderstanding; it is not spoken so, but rather it is taken for misunderstanding, indicated, or is used for remembrance. It must also not be taken for misunderstanding in all places, indeed, to be taken for misunderstanding, except that Scripture forces us to the similar of faith. That the Apostles of the Evangelists have written about misunderstanding is no wonder; we have …
+Alles, was hier angeführt ist, ist völlig vorher beantwortet, jedoch nur wenig aufgenommen. Als er ursprünglich spricht, wie ich dargegeben habe, soll man es verkennen, in Bedüft, ist nicht so gesagt, sondern es wird genommen für Bedüft, bezeichnet, oder wird gebraucht zur Erinnerung. Es muss auch hier nicht an allen Orten, ja, für Bedüft genommen werden, sondern da uns die Schrift von ähnlichen des Glaubens dazu zwingt. Die Apostel und Evangelisten nennen Bedüft, geschrieben haben, ist kein Wunder; wir haben von der Art ja gesprochen völlig.

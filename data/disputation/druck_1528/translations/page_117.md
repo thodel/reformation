@@ -1,28 +1,11 @@
-Seite LI  
+Seite LI  
 
-**Schlußrede  
-Am einundzwanzigsten Tag Januars.**  
+**Schlussrede am einundzwanzigsten Tage des Jahres.**  
 
 **Pfarrer.**  
 
-In deinem Namen, Herr Jesus Christ, Amen.  
-Von den Christen, wie ich den Meister Ulrich Zwingli befragt habe,  
-mit seinem Gleichnis und Beispiel des Fensters halb von den beiden Lichtern;  
-so ist es geschehen; er hat das nicht angesprochen, dass er daraus  
-auf das göttliche Wort gründen wolle; danach ein großes Geschrei und Pomp,  
-als ob ich seiner Meinung folgen sollte; ich meine, solches werde ich mich nicht erfinden,  
-bei den Akten; so erkenne ich Gott, meinen Erlöser, und die Welt,  
-wie alle Christen es tun sollen; solches habe ich getan und gelehrt;  
-und ich habe den Meister Ulrich Zwingli erkannt; dadurch nützte dieser minder  
-ein geistlicher Gewalt, nachgelassen von Erde; wie ich dann das klarlich angezeigt habe,  
-mit göttlicher Schrift; soll ich mich erfinden bei den Notarien und Protestier,  
-ich hier vor einer ganzen versammelten Gemeinde, dass ich den Meister Ulrich Zwingli glaube,  
-noch seiner Lehre nicht anhänge, noch seinem Willen, sondern durch Einigkeit  
-christlicher Kirchen und lobwürdiger Hochmen, will ich lieben, wenn es die Not  
-erörtern würde, dadurch zu sterben.  
+Im Namen deines, Herr Jesus Christus, Amen. Wie ich den Meister Ulrich Zwingli befragt habe, mit seinem Beispiel und dem Beispiel des Fensters, halb von den beiden Lichtern, so hat er geantwortet, er habe das nicht angelegt, um daraus das göttliche Wort zu begründen. Danach folgte ein großes Geschrei und Pomp, als ob ich seiner Meinung nach gefallen wäre. Ich denke, dass ich mich nicht erfinden werde, bei den Akten; so erkenne ich Gott, meinen Erlöser, und die Welt, wie alle frommen Christen es tun sollen. So habe ich es getan und gelernt, und ich habe den Meister Ulrich Zwingli erkannt; dadurch ist nun diese geringere geistliche Gewalt von der Erde nachgelassen, wie ich dann deutlich mit göttlicher Schrift gezeigt habe. Es soll sich bei den Notaren und Protestanten hier vor einer ganzen versammelten Gemeinde erweisen, dass ich dem Meister Ulrich Zwingli glaube, nicht an seiner Lehre hänge, noch seinem Willen, sondern durch die Einheit der christlichen Kirche und lobwürdigen Harkomen bleiben will, wenn es nötig wird, zu sterben.  
 
 **Zwingli.**  
 
-Römische Christen, wie sich der Pfarrer verhält, wie er nicht meines Glaubens sei,  
-und hat aber dabei gestern öffentlich bezeugt, er erkenne Gott, den Herrn Jesus Christus,  
-seinen Bewahrer, und die ganze Welt; beziehe ich mich darauf, dass ich den Glauben auch habe, und …
+Römische Christen, der Pfarrer bezieht sich darauf, dass er nicht meinem Glauben entspricht; doch hat er gestern öffentlich verraten, dass er Gott, den Herrn Jesus Christus, seinen Bewahrer, und die ganze Welt erkenne. Ich beziehe mich darauf, dass ich den Glauben ebenfalls habe und …

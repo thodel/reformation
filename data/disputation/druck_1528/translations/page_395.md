@@ -1,20 +1,22 @@
-Seite 190  
-Schlußred. CXC  
+Seite 190  
+Schlussrede CXC  
 
 Dannberger  
-Paul the holy Apostle says / namely / that the high and other priests will intercede for the sin of mankind. This also refers to the Old Testament / Numbers xviii. Saint Aaron was a priest of the Old Testament / who stood between the living and the dead / and has prayed.  
+Paulus, der heilige Apostel, spricht nämlich das, was die hohen und übrigen Priester für die Sünde der Menschen bitten. Das bezieht sich auch auf das Alte Testament, Numeri XVIII. Aaron war ein Priester des Alten Testaments, der zwischen den Lebenden und den Toten stand und um Bittgebete bat.  
 
-Berchtoldus Haller.  
-That Lord Hans has been anointed / from the prayer of Aaron / all is fulfilled in Christ / as in this fifth chapter likewise follows: And he has on the day of his flesh … Text read.  
+Berchtoldus Haller  
+Das Wort Hans hat angezündet von dem Gebet Aarons; alles ist in Christus erfüllt, wie in diesem fünften Kapitel gleich folgt: Und er hat am Tag seines Fleisches … (Text verlesen).  
 
-Dannberger.  
-I remain with the text.  
+Dannberger  
+Ich bleibe bei dem Text.  
 
-Berchtoldus.  
-I also.  
+Berchtoldus  
+Ich auch.  
 
 Büchstab  
-At the beginning of this conclusion / introduced by the lord Berchtold / I have not yet fully answered, therefore say thus: The counter‑argument of the sacrificer must be better than the sacrifice itself / then the offering is made / it is without Scripture / then it changes the state with printed words / that Abel is better than he who has offered / then in such a form no sinful priest could be [something] / thus the offering is better / then the offering one. Thus Mary, the mother, offered Christ in the temple / it is not better than Christ.  
+Im Anfang dieser Schlussrede, von Herrn Berchtold eingeführt, habe ich noch nicht ganz geantwortet, sage also: Der Gegenwurf, dass das Opfer besser sein muss, dann das geopferte wird. Ist ohne Schrift, dann ändert sich nichts mit veralteten Worten; das Abel sei besser, weil er geopfert hat: dann in solcher Gestalt wurde kein sündiger Priester dazu getäuscht; so ist der Täufer besser als der Täufer. So hat Maria, die Mutter, Christus im Tempel geopfert; das ist nicht besser als Christus.  
 
-Berchtoldus.  
-The schoolmaster, sir, is a false man indeed well corrected / then he is of no use for the conclusion. I ask why Abel was offered. Bbb ij
+Berchtoldus  
+Sein Schulmeister, Herr, fälschlicherweise inredet, wohl gerichtet, dann ist die Schlussrede nicht mehr wirksam. Ich frage, wo Abel geopfert hat.  
+
+Bbb ij

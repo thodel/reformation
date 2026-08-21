@@ -1,12 +1,10 @@
-Seite XLI  
-Schlußred  
+Seite XLI  
+Schlußrede  
 
-they meant the power of the bishop and of the councils in the composition of the articles of faith, so that the Scripture is thus broken to the Christian people to believe; that now we will begin here. That no eye has seen, z.c.  
-and such things now are lost.  
+Man meinte, die Gewalt des Bischofs und der Konzilien liege in der Festlegung der Glaubensartikel; so sei nun, nach der Schrift, das christliche Volk zum Glauben verurteilt worden, und das wollen wir hier jetzt beginnen. Es hat keinen Augenblick mehr zu warten. Und solches soll jetzt beendet werden.  
 
-¶  
-Now indeed the part of truth is here clarified, all truly … that Christ (note well) … who … the Spirit of Christ has not … is not set by any council or any bishop. If they are truly … then they will be set free for themselves and also leave for us our part; the half … the twenty disputations … are entirely Christianly taken. Since already all councils were among each other, also Christianly divided, thus neither I nor you can be helped. We each then have our own part and recognition of the truth in our hearts, learned through the Spirit of truth, of which the Lord says: he, the Spirit of truth, will also (not the bishop, not the councils) be in all truth revealed; Joan. am xvj.  
+Nun ist hier das Teil, in dem die Wahrheit klar dargelegt wird: Alle geistlichen Dinge, die Christen (merkt wohl) bekennen, die keinen Geist Christi besitzen, sind nicht von irgendeinem Konzil oder Bischof gesetzt worden. Sind sie geistlich, so werden sie für sich selbst frei sein und uns ebenfalls freigelassen werden, damit wir unser Teil daran haben. Die ganze, jahrzehntelange Disputation ist völlig christlich geführt worden; denn bereits alle Konzilien waren einander gegenüber, und dazu war auch die christliche Teilhabe bestimmt. So kann weder mir noch dir mehr geholfen werden. Wir hätten dann jeder sein eigenes Teil und Erkenntnis der Wahrheit in seinem Herzen gelernt durch den Geist der Wahrheit, von dem der Herr sagt: „Er, der Geist der Wahrheit, wird auch (nicht der Bischof, nicht die Konzilien) in aller Wahrheit geleitet werden.“ (Johannes 16, 18).  
 
-Therefore they are truly warned, devout beloved Christians, before the provincial leans also eagerly decisive in matters of faith; he first from a council … as he writes, never has it been opened, and never will be; lut seiner. lxvj. wonder‑speech … thus … may not happen, z.c.  
+Darum sind die wahren Gläubigen, die frommen lieben Christen, vor dem leeren Proklamieren des Fürsten, das ebenfalls über die Glaubenssachen entscheidet, erst einmal von einem Konzil gewarnt worden; denn wie er es schreibt, wird es niemals vollendet sein und niemals mehr werden. (Luther 16, 17).  
 
-Now noting here that the provincial holds the common church, all gathered, where now is a council, ex aſſenſu, & auctoritate / vß gehal und beuelch / or power, as he himself wishes to dissolve authority; all gathered have been held … having … in India … or power given to the council to consent.
+Nun bemerkt hier, dass der Fürst die gemeine Kirche hält, alle Versammlungen, wo jetzt ein Konzil, aus Asien, und Autorität / Besitz und Gewalt / wie er dann selbst die Autorität verneinen will, alle Versammlungen gehalten worden sind, die in Indien / Besitz / oder Gewalt dem Konzil zum Konsens gegeben haben.

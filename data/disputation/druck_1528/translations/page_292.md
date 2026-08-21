@@ -1,13 +1,9 @@
-Seite 117  
+Seite 117  
 
-The fourth  
+Die vierte  
 
-If now the watery word / that with it breaks / that it denies / so it breaks you / those who are healed / who do not accept it / as sufficient is explained through Ecclampadiu:  
-then the same likewise, as well with the watery word, is said to be.  
-Whoever trusts in the living Son of God, Christ Jesus, becomes holy / as also the believers.  
-That they, however, declare / that the believers / or that the word of God alone, those who accept it, who are begotten by God, then they give themselves [gewonnen] that the watery word should not do so: then the watery word is not God / but only a watery word / and a meaning or opening of the divine will.  
-The drawn writings / I let them short and unabridged / then they [uns] and not [jnen] serve / That to Romans stands / that the Gospel is the power of God / to every believer for salvation: also that Isaiah in chapter LV serves us / that the watery word of the Gospel is not the power of God / but the watery word / which alone explains to us the power that God through his Son / has wrought for our salvation.  
+Wenn nun das wässerliche Wort, das mit im Brechte (‑) verheißen wird, so bricht es euch, die das Heil nicht annehmen, als gnädig ist durch Ecolampadiu erzeugt, dann wird derselbe gleich, als wohl mit dem wässerlichen Wort gesät. Wer vertraut auf den lebendigen Sohn Gottes, Christus Jesus, der wird heilig, ebenso die Gläubigen. Das ist jedoch dabei bezeugt, dass der Glaube – oder das Wort Gottes allein, das annehmend von Gott berufen ist – sich dadurch gewinnt, dass das wässerliche Wort solches nicht tut: dann ist das wässerliche Wort nicht Gott, sondern allein ein wässerliches Wort und eine Bedeutung oder Offenbarung des göttlichen Willens. Die Harin gezogenen Schriften lasse ich um kurze ungeschärfte Form zu geben; dann sind sie uns und nicht ihnen zu dienen. Das zu Römern steht, das Evangelium ist die Kraft Gottes, ein jedem Gläubigen zum Heil; auch das Jesaja‑Kapitel LV dient uns; das wässerliche Wort des Evangeliums ist nicht die Kraft Gottes, sondern das wässerliche Wort, das uns allein die Kraft erklärt, die Gott durch seinen Sohn zu unserem Heil gewirkt hat.  
 
-Pfarrer von Sant Gallen:  
-[E]s erstendas sich in unseren Worten das widerspiel erfinde / Beleuchten wir's den Hörenden und losenden.  
-Von Abraham eingeführt / sagt der Text Genesis am xxii. Cap. Er soll nehmen seinen Sohn und soll gehen in das Ertrich / zc. By welcher Abraham den Beleuch hat wollen erstatten / ist aber von Gott abgestellt / er soll die Hand nicht ausstrecken / zc. wie die Geschichte mag. Von hoe Jesu Christi / weißt menschlich das er seinen Willen in den Willen seines Vaters ergebe zc. Von der Verheißung weißt...
+Pfarrer von Sant Gallen:  
+
+Es erstreckt sich in unseren Worten, das Wider‑Spiel erfinde; beleuchten wir es den Hörenden und Lesenden. Von Abraham eingeführt, sagt der Text Genesis am xxii. Kapitel. Er soll seinen Sohn nennen und soll ganz in das Ertrich (‑) gehen. Durch welchen Abraham den Befehl hat, wird er aber von Gott abgestellt; er soll die Hand nicht ausstrecken (‑) wie die Geschichte mag. Von der Hoffnung Jesu Christi weiß man menschlich, dass er seinen Willen in den Willen seines Vaters übergibt (‑). Von der Verheißung weißt …

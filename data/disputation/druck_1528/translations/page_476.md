@@ -1,12 +1,10 @@
-Seite [20]
+Seite [20]
 
-The need  
-of some kind of vows should be mentioned / Therefore this place should not serve to preserve human vows. Moreover  
-at the plow / Luke ix, Christ speaks of those who preach the Gospel / that they should not seek after the perverse; and he does not speak of the vows / which are of human invention: then in the same perverse / it is gone.
+Die nötige Einigkeit der Gläubigen soll angeregt werden / Deshalb soll dieser Ort nicht die menschlichen Gelübde zu bewahren dienen. Von Hand am Pflug / Luce. IX spricht Christus von denen, die das Evangelium predigen, die die Fürsten nicht hinter sich suchen sollen : und er spricht nicht von den Gelübden, die von Menschen erfunden sind : dann ist in denselben Fürsten alles verloren.
 
-On the 25th day of January  
-Book of ...
+Auf den xxv. Tag Jenners  
+Buchstab.
 
-On the words of yesterday / Western Church / I answer briefly thus: My opinion is not / that Paul here speaks of the priests of the old Testament. Further / that the vows of the old Testament are just like the sacrifices / that have been offered / I do not assert: then that the sacrifices of the law have been offered / are mentioned in the fifty‑eighth Psalm. But rather / that all vows have been taken away / It is written / Ecclesiastes. v. If you have promised something to God / you should not prevent it from being read / then God multiplies an untried and steadfast promise. The same Psalm. xlix. Lay your highest vow. And Psalm. lxxv. Vowing and laying [it] to the Lord over God. Further / that we Christians in grace / no vow any longer / should be able to do / then the vow of belief / I deny: then St. Paul / who also the belief / indeed a people … captured / has his head in the church … then he had a vow / says the text / Actus xviii. It is not a dispute against God / the saying of St. Timothy v. I let myself remain by my forgiveness.
+Auf die gestrige Rede / Weißer Fürst antworte ich kurz : meine Meinung ist, dass Paulus hier von den Priestern des alten Testaments spricht. Weiter : dass die Gelübde des alten Testaments gleichwertig sind wie die Opfer, die abgegangen sind — das behaupte ich nicht ; dann, dass die Opfer des Gesetzes abgegangen sind, wird im 78. Psalm erwähnt. Aber stattdessen steht, dass alle Gelübde hinweggenommen worden sind ; es steht jedoch geschrieben : Ecclesiastes v. Wenn du Gott etwas versprochen hast, sollst du das nicht verhindern zu lesen ; dann verwehrt Gott eine untreue und törichte Verheißung. Derselbe Psalm xlix : Lobe den Höchsten, dein Gelübde. Und Psalm lxxv : Gelobt und gelobt sei dem Herrn, unserem Gott. Weiter : dass wir Christen in der Gnade kein Gelübde mehr tun sollen ; dann verneine ich das Gelübde des Glaubens : dann spricht S. Paulus, der auch den Glauben ein Volk genannt hat, hat sein Haupt im Kirchenrat beschworen ; dann hatte er ein Gelübde gehabt, sagt der Text, Acturus xviii. Es ist kein Zweifel, dass …  
 
 Zwingly

@@ -1,11 +1,8 @@
-The first  
-We, however, begin with the writing / the Petzo ... that ... a main of the churches makes / namely a Beilage of the churches.  
-We give, however, a writing / also of the little word / some / therefore that we have in the fourth chapter, part to the Ephesians, a Lord.  
-And in the first Epistle to Timothy / in the first chapter / a mediator between God and man.  
-Christ alone has the immortality / and the life / therefore he also alone ... so to life and immortality are called / a single main.  
+Die erste  
+Wir beginnen jedoch mit der Schrift, die Petzo (die) das innere Haupt der Kirche macht, nämlich ein Bekenntnis der Kirche. Wir geben aber auch die Schrift, auch das Wort, das bleibt, Einigkeit, darum dass wir im iiij. capia tel zum Epheserbrief einen Herrn haben. Und in der ersten Epistel an Timotheus im ij. capitel ein Mittel zwischen Gott und dem Menschen. Christus hat allein die Unsterblichkeit und das Leben; darum wird er auch allein derjenige sein, dessen Begriffe zum Leben und zur Unsterblichkeit gehören, ein einziges Haupt.
 
 Bichtuatter.  
-I have begun a text / which there shows the word / Only / are only texts brought / which there ask / an honest German knows that there is a great distinction between One and Only. / Only excludes all else, lets another live with one, and is truly said, when there are two, one is, but it is not truly said, a sole one.  
+Ich habe einen Text erhalten, der dort anzeigt, dass das Wort „Einzig“ nur im Text gebracht wird, die dort finden. Ein echter Deutscher weiß, dass ein großer Unterschied besteht zwischen „Ein“ und „Einzig“. „Einzig“ schließt alles andere aus, lässt einen anderen beim Leben nicht zu, und wird wahrhaft gesagt, wenn zwei sind, einer ist. Es wird aber nicht wahr gesagt, ein Einziger ist.
 
 Buccrus.  
-Where no one is everywhere, who has that, that belongs to a main of the churches, namely they make it possible, then only Christ; so it follows clearly that one must say the sole main. Therefore no one can mediate between God and man except Christ alone; thus the word “mediator” is as much as “only”. Also, I believe in one God. That, however, is one and not only, and it holds.
+Jeder, der überall ist, der das hat, das zu einem Haupt der Kirche gehört, nämlich sie macht fähig, dann allein Christus, so folgt ihr klar, dass man sagen muss, das einzig Haupt. Deshalb kann niemand zwischen Gott und dem Menschen vermitteln, dann allein Christus, so gilt aber das Wort: ein Mittel, als viel als einzig. Also glaube ich an einen Gott. Das ist aber ein und nicht …

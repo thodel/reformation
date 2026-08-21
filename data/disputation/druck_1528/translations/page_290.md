@@ -1,30 +1,8 @@
-Page [X]  
-The fourth  
-Sankt Paulus says he is not Apollos / he is also nothing / how  
-should then the various word / which high power has / and  
-should the word do / or bring / that it is lütten / so  
-were the Apostel / and all Prediger / all their associated believers  
-to make quickly / then they speak the word of faith / and  
-the faith was added to them / which all from the  
-weighing is: thus is the effect of the Herr / as we  
-Marci in the last Chapter. The word however and Sacramenten  
-carrying now the need.  
-Pfarrer von Sankt Gallen  
-Upon the entry / so  
-the word understanding / or be‑  
-do / thus. Let us say therefore / Gott  
-the Herr the self‑  
-has ye and all way  
-in the old and new  
-Testament / so he promised had / or  
-to fulfill / that he  
-instead  
-t  
-so they  
-have called  
-Namely  
-he has  
-spoken  
-a  
-word  
-on
+Seite [X]  
+Die vierte  
+
+Sankt Paulus spricht: Er sei nicht Apollo, er sei auch nicht … Wie soll dann das verschiedene Wort, welche hohe Kraft es habe, sollen die Worte das tun oder bringen, das …? So wurde die Apostel und alle Prediger, alle ihre Zuhörer, zum Glauben gebracht; dann reden sie die Worte des Glaubens, und der Glaube wird ihnen zugefügt, was alles ab dem … ist: also ist die Wirkung des Herrn, wie wir sie haben, im letzten Kapitel. Die Worte aber und die Sakramente tragen nun die Bedürftigkeit.  
+
+Pfarrer von Sankt Gallen  
+
+Auf den Eingang, so die Worte verheißen oder bedeuten … Sagen wir also: Gott, der Herr, der selig ist und alles Weg … im alten und neuen Testament, so er verheißen hat oder befohlen, das er … so sie haben gelobt. Nämlich hat er geredet, ein Wort, und alles ist gemacht worden im 32. Psalm. Der gleiche auch in Genesis im 18. Kapitel bei der unfruchtbaren Sara. Er brachte die Verheißung mit dem verheißenen Isaak; dann ist bei Gott das Nützliche schwer. Auch Esaias im 55. Kapitel: Mein Wort … von meinem Mund … das wird nicht zu mir kommen, sondern wird tun … und erstatten … darum ich … es habe wollen, darum ich es habe gesandt. So wurde dem Saul befohlen, die Amelechi zu ertränken; laut der Verheißung ward … Unter dem Eingang … der Geist, alles in uns muss wirken; wir leugnen das nicht: wir glauben aber, dass durch die Worte die mitwirkende Kraft des Geistes zugefügt sei, sonst wäre das … oder Worte wenig nutzbar. Von der … ließ ich den Eingang in seiner Würde bleiben. Sollten die Worte das nicht mitbringen, so lautend, so betend die Apostel und Prediger … Antworten wir der …

@@ -1,15 +1,14 @@
-Page [IV]
+Seite [IV]
 
-The first  
-Herr Daniel Schatt/Lütprieſter  
-to Gundiſchwyl.
+Die erst  
+Herr Daniel Schatt/Lütpriest zu Gundischwyl.
 
-S now three things are noted or understood being in Christ: that is the deity alone and humanity alone and the deity and humanity united with each other in Christ. Now I ask whether Christ, according to the deity alone, is taken to be a head of the Christian Church, or according to humanity alone, or as the deity in humanity united in one person.
+S nun drei Dinge vermerkt oder begriffen werden in Christus, das ist die Gottheit allein und die Menschheit allein und die Gottheit und Menschheit miteinander vereint in Christus. Nun jedoch frage ich, ob Christus nach der Gottheit allein angenommen sei, ein Haupt der christlichen Kirche, oder nach der Menschheit allein, oder als die Gottheit und Menschheit vereint in einer Person.
 
-Zwingly.
+Zwinglich.
 
-Christ Jesus was both God and man; therefore Christ Jesus also is called after both natures a head of the Christian Church with the illumination that he, according to the deity, is indeed and essentially the being of all things, and according to humanity the payment, the offering, that the divine righteousness with us has reconciled; need not Scripture: consider thereby the whole Gospel of John and the Epistle to the Hebrews, especially for other scripture.
+Christus Jesus war Gott und Mensch, darum heißt Christus Jesus nach beiden Naturen ein Haupt der christlichen Kirche mit der Erlösung, dass er nach der Gottheit nämlich und eigentlich das Wesen aller Dinge ist und nach der Menschheit der Erlöser, das Opfer, das die göttliche Gerechtigkeit mit uns versöhnt hat, bedarf nicht Schrift: berühmt darüber zu Kundschaft das ganze Evangelium Johannes und die Epistel zu den Hebräern, besonders für andere Schrift.
 
 Daniel Schatt.
 
-Since Christ was truly God and man, a head of the Christian Church, it is right, but the literal unity may the word not explain thereafter according to the deity; thus he is united with God the Father.
+Da Christus ein wahrer Gott und Mensch sei, ein Haupt der christlichen Kirche, ist das recht, aber das wörtliche Einig mag die Rede nicht erleiden, danach die Gottheit, so ist er einig mit Gott, dem Vater.

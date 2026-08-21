@@ -1,13 +1,9 @@
-Page 212  
-The eighth  
+Seite 212  
+Die achte  
 Zwingli  
 
-When the cherub, a **Bedeutung** of **Gnadigung**, the Christ Jesus has become … according to Paul to the Hebrews ix. So now the gracious one has come; thus hear the **Bedeutung** thereof. The ground of the serpent’s bite is for us, then we alone speak against the images that are venerated, as the concluding speech of the Lutherans. It is also with necessity that the holy must be sought, then the form of a Christian love, in **Gottes** word, is pre‑figured; not in any **Bildnuss**, then the outwardly formed thing points to man; but the inner of the heart and belief, the man cannot see in a living man; we are trembling in a dead **Bildnuss**, although none of this required responsibility.  
+Als die Cherubim ein Bild der Gnade, das Christus Jesus ist, geworden sind – Bezug: Paulus zu Hebräer 9. So nun, der gnädige Gott ist gekommen; hört daher die Bedeutung. Der Grund der Schlange, die uns verführt, ist für uns, dass wir allein gegen die Bilder reden, die verehrt werden, wie in der Schlussrede der Lutherer. Es ist zudem nötig, dass die Heiligen lebhaft handeln, dann ist die Form eines christlichen Lebens im Wort Gottes vorgemalt und nicht in irgendeiner Bildnutzung; dann die äußere Gestalt (die äußere Form) dem Menschen zuspricht, aber das Innere des Herzens und des Glaubens kann der Mensch nicht in einem lebendigen Menschen sehen – wir schwanken in einer toten Bildnutzung, obwohl das keiner Verantwortung bedarf. Die sichtbaren Dinge, von denen Paulus zu den Römern (Römer 1) spricht, sind nicht die Bildnutzungen, die von Menschenhand gemacht sind, sondern die Bildnutzungen, die von Gottes Hand geschaffen sind. Darauf lasse ich es vorerst bleiben.  
 
-The visible things of which Paul speaks to the Romans … are not the **Bildnüsse** that are made by human hands, but rather the **Bildnüsse** that are made by the hand of God. Therefore I let it remain for now.  
+Johannes Büchstab.  
 
-Johannes Buchstab.  
-
-I know otherwise from the Scripture not further to speak about it, then alone that they are initially made for the instruction of the ungifted people, so the Scriptures cannot be read, the same being the images that indicate the books. Therefore now only openly many things are made, and one is still not changed to a clear break, then also for signs to have, and in many ways now all the same instruction, that the image must not be offered, nor my **göttlicher** honor should hold: and for signs to have.  
-
-I advise, from the ways of **Ergernus** …
+Ich weiß sonst von der Schrift nichts weiter zu reden; allein dass sie ursprünglich zur Unterweisung der unglücklichen Menschen bestimmt war, sodass die Schriften nicht lassen können, dass dieselben Bilder für die Bücher angezeigt werden. Diese werden jetzt offen viel gemach‑tet, und man sieht sie nicht mehr zuweilen zerbrechen; dann also für Zeichen zu haben und manchermaßen jetzt allen Teil‑bereichen unterrichten; das muss die Bilder nicht anbieten, noch mir göttliche Ehre halten: und für Zeichen zu haben. Ich rate – von wegen Ärgernis – zu zeigen.

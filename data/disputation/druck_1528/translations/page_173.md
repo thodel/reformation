@@ -2,22 +2,33 @@ Seite LXXIX
 
 **Schlußred. Martinus Butzer.**  
 
-That the half of the Sunday was not spoken about /  
-that which the church has commanded … and to the good the mind was willingly taken up /  
-The same day of the apostles, however, the very ones have never been taken up equally and have been … /  
-Therefore something was commanded here and the conscience‑binder is a contradiction /  
-The others … bringing nothing against our concluding speech: we ourselves also speak much in preaching /  
-that from wherever to wherever in the Bible is not a city; but it is founded in the Bible.  
+Dass am Sonntag die Hälfte nicht gesprochen wurde,  
+das, was die Kirche geboten hat, zu uns zu gut,  
+die Gemeinde ist er willig angenommen worden.  
+Dergleichen der Aposteln Tag, wie wohl die  
+selben nie gleichermaßen angenommen und gewesen sind.  
+Darum war hier etwas geboten und die Gewissensbinde  
+ist ein Widerspruch. Die anderen oder allesamt  
+bringen nichts, unsere Schlussrede: wir reden selbst  
+auch viel im Predigen, das von Wort zu Wort in der Bibel  
+nicht statt, es ist aber in der Bibel begründet.  
 
 **Johannes Bůchſtab**  
 
-The case of the Evangelist Acts at chapter xv shows /  
-the conversion of Paul through many lands /  
-to proclaim the kingdom of God, and therefore says thus: Paul traveled through Syria and Cilicia /  
-the churches are confirmed: and the command … the command of the apostles and the elders /  
-Now it is not otherwise that it is called, the command of the apostles and the elders: then the sayings of the apostles / the one … the others learn / so in the Gospel written stand / should be held and to the governance of the Christian churches are ordained /  
-which further in the following chapter is shown, as Luke also says in Acts /  
-But when the apostles went through the … having … they gave … the teachings and sayings / that were from the apostles and elders, as in Jerusalem were set and ordained /  
-And the churches were confirmed in the belief.  
-
-D iij
+Lukas der Evangelist/Actuum am xv. Kapitel zeigt  
+an die Wandlung Paulus durch viele Länder,  
+zu verkünden das Reich Gottes und spricht  
+damit also: Paulus wanderte durch Syrien und Cilicia,  
+bestätigt die Kirche und gebot, dass die Gebote der Apostel  
+und der Ältesten zu halten seien. Nun ist nichts anderes  
+genannt worden, die Gebote der Apostel und der Ältesten:  
+dann die Satzungen der Apostel, die einen die anderen lehren,  
+so im Evangelium geschrieben und gehalten werden sollen,  
+und zur Regierung der christlichen Kirche  
+geordnet sind, welches weiter im nachfolgenden Kapitel  
+gezeigt wird, so Lukas vorgemalt, also spricht/Actus. Aber  
+da die Apostel durch die Stadt gingen, da haben sie einen  
+zu behalten geben, die Lehren und Satzungen, die da von den  
+Aposteln und Ältesten, so in Jerusalem waren, aufgegeben  
+und geordnet waren. Und die Kirche wurde bestätigt  
+im Glauben.

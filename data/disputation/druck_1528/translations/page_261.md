@@ -1,12 +1,10 @@
 Seite CXXIII  
 
-**Schlußred.**  
-To receive the Lord’s Supper, as has been spoken of and written, I go no further until a later report.  
+**Schlußrede**  
+Das Nachtmahl wurde angesetzt, darüber geredet und geschrieben; ich lasse keinen Weg offen, bis zum weiteren Bericht.  
 
-**Ecolampadius.**  
-It is not sufficient sophistry, nor fleeting, to note the words. It would, however, be sophistry where one substitutes one word for another, or where another understanding is applied to the Scriptures without justification. The words of Lord Benedict, as has been said, do not hold for us that we should reject a common Christ under the bread. Here it stands that the word is truly Jesus, and not merely Jesus under the bread. It is also sufficiently understandable for everyone that we are the Christ under the sacramental bread, not being lost.  
+**Ecolampadius**  
+Es ist keine sophistische, noch flüchtige Bemerkung über die Worte. Es wäre jedoch eine Sophisterei, wenn man ein anderes Wort für ein anderes einsetzt oder einen anderen Verstand über die Schriften unbewährt. Warum die Worte von Herrn Benedikt (wie gesagt) nicht in einem halten, dass wir unter dem Brot ein gemeinsames Christus‑Verständnis haben sollen. Hier steht das wörtliche „ist“ und nicht unter dem Brot „ist“. Es ist jedem verständlich genug, dass wir Christus sind und unter dem sakramentalen Brot nicht vergraben sind.  
 
-**pfarrer von Sant Gallen.**  
-On the presentation of Doctor Ecolampadius I ask for no words for the others to add, nor a different understanding to bring to the Scripture; then, as I have explained the words of the Lord’s Supper, with the saying of Paul in the first Epistle to the Corinthians, chapter ten, it cannot be unwritten. Likewise are the preservation of sense or the exposition of anyone not yet having occurred. Then the words: “This is my body, the body of Christ to bear and to will that we here give no word of battle,” as it is much marked by the students: only that the sense of the words remains, then it should become (This is my body) so much should be regarded as “That means my body,” or: “That is the sign of my life.” On this the certain, in the word of God, may be well assured.  
-
-Hh iij
+**Pfarrer von Sant Gallen**  
+Auf den Vortrag des Doktors Ecolampadius begehre ich keine Worte für die andern, die dazu schieben oder einen anderen Verstand ohne Schrift bringen sollen. Ich habe jedoch die Worte des Nachtmahls erklärt mit dem Satz des Paulus in der ersten Epistel an die Korinther, Kapitel X. Das kann nicht schriftlich sein. Solche Sinnbewahrungen oder Auslegungen von jemandem sind noch nicht geschehen. Dann die Worte: „Das ist mein Leib, den Leib Christi zu tragen“, und wir wollen hier keinen Wortkampf führen, wie es von den Schülern oft gedacht wird. Allein der Sinn der Worte soll bleiben; das heißt, „Das ist mein Leib“ soll gelten, das bedeutet mein Leib, oder: Das ist meines Lebens Zeichen. Auf dass die Gewissheit beim Wort Gottes wohl versichert werde.

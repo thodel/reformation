@@ -1,16 +1,16 @@
-Seite CXII  
+Seite CXII  
 
-Schlußred.  
-This is the truly perfect belief, that one, as the apostle John in the … Matthew XVIII chapter of Faith, that Jesus Christ, the Son of the living God, is, and our …  
+Schlussrede.  
+Dies ist der wirklich vollkommene Glaube, dass man, wie der Apostel Johannes im Matthäus xvi, Kapitel Glaube, sagt, dass Jesus Christus die Sonne des lebendigen Gottes sei und unser sei.  
 
-But in that belief God gives one work to one, then to the other. He also gives one glory to the learner according to the measure of works and belief that He had previously given.  
+Aber im Glauben gibt Gott dem einen das Werk, dem andern das andere. Er gibt auch dem einen Glanz und Lehre nach dem Maß der Werke und des Glaubens, die er vorher gegeben hat.  
 
-Where, however, such belief is not, we recognize that it is not for a believer; therefore the first belief meets with misery, as if one in himself, the smallest is.  
+Wo jedoch solcher Glaube nicht ist, erkennen wir das nicht als einen wahren Glauben; deshalb begegnet dem ersten Glauben das Elend, gleich einem im Selben, der Kleinste ist.  
 
-Nevertheless, in unbelief, even if he has great works, or greater, in particular, yet he has no belief: so he is condemned, then everything that is not from belief is sin or injustice, according to Romans XIII.  
+Hingegen im Unglauben, ob er gleich große Werke hat, noch größere, in der Art, jedoch keinen Glauben besitzt: so wird er verdammt; alles, das nicht aus Glauben ist, ist Sünde oder Unrecht, siehe Römer xiii.  
 
-Since Peter in the … has … he does not have … that Christ Jesus is the Son of God, unless that … that he saw … Christ is … and that is not enough for the completeness of the ordinary belief.  
+Da Petrus im Zwiespalt steht, hat er nicht im Zwiespalt, dass Christus Jesus unser Gott wäre, sondern nur, dass er sah, Christus sei, und das reicht nicht für die Vollkommenheit des wesentlichen Glaubens.  
 
-According to the reckoning of every useless word we believe the words of Christ: but the blood of Christ washes away everything that we have behind in the reckoning.  
+Nach der Rechnung jedes einzelnen nützlichen Wortes glauben wir den Worten Christi; aber das Blut Christi wäscht alles ab, was wir an der Rechnung noch haben.  
 
-So Christ spoke to the youth. May it be completely … serves us very well to … then this youth came to Christ in belief and has many works, but only works that are in his service or do not attack: now, when he knows the heart … that he … all their … trust and … in his judgments have been set; so he … his inner sickness … which he thinks all men hide … and … May it be completely … Ethology … not … could make … complete … nor any god … except … that the youth … imagines … his works … on the way … of completeness … which now was a …
+So sprach Christus zum Jüngling: „Willst du vollkommen sein, so diene uns gar wohl zu deiner Leere.“ Dann kam dieser Jüngling zu Christus, glaubte und hatte viel Werk, doch allein das Werk, das an seiner Schale oder an Göttern nicht angriff. Da nun er keinen des Herzens sah, dass er deren Trost und Vertrauen in ihren Richtungen gesetzt haben, ruft er ihm seine innere Krankheit zu, die er meint, alle Menschen seien verborgen, und spricht: „Willst du vollkommen sein, Ethologie, nicht das Übliche kann vollkommen machen, weder ein Gott, sondern der Jüngling sich vermeint über seine Werke, wegen der Vollkommenheit sein, welches doch nun ein Gläubiger war …“

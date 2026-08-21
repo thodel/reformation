@@ -1,3 +1,14 @@
-Page [X]  
-The third  
-that he would not at all give us anything: Who would accuse the outer worlds of God: God is here / who is rightfully justified / who would condemn: Christ is here / who has died / indeed many of us are raised again / who is to the righteous God / and represents us. Here we pious Christians / perceive that God graciously promises / and his love toward us / with his own Son related / so that he gave his death for us. Moreover / who would accuse the outer worlds / so God who is / who is rightfully justified / for Christ’s sake / In him God the Father has a good will. It is also no name of the heaven / in which we holy ... then the name of our Lord Jesus Christ / Acts chapter iiij. Then he has given himself for us / that he redeemed us from all evil. To Titus iij. He also speaks with the name of all evil / then he is the redemption for our sin / and not for our sin alone / but for the whole world / in the first Epistle of John iij. So likewise and similar God’s word / having moved us with this concluding speech to confess / that Christ alone is our wisdom / righteousness / redemption / and redemption / for all the world’s sin. From this follows / that another service of salvation / or another sufficient [thing] for the sin / confessing / is to deny Christ: then he speaks through the prophet Isaiah lviii. “I have seen for myself / and no one was my help: I have sought / and no one was helpful to me.” What is that else / than that Christ alone has accomplished the work of our redemption / therefore your service / no merit of the work of redemption and eternal salvation according to it. With this, however, all pious Christians…
+Seite [X]  
+Die dritte  
+
+dass er uns nicht alles mit jemandem geben würde: Wer will die überweltlichen Gottes beschuldigen? Gott ist hier, der gerecht richtet; wer will verdammen? Christus ist hier, der gestorben ist, ja, er ist von uns wieder auferweckt, der zur gerechten Gott gehört und uns vertritt.  
+
+Hier vernehmen wir fromme Christen, dass Gott seine Gnade uns gegenüber zeigt und seine Liebe zu uns hat, mit seinem eigenen Sohn verbunden, weil er sein Leben für uns gegeben hat.  
+
+Zum anderen: Wer will die überweltlichen beschuldigen, so Gott, der gerecht richtet, und Christus wollen? In ihm hat Gott, der Vater, Wohlgefallen. Es gibt keinen Namen, unter dem der Himmel uns heilig widerfahre, dann der Name unseres Herrn Jesus Christus, Actus am iiij. Kapitel. Dann hat er sich selbst für uns gegeben, damit er uns erlöst von aller Bosheit.  
+
+Zum Titus i. spricht er auch mit dem Namen aller Bosheit; dann ist die Begnadigung für unsere Sünde und nicht nur für unsere Sünde allein, sondern für die ganze Welt, in der ersten Epistel Johannes i. So wird das Wort Gottes uns bewegt, mit dieser Schlussrede zu bekennen, dass Christus allein unsere Weisheit, Gerechtigkeit, Erlösung und Begnadigung für aller Welt Sünde ist.  
+
+Daraus folgt, dass ein anderer Dienst der Seligkeit oder ein anderes Gut für die Sünde zu bekennen, Christus verleugnet: dann spricht er durch den Propheten Esaias lviij.: „Ich habe mich selbst gesehen und niemand war meine Hilfe; ich habe gesucht und niemand war mir behilflich.“  
+
+Was ist das anders, als dass Christus allein das Werk unserer Erlösung vollbracht hat? Darum ist dein Verdienst nicht mehr als der Verdienst, der dem Werk der Erlösung und ewigen Seligkeit gemäß ist. Damit sollen aber alle frommen Christen …

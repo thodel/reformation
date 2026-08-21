@@ -1,12 +1,13 @@
 Seite [XXD]
 
-The fourth (also has been ordered), then he brings us the word of Paul in another way, as it stood in the text.  
-The content of the text is as follows. The bread that we break is not the communion of the life of Christ: there is no division there; nor is there any ... In the bread that we break, we are at once in need of sin, its explanation is brought here, as before; we are here spoken of in one manner, as it is carried by the sacraments, that we may understand the following words, and also may well comprehend them; thus follows.  
+Die vierte (er hat sich also fürchtet), da bringt er uns das Wort Pauli auf andere Weise herbei, dann steht im Text. Der Inhalt des Textes ist folgender:  
 
-Since we are one bread and one life, we are all participants of one bread. We do not lie in any way, that we, eating the body of Christ and drinking his blood, but that we are truly through faith, as we believe, that we through the blood of Christ are made sweet to the heavenly Father: not because we believe that under the bread the life of Christ is essentially or literally present, etc.  
+Das Brot, das wir brechen, ist nicht die Gemeinschaft des Leibes Christi; es ist nicht die Verteilung, und auch nicht … Im Brot, das wir brechen, wird uns nichts Gleiches sein; seine Auslegung bringe ich hier dar, wie zuvor; uns wird hier jedoch ein artiger Vortrag gemacht, wie er von den Sakramenten gelehrt wird, damit wir die nachfolgenden Worte ebenfalls verstehen können, so folgt.  
 
-But Lord Benedict further introduces the saying of John at chapter xx. The Lord has breathed and spoken to them. Naming the Holy Spirit, we stand however as one, that the bodily spirit of Christ is the mass breathed to the apostles, that the spirit is essentially the holy spirit. Thus it is not the opinion that in the spirit essentially and literally is brought forth the holy spirit to the apostles; then, as the spirit of God is everywhere, so such a holy spirit may be introduced.  
+Denn wir sind ein Brot und ein Leib, weil wir alle ein Teil des Brotes sind. Wir lügen nicht, dass wir, indem wir den Leib Christi essen und sein Blut trinken, durch den Glauben gerecht werden; wir glauben, dass wir durch das Leiden Christi Gott, dem himmlischen Vater, nahe sind – nicht weil wir glauben, dass unter dem Brot wesentlich der Leib Christi oder leiblich sei, usw.  
 
-But the Lord Christ first gave the bodily sign, as he gave them, by his divine power, the spirit into their hearts. Here the likeness serves you in your way, over the earth to speak, to protect; we are still waiting for you, such a sorrow.  
+Herr Benedict führt jedoch den Spruch aus Johannes Kapitel 20 weiter aus: Der Herr hat ausgeatmet und zu ihnen gesprochen, nämlich den Heiligen Geist; wir aber standen einig, dass der irdische Atem Christi den Aposteln gegeben wurde, dass dieser Atem wesentlich der Heilige Geist ist.  
 
-Pfarrer
+So gibt es auch nicht die Ansicht, dass im Atem etwas wesentlich und leiblich vollzogen wird, dass der Heilige Geist den Aposteln gegeben wird; dann ist der Geist Gottes an allen Orten, sodass ein solcher heiliger Geist keinen Einfluss haben darf. Der Herr Christus hat jedoch zunächst das irdische Zeichen gegeben, indem er ihnen aus seiner göttlichen Kraft den Geist in ihr Herz gab.  
+
+Hiermit dienen euch die Gleichnisse auf eurem Weg, über das Irdische zu reden, zu beschützen; wir warten noch von euch, solche Schuld.

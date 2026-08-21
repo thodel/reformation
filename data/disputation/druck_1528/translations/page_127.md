@@ -1,13 +1,9 @@
-Seite LVI  
-**Schlußred+**  
+Seite LVI  
 
-to the matter it serves / for we recognize the Christian church.  
-Christ has given all power / the sin’s measure  
-because he speaks / naming the holy spirit / to whom the sin is renounced / etc.  
-Since no one is refuted / that it may happen to all youths / that he, however, therefore promised the other the key, having read it / that shows the Scripture does not point to theirs / but rather the Scripture points that John, at the last chapter, Peter in particular has fulfilled the key / in that he speaks for the third time / “weid mine schäffly” / that it, however, especially in that has been fulfilled and not the other / shows that Christ has taken Peter from the others / thereafter his hearing is / that he has forgotten Matthew at chapter xviii, specially read by John at the last chapter.  
-But Christ Matthew at chapter xviii gives the power / to bind and to release / that he has read.  
-John at chapter xx. So he spoke / taking the holy spirit / etc.  
+**Schlußrede**  
 
-**Berchtoldus+**  
+Zu der Sache, die wir erkennen, die christliche Kirche. Christus hat allen Macht gegeben, die Sünde zu zügeln, weil er spricht: „Nehmt den heiligen Geist, dem, dem die Sünde vergeben wird.“ Denn niemand ist davon befreit, dass es allen Jüngern geschehen soll; aber er hat den anderen den Schlüssel verheißen, den er gelehrt hat. Das zeigt die Schrift nicht nur für sie, sondern die Schrift zeigt, dass Johannes im letzten Kapitel Petrus in besonderer Weise gelehrt hat, dass sie den Schlüssel besitzen. Wenn er zum dritten Mal spricht: „Weid meine Schafflinge“, dann ist das besonders für sie gelehrt und nicht für die anderen. Das zeigt, dass Christus Petrus von den anderen genommen hat; danach ist hörbar, dass er ihnen das Matthäus‑Kapitel XVIII besonders gelehrt hat, Johannes im letzten Kapitel. Aber Christus hat Matthäus im Kapitel XVIII die Macht gegeben, zu befreien und zu erlösen; das hat er ihnen gelehrt. Johannes im Kapitel XX spricht: „Nehmt den heiligen Geist.“  
 
-If Master Jacob asks the cause / why Christ promised Peter the key / so he would be astonished that the same promise reaches all apostles / then because Peter believes and acknowledges / that Christ is a son of the living God / the others also have acknowledged and believed. John at the sixth. Therefore they also have received the performance of the key / consequently what he brings in is all justified, manifold / but he denies that Peter alone in particular has fulfilled the key / with the words whereby he says / “weid mine schäffly” / may not endure / then “schäffly” … a lord is purified among all preachers / then.
+**Berchtoldus**  
+
+Wenn Meister Jakob die Ursache fragt, warum Christus Petrus den Schlüssel verheißen hat, so wurde er verstoßen, dass dieselbe Verheißung allen Aposteln begegnet; dann aber hat Petrus geglaubt und erkannt, dass Christus sein Sohn des lebendigen Gottes ist, das haben auch die anderen erkannt und geglaubt (Johannes, Kapitel VI). Darum haben sie auch die Leistung des Schlüssels empfangen; demnach, was er hier hineinbringt, ist alles vielfach wert. Er meint jedoch, Petrus habe in besonderer Weise den Schlüssel gelehrt, mit den Worten, die er spricht: „Weid meine Schafflinge“, mag nicht bestehen; dann werden die Schafflinge zu Hirten, die allen Predigern geprüft sind.

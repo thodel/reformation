@@ -1,19 +1,12 @@
 Seite IIVD  
 Die vierte  
 
-you also give [it] / this is my flesh / the flesh that I give / for the life of the world. Here we note /  
-(Then the pastor the next words / had to announce / could make known) that the Jews with the word of his flesh: and will be given / yet be led into greater doubt / then they had stood / what he meant by prayer. So if he nevertheless himself by prayer his flesh takes / becoming he is more … neither … nor …  
+und ihr geben werdet – das ist mein Fleisch – das Fleisch, das ich geben werde im Leben der Welt. Hier vermerken wir (dann der Pfarrer die nächsten Worte zu kund geben konnte), dass die Juden mit dem Wort seines Fleisches hingegeben werden, noch in größeren Zwiefeln geführt werden, dann sie von Beständen hatten, was er durch Brot meinte. So er aber zu senden das selbe Brot, sein Fleisch nimmt, werdend sie undütiger weder von … also: Wie kann uns sein Fleisch geben? Also spricht nun Jesus zu ihnen: „Wahrlich, wahrlich, sage ich euch, es sei dann, dass ihr das Fleisch des Sohnes des Menschen seid und trinkend sein Blut, so wird ihr das Leben in euch nicht haben.“  
 
-How may we be given his flesh to eat? Thus now Jesus says to them: Truly, truly I say to you / it is then that you eat the flesh of the Son of Man / and drinking his blood / so you will not have life in you. Here amazes me the thought of our brothers who misunderstand the word about eating the flesh and blood in the sacrament / so however it goes thereafter:  
+Hier verwundert mich das Gedachte unserer Brüder, die Worte versta­ndlich von dem Fleisch und Blut im Sakrament essen; so doch, halt hernach gilt: Wer mein Fleisch isst und mein Blut trinkt, der hat das ewige Leben; den werde ich im Leben behalten zur letzten Zeit.  
 
-Whoever eats my flesh and drinks my blood has eternal life: I will keep him in life for the first time.  
+Dann wüssten wir eigentlich, dass Christus nicht leiblich gegessen, ewiges Leben gibt, sondern für uns der wahre Gottes Sohn ist und für uns den Tod gelitten hat, glaubt, gibt das ewige Leben; oder aber es wurde das Heil der Menschen wieder an irdischen leblichen Dingen stehen, nicht allein an der lutherischen Gnade Gottes. Es wurde auch zum Weg zur Seligkeit sein, einer durch den Tod Christi, der andere durch das leibliche Essen seines Fleisches und Blutes im Sakrament.  
 
-Then, if we truly knew that Christ is not literally eaten / gives eternal life / but rather the true Son of God / and for us suffered death / believe / gives eternal life:  
+Zum dritten: So hätten die Apostel samt der Kirche, die mit ihm das Nachtmahl begannen im sakramentalen Essen, die Erwählung des ewigen Lebens schon erlangt, und wäre der Tod Christi an ihnen überflüssig gewesen.  
 
-or else the salvation of mankind would again stand on earthly, bodily things, not only on the Lutheran grace of God.  
-
-There would also be two ways to salvation: one through the death of Christ / the other through the bodily eating of his flesh and blood in the sacrament.  
-
-In the third place, the apostles together with the church, who began the Lord’s Supper with him, would already have attained the election of eternal life in the sacramental meal, and the death of Christ would have been superfluous for them.  
-
-But further follows in the words of Christ: My flesh is truly a spear / and my blood truly…
+Das aber weiter folgt in den Worten Christi: „Mein Fleisch ist wahrlich ein Spieß und mein Blut wahrlich …“

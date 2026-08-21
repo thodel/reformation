@@ -1,7 +1,18 @@
-Page XII  
-Hereafter, folios 21, 22, 23, … 24.  
+Seite XII  
+Sich danach  
+am 21., 22., 23. von  
+24. Blatt.  
 
-The first point he explains at the beginning, namely the ban concerning the open hearing of the Corinthians; for this reason it is sufficient. To the fifth he brings a verse from the other Epistle to the Corinthians, viii. Thus, when Paul again speaks, I will not overlook you. He says that a shepherd—indeed a true shepherd—who is in open … (the text is fragmentary) … no one will be spared from punishment, especially the people whose sin is drawn. To the sixth. The verse he brings from the first Epistle to the Corinthians, v. Concerning the governing, it concerns the worldly regiment of the higher authority; then the same is necessary according to their will, those who are … (the passage is corrupted). Further he brings a verse from Hebrews xii, about obedience to those who are … (the passage is corrupted). It is also spoken concerning the serviceability of worldly authority; then there is also an account of what … Christian command … but in the verse before the city … also from Hebrews xii … Thus … (the passage is fragmentary).  
+Der erste Sprecher erklärt, dass das Verbot über die offene Anbetung bei den Korinthern ausreichend begründet sei. Zu fünft führt er ein Zitat aus dem zweiten Brief an die Korinther, Kapitel 8, an. So, wenn ich an anderer Stelle zitiere, wird ich euch nicht übersehen.  
+
+Er spricht von einem ewigen Hirten, der in der Öffentlichkeit niemanden übersehen soll, um zu strafen, zu schreiben und das Volk zu seiner Sünde zu führen. Zu sechste fügt er das Zitat aus dem ersten Brief an die Korinther, Kapitel 5, ein.  
+
+Von den weltlichen Regimen, die die Oberherrschaft betreffen, sagt er, dass dieselbe Notwendigkeit im Willen derer liegt, die als falsche Christen gelten und deren Frommheit über die Tat nachgedacht wird. Weiterhin führt er ein Zitat aus dem Hebräerbrief, Kapitel 12, an: „Gehorsam sind denen, die euch vorausgehen; dann seid ihr wachsam für eure Seelen, damit die Rechnung gegeben wird.“  
+
+Es wird jedoch zuerst über die Dienstbarkeit der weltlichen Oberherrschaft geredet; dann ist auch die Rechnung, die den Christen auferlegt wird, in dem Zitat aus der Stadt und ebenfalls aus Hebräer 12 zu finden. Dort heißt es: „Sind sie nicht bedacht, dass ihr vorausgeht? Was das Verständnis betrifft, folgt daraus: Sie verkünden das Wort Gottes.“  
+
+Von all dem ist noch keine Schrift von den Oberhäuptern, den Prälaten, die es bestätigen, und unser Schlusswort ist verständlich.  
 
 Senger  
-[Er]r Berchtold has addressed me from the very beginning, speaking of the beloved Christ … lying who … the honor of God … that I, Jesus Christ, confess for a … (the text is fragmentary) … I do not know … that he is … our love … of salvation … I excuse myself before all … Christ here: then I … (the passage ends abruptly).
+
+[Er] Berchtold hat mich zu allererst angesprochen, als ich die liebenden Christen hörte, die lügen, welche die Ehre Gottes suchen, wegen der Sache, dass ich Jesus Christus bekenne für ein Haupt, von dem ich jedoch nicht erkenne, dass er unser Leben von Seligkeit ist; dass ich mich zu allererst entschuldige vor allen verwelkten Christen hier: dann ich …

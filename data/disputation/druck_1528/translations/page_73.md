@@ -1,10 +1,16 @@
-Page XXIX  
+Seite XXIX  
 
-Conclusion XXIX  
+Schlußrede XXIX  
 
-It is not to be judged that the church is the common share of God, that which is closed off; we say that it is a certain special assembly of the believers, here or elsewhere, which therefore is a community of God’s people. It is in the flesh, and yet it does not live according to the flesh, and it is indeed an outward assembly; but nevertheless it alone is distributed by the Spirit of God, which alone distributes itself against the sinners. Then the Lord says, “When your brother sins against you …” In those matters concerning the believers, it has not been judged, except that the Scripture shows what is right or wrong, according to the measure of faith.  
+Es ist nicht zu beurteilen, dass die Kirche das ist, was die Gemeinde Gottes halb verschlossen hat; wir sagen, dass es jede besondere Versammlung der Gläubigen sei, hier oder anderswo, welche deshalb eine Gemeinde Gottes genannt wird. Diese Versammlung ist im Fleisch, aber nicht dem Fleisch nach lebend, und sie ist wohl eine äußere Versammlung; doch allein durch den Geist Gottes wird sie verteilt, und dieser Geist richtet sich ausschließlich gegen die Sünder. Dann spricht der Herr: »Wenn dein Bruder gegen dich sündigt…«  
+
+In den Seelen der Gläubigen jedoch ist nicht zu urteilen, sondern die Schrift nachzuweisen, was jährlich gilt oder nicht, und das nach der Gleichmäßigkeit des Glaubens.  
 
 Doctor Conrad Treiger  
-Provincial.  
+Provincial  
 
-In the name of the Lord, Amen. Dearly beloved Christ, after my discourse which I have today given, I will address two points: the first, how the spiritual man has judged all things, and I have decided that he also has judged the Scripture. My lord Doctor met me with an answer, that such a text should therefore be shown as true, that which has been judged should become, that may be divided by the spiritual man; the Scripture, however, must not be judged, for it is from the Spirit of God; therefore it may not be divided. Yet, according to my understanding, they have necessarily drawn the opposite conclusion, that through the spiritual man the Scripture may be judged and should be judged. Then they divide the Scripture; they do not reject the Scripture, which has been shown to us through the Christian church, all holy and from the Spirit of God.
+Im Namen des Herrn, Amen. Erhabener, frommer, lieber Christus, zu meinem Vortrag, den ich heute halte, bringe ich zwei Punkte zur Sprache.  
+
+Erstens: Wie der geistliche Mensch alle Dinge beurteilt hat, und ich habe beschlossen, dass er auch die Schrift beurteilen soll. Mein Herr Doktor begegnete mir mit der Antwort, dass ein solcher Text so zu zeigen sei, was beurteilt werden soll, und dass das mögliche Verurteilen des geistlichen Menschen zu prüfen sei. Die Schrift jedoch soll nicht verurteilt werden; sie ist vom Geist Gottes, daher kann sie nicht verurteilt werden.  
+
+Zweitens: Mein Bedauern ist, dass die Gegenpartei notwendigerweise nachzählt, dass durch den geistlichen die Schrift möglich ist und beurteilt werden soll. Dann soll die Schrift nicht verworfen, sondern durch die christliche Kirche bestätigt werden – heilig und vom Geist Gottes.

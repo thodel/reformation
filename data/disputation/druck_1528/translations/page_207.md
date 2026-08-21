@@ -1,12 +1,10 @@
-Seite XCVI  
-Schlußred. XCVI  
+Seite XCVI  
+Schlußred. XCVI  
 
-Good work must be performed in humility; but if one has already done everything that the lower (earthly) desire has commanded, what has been given to him is still not yet a useful servant, and all his good works, which have not yet been compared with the grace of God, therefore all good works are not ours, but the Spirit of God working in us; therefore they are, as Saint Augustine rightly wrote, that God’s own work belongs to us.  
+gutes Werk muss man im Unterlassen tun, wenn man aber schon alles, was man getan hätte, das noch niemand gemocht hat, was ihm geboten ist, noch dann wäre er ein unnützer Knecht, und alle seine guten Werke, die die Gnade Gottes noch nicht verglichen haben, zu dem: So sind alle guten Werke nicht unser, sondern der Geist Gottes wirkt in uns; darum ist es, wie der heilige Augustinus recht schrieb, dass Gott sein eigenes Werk in uns belohnt.  
 
 Bůchſtab.  
+Dein fremdes Los nehme ich an; ich halte mich an die Schrift, die mich zuvor angezogen hat, und die ich jetzt hier vortragen werde. Im Buch Exodus, im ersten Kapitel, steht geschrieben, dass Gott den Verdienst der hebräischen Hebräer gesehen hat, die die Kinder nach dem Gebot des Pharao nicht töten wollten. Der Text spricht ebenfalls davon, dass Gott den Hebräern aus gutem Willen ein Haus gebaut hat. Daniel, im vierten Kapitel, hat zum König gesprochen: „Entlässt deine Sünde mit dem Almosen.“ Der Prophet David spricht im hundertachtzehnten Psalm. Ich habe mein Herz genügen zu deiner Gerechtigkeit gebracht, um des Widerstands willen; durch diese drei Reden und das Vorangezogene ist es genug dargelegt, dass die guten Werke verdienstvoll sein sollen.  
 
-Your fragrant glory I take up; I support myself with the Scripture, which has been drawn forth through me, which I now bring forward. In Exodus, at the first chapter, it is written that God has regarded the merit of the Hebrew men, whose children, after the command of Pharaoh, did not wish to be brought (to ruin); the text itself says that God, for such a good will, ordered the house to be built. Daniel, at chapter 8, has spoken to the king, delivering the sin with the almsgiving; the Prophet David, at the hundred and eighteenth Psalm, says: I have enough my heart to do your righteousness, for the sake of the contrary will; through this threefold speech and being drawn forth, it is sufficiently brought forward that the good works may be deserving.  
-
-Martinus Butzer.  
-
-Upon the place Exodus, because it is not contrary to us, it is then sufficiently said how our work is to be rewarded by God; but so …
+Martinus Butzer.  
+Auf das Wort Exodus, weil es nicht wieder zu uns zurückkehrt, ist genug gesagt, wie unser Werk von Gott belohnt werden soll; doch so will das hebräische Buch stehen, deshalb gebe ich auch diese Meinung ab: Es hat sich so ergeben.

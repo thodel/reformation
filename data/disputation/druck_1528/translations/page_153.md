@@ -1,14 +1,14 @@
-Seite LXIX  
-Schlußred. LXIX  
+Seite LXIX  
+Schlußred. LXIX  
 
-Enough/ yet I continue it further from the Epistle to the Corinthians/ at the chapter, as he says: “Then if I should seek something more from our power.” Here Paul argues about that power/ that indeed is spoken of the spiritual power/ therefore it should not be contradicted/ one would then have the higher Scripture/ which itself expressed it.  
+Genug, doch ich beziehe mich weiter auf die Epistel an die Korinther, Kapitel …, in der es heißt: „Wenn ich etwas mehr … suchen soll von unserer Gewalt.“ Hier beruft sich Paulus auf eure Gewalt; das ist ein Wort vom geistlichen Gewalten. Darum soll es nicht widersprochen werden; man hätte dann eine höhere Schrift, die das selbst ausdrückte.  
 
 Berchtoldus.  
-Since a power is in the church/ we have never denied it/ according to the understanding of Scripture/ which power therefore makes another head/ rather it is much more a servitude/ and the saying/ that Lord Gilg brings forward/ explains itself/ so Paul says: “And if I further speak about that power/ which God the Lord has given us for blessing/ and not for destruction/ which Paul, as a true apostle of God,/ with preaching and proclaiming the word has judged,/ and is entirely and wholly not contrary to our concluding remarks/ I therefore refer all this to the Acts.”  
+Als eine Gewalt in der Kirche sei, haben wir noch nie nach dem Verstand der Schrift verneint, welche Gewalt deshalb dein anderes Haupt ausmacht; vielmehr ist es eine Dienstbarkeit. Und der Spruch, den Herr Gilg vorgebracht hat, erläutert das Selbe, so spricht Paulus: Und so beziehe ich mich weiter auf die Gewalt, die Gott, der Herr, uns zum Bessern und nicht zum Verderben gegeben hat. Paulus, als treuer Apostel Gottes, hat das Wort verkündet und verkündet; das Urteil ist völlig und gar nicht gegen unsere Schlussrede gerichtet; darauf beziehe ich mich allesamt in den Akten.  
 
-Sůch hieno:  
-am.11.12.18. vñ  
-am . 20. blatt.  
+Sucht hier noch:  
+am 11.12.18 v. n.  
+am 20. Blatt.  
 
-Gilg Adurer.  
-Lord Berchtold says/ “It is a spiritual power/ that is given by God for an inheritance/ through which we ought to proclaim the word of God, I take it. So now a spiritual power is… So there must also be a superiority that is the rule for… I will preserve this from the Old Testament. Thus a similar figure should be fulfilled in the New Testament. As the synagogue of the Jews… has… the Christian…”
+Gilg Adurer.  
+Herr Berchtold spricht: Es sei eine geistliche Gewalt, die von Gott zu einer Erbauung gegeben ist, dadurch wir das Wort Gottes verkünden sollen; das nehme ich an. So ist also eine geistliche Gewalt; daher muss auch eine Oberheit bestehen, die das Regiment für … bewahrt, das will ich aus dem Alten Testament ableiten. Ebenso soll eine gleiche Figur im Neuen Testament erfüllt werden. Als die Synagoge der Juden … hat das christliche …

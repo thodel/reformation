@@ -1,12 +1,12 @@
-Seite CLXXXIII
-**Schlußred.**
-they do not want to do that because of our power / or of some nature / especially with the help of God's grace.
+Seite CLXXXIII  
+**Schlußrede.**  
+Wir wollen das nicht tun, weil unsere Gewalt oder irgendeine Natur, sondern nur mit Hilfe der Gnade Gottes.  
 
-**Martinus Butzer.**
-Likewise a thousand all Christians. Erhart further asked / what the service had been / whereupon Lucas Actorum on the 8th reports / I say: It has been a serious command / that the request altogether be commonly held fast / in the Scripture is set. Thus also the practice of doctrine has gone along / therefore Lucas reports / prophets and teachers / not however priests / that is / sacrificer. But that he has cast aside Erasum Rotarodamum / is to be wondered at: that until now they have by the old translation which they wrote Hieronymus / want to remain: we have shown two halls here / that one sees that a service here would be understood. Paul calls the worldly upper λειτουργούσ / which is servant of God. If it is called sacrificer / then every bailiff and reeve / also would be a sacrificer.
+**Martinus Butzer.**  
+Alle Christen sollen dasselbe tun. Erhard fragte weiter, was der Dienst gewesen sei; dazu berichtet Lucas im achten Kapitel, und ich sage: Es war ein ernsthaftes Gebot, dass das Bette (Gebet) allgemein zum Fest in der Schrift festgelegt wird. So ist auch die Praxis der Lehre mitgekommen; deshalb nennt Lucas Propheten und Lehrer, nicht aber Priester, das ist ein Opferer. Was er aber für geworfen hat, ist Erasmu Rot erodamum, das sich zu wehren versucht: Bisher haben sie bei der alten Übersetzung, die sie Hieronymus zu schreiben wollten, ... Wir haben zwei Orte angezeigt, damit man erkennt, dass ein Dienst hier so verstanden werden soll. Paulus nennt die weltliche Obrigkeit (λειτουργός), das ist Gottes Diener. Sollte man es Opferer nennen, dann würde jeder Schultheiß und Vogt ebenfalls ein Opferer sein.  
 
-**Gilg Ädurer.**
-When he answered / the service was the request / may not be / that of all services no one should be sinned. But he says here in the text: "Rather concerning the former service / Barnabas and Saul / that I want to have the Scripture bear witness."
+**Gilg Ädurer.**  
+Als er geantwortet hat, dass der Dienst das Bette (Gebet) gewesen sei, darf das nicht von allen Diensten abgelehnt werden. Er sagt jedoch im Text: „Ich beziehe mich nicht auf den vorrangigen Dienst von Barnabas und Salomo, damit ich die Schrift beleuchten will.“  
 
-**Butzer.**
-Paul and Barnabas / have been sent to the preaching office. For this has certainly served well / that one command to God the Lord has been made. Zz iij
+**Butzer.**  
+Paulus und Barnabas wurden zum Predigtamt berufen. Daraufhin hat er wohl gedient, dass man das Gebot zu Gott, dem Herrn, getan hat.

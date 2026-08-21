@@ -1,14 +1,12 @@
-Page CXXI  
-Closing speech  
+Seite CXXI  
+Schlußrede  
 
-Communion is to be made and not *Communicatio* from the standing. I defend this with the article of faith—*Sanctorum Communionem*—that is, the communion of the saints. There the communion is called by the Latins, by the Greeks *κοινωνία*. But this will become clearer thereafter. It follows further in words:  
+Die Kommunion wird verwirkt und nicht die Kommunikation ist das, was wir belegen. Dies beweise ich mit dem Artikel des Glaubens – Sanctorum Communionem, das ist die Gemeinde der Heiligen. Damit wird die Kommunion für die Lateiner und die Griechen zur Gemeinschaft (κοινωνία).  
 
-The bread that we break—is that not the communion of the body of Christ? Here we see the Apostle Paul playing upon the meaning of the sign, that the one and the same Sacrament broken together, a church together, and thus the same the Sacrament of the body and blood of Christ being eaten together, the communion or commonality of the body and blood of Christ.  
+Doch das wird danach noch klarer. Es folgt weiter in Worten: Das Brot, das wir brechen, ist nicht die Gemeinde des Leichnams Christi? Hier sagen wir, dass Paulus die Bedeutung des Zeichens erklärt, dass das eine einzige Sakrament, das wir miteinander brechen, eine Kirche ist, die miteinander verbunden ist: und damit ist das Sakrament des Leichnams und Blutes Christi, das wir miteinander essen, die Gemeinde oder Gemeinschaft des Leichnams und Blutes Christi.  
 
-If therefore this is so, then follows thereafter a *προσαποδωσις*—that is *Cause redditio*, a reason why the Christians, the one Sacrament, use, the communion of the body and blood of Christ has been denied, and thus says:  
+Das also ist, danach folgt ein προσαποδωσις, das ist causa redditio, ein Grund, warum er die Christen, die das eine Sakrament benutzen, die Gemeinde des Leichnams und Blutes Christi genannt hat, und spricht also: Dann ein Brot (hier haben wir das wörtlich) – ein offenes Zeichen, das er erzählen will – Grund, warum er die Christen die Gemeinde des Leibes und Blutes Christi genannt hat.  
 
-“Then a bread (here we have this word literally *Sann*) an open sign that he wishes to explain, the reason why he denied the Christians the communion of the body and blood of Christ.”  
+Ja, spricht er: Ein Brot und ein Leichnam sind wir die Menge. (Man erkennt hier zunächst, dass er die Menge τῆς πολλὰς, das heißt „viele“, meint, die er zuvor die Gemeinde genannt hat, und spricht: Die Menge ist ein Brot und ein Leichnam, nicht dass sie einen Leichnam Christi gegessen haben, sondern, wie danach folgt, dass sie von einem Brot (und nicht von einem Leichnam) miteinander teilen.)  
 
-Yes, he says: “A bread and a body are we the multitude.” (One works here first that he here the multitude *τῆς πολλὰς* i.e. *multos*, not that he formerly denied the communion, and says that the multitude is a bread and a body, not that they have a body of Christ given, but as follows: that they are from one bread (and not a body) sharing together.)  
-
-Here we have a special word—the sharing or division—*μετέχομεν*—and now having the word *κοινωνία*, of which explanation I hope every Christian will be open. Paul does not wish to say that we, by eating one body (bodily), become a body of Christ: then …
+Hier haben wir ein besonderes Wort, die Teilhabe oder Teilung – μετέχομεν – und nun das Wort κοινωνία, dessen Erklärung ich jedem Christen hoffentlich offenbare. Paulus will nicht sagen, dass wir durch das Essen eines Leichnams (leiblich) ein Leib Christi werden: dann …

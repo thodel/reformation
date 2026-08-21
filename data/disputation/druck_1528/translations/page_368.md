@@ -1,17 +1,19 @@
 Seite [IVXXID]
 
-The fifth
+Die fünfte
 
 Bienorũ am 174.
-leaf.
+Blatt.
 
-Yesterday and today it has been said enough that, like Melchisedek the priest of the highest God, a universal sacrifice was offered. As such, Christ Jesus himself offered himself to the highest God; then Christ is not therefore called the same as Melchisedek, because he offered wine and bread, or else Christ would have had to offer wine and bread alone, or universal sacrifices, just as Melchisedek had offered those alone and not himself. But it has been said enough that Christ fulfilled his own offering, that Melchisedek meant a universal sacrifice. For this reason the *Proverbium* on page ix is brought forward; it serves them not at all, but rather is for us, to leave us therefore to the text.  
+Gestern und heute genug gesagt, dass wie Melchisedek, der Priester des höchsten Gottes, ein vollkommenes Opfer dargebracht hat.  
+Als so hat sich selbst Christus Jesus dem höchsten Gott aufgeopfert; dann ist Christus nicht deshalb gleich genannt wie Melchisedek, weil er Wein und Brot aufgeopfert hat, oder aber Christus hätte allein Wein und Brot oder ein vollkommenes Opfer dargebracht, wie auch Melchisedek dieselben allein dargebracht hat und nicht sich selbst; aber es ist genug gesagt, dass Christus mit seinem eigenen Opfer erfüllt hat, was Melchisedek mit seinem vollkommenen Opfer bedeutet hat.  
+Deshalb ist das Sprichwort am IX. angezogen, es dient uns gar nicht, sondern ist vielmehr für uns, uns zu verlassen, darum an den Text.  
 Gilg Durer.
 
-It is necessary that another sacrifice with Melchisedek and Christ be shown, that the death of Christ and, likewise, the same thing cannot be brought forth by Scripture. Thus we remain, as previously shown, and keep the writings of the notaries and a faithful Christian reader.  
+S ist notwendig, dass ein anderes Opfer mit Melchisedek und Christus gezeigt wird, damit der Tod Christi und zugleich das gleiche nicht durch die Schrift hergebracht werden kann. So bleiben wir, wie zuvor gezeigt, und beugen den Schriften der Notarien und einem irdischen christlichen Leser.  
 Zwingli+
 
-When it is necessary that we show another sacrifice in Christ, not his death, they say, and we therefore order them that they bring Scripture.  
+Als es nötig ist, dass wir ein anderes Opfer in Christus weder seinen Tod zeigen, das reden sie, und wir fordern sie, dass sie deshalb die Schrift bringen.  
 Gilg Durer
 
-Therefore it is necessary that Melchisedek with the death of Christ may not be compared, and likewise Christ is a priest according to the order of Melchisedek.
+Darum ist es notwendig, dass Melchisedek mit dem Tod Christi nicht gleichgesetzt werden kann, und zugleich ist Christus ein Priester nach der Ordnung Melchisedeks.

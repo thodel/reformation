@@ -1,5 +1,19 @@
 Seite [X]  
-The fourth … at the fifth chapter, and it has been given all power in heaven and on earth; it should not be unknown and should be known by the middle; its body may be strengthened in the power of the often‑drawn words. As he was naturally born and lived through Master Friedrich, Luce at the second chapter is drawn. Likewise he performed many supernatural deeds in his body by divine power and might; as is the story of the distribution of the five loaves among the five thousand people, which thus remained: then, as we are according to the order of God and of nature, with our eyes the many of the people may see, and there is only one eye or two; one word is heard in many ears; thus we strive that such a thing may be spoken. And because it has happened from the heavenly messenger, the word (it has been sent forth) should not be opposed to such.  
+Die vierte  
+Hans am v. Kapitel und ihm gegeben sind alle Gewalt  
+im Himmel und auf Erden; sollte der nicht wissen und  
+mitte wissen / seinen Leib können mitreißen in Kraft der oft  
+angezogenen Worte. Sahn, als er natürlich geboren  
+und gelebt hat durch Meister Wilhelm. Luce am i. Kapitel  
+angezogen. Also der Gleichheit hatte er viele übernatürliche Dinge  
+im Leib gewirkt von göttlicher Kraft und Macht; als da  
+ist die Geschichte der Verteilung der fünf Brote in die  
+fünftausend Menschen, an das so überblieben: dann wie  
+wir von Ordnung Gottes und der Natur mit unseren Augen  
+die vielen der Menschen sehen / und nur ein Auge ist  
+oder zwei / ein Wort in vielen Ohren gehört / also so wir  
+betrachten den so soll ich reden. Und weil es vom Himmel  
+Melfart geschehen ist / soll das Wort (er ist aufgefahren) solchem nicht entgegen sein.  
 
 Martinus Butzer  
-When we bring forward the articles of the faith, that the body of Christ may not be literally eaten in the bread. Also Paul gave us this cause in the first Epistle to the Corinthians at the seventh chapter. So he openly speaks of the night sign and says that we proclaim his death until he comes, and then he at once knew how he can be everywhere, also how he is presently taken up in the night sign. But in short, the matter has the understanding through heaven; we comprehend the spiritual, holy heart of the divinity as we pray Our Father in heaven.
+Als wir die Artikel des Glaubens von erzählt anzuziehen / damit zu bewahren / dass der Leib Christi nicht leiblich im Brot gegessen werden kann. Hat uns auch Paulus in der ersten Epistel an die Korinther am v. Kapitel Ursache gegeben. So redet er offen vom Nachtmahl und sagt, dass wir seinen Tod verkündigen / bis dass er komme / und hat da gleich wohl gewusst, wie er überall sein kann / auch wie er im Nachtmahl gegenwärtig gehegt wird. Aber kurz gesagt, so hatte die Sache den Verstand / durch den Himmel / ist uns das geistlich herrlich gewesen der Gottheit, als wir unseren Vater im Himmel baten.

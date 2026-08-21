@@ -1,16 +1,16 @@
-Seite LXII  
+Seite LXII  
 
-**Schlußred.**  
+**Schlussrede**  
 
-city/that/that they have spoken/it is of the divinely inspired Scripture/And again/all that is breathed in by God/that hand is for divine Scripture/but with the conclusion/that in the Lord Christ Jesus all prophets having heard/yes also up to John/Luke/therefore they accept no new rooms of revelation/that which brings benefit/which is contrary to that which was written before Christ/until also the action of Christ is grasped/then benefit may be brought forth in the Lord Christ Jesus/as in the light of the sentence/of the spirit it is not revealed.  
+Was hier gesprochen worden ist, stammt aus der göttlich inspirierten Schrift; und wiederum alles, was von Gott inspiriert ist, ist für die göttliche Schrift bestimmt. Doch mit dem Abschluss, dass in dem Herrn Christus Jesus alle Propheten gehört haben – ja sogar bis zu Johannes und Lukas – ist es deshalb nicht mehr nötig, weitere Offenbarungen anzunehmen, die dem entgegenstehen, was vor Christus geschrieben steht und das Handeln Christi umfassen. Dann kann man nur noch nützlich sein, wenn man im Herrn Christus Jesus das Licht des Gesetzes und des Geistes nicht offenbart sieht.  
 
-**Am zwölften Tag Jenners/was**  
-Sunday before the twentieth day  
+**Am zwölften Tage des Jahres**  
+(Sonntag vor dem 20. Tag)  
 
-**Meister Niclaus Senger.**  
+**Meister Niclaus Senger**  
 
-I live as a pious Christian, as yesterday evening/this is of Saturday at night/observed/like Lord Berchtold of my ... answered poorly/and yet ... what was in the ... discourse/I will lay my answer here in writing.  
+Leben frommer Christen, wie ihr gestern am späten Sabbatabend gehört habt, wie Herr Berchtold von meinem Anzug (bzw. meiner Anklage) etwas Schlechtes behauptet hat und doch das, was in die Zerstreuung geriet, zu klären versucht. Ich will hier meine Antwort in Schrift legen.  
 
-At first, when Lord Berchtold spoke/“Beloved pious Christ, note here which and we seek the honor of God in the ... as I recognize Jesus Christ for a single head/the Christian Church/and also D. Niclaus such honor/also to give another ...”  
+Zuerst, als Herr Berchtold sprach: „Lieber frommer Christ, merke hier, welcher und uns die Ehre Gottes suchen soll; so erkenne ich Jesu Christus als einigendes Haupt der christlichen Kirche.“  
 
-In answer D. Niclaus: “I, therefore, briefly ... I begin the honor of Christ in your way to the people/especially to remember: then I with Paul to the Colossians/at the chapter ... Christ is known/for the chief head of the holy Church: then …”
+Doch D. Niclaus will solche Ehre auch einem andern geben. Auf diese Antwort D. Niclaus: „Ich will dir hier kurz bezeugen, dass ich die Ehre Christi in deinem Weg bewahre, besonders im Gedenken an Paulus bei den Kolossern, im Kapitel über Christus, für das Haupt der heiligen Kirche.“

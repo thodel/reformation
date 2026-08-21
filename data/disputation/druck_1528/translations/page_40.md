@@ -1,6 +1,12 @@
 IIX  
-The first  
-Bishop matter.  
-M. Arti Butzer has begged me with a long speech /  
-who would wish less enough. Who … makes / the … reasoning.  
-I have, from the regiment and Peter (who understood me correctly), spoken of the universal governance of the churches at the beginning / so comes Marti Butzer from the inner regiment. Therefore I have at the beginning added / and will also have added / that Christ therefore … some head of the churches. I have, however, the universal governance half / I hope … enough written in these … sayings or three. Sir I will give the keys of heaven / … and … my … also the … Christ our Savior to all … younger … said … after … John; in the last chapter. Taking the holy spirit / to those who have been forgiven / they are forgiven / to those who are kept / they are kept / with those sayings I hope I have concluded. If such a state‑holder Christ … with so much force endowed / who does not alone understand / or in himself decided / the other governance that then … nothing else / when over the universal work / especially also over the inner / when the same through acquaintance or universal corruption / the same state‑holders or governors … becomes open. I also … once / two reported abuses / neither … nor … have been held accountable. It is, however, clear / that sins are forgiven / or not forgiven / the conscience or feeling meets. Therefore I hope / I … that St. Peter’s inner governance over no man or … further … is … by those sayings.
+Die erste Bischofsmatrikel.  
+
+M. Arti Butzer hat mich mit langer Rede gebeten, wer möchte weniger genug sein. Wer umschweift, verkündet das, was Vernünftige verstehen. Ich habe von dem Regiment und von Petro (der mich richtig verstanden hat) über die äußere Regierung der Kirchen zu Beginn gesprochen; so kommt Marti Butzer her von dem inneren Regiment. Deshalb wollte ich zu Beginn etwas zugeben und will auch zugeben, dass Christus deshalb ein Haupt der Kirchen ist.  
+
+Ich habe jedoch von der äußeren Regierung nur teilweise geschrieben; ich hoffe, dass genug in diesen Sprüchen oder Reden festgehalten ist. Ich werde die Schlüssel des Himmels geben und meine Schöpfung weitergeben, auch Christus, unseren Heiland, allen jüngeren Gläubigen verkündend, nach seiner ersten Offenbarung im Johannes, im letzten Kapitel.  
+
+Nehmt den heiligen Geist, dem ihr die Sünden vergeben habt; denen sind die Sünden vergeben, denen ihr das Behalten überlassen habt; mit diesen Sprüchen hoffe ich, ein klares Fazit gezogen zu haben.  
+
+Ein solcher Statthalter Christi, mit so viel Gewalt begabt, versteht nicht allein sich selbst, sondern beschließt auch die äußere Regierung, die dann nichts anderes bewirkt, wenn es um die äußeren Werke geht, besonders aber um die inneren Angelegenheiten. Wenn dieselben durch Bekanntschaft oder äußere Verirrung offenbart werden, betreffen sie dieselben Statthalter oder Regierenden.  
+
+Ich will dabei einmal zwei gemeldete Missbräuche ansprechen, die weder gerechtfertigt noch verantwortet sind. Es ist jedoch klar, dass Sünden vergeben oder nicht vergeben werden, je nach Gewissen. Darum hoffe ich, dass die innere Regierung des heiligen Petrus über keine Menschen oder Obrigkeit hinaus bewahrt bleibt, wie es diese Sprüche belegen.

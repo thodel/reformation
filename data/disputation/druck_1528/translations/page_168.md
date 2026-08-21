@@ -1,18 +1,7 @@
 Seite XXII  
-Die ander  
-haben/That Mary is a mother of the Lord Jesus/for  
-by that a young woman/ we have yet further on it argued/ also meets our holiness/ although it is without any doubt/ by all/ thus we consider the worth of the mother of the Lord/ they remain for a young woman.  
+Die anderen haben/Das Maria ein Mutter des Herren Jesu sei/und  
+dabei ein Jüngling/haben wir ein wenig weiter darauf geforscht/ trifft auch unsere Heiligkeit an/ weil es ohne Zweifel ist bei allen/ so die Würde der Mutter des Herren erachten/ sie sei für und für ein Jüngling bleiben. Des Sonntags  
+halb hat es die Meinung/ dass die Führung desselben für sich selbst den Christen nicht geboten ist/ aber die Liebe so beständig zur Erbauung der Gemeinde betrachtet/ alles das zu ordnen hat/ so dass es dienstlich sein kann/ so hat die gläubige Gemeinde/ die Verleihung der Apostel angenommen/ um an einem Tag der Woche das lebendige Werk zu feiern/ damit die ganze Gemeinde zur Hörung des Wortes Gottes verpflichtet werden kann. Wie dann Gott der Herr auch im Gebot des Sabbats angesehen hat. Ist auch solcher Bruch zur Zeit Paulus schon gewesen/ als wir lesen am 18. des ersten Kapitels zu den Korinthern/ da er also schreibt: Auf dem Sabbat einen Lehrer bei ihm selbst ein … Der Apostel hat den halben Tag, aber die alte Abendzeit ähnlich bedacht/ so dass das Volk zusammenkommt und der Glaube der Apostel samt göttlicher Gnade durch das Wort erinnert wird/ ist aber nie gewesen, dass … das so von den rechtgläubigen als ein notwendiges Gebot gefeiert wird/ das das Gewissen binden soll/ gehalten worden. Die Summe aber unserer Antwort ist vor allem angezeigt/ was notwendig fließt aus dem Gebot Gottes: Liebe Gott von ganzem Herzen und deinen Nächsten wie dich selbst. Wie es in der Schrift gesagt ist, wird es als notwendig beschlossen, dass der Vater ein unverfälschter Vater sei, den Vater ungebrochen: der Sohn dem Vater gleich und … Das erkennen wir in göttlicher Schrift begründet. Die bischöfliche Kirche aber hat uns aufgezeigt, dass nicht allein …  
 
-Des Sunntags halb/has the opinion/that the leading of it is not offered to the Christians for themselves/ but that love, so constantly toward the edification of the community, is considered/ all that is ordered/ so that it may be serviceable/ thus the faithful congregation has taken the Lord’s permission/ to keep one day of the week to refrain from worldly work/ so that the whole community may be able to hear the word of God.  
-
-Wie dann Gott der Her auch im gebott des Sabbaths angesehen hat. Jst auch söllicher bruch/at the time of Paul already existing/ as we read in the xviii. chapter of the first epistle to the Corinthians/ where he writes: “Auf den Sabbat einen Lehre bei ihm selbst ein etlicher unter euch.”  
-
-Der Apostlen tag halb aber/has the old evening duly considered/ that the people might gather together and that the faith of the apostles together with divine grace, through the word, was remembered/ but it has never been that such a thing should be kept among the rightly believing for a necessary command that the conscience should be bound/ having been held.  
-
-Die sum aber unser antwurt ist vor auch angezeigt/what necessarily flows from the command of God: “Love God with all your heart and your neighbor as yourself.”  
-
-Jtem was vß gesägt der geschrifft/notwendig beschlossen wird/as the father is to be honored, the father being unborn: the son is the same as the father/and the same/ that we recognize founded in divine Scripture.  
-
-Die Bäpstlich Kilch aber hat uns vffgezochen das nit allein vß dem wort gottes in der schrifft verfasst set  
-
-*Marginalia (left margin):* Bienor on folio 74.
+*Marginalia (left margin):*  
+Bienor am 74. Blatt.

@@ -1,13 +1,12 @@
-Seite 153  
-Schlußred CLIII  
+Seite 153  
+Schlußrede CLIII  
 
-to those words we note / that Christ, the life‑maker, according to divine nature and power, does not  
-So now the only one who makes life / follows / whose flesh is truly eaten / does not make life / except only through the operation of the divine spirit / inflamed in us /  
-for us having endured death: but which otherwise is of no use / neither through his death on account of God’s mercy / is assured:  
-then God has given his own Son for us / that he united himself with us / what could be taken away from us:  
-zu Röm. am viij. cap.  
-Zum anderen / that he himself says: Ich bin das Brot des Lebens / who comes to me (that is, he knows me / and trusts in me / as thereafter follows the same) the one will never hunger: and whoever trusts in me / will never thirst.  
-In welchen Worten wir offenlich sehend / that to trust / the breach / the highest and the right is: and whoever feels it / does not ask further after others with them / who are comforting or assuring.  
-Gleich als auch in menschlichen Händen welcher ein Ding selbst / with seeing / hearing and experiencing / is a report / there is no need that another tell him / that he himself knows.  
-Also ist auch der Glaube ein gewisses und unerschütterliches Ding / that man places upon God / and knows when he believes: and there is no need that one be assured / nor concerning eating / nor concerning drinking wisely: then where the spirit is / there the sure thing (the assurance that living faith is) is / there is no hunger nor thirst / after further assurance or consolation: or however those who have begun in the spirit / must first also in the flesh be truly eaten / seek consolation / and be welcomed / which indeed is from Paulus  
-D q
+Welchen Worten wir merkend, dass Christus der Lebendig‑Macher nach der göttlichen Natur und Kraft genannt wird. So nun die allein Lebendige macht, verfolgt, das ist fleischlich lebend gegessen, nicht Lebendig‑Macher, sondern allein durch die Wirkung des göttlichen Geistes in uns geglückt, für uns den Tod erlitten hat: welches aber nichts anderes ist, weder durch seinen Tod auf die Erbarmung Gottes versichert ist; dann hat Gott seinen eigenen Sohn für uns gegeben, dass er uns mit ihm selbst versöhnt, was uns von ihm abgeschlagen werden könnte – siehe Römer VIII, Kapitel.  
+
+Zum anderen spricht er selbst: „Ich bin das Brot des Lebens, welches zu mir kommt (das heißt, dass ich erkannt werde und von mir vertraut, danach folgt derselbe). Wer das ist, wird niemals hungern, und wer in mir vertraut, der wird niemals dürsten.“  
+
+In welchen Worten wir offenlich sagen, das zu vertrauen, das ist das Höchste und das Rechte; und wer das empfindet, fragt nicht weiter nach anderen Mitteln, die einen trösten oder versichern.  
+
+Gleichwie auch im menschlichen Handeln, wer ein Ding selbst sieht, hört und erfährt, berichtet, der braucht nicht, dass ein anderer ihm davon sagt, weil er es selbst weiß.  
+
+Also ist auch der Glaube ein gewisses und unerschütterliches Ding, das sich der Mensch von Gott lässt und weiß, wenn er glaubt; und es bedarf nicht, dass man ihn zur Versicherung, weder zum Essen noch zum Trinken, auffordert: wo der Geist ist, da ist Sicherheit (die Versicherung des lebendigen Glaubens), dort gibt es keinen Hunger noch Durst nach weiterer Versicherung oder Trost; oder aber die, die im Geist begonnen haben, müssen erst im Fleisch auch lebendig gegessen, Trost suchen und willkommen werden, was jedoch von Paulus …

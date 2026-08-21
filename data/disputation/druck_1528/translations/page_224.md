@@ -1,3 +1,3 @@
 Seite IV  
-The fourth  
-we have promised ourselves a lovely feast / that cannot be brought forward by Scripture / therefore the argument is dismissed / we also recognize the Almighty’s being. But from this does not follow / God is able to do that / so it also is / that he would turn the stones to Helias and the preaching John / they are however not therefore the preaching / Helias and John / thereby God does not act against his own word / it would also be against his own word to do / not for a …
+Die vierte  
+uns vergessen haben, lieblich zu sehen / das mag mit Schrift nicht gebracht werden / deshalb wird das Argument verworfen / wir erkennen ja auch den Allmächtigen sein. Aber daraus folgt nicht / Gott vermag das / so ist es auch / dann er möchte die Steine zu Heliasen und predigende Johannes … kehren / sie sind aber darum nicht die Predigenden / Helias und Johannes / dadurch tut Gott wider sein eigenes Wort nicht / es wird auch wider sein eigenes Wort tun / nicht für einen

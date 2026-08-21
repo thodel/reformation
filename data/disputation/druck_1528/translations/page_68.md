@@ -1,12 +1,11 @@
-Seite IVXX  
-The first closing address to the testimony of the minds, therefore.  
+Seite IVXX  
+Die erste Schlussrede zur Bestätigung der Minen, also darauf.  
+So dicht und viel, und Zwietracht und Widerstand treiben in unserm unbefleckten Glauben; es ist von Noten, dass ein Richter gefunden werden soll, der den zurückkehrenden Wolf durch seine Gewalt hinweg treibe und von der Härte des Herrn abwende, und zeige, welcher ein Hirte oder zurückkehrender Wolf sei. Das ist aber die christliche Kirche, wie Matthäus am xviij. Kapitel geschrieben steht:  
+„Wer die Kirche nicht hört, der soll dir sein wie ein Heide und ein offener Sünder.“  
 
-So much and many, by force and oppression, are they thrust into our unblemished belief; it is from notes that a judge will be found who will drive away the snarling wolf by his power and cast him out from the hardness of the Lord, and point out which one is a shepherd or a snarling wolf. This, however, is the Christian Church, as written in Matthew chapter xviii, instead:  
-“Whoever does not hear the Church shall be to you as a heathen and an open sinner.”  
+Doctor Wolfgang Fabricius Capito, Prediger zu Straßburg.  
 
-Doctor Wolffgang Fabricius Capito, preacher at Strasbourg.  
+Kommt, liebe Christen, der lange nach, hat so Kreuz Conrad Treiger Provincial, Inhalt und Meinung seines Fürstenamtes angezeigt und in dem Namen der Kirche zweispaltig genommen und weltlicher Meinung zufolge angezeigt, warum die Versammlung des gemeinen Volkes in zweispaltigen Artikeln des Glaubens sprechen soll; dann wird ein Richter sein müssen.  
 
-Come, beloved Christians, who have long after… So, Count Conrad Treiger, Provincial, content and opinion of his authority have been shown, and in the name of the Church taken in a divided way, and by worldly conjecture a matter has been shown, why the common assembly, in divided articles of faith, should speak, then there must be a judge.  
-
-Now, let us grasp the most advantageous course; we will first … the holy Christian Church … that a certain chief Christ is taken and explained, namely that the same is the assembly in the spirit of all believers, as members of one body. Which of your chief Christ, our Lord, has made alive and alone is ruled. Sarum then Paulus says:  
-“The spiritual man is judged by no one; he judges all things.” Therefore, because the Scripture is certainly …
+Auf dass nun zum Handel, am förderlichsten, gegriffen werde, wollen wir das erst die heilige christliche Kirche, die ein Haupt Christus ist, harfner nennen und erklären, nämlich also, dass dieselbe die Versammlung im Geiste aller Gläubigen ist, als Glieder eines Leibes. Welcher von eurem Haupt Christus, unsern Herren, lebendig gemacht und allein regiert wird. Sarum, dann spricht Paulus:  
+„Der geistliche Mensch wird von niemandem gerichtet; er richtet aber alle Dinge.“ Deshalb, weil die Schrift gewiß…

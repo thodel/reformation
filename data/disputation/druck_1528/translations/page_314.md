@@ -1,15 +1,15 @@
 Seite [LXXV]  
-Thus they say) So must the blood of Christ not be the New Testament.  
+Sie reden) So muss das Blut Christi nicht das Neue Testament sein.  
 
-The fourth pastor of Saint Gallen  
-NEſiat process in infinitum, and from the theologian Aristotelicus I will again present the readers in the Acts.  
+Der vierte Pfarrer von Sant Gallen  
+Möge der Prozess nicht ins Unendliche gehen, und aus dem aristotelischen Theologen soll ich dem Lesenden in den Akten zurückkehren.  
 
 Zwingli  
-[S]o now follows that the word. The fragment is the New Testament, not to be understood merely literally nor historically, except by means of Methonomiam, that is, through a later taking of the fragment of the night, a Testament is taken: but it is not a Testament, except that only the name is received from which it is a sign.  
+So folgt nun das, was gesagt wurde. Das Stück ist das Neue Testament, das nicht schädlich oder wesentlich missverstanden werden darf, sondern durch eine Methode, die ich Methonomia nenne, also durch ein nachträgliches Aufnehmen des Stückes des Nachtmahls, ein Testament genommen wird: und es ist kein echtes Testament, sondern allein ein Name, den es empfängt, weil es ein Zeichen ist.  
 
-But that the blood of Christ is not the Testament, learning the word of Paul himself so that he would speak of it in my blood, which Matthew and Mark with the words convey, that blood for the multitude is forgotten for the sake of the after‑life, so that our brothers may be recognized, that with the saying of Genesis in chapter xvij the cutting is taken as a Testament, not forced by waves, therefore these words also must be understood as a sign of the Testament, except as we here in the words themselves, with the fundamental denial of the Testament forced, that the fragment is not truly the Testament, so that we may become alike to the Scripture therein, whereby one learns the manner of speaking of the divine word.  
+Das Blut Christi ist jedoch nicht das Testament; das lehrt das Wort des Paulus selbst, das er sagt: „In meinem Blut …“, worauf Matthäus und Markus mit den Worten reagieren, dass dieses Blut für die Menge vergessen wird, um nachzuholen, was die Hoffnung ist, also unsere Brüder erkennend, dass mir mit dem Spruch aus Genesis, Kapitel 17, Vers 5, die Beschneidung als ein Testament genommen wird, nicht erzwungen werden kann, weil deshalb dieses Wort ebenfalls verstanden werden muss als ein Zeichen des Testaments, und so wir hier in den Worten selbst, mit dem grundlegenden Verstehen des Testaments gezwungen haben, dass das Stück nicht wirklich das Testament ist; so werden wir gleichsam das Gleiche in der Schrift erhalten, an welcher man die Art der Rede des göttlichen Wortes lernt.  
 
-Pfarrer von Sant Gallen  
-We shall read by our previously given answer.  
+Pfarrer von Sant Gallen  
+Wir lassen uns von unserer vorgetragenen Antwort beleben.  
 
 Zwingli

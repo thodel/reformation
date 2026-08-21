@@ -1,24 +1,5 @@
-Schlußred.  
-from/of the head of the church the word being reported is  
-given by me in answer according to proper measure  
-of the Scripture and the property of the head  
-in a yearly faithful understanding the Scripture is  
-the only head. Since Paul says in Ephesians chapter five.  
-The Scripture itself is a holy land for love,  
-therefore may your creature become so be made.  
-Peter is not our holy / Ser Bishop.  
-founders alone Christ: and even if the worldly line  
-with words is not explained, it is nevertheless explained by the Apostle  
-that the Scripture therefore is a head, that he gives his holy  
-life. Sarum dear father / giving Christ the honor / and leaving  
+Schlußrede.  
+Von dem Haupt der Kirche, dem Wort, das einig gemeldet wird, gebe ich im Zuge der Antwort nach eigenem Ermessen die Schrift und die Eigenschaft des Hauptes, einem eigentlichen gläubigen Verstand, dass das Christus sei, das ein Haupt. Denn Paulus spricht zu den Ephesern im Kapitel … Das Christus selbst ist ein Heiland für das Leben; darum mag solches deiner Kreatur zugemessen werden. Petrus ist nicht unser Heiland, sondern Bischof; allein Christus ist das Fundament. Und ob das Wort/der Text mit Worten nicht erleuchtet ist, so erleuchtet doch der Apostel, dass Christus darum ein Haupt sei, dem er das Heil und sein Leben gibt. Sehr lieber Vater, gib Christus die Ehre und lasse ihn im Haupt bleiben; es sei dann Sache, dass ihr mit Schrift bringt, dass jede Kreatur ihrer Eigenschaft folgen kann.
 
 Bycheuatter.  
-Sir Berchtold has given me an answer to which he  
-himself now gives so much good, the thanks.  
-I am gently not opposed to Christ the  
-influence and the gracious living, the church is / from the  
-all grace inflowing. This head city not alone of the  
-human life / that it alone influences the living.  
-It also has the body‑state / diligently governing / in fine offering works / in exercises.  
-But Christ’s visible / bodily / dignity / would take up  
-in the heaven / devoted in good / it also then / he finds a certain life / that is the holy Christian church / by offering set / a one / through which he / as through his ordained set head / and governor / would rule.
+Berchtold hat mir eine Antwort gegeben, die er mir selbst zugeflüstert hat, so viel zu meinem Wohl; dafür danke ich ihm. Ich bin jedoch nicht dagegen, dass Christus der Einfluss und die gnädige Liebe der Kirche ist, von dem alle Gnade ausgeht. Diese Hauptsache ist nicht allein das menschliche Leben, das allein das Leben beeinflusst. Es gibt auch die Gemeinschaft des Lebens, die in den Opfern wirkt und in den Übungen besteht. So soll Christus sichtbar, lebendig, würdig sein, den Himmel öffnen, das Gute suchen; er findet ein Leben, das das heilige christliche Kirchengeschehen ist, das durch das Angebot gesetzt wird, durch das er als durch seinen verordneten Haupt‑ und Statthalter regieren wird.

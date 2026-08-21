@@ -1,19 +1,6 @@
-Page XX  
-The first  
-Bevollmächtigte is the office especially to act / as Peter  
-especially the Bevollmächtigten are the keys / also someone  
-in particular recommended has for other two / which yet no one has  
-with the Scripture dismissed / therefore it becomes clear / in what  
-form Christ is shaped / also in what form Peter or his descendants  
-are shaped / the head of the churches is called / falls the error / that one says: Is Peter our head / so he also is our Redeemer and blessed … (keyt.zc.) As spoken is about Varti Butzer / also other his brothers. He also says / Where two or three in his name are gathered / that the church may act / according to the divine word / which also the whole church receives / which however is nothing: then Paul and  
-Barnabas were not sent toward Jerusalem / because of what  
-trade reasons / that the church is attacked / perhaps well  
-in the assembly to Antioch dispatched / so Paul / who indeed a worldly thing grasped / and also refrains  
-the spirit of God has / and the Gospel not from men / but from God received / may have with his  
-brothers to Antioch / the churches dispatched have / the matter is enough. No one should do anything  
-by his own force / but let the power of the churches  
-continue long / or those above thereby ordered. Now  
-enough is the hand / as Christ a beloved head  
-says / in which grace I recommend myself / and in what  
-form the church an appointed head has / of which I make myself  
-under …
+Seite XX  
+Die erste Bevollmächtigung ist das Amt, vornehmlich zu handeln, wie Petrus. Vornehmlich bevollmächtigt sind die Schlüssel; auch jemand, der die Schafe leitet, hat besonders empfohlen, für andere zu zweifeln, was noch keiner mit der Schrift widerlegt hat. Darum wird klar, in welcher Gestalt Christus, auch in welcher Gestalt Petrus oder seine Nachkommen, das Haupt der Kirche, eingesetzt werden sollen; es fällt die Jahreszeit, da man spricht: „Jesus ist unser Haupt“, so ist er auch unser Erlöser und Seligkeit.  
+
+Gesprochen wird von Varti Butzer und anderen seinen Brüdern. Er sagt auch: Wo zwei oder drei in seinem Namen versammelt sind, das soll die Kirche befähigen, nach dem göttlichen Wort zu handeln, das die ganze Kirche trifft, das jedoch nichts ist: dann würden Paulus und Barnabas nicht nach Jerusalem gesandt werden, wegen Handelsangelegenheiten, die die Kirche betreffen; sie hätten wohl in der Versammlung zu Antiochien gerichtet. So Paulus, der doch ein Außenweltliches fasst, und sich auch weigert, den Geist Gottes zu haben, und das Evangelium nicht von Menschen, sondern nur von Gott empfangen hat, könnten mit seinen Brüdern nach Antiochien gehen; die Kirche hat das Gericht bereits. Der Streit ist genug. Niemand soll etwas aus eigenem Zwang tun, sondern es länger an der Gewalt der Kirche oder den Oberen dazu verordnet lassen.  
+
+Ihr habt nun genug, wie Christus ein geliebtes Haupt siegt, in dessen Gnade ich mich einsetze, und in welcher Gestalt die Kirche ein eingesetztes Haupt hat, dem ich mich unterwürfig mache und beim gemeinsamen Verständnis christlicher Kirche bleibe.

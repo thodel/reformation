@@ -1,21 +1,17 @@
 Seite 218  
-Schlußred. CCXVIII  
+Schlußrede CCXVIII  
 
-the and also in the various darkness. Where such darkness is, and such binding, completely weeping and sighing, a cleric may easily be called.  
+den und fügen in die verschiedene Finsternis. Wo solche Finsternis ist und solche Banden zusammen weinen und klagen, kann ein Kerker rechtfertigt werden.  
 
-Bůchſtab  
+Buchstab  
+Und der Titel des angezeigten Psalms ist mir nicht bekannt; ich halte mich an den Psalm. In Esaias heißt es: David hat von Saul gesegnet worden, und doch ist seine Anfechtung nicht gegen mich gerichtet. Ich möchte jedoch sagen, dass ein Kerker genommen werden sollte für die Verdammten nach origenischer Art; das ist nicht mein Wille, denn ich glaube nach dem Inhalt aller Schrift, dass die Verdammnis ewig ist. Dann ist allein meine Meinung und mein Urteil, dass das Wort‑Kerker‑Verhältnis nicht ewig ist und wie vieles durch mich eingeführt wurde, bleibe ich dabei. Dass die notwendige Finsternis ebenfalls ein Kerker genannt werden kann, lehne ich nicht ab; das Wort‑Kerker ist jedoch nicht das eigentliche Ziel.  
 
-And the title of the displayed psalm I know not; I rely on the psalm. In Isaiah:  
-David began from Saul, having been delivered, and such is his trial; a cleric has been named, it is not against me. But I would say that a cleric should be taken for the condemnation, according to the Origenist manner; it is not my will, for I also believe, according to the content of all Scripture, that the condemnation is eternal: then that alone is my taking and my opinion, that the literal cleric is a restraint, that which is not eternal; and as such, through me, it is brought forward, and I remain.  
+S. Ecolampadius  
 
-That the necessary darkness also may be called a cleric, I do not cut off; the literal cleric, however, not thereby.  
+Der Verstand der Schrift ist dargelegt, damit wir sie lesend bewahren.  
 
-S. Ecolampadius.  
+Theobaldus Hüter, Pfarrer zu Appenzell.  
 
-The understanding of Scripture is shown, whereby we remain silent.  
+Im zweiten Jahr des Königs, im fünften Monat: Wie König David gesündigt hat, so zeigte der Prophet Nathan, dass er wegen seiner Sünde leidete und von Gott vergeben wurde. Dann sprach er: „Ich habe dem Herrn gesündigt und erkenne meine Sünde.“  
 
-Theobaldus Hüter, Pfarrer zu Appenzell.  
-
-In the seventh year of the reign of the king, as King David has healed, as the prophet Nathan shows, he has suffered for his sin and was forgiven by God; then he spoke: “I have sinned against the Lord,” and acknowledged his sin.  
-
-Jů ij
+Jü ij

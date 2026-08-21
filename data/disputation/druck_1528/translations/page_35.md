@@ -1,15 +1,11 @@
-Schlußred.  
+Schlußrede.  
 X  
-to preach the gospel, which however is without all strength, Sir  
-Lord Jesus, the one head, make then a faithful preaching  
-in the heart firmly, then God gives the growth.  
+Geliebte predigen, was doch ohne alle Kraft ist. Herr Jesus, das eine Haupt, mache dann folgliche Predigt im Herzen kräftig, dann gibt Gott das Wachstum.  
 
 Bichouatter.  
-Sir Parti Buzer has granted me in writing to preserve that the holy St. Peter has certain authority, or that the government in ... spreads widely, that he ... may ... a head of the churches ... hope that so much God's grace gives ... the ...  
+Erbparte Buzer gab mir schriftlich zu bewahren, dass der heilige S. Peter gewisse Gewalt habe, oder dass die Regierung im Bösen sich weit verstreckt, dass er in oder nach kommen habe; habe man ein Haupt der Kirchen gemacht, hoffe, dass Gott so viel Gnade gibt, das zu bewahren. Lukas im fünften Kapitel sprach Christus zu Petrus: „Für das Schiff in die Tiefe und spreitend uns über Netze zu fangen, wenn die Auslegung Chrisostomi gelten sollte, alles billig sein folgt.“  
 
-Luke in the fifth chapter spoke: Christ to Peter: for the ship into the deep and spreading out our nets to catch, if the interpretation of Chrysostom should apply, all should be in accordance.  
-
-Hereupon the bishop‑father was made … by the presidents and struck down according to the order of the gentlemen of Bern, his teachers to be admonished. Therefore the same bishop‑father …  
+Hierauf wurde dem Bischof durch die Präsidenten Widerstand geleistet und er wurde nach Ordnung der Herren von Bern abgeschlagen, deren Lehrer anzuziehen. Deshalb soll derselbe Bischof solches Maß weiter reden.  
 
 Bicheuatter.  
-Ristus has clearly to understand that Peter’s authority has fallen, the theft of the ... ... Luke in the seventeenth chapter spoke: Christ to Peter: I have prayed for you, and you … confirm your brothers. Matthew in the sixteenth chapter: You are Peter, and of the … I will build my church, and the gates of the … may not resist: and I will give you the keys of the kingdom of heaven: and all that you will bind … will be bound … in the …
+Ristus hat klar zu verstehen gegeben, dass Petrus Gewalt erhalten habe, die Tiefe der ... (unleserlich). Lukas im siebzehnten Kapitel sprach Christus zu Petrus: „Ich habe für dich gebeten, und du erwiderst; bestätige deine Brüder.“ Matthäus im sechzehnten Kapitel: „Du bist Petrus, und von den Völkern werde ich meine Kirche bauen, und die Tore des Himmels werden nicht widerstehen; dir will ich die Schlüssel des Reiches der Himmel geben, und alles, was du bindest, wird gebunden sein …“

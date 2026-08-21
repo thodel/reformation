@@ -1,12 +1,13 @@
 Seite CXXV  
 **Schlußred.+ CXXV**  
 
-auch die Apostel. Vom Spruch Johannes am … Kapitel will ich damit in gleicher Weise zu den Worten des Nachtsmals des Herrn diese Worte nicht gleich machen, sondern damit den Verstand der Worte des Nachtsmals vergreiflich machen und … damit die Worte Johannes nicht gleich … namentlich dieses Wort des Nachtsmals … wir also … das in den Worten nehmend und essend … das ist mein Leichnam … und trinkend alles daraus … das ist mein Blut … werde uns mitgeteilt.  
+Auch die Apostel. Vom Spruch Johannes im … Kapitel …  
+Ich will damit in gleicher Weise zu den Worten des Nachtmahls des Herrn kommen; dieses Wort nicht einfach wiederholen, sondern den Verstand der Worte des Nachtmahls, des Sterbens, verständlich erklären und erhellen; und damit die Worte Johannes nicht gleich gelten, nahe dieses Wort des Nachtmahls … Wir wollen also das in den Worten: Nehmend und essend, das ist mein Leib, und trinkend alles daraus, das ist mein Blut, das wird uns mitteilen.  
 
 **Zwingli.+**  
 
-Ein unser Bruder bekennt, dass das Wort Johannes am … Kapitel Jesus hat sie angesucht, … nicht gleich sein in den Worten. Das ist mein Leichnam; und will aber damit bewahrt haben, dass die Worte verstanden werden sollen, und dem Brot ist mein Leichnam, so wurde … dienen, dass das Wasser in den Krug gesetzt ist und Johannes anderweitig zu Wein gemacht … weder …  
+Ein unser Bruder bekennt, dass das Wort Johannes im … Kapitel … Jesus hat er gesucht, jedoch nicht gleich in diesen Worten. Das ist mein Lichtname; ich will damit bewahren, dass die Worte verstanden werden sollen, und dem Brot ist mein Lichtname; so wurde … dienen, dass das Wasser in den Krug gesetzt ist und Johannes am anderen zu Wein gemacht; weder dieser Ort … Wir wollen hier von dem Kapitel anblassen, dass Christus besonders reden soll: dass es nicht zu der Sache des Dieners.  
 
 **Pfarrer von Sant Gallen.+**  
 
-V hat vergangen vielfältige Vorträge … meiner lieben Herren und Mitbrüdern … besprechen wir also alles den Akten. Ist hierauf unser Bekenntnis nicht zu disputieren, ob das Brot … oder im Brot … der gleichen Zankrede (wie die Vernunft solches herführen möchte) der Leib Christi sei. Allein wollen wir … uns werden der Leib Christi … (laut den Worten nehmend und essend … das ist mein Leichnam) mitgeteilt. Hierauf erwarten wir …
+Wir haben vielfältige Vorträge meines lieben Herrn und mit Brüdern besprochen, alles den Akten. Es ist hierauf unser Bestreben, nicht zu disputieren, ob das Brot … oder im Brot … der gleiche Dank (wie die Vernunft solches hervorbringen möchte) der Leib Christi sei. Allein wollen wir, dass der Leib Christi (laut den Worten: Nehmend und essend, das ist mein Leib) mitgeteilt wird. Hierauf erwarten wir …

@@ -1,11 +1,11 @@
-Seite 178  
-Schlußred. CLXXVIII  
+Seite 178  
+Schlußred. CLXXVIII  
 Buchstab.  
 
-[V]ff den anfang hern Berchtolden/gestern angezogen/ wil ich von das kürzest/ ohne alles wiederwen/antworte. Sag also: Sie sprüch am anfang gemåldet/ sind ein teyl in der dritten/ and ein teyl in der sechsten schlußred begriffen/ darum ich sie ja viel lass zu verantworten. Das aber die Maß für ein gut Werk geachtet wird/ beschicht gleich wie auch mit anderen Sacramenten. Sie bösen Priester will ich auch nicht ver antworte. Das aber die Priester mithelffer seien/ ist der Schrift nicht zu wider/ so auch alle Menschen schuldig sind/ für einander zu bitten/ Jacobi. v. und allenthalben. Ich achte auch nicht/ das kein christlich Mensch/ Christo sin Leer zu schwäche/ sunders viel mehr zu öffnen/ geneigt siege. Wann alles/ so zu dem Einsatz des Nachtmals gegangen/ nicht böß/ sunders gut und loblich ist: und alles/ so Gott zu loben und Ehr beschicht/ seinem Wort gegenüber nicht zu wider/ soll man lassen bleiben. Vß kraft der Sprüch St. Paul zu Philippensern. chap. iii and iv. In der andern Süch chap. 77. schlußred genügsam anzeigt und erleuchtet.  
+[V]ff den Anfang hern Berchtolden, gestern angezogen, will ich von dem Kürzesten, ohne alles widerzuantworten. Sag also: Sie sprich am Anfang gemalt, sind ein Teil in der dritten und ein Teil in der sechsten Schlußrede begriffen, darum ich sie weiß, will ich lassen zu verantworten. Das aber das Maß für ein gutes Werk geachtet wird, beschließt gleich wie auch mit anderen Sakramenten. Die bösen Priester will ich auch nicht beantworten. Das aber die Priester mit Helfern sind, ist der Schrift nicht zu widersprechen, so auch alle Menschen schuldig sind, füreinander zu bitten, Jakob v. und allenthalben. Ich achte auch nicht, dass kein christlicher Mensch Christus’ Lehre zu schwächen, sondern viel mehr zu öffnen, geneigt zu sein. Wenn alles, so zum Einsatz des Nachtmahls gegangen, nicht böse, sondern gut und loblich ist, und alles, so Gott zu loben und Ehr zu beschließen, seinem Wort entgegen nicht zu widersprechen, soll man bleiben. Durch Kraft der Sprüche S. Paulus zu den Philippern, am III und IV. In der andern Suche am 77. Schlußrede genügsam angezeigt und erläutert.  
 
 Butzer  
 
-[F]ür ein andern sollen wir bitten/ das bewährt aber nicht/ das die Maß/ in dero durch das vermeint wideropfer/ Gott gelästert wird/ ein gut Werk sei. Es sind auch die zusatz zu Nachtmal/ durch die baptistischen getan/ böß/ und der Ehren Gottes zu wid/ wie in der Erklärung dieser schlußred/ unser Brüder Berchtold/ genügsam angezeigt hatt. Das ander/ ist in Handlung der Süch chap. 78. andern schlußred/ auch genügsam erklärt. und 79. Blatt.  
+[F]ür einen andern sollen wir bitten, das jedoch nicht, dass das Maß in dem durch das vermeintliche Wiederopfer Gott lästert, ein gutes Werk sei. Es sind auch die Zusätze zum Nachtmahl, durch die bischöflichen Getan, böse und der Ehre Gottes zuwider, wie in der Erklärung dieser Schlußrede, unser Bruder Berchtold, genügsam angezeigt hat. Das andere ist in Handlung der Suche am 78., andern Schlußrede, auch genügsam erklärt, und 79. Blatt.  
 
-Yy ij
+Yy ij

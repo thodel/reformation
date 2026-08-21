@@ -1,13 +1,9 @@
 Seite [X]  
-**Die vierdt**  
+**Die vierte**  
 
-First, Luce at viij. ca. The freely so the bast of the Lord arouses / in the spirit and belief alone brings benefit from it: but the other share of the people / so in [their] striving and aroused / bring fruitfulness from it, while they are in belief and spirit do not [receive] it. Certainly it is so that our hearts no longer [are] upon the word and the utterances of God’s revelation / we would not bring much fruit from that / so we are reached or shared.  
-
-From the blasphemy of John at xx. chapter / we say likewise as before / not that the blasphemy of the holy spirit is sin / without such a means he has shared it with the younger / according to the light and content of the word: taking away the holy spirit. And wherever the spirit of God is at all places / it will be shared through the word. As the Scripture relates in the histories of the xii. botten / at x. chapter / when Peter speaks / the word of Jesus of Nazareth / and the belief in him / the holy spirit has fallen down over all those / who thus keep the word. Then, by the hearing of the words of belief / the holy spirit is shared / to the Galatians at ii. chapter.  
-
-From the saying of Paul / by understanding mine / against the Greek speech / in the word (division) is my [mind] brought / the here responsible / so the speech is reported.  
+Zuerst: Luce am VIII. Kapitel. Das Frühe berührt den Bund des Herrn, im Geist und im Glauben allein nutzt es; aber die andere Schar des Volkes, die in Trübung und Anrührung ist, nutzt fruchtbar darauf, weil sie im Glauben und im Geist nicht festhalten. Gewöhnlich ist es so, dass wir unser Herz nicht mehr von dem Wort und den Zusagen Gottes einlassen; würden wir nicht viel Frucht davon erhalten, so würde uns das Gerechte oder das Mitgeteilte gebracht. Vom Blatt Johannes am XX. Kapitel sagen wir ebenso wie zuvor, dass das Blatt nicht vom heiligen Geist beseelt ist, sondern dass er mit seligem Mittel den Jüngeren mitgeteilt wird, nach Lust und Inhalt des Wortes: Nehmend den heiligen Geist. Und wo der Geist Gottes an allen Orten nützlich ist, wird er durch das Wort verteilt. Wie das die Schrift in den Geschichten der XII. Boten am X. Kapitel bezieht: Da Petrus das Wort von Jesus von Nazareth und dem Glauben in ihm redet, ist der heilige Geist über alle herabgefallen, die das Wort hören. Dann, über das Gehör der Worte des Glaubens, wird der heilige Geist zu den Galatern am II. Kapitel mitgeteilt. Vom Spruch Paulus … (weiterer Text folgt).  
 
 **Andreas Althamer**  
 von Nürenberg.  
 
-S is brought inevitably to us by my lord Doctor Œcolampadio / we draw the word of Paul / in the first Epistle to the Corinthians at x. ca. not formally as / how it is reading. Do I say / If we otherwise have no scripture...
+Sie wird uns unverbindlich zugesandt von meinem Herrn Doctor Œcolampadio; wir ziehen die Worte Paulus in der ersten Epistel an die Korinther am X. Kapitel, nicht formell, wie sie lauten. Sage ich, ob wir sonst keine Schrift …

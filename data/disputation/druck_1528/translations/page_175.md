@@ -1,17 +1,17 @@
-Page LXXX  
-**Concluding Speech.**  
+Seite LXXX  
+**Schlussrede.**  
 
-Lastly, that which flows we also accept: what is not … we send forth.  
+Zuletzt, dass dort fließt, nehmen wir auch an: was nicht das Los, senden wir fahren.  
 
-**Letter.**  
+**Buchstab.**  
 
-Indeed, I have shown that one is guilty of keeping the teachings of the Apostles and that they are brought forward without Scripture, which the same teachings are, and yet many points have been drawn by me, that the teachings of the Apostles have existed for twelve hundred years and more described; I have turned myself to the highly learned *Ecolampadiu* of the Söhlichs for others, by Ignatius, a young John the Evangelist, by Origen and others to be invented. I therefore present my entry to the unpartisan reader.  
+Jewel ich angezeigt habe, dass man schuldig ist, die Satzungen der Apostel zu halten und dass sie nicht schriftlich gebracht werden, was die selben Satzungen sind, und aber zahlreiche Punkte durch mich angeführt, über die Satzungen der Apostel kommen seit vor zwölfhundert Jahren und mehr zu beschreiben, zog ich mich auf den hochgelehrten Ecolampadius, der Söhne für andere weiß, bei Ignatio, einem jungen Johannes des Evangelisten, bei Origene und anderen erfunden werden. Beilich damit mein Eingang dem unparteiischen Leser.  
 
-**Martinus butzer**  
+**Martinus Butzer**  
 
-Whether you have Scripture or not, being opposed to us, I refer us to the Acts.  
+Ob ihr Schrift oder nicht Schrift, gegen uns gerichtet, verweise ich uns auf die Akten.  
 
-**Theobaldus Huter, Parish Priest**  
-**to Appenzell.**  
+**Theobaldus Huter Pfarrer**  
+**zu Appenzell.**  
 
-Regarding the meaning of my speech, as I have introduced here, I hear what the Lord says in me, Psalm 85:8. I will resolve what the Lord will speak in me, in which words the Prophet has shown, a … to have … of the Spirit of God. As yesterday, after the length, was spoken, which spirit … and together is Jesus Christ …
+Auf die Meinung meines Spruchs, wie ich ihn hier eingeführt habe: Audiam quid loquatur in me Dominus, Psalm LXXXV VIII. Ich werde lösen, was der Herr in mir reden wird, in welchen Worten der Prophet angezeigt hat, ein Verständnis zu haben vom Geist Gottes. Wie dann gestern nach der Länge darauf geredet wurde, welcher Geist Gottes durch den Gesang und gemeinsam Jesus Christus ist …

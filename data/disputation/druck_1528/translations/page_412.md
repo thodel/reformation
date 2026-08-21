@@ -1,31 +1,12 @@
 Seite CXIII  
-The sixth  
-
-Or it is a so‑named thing that alone Christ hears,  
-namely the bed in heaven; so it also should not be laid aside  
-for those here on earth, but that may not be.  
+Die sechste  
+Oder es ist ein sogenanntes Ding, das allein Christus zu hören hat, nämlich das Bette im Himmel; so soll es auch nicht den Menschen hier auf Erden zugelegt werden, das aber nicht sein kann.  
 
 Zwingli  
-[D]This is all responsible: and as a people shall be,  
-Christ stands for us up above; therefore we have God’s word,  
-and we should here pray for another; therefore we also have God’s word.  
-So now follow that the saints up above pray for us,  
-therefore we have no God’s word. I condemn all believers  
-who alone leave God’s word and squander it.  
+[ D ] Das ist alles verantwortbar: und wie ein Volk sieht, Christus steht für uns dort oben, deshalb haben wir Gottes Wort. Und wir sollen hier für einen anderen bitten, deshalb haben wir ebenfalls Gottes Wort. So folge nun dem, was die Seligen dort oben für uns bitten, weil wir kein Gottes Wort besitzen. Ich beuge alle Gläubigen, die sich allein auf Gottes Wort verlassen, in die Irre.  
 
 Gilg Durer  
-[D]The answer will not be enough; then Christ  
-prays for us in heaven; so may also with no scripture be struck down the saints in heaven.  
-That I preserve with the holy Evangelist  
-John in chapter xvij. Christ says: Father,  
-the ... that you have given me, that I have given ...  
-that they are a thing, just as we are a thing: I in them  
-and you in me. If they are now one thing with Christ,  
-so will, without any doubt, the bed not be struck down,  
-with biblical scripture.  
+[ D ] Die Antwort wird nicht ausreichend sein; denn Christus bittet für uns im Himmel, und so darf auch mit keiner Schrift das Heil der Heiligen im Himmel abgestrichen werden. Das bewahre ich, über den heiligen Eulogisten, Johannes im xvij. Kapitel spricht Christus: Vater, die Ehre, die du mir gegeben hast, die gebe ich dir zurück, damit es ein Ding sei, gleichwie wir ein Ding sind: ich in dir und du in mir. Sind sie nun ein Ding mit Christus, so wird ohne jeden Zweifel das Bette nicht abgeschlagen werden, gemäß der biblischen Schrift.  
 
 Zwingli  
-[D]The word of Christ in John xvij. chapter does not  
-apply to the saints that are of this age.  
-Leave me from the word of Christ.  
-Gilg
+[ D ] Das Wort Christi, Johannes xvij. Kapitel, leuchtet nicht von den Seligen, die in dieser Zeit vermehrt sind. Verlasse mich von dem Wort Christi.

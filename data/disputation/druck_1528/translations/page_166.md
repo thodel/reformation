@@ -1,33 +1,15 @@
-Seite 72  
-The other holy and lofty Sacrament of love and blood,  
-Christ’s sacrifice of the Mass, the banquet for death and life,  
-as sufficiently proved by contrition,  
-by five hundred and sixty years has become,  
-in that it ought to be right, was followed,  
-that the holy Christian Church knows the indicated point of the article of faith;  
-not holy would be given. As Christ says, John VIII.  
+Seite 72  
 
-The lie and the falsehood are from the table that is lying,  
-a father of the same; but the truth is from Christ, John XIII,  
-that is the way, the truth and the life.  
+Die andere heilige und hochwürdige Sakrament des Lebens und Blutes Christi, das Opfer des Maßes, das Gebot für den Tod und das Lebendige, wie durch zahlreiche Kundschaften belegt, seit fünfhundert Jahren gewirkt hat; und das sollte von Recht sein, wurde vollzogen, dass die heilige christliche Kirche den angezeigten Punkt und Artikel des Glaubens nicht heilig gewesen wäre. So spricht Christus (Johannes VIII):  
 
-And the lord Marti Butzer has spoken and added the word of Christ:  
-“I will remain with you until the end of the world; it is for me,  
-in which truth we have already been born; so he also at another place has spoken:  
-I will send you the spirit of truth; the spirit will teach you all truth,” John XVIII.  
+„Die Lüge und das Joch sind von dem Tisch, der da ist, lügenhaft, ein Vater derselben; aber die Wahrheit ist von Christus (Johannes XIIII), der da ist, der Weg, die Wahrheit und das Leben.“  
 
-So now Christ, his people, the light, his divine truth, would already have been proclaimed,  
-for a long time and a certain [thing] set; however his word would be,  
-Light VIII. would follow, that he already is not a trusted shepherd among his flock, would be given.  
+Und der Herr Marti Butzer hat gesprochen und angeführt das Wort Christi:  
 
-So he speaks, John X: “I am a good shepherd. A good shepherd sets his soul for his flock.”  
+„Ich werde bei euch bleiben bis zum Ende der Welt; das ist für mich, in welcher Wahrheit wir bisher gelebt haben, so hat er auch an einem anderen Ort geredet: Ich werde euch den Geist der Wahrheit senden; der wird euch alle Wahrheit lehren (Johannes XV). So nun Christus, sein Volk, das Licht seiner göttlichen Wahrheit, bisher berufen hätte, und so ein langer Zeitraum und ein Gelächter gestellt, dass doch sein Wort wäre, Licht (VIII) würde folgen, dass er bisher nicht ein treuer Hirte an seinen Schafen gewesen wäre. So spricht Johannes (X): Ich bin ein guter Hirte; ein guter Hirte setzt seine Seele für seine Schafe.“  
 
-Martinus Butzer+  
+Martinus Butzer  
 
-Sůch am. 32.  
-vnd. 38. blatt  
+S. 32 und 38 Blatt  
 
-[D]ie inneren ist zum Teil wieder nachgeordnete Schlussrede,  
-da dann wieder das irdische Opfer der Messe und fleischliche Verderblichkeit von lebendiger Gegenwart Christi gesetzt ist;  
-so ist auch in zukünftiger Antwort angezeigt, wie weit die Kirche Gottes … möge.  
-Es ist gewesen die Zeit der Blindheit, sehr viele Jahre … rechter Ordnung.
+[Die Einleitung ist zum Teil ein wiederholender Schluss, der dann wieder das erdichtete Opfer des Maßes und fleischliche Joch, von lebendiger Gegenwart Christi gesetzt ist; so ist auch in der vorangehenden Antwort angezeigt, wie weit die Kirche Gottes ihr Jahr möge. Es ist gewesen die Zeit der Blindheit, ein sehr langes Jahr, ohne rechte Ordnung.]

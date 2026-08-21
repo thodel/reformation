@@ -1,12 +1,9 @@
-Seite 207  
-This is the seven  
-That after this time no question in the Scripture will be found. Therefore all  
-death‑servants / as vigil / soul‑mass / soul‑cry / seven / three‑ghost / year‑time / ample / caring / and the like / are in vain.  
+Seite 207  
+Dies ist die sieben.  
+Das nach diesem Zeitpunkt kein Frageführer in der Schrift erfunden wird. Deshalb sind alle Todesdienste, Vigilien, Seelmaße, Seelgräte, sieben, Dreissgost, Jahreszeit, Amplen, Kerzen und dergleichen vergeblich.  
 
 Berchtoldus Haller.  
 
-The closing speech is sufficiently considered / in the third / where we confess / Christ / our certain wisdom / righteousness / redemption and payment for all the world’s sin. So you are bound by necessity / that no other sufficient / and without / for the sin / the dead / may be resurrected / can be / that the suffering Christ.  
+Die Schlussrede ist sehr gut bewertet in der dritten, da wir bekennen: Christus, unser, einige Weisheit, Gerechtigkeit, Erlösung und Bezahlung für aller Welt Sünde. So folgte ihr von Noten, dass kein anderer genügt und beseelt für die Sünde, den Verstorbenen nachzuhören, sein mag, dass das leidende Christus.  
 
-In the other / John III speaks  
-the Lord: “Thus has God loved the world, that He gave His Son, that all who believe in Him will not be lost, but will have eternal life; then God has not sent His Son into the world / that He might judge the world / otherwise / that the world through it may become sorrowful.  
-Who in Him believes will not be judged; but whoever does not believe is already judged. Here it is evident that the believers will have eternal life after their separation from this time. Now however …”
+Zum andern, Johannes II, spricht der Herr: Also hat Gott die Welt lieb geheißen, dass er seinen einen Sohn gab, auf dass alle, die an ihn glauben, nicht verloren werden und ewig leben sollen. Dann hat Gott seinen Sohn nicht in die Welt gesandt, damit er die Welt richtet, sondern dass die Welt durch ihn selig werde. Wer an ihn glaubt, der wird nicht gerichtet; wer aber nicht glaubt, der ist schon gerichtet. Hier ist offenbar, dass den Gläubigen das ewige Leben nach ihrem Abschied von dieser Zeit folgt. Nun aber …

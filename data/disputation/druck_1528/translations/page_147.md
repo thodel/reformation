@@ -1,14 +1,4 @@
-Page LXVI  
-Conclusion LXVI  
+Seite LXVI  
+Schlußred. LXVI  
 
-God makes all good works possible; therefore everything that is not good must be, and this is not taught to be superfluous: and thus the singer confesses, if the teachers and their attempts should not be accepted, he knows how to create something useful, and he declares that our concluding speeches are founded on divine Scripture; therefore they are also the true divine truth.  
-
-Praise to the Lord, that He has brought him to such knowledge.  
-
-But that he illuminates this matter—God and the common Christian church—and commits himself to promise that the same may believe and hold within it; that God may wish that he understand His own word: that the common holy Christian church alone are the rightly believing of God, reborn through the word of God; thereby they are enlivened.  
-
-Therefore such a church is then a foundation and a basis of truth, as called by Paul; that the divine truth stands and exists, being enlivened by it and by the truth: that Christ is in it, and His spirit teaches it; therefore it now believes the good and holds all, only that which is good, holds the Scripture superfluous.  
-
-Therefore it is of no use that it is not in the Scripture. So if he himself confesses that he cannot oppose us with the Scripture, that he may proclaim all our concluding speeches according to the Scripture and founded in it, he should also promise it: then the true Christian church believes and holds. As the spirit of truth is otherwise nothing, then the Scripture may be learned to hold him.  
-
-K ij
+Gott hat alles zu guten Werken geschickt; darum muss alles, das nicht gut ist, nicht überflüssig sein. Und so bekennt der Sänger, dass, wenn die Lehrer und ihre Versammlung nicht gelten sollen, er nützliches schaffen wolle. Er bekennt frei, dass unsere Schlussreden in göttlicher Schrift begründet sind; darum sind auch die wahre göttliche Wahrheit heute. Dem Herrn sei Lob, dass er uns zu seliger Erkenntnis gebracht hat. Dass er aber diesen Handel – Gott und die allgemeine christliche Kirche – beleuchtet und sich selbst zugelassen hat, damit die hier Glaubenden festhalten. Da wollte Gott, dass er sein eigenes Wort verstehe: dass die gemeine heilige christliche Kirche allein die rechtgläubigen Gottes sind, über das Wort Gottes hinaus geboren; dadurch beleben sie. Darum soll solche Kirche ein Fundament der Wahrheit sein, wie es Paulus nennt. Die göttliche Wahrheit steht fest und wird durch ihr Beleben erhalten; und sie ist durch die Wahrheit: Christus ist durch ihn, sein Geist lehrt sie; deshalb glauben und halten sie nun das Gute und halten alles, was gut ist, nicht überflüssig. Darum nützt es nichts, dass in der Schrift nichts steht. So, wenn er selbst bekennt, dass er wider uns mit der Schrift nichts vermag, damit er alle unsere Schlussreden nach der Schrift und in ihm gegründet bekennt, soll er ihr auch zugelassen werden; dann ist die wahre christliche Kirche geglaubt und gehalten. Wie ihr Geist der Wahrheit anderweitig nichts ist, dann hält die Schrift ihn; das kann man lernen.

@@ -1,14 +1,12 @@
-Page XXXII  
-Closing remarks.  
+Seite XXXII  
+Schlußred.  
 
-Such a special community cannot exist; therefore this place must not be spoken of by other persons. In the beloved Christ, where my lord Doctor does not wish to believe, it is nevertheless evident that this place of such a community must be understood as the word of our Lord Jesus Christ.  
+Wir haben keine solche sonderbare Gemeinde; darum ist dieses Wort von anderen Personen nicht zu hören.  
+Im lieben Christus, wo mein Herr Doktor nicht glauben will, erkennt er jedoch, dass dieses Wort von einer solchen Gemeinde im Wort unseres Herrn Jesus Christus verstanden werden muss.  
+Zu welcher ein jeder Christ, sobald er kommt und den in Sicht sündigen nach vorheriger Warnung angeben kann, dann klarlich der Text leuchtet, bevor er verlassen wird, sondern aber dein Bruder …  
+Des Jahreshalb bekenne ich, es ist keine Gemeinde auf Erden, weil es gleich möglich war, dass alle Christen auf dem ganzen Erdboden zusammenkämen; das ist in vielen Dingen dieses Jahres nicht möglich.  
+Es wird ja keiner sein, der geboren wird; Herr, vergib uns unsere Schuld, wo nun Sünde, da auch unser Tun.  
+Darum habe ich vorausgesagt nach der Lehre Paulus, wie der Gerechte in seinem eigenen Glauben lebt; also muss er auch seinen eigenen Teil des Verständnisses des göttlichen Wortes haben. Wie könnte ich sagen, ich glaube meinem Herrn Doktor, wenn ich noch nicht erkannt hätte, was seine Rede wäre; darum hat es die Gestalt.  
+Ein jeder Christ muss für sich selbst mit Paulus wissen, wem er glaubt; aber ein Christ, dem mehr Geist gegeben ist, dann der an der … so mag der höhere Begabte den minderen Begabten dienen, zu kommen in Erkenntnis der Wahrheit; es wird sich aber doch die Sache aller Christen in diesem Jahr zeigen, da unsere Erkenntnis Stückwerk ist. j. Corint. xiij.  
 
-To which every Christian, as soon as he comes, and the so‑called sinners after prior warning may be presented, then clearly the text is to be read, not abandoned, but rather your brothers …  
-
-For this reason I acknowledge that there is no community of the earth that could possibly be gathered together, that all Christians of the whole world might come together; that is not possible in many things. It will not be that any one will be born again; Lord, forgive us our sins, where now there is sin, also … therefore I have previously said, after the teaching of Paul, how the righteous lives in his own faith; likewise he must also have his own benefit of understanding the divine word … how could I say … I believe my lord Doctor, though I have not yet recognized what his words would be; therefore it had the form.  
-
-Every Christian must, for himself, know with Paul whom he believes; but if a Christian has a spirit, then the higher … the lower … may come to the recognition of truth, yet the matter of all Christians in this … our recognition is a fragmentary work.  
-
-1 Corinth xiii. Chapter.  
-
-This is the chief part of faith, namely that the Almighty, through Jesus Christ, our gracious Father, wishes … to make us eternally devout and blessed, not … Moreover they will be in many pieces, also in other parts of the divine Scripture, that they may understand rightly … as I then think … that also my lord Doctor …
+Capitel. Das ist im Hauptstück des Glaubens, nämlich das, was der Allmächtige durch Jesus Christus, unser gnädiger Vater, will; es ewiglich fromm und selig machen, nicht hier; daneben aber werden sie in vielen Stücken auch anderen der göttlichen Schrift, im rechten Verständnis, können; wie ich dann achte, dass auch mein Herr Doktor …

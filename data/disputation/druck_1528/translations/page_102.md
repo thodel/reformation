@@ -1,8 +1,6 @@
 Seite [X]  
-<div style="text-align: center;">The first</div>  
+<div style="text-align: center;">Die erste</div>  
 
-Nevertheless we also must have a right understanding, which the Lord, and according to our own will, alone marks.  
-That this is the holy Christian Kilch, of which there is one chief Christ, not the Bapſt, who is born of the word of God, not by the decree of the Concilien, which remain in themselves, thereafter living, and which all the world follows; becoming before the judgment‑seat of Christi Jeſu to give account for you and not for other Kilchen, and not before the Concilien or the Baͤpſtlichen Kilchen.  
-Therefore, wishing that you may come to a godly and only enduring unity, so that you, beloved Christians, have no sharp, lying, perverse hatred of men, nor the over‑abundant hateful and polluted contempt of the Baͤpſtlichen, especially give rum and instead of the word … which has created … and through the blood of his son …  
-
-(Translation continues as the fragment allows.)
+Dennoch verstehen wir auch von einem Recht, das durch den Herrn und über unsere eigene Art allein festgestellt ist.  
+Dass dies die heilige christliche Kirche ist, deren einziges Haupt Christus ist, nicht der Bischof, der aus dem Wort Gottes geboren wurde, nicht durch Beschluss der Konzilien, die im selben bleiben, danach lebt, und was die ganze Welt so tut, wird vor dem Richterstuhl Christi Jesu für uns und nicht für andere Kirchen Rechnung geben müssen, und nicht vor den Konzilien oder bischöflichen Kirchen.  
+Deshalb wollen wir zu göttlicher und allein beständiger Einigkeit kommen, sodass wir lieben Christen keinen scharfen, listigen Schwatz der Menschen über das Überflüssige, Hässliche und Besudelnde zulassen, besonders nicht das, was die Bischöfe abziehen; vielmehr geben wir statt des Wortes dessen, der sich selbst geschaffen und durch das Blut seines Sohnes getötet hat, …

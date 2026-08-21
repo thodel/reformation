@@ -1,10 +1,11 @@
 Seite LXXV  
 Schlußred. LXXV  
 
-Gunst Gottes. Therefore God has not finally abandoned his people; then it would not have been possible that the elect should remain on earth (Matthei xxiij). Moreover, having often some members of the Church not known, while others have indeed known, thus the truth has completely disappeared from the Church, but not equally among all members of the Church. And I also ask that you remain under the ban and, concerning the wandering, I will no longer answer.  
+**[unverständlicher Abschnitt]**  
+Gott ist nicht abwesend. Darum hat Gott seine Engel doch nicht verlassen; es wäre unmöglich, dass die Geschöpfe in der Ewigkeit bleiben (Matthäus 22,12). Deshalb haben die meisten Glieder der Kirche oft nicht gewusst, was wahr ist, während andere wohl Bescheid wussten. So bleibt die Wahrheit der Kirche erhalten, jedoch nicht im gleichen Maße bei allen Gliedern der Kirche. Und ich bitte euch, dass ihr im Bann bleibt; von dem, was das Gewissen beschwert, will ich mich nicht weiter zu einer Antwort äußern.  
 
-Johannes Buchstab  
-[Initial H] Herr Marti Bürger, I therefore say: The Church gives God and his worthy Mother many words, which are not misplaced in the biblical writings; yet I still believe that our counterpart does not reject them. As *Pater ingenitus, patri coequalis, Spiritus sanctus* proceeding from both, *Beata Virgo Maria* dei genitrix, understanding his virginity, likewise one observes the Sunday, also the day of other apostles and saints, and thereafter does not set the Bible upon it.  
+**Johannes Büchstab**  
+[Initial H] Err Marti Burger, ich sage also: Die Kirche gibt Gott von ihrer würdigen Mutter (vgl. das Wort zu) die in den biblischen Schriften nicht verirrten Worte; wir glauben dennoch, dass unser Gegenpart dieselben nicht verwirft. Als Pater ingenitus, patri coequalis, Spiritus sanctus, aus beiden hervorgehend, Beata Virgo Maria, die Mutter Gottes, im Sinne ihrer Jungfräulichkeit, gilt derselbe Sonntag wie ein anderer Apostel‑ und Heiliger‑Tag; die Bibel legt das jedoch nicht fest.  
 
-Martinus Bucerus.  
-[Initial L] Even, friend, that which has been drawn now shows a word‑battle: then, as we have in Scripture, our Lord Jesus Christ, who is born, so it is clearly evident that the Father is unborn. Thus Christ shows that the Father sends the Holy Spirit. Thus that he (the Spirit) is sent from the Father (Johannes xv.). So it is clear that the Holy Spirit proceeds from the Father and the Son. Then the Lord says: I and the Father are one thing. Thus it is sufficiently shown that the Father and the Son are equal. The same as we see in Matthei x.
+**Martinus Bucerus**  
+[Initial L] Eben, Freund, das hier Angezeigte zeigt nun einen Wortkampf: Wenn wir in der Schrift lesen, dass unser Herr Jesus Christus geboren ist, wird daraus klar, dass der Vater ungeboren ist. Christus zeigt damit, dass der Vater den heiligen Geist sendet. Ebenso sendet er (Johannes 15) den Geist vom Vater. So ist klar, dass der heilige Geist vom Vater und vom Sohn ausgeht. Dann spricht der Herr: „Ich und der Vater sind ein.“ Damit wird deutlich, dass Vater und Sohn gleich sind. So, wie es Matthäus 10 sagt.

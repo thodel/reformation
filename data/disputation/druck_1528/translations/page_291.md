@@ -1,39 +1,10 @@
 Seite CXXXVIII  
 Schlußred.  
 
-The Lord has sent his apostles, and He has said: God  
-and preach the Gospel to all creatures. He then  
-believes … Then indeed the Gospel is a power of God  
-to heal equally believers … to Romans in the first  
-chapter. Surely our planting and watering are useful:  
-but God who gives the growth and the power.  
+Herr, hat seine Apostel gesandt und hat gesagt: Gott und predige das Evangelium allen Kreaturen. Der, der glaubt, also das Evangelium ist eine Kraft Gottes, zu heilig für gleichgläubige Römer im ersten Kapitel. Gewiss ist, dass unsere Pflanzung und Wesens­nützlichkeit ist: aber Gott, der da gibt das Wachstum und die Kraft.  
 
-Now, through the preaching and proclamation of that  
-word not all listeners become blessed, but those to whom the word has  
-been sent are saved in the first chapter. By them it will bear fruit  
-as the text itself explains with more words;  
-then only those appointed to eternal life  
-have believed the word of God, in the Acts of the Apostles  
-in chapter twelve. Another entry I will let remain.  
-Zwingli  
+Nun werden durch die Predigt und Verkündigung des Wortes nicht alle Zuhörer selig, aber der, dem das Wort gesandt ist, ist das „Esai“ im 1. Kapitel. Durch diese wird es Frucht bringen, wie der Text derselbe mit mehr Worten erklärt; dann allein die Verordneten zum ewigen Leben haben das Wort Gottes geglaubt, in den Geschichten der Apostel im XII. Kapitel. Anderes jedoch lasse ich noch einmal bestehen.  
 
-That God holds all things, that He promises, no need for us  
-to be unaware. The jest is not about that,  
-but that they have said that the perverse word brings with it  
-what it means or promises.  
+Zwingly  
 
-But when the contrary word is invented, God speaks to  
-Abraham himself: “Offer me your son on the mountain  
-that I will show you.” Thus the perverse word of God  
-should now, by the perverse word, happen that it means  
-that Abraham’s son was offered from the ages  
-when the word was spoken, which, however, is not.  
-
-Our Lord Christ Jesus suffered, that He was raised from the dead,  
-but by the false word that deed was not … if He had not  
-suffered He would not have been … By the promise, however,  
-recognize that only those who have taken up the Gospel,  
-those called by God to eternal life, … which words … not only  
-those who became believers after hearing the word … also the unbelievers.  
-
-Mm ij
+[D]as Gott alles hält, das er verheißen hat, Bedarf, dass uns keiner kundtut. Der Sinn ist auch nicht deswegen, sondern dass es gesagt worden ist, dass das ver­schiedene Wort mit jemandem gebracht wird, das es bedeutet oder verheißen wird. Da sich aber das Wider­spiel erfindet, spricht Gott zu Abraham selbst: „Opfere mir deinen Sohn, auf dem Berge, den ich dir zeigen werde.“ Also lüfte das ver­schiedene Wort Gottes; soll nun durch das ver­schiedene Wort geschehen, das bedeutet, dass es bedeutet; so wäre der Sohn Abrahams aufge­opfert worden, seitdem das Wort gesprochen wurde, das aber nicht ist. Unser Herr Christus Jesus ist geboren, dass er von den Leiden erhöht wurde; aber durch das ver­schiedene Wort war die Tat nicht gewesen; sonst hätte er nicht gelitten. Die Verheißung aber, halb erkannt, ist, dass allein das Evangelium angenommen wurde, das von Gott zum ewigen Leben berufen ist, und welche Worte sie selbst an­nehmen, das nicht allein, sondern die, die gläubig wurden nach ihrer Predigt, das Wort gehört haben, sondern auch die Ungläubigen.

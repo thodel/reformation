@@ -1,11 +1,14 @@
-Seite [X]  
-The sixth other Epistle to the The… at iij. circa year brothers pray to God for us. But the living here on earth, desiring God to pray for us, therefore also those in heaven pray to God for us. I affirm this thus: Paul says in the Epistle to the Corinthians xii that we all together are members in Christ. Now the property of the members, that each one may be helpful to the other, should be. The beloved saints of the other world will not be shut out in heaven; then they will remain forever members of Christ the Lord.  
+Seite [X]  
+Die sechste andere Epistel zum Thessaloniker. am IIJ. ca. … Brüder bitten Gott für uns. Doch die Leidenden hier von Erden mögen Gott für uns bitten; darum sollen auch die im Himmel Gott für uns bitten. Das beweise ich so: Paulus spricht im ersten Brief an die Korinther, Kapitel 12, dass wir alle zusammen Glieder in Christus sind. Nun ist die Eigenschaft der Glieder, dass das eine dem anderen hilfreich sein soll. Deshalb werden die lieben, heiligen Wesen im Himmel nicht ausgeschlossen: sie bleiben alle Glieder Christi des Herrn.  
 
 Wächter.  
-Dear Lord, you have shown by your hand the intercession of the holy or blessed at the time of the Apostles; therefore we beg that you give us the indication of divine Scripture.  
 
-Gilg Durer.  
-We are all members, as I have previously mentioned.  
+Lieber Herr, Sie zeigen uns die Hand, die für die Heiligen oder Seligen zur Zeit der Apostel eintritt; so begehren wir, dass Sie uns die angezeigte göttliche Schrift geben.  
+
+Gilg Durer.  
+
+Wir sind alle Glieder, wie ich zuvor gesagt habe.  
 
 Zwingly.  
-When the holy intercession, your understanding, ye and ye, may not be brought forth by biblical Scripture. If the mothers of God among the blessed, who are by God, be called to the Apostolic time, may not be invented at all. We also gladly leave that all planting which the heavenly Father has not planted be refuted. So now the holy intercession and calling, as it is understood, in divine Scripture is not invented; it should be properly refuted. For the sake of the mediator, we take your abatement as useful: then we speak here, as the closing word, only of the mediator, who is a wise, un‑…
+
+Da die heilige Fürbitte eures Verstandes und euer Gewissen nicht mit biblischer Schrift belegt werden kann, soll sie nicht erfunden werden. Wenn die Mütter Gottes und die Seligen, die zu Gott gehören, zur Apostelzeit gerufen wurden, darf das nicht erfunden werden. Wir lassen gern nach, dass alle Pflanzungen, die der himmlische Vater nicht gepflanzt hat, überarbeitet werden. So soll nur die heilige Fürbitte und Anrufung, die nicht in göttlicher Schrift erfunden ist, billig überarbeitet werden. Des Mittlers halben nehmen wir uns eure Abt‑ …

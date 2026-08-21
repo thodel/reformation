@@ -1,13 +1,15 @@
 Seite [LXXXV]  
-Die fünffte  
-they do not yet fear us before the prophets. With such revelations he proves us of little use, then that the Mass is a sacrifice.  
+Die fünfte  
+fürchten uns vor den Propheten noch nicht. Mit solchen Kundschaften bewährt er nur wenig, dann dass das Mäß ein Opfer sei.  
 
 Bůchstab  
-It pleases me, against my lord Doctor,  
-that he will spare my youth; I give him high thanks for that. The useless learning, half a hundred years grown, I do not need: has also none of me ever heard that I have ever praised any mischief; I have also not said that John in the Apocalypse wrote about the sacrifice of the Mass. I have, however, only the double instruction of the four‑and‑a‑half years carried out, so that it became known that John in the Apocalypse, in part, is compared with Daniel, the time of the four‑and‑a‑half years. I have also not sufficiently understood that my lord Doctor has spoken that one may well say which of the heads commits the others to perish and to die; I am wholly and entirely not of that will. The explanation concerning the word of Daniel, which I have previously presented, by the same I remain.  
+Es freut mich, gegen meinen Herrn Doktor,  
+dass er meine Jugend verschonen will; sage ihm dafür hohen Dank. Das unnütze Lernen halb, etliche hundert Jahre erwachsen; ich nehme mich nicht an: hat auch keiner von mir je gehört, dass ich keinerlei Missbrauch gelobt habe; ich habe auch nicht gesagt, dass Johannes in der Offenbarung vom Opfer des Mäß geschrieben hat.  
+Ich habe aber allein die zweifache Unterweisung der vierunddreißig Jahre durchgeführt, damit sie kundbar wurde; Johannes in der Offenbarung zum Teil dem Danielus verglichen, die Zeit halb der vierunddreißig Jahre. Ich habe auch noch nicht genug verstanden, was mein Herr Doktor gesagt hat, dass man wohl sage, welche von Gott begangen werden, die anderen zu verüben und zu töten; dessen will ich ganz und gar nicht sein. Die Erklärung über das Wort Daniel, die ich vorhin dargelegt habe, bleibe ich bei demselben.  
 Doctor Johannes Ecolampadius.  
 
-Ich also let remain, by my explanation, higher than that. And so if he has something lacking, I will further explain to him.  
+JCh  
+Ich lasse auch bleiben, durch meine Erklärung, höheres Gut. Und so, wenn er etwas Mängel hat, will ich ihm noch weiter erklären.  
 
 Theobaldus Gůter  
-I write through lord Gilg, lord Johann Buchstab, as meeting the sacrifice of the Mass, head and yesterday, after the length many writings presented, namely Melchizedek, Malachiam, Daniel, and others, etc.
+Ich schreibe durch Herrn Gilg, unsehr Herrn Johann Buchstab, als treffend das Opfer des Mäß, Gott und gestern, nach der langen vielen Schrift dargelegt, nämlich Melchisedech, Malachiam, Danielem und andere.

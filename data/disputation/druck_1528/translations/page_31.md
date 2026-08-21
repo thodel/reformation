@@ -1,16 +1,29 @@
-Schlußred.  
+Schlussrede.  
 VIII  
-to whom the governor of Christ is, after his bodily absence.  
-He speaks Joann. at the V. Chapter.  
-I say to you the truth.  
-It is to your benefit that I go away from you; for if I do not go away from you, the comfort will not come to you; but if I go away from you, I will send [something] to you.  
-Seeing dear pious Christians, that the spirit of God governs, the kingdom of Christ in his church, and leads them to a virtuous, rightly ordered Christian life.  
-It indeed appears in the holy Paul to the Galatians, v. Chapter, which are the fruits of the spirit, which the creature may give us, the saying of John at the first chapter drawn forth, therefore:  
-Thou art Simon, a son of Jonah; thou wilt be called Cephas, which … becomes a … that can … that Peter is a head.  
-Peter is also a stone, not of the foundation, nor a great stone, nor a corner‑stone, but the building will … the foundation, which is Christ, as he himself testifies in his first Epistle, in the other chapter.  
-Thus we all, having fallen, will build a house of God; all will be blessed, thereby sufficiently understood, that Peter is a stone, a …, because he is known to the true … . But not a head is called.  
-Moreover, literally Cephas is not Greek but Syriac, in the language Christ would have spoken, but it is another valuable head κεφαλή in Greek language, which means head.  
+an/wer der Statthalter Christi sein nach seinem leiblichen  
+Abwesen. Er spricht Johannes am … Kapitel. Ich sage  
+euch die Wahrheit. Es ist euch nützlich, dass ich von euch  
+gehe; denn wenn ich nicht von euch gehe, wird der Trost nicht  
+zu euch kommen; aber wenn ich von euch gehe, werde ich zu  
+euch senden.  
 
-Bichanatter.  
+Seht, ihr lieben frommen Christen, die der Geist Gottes  
+verwalten, das Reich Christi in seiner Kirche und führen  
+sie zu einem tugendhaften, rechtschaffenen, christlichen  
+Leben.  
 
-A hand many scribes have brought and firmly set down, which not only … the all preserving well that Christ the holy Christian Church.
+Es erscheint wohl beim heiligen Paulus zu den Galatern,  
+im … Kapitel, welches die Frucht des Geistes ist, die uns  
+die Schöpfung geben mag; der Spruch Johannes im ersten  
+Kapitel …  
+
+Du bist Simon, ein Sohn Jona; du wirst Cephas genannt,  
+welches … ein … ist, das vermag, dass Petrus ein Haupt sei;  
+Petrus ist ebenfalls ein Stein, nicht des Fundaments, noch  
+großer Stein, noch ein Eckstein, sondern der obere wird …  
+
+Bischof.  
+
+Eine Hand voll Geschriebene hat er gebracht und gründlich  
+dargelegt, die nicht nur zu zerstreuen, sondern alle zu bewahren  
+wollen, das Christus die heilige christliche Kirche …

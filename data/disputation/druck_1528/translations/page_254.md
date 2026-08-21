@@ -1,14 +1,13 @@
 Seite [XIXD]
 
-The fourth  
-Thus the masses / that the bread / divine being united  
-shall be prepared. You, taking however a figurative speech and / that you  
-should so much be called: Under the bread is the body: Under the  
-wine is the blood: so now follows again over the speech / that the bread  
-is not the body: and the wine is not the blood / except under one (as you say) is the body and the blood / Such figurative speech / Bringing you now with writings / then the saying will you take thus clear / as you attach.
+Die vierte  
+Also soll das Maß, das Brot, das göttliche Wesen vereinigt, bereitet werden.  
+Er nimmt aber eine bildhafte Rede, die er so viel heißen lässt:  
+Unter dem Brot ist das Leben, unter dem Wein ist das Blut.  
+So folgt nun über die Rede, dass das Brot nicht das Leben ist und der Wein nicht das Blut, sondern unter denen (wie er sagt) ist das Leben und das Blut.  
+Eine solche bildhafte Rede. Er bringt nun bei mit Schriften, dann soll der Spruch auch klar sein, wie er es handhabt.  
 
-Am xviii. day of Jenners.  
-Pastor of Sankt Gallen.
+Am XVI. Tag, Pfarrer von St. Gallen.  
 
-Upon the following questions, my lord Doctor Eco Lampadij, not needing to answer with words contrary, I have given myself to this answer: the passage of Paul I. Corinthians, chapter 10, and that the bread which we break is not the destruction of the life of Christ: then the way with the other accidents or accidentibus is assured to us / upon this we say (yet we completely reject our understanding / a Christian explanation) we are able the above‑cited words / that in the bread and the body of Christ / may be mingled / and that with such understanding as there is. John, chapter 20. The Lord has breathed upon his disciple and said. Taking the holy spirit / e.g. not that the breath of the holy spirit was  
-but that he was given with such a means / as also is / that for the eating / and yet the substance of the food remains / also God in the man and in both natures of the young one has been unaltered. Also, as one says with a cup / that is risswine / yet the cup is not the nature of the…
+Auf die nachfolgenden Fragen:  
+Herr Doktor Eco‑Lampadij, nicht nur mit Worten, sondern auch mit Taten, hat mir diese Antwort gegeben: Der Satz des Paulus an die Korinther, Kapitel 5, Vers 14, über das Brot, das wir brechen, ist nicht die Verklärung des Lebens Christi; dann die Weisheit mit den anderen Unfällen oder Accidentibus, die dazu gehören, und darauf sagen wir (doch verwerfen wir völlig unser Verständnis einer christlichen Erklärung), dass die oben genannten Worte, das im Brot und im Leib Christi, mitgefasst werden, und das mit solchem Verständnis, wie es ist, im Johannes‑Kapitel 20. Der Herr hat seinen Jüngern gesagt: Nehmt den heiligen Geist, nicht dass der Segen des heiligen Geistes wäre, sondern dass er mit solchem Mittel ihnen gegeben wurde, wie es für das Essen ist, und dennoch die Substanz des Essens bleibt; auch Gott ist im Menschen und in beiden Naturen, die jetzt erneuert sind. Auch so sagt man mit einem Becher: das ist das Riss‑Wein‑Gefäß, doch der Becher ist nicht die Natur des …
