@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_420.md could not be located</s:message>
-</d:error>
+Seite 100  
+The Sixth  
+
+Of the saying of Daniel half is a vision and a sight  
+disposition and appearance: not that the saints first from heaven  
+are coming, but through the

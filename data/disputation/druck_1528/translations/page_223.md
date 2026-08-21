@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_223.md could not be located</s:message>
-</d:error>
+Seite CIII  
+Schlußred.  
+
+Brot genommen in die Hand / hat daz gesagt / auch Broche / und das geben seinen Jüngern / dabei gesagt: Nehmend / aufsteigend / das ist mein Leben: dergleichen genannt den Kelch / dank gesagt / und geben / sagend / Trinkend alles daraus / das ist mein Blut des neuen Testaments / welches für viel vergessen wird / zur Vergebung der Sünde. Das hält inn / unser Glaube / ungezwifelt / so nun Christus befiehlt hat / solches getan werden / in seiner Gedächtnis. Nun ist gewiß alles das / so unmöglich dem Menschen / durch Gott möglich / Matthei am xix. capit. und Paulus zu den Römern am iiij. capit. und Lucas am ersten capit.  
+
+Meister Ulrich Zwingli / predicant zu Zürich.  
+Er erst sprach: Das Brot, das ich euch gebe, wird / ist mein Fleisch / welches ich um das Leben der Welt geben wird / Johannes am sechsten capit. treibt seinen eigentlichen Verstand auf dem Rücken / nämlich / dass er uns hier mit dem Wort / Brot / und mit dem Wort / (Mein Fleisch / nicht zu verstehen gibt / dass er uns im Brot sein Fleisch leiblich werden lassen wird / sondern / er vermittelt durch das Brot / den Trost und die Sicherheit / die uns Gott in ihm gibt / versichert werden / mit seinem Tod / Das vermerkt man / so er spricht / Welches Fleisch ich geben werde um das Leben der Welt: sein Fleisch in Tod gegeben / hat die Welt lebendig gemacht: lebendig gesprochen / hat Gott uns reden / dass es lebendig macht.  
+Des andern Puncten halb / erkennen wir / dass Gott hält / dass er verheißen hat / dass er aber uns das Fleisch seines ...

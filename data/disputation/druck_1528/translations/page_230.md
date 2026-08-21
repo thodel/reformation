@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_230.md could not be located</s:message>
-</d:error>
+Seite [X]  
+The fourth point stands: that the Jews have a false hand raised from the … that they ought to be … so that they alone are humanity, and therefore one sees that they do not recognize a God. Of this follows that even the Jews, having understood, neither we … that Christ with the word — bread — has … to believe or to trust. And therefore, speaking thereafter, they say: “How then does he who comes down from heaven speak?”  
+Answer to them Jesus said: “Do not thank another; no one may come to me; the Father who has sent me …” In whose words we perceive that Christ, with the word of the spice or bread, all who trust … So here, concerning the word — bread — he thinks not at all of it, but thinks of the trust of himself, in an enlightened speech: then to them comes … it is otherwise useful … neither … as soon as it is observed … in the following his word, when he says: “And I will … keep … (the one who comes to them) until the last time.”  
+It is written (he says) in the prophets: “They will all be taught by God.” Every one who has heard it from the Father and has learned … comes to me; this is a … to whom the Father has given … who trusts in me. He does not say that the Father … has taken … who is of God … who has the Father … The man can now perceive that the foremost understanding of the words of Christ … so we learn that … the succeeding … word … that he says: “Truly, truly I say to you … which … in me.”

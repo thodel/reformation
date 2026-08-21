@@ -1,5 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_459.md could not be located</s:message>
-</d:error>
+Seite CCXXII  
+Schlußred. CCXXII  
+Berchtoldus Haller.  
+
+It is sufficiently explained at the beginning of this conclusion‑speech.  
+That which believers in Christ Jesus will not come to the judgment,  
+but will pass from death to life. By the clear words of Paul, John v. By,  
+we let it be demonstrated.  
+
+Sich hier am 208. Blatt.  
+
+Buͦchſtab.  
+
+Wie ich das vormals verantwortet habe dabei.

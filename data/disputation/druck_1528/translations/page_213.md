@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_213.md could not be located</s:message>
-</d:error>
+Seite XCIX  
+Schlußred XCIX  
+
+namely to Christ. I have learned and preached that Christ alone suffered for the original sin; otherwise we must also do something for our sin. I know no one who for us has suffered for the original sin, except Jesus Christ alone; if there were anyone else who had suffered for the original sin, they would show it to me, so that it would not be struck down, that he suffered for the original sin, and for all other sins he suffered for us and redeemed us, that we also must do something, so that we may not appear late. He has offered us his obedient service, good deeds, and instruction, as Psalm xxxvj. Declina à malo, & fac bonum. Reject the evil and do good, as well as I know and recognize from Paul, all our hope in God is gathered; thus he speaks.  
+
+Such a hope we have through Christ to God, not that we are sufficient, to consider something of us, as we are; besides our sufficiency is God, in which words Paul addresses the Corinthians in the other Epistle, chapter ii, letter. That we should recognize that all sufficient things are from God alone, and not from us, as from us the blessed right, so it is clearly seen, so one is called something and counsels a man to do good, to love in the will of his Creator; that is.

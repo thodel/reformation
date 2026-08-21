@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_30.md could not be located</s:message>
-</d:error>
+The first … in a godly Christian life … that … It first mentions the promise or the proclamation, the written account of John in the first chapter, where Christ said to Peter: “You are Simon, son of John; you shall henceforth be called Cephas.”
+
+Berchtoldus.  
+Roman dear Christians, the bishop has shown that the head does not only give life to the body, but also possesses other properties, directing the body in its offering works and exercises. Thus Christ’s visible bodily dignity has taken up, has left, his sin‑free body as an offering, a set head, his church, to a godly life. I therefore say the first thing: the property of the head of Christ is that his body governs as a prince, as in Ezekiel chapter 37. Moreover, his body governs … as the prophet says: “A certain king will be …” (the text is corrupted here). The body of Christ also … all members … the administration of the head … then the bishop says: “On me may no one … therefore the honor alone shall be given to God, that he may govern his church … and lead to a godly life.” This is the first epistle to the Corinthians, chapter one. Therefore it will not fall upon us … as we follow: it is on the day … to a Christian life … the Pope … gives his soldiers … Christian … blood … The Scripture shows us sufficiently …

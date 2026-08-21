@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_109.md could not be located</s:message>
-</d:error>
+Seite [X]  
+Schlußred. XLVII  
+
+and of the whole hard. This is the Christian assembly / in which the holy spirit has set a bishop to govern the churches of God / which he has come over / with his rose‑coloured blood. It has also Paul set to the Ephesians at iiij. Chapter. Christ has set several twelve‑apostles / several prophets / several evangelists / several shepherds / and also teachers to the building of his divine service and the love of Christ / etc. In which words it is clearly shown to all Christian‑believing people / that the churches of God should be governed. He has not said / that the youth alone should rule / according to his worth / and that briefly / and so that I love the beuelch so through our gracious lord of Bern both parties are given / they also should thereafter flow accordingly / speaking angrily / so that in the matter they do not leave the one to the other.  
+Berchtoldus.✜  
+
+[A]n that power / one should in writing reject a beuelch / and make no longer a head then the service of the word. The scripture / as the pastor entered had ... the histories of the twelve apostles at xx chapter. How the holy spirit has set a bishop to govern the congregation of God / he should actually reject / as the scripture a bishop takes / then the word itself truly says a watchman / who oversees the flock and he governs as a shepherd / and not as a half‑lord / except as the shepherd leads the flock forward / they both ... also Christ has ordained apostles / evangelists / prophets / shepherds and teachers to the building of the love of Christ / in this office of the service of the word as Paul to the Ephesians at iiij. D iij

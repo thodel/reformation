@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_183.md could not be located</s:message>
-</d:error>
+Seite LXXIII  
+**Schlußred. LXXIII**  
+
+not proclaimed or spoken have / anything / that with printed words / in the Gospel / or in the Epistles / or in the other Biblical writings / especially is not understood / yet the Lord Jesus himself speaks. I also have much to say / … . If the holy spirit had not been further enlightened / then as much is mis‑interpreted in the Scripture and Gospel / thus follows Christ this preface. I also have much / … spoken in vain / it would have been sufficiently written and said / and would have been sufficient / that one might have written it / and the lector would have been superfluous / but he nevertheless continues to increase it, now confirmed by the Scripture. Therefore at least. Learning all things / that I have commanded you / … do not be dismayed / then that remains still firm / I have still much to say.  
+
+**Berchtoldus.**  
+
+His Bichtuatter had not been persuaded / at the answer concerning the saying of John at xviii. I also have much to say / especially I think to obtain / that the holy spirit / the church has learned much through the fathers / that already is not grounded in Scripture / I say again / Christ speaks / I also have much to say / but not otherwise / then the Scripture has all good / now is sufficient and completely to the man to be instructed to the holy ... to Timothy at ii chapter. Therefore it may not be good / now also from the spirit that was not enlightened / which in Scripture has no ground ... Bewärend / that the spirit of God has otherwise taught / then it is written in Scripture / now that according to the law of man …

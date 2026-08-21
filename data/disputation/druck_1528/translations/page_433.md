@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_433.md could not be located</s:message>
-</d:error>
+Seite 209  
+Schlußred. CCIX  
+
+gesprochen zu dem Herren: Lord/ if you will again give in this time/ the kingdom to your people Israel:  
+Hat er einen geantwortet: It is not in our understanding/ the time or the instant/ that my father has set in his power. The same also says Paul/ in the Epistle to the Corinthians/ chapter II. There is no ear that has heard/ nor any eye that has ever seen, e.g. Thus says Christ in the Gospel of John/ chapter VIII. In the house of my father there are many dwellings. The house of the father is twofold: One of the reward/ is the kingdom of the heavens/ now the choir of the angels. The other house/ is the house of punishment. Von dem da spricht Paul/ in den Episteln:  
+Er ist abgestiegen zu den niederen Teilen des Erdbodens. Finden wir einen oberen Teil der Hölle/ einen mittleren Teil/ und den aller niedrigsten Teil. Von dem oberen Teil haben wir Regum/ Kapitel II. Der Herr des Todes/ und Macht macht lebendig:  
+Er führt zu den Hellen/ und führt wieder herab. Vom mittleren Teil der Hellen schreibt der Prophet David/ Psalm 1085. Lord, du hast meine Seele erlöst/ von der niederen Hölle. Jetzt finden wir auch einen Ort der Hölle/ Za‑charie. Kapitel IX also geschrieben: Lord, du hast deine Anfänge im Blut deines Testaments/ in den Gräbern/ worin kein Wasser war. Von der niedrigsten Stätte der Hölle/ ist keine Erlösung. Schreibe Hiob/ Vers … Ich werde dorthin gehen/ und nie mehr zurückkehren zu der finsteren Erde/ die bedeckt ist mit der Finsternis des Todes, z. B. Durch das will ich gerichtet werden.

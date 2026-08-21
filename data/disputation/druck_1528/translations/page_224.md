@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_224.md could not be located</s:message>
-</d:error>
+Seite IV  
+The fourth  
+we have promised ourselves a lovely feast / that cannot be brought forward by Scripture / therefore the argument is dismissed / we also recognize the Almighty’s being. But from this does not follow / God is able to do that / so it also is / that he would turn the stones to Helias and the preaching John / they are however not therefore the preaching / Helias and John / thereby God does not act against his own word / it would also be against his own word to do / not for a …

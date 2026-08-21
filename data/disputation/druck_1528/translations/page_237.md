@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_237.md could not be located</s:message>
-</d:error>
+Seite CXI  
+
+**Schlußred.**  
+that the Lord shows in the exposition / that He has called His own body / He therefore has done that / which will be given for you. Likewise also as my dear lord and brothers / the saying “He who is my flesh” … / he gives it first / to be trusted / I understand thus / the eating of this flesh concerns a special covenant / that we are in Christ / and Christ is in us / and that thus the natural nourishment and strength is / to our flesh alike / that the same may be his life and blood / through the belief of the spirit of our soul. But that the one spirit makes us in his being / should not be deceived in any way: then everything that the earthly man does / is forgivable / he then does so with the desire and will of the spirit in his work: then no one is the one / who, as something practiced in Scripture, gives the bodily or earthly consumption to God / unless the spirit does not permit the man thereto. Of the word however, I say, I rely on the Scripture.  
+
+**Zwingly.**  
+I demand, for and for / to our dear brother / that he acknowledge / that the word (and the bread, but the one I will give …) does not promise us a literal bread / or literal flesh of Christ to eat / so it will be drawn for and for other hearing / which however all will come to its time soon / and I remind now briefly / that he may recognize with spoken words / whether the said word / alone signifies the death of Christ for us / or the sacramental eating / and the death / And so I declare that he should bring it forth with an open Scripture: then we, having brought forth the true word of God, that he alone …

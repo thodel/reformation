@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_235.md could not be located</s:message>
-</d:error>
+Seite CX  
+
+**Schlußred.**  
+
+hieltend / then as from another pure man. Moreover it is also called the son of Joseph. But through the whole chapter here / where it stands / “Essen” / should be believed and trusted to be understood in Christ / I again refer to the Scripture. But concerning the other complaint / that he reports the eating of his flesh / it is evident that the Jews have thought / that he should eat on the coarse white / as if some flesh had been eaten: having thereby thought / that his flesh would be eaten (the devil and he the holy and salvation bound to it) would be a shame; then his flesh, according to his fleshly understanding, would soon be consumed. Further / my lord Master Wilhelm thinks / with the word “bread” / he has believed and trusted, mentioned in … / let me … the word … the people and hold … . This is that bread / which descends from heaven / and gives life to the world: that blessed word / together with other following … / Christian … (as then he also taught the saying: “He who believes in me has eternal life”) I cannot deny any … . But in such understanding / that all that word may be in trust / also in the trueness and hold of his will they thus with the word believe / an offering of our hearts / to all his words directed / that Peter in Matthew XVIII, chapter, indeed held of Christ / when he says / “You are Christ, the son of the living God” … that he was for us …

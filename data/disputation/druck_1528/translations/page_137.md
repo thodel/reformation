@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_137.md could not be located</s:message>
-</d:error>
+Page LXI  
+
+Concluding address.  
+
+It is evident that, when the Twelve Commandments are announced in the other epistle to Timothy, chapter ii, and to the first chapter, they have somewhat learned and preached through speech, through breach, and otherwise proclaimed, as they also have heard from others, hand to hand, not entirely from Scripture; therefore this is shown. I also think that the holy Church stands likewise before the Gospel and the Scripture of the Twelve Commandments, and that it will be illuminated forever, so that your Scripture may be.  
+
+Moreover, in the other epistle to Timothy, chapter ii, Paul says: “A truly holy Scripture, which is spoken by God, is useful for learning and for instruction.” Now much is written according to the biblical Scripture by the dear saints for instruction and the recognition of biblical Scripture; I also think that God the Holy Spirit must have spoken those, especially the Scripture that has been accepted by the common Christian Church.  
+
+It is also written in the histories of the Apostles in the fifteenth and sixteenth chapters. They ought to keep the “port” (gate) of the Twelve Commandments, from the breach of the elders, as Paul also says in the first epistle to the Corinthians, chapter x. I praise you, my brothers, that in all things you are of my mind, as I have given you my “port.” Promise them this: the other matters I will also arrange for you when I come to you. Yet no one finds it written where he has arranged it; he has, however, kept it without doubt, as he has promised it. Paul also says in the same chapter: “I say this to you, not the Lord,” and continues concerning reading …

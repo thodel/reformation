@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_479.md could not be located</s:message>
-</d:error>
+Seite CCXXXII  
+Schlußred.  
+
+We are indeed guilty before God, as Peter has spoken. Man must obey God, then the man, that the saying of Ecclesiastes is again against us; I do not give (it) up, when he plainly shows that God has misled, a false promise; therefore he immediately speaks thus. All that you lose, that is the law. The understanding of John … the food and trust … a thing … I do not take. That Paul’s vow … but from the weak or another will have been done, I do not know. The text, however, shows that he has made a vow.  
+
+Zwingli.  
+
+WJr show the abrogation of the vows of the Old Testament, with that we thereby … our vow … kill … unless we turn our love … with the ground of faith … and they also show thereby that the abrogation of the vows, so that one may see that the teachings of the Old Testament have been brought … so little … to be forced … as if we were forced with the letters to the animal‑sacrifice world. The saying of Esaias at 19 gives itself first, then he says thus. The Egyptians will be honored with slaughter‑sacrifices and gifts, and will praise God. So now it is certain that the Christians (whom we here gladly recognize and the Egyptians will understand) have not slaughtered or sacrificed much, but they themselves have offered themselves to God, as in Rome at chapter 12. Thus also follows that Esaias, just as little of vows … the half‑believers … speak as little as he speaks of his own sacrifice. But they are figurative sayings, for one uses the words that were employed in the old Testament for the various sacrifices: in the new Testament …

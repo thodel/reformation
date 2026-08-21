@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_373.md could not be located</s:message>
-</d:error>
+Seite 179
+
+Schlußred. CLXXIX
+Johannes Bůchstab.
+Against the arguments of Paul concerning the Hebrews I answer briefly as follows / Paul has written to the Hebrews / as to them / that the Christian faith has not yet been fully reported / that we Christians / this sacrifice of Christ is sufficient / in that we need no further sacrifice / Book / Kelber / etc. to be offered. But that we, in place of the old sacrifices, have the supreme sacrifice of Christ / who was offered once in a mortal, bodily life for all human race on the cross. Therefore to the Hebrews on the 9th and on the 10th Christ entered once through his own blood into the heavenly / He was offered once / he has with a sacrifice entered eternity / completing the sanctified / which word however does not cease / the now‑heard form of the sacrifice / so daily in the measure described. Then Paul writes here how Christ once died because of our sin / and on the Cross his blood was poured / he offered himself / God his heavenly Father / as to the Romans in the 5th chapter Christ is once died from the sin‑way / that also has been thrown away / Christ has done enough for the whole world’s sin / is therefore not enough / that we must not do [anything] / or even be free / since no one was condemned. The suffering Christ is completely sufficient for the whole world’s sin / yes, he makes himself partially / as in the third concluding speech sufficiently shown. The other sacrifice, however, is spiritual / then as He (Christ) according to the order of Melchizedek is a priest am.98.blatt. into eternity. Also it is also necessary that he also in eternity has a sacrifice / … Yy iij

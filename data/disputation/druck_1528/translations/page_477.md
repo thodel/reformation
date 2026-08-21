@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_477.md could not be located</s:message>
-</d:error>
+Seite CCXXXI  
+Schlußred. Zwingly.  
+
+[W] We have yesterday sufficiently shown / that the covenants of the Old Testament / as they are the greater part of the offering gifts / have been, / and therefore appear with other offerings / as among the Hebrews. ix. were discovered. / The Nazareth half is also heard / that they were a model of Christ / then Barthei at the year / instead of Christ. / He will be called a Nazareth / Also it is said Nazareus from the city of Nazareth. / Therefore the same believers also have heard in Christ. / We are still of the sense / that we are no longer under the law / but under grace / then the law / is now a debt‑collector to Christ: / so now Christ has come / so we need the name of the debt‑collector / but we bow ourselves / to the one grace of God / whereby we are assured through faith / and so the faith alone comes from the spirit of God. Jo hannis at the year. / And where the spirit of God is / there is freedom ij. Corinth. iij. / So follows / that the spirit in conscience is free / those who are in Christ Jesus. / We want here to be understood in every way / that we do not speak of the covenant / in truth / which man owes to his neighbor: / we speak only of the covenants / which one annually / offered on the basis of faith / the conscience to help / or suchness to obtain / has been done here, / that to Galatians at ii is written. Ecclesiast. v. is more for us / neither for anyone / then he …

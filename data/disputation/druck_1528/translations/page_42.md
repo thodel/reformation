@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_42.md could not be located</s:message>
-</d:error>
+IX  
+The first  
+Epistle to the Corinthians, at the fifth chapter. The third  
+makes learning a … to a head / so follows / that Peter alone is a head, because he has learned / and the other apostles / also alone where he learned … . The fourth / that while neither the Pope / nor any man / may a land / nor even the whole world learn / thus follows that one may not be a head. The fifth / so Peter to Rome learned / as he indeed alone a shepherd / and servant of the same churches / so he an Epistle to us writes / to our … / he also became our servant. Accordingly the citizens … indicated / that the head of the churches / such a thing give / that no creature may … as … / blameless / just / and so make … / and the souls nourish. As Paul to the Ephesians, at the fifth chapter, shows / Christ is the head of the churches / therefore that he is the holy land’s love is given / and so the head being taken away / also everything lives / and tastes of love / silently. And thus this flesh cannot … a mortal creature / a head of the churches. And that the bishop has himself confirmed. All scribes / who the father has brought forth / giving nothing else to Saint Peter / but service: such will appear / in this our responsibility.  
+
+The first saying from the first chapter of John:  
+Thus you will be named / Cephas / the deceiver of the bishop / a head / and so he the Evangelist visited / invented / that he himself … it is called Peter / that is a veil / the erudite … is more diligent in belief … of the will of Peter / neither a cornerstone / nor a foundation stone / nor a ... / except he with other … blameless stone / an opening of the blameless stones of the Scripture.

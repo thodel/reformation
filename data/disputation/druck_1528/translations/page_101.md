@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_101.md could not be located</s:message>
-</d:error>
+Page XLIII  
+**Closing Speech.**  
+
+red gethan: Let there not be insufficient belief that in Christ there is redemption; he must also believe everything that the common Christian church, which he indeed understands, has opened, of which many are rejected, who have no belief yet have become despondent; belief has been taken up, I suppose, that we ourselves recognize, some heretics are damned, who have such belief. To this we say: No. If you have believed once that our Lord Jesus Christ has been redeemed, he has received the seal of the holy spirit for eternal life; then those who believe in Jesus are children of God; John in the first chapter may never speak in truth that the Lord Jesus, then through the holy spirit, in the first Epistle to the Corinthians at chapter XII, therefore has declared how truly this may be. If you have so much obtained from God, that you recognize our Lord Jesus as your redeemer and believe that he is born of God, may never sin to death, and has eternal life.  
+
+But further the Provincial his Councils in matters of belief (as they understand belief) have comprehended to preserve; I will not speak any more on this matter, then that the contrary has been found again in the next Roman Council, which has recognized a pernicious heresy; hold that a common Council over the bishop is … . Which indeed all is a holy truth; both Councils at Constance and Basel have been held, having recognized.  
+
+Now to the conclusion: thus the Provincial, with very earnest words, a community of God from Bern, … (the text breaks here).

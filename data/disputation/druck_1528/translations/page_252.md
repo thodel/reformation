@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_252.md could not be located</s:message>
-</d:error>
+Page [X]  
+The fourth  
+Ecolampadius.  
+
+The span of this matter / will firmly stand therein / whether the literal / Christ / should be essentially explained / as my lord the pastor has confessed / that, on the contrary, / I speak in / have the good cause: then so the literal Christ / in Scripture / may be explained in many ways / thus it is necessary that such an explanation be given / after which it is according / not contrary to belief: then, as Paul to the Romans teaches: Thus it is said / that one should say / Secundum Analogiam fidei. That is, therefore, that the explanation be according to the faith. Where we now, assuming such an explanation of the pastor / or others also, then that the unsacred sacramental bread / does not signify the body of Christ / so was such to the belief contrary: then our belief holds that the Son of God took on a human nature / from the seed of Abraham / and not an angel / nor any other creature. So, however, the body of Christ becomes bread / by the power of the word / essentially, thus also follows that Christ and therefore God / has taken the bread in his nature / which Christian ears are eager to hear. And thus this interpretation is not according to Christian belief. Were he, however, to introduce another trope or figure / to speak / into this word, he must also confirm such / and it becomes unnecessary, even less to invent / that one speaks figuratively / against the simplicity of the faith, namely (as my lord the preachers / have said) against the arrickel: He has departed to heaven / and will in the future judge over the living and the dead.  
+
+Pfarrer

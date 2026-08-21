@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_330.md could not be located</s:message>
-</d:error>
+Seite [X]  
+The fourth … at the fifth chapter, and it has been given all power in heaven and on earth; it should not be unknown and should be known by the middle; its body may be strengthened in the power of the often‑drawn words. As he was naturally born and lived through Master Friedrich, Luce at the second chapter is drawn. Likewise he performed many supernatural deeds in his body by divine power and might; as is the story of the distribution of the five loaves among the five thousand people, which thus remained: then, as we are according to the order of God and of nature, with our eyes the many of the people may see, and there is only one eye or two; one word is heard in many ears; thus we strive that such a thing may be spoken. And because it has happened from the heavenly messenger, the word (it has been sent forth) should not be opposed to such.  
+
+Martinus Butzer  
+When we bring forward the articles of the faith, that the body of Christ may not be literally eaten in the bread. Also Paul gave us this cause in the first Epistle to the Corinthians at the seventh chapter. So he openly speaks of the night sign and says that we proclaim his death until he comes, and then he at once knew how he can be everywhere, also how he is presently taken up in the night sign. But in short, the matter has the understanding through heaven; we comprehend the spiritual, holy heart of the divinity as we pray Our Father in heaven.

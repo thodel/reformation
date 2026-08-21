@@ -1,5 +1,2 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_84.md could not be located</s:message>
-</d:error>
+Seite [X]  
+The first in pieces of the faith / of your way to be divided. I admonish myself, however, pious Christians / who well desire a high ... have ... of the right sects / and of the right divisions of Christian unity / and those who so separate themselves in the highest pieces of the faith / begin to separate: they have heard in many years that one Lutheran / the other Zwinglian / the third Carthusian / the fourth ... / the fifth ... and the same ... name / call themselves / or / to be called ... who not only have a difference in small ... then the very difference / no one may bring disadvantage or harm / except to separate in treasurable pieces of our unblemished faith / and there is the greatest harm / and the highest ... have. It also shows us Martin Butzer / how all councils ... have ... themselves ... and against each other ... that I ... so I will understand ... in pieces of the faith ... are ... your way ... he will also no longer bring ... If it was ... in other points / by long ... .

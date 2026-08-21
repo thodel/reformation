@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_39.md could not be located</s:message>
-</d:error>
+Schlussrede.  
+XII  
+so that the chief may be taken, thus we turn our lies, as we do in the ...  
+
+Bucerus.  
+Ich habe vorhin gesagt, dass die angezeigte Rede von Binden und Entbinden, auch von Weiden, ausreichend verantwortet werden soll, und ich habe jetzt das Schiff gefordert, dass der böse Petrus zum Haupt der Kirche gemacht werde; die selbe Schrift hat der Buchruatter noch nicht heraufgebracht, und es fehlt mir noch, dass ich die Schrift gebe, dass Saul ein Haupt in Israel gewesen sei, von Petrus aber, noch einiger Apostel, möge kein Haupt der Kirche (nach acht Schrift zu reden) genommen werden; so aber die Schrift von mir angezogen ist, dass Petrus ein Diener genommen sei und sein Haupt; Saul aber ein Haupt; von Bekenn, dass der geistliche Gewalt, unvergleichlich mehr, ist dann der weltlich‑geistlicher Gewalt, aber ist über die Geister, über die Gemüter, den hat Christus allein und dienend zu solcher Gewalt; die Prediger des Evangeliums, welches das höchste Amt aller Apostel gewesen ist, allweg unkräftig, wo der geistliche Herr seine Gewalt in den Bärten nicht erzogen hat und erregt hat; darum wurde der Buchruatter bewahrt; das fand Petrus oder einiger Apostel, Gewalt hat oder gehebt, die Herzen zähmen und fromm zu machen; so wird er auch bewährt haben, dass er ein Haupt der Kirchen sei; Christus ist das Haupt; dann kann sonst niemand fromm und selig machen; dann Christus, in Begehren darum Schrift, dass Petrus böse in zum Haupt mache.  

@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_24.md could not be located</s:message>
-</d:error>
+The first  
+feel labt/erniiwert and again is born, so the spirit of God plants that in our hearts: then it is the word of eternal life (Johannes 6). And as they are enlightened by the word of God / renewed / and again born, thus they remain in him / cling to him alone / they do not hear the voice of the pious. This is that Christ is drawn / with the Gleichnis of the shepherd and the shepherds / Johannes … they shepherd‑like follow … then they recognize / allowing one to fall / his voice / then they are assured by the holy spirit (1 Kor. …).  
+
+If the pious voice does not follow / then they do not recognize his voice. And again: My shepherd hears my voice / and I recognize him / and he follows me / and I give him eternal life. He will not die in eternity / He also will not be taken away by any hand of mine.  
+
+Thus it is evident / what the Kirche / what the Schrift the Kirchennamen namely the assembly / not of the Cardinals / Bischöfen / and geistlich hope … except those who trust God / believe through Christ. For the Papst … no Creatur may be the Haupt of the Kirche / except Christ alone / because the word has been given / thereby he lives / and the voice of a pious one does not cease. These are several … of the Kirche … its Haupt / empty / in wandering half …

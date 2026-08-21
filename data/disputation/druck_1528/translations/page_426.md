@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_426.md could not be located</s:message>
-</d:error>
+Seite [X]  
+The Schrift that he would repent and let: so the will of God is that we be delivered from sins; so the blessed are not against the will of God, except in his will they are buried; why then would the members not compare themselves to the head with petitions? As we have Luce at the fifteenth chapter, men not and women not, and therefore may not die; they are like the angels and are sons of God; so now the angel is servile and begs; so also the blessed beg; thus they are like the angels.  
+
+Item: so we to the holy gang and the churches domestic, thereby our prayer to be destroyed, is not a purpose; then we have the one drawing. Genesis chapter 28. So Jacob is amazed at his lodging place and said: “How fearful is this city; here is nothing else than the house of God and the gate of heaven.” Christ also has come into the temple, and the holy Apostles Peter and John have gone into the temple at the ninth hour of prayer, and Christ performed a greater miracle there than elsewhere.  
+
+Item ii. Regum viii, Cap. We again, Solomon, stand before the altar of the Lord with outstretched or tense hands and say: “Lord my God, accept the prayer of your servant and hear the hymn and prayer which your servant begs here before you, that your eyes may be open day and night over this house.”  
+
+Item in the following text: he begs the Lord, speaking, “so a pious one from farther will come, who is not of your people Israel, for the sake of your name. And so he will come and will beg at this place; you will be in the heavens, in the firmament of your dwelling, and you will become all that which the pious one will …”

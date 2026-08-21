@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_443.md could not be located</s:message>
-</d:error>
+Seite CCXIII  
+**Schlußred.**  
+
+something besides God, who gives the growth, who also plants and who there greets, is one like the other; an actual one, however, will receive his reward after his work  
+Then we are God’s helpers, we are God’s field‑work and building: I from God’s grace that which He gives me have laid the foundation, as a wise builder, another builds upon it, an actual one, however, see how he builds upon it, then the soul that finds the foundation may set none else there, nor is the law Christ Jesus. So now anyone who learns, the listeners, thus are grounded in Christ, when already the spear of persecution comes, so little can they resist, as the elemental spear in gold, silver and precious stone; so it lies in the day how wretched the learner, the people having built with the word of God, when they have it the life, then the word of God is abandoned. But if anyone the word of God so lazily learns, the cause of sudden persecution, those who listen fall away, no other than like wood, hay and stubble, from the spear become twisted; so it lies in the day the unfaithfulness of the learner, or of the one who builds up: but the day of the Lord, that is, if the Lord is pleased, such things will be openly revealed; but if anyone’s learning remains, those who have taken it up have not abandoned it; then one again may see how he has built gold, silver and precious stone, and will after his building receive his reward; but anyone’s work is burned, so they are wood, hay and stubble, spirit, and wherever the preacher a damage incurs, then he has learned, so he will indeed become blessed, for he through the spear of all trial is drawn back into belief. Therefore here is called building, learning and preaching: the foundation is Jesus Christ, the work …

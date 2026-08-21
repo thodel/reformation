@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_192.md could not be located</s:message>
-</d:error>
+Seite [IIII C XXXI]
+
+**Die ander**
+
+Such, Sir, we undertake. It is, however, also said / that the Christians freely am.78.81. / blot willingly / fast in common and apart / have / therefore admonish Paul in a drawn oath. / But that from meat‑eating / the bishop’s mother has drawn in / will not be preserved for long / that the church may forbid meat‑eating / God the Lord, however, has forbidden it / as also wine‑drinking / where the next thereby is angered / that is in belief of love prevented: unless there is held / that one may eat all kinds / the one is from Paul esteemed as a starcker in belief / and the God taken up / chapter of the seventh to the Romans. / She sees instead thereof / for herself / the breaking of certain creatures forbid / is the work of the devil / and will thus remain / as long as the word of Paul was remaining. Freely, however, Christ / all things to improvement need. Likewise it holds itself with the eye / of which thereafter is acted.
+
+**Bůchſtab**
+
+Since I today also from the setting of the fast have said / and Herr Butzer speaks / the prohibition of spitting / drinking according to the word of Paul / of the devil’s commandments and prayers. I say no / then because the / Moses / Exodus xviii. and Elijah ii. Kings xix. and Christ Jesus / Matthew iii. each forty days set / has the holy Church so wholly here named / and mentioned the word of Paul / as he speaks / to the Philippians in chapter Vc is given / that it / not only / to believe in Christ / also / that it for / a / people / have / or / the same / fight / so / it / in me / have seen. It Petri. ii. Christ has for us ...

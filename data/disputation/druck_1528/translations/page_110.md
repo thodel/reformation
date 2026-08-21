@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_110.md could not be located</s:message>
-</d:error>
+Seite 59  
+
+Capi. selbs redt. Therefore the pastor does not yet conclude otherwise, nor that the preceding matter is responsible; he brings another writing for the purpose, which serves the chief; then his understanding would be such that there would be many more heads than many bishops, indeed in one church; then Paul, in his quoted saying to the shepherds in Ephesus, of whom there were many, had spoken such a word.  
+
+Pfarrer von Appenzell.  
+
+[K]ommen Christians, as Lord Berchtold declares, that no other power than Christ or God exists; I gave a gracious decision yesterday in the first closing speech, a truly gracious decree, in which I have graciously and plainly shown the power of the Almighty God—His power, His mercy, His glory—so that no one on earth may receive it, nor in heaven, and that also your man should not speak (if God wills) the child of this party, and I have never spoken for it; I have afterwards shown a prescribed power which He has given to love His younger peoples in the world; and so He previously displayed the power graciously; He intends to make a bad thing out of it, that they, however, become a power and have a distinction; thus noting the holy Evangelist, as my heavenly father has sent me, I also send you. Now the declaration … as I have before spoken … how He has set to govern His divine church, as the former saying showed; some err, some are empty; … in which clearly is shown a faithful power, and that is another thing—shepherds and leavens.  
+Berchtoldus

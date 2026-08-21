@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_469.md could not be located</s:message>
-</d:error>
+Page CCXXVII  
+Conclusion.  
+Master Ulrich Zwingli.  
+
+Ananias and Sapphira deceived; it was not a breach of a vow, but a lie, and therefore God punished them. Then Peter says: “As long as the field is in your power, and as you have concealed it, the money was in your power”; in these words we may perceive that he had not yet promised, also that the Apostles had not taken up the vow: rather the guilt was caused by Ananias, that the Christians of free will gave their goods to the community. Then Ananias would have seemed, as if he also had given his goods to the community, which, however, was not for the godless and false will; he was punished by God. Then Peter says likewise: “What also forced the holy spirit to lie”; in these words we understand that they, on account of deceit, are equally dead, and for no vow’s sake. Accordingly, so‑called righteousness holds only a gift of God: then that which no one possesses, then to which God gives; thus righteousness is praised, just as one of another sort is torn; therefore righteousness should be exercised, more a presumption than a worship service: because here the fleeting holy youthfulness has now been withdrawn; but Paul says: “If anyone cannot keep righteousness, then he disgraces himself; it is better to disgrace oneself than to be burned.” This is a common promise of all those who have understood righteousness equally, and yet in it feel an unmeasured ardor, for which some no vow can bear. Moreover, no one has spoken that a bishop must have a wife; so however the bishop does not love righteousness, he should have a wife; but if not a bishop — Zll iij.

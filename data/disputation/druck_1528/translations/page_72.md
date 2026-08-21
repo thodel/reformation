@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_72.md could not be located</s:message>
-</d:error>
+Seite IIVXX
+
+The first follows thereafter, as previously indicated, that the so‑called common assembly has gathered in the spirit of the Lord / also has destroyed the Scripture of the Jews / that they wrote instead / the spiritual judge all things / here takes the Scripture as nothing but that / but my lord Doctor further instructs on the word of the Lord, where he says / whoever the Church does not hear / they are to you as a heathen / etc. How this should be understood by ordinary, spiritual people / that he who judges all things toward belief / and toward love / I say this also / that here the Lord wanted to show a reconciling, visible judge / so that we, in tension and division, might come to peace and unity, to our right, undefiled belief / for the Lord says / if he does not hear you / then one or two may come to you / if he also does not wish to hear the same / then says the Church / you must be a reconciling, visible Church / then you will be reproachfully heard / that the Lord has set a judge for us / invisible and unrecognized / therefore even today, by day, follows that the same visible Church in one were believing / in the name of the Lord gathered / in the handling of belief to be destroyed / and have spoken.
+
+Doctor Capito+
+
+Indeed, my lord Doctor, because he makes this saying / the spiritual judge all things / as it has been previously thought / let us assume / but from this should follow / that he would also destroy the Scripture / which he wishes to destroy / the way he wishes to destroy everything / so that he destroys all / now may the Scripture, as the usual spirit of God, be ...

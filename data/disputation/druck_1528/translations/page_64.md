@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_64.md could not be located</s:message>
-</d:error>
+Seite IIII  
+The first  
+Israel then, like the priests in the old Testament,  
+who do not make the substitution, but only recognise and  
+consider the one who formerly was substituted, / thus condemned /  
+or excluded the kin of the churches, / nor the one who with  
+friendly unending life had formerly been presented, / so  
+one might think that he is not a friend of God, / the same  
+one, however, has been left by the congregation or the churches, / until  
+the substitution, / therefore he, according to the former verse, appears / as perhaps a member of the church counted, / as the most pious of all, / but by God, / what he was not, he would then bear the right to be roused and to believe in the heart, / which may not be, / indeed such a free, unshamed being, / wherever the one to Corinth from the standing / after the ban has been truly improved and praised, / is a sign that the divine grace which has let the [people] fall, / again has been avenged, / therefore that again, taking up the [matter] of God, has happened, / neither from the churches, / but from outside, / that those who are set apart, who were previously rejected by God, / and again taken up, who were formerly pardoned by God, / for this Paul now calls, / the setting apart of the whole congregation a most serious perversion, / therefore that which formerly in the churches was recognised by all brothers, / a disobedient child of a member of the people of God, / and thus the ban is an opening of evil, / which may offend the whole churches, / that the church may be humbled by the evil discipline, / but the pastor of Appenzell, for that, strives, / that the ban be a force, / that God may give the man / and so he imagines (as I note) another head of force in the measure, / it is an error, / then the force to ban, / is the force of Christ, / as Paul …

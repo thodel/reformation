@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_454.md could not be located</s:message>
-</d:error>
+Seite 110  
+Die sibent  
+
+but that/this is a fägbür matter: so the children do not wish to become blessed, they will become … to the devil there is no will, but here it is not to be disputed that we are redeemed from Christ von, and yet also the frankness of suffering/seek, likewise the pastor says that the redemption of Christ is not complete: thus the mortal death will also be taken up; but if he does not wish to say that, what then serves such a fägbür to be preserved?  
+
+In the penitenz something dreadful must be, it reaches that our penitence is laid aside, something must be taken, which is not: then if we were to do everything alike, God is called, then we are useless in the night, that is the righteousness of God, besides the mercy, the emptiness of our zeal, we say, that all works that happen are sufficient for divine justice, to clarify Christ, but the righteousness of faith alone holds.  
+
+Which Paul, to the Romans and Galatians, to the most severe, relates that the oath of John v. bears no fägbür. So however long we speak of his mind here, we briefly say that it is not complete. It is a sin for which one does not ask for mercy; thus it is a fägbür. The oath of Matthew at chapter 12: the sin in holy feast will be neither here nor there forgiven; it does not close that several sins in this world will be forgiven, for there is a Locus à sufficienti division, capable as much as ever, never again to be forgiven: and this also briefly, the sin of John the previous oath says, just as one speaks, he had neither day nor night, nor completeness; thus he had something, especially day and night are the whole division of time; then at all times it is either day or night. So also here Christ takes for … no one is forgiven, the whole division of the present …

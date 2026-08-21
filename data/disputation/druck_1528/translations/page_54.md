@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_54.md could not be located</s:message>
-</d:error>
+Seite [X]  
+The first  
+
+Church/ but he has never ordained a power for us Christian‑believing people here in this time, I say/ that he has ordained a power for us to bind and to unbind/ because of the grace of his divine mercy. So however that thus I say through the divine word of Christ. Matthew 18, Chapter. In which words the Lord Jesus himself, through his divine mouth, showed and spoke to his apostle Peter. I give you the keys of the kingdom of heaven/ that which you will bind on earth/ that which you will bind in heaven/ and what you will loose/ that shall be loosed in heaven. In those words clearly shown to us/ a lingering power/ then the usefulness of the witness is/ then the word of our one God and Savior/ that stands firm/ which cannot be altered/ to bind and unbind or to release/ to order a power. So now God has spoken this/ follow thereafter/ that he to his beloved young Peter/ has the power of his divine word appointed/ and have thus set/ to a former holder of power/ of his divine word and appointment.  
+
+Berchtoldus.  
+
+[K]ommen beloved Christians/ the order of the pastor/ has a short notice/ he lets after to the first/ that Christ be one head/ so may he be your state elder/ then all power in heaven shall be given/ is in the gift/ Matthew in the last Chapter. Which power no creature may govern. Moreover he has drawn in/ the keys to bind and to loosen/ which Christ Matthew 18, Chapter gives to Peter/ speak.

@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_266.md could not be located</s:message>
-</d:error>
+Seite [X]  
+The hereof of the closing speeches, that they bring us with writing the word of the night‑meal, that we may have another understanding.  
+
+Thus far the Sententia has been much troubled concerning the birth and conception of Christ, how he was received by the holy spirit in the body of the Virgin (Mary), how he was born, opened, closed, and how a wretched woman may be a virgin.  With all the rising sharpness omitted, we are of the carried sayings again not reported otherwise, then the singular words singularly to be shown.  
+
+Ecolampadius.  
+
+The concluding speech is, through my lord, the respondents, for themselves somewhat clarified; that may be contested, but it is not, perhaps, as Lord Benedict’s answer may be understood, that we, by our reason, have built, and the sharpness we let flow, the half of the answer from the 10th chapter to Corinth in the Epistle.  Since we have spoken, it should become brotherhood, common or community, the striving of our brother Althamer thereupon; a division should be understood: the helping Greek word κοινωνία.  Now we will also let go of all the eastern tongues of the speech, as it is in Latin and Greek, that in the tract there is a common community and society, and not a division: one says that the word comes from the well; so none who has now begun to learn any longer is ignorant of κοινός or κοινὸν, which is as much as “common” or κοινωνός, a fellow‑member, thus a community with him.  The sayings, however, are drawn in by Althamer from the literal…

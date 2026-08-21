@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_60.md could not be located</s:message>
-</d:error>
+Seite [X]  
+**The first**  
+namely with the word of God, where a right understanding would have been, contrary to what is not; then if God wills that no man is, the one who is against the holy word of God, which no judge may; then it is a judgment through the eternal word, but the misunderstanding of the Scripture, the very same, declares a divine deception. And so, Lord Berchtold, my speech, as I have drawn from the holy Gospel, also from Paul, and the same is called a power, that God his younger followers hard, he says, it now is a vile thing, that those who in the church cause annoyance bind, or sin, as then the same is, the same banish. Which I have gladly heard from the preacher of Bern, that he urges the Christian churches; that it is a recommendation to ban, that the poor, good from Christ a great ... (as they meant) of the ban of the churches; thus now clearly it is heard of the ban, must necessarily follow a power. Therefore I firmly stand and do not deviate from the authority of the Christian churches.  
+
+**Berchtoldus.**  
+Come, Christians, all listeners, to shorten the matter, the pastor should note from the Gospel, dated the 18th. As it is a figure concerning the holy ban, He is from Christ … the churches not only the general Christian churches: that they of this time do not come together, also not the church so bishop and bishop together coming.

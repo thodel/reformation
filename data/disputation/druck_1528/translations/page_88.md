@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_88.md could not be located</s:message>
-</d:error>
+Page [70]  
+First, I wish to give an answer to this matter in writing, so that the simple common people of God are not offended, and therefore we shall not be sharp in our accusations: for my lord’s mandate has first forbidden this.  
+
+Now, at first the Provincial openly and seriously complained, as my brother Capito had written, that also the Scripture should be judged by spiritual judges, which I would have liked to avoid. I beg you, dear pious Christians, to be warned of such a grasp: for the truth seeks/needs you indeed. One does not also hear here what we are to learn or be taught, except what the Scripture gives or does not give.  
+
+If the Scripture is judged by many of the believers, that is what should be recognized; we have long written and preached, as our books and especially I, the Provincial, have answered, in the forty‑second year past, excessively addressed, namely concerning the fifth, sixth, seventh and eighth and twenty‑second proposition, or wondrous sayings, which he has called Paradoxa; but no Christian community has the Scripture judged to that extent, nor have they taken anything from it or cast it away; we have …

@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_325.md could not be located</s:message>
-</d:error>
+Seite CLV  
+Schlußred.  
+
+Nothing is called the luminous name of Christ, that it itself is being in a pleasant way, or, among those, pleasant in a being‑perceived; except that it is the common sign being, that in the night‑meal it is carried around, that the meaning is a figure or a counter‑question of the luminous name of Christ for us killed. Here our opponents are accused, perhaps they are to be blamed, that the word (is) through meaning misinterpreted; on the contrary we say, the word “meaning” is accused; therefore let it not be accused, the word (to memory, my) then so we likewise speak, meaning or it is a figure; we do not mean otherwise with it, nor that it is a counter‑meaning, we wish our word “meaning,” or figure, not to be further expressed; then the word of Christ (thought, memory) is capable. To this Ambrosius has exercised the meaning of the word; Hieronymus of the same the word’s representing, Tertullian the “Figura ex‑iſtendi.” Which, however, we will now let fall away and alone show that we have neither new opinion nor new word to bring under the ban.  
+
+Thus we also have the Apostles’ Acts in the same chapter: the breaking of the night‑meal, not otherwise held, nor do we display it.  Hence it stands: they lie wholly in the teaching of the Apostles and of the congregation concerning the breaking of the bread and the command.  Here we see the simplicity of the description “Luce”; it does not at all conceal the shining of the light‑name and blood of Christ, but the breaking of the bread (in which is *Aleoſis*, ubi è duobus comparibus alterum nomenclaturam obtinet).  This we show for the foundation and separation of Scripture, which has forced us to that understanding; then we also believe every word of God, and thus the word is publicly discovered, being contrary to another (after the first …).

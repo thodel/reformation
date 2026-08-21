@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_95.md could not be located</s:message>
-</d:error>
+Seite XL  
+Schlußred.+  
+
+All good / Lutheran Scripture intended equally for all believers.  
+Now let those who the fiend / the rotten or sects arrange / then we shall not have a timely answer / what other righteous or evil people undertake / but the Provincial / because that the special / so the truth of the Gospel has come against the plan / many sects would gladly raise themselves, that the holy Gospel / so then there would be no unity and rightly established love, but suspicion would be made.  
+Therefore I, you devout Christians, consider the word of the Lord.  
+I am not come to bring peace / but rather the sword / that the Son is against the Father, the Father against the Son, etc.  
+Through the word of Paul to the Corinthians in the first Epistle, chapter XII.  
+Divisions must arise / so that the judgments become manifest / then the strongly armed Prince of the world in his wrath has his hope / thus there is a harmful peace / and it lies that the wrath only becomes stronger / and no division would come / but as soon as the Lord Jesus his truth, which is unyielding, lets shine forth / the Prince of the world moves his unbelieving subjects over whom he rules / that this one thinks otherwise / and thereby leads the simple people astray and from the Scripture would be led / thus it has happened / as the Apostles themselves have preached / as concerning their Epistle / the Acts of the Apostles / Tertulianus / Jreneus / Eusebius and all the old teachers / where however the widchrist / by the Oriental / through the Nachu met / and by the Ocidentālische / through the Bäpstlich regiment has taken over / it is no wonder that …

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_300.md could not be located</s:message>
-</d:error>
+Page [X]  
+The fourth bring / And refer me on a certain Christian ... understanding.  
+Pastor of Saint Gallen.  
+[Thus] likewise / as we spoke and answered concerning the power of the word of God / will (if God wills) the hundred churches / and Christian ... well recognize. God's grace be again with us / Amen. So many and ... from comparison / as the Old Testament to the words of the night of the body of Christ and his contemporaneity ... has ... the scripture ... (unclear).  
+On such things we wish to show / the word of the cup thus sounding. And he had taken the cup / had thanked and given it to them / speaking: Drinking thereof all / that is my blood of the new Testament / which will be for many forgotten / to the forgiveness of sin. In which words we believe that with ... so the word appear: and that truly is / as the Lord has commanded. Then how the blood of Christ has been ... to the forgiveness of sin / and has become ... that so they may drink / this blood of the new Testament: similar shape (Moses and Christ ... ) we have Exodus xxiiij. Chapter. Then he took the book of the ... and read it / to hear the people.

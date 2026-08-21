@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_358.md could not be located</s:message>
-</d:error>
+Page [X]  
+The fifth  
+first / therefore he needs a replacement of the one. To the fourth. He appears before the face of God / and represents us / therefore they are not representative / that is, in contrary wise, an offering. To the fifth. He has made it complete and perfect / which then the present priest’s offering is different / than a little piece of the offering Christ. To the sixth. He has invented an eternal redemption / which souls will then the priests redeem with the measures. To the seventh. It i

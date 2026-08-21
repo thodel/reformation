@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_62.md could not be located</s:message>
-</d:error>
+Page [X]  
+The first thing is necessary here / that the same as one is in all matters the duality is / to the lawfully appointed on the right / we here also, according to the law of the Ban, do / that had Christ in Matthew xviii, Chapter: In such a form give.  
+But if your brother sins against you / then go strictly between you and him alone. Hear him / then you have won your brother. If he does not hear you / then take one or two to your side / So that every matter may be established with two or three / and if he overhears / thus says the Church / but he overhears the Churches / therefore hold him as a heathen / or a publican. Here teaching us first / no one at all is appointed to the Ban / except only to warn / therefore the Bishop and Bishop / have misused the Ban. Thus it is openly warned before the whole congregation / then the warning in secret and publicly instructed.  
+Furthermore / that also not … or the Ban … should only warn and be ready to give its knowledge / so that the matter is ordered.  
+To the third, first comes the warning of the Church / so good / and merciful is God / and thus the unashamed does not fear the last / then he should first be regarded as a heathen and a publican / whereby one sees that no one may ban nor may / then the whole clergy or parish / the pastor or Bishop.  
+Of all this it is not to be thought otherwise / nor that Paul used the Ban according to this usage / as we indeed think. j. to the Corinthians v. Chapter. When he thus speaks / so they come together / also my spirit (that is my sense / my opinion and purpose / that I in the illumination of the divine spirit / as over the Church Apostle)

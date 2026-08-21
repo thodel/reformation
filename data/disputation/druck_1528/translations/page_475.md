@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_475.md could not be located</s:message>
-</d:error>
+Page CCXXX  
+Conclusion +  
+to give, so that one has spoken with people and offered … (Datthei at chapter xv. Therefore, all the vows that are made by people … as soon as faith comes. Here one must not misunderstand that we certainly … proverb … concealment … the worldly hand … prevent breaking … sundry we speak only of the vows that one has vowed … the spiritual … that the conscience should … find. This … to Timothy … is drawn … from the widow who had broken the first faith: has the mind … that by the church … alone old … completely … widows were contained … as the above sixty years were … also young widows … understanding … If so they came into the abstention of the churches, the young would have invented some … the unchastities … perverted the abstention with some impurity. If so, that is the cause; they sought flight: (Indeed it is safer, I …)  
+
+… so that Paul, at the thicker occasion, had … therefore he warns the churches … and says: (Then they should not be taken into the subordination of the churches: then they having in a breach … as first said … they would go with willingness … and then become real … and having, however, broken the first faith … that is … they have unchastened … or lived immorally … and if they have asked after the … they also came to the sight of the church … as the completely abandoned widow … yet they are not … I have thus committed fraud.  
+
+Thus it is Paul … breaking the first faith … here the vow is thought of as useful: then in the taking of the widows … all occasions are shown … that serve the same order. But Paul does not learn therein … that one … (Omm ij)

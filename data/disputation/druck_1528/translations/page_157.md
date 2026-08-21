@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_157.md could not be located</s:message>
-</d:error>
+Page LXXI  
+Conclusion.  
+Martin Bucer.  
+
+The accusation of Master Jacob / as he wishes to be understood / that Christ has entered the church / we assume / that, however, he brings against Peter / that Peter is a subordinate head over the church / therefore it is especially ... / the creation of Christ is doubted / is sufficiently responsible / he has been an apostle, see p. 56. / who not only ... all creations of Christ / as also not ... p. 68. / ... has been ... especially / especially has been / especially with others / and has Paul more than then he / therefore he may be called head over the others / but that he, however, gave a contrary answer to the Provincial / because Christ also is among two or three / in his name each common of God may decide / what they should believe truly / there should be no special common / a whole church should be decided / and therefore those in Antioch, Paul and Barnabas, sent to Jerusalem / in the histories the apostle at the 15th ... chapter. / Upon this I give answer / that here Master Jacob gives a strict example truly / as we also should follow / so those in Antioch acted rightly / so they have the word of God / so Paul and Barnabas of Christian liberty ... / ... but a ... was ... / ... through the ... and those always ... / Peter / Jacob / and others in Jerusalem against Paul ... hard Paul and Barnabas gladly gave themselves for the matters of the blessed ... rather he would have ... / ... no further questions ...  
+
+(Note: The original transcription is severely corrupted; the translation follows the line breaks and wording of the source as closely as possible.)

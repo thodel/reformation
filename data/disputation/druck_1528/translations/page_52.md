@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_52.md could not be located</s:message>
-</d:error>
+Seite [X]  
+For the sake of God’s truth, to confirm the promises of the fathers, I do not invoke the faith and the laying‑aside, and I wish to conclude that the Holy Scripture has been brought for this, so that the office of the bishop may be abolished. Yet let the other matters be further discussed.  
+
+Butzer.  
+The priest brings again for this the saying  
+“Weyd mine schåffly” – which is sufficiently justified – that he grants a service to Petzo and no heresy, as also the others have drawn from him. That, however, by that saying to the Romans in chapter XV, where Christ is called a servant of the cutting, is taken, respected, the opinion, as Christ also thereby is the head of the church; may also Peter be a servant and head of the church. This is also more than … now long responsibility. Because it contains all Scripture, the experience of faith, that Christ Jesus our Lord alone gives the holy spirit, and thus his church may be rightly taught and guided; therefore he alone must be recognized as the head of the churches by all who have received only a little Christian faith. But the priest, the scriptural responsibility, of his appointed place, does not intend to accept, having been urged by my lord’s mandate, with writing, why they do not accept it, while there. However, he perhaps wishes to give place to the others, to be concluded, so we also would …

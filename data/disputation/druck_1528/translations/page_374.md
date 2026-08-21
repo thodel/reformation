@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_374.md could not be located</s:message>
-</d:error>
+Seite XI  
+
+The fifth says this. Therefore, as now a Christ is / and an eternal priest / thus is an eternal priesthood / in an eternal sacrifice of the New Testament / Christ is the priest of that sacrifice / once he has made himself mortal / but daily he is sacrificed in the private to a remembrance of his death / and as his death is an eternal redemption / thus it is an eternal sacrifice / not merely on the cross / but according to the order of Melchizedek / and the form of bread and wine. In summa / as the lamb in the passage of the Jews / once a year is sacrificed. Exodus 29. This has meant that the offering of Christ on the cross is a certain / thus also the lamb daily have been sacrificed. Exodus 12. Numbers 28 also meant the daily sacrifice / so in the measure described: then a typical figure of the law / that which in the New Testament means / so Paul says / to the Hebrews 10. The law had the shadow of the future things / etc.  
+
+Butzer.  
+
+[D]As the schoolmaster / the Hebrews have shown that they are still in belief badly reported / He does an injustice to the doctrine of Paul according to Hebrews 10. Remembering however the forthcoming day / in which he flees / etc. Until the end of the chapter. Moreover / that he means: Paul now has the sacrifices of the old law / wants to demonstrate them strongly / and will with that / as he offers other sacrifices / his measure of sacrifice not also rejected / so he wants to show from this syllogism / Christ had with one sacrifice / the sanctified / that is the elect of God / in eternity completed. Thus are the words of the Apostle.

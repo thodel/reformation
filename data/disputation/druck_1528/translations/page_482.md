@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_482.md could not be located</s:message>
-</d:error>
+Page [X]  
+present would be / the one imagined / that I / or the others my beloved-  
+brothers / and collaborators in the word to the cost / something taught or  
+preached had / the now here disputed article half / that un

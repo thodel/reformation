@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_36.md could not be located</s:message>
-</d:error>
+The first heaven and that you unbind offerings, that will be unbound in the heavens, John in the ... chapter. So the Lord said to Petzo: Simon John, do you love me? Twice it was answered to him: Yes, if you know that I love you. And twice it was said to him: Be my lamb or shepherd. This scripture I hold ... and modestly ... that Peter, as another succeeding governor of Christ, having received the power of the earth to bind and unbind, to know and teach, that goes to the widows to ... forbid ... I have foreseen ... granted the scripture to other lesser ruling names of the chief ... is Elar in the first book of the kings in the ... chapter spoke Samuel ... or in the word of God to Saul: “So you ... were in your eyes ... you have become a chief in the slaughter of ...” Amos in the ... chapter. They first ... of the peoples.
+
+Butzer.  
+for the aforementioned scripture, that the holy word of God may be seriously acted upon, will be answered by my brothers according to order. Thus follows the preservation of the bishops, that Saint Peter’s ... may become a chief of the church. Therefore he mentioned the fifteenth chapter of the first book of Samuel, where it is shown that God set Saul as a chief of the people. So he also notes that the ... of all rulers ... set by God ... and the chief’s nature ... in ...

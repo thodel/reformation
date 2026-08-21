@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_341.md could not be located</s:message>
-</d:error>
+Seite CLXIII  
+Schlußred.  
+Do not forget the love: that we should not, in time, give up the faith / that we ought to give the love of God. As Paul speaks. If I had all faith and not the love, it would be of no use to me. Then, as we the costly treasure was flesh and blood dying / should we all go with faith / love / and hope, as Paul reminds us that we ought truly to be worthy: trust us as he to the Corinthians. If that were unworthy, it would become guilty of the body and blood of the Lord / would be followed out of that / that there is flesh and blood of Christ / then it is not there / except bad bread / the Apostle Paul would have said / become guilty of that bread / and not of the body of the Lord. The great master Ulrich Zwingli over the worldly (unworthy) thing showed / I do not take / and it is not sufficiently evaluated / by biblical Scripture / as I hope to speak of them. He has departed to heaven. He is set to the right God, the Father’s Almighty / imagined thereby / he may no longer be by us on earth / be liable. Argued therefore he may not be in the Sacrament: also here Marti Bützer later said / Christ may not at once be alive in two places / answer I in / that it was not well considered / that the Almighty God / as through the holy Evangelist Luke shown again the angel to Mary spoke. It will not be impossible for God all will. So he introduced as he says / to the righteous God / we also say: but that he now by us may not be alive / let us not delay / then we have printed Scripture. Acta, chapter ix. As Paul from Jerusalem to Samascon wanted / and there he nearer Samascon / had in the surrounding a glass from heaven / and so many ...  
+
+(Note: The transcription contains numerous lacunae and orthographic irregularities; the translation follows the source wording as closely as possible.)

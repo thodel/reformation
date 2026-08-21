@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_402.md could not be located</s:message>
-</d:error>
+Seite XCIII  
+The sixth half he alone is a mediator between God and man / Christ Jesus / God and man at the same time, Timothy at the i. through which we alone may come to the Father. John at the xiii. to the Ephesians at the i. Sarum we in all our considerations / and we invoke / to him alone we should run / call and shout, as he then admonishes us. Matthew at the xj. Then he is the only one / in whom the heavenly Father has his good pleasure / Matthew at the xvii. Sarum no other should be called / to a discourse of us believers / then he alone. They now wish contrary to so many diverse hells written our one mediator and saviour Jesus Christ / now for a long time has sat beside himself / and on every foundation of Scripture / not only fourteen helpers of distress have been devised / indeed with a certain miserable little picture / one has sought comfort and aid / and the whole world has become full of idolatry / then the bishop and priests have been little esteemed / indeed always judged and confirmed / therefore we are the cause / this concluding speech / as you have heard it to be preached.  
+Hans Wächter von Schenkenberg, Purßmann.  
+
+Ewirdigen fromen Christe(s) had the Kilcher of Brugk / again this article publicly preached. Which I then opposed / after the order of my gracious lord’s mandate / which at last also reached them / therefore I in order / and desire. Where he would still hold such opinion / his basis of causes to show / so I will give him a friendly answer. Thus the content of his sermons / trungen on this request of calling the blessed / initially up to the first book of the Maccabees.

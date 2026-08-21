@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_239.md could not be located</s:message>
-</d:error>
+Seite CXII  
+
+Schlußred. CXII  
+
+Orally the bread and that at the place where they describe the night‑sign: then this is useful otherwise is / neither to be proved / each one by itself (idem per se ipsum to be proved) our span is / whether the word / That is my lychnam / must be evidently and substantially understood. And so our counter‑argument by the same word (as I think) cannot be sustained / thus there is a word of the verification / but there is no verification of the sacrament / of the one whose span is. And thus the same place should be verified / a verification is / so that it is verified with the words / with which they this aim.

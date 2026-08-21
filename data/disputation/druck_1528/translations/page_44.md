@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_44.md could not be located</s:message>
-</d:error>
+Dic erst losen / sünd verzeihen und vorhalten / ein Ding ist / so bekennend ihr mit uns / das Marthei yvj Capitel Petzo die Schlüssel verbunden / und Joan im yy. Cap geleistet / darum aller Span und Erafft hier hängt / was bindet und lässt Petro zugeben / nun gibt es nicht zu dem ein Haupt sei / dann alle Apostel haben gleiche Dienstbarkeit zu binden und zu lösen.  
+Sarumm sage ich christlichen Brüdern / das Binden und Lösen / verzeihen und verhalten nicht anders ist / dann lehren das Wort Gottes / wie predige das Evangelium Christi. Das sind die Schlüssel / das ist die höchste Gewalt / der Petro und allen Aposteln gegeben ist / welches alles weder ein noch kein Apostel zu einem Haupt macht / allein ist Gott der eigene Gewalt und dadurch die Sünde verzeicht.  
+
+Esaie pliij Cap. Ich bin / ich bin der da v  
+chilget deine Bosheit / und deiner finden wird ich nicht mehr bedenken / ummein willen / Petrus aber und die Apostel / verzeihen die Sünde durch Dienstbarkeit des Wortes und Verkündigung des Evangeliums / so sei den Gläubigen zugesprochen Hand / durch Christus ihre Sünde verzeihen / und den Ungläubigen sind gebunden sein. So aber Christus gibt Petro und den Aposteln die Sünde ver-  
+binden / losen / gleich als ob sie es taten / ist dem gleichen das Jeremie / am ersten Cap. geschrieben steht / da Gott spricht: Nimm war / ich habe mein Wort in deinen Mund gegeben / das du zerstörst / zertrennst / und pflanzt. Das gibt Gott dem Propheten zu / das aber er allein tut / und in was Gestalt der Prophet zu dieser Sache tut / wird hieraus vermerkt / so Gott spricht ich habe mein Wort in deinen Mund gesetzt / bedeutet das der Prophet lehrt wir strafen folgen / wird aber dem Wort den nachträglich gebe / also auch hier so Christus spricht das

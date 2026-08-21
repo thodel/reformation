@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_118.md could not be located</s:message>
-</d:error>
+Seite [X]  
+The first let there be every Christian … as the pastor’s truth and yesterday’s … compared and caused me … his word … which the writers have placed in the Acts …  
+
+Meyſter Niclaus Chriſten  
+Senger von Zoffingen.  
+
+IN the name of our beloved Lord Jesus Christ may God the heavenly Father, through the grace of God, the Holy Spirit, true, righteous, Christian recognition of his holy word and divine Scripture, venerable, mighty, noble, steadfast, trustworthy, wise, loving, gracious Lord, and good friend also from … Christ as they are gathered here … divine recognition of godly truth … while I do not understand … decision of learning … for this heavy … to oppose … then my art … the small … is superior … will … will before twelve hundred years and more … so many holy learned men … also therein … decided … give hand … but the matter yet again comes … into … while it is hard for me … of such long‑practised … our former belief … that we so in long … and possession … have raised hand … oppresses me … after the lection of the holy Peter in the first Epistle at the iij. chapter … that I also give account … for my hope and belief … so I am therefore ordered … and will that … early … and good … for me and others to further … As the holy Paul says to the …

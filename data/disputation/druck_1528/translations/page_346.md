@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_346.md could not be located</s:message>
-</d:error>
+Seite [X]  
+The fourth [section] was equally in accordance with the word of God. If I should wholly submit myself to the common Christian Church, have myself reported according to its pleasure. Concerning the transformation of the bread it is well to note that, as the Lord Oathhei on the twenty‑sixth day of the month, the Lord took the bread in his hands and then said: “This is my body.” He called it the first bread and thereafter spoke: “This is my body, that thereby the Almighty power and strength of his word, a transformation of the bread, has taken place not in the form but in the nature; through the Almighty it has become flesh: likewise his blood.” As it is well to understand, the Christian Church rightly understands the Scripture, and for a better understanding we have in John chapter six a clear exposition of Christ, where he says: “The bread that I will give you,” the Lord gives us an understanding and exposition of what it is, and says: “This is my flesh.” As if he were speaking: “The former bread was now my flesh.” What the Lord Jesus Christ could have said to us, held, clearer and more plainly.
+
+Waltherus Klarer von Apentzell  
+Pastor at Hundwil  
+
+[Initial A] After that, for a long time among us at Appenzell, as also at other places, a great division has arisen, and still: the fourth conclusion, half, and many other articles, more which conclusion speaks of the sacrament. Thus our lords and superiors have sent us earnestly for peace and unity: it is well known among men that such peace…

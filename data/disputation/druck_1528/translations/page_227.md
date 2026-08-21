@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_227.md could not be located</s:message>
-</d:error>
+Seite CVI  
+
+**Schlußred.**  
+am yvij. This is my body, which is given for you, not as the other point in this saying concerning the dead body, but for the life of the world it is to be given; then my understanding is that the word “bread” (which I will give) is first of all the true bread, that it may be offered to us and become our flesh; then he will have given us his bread, which he made his own life, then at the Last Supper, when he took the bread in his hand and said, “Take and eat, this is my body,” he does not say that the bread which I will give is a symbol of my flesh, but rather that the bread I give is my flesh; and thereafter the other … so he promises that it will be given to us, that the comfort will be renewed, that his life for us through death was given, as the Scripture rightly relates to the Romans in the fifth chapter to the Corinthians in the first Epistle at the fifteenth chapter. Then he made his life from that bread and gave it to his younger ones at the last Supper, which thereafter is to be given for us.  
+
+**Zwingli.**  
+[Thus] that the word may be mediated as a struggle, he should therefore notice that it stands just before the words. I am the bread, the living one, which has come down from heaven, which is eaten from the bread, and the one who eats it will live eternally; this now is to be understood here, as Christ has spoken the word “bread”; thus he explains himself with the following words: καὶ ὁ ἄρτος δὲ ὃν ἐγὼ δώσω — “the bread which I will give to you”; in which literal sense one holds that he, by means of an epanaphora, repeats that he will give the true bread, that he may give his will…

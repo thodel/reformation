@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_87.md could not be located</s:message>
-</d:error>
+Seite [XXXVI]  
+**Schlußred. XXXVI**  
+auch keiner, wie hoch gelehrt er sei / schuldig und pflichtig sei / alle Artikel und alle Stück / und alle Schrift zeugen und geglaubt / unstrittlich. Es ist aber genug dem einfältigen, dass er glaubt mit gemeiner christlicher Kirche / deren Herr zugesetzt hat / seinen Geist bis zu Ende der Welt.  
+
+**Am zåchenden tag Jenners.**  
+**Martinus Bucerus.**  
+Die Gnade des Herrn / sei mit uns allen / Amen. Sie wollen gestern zu einem Beschluß Gott dem Herrn danket haben / dass unser Gegenpart / so Schrift los gehört ist / und ermahnt jetzt wieder zu kommen / unsere Antwort zu zeigen / und sich aber der Doctor beschwert hat / so will ich die selbe Rede in Schrift verfassen / den Notarien nach meiner gnädigen Herrnordnung einlegen / also weiter / zu dem allmächtigen Gott sei Lob und Dank / fromme Christen / dass er seine Wahrheit bei uns so herrlich beschirmt / und gegeben hat / dass dieser so hochgelehrte Doctor / in seiner Wider uns / so langer Rede irgendeine Schrift nicht gebracht hat / sondern allein über Fehler der Menschen / wider meiner gnädigen Herrnmandat begreift uns dem einfältigen Zuhörer Verdacht zu machen / so mit Schrift von Gewalt der Kirche hier sollte gehandelt werden / liebe fromme Christen / laßt euch nicht irren von Bekümmern / hier nach wieder unser Antwort darauf zu zeigen / wird ihr hören / wie Schrift und Wahrheit bloß …

@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_66.md could not be located</s:message>
-</d:error>
+Seite [VXX]  
+The first wave said that the pastor should see that the others are bound by this place, that the Reverend Thimotheus, chaplain, has no special or other power or chief authority to claim.  
+
+On the ninth day of June.  
+
+After this, when the disputation was held by several, somewhat in part, it was observed that by the table of the preachers many learned men were seated, and by the others none at all, and therefore it was silent. For this reason, having the presidents of order and the senior magistrate and council of Bern opened and said that those who would dispute the first article should join the choir and a suitably learned and eloquent man be chosen, who would speak the discourse, and the best among them should sit with him, help him and advise him, so that the matters might be advanced. The same was also assigned to the preachers, that whichever side they might dispute, they should, on both sides, provide the necessary summary in the fathers’ words and leave the other part, and that in other articles likewise the same usage should be applied. To this end they should also be instructed, advised, and sent forth. And if anyone should wish to speak further on this, no one was to be struck down.  
+
+After this opening by the aforementioned presidents, the worthy and highly learned Doctor Conradus Treiger of Freiburg in the Upper Land, Provincial of the Augustinian Order, was called, that he might not be altogether absent, that he might be summoned together with the preachers from Strasbourg, that he might come to the bridge and have a free place and standing to dispute.  
+
+Thus, as the presidents have shown, and those who understood the closing speeches to refute each other gathered together, and some have ordered that, in all their names, they be bound. The aforementioned Doctor Conradus Treiger, Provincial of the Augustinian Order, having been called to the disputants, began with a long speech. When he then learned that the two preachers from Strasbourg had also been summoned, he especially described them, that they should be present, not from his own higher magistracy and council of the city of Freiburg, nor the bishops of Lützelburg, who had sent them for the purpose of disputation.  
+
+BERN

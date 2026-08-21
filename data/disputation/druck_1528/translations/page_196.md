@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_196.md could not be located</s:message>
-</d:error>
+Seite [X]  
+The other  
+the scripturally learned men from the stool of Moses / hear that he has not meant / that they should accept everything / that they teach / he would have them otherwise before the year empty. Matthew 18 not warned / but had spoken of that they are under the law of Moses / those were such burdens / that St. Peter himself says / neither they / nor their fathers could bear them. Actus on the 15th. Finally that the bishop throws me so often / the Lord does not let his churches / the holy law also empties them / we give everything to / with the addition / that the churches among the believers are not the ones who abandon the faith / are known / we empty & attach a tuft / as they are / those who forbid the spitting and the ... / that says Saint Paul not with us / but how firmly the Christian church ... / it has been said before.  
+
+Anrüij. day Jenners.  
+Bischof.+  
+
+[I] In the name of Jesus / Amen. The elders answered / wise / and all your ... formed Christians / yesterday I held several speeches to preserve / that the Christian people were guilty to hear the prayers of the holy common Christian churches / namely Luke chapter 10. The also hear / he hears me / ... I was answered / with a drawing speech / as if that alone was said to the preachers / I do not mention the same exposition / because it burdens me / one should hear the preachers / so one should also be ... and ...

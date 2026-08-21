@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_317.md could not be located</s:message>
-</d:error>
+Page CLI  
+Conclusion Speech CLI  
+unworthy is / not at all / Which the bread is unworthy.  
+Further follows / By drinking becomes / the drink of the Lord unworthy: but it is not drink / not blood.  
+But this literally / worthy / is as much by Paul and Luke II as / sent / comely / or belonging / that is recognized / that here unworthily / not understood should become / that the man now wishes to be sufficiently worthy / to the smallest gifts of God. Therefore also the / but the light of Christ spiritually / which indeed / much another eat is / neither would be bodily / thereby is saying / that God has made worthy. From that now full / (worthy eat) nothing else is / with the right faith come. Unworthy eat / but nothing else / neither without faith come / but the faith some one ordered is / not believed / that flesh and blood bodily then be eaten / that enough is fought / that we therefore have no misunderstanding of God’s word having / except faith / the living sun of God with its death has redeemed us. It follows further / in the words of Paul: He is guilty at the light and blood of the Lord / not that he unworthily has eaten / except / that he has given himself a false ...

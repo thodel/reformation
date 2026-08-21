@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_295.md could not be located</s:message>
-</d:error>
+Page CXL  
+Conclusion Speech CXL  
+
+Think that one who does not act out of faith / acts with the word of God badly. That refers to the word of the Lord / Matt. v. ca. You also said / Lord / Lord / we have / in your name spoken: in your name the devil is cast out. So it is, however, from the true faith not / then they are secretly oppressive servants: then the younger Christ himself the devil from the possessed / not cast out / out of the ways of disbelief: as the word Matt. xvii clearly indicates. Also John in chap. xiii. Truly, truly I say to you / he who believes in me / the work as I do / will he also do / in greater things / through the faith altogether / as we also have used / Luce. ix. Those who, by the faith of Christ, cast out the devil. From Abraham / bewildering us the Scripture: then that God alone in our hearts / through the faith / have we to the Epistles at ii. ca. And forsake us / as our lord in brothers / off the Acts.  
+
+Zwingli  
+
+Our brothers, however, have no other Scripture / then our opinion defending / namely that the effects or fruit / not of the various words being / especially of the faith. So they themselves recognizing / that the sin … therefore the devil not having been cast out / that they do not believe … (which is for us) they have used the word of the casting out: I command you in the name of Jesus / which is a word of the covenant / out of the mouth of Christ: In my name they will cast out the devil / Marci. xii. chap. So they now, having used the word … and … that the casting out has followed / so follows however the …

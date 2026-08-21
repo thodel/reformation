@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_478.md could not be located</s:message>
-</d:error>
+Seite LXX  
+The now the believers served / By us however as we your other beloved hand / neither the only belief / that we are free / as is heard. So the prophet does not forget us otherwise / nor are we truly Christians in belief / so we also must live Christianly / then also / our Lord Jesus Christ / does not otherwise unite us / as he says John v. “As my father has sent me / as I after the will of the father’s life / also. Whoever sends me that is / entrusted to me / should also be to me according to life.” The belief of Paul / does not strike against us / but Paul had … the weak‑willed / equated himself / a belief or a “wall‑fart” (i.e., a falsehood) to Jerusalem / so that the weak / would not have a great rejection from him / as Acto. vvj. especially noted will be the saying. J. Timothy v. “Leave me also / the portion of the understanding believers.”  
+
+Buchstab.  
+[D] As we are still under the old law / I do not say / therefore follow not / that we should or may do your belief / and that the same do not keep / when the two sayings of the prophet David / at the indicated places / also serve us / of which we have knowledge from the prophet Isaiah at chap. xix, as he therefore speaks. The Lord will be recognized from Egypt / and the Egyptians will recognize him / on this day in honor there will be god‑fearing sacrifices and gifts / will be pledged to the Lord in belief / and the same performed / zc. That this prophecy serves our Lord Jesus Christ. We have knowledge of Hosea at chap. xj / and Matthew at chap. ij, so it is written there. Of Egypt I have called my son. Further, that we be indebted to the next, keep belief / will follow…

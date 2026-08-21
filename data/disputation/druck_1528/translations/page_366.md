@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_366.md could not be located</s:message>
-</d:error>
+Seite CXXIII  
+Die fünffe  
+Zwingly  
+
+[E] It is enough shown / that they are for and for God’s word to do / that it has not: it stands alone / he has wheat and bread brought for it / so they think thereof. And offered / but here this literally / Enim that is (Then) stood / that is not / neither Greeks nor Hebrews have and if it were the same as the Hebrews. So it is nevertheless no different / than an ekbâsis a passage / to describe the persons / as Genesis in chapter viii. Actually invented is. That therefore is shown / he has not offered wheat and bread / we therefore speak. If they understand / from wheat and bread / that he here Abraham brought / so we say / that he has not offered / and it is now the petition of the principle. So if they however understand the other sacrifice times / where they will prove / that he to other times the supreme God / not have offered wheat and bread: then the Negatiuam may not be preserved. That does not turn against us / he has wheat and bread offered or not: then as they themselves know / so Melchisedech never offered himself in death / and is however a figure of Christ / therein follows / that as Melchisedech offered / that it was what …

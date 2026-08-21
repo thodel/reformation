@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_100.md could not be located</s:message>
-</d:error>
+Seite [X]  
+The first that he should judge the guilty / also every Christian must acknowledge / then according to the command of Christ / so each should punish his sinful brother / that he can now not lawfully do so / he has then judged him right and lawfully as a sinner and (jurigen) judged.  
+Secondly / the will of human in‑red / By the simple / a semblance would like to have / as if we might hope for something in faith / where the matters of faith / were decided by a common council.  
+So I, dear Christians, think / thus I today hold of divine Scripture / and have clearly shown it. Namely the correct understanding of the word of God and something of faith / through no deceit of men who themselves are liars / may be promoted / but we must, through the spirit of God in the heart, each for himself be assured / this now meets the eternal all / whom God has appointed to eternal life / then he calls such / makes them pious and blessed / to Romans … Cap.  
+Moreover, as we have said today / a church in some places may misunderstand the Scripture / while the other / as the story of this saying / that is love / not only between the church / at Wittenberg / and that of Zürich / but also many other … where the trust of the one … Jesus is set / there has been eternal life / Joan. at vj. cap. … may such … finally not harm / the trust of God / which is the chosen life / will be … through God’s spirit become complete / and never again … take.

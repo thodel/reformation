@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_324.md could not be located</s:message>
-</d:error>
+Seite [X]  
+Die vierte  
+wir/that this word has another sense/not merely/  
+has been used: and thus from the human nature of all Christians/  
+also with the testimony of Paul/in the first Epistle to the Corinthians at chap. v. The Easter lamb in the Old Testament/a prefiguration has been the true Lamb, Christ/which not only led the Israelites out of Egypt/but also the whole world/by the power of the cross has condemned/has fulfilled. So we recognize/that the holy spirit/through which the Scripture is written/in the other (second) Peter at chap. j. in the mouth of Christ Jesus the word was used/which he also formerly used in the prefiguring thanksgiving: thereby he was found in all his words as a man.  
+
+Now besides Exodus at chap. xii/also: and thus the Easter lamb is also eaten: the land should be good/our foot on our foot/and [something] in our hand: it also becomes with [something] eaten/This is the crossing of the Lord. Here we seek/that the Easter lamb is not the overleap/or the crossing/but the feast or high holy day/on which one again thanks God for the crossing/that he has overleapt and the Egyptians first‑born were slain/that the lamb is taken/the crossing/therefore that it is a common measure/or a different/or sacramental [thing] which people commonly use among each other from the same thanksgiving/that Hh. can [do] this word/Just/Hebrew/הוּא/at the place thus much/as: it is a remembrance: it is a figure: it is a purpose/Darus we truly see/that also the contrary word/That is my lychnam/needed otherwise either the feast and the bread/that at the feast of thanksgiving were carried/with the measure taken

@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_286.md could not be located</s:message>
-</d:error>
+Page VXXXO  
+The Fourth  
+
+We guard the Acts and the Christian reading. Yet we have a word which, in a certain beneficial assurance, as John at the chapter before gave, we therefore answer fittingly, and in the words of the night which will be given to you, which will be forgotten for you, in such sentences we understand the promise—namely, with the words of Christ and with the earthly (so that it is received in the right spirit and faith) the comfort of souls. The instruction of John in the chapter is of no use; if we wait until his time and leave it unanswered, then in the renewal of the life of Christ our comfort will not arise or come. What comfort then have we in the sacramental bread (as they take it)? The other matter, however, will be drawn out briefly; we therefore … the Christian reading.  
+
+Zwingli+  
+
+[Initial D] The word shown. Which will be given to you, which will be forgotten for you; while generally it is not … that here is promised … the earthly food / consolation or … then they also … against: then they … the body of Christ … and his … for our sin in death will be given. Now his death does not take away sin … … so in … trust … Now trust is a spiritual work … that also alone comes from the spirit … therefore they … principle … So if however … it … thus … may not comfort us. That … we … give … that … belief … so … the secure … that one … no other … earthly … assurance … ask … That … show

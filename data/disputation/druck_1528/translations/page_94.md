@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_94.md could not be located</s:message>
-</d:error>
+Page XIX  
+and secten/we preach however one should only believe in one God  
+only one head/Jesus Christ recognize  
+only according to the holy Scripture live/in according to the five articles of the old Christian belief set behind/all side‑grown empty article of use. Now however our opponent/a certain head has the bishop now and newer/now middle and enough thing that I, on such scriptural basis, will give a short answer to be recognized/who arranges separation/so stands all episcopal [things] that the Mass is the best good work they/now can however such a law not fulfill/we however are empty according to the Scripture/the youth and man young and old/all would have good works equally may/and show them the one brotherly love/a master in all good works that makes everything one. When you also well know how high they are in their indivisible character of order/that is an unvanished self‑drawing that they intend to have before the laymen/and therefore spiritually and worthily then the laymen should be praised/what should one say dear Christians/which order has not a but a false god raised (I myself have been spoken of) and the merenteyl thereby in the preacher’s order a time‑long open/that they forgive/Saint Dominic has from our dear lady obtained/that no preacher may ever be completely condemned. So one finds in printed books/that Saint Francis yearly all parsons from the five‑fold name/are that not great advantage and exception of common believers and true Christian belief: in short I will let fall/such a piece perhaps also well known to the provincial/we may make God in all good.

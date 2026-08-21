@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_58.md could not be located</s:message>
-</d:error>
+Seite [X]  
+The first  
+Warthei at chapter viii, which also Paul to the Corinthians  
+as he has/when he has in the first Epistle at the v. chapter. I indeed (he says) as one who is not present in the flesh, but wholly present in the spirit. I have already concluded such things in the spirit, concerning the one who has done such things, in the name of our Lord Jesus Christ, in the assembly with my spirit, and in the power of our Lord Jesus Christ, to hand over the devil to the corruption of the flesh, that the spirit may become blessed on the day of the Lord. Here he says that Paul does not act from his own power, but rather in the name—yes, in the power of our Lord Jesus Christ gathered together with one another the public listeners, having banished them; thereafter the pastor may no longer receive a particular private power, Petzo, the bishop and the bishops, to be polluted.  
+
+Pfarrer.  
+When Lord Berchtold was instructed/also spoken, it was said how Christ Jesus had instructed his apostles to proclaim the word of God for the remission of sins. And he had likewise taken up a similar duty of a parish or church hearing; so he speaks of the power of an eternal church to give, in which he, as I have well liked, uses the power that Paul employed, which I point out to give to the church: then Paul has used the same great power—not without—Christ has likewise employed such power; therefore it will not be retained, that the power so employed is to be released and bound, that the church may be upheld. So he…

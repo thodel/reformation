@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_119.md could not be located</s:message>
-</d:error>
+Page 52  
+Conclusion Speech LII  
+
+theorem of the fifth chapter, which is to be discussed among one another in the spirit of humility / I ask you all, my lords and devout Christians, as you are gathered here, by God’s will, what my opinion then is, only to turn to me / whether I should speak something that would not be pleasing according to true faith / then I will defend myself and address the public before God and the devout Christians / that I, with knowledge and will, or with error and stubbornness, do not wish, nor intend to force anything contrary to the true Christian belief, which is the right understanding of the holy Word of God / if this has happened to me (as God before) I now wish to have it refuted / further I also defend that, through my disputation, the common Christian belief may be awakened / I also wish to dispute for no one else, but only for myself alone.  
+
+It has occurred in several answers that have been disputed, from the passage Matthew 18, where Christ spoke to Peter. I would give you the key that you bind upon the earth; that will be bound in heaven; etc. Then I have understood two points in the answer that I cannot yet accept. The first, as it were, Peter was given the key and power, but not especially given; rather, together with all others John gives in chapter 20. According to the teaching of the holy Peter in the other Epistle, chapter 12, God truly …

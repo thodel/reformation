@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_293.md could not be located</s:message>
-</d:error>
+Seite CXXXIX  
+**Schlußred**  
+
+Man will, dass der Same des Wortes Gottes vielfach in die unfruchtbare Erde fällt und erst im vierten, vielfaltigen Fruchtwerk Frucht bringt. Dann haben die Apostel also gehandelt, sie haben nicht aus eigenem Antrieb, sondern im Namen dessen, was in der Kraft Gottes gewirkt wird: gewiß ist, dass die äußeren Worte als Mittel und Instrumente dessen sind, was Gott will. Wie er sagt durch die Propheten und Mose: „Ich bin dein Gott.“ Solche Verheißungen in den kurzen Worten führend und bringend mit Gott und all seiner Güte, so dass man demütig glaubt. Den Rest überlasse ich dem christlichen Leser.  
+
+**Zwingli**  
+
+Alle Worte unser­er Wider­sprecher, dienend daher, dass alles so beschrieben ist von Gottes Wirkung bewirkt und nicht von Kraft oder Gesellschaft des äußeren Wortes. Darum sollen die äußeren Worte, Mittel oder Instrument, genommen werden, dessen, wie Gott will, wir das nicht verstehen; dass sie das vollbringende Instrument seien, sondern dass die Worte von Stimme oder Buchstaben allein den göttlichen Willen anzeigen. Wir haben in den Geschichten der Apostel, im XIX. Kapitel, also: Während einige Söhne eines Juden und einer der übrigen Priester waren, waren es sieben, die, indem sie sich beim Namen des Herrn Jesus beschwerten, von bösen Geistern besessen waren und sprachen: „Wir beschweren euch durch Jesus, den, den Paulus predigt.“ Da antwortete einer der bösen Geister einem Besessenen: „Ich kenne Jesus, ich kenne Paulus, wo sind sie?“

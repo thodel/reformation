@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_40.md could not be located</s:message>
-</d:error>
+IIX  
+The first  
+Bishop matter.  
+M. Arti Butzer has begged me with a long speech /  
+who would wish less enough. Who … makes / the … reasoning.  
+I have, from the regiment and Peter (who understood me correctly), spoken of the universal governance of the churches at the beginning / so comes Marti Butzer from the inner regiment. Therefore I have at the beginning added / and will also have added / that Christ therefore … some head of the churches. I have, however, the universal governance half / I hope … enough written in these … sayings or three. Sir I will give the keys of heaven / … and … my … also the … Christ our Savior to all … younger … said … after … John; in the last chapter. Taking the holy spirit / to those who have been forgiven / they are forgiven / to those who are kept / they are kept / with those sayings I hope I have concluded. If such a state‑holder Christ … with so much force endowed / who does not alone understand / or in himself decided / the other governance that then … nothing else / when over the universal work / especially also over the inner / when the same through acquaintance or universal corruption / the same state‑holders or governors … becomes open. I also … once / two reported abuses / neither … nor … have been held accountable. It is, however, clear / that sins are forgiven / or not forgiven / the conscience or feeling meets. Therefore I hope / I … that St. Peter’s inner governance over no man or … further … is … by those sayings.

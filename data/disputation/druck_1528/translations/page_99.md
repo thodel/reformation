@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_99.md could not be located</s:message>
-</d:error>
+Seite XLII  
+
+Schlußred. XLII  
+or they are gathered in his name / what one may first consider / concerning a common council / then no scripture is present / that thus the hope may be greater / therefore the Lord, this more, by naming his will, thus must / also every believer should feel and not be / that the Lord is with him / that he may speak with Paul / I do not live / I do not judge / I do not speak / but Jesus Christ who does everything in me. / In the responsibility / of yesterday’s decree of the Provincial / I have today left at this place / that he again the whole word of our Lord Jesus / as he calls the brother / so that concerning the related warning he will not improve / the church to show / has forgiven / that the church / not only a special assembly / but the whole common church in the council is gathered should / and has to give / that in common sins indeed not necessary is / a common council to await / but it may be every community of God / such punishment. / But if it concerns the belief / then the matter is not through any community / but a common council to be taught / so that this church does not take a single opinion / and the other opposes it / and thus will be directed to separation and division / as he knows from the example / the churches of Wittenberg and Zürich are thus half of the Sacrament / miserable are they / attached. / Here is my answer / at first / that his decree without scripture is / therefore this place does not answer / the text is clear / that it speaks of the congregation / which the sinful brother may be indicated by any one / so the Provincial himself under the name / sin / of this place also Kätzery and false doctrine understands / therefore  
+Z ij

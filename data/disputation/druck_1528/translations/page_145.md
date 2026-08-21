@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_145.md could not be located</s:message>
-</d:error>
+Seite LXV  
+**Schlußred**  
+gesagt: Selig sind hier die, die ... zc. Die Gleichnis vom weiten Kürzlein / Johannis am XII. ca. hat angezeigt / das nach dem Tod Christi das Evangelium des Reichs / erst recht anfang soll / wie auch beschlossen. Also findet es sich / dass unser Herr Jesus Christus in aller Weise vor der Kirche gewesen ist / und ist nicht. Und er ist nicht durch das Zeichen des Vaters eingeleitet.  
+
+**Senger.**  
+[H]Jemit lieben frommen Christen / will ich mich dir sputtern dieser Schlussrede / auch andern nachfolgenden Abstand / und anderen so geschickt sind als ich / statt geben: dann, so man in dieser Disputation / diese Schrift der heiligen Lehrer darf einführen / dann allein biblische Schrift / und auch den Verstand biblischer Schrift / nicht bei den heiligen Lehrern suchen / weiß ich nichts hier zu schaffen. Darum beurteile ich diesen Handel dieser Schlussreden halb / auch meine eingeführte Meinung / Gott dem Allmächtigen / auch gemeiner heiliger christlicher Kirche / was die hierin glaubt / halte ich an im Anklage / begib ich mich auch dem selben Zuglüben: dann ist verheißen / und geben ist / der Geist der Wahrheit / sie ist auch / in der ersten Epist. zum Timotheus am III. Kapitel ein Sul / und Grundueste der Wahrheit. Christus hat auch / (dabei am letzten verheißen / er wolle selbst bei der Kirche sein bis zu dem Ende der Welt / darum er ist nicht lässt jrrgan. Hiermit begehre ich alleweg Gnade von Gott / und Erleuchtung seiner göttlichen Wahrheit / das vergleicht uns Gott allen / Amen.

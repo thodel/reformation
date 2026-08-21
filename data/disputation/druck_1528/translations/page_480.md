@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_480.md could not be located</s:message>
-</d:error>
+Seite IIXXD  
+The ninth address the inner one speaks, as Paul is utterly broken, as to the Hebrews in … the argument, from the lesser to the greater, one should keep the oath to a man, and likewise keep it to God; this applies here: then it would be followed. One should never trust any man, so one should not trust God either. Therefore the belief that stands in the one true God, the oath explained, of those we speak of here, and also openly the same belief, the oath that we bind to the neighbor, if this gives the belief that the man is faithful and was against his neighbor, then it does not follow to argue, as before. For the other part we refer ourselves to the Scripture itself and recommend the same to the Christian reader.  
+
+Johannes Büchſtab+  
+Der Spruch “Actus” sagt: that one may be more … God … the man … may not understand the consequences. And in brief ways I also apply my part to the Acts and to Christian readers. Thus says: Paul has spoken three times, 1 Corinthians v. 5. How God has called a man, so he walks.  
+
+Ecolampadius+  
+Der Schülmeister mag nichts beweisen durch den Spruch “Actus” von: “Sane in a certain valley where something was called to a man, that to a noticeable injury of the man serves, he should not keep it.” Thus also, in the oath that God weakens, something is invented, that the honor of God is disadvantageous, is also unblamable such things are to be held. Further after the saying of Paul, from the Epistle to the Corinthians, chapter 5, where he says

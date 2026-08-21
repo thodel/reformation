@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_310.md could not be located</s:message>
-</d:error>
+Page H.V.  
+The fourth  
+between me / zc. But it should be that every understanding one who has exercised the eyes of the mind / has a place of Scripture in similar cases that the others learn to understand / and therefore one compares the ceremonies against ceremonies / and Lucas and Paul / who indeed speak more clearly / and plainly speak. His chalice is the new Testament / and therein also says / As a thousand in my ... / give it with other words the explanation to us in the hand / or my lord pastor says / what he calls the new Testament so that the conscience may be assured: then if he thus the clear saying also obscures / with his unexamined explanation / thus he will not assure his conscience / nor ...  
+
+But it will be invented / that the saying is clear for us / and the Apostles indeed according to our understanding are comprehended.  
+
+Pfarrer von sant Gallen.  
+
+[V]erantwurtung myns herrn Doctors / über min intragne red / wil so durch jn fürbracht / ver laß ich den zůhörendē vün läſern / sölichs zeerken nen. Of the literal Enim / with comparison of the saying of Paul / I understand through the word Enim / so it is interpreted / (therefore) it is an adequate explanation of the words / so in one sense and understanding a like matter should be understood / from the figure Genesis at the vvij. Chapter. Where stands the figure as previously shown / in my first speech I let it remain: Off the saying Luce. His chalice is the new Testament in my blood / is a truly ... well ... that it does not speak in my wine / it is also customary that the chalice / the Testament of Christ may be taken as a confirmation / and therefore from the word that ...

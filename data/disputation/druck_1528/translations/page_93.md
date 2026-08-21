@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_93.md could not be located</s:message>
-</d:error>
+Seite XXXIX  
+**Schlußred.**  
+
+Christians testify. Yet it confuses the true humanity of Jesus Christ with his divinity, and on that account it is acted upon; so the honor of God and other devout Christians compel me, that we must distance ourselves from that place, from Luther. As we are also faithful to God and not to Luther. Moreover, as long as he preaches that Christ Jesus is our only salvation, while we keep for our brother and endure this year, then only God, and not we, may be delivered from this. But those, and their court, utterly reject us, so that we are [that] which the Father’s Son Christ, and not Luther, nor the Pope, has finally set forth as division. Our dear brothers are well satisfied where one is in the sum of belief with us, namely that we are all nothing, and without God through Christ alone will become pious and blessed. The old holy teachers, from free will, and other [things] ... in Scripture argued ... therefore they are rejected by no man’s reason ... because finally the honor of God is sought. It is also a heartfelt sorrow that men separate themselves from us, sects and parties are made. (My dear brother (the late Olrich Zwingli and Ecolampadius having freely thought new seed, which has been called after them. This is also known from Luther, therefore the opposing party so‑called Ecolampadian, Zwinglian, and alike. We wish … the only Christ … loving devout Christians … that one may … accordingly as we learn … and not thereafter that doctrine and evil … so that we may … we make … council K III)

@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_247.md could not be located</s:message>
-</d:error>
+Seite CXVI  
+**Schlußred.**  
+
+The sayings here are somewhat more obscure / may be recognized only with difficulty. So I now wish to hear from my brothers / on which words they would like to hold fast / and thereafter answer further.  
+
+**Pfarrer von sant Gallen.**  
+
+In answer to my lord Doctor concerning the word *Warthei* of Paul / he indeed presents it in the year … (ca. …) as it should be rightly understood: the spirit and the mind I am also, as has been previously indicated / But my lord Doctor brings no other writing concerning the word of the *Nachtmal* / which he seeks to dilute; this does not please me much. That he now leaves the explanation of the word *Sacramentum* to us / in my opinion the Scripture is clearly evident / that we have no burden that the Lord’s word of the *Nachtmal* should be called a sacrament (as they hold it) / such a thing is also free for us to call a testament of Christ, the Lord’s evening‑meal, and the like. From the introduction of the *touff* / the same has the light of God’s promise / its trustworthy insertion. Moreover, the Lord’s *Nachtmal* was held, strengthened, and trusted / as I would not have the word *Sacrament* be withheld: one might throw against it the word *geheimnis* or the word *mysterium* or the word *Sacrament*, which there is Christ, to the Colossians in the first chapter. My lord Doctor very clearly knows the difference of the sacraments in the New and Old Testament: which in the Old Testament are figures and interpretations; now however in the New, so much Moses and Christ differ, and should be regarded. The old sacraments should not be closed.

@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_128.md could not be located</s:message>
-</d:error>
+Page VII  
+The first Christ, a hard shepherd / and not only a shepherd / but very much appointed / to the Ephesians in chapter 4. In the histories of the Apostles in chapter 20. In the first Epistle of Peter in chapter 5. Therefore I have a writing against our closing speech / so it may be brought.  
+
+Master Jacob Edlebach.  
+
+[Al]s Lord Berchtold ... to preserve Christ not only Peter / but all who have been promised the keys / and that in such a form Peter ... of that cause and the others all promised / that Peter has ... the son of the ... God / that the others now all have believed / will preserve John in chapter 5. Then Peter in all their names / said / to whom shall we go / you have the word of life / which place John in chapter 5 does not wish to test / nor preserve / that at this place / they all have gone in such a ... belief / which indeed Judas also had belief / as Christ showed John in chapter 5. Also at the same place / one of you is the fool / and if it were already so / as Lord Berchtold says / then the writing is unjust. He had spoken “you are Peter, I will give you the keys of the kingdom” / Christ could well have spoken / I will give them all to you / that however he says they have long ... my counter‑argument with writing ... say I no / especially the writing I have clearly ... ... may heaven ... not contrary ... that you however speak / if he alone had the keys / then he alone would have to be a shepherd / the writing does not allow me to show Matthew in chapter 16. Thus ...

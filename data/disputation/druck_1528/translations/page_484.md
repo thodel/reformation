@@ -1,5 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_484.md could not be located</s:message>
-</d:error>
+Seite [XIX]  
+**On the xxvj day of January**  
+**Conclusion of Herr Berchtold Hallers.**  
+
+We, the gathered Christians / as we are required / by our gracious lord of the city of Bern / to give an account of all mankind here in open disputation / to show the Scripture and, with the help and grace of God, to examine / whether we ourselves / who then from God and the same divine truth alone / have preached according to and in keeping with the truth.  
+
+Which now, through the delivered concluding speeches / after all length and the necessity of the matter, is to be estimated / in hope that it will be among all Christian hearts / so that the truth may be found with calm spirit / that we are not from high‑blown vanity / as if we had learned something else / contrary to the honor of God and divine word / to our benefit and our own honor / such truth to preach / condemned / except alone the honor of God and the salvation of all devout believers especially of the praised city and land of Bern to bring forth:  
+
+Therefore we are against God a dangerous office. / Therefore we are against God a great account is required of us / and we are granted / thus truly and earnestly / with additions and subtractions / with laughter and solemn seriousness / that the Gospel of Jesus Christ, after which we are granted by God, we bear with hardship. / And namely at the first / that we have discovered great mercy and the grace of God / Christian religion, discipline, belief and life / very differently shaped according to the word of God. / Then until now from Roman churches / episcopal power and regiment / from all foreign ecclesiastical state / learned and preached in the community of the masses.  
+
+That we not alone from Christian true piety and godliness / have fallen into all vices / together with men’s offerings / sentences and good deeds / also foreign worship services / ceremonies / earned with money / for the living and for death: / Such a measure has become tangled / confused / bewildered / and brought into a miserable, outdated habit. / That the living, eternally truthful word of God / among us Christians as fragrant and unknown / indeed yearly and perverse / at first was esteemed by many. / Also thereby all god‑fearing / and the innocence of life / according to the commandments and prohibitions of God / from young and old / was not at all considered. / For this we, the faithful, are the portion of God’s great terrifying punishment.  
+
+Thus God’s light / in all our blindness / the truth in the midst of our dark earth / the grace in the midst of our evil and fall / as a faithful, long‑suffering, merciful God and Father sent / born to us such grace not to be overcome with ingratitude / especially with great earnestness to be received / with alone with ...

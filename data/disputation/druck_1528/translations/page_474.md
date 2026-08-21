@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_474.md could not be located</s:message>
-</d:error>
+Seite XIX  
+Die nünte  
+am ix. Which one has his hand on the plow, and behind himself sees; he is not appointed to the Kingdom of God. Now it is behind seeking, as Christ here imagines, nothing else, then from the standing, that someone has taken for himself.  
+
+Zwingli  
+Paul writes not of the priests or priests of the old Testament, except of the priests of the Christian Church, J. Timo. iii. to the title. J. Concerning the vowed half we say that the vows of the old Testament, for the most part, were essentially given in substance. As now the essential or living sacrifice has been offered, so also the vows have been offered; then the end of the law is Christ. Accordingly the vow of the Nazarenes was a need; they also were a need of Christ; and it is not yet a perpetual vow, as by us the intended spiritual, unless it is temporally ordained, and one after his time may abandon the self‑order. Numeri am vj. cap. Accordingly it is known how we are named under the law; without the grace, the Christian man has no other vow, nor may he do so, neither the vow of belief, that is, where the man through belief is endowed by God. Where belief is, there the man will have no other fashion or order to pursue, nor the one in which he believes, then he knows why he believes. He will also not do a vow to God that he does not utter; then those same vows cannot be of God. So they are of the evil. Matthei am. v. and he may forgive God.

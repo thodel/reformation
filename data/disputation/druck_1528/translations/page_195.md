@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_195.md could not be located</s:message>
-</d:error>
+Seite XC  
+**Schlußred.**  
+May it also be hoped that the dwelling of Christ in the holy Christian church is so powerful that the church may be heard as one. Yet the text addressed to Thimo the Theologian, written by Martin Butzer, is directed toward the church, and there it does not speak of the church but of those who, through unbelief and error, have been estranged from the church; therefore I hope my argument stands firm and is clearly demonstrated.  
+
+**Butzer.**  
+The bishop says the saying of Thimo. In chapter iiij he does not speak of the Christian church, but of those who have turned away from the faith; we also say this. Therefore, however, his councils and prelates forbid the evil and the spear; thus it is evident that they are no less than the Christian church. On this saying we have set the matter; also on this: let it be said to you that no robber may happen to you, to the Colossians, chapter eleven, from the death onward; let Christ be left until the end of the chapter, where it will be clearly enough shown that no Christ … (the text breaks).

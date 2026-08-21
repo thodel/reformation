@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_121.md could not be located</s:message>
-</d:error>
+Seite LIII  
+Schlußred.  
+and clear. If one brings to me, according to the mandate of my good lord of Bern, an open utterance from the Gospel or scripture which shows that the opinion of Christ has been given to all who hold the keys, then I will abstain from that point. Then we also find the same in the Gospel, where Christ asked the disciples, “Where shall we buy bread, that we may have much?” John vi. cap. So Philip answered, not Peter. It also has a good form, that Peter has been fervent under all the twelve commandments of truth and zeal, and for himself has answered. As it is, the other disciples and the twelve commandments have also accepted Peter’s answer and remain.
+
+Berchtoldus.  
+Christ has given Peter the keys, that he may be in belief, in a certain way. But he, in the name of all the disciples, has answered; the text makes this clear at the question of the Lord: “When I say to you, ‘Thus has Peter in his name answered,’” as also happened in John vi. cap. Then the writing follows. The Lord Jesus said to the twelve apostles: “Will you also depart?” Peter answered: “Lord, to whom shall we go? You have the word of eternal life, and we believe and recognize that you are Christ, the Son of the living God.” Moreover, there is a higher scripture, that the Lord has given the keys to all, Johann. xx. cap., taking the Holy Spirit. (No further text follows this conclusion.)

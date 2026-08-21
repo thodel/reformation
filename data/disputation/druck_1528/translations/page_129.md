@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_129.md could not be located</s:message>
-</d:error>
+Seite LVII  
+
+**Schlußred**  
+Lord Christ Peter the keys especially promised  
+means to us a different superiority and power among the  
+shepherds / in the

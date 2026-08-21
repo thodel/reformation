@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_38.md could not be located</s:message>
-</d:error>
+IX  
+First, it is reported here concerning King Saul, … in the same … the precious … so he says to all Scripture … that Saul the king took a head … proper … and may be accompanied … when Saint Peter or his … or all his successors come. He alone … the … of his personal government … and his force … all … the secular power … which also from God is something greater … and worthy of a certain name … when the vicariate or stadtholder office … the bishop … is thought … with enough … Saint Peter or his successors cannot be called higher … so, however, a true Christian, knowing that the spiritual rule … in both laws … is set … higher in dignity … as the secular … … Paul … as he … … the other servants … any just creator … also … servant of God … first … that no one belongs to the Church … the newly born … I understand … those who are without sin: the spiritual and well‑made … the same … Marti Butzer … for true Christians … says that … the same are the Christian Church … the sinners … decided … says … that the same no one may … love and other … (I do not know how he … told … in the congregation) give … I … all.  
+
+But it is not sufficiently answered concerning the saying of Matthew … chapter … “What you bind … is bound in heaven … and what you loose …” … When … sufficiently answered … that the saying does not give so much power … that not Peter … and his successors … sufficient power to a head … and that they may …

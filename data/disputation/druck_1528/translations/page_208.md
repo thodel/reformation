@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_208.md could not be located</s:message>
-</d:error>
+Page [VDX]
+
+**The third**  
+that the Hebrews feared God / that (the) children of Israel understood / have been made … are / this is / the slaughter has been counted / then it stands for them. ad ipsos and not … for them. ad ipsas. The other place Satelis is also not against us, then … is … that the one who has God’s mercy … has … that he again, against his … also proves mercy / but this is not yet proven that the same works / the divine mercy would compare / rather it illuminates all grace, as in Romans iii v iii clearly shown / that all grace … and not deserved … unless it were your grace / that we also … at … to the Romans have / yet would be more than enough / the one saying to the Romans at ii. So we now hold / that man will be justified / according to the work of the law / only through faith / but … from the hundred and eighteen Psalms is drawn / not in the Hebrew, as it is drawn / rather … I have inclined my heart / … your customs eternally / finally / that is always for and for. This alone we were forced to explain the drawn sayings; otherwise no answer would have been needed: then they would not bring … that we deserve the blessedness of us / or do enough / that … our work the gifts of God … which … we deny according to Scripture / alone deny.
+
+**Buchstab**  
+[D] Je explanation of the Hebrew Scripture half / I am not forced to accept / so it is also not my opinion / that one may … the works … … the Christian belief / blessed

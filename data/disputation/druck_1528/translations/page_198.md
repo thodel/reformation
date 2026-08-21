@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_198.md could not be located</s:message>
-</d:error>
+Seite [X]  
+The other Christian believers to retain, by the old customs taken up as good practices, is this a good sign that they do not forbid such foods altogether, but only for a certain time. The reason I say this is that the Christian Kirche does not forbid itself, but something should be held for it, so that they, the weight, may become, not accepted, when they will have the desire to become, and they so the praised hand, therefore strives that they keep it, etc.  
+
+Martinus Bützer.  
+Here on the 90th leaf.  
+
+[D] He says half‑v. Luce, also Matthew v. Jrem, Matthew xviii, drawn from the Bichtuatter, I refer to the given answer and the same at present itself, that he, however, of the saying half to Thimo‑theum introduced a new gloss on the basis of Scripture, that he first should be of them, so spurious and forbidden, the opinion ... we also gladly accept; only he leaves us by the words of Paul, the ... and ... forbid a false doctrine, which remains, that also from Christ gently ... to Coloss. ... chapter ... the ... his supposed Kirche, as he himself confesses, the ... forbid ... now likewise for some time; so it lies today that they false doctrine ...: how can that now be of good opinion, will give ... to ... the opinion ... help. So that the matter may be ended, we refer ourselves to the aforementioned sayings. He will his Kirche also not excuse from such ... the reason, therefore that they themselves not directly forbid, but rather demand that they be betrothed; then Saint Paul ... false doctrine ... the breach of several creatures.

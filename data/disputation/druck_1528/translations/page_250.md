@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_250.md could not be located</s:message>
-</d:error>
+Seite [IIVXO]  
+Die vierdt  
+
+Luca: This is my life that will be given for you. The addition by the Evangelist gives to every one who wishes to receive a report a clear understanding for the purpose that we must recognize the bread as a Sacrament of the life of Christ in death for us. So I want to hear from which word Matthew or Luke my lord pastor has taken and to which he will bind himself.  
+
+Pfarrer von Sant gallen+  
+On the first discourse of my lord Doctor, I am tasked to seek the word / sacrament, recognizing all Christian teaching, the word / sacrament / the word of the night‑mass, making it neither clearer nor darker. The proper name, however, as also Paul calls it, should be *Communio*, that is communion, as the ancients also called it. But concerning the words, as they are called, I will engage in a word‑contest therein, only on the basis that the words are the foundation of sin, as they are brought forth. Then I will recognize, my lord Doctor, that all are equally consistent, the sacrament not being willed to be undone, which above all is honor and inheritance; I have often in his former books, as he gave them, read.  
+
+But my lord Doctor departs from the word Luke xxii cap., that the cup is a new testament, is named; the Evangelist says not; it is a memorial sign of the testament, otherwise it is called the testament in blood. I understand that which he does not wish to give in a word‑cage; I have by Matthew and Mark enough clarification, those who say: This is my blood. Further, in my lord Doctor, the testament in the burial of the son, they alone in the death of Christ assure: …

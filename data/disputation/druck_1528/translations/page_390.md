@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_390.md could not be located</s:message>
-</d:error>
+Seite [IVXXD]  
+The fifth [argument] in the holy city and the ... the ... . This now Christ has spoken the sole word to his younger ... when they asked him ... his future was ... he said this word as a sign. If I have understood my part, that the horror of destruction ... the extermination and annihilation of the Mass and all ceremonies. When we ... of the biblical writings as Acts VIII, as previously announced, also ... of the same biblical writings we have known ... that the Apostle offered ... that is ... hand. Begär likewise from our counterpart ... us a year or a time to show ... since the time of the Apostle ... that the most holy Sacrament of the life of Christ was held as a sacrifice. Say my understanding further that it is only ... for the sake of sin ... a time long ... will be heard.  
+
+Doctor Johannes Ecolampadius.  
+The prophecies of Daniel, as the history ... should be fulfilled in the four and a half years ... by the destruction of the temple, is already clearly enough explained. But this is carried out by the schoolmaster Buchstab, to the explanation of the prophecies of the Apocalypse, a description not without shame, as he also with understanding (he is young / we will never renounce) has done in his little book: likewise, where a Christian community should hold itself in the nearest ... by the institution of our Lord Jesus Christ in the night‑meal, that the sole ... should be end‑Christian. As by God’s grace the Lord ... in many places ... has shown grace, ... remained ... unscathed.  
+
+Thus the ... (the passage continues).

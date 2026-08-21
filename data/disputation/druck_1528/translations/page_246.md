@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_246.md could not be located</s:message>
-</d:error>
+Page [110]  
+The fourth  
+Ecolampadius.  
+[E] It has my dear brother again turned to the words of John in the fifth chapter. That they in serving / I am not refuted (world God) they were well understood by many: without doubt / they were to serve in the interior of many years. But the promise of the sacramental bread he does not find in the same. Yet if he now comes from the institution of the Lord’s Night‑Meal / that we may speak of this matter in public speech / I assure you first that my dear brother will not be denied / here is set the sacrament of the life in the blood of Jesus Christ: so now it will be useful and good (whoever wishes to understand the content of this word) that he hold himself accordingly, as he has behaved. Where there is a sacrament, there we will find a common rule: of sacraments / sacramentally concerning. Thus by each sacrament two things are understood: something that is meant, and something that is meant to be: as in baptism, the water signifies to us the grace of the Holy Spirit and regeneration. We have this in all sacraments; that certain especially high mystery and true doctrine are taught to us, with visible signs, so that we may be raised up by the visible things into the recognition of the hidden heavenly doctrine. Where one now must take care of the kind of sacrament, it will not be closed; here are those foreign‑named words that one must explain: that the bread is essentially the body of Christ. And so we the other evangelists, as Luke and Paul have, against Matthew and Mark: thus we will be of the clear speech.  
+They

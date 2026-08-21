@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_203.md could not be located</s:message>
-</d:error>
+Page XCIII  
+
+**Closing address.** **XCIII**  
+Christians understand that the word of God always commands us to the works and fruits of the spirit in our faith and love relations to the Romans, indeed. But from the trust we must take the works as our own, and they are warned and required of us by all Scripture. German at 7‑8, Essay at v., to Titus ii and iii chapter, and the Lord with a smile from the Pharisee, who was not a Hebrew nor a robber, but rather God praises, embraces, recounts all his good: now before his eyes righteous and pious, and from the tax‑collector who, striking at his breast, for the grace of God, as a son called, and before the Pharisee, more just, went up to the temple. Thus Paul declares all his righteousness, not caring for the cat because he has won Christ, to Philippians iii chapter. To the other, all works should be rightly judged to the honor of God, Matthew v, etc. In the first Epistle to the Corinthians, chapter v, and in the second Corinthians, chapter v, and love also the improvement of our nearest: then thereby the people will be able that we are younger Christians, so we love one another. And all works, not reaching there, are before God useless. But that in many places of Scripture the works of the reward are forbidden, as Matthew v chapter. Genesis xv, Jeremiah xxxi, Essay xl chapter, and in other innumerable places we should not imagine that our work is equally measured and deserved of reward; otherwise God has promised us grace, becoming the believers…

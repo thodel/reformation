@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_456.md could not be located</s:message>
-</d:error>
+Page XIX  
+The seven … the souls thereby to be redeemed, but as for our dead servants they are given, unless they are indeed equipped, so that their descendants in this place might be remembered; the promise to the fathers has taken place, and there are many more concerning the living will, then concerning the dead will. Our dead servant, however, is nothing else than the burdens of the poor, of a unity of unbelief. Yet we do not strike this down, that one should bury every Christian man—Christian and proper—among all, that he has brought from the Apostles; they have no year begun, therefore they in the whole world have drawn the Gospel to preach: we say therefore where a … would be, and the souls would be helped out of us, as if the Apostles had taught it and preached it, if they themselves had not been able to hold it. The opposite is invented by the holy Paul.  
+
+j. Theſſalo nice͂ſes iiij. I will not keep you, dear brothers, from those who are sleeping, that the year may not be sad, as the others, so your hope, then as we believe, that Jesus died is understood; so God also, those who have died, through Jesus, with Him, lead. Here Paul indeed speaks of the departed and punished; we should not be anxious for them, as those who have your hope of the future life were now a … so Paul would have taught for the dead and be anxious; he has, however, assured that he … Christianity … the … (the text is fragmentary). It also forces the examples of Scripture not … where … are set and learned; therefore the seven days and the thirty days, through the schoolmaster, are drawn.

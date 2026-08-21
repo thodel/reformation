@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_304.md could not be located</s:message>
-</d:error>
+Seite 94  
+The fourth (section) concerns neither faith nor works, but flows from the faith of Christ: also the baptism and the Eucharist of Christ are not to be received. Then, as my Lord Doctor continues to speak, it is said that the Lord has called his blood a special drink, our certain (one) having drunk it, together so that it is poured out in the same manner as the words, for the remission of our sins. Here my Lord Doctor decides, with Scripture, that the words are not to be carried or presented, as they are uttered.  
+
+Ecolampadius.✚  
+[V] sin frag wyter zu antwurten / und min antwurt zebestätigen / da ich gesagt hab / Der herr hab jnen den Kelch geben / find ich es also klaar by den Euangelisten / dann es stadt also: Er nam den Kelch (Es stadt nit / Er nam sin blůt) / und danket / und gab jnen / und sprach: Trinckennd all darůß. Das (Darus) kan ye nit anderst wo hin gereferiert vñ gelent werden / dann vff das vorgend wort / das der Herr den Kelch genommen hat. Ich gloub ouch gentzlich / Herr Benedict setz nit die transsubstantiation / mit den Båpstlern / die da sprechend / Der herr hab nit die substantz des wyns dargereicht. Aber die nachuolgende wort des Her ren / die erklårend das dem gehår der Apostel / verstent lich / das jnen vorhin etwas dúnckeler bedůtet ward. Võ vßteylung wågen des verdiensts / des lydẽ vnsers Her Hieuo: am 116 ren Jhesu Christi / ist jm vorhin gesagt / das wir solichs vnd 143. blatt. empfachen: nit allein in empfachung der Sacramentẽ / sonders ouch wie das Johannes am vj. ca. vßleyt: Weñ wir durch den geyst Christi das vertrůwen in Christum habend.

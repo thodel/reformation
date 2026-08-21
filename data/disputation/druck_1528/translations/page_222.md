@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_222.md could not be located</s:message>
-</d:error>
+Seite LXXD  
+Die vierde  
+vierde Schlußred lautet: das der lyb vnd das blůt Christi weſenlich und lyblich in dem brot der danckſagung empfangen werde, mög mit Bibliſcher geſchrifft nit gebracht werden. Dargegen ich nun vnd min mit aſſren sölichs der geſchrifft nit entgegen, ſonders mit geſundem verſtand der gſchrift wol möge gebracht werden. Die wyl vnd vnſer Heyland/Christus/die ding so er vff dem erdtrich hatt gelert vnd than, wellchem der himmeliſch vatter zůgnuß gebenn hat / Matthei am xvij. capitel:  
+Das iſt min geliebter ſun in dem ich mir hab wolgefallen den hörend. Als er hat wellen vffheben das alt Testament und anheben ein nůws, hat er vßgeſchickt ſine Apostel zu predigen, die ding so ſy gehört haben vnd geſehen / Johannis in der erſten Epistel am erſten capit. keyne andern Predigern anzenemen, dann so Christus hat verordnet: dann niemand anderſt den vatter erkennet, dan der Sun und wäm ers hat eroffnet, hats ouch niemand dann ſinen Aposteln, die er hat vßgeſandt zu predigen, das er jnen durch den geyſt hat eroffnet. Das er aber jnen eroffnet hat, iſt in der gſchrifft bfaſſet, nämlich Christum Jesum den crůtzigeten, den Juden ein ergernuß, den Heyden ein torheyt, den berůfftenn aber die krafft Gottes. So wir nun aber von Christo Jesu zwey ding gloubend, nämlich Allmechrigkeit vnd Warheyt. Dann die wort des Herren, warheit ſind, Johannis am xvij. capitel. Diewyl dann er vnns verheyſſen hat, damit vnd gſchrifft die andre gſchrift erkläre, so hat er gesagt: Das brot das ich üch wird gebenn, iſt min fleyſch, welches ich geben wird für das läben der welt. Sölichs alles hat er erſtattet im Nachtmal, nälich da er hat das brot ge​

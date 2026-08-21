@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_134.md could not be located</s:message>
-</d:error>
+Page XII  
+Hereafter, folios 21, 22, 23, … 24.  
+
+The first point he explains at the beginning, namely the ban concerning the open hearing of the Corinthians; for this reason it is sufficient. To the fifth he brings a verse from the other Epistle to the Corinthians, viii. Thus, when Paul again speaks, I will not overlook you. He says that a shepherd—indeed a true shepherd—who is in open … (the text is fragmentary) … no one will be spared from punishment, especially the people whose sin is drawn. To the sixth. The verse he brings from the first Epistle to the Corinthians, v. Concerning the governing, it concerns the worldly regiment of the higher authority; then the same is necessary according to their will, those who are … (the passage is corrupted). Further he brings a verse from Hebrews xii, about obedience to those who are … (the passage is corrupted). It is also spoken concerning the serviceability of worldly authority; then there is also an account of what … Christian command … but in the verse before the city … also from Hebrews xii … Thus … (the passage is fragmentary).  
+
+Senger  
+[Er]r Berchtold has addressed me from the very beginning, speaking of the beloved Christ … lying who … the honor of God … that I, Jesus Christ, confess for a … (the text is fragmentary) … I do not know … that he is … our love … of salvation … I excuse myself before all … Christ here: then I … (the passage ends abruptly).

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_347.md could not be located</s:message>
-</d:error>
+Seite CLXVI  
+**Concluding address.**  
+
+**Thiebold Hüter, pastor of Appenzell, whether he will of this will and his own be / here in this Christian conversation / which was received and brought forth with divine word / that he may be found by the same and that the same may be undergone. / The cause of this question is / that he may shortly also, after the answer of my lord has become known, / be chosen for this disputation / that he may be made evident and spoken plainly. / He would gladly, according to his lord’s will, / but now he wishes to receive it, / then what is to be disputed is taken up / and accepted by many places. / And also the holy Christian church (which he nevertheless understands as the papal throne) has been used for many hundred years. / Also he now, at this moment, again alone subjects the same church to the divine word, not having thought of it. / So I ask in this way that all may and ought not be forgotten, / and to remind him that he still may ... / or that he would wish to give himself wholly to the word of God / and to the pope and the mischiefs which are contrary to it, / to leave them and the same ... . / Where he thus errs, namely by dealing only with the divine word, / it will be handled according to my gracious lord of Bern, / also a Christian authority to Appenzell, to give him a hand.**  
+
+**Pfarrer von Alpentzell.**  
+That from our lord of Appenzell he has sent here, there is no one against it. So he then says ... / places of the Eidgenossenschaft / of the disputation half / so laudably held / by my high …

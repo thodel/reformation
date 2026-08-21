@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_287.md could not be located</s:message>
-</d:error>
+Seite CXXXVI  
+Schlußred. CXXXVI  
+
+We show this to them with Scripture: but the fleshly food that the soul comforts, showing it with its understanding. So the word. The flesh is not useful; we have not only in so far to a certain introduction, especially to a certain proof. That after being spoken should be a dispensation of the body of Christ, not a consolation; what, however, we then have in the sacramental bread: we give the answer, but that is a principle they seek; that is, that we have not afterwards left, nor could we conquer with Scripture for the sake of reckoning. We have yesterday publicly shown that here the body of Christ will not be divided in the Night‑Meal on 131 and 132, and they again hold the opposite opinion to the Scripture on the page. Readers be angry, and yet again today we turn back to the self‑same dispensation, which is so publicly refuted. But nothing of the sort we say, therefore, that we have no word of God, that we especially comfort … give … be in the fleshly food, or in the sacramental.  
+
+Pfarrer von Sant Gallen.  
+
+[W]ir verlassen uns von der vorher angezeigten Erklärung von uns beſchehē/dañ Christus im Abendmahl; beide Dinge zusammen gesetzt, Wort und Leib, geistlich mit dem Herzen und leiblich durch den Mund, sollen werden: Sann welcher so‑lich empfange, soll billig von einem Vertrauen (das tun wir ob Gott will alle), dann der zu Gott oder seinem Wort, oder Zeichen sogar soll Gott glauben und vertrauen, zu Hebräern am xj. Kapitel. Das der Leib nicht werde ver­teilt, wie Meister Wilhelm soll erzeiget haben; verlassen wir uns von den Acta.

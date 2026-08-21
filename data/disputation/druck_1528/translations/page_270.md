@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_270.md could not be located</s:message>
-</d:error>
+Seite [lVXXD]  
+The fourth  
+of the ... (geyst/rc.) To the explanation of this text it is to be noted that Paul, in the whole Epistle to the Corinthians, concerning many matters, is divided, strives to bring them into unity, and because they also still had some fellowship with the idolatrous, that then also serves unity; thus he leads them to Christian unity, showing them how they have fellowship in the body and blood of Christ; therefore they ought to be justly undivided, and turn to them for how they themselves relate; such fellowship in the sacraments … and says: I speak to you as to the understanding: that is as …

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_28.md could not be located</s:message>
-</d:error>
+for perhaps the simple man is not unbelievable / that perhaps it is not a hidden deceit. First of all, for the sake of the other special exercises, which have the chief over the members of the body, that it may set the other members and rule in the other works. Moreover, that the divine Scripture shows, that Christ also has appointed a steward of the common churches here on earth, of power also in heaven has strength. From the hand we John in the first chapter / That Andrew finds brother Simon to the Lord Jesus, and says: We have found Messiah. Then the Lord Jesus looks at Simon / and says: So you are Simon, a son of John; you shall henceforth be called Cephas / and you shall be called Peter. Cephas is Greek and means a head. Likewise Matthew in the fifth chapter: So you are Peter / and of the flesh I will build my church: And the gates of hell shall not be able to oppose you: And I will give you the keys of the kingdom of heaven / and all that you bind on earth shall be bound in heaven: and all that you loose on earth shall be loosed in heaven.
+
+Berchtoldus.  
+Come, beloved Christians, the bishop has at the beginning of his speech / to the good will of our closing address / with four sayings of Scripture confirming / that I in great thanks know / as Christ the influence half / the chief of the Christian community / yet so lacking in us / that we speaking / he is a single chief. So shall your saying go through in an...

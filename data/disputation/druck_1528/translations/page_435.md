@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_435.md could not be located</s:message>
-</d:error>
+Seite CCX  
+Schlußred  
+
+We defend (re‑give) the defence (re‑turn) on which word, however, is noted that it is spoken concerning the return of the Jewish rite. Concerning Paul in the first Epistle to the Corinthians, in the second chapter: it has never been seen nor ever heard. So Paul speaks of the divine mysteries of his Son, which he has left to man, who, by the wonderful illumination that is shown to us through Christ Jesus, is so lightly in the world never to be known; but as through Christ it is opened, and the word is the essay at chapter lxiiij. And Paul will not say that one would not know where the man comes after this time. That he shows John in chapter xiiij, we recognize that in the house of God there are many dwellings. But of the other house, that he … we know nothing: then the Scripture to the Ephesians at chapter iiij does not serve there. He himself declares this world that Christ will come down and return to heaven. Here one must also know that inferi, by us is made, the Hellen: and called the Hell not the place of the eternally damned alone, but also the state of souls after this time in the commonwealth. This is affirmed by the article of faith: *Descendit ad inferos*, He has gone to the Hellen. Now it is known that Christ the unbelievers, who were in the Hell, that is in eternal damnation, neither home‑seeking nor redeemed: except he alone has taken away the desire of those who were deprived of the divine face, but who were god‑fearing and faithful with Abraham, he has granted them home‑seeking and redemption.

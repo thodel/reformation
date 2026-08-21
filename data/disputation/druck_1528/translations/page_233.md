@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_233.md could not be located</s:message>
-</d:error>
+Seite CIX  
+Schlußred.  
+
+warlich ein tranck / soll gleich als wenig von das Sacramentlich essen gezogen werden / als auch die vordrigen wort / dann von stunden hernach folgt. Welcher mein Fleisch isst und mein Blut trinkt / der bleibt in mir, wie ich in ihm: hier sehen wir eigentlich / dass er durch sein Fleisch essen / nichts anderes zu geben hat / weder von einer vertrauten Seite noch versichert / der aber den Tod im Fleisch für uns gelitten hat. Es macht auch nichts uns in Gott sein / und Gott in uns sein / weder der einig Geist Gottes / von dem der heilig Johannes also redet / Gott ist die Liebe (verstand hier Liebe für den vollkommenen Stand / und Verrichtung des menschlichen Gemüts in Gott) welcher nun in der Liebe bleibt / der bleibt in Gott / und Gott in ihm. Hier sehen wir, dass die ganze Summe der Verrichtung des menschlichen Gemüts gegen Gott nichts anders ist / weder ein Vereinigen des göttlichen Geistes mit unsrem / durch den festen Glauben / den wir zu Gott haben / und den so bleiben wir in Gott / und Gott in uns. Es folgt auch weiter. Gleich wie mein lebendiger Vater mich gesandt hat / also lebe auch ich / um des Vaters willen / hier ist wisslich / dass Christus seinen Leib selbst nicht gegessen hat / so er aber unser Essen und Gehorsam / seines Essens und Gehorsams verglichen / so verstehen wir offenbar, dass er uns hier sein leiblich Essen gibt / durch das wir in ihm und er in uns leben / sondern er redet hier allein von der Vereinigung des göttlichen Geistes mit unserem Gemüte / gerade wie auch seine Menschheit mit Gott vereinbart ist. Et hoc per comparationem, non per equiparationē. Jetzt folgt wir weiter. So wird auch der mich isst / um meinen Willen liebe / hier sehen wir aber offenbar / dass zuerst angezeigt ist. Nämlich dass das geistliche Essen / das macht uns in Gott wandeln / und das leibliche Essen nicht: wodurch aber bewertet ist / dass …  
+
+Etc

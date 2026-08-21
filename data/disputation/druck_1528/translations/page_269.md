@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_269.md could not be located</s:message>
-</d:error>
+Seite CXXVII  
+
+Schlußred.  
+We speak that the cup of thanksgiving is a distribution of the blood of Christ, and that the living and blood by another stand; it may not be understood otherwise than the one of both distribution. Accordingly, rightly. For we are many a bread and a life, therefore that we are of one bread and of one cup partially; it takes nothing in the mind. We first acknowledge the same text, that of the spiritual body, which is the common God. But Paul does not speak; we are that bread which is broken, or that we break; otherwise break and eat the cup itself; therefore the first saying of the body of Christ is divided in the bread; the other must be understood spiritually.  
+
+Ecolampadius.  
+Our answer has not broken Althamer; the while we have clearly shown that here a commonality is to be understood, and we will make it even clearer. One must let the text itself for and for, and it will not follow thereafter: on another side or between; the commonality serves the distribution. Therefore it must also be understood here. The side that we have taken, and especially from John, shows us clearly our commonality; but our commonality with the distribution serves here nothing, and even less the conclusion of the other Epistle to the Corinthians xiij, because it stands: The commonality of the holy spirit is with you all: the distribution is not ours; but we have a fellowship, in receiving such spirit. This also was to the Philippians at the i. Capit. ... (the text becomes illegible).

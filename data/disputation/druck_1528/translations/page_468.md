@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_468.md could not be located</s:message>
-</d:error>
+Seite [X]  
+The need of the younger bishop had to have a choice: then the figure also had Christ the higher priest, also John the Evangelist, also Timothy and Titus, to be chosen. But it is the opinion of Paul that Timothy and Titus should be selected from honorable, distinguished men—bishops, priests, and deacons. Then they were at the same time not scripturally learned, but young, unskilled people, who from youth were acquainted with the Scriptures, and therefore served the Christian faith, as Timothy himself from youth could and knew (i Timoth. iii.). He says that the same youths should be ordered thus; therefore the elders were instructed to teach them, that this might be fulfilled, the word of Christ, as he says, “Matthew v.” Also they should shine their light before men, that they may see our good works.  
+
+Thus follows thereafter: If a thing is learned, and it does, the farmer is greatly esteemed in the realm of the household. So it is found among the youths that they are far more after the flesh than after the spirit, being sufficient for life; then it is written in Ecclesiastes xii, chapter: “The youth and the will are swift.” Therefore it was not that the evangelical believers, who were so much unheard of, proclaimed the gospel, showing themselves according to their teachings. But it is introduced that the “Ee” (the ecclesiastical authority) forbids it, that the devil’s leer (deception) is given to them, according to the white (pure) way, as the recent Mariani and Tatiani have done. Thus it is described, however, not to our times as previously reported, that I for my own person, with complaint, may say that the “Ee” has forbidden it to me. I would have it, however, for myself, through love, could forbid it.  
+
+Meyster

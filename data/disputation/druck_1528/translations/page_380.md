@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_380.md could not be located</s:message>
-</d:error>
+Seite [X]  
+Die fünfft herren/ob ſy mit jrem Måßopfer vermeinen den erwel ten ützit zů helffen/oder nit.  
+
+Gilg Murer  
+WJr gebend antwurt/Das wir nit der meinung /sind/das wir wellen erfüllen/noch behülflich ſin dem lyden Chriſti/ſunders wir vermeine/vns a lleyn teylhafftig zů machen ſines lydens. Als möcht ich ein Exempel gebenn: Gott der Herr hat geſchaffen die edle creatur der Sunnen/das ſy erlüchte die gantz welt. Wenn aber einer wåre ynbeschloſſenn in ein finſter huß/wår die Sun̄ nit ſchuldig/ſunders hette volbracht volkomenlich jr ampt/darzū ſy geſchaffen iſt: der menſch wåre aber ſchuldig/das er nit vffthåte/dämit er belüchter möchte werden. Alſo vermeinen wir hie ouch/Chriſtus habe gnůg gethan/gantz vnd gar. Wir ſöllen uns aber teylhafftig machen/mit dem betrachtlichen opf fer der Måß.  
+
+Butzer  
+CHriſtus ſagt: Nieman kumpt zů mir/der vatter züch jnn dann/Johannis vj. Darumb werden die Måßmacher niemand teylhafftig machen des lydenns Chriſti/vnd alſo an das gnaden liecht füren. Noch ſtat vnſer Silogiſmus: Hats Chriſtus alles gethan vnnd volendet/ſo tůnd yr nůts.  
+
+Gilg Durer.  
+DAls er ſpricht/Es kome niemand zum ſun̄/es ſyge dann/das jn der vatter züche/Darwider ſind wir nit/ſund wir bitten Gott den herren/im ampt der heilige Måß/vnd halten jm für das lyden ſines Suns/ das vns der vatter gütigklich zů jm zůchen welle/vnd wellen
