@@ -1289,6 +1289,10 @@ const WITNESS_METADATA = [
 
 const VARIANT_BY_KEY = {
   druck_1528: "druck-1528",
+  druck_1528_04: "druck-1528-04",
+  druck_1608_bern: "druck-1608-bern",
+  druck_1608_zuerich: "druck-1608-zuerich",
+  druck_1701: "druck-1701",
   a_v_1447_schlussredaktion: "a-v-1447",
   a_v_1443_hertwig: "a-v-1443",
   a_v_1444_cyro: "a-v-1444",
@@ -3857,15 +3861,21 @@ function registerPageLinks(pages) {
   return rows.join("");
 }
 
+// Both groups live in one section, so the nav cannot be marked from the
+// section id: it is "disputation" either way. This marks the tab the witness
+// actually belongs to, and must run after showSectionById, which sets the nav
+// from the section and would otherwise overwrite it.
+function highlightDisputationTab() {
+  const navId = disputationGroup === "print" ? "drucke" : "disputation";
+  document.querySelectorAll("nav a").forEach((a) => a.classList.remove("active"));
+  const link = document.querySelector(`nav a[data-section="${navId}"]`);
+  if (link) link.classList.add("active");
+}
+
 function openRegisterPage(witnessKey, page) {
   const variantId = VARIANT_BY_KEY[witnessKey];
   if (!variantId) return;
-  // Manuscripts and prints now live in different tabs; land in the right one.
   disputationGroup = groupOfVariant(variantId);
-  const navId = disputationGroup === "print" ? "drucke" : "disputation";
-  document.querySelectorAll("nav a").forEach((a) => a.classList.remove("active"));
-  const navLink = document.querySelector(`nav a[data-section="${navId}"]`);
-  if (navLink) navLink.classList.add("active");
   if (disputationState.variantId !== variantId) {
     disputationState.variantId = variantId;
     resetDisputationVariantState();
@@ -3874,6 +3884,8 @@ function openRegisterPage(witnessKey, page) {
   }
   disputationState.currentPageIndex = page - 1;
   showSectionById("disputation");
+  highlightDisputationTab();
+  renderVariantSwitcher();
   initDisputationViewer();
   updateDisputation();
 }
@@ -4038,14 +4050,18 @@ function concordanceHtml(row) {
   // kept in separate rows because their coverage differs so sharply - the
   // prints place 82 of 83 segments, a_v_1444 places none - that mixing them
   // would read as one patchy list rather than two honest ones.
-  const printChips = CONC_PRINTS.map((k) => concordanceChip(seg, k, "erara")).join("");
-  const msChips = CONC_MANUSCRIPTS.map((k) => concordanceChip(seg, k, "viewer")).join("");
+  // Every witness is readable in this viewer now, prints included, so every
+  // chip stays on the site. The facsimile is streamed from e-rara either way,
+  // and the page credits it there; sending a reader out of the edition just to
+  // see the leaf would lose the transcription beside it.
+  const printChips = CONC_PRINTS.map((k) => concordanceChip(seg, k)).join("");
+  const msChips = CONC_MANUSCRIPTS.map((k) => concordanceChip(seg, k)).join("");
   if (!printChips && !msChips) return "";
   return `<span class="conc"><span class="conc-label">Drucke:</span>${printChips}</span>`
     + `<span class="conc"><span class="conc-label">Handschriften:</span>${msChips}</span>`;
 }
 
-function concordanceChip(seg, key, mode) {
+function concordanceChip(seg, key) {
   const e = seg.witnesses[key];
   const name = escapeHtml(shortWitness(key));
   const sigil = witnessSigil(key);
@@ -4058,16 +4074,14 @@ function concordanceChip(seg, key, mode) {
   const title = `${e.aligned} von ${e.of} Seiten zugeordnet`
     + (e.status === "partial" ? " — Zuordnung unvollständig" : "");
 
-  if (mode === "viewer") {
-    const variantId = VARIANT_BY_KEY[key];
-    if (!variantId) return `<span class="${cls}" title="${title}">${sigil}${name} ${pages}</span>`;
-    return `<a class="${cls}" href="#/disputation/${escapeHtml(variantId)}/${e.first_page}"
-      title="${title}"
-      onclick="event.preventDefault(); event.stopPropagation(); openRegisterPage('${escapeHtml(key)}',${e.first_page});">${sigil}${name} ${pages}</a>`;
-  }
-  if (!e.erara) return `<span class="${cls}" title="${title}">${sigil}${name} ${pages}</span>`;
-  return `<a class="${cls}" href="${escapeHtml(e.erara)}" target="_blank" rel="noopener"
-    title="${title}" onclick="event.stopPropagation();">${sigil}${name} ${pages}</a>`;
+  const variantId = VARIANT_BY_KEY[key];
+  if (!variantId) return `<span class="${cls}" title="${title}">${sigil}${name} ${pages}</span>`;
+  // Prints answer to #/drucke/, manuscripts to #/disputation/; both prefixes
+  // resolve either way, and openRegisterPage opens the matching tab.
+  const prefix = groupOfVariant(variantId) === "print" ? "drucke" : "disputation";
+  return `<a class="${cls}" href="#/${prefix}/${escapeHtml(variantId)}/${e.first_page}"
+    title="${title}"
+    onclick="event.preventDefault(); event.stopPropagation(); openRegisterPage('${escapeHtml(key)}',${e.first_page});">${sigil}${name} ${pages}</a>`;
 }
 
 function segmentPagesFor(segmentId, witness) {
@@ -4298,10 +4312,7 @@ updatePredigten();
   if (disputationParams && disputationParams.variantId) {
     disputationGroup = groupOfVariant(disputationParams.variantId);
     showSectionById('disputation');
-    const navId = disputationGroup === "print" ? "drucke" : "disputation";
-    document.querySelectorAll("nav a").forEach((a) => a.classList.remove("active"));
-    const nav = document.querySelector(`nav a[data-section="${navId}"]`);
-    if (nav) nav.classList.add("active");
+    highlightDisputationTab();
     navigateToDisputationFromUrl();
     renderVariantSwitcher();
     initDisputationViewer();
