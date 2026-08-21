@@ -8,7 +8,7 @@
       204
     ]
   },
-  "alignment_score": 0.3705,
+  "alignment_score": 0.3857,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -45,9 +45,7 @@
         "op": "match",
         "a": "Die ander\nMartinus Butzer. WIr laſſen es bliben / by dem vrteyl der glöubigen\nwañdz oꝛt zun Galathern/antrifft alle Chriſte\nder glichen habē wir ouch zü den Colloß.",
         "b": "Martinus Buͦzer. WJr laſſen es bliben / by dem vrteil der Gloͤubigen/ wann das ort zun Galathern antriffte alle Chri=\nſten /",
-        "similarity": 0.3922,
-        "semantic": 0.6263,
-        "reading": "reworded"
+        "similarity": 0.3922
       },
       {
         "op": "only_b",
@@ -59,9 +57,7 @@
         "op": "match",
         "a": "am ij. So land nun üch niemand gewüſſen machen/zc. Diewil\ndann die Chriſtenlich leer verbütet an ſondre tag/die ge\nwüſſen der glöubigen zübinden/ſo ligts am tag/das nun\nder widerchriſtlich gewalt ſolichs vnderſtanden hat/",
         "b": "die\ngewüſſen der gloͤubigen zuͦbinden/ſo ligts am tag/ das nun\nder widerchriſtlich gewalt ſoͤllichs vnderſtanden hat/",
-        "similarity": 0.4561,
-        "semantic": 0.7317,
-        "reading": "reworded"
+        "similarity": 0.4561
       },
       {
         "op": "only_a",
@@ -79,17 +75,13 @@
         "op": "match",
         "a": "von der Kilchen mögen vff\nſyn geſetzt worden/mögen ouch diſe ſtück beſton\ndas aber ich gefragt/ob der Bapſt wåre der widerchriſt/",
         "b": "den Sontag vnnd\nzwoͤlff botten tag/von der Kilchen moͤgen vff ſyn ge=\nſetzt worden/moͤgen ouch diſe ſtuͤck beſton /",
-        "similarity": 0.383,
-        "semantic": 0.4102,
-        "reading": "different"
+        "similarity": 0.383
       },
       {
         "op": "match",
         "a": "wolt ich mit Bibliſcher gſchrifft/darwider geredt haben/ aber witter an die ſach zügriffen / das wir ouch andre ge\nſchrifften in der Bibli mit begriffen zü Chriſtenlicher oꝛd=\nnung vnd leere dienend /",
         "b": "das aber\nich gefragt / ob der Bapſt wäre der Widerchriſt / wolt ich\nmit Bibliſcher Gſchrifft darwider geredt haben/ aber wy=\nter an die ſach zuͤgrifffen/",
-        "similarity": 0.4483,
-        "semantic": 0.8134,
-        "reading": "reworded"
+        "similarity": 0.4483
       },
       {
         "op": "only_b",
@@ -101,18 +93,13 @@
         "op": "match",
         "a": "ouch halten mögen/ find ich by\ndem heyligen Paulo/zü den Coꝛinthern/Epiſtola j. Ca=\npite. xv. Das er anzücht den Poeten Therentium/das\ner ſpricht.",
         "b": "find ich by dem heiligen\nPaulo zuͦ den Corinthern/Epiſt.1.cap.15. Das er anzuͤcht\nden Poeten Terentium / das er ſpricht : Boͤſe geſchwätz\n                                                                                ver=",
-        "similarity": 0.5283,
-        "semantic": 0.8578,
-        "reading": "same"
+        "similarity": 0.5283
       },
       {
         "op": "only_a",
         "a": "Böſe geſchwåtz verderbe güt ſytten/deßglich\nen zü den Epheſern am v. zücht er harin/ als ob es an=\ndersch wo warhafftigklich geſchriben ſtånd/ſtond vff der\ndu ſchlaffeſt.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6157,
-        "semantic_match": "170                                    Die ander\nBan gebotten bißhar iſt nit vnbillich wider die vngehorſa=\nmen/ vnnd die ſo Ergernuß zuͦgeben geneigt ſind /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -126,15 +113,10 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6759,
-    "reworded": 3,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4699,
+    "similarity": 0.474,
     "words": {
       "a": 247,
       "b": 234
@@ -207,18 +189,8 @@
       },
       {
         "op": "equal",
-        "a": "der glichen",
-        "b": "der glichen"
-      },
-      {
-        "op": "replace",
-        "a": "habē",
-        "b": "haben"
-      },
-      {
-        "op": "equal",
-        "a": "wir ouch zü den",
-        "b": "wir ouch zu den"
+        "a": "der glichen habē wir ouch zü den",
+        "b": "der glichen haben wir ouch zu den"
       },
       {
         "op": "replace",
@@ -496,7 +468,7 @@
         "b": "ver"
       }
     ],
-    "ops": 36,
+    "ops": 35,
     "truncated": false
   }
 }

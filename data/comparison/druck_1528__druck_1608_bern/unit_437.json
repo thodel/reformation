@@ -8,7 +8,7 @@
       504
     ]
   },
-  "alignment_score": 0.3907,
+  "alignment_score": 0.3935,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 4,
     "only_b": 0,
-    "similarity": 0.5257,
+    "similarity": 0.5326,
     "pairs": [
       {
         "op": "only_a",
@@ -39,9 +39,7 @@
         "op": "match",
         "a": "ein ewiger grůwel vorhanden / das heyßt nit das ſågſůr. Meyster Hans Dannberger. Ich laß es bliben / wie ich es ingefůrt hab /",
         "b": "472            Die ſibend\n       Meiſter Hans Mannberger. JCh laß es blyben/wie ich es yngefürt hab/vnd beſilch es\nder Gſchrifft.",
-        "similarity": 0.3415,
-        "semantic": 0.7821,
-        "reading": "reworded"
+        "similarity": 0.3415
       },
       {
         "op": "only_a",
@@ -53,25 +51,19 @@
         "op": "match",
         "a": "aber die reinikeit kompt nit vß vn\nſerm låben / oder lydẽ / ſond gott iſt / der da gerecht macht\nzun Rõmern am viij.",
         "b": "Meiſter Vlrich Zwingly. DAs niemand zů Himmel kom̃/dañ der ane Maſen\nſye/laſſen wir nach/aber die reinigkeit kompt nit vß\nvnſerm Låben oder lyden/ſonder Gott iſt/der da\ngerecht macht zun Rômern am 8.",
-        "similarity": 0.5424,
-        "semantic": 0.7656,
-        "reading": "same"
+        "similarity": 0.5424
       },
       {
         "op": "match",
         "a": "Bůchstab. Vff den anfang / von herrn Berchtolden hůt in=\ngefůrt / antwůrt ich kůrtzlich alſo / wie Chriſtus\nvnſer eynig gnůg tůn ſye /",
         "b": "Bůchſtab. VF den anfang/von Herrn Berchtolden hüt ingefürt/ antwurt ich kurtzlich alſo/wie Chriſtus vnſer einig\ngnůg thůn ſye/iſt in der dritten Schlußred/gnůg=\nſam verantwurt.",
-        "similarity": 0.6531,
-        "semantic": 0.8379,
-        "reading": "same"
+        "similarity": 0.6531
       },
       {
         "op": "match",
         "a": "iſt in der drittẽ ſchluß\nred / gnůgſam verantwurt. Es ſpricht ſant Paulus in\nder erſten Epiſt. zun Corinth. am vj.",
         "b": "Es ſpricht Sant Paulus in der erſten\nEpiſt. zun Corinth. am 6. deßglychen zun Galathern am\n5. das die/ſo den Sünden deß Fleiſchs/als da ſind/Hůry/",
-        "similarity": 0.4583,
-        "semantic": 0.8103,
-        "reading": "reworded"
+        "similarity": 0.4583
       },
       {
         "op": "only_a",
@@ -83,17 +75,13 @@
         "op": "match",
         "a": "nyd / zanck / haß / zc. anhangen: das ſolche / das rich der himlen nit beſitzẽ wer\nden. So ſpricht Chriſtus. Math. am vij.",
         "b": "Eytigkeit/Vnluterkeit/Nyd/Zanck/Haß/ꝛc. anhangen: daß ſolche/das Rych der Him̃len nit beſitzen werden. So\nſpricht Chriſtus.",
-        "similarity": 0.5366,
-        "semantic": 0.8751,
-        "reading": "same"
+        "similarity": 0.5854
       },
       {
         "op": "match",
         "a": "Das man rech\nnung můſſe geben / von eynẽ yeden vnnůtzen wort. Nun\niſt nit ein yecklich vnnutz wort / ein houptſůnd /",
         "b": "Matth. am 12. Das man rechnung\nmüſſe geben/von einem yeden vnnützen wort. Nun iſt nit\nein yegklich vnnütz wort/ein Houptſünd/darumb ouch/et=\nlich vnnütze wort/die nit Houbtſünden ſind/abgereiniget\nmüſſen werden:",
-        "similarity": 0.5818,
-        "semantic": 0.8527,
-        "reading": "same"
+        "similarity": 0.5818
       },
       {
         "op": "only_a",
@@ -105,19 +93,12 @@
         "op": "match",
         "a": "der befleckt wirdt durch\njn nit gan. Wir wůſſen ouch / das der menſch mag glou\nben / vnd doch etwan nit volkomenlich: dann Chriſtus\nGgg iij",
         "b": "Dann Eſaias ſpricht. 35. Der Wåg wirt\nheilig genempt/der befleckt wirdt durch jn nit gan. Wir\nwüſſen ouch/daß der Menſch mag glouben/vnd doch et=\n                                                 wan",
-        "similarity": 0.566,
-        "semantic": 0.8877,
-        "reading": "same"
+        "similarity": 0.566
       }
-    ],
-    "semantic": 0.8302,
-    "reworded": 2,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.6343,
+    "similarity": 0.6435,
     "words": {
       "a": 236,
       "b": 196
@@ -230,18 +211,28 @@
       },
       {
         "op": "equal",
-        "a": "låben oder",
-        "b": "Låben oder"
+        "a": "låben oder lydẽ",
+        "b": "Låben oder lyden"
       },
       {
         "op": "replace",
-        "a": "lydẽ ſond",
-        "b": "lyden ſonder"
+        "a": "ſond",
+        "b": "ſonder"
       },
       {
         "op": "equal",
-        "a": "gott iſt der da gerecht macht zun Rõmern am",
-        "b": "Gott iſt der da gerecht macht zun Rômern am"
+        "a": "gott iſt der da gerecht macht zun",
+        "b": "Gott iſt der da gerecht macht zun"
+      },
+      {
+        "op": "replace",
+        "a": "Rõmern",
+        "b": "Rômern"
+      },
+      {
+        "op": "equal",
+        "a": "am",
+        "b": "am"
       },
       {
         "op": "replace",
@@ -290,13 +281,13 @@
       },
       {
         "op": "equal",
-        "a": "ſye iſt in der",
-        "b": "ſye iſt in der"
+        "a": "ſye iſt in der drittẽ",
+        "b": "ſye iſt in der dritten"
       },
       {
         "op": "replace",
-        "a": "drittẽ ſchluß red gnůgſam",
-        "b": "dritten Schlußred gnůg ſam"
+        "a": "ſchluß red gnůgſam",
+        "b": "Schlußred gnůg ſam"
       },
       {
         "op": "equal",
@@ -390,13 +381,13 @@
       },
       {
         "op": "equal",
-        "a": "nit",
-        "b": "nit"
+        "a": "nit beſitzẽ",
+        "b": "nit beſitzen"
       },
       {
         "op": "replace",
-        "a": "beſitzẽ wer den",
-        "b": "beſitzen werden"
+        "a": "wer den",
+        "b": "werden"
       },
       {
         "op": "equal",
@@ -529,7 +520,7 @@
         "b": "et wan"
       }
     ],
-    "ops": 41,
+    "ops": 42,
     "truncated": false
   }
 }

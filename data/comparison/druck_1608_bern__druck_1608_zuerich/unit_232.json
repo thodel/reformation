@@ -15,85 +15,66 @@
       "b": 2
     },
     "counts": {
-      "equal": 1,
-      "replace": 1,
+      "equal": 0,
+      "replace": 2,
       "delete": 0,
       "insert": 0
     },
-    "similarity": 0.5
+    "similarity": 0.0
   },
   "sentences": {
     "units": 7,
     "matched": 7,
     "only_a": 0,
     "only_b": 0,
-    "similarity": 0.8923,
+    "similarity": 0.8792,
     "pairs": [
       {
         "op": "match",
         "a": "Schlußred. 207\nBuͦchſtab. DAs vnſer Werck/ſo nach empfahung deß Touffs vß\ndem glouben beſchechen / verdienſtlich ſyen / wirt\nmencklich im alten vnd nüwen Teſtament erfinden/",
         "b": "Schlußred. 207\n        Buͦchſtab. DAs vnſer Werck / ſo nach empfahung deß Touffs vß\ndem glouben beſchechen / verdienſtlich ſyen / wirt\nmencklich im alten vnd nuͤwen Teſtament erfinden/",
-        "similarity": 0.9434,
-        "semantic": 0.9941,
-        "reading": "same"
+        "similarity": 0.9434
       },
       {
         "op": "match",
         "a": "als Chriſtus ſpricht Matth.am 7.Der da thůt den willen\nmins Himmeliſchen Vatters/der wirt gon in das Rych der\nHimlen.",
         "b": "als Chriſtus ſpricht Matth. am 7. Der da thuͦt den willen\nmins Himmelſchen Vatters/der wirt gon in das Rych der\nHimlen.",
-        "similarity": 0.8889,
-        "semantic": 0.9831,
-        "reading": "same"
+        "similarity": 0.8889
       },
       {
         "op": "match",
         "a": "Actuum am 10. hat Thabita vmb der gůten\nWercken willen / die ſy gethon hat/verdienet von S.Petro\nbarmhertzenklich von dem tod erquickt werden.",
         "b": "Actuum am 10. hat Thabita vmb der guͤten\nWercken willen / die ſy gethon hat/verdienet von S. Petro\nbarmhertzenklich von dem tod erquickt werden.",
-        "similarity": 0.9388,
-        "semantic": 0.9561,
-        "reading": "same"
+        "similarity": 0.9388
       },
       {
         "op": "match",
         "a": "Martinus Butzer. VFf die erſt/iſt die antwurt gebẽ in der erklärung Her-\nren Berchtolden/die ander bringt das nit/das Tha-\nbita jr Vffertweckung verdienet habe.",
         "b": "Martinus Butzer. VFf die erſt/iſt die antwurt gebẽ in der erklaͤrung Her=\nren Berchtolden/die ander bringt das nit/das Tha=\nbita jr Vfferweckung verdienet habe.",
-        "similarity": 0.9091,
-        "semantic": 0.9433,
-        "reading": "same"
+        "similarity": 0.8727
       },
       {
         "op": "match",
         "a": "Buͦchſtab. ZVerklärung vnd beſtetung miner vor angezognen Ge-\nſchrifften/ſag ich/das darby geſchriben ſtat/das ſy wä-\nre voll gůter Wercken/vnd Allmüſen geben/als ſy thet/",
         "b": "Buͦchſtab. ZVerklaͤrung vnd beſtetung miner vor angezognen Ge=\nſchrifften/ſag ich/das darby geſchriben ſtat/das ſy waͤ=\nre voll guͤter Wercken/vnd Allmuͤſen geben/als ſy thet/",
-        "similarity": 0.8525,
-        "semantic": 0.962,
-        "reading": "same"
+        "similarity": 0.8525
       },
       {
         "op": "match",
         "a": "volget ſchier hernach am 10. cap. Das der Engel zů Cor-\nnelio hab geſprochen / din Gebät vnd Allmüſen ſind vffge-\nſtigen in die Gedechtnuß /",
         "b": "volget ſchier hernach am 10. cap. Das der Engel zuͦ Cor=\nnelio hab geſprochen / din Gebaͤt vnd Allmuͤſen ſind vffge=\nſtigen in die Gedechtnuß /",
-        "similarity": 0.88,
-        "semantic": 0.9368,
-        "reading": "same"
+        "similarity": 0.88
       },
       {
         "op": "match",
         "a": "für das Angeſicht Gottes / der\nglichen wirt ouch funden by dem ſäligen Mañ Thobia/ ſo er ſpricht / mit dem Allmüſen vnd glouben\nwerden abgereiniget die Sünd. ## Marginalien\nSuͦch\nhieuor\n202. vñ\n204. blat.",
         "b": "fuͤr das Angeſicht Gottes / der\nglichen wirt ouch funden by dem ſaͤligen Mañ Thobia/ ſo er ſpricht / mit dem Allmuͤſen vnd glouben\nwerden abgereiniget die Suͤnd. ## Marginalien\nSuͤch\nhieuor\n202. vñ\n204. blat.",
-        "similarity": 0.8333,
-        "semantic": 0.9736,
-        "reading": "same"
+        "similarity": 0.7778
       }
-    ],
-    "semantic": 0.9641,
-    "reworded": 0,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.8883,
+    "similarity": 0.8727,
     "words": {
       "a": 186,
       "b": 199
@@ -141,8 +122,18 @@
       },
       {
         "op": "equal",
-        "a": "Wercken willen die ſy gethon hat verdienet von S Petro barmhertzenklich von dem tod erquickt werden Martinus Butzer VFf die erſt iſt die antwurt gebẽ in der",
-        "b": "Wercken willen die ſy gethon hat verdienet von S Petro barmhertzenklich von dem tod erquickt werden Martinus Butzer VFf die erſt iſt die antwurt gebe in der"
+        "a": "Wercken willen die ſy gethon hat verdienet von S Petro barmhertzenklich von dem tod erquickt werden Martinus Butzer VFf die erſt iſt die antwurt",
+        "b": "Wercken willen die ſy gethon hat verdienet von S Petro barmhertzenklich von dem tod erquickt werden Martinus Butzer VFf die erſt iſt die antwurt"
+      },
+      {
+        "op": "replace",
+        "a": "gebẽ",
+        "b": "gebe"
+      },
+      {
+        "op": "equal",
+        "a": "in der",
+        "b": "in der"
       },
       {
         "op": "replace",
@@ -226,13 +217,13 @@
       },
       {
         "op": "replace",
-        "a": "ſäligen",
-        "b": "ſa ligen"
+        "a": "ſäligen Mañ",
+        "b": "ſa ligen Man"
       },
       {
         "op": "equal",
-        "a": "Mañ Thobia ſo er ſpricht mit dem",
-        "b": "Man Thobia ſo er ſpricht mit dem"
+        "a": "Thobia ſo er ſpricht mit dem",
+        "b": "Thobia ſo er ſpricht mit dem"
       },
       {
         "op": "replace",
@@ -251,11 +242,21 @@
       },
       {
         "op": "equal",
-        "a": "Marginalien Su ch hieuor 202 vñ 204 blat",
-        "b": "Marginalien Su ch hieuor 202 vn 204 blat"
+        "a": "Marginalien Su ch hieuor 202",
+        "b": "Marginalien Su ch hieuor 202"
+      },
+      {
+        "op": "replace",
+        "a": "vñ",
+        "b": "vn"
+      },
+      {
+        "op": "equal",
+        "a": "204 blat",
+        "b": "204 blat"
       }
     ],
-    "ops": 15,
+    "ops": 17,
     "truncated": false
   }
 }

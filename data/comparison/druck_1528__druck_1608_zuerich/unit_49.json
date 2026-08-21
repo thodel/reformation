@@ -8,7 +8,7 @@
       70
     ]
   },
-  "alignment_score": 0.465,
+  "alignment_score": 0.46,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -39,41 +39,31 @@
         "op": "match",
         "a": "Schlußred/ XVII\nEr Herr leer ons füchen/sinen willen vn war=\nheit/mit luterm herze. Vß alle anzogne spri=\nchen/so hat der Bichtuatternit wyters bewårt\ndan das Sant Perer/ein fürtreffenlicher die-\nner des Euangelij/vñ gar kein houpt gewäsen ist.",
         "b": "ſo hat der Bychtuatter nit wyters bewårt dañ\ndas Sant Peter ein fuͤrtreffenlicher Diener deß Euange=\nlij/ vnd gar kein Houpt gewåſen iſt.",
-        "similarity": 0.4242,
-        "semantic": 0.7932,
-        "reading": "reworded"
+        "similarity": 0.4242
       },
       {
         "op": "match",
         "a": "Sar\numb begåren wir noch hätt by rag schrifft/die Petrum\nzum houpt mache. Die Kilch leren (mer hat kein Apo-\nstel nye können) ist der Kirchen Diener sin/",
         "b": "Darumb begåren wir\nnoch huͤt by tag ſchrifft/ die Petrum zum Houpt mache. Die Kilch leeren (mer hat kein Apoſtel nie koͤnnen) iſt der\nKilchen Diener ſin/",
-        "similarity": 0.6552,
-        "semantic": 0.8417,
-        "reading": "same"
+        "similarity": 0.6552
       },
       {
         "op": "match",
         "a": "vnnd nitt\nhoupt. Bycheuatter. Herr Marti Butzer hat am ersten anzogen/ich\nhab den spruch des erste büchs Regum/im xv.",
         "b": "vnd nit Houpt. Bychtuatter. HErr Marti Butzer hat am erſten anzogen/ ich hab\nden Spruch deß erſten Buͤchs Regum/",
-        "similarity": 0.6341,
-        "semantic": 0.8281,
-        "reading": "same"
+        "similarity": 0.6341
       },
       {
         "op": "match",
         "a": "capitel/gestern verantwurt/hütt wider an30-\ngen. Darzu sag ich das ich den selbigen spruch nit an30=\ngen hab/aber gemeldet.",
         "b": "im 15. cap. ge=\nſtern verantwort/ huͤt wider anzogen. Darzuͤ ſag ich/ daß ich den ſelbigen Spruch nit anzogen hab/",
-        "similarity": 0.4762,
-        "semantic": 0.6695,
-        "reading": "reworded"
+        "similarity": 0.4762
       },
       {
         "op": "match",
         "a": "Das gestrig zülassen/durch jnn\nBeschechen/ein antwurt zegeben. I lun yetz zum andren/ das er begårt/vn mich tringt/ein heytern text/darbrin\ngen/zübewaren/d3 Petrus ein houpt der Kirchen sye/",
         "b": "aber gemel=\ndet. Das geſtrig zulaſſen/ durch jnn beſchechen/ ein ant=\nwurt zegeben. Nun yetz zum andren/ daß er begårt/",
-        "similarity": 0.4906,
-        "semantic": 0.6229,
-        "reading": "reworded"
+        "similarity": 0.4906
       },
       {
         "op": "only_b",
@@ -85,33 +75,21 @@
         "op": "match",
         "a": "da mein ich/jm sye gnug beschechen/So ich bewårt han/ das Sant Peter hatt die regierung der beyligen Chri=\nſtenlichen Kirchenn/of beuelch Chriſtigethon.",
         "b": "So ich bewårt han/ das Sant Peter hat die\nRegierung der heiligen Chriſtenlichen Kilchen/ vß be=\nuelch Chriſti gethon. Wil er aber das ich ein Spruch\nbring/",
-        "similarity": 0.3846,
-        "semantic": 0.7433,
-        "reading": "reworded"
+        "similarity": 0.3846
       },
       {
         "op": "match",
         "a": "Wiler\naber das ich ein spruch bring/der dz wozt/houpt/hab/ so sol er ouch billichen darbringen ein spruch/der d3 wort\nVnicum/das ist/Einig/hab.",
         "b": "der das Wort/ Houpt/ hab/ ſo ſol er ouch billichen\ndarbringen ein Spruch/ der das Wort Vnicum, das iſt/ Einig/ hab. Butzer.",
-        "similarity": 0.72,
-        "semantic": 0.7919,
-        "reading": "same"
+        "similarity": 0.72
       },
       {
         "op": "only_a",
         "a": "Butzer. Ir begårend nit geschrifft die &ben das wõitly\nhoupt/vstrucke/am wort ist es nitt gelågen/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7704,
-        "semantic_match": "vnnd\nmich tringt/ ein heitern Text darbringen/ zuͤbewåren/ daß\nPetrus ein Houpt der Kilchen ſye/ da mein ich/ jm ſye gnuͤg\nbeſchechen/",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7576,
-    "reworded": 4,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
     "similarity": 0.615,
@@ -177,8 +155,18 @@
       },
       {
         "op": "equal",
-        "a": "wyters bewårt dan das Sant",
-        "b": "wyters bewårt dañ das Sant"
+        "a": "wyters bewårt",
+        "b": "wyters bewårt"
+      },
+      {
+        "op": "replace",
+        "a": "dan",
+        "b": "dañ"
+      },
+      {
+        "op": "equal",
+        "a": "das Sant",
+        "b": "das Sant"
       },
       {
         "op": "replace",
@@ -192,13 +180,13 @@
       },
       {
         "op": "replace",
-        "a": "fürtreffenlicher die ner des Euangelij vñ",
-        "b": "fu rtreffenlicher Diener deß Euange lij vnd"
+        "a": "fürtreffenlicher die ner des Euangelij",
+        "b": "fu rtreffenlicher Diener deß Euange lij"
       },
       {
         "op": "equal",
-        "a": "gar kein houpt gewäsen ist",
-        "b": "gar kein Houpt gewåſen iſt"
+        "a": "vñ gar kein houpt gewäsen ist",
+        "b": "vnd gar kein Houpt gewåſen iſt"
       },
       {
         "op": "replace",
@@ -466,7 +454,7 @@
         "b": ""
       }
     ],
-    "ops": 35,
+    "ops": 36,
     "truncated": false
   }
 }

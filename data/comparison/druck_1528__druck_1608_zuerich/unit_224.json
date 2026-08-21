@@ -8,7 +8,7 @@
       261
     ]
   },
-  "alignment_score": 0.6216,
+  "alignment_score": 0.6338,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -39,9 +39,7 @@
         "op": "match",
         "a": "Die vierde\nſuns verheyssen hab lyblich zeessen/das mag mit\ngschrifft nit bybracht werden/deßhalb das argument\nvffhört/wir erkennen jn ouch den almechtigen ſyn.",
         "b": "daß er verheiſſen hat/Das er aber vns das Fleiſch\nſins Suns verheiſſen hab lyblich zeeſſen zegeben/das mag\nmit Geſchrifft nit bybracht werden/",
-        "similarity": 0.4082,
-        "semantic": 0.5375,
-        "reading": "different"
+        "similarity": 0.4082
       },
       {
         "op": "only_b",
@@ -53,9 +51,7 @@
         "op": "match",
         "a": "Aber\ndaruß volget nit/gott vermag das/so ist es ouch/dañ er\nmöchte die steyne sul zů Heliasen vñ predigende Johañ\nsen keren/sy sind aber darumb nit die predigenden/He=\nlias vñ Johannes/darzů thůt gott wider sin eygẽ wort\nnit/es wirt ouch wider sin eygen wort thůn/nitt für ein",
         "b": "dan er móchte die ſteine Sul zu Heliaſen vnd predigenden\nJohanſen keren/ ſy ſind aber darumb nit die predigenden/ Helias vnnd Johannes/darzů thůt Gott wider ſin eigen\nWort nit/es wirt ouch wider ſin eigen Wort thůn/nit für\nein macht benamſet/ſonder für ein onmacht/daby wir ouch\nmercken ſóllen/",
-        "similarity": 0.6038,
-        "semantic": 0.7169,
-        "reading": "same"
+        "similarity": 0.6038
       },
       {
         "op": "only_b",
@@ -93,12 +89,7 @@
         "b": "capi-]\n[...en/Nun]\n[...dem wort]\n[...Brot ſin]\n[...ſadt durch]\n[...Gott in im]\n[...der merckt]\n[...irt d'omb]\n[.../ hat die]\n[...Welt]",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6272,
-    "reworded": 0,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
     "similarity": 0.3324,
@@ -164,8 +155,18 @@
       },
       {
         "op": "equal",
-        "a": "ſyn Aber daruß volget nit gott vermag das so ist es ouch dañ er möchte die",
-        "b": "ſyn Aber daruß volget nit Gott vermag das ſo iſt es ouch dan er móchte die"
+        "a": "ſyn Aber daruß volget nit gott vermag das so ist es ouch",
+        "b": "ſyn Aber daruß volget nit Gott vermag das ſo iſt es ouch"
+      },
+      {
+        "op": "replace",
+        "a": "dañ",
+        "b": "dan"
+      },
+      {
+        "op": "equal",
+        "a": "er möchte die",
+        "b": "er móchte die"
       },
       {
         "op": "replace",
@@ -174,13 +175,13 @@
       },
       {
         "op": "equal",
-        "a": "sul zů Heliasen",
-        "b": "Sul zu Heliaſen"
+        "a": "sul zů Heliasen vñ",
+        "b": "Sul zu Heliaſen vnd"
       },
       {
         "op": "replace",
-        "a": "vñ predigende Johan sen",
-        "b": "vnd predigenden Johanſen"
+        "a": "predigende Johan sen",
+        "b": "predigenden Johanſen"
       },
       {
         "op": "equal",
@@ -233,7 +234,7 @@
         "b": "macht benamſet ſonder für ein onmacht daby wir ouch mercken ſóllen daß wie wir Gott die Allmechtigkeit vnnd Warheit zůgeben daß er ouch by der Warheit belybt die dann dartwider iſt das hie Fleiſch vnd Blůt geſſen werd Pſarrer von Sant Gallen ALs nach langem min lieber Herr Meiſter Vlrich Zwingly das 6 capit Johannis ſines verſtandts inhalt anzeigt hat namlich daß er das Wort oder die Verheiſſung daß das Cap Johannis von der vſſerli chen Nieſſung nit ſólle verſtanden werden geſtand ich im deß nit dan ſo eſſen an diſem Ort für glouben ſólte verſtan den werden wurde gar ein vnuollkomnen verſtand fürtra gen der Spruch Der da wirt eſſen von diſem Brot mag allda eſſen für glouben nit verſtanden werden Daß aber Ff ij Marginalien e s hat er B rot ge ben vnd d eſſend danck ge ſt das iſt il vergoſ ſinn vnſer at ſóliths ůſſ alles móglich 4 capit ant üch geb das Låb n 6 capi en Nun dem wort Brot ſin ſadt durch Gott in im der merckt irt d omb hat die Welt"
       }
     ],
-    "ops": 13,
+    "ops": 14,
     "truncated": false
   }
 }

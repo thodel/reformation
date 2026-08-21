@@ -8,7 +8,7 @@
       195
     ]
   },
-  "alignment_score": 0.199,
+  "alignment_score": 0.194,
   "coarse": {
     "paragraphs": {
       "a": 6,
@@ -289,8 +289,18 @@
       },
       {
         "op": "equal",
-        "a": "macht vñnd ein",
-        "b": "macht vnnd ein"
+        "a": "macht",
+        "b": "macht"
+      },
+      {
+        "op": "replace",
+        "a": "vñnd",
+        "b": "vnnd"
+      },
+      {
+        "op": "equal",
+        "a": "ein",
+        "b": "ein"
       },
       {
         "op": "replace",
@@ -319,13 +329,13 @@
       },
       {
         "op": "equal",
-        "a": "bewären wider",
-        "b": "bewaren wider"
+        "a": "bewären wider vñser",
+        "b": "bewaren wider vnnser"
       },
       {
         "op": "replace",
-        "a": "vñser Schluß red",
-        "b": "vnnser scheustre"
+        "a": "Schluß red",
+        "b": "scheustre"
       },
       {
         "op": "equal",
@@ -398,7 +408,7 @@
         "b": ""
       }
     ],
-    "ops": 31,
+    "ops": 32,
     "truncated": false
   }
 }

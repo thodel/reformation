@@ -8,7 +8,7 @@
       413
     ]
   },
-  "alignment_score": 0.2639,
+  "alignment_score": 0.3056,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 0,
     "only_b": 8,
-    "similarity": 0.4065,
+    "similarity": 0.4176,
     "pairs": [
       {
         "op": "only_b",
@@ -57,25 +57,19 @@
         "op": "match",
         "a": "Die fünffte\nſterthumb / deßhalb er dheins erſetzens bedarff. Zum\nvierden. Er erſchint vor dem angeſicht Gottes / vnnd\nvertrittet vnns / darumb werden jr inn nit Repreſen=\ntatiue /",
         "b": "Zuͦ dritten/ er hatt ein ewig\nPrieſterthuͤmb / deßhalb er keines erſetzens be=\ndarff. Zum vierdten / er erſchynt vor dem ange=\nſicht Gottes/vnd vertrittet vns /",
-        "similarity": 0.3462,
-        "semantic": 0.7442,
-        "reading": "reworded"
+        "similarity": 0.3462
       },
       {
         "op": "match",
         "a": "das iſt inn widerſtelliger wyß opffern. Zum\nfünfften. Er hats vollender vnd volkomen gemacht / wz\niſt dann der yetzigen Prieſtern opffern anders /",
         "b": "darumb wer=\nden jr jnn nit repreſentatiue / das iſt / in wider=\ntelliger wyß opfferen . Zum fuͤnfften/ er hatts\nvollendet vnd volkomen gemacht /was iſt dañ d'\nyetzigen prieſtern opffern anders/dañ ein ſchmaͤ\nhen deß opffers Chriſti :",
-        "similarity": 0.4333,
-        "semantic": 0.4686,
-        "reading": "different"
+        "similarity": 0.4667
       },
       {
         "op": "match",
         "a": "dann eyn\nſchmächen des opffers Chriſti. Zum ſechßten. Er hatt\nein ewige erlöſung erfundē / was ſeelen welle dan die prie\nſter mit den Meßen erlöſen. Zum ſibenden. Es i",
         "b": "Zum ſechſten/er hatt\nein ewige erloͤſung erfunden/was ſeelen wellen\ndañ die prieſter mit den Maͤſſen erloͤſen.",
-        "similarity": 0.44,
-        "semantic": 0.6067,
-        "reading": "reworded"
+        "similarity": 0.44
       },
       {
         "op": "only_b",
@@ -101,15 +95,10 @@
         "b": "Bb ij\n\n## Marginalien\n[Marginalie am linken Rand im Bundsteg beschnitten/unleserlich]",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6065,
-    "reworded": 2,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.2386,
+    "similarity": 0.25,
     "words": {
       "a": 77,
       "b": 275
@@ -272,23 +261,23 @@
       },
       {
         "op": "equal",
-        "a": "iſt",
-        "b": "iſt"
+        "a": "iſt dann",
+        "b": "iſt dañ"
       },
       {
         "op": "replace",
-        "a": "dann der",
-        "b": "dañ d"
+        "a": "der",
+        "b": "d"
       },
       {
         "op": "equal",
-        "a": "yetzigen Prieſtern opffern anders",
-        "b": "yetzigen prieſtern opffern anders"
+        "a": "yetzigen Prieſtern opffern anders dann",
+        "b": "yetzigen prieſtern opffern anders dañ"
       },
       {
         "op": "replace",
-        "a": "dann eyn ſchmächen des",
-        "b": "dañ ein ſchma hen deß"
+        "a": "eyn ſchmächen des",
+        "b": "ein ſchma hen deß"
       },
       {
         "op": "equal",
@@ -307,23 +296,23 @@
       },
       {
         "op": "replace",
-        "a": "erlöſung erfundē",
-        "b": "erlo ſung erfunden"
+        "a": "erlöſung",
+        "b": "erlo ſung"
       },
       {
         "op": "equal",
-        "a": "was ſeelen",
-        "b": "was ſeelen"
+        "a": "erfundē was ſeelen",
+        "b": "erfunden was ſeelen"
       },
       {
         "op": "replace",
-        "a": "welle",
-        "b": "wellen"
+        "a": "welle dan",
+        "b": "wellen dañ"
       },
       {
         "op": "equal",
-        "a": "dan die",
-        "b": "dañ die"
+        "a": "die",
+        "b": "die"
       },
       {
         "op": "replace",

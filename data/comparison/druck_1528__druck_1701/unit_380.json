@@ -8,7 +8,7 @@
       395
     ]
   },
-  "alignment_score": 0.2882,
+  "alignment_score": 0.2941,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,16 +27,13 @@
     "matched": 4,
     "only_a": 3,
     "only_b": 5,
-    "similarity": 0.4752,
+    "similarity": 0.4831,
     "pairs": [
       {
         "op": "only_a",
         "a": "Schlußred CLXXXIII\nButzer\nES iſt vorgeſagt/die wil die Mäß dhein opfer ſin ſan\nwie vß Paulo überflüſſig bewärt iſt/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6214,
-        "semantic_match": "Die Fuͤnffte Schlußred. 379\n\nButzer. DJeſelb Diſtinction iſt ohne Geſchrifft / deß andern\nTheils halb / nemlich deß vermeynten Måßopffers\nhalb /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -48,10 +45,7 @@
         "op": "only_a",
         "a": "Gilg Murer. Wir haben es bewärt/mit vnſer Diſtinction. Butzer. DIe ſelbig Diſtinction iſt ane geſchrifft:des anderen\nteyls halb /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7327,
-        "semantic_match": "Die Fuͤnffte Schlußred. 379\n\nButzer. DJeſelb Diſtinction iſt ohne Geſchrifft / deß andern\nTheils halb / nemlich deß vermeynten Måßopffers\nhalb /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -63,17 +57,13 @@
         "op": "match",
         "a": "nãmlich des vermeinten Mäßopffers\nhalb/das ſy geyſtlich nemen/vnd doch liplich iſt. Gilg Murer. WIr fragen hie / zů merer erkantnus /",
         "b": "das ſy geiſtlich nemmen / und doch lyblich iſt. Gilg Murer. WIr fragen hie / zů mehrer Erkantnus / was das rein\nOpffer ſeye /",
-        "similarity": 0.5714,
-        "semantic": 0.5361,
-        "reading": "check"
+        "similarity": 0.5714
       },
       {
         "op": "match",
         "a": "was das reyn\nopffer ſye/von dem Malachias ſchribt. Butzer. ANtwurt. Es ſind die rechtglöubigen hertzen/ir\ngebätt/vñ gantz begäbung/in den willen gottes\ndie werden dem herrn zůbereyt/durch die predi\nger des Euangelij/dauon Paulus zuñ Römern am xv.",
         "b": "von dem Malachias ſchrybt. Butzer. ANtwort. Es ſind die rechtglåubigen Hertzen / ihr Ge-\nbått / und gantz Begebung in den Willen Gottes /",
-        "similarity": 0.4127,
-        "semantic": 0.7783,
-        "reading": "reworded"
+        "similarity": 0.4444
       },
       {
         "op": "only_b",
@@ -85,17 +75,13 @@
         "op": "match",
         "a": "Ich bin ein diener Chriſti zů den Heyden/reich jnen dar\ndas Euangelium gottes/das dz opffer der Heyden an\ngenäm ſye/geheyliget durch den heyligen geyſt.",
         "b": "reich jhnen dar das Evan-\ngelium Gottes / daß das Opffer der Heyden angenehm\nſeye / geheiliget durch den heiligen Geiſt. Gilg Murer.",
-        "similarity": 0.4167,
-        "semantic": 0.5842,
-        "reading": "different"
+        "similarity": 0.4167
       },
       {
         "op": "match",
         "a": "Gilg murer. ALs vns̄ geantwurt iſt worden/das rein opffer/ſyen\ndie glöubigen/mit jren bätte vnd der glichen:mag\nhie nit verſtanden werden/dann alle vnſer gerech\ntigkeyt / iſt vnſuber vor Gott / als ſy ſelbs anred ſynd/",
         "b": "DAss uns geantwortet iſt worden / das rein Opffer / ſeyen die Glåubigen mit ihrem Gebått und der-\nglychen / mag hie nit verſtanden werden /",
-        "similarity": 0.5,
-        "semantic": 0.7223,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "only_b",
@@ -115,15 +101,10 @@
         "b": "geheiliget durch den heiligen\nGeiſt / in vorangezeigten Worten / ſo werden die\nBbb Hertzen",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6625,
-    "reworded": 1,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4879,
+    "similarity": 0.4933,
     "words": {
       "a": 189,
       "b": 184
@@ -271,13 +252,13 @@
       },
       {
         "op": "replace",
-        "a": "ir gebätt vñ",
-        "b": "ihr Ge bått und"
+        "a": "ir gebätt",
+        "b": "ihr Ge bått"
       },
       {
         "op": "equal",
-        "a": "gantz",
-        "b": "gantz"
+        "a": "vñ gantz",
+        "b": "und gantz"
       },
       {
         "op": "replace",

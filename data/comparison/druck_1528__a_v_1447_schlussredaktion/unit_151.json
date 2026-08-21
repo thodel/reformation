@@ -8,7 +8,7 @@
       278
     ]
   },
-  "alignment_score": 0.2062,
+  "alignment_score": 0.2264,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,7 +27,7 @@
     "matched": 2,
     "only_a": 2,
     "only_b": 2,
-    "similarity": 0.3943,
+    "similarity": 0.4246,
     "pairs": [
       {
         "op": "only_a",
@@ -51,13 +51,13 @@
         "op": "match",
         "a": "vnd doch ſin hertz wyt von mir ſert/mich nun mit men=\nſchen gebot vnd leere förchtet/ſich/darum̄ wird ich mer\nwunder mit dißem volck begon/wunderbarlich vñ ſeltzå\ndas die wißheit ſiner klůgen zů grund faren/vñ der ver\nſtand ſiner verſtåndigē zů boden gon wirt/Diß ſind die\nwort des herrn/die ſich in gegenwůrtiger zyt vor ougen\nerzeygen/wie ſich die/ſo menſchen ſatzungen gern entbiel\nten/ſo vnuerſtanden am wort Gottes abrennen/diewil\nnun Got der herr nit will/das wir jm yendert mit dienen\nnach vnſerem gůt bedunckē.",
         "b": "xvn. vnd ouch von gott, E saije\nxxxviije. Sagt der hove also, Carumb das Auch das\nvolck zu mir nachet, mich mitt vinem munt vnnd\nletzen zuloben, vnd doch bin hertz witt von mir\nkort, mich min mitt menschen gebott vnd lere\nforchtet, Oich darumb wird ich noch nier wunder¬\nmitt disem volck began, wunderbrelich vnd belaem,\nDas die wissheit Omer kluten, zu grund forenn,\nvnd der verstand bier verstandigen, zu boden gan\nwirdt, Oiss Vnnd die wort des herren, Die Auch\nIn gegenwurtiger zitt, vor ougen erzoigen, wie\nsich die, So menschen Datzungen geru enthielten,\nCo vnuerstanden am wort gottes abrennen,\nDiewil min gott der herr nitt wil, das wir Im\nIender mitt dienen, nach unserm gut bedunckenn,\nDeutronomij xije.",
-        "similarity": 0.4279
+        "similarity": 0.4558
       },
       {
         "op": "match",
         "a": "Deuteronomij am xij. Ja\nſo das/das wir hoch achten ein grůwel vor gott iſt. Luc. am xvj. So kan vñ mag ein yetlicher from̄er Chriſt er=\nmeſſen/von welcher Kilch oder verſamlung die ſeyen/die",
         "b": "fa 60 dis, dus wir hoch ach: ton, Ein gruwel vor gott Ist, vuw. xvjc. So\nkan vnd mag, Ein Jntlicher fromer trist, ex:",
-        "similarity": 0.3607
+        "similarity": 0.3934
       },
       {
         "op": "only_b",
@@ -68,7 +68,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3876,
+    "similarity": 0.4067,
     "words": {
       "a": 173,
       "b": 245
@@ -266,8 +266,18 @@
       },
       {
         "op": "replace",
-        "a": "begon wunderbarlich vñ ſeltzå",
-        "b": "began wunderbrelich vnd belaem"
+        "a": "begon wunderbarlich",
+        "b": "began wunderbrelich"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "ſeltzå",
+        "b": "belaem"
       },
       {
         "op": "equal",
@@ -286,23 +296,23 @@
       },
       {
         "op": "replace",
-        "a": "faren vñ",
-        "b": "forenn vnd"
+        "a": "faren",
+        "b": "forenn"
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
+        "a": "vñ der",
+        "b": "vnd der"
       },
       {
         "op": "replace",
-        "a": "ver ſtand ſiner verſtåndigē",
-        "b": "verstand bier verstandigen"
+        "a": "ver ſtand ſiner",
+        "b": "verstand bier"
       },
       {
         "op": "equal",
-        "a": "zů boden",
-        "b": "zu boden"
+        "a": "verſtåndigē zů boden",
+        "b": "verstandigen zu boden"
       },
       {
         "op": "replace",
@@ -431,18 +441,8 @@
       },
       {
         "op": "equal",
-        "a": "So kan",
-        "b": "So kan"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "mag ein",
-        "b": "mag Ein"
+        "a": "So kan vñ mag ein",
+        "b": "So kan vnd mag Ein"
       },
       {
         "op": "replace",

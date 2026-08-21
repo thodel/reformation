@@ -8,7 +8,7 @@
       496
     ]
   },
-  "alignment_score": 0.358,
+  "alignment_score": 0.3789,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -27,15 +27,13 @@
     "matched": 5,
     "only_a": 1,
     "only_b": 2,
-    "similarity": 0.5266,
+    "similarity": 0.5344,
     "pairs": [
       {
         "op": "match",
         "a": "Dis iſt die ſibend\nDas nach dißem zyt kein Fågfür in\nder ſchrifft erfunden wirt. Deßhalb alle\ntodtendienſt/als Vigil/Seelmäsz/Seel=\ngråt/ſibend/drißgoſt/jarzit/amplen/ker=\ntzen/vnd derglichen/vergeblich ſind.",
         "b": "464\n# Diß iſt die Sibend\n### Schlußred. Daß nach diſem Zyt kein Fägfuͤhr in der\nGſchrifft erfunden wirt. Deßhalb alle Tod-\ntendienſt/",
-        "similarity": 0.4364,
-        "semantic": 0.6512,
-        "reading": "reworded"
+        "similarity": 0.4364
       },
       {
         "op": "only_b",
@@ -47,17 +45,13 @@
         "op": "match",
         "a": "Berchtoldus Haller. Die Schlußred iſt ſü\nteyl gnůgſam bewårdt/in der\ndritten/da wir bekennē/Chri\nſtum vnſer einige wyßheit/ge\nrechtigkeit/erlöſung vnd be=\nzalūg für aller welt ſünd.",
         "b": "in der\ndritten/ da wir bekennen/ Chri-\nſtum vnſer einige Wyßheit/ Ge-\nrechtigkeit/ Erlöſung vnd Beze-\nlung für aller Welt Sünd.",
-        "similarity": 0.7059,
-        "semantic": 0.7535,
-        "reading": "same"
+        "similarity": 0.7451
       },
       {
         "op": "match",
         "a": "So\nvolget ye von nöten/das kein\nander gnůgthůn/vnnd beza=\nlen für die ſünd/den abgeſtorb\nnen nachzerhůn/ſin mag/dañ\ndas lyden Chriſti.",
         "b": "So\nvolget je von nöten/ das kein an-\nder gnuͤgthuͤn/ vnd bezalung für\ndie Sünd/ den Abgeſtorbnen\nnachzethuͤn/",
-        "similarity": 0.4348,
-        "semantic": 0.5899,
-        "reading": "different"
+        "similarity": 0.4348
       },
       {
         "op": "only_b",
@@ -69,36 +63,24 @@
         "op": "match",
         "a": "Zum andren/Johannis iij. ſpricht\nder Herr: Alſo hat Gott die welt lieb gehept/das er ſin\neinigen ſun gab/vff das alle/die in jnn glouben/nit verlo\nren werden/ſunder das ewig låben haben:",
         "b": "daß er ſyn einigen Sun gab/ vff das alle\ndie in jnn glouben/ nit verloren werden/ ſunder das ewig\nLäben haben:",
-        "similarity": 0.6316,
-        "semantic": 0.7453,
-        "reading": "same"
+        "similarity": 0.6316
       },
       {
         "op": "match",
         "a": "dan Gott hat\nſin Sun nitt geſandt in die welt/das er die welt richte/ ſunders/das die welt durch jn ſålig werde.",
         "b": "dann Gott hat ſyn Sun nit geſandt in die\nWelt",
-        "similarity": 0.4242,
-        "semantic": 0.8745,
-        "reading": "reworded"
+        "similarity": 0.4242
       },
       {
         "op": "only_a",
         "a": "Wår an jnn\ngloubt/der wirt nit gericht: wår aber nit gloubt/der iſt\nſchon gericht. Hie iſt offenbar/das den glöubigen vol=\nget das ewig låben/nach jrem abſcheyd vß diſer zyt. Nů\naber",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7428,
-        "semantic_match": "als Vigil/ Seelmäß/ Seelgräd/ Sibend/ Trißgoſt/ Jarzyt/ Amplen/ Kertzen/ vnd derglychen/ vergeblich ſind. ### Berchtoldus Haller. DIſe Schlußred iſt zum\nteil gnuͤgſam bewärdt/",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7262,
-    "reworded": 2,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5714,
+    "similarity": 0.5839,
     "words": {
       "a": 182,
       "b": 140
@@ -221,18 +203,8 @@
       },
       {
         "op": "equal",
-        "a": "bewårdt in der dritten da wir",
-        "b": "bewärdt in der dritten da wir"
-      },
-      {
-        "op": "replace",
-        "a": "bekennē",
-        "b": "bekennen"
-      },
-      {
-        "op": "equal",
-        "a": "Chri ſtum vnſer einige wyßheit ge rechtigkeit erlöſung vnd",
-        "b": "Chri ſtum vnſer einige Wyßheit Ge rechtigkeit Erlöſung vnd"
+        "a": "bewårdt in der dritten da wir bekennē Chri ſtum vnſer einige wyßheit ge rechtigkeit erlöſung vnd",
+        "b": "bewärdt in der dritten da wir bekennen Chri ſtum vnſer einige Wyßheit Ge rechtigkeit Erlöſung vnd"
       },
       {
         "op": "replace",
@@ -271,18 +243,8 @@
       },
       {
         "op": "equal",
-        "a": "mag",
-        "b": "mag"
-      },
-      {
-        "op": "replace",
-        "a": "dañ",
-        "b": "dann"
-      },
-      {
-        "op": "equal",
-        "a": "das lyden Chriſti Zum",
-        "b": "das Lyden Chriſti Zum"
+        "a": "mag dañ das lyden Chriſti Zum",
+        "b": "mag dann das Lyden Chriſti Zum"
       },
       {
         "op": "replace",
@@ -370,7 +332,7 @@
         "b": ""
       }
     ],
-    "ops": 27,
+    "ops": 25,
     "truncated": false
   }
 }

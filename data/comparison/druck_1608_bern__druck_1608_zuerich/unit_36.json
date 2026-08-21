@@ -8,34 +8,32 @@
       45
     ]
   },
-  "alignment_score": 0.9645,
+  "alignment_score": 0.9527,
   "coarse": {
     "paragraphs": {
       "a": 4,
       "b": 4
     },
     "counts": {
-      "equal": 3,
-      "replace": 1,
+      "equal": 2,
+      "replace": 2,
       "delete": 0,
       "insert": 0
     },
-    "similarity": 0.75
+    "similarity": 0.5
   },
   "sentences": {
     "units": 8,
     "matched": 6,
     "only_a": 0,
     "only_b": 2,
-    "similarity": 0.7765,
+    "similarity": 0.7707,
     "pairs": [
       {
         "op": "match",
         "a": "Schlußred. II\nmengklichem/vnmöglich iſt es/das ſölich nit in Chriſtenli-\ncher gemeind Burger ſind. Den Glouben nenn ich aber\nhie nit Erkandtnuß aller ſonderlichen ſtucken in der Ge-\nſchrifft:ſonder das vertruwen in Gott/vnd in Jeſum Chri-\nſtum ſin geſandten/durch welichen Glouben man bereit iſt/",
         "b": "Schlußred. II\nmengklichem/ vnmöglich iſt es/ das ſölich nit in Chriſtenli-\ncher gemeind Burger ſind. Den Glouben nenn ich aber\nhie nit Erkandtnuß aller ſonderlichen ſtucken in der Ge-\nſchrifft:",
-        "similarity": 0.7692,
-        "semantic": 0.9511,
-        "reading": "same"
+        "similarity": 0.7692
       },
       {
         "op": "only_b",
@@ -47,25 +45,19 @@
         "op": "match",
         "a": "das Wort Gottes zehören/vnd alſo mit ſölicher begird/daß\nman ee die gantze Welt verlaſſen/ begårt/dann diſen glou-\nben in Chriſtum.",
         "b": "vnd alſo mit ſölicher begird/ daß\nman ee die gantze Welt verlaſſen/ begärt/ dann diſen glou-\nben in Chriſtum. So wir nun ſölichen glouben begären/",
-        "similarity": 0.7917,
-        "semantic": 0.7597,
-        "reading": "same"
+        "similarity": 0.7917
       },
       {
         "op": "match",
         "a": "So wir nun ſölichen glouben begåren/zů\nbekennen vnd vßſpreiten/vnnd dem Wort Gottes an allen\norten glouben geben/ſind wir gewiß /",
         "b": "zů\nbekennen vnd vßſpreiten/ vnnd dem Wort Gottes an allen\norten glouben geben/ ſind wir gewiß / das kein Verban-\nnung der Menſchen/",
-        "similarity": 0.7273,
-        "semantic": 0.9062,
-        "reading": "same"
+        "similarity": 0.7273
       },
       {
         "op": "match",
         "a": "das kein Verban-\nnung der Menſchen/mög vns vßtilgen/vß dem Bůch der\nLåbenden:oder billich zellen/als abtrünnig von Chriſtenli-\ncher gemeinſame/zuuorab/diewyl wir begirig/allen Gli-\ndern Chriſti/in warer liebe anzehangen.",
         "b": "mög vns vßtilgen/ vß dem Bůch der\nLåbenden: oder billich zellen/ als abtrünnig von Chriſtenli-\ncher gemeinſame/ zuuorab/ diewyl wir begirig/",
-        "similarity": 0.75,
-        "semantic": 0.8689,
-        "reading": "same"
+        "similarity": 0.75
       },
       {
         "op": "only_b",
@@ -77,27 +69,18 @@
         "op": "match",
         "a": "Alexius Grat/Prediger Ordens/Bycht-\nvatter in der Jſel zů Bern. Die heilig gemein Chriſtenlich Kilch/dero\nHoupt Chriſtus iſt/die iſt geborẽ vß dem Wort\nGottes/in dem ſy blybt/vnd höret keins frõm-\nden ſtim̃.",
         "b": "dero\nHoupt Chriſtus iſt/ die iſt geborē vß dem Wort\nGottes/ in dem ſy blybt/ vnd höret keins fröm-\nden ſtim̄.",
-        "similarity": 0.7241,
-        "semantic": 0.8121,
-        "reading": "same"
+        "similarity": 0.6897
       },
       {
         "op": "match",
         "a": "DIſe Schlußred begrifft vier Arti-\nckel. Der erſt iſt:Chriſtus iſt der heiligen/ge-\nmeinen Kilchen einigs Houpt. Wenn diſer\nArtickel verſtanden wirt/von dem jnnern yn-\nB\tij",
         "b": "DJſe Schlußred begrifft vier Arti-\nkel. Der erſt iſt: Chriſtus iſt der heiligen/ ge-\nmeinen Kilchen einigs Houpt. Wenn diſer\nArtickel verſtanden wirt/ von dem innern vn-\n      B    ij",
-        "similarity": 0.8966,
-        "semantic": 0.9226,
-        "reading": "same"
+        "similarity": 0.8966
       }
-    ],
-    "semantic": 0.8701,
-    "reworded": 0,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.9845,
+    "similarity": 0.9794,
     "words": {
       "a": 194,
       "b": 194
@@ -105,8 +88,18 @@
     "segments": [
       {
         "op": "equal",
-        "a": "Schlußred II mengklichem vnmöglich iſt es das ſölich nit in Chriſtenli cher gemeind Burger ſind Den Glouben nenn ich aber hie nit Erkandtnuß aller ſonderlichen ſtucken in der Ge ſchrifft ſonder das vertruwen in Gott vnd in Jeſum Chri ſtum ſin geſandten durch welichen Glouben man bereit iſt das Wort Gottes zehören vnd alſo mit ſölicher begird daß man ee die gantze Welt verlaſſen begårt dann diſen glou ben in Chriſtum So wir nun ſölichen glouben begåren zů bekennen vnd vßſpreiten vnnd dem Wort Gottes an allen orten glouben geben ſind wir gewiß das kein Verban nung der Menſchen mög vns vßtilgen vß dem Bůch der Låbenden oder billich zellen als abtrünnig von Chriſtenli cher gemeinſame zuuorab diewyl wir begirig allen Gli dern Chriſti in warer liebe anzehangen Alexius Grat Prediger Ordens Bycht vatter in der Jſel zů Bern Die heilig gemein Chriſtenlich Kilch dero Houpt Chriſtus iſt die iſt geborẽ vß dem Wort Gottes in dem ſy blybt vnd höret keins frõm den ſtim",
-        "b": "Schlußred II mengklichem vnmöglich iſt es das ſölich nit in Chriſtenli cher gemeind Burger ſind Den Glouben nenn ich aber hie nit Erkandtnuß aller ſonderlichen ſtucken in der Ge ſchrifft ſonder das vertruwen in Gott vnd in Jeſum Chri ſtum ſin geſandten durch welichen Glouben man bereit iſt das Wort Gottes zehören vnd alſo mit ſölicher begird daß man ee die gantze Welt verlaſſen begärt dann diſen glou ben in Chriſtum So wir nun ſölichen glouben begären zů bekennen vnd vßſpreiten vnnd dem Wort Gottes an allen orten glouben geben ſind wir gewiß das kein Verban nung der Menſchen mög vns vßtilgen vß dem Bůch der Låbenden oder billich zellen als abtrünnig von Chriſtenli cher gemeinſame zuuorab diewyl wir begirig allen Gli dern Chriſti in warer liebe anzehangen Alexius Grat Prediger Ordens Bycht vatter in der Jſel zů Bern Die heilig gemein Chriſtenlich Kilch dero Houpt Chriſtus iſt die iſt geborē vß dem Wort Gottes in dem ſy blybt vnd höret keins fröm den ſtim"
+        "a": "Schlußred II mengklichem vnmöglich iſt es das ſölich nit in Chriſtenli cher gemeind Burger ſind Den Glouben nenn ich aber hie nit Erkandtnuß aller ſonderlichen ſtucken in der Ge ſchrifft ſonder das vertruwen in Gott vnd in Jeſum Chri ſtum ſin geſandten durch welichen Glouben man bereit iſt das Wort Gottes zehören vnd alſo mit ſölicher begird daß man ee die gantze Welt verlaſſen begårt dann diſen glou ben in Chriſtum So wir nun ſölichen glouben begåren zů bekennen vnd vßſpreiten vnnd dem Wort Gottes an allen orten glouben geben ſind wir gewiß das kein Verban nung der Menſchen mög vns vßtilgen vß dem Bůch der Låbenden oder billich zellen als abtrünnig von Chriſtenli cher gemeinſame zuuorab diewyl wir begirig allen Gli dern Chriſti in warer liebe anzehangen Alexius Grat Prediger Ordens Bycht vatter in der Jſel zů Bern Die heilig gemein Chriſtenlich Kilch dero Houpt Chriſtus iſt die iſt geborẽ vß dem Wort Gottes in dem ſy blybt vnd höret keins",
+        "b": "Schlußred II mengklichem vnmöglich iſt es das ſölich nit in Chriſtenli cher gemeind Burger ſind Den Glouben nenn ich aber hie nit Erkandtnuß aller ſonderlichen ſtucken in der Ge ſchrifft ſonder das vertruwen in Gott vnd in Jeſum Chri ſtum ſin geſandten durch welichen Glouben man bereit iſt das Wort Gottes zehören vnd alſo mit ſölicher begird daß man ee die gantze Welt verlaſſen begärt dann diſen glou ben in Chriſtum So wir nun ſölichen glouben begären zů bekennen vnd vßſpreiten vnnd dem Wort Gottes an allen orten glouben geben ſind wir gewiß das kein Verban nung der Menſchen mög vns vßtilgen vß dem Bůch der Låbenden oder billich zellen als abtrünnig von Chriſtenli cher gemeinſame zuuorab diewyl wir begirig allen Gli dern Chriſti in warer liebe anzehangen Alexius Grat Prediger Ordens Bycht vatter in der Jſel zů Bern Die heilig gemein Chriſtenlich Kilch dero Houpt Chriſtus iſt die iſt geborē vß dem Wort Gottes in dem ſy blybt vnd höret keins"
+      },
+      {
+        "op": "replace",
+        "a": "frõm",
+        "b": "fröm"
+      },
+      {
+        "op": "equal",
+        "a": "den ſtim",
+        "b": "den ſtim"
       },
       {
         "op": "replace",
@@ -139,7 +132,7 @@
         "b": "B ij"
       }
     ],
-    "ops": 3,
+    "ops": 4,
     "truncated": false
   }
 }

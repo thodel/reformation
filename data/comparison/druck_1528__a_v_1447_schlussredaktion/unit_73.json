@@ -8,7 +8,7 @@
       131
     ]
   },
-  "alignment_score": 0.1767,
+  "alignment_score": 0.1957,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 5,
     "only_b": 3,
-    "similarity": 0.3508,
+    "similarity": 0.3761,
     "pairs": [
       {
         "op": "only_a",
@@ -57,13 +57,13 @@
         "op": "match",
         "a": "Nun betrachted fromen lieben Chriſten/ diewyl ſölich hochgelertt/ſo hefftig ſich im gloubē zweyen/ der da erſt in zähen jaren erwachſen iſt/vnd einer ſagt/",
         "b": "Des rechten gewaren gloubens / Nun betrachtend\nIn soͤlchen artigklen / frommen lieben / Christen, Die wyl soͤllich hoch // gelert / So hefftig sich Im glouben zweyen /",
-        "similarity": 0.32
+        "similarity": 0.36
       },
       {
         "op": "match",
         "a": "namlich der Luter/wellicher jm nit glouben geb/möge\nnit ſälig werdē: Meyſter Vlrich Zwingli ſagt nüt min=\nders/namlich in dem ſtuck/des hochwirdigen Sacra=\nments.",
         "b": "der Da erst / Inn Zechen / Jaren / erwachssen\nist / vnnd einer sagt / Namlich der\nluter / wellicher im nit glouben geb / moͤg\nnit  saͤlig werden /",
-        "similarity": 0.3462
+        "similarity": 0.3846
       },
       {
         "op": "only_b",
@@ -87,7 +87,7 @@
         "op": "match",
         "a": "vñ darinn erforſchen/wzer zegloubē ſchuldig wär. Wie\nkan er des wüſſe habē/ſo ſich ſo hochgelert/vñ treffenlich\ngůbt in der gſchrifft/vñ die ſich der gſchrifft vñ geiſts be\nrümen/alſo zweyend/Darumb on zwyffel ein yeglicher\nChriſt wol ermeſſen mag/das da nüt nützers/vñ darzů\nnüt gewüſſers/dan zeblyben by einigkeit Hheilige Chri\nſtenliche Kilchen:",
         "b": "Wie kan er des\nwuͤssen haben / so sich so hoch gelert / vnnd\ntreffenlich geuͤbt In der gschrifft vnnd die\nsich der gschrifft vnnd geists beruͤmen /.",
-        "similarity": 0.3678
+        "similarity": 0.3908
       },
       {
         "op": "only_a",
@@ -104,7 +104,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3534,
+    "similarity": 0.3701,
     "words": {
       "a": 305,
       "b": 176
@@ -227,18 +227,8 @@
       },
       {
         "op": "equal",
-        "a": "ſo hefftig ſich im",
-        "b": "So hefftig sich Im"
-      },
-      {
-        "op": "replace",
-        "a": "gloubē",
-        "b": "glouben"
-      },
-      {
-        "op": "equal",
-        "a": "zweyen der da erſt",
-        "b": "zweyen der Da erst"
+        "a": "ſo hefftig ſich im gloubē zweyen der da erſt",
+        "b": "So hefftig sich Im glouben zweyen der Da erst"
       },
       {
         "op": "replace",
@@ -272,8 +262,18 @@
       },
       {
         "op": "replace",
-        "a": "ſälig werdē Meyſter Vlrich Zwingli",
-        "b": "sa lig werden Meister V lrich Zwingkly"
+        "a": "ſälig",
+        "b": "sa lig"
+      },
+      {
+        "op": "equal",
+        "a": "werdē",
+        "b": "werden"
+      },
+      {
+        "op": "replace",
+        "a": "Meyſter Vlrich Zwingli",
+        "b": "Meister V lrich Zwingkly"
       },
       {
         "op": "equal",
@@ -392,13 +392,13 @@
       },
       {
         "op": "replace",
-        "a": "vñ darinn erforſchen wzer zegloubē",
-        "b": "vnnd darin ervorschen was er zeglouben"
+        "a": "vñ darinn erforſchen wzer",
+        "b": "vnnd darin ervorschen was er"
       },
       {
         "op": "equal",
-        "a": "ſchuldig",
-        "b": "schuldig"
+        "a": "zegloubē ſchuldig",
+        "b": "zeglouben schuldig"
       },
       {
         "op": "replace",
@@ -412,13 +412,13 @@
       },
       {
         "op": "replace",
-        "a": "wüſſe habē",
-        "b": "wu ssen haben"
+        "a": "wüſſe",
+        "b": "wu ssen"
       },
       {
         "op": "equal",
-        "a": "ſo ſich ſo",
-        "b": "so sich so"
+        "a": "habē ſo ſich ſo",
+        "b": "haben so sich so"
       },
       {
         "op": "replace",

@@ -8,7 +8,7 @@
       239
     ]
   },
-  "alignment_score": 0.3981,
+  "alignment_score": 0.4074,
   "coarse": {
     "paragraphs": {
       "a": 7,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 1,
     "only_b": 3,
-    "similarity": 0.4253,
+    "similarity": 0.4256,
     "pairs": [
       {
         "op": "only_b",
@@ -51,49 +51,33 @@
         "op": "match",
         "a": "Die dritte\nMartinus Bucerus\n\nHieuor am\npꝛ.vii.94.blat. Vff die erst / ist die antwurt geben in der erklaͤr=\nung herrn Berchtolden/die ander bringt dz nit/",
         "b": "Martinus Butzer. VFf die erſt/iſt die antwurt gebẽ in der erklärung Her-\nren Berchtolden/die ander bringt das nit/das Tha-\nbita jr Vffertweckung verdienet habe.",
-        "similarity": 0.5,
-        "semantic": 0.7207,
-        "reading": "same"
+        "similarity": 0.5357
       },
       {
         "op": "match",
         "a": "das Thabita jr vfferweckung verdienet habe. Bůchstab +\n\nVerklaͤrung vnd beståtung miner vor angezo=\ngnen gschrifften / sag ich / das darby geschriben\nstat /",
         "b": "Buͦchſtab. ZVerklärung vnd beſtetung miner vor angezognen Ge-\nſchrifften/ſag ich/das darby geſchriben ſtat/das ſy wä-\nre voll gůter Wercken/vnd Allmüſen geben/als ſy thet/",
-        "similarity": 0.3529,
-        "semantic": 0.8571,
-        "reading": "reworded"
+        "similarity": 0.3529
       },
       {
         "op": "match",
         "a": "das sy wåre vol gůter wercken / vnd almů\nsen geben / als sy thet / volget schier hernach am v. Capi. Das der Engel zů Cornelio hab gesprochen /",
         "b": "volget ſchier hernach am 10. cap. Das der Engel zů Cor-\nnelio hab geſprochen / din Gebät vnd Allmüſen ſind vffge-\nſtigen in die Gedechtnuß /",
-        "similarity": 0.4,
-        "semantic": 0.7255,
-        "reading": "reworded"
+        "similarity": 0.4
       },
       {
         "op": "match",
         "a": "din gebått\nvnd allmůsen sind vffgestigen in die gedechtnus / für das\nangesicht gottes / der glichen wirt ouch funden by dem så\nligen man Thobia /",
         "b": "für das Angeſicht Gottes / der\nglichen wirt ouch funden by dem ſäligen Mañ Thobia/ ſo er ſpricht / mit dem Allmüſen vnd glouben\nwerden abgereiniget die Sünd. ## Marginalien\nSuͦch\nhieuor\n202. vñ\n204. blat.",
-        "similarity": 0.4483,
-        "semantic": 0.7301,
-        "reading": "reworded"
+        "similarity": 0.4138
       },
       {
         "op": "only_a",
         "a": "so er spricht / mitt dem almůsen vnd\nglouben werden abgereiniget die sůnd. Martinus Butzer. Der Thabita halber / ist 8 reyt klar / da laß ichs\nbliben",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6198,
-        "semantic_match": "Actuum am 10. hat Thabita vmb der gůten\nWercken willen / die ſy gethon hat/verdienet von S.Petro\nbarmhertzenklich von dem tod erquickt werden.",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7306,
-    "reworded": 3,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
     "similarity": 0.4872,
@@ -129,18 +113,8 @@
       },
       {
         "op": "equal",
-        "a": "Vff die erst ist die antwurt",
-        "b": "VFf die erſt iſt die antwurt"
-      },
-      {
-        "op": "replace",
-        "a": "geben",
-        "b": "gebẽ"
-      },
-      {
-        "op": "equal",
-        "a": "in der",
-        "b": "in der"
+        "a": "Vff die erst ist die antwurt geben in der",
+        "b": "VFf die erſt iſt die antwurt gebẽ in der"
       },
       {
         "op": "replace",
@@ -284,13 +258,13 @@
       },
       {
         "op": "replace",
-        "a": "så ligen",
-        "b": "ſäligen"
+        "a": "så ligen man",
+        "b": "ſäligen Mañ"
       },
       {
         "op": "equal",
-        "a": "man Thobia so er spricht",
-        "b": "Mañ Thobia ſo er ſpricht"
+        "a": "Thobia so er spricht",
+        "b": "Thobia ſo er ſpricht"
       },
       {
         "op": "replace",
@@ -318,7 +292,7 @@
         "b": "Marginalien Su ch hieuor 202 vñ 204 blat"
       }
     ],
-    "ops": 22,
+    "ops": 21,
     "truncated": false
   }
 }

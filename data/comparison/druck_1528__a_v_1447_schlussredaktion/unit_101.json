@@ -8,7 +8,7 @@
       189
     ]
   },
-  "alignment_score": 0.1847,
+  "alignment_score": 0.1968,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 13,
-    "matched": 2,
-    "only_a": 10,
-    "only_b": 1,
-    "similarity": 0.3589,
+    "units": 12,
+    "matched": 3,
+    "only_a": 9,
+    "only_b": 0,
+    "similarity": 0.3414,
     "pairs": [
       {
         "op": "match",
@@ -60,10 +60,10 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "sin gewalt / sin barmherzi\nkeit sin glori vñ Eer niemand vff ertrich geben / noch im\nhimel / vnd soll ouch dhein mensch nit reden (ob gott wil)\ndas keyner vff diser parthy /",
-        "b": null,
-        "similarity": 0.0
+        "b": "Hab ick Im gester Inn,\nDer ersten beschlußred, gnugsamlichen bescheu\ngeben/ wan echt bescheid will heleffen, In wel¬\nlichem Ich Ime vermitsamlich claplich anzogt\nhaben den gewaelt des allmechtigen nots, sin\ngewaelt, sin barmhertzigkeit, sin glocx vnd Eer\nniemand vff extrick peben noch Im himele vnd\nsoll ouch Ehem monsch mit reden (ob gott (will)\nDas keiner vff diser parthy vnnd ichs darfur\nhab, nu geredt hab, Ime Darnack anzoigt, einen\nverordneten gevollt, den er geben hat sinen vsser\nweelten lieben Jugern vnd soer den gewalt\nvorhin, huusamlich anzoigt, bi stadt hatt. Oviel",
+        "similarity": 0.3065
       },
       {
         "op": "only_a",
@@ -100,17 +100,11 @@
         "a": "vnd das ein ander ding ist / hirten vnd leeren. Berchtoldus",
         "b": null,
         "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "Hab ick Im gester Inn,\nDer ersten beschlußred, gnugsamlichen bescheu\ngeben/ wan echt bescheid will heleffen, In wel¬\nlichem Ich Ime vermitsamlich claplich anzogt\nhaben den gewaelt des allmechtigen nots, sin\ngewaelt, sin barmhertzigkeit, sin glocx vnd Eer\nniemand vff extrick peben noch Im himele vnd\nsoll ouch Ehem monsch mit reden (ob gott (will)\nDas keiner vff diser parthy vnnd ichs darfur\nhab, nu geredt hab, Ime Darnack anzoigt, einen\nverordneten gevollt, den er geben hat sinen vsser\nweelten lieben Jugern vnd soer den gewalt\nvorhin, huusamlich anzoigt, bi stadt hatt. Oviel",
-        "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.3874,
+    "similarity": 0.4009,
     "words": {
       "a": 260,
       "b": 184
@@ -293,13 +287,13 @@
       },
       {
         "op": "equal",
-        "a": "der ersten beschlußred",
-        "b": "Der ersten beschlußred"
+        "a": "der ersten beschlußred gnůgsamlichē",
+        "b": "Der ersten beschlußred gnugsamlichen"
       },
       {
         "op": "replace",
-        "a": "gnůgsamlichē bescheid gebe wen",
-        "b": "gnugsamlichen bescheu geben wan"
+        "a": "bescheid gebe wen",
+        "b": "bescheu geben wan"
       },
       {
         "op": "equal",
@@ -378,13 +372,13 @@
       },
       {
         "op": "replace",
-        "a": "glori vñ",
-        "b": "glocx vnd"
+        "a": "glori",
+        "b": "glocx"
       },
       {
         "op": "equal",
-        "a": "Eer niemand vff",
-        "b": "Eer niemand vff"
+        "a": "vñ Eer niemand vff",
+        "b": "vnd Eer niemand vff"
       },
       {
         "op": "replace",
@@ -463,13 +457,13 @@
       },
       {
         "op": "equal",
-        "a": "einen",
-        "b": "einen"
+        "a": "einen verordnetē",
+        "b": "einen verordneten"
       },
       {
         "op": "replace",
-        "a": "verordnetē gwalt",
-        "b": "verordneten gevollt"
+        "a": "gwalt",
+        "b": "gevollt"
       },
       {
         "op": "equal",

@@ -86,7 +86,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3066,
+    "similarity": 0.3114,
     "words": {
       "a": 248,
       "b": 163
@@ -434,8 +434,18 @@
       },
       {
         "op": "replace",
-        "a": "11 12 18 vñ am 20",
-        "b": "xiij vid xviij vnd om XX"
+        "a": "11 12 18",
+        "b": "xiij vid xviij"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "am 20",
+        "b": "om XX"
       },
       {
         "op": "equal",
@@ -468,7 +478,7 @@
         "b": "geist"
       }
     ],
-    "ops": 38,
+    "ops": 39,
     "truncated": false
   }
 }

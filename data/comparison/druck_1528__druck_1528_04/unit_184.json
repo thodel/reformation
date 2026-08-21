@@ -8,7 +8,7 @@
       217
     ]
   },
-  "alignment_score": 0.2805,
+  "alignment_score": 0.3354,
   "coarse": {
     "paragraphs": {
       "a": 6,
@@ -27,33 +27,25 @@
     "matched": 4,
     "only_a": 2,
     "only_b": 6,
-    "similarity": 0.4737,
+    "similarity": 0.4882,
     "pairs": [
       {
         "op": "only_a",
         "a": "**Die ander**\n**Bichuatter.**\n\nDEr Berchtold/ vff innred miner antwurt/oder\nvnser antwurt/sagt vñ gibt nach/dz der heylig\ngeyst als ein regierer der Kilchẽ etwas habe ver\nkündt/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6708,
-        "semantic_match": "ſonder ich hab geſprochen/ er ſoͤlle\nBewaͤren / das ſy etwas hab geſetzt oder geord=\nnet/ das nit im gotts wort gegruͤndt ſye.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "oder geredt/ durch die heyligen Christenlichen\nKilchen/sagt aber/das er nüt habe gesagt oder geleert/ dann das in der Biblischen geschrifft gegründet sye/das\ngib ich gern nach/das aber das von der heyligen Christen\nlichen Kilchen/den Christen menschen gesetzt oder geord\nnet ist/das das nit komen vß dem heiligen geyst/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7788,
-        "semantic_match": "ſag ich/ Jch\nhab nit geſprochen/ das die Chriſtēlich Kilch nuͤt\nangenommen habe/ das nit in dem Gotts wort\ngegruͤndt ſye/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "oder in\nder geschrifft nit sye gegründet/das stat jm noch zůbewä=\nren/hoff ouch das die auctoritet oder der spruch am ij.",
         "b": "Schlußred. XCVI\nſchrifft nit ſye gegruͤndt/ das ſtadt jm noch zuͤbe=\nwaͤrẽ/ hoff ouch das die auctoritet oder d' ſpruch\nan ij.",
-        "similarity": 0.5417,
-        "semantic": 0.822,
-        "reading": "same"
+        "similarity": 0.5417
       },
       {
         "op": "only_b",
@@ -65,9 +57,7 @@
         "op": "match",
         "a": "zů Timotheum am iij. Capi. durch jn ingelegt. Jm das\nnit werde helffen bewären. **Berchtoldus.**\n\nDIe Kilch Christi/ hat nie nüt angenomen/dañ\ndas im wort gottes gegründet ist/nach lut vnd\nsag der ersten bekanten schlußred/aber die kilch\ndienit Christi ist die hat vsserthalb dem wort gottes vil\nangenomen/der spruch Pauli am ij.",
         "b": "dañ das im wort Gottes gegruͤndt iſt / nach lut\nvñ ſag der erſtẽ bekantẽ ſchlußred. Aber die kilch\ndie nit Chriſti iſt/",
-        "similarity": 0.4051,
-        "semantic": 0.8569,
-        "reading": "reworded"
+        "similarity": 0.3797
       },
       {
         "op": "only_b",
@@ -79,17 +69,13 @@
         "op": "match",
         "a": "zů Thimoth. am iij\nder zeigt an/das die geschrifft gnůgsam ist wyß zemachẽ\nzur säligkeit. **Bichuatter.**\n\nNIder antwurt herr Berchtolds/so er spricht/",
         "b": "wyß zemachen zur ſaͤligkeyt. Bichtuatter. Jn d' antwurt herr Berchtolds/ ſo er ſpricht/ das die Kilch Chriſti nuͤt hab angenomen:",
-        "similarity": 0.3478,
-        "semantic": 0.7721,
-        "reading": "reworded"
+        "similarity": 0.3913
       },
       {
         "op": "match",
         "a": "das die Kilch Christi nüt hab angenomen/dañ\ndas in dem gots wort gegründet ist/vnd wil da=\nmit geantwurt haben/vff das so ich sprich/das die Chri\nstenlich",
         "b": "dann\ndas in dem Gotts wort gegruͤndt iſt/ vñ wil da\nmit geantwurt haben/ vff das ſo ich ſprich/",
-        "similarity": 0.6,
-        "semantic": 0.8387,
-        "reading": "same"
+        "similarity": 0.64
       },
       {
         "op": "only_b",
@@ -115,15 +101,10 @@
         "b": "Berchtoldus. Der Bichtuatter wil mir vſſtrechẽ/ byzebrin=\ngen dz aber jm zuͦſtuͤnde/ als das die kilch Chriſti\netwas vffgeſetzt hette / das nit im Gottes wort",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7899,
-    "reworded": 2,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.3982,
+    "similarity": 0.4026,
     "words": {
       "a": 216,
       "b": 241
@@ -231,13 +212,13 @@
       },
       {
         "op": "replace",
-        "a": "nie nüt angenomen",
-        "b": "nye nu t angenommen"
+        "a": "nie nüt angenomen dañ",
+        "b": "nye nu t angenommen dan"
       },
       {
         "op": "equal",
-        "a": "dañ das im wort gottes",
-        "b": "dan das im wort Gottes"
+        "a": "das im wort gottes",
+        "b": "das im wort Gottes"
       },
       {
         "op": "replace",
@@ -346,18 +327,8 @@
       },
       {
         "op": "equal",
-        "a": "ist wyß",
-        "b": "iſt wyß"
-      },
-      {
-        "op": "replace",
-        "a": "zemachẽ",
-        "b": "zemachen"
-      },
-      {
-        "op": "equal",
-        "a": "zur",
-        "b": "zur"
+        "a": "ist wyß zemachẽ zur",
+        "b": "iſt wyß zemachen zur"
       },
       {
         "op": "replace",
@@ -376,18 +347,8 @@
       },
       {
         "op": "equal",
-        "a": "hab angenomen",
-        "b": "hab angenomen"
-      },
-      {
-        "op": "replace",
-        "a": "dañ",
-        "b": "dann"
-      },
-      {
-        "op": "equal",
-        "a": "das in dem",
-        "b": "das in dem"
+        "a": "hab angenomen dañ das in dem",
+        "b": "hab angenomen dann das in dem"
       },
       {
         "op": "replace",
@@ -425,7 +386,7 @@
         "b": "Chriſtenlich Kilch etwas hab geſetzt das in dem Gotts wort nit gegru ndt ſye dz ſye durch jn noch nit bewa rt mit der gſchrifft ſag ich Jch hab nit geſprochen das die Chriſtēlich Kilch nu t angenommen habe das nit in dem Gotts wort gegru ndt ſye ſonder ich hab geſprochen er ſo lle Bewa ren das ſy etwas hab geſetzt oder geord net das nit im gotts wort gegru ndt ſye Berchtoldus Der Bichtuatter wil mir vſſtreche byzebrin gen dz aber jm zu ſtu nde als das die kilch Chriſti etwas vffgeſetzt hette das nit im Gottes wort"
       }
     ],
-    "ops": 30,
+    "ops": 28,
     "truncated": false
   }
 }

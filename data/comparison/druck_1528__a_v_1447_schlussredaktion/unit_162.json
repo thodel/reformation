@@ -8,7 +8,7 @@
       291
     ]
   },
-  "alignment_score": 0.2267,
+  "alignment_score": 0.2321,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -98,7 +98,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4957,
+    "similarity": 0.5086,
     "words": {
       "a": 247,
       "b": 217
@@ -171,13 +171,13 @@
       },
       {
         "op": "replace",
-        "a": "Chriſte der glichen habē",
-        "b": "christen Derglichen haben"
+        "a": "Chriſte der glichen",
+        "b": "christen Derglichen"
       },
       {
         "op": "equal",
-        "a": "wir",
-        "b": "wir"
+        "a": "habē wir",
+        "b": "haben wir"
       },
       {
         "op": "replace",
@@ -266,13 +266,13 @@
       },
       {
         "op": "equal",
-        "a": "vnderſtanden hat",
-        "b": "vnderstanden hat"
+        "a": "vnderſtanden hat vñ",
+        "b": "vnderstanden hat vnd"
       },
       {
         "op": "replace",
-        "a": "vñ heyßt vnns",
-        "b": "vnd heist vns"
+        "a": "heyßt vnns",
+        "b": "heist vns"
       },
       {
         "op": "equal",
@@ -321,8 +321,18 @@
       },
       {
         "op": "replace",
-        "a": "Sontag vñ zwölffbotten",
-        "b": "Duntag vnd zwolfbotten"
+        "a": "Sontag",
+        "b": "Duntag"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "zwölffbotten",
+        "b": "zwolfbotten"
       },
       {
         "op": "equal",
@@ -655,7 +665,7 @@
         "b": "Creten"
       }
     ],
-    "ops": 55,
+    "ops": 56,
     "truncated": false
   }
 }

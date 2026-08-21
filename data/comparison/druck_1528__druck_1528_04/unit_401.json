@@ -8,7 +8,7 @@
       461
     ]
   },
-  "alignment_score": 0.3885,
+  "alignment_score": 0.4143,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -33,9 +33,7 @@
         "op": "match",
         "a": "Die Sechßte Schlußred. Wie Christus ist allein für vns ge=\nstorben / also sol er ein einiger mittler vnd\nfürsprech / zwüschenn Gott dem Vatter\nvnnd vns glöubigen /",
         "b": "CCXVIII\n\nDie ſechſzt Schluſzred\nWie Chriſtus iſt allein fuͤr vns\ngeſtorbẽ/ alſo ſol er ein einiger mit=\nler vnd fuͤrſprech/",
-        "similarity": 0.5,
-        "semantic": 0.7524,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "only_a",
@@ -59,25 +57,19 @@
         "op": "match",
         "a": "Erklärung der sächßten schlußred\nMeyster Frantz Kolb. Iñ der ersten Epistel\nPetri am ij. Cap. Christus ist\nder/d̃ kein sünd nie gethon hat\nvnnd ist in sinem mund d̃ kein\nbetrug nie erfunden/darumb\nsagt er Johannis am xiiij.",
         "b": "cap. Chriſtus iſt der/ der\nkein ſuͤnd nie gethon\nhat/ vnd iſt in ſinem\nmũd kein Betrug nie\nerfundenn/",
-        "similarity": 0.4918,
-        "semantic": 0.7209,
-        "reading": "reworded"
+        "similarity": 0.4918
       },
       {
         "op": "match",
         "a": "ims\nNachtmal. Der fürst diser\nwelt wåre komen / er hette a=\nber nüt an jm kein vrsach des\ntodes / des sich keyn heylig nie\nhat mögen berümen:",
         "b": "darumb\nſagt er Joannis am\nxiiij. im Nachtmal. Der fuͤrſt diſer welt\nwaͤre komen/ er hette aber nuͤt an jm kein vrſach\ndes tods/",
-        "similarity": 0.4444,
-        "semantic": 0.7361,
-        "reading": "reworded"
+        "similarity": 0.4444
       },
       {
         "op": "match",
         "a": "zun Ephe. am ij. Wan von natur\nwaren wir all kinder des zorns / sy haben all sich müssen\nbekennen / vnd sprechen.",
         "b": "des ſich kein heylig nie hat moͤgen be=\nruͤmen/ zun Epheſ. am ij. Dann von natur wa\nren wir all kinder des zorns/ ſy habẽ all ſich muͤſ\nEe ij",
-        "similarity": 0.4815,
-        "semantic": 0.7108,
-        "reading": "reworded"
+        "similarity": 0.4815
       },
       {
         "op": "only_a",
@@ -85,12 +77,7 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.73,
-    "reworded": 3,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
     "similarity": 0.5325,
@@ -201,13 +188,13 @@
       },
       {
         "op": "replace",
-        "a": "ytz anzerüffen võ",
-        "b": "zyt anzeru ffen von"
+        "a": "ytz anzerüffen",
+        "b": "zyt anzeru ffen"
       },
       {
         "op": "equal",
-        "a": "vns on grund der",
-        "b": "vns on grund der"
+        "a": "võ vns on grund der",
+        "b": "von vns on grund der"
       },
       {
         "op": "replace",
@@ -236,8 +223,18 @@
       },
       {
         "op": "equal",
-        "a": "Frantz Kolb Iñ der",
-        "b": "Frantz Kolb IN der"
+        "a": "Frantz Kolb",
+        "b": "Frantz Kolb"
+      },
+      {
+        "op": "replace",
+        "a": "Iñ",
+        "b": "IN"
+      },
+      {
+        "op": "equal",
+        "a": "der",
+        "b": "der"
       },
       {
         "op": "replace",
@@ -425,7 +422,7 @@
         "b": "mu ſ Ee ij"
       }
     ],
-    "ops": 33,
+    "ops": 34,
     "truncated": false
   }
 }

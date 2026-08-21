@@ -8,7 +8,7 @@
       306
     ]
   },
-  "alignment_score": 0.2636,
+  "alignment_score": 0.3148,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,18 +23,12 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 16,
-    "matched": 5,
-    "only_a": 5,
-    "only_b": 6,
-    "similarity": 0.4887,
+    "units": 15,
+    "matched": 6,
+    "only_a": 4,
+    "only_b": 5,
+    "similarity": 0.4723,
     "pairs": [
-      {
-        "op": "only_a",
-        "a": "Die vierdt\nAdeyster Ulrich zwingy. Als die gab des gloubens / vilen vnderscheid=\nlich merer oder minder geben werde/ erkennē\nwir wol:",
-        "b": null,
-        "similarity": 0.0
-      },
       {
         "op": "only_b",
         "a": null,
@@ -54,18 +48,16 @@
         "similarity": 0.0
       },
       {
-        "op": "only_b",
-        "a": null,
+        "op": "match",
+        "a": "Die vierdt\nAdeyster Ulrich zwingy. Als die gab des gloubens / vilen vnderscheid=\nlich merer oder minder geben werde/ erkennē\nwir wol:",
         "b": "Meiſter Vlrich Zwingly. DAlß die Gaab deß Glaubens vilen unterſchiedlich\nmehr oder minder geben werde/erkennen wir wol: aber diß Argument oder Gegenwurff wurd allein rei=\nchen uff die Groͤſſe deß Glaubens /",
-        "similarity": 0.0
+        "similarity": 0.3333
       },
       {
         "op": "match",
         "a": "aber diß Argumēt / oder gegenwurff\nwurd allein reychē vff die grösse des gloubēs\nvnd nit vff das vermögen des vsserlichen worts/dan so\nder gloub das vermag/vnd nitt das vsser wort/so habē\nwir recht/vñ sind sy von jrem spruch getrungē/",
         "b": "und nit uff das Ver=\nmoͤgen deß uſſerlichen Worts / dann ſo der Glaub das\nvermag / und nit das uſſer Wort/",
-        "similarity": 0.4375,
-        "semantic": 0.8549,
-        "reading": "reworded"
+        "similarity": 0.4375
       },
       {
         "op": "only_b",
@@ -77,42 +69,37 @@
         "op": "match",
         "a": "das das\nvsser wort söllich vermögen hab/als sy anzeygent vonn\nwunderzeychen/die von Petro gewürcket/vñ durch mich\nglöubigen nit gewürckt sind.",
         "b": "Als ſy anzeigend von Wun=\nderzeichen / die von Petro gewuͤrckt / und durch mich\nglaͤubigen nit gewuͤrckt ſind:",
-        "similarity": 0.4186,
-        "semantic": 0.6569,
-        "reading": "reworded"
+        "similarity": 0.4651
       },
       {
         "op": "match",
         "a": "Sag ich das die red vnser\nvordrig meynung bestättet/ dann die wunderwerck we=\nder an minē gloubē noch am vssern wort stand/",
         "b": "ſag ich/daß die Red unſer\nvordrig Meynung bestaͤtet / dann die Wunderwerck\nweder an mynem Glauben noch am uſſern wort ſtahnd/",
-        "similarity": 0.6818,
-        "semantic": 0.7962,
-        "reading": "same"
+        "similarity": 0.6818
       },
       {
         "op": "match",
         "a": "deßhalb\naber jr meynung zeruck lyt/ dann die krafft der wunder\nwercken/nit an vnserm glouben/ sonders an der wal got\ntes stand/daruon hie nit statt ist nach notdurfft zereden/",
         "b": "deßhalb aber ihr Meynung zuruck lyt / dann die Krafft\nder wunderwercken nit an unſerm glauben / ſonders an\nder Wahl Gottes ſtahnd /",
-        "similarity": 0.5385,
-        "semantic": 0.6761,
-        "reading": "same"
+        "similarity": 0.5385
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "darvon hie nit ſtatt iſt nach\nNohtdurfft zereden / und ſind die Ort / die Chriſtus\nvom ſtarcken Glauben redt / nit darwider.",
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "vnd sind die ozt die Christus vom starcken glouben rede\nnit darwider. Pfarrer von Sant Gallen. Jr wüssend wol/das das wort des menschē/als\neins menschē nüt bmag:",
-        "b": "darvon hie nit ſtatt iſt nach\nNohtdurfft zereden / und ſind die Ort / die Chriſtus\nvom ſtarcken Glauben redt / nit darwider.",
-        "similarity": 0.3673,
-        "semantic": 0.679,
-        "reading": "reworded"
+        "b": "Pfarrer von Sant Gallen. WIr wuͤſſend wol / daß das Wort deß Menſchen/ als eines Menſchen nuͤt vermag: aber ſo wir hand=\nlen",
+        "similarity": 0.3774
       },
       {
         "op": "only_a",
         "a": "aber so wir handlen vß\ndem beuelch vñ wort gottes so thůt es nit allein\nnatürliche ding/sonders übernatürliche/ dz eroffnet sich\nin dē wort/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6612,
-        "semantic_match": "Meiſter Vlrich Zwingly. DAlß die Gaab deß Glaubens vilen unterſchiedlich\nmehr oder minder geben werde/erkennen wir wol: aber diß Argument oder Gegenwurff wurd allein rei=\nchen uff die Groͤſſe deß Glaubens /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -131,22 +118,11 @@
         "a": "Petri am ersten cap. vnd zun Römern am am 9. Epitel.",
         "b": null,
         "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "Pfarrer von Sant Gallen. WIr wuͤſſend wol / daß das Wort deß Menſchen/ als eines Menſchen nuͤt vermag: aber ſo wir hand=\nlen",
-        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7207,
-    "reworded": 3,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4229,
+    "similarity": 0.4545,
     "words": {
       "a": 253,
       "b": 253
@@ -189,28 +165,8 @@
       },
       {
         "op": "equal",
-        "a": "oder minder geben werde",
-        "b": "oder minder geben werde"
-      },
-      {
-        "op": "replace",
-        "a": "erkennē",
-        "b": "erkennen"
-      },
-      {
-        "op": "equal",
-        "a": "wir wol aber diß",
-        "b": "wir wol aber diß"
-      },
-      {
-        "op": "replace",
-        "a": "Argumēt",
-        "b": "Argument"
-      },
-      {
-        "op": "equal",
-        "a": "oder gegenwurff wurd allein",
-        "b": "oder Gegenwurff wurd allein"
+        "a": "oder minder geben werde erkennē wir wol aber diß Argumēt oder gegenwurff wurd allein",
+        "b": "oder minder geben werde erkennen wir wol aber diß Argument oder Gegenwurff wurd allein"
       },
       {
         "op": "replace",
@@ -269,28 +225,8 @@
       },
       {
         "op": "equal",
-        "a": "das vsser wort so",
-        "b": "das uſſer Wort ſo"
-      },
-      {
-        "op": "replace",
-        "a": "habē",
-        "b": "haben"
-      },
-      {
-        "op": "equal",
-        "a": "wir recht",
-        "b": "wir recht"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "und"
-      },
-      {
-        "op": "equal",
-        "a": "sind sy von",
-        "b": "ſind ſy von"
+        "a": "das vsser wort so habē wir recht vñ sind sy von",
+        "b": "das uſſer Wort ſo haben wir recht und ſind ſy von"
       },
       {
         "op": "replace",
@@ -299,13 +235,13 @@
       },
       {
         "op": "equal",
-        "a": "spruch",
-        "b": "Spruch"
+        "a": "spruch getrungē",
+        "b": "Spruch getrungen"
       },
       {
         "op": "replace",
-        "a": "getrungē das",
-        "b": "getrungen daß"
+        "a": "das",
+        "b": "daß"
       },
       {
         "op": "equal",
@@ -334,13 +270,13 @@
       },
       {
         "op": "replace",
-        "a": "gewürcket vñ",
-        "b": "gewu rckt und"
+        "a": "gewürcket",
+        "b": "gewu rckt"
       },
       {
         "op": "equal",
-        "a": "durch mich",
-        "b": "durch mich"
+        "a": "vñ durch mich",
+        "b": "und durch mich"
       },
       {
         "op": "replace",
@@ -514,18 +450,28 @@
       },
       {
         "op": "replace",
-        "a": "des menschē",
-        "b": "deß Menſchen"
+        "a": "des",
+        "b": "deß"
       },
       {
         "op": "equal",
-        "a": "als",
-        "b": "als"
+        "a": "menschē als",
+        "b": "Menſchen als"
       },
       {
         "op": "replace",
-        "a": "eins menschē nüt bmag",
-        "b": "eines Menſchen nu t vermag"
+        "a": "eins",
+        "b": "eines"
+      },
+      {
+        "op": "equal",
+        "a": "menschē",
+        "b": "Menſchen"
+      },
+      {
+        "op": "replace",
+        "a": "nüt bmag",
+        "b": "nu t vermag"
       },
       {
         "op": "equal",
@@ -538,7 +484,7 @@
         "b": "hand len"
       }
     ],
-    "ops": 39,
+    "ops": 36,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       380
     ]
   },
-  "alignment_score": 0.3827,
+  "alignment_score": 0.4103,
   "coarse": {
     "paragraphs": {
       "a": 8,
@@ -27,16 +27,13 @@
     "matched": 6,
     "only_a": 2,
     "only_b": 3,
-    "similarity": 0.5454,
+    "similarity": 0.5585,
     "pairs": [
       {
         "op": "only_a",
         "a": "**Schlußred.**\n\nHierumb ſin vßlegung / ſo er ſagt / der fleyſchlich ver=\nſtand ſye kein nütz/iſt ein gezwungne gloß/ vnd redt der\nherr noch ein wort/vñ zücht dz Capitel in ein ſum ſprech\nend.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6845,
-        "semantic_match": "darumb daß\ner gen Himmel geſtigen vß Goͤttlicher Krafft / ſo er vor hat\ngeredt im ſterblichen laͤben / nit zuͦ entgegen ſyn kan:",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -48,9 +45,7 @@
         "op": "match",
         "a": "vnnd zeygt an den geyſt\nGottes in vnns / welches ſo ein Chriſt in ſynem hertzen\nverſichert iſt/wirt er ſich des troſt gern benügen laſſen.",
         "b": "346         Die vierdt\nvertruwen macht vns laͤbenhafftig / vnnd zeigt an den\nGeiſt Gottes in vns / welches ſo ein Chriſt in ſynem Her-\ntzen verſichert iſt /",
-        "similarity": 0.5098,
-        "semantic": 0.8003,
-        "reading": "same"
+        "similarity": 0.5098
       },
       {
         "op": "only_b",
@@ -62,33 +57,25 @@
         "op": "match",
         "a": "**Pfarrer von ſant Gallen**\n\nEſtlich vnnſere ingefürten erklärung / über die\nangezognen wort / mit gegebner antwurt vmb\nkürtze willen beuelhen wirs den Actis /",
         "b": "uͤber die an-\ngezognen wort / mit gegebner antwurt vmb kuͤrtze\nwillen / befelchen wirs den Actis / vnd dem Chriſten-\nlichen Laͤſer.",
-        "similarity": 0.4444,
-        "semantic": 0.6168,
-        "reading": "reworded"
+        "similarity": 0.4444
       },
       {
         "op": "match",
         "a": "vñ dem\nChriſtenlichen läſer. **Ecolampadius.**\n\nWJr beuelhens ouch der Kilchen Chriſti/ vnd allen\nChriſtenlichen läſern. **Pfarrer von Sant gallen.**\n\nIn den dryen Articklen des gloubens.",
         "b": "Ecolampadius. WIr befelchens ouch der Kilchen Chriſti / vnnd allen\nChriſtenlichen Laͤſern. Pfarrer von Sant Gallen. VOn den dryen Articklen deß Gloubens:",
-        "similarity": 0.6383,
-        "semantic": 0.8812,
-        "reading": "same"
+        "similarity": 0.6383
       },
       {
         "op": "match",
         "a": "Namlich\ndas er ſye vffgefaren gen himlen / ſöllen wüſſen\nalle Chriſtliche hertzen/da Chriſtus das Nacht\nmal hatt ingeſetzt mit den worten.",
         "b": "Namlich\ndaß er ſye vffgefaren gen Him̃el / ſoͤllen wuͤſſen alle\nChriſtliche Hertzen / da Chriſtus das Nachtmal\nhat jngeſetzt mit den worten:",
-        "similarity": 0.6522,
-        "semantic": 0.8708,
-        "reading": "same"
+        "similarity": 0.6522
       },
       {
         "op": "match",
         "a": "Nemend vnd eſſend/ das iſt myn lyb/iſt er by ſynen jüngern noch vff erden ge\nweſen/vnd die himmelfart nochmals nit volfürt/dar=\numb das er gen himel geſtigen vß Göttlicher krafft /",
         "b": "Nemmend vnd eſſend / das iſt\nmyn lyb / iſt er by ſynen Juͤngern noch vff Erden geweſen / vnnd die Himmelfart nochmals nit volfuͤrt /",
-        "similarity": 0.5965,
-        "semantic": 0.8791,
-        "reading": "same"
+        "similarity": 0.5965
       },
       {
         "op": "only_b",
@@ -100,9 +87,7 @@
         "op": "match",
         "a": "ſo\ners voz hatt geredt im ſterblichen läben/nit zů entgegen\nſin kan. Siewyl vnd Chriſtus nach gemeynem vnſerm\ngloubẽ/als wir bekennẽ/jn eins ſin mit dem vatter. Jo=\nannes",
         "b": "Die-\nwyl vnd Chriſtus nach gemeinem vnſerm Glouben / als\nwir bekennen / jn eins ſin mit dem Vatter / Johannis am\n10.",
-        "similarity": 0.4314,
-        "semantic": 0.7065,
-        "reading": "reworded"
+        "similarity": 0.5098
       },
       {
         "op": "only_b",
@@ -110,15 +95,10 @@
         "b": "Capitel / vnd jm gegeben ſyn aller Gewalt im Himmel\nvnd",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.777,
-    "reworded": 2,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5146,
+    "similarity": 0.5291,
     "words": {
       "a": 219,
       "b": 193
@@ -251,18 +231,8 @@
       },
       {
         "op": "equal",
-        "a": "wirs den Actis",
-        "b": "wirs den Actis"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "dem",
-        "b": "dem"
+        "a": "wirs den Actis vñ dem",
+        "b": "wirs den Actis vnd dem"
       },
       {
         "op": "replace",
@@ -461,28 +431,8 @@
       },
       {
         "op": "equal",
-        "a": "vnſerm",
-        "b": "vnſerm"
-      },
-      {
-        "op": "replace",
-        "a": "gloubẽ",
-        "b": "Glouben"
-      },
-      {
-        "op": "equal",
-        "a": "als wir",
-        "b": "als wir"
-      },
-      {
-        "op": "replace",
-        "a": "bekennẽ",
-        "b": "bekennen"
-      },
-      {
-        "op": "equal",
-        "a": "jn eins ſin mit dem",
-        "b": "jn eins ſin mit dem"
+        "a": "vnſerm gloubẽ als wir bekennẽ jn eins ſin mit dem",
+        "b": "vnſerm Glouben als wir bekennen jn eins ſin mit dem"
       },
       {
         "op": "replace",
@@ -490,7 +440,7 @@
         "b": "Vatter Johannis am 10 Capitel vnd jm gegeben ſyn aller Gewalt im Himmel vnd"
       }
     ],
-    "ops": 37,
+    "ops": 34,
     "truncated": false
   }
 }

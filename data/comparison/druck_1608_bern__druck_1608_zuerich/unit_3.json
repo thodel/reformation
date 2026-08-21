@@ -27,15 +27,13 @@
     "matched": 5,
     "only_a": 0,
     "only_b": 1,
-    "similarity": 0.6928,
+    "similarity": 0.6843,
     "pairs": [
       {
         "op": "match",
         "a": "luͤten. Ouch allen vnſeren lieben getruͤwen/ vnſer Stetten/Landen/ vnd Gebieten/Yn-\nwonern/Hinderſaͤſſen/vnd vnſerer verwalti-\ngung vnd zuͦgehoͤrigẽ/niemandts vßbeſchloſ-\nſen/denen diſer Brieff zuͦkumpt/vnſern guͤn-\nſtigen gruͤß/vnd alles guͦts zuͦuor.",
         "b": "lüten. Ouch allen vnſeren lieben getrüwen/ vnſer Stetten/ Landen/ vnd Gebieten/ Yn-\nwonern/ Hinderſäſſen/ vnd vnſerer verwalti-\ngung vnd zůgehörigẽ/",
-        "similarity": 0.4923,
-        "semantic": 0.7561,
-        "reading": "reworded"
+        "similarity": 0.4923
       },
       {
         "op": "only_b",
@@ -47,43 +45,30 @@
         "op": "match",
         "a": "Vnd fuͤgen\nuͤch hiemit zuͦ wuͤſſen: Wiewol wir hieuor zuͦ\nmermalen/vil vnd mancherley Mandaten/ von wegen der zweyſpaltung deß Gloubens/",
         "b": "Wiewol wir hieuor zů\nmermalen/ vil vnd mancherley Mandaten/ von wegen der zweyſpaltung deß Gloubens/ haben laſſen vßgon/ der hoffnung vnd zůuer-\nſicht/",
-        "similarity": 0.6383,
-        "semantic": 0.6986,
-        "reading": "same"
+        "similarity": 0.6383
       },
       {
         "op": "match",
         "a": "haben laſſen vßgon/der hoffnung vnd zuͦuer-\nſicht/ſoͤlichs ſolte vnd wurde zuͦ frid/ruͦw/vnd\nChriſtenlicher Einigkeit gedienen/Das aber\nbißhar nit ſo vil frucht bracht/dann das fuͤr\nvnd fuͤr zwytråcht/mißhäll/",
         "b": "ſölichs ſolte vnd wurde zů frid/ růw/ vnd\nChriſtenlicher Einigkeit gedienen/ Das aber\nbißhar nit ſo vil frucht bracht/ dann das für\nvnd für zwytråcht /",
-        "similarity": 0.6562,
-        "semantic": 0.9013,
-        "reading": "same"
+        "similarity": 0.6562
       },
       {
         "op": "match",
         "a": "widerwertig\nmeinung/vnd vnglych verſtånd vßgebrochẽ. Harflieſſend vß dem/das die Predicanten al-\nlenthalben in vnſeren Stetten/Landen vnd\nGebieten/in verkuͤndung deß Wort Gottes/",
         "b": "mißhäll / widerwertig\nmeinung/ vnd vnglych verſtånd vßgebrochẽ. Harflieſſend vß dem/ das die Predicanten al-\nlenthalben in vnſeren Stetten/ Landen vnd\nGebieten/",
-        "similarity": 0.8511,
-        "semantic": 0.9135,
-        "reading": "same"
+        "similarity": 0.8085
       },
       {
         "op": "match",
         "a": "vnglychfoͤrmiger Vßlegung/ vnd Lere/ſich\ngebruchend. Dadurch ein Parthy diſem/vnd\ndie andre dem andren/ſich anhenckt: vnd ein\njeder",
         "b": "in verkůndung deß Wort Gottes/ vnglychförmiger Vßlegung/ vnd Lere / ſich\ngebruchend. Dadurch ein Parthy diſem/ vnd\ndie andre dem andren/ ſich anhenckt: vnd ein\njeder",
-        "similarity": 0.8261,
-        "semantic": 0.7993,
-        "reading": "same"
+        "similarity": 0.8261
       }
-    ],
-    "semantic": 0.8138,
-    "reworded": 1,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.8,
+    "similarity": 0.7931,
     "words": {
       "a": 155,
       "b": 135
@@ -236,8 +221,18 @@
       },
       {
         "op": "equal",
-        "a": "zwytråcht mißhäll widerwertig meinung vnd vnglych verſtånd vßgebroche Harflieſſend vß dem das die Predicanten al lenthalben in vnſeren Stetten Landen vnd Gebieten in",
-        "b": "zwytråcht mißhäll widerwertig meinung vnd vnglych verſtånd vßgebrochẽ Harflieſſend vß dem das die Predicanten al lenthalben in vnſeren Stetten Landen vnd Gebieten in"
+        "a": "zwytråcht mißhäll widerwertig meinung vnd vnglych verſtånd",
+        "b": "zwytråcht mißhäll widerwertig meinung vnd vnglych verſtånd"
+      },
+      {
+        "op": "replace",
+        "a": "vßgebroche",
+        "b": "vßgebrochẽ"
+      },
+      {
+        "op": "equal",
+        "a": "Harflieſſend vß dem das die Predicanten al lenthalben in vnſeren Stetten Landen vnd Gebieten in",
+        "b": "Harflieſſend vß dem das die Predicanten al lenthalben in vnſeren Stetten Landen vnd Gebieten in"
       },
       {
         "op": "replace",
@@ -260,7 +255,7 @@
         "b": "Vßlegung vnd Lere ſich gebruchend Dadurch ein Parthy diſem vnd die andre dem andren ſich anhenckt vnd ein jeder"
       }
     ],
-    "ops": 17,
+    "ops": 18,
     "truncated": false
   }
 }

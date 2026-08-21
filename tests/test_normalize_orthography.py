@@ -45,19 +45,19 @@ class TestCombiningDiacritics:
 
     def test_macron_stripped(self):
         r = normalize("x\u0304")
-        assert r.normalized == "x"
+        assert r.normalized == "xn"   # #21: expanded, not stripped
 
     def test_nasal_strip_m(self):
         r = normalize("m\u0304")
-        assert r.normalized == "m"
+        assert r.normalized == "mm"   # #21: m + bar -> mm (kom̃en -> kommen)
 
     def test_nasal_strip_n(self):
         r = normalize("n\u0304")
-        assert r.normalized == "n"
+        assert r.normalized == "nn"   # #21: n + bar -> nn (dañ -> dann)
 
     def test_nasal_strip_z(self):
         r = normalize("z\u0304")
-        assert r.normalized == "z"
+        assert r.normalized == "zn"   # #21: expanded, not stripped
 
 
 class TestAbbreviationPatterns:
@@ -130,9 +130,11 @@ class TestUnicodeEquivalence:
         assert normalize("ä").normalized == "a"
 
     def test_precomposed_macron_and_tilde_are_reached(self):
-        assert normalize("ſchadē").normalized == "schade"
-        assert normalize("gemeñ").normalized == "gemen"
-        assert normalize("ẽ").normalized == "e"
+        # #21: the nasal bar is resolved, so an abbreviation and its written-out
+        # form agree instead of differing by the letter that was abbreviated.
+        assert normalize("ſchadē").normalized == "schaden"
+        assert normalize("gemeñ").normalized == "gemenn"
+        assert normalize("ẽ").normalized == "en"
 
     def test_output_carries_no_combining_marks(self):
         import unicodedata
@@ -143,3 +145,44 @@ class TestUnicodeEquivalence:
     def test_original_is_preserved_unchanged(self):
         source = "z" + "u" + "ͦ"
         assert normalize(source).original == source
+
+
+class TestNasalBarExpansion:
+    """#21: the nasal bar is resolved, not dropped.
+
+    Dropping it made an abbreviation disagree with its written-out form -
+    "schadē" against "schaden" - which is a variant the edition never had.
+    Resolution follows the carrier, as attested in the corpus.
+    """
+
+    def test_abbreviation_matches_the_written_form(self):
+        for short, full in [("schadē", "schaden"), ("habē", "haben"),
+                            ("dañ", "dann"), ("kom̃en", "kommen"),
+                            ("Chriſtū", "Christum"), ("zũ", "zum"), ("võ", "von")]:
+            assert normalize(short).normalized.lower() == normalize(full).normalized.lower(), short
+
+    def test_vnd_is_not_doubled(self):
+        """vñ is the period's ampersand: it stands for vnd, never vnn.
+
+        At 350 occurrences it is the most common abbreviated form in the
+        corpus, so a generic n-doubling rule would corrupt it more than any
+        other word.
+        """
+        assert normalize("vñ").normalized.lower() == normalize("vnd").normalized.lower()
+        assert normalize("vn̄").normalized.lower() == normalize("vnd").normalized.lower()
+        assert "nn" not in normalize("vñ").normalized.lower()
+
+    def test_u_takes_m_finally_and_n_before_a_consonant(self):
+        assert normalize("Chriſtū").normalized.lower().endswith("um")
+        assert normalize("meinūg").normalized.lower() == normalize("meinung").normalized.lower()
+
+    def test_text_without_a_nasal_bar_is_untouched(self):
+        # rules_applied is absent when nothing fired, so read it defensively.
+        result = normalize("gemeine kilch")
+        assert result.normalized == "gemeine kilch"
+        assert "nasal_expanded" not in result.normalization_info.get("rules_applied", [])
+
+    def test_the_ring_still_folds_after_expansion(self):
+        # The expansion must not recompose: a precomposed ů would then survive
+        # the fold that only looks for combining marks.
+        assert normalize("nůn̄dte").normalized.lower() == "nunndte"

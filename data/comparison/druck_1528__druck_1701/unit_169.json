@@ -8,7 +8,7 @@
       178
     ]
   },
-  "alignment_score": 0.2389,
+  "alignment_score": 0.2545,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 2,
     "only_b": 3,
-    "similarity": 0.4392,
+    "similarity": 0.451,
     "pairs": [
       {
         "op": "only_b",
@@ -45,17 +45,13 @@
         "op": "match",
         "a": "Die ander\nMartinus Butzer. WIr laſſen es bliben / by dem vrteyl der glöubigen\nwañdz oꝛt zun Galathern/antrifft alle Chriſte\nder glichen habē wir ouch zü den Colloß.",
         "b": "Martinus Butzer. WJr laſſen es blyben by dem Urtheil der Gläubigen / wann das ort zun Galatern antrifft alle Chriſten / derglychen haben wir auch zů den Coloſſ.",
-        "similarity": 0.4727,
-        "semantic": 0.8001,
-        "reading": "reworded"
+        "similarity": 0.5091
       },
       {
         "op": "match",
         "a": "am ij. So land nun üch niemand gewüſſen machen/zc. Diewil\ndann die Chriſtenlich leer verbütet an ſondre tag/die ge\nwüſſen der glöubigen zübinden/ſo ligts am tag/das nun\nder widerchriſtlich gewalt ſolichs vnderſtanden hat/",
         "b": "am 2. So\nland nun euch Niemand Gewüſſen machen / ꝛc. Die=\nwyl dann die Chriſtenlich Lehr verbütet / an ſondere tag\ndie Gewüſſen der Gläubigen zů binden /",
-        "similarity": 0.4762,
-        "semantic": 0.802,
-        "reading": "reworded"
+        "similarity": 0.4762
       },
       {
         "op": "only_b",
@@ -67,41 +63,31 @@
         "op": "match",
         "a": "vñ\nheyßt vnns der widerchriſt / wår ye ſolichs fürgenom=\nmen hatt. Johannes Büchſtab. DEwil ir geſtern haben zügebẽ/den Sontag vñ\nzwölffbotten tag /",
         "b": "Johannes Büchſtab. DJewyl ihr geſtern haben zůgeben / den Sonntag\nund Zwölffbotten=Tag von der Kilchen mögen uff\nſyn geſetzt worden /",
-        "similarity": 0.3256,
-        "semantic": 0.6727,
-        "reading": "reworded"
+        "similarity": 0.3721
       },
       {
         "op": "match",
         "a": "von der Kilchen mögen vff\nſyn geſetzt worden/mögen ouch diſe ſtück beſton\ndas aber ich gefragt/ob der Bapſt wåre der widerchriſt/",
         "b": "mögen auch diſe Stuck beſtohn / daß\naber ich gefragt / ob der Bapſt wäre der Widerchriſt / wolt ich mit Bibliſcher Geſchrifft darwider geredt ha=\nben :",
-        "similarity": 0.5106,
-        "semantic": 0.5494,
-        "reading": "check"
+        "similarity": 0.5106
       },
       {
         "op": "match",
         "a": "wolt ich mit Bibliſcher gſchrifft/darwider geredt haben/ aber witter an die ſach zügriffen / das wir ouch andre ge\nſchrifften in der Bibli mit begriffen zü Chriſtenlicher oꝛd=\nnung vnd leere dienend /",
         "b": "Aber wyter an die Sach zů gryffen / daß wir auch\nandere Geſchrifften / in der Bibli nit begriffen / zů Chri=\nſtenlicher Ordnung und Lehre dienend /",
-        "similarity": 0.4286,
-        "semantic": 0.8358,
-        "reading": "reworded"
+        "similarity": 0.4286
       },
       {
         "op": "match",
         "a": "ouch halten mögen/ find ich by\ndem heyligen Paulo/zü den Coꝛinthern/Epiſtola j. Ca=\npite. xv. Das er anzücht den Poeten Therentium/das\ner ſpricht.",
         "b": "auch halten mö=\ngen / find ich by dem heiligen Paulo zů den Corinthern\nEpiſt. I. Cap. 15. daß er anzücht den Poeten Terenti=\num /",
-        "similarity": 0.52,
-        "semantic": 0.7937,
-        "reading": "same"
+        "similarity": 0.52
       },
       {
         "op": "match",
         "a": "Böſe geſchwåtz verderbe güt ſytten/deßglich\nen zü den Epheſern am v. zücht er harin/ als ob es an=\ndersch wo warhafftigklich geſchriben ſtånd/ſtond vff der\ndu ſchlaffeſt.",
         "b": "daß er ſpricht : Böſe Geſchwätz verderben gůte\nSitten / deßglychen zů den Epheſ. am 5. zücht er haryn / als",
-        "similarity": 0.3404,
-        "semantic": 0.8003,
-        "reading": "reworded"
+        "similarity": 0.3404
       },
       {
         "op": "only_a",
@@ -115,15 +101,10 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7506,
-    "reworded": 5,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4603,
+    "similarity": 0.4728,
     "words": {
       "a": 247,
       "b": 231
@@ -201,13 +182,13 @@
       },
       {
         "op": "replace",
-        "a": "Chriſte der glichen habē",
-        "b": "Chriſten derglychen haben"
+        "a": "Chriſte der glichen",
+        "b": "Chriſten derglychen"
       },
       {
         "op": "equal",
-        "a": "wir",
-        "b": "wir"
+        "a": "habē wir",
+        "b": "haben wir"
       },
       {
         "op": "replace",
@@ -316,13 +297,13 @@
       },
       {
         "op": "equal",
-        "a": "hat",
-        "b": "hat"
+        "a": "hat vñ",
+        "b": "hat und"
       },
       {
         "op": "replace",
-        "a": "vñ heyßt vnns",
-        "b": "und heißt uns"
+        "a": "heyßt vnns",
+        "b": "heißt uns"
       },
       {
         "op": "equal",
@@ -361,13 +342,13 @@
       },
       {
         "op": "replace",
-        "a": "Sontag vñ",
-        "b": "Sonntag und"
+        "a": "Sontag",
+        "b": "Sonntag"
       },
       {
         "op": "equal",
-        "a": "zwölffbotten tag von der Kilchen mögen vff ſyn geſetzt worden mögen",
-        "b": "Zwölffbotten Tag von der Kilchen mögen uff ſyn geſetzt worden mögen"
+        "a": "vñ zwölffbotten tag von der Kilchen mögen vff ſyn geſetzt worden mögen",
+        "b": "und Zwölffbotten Tag von der Kilchen mögen uff ſyn geſetzt worden mögen"
       },
       {
         "op": "replace",

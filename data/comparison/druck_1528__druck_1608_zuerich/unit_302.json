@@ -8,7 +8,7 @@
       349
     ]
   },
-  "alignment_score": 0.5023,
+  "alignment_score": 0.5187,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 2,
     "only_b": 2,
-    "similarity": 0.5413,
+    "similarity": 0.5447,
     "pairs": [
       {
         "op": "only_b",
@@ -39,57 +39,43 @@
         "op": "match",
         "a": "Die vierde\nlung/wirt vns hie verkündet/darumb man ouch Gott\ndanck sagt. Ich vermein ouch/herr Benedict söll mir dz\nnit löugnen/das keiner sölich Sacrament empfachenn\nsol/er hab dann vorhin ein gloubē/das jm sin sünd durch\ndas lyden Christi verzigen syend:",
         "b": "Jch ver-\nmein ouch/Herr Benedict ſoͤll mir das nit loͤugnen/das\nkeiner ſoͤlich Sacrament empfachen ſol/er hab dann vor-\nhin ein glouben/das jm ſin Suͤnd durch das lyden Chri-\nſti verzigen ſyend:",
-        "similarity": 0.5,
-        "semantic": 0.9055,
-        "reading": "same"
+        "similarity": 0.5238
       },
       {
         "op": "match",
         "a": "dañ das gehört darzü\ndas sich der mensch selbs bewäre/probiere/in der erstenn\nzun Corinthiern am .xi. cap. So nun der mensch erkennt/",
         "b": "dann das gehoͤrt darzuͤ/das ſicht der\nMenſch ſelbs bewaͤre/probiere/in der erſten zun Corinth. am 11.",
-        "similarity": 0.5,
-        "semantic": 0.663,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "match",
         "a": "das jm das blüt schon vßgereylt ist/so wirdt sich sin red\nnit schicken/als söll es jm aller erst vßgereylt werde.",
         "b": "Capit. So nun der Menſch erkennt/das jm das\nBluͤt ſchon vßgetheilt iſt/ſo wirdt ſich ſin red nit ſchicken/",
-        "similarity": 0.5581,
-        "semantic": 0.8633,
-        "reading": "same"
+        "similarity": 0.5581
       },
       {
         "op": "match",
         "a": "So\nwirt sin bewärnuß/das der wyn oder in dem wyn/syewes\nsenlich blüt/aber eins nit gestan. Pfarrer von Sant gallen.",
         "b": "als ſoͤll es jm aller erſt vßgetheilt werden. So wirt ſin be-\nwaͤrnuß/das der Wyn oder in dem Wyn/ſye waͤſenlich\nBluͤt/aber eins nit geſtan.",
-        "similarity": 0.566,
-        "semantic": 0.6618,
-        "reading": "same"
+        "similarity": 0.566
       },
       {
         "op": "match",
         "a": "Vnd die ableinung so min herr Doctor vermeint/ die wort des Kelchs/nit also zuͦ vstan sin/wölt\nich gern demütigklich/ouch eins von jm fragen/",
         "b": "Pfarrer von Sant Gallen. VF die ableinung ſo myn Herr Doctor vermeint/die\nwort deß Kelchs/nit alſo zuͤuerſtan ſin/woͤlt ich\ngern demuͤtigklich/ouch eins von jm fragen/zuͤ ent-\nſcheidung/da der Herr geſagt hat:",
-        "similarity": 0.6061,
-        "semantic": 0.7237,
-        "reading": "same"
+        "similarity": 0.6061
       },
       {
         "op": "match",
         "a": "zuͦ entscheidnüg/da der Herr gesagt hat: Trinckeñd all\ndarus/sprechende: Das ist min blüt/was der herr sinen\njüngeren dargereycht hab/oder was sy truncken haben.",
         "b": "Trincken all daruß/ ſprechende: Das iſt myn Bluͤt/waß der Herr ſinen Juͤn-\ngeren dargereicht hab/oder was ſy truncken haben.",
-        "similarity": 0.549,
-        "semantic": 0.7811,
-        "reading": "same"
+        "similarity": 0.549
       },
       {
         "op": "match",
         "a": "Ecolampadius. Ist üch lieb/das jr üch welled verzichen der yn=\ngezognen figure/so wil ich üch von stundan vff\nüwer frag antwurten:",
         "b": "Ecolampadius. JSt uͤch lieb/das jr uͤch wellend verzichen der vnge-\nzognen figuren/ſo wil ich uͤch von ſtund an vff uͤwer\nfrag antwurten:",
-        "similarity": 0.5098,
-        "semantic": 0.8441,
-        "reading": "same"
+        "similarity": 0.5098
       },
       {
         "op": "only_a",
@@ -109,15 +95,10 @@
         "b": "wo das nit/wellen wir das vordrig\nabrichten. Rr ij",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7775,
-    "reworded": 0,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.6017,
+    "similarity": 0.6059,
     "words": {
       "a": 239,
       "b": 233
@@ -210,18 +191,8 @@
       },
       {
         "op": "equal",
-        "a": "ein",
-        "b": "ein"
-      },
-      {
-        "op": "replace",
-        "a": "gloubē",
-        "b": "glouben"
-      },
-      {
-        "op": "equal",
-        "a": "das jm sin",
-        "b": "das jm ſin"
+        "a": "ein gloubē das jm sin",
+        "b": "ein glouben das jm ſin"
       },
       {
         "op": "replace",
@@ -569,7 +540,7 @@
         "b": "Rr ij"
       }
     ],
-    "ops": 45,
+    "ops": 44,
     "truncated": false
   }
 }

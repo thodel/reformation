@@ -8,7 +8,7 @@
       341
     ]
   },
-  "alignment_score": 0.2905,
+  "alignment_score": 0.2958,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -45,17 +45,13 @@
         "op": "match",
         "a": "Schlußred. heyssen/das die Apostel vnd prediger/die vnd die andre\nwunderzeychen thůn werdent/so hatt er nun den gloubē\nvnd das vsser wort by einandern /",
         "b": "ſo hat er nun den Glou-\nben vnd das vſſer wort by einanderen/vol ſtrecke mir das/ das vſſer wort heißt/oder verheißt.",
-        "similarity": 0.3673,
-        "semantic": 0.6239,
-        "reading": "reworded"
+        "similarity": 0.3673
       },
       {
         "op": "match",
         "a": "volstrecke mir das/ dz vsser wort heyßt/oder verheyßt. So ich nun dz nit zů\nversůchung red / vnd nitt zweyffel er werde sich des nitt\nvnderston/danner wol wůssen mag/das er mit dem vss-\nsern wort/ouch by sinem gloubē /",
         "b": "So ich nun das nit zuͦ\nverſuͦchung red/vnd nit zwyffel er werde ſich deß nit vn-\nderſton/dann er wol wüſſen mag/",
-        "similarity": 0.4,
-        "semantic": 0.8463,
-        "reading": "reworded"
+        "similarity": 0.4
       },
       {
         "op": "only_b",
@@ -67,34 +63,25 @@
         "op": "match",
         "a": "also nütz vermag/es sye\ndann das gott geualle sollichs zewůrcken. So hoff ich es\nsye niemands so eins klynen verstands/dann das er ver=\nmercke/das die vssern wort nütz vermöge/für oder har\nzebringen/ob glich der gloub da sye /",
         "b": "So hoff ich es\nſye niemands ſo eins kleinen verſtands/dann daß er ver-\nmercke/das die vſſern wort nütz vermögen/für oder har ze-\nbringen/ob glych der Gloub da ſye /",
-        "similarity": 0.7027,
-        "semantic": 0.9026,
-        "reading": "same"
+        "similarity": 0.7027
       },
       {
         "op": "match",
         "a": "vnnd valt damit jr\ngrund hin. Das wort bringt mit jm̄/ dz es bedůtet oder\nverheisset. Pfarrer von sant Gallen\n[Large initial D] Er da nitt handlet vß dē wort vnd beuelch got\ntes/da ist zener messen /",
         "b": "vnnd falt damit jr\ngrund hin/ Das wort bringt mit im/das es beduͤtet oder\nverheiſſet. Pfarrer von Sant Gallen.",
-        "similarity": 0.5763,
-        "semantic": 0.8433,
-        "reading": "same"
+        "similarity": 0.5763
       },
       {
         "op": "match",
         "a": "das er den geyst Christi\nnit hab/hatt er den geyst Christi nit/ so ist er nit\nsin/zun Rhömern am viij.",
         "b": "DEr da nit handlet vß dem wort vnd beſelch Gottes/ da iſt zeuermeſſen / daß er den Geiſt Chriſti nit\nhab/hat er den Geiſt Chriſti nit /",
-        "similarity": 0.375,
-        "semantic": 0.6984,
-        "reading": "reworded"
+        "similarity": 0.375
       },
       {
         "op": "only_a",
         "a": "Cap. Vff die frag vom blin=\nden/antwurt ich also. Das die gab des gloubens in men=\ngerley gestalt wirt vßgeteylt/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6602,
-        "semantic_match": "ſo iſt er nit ſyn/ zun Römern am 8. Capitel. Vff die frag vom Blinden/ Qq iij",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -106,10 +93,7 @@
         "op": "only_a",
         "a": "nůt desterminder/hab ich nit gehört/dz er die lamē grad\nhab gemacht/vñ sin schart die krancken gesund. Der ge\nstalt haben wir ouch Oarthei am xvj.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6163,
-        "semantic_match": "daß er mit dem vſſern\nwort / ouch by ſinem Glouben / alſo nütz vermag / es ſye\ndann das Gott gefalle ſölliches zewuͤrcken.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -123,15 +107,10 @@
         "b": "ſo iſt er nit ſyn/ zun Römern am 8. Capitel. Vff die frag vom Blinden/ Qq iij",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7416,
-    "reworded": 3,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4889,
+    "similarity": 0.4929,
     "words": {
       "a": 279,
       "b": 216
@@ -279,18 +258,8 @@
       },
       {
         "op": "equal",
-        "a": "wort ouch by sinem",
-        "b": "wort ouch by ſinem"
-      },
-      {
-        "op": "replace",
-        "a": "gloubē",
-        "b": "Glouben"
-      },
-      {
-        "op": "equal",
-        "a": "also nütz vermag es sye dann das gott",
-        "b": "alſo nütz vermag es ſye dann das Gott"
+        "a": "wort ouch by sinem gloubē also nütz vermag es sye dann das gott",
+        "b": "wort ouch by ſinem Glouben alſo nütz vermag es ſye dann das Gott"
       },
       {
         "op": "replace",
@@ -498,7 +467,7 @@
         "b": "Blinden Qq iij"
       }
     ],
-    "ops": 36,
+    "ops": 35,
     "truncated": false
   }
 }

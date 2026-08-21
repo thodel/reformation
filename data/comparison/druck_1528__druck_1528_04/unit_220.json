@@ -8,7 +8,7 @@
       256
     ]
   },
-  "alignment_score": 0.2263,
+  "alignment_score": 0.2794,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -33,10 +33,7 @@
         "op": "only_a",
         "a": "Seite [IIJ]\n\nDie vierdt\nHat meiſter Frantz Kolb die vierdt\nSchlußred vnd grund der ſelbigen eroffnet/ als hernach volget. Ich bitten uͤch liebenn\nGotsfruͤnd/ernſtlich vmb got\ntes willẽ/das jr uͤch ab nach=\ngender Schlußred nit welled\nergeren/oder ein ſchuͤchen em=\npfachen/oder vns darfuͤr ach\nten/das wir ein luſt habind et\nwas vngehoͤrdts harfuͤr ze=\nbringẽ/Sonder die groſſen vn\ngeſchickte mißbruͤch/ſo in die\nten waaren verſtand des Goͤttlichen worts/vns zwin=\ngend vnd tringend/diſe ſchlußred alſo zuͤ bekennen/wie\nſy dann luter/namlich:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6636,
-        "semantic_match": "wid̓ den rechteͤ wareͤ verſtand des goͤttlich\nen worts/vns zwingẽd vñ tringend/diſe ſchluß\nred alſo zuͤ bekennen/wie ſy dann lutet/namlich:",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -72,28 +69,18 @@
         "op": "match",
         "a": "Das der lyb vnd bluͤt Chriſti waͤſenlich\nvnnd lyblich in dem brot der danckſagung\nempfangẽ werdind/mag mit bibliſche ge\nſchrifft nit bybracht werden+\n\nDas bewyß ich mit luter gſchrifft/fuͤrnemlich Johan=\nnis am vj.",
         "b": "Das der lib vñ bluͤt Chriſti waͤ\nſenlich vnd lyplich in dem brot der\ndanckſagung empfangẽ werdend/ mag mit bibliſcher gſchrifft nit by\nbracht werden.",
-        "similarity": 0.5312,
-        "semantic": 0.7884,
-        "reading": "same"
+        "similarity": 0.5312
       },
       {
         "op": "only_a",
         "a": "Cap. Das fleyſch iſt garnuͤt nuͤtz (verſtand\ngeeſſen) Deßhalb Chriſtus ye nit hat gewellen/wie dañ\nwir bißhar gemeinlich verſtanden/das wir in diſem Sa\ncrament",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8122,
-        "semantic_match": "Die vierdt\n\nvnnd das rich gottes verdienen/es sye Applaß/ wychwaſſer/kertzenbrennen/ja in einer ſum/wꝫ\nder glichẽ ſin mag/ytel vergeblich/vnd dẽ schatz\ndes lydens Chriſti ein leſterung/hie mit ſye gott\nlob vnd Eer in ewigkeyt/Amen.",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7547,
-    "reworded": 0,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4411,
+    "similarity": 0.4653,
     "words": {
       "a": 165,
       "b": 166
@@ -126,28 +113,8 @@
       },
       {
         "op": "equal",
-        "a": "Frantz Kolb die vierdt Schlußred",
-        "b": "Frantz Kolb die vierdt ſchlußred"
-      },
-      {
-        "op": "replace",
-        "a": "vnd",
-        "b": "vñ"
-      },
-      {
-        "op": "equal",
-        "a": "grund der",
-        "b": "gründ der"
-      },
-      {
-        "op": "replace",
-        "a": "ſelbigen",
-        "b": "ſelbigẽ"
-      },
-      {
-        "op": "equal",
-        "a": "eroffnet als hernach volget",
-        "b": "eröffnet als hernach volget"
+        "a": "Frantz Kolb die vierdt Schlußred vnd grund der ſelbigen eroffnet als hernach volget",
+        "b": "Frantz Kolb die vierdt ſchlußred vñ gründ der ſelbigẽ eröffnet als hernach volget"
       },
       {
         "op": "replace",
@@ -206,13 +173,13 @@
       },
       {
         "op": "equal",
-        "a": "oder ein ſchu",
-        "b": "oder ein ſchu"
+        "a": "oder ein ſchu chen",
+        "b": "oder ein ſchu chẽ"
       },
       {
         "op": "replace",
-        "a": "chen em pfachen oder",
-        "b": "chẽ empfahẽ od"
+        "a": "em pfachen oder",
+        "b": "empfahẽ od"
       },
       {
         "op": "equal",
@@ -291,13 +258,13 @@
       },
       {
         "op": "replace",
-        "a": "zwin gend vnd",
-        "b": "zwingẽd vñ"
+        "a": "zwin gend",
+        "b": "zwingẽd"
       },
       {
         "op": "equal",
-        "a": "tringend diſe",
-        "b": "tringend diſe"
+        "a": "vnd tringend diſe",
+        "b": "vñ tringend diſe"
       },
       {
         "op": "replace",
@@ -321,13 +288,13 @@
       },
       {
         "op": "replace",
-        "a": "lyb vnd",
-        "b": "lib vñ"
+        "a": "lyb",
+        "b": "lib"
       },
       {
         "op": "equal",
-        "a": "blu t Chriſti wa ſenlich",
-        "b": "blu t Chriſti wa ſenlich"
+        "a": "vnd blu t Chriſti wa ſenlich",
+        "b": "vñ blu t Chriſti wa ſenlich"
       },
       {
         "op": "replace",
@@ -336,13 +303,13 @@
       },
       {
         "op": "equal",
-        "a": "in dem brot der danckſagung empfange",
-        "b": "in dem brot der danckſagung empfangẽ"
+        "a": "in dem brot der danckſagung",
+        "b": "in dem brot der danckſagung"
       },
       {
         "op": "replace",
-        "a": "werdind",
-        "b": "werdend"
+        "a": "empfange werdind",
+        "b": "empfangẽ werdend"
       },
       {
         "op": "equal",
@@ -375,7 +342,7 @@
         "b": ""
       }
     ],
-    "ops": 28,
+    "ops": 26,
     "truncated": false
   }
 }

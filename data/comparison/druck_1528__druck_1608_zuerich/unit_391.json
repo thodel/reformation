@@ -8,7 +8,7 @@
       452
     ]
   },
-  "alignment_score": 0.3246,
+  "alignment_score": 0.3521,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 6,
     "only_b": 1,
-    "similarity": 0.5419,
+    "similarity": 0.541,
     "pairs": [
       {
         "op": "only_a",
@@ -57,17 +57,13 @@
         "op": "match",
         "a": "dan Chriſtū. Man ſeche an/ was gotaleſtrige leer/ etliche hundert jar\nbißhar gebrucht ſind worden/ vnd noch werdē. Der Sa\ncrament halben vnd andrer ſtucken/",
         "b": "418\tDie fünfft\n\nKilchen ſetzen/dañ Chriſtum. Man ſeche an/was Gotts-\nleſtrige leer/etliche hundert Jar biß har gebrucht ſind wor-\nden/vnd noch werden.",
-        "similarity": 0.4706,
-        "semantic": 0.7432,
-        "reading": "reworded"
+        "similarity": 0.4314
       },
       {
         "op": "match",
         "a": "erfindt ſich wol wie\nman abtretten iſt vom Gloubē. Vnſer leer richt ʒů dem\nGlouben/ vnd wyßt nit vom Glouben/",
         "b": "Der Sacrament halben vnd andrer\nſtucken/erſind ſich wol wie man abtretten iſt vom Gloubé. Vnſer leer richt zů dem Glouben/vnd wyßt nit vem Glou-\nben/wie da ſtadt by dem Apoſtel/Da er tütſcht Abtren-\nnung/da iſt/Defectio, Abtrettung deß Gloubens.",
-        "similarity": 0.5,
-        "semantic": 0.6893,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "only_a",
@@ -79,9 +75,7 @@
         "op": "match",
         "a": "am xx. capitel/ wie gar bald ſchädlich Wölff/ in die Kil\nchen komen ſölten. Item Joannes in ſiner Epiſtel ʒeigt\nan/",
         "b": "Der\nApoſtel hat ſelbs erkent/Actor. am 20. Capitel/wie gar\nbald ſchädlich Wölff/in die Kilchen kommen ſölten. Jtem\nJohannes in ſyner Epiſtel zeigt an/daß ſchon by ſyner zyt\nEndchriſten ſind geweſen.",
-        "similarity": 0.4727,
-        "semantic": 0.4293,
-        "reading": "different"
+        "similarity": 0.4727
       },
       {
         "op": "only_a",
@@ -93,33 +87,25 @@
         "op": "match",
         "a": "dann alle die da got=\nſälig wellend läbenn/ die lydend die durchächtung vmb\nChriſti willen/ in der erſten Epiſtel ʒum Thimotheum\nam iij.",
         "b": "Hierumb ouch das Wyb/ſo in\ndie Wüſte geflochen iſt/bedüt ein gemeine Chriſtenliche\nKilch: dann alle die da Gottsälig wellend läben/die lydend\ndie durchächtung vmb Chriſti willen/in der andern Epi-\nſtel zum Timotheum am 3.",
-        "similarity": 0.4918,
-        "semantic": 0.7271,
-        "reading": "reworded"
+        "similarity": 0.4918
       },
       {
         "op": "match",
         "a": "cap. Man möcht ouch ʒů güter maß wol ſechen/ welche vff hütt den tag/ die andren begären ʒů vertrybē\nvnd ʒů töden.",
         "b": "Cap. Man möcht ouch zů gů-\nter maß wol ſechen/welche vff hüt den tag/die andren be-\ngären zů vertryben vnd zů töden.",
-        "similarity": 0.6522,
-        "semantic": 0.8476,
-        "reading": "same"
+        "similarity": 0.6522
       },
       {
         "op": "match",
         "a": "Vnſer Euangelium lert gedult/ darumb\njnen dʒ nit dienet. Wiewol Joannes in ſiner offenbarüg/ in denen oꝛten/ wie in andren mer.",
         "b": "Vnſer Euangelium lert\ngedult/darumb jnen das nit dienet. Wiewol Johannes in\nſyner Offenbarung/in denen orten/wie in andren mehr/",
-        "similarity": 0.7143,
-        "semantic": 0.7608,
-        "reading": "same"
+        "similarity": 0.7143
       },
       {
         "op": "match",
         "a": "Sin offenbarüg ʒücht\nvff die vergangnen hiſtoryen. Wo hat aber der Schül=\nmeiſter geläſen in der Offebarüg Joannis/ das dʒ Mäß\nopfer vffhörē ſölle/ dʒ welten wir gern vō jm hörē. Wir",
         "b": "ſyn Offenbarung zücht vff die vergangnen Hiſtorien. Wo\nhat aber der Schůlmeiſter geleſen in der Offenbarung\nJohannis/das das Mäßopffer vffhören ſölle/daß welten\nwir gern von jm hören.",
-        "similarity": 0.4918,
-        "semantic": 0.6163,
-        "reading": "reworded"
+        "similarity": 0.5246
       },
       {
         "op": "only_b",
@@ -127,12 +113,7 @@
         "b": "Wir förchten vns vor den Prophe-\nten noch nit. Mit ſölichen Kundtſchafften bewärt er nüts\nwenigers/dann das die Mäß ein Opffer ſye. Bůchſtab",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6877,
-    "reworded": 3,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
     "similarity": 0.5222,
@@ -153,18 +134,8 @@
       },
       {
         "op": "replace",
-        "a": "ſtatt Gottes vñ vff welchen der Apoſtel Pau lus ʒů den Teſſalonichern bedü tet hat",
-        "b": "fünfft Kilchen ſetzen"
-      },
-      {
-        "op": "equal",
-        "a": "Dan",
-        "b": "dañ"
-      },
-      {
-        "op": "replace",
-        "a": "merckent nit allein was etlich lüt anfa chte die da wellend ein ander houpt der Chriſtenlichen Kilche ſeʒen dan Chriſtu",
-        "b": "Chriſtum"
+        "a": "ſtatt Gottes vñ vff welchen der Apoſtel Pau lus ʒů den Teſſalonichern bedü tet hat Dan merckent nit allein was etlich lüt anfa chte die da wellend ein ander houpt der Chriſtenlichen Kilche ſeʒen dan Chriſtu",
+        "b": "fünfft Kilchen ſetzen dañ Chriſtum"
       },
       {
         "op": "equal",
@@ -558,18 +529,8 @@
       },
       {
         "op": "equal",
-        "a": "welten wir gern",
-        "b": "welten wir gern"
-      },
-      {
-        "op": "replace",
-        "a": "vō",
-        "b": "von"
-      },
-      {
-        "op": "equal",
-        "a": "jm",
-        "b": "jm"
+        "a": "welten wir gern vō jm",
+        "b": "welten wir gern von jm"
       },
       {
         "op": "replace",
@@ -587,7 +548,7 @@
         "b": "förchten vns vor den Prophe ten noch nit Mit ſölichen Kundtſchafften bewärt er nüts wenigers dann das die Mäß ein Opffer ſye Bůchſtab"
       }
     ],
-    "ops": 45,
+    "ops": 43,
     "truncated": false
   }
 }

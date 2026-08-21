@@ -8,7 +8,7 @@
       99
     ]
   },
-  "alignment_score": 0.5604,
+  "alignment_score": 0.5824,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 0,
     "only_b": 6,
-    "similarity": 0.5945,
+    "similarity": 0.6051,
     "pairs": [
       {
         "op": "only_b",
@@ -45,33 +45,25 @@
         "op": "match",
         "a": "vnd gib antwurt erstlich des spruchs halbē/ der geystlich\nricht alles/zc. Diewyl wir wüssen das vnser widerpart/ das vrteilen dahin zühen wil/",
         "b": "vnnd gib ant=\nwurt erſtlich deß Spruchs halben / der geiſtlich richt alles / zc. Diewil wir wüſſen das vnſer widerpart / das vrteilen\ndahin zühen wil /",
-        "similarity": 0.7234,
-        "semantic": 0.7769,
-        "reading": "same"
+        "similarity": 0.766
       },
       {
         "op": "match",
         "a": "das ein gmein Concilium\nmacht hab/ etwas nebend der geschrifft anzenemen/ hab\nouch erstlich der schrifft / Das ansehen geben / so ist Billich\ngeantwurt worden/",
         "b": "das ein gmein Concilium macht hab / et=\nwas nebend der Geſchrifft anzenemmen / hab ich ouch erſt=\nlich der Schrifft / das anſehen geben /",
-        "similarity": 0.6957,
-        "semantic": 0.8518,
-        "reading": "same"
+        "similarity": 0.6957
       },
       {
         "op": "match",
         "a": "das der geystlich die geschrifft nit ze=\nrichten hab/ das ist sins geuallens die geschrifft anzenem\nmen oder zeuerwerffen/ sonder er hats allein müssen an=\nnemen/",
         "b": "ſo iſt billich geant=\nwurt worden / daß der geiſtlich die Geſchrifft nit zerichten\nhab / das iſt ſins geuallens die Gſchrifft anzenemmen oder\nzeuertwerffen /",
-        "similarity": 0.449,
-        "semantic": 0.8582,
-        "reading": "reworded"
+        "similarity": 0.449
       },
       {
         "op": "match",
         "a": "dann er åben durch den geyst sin erkantnus hatt/ durch welchen die Bibel vns geben ist / so aber min herr\nDoctor das vrteylen verston will / wie es ouch Paulus",
         "b": "ſonder er hats allein müſſen annemen / dann\ner åben durch den Geiſt ſin Erkantnuß hat / durch welchen\ndie Bibel vns geben iſt /",
-        "similarity": 0.5098,
-        "semantic": 0.7938,
-        "reading": "same"
+        "similarity": 0.5098
       },
       {
         "op": "only_b",
@@ -97,15 +89,10 @@
         "b": "dann wie ein jeder\ngerechter ſins eigens gloubens gelåben můß / alſo můß er\nouch die Gſchrifft / vnnd Wort Gottes für ſich ſelbs vrtei=\nlen vnnd erkennen / er were ſunſt nit Gott glöubig / deß red\nJ",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.8202,
-    "reworded": 1,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.447,
+    "similarity": 0.4527,
     "words": {
       "a": 102,
       "b": 247
@@ -138,18 +125,8 @@
       },
       {
         "op": "equal",
-        "a": "spruchs",
-        "b": "Spruchs"
-      },
-      {
-        "op": "replace",
-        "a": "halbē",
-        "b": "halben"
-      },
-      {
-        "op": "equal",
-        "a": "der",
-        "b": "der"
+        "a": "spruchs halbē der",
+        "b": "Spruchs halben der"
       },
       {
         "op": "replace",
@@ -317,7 +294,7 @@
         "b": "ſelbs brucht für erkennen das die Gſchrifft das Wort Gottes für tregt ſo bekennen wir gern daß der geiſtlich ouch die Geſchrifft vnd alles ouch Gott ſelb zů vrteilen das iſt zů erkennen hat ich welt aber min Herr Doctor bedåchte wol das Pau lus hie ſagt der geiſtlich nit die Verſamlung der geiſtli chen im Concilio habe alles zů richten dann wie ein jeder gerechter ſins eigens gloubens gelåben můß alſo můß er ouch die Gſchrifft vnnd Wort Gottes für ſich ſelbs vrtei len vnnd erkennen er were ſunſt nit Gott glöubig deß red J"
       }
     ],
-    "ops": 21,
+    "ops": 20,
     "truncated": false
   }
 }

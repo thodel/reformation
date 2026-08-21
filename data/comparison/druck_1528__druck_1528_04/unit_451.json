@@ -8,7 +8,7 @@
       517
     ]
   },
-  "alignment_score": 0.4603,
+  "alignment_score": 0.484,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 1,
     "only_b": 2,
-    "similarity": 0.6576,
+    "similarity": 0.6672,
     "pairs": [
       {
         "op": "only_b",
@@ -39,17 +39,13 @@
         "op": "match",
         "a": "Schlußred. CCXVIII\nden vnd füſſen/in die vſſerlich finſternuß. Wo ſölich fin\nſternuß ſind/vnd ſölich binden/ſampt weinen vnd zån=\nklappen/mag billich ein Kercker genempt werden.",
         "b": "in die vſſerlich finſter=\nnus. Wo ſölich finſternus ſind / vnd ſölich bin=\nden/ſampt weynen vnd zånklaffen / mag billich\nein kercker genempt werden.",
-        "similarity": 0.6275,
-        "semantic": 0.7951,
-        "reading": "same"
+        "similarity": 0.6275
       },
       {
         "op": "match",
         "a": "Bůchſtab\nVndem Tittel des angezeigten pſalmen/weiß\nich nit/ich behůlff mich des Pſalmē. Vñ Eſaia: Hat Dauid begårt vō Saul gelediget zewer\nden/vnd ſölich ſin anfechtung/ein Kercker hat genant/",
         "b": "Bůchſtab. Vonn dem tittel deß angezeigten Pſalmen/ weiß ich nit / ich behilff mich des Pſalmen /vnd\nEſaia. Hat Dauid begårt vonn Saul gelediget\nzewerden/vnd ſölich ſin anfåchtung/",
-        "similarity": 0.6333,
-        "semantic": 0.8929,
-        "reading": "same"
+        "similarity": 0.6333
       },
       {
         "op": "only_b",
@@ -61,60 +57,42 @@
         "op": "match",
         "a": "iſt nit wider mich. Das ich aber welte ſagen/das ein ker=\ncker ſölte genommen werden/für die verdamnůß/nach\nOrigeniſcher art/iſt mins willens nit/dañ ich ouch gloub\nnach jnnhalt aller ſchrifft/das die verdamnůß ewig ſye:",
         "b": "für die verdamnus / nach Origeniſcher art / iſt\nmins willẽs nit: dañ ich ouch gloub/ nach ynhalt\naller ſchrifft / das die verdamnus ewig ſye:",
-        "similarity": 0.6129,
-        "semantic": 0.8863,
-        "reading": "same"
+        "similarity": 0.6452
       },
       {
         "op": "match",
         "a": "dann das allein min fürnemen vnnd meynung iſt/das\ndas wörtly/Kercker/ein vfenthalt ſye/die nit ewig iſt: vnnd wie ſömlichs durch mich yngefürt/darby blyb ich.",
         "b": "dañ\ndas allein min fürnemen vnnd meinung iſt/ das\ndaß wörtly / Kercker / ein vfenthalt ſye / die nit\newig iſt:vñ wie ſölichs durch mich jngefürt/dar\nby blyb ich.",
-        "similarity": 0.7368,
-        "semantic": 0.8545,
-        "reading": "same"
+        "similarity": 0.7719
       },
       {
         "op": "match",
         "a": "Das die vßwendig finſternuß ouch ein kercker genant\nmög werden/ſchlach ich nit ab/das wörtly Kercker a=\nber/ſtadt nit darby.",
         "b": "Das die vßwendig finſternus ouch\nein kercker genañt mög werdẽ/ſchlach ich nit ab/ das wörtly/Kercker/aber/ſtadt nit darby.",
-        "similarity": 0.8372,
-        "semantic": 0.9112,
-        "reading": "same"
+        "similarity": 0.8372
       },
       {
         "op": "match",
         "a": "S. Ecolampadius. DEr verſtand der gſchrifft/iſt dargethan/daby wir\nes laſſend blyben. Theobaldus Hůter Pfarrer\nzů Appenzell. V rhabend ij.",
         "b": "Ecolampadius. Der verſtand der gſchrifft/iſt dargethon/da=\nby wir es laſſend blyben. Theobaldus Hůter/Pfarrer\n            zů Appenzell. Wir habend ij Regum am xij/",
-        "similarity": 0.7111,
-        "semantic": 0.8259,
-        "reading": "same"
+        "similarity": 0.7111
       },
       {
         "op": "match",
         "a": "Regum am vij. Wie der künig\nDauid geſünder hat/Als jm der Prophet Na\ntan anzeigt.zc. hat er růw vñ leid vmb ſine ſůnd\nvnd wurden jm von Gott nachgelaſſen/dann er ſprach:",
         "b": "wie der Künig\nDauid geſündet hat / als jm der Prophet Na=",
-        "similarity": 0.4444,
-        "semantic": 0.8437,
-        "reading": "reworded"
+        "similarity": 0.4444
       },
       {
         "op": "only_a",
         "a": "Ich hab geſündet dem Herrē.zc. Vnd erkant ſine ſůnd. Jů ij",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7466,
-        "semantic_match": "ein kercker\nhat genant/iſt nit wider mich. Das ich aber wöl\nte ſagen/ das ein kercker ſölte genomen werden/",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.8445,
-    "reworded": 1,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.6683,
+    "similarity": 0.6779,
     "words": {
       "a": 216,
       "b": 200
@@ -292,18 +270,8 @@
       },
       {
         "op": "equal",
-        "a": "nach Origeniſcher art iſt mins",
-        "b": "nach Origeniſcher art iſt mins"
-      },
-      {
-        "op": "replace",
-        "a": "willens",
-        "b": "willẽs"
-      },
-      {
-        "op": "equal",
-        "a": "nit dañ ich ouch gloub nach",
-        "b": "nit dañ ich ouch gloub nach"
+        "a": "nach Origeniſcher art iſt mins willens nit dañ ich ouch gloub nach",
+        "b": "nach Origeniſcher art iſt mins willẽs nit dañ ich ouch gloub nach"
       },
       {
         "op": "replace",
@@ -322,18 +290,8 @@
       },
       {
         "op": "equal",
-        "a": "ewig ſye",
-        "b": "ewig ſye"
-      },
-      {
-        "op": "replace",
-        "a": "dann",
-        "b": "dañ"
-      },
-      {
-        "op": "equal",
-        "a": "das allein min fürnemen vnnd",
-        "b": "das allein min fürnemen vnnd"
+        "a": "ewig ſye dann das allein min fürnemen vnnd",
+        "b": "ewig ſye dañ das allein min fürnemen vnnd"
       },
       {
         "op": "replace",
@@ -392,18 +350,18 @@
       },
       {
         "op": "equal",
-        "a": "ouch ein kercker genant mög",
-        "b": "ouch ein kercker genañt mög"
+        "a": "ouch ein kercker",
+        "b": "ouch ein kercker"
       },
       {
         "op": "replace",
-        "a": "werden",
-        "b": "werdẽ"
+        "a": "genant",
+        "b": "genañt"
       },
       {
         "op": "equal",
-        "a": "ſchlach ich nit ab das wörtly Kercker",
-        "b": "ſchlach ich nit ab das wörtly Kercker"
+        "a": "mög werden ſchlach ich nit ab das wörtly Kercker",
+        "b": "mög werdẽ ſchlach ich nit ab das wörtly Kercker"
       },
       {
         "op": "replace",
@@ -471,7 +429,7 @@
         "b": ""
       }
     ],
-    "ops": 35,
+    "ops": 33,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       315
     ]
   },
-  "alignment_score": 0.2036,
+  "alignment_score": 0.2117,
   "coarse": {
     "paragraphs": {
       "a": 6,
@@ -104,7 +104,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3992,
+    "similarity": 0.4118,
     "words": {
       "a": 246,
       "b": 230
@@ -147,18 +147,8 @@
       },
       {
         "op": "equal",
-        "a": "haben",
-        "b": "haben"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "doch",
-        "b": "doch"
+        "a": "haben vñ doch",
+        "b": "haben vnd doch"
       },
       {
         "op": "replace",
@@ -337,13 +327,13 @@
       },
       {
         "op": "equal",
-        "a": "das vns Gott zůſchickt",
-        "b": "das vns gott zuschickt"
+        "a": "das vns Gott zůſchickt vñ",
+        "b": "das vns gott zuschickt vnd"
       },
       {
         "op": "replace",
-        "a": "vñ nit dz wir ſelbs erwellen Wand len",
-        "b": "vnd nitt das wie Oitbs er wetten wandlen"
+        "a": "nit dz wir ſelbs erwellen Wand len",
+        "b": "nitt das wie Oitbs er wetten wandlen"
       },
       {
         "op": "equal",
@@ -402,8 +392,18 @@
       },
       {
         "op": "replace",
-        "a": "vfferwecken vñ an dre",
-        "b": "ufer wecken und andre"
+        "a": "vfferwecken",
+        "b": "ufer wecken"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "und"
+      },
+      {
+        "op": "replace",
+        "a": "an dre",
+        "b": "andre"
       },
       {
         "op": "equal",

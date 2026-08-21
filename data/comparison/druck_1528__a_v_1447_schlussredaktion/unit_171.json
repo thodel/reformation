@@ -8,7 +8,7 @@
       301
     ]
   },
-  "alignment_score": 0.2278,
+  "alignment_score": 0.2429,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 10,
     "only_b": 2,
-    "similarity": 0.3686,
+    "similarity": 0.3948,
     "pairs": [
       {
         "op": "only_a",
@@ -45,13 +45,13 @@
         "op": "match",
         "a": "das er by üch blib in ewig=\nkeyt. Vß den sprüchen voñ der glichen / wie sy dañ in dem\nxiiij.",
         "b": "Ich wird min vatter bitten, vnd\nEr wirdt vijch gaben den andren troster, das Er bij vth\nblib In ewiteit, Vff den Spruchen vnd derglichen\nwie 8 dann In de m.",
-        "similarity": 0.3137
+        "similarity": 0.3529
       },
       {
         "op": "match",
         "a": "xv. vñ xvj. Capitlen Johan. anzeygt sind / sicheret\nder heylig Paulus all from Christen / das jnen die Chri=\nstenlich kilch nit werde fålen /",
         "b": "xiiij. xv. vnd xvj. cappittken\nJohannis anjoigt sind, Oacherot der heilig Paulus\nAl fran kristen, das Inen die christenlich kirch nitt\nwerde falen, vnd das In der 1.",
-        "similarity": 0.3922
+        "similarity": 0.4314
       },
       {
         "op": "only_a",
@@ -122,7 +122,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4259,
+    "similarity": 0.4361,
     "words": {
       "a": 315,
       "b": 272
@@ -210,13 +210,13 @@
       },
       {
         "op": "replace",
-        "a": "sy dañ",
-        "b": "8 dann"
+        "a": "sy",
+        "b": "8"
       },
       {
         "op": "equal",
-        "a": "in",
-        "b": "In"
+        "a": "dañ in",
+        "b": "dann In"
       },
       {
         "op": "replace",
@@ -225,18 +225,8 @@
       },
       {
         "op": "equal",
-        "a": "xiiij xv",
-        "b": "xiiij xv"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "xvj",
-        "b": "xvj"
+        "a": "xiiij xv vñ xvj",
+        "b": "xiiij xv vnd xvj"
       },
       {
         "op": "replace",
@@ -285,18 +275,8 @@
       },
       {
         "op": "equal",
-        "a": "werde fålen",
-        "b": "werde falen"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "das in der",
-        "b": "das In der"
+        "a": "werde fålen vñ das in der",
+        "b": "werde falen vnd das In der"
       },
       {
         "op": "replace",
@@ -654,7 +634,7 @@
         "b": "nitt empfan"
       }
     ],
-    "ops": 53,
+    "ops": 51,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       231
     ]
   },
-  "alignment_score": 0.2662,
+  "alignment_score": 0.3012,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 3,
     "only_b": 6,
-    "similarity": 0.4687,
+    "similarity": 0.503,
     "pairs": [
       {
         "op": "only_b",
@@ -45,9 +45,7 @@
         "op": "match",
         "a": "Schlußred CV\npro mundi uita, verſacht vñ ſchlüſt in jm ſinen lyb/für vns\ngegeben werden zů erlöſung/darum der Euangeliſt dz\nwort/Dabo z würet in dem ſpruch anzücht/dann er ye/lut\ndes erſten ſyn fleyſch lyblich geeſſen/verheyßt.",
         "b": "darum\nder Evangelist das wort/Dabo, zweymal in dem spruch\nanzücht / dann er je / lut deß ersten / syn Fleisch lyblich\ngeessen /",
-        "similarity": 0.5161,
-        "semantic": 0.5534,
-        "reading": "check"
+        "similarity": 0.5161
       },
       {
         "op": "only_b",
@@ -59,9 +57,7 @@
         "op": "match",
         "a": "Zum an=\ndern/bekent er die almechtigkeit/darumb aber nit vol=\nge/Gott vermag das/darumb iſt es/geſtand ich jm nit\nab/dann der Prophet ſagt/alle ding die er hatt wellenn\n (vnd ſtat nit mögen) hatt er than im himel vnd vff er=\nden/diewyl vñ aber ſin wort håll lut/vnd (ob gott wil)\nallweg der Chriſtlich verſtand alſo gewäſen/wirt er nie\nmand von den vßtrucken wortē/anderſt zůuerſtan in=\nleiten.",
         "b": "dann der Prophet sagt/ alle Ding die er hat wöllen / und staht nit (mögen) hat\ner than im Himmel und vff Erden /",
-        "similarity": 0.3299,
-        "semantic": 0.5564,
-        "reading": "different"
+        "similarity": 0.3299
       },
       {
         "op": "only_b",
@@ -73,34 +69,25 @@
         "op": "match",
         "a": "Er hat ouch verheiſſen/vñ das er verheyſſen hat/ hat er im nachtmal erſtattet/darmit vñ ein gſchrifft die\nandre vßlege.",
         "b": "Er hat\nauch verheissen / und das er verheissen hat / hat er im\nNachtmahl erstattet / damit und ein Geschrifft die an-\ndere vßlege.",
-        "similarity": 0.6047,
-        "semantic": 0.8422,
-        "reading": "same"
+        "similarity": 0.6977
       },
       {
         "op": "match",
         "a": "Zwingli\n[D]Iſer ſpruch Johannis am vj. cap. Das brot/zc. ſoll dheins wegs geteylt werdē/es hat ouch der\npfarrer in ſynem teylen der worten diß wörtly\n(welches) vßgelaſſen/das doch den gantzen ver\nſtand bringt/die wort lutend alſo.",
         "b": "Zwingly. DIser Spruch Johannis am 6. Cap. Das Brot / ꝛc. soll keines wegs getheilt werden / es hat auch der\nPfarrer in synem theilen der worten diß wörtlin (welches)\nvßgelassen /",
-        "similarity": 0.5429,
-        "semantic": 0.7883,
-        "reading": "same"
+        "similarity": 0.5714
       },
       {
         "op": "match",
         "a": "Das brot das ich üch\ngebē wird iſt min fleiſch/welches fleiſch ich hingebē wird/ vmb das läben der welt.",
         "b": "das doch den gantzen Verstand bringt / die\nWort lutend also : Das Brot/das ich euch geben wird/ ist myn Fleisch /",
-        "similarity": 0.35,
-        "semantic": 0.6846,
-        "reading": "reworded"
+        "similarity": 0.4
       },
       {
         "op": "only_a",
         "a": "Hie ſicht man/das in dē andern\npuncten/åben von dem fleyſch geredt wirt/von dē ouch\nin dem erſten geredt iſt.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6932,
-        "semantic_match": "verheißt. Zum andern / bekennt er die Allmäch-\ntigkeit / darum aber nit folge / Gott vermag das/darum\nist es / gestand ich ihm nit ab /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -112,10 +99,7 @@
         "op": "only_a",
         "a": "das die ſpyß/die er vns gebē werde/ſye ſin fleyſch getödt\nSo",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8204,
-        "semantic_match": "verheißt. Zum andern / bekennt er die Allmäch-\ntigkeit / darum aber nit folge / Gott vermag das/darum\nist es / gestand ich ihm nit ab /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -129,15 +113,10 @@
         "b": "von dem auch in\ndem ersten geredt ist. So nun der nachgehnd Punct auch\nvom Pfarrer erkennt wird / daß er lute von dem Fleisch\nChristi",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7055,
-    "reworded": 1,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5432,
+    "similarity": 0.5719,
     "words": {
       "a": 290,
       "b": 266
@@ -165,8 +144,18 @@
       },
       {
         "op": "replace",
-        "a": "verſacht vñ ſchlüſt",
-        "b": "verfangt und schlüßt"
+        "a": "verſacht",
+        "b": "verfangt"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "und"
+      },
+      {
+        "op": "replace",
+        "a": "ſchlüſt",
+        "b": "schlüßt"
       },
       {
         "op": "equal",
@@ -340,18 +329,8 @@
       },
       {
         "op": "equal",
-        "a": "diewyl",
-        "b": "diewyl"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "und"
-      },
-      {
-        "op": "equal",
-        "a": "aber",
-        "b": "aber"
+        "a": "diewyl vñ aber",
+        "b": "diewyl und aber"
       },
       {
         "op": "replace",
@@ -415,13 +394,13 @@
       },
       {
         "op": "replace",
-        "a": "vßtrucken wortē",
-        "b": "vß truckten Worten"
+        "a": "vßtrucken",
+        "b": "vß truckten"
       },
       {
         "op": "equal",
-        "a": "anderſt",
-        "b": "anderst"
+        "a": "wortē anderſt",
+        "b": "Worten anderst"
       },
       {
         "op": "replace",
@@ -440,18 +419,8 @@
       },
       {
         "op": "equal",
-        "a": "verheiſſen",
-        "b": "verheissen"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "und"
-      },
-      {
-        "op": "equal",
-        "a": "das er",
-        "b": "das er"
+        "a": "verheiſſen vñ das er",
+        "b": "verheissen und das er"
       },
       {
         "op": "replace",
@@ -475,13 +444,13 @@
       },
       {
         "op": "replace",
-        "a": "darmit vñ",
-        "b": "damit und"
+        "a": "darmit",
+        "b": "damit"
       },
       {
         "op": "equal",
-        "a": "ein",
-        "b": "ein"
+        "a": "vñ ein",
+        "b": "und ein"
       },
       {
         "op": "replace",
@@ -545,13 +514,13 @@
       },
       {
         "op": "replace",
-        "a": "geteylt werdē",
-        "b": "getheilt werden"
+        "a": "geteylt",
+        "b": "getheilt"
       },
       {
         "op": "equal",
-        "a": "es hat",
-        "b": "es hat"
+        "a": "werdē es hat",
+        "b": "werden es hat"
       },
       {
         "op": "replace",
@@ -595,13 +564,13 @@
       },
       {
         "op": "replace",
-        "a": "üch gebē",
-        "b": "euch geben"
+        "a": "üch",
+        "b": "euch"
       },
       {
         "op": "equal",
-        "a": "wird iſt",
-        "b": "wird ist"
+        "a": "gebē wird iſt",
+        "b": "geben wird ist"
       },
       {
         "op": "replace",
@@ -610,18 +579,8 @@
       },
       {
         "op": "equal",
-        "a": "fleiſch welches fleiſch ich",
-        "b": "Fleisch welches Fleisch ich"
-      },
-      {
-        "op": "replace",
-        "a": "hingebē",
-        "b": "hingeben"
-      },
-      {
-        "op": "equal",
-        "a": "wird",
-        "b": "wird"
+        "a": "fleiſch welches fleiſch ich hingebē wird",
+        "b": "Fleisch welches Fleisch ich hingeben wird"
       },
       {
         "op": "replace",
@@ -769,7 +728,7 @@
         "b": ""
       }
     ],
-    "ops": 63,
+    "ops": 61,
     "truncated": false
   }
 }

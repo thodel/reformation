@@ -16,7 +16,17 @@ Rules (in order):
      Input is decomposed to NFD first, so precomposed spellings (ů, ö, ē, ñ)
      normalise identically to their combining equivalents. The corpus contains
      both: Transkribus writes u+U+0366, druck_1528 writes ů.
-  5. Abbreviaturen: uel → "uel", "̄" (macron) stripped as quant. marker
+  5. Nasalstrich: aufgelöst, nicht getilgt (#21). Der Strich über einem
+     Buchstaben kürzt ein folgendes n oder m ab. Ihn zu tilgen erzeugte eine
+     Scheinvariante, sobald ein Zeuge das Wort ausschreibt und ein anderer es
+     kürzt - "schadē" gegen "schaden". Aufgelöst wird nach dem Träger, wie er
+     im Korpus belegt ist:
+       vñ / vn̄ als ganzes Wort  -> vnd   (350 Belege; "vnn" wäre falsch)
+       n + Strich               -> nn    (dañ -> dann)
+       m + Strich               -> mm    (kom̃en -> kommen)
+       u + Strich am Wortende   -> um    (Chriſtū -> Christum, zũ -> zum)
+       u + Strich sonst         -> un    (meinūg -> meinung)
+       sonstiger Vokal          -> n     (habē -> haben, võ -> von)
   6. Nasalstriche: x̄ → "x" (z̄ → z, m̄ → m, n̄ → n) — x̄/m̄/n̄/z̄ stripped
   7. Interpunktion: Virgel "/" kept as word separator (not stripped)
   8. Whitespace collapsed to single space
@@ -105,6 +115,53 @@ class Normalized(NamedTuple):
             "normalized": self.normalized,
             "normalization_info": self.normalization_info,
         }
+
+
+NASAL_MARKS = "\u0304\u0303"          # combining macron, combining tilde
+# "vñ" is the period's ampersand: it stands for "vnd", not for "vnn". At 350
+# occurrences it is the single most common abbreviated form in the corpus, so a
+# generic n-doubling rule would corrupt it more often than any other word.
+VND_RE = re.compile(r"(?<![A-Za-zÄÖÜäöü])([Vv])[nN][\u0304\u0303](?![A-Za-zÄÖÜäöü])")
+VND_D_RE = re.compile(r"(?<![A-Za-zÄÖÜäöü])([Vv])[nN][\u0304\u0303](?=[dD])")
+NASAL_RE = re.compile(r"([A-Za-zÄÖÜäöü])([\u0304\u0303])")
+
+
+def resolve_nasal_bar(text: str) -> tuple[str, list[str]]:
+    """Expand the nasal bar rather than dropping it (#21).
+
+    Folding it away made an abbreviation and its written-out form disagree,
+    which is a variant the edition never contained. Resolution follows the
+    carrier, as attested in this corpus.
+    """
+    if not text:
+        return text, []
+    decomposed = unicodedata.normalize("NFD", text)
+    if not any(ch in NASAL_MARKS for ch in decomposed):
+        return text, []
+
+    before = decomposed
+    decomposed = VND_D_RE.sub(lambda m: m.group(1) + "n", decomposed)
+    decomposed = VND_RE.sub(lambda m: m.group(1) + "nd", decomposed)
+
+    def expand(match: re.Match[str]) -> str:
+        carrier = match.group(1)
+        lower = carrier.lower()
+        if lower == "n":
+            return carrier + "n"
+        if lower == "m":
+            return carrier + "m"
+        if lower == "u":
+            # Word-final u takes m (Christum, darum, zum); before a consonant
+            # it takes n (meinung).
+            rest = match.string[match.end():match.end() + 1]
+            return carrier + ("m" if not rest.isalpha() else "n")
+        return carrier + "n"
+
+    decomposed = NASAL_RE.sub(expand, decomposed)
+    # Stay decomposed. Recomposing here would undo the NFD applied a step
+    # earlier and hand a precomposed ů to the fold that only looks for
+    # combining marks, so "nůn̄dte" came out as "nůnndte" with the ring intact.
+    return decomposed, (["nasal_expanded"] if decomposed != before else [])
 
 
 def _resolve_combining(text: str) -> tuple[str, list[str]]:
@@ -200,6 +257,11 @@ def normalize(text: str, *, preserve_original: bool = True) -> Normalized:
     if decomposed != text:
         text = decomposed
         info.append("nfd_decomposed")
+
+    # Step 0c: resolve the nasal bar before the combining marks are folded
+    # away, since resolving it needs to know which letter carried it.
+    text, nasal_info = resolve_nasal_bar(text)
+    info.extend(nasal_info)
 
     # Step 1: normalize combining diacritics
     text, diac_info = _resolve_combining(text)

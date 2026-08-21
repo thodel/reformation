@@ -8,7 +8,7 @@
       104
     ]
   },
-  "alignment_score": 0.4145,
+  "alignment_score": 0.4605,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 0,
     "only_b": 6,
-    "similarity": 0.483,
+    "similarity": 0.488,
     "pairs": [
       {
         "op": "only_b",
@@ -39,17 +39,13 @@
         "op": "match",
         "a": "Die erſt\nin ſtucken des gloubens/dheins wegs teylen. Jch erman\nſich aber frommen Chriſten/jr wellend ein hoch vffſechē\nhaben/vff die rechten ſecten/vñ vff die rechten zertren\nner Chriſtenlicher eynigkeit/vnd die ſo ſich in den hoͤch\nſten ſtucken des gloubens/anfachen zertrennen:",
         "b": "jr\nwoͤllend ein hoch vffſehen haben/vff die rechten\nſecten/ vnd vff die rechten zertrenner chriſtenli=\ncher einigkeyt/ vñ die ſo ſich in den hoͤchſten ſtu\ncken des gloubens/anfachen zertrennẽ:",
-        "similarity": 0.5,
-        "semantic": 0.8104,
-        "reading": "same"
+        "similarity": 0.525
       },
       {
         "op": "match",
         "a": "jr haben\nye gehórt in zåhe jaren har/das einer Luterſch/der an=\nder Zwingliſch/der dritt Carolſtadiſch/der vierd Œ=\ncolampadiſch/der fünfft Widertóufferiſch/vnd dergly\nchen ſeltzamer namen/ſich nennen/oder/zum wenigoſtē/",
         "b": "jr haben\nye gehoͤrt in zaͤhẽ jaren har/das einer Luteriſch/ der ander Zwingliſch/der dritt Karoloſtadiſch\nder vierdt Ecolãpadiſch/der fuͤnfft Widertoͤuf=\nferiſch/",
-        "similarity": 0.4444,
-        "semantic": 0.8503,
-        "reading": "reworded"
+        "similarity": 0.4444
       },
       {
         "op": "only_b",
@@ -61,9 +57,7 @@
         "op": "match",
         "a": "genannt werden/die nit allein vnderſcheyd habē in kley\ndern: dann der ſelb vnderſcheyd/niemand nachteil oder\nſchaden bringen mag/ſonder ſich trennen in treſſenlichen\nſtucken vnſers vnbeflecktēnn gloubens/vnnd da iſt der\ngróſt ſchaden/vnd das hoͤchſt vffſechen zehabē.",
         "b": "Dañ d' ſelb\nvnderſcheyd niemandt nachteyl oder ſchadẽ brin\ngen mag/ſonder ſich trennen in treffenlichen ſtu\ncken vnſers vnbefleckten gloubens /vnd das iſt d'\nſchadzum groͤſten /",
-        "similarity": 0.3478,
-        "semantic": 0.7332,
-        "reading": "reworded"
+        "similarity": 0.3478
       },
       {
         "op": "only_b",
@@ -75,17 +69,13 @@
         "op": "match",
         "a": "Es zeigt\nvns ouch an Martin Bůtzer/wie das alle Concilia biß=\nhar/wider ſich ſelbs geſin/vnd wider einandern gehand=\nlet/das ich jm/ſo er verſtan wil/in ſtucken des gloubens\nabred bin/vnd dheins wegs geſtan/er wirts ouch nůmer\nmer darbringen.",
         "b": "vnd wider einandern gehandlet/das ich jm/ſo er\nverſton wil in ſtucken des gloubens abred bin/ vnd keins waͤgs geſton /",
-        "similarity": 0.4776,
-        "semantic": 0.673,
-        "reading": "reworded"
+        "similarity": 0.4776
       },
       {
         "op": "match",
         "a": "Wol iſt war das in andren puncten/by\nlangen/malſtatten/eygen",
         "b": "er wirts ouch nuͤmmer\ndarbringen. Wol iſt war das in andren puncten\nby langen/malſtatten/eigen perſonen / zyt/ etc.",
-        "similarity": 0.6452,
-        "semantic": 0.7329,
-        "reading": "same"
+        "similarity": 0.6452
       },
       {
         "op": "only_b",
@@ -105,15 +95,10 @@
         "b": "Vff\nden dritten puncten / da huͤtt min herr Doctor\nfuͤrgewendt hat/wie das ſoͤlicher text / Matthei\nam",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.76,
-    "reworded": 3,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5126,
+    "similarity": 0.5217,
     "words": {
       "a": 179,
       "b": 258
@@ -191,18 +176,8 @@
       },
       {
         "op": "equal",
-        "a": "haben vff die rechten ſecten",
-        "b": "haben vff die rechten ſecten"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "vff die rechten",
-        "b": "vff die rechten"
+        "a": "haben vff die rechten ſecten vñ vff die rechten",
+        "b": "haben vff die rechten ſecten vnd vff die rechten"
       },
       {
         "op": "replace",
@@ -341,18 +316,8 @@
       },
       {
         "op": "equal",
-        "a": "werden die nit allein vnderſcheyd",
-        "b": "werden die nit allein vnderſcheyd"
-      },
-      {
-        "op": "replace",
-        "a": "habē",
-        "b": "haben"
-      },
-      {
-        "op": "equal",
-        "a": "in",
-        "b": "in"
+        "a": "werden die nit allein vnderſcheyd habē in",
+        "b": "werden die nit allein vnderſcheyd haben in"
       },
       {
         "op": "replace",
@@ -500,7 +465,7 @@
         "b": "eigen perſonen zyt etc Etwan ein concilium hinweg gethan das das ander geſatzt vnd gemacht hat deß ſy ouch gu ten fu g vnd recht haben Dan ye in geſatzten den glouben nit beru ren andre zyt vnd andre eigen ſchafft der menſchen andre recht erfordren Vff den dritten puncten da hu tt min herr Doctor fu rgewendt hat wie das ſo licher text Matthei am"
       }
     ],
-    "ops": 38,
+    "ops": 36,
     "truncated": false
   }
 }

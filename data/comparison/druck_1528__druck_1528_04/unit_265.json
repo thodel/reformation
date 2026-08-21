@@ -8,7 +8,7 @@
       307
     ]
   },
-  "alignment_score": 0.4286,
+  "alignment_score": 0.4715,
   "coarse": {
     "paragraphs": {
       "a": 6,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 1,
     "only_b": 4,
-    "similarity": 0.5404,
+    "similarity": 0.5714,
     "pairs": [
       {
         "op": "only_a",
@@ -45,17 +45,13 @@
         "op": "match",
         "a": "**Zwingli.+**\n\nA vnſer brůder bekennt/das die wort Joannis\nam vv. cap. Jeſus hat ſy anſuchet.zc. nit glych\nſin denen worten/Das iſt min lychnam:",
         "b": "Zwingly. So vnſer bruͤder bekennt / das die wort Jo=\nhannis am xx.cap.Jeſus hat ſy ankuchet/ꝛc.nit\nglych ſin denen worten .",
-        "similarity": 0.6,
-        "semantic": 0.8852,
-        "reading": "same"
+        "similarity": 0.6
       },
       {
         "op": "match",
         "a": "vñ wil\naber damit bewårt haben/das die wort ſöllen verſtandẽ\nwerden/Vnder dem Brot iſt min lychnam/ſo wurde jm\nbas dienen/daß das waſſer in die krůg geſaſſet iſt/vnd Ioan.",
         "b": "Das iſt min lychnam: vnd wyl aber damit bewårt haben/das die wort\nſoͤllen verſtanden werden / Vnder dem Brot iſt\nmin lychnā /",
-        "similarity": 0.4643,
-        "semantic": 0.8272,
-        "reading": "reworded"
+        "similarity": 0.5357
       },
       {
         "op": "only_b",
@@ -67,33 +63,25 @@
         "op": "match",
         "a": "am anderẽ\nzů wyn gemacht/weder diß ort. Wellen hieby von dem Capitel. anblaaſen vñ geyſt Chriſtinit beſonder red halten:",
         "b": "Wellen hieby von dem anblaaſen\nvnd geyſt Chriſti nit beſonder red halten: dann\nes nit zuͤ der ſach dienet. Pfarrer von Sant Gallen.",
-        "similarity": 0.4186,
-        "semantic": 0.5964,
-        "reading": "different"
+        "similarity": 0.4651
       },
       {
         "op": "match",
         "a": "dañ\nes nit zů der ſach diener. **Pfarrer von Sant Gallen.+**\n\nV hůtt vergangen vilfaltigen fürtrågen/mi\nner lieben herrn vnd mitbrůdern/beſelchen wir\nſölichs alles den Actis.",
         "b": "Vff huͤt vergangen vilfaltigen fuͤrtragen/ mi\nner lieben herrn vnd mitbruͤdern / befelchen wir\nſoͤlichs alles den Actis .",
-        "similarity": 0.449,
-        "semantic": 0.7585,
-        "reading": "reworded"
+        "similarity": 0.449
       },
       {
         "op": "match",
         "a": "Iſt hieruff vnſer begå=\nren nit zedisputierẽ/ob das Brot/oder im Brot/oð der=\nglychen zanckredẽ(wie die vernunfft ſölchs harfür brin=\ngen möcht) der lyb Chriſti ſye.",
         "b": "Iſt hieruff vnſer begå=\nren nit zedisputieren/ob das Brot/oder im brot/ oder derglychen zanckreden (wie die vernunfft\nſoͤlichs herfuͤr bringē moͤcht)der lyb Chriſti ſye.",
-        "similarity": 0.6441,
-        "semantic": 0.9071,
-        "reading": "same"
+        "similarity": 0.7119
       },
       {
         "op": "match",
         "a": "Allein wellẽ wir/vns wer\nde der lyb Chriſti (lut der worten/Nemend vnd eſſend/ das iſt min lyb) mitgeteylt. Hieruff erwarten wir (lut\nJi",
         "b": "Allein wellē wir/vns werde der lyb Chriſti (lut\nder worten : Nemmend vnd eſſend/ das iſt myn\nlyb)mitgeteylt . Hieruff erwarten wir (lut der\nſchlußreden)das ſy vns mit ſchrifft bybringend\ndie wort des Nachtmals /",
-        "similarity": 0.6667,
-        "semantic": 0.8305,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "only_b",
@@ -107,15 +95,10 @@
         "b": "im lyb der Junckfrouw Marie / wie er geboren\ns v\n\n## Marginalien\nJoan.2.ca.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.8008,
-    "reworded": 2,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5322,
+    "similarity": 0.5613,
     "words": {
       "a": 245,
       "b": 236
@@ -213,13 +196,13 @@
       },
       {
         "op": "equal",
-        "a": "nit glych ſin denen worten Das iſt min lychnam",
-        "b": "nit glych ſin denen worten Das iſt min lychnam"
+        "a": "nit glych ſin denen worten Das iſt min lychnam vñ",
+        "b": "nit glych ſin denen worten Das iſt min lychnam vnd"
       },
       {
         "op": "replace",
-        "a": "vñ wil",
-        "b": "vnd wyl"
+        "a": "wil",
+        "b": "wyl"
       },
       {
         "op": "equal",
@@ -228,13 +211,13 @@
       },
       {
         "op": "replace",
-        "a": "ſöllen verſtandẽ",
-        "b": "ſo llen verſtanden"
+        "a": "ſöllen",
+        "b": "ſo llen"
       },
       {
         "op": "equal",
-        "a": "werden Vnder dem Brot iſt min",
-        "b": "werden Vnder dem Brot iſt min"
+        "a": "verſtandẽ werden Vnder dem Brot iſt min",
+        "b": "verſtanden werden Vnder dem Brot iſt min"
       },
       {
         "op": "replace",
@@ -243,13 +226,13 @@
       },
       {
         "op": "equal",
-        "a": "ſo wurde jm bas",
-        "b": "ſo wurde jm bas"
+        "a": "ſo wurde jm bas dienen",
+        "b": "ſo wurde jm bas dienē"
       },
       {
         "op": "replace",
-        "a": "dienen daß das waſſer",
-        "b": "dienē dz dz waſ ſer"
+        "a": "daß das waſſer",
+        "b": "dz dz waſ ſer"
       },
       {
         "op": "equal",
@@ -283,18 +266,8 @@
       },
       {
         "op": "equal",
-        "a": "anblaaſen",
-        "b": "anblaaſen"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "geyſt",
-        "b": "geyſt"
+        "a": "anblaaſen vñ geyſt",
+        "b": "anblaaſen vnd geyſt"
       },
       {
         "op": "replace",
@@ -303,18 +276,8 @@
       },
       {
         "op": "equal",
-        "a": "beſonder red halten",
-        "b": "beſonder red halten"
-      },
-      {
-        "op": "replace",
-        "a": "dañ",
-        "b": "dann"
-      },
-      {
-        "op": "equal",
-        "a": "es nit zů der ſach",
-        "b": "es nit zu der ſach"
+        "a": "beſonder red halten dañ es nit zů der ſach",
+        "b": "beſonder red halten dann es nit zu der ſach"
       },
       {
         "op": "replace",
@@ -363,28 +326,18 @@
       },
       {
         "op": "equal",
-        "a": "alles den Actis Iſt hieruff vnſer begå ren nit",
-        "b": "alles den Actis Iſt hieruff vnſer begå ren nit"
+        "a": "alles den Actis Iſt hieruff vnſer begå ren nit zedisputierẽ ob das Brot oder im Brot",
+        "b": "alles den Actis Iſt hieruff vnſer begå ren nit zedisputieren ob das Brot oder im brot"
       },
       {
         "op": "replace",
-        "a": "zedisputierẽ",
-        "b": "zedisputieren"
+        "a": "oð der glychen",
+        "b": "oder derglychen"
       },
       {
         "op": "equal",
-        "a": "ob das Brot oder im Brot",
-        "b": "ob das Brot oder im brot"
-      },
-      {
-        "op": "replace",
-        "a": "oð der glychen zanckredẽ",
-        "b": "oder derglychen zanckreden"
-      },
-      {
-        "op": "equal",
-        "a": "wie die vernunfft",
-        "b": "wie die vernunfft"
+        "a": "zanckredẽ wie die vernunfft",
+        "b": "zanckreden wie die vernunfft"
       },
       {
         "op": "replace",
@@ -432,7 +385,7 @@
         "b": "der ſchlußreden das ſy vns mit ſchrifft bybringend die wort des Nachtmals ein anderen verſtand zehaben Es haben ſich bißher die Sententiarij vil beku mbert von der geburt vñ empfencknuß Chriſti wie er vom heyligen geyſt empfangen im lyb der Junckfrouw Marie wie er geboren s v Marginalien Joan 2 ca"
       }
     ],
-    "ops": 31,
+    "ops": 28,
     "truncated": false
   }
 }

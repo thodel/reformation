@@ -8,7 +8,7 @@
       245
     ]
   },
-  "alignment_score": 0.1593,
+  "alignment_score": 0.1549,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 1,
     "only_a": 10,
     "only_b": 1,
-    "similarity": 0.4,
+    "similarity": 0.36,
     "pairs": [
       {
         "op": "only_a",
@@ -51,7 +51,7 @@
         "op": "match",
         "a": "vñ ouch der Kilchen die=\nner/ darumb mögent sy ouch höupter genant werden/ houpt ze sin vordert mer dañ ein wächter/",
         "b": "Christi\nsy ouch houpter genant werden, houpt zesin¬\nvordert mer dan ein wechter, oder hirt\nDie kilch ist om lijb Dorum\nzusin\nhatt sy euch mir ein houpt, Erstin.",
-        "similarity": 0.4
+        "similarity": 0.36
       },
       {
         "op": "only_a",
@@ -127,8 +127,18 @@
       },
       {
         "op": "equal",
-        "a": "vordert mer dañ ein",
-        "b": "vordert mer dan ein"
+        "a": "vordert mer",
+        "b": "vordert mer"
+      },
+      {
+        "op": "replace",
+        "a": "dañ",
+        "b": "dan"
+      },
+      {
+        "op": "equal",
+        "a": "ein",
+        "b": "ein"
       },
       {
         "op": "replace",
@@ -422,8 +432,18 @@
       },
       {
         "op": "replace",
-        "a": "habe vñ diewyl Chri stus",
-        "b": "hatt vnd die wijll Christus"
+        "a": "habe",
+        "b": "hatt"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "diewyl Chri stus",
+        "b": "die wijll Christus"
       },
       {
         "op": "equal",
@@ -586,7 +606,7 @@
         "b": ""
       }
     ],
-    "ops": 48,
+    "ops": 50,
     "truncated": false
   }
 }

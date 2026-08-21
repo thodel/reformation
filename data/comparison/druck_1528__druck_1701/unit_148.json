@@ -8,7 +8,7 @@
       157
     ]
   },
-  "alignment_score": 0.2273,
+  "alignment_score": 0.2475,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 2,
     "only_b": 4,
-    "similarity": 0.4559,
+    "similarity": 0.4612,
     "pairs": [
       {
         "op": "only_a",
@@ -45,17 +45,13 @@
         "op": "match",
         "a": "Epiſt. vj. ca-\npitel erſt hab angezogen/das Chꝛiſtus allein der heylig/ allein der gewaltig oder fürſt (für welches wir hie/das\nwoꝛt houpt bruchen) genempt wirt.",
         "b": "Die Erſte Schlußred. 141\n\ngezogen / daß Chriſtus allein der Heilig / allein der Ge-\nwaltig oder Fürſt (für welches wir hie das Wort Haubt\nbruchen) genennet wird.",
-        "similarity": 0.4528,
-        "semantic": 0.3402,
-        "reading": "different"
+        "similarity": 0.4528
       },
       {
         "op": "match",
         "a": "**Daniel.**\n[Initial N] On alle ding vnderwegen glon/ſo dunckt mich\nich hab verſtanden vß yeczigen woꝛten/meyſter\nOlrich Zwinglis/das die fürſten werden ge-\nhalten/für höupter vnnd damit abgeſtanden.",
         "b": "Daniel. NUn alle Ding underwegen glon / ſo dunckt mich ich\nhab verſtanden vß jetzigen Worten Meiſter Ulrich\nZwinglis / daß die Fürſten werden gehalten für Häub-\nter /",
-        "similarity": 0.5965,
-        "semantic": 0.8364,
-        "reading": "same"
+        "similarity": 0.5965
       },
       {
         "op": "only_b",
@@ -67,17 +63,13 @@
         "op": "match",
         "a": "**Herr Gilg Durer Pfarrer**\n**zů Rapfenſchwil.**\n[Initial D] Ie gnad vnſers herrē Jeſu Chꝛiſti/ſig mit vns\nallen/Amē. Dʒ Chꝛiſtus ſye vnſer einig houpt\nder vns läbendig macht ſyn gnad vñ barmher\nbigkeit vns mitteilt/iſt war/das aber daby nit ſölle ſin\nein geiſtlicher gewalt oder regiment/mag mit der geſchri\nfft nit erzeigt werde/dan Paulus zun Römern am .xiij.",
         "b": "Amen. Daß Chriſtus ſye unſer einig Haubt / der uns lebendig macht / ſyn Gnad und Barmhertzigkeit\nuns mittheilt / iſt wahr / daß aber darby nit ſölle ſyn ein\ngeiſtlicher Gewalt oder Regiment /",
-        "similarity": 0.3871,
-        "semantic": 0.5832,
-        "reading": "different"
+        "similarity": 0.4086
       },
       {
         "op": "match",
         "a": "cap. ſpricht/das aller gewalt von gott ſye/der geyſtlich",
         "b": "mag mit der Geſchrifft\nnit erzeigt werden / dann Paulus zun Römern am 13. Cap. ſpricht / daß aller Gewalt von Gott ſeye /",
-        "similarity": 0.3871,
-        "semantic": 0.4228,
-        "reading": "different"
+        "similarity": 0.3871
       },
       {
         "op": "only_b",
@@ -97,15 +89,10 @@
         "b": "zun Römern am 13. Cap. Jederman ſyg underthan der Oberkeit / ꝛc. und ward der\nText verleſen. S ij Gilg\n\n## Marginalien\nSuch\nhievor\nam 120\nund 122\nblat.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.5456,
-    "reworded": 0,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.3812,
+    "similarity": 0.3861,
     "words": {
       "a": 209,
       "b": 195
@@ -278,13 +265,13 @@
       },
       {
         "op": "equal",
-        "a": "macht ſyn gnad",
-        "b": "macht ſyn Gnad"
+        "a": "macht ſyn gnad vñ",
+        "b": "macht ſyn Gnad und"
       },
       {
         "op": "replace",
-        "a": "vñ barmher bigkeit",
-        "b": "und Barmhertzigkeit"
+        "a": "barmher bigkeit",
+        "b": "Barmhertzigkeit"
       },
       {
         "op": "equal",

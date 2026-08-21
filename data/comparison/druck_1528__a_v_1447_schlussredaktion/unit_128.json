@@ -8,7 +8,7 @@
       240
     ]
   },
-  "alignment_score": 0.2008,
+  "alignment_score": 0.1985,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 4,
     "only_b": 2,
-    "similarity": 0.4363,
+    "similarity": 0.4367,
     "pairs": [
       {
         "op": "only_a",
@@ -81,7 +81,7 @@
         "op": "match",
         "a": "Verheyſſet\njnen daby: Die andern ding wil ich üch ouch ordnen/weñ\nich zů üch kom. Wan findt aber nienan geſchriben/wo er\ndas geordnet habe/",
         "b": "Alß ich üch mine\npot geben hab / verheisset Inen daby/ die anndern\nDing will ich och auch ordnen / Wen ich zuͦ\nma  e   n\nuͤch kom\nben wo er das geordnet habe/",
-        "similarity": 0.5085
+        "similarity": 0.4746
       },
       {
         "op": "match",
@@ -93,7 +93,7 @@
         "op": "match",
         "a": "Von ſölichen brüchen findt man ouch geſchribē/ zun Theſſalonicheren in der anderen Epiſtel/am ande-\nren Cap. die nit all geſchriben ſtond/als ich mein. ℛ",
         "b": "Seitt da von Ey// von soͤllichen bruchen fndt man\nsachen (\nouch geschriben / zum Callessoistern/ am ii ͦ cap: die nit all geschriben stand allß ich mein\nZwungliy\nMeister Stielaus.",
-        "similarity": 0.4
+        "similarity": 0.4364
       },
       {
         "op": "only_b",
@@ -104,7 +104,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4033,
+    "similarity": 0.4074,
     "words": {
       "a": 287,
       "b": 199
@@ -147,13 +147,13 @@
       },
       {
         "op": "equal",
-        "a": "zů lüttrung",
-        "b": "zu luttrung"
+        "a": "zů lüttrung vñ",
+        "b": "zu luttrung vnd"
       },
       {
         "op": "replace",
-        "a": "vñ erkantnuß Bib liſcher geſchrifft",
-        "b": "vnd er kantnus billischer gschrifft"
+        "a": "erkantnuß Bib liſcher geſchrifft",
+        "b": "er kantnus billischer gschrifft"
       },
       {
         "op": "equal",
@@ -407,8 +407,18 @@
       },
       {
         "op": "equal",
-        "a": "ordnen weñ ich zů",
-        "b": "ordnen Wen ich zu"
+        "a": "ordnen",
+        "b": "ordnen"
+      },
+      {
+        "op": "replace",
+        "a": "weñ",
+        "b": "Wen"
+      },
+      {
+        "op": "equal",
+        "a": "ich zů",
+        "b": "ich zu"
       },
       {
         "op": "replace",
@@ -517,13 +527,13 @@
       },
       {
         "op": "equal",
-        "a": "ouch",
-        "b": "ouch"
+        "a": "ouch geſchribē",
+        "b": "ouch geschriben"
       },
       {
         "op": "replace",
-        "a": "geſchribē zun Theſſalonicheren in der anderen Epiſtel",
-        "b": "geschriben zum Callessoistern"
+        "a": "zun Theſſalonicheren in der anderen Epiſtel",
+        "b": "zum Callessoistern"
       },
       {
         "op": "equal",
@@ -556,7 +566,7 @@
         "b": "Zwungliy Meister Stielaus Was wellennd Ir mit Denen worten allen Infu ren Seiger"
       }
     ],
-    "ops": 45,
+    "ops": 46,
     "truncated": false
   }
 }

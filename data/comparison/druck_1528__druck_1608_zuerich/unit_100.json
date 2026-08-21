@@ -8,7 +8,7 @@
       126
     ]
   },
-  "alignment_score": 0.448,
+  "alignment_score": 0.4699,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 1,
     "only_b": 7,
-    "similarity": 0.4123,
+    "similarity": 0.4211,
     "pairs": [
       {
         "op": "only_b",
@@ -57,25 +57,19 @@
         "op": "match",
         "a": "Die erſt\ndas er ſöllichs zeurteylen / ouch eynem yeden Chriſten/ müß zůgeben/dann nach dem gebott Chriſti/ ſo ſoll eyn\nyeder ſin ſündigen brůder ſtraffen/das kan er nun nitt\nBillich thůn/er hab jn dann recht vnnd Billich als ein ſün=\nder vnd jrrigen geurteylet.",
         "b": "das kan er nun nit billich thuͤn / er hab jn dann\nrecht vnnd billich als ein Sünder vnnd jrzigen geurteilet.",
-        "similarity": 0.4179,
-        "semantic": 0.5998,
-        "reading": "different"
+        "similarity": 0.4179
       },
       {
         "op": "match",
         "a": "Zum anderen/diewil ſin men=\nſchliche ynred/ By den einfaltigen/ eyn ſchin möchte ha=\nben/als ob mer eynigkeyt im glouben zůhoffen wer/wo\ndie ſachen des gloubens/durch ein gemeyn Concilium\nentſcheyden wurden.",
         "b": "Zum anderen / diewyl ſin menſchliche ynred / by den einfal=\ntigen / ein ſchin moͤchte haben / als ob mer einigkeit im glou=\nben zuͤhoffen wer /",
-        "similarity": 0.4068,
-        "semantic": 0.7774,
-        "reading": "reworded"
+        "similarity": 0.4068
       },
       {
         "op": "match",
         "a": "So erman ich üch lieben Chriſten\njr wellend yndenck ſin/des/ſo ich üch hüt vß Göttlicher\ngeſchrifft håll vnnd klar hab dargethon.",
         "b": "wo die ſachen deß gloubens / durch ein ge=\nmein Concilium entſcheiden wurden. So erman ich uͤch\nlieben Chriſten / jr wellend yndenck ſin deß /",
-        "similarity": 0.383,
-        "semantic": 0.8899,
-        "reading": "reworded"
+        "similarity": 0.383
       },
       {
         "op": "only_b",
@@ -87,9 +81,7 @@
         "op": "match",
         "a": "Namlich das\nrechter verſtand des wort Gottes vnnd eynigkeyt des\ngloubens/durch keinen huffen der menſchen die von jnen\nſelbs lugner ſind/gefürdert werden mag/ſonders wir\nmüſſen durch den geyſt Gottes im hertzen eyn jeder für\nſich ſelbs verſichert werden/dis begegnet nu endtlichen\nallen/die Gott zum ewigen läben verordnet hatt/dann\ner berüfft ſölche/macht ſy from vnnd ſälig/zun Rö=\nmern vuj.",
         "b": "durch keinen huffen der Menſchen\ndie von jnen ſelbs lugner ſind / gefuͤrdert werden mag / ſon=\nders wir muͤſſen durch den Geiſt Gottes im Hertzen ein je=\nder für ſich ſelbs verſichert werden /",
-        "similarity": 0.48,
-        "semantic": 0.8414,
-        "reading": "reworded"
+        "similarity": 0.48
       },
       {
         "op": "only_b",
@@ -107,28 +99,18 @@
         "op": "match",
         "a": "Capi. Da nebē wir aber wie hüt geſagt/mag\nein Kilch etliche ort ð geſchrifft anderſt verſton/wañ die\nandere/wie dañ geſchicht von diſem ſpruch/das iſt minn\nlyb/nit allein zwüſchend der Kilchē/zů Wittenberg/vñ\ndera von Zůrich/ſondert ouch vil andern mer/wo aber\ndz vertruwē vff den eynigen heyland Jeſum geſetzt wirt\nda hat man dz ewig läbē/Joan.",
         "b": "wann die andere / wie\ndañ geſchicht von diſem Spruch / Das iſt myn Lyb / nit al=\nlein zwuͤſchen der Kilchen zuͤ Wittenberg / vnnd dera von\n                                                            Zuͤrich /",
-        "similarity": 0.3736,
-        "semantic": 0.8374,
-        "reading": "reworded"
+        "similarity": 0.4176
       },
       {
         "op": "only_a",
         "a": "am vj. cap. Vñ mögent\nſölche zweyung endtlich nit ſchade/dz vertruwē vff gott/ welches der erwellten läben iſt/wirt für faren/vñ durch\nGottes geyſt noch volkomen werden/vnd kein end nie=\nmermer nemen",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.827,
-        "semantic_match": "diß begegnet nun endt=\nlichen allen / die Gott zum ewigen laͤben verordnet hat / dañ\ner beruͤfft ſoͤlche /",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7955,
-    "reworded": 4,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4929,
+    "similarity": 0.5071,
     "words": {
       "a": 268,
       "b": 296
@@ -486,13 +468,13 @@
       },
       {
         "op": "replace",
-        "a": "hatt dann",
-        "b": "hat dañ"
+        "a": "hatt",
+        "b": "hat"
       },
       {
         "op": "equal",
-        "a": "er",
-        "b": "er"
+        "a": "dann er",
+        "b": "dañ er"
       },
       {
         "op": "replace",
@@ -521,18 +503,8 @@
       },
       {
         "op": "equal",
-        "a": "Da",
-        "b": "Da"
-      },
-      {
-        "op": "replace",
-        "a": "nebē",
-        "b": "neben"
-      },
-      {
-        "op": "equal",
-        "a": "wir aber wie",
-        "b": "wir aber wie"
+        "a": "Da nebē wir aber wie",
+        "b": "Da neben wir aber wie"
       },
       {
         "op": "replace",
@@ -561,18 +533,8 @@
       },
       {
         "op": "equal",
-        "a": "geſchrifft anderſt verſton",
-        "b": "Geſchrifft anderſt verſton"
-      },
-      {
-        "op": "replace",
-        "a": "wañ",
-        "b": "wann"
-      },
-      {
-        "op": "equal",
-        "a": "die andere wie dañ geſchicht von diſem ſpruch das iſt",
-        "b": "die andere wie dañ geſchicht von diſem Spruch Das iſt"
+        "a": "geſchrifft anderſt verſton wañ die andere wie dañ geſchicht von diſem ſpruch das iſt",
+        "b": "Geſchrifft anderſt verſton wann die andere wie dañ geſchicht von diſem Spruch Das iſt"
       },
       {
         "op": "replace",
@@ -591,18 +553,8 @@
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
-      },
-      {
-        "op": "replace",
-        "a": "Kilchē",
-        "b": "Kilchen"
-      },
-      {
-        "op": "equal",
-        "a": "zů Wittenberg",
-        "b": "zu Wittenberg"
+        "a": "der Kilchē zů Wittenberg",
+        "b": "der Kilchen zu Wittenberg"
       },
       {
         "op": "replace",
@@ -620,7 +572,7 @@
         "b": "Zu rich"
       }
     ],
-    "ops": 49,
+    "ops": 46,
     "truncated": false
   }
 }

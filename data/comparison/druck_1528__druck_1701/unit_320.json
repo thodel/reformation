@@ -8,7 +8,7 @@
       332
     ]
   },
-  "alignment_score": 0.4167,
+  "alignment_score": 0.4286,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 0,
     "only_b": 8,
-    "similarity": 0.4913,
+    "similarity": 0.4992,
     "pairs": [
       {
         "op": "only_b",
@@ -39,25 +39,19 @@
         "op": "match",
         "a": "Schluͤßred. CLIII\nſin mag/ob glych die krafft Gottes allenthalben iſt. Deß=\nhalb er lyblich by vns ordenlich nit ſin mag/nach Mar=\nci wort/am v oj.",
         "b": "daß ſyn Menſch-\nheit nit mehr dann an einem Ort ordenlich ſyn mag/ obglych die Krafft Gottes allenthalben iſt. Deßhalb\ner lyblich by uns ordenlich nit ſyn mag /",
-        "similarity": 0.4561,
-        "semantic": 0.2173,
-        "reading": "different"
+        "similarity": 0.4561
       },
       {
         "op": "match",
         "a": "vnd Lucas Acto. j. Biß an den tag/da\ner zů Gericht ſitzen wirt.zc. nach den articklen des Glou\nbens.",
         "b": "nach Marci\nWort am 16. Capitel / und Lucas Actorum am 1. Biß\nan den Tag / da er zů Gericht ſitzen wird /",
-        "similarity": 0.5238,
-        "semantic": 0.7343,
-        "reading": "same"
+        "similarity": 0.5238
       },
       {
         "op": "match",
         "a": "Zum fuͤnfften/ſpricht Paulus zun Hebreern/ am. ij. capitel: Er hat die Engliſche natur nit an ſich ge\nnomen (in welchem wirt aller hoͤchſten vñ niderſten crea\nturen/natur verſtanden) ſonder des geſchlächts oder ſa\nmen Abrahams/hat er an ſ",
         "b": "ꝛc. nach den Ar-\nticklen deß Glaubens. Zum fünfften / ſpricht Paulus\nzun Hebreern am 2. Cap. Er hat die Engliſche Natur nit\nan ſich genomen (in welchem wird der allerhöchſten und\nniderſten Creaturen Natur verſtanden) ſonders deß Ge-\nſchlechts oder Samen Abrahams /",
-        "similarity": 0.4941,
-        "semantic": 0.9029,
-        "reading": "reworded"
+        "similarity": 0.5176
       },
       {
         "op": "only_b",
@@ -101,15 +95,10 @@
         "b": "Capitel / da Chri-\nſtus die für falſche Propheten anzeiget / die Chriſtum hie\noder\n\n## Marginalien\nſuch hie\nvor am\n243. blat.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6182,
-    "reworded": 1,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.2782,
+    "similarity": 0.2835,
     "words": {
       "a": 93,
       "b": 288
@@ -237,13 +226,13 @@
       },
       {
         "op": "replace",
-        "a": "wirt aller ho chſten vñ",
-        "b": "wird der allerhöchſten und"
+        "a": "wirt aller ho chſten",
+        "b": "wird der allerhöchſten"
       },
       {
         "op": "equal",
-        "a": "niderſten",
-        "b": "niderſten"
+        "a": "vñ niderſten",
+        "b": "und niderſten"
       },
       {
         "op": "replace",

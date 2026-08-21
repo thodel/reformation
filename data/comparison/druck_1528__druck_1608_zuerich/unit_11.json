@@ -39,17 +39,13 @@
         "op": "match",
         "a": "pen Frankheit halb/abtretten/sind an sin statt zwen an=\nder verordnet/namlich herr Appt von Gott■tatt/vnd\nMeyster Cunrad Schmid/Comenthür zü küßnacht\nin Zürich piet.",
         "b": "Vnd nach\netlichen Seſſionen/ als Herr Probst von Inderlappen\nKranckheit halb/abtretten/ ſind an ſyn ſtatt zwen ander\nverordnet/namlich Herr Appt von Gottſtatt/vnd Mei-\nſter Cůnrad Schmid/Commenthůr zů Kůßnacht in Zů-\nrichpiet.",
-        "similarity": 0.5397,
-        "semantic": 0.7583,
-        "reading": "same"
+        "similarity": 0.5397
       },
       {
         "op": "match",
         "a": "Sie vier habé biß zü end des gesprächs/ das Presidenten ampe verwåsen. Sie vier vozdnet Schryber/Namlich beid State=\nschryber von Bern vnd Soloturn/Gerichtschryber võ\nBernn/vnd Sratt■chryber von Thun/Habendouch\nby trüwen an Eyds state/in herrn Schultheissen vonn\nBern hand gelopt/d3 sy ongeachtet parthy/sect/gunst/",
         "b": "Die vier haben biß zů end deß Geſprächs/das\nPreſidenten Ampt verwäſen. Die vier verordnet Schryber/Namlich beid Statt-\nſchriber von Bern vnd Soloturn /",
-        "similarity": 0.4267,
-        "semantic": 0.6782,
-        "reading": "reworded"
+        "similarity": 0.4267
       },
       {
         "op": "only_b",
@@ -61,33 +57,25 @@
         "op": "match",
         "a": "findtschafft/liebe.zc. Alles d3 so in die fåder geredt/ouch\nin geschrifft yngeleyt wurde/getrüwlich ynzenerzeichné/ one geuårde. Duch zeuerwalten w3 jnen beuolche wurd.",
         "b": "daß ſy vngeachtet Parthy / Sect/ Gunſt/ Findtſchafft/ Liebe / ꝛc. Alles das ſo in die Fäder geredt/ ouch in Geſchrifft ingeleit wurde/getrüwlich inzeuerzeich-\nnen/ohne gefärde.",
-        "similarity": 0.5098,
-        "semantic": 0.5495,
-        "reading": "check"
+        "similarity": 0.5098
       },
       {
         "op": "match",
         "a": "Sy haben ouch ein yeden Sisputanten/mitt namen\nvfzeichnet/vin nach yeder Session/alles das ye verzeich\nnet/Collationiert/gegen einandern gehept vnd vlasen.",
         "b": "Ouch zeuerwalten was jnen befolchen\nwurd. Sy haben ouch ein jeden Diſputanten / mit namen\nvffzeichnet / vnd nach jeder Seſſion / alles das je verzeich-\nnet/Collacioniert /",
-        "similarity": 0.449,
-        "semantic": 0.5035,
-        "reading": "different"
+        "similarity": 0.449
       },
       {
         "op": "match",
         "a": "Sarzü was die Sisputanten beider sitt/vß der Pre\nsidenten nachlaß/in schrifft yngeleyt: das haben die schry\nber in die Acten verfasset/zwo protestationen vßgenom\nmen/namlich Fridli Brunners von Glaris/",
         "b": "gegen einandern gehebt vnd verläſen. Darzů was die Diſputanten beyder ſydt/vß der Pre-\nſidenten nachlaß/ in Schrifft ingelegt: das haben die\nSchryber in die Acta verfaſſet/zwo Proteſtationen vßge-\nnommen /",
-        "similarity": 0.5397,
-        "semantic": 0.7693,
-        "reading": "same"
+        "similarity": 0.5397
       },
       {
         "op": "match",
         "a": "vnd Wel=\nchior Thilmans von Luzern/deso meldung bald har=\nnach beschicht.zc. Seßglychen etlich reden/so in die fåder\nkomen/vnd aber vß bewilligung Beider parthyen/vß=\ntilcket.",
         "b": "namlich Fridli Brunners von Glaris / vnd\nMelchior Thilmans von Lußern/dero meldung bald har-\nnach beſchicht/ꝛc. Deßglychen etlich reden/ſo in die Fäder\nkommen / vnd aber vß bewilligung beider Parthyen/vß-\ntilcket",
-        "similarity": 0.7097,
-        "semantic": 0.8165,
-        "reading": "same"
+        "similarity": 0.7097
       },
       {
         "op": "only_a",
@@ -107,15 +95,10 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6792,
-    "reworded": 1,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.499,
+    "similarity": 0.5031,
     "words": {
       "a": 273,
       "b": 216
@@ -253,8 +236,18 @@
       },
       {
         "op": "replace",
-        "a": "Gerichtschryber võ Bernn",
-        "b": "Gerichtſchriber von Bern"
+        "a": "Gerichtschryber",
+        "b": "Gerichtſchriber"
+      },
+      {
+        "op": "equal",
+        "a": "võ",
+        "b": "von"
+      },
+      {
+        "op": "replace",
+        "a": "Bernn",
+        "b": "Bern"
       },
       {
         "op": "equal",
@@ -557,7 +550,7 @@
         "b": ""
       }
     ],
-    "ops": 44,
+    "ops": 45,
     "truncated": false
   }
 }

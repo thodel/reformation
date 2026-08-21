@@ -8,7 +8,7 @@
       441
     ]
   },
-  "alignment_score": 0.3353,
+  "alignment_score": 0.3846,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 3,
     "only_b": 2,
-    "similarity": 0.5506,
+    "similarity": 0.5764,
     "pairs": [
       {
         "op": "only_a",
@@ -51,33 +51,25 @@
         "op": "match",
         "a": "ſo mag diß oꝛt\nvon der Mäß nit verſtanden werdẽ es lege/ es vonn der\nMäß vß/glich wer da welle.",
         "b": "Butzer. Es iſt vorgſagt/diewyl die Maͤß kein opfer\nſin kan/wie vß Paulo überflüſſig bewaͤrt iſt/ ſo\nmag diß ort von der Maͤß nit verſtanden wer-\nden/es lege es vonn der Maͤß vß/glych waͤr da\nwelle.",
-        "similarity": 0.4615,
-        "semantic": 0.6884,
-        "reading": "reworded"
+        "similarity": 0.4615
       },
       {
         "op": "match",
         "a": "Gilg Murer. Wir haben es bewärt/mit vnſer Diſtinction. Butzer. DIe ſelbig Diſtinction iſt ane geſchrifft:des anderen\nteyls halb /",
         "b": "Gilg Murer\nWir habē es bewaͤrt/mit vnſer Diſtinction. Butzer. Die ſelbig Diſtinction iſt one gſchrifft deß\nanderen teyls halb/",
-        "similarity": 0.7317,
-        "semantic": 0.7952,
-        "reading": "same"
+        "similarity": 0.7805
       },
       {
         "op": "match",
         "a": "nãmlich des vermeinten Mäßopffers\nhalb/das ſy geyſtlich nemen/vnd doch liplich iſt. Gilg Murer. WIr fragen hie / zů merer erkantnus /",
         "b": "namlich des vermeyntenn\nMaͤßopffers halb/ das ſy geyſtlich nemē/ vnd\ndoch lyblich iſt. Gilg Murer. Wir fragend hie/zů merer erkantnuß/wz das\nreyn opffer ſye/von dem Malachias ſchrybt.",
-        "similarity": 0.5769,
-        "semantic": 0.7677,
-        "reading": "same"
+        "similarity": 0.5769
       },
       {
         "op": "match",
         "a": "was das reyn\nopffer ſye/von dem Malachias ſchribt. Butzer. ANtwurt. Es ſind die rechtglöubigen hertzen/ir\ngebätt/vñ gantz begäbung/in den willen gottes\ndie werden dem herrn zůbereyt/durch die predi\nger des Euangelij/dauon Paulus zuñ Römern am xv.",
         "b": "Butzer. Antwurt: Es ſind die rechtgloͤubigē hertzē/ jr gebaͤtt vnd gantz begaͤbung in den willē Got-\ntes/die werden dem Herren zůbereyt/durch die\n\n## Marginalien\nHieron am\n203. 204.",
-        "similarity": 0.4324,
-        "semantic": 0.5848,
-        "reading": "different"
+        "similarity": 0.4865
       },
       {
         "op": "only_a",
@@ -89,20 +81,12 @@
         "op": "only_a",
         "a": "Gilg murer. ALs vns̄ geantwurt iſt worden/das rein opffer/ſyen\ndie glöubigen/mit jren bätte vnd der glichen:mag\nhie nit verſtanden werden/dann alle vnſer gerech\ntigkeyt / iſt vnſuber vor Gott / als ſy ſelbs anred ſynd/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6154,
-        "semantic_match": "Schlußred. CCVIII\nGilg Murer. Malachias der Prophet redt hie nit võ jnner-\nlichem opffer/ dann warum er hat vormals ge-\nredt/von dem vſſerlichē opffer der Juden:dan-\nnethin ſo ſetzt er ein Opffer/",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.6903,
-    "reworded": 1,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4188,
+    "similarity": 0.4346,
     "words": {
       "a": 189,
       "b": 193
@@ -210,18 +194,8 @@
       },
       {
         "op": "equal",
-        "a": "da welle Gilg Murer Wir",
-        "b": "da welle Gilg Murer Wir"
-      },
-      {
-        "op": "replace",
-        "a": "haben",
-        "b": "habē"
-      },
-      {
-        "op": "equal",
-        "a": "es",
-        "b": "es"
+        "a": "da welle Gilg Murer Wir haben es",
+        "b": "da welle Gilg Murer Wir habē es"
       },
       {
         "op": "replace",
@@ -240,8 +214,18 @@
       },
       {
         "op": "equal",
-        "a": "anderen teyls halb nãmlich des",
-        "b": "anderen teyls halb namlich des"
+        "a": "anderen teyls halb",
+        "b": "anderen teyls halb"
+      },
+      {
+        "op": "replace",
+        "a": "nãmlich",
+        "b": "namlich"
+      },
+      {
+        "op": "equal",
+        "a": "des",
+        "b": "des"
       },
       {
         "op": "replace",
@@ -250,18 +234,8 @@
       },
       {
         "op": "equal",
-        "a": "halb das ſy geyſtlich",
-        "b": "halb das ſy geyſtlich"
-      },
-      {
-        "op": "replace",
-        "a": "nemen",
-        "b": "nemē"
-      },
-      {
-        "op": "equal",
-        "a": "vnd doch",
-        "b": "vnd doch"
+        "a": "halb das ſy geyſtlich nemen vnd doch",
+        "b": "halb das ſy geyſtlich nemē vnd doch"
       },
       {
         "op": "replace",
@@ -315,13 +289,13 @@
       },
       {
         "op": "replace",
-        "a": "gebätt vñ",
-        "b": "geba tt vnd"
+        "a": "gebätt",
+        "b": "geba tt"
       },
       {
         "op": "equal",
-        "a": "gantz",
-        "b": "gantz"
+        "a": "vñ gantz",
+        "b": "vnd gantz"
       },
       {
         "op": "replace",
@@ -330,13 +304,13 @@
       },
       {
         "op": "equal",
-        "a": "in den",
-        "b": "in den"
+        "a": "in den willen",
+        "b": "in den willē"
       },
       {
         "op": "replace",
-        "a": "willen gottes",
-        "b": "willē Got tes"
+        "a": "gottes",
+        "b": "Got tes"
       },
       {
         "op": "equal",
@@ -369,7 +343,7 @@
         "b": "203 204"
       }
     ],
-    "ops": 26,
+    "ops": 25,
     "truncated": false
   }
 }

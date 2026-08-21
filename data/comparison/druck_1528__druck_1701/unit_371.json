@@ -8,7 +8,7 @@
       385
     ]
   },
-  "alignment_score": 0.2317,
+  "alignment_score": 0.2459,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 5,
     "only_b": 4,
-    "similarity": 0.5097,
+    "similarity": 0.5141,
     "pairs": [
       {
         "op": "only_b",
@@ -51,57 +51,43 @@
         "op": "match",
         "a": "Die fünffte\n\nsagt ist. Darum̄ wie nun ein Christus ist/ vnd ein ewiger\nPriester / also ist ein ewigs Priesterthůmb/vñ ein ewigs\nopffer des nüwen Testaments/",
         "b": "davon huͤt und gester vil gesagt ist. Da-\nrum wie nur ein Christus ist / und ein ewiger\nPriester / also ist ein ewiges Priesterthum /",
-        "similarity": 0.48,
-        "semantic": 0.8541,
-        "reading": "reworded"
+        "similarity": 0.48
       },
       {
         "op": "match",
         "a": "Christus ist der Priester\nvñ daß opfer/ein mal hat er sich selbs sterblich vffgeopf=\nfert/aber tåglich wirt er geopfert in den heimlikeyten zů\neiner gedechtnus sines sterbens/",
         "b": "und\nein ewiges Opffer deß Neuen Testaments / Christus\nist der Priester und das Opffer / einmal hat er sich selbs\nsterblich vfgeopffert/aber taͤglich wird er geopffert in den\nHeimlichkeiten zuͤ einer Gedechtnus synes Sterbens/",
-        "similarity": 0.5312,
-        "semantic": 0.838,
-        "reading": "same"
+        "similarity": 0.5625
       },
       {
         "op": "match",
         "a": "vnnd wie sin sterben ein\newige erlösung ist/ also ist es ein ewigs opffer/ nitt mer\nam Crütz/ aber nach der ordnung Melchisedech/",
         "b": "und wie syn Sterben ein ewige Erloͤsung ist / also ist es\nein ewiges Opffer / nit mehr am Creutz / aber nach der\nordnung Melchisedech /",
-        "similarity": 0.6809,
-        "semantic": 0.8437,
-        "reading": "same"
+        "similarity": 0.6809
       },
       {
         "op": "match",
         "a": "vnder\nder gestalt des brots vnd wyns. In sum̄a/ wie das lamb\nin dem durchgang der Juden/ åben ein mal im Jar vff=\ngeopfert.",
         "b": "under der Gestalt deß Brodts\nund Wyns. In Summa/wie das Lam in dem Durch-\ngang der Juden / eben einmal im Jahr vfgeopffert\nExodi am 29.",
-        "similarity": 0.5098,
-        "semantic": 0.6624,
-        "reading": "same"
+        "similarity": 0.5098
       },
       {
         "op": "match",
         "a": "Exodi. am xxix. Hat bedütet das vffopffern\nChristi am crütz einest beschehe/ also hand ouch die låmli\nso altag vffgeopfert sind worden.",
         "b": "hat beduͤtet das vfopffern Christi am\nCruͤtz einest beschehen / also hand auch die Laͤmmly/ so\nall Tag vfgeopffert sind worden Exod.",
-        "similarity": 0.4783,
-        "semantic": 0.7502,
-        "reading": "reworded"
+        "similarity": 0.4783
       },
       {
         "op": "match",
         "a": "Exodi am xij. Nume\nri am xxviij. ouch bedütet das tåglich opfern/ so in der\nMåß beschicht: dann ein yegkliche figur des gesatzes/",
         "b": "am 12. Num. am 28. auch beduͤtet das taͤglich opffern/ so in der Maͤß\nbeschicht: dann ein jegliche Figur deß Gesatzes etwas\nim Neuen Testament beduͤtet hat /",
-        "similarity": 0.4074,
-        "semantic": 0.5393,
-        "reading": "different"
+        "similarity": 0.4074
       },
       {
         "op": "match",
         "a": "et=\nwas im nüwen Testamēt bedüt hat/ so Paulus spricht/ zun Hebreern am x. Das gesatz hatt den schatten vonn\nden zůkünftigen dingen/",
         "b": "so Paulus spricht\nzun Hebreern am 10. Das Gesatz hat den Schatten\nvon den zukuͤnfftigen Dingen/ ꝛc. Butzer. DAß der Schuͤlmeister die Hebreer gezigen hat /",
-        "similarity": 0.48,
-        "semantic": 0.8014,
-        "reading": "reworded"
+        "similarity": 0.48
       },
       {
         "op": "only_a",
@@ -125,10 +111,7 @@
         "op": "only_a",
         "a": "sin Måß opfern nit ouch verwerf=\nfen/ so welle er mercken vff disen Silogismum/ Christus\nhatt mit eynem opfer/ die geheyligeten/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6402,
-        "semantic_match": "sy\nseyen im Glauben noch uͤbel berichtet gewesen/thuͦt\ner\n\n## Marginalien\n[Z. 8–11]: ſuch hie\nvor am\n200. und\n201. blat.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -142,15 +125,10 @@
         "b": "sy\nseyen im Glauben noch uͤbel berichtet gewesen/thuͦt\ner\n\n## Marginalien\n[Z. 8–11]: ſuch hie\nvor am\n200. und\n201. blat.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7412,
-    "reworded": 3,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.3908,
+    "similarity": 0.4014,
     "words": {
       "a": 276,
       "b": 292
@@ -193,13 +171,13 @@
       },
       {
         "op": "replace",
-        "a": "ewigs Priesterthůmb vñ",
-        "b": "ewiges Priesterthum und"
+        "a": "ewigs Priesterthůmb",
+        "b": "ewiges Priesterthum"
       },
       {
         "op": "equal",
-        "a": "ein",
-        "b": "ein"
+        "a": "vñ ein",
+        "b": "und ein"
       },
       {
         "op": "replace",
@@ -218,13 +196,13 @@
       },
       {
         "op": "equal",
-        "a": "Testaments Christus ist der Priester",
-        "b": "Testaments Christus ist der Priester"
+        "a": "Testaments Christus ist der Priester vñ",
+        "b": "Testaments Christus ist der Priester und"
       },
       {
         "op": "replace",
-        "a": "vñ daß opfer ein mal",
-        "b": "und das Opffer einmal"
+        "a": "daß opfer ein mal",
+        "b": "das Opffer einmal"
       },
       {
         "op": "equal",
@@ -563,8 +541,18 @@
       },
       {
         "op": "replace",
-        "a": "nüwen Testamēt bedüt",
-        "b": "Neuen Testament bedu tet"
+        "a": "nüwen",
+        "b": "Neuen"
+      },
+      {
+        "op": "equal",
+        "a": "Testamēt",
+        "b": "Testament"
+      },
+      {
+        "op": "replace",
+        "a": "bedüt",
+        "b": "bedu tet"
       },
       {
         "op": "equal",
@@ -687,7 +675,7 @@
         "b": "200 und 201 blat"
       }
     ],
-    "ops": 53,
+    "ops": 54,
     "truncated": false
   }
 }

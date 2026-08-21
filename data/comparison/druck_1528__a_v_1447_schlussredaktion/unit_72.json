@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 5,
     "only_b": 6,
-    "similarity": 0.5226,
+    "similarity": 0.5313,
     "pairs": [
       {
         "op": "only_b",
@@ -63,7 +63,7 @@
         "op": "match",
         "a": "aber diewyl ein yeder Chriſt/der ye ein Chriſt ſye/ouch\ndiſen geyſt habe/namlich den geyſt des Herren/ſo moͤg\nouch ein yegklicher Chriſt die gſchrifft vrteyle͂/vñ darſuͤr\ndie gſchrifft verſtan/durch den geiſt des herren/vnd ſoͤl=\nle niemands glouben/von wegen eines anderen/anzeigt:",
         "b": "So moͤg ouch ein Jegklicher\nChrist die gschrifft vrtheilen / vnd darzuͦ\ndie gschrifft verstan / durch den geist des\nvnnd soͤlle niemands glouben\nHerren /",
-        "similarity": 0.4737
+        "similarity": 0.5
       },
       {
         "op": "only_a",
@@ -116,7 +116,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4569,
+    "similarity": 0.4609,
     "words": {
       "a": 305,
       "b": 194
@@ -374,8 +374,18 @@
       },
       {
         "op": "replace",
-        "a": "vrteyle vñ darſu r",
-        "b": "vrtheilen vnd darzu"
+        "a": "vrteyle",
+        "b": "vrtheilen"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "darſu r",
+        "b": "darzu"
       },
       {
         "op": "equal",
@@ -518,7 +528,7 @@
         "b": ""
       }
     ],
-    "ops": 40,
+    "ops": 41,
     "truncated": false
   }
 }

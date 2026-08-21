@@ -8,7 +8,7 @@
       287
     ]
   },
-  "alignment_score": 0.128,
+  "alignment_score": 0.1349,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 11,
-    "matched": 1,
-    "only_a": 7,
-    "only_b": 3,
-    "similarity": 0.4755,
+    "units": 10,
+    "matched": 2,
+    "only_a": 6,
+    "only_b": 2,
+    "similarity": 0.3916,
     "pairs": [
       {
         "op": "only_a",
@@ -72,21 +72,15 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "Jtem was vß gesägt der ge=\nschrifft/notwendig beschlossen wirt/als patrem esse ingenitum\nden vatter vngebozen sin: den sun dem vatter glych/vñ\nderglychen/Das erkennen wir in götlicher gschrifft ge=\ngründt.",
-        "b": null,
-        "similarity": 0.0
+        "b": "dem gebott gottes, Lieb gott van gangen\nhertzen, vnd din nachsten als dich Silbs, Item was\nvss. gesegt der Othrift notwandig beschlossen\nwirdt, als pittem esse Jngenitum, den vatter\nvngeboren sin, Een Ann dan vatter glich, vnd\nder glicken, Das erkennen wir In gottlicher Obrist\ngegründt, Die Bijstlich kilch ver het vns vf\ngetrocken, das nitt allein vsz.",
+        "similarity": 0.3077
       },
       {
         "op": "only_a",
         "a": "Die Bäpstlich Kilch aber hat vns vffgezochen\ndas nit allein vß dem wort gottes in der schrifft verfas=\nset/ *Marginalia (left margin):*\nBienor am 74. blatt.",
         "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "dem gebott gottes, Lieb gott van gangen\nhertzen, vnd din nachsten als dich Silbs, Item was\nvss. gesegt der Othrift notwandig beschlossen\nwirdt, als pittem esse Jngenitum, den vatter\nvngeboren sin, Een Ann dan vatter glich, vnd\nder glicken, Das erkennen wir In gottlicher Obrist\ngegründt, Die Bijstlich kilch ver het vns vf\ngetrocken, das nitt allein vsz.",
         "similarity": 0.0
       },
       {
@@ -98,7 +92,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3407,
+    "similarity": 0.3481,
     "words": {
       "a": 312,
       "b": 228
@@ -381,18 +375,8 @@
       },
       {
         "op": "equal",
-        "a": "hertzen",
-        "b": "hertzen"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "din nächsten als dich",
-        "b": "din nachsten als dich"
+        "a": "hertzen vñ din nächsten als dich",
+        "b": "hertzen vnd din nachsten als dich"
       },
       {
         "op": "replace",
@@ -476,8 +460,18 @@
       },
       {
         "op": "replace",
-        "a": "glych vñ derglychen",
-        "b": "glich vnd der glicken"
+        "a": "glych",
+        "b": "glich"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "derglychen",
+        "b": "der glicken"
       },
       {
         "op": "equal",

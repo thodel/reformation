@@ -8,7 +8,7 @@
       316
     ]
   },
-  "alignment_score": 0.2353,
+  "alignment_score": 0.2448,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 3,
     "only_b": 1,
-    "similarity": 0.4056,
+    "similarity": 0.4179,
     "pairs": [
       {
         "op": "only_a",
@@ -54,16 +54,16 @@
         "similarity": 0.3871
       },
       {
-        "op": "only_b",
-        "a": null,
-        "b": "x\nDer vch hort, der hort mich, vnd der vch vorsthmacht,\nder versthmacht mich, Item Mathei am xxiii. vff\ndem Aul Wijsi, Ome gesessen die Chariseer vnd die\nOthreiber, die binden zesamen Schwart.",
-        "similarity": 0.0
-      },
-      {
         "op": "match",
         "a": "x. Der üch hört/der hört mich: vñ der\nüch verschmächt/der verschmächt mich. Jtem Matthei\nam xxiij. Vff dem stůl Moysi/sind gesässen die Phari=\nseer vñ die schryber/die bindend zesamen schwår vñ vn=\ntråglich burdin/legend die vff die schultern der mensche\naber mit jrem minsten finger/bewegen sy die nit/das sy\nsagen/das halten vnd thůnd/aber nach jren wercken söl\nlen jr nit thůn.",
+        "b": "x\nDer vch hort, der hort mich, vnd der vch vorsthmacht,\nder versthmacht mich, Item Mathei am xxiii. vff\ndem Aul Wijsi, Ome gesessen die Chariseer vnd die\nOthreiber, die binden zesamen Schwart.",
+        "similarity": 0.3883
+      },
+      {
+        "op": "only_b",
+        "a": null,
         "b": "und vntreglich\nburdin, legen die, vff die Schultern der monsthen,\nOber mitt Irem minsten finger, bewegen si die\nnitt, Cas si Sagen, das halten vnd tunder, Aber nach\nren wercken sollen Ir nitt tun, Da merck ein Jet:",
-        "similarity": 0.3519
+        "similarity": 0.0
       },
       {
         "op": "match",
@@ -81,12 +81,12 @@
         "op": "match",
         "a": "Haltends vnd tůnds. Da ist/als mich bedun\ncket/klarer heyterer text/das die satzungen vñ ordnun=\ngen der Christlichen kilche/billich in demütigkeit sol\nlend angenomen werden/vnnd nach vermögen gehalten\nwerden/",
         "b": "ren, Ounders Er Op rach, haltende und tunde, de\nIst, als mich bedunckt, klarer heitteer text, das die\nPagnijgen und Ordnungen der christlichen kirchen\nbillich In demutikeit, Oollen angenomen werden,\nvnd noch vermogen gehalten werden, verhoff ouch,\ndas die bijwonung Christi, In der heiligen christen: 890",
-        "similarity": 0.4304
+        "similarity": 0.4557
       }
     ]
   },
   "fine": {
-    "similarity": 0.4805,
+    "similarity": 0.4975,
     "words": {
       "a": 310,
       "b": 281
@@ -124,13 +124,13 @@
       },
       {
         "op": "replace",
-        "a": "sye vñ",
-        "b": "bije vnd"
+        "a": "sye",
+        "b": "bije"
       },
       {
         "op": "equal",
-        "a": "darumb zů ordnung der",
-        "b": "darumb zu Ordnung der"
+        "a": "vñ darumb zů ordnung der",
+        "b": "vnd darumb zu Ordnung der"
       },
       {
         "op": "replace",
@@ -299,18 +299,8 @@
       },
       {
         "op": "equal",
-        "a": "x Der üch hört der hört mich",
-        "b": "x Der vch hort der hort mich"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "der üch",
-        "b": "der vch"
+        "a": "x Der üch hört der hört mich vñ der üch",
+        "b": "x Der vch hort der hort mich vnd der vch"
       },
       {
         "op": "replace",
@@ -364,13 +354,13 @@
       },
       {
         "op": "replace",
-        "a": "Phari seer vñ",
-        "b": "Chariseer vnd"
+        "a": "Phari seer",
+        "b": "Chariseer"
       },
       {
         "op": "equal",
-        "a": "die",
-        "b": "die"
+        "a": "vñ die",
+        "b": "vnd die"
       },
       {
         "op": "replace",
@@ -394,8 +384,18 @@
       },
       {
         "op": "replace",
-        "a": "schwår vñ vn tråglich",
-        "b": "Schwart und vntreglich"
+        "a": "schwår",
+        "b": "Schwart"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "und"
+      },
+      {
+        "op": "replace",
+        "a": "vn tråglich",
+        "b": "vntreglich"
       },
       {
         "op": "equal",
@@ -694,8 +694,18 @@
       },
       {
         "op": "replace",
-        "a": "satzungen vñ ordnun gen",
-        "b": "Pagnijgen und Ordnungen"
+        "a": "satzungen",
+        "b": "Pagnijgen"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "und"
+      },
+      {
+        "op": "replace",
+        "a": "ordnun gen",
+        "b": "Ordnungen"
       },
       {
         "op": "equal",
@@ -738,7 +748,7 @@
         "b": "verhoff ouch das die bijwonung Christi In der heiligen christen 890"
       }
     ],
-    "ops": 65,
+    "ops": 66,
     "truncated": false
   }
 }

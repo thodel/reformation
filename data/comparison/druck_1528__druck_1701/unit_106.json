@@ -33,26 +33,19 @@
         "op": "match",
         "a": "Schlußred. XLVII\n\nvnnd der ganzen hård. Das ist der Christenlichen ver=\nsamlung/in welcher üch der heylig geyst hatt gesetzt Bi=\nschoff zů regieren die Kilchen Gotts/welche er hat über=\nkomen/mit synem rosenfarben blůt.",
         "b": "98        Die Erſte Schlußred. in welcher euch der heilig Geiſt hat geſetzt Biſchoff/ zü re=\ngieren die Kilchen Gottes / welche er hat überkommen\nmit ſynem roſenfarben Blüt.",
-        "similarity": 0.4762,
-        "semantic": 0.5739,
-        "reading": "different"
+        "similarity": 0.4762
       },
       {
         "op": "match",
         "a": "Es hatt ouch Pau=\nlus gesetzt zun Epheseren am iiij. Capi. Das Christus\nhab gesetzt etlich zwölffbotten/etlich propheten/etlich\nEuangelisten/etlich hirten/vnd ouch leerer zů erbuwung\nsins göttlichen diensts vnd des lybs Christi/zc.",
         "b": "Es hat auch Paulus ge=\nſagt zun Eph. am 4. Cap. daß Chriſtus hab geſetzt et=\nlich Zwölffbotten/etlich Propheten/",
-        "similarity": 0.3214,
-        "semantic": 0.715,
-        "reading": "reworded"
+        "similarity": 0.3214
       },
       {
         "op": "only_a",
         "a": "In welch\nen worten da klårlich anzeygt wirtt allen Christengloͤu=\nbigen menschen/wår da regieren solle die Kilchen Got=\ntes.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6054,
-        "semantic_match": "zü Erbauung deß Lybs Chriſti / in das Ampt der\nDienſtbarkeit / wie Paulus zun Epheſern am 4. Capitel\nſelbs",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -70,25 +63,19 @@
         "op": "match",
         "a": "Er hatt nit gesagt/das yetlicher allein solle regie=\nren/nach sinem geualt/vnd das kurtz/vnd damit ich\nlåb dem beuelch so durch vnser gnedig herren von Bern\nbeide parthyen gebe ist/sy sich ouch sollichs darnach sol=\nlen flysen/wytschweyffend reden/so zů der sach nitt die=\nnen zů vnderlassen.",
         "b": "und das kurtz ; und damit ich leb dem Be=\nfelch / ſo durch unſere Gnädige Herren von Bern bey=\nden Partheyen geben iſt /",
-        "similarity": 0.3514,
-        "semantic": 0.7727,
-        "reading": "reworded"
+        "similarity": 0.3514
       },
       {
         "op": "match",
         "a": "Berchtoldus.✜\n\n[A]n dem gewalt/soll man schrifftlich verston ein\nbeuelch/vnd machet nit mer ein houpt dann die\ndienstbarkeyt des worts.",
         "b": "ſy ſich auch ſöliches darnach\nſöllen flyſſen / wyetſchweiffende Reden / ſo zü der Sach\nnit dienen/zü underlaſſen. Berchtoldus. VOn dem Gewalt ſoll man ſchrifftlich verſtohn ein Be=\nfelch/und machet nit mehr ein Haubt/dann die dienſt=\nbarkeit deß Worts.",
-        "similarity": 0.4516,
-        "semantic": 0.7901,
-        "reading": "reworded"
+        "similarity": 0.4516
       },
       {
         "op": "match",
         "a": "Die schrifft/so d pfar=\nrer inzogen hatt vß den geschichten der zwölffbotten/am\nxx cap. Wie der heylig geyst hab Bischoff gesetzt zů re=\ngieren/die gemeind gottes/soll er eygentlich verston/wz\ndie schrifft ein Bischoff nempt/dann das wörtly eygent\nlich heyst ein wechter/der den schåfflin vorstand/vnd sy\nregier als ein hirtt/vnd nit alß ein halßherr/sonder wie\nder hirtt den schåfflin vorgat/sy zeweyden/also hat Chri\nstus verordnet Apostel/Euangelisten/propheten/hir=\nten vñ leerer/zů erbuwung des lybs Christi/in dz ampt\nder dienstbarkeyt wie Paulus zun Epheseren am. iiij. D iij",
         "b": "Die Gſchrifft / ſo der Pfarrer ynzo=\ngen hat vß den Geſchichten der Zwölffbotten am 20. Cap. wie der heilig Geiſt hab Biſchoff geſetzt zü regieren die Ge=\nmein Gottes/ſoll er eigentlich verſtohn/was die Geſchrifft\nein Biſchoff nennet /",
-        "similarity": 0.3143,
-        "semantic": 0.7537,
-        "reading": "reworded"
+        "similarity": 0.3143
       },
       {
         "op": "only_b",
@@ -108,15 +95,10 @@
         "b": "zü Erbauung deß Lybs Chriſti / in das Ampt der\nDienſtbarkeit / wie Paulus zun Epheſern am 4. Capitel\nſelbs",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7018,
-    "reworded": 4,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5524,
+    "similarity": 0.5562,
     "words": {
       "a": 268,
       "b": 257
@@ -684,8 +666,18 @@
       },
       {
         "op": "replace",
-        "a": "hir ten vñ leerer",
-        "b": "Hirten und Leh rer"
+        "a": "hir ten",
+        "b": "Hirten"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "und"
+      },
+      {
+        "op": "replace",
+        "a": "leerer",
+        "b": "Leh rer"
       },
       {
         "op": "equal",
@@ -738,7 +730,7 @@
         "b": "4 Capitel ſelbs"
       }
     ],
-    "ops": 62,
+    "ops": 63,
     "truncated": false
   }
 }

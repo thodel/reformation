@@ -8,7 +8,7 @@
       16
     ]
   },
-  "alignment_score": 0.4539,
+  "alignment_score": 0.4752,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 0,
     "only_b": 2,
-    "similarity": 0.6361,
+    "similarity": 0.657,
     "pairs": [
       {
         "op": "only_b",
@@ -39,41 +39,31 @@
         "op": "match",
         "a": "VI Wie Chriftus ist alleyn für vns gestorben/ also fol er\nein eyniger mitler vnd fürspråch/zwischent Gott dem\nvatter/vn vns glöubigen/angerifft werden.",
         "b": "VI   Wie Chriſtus iſt allein für vns geſtorben/ al=\nſo ſol er ein eyniger mittler vnd fürſpråch/zwü=\nſchend Gott dem vatter/vñ vns glöubigen/an=\ngerüfft werden.",
-        "similarity": 0.6792,
-        "semantic": 0.8043,
-        "reading": "same"
+        "similarity": 0.6415
       },
       {
         "op": "match",
         "a": "Seßhalb\nall ander mittler vnd fürsprachen v■■erthalb disem zyt\nanzeriffen/von vns on grund der gschrifft/offgeworf=\nfen. VII Sas nach disem zyt kein fågfhür in der gschrifft erz\nfunden wirt.",
         "b": "Deßhalb all ander mittler vnd\nfürſpråchen vſſerthalb diſem zyt anzerüffen/vō\nvns on grund der gſchrifft/vſſgeworffen. VII   Das nach diſem zyt kein fägfhüir in der ge=\nſchrifft erfundē wirt.",
-        "similarity": 0.6452,
-        "semantic": 0.8189,
-        "reading": "same"
+        "similarity": 0.6774
       },
       {
         "op": "match",
         "a": "Seßhalb all todten dienst/als Vigill/feel-\nmåß/Seelgråt/Sibend/Trysgoft/Jarzyt/amplen/ kertzen/vnd derglychen/vergeblich sind. VIII Bilder machen zü vereerug/ist wider Gottes wozt/",
         "b": "Deßhalb all todten dienſt/ als Vigill/Seelmåß/Seelgråt/Sibend/Tryß=\ngoſt/Jarzyt/amplen/kertzen /vnd derglychen/ vergeblich ſind. VIII   Bilder machē zů vererung/",
-        "similarity": 0.68,
-        "semantic": 0.7859,
-        "reading": "same"
+        "similarity": 0.72
       },
       {
         "op": "match",
         "a": "Nüws vnd Alts Testaments. Seßhalb wo sy in gefar\nder vererung fürgestellt/abzethünd syend. IX Sie heylig Ee/ist keinem stand verbotten in der ge\nschrifft/sunder hury vnd vnkünschhert zü vermyden al\nlenstanden botten.",
         "b": "iſt wider Gottes\nwort/nüws vnd alts Teſtaments. Deßhalb wo\nſy in gefar der vererung fürgeſtellt/ abzethůnd\nſygend. IX   Die heylig Ee iſt keinem ſtannd verbotten in\nder gſchrifft/ſunder hůry vnnd vnkůnſcheyt zů\nvermyden/allen ſtånden botten.",
-        "similarity": 0.6849,
-        "semantic": 0.9017,
-        "reading": "same"
+        "similarity": 0.6849
       },
       {
         "op": "match",
         "a": "X Diewyl ein offenlicher bürer nach der gschrift/im wa\nren Bann/so volget/das vnküscheit vnd hury der erger=\nnußhalb/keinem stand schadlicher/dan priesterlichem. Alles Gott vnd finem\nbeyligen wort zu eren.",
         "b": "X   Diewyl ein offēlicher hůrer nach der ſchrifft/ im waren bann/ ſo volget/ das vnkůnſcheyt vñ\nhůry der ergernuß halb/keinē ſtand ſchådlicher/",
-        "similarity": 0.4912,
-        "semantic": 0.8203,
-        "reading": "reworded"
+        "similarity": 0.5614
       },
       {
         "op": "only_b",
@@ -81,15 +71,10 @@
         "b": "dann Prieſterlichem/ Alles Gott vnd ſinem\nheyligen wort zů eren.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.8262,
-    "reworded": 1,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.638,
+    "similarity": 0.6564,
     "words": {
       "a": 153,
       "b": 173
@@ -152,8 +137,18 @@
       },
       {
         "op": "equal",
-        "a": "Gott dem vatter vn vns glöubigen",
-        "b": "Gott dem vatter vñ vns glöubigen"
+        "a": "Gott dem vatter",
+        "b": "Gott dem vatter"
+      },
+      {
+        "op": "replace",
+        "a": "vn",
+        "b": "vñ"
+      },
+      {
+        "op": "equal",
+        "a": "vns glöubigen",
+        "b": "vns glöubigen"
       },
       {
         "op": "replace",
@@ -187,13 +182,13 @@
       },
       {
         "op": "replace",
-        "a": "anzeriffen von",
-        "b": "anzerüffen vō"
+        "a": "anzeriffen",
+        "b": "anzerüffen"
       },
       {
         "op": "equal",
-        "a": "vns on grund der gschrifft",
-        "b": "vns on grund der gſchrifft"
+        "a": "von vns on grund der gschrifft",
+        "b": "vō vns on grund der gſchrifft"
       },
       {
         "op": "replace",
@@ -262,18 +257,8 @@
       },
       {
         "op": "equal",
-        "a": "Jarzyt amplen kertzen vnd derglychen vergeblich sind VIII Bilder",
-        "b": "Jarzyt amplen kertzen vnd derglychen vergeblich ſind VIII Bilder"
-      },
-      {
-        "op": "replace",
-        "a": "machen",
-        "b": "machē"
-      },
-      {
-        "op": "equal",
-        "a": "zü",
-        "b": "zů"
+        "a": "Jarzyt amplen kertzen vnd derglychen vergeblich sind VIII Bilder machen zü",
+        "b": "Jarzyt amplen kertzen vnd derglychen vergeblich ſind VIII Bilder machē zů"
       },
       {
         "op": "replace",
@@ -362,13 +347,13 @@
       },
       {
         "op": "equal",
-        "a": "botten X Diewyl ein",
-        "b": "botten X Diewyl ein"
+        "a": "botten X Diewyl ein offenlicher",
+        "b": "botten X Diewyl ein offēlicher"
       },
       {
         "op": "replace",
-        "a": "offenlicher bürer",
-        "b": "offēlicher hůrer"
+        "a": "bürer",
+        "b": "hůrer"
       },
       {
         "op": "equal",
@@ -397,13 +382,13 @@
       },
       {
         "op": "replace",
-        "a": "vnküscheit vnd",
-        "b": "vnkůnſcheyt vñ"
+        "a": "vnküscheit",
+        "b": "vnkůnſcheyt"
       },
       {
         "op": "equal",
-        "a": "hury der",
-        "b": "hůry der"
+        "a": "vnd hury der",
+        "b": "vñ hůry der"
       },
       {
         "op": "replace",

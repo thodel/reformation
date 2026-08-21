@@ -8,7 +8,7 @@
       94
     ]
   },
-  "alignment_score": 0.4719,
+  "alignment_score": 0.4886,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -33,10 +33,7 @@
         "op": "only_a",
         "a": "vnd gib antwurt erstlich des spruchs halbē/ der geystlich\nricht alles/zc. Diewyl wir wüssen das vnser widerpart/ das vrteilen dahin zühen wil/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7569,
-        "semantic_match": "Diewyl wir\nwüſſen das vnſer widerparth/das vrteylen da\nhin ziehen wil/das ein gemein Concilium macht\nhab/etwas nåbend der ſchrifft anzenem̃en:",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -54,26 +51,19 @@
         "op": "match",
         "a": "das ein gmein Concilium\nmacht hab/ etwas nebend der geschrifft anzenemen/ hab\nouch erstlich der schrifft / Das ansehen geben / so ist Billich\ngeantwurt worden/",
         "b": "hab\nouch erſtlich der gſchrifft das anſechen geben/ſo\niſt billich geantwurt worden/dz der geyſtlich die\ngſchrifft nit zerichten hab:",
-        "similarity": 0.4889,
-        "semantic": 0.8162,
-        "reading": "reworded"
+        "similarity": 0.4889
       },
       {
         "op": "only_a",
         "a": "das der geystlich die geschrifft nit ze=\nrichten hab/ das ist sins geuallens die geschrifft anzenem\nmen oder zeuerwerffen/ sonder er hats allein müssen an=\nnemen/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7917,
-        "semantic_match": "Dann wie ein yeder gerechter ſines eygens\ngloubens gelåben můß/alſo můß er ouch die ge=\nſchrifft vnd wort Gottes/für ſich ſelbs vrteylẽ\nvnd erkennen/er wåre ſunſt nit Gott glöubig/ deß",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "dann er åben durch den geyst sin erkantnus hatt/ durch welchen die Bibel vns geben ist / so aber min herr\nDoctor das vrteylen verston will / wie es ouch Paulus",
         "b": "das iſt ſins gefallens\ndie gſchrifft anzenem̃en oder zů verwerffen/ſon\nder er hats allein müſſen annemen: dann er åben\ndurch den geiſt ſin erkantnuß hat/durch welche\ndie Bibel vns geben iſt.",
-        "similarity": 0.381,
-        "semantic": 0.7741,
-        "reading": "reworded"
+        "similarity": 0.381
       },
       {
         "op": "only_b",
@@ -93,15 +83,10 @@
         "b": "Dann wie ein yeder gerechter ſines eygens\ngloubens gelåben můß/alſo můß er ouch die ge=\nſchrifft vnd wort Gottes/für ſich ſelbs vrteylẽ\nvnd erkennen/er wåre ſunſt nit Gott glöubig/ deß",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7847,
-    "reworded": 2,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4174,
+    "similarity": 0.4232,
     "words": {
       "a": 102,
       "b": 243
@@ -124,18 +109,8 @@
       },
       {
         "op": "equal",
-        "a": "gib antwurt erstlich des spruchs",
-        "b": "gib antwurt erſtlich des ſpruchs"
-      },
-      {
-        "op": "replace",
-        "a": "halbē",
-        "b": "halben"
-      },
-      {
-        "op": "equal",
-        "a": "der geystlich richt alles",
-        "b": "Der geyſtlich richt alles"
+        "a": "gib antwurt erstlich des spruchs halbē der geystlich richt alles",
+        "b": "gib antwurt erſtlich des ſpruchs halben Der geyſtlich richt alles"
       },
       {
         "op": "replace",
@@ -363,7 +338,7 @@
         "b": "hie ſagt Der geyſtlich nit die verſam lung der geiſtlichẽ im Concilio habe alles zů rich ten Dann wie ein yeder gerechter ſines eygens gloubens gelåben můß alſo můß er ouch die ge ſchrifft vnd wort Gottes für ſich ſelbs vrteylẽ vnd erkennen er wåre ſunſt nit Gott glöubig deß"
       }
     ],
-    "ops": 26,
+    "ops": 25,
     "truncated": false
   }
 }

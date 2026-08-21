@@ -8,7 +8,7 @@
       232
     ]
   },
-  "alignment_score": 0.1481,
+  "alignment_score": 0.1798,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 7,
     "only_b": 1,
-    "similarity": 0.4414,
+    "similarity": 0.48,
     "pairs": [
       {
         "op": "only_b",
@@ -39,13 +39,13 @@
         "op": "match",
         "a": "Die erſt\nSenger. Als min herr Predicant ſpricht/ jch habe gejrret\nſo ich Chriſtū hab genēpt/ ein yngelyber houpt\nder Kilchen/",
         "b": "dan\ndie/ vnser schlußred vffrecht lat stan// zenger\nllß min her predicant spricht/ ich hab geret/ so ich Christum/ hab genempt/",
-        "similarity": 0.381
+        "similarity": 0.4286
       },
       {
         "op": "match",
         "a": "dañ Chriſtus ſye gſin vor der Kil\nchē/ red ich darzů/ dz nach der gotheyt iſt Chriſtus ewig=\nklich gſin/",
         "b": "ein Ingelibet houpt\nder kirchen/ Dann Christus sig gsin vor der/ kilchen/ red ich darzuͦ/ Das nach der gotheit\nist Christus ewengklich gsi aber nach der\nmoͤnscheit hatt er vns erloͤst mit sinem pittern\nliden vnd sterben/",
-        "similarity": 0.3729
+        "similarity": 0.4068
       },
       {
         "op": "only_a",
@@ -63,25 +63,25 @@
         "op": "match",
         "a": "Wyter/ ſo vſtan ich von minem hern predican=\nten/ dz ſye ein recht houpt genempt in der Kilchē/ dz vns\nſälig mōg machē/",
         "b": "Wyter so verstan ich von minem hern\npredignten/ Das sy ein recht houpt genempt in\nder kilchen/ das vns saͤlig mog machen/",
-        "similarity": 0.6087
+        "similarity": 0.6522
       },
       {
         "op": "match",
         "a": "vñ vnſer heilland ſye/ dz mōg ſein pre\nlat ſin noch kein Biſchoff. zc. Wen herr Berchtold das bi=\nbringt mit heyter gſchrifft/",
         "b": "vnd vnser\nheilland sy Das moͤg kein prelat sin/ noch kein\nWan her Berchtold das\nbischoff\nbibringt mit heitter gschrifft/",
-        "similarity": 0.4091
+        "similarity": 0.4545
       },
       {
         "op": "match",
         "a": "dz ſunſt nit mōge ein houpt\ngenampt werdē der Kilchen/ můß ich erwartē. Aber der\nheilig Paulus/ zun Epheſ. v.",
         "b": "das sunst nit mog\nein houpt genampt werden/ der kilchen muͦß ich/ Aber der heillig paulus zum\nerwarten/ e.",
-        "similarity": 0.55
+        "similarity": 0.6
       },
       {
         "op": "match",
         "a": "ca. gibt mir ein andern ver\nſtand des houpts/ alſo ſprechēd: Die wyber ſöllen ſin vn\nderthänig jren mannen/ als ein hern/",
         "b": "Erhesern am v ͦ cap: gipt nur ein andern verstand// des houpts/ also sprechend/ die wyber sollen sin vnder//",
-        "similarity": 0.45
+        "similarity": 0.5
       },
       {
         "op": "only_a",
@@ -122,7 +122,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3505,
+    "similarity": 0.3753,
     "words": {
       "a": 296,
       "b": 189
@@ -160,18 +160,8 @@
       },
       {
         "op": "equal",
-        "a": "ſo ich",
-        "b": "so ich"
-      },
-      {
-        "op": "replace",
-        "a": "Chriſtū",
-        "b": "Christum"
-      },
-      {
-        "op": "equal",
-        "a": "hab",
-        "b": "hab"
+        "a": "ſo ich Chriſtū hab",
+        "b": "so ich Christum hab"
       },
       {
         "op": "replace",
@@ -195,13 +185,13 @@
       },
       {
         "op": "replace",
-        "a": "Kilchen dañ",
-        "b": "kirchen Dann"
+        "a": "Kilchen",
+        "b": "kirchen"
       },
       {
         "op": "equal",
-        "a": "Chriſtus",
-        "b": "Christus"
+        "a": "dañ Chriſtus",
+        "b": "Dann Christus"
       },
       {
         "op": "replace",
@@ -400,13 +390,13 @@
       },
       {
         "op": "equal",
-        "a": "ein recht houpt genempt in der",
-        "b": "ein recht houpt genempt in der"
+        "a": "ein recht houpt genempt in der Kilchē",
+        "b": "ein recht houpt genempt in der kilchen"
       },
       {
         "op": "replace",
-        "a": "Kilchē dz",
-        "b": "kilchen das"
+        "a": "dz",
+        "b": "das"
       },
       {
         "op": "equal",
@@ -415,23 +405,13 @@
       },
       {
         "op": "replace",
-        "a": "ſälig",
-        "b": "sa lig"
+        "a": "ſälig mōg",
+        "b": "sa lig mog"
       },
       {
         "op": "equal",
-        "a": "mōg",
-        "b": "mog"
-      },
-      {
-        "op": "replace",
-        "a": "machē vñ",
-        "b": "machen vnd"
-      },
-      {
-        "op": "equal",
-        "a": "vnſer heilland",
-        "b": "vnser heilland"
+        "a": "machē vñ vnſer heilland",
+        "b": "machen vnd vnser heilland"
       },
       {
         "op": "replace",
@@ -490,18 +470,8 @@
       },
       {
         "op": "equal",
-        "a": "ein houpt genampt",
-        "b": "ein houpt genampt"
-      },
-      {
-        "op": "replace",
-        "a": "werdē",
-        "b": "werden"
-      },
-      {
-        "op": "equal",
-        "a": "der Kilchen",
-        "b": "der kilchen"
+        "a": "ein houpt genampt werdē der Kilchen",
+        "b": "ein houpt genampt werden der kilchen"
       },
       {
         "op": "replace",
@@ -560,18 +530,8 @@
       },
       {
         "op": "equal",
-        "a": "des houpts alſo",
-        "b": "des houpts also"
-      },
-      {
-        "op": "replace",
-        "a": "ſprechēd",
-        "b": "sprechend"
-      },
-      {
-        "op": "equal",
-        "a": "Die wyber ſöllen ſin",
-        "b": "die wyber sollen sin"
+        "a": "des houpts alſo ſprechēd Die wyber ſöllen ſin",
+        "b": "des houpts also sprechend die wyber sollen sin"
       },
       {
         "op": "replace",
@@ -579,7 +539,7 @@
         "b": "vnder"
       }
     ],
-    "ops": 45,
+    "ops": 41,
     "truncated": false
   }
 }

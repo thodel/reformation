@@ -8,7 +8,7 @@
       168
     ]
   },
-  "alignment_score": 0.2392,
+  "alignment_score": 0.2402,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 2,
     "only_b": 1,
-    "similarity": 0.521,
+    "similarity": 0.5168,
     "pairs": [
       {
         "op": "only_a",
@@ -63,7 +63,7 @@
         "op": "match",
         "a": "Capi. Da nebē wir aber wie hüt geſagt/mag\nein Kilch etliche ort ð geſchrifft anderſt verſton/wañ die\nandere/wie dañ geſchicht von diſem ſpruch/das iſt minn\nlyb/nit allein zwüſchend der Kilchē/zů Wittenberg/vñ\ndera von Zůrich/ſondert ouch vil andern mer/wo aber\ndz vertruwē vff den eynigen heyland Jeſum geſetzt wirt\nda hat man dz ewig läbē/Joan.",
         "b": "sagt, mag ein kilch ettliche ort der gschrifft\nannderst verstan, wan die andre, wie dan ge¬\nschucht van disem spruch, das ist min\nlijb, nit allein zwusthen der Kirchen, zu witten¬\nberg, vnd deca zu zurich, sonders ouch vill andern\nƒ\nmen\nwo aber Das vertouwen vff den\nEinigen heiland Jesum gesetzt wurde, Da hat man",
-        "similarity": 0.4667
+        "similarity": 0.45
       },
       {
         "op": "only_a",
@@ -347,18 +347,8 @@
       },
       {
         "op": "equal",
-        "a": "Da",
-        "b": "Da"
-      },
-      {
-        "op": "replace",
-        "a": "nebē",
-        "b": "neben"
-      },
-      {
-        "op": "equal",
-        "a": "wir aber",
-        "b": "wir aber"
+        "a": "Da nebē wir aber",
+        "b": "Da neben wir aber"
       },
       {
         "op": "delete",
@@ -392,13 +382,13 @@
       },
       {
         "op": "replace",
-        "a": "ð geſchrifft anderſt verſton",
-        "b": "der gschrifft annderst verstan"
+        "a": "ð geſchrifft anderſt verſton wañ",
+        "b": "der gschrifft annderst verstan wan"
       },
       {
         "op": "equal",
-        "a": "wañ die",
-        "b": "wan die"
+        "a": "die",
+        "b": "die"
       },
       {
         "op": "replace",
@@ -407,13 +397,13 @@
       },
       {
         "op": "equal",
-        "a": "wie dañ",
-        "b": "wie dan"
+        "a": "wie",
+        "b": "wie"
       },
       {
         "op": "replace",
-        "a": "geſchicht von",
-        "b": "ge schucht van"
+        "a": "dañ geſchicht von",
+        "b": "dan ge schucht van"
       },
       {
         "op": "equal",
@@ -452,8 +442,18 @@
       },
       {
         "op": "replace",
-        "a": "Wittenberg vñ dera von",
-        "b": "witten berg vnd deca zu"
+        "a": "Wittenberg",
+        "b": "witten berg"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "dera von",
+        "b": "deca zu"
       },
       {
         "op": "equal",

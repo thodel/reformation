@@ -8,7 +8,7 @@
       443
     ]
   },
-  "alignment_score": 0.3663,
+  "alignment_score": 0.3626,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 4,
     "only_b": 4,
-    "similarity": 0.5758,
+    "similarity": 0.5844,
     "pairs": [
       {
         "op": "only_a",
@@ -39,28 +39,19 @@
         "op": "only_a",
         "a": "ſo mag diß oꝛt\nvon der Mäß nit verſtanden werdẽ es lege/ es vonn der\nMäß vß/glich wer da welle.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6396,
-        "semantic_match": "Gilg Murer. DAs vns geantwurt iſt wordeͤ/das rein Opffer/ſyen\ndie Gloͤubigen/mit jren Baͤtte vnnd derglychen:",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Gilg Murer. Wir haben es bewärt/mit vnſer Diſtinction. Butzer. DIe ſelbig Diſtinction iſt ane geſchrifft:des anderen\nteyls halb /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6135,
-        "semantic_match": "Schlußred. 409\nGilg Murer. WJr fragen hie/zuͦ mehrer erkantnuß/was das rein\nOpffer ſye/von dem Malachias ſchribt. Butzer.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "nãmlich des vermeinten Mäßopffers\nhalb/das ſy geyſtlich nemen/vnd doch liplich iſt. Gilg Murer. WIr fragen hie / zů merer erkantnus /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7563,
-        "semantic_match": "Gilg Murer. DAs vns geantwurt iſt wordeͤ/das rein Opffer/ſyen\ndie Gloͤubigen/mit jren Baͤtte vnnd derglychen:",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -72,17 +63,13 @@
         "op": "match",
         "a": "was das reyn\nopffer ſye/von dem Malachias ſchribt. Butzer. ANtwurt. Es ſind die rechtglöubigen hertzen/ir\ngebätt/vñ gantz begäbung/in den willen gottes\ndie werden dem herrn zůbereyt/durch die predi\nger des Euangelij/dauon Paulus zuñ Römern am xv.",
         "b": "ANtwurt. Es ſind die Rechtgloͤubigen Hertzen/ir\nGebaͤtt/vnd gantz begebung in den willen Gottes/ die werden dem Herren zuͦbereit/durch die Prediger\ndeß Euangelij/dauon Paulus zun Roͤmern am 15.",
-        "similarity": 0.5455,
-        "semantic": 0.7327,
-        "reading": "same"
+        "similarity": 0.5714
       },
       {
         "op": "match",
         "a": "Ich bin ein diener Chriſti zů den Heyden/reich jnen dar\ndas Euangelium gottes/das dz opffer der Heyden an\ngenäm ſye/geheyliget durch den heyligen geyſt.",
         "b": "Jch\nbin ein Diener Chriſti zuͦ den Heiden/reich jnen dar das\nEuangelium Gottes/das das Opffer der Heiden ange=\nnem ſye/geheiliget durch den Heiligen Geiſt.",
-        "similarity": 0.6667,
-        "semantic": 0.6697,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "only_b",
@@ -94,9 +81,7 @@
         "op": "match",
         "a": "Gilg murer. ALs vns̄ geantwurt iſt worden/das rein opffer/ſyen\ndie glöubigen/mit jren bätte vnd der glichen:mag\nhie nit verſtanden werden/dann alle vnſer gerech\ntigkeyt / iſt vnſuber vor Gott / als ſy ſelbs anred ſynd/",
         "b": "mag hie nit verſtanden werden/dann alle vnſer\nGerechtigkeit iſt vnſuber vor Gott/als ſy ſelbs anred ſynd\nvnd ouch Eſaias daſſelb bezuͤget/darumb ſo iſt nottwendig/",
-        "similarity": 0.5152,
-        "semantic": 0.7511,
-        "reading": "same"
+        "similarity": 0.5152
       },
       {
         "op": "only_b",
@@ -110,15 +95,10 @@
         "b": "Actorum 15. zun Roͤmern 12. Fff\n\n## Marginalien\n[unleserlich] einem r[unleserlich]\n[unleserlich] keinem mag\n\n[i]nnerlichem\n[ist] geredt/von\n[m]arthin jo\n[d]as Opffer\ndiſer Pro=\n[phete]r/wie vo[r]\n[unleserlich]\n\nOpffer ſyn\nſo mag diſ\n[unleserlich]es leger[unleserlich]\n\nnction,\n\ndeß andern\nMalachiopffers\n[ou]ch lyplich[es]\n[unleserlich]",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6938,
-    "reworded": 0,
-    "candidates": 3,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4039,
+    "similarity": 0.4088,
     "words": {
       "a": 189,
       "b": 222
@@ -181,13 +161,13 @@
       },
       {
         "op": "replace",
-        "a": "gebätt vñ",
-        "b": "Geba tt vnd"
+        "a": "gebätt",
+        "b": "Geba tt"
       },
       {
         "op": "equal",
-        "a": "gantz",
-        "b": "gantz"
+        "a": "vñ gantz",
+        "b": "vnd gantz"
       },
       {
         "op": "replace",

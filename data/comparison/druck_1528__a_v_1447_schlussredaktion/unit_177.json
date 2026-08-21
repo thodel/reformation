@@ -8,7 +8,7 @@
       308
     ]
   },
-  "alignment_score": 0.2033,
+  "alignment_score": 0.2163,
   "coarse": {
     "paragraphs": {
       "a": 6,
@@ -27,13 +27,13 @@
     "matched": 3,
     "only_a": 6,
     "only_b": 2,
-    "similarity": 0.4393,
+    "similarity": 0.451,
     "pairs": [
       {
         "op": "match",
         "a": "**Schlußred.**\n\ngeben/das alle die/die glouben vñ getoufft ſind/machen\ndie heiligen Chriſtlichen Kilchen/vnd nit mer iſt wann\nein Kilch/als wir habē Canticoꝛū am vj.",
         "b": "widerxx\nbigen\n127\nDie ander Oblussered\nglauben vnd getouft vind, machen die heiligen chri¬\nstenlichen tilchen, vnd nitt mer Ist wann ein kilch,\nAls wir haben, Canticorum am vj.",
-        "similarity": 0.4912
+        "similarity": 0.5263
       },
       {
         "op": "only_b",
@@ -98,7 +98,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4348,
+    "similarity": 0.4427,
     "words": {
       "a": 288,
       "b": 218
@@ -116,8 +116,18 @@
       },
       {
         "op": "replace",
-        "a": "die glouben vñ getoufft ſind",
-        "b": "ander Oblussered glauben vnd getouft vind"
+        "a": "die glouben",
+        "b": "ander Oblussered glauben"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "getoufft ſind",
+        "b": "getouft vind"
       },
       {
         "op": "equal",
@@ -216,13 +226,13 @@
       },
       {
         "op": "replace",
-        "a": "ſchaffſtal vñ",
-        "b": "Chefstal vnd"
+        "a": "ſchaffſtal",
+        "b": "Chefstal"
       },
       {
         "op": "equal",
-        "a": "ein hirt",
-        "b": "ein hirt"
+        "a": "vñ ein hirt",
+        "b": "vnd ein hirt"
       },
       {
         "op": "replace",
@@ -690,7 +700,7 @@
         "b": ""
       }
     ],
-    "ops": 59,
+    "ops": 60,
     "truncated": false
   }
 }

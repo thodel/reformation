@@ -8,7 +8,7 @@
       89
     ]
   },
-  "alignment_score": 0.2034,
+  "alignment_score": 0.235,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,16 +27,13 @@
     "matched": 3,
     "only_a": 5,
     "only_b": 6,
-    "similarity": 0.5562,
+    "similarity": 0.5701,
     "pairs": [
       {
         "op": "only_a",
         "a": "Die erst\nvolgt daruß wie vormals anzeygt ist worden / das soͤl-\nliche gemeine versamluͤg im geyst des herrn versamlet/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7939,
-        "semantic_match": "das ſölliche gemeyne verſamlung im\ngeyſt des Herrn verſamlet/ ouch hab zerichten/ die geſchrifft vnd zeurteylen : dann ye geſchri-\nben ſtat.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -78,52 +75,37 @@
         "op": "match",
         "a": "ouch hab zerichtē/die gschrifft voñ zeurteylen/dan̄ ye ge=\nschriben stat / der geistlich richter alle ding / hie nimpt die\nschrifft nuͤr vß/dz aber min herr Doctor wyter ynzuͤcht\nvff die wort des herrn do er also sagt /",
         "b": "Der geyſtlich richt alle ding/hie nimpt\nDie'gſchrifft nüt vß. Das aber min herr Doctor\nwyter ynzücht vff die wort des Herren do er\nalſo ſagt.",
-        "similarity": 0.5882,
-        "semantic": 0.6185,
-        "reading": "same"
+        "similarity": 0.5882
       },
       {
         "op": "match",
         "a": "welcher die Kilchē\nnit hoͤrt/sy dir als ein heyd / zc. Wie dz soͤllichs voñ yn=\nnerlichen/geystlichen menschen/verstanden soll werden/",
         "b": "Welcher die Kilchen nitt hoͤrt/der ſye\ndir als ein Heyd/ꝛc. Wie das ſöllichs vonn yn-\nnerlichen/geyſtlichen menſchen/verſtanden ſoll\nwerden/",
-        "similarity": 0.6667,
-        "semantic": 0.7538,
-        "reading": "same"
+        "similarity": 0.7083
       },
       {
         "op": "match",
         "a": "der da alle ding richt zuͤ dem glouben/vnnd zuͤ der lieby/ sag ich das darzuͤ/das vns hie der herr hatt woͤllen an=\nzeygen/ein vsserlichen/sichtbarlichen richter/damit wir\nin spennen vnd zweyspaltigkeyt zuͤ friden vnd zuͤ eynig=\nkeyt vnsers rechten vnbefleckten glouben komen moͤch=\nten/dan̄ der herr ye seit/so er dich nit hoͤrt/so nim ein oder\nzween zuͤ dir /",
         "b": "der da alle ding richt zů dem glouben/ vnd zů der lieby: ſag ich das darzů/ das vns hie",
-        "similarity": 0.4138,
-        "semantic": 0.851,
-        "reading": "reworded"
+        "similarity": 0.4138
       },
       {
         "op": "only_a",
         "a": "so er die selben ouch nitt hoͤren will/so sags\nder Kilchen/muͤß ye ein vsserlich/sichtbarlich Kilchenn\nsin/dann ye schimpfflichē zehoͤren wer/das vns der herr\nein richter gesetzt het/vnsichtbarlich vnd vnerkantlich/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8018,
-        "semantic_match": "das ſölliche gemeyne verſamlung im\ngeyſt des Herrn verſamlet/ ouch hab zerichten/ die geſchrifft vnd zeurteylen : dann ye geſchri-\nben ſtat.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Darumb noch huͤt by tag volgt/das dieselb sichtbarlich\nKilch in einem waren glouben / vñ im namen des herrn\nversamlet/in hendlen des gloubens zuͤ vrteylen/vnd ze=\nsprechen hab.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6809,
-        "semantic_match": "das ſölliche gemeyne verſamlung im\ngeyſt des Herrn verſamlet/ ouch hab zerichten/ die geſchrifft vnd zeurteylen : dann ye geſchri-\nben ſtat.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Doctor Capito+\nJe min herr Doctor fuͤrwedt/dz er disen spruch\nder geistlich richter alle ding bstat vñ annimpt\nwie er vor geduͤtet ist /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6602,
-        "semantic_match": "er richt aber\nalle ding/wie das ſöllichs ſöll verſtanden werdē\nvon einem yetlichen Chriſtē/der da hat den geyſt\ndes Herren empfangen/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -131,15 +113,10 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7372,
-    "reworded": 1,
-    "candidates": 4,
-    "recovered_by_embedding": 4,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.2748,
+    "similarity": 0.2786,
     "words": {
       "a": 304,
       "b": 220
@@ -287,13 +264,13 @@
       },
       {
         "op": "replace",
-        "a": "dz so llichs voñ",
-        "b": "das ſöllichs vonn"
+        "a": "dz so llichs",
+        "b": "das ſöllichs"
       },
       {
         "op": "equal",
-        "a": "yn nerlichen geystlichen menschen verstanden soll werden der da alle ding richt zu dem glouben",
-        "b": "yn nerlichen geyſtlichen menſchen verſtanden ſoll werden der da alle ding richt zů dem glouben"
+        "a": "voñ yn nerlichen geystlichen menschen verstanden soll werden der da alle ding richt zu dem glouben",
+        "b": "vonn yn nerlichen geyſtlichen menſchen verſtanden ſoll werden der da alle ding richt zů dem glouben"
       },
       {
         "op": "replace",

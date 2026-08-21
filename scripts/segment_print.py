@@ -55,7 +55,9 @@ HEAD_GAP = 4
 ORDINALS = {
     "erst": 1, "ander": 2, "dritt": 3, "vierd": 4, "funfft": 5, "funft": 5,
     "sechst": 6, "sibend": 7, "siebend": 7, "acht": 8,
-    "neunt": 9, "neundt": 9, "nunt": 9, "nundt": 9, "nunndt": 9,
+    # The nasal bar is now expanded rather than dropped (#21), so "nuͤn̄te"
+    # arrives as "nunnte" and "nůn̄dte" as "nunndte".
+    "neunt": 9, "neundt": 9, "nunt": 9, "nundt": 9, "nunnt": 9, "nunndt": 9,
     "zehend": 10, "zehnd": 10, "zehent": 10,
 }
 HEAD_RE = re.compile(r"(?im)^\s*(?:\*\*)?\s*(?:Die\s+\w+|Schlu[sſß]+red\.?[^\n]{0,12})\s*(?:\*\*)?\s*$")

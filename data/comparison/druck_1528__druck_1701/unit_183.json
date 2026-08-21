@@ -8,7 +8,7 @@
       192
     ]
   },
-  "alignment_score": 0.3972,
+  "alignment_score": 0.3962,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -39,17 +39,13 @@
         "op": "match",
         "a": "Die ander\ngeyst vß dem sy geregiert wirt/der nit fälen kan/dz aber\ndaruß volge/das die satzungen der Christenlichen kilch=\nen/von Christen menschen nit sollen angenomen werden/",
         "b": "vß dem ſy geregiert wird / der nit fehlen kan/ daß\naber daruß folge / daß die Satzungen der Chriſtenli=\nchen Kilchen von Chriſten-Menſchen nit ſollen ange=\nnommen werden /",
-        "similarity": 0.6207,
-        "semantic": 0.8882,
-        "reading": "same"
+        "similarity": 0.6207
       },
       {
         "op": "match",
         "a": "wo sy nit mit heyttern vñ glichen worten in der gschrifft\ngegründt syen/oder begriffen/dasselb wirt sich nit erfin=\nden/so doch Christus vnser heyland/jro den heyligen\ngeyst geben hatt/das er sy inleyte in alle warheyt/daruß\nwitter volget/das die satzung der heyligen Christenheit\nals wenig sollen menschen gebott/oder menschen thant\ngenant werde/als die wort der Propheten/oder S.",
         "b": "wo ſy nit mit heitern und glychen\nWorten in der Geſchrifft gegrũndt ſeyen oder begriffen/ daſſelb wird ſich nit erfinden/ſo doch Chriſtus unſer Hey=\nland ihro den heiligen Geiſt geben hat /",
-        "similarity": 0.3918,
-        "semantic": 0.8474,
-        "reading": "reworded"
+        "similarity": 0.3918
       },
       {
         "op": "only_b",
@@ -67,17 +63,13 @@
         "op": "match",
         "a": "Euan\ngelisten/oder der zwölffbotten/oder ob man schon mich\nrecht wil vernemmen/die wort/die Gott durch sy geredt\nhatt/so doch sy all/oder yeder in sonderheit nit mer möge\nsyn dann die gantz gemeyn Christenheyt.",
         "b": "die Wort / die Gott durch ſy geredt hat / ſo doch ſy\nall / oder jeder inſonderheit nit mehr moͤgen ſyn dann die\ngantz gemein Chriſtenheit.",
-        "similarity": 0.5397,
-        "semantic": 0.8321,
-        "reading": "same"
+        "similarity": 0.5397
       },
       {
         "op": "match",
         "a": "Martinus Butzer. Damit wir die Kilch nit vffhalten/so sage vnns der\nBichtuatter/was jm doch die Christenlich Kilch\nheysse/wir haben vns langest erklärt/das vns die kilch\nalle rechtglöubigen sind.",
         "b": "Martinus Butzer. DAmit wir die Kilch nit vffhalten / ſo ſage uns der\nBychtvatter / was jhm doch die Chriſtenlich Kilch\nheiſſe /",
-        "similarity": 0.6154,
-        "semantic": 0.8539,
-        "reading": "same"
+        "similarity": 0.6154
       },
       {
         "op": "only_b",
@@ -89,16 +81,9 @@
         "op": "match",
         "a": "Bichtuatter. So herr Marti Butzer mich fragt/das ich sagē/ was ich durch die Kilchē verstande/meynt/mir\nsye gnůgsamklich vor erklärt/dz die widerpar=\nthy/die rechtgeschaffnen Christen oder glöubigen für die\nKilchen halt/daruff gib ich antwurt/das ich vnnd min\nparthy/alle die/die in der heyligen Christenlichen kilchen\ndurch den heyligen geyst/vnd durch das wasser/vñ durch\ndas wort des läbens in gott geboren sind. Nun so jr nach\ngeben/",
         "b": "daß ich ſage/ was ich durch die Kilchen verſtande / meynt / mir\nſeye gnũgſamlich vor erklaͤrt / daß die Widerparthey die\nrechtgeſchaffenen Chriſten oder Glaͤubigen fuͤr die Kil=\nchen halt / daruff gib ich Antwort / daß ich und myn\n                                           Parthey",
-        "similarity": 0.3652,
-        "semantic": 0.7714,
-        "reading": "reworded"
+        "similarity": 0.3652
       }
-    ],
-    "semantic": 0.8386,
-    "reworded": 2,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
     "similarity": 0.5774,
@@ -189,8 +174,18 @@
       },
       {
         "op": "replace",
-        "a": "heyttern vñ glichen",
-        "b": "heitern und glychen"
+        "a": "heyttern",
+        "b": "heitern"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "und"
+      },
+      {
+        "op": "replace",
+        "a": "glichen",
+        "b": "glychen"
       },
       {
         "op": "equal",
@@ -199,18 +194,8 @@
       },
       {
         "op": "replace",
-        "a": "gschrifft",
-        "b": "Geſchrifft"
-      },
-      {
-        "op": "equal",
-        "a": "gegründt",
-        "b": "gegrũndt"
-      },
-      {
-        "op": "replace",
-        "a": "syen",
-        "b": "ſeyen"
+        "a": "gschrifft gegründt syen",
+        "b": "Geſchrifft gegrũndt ſeyen"
       },
       {
         "op": "equal",
@@ -484,18 +469,18 @@
       },
       {
         "op": "equal",
-        "a": "ich sagē was ich durch die",
-        "b": "ich ſage was ich durch die"
+        "a": "ich",
+        "b": "ich"
       },
       {
         "op": "replace",
-        "a": "Kilchē",
-        "b": "Kilchen"
+        "a": "sagē",
+        "b": "ſage"
       },
       {
         "op": "equal",
-        "a": "verstande meynt mir",
-        "b": "verſtande meynt mir"
+        "a": "was ich durch die Kilchē verstande meynt mir",
+        "b": "was ich durch die Kilchen verſtande meynt mir"
       },
       {
         "op": "replace",

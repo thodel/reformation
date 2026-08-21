@@ -8,7 +8,7 @@
       143
     ]
   },
-  "alignment_score": 0.251,
+  "alignment_score": 0.2571,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 5,
     "only_b": 2,
-    "similarity": 0.4172,
+    "similarity": 0.4359,
     "pairs": [
       {
         "op": "only_a",
@@ -81,13 +81,13 @@
         "op": "match",
         "a": "wider miner gnedigē herrn Mandat\nbegert vns dem einfaltigen zůhörer verdacht zů machē\nso mit gschrifft võ gewalt der Kilchen hie sölte gehan=\ndelt werdē /",
         "b": "nit fuͤrbracht / hat Sonder\nallein vsß fälen vnnd menglen der moͤnschen\nwider miner gnedigen hern / mandat begert vns\ndem einfalltigen zuͦhoren verdacht zuͦ machenn\nso mit gschrifft vom gewallt der kilchen hie\nsoͤlle gehandellt werden /",
-        "similarity": 0.4375
+        "similarity": 0.5
       },
       {
         "op": "match",
         "a": "liebe fromen Christen / laßt üch nit jrren vñ\nbekümbern / hie nach wider vnser antwurt daruff zeuer\nnemen werdt jr hören /",
         "b": "Lieben fromen Christen\nLasßt vch nit Jrren / vnd bekumbern / hienach\nwider vnser antwurt vnnd daruff zevernemen\nwerdt Ir hoͤren /",
-        "similarity": 0.55
+        "similarity": 0.6
       },
       {
         "op": "only_a",
@@ -110,7 +110,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4647,
+    "similarity": 0.4784,
     "words": {
       "a": 256,
       "b": 183
@@ -423,13 +423,13 @@
       },
       {
         "op": "equal",
-        "a": "wider miner",
-        "b": "wider miner"
+        "a": "wider miner gnedigē",
+        "b": "wider miner gnedigen"
       },
       {
         "op": "replace",
-        "a": "gnedigē herrn",
-        "b": "gnedigen hern"
+        "a": "herrn",
+        "b": "hern"
       },
       {
         "op": "equal",
@@ -468,8 +468,18 @@
       },
       {
         "op": "replace",
-        "a": "sölte gehan delt werdē liebe",
-        "b": "so lle gehandellt werden Lieben"
+        "a": "sölte gehan delt",
+        "b": "so lle gehandellt"
+      },
+      {
+        "op": "equal",
+        "a": "werdē",
+        "b": "werden"
+      },
+      {
+        "op": "replace",
+        "a": "liebe",
+        "b": "Lieben"
       },
       {
         "op": "equal",
@@ -488,13 +498,13 @@
       },
       {
         "op": "replace",
-        "a": "jrren vñ",
-        "b": "Jrren vnd"
+        "a": "jrren",
+        "b": "Jrren"
       },
       {
         "op": "equal",
-        "a": "bekümbern",
-        "b": "bekumbern"
+        "a": "vñ bekümbern",
+        "b": "vnd bekumbern"
       },
       {
         "op": "replace",
@@ -562,7 +572,7 @@
         "b": ""
       }
     ],
-    "ops": 45,
+    "ops": 46,
     "truncated": false
   }
 }

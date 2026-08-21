@@ -8,7 +8,7 @@
       144
     ]
   },
-  "alignment_score": 0.219,
+  "alignment_score": 0.2409,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 3,
     "only_b": 5,
-    "similarity": 0.3884,
+    "similarity": 0.3963,
     "pairs": [
       {
         "op": "only_b",
@@ -45,7 +45,7 @@
         "op": "match",
         "a": "Die erſt\nich mich vff diß mal/wellen vff ſine vngſchrifftlich gegẽ=\nwůrff antwurt geben/damit die einfaltig gmeind got=\ntes/nit verletzt werde/vnnd demnach nůmen mer/wie\nſcharpff er vns joch ymer angryffen wirt:",
         "b": "Des provincials\nInred / bezuͤg Ich mich vff dis mall wellen\nvff sine vngschrifftlich gegen wurff / antwurt\ngeben  / Damit die einfalltig gemeind gottes\nnimmer\nnit verletzet werde /",
-        "similarity": 0.4444
+        "similarity": 0.4762
       },
       {
         "op": "only_b",
@@ -104,7 +104,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3676,
+    "similarity": 0.3715,
     "words": {
       "a": 292,
       "b": 214
@@ -137,18 +137,8 @@
       },
       {
         "op": "equal",
-        "a": "wellen vff ſine vngſchrifftlich",
-        "b": "wellen vff sine vngschrifftlich"
-      },
-      {
-        "op": "replace",
-        "a": "gegẽ",
-        "b": "gegen"
-      },
-      {
-        "op": "equal",
-        "a": "wůrff antwurt geben damit die",
-        "b": "wurff antwurt geben Damit die"
+        "a": "wellen vff ſine vngſchrifftlich gegẽ wůrff antwurt geben damit die",
+        "b": "wellen vff sine vngschrifftlich gegen wurff antwurt geben Damit die"
       },
       {
         "op": "replace",
@@ -516,7 +506,7 @@
         "b": "antwort"
       }
     ],
-    "ops": 41,
+    "ops": 40,
     "truncated": false
   }
 }

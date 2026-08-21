@@ -8,7 +8,7 @@
       288
     ]
   },
-  "alignment_score": 0.2,
+  "alignment_score": 0.2115,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -92,7 +92,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4213,
+    "similarity": 0.4298,
     "words": {
       "a": 240,
       "b": 230
@@ -210,8 +210,18 @@
       },
       {
         "op": "replace",
-        "a": "gebåren vñ ein",
-        "b": "geburen vnd sin"
+        "a": "gebåren",
+        "b": "geburen"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "ein",
+        "b": "sin"
       },
       {
         "op": "equal",
@@ -245,13 +255,13 @@
       },
       {
         "op": "equal",
-        "a": "das ein tochter empfienge",
-        "b": "das Ein tochter empfienge"
+        "a": "das ein tochter empfienge vñ",
+        "b": "das Ein tochter empfienge vnd"
       },
       {
         "op": "replace",
-        "a": "vñ gebåre",
-        "b": "vnd gebure"
+        "a": "gebåre",
+        "b": "gebure"
       },
       {
         "op": "equal",
@@ -544,7 +554,7 @@
         "b": "zwölfbotten tag vfgesegt sin worden von der kilchen frout mich wann alles das So die kilff haltet vnd mitt gestrigs wider das gotswort sich"
       }
     ],
-    "ops": 45,
+    "ops": 46,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       165
     ]
   },
-  "alignment_score": 0.2829,
+  "alignment_score": 0.3226,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 4,
     "only_b": 5,
-    "similarity": 0.5085,
+    "similarity": 0.5409,
     "pairs": [
       {
         "op": "only_b",
@@ -45,9 +45,7 @@
         "op": "match",
         "a": "Schlußred. vßtruckt iſt/Als dann die zwölffbotten anzeigent/in der\nandern Epiſtel zum Timotheo ij. cap. vnd zum Thito/ am erſten capitel.",
         "b": "denn in der Bibliſchen gſchrifft\nheyter vßtruckt iſt. Als dañ die zwölffbottẽ an=\nzeigent / in der andern Epiſt. zun Timoth.",
-        "similarity": 0.3333,
-        "semantic": 0.7562,
-        "reading": "reworded"
+        "similarity": 0.381
       },
       {
         "op": "only_b",
@@ -59,25 +57,19 @@
         "op": "match",
         "a": "Sy hand etwan gelert vnd prediget/ durch red/durch brüch/andern verkündet/wie ſy es ouch\nvon anderen gehört hand/vnd hand nit allwegē ſchrifft\ndarumb anzeigt.",
         "b": "wie ſy es ouch von andern ge\nhört hand / vnd hand nit allwegen gſchrifft dar=\num anzeygt. Jch mein ouch /",
-        "similarity": 0.383,
-        "semantic": 0.6841,
-        "reading": "reworded"
+        "similarity": 0.4255
       },
       {
         "op": "match",
         "a": "Ich mein ouch/die heylig Kilch ſye glich\nvor dem Euangelio vnd der zwölffbotten gſchrifft/vñ\nwerd ouch in ewigkeit belyben/ſo dhein gſchrifft mer ſye.",
         "b": "die heylig Kilch ſye\ngſin vor dem Euangelio vñ d̃ zwölffbotten ge=\nſchrifft / vnd werd ouch in ewigkeyt belyben / ſo\nkein gſchrifft mer ſye.",
-        "similarity": 0.64,
-        "semantic": 0.7311,
-        "reading": "same"
+        "similarity": 0.68
       },
       {
         "op": "match",
         "a": "Item in der andern Epiſt. zum Thimotheo am iij. cap. ſpricht Paulus: Ein yegkliche geſchrifft/die von Gott\nyngeſprochen iſt/iſt nützlich zů leren vnnd zů vnderwy-\nſen.",
         "b": "Jtem in d̃ andern Epiſt. zum Thimotheo iij. capi. ſpricht Paulus. Ein\nyegliche gſchrifft / die von gott yngeſprochen iſt\niſt nützlich zů leeren /",
-        "similarity": 0.6667,
-        "semantic": 0.8848,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "only_b",
@@ -89,17 +81,13 @@
         "op": "match",
         "a": "Nun iſt vil geſchriben nach der Bibliſchen geſchrifft/ durch die lieben heiligen/zů lüttrung vñ erkantnuß Bib\nliſcher geſchrifft/mein ich ouch Gott der heilig geyſt/můß\nge jnen die yngeſprochen han/ſonderlich die gſchrifft/die\nvon gemeyner Chriſtenlichen Kilchen angenommen iſt.",
         "b": "meyn ich ouch Gott\nder heylig geyſt / möge jnenn die yngeſprochen\nhaben / ſonderlich die gſchrifft / die von gemey=\nner Chriſtenlichen Kilchẽ angenommen iſt.",
-        "similarity": 0.4615,
-        "semantic": 0.8449,
-        "reading": "reworded"
+        "similarity": 0.4923
       },
       {
         "op": "match",
         "a": "Es ſtadt ouch geſchriben in den Geſchichten der Apoſt-\nlen am xv. vnd xvj. capitel. Ir ſöllend halten die port\nder zwölffbotten/vñ die brüch der Elteren/ſpricht ouch\nPaulus/in der erſten Epiſtel zun Corinthern am xj.",
         "b": "Es\nſtat ouch geſchribẽ in den Geſchichten d̃ Apoſt\nlen am xv. vnd xvj. capitel. Jr ſöllend halten die\nBott der zwölffbotten /",
-        "similarity": 0.5667,
-        "semantic": 0.6906,
-        "reading": "same"
+        "similarity": 0.6
       },
       {
         "op": "only_a",
@@ -123,10 +111,7 @@
         "op": "only_a",
         "a": "Von ſölichen brüchen findt man ouch geſchribē/ zun Theſſalonicheren in der anderen Epiſtel/am ande-\nren Cap. die nit all geſchriben ſtond/als ich mein. ℛ",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7563,
-        "semantic_match": "vnd die brüch der Elte=\nren / ſpricht ouch Paulus / in d̃ erſten Epiſt. zun",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -134,15 +119,10 @@
         "b": "vnd die brüch der Elte=\nren / ſpricht ouch Paulus / in d̃ erſten Epiſt. zun",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.764,
-    "reworded": 3,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4656,
+    "similarity": 0.4885,
     "words": {
       "a": 287,
       "b": 237
@@ -170,13 +150,13 @@
       },
       {
         "op": "equal",
-        "a": "die",
-        "b": "die"
+        "a": "die zwölffbotten",
+        "b": "die zwölffbottẽ"
       },
       {
         "op": "replace",
-        "a": "zwölffbotten anzeigent",
-        "b": "zwölffbottẽ an zeigent"
+        "a": "anzeigent",
+        "b": "an zeigent"
       },
       {
         "op": "equal",
@@ -200,13 +180,13 @@
       },
       {
         "op": "equal",
-        "a": "Thito am",
-        "b": "Thito am"
+        "a": "Thito am erſten",
+        "b": "Thito am erſtẽ"
       },
       {
         "op": "replace",
-        "a": "erſten capitel",
-        "b": "erſtẽ cap"
+        "a": "capitel",
+        "b": "cap"
       },
       {
         "op": "equal",
@@ -250,13 +230,13 @@
       },
       {
         "op": "equal",
-        "a": "hand vnd hand nit",
-        "b": "hand vnd hand nit"
+        "a": "hand vnd hand nit allwegē",
+        "b": "hand vnd hand nit allwegen"
       },
       {
         "op": "replace",
-        "a": "allwegē ſchrifft darumb anzeigt Ich",
-        "b": "allwegen gſchrifft dar um anzeygt Jch"
+        "a": "ſchrifft darumb anzeigt Ich",
+        "b": "gſchrifft dar um anzeygt Jch"
       },
       {
         "op": "equal",
@@ -274,24 +254,24 @@
         "b": "vor dem Euangelio"
       },
       {
-        "op": "insert",
-        "a": "",
-        "b": "vn d zwölffbotten ge ſchrifft"
+        "op": "replace",
+        "a": "vnd der",
+        "b": "vn d"
       },
       {
         "op": "equal",
-        "a": "vnd",
-        "b": "vnd"
+        "a": "zwölffbotten",
+        "b": "zwölffbotten"
       },
       {
-        "op": "delete",
-        "a": "der zwölffbotten gſchrifft vñ",
-        "b": ""
+        "op": "replace",
+        "a": "gſchrifft",
+        "b": "ge ſchrifft"
       },
       {
         "op": "equal",
-        "a": "werd ouch in",
-        "b": "werd ouch in"
+        "a": "vñ werd ouch in",
+        "b": "vnd werd ouch in"
       },
       {
         "op": "replace",
@@ -395,18 +375,8 @@
       },
       {
         "op": "replace",
-        "a": "lüttrung",
-        "b": "lütrung"
-      },
-      {
-        "op": "equal",
-        "a": "vñ",
-        "b": "vn"
-      },
-      {
-        "op": "replace",
-        "a": "erkantnuß Bib liſcher",
-        "b": "erkant nuß Bibliſcher"
+        "a": "lüttrung vñ erkantnuß Bib liſcher",
+        "b": "lütrung vn erkant nuß Bibliſcher"
       },
       {
         "op": "equal",
@@ -460,18 +430,8 @@
       },
       {
         "op": "equal",
-        "a": "Chriſtenlichen",
-        "b": "Chriſtenlichen"
-      },
-      {
-        "op": "replace",
-        "a": "Kilchen",
-        "b": "Kilchẽ"
-      },
-      {
-        "op": "equal",
-        "a": "angenommen iſt Es",
-        "b": "angenommen iſt Es"
+        "a": "Chriſtenlichen Kilchen angenommen iſt Es",
+        "b": "Chriſtenlichen Kilchẽ angenommen iſt Es"
       },
       {
         "op": "replace",
@@ -480,18 +440,8 @@
       },
       {
         "op": "equal",
-        "a": "ouch",
-        "b": "ouch"
-      },
-      {
-        "op": "replace",
-        "a": "geſchriben",
-        "b": "geſchribẽ"
-      },
-      {
-        "op": "equal",
-        "a": "in den Geſchichten",
-        "b": "in den Geſchichten"
+        "a": "ouch geſchriben in den Geſchichten",
+        "b": "ouch geſchribẽ in den Geſchichten"
       },
       {
         "op": "replace",
@@ -520,18 +470,8 @@
       },
       {
         "op": "equal",
-        "a": "der zwölffbotten",
-        "b": "der zwölffbotten"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "die brüch der",
-        "b": "die brüch der"
+        "a": "der zwölffbotten vñ die brüch der",
+        "b": "der zwölffbotten vnd die brüch der"
       },
       {
         "op": "replace",
@@ -569,7 +509,7 @@
         "b": ""
       }
     ],
-    "ops": 42,
+    "ops": 38,
     "truncated": false
   }
 }

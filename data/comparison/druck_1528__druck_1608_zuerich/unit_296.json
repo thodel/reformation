@@ -8,7 +8,7 @@
       342
     ]
   },
-  "alignment_score": 0.5146,
+  "alignment_score": 0.5029,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 2,
     "only_b": 2,
-    "similarity": 0.6071,
+    "similarity": 0.6007,
     "pairs": [
       {
         "op": "only_b",
@@ -45,49 +45,37 @@
         "op": "match",
         "a": "**Die vierdt**\nred nit grund hat/da sy spreche/Das vsser wort bringt\nmit jm/das es luter vnd verheysst.",
         "b": "Das vſſer wort bringt mit im/daß es lutet vnnd\nverheißt. Pfarrer von Sant Gallen. VFf ynzug vnnd verantwortung vnser Mitbrüder/",
-        "similarity": 0.3415,
-        "semantic": 0.6262,
-        "reading": "reworded"
+        "similarity": 0.3415
       },
       {
         "op": "match",
         "a": "**Pfarrer von Sant gallen.**\nVynzug vnd verantwurtzūg vnser mitbrüder/ ist mencklichem wissend/das (ob Gott wil) wir\nChristi sind/vnd sin zesin begårend/vñ darumb\nvon sinem wort reden.",
         "b": "iſt mencklichem wüſſend / das (ob Gott wil) wir\nChriſti ſind/vnd ſin zeſin begärend/vnnd darumb\nvon ſinem wort reden.",
-        "similarity": 0.7347,
-        "semantic": 0.7964,
-        "reading": "same"
+        "similarity": 0.7347
       },
       {
         "op": "match",
         "a": "Wåren wir Heydē oder vnglöu\nbig/so redten wir von Machameto oder Joue. Dan ich\ndie bekenn Christen sin/die da mit dem hertzen glouben\nzů der gerechtigkeyt/vnd solichs mit dem mund beken=\nnend zc.",
         "b": "Wären wir Heiden oder Vnglõu=\nbig/so redten wir von Machameto oder Joue. Dann ich\ndie bekenn Chriſten ſyn / die da mit dem Hertzen glouben\nzů der Gerechtigkeit/vnnd ſölichs mit dem Mund beken=\nnend ꝛc.",
-        "similarity": 0.8056,
-        "semantic": 0.9282,
-        "reading": "same"
+        "similarity": 0.8056
       },
       {
         "op": "match",
         "a": "Vnd beuelchens von kürtze wegen den Actis. **Zwingli.**\nVff dise antwurt sagend wir also/Das sollicher\nwyß/nieman möcht wüssen ob er den lychtnūg\nChristi niesse oder nit:",
         "b": "Vnd befelchens/von kurtze wegen/den Actis. Zwingly. VFf dise anttwurt sagen wir also/ Das ſöllicher wyß/ niemant möchte wüſſen /",
-        "similarity": 0.5833,
-        "semantic": 0.5923,
-        "reading": "check"
+        "similarity": 0.5833
       },
       {
         "op": "match",
         "a": "dann wir einfaltigen nit\nmågend wüssen/ob der/der soliche wort spricht/waaren\nglouben vom hertzen vff Christum hab oder nit:",
         "b": "ob er den Lychnam Chri=\nſti nieſſe oder nit: dann wir einfaltigen nit mögend\nwüſſen / ob der / der ſöliche wort ſpricht /",
-        "similarity": 0.5238,
-        "semantic": 0.8523,
-        "reading": "same"
+        "similarity": 0.5238
       },
       {
         "op": "match",
         "a": "dan ich\nwil min lieben brüder also fragen: Hast du rechten/vn=\ngezwyffelten glouben vff den låbendigen Sūn Gottes/ Christum Jesum?",
         "b": "waren glouben\nvon Hertzen vff Chriſtum hab oder nit: dann ich wil myn\nlieben Brüder alſo fragen: Haſt du rechten/vngezwiffel=\nten Glouben vff den läbendigen Sun Gottes/Chriſtum\nJeſum ? Pfarrer",
-        "similarity": 0.6538,
-        "semantic": 0.727,
-        "reading": "same"
+        "similarity": 0.6154
       },
       {
         "op": "only_a",
@@ -99,20 +87,12 @@
         "op": "only_a",
         "a": "Nun Respice, era\nsich. Diß ist ein wort Christi/vnd ist darby ver\nheyssen",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6736,
-        "semantic_match": "Capitel. So sy nun das vſſer\nwort gebrucht habend/ vnd nütdestermer das vſstryben\ngefolgt hat / so volget aber daß jr red nit grund hat da sy\nſprechen /",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7423,
-    "reworded": 1,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.6247,
+    "similarity": 0.6196,
     "words": {
       "a": 193,
       "b": 204
@@ -365,8 +345,18 @@
       },
       {
         "op": "equal",
-        "a": "glouben vff den låbendigen Sūn Gottes Christum Jesum Pfarrer",
-        "b": "Glouben vff den läbendigen Sun Gottes Chriſtum Jeſum Pfarrer"
+        "a": "glouben vff den låbendigen",
+        "b": "Glouben vff den läbendigen"
+      },
+      {
+        "op": "replace",
+        "a": "Sūn",
+        "b": "Sun"
+      },
+      {
+        "op": "equal",
+        "a": "Gottes Christum Jesum Pfarrer",
+        "b": "Gottes Chriſtum Jeſum Pfarrer"
       },
       {
         "op": "delete",
@@ -374,7 +364,7 @@
         "b": ""
       }
     ],
-    "ops": 26,
+    "ops": 27,
     "truncated": false
   }
 }

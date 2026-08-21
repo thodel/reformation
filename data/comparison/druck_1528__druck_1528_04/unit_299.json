@@ -8,7 +8,7 @@
       345
     ]
   },
-  "alignment_score": 0.6173,
+  "alignment_score": 0.6398,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,15 +27,13 @@
     "matched": 6,
     "only_a": 1,
     "only_b": 1,
-    "similarity": 0.4347,
+    "similarity": 0.4427,
     "pairs": [
       {
         "op": "match",
         "a": "Schlußred. CXLII\nCapitel. Auch die erſt Concluſion / darū (ob gott wil)\nChriſtenlich red gehalten worden. Zwingli. DAs Petrus ſprach / in dinem wort wil ich dz netz vß=\nſpreyten /",
         "b": "Schlußred. CLX\n   Zwingly. Da Petrus ſprach/ in dinem wort wil ich dz\nnetz vßſpreyten/ beger ich von vnnſerm brůder\nwas vſſerlichen worts Petrus geredt hab /",
-        "similarity": 0.3774,
-        "semantic": 0.6385,
-        "reading": "reworded"
+        "similarity": 0.3774
       },
       {
         "op": "only_a",
@@ -47,41 +45,31 @@
         "op": "match",
         "a": "wil ich\ndarzů nüt thůn / noch daruon nemen / vn̄ jm die\nwort des Capitels zů antwurt laſſen. Zwingli. ICh trag die Perſon des einfaltigen vnnd bin es\nouch.",
         "b": "zů\ndes netzes inlaſſung. Pfarrer von ſant Gallen\nWie es im text verfaſſet mit allem inhalt/wil\nich darzů nůt thůn/noch daruon nem̃en/vnd jm\ndie wort des capitels zů antwurt laſſen.",
-        "similarity": 0.4839,
-        "semantic": 0.7748,
-        "reading": "reworded"
+        "similarity": 0.4839
       },
       {
         "op": "match",
         "a": "Sagē mir herr Pfarrer wʒ heyßt hie wort\nda er ſpricht / in dinem wort wil ich das netz vß=\nſpreiten.",
         "b": "Zwingly. Ich trag die Perſon des einfaltigen vnd bin\nes ouch. Sagen mir herr Pfarrer was heißt hie\nwort da er ſpricht/",
-        "similarity": 0.381,
-        "semantic": 0.5876,
-        "reading": "different"
+        "similarity": 0.4286
       },
       {
         "op": "match",
         "a": "Pfarrer von sant Gallen\nDas wort iſt das beuelch des herrn. Zwingly\nDEs verſtands mögend ſy ſich nit annemen / das\nPetrus mitt keym vfferlichen wort den buffen\nder viſchen zemenbracht hab /",
         "b": "in dinem wort wil ich dz netz\nvßſpreyten. Pfarrer von ſant Gallen. Das wort iſt das beuelch des herrn. Zwingly.",
-        "similarity": 0.4706,
-        "semantic": 0.8639,
-        "reading": "reworded"
+        "similarity": 0.4706
       },
       {
         "op": "match",
         "a": "dann ſy nütz an=\nders vermögen dann ſam Petrus ſpreche / Herr ſo du\nmichs heyſſeſt / ſo wil ichs thůn. Wo iſt aber hie das vſ=\ner wort /",
         "b": "Des verſtands moͤgend ſy ſich nit annemen/ das Petrus mit keym vſſerlichen wort den huf=\nfen der viſchen zemenbracht hab/dañ ſy nuͤtz an=\nders vermoͤgen dann ſam Petrus ſpreche/Herr\nſo du michs heyſſeſt /",
-        "similarity": 0.3692,
-        "semantic": 0.8893,
-        "reading": "reworded"
+        "similarity": 0.3692
       },
       {
         "op": "match",
         "a": "deßhalb die wort. Das iſt myn lychnam / durch\nden vnnd andre gründ noch nie bewert ſind / das ſy ver=\nmögend den Lychnam Chriſti inn das brot wäſenlich\nNn ij",
         "b": "ſo wil ichs thůn. Wo iſt\naber hie das vſſer wort / deßhalb die wort. Das\niſt myn lychnam / durch den vnnd andre gruͤnd\nnoch nie bewert ſind /",
-        "similarity": 0.5263,
-        "semantic": 0.8116,
-        "reading": "same"
+        "similarity": 0.5263
       },
       {
         "op": "only_b",
@@ -89,15 +77,10 @@
         "b": "das ſy vermoͤgend den\nLychnam Chriſti in das brot waͤſenlich bringen\nVnd bezuͤg mich das vff eins yetliches Chriſten\nlaͤſers verſtands.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7609,
-    "reworded": 4,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.7311,
+    "similarity": 0.7363,
     "words": {
       "a": 191,
       "b": 192
@@ -205,18 +188,8 @@
       },
       {
         "op": "equal",
-        "a": "bin es ouch",
-        "b": "bin es ouch"
-      },
-      {
-        "op": "replace",
-        "a": "Sagē",
-        "b": "Sagen"
-      },
-      {
-        "op": "equal",
-        "a": "mir herr Pfarrer",
-        "b": "mir herr Pfarrer"
+        "a": "bin es ouch Sagē mir herr Pfarrer",
+        "b": "bin es ouch Sagen mir herr Pfarrer"
       },
       {
         "op": "replace",
@@ -364,7 +337,7 @@
         "b": "wa ſenlich bringen Vnd bezu g mich das vff eins yetliches Chriſten la ſers verſtands"
       }
     ],
-    "ops": 26,
+    "ops": 25,
     "truncated": false
   }
 }

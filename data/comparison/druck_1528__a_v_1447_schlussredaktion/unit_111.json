@@ -8,7 +8,7 @@
       209
     ]
   },
-  "alignment_score": 0.2254,
+  "alignment_score": 0.2347,
   "coarse": {
     "paragraphs": {
       "a": 7,
@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 3,
     "only_b": 4,
-    "similarity": 0.3762,
+    "similarity": 0.389,
     "pairs": [
       {
         "op": "only_a",
@@ -45,7 +45,7 @@
         "op": "match",
         "a": "am xvj. Capitel angezogen/gib\nich die antwurt/Petrus hatt in namẽ aller Apo\nſtlen dem herrn geantwurtet/vñ alſo die verheyſſung d\nſchlüßlen in jrer aller namen empfangen Johannis am\nxxj.",
         "b": "Drea\naller apostlen/ dem herren/ geantwurtet/ vnd also\ndie verheissung der Schluͤsslen In Irer aller\nnamen/ empfangen / Johannis xxia:",
-        "similarity": 0.4231
+        "similarity": 0.4615
       },
       {
         "op": "match",
@@ -92,7 +92,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4343,
+    "similarity": 0.4444,
     "words": {
       "a": 231,
       "b": 165
@@ -100,23 +100,23 @@
     "segments": [
       {
         "op": "replace",
-        "a": "Dicerſt für einen hirten",
-        "b": "Drea aller apostlen dem herren geantwurtet"
+        "a": "Dicerſt für einen hirten vñd ſoll ſpiſen ſine ſchäffly dann Matth xviij Cap Da hatt Chriſtus ouch allein ſinen jüngern voz ſinem lyden den gewalt geben zebinden vñd entbin den was jr binden vff",
+        "b": "Drea aller apostlen"
       },
       {
         "op": "equal",
-        "a": "vñd",
-        "b": "vnd"
+        "a": "dem",
+        "b": "dem"
       },
       {
-        "op": "delete",
-        "a": "ſoll ſpiſen ſine ſchäffly dann Matth xviij Cap Da hatt Chriſtus ouch allein ſinen jüngern voz ſinem lyden den gewalt geben zebinden vñd entbin den was jr binden vff dem ertrich wirt bunden in dem himel aber Matth xvj Da hatt er Petro verheyſſen binden in vil himlen Berchtoldus D Ielange vozred laß ich fallen vnnd zů dem ſpruch Matth am xvj Capitel angezogen gib ich die antwurt Petrus hatt in namẽ aller Apo ſtlen dem herrn geantwurtet vñ",
-        "b": ""
+        "op": "replace",
+        "a": "ertrich wirt bunden in dem himel aber Matth xvj Da hatt er Petro verheyſſen binden in vil himlen Berchtoldus D Ielange vozred laß ich fallen vnnd zů dem ſpruch Matth am xvj Capitel angezogen gib ich die antwurt Petrus hatt in namẽ aller Apo ſtlen dem herrn",
+        "b": "herren"
       },
       {
         "op": "equal",
-        "a": "alſo die",
-        "b": "also die"
+        "a": "geantwurtet vñ alſo die",
+        "b": "geantwurtet vnd also die"
       },
       {
         "op": "replace",
@@ -285,8 +285,18 @@
       },
       {
         "op": "equal",
-        "a": "geben dañ weñ das die",
-        "b": "geben Dan wen das die"
+        "a": "geben",
+        "b": "geben"
+      },
+      {
+        "op": "replace",
+        "a": "dañ weñ",
+        "b": "Dan wen"
+      },
+      {
+        "op": "equal",
+        "a": "das die",
+        "b": "das die"
       },
       {
         "op": "replace",
@@ -380,23 +390,13 @@
       },
       {
         "op": "replace",
-        "a": "dir",
-        "b": "die ze geben vnd allen"
+        "a": "dir zegeben",
+        "b": "die ze geben"
       },
       {
         "op": "equal",
-        "a": "zegeben",
-        "b": "zegeben"
-      },
-      {
-        "op": "delete",
-        "a": "vñ allen zegebẽ",
-        "b": ""
-      },
-      {
-        "op": "equal",
-        "a": "vnglich der text iſt",
-        "b": "vnglich der text ist"
+        "a": "vñ allen zegebẽ vnglich der text iſt",
+        "b": "vnd allen zegeben vnglich der text ist"
       },
       {
         "op": "replace",

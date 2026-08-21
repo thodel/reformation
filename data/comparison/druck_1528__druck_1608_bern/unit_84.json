@@ -8,7 +8,7 @@
       106
     ]
   },
-  "alignment_score": 0.4539,
+  "alignment_score": 0.4803,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 1,
     "only_b": 6,
-    "similarity": 0.5129,
+    "similarity": 0.5192,
     "pairs": [
       {
         "op": "only_b",
@@ -57,9 +57,7 @@
         "op": "match",
         "a": "Die erſt\nin ſtucken des gloubens/dheins wegs teylen. Jch erman\nſich aber frommen Chriſten/jr wellend ein hoch vffſechē\nhaben/vff die rechten ſecten/vñ vff die rechten zertren\nner Chriſtenlicher eynigkeit/vnd die ſo ſich in den hoͤch\nſten ſtucken des gloubens/anfachen zertrennen:",
         "b": "vns gar keines\nwegs / von dem Hertzen trennen / ouch in ſtucken deß glou-\nbens/keins wegs teilen. Jch erman uͤch aber fromen Chri-\nſten/jr ſwellend ein hoch vffſechẽ haben/vff die rechten Seck-\nten/vnnd vff die rechten zertrenner Chriſtenlicher einigkeit/",
-        "similarity": 0.4,
-        "semantic": 0.8765,
-        "reading": "reworded"
+        "similarity": 0.4
       },
       {
         "op": "only_b",
@@ -71,9 +69,7 @@
         "op": "match",
         "a": "jr haben\nye gehórt in zåhe jaren har/das einer Luterſch/der an=\nder Zwingliſch/der dritt Carolſtadiſch/der vierd Œ=\ncolampadiſch/der fünfft Widertóufferiſch/vnd dergly\nchen ſeltzamer namen/ſich nennen/oder/zum wenigoſtē/",
         "b": "das\neiner Luterſch/der ander Zwingliſch / der dritte Caroloſta-\ndiſch/der vierdEcolompadiſch/der fuͤnfft Widertoͤufferiſch/ vnd derglychen ſeltzamer Namen /",
-        "similarity": 0.3929,
-        "semantic": 0.8086,
-        "reading": "reworded"
+        "similarity": 0.3929
       },
       {
         "op": "only_b",
@@ -85,36 +81,24 @@
         "op": "match",
         "a": "genannt werden/die nit allein vnderſcheyd habē in kley\ndern: dann der ſelb vnderſcheyd/niemand nachteil oder\nſchaden bringen mag/ſonder ſich trennen in treſſenlichen\nſtucken vnſers vnbeflecktēnn gloubens/vnnd da iſt der\ngróſt ſchaden/vnd das hoͤchſt vffſechen zehabē.",
         "b": "niemand nach-\nteil oder ſchaden bringen mag / ſonder ſich trennen in tref-\nfenlichen ſtucken vnſers vnbefleckten gloubens/ vnnd da iſt\nder groͤſt ſchaden/vnd das hoͤchſt vffſechen zehaben.Es zeigt\nvns ouch an Martin Butzer /",
-        "similarity": 0.5641,
-        "semantic": 0.7061,
-        "reading": "same"
+        "similarity": 0.5897
       },
       {
         "op": "match",
         "a": "Es zeigt\nvns ouch an Martin Bůtzer/wie das alle Concilia biß=\nhar/wider ſich ſelbs geſin/vnd wider einandern gehand=\nlet/das ich jm/ſo er verſtan wil/in ſtucken des gloubens\nabred bin/vnd dheins wegs geſtan/er wirts ouch nůmer\nmer darbringen.",
         "b": "wie das alle Concilia biß-\nhar/wider ſich ſelbs geſin / vnnd wider einandern gehand-\nlet / das ich jm / ſo er verſtan wil / in ſtucken deß gloubens\nabred",
-        "similarity": 0.6944,
-        "semantic": 0.7205,
-        "reading": "same"
+        "similarity": 0.6944
       },
       {
         "op": "only_a",
         "a": "Wol iſt war das in andren puncten/by\nlangen/malſtatten/eygen",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6678,
-        "semantic_match": "vnnd die ſo ſich in den hoͤchſten ſtucken deß gloubens/anfa-\nchen zertrennen: jr haben je gehoͤrt in zaͤhen jaren har /",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7559,
-    "reworded": 2,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4891,
+    "similarity": 0.4978,
     "words": {
       "a": 179,
       "b": 279
@@ -317,18 +301,8 @@
       },
       {
         "op": "equal",
-        "a": "ſeltzamer namen ſich nennen oder zum",
-        "b": "ſeltzamer Namen ſich nennen oder zum"
-      },
-      {
-        "op": "replace",
-        "a": "wenigoſtē",
-        "b": "wenigoſten"
-      },
-      {
-        "op": "equal",
-        "a": "genannt werden die nit allein",
-        "b": "genannt werden Die nit allein"
+        "a": "ſeltzamer namen ſich nennen oder zum wenigoſtē genannt werden die nit allein",
+        "b": "ſeltzamer Namen ſich nennen oder zum wenigoſten genannt werden Die nit allein"
       },
       {
         "op": "replace",
@@ -397,18 +371,8 @@
       },
       {
         "op": "equal",
-        "a": "ſchaden vnd das ho chſt vffſechen",
-        "b": "ſchaden vnd das ho chſt vffſechen"
-      },
-      {
-        "op": "replace",
-        "a": "zehabē",
-        "b": "zehaben"
-      },
-      {
-        "op": "equal",
-        "a": "Es zeigt vns ouch an Martin Bůtzer wie das alle Concilia biß har wider ſich ſelbs geſin",
-        "b": "Es zeigt vns ouch an Martin Butzer wie das alle Concilia biß har wider ſich ſelbs geſin"
+        "a": "ſchaden vnd das ho chſt vffſechen zehabē Es zeigt vns ouch an Martin Bůtzer wie das alle Concilia biß har wider ſich ſelbs geſin",
+        "b": "ſchaden vnd das ho chſt vffſechen zehaben Es zeigt vns ouch an Martin Butzer wie das alle Concilia biß har wider ſich ſelbs geſin"
       },
       {
         "op": "replace",
@@ -436,7 +400,7 @@
         "b": ""
       }
     ],
-    "ops": 32,
+    "ops": 30,
     "truncated": false
   }
 }

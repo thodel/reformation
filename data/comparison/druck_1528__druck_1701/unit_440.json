@@ -8,7 +8,7 @@
       456
     ]
   },
-  "alignment_score": 0.2804,
+  "alignment_score": 0.2889,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -33,10 +33,7 @@
         "op": "only_a",
         "a": "**Schlußred.**\n\netwas/ſonder Gott/der das vff wachſen gibt/der aber\npflantzet/vnd der da begüßt/iſt einer wie der ander/ein\nyegklicher aber wirdt ſin lon empfahen/nach ſiner arbeit\nDann wir ſind gottes gehilffen/jr ſind gottes ackerwerck\nvnd gebüw:ich von Gottes gnaden die mir gebē iſt/hab\nden grund gelegt/als ein wiſer buwmeiſter/ein anderer\nbuwt daruff/ein yegklicher aber ſehe zů/wie er daruff\nbuwe/dan ſouil das fundament antrifft/mag niemand\ndhein anders ſetzen/weder das geſetzt iſt/Chriſtus Je=\nſus.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7451,
-        "semantic_match": "dann wir sind Gottes Gehülffen / ihr sind\nGottes Ackerwerck und Gebåu : ich von Gottes Gna-\nden / die mir geben ist /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -96,17 +93,13 @@
         "op": "match",
         "a": "So nun yemand der leerende/die zůhörer alſo grün=\ndet vff Chriſtum/da ſo ſchon das fhür der verfolgung\nkompt/ſo wenig wider ſy vermag/als das Elementiſch\nfhür/in gold/ſilber/vnd Edelgeſteyn/ſo ligt es am tag/",
         "b": "da\nso schon das Feuer der Verfolgung komt / so wenig wi-\nder sy vermag / als das Elementisch Feuer in Gold /",
-        "similarity": 0.4746,
-        "semantic": 0.5141,
-        "reading": "different"
+        "similarity": 0.4746
       },
       {
         "op": "match",
         "a": "wie trüwlich der leerer/das volck mitt dem wort Got=\ntes erbuwen hatt/diewil es ee das läben/dann das wort\ngottes verlieſſe.",
         "b": "Silber und Edelgestein / so ligt es am Tag / wie treu-\nlich der Lehrer das volck mit dem Wort Gottes erbauen\nhat /",
-        "similarity": 0.3182,
-        "semantic": 0.5801,
-        "reading": "different"
+        "similarity": 0.3182
       },
       {
         "op": "only_a",
@@ -118,10 +111,7 @@
         "op": "only_a",
         "a": "gold/ſilber/vnd Edelgeſtein vffgebuwen hat/vnd wirt\nnach ſinem buwen/den lon empfahen:ſo aber yemands\nwerck verbrent wirt/ſo ſind ſy holtz höw vnnd ſtufflen\ngeſin/vnnd wiewol der Prediger/ein ſchaden lydet/de=\nren ſo er gelert hatt/ſo wirdt doch er ſälig werden/ſo er\ndurch das fhür aller anfechtung/vnuerruckt inn glo=\nben tringt.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6802,
-        "semantic_match": "hab den Grund gelegt / als ein\nwyser Baumeister / ein anderer baut daruff / ein jegli-\ncher aber sehe zů / wie er daruff baue /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -135,15 +125,10 @@
         "b": "diewyl es ehe das Leben / dann das Wort Gottes\nverlieſſe. So aber jemand das Wort Gottes so hinlåſſig\nlehrte / daß uß zůfålliger Verfolgung die Zůhórenden\nabfielen / nit anders / dann wie das Holtz / Heu / und\nStuff-",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6299,
-    "reworded": 0,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4178,
+    "similarity": 0.4212,
     "words": {
       "a": 306,
       "b": 278
@@ -246,18 +231,8 @@
       },
       {
         "op": "equal",
-        "a": "die mir",
-        "b": "die mir"
-      },
-      {
-        "op": "replace",
-        "a": "gebē",
-        "b": "geben"
-      },
-      {
-        "op": "equal",
-        "a": "iſt hab den grund gelegt als ein",
-        "b": "ist hab den Grund gelegt als ein"
+        "a": "die mir gebē iſt hab den grund gelegt als ein",
+        "b": "die mir geben ist hab den Grund gelegt als ein"
       },
       {
         "op": "replace",
@@ -525,7 +500,7 @@
         "b": "Stuff"
       }
     ],
-    "ops": 38,
+    "ops": 37,
     "truncated": false
   }
 }

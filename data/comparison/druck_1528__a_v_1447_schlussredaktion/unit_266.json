@@ -2,21 +2,21 @@
   "unit": 266,
   "pages": {
     "druck_1528": [
-      280
+      279
     ],
     "a_v_1447_schlussredaktion": [
-      444
+      443
     ]
   },
-  "alignment_score": 0.2584,
+  "alignment_score": 0.2216,
   "coarse": {
     "paragraphs": {
-      "a": 1,
+      "a": 2,
       "b": 1
     },
     "counts": {
       "equal": 0,
-      "replace": 1,
+      "replace": 2,
       "delete": 0,
       "insert": 0
     },
@@ -24,228 +24,138 @@
   },
   "sentences": {
     "units": 9,
-    "matched": 3,
-    "only_a": 5,
+    "matched": 4,
+    "only_a": 4,
     "only_b": 1,
-    "similarity": 0.4246,
+    "similarity": 0.3824,
     "pairs": [
       {
         "op": "only_a",
-        "a": "Die vierdt\nAlchamer\nIch beuilch abermals/sin vnnd min erklärung/ dem\nChristenlichen läser. Zwingly\nVnd wir ouch.zc. Am sibenzehenden tag Jenners.",
+        "a": "Schlußred+ CXXXII\nPaulus spricht: Darumb sind wir ein brot/das wir eins\nbrots teylhafftig sind/oder von einem brot essend.ꝛc.",
         "b": null,
         "similarity": 0.0
       },
       {
         "op": "only_a",
-        "a": "Pfarrer von Sant Gallen: NAch abscheyd vnsers anfangs wider die vierde\nSchlußred/ Das vnns/ lut der wortenn/des\nNachtmals Christi/",
+        "a": "Zwingli\nAls vnser lieber brůder zwey brot hie anzeygt/ ist doch gnůg erfochten/das es nun eins ist: das\nan dem ersten ort/da er spricht:",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "Das brot/das\nwir brechend/sye die gmeind des lychnams Christi/zeigt\nvns gnůg an durch die vrsachlichen red/die von stund=\nan hernach volget/das er võ dem brot redt/Das wir bre\nchend.",
+        "b": "dam,\nDan an ersten, opt Da er spricht, Das brot\n& morn\ndas orie brechen, sie die grad Des lichnams\nChristi, zoigt vnns gnug an Durch die\nversachlichen rede, die von stund an, hernach\nwelget;",
+        "similarity": 0.4348
+      },
+      {
+        "op": "only_a",
+        "a": "Das er aber dannethin spricht: Das wir/so das\nselbig brot/miteinander brechend/syen die gemeynd des\nlychnams Christi. Das ist ein liebliche der Tropen.",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "Das\ner darnach spricht: Ein brot vnd ein lychnam/sind wir\ndie menge. In den wortten erkennen ich wol/das er die\nKilchen das Brot nempt/Er spilt aber daruff/das sy\ndeß vsseren Sacramentlichen brot halb/das die Kilch\nmiteinandern teylt/ein brot vnd ein lychnam sye.",
+        "b": "Das er von Dem Brot radt das\nwir brechen, Das er wer dannechin spricht,\nDas wir, so dasselbige brot, mit einanderen brochen\nsind die gemeind des lichnams Christi Das\nist ein lyebliche der tropen, Das er dar¬\nnach spricht ein brot vnnd ein lichnam,\nwir die minge, In den worten\nsind\nkerkennen ich woll, Das er die kirchen, Das\nbrott rempt, er spillt aber daruff, das sy\nDes osserij sacramentlichen bret hale.",
+        "similarity": 0.35
+      },
+      {
+        "op": "only_a",
+        "a": "So er\nvon stundan spricht/vnd vrsach gibt/Warumb er ouch\ndie Kilch Ein brot vñ Ein lychnã genempt habe:",
         "b": null,
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "Das II\nHernen\nandren boeken\nGeist. &c Der\nquam\ndenere\ntin breche\nDie vierd schlußred. 185\n0\ndes lichnams vnnd bluts Christe siene, ein\nbrot vnnd om lichnam sienne¬\nNeechamer\nIch beuilichs abermals sin vnnd min exklij¬\nxiiie dem Christenlichen läser.",
+        "b": "Das\nDie kilch mit einanndern thallt, ein brott\nSo er von stunden\nVnnd ein lichnam sys\nJan spricht vnnd vrsach geptt.",
         "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "eynmůtigklich durch die\nEuangelisten vnnd Paulum beschribe: wir den\nlyb Christi/ wäsenlich vnnd lyblich/ derglychen sin blüt\nempfachind/ vrsachet vns zů erst von dem lyb zů reden.",
-        "b": "Jovingh\nVnnd wir ouch ende\nxvi Xvii tag Janners\npfarrer von S. galle. Nach abstehende vnnstens anfangs wider Vis\nvierde schlußred, Das vns lutt der ouorten\ndes nachtmals Christi, ein mutelklich durch\nDie Enaufelisten vnnd paulum beschriben wir\nDen lijb Christi, wesenlich vnnd lijblich der¬\nglichen sin blut empfachind, vn sachet vns zu\nerst van dem lee zu reden.",
-        "similarity": 0.3953
+        "a": "dañ\nwir all miteinander teylhafftig sind võ einem brot. Hie\nist aber ein ander Prosapodosis, dz ist ein vrsach in dem wört\nly/da er spricht/Dann/welches ein vrsach gibt/warum\ners genempt habe/Ein brot vñ Einen lychnam:",
+        "b": "Warumb\nex ouwen die kilchen ein brott vnnd ein lich¬\nnam genempt hege Dann wir all mit¬\nein andern theilhafft sind von einem brott, hie\nIst aber ein ander pro sapodosis.",
+        "similarity": 0.3099
       },
       {
         "op": "match",
-        "a": "Die figur Exodi am xij. ca. Welche vnsers verstands\nPaulus erkläret/ in der erste zun Corinthiern am v. ca. so er Christum dargegen stellt mit sölichen wozten:",
-        "b": "Die figur\nexodi am & xii cap: welche vnsers verstands\npaulus erkläret zum der ersten zum Oberingsten\nam v cap: so er Christum dargegen stellt\nmit solchen wortten, vnnsvr osterlam Christus\nist vffgeopffert wijs sy haben wesen lich vnd\nlyblich Cas osterlam genossen vnnd sollichs\ngehassen worden, zu einer ewigen gedechnus\nthun.",
-        "similarity": 0.4872
-      },
-      {
-        "op": "only_a",
-        "a": "Vn\nser Osterlamb Christus/ ist vffgeopffert/ wie sy habend\nwäsenlich vnd lyblich das Osterlamb genossen/ vnd sö\nlichs geheyssen worden/",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "match",
-        "a": "zů einer ewigen gedächtnuß tůn/ der wolthat Gottes/ jnen in Egypto erzeygt mit vorbe\nwarung des zytlichen tods. Derglychen söllen wir Chri\nsten/",
-        "b": "Der wolthat gottes Inen gul. exipto\nerzoigt mit vorbewarmen des zijtlickenn\ntods Derglichen sollen wir Christen Das\nlamb Christum messen, lut der worten",
-        "similarity": 0.3913
-      },
-      {
-        "op": "only_a",
-        "a": "das lamb Christum niessen/ lut der wozten: Nem=\nmend vnd essend/ das ist min lyb.zc. Darby vns erinne=\nren/",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_a",
-        "a": "glycher gstalt der erlösung des hellschen Pharaonis/ vnd bewarung vor dem ewige tod/ vff dz sich der schatt\nmit dem liecht/ das ist mit der warheit/ vnd widerumb\ndie",
-        "b": null,
-        "similarity": 0.0
+        "a": "yedoch\nso wirt hie des lychnãs Christi nit lyblich gedacht. Aber\ndes wirdt gedacht in einer sum̃/das wir die menge/das\nist die Christenlich gemeynd/ein gemeind des lychnams\nvnnd Blůts Christi sygend/ein Brot vnnd ein lychnam\nsygend.",
+        "b": "Das is ein\nErsach Inn dem worth, da er sprichtt\nDann welches ein Vrsach gijt, warumb\nvoorss. genampt habe, ein brott vnnd einen lichnam\ngedoch so wirt hie des lichuams Christi\nint lyblich gedacht, Aber des wirt\ngedacht In einen Sum Das wir die meeste\nDas ist Die Christenlich gemeind, ein gemeine",
+        "similarity": 0.4348
       }
     ]
   },
   "fine": {
-    "similarity": 0.4696,
+    "similarity": 0.5075,
     "words": {
-      "a": 188,
-      "b": 174
+      "a": 255,
+      "b": 210
     },
     "segments": [
       {
+        "op": "replace",
+        "a": "Schlußred CXXXII Paulus spricht Darumb sind wir ein brot das wir eins brots teylhafftig sind oder von einem brot essend ꝛc Zwingli Als vnser lieber brůder zwey brot hie anzeygt ist doch gnůg erfochten das es nun eins ist das",
+        "b": "dam Dan"
+      },
+      {
+        "op": "equal",
+        "a": "an",
+        "b": "an"
+      },
+      {
+        "op": "delete",
+        "a": "dem",
+        "b": ""
+      },
+      {
+        "op": "equal",
+        "a": "ersten",
+        "b": "ersten"
+      },
+      {
+        "op": "replace",
+        "a": "ort",
+        "b": "opt"
+      },
+      {
+        "op": "equal",
+        "a": "da er spricht Das brot",
+        "b": "Da er spricht Das brot"
+      },
+      {
         "op": "insert",
         "a": "",
-        "b": "Das II Hernen andren boeken Geist c Der quam denere tin breche"
+        "b": "morn"
       },
       {
         "op": "equal",
-        "a": "Die",
-        "b": "Die"
+        "a": "das",
+        "b": "das"
       },
       {
         "op": "replace",
-        "a": "vierdt Alchamer",
-        "b": "vierd schlußred 185 0 des lichnams vnnd bluts Christe siene ein brot vnnd om lichnam sienne Neechamer"
+        "a": "wir brechend sye",
+        "b": "orie brechen sie"
       },
       {
         "op": "equal",
-        "a": "Ich",
-        "b": "Ich"
-      },
-      {
-        "op": "replace",
-        "a": "beuilch",
-        "b": "beuilichs"
-      },
-      {
-        "op": "equal",
-        "a": "abermals sin vnnd min",
-        "b": "abermals sin vnnd min"
-      },
-      {
-        "op": "replace",
-        "a": "erklärung",
-        "b": "exklij xiiie"
-      },
-      {
-        "op": "equal",
-        "a": "dem Christenlichen läser",
-        "b": "dem Christenlichen läser"
-      },
-      {
-        "op": "replace",
-        "a": "Zwingly Vnd",
-        "b": "Jovingh Vnnd"
-      },
-      {
-        "op": "equal",
-        "a": "wir ouch",
-        "b": "wir ouch"
-      },
-      {
-        "op": "replace",
-        "a": "zc Am sibenzehenden",
-        "b": "ende xvi Xvii"
-      },
-      {
-        "op": "equal",
-        "a": "tag",
-        "b": "tag"
-      },
-      {
-        "op": "replace",
-        "a": "Jenners",
-        "b": "Janners"
-      },
-      {
-        "op": "equal",
-        "a": "Pfarrer von",
-        "b": "pfarrer von"
-      },
-      {
-        "op": "replace",
-        "a": "Sant Gallen",
-        "b": "S galle"
-      },
-      {
-        "op": "equal",
-        "a": "NAch",
-        "b": "Nach"
-      },
-      {
-        "op": "replace",
-        "a": "abscheyd vnsers",
-        "b": "abstehende vnnstens"
-      },
-      {
-        "op": "equal",
-        "a": "anfangs wider",
-        "b": "anfangs wider"
-      },
-      {
-        "op": "replace",
         "a": "die",
-        "b": "Vis"
-      },
-      {
-        "op": "equal",
-        "a": "vierde Schlußred Das",
-        "b": "vierde schlußred Das"
+        "b": "die"
       },
       {
         "op": "replace",
-        "a": "vnns lut",
-        "b": "vns lutt"
+        "a": "gmeind",
+        "b": "grad"
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
+        "a": "des",
+        "b": "Des"
       },
       {
         "op": "replace",
-        "a": "wortenn",
-        "b": "ouorten"
-      },
-      {
-        "op": "equal",
-        "a": "des Nachtmals Christi",
-        "b": "des nachtmals Christi"
-      },
-      {
-        "op": "replace",
-        "a": "eynmůtigklich",
-        "b": "ein mutelklich"
-      },
-      {
-        "op": "equal",
-        "a": "durch die",
-        "b": "durch Die"
-      },
-      {
-        "op": "replace",
-        "a": "Euangelisten",
-        "b": "Enaufelisten"
-      },
-      {
-        "op": "equal",
-        "a": "vnnd Paulum",
-        "b": "vnnd paulum"
-      },
-      {
-        "op": "replace",
-        "a": "beschribe",
-        "b": "beschriben"
-      },
-      {
-        "op": "equal",
-        "a": "wir den",
-        "b": "wir Den"
-      },
-      {
-        "op": "replace",
-        "a": "lyb",
-        "b": "lijb"
+        "a": "lychnams",
+        "b": "lichnams"
       },
       {
         "op": "equal",
@@ -254,168 +164,88 @@
       },
       {
         "op": "replace",
-        "a": "wäsenlich",
-        "b": "wesenlich"
+        "a": "zeigt vns",
+        "b": "zoigt vnns"
       },
       {
         "op": "equal",
-        "a": "vnnd",
-        "b": "vnnd"
+        "a": "gnůg an durch die",
+        "b": "gnug an Durch die"
       },
       {
         "op": "replace",
-        "a": "lyblich derglychen",
-        "b": "lijblich der glichen"
+        "a": "vrsachlichen red",
+        "b": "versachlichen rede"
       },
       {
         "op": "equal",
-        "a": "sin blüt empfachind",
-        "b": "sin blut empfachind"
+        "a": "die von stund an hernach",
+        "b": "die von stund an hernach"
       },
       {
         "op": "replace",
-        "a": "vrsachet",
-        "b": "vn sachet"
+        "a": "volget",
+        "b": "welget"
       },
       {
         "op": "equal",
-        "a": "vns zů erst",
-        "b": "vns zu erst"
+        "a": "das er võ dem brot",
+        "b": "Das er von Dem Brot"
       },
       {
         "op": "replace",
-        "a": "von",
-        "b": "van"
+        "a": "redt",
+        "b": "radt"
       },
       {
         "op": "equal",
-        "a": "dem",
-        "b": "dem"
+        "a": "Das wir",
+        "b": "das wir"
       },
       {
         "op": "replace",
-        "a": "lyb",
-        "b": "lee"
+        "a": "bre chend",
+        "b": "brechen"
       },
       {
         "op": "equal",
-        "a": "zů reden Die figur Exodi am xij",
-        "b": "zu reden Die figur exodi am xii"
+        "a": "Das er",
+        "b": "Das er"
       },
       {
         "op": "replace",
-        "a": "ca",
-        "b": "cap"
+        "a": "aber dannethin",
+        "b": "wer dannechin"
       },
       {
         "op": "equal",
-        "a": "Welche vnsers verstands Paulus erkläret",
-        "b": "welche vnsers verstands paulus erkläret"
+        "a": "spricht Das wir so",
+        "b": "spricht Das wir so"
       },
       {
         "op": "replace",
-        "a": "in",
-        "b": "zum"
+        "a": "das selbig",
+        "b": "dasselbige"
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
+        "a": "brot",
+        "b": "brot"
       },
       {
         "op": "replace",
-        "a": "erste zun Corinthiern",
-        "b": "ersten zum Oberingsten"
+        "a": "miteinander brechend syen",
+        "b": "mit einanderen brochen sind"
       },
       {
         "op": "equal",
-        "a": "am v",
-        "b": "am v"
+        "a": "die",
+        "b": "die"
       },
       {
         "op": "replace",
-        "a": "ca",
-        "b": "cap"
-      },
-      {
-        "op": "equal",
-        "a": "so er Christum dargegen stellt mit",
-        "b": "so er Christum dargegen stellt mit"
-      },
-      {
-        "op": "replace",
-        "a": "sölichen wozten Vn ser Osterlamb",
-        "b": "solchen wortten vnnsvr osterlam"
-      },
-      {
-        "op": "equal",
-        "a": "Christus ist vffgeopffert",
-        "b": "Christus ist vffgeopffert"
-      },
-      {
-        "op": "replace",
-        "a": "wie",
-        "b": "wijs"
-      },
-      {
-        "op": "equal",
-        "a": "sy",
-        "b": "sy"
-      },
-      {
-        "op": "replace",
-        "a": "habend wäsenlich",
-        "b": "haben wesen lich"
-      },
-      {
-        "op": "equal",
-        "a": "vnd lyblich",
-        "b": "vnd lyblich"
-      },
-      {
-        "op": "replace",
-        "a": "das Osterlamb",
-        "b": "Cas osterlam"
-      },
-      {
-        "op": "equal",
-        "a": "genossen",
-        "b": "genossen"
-      },
-      {
-        "op": "replace",
-        "a": "vnd sö lichs geheyssen",
-        "b": "vnnd sollichs gehassen"
-      },
-      {
-        "op": "equal",
-        "a": "worden zů einer ewigen",
-        "b": "worden zu einer ewigen"
-      },
-      {
-        "op": "replace",
-        "a": "gedächtnuß tůn",
-        "b": "gedechnus thun"
-      },
-      {
-        "op": "equal",
-        "a": "der wolthat Gottes jnen",
-        "b": "Der wolthat gottes Inen"
-      },
-      {
-        "op": "replace",
-        "a": "in Egypto erzeygt",
-        "b": "gul exipto erzoigt"
-      },
-      {
-        "op": "equal",
-        "a": "mit",
-        "b": "mit"
-      },
-      {
-        "op": "replace",
-        "a": "vorbe warung",
-        "b": "vorbewarmen"
+        "a": "gemeynd",
+        "b": "gemeind"
       },
       {
         "op": "equal",
@@ -424,51 +254,391 @@
       },
       {
         "op": "replace",
-        "a": "zytlichen",
-        "b": "zijtlickenn"
+        "a": "lychnams",
+        "b": "lichnams"
       },
       {
         "op": "equal",
-        "a": "tods",
-        "b": "tods"
+        "a": "Christi Das ist ein",
+        "b": "Christi Das ist ein"
       },
       {
         "op": "replace",
-        "a": "Derglychen",
-        "b": "Derglichen"
+        "a": "liebliche",
+        "b": "lyebliche"
       },
       {
         "op": "equal",
-        "a": "söllen wir",
-        "b": "sollen wir"
+        "a": "der Tropen Das er",
+        "b": "der tropen Das er"
       },
       {
         "op": "replace",
-        "a": "Chri sten",
-        "b": "Christen"
+        "a": "darnach",
+        "b": "dar nach"
       },
       {
         "op": "equal",
-        "a": "das lamb Christum",
-        "b": "Das lamb Christum"
+        "a": "spricht Ein brot",
+        "b": "spricht ein brot"
       },
       {
         "op": "replace",
-        "a": "niessen",
-        "b": "messen"
+        "a": "vnd",
+        "b": "vnnd"
       },
       {
         "op": "equal",
-        "a": "lut der",
-        "b": "lut der"
+        "a": "ein",
+        "b": "ein"
       },
       {
         "op": "replace",
-        "a": "wozten Nem mend vnd essend das ist min lyb zc Darby vns erinne ren glycher gstalt der erlösung des hellschen Pharaonis vnd bewarung vor dem ewige tod vff dz sich der schatt mit dem liecht das ist mit der warheit vnd widerumb die",
-        "b": "worten"
+        "a": "lychnam sind",
+        "b": "lichnam"
+      },
+      {
+        "op": "equal",
+        "a": "wir die",
+        "b": "wir die"
+      },
+      {
+        "op": "replace",
+        "a": "menge",
+        "b": "minge"
+      },
+      {
+        "op": "equal",
+        "a": "In den",
+        "b": "In den"
+      },
+      {
+        "op": "replace",
+        "a": "wortten erkennen",
+        "b": "worten sind kerkennen"
+      },
+      {
+        "op": "equal",
+        "a": "ich",
+        "b": "ich"
+      },
+      {
+        "op": "replace",
+        "a": "wol",
+        "b": "woll"
+      },
+      {
+        "op": "equal",
+        "a": "das er die",
+        "b": "Das er die"
+      },
+      {
+        "op": "replace",
+        "a": "Kilchen",
+        "b": "kirchen"
+      },
+      {
+        "op": "equal",
+        "a": "das",
+        "b": "Das"
+      },
+      {
+        "op": "replace",
+        "a": "Brot nempt",
+        "b": "brott rempt"
+      },
+      {
+        "op": "equal",
+        "a": "Er",
+        "b": "er"
+      },
+      {
+        "op": "replace",
+        "a": "spilt",
+        "b": "spillt"
+      },
+      {
+        "op": "equal",
+        "a": "aber daruff das sy",
+        "b": "aber daruff das sy"
+      },
+      {
+        "op": "replace",
+        "a": "deß vsseren",
+        "b": "Des osserij"
+      },
+      {
+        "op": "equal",
+        "a": "Sacramentlichen",
+        "b": "sacramentlichen"
+      },
+      {
+        "op": "replace",
+        "a": "brot halb",
+        "b": "bret hale"
+      },
+      {
+        "op": "equal",
+        "a": "das die Kilch",
+        "b": "Das Die kilch"
+      },
+      {
+        "op": "replace",
+        "a": "miteinandern teylt",
+        "b": "mit einanndern thallt"
+      },
+      {
+        "op": "equal",
+        "a": "ein",
+        "b": "ein"
+      },
+      {
+        "op": "replace",
+        "a": "brot vnd ein lychnam sye",
+        "b": "brott"
+      },
+      {
+        "op": "equal",
+        "a": "So er von",
+        "b": "So er von"
+      },
+      {
+        "op": "replace",
+        "a": "stundan",
+        "b": "stunden Vnnd ein lichnam sys Jan"
+      },
+      {
+        "op": "equal",
+        "a": "spricht",
+        "b": "spricht"
+      },
+      {
+        "op": "replace",
+        "a": "vnd",
+        "b": "vnnd"
+      },
+      {
+        "op": "equal",
+        "a": "vrsach",
+        "b": "vrsach"
+      },
+      {
+        "op": "replace",
+        "a": "gibt",
+        "b": "geptt"
+      },
+      {
+        "op": "equal",
+        "a": "Warumb",
+        "b": "Warumb"
+      },
+      {
+        "op": "replace",
+        "a": "er ouch",
+        "b": "ex ouwen"
+      },
+      {
+        "op": "equal",
+        "a": "die",
+        "b": "die"
+      },
+      {
+        "op": "replace",
+        "a": "Kilch",
+        "b": "kilchen"
+      },
+      {
+        "op": "equal",
+        "a": "Ein",
+        "b": "ein"
+      },
+      {
+        "op": "replace",
+        "a": "brot vñ",
+        "b": "brott vnnd"
+      },
+      {
+        "op": "equal",
+        "a": "Ein",
+        "b": "ein"
+      },
+      {
+        "op": "replace",
+        "a": "lychnã",
+        "b": "lich nam"
+      },
+      {
+        "op": "equal",
+        "a": "genempt",
+        "b": "genempt"
+      },
+      {
+        "op": "replace",
+        "a": "habe",
+        "b": "hege"
+      },
+      {
+        "op": "equal",
+        "a": "dañ wir all",
+        "b": "Dann wir all"
+      },
+      {
+        "op": "replace",
+        "a": "miteinander teylhafftig",
+        "b": "mit ein andern theilhafft"
+      },
+      {
+        "op": "equal",
+        "a": "sind võ einem",
+        "b": "sind von einem"
+      },
+      {
+        "op": "replace",
+        "a": "brot",
+        "b": "brott"
+      },
+      {
+        "op": "equal",
+        "a": "Hie ist aber ein ander",
+        "b": "hie Ist aber ein ander"
+      },
+      {
+        "op": "replace",
+        "a": "Prosapodosis dz ist",
+        "b": "pro sapodosis Das is"
+      },
+      {
+        "op": "equal",
+        "a": "ein",
+        "b": "ein"
+      },
+      {
+        "op": "replace",
+        "a": "vrsach in",
+        "b": "Ersach Inn"
+      },
+      {
+        "op": "equal",
+        "a": "dem",
+        "b": "dem"
+      },
+      {
+        "op": "replace",
+        "a": "wört ly",
+        "b": "worth"
+      },
+      {
+        "op": "equal",
+        "a": "da er",
+        "b": "da er"
+      },
+      {
+        "op": "replace",
+        "a": "spricht",
+        "b": "sprichtt"
+      },
+      {
+        "op": "equal",
+        "a": "Dann welches ein",
+        "b": "Dann welches ein"
+      },
+      {
+        "op": "replace",
+        "a": "vrsach gibt warum ers genempt",
+        "b": "Vrsach gijt warumb voorss genampt"
+      },
+      {
+        "op": "equal",
+        "a": "habe Ein",
+        "b": "habe ein"
+      },
+      {
+        "op": "replace",
+        "a": "brot vñ",
+        "b": "brott vnnd"
+      },
+      {
+        "op": "equal",
+        "a": "Einen",
+        "b": "einen"
+      },
+      {
+        "op": "replace",
+        "a": "lychnam yedoch",
+        "b": "lichnam gedoch"
+      },
+      {
+        "op": "equal",
+        "a": "so wirt hie des",
+        "b": "so wirt hie des"
+      },
+      {
+        "op": "replace",
+        "a": "lychnãs",
+        "b": "lichuams"
+      },
+      {
+        "op": "equal",
+        "a": "Christi",
+        "b": "Christi"
+      },
+      {
+        "op": "replace",
+        "a": "nit",
+        "b": "int"
+      },
+      {
+        "op": "equal",
+        "a": "lyblich gedacht Aber des",
+        "b": "lyblich gedacht Aber des"
+      },
+      {
+        "op": "replace",
+        "a": "wirdt",
+        "b": "wirt"
+      },
+      {
+        "op": "equal",
+        "a": "gedacht in",
+        "b": "gedacht In"
+      },
+      {
+        "op": "replace",
+        "a": "einer",
+        "b": "einen"
+      },
+      {
+        "op": "equal",
+        "a": "sum das wir die",
+        "b": "Sum Das wir die"
+      },
+      {
+        "op": "replace",
+        "a": "menge",
+        "b": "meeste"
+      },
+      {
+        "op": "equal",
+        "a": "das ist die Christenlich",
+        "b": "Das ist Die Christenlich"
+      },
+      {
+        "op": "replace",
+        "a": "gemeynd",
+        "b": "gemeind"
+      },
+      {
+        "op": "equal",
+        "a": "ein",
+        "b": "ein"
+      },
+      {
+        "op": "replace",
+        "a": "gemeind des lychnams vnnd Blůts Christi sygend ein Brot vnnd ein lychnam sygend",
+        "b": "gemeine"
       }
     ],
-    "ops": 38,
+    "ops": 55,
     "truncated": false
   }
 }

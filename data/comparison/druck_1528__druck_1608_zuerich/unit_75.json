@@ -8,7 +8,7 @@
       98
     ]
   },
-  "alignment_score": 0.3943,
+  "alignment_score": 0.473,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -27,23 +27,19 @@
     "matched": 6,
     "only_a": 1,
     "only_b": 3,
-    "similarity": 0.4737,
+    "similarity": 0.5103,
     "pairs": [
       {
         "op": "match",
         "a": "Schlußred. in ſin nechſten menſchẽ in ein Chriſtenlich gemeind/den\nDa zwytracht/vneinigkeit/ſtifft in vnſern vnbeflecken\nglouben/vñ der da ſicht wider den rechten verſtand des\nwort gottes/vñ nüw rotten/vñ ſeckten ſtifft.",
         "b": "64        Die erſt\n\nMenſchen in ein Chriſtenlich gemeind / den der da zwy-\ntracht / vneinigkeit ſtifft in vnſern vnbefleckten glouben/ vnnd der da ficht wider den rechten verſtand deß Worts\nGottes/vnd nüw Rotten/vnnd Seckten ſtifft.",
-        "similarity": 0.6197,
-        "semantic": 0.568,
-        "reading": "check"
+        "similarity": 0.6761
       },
       {
         "op": "match",
         "a": "Witer ſo\nzeygt der text hie luter vñ klar an/dz der herr redt von\nergernuß/darumb ſagt der herr/weñ ein glid dir erger=\nnus gibt/ſo ſchnids ab/vñ wirffs võ dir/zc.",
         "b": "Wyter ſo\nzeigt der Text hie luter vnd klar an / daß der Herz redt von\nErgernuß/darumb ſagt der Herz /",
-        "similarity": 0.5091,
-        "semantic": 0.5057,
-        "reading": "check"
+        "similarity": 0.5455
       },
       {
         "op": "only_b",
@@ -55,9 +51,7 @@
         "op": "match",
         "a": "Das on zwif\nfel von geiſtlichen glidern des herrn zeuerſton iſt/ſo ein\nmenſch den andern/oder einer ganzen Chriſtẽ gemeind\nergernuß gibt/dañ je kein gröſſer ergernus nit iſt/dañ zer\ntrengnung in vnſerm vnbefleckten gloubẽ/darumb her=\nnach volgt/dz diſer text voruß vñ voran in dißem vall\nze verſton iſt.",
         "b": "oder einer gantzen Chriſten gemeind\nErgernuß gibt/dann je kein groͤſſer Ergernuß nit iſt/dann\nzertrennung in vnſerm vnbefleckten glouben /",
-        "similarity": 0.3243,
-        "semantic": 0.6416,
-        "reading": "reworded"
+        "similarity": 0.3784
       },
       {
         "op": "only_b",
@@ -69,25 +63,19 @@
         "op": "match",
         "a": "Zum dritten hat min herr Doctor antwurt\ngeben/wie das diſer text verſtandẽ ſoll werden/nit von\nder gemeiner Chriſtenlichen Kilchen/ſonder vonn einer\nyegklichen Kilchen/für ſich ſelbs alſo/das ein yegkliche/",
         "b": "nit von\nder gemeiner Chriſtenlichen Kilchen/ſonder von einer jeg-\nlichen Kilchen / fuͤr ſich ſelbs alſo / das ein jegliche /",
-        "similarity": 0.5283,
-        "semantic": 0.6314,
-        "reading": "same"
+        "similarity": 0.5283
       },
       {
         "op": "match",
         "a": "einige Kilch in ſtuckẽ des gloubens handlen/vñ ſpreche\nmög vñ nit vonnören zů er warre/eins gemeine ſpruchs\nvon gemeiner Chriſtenlichen Kilchen/wider dißen ſinen\nverſtand/arguier ich alſo.",
         "b": "einige\nKilch in ſtucken deß gloubens handlen/ vnd ſprechen moͤg/ vnnd nit von noͤten zuͦ erwarten eins gemeinen Spruchs\nvon gemeiner Chriſtenlichen Kilchen /",
-        "similarity": 0.4727,
-        "semantic": 0.8454,
-        "reading": "reworded"
+        "similarity": 0.5455
       },
       {
         "op": "match",
         "a": "Ein yegkliche einige Kilch/ mag in ſtucken des gloubens jrr gon/darumb dann key=\nne in ſtucken des gloubens vrteylen mag/dañ yeder rich\nter den wir habenn ſöllen in hendlen des gloubens/on=\nſträfflich ſoll ſin vnd nit mögen jrren.",
         "b": "wider diſen ſinen\nverſtand arguier ich alſo. Ein jegliche Kilch/mag in ſtucken\ndeß gloubens jrz gon / darumb dann keine in ſtucken deß\ngloubens vrteilen mag /",
-        "similarity": 0.3881,
-        "semantic": 0.692,
-        "reading": "reworded"
+        "similarity": 0.3881
       },
       {
         "op": "only_a",
@@ -101,15 +89,10 @@
         "b": "dann je der Richter den wir haben\nſoͤllen in hendlen deß gloubens / vnſtraͤfflich ſoll ſin / vnnd\nnit moͤgen jrꝛen. Marti-",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6473,
-    "reworded": 3,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5941,
+    "similarity": 0.6337,
     "words": {
       "a": 271,
       "b": 234
@@ -117,13 +100,13 @@
     "segments": [
       {
         "op": "replace",
-        "a": "Schlußred in ſin nechſten menſchẽ",
-        "b": "64 Die erſt Menſchen"
+        "a": "Schlußred in ſin nechſten",
+        "b": "64 Die erſt"
       },
       {
         "op": "equal",
-        "a": "in ein Chriſtenlich gemeind den",
-        "b": "in ein Chriſtenlich gemeind den"
+        "a": "menſchẽ in ein Chriſtenlich gemeind den",
+        "b": "Menſchen in ein Chriſtenlich gemeind den"
       },
       {
         "op": "insert",
@@ -182,18 +165,8 @@
       },
       {
         "op": "equal",
-        "a": "gottes",
-        "b": "Gottes"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "nüw rotten",
-        "b": "nüw Rotten"
+        "a": "gottes vñ nüw rotten",
+        "b": "Gottes vnd nüw Rotten"
       },
       {
         "op": "replace",
@@ -222,18 +195,8 @@
       },
       {
         "op": "equal",
-        "a": "der text hie luter",
-        "b": "der Text hie luter"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "klar an",
-        "b": "klar an"
+        "a": "der text hie luter vñ klar an",
+        "b": "der Text hie luter vnd klar an"
       },
       {
         "op": "replace",
@@ -257,13 +220,13 @@
       },
       {
         "op": "replace",
-        "a": "herr weñ",
-        "b": "Herz wenn"
+        "a": "herr",
+        "b": "Herz"
       },
       {
         "op": "equal",
-        "a": "ein glid dir erger",
-        "b": "ein glid dir erger"
+        "a": "weñ ein glid dir erger",
+        "b": "wenn ein glid dir erger"
       },
       {
         "op": "replace",
@@ -272,18 +235,8 @@
       },
       {
         "op": "equal",
-        "a": "gibt ſo ſchnids ab vñ wirffs",
-        "b": "gibt ſo ſchnids ab vñ wirffs"
-      },
-      {
-        "op": "replace",
-        "a": "võ",
-        "b": "von"
-      },
-      {
-        "op": "equal",
-        "a": "dir",
-        "b": "dir"
+        "a": "gibt ſo ſchnids ab vñ wirffs võ dir",
+        "b": "gibt ſo ſchnids ab vñ wirffs von dir"
       },
       {
         "op": "replace",
@@ -317,13 +270,13 @@
       },
       {
         "op": "replace",
-        "a": "ganzen Chriſtẽ",
-        "b": "gantzen Chriſten"
+        "a": "ganzen",
+        "b": "gantzen"
       },
       {
         "op": "equal",
-        "a": "gemeind ergernuß gibt",
-        "b": "gemeind Ergernuß gibt"
+        "a": "Chriſtẽ gemeind ergernuß gibt",
+        "b": "Chriſten gemeind Ergernuß gibt"
       },
       {
         "op": "replace",
@@ -352,18 +305,8 @@
       },
       {
         "op": "equal",
-        "a": "in vnſerm vnbefleckten",
-        "b": "in vnſerm vnbefleckten"
-      },
-      {
-        "op": "replace",
-        "a": "gloubẽ",
-        "b": "glouben"
-      },
-      {
-        "op": "equal",
-        "a": "darumb her nach volgt",
-        "b": "darumb her nach volgt"
+        "a": "in vnſerm vnbefleckten gloubẽ darumb her nach volgt",
+        "b": "in vnſerm vnbefleckten glouben darumb her nach volgt"
       },
       {
         "op": "replace",
@@ -402,13 +345,13 @@
       },
       {
         "op": "equal",
-        "a": "Doctor antwurt geben wie das diſer text",
-        "b": "Doctor antwurt geben wie das diſer Text"
+        "a": "Doctor antwurt geben wie das diſer text verſtandẽ",
+        "b": "Doctor antwurt geben wie das diſer Text verſtanden"
       },
       {
         "op": "replace",
-        "a": "verſtandẽ ſoll",
-        "b": "verſtanden ſo ll"
+        "a": "ſoll",
+        "b": "ſo ll"
       },
       {
         "op": "equal",
@@ -452,23 +395,23 @@
       },
       {
         "op": "equal",
-        "a": "einige Kilch in",
-        "b": "einige Kilch in"
+        "a": "einige Kilch in ſtuckẽ",
+        "b": "einige Kilch in ſtucken"
       },
       {
         "op": "replace",
-        "a": "ſtuckẽ des",
-        "b": "ſtucken deß"
+        "a": "des",
+        "b": "deß"
       },
       {
         "op": "equal",
-        "a": "gloubens handlen",
-        "b": "gloubens handlen"
+        "a": "gloubens handlen vñ",
+        "b": "gloubens handlen vnd"
       },
       {
         "op": "replace",
-        "a": "vñ ſpreche mög vñ",
-        "b": "vnd ſprechen mo g vnnd"
+        "a": "ſpreche mög vñ",
+        "b": "ſprechen mo g vnnd"
       },
       {
         "op": "equal",
@@ -631,7 +574,7 @@
         "b": "mo gen jrꝛen Marti"
       }
     ],
-    "ops": 52,
+    "ops": 48,
     "truncated": false
   }
 }

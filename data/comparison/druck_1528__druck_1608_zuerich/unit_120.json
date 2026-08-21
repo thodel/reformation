@@ -8,7 +8,7 @@
       148
     ]
   },
-  "alignment_score": 0.2864,
+  "alignment_score": 0.3146,
   "coarse": {
     "paragraphs": {
       "a": 7,
@@ -33,44 +33,31 @@
         "op": "only_a",
         "a": "**Dicerſt**\n \n\nfür einen hirten vñd ſoll ſpiſen ſine ſchäffly/dann Matth. xviij. Cap. Da hatt Chriſtus ouch allein ſinen jüngern\nvoz ſinem lyden den gewalt geben/zebinden vñd entbin=\nden/was jr binden vff dem ertrich wirt bunden in dem\nhimel/aber Matth.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7952,
-        "semantic_match": "Senger. JCh mein diſer Text möge die Vßlegung nit erlyden/ darumb das Chriſtus ſy all gefragt heige / vnnd Pe-\ntrus allein für ſy all geantwurt /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "xvj. Da hatt er Petro verheyſſen\nbinden in vil himlen. **Berchtoldus.**\n \n\nD Ielange vozred/laß ich fallen/vnnd zů dem\nſpruch Matth.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7294,
-        "semantic_match": "Wen man mir bringt nach miner Gnedigen Herren von\nBern Mandat / ein offnen Spruch vß dem Euangelio\noder Geſchrifft / die das anzeigt /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "am xvj. Capitel angezogen/gib\nich die antwurt/Petrus hatt in namẽ aller Apo\nſtlen dem herrn geantwurtet/vñ alſo die verheyſſung d\nſchlüßlen in jrer aller namen empfangen Johannis am\nxxj.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6492,
-        "semantic_match": "Wen man mir bringt nach miner Gnedigen Herren von\nBern Mandat / ein offnen Spruch vß dem Euangelio\noder Geſchrifft / die das anzeigt /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Capitel. Hat jn Chriſtus ſins ampts ermant/die\nſchäffly zů weyden/das aber von binden vñd entbinden\nMatth. xviij. Capi.",
         "b": "114                    Die erſt\nſtus ſins Ampts ermant/ die Schäffly zü weiden/ das aber\nvon binden vnnd entbinden Matth. 18. capit.",
-        "similarity": 0.6,
-        "semantic": 0.5817,
-        "reading": "check"
+        "similarity": 0.6
       },
       {
         "op": "match",
         "a": "geſchriben ſtat/iſt dis tags gnůg=\nſam erklärt/das es der Kilchen geſetzt ſy/ꝛc. Berchtoldus hatt daruff den text geleſen.",
         "b": "geſchriben\nſtat / iſt diß tags gnügsam erklärt / das es der Kilchen\ngeſeyt ſy/etc. Berchtoldus hat daruff den Text geleſen.",
-        "similarity": 0.7317,
-        "semantic": 0.7933,
-        "reading": "same"
+        "similarity": 0.7317
       },
       {
         "op": "only_b",
@@ -88,9 +75,7 @@
         "op": "match",
         "a": "**Sennger.**\n \n\nI Ch mein dißer text möge die vßlegung nit erly=\nden/darumb das Chriſtus ſy all gefragt heyge/ vnd Petrus allein für ſy all geantwurt/darum\ner jne allen die ſchlüſſel heyg geben/dañ weñ das die mey\nnung Chriſti were geſin/ſo hette er wol geſprochen/jch\ngib üch die ſchlüſſel alle/wie Petrus für alle geantwurt\nhatt/der text iſt aber offenbar das er nach aller frag het\ngeſprochen zů Petro/ich wird dir geben die ſchlüſſel/nun\niſt dir zegeben vñ allen zegebẽ vnglich/der text iſt heiter\nvnd",
         "b": "ich gib üch die\nSchlüſſel allen / wie Petrus für alle geantwurt hat / der\nText iſt aber offenbar/ daß er nach aller frag het geſprochen\nzü Petro/",
-        "similarity": 0.3866,
-        "semantic": 0.3824,
-        "reading": "different"
+        "similarity": 0.3866
       },
       {
         "op": "only_b",
@@ -128,15 +113,10 @@
         "b": "vnder jnen allen Zwölffbotten/ vß trüw vnnd hitz/ vnd gähe/ für ſich ſelbs habe geantwurtet. Wiewol es iſt/ das",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6552,
-    "reworded": 0,
-    "candidates": 3,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4101,
+    "similarity": 0.4271,
     "words": {
       "a": 231,
       "b": 242
@@ -319,18 +299,8 @@
       },
       {
         "op": "equal",
-        "a": "geben",
-        "b": "geben"
-      },
-      {
-        "op": "replace",
-        "a": "dañ weñ",
-        "b": "Dann wenn"
-      },
-      {
-        "op": "equal",
-        "a": "das die",
-        "b": "das die"
+        "a": "geben dañ weñ das die",
+        "b": "geben Dann wenn das die"
       },
       {
         "op": "replace",
@@ -373,24 +343,14 @@
         "b": "er nach aller frag het geſprochen zü Petro ich wird dir geben die Schlüſſel nun iſt dir"
       },
       {
-        "op": "insert",
-        "a": "",
-        "b": "zege ben vnd allen"
-      },
-      {
-        "op": "equal",
+        "op": "replace",
         "a": "zegeben",
-        "b": "zegeben"
-      },
-      {
-        "op": "delete",
-        "a": "vñ allen zegebẽ",
-        "b": ""
+        "b": "zege ben"
       },
       {
         "op": "equal",
-        "a": "vnglich der text iſt heiter",
-        "b": "vnglich der Text iſt heiter"
+        "a": "vñ allen zegebẽ vnglich der text iſt heiter",
+        "b": "vnd allen zegeben vnglich der Text iſt heiter"
       },
       {
         "op": "insert",
@@ -408,7 +368,7 @@
         "b": "nit Petrus Es hat ouch ein gůte geſtalt das ſo Petrus der hitziger iſt ge weſen vnder jnen allen Zwölffbotten vß trüw vnnd hitz vnd gähe für ſich ſelbs habe geantwurtet Wiewol es iſt das"
       }
     ],
-    "ops": 27,
+    "ops": 25,
     "truncated": false
   }
 }

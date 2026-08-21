@@ -8,7 +8,7 @@
       358
     ]
   },
-  "alignment_score": 0.2632,
+  "alignment_score": 0.2838,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -68,7 +68,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.2381,
+    "similarity": 0.25,
     "words": {
       "a": 79,
       "b": 257
@@ -136,13 +136,13 @@
       },
       {
         "op": "replace",
-        "a": "ouch dañ",
-        "b": "onch dann"
+        "a": "ouch",
+        "b": "onch"
       },
       {
         "op": "equal",
-        "a": "er möchte die",
-        "b": "er mochte die"
+        "a": "dañ er möchte die",
+        "b": "dann er mochte die"
       },
       {
         "op": "replace",
@@ -156,8 +156,18 @@
       },
       {
         "op": "replace",
-        "a": "Heliasen vñ predigende Johan sen",
-        "b": "Helias vnd pre digenden Johannesen"
+        "a": "Heliasen",
+        "b": "Helias"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "predigende Johan sen",
+        "b": "pre digenden Johannesen"
       },
       {
         "op": "equal",
@@ -260,7 +270,7 @@
         "b": "macht benampset sonder fur ein machtt Dabij wir ouch mercken sollenn Das wie wir pott die allmechtigkeit vnnd warheit zugebenn Das er onch bij der warheit belipt die dann Darwider ist Das hie flechten vnnd blut gessen werd"
       }
     ],
-    "ops": 19,
+    "ops": 20,
     "truncated": false
   }
 }

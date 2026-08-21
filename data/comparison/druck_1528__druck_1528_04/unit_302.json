@@ -8,7 +8,7 @@
       348
     ]
   },
-  "alignment_score": 0.451,
+  "alignment_score": 0.4853,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 2,
     "only_b": 2,
-    "similarity": 0.5972,
+    "similarity": 0.6056,
     "pairs": [
       {
         "op": "only_b",
@@ -45,57 +45,43 @@
         "op": "match",
         "a": "Die vierde\nlung/wirt vns hie verkündet/darumb man ouch Gott\ndanck sagt. Ich vermein ouch/herr Benedict söll mir dz\nnit löugnen/das keiner sölich Sacrament empfachenn\nsol/er hab dann vorhin ein gloubē/das jm sin sünd durch\ndas lyden Christi verzigen syend:",
         "b": "Jch vermein ouch/ herr Benedict ſölle mir das\nnit lőugnẽ/ das keiner ſölich Sacrament empfa\nchen ſol/ er hab dann vorhin ein glouben/",
-        "similarity": 0.4706,
-        "semantic": 0.8412,
-        "reading": "reworded"
+        "similarity": 0.5294
       },
       {
         "op": "match",
         "a": "dañ das gehört darzü\ndas sich der mensch selbs bewäre/probiere/in der erstenn\nzun Corinthiern am .xi. cap. So nun der mensch erkennt/",
         "b": "dz jm\nſin ſünd durch das lydẽ Chriſti verzigen ſyend: Dann das gehört darzů/dz ſich der menſch ſelbs\nbewåre/probiere/in der erſtẽ zun Counthern am\nxj.",
-        "similarity": 0.5385,
-        "semantic": 0.4996,
-        "reading": "check"
+        "similarity": 0.5385
       },
       {
         "op": "match",
         "a": "das jm das blüt schon vßgereylt ist/so wirdt sich sin red\nnit schicken/als söll es jm aller erst vßgereylt werde.",
         "b": "cap. So nun der menſch erkennt/ das jm dz\nblůt ſchon vßgeteylt iſt/ ſo wirdt ſich ſin red nit\nſchicken/als ſölle es jm aller erſt vßgeteylt wer-\nden.",
-        "similarity": 0.6667,
-        "semantic": 0.8668,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "match",
         "a": "So\nwirt sin bewärnuß/das der wyn oder in dem wyn/syewes\nsenlich blüt/aber eins nit gestan. Pfarrer von Sant gallen.",
         "b": "So wirt ſin bewårnuß/ dz der wyn od in\ndẽ wyn/ſye wäſenlich blůt/aber eins nit geſtan. Pfarrer von ſant Gallen.",
-        "similarity": 0.7727,
-        "semantic": 0.8975,
-        "reading": "same"
+        "similarity": 0.7727
       },
       {
         "op": "match",
         "a": "Vnd die ableinung so min herr Doctor vermeint/ die wort des Kelchs/nit also zuͦ vstan sin/wölt\nich gern demütigklich/ouch eins von jm fragen/",
         "b": "Vff die ableynung ſo min herr Doctor ver-\nmeynt/ die wort des Kelchs/ nitt alſo zů verſtan\nſin/wỏlt ich gern demůtigklich/",
-        "similarity": 0.6667,
-        "semantic": 0.9114,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "match",
         "a": "zuͦ entscheidnüg/da der Herr gesagt hat: Trinckeñd all\ndarus/sprechende: Das ist min blüt/was der herr sinen\njüngeren dargereycht hab/oder was sy truncken haben.",
         "b": "ouch eins võ jm\nfragẽ/zů entſcheydung/ da der Herr geſagt hat\nTrinckend all daruß/ ſprechennde: Das iſt min\nblůt/",
-        "similarity": 0.4583,
-        "semantic": 0.8468,
-        "reading": "reworded"
+        "similarity": 0.4583
       },
       {
         "op": "match",
         "a": "Ecolampadius. Ist üch lieb/das jr üch welled verzichen der yn=\ngezognen figure/so wil ich üch von stundan vff\nüwer frag antwurten:",
         "b": "was der Herr ſinen jüngeren dargereycht\nhab/oder was ſy truncken habind. Ecolampadius. Jſt ůch lieb/das jr ůch wellen verzichẽ der yn-\ngezognen figurẽ/ſo wil ich ůch von ſtundan vfſ\nüwer",
-        "similarity": 0.6071,
-        "semantic": 0.85,
-        "reading": "same"
+        "similarity": 0.6071
       },
       {
         "op": "only_a",
@@ -109,15 +95,10 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.8162,
-    "reworded": 2,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.6147,
+    "similarity": 0.6358,
     "words": {
       "a": 239,
       "b": 236
@@ -175,18 +156,8 @@
       },
       {
         "op": "equal",
-        "a": "nit",
-        "b": "nit"
-      },
-      {
-        "op": "replace",
-        "a": "löugnen",
-        "b": "lőugnẽ"
-      },
-      {
-        "op": "equal",
-        "a": "das keiner sölich Sacrament",
-        "b": "das keiner ſölich Sacrament"
+        "a": "nit löugnen das keiner sölich Sacrament",
+        "b": "nit lőugnẽ das keiner ſölich Sacrament"
       },
       {
         "op": "replace",
@@ -195,28 +166,18 @@
       },
       {
         "op": "equal",
-        "a": "sol er hab dann vorhin ein",
-        "b": "ſol er hab dann vorhin ein"
+        "a": "sol er hab dann vorhin ein gloubē",
+        "b": "ſol er hab dann vorhin ein glouben"
       },
       {
         "op": "replace",
-        "a": "gloubē das",
-        "b": "glouben dz"
+        "a": "das",
+        "b": "dz"
       },
       {
         "op": "equal",
-        "a": "jm sin sünd durch das",
-        "b": "jm ſin ſünd durch das"
-      },
-      {
-        "op": "replace",
-        "a": "lyden",
-        "b": "lydẽ"
-      },
-      {
-        "op": "equal",
-        "a": "Christi verzigen syend",
-        "b": "Chriſti verzigen ſyend"
+        "a": "jm sin sünd durch das lyden Christi verzigen syend",
+        "b": "jm ſin ſünd durch das lydẽ Chriſti verzigen ſyend"
       },
       {
         "op": "replace",
@@ -385,28 +346,8 @@
       },
       {
         "op": "equal",
-        "a": "sin wölt ich gern demütigklich ouch eins",
-        "b": "ſin wỏlt ich gern demůtigklich ouch eins"
-      },
-      {
-        "op": "replace",
-        "a": "von",
-        "b": "võ"
-      },
-      {
-        "op": "equal",
-        "a": "jm",
-        "b": "jm"
-      },
-      {
-        "op": "replace",
-        "a": "fragen",
-        "b": "fragẽ"
-      },
-      {
-        "op": "equal",
-        "a": "zu",
-        "b": "zů"
+        "a": "sin wölt ich gern demütigklich ouch eins von jm fragen zu",
+        "b": "ſin wỏlt ich gern demůtigklich ouch eins võ jm fragẽ zů"
       },
       {
         "op": "replace",
@@ -460,13 +401,23 @@
       },
       {
         "op": "replace",
-        "a": "welled verzichen",
-        "b": "wellen verzichẽ"
+        "a": "welled",
+        "b": "wellen"
       },
       {
         "op": "equal",
-        "a": "der yn gezognen figure so wil ich üch von stundan",
-        "b": "der yn gezognen figurẽ ſo wil ich ůch von ſtundan"
+        "a": "verzichen der yn gezognen",
+        "b": "verzichẽ der yn gezognen"
+      },
+      {
+        "op": "replace",
+        "a": "figure",
+        "b": "figurẽ"
+      },
+      {
+        "op": "equal",
+        "a": "so wil ich üch von stundan",
+        "b": "ſo wil ich ůch von ſtundan"
       },
       {
         "op": "replace",
@@ -484,7 +435,7 @@
         "b": ""
       }
     ],
-    "ops": 36,
+    "ops": 33,
     "truncated": false
   }
 }

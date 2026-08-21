@@ -8,7 +8,7 @@
       379
     ]
   },
-  "alignment_score": 0.4367,
+  "alignment_score": 0.441,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,16 +27,13 @@
     "matched": 8,
     "only_a": 2,
     "only_b": 3,
-    "similarity": 0.4955,
+    "similarity": 0.5052,
     "pairs": [
       {
         "op": "only_a",
         "a": "Die vierdt\nhannis am v. Capitel/ vñnd jm gegeben sin aller gewalt\nim himmel vnd vff erden/ sölte der nit wyß vnnd mit=\ntel wüssen /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7267,
-        "semantic_match": "Schlußred. 347\nvnd vff Erden / ſoͤllte der nit wyß vnd mittel wüſſen / ſynen\nlyb moͤgen mitteilen in Krafft der offt angezognen worten.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -54,17 +51,13 @@
         "op": "match",
         "a": "Luce am ij. Capitel\nangezoge. Also der glich hatt er vil übernatürliche ding\nim lyb gewürcket vß götlicher krafft vn macht/",
         "b": "Dann als er natuͤrlich geboren / vnnd gelebet hat / durch\nMeiſter Vlrich / Luce am andern Capitel angezogen : Alſo\nder glychen hat er vil uͤbernatuͤrliche ding im Lyb gewuͤr-\ncket vß Goͤttlicher krafft vnnd macht /",
-        "similarity": 0.4407,
-        "semantic": 0.678,
-        "reading": "reworded"
+        "similarity": 0.4407
       },
       {
         "op": "match",
         "a": "als da\nist die geschicht der vßteylung der fünff Brotten/ in die\nfünff tusent menschen/ ane das so überbeliben: dann wie\nwir vß ordnung gottes vnd der natur/",
         "b": "als da iſt die Ge-\nſchicht der vßteilung der Fuͤnffbroten / in die fuͤnfftusent\nMenſchen / ane das ſo uͤber beliben :",
-        "similarity": 0.48,
-        "semantic": 0.5167,
-        "reading": "different"
+        "similarity": 0.48
       },
       {
         "op": "only_b",
@@ -76,33 +69,25 @@
         "op": "match",
         "a": "mit vñsern ougē\ndie vile der menschen mogen sehen / vnnd nur eyn oug ist\noder zwey / ein wort in vilen ozen gehört /",
         "b": "vnnd nur ein Oug iſt oder\nzwen / ein wort in vilen oren gehoͤrt / alſo ſo wir betrachten\nden ſo ſollichs redet.",
-        "similarity": 0.4091,
-        "semantic": 0.7164,
-        "reading": "reworded"
+        "similarity": 0.4091
       },
       {
         "op": "match",
         "a": "also so wir be=\ntrachten den so sollichs redet. Vnd diewyl es voz der him\nmelfart beschehen ist/ soll das wort (er ist vffgefaren) sol\nlichem nit entgegen sin.",
         "b": "Vnd diewyl es vor der Himmelfart\nbeſchechen iſt / ſoll das wort (er iſt vffgefahren) ſoͤllichem\nnit entgegen ſin. Martinus Butzer.",
-        "similarity": 0.52,
-        "semantic": 0.7179,
-        "reading": "same"
+        "similarity": 0.52
       },
       {
         "op": "match",
         "a": "Martinus Butzer\nAls wir die Artickel des gloubēs voz erzellet an=\nziehen/ damit zübewåren/ dz der lyb Christi nit\nmoge lyplich im brot geessen werden.",
         "b": "DAs wir die Artickel deß Gloubens vor erzellet an-\nziehen / damit zuͤbewaͤren / das der Lyb Chriſti nit\nmoͤge lyblich im Brot geeſſen werden :",
-        "similarity": 0.5882,
-        "semantic": 0.7592,
-        "reading": "same"
+        "similarity": 0.6275
       },
       {
         "op": "match",
         "a": "Hatt vns\nouch Paulus in der ersten Epyst. zun Corinthbern am vj. Capitel vrsach gegebē. So er åben vom Nachtmal redt\nvnd sagt das wir sin tod verkündigen/",
         "b": "Hat vns\nouch Paulus in der erſten Epiſtel zun Corinthern am 11. Capitel vrſach gegeben : Do er aͤben vom Nachtmal redt\nvnd ſagt /",
-        "similarity": 0.6154,
-        "semantic": 0.9051,
-        "reading": "same"
+        "similarity": 0.6538
       },
       {
         "op": "only_b",
@@ -114,27 +99,18 @@
         "op": "match",
         "a": "biß das er kome/ vnnd hatt da glich wol gewisst wie er allenthalben sin\nkan/ ouch wie er im Nachtmal gegenwirtig gehapt wirt\nAber in kurtzem so hatt die sach den verstand/",
         "b": "ouch wie er im Nachtmal gegentwirtig gehapt wirt: Aber in kurtzem ſo hat die ſach den verſtand / durch den\nHimel /",
-        "similarity": 0.5769,
-        "semantic": 0.8299,
-        "reading": "same"
+        "similarity": 0.5769
       },
       {
         "op": "match",
         "a": "durch den\nHimel/ vßtan wir dz geystlich herlich wåsen der gottheyt\nals so wir båtten Vnser vatter im himel /",
         "b": "verſtan wir das geiſtlich herrlich waͤſen der Gott-\nheit als ſo wir baͤtten / Vnſer Vatter im Himmel / nit das\nXx ij",
-        "similarity": 0.3333,
-        "semantic": 0.4193,
-        "reading": "different"
+        "similarity": 0.3333
       }
-    ],
-    "semantic": 0.6966,
-    "reworded": 2,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.6043,
+    "similarity": 0.6121,
     "words": {
       "a": 250,
       "b": 263
@@ -347,18 +323,18 @@
       },
       {
         "op": "equal",
-        "a": "gottes vnd der natur mit vñsern",
-        "b": "Gottes vnd der natur mit vnſern"
+        "a": "gottes vnd der natur mit",
+        "b": "Gottes vnd der natur mit"
       },
       {
         "op": "replace",
-        "a": "ougē",
-        "b": "Ougen"
+        "a": "vñsern",
+        "b": "vnſern"
       },
       {
         "op": "equal",
-        "a": "die vile der menschen",
-        "b": "die vile der Menſchen"
+        "a": "ougē die vile der menschen",
+        "b": "Ougen die vile der Menſchen"
       },
       {
         "op": "replace",
@@ -452,8 +428,18 @@
       },
       {
         "op": "replace",
-        "a": "des gloubēs voz",
-        "b": "deß Gloubens vor"
+        "a": "des",
+        "b": "deß"
+      },
+      {
+        "op": "equal",
+        "a": "gloubēs",
+        "b": "Gloubens"
+      },
+      {
+        "op": "replace",
+        "a": "voz",
+        "b": "vor"
       },
       {
         "op": "equal",
@@ -517,13 +503,13 @@
       },
       {
         "op": "equal",
-        "a": "Capitel vrsach",
-        "b": "Capitel vrſach"
+        "a": "Capitel vrsach gegebē",
+        "b": "Capitel vrſach gegeben"
       },
       {
         "op": "replace",
-        "a": "gegebē So",
-        "b": "gegeben Do"
+        "a": "So",
+        "b": "Do"
       },
       {
         "op": "equal",
@@ -676,7 +662,7 @@
         "b": "Himmel nit das Xx ij"
       }
     ],
-    "ops": 54,
+    "ops": 55,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       18
     ]
   },
-  "alignment_score": 0.9762,
+  "alignment_score": 0.9524,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,15 +27,13 @@
     "matched": 3,
     "only_a": 1,
     "only_b": 0,
-    "similarity": 0.7069,
+    "similarity": 0.6954,
     "pairs": [
       {
         "op": "match",
         "a": "vns vnd üch geſtatten / darwider zereden / pra-\ncticieren / thuͤn noch handlẽ / heimlich noch of-\nfenlich / das zuͦ hinderſtellung / vnd enkreffti-\ngung /",
         "b": "vns vnd üch geſtatten/darwider zereden/pra-\ncticieren/thůn noch handlẽ/heimlich noch of-\nfenlich/das zů hinderſtellung/vnd enkreffti-\ngung/deſſelben reichen moͤcht/ſonder das für\nvns vnd vnſere ewig nachkõmen/ſtaͤt/veſt/",
-        "similarity": 0.6897,
-        "semantic": 0.909,
-        "reading": "same"
+        "similarity": 0.6552
       },
       {
         "op": "only_a",
@@ -47,27 +45,18 @@
         "op": "match",
         "a": "all\nfuͤnd / argliſt / geuerd / vßflucht / ſchirm / hilff / vnd was hie wider ſyn moͤcht / vßbeſchloſſen. Deß zuͦ vrkund / ewigem beſtand /",
         "b": "vnuerbrochenlich getrüwlich zehalten / all\nfünd/argliſt/geuerd/vßflucht/ſchirm/hilff/ vnd was hie wider ſyn moͤcht/vßbeſchloſſen. Deß zů vrkund/ewigem beſtand/vnd gewar-\nſame/mit vnſerm vffgetrucktem Secret yn-\nſigel verwahret.",
-        "similarity": 0.7037,
-        "semantic": 0.8591,
-        "reading": "same"
+        "similarity": 0.7037
       },
       {
         "op": "match",
         "a": "vnd gewar-\nſame / mit vnſerm vffgetrucktem Secret yn-\nſigel verwahret. Beſchehen Sontag / den ſi-\nbenzehenden tag Wintermonats. Nach der\nMenſchwerdung Chriſti Jeſu vnſers Hei-\nlands / gezallt / tuſent / fuͤnffhundert / zwentzig vnd ſiben\nJahr.",
         "b": "Beſchehen Sontag/den ſi-\nbenzehenden tag Wintermonats. Nach der\nMenſchwerdung Chriſti Jeſu vnſers Hei-\nlands/gezallt/tuſent/fünffhundert/ zwenzig vnd ſiben\nJahr.",
-        "similarity": 0.7273,
-        "semantic": 0.8986,
-        "reading": "same"
+        "similarity": 0.7273
       }
-    ],
-    "semantic": 0.8889,
-    "reworded": 0,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.9091,
+    "similarity": 0.8877,
     "words": {
       "a": 96,
       "b": 91
@@ -85,8 +74,18 @@
       },
       {
         "op": "equal",
-        "a": "noch handle heimlich noch of fenlich das zu hinderſtellung vnd enkreffti gung deſſelben reichen mo cht ſonder das",
-        "b": "noch handlẽ heimlich noch of fenlich das zů hinderſtellung vnd enkreffti gung deſſelben reichen mo cht ſonder das"
+        "a": "noch",
+        "b": "noch"
+      },
+      {
+        "op": "replace",
+        "a": "handle",
+        "b": "handlẽ"
+      },
+      {
+        "op": "equal",
+        "a": "heimlich noch of fenlich das zu hinderſtellung vnd enkreffti gung deſſelben reichen mo cht ſonder das",
+        "b": "heimlich noch of fenlich das zů hinderſtellung vnd enkreffti gung deſſelben reichen mo cht ſonder das"
       },
       {
         "op": "replace",
@@ -95,8 +94,18 @@
       },
       {
         "op": "equal",
-        "a": "vns vnd vnſere ewig nachkomen ſta t veſt vnuerbrochenlich",
-        "b": "vns vnd vnſere ewig nachkõmen ſta t veſt vnuerbrochenlich"
+        "a": "vns vnd vnſere ewig",
+        "b": "vns vnd vnſere ewig"
+      },
+      {
+        "op": "replace",
+        "a": "nachkomen",
+        "b": "nachkõmen"
+      },
+      {
+        "op": "equal",
+        "a": "ſta t veſt vnuerbrochenlich",
+        "b": "ſta t veſt vnuerbrochenlich"
       },
       {
         "op": "replace",
@@ -129,7 +138,7 @@
         "b": "vnd ſiben Jahr"
       }
     ],
-    "ops": 5,
+    "ops": 7,
     "truncated": false
   }
 }

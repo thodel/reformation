@@ -8,7 +8,7 @@
       212
     ]
   },
-  "alignment_score": 0.545,
+  "alignment_score": 0.6182,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 1,
     "only_b": 3,
-    "similarity": 0.589,
+    "similarity": 0.6117,
     "pairs": [
       {
         "op": "only_a",
@@ -39,25 +39,19 @@
         "op": "match",
         "a": "Deßglichen all an=\nder/so vff diser Disputatz zů disputieren fürnämens wä\nrend/sich in das Chor verfügen/vnd sich allda/einer/oð\nder andern parthy/vnderschrybē lassen.",
         "b": "178          Die ander\ngenwürtige Diſputatz beſchriben ſind. Deßglichen all an-\nder / ſo vff diſer Diſputatz zů diſputieren fürnåmens wå-\nrend/ſich in das Chor verfügen/vnd ſich allda /",
-        "similarity": 0.75,
-        "semantic": 0.8605,
-        "reading": "same"
+        "similarity": 0.75
       },
       {
         "op": "match",
         "a": "Vnd sitmal vff\nder Predicanten parthy/vil gelerter menner sind/möge\nder gegenteil sich beraten/vñ zwen/dry/vier/oder mer/",
         "b": "einer/oder\nder andern Parthy/vnderſchryben laſſen. Vnd ſitmal vff\nder Predicanten Parthy/vil gelerter Menner ſind / mőge\nder gegentheil ſich beraten /",
-        "similarity": 0.6512,
-        "semantic": 0.7354,
-        "reading": "same"
+        "similarity": 0.6512
       },
       {
         "op": "match",
         "a": "erkiesen/die in jr aller namen wider die Schlußreden di=\nsputieren. Hienäben/so mag ouch ein yed vff beiden par\nthyen die sinen stüren/denen schrifftlich oð muntlich bera\nten vñ beholffen sin/vñ barfür bringē/wz zů erkůndigūg\ngöttlicher warheit/dienstlich ist:",
         "b": "vnd zwen / dry / vier oder mer/ erkieſen / die in jr aller namen wider die Schlußreden di-\nſputieren. Hienåben/ſo mag ouch ein jeder vff beiden Par-\nthyen die ſinen ſtüren/",
-        "similarity": 0.6301,
-        "semantic": 0.5726,
-        "reading": "check"
+        "similarity": 0.6301
       },
       {
         "op": "only_b",
@@ -69,25 +63,19 @@
         "op": "match",
         "a": "alles nach vermög vß=\ngeschribnen Mandats der Disputation. Es söllen ouch\nall priester/Predicanten/pfarrer/vñ seelsorger/vō statt\nvnd land/biß zů end diser Disputatz/hie verharrē vnd\nnit verrucken.",
         "b": "Predicanten / Pfarrer/ vnd Seelſorger/von\nStatt vnd Land/biß zů end diſer Diſputatz/hie verharren\nvnd nit verzucken. Demnach hat Niclaus Manuel/Vogt zů\nErlach/nochuolgende red gethan.",
-        "similarity": 0.4746,
-        "semantic": 0.704,
-        "reading": "reworded"
+        "similarity": 0.5763
       },
       {
         "op": "match",
         "a": "**Demnach hat Niclaus Manuel/Vogt**\n**zů Erlach/nachuolgendered gethan.**\n\nEwůrdigen gelerten/Es sol niemant erachten/ das vnsere gnädigen herren/allein begirig syen/",
         "b": "ERwürdigen gelerten / Es ſoll niemant erachten / das\nvnſere Gnedigen Herren / allein begirig ſyen/das die\nfürgetragnen Artickel durch jre Predicanten /",
-        "similarity": 0.4762,
-        "semantic": 0.6977,
-        "reading": "reworded"
+        "similarity": 0.4762
       },
       {
         "op": "match",
         "a": "das die fürgetragnē artickel durch jre Predican\nten/sampt der leer so darus flüßt/erhalten werdē/sun=\nder allein ist jr fürnämen/die warheit von Göttlichem\nwort zů erforschen/ob die artickel in göttlicher geschrifft\nE ij",
         "b": "ſampt\nder leer ſo daruß flüßt/erhalten werden / ſunder allein iſt jr\nfürnåmen / die Warheit von Göttlichem Wort zů erfor-\nſchen /",
-        "similarity": 0.5517,
-        "semantic": 0.8832,
-        "reading": "same"
+        "similarity": 0.5862
       },
       {
         "op": "only_b",
@@ -101,15 +89,10 @@
         "b": "ſo trüwlich zůſammen halten/ darumb bit vnd erman ich üch abermals vmb Gotts wil-\nlen/",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7422,
-    "reworded": 2,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.6756,
+    "similarity": 0.72,
     "words": {
       "a": 232,
       "b": 218
@@ -142,18 +125,8 @@
       },
       {
         "op": "equal",
-        "a": "der andern parthy",
-        "b": "der andern Parthy"
-      },
-      {
-        "op": "replace",
-        "a": "vnderschrybē",
-        "b": "vnderſchryben"
-      },
-      {
-        "op": "equal",
-        "a": "lassen Vnd sitmal vff der Predicanten parthy vil gelerter menner sind möge der",
-        "b": "laſſen Vnd ſitmal vff der Predicanten Parthy vil gelerter Menner ſind mőge der"
+        "a": "der andern parthy vnderschrybē lassen Vnd sitmal vff der Predicanten parthy vil gelerter menner sind möge der",
+        "b": "der andern Parthy vnderſchryben laſſen Vnd ſitmal vff der Predicanten Parthy vil gelerter Menner ſind mőge der"
       },
       {
         "op": "replace",
@@ -162,18 +135,8 @@
       },
       {
         "op": "equal",
-        "a": "sich beraten",
-        "b": "ſich beraten"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "zwen dry vier oder mer erkiesen die in jr aller namen wider die Schlußreden di sputieren Hienäben so mag ouch ein",
-        "b": "zwen dry vier oder mer erkieſen die in jr aller namen wider die Schlußreden di ſputieren Hienåben ſo mag ouch ein"
+        "a": "sich beraten vñ zwen dry vier oder mer erkiesen die in jr aller namen wider die Schlußreden di sputieren Hienäben so mag ouch ein",
+        "b": "ſich beraten vnd zwen dry vier oder mer erkieſen die in jr aller namen wider die Schlußreden di ſputieren Hienåben ſo mag ouch ein"
       },
       {
         "op": "replace",
@@ -197,18 +160,28 @@
       },
       {
         "op": "replace",
-        "a": "bera ten vñ",
-        "b": "be raten vnd"
+        "a": "bera ten",
+        "b": "be raten"
       },
       {
         "op": "equal",
-        "a": "beholffen sin",
-        "b": "beholffen ſin"
+        "a": "vñ beholffen sin vñ",
+        "b": "vnd beholffen ſin vnd"
       },
       {
         "op": "replace",
-        "a": "vñ barfür bringē wz",
-        "b": "vnd harfür bringen was"
+        "a": "barfür",
+        "b": "harfür"
+      },
+      {
+        "op": "equal",
+        "a": "bringē",
+        "b": "bringen"
+      },
+      {
+        "op": "replace",
+        "a": "wz",
+        "b": "was"
       },
       {
         "op": "equal",
@@ -232,38 +205,8 @@
       },
       {
         "op": "equal",
-        "a": "Mandats der Disputation Es söllen ouch all priester Predicanten pfarrer",
-        "b": "Mandats der Diſputation Es ſöllen ouch all Prieſter Predicanten Pfarrer"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "seelsorger",
-        "b": "Seelſorger"
-      },
-      {
-        "op": "replace",
-        "a": "vō",
-        "b": "von"
-      },
-      {
-        "op": "equal",
-        "a": "statt vnd land biß zů end diser Disputatz hie",
-        "b": "Statt vnd Land biß zů end diſer Diſputatz hie"
-      },
-      {
-        "op": "replace",
-        "a": "verharrē",
-        "b": "verharren"
-      },
-      {
-        "op": "equal",
-        "a": "vnd nit",
-        "b": "vnd nit"
+        "a": "Mandats der Disputation Es söllen ouch all priester Predicanten pfarrer vñ seelsorger vō statt vnd land biß zů end diser Disputatz hie verharrē vnd nit",
+        "b": "Mandats der Diſputation Es ſöllen ouch all Prieſter Predicanten Pfarrer vnd Seelſorger von Statt vnd Land biß zů end diſer Diſputatz hie verharren vnd nit"
       },
       {
         "op": "replace",
@@ -312,18 +255,8 @@
       },
       {
         "op": "equal",
-        "a": "herren allein begirig syen das die",
-        "b": "Herren allein begirig ſyen das die"
-      },
-      {
-        "op": "replace",
-        "a": "fürgetragnē",
-        "b": "fürgetragnen"
-      },
-      {
-        "op": "equal",
-        "a": "artickel durch jre",
-        "b": "Artickel durch jre"
+        "a": "herren allein begirig syen das die fürgetragnē artickel durch jre",
+        "b": "Herren allein begirig ſyen das die fürgetragnen Artickel durch jre"
       },
       {
         "op": "replace",
@@ -342,13 +275,13 @@
       },
       {
         "op": "equal",
-        "a": "flüßt erhalten",
-        "b": "flüßt erhalten"
+        "a": "flüßt erhalten werdē",
+        "b": "flüßt erhalten werden"
       },
       {
         "op": "replace",
-        "a": "werdē sun der",
-        "b": "werden ſunder"
+        "a": "sun der",
+        "b": "ſunder"
       },
       {
         "op": "equal",
@@ -371,7 +304,7 @@
         "b": "beſtanden oder jr widerſprechend Jr ſechend ouch wie ſich die ſo die Artickel für gůt bekennen ſo trüwlich zůſammen halten darumb bit vnd erman ich üch abermals vmb Gotts wil len"
       }
     ],
-    "ops": 26,
+    "ops": 21,
     "truncated": false
   }
 }

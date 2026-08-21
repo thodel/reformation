@@ -8,7 +8,7 @@
       81
     ]
   },
-  "alignment_score": 0.4231,
+  "alignment_score": 0.4327,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 3,
     "only_b": 4,
-    "similarity": 0.426,
+    "similarity": 0.4438,
     "pairs": [
       {
         "op": "only_a",
@@ -39,10 +39,7 @@
         "op": "only_a",
         "a": "ſonders in dem geyſt/das der zeſtraffen ſye/der alſo läbte\nin der vnluterkeyt als die Heyden/dz er den ſelben ouch\nhab geben dem ſyend/oder tüffel/welcher text/den vor=\ndrigen anzognen text erklärr vnd erlüttert/vnd dem da\nnit widerwertig wirt erfunden/als ich hoff.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6894,
-        "semantic_match": "dann\nes gericht iſt/ durch das ewig wort/ aber der mißuerſtand\nder Geſchrifft/derſelb eruoꝛſchet ein goͤttlich vßlegen. Vnd\n\n## Marginalien\n[unleserlich]gnem\n[unleserlich]Herr\n[unleserlich]lichen\n[unleserlich]er nit\n[unleserlich]/dem\n\n[unleserlich]rede iſt\n[unleserlich]beuol=\n[unleserlich]zuͤ Ab=\n[unleserlich]ſlych=\n[unleserlich]gewalt\n[unleserlich]aſt wol\n[unleserlich]ich an=\n[unleserlich]groß\n[unleserlich]lichen\n[unleserlich]alten/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -54,41 +51,31 @@
         "op": "match",
         "a": "Berchtoldus. [H]Err Pfarrer/ir ſtond vns zů/doch nit vns/ſon\nder der geſchrifft/welche vns leret/dz Christus\nein beuelch hab geben einer yeglichen Kilchhözy\noder Pfarr/den vnuerschämpten ſünder zebannen.",
         "b": "Berchtoldus. HErr Pfarrer/ir stond vns zuͤ/doch nit vns/ſonder der\nGeſchrifft/ welche vns leeret/ daß Chriſtus ein be=\nuelch hab geben einer jeglichen Kilch hoͤry oder Pfarr/",
-        "similarity": 0.6349,
-        "semantic": 0.9342,
-        "reading": "same"
+        "similarity": 0.6349
       },
       {
         "op": "match",
         "a": "Wel\nche vßſchlieſſung mit jr bringt ein crütz vnd bitterkeit/ damit des lybs begird vnd mütwil/getämpt wirt/ vnd\nder ſünder trungen zů erkantnuß ſiner ſünd/",
         "b": "den vnuerſchaͤmpten Suͤnder zebannen. Welche vßſchlieſ=\nſung mit jr bringt ein Cruͤtz vnnd Bitterkeit/ damit deß\nLybs begird vnd muͤtwil getaͤmpt wirt/",
-        "similarity": 0.3774,
-        "semantic": 0.7358,
-        "reading": "reworded"
+        "similarity": 0.3774
       },
       {
         "op": "match",
         "a": "vñ ſin geiſt\nſälig werd/darumb hand jr noch nit probiert/dhein ge=\nwalt/den die Kilch hab/nach jrem geuallen zebruchen/",
         "b": "vnd der Suͤnder\ntrungen zuͤ Erkantnuß ſiner Suͤnd/ vnnd ſin Geiſt ſaͤlig\nwerd/darumb hand jr noch nit probiert/",
-        "similarity": 0.4091,
-        "semantic": 0.8978,
-        "reading": "reworded"
+        "similarity": 0.4545
       },
       {
         "op": "match",
         "a": "ſonders ein beuelch mit den rüdigen ſchäfflin/zehandlen/ vnnd bitt üch vmb geſchrifft/damit jr anzeygend/das\nein ander houpt ſye dan Christus/dz ouch gewallt hab\ndie Kilchen zů verwalten.",
         "b": "kein gewalt/den\ndie Kilch hat/nach irem geuallen zebruchen/ſonders ein be=\nuelch mit den ruͤdigen Schaͤfflin zehandlen/vnnd bitt uͤch\nvmb Geſchrifft/damit jr anzeigend/",
-        "similarity": 0.3607,
-        "semantic": 0.7033,
-        "reading": "reworded"
+        "similarity": 0.3607
       },
       {
         "op": "match",
         "a": "Pfarrer. [A]Ls min herr Predicāt ſpricht/jch habs mit jm/ nit allein mit jm/ſonders mit dem wotr Got=\ntes.",
         "b": "das ein ander Houpt\nſye dann Chriſtus/ das ouch gewalt hab die Kilchen zuͤ\nverwalten. Pfarrer. ALls min Herr Predicant ſpricht/ich habs mit jm/",
-        "similarity": 0.3478,
-        "semantic": 0.8478,
-        "reading": "reworded"
+        "similarity": 0.3913
       },
       {
         "op": "only_a",
@@ -114,15 +101,10 @@
         "b": "[unleserlich]inden/ [unleserlich]Corin=\n[unleserlich]lt (als\n[unleserlich]n hat/ [unleserlich]ers in\n[unleserlich]er vns\n[unleserlich]geben\n[unleserlich]an=\n[unleserlich]gnen",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.8014,
-    "reworded": 4,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4286,
+    "similarity": 0.4324,
     "words": {
       "a": 234,
       "b": 284
@@ -400,18 +382,8 @@
       },
       {
         "op": "equal",
-        "a": "min herr",
-        "b": "min Herr"
-      },
-      {
-        "op": "replace",
-        "a": "Predicāt",
-        "b": "Predicant"
-      },
-      {
-        "op": "equal",
-        "a": "ſpricht jch habs mit jm nit allein mit jm ſonders mit dem",
-        "b": "ſpricht ich habs mit jm nit allein mit jm ſonders mit dem"
+        "a": "min herr Predicāt ſpricht jch habs mit jm nit allein mit jm ſonders mit dem",
+        "b": "min Herr Predicant ſpricht ich habs mit jm nit allein mit jm ſonders mit dem"
       },
       {
         "op": "replace",
@@ -429,7 +401,7 @@
         "b": "mit jm nemlich mit dem Wort Gottes wo das ein rechten verſtand hett wider das nit zeſin dann ob Gott wil niemand iſt der wider das ha ll wort Gottes ſye welches keines richters darff dann es gericht iſt durch das ewig wort aber der mißuerſtand der Geſchrifft derſelb eruoꝛſchet ein go ttlich vßlegen Vnd Marginalien unleserlich gnem unleserlich Herr unleserlich lichen unleserlich er nit unleserlich dem unleserlich rede iſt unleserlich beuol unleserlich zu Ab unleserlich ſlych unleserlich gewalt unleserlich aſt wol unleserlich ich an unleserlich groß unleserlich lichen unleserlich alten unleserlich inden unleserlich Corin unleserlich lt als unleserlich n hat unleserlich ers in unleserlich er vns unleserlich geben unleserlich an unleserlich gnen"
       }
     ],
-    "ops": 30,
+    "ops": 29,
     "truncated": false
   }
 }

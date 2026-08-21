@@ -8,7 +8,7 @@
       441
     ]
   },
-  "alignment_score": 0.3631,
+  "alignment_score": 0.369,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 4,
     "only_b": 3,
-    "similarity": 0.66,
+    "similarity": 0.68,
     "pairs": [
       {
         "op": "only_a",
@@ -45,19 +45,13 @@
         "op": "only_a",
         "a": "Gilg Murer. Wir haben es bewärt/mit vnſer Diſtinction. Butzer. DIe ſelbig Diſtinction iſt ane geſchrifft:des anderen\nteyls halb /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.609,
-        "semantic_match": "Schlußred. 409\nGilg Murer. WJr fragen hie/ zů mehrer erkantnuß / was das rein\nOpffer sye/von dem Malachias schribt. Butzer.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "nãmlich des vermeinten Mäßopffers\nhalb/das ſy geyſtlich nemen/vnd doch liplich iſt. Gilg Murer. WIr fragen hie / zů merer erkantnus /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7155,
-        "semantic_match": "Schlußred. 409\nGilg Murer. WJr fragen hie/ zů mehrer erkantnuß / was das rein\nOpffer sye/von dem Malachias schribt. Butzer.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -69,25 +63,19 @@
         "op": "match",
         "a": "was das reyn\nopffer ſye/von dem Malachias ſchribt. Butzer. ANtwurt. Es ſind die rechtglöubigen hertzen/ir\ngebätt/vñ gantz begäbung/in den willen gottes\ndie werden dem herrn zůbereyt/durch die predi\nger des Euangelij/dauon Paulus zuñ Römern am xv.",
         "b": "ANtwurt. Es sind die Rechtglöubigen Hertzen/ jr\nGebätt/ vnd gantz begebung in den willen Gottes/ die werden dem Herten zůbereit/durch die Prediger\ndeß Euangelij/dauon Paulus zun Römern am 15.",
-        "similarity": 0.6575,
-        "semantic": 0.7775,
-        "reading": "same"
+        "similarity": 0.6849
       },
       {
         "op": "match",
         "a": "Ich bin ein diener Chriſti zů den Heyden/reich jnen dar\ndas Euangelium gottes/das dz opffer der Heyden an\ngenäm ſye/geheyliget durch den heyligen geyſt.",
         "b": "Jch\nbin ein Diener Christi zů den Heiden/reich jnen dar das\nEuangelium Gottes/das das Opffer der Heiden ange-\nnem sye/geheiliget durch den Heiligen Geist.",
-        "similarity": 0.6667,
-        "semantic": 0.6654,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "match",
         "a": "Gilg murer. ALs vns̄ geantwurt iſt worden/das rein opffer/ſyen\ndie glöubigen/mit jren bätte vnd der glichen:mag\nhie nit verſtanden werden/dann alle vnſer gerech\ntigkeyt / iſt vnſuber vor Gott / als ſy ſelbs anred ſynd/",
         "b": "Gilg Murer. Als vns geantwurt ist wordẽ/das rein Opffer/syen\ndie Glöubigen/mit jren Bätte vnnd derglychen: mag hie nit verstanden werden /",
-        "similarity": 0.6557,
-        "semantic": 0.8312,
-        "reading": "same"
+        "similarity": 0.6885
       },
       {
         "op": "only_b",
@@ -101,15 +89,10 @@
         "b": "das ein ander rein Opffer werde geben / das disem Text\nglychförmig sye. Martinus Butzerus. DEßhalb sagt Paulus/ geheiliget durch den Heili-\ngen Geist/in vor angezeigten worten/so werden die\nHertzen von jnen selbs vnrein/durch den Glouben\nrein. Actorum 15. zun Römern 12. Fff",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7197,
-    "reworded": 0,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4986,
+    "similarity": 0.5098,
     "words": {
       "a": 189,
       "b": 168
@@ -157,18 +140,8 @@
       },
       {
         "op": "equal",
-        "a": "opffer ſye von dem Malachias ſchribt Butzer ANtwurt Es ſind die rechtglöubigen hertzen ir gebätt",
-        "b": "Opffer sye von dem Malachias schribt Butzer ANtwurt Es sind die Rechtglöubigen Hertzen jr Gebätt"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "gantz",
-        "b": "gantz"
+        "a": "opffer ſye von dem Malachias ſchribt Butzer ANtwurt Es ſind die rechtglöubigen hertzen ir gebätt vñ gantz",
+        "b": "Opffer sye von dem Malachias schribt Butzer ANtwurt Es sind die Rechtglöubigen Hertzen jr Gebätt vnd gantz"
       },
       {
         "op": "replace",
@@ -257,18 +230,8 @@
       },
       {
         "op": "equal",
-        "a": "Gilg murer ALs vns geantwurt iſt",
-        "b": "Gilg Murer Als vns geantwurt ist"
-      },
-      {
-        "op": "replace",
-        "a": "worden",
-        "b": "wordẽ"
-      },
-      {
-        "op": "equal",
-        "a": "das rein opffer ſyen die glöubigen mit jren bätte",
-        "b": "das rein Opffer syen die Glöubigen mit jren Bätte"
+        "a": "Gilg murer ALs vns geantwurt iſt worden das rein opffer ſyen die glöubigen mit jren bätte",
+        "b": "Gilg Murer Als vns geantwurt ist wordẽ das rein Opffer syen die Glöubigen mit jren Bätte"
       },
       {
         "op": "replace",
@@ -296,7 +259,7 @@
         "b": "vnd ouch Esaias dasselb bezüget darumb so ist nottwendig das ein ander rein Opffer werde geben das disem Text glychförmig sye Martinus Butzerus DEßhalb sagt Paulus geheiliget durch den Heili gen Geist in vor angezeigten worten so werden die Hertzen von jnen selbs vnrein durch den Glouben rein Actorum 15 zun Römern 12 Fff"
       }
     ],
-    "ops": 18,
+    "ops": 16,
     "truncated": false
   }
 }

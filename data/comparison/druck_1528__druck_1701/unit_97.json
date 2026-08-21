@@ -8,7 +8,7 @@
       105
     ]
   },
-  "alignment_score": 0.245,
+  "alignment_score": 0.2753,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,25 +27,19 @@
     "matched": 4,
     "only_a": 2,
     "only_b": 9,
-    "similarity": 0.439,
+    "similarity": 0.4631,
     "pairs": [
       {
         "op": "only_a",
         "a": "Die erſt\ndas er ſöllichs zeurteylen / ouch eynem yeden Chriſten/ müß zůgeben/dann nach dem gebott Chriſti/ ſo ſoll eyn\nyeder ſin ſündigen brůder ſtraffen/das kan er nun nitt\nBillich thůn/er hab jn dann recht vnnd Billich als ein ſün=\nder vnd jrrigen geurteylet.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6941,
-        "semantic_match": "diß begegnet nun endlichen allen / die Gott\nzum ewigen Leben verordnet hat / dann er berüfft ſölche/ macht ſie fromm und ſelig /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Zum anderen/diewil ſin men=\nſchliche ynred/ By den einfaltigen/ eyn ſchin möchte ha=\nben/als ob mer eynigkeyt im glouben zůhoffen wer/wo\ndie ſachen des gloubens/durch ein gemeyn Concilium\nentſcheyden wurden.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6575,
-        "semantic_match": "der hat das ewig Leben/hat der Provincial aber ohn alle\nGeſchrifft ein Ynred gethan: Es ſey nit gnůg / daß einer\nglaube /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -57,9 +51,7 @@
         "op": "match",
         "a": "So erman ich üch lieben Chriſten\njr wellend yndenck ſin/des/ſo ich üch hüt vß Göttlicher\ngeſchrifft håll vnnd klar hab dargethon.",
         "b": "So ermahn ich euch/liebe Chriſten/ihr wöllend yn-\ndenck ſyn deß/ſo ich euch hüt vß Göttlicher Geſchrifft häll\nund klar hab dargethon:",
-        "similarity": 0.5532,
-        "semantic": 0.9014,
-        "reading": "same"
+        "similarity": 0.5532
       },
       {
         "op": "only_b",
@@ -71,9 +63,7 @@
         "op": "match",
         "a": "Namlich das\nrechter verſtand des wort Gottes vnnd eynigkeyt des\ngloubens/durch keinen huffen der menſchen die von jnen\nſelbs lugner ſind/gefürdert werden mag/ſonders wir\nmüſſen durch den geyſt Gottes im hertzen eyn jeder für\nſich ſelbs verſichert werden/dis begegnet nu endtlichen\nallen/die Gott zum ewigen läben verordnet hatt/dann\ner berüfft ſölche/macht ſy from vnnd ſälig/zun Rö=\nmern vuj.",
         "b": "gefürdert werden mag / ſonders wir müſſen durch den\nGeiſt Gottes im Hertzen/ein jeder für ſich ſelbs/verſiche-\nret werden /",
-        "similarity": 0.3721,
-        "semantic": 0.8524,
-        "reading": "reworded"
+        "similarity": 0.3721
       },
       {
         "op": "only_b",
@@ -85,9 +75,7 @@
         "op": "match",
         "a": "Capi. Da nebē wir aber wie hüt geſagt/mag\nein Kilch etliche ort ð geſchrifft anderſt verſton/wañ die\nandere/wie dañ geſchicht von diſem ſpruch/das iſt minn\nlyb/nit allein zwüſchend der Kilchē/zů Wittenberg/vñ\ndera von Zůrich/ſondert ouch vil andern mer/wo aber\ndz vertruwē vff den eynigen heyland Jeſum geſetzt wirt\nda hat man dz ewig läbē/Joan.",
         "b": "zun Römern am 8. Cap. Da-\nneben aber / wie wir hüt geſagt/mag ein Kilch etliche Ort\nder Geſchrifft anderſt verſtohn/wann die andere/wie dann\ngeſchicht von diſem Spruch /",
-        "similarity": 0.4043,
-        "semantic": 0.3398,
-        "reading": "different"
+        "similarity": 0.4681
       },
       {
         "op": "only_b",
@@ -105,9 +93,7 @@
         "op": "match",
         "a": "am vj. cap. Vñ mögent\nſölche zweyung endtlich nit ſchade/dz vertruwē vff gott/ welches der erwellten läben iſt/wirt für faren/vñ durch\nGottes geyſt noch volkomen werden/vnd kein end nie=\nmermer nemen",
         "b": "Cap. und mögend ſölche\nZweyung endlich nit ſchaden/das Vertrauen uff Gott/ welches der erwehlten Leben iſt/wird fürfahren/und durch\nGottes Geiſt noch vollkommen werden /",
-        "similarity": 0.4262,
-        "semantic": 0.6723,
-        "reading": "reworded"
+        "similarity": 0.459
       },
       {
         "op": "only_b",
@@ -133,15 +119,10 @@
         "b": "under denen vil ver-\nworffen ſind / die kein Glauben nie erſchmacket haben/ glaubt",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6862,
-    "reworded": 2,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.434,
+    "similarity": 0.4557,
     "words": {
       "a": 268,
       "b": 285
@@ -389,13 +370,13 @@
       },
       {
         "op": "equal",
-        "a": "Da",
-        "b": "Da"
+        "a": "Da nebē",
+        "b": "Da neben"
       },
       {
-        "op": "replace",
-        "a": "nebē wir",
-        "b": "neben"
+        "op": "delete",
+        "a": "wir",
+        "b": ""
       },
       {
         "op": "equal",
@@ -424,23 +405,13 @@
       },
       {
         "op": "replace",
-        "a": "verſton wañ",
-        "b": "verſtohn wann"
+        "a": "verſton",
+        "b": "verſtohn"
       },
       {
         "op": "equal",
-        "a": "die andere wie",
-        "b": "die andere wie"
-      },
-      {
-        "op": "replace",
-        "a": "dañ",
-        "b": "dann"
-      },
-      {
-        "op": "equal",
-        "a": "geſchicht von diſem ſpruch das iſt",
-        "b": "geſchicht von diſem Spruch Das iſt"
+        "a": "wañ die andere wie dañ geſchicht von diſem ſpruch das iſt",
+        "b": "wann die andere wie dann geſchicht von diſem Spruch Das iſt"
       },
       {
         "op": "replace",
@@ -459,28 +430,8 @@
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
-      },
-      {
-        "op": "replace",
-        "a": "Kilchē",
-        "b": "Kilchen"
-      },
-      {
-        "op": "equal",
-        "a": "zů Wittenberg",
-        "b": "zů Wittenberg"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "und"
-      },
-      {
-        "op": "equal",
-        "a": "dera von Zůrich",
-        "b": "dera von Zürich"
+        "a": "der Kilchē zů Wittenberg vñ dera von Zůrich",
+        "b": "der Kilchen zů Wittenberg und dera von Zürich"
       },
       {
         "op": "replace",
@@ -594,13 +545,13 @@
       },
       {
         "op": "replace",
-        "a": "wirt für faren vñ",
-        "b": "wird fürfahren und"
+        "a": "wirt für faren",
+        "b": "wird fürfahren"
       },
       {
         "op": "equal",
-        "a": "durch Gottes",
-        "b": "durch Gottes"
+        "a": "vñ durch Gottes",
+        "b": "und durch Gottes"
       },
       {
         "op": "replace",
@@ -638,7 +589,7 @@
         "b": "erſchmacket haben glaubt"
       }
     ],
-    "ops": 49,
+    "ops": 46,
     "truncated": false
   }
 }

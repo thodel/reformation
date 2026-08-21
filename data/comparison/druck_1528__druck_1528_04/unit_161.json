@@ -8,7 +8,7 @@
       191
     ]
   },
-  "alignment_score": 0.5,
+  "alignment_score": 0.5686,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -39,17 +39,13 @@
         "op": "match",
         "a": "Schlußred. LXXIII\n\nſonder/oder an das wort gottes/ſind vns von Chriſto\nverbotten/Matthei am xv. vnd ouch von Gott.",
         "b": "Dann sy im goͤttlichen\nwort gegruͤndt vnnd gebotten sind: ja soͤlich sa-\ntzungen/ sonder/oder one das wort gottes/sind\nvns von Christo verbotten/Matth.",
-        "similarity": 0.4167,
-        "semantic": 0.755,
-        "reading": "reworded"
+        "similarity": 0.4167
       },
       {
         "op": "match",
         "a": "Eſaie\nam xxix. ſagt der herr alſo. Darumb das ſich das volck\nzů mir nahet/mich mit ſinem mund vnd låffzen zůlobet/",
         "b": "xv vñ ouch\nvon Gott. Esaie.xxix. sagt der Herr also:Da-\nrumb das sich das volck zuͦ mir nahet /",
-        "similarity": 0.619,
-        "semantic": 0.8404,
-        "reading": "same"
+        "similarity": 0.619
       },
       {
         "op": "only_b",
@@ -67,9 +63,7 @@
         "op": "match",
         "a": "vnd doch ſin hertz wyt von mir ſert/mich nun mit men=\nſchen gebot vnd leere förchtet/ſich/darum̄ wird ich mer\nwunder mit dißem volck begon/wunderbarlich vñ ſeltzå\ndas die wißheit ſiner klůgen zů grund faren/vñ der ver\nſtand ſiner verſtåndigē zů boden gon wirt/Diß ſind die\nwort des herrn/die ſich in gegenwůrtiger zyt vor ougen\nerzeygen/wie ſich die/ſo menſchen ſatzungen gern entbiel\nten/ſo vnuerſtanden am wort Gottes abrennen/diewil\nnun Got der herr nit will/das wir jm yendert mit dienen\nnach vnſerem gůt bedunckē.",
         "b": "Diß sind die wort des Herrẽ/die\nsich in gegenwuͤrtiger zyt vor ougen erzeygen/ wie sich die/so menschen satzungen gern enthiel\nten/so vnverstandẽ am wort Gottes abrennen.",
-        "similarity": 0.4032,
-        "semantic": 0.3963,
-        "reading": "different"
+        "similarity": 0.4032
       },
       {
         "op": "only_b",
@@ -81,9 +75,7 @@
         "op": "match",
         "a": "Deuteronomij am xij. Ja\nſo das/das wir hoch achten ein grůwel vor gott iſt. Luc. am xvj. So kan vñ mag ein yetlicher from̄er Chriſt er=\nmeſſen/von welcher Kilch oder verſamlung die ſeyen/die",
         "b": "Also das/das wir hoch achtẽ\nein gruͤwel vor Gott ist/Luc.xvj. So kan vnnd\nmag ein yetlicher fromer Christ ermaͤssen /",
-        "similarity": 0.5246,
-        "semantic": 0.8057,
-        "reading": "same"
+        "similarity": 0.5246
       },
       {
         "op": "only_b",
@@ -109,15 +101,10 @@
         "b": "die\nGott\ne die\noͤtt-\nsch\nliche\ngot\numb\ners/ sens\nnuß\nbten\nfoͤl\ngatt\nnen\nbe-\nuch\nllen\natt/ th.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6994,
-    "reworded": 1,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5063,
+    "similarity": 0.5188,
     "words": {
       "a": 173,
       "b": 305
@@ -245,13 +232,13 @@
       },
       {
         "op": "equal",
-        "a": "volck begon wunderbarlich",
-        "b": "volck begon wunderbarlich"
+        "a": "volck begon wunderbarlich vñ",
+        "b": "volck begon wunderbarlich vnd"
       },
       {
         "op": "replace",
-        "a": "vñ ſeltzå",
-        "b": "vnd seltzam"
+        "a": "ſeltzå",
+        "b": "seltzam"
       },
       {
         "op": "equal",
@@ -285,18 +272,8 @@
       },
       {
         "op": "equal",
-        "a": "faren",
-        "b": "faren"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "der",
-        "b": "der"
+        "a": "faren vñ der",
+        "b": "faren vnd der"
       },
       {
         "op": "replace",
@@ -400,13 +377,13 @@
       },
       {
         "op": "replace",
-        "a": "vnſerem gůt bedunckē",
-        "b": "vnsere gu t beduncken"
+        "a": "vnſerem gůt",
+        "b": "vnsere gu t"
       },
       {
         "op": "equal",
-        "a": "Deuteronomij",
-        "b": "Deuteronomij"
+        "a": "bedunckē Deuteronomij",
+        "b": "beduncken Deuteronomij"
       },
       {
         "op": "delete",
@@ -504,7 +481,7 @@
         "b": "vo aller welt wellen geachtet vnd genempt sin va t ter in der geystligkeyt meister vnnd richter u ber dz go ttlich wort Ite die sich angenomen habe dem volck Gottes mit tro wu g ewiger verdam nus zu gebieten vnnd zu verbieten die ding die l ij Marginalien ern wir dren it ge nge vß utet h ge ton cra f statt die Gott e die o tt sch liche got umb ers sens nuß bten fo l gatt nen be uch llen att th"
       }
     ],
-    "ops": 38,
+    "ops": 37,
     "truncated": false
   }
 }

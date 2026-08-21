@@ -8,7 +8,7 @@
       119
     ]
   },
-  "alignment_score": 0.2289,
+  "alignment_score": 0.2449,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 3,
     "only_b": 3,
-    "similarity": 0.4445,
+    "similarity": 0.4611,
     "pairs": [
       {
         "op": "only_b",
@@ -57,7 +57,7 @@
         "op": "match",
         "a": "Das on zwif\nfel von geiſtlichen glidern des herrn zeuerſton iſt/ſo ein\nmenſch den andern/oder einer ganzen Chriſtẽ gemeind\nergernuß gibt/dañ je kein gröſſer ergernus nit iſt/dañ zer\ntrengnung in vnſerm vnbefleckten gloubẽ/darumb her=\nnach volgt/dz diſer text voruß vñ voran in dißem vall\nze verſton iſt.",
         "b": "Das on zwyffell von\ngeistlichen glidern / des hern zeverston ist / so ein mensch den anndern / oder einer\ngantzen Christen gemeind ergernuß gipt gibt\ndan ie kein groͤsser ergernus nit ist dan\nzertrenunng in vnsrem vmbefleckten glou //",
-        "similarity": 0.5556
+        "similarity": 0.5778
       },
       {
         "op": "only_b",
@@ -69,7 +69,7 @@
         "op": "match",
         "a": "Zum dritten hat min herr Doctor antwurt\ngeben/wie das diſer text verſtandẽ ſoll werden/nit von\nder gemeiner Chriſtenlichen Kilchen/ſonder vonn einer\nyegklichen Kilchen/für ſich ſelbs alſo/das ein yegkliche/",
         "b": "wie das diser text\nverstanden soͤll werden / nit von der ge //",
-        "similarity": 0.3556
+        "similarity": 0.4
       },
       {
         "op": "only_a",
@@ -92,7 +92,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4263,
+    "similarity": 0.4399,
     "words": {
       "a": 271,
       "b": 170
@@ -260,13 +260,13 @@
       },
       {
         "op": "replace",
-        "a": "herr",
-        "b": "her"
+        "a": "herr weñ",
+        "b": "her wen"
       },
       {
         "op": "equal",
-        "a": "weñ ein glid dir",
-        "b": "wen ein glid dir"
+        "a": "ein glid dir",
+        "b": "ein glid dir"
       },
       {
         "op": "replace",
@@ -285,18 +285,8 @@
       },
       {
         "op": "equal",
-        "a": "wirffs",
-        "b": "wirffs"
-      },
-      {
-        "op": "replace",
-        "a": "võ",
-        "b": "von"
-      },
-      {
-        "op": "equal",
-        "a": "dir",
-        "b": "dir"
+        "a": "wirffs võ dir",
+        "b": "wirffs von dir"
       },
       {
         "op": "replace",
@@ -340,13 +330,13 @@
       },
       {
         "op": "replace",
-        "a": "ganzen Chriſtẽ",
-        "b": "gantzen Christen"
+        "a": "ganzen",
+        "b": "gantzen"
       },
       {
         "op": "equal",
-        "a": "gemeind ergernuß",
-        "b": "gemeind ergernuß"
+        "a": "Chriſtẽ gemeind ergernuß",
+        "b": "Christen gemeind ergernuß"
       },
       {
         "op": "insert",
@@ -410,13 +400,13 @@
       },
       {
         "op": "replace",
-        "a": "voruß vñ",
-        "b": "vorusß vnd"
+        "a": "voruß",
+        "b": "vorusß"
       },
       {
         "op": "equal",
-        "a": "voran in",
-        "b": "voran In"
+        "a": "vñ voran in",
+        "b": "vnd voran In"
       },
       {
         "op": "replace",
@@ -445,13 +435,13 @@
       },
       {
         "op": "equal",
-        "a": "Doctor antwurt geben wie das diſer text",
-        "b": "doctor antwurt geben wie das diser text"
+        "a": "Doctor antwurt geben wie das diſer text verſtandẽ",
+        "b": "doctor antwurt geben wie das diser text verstanden"
       },
       {
         "op": "replace",
-        "a": "verſtandẽ ſoll",
-        "b": "verstanden so ll"
+        "a": "ſoll",
+        "b": "so ll"
       },
       {
         "op": "equal",
@@ -464,7 +454,7 @@
         "b": "ge"
       }
     ],
-    "ops": 37,
+    "ops": 36,
     "truncated": false
   }
 }

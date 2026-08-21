@@ -8,7 +8,7 @@
       38
     ]
   },
-  "alignment_score": 0.1325,
+  "alignment_score": 0.1197,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -51,9 +51,7 @@
         "op": "match",
         "a": "Paulus nennet Christum dahår\ndas houpt der Kirchen/das er sy durch sin geyst låben=\ndig vnnd sålig machet/wie min brüder Berchtold an=\n30gen hat/Solichs vermag nun niemant/dann alleyn\nChristus/vnd alles das sant Peter/oder eyniger Apo-\nstel/ye vermocht hat/ist nichts mer dann vsserlich pre=\ndigen des Euangelions.",
         "b": "umb\nTrineb: ♂\n37\nWisenn ist ein rigenschafft des hopts, Aber nitt ein\nsöliche das wer Si habe, darumb das hopt put werden\nmogen Paulus nemmet Chrum dahar das hoft der kirchen\ndas er si durch sin geiss läbendig und selig machett, wie\nnun bruder Berchtold Anzogen hatt, Sölichs vermag nu\nniemant dann allem Christus, und alleß das\nSant Peter och ennger apostel ye vermöcht hatt,\nIst nichtz mer dann usserlich predien, deß Evangelions\nweliches doch unkrafftig ist wo es nitt der einig\nmeister Chrus Im hertzu läbendig unnd\nkrefftig machett, darumb ir muß ir herr Bichmatter\nschrifft härbringen, das Sant Peters ampt beuelch,\nund werck so wen sich strecken, das er er darumb\nder kirchen hopt gupt werde, nach der gschrifft\nzereden, die gschriffe lassen ein dienst sin, 1 Cor.",
-        "similarity": 0.3043,
-        "semantic": 0.769,
-        "reading": "reworded"
+        "similarity": 0.3043
       },
       {
         "op": "only_a",
@@ -71,10 +69,7 @@
         "op": "only_a",
         "a": "Sie schrifft last ein dienst fin/j. Corinth.iiij. vnd\nerkennen/daher Perrum ein diener der Kirchen/machet\njnn deßhalb zu keinem houpt:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6334,
-        "semantic_match": "4. unnd erkennen dahar Petern ein diener der kirchen\nMachett inn deshalb zu keinem hopt, dann\nNach Paulo der E kirchen hopen sein, daß Ir\nHeiland Smm, wie ussz paulo anzogē Ephes. 5.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -88,15 +83,10 @@
         "b": "4. unnd erkennen dahar Petern ein diener der kirchen\nMachett inn deshalb zu keinem hopt, dann\nNach Paulo der E kirchen hopen sein, daß Ir\nHeiland Smm, wie ussz paulo anzogē Ephes. 5.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7012,
-    "reworded": 1,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.3738,
+    "similarity": 0.3689,
     "words": {
       "a": 249,
       "b": 163
@@ -139,8 +129,18 @@
       },
       {
         "op": "equal",
-        "a": "ein sõliche das",
-        "b": "ein söliche das"
+        "a": "ein",
+        "b": "ein"
+      },
+      {
+        "op": "replace",
+        "a": "sõliche",
+        "b": "söliche"
+      },
+      {
+        "op": "equal",
+        "a": "das",
+        "b": "das"
       },
       {
         "op": "replace",
@@ -488,7 +488,7 @@
         "b": "Ephes 5"
       }
     ],
-    "ops": 39,
+    "ops": 40,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       335
     ]
   },
-  "alignment_score": 0.1743,
+  "alignment_score": 0.1867,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 2,
     "only_b": 0,
-    "similarity": 0.401,
+    "similarity": 0.4122,
     "pairs": [
       {
         "op": "only_a",
@@ -45,13 +45,13 @@
         "op": "match",
         "a": "vñ iiij. klarlich anzeygt wirt/dz alles gnad\nſye/vnd nit verdienter lon/ſunſt were es dhein gnad/dz\nwir ouch am vj.",
         "b": "iij. vnd. iiij. charlich anzo. gt wirdt, Daß\nalles gnad etc. vnd mitt verdienter lon, Amst\nware es de hem gnau, Das wir ouch xi.",
-        "similarity": 0.375
+        "similarity": 0.4167
       },
       {
         "op": "match",
         "a": "zun Römern haben/doch wäre überuß\ngnüg/der einig ſpruch zun Römern am iij. So haltē wir\nnun/das der menſch gerechtuertiget werde/ane züthůn\nder werck des geſatzes/allein durch den glouben/dz aber\nvß dem hundert vnd xviij.",
         "b": "ad Ro: manos haben, Doch ware wer vy gunst, der\neinig Opruch zijn Romern am iiii. So halten\nwir nun, das der mentsth, gerachtuertigot werde,\naue zuthun der werck des gesages, allein durch\nden glauben, Das aber vs dein.",
-        "similarity": 0.5316
+        "similarity": 0.557
       },
       {
         "op": "match",
@@ -80,7 +80,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3975,
+    "similarity": 0.4016,
     "words": {
       "a": 265,
       "b": 223
@@ -198,17 +198,17 @@
       },
       {
         "op": "replace",
-        "a": "wie zun Rö mern am iiij vñ iiij klarlich anzeygt wirt dz alles gnad ſye",
+        "a": "wie zun Rö mern am iiij",
         "b": "etc"
       },
       {
         "op": "equal",
-        "a": "vnd",
+        "a": "vñ",
         "b": "vnd"
       },
       {
         "op": "replace",
-        "a": "nit",
+        "a": "iiij klarlich anzeygt wirt dz alles gnad ſye vnd nit",
         "b": "mitt"
       },
       {
@@ -273,18 +273,8 @@
       },
       {
         "op": "equal",
-        "a": "So",
-        "b": "So"
-      },
-      {
-        "op": "replace",
-        "a": "haltē",
-        "b": "halten"
-      },
-      {
-        "op": "equal",
-        "a": "wir nun das der",
-        "b": "wir nun das der"
+        "a": "So haltē wir nun das der",
+        "b": "So halten wir nun das der"
       },
       {
         "op": "replace",
@@ -592,7 +582,7 @@
         "b": "hebreisthen Christgabbi"
       }
     ],
-    "ops": 51,
+    "ops": 50,
     "truncated": false
   }
 }

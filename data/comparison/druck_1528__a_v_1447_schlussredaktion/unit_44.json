@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 4,
     "only_b": 3,
-    "similarity": 0.4921,
+    "similarity": 0.5057,
     "pairs": [
       {
         "op": "only_a",
@@ -93,7 +93,7 @@
         "op": "match",
         "a": "mit geſchrifft/ warumb ſy nit anzenemen wå\nrind darzethůn. Diewyl aber er anderen/ villicht darzů\nplatz gebē wil/ vñ beſchloſſenhabe/ ſo wõlle ouch wir hie\nmit beſchlieſſen",
         "b": "mit geschrifft/warumb sy nit anzenemen waͤrind\ndarzethuͦn / Diewyl aber er anderen / viellicht darzuͦ platz geben will / vnd beschlossen\nhaben /",
-        "similarity": 0.5714
+        "similarity": 0.6531
       },
       {
         "op": "only_b",
@@ -110,7 +110,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3991,
+    "similarity": 0.4082,
     "words": {
       "a": 236,
       "b": 205
@@ -393,13 +393,23 @@
       },
       {
         "op": "equal",
-        "a": "darzů platz",
-        "b": "darzu platz"
+        "a": "darzů platz gebē",
+        "b": "darzu platz geben"
       },
       {
         "op": "replace",
-        "a": "gebē wil vñ beſchloſſenhabe",
-        "b": "geben will vnd beschlossen haben"
+        "a": "wil",
+        "b": "will"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "beſchloſſenhabe",
+        "b": "beschlossen haben"
       },
       {
         "op": "equal",
@@ -432,7 +442,7 @@
         "b": "vnnd nach der leer pauli das urtheyl den zuho reren vnnd so die acta la sen werden befolen haben vngezweyffelter hoffnung alle die so christi sind vnnd sin geist habenn wellich ouch allein go ttlich Ding verstan mo gind sy werdintt"
       }
     ],
-    "ops": 32,
+    "ops": 33,
     "truncated": false
   }
 }

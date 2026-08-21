@@ -8,7 +8,7 @@
       126
     ]
   },
-  "alignment_score": 0.2388,
+  "alignment_score": 0.2778,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 6,
     "only_b": 5,
-    "similarity": 0.4684,
+    "similarity": 0.4747,
     "pairs": [
       {
         "op": "only_b",
@@ -75,7 +75,7 @@
         "op": "match",
         "a": "Des jrrens halb aber/bekenn ich/es\niſt kein gemeind vff erden/weñ glich moͤglich waͤr/dz al=\nle Chriſten vff dẽ gantzen erdboden zuͤſamen kaͤmẽ/das\nſy nit in vilen dingẽ jrren moͤgend.",
         "b": "wenn glich moͤglich waͤr Das alle Christen vff\ndem gantzen endboden zuͦsamen kaͤmen / Das sy\nnit Inn vielen dingen irren mogend /",
-        "similarity": 0.4688
+        "similarity": 0.5
       },
       {
         "op": "match",
@@ -128,7 +128,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4491,
+    "similarity": 0.4561,
     "words": {
       "a": 334,
       "b": 236
@@ -331,18 +331,8 @@
       },
       {
         "op": "equal",
-        "a": "Des jrrens halb aber bekenn ich es iſt kein gemeind vff erden",
-        "b": "Des Irrens halb aber bekenn ich es ist kein gemeind vff erden"
-      },
-      {
-        "op": "replace",
-        "a": "weñ",
-        "b": "wenn"
-      },
-      {
-        "op": "equal",
-        "a": "glich mo glich wa r",
-        "b": "glich mo glich wa r"
+        "a": "Des jrrens halb aber bekenn ich es iſt kein gemeind vff erden weñ glich mo glich wa r",
+        "b": "Des Irrens halb aber bekenn ich es ist kein gemeind vff erden wenn glich mo glich wa r"
       },
       {
         "op": "replace",
@@ -541,18 +531,8 @@
       },
       {
         "op": "equal",
-        "a": "Doctor",
-        "b": "Doctor"
-      },
-      {
-        "op": "replace",
-        "a": "weñ",
-        "b": "wenn"
-      },
-      {
-        "op": "equal",
-        "a": "ich noch nit erkant hette was ſin red wa re",
-        "b": "ich noch nit erkant hette was sin red wa re"
+        "a": "Doctor weñ ich noch nit erkant hette was ſin red wa re",
+        "b": "Doctor wenn ich noch nit erkant hette was sin red wa re"
       },
       {
         "op": "delete",
@@ -560,7 +540,7 @@
         "b": ""
       }
     ],
-    "ops": 43,
+    "ops": 41,
     "truncated": false
   }
 }

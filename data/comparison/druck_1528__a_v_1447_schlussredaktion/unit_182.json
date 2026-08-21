@@ -8,7 +8,7 @@
       314
     ]
   },
-  "alignment_score": 0.1544,
+  "alignment_score": 0.1589,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -27,7 +27,7 @@
     "matched": 2,
     "only_a": 8,
     "only_b": 4,
-    "similarity": 0.4005,
+    "similarity": 0.4318,
     "pairs": [
       {
         "op": "only_a",
@@ -87,7 +87,7 @@
         "op": "match",
         "a": "Vch iſt geben zethůn/das jr\nnit allein an Chriſtum glouben/ſunder ouch/das jr fuͤr=\njn lyden/vñ haben ouch den ſelben kampff/ſo jr an mir ge\nſehen habē.",
         "b": "1. vch Ist gaben zu tun¬\ndas Ir nitt allein an Christum glouwen, Ounder ouch,\ndas Ir füchin liden, vnd haben auch denselben kampf,\nSo Ir an mir gesachen haben, Arima Petri.",
-        "similarity": 0.4375
+        "similarity": 0.5
       },
       {
         "op": "only_a",
@@ -116,7 +116,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.2971,
+    "similarity": 0.3048,
     "words": {
       "a": 287,
       "b": 238
@@ -464,13 +464,13 @@
       },
       {
         "op": "replace",
-        "a": "fu r jn lyden vñ",
-        "b": "füchin liden vnd"
+        "a": "fu r jn lyden",
+        "b": "füchin liden"
       },
       {
         "op": "equal",
-        "a": "haben",
-        "b": "haben"
+        "a": "vñ haben",
+        "b": "vnd haben"
       },
       {
         "op": "replace",
@@ -484,8 +484,18 @@
       },
       {
         "op": "replace",
-        "a": "ge ſehen habē Itē j",
-        "b": "gesachen haben Arima"
+        "a": "ge ſehen",
+        "b": "gesachen"
+      },
+      {
+        "op": "equal",
+        "a": "habē",
+        "b": "haben"
+      },
+      {
+        "op": "replace",
+        "a": "Itē j",
+        "b": "Arima"
       },
       {
         "op": "equal",
@@ -508,7 +518,7 @@
         "b": "gewandlot ouch wandlen wie wat werden wie Christen vmb Christus willen etc was liden oder sinen kampf annamen So wir vmb binnen witten nitt vierzig tag ave fleisch ef sen mogen bin und fastenn Martinus buijer"
       }
     ],
-    "ops": 39,
+    "ops": 40,
     "truncated": false
   }
 }

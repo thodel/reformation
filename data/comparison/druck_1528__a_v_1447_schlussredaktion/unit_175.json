@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 3,
     "only_b": 2,
-    "similarity": 0.3573,
+    "similarity": 0.3625,
     "pairs": [
       {
         "op": "only_a",
@@ -39,7 +39,7 @@
         "op": "match",
         "a": "das ſy etwas hab geſetzt oder geordnet/das nit im gotts\nwort gegründet ſye. **Berchtoldus.**\n\n[Initial D] Er Bichtuatter wil mir vfftrechen/byzebringe\ndas aber jm züſtünde/als das die Kilch Chriſti\netwas vffgeſetzt hette/das nitt im gotts wort\nſtünde/demnach dz die Kilch Chriſti kein ſatzung mach\nvſſerthalb dem wort gottes/iſt heyter vñ klar züermäſ=\nſen/vß dem ſpruch Eſaie am xxix.",
         "b": "die kehre\nff Domini\nPauli\nle Christe\nin the\nand wie\nis wort\ntochen,\nsindt\nDie ander Ohlussredi\n).126. Berchtoldus halber,\nDer Bichtvatter wil mir uftraechen, bij zebringen,\ndas aber Im zustunde, als das die klech Christi\netwas ufgesetzt hätte, das nitt Jan getswort stunde,\nDemnach das die kilch Christi, kein Paczung mache¬\nosserthell dan wort gottes, Ist heitter vnd clar\nzuermassen, vsz.",
-        "similarity": 0.3906
+        "similarity": 0.4062
       },
       {
         "op": "match",
@@ -80,7 +80,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.341,
+    "similarity": 0.3451,
     "words": {
       "a": 249,
       "b": 232
@@ -188,8 +188,18 @@
       },
       {
         "op": "replace",
-        "a": "heyter vñ klar züermäſ ſen vß",
-        "b": "heitter vnd clar zuermassen vsz"
+        "a": "heyter",
+        "b": "heitter"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "klar züermäſ ſen vß",
+        "b": "clar zuermassen vsz"
       },
       {
         "op": "equal",
@@ -462,7 +472,7 @@
         "b": "glichen worten In der Othrift gegrundt"
       }
     ],
-    "ops": 38,
+    "ops": 39,
     "truncated": false
   }
 }

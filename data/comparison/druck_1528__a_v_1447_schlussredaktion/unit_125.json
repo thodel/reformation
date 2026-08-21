@@ -8,7 +8,7 @@
       235
     ]
   },
-  "alignment_score": 0.1835,
+  "alignment_score": 0.1655,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 3,
     "only_b": 3,
-    "similarity": 0.4148,
+    "similarity": 0.4199,
     "pairs": [
       {
         "op": "only_b",
@@ -81,7 +81,7 @@
         "op": "match",
         "a": "Iſt aber eineſt geredt von der dienſt\nbarkeit der weltlichē oberkeit: dan̄ ſy ouch rechnung wer\ndē gebe jrs Chriſtenlichē befelchs/aber in dem ſpruch der\nvor de ſtadt/ouch zun Hebre.",
         "b": "allß die\nda rechtung werden / geben/ Ist aber emest geredt/ von der Dienstbarkeit/ der weltlichen aberkelitt/ Dan sy ouch rechnung werden geben zes he//",
-        "similarity": 0.3571
+        "similarity": 0.3929
       },
       {
         "op": "only_a",
@@ -110,7 +110,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3615,
+    "similarity": 0.3692,
     "words": {
       "a": 300,
       "b": 220
@@ -488,8 +488,18 @@
       },
       {
         "op": "replace",
-        "a": "rechnůg werdē gebe",
-        "b": "rechtung werden geben"
+        "a": "rechnůg",
+        "b": "rechtung"
+      },
+      {
+        "op": "equal",
+        "a": "werdē",
+        "b": "werden"
+      },
+      {
+        "op": "replace",
+        "a": "gebe",
+        "b": "geben"
       },
       {
         "op": "equal",
@@ -513,13 +523,13 @@
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
+        "a": "der weltlichē",
+        "b": "der weltlichen"
       },
       {
         "op": "replace",
-        "a": "weltlichē oberkeit",
-        "b": "weltlichen aberkelitt"
+        "a": "oberkeit",
+        "b": "aberkelitt"
       },
       {
         "op": "equal",
@@ -582,7 +592,7 @@
         "b": "am xi ap"
       }
     ],
-    "ops": 47,
+    "ops": 48,
     "truncated": false
   }
 }

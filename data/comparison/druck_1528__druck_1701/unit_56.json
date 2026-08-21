@@ -8,7 +8,7 @@
       61
     ]
   },
-  "alignment_score": 0.3951,
+  "alignment_score": 0.4293,
   "coarse": {
     "paragraphs": {
       "a": 6,
@@ -27,15 +27,13 @@
     "matched": 5,
     "only_a": 1,
     "only_b": 7,
-    "similarity": 0.4458,
+    "similarity": 0.4696,
     "pairs": [
       {
         "op": "match",
         "a": "**Die erſt**\n\ndurch ſyn nachgelaßnen gewalt/ſo hand ſy ouch zuͦ bindẽ\nvnd entbinden gehan/nach ſozim ſins goͤttlichẽ wozts.",
         "b": "Die Erſte Schlußred. 43\n\nnachgelaßnen Gewalt / ſo hand ſy auch zů binden und\nentbinden ghan / nach Form ſynes Goͤttlichen Worts.",
-        "similarity": 0.5238,
-        "semantic": 0.7008,
-        "reading": "same"
+        "similarity": 0.619
       },
       {
         "op": "only_b",
@@ -53,26 +51,19 @@
         "op": "match",
         "a": "**Berchtoldus.**\n\nIn kurtze antwurt. Die allmechtigkeyt gottes\nBekennen wir mit dem Pfarrer/vnd den ſpruch\nſo er ynfürt/das Gott gnad vnnd glori geb/iſt\nfür vns/dann das iſt ſin gnad/das er vns verzycht die\nſünd vñ vns ſoͤlliche ſin gnad verkündet/durch ſine A-\npoſtel die dann ſins worts diner ſind/als hüt vß Paulo\ngehoͤrt iſt in der erſten Epiſtel Pauli zun Corinthern.iij.",
         "b": "die dann\nſynes Worts Diener ſind / als huͤt vß Paulo gehoͤrt iſt / in\nder erſten Epiſtel Pauli zun Corinthern am 3.",
-        "similarity": 0.3656,
-        "semantic": 0.6267,
-        "reading": "reworded"
+        "similarity": 0.3656
       },
       {
         "op": "match",
         "a": "Cap. Wer iſt Paulus/wer iſt Apollo/dann allein diener\ndes dem jr gloubt hand/der da pflantzet/der da begüßt\niſt nüt/Gott aber gibt das vffwachſſen/dan ob ſchon der\nprieſter ſpricht/ich abſoluier oder entbind dich von dinen\nſünden/wirt mir nit gnüg beſchechen/ich ſig dann in mi-\nnem hertzen durch den gloubenn verſicheret.",
         "b": "Cap. Wer\niſt Paulus / wer iſt Apollo / dañ allein Diener deß / dem ihr\nglaubt hand / der da pflantzet / der da beguͤßt iſt nuͤt /",
-        "similarity": 0.4096,
-        "semantic": 0.8287,
-        "reading": "reworded"
+        "similarity": 0.4337
       },
       {
         "op": "only_a",
         "a": "Gott iſt der\nder vffthüt/vñ niemäd wirt beſchlieſſen. Er beſchlüßt\nvnnd niemand thüt vff. Eſaie xxij. Capitel. Dar=\nrumb iſt der gewalt eygentlich die ſünd zeuergebẽ/allein\nGottes.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7664,
-        "semantic_match": "daß Gott Gnad und Glori geb / iſt fuͤr uns / dann\ndas iſt ſyn Gnad verkuͤndet durch ſyne Apoſtel /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -102,17 +93,13 @@
         "op": "match",
         "a": "Aber verkünden die vergebung der ſünd den\nglöubigẽ. Verkündẽ die vorbehaltung der ſünd/den vn\nglöubigen/iſt das ampt der dienſtbarkeyt/vnd beuelch\nder Apoſtlen/vnd verkündung des worts.",
         "b": "iſt das Ampt der Dienſtbarkeit / und Beſelch der\nApoſtlen / und Verkuͤndung deß Worts. Pfarzer. ALes myn Hertz Berchtold in dem Gewalt /",
-        "similarity": 0.3529,
-        "semantic": 0.7603,
-        "reading": "reworded"
+        "similarity": 0.3529
       },
       {
         "op": "match",
         "a": "**Pfarrer.**\n\nAls myn herr Berchtold in dem gewalt den ich\nzertheilt han. Zum erſten/mir züuellt gott geb\nallein eer vnd glozi. Hab aber den Apoſtlen be=\nuolchen/",
         "b": "den ich\nzertheilt han / zum erſten mir zufallt / Gott geb allein\nehr und glori : hab aber den Apoſtlen befohlen das ampt\nſynes goͤttl.",
-        "similarity": 0.5769,
-        "semantic": 0.8353,
-        "reading": "same"
+        "similarity": 0.5769
       },
       {
         "op": "only_b",
@@ -120,15 +107,10 @@
         "b": "worts / und das abſolvieren vonden ſuͤnden / allein ſy den Glaͤubigen verkuͤnden ablaſſung der ſuͤnd. F\tNun",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.753,
-    "reworded": 3,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5527,
+    "similarity": 0.5726,
     "words": {
       "a": 235,
       "b": 268
@@ -156,18 +138,8 @@
       },
       {
         "op": "equal",
-        "a": "zu",
-        "b": "zů"
-      },
-      {
-        "op": "replace",
-        "a": "bindẽ",
-        "b": "binden"
-      },
-      {
-        "op": "equal",
-        "a": "vnd entbinden",
-        "b": "und entbinden"
+        "a": "zu bindẽ vnd entbinden",
+        "b": "zů binden und entbinden"
       },
       {
         "op": "replace",
@@ -186,13 +158,13 @@
       },
       {
         "op": "equal",
-        "a": "go",
-        "b": "Go"
+        "a": "go ttlichẽ",
+        "b": "Go ttlichen"
       },
       {
         "op": "replace",
-        "a": "ttlichẽ wozts",
-        "b": "ttlichen Worts"
+        "a": "wozts",
+        "b": "Worts"
       },
       {
         "op": "equal",
@@ -346,18 +318,8 @@
       },
       {
         "op": "equal",
-        "a": "Cap Wer iſt Paulus wer iſt Apollo",
-        "b": "Cap Wer iſt Paulus wer iſt Apollo"
-      },
-      {
-        "op": "replace",
-        "a": "dann",
-        "b": "dañ"
-      },
-      {
-        "op": "equal",
-        "a": "allein diener",
-        "b": "allein Diener"
+        "a": "Cap Wer iſt Paulus wer iſt Apollo dann allein diener",
+        "b": "Cap Wer iſt Paulus wer iſt Apollo dañ allein Diener"
       },
       {
         "op": "replace",
@@ -471,8 +433,18 @@
       },
       {
         "op": "replace",
-        "a": "vffthüt vñ niemäd wirt",
-        "b": "vffthu t und Niemand wird"
+        "a": "vffthüt",
+        "b": "vffthu t"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "und"
+      },
+      {
+        "op": "replace",
+        "a": "niemäd wirt",
+        "b": "Niemand wird"
       },
       {
         "op": "equal",
@@ -521,13 +493,13 @@
       },
       {
         "op": "replace",
-        "a": "ſünd zeuergebẽ",
-        "b": "Su nd zevergeben"
+        "a": "ſünd",
+        "b": "Su nd"
       },
       {
         "op": "equal",
-        "a": "allein Gottes Aber",
-        "b": "allein Gottes Aber"
+        "a": "zeuergebẽ allein Gottes Aber",
+        "b": "zevergeben allein Gottes Aber"
       },
       {
         "op": "replace",
@@ -685,7 +657,7 @@
         "b": "befohlen das ampt ſynes go ttl worts und das abſolvieren vonden ſu nden allein ſy den Gla ubigen verku nden ablaſſung der ſu nd F Nun"
       }
     ],
-    "ops": 55,
+    "ops": 54,
     "truncated": false
   }
 }

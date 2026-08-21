@@ -8,7 +8,7 @@
       86
     ]
   },
-  "alignment_score": 0.4888,
+  "alignment_score": 0.5057,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -33,27 +33,19 @@
         "op": "match",
         "a": "Die erſt\nJſrahel/dañ glich wie die prieſter im alten Teſtame͂t\nden vßſetzige͂ nit machtend/ſonder allein erkantend vnd\nbeſchouwt e͂ den der vorhin vßſetzig wz/alſo verdampt/",
         "b": "52    Die erſt\nJſrahel / dann glich wie die Prieſter im Alten Teſtament\nden Vßſetzigen nit machtend / ſonder allein erkantend vnnd\nbeſchouwten den /",
-        "similarity": 0.6275,
-        "semantic": 0.7953,
-        "reading": "same"
+        "similarity": 0.6275
       },
       {
         "op": "only_a",
         "a": "oder vßſchlüßt die Kilchen keyne/weder den d' ſich mitt\nfräffnem vngoͤtlichen läben vorhin dargegeben hatt/dz\nman woll ſicht das er ein fründ Gottes nit iſt/den ſelben\nhatt man aber by der gmeynd oder Kilche͂ gelaſſen/biß\nzu dem vßſatz/deßhalb er nach dem vſſern anſehe͂/glich\nalls wol ein glid der Kirchen gerechnet ward/als der al=\nler frömeſt/aber by Gott/was er nit from/er trüge dañ\nrechten waren rüwen vnnd glouben im hertzen/welches\nnit woll ſin mag/nübend ſo fräffne vnuerschambte wä=\nſen/wiewol der zu Corintho von ſtundan/nach de͂ Ban\nſich treſſenlich gebeſſert vnd gerüwet hatt/iſt ein zeichen\ndas die Göttliche gnad die jn hat laſſen valle͂/widerum\nvffgericht hatt/deßhalb das widerumb vffnemen ee võ\nGott beſchehen iſt/weder von der Kilchen/daruß aber\nvolget/das die vßgeſetzt werden die vor von Gott ver=\nſchupffet ſind/vnd widerumb ingenomen die die vorhin\nvon Gott begnadet ſind/hierumb nennet nun Paulus/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8372,
-        "semantic_match": "von allen Bruͤ=\nderen erkent wirt ein vngehorſam Kind vn̄ glid deß Volcks\nGottes / vnd iſt alſo der Ban ein eroͤffnung deß boͤſen /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "das vßſetzen von der ganzen gmeind ein vſſerliche ver=\nderbnus/darumb das der vormals by der Kilchen was\nvon allen brüderen erkent wirt/ein vngehorſam kind vñ\nglid/des volcks Gottes/vnd iſt alſo der Ban ein eroff=\nnung des böſen/der die ganzen Kilchen verergern mag\ndamit die Kilch vergoume vñ der böß gezüchtiget wer\nde/das aber der Pfarrer von Appentzell für vñ für dar=\nuff tringt/der Ban ſye ein gewalt/den Gott den men=\nſchen habe gebe͂/vñ vermeint damit (als ich wol merck)\nein ander houpt des gewalts inzeſüre/iſt ein irrung/dañ\nder gewalt zebannen/iſt der gewalt Chriſti/als Paulus\nClar",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.9025,
-        "semantic_match": "von allen Bruͤ=\nderen erkent wirt ein vngehorſam Kind vn̄ glid deß Volcks\nGottes / vnd iſt alſo der Ban ein eroͤffnung deß boͤſen /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -115,15 +107,10 @@
         "b": "der\ndie gantzen Kilchen verergern mag / damit die Kilch ver=\ngoumet / vnd der boͤß gezüchtiget werde / daß aber der Pfar=\nrer von Appenzell für vnnd für daruff tringt / der Ban ſye\n                                                          ein",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.845,
-    "reworded": 0,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.6608,
+    "similarity": 0.6643,
     "words": {
       "a": 299,
       "b": 273
@@ -446,18 +433,8 @@
       },
       {
         "op": "equal",
-        "a": "deßhalb das widerumb vffnemen ee",
-        "b": "deßhalb das widerumb vffnemen ee"
-      },
-      {
-        "op": "replace",
-        "a": "võ",
-        "b": "von"
-      },
-      {
-        "op": "equal",
-        "a": "Gott beſchehen iſt weder von der Kilchen daruß aber volget",
-        "b": "Gott beſchehen iſt weder von der Kilchen daruß aber volget"
+        "a": "deßhalb das widerumb vffnemen ee võ Gott beſchehen iſt weder von der Kilchen daruß aber volget",
+        "b": "deßhalb das widerumb vffnemen ee von Gott beſchehen iſt weder von der Kilchen daruß aber volget"
       },
       {
         "op": "replace",
@@ -516,8 +493,18 @@
       },
       {
         "op": "equal",
-        "a": "erkent wirt ein vngehorſam kind vñ glid",
-        "b": "erkent wirt ein vngehorſam Kind vn glid"
+        "a": "erkent wirt ein vngehorſam kind",
+        "b": "erkent wirt ein vngehorſam Kind"
+      },
+      {
+        "op": "replace",
+        "a": "vñ",
+        "b": "vn"
+      },
+      {
+        "op": "equal",
+        "a": "glid",
+        "b": "glid"
       },
       {
         "op": "replace",
@@ -551,13 +538,13 @@
       },
       {
         "op": "replace",
-        "a": "vergoume vñ",
-        "b": "ver goumet vnd"
+        "a": "vergoume",
+        "b": "ver goumet"
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
+        "a": "vñ der",
+        "b": "vnd der"
       },
       {
         "op": "replace",

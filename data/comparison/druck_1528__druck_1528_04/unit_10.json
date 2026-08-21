@@ -8,7 +8,7 @@
       18
     ]
   },
-  "alignment_score": 0.2696,
+  "alignment_score": 0.313,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 4,
     "only_b": 2,
-    "similarity": 0.4219,
+    "similarity": 0.4608,
     "pairs": [
       {
         "op": "only_b",
@@ -39,17 +39,13 @@
         "op": "match",
         "a": "Ordnung diser Difputation/vnd was\nsich mittlerzyt zütragen hat. 20\ndisers Gesprächs/nalich/Pentag vj. Janna=\nrij/Anno 2c. XXVIII.",
         "b": "Ordnung diser disputation/ vñ was\nsich mittler zyt zůtragen hatt. JSt des ersten zů vermerckẽ / Als der\ngesatzt tag disers Gesprächs /",
-        "similarity": 0.3415,
-        "semantic": 0.6034,
-        "reading": "reworded"
+        "similarity": 0.3902
       },
       {
         "op": "match",
         "a": "erschinen. Ist desselbigenn\ntags die erste beruffung vnnd besamlung/im Barfusser\nKloster zu Bernn/da dann diß gespräch in der Richen\nvoz mencklich gehalten/nach mittag beschechen.",
         "b": "nam-\nlich / Mentag vj. Januarij / Anno. D. M. xxviij. erschinen. Jst dessel-\nben tags die erste berůffung vnnd besamlung/ im Barfůsser Kloster zů Bernn /",
-        "similarity": 0.4706,
-        "semantic": 0.4336,
-        "reading": "different"
+        "similarity": 0.4706
       },
       {
         "op": "only_b",
@@ -61,9 +57,7 @@
         "op": "match",
         "a": "Vnnd\nanfangs mencklich/so da zu gegen gewesen/mit früntli\nchem grüß/bråderlichen empfangen. Off sölichs ist ob=\nberirt Mandat/offenlich verlåsen.",
         "b": "mit frůntlichem\ngrůß/brůderlichen empfangen. Vff söllichs ist\nobberůrt Mandat / offenlich verläsen. Dem-\nnach die ordnung diß gesprächs. Erstlich der\nherrn Presidenten/befelch /",
-        "similarity": 0.3111,
-        "semantic": 0.5643,
-        "reading": "different"
+        "similarity": 0.3111
       },
       {
         "op": "only_a",
@@ -75,25 +69,19 @@
         "op": "match",
         "a": "der Ordnung/die jnen anzeigt wurde/gehorsam zesin. Semnach allen mütwilligen zanck vnd hader zetem\nmen vnd zestillen: ouch alle vppige geschwitz/vnd was\nim wort Gottes keinen grund hat/nitzüzelassen.",
         "b": "die haben by gůten\ntrüwen/an Eyds statt gelobt/der Ordnung die\njnen anzeygt wurde/ gehorsam zesin. Demnach allen můtwilligẽ zanck vnd hader\nzetemmen vnnd zestillen:",
-        "similarity": 0.4211,
-        "semantic": 0.7799,
-        "reading": "reworded"
+        "similarity": 0.4561
       },
       {
         "op": "match",
         "a": "Item die ding/so einest off der ban gewesen/vnd ver\nantwurt worden/nit mer one not/eräfferen noch fürbrin\ngen lassen.",
         "b": "ouch alle üppige ge-\nschwätz/ vñ was im wort Gottes keynẽ grund\nhat/nit zůzelassen. Jtem die ding/so eynest vff der ban gewesen\nvnd verantwurt wordẽ/nit mer one not/eräffe-\nren noch fůrbringen lassen.",
-        "similarity": 0.4483,
-        "semantic": 0.5413,
-        "reading": "different"
+        "similarity": 0.4828
       },
       {
         "op": "match",
         "a": "Mütwillige verlängerung zeuermyden. Soch nüzit zü vrteylen/richten noch erkennen/über\ndie Schlußreden/jremjnnhalt/argument vnd schrifft/ so wider/oder für die/dargethan/vn fürtragé wurden/",
         "b": "Můtwillige ver-\nlängerung zeuermyden. Doch nütz zů vrteylen / richten noch erkennẽ\nüber die Schlußredẽ/jrem Jnhalt/argument vñ\ngeschrifft / so wider / oder für die / dargethon/ vnd",
-        "similarity": 0.5385,
-        "semantic": 0.7976,
-        "reading": "same"
+        "similarity": 0.6538
       },
       {
         "op": "only_a",
@@ -113,15 +101,10 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.62,
-    "reworded": 2,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4727,
+    "similarity": 0.5091,
     "words": {
       "a": 241,
       "b": 199
@@ -139,13 +122,13 @@
       },
       {
         "op": "replace",
-        "a": "Difputation vnd",
-        "b": "disputation vñ"
+        "a": "Difputation",
+        "b": "disputation"
       },
       {
         "op": "equal",
-        "a": "was sich",
-        "b": "was sich"
+        "a": "vnd was sich",
+        "b": "vñ was sich"
       },
       {
         "op": "replace",
@@ -234,18 +217,8 @@
       },
       {
         "op": "equal",
-        "a": "so da zu",
-        "b": "so da zů"
-      },
-      {
-        "op": "replace",
-        "a": "gegen",
-        "b": "gegẽ"
-      },
-      {
-        "op": "equal",
-        "a": "gewesen mit",
-        "b": "gewesen mit"
+        "a": "so da zu gegen gewesen mit",
+        "b": "so da zů gegẽ gewesen mit"
       },
       {
         "op": "replace",
@@ -354,18 +327,8 @@
       },
       {
         "op": "equal",
-        "a": "allen",
-        "b": "allen"
-      },
-      {
-        "op": "replace",
-        "a": "mütwilligen",
-        "b": "můtwilligẽ"
-      },
-      {
-        "op": "equal",
-        "a": "zanck vnd hader",
-        "b": "zanck vnd hader"
+        "a": "allen mütwilligen zanck vnd hader",
+        "b": "allen můtwilligẽ zanck vnd hader"
       },
       {
         "op": "replace",
@@ -379,13 +342,13 @@
       },
       {
         "op": "replace",
-        "a": "geschwitz vnd",
-        "b": "ge schwätz vñ"
+        "a": "geschwitz",
+        "b": "ge schwätz"
       },
       {
         "op": "equal",
-        "a": "was im wort Gottes",
-        "b": "was im wort Gottes"
+        "a": "vnd was im wort Gottes",
+        "b": "vñ was im wort Gottes"
       },
       {
         "op": "replace",
@@ -419,13 +382,13 @@
       },
       {
         "op": "replace",
-        "a": "ver antwurt worden",
-        "b": "verantwurt wordẽ"
+        "a": "ver antwurt",
+        "b": "verantwurt"
       },
       {
         "op": "equal",
-        "a": "nit mer one not",
-        "b": "nit mer one not"
+        "a": "worden nit mer one not",
+        "b": "wordẽ nit mer one not"
       },
       {
         "op": "replace",
@@ -464,33 +427,23 @@
       },
       {
         "op": "equal",
-        "a": "zü vrteylen richten noch",
-        "b": "zů vrteylen richten noch"
+        "a": "zü vrteylen richten noch erkennen über die Schlußreden",
+        "b": "zů vrteylen richten noch erkennẽ über die Schlußredẽ"
       },
       {
         "op": "replace",
-        "a": "erkennen",
-        "b": "erkennẽ"
+        "a": "jremjnnhalt",
+        "b": "jrem Jnhalt"
       },
       {
         "op": "equal",
-        "a": "über die",
-        "b": "über die"
+        "a": "argument vnd",
+        "b": "argument vñ"
       },
       {
         "op": "replace",
-        "a": "Schlußreden jremjnnhalt",
-        "b": "Schlußredẽ jrem Jnhalt"
-      },
-      {
-        "op": "equal",
-        "a": "argument",
-        "b": "argument"
-      },
-      {
-        "op": "replace",
-        "a": "vnd schrifft",
-        "b": "vñ geschrifft"
+        "a": "schrifft",
+        "b": "geschrifft"
       },
       {
         "op": "equal",
@@ -513,7 +466,7 @@
         "b": ""
       }
     ],
-    "ops": 39,
+    "ops": 36,
     "truncated": false
   }
 }

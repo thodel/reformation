@@ -8,7 +8,7 @@
       320
     ]
   },
-  "alignment_score": 0.5048,
+  "alignment_score": 0.5433,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 1,
     "only_b": 2,
-    "similarity": 0.6155,
+    "similarity": 0.6374,
     "pairs": [
       {
         "op": "only_a",
@@ -45,57 +45,43 @@
         "op": "match",
         "a": "Sa-\nruß grundtlich ermeſſen wirt/das der heilig Paulus vß\nſinen eygnen worten/ouch vß der krafft der warheit des\ngeyſts bewårt wirt/hie zereden/das die/die einerley zey\nchen miteinandren brůchend/ein Kilchen ſyend.zc.",
         "b": "ouch vß der krafft der warheit deß Geiſts\nbewårt wirt / hie zereden / das die/die einerley zeichen mit\neinanderen bruchend /",
-        "similarity": 0.5263,
-        "semantic": 0.6916,
-        "reading": "same"
+        "similarity": 0.5263
       },
       {
         "op": "match",
         "a": "wie\nobſtat. Vnnd deßhalb ſållend ſy ſich zů der gmeind vnd\nKilchen der götzen dieneren/nienan fügen noch gſellen. Vnnd wirt hie das vßteylen des lyblichen lybs Chriſti/",
         "b": "ein Kilchen ſyend / ꝛc. wie obſtat. Vnd deßhalb ſöllend ſy ſich zů der Gmeind vnd Kilchen\nder Götzen Dieneren/nienan fůgen noch gſellen.",
-        "similarity": 0.6667,
-        "semantic": 0.7601,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "match",
         "a": "vnder die Kilchen nienan benamſet. Andreas Allchamer\nvon Nürenberg. Paulus in diſen anzognen ſprüchen/in der erſten\nEpiſtel zun Corinthern/am x.",
         "b": "Vnd wirt\nhie das vßtheilen deß lyblichen Lybs Chriſti / vnder die\nKilchen nienan benamſet. Andreas Althamer\n          von Nůrenberg. Paulus in diſen anzognen Sprüchen /",
-        "similarity": 0.5778,
-        "semantic": 0.6622,
-        "reading": "same"
+        "similarity": 0.5778
       },
       {
         "op": "match",
         "a": "capit. redt von\nzweyerley Brot/Von einem geiſtlichen Brot/dz\niſt die Chriſtenlich gemeind in Chriſto/dem låbendigen\nwort erbuwē/die da låbt in frid vñ einigkeit/vñ teylhaff\ntig iſt aller güter Chriſti.",
         "b": "in der erſten\nEpiſtel zun Corinth. am 10. Capit. redt von zweier-\nley Brot / Von einem Geiſtlichen Brot / das iſt die\nChriſtenlich Gemeind in Chriſto/dem låbendigen Wort\nerbuwen/die da låbt in Frid vnd Einigkeit/vnd teilhafftig\niſt aller gůter Chriſti.",
-        "similarity": 0.7105,
-        "semantic": 0.811,
-        "reading": "same"
+        "similarity": 0.7895
       },
       {
         "op": "match",
         "a": "Vñ von dem Brot des Nacht-\nmals des Herren/dz ſelbig Brechen wir/vñ teilends vß\nden brüdern: das ſelb iſt nit die Kilch oder gmeind/Von\nſolchen ſpricht er:",
         "b": "Vnd von dem Brot deß Nacht-\nmals deß Herren/daſſelbig brechen wir/vnd theilends vß\nden Brůdern : daſſelb iſt nit die Kilch oder Gmeind/",
-        "similarity": 0.6296,
-        "semantic": 0.7926,
-        "reading": "same"
+        "similarity": 0.7037
       },
       {
         "op": "match",
         "a": "Das Brot/das wir brechend/iſt dz nit\ndie gemeinſchafft oder vßteylūg des lybs Chriſti: Das\nander Brot/das die Chriſtenheit iſt/Brechen vnd eſſend\nwir nit:",
         "b": "Von\nſölchen ſpricht er : Das Brot/das wir brechend / iſt das\nnit die Gemeinſchafft oder vßtheilung deß Lybs Chriſti? Das ander Brot /",
-        "similarity": 0.6122,
-        "semantic": 0.8688,
-        "reading": "same"
+        "similarity": 0.6122
       },
       {
         "op": "match",
         "a": "heiſst darumb ein brot/das ſy vonn einem brot\ndes Abentmals vnd Teſtaments Chriſti/nieſſend. Wie\nPaulus",
         "b": "das die Chriſtenheit iſt/brechen vnnd\neſſend wir nit : heißt darumb ein Brot / das ſy von einem\nBrot deß Abentmals vnd Teſtaments Chriſti/nieſſend.",
-        "similarity": 0.5854,
-        "semantic": 0.8256,
-        "reading": "same"
+        "similarity": 0.5854
       },
       {
         "op": "only_b",
@@ -103,15 +89,10 @@
         "b": "Wie Paulus ſpricht: Darum ſind wir ein Brot / das wir\neins Brots theilhaffteg ſind/od von einem Brot eſſend. ꝛc. Zwingly.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7731,
-    "reworded": 0,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.7026,
+    "similarity": 0.7241,
     "words": {
       "a": 243,
       "b": 221
@@ -274,48 +255,18 @@
       },
       {
         "op": "equal",
-        "a": "iſt die Chriſtenlich gemeind in Chriſto dem låbendigen wort",
-        "b": "iſt die Chriſtenlich Gemeind in Chriſto dem låbendigen Wort"
+        "a": "iſt die Chriſtenlich gemeind in Chriſto dem låbendigen wort erbuwē die da låbt in frid vñ einigkeit vñ",
+        "b": "iſt die Chriſtenlich Gemeind in Chriſto dem låbendigen Wort erbuwen die da låbt in Frid vnd Einigkeit vnd"
       },
       {
         "op": "replace",
-        "a": "erbuwē",
-        "b": "erbuwen"
+        "a": "teylhaff tig",
+        "b": "teilhafftig"
       },
       {
         "op": "equal",
-        "a": "die da låbt in frid",
-        "b": "die da låbt in Frid"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "einigkeit",
-        "b": "Einigkeit"
-      },
-      {
-        "op": "replace",
-        "a": "vñ teylhaff tig",
-        "b": "vnd teilhafftig"
-      },
-      {
-        "op": "equal",
-        "a": "iſt aller güter Chriſti",
-        "b": "iſt aller gůter Chriſti"
-      },
-      {
-        "op": "replace",
-        "a": "Vñ",
-        "b": "Vnd"
-      },
-      {
-        "op": "equal",
-        "a": "von dem Brot",
-        "b": "von dem Brot"
+        "a": "iſt aller güter Chriſti Vñ von dem Brot",
+        "b": "iſt aller gůter Chriſti Vnd von dem Brot"
       },
       {
         "op": "replace",
@@ -344,13 +295,13 @@
       },
       {
         "op": "equal",
-        "a": "Brechen wir",
-        "b": "brechen wir"
+        "a": "Brechen wir vñ",
+        "b": "brechen wir vnd"
       },
       {
         "op": "replace",
-        "a": "vñ teilends",
-        "b": "vnd theilends"
+        "a": "teilends",
+        "b": "theilends"
       },
       {
         "op": "equal",
@@ -433,7 +384,7 @@
         "b": "ſpricht Darum ſind wir ein Brot das wir eins Brots theilhaffteg ſind od von einem Brot eſſend ꝛc Zwingly"
       }
     ],
-    "ops": 32,
+    "ops": 29,
     "truncated": false
   }
 }

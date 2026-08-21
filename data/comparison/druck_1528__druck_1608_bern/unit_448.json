@@ -8,7 +8,7 @@
       516
     ]
   },
-  "alignment_score": 0.3739,
+  "alignment_score": 0.3955,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 3,
     "only_b": 4,
-    "similarity": 0.5417,
+    "similarity": 0.5593,
     "pairs": [
       {
         "op": "only_b",
@@ -51,50 +51,37 @@
         "op": "match",
         "a": "Die ſibend\nvnd möchtreſt aber der ſchuld nit lůgnen/Was volgte\nanders daruß/weder das dich der Richter wurffe inn die\ngfencknuß/biß du die ſchuld bezalteſt/biß vff das minſt\nörtly.",
         "b": "vnd moͤchteſt aber der ſchuld nit loͤugnen/Was volgte an-\nders daruß/weder das dich der Richter wurffe in die Ge-\nfencknuß /",
-        "similarity": 0.5357,
-        "semantic": 0.7038,
-        "reading": "same"
+        "similarity": 0.5357
       },
       {
         "op": "match",
         "a": "Das iſt nun das Exempel/damit Chriſtus vns\nlert: So yemant ſin brůder beleydiget/ſo verſchuldet er\nſich gegen jm.",
         "b": "biß du die Schuld bezalteſt / biß vff das minſt\noͤrtly. Das iſt nun das Exempel/damit Chriſtus vns lert:",
-        "similarity": 0.45,
-        "semantic": 0.8561,
-        "reading": "reworded"
+        "similarity": 0.45
       },
       {
         "op": "match",
         "a": "Darum ſol er ſyß anſeren/das er ſich mit\njm verſůne/damit die beleydigung nit werde bracht für\nden obreſten richter/Gott/vñ der ſelb dañ ſpreche:",
         "b": "So jemand ſyn Bruͤder beleidiget/ſo verſchuldet er ſich ge-\ngen jm. Darumb ſol er flyß ankeren/daß er ſich mit jm ver-\nſuͤne/damit die beleidigung nit werde bracht fuͤr den obre-\nſten Richter/Gott/vnd derſelb dann ſpreche:",
-        "similarity": 0.4286,
-        "semantic": 0.6325,
-        "reading": "reworded"
+        "similarity": 0.4857
       },
       {
         "op": "match",
         "a": "Du\nſchalckhafftiger knecht/ich hab dir alle din ſchuld nachge\nlaſſen/diewyl du mich batteſt: ſolteſtu dich dañ nit ouch\nerbarmen über dinen mitknecht/wie ich mich din erbar=\nmet hab.",
         "b": "Du ſchalck-\nhafftiger Knecht / ich hab dir alle dyn Schuld nachgelaſ-\nſen/diewyl du mich batteſt: ſolteſt du dich dann nit ouch\nerbarmen uͤber dynen Mitknecht/wie ich mich dyn erbar-\nmet hab?",
-        "similarity": 0.6769,
-        "semantic": 0.9203,
-        "reading": "same"
+        "similarity": 0.7077
       },
       {
         "op": "match",
         "a": "Vnnd demnach der richter dich werffe in den\newigen kercker. Alſo mitt der glychnuß des Rechten/da\nder ſchuldner erſorgen můß ewige gfencknuß/Ermant\nvns der Herr/das wir vnns vereinbaren/mit vnſerem\nnächſten/damit das wir nit den ewigen zorn vnnd ſtraff\nverfallen.",
         "b": "Vnd demnach der Richter dich werffe in den ewi-\ngen Kercker. Alſo mit der glychnuß deß Rechten/da der\nSchuldner erſorgen muͤß ewige Gefencknuß/Ermant vns\nder Herz/das wir vns vereinbaren mit vnſerem Naͤchſten/",
-        "similarity": 0.6173,
-        "semantic": 0.7894,
-        "reading": "same"
+        "similarity": 0.6173
       },
       {
         "op": "only_a",
         "a": "Vnd wirt hie gäntz nüt geredt vom fäghür/ ſunders vil mer darwider. Bůchſtab\n[W] Je gnůg es dargethan ſyge/das kein fäghür\nſye/beuilch ichs dem Läſer/frag herrn Berch=\ntolden hie by/Ob diſer ſpruch (Matthei/am v.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7303,
-        "semantic_match": "In di-\nſen worten aber / gibt der Herz ein Exempel/damit er vns\ntrybt/zuͦ verſuͤnen mit vnſerem Nechſten/vnd iſt das die\nmeinung:So dyn Gelten/dich fuͤr Gericht beruͤffen/vñ du\njetz vnderwaͤgen mit inn waͤreſt/zum Richter/wie moͤch-\nteſt baß handlen /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -114,15 +101,10 @@
         "b": "damit daß wir nit den ewigen Zorn vnd Straff verfallen. Vnd wirt hie gantz nuͤt geredt vom Faͤgſhuͤr/ſonders vil\nmehr darwider. Buͤchſtab",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7721,
-    "reworded": 2,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4542,
+    "similarity": 0.4656,
     "words": {
       "a": 242,
       "b": 282
@@ -285,18 +267,18 @@
       },
       {
         "op": "equal",
-        "a": "richter Gott",
-        "b": "Richter Gott"
+        "a": "richter Gott vñ",
+        "b": "Richter Gott vnd"
       },
       {
         "op": "replace",
-        "a": "vñ der ſelb dañ",
-        "b": "vnd derſelb dann"
+        "a": "der ſelb",
+        "b": "derſelb"
       },
       {
         "op": "equal",
-        "a": "ſpreche Du",
-        "b": "ſpreche Du"
+        "a": "dañ ſpreche Du",
+        "b": "dann ſpreche Du"
       },
       {
         "op": "replace",
@@ -335,18 +317,8 @@
       },
       {
         "op": "equal",
-        "a": "dich",
-        "b": "dich"
-      },
-      {
-        "op": "replace",
-        "a": "dañ",
-        "b": "dann"
-      },
-      {
-        "op": "equal",
-        "a": "nit ouch erbarmen",
-        "b": "nit ouch erbarmen"
+        "a": "dich dañ nit ouch erbarmen",
+        "b": "dich dann nit ouch erbarmen"
       },
       {
         "op": "replace",
@@ -514,7 +486,7 @@
         "b": "Bu chſtab"
       }
     ],
-    "ops": 39,
+    "ops": 38,
     "truncated": false
   }
 }

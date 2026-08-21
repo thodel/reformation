@@ -8,7 +8,7 @@
       392
     ]
   },
-  "alignment_score": 0.1401,
+  "alignment_score": 0.1523,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 1,
     "only_a": 8,
     "only_b": 2,
-    "similarity": 0.3415,
+    "similarity": 0.3577,
     "pairs": [
       {
         "op": "only_a",
@@ -57,7 +57,7 @@
         "op": "match",
         "a": "So er aber nun kompt vff die insatzung\ndes herren Nachtmals/damit wir dester geschickter vñ\noffentlicher rede/so versich ich mich zů ersten/dz min lie=\nber brůder werd nit verneinen /",
         "b": "das sy Im dienen, Des bin ich Im int par abred\n(welleg pott) sij von mencklichen woll verstandenn\nOp wundert dienen\nwurden, vngezweffellt\nber die ver¬\nzu hinnemmen voler Insael\nheissung des sacramenteichen brots findt er\nam selbigen ort nit so er aber min kumpt vff\ndie Insatzung des herren nachtmals Damit\nwir dester geschickter vnd verstentlicher reden\nSo versich ich mich zum ersten das min lieber\nbruder werdt int verneinen, hie Ingesetzt sin\nsacrament des lybs vnnd bluts Jesu Christi  So\nwirtt min nutz vnd gut sin wer da erkennen",
-        "similarity": 0.3415
+        "similarity": 0.3577
       },
       {
         "op": "only_a",
@@ -98,7 +98,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.2574,
+    "similarity": 0.2653,
     "words": {
       "a": 277,
       "b": 228
@@ -241,13 +241,13 @@
       },
       {
         "op": "equal",
-        "a": "vff die insatzung des herren Nachtmals damit wir dester geschickter",
-        "b": "vff die Insatzung des herren nachtmals Damit wir dester geschickter"
+        "a": "vff die insatzung des herren Nachtmals damit wir dester geschickter vñ",
+        "b": "vff die Insatzung des herren nachtmals Damit wir dester geschickter vnd"
       },
       {
         "op": "replace",
-        "a": "vñ offentlicher rede",
-        "b": "vnd verstentlicher reden"
+        "a": "offentlicher rede",
+        "b": "verstentlicher reden"
       },
       {
         "op": "equal",
@@ -321,18 +321,8 @@
       },
       {
         "op": "equal",
-        "a": "nutz",
-        "b": "nutz"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "gůt sin wer da erkennen",
-        "b": "gut sin wer da erkennen"
+        "a": "nutz vñ gůt sin wer da erkennen",
+        "b": "nutz vnd gut sin wer da erkennen"
       },
       {
         "op": "delete",
@@ -340,7 +330,7 @@
         "b": ""
       }
     ],
-    "ops": 24,
+    "ops": 23,
     "truncated": false
   }
 }

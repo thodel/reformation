@@ -8,7 +8,7 @@
       451
     ]
   },
-  "alignment_score": 0.4058,
+  "alignment_score": 0.4251,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 4,
     "only_b": 4,
-    "similarity": 0.4821,
+    "similarity": 0.4966,
     "pairs": [
       {
         "op": "only_b",
@@ -51,33 +51,25 @@
         "op": "match",
         "a": "Die fünffte\nförchten vns vor den propheten noch nit. Mit sölichen\nkundtschafften bewährt er nůtz wenigers/ dann das die\nMäß ein Opffer sye.",
         "b": "Mit sölichẽ kundt\nschafften bewårt er nůts wenigers/ dan das die\nMåß nit ein opfer sye. Bůchstab. Es fröuwt mich gegen minem herr Doctor/",
-        "similarity": 0.3404,
-        "semantic": 0.5556,
-        "reading": "different"
+        "similarity": 0.383
       },
       {
         "op": "match",
         "a": "Bůchstab\nES fröwt mich gegen minem herren Doctorn/ das er miner jugend verschonen wil/ sag jm des\nhochen danck. Der vnnützen leren halb/",
         "b": "das er miner jugend verschonen wil / sag jm des\nhochen danck . Der vnnützen leeren halb/etlich\nhundert jar erwachsen/nim ich mich nüt an :",
-        "similarity": 0.5957,
-        "semantic": 0.6651,
-        "reading": "same"
+        "similarity": 0.5957
       },
       {
         "op": "match",
         "a": "etlich\nhůdert jar erwachsen/ nim ich mich nůt an: hat\nouch keiner von mir nie gehört/ das ich keinerley mißbrů\nchen ye gelobt hab/",
         "b": "hat\nouch keiner von mir nie gehört / das ich keinerley\nmißbrüchẽ ye gelobt hab:ich hab ouch nit gesagt\ndas Joannes in Apocalipsi /",
-        "similarity": 0.5532,
-        "semantic": 0.6624,
-        "reading": "same"
+        "similarity": 0.5532
       },
       {
         "op": "match",
         "a": "jch hab ouch nit gesagt/ das Joannes\nin Apocalipsi/ von dem Opffer der Mäß geschribē hab. Jch hab aber allein die zwifaltig ynziehung der vierd=\nhalb jaren /",
         "b": "von dem opfer der\nMåß geschryben hab . Jch hab aber allein die\nzwyfaltig ynziehung der vierdthalb jaren/ inge\nfürt/damit kundtbar wurde/Joannem in Apo-\ncalipsi /",
-        "similarity": 0.4906,
-        "semantic": 0.8068,
-        "reading": "reworded"
+        "similarity": 0.4906
       },
       {
         "op": "only_a",
@@ -89,17 +81,13 @@
         "op": "match",
         "a": "Jch hab ouch noch\nnit gnůgsam verstanden/ das min herr Doctor hat ge=\nredt/ das man wol säche/ welche vff hůtt/",
         "b": "zum teyl dem Daniele sich verglychen/ der zyt halb der vierdthalb jaren. Jch hab ouch\nnoch nit gnügsam verstanden/das min herr Do\nctor hat geredt /",
-        "similarity": 0.4681,
-        "semantic": 0.5313,
-        "reading": "different"
+        "similarity": 0.4681
       },
       {
         "op": "match",
         "a": "begåre die an=\nderen zů vertryben vnnd zů töden/ des willens ich gantz\nvnd gar nit bin. Die erklärung über die wort Danielis/",
         "b": "das man wol sehe/ welche vff\nhütt / begåren die anderen zůuertryben vnnd zů\ntöden/deß willens ich gantz vñ gar nit bin .",
-        "similarity": 0.4444,
-        "semantic": 0.9013,
-        "reading": "reworded"
+        "similarity": 0.4889
       },
       {
         "op": "only_a",
@@ -125,15 +113,10 @@
         "b": "Die\nerklärung über die wort Danielis / vonn mir\nDd v",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6871,
-    "reworded": 2,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5403,
+    "similarity": 0.5534,
     "words": {
       "a": 230,
       "b": 229
@@ -151,18 +134,18 @@
       },
       {
         "op": "replace",
-        "a": "fünffte förchten",
-        "b": "anderen begåren zů vertryben vnnd zů tåden Vnser Euangelium lert gedult darumb jnen das nit dienet wiewol Joannes in siner offenbarung in denen orten wie in andren mer syn offenbarung zücht vff die vergangnen hystorien Wo hat aber der Schůlmeyster gelåsen in der Offenbarung Jo annis das daß Måßopfer vfhåren sölle das wölten wir gern võ jm håren Wir förchtẽ"
+        "a": "fünffte",
+        "b": "anderen begåren zů vertryben vnnd zů tåden Vnser Euangelium lert gedult darumb jnen das nit dienet wiewol Joannes in siner offenbarung in denen orten wie in andren mer syn offenbarung zücht vff die vergangnen hystorien Wo hat aber der Schůlmeyster gelåsen in der Offenbarung Jo annis das daß Måßopfer vfhåren sölle das wölten wir gern võ jm håren Wir"
       },
       {
         "op": "equal",
-        "a": "vns vor den propheten noch nit Mit",
-        "b": "vns vor den Propheten noch nit Mit"
+        "a": "förchten vns vor den propheten noch nit Mit sölichen",
+        "b": "förchtẽ vns vor den Propheten noch nit Mit sölichẽ"
       },
       {
         "op": "replace",
-        "a": "sölichen kundtschafften bewährt",
-        "b": "sölichẽ kundt schafften bewårt"
+        "a": "kundtschafften bewährt",
+        "b": "kundt schafften bewårt"
       },
       {
         "op": "equal",
@@ -396,18 +379,8 @@
       },
       {
         "op": "equal",
-        "a": "willens ich gantz",
-        "b": "willens ich gantz"
-      },
-      {
-        "op": "replace",
-        "a": "vnd",
-        "b": "vñ"
-      },
-      {
-        "op": "equal",
-        "a": "gar nit bin Die erklärung über die wort Danielis",
-        "b": "gar nit bin Die erklärung über die wort Danielis"
+        "a": "willens ich gantz vnd gar nit bin Die erklärung über die wort Danielis",
+        "b": "willens ich gantz vñ gar nit bin Die erklärung über die wort Danielis"
       },
       {
         "op": "replace",
@@ -425,7 +398,7 @@
         "b": "Dd v"
       }
     ],
-    "ops": 29,
+    "ops": 28,
     "truncated": false
   }
 }

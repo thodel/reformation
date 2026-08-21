@@ -8,7 +8,7 @@
       119
     ]
   },
-  "alignment_score": 0.3417,
+  "alignment_score": 0.3367,
   "coarse": {
     "paragraphs": {
       "a": 6,
@@ -27,7 +27,7 @@
     "matched": 8,
     "only_a": 0,
     "only_b": 2,
-    "similarity": 0.5516,
+    "similarity": 0.5467,
     "pairs": [
       {
         "op": "only_b",
@@ -39,41 +39,31 @@
         "op": "match",
         "a": "**Die erst**\n\nsin Participatiue/nit vßgeschlossen/dz war einig houpt/Jē=\nsus Christus. Darumb so Herr Berchtold die zwo zer=\ntheylung than hat/sol er die wolbetrachten/dann die nit\nwerdend wider mich sin.",
         "b": "Darum ſo Herr Berchtold die zwo Zerthei-\nlung than hat / ſoll er die wol betrachten / dann die nit\nwerdend wider mich ſyn.",
-        "similarity": 0.5357,
-        "semantic": 0.6292,
-        "reading": "same"
+        "similarity": 0.5357
       },
       {
         "op": "match",
         "a": "**Berchtoldus.**\n\n[S]ist ein eynigs houpt/ wellches da ist ein heyl=\nland der gemeynd Gottes/ Paulus zun Ephe=\nsern am fünfftenn capitel.",
         "b": "Berchtoldus. ES iſt ein einigs Haubt / welches da iſt ein Heyland\nder Gemeind Gottes / Paulus zun Epheſern am 5. Capitel.",
-        "similarity": 0.5714,
-        "semantic": 0.8045,
-        "reading": "same"
+        "similarity": 0.5714
       },
       {
         "op": "match",
         "a": "Es sind vil Empter\noder āplüt/die sind glider des libs Christi/sy sind aber\nnit das houpt/ von dem die gschrifft redt/",
         "b": "Es ſind vil Empter oder Amptleut / die ſind\nGlider deß Lybs Chriſti/ſy ſind aber nit das Haubt/von\ndem die Geſchrifft redt /",
-        "similarity": 0.766,
-        "semantic": 0.9622,
-        "reading": "same"
+        "similarity": 0.766
       },
       {
         "op": "match",
         "a": "das die glider\nläbendig macht/ vñnd ein heylannd ist des lybs/ daruß\nmag der Pfarrer aber nit bewären/wider vñser Schluß\nred/ob schon die Apostel liechter sind der welt/",
         "b": "daß die Glider lebendig macht/ und ein Heyland iſt deß Lybs / daruß mag der Pfarzer\naber nit bewähren wider unſer Schlußred /",
-        "similarity": 0.5098,
-        "semantic": 0.6217,
-        "reading": "same"
+        "similarity": 0.4706
       },
       {
         "op": "match",
         "a": "nit wesen\nlich/ sonder die vom houpt Christo erlüchtet sind/ wie\nouch alle glöubigen all Christen sind. Daruß volgt aber\nnit/das darumb all Christenn höupter sygend der Kil=\nchen.",
         "b": "obſchon die\nApoſtel Liechter ſind der Welt / nit weſentlich / ſonder\ndie vom Haubt Chriſto erlüchtet ſind / wie auch alle\nGläubigen all Chriſten ſind :",
-        "similarity": 0.4528,
-        "semantic": 0.8168,
-        "reading": "reworded"
+        "similarity": 0.4528
       },
       {
         "op": "only_b",
@@ -85,35 +75,24 @@
         "op": "match",
         "a": "Bringend klare geschrifft/das ein ander houpt der\nKilchen sye/ welliches sy läbendig macht/ vñnd ir heyl=\nland sye. **Meister Vlrich Zwingli/**\n\n[I]ch begär ein wenig zů erklärung/wie Christus\ndas liecht syge/",
         "b": "welliches ſy lebendig macht / und ihr Hey-\nland ſeye. Meiſter Ulrich Zwingly. ICh begähr ein wenig/zů Erklärung wie Chriſtus das\nLiecht ſyge /",
-        "similarity": 0.4912,
-        "semantic": 0.823,
-        "reading": "reworded"
+        "similarity": 0.4912
       },
       {
         "op": "match",
         "a": "vñnd wie die Apostel das liecht\nsyend/zereden: Christus ist das waar wäsenlich\nliecht/Johannis im ersten capitel/ Vnd alles liecht das\ndie Apostel habend/",
         "b": "und wie die Apoſtel das Liecht ſeyend / ze-\nreden : Chriſtus iſt das wahr weſentlich Liecht / Johan. am 1. Cap. Und alles Liecht /",
-        "similarity": 0.4681,
-        "semantic": 0.8582,
-        "reading": "reworded"
+        "similarity": 0.4681
       },
       {
         "op": "match",
         "a": "gibt er inen. Nemmend lieber herr\nPfarrer ein Byspil: Die Sonn gibt den tag durch das\nfenster haryn/ vñnd ist aber der tag oder liecht/ nützid\n                                                              für sich",
         "b": "das die Apoſtel haben / gibt\ner ihnen. Nemmend / lieber Herr Pfarzer / ein Beyſpil: Die Sonn gibt den Tag durch das Fenſter haryn / und iſt\nN iij aber",
-        "similarity": 0.6182,
-        "semantic": 0.792,
-        "reading": "same"
+        "similarity": 0.6182
       }
-    ],
-    "semantic": 0.7884,
-    "reworded": 3,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.6043,
+    "similarity": 0.6,
     "words": {
       "a": 227,
       "b": 233
@@ -371,13 +350,13 @@
       },
       {
         "op": "equal",
-        "a": "wider vñser",
-        "b": "wider unſer"
+        "a": "wider",
+        "b": "wider"
       },
       {
         "op": "replace",
-        "a": "Schluß red ob schon",
-        "b": "Schlußred obſchon"
+        "a": "vñser Schluß red ob schon",
+        "b": "unſer Schlußred obſchon"
       },
       {
         "op": "equal",

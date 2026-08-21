@@ -8,7 +8,7 @@
       305
     ]
   },
-  "alignment_score": 0.1582,
+  "alignment_score": 0.1657,
   "coarse": {
     "paragraphs": {
       "a": 6,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 8,
-    "matched": 2,
-    "only_a": 4,
-    "only_b": 2,
-    "similarity": 0.5435,
+    "units": 7,
+    "matched": 3,
+    "only_a": 3,
+    "only_b": 1,
+    "similarity": 0.4735,
     "pairs": [
       {
         "op": "only_a",
@@ -51,7 +51,7 @@
         "op": "match",
         "a": "zů Timotheum am iij. Capi. durch jn ingelegt. Jm das\nnit werde helffen bewären. **Berchtoldus.**\n\nDIe Kilch Christi/ hat nie nüt angenomen/dañ\ndas im wort gottes gegründet ist/nach lut vnd\nsag der ersten bekanten schlußred/aber die kilch\ndienit Christi ist die hat vsserthalb dem wort gottes vil\nangenomen/der spruch Pauli am ij.",
         "b": "ij. ad\nChimotheum. iijo. cap. Durch Jan Ingelegt, in\ndas nitt werde helften bewaren,\n15\nEerchtoldus heller,\n18\nDie kilch Christi, hat nie mit angenomen, dann die\nIm wort gottes gegründt ist, nich lut vnd dag\nder ersten bekanten Othlusshred, wer die kilch¬\ndie nitt Christi Ist, die hat vsserthalb dan wort\ngottes, vil angenomen, Der Spruch Pauli.",
-        "similarity": 0.5965
+        "similarity": 0.614
       },
       {
         "op": "only_a",
@@ -60,16 +60,10 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "das die Kilch Christi nüt hab angenomen/dañ\ndas in dem gots wort gegründet ist/vnd wil da=\nmit geantwurt haben/vff das so ich sprich/das die Chri\nstenlich",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
         "b": "iien. ad\nThimotheum iijo. der zoigt an, das die Obrist gingt\nsam Ist wißgemachen zur balikeit, 25\nAlexius grad,\n2-7\nIn der andtwurt hevn Berchtolds, so Er spricht,\ndas die kilch Christi, mijt hab angenomen, dann\ndas In dem gotswort gegründt fst, vnd wie da:",
-        "similarity": 0.0
+        "similarity": 0.3158
       },
       {
         "op": "only_b",
@@ -80,7 +74,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3726,
+    "similarity": 0.3821,
     "words": {
       "a": 216,
       "b": 208
@@ -233,13 +227,13 @@
       },
       {
         "op": "equal",
-        "a": "angenomen",
-        "b": "angenomen"
+        "a": "angenomen dañ",
+        "b": "angenomen dann"
       },
       {
         "op": "replace",
-        "a": "dañ das",
-        "b": "dann die"
+        "a": "das",
+        "b": "die"
       },
       {
         "op": "equal",
@@ -363,18 +357,8 @@
       },
       {
         "op": "equal",
-        "a": "hab angenomen",
-        "b": "hab angenomen"
-      },
-      {
-        "op": "replace",
-        "a": "dañ",
-        "b": "dann"
-      },
-      {
-        "op": "equal",
-        "a": "das in dem",
-        "b": "das In dem"
+        "a": "hab angenomen dañ das in dem",
+        "b": "hab angenomen dann das In dem"
       },
       {
         "op": "replace",
@@ -432,7 +416,7 @@
         "b": "christenlichen kilch etwas heb gesegt das In Dem gotswort nitt gegrundt oije das Ope durch Inn noch nitt bewart mitt der Othrift Oag Ich Ich hab nitt gesprochen das die kristenlich kilch mit angenomen habe das nitt In dem gotswort ge grundt bije Ounder Ich hab gesprochen Er soll bewaren das Oi Etwas hab gesagt oder grord not das nitt Im gotswort gegrundt ope"
       }
     ],
-    "ops": 35,
+    "ops": 34,
     "truncated": false
   }
 }

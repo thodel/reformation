@@ -8,7 +8,7 @@
       68
     ]
   },
-  "alignment_score": 0.4433,
+  "alignment_score": 0.4381,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 1,
     "only_b": 2,
-    "similarity": 0.5452,
+    "similarity": 0.5494,
     "pairs": [
       {
         "op": "only_b",
@@ -39,41 +39,31 @@
         "op": "match",
         "a": "Schlußred/ XVII\nEr Herr leer ons füchen/sinen willen vn war=\nheit/mit luterm herze. Vß alle anzogne spri=\nchen/so hat der Bichtuatternit wyters bewårt\ndan das Sant Perer/ein fürtreffenlicher die-\nner des Euangelij/vñ gar kein houpt gewäsen ist.",
         "b": "ſo hat der Bychtuatter nit wyters bewaͤrt dañ\ndas Sant Peter ein fuͤrtreffenlicher Diener deß Euange-\nlij/ vnd gar kein Houpt gewaͤſen iſt.",
-        "similarity": 0.3529,
-        "semantic": 0.7327,
-        "reading": "reworded"
+        "similarity": 0.3824
       },
       {
         "op": "match",
         "a": "Sar\numb begåren wir noch hätt by rag schrifft/die Petrum\nzum houpt mache. Die Kilch leren (mer hat kein Apo-\nstel nye können) ist der Kirchen Diener sin/",
         "b": "Darumb begaͤren wir\nnoch huͤt by tag ſchrifft / die Petrum zum Houpt mache. Die Kilch leeren (mer hat kein Apoſtel nie koͤnnen) iſt der\nKilchen Diener ſin/",
-        "similarity": 0.6102,
-        "semantic": 0.8273,
-        "reading": "same"
+        "similarity": 0.6102
       },
       {
         "op": "match",
         "a": "vnnd nitt\nhoupt. Bycheuatter. Herr Marti Butzer hat am ersten anzogen/ich\nhab den spruch des erste büchs Regum/im xv.",
         "b": "vnd nit Houpt. Bychtuatter. HErr Marti Butzer hat am erſten anzogen / ich hab\nden Spruch deß erſten Buͤchs Regum /",
-        "similarity": 0.6341,
-        "semantic": 0.8303,
-        "reading": "same"
+        "similarity": 0.6341
       },
       {
         "op": "match",
         "a": "capitel/gestern verantwurt/hütt wider an30-\ngen. Darzu sag ich das ich den selbigen spruch nit an30=\ngen hab/aber gemeldet.",
         "b": "im 15. cap. ge-\nſtern verantwurt / huͤt wider anzogen. Darzuͤ ſag ich/ daß ich den ſelbigen Spruch nit anzogen hab /",
-        "similarity": 0.5238,
-        "semantic": 0.6351,
-        "reading": "same"
+        "similarity": 0.5238
       },
       {
         "op": "match",
         "a": "Das gestrig zülassen/durch jnn\nBeschechen/ein antwurt zegeben. I lun yetz zum andren/ das er begårt/vn mich tringt/ein heytern text/darbrin\ngen/zübewaren/d3 Petrus ein houpt der Kirchen sye/",
         "b": "aber gemel-\ndet. Das geſtrig zuͦlaſſen / durch jnn beſchechen / ein ant-\nwurt zegeben. Nun yetz zum andren / daß er begaͤrt /",
-        "similarity": 0.4,
-        "semantic": 0.5969,
-        "reading": "different"
+        "similarity": 0.4
       },
       {
         "op": "only_b",
@@ -85,36 +75,24 @@
         "op": "match",
         "a": "da mein ich/jm sye gnug beschechen/So ich bewårt han/ das Sant Peter hatt die regierung der beyligen Chri=\nſtenlichen Kirchenn/of beuelch Chriſtigethon.",
         "b": "jm ſye gnuͤg\nbeſchechen / So ich bewaͤrt han / das Sant Peter hat die\nRegierung der heiligen Chriſtenlichen Kilchen /",
-        "similarity": 0.5333,
-        "semantic": 0.9066,
-        "reading": "same"
+        "similarity": 0.5333
       },
       {
         "op": "match",
         "a": "Wiler\naber das ich ein spruch bring/der dz wozt/houpt/hab/ so sol er ouch billichen darbringen ein spruch/der d3 wort\nVnicum/das ist/Einig/hab.",
         "b": "vß be-\nuelch Chriſti gethon. Wil er aber das ich ein Spruch\nbring / der das Wort / Houpt / hab / ſo ſol er ouch billichen\ndarbringen ein Spruch / der das Wort Vnicum, das iſt/ Einig / hab. Butzer.",
-        "similarity": 0.7619,
-        "semantic": 0.7993,
-        "reading": "same"
+        "similarity": 0.7619
       },
       {
         "op": "only_a",
         "a": "Butzer. Ir begårend nit geschrifft die &ben das wõitly\nhoupt/vstrucke/am wort ist es nitt gelågen/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7854,
-        "semantic_match": "vnnd\nmich tringt/ ein heitern Text darbringen / zuͦbewaͤren / d aß\nPetrus ein Houpt der Kilchen ſye / da mein ich/",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7642,
-    "reworded": 1,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5806,
+    "similarity": 0.5853,
     "words": {
       "a": 216,
       "b": 218
@@ -202,13 +180,13 @@
       },
       {
         "op": "replace",
-        "a": "fürtreffenlicher die ner des Euangelij vñ",
-        "b": "fu rtreffenlicher Diener deß Euange lij vnd"
+        "a": "fürtreffenlicher die ner des Euangelij",
+        "b": "fu rtreffenlicher Diener deß Euange lij"
       },
       {
         "op": "equal",
-        "a": "gar kein houpt",
-        "b": "gar kein Houpt"
+        "a": "vñ gar kein houpt",
+        "b": "vnd gar kein Houpt"
       },
       {
         "op": "replace",

@@ -8,7 +8,7 @@
       471
     ]
   },
-  "alignment_score": 0.2906,
+  "alignment_score": 0.3017,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 1,
     "only_b": 6,
-    "similarity": 0.3861,
+    "similarity": 0.3911,
     "pairs": [
       {
         "op": "only_a",
@@ -45,17 +45,13 @@
         "op": "match",
         "a": "Sʒ aber vnſer todtē dienſt\nſyen beſchwårde der armen/wirdt nit ſin/wo man rechte\ngedechtnus vnd jarzyt der abgeſtorbnen hatt:",
         "b": "wird nit ſyn / wo man rechte\nGedaͤchtnus vnd Jahrzyt der Abgeſtorbnen hat : dann\nwir finden / daß in kurꝛzem nach den Apoſtlen /",
-        "similarity": 0.3256,
-        "semantic": 0.6437,
-        "reading": "reworded"
+        "similarity": 0.3256
       },
       {
         "op": "match",
         "a": "dann wir\nfinden/das in kurgem nach den Apoſtlē/die begångnus\nder todten/alſo ſyen geſin/das die geyſtlichen mitt den\nPrieſteren zůſamen berůfft/vnd demnach geladen ſind\nworden die armen/die dårfftigen/die weyſen vnd wit=\nfrouwen/geſpiſt ſind wordē/in ein gedechtnus der růw\nder abgeſtorbnen ſeelen.",
         "b": "die Be-\ngaͤngnus der Todten alſo ſeyen gſyn / daß die Geiſtlichen\nmit den Prieſtern zůſamen berůfft / vnd demnach geladen\nſind worden die Armen /",
-        "similarity": 0.411,
-        "semantic": 0.8132,
-        "reading": "reworded"
+        "similarity": 0.411
       },
       {
         "op": "only_b",
@@ -67,9 +63,7 @@
         "op": "match",
         "a": "Alſo vnd der glichen/hatt man\nvor zwölff hundert Jaren/jarzyt gehabt/ſolich jarzyt\nſind nit ein beſchwård der armen.(Mag wol erkennen/oʒ\nfůr vnd fůr/nit allein in dißem Artickel/ſonder ouch inn\nvil anderen/groß mißbrůch erwachſen ſind.",
         "b": "ſoͤlich\nJahrzyt ſind nit ein Beſchwaͤrd der Armen. Mag wol er-\nkennen / daß fuͤr vnd fuͤr nit allein in diſem Artickel /",
-        "similarity": 0.3636,
-        "semantic": 0.7201,
-        "reading": "reworded"
+        "similarity": 0.3636
       },
       {
         "op": "only_b",
@@ -81,17 +75,13 @@
         "op": "match",
         "a": "Das aber\ndie Apoſtel ſölichs nit geleert haben/das mit vßgetruck\nten gſchrifften/in Bibliſchen bůcheren begriffen/anzeygt\nwerde/weyßt man wol/das Thomas/Andreas/Mat=\nthias/vñ die andren Apoſtel/ouch die zwen vnd ſibenzig\nſo von Chriſto zů jnē erwelt.",
         "b": "anzeigt werde / weißt man wol / daß Thomas / An-\ndreas / Matthias vnd die andern Apoſtel / auch die zween\nvnd ſibentzig / ſo von Chriſto zů ihnen erwehlt.",
-        "similarity": 0.3582,
-        "semantic": 0.8257,
-        "reading": "reworded"
+        "similarity": 0.3881
       },
       {
         "op": "match",
         "a": "Luce am x. ouch geleert ha=\nben/darum̄ man nůr hat/So hab ich ouch in der andern\nſchlußred ingefůrt/wie die ſatzungē der Apoſtel ouch ſyē\nzůhalten/darin ouch ſtat/das gebått fůr tod vnd låben\ndigen.",
         "b": "Luce am 10. auch gelehrt haben / darum man nůt hat : So hab ich\nauch in der andern Schlußred yngefuͤhrt /",
-        "similarity": 0.4138,
-        "semantic": 0.5678,
-        "reading": "different"
+        "similarity": 0.4138
       },
       {
         "op": "only_b",
@@ -103,9 +93,7 @@
         "op": "match",
         "a": "Sʒ aber paulus zů den Theſſalonicenſern ſpricht\ndas man nitt ſölle truren vmb die abgeſtorbnen/wåre\nKEE",
         "b": "Daß aber\nPaulus zů den Theſſalonicenſern ſpricht / daß man nit\nſoͤlle truren vm die Abgeſtorbnen / waͤre nach yngefuͤhr-\ntem verſtand wider die Gſchrifft/von Abraham /",
-        "similarity": 0.4444,
-        "semantic": 0.5552,
-        "reading": "different"
+        "similarity": 0.4444
       },
       {
         "op": "only_b",
@@ -119,15 +107,10 @@
         "b": "Jhr Brůder/wir ſoͤllen euch von den Ab-\ngeſtorbnen wyſen/ auff daß ihr nit traurend/ ꝛc. Paulus\nLll iij legt",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6876,
-    "reworded": 4,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4469,
+    "similarity": 0.4542,
     "words": {
       "a": 255,
       "b": 291
@@ -150,8 +133,18 @@
       },
       {
         "op": "equal",
-        "a": "verhoff vormals in den vordrigē reden",
-        "b": "verhoff vormals in den vordrige Reden"
+        "a": "verhoff vormals in den",
+        "b": "verhoff vormals in den"
+      },
+      {
+        "op": "replace",
+        "a": "vordrigē",
+        "b": "vordrige"
+      },
+      {
+        "op": "equal",
+        "a": "reden",
+        "b": "Reden"
       },
       {
         "op": "replace",
@@ -250,18 +243,8 @@
       },
       {
         "op": "equal",
-        "a": "nach den",
-        "b": "nach den"
-      },
-      {
-        "op": "replace",
-        "a": "Apoſtlē",
-        "b": "Apoſtlen"
-      },
-      {
-        "op": "equal",
-        "a": "die",
-        "b": "die"
+        "a": "nach den Apoſtlē die",
+        "b": "nach den Apoſtlen die"
       },
       {
         "op": "replace",
@@ -330,18 +313,8 @@
       },
       {
         "op": "equal",
-        "a": "ſind",
-        "b": "ſind"
-      },
-      {
-        "op": "replace",
-        "a": "wordē",
-        "b": "worden"
-      },
-      {
-        "op": "equal",
-        "a": "in ein gedechtnus der",
-        "b": "in ein Gedechtnus der"
+        "a": "ſind wordē in ein gedechtnus der",
+        "b": "ſind worden in ein Gedechtnus der"
       },
       {
         "op": "replace",
@@ -535,13 +508,13 @@
       },
       {
         "op": "replace",
-        "a": "Andreas Mat thias vñ",
-        "b": "An dreas Matthias vnd"
+        "a": "Andreas Mat thias",
+        "b": "An dreas Matthias"
       },
       {
         "op": "equal",
-        "a": "die",
-        "b": "die"
+        "a": "vñ die",
+        "b": "vnd die"
       },
       {
         "op": "replace",
@@ -709,7 +682,7 @@
         "b": "wa re nach yngefu hr tem verſtand wider die Gſchrifft von Abraham von Ja cob von Joſeph ꝛc Wie dan dem Herren Jeſu die Frauen vnd andere ein mitlyden gehabt haben Das ſind aber die wort Pauli Jhr Brůder wir ſo llen euch von den Ab geſtorbnen wyſen auff daß ihr nit traurend ꝛc Paulus Lll iij legt"
       }
     ],
-    "ops": 58,
+    "ops": 57,
     "truncated": false
   }
 }

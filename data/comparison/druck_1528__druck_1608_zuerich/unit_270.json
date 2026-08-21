@@ -8,7 +8,7 @@
       313
     ]
   },
-  "alignment_score": 0.37,
+  "alignment_score": 0.45,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,49 +27,37 @@
     "matched": 3,
     "only_a": 2,
     "only_b": 7,
-    "similarity": 0.4385,
+    "similarity": 0.4789,
     "pairs": [
       {
         "op": "only_a",
         "a": "Die vierde\ndes geyſts/ꝛc. Zů erklårung diſers texts/ iſt zů mercken\ndas Paulus in der ganzen Epiſtel die Corinthiern vß vi\nlen vrſachen zwyſpaltig/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6393,
-        "semantic_match": "diewyl wir teilhafftig ſind eins Sacramentlichen Brots/ vnd kompt hernach wyter ein Exempel/ſpricht alſo: Se=\nhend den Iſrahel nach dem Fleiſch.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "begert in einigkeit zebringē/ vñ\ndiewyl jr etlich ouch noch gemeinſchafft hatten/ mitt den\nabgötiſchen/ das dañ ouch zů vneinigkeit diener/",
         "b": "Schlußred. 279\nder gantzen Epiſtel/die Corinthern vß vilen vrſachen zwy=\nſpaltig/begert in Einigkeit zebringen/vnd diewyl jr etlich\nouch noch Gemeinſchafft hatten /",
-        "similarity": 0.4444,
-        "semantic": 0.7539,
-        "reading": "reworded"
+        "similarity": 0.5333
       },
       {
         "op": "match",
         "a": "ſo fürt\ner ſy zů Chriſtenlicher einigkeit/ zeygt jnen an/ wie ſy ge=\nmeinſchafft haben an dem lyb vnd blůt Chriſti/",
         "b": "mit den Abgoͤttiſchen/ das dann ouch zů Vneinigkeit dienet/ſo fuͤrt er ſy zů Chri=\nſtenlicher Einigkeit/zeigt jnen an/wie ſy gemeinſchafft ha=\nben an dem Lyb vnd Blůt Chriſti/darumb ſy billich vn=\ngetrennt ſoͤllen ſin:",
-        "similarity": 0.4839,
-        "semantic": 0.6375,
-        "reading": "reworded"
+        "similarity": 0.4839
       },
       {
         "op": "only_a",
         "a": "darumb\nſy billich vngetrennt ſöllen ſin: vnd wender jnen für wie\nſy ſich doch ſelbs bezůgē/ ſöllicher gmeinſchafft i den Sa=\ncramenten/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7917,
-        "semantic_match": "Gottes\ns brochen\nKelch ſich\niſti vſge-\nden miſ-\n\nn/dieſen/ ſemen\noch klar/ elbs fuͤr\nen ort/ ng/Er-\ndie fol-\ne/zeigt\neinſchaf-\nnndnach\nrinthern\nHeiligen\nſer/aber\nes Co-\nCap. jſt\niffſ/ut. lus/in\nder",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "vñ ſagt Jch red mit üch als mit den verſten\ndigen: das iſt als mitt denen die da",
         "b": "vnd wendet jnen fuͤr wie ſy ſich doch\nſelbs bezuͤgen/ſoͤllicher Gemeinſchafft in den Sacramen=\nten/vnd ſagt:Ich red mit uͤch als mit den Verſtendigen:das\niſt als mit denen die da wol verſtand/was die Sacrament\nbeduͤten.",
-        "similarity": 0.3871,
-        "semantic": 0.5358,
-        "reading": "different"
+        "similarity": 0.4194
       },
       {
         "op": "only_b",
@@ -113,15 +101,10 @@
         "b": "Gottes\ns brochen\nKelch ſich\niſti vſge-\nden miſ-\n\nn/dieſen/ ſemen\noch klar/ elbs fuͤr\nen ort/ ng/Er-\ndie fol-\ne/zeigt\neinſchaf-\nnndnach\nrinthern\nHeiligen\nſer/aber\nes Co-\nCap. jſt\niffſ/ut. lus/in\nder",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6716,
-    "reworded": 2,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.2648,
+    "similarity": 0.2831,
     "words": {
       "a": 107,
       "b": 331
@@ -174,18 +157,8 @@
       },
       {
         "op": "equal",
-        "a": "begert in einigkeit",
-        "b": "begert in Einigkeit"
-      },
-      {
-        "op": "replace",
-        "a": "zebringē vñ",
-        "b": "zebringen vnd"
-      },
-      {
-        "op": "equal",
-        "a": "diewyl jr etlich ouch noch gemeinſchafft hatten",
-        "b": "diewyl jr etlich ouch noch Gemeinſchafft hatten"
+        "a": "begert in einigkeit zebringē vñ diewyl jr etlich ouch noch gemeinſchafft hatten",
+        "b": "begert in Einigkeit zebringen vnd diewyl jr etlich ouch noch Gemeinſchafft hatten"
       },
       {
         "op": "replace",
@@ -204,18 +177,8 @@
       },
       {
         "op": "equal",
-        "a": "das",
-        "b": "das"
-      },
-      {
-        "op": "replace",
-        "a": "dañ",
-        "b": "dann"
-      },
-      {
-        "op": "equal",
-        "a": "ouch zů",
-        "b": "ouch zů"
+        "a": "das dañ ouch zů",
+        "b": "das dann ouch zů"
       },
       {
         "op": "replace",
@@ -309,13 +272,13 @@
       },
       {
         "op": "replace",
-        "a": "Sa cramenten vñ",
-        "b": "Sacramen ten vnd"
+        "a": "Sa cramenten",
+        "b": "Sacramen ten"
       },
       {
         "op": "equal",
-        "a": "ſagt",
-        "b": "ſagt"
+        "a": "vñ ſagt",
+        "b": "vnd ſagt"
       },
       {
         "op": "replace",
@@ -363,7 +326,7 @@
         "b": "wol verſtand was die Sacrament bedu ten Iſt nit der Kelch der benedyung den wir benedyen ein Gemeinſchafft deß Blůts Chriſti das iſt er bedu tet das wir gemeinlich durch das Blůt Chriſti erlo ßt ſind Vnnd aber eins das Brot das wir brechen iſt das nit ein Gemeinſchafft deß Lybs Chriſti das Iſt bezu gt vns das wir die ſind die da gemeinlich durch den Lyb Chriſti das la ben haben vnd glider Chriſti ſind da erkla rt er ſich ſelbs vnd ſagt die vrſach Dan wir die vil ſind ein Brot ein Lyb iſt je gewu ß das vil nit wa ſenlich das Sacramentlich Brot ſind So ſind wir ouch nit vnder oder mit dem Brot aber darumb ſind wir geiſtlich im Brot das wir all teilhafftig ſind vnd gemeinſchafft haben von dem Him melſchen Brot vnnd werden ouch hie geacht fu r ein Brot diewyl wir teilhafftig ſind eins Sacramentlichen Brots vnd kompt hernach wyter ein Exempel ſpricht alſo Se hend den Iſrahel nach dem Fleiſch Iſt es nit das die ſo eſſend das opffer ſind gemeiner deß Altars Das iſt ſy Marginalien nem t werden Gottes s brochen Kelch ſich iſti vſge den miſ n dieſen ſemen och klar elbs fu r en ort ng Er die fol e zeigt einſchaf nndnach rinthern Heiligen ſer aber es Co Cap jſt iffſ ut lus in der"
       }
     ],
-    "ops": 24,
+    "ops": 22,
     "truncated": false
   }
 }
