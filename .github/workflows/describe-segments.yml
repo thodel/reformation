@@ -35,7 +35,24 @@ jobs:
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
     steps:
-      - uses: actions/checkout@v4
+      # Skip the page images: 2.1 GB across eight directories that no text
+      # workflow reads. Measured here, a plain checkout takes 92 seconds and
+      # leaves a 2.0 GB .git; excluding the images takes 9 seconds and 36 MB.
+      # blob:none ALONE changes nothing, because checkout refetches every blob
+      # to populate the working tree - the filter only helps paired with a
+      # sparse pattern.
+      #
+      # Deploy Pages deliberately does not do this: it publishes the site, and
+      # all 496 druck_1528 manifest entries point at images/page_N.jpg.
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /*
+            !/data/disputation/*/images/
+            !/data/disputation/*/images_temp/
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
