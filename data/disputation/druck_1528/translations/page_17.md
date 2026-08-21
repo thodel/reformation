@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /Documents/projects/reformationsprojekt/translations/page_17.md could not be located</s:message>
-</d:error>
+At the beginning of the Disputation and in the first session which was held on Sunday morning, the seventh day of the month of January, after the Ascension of our Lord Jesus Christ, the year fifteen hundred and twenty‑eight, the learned Doctor Joachim von Watt, Burgomaster of St. Gallen, in the name of the Presidents, subsequently spoke.  
+
+Honorable, high and well‑chosen, strict, noble, prudent, careful, wise, gracious and suitable, my lord, beloved and good friend, as we now on this appointed day commence the laudable and Christian disputation, so my gracious lord the Schultheiß and the council of this laudable place Bern, written by hand at the beginning in the name of the Holy Assembly, are gathered. Thus it is especially my lord the co‑President, formerly begun in all form and home, that it is, for the sake of the honor of God and for the love of the fine word (to which all benevolent gentlemen are to be inclined) that we may act peacefully, earnestly and with serious consideration, and send forth willingly, that the matter may not be shameful, but great and concerning the health of our souls. Especially, however, my lord the President, that all those who so dispute, will and have written, are before the said former mandate and all order, so the Ge… (page 21)
