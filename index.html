@@ -3860,6 +3860,12 @@ function registerPageLinks(pages) {
 function openRegisterPage(witnessKey, page) {
   const variantId = VARIANT_BY_KEY[witnessKey];
   if (!variantId) return;
+  // Manuscripts and prints now live in different tabs; land in the right one.
+  disputationGroup = groupOfVariant(variantId);
+  const navId = disputationGroup === "print" ? "drucke" : "disputation";
+  document.querySelectorAll("nav a").forEach((a) => a.classList.remove("active"));
+  const navLink = document.querySelector(`nav a[data-section="${navId}"]`);
+  if (navLink) navLink.classList.add("active");
   if (disputationState.variantId !== variantId) {
     disputationState.variantId = variantId;
     resetDisputationVariantState();
@@ -4002,6 +4008,8 @@ function renderBible() {
 // location.
 const CONCORDANCE = "data/segments/concordance.json";
 const CONC_PRINTS = ["druck_1528_04", "druck_1608_bern", "druck_1608_zuerich", "druck_1701"];
+const CONC_MANUSCRIPTS = ["a_v_1447_schlussredaktion", "a_v_1443_hertwig",
+                          "a_v_1444_cyro", "a_v_1445_schoeni", "a_v_1446_ruemlang"];
 let concordance = null;
 
 async function loadConcordance() {
@@ -4024,52 +4032,42 @@ function concordanceHtml(row) {
   if (!concordance || !concordance.bySegment) return "";
   const seg = concordance.bySegment[parseInt(row.segment, 10)];
   if (!seg) return "";
-  const parts = CONC_PRINTS.map((key) => {
-    const e = seg.witnesses[key];
-    const name = escapeHtml(shortWitness(key));
-    if (!e || e.status === "missing") {
-      return `<span class="conc-item missing" title="In dieser Ausgabe nicht nachgewiesen">${witnessSigil(key)}${name}</span>`;
-    }
-    const pages = e.first_page === e.last_page
-      ? `S.&nbsp;${e.first_page}` : `S.&nbsp;${e.first_page}–${e.last_page}`;
-    const cls = e.status === "partial" ? "conc-item partial" : "conc-item";
-    const title = e.status === "partial"
-      ? `nur ${e.aligned} von ${e.of} Seiten zugeordnet`
-      : `${e.aligned} von ${e.of} Seiten zugeordnet`;
-    if (!e.erara) return `<span class="${cls}" title="${title}">${witnessSigil(key)}${name} ${pages}</span>`;
-    return `<a class="${cls}" href="${escapeHtml(e.erara)}" target="_blank" rel="noopener"
-      title="${title}" onclick="event.stopPropagation();">${witnessSigil(key)}${name} ${pages}</a>`;
-  }).join("");
-  return `<span class="conc"><span class="conc-label">Auch in:</span>${parts}</span>`;
+
+  // Prints link out to e-rara, where the leaf itself can be seen. Manuscripts
+  // are witnesses in this viewer, so they link inward to the page. The two are
+  // kept in separate rows because their coverage differs so sharply - the
+  // prints place 82 of 83 segments, a_v_1444 places none - that mixing them
+  // would read as one patchy list rather than two honest ones.
+  const printChips = CONC_PRINTS.map((k) => concordanceChip(seg, k, "erara")).join("");
+  const msChips = CONC_MANUSCRIPTS.map((k) => concordanceChip(seg, k, "viewer")).join("");
+  if (!printChips && !msChips) return "";
+  return `<span class="conc"><span class="conc-label">Drucke:</span>${printChips}</span>`
+    + `<span class="conc"><span class="conc-label">Handschriften:</span>${msChips}</span>`;
 }
 
-// ------------------------------- Abschnittsnavigation im Vergleich
-// The segments are named on the base text; the concordance says which pages
-// each other witness has for them. Selecting a segment therefore jumps to the
-// unit covering it, whichever pair is being compared - the titles from the
-// Übersicht become a way into the comparison rather than a separate index.
-let segmentTitles = null;
+function concordanceChip(seg, key, mode) {
+  const e = seg.witnesses[key];
+  const name = escapeHtml(shortWitness(key));
+  const sigil = witnessSigil(key);
+  if (!e || e.status === "missing") {
+    return `<span class="conc-item missing" title="In dieser Fassung nicht nachgewiesen">${sigil}${name}</span>`;
+  }
+  const pages = e.first_page === e.last_page
+    ? `S.&nbsp;${e.first_page}` : `S.&nbsp;${e.first_page}–${e.last_page}`;
+  const cls = e.status === "partial" ? "conc-item partial" : "conc-item";
+  const title = `${e.aligned} von ${e.of} Seiten zugeordnet`
+    + (e.status === "partial" ? " — Zuordnung unvollständig" : "");
 
-async function loadSegmentTitles() {
-  if (segmentTitles) return segmentTitles;
-  try {
-    const resp = await fetch(SEGMENT_TABLE);
-    segmentTitles = resp.ok ? parseTsv(await resp.text()) : [];
-  } catch (e) { segmentTitles = []; }
-  return segmentTitles;
-}
-
-async function populateSegmentSelector() {
-  const select = document.getElementById("vg-segment");
-  if (!select || select.dataset.filled === "1") return;
-  const [rows] = await Promise.all([loadSegmentTitles(), loadConcordance()]);
-  if (!rows.length) return;
-  select.innerHTML = '<option value="">— ganzes Werk —</option>' + rows.map((r) => {
-    const label = r.title || `Abschnitt ${r.segment}`;
-    const thesis = r.thesis ? `${r.thesis}. Schlussrede · ` : "";
-    return `<option value="${escapeHtml(r.segment)}">${escapeHtml(thesis)}${escapeHtml(label)} (S. ${escapeHtml(r.first_page)}–${escapeHtml(r.last_page)})</option>`;
-  }).join("");
-  select.dataset.filled = "1";
+  if (mode === "viewer") {
+    const variantId = VARIANT_BY_KEY[key];
+    if (!variantId) return `<span class="${cls}" title="${title}">${sigil}${name} ${pages}</span>`;
+    return `<a class="${cls}" href="#/disputation/${escapeHtml(variantId)}/${e.first_page}"
+      title="${title}"
+      onclick="event.preventDefault(); event.stopPropagation(); openRegisterPage('${escapeHtml(key)}',${e.first_page});">${sigil}${name} ${pages}</a>`;
+  }
+  if (!e.erara) return `<span class="${cls}" title="${title}">${sigil}${name} ${pages}</span>`;
+  return `<a class="${cls}" href="${escapeHtml(e.erara)}" target="_blank" rel="noopener"
+    title="${title}" onclick="event.stopPropagation();">${sigil}${name} ${pages}</a>`;
 }
 
 function segmentPagesFor(segmentId, witness) {
