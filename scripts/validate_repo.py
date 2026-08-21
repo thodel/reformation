@@ -53,11 +53,30 @@ def validate_viewer_manifests() -> tuple[list[str], list[str]]:
                 f"{manifest_path.relative_to(ROOT)} declares page_count={page_count} but contains {len(pages)} page entries"
             )
 
+        # The text workflows check out the repository without the page images
+        # (see .github/workflows/*.yml). An absent images/ directory therefore
+        # means "not fetched", not "lost", and asserting on it would fail every
+        # CI run. A directory that IS present is still checked file by file, so
+        # a genuinely missing page is still caught wherever the images exist.
+        images_dir = variant_dir / "images"
+        images_checked_out = images_dir.is_dir()
+        if pages and not images_checked_out and any(
+            isinstance(page.get("image"), str)
+            and not page["image"].startswith(("http://", "https://"))
+            for page in pages
+        ):
+            warnings.append(
+                f"{manifest_path.relative_to(ROOT)} references local page images, but "
+                f"{images_dir.relative_to(ROOT)} is not in this checkout - image checks skipped"
+            )
+
         for page in pages:
             page_nr = int(page.get("page_nr", 0))
             for key in ("transcription", "line_coords", "pagexml", "image"):
                 value = page.get(key)
                 if not isinstance(value, str) or not value or value.startswith(("http://", "https://")):
+                    continue
+                if key == "image" and not images_checked_out:
                     continue
                 if not (variant_dir / value).exists():
                     errors.append(
