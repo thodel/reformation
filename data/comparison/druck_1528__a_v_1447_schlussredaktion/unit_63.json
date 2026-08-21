@@ -8,7 +8,7 @@
       114
     ]
   },
-  "alignment_score": 0.253,
+  "alignment_score": 0.2738,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -27,7 +27,7 @@
     "matched": 8,
     "only_a": 4,
     "only_b": 1,
-    "similarity": 0.5761,
+    "similarity": 0.5874,
     "pairs": [
       {
         "op": "only_b",
@@ -39,19 +39,19 @@
         "op": "match",
         "a": "Die erst\nvolgt daruß wie vormals anzeigt ist worden / das söl=\nliche gemeine versamlūg im geyst des herrn versamlet / ouch hab zerichte /",
         "b": "sprich, sonnders volgt daruß wie vormals an // zeigt ist / worden / das soͤlliche gemeine versamlung\nIm geist des hern versamlet /",
-        "similarity": 0.5238
+        "similarity": 0.5714
       },
       {
         "op": "match",
         "a": "die gschrifft vō zeurteylen / dañ ye ge=\nschriben stat / der geistlich richt alle ding / hie nimpt die\nschrifft nüt vß /",
         "b": "ouch hab zerichten / die schrifft vnnd ze vrtheillen / dan Ie geschri // ben stat der geistlich richt alle ding / Hie nimpt\ndie geschrifft nudt vsß /",
-        "similarity": 0.5
+        "similarity": 0.4545
       },
       {
         "op": "match",
         "a": "dz aber min herr Doctor wyter ynzücht\nvff die wort des herrn do er also sagt / welcher die Kilchẽ\nnit hört /",
         "b": "Das aber min her\ndoctor wyter Inzucht vff die wort des hern\nda er allso sagt Welcher die kilchen\nnit hoͤrt /",
-        "similarity": 0.6047
+        "similarity": 0.6512
       },
       {
         "op": "match",
@@ -69,7 +69,7 @@
         "op": "match",
         "a": "damit wir\nin spennen vnd zweyspaltigkeyt zů friden vnd zů eynig=\nkeyt vnsers rechten vnbeflecken glouben komen möch=\nten / dañ der herr ye seit /",
         "b": "damit wir In spennen vnnd zwey // spaltigkeit zuͦ friden vnnd zuͦ eingkeit vnnsers\nrechten vmbefleckten glouben komen / moͤchten / Dann der her Ie seit /",
-        "similarity": 0.5
+        "similarity": 0.5417
       },
       {
         "op": "match",
@@ -110,7 +110,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4262,
+    "similarity": 0.4344,
     "words": {
       "a": 286,
       "b": 202
@@ -143,18 +143,8 @@
       },
       {
         "op": "equal",
-        "a": "gemeine",
-        "b": "gemeine"
-      },
-      {
-        "op": "replace",
-        "a": "versamlūg",
-        "b": "versamlung"
-      },
-      {
-        "op": "equal",
-        "a": "im",
-        "b": "Im"
+        "a": "gemeine versamlūg im",
+        "b": "gemeine versamlung Im"
       },
       {
         "op": "replace",
@@ -188,18 +178,8 @@
       },
       {
         "op": "replace",
-        "a": "gschrifft vō zeurteylen",
-        "b": "schrifft vnnd ze vrtheillen"
-      },
-      {
-        "op": "equal",
-        "a": "dañ",
-        "b": "dan"
-      },
-      {
-        "op": "replace",
-        "a": "ye ge schriben",
-        "b": "Ie geschri ben"
+        "a": "gschrifft vō zeurteylen dañ ye ge schriben",
+        "b": "schrifft vnnd ze vrtheillen dan Ie geschri ben"
       },
       {
         "op": "equal",
@@ -253,18 +233,8 @@
       },
       {
         "op": "equal",
-        "a": "sagt welcher die",
-        "b": "sagt Welcher die"
-      },
-      {
-        "op": "replace",
-        "a": "Kilchẽ",
-        "b": "kilchen"
-      },
-      {
-        "op": "equal",
-        "a": "nit",
-        "b": "nit"
+        "a": "sagt welcher die Kilchẽ nit",
+        "b": "sagt Welcher die kilchen nit"
       },
       {
         "op": "replace",
@@ -388,13 +358,13 @@
       },
       {
         "op": "replace",
-        "a": "möch ten dañ",
-        "b": "mo chten Dann"
+        "a": "möch ten",
+        "b": "mo chten"
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
+        "a": "dañ der",
+        "b": "Dann der"
       },
       {
         "op": "replace",
@@ -482,7 +452,7 @@
         "b": ""
       }
     ],
-    "ops": 37,
+    "ops": 34,
     "truncated": false
   }
 }

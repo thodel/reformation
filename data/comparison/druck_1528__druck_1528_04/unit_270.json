@@ -8,7 +8,7 @@
       312
     ]
   },
-  "alignment_score": 0.63,
+  "alignment_score": 0.66,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 1,
     "only_b": 6,
-    "similarity": 0.6032,
+    "similarity": 0.625,
     "pairs": [
       {
         "op": "only_b",
@@ -57,33 +57,25 @@
         "op": "match",
         "a": "Die vierde\ndes geyſts/ꝛc. Zů erklårung diſers texts/ iſt zů mercken\ndas Paulus in der ganzen Epiſtel die Corinthiern vß vi\nlen vrſachen zwyſpaltig/",
         "b": "Zů erklaͤrung diſers Texts/ iſt zů\nmercken das Paulus in der gantzen Epiſtel die\nCorinther vß vilen vrſachen zwyſpaltig /",
-        "similarity": 0.6667,
-        "semantic": 0.9202,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "match",
         "a": "begert in einigkeit zebringē/ vñ\ndiewyl jr etlich ouch noch gemeinſchafft hatten/ mitt den\nabgötiſchen/ das dañ ouch zů vneinigkeit diener/",
         "b": "begert\nin eynigkeit zebringen/ vnd die wyl jr etlich ouch\nnoch gemeinſchafft hatten/mit den abgoͤttiſchē/ das dañ ouch zů vneinigkeit dienet /",
-        "similarity": 0.6364,
-        "semantic": 0.9535,
-        "reading": "same"
+        "similarity": 0.6818
       },
       {
         "op": "match",
         "a": "ſo fürt\ner ſy zů Chriſtenlicher einigkeit/ zeygt jnen an/ wie ſy ge=\nmeinſchafft haben an dem lyb vnd blůt Chriſti/",
         "b": "ſo fůrt er ſy\nzů Chriſtenlicher einigkeit/ zeygt jnen an/wie ſy\ngemeinſchafft haben an dem lyb vnd blůt Chri-\nſti/darumb ſy billich vngetrennt ſoͤllen ſin:",
-        "similarity": 0.7347,
-        "semantic": 0.8226,
-        "reading": "same"
+        "similarity": 0.7347
       },
       {
         "op": "match",
         "a": "darumb\nſy billich vngetrennt ſöllen ſin: vnd wender jnen für wie\nſy ſich doch ſelbs bezůgē/ ſöllicher gmeinſchafft i den Sa=\ncramenten/",
         "b": "vnd\nwendet jnen fůr wie ſy ſich doch ſelbs bezůgen/ ſoͤllicher gemeinſchafft in den Sacramenten/vñ\nſagt Jch red mit ůch als mitt den verſtendigen:",
-        "similarity": 0.375,
-        "semantic": 0.6819,
-        "reading": "reworded"
+        "similarity": 0.4167
       },
       {
         "op": "only_a",
@@ -103,15 +95,10 @@
         "b": "das iſt er beduͤtet das wir gemein-\nlich durch das blůt Chriſti erloͤſt ſind. Vnd aber\n                                                      eins/",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.8446,
-    "reworded": 1,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4365,
+    "similarity": 0.442,
     "words": {
       "a": 107,
       "b": 255
@@ -174,8 +161,18 @@
       },
       {
         "op": "replace",
-        "a": "einigkeit zebringē vñ diewyl",
-        "b": "eynigkeit zebringen vnd die wyl"
+        "a": "einigkeit",
+        "b": "eynigkeit"
+      },
+      {
+        "op": "equal",
+        "a": "zebringē vñ",
+        "b": "zebringen vnd"
+      },
+      {
+        "op": "replace",
+        "a": "diewyl",
+        "b": "die wyl"
       },
       {
         "op": "equal",
@@ -199,8 +196,18 @@
       },
       {
         "op": "equal",
-        "a": "das dañ ouch zů vneinigkeit",
-        "b": "das dan ouch zů vneinigkeit"
+        "a": "das",
+        "b": "das"
+      },
+      {
+        "op": "replace",
+        "a": "dañ",
+        "b": "dan"
+      },
+      {
+        "op": "equal",
+        "a": "ouch zů vneinigkeit",
+        "b": "ouch zů vneinigkeit"
       },
       {
         "op": "replace",
@@ -249,13 +256,13 @@
       },
       {
         "op": "equal",
-        "a": "jnen für wie ſy ſich doch ſelbs",
-        "b": "jnen fůr wie ſy ſich doch ſelbs"
+        "a": "jnen für wie ſy ſich doch ſelbs bezůgē",
+        "b": "jnen fůr wie ſy ſich doch ſelbs bezůgen"
       },
       {
         "op": "replace",
-        "a": "bezůgē ſöllicher gmeinſchafft i",
-        "b": "bezůgen ſo llicher gemeinſchafft in"
+        "a": "ſöllicher gmeinſchafft i",
+        "b": "ſo llicher gemeinſchafft in"
       },
       {
         "op": "equal",
@@ -264,13 +271,13 @@
       },
       {
         "op": "replace",
-        "a": "Sa cramenten",
-        "b": "Sacramenten"
+        "a": "Sa cramenten vñ",
+        "b": "Sacramenten vn"
       },
       {
         "op": "equal",
-        "a": "vñ ſagt Jch red mit üch als",
-        "b": "vn ſagt Jch red mit ůch als"
+        "a": "ſagt Jch red mit üch als",
+        "b": "ſagt Jch red mit ůch als"
       },
       {
         "op": "replace",
@@ -308,7 +315,7 @@
         "b": "wol verſtand wz die Sacrament bedu ten Iſt nit der Kelch der bene dyung den wir benedyen ein gemeynſchafft des blu ts Chriſti das iſt er bedu tet das wir gemein lich durch das blůt Chriſti erlo ſt ſind Vnd aber eins"
       }
     ],
-    "ops": 19,
+    "ops": 21,
     "truncated": false
   }
 }

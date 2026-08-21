@@ -8,7 +8,7 @@
       218
     ]
   },
-  "alignment_score": 0.3284,
+  "alignment_score": 0.3532,
   "coarse": {
     "paragraphs": {
       "a": 6,
@@ -27,25 +27,19 @@
     "matched": 3,
     "only_a": 3,
     "only_b": 8,
-    "similarity": 0.4983,
+    "similarity": 0.5135,
     "pairs": [
       {
         "op": "only_a",
         "a": "**Schlußred.**\n\nſtenlich Kilch etwas hab geſetzt/das in de gotts wort nit\ngegründt ſye/das ſye durch jnn noch nit bewärt mit der\nſchrifft/ſag ich/ich hab nit geſprochen/das die Chriſten=\nlich Kilch nüt angenomen habe/dz nit in dem gots wort\ngegründt ſye/ſonder ich hab geſprochen/er ſöll bewären/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6377,
-        "semantic_match": "das die ſa-\ntzungen der Chriſtenliche Kilchen / von Chriſten\nmenſchen nit ſoͤllen angenommen werden / wo\nſy nit mit heytteren vnnd glychen worten in der\ngſchrifft gegruͤndt ſyen /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "das ſy etwas hab geſetzt oder geordnet/das nit im gotts\nwort gegründet ſye. **Berchtoldus.**\n\n[Initial D] Er Bichtuatter wil mir vfftrechen/byzebringe\ndas aber jm züſtünde/als das die Kilch Chriſti\netwas vffgeſetzt hette/das nitt im gotts wort\nſtünde/demnach dz die Kilch Chriſti kein ſatzung mach\nvſſerthalb dem wort gottes/iſt heyter vñ klar züermäſ=\nſen/vß dem ſpruch Eſaie am xxix.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6603,
-        "semantic_match": "daruß wyter vol-\nget. Das die ſatzung der heyligen Chriſtenheyt\nals wenig ſoͤllen menſchen gebott / oder menſchẽ\ntannt\n\n## Marginalien\nSuͦch hie-\nvor am 83. blat.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -57,18 +51,13 @@
         "op": "match",
         "a": "Vergäbens Eeren\nſy mich/ſo ſy leeren/die leer vnnd bott der menſchen/wie Süch hienoz\nim anfang anzeygt iſt/ouch Matthei am xv.",
         "b": "vß dem ſpruch Eſaie. am xxix. Vergaͤbens eerē ſy mich / ſo ſy leren / die\nleer vnd bott der menſchen /",
-        "similarity": 0.4091,
-        "semantic": 0.7724,
-        "reading": "reworded"
+        "similarity": 0.4545
       },
       {
         "op": "only_a",
         "a": "am 73. blatt. **Bichtuatter.**\n\n[Initial H] Err Berchtold zücht mich an/das ich von jms\nbegere/das mir züſtünde byzebringen/vermein\nich/daser vß ſyner hürtigen antwurt/bybring=\nens gnüg habe/da ernach geben hat/das die hey\nlig Chriſtenlich Kilch/wie S.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7533,
-        "semantic_match": "wie im anfang an-\nzeygt iſt / ouch matthei am xv. Bychtuatter. Herr Berchtold zuͤcht mich an / das ich vō jm\nbegaͤre /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -92,17 +81,13 @@
         "op": "match",
         "a": "Paulus ſagt/iſt ein ſul\nvnd veſtigung der warheit/vnnd daby geſagt/das die\nChriſtenlich Kilch gegründet ſye/vff das wort gottes/",
         "b": "vnnd daby\ngeſagt / das die Chriſtenlich Kilch gegruͤndt ſye / vff das wort Gottes / dz ich ouch ſprich : darum\nmeyn ich /",
-        "similarity": 0.5581,
-        "semantic": 0.739,
-        "reading": "same"
+        "similarity": 0.5581
       },
       {
         "op": "match",
         "a": "das ich ouch ſprich/darumb meyn ich/das nit not ſye zü\nwiter bewärung/das ich die ſatzungen der heyligen Chri\nſtenlichen Kilchen/die vff die warheyt vnd gotts wort\nalſo gegründet iſt witer bewäre/ſo ſy doch hat den heilige\ny",
         "b": "das nit not ſye zuͤ wyter bewaͤrung / das ich die ſatzungen der heyligen Chriſtenliche\nKilchen / die vff die warheyt vnnd Gottes wort\nalſo gegruͤndt iſt wyter bewaͤre /",
-        "similarity": 0.5278,
-        "semantic": 0.8906,
-        "reading": "same"
+        "similarity": 0.5278
       },
       {
         "op": "only_b",
@@ -128,15 +113,10 @@
         "b": "daruß wyter vol-\nget. Das die ſatzung der heyligen Chriſtenheyt\nals wenig ſoͤllen menſchen gebott / oder menſchẽ\ntannt\n\n## Marginalien\nSuͦch hie-\nvor am 83. blat.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7422,
-    "reworded": 1,
-    "candidates": 3,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4141,
+    "similarity": 0.4219,
     "words": {
       "a": 249,
       "b": 263
@@ -204,13 +184,13 @@
       },
       {
         "op": "replace",
-        "a": "Vergäbens Eeren",
-        "b": "Verga bens eerē"
+        "a": "Vergäbens",
+        "b": "Verga bens"
       },
       {
         "op": "equal",
-        "a": "ſy mich ſo ſy",
-        "b": "ſy mich ſo ſy"
+        "a": "Eeren ſy mich ſo ſy",
+        "b": "eerē ſy mich ſo ſy"
       },
       {
         "op": "replace",
@@ -269,13 +249,13 @@
       },
       {
         "op": "equal",
-        "a": "mich an das ich",
-        "b": "mich an das ich"
+        "a": "mich an das ich von",
+        "b": "mich an das ich vō"
       },
       {
         "op": "replace",
-        "a": "von jms begere",
-        "b": "vō jm bega re"
+        "a": "jms begere",
+        "b": "jm bega re"
       },
       {
         "op": "equal",

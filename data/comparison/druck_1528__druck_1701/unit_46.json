@@ -33,10 +33,7 @@
         "op": "only_a",
         "a": "Die erst\nander gschrifft/das Christus nit ein einig houpt sye/dan\nob schon jr thusent ſprüch ynfurend von de leerer ampt\noder dienstbarkeyt/des worts/werdend jr doch nit pro-\nbieren/das Petrus oder yemand anders ein houpt [ye/al\nso find all yngefurt ſprüch verantwurter.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7095,
-        "semantic_match": "werdend ihr doch nicht pro-\nbieren / daß Petrus oder Jemand anders ein Haupt ſeye. Alſo ſind alle yngefůhrte Sprůch verantwortet.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -60,25 +57,19 @@
         "op": "match",
         "a": "Bichauatter. Udine name siisser herr Jesu Erwürdige gün\nstigen wysen Herrn / gefter han ich das erst das\nherr Berchtold iets gemeldt hatt/der dienstbar\nkeyt halb oder diener/wie sy sich dienernemen/gnügsam\nverantwurt/d3 thut ein künig ouch/ist dennocht ein kü\nnig.",
         "b": "der Dienſt-\nbarkeit halb oder Diener / wie ſy ſich Diener nennen/ gnugſam beantwortet / das thut ein Kůnig auch / iſt\ndennoch ein Kůnig :",
-        "similarity": 0.3939,
-        "semantic": 0.6609,
-        "reading": "reworded"
+        "similarity": 0.3939
       },
       {
         "op": "match",
         "a": "Ist nüt vnzimlich noch unmöglichsda har bracht/ ob schon einer ist/vnd genent wirt ein oberer/vn vnder-\nthon zuuergliche/nir gegen eim.",
         "b": "iſt nůt unzimlichs noch unmůg-\nlichs dahar bracht / obſchon einer iſt / und genennet wird\nein Oberer/kan dannoch ſyn ein Underthon :",
-        "similarity": 0.4091,
-        "semantic": 0.6158,
-        "reading": "reworded"
+        "similarity": 0.4091
       },
       {
         "op": "match",
         "a": "Ein Herzog in eim kü\nnigrich mag genempt werde ein vnderthon. Er ist ouch\nein oberer/zuuerglichet de künig/so ist er ein vnderthon:",
         "b": "Zum exem-\npel / Ein Hertzog in einem Kůnigreich mag genennet\nwerden ein Underthon / er iſt auch ein Oberer : Zuber-\nglychet dem Kůnig /",
-        "similarity": 0.4348,
-        "semantic": 0.5143,
-        "reading": "different"
+        "similarity": 0.4348
       },
       {
         "op": "only_b",
@@ -90,9 +81,7 @@
         "op": "match",
         "a": "Süuerglicher gegen sinen onderthonen liten/so ist er eyn\noberer/vnd wirt genempt ein houpt/das ist eins. Off das ander zeant wurten/Bezüg ich/ist mir nitt\nmoglich/gloubouch das wenige möglich ordenlich in dz\nboupt zefaffen zeuerantwurte/nun sind & gründ vñ vr=\nsachen harnach volgend/",
         "b": "das iſt eins\n   Vff das ander zeantworten / bezůg ich / iſt mir nit\nmůglich / glaub auch / daß wenigen můglich / ordenlich\nin das Haupt zefaſſen /",
-        "similarity": 0.3143,
-        "semantic": 0.4937,
-        "reading": "different"
+        "similarity": 0.3143
       },
       {
         "op": "only_b",
@@ -104,18 +93,13 @@
         "op": "match",
         "a": "so vildas ich die nit wol Behal-\nren mag/Beger aber dz mir herr Berchtold die nochmals\neroffne wil ich darnach aber antwurten.",
         "b": "daß mir Herz\nBerchtold die nochmals eröffne / will ich darnach aber\nantworten. Berchtoldus. FRomme Chriſten / es hat ein kurtzen Beſcheid /",
-        "similarity": 0.3721,
-        "semantic": 0.574,
-        "reading": "different"
+        "similarity": 0.3721
       },
       {
         "op": "only_a",
         "a": "Berchtoldus. Romen Christen es hatt ein kurtzen bescheid die\nglichnus so er har fürbringt/d3 einer ein hertzog\nvnnd ein diener sye mit einandern / in eim rych\nvnd",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6675,
-        "semantic_match": "die\nGlychnus / ſo er herfůr bringt / daß einer ein Her-\ntzog",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -123,15 +107,10 @@
         "b": "die\nGlychnus / ſo er herfůr bringt / daß einer ein Her-\ntzog",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6051,
-    "reworded": 2,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4688,
+    "similarity": 0.4731,
     "words": {
       "a": 236,
       "b": 229
@@ -534,8 +513,18 @@
       },
       {
         "op": "replace",
-        "a": "gründ vñ vr sachen harnach",
-        "b": "der Grůnden und Urſachen hernach"
+        "a": "gründ",
+        "b": "der Grůnden"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "und"
+      },
+      {
+        "op": "replace",
+        "a": "vr sachen harnach",
+        "b": "Urſachen hernach"
       },
       {
         "op": "equal",
@@ -658,7 +647,7 @@
         "b": "Her tzog"
       }
     ],
-    "ops": 52,
+    "ops": 53,
     "truncated": false
   }
 }

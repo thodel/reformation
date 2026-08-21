@@ -8,7 +8,7 @@
       200
     ]
   },
-  "alignment_score": 0.361,
+  "alignment_score": 0.3695,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -45,9 +45,7 @@
         "op": "match",
         "a": "Schlußred. LXXVII\nſet/nit flüßt/ ſonder es wirt offenbar/dem ſelben widrig\nerfunden. Zwingly. [J]e begår ich lieben brůder/etwas wyrrer vonn\nder ewigen reinigkeyt Marie zůreden/vß der\nvrſach/das vns die Båpſtler vßgeben/ſam wir\ndie Eer Marie verkleindrindte/",
         "b": "dem ſelben wi-\ndrig erfunden. Zwingly. Hie begaͤr ich lieben bruͤder/etwas wyter vō\nder ewigen reynigkeit Marie zuͦ reden/",
-        "similarity": 0.3125,
-        "semantic": 0.8358,
-        "reading": "reworded"
+        "similarity": 0.3125
       },
       {
         "op": "only_b",
@@ -59,33 +57,25 @@
         "op": "match",
         "a": "ſo doch ſy die aller grös=\nſten ſchmach/vnnd argwan jr junckfrowſchafft vff brin=\ngen/vß ſprechen. Es werde in d` geſchrifft nit erfun=\nden/das ſy entlich ein Junckfrow bliben ſye vnd ermes=\nſen/nitt das Eſaie am vij.",
         "b": "vnd ſprechend: Es werde in\nder ſchrifft nit erfunden/dz ſy entlich ein junck-\nfrow bliben ſye/ vnd ermeſſen nit das Eſaie am\nvij.",
-        "similarity": 0.4375,
-        "semantic": 0.8145,
-        "reading": "reworded"
+        "similarity": 0.4375
       },
       {
         "op": "match",
         "a": "Capitel alſo ſtat. Darumb\nwirt üch Gott ein wunderzeychen geben. Nåmend war/ es wirdt ein tochter empfahen vnd gebåren/vñ ein nam\nwirt ſin Emanuel/",
         "b": "capitel/alſo ſtadt: Darumb wirt uͤch Gott\nein wunderzeychen geben/nemend war/es wirt\nein tochter empfahen vnd gebaͤren/",
-        "similarity": 0.6087,
-        "semantic": 0.8023,
-        "reading": "same"
+        "similarity": 0.6087
       },
       {
         "op": "match",
         "a": "was wåre es für ein wunderzeychen\ndas ein tochter empfienge vñ gebåre/ſo doch alle/die em=\npfahen vnd gebåren/ouch Junckfrowen ſind geweſen/",
         "b": "vnd ſin nam̄\nwirt ſin Jmanuel. Was waͤr es fuͤr ein wūder-\nzeychen/ das ein tochter empfienge vnd gebaͤre/",
-        "similarity": 0.3404,
-        "semantic": 0.8343,
-        "reading": "reworded"
+        "similarity": 0.3404
       },
       {
         "op": "match",
         "a": "aber das iſt ein wunder/das ein Junckfrow empfahe/ vnd ein Junckfrow blibe/das ſy gebåre vnd Junckfrow\nblibe ſo im nun alſo.",
         "b": "ſo doch alle/ die empfahend vnd gebaͤrend/ouch\njungkfrowē ſind geweſen: aber das iſt ein wun\nder/das ein jungkfrow empfahe/vnd ein jungk-\nfrow blybe:",
-        "similarity": 0.36,
-        "semantic": 0.6965,
-        "reading": "reworded"
+        "similarity": 0.36
       },
       {
         "op": "only_b",
@@ -97,28 +87,18 @@
         "op": "match",
         "a": "So volget/das ſy vor vnd nach der\ngeburtt ein Junckfrow geweſen/dan̄ das iſt ein wunder/ ſo wir nun nit darwider haben in der geſchrifft/warum.",
         "b": "dann\ndz iſt ein wunder. So wir nun nuͤt darwider ha\nbend in der ſchrifft/warum̄ ſol man ſagen/ dz jr\newige",
-        "similarity": 0.4,
-        "semantic": 0.809,
-        "reading": "reworded"
+        "similarity": 0.4
       },
       {
         "op": "only_a",
         "a": "Sol man ſage/das jr ewige Junckfrowſchafft/nit be=\nwårt möge werden/in der geſchrifft/ſo doch das bewårt\nwirt/das ſy empfangen vnnd gebozen hatt vnuerſerter\nJunckfrowſchafft/vnd nüt das ſy geſchwecht ſye/hier=\nzů diener ouch/dz Lucam erſten ſy ſelber rede/wie wirt\ndas zůgan/ſo ich dhein mann erken/vnd Ezechielis am\nxliiij. Cap. D",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8485,
-        "semantic_match": "vſſz der\nvrſach/das vns die Baͤpſtler vßgebent/ſam wir\ndie eer Marie verkleinerind/ſo doch ſy die aller\ngroͤſtē ſchmach/vn̄ argwon jr jungkfrowſchafft\nvff ban bringend/",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.8058,
-    "reworded": 5,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4807,
+    "similarity": 0.4888,
     "words": {
       "a": 240,
       "b": 251
@@ -346,8 +326,18 @@
       },
       {
         "op": "replace",
-        "a": "gebåren vñ ein",
-        "b": "geba ren vnd ſin"
+        "a": "gebåren",
+        "b": "geba ren"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "ein",
+        "b": "ſin"
       },
       {
         "op": "equal",
@@ -391,13 +381,13 @@
       },
       {
         "op": "equal",
-        "a": "das ein tochter empfienge",
-        "b": "das ein tochter empfienge"
+        "a": "das ein tochter empfienge vñ",
+        "b": "das ein tochter empfienge vnd"
       },
       {
         "op": "replace",
-        "a": "vñ gebåre",
-        "b": "vnd geba re"
+        "a": "gebåre",
+        "b": "geba re"
       },
       {
         "op": "equal",
@@ -570,7 +560,7 @@
         "b": ""
       }
     ],
-    "ops": 45,
+    "ops": 46,
     "truncated": false
   }
 }

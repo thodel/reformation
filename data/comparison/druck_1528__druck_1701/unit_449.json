@@ -8,7 +8,7 @@
       465
     ]
   },
-  "alignment_score": 0.3087,
+  "alignment_score": 0.3221,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,25 +27,19 @@
     "matched": 3,
     "only_a": 3,
     "only_b": 9,
-    "similarity": 0.3493,
+    "similarity": 0.3789,
     "pairs": [
       {
         "op": "only_a",
         "a": "Seite 78r\nDie ſibend\n\nNütdesterminder müßt ſin ſünd bezalt vnnd gestrafft\nwerden/dann ſin Sun müßt darumb sterben/ vmb die\nſünd des vatters.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6718,
-        "semantic_match": "nuͤt desto minder werden wir\nkranck / und muͤssen den Tod lyden: und wiewol er gnuͤg\ngethan hat durch syn Barmhertzigkeit /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Als der Prophet ſprach: Der Herr\nhat din ſünd/vff ein andren gelegt. Da ſechē jr/dʒ Gott\nbywil/der ſchuld nachlaßt/vn dannocht ein straff nach=\nhin volget.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7569,
-        "semantic_match": "Da sehen jhr / daß Gott bißwy-\nlen die Schuld nachlaßt/ und dennoch ein Straff nachhin\nfolget/ ꝛc. Wiewol Christus gnuͤg fuͤr uns gethan hat/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -105,9 +99,7 @@
         "op": "match",
         "a": "ſo ſy keinen touff empfiengē. Der hat all kranckheyt vñ\nſchmärʒen hingenommen/nütdesterminder werdē wir\nkranck/vnd müſſen den tod lyden:",
         "b": "noch\nmuͤß man die Kinder tauffen / oder sy wurden nit selig / so\nsy keinen Tauff empfiengen. Der hat all Kranckheit und\nSchmertzen hingenommen/",
-        "similarity": 0.3111,
-        "semantic": 0.5629,
-        "reading": "different"
+        "similarity": 0.4
       },
       {
         "op": "only_b",
@@ -119,27 +111,18 @@
         "op": "match",
         "a": "vnd wiewol er gnůg\ngethan hat/durch ſin barmherʒigkeit/ſo erfordret doch\nſin gerechtigkeit/das wir thůgent/als vil an vns iſt.",
         "b": "so erfordert doch\nsyn Gerechtigkeit / daß wir thuͤhen / als vil an uns ist. Bezuͤget der Prophet Johel am 2.",
-        "similarity": 0.4186,
-        "semantic": 0.7702,
-        "reading": "reworded"
+        "similarity": 0.4186
       },
       {
         "op": "match",
         "a": "Be\nzůget der Prophet Johel. ij. capit. Keren üch zů mir in\nganʒem üwerem herʒen/in faſten/in weynen/in trurē. Vß dem volget klar/das in der penitenʒ",
         "b": "Cap. Kehren euch zů\nmir in gantzem euerm Hertzen / in Fasten / in Waͤinen/ in",
-        "similarity": 0.3182,
-        "semantic": 0.7862,
-        "reading": "reworded"
+        "similarity": 0.3182
       }
-    ],
-    "semantic": 0.7096,
-    "reworded": 2,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.3573,
+    "similarity": 0.3712,
     "words": {
       "a": 160,
       "b": 271
@@ -387,18 +370,28 @@
       },
       {
         "op": "replace",
-        "a": "touff empfiengē",
-        "b": "Tauff empfiengen"
+        "a": "touff",
+        "b": "Tauff"
       },
       {
         "op": "equal",
-        "a": "Der hat all",
-        "b": "Der hat all"
+        "a": "empfiengē Der hat all",
+        "b": "empfiengen Der hat all"
       },
       {
         "op": "replace",
-        "a": "kranckheyt vñ ſchmärʒen",
-        "b": "Kranckheit und Schmertzen"
+        "a": "kranckheyt",
+        "b": "Kranckheit"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "und"
+      },
+      {
+        "op": "replace",
+        "a": "ſchmärʒen",
+        "b": "Schmertzen"
       },
       {
         "op": "equal",
@@ -407,13 +400,13 @@
       },
       {
         "op": "replace",
-        "a": "nütdesterminder werdē",
-        "b": "nu t desto minder werden"
+        "a": "nütdesterminder",
+        "b": "nu t desto minder"
       },
       {
         "op": "equal",
-        "a": "wir kranck vnd",
-        "b": "wir kranck und"
+        "a": "werdē wir kranck vnd",
+        "b": "werden wir kranck und"
       },
       {
         "op": "replace",
@@ -531,7 +524,7 @@
         "b": ""
       }
     ],
-    "ops": 39,
+    "ops": 40,
     "truncated": false
   }
 }

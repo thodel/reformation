@@ -8,7 +8,7 @@
       255
     ]
   },
-  "alignment_score": 0.1814,
+  "alignment_score": 0.1907,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -33,10 +33,7 @@
         "op": "only_a",
         "a": "Die vierde\n\ndas der lyb Christi in worten des Nachtmals verfasset\nwerde/dann glicher gestalt wie sich min herr Doctor ins=\nlaßt vff Lucam/glicher maß gründen wir vnns vff die\nhällen sprüch vnnd beschribung Matthei vnnd Marci\nwelliche/allen vnglichen verstand mit jr klarheit abzü=\nletnen starck gnůg.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6341,
-        "semantic_match": "Die Vierdte Schlußred. 239\n\nin ihrem Bruch hielte / und verwerffen daneben nit die\nNamen deß Testaments Christi / oder deß Herren Nacht-\nmahls /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -48,10 +45,7 @@
         "op": "only_a",
         "a": "vnnd namlich so Lucas den\nKelch nempt/dz nüw Testament/haben wir ein gewal\ntige anzeygung/das sölliches tranck ein gedenck zeychen\nsye des Testaments Christi/wie wol es das nüw Testa=\nment genempt wirt/dan vß der Epistel zun Hebreren\nvnd ouch vß dem Propheten Jheremie am xxxj.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8287,
-        "semantic_match": "dann sy uns auch dienend zü offenbahrung söli-\ncher Warheit : und namlich so Lucas den Kelch nennet\ndas Neu Testament /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -81,9 +75,7 @@
         "op": "match",
         "a": "Capi. finden wir das/das Testament vnnd pündtnus stat in\nverzichung der sünden/vnd ist aber sölliches Testament\noder ouch pündtnus/allein in dem tod vnd sterben vns\nsers herrn Jesu Christi versichert/vnd versiglet worden\nwie denn ouch die hertzen der glöubigen/allein also vol=\nkomenlich versichert werden/darby ouch können wir nit\nverneinen/dz die Sacrament im nüwen gesatz/nit ouch\nbedüren vnd figuren sind/wir müssen ye sagen/das der\ntouff",
         "b": "und ist aber sölichs Testament / oder auch\nPündtnus allein in dem Tod und Sterben unsers Herren\nJesu Christi versichert und versiglet worden /",
-        "similarity": 0.375,
-        "semantic": 0.8196,
-        "reading": "reworded"
+        "similarity": 0.375
       },
       {
         "op": "only_b",
@@ -127,15 +119,10 @@
         "b": "Wo man Moysen zü Christo verglichet / da ist die Figur\nals wyt von dem das da bedütet wird / als wyt der schatt\nG g iij und\n\n## Marginalien\n[unleserliche Fragmente am linken Rand abgeschnitten]",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7608,
-    "reworded": 1,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.3302,
+    "similarity": 0.334,
     "words": {
       "a": 258,
       "b": 281
@@ -163,18 +150,8 @@
       },
       {
         "op": "equal",
-        "a": "bruch hielte",
-        "b": "Bruch hielte"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "und"
-      },
-      {
-        "op": "equal",
-        "a": "verwerffen",
-        "b": "verwerffen"
+        "a": "bruch hielte vñ verwerffen",
+        "b": "Bruch hielte und verwerffen"
       },
       {
         "op": "replace",
@@ -492,7 +469,7 @@
         "b": "schatt G g iij und Marginalien unleserliche Fragmente am linken Rand abgeschnitten"
       }
     ],
-    "ops": 35,
+    "ops": 34,
     "truncated": false
   }
 }

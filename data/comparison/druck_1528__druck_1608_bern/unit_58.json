@@ -8,7 +8,7 @@
       78
     ]
   },
-  "alignment_score": 0.4364,
+  "alignment_score": 0.4491,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -33,27 +33,19 @@
         "op": "only_a",
         "a": "Die erſt\nWarthei am vviij. cap. welches ouch Paulus zů Corin\ntho than hat/Als jr habend in der erſten Epiſtel am v.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6564,
-        "semantic_match": "in welchem er mir vaſt wol\ngefellt / ſo er den gewalt ſo Paulus gebrucht / den ich an=\nzeigt/zůgibt der Kilchen:dann Paulus hat den ſelben groſ=\nſen gewalt gebrucht /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "capitel. Ich zwar (ſpricht er) als der mit dem lyb nit da\nbin/doch alls mit dem geyſt gegẽwürtig. Hab ſchon ich\nſölichs im geyſt beſchloſſen/über den/der ſölichs gethan\nhat/in dem namen vnſers Herrẽ Jeſu Chriſti/in üwer\nverſamlung mit minem geiſt/vnnd in der krafft vnſers\nHerren Jeſu Chriſti/jn zeübergeben dem tüffel/zů ver\nderbnüg des fleyſchs/vff das der geyſt ſälig werd/am tag\ndes Herren.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6663,
-        "semantic_match": "verbannet hat / daruß abermals der Pfarrer nit\nerhalten mag / ein ſonderlichen eignen gwalt Petro / dem\nBapſt vnd Biſchoffen beuolchen. Pfarrer.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Hie ſechend jr das Paulus nit vß eygnem\ngewalt/ſonders in dem namen/ja in der krafft vnſers\nHerren Jeſu Chriſti verſamlet/mit einandern den of=\nfentlichen hürer/verbannet hatt/daruß abermals der\nPfarrer nit erhaltẽ mag/ein ſonderlichen eygnen gwalt\nPetzo/dem Bapſt vnd Biſchoffen beuolchen.",
         "b": "46                                Die erſt\nTag deß Herren. Hie ſechend jr / das Paulus nit vß eignem\ngewalt/ſonders in dem Namen/ja in der krafft vnſers Her=\nren Jeſu Chriſti verſamlet/mit einandern den offentlichen\nHůrer /",
-        "similarity": 0.5926,
-        "semantic": 0.9099,
-        "reading": "same"
+        "similarity": 0.5926
       },
       {
         "op": "only_b",
@@ -65,17 +57,13 @@
         "op": "match",
         "a": "Pfarrer. Als herr Berchtold anzücht/vor ouch geredt iſt\nworden/wie Chriſtus Jeſus ſinen Apoſtlen be=\nuolchen hab/zů verkünden das wort Gottes/zů\nablaſung der ſünd.",
         "b": "DAs Herr Berchtold anzücht / vor ouch geredt iſt\nworden/wie Chriſtus Jeſus ſinen Apoſtlen beuol=\nchen hab / zů verkünden das Wort Gottes/zů Ab=\nlaſung der Sünd.",
-        "similarity": 0.8148,
-        "semantic": 0.9397,
-        "reading": "same"
+        "similarity": 0.8148
       },
       {
         "op": "match",
         "a": "Vnd hatt daſelbs ynzogen ein glych\nnus einer pfarr/oder Kilchhöry/ſo er redt von dem ge=\nwalt einer yegklichen Kilchen geben/in welchem er mir\nwaſt wol gefellt/ſo er den gewalt ſo Paulus gebrucht/",
         "b": "Vnd hat daſelbſt ynzogen ein Glych=\nnuß einer Pfarr/oder Kilchhöry/ſo er redt von dem gewalt\neiner jeglichen Kilchen geben /",
-        "similarity": 0.5614,
-        "semantic": 0.7577,
-        "reading": "same"
+        "similarity": 0.5614
       },
       {
         "op": "only_b",
@@ -87,9 +75,7 @@
         "op": "match",
         "a": "den ich anzeigt/zůgibt der Kilchẽ: dan Paulus hat den\nſelben groſſen gewalt gebrucht/bin nit on/das Chriſtus\njm ſölichen gewalt empfolchen hab/hoff ouch/da werde\nnit erhalten/das der gewalt ſo empfolhen iſt zů entbin=\nden vnd binden/vonder Kilchen vffgehept werde. So er",
         "b": "bin nit on / das Chriſtus jm ſölichen\ngewalt empfolchen hab / hoff ouch/ da werde nit erhalten/ daß der gewalt ſo empfolhen iſt zů entbinden vnnd binden/",
-        "similarity": 0.6301,
-        "semantic": 0.7493,
-        "reading": "same"
+        "similarity": 0.6301
       },
       {
         "op": "only_b",
@@ -109,15 +95,10 @@
         "b": "der alſo läbte in der vn=\nluterkeit als die Heiden / daß er den ſelben ouch hab geben\ndem fyend/oder Tüffel / welcher Text / den vordrigen an=\n                                            zognen",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7799,
-    "reworded": 0,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.544,
+    "similarity": 0.5521,
     "words": {
       "a": 252,
       "b": 237
@@ -190,18 +171,8 @@
       },
       {
         "op": "equal",
-        "a": "daruß abermals der Pfarrer nit",
-        "b": "daruß abermals der Pfarrer nit"
-      },
-      {
-        "op": "replace",
-        "a": "erhaltẽ",
-        "b": "erhalten"
-      },
-      {
-        "op": "equal",
-        "a": "mag ein ſonderlichen",
-        "b": "mag ein ſonderlichen"
+        "a": "daruß abermals der Pfarrer nit erhaltẽ mag ein ſonderlichen",
+        "b": "daruß abermals der Pfarrer nit erhalten mag ein ſonderlichen"
       },
       {
         "op": "replace",
@@ -310,13 +281,13 @@
       },
       {
         "op": "equal",
-        "a": "zůgibt der",
-        "b": "zůgibt der"
+        "a": "zůgibt der Kilchẽ",
+        "b": "zůgibt der Kilchen"
       },
       {
         "op": "replace",
-        "a": "Kilchẽ dan",
-        "b": "Kilchen dann"
+        "a": "dan",
+        "b": "dann"
       },
       {
         "op": "equal",
@@ -369,7 +340,7 @@
         "b": "dann anzeigt in der erſten Epiſtel zun Corin thern im 5 cap in welchen worten er aber mir zůuellt als ich verhoff dann worumb als Paulus geſprochen hat da er nit gegenwürtig ſye gſin mit ſinem Lyb ſonders in dem Geiſt das der zeſtraffen ſye der alſo läbte in der vn luterkeit als die Heiden daß er den ſelben ouch hab geben dem fyend oder Tüffel welcher Text den vordrigen an zognen"
       }
     ],
-    "ops": 25,
+    "ops": 24,
     "truncated": false
   }
 }

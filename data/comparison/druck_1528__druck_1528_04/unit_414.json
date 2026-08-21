@@ -8,7 +8,7 @@
       475
     ]
   },
-  "alignment_score": 0.4293,
+  "alignment_score": 0.4511,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 2,
     "only_b": 3,
-    "similarity": 0.6173,
+    "similarity": 0.6193,
     "pairs": [
       {
         "op": "only_b",
@@ -45,59 +45,43 @@
         "op": "match",
         "a": "Die ſechſte\nGilg Durer\nSprich ich neyn. Zwingli. So iſt üwer argument nüt. Gilg Durer\nGott hatt anzeygt in dißem ſpruch/das die abges\nſtorbnen/wol für vns bitten mögen/dann was\nwolt er ſprächen/wann Moyſes vnd Samuel\nvor mir ſtünden/wañ es jnen nit hätte mögen zügelegt\nwerden zů bitten:",
         "b": "wol für vns bitten mögen /dann was\nwolt er ſprächen/ wann Moyſes vnnd Samuel\nvor mir ſtůnden/ wañ es jnen nit hette mögen zů\ngelegt werden zů bitten:",
-        "similarity": 0.6,
-        "semantic": 0.7495,
-        "reading": "same"
+        "similarity": 0.575
       },
       {
         "op": "match",
         "a": "als dz wåre ein vngeſchickte red/wañ\nman ſpråche/ob Sonn vnd Mon/båtten den herrn für\ndas volck/wurden ſy nit erhört:",
         "b": "als das wåre ein vnge=\nſchickte red/ wann man ſpråche/ ob Sonn vnnd\nMon/ båtten den herren für das volck /",
-        "similarity": 0.6512,
-        "semantic": 0.8345,
-        "reading": "same"
+        "similarity": 0.6512
       },
       {
         "op": "match",
         "a": "dann diſe zwo Creatu=\nren/die mögen ſömlichs niemer mer begriſflich ſyn. Wåchter. Ieder herr/wz wend jr vß deßem ſpruch ſchlieſ=\nſen.",
         "b": "wurden\nſy nit erhört: dann diſezwo Creaturen / die mö=\ngen ſömlichs niemer mer begrifflich ſin. Wåchter. Lieber herr / was wend jr vß diſem ſpruch\nſchlieſſen.",
-        "similarity": 0.4583,
-        "semantic": 0.7432,
-        "reading": "reworded"
+        "similarity": 0.4583
       },
       {
         "op": "match",
         "a": "Eſaias am lxiij. zů Gott ſpricht. So ſchow\nnun vom himmel herab/vnd lůg von diner hey\nligen wonung/vñ herrlikeyt.",
         "b": "Eſaias am lxiij zů Gott ſpricht: So\nſchow nun vom himel herab/ vnd lůg von diner\nheyligen wonung/ vnnd herligkeyt:",
-        "similarity": 0.7805,
-        "semantic": 0.9399,
-        "reading": "same"
+        "similarity": 0.7805
       },
       {
         "op": "match",
         "a": "Wo iſt din yfer vñ macht\ndie menge diner herlikeyt/vnnd din erbarmung/die ſich\nruch gegen mir erzeygt hatt/du biſt doch vnnſer vatter\nvnd Abraham weyßt nüt von vns/vnnd Iſrahel hatt\nvns nit erkent.",
         "b": "Wo iſt din\nyfer vnd macht/ die menge diner herligkeyt/ vnd\ndin erbarmung die ſich ruch gegen mir erzeygt\nhatt/",
-        "similarity": 0.5965,
-        "semantic": 0.7324,
-        "reading": "same"
+        "similarity": 0.6316
       },
       {
         "op": "only_a",
         "a": "Gilg Durer. Als wellé jr daruß ſchlieſſen/das vns vnſer vat=\nter Abraham nit bekent hat/vnd Iſrahel. Das\niſt zůuerſton/von der Perſon:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7362,
-        "semantic_match": "du biſt doch vnſer vatter/ vnnd Abraham\nweyſt nüt võ vns/ vñ Iſrael hatt vns nit erkeñt\nGilg Murer. Ff",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "vnd obs glich al=\nſo wåre/das wir ouch mögen zůgeben dz die alten våt=\nter nit",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6356,
-        "semantic_match": "Schlußred. CCXXV\nZwingly. ICh frag üch/ ob Moyſes vnnd Samuel vor\nder zükunfft Chriſti im himmel geweſen ſyend/ oder nit.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -105,12 +89,7 @@
         "b": "du biſt doch vnſer vatter/ vnnd Abraham\nweyſt nüt võ vns/ vñ Iſrael hatt vns nit erkeñt\nGilg Murer. Ff",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7673,
-    "reworded": 1,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
     "similarity": 0.6166,
@@ -196,8 +175,18 @@
       },
       {
         "op": "equal",
-        "a": "Samuel vor mir ſtünden wan es jnen nit",
-        "b": "Samuel vor mir ſtůnden wañ es jnen nit"
+        "a": "Samuel vor mir ſtünden",
+        "b": "Samuel vor mir ſtůnden"
+      },
+      {
+        "op": "replace",
+        "a": "wan",
+        "b": "wañ"
+      },
+      {
+        "op": "equal",
+        "a": "es jnen nit",
+        "b": "es jnen nit"
       },
       {
         "op": "replace",
@@ -366,18 +355,8 @@
       },
       {
         "op": "equal",
-        "a": "Wo iſt din yfer",
-        "b": "Wo iſt din yfer"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "macht die menge diner",
-        "b": "macht die menge diner"
+        "a": "Wo iſt din yfer vñ macht die menge diner",
+        "b": "Wo iſt din yfer vnd macht die menge diner"
       },
       {
         "op": "replace",
@@ -416,18 +395,8 @@
       },
       {
         "op": "equal",
-        "a": "nüt",
-        "b": "nüt"
-      },
-      {
-        "op": "replace",
-        "a": "von",
-        "b": "võ"
-      },
-      {
-        "op": "equal",
-        "a": "vns",
-        "b": "vns"
+        "a": "nüt von vns",
+        "b": "nüt võ vns"
       },
       {
         "op": "replace",
@@ -436,8 +405,18 @@
       },
       {
         "op": "equal",
-        "a": "hatt vns nit erkent Gilg",
-        "b": "hatt vns nit erkeñt Gilg"
+        "a": "hatt vns nit",
+        "b": "hatt vns nit"
+      },
+      {
+        "op": "replace",
+        "a": "erkent",
+        "b": "erkeñt"
+      },
+      {
+        "op": "equal",
+        "a": "Gilg",
+        "b": "Gilg"
       },
       {
         "op": "replace",

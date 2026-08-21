@@ -8,7 +8,7 @@
       317
     ]
   },
-  "alignment_score": 0.1889,
+  "alignment_score": 0.2061,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 16,
-    "matched": 2,
-    "only_a": 11,
-    "only_b": 3,
-    "similarity": 0.3611,
+    "units": 15,
+    "matched": 3,
+    "only_a": 10,
+    "only_b": 2,
+    "similarity": 0.3795,
     "pairs": [
       {
         "op": "only_a",
@@ -39,13 +39,13 @@
         "op": "match",
         "a": "So aber der text zü Thimo\ntheo vorgeſchriben/ von Martin Bůtzer geleyt wirt vff\ndie Kilchē/ vnd da nit redt von der Kilchē/",
         "b": "Die ander Schlußred\nlichen kilchen, das wol vermoge, dat man die kibchen¬\nColle horen, als Inn, So aber der Lext, zu Chimo¬\ntheo vorgesthriben, von Martin bucker geleit wirdt\nvff die kilchen vnd da nitt redt von der kilchen, dun¬\ndero von denen, die durch unglauben vnd Jrsal, vf:",
-        "similarity": 0.3889
+        "similarity": 0.4444
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "ſunders von\ndenen/ die durch vnglouben vnd jrfal vßtrettē ſind von\nder Kilchē/ darum ſo hoff ich/ min argument ſtand ſtyff/",
-        "b": null,
-        "similarity": 0.0
+        "b": "tritten vind von der Kilchen, darumb oo hoff Ich\nmin argument stand Stift, vnd sije vesten klicht\nbewart\nMartinus buijer,\n.2\nDer Picht vatter sagt, der Opruch.",
+        "similarity": 0.3333
       },
       {
         "op": "only_a",
@@ -90,18 +90,6 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
-        "a": "das den A=\npoſtlen/ diß orts befolden ward/ namlich dz heilig Eua. geliū/ das man Chriſtū hörē/ ſo man ſölichē hört.",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "tritten vind von der Kilchen, darumb oo hoff Ich\nmin argument stand Stift, vnd sije vesten klicht\nbewart\nMartinus buijer,\n.2\nDer Picht vatter sagt, der Opruch.",
-        "similarity": 0.0
-      },
-      {
         "op": "only_b",
         "a": null,
         "b": "i.r ad Thimo. iiii. rede nitt von der Christlichen Kilchen, Sunders von\nden abgetratnen vom glauben, das sagen ouch wir\nDarumb aber, Jo Vina Concilien vnd prelaten, fe\nvnd Opiss verbieten, so ligt es am tag, das Oi mit we¬\nnigers omd, dann die christlich kilch, Vff disen\nOpruch, wellen wir die Oach gesagt haben, Auch vff\ndisen, S'achen zu, das v'ch nitt widerfare ein rouber,\nAd Colossenses.",
@@ -115,9 +103,15 @@
       },
       {
         "op": "match",
-        "a": "Wär\nwil aber ſagen/ das man Chriſtum hörē/ ſo man leer der\ntüflen annimpt/ als da ſind verbott der ſpyß/",
+        "a": "das den A=\npoſtlen/ diß orts befolden ward/ namlich dz heilig Eua. geliū/ das man Chriſtū hörē/ ſo man ſölichē hört.",
         "b": "gaben wir gern zu, wer da pre¬\ndiget, das den Opostlen, dissorts beuolchen ward,\nnamlich das heilig Euangeluun, das man Christum\nthove, So man Colichen hort, waer wil aber sagen, das\nman Christum hove, So man er der tijfken annimpt",
-        "similarity": 0.3333
+        "similarity": 0.3607
+      },
+      {
+        "op": "only_a",
+        "a": "Wär\nwil aber ſagen/ das man Chriſtum hörē/ ſo man leer der\ntüflen annimpt/ als da ſind verbott der ſpyß/",
+        "b": null,
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -128,7 +122,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4818,
+    "similarity": 0.5109,
     "words": {
       "a": 291,
       "b": 257
@@ -221,18 +215,8 @@
       },
       {
         "op": "equal",
-        "a": "vff die",
-        "b": "vff die"
-      },
-      {
-        "op": "replace",
-        "a": "Kilchē",
-        "b": "kilchen"
-      },
-      {
-        "op": "equal",
-        "a": "vnd da",
-        "b": "vnd da"
+        "a": "vff die Kilchē vnd da",
+        "b": "vff die kilchen vnd da"
       },
       {
         "op": "replace",
@@ -241,13 +225,13 @@
       },
       {
         "op": "equal",
-        "a": "redt von der",
-        "b": "redt von der"
+        "a": "redt von der Kilchē",
+        "b": "redt von der kilchen"
       },
       {
         "op": "replace",
-        "a": "Kilchē ſunders",
-        "b": "kilchen dun dero"
+        "a": "ſunders",
+        "b": "dun dero"
       },
       {
         "op": "equal",
@@ -271,13 +255,13 @@
       },
       {
         "op": "equal",
-        "a": "von der",
-        "b": "von der"
+        "a": "von der Kilchē",
+        "b": "von der Kilchen"
       },
       {
         "op": "replace",
-        "a": "Kilchē darum ſo",
-        "b": "Kilchen darumb oo"
+        "a": "darum ſo",
+        "b": "darumb oo"
       },
       {
         "op": "equal",
@@ -351,18 +335,8 @@
       },
       {
         "op": "equal",
-        "a": "von der Chriſtlichen Kilchen ſunders",
-        "b": "von der Christlichen Kilchen Sunders"
-      },
-      {
-        "op": "replace",
-        "a": "vō",
-        "b": "von"
-      },
-      {
-        "op": "equal",
-        "a": "den",
-        "b": "den"
+        "a": "von der Chriſtlichen Kilchen ſunders vō den",
+        "b": "von der Christlichen Kilchen Sunders von den"
       },
       {
         "op": "replace",
@@ -401,13 +375,13 @@
       },
       {
         "op": "equal",
-        "a": "Concilien",
-        "b": "Concilien"
+        "a": "Concilien vñ",
+        "b": "Concilien vnd"
       },
       {
-        "op": "delete",
-        "a": "vñ prela ten Ee",
-        "b": ""
+        "op": "replace",
+        "a": "prela ten Ee",
+        "b": "prelaten fe"
       },
       {
         "op": "equal",
@@ -417,7 +391,7 @@
       {
         "op": "replace",
         "a": "ſpyß verbiete",
-        "b": "prelaten fe vnd Opiss verbieten"
+        "b": "Opiss verbieten"
       },
       {
         "op": "equal",
@@ -436,18 +410,28 @@
       },
       {
         "op": "replace",
-        "a": "dißen ſprůch wellē",
-        "b": "disen Opruch wellen"
+        "a": "dißen ſprůch",
+        "b": "disen Opruch"
       },
       {
         "op": "equal",
-        "a": "wir die",
-        "b": "wir die"
+        "a": "wellē wir die",
+        "b": "wellen wir die"
       },
       {
         "op": "replace",
-        "a": "ſach geſetzt habē ouch",
-        "b": "Oach gesagt haben Auch"
+        "a": "ſach geſetzt",
+        "b": "Oach gesagt"
+      },
+      {
+        "op": "equal",
+        "a": "habē",
+        "b": "haben"
+      },
+      {
+        "op": "replace",
+        "a": "ouch",
+        "b": "Auch"
       },
       {
         "op": "equal",
@@ -771,13 +755,13 @@
       },
       {
         "op": "equal",
-        "a": "das man",
-        "b": "das man"
+        "a": "das man Chriſtū",
+        "b": "das man Christum"
       },
       {
         "op": "replace",
-        "a": "Chriſtū hörē",
-        "b": "Christum thove"
+        "a": "hörē",
+        "b": "thove"
       },
       {
         "op": "equal",
@@ -840,7 +824,7 @@
         "b": ""
       }
     ],
-    "ops": 71,
+    "ops": 70,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       142
     ]
   },
-  "alignment_score": 0.2088,
+  "alignment_score": 0.2132,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 7,
     "only_b": 3,
-    "similarity": 0.464,
+    "similarity": 0.472,
     "pairs": [
       {
         "op": "only_a",
@@ -111,7 +111,7 @@
         "op": "match",
         "a": "die ouch nach vrteyl/ d wi=\nderparthy verdampt ſind/ die doch ſålig wåren wordē/ dann ſy ouch diſen Artickel gloubt haben.",
         "b": "vnnd ketzer der Christenlichen einigkeit / Die\nouch nach vrtheill der wider parthy verdampt\nsind / die doch saͤlig waͤren worden /",
-        "similarity": 0.3333
+        "similarity": 0.381
       },
       {
         "op": "match",
@@ -128,7 +128,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.35,
+    "similarity": 0.3577,
     "words": {
       "a": 288,
       "b": 232
@@ -196,8 +196,18 @@
       },
       {
         "op": "replace",
-        "a": "geſchwåtz bewe gen dañ ye",
-        "b": "geschwea tz bewegen Dann Je"
+        "a": "geſchwåtz bewe gen",
+        "b": "geschwea tz bewegen"
+      },
+      {
+        "op": "equal",
+        "a": "dañ",
+        "b": "Dann"
+      },
+      {
+        "op": "replace",
+        "a": "ye",
+        "b": "Je"
       },
       {
         "op": "equal",
@@ -456,8 +466,18 @@
       },
       {
         "op": "replace",
-        "a": "ſålig wåren wordē dann",
-        "b": "sa lig wa ren worden dan"
+        "a": "ſålig wåren",
+        "b": "sa lig wa ren"
+      },
+      {
+        "op": "equal",
+        "a": "wordē",
+        "b": "worden"
+      },
+      {
+        "op": "replace",
+        "a": "dann",
+        "b": "dan"
       },
       {
         "op": "equal",
@@ -510,7 +530,7 @@
         "b": "keiner wie hochgelert er sie schuldig vnnd pflichtig sy alle artigkell vnd alle stu ck schafft ze vnd alle gschrifft Ze verstan vnnd zeglauben vsß trucklich Es ist aber gnu g dem einfa lltigen Das Der glaubt mit gemeiner Christenlicher kilchenn Dero der heid her zu gseyt hat sinen geist bisß zu ennd der welldt"
       }
     ],
-    "ops": 38,
+    "ops": 40,
     "truncated": false
   }
 }

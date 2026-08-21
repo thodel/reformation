@@ -8,7 +8,7 @@
       212
     ]
   },
-  "alignment_score": 0.4567,
+  "alignment_score": 0.4862,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,15 +27,13 @@
     "matched": 6,
     "only_a": 2,
     "only_b": 4,
-    "similarity": 0.6117,
+    "similarity": 0.6281,
     "pairs": [
       {
         "op": "match",
         "a": "Die ander\nBestanden/oder jr widerspråchend. Ir sechend ouch/wie\nsich die/so die artickel für güt bekennen/so trüwlich zůsa\nmen halten/darum bitt vñ erman ich üch abermals vmb\ngots willen/jr die widerspråcher/wellend üch ouch zůsa=\nmen thůn/einandern trostlich sin/mit hilff/radt/schrybē\nvnd reden/das werden vnser gnådig herren/zum höch=\nsten wol vergüt/vñ als ein gnådig wolgefallē/mit groſ\nser danckbarkeit annemen/doch das dz allweg bescheche\nnach ordnung/jnnhalt vnd anwysen des Christenlichen\ndarumb angesåchnen Mandats.",
         "b": ". Die ander\n\nwiderſprechend. Jr ſehend ouch/ wie ſich die/ ſo\ndie Artickel für gůt bekennen/ ſo trüwlich zůſa=\nmen halten.",
-        "similarity": 0.3208,
-        "semantic": 0.672,
-        "reading": "reworded"
+        "similarity": 0.3208
       },
       {
         "op": "only_b",
@@ -59,47 +57,37 @@
         "op": "match",
         "a": "Allerius Grad/bychschåtter in der\nInsel/Prediger ordens. IN dinem namen herr Jesu Christ. Ersamē/wy\nsen/günstigē lieben herren/Die ander schlußred/",
         "b": "Alexius Grad / Bychtuatter in\nder Jnſel/ Prediger ordens. Jn dinem namen herr Jeſu Chriſt. Erſamen\nwyſen/ günſtigẽ lieben herrn/ Die ander ſchluß\nred/",
-        "similarity": 0.6087,
-        "semantic": 0.852,
-        "reading": "same"
+        "similarity": 0.6522
       },
       {
         "op": "match",
         "a": "yetzt etlich zyt disputiert/die selbig hat nach mi\nnem vstand/zwen teyl. Der erst/Die Kilch Christi ma\ncher nit gesetzt noch statuten one das gottes wort.",
         "b": "yetz etlich zyt diſputiert / die ſelbig hat nach\nminem verſtand/ zween teyl. Der erſt/ Die kilch\nChriſti machet nitt geſetzt noch ſtatuten one das\ngottes wort.",
-        "similarity": 0.7407,
-        "semantic": 0.7709,
-        "reading": "same"
+        "similarity": 0.7407
       },
       {
         "op": "match",
         "a": "Diſen\nteyl halt ich für war. Den andren teyl/der da lutet/das\ndaruß volg vnd beschåche/das alle menschlich satzungē/",
         "b": "Diſen teyl halt ich für war. Den\nandern teyl / der da lutet/ das daruß volg vnnd\nbeſchåche/ das all menſchlich ſatzungen /",
-        "similarity": 0.8095,
-        "semantic": 0.8413,
-        "reading": "same"
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "die von\nvns/ der Kilchen gebott genant ſind/ vnſer con=\nſcientz nit anders binden/ dañ als vil ſy im gots\nwort gegründt ſind /",
-        "similarity": 0.0
+        "similarity": 0.8571
       },
       {
         "op": "match",
         "a": "die von vns/der Kilchen gebot genant sind/vnser con=\nscientz nit anders binden/dann als vil sy im gotswort ge\ngründt sind/oder gebotten/den selben gib ich ouch zů/in\nrechtem gesundem verstand/den selben verstand recht ze\nsůchē/söllen wir gan in die schrifft.",
+        "b": "die von\nvns/ der Kilchen gebott genant ſind/ vnſer con=\nſcientz nit anders binden/ dañ als vil ſy im gots\nwort gegründt ſind /",
+        "similarity": 0.5429
+      },
+      {
+        "op": "only_b",
+        "a": null,
         "b": "oder gebotten : den ſelben\ngib ich ouch zů / in rechtem geſundem verſtand\nden ſelben verſtand recht zeſůchen/ ſoͤllẽ wir gon\nin die gſchrifft.",
-        "similarity": 0.5352,
-        "semantic": 0.6911,
-        "reading": "same"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Nun stadt Joan. xvj. Ich hab üch noch vil zesagē/jr mögends aber yetz nit tra\ngen: wenn aber der geist der warheit komen wirt/so wirt\ner üch leren alle warheit:",
         "b": "Nun ſtadt Johann. am xvj. Jch\nhab üch noch vil zeſagẽ/ jr moͤgends aber yetz nit\ntragen : wenn aber der geyſt der warheit komen\nwirt",
-        "similarity": 0.6552,
-        "semantic": 0.7641,
-        "reading": "same"
+        "similarity": 0.6552
       },
       {
         "op": "only_a",
@@ -111,20 +99,12 @@
         "op": "only_a",
         "a": "Disen geist\nvnnd lerer/hat Christus vnser Herr/siner Kilchen/nit",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7761,
-        "semantic_match": "mitt\ngroſſer danckbarkeyt anemmen : Doch das/ das\nallweg beſchehe nach ordnung/ jnnhalt vnd an=\nwyſen des Chriſtenlichen darumb angeſechnen\nMandats.",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7668,
-    "reworded": 1,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.6574,
+    "similarity": 0.6733,
     "words": {
       "a": 274,
       "b": 228
@@ -222,13 +202,13 @@
       },
       {
         "op": "equal",
-        "a": "als ein gnådig",
-        "b": "als ein gnådig"
+        "a": "als ein gnådig wolgefallē",
+        "b": "als ein gnådig wolgefallen"
       },
       {
         "op": "replace",
-        "a": "wolgefallē mit groſ ser danckbarkeit annemen",
-        "b": "wolgefallen mitt groſſer danckbarkeyt anemmen"
+        "a": "mit groſ ser danckbarkeit annemen",
+        "b": "mitt groſſer danckbarkeyt anemmen"
       },
       {
         "op": "equal",
@@ -312,13 +292,13 @@
       },
       {
         "op": "equal",
-        "a": "dinem namen herr Jesu Christ",
-        "b": "dinem namen herr Jeſu Chriſt"
+        "a": "dinem namen herr Jesu Christ Ersamē",
+        "b": "dinem namen herr Jeſu Chriſt Erſamen"
       },
       {
         "op": "replace",
-        "a": "Ersamē wy sen",
-        "b": "Erſamen wyſen"
+        "a": "wy sen",
+        "b": "wyſen"
       },
       {
         "op": "equal",
@@ -392,18 +372,8 @@
       },
       {
         "op": "equal",
-        "a": "menschlich",
-        "b": "menſchlich"
-      },
-      {
-        "op": "replace",
-        "a": "satzungē",
-        "b": "ſatzungen"
-      },
-      {
-        "op": "equal",
-        "a": "die von vns der Kilchen",
-        "b": "die von vns der Kilchen"
+        "a": "menschlich satzungē die von vns der Kilchen",
+        "b": "menſchlich ſatzungen die von vns der Kilchen"
       },
       {
         "op": "replace",
@@ -412,18 +382,8 @@
       },
       {
         "op": "equal",
-        "a": "genant sind vnser con scientz nit anders binden",
-        "b": "genant ſind vnſer con ſcientz nit anders binden"
-      },
-      {
-        "op": "replace",
-        "a": "dann",
-        "b": "dañ"
-      },
-      {
-        "op": "equal",
-        "a": "als vil sy im",
-        "b": "als vil ſy im"
+        "a": "genant sind vnser con scientz nit anders binden dann als vil sy im",
+        "b": "genant ſind vnſer con ſcientz nit anders binden dañ als vil ſy im"
       },
       {
         "op": "replace",
@@ -521,7 +481,7 @@
         "b": ""
       }
     ],
-    "ops": 39,
+    "ops": 37,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       19
     ]
   },
-  "alignment_score": 0.9746,
+  "alignment_score": 0.9573,
   "coarse": {
     "paragraphs": {
       "a": 7,
@@ -27,31 +27,25 @@
     "matched": 5,
     "only_a": 1,
     "only_b": 0,
-    "similarity": 0.8272,
+    "similarity": 0.8214,
     "pairs": [
       {
         "op": "match",
         "a": "Vber diſe nachuolgend\nSchlußreden/ wellend wir Franciſcus Kolb/ vnd Berchtoldus Haller / beid Predicanten zů Bern/ ſampt anderen die das Euangelium veriechend /",
         "b": "Vber diſe nachuolgend\nSchlußreden/wellend wir Franciſcus Kolb/ vnd Berchtoldus Haller / beid Predicanten zů Bern/ ſampt anderen die das Euangelium verjechend /",
-        "similarity": 1.0,
-        "semantic": 0.9495,
-        "reading": "same"
+        "similarity": 1.0
       },
       {
         "op": "match",
         "a": "einem jeden/ mit\nGott/ antwurt vnd bericht geben/ vß Heiliger Bibliſcher Ge=\nſchrifft/ Nüws vnd Alts Teſtaments/ vff angeſetztem\nTag zů Bern/",
         "b": "einem jeden/mit\nGott/antwurt vnd bericht geben/vß Heiliger Bibliſcher Ge=\nſchrifft/ Nüws vnd Alts Teſtaments/vff angeſetztem\nTag zů Bern/Sonnentag nach Circumciſio=\nnis/jm Jar.",
-        "similarity": 0.88,
-        "semantic": 0.939,
-        "reading": "same"
+        "similarity": 0.88
       },
       {
         "op": "match",
         "a": "Sonnentag nach Circumciſio=\nnis/ jm Jar. M. D. XXVIII. I. Die Heilig Chriſtenlich Kilch/ deren ei=\nnig Houpt Chriſtus/ iſt vß dem Wort Gottes\ngeboren /",
         "b": "M. D. XXVIII. I. Die Heilig Chriſtenlich Kilch/deren ei=\nnig Houpt Chriſtus/iſt vß dem Wort Gottes\ngeboren/ im ſelben belybt ſy/vnd hoͤrt nit die\nStīm̃ eines Froͤmbden.",
-        "similarity": 0.6552,
-        "semantic": 0.9192,
-        "reading": "same"
+        "similarity": 0.6552
       },
       {
         "op": "only_a",
@@ -63,27 +57,18 @@
         "op": "match",
         "a": "Deßhalb all Men=\nſchen Satzungen/ ſo man nempt der Kilchen\nBott/ vns nit wyter bindend/ dañ ſy in Goͤtt=\nlichem Wort gegruͤndt vnd botten ſind.",
         "b": "Am blat. 4. II. Die Kilch Chriſti machet nit Geſatz vnd\nBott ohn Gottes Wort/ Deßhalb all Men=\nſchen Satzungen/ſo man nempt der Kilchen\nBott/vns nit wyter bindend/dañ ſy in Goͤtt=\nlichem Wort gegruͤndt vnd botten ſind.",
-        "similarity": 0.7826,
-        "semantic": 0.8788,
-        "reading": "same"
+        "similarity": 0.7536
       },
       {
         "op": "match",
         "a": "Am\nblat. 156. III. Chriſtus iſt vnſer einige Wyßheit/ Ge=\n¶¶ ij",
         "b": "Am\nblat. IS6. III. Chriſtus iſt vnſer einige Wyßheit / Ge=\n¶ ¶ iij",
-        "similarity": 0.8182,
-        "semantic": 0.915,
-        "reading": "same"
+        "similarity": 0.8182
       }
-    ],
-    "semantic": 0.9203,
-    "reworded": 0,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.974,
+    "similarity": 0.9665,
     "words": {
       "a": 134,
       "b": 135
@@ -101,8 +86,18 @@
       },
       {
         "op": "equal",
-        "a": "eines Fro mbden Am blat 4 II Die Kilch Chriſti machet nit Geſatz vnd Bott ohn Gottes Wort Deßhalb all Men ſchen Satzungen ſo man nempt der Kilchen Bott vns nit wyter bindend dan ſy in Go tt lichem Wort gegru ndt vnd botten ſind Am blat",
-        "b": "eines Fro mbden Am blat 4 II Die Kilch Chriſti machet nit Geſatz vnd Bott ohn Gottes Wort Deßhalb all Men ſchen Satzungen ſo man nempt der Kilchen Bott vns nit wyter bindend dañ ſy in Go tt lichem Wort gegru ndt vnd botten ſind Am blat"
+        "a": "eines Fro mbden Am blat 4 II Die Kilch Chriſti machet nit Geſatz vnd Bott ohn Gottes Wort Deßhalb all Men ſchen Satzungen ſo man nempt der Kilchen Bott vns nit wyter bindend",
+        "b": "eines Fro mbden Am blat 4 II Die Kilch Chriſti machet nit Geſatz vnd Bott ohn Gottes Wort Deßhalb all Men ſchen Satzungen ſo man nempt der Kilchen Bott vns nit wyter bindend"
+      },
+      {
+        "op": "replace",
+        "a": "dan",
+        "b": "dañ"
+      },
+      {
+        "op": "equal",
+        "a": "ſy in Go tt lichem Wort gegru ndt vnd botten ſind Am blat",
+        "b": "ſy in Go tt lichem Wort gegru ndt vnd botten ſind Am blat"
       },
       {
         "op": "replace",
@@ -120,7 +115,7 @@
         "b": "iij"
       }
     ],
-    "ops": 3,
+    "ops": 4,
     "truncated": false
   }
 }

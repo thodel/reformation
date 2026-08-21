@@ -8,7 +8,7 @@
       202
     ]
   },
-  "alignment_score": 0.1106,
+  "alignment_score": 0.1283,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 3,
     "only_b": 1,
-    "similarity": 0.406,
+    "similarity": 0.4181,
     "pairs": [
       {
         "op": "only_a",
@@ -57,7 +57,7 @@
         "op": "match",
         "a": "vñ aber die\nſach yetz widerumb in ſpan kommen iſt / diewyl aber es\nmir ſchwår iſt / von ſolchem lang geübtē/vnſer vordern\nglouben zeſton/den wir ſo in langer gewård/vnd beſitz=\nung gehebt hand /",
         "b": "Isthever ist, von sulchem lang geubten vnser\nperdern glonken, zestan, den wir so Jun\nlanger gewerd vnnd besitzung gegept hand/",
-        "similarity": 0.3273
+        "similarity": 0.3636
       },
       {
         "op": "match",
@@ -74,7 +74,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3208,
+    "similarity": 0.3308,
     "words": {
       "a": 242,
       "b": 157
@@ -187,18 +187,8 @@
       },
       {
         "op": "equal",
-        "a": "hand",
-        "b": "hand"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "aber die ſach",
-        "b": "aber die sach"
+        "a": "hand vñ aber die ſach",
+        "b": "hand vnd aber die sach"
       },
       {
         "op": "replace",
@@ -237,18 +227,8 @@
       },
       {
         "op": "equal",
-        "a": "lang",
-        "b": "lang"
-      },
-      {
-        "op": "replace",
-        "a": "geübtē",
-        "b": "geubten"
-      },
-      {
-        "op": "equal",
-        "a": "vnſer",
-        "b": "vnser"
+        "a": "lang geübtē vnſer",
+        "b": "lang geubten vnser"
       },
       {
         "op": "replace",
@@ -426,7 +406,7 @@
         "b": "zum galachern vande cap Ir solle und ein andern vnder wysen Im geist der saufftmuthkeit Ick pitt aber vch Alle min hern vande fromen Christen"
       }
     ],
-    "ops": 35,
+    "ops": 33,
     "truncated": false
   }
 }

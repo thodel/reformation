@@ -8,7 +8,7 @@
       210
     ]
   },
-  "alignment_score": 0.2355,
+  "alignment_score": 0.251,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 16,
-    "matched": 5,
-    "only_a": 8,
-    "only_b": 3,
-    "similarity": 0.5105,
+    "units": 15,
+    "matched": 6,
+    "only_a": 7,
+    "only_b": 2,
+    "similarity": 0.4827,
     "pairs": [
       {
         "op": "only_a",
@@ -45,7 +45,7 @@
         "op": "match",
         "a": "die das anzeigt/ das das die meynung\nChristi sye gsin/ allen zegebẽ die schlüssel/ so wil ich abstan\ndes puncten.",
         "b": "nnung Christi sig gsin allen zegeben die schluͤssel\nDann\nso will ich abstan des puncten. wir finden desglichen ouch mer Im Euangelio/",
-        "similarity": 0.4186
+        "similarity": 0.4651
       },
       {
         "op": "match",
@@ -54,16 +54,10 @@
         "similarity": 0.4651
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "dz wir die vile spyßind: Jo\nhannis. vj. cap. So antwurt Philippus vñ nit Petrus. Es hat ouch ein gůte gestalt/",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
         "b": "Da antwurt\nhilippus vnd nit Petrus/.Es het ouch ein\nguͦte/ gestallt/ das/ so petrus der hetziger ist ge//",
-        "similarity": 0.0
+        "similarity": 0.3415
       },
       {
         "op": "match",
@@ -87,7 +81,7 @@
         "op": "match",
         "a": "Christus hat Petro die schlüssel verheyssen/ dañ\ner vest im glouben/ vñ ein velser was. Sas aber\ner in dem namen aller jünger geantwurt hab/",
         "b": "heissen / Dan er vest Im glouben vnnd ein\nIelser was/ Das aber er In dem namen\naller Junger/ geantwurt/ hab /",
-        "similarity": 0.6667
+        "similarity": 0.6222
       },
       {
         "op": "match",
@@ -128,7 +122,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4541,
+    "similarity": 0.4629,
     "words": {
       "a": 276,
       "b": 182
@@ -191,18 +185,8 @@
       },
       {
         "op": "equal",
-        "a": "gsin allen",
-        "b": "gsin allen"
-      },
-      {
-        "op": "replace",
-        "a": "zegebẽ",
-        "b": "zegeben"
-      },
-      {
-        "op": "equal",
-        "a": "die",
-        "b": "die"
+        "a": "gsin allen zegebẽ die",
+        "b": "gsin allen zegeben die"
       },
       {
         "op": "replace",
@@ -241,18 +225,8 @@
       },
       {
         "op": "equal",
-        "a": "ouch mer im",
-        "b": "ouch mer Im"
-      },
-      {
-        "op": "replace",
-        "a": "Euãgelio",
-        "b": "Euangelio"
-      },
-      {
-        "op": "equal",
-        "a": "das Christus die",
-        "b": "Das Christus die"
+        "a": "ouch mer im Euãgelio das Christus die",
+        "b": "ouch mer Im Euangelio Das Christus die"
       },
       {
         "op": "replace",
@@ -306,13 +280,13 @@
       },
       {
         "op": "replace",
-        "a": "Philippus vñ",
-        "b": "hilippus vnd"
+        "a": "Philippus",
+        "b": "hilippus"
       },
       {
         "op": "equal",
-        "a": "nit Petrus Es",
-        "b": "nit Petrus Es"
+        "a": "vñ nit Petrus Es",
+        "b": "vnd nit Petrus Es"
       },
       {
         "op": "replace",
@@ -426,13 +400,13 @@
       },
       {
         "op": "replace",
-        "a": "schlüssel verheyssen",
-        "b": "schlu ssell ver heissen"
+        "a": "schlüssel verheyssen dañ",
+        "b": "schlu ssell ver heissen Dan"
       },
       {
         "op": "equal",
-        "a": "dañ er vest im glouben",
-        "b": "Dan er vest Im glouben"
+        "a": "er vest im glouben",
+        "b": "er vest Im glouben"
       },
       {
         "op": "replace",
@@ -520,7 +494,7 @@
         "b": "beschechen Johanns"
       }
     ],
-    "ops": 39,
+    "ops": 37,
     "truncated": false
   }
 }

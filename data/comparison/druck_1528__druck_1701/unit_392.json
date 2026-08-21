@@ -8,7 +8,7 @@
       407
     ]
   },
-  "alignment_score": 0.2447,
+  "alignment_score": 0.2513,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 3,
     "only_b": 4,
-    "similarity": 0.555,
+    "similarity": 0.5638,
     "pairs": [
       {
         "op": "only_b",
@@ -45,25 +45,19 @@
         "op": "match",
         "a": "Schlußred. CXC\nDannberger\nPaulus der heylig Apostel redt/namlichenn/das der\nhoch vnd obrest Priester/werde bitten für die sünd\nder menschen.",
         "b": "Wannberger. PAulus der heilig Appſtel redt / namlichen / daß der\nHoch- und Oberst- Priester werde bitten für die\nSünd der Menschen.",
-        "similarity": 0.6667,
-        "semantic": 0.8089,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "match",
         "a": "Das hat ouch bezüget das alt Testa\nment/Numeri.xvj.Sañ Aaron was ein Priester des al\nten Testaments/welcher gestanden ist zwüschen den lä\nbenden vnd todten/vnd hat gebätten.zc.",
         "b": "Das hat auch bezüget das Alt\nTestament. Numeri am 16. Dann Aaron was ein\nPriester deß Alten Testaments / welcher gestanden ist\nzwüschen den lebenden und todten /",
-        "similarity": 0.6207,
-        "semantic": 0.7555,
-        "reading": "same"
+        "similarity": 0.6207
       },
       {
         "op": "match",
         "a": "Berchtoldus Haller. DAs W. Hans anzücht/von dem gebätt Aarons/ ist alles in Christo erfüllt/wie in disem fünfften ca\npitel glych volgt:",
         "b": "und hat gebätten.zc. Berchtoldus Haller. DAß M. Hans anzücht von dem Gebätt Aa-\nrons/ ist alles in Christo erfüllet /",
-        "similarity": 0.5116,
-        "semantic": 0.8093,
-        "reading": "same"
+        "similarity": 0.5116
       },
       {
         "op": "only_b",
@@ -75,27 +69,19 @@
         "op": "match",
         "a": "Vnd er hat am tag sins fleischs.zc. Text verlesen. Dannberger. Jch blyb by dem Text. Berchtoldus. Jch ouch. Büchstab\nJn anfang diser Schlußred/võ hern Berchtolde\nyngefürt/hab ich noch nit gar bantwurt, Sag al=\nso:",
         "b": "Berchtoldus. JCh auch. Büchstab. DEn Anfang diser Schlußred von Herren Berchtold\nyngeführt/ hab ich noch nit gar verantwort/ sag also:",
-        "similarity": 0.4211,
-        "semantic": 0.7805,
-        "reading": "reworded"
+        "similarity": 0.4561
       },
       {
         "op": "only_a",
         "a": "Der gegenwurff/dz der Opffrer besser sin müß/ dann das geopffret wirt/Jst one schrifft/dann niendert\nstade mit vßgetruckten worten/das Abel besser syeg sin\ndann das er geopffret hat:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6166,
-        "semantic_match": "zun Galatern am I. Auß dem folget darum nit / daß die\nMäß ein Opffer sey : folget auch nit / daß die Schrifft\nPauli zwyffelhafftig seye.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "dann in solicher gestalt/wurde\nkein sündender priester dözffe töuffen: so doch der Touff\nbesser ist/dann der Touffer. So hat Maria die müter/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6413,
-        "semantic_match": "zun Galatern am I. Auß dem folget darum nit / daß die\nMäß ein Opffer sey : folget auch nit / daß die Schrifft\nPauli zwyffelhafftig seye.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -109,15 +95,10 @@
         "b": "Der gegenwurff/ daß der opfferer besser syn müß/ dann das\nCcc iij                  geopf-\n\n## Marginalien\nund ward\nder Text\nverlesen.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7353,
-    "reworded": 1,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4427,
+    "similarity": 0.448,
     "words": {
       "a": 204,
       "b": 171
@@ -320,13 +301,13 @@
       },
       {
         "op": "equal",
-        "a": "anfang diser Schlußred",
-        "b": "Anfang diser Schlußred"
+        "a": "anfang diser Schlußred võ",
+        "b": "Anfang diser Schlußred von"
       },
       {
         "op": "replace",
-        "a": "võ hern Berchtolde yngefürt",
-        "b": "von Herren Berchtold yngeführt"
+        "a": "hern Berchtolde yngefürt",
+        "b": "Herren Berchtold yngeführt"
       },
       {
         "op": "equal",

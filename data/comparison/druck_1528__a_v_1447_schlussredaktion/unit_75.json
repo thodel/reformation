@@ -8,7 +8,7 @@
       138
     ]
   },
-  "alignment_score": 0.2848,
+  "alignment_score": 0.3101,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,18 +23,12 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 9,
-    "matched": 3,
-    "only_a": 2,
-    "only_b": 4,
-    "similarity": 0.4844,
+    "units": 8,
+    "matched": 4,
+    "only_a": 1,
+    "only_b": 3,
+    "similarity": 0.4997,
     "pairs": [
-      {
-        "op": "only_a",
-        "a": "Die erſt\nin ſtucken des gloubens/dheins wegs teylen. Jch erman\nſich aber frommen Chriſten/jr wellend ein hoch vffſechē\nhaben/vff die rechten ſecten/vñ vff die rechten zertren\nner Chriſtenlicher eynigkeit/vnd die ſo ſich in den hoͤch\nſten ſtucken des gloubens/anfachen zertrennen:",
-        "b": null,
-        "similarity": 0.0
-      },
       {
         "op": "only_b",
         "a": null,
@@ -48,10 +42,10 @@
         "similarity": 0.0
       },
       {
-        "op": "only_b",
-        "a": null,
+        "op": "match",
+        "a": "Die erſt\nin ſtucken des gloubens/dheins wegs teylen. Jch erman\nſich aber frommen Chriſten/jr wellend ein hoch vffſechē\nhaben/vff die rechten ſecten/vñ vff die rechten zertren\nner Chriſtenlicher eynigkeit/vnd die ſo ſich in den hoͤch\nſten ſtucken des gloubens/anfachen zertrennen:",
         "b": "Christen / Ir wellennd ein hoch vffsechen / haben / vff Die retten  rechten Secten vnnd vff die rechtenn / vnd die\nZertrenner / Christenlicher einigkeit\nso sich Jnn den hoͤchsten stucken des gloubens /",
-        "similarity": 0.0
+        "similarity": 0.5455
       },
       {
         "op": "match",
@@ -86,7 +80,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4895,
+    "similarity": 0.5053,
     "words": {
       "a": 179,
       "b": 201
@@ -149,18 +143,8 @@
       },
       {
         "op": "equal",
-        "a": "ein hoch",
-        "b": "ein hoch"
-      },
-      {
-        "op": "replace",
-        "a": "vffſechē",
-        "b": "vffsechen"
-      },
-      {
-        "op": "equal",
-        "a": "haben vff die",
-        "b": "haben vff Die"
+        "a": "ein hoch vffſechē haben vff die",
+        "b": "ein hoch vffsechen haben vff Die"
       },
       {
         "op": "insert",
@@ -314,13 +298,13 @@
       },
       {
         "op": "replace",
-        "a": "vnderſcheyd habē",
-        "b": "vnderscheid haben"
+        "a": "vnderſcheyd",
+        "b": "vnderscheid"
       },
       {
         "op": "equal",
-        "a": "in",
-        "b": "In"
+        "a": "habē in",
+        "b": "haben In"
       },
       {
         "op": "replace",
@@ -404,13 +388,13 @@
       },
       {
         "op": "replace",
-        "a": "vffſechen zehabē",
-        "b": "vff sechen zehaben"
+        "a": "vffſechen",
+        "b": "vff sechen"
       },
       {
         "op": "equal",
-        "a": "Es zeigt vns ouch an Martin Bůtzer wie das alle Concilia",
-        "b": "Es zeigt vns ouch an Martin butzer Wie Das alle Concilia"
+        "a": "zehabē Es zeigt vns ouch an Martin Bůtzer wie das alle Concilia",
+        "b": "zehaben Es zeigt vns ouch an Martin butzer Wie Das alle Concilia"
       },
       {
         "op": "replace",
@@ -458,7 +442,7 @@
         "b": "glaubens"
       }
     ],
-    "ops": 37,
+    "ops": 36,
     "truncated": false
   }
 }

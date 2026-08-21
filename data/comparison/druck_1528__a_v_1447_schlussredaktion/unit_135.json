@@ -8,7 +8,7 @@
       249
     ]
   },
-  "alignment_score": 0.1719,
+  "alignment_score": 0.1831,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 2,
     "only_a": 11,
     "only_b": 3,
-    "similarity": 0.3665,
+    "similarity": 0.3861,
     "pairs": [
       {
         "op": "only_a",
@@ -57,7 +57,7 @@
         "op": "match",
         "a": "durch ſin ſterbē vß blůt vergieſſen/ wie\niſt ſy dan vor jm gewäſen/ diſē wort zeygēt an einen groſ\nſen vnuerſtand diſer Gőttlicher dingē/",
         "b": "sier siden blut vnd wasser ge¬\nflossen ist, Batt min Christus die kirch\nGöberkomen, Durch sin sterben vnd blut ver¬\nwie ist sy dan vor Im gewasen\n.",
-        "similarity": 0.3922
+        "similarity": 0.4314
       },
       {
         "op": "only_a",
@@ -128,7 +128,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3969,
+    "similarity": 0.4047,
     "words": {
       "a": 307,
       "b": 202
@@ -241,13 +241,13 @@
       },
       {
         "op": "equal",
-        "a": "durch ſin",
-        "b": "Durch sin"
+        "a": "durch ſin ſterbē",
+        "b": "Durch sin sterben"
       },
       {
         "op": "replace",
-        "a": "ſterbē vß",
-        "b": "sterben vnd"
+        "a": "vß",
+        "b": "vnd"
       },
       {
         "op": "equal",
@@ -265,14 +265,14 @@
         "b": "wie ist sy dan vor Im gewasen"
       },
       {
-        "op": "insert",
-        "a": "",
-        "b": "gijssen"
+        "op": "replace",
+        "a": "diſē",
+        "b": "gijssen Dise"
       },
       {
         "op": "equal",
-        "a": "diſē wort",
-        "b": "Dise wort"
+        "a": "wort",
+        "b": "wort"
       },
       {
         "op": "replace",
@@ -296,13 +296,13 @@
       },
       {
         "op": "replace",
-        "a": "Gőttlicher dingē",
-        "b": "gewlichen Dingen"
+        "a": "Gőttlicher",
+        "b": "gewlichen"
       },
       {
         "op": "equal",
-        "a": "der im billich",
-        "b": "der Im billich"
+        "a": "dingē der im billich",
+        "b": "Dingen der Im billich"
       },
       {
         "op": "replace",
@@ -551,18 +551,8 @@
       },
       {
         "op": "equal",
-        "a": "gemacht ob er",
-        "b": "gemacht ob er"
-      },
-      {
-        "op": "replace",
-        "a": "jnē",
-        "b": "Inen"
-      },
-      {
-        "op": "equal",
-        "a": "ſchon nit ſo",
-        "b": "schon nit so"
+        "a": "gemacht ob er jnē ſchon nit ſo",
+        "b": "gemacht ob er Inen schon nit so"
       },
       {
         "op": "replace",
@@ -630,7 +620,7 @@
         "b": "kirch"
       }
     ],
-    "ops": 50,
+    "ops": 49,
     "truncated": false
   }
 }

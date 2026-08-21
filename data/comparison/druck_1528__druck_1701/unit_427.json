@@ -8,7 +8,7 @@
       443
     ]
   },
-  "alignment_score": 0.3025,
+  "alignment_score": 0.3168,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -27,15 +27,13 @@
     "matched": 6,
     "only_a": 0,
     "only_b": 2,
-    "similarity": 0.43,
+    "similarity": 0.4438,
     "pairs": [
       {
         "op": "match",
         "a": "Dis iſt die ſibend\nDas nach dißem zyt kein Fågfür in\nder ſchrifft erfunden wirt. Deßhalb alle\ntodtendienſt/als Vigil/Seelmäsz/Seel=\ngråt/ſibend/drißgoſt/jarzit/amplen/ker=\ntzen/vnd derglichen/vergeblich ſind.",
         "b": "Die Sibend Schlußred. 427\n\nDiß iſt\nDie Sibend Schlußred. Daß nach diſer Zyt kein Fågfür in der Geſchrifft erfun-\nden wird.",
-        "similarity": 0.3333,
-        "semantic": 0.7568,
-        "reading": "reworded"
+        "similarity": 0.3333
       },
       {
         "op": "only_b",
@@ -47,41 +45,31 @@
         "op": "match",
         "a": "Berchtoldus Haller. Die Schlußred iſt ſü\nteyl gnůgſam bewårdt/in der\ndritten/da wir bekennē/Chri\nſtum vnſer einige wyßheit/ge\nrechtigkeit/erlöſung vnd be=\nzalūg für aller welt ſünd.",
         "b": "da wir bekennen / Chriſtum un-\nſer einige Wyßheit / Gerechtigkeit / Erlöſung\nund Bezahlung für aller Welt Sünd. So\nfolget je von nöhten /",
-        "similarity": 0.3922,
-        "semantic": 0.6071,
-        "reading": "reworded"
+        "similarity": 0.4314
       },
       {
         "op": "match",
         "a": "So\nvolget ye von nöten/das kein\nander gnůgthůn/vnnd beza=\nlen für die ſünd/den abgeſtorb\nnen nachzerhůn/ſin mag/dañ\ndas lyden Chriſti.",
         "b": "daß kein ander Gnügthůn und Be-\nzahlung für die Sünd / den Abgeſtorbnen nachzethůn / ſyn mag / dann das Lyden Chriſti. Zum andern /",
-        "similarity": 0.4783,
-        "semantic": 0.6621,
-        "reading": "reworded"
+        "similarity": 0.5217
       },
       {
         "op": "match",
         "a": "Zum andren/Johannis iij. ſpricht\nder Herr: Alſo hat Gott die welt lieb gehept/das er ſin\neinigen ſun gab/vff das alle/die in jnn glouben/nit verlo\nren werden/ſunder das ewig låben haben:",
         "b": "Johan-\nnis am 3. ſpricht der Herz: Alſo hat Gott die Welt lieb\ngehabt / daß er ſynen einigen Sohn gab /",
-        "similarity": 0.3929,
-        "semantic": 0.7389,
-        "reading": "reworded"
+        "similarity": 0.3929
       },
       {
         "op": "match",
         "a": "dan Gott hat\nſin Sun nitt geſandt in die welt/das er die welt richte/ ſunders/das die welt durch jn ſålig werde.",
         "b": "uff daß alle / die\nin ihn glauben / nit verlohren werden / ſonder das ewig\nLeben haben: Dann Gott hat ſynen Sohn nit geſandt in\ndie Welt/daß er die Welt richte/ſonder daß die Welt durch\nihn ſelig werde.",
-        "similarity": 0.459,
-        "semantic": 0.6919,
-        "reading": "reworded"
+        "similarity": 0.459
       },
       {
         "op": "match",
         "a": "Wår an jnn\ngloubt/der wirt nit gericht: wår aber nit gloubt/der iſt\nſchon gericht. Hie iſt offenbar/das den glöubigen vol=\nget das ewig låben/nach jrem abſcheyd vß diſer zyt. Nů\naber",
         "b": "Wer an ihn glaubt / der wird nit gericht: wer aber nit glaubt / der iſt ſchon gericht. Hie iſt offenbar/ daß den Glåubigen folget das ewig Leben /",
-        "similarity": 0.5246,
-        "semantic": 0.5986,
-        "reading": "check"
+        "similarity": 0.5246
       },
       {
         "op": "only_b",
@@ -89,15 +77,10 @@
         "b": "nach ihrem\nAbſcheid oß diſer zyt. Nun aber wåre das Leben nit ewig/ wenn die arme Seel erſt ein lange Zyt im Fågfeur / mit\nHhh          brün-",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6759,
-    "reworded": 5,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5469,
+    "similarity": 0.5573,
     "words": {
       "a": 182,
       "b": 202
@@ -210,13 +193,13 @@
       },
       {
         "op": "equal",
-        "a": "in der dritten da wir",
-        "b": "in der dritten da wir"
+        "a": "in der dritten da wir bekennē",
+        "b": "in der dritten da wir bekennen"
       },
       {
         "op": "replace",
-        "a": "bekennē Chri ſtum vnſer",
-        "b": "bekennen Chriſtum un ſer"
+        "a": "Chri ſtum vnſer",
+        "b": "Chriſtum un ſer"
       },
       {
         "op": "equal",
@@ -280,18 +263,8 @@
       },
       {
         "op": "equal",
-        "a": "mag",
-        "b": "mag"
-      },
-      {
-        "op": "replace",
-        "a": "dañ",
-        "b": "dann"
-      },
-      {
-        "op": "equal",
-        "a": "das lyden Chriſti Zum",
-        "b": "das Lyden Chriſti Zum"
+        "a": "mag dañ das lyden Chriſti Zum",
+        "b": "mag dann das Lyden Chriſti Zum"
       },
       {
         "op": "replace",
@@ -549,7 +522,7 @@
         "b": "wåre das Leben nit ewig wenn die arme Seel erſt ein lange Zyt im Fågfeur mit Hhh brün"
       }
     ],
-    "ops": 45,
+    "ops": 44,
     "truncated": false
   }
 }

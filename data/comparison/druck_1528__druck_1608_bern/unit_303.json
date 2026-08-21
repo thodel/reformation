@@ -8,7 +8,7 @@
       348
     ]
   },
-  "alignment_score": 0.4124,
+  "alignment_score": 0.4249,
   "coarse": {
     "paragraphs": {
       "a": 6,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 3,
     "only_b": 1,
-    "similarity": 0.5384,
+    "similarity": 0.5472,
     "pairs": [
       {
         "op": "only_b",
@@ -39,25 +39,19 @@
         "op": "match",
         "a": "**Schlußred.**\n\nrer entſcheydung/vnd begåren wyter als vor/antwurt: die figur aber laß ich in ſiner wirde ſtan. **Ecolampadius.**\n\n[S] S fragt herr Benedict/was der herr den jun=\ngerē gereicht hab/gib ich im antwurt:",
         "b": "Darumb nit not wyter zeerholen in wyter ent-\nscheidung/vnd begåren wyter als vor/antwurt: die figur\naber laß ich in siner wirde stan.",
-        "similarity": 0.5,
-        "semantic": 0.4726,
-        "reading": "check"
+        "similarity": 0.5
       },
       {
         "op": "match",
         "a": "Den kelch\noder den wyn/aber nit ſchlächtlich/ſonder dz er\nſin lyden jnen damit beuelche/vnnd ſy zů einer danckſa\ngung ynfüre.",
         "b": "Ecolampadius. ES fragt Herr Benedict/was der Herr den Jünge-\nren gereicht hab/gib ich jm antwurt: Den Kelch\noder den Wyn/aber nit schlåchtlich/sonder das er syn\nLyden jnen damit befelche/vnnd sy zů einer dancksagung\nynfůre.",
-        "similarity": 0.5806,
-        "semantic": 0.6425,
-        "reading": "same"
+        "similarity": 0.5806
       },
       {
         "op": "match",
         "a": "**Pfarrer von Sant Gallen.**\n\n[D] As vnſer pündnuß am crütz verſicherer wor=\nden ſye/wirt niemand lut der worten/ſelbs ver\nneynen/ſo ſymåldend/Das iſt min blůt/das\nes am crütz vergoſſenn worden ſye/in wellichen\nworten ſo der Herr geſagt hat/Trinckend all daruß/",
         "b": "Pfarrer von Sant Gallen. DAs vnser Pündtnuß am Crüß versicheret worden\nsye/wirt niemand lut der worten/selbs verneinen/ so sy meldend/Das ist myn Blůt/das es am Crüß\nvergossen worden sye/in wellichen worten so der Herr ge-\nsagt hat/Trinckend all daruß/das ist myn Blůt/hab er\njnen das gegeben/so er jnen dargebotten/vnd heissen trin-\ncken/befolchen hat:",
-        "similarity": 0.5818,
-        "semantic": 0.8735,
-        "reading": "same"
+        "similarity": 0.5818
       },
       {
         "op": "only_a",
@@ -69,18 +63,13 @@
         "op": "match",
         "a": "begåren wir dargegen gſchrifftliche vnderrichtung/die\nvns von ſölichem verſtand in vnſere gewüßne verſich=\nren möge:dann der Herr mit ſölichen wortē/Trincked/",
         "b": "darumb das dise wort den Sinn vnd\nVerstand nit haben mögind/begåren wir dargegẽ gschrifft-\nliche Vnderrichtung/die vns von sölichem verstand in vn-\nsere gewiißne versicheren möge: Dann der Herr mit sölichen\n                                                            worten/",
-        "similarity": 0.4912,
-        "semantic": 0.7756,
-        "reading": "reworded"
+        "similarity": 0.5263
       },
       {
         "op": "only_a",
         "a": "das vßgeteylet hat/ſo er darnach am Crütz vergoſſenn\nhat. Von der vßteylung wågen/vß Petro vñ der Epi\nſtel zum Hebreern/kan niemand bneinen:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6146,
-        "semantic_match": "316              Die vierdt\n           Pfarrer von Sant Gallen. GJb ich antwurt mynem Herr Doctor/von wågen\nder yngezognen figur/Jch hab dieselbigen in die Ac-\nta geben/vnnd so ich recht yngedenck bin/dieselben\nerklåret:",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -88,15 +77,10 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6758,
-    "reworded": 1,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5511,
+    "similarity": 0.5558,
     "words": {
       "a": 226,
       "b": 195
@@ -309,13 +293,13 @@
       },
       {
         "op": "equal",
-        "a": "möge dann der Herr mit ſölichen",
-        "b": "möge Dann der Herr mit sölichen"
+        "a": "möge dann der Herr mit ſölichen wortē",
+        "b": "möge Dann der Herr mit sölichen worten"
       },
       {
-        "op": "replace",
-        "a": "wortē Trincked das vßgeteylet hat ſo er darnach am Crütz vergoſſenn hat Von der vßteylung wågen vß Petro vñ der Epi ſtel zum Hebreern kan niemand bneinen probiert aber damit nit das die wort Das iſt min blůt nit das blůt Chriſti gewåſen ſye Sz keiner on glouben dißers Sacra ments als ſy es benamſend on zwyffel der ſo in Chri ſtum durch den glouben nit yngepflantzet iſt der würder",
-        "b": "worten"
+        "op": "delete",
+        "a": "Trincked das vßgeteylet hat ſo er darnach am Crütz vergoſſenn hat Von der vßteylung wågen vß Petro vñ der Epi ſtel zum Hebreern kan niemand bneinen probiert aber damit nit das die wort Das iſt min blůt nit das blůt Chriſti gewåſen ſye Sz keiner on glouben dißers Sacra ments als ſy es benamſend on zwyffel der ſo in Chri ſtum durch den glouben nit yngepflantzet iſt der würder",
+        "b": ""
       }
     ],
     "ops": 22,

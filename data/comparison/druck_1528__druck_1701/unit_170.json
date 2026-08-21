@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 2,
     "only_b": 4,
-    "similarity": 0.551,
+    "similarity": 0.5579,
     "pairs": [
       {
         "op": "only_b",
@@ -51,17 +51,13 @@
         "op": "match",
         "a": "**Schlußred. Martinus Butzer.**\n\nDEß Suñtags halben/iſt nit geredt worden/ das jnn die Kilch gebotte hab/ſunders zuͦ guͦt\nder gemeynd/iſt er frywillig angenomen wor\nden.",
         "b": "Martinus Butzerus. DEß Sontags halben iſt nit geredt worden / daß jhn\ndie Kilch gebotten hab / ſonders zuͦ guͦt der Gemeind\niſt er freywillig angenommen worden :",
-        "similarity": 0.5818,
-        "semantic": 0.8298,
-        "reading": "same"
+        "similarity": 0.5818
       },
       {
         "op": "match",
         "a": "Derglichen der Apoſtlen tag/wiewol die\nſelbigen nie glichermassen/angenomen vñ gewaͤſen ſind/ Darumb waͤr hierinn etwas gebuͤtet/vnd die conſcienẑ\nbinder/der iſt ein widerchriſt.",
         "b": "derglychen der\nApoſtlen Tag / wiewol dieſelbigen nie glychermaſſen an-\ngenommen vnd geweſen ſind. Darum wer hierinn et-\nwas gebuͤtet /",
-        "similarity": 0.3673,
-        "semantic": 0.8189,
-        "reading": "reworded"
+        "similarity": 0.4082
       },
       {
         "op": "only_b",
@@ -73,33 +69,25 @@
         "op": "match",
         "a": "Die anderen oꝛt alleſame͂/ bringend nuͤt wider vnſere Schlußred: wir redend ſelbs\nouch vil im predige/das von woꝛt zuͦ woꝛt in der Bibel\nnit ſtadt/es iſt aber in der Bibel gegruͤndet.",
         "b": "Wir redend ſelbs auch vil im Predigen / das von Wort zuͦ Wort in der Bibel nit ſtaht / es iſt aber\nin der Bibel gegruͤndet.",
-        "similarity": 0.6667,
-        "semantic": 0.7865,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "match",
         "a": "**Johannes Bůchſtab**\n\nLVcas der Euangeliſt/Actuum am xv.ca.zeigt\nan/die wandlung Pauli durch vil landſchaffte͂/ zuͦ verkuͤnden das Rych Gottes/Vnnd ſpricht\ndemnach alſo:",
         "b": "Johannes Buͦchſtab. LUcas der Evangeliſt / Actuum am 15. Cap. zeige\nan / die Wandlung Pauli durch vil Landſchafften / zuͦ verkuͤnden das Rych Gottes /",
-        "similarity": 0.6667,
-        "semantic": 0.7553,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "match",
         "a": "Paulus durch wandlet Syriam vnd Ci-\nliciam/Beſtaͤtiget die Kilchen: vnd gebot zchalten die ge\nbott der Apoſtlen/vnd der Elteren.",
         "b": "vnd ſpricht demnach al-\nſo : Paulus durchwandelt Syriam vnd Ciliciam / be-\nſtaͤtiget die Kilchen : vnd gebott zehalten die Gebott der\nApoſtlen vnd der Elteren.",
-        "similarity": 0.5532,
-        "semantic": 0.8922,
-        "reading": "same"
+        "similarity": 0.5532
       },
       {
         "op": "match",
         "a": "Nun iſt nuͤt anders\ndas genennt werde/die gebott der Apoſtlen vnd der El\nteren: dann die ſatzungen der Apoſtlen/die one die ande-\nren leren/ſo im Euangelio geſchriben ſtond/gehalten ſol\nlen werden/vnd zuͦ regierung der Chriſtenlichen Kilche͂\ngeoꝛdnet ſind/welches wyter in nachgendem capitel an\nzeigt wirt/ſo Lucas voꝛgemelt/alſo ſpricht/Actu.",
         "b": "Nun iſt nuͤt anders das ge-\nnennet werde / die Gebott der Apoſtlen vnd der Eltern / dann die Satzungen der Apoſtlen / die ohne die andern\n                X                         Lehren/",
-        "similarity": 0.4706,
-        "semantic": 0.8089,
-        "reading": "reworded"
+        "similarity": 0.4706
       },
       {
         "op": "only_a",
@@ -113,15 +101,10 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.8153,
-    "reworded": 2,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4561,
+    "similarity": 0.4603,
     "words": {
       "a": 245,
       "b": 233
@@ -229,8 +212,18 @@
       },
       {
         "op": "replace",
-        "a": "glichermassen angenomen vñ gewa ſen",
-        "b": "glychermaſſen an genommen vnd geweſen"
+        "a": "glichermassen angenomen",
+        "b": "glychermaſſen an genommen"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "gewa ſen",
+        "b": "geweſen"
       },
       {
         "op": "equal",
@@ -473,7 +466,7 @@
         "b": "andern X Lehren"
       }
     ],
-    "ops": 35,
+    "ops": 36,
     "truncated": false
   }
 }

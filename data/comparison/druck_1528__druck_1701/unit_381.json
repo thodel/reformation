@@ -8,7 +8,7 @@
       396
     ]
   },
-  "alignment_score": 0.2472,
+  "alignment_score": 0.2542,
   "coarse": {
     "paragraphs": {
       "a": 11,
@@ -27,16 +27,13 @@
     "matched": 4,
     "only_a": 2,
     "only_b": 4,
-    "similarity": 0.4857,
+    "similarity": 0.5006,
     "pairs": [
       {
         "op": "only_a",
         "a": "**Die fünffte**\n\nvnd ouch Eſaias daſelb Bezüget/darumb ſo iſt notwen=\ndig/das ein ander rein opfer werde geben/dz dißem text\nglichförmig ſye.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7791,
-        "semantic_match": "ſonders erſt anfahen im Neuen\nTeſtament. Butzer. ES folget nit / daß das rein Opffer / von dem der\nProphet hie redt /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -54,17 +51,13 @@
         "op": "match",
         "a": "Actorum xv. zun Römern vij. **Gilg Durer**\n\nS mag nit verſtanden werden/von der heylig=\nmachung des heyligē geyſts. Sañ daſſelbig opf=\nfer/namlich des wort Gottes/hatt vorhin lan=\ngeſt ſöllen verkündet worden ſin/als ouch beſchehen iſt/",
         "b": "Gilg Murer. ES mag nit verſtanden werden von der Heiligma-\nchung deß heiligen Geiſtes. Dann daſſelbig Opffer/ namlich das Wort Gottes hat vorhin langeſt ſoͤllen ver-\nkuͤndet worden ſyn/als auch beſchehen iſt Abraheͤ/Iſaac/",
-        "similarity": 0.4211,
-        "semantic": 0.479,
-        "reading": "different"
+        "similarity": 0.4211
       },
       {
         "op": "match",
         "a": "Abrahe/Jſaac/vnd den lieben andern vättern/vñ dar\numb ſo müß man ney wa ein ander reyn opfer geben/das\nvoz nie iſt geſin im alten Teſtament/ſonders erſt anfa=\nhen im nüwen Teſtament.",
         "b": "und den lieben andern Vaͤttern/und darum ſo muͤß man\neinmal ein ander rein Opffer geben / das vor nie iſt gſyn\nim Alten Teſtament /",
-        "similarity": 0.4918,
-        "semantic": 0.6851,
-        "reading": "reworded"
+        "similarity": 0.5246
       },
       {
         "op": "only_b",
@@ -76,17 +69,13 @@
         "op": "match",
         "a": "**Buczer.**\n\nES volget nit dz rein opffer das von dē der pro=\nphet hie redt/darum müſſe voz nie gewäſen ſin\nDer Prophet meldet hie von einem reinē opfer\nvnder den Heyden/der glichen wie zur zyt der Apoſtlen\ngeſchehen worden iſt/iſt voz nie geſin.",
         "b": "darum muͤſſe vor nie geweſen\nſyn: Der Prophet meldet hie von einem reinen Opf-\nfer under den Heyden/derglychē wie zur Zyt der Apoſt-\nlen geſchehen worden iſt /",
-        "similarity": 0.48,
-        "semantic": 0.6259,
-        "reading": "reworded"
+        "similarity": 0.5067
       },
       {
         "op": "match",
         "a": "**Gilg murer.**\n\nJCh laß diſe gſchrifft vnd vßlegung bliben/wie vor=\nmals verantwurt iſt/vnd beuilchs den Actis. **Buczer**",
         "b": "iſt vor nie gſyn. Gilg Murer. JCh laß dieſe Geſchrifft und Ußlegung blyben / wie\nvormals beantwortet iſt / und befihls den Actis.",
-        "similarity": 0.55,
-        "semantic": 0.5033,
-        "reading": "check"
+        "similarity": 0.55
       },
       {
         "op": "only_b",
@@ -100,15 +89,10 @@
         "b": "WYter mag nach myner vorgebnen Diſtinction ein\nandere Geſchrifft harfuͤr bracht werden. Namlich\nDanielis am 12. Und die boͤſen werden boͤßlich handlen/ und",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6145,
-    "reworded": 2,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4235,
+    "similarity": 0.4337,
     "words": {
       "a": 191,
       "b": 201
@@ -266,8 +250,18 @@
       },
       {
         "op": "replace",
-        "a": "vättern vñ dar umb",
-        "b": "Va ttern und darum"
+        "a": "vättern",
+        "b": "Va ttern"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "und"
+      },
+      {
+        "op": "replace",
+        "a": "dar umb",
+        "b": "darum"
       },
       {
         "op": "equal",
@@ -421,13 +415,13 @@
       },
       {
         "op": "equal",
-        "a": "Der Prophet meldet hie von einem",
-        "b": "Der Prophet meldet hie von einem"
+        "a": "Der Prophet meldet hie von einem reinē",
+        "b": "Der Prophet meldet hie von einem reinen"
       },
       {
         "op": "replace",
-        "a": "reinē opfer",
-        "b": "reinen Opf fer"
+        "a": "opfer",
+        "b": "Opf fer"
       },
       {
         "op": "equal",
@@ -520,7 +514,7 @@
         "b": "Butzer SO laſſen wirs by dem gewu ſſen Gottes Wort bly ben und befehlen es dem rechtgeſchaffene Chriſten Gilg Murer WYter mag nach myner vorgebnen Diſtinction ein andere Geſchrifft harfu r bracht werden Namlich Danielis am 12 Und die bo ſen werden bo ßlich handlen und"
       }
     ],
-    "ops": 41,
+    "ops": 42,
     "truncated": false
   }
 }

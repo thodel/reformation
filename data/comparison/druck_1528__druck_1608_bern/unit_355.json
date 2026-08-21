@@ -8,7 +8,7 @@
       408
     ]
   },
-  "alignment_score": 0.4561,
+  "alignment_score": 0.5044,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -39,9 +39,7 @@
         "op": "match",
         "a": "CLXX\n\nDiß ist die fünffte Schlußred. Die Mäß yetz im bruch/darinn man\nChristū/Gott dem vatter/für die sünd\nder läbendigen vnnd todten/vffopffere/ist\nder geschrifft widrig/dem aller heiligosten\nopffer/lyden vnd sterben Christi/ein leste=\nrung/vnd vmb der mißbrüchen willē/ein\ngrüwel vor Gott.",
         "b": "fuͤr die Suͤnd der\nLaͤbendigen vnnd Todten / vffopffere / iſt der\nGeſchrifft widrig / dem aller heiligosten Opf-\nfer/",
-        "similarity": 0.3478,
-        "semantic": 0.7758,
-        "reading": "reworded"
+        "similarity": 0.3478
       },
       {
         "op": "only_b",
@@ -53,9 +51,7 @@
         "op": "match",
         "a": "Berchtoldus Haller. Das ist vnser grund/ in der j. Epi. Johannis iij. capitel. Welcher Christū\nhat erkennt/der weyßt/das\nEr/Gott vnnd mensch/ein\nheyland ist der welt/vnd dz\nniemand mag zum Vatter\nkommen/dann allein durch\nChristū/Johannis vj.",
         "b": "Capitel. Welcher Chriſtum\nhat erkennt/ der weißt / das Er\nGott vnd Menſch/ ein Heiland\niſt der Welt / vnd das niemand\nmag zum Vatter kommen/",
-        "similarity": 0.5758,
-        "semantic": 0.7906,
-        "reading": "same"
+        "similarity": 0.5758
       },
       {
         "op": "only_b",
@@ -67,28 +63,18 @@
         "op": "match",
         "a": "Dañ\ner ist dem vatter so lieb/das\ner vmb sinentwillen/vns be\ngnadiget. Er hat ouch das werck der erlösung/volkom=\nme vßgericht/one alle mitgehülffen/Esaie.lviij.",
         "b": "vns begnadiget. Er hat\nouch das werck der erloͤſung/ vollkommen vßgericht / ohne\nalle",
-        "similarity": 0.4186,
-        "semantic": 0.7502,
-        "reading": "reworded"
+        "similarity": 0.4186
       },
       {
         "op": "only_a",
         "a": "Er hat\nvff alle wyß/vff das gnügsamest/für vns bezalt/vnnd\nDu ij",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8458,
-        "semantic_match": "dann\nallein durch Chriſtum / Johan-\nnis am 6. Dann er iſt dem Vat-\nter ſo lieb/ das er vmb ſinet willen/",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7906,
-    "reworded": 2,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.6136,
+    "similarity": 0.6212,
     "words": {
       "a": 134,
       "b": 130
@@ -276,13 +262,13 @@
       },
       {
         "op": "replace",
-        "a": "Christu Johannis vj Dañ",
-        "b": "Chriſtum Johan nis am 6 Dann"
+        "a": "Christu Johannis vj",
+        "b": "Chriſtum Johan nis am 6"
       },
       {
         "op": "equal",
-        "a": "er ist dem",
-        "b": "er iſt dem"
+        "a": "Dañ er ist dem",
+        "b": "Dann er iſt dem"
       },
       {
         "op": "replace",

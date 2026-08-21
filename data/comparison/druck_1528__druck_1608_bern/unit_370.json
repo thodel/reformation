@@ -8,7 +8,7 @@
       425
     ]
   },
-  "alignment_score": 0.3293,
+  "alignment_score": 0.3537,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 3,
     "only_b": 1,
-    "similarity": 0.5889,
+    "similarity": 0.6065,
     "pairs": [
       {
         "op": "only_b",
@@ -39,50 +39,37 @@
         "op": "match",
         "a": "Die fünffte\nMeyster Vlrich Zwingli. WIr lassend vns vff die erklärung vorgehört / vnd\ngründe der gschrifft angezeygt. Gilg Durer. Als Meyster Vlrich vns geantwurt hat /",
         "b": "Meister Vlrich Zwingly. WIr lassend vns vff die Erklårung vorgehört/vnd grün-\nde der Gschrifft angezeigt. Gilg Murer. WAs Meister Vlrich vns geantwurt hat /",
-        "similarity": 0.6531,
-        "semantic": 0.8403,
-        "reading": "same"
+        "similarity": 0.6531
       },
       {
         "op": "match",
         "a": "zů de\nspruch / Prouerbioꝛum ix. Er sye nit für vnns / vnd gibt ein vßlegung one gschrifft / werdẽ wir\njm nit glouben:",
         "b": "zů dem\nspruch/Prouerb. 9. Er sye nit für vns/vnd gibt ein\nvßlegung ohne Gschrifft/werden wir jm nit glou-\nben:",
-        "similarity": 0.6512,
-        "semantic": 0.8967,
-        "reading": "same"
+        "similarity": 0.6977
       },
       {
         "op": "match",
         "a": "dann es stadt heyter / nacheinandern be\ngriffen: Die wyßheit hat vffgeopffret jre opffer / vñ hat\nvermischt den wyn.zc. In keinem andren opfer beschicht\ndie vermischung des wyns /",
         "b": "dann es stadt heiter nach ein andern begriffen: Die\nWyßheit hat vffgeopffret jre Opffer / vnd hat vermischt\nden Wyn/ꝛc.",
-        "similarity": 0.5417,
-        "semantic": 0.7427,
-        "reading": "same"
+        "similarity": 0.5833
       },
       {
         "op": "match",
         "a": "dann allein in der Mäss / da\nrumb so můß die Mäss ein opffer sin. Zwingli. WIr haben keinen andren verstand /",
         "b": "In keinem andren Opffer beschicht die ver-\nmischung deß Wyns/dann allein in der Mäß/darumb so\nmůß die Mäß ein Opffer syn.",
-        "similarity": 0.4186,
-        "semantic": 0.6576,
-        "reading": "reworded"
+        "similarity": 0.4186
       },
       {
         "op": "match",
         "a": "Prouerbioꝛu͂\nix. anzeygt / dann wie der bůchstab selbs lutet / vnd der sinn vermag / vnd ob glych das selb ort / also můßte verstanden werden /",
         "b": "Zwingly. WJr haben keinen andren verstand/Prouerbiorum\n9.anzeigt/dann wie der Bůchstab selbs lutet/vnd\nder Sinn vermag / vnd ob glych das selb ort/also\nDDD",
-        "similarity": 0.68,
-        "semantic": 0.5207,
-        "reading": "check"
+        "similarity": 0.68
       },
       {
         "op": "only_a",
         "a": "wie sy es dargebend / dz\ndoch nit ist / so stadt also: Die Wyßheit hat jre opffer vf\ngeopffret / vnd nit:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7809,
-        "semantic_match": "Schlußred. 393\nGilg Murer\nWJr sagend nit/daß Christus vnd Melchisedech/in\nallen dingen glychförmig söllend syn/wie man vns\ngern zůschryben wölt/sonders/so der tod mit Mel-\nchisedech nit verglychet mag werden/haben wir ein ander\nOpffer begärt zewüssen vß der Schrifft/das nit beschehen\nist/Vnd damit befelchen wir es der Schrifft.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -94,20 +81,12 @@
         "op": "only_a",
         "a": "wie geant=\nwurt ist / der ist ouch bestättiget durch den heyligẽ Cy=\nprianum / vnd darby laß ichs blyben. Meyster Vlrich Zwingli. Ir thůnd dem Cypriano vnrecht. Bůchstab",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6792,
-        "semantic_match": "Schlußred. 393\nGilg Murer\nWJr sagend nit/daß Christus vnd Melchisedech/in\nallen dingen glychförmig söllend syn/wie man vns\ngern zůschryben wölt/sonders/so der tod mit Mel-\nchisedech nit verglychet mag werden/haben wir ein ander\nOpffer begärt zewüssen vß der Schrifft/das nit beschehen\nist/Vnd damit befelchen wir es der Schrifft.",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7312,
-    "reworded": 1,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4401,
+    "similarity": 0.4513,
     "words": {
       "a": 188,
       "b": 171
@@ -200,18 +179,8 @@
       },
       {
         "op": "equal",
-        "a": "gschrifft",
-        "b": "Gschrifft"
-      },
-      {
-        "op": "replace",
-        "a": "werdẽ",
-        "b": "werden"
-      },
-      {
-        "op": "equal",
-        "a": "wir jm nit",
-        "b": "wir jm nit"
+        "a": "gschrifft werdẽ wir jm nit",
+        "b": "Gschrifft werden wir jm nit"
       },
       {
         "op": "replace",
@@ -230,18 +199,8 @@
       },
       {
         "op": "equal",
-        "a": "Die wyßheit hat vffgeopffret jre opffer",
-        "b": "Die Wyßheit hat vffgeopffret jre Opffer"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "hat vermischt den wyn",
-        "b": "hat vermischt den Wyn"
+        "a": "Die wyßheit hat vffgeopffret jre opffer vñ hat vermischt den wyn",
+        "b": "Die Wyßheit hat vffgeopffret jre Opffer vnd hat vermischt den Wyn"
       },
       {
         "op": "replace",
@@ -319,7 +278,7 @@
         "b": "DDD"
       }
     ],
-    "ops": 21,
+    "ops": 19,
     "truncated": false
   }
 }

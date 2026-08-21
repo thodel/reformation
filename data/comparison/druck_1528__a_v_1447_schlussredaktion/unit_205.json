@@ -8,7 +8,7 @@
       344
     ]
   },
-  "alignment_score": 0.2157,
+  "alignment_score": 0.2196,
   "coarse": {
     "paragraphs": {
       "a": 7,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 12,
-    "matched": 4,
-    "only_a": 5,
-    "only_b": 3,
-    "similarity": 0.4204,
+    "units": 11,
+    "matched": 5,
+    "only_a": 4,
+    "only_b": 2,
+    "similarity": 0.4003,
     "pairs": [
       {
         "op": "match",
@@ -42,16 +42,10 @@
         "similarity": 0.439
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "der herr hatt ouch dheinen in sin wyngarten wellen be=\nstellen/můssig zegon/sonders zů arbeyte. Wir habē ouch\nein klaren spruch j.",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
         "b": "Eer het het onth de hem en In sin\nwingarten wellen bestellen, mussig zügan, jun: ders zuarbeitten, vri haben onch ein klaren spruch\nprinnu Cornithiorum am iiii.",
-        "similarity": 0.0
+        "similarity": 0.32
       },
       {
         "op": "match",
@@ -104,7 +98,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4341,
+    "similarity": 0.4422,
     "words": {
       "a": 277,
       "b": 216
@@ -242,8 +236,18 @@
       },
       {
         "op": "replace",
-        "a": "zegon sonders zů arbeyte Wir habē ouch",
-        "b": "zügan jun ders zuarbeitten vri haben onch"
+        "a": "zegon sonders zů arbeyte Wir",
+        "b": "zügan jun ders zuarbeitten vri"
+      },
+      {
+        "op": "equal",
+        "a": "habē",
+        "b": "haben"
+      },
+      {
+        "op": "replace",
+        "a": "ouch",
+        "b": "onch"
       },
       {
         "op": "equal",
@@ -457,13 +461,13 @@
       },
       {
         "op": "equal",
-        "a": "Christi",
-        "b": "Christi"
+        "a": "Christi vñ",
+        "b": "Christi vnd"
       },
       {
         "op": "replace",
-        "a": "vñ souil sprůch",
-        "b": "vnd souel Opruch"
+        "a": "souil sprůch",
+        "b": "souel Opruch"
       },
       {
         "op": "equal",
@@ -596,7 +600,7 @@
         "b": "Notarienn 29"
       }
     ],
-    "ops": 49,
+    "ops": 50,
     "truncated": false
   }
 }

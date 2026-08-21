@@ -27,16 +27,13 @@
     "matched": 6,
     "only_a": 4,
     "only_b": 5,
-    "similarity": 0.4857,
+    "similarity": 0.4923,
     "pairs": [
       {
         "op": "only_a",
         "a": "Die vierdt\nhannis am v. Capitel/ vñnd jm gegeben sin aller gewalt\nim himmel vnd vff erden/ sölte der nit wyß vnnd mit=\ntel wüssen /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6064,
-        "semantic_match": "in der er blyben wird zur\nGerechten deß Vatters / das iſt im höchſten Gewalt / biß\nzum letſten Gericht / da wird er allererſt lyblich wider-\nkommen :",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -54,41 +51,31 @@
         "op": "match",
         "a": "als da\nist die geschicht der vßteylung der fünff Brotten/ in die\nfünff tusent menschen/ ane das so überbeliben: dann wie\nwir vß ordnung gottes vnd der natur/",
         "b": "324           Die Vierdte Schlußred. Geſchicht der Ußtheilung der fünff Brodten / in die\nfünff tauſend Menſchen / ohne das ſo überbliben : dann\nwie wir vß Ordnung Gottes und der Natur mit unſern\nAugen die viele der Menſchen mögen ſehen /",
-        "similarity": 0.6154,
-        "semantic": 0.5787,
-        "reading": "check"
+        "similarity": 0.6154
       },
       {
         "op": "match",
         "a": "mit vñsern ougē\ndie vile der menschen mogen sehen / vnnd nur eyn oug ist\noder zwey / ein wort in vilen ozen gehört /",
         "b": "und nur\nein Aug iſt oder zwey / ein Wort in vilen Ohren gehört/ alſo ſo wir betrachten den / ſo ſölichs redet.",
-        "similarity": 0.4186,
-        "semantic": 0.6066,
-        "reading": "reworded"
+        "similarity": 0.4186
       },
       {
         "op": "match",
         "a": "also so wir be=\ntrachten den so sollichs redet. Vnd diewyl es voz der him\nmelfart beschehen ist/ soll das wort (er ist vffgefaren) sol\nlichem nit entgegen sin.",
         "b": "Und diewyl\nes vor der Himmelfahrt beſchehen iſt / ſoll das Wort\n(Er iſt vffgefahren) ſöllichem nit entgegen ſyn. Martinus Butzer.",
-        "similarity": 0.4898,
-        "semantic": 0.6757,
-        "reading": "reworded"
+        "similarity": 0.4898
       },
       {
         "op": "match",
         "a": "Martinus Butzer\nAls wir die Artickel des gloubēs voz erzellet an=\nziehen/ damit zübewåren/ dz der lyb Christi nit\nmoge lyplich im brot geessen werden.",
         "b": "DAß wir die Artickel deß Glaubens vor erzellet anzie-\nhen / damit zůbewähren / daß der Lyb Chriſti nit\nmöge lyblich im Brodt geeſſen werden :",
-        "similarity": 0.5417,
-        "semantic": 0.6392,
-        "reading": "same"
+        "similarity": 0.5417
       },
       {
         "op": "match",
         "a": "Hatt vns\nouch Paulus in der ersten Epyst. zun Corinthbern am vj. Capitel vrsach gegebē. So er åben vom Nachtmal redt\nvnd sagt das wir sin tod verkündigen/",
         "b": "hat uns auch\nPaulus in der erſten Epiſtel zun Corinthern am eilften\nCapitel urſach gegeben: da er eben vom Nachtmahl redt\nund ſagt /",
-        "similarity": 0.549,
-        "semantic": 0.8834,
-        "reading": "same"
+        "similarity": 0.5882
       },
       {
         "op": "only_b",
@@ -100,9 +87,7 @@
         "op": "match",
         "a": "biß das er kome/ vnnd hatt da glich wol gewisst wie er allenthalben sin\nkan/ ouch wie er im Nachtmal gegenwirtig gehapt wirt\nAber in kurtzem so hatt die sach den verstand/",
         "b": "auch wie er im Nachtmahl gegenwürtig gehabt\nwird : Aber in kurzem ſo hat die ſach den Verſtand / durch\nden Himmel verſtahn wir das geiſtlich herrlich Weſen der\nGottheit /",
-        "similarity": 0.3,
-        "semantic": 0.6185,
-        "reading": "reworded"
+        "similarity": 0.3
       },
       {
         "op": "only_a",
@@ -134,12 +119,7 @@
         "b": "Auß dem ſchlüß ich nun offenbahr / ſo es die\nOrdnung Gottes alſo haltet / daß Chriſtus Jeſus nach\nſyner",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6584,
-    "reworded": 3,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
     "similarity": 0.4327,
@@ -215,13 +195,13 @@
       },
       {
         "op": "equal",
-        "a": "dann wie wir vß ordnung gottes vnd der natur mit vñsern",
-        "b": "dann wie wir vß Ordnung Gottes und der Natur mit unſern"
+        "a": "dann wie wir vß ordnung gottes vnd der natur mit",
+        "b": "dann wie wir vß Ordnung Gottes und der Natur mit"
       },
       {
         "op": "replace",
-        "a": "ougē",
-        "b": "Augen"
+        "a": "vñsern ougē",
+        "b": "unſern Augen"
       },
       {
         "op": "equal",
@@ -445,13 +425,13 @@
       },
       {
         "op": "equal",
-        "a": "Capitel vrsach",
-        "b": "Capitel urſach"
+        "a": "Capitel vrsach gegebē",
+        "b": "Capitel urſach gegeben"
       },
       {
         "op": "replace",
-        "a": "gegebē So",
-        "b": "gegeben da"
+        "a": "So",
+        "b": "da"
       },
       {
         "op": "equal",

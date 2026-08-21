@@ -8,7 +8,7 @@
       218
     ]
   },
-  "alignment_score": 0.219,
+  "alignment_score": 0.2199,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 13,
-    "matched": 6,
-    "only_a": 6,
-    "only_b": 1,
-    "similarity": 0.436,
+    "units": 12,
+    "matched": 7,
+    "only_a": 5,
+    "only_b": 0,
+    "similarity": 0.4214,
     "pairs": [
       {
         "op": "only_a",
@@ -60,16 +60,10 @@
         "similarity": 0.5
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "ſonders allein Petro verheyſ=\nſen ſye/ vñ die antwurt ouch inſug der gſchrifften/ ſo dan̄\nherr Berchtold hat welle bewären /",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
         "b": "vnd die antwurt\nouch Inzuͦg der schrifften/ so dan her Bercht// told hett/ wellen/ bewaͤren/ petro/ allein nit\nverheissen sin/",
-        "similarity": 0.0
+        "similarity": 0.3333
       },
       {
         "op": "match",
@@ -110,7 +104,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4019,
+    "similarity": 0.4068,
     "words": {
       "a": 257,
       "b": 156
@@ -243,18 +237,8 @@
       },
       {
         "op": "equal",
-        "a": "ſye",
-        "b": "sye"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "die antwurt ouch",
-        "b": "die antwurt ouch"
+        "a": "ſye vñ die antwurt ouch",
+        "b": "sye vnd die antwurt ouch"
       },
       {
         "op": "replace",
@@ -432,7 +416,7 @@
         "b": ""
       }
     ],
-    "ops": 32,
+    "ops": 31,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       207
     ]
   },
-  "alignment_score": 0.3064,
+  "alignment_score": 0.3256,
   "coarse": {
     "paragraphs": {
       "a": 8,
@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 4,
     "only_b": 7,
-    "similarity": 0.6429,
+    "similarity": 0.6558,
     "pairs": [
       {
         "op": "only_b",
@@ -63,34 +63,25 @@
         "op": "match",
         "a": "**Schlußred.**\n\nzůcht/vß dero flůßt/nemen wir ouch an:was nit/das laſ\nſend wir faren. **Bůchſtab.**\n\nJEwyl ich angezeigt hab/das man ſchuldig iſt/",
         "b": "nemmen wir ouch an : was nit / das lassend wir faren. Bůchstab. Diewyl ich angezeigt hab / das man schuldig ist / die\nsatzungen der Apostlen zů halten /",
-        "similarity": 0.64,
-        "semantic": 0.4807,
-        "reading": "check"
+        "similarity": 0.64
       },
       {
         "op": "match",
         "a": "die ſatzungen der Apoſtlen zů halten/vnnd mit\nnit gſchrifft bracht wirt/was die ſelben ſatzun=\ngen ſyen/vnd aber ſömlich puncten durch mich\nanzogen/vß den ſatzungenn der Apoſtlen kommen ſin/",
         "b": "vnnd mir nit Ge-\nschrifft bracht wirt / was die selben satzungen syen / vnd aber sömlich puncten durch mich anzogen / vß den sa-\ntzungen der Apostlen kommen sin /",
-        "similarity": 0.7119,
-        "semantic": 0.9309,
-        "reading": "same"
+        "similarity": 0.7119
       },
       {
         "op": "match",
         "a": "vor zwölffhundert jaren vnnd mer/beſchriben/zůg ich\nmich vff den hochgelertẽ Ecolampadiũ/der ſölichs für\nander vß wyßt/by Ignatio/einem junger Johanis des\nEuangeliſten/by Origene vnd andren/erfunden werdẽ.",
         "b": "vor zwölffhundert jaren\nvnd mer / beschriben / züg ich mich vff den hochgelerten Eco-\nlampadium / der söllichs für ander vß wyßt /",
-        "similarity": 0.5769,
-        "semantic": 0.6001,
-        "reading": "same"
+        "similarity": 0.6154
       },
       {
         "op": "only_a",
         "a": "Beuilch hiemit min ynzug dem vnpartyeſchen läſer. **Martinus butzer**\n\nOB jr ſchrifft oder nit ſchrifft/wider vns habend/re=\nferier ich vns zun Actis.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6654,
-        "semantic_match": "Die viertzig tägig Fasten : ouch die Gebätt für die\nTodten / vnd derglychen. Butzer. Vnsere hälle Gschrifft / wider alles yngezogens / ist zun\nColossens.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -102,19 +93,13 @@
         "op": "only_a",
         "a": "lxxxv viij. Ich wird loſen was der Herr in mir wirdt re=\nden/in welichen worten der Prophet anzeygt/ ein vffſehen zehaben/vff den geyſt Gottes.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6674,
-        "semantic_match": "Schlußred. 173\n\nhalten / vnnd söllich satzungen mit vßgetruckten worten / in\nBiblischer Schrifft nit angezeigt / vnd aber die / so in der zyt\nder Apostlen geläbt hand /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Wie dan ge\nſter nach der lenge daruon geredt iſt wordẽ/welcher geiſt\ngottes by dem geſpons vnd gemahel Jeſu Chriſti iſt/vñ\nvff",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6456,
-        "semantic_match": "Y\tiij\n\n## Marginalien\nBů hat\nhiemit\nsölichen\ntext ver-\nläsen.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -128,15 +113,10 @@
         "b": "Y\tiij\n\n## Marginalien\nBů hat\nhiemit\nsölichen\ntext ver-\nläsen.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.665,
-    "reworded": 0,
-    "candidates": 3,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.3778,
+    "similarity": 0.3879,
     "words": {
       "a": 185,
       "b": 212
@@ -234,13 +214,13 @@
       },
       {
         "op": "equal",
-        "a": "mer beſchriben zůg ich mich vff den",
-        "b": "mer beschriben züg ich mich vff den"
+        "a": "mer beſchriben zůg ich mich vff den hochgelertẽ",
+        "b": "mer beschriben züg ich mich vff den hochgelerten"
       },
       {
         "op": "replace",
-        "a": "hochgelertẽ Ecolampadiũ",
-        "b": "hochgelerten Eco lampadium"
+        "a": "Ecolampadiũ",
+        "b": "Eco lampadium"
       },
       {
         "op": "equal",
@@ -274,18 +254,8 @@
       },
       {
         "op": "equal",
-        "a": "erfunden",
-        "b": "erfunden"
-      },
-      {
-        "op": "replace",
-        "a": "werdẽ",
-        "b": "werden"
-      },
-      {
-        "op": "equal",
-        "a": "Beuilch hiemit min ynzug dem",
-        "b": "Beuilch hiemit min ynzug dem"
+        "a": "erfunden werdẽ Beuilch hiemit min ynzug dem",
+        "b": "erfunden werden Beuilch hiemit min ynzug dem"
       },
       {
         "op": "replace",
@@ -303,7 +273,7 @@
         "b": "Y iij Marginalien Bů hat hiemit sölichen text ver läsen"
       }
     ],
-    "ops": 16,
+    "ops": 15,
     "truncated": false
   }
 }

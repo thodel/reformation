@@ -8,7 +8,7 @@
       85
     ]
   },
-  "alignment_score": 0.3903,
+  "alignment_score": 0.4232,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 2,
     "only_b": 2,
-    "similarity": 0.4279,
+    "similarity": 0.4362,
     "pairs": [
       {
         "op": "only_b",
@@ -39,9 +39,7 @@
         "op": "match",
         "a": "Schlußred. Klar anzeÿgt/ſo er ſpricht/mitt der krafft vnßers herren\nJeſu Chriſti/deßhalb alle ſo bannen/nach dē geiſt Chri\nſti bannen werdē/oder aber es iſt ein gewalt/vñ frässen/",
         "b": "ist der gewalt Chriſti/als Paulus klar anzeigt/ſo er ſpricht/ mit der Krafft vnſers Herren Jeſu Chriſti/deßhalb alle ſo\nbannen/nach dem Geiſt Chriſti bannen werden/oder aber\nes iſt ein gewalt/vñ fraͤffen/ſetze der Pfarrer das ein Kilch=\nhoͤry gantz vnnd gar Gottloß ſye/vnnd den Herren Jeſum\nChriſtum nit erkenne/vnd gange zuͤ derſelben Kilchen/vnd\nſage/jr habend Goͤtzen vnnd Abgoͤttery/jr ſind Abgoͤtter/",
-        "similarity": 0.4299,
-        "semantic": 0.8206,
-        "reading": "reworded"
+        "similarity": 0.4486
       },
       {
         "op": "only_a",
@@ -53,25 +51,19 @@
         "op": "match",
         "a": "ſo wirt der die warheit geredt hatt verbanet/warum=\ndarumb das die ſelbe Kilch den geyſt Chriſti nitt hatt/ vnd durch jn nit geregiert wirt/darūß lichtlich ermessen\nwirt/das der gewalt zebannen kein gewalt des menſchē\niſt/ſonder die würckung des einigen gottes/dañ wo Got\nden Ban nit waltet/mit ſinem geiſt/ſo iſt es ein thyran=\nny vnd ein geböch/vñ nit ein beſſerung oder zucht/das er\naber demnach/ouch vnsůcht den ſpruch Pauli.",
         "b": "oder derglychen/ſo wirt der die Warheit geredt hat/ver=\nbannet/warumb? darumb daß die ſelbe Kilch den Geiſt\nChriſti nit hat/vnd durch jn nit geregiert wirt/daruß licht=\nlich ermeſſen wirt/daß der gewalt zebannen kein gewalt\ndeß Menſchen iſt/ſonder die Wuͤrckung deß einigen Got=\ntes/dann wo Gott den Ban nit waltet/mit ſinem Geiſt/",
-        "similarity": 0.5507,
-        "semantic": 0.6877,
-        "reading": "same"
+        "similarity": 0.5652
       },
       {
         "op": "match",
         "a": "j.ad Thi=\nmoth. j. Cap. Welichen Himeneü vnd Alexandrum ich\ndem tüffel geben hab/damit ſy gezüchtiget werdent nit\nzeleſteren/vnd vermeint damit zebewåren.",
         "b": "ſo iſt es ein Tyranny vnd ein geboͤch/vnnd nit ein beſſerung\noder zucht/daß er aber demnach ouch ynzuͤcht den Spruch\nPauli/1.ad Timoth.1.cap.Welichen Himeneum vnd Ale=\nxandrum ich dem Tuͤffel geben hab/damit ſy gezuͤchtiget\nwerdent nit zeleſteren/vnnd vermeint damit zebewaͤren:",
-        "similarity": 0.3846,
-        "semantic": 0.6691,
-        "reading": "reworded"
+        "similarity": 0.3846
       },
       {
         "op": "match",
         "a": "Paulus ha=\nbe allein an die Kilchen gebannet/iſt aber ein irrung/vñ\nein vnwüſſenheit des bruchs der geſchrifft/die allenthal\nben vil Synechdochen brucht/das iſt ein art/da man/eint=\nweders/glider für die menge/oder/harwiderumb die\nmenge für die glider nenet/als do man einē Rhatz Bottē\nder Erſamen von Bernn/die von Bernn nempt/vnd\nharwiderumb/ſpricht/die von Bernn redtend/oder ga\nbend antwurt/vnd redtent aber nit all von Bernn/ſon\nder der einig Bott/alſo ſpricht ouch hie Paulus/ich hab\nſy dem tüffel gegeben/nitt das er ſy allein gebannet hab/",
         "b": "Paulus habe allein on die Kilchen gebannet/iſt aber ein\nirrung/vnnd ein vnwüſſenheit deß bruchs der Geſchrifft/ die allenthalben vil Synechdochen brucht/das iſt ein art/",
-        "similarity": 0.3465,
-        "semantic": 0.5923,
-        "reading": "different"
+        "similarity": 0.3465
       },
       {
         "op": "only_a",
@@ -85,15 +77,10 @@
         "b": "da man eintweders glider fuͤr die menge/oder harwider=\numb die menge fuͤr die glider nennet/als do man einen\nRhatz botten der Erſamen von Bern/die von Bern nem̃t/ G\tiij",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6924,
-    "reworded": 2,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5442,
+    "similarity": 0.5578,
     "words": {
       "a": 305,
       "b": 283
@@ -161,18 +148,8 @@
       },
       {
         "op": "equal",
-        "a": "bannen",
-        "b": "bannen"
-      },
-      {
-        "op": "replace",
-        "a": "werdē",
-        "b": "werden"
-      },
-      {
-        "op": "equal",
-        "a": "oder aber es iſt ein gewalt vñ",
-        "b": "oder aber es iſt ein gewalt vñ"
+        "a": "bannen werdē oder aber es iſt ein gewalt vñ",
+        "b": "bannen werden oder aber es iſt ein gewalt vñ"
       },
       {
         "op": "replace",
@@ -301,13 +278,13 @@
       },
       {
         "op": "equal",
-        "a": "vnd durch jn nit geregiert wirt darūß",
-        "b": "vnd durch jn nit geregiert wirt daruß"
+        "a": "vnd durch jn nit geregiert wirt",
+        "b": "vnd durch jn nit geregiert wirt"
       },
       {
         "op": "replace",
-        "a": "lichtlich",
-        "b": "licht lich"
+        "a": "darūß lichtlich",
+        "b": "daruß licht lich"
       },
       {
         "op": "equal",
@@ -326,13 +303,13 @@
       },
       {
         "op": "replace",
-        "a": "des menſchē",
-        "b": "deß Menſchen"
+        "a": "des",
+        "b": "deß"
       },
       {
         "op": "equal",
-        "a": "iſt ſonder die",
-        "b": "iſt ſonder die"
+        "a": "menſchē iſt ſonder die",
+        "b": "Menſchen iſt ſonder die"
       },
       {
         "op": "replace",
@@ -346,13 +323,13 @@
       },
       {
         "op": "replace",
-        "a": "gottes dañ",
-        "b": "Got tes dann"
+        "a": "gottes",
+        "b": "Got tes"
       },
       {
         "op": "equal",
-        "a": "wo",
-        "b": "wo"
+        "a": "dañ wo",
+        "b": "dann wo"
       },
       {
         "op": "replace",
@@ -581,28 +558,8 @@
       },
       {
         "op": "equal",
-        "a": "als do man",
-        "b": "als do man"
-      },
-      {
-        "op": "replace",
-        "a": "einē",
-        "b": "einen"
-      },
-      {
-        "op": "equal",
-        "a": "Rhatz",
-        "b": "Rhatz"
-      },
-      {
-        "op": "replace",
-        "a": "Bottē",
-        "b": "botten"
-      },
-      {
-        "op": "equal",
-        "a": "der Erſamen von",
-        "b": "der Erſamen von"
+        "a": "als do man einē Rhatz Bottē der Erſamen von",
+        "b": "als do man einen Rhatz botten der Erſamen von"
       },
       {
         "op": "replace",
@@ -630,7 +587,7 @@
         "b": "iij"
       }
     ],
-    "ops": 53,
+    "ops": 50,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       280
     ]
   },
-  "alignment_score": 0.2927,
+  "alignment_score": 0.3049,
   "coarse": {
     "paragraphs": {
       "a": 8,
@@ -63,9 +63,7 @@
         "op": "match",
         "a": "die anzeygend die gegenwürtig geschicht/ Die\nwort Pauli in der j. Epi. zum Corinth. xj. cap. zeigend gnuͦgsam an die vßgangnen geschicht.",
         "b": "Capitel / die anzeigend\ndas kuͤnfftig/ Die wort Christi / Luce am 22. die\nanzeigend die gegenwuͤrtig Geschicht / Die wort\nPauli in der ersten Epistel zun Corinth.",
-        "similarity": 0.36,
-        "semantic": 0.7038,
-        "reading": "reworded"
+        "similarity": 0.36
       },
       {
         "op": "only_a",
@@ -83,34 +81,25 @@
         "op": "match",
         "a": "Dz aber min herr Do=\nctor spricht/ das ich hab haryn gefuͤrt die Doctores/ hab\nich kein spruch vß jnen haryn gefuͤrt.",
         "b": "wie her=\nnach wytter anzeigt wirt/einandren glychfoͤrmig/ darumb\nes sonderer gloß nit mer bedarff. Das aber min Herr\nDoctor spricht/das ich hab haryn gefuͤrt die Doctores/",
-        "similarity": 0.4444,
-        "semantic": 0.7054,
-        "reading": "reworded"
+        "similarity": 0.4444
       },
       {
         "op": "match",
         "a": "Als aber herr Bu=\ntzer in vergangnen tagen/ har haryn gefuͤrt/ Eusebium\nvnd Augustinum/ daby laß ichs blyben yezmal/",
         "b": "hab ich kein Spruch vß jnnen harin gefuͤhrt. Als aber\nHerr Butzer in vergangnen Tagen/hat haryn gefuͤrt/Eu=\nsebium vnnd Augustinum/",
-        "similarity": 0.4545,
-        "semantic": 0.8266,
-        "reading": "reworded"
+        "similarity": 0.4545
       },
       {
         "op": "match",
         "a": "uͤber dz\nJohannis am vj. capitel. Sich hieuor\nam 31..96.blat\n\nEcolampadius. SHat der Schuͦlmeyster vnder anderen mäl=\ndung than/",
         "b": "daby laß jchs blyben jetzmal/ uͤber das Johannis am 6. Capttel. Ecolam=\n\n## Marginalien\nSuͤch\nhievor\nam 66. 208. blat.",
-        "similarity": 0.3182,
-        "semantic": 0.7442,
-        "reading": "reworded"
+        "similarity": 0.3182
       },
       {
         "op": "only_a",
         "a": "etlicher falsche glosen/ so von vns ge\nschechē sind: wir warten wie er die mit der schrift\nvmbstoffe. Sin ander red sind durch Meister Vlrich ab=\ngeleinet.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6427,
-        "semantic_match": "Jr wuͤssend wol/ das wir jetzund\nnit von wegen der Leerer versamlet sind. Buͤchstab. Die wort Johannis am 6.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -122,20 +111,12 @@
         "op": "only_a",
         "a": "Was ich in minem buͤchlin\nhab lassen vßgan/ wil ich mit der warheit dar=\nbringen. ff ij",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7522,
-        "semantic_match": "Jn summa/der\nHerr wil allein sich selbs von vns ersuͤcht werden/als das\nlaͤbenhafftig Brot / das vns krefftiglich spiset/so wir er=\nkennend /",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7292,
-    "reworded": 4,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.351,
+    "similarity": 0.3557,
     "words": {
       "a": 200,
       "b": 233
@@ -258,18 +239,8 @@
       },
       {
         "op": "equal",
-        "a": "vnd das",
-        "b": "vnd das"
-      },
-      {
-        "op": "replace",
-        "a": "vergangē",
-        "b": "vergangen"
-      },
-      {
-        "op": "equal",
-        "a": "wie her nach",
-        "b": "wie her nach"
+        "a": "vnd das vergangē wie her nach",
+        "b": "vnd das vergangen wie her nach"
       },
       {
         "op": "replace",
@@ -377,7 +348,7 @@
         "b": ""
       }
     ],
-    "ops": 24,
+    "ops": 23,
     "truncated": false
   }
 }

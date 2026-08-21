@@ -8,7 +8,7 @@
       89
     ]
   },
-  "alignment_score": 0.3088,
+  "alignment_score": 0.3333,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -27,24 +27,19 @@
     "matched": 2,
     "only_a": 1,
     "only_b": 7,
-    "similarity": 0.3977,
+    "similarity": 0.4223,
     "pairs": [
       {
         "op": "only_a",
         "a": "Schlußred. XXVIII\nvnnd das wyter anzeygt/wo der geyſtlich menſch alle\nding richtet/ſo wurde er die gſchrifft ouch richten/geben\nwir diſe anttwurt/dz die geſchrifft geyſtlich iſt/wie Pau-\nlus ſagt/dann das geſatz iſt geyſtlich/vnd der geyſtlich\nmenſch vrteylet alles der lyebenach/vß eim glouben/dz\niſt er vnderſcheidet/was gloub vnd lieb gemåß ſye.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7497,
-        "semantic_match": "das ſölliche gemeyne verſamlung im\ngeyſt des Herrn verſamlet/ ouch hab zerichten/ die geſchrifft vnd zeurteylen : dann ye geſchri-\nben ſtat.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Zů\nletſt der die Kilch nitt hoͤzet/zc. Sagen wir das diſer\nſpruch von der ſonderen gmeind gottes redt/welche ſich\nbegeben hatt im wåg des abſterbens zů låben/vnd wirt\nein vſſerlich gemeind deßhalben genempt/das ſy durch\nden geyſt zur lieb des nechſtes vnnd gloubens an Gott ge\nfürt wirt/welche nůtzit thůt/dann das Chriſtus vorhin\nin jr würcket/vñ alſo als glider nach ynfluß des einigen\nhoupts handlet/vñ låßt ſton wie ouch gemeldet iſt/wie\ndem gerechtenn keyn geſatz ſye geſtelt/dann Paulus in\nvnſerem fürbrachten ort/nit vom gerechten vff ſölliche\nwyß/ſonders eygentlichen vonn dem geyſtlichen/das iſt\nvon dem Chriſten redet.",
         "b": "Schlußred. XXXII\nDann das Chriſtus vorhin in jr würcket/vñ alſo\nals glider nach ynfluß des einigē houpts hand-\nlet/vnd laßt ſton wie ouch gemeldet iſt/wie dem\ngerechten kein geſatz ſye geſtelt/dann Paulus in\nvnſerm fürbrachten ort /",
-        "similarity": 0.4133,
-        "semantic": 0.7652,
-        "reading": "reworded"
+        "similarity": 0.44
       },
       {
         "op": "only_b",
@@ -62,9 +57,7 @@
         "op": "match",
         "a": "Doctor Cůnrad Treiger/ Prouincial. [F]amen frommen Chriſten/min herr Doctor\nwendt für/das diſer ſpruch Pauli: So er alſo\nſagt/den geyſtlichen richt niemands/er richt\naber alle ding/wie das ſöllichs ſöll verſtanden wer=\nden/vonn eynem yegklichen Chriſten/der da hatt den\ngeyſt des Herren empfangen/darumb es dann vonn\neyner gemeyner Chriſtenlichenn verſamlung verſtan=\nden wirde/dem ich dheins wågs widerſprich/ſonders",
         "b": "er richt aber\nalle ding/wie das ſöllichs ſöll verſtanden werdē\nvon einem yetlichen Chriſtē/der da hat den geyſt\ndes Herren empfangen/",
-        "similarity": 0.382,
-        "semantic": 0.6448,
-        "reading": "reworded"
+        "similarity": 0.4045
       },
       {
         "op": "only_b",
@@ -96,15 +89,10 @@
         "b": "der da alle ding richt zů dem glouben/ vnd zů der lieby: ſag ich das darzů/ das vns hie",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7199,
-    "reworded": 2,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4,
+    "similarity": 0.4176,
     "words": {
       "a": 235,
       "b": 220
@@ -122,28 +110,18 @@
       },
       {
         "op": "equal",
-        "a": "dann das Chriſtus vorhin in jr würcket vñ alſo als glider nach ynfluß des",
-        "b": "Dann das Chriſtus vorhin in jr würcket vñ alſo als glider nach ynfluß des"
+        "a": "dann das Chriſtus vorhin in jr würcket vñ alſo als glider nach ynfluß des einigen houpts",
+        "b": "Dann das Chriſtus vorhin in jr würcket vñ alſo als glider nach ynfluß des einigē houpts"
       },
       {
         "op": "replace",
-        "a": "einigen",
-        "b": "einigē"
+        "a": "handlet",
+        "b": "hand let"
       },
       {
         "op": "equal",
-        "a": "houpts",
-        "b": "houpts"
-      },
-      {
-        "op": "replace",
-        "a": "handlet vñ",
-        "b": "hand let vnd"
-      },
-      {
-        "op": "equal",
-        "a": "låßt ſton wie ouch gemeldet iſt wie dem",
-        "b": "laßt ſton wie ouch gemeldet iſt wie dem"
+        "a": "vñ låßt ſton wie ouch gemeldet iſt wie dem",
+        "b": "vnd laßt ſton wie ouch gemeldet iſt wie dem"
       },
       {
         "op": "replace",
@@ -182,13 +160,13 @@
       },
       {
         "op": "equal",
-        "a": "wyß ſonders",
-        "b": "wyß ſonders"
+        "a": "wyß ſonders eygentlichen",
+        "b": "wyß ſonders eygentlichē"
       },
       {
         "op": "replace",
-        "a": "eygentlichen vonn",
-        "b": "eygentlichē von"
+        "a": "vonn",
+        "b": "von"
       },
       {
         "op": "equal",
@@ -247,13 +225,13 @@
       },
       {
         "op": "replace",
-        "a": "wer den vonn eynem yegklichen Chriſten",
-        "b": "werdē von einem yetlichen Chriſtē"
+        "a": "wer den vonn eynem yegklichen",
+        "b": "werdē von einem yetlichen"
       },
       {
         "op": "equal",
-        "a": "der da",
-        "b": "der da"
+        "a": "Chriſten der da",
+        "b": "Chriſtē der da"
       },
       {
         "op": "replace",
@@ -311,7 +289,7 @@
         "b": "volget daruß wie vormals anzeygt iſt worden das ſölliche gemeyne verſamlung im geyſt des Herrn verſamlet ouch hab zerichten die geſchrifft vnd zeurteylen dann ye geſchri ben ſtat Der geyſtlich richt alle ding hie nimpt Die gſchrifft nüt vß Das aber min herr Doctor wyter ynzücht vff die wort des Herren do er alſo ſagt Welcher die Kilchen nitt ho rt der ſye dir als ein Heyd ꝛc Wie das ſöllichs vonn yn nerlichen geyſtlichen menſchen verſtanden ſoll werden der da alle ding richt zů dem glouben vnd zů der lieby ſag ich das darzů das vns hie"
       }
     ],
-    "ops": 20,
+    "ops": 19,
     "truncated": false
   }
 }

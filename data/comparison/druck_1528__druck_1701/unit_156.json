@@ -8,7 +8,7 @@
       165
     ]
   },
-  "alignment_score": 0.2893,
+  "alignment_score": 0.3025,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -27,31 +27,25 @@
     "matched": 5,
     "only_a": 0,
     "only_b": 3,
-    "similarity": 0.4854,
+    "similarity": 0.4939,
     "pairs": [
       {
         "op": "match",
         "a": "LXXII\n\nDie ander Schlußred / vnd der selben\ngründ/hat Meyſter Frantz Kolb/predicant\nzů Bernn eroffnet. Die kilch Chriſti / machet nitt geſatz\nvnd bot/ane gottes wort/deßhalb all men\nſchen ſatzungen /",
         "b": "Die Ander Schlußred. 149\n\nDie ander Schlußred\n/ Und derſelben Gründ / hat Meiſter Frantz Kolb / Predi-\ncant zu Bern / eröffnet. Die Kilch Chriſti machet nit Geſatz und Bott /",
-        "similarity": 0.5424,
-        "semantic": 0.8672,
-        "reading": "same"
+        "similarity": 0.5424
       },
       {
         "op": "match",
         "a": "ſo man nempt der kilchē\nbott/vnß nit witer bindend/dan̄ ſy in göt\ntlichē wort gegründt vnd botten ſind.",
         "b": "ohne\nGottes Wort / deßhalb alle Menſchen-Satzungen / ſo man nennet der Kilchen Bott / uns nit wyter bin-\ndend / dann ſy in Göttlichem Wort gegründet und\nbotten ſind.",
-        "similarity": 0.4681,
-        "semantic": 0.4808,
-        "reading": "different"
+        "similarity": 0.5106
       },
       {
         "op": "match",
         "a": "Meyſter Frantz Kolb. Gnad vnd frid von got\ndem vatter/vnd vnſerm her=\nren Jeſu Chriſto/Amen. Vß=\nerwelten Gottes fründ/nach\ndem min brüder Berchtold/",
         "b": "Meiſter Frantz Kolb. GNad und Frid von Gott dem Vatter / und\nunſerm Herren Jeſu Chriſto / Amen. Ußer-\nwehlte Gottes-Fründ /",
-        "similarity": 0.6087,
-        "semantic": 0.911,
-        "reading": "same"
+        "similarity": 0.6087
       },
       {
         "op": "only_b",
@@ -63,17 +57,13 @@
         "op": "match",
         "a": "in der erſten vnſer ſchlußred/ gnůgſamklich erlütret hatt/ was da ſye die Chriſtenlich\nmeind/dero das eynig houpt\nſye Chriſtus Jeſus/nach lut\ndes andern Artickels vnſers vralten Criſtenlichen glou\nbens/der alſo lutet.",
         "b": "dero das einig Haubt ſeye Chriſtus Jeſus / nach lut deß andern Artickels unſers uhralten Chriſten-\nlichen Glaubens / der alſo lutet:",
-        "similarity": 0.4444,
-        "semantic": 0.7798,
-        "reading": "reworded"
+        "similarity": 0.4444
       },
       {
         "op": "match",
         "a": "Jch gloub in Jeſum ſinen eingebornē\nſun/vnſern herrn/merckē Menceſchlich/vnſern herrn/vns\nſer houpt/vnſern heyland/vnſern låbendig macher/vn",
         "b": "Jch glaub in Jeſum ſy-\nnen eingebohrnen Sohn / unſern Herren / merckt mengck-\nlich / unſern Herren / unſer Haubt / unſern Heyland / un-\nſern Lebendigmacher /",
-        "similarity": 0.3636,
-        "semantic": 0.5656,
-        "reading": "different"
+        "similarity": 0.3636
       },
       {
         "op": "only_b",
@@ -87,15 +77,10 @@
         "b": "in diſem\nblyben wir / keines andern Stimm hören wir / wie dann\nT ij diſer",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7209,
-    "reworded": 1,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4902,
+    "similarity": 0.4967,
     "words": {
       "a": 134,
       "b": 172
@@ -188,18 +173,8 @@
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
-      },
-      {
-        "op": "replace",
-        "a": "kilchē",
-        "b": "Kilchen"
-      },
-      {
-        "op": "equal",
-        "a": "bott",
-        "b": "Bott"
+        "a": "der kilchē bott",
+        "b": "der Kilchen Bott"
       },
       {
         "op": "replace",
@@ -417,7 +392,7 @@
         "b": "Erhalter unſern einigen Biſchoff und Lehrmeiſter den und keinen andern we der im Himmel noch uff Erdrich bekennen wir in diſem blyben wir keines andern Stimm hören wir wie dann T ij diſer"
       }
     ],
-    "ops": 32,
+    "ops": 31,
     "truncated": false
   }
 }

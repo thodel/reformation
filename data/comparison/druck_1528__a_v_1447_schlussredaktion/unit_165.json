@@ -8,7 +8,7 @@
       294
     ]
   },
-  "alignment_score": 0.1356,
+  "alignment_score": 0.1525,
   "coarse": {
     "paragraphs": {
       "a": 8,
@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 4,
     "only_b": 2,
-    "similarity": 0.3985,
+    "similarity": 0.4093,
     "pairs": [
       {
         "op": "only_b",
@@ -57,7 +57,7 @@
         "op": "match",
         "a": "vor zwölffhundert jaren vnnd mer/beſchriben/zůg ich\nmich vff den hochgelertẽ Ecolampadiũ/der ſölichs für\nander vß wyßt/by Ignatio/einem junger Johanis des\nEuangeliſten/by Origene vnd andren/erfunden werdẽ.",
         "b": "den Carningen der Aposthen komen in\nvor zwolfhundert Jaren vnd mer, beschriben, zug¬\nIch mich, vff den hochgelerten Ocolimpidium, der\nende olichs, für ander vf weist, bij Ignatio finem Jun:",
-        "similarity": 0.3871
+        "similarity": 0.4194
       },
       {
         "op": "match",
@@ -86,7 +86,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.2917,
+    "similarity": 0.3021,
     "words": {
       "a": 185,
       "b": 199
@@ -269,13 +269,13 @@
       },
       {
         "op": "equal",
-        "a": "mer beſchriben zůg ich mich vff den",
-        "b": "mer beschriben zug Ich mich vff den"
+        "a": "mer beſchriben zůg ich mich vff den hochgelertẽ",
+        "b": "mer beschriben zug Ich mich vff den hochgelerten"
       },
       {
         "op": "replace",
-        "a": "hochgelertẽ Ecolampadiũ",
-        "b": "hochgelerten Ocolimpidium"
+        "a": "Ecolampadiũ",
+        "b": "Ocolimpidium"
       },
       {
         "op": "equal",
@@ -319,18 +319,8 @@
       },
       {
         "op": "equal",
-        "a": "vnd andren erfunden",
-        "b": "vnd andren erfunden"
-      },
-      {
-        "op": "replace",
-        "a": "werdẽ",
-        "b": "werden"
-      },
-      {
-        "op": "equal",
-        "a": "Beuilch",
-        "b": "Beuilch"
+        "a": "vnd andren erfunden werdẽ Beuilch",
+        "b": "vnd andren erfunden werden Beuilch"
       },
       {
         "op": "replace",
@@ -408,7 +398,7 @@
         "b": "ad acta"
       }
     ],
-    "ops": 32,
+    "ops": 31,
     "truncated": false
   }
 }

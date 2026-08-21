@@ -8,7 +8,7 @@
       189
     ]
   },
-  "alignment_score": 0.3577,
+  "alignment_score": 0.4545,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -27,57 +27,42 @@
     "matched": 5,
     "only_a": 0,
     "only_b": 0,
-    "similarity": 0.5109,
+    "similarity": 0.545,
     "pairs": [
       {
         "op": "match",
         "a": "LXXII\n\nDie ander Schlußred / vnd der selben\ngründ/hat Meyſter Frantz Kolb/predicant\nzů Bernn eroffnet. Die kilch Chriſti / machet nitt geſatz\nvnd bot/ane gottes wort/deßhalb all men\nſchen ſatzungen /",
         "b": "LXXXII\nDie ander Schlußred / vñ\nder ſelbẽ gründ/hat M. Frantz\nKolb/predicãt zů Bern/eroffnet. Die kilch Chriſti/machet nit geſatz\nvñ bott /one gottes wort/",
-        "similarity": 0.5763,
-        "semantic": 0.8655,
-        "reading": "same"
+        "similarity": 0.6441
       },
       {
         "op": "match",
         "a": "ſo man nempt der kilchē\nbott/vnß nit witer bindend/dan̄ ſy in göt\ntlichē wort gegründt vnd botten ſind.",
         "b": "deßhalb\nalle menſchen ſatzungenn / ſo man\nnempt der kilchẽ bott /vns nit wy-\nter bindend : dann ſy in goͤttlichem\nwort gegruͤndt vnnd botten ſind.",
-        "similarity": 0.5652,
-        "semantic": 0.8261,
-        "reading": "same"
+        "similarity": 0.5652
       },
       {
         "op": "match",
         "a": "Meyſter Frantz Kolb. Gnad vnd frid von got\ndem vatter/vnd vnſerm her=\nren Jeſu Chriſto/Amen. Vß=\nerwelten Gottes fründ/nach\ndem min brüder Berchtold/",
         "b": "Meyſter frantz Kolb. Gnad vnnd frid von\nGott dem Vatter/ vnnd vnſerem her-\nrẽ Jeſu Chriſto/ A-\nmẽ. Vßerweltẽ got-\ntes fruͤnd/nach dem\nmin bruͤder Berch-\ntold/in d̃ erſtẽ vnſer\nſchlußreden/",
-        "similarity": 0.4262,
-        "semantic": 0.8672,
-        "reading": "reworded"
+        "similarity": 0.459
       },
       {
         "op": "match",
         "a": "in der erſten vnſer ſchlußred/ gnůgſamklich erlütret hatt/ was da ſye die Chriſtenlich\nmeind/dero das eynig houpt\nſye Chriſtus Jeſus/nach lut\ndes andern Artickels vnſers vralten Criſtenlichen glou\nbens/der alſo lutet.",
         "b": "gnuͤg-\nſamlich erluͤtret hatt\nwas da ſye die Chriſtenlich gemeynd / dero das\neinig houpt ſye Chriſtus Jeſus/ nach lut des an\ndern artickels vnſers vralten Chriſtenlichẽ glou\nbẽs/d̃ alſo lutet :",
-        "similarity": 0.6269,
-        "semantic": 0.8063,
-        "reading": "same"
+        "similarity": 0.6567
       },
       {
         "op": "match",
         "a": "Jch gloub in Jeſum ſinen eingebornē\nſun/vnſern herrn/merckē Menceſchlich/vnſern herrn/vns\nſer houpt/vnſern heyland/vnſern låbendig macher/vn",
         "b": "Jch gloub in Jeſum ſinẽ einge\nbornẽ ſun/vnſern herrẽ/merckt mẽcklich/vnſerẽ\nherrẽ/vnſer houpt/vnſeren heyland/vnſeren laͤ-\nbendig macher/ vnſerẽ enthalter/ vnſeren einigẽ\nl ĳ",
-        "similarity": 0.36,
-        "semantic": 0.9093,
-        "reading": "reworded"
+        "similarity": 0.4
       }
-    ],
-    "semantic": 0.8549,
-    "reworded": 2,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5371,
+    "similarity": 0.5795,
     "words": {
       "a": 134,
       "b": 149
@@ -100,18 +85,8 @@
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
-      },
-      {
-        "op": "replace",
-        "a": "selben",
-        "b": "ſelbẽ"
-      },
-      {
-        "op": "equal",
-        "a": "gründ hat",
-        "b": "gründ hat"
+        "a": "der selben gründ hat",
+        "b": "der ſelbẽ gründ hat"
       },
       {
         "op": "replace",
@@ -120,18 +95,8 @@
       },
       {
         "op": "equal",
-        "a": "Frantz Kolb",
-        "b": "Frantz Kolb"
-      },
-      {
-        "op": "replace",
-        "a": "predicant",
-        "b": "predicãt"
-      },
-      {
-        "op": "equal",
-        "a": "zů",
-        "b": "zů"
+        "a": "Frantz Kolb predicant zů",
+        "b": "Frantz Kolb predicãt zů"
       },
       {
         "op": "replace",
@@ -250,18 +215,8 @@
       },
       {
         "op": "equal",
-        "a": "her",
-        "b": "her"
-      },
-      {
-        "op": "replace",
-        "a": "ren",
-        "b": "rẽ"
-      },
-      {
-        "op": "equal",
-        "a": "Jeſu Chriſto",
-        "b": "Jeſu Chriſto"
+        "a": "her ren Jeſu Chriſto",
+        "b": "her rẽ Jeſu Chriſto"
       },
       {
         "op": "replace",
@@ -285,13 +240,13 @@
       },
       {
         "op": "replace",
-        "a": "der erſten",
-        "b": "d erſtẽ"
+        "a": "der",
+        "b": "d"
       },
       {
         "op": "equal",
-        "a": "vnſer",
-        "b": "vnſer"
+        "a": "erſten vnſer",
+        "b": "erſtẽ vnſer"
       },
       {
         "op": "replace",
@@ -340,23 +295,23 @@
       },
       {
         "op": "equal",
-        "a": "glou",
-        "b": "glou"
+        "a": "glou bens",
+        "b": "glou bẽs"
       },
       {
         "op": "replace",
-        "a": "bens der",
-        "b": "bẽs d"
+        "a": "der",
+        "b": "d"
       },
       {
         "op": "equal",
-        "a": "alſo lutet Jch gloub in Jeſum",
-        "b": "alſo lutet Jch gloub in Jeſum"
+        "a": "alſo lutet Jch gloub in Jeſum ſinen",
+        "b": "alſo lutet Jch gloub in Jeſum ſinẽ"
       },
       {
         "op": "replace",
-        "a": "ſinen eingebornē",
-        "b": "ſinẽ einge bornẽ"
+        "a": "eingebornē",
+        "b": "einge bornẽ"
       },
       {
         "op": "equal",
@@ -399,7 +354,7 @@
         "b": "vnſerẽ enthalter vnſeren einigẽ l ĳ"
       }
     ],
-    "ops": 32,
+    "ops": 29,
     "truncated": false
   }
 }

@@ -116,7 +116,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.364,
+    "similarity": 0.3679,
     "words": {
       "a": 255,
       "b": 256
@@ -214,8 +214,18 @@
       },
       {
         "op": "replace",
-        "a": "leermeyſter vñ ler",
-        "b": "lermeister vnd ter"
+        "a": "leermeyſter",
+        "b": "lermeister"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "ler",
+        "b": "ter"
       },
       {
         "op": "equal",
@@ -488,7 +498,7 @@
         "b": ""
       }
     ],
-    "ops": 37,
+    "ops": 38,
     "truncated": false
   }
 }

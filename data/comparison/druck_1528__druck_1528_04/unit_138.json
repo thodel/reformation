@@ -5,14 +5,14 @@
       138
     ],
     "druck_1528_04": [
-      167
+      166
     ]
   },
-  "alignment_score": 0.2849,
+  "alignment_score": 0.2976,
   "coarse": {
     "paragraphs": {
       "a": 3,
-      "b": 3
+      "b": 2
     },
     "counts": {
       "equal": 0,
@@ -23,274 +23,393 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 13,
-    "matched": 4,
-    "only_a": 5,
-    "only_b": 4,
-    "similarity": 0.664,
+    "units": 15,
+    "matched": 3,
+    "only_a": 6,
+    "only_b": 6,
+    "similarity": 0.4355,
     "pairs": [
       {
         "op": "only_a",
         "a": "Die erſt\nZwingy\nMeyster Niclaus/ was wellend jr mit denen wortẽ\nallen ynfüren? Senger. Als iſt min meinung/ der anzügen halb/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6198,
-        "semantic_match": "vnd\ndes geiſts/nit eröffnet ſye. Am zwólfften tag Jenners/was\nSonntag vor dem XX.tag. Senger. Lieben frommen Chriſten/als jr geſtern ſpadt",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "only_b",
+        "a": null,
+        "b": "Die erſt\n\nCorinthern am xj. cap. Jch lob uͤch mine bruͤder/ das jr in allen dingē min yngedenck ſind/als ich\nuͤch mine pott geben hab.",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "Verheyſſet jnen daby: Die anderen ding wil ich uͤch ouch ordnen/ weñ\nich zuͦ uͤch kom̃. Man findt aber nienan gſchribē/",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "wo er dz geordnet habe. Hat aber jnē onzwyffel\ngehalten/ das er jnen verheyſſen hat. Spricht\nouch im ſelben capitel:",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "Das ſag ich uͤch/ vnd nit\nder Herr. Sagt da von Ee ſachen. ꝛc. Von ſoͤli-\nchen bruͤchen findt man ouch gſchriben/zun Teſ-\nſalonichern in der anderen Epiſtel/",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "am anderen\ncapitel/die nit all geſchriben ſtond/ als ich mein. Zwingly. Meiſter Niclaus/was wellen jr mit den wor-\nten allen ynfuͤren?",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "Senger. Das iſt min meynung/ der anzuͤgenn halb. Diewyl uͤwer ſchlußreden tringend vff dz wort\nGottes/ geſchriben vnd yngeſprochen/",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
         "a": "Diewyl\nüwer Schlußreden tringer vff das wort Got=\ntes/ geſchriben vnd vngeſprochen/ vñ aber min\nG. Herrẽ jr Diſputation halb/",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6934,
-        "semantic_match": "ja ouch\nbiß vff Johanſen/Luce am xvj.ca. Deßhalb ſy\nkeine nüwe růmer der offenbarungen annem̃en/ die da nützid bringen/das da widrig ſye dem/dz\nvor Chriſto geſchriben iſt/biß vff jn:ouch dem/",
-        "reading": "candidate"
+        "b": "vn̄ aber\nmin G. Herren jr Disputation halb/ verſchloſ-\nſen habend/nuͤt hie ynzefuͤren in diſer Disputa-\ntion/",
+        "similarity": 0.35
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "verſchloſſen ha\nbend/ nüt hie ynzefüren in diſer Diſputation/ dann ſo in\nBibliſcher gſchrifft begriffen iſt/ meynt ich/ man möchte\nouch probieren vñ bezügẽ/",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7952,
-        "semantic_match": "Vnd herwiderum̃/ alles das von Gott\nyngeblaſen iſt/das hand ſy für gôttlich ſchrifft: Doch mit dem ynſchluß/das in dem Herrẽ Chri\nſto Jeſu alle Prophetien gehórt habend/",
-        "reading": "candidate"
+        "b": "dañ ſo in Bibliſcher gſchrifft begriffen iſt/ meynt ich/man moͤchte ouch probieren vnd bezuͤ-\ngen/ etwas vß den bruͤchen in der heiligen Chri-\nſtenlichen Kilchen vnd uͤbungen/",
+        "similarity": 0.4364
       },
       {
         "op": "only_a",
         "a": "etwas vß den brüchen in der\nheiligen Chriſtẽlichen Kilchen vnd übungen/ ſo nit ge=\nſchriben/ vnd an vns kommen ſind.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8142,
-        "semantic_match": "das die handlung Chriſti begryfft: Dann nützid\nmag mer herfür bracht werden/das im Herren\nChriſto Jeſu/als in dem liecht des gſatzes/",
-        "reading": "candidate"
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "Zwingy. DIß wort in der ij. Epi. zum Thimotheo iij. cap. Ein yegklich gſchrifft/ wie es dann meyſter Ni=\nclaus gemelder hat/",
+        "b": "ſo nit geſchri-\nben/vnd an vns komen ſind. Zwingly: Diß ort in der ij. Epiſt. zum Thimotheo/ am iij. cap. Ein yegkliche gſchrifft/ wie es dann\nmeiſter",
+        "similarity": 0.52
       },
       {
         "op": "only_a",
-        "a": "Zwingy. DIß wort in der ij. Epi. zum Thimotheo iij. cap. Ein yegklich gſchrifft/ wie es dann meyſter Ni=\nclaus gemelder hat/",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6878,
-        "semantic_match": "ja ouch\nbiß vff Johanſen/Luce am xvj.ca. Deßhalb ſy\nkeine nüwe růmer der offenbarungen annem̃en/ die da nützid bringen/das da widrig ſye dem/dz\nvor Chriſto geſchriben iſt/biß vff jn:ouch dem/",
-        "reading": "candidate"
-      },
-      {
-        "op": "match",
         "a": "iſt nit recht vertütſchet. Er\nhats alſo vertütſchet: Ein yegkliche gſchrifft iſt nutzbar\nzü leren/ welches aber der ſinn Pauli genglich nit iſt:",
-        "b": "Schlußred. LXXI\n\nmeiſter Niclaus gemeldet hat/ iſt nit recht vertü\ntſchet. Er hats alſo vertütſchet: Ein yegkliche\ngſchrifft iſt nutzbar zů leren/welchs aber der ſin\nPauli gentzlich nit iſt:",
-        "similarity": 0.717,
-        "semantic": 0.8501,
-        "reading": "same"
+        "b": null,
+        "similarity": 0.0
       },
       {
-        "op": "match",
+        "op": "only_a",
         "a": "dañ\nmit dem verſtand möcht man ynfüren/ das ein yede ge=\nſchrifft nutzbar wåre zü lerenn/ welches doch keinen wåg\nmag erlitten werden/",
-        "b": "Dann mit dem verſtannd\nmôcht man ynfüren/ das ein yede gſchrifft nutz\nbar wåre zů leren/welchs doch keinen wåg mag\nerlitten werden/",
-        "similarity": 0.6957,
-        "semantic": 0.8071,
-        "reading": "same"
+        "b": null,
+        "similarity": 0.0
       },
       {
-        "op": "match",
+        "op": "only_a",
         "a": "ſonders der ſinn Pauli iſt der/ Ein\nyede gſchrifft die von Gott yngeblaſen iſt. Alſo vermag\nouch der Text: Sie iſt ouch nutzbar zü der leer.",
-        "b": "ſonders der ſinn Pauli iſt der: Ein yede gſchrifft die von Gott yngeblaſen iſt. Alſo vermag ouch der text:Die iſt ouch nutzbar\nzů der leer.Hieby fromen Chriſten/merckt üwer\nlieb/",
-        "similarity": 0.8621,
-        "semantic": 0.8105,
-        "reading": "same"
+        "b": null,
+        "similarity": 0.0
       },
       {
-        "op": "match",
+        "op": "only_a",
         "a": "Hieby\nfrommen Chriſten/ merckt üwer lieb/ das der verſtand\nvnser brüder der Predicanten/ noch jmmerdar vffrecht\nſtade",
-        "b": "das der verſtand vnſer brůder der Predicã\nten/noch yemerdar vffrecht ſtadt/das/das ſy ge\nredt habend/iſt vß der gôttlich yngeblaßnen ge\nſchrifft.",
-        "similarity": 0.381,
-        "semantic": 0.5532,
-        "reading": "different"
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "Vnd herwiderum̃/ alles das von Gott\nyngeblaſen iſt/das hand ſy für gôttlich ſchrifft: Doch mit dem ynſchluß/das in dem Herrẽ Chri\nſto Jeſu alle Prophetien gehórt habend/",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "ja ouch\nbiß vff Johanſen/Luce am xvj.ca. Deßhalb ſy\nkeine nüwe růmer der offenbarungen annem̃en/ die da nützid bringen/das da widrig ſye dem/dz\nvor Chriſto geſchriben iſt/biß vff jn:ouch dem/",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "das die handlung Chriſti begryfft: Dann nützid\nmag mer herfür bracht werden/das im Herren\nChriſto Jeſu/als in dem liecht des gſatzes/",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "vnd\ndes geiſts/nit eröffnet ſye. Am zwólfften tag Jenners/was\nSonntag vor dem XX.tag. Senger. Lieben frommen Chriſten/als jr geſtern ſpadt",
+        "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7368,
-    "reworded": 0,
-    "candidates": 5,
-    "recovered_by_embedding": 5,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.358,
+    "similarity": 0.316,
     "words": {
       "a": 196,
-      "b": 223
+      "b": 228
     },
     "segments": [
       {
+        "op": "equal",
+        "a": "Die erſt",
+        "b": "Die erſt"
+      },
+      {
         "op": "replace",
-        "a": "Die erſt Zwingy Meyster",
-        "b": "Schlußred LXXI meiſter"
+        "a": "Zwingy Meyster",
+        "b": "Corinthern am xj cap Jch lob u ch mine bru der das jr in allen dinge min yngedenck ſind als ich u ch mine pott geben hab Verheyſſet jnen daby Die anderen ding wil ich u ch ouch ordnen weñ ich zu u ch kom Man findt aber nienan gſchribē wo er dz geordnet habe Hat aber jne onzwyffel gehalten das er jnen verheyſſen hat Spricht ouch im ſelben capitel Das ſag ich u ch vnd nit der Herr Sagt da von Ee ſachen ꝛc Von ſo li chen bru chen findt man ouch gſchriben zun Teſ ſalonichern in der anderen Epiſtel am anderen capitel die nit all geſchriben ſtond als ich mein Zwingly Meiſter"
       },
       {
         "op": "equal",
-        "a": "Niclaus",
-        "b": "Niclaus"
+        "a": "Niclaus was",
+        "b": "Niclaus was"
       },
       {
         "op": "replace",
-        "a": "was wellend jr mit denen wortẽ allen ynfüren Senger Als iſt min meinung der anzügen halb Diewyl üwer Schlußreden tringer vff das wort Got tes geſchriben vnd vngeſprochen vñ aber min G Herrẽ jr Diſputation halb verſchloſſen ha bend nüt hie ynzefüren in diſer Diſputation dann ſo in Bibliſcher gſchrifft begriffen iſt meynt ich man möchte ouch probieren vñ bezügẽ etwas vß den brüchen in der heiligen Chriſtẽlichen Kilchen vnd übungen ſo nit ge ſchriben vnd an vns kommen ſind Zwingy DIß wort in der ij Epi zum Thimotheo iij cap Ein yegklich gſchrifft wie es dann meyſter Ni claus gemelder",
-        "b": "gemeldet"
+        "a": "wellend",
+        "b": "wellen"
       },
       {
         "op": "equal",
-        "a": "hat iſt nit recht",
-        "b": "hat iſt nit recht"
+        "a": "jr mit",
+        "b": "jr mit"
       },
       {
         "op": "replace",
-        "a": "vertütſchet",
-        "b": "vertü tſchet"
+        "a": "denen wortẽ",
+        "b": "den wor ten"
       },
       {
         "op": "equal",
-        "a": "Er hats alſo vertütſchet Ein yegkliche gſchrifft iſt nutzbar zü leren",
-        "b": "Er hats alſo vertütſchet Ein yegkliche gſchrifft iſt nutzbar zů leren"
+        "a": "allen",
+        "b": "allen"
       },
       {
         "op": "replace",
-        "a": "welches",
-        "b": "welchs"
+        "a": "ynfüren",
+        "b": "ynfu ren"
       },
       {
         "op": "equal",
-        "a": "aber der",
-        "b": "aber der"
+        "a": "Senger",
+        "b": "Senger"
       },
       {
         "op": "replace",
-        "a": "ſinn",
-        "b": "ſin"
+        "a": "Als",
+        "b": "Das"
       },
       {
         "op": "equal",
-        "a": "Pauli",
-        "b": "Pauli"
+        "a": "iſt min",
+        "b": "iſt min"
       },
       {
         "op": "replace",
-        "a": "genglich",
-        "b": "gentzlich"
+        "a": "meinung",
+        "b": "meynung"
       },
       {
         "op": "equal",
-        "a": "nit iſt",
-        "b": "nit iſt"
+        "a": "der",
+        "b": "der"
       },
       {
         "op": "replace",
-        "a": "dan",
-        "b": "Dann"
+        "a": "anzügen",
+        "b": "anzu genn"
       },
       {
         "op": "equal",
-        "a": "mit dem",
-        "b": "mit dem"
+        "a": "halb Diewyl",
+        "b": "halb Diewyl"
       },
       {
         "op": "replace",
-        "a": "verſtand",
-        "b": "verſtannd"
+        "a": "üwer",
+        "b": "u wer"
       },
       {
         "op": "equal",
-        "a": "möcht man ynfüren das ein yede",
-        "b": "môcht man ynfüren das ein yede"
+        "a": "Schlußreden",
+        "b": "ſchlußreden"
       },
       {
         "op": "replace",
-        "a": "ge ſchrifft nutzbar",
-        "b": "gſchrifft nutz bar"
+        "a": "tringer",
+        "b": "tringend"
       },
       {
         "op": "equal",
-        "a": "wåre zü",
-        "b": "wåre zů"
+        "a": "vff",
+        "b": "vff"
       },
       {
         "op": "replace",
-        "a": "lerenn welches",
-        "b": "leren welchs"
+        "a": "das",
+        "b": "dz"
       },
       {
         "op": "equal",
-        "a": "doch keinen wåg mag erlitten werden ſonders der ſinn Pauli iſt der Ein yede gſchrifft die von Gott yngeblaſen iſt Alſo vermag ouch der Text",
-        "b": "doch keinen wåg mag erlitten werden ſonders der ſinn Pauli iſt der Ein yede gſchrifft die von Gott yngeblaſen iſt Alſo vermag ouch der text"
+        "a": "wort",
+        "b": "wort"
       },
       {
         "op": "replace",
-        "a": "Sie",
-        "b": "Die"
+        "a": "Got tes",
+        "b": "Gottes"
       },
       {
         "op": "equal",
-        "a": "iſt ouch nutzbar zü der leer Hieby",
-        "b": "iſt ouch nutzbar zů der leer Hieby"
+        "a": "geſchriben vnd",
+        "b": "geſchriben vnd"
       },
       {
         "op": "replace",
-        "a": "frommen",
-        "b": "fromen"
+        "a": "vngeſprochen vñ",
+        "b": "yngeſprochen vn"
       },
       {
         "op": "equal",
-        "a": "Chriſten merckt üwer lieb das der verſtand vnser brüder der",
-        "b": "Chriſten merckt üwer lieb das der verſtand vnſer brůder der"
+        "a": "aber min G Herrẽ jr Diſputation halb",
+        "b": "aber min G Herren jr Disputation halb"
       },
       {
         "op": "replace",
-        "a": "Predicanten",
-        "b": "Predicã ten"
+        "a": "verſchloſſen ha bend nüt",
+        "b": "verſchloſ ſen habend nu t"
       },
       {
         "op": "equal",
-        "a": "noch",
-        "b": "noch"
+        "a": "hie",
+        "b": "hie"
       },
       {
         "op": "replace",
-        "a": "jmmerdar",
-        "b": "yemerdar"
+        "a": "ynzefüren",
+        "b": "ynzefu ren"
       },
       {
         "op": "equal",
-        "a": "vffrecht",
-        "b": "vffrecht"
+        "a": "in diſer",
+        "b": "in diſer"
       },
       {
         "op": "replace",
-        "a": "ſtade",
-        "b": "ſtadt das das ſy ge redt habend iſt vß der gôttlich yngeblaßnen ge ſchrifft Vnd herwiderum alles das von Gott yngeblaſen iſt das hand ſy für gôttlich ſchrifft Doch mit dem ynſchluß das in dem Herrẽ Chri ſto Jeſu alle Prophetien gehórt habend ja ouch biß vff Johanſen Luce am xvj ca Deßhalb ſy keine nüwe růmer der offenbarungen annem en die da nützid bringen das da widrig ſye dem dz vor Chriſto geſchriben iſt biß vff jn ouch dem das die handlung Chriſti begryfft Dann nützid mag mer herfür bracht werden das im Herren Chriſto Jeſu als in dem liecht des gſatzes vnd des geiſts nit eröffnet ſye Am zwólfften tag Jenners was Sonntag vor dem XX tag Senger Lieben frommen Chriſten als jr geſtern ſpadt"
+        "a": "Diſputation dann",
+        "b": "Disputa tion dan"
+      },
+      {
+        "op": "equal",
+        "a": "ſo in Bibliſcher gſchrifft begriffen iſt meynt ich man",
+        "b": "ſo in Bibliſcher gſchrifft begriffen iſt meynt ich man"
+      },
+      {
+        "op": "replace",
+        "a": "möchte",
+        "b": "mo chte"
+      },
+      {
+        "op": "equal",
+        "a": "ouch probieren vñ",
+        "b": "ouch probieren vnd"
+      },
+      {
+        "op": "replace",
+        "a": "bezügẽ",
+        "b": "bezu gen"
+      },
+      {
+        "op": "equal",
+        "a": "etwas vß den",
+        "b": "etwas vß den"
+      },
+      {
+        "op": "replace",
+        "a": "brüchen",
+        "b": "bru chen"
+      },
+      {
+        "op": "equal",
+        "a": "in der heiligen",
+        "b": "in der heiligen"
+      },
+      {
+        "op": "replace",
+        "a": "Chriſtẽlichen",
+        "b": "Chri ſtenlichen"
+      },
+      {
+        "op": "equal",
+        "a": "Kilchen vnd",
+        "b": "Kilchen vnd"
+      },
+      {
+        "op": "replace",
+        "a": "übungen",
+        "b": "u bungen"
+      },
+      {
+        "op": "equal",
+        "a": "ſo nit",
+        "b": "ſo nit"
+      },
+      {
+        "op": "replace",
+        "a": "ge ſchriben",
+        "b": "geſchri ben"
+      },
+      {
+        "op": "equal",
+        "a": "vnd an vns",
+        "b": "vnd an vns"
+      },
+      {
+        "op": "replace",
+        "a": "kommen",
+        "b": "komen"
+      },
+      {
+        "op": "equal",
+        "a": "ſind",
+        "b": "ſind"
+      },
+      {
+        "op": "replace",
+        "a": "Zwingy",
+        "b": "Zwingly"
+      },
+      {
+        "op": "equal",
+        "a": "DIß",
+        "b": "Diß"
+      },
+      {
+        "op": "replace",
+        "a": "wort",
+        "b": "ort"
+      },
+      {
+        "op": "equal",
+        "a": "in der ij",
+        "b": "in der ij"
+      },
+      {
+        "op": "replace",
+        "a": "Epi",
+        "b": "Epiſt"
+      },
+      {
+        "op": "equal",
+        "a": "zum Thimotheo",
+        "b": "zum Thimotheo"
+      },
+      {
+        "op": "insert",
+        "a": "",
+        "b": "am"
+      },
+      {
+        "op": "equal",
+        "a": "iij cap Ein",
+        "b": "iij cap Ein"
+      },
+      {
+        "op": "replace",
+        "a": "yegklich",
+        "b": "yegkliche"
+      },
+      {
+        "op": "equal",
+        "a": "gſchrifft wie es dann",
+        "b": "gſchrifft wie es dann"
+      },
+      {
+        "op": "replace",
+        "a": "meyſter Ni claus gemelder hat iſt nit recht vertütſchet Er hats alſo vertütſchet Ein yegkliche gſchrifft iſt nutzbar zü leren welches aber der ſinn Pauli genglich nit iſt dan mit dem verſtand möcht man ynfüren das ein yede ge ſchrifft nutzbar wåre zü lerenn welches doch keinen wåg mag erlitten werden ſonders der ſinn Pauli iſt der Ein yede gſchrifft die von Gott yngeblaſen iſt Alſo vermag ouch der Text Sie iſt ouch nutzbar zü der leer Hieby frommen Chriſten merckt üwer lieb das der verſtand vnser brüder der Predicanten noch jmmerdar vffrecht ſtade",
+        "b": "meiſter"
       }
     ],
-    "ops": 15,
+    "ops": 28,
     "truncated": false
   }
 }

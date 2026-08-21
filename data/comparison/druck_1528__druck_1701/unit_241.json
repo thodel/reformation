@@ -8,7 +8,7 @@
       250
     ]
   },
-  "alignment_score": 0.2472,
+  "alignment_score": 0.267,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -23,21 +23,12 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 15,
-    "matched": 3,
-    "only_a": 5,
-    "only_b": 7,
-    "similarity": 0.4082,
+    "units": 13,
+    "matched": 5,
+    "only_a": 3,
+    "only_b": 5,
+    "similarity": 0.3728,
     "pairs": [
-      {
-        "op": "only_a",
-        "a": "**Die vierde**\n**Pfarrer von Appentzell.**\n[Initial F]Kommen Christen / es hat mīn herr Pfarrer vō\nSant Gallen / die klaren vnnd hällen gschrifft/",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7643,
-        "semantic_match": "Es hat myn Herz Pfarrer von\nSant Gallen / die klare und hålle Geſchrifft / Jo-\nhannis am 6. Cap. anzogen / lutend alſo:",
-        "reading": "candidate"
-      },
       {
         "op": "only_b",
         "a": null,
@@ -63,18 +54,16 @@
         "similarity": 0.0
       },
       {
-        "op": "only_b",
-        "a": null,
+        "op": "match",
+        "a": "**Die vierde**\n**Pfarrer von Appentzell.**\n[Initial F]Kommen Christen / es hat mīn herr Pfarrer vō\nSant Gallen / die klaren vnnd hällen gschrifft/",
         "b": "Es hat myn Herz Pfarrer von\nSant Gallen / die klare und hålle Geſchrifft / Jo-\nhannis am 6. Cap. anzogen / lutend alſo:",
-        "similarity": 0.0
+        "similarity": 0.3256
       },
       {
         "op": "match",
         "a": "Joannis am vj. cap. anzogen / lutend also: Das\nbrot welchs ich üch geben wird zc. hargegen mit vil vm=\nschweyffenden redenn /",
         "b": "Das Brodt\nwelches ich euch geben wird / ꝛc. hargegen mit vil um-\nſchweiffenden reden hat Meiſter Ulrich zů ſölichem Text\netwas harzů than /",
-        "similarity": 0.3636,
-        "semantic": 0.7733,
-        "reading": "reworded"
+        "similarity": 0.3636
       },
       {
         "op": "only_a",
@@ -86,9 +75,7 @@
         "op": "match",
         "a": "namlich das wörtly / Autem,\nvertütſchet / Aber. Als ich verſtand / ietzund in Latin by\nvns / vom Jheronymo nit interpretiert ſye / nīm daſſelb\nnit an /",
         "b": "nach dem und wir ihn haben transfe-\nrirt vom Jeronymo har / namlich das Wörtli / Autem,\nvertütschet (Aber.) Als ich verſtand /",
-        "similarity": 0.3721,
-        "semantic": 0.406,
-        "reading": "different"
+        "similarity": 0.3721
       },
       {
         "op": "only_b",
@@ -100,52 +87,30 @@
         "op": "match",
         "a": "ſonders empfilchs denen / die geüpt ſind in Grie=\nchiſcher ſpraach / vnd aber vnder den andren ouch geredt\nward / ſo von dem blüt vnnd fleyſch Chriſti /",
         "b": "und aber under den andern auch\ngeredt ward / ſo von dem Blůt und Fleiſch Chriſti / welches ich dann weſentlich bekenn /",
-        "similarity": 0.4889,
-        "semantic": 0.4091,
-        "reading": "different"
+        "similarity": 0.4889
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "welches ich\ndann wäſenlich beken̄ / vnder der gſtalt wyns vñ brots / nach lut des texts / vorgenempt. **Zwingli**\n[Initial I]Ch laß min Autem vff alle Exemplaria Greca, des Euange=\nliſten Johannis.",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7843,
-        "semantic_match": "jetzund in Latyn\nby uns von Jeronymo nit interpretirt ſeye / nimm daſ-\nſelb nit an / ſonders empfilchs denen / die geübt ſind in\nGriechiſcher Sprach /",
-        "reading": "candidate"
+        "b": "under der Geſtalt\nWyns und Brots / nach lut deß Texts / vorgenemnt. Zwing-\n\n## Marginalien\nSuch\nhievor\nam 64. und 197. blat.",
+        "similarity": 0.3137
       },
       {
         "op": "only_a",
         "a": "zc. **Pfarrer von Appentzell.**\nOnd ich mich vff die tranſlation Jheronymi. **pfarrer von Sant Gallen.**\n[Initial G]Ott verlych vns abermals erkantnus der war\nheyt /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7189,
-        "semantic_match": "jetzund in Latyn\nby uns von Jeronymo nit interpretirt ſeye / nimm daſ-\nſelb nit an / ſonders empfilchs denen / die geübt ſind in\nGriechiſcher Sprach /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Amen. Als fürgetragen wor de iſt / fürd=\nlich zü einem geſundē verſtand / etlich ſprüch vß\nerklärungen vß dem vj. ca. Joan. vnſers vſtands / dienet\nzü den",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7491,
-        "semantic_match": "jetzund in Latyn\nby uns von Jeronymo nit interpretirt ſeye / nimm daſ-\nſelb nit an / ſonders empfilchs denen / die geübt ſind in\nGriechiſcher Sprach /",
-        "reading": "candidate"
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "under der Geſtalt\nWyns und Brots / nach lut deß Texts / vorgenemnt. Zwing-\n\n## Marginalien\nSuch\nhievor\nam 64. und 197. blat.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6579,
-    "reworded": 1,
-    "candidates": 4,
-    "recovered_by_embedding": 4,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.372,
+    "similarity": 0.3816,
     "words": {
       "a": 193,
       "b": 221
@@ -188,18 +153,8 @@
       },
       {
         "op": "equal",
-        "a": "Pfarrer",
-        "b": "Pfarrer"
-      },
-      {
-        "op": "replace",
-        "a": "vō",
-        "b": "von"
-      },
-      {
-        "op": "equal",
-        "a": "Sant Gallen die",
-        "b": "Sant Gallen die"
+        "a": "Pfarrer vō Sant Gallen die",
+        "b": "Pfarrer von Sant Gallen die"
       },
       {
         "op": "replace",
@@ -418,18 +373,8 @@
       },
       {
         "op": "equal",
-        "a": "wyns",
-        "b": "Wyns"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "und"
-      },
-      {
-        "op": "equal",
-        "a": "brots nach lut",
-        "b": "Brots nach lut"
+        "a": "wyns vñ brots nach lut",
+        "b": "Wyns und Brots nach lut"
       },
       {
         "op": "replace",
@@ -447,7 +392,7 @@
         "b": "vorgenemnt Zwing Marginalien Such hievor am 64 und 197 blat"
       }
     ],
-    "ops": 30,
+    "ops": 28,
     "truncated": false
   }
 }

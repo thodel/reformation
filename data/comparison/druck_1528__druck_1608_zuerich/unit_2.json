@@ -8,7 +8,7 @@
       10
     ]
   },
-  "alignment_score": 0.2444,
+  "alignment_score": 0.2944,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,33 +27,25 @@
     "matched": 3,
     "only_a": 3,
     "only_b": 3,
-    "similarity": 0.4911,
+    "similarity": 0.5291,
     "pairs": [
       {
         "op": "only_a",
         "a": "Radefchlag vnnd bſkfchrybung\nSifer Disputation. Ir der Schulcheis\nder klein vnnd groß Rhadt/ genempt die zweyhüdert der\nStatt Bernn/Embieten al\nlen vnd yeden geystlichen vñ\nweltlichen/Prelate/Epten/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7543,
-        "semantic_match": "niemandts vßbeſchloſ-\nſen/ denen diſer Brieff zůkumpt/ vnſern gün-\nſtigen grůß/ vnd alles gůts zůuor. Vnd fůgen\nůch hiemit zů wüſſen:",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "p:sbsten/Sechan/Chother\nren/Lürpriestern/Pfarrern/ Seelfordern/Caplanen/Vi\ncarien/Belffern/Verkünd=\nern des wort Hortes/vi allen andren priestern/Leysche\nvnnd Ordenns lüten.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6529,
-        "semantic_match": "niemandts vßbeſchloſ-\nſen/ denen diſer Brieff zůkumpt/ vnſern gün-\nſtigen grůß/ vnd alles gůts zůuor. Vnd fůgen\nůch hiemit zů wüſſen:",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Sarzü vnsern Schultheyssenn/ Tschachtlan/Vögte/Sratthaltern/fryweyblen/Am\nman/Weybeln/vnd andern Amptlüte. Duch allen vn\nſeren lieben getrüwen/vnser Stetten/Landen/vnd ge\nbieten/ynwonern/hinderfassen/vnd vnserer verwalti=\ngung zügehörigen/niemants vsbeschlossen/denen diser\nbrieff zukumpt/vnsern günstlichen grüß/vñ alles guts\nzüuoz.",
         "b": "lüten. Ouch allen vnſeren lieben getrüwen/ vnſer Stetten/ Landen/ vnd Gebieten/ Yn-\nwonern/ Hinderſäſſen/ vnd vnſerer verwalti-\ngung vnd zůgehörigẽ/",
-        "similarity": 0.3385,
-        "semantic": 0.718,
-        "reading": "reworded"
+        "similarity": 0.3692
       },
       {
         "op": "only_b",
@@ -65,26 +57,19 @@
         "op": "match",
         "a": "Vnnd fügen üch hiemit zu wüssen: Wiewol wir\nhieuoz zu mermaln/vil vñ mancherley Mandaten/võ\nwegen der zweyspaltung des gloubens/haben lassen vß-\ngon:",
         "b": "Wiewol wir hieuor zů\nmermalen/ vil vnd mancherley Mandaten/ von wegen der zweyſpaltung deß Gloubens/ haben laſſen vßgon/ der hoffnung vnd zůuer-\nſicht/",
-        "similarity": 0.5,
-        "semantic": 0.6556,
-        "reading": "same"
+        "similarity": 0.5833
       },
       {
         "op": "match",
         "a": "der hoffnung vnd züuersicht/solichs solte vnd wur\nde zu frid/rüw/vnd Christenlicher eynigkeyt gedienen/ Sas aber bißhar nitt so vil frucht bracht/dann das für\nvnd für z wytricht/mishall/widerwertig meinung/vñ\nvnglych verstand vßgebrochen.",
         "b": "ſölichs ſolte vnd wurde zů frid/ růw/ vnd\nChriſtenlicher Einigkeit gedienen/ Das aber\nbißhar nit ſo vil frucht bracht/ dann das für\nvnd für zwytråcht /",
-        "similarity": 0.6349,
-        "semantic": 0.8219,
-        "reading": "same"
+        "similarity": 0.6349
       },
       {
         "op": "only_a",
         "a": "Barfliessend vß dem/ das die Predicanten allenthalben in vnsernstette/lan=\nden vnnd gebietenn/in verkündung des wort Gottes/ onglychförmiger vßlegung/vnnd lere/fich gebruchend. Sadurch",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8361,
-        "semantic_match": "in verkůndung deß Wort Gottes/ vnglychförmiger Vßlegung/ vnd Lere / ſich\ngebruchend. Dadurch ein Parthy diſem/ vnd\ndie andre dem andren/ ſich anhenckt: vnd ein\njeder",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -98,15 +83,10 @@
         "b": "in verkůndung deß Wort Gottes/ vnglychförmiger Vßlegung/ vnd Lere / ſich\ngebruchend. Dadurch ein Parthy diſem/ vnd\ndie andre dem andren/ ſich anhenckt: vnd ein\njeder",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7398,
-    "reworded": 1,
-    "candidates": 3,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4658,
+    "similarity": 0.5031,
     "words": {
       "a": 187,
       "b": 135
@@ -143,9 +123,19 @@
         "b": "vnd vnſerer verwalti gung"
       },
       {
+        "op": "insert",
+        "a": "",
+        "b": "vnd"
+      },
+      {
+        "op": "equal",
+        "a": "zügehörigen",
+        "b": "zůgehörigẽ"
+      },
+      {
         "op": "replace",
-        "a": "zügehörigen niemants vsbeschlossen",
-        "b": "vnd zůgehörigẽ niemandts vßbeſchloſ ſen"
+        "a": "niemants vsbeschlossen",
+        "b": "niemandts vßbeſchloſ ſen"
       },
       {
         "op": "equal",
@@ -159,18 +149,8 @@
       },
       {
         "op": "equal",
-        "a": "grüß",
-        "b": "grůß"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "alles guts",
-        "b": "alles gůts"
+        "a": "grüß vñ alles guts",
+        "b": "grůß vnd alles gůts"
       },
       {
         "op": "replace",
@@ -199,28 +179,8 @@
       },
       {
         "op": "equal",
-        "a": "vil",
-        "b": "vil"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "mancherley Mandaten",
-        "b": "mancherley Mandaten"
-      },
-      {
-        "op": "replace",
-        "a": "võ",
-        "b": "von"
-      },
-      {
-        "op": "equal",
-        "a": "wegen der zweyspaltung",
-        "b": "wegen der zweyſpaltung"
+        "a": "vil vñ mancherley Mandaten võ wegen der zweyspaltung",
+        "b": "vil vnd mancherley Mandaten von wegen der zweyſpaltung"
       },
       {
         "op": "replace",
@@ -299,23 +259,13 @@
       },
       {
         "op": "equal",
-        "a": "widerwertig meinung",
-        "b": "widerwertig meinung"
+        "a": "widerwertig meinung vñ vnglych verstand vßgebrochen",
+        "b": "widerwertig meinung vnd vnglych verſtånd vßgebrochẽ"
       },
       {
         "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "vnglych verstand",
-        "b": "vnglych verſtånd"
-      },
-      {
-        "op": "replace",
-        "a": "vßgebrochen Barfliessend",
-        "b": "vßgebrochẽ Harflieſſend"
+        "a": "Barfliessend",
+        "b": "Harflieſſend"
       },
       {
         "op": "equal",
@@ -378,7 +328,7 @@
         "b": "Dadurch ein Parthy diſem vnd die andre dem andren ſich anhenckt vnd ein jeder"
       }
     ],
-    "ops": 27,
+    "ops": 24,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       147
     ]
   },
-  "alignment_score": 0.3019,
+  "alignment_score": 0.3396,
   "coarse": {
     "paragraphs": {
       "a": 7,
@@ -27,34 +27,25 @@
     "matched": 2,
     "only_a": 4,
     "only_b": 8,
-    "similarity": 0.4116,
+    "similarity": 0.4334,
     "pairs": [
       {
         "op": "only_a",
         "a": "**Dicerſt**\n \n\nfür einen hirten vñd ſoll ſpiſen ſine ſchäffly/dann Matth. xviij. Cap. Da hatt Chriſtus ouch allein ſinen jüngern\nvoz ſinem lyden den gewalt geben/zebinden vñd entbin=\nden/was jr binden vff dem ertrich wirt bunden in dem\nhimel/aber Matth.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7506,
-        "semantic_match": "Berchtoldus hatt daruff den text geleſen. Senger. Ich mein diſer text mőge die vßlegũg nit er=\nlyden/ darumb das Chriſtus ſy all gefragt habe/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "xvj. Da hatt er Petro verheyſſen\nbinden in vil himlen. **Berchtoldus.**\n \n\nD Ielange vozred/laß ich fallen/vnnd zů dem\nſpruch Matth.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7674,
-        "semantic_match": "das Chriſtus die jůnger ge=\nfragt hat / als da: Wo wend wir brot kouffen/ das wir die vile ſpyſind? Joan.vj cap .",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "am xvj. Capitel angezogen/gib\nich die antwurt/Petrus hatt in namẽ aller Apo\nſtlen dem herrn geantwurtet/vñ alſo die verheyſſung d\nſchlüßlen in jrer aller namen empfangen Johannis am\nxxj.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.654,
-        "semantic_match": "Do ant=\nwurt Philippus/ vnd nit Petrus . Es hat ouch\nein gůte geſtalt / das / ſo Petrus der hitziger iſt\ngeweſen vnder jnen allē zwőlffbottē/ vß trüw\nh v",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -66,18 +57,13 @@
         "op": "match",
         "a": "Capitel. Hat jn Chriſtus ſins ampts ermant/die\nſchäffly zů weyden/das aber von binden vñd entbinden\nMatth. xviij. Capi.",
         "b": "die ſchåffly zůweyden/ das aber von binden vñ entbinden Matth. xviij\ncapitel geſchriben ſtadt / iſt diß tags gnůgſam\nerklårt/ das es der Kilchen geſagt ſye.etc.",
-        "similarity": 0.3913,
-        "semantic": 0.6161,
-        "reading": "reworded"
+        "similarity": 0.4348
       },
       {
         "op": "only_a",
         "a": "geſchriben ſtat/iſt dis tags gnůg=\nſam erklärt/das es der Kilchen geſetzt ſy/ꝛc. Berchtoldus hatt daruff den text geleſen.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6748,
-        "semantic_match": "Berchtoldus hatt daruff den text geleſen. Senger. Ich mein diſer text mőge die vßlegũg nit er=\nlyden/ darumb das Chriſtus ſy all gefragt habe/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -95,9 +81,7 @@
         "op": "match",
         "a": "**Sennger.**\n \n\nI Ch mein dißer text möge die vßlegung nit erly=\nden/darumb das Chriſtus ſy all gefragt heyge/ vnd Petrus allein für ſy all geantwurt/darum\ner jne allen die ſchlüſſel heyg geben/dañ weñ das die mey\nnung Chriſti were geſin/ſo hette er wol geſprochen/jch\ngib üch die ſchlüſſel alle/wie Petrus für alle geantwurt\nhatt/der text iſt aber offenbar das er nach aller frag het\ngeſprochen zů Petro/ich wird dir geben die ſchlüſſel/nun\niſt dir zegeben vñ allen zegebẽ vnglich/der text iſt heiter\nvnd",
         "b": "ſo hette er\nwol geſprochen: Jch gib ůch die ſchlüſſel allen/ wie Petrus für alle geantwurt hatt / der text iſt\naber offenbar das er nach aller frag hett geſpro=\nchen zů Petro:",
-        "similarity": 0.432,
-        "semantic": 0.5497,
-        "reading": "different"
+        "similarity": 0.432
       },
       {
         "op": "only_b",
@@ -129,15 +113,10 @@
         "b": "Do ant=\nwurt Philippus/ vnd nit Petrus . Es hat ouch\nein gůte geſtalt / das / ſo Petrus der hitziger iſt\ngeweſen vnder jnen allē zwőlffbottē/ vß trüw\nh v",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6688,
-    "reworded": 1,
-    "candidates": 4,
-    "recovered_by_embedding": 4,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4403,
+    "similarity": 0.457,
     "words": {
       "a": 231,
       "b": 246
@@ -150,13 +129,13 @@
       },
       {
         "op": "equal",
-        "a": "ſchlüßlen in jrer aller",
-        "b": "ſchlüßlen in jrer aller"
+        "a": "ſchlüßlen in jrer aller namen",
+        "b": "ſchlüßlen in jrer aller namē"
       },
       {
         "op": "replace",
-        "a": "namen empfangen",
-        "b": "namē em pfangen"
+        "a": "empfangen",
+        "b": "em pfangen"
       },
       {
         "op": "equal",
@@ -180,18 +159,8 @@
       },
       {
         "op": "equal",
-        "a": "das aber von binden",
-        "b": "das aber von binden"
-      },
-      {
-        "op": "replace",
-        "a": "vñd",
-        "b": "vñ"
-      },
-      {
-        "op": "equal",
-        "a": "entbinden Matth xviij",
-        "b": "entbinden Matth xviij"
+        "a": "das aber von binden vñd entbinden Matth xviij",
+        "b": "das aber von binden vñ entbinden Matth xviij"
       },
       {
         "op": "replace",
@@ -310,18 +279,18 @@
       },
       {
         "op": "equal",
-        "a": "geben dañ",
-        "b": "geben dan"
+        "a": "geben",
+        "b": "geben"
       },
       {
         "op": "replace",
-        "a": "weñ",
-        "b": "wenn"
+        "a": "dañ",
+        "b": "dan"
       },
       {
         "op": "equal",
-        "a": "das die",
-        "b": "das die"
+        "a": "weñ das die",
+        "b": "wenn das die"
       },
       {
         "op": "replace",
@@ -380,18 +349,8 @@
       },
       {
         "op": "equal",
-        "a": "wird dir geben die ſchlüſſel nun iſt dir zegeben",
-        "b": "wird dir geben die ſchlüſſel nun iſt dir zegeben"
-      },
-      {
-        "op": "replace",
-        "a": "vñ allen",
-        "b": "vnd allē"
-      },
-      {
-        "op": "equal",
-        "a": "zegebẽ",
-        "b": "zegebē"
+        "a": "wird dir geben die ſchlüſſel nun iſt dir zegeben vñ allen zegebẽ",
+        "b": "wird dir geben die ſchlüſſel nun iſt dir zegeben vnd allē zegebē"
       },
       {
         "op": "replace",
@@ -419,7 +378,7 @@
         "b": "klar Wenn man mir bringt nach miner gnådigē Herrē von Bern Mandat ein offnē ſpruch vß dem Euangelio od gſchrifft die das anzeigt das das die meynu g Chriſti ſye gſin allen zegeben die ſchlüſſel ſo wil ich abſtan deß puncten Dan wir findend deßglychē ouch mer im Euangelio das Chriſtus die jůnger ge fragt hat als da Wo wend wir brot kouffen das wir die vile ſpyſind Joan vj cap Do ant wurt Philippus vnd nit Petrus Es hat ouch ein gůte geſtalt das ſo Petrus der hitziger iſt geweſen vnder jnen allē zwőlffbottē vß trüw h v"
       }
     ],
-    "ops": 28,
+    "ops": 26,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       219
     ]
   },
-  "alignment_score": 0.4279,
+  "alignment_score": 0.4439,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -27,33 +27,25 @@
     "matched": 3,
     "only_a": 2,
     "only_b": 7,
-    "similarity": 0.6108,
+    "similarity": 0.6395,
     "pairs": [
       {
         "op": "only_a",
         "a": "Die ander\ngeyst vß dem sy geregiert wirt/der nit fälen kan/dz aber\ndaruß volge/das die satzungen der Christenlichen kilch=\nen/von Christen menschen nit sollen angenomen werden/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7282,
-        "semantic_match": "oder yeder in ſonderheyt nit mer mö\ngen ſin/ dañ die gantz gemeyn Chriſtenheyt. Butzer. Damit wir die Kilch nit vfhaltẽ /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "wo sy nit mit heyttern vñ glichen worten in der gschrifft\ngegründt syen/oder begriffen/dasselb wirt sich nit erfin=\nden/so doch Christus vnser heyland/jro den heyligen\ngeyst geben hatt/das er sy inleyte in alle warheyt/daruß\nwitter volget/das die satzung der heyligen Christenheit\nals wenig sollen menschen gebott/oder menschen thant\ngenant werde/als die wort der Propheten/oder S.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7936,
-        "semantic_match": "oder yeder in ſonderheyt nit mer mö\ngen ſin/ dañ die gantz gemeyn Chriſtenheyt. Butzer. Damit wir die Kilch nit vfhaltẽ /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Euan\ngelisten/oder der zwölffbotten/oder ob man schon mich\nrecht wil vernemmen/die wort/die Gott durch sy geredt\nhatt/so doch sy all/oder yeder in sonderheit nit mer möge\nsyn dann die gantz gemeyn Christenheyt.",
         "b": "Schlußred. XCVII\ntannt genant werden/als die wort der Prophe=\nten/oder der Euangeliſten/oder der zwölffbot=\nten / oder ob man ſchon mich recht wil vernem=\nmen/die wort/die Gott durch ſy geredt hatt/ſo\ndoch ſy all /",
-        "similarity": 0.5455,
-        "semantic": 0.7221,
-        "reading": "same"
+        "similarity": 0.5455
       },
       {
         "op": "only_b",
@@ -65,9 +57,7 @@
         "op": "match",
         "a": "Martinus Butzer. Damit wir die Kilch nit vffhalten/so sage vnns der\nBichtuatter/was jm doch die Christenlich Kilch\nheysse/wir haben vns langest erklärt/das vns die kilch\nalle rechtglöubigen sind.",
         "b": "ſo ſage vns\nder Bichtuatter / was jm doch die Chriſtenlich\nKilch heyſſe:wir haben vns langeſt erklärt/ das\nvns die kilch alle rechtglöubigen ſind.",
-        "similarity": 0.8214,
-        "semantic": 0.9341,
-        "reading": "same"
+        "similarity": 0.8214
       },
       {
         "op": "only_b",
@@ -79,9 +69,7 @@
         "op": "match",
         "a": "Bichtuatter. So herr Marti Butzer mich fragt/das ich sagē/ was ich durch die Kilchē verstande/meynt/mir\nsye gnůgsamklich vor erklärt/dz die widerpar=\nthy/die rechtgeschaffnen Christen oder glöubigen für die\nKilchen halt/daruff gib ich antwurt/das ich vnnd min\nparthy/alle die/die in der heyligen Christenlichen kilchen\ndurch den heyligen geyst/vnd durch das wasser/vñ durch\ndas wort des läbens in gott geboren sind. Nun so jr nach\ngeben/",
         "b": "das die wider=\nparty/die recht geſchaffnen Chriſten oder glöu=\nbigẽ für die kilchẽ halt.Daruff gib jch antwurt/ das ich vnd min parthy/alle die/die in der heyli=\ngen Chriſtenlichen Kilchen durch den heyligen\ngeyſt/vnd durch das waſſer /",
-        "similarity": 0.4655,
-        "semantic": 0.8309,
-        "reading": "reworded"
+        "similarity": 0.5517
       },
       {
         "op": "only_b",
@@ -113,15 +101,10 @@
         "b": "im\ng/ he\nrt\nat\nder\na-\nen\nvo\ner\nlb\ner\ns\nſ-\nt\nẽ\nt",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.8018,
-    "reworded": 1,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.497,
+    "similarity": 0.5129,
     "words": {
       "a": 240,
       "b": 263
@@ -189,13 +172,13 @@
       },
       {
         "op": "replace",
-        "a": "möge syn dann",
-        "b": "mö gen ſin dañ"
+        "a": "möge syn",
+        "b": "mö gen ſin"
       },
       {
         "op": "equal",
-        "a": "die gantz gemeyn Christenheyt",
-        "b": "die gantz gemeyn Chriſtenheyt"
+        "a": "dann die gantz gemeyn Christenheyt",
+        "b": "dañ die gantz gemeyn Chriſtenheyt"
       },
       {
         "op": "delete",
@@ -244,18 +227,8 @@
       },
       {
         "op": "equal",
-        "a": "was ich durch die",
-        "b": "was ich durch die"
-      },
-      {
-        "op": "replace",
-        "a": "Kilchē",
-        "b": "kilchen"
-      },
-      {
-        "op": "equal",
-        "a": "verstande meynt mir sye",
-        "b": "verſtande meynt mir ſye"
+        "a": "was ich durch die Kilchē verstande meynt mir sye",
+        "b": "was ich durch die kilchen verſtande meynt mir ſye"
       },
       {
         "op": "replace",
@@ -304,18 +277,8 @@
       },
       {
         "op": "equal",
-        "a": "für die",
-        "b": "für die"
-      },
-      {
-        "op": "replace",
-        "a": "Kilchen",
-        "b": "kilchẽ"
-      },
-      {
-        "op": "equal",
-        "a": "halt daruff gib ich antwurt das ich",
-        "b": "halt Daruff gib jch antwurt das ich"
+        "a": "für die Kilchen halt daruff gib ich antwurt das ich",
+        "b": "für die kilchẽ halt Daruff gib jch antwurt das ich"
       },
       {
         "op": "replace",
@@ -344,18 +307,8 @@
       },
       {
         "op": "equal",
-        "a": "wort des läbens in gott",
-        "b": "wort des läbens in Gott"
-      },
-      {
-        "op": "replace",
-        "a": "geboren",
-        "b": "geborẽ"
-      },
-      {
-        "op": "equal",
-        "a": "sind Nun so jr nach geben",
-        "b": "ſind Nun ſo jr nach geben"
+        "a": "wort des läbens in gott geboren sind Nun so jr nach geben",
+        "b": "wort des läbens in Gott geborẽ ſind Nun ſo jr nach geben"
       },
       {
         "op": "insert",
@@ -363,7 +316,7 @@
         "b": "dz alle die die gloubẽ vnd getöufft ſind machẽ die heyligen Chriſtenlichẽ kilchen vnd nit mer iſt wañ ein kilch als wir habẽ Cant vj Ei nig iſt min Tub einig iſt min vnbefleckte etc vñ Joannis x Es wirt ein ſchaaffſtal vnd ein hirt Daruß volget wyter ſo die ſelbig etwas ſtatu ten machet als geregiert vom heiligen geyſt nit jrrt vnnd nit fält vnnd jre ſtatuten anzenemmen n Marginalien aa cy cie Die ns jm yn g cy iſt by ge im g he rt at der a en vo er lb er s ſ t ẽ t"
       }
     ],
-    "ops": 24,
+    "ops": 21,
     "truncated": false
   }
 }

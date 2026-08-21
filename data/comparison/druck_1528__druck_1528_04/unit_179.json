@@ -8,7 +8,7 @@
       211
     ]
   },
-  "alignment_score": 0.4709,
+  "alignment_score": 0.5656,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -23,19 +23,17 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 12,
-    "matched": 6,
-    "only_a": 1,
-    "only_b": 5,
-    "similarity": 0.479,
+    "units": 11,
+    "matched": 7,
+    "only_a": 0,
+    "only_b": 4,
+    "similarity": 0.4755,
     "pairs": [
       {
         "op": "match",
         "a": "**Schlußred. LXXXII**\n\n**Ordnung miner herren**\n\nHAbend vnser gnädigen herren/Schultheß vnd\nRädt/diser loblichen statt Bern/zů vermidung\naller vnrůwē/vñ aller parthyen klag/abermal\ngeratē vñ geordnet/dz all jr pfarrer/seelsorger/vñ Pre\ndicantē/in statt vñ land/ouch die so sunderbar vff gegen\nwůrtige Disputatz beschriben sind.",
         "b": "Schlußred. XCIII\ndung aller vnruͤwen/ vnnd aller parthyen klag/ abermal geraten vñ geordnet. Dz all jr Pfarrer/ seelsorger/ vnd predicanten/",
-        "similarity": 0.3662,
-        "semantic": 0.7908,
-        "reading": "reworded"
+        "similarity": 0.3944
       },
       {
         "op": "only_b",
@@ -47,32 +45,19 @@
         "op": "match",
         "a": "Deßglichen all an=\nder/so vff diser Disputatz zů disputieren fürnämens wä\nrend/sich in das Chor verfügen/vnd sich allda/einer/oð\nder andern parthy/vnderschrybē lassen.",
         "b": "sich in das Chor verfuͤgen / vnd sich all da/ einer/ oder der andern parthy/ vnderschribẽ las-\nsen. Vnd sytmal vff der Predicantẽ parthy/",
-        "similarity": 0.3846,
-        "semantic": 0.7224,
-        "reading": "reworded"
+        "similarity": 0.3846
       },
       {
         "op": "match",
         "a": "Vnd sitmal vff\nder Predicanten parthy/vil gelerter menner sind/möge\nder gegenteil sich beraten/vñ zwen/dry/vier/oder mer/",
         "b": "vil\ngelerter menner sind / moͤge der gegen teyl sich\nberaten/ vnd zwen/ dry/ vier/ oder mer/ erwellẽ/ die in aller namen wider die Schlußreden dispu\ntieren.",
-        "similarity": 0.5,
-        "semantic": 0.8383,
-        "reading": "same"
+        "similarity": 0.5417
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "erkiesen/die in jr aller namen wider die Schlußreden di=\nsputieren. Hienäben/so mag ouch ein yed vff beiden par\nthyen die sinen stüren/denen schrifftlich oð muntlich bera\nten vñ beholffen sin/vñ barfür bringē/wz zů erkůndigūg\ngöttlicher warheit/dienstlich ist:",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6648,
-        "semantic_match": "Hienaͤben/ so mag ouch ein yeder vff bey\nden parthyen die sinen stuͤren / denen gschrifft-\nlich odér mundtlich beraten vnd beholffen sin/",
-        "reading": "candidate"
-      },
-      {
-        "op": "only_b",
-        "a": null,
         "b": "Hienaͤben/ so mag ouch ein yeder vff bey\nden parthyen die sinen stuͤren / denen gschrifft-\nlich odér mundtlich beraten vnd beholffen sin/",
-        "similarity": 0.0
+        "similarity": 0.3235
       },
       {
         "op": "only_b",
@@ -84,31 +69,25 @@
         "op": "match",
         "a": "alles nach vermög vß=\ngeschribnen Mandats der Disputation. Es söllen ouch\nall priester/Predicanten/pfarrer/vñ seelsorger/vō statt\nvnd land/biß zů end diser Disputatz/hie verharrē vnd\nnit verrucken.",
         "b": "Es\nsoͤllen ouch all priester/ Predicanten/ pfarrer/ vñ\nseelsorger/ von statt vnnd land/ biß zuͤ end diser\nDisputatz/ hie verharren vnd nit verrucken.",
-        "similarity": 0.6909,
-        "semantic": 0.9142,
-        "reading": "same"
+        "similarity": 0.7273
       },
       {
         "op": "match",
         "a": "**Demnach hat Niclaus Manuel/Vogt**\n**zů Erlach/nachuolgendered gethan.**\n\nEwůrdigen gelerten/Es sol niemant erachten/ das vnsere gnädigen herren/allein begirig syen/",
         "b": "Demnach hat Niclaus Manuel\n  Vogt zuͤ Erlach/ nachuolgẽde red gethan. Erwuͤrdigen gelertẽ. Es sol niemand erachten/ das vnsere gnaͤdigen herrn/",
-        "similarity": 0.5778,
-        "semantic": 0.6131,
-        "reading": "same"
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "allein begirig syen/ das die fuͤrgetragnen Artickel durch jre Predi-\ncanten/ sampt der leer / so daruß fluͤßt/ erhalten\nwerden:",
-        "similarity": 0.0
+        "similarity": 0.5778
       },
       {
         "op": "match",
         "a": "das die fürgetragnē artickel durch jre Predican\nten/sampt der leer so darus flüßt/erhalten werdē/sun=\nder allein ist jr fürnämen/die warheit von Göttlichem\nwort zů erforschen/ob die artickel in göttlicher geschrifft\nE ij",
+        "b": "allein begirig syen/ das die fuͤrgetragnen Artickel durch jre Predi-\ncanten/ sampt der leer / so daruß fluͤßt/ erhalten\nwerden:",
+        "similarity": 0.3793
+      },
+      {
+        "op": "only_b",
+        "a": null,
         "b": "sonder allein ist jr fuͤrnaͤmen/ die war-\nheyt von goͤttlichẽ wort zuͤ erforschẽ/ ob die Ar-\ntickel in Goͤttlicher geschrifft bestanden /",
-        "similarity": 0.3548,
-        "semantic": 0.7173,
-        "reading": "reworded"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -116,15 +95,10 @@
         "b": "oder jr\n                                       m   v\n\n## Marginalien\n[abgeschnittene Marginalie am linken Rand]",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7516,
-    "reworded": 3,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5797,
+    "similarity": 0.6087,
     "words": {
       "a": 232,
       "b": 251
@@ -152,23 +126,23 @@
       },
       {
         "op": "equal",
-        "a": "aller parthyen klag abermal",
-        "b": "aller parthyen klag abermal"
+        "a": "aller parthyen klag abermal geratē",
+        "b": "aller parthyen klag abermal geraten"
       },
       {
         "op": "replace",
-        "a": "geratē",
-        "b": "geraten"
+        "a": "vñ",
+        "b": "vn"
       },
       {
         "op": "equal",
-        "a": "vñ geordnet dz all jr pfarrer seelsorger",
-        "b": "vn geordnet Dz all jr Pfarrer seelsorger"
+        "a": "geordnet dz all jr pfarrer seelsorger vñ",
+        "b": "geordnet Dz all jr Pfarrer seelsorger vnd"
       },
       {
         "op": "replace",
-        "a": "vñ Pre dicantē",
-        "b": "vnd predicanten"
+        "a": "Pre dicantē",
+        "b": "predicanten"
       },
       {
         "op": "equal",
@@ -292,18 +266,8 @@
       },
       {
         "op": "equal",
-        "a": "sich beraten",
-        "b": "sich beraten"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "zwen dry vier oder mer",
-        "b": "zwen dry vier oder mer"
+        "a": "sich beraten vñ zwen dry vier oder mer",
+        "b": "sich beraten vnd zwen dry vier oder mer"
       },
       {
         "op": "replace",
@@ -367,18 +331,28 @@
       },
       {
         "op": "replace",
-        "a": "schrifftlich oð muntlich bera ten vñ",
-        "b": "gschrifft lich ode r mundtlich beraten vnd"
+        "a": "schrifftlich oð muntlich bera ten",
+        "b": "gschrifft lich ode r mundtlich beraten"
       },
       {
         "op": "equal",
-        "a": "beholffen sin",
-        "b": "beholffen sin"
+        "a": "vñ beholffen sin vñ",
+        "b": "vnd beholffen sin vnd"
       },
       {
         "op": "replace",
-        "a": "vñ barfür bringē wz",
-        "b": "vnd harfu r bringen was"
+        "a": "barfür",
+        "b": "harfu r"
+      },
+      {
+        "op": "equal",
+        "a": "bringē",
+        "b": "bringen"
+      },
+      {
+        "op": "replace",
+        "a": "wz",
+        "b": "was"
       },
       {
         "op": "equal",
@@ -412,18 +386,18 @@
       },
       {
         "op": "equal",
-        "a": "ouch all priester Predicanten pfarrer vñ seelsorger",
-        "b": "ouch all priester Predicanten pfarrer vn seelsorger"
+        "a": "ouch all priester Predicanten pfarrer",
+        "b": "ouch all priester Predicanten pfarrer"
       },
       {
         "op": "replace",
-        "a": "vō",
-        "b": "von"
+        "a": "vñ",
+        "b": "vn"
       },
       {
         "op": "equal",
-        "a": "statt",
-        "b": "statt"
+        "a": "seelsorger vō statt",
+        "b": "seelsorger von statt"
       },
       {
         "op": "replace",
@@ -432,18 +406,8 @@
       },
       {
         "op": "equal",
-        "a": "land biß zů end diser Disputatz hie",
-        "b": "land biß zu end diser Disputatz hie"
-      },
-      {
-        "op": "replace",
-        "a": "verharrē",
-        "b": "verharren"
-      },
-      {
-        "op": "equal",
-        "a": "vnd nit verrucken Demnach hat Niclaus Manuel Vogt zů Erlach",
-        "b": "vnd nit verrucken Demnach hat Niclaus Manuel Vogt zu Erlach"
+        "a": "land biß zů end diser Disputatz hie verharrē vnd nit verrucken Demnach hat Niclaus Manuel Vogt zů Erlach",
+        "b": "land biß zu end diser Disputatz hie verharren vnd nit verrucken Demnach hat Niclaus Manuel Vogt zu Erlach"
       },
       {
         "op": "replace",
@@ -512,13 +476,13 @@
       },
       {
         "op": "equal",
-        "a": "erhalten",
-        "b": "erhalten"
+        "a": "erhalten werdē",
+        "b": "erhalten werden"
       },
       {
         "op": "replace",
-        "a": "werdē sun der",
-        "b": "werden sonder"
+        "a": "sun der",
+        "b": "sonder"
       },
       {
         "op": "equal",
@@ -591,7 +555,7 @@
         "b": "bestanden oder jr m v Marginalien abgeschnittene Marginalie am linken Rand"
       }
     ],
-    "ops": 46,
+    "ops": 45,
     "truncated": false
   }
 }

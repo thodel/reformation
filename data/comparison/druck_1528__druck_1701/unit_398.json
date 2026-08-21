@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 2,
     "only_b": 4,
-    "similarity": 0.3648,
+    "similarity": 0.3748,
     "pairs": [
       {
         "op": "only_b",
@@ -51,17 +51,13 @@
         "op": "match",
         "a": "Die Sechßte Schlußred. Wie Christus ist allein für vns ge=\nstorben / also sol er ein einiger mittler vnd\nfürsprech / zwüschenn Gott dem Vatter\nvnnd vns glöubigen /",
         "b": "und wider die\nSchlußred. Berchtoldus Haller. Iſt alles vorhin beantwortet. Ende der Fünfften Schlußred. Die Sechſte Schlußred. Wie Chriſtus iſt allein für uns geſtorben /",
-        "similarity": 0.32,
-        "semantic": 0.8091,
-        "reading": "reworded"
+        "similarity": 0.32
       },
       {
         "op": "match",
         "a": "angerüfft werden. Deßhalb all ander mittler vnd fürsprech\nen vßzerhalb disem ytz anzerüffen/võ vns\non grund der geschrifft/ vffgeworffen.",
         "b": "alſo ſoll er\nein einiger Mittler und Fürſprech zwiſchen Gott\ndem Vatter und uns Glåubigen angerüfft werden. Deßhalb alle andere Mittler und Fürſprecher vſ-\nſerhalb diſem zyt anzerüffen von uns /",
-        "similarity": 0.32,
-        "semantic": 0.318,
-        "reading": "different"
+        "similarity": 0.36
       },
       {
         "op": "only_b",
@@ -73,17 +69,13 @@
         "op": "match",
         "a": "Erklärung der sächßten schlußred\nMeyster Frantz Kolb. Iñ der ersten Epistel\nPetri am ij. Cap. Christus ist\nder/d̃ kein sünd nie gethon hat\nvnnd ist in sinem mund d̃ kein\nbetrug nie erfunden/darumb\nsagt er Johannis am xiiij.",
         "b": "Chri-\nſtus iſt der / der kein Sünd nie gethan hat/ und iſt in ſynem Mund kein Betrug nie er-\nfunden /",
-        "similarity": 0.4333,
-        "semantic": 0.6201,
-        "reading": "reworded"
+        "similarity": 0.4333
       },
       {
         "op": "match",
         "a": "ims\nNachtmal. Der fürst diser\nwelt wåre komen / er hette a=\nber nüt an jm kein vrsach des\ntodes / des sich keyn heylig nie\nhat mögen berümen:",
         "b": "darum ſagt er Johannis am 14. im Nachtmahl: Der Fürſt diſer Welt wåre kommen / er\nhåtte aber nüt an ihm kein urſach deß Tods / deß ſich kein\nDdd ij heilig",
-        "similarity": 0.386,
-        "semantic": 0.7609,
-        "reading": "reworded"
+        "similarity": 0.386
       },
       {
         "op": "only_a",
@@ -95,17 +87,9 @@
         "op": "only_a",
         "a": "Vergib vns vnser schuld / als\nwir vergeben vnsern schuldnern. Darumb Christus al=\nleyn/ vnnd niemand anders für vnns gestorben ist / deß=\nCcc",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6479,
-        "semantic_match": "Die Sechſſte Schlußred. 397\n\nſeye der Schrifft widrig/bedunckt aber es mich/es ſeye der\nGeſchrifft einhällig / vß den ſubſtantzlichen Worten\nChriſti unſers Herren.",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.6312,
-    "reworded": 3,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
     "similarity": 0.408,
@@ -206,18 +190,8 @@
       },
       {
         "op": "equal",
-        "a": "anzerüffen",
-        "b": "anzerüffen"
-      },
-      {
-        "op": "replace",
-        "a": "võ",
-        "b": "von"
-      },
-      {
-        "op": "equal",
-        "a": "vns",
-        "b": "uns"
+        "a": "anzerüffen võ vns",
+        "b": "anzerüffen von uns"
       },
       {
         "op": "replace",
@@ -246,8 +220,18 @@
       },
       {
         "op": "equal",
-        "a": "Frantz Kolb Iñ der ersten Epistel Petri am",
-        "b": "Frantz Kolb IN der erſten Epiſtel Petri am"
+        "a": "Frantz Kolb",
+        "b": "Frantz Kolb"
+      },
+      {
+        "op": "replace",
+        "a": "Iñ",
+        "b": "IN"
+      },
+      {
+        "op": "equal",
+        "a": "der ersten Epistel Petri am",
+        "b": "der erſten Epiſtel Petri am"
       },
       {
         "op": "replace",

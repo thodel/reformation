@@ -8,7 +8,7 @@
       280
     ]
   },
-  "alignment_score": 0.2308,
+  "alignment_score": 0.2364,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 4,
     "only_b": 3,
-    "similarity": 0.5854,
+    "similarity": 0.5969,
     "pairs": [
       {
         "op": "only_b",
@@ -51,57 +51,43 @@
         "op": "match",
         "a": "**Schlußred.**\n\n**Pfarrer von Sant Gallen.**\n\nVff eruorderung Meyſter Vlrichs/ laß ich nach\ndas allen worten gottes gegloubt werden ſölle\nvnd das mit rechter vßlegung vñ vergſichūg\nder gſchrifft/",
         "b": "Pfarrer von Sant Gallen. UF Erforderung Meiſter Ulrichs / laß ich nach / daß\nallen Worten Gottes geglaube werden ſölle / und\ndas mit rechter Ußlegung und Verglychung der Ge-\nſchrifft /",
-        "similarity": 0.6429,
-        "semantic": 0.6337,
-        "reading": "same"
+        "similarity": 0.6786
       },
       {
         "op": "match",
         "a": "daſi menig wórt in der geſchrifft\nder geſtalt luter/ wo es mit eim andern wort nit erklårt\nwirt/ trüg es mit im/",
         "b": "dann manch Wort in der Geſchrifft der geſtalt\nlutet / wo es mit einem andern Wort nit erklärt wird / trüg es mit ihm ein ungeſchickten Sinn :",
-        "similarity": 0.6809,
-        "semantic": 0.8143,
-        "reading": "same"
+        "similarity": 0.6809
       },
       {
         "op": "match",
         "a": "ein vngeſchickten ſinne. Das aber\nich ſölle ſchrifft bringen/ in welchem vns beuolhen werd\nvnd von vns gegloubt/ dz der lyb Chriſti/",
         "b": "daß ich aber\nſölle Geſchrifft bringen / in welcher uns befohlen werd / und von uns geglaube / daß der Lyb Chriſti weſenclich\nund lyblich geeſſen werde /",
-        "similarity": 0.5217,
-        "semantic": 0.8419,
-        "reading": "same"
+        "similarity": 0.5217
       },
       {
         "op": "match",
         "a": "wåſenlich vñ\nlyplich geeſſen werde/ vnnd ſöllichs gegloubt/ bring ich\ndhein andre/ dann die vilmals angezognen. Er hatt das\nbrot in die hånd genomen/zc.",
         "b": "und ſölichs geglaube / bring\nich kein andere / dann die vilmahls angezogene : Er hat\ndas Brodt in die Händ genommen / ꝛc.",
-        "similarity": 0.4,
-        "semantic": 0.622,
-        "reading": "reworded"
+        "similarity": 0.4444
       },
       {
         "op": "match",
         "a": "**Zwingli**\n\nSormal vnſer brüder dhein håll wort harfür\nbringt/ das vnns wyſe zů glouben/ das fleyſch\nvnd blůt Chriſti lyplich im Sacrament müſ=\nſend geeſſen werden/",
         "b": "Zwingly. SItemal unſer Brüder kein häll Wort harfür bringt / das uns wyſe zů glauben / daß Fleiſch und Blüt\nChriſti lyblich im Sacrament müſſend geeſſen werden /",
-        "similarity": 0.6275,
-        "semantic": 0.4603,
-        "reading": "check"
+        "similarity": 0.6275
       },
       {
         "op": "match",
         "a": "als wir aber ſunſt wol vß=\ngetruckt wort haben/ das wir ſy geiſtlich/ das iſt im glou\nben eſſen müſſent.",
         "b": "als wir aber ſonſt wol vßgetruckt Wort haben / daß wir ſy\ngeiſtlich / das iſt im Glauben eſſen müſſend / Johannis\nam 6.",
-        "similarity": 0.6341,
-        "semantic": 0.8855,
-        "reading": "same"
+        "similarity": 0.6341
       },
       {
         "op": "match",
         "a": "Johan. am vj. cap. So hoff ich wir ſy=\nend der red entladen/ da wir mit dem glouben/ eim yeden\nwort gottes beſchwerdt werdend/",
         "b": "Capitel / ſo hoff ich / wir ſeyend der Red entladen / da wir mit dem Glauben einem jeden Wort Gottes be-\nſchwerdt",
-        "similarity": 0.5909,
-        "semantic": 0.669,
-        "reading": "same"
+        "similarity": 0.5909
       },
       {
         "op": "only_a",
@@ -125,20 +111,12 @@
         "op": "only_a",
         "a": "ſam wir den geyſt Gottes inn ſichtbare ding in=\nKE",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6556,
-        "semantic_match": "daß er Wort Chriſti\nanzeige / die uns heiſſen oder anmüten / daß wir glau-\nben ſöllen oder müſſen / daß hie ſyn Fleiſch und Blüt\nlyblich und weſenclich geeſſen werd.",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.6978,
-    "reworded": 1,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4283,
+    "similarity": 0.4366,
     "words": {
       "a": 244,
       "b": 237
@@ -191,13 +169,13 @@
       },
       {
         "op": "equal",
-        "a": "werden ſölle vnd das mit rechter vßlegung",
-        "b": "werden ſölle und das mit rechter Ußlegung"
+        "a": "werden ſölle vnd das mit rechter vßlegung vñ",
+        "b": "werden ſölle und das mit rechter Ußlegung und"
       },
       {
         "op": "replace",
-        "a": "vñ vergſichūg",
-        "b": "und Verglychung"
+        "a": "vergſichūg",
+        "b": "Verglychung"
       },
       {
         "op": "equal",
@@ -316,8 +294,18 @@
       },
       {
         "op": "replace",
-        "a": "wåſenlich vñ lyplich",
-        "b": "weſenclich und lyblich"
+        "a": "wåſenlich",
+        "b": "weſenclich"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "und"
+      },
+      {
+        "op": "replace",
+        "a": "lyplich",
+        "b": "lyblich"
       },
       {
         "op": "equal",
@@ -520,7 +508,7 @@
         "b": "be ſchwerdt"
       }
     ],
-    "ops": 38,
+    "ops": 39,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       384
     ]
   },
-  "alignment_score": 0.2713,
+  "alignment_score": 0.2874,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 3,
     "only_b": 1,
-    "similarity": 0.5974,
+    "similarity": 0.6017,
     "pairs": [
       {
         "op": "only_b",
@@ -39,49 +39,37 @@
         "op": "match",
         "a": "Schlußred. CLIX\n\nzweyen andren articklen fürgebracht werdenn/Darumb\nwir vns kurtzlich der yngezognen antwurt entſchlieſſen/ vnd dem läſer beuelchen: dann allein diewyl wir gloubē\nin Chriſtum Jeſum/lut des artickels des Gloubēs.",
         "b": "DAs so vff lange jngefürte antwurt über vnsern ver-\nstand /über den ersten Artickel deß Gloubens von\nvns jngefürt / in der Fäderen verfasset ist/wirdt\nüberflüssiger in der erklärung der zweyen andern Articklen\nfürgebracht werden/darumb wir vns kurtzlich der ynge-\nzognen antwurt entschliessen/vnd dem Läser befelchen:",
-        "similarity": 0.325,
-        "semantic": 0.661,
-        "reading": "reworded"
+        "similarity": 0.325
       },
       {
         "op": "match",
         "a": "Als\ner iſt übernatürlich empfangē/übernatürlich von der\nmůter gebozen/alſo ſölichs alles ſo zů verantwurten/ beuelchend wir der allmechtigkeyt Gottes/darwider ſy\nſich nit zeredenn noch zehandlen/ouch mermals bezügt\nhand.",
         "b": "dañ\nallein diewyl wir gloubent in Christum Jesum/lut deß\nArtickels deß Gloubens. Als er ist über naturlich em-\npfangen/über natürlich von der Můter geboren/also sö-\nlichs alles so zů verantworten/befelchend wir der Allmech\ntigkeit Gottes/darwider sy sich nit zereden noch zehand-\nlen/ouch mehrmals bezügt hand.",
-        "similarity": 0.506,
-        "semantic": 0.7939,
-        "reading": "same"
+        "similarity": 0.506
       },
       {
         "op": "match",
         "a": "Vff den andren artickel des Gloubens/der da lu\ntet: Er ſitzt zů der gerechten ſins himmelſchen vatters/ könnend wir ſölichs nit anders verſtan/dañ er nach der\nGottheyt/glyches wäſens/gewalts vnd herligkeit/all=\nweg gſin vnd bliben:",
         "b": "Vff den andren Artickel\ndeß Gloubens/der da lutet. Er sitzt zů der gerechten syns\nHimmelschen Batters/könnend wir sölichs nit anders\nverstan/dann er nach der Gottheit/glyches wäsens/Ge-\nwalts vnd Herrligkeit/allweg gsin vnd blyben:",
-        "similarity": 0.7013,
-        "semantic": 0.8913,
-        "reading": "same"
+        "similarity": 0.7273
       },
       {
         "op": "match",
         "a": "ſol es verſtanden werden/zů der ge\nrechten ſitzen nach der menſcheyt: dann jm voz nach der\nGottheyt alles vnderworffenn/Pſalmo viij.",
         "b": "soll es ver-\nstanden werden/zů der gerechten sitzen nach der Mensch-\nheit: dann jm vor nach der Gottheit alles vnderworffen/",
-        "similarity": 0.5581,
-        "semantic": 0.7756,
-        "reading": "same"
+        "similarity": 0.5581
       },
       {
         "op": "match",
         "a": "Sann es\nſtadt geſchriben/Johannis am xvij. Jch hab dich ver=\nklärt vatter vff der erden: Jch hab das werck volbracht\ndas du mir haſt geben/das ich ſolt thůn:",
         "b": "Psalmo 8. Dann es stadt geschriben/Johannis am 17. Ich hab dich verklärt Vatter vff der Erden: Ich hab das\nWerck vollbracht/das du mir hast geben/das ich solt thůn:",
-        "similarity": 0.7213,
-        "semantic": 0.8488,
-        "reading": "same"
+        "similarity": 0.7213
       },
       {
         "op": "match",
         "a": "Jetz verklär du\nmich by dir ſelber/mit d̄ klarheit/welche ich gehapt hab\nby dir ee vnd die welt wurde.",
         "b": "Jetz erklär du mich by dir selber/mit der Klarheit/welche\nich gehabt hab by dir ehe vnd die welt wurde. Dergestalt\nouch",
-        "similarity": 0.7727,
-        "semantic": 0.7113,
-        "reading": "same"
+        "similarity": 0.7727
       },
       {
         "op": "only_a",
@@ -99,20 +87,12 @@
         "op": "only_a",
         "a": "welche herligkeyt Gottes erfüllet\nhimel vnd erden/ſo iſt die gerechte Gottes kein ſonders\nort. Vß diſem allem/wo der lyb Chriſti alſo an eynem\nſonderen ort ſin müßte/möcht er Theophorus genant wer=\nR iij",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6528,
-        "semantic_match": "350 Die vierdt\n(allein die Sünd vßgenommen) wellen glych werden/vff\ndas wir durch jn Kinder Gottes wurdend. Pfarrer von Sant Gallen.",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7621,
-    "reworded": 1,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4767,
+    "similarity": 0.4884,
     "words": {
       "a": 282,
       "b": 234
@@ -160,13 +140,13 @@
       },
       {
         "op": "replace",
-        "a": "beuelchen dann",
-        "b": "befelchen dañ"
+        "a": "beuelchen",
+        "b": "befelchen"
       },
       {
         "op": "equal",
-        "a": "allein diewyl wir",
-        "b": "allein diewyl wir"
+        "a": "dann allein diewyl wir",
+        "b": "dañ allein diewyl wir"
       },
       {
         "op": "replace",
@@ -190,13 +170,13 @@
       },
       {
         "op": "replace",
-        "a": "des Gloubēs",
-        "b": "deß Gloubens"
+        "a": "des",
+        "b": "deß"
       },
       {
         "op": "equal",
-        "a": "Als er iſt",
-        "b": "Als er ist"
+        "a": "Gloubēs Als er iſt",
+        "b": "Gloubens Als er ist"
       },
       {
         "op": "replace",
@@ -315,18 +295,8 @@
       },
       {
         "op": "equal",
-        "a": "könnend wir ſölichs nit anders verſtan",
-        "b": "könnend wir sölichs nit anders verstan"
-      },
-      {
-        "op": "replace",
-        "a": "dañ",
-        "b": "dann"
-      },
-      {
-        "op": "equal",
-        "a": "er nach der",
-        "b": "er nach der"
+        "a": "könnend wir ſölichs nit anders verſtan dañ er nach der",
+        "b": "könnend wir sölichs nit anders verstan dann er nach der"
       },
       {
         "op": "replace",
@@ -524,7 +494,7 @@
         "b": ""
       }
     ],
-    "ops": 41,
+    "ops": 40,
     "truncated": false
   }
 }

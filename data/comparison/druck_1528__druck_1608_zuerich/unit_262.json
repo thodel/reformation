@@ -8,7 +8,7 @@
       304
     ]
   },
-  "alignment_score": 0.4935,
+  "alignment_score": 0.5,
   "coarse": {
     "paragraphs": {
       "a": 9,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 1,
     "only_b": 1,
-    "similarity": 0.58,
+    "similarity": 0.5866,
     "pairs": [
       {
         "op": "only_b",
@@ -39,68 +39,48 @@
         "op": "match",
         "a": "**Die vierde**\n\n**Ecolampadius.**\n\nVnſer vßlegung welle wir darnach gnůgſamlich\nbybringenn / herr Benedict zeyg in diřen ange=\nzognen worten Pauli / ſin synecdoche an /",
         "b": "Ecolampadius. Vnſer vßlegung wellen wir hernach gnügſamlich\nbybringen/ Herr Benedict zeig in diſen angezognen\nworten Pauli/ ſin Synecdoche an/ das ſind wir\nvon jm erwarten.",
-        "similarity": 0.5532,
-        "semantic": 0.6731,
-        "reading": "same"
+        "similarity": 0.5532
       },
       {
         "op": "match",
         "a": "das ſind\nw ir vonjm erwarten. **Pfarrer von ſant Gallen.**\n\nVff die frag ich zeyge ein synecdoche an / verlaß ich\nmich gang vñ gar vff die fürgebrachten erklär=\nung /",
         "b": "Pfarrer von Sant Gallen. Vff die frag ich zeige ein Synecdoche an/ verlaß ich\nmich gantz vnd gar vff die fürgebrachten erklärung/",
-        "similarity": 0.7059,
-        "semantic": 0.814,
-        "reading": "same"
+        "similarity": 0.7451
       },
       {
         "op": "match",
         "a": "vnd mine verſtend wil ich vß dem Paulo\nerklärt habenn / ſyner vßlegung aber halb / můſſen wir\nnochmalß erwarten. **Ecolampadius.**\n\nES ſolt das/das dunckel durch ein klärers gelert\nwerden /",
         "b": "vnnd mine verſtend wil ich vß dem Paulo erklärt\nhaben / ſiner vßlegung aber halb/ müſſen wir nochmals\nerwarten. Ecolampadius. ESſolt das /",
-        "similarity": 0.64,
-        "semantic": 0.8837,
-        "reading": "same"
+        "similarity": 0.64
       },
       {
         "op": "match",
         "a": "das beſchicht hie nit / vnd wir erwarten\nwie er doch das vß den worten pauli erklären\nwöll. **Pfarrer von ſant Gallen**\n\nDAruff ich antwurt /",
         "b": "das dunckel / durch ein klärers gelert\nwerden / das beſchicht hie nit/ vnd wir erwarten wie\ner doch das vß den worten Pauli erklären wöll.",
-        "similarity": 0.7083,
-        "semantic": 0.6476,
-        "reading": "same"
+        "similarity": 0.7083
       },
       {
         "op": "match",
         "a": "damit vnd aller zanck ab=\ngeleynet / über die wort des Nachtmals. Das\niſt min lyb / hab ich hüt gnůgſamlich gantwurt\ndarumb ich mich vff die Acta verlaſſen /",
         "b": "Pfarrer von Sant Gallen. DAruff ich antwurt/ damit vnd aller zanck abgelei-\nnet/ über die wort deß Nachtmals / Das iſt min\nLyb/",
-        "similarity": 0.4898,
-        "semantic": 0.7029,
-        "reading": "reworded"
+        "similarity": 0.4898
       },
       {
         "op": "match",
         "a": "was der ver=\nſtand der worten ſin ſölle. Es wåre ein verlengerliche wi\nderråffung: beger alſo von minem herrn Doctor /",
         "b": "hab ich hüt gnügſamlich geantwurt/darumb\nich mich vff die Acta verlaſſen/was der verſtand der wor-\nten ſin ſölle. Es wäre ein verlengerliche wideräffrung: be-\nger",
-        "similarity": 0.383,
-        "semantic": 0.658,
-        "reading": "reworded"
+        "similarity": 0.383
       },
       {
         "op": "only_a",
         "a": "zů für\ndrung der ſach wyter gſchrifft. Warumb die wort / das iſt\nmin lyb / vnd das iſt min blůt / nit alſo ſöllen verſtanden\nwerden / wie ſy klar vnd ſtarck lutend. Zwingli",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.672,
-        "semantic_match": "270\t\tDie vierdt\nmin Lyb/ oder: Das iſt mins Lybs zeychen. Vff das die\ngewüßne/bim wort Gottes/wol verſichert werde.",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7216,
-    "reworded": 2,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.6628,
+    "similarity": 0.6686,
     "words": {
       "a": 182,
       "b": 162
@@ -198,13 +178,13 @@
       },
       {
         "op": "replace",
-        "a": "gang vñ",
-        "b": "gantz vnd"
+        "a": "gang",
+        "b": "gantz"
       },
       {
         "op": "equal",
-        "a": "gar vff die fürgebrachten",
-        "b": "gar vff die fürgebrachten"
+        "a": "vñ gar vff die fürgebrachten",
+        "b": "vnd gar vff die fürgebrachten"
       },
       {
         "op": "replace",

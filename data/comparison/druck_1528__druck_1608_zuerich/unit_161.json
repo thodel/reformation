@@ -8,7 +8,7 @@
       192
     ]
   },
-  "alignment_score": 0.5,
+  "alignment_score": 0.5223,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 12,
-    "matched": 3,
-    "only_a": 1,
-    "only_b": 8,
-    "similarity": 0.4146,
+    "units": 11,
+    "matched": 4,
+    "only_a": 0,
+    "only_b": 7,
+    "similarity": 0.3866,
     "pairs": [
       {
         "op": "only_b",
@@ -39,26 +39,13 @@
         "op": "match",
         "a": "Schlußred. LXXIII\n\nſonder/oder an das wort gottes/ſind vns von Chriſto\nverbotten/Matthei am xv. vnd ouch von Gott.",
         "b": "sind vns von Christo ver-\nbotten/Matth.am 15.vnd ouch von Gott.Esaie am 29.sagt\nder Herz also :",
-        "similarity": 0.45,
-        "semantic": 0.8021,
-        "reading": "reworded"
+        "similarity": 0.45
       },
       {
         "op": "match",
         "a": "Eſaie\nam xxix. ſagt der herr alſo. Darumb das ſich das volck\nzů mir nahet/mich mit ſinem mund vnd låffzen zůlobet/",
         "b": "Darumb das sich das Volck zů mir nahet/ mich mit seinem Mund vnd Låfftzen zů loben / vnd doch sin\nHertz wyt von mir kert/mich nun mit Menschen gebot vnd\nleere förchtet/sich/",
-        "similarity": 0.4,
-        "semantic": 0.7429,
-        "reading": "reworded"
-      },
-      {
-        "op": "only_a",
-        "a": "vnd doch ſin hertz wyt von mir ſert/mich nun mit men=\nſchen gebot vnd leere förchtet/ſich/darum̄ wird ich mer\nwunder mit dißem volck begon/wunderbarlich vñ ſeltzå\ndas die wißheit ſiner klůgen zů grund faren/vñ der ver\nſtand ſiner verſtåndigē zů boden gon wirt/Diß ſind die\nwort des herrn/die ſich in gegenwůrtiger zyt vor ougen\nerzeygen/wie ſich die/ſo menſchen ſatzungen gern entbiel\nten/ſo vnuerſtanden am wort Gottes abrennen/diewil\nnun Got der herr nit will/das wir jm yendert mit dienen\nnach vnſerem gůt bedunckē.",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7067,
-        "semantic_match": "vnd der verstand siner Ver-\nståndigen zů boden gon wirt / Diß sind die Wort deß Her-\nren / die sich in gegenwürtiger zyt vor ougen erzeigen /",
-        "reading": "candidate"
+        "similarity": 0.4
       },
       {
         "op": "only_b",
@@ -67,10 +54,10 @@
         "similarity": 0.0
       },
       {
-        "op": "only_b",
-        "a": null,
+        "op": "match",
+        "a": "vnd doch ſin hertz wyt von mir ſert/mich nun mit men=\nſchen gebot vnd leere förchtet/ſich/darum̄ wird ich mer\nwunder mit dißem volck begon/wunderbarlich vñ ſeltzå\ndas die wißheit ſiner klůgen zů grund faren/vñ der ver\nſtand ſiner verſtåndigē zů boden gon wirt/Diß ſind die\nwort des herrn/die ſich in gegenwůrtiger zyt vor ougen\nerzeygen/wie ſich die/ſo menſchen ſatzungen gern entbiel\nten/ſo vnuerſtanden am wort Gottes abrennen/diewil\nnun Got der herr nit will/das wir jm yendert mit dienen\nnach vnſerem gůt bedunckē.",
         "b": "vnd der verstand siner Ver-\nståndigen zů boden gon wirt / Diß sind die Wort deß Her-\nren / die sich in gegenwürtiger zyt vor ougen erzeigen /",
-        "similarity": 0.0
+        "similarity": 0.3025
       },
       {
         "op": "only_b",
@@ -82,9 +69,7 @@
         "op": "match",
         "a": "Deuteronomij am xij. Ja\nſo das/das wir hoch achten ein grůwel vor gott iſt. Luc. am xvj. So kan vñ mag ein yetlicher from̄er Chriſt er=\nmeſſen/von welcher Kilch oder verſamlung die ſeyen/die",
         "b": "daß wir jm jendert mit dienen nach vnserem\ngůt beduncken : Deut.am 12. Ja so das / das wir hoch ach-\nten/ein grüswel vor Gott ist.Luc.am 16.",
-        "similarity": 0.3939,
-        "semantic": 0.6978,
-        "reading": "reworded"
+        "similarity": 0.3939
       },
       {
         "op": "only_b",
@@ -110,15 +95,10 @@
         "b": "dann Gottes\ngebot / ja das man sy in allen dingen übler förchte / dann\nGott. Wår mag diser mit synem huffen anders sin / dann\n                                                             der",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7374,
-    "reworded": 3,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5511,
+    "similarity": 0.56,
     "words": {
       "a": 173,
       "b": 277
@@ -261,18 +241,8 @@
       },
       {
         "op": "equal",
-        "a": "das die wißheit ſiner klůgen zů grund faren",
-        "b": "das die wißheit siner Klůgen zů grund faren"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "der",
-        "b": "der"
+        "a": "das die wißheit ſiner klůgen zů grund faren vñ der",
+        "b": "das die wißheit siner Klůgen zů grund faren vnd der"
       },
       {
         "op": "replace",
@@ -361,13 +331,13 @@
       },
       {
         "op": "equal",
-        "a": "mit dienen nach vnſerem gůt",
-        "b": "mit dienen nach vnserem gůt"
+        "a": "mit dienen nach vnſerem gůt bedunckē",
+        "b": "mit dienen nach vnserem gůt beduncken"
       },
       {
         "op": "replace",
-        "a": "bedunckē Deuteronomij",
-        "b": "beduncken Deut"
+        "a": "Deuteronomij",
+        "b": "Deut"
       },
       {
         "op": "equal",
@@ -470,7 +440,7 @@
         "b": "von aller Welt wellen geach tet vnd genempt sin Våtter in der geistligkeit Meister vnd Richter über das Göttlich Wort Jtem die sich angenom men haben dem Volck Gottes mit tröwung ewiger Ver damnuß zůgebieten vnnd zůuerbieten die ding die vns Gott weder gebotten noch verbotten hat Jtem die da wel len haben daß man jr satzung stiffer halte dann Gottes gebot ja das man sy in allen dingen übler förchte dann Gott Wår mag diser mit synem huffen anders sin dann der"
       }
     ],
-    "ops": 35,
+    "ops": 34,
     "truncated": false
   }
 }

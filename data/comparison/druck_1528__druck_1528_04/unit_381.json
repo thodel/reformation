@@ -8,7 +8,7 @@
       439
     ]
   },
-  "alignment_score": 0.3301,
+  "alignment_score": 0.3366,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 12,
-    "matched": 7,
-    "only_a": 3,
-    "only_b": 2,
-    "similarity": 0.4552,
+    "units": 11,
+    "matched": 8,
+    "only_a": 2,
+    "only_b": 1,
+    "similarity": 0.4254,
     "pairs": [
       {
         "op": "only_b",
@@ -39,72 +39,49 @@
         "op": "match",
         "a": "**Schlußred.**\nwellen das nit thůn vß vnſerm gwalt / oder einiger na=\ntur / ſonders mit hilff der gnad gottes. **Martinus Butzer.**\nGlichs thůnd alle Chriſten.",
         "b": "vnd wellen das nit tuͦn\nvß vnſerm gwalt/ oder eyniger natur/ſonders\nmit hilff der gnad Gottes. Martin Butzer.",
-        "similarity": 0.6364,
-        "semantic": 0.7405,
-        "reading": "same"
+        "similarity": 0.6364
       },
       {
         "op": "match",
         "a": "Erhart witer ge=\nfragt / was der dienſt ſye gewäſen / dauon Lu=\ncas Actorum am .viij. meldet / ſag ich: Es iſt ein\nernſtlich gebått geweſen /",
         "b": "Soͤlichs thuͦnd alle Chriſtenn. Er hat wyter\ngefragt/was der dienſt ſye geweſen/dauon Lu\ncas Actorum am xiij.",
-        "similarity": 0.4,
-        "semantic": 0.6071,
-        "reading": "reworded"
+        "similarity": 0.4
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "dañ das Båtte allweg gemeyn\nlich zum faſten / in der gſchrifft geſatz wirdt. Soch ſo iſt\nouch die übung der leer mitgangen /",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6119,
-        "semantic_match": "meldet/ſag ich: Es iſt ein\nernſtlich gebaͤtt geweſen/dann dz baͤtten allweg\ngemeynlich zum faſten/ in der geſchrifft geſetzt\nwirdt.",
-        "reading": "candidate"
-      },
-      {
-        "op": "only_b",
-        "a": null,
         "b": "meldet/ſag ich: Es iſt ein\nernſtlich gebaͤtt geweſen/dann dz baͤtten allweg\ngemeynlich zum faſten/ in der geſchrifft geſetzt\nwirdt.",
-        "similarity": 0.0
+        "similarity": 0.3111
       },
       {
         "op": "match",
         "a": "darumb meldet Lu=\ncas / propheten vnd lerer / nit aber ſacerdotes / das iſt / o=\npferer. Das er aber fürgeworffen hat Eraſmum Rote=\nrodamum /",
         "b": "Doch ſo iſt ouch die uͤbung der leer mit=\ngangen/darum̃ meldet Lucas/Propheten vnd\nLerer/nitt aber Sacerdotes/das iſt/Opfferer.",
-        "similarity": 0.3556,
-        "semantic": 0.6059,
-        "reading": "reworded"
+        "similarity": 0.3556
       },
       {
         "op": "match",
         "a": "iſt ſich zůuerwundren : dañ bißhar haben ſy\nby der alten vertolmetſchung die ſy Hieronimo zůſchri=\nben / wellen bliben: wir haben zwey håller oꝛt angezeygt /",
         "b": "Das er aber fuͤrgeworffen hat Eraſmum Rote\nrodamum/iſt ſich zuͦ verwunderen: dañ bißher\nhabend ſy by der alten vertolmetſchung/die ſy\nHieronymo zuͦſchrybend/wellen blyben:",
-        "similarity": 0.4231,
-        "semantic": 0.7565,
-        "reading": "reworded"
+        "similarity": 0.3846
       },
       {
         "op": "match",
         "a": "da man ſicht das ein dienſt hie ſol verſtanden werden. Paulus nennet die wåltliché obré λειτουργούσ / dz iſt diener\nGottes.",
         "b": "wir ha\nbend zwey haͤller ort angezeygt/da man ſicht dz\nein dienſt hie ſol verſtanden werdenn. Paulus\nnennet die weltlichen obren λειτουργοὺσ/das iſt\ndiener Gottes.",
-        "similarity": 0.625,
-        "semantic": 0.9212,
-        "reading": "same"
+        "similarity": 0.625
       },
       {
         "op": "match",
         "a": "Solt es opferer heiſſen / ſo wurd ein jed Schul=\nheis vnd vogt / ouch ein opferer ſin. **Gilg Aͤdurer.**\nD Als er geantwurt hat /",
         "b": "Soͤllt es Opfferer heyſſenn/ſo\nwurde ein yeder Schuldtheis vnnd Vogt/ouch\nein Opfferer ſin. Gilg Murer. Das er geantwurt hat/der dienſt ſye dz baͤtt\ngeſin/mag nit ſin:",
-        "similarity": 0.3571,
-        "semantic": 0.9044,
-        "reading": "reworded"
+        "similarity": 0.3571
       },
       {
         "op": "match",
         "a": "der dienſt ſye das bått geſin\nmag nit ſin / dañ vo ſömliche dienſten ſol niemant\ngeſůndrot werden. Er ſpricht aber hie im text :",
         "b": "dañ von ſoͤmlichen dienſten\nſol niemand geſuͤndret werden. Er ſpricht aber",
-        "similarity": 0.3889,
-        "semantic": 0.5323,
-        "reading": "different"
+        "similarity": 0.3333
       },
       {
         "op": "only_a",
@@ -116,20 +93,12 @@
         "op": "only_a",
         "a": "ſind zů de predig ampt\ngeſůndret worden. Darzů hat vaſt wol gedie=\nnet / dz man gebått zů gott de herrē gethan hab. Zz iij",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.675,
-        "semantic_match": "Schlußred. CCVII\n\nſind wir nit/ſunder wir bitten Gott den herrẽ/ im ampt der heiligen Maͤß/vnnd halten jm fuͤr\ndas lyden ſines Suns/dz vns der vatter guͤtig=\nklich zuͦ jm ziechen welle/",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7061,
-    "reworded": 4,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4978,
+    "similarity": 0.4934,
     "words": {
       "a": 229,
       "b": 225
@@ -227,13 +196,13 @@
       },
       {
         "op": "equal",
-        "a": "geweſen",
-        "b": "geweſen"
+        "a": "geweſen dañ",
+        "b": "geweſen dann"
       },
       {
         "op": "replace",
-        "a": "dañ das Båtte",
-        "b": "dann dz ba tten"
+        "a": "das Båtte",
+        "b": "dz ba tten"
       },
       {
         "op": "equal",
@@ -332,18 +301,8 @@
       },
       {
         "op": "replace",
-        "a": "zůuerwundren",
-        "b": "zu verwunderen"
-      },
-      {
-        "op": "equal",
-        "a": "dañ",
-        "b": "dan"
-      },
-      {
-        "op": "replace",
-        "a": "bißhar haben",
-        "b": "bißher habend"
+        "a": "zůuerwundren dañ bißhar haben",
+        "b": "zu verwunderen dan bißher habend"
       },
       {
         "op": "equal",
@@ -497,13 +456,13 @@
       },
       {
         "op": "equal",
-        "a": "geſin mag nit ſin dañ",
-        "b": "geſin mag nit ſin dan"
+        "a": "geſin mag nit ſin",
+        "b": "geſin mag nit ſin"
       },
       {
         "op": "replace",
-        "a": "vo ſömliche",
-        "b": "von ſo mlichen"
+        "a": "dañ vo ſömliche",
+        "b": "dan von ſo mlichen"
       },
       {
         "op": "equal",
@@ -526,7 +485,7 @@
         "b": ""
       }
     ],
-    "ops": 39,
+    "ops": 38,
     "truncated": false
   }
 }

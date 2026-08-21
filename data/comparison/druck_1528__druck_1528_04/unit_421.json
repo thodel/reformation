@@ -8,7 +8,7 @@
       483
     ]
   },
-  "alignment_score": 0.3907,
+  "alignment_score": 0.4038,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -33,19 +33,13 @@
         "op": "only_a",
         "a": "**Schlußred.**\nmensch harnach/Gott den herrn bitt/diewil er von dem\nEngel bewegt worde ist/vnd also erlang die barmhertzig\nkeyt Gottes.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7555,
-        "semantic_match": "Ecolampadius. So bitten wir eynen yegklichẽ Chriſtenlichen\nlaͤſer/ das er die gſchrifft mit verſtand laͤſe/ vnd\nverneme/ waruff die Propheten Redend.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Darumb so dient üch der spruch gar nüt/ dann wyter ouch hernach volgt: das gott dem menschen\nwil nachlassen/vnd beuilcht dem Engel/das er jn erlöß\nmit synem dienst/als wir im psalmen ouch haben Angelis\nsuis mandauit de te, &c.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7592,
-        "semantic_match": "vnd der herr ant=\nwurt dem Engel/der in mir redt guͤte vñ troſt=\nliche wort. Hie haben wir aber kundtſchafft/das\ndie Engel moͤgen fuͤr vns bitten.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -57,17 +51,13 @@
         "op": "match",
         "a": "**Johannes Büchstab.**\nAls der spruch Job/nach mynem fürgeben be=\nstande. Wil ich darfür ein andern harin füren/ Zacharie.j.stat also geschriben.",
         "b": "Schlußred. CCXXIX\nBeſtande. Wil ich darfuͤr ein andern herin fuͤren/ Zacharie.j. ſtat alſo geſchriben. Das der Engel\nGottes anfacht/",
-        "similarity": 0.4,
-        "semantic": 0.6828,
-        "reading": "reworded"
+        "similarity": 0.4
       },
       {
         "op": "match",
         "a": "Das der Engel\nGottes anfacht/vnd spricht: Herr der scharen/wie lang\nerbarmestu dich nit über Jerusalem/vnd die statt Juda\nwider welche du erzürnet bist/vnd das ist yetz das siben=\nzig Jar/vnnd der herr antwurt dem Engel/der in mit\nredt güte vñ trostliche wort.",
         "b": "vnd ſpricht: Herr der ſcharen/ wie lang erbarmeſtu dich nit uͤber Jeruſalẽ / vñ\ndie ſtatt Juda/wider welche du erzuͤrnet biſt/vñ\ndas iſt yetz das ſibenzig Jar /",
-        "similarity": 0.5641,
-        "semantic": 0.7363,
-        "reading": "same"
+        "similarity": 0.5641
       },
       {
         "op": "only_b",
@@ -79,9 +69,7 @@
         "op": "match",
         "a": "Hie haben wir aber kundt=\nschafft/das die Engel mögen für vns bitten. **Ecolampadius.**\nDiser spruch Zacharie/ist vom schülmeister ouch\nnit verstanden.",
         "b": "Ecolampadius. Diſer ſpruch Zacharie / iſt vom ſchuͤlmeyſter\nouch nit verſtandẽ. Es ſtat nit da/das d’ Engel\ngebetten hab.",
-        "similarity": 0.3721,
-        "semantic": 0.7998,
-        "reading": "reworded"
+        "similarity": 0.3721
       },
       {
         "op": "only_b",
@@ -93,17 +81,13 @@
         "op": "match",
         "a": "Es stat nitt da/das der Engel\ngebetten hab. Es stat ouch nitt da/das Gott\nsyn gebätt erhört hab/es ist aber eyn schematismus/das ist\nin dem gesicht/durch fürgeben solicher wort des Engels\nwirt der Prophet gelert/das die zyt der widerbuwung\nJerusale schon vorhanden sye.",
         "b": "durch fuͤrgeben ſolicher wort\ndes Engels wirt der Prophet gelert/das die zyt\nder widerbuwung Jehruſalem ſchon vorhan=\nden ſye.",
-        "similarity": 0.4571,
-        "semantic": 0.8405,
-        "reading": "reworded"
+        "similarity": 0.4571
       },
       {
         "op": "match",
         "a": "Es möcht einer als bald\nvnwisschende wort/als bittende wort hieruß nemen. Eee iij",
         "b": "Es moͤcht eyner als bald vnwirſchende\nwort/ als bittende wort hieruß nemmen. Johannes Buͤchſtab. Die gſchrifft durch mich yngefuͤrt/laß ich by\ndem bloſſen Text/one alle gloß blyben.",
-        "similarity": 0.3478,
-        "semantic": 0.7548,
-        "reading": "reworded"
+        "similarity": 0.3478
       },
       {
         "op": "only_b",
@@ -117,15 +101,10 @@
         "b": "Buͤchſtab. Wir moͤchtẽ noch haben kundtſchafft vß Tho\n                                ff v",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7613,
-    "reworded": 4,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4772,
+    "similarity": 0.4729,
     "words": {
       "a": 247,
       "b": 214
@@ -238,18 +217,8 @@
       },
       {
         "op": "replace",
-        "a": "güte",
-        "b": "gu te"
-      },
-      {
-        "op": "equal",
-        "a": "vñ",
-        "b": "vn"
-      },
-      {
-        "op": "replace",
-        "a": "trostliche",
-        "b": "troſt liche"
+        "a": "güte vñ trostliche",
+        "b": "gu te vn troſt liche"
       },
       {
         "op": "equal",
@@ -412,7 +381,7 @@
         "b": "nemmen Johannes Bu chſtab Die gſchrifft durch mich yngefu rt laß ich by dem bloſſen Text one alle gloß blyben Ecolampadius So bitten wir eynen yegkliche Chriſtenlichen la ſer das er die gſchrifft mit verſtand la ſe vnd verneme waruff die Propheten Redend Bu chſtab Wir mo chte noch haben kundtſchafft vß Tho ff v"
       }
     ],
-    "ops": 28,
+    "ops": 27,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       269
     ]
   },
-  "alignment_score": 0.119,
+  "alignment_score": 0.1293,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 2,
     "only_a": 5,
     "only_b": 3,
-    "similarity": 0.4085,
+    "similarity": 0.4184,
     "pairs": [
       {
         "op": "only_a",
@@ -45,7 +45,7 @@
         "op": "match",
         "a": "iſt diſe Diſputatz angeſehen worde/nit das yemand me\ndurch vns (vñ wen vnſer vier tuſent werendt/vñ all ge\nlerter vñ fromer/dan ſant Paulus) in göttlichen dingen\nmöge gelert werde/dan åben durch die predicante.",
         "b": "van Irer\npredicanten, angenomen, Als onck an zwyffel\nviel gethan gabenn, an wyters befragen,\naber de ettench gewesen sind Die daruber\nnoch annder luet zehoren befert haben, Ist\nDiss Disputatz angesetchen worden, nit das\nJemand me eurch vns vnd wen vnser vier\nthusent werendt, vnnd all geleuwe vnd fromder\nDan sant Paulus In götlichen eingen moge\ngelert werden, Dan eben Durch die predi¬\ncanten.",
-        "similarity": 0.396
+        "similarity": 0.4158
       },
       {
         "op": "match",
@@ -92,7 +92,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3605,
+    "similarity": 0.3682,
     "words": {
       "a": 315,
       "b": 201
@@ -225,18 +225,8 @@
       },
       {
         "op": "equal",
-        "a": "vns",
-        "b": "vns"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "wen vnſer vier",
-        "b": "wen vnser vier"
+        "a": "vns vñ wen vnſer vier",
+        "b": "vns vnd wen vnser vier"
       },
       {
         "op": "replace",
@@ -249,19 +239,19 @@
         "b": "werendt"
       },
       {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnnd"
+        "op": "insert",
+        "a": "",
+        "b": "vnnd all geleuwe"
       },
       {
         "op": "equal",
-        "a": "all",
-        "b": "all"
+        "a": "vñ",
+        "b": "vnd"
       },
       {
         "op": "replace",
-        "a": "ge lerter vñ fromer",
-        "b": "geleuwe vnd fromder"
+        "a": "all ge lerter vñ fromer",
+        "b": "fromder"
       },
       {
         "op": "equal",
@@ -620,13 +610,13 @@
       },
       {
         "op": "replace",
-        "a": "glouben vñ",
-        "b": "pleinben vnd"
+        "a": "glouben",
+        "b": "pleinben"
       },
       {
         "op": "equal",
-        "a": "des wort",
-        "b": "des wort"
+        "a": "vñ des wort",
+        "b": "vnd des wort"
       },
       {
         "op": "replace",
@@ -644,7 +634,7 @@
         "b": "Joch anners haer"
       }
     ],
-    "ops": 55,
+    "ops": 54,
     "truncated": false
   }
 }

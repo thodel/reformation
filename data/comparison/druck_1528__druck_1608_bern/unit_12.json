@@ -8,7 +8,7 @@
       26
     ]
   },
-  "alignment_score": 0.3165,
+  "alignment_score": 0.3249,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -51,25 +51,19 @@
         "op": "match",
         "a": "Der disputierenden Ordnung\nDas die/dené nachgelassen zedisputieren/zam/fittés\nElich vnd gsatzlich reden/damit die vier Notharien/die\nwort glychlich verfassen möchtind.",
         "b": "Der Disputierenden Ordnung. Das die / denen nachgelaſſen zedisputieren / zam / ſit-\ntenklich vnd gſaͤzlich reden / damit die vier Nota-\nrien /",
-        "similarity": 0.6047,
-        "semantic": 0.857,
-        "reading": "same"
+        "similarity": 0.6047
       },
       {
         "op": "match",
         "a": "Das ouch keiner reden sölte one erloupnuß der presi\ndenten/oder so sy in der vrfrag/ harum fragrind vin er=\nloubrind zereden.",
         "b": "die Wort glychlich verfaſſen moͤchtind. Das ouch keiner reden ſolte ohneerloubnuß der Pre-\nſidenten / oder ſo ſy in der vmfrag /",
-        "similarity": 0.5116,
-        "semantic": 0.5763,
-        "reading": "check"
+        "similarity": 0.5116
       },
       {
         "op": "match",
         "a": "Es ist ouch zu gütem/vnd fürdrig der warheit/ye=\nderman mit ordnung zereden/nit abgeschlage wordé/vi\nalso mencklich erlaubt/zü handthabung der warheit/ei=\nnem yeden Respondente vi Opponenten/züzespringe.",
         "b": "harumb fragtind vnd er-\nloubtind zereden. Es iſt ouch zuͦ guͦtem / vnd fuͤrdrung der Warheit / je-\nderman mit ordnung zereden /",
-        "similarity": 0.4074,
-        "semantic": 0.7042,
-        "reading": "reworded"
+        "similarity": 0.4074
       },
       {
         "op": "only_b",
@@ -81,17 +75,13 @@
         "op": "match",
         "a": "Så dem/so ist (wie in den Actis befunden wirdt) vff\nbeiden parthyen zügelassen/das ein yeder dem anderen\nbilfflich vnd rådtlich sin mochte/",
         "b": "ſo iſt (wie in den Actis befunden wirt) vff\nbeyden Parthyen zuͤgelaſſen / das ein jeder dem anderen\nhilfflich vnd raͤdtlich ſin moͤchte /",
-        "similarity": 0.6122,
-        "semantic": 0.8246,
-        "reading": "same"
+        "similarity": 0.6122
       },
       {
         "op": "match",
         "a": "schriftlich od mundt=\nlich zuschub geben. Duch das yede parthy/einen/zween/ dry oder mer/der gelertesten vnd geschicktesten/verord=\nnen mochten/die in jrer aller namen/Sisputieren/ant=\nwurt/red vnd gegenred geben.",
         "b": "Schrifftlich oder mundt-\nlich zuͦſchub geben. Ouch das jede Parthy / einen / zween / dry oder mehr / der Gelerteſten vnd Geſchickteſten /",
-        "similarity": 0.4815,
-        "semantic": 0.6478,
-        "reading": "reworded"
+        "similarity": 0.4815
       },
       {
         "op": "only_b",
@@ -103,9 +93,7 @@
         "op": "match",
         "a": "Und sind also garnach zu\nallen Sessionen des ermant worden/vñ fürnemlich im\nanfang eins yede Artickels geheyssen worde/sich den ver\nordnete schribern anzegebe/vozab die so den Coclufioné\nzewiderfechten willens weren. Doch so ist niemands be",
         "b": "vnd fuͤrnemlich im\nanfang eins jeden Artickels geheiſſen worden / ſich den ver-\nordneten Schribern anzegeben / vorab die ſo den Conclu-\nſionen zeſwiderfechten willens weren.",
-        "similarity": 0.4444,
-        "semantic": 0.611,
-        "reading": "reworded"
+        "similarity": 0.4444
       },
       {
         "op": "only_b",
@@ -119,15 +107,10 @@
         "b": "vßgeſchruͤwen worden / ob jemants mehr vorhanden / der\nwyter darzuͦ / oder wider reden welle / zc. Vnd alſo beyder ſydt (wie erſt geſeit iſt) die ſo die Ar-\ntickel",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7035,
-    "reworded": 3,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4533,
+    "similarity": 0.4573,
     "words": {
       "a": 265,
       "b": 238
@@ -470,13 +453,13 @@
       },
       {
         "op": "equal",
-        "a": "ermant worden",
-        "b": "ermant worden"
+        "a": "ermant worden vñ",
+        "b": "ermant worden vnd"
       },
       {
         "op": "replace",
-        "a": "vñ fürnemlich",
-        "b": "vnd fu rnemlich"
+        "a": "fürnemlich",
+        "b": "fu rnemlich"
       },
       {
         "op": "equal",

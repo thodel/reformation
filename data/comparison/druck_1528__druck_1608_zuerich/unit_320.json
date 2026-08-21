@@ -8,7 +8,7 @@
       370
     ]
   },
-  "alignment_score": 0.2748,
+  "alignment_score": 0.2883,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -33,19 +33,13 @@
         "op": "only_a",
         "a": "Die vierdt\nZwingy\n\nIr erkennend wol/das offt ein ding den name\nDes behept/darůß es gemacht ist/Das dient\naber hiehar nit/dann wo der lychnam Chri=\nsti vß dem brot gemacht wåre/so wår hie die\nwandlung der substantz des brots/in die substantz des\nlychnams Christi/welche versubstantzung sy mit vnns\nnit erkennend/vnnd thůnd das recht vnnd Christenlich:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7439,
-        "semantic_match": "zum Roͤmern am 8. Cap. Zum anderen/daß er da-\nſelbs",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Dann wo jm anderst/so wåre nit allein das geschlåcht oß\nsam Abrahams angenomen/sonder ouch das geschlåcht\noder samen des korns/wie vor gnůgsam erklårt ist.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6163,
-        "semantic_match": "welches aber nuͤtzit anders iſt/weder durch\nſynen Tod vff die erbaͤrmd Gottes/verſichret ſin: dann ſo\nGott ſynen eignen Sun fuͤr vns geben hat/daß er vns mit\njm ſelbs verſuͤnte/was moͤcht vns von abgeſchlagen wer-\nden?",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -57,41 +51,31 @@
         "op": "match",
         "a": "dan̄ nach sinem sinn stryt er nit wider vns\ndz Paulus fůr vñ fůr trůnckgschier/oder tråck nempt/ vnd nit wyn/mag nůtzit helffen:",
         "b": "336 Die vierdt\ntens: dann nach ſynem Sinn ſtrit er nit wider vns. Daß\nPaulus fuͤr vnd fuͤr Trinckgſchir /",
-        "similarity": 0.3556,
-        "semantic": 0.6255,
-        "reading": "reworded"
+        "similarity": 0.3556
       },
       {
         "op": "match",
         "a": "dann solichs gnůg vß=\ngericht wirt mit den vßgetruckten worten/Brot/dann\nEquipollentia, das ist glychgeltende red/erhaltend einandern\nin glychem vstand/empfelhend solichs ouch allen Christ\nglöubigen menschenn/nach dem grund angezeygter ge=\nschrifft.",
         "b": "oder Tranck nempt/vnd\nnit Wyn/mag nuͤtzit helffen: dann ſoͤlichs gnuͤg vßgericht\nwirt mit den vßgetruckten worten/Brot/dann AEqui-\npollentia/das iſt glychgeltende red/erhaltend einandern\nin glychem verſtand.",
-        "similarity": 0.4638,
-        "semantic": 0.636,
-        "reading": "reworded"
+        "similarity": 0.4638
       },
       {
         "op": "match",
         "a": "Hienos: am 118\nblatt. Zwingy wyter: Lff anwůrdrung vnsere grůnd harfůr ze tragen/ge=\nbend wir im namen Gottes dise antwurt:",
         "b": "Empfelhend ſoͤlichs ouch allen Chriſt-\ngloͤubigen Menſchen/nach dem grund angezeigter Ge-\nſchrifft. Zwingly Wyter: VFf anfordrung vnſere gruͤnd harfuͤr zetragen/gebend\nwir im namen Gottes/diſe antwurt:",
-        "similarity": 0.3019,
-        "semantic": 0.719,
-        "reading": "reworded"
+        "similarity": 0.3019
       },
       {
         "op": "match",
         "a": "jn vorab\nbittende/das er vß Göttlicher gnad/vnns verliche\nwider sin heyligs wort nienen zegedencken/damit weder\nlerende noch hörende/ůzit vß eygnem radt fůrnemind.",
         "b": "in vorab bitten-\nde/daß er vß Goͤttlicher gnad/vns verliche wider ſin Hey-\nligs Wort nienen zegedencken/damit weder Lerende noch\nHoͤrende/uͤtzit vß eignem Raht fuͤrnemmind.",
-        "similarity": 0.5517,
-        "semantic": 0.8129,
-        "reading": "same"
+        "similarity": 0.5517
       },
       {
         "op": "match",
         "a": "Erstlich/das Christus Jesus vnser heyland/Johannjs\nam vj. capit. selbs also geredt hat: Das brot Gottes ist\ndas von himel kumpt/vnnd der welt das låben gibt/an\nwelchen",
         "b": "Erſtlich/ daß Chriſtus Jeſus vnſer Heiland/Johannis am 6. Cap. ſelbs alſo geredt hat: Das Brot Gottes iſt das von Him-\nmel kumpt/vnd der Welt dz laͤben gibt/an welchen worten\nwir merckend/daß ſich Chriſtus/den Laͤbendigmacher/",
-        "similarity": 0.6197,
-        "semantic": 0.9029,
-        "reading": "same"
+        "similarity": 0.6197
       },
       {
         "op": "only_b",
@@ -111,15 +95,10 @@
         "b": "zum Roͤmern am 8. Cap. Zum anderen/daß er da-\nſelbs",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7224,
-    "reworded": 3,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.3508,
+    "similarity": 0.3548,
     "words": {
       "a": 245,
       "b": 251
@@ -177,8 +156,18 @@
       },
       {
         "op": "replace",
-        "a": "fůr vñ fůr trůnckgschier",
-        "b": "fu r vnd fu r Trinckgſchir"
+        "a": "fůr",
+        "b": "fu r"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "fůr trůnckgschier",
+        "b": "fu r Trinckgſchir"
       },
       {
         "op": "equal",
@@ -421,7 +410,7 @@
         "b": "worten wir merckend daß ſich Chriſtus den La bendigmacher nach der Go ttlichen natur vnd krafft nennet So nun die allein la bendig machet ſonder allein durch die wu rckung deß Go ttlichen Geiſts in vns gegloubt fu r vns den Tod erlitten haben welches aber nu tzit anders iſt weder durch ſynen Tod vff die erba rmd Gottes verſichret ſin dann ſo Gott ſynen eignen Sun fu r vns geben hat daß er vns mit jm ſelbs verſu nte was mo cht vns von abgeſchlagen wer den zum Ro mern am 8 Cap Zum anderen daß er da ſelbs"
       }
     ],
-    "ops": 30,
+    "ops": 31,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       355
     ]
   },
-  "alignment_score": 0.1558,
+  "alignment_score": 0.1515,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 7,
     "only_b": 1,
-    "similarity": 0.4103,
+    "similarity": 0.4009,
     "pairs": [
       {
         "op": "only_a",
@@ -51,7 +51,7 @@
         "op": "match",
         "a": "das da niemarmer schådlich/ sonder allwegen nůtz vñnd\ngůt ist. Vnd aber das essen im Nachtmal des Herren/ fry ist/",
         "b": "ein nodtwendigs essenn, das da nimmermer schädlich\nsounder allwegen nutz vnnd gut ist\nomme\naber das essen Im nachtmael, des hern fry ist, int\nzwingen, nitt allwegen, nutz, sounder ettwan schad,\nlich ist.",
-        "similarity": 0.566
+        "similarity": 0.5283
       },
       {
         "op": "only_a",
@@ -104,7 +104,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4056,
+    "similarity": 0.4009,
     "words": {
       "a": 254,
       "b": 175
@@ -147,8 +147,18 @@
       },
       {
         "op": "equal",
-        "a": "allwegen nůtz vñnd gůt ist",
-        "b": "allwegen nutz vnnd gut ist"
+        "a": "allwegen nůtz",
+        "b": "allwegen nutz"
+      },
+      {
+        "op": "replace",
+        "a": "vñnd",
+        "b": "vnnd"
+      },
+      {
+        "op": "equal",
+        "a": "gůt ist",
+        "b": "gut ist"
       },
       {
         "op": "replace",
@@ -506,7 +516,7 @@
         "b": ""
       }
     ],
-    "ops": 40,
+    "ops": 41,
     "truncated": false
   }
 }

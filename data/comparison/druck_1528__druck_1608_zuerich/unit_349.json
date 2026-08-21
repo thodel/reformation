@@ -8,7 +8,7 @@
       403
     ]
   },
-  "alignment_score": 0.4756,
+  "alignment_score": 0.4847,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 1,
     "only_b": 0,
-    "similarity": 0.7122,
+    "similarity": 0.7236,
     "pairs": [
       {
         "op": "only_a",
@@ -39,59 +39,42 @@
         "op": "match",
         "a": "Den lyb der zehimel gefaren iſt. Waltherus Klarer. Eſsen wir den lychnam/der für vns gelytte͂ hat\nſo můſſen wir jn ouch empfindtlich eſsen/dañ er\nhatt empfindtlich gelitten:",
         "b": "Schlußred. 369\nWaltherus Clarer. ESſen wir den Lychnam/ der für vns gelitten hat/ſo\nmüſſen wir jnn ouch empfindtlich eſſen/dann er hat\nempfindtlich gelitten:",
-        "similarity": 0.6667,
-        "semantic": 0.7987,
-        "reading": "same"
+        "similarity": 0.7037
       },
       {
         "op": "match",
         "a": "welches eſsen aber\nnit iſt. Pfarrer von Alpentzell. D Als er jnen/ſin wäſenlichen lyb blůt vnd fleyſch\nvnder der geſtalt des brots vnnd wyns zů eſsen\ngeben hab/findt man dargethon in miner inge=\nleyten gſchrifft.",
         "b": "welches eſſen aber nit iſt. Pfarrer von Appenzell. DAs er jnen ſyn wäſenlicher Lyb Blüt vnd Fleiſch\nvnder der geſtalt deß Brots vnd Wyns zů eſſen\ngeben hab/findt man dargethon in myner ingelei-\nten Gſchrifft.",
-        "similarity": 0.7123,
-        "semantic": 0.7562,
-        "reading": "same"
+        "similarity": 0.7123
       },
       {
         "op": "match",
         "a": "Was wöllen wir ſůchen ordnung der na\ntur/an dem der da übernatürlich gebozen iſt/als vnſer\ngloub klärlich anzeygt.",
         "b": "Was wöllen wir ſůchen Ordnung der na-\ntur / an dem der da übernatürlich geboreen iſt/ als vnſer\nGloub klarlich anzeigt.",
-        "similarity": 0.9,
-        "semantic": 0.7371,
-        "reading": "same"
+        "similarity": 0.9
       },
       {
         "op": "match",
         "a": "Gebozen vß der Junckfrouwen\nMaria/rc. Vnd laſſes alſo by ingelegter Copy beliben. Waltherus Klarer. S lyt nit an üwer geſchrifft/jr hand veriehen/",
         "b": "Geboren vß der Jungkfrouwen\nMaria/ ꝛc. Vnd laſſes alſo by ingelegter Copy beliben. Waltherus Clarer. ES lyt nit alles an üſwer Geſchrifft/jhr hand verie-\nhen/daß wir den getödten /",
-        "similarity": 0.5926,
-        "semantic": 0.8964,
-        "reading": "same"
+        "similarity": 0.5926
       },
       {
         "op": "match",
         "a": "das wir den getödtenen/oder gecrützgoten lych=\nnam eſsen. Nun hat er empfindtlich gelitten/ſo\nmůſſen wir jn ouch empfindtlich eſsen.",
         "b": "oder gecrüßgoten Lych-\nnam eſſen. Nun hat er empfindtlich gelitten/ſo müſ-\nſen wir jn ouch empfindtlich eſſen. Pfarrer von Appenzell.",
-        "similarity": 0.7143,
-        "semantic": 0.7374,
-        "reading": "same"
+        "similarity": 0.7143
       },
       {
         "op": "match",
         "a": "Pfarrer von Alpentzell. Frag ich jn ob doch Chriſtus ein andern lyb hab/ dann in dem er gelitten/geſtorben oder zehimel\ngefaren ſye/oder ob er mer dañ einen lyb hab. Tt iij",
         "b": "FRag ich jn ob doch Chriſtus ein andern Lyb hab/ dan in dem er gelitten/geſtorben oder zehimmel ge-\nfaren ſye/oder ob er mehr dann einem Lyb hab. AA a",
-        "similarity": 0.6875,
-        "semantic": 0.8889,
-        "reading": "same"
+        "similarity": 0.7188
       }
-    ],
-    "semantic": 0.8024,
-    "reworded": 0,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.6761,
+    "similarity": 0.6873,
     "words": {
       "a": 192,
       "b": 163
@@ -139,18 +122,8 @@
       },
       {
         "op": "equal",
-        "a": "ouch empfindtlich eſsen",
-        "b": "ouch empfindtlich eſſen"
-      },
-      {
-        "op": "replace",
-        "a": "dañ",
-        "b": "dann"
-      },
-      {
-        "op": "equal",
-        "a": "er",
-        "b": "er"
+        "a": "ouch empfindtlich eſsen dañ er",
+        "b": "ouch empfindtlich eſſen dann er"
       },
       {
         "op": "replace",
@@ -374,8 +347,18 @@
       },
       {
         "op": "replace",
-        "a": "mer dañ einen",
-        "b": "mehr dann einem"
+        "a": "mer",
+        "b": "mehr"
+      },
+      {
+        "op": "equal",
+        "a": "dañ",
+        "b": "dann"
+      },
+      {
+        "op": "replace",
+        "a": "einen",
+        "b": "einem"
       },
       {
         "op": "equal",

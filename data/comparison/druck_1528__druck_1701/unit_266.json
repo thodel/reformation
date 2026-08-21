@@ -8,7 +8,7 @@
       276
     ]
   },
-  "alignment_score": 0.236,
+  "alignment_score": 0.2341,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -23,12 +23,18 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 16,
-    "matched": 7,
-    "only_a": 4,
-    "only_b": 5,
-    "similarity": 0.4035,
+    "units": 17,
+    "matched": 6,
+    "only_a": 5,
+    "only_b": 6,
+    "similarity": 0.4268,
     "pairs": [
+      {
+        "op": "only_a",
+        "a": "Schlußred. Wir sprecheñ der Kelch der dancksagung sye ein vßteyl=\nung des blůts Christi/ vñd diewyl lyb vñd blůt by ein=\nandern stond/",
+        "b": null,
+        "similarity": 0.0
+      },
       {
         "op": "only_b",
         "a": null,
@@ -48,59 +54,46 @@
         "similarity": 0.0
       },
       {
-        "op": "match",
-        "a": "Schlußred. Wir sprecheñ der Kelch der dancksagung sye ein vßteyl=\nung des blůts Christi/ vñd diewyl lyb vñd blůt by ein=\nandern stond/",
+        "op": "only_b",
+        "a": null,
         "b": "Capitel alſo genom-\nmen wird: Dann was Gemeinſame hat der Kelch mit\ndem Blůt Chriſti? Wir ſprechen/der Kelch der Danck-\nſagung ſeye ein Ußtheilung deß Blůts Chriſti /",
-        "similarity": 0.3137,
-        "semantic": 0.3716,
-        "reading": "different"
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "und\ndiewyl lyb und blůt by einandern ſtahnd / mag es nit an-\nderſt verſtanden werden/ denn von beyder Ußtheilung. Der nachfolgend text:",
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "mag es nit anders verstanden werdeñ/ deñ\nvon beyder vßteylung. Sernachvolgend reyt. Señ wir\nvil sind ein brot/ vnnd ein lyb/",
-        "b": "und\ndiewyl lyb und blůt by einandern ſtahnd / mag es nit an-\nderſt verſtanden werden/ denn von beyder Ußtheilung. Der nachfolgend text:",
-        "similarity": 0.3256,
-        "semantic": 0.6865,
-        "reading": "reworded"
+        "b": "Denn wir vil ſind ein brodt und\nein lyb/darum daß wir von einem Brodt und von einem\nKelch theilhafftig ſind /",
+        "similarity": 0.3333
       },
       {
         "op": "only_a",
         "a": "darumb das wir von eim\nbrot vnd von eim Kelch teylhafftig sind/ nimpt nichts\nyenem verstand. Wir bekennen den selbe text zeuerstan=\nden werden/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7404,
-        "semantic_match": "Denn wir vil ſind ein brodt und\nein lyb/darum daß wir von einem Brodt und von einem\nKelch theilhafftig ſind /",
-        "reading": "candidate"
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "Denn wir vil ſind ein brodt und\nein lyb/darum daß wir von einem Brodt und von einem\nKelch theilhafftig ſind /",
         "similarity": 0.0
       },
       {
         "op": "match",
         "a": "vonn dem geystlichen lyb/ welches ist die ge=\nmein Gottes. Paulus spricht aber nit/ wir syen das brot\ndas brochen wirt/",
         "b": "nimt nichts jenem Verſtand. Wir bekennen denſelben Text zeverſtahn werden von\ndem geiſtlichen Lyb / welches iſt die Gemein Gottes. Paulus ſpricht aber nit/",
-        "similarity": 0.4545,
-        "semantic": 0.7862,
-        "reading": "reworded"
+        "similarity": 0.4545
       },
       {
         "op": "match",
         "a": "oder das wir brechen/ sunst brech vñd\nEß die Kilch sich selbs/ darumb der erst spruch vom lyb\nChristi vßgeteylt im brot/",
         "b": "wir ſeyen das Brodt/ das bro-\nchen wird / oder das wir brechen / ſonſt brech uns es die\nKilch ſich ſelbs/",
-        "similarity": 0.4286,
-        "semantic": 0.7703,
-        "reading": "reworded"
+        "similarity": 0.4286
       },
       {
         "op": "match",
         "a": "der ander vom geystliche ver\nstanden můß werden. Ecolampadius. [V]nser antwurt hat Althamer nüt abrocheñ/ die=\nwyl wir klarlih dargethon haben/",
         "b": "darum der erſt Spruch vom Lyb Chri-\nſti ußgetheilt im Brodt/ der ander vom geiſtlichen ver-\nſtanden můß werden. Ecolampadius.",
-        "similarity": 0.381,
-        "semantic": 0.5301,
-        "reading": "different"
+        "similarity": 0.381
       },
       {
         "op": "only_b",
@@ -112,17 +105,13 @@
         "op": "match",
         "a": "dʒ hie ein ge=\nmeinschafft verstanden werden soll/ vñd wil es\nnoch klarliher darthůn. Man leßnit mer dañ\nden text selbs für vñd für/",
         "b": "und wil es noch klarlicher\ndarthůn. Man laͤß nit mehr dann den Text ſelbs für und\nfür/ und wird nit folgen daruf:",
-        "similarity": 0.5106,
-        "semantic": 0.6045,
-        "reading": "same"
+        "similarity": 0.5532
       },
       {
         "op": "match",
         "a": "vñd wirt nit volgen daruff: an eynem anderenn oꝛt oder zweyen/ dienet die gemeyn=\nschafft zur vßteylung Ergo es můß hie ouch also verstan=\nden werdeñ.",
         "b": "an einem andern ort oder\nzweyen / dienet die Gemeinſchafft zur Ußtheilung/ Ergò,\nEs",
-        "similarity": 0.4103,
-        "semantic": 0.5248,
-        "reading": "different"
+        "similarity": 0.4103
       },
       {
         "op": "only_a",
@@ -140,17 +129,9 @@
         "op": "only_a",
         "a": "ist die vßteylung\nnit vnser/ aber wir haben ein geselschafft/ in empfahung\nsolches geistes. des hatt man ouch zun Philipeñsern am\nij. Capit. Jst yrgend ein gemeinschafft oder geselschafft\nZi iij",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7,
-        "semantic_match": "Denn wir vil ſind ein brodt und\nein lyb/darum daß wir von einem Brodt und von einem\nKelch theilhafftig ſind /",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.6349,
-    "reworded": 3,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
     "similarity": 0.4045,
@@ -176,8 +157,18 @@
       },
       {
         "op": "equal",
-        "a": "Wir sprecheñ der Kelch der",
-        "b": "Wir ſprechen der Kelch der"
+        "a": "Wir",
+        "b": "Wir"
+      },
+      {
+        "op": "replace",
+        "a": "sprecheñ",
+        "b": "ſprechen"
+      },
+      {
+        "op": "equal",
+        "a": "der Kelch der",
+        "b": "der Kelch der"
       },
       {
         "op": "replace",
@@ -216,18 +207,18 @@
       },
       {
         "op": "equal",
-        "a": "verstanden werdeñ",
-        "b": "verſtanden werden"
+        "a": "verstanden",
+        "b": "verſtanden"
       },
       {
         "op": "replace",
-        "a": "deñ",
-        "b": "denn"
+        "a": "werdeñ",
+        "b": "werden"
       },
       {
         "op": "equal",
-        "a": "von beyder",
-        "b": "von beyder"
+        "a": "deñ von beyder",
+        "b": "denn von beyder"
       },
       {
         "op": "replace",
@@ -521,13 +512,13 @@
       },
       {
         "op": "replace",
-        "a": "leßnit mer dañ",
-        "b": "la ß nit mehr dann"
+        "a": "leßnit mer",
+        "b": "la ß nit mehr"
       },
       {
         "op": "equal",
-        "a": "den text selbs für vñd für vñd",
-        "b": "den Text ſelbs für und für und"
+        "a": "dañ den text selbs für vñd für vñd",
+        "b": "dann den Text ſelbs für und für und"
       },
       {
         "op": "replace",
@@ -585,7 +576,7 @@
         "b": ""
       }
     ],
-    "ops": 43,
+    "ops": 44,
     "truncated": false
   }
 }

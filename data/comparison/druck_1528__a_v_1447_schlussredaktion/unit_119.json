@@ -8,7 +8,7 @@
       222
     ]
   },
-  "alignment_score": 0.2101,
+  "alignment_score": 0.2179,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 7,
     "only_b": 2,
-    "similarity": 0.5096,
+    "similarity": 0.5185,
     "pairs": [
       {
         "op": "only_a",
@@ -69,7 +69,7 @@
         "op": "match",
         "a": "welches ort Joan. am vj. nit mag pro=\nbieren / noch bewåren / das an disem ort / sy all ein sölchen\nvesten gloubē haben gehan /",
         "b": "Deina\n68\nDie ausß schlstnd\nprobieren / noch bewaͤren/ Das an disem\nort/ sy all ein soͤlchen vesten glouben higenn\ngehan/",
-        "similarity": 0.4444
+        "similarity": 0.4889
       },
       {
         "op": "match",
@@ -116,7 +116,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3786,
+    "similarity": 0.392,
     "words": {
       "a": 283,
       "b": 166
@@ -159,13 +159,13 @@
       },
       {
         "op": "equal",
-        "a": "vesten",
-        "b": "vesten"
+        "a": "vesten gloubē",
+        "b": "vesten glouben"
       },
       {
         "op": "replace",
-        "a": "gloubē haben",
-        "b": "glouben higenn"
+        "a": "haben",
+        "b": "higenn"
       },
       {
         "op": "equal",
@@ -324,8 +324,18 @@
       },
       {
         "op": "replace",
-        "a": "wirds ůch all gebē dz",
-        "b": "wu rd u ch allen geben Das"
+        "a": "wirds ůch all",
+        "b": "wu rd u ch allen"
+      },
+      {
+        "op": "equal",
+        "a": "gebē",
+        "b": "geben"
+      },
+      {
+        "op": "replace",
+        "a": "dz",
+        "b": "Das"
       },
       {
         "op": "equal",
@@ -364,13 +374,13 @@
       },
       {
         "op": "replace",
-        "a": "klar lich vñ heyter anzogē",
-        "b": "klarlich vnnd heiter anzogen"
+        "a": "klar lich vñ heyter",
+        "b": "klarlich vnnd heiter"
       },
       {
         "op": "equal",
-        "a": "mag",
-        "b": "mag"
+        "a": "anzogē mag",
+        "b": "anzogen mag"
       },
       {
         "op": "replace",
@@ -438,7 +448,7 @@
         "b": "Christus petro die schlu ssell Insonderheit verheissen bedut vns ein sonndrige oberkeit vnnd gewallt vnder"
       }
     ],
-    "ops": 32,
+    "ops": 33,
     "truncated": false
   }
 }

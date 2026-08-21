@@ -8,7 +8,7 @@
       282
     ]
   },
-  "alignment_score": 0.2543,
+  "alignment_score": 0.2857,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 5,
     "only_b": 1,
-    "similarity": 0.3491,
+    "similarity": 0.3947,
     "pairs": [
       {
         "op": "only_a",
@@ -63,13 +63,13 @@
         "op": "match",
         "a": "oder yemer mer mag gelert werdē\nist alles veruasset in dise kurtze red / lieb gott von ganßē\nhertzen/vnd den nächsten als dich selbs/das haben gelert\nvñ vß gott gelert/alle die von anfang der welt recht ge=\nlert habē/ist darum nit von nöten /",
         "b": "lich gelert worden Ist, oder temer mer magt gelert\nwerden, Ist alles verfasset, In dise kurije Red,\nLieb gott, van ganchem herczen, vnd den nächsten als\ndich salbs, Cas haben getort, vnd vsz.",
-        "similarity": 0.4051
+        "similarity": 0.4557
       },
       {
         "op": "match",
         "a": "dz es alles beschribē\nsye/überflüssig habē wir an dem/so die Biblische bůcher\ninhalten. Johannes Bůchstab. DEr anzug/das wir söllen vnsern nächsten liebē\nals vns selbs/zc.",
         "b": "gott gelert,\nAlle die, von anfang der welt, recht gelert haben,\nIst darumb nitt von noten, das es alles beschriben\nwerflustig haben wir gnug an dem 1 oo\nC0½,\ndie Biblisthen bicher Innhaltenn,\nJohannes bijchstab\n22\nDer anzug, Das wir Collen vnsern nächsten lieben\nAls vns zulbs u, dienst hiewider nitt, das man\nnitt schuldig bije, ouch ander ding zuhalten, wie\nVnde das man Othuldig bij 1 ouch\nvor gesagt Ist.",
-        "similarity": 0.3
+        "similarity": 0.36
       },
       {
         "op": "only_a",
@@ -81,12 +81,12 @@
         "op": "match",
         "a": "Namlich Crist ist abgestigen zů den\nhellen. Jtem jch gloub in die heylige Christēliche kilchē/ vnd Jch gloub gemeinsame der heiligen. Martinus",
         "b": "ander ding zu halten, das mitt vo getruckten wor¬\nten, nitt geschriben vande, begar. Ich das Ir mir\namoigen drij Spruch des heiligen Christenlichen\nglaubens, mitt vs getruckten worten, wie wir di\nbetten, Namlich, Er Ist abgestigen zu den hetten,\nItem Ich gloub In die heiligen christenlichen kilchen,\nvnd Ich gloub gemeinsame der heiligenn,",
-        "similarity": 0.3421
+        "similarity": 0.3684
       }
     ]
   },
   "fine": {
-    "similarity": 0.4642,
+    "similarity": 0.4946,
     "words": {
       "a": 250,
       "b": 211
@@ -229,18 +229,8 @@
       },
       {
         "op": "equal",
-        "a": "gelert",
-        "b": "gelert"
-      },
-      {
-        "op": "replace",
-        "a": "werdē",
-        "b": "werden"
-      },
-      {
-        "op": "equal",
-        "a": "ist alles",
-        "b": "Ist alles"
+        "a": "gelert werdē ist alles",
+        "b": "gelert werden Ist alles"
       },
       {
         "op": "replace",
@@ -284,8 +274,18 @@
       },
       {
         "op": "replace",
-        "a": "gelert vñ vß",
-        "b": "getort vnd vsz"
+        "a": "gelert",
+        "b": "getort"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "vß",
+        "b": "vsz"
       },
       {
         "op": "equal",
@@ -294,13 +294,13 @@
       },
       {
         "op": "replace",
-        "a": "ge lert habē",
-        "b": "gelert haben"
+        "a": "ge lert",
+        "b": "gelert"
       },
       {
         "op": "equal",
-        "a": "ist",
-        "b": "Ist"
+        "a": "habē ist",
+        "b": "haben Ist"
       },
       {
         "op": "replace",
@@ -319,18 +319,18 @@
       },
       {
         "op": "equal",
-        "a": "es alles",
-        "b": "es alles"
+        "a": "es alles beschribē",
+        "b": "es alles beschriben"
       },
       {
         "op": "replace",
-        "a": "beschribē sye überflüssig habē",
-        "b": "beschriben werflustig haben"
+        "a": "sye überflüssig",
+        "b": "werflustig"
       },
       {
         "op": "equal",
-        "a": "wir",
-        "b": "wir"
+        "a": "habē wir",
+        "b": "haben wir"
       },
       {
         "op": "insert",
@@ -379,18 +379,8 @@
       },
       {
         "op": "equal",
-        "a": "vnsern nächsten",
-        "b": "vnsern nächsten"
-      },
-      {
-        "op": "replace",
-        "a": "liebē",
-        "b": "lieben"
-      },
-      {
-        "op": "equal",
-        "a": "als vns",
-        "b": "Als vns"
+        "a": "vnsern nächsten liebē als vns",
+        "b": "vnsern nächsten lieben Als vns"
       },
       {
         "op": "replace",
@@ -514,13 +504,13 @@
       },
       {
         "op": "replace",
-        "a": "heylige Christēliche kilchē",
-        "b": "heiligen christenlichen kilchen"
+        "a": "heylige Christēliche",
+        "b": "heiligen christenlichen"
       },
       {
         "op": "equal",
-        "a": "vnd",
-        "b": "vnd"
+        "a": "kilchē vnd",
+        "b": "kilchen vnd"
       },
       {
         "op": "replace",
@@ -538,7 +528,7 @@
         "b": "heiligenn"
       }
     ],
-    "ops": 45,
+    "ops": 44,
     "truncated": false
   }
 }

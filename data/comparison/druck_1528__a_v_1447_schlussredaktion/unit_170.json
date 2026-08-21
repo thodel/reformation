@@ -8,7 +8,7 @@
       300
     ]
   },
-  "alignment_score": 0.249,
+  "alignment_score": 0.2685,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,13 +27,13 @@
     "matched": 3,
     "only_a": 5,
     "only_b": 0,
-    "similarity": 0.3713,
+    "similarity": 0.3832,
     "pairs": [
       {
         "op": "match",
         "a": "Die ander\nBestanden/oder jr widerspråchend. Ir sechend ouch/wie\nsich die/so die artickel für güt bekennen/so trüwlich zůsa\nmen halten/darum bitt vñ erman ich üch abermals vmb\ngots willen/jr die widerspråcher/wellend üch ouch zůsa=\nmen thůn/einandern trostlich sin/mit hilff/radt/schrybē\nvnd reden/das werden vnser gnådig herren/zum höch=\nsten wol vergüt/vñ als ein gnådig wolgefallē/mit groſ\nser danckbarkeit annemen/doch das dz allweg bescheche\nnach ordnung/jnnhalt vnd anwysen des Christenlichen\ndarumb angesåchnen Mandats.",
         "b": "en peu\nen teil\ntiefen, d\nen perth\nhiern\ningen\ncanton\nwerden,\n123\nDie ander Schlusred\nend, fo bijchen ouch, wie sich die, soo die wtickel\nfur gut te kennen, So teuwlich zusamen haltenn,\ndarumb bitt vnd Erman Ich vch abermals vmb\ngots willen, Ir die wider sprecher, wellende ich ouch\nzusamen thun, finandien trostlich sin, mitt helft,\nlat, Schriben vnd reden, das werden unser gnadig\nherren, zum hochsten wel vergut, vnd als ein gna:",
-        "similarity": 0.4348
+        "similarity": 0.4596
       },
       {
         "op": "only_a",
@@ -57,7 +57,7 @@
         "op": "match",
         "a": "die von vns/der Kilchen gebot genant sind/vnser con=\nscientz nit anders binden/dann als vil sy im gotswort ge\ngründt sind/oder gebotten/den selben gib ich ouch zů/in\nrechtem gesundem verstand/den selben verstand recht ze\nsůchē/söllen wir gan in die schrifft.",
         "b": "dig wolgevallen, mitt grosser danckbarkeit annam: men, doch das das allweg beschaehe, nach Ordnung\nInnhalt vnd anwisen, des christenlichen darumb\nangesachuen Mandats\nAlexius grad, wicht patter In der\nInsil, Prediger Ordens\nIn duiem namen her Jesu christe, tesamen wijsen\ngunstigen lieben herren, die ander Othlusstred,\nfort ettlich zitt disputiert, die hebbeg het nach minem\nverstand, zwen teil, Der erst, Die kilch Christi\nmachet nitt geseyt noch statuten, ave das gottes\nwort, Eisen teil hilt ich fur war, Een indern\nteil, der da lutet, das darus volgte vnd beschäche das\nalle menschlich Cachungen, die von uns, der kilchen\ngebott genant sind, unser constientz nitt anders\nbinden, denn als vil Si Im gotswort gegrundt sind\noder gebotten, denselben gib Ich ouch zu, in rechtem\ngesunden verstand, Eenselben verstand Recht zu¬\nsuchen, Ootten wir Jan In die Ihrift, Nun dat\nJohannis m.",
-        "similarity": 0.3118
+        "similarity": 0.3226
       },
       {
         "op": "match",
@@ -80,7 +80,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4911,
+    "similarity": 0.5069,
     "words": {
       "a": 274,
       "b": 231
@@ -143,18 +143,8 @@
       },
       {
         "op": "equal",
-        "a": "bitt",
-        "b": "bitt"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "erman ich üch abermals vmb gots willen jr die",
-        "b": "Erman Ich vch abermals vmb gots willen Ir die"
+        "a": "bitt vñ erman ich üch abermals vmb gots willen jr die",
+        "b": "bitt vnd Erman Ich vch abermals vmb gots willen Ir die"
       },
       {
         "op": "replace",
@@ -203,18 +193,8 @@
       },
       {
         "op": "equal",
-        "a": "vergüt",
-        "b": "vergut"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "als ein",
-        "b": "als ein"
+        "a": "vergüt vñ als ein",
+        "b": "vergut vnd als ein"
       },
       {
         "op": "replace",
@@ -328,13 +308,13 @@
       },
       {
         "op": "replace",
-        "a": "Christ Ersamē wy sen günstigē",
-        "b": "christe tesamen wijsen gunstigen"
+        "a": "Christ Ersamē wy sen",
+        "b": "christe tesamen wijsen"
       },
       {
         "op": "equal",
-        "a": "lieben herren Die ander",
-        "b": "lieben herren die ander"
+        "a": "günstigē lieben herren Die ander",
+        "b": "gunstigen lieben herren die ander"
       },
       {
         "op": "replace",
@@ -518,8 +498,18 @@
       },
       {
         "op": "replace",
-        "a": "ze sůchē söllen",
-        "b": "zu suchen Ootten"
+        "a": "ze",
+        "b": "zu"
+      },
+      {
+        "op": "equal",
+        "a": "sůchē",
+        "b": "suchen"
+      },
+      {
+        "op": "replace",
+        "a": "söllen",
+        "b": "Ootten"
       },
       {
         "op": "equal",
@@ -602,7 +592,7 @@
         "b": ""
       }
     ],
-    "ops": 52,
+    "ops": 51,
     "truncated": false
   }
 }

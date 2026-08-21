@@ -8,7 +8,7 @@
       329
     ]
   },
-  "alignment_score": 0.1471,
+  "alignment_score": 0.1772,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,13 +27,13 @@
     "matched": 4,
     "only_a": 8,
     "only_b": 1,
-    "similarity": 0.3954,
+    "similarity": 0.4011,
     "pairs": [
       {
         "op": "match",
         "a": "**Schlußred.** **XCIII**\nChriſten verſtan / daß das wort Gottes allenthalß vns\nermant / zů den wercken vnd früchten des geiſts / vñ die\nvnſern gloub vnd liebe bezůge /",
         "b": "49\nDie dritt Schlusfred,\nstus allein vobbracht hat, das werck unser erlofung\ndaerumb Ist de hein mitt verdienst, Noch vordienst der\ndan werck der erlofung vnd ewiger Delierit gemaes Sie\nHiemitt sollen aber all From schriften verstan, das das\nwort gottes, allen halb vns ermandt, zu den werc¬\nken und fruchten des geists, vnd die unser glaub\nvnd liebe bezugen, ad Romanos.i.",
-        "similarity": 0.3182
+        "similarity": 0.3409
       },
       {
         "op": "match",
@@ -110,7 +110,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4297,
+    "similarity": 0.4336,
     "words": {
       "a": 269,
       "b": 243
@@ -163,18 +163,8 @@
       },
       {
         "op": "equal",
-        "a": "vnd früchten des geiſts",
-        "b": "und fruchten des geists"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "die",
-        "b": "die"
+        "a": "vnd früchten des geiſts vñ die",
+        "b": "und fruchten des geists vnd die"
       },
       {
         "op": "replace",
@@ -712,7 +702,7 @@
         "b": "o"
       }
     ],
-    "ops": 60,
+    "ops": 59,
     "truncated": false
   }
 }

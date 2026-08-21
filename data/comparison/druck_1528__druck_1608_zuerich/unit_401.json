@@ -27,47 +27,37 @@
     "matched": 5,
     "only_a": 1,
     "only_b": 1,
-    "similarity": 0.6395,
+    "similarity": 0.6439,
     "pairs": [
       {
         "op": "match",
         "a": "Die Sechßte Schlußred. Wie Christus ist allein für vns ge=\nstorben / also sol er ein einiger mittler vnd\nfürsprech / zwüschenn Gott dem Vatter\nvnnd vns glöubigen /",
         "b": "430\nDie ſechſzte Schluſſred. Wie Chriſtus iſt allein für vns geſtorben/ alſo ſoll er ein einiger Mittler vnd Fürſprech/ zwüſchen Gott dem Vatter vnd vns Glöu-\nbigen/angerüfft werden.",
-        "similarity": 0.6545,
-        "semantic": 0.9061,
-        "reading": "same"
+        "similarity": 0.6545
       },
       {
         "op": "match",
         "a": "angerüfft werden. Deßhalb all ander mittler vnd fürsprech\nen vßzerhalb disem ytz anzerüffen/võ vns\non grund der geschrifft/ vffgeworffen.",
         "b": "Deßhalb all ander\nMitttler vnnd Fürſprechen vſſerthalb diſem\nZyt anzerüffen/von vns ohn Grund der Ge-\nſchrifft/vffgeworffen. Erklärung der ſechſzten Schluſſred.",
-        "similarity": 0.4286,
-        "semantic": 0.7171,
-        "reading": "reworded"
+        "similarity": 0.4762
       },
       {
         "op": "match",
         "a": "Erklärung der sächßten schlußred\nMeyster Frantz Kolb. Iñ der ersten Epistel\nPetri am ij. Cap. Christus ist\nder/d̃ kein sünd nie gethon hat\nvnnd ist in sinem mund d̃ kein\nbetrug nie erfunden/darumb\nsagt er Johannis am xiiij.",
         "b": "Meiſter Frantz Kolb. IN der erſten Epiſtel Pe-\ntri am 2. Capit. Chriſtus iſt\nder/der kein Sünd nie gethon\nhat/vnnd iſt in ſynem Mund\nkein betrug nie erfunden/da-\nrumb ſagt er Johannis am 14.",
-        "similarity": 0.7013,
-        "semantic": 0.8516,
-        "reading": "same"
+        "similarity": 0.6753
       },
       {
         "op": "match",
         "a": "ims\nNachtmal. Der fürst diser\nwelt wåre komen / er hette a=\nber nüt an jm kein vrsach des\ntodes / des sich keyn heylig nie\nhat mögen berümen:",
         "b": "im Nachtmal: Der Fürſt diſer\nWelt wåre kommen/ er hette\naber nüt an jm keit Vrfach deß\nTodts/deß ſich kein heilig nie hat mögen berůmen:",
-        "similarity": 0.6038,
-        "semantic": 0.8049,
-        "reading": "same"
+        "similarity": 0.6038
       },
       {
         "op": "match",
         "a": "zun Ephe. am ij. Wan von natur\nwaren wir all kinder des zorns / sy haben all sich müssen\nbekennen / vnd sprechen.",
         "b": "zun\nEpheſern am 2. Wann von natur waren wir all Kinder\ndeß Zorns/ſy haben all ſich můſſen bekennen/vnd ſprechen:",
-        "similarity": 0.8095,
-        "semantic": 0.8749,
-        "reading": "same"
+        "similarity": 0.8095
       },
       {
         "op": "only_a",
@@ -81,12 +71,7 @@
         "b": "Vergib\n\n## Marginalien\nVer-\nnem-\nvns/ Gott\nſchen/ můgen\nEpheſ. gen/v-\nvnd ſo\nDan-\nter ſy\nderer\nGlö-\ntige\ncher\nvnnd\nNo-\nſiõ\nge\nPf-\ntet/ geh",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.8309,
-    "reworded": 1,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
     "similarity": 0.5912,
@@ -182,18 +167,8 @@
       },
       {
         "op": "equal",
-        "a": "anzerüffen",
-        "b": "anzerüffen"
-      },
-      {
-        "op": "replace",
-        "a": "võ",
-        "b": "von"
-      },
-      {
-        "op": "equal",
-        "a": "vns",
-        "b": "vns"
+        "a": "anzerüffen võ vns",
+        "b": "anzerüffen von vns"
       },
       {
         "op": "replace",
@@ -222,8 +197,18 @@
       },
       {
         "op": "equal",
-        "a": "Frantz Kolb Iñ der ersten Epistel",
-        "b": "Frantz Kolb IN der erſten Epiſtel"
+        "a": "Frantz Kolb",
+        "b": "Frantz Kolb"
+      },
+      {
+        "op": "replace",
+        "a": "Iñ",
+        "b": "IN"
+      },
+      {
+        "op": "equal",
+        "a": "der ersten Epistel",
+        "b": "der erſten Epiſtel"
       },
       {
         "op": "replace",

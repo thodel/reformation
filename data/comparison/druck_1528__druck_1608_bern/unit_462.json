@@ -8,7 +8,7 @@
       532
     ]
   },
-  "alignment_score": 0.3378,
+  "alignment_score": 0.3578,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 15,
-    "matched": 6,
-    "only_a": 5,
-    "only_b": 4,
-    "similarity": 0.4147,
+    "units": 14,
+    "matched": 7,
+    "only_a": 4,
+    "only_b": 3,
+    "similarity": 0.4086,
     "pairs": [
       {
         "op": "only_b",
@@ -45,37 +45,25 @@
         "op": "match",
         "a": "Die achteſt\nZwingli\nAls die Cherub / ein bedütung der gnådigung / die\nChriſtus Jeſus iſt / gewåſen ſyen / Bezüget Paulus\nzun Hebreern ix.",
         "b": "ſo durch die Bilder bedütet wer-\nden/ mögen wir dero zů gedechtnis haben die Bilder. Zwingly. DAs die Cherub / ein bedütung der gnädigung/",
-        "similarity": 0.3182,
-        "semantic": 0.2362,
-        "reading": "different"
+        "similarity": 0.3182
       },
       {
         "op": "match",
         "a": "So nun der war gnådiger kom=\nme iſt / ſo hört die bedütnuß vff. Der grund vom Eryne\nSchlangen / iſt für vns /",
         "b": "die\nChriſtus Jeſus iſt/ gewäſen ſyen/ bezüget Paulus\nzun Hebreern 9. So nun der war Gnädiger kom-\nmen iſt/ ſo hört die bedütnuß vff.",
-        "similarity": 0.5333,
-        "semantic": 0.4363,
-        "reading": "check"
+        "similarity": 0.5333
       },
       {
         "op": "match",
         "a": "dan̄ wir allein wider die Bilder\nreden / die vereret werden / wie die ſchlußred luter. Es iſt\nouch mit not / dz må die heiligen lyblich ſeche /",
         "b": "Der Grund vom Erinen\nSchlangen / iſt für vns / dan wir allein wider die Bilder\nreden/ die vereret werden/ wie die Schlußred lutet.",
-        "similarity": 0.5532,
-        "semantic": 0.605,
-        "reading": "same"
+        "similarity": 0.5532
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "dan̄ die form\neins Chriſtenlichē låbens / im gots wort vorgemalet iſt / vn̄ in keiner bildtnuß / dan̄ die oꝟſeru geſtalt ſeche /",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
         "b": "Es iſt\nouch nit not/ das man die Heiligen lyblich ſeche/ dann die\nform eines Chriſtenlichen läbens/ im Gotts Wort vorge-\nmalet iſt /",
-        "similarity": 0.0
+        "similarity": 0.3256
       },
       {
         "op": "only_b",
@@ -87,25 +75,19 @@
         "op": "match",
         "a": "zimpt\ndem menſchen / aber die innerliche des hertzen vn̄d glou=\nbens / mag der menſch nit in einem låbendigen menſchen\nſehen /",
         "b": "mag der Menſch nit in einem läben-\ndigen Menſchen ſechen / wir geſchwygend in einer tod-\nten Bildnuß : wiewol das keins verantwortens bedörffte.",
-        "similarity": 0.3256,
-        "semantic": 0.6921,
-        "reading": "reworded"
+        "similarity": 0.3256
       },
       {
         "op": "match",
         "a": "wir geſchwygend in einer todtē bildtnuß: wiewol\ndas keins verantwurtens bedörffte. Die ſichtbarē ding / von denen Paulus redt / zun Römern .j.",
         "b": "Die ſichtbaren ding/ von denen Paulus redt/ zun Röme-\nren 1. Sind nit die Bildnuſſen/ die von Menſchen hän-\nden gemacht ſind /",
-        "similarity": 0.3256,
-        "semantic": 0.8296,
-        "reading": "reworded"
+        "similarity": 0.3721
       },
       {
         "op": "match",
         "a": "Sind nitt die\nbildtnuſſen / die von menſchē henden gemacht ſind / ſun=\nders die bildtnuſſen / die von der hand Gottes gemacht\nſind.",
         "b": "ſunders die Bildnuſſen / die von der\nHand Gottes gemacht ſind. Darby laß ichs yetzmal\nblyben. Johan-",
-        "similarity": 0.4324,
-        "semantic": 0.6336,
-        "reading": "reworded"
+        "similarity": 0.4324
       },
       {
         "op": "only_a",
@@ -129,20 +111,12 @@
         "op": "only_a",
         "a": "vnd mandermassen yetz allen=\nthalben vnderricht / das må die bil\nder nit anbåtten / noch mir götlicher eer ſol halten: ſund\nfür zeichen zehaben. Rådt ich / von wågen ergernuß zege\nben /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7256,
-        "semantic_match": "vnd in keiner Bildnuß/ dann die vſſern geſtalt\nſechen / zympt dem Menſchen/ aber die innerliche deß Her-\nzen vnd Gloubens/",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.5941,
-    "reworded": 3,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.485,
+    "similarity": 0.4979,
     "words": {
       "a": 247,
       "b": 219
@@ -240,13 +214,13 @@
       },
       {
         "op": "replace",
-        "a": "eins Chriſtenlichē",
-        "b": "eines Chriſtenlichen"
+        "a": "eins",
+        "b": "eines"
       },
       {
         "op": "equal",
-        "a": "låbens im",
-        "b": "läbens im"
+        "a": "Chriſtenlichē låbens im",
+        "b": "Chriſtenlichen läbens im"
       },
       {
         "op": "replace",
@@ -355,18 +329,8 @@
       },
       {
         "op": "equal",
-        "a": "bedörffte Die",
-        "b": "bedörffte Die"
-      },
-      {
-        "op": "replace",
-        "a": "ſichtbarē",
-        "b": "ſichtbaren"
-      },
-      {
-        "op": "equal",
-        "a": "ding von denen Paulus redt zun",
-        "b": "ding von denen Paulus redt zun"
+        "a": "bedörffte Die ſichtbarē ding von denen Paulus redt zun",
+        "b": "bedörffte Die ſichtbaren ding von denen Paulus redt zun"
       },
       {
         "op": "replace",
@@ -395,13 +359,13 @@
       },
       {
         "op": "equal",
-        "a": "die von",
-        "b": "die von"
+        "a": "die von menſchē",
+        "b": "die von Menſchen"
       },
       {
         "op": "replace",
-        "a": "menſchē henden",
-        "b": "Menſchen hän den"
+        "a": "henden",
+        "b": "hän den"
       },
       {
         "op": "equal",
@@ -434,7 +398,7 @@
         "b": "Johan"
       }
     ],
-    "ops": 29,
+    "ops": 28,
     "truncated": false
   }
 }

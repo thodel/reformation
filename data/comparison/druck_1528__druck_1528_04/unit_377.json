@@ -8,7 +8,7 @@
       435
     ]
   },
-  "alignment_score": 0.274,
+  "alignment_score": 0.2844,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,16 +27,13 @@
     "matched": 5,
     "only_a": 3,
     "only_b": 3,
-    "similarity": 0.5656,
+    "similarity": 0.5799,
     "pairs": [
       {
         "op": "only_a",
         "a": "Schlußred? tåglichen opfer der dancksagung/vnd der widergedåcht=\nnis der Måß/nit darum/das wir Christo ſin liden min=\ndren welleñ/ſunder das began mit widergedåchtnis/des\nvor einoſt verbrachten opfers/wil ich bewåren/mit dem\nſpꝛuch/vnd denen worten/die Christus hat geredt:das\nthůnd in miner gedåchtnis.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7277,
-        "semantic_match": "wie dann ouch nach der ordnung\nMelchiſedech / one zwyfel/Chriſtus inn ſynem\nNachtmal erfuͤllt hatt. Martin Butzer. Des tods Chriſti gedencken/vnnd jm danck=\nſagen/heyßt jn nit wideruſſopfern:",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -48,34 +45,25 @@
         "op": "match",
         "a": "dañ es wz not/ſpricht\nder text/das das Oſterlamb geródt wurd. Nun halt die\nſchrifft inn/Exodi xij. daß das Oſterlamb geopferet/",
         "b": "Schlußred. CCV\nnot/ſpricht der text/ das das Oſterlamb getoͤdt\nwurd. Nun halt die gſchrifft inn. Exodi xij. das\ndas Oſterlamb geopffert/",
-        "similarity": 0.6957,
-        "semantic": 0.8537,
-        "reading": "same"
+        "similarity": 0.6957
       },
       {
         "op": "match",
         "a": "vñ demnach geåſſen ward. So nů Christus/der dz recht\nOſterlamb iſt/ſpricht Paulus/nach dem alten hat ynge\nſetzt dz nůw/vñ ſagt/Das thůnd in miner gedåchtnuß.",
         "b": "vnd demnach geeſſen\nward. So nun Chriſtus / der das recht Oſter=\nlamb iſt/ſpricht Paulus/nach dem alten hat yn=\ngeſetzt das nůw/vñ ſagt/",
-        "similarity": 0.5926,
-        "semantic": 0.7339,
-        "reading": "same"
+        "similarity": 0.6296
       },
       {
         "op": "match",
         "a": "Was hat er jnen anders beuolchen/dann das die alte ge\nthan hatten/das iſt opfferen vnd nieſſen/wie dann ouch\nnach der ordnung Melchiſedech/one zwyfel/Christus in\nſinem Nachtmal erfüllt hat.",
         "b": "Das thůnd in myner\ngedaͤchtnuß. Was hat er jnen anders beuolchen\ndann das die alten gethon hatten/das iſt opfern\nvnnd nieſſen /",
-        "similarity": 0.4643,
-        "semantic": 0.7096,
-        "reading": "reworded"
+        "similarity": 0.4643
       },
       {
         "op": "only_a",
         "a": "Butzer\nDEß brods Chriſti gedencken/vnd jm danckſagen/ heyßt jn nit widerufopffren: vnd vff vnſeren Si=\nlogiſmum/habeñ wir noch kein antwurt.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8543,
-        "semantic_match": "wie dann ouch nach der ordnung\nMelchiſedech / one zwyfel/Chriſtus inn ſynem\nNachtmal erfuͤllt hatt. Martin Butzer. Des tods Chriſti gedencken/vnnd jm danck=\nſagen/heyßt jn nit wideruſſopfern:",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -87,17 +75,13 @@
         "op": "match",
         "a": "Wie man des\nlydens Chriſti durch den Glouben/vnnd nit die Måß/ Sich hieuor\nteylhafftig werden můß/iſt by dem dritteñ artickel gnůg= am.",
         "b": "vnd vff vn=\nſern Silogiſmū/haben wir noch kein antwort. Wie man deß lydens Chriſti durch den gloubē/ vnnd nit der Maͤß/teylhafftig werden můß/iſt\nby dem drytten Artickel gnůgſam erklaͤrt.",
-        "similarity": 0.5172,
-        "semantic": 0.8437,
-        "reading": "same"
+        "similarity": 0.5517
       },
       {
         "op": "match",
         "a": "98. blatt. ſam erklårt. Gilg Murer. DE widergedåchtnuß Chriſti/ſins lydens vnd ſter=\nbens/mag genant werden nach der ſchrifft/ein tåg=\n33",
         "b": "Gilg Murer. Die widergedechtnuß Chriſti / ſyns lydens\nvnd ſterbens/mag genant werden nach der ge=\nſchrifft/ein taͤglich opffer:",
-        "similarity": 0.5581,
-        "semantic": 0.6693,
-        "reading": "same"
+        "similarity": 0.5581
       },
       {
         "op": "only_b",
@@ -111,15 +95,10 @@
         "b": "Es ſind etlich gſin in\nder Kilchen zů Anthiochia/ ꝛc. Vnd ſo die ſelbi=\ngen geopffert hand Gott dem herrn/vñ hand ge\nCc v\n\n## Marginalien\nSůch am\n105. 107. blat.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7703,
-    "reworded": 1,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4158,
+    "similarity": 0.42,
     "words": {
       "a": 250,
       "b": 231
@@ -172,13 +151,13 @@
       },
       {
         "op": "replace",
-        "a": "geopferet vñ",
-        "b": "geopffert vnd"
+        "a": "geopferet",
+        "b": "geopffert"
       },
       {
         "op": "equal",
-        "a": "demnach",
-        "b": "demnach"
+        "a": "vñ demnach",
+        "b": "vnd demnach"
       },
       {
         "op": "replace",
@@ -322,13 +301,13 @@
       },
       {
         "op": "replace",
-        "a": "vnſeren Si logiſmum",
-        "b": "vn ſern Silogiſmū"
+        "a": "vnſeren Si logiſmum habeñ",
+        "b": "vn ſern Silogiſmū haben"
       },
       {
         "op": "equal",
-        "a": "habeñ wir noch kein",
-        "b": "haben wir noch kein"
+        "a": "wir noch kein",
+        "b": "wir noch kein"
       },
       {
         "op": "replace",
@@ -347,18 +326,8 @@
       },
       {
         "op": "equal",
-        "a": "lydens Chriſti durch den",
-        "b": "lydens Chriſti durch den"
-      },
-      {
-        "op": "replace",
-        "a": "Glouben",
-        "b": "gloubē"
-      },
-      {
-        "op": "equal",
-        "a": "vnnd nit",
-        "b": "vnnd nit"
+        "a": "lydens Chriſti durch den Glouben vnnd nit",
+        "b": "lydens Chriſti durch den gloubē vnnd nit"
       },
       {
         "op": "replace",
@@ -436,7 +405,7 @@
         "b": "ta glich opffer dann wie wol es nitt ſtadt mit vßtruckten worten im heyligen Euan gelio oder in anderen ſchrifften jr ſo llend Chri ſtum vffopferen in der Ma ß ſo habē wir doch des gůte zügnus in den Geſchichtē der Apoſt len am xiij cap ſtadt alſo Es ſind etlich gſin in der Kilchen zů Anthiochia ꝛc Vnd ſo die ſelbi gen geopffert hand Gott dem herrn vñ hand ge Cc v Marginalien Sůch am 105 107 blat"
       }
     ],
-    "ops": 31,
+    "ops": 30,
     "truncated": false
   }
 }

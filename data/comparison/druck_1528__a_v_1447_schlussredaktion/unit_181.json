@@ -8,7 +8,7 @@
       312
     ]
   },
-  "alignment_score": 0.1556,
+  "alignment_score": 0.1914,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 5,
     "only_b": 5,
-    "similarity": 0.4448,
+    "similarity": 0.4913,
     "pairs": [
       {
         "op": "only_a",
@@ -69,13 +69,13 @@
         "op": "match",
         "a": "Epist. zun Corinth. vj. da er also spricht: Wir\nsöllen vns selbs in allen dingē erzeigen/als die diener got=\ntes/in vil gedult/in trübſeligkeyt/in nötikeit/in angſti=\nkeit/in streichē/in gefencknus/in wachē/in fasten/in kü=\nscheit/in heilikeit/in langmütikeit.zc.",
         "b": "ii. epistel\nZij den Cornithern, am vi. da Er also Opricht, wij\nCollen vns Pills In allen Dingen erzoügen, Als die die¬\nner gottes, In vil gedult, In trubsalikeit, In notikit,\nIn augstikeit, In Streichen, In gefenckens, In wachen\nIn fasten, In kustheit, in heilikeit, In langumtikeit is\nItem Johelis am.",
-        "similarity": 0.4898
+        "similarity": 0.551
       },
       {
         "op": "match",
         "a": "Item Johelis. ij. sagt Gott der Herr: Bekerē üch zü mir in gantzem üwe\nrem hertzē/in fasten/in weinen/in klagē.",
         "b": "ij. Cagt gott der herr, bekeren vth\nzu mir, In ganthem vwerem hertzen, In fasten, In\nweinen. In klagen u, von der kustheit, da haben\nwir.",
-        "similarity": 0.5
+        "similarity": 0.625
       },
       {
         "op": "only_a",
@@ -116,7 +116,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3363,
+    "similarity": 0.3646,
     "words": {
       "a": 278,
       "b": 287
@@ -174,13 +174,13 @@
       },
       {
         "op": "replace",
-        "a": "nit wyn trinckē",
-        "b": "mitt win trincken"
+        "a": "nit wyn",
+        "b": "mitt win"
       },
       {
         "op": "equal",
-        "a": "noch etwas",
-        "b": "noch etwas"
+        "a": "trinckē noch etwas",
+        "b": "trincken noch etwas"
       },
       {
         "op": "replace",
@@ -214,8 +214,18 @@
       },
       {
         "op": "replace",
-        "a": "fastens halb vñ etlicher ander übungē",
-        "b": "fastenshalb vnd ettlicher anderer wun gen"
+        "a": "fastens halb",
+        "b": "fastenshalb"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "etlicher ander übungē",
+        "b": "ettlicher anderer wun gen"
       },
       {
         "op": "equal",
@@ -254,13 +264,13 @@
       },
       {
         "op": "replace",
-        "a": "spruch",
-        "b": "Opruch"
+        "a": "spruch Paulī",
+        "b": "Opruch Pauli"
       },
       {
         "op": "equal",
-        "a": "Paulī in der ij",
-        "b": "Pauli In der ii"
+        "a": "in der ij",
+        "b": "In der ii"
       },
       {
         "op": "replace",
@@ -289,13 +299,13 @@
       },
       {
         "op": "equal",
-        "a": "in allen",
-        "b": "In allen"
+        "a": "in allen dingē",
+        "b": "In allen Dingen"
       },
       {
         "op": "replace",
-        "a": "dingē erzeigen",
-        "b": "Dingen erzoügen"
+        "a": "erzeigen",
+        "b": "erzoügen"
       },
       {
         "op": "equal",
@@ -339,18 +349,8 @@
       },
       {
         "op": "equal",
-        "a": "in",
-        "b": "In"
-      },
-      {
-        "op": "replace",
-        "a": "streichē",
-        "b": "Streichen"
-      },
-      {
-        "op": "equal",
-        "a": "in",
-        "b": "In"
+        "a": "in streichē in",
+        "b": "In Streichen In"
       },
       {
         "op": "replace",
@@ -359,18 +359,8 @@
       },
       {
         "op": "equal",
-        "a": "in",
-        "b": "In"
-      },
-      {
-        "op": "replace",
-        "a": "wachē",
-        "b": "wachen"
-      },
-      {
-        "op": "equal",
-        "a": "in fasten in",
-        "b": "In fasten In"
+        "a": "in wachē in fasten in",
+        "b": "In wachen In fasten In"
       },
       {
         "op": "replace",
@@ -409,13 +399,13 @@
       },
       {
         "op": "equal",
-        "a": "Gott der Herr",
-        "b": "gott der herr"
+        "a": "Gott der Herr Bekerē",
+        "b": "gott der herr bekeren"
       },
       {
         "op": "replace",
-        "a": "Bekerē üch",
-        "b": "bekeren vth"
+        "a": "üch",
+        "b": "vth"
       },
       {
         "op": "equal",
@@ -424,18 +414,18 @@
       },
       {
         "op": "replace",
-        "a": "gantzem üwe rem hertzē",
-        "b": "ganthem vwerem hertzen"
+        "a": "gantzem üwe rem",
+        "b": "ganthem vwerem"
       },
       {
         "op": "equal",
-        "a": "in fasten in weinen in",
-        "b": "In fasten In weinen In"
+        "a": "hertzē in fasten in weinen in klagē",
+        "b": "hertzen In fasten In weinen In klagen"
       },
       {
         "op": "replace",
-        "a": "klagē zc Von",
-        "b": "klagen u von"
+        "a": "zc Von",
+        "b": "u von"
       },
       {
         "op": "equal",
@@ -449,18 +439,8 @@
       },
       {
         "op": "equal",
-        "a": "da",
-        "b": "da"
-      },
-      {
-        "op": "replace",
-        "a": "habē",
-        "b": "haben"
-      },
-      {
-        "op": "equal",
-        "a": "wir j",
-        "b": "wir j"
+        "a": "da habē wir j",
+        "b": "da haben wir j"
       },
       {
         "op": "replace",
@@ -588,7 +568,7 @@
         "b": ""
       }
     ],
-    "ops": 47,
+    "ops": 45,
     "truncated": false
   }
 }

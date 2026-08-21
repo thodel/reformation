@@ -8,7 +8,7 @@
       507
     ]
   },
-  "alignment_score": 0.4766,
+  "alignment_score": 0.4858,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,23 +27,19 @@
     "matched": 7,
     "only_a": 1,
     "only_b": 3,
-    "similarity": 0.4394,
+    "similarity": 0.4456,
     "pairs": [
       {
         "op": "match",
         "a": "Die ſibend\ndas jrdiſch fhür/noch dz helliſch/dadurch der menſch ge=\nreiniget möge werden/dann allein das fäghür. Meyster Vlrich Zwingli.",
         "b": "Schlußred. CCXLI\nweder das jrdiſch fhüͤr/ noch das helliſch/ dar=\ndurch der menſch gereyniget moͤge werden/ dañ\nallein das faͤgfhüͤr.",
-        "similarity": 0.4348,
-        "semantic": 0.7111,
-        "reading": "reworded"
+        "similarity": 0.4783
       },
       {
         "op": "match",
         "a": "DIſt alles verantwurt:man weyßt wol/was fhür\nvnd waſſer an denen orten heyßt. Bůchſtab. DIſe geſchrifft zůbeſtåten/mitt einem ſpruch vß\ndem Nüwen Teſtament/ſagt Sant Paulus/",
         "b": "Zwingly. Diß iſt alles verantwurt/ Man weyßt wol/ was fhüͤr vnd waſſer an denen orten heyßt. Johannes Buͦchſtab.",
-        "similarity": 0.5,
-        "semantic": 0.7441,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "only_b",
@@ -61,25 +57,19 @@
         "op": "match",
         "a": "j. Corinthiorum iij. Das werck eins yecklichen\nwirdt offenbar/dann der tag des herrn/wirt das erklå=\nren/wann es in dem fhür erklårt wirt/vnnd das werck\neins yecklichen/wie es ſye/wirt das fhür bewåren:ob et=\nlichs werck bliben wirdt/das er daruff hatt gebuwen/er\nempfacht die belonung:",
         "b": "vnnd\ndas werck eins yetlichẽ/ wie es ſye/ wirt dz fhüͤr\nbewaͤren: ob etlichs werck blyben wirdt/ das er\ndaruff hat gebuwẽ/",
-        "similarity": 0.3684,
-        "semantic": 0.8313,
-        "reading": "reworded"
+        "similarity": 0.3684
       },
       {
         "op": "match",
         "a": "ob ettlichs werck brünnet/es ly\nder ein ſchade oder wüſtigüg/er wirt aber ſålig/doch alſo\nals durch das fhür.",
         "b": "er empfacht die belonung: ob etlichs werck brünnet/ es lydet ein ſchadẽ od\nwuͤſtigũg/ er wirt aber ſaͤlig/",
-        "similarity": 0.4286,
-        "semantic": 0.5443,
-        "reading": "different"
+        "similarity": 0.4286
       },
       {
         "op": "match",
         "a": "Paulus ſagt hie nit/vonn dem fhür\ndiſer welt/dann es iſt nit heylſam/noch von dem fhür d\nhellen/dann das ſelbig iſt ewig.",
         "b": "doch alſo/ als durch\ndas fhüͤr. Paulus ſagt hie nit von dem fhüͤr di\nſer welt: Dann es iſt nit heylſam/",
-        "similarity": 0.4583,
-        "semantic": 0.9098,
-        "reading": "reworded"
+        "similarity": 0.4583
       },
       {
         "op": "only_b",
@@ -91,17 +81,13 @@
         "op": "match",
         "a": "Berchtoldus Haller. DEr heylig Paulus redt hie/von der bewårung\nder leer/vnd nit vom fåghür: das iſt nit vnſer\ngloß/ſonder die warheit der worten Pauli ſelbs\nEr verwirfft den Corinthieren die Secten/das einer ſich\nCephe/der ander Pauli/der dryt Apollo Berümbt/",
         "b": "vnd nit vom faͤgfhüͤr: das iſt nit\nvnſer gloß/ ſonder die warheit der worten Pau\nli ſelbs. Er verwyßt den Corinthern die Sectẽ/",
-        "similarity": 0.4857,
-        "semantic": 0.7426,
-        "reading": "reworded"
+        "similarity": 0.4857
       },
       {
         "op": "match",
         "a": "Wer iſt Paulus (ſpricht er) wer iſt Apollo Diener ſind\nſy/durch welich jr ſind glöübig wordenñ/vnnd daſſelb\nwie der herr einem jeden geben hat.",
         "b": "das einer ſich Cephe/ der ander Pauli/ der dritt\nApollo beruͤmpt. Waͤr iſt Paulus (ſpricht er)\nwaͤr iſt Apollo? Diener ſind ſy/ durch wellich jr\n\tHh",
-        "similarity": 0.4,
-        "semantic": 0.8776,
-        "reading": "reworded"
+        "similarity": 0.4
       },
       {
         "op": "only_a",
@@ -109,15 +95,10 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7658,
-    "reworded": 5,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.6067,
+    "similarity": 0.6109,
     "words": {
       "a": 244,
       "b": 234
@@ -180,18 +161,8 @@
       },
       {
         "op": "equal",
-        "a": "werden",
-        "b": "werden"
-      },
-      {
-        "op": "replace",
-        "a": "dann",
-        "b": "dañ"
-      },
-      {
-        "op": "equal",
-        "a": "allein das",
-        "b": "allein das"
+        "a": "werden dann allein das",
+        "b": "werden dañ allein das"
       },
       {
         "op": "replace",
@@ -559,7 +530,7 @@
         "b": "Hh"
       }
     ],
-    "ops": 44,
+    "ops": 43,
     "truncated": false
   }
 }

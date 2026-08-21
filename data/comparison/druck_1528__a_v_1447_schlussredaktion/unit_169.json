@@ -8,7 +8,7 @@
       299
     ]
   },
-  "alignment_score": 0.2379,
+  "alignment_score": 0.2711,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -80,7 +80,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4896,
+    "similarity": 0.5358,
     "words": {
       "a": 232,
       "b": 201
@@ -93,18 +93,8 @@
       },
       {
         "op": "equal",
-        "a": "in statt",
-        "b": "In Statt"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "und"
-      },
-      {
-        "op": "equal",
-        "a": "land ouch die",
-        "b": "land Ouch die"
+        "a": "in statt vñ land ouch die",
+        "b": "In Statt und land Ouch die"
       },
       {
         "op": "replace",
@@ -243,18 +233,8 @@
       },
       {
         "op": "equal",
-        "a": "beraten",
-        "b": "beraten"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "zwen",
-        "b": "zwen"
+        "a": "beraten vñ zwen",
+        "b": "beraten vnd zwen"
       },
       {
         "op": "replace",
@@ -328,8 +308,38 @@
       },
       {
         "op": "replace",
-        "a": "bera ten vñ beholffen sin vñ barfür bringē wz",
-        "b": "beraten vnd beholfen gnu vnd harfur bringen was"
+        "a": "bera ten",
+        "b": "beraten"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "beholffen sin",
+        "b": "beholfen gnu"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "barfür",
+        "b": "harfur"
+      },
+      {
+        "op": "equal",
+        "a": "bringē",
+        "b": "bringen"
+      },
+      {
+        "op": "replace",
+        "a": "wz",
+        "b": "was"
       },
       {
         "op": "equal",
@@ -368,8 +378,28 @@
       },
       {
         "op": "replace",
-        "a": "pfarrer vñ seelsorger vō statt",
-        "b": "far rer vnd Celsorger von Aatt"
+        "a": "pfarrer",
+        "b": "far rer"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "seelsorger",
+        "b": "Celsorger"
+      },
+      {
+        "op": "equal",
+        "a": "vō",
+        "b": "von"
+      },
+      {
+        "op": "replace",
+        "a": "statt",
+        "b": "Aatt"
       },
       {
         "op": "equal",
@@ -403,18 +433,8 @@
       },
       {
         "op": "equal",
-        "a": "hie",
-        "b": "hie"
-      },
-      {
-        "op": "replace",
-        "a": "verharrē",
-        "b": "verharren"
-      },
-      {
-        "op": "equal",
-        "a": "vnd",
-        "b": "vnd"
+        "a": "hie verharrē vnd",
+        "b": "hie verharren vnd"
       },
       {
         "op": "replace",
@@ -523,18 +543,8 @@
       },
       {
         "op": "equal",
-        "a": "die",
-        "b": "die"
-      },
-      {
-        "op": "replace",
-        "a": "fürgetragnē",
-        "b": "fürgetragnen"
-      },
-      {
-        "op": "equal",
-        "a": "artickel durch",
-        "b": "Artickel durch"
+        "a": "die fürgetragnē artickel durch",
+        "b": "die fürgetragnen Artickel durch"
       },
       {
         "op": "replace",
@@ -563,13 +573,13 @@
       },
       {
         "op": "equal",
-        "a": "erhalten",
-        "b": "erhalten"
+        "a": "erhalten werdē",
+        "b": "erhalten werden"
       },
       {
         "op": "replace",
-        "a": "werdē sun der",
-        "b": "werden Omuer"
+        "a": "sun der",
+        "b": "Omuer"
       },
       {
         "op": "equal",
@@ -612,7 +622,7 @@
         "b": "Schrifft bestanden oder Ir widerspracht"
       }
     ],
-    "ops": 53,
+    "ops": 54,
     "truncated": false
   }
 }

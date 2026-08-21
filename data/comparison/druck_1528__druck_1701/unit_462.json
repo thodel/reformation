@@ -8,7 +8,7 @@
       479
     ]
   },
-  "alignment_score": 0.2,
+  "alignment_score": 0.2345,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -27,65 +27,49 @@
     "matched": 5,
     "only_a": 2,
     "only_b": 5,
-    "similarity": 0.4823,
+    "similarity": 0.5239,
     "pairs": [
       {
         "op": "only_a",
         "a": "**Schlußred.**\nschirmpt ōne Gottes wort. So volget/das sich der Pfarrer von Appen\nzell/nit der Kilchen vnderwirfft/die sich gottes wort halt.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.709,
-        "semantic_match": "Cap. Diewyl dann die Geſchrifft\nehelichen Stand niemand verbůtt/niemand vßnimt/daß\nMmm iij                    die",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "**Theobaldus Huͤter.**\nIch laß es blyben/wie vor dargerhan. **Die nuͤnde Schlußred.**\nDie heilig Ee/ist keinem stand verbot\nten in der geschrifft/sunders huͤry vñ vn\nkuͤnscheit zuͦ vermiden/allen stände botte.",
         "b": "Die Nůndte Schlußred. 463\n\nDie Nůndte Schlußred. Die heilig Ehe iſt keinem Stand verbotten in der Ge=\nſchrifft / ſonders / Hůrey und Unkůſchheit zů vermy=\nden /",
-        "similarity": 0.3226,
-        "semantic": 0.729,
-        "reading": "reworded"
+        "similarity": 0.3548
       },
       {
         "op": "match",
         "a": "**Berchtoldus Haller.**\nDie Schlußred/ist\nso heiter vñ klar in Gottes\nwort/das sy nit vil vñ lan=\nger red bedarff.",
         "b": "allen Stånden botten. Berchtoldus Haller. DIſe Schlußred iſt ſo heiter und klar in Gottes\nWort / daß ſy nit vil und langer Red bedarff.",
-        "similarity": 0.6818,
-        "semantic": 0.6132,
-        "reading": "same"
+        "similarity": 0.7727
       },
       {
         "op": "match",
         "a": "Allen Chri=\nsten ist zuͦ wüssenn/das der\nEelich stand/von Gott yn=\ngesetzt ist/Genesis.j. vñ.ij. vñ daruon niemand vßge\nnomen wirt:",
         "b": "Allen Chriſten iſt zů wiſſen / daß der Ehelich\nStand von Gott yngeſetzt iſt / Geneſis I. und\n2. und darvon niemand vßgenommen wird :",
-        "similarity": 0.5106,
-        "semantic": 0.5177,
-        "reading": "check"
+        "similarity": 0.5957
       },
       {
         "op": "match",
         "a": "dann die Chri=\nstus (Mathei xix. vßnimpt/ Naͤlich die da vntougenlich\nsind zuͦ der Ee/also von muͦter lyb geboren:",
         "b": "dann die\nChriſtus Matthei am 19. vßnimt / namlich die da untu=\ngenlich ſind zů der Ehe/ alſo von Můtter Lyb gebohren :",
-        "similarity": 0.4651,
-        "semantic": 0.3342,
-        "reading": "different"
+        "similarity": 0.4651
       },
       {
         "op": "match",
         "a": "etlich vonn\nden menschen verschnitten/etlich die sich selbs verschnit\nten haben vmb des Rych Gottes willen. So volget vß\nnoten/das nieman die Ee verbotten mag werde.",
         "b": "et=\nlich von den Menſchen verſchnitten / etlich die ſich ſelbs\nverſchnitten haben um deß Rychs Gottes willen. So fol=\nget von noͤhten /",
-        "similarity": 0.4314,
-        "semantic": 0.7492,
-        "reading": "reworded"
+        "similarity": 0.4314
       },
       {
         "op": "only_a",
         "a": "San̄\ndas wort/Kuͤnsch sin/vñ one Ee laͤben/fasset nit yeder=\nZ ll",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6874,
-        "semantic_match": "eines Wybs Mann/ ꝛc. der ſynem eignen Huß wol fůr=\nſtande : der gehorſame Kinder habe / mit aller Redlichkeit : Alſo auch ad Titum I.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -117,15 +101,10 @@
         "b": "Cap. Diewyl dann die Geſchrifft\nehelichen Stand niemand verbůtt/niemand vßnimt/daß\nMmm iij                    die",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.62,
-    "reworded": 2,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.3427,
+    "similarity": 0.3734,
     "words": {
       "a": 173,
       "b": 218
@@ -183,8 +162,18 @@
       },
       {
         "op": "replace",
-        "a": "geschrifft sunders hu ry vñ vn ku nscheit",
-        "b": "Ge ſchrifft ſonders Hůrey und Unkůſchheit"
+        "a": "geschrifft sunders hu ry",
+        "b": "Ge ſchrifft ſonders Hůrey"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "und"
+      },
+      {
+        "op": "replace",
+        "a": "vn ku nscheit",
+        "b": "Unkůſchheit"
       },
       {
         "op": "equal",
@@ -218,18 +207,8 @@
       },
       {
         "op": "equal",
-        "a": "Schlußred ist so heiter",
-        "b": "Schlußred iſt ſo heiter"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "und"
-      },
-      {
-        "op": "equal",
-        "a": "klar in Gottes wort",
-        "b": "klar in Gottes Wort"
+        "a": "Schlußred ist so heiter vñ klar in Gottes wort",
+        "b": "Schlußred iſt ſo heiter und klar in Gottes Wort"
       },
       {
         "op": "replace",
@@ -238,13 +217,13 @@
       },
       {
         "op": "equal",
-        "a": "sy nit vil",
-        "b": "ſy nit vil"
+        "a": "sy nit vil vñ",
+        "b": "ſy nit vil und"
       },
       {
         "op": "replace",
-        "a": "vñ lan ger",
-        "b": "und langer"
+        "a": "lan ger",
+        "b": "langer"
       },
       {
         "op": "equal",
@@ -288,18 +267,18 @@
       },
       {
         "op": "equal",
-        "a": "ist Genesis j",
-        "b": "iſt Geneſis I"
+        "a": "ist Genesis j vñ",
+        "b": "iſt Geneſis I und"
       },
       {
         "op": "replace",
-        "a": "vñ ij vñ",
-        "b": "und 2 und"
+        "a": "ij",
+        "b": "2"
       },
       {
         "op": "equal",
-        "a": "daruon niemand",
-        "b": "darvon niemand"
+        "a": "vñ daruon niemand",
+        "b": "und darvon niemand"
       },
       {
         "op": "replace",
@@ -413,8 +392,18 @@
       },
       {
         "op": "replace",
-        "a": "Ku nsch sin vñ one Ee la ben",
-        "b": "Kůnſch ſyn und ohne Ehe leben"
+        "a": "Ku nsch sin",
+        "b": "Kůnſch ſyn"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "und"
+      },
+      {
+        "op": "replace",
+        "a": "one Ee la ben",
+        "b": "ohne Ehe leben"
       },
       {
         "op": "equal",
@@ -427,7 +416,7 @@
         "b": "jederman ſonder denen es geben iſt Dannenhar auch Paulus ſpricht in der erſten an die Corinther am 7 Von Jungfrauen hab ich kein Gebott deß Herren wer wil dann ohne Ehe zů leben gebieten Alſo auch Paulus 1 Timoth am 3 Es ſoll ein Biſchoff unſtråfflich ſyn eines Wybs Mann ꝛc der ſynem eignen Huß wol fůr ſtande der gehorſame Kinder habe mit aller Redlichkeit Alſo auch ad Titum I Cap Diewyl dann die Geſchrifft ehelichen Stand niemand verbůtt niemand vßnimt daß Mmm iij die"
       }
     ],
-    "ops": 30,
+    "ops": 31,
     "truncated": false
   }
 }

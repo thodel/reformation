@@ -8,7 +8,7 @@
       290
     ]
   },
-  "alignment_score": 0.3478,
+  "alignment_score": 0.3889,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 2,
     "only_b": 4,
-    "similarity": 0.5439,
+    "similarity": 0.5805,
     "pairs": [
       {
         "op": "only_b",
@@ -51,33 +51,25 @@
         "op": "match",
         "a": "Seite [IIVXO]\nDie vierdt\nLuca: Das iſt min lyb/der für üch geben wirt. Der zů-\nſatz by dem Euangeliſten/",
         "b": "Das iſt min Lyb/ der fuͤr uͤch geben wirt. Der Zuͦſatz by dem Euangeliſten/ gibt einem jeden der da gern ein Bericht empfachen wil/",
-        "similarity": 0.5532,
-        "semantic": 0.6315,
-        "reading": "same"
+        "similarity": 0.5532
       },
       {
         "op": "match",
         "a": "gibt einem yeden der da gern\nein bericht empfachen wil/ ein klaren verſtand/ vñ fürr\ndahin/das wir dz Brot für ein Sacramēt erkennē müſ-\nſen/des lybs Chriſti/in tod für vns geben.",
         "b": "ein klaren verſtand/ vnd fuͤrt dahin/ daß wir das Brot fuͤr\nein Sacrament erkennen muͤſſen/ deß Lybs Chriſti/",
-        "similarity": 0.3273,
-        "semantic": 0.7821,
-        "reading": "reworded"
+        "similarity": 0.4364
       },
       {
         "op": "match",
         "a": "Soch wil ich\nhoͤren/vff welchem wort Matthei/oder Luce/min herr\nPfarrer hafften well/vnd ſich daruff laſſen well.",
         "b": "in Tod\nfuͤr vns geben. Doch wil ich hoͤren/ vff welchem wort\nMatthei/ oder Luce/ min Herz Pfarrer hafften well/",
-        "similarity": 0.6512,
-        "semantic": 0.9279,
-        "reading": "same"
+        "similarity": 0.6512
       },
       {
         "op": "match",
         "a": "Pfarrer von Sant gallen+\nVff den erſten fürtrag mins herrn Doctors/war\num̃ ich ſchüchen trag vom wort/Sacrament/ erkennend alle Chriſtenliche gelerte͂/das wort/",
         "b": "vnnd\nſich daruff laſſen well. Pfarrer von Sant Gallen. VFf den erſten fuͤrtrag mins Herrn Doctors / wa-\nrumb ich ſchuͤchen trag vom wort Sacrament/",
-        "similarity": 0.5882,
-        "semantic": 0.9057,
-        "reading": "same"
+        "similarity": 0.5882
       },
       {
         "op": "only_b",
@@ -89,25 +81,19 @@
         "op": "match",
         "a": "Sacramet/die wort des nachtmals/weder klarer oder\ndůnckler machend. Den rechtē namen aber/wie es ouch\nder Paulus nempt/ſol es heiſſen Communio/das iſt gemein=\nſchafft/wie es ouch etwan die alten geheiſſen habē:",
         "b": "wie es ouch\nder Paulus nempt/ ſol es heiſſen Communio, das iſt Ge-\nmeinſchafft / wie es ouch ettwan die Alten geheiſſen haben:",
-        "similarity": 0.6207,
-        "semantic": 0.5491,
-        "reading": "check"
+        "similarity": 0.6552
       },
       {
         "op": "match",
         "a": "aber\nob den worte͂/wie es geheiſſen werd/wil ich mich indhein\nwortſtryt geben/allein vff dz die wort den vſtād vñ ſin/",
         "b": "aber ob den worten / wie es geheiſſen werd/ wil ich mich in\nkein wortſtrit geben/ allein vff das die wort den verſtand\nvnd ſinn/",
-        "similarity": 0.6809,
-        "semantic": 0.58,
-        "reading": "check"
+        "similarity": 0.7234
       },
       {
         "op": "match",
         "a": "als ſy lutent/mitbringent: dañ wol erkenn ich/min herr\nDoctor/vñ alle ſin glychuerſtendig/die Sacrament nit\nwellend zů vneeren/welche oberſte eer vnd vererung/ich\nmermal in ſinen vßgangne bůcheren/ſo er jnen gibt/gelä\nſen hab.",
         "b": "als ſy lutent / mitbringend : dann wol erken ich/ min Herz Doctor / vnd alle ſin glychverſtendig / die Sa-\ncrament",
-        "similarity": 0.386,
-        "semantic": 0.7934,
-        "reading": "reworded"
+        "similarity": 0.4561
       },
       {
         "op": "only_a",
@@ -119,20 +105,12 @@
         "op": "only_a",
         "a": "Wyters fürt yn\nmin herr Doctor/das Teſtament in verzychůg der ſůn\nden/ſye allein im tod vñ ſterben Chriſti verſichert: wirt\njm",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.627,
-        "semantic_match": "er-\nkennen alle Chriſtenliche Geleerten/ das wort Sa-\ncrament / die wort deß Nachtmals / weder klarer oder\nduͤnckler machend. Den rechten namen aber/",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7246,
-    "reworded": 2,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4815,
+    "similarity": 0.5111,
     "words": {
       "a": 286,
       "b": 254
@@ -175,13 +153,13 @@
       },
       {
         "op": "equal",
-        "a": "der da gern ein bericht empfachen wil ein klaren verſtand",
-        "b": "der da gern ein Bericht empfachen wil ein klaren verſtand"
+        "a": "der da gern ein bericht empfachen wil ein klaren verſtand vñ",
+        "b": "der da gern ein Bericht empfachen wil ein klaren verſtand vnd"
       },
       {
         "op": "replace",
-        "a": "vñ fürr",
-        "b": "vnd fu rt"
+        "a": "fürr",
+        "b": "fu rt"
       },
       {
         "op": "equal",
@@ -215,13 +193,13 @@
       },
       {
         "op": "equal",
-        "a": "ein",
-        "b": "ein"
+        "a": "ein Sacramēt erkennē",
+        "b": "ein Sacrament erkennen"
       },
       {
         "op": "replace",
-        "a": "Sacramēt erkennē müſ ſen des",
-        "b": "Sacrament erkennen mu ſſen deß"
+        "a": "müſ ſen des",
+        "b": "mu ſſen deß"
       },
       {
         "op": "equal",
@@ -345,18 +323,8 @@
       },
       {
         "op": "equal",
-        "a": "machend Den",
-        "b": "machend Den"
-      },
-      {
-        "op": "replace",
-        "a": "rechtē",
-        "b": "rechten"
-      },
-      {
-        "op": "equal",
-        "a": "namen aber wie es ouch der Paulus nempt ſol es heiſſen Communio das iſt",
-        "b": "namen aber wie es ouch der Paulus nempt ſol es heiſſen Communio das iſt"
+        "a": "machend Den rechtē namen aber wie es ouch der Paulus nempt ſol es heiſſen Communio das iſt",
+        "b": "machend Den rechten namen aber wie es ouch der Paulus nempt ſol es heiſſen Communio das iſt"
       },
       {
         "op": "replace",
@@ -375,18 +343,8 @@
       },
       {
         "op": "equal",
-        "a": "die alten geheiſſen",
-        "b": "die Alten geheiſſen"
-      },
-      {
-        "op": "replace",
-        "a": "habē",
-        "b": "haben"
-      },
-      {
-        "op": "equal",
-        "a": "aber ob den",
-        "b": "aber ob den"
+        "a": "die alten geheiſſen habē aber ob den",
+        "b": "die Alten geheiſſen haben aber ob den"
       },
       {
         "op": "replace",
@@ -420,8 +378,18 @@
       },
       {
         "op": "replace",
-        "a": "vſtād vñ ſin",
-        "b": "verſtand vnd ſinn"
+        "a": "vſtād",
+        "b": "verſtand"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "ſin",
+        "b": "ſinn"
       },
       {
         "op": "equal",
@@ -430,13 +398,13 @@
       },
       {
         "op": "replace",
-        "a": "mitbringent dañ",
-        "b": "mitbringend dann"
+        "a": "mitbringent",
+        "b": "mitbringend"
       },
       {
         "op": "equal",
-        "a": "wol",
-        "b": "wol"
+        "a": "dañ wol",
+        "b": "dann wol"
       },
       {
         "op": "replace",
@@ -455,18 +423,8 @@
       },
       {
         "op": "equal",
-        "a": "Doctor",
-        "b": "Doctor"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "alle ſin glychuerſtendig die",
-        "b": "alle ſin glychverſtendig die"
+        "a": "Doctor vñ alle ſin glychuerſtendig die",
+        "b": "Doctor vnd alle ſin glychverſtendig die"
       },
       {
         "op": "replace",
@@ -474,7 +432,7 @@
         "b": "Sa crament"
       }
     ],
-    "ops": 34,
+    "ops": 32,
     "truncated": false
   }
 }

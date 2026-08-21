@@ -8,7 +8,7 @@
       315
     ]
   },
-  "alignment_score": 0.3333,
+  "alignment_score": 0.3892,
   "coarse": {
     "paragraphs": {
       "a": 7,
@@ -27,50 +27,37 @@
     "matched": 3,
     "only_a": 3,
     "only_b": 4,
-    "similarity": 0.491,
+    "similarity": 0.52,
     "pairs": [
       {
         "op": "only_a",
         "a": "**Die vierdt**\n\nzů der sach reden / wider den mißuerstand vnser widersächer/vnnd sag also erstlich/so veer sy mit dem ort des\nkrancken wybs.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8017,
-        "semantic_match": "die vns heyſſen oder anmůtend/ das wir\nglouben ſöllend oder müſſen/ das hie ſin fleyſch\nvnd blůt lyblich vnd wåſenlich geeſſen werd.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Luc. am viij. Cap. Vnd mit dem ort der\nsendung des heyligen geysts da fürin zungen gewesenn\nsind / in den geschichten der Apostel am .",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7101,
-        "semantic_match": "Pfarrer von Sant Gallen. Vff erfordrūg Meiſter Vlrichs/laß ich nach/ das allen worten Gottes gloubt werden ſölle/ vnd das mit rechter vßlegung vñ verglychung\nder ſchrifft/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "ij Capitel nitt\nvermeinend jr Synecdochen bewert haben. Den wil ich wyter zů jrem fürtrag reden. **Pfarrer von sant Gallen**\n\nVff den fürtrag mins lieben herrn brůders /",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7461,
-        "semantic_match": "Pfarrer von Sant Gallen. Vff erfordrūg Meiſter Vlrichs/laß ich nach/ das allen worten Gottes gloubt werden ſölle/ vnd das mit rechter vßlegung vñ verglychung\nder ſchrifft/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "hab\nich hüt mermals geantwurt / vnd ist darumb in\ndie fäder verfasset/darby laß ichs beliben. Den\nspruch vonn dem glouben des fröuwlins.",
         "b": "Schlußred. CXLV\nPfarrer von ſant Gallen. Vff den fürtrag mins lieben herren brůders/ hab ich hütt mermals geantwurt/ vñ iſt darum̃\nin die fåder verfaſſet/darby laß ichs blybē.",
-        "similarity": 0.4615,
-        "semantic": 0.5074,
-        "reading": "different"
+        "similarity": 0.5
       },
       {
         "op": "match",
         "a": "Luce am viij. Cap. verston ich ein ergebung vnsers hertzens mit hertzlichem vertruwen in Christum/vß aller siner worten. **Meister Vlrich Zwingli.+**\n\nSo veerer das vertruwen aller worten Christi\nalso verstat.",
         "b": "Den\nſpruch von dem gloubē des fröwlins/Luce am\nviij. ca. verſtan ich ein ergebung vnſers hertzēs\nmit hertzlichem vertruwen in Chriſtum/vnd al=\nler ſiner worten.",
-        "similarity": 0.4828,
-        "semantic": 0.8394,
-        "reading": "reworded"
+        "similarity": 0.5172
       },
       {
         "op": "only_b",
@@ -82,9 +69,7 @@
         "op": "match",
         "a": "Das alle wort Christi Jesu vonn\nden glöubigē waar sin/gloubt werden/nach warem verstand/der vß sinen worten worte gezwungē wirt\nlaß ich das nach/so veer er aber mit den worte vermeinete/das man glouben můßte/das hie das fleysch vñ blůt\nChristi/wäsenlich/lyblich im Sacramēt můßte geessen\nwerden/so eruordern ich jnn/das er wort Christi anzeyge/die vns heyssen oder anmůten/das wir glouben sollen\noder můssen/das hie syn fleysch vnnd blůt lyblich vnnd\nwäsenlich geessen werd. Pfarrer",
         "b": "gloubt werdenn/ nach\nwarem verſtand/der vß ſinen waren worten ge\nzwungen wirt/laß ich das nach. So veer er aber\nmit den wortē vermeinte/das man gloubē můß\nte/das hie das fleyſch vnnd blůt Chriſti/wåſen=\nlich/lyblich im Sacrament můſte geeſſen wer=\nden So eruodrē ich jn/das er wort Chriſti an=\nzeygte/",
-        "similarity": 0.5286,
-        "semantic": 0.9482,
-        "reading": "same"
+        "similarity": 0.5429
       },
       {
         "op": "only_b",
@@ -104,15 +89,10 @@
         "b": "dann mengs wort in der gſchrifft/ der geſtalt lutet/ wo es mit einem andren wort\nnit erklårt wirt/ trůg es mit jm ein vngeſchicktē\nſinn. Das aber ich ſölle ſchrifft bringen/in wel=\nt",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7588,
-    "reworded": 1,
-    "candidates": 3,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5093,
+    "similarity": 0.5324,
     "words": {
       "a": 213,
       "b": 219
@@ -145,18 +125,8 @@
       },
       {
         "op": "equal",
-        "a": "mermals geantwurt",
-        "b": "mermals geantwurt"
-      },
-      {
-        "op": "replace",
-        "a": "vnd",
-        "b": "vñ"
-      },
-      {
-        "op": "equal",
-        "a": "ist",
-        "b": "iſt"
+        "a": "mermals geantwurt vnd ist",
+        "b": "mermals geantwurt vñ iſt"
       },
       {
         "op": "replace",
@@ -185,18 +155,8 @@
       },
       {
         "op": "equal",
-        "a": "dem",
-        "b": "dem"
-      },
-      {
-        "op": "replace",
-        "a": "glouben",
-        "b": "gloubē"
-      },
-      {
-        "op": "equal",
-        "a": "des",
-        "b": "des"
+        "a": "dem glouben des",
+        "b": "dem gloubē des"
       },
       {
         "op": "replace",
@@ -215,18 +175,8 @@
       },
       {
         "op": "equal",
-        "a": "ich ein ergebung vnsers",
-        "b": "ich ein ergebung vnſers"
-      },
-      {
-        "op": "replace",
-        "a": "hertzens",
-        "b": "hertzēs"
-      },
-      {
-        "op": "equal",
-        "a": "mit hertzlichem vertruwen in Christum",
-        "b": "mit hertzlichem vertruwen in Chriſtum"
+        "a": "ich ein ergebung vnsers hertzens mit hertzlichem vertruwen in Christum",
+        "b": "ich ein ergebung vnſers hertzēs mit hertzlichem vertruwen in Chriſtum"
       },
       {
         "op": "replace",
@@ -295,18 +245,8 @@
       },
       {
         "op": "equal",
-        "a": "den",
-        "b": "den"
-      },
-      {
-        "op": "replace",
-        "a": "glöubigē",
-        "b": "glöubigen"
-      },
-      {
-        "op": "equal",
-        "a": "waar sin gloubt",
-        "b": "waar ſin gloubt"
+        "a": "den glöubigē waar sin gloubt",
+        "b": "den glöubigen waar ſin gloubt"
       },
       {
         "op": "replace",
@@ -335,23 +275,23 @@
       },
       {
         "op": "equal",
-        "a": "wirt laß ich das nach so veer er aber mit den worte",
-        "b": "wirt laß ich das nach So veer er aber mit den wortē"
+        "a": "wirt laß ich das nach so veer er aber mit den",
+        "b": "wirt laß ich das nach So veer er aber mit den"
       },
       {
         "op": "replace",
-        "a": "vermeinete",
-        "b": "vermeinte"
+        "a": "worte vermeinete",
+        "b": "wortē vermeinte"
       },
       {
         "op": "equal",
-        "a": "das man",
-        "b": "das man"
+        "a": "das man glouben",
+        "b": "das man gloubē"
       },
       {
         "op": "replace",
-        "a": "glouben můßte",
-        "b": "gloubē můß te"
+        "a": "můßte",
+        "b": "můß te"
       },
       {
         "op": "equal",
@@ -375,13 +315,13 @@
       },
       {
         "op": "equal",
-        "a": "lyblich im",
-        "b": "lyblich im"
+        "a": "lyblich im Sacramēt",
+        "b": "lyblich im Sacrament"
       },
       {
         "op": "replace",
-        "a": "Sacramēt můßte",
-        "b": "Sacrament můſte"
+        "a": "můßte",
+        "b": "můſte"
       },
       {
         "op": "equal",
@@ -484,7 +424,7 @@
         "b": "von Sant Gallen Vff erfordrūg Meiſter Vlrichs laß ich nach das allen worten Gottes gloubt werden ſölle vnd das mit rechter vßlegung vñ verglychung der ſchrifft dann mengs wort in der gſchrifft der geſtalt lutet wo es mit einem andren wort nit erklårt wirt trůg es mit jm ein vngeſchicktē ſinn Das aber ich ſölle ſchrifft bringen in wel t"
       }
     ],
-    "ops": 37,
+    "ops": 33,
     "truncated": false
   }
 }

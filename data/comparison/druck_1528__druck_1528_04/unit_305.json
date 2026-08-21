@@ -8,7 +8,7 @@
       351
     ]
   },
-  "alignment_score": 0.3705,
+  "alignment_score": 0.3695,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 5,
     "only_b": 6,
-    "similarity": 0.5721,
+    "similarity": 0.5799,
     "pairs": [
       {
         "op": "only_b",
@@ -57,50 +57,37 @@
         "op": "match",
         "a": "Schlußred\nhabed/Es waͤr sunst manchem übel gesagt/der ſöliches\ntrosts beroubt waͤre. Das sol ouch hie vermerckt wer=\nden/das vnsere ſünd vnns vergeben sind/als das blüt\nChristi am crütz vßgossen:",
         "b": "Es wår\nsunst manchem übel gesagt/der sölichs trosts be\nroubt wåre. Das sol ouch hie vermerckt werdē/ das vnsere sünd vns vergeben sind/",
-        "similarity": 0.5763,
-        "semantic": 0.9196,
-        "reading": "same"
+        "similarity": 0.5763
       },
       {
         "op": "match",
         "a": "vnd dahin sol sich vnser gloub\nwenden. Wir wüssend wol/daß das blüt vnsers Her=\nren Jhesu Christi wirdig ist/ouch da Christus noch ein\nkind was/vnd beschnitten ward.",
         "b": "als dz blůt\nChristi am crütz vergoſſenn : vnd dahin sol sich\nvnser gloub wenden. Wir wuſſennd wol/daß\ndas blůt vnsers Herren Jesu Christi wirdig ist/",
-        "similarity": 0.5714,
-        "semantic": 0.9256,
-        "reading": "same"
+        "similarity": 0.5714
       },
       {
         "op": "match",
         "a": "Aber das blüt vergies\nsen Christi in siner kindtheyt/in der Bschnydung/ist nit\ndahin verordnet worden/vnser conscientz gar zů versi=\ncheren.",
         "b": "ouch da Christus noch ein kind was/vnd besch=\nnitten ward. Aber das blůt vergieſen Christi in\nsiner kindtheit/in der Bſchnydung/ist nit dahin\nverordnet worden/",
-        "similarity": 0.56,
-        "semantic": 0.8563,
-        "reading": "same"
+        "similarity": 0.56
       },
       {
         "op": "match",
         "a": "Also ouch in dem Nachtmal/ob schon das blüt da\nwaͤre wåsenlich (Das ich nit red) so ist es doch dahin nitt\nverordnet von Gott/sonder an dem crütz:",
         "b": "vnser conſcientz gar zů ver=\nsicheren. Also ouch in dem Nachtmal/ ob schon\ndas blůt da wåre wåsenlich ( das ich nit red ) ſo\nist es doch dahin nit verornet von Gott/",
-        "similarity": 0.7213,
-        "semantic": 0.8526,
-        "reading": "same"
+        "similarity": 0.7213
       },
       {
         "op": "match",
         "a": "dann wir ha=\nbend/Johannjs am dritten cap. da der Herr von dem\nGloubenn redt zů Nicodemo/Da bringt er yn die figur\ndes erhöchten Eͤrinen schlangen in der wůste:",
         "b": "sonder\nan dem crütz: Dañ wir habend Johannis am iij. capitel/ da der Herr von dem Glouben redt zů\nNicodemo/",
-        "similarity": 0.4314,
-        "semantic": 0.6539,
-        "reading": "reworded"
+        "similarity": 0.4706
       },
       {
         "op": "only_a",
         "a": "offenbaret\nvns da den heymlichen radt Gottes/wie durch dz wort\ndes crütz/wir das låben vnd erlösung erlangend. Dar=\nzů vil gschrifft gefürt möchten werden/als zun Colossen\nfern ij.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7681,
-        "semantic_match": "Aber die nachuolgende\nwort des Herren/ die erklårend das dem gehór\nder Apostel/verstentlich/das jnen vorhin etwas\ndünckler bedütet ward.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -118,19 +105,13 @@
         "op": "only_a",
         "a": "was trosts wir empfachen söllend von dem lyden vnsers\nHerren Jesu Christi. Vnd ist kein nüws/das man den\npundt od das Testament nempt/ein zeychẽ des punds/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8205,
-        "semantic_match": "Von ußteylung wågen\ndes verdiensts/des lyden vnsers Herrenn Jesu\nChristi/ ist jm vorhin gesagt/ das wir söllichs\nempfachend : nit allein in empfachung der Sa=\ncramenten/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "oder Testaments/wie dann das klarlich/Genesis xvij. capitel/schynbar ist: Vnd ich wird setzen min pundtnus\nDo",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6834,
-        "semantic_match": "Aber die nachuolgende\nwort des Herren/ die erklårend das dem gehór\nder Apostel/verstentlich/das jnen vorhin etwas\ndünckler bedütet ward.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -144,12 +125,7 @@
         "b": "wie durch\nx iij\n\n## Marginalien\nHieuor am\n142. 143. 161.blatt.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.81,
-    "reworded": 1,
-    "candidates": 3,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
     "similarity": 0.4534,
@@ -164,14 +140,14 @@
         "b": "Schlußred"
       },
       {
-        "op": "insert",
-        "a": "",
-        "b": "CLXIII nit die transsubstantiation mit den båpstleren die da sprechend Der herr hab nit die substantz des wyns dargereycht Aber die nachuolgende wort des Herren die erklårend das dem gehór der Apostel verstentlich das jnen vorhin etwas dünckler bedütet ward Von ußteylung wågen des verdiensts des lyden vnsers Herrenn Jesu Christi ist jm vorhin gesagt das wir söllichs empfachend nit allein in empfachung der Sa cramenten sonders ouch wie das Joannes am vj cap ußleyt Weñ wir durch den geyst Chri sti das vertruwen in Christum"
+        "op": "replace",
+        "a": "habed",
+        "b": "CLXIII nit die transsubstantiation mit den båpstleren die da sprechend Der herr hab nit die substantz des wyns dargereycht Aber die nachuolgende wort des Herren die erklårend das dem gehór der Apostel verstentlich das jnen vorhin etwas dünckler bedütet ward Von ußteylung wågen des verdiensts des lyden vnsers Herrenn Jesu Christi ist jm vorhin gesagt das wir söllichs empfachend nit allein in empfachung der Sa cramenten sonders ouch wie das Joannes am vj cap ußleyt Weñ wir durch den geyst Chri sti das vertruwen in Christum habēd"
       },
       {
         "op": "equal",
-        "a": "habed Es",
-        "b": "habēd Es"
+        "a": "Es",
+        "b": "Es"
       },
       {
         "op": "replace",
@@ -320,18 +296,8 @@
       },
       {
         "op": "equal",
-        "a": "von Gott sonder an dem crütz",
-        "b": "von Gott sonder an dem crütz"
-      },
-      {
-        "op": "replace",
-        "a": "dann",
-        "b": "Dañ"
-      },
-      {
-        "op": "equal",
-        "a": "wir",
-        "b": "wir"
+        "a": "von Gott sonder an dem crütz dann wir",
+        "b": "von Gott sonder an dem crütz Dañ wir"
       },
       {
         "op": "replace",
@@ -379,7 +345,7 @@
         "b": "x iij Marginalien Hieuor am 142 143 161 blatt"
       }
     ],
-    "ops": 22,
+    "ops": 21,
     "truncated": false
   }
 }

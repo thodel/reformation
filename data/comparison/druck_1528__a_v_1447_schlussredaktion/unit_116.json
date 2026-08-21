@@ -8,7 +8,7 @@
       216
     ]
   },
-  "alignment_score": 0.1709,
+  "alignment_score": 0.1624,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -110,7 +110,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3348,
+    "similarity": 0.3303,
     "words": {
       "a": 260,
       "b": 182
@@ -363,8 +363,18 @@
       },
       {
         "op": "equal",
-        "a": "von hertzen dañ er",
-        "b": "von Hertzen dan er"
+        "a": "von hertzen",
+        "b": "von Hertzen"
+      },
+      {
+        "op": "replace",
+        "a": "dañ",
+        "b": "dan"
+      },
+      {
+        "op": "equal",
+        "a": "er",
+        "b": "er"
       },
       {
         "op": "replace",
@@ -392,7 +402,7 @@
         "b": ""
       }
     ],
-    "ops": 28,
+    "ops": 29,
     "truncated": false
   }
 }

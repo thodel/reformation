@@ -8,7 +8,7 @@
       352
     ]
   },
-  "alignment_score": 0.2186,
+  "alignment_score": 0.2327,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 21,
-    "matched": 4,
-    "only_a": 7,
-    "only_b": 10,
-    "similarity": 0.4364,
+    "units": 19,
+    "matched": 6,
+    "only_a": 5,
+    "only_b": 8,
+    "similarity": 0.3999,
     "pairs": [
       {
         "op": "only_b",
@@ -75,26 +75,13 @@
         "op": "match",
         "a": "**Die vierdt**\n\nſprechende/ Saule Saule wʒ durchechtreſt mich. Welch\ner ſprach Herr wår biſt du/ aber er antwurt/ Jch bin Je\nſus den du durchechtreſt:",
         "b": "hoͤrt er ein Stimm / zů jhm sprechende: Saule / Saule/ was durchechtest mich? Welcher sprach / Herr / wer bist\ndu / aber er antwortet /",
-        "similarity": 0.4255,
-        "semantic": 0.7508,
-        "reading": "reworded"
+        "similarity": 0.4255
       },
       {
         "op": "match",
         "a": "da ſehend Chriſten/ wie der herr\nJeſus vor Damaſco by Paulo was/ vnd nüt deſtermins\nder geſeſſen iſt zů der gerechten Gottes ſyns vatters.",
         "b": "Jch bin Jesus / den du durchech-\ntest. Da sehend Christen / wie der Herr Jesus vor Da-\nmasco by Paulo was /",
-        "similarity": 0.5,
-        "semantic": 0.8611,
-        "reading": "same"
-      },
-      {
-        "op": "only_a",
-        "a": "Jtem j. zun Corinthiern am v v. Capi. Paulus ouch an=\nzeygt. Jtem den ſpruch (Darcz am viij. cap. So dañ et=\nwas üch wirdt ſagen/",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7126,
-        "semantic_match": "als wir ungezwysfelt glauben / syn Fleisch und Bluͤt zc. syn / sonder gaht vff die letste Zyt / in welcher der Herr sy\nwahrnet:",
-        "reading": "candidate"
+        "similarity": 0.5
       },
       {
         "op": "only_b",
@@ -103,50 +90,34 @@
         "similarity": 0.0
       },
       {
-        "op": "only_b",
-        "a": null,
+        "op": "match",
+        "a": "Jtem j. zun Corinthiern am v v. Capi. Paulus ouch an=\nzeygt. Jtem den ſpruch (Darcz am viij. cap. So dañ et=\nwas üch wirdt ſagen/",
         "b": "Capitel Paulus auch anzeigt. Jtem den Spruch Marci am 13. Capitel / So dann et-\nwar euch wird sagen: Hie ist Christus/dort ist er/soͤllend\njhrs nit glauben.",
-        "similarity": 0.0
+        "similarity": 0.3273
       },
       {
         "op": "match",
         "a": "hie iſt Chriſtus dort iſt er/ ſöllend\njeß nit glouben. Siſe wort wellend nit verſtanden wer=\nden von vnſerm Sacrament ſo wir ſagen/",
         "b": "Dise Wort woͤllend nit verstanden\nwerden von unserm Sacrament / so wir sagen / Christus\nist im Sacrament under der Gestalt Wyns und Brodts/",
-        "similarity": 0.3913,
-        "semantic": 0.8646,
-        "reading": "reworded"
+        "similarity": 0.3913
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "Chriſtus iſt\nim Sacrament/ vnder der geſtalt wyns vnd brots/ als\nwir vngezwyffelt glouben/ ſyn fleyſch vñ blůt zeſin/ ſon=\nder gar vff die letſte zyt/",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8275,
-        "semantic_match": "arguirt/ darum moͤg er nit\nim Sacrament syn: also Herr Marti Bußer heiter ge-\nsagt/ Christus moͤg nit zemal an zweyen Orten lyblich\nsyn /",
-        "reading": "candidate"
-      },
-      {
-        "op": "only_b",
-        "a": null,
         "b": "als wir ungezwysfelt glauben / syn Fleisch und Bluͤt zc. syn / sonder gaht vff die letste Zyt / in welcher der Herr sy\nwahrnet:",
-        "similarity": 0.0
+        "similarity": 0.3265
       },
       {
         "op": "match",
         "a": "in welcher der Herr ſy warnet. Es werden ſchwåre kůmbernus vnd trůbſal vfferſtan\ndie noch nie ſind geſin/ von anfang der welt/",
         "b": "Es werden schwaͤre Kuͤmmernus und Truͤb-\nsal vfferstahn / die noch nit gsyn von Anfang der Welt/ wie",
-        "similarity": 0.4286,
-        "semantic": 0.567,
-        "reading": "different"
+        "similarity": 0.4286
       },
       {
         "op": "only_a",
         "a": "wie dan̄ der\nText vor vnnd nach klarlich anzeygt/ das diſer ſpruch\nnit verſtande ſoll werdė geredt/ von diſem Sacrament\nlybs vnd blůts Chriſti.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8126,
-        "semantic_match": "als wir ungezwysfelt glauben / syn Fleisch und Bluͤt zc. syn / sonder gaht vff die letste Zyt / in welcher der Herr sy\nwahrnet:",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -158,38 +129,24 @@
         "op": "only_a",
         "a": "man ſölle Jſt\nverkern/ jn Bedůtet/ iſt nit alſo geredt/ ſonders Jſt wirt\ngenomen fůr bedůtet/ zeychnet/ oder wirdt gebrucht zů\ningedechtnus.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7063,
-        "semantic_match": "als wir ungezwysfelt glauben / syn Fleisch und Bluͤt zc. syn / sonder gaht vff die letste Zyt / in welcher der Herr sy\nwahrnet:",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Es můß ouch hierumb nit an allen orten/ Jſt/ fůr bedůtet genomen werden/ ſonder da vns die ge=\nchrifft vñ ånliche des gloubės darzů zwingt.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6919,
-        "semantic_match": "336      Die Vierdte Schlußred. tes deß Batters Allmaͤchtigẽ/ vermeynt damit/ er moͤg nit\nmehr by uns vff Erd lyblich syn/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Dʒ die Apo\nſtel vñ Euangeliſten nienen Bedůtet/ geſchribė habė/ iſt\nkein wunder/ wir habė vß der art jr ſprach gnůgſam",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8102,
-        "semantic_match": "als wir ungezwysfelt glauben / syn Fleisch und Bluͤt zc. syn / sonder gaht vff die letste Zyt / in welcher der Herr sy\nwahrnet:",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7605,
-    "reworded": 2,
-    "candidates": 6,
-    "recovered_by_embedding": 6,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.3163,
+    "similarity": 0.3234,
     "words": {
       "a": 261,
       "b": 308
@@ -372,18 +329,8 @@
       },
       {
         "op": "equal",
-        "a": "So",
-        "b": "So"
-      },
-      {
-        "op": "replace",
-        "a": "dañ",
-        "b": "dann"
-      },
-      {
-        "op": "equal",
-        "a": "et",
-        "b": "et"
+        "a": "So dañ et",
+        "b": "So dann et"
       },
       {
         "op": "replace",
@@ -457,8 +404,18 @@
       },
       {
         "op": "replace",
-        "a": "fleyſch vñ blůt zeſin ſon der gar",
-        "b": "Fleisch und Blu t zc syn sonder gaht"
+        "a": "fleyſch",
+        "b": "Fleisch"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "und"
+      },
+      {
+        "op": "replace",
+        "a": "blůt zeſin ſon der gar",
+        "b": "Blu t zc syn sonder gaht"
       },
       {
         "op": "equal",

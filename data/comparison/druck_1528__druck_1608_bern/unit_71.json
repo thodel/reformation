@@ -8,7 +8,7 @@
       92
     ]
   },
-  "alignment_score": 0.3268,
+  "alignment_score": 0.3366,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -33,19 +33,13 @@
         "op": "only_a",
         "a": "Schlußred. XXVIII\nvnnd das wyter anzeygt/wo der geyſtlich menſch alle\nding richtet/ſo wurde er die gſchrifft ouch richten/geben\nwir diſe anttwurt/dz die geſchrifft geyſtlich iſt/wie Pau-\nlus ſagt/dann das geſatz iſt geyſtlich/vnd der geyſtlich\nmenſch vrteylet alles der lyebenach/vß eim glouben/dz\niſt er vnderſcheidet/was gloub vnd lieb gemåß ſye.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6815,
-        "semantic_match": "60\tDie erſt\nzů leben / vnd wirt ein vſſerlich gemeind deßhalb genempt / das ſy durch den Geiſt zur lieb deß nechſtes vnd gloubens\nan Gott gefuͤrt wirt /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Zů\nletſt der die Kilch nitt hoͤzet/zc. Sagen wir das diſer\nſpruch von der ſonderen gmeind gottes redt/welche ſich\nbegeben hatt im wåg des abſterbens zů låben/vnd wirt\nein vſſerlich gemeind deßhalben genempt/das ſy durch\nden geyſt zur lieb des nechſtes vnnd gloubens an Gott ge\nfürt wirt/welche nůtzit thůt/dann das Chriſtus vorhin\nin jr würcket/vñ alſo als glider nach ynfluß des einigen\nhoupts handlet/vñ låßt ſton wie ouch gemeldet iſt/wie\ndem gerechtenn keyn geſatz ſye geſtelt/dann Paulus in\nvnſerem fürbrachten ort/nit vom gerechten vff ſölliche\nwyß/ſonders eygentlichen vonn dem geyſtlichen/das iſt\nvon dem Chriſten redet.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.876,
-        "semantic_match": "dar=\numb es dann von einer gemeiner Chriſtenlichen verſam=\nlung verſtanden wirt / dem ich keins waͤgs widerſpruch / ſon=\nders volgt daruß /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -75,9 +69,7 @@
         "op": "match",
         "a": "Doctor Cůnrad Treiger/ Prouincial. [F]amen frommen Chriſten/min herr Doctor\nwendt für/das diſer ſpruch Pauli: So er alſo\nſagt/den geyſtlichen richt niemands/er richt\naber alle ding/wie das ſöllichs ſöll verſtanden wer=\nden/vonn eynem yegklichen Chriſten/der da hatt den\ngeyſt des Herren empfangen/darumb es dann vonn\neyner gemeyner Chriſtenlichenn verſamlung verſtan=\nden wirde/dem ich dheins wågs widerſprich/ſonders",
         "b": "Prouincial. ERſamen frommen Chriſten / min Herr Doctor wend\nfuͤr / das diſer Spruch Pauli: So er alſo ſagt / den\ngeiſtlichen richt niemands /",
-        "similarity": 0.3864,
-        "semantic": 0.7825,
-        "reading": "reworded"
+        "similarity": 0.3864
       },
       {
         "op": "only_b",
@@ -115,15 +107,10 @@
         "b": "der\nda alle ding richt zů dem Glouben / vnd zů der Liebi / ſag ich\ndas",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.78,
-    "reworded": 1,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.396,
+    "similarity": 0.4,
     "words": {
       "a": 235,
       "b": 260
@@ -246,13 +233,13 @@
       },
       {
         "op": "equal",
-        "a": "einigen houpts handlet",
-        "b": "einigen Houpts handlet"
+        "a": "einigen houpts handlet vñ",
+        "b": "einigen Houpts handlet vnd"
       },
       {
         "op": "replace",
-        "a": "vñ låßt",
-        "b": "vnd la ßt"
+        "a": "låßt",
+        "b": "la ßt"
       },
       {
         "op": "equal",

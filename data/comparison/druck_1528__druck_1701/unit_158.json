@@ -8,7 +8,7 @@
       167
     ]
   },
-  "alignment_score": 0.375,
+  "alignment_score": 0.3899,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,24 +27,19 @@
     "matched": 2,
     "only_a": 2,
     "only_b": 11,
-    "similarity": 0.5148,
+    "similarity": 0.531,
     "pairs": [
       {
         "op": "only_a",
         "a": "Schlußred. LXXIII\n\nſonder/oder an das wort gottes/ſind vns von Chriſto\nverbotten/Matthei am xv. vnd ouch von Gott.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6126,
-        "semantic_match": "die von aller Welt woͤllen geachtet und genennet ſyn Våt-\nter in der Geiſtlichkeit / Meiſter und Richter uͤber das\nGoͤtlich Wort.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Eſaie\nam xxix. ſagt der herr alſo. Darumb das ſich das volck\nzů mir nahet/mich mit ſinem mund vnd låffzen zůlobet/",
         "b": "Die Ander Schlußred. 151\n\nthei am 15. und auch von Gott. Eſaje am 29. ſagt der Herz\nalſo: Darum daß ſich das Volck zü mir nahet /",
-        "similarity": 0.4167,
-        "semantic": 0.6293,
-        "reading": "reworded"
+        "similarity": 0.4167
       },
       {
         "op": "only_a",
@@ -86,9 +81,7 @@
         "op": "match",
         "a": "Deuteronomij am xij. Ja\nſo das/das wir hoch achten ein grůwel vor gott iſt. Luc. am xvj. So kan vñ mag ein yetlicher from̄er Chriſt er=\nmeſſen/von welcher Kilch oder verſamlung die ſeyen/die",
         "b": "ein Greuel vor Gott iſt. Luc. am 16. So kan und mag ein jeglicher frommer Chriſt er-\nmeſſen / von welcher Kilch oder Verſamlung die ſeyen /",
-        "similarity": 0.6129,
-        "semantic": 0.8236,
-        "reading": "same"
+        "similarity": 0.6452
       },
       {
         "op": "only_b",
@@ -126,15 +119,10 @@
         "b": "und Da-\nnielis am 8. und die zerſtreut mit den Ceremonien / damit\nſy deſterminder warnemmen / was daredte innerlich das\newig Wort mit ihnen. Es nemme lange Wyl zuͤ erzellen\nT iij\tdie",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6885,
-    "reworded": 1,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4108,
+    "similarity": 0.4232,
     "words": {
       "a": 173,
       "b": 309
@@ -297,13 +285,13 @@
       },
       {
         "op": "equal",
-        "a": "wunderbarlich",
-        "b": "wunderbarlich"
+        "a": "wunderbarlich vñ",
+        "b": "wunderbarlich und"
       },
       {
         "op": "replace",
-        "a": "vñ ſeltzå das",
-        "b": "und ſeltzam daß"
+        "a": "ſeltzå das",
+        "b": "ſeltzam daß"
       },
       {
         "op": "equal",
@@ -322,13 +310,13 @@
       },
       {
         "op": "replace",
-        "a": "faren vñ",
-        "b": "fahren und"
+        "a": "faren",
+        "b": "fahren"
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
+        "a": "vñ der",
+        "b": "und der"
       },
       {
         "op": "replace",
@@ -487,18 +475,8 @@
       },
       {
         "op": "equal",
-        "a": "So kan",
-        "b": "So kan"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "und"
-      },
-      {
-        "op": "equal",
-        "a": "mag ein",
-        "b": "mag ein"
+        "a": "So kan vñ mag ein",
+        "b": "So kan und mag ein"
       },
       {
         "op": "replace",
@@ -526,7 +504,7 @@
         "b": "von aller Welt wo llen geachtet und genennet ſyn Våt ter in der Geiſtlichkeit Meiſter und Richter u ber das Go tlich Wort Item die ſich angenommen haben dem Volck Gottes mit Tro wung ewiger Verdamnus zu ge bieten und zu verbieten die Ding die uns Gott weder gebotten noch verbotten hat Item die da wo llen haben daß man ihr Satzung ſtyffer halte dann Gottes Gebott ja daß man ſy in allen Dingen u beler fo rchte dann Gott Wer mag diſer mit ſynem Huffen anders ſyn dann der Greuel der ſich geſetzt hat an die ſtatt Gottes das iſt in der Chriſtgla ubigen Hertzen Matth am 24 und Da nielis am 8 und die zerſtreut mit den Ceremonien damit ſy deſterminder warnemmen was daredte innerlich das ewig Wort mit ihnen Es nemme lange Wyl zu erzellen T iij die"
       }
     ],
-    "ops": 39,
+    "ops": 38,
     "truncated": false
   }
 }

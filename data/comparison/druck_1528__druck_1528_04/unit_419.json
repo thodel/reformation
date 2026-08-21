@@ -8,7 +8,7 @@
       480
     ]
   },
-  "alignment_score": 0.3191,
+  "alignment_score": 0.3316,
   "coarse": {
     "paragraphs": {
       "a": 11,
@@ -27,7 +27,7 @@
     "matched": 3,
     "only_a": 5,
     "only_b": 7,
-    "similarity": 0.4331,
+    "similarity": 0.4596,
     "pairs": [
       {
         "op": "only_b",
@@ -63,18 +63,13 @@
         "op": "match",
         "a": "**Schlußred**\n**Erklärung D. Johannis Ecolam-**\n**padij/des orts Danielis am iiij.**\n\nSo man aber die schrifft gruntlich ersücht/so hat\nes den verstand:",
         "b": "So man aber die ſchrifft grundtlich erſuͤcht/ ſo hat es den verſtand: Diß iſt in verſchaffung\nder waͤchtern geſprochen/vnnd im geſpraͤch der\nheyligen erfragt.",
-        "similarity": 0.3922,
-        "semantic": 0.6415,
-        "reading": "reworded"
+        "similarity": 0.3922
       },
       {
         "op": "only_a",
         "a": "Siß ist inn verschaffung der\nwächtern gesprochen/vnd im gespräch der heyli\ngen erfragt. Sie ist offenbar/dz doch kein mel=\ndung des gebätts geschächẽ ist:",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7058,
-        "semantic_match": "Hie iſt offenbar / das doch kein\nmeldung deß gebaͤtts geſchaͤchen iſt: vnd dienet\ndiß argument jnen hiehaͤr im grund nit:",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -86,26 +81,19 @@
         "op": "match",
         "a": "vnd dienet diß argumẽt\njnen hiehar im grund nit: dann der Prophet wil allein sa\ngen/das das vrteyl schon über den Künig Nabuchodo=\nnosor ergangen sye.",
         "b": "dañ der\nProphet wil allein ſagen / das daß vrteyl ſchon\nuͤber den kuͤnig Nabuchodonoſor ergangen ſye. Buͤchſtab.",
-        "similarity": 0.4255,
-        "semantic": 0.8393,
-        "reading": "reworded"
+        "similarity": 0.4681
       },
       {
         "op": "match",
         "a": "**Büchstab**\n\nAls Christus vnser einiger mittler ist/vnd vns\nläbendigẽ lert für einandren zů bitten/Jst söm\nlichs den todten nit abgeschlagẽ/diewyl jr ouch\nkein heitere schrifft darumb habend.",
         "b": "Das Chriſtus vnſer einiger mitler iſt/vñ vns\nlaͤbendige lert fuͤr einandern zuͦ bitten / iſt ſoͤm=\nlichs den todten nit abgeſchlagẽ /",
-        "similarity": 0.4815,
-        "semantic": 0.9117,
-        "reading": "reworded"
+        "similarity": 0.5185
       },
       {
         "op": "only_a",
         "a": "Der spruch\nDanielis zeigt vns an/dz er sye von himel herab gestigẽ: kan nit wol vff ein läbendigenn dienen.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8551,
-        "semantic_match": "diewyl jr ouch\nkein heytere ſchrifft darumb habend. Der ſpruch\nDanielis zeygt vns an/das er ſye von him̃el her\nab\n\n## Marginalien\nab\nG\nwi\nbe\ndã\nbe\n\ngr\n\nei\nle\na\nn\nn\nr\nn\na\nr",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -117,19 +105,13 @@
         "op": "only_a",
         "a": "Hie hat sich S. peter\nbegeben/mit jnen etwas zehandlen nach sinem tod. **Berchtoldus.**\n\nJch frag/Ob jr bekennind/das Christus ein gnůgsa=\nmer mittler sye.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7375,
-        "semantic_match": "Sanctus/ Heylig/ in der ſchrifft/allen Chriſten zuͦgelegt wirt: als\nſich erfindet by der Epiſtel deß heyligen Pauli/ in der j.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "**Büchstab.**\n\nJa ich bekenns. **Berchtoldus.**\n\nEs ist gnůgsam anzeigt dz Christus vnser einiger mit=\nler ist/deßhalb wir keyns andren mitlers bedörffen. Ecc ij",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7621,
-        "semantic_match": "Die ſechſt\nrumb ſoͤllend wir nit fuͤr einanderen bitten. Die\ngſchrifft zeyget an / Das Chriſtus iſt ein einiger\nmitler/vñ lert vns fuͤr einandern/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -137,15 +119,10 @@
         "b": "diewyl jr ouch\nkein heytere ſchrifft darumb habend. Der ſpruch\nDanielis zeygt vns an/das er ſye von him̃el her\nab\n\n## Marginalien\nab\nG\nwi\nbe\ndã\nbe\n\ngr\n\nei\nle\na\nn\nn\nr\nn\na\nr",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.779,
-    "reworded": 3,
-    "candidates": 4,
-    "recovered_by_embedding": 4,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.3162,
+    "similarity": 0.3291,
     "words": {
       "a": 203,
       "b": 265
@@ -278,18 +255,8 @@
       },
       {
         "op": "equal",
-        "a": "ist vnd dienet diß",
-        "b": "iſt vnd dienet diß"
-      },
-      {
-        "op": "replace",
-        "a": "argumẽt",
-        "b": "argument"
-      },
-      {
-        "op": "equal",
-        "a": "jnen",
-        "b": "jnen"
+        "a": "ist vnd dienet diß argumẽt jnen",
+        "b": "iſt vnd dienet diß argument jnen"
       },
       {
         "op": "replace",
@@ -298,18 +265,8 @@
       },
       {
         "op": "equal",
-        "a": "im grund nit",
-        "b": "im grund nit"
-      },
-      {
-        "op": "replace",
-        "a": "dann",
-        "b": "dañ"
-      },
-      {
-        "op": "equal",
-        "a": "der Prophet wil allein",
-        "b": "der Prophet wil allein"
+        "a": "im grund nit dann der Prophet wil allein",
+        "b": "im grund nit dañ der Prophet wil allein"
       },
       {
         "op": "replace",
@@ -368,18 +325,8 @@
       },
       {
         "op": "equal",
-        "a": "ist",
-        "b": "iſt"
-      },
-      {
-        "op": "replace",
-        "a": "vnd",
-        "b": "vñ"
-      },
-      {
-        "op": "equal",
-        "a": "vns",
-        "b": "vns"
+        "a": "ist vnd vns",
+        "b": "iſt vñ vns"
       },
       {
         "op": "replace",
@@ -447,7 +394,7 @@
         "b": "him el her ab Marginalien ab G wi be dã be gr ei le a n n r n a r"
       }
     ],
-    "ops": 30,
+    "ops": 27,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       557
     ]
   },
-  "alignment_score": 0.4188,
+  "alignment_score": 0.4239,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -27,47 +27,37 @@
     "matched": 7,
     "only_a": 7,
     "only_b": 0,
-    "similarity": 0.5764,
+    "similarity": 0.5811,
     "pairs": [
       {
         "op": "match",
         "a": "Schlußred. er spricht: Ein yeder blybe in der berüffung/ in wellicher\ner berüfft ist. Da redt Paulus võ dem vsserlichen stand\nderen so zum glouben berüfft wurden/",
         "b": "Schlußred. 523\nyeder blybe in der beruͤffung / in welcher er beruͤfft iſt. Da\nredt Paulus von dem vſſerlicken Stand deren ſo zum\nGlouben beruͤfft wurden/als der Knechten/vnd Beſchnit=\nnen.",
-        "similarity": 0.5902,
-        "semantic": 0.8278,
-        "reading": "same"
+        "similarity": 0.623
       },
       {
         "op": "match",
         "a": "als der knechten/ vnd der beschnittnen. Nun ist der Christenlich gloub/ nit\nan solch eständ gebunden: dann wölt der Schülmeyster\nalso arguieren/",
         "b": "Nun iſt der Chriſtenlich Gloub/nit an ſoͤlche ſtaͤnd\ngebunden: dann woͤlt der Schuͦlmeiſter alſo arguieren/",
-        "similarity": 0.5714,
-        "semantic": 0.8581,
-        "reading": "same"
+        "similarity": 0.5714
       },
       {
         "op": "match",
         "a": "Es sol blyben ein yeder in dem stand/ als\ner berüfft ist/ so wurde er allen Christen/ so zum glouben\nberüfft werden/",
         "b": "Es ſoll blyben ein yeder in dem ſtand/als er beruͤfft iſt / ſo\nwurde er allen Chriſten/ſo zum Glouben beruͤfft werden/",
-        "similarity": 0.8261,
-        "semantic": 0.922,
-        "reading": "same"
+        "similarity": 0.8261
       },
       {
         "op": "match",
         "a": "die Ee abschlagen. Also beschlüßt das\nArgument ouch nüt. Büchstab. Ich beuilchs der schrifft/ über das alles/ so gehand=\nlet ist.",
         "b": "die Ee abſchlachen. Alſo beſchluͤßt das Argument ouch\nnuͤt. Buͦchſtab. Jch befilchs der Schrifft/uͤber das alles/ſo gehandlet\niſt.",
-        "similarity": 0.5333,
-        "semantic": 0.9012,
-        "reading": "same"
+        "similarity": 0.5333
       },
       {
         "op": "match",
         "a": "Berchtoldus Haller. Vnd wir ouch. Meyster Ambrosius Blarer/ Predicant zů Costentz: Ieben fromen Christen/ Es haben vnser gnädig Herren von Bern\neinen ersamen Radt zů Costentz/",
         "b": "Berchtoldus Haller. Vnd wir ouch. Meiſter Ambroſius Blarer/Predicant\nzuͦ Coſtentz. LJeben frommen Chriſten/Es haben vnſer gnaͤdig\nHerren von Bern einen Erſamen Radt zuͦ Coſtentz/ſchrifftlich\nangelanget vnd gebaͤtten/",
-        "similarity": 0.7586,
-        "semantic": 0.9539,
-        "reading": "same"
+        "similarity": 0.7586
       },
       {
         "op": "only_a",
@@ -79,9 +69,7 @@
         "op": "match",
         "a": "vnd by nach zů glücklichem end\n(Gott hab lob) geloffen ist/ züuerordnen/ Weliches minen Herren vonn\nCostentz/ jnen zů frůntlichem wolgeuallen gethan/",
         "b": "etwarn vß jhren Predicanten/all=\nhar vff diß jr loblich Chriſtenlich Disputation: ſo dann yetz in uͤbung/ vnd by nach zuͦ gluͤcklichem end(Gott hab lob) geloffen iſt/zuͦ verord=\nnen/Weliches mynen Herren von Coſtentz/jnen zuͦ fruͤntlichen wol=\ngefallen gethan/vnd alſo ein Erbare Radtsbottſchafft/vnd mich mit\nder ſelbigen harzuͦkommen/abgefertiget haben /",
-        "similarity": 0.3951,
-        "semantic": 0.8032,
-        "reading": "reworded"
+        "similarity": 0.3951
       },
       {
         "op": "only_a",
@@ -93,9 +81,7 @@
         "op": "match",
         "a": "Dan allein/ wo Doctor Johan Eck: so dan von Meyster Huldrichen\nZwinglin/ vnd Cůnradten Som/ Predicanten zů Vlm/ minen lieben brů\ndern.",
         "b": "mit keinem ſundern\nbefelch/uͤnit wider yemand hie zuͦhandlen/ Dann allein/wo Doctor\nJohan Egck: ſo dann von Meiſter Huldrichen Zwinglin/vnd Cuͦn=\nVVv ij",
-        "similarity": 0.36,
-        "semantic": 0.7874,
-        "reading": "reworded"
+        "similarity": 0.36
       },
       {
         "op": "only_a",
@@ -127,15 +113,10 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.8648,
-    "reworded": 2,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.543,
+    "similarity": 0.5468,
     "words": {
       "a": 302,
       "b": 221
@@ -183,18 +164,8 @@
       },
       {
         "op": "equal",
-        "a": "ist Da redt Paulus",
-        "b": "iſt Da redt Paulus"
-      },
-      {
-        "op": "replace",
-        "a": "võ",
-        "b": "von"
-      },
-      {
-        "op": "equal",
-        "a": "dem",
-        "b": "dem"
+        "a": "ist Da redt Paulus võ dem",
+        "b": "iſt Da redt Paulus von dem"
       },
       {
         "op": "replace",
@@ -552,7 +523,7 @@
         "b": "Cu n VVv ij"
       }
     ],
-    "ops": 41,
+    "ops": 40,
     "truncated": false
   }
 }

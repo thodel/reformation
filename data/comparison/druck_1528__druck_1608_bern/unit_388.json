@@ -8,7 +8,7 @@
       446
     ]
   },
-  "alignment_score": 0.2825,
+  "alignment_score": 0.296,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -45,34 +45,25 @@
         "op": "match",
         "a": "Die fünffte\ndann der Daniel ſchribt / das es allein wårde vffhoren\nvierdhalb Jar. Hie wil ichs beuolhen haben der ſchrifft/",
         "b": "dann der Daniel\nſchribt/ das es allein werde vffhoͤren vierdthalb Jar. Hie\nwil ichs befolhen haben der Schrifft/ vnd dem Chriſtlichen\nLaͤſer.",
-        "similarity": 0.6364,
-        "semantic": 0.8853,
-        "reading": "same"
+        "similarity": 0.6364
       },
       {
         "op": "match",
         "a": "vnd dem Chriſtlichen låſer. Ecolampadius. [Initial D] Er Daniel ſchribt in zweyerley wåg / von vff=\nhórung der opfer. Ein mal vff vierdhalb Jar/",
         "b": "Ecolampadius. DEr Daniel ſchribt in zweyerley waͤg / von vffhoͤ=\nrung der opffer. Ein mal vff vierdthalb Jar / als\nam 7.",
-        "similarity": 0.5,
-        "semantic": 0.8759,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "match",
         "a": "als am ſybenden cap. Solchs iſt erfult vnder de\nAntiocho vor der zyt Chriſti. Zum anderen / by der zyrd\nzerſtórung Jeruſalem /",
         "b": "Capit. Solche iſt erfuͤllt vnder dem Antio=\ncho vor der zyt Chriſti. Zum anderen/ by der zyt der zer=\nſtoͤrung Jeruſalem /",
-        "similarity": 0.5,
-        "semantic": 0.7369,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "only_a",
         "a": "ſólche vffhórung des opffers/die\nSüch hieuor wårt für vnd für/wie Meyſter Vlrich geſagt hatt. am nechſten\nblat. Meyſter Vlrich zwingli\n[Initial D] Eßhalb/die ort Danielis nit bewåre/dz die Måß\nein opffer ſye/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.8139,
-        "semantic_match": "nach ir ordnuͤg hette\nvffgehoͤrt/ ſo mag darumb nit volgen / daß hie an di=\nſem ort / von dem ſelbigen geredt werde/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -90,18 +81,13 @@
         "op": "match",
         "a": "dann an beyden orten / die zyt langeſt\nerfult ſind / veranlaſſend vns ouch vff rechten verſtand\nder glóubigen. Johannes Büchſtab. [Initial D] Je wil man gſchrifft mit gſchrifft vßlegen ſoll/",
         "b": "veranlaſſend vns ouch vff rech=\nten verſtand der Gloͤubigen. Johannes Buͤchſtab. DJewyl man Gſchrifft mit Gſchrifft vßlegen ſoll/",
-        "similarity": 0.5306,
-        "semantic": 0.4747,
-        "reading": "check"
+        "similarity": 0.5306
       },
       {
         "op": "only_a",
         "a": "vñ aller meyſt/die ſchrifft des alten Teſtamēts/ mit den gſchrifften des nüwen Teſtaments/er=\nklårt ſóllen werden/finden wir an dryen ortenn/das die\nprophetien Danielis vff vns dienen/namlich Danielis\nam xj.ſtat.",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7052,
-        "semantic_match": "vnd allermeiſt/ die Gſchrifft deß alten Teſtaments/ mit\n\n## Marginalien\nSuͤch\nhievor\nam. 413. blat.",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -125,10 +111,7 @@
         "op": "only_a",
         "a": "zů den Theſſalonern in der ij. Epiſt. dienen vol haruff / vnd geben diſen worten eynen\nverſtand",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6578,
-        "semantic_match": "DEßhalb/ die ort Daniels nit bewaͤren/ das die\nMaͤß ein Opffer ſye/ dann an beyden orten/ die zyt\nlangeſt erfuͤlt ſind/",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -136,15 +119,10 @@
         "b": "vnd allermeiſt/ die Gſchrifft deß alten Teſtaments/ mit\n\n## Marginalien\nSuͤch\nhievor\nam. 413. blat.",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7357,
-    "reworded": 0,
-    "candidates": 3,
-    "recovered_by_embedding": 3,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.3716,
+    "similarity": 0.3807,
     "words": {
       "a": 244,
       "b": 192
@@ -417,13 +395,13 @@
       },
       {
         "op": "equal",
-        "a": "man gſchrifft mit gſchrifft vßlegen ſoll",
-        "b": "man Gſchrifft mit Gſchrifft vßlegen ſoll"
+        "a": "man gſchrifft mit gſchrifft vßlegen ſoll vñ",
+        "b": "man Gſchrifft mit Gſchrifft vßlegen ſoll vnd"
       },
       {
         "op": "replace",
-        "a": "vñ aller meyſt",
-        "b": "vnd allermeiſt"
+        "a": "aller meyſt",
+        "b": "allermeiſt"
       },
       {
         "op": "equal",
@@ -437,18 +415,8 @@
       },
       {
         "op": "equal",
-        "a": "alten",
-        "b": "alten"
-      },
-      {
-        "op": "replace",
-        "a": "Teſtamēts",
-        "b": "Teſtaments"
-      },
-      {
-        "op": "equal",
-        "a": "mit",
-        "b": "mit"
+        "a": "alten Teſtamēts mit",
+        "b": "alten Teſtaments mit"
       },
       {
         "op": "replace",
@@ -466,7 +434,7 @@
         "b": "413 blat"
       }
     ],
-    "ops": 32,
+    "ops": 31,
     "truncated": false
   }
 }

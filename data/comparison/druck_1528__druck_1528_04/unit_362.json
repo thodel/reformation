@@ -8,7 +8,7 @@
       418
     ]
   },
-  "alignment_score": 0.4813,
+  "alignment_score": 0.5323,
   "coarse": {
     "paragraphs": {
       "a": 6,
@@ -27,15 +27,13 @@
     "matched": 6,
     "only_a": 1,
     "only_b": 2,
-    "similarity": 0.5489,
+    "similarity": 0.5614,
     "pairs": [
       {
         "op": "match",
         "a": "Die fünffte\nBuchstab\n\n[D] Jewyl Melchisedech ein obrester Priester/brot\nvnd wyn/ harfür hat getragen/ vnd als Pau-\nlus zů den Hebreeren bezügt/das kein Priester\nnit ist/der nit opfferet/müß volgen/das ouch\nMelchisedech etwas hab geopffret.",
         "b": "Die fünffte\nBůchſtab. Diewyl Melchiſedech eyn obreſter Prieſter/ brot vnd wyn/herfür hat getragen/vñ als Pau-\nlus zů den Hebreern bezügt /",
-        "similarity": 0.5574,
-        "semantic": 0.8939,
-        "reading": "same"
+        "similarity": 0.5902
       },
       {
         "op": "only_b",
@@ -47,50 +45,37 @@
         "op": "match",
         "a": "Es wirt ouch mit kei\nner gschrifft bybracht/das Melchisedech/brot vnd wyn/ nit voz hab vffgeopffret/ee vñ er Abrahe solichs harfür\nhabe getragen:",
         "b": "dz Melchiſedech\nbrot vnd wyn/nit vor hab vffgeopfferet/ee vnd\ner Abrahe ſölichs herfür habe getragen: dañ der\nText heyter ſpricht:",
-        "similarity": 0.5106,
-        "semantic": 0.9077,
-        "reading": "same"
+        "similarity": 0.5532
       },
       {
         "op": "match",
         "a": "dann der Text heyter spricht: Er ist gsin\nein Priester des obresten Gottes/dem von nöten ouch zů\ngehört hat ze opfferen.",
         "b": "Er iſt geſin ein Prieſter des\noberſten Gottes/dem von nöten ouch zůgehört\nhat zeopfferen. Berchtoldus. Wir bekennen mit der geſchrifft/das Melchi-\nſedech ein priſter des aller Oberiſten Gottes ſye\ngeſin.",
-        "similarity": 0.4074,
-        "semantic": 0.8281,
-        "reading": "reworded"
+        "similarity": 0.4074
       },
       {
         "op": "match",
         "a": "Berchtoldus\n\n[W] Jr bekennen mit der schrifft/das Melchisedech\nein Priester des aller obristen Gottes sye gesin/ Sas er aber Abraham/brot vnd wyn hab vff-\ngeopffret/oder vorhin Gott dem herrē/erfindt\nsich nit in dē text/durch den Schülmeyster anzogē:",
         "b": "Das er Abraham/brot vnd wyn hab vff-\ngeopffret/oder vorhin Gott dem herrn/ erfindt\nſich nit in dem text/durch den Schůlmeyſter an-\nzogen:",
-        "similarity": 0.6269,
-        "semantic": 0.6894,
-        "reading": "same"
+        "similarity": 0.6269
       },
       {
         "op": "match",
         "a": "Wo\nses hat sich benügt/dz er anzeigte/Melchisedech ein Prie\nster sin des allerhöchsten Gottes. Daruß demnach wol\nvermerckt wirt/vß dem heiligen Paulo/wo hin solchesi\ngur dütet vñ lendet.",
         "b": "Moyſes hat ſich benůgt/dz er anzeygte/ Melchiſedech ein Prieſter ſin des allerhöchſten\nGottes. Daruß demnach wol vermerckt wirt/ vß dem heyligen Paulo /",
-        "similarity": 0.6909,
-        "semantic": 0.8239,
-        "reading": "same"
+        "similarity": 0.6909
       },
       {
         "op": "match",
         "a": "Jr haben den spruch vff üwer für-\nnemen angezogen/damit zů bewären das Måßopffer. So gebürt nun üch/das jr probieren/wo Melchisedech\nwyn vnd brot geopffret habe.",
         "b": "wo hin ſöliche figur\ndütet vnd lendet. Jr haben den ſpruch vff üwer\nfürnemmen angezogen / damit zů bewären das\nMäßopffer.",
-        "similarity": 0.5,
-        "semantic": 0.6783,
-        "reading": "same"
+        "similarity": 0.5
       },
       {
         "op": "only_a",
         "a": "Buchstab\n\n[D] Jewyl jr nit findē/was er nach sinem Priester-\nthům geopffret habe/vnd hie aber heyter stadt/ Sas er brot vnnd wyn/harfür hab getragen/ vnd",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6765,
-        "semantic_match": "So gebürt nun üch/das jr probie-\nren/wo Melchiſedech wyn vnnd brot geopffert\nhabe. Bůchſtab. Diewyl jr nit finden/was er nach ſinem prie-\nſterthům",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_b",
@@ -98,15 +83,10 @@
         "b": "So gebürt nun üch/das jr probie-\nren/wo Melchiſedech wyn vnnd brot geopffert\nhabe. Bůchſtab. Diewyl jr nit finden/was er nach ſinem prie-\nſterthům",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7854,
-    "reworded": 1,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.7108,
+    "similarity": 0.7304,
     "words": {
       "a": 216,
       "b": 192
@@ -144,18 +124,8 @@
       },
       {
         "op": "equal",
-        "a": "hat getragen",
-        "b": "hat getragen"
-      },
-      {
-        "op": "replace",
-        "a": "vnd",
-        "b": "vñ"
-      },
-      {
-        "op": "equal",
-        "a": "als Pau lus zů den",
-        "b": "als Pau lus zů den"
+        "a": "hat getragen vnd als Pau lus zů den",
+        "b": "hat getragen vñ als Pau lus zů den"
       },
       {
         "op": "replace",
@@ -234,18 +204,8 @@
       },
       {
         "op": "equal",
-        "a": "ee",
-        "b": "ee"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "er Abrahe solichs",
-        "b": "er Abrahe ſölichs"
+        "a": "ee vñ er Abrahe solichs",
+        "b": "ee vnd er Abrahe ſölichs"
       },
       {
         "op": "replace",
@@ -254,18 +214,8 @@
       },
       {
         "op": "equal",
-        "a": "habe getragen",
-        "b": "habe getragen"
-      },
-      {
-        "op": "replace",
-        "a": "dann",
-        "b": "dañ"
-      },
-      {
-        "op": "equal",
-        "a": "der Text heyter spricht Er ist",
-        "b": "der Text heyter ſpricht Er iſt"
+        "a": "habe getragen dann der Text heyter spricht Er ist",
+        "b": "habe getragen dañ der Text heyter ſpricht Er iſt"
       },
       {
         "op": "replace",
@@ -444,18 +394,8 @@
       },
       {
         "op": "equal",
-        "a": "dütet",
-        "b": "dütet"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "lendet Jr haben den spruch vff üwer",
-        "b": "lendet Jr haben den ſpruch vff üwer"
+        "a": "dütet vñ lendet Jr haben den spruch vff üwer",
+        "b": "dütet vnd lendet Jr haben den ſpruch vff üwer"
       },
       {
         "op": "replace",
@@ -523,7 +463,7 @@
         "b": "prie ſterthům"
       }
     ],
-    "ops": 41,
+    "ops": 37,
     "truncated": false
   }
 }

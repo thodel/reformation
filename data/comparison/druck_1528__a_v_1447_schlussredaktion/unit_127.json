@@ -8,7 +8,7 @@
       238
     ]
   },
-  "alignment_score": 0.2328,
+  "alignment_score": 0.2284,
   "coarse": {
     "paragraphs": {
       "a": 6,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 12,
-    "matched": 6,
-    "only_a": 4,
-    "only_b": 2,
-    "similarity": 0.4602,
+    "units": 13,
+    "matched": 5,
+    "only_a": 5,
+    "only_b": 3,
+    "similarity": 0.4718,
     "pairs": [
       {
         "op": "only_b",
@@ -39,7 +39,7 @@
         "op": "match",
         "a": "X.I Die erſt\n\niſt vns zů leer vñd vnderwyſuñg geſchriben. Jtem das\ngeredt wirt ſo einer prediget/ vñ den andern vnderwiſt\nvñd leeret/",
         "b": "ist/ Ist vns zuͦ leer vnd\nvnderwysung geschriben/ Item das geredt wort\nso einer predigbt vnnd den anndern vnderwysst\nvnd leret/",
-        "similarity": 0.5778
+        "similarity": 0.4889
       },
       {
         "op": "match",
@@ -54,10 +54,16 @@
         "similarity": 0.4348
       },
       {
-        "op": "match",
+        "op": "only_a",
         "a": "Cap. Jch ſtand zů diner\nthür vñd kłopffen an/ ſpricht gott/ laſt man mich yn ſo\nkom ich hinyñ/ vñnd nůß das nachtmal mit den ſelben/",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
         "b": "an / Ich/ Dat man mich In\nSo kum ich/ hinIn/ vnnd nüͤß das nachtmall\nmit denselbenn hievon spricht auch paulus\nIn der andern Epist:",
-        "similarity": 0.3137
+        "similarity": 0.0
       },
       {
         "op": "match",
@@ -104,7 +110,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4706,
+    "similarity": 0.457,
     "words": {
       "a": 245,
       "b": 197
@@ -127,8 +133,18 @@
       },
       {
         "op": "equal",
-        "a": "iſt vns zů leer vñd vnderwyſuñg geſchriben",
-        "b": "Ist vns zu leer vnd vnderwysung geschriben"
+        "a": "iſt vns zů leer vñd",
+        "b": "Ist vns zu leer vnd"
+      },
+      {
+        "op": "replace",
+        "a": "vnderwyſuñg",
+        "b": "vnderwysung"
+      },
+      {
+        "op": "equal",
+        "a": "geſchriben",
+        "b": "geschriben"
       },
       {
         "op": "replace",
@@ -152,27 +168,17 @@
       },
       {
         "op": "replace",
-        "a": "prediget vñ",
-        "b": "predigbt vnnd"
+        "a": "prediget",
+        "b": "predigbt vnnd den anndern vnderwysst"
       },
       {
         "op": "equal",
-        "a": "den",
-        "b": "den"
-      },
-      {
-        "op": "replace",
-        "a": "andern vnderwiſt",
-        "b": "anndern vnderwysst"
-      },
-      {
-        "op": "equal",
-        "a": "vñd",
+        "a": "vñ",
         "b": "vnd"
       },
       {
         "op": "replace",
-        "a": "leeret als",
+        "a": "den andern vnderwiſt vñd leeret als",
         "b": "leret allß"
       },
       {
@@ -352,18 +358,8 @@
       },
       {
         "op": "replace",
-        "a": "hinyñ",
-        "b": "hinIn"
-      },
-      {
-        "op": "equal",
-        "a": "vñnd",
-        "b": "vnnd"
-      },
-      {
-        "op": "replace",
-        "a": "nůß",
-        "b": "nü ß"
+        "a": "hinyñ vñnd nůß",
+        "b": "hinIn vnnd nü ß"
       },
       {
         "op": "equal",
@@ -586,7 +582,7 @@
         "b": ""
       }
     ],
-    "ops": 48,
+    "ops": 47,
     "truncated": false
   }
 }

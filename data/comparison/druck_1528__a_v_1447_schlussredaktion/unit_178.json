@@ -8,7 +8,7 @@
       309
     ]
   },
-  "alignment_score": 0.2,
+  "alignment_score": 0.2299,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -116,7 +116,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4155,
+    "similarity": 0.4426,
     "words": {
       "a": 308,
       "b": 284
@@ -279,13 +279,13 @@
       },
       {
         "op": "equal",
-        "a": "werden",
-        "b": "werden"
+        "a": "werden dañ",
+        "b": "werden dann"
       },
       {
         "op": "replace",
-        "a": "dañ allein",
-        "b": "dann gelein"
+        "a": "allein",
+        "b": "gelein"
       },
       {
         "op": "equal",
@@ -344,13 +344,23 @@
       },
       {
         "op": "replace",
-        "a": "hochzyten vñ ſolichen dingē enthaltē",
-        "b": "hochzitten vnd Colichen dingen enthalten"
+        "a": "hochzyten",
+        "b": "hochzitten"
       },
       {
         "op": "equal",
-        "a": "ſol die",
-        "b": "sol Die"
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "ſolichen",
+        "b": "Colichen"
+      },
+      {
+        "op": "equal",
+        "a": "dingē enthaltē ſol die",
+        "b": "dingen enthalten sol Die"
       },
       {
         "op": "replace",
@@ -434,23 +444,13 @@
       },
       {
         "op": "replace",
-        "a": "ozdnung willē",
-        "b": "Ordnung willen"
+        "a": "ozdnung",
+        "b": "Ordnung"
       },
       {
         "op": "equal",
-        "a": "zůhalten",
-        "b": "zuhalten"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "von der",
-        "b": "von der"
+        "a": "willē zůhalten vñ von der",
+        "b": "willen zuhalten vnd von der"
       },
       {
         "op": "replace",
@@ -554,13 +554,13 @@
       },
       {
         "op": "replace",
-        "a": "einem ozdenlichen lă ben vñ",
-        "b": "ei nem ordentlichen laben vnd"
+        "a": "einem ozdenlichen lă ben",
+        "b": "ei nem ordentlichen laben"
       },
       {
         "op": "equal",
-        "a": "das",
-        "b": "das"
+        "a": "vñ das",
+        "b": "vnd das"
       },
       {
         "op": "replace",
@@ -569,18 +569,8 @@
       },
       {
         "op": "equal",
-        "a": "ich durch",
-        "b": "Ich durch"
-      },
-      {
-        "op": "replace",
-        "a": "Paulū",
-        "b": "Paulum"
-      },
-      {
-        "op": "equal",
-        "a": "in der",
-        "b": "In der"
+        "a": "ich durch Paulū in der",
+        "b": "Ich durch Paulum In der"
       },
       {
         "op": "replace",
@@ -678,7 +668,7 @@
         "b": ""
       }
     ],
-    "ops": 56,
+    "ops": 55,
     "truncated": false
   }
 }

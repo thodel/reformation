@@ -8,7 +8,7 @@
       176
     ]
   },
-  "alignment_score": 0.5263,
+  "alignment_score": 0.5369,
   "coarse": {
     "paragraphs": {
       "a": 6,
@@ -27,15 +27,13 @@
     "matched": 4,
     "only_a": 1,
     "only_b": 2,
-    "similarity": 0.5393,
+    "similarity": 0.5564,
     "pairs": [
       {
         "op": "match",
         "a": "Die erſt\nHerr Daniel Schatt/Lütprieſter\nzů Gundiſchwyl. S nun dry ding vermerckt/oder begriffen wer=\ndend in Chriſto/das iſt die Gottheit allein/vnd\ndie Menſchheyt allein/vnnd die Gottheit vnnd\nmenſchheit/miteinandern vereynt in Chriſto.",
         "b": "144 Die erſt\nHerr Daniel Schatt/Luͤtprieſter zuͦ\nGundiſſwyl. SOnun dry ding vermerckt/ oder begriffen werdend\nin Chriſto / das iſt die Gottheit allein /",
-        "similarity": 0.5902,
-        "semantic": 0.8633,
-        "reading": "same"
+        "similarity": 0.5902
       },
       {
         "op": "only_b",
@@ -47,17 +45,13 @@
         "op": "match",
         "a": "Nun yetz\nfrag ich/ob Chriſtus nach der Gottheit allein/angenom̄\nmen ſyge/ein houpt der Chriſtenlichen Kilch/oder nach\nder menſchheit allein/oder als die Gottheyt vñ menſch=\nheit/vereynt in einer perſon.zc.",
         "b": "angnommen ſyge / ein\nHoupt der Chriſtenlichen Kilch / oder nach der Menſcheit\nallein / oder als die Gottheit vnd Menſcheit/vereint in ei-\nner Perſon/etc.",
-        "similarity": 0.5085,
-        "semantic": 0.7284,
-        "reading": "same"
+        "similarity": 0.5424
       },
       {
         "op": "match",
         "a": "Zwingly. CHriſtus Jeſus warer Gott vnd menſch/dar=\numb er ouch Chriſtus Jeſus heyßt/iſt nach bey=\nden naturen/ein houpt der Chriſtenlichen Kil=\nchen/mit der erlütterung/das er nach der Gottheit für=\nnemlich vnd eygentlich/das wäſen aller dingen iſt/vnd\nnach der menſchheit das bezaler/gerödt/opfer/dz die göt\nlich gerechtigkeyt mit vns verſünet hat/bedarff nit ge=\nſchrifft:",
         "b": "Zwingly. CHriſtus Jeſus warer Gott vnd Menſch / darumb er\nouch Chriſtus Jeſus heißt / iſt nach beiden Naturen\nein Houpt der Chriſtenlichen Kilchen/mit der erluͤte-\nrung/daß er nach der Gottheit fuͤrnemlich vnnd eigentlich\ndas waͤſen aller dingen iſt/vnd nach der Menſcheit das be-\nzalet/getoͤdt/opffer/das die Goͤttliche gerechtigkeit mit vns\nverſuͤnet hat/bedarff nit Gſchrifft:beruͤff daruͤber zuͦ kund-\nſchafft das gantz Euangelion Joannis/vnd die Epiſtel zun\nHebreern/fuͤrnemlich fuͤr andre Gſchrifft.",
-        "similarity": 0.5067,
-        "semantic": 0.8818,
-        "reading": "same"
+        "similarity": 0.5067
       },
       {
         "op": "only_a",
@@ -69,9 +63,7 @@
         "op": "match",
         "a": "Als Chriſtus ein warer Gott vnnd menſch ſye/ ein houpt der Chriſtenlichẽ Kilchen/Iſt recht/ aber das wörtly Einig/mag die red nit erlyden\ndañ nach der Gottheit/ſo iſt er einig mit Gott dẽ vatter",
         "b": "Daniel Schatt. DAs Chriſtus ein warer Gott vnnd Menſch ſye/ein\nHoupt der Chriſtenlichen Kilchen / Iſt recht / aber\ndas Woͤrtly Einig /",
-        "similarity": 0.5517,
-        "semantic": 0.8376,
-        "reading": "same"
+        "similarity": 0.5862
       },
       {
         "op": "only_b",
@@ -79,15 +71,10 @@
         "b": "mag die red nit erlyden / dann\nnach der Gottheit / ſo iſt er einig mit Gott dem Vatter\nvnd",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.8278,
-    "reworded": 0,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.6513,
+    "similarity": 0.6667,
     "words": {
       "a": 192,
       "b": 198
@@ -195,8 +182,18 @@
       },
       {
         "op": "replace",
-        "a": "Gottheyt vñ menſch heit vereynt",
-        "b": "Gottheit vnd Menſcheit vereint"
+        "a": "Gottheyt",
+        "b": "Gottheit"
+      },
+      {
+        "op": "equal",
+        "a": "vñ",
+        "b": "vnd"
+      },
+      {
+        "op": "replace",
+        "a": "menſch heit vereynt",
+        "b": "Menſcheit vereint"
       },
       {
         "op": "equal",
@@ -390,18 +387,8 @@
       },
       {
         "op": "equal",
-        "a": "Chriſtus ein warer Gott vnnd menſch ſye ein houpt der",
-        "b": "Chriſtus ein warer Gott vnnd Menſch ſye ein Houpt der"
-      },
-      {
-        "op": "replace",
-        "a": "Chriſtenlichẽ",
-        "b": "Chriſtenlichen"
-      },
-      {
-        "op": "equal",
-        "a": "Kilchen Iſt recht aber das",
-        "b": "Kilchen Iſt recht aber das"
+        "a": "Chriſtus ein warer Gott vnnd menſch ſye ein houpt der Chriſtenlichẽ Kilchen Iſt recht aber das",
+        "b": "Chriſtus ein warer Gott vnnd Menſch ſye ein Houpt der Chriſtenlichen Kilchen Iſt recht aber das"
       },
       {
         "op": "replace",
@@ -410,18 +397,8 @@
       },
       {
         "op": "equal",
-        "a": "Einig mag die red nit erlyden",
-        "b": "Einig mag die red nit erlyden"
-      },
-      {
-        "op": "replace",
-        "a": "dañ",
-        "b": "dann"
-      },
-      {
-        "op": "equal",
-        "a": "nach der Gottheit ſo iſt er einig mit Gott",
-        "b": "nach der Gottheit ſo iſt er einig mit Gott"
+        "a": "Einig mag die red nit erlyden dañ nach der Gottheit ſo iſt er einig mit Gott",
+        "b": "Einig mag die red nit erlyden dann nach der Gottheit ſo iſt er einig mit Gott"
       },
       {
         "op": "replace",
@@ -429,7 +406,7 @@
         "b": "dem Vatter vnd"
       }
     ],
-    "ops": 34,
+    "ops": 33,
     "truncated": false
   }
 }

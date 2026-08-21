@@ -8,7 +8,7 @@
       426
     ]
   },
-  "alignment_score": 0.3775,
+  "alignment_score": 0.4216,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 2,
     "only_b": 3,
-    "similarity": 0.4847,
+    "similarity": 0.4986,
     "pairs": [
       {
         "op": "only_b",
@@ -39,9 +39,7 @@
         "op": "match",
         "a": "Schlußred CLXXVII\nsedech/vnd es nit mag sin der tod/so bitten wir min her\nren der widerparthy/das sy vns nennen vß der schrifft/",
         "b": "vnd\nſytenmal Chriſtus iſt ein Prieſter / nach der ord=\nnung Melchiſedech / vnd es nit mag ſyn der Tod / ſo bitten\nwir myn Herren der Widerparthy /",
-        "similarity": 0.44,
-        "semantic": 0.5976,
-        "reading": "different"
+        "similarity": 0.44
       },
       {
         "op": "only_b",
@@ -53,33 +51,25 @@
         "op": "match",
         "a": "was Opffer Melchisedech vffgeopffret habe/das ewig=\nlich sol wären. Zwingli\n[S]Ift gnug anzeigt/das die vorbildung des al=\nten Testamēts/nit vsserlichē in alle maas müß\nim Nüwen vßgetruckt werdē/oder aber es wä\nren nit vmbræ, das ist/Entwerffungē vnd Bedütussen/",
         "b": "daß die vorbildung deß Alten\nTeſtaments / nit vſſerlichen in alle maas muͤß im\nNuͤwen vß getruckt werden / oder aber es waͤren nit\nVmbræ, das iſt /",
-        "similarity": 0.4167,
-        "semantic": 0.5977,
-        "reading": "different"
+        "similarity": 0.5
       },
       {
         "op": "match",
         "a": "sonders die that selbs/welliches wir an Melchisedech se=\nchend/so er ein priester des höchsten Gottes ist gewäsen/ vnd vsserliche opffer vffgeopffret hat:",
         "b": "Entwerffungen vnd Beduͤtnuſſen / ſon=\nders die that ſelbs / welliches wir an Melchiſedech ſechend / ſo er ein Prieſter deß Hoͤchſten Gottes iſt gewaͤſen /",
-        "similarity": 0.5306,
-        "semantic": 0.8316,
-        "reading": "same"
+        "similarity": 0.5306
       },
       {
         "op": "match",
         "a": "dann er darumb\nein Priester was/von opfferen/Jst damit bedütet/das\nChristus sich selbs hat vffgeopffret/Hebreorū vij. cap.",
         "b": "vnd\nvſſerleche Opffer vffgeopffret hat: dann er darumb ein\nPrieſter was / von opfferen / Jſt damit beduͤtet / daß Chri=\nſtus ſich ſelbs hat vffgeopffret /",
-        "similarity": 0.6364,
-        "semantic": 0.7656,
-        "reading": "same"
+        "similarity": 0.6364
       },
       {
         "op": "match",
         "a": "Sann wo Melchisedech müßte Christo in allweg vßge\ntruckt/glych sin/so müßte er von einer jungffrowen ge=\nbozen sin/ein sun Gottes sin/gecrütziget sin.",
         "b": "Hebreorum 7. Cap. Dann\nwo Melchiſedech muͤßte Chriſto in allweg vßgetruckt / glych ſyn / ſo muͤßte er von einer Jungfrouwen geboren ſyn /",
-        "similarity": 0.4082,
-        "semantic": 0.7684,
-        "reading": "reworded"
+        "similarity": 0.4082
       },
       {
         "op": "only_b",
@@ -91,37 +81,24 @@
         "op": "match",
         "a": "2c. So nun\ndas nit/so sechē wir offenlich/das sin wäsen nun ein vor=\nbild gewäsen ist/in vsserlichen dingen/die aber Christus\nmit jm selbs erfüllt hat.",
         "b": "in vſſerlichen dingen / die aber Chriſtus mit jm\nſelbs erfuͤllt hat. Gilg",
-        "similarity": 0.4762,
-        "semantic": 0.7872,
-        "reading": "reworded"
+        "similarity": 0.4762
       },
       {
         "op": "only_a",
         "a": "Gilg Durer. [W]Jr sagend nit/das Christus vnnd Melchise=\ndech/in allen dingen glychförmig söllend sin/ wie man vns gern züschryben wölt/sunders/",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7519,
-        "semantic_match": "392 Die fuͤnfft\nGilg Murer. DArumb iſt es notwendig / das Melchiſedech mit\ndem Tod / Chriſto nit verglychet mag werden /",
-        "reading": "candidate"
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "so der tod mit Melchisedech nitt verglychet\nmag werden/habend wir ein ander opffer begärt zeüf\nsen vß der schrifft/das nit beschehen ist/Vnd damit be\nselchen wir es der schrifft. yy",
         "b": null,
-        "similarity": 0.0,
-        "semantic": 0.6051,
-        "semantic_match": "392 Die fuͤnfft\nGilg Murer. DArumb iſt es notwendig / das Melchiſedech mit\ndem Tod / Chriſto nit verglychet mag werden /",
-        "reading": "candidate"
+        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7131,
-    "reworded": 2,
-    "candidates": 2,
-    "recovered_by_embedding": 2,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4793,
+    "similarity": 0.5069,
     "words": {
       "a": 225,
       "b": 209
@@ -199,23 +176,13 @@
       },
       {
         "op": "replace",
-        "a": "des al ten Testamēts",
-        "b": "deß Alten Teſtaments"
+        "a": "des al ten",
+        "b": "deß Alten"
       },
       {
         "op": "equal",
-        "a": "nit",
-        "b": "nit"
-      },
-      {
-        "op": "replace",
-        "a": "vsserlichē",
-        "b": "vſſerlichen"
-      },
-      {
-        "op": "equal",
-        "a": "in alle maas",
-        "b": "in alle maas"
+        "a": "Testamēts nit vsserlichē in alle maas",
+        "b": "Teſtaments nit vſſerlichen in alle maas"
       },
       {
         "op": "replace",
@@ -229,13 +196,13 @@
       },
       {
         "op": "replace",
-        "a": "Nüwen vßgetruckt werdē",
-        "b": "Nu wen vß getruckt werden"
+        "a": "Nüwen vßgetruckt",
+        "b": "Nu wen vß getruckt"
       },
       {
         "op": "equal",
-        "a": "oder aber es wä ren nit",
-        "b": "oder aber es wa ren nit"
+        "a": "werdē oder aber es wä ren nit",
+        "b": "werden oder aber es wa ren nit"
       },
       {
         "op": "replace",
@@ -244,18 +211,8 @@
       },
       {
         "op": "equal",
-        "a": "das ist",
-        "b": "das iſt"
-      },
-      {
-        "op": "replace",
-        "a": "Entwerffungē",
-        "b": "Entwerffungen"
-      },
-      {
-        "op": "equal",
-        "a": "vnd",
-        "b": "vnd"
+        "a": "das ist Entwerffungē vnd",
+        "b": "das iſt Entwerffungen vnd"
       },
       {
         "op": "replace",
@@ -314,13 +271,13 @@
       },
       {
         "op": "equal",
-        "a": "sich selbs hat vffgeopffret",
-        "b": "ſich ſelbs hat vffgeopffret"
+        "a": "sich selbs hat vffgeopffret Hebreorū",
+        "b": "ſich ſelbs hat vffgeopffret Hebreorum"
       },
       {
         "op": "replace",
-        "a": "Hebreorū vij",
-        "b": "Hebreorum 7"
+        "a": "vij",
+        "b": "7"
       },
       {
         "op": "equal",
@@ -404,18 +361,8 @@
       },
       {
         "op": "equal",
-        "a": "So nun das nit so",
-        "b": "So nun das nit ſo"
-      },
-      {
-        "op": "replace",
-        "a": "sechē",
-        "b": "ſechen"
-      },
-      {
-        "op": "equal",
-        "a": "wir offenlich das",
-        "b": "wir offenlich das"
+        "a": "So nun das nit so sechē wir offenlich das",
+        "b": "So nun das nit ſo ſechen wir offenlich das"
       },
       {
         "op": "replace",
@@ -453,7 +400,7 @@
         "b": ""
       }
     ],
-    "ops": 33,
+    "ops": 30,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       366
     ]
   },
-  "alignment_score": 0.4359,
+  "alignment_score": 0.5086,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 10,
-    "matched": 3,
-    "only_a": 1,
-    "only_b": 6,
-    "similarity": 0.5088,
+    "units": 9,
+    "matched": 4,
+    "only_a": 0,
+    "only_b": 5,
+    "similarity": 0.4632,
     "pairs": [
       {
         "op": "only_b",
@@ -39,9 +39,7 @@
         "op": "match",
         "a": "CLXX\n\nDiß ist die fünffte Schlußred. Die Mäß yetz im bruch/darinn man\nChristū/Gott dem vatter/für die sünd\nder läbendigen vnnd todten/vffopffere/ist\nder geschrifft widrig/dem aller heiligosten\nopffer/lyden vnd sterben Christi/ein leste=\nrung/vnd vmb der mißbrüchen willē/ein\ngrüwel vor Gott.",
         "b": "für die Sünd der Lebendigen\nund Todten / uffopffere / iſt der Geſchrifft wide-\nrig / dem allerheiligſten Opffer / lyden und ſterben\nChriſti ein Läſterung /",
-        "similarity": 0.4507,
-        "semantic": 0.7177,
-        "reading": "reworded"
+        "similarity": 0.4507
       },
       {
         "op": "only_b",
@@ -53,32 +51,19 @@
         "op": "match",
         "a": "Berchtoldus Haller. Das ist vnser grund/ in der j. Epi. Johannis iij. capitel. Welcher Christū\nhat erkennt/der weyßt/das\nEr/Gott vnnd mensch/ein\nheyland ist der welt/vnd dz\nniemand mag zum Vatter\nkommen/dann allein durch\nChristū/Johannis vj.",
         "b": "Capitel. Welcher Chriſtum\nhat erkennt / der weißt / daß er Gott und\nMenſch / ein Heyland iſt der Welt / und daß\nniemand mag zum Vatter kommen /",
-        "similarity": 0.5758,
-        "semantic": 0.7693,
-        "reading": "same"
+        "similarity": 0.5758
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "Dañ\ner ist dem vatter so lieb/das\ner vmb sinentwillen/vns be\ngnadiget. Er hat ouch das werck der erlösung/volkom=\nme vßgericht/one alle mitgehülffen/Esaie.lviij.",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7513,
-        "semantic_match": "daß er uns nit uff einmahl erlößt hab / oder daß er uns\nnit uff alle wyß erlößt hab / wie wir ſolten erlößt werden /",
-        "reading": "candidate"
-      },
-      {
-        "op": "only_b",
-        "a": null,
         "b": "dann allein durch\nChriſtum / Johannis am 6. Dann er iſt dem Vatter ſo\nlieb / daß er um ſeinetwillen uns begnadiget.",
-        "similarity": 0.0
+        "similarity": 0.3265
       },
       {
         "op": "match",
         "a": "Er hat\nvff alle wyß/vff das gnügsamest/für vns bezalt/vnnd\nDu ij",
         "b": "Er hat\nauch das Werck der Erlöſung vollkommen ußgericht / ohne alle Mitgehülffen / Eſaie am 63. Er hat uff alle wyß\nuff das gnügſameſt für uns bezahlt /",
-        "similarity": 0.5,
-        "semantic": 0.5433,
-        "reading": "check"
+        "similarity": 0.5
       },
       {
         "op": "only_b",
@@ -98,15 +83,10 @@
         "b": "der macht Chriſtum zü einem unvollkommenen Prie-\nſter und Erlöſer / und verläugnet alſo ſynen. Das be-\nſchicht",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6954,
-    "reworded": 1,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.5532,
+    "similarity": 0.5593,
     "words": {
       "a": 134,
       "b": 195
@@ -304,13 +284,13 @@
       },
       {
         "op": "replace",
-        "a": "vj Dañ",
-        "b": "am 6 Dann"
+        "a": "vj",
+        "b": "am 6"
       },
       {
         "op": "equal",
-        "a": "er ist dem",
-        "b": "er iſt dem"
+        "a": "Dañ er ist dem",
+        "b": "Dann er iſt dem"
       },
       {
         "op": "replace",

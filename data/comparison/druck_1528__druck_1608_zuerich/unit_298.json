@@ -5,41 +5,65 @@
       298
     ],
     "druck_1608_zuerich": [
-      345
+      344
     ]
   },
-  "alignment_score": 0.2715,
+  "alignment_score": 0.3041,
   "coarse": {
     "paragraphs": {
       "a": 1,
-      "b": 5
+      "b": 3
     },
     "counts": {
       "equal": 0,
-      "replace": 5,
+      "replace": 3,
       "delete": 0,
       "insert": 0
     },
     "similarity": 0.0
   },
   "sentences": {
-    "units": 12,
-    "matched": 5,
-    "only_a": 5,
-    "only_b": 2,
-    "similarity": 0.4885,
+    "units": 14,
+    "matched": 3,
+    "only_a": 7,
+    "only_b": 4,
+    "similarity": 0.4277,
     "pairs": [
       {
-        "op": "only_a",
-        "a": "Die vierdt\nAdeyster Ulrich zwingy. Als die gab des gloubens / vilen vnderscheid=\nlich merer oder minder geben werde/ erkennē\nwir wol:",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "310\tDie vierdt\nantwurt ich alſo. Das die gab deß Gloubens in menger-\nley geſtalt wirt vßgetheilt/vn̄ eim jegklichen Gott mitteilt/",
         "similarity": 0.0
       },
       {
-        "op": "only_a",
-        "a": "aber diß Argumēt / oder gegenwurff\nwurd allein reychē vff die grösse des gloubēs\nvnd nit vff das vermögen des vsserlichen worts/dan so\nder gloub das vermag/vnd nitt das vsser wort/so habē\nwir recht/vñ sind sy von jrem spruch getrungē/",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "als im gefelt. Wie wol Meiſter Vlrich Chriſtum Jeſum\nals wol prediget/vnd den Crützigeten/als Petrus vnnd\nPaulus (ob Gott wil) ouch mit gůtem glouben:",
         "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "nüt de-\nſterminder/hab ich nit gehört/das er die Lamen grad hab\ngemacht/vnd ſyn ſchat die Krancken geſund.",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "Dergeſtalt\nhaben wir ouch Matth. am 21. Cap. Jm Figenboum vnd\nverendrung deß Bergs. Dann alle die ding/ſo wir werdēd\nbegeren/bittend/vnd glöubig/werden wir empfahen/vnd\nbefelchen ſöllich abermals den Actis.",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "Die vierdt\nAdeyster Ulrich zwingy. Als die gab des gloubens / vilen vnderscheid=\nlich merer oder minder geben werde/ erkennē\nwir wol:",
+        "b": "Meiſter Vlrich Zwingly. DAß die gab deß Gloubens/vilen vnderſcheidlich\nmerer oder minder geben werde/erkennen wir wol: aber diß Argument/oder gegentwurff wurd allein\nreichen vff die gröſſe deß Gloubens/vnd nit vff das vermö-\ngen deß vſſerlichen worts/dann ſo der Gloub das vermag/",
+        "similarity": 0.3582
+      },
+      {
+        "op": "match",
+        "a": "aber diß Argumēt / oder gegenwurff\nwurd allein reychē vff die grösse des gloubēs\nvnd nit vff das vermögen des vsserlichen worts/dan so\nder gloub das vermag/vnd nitt das vsser wort/so habē\nwir recht/vñ sind sy von jrem spruch getrungē/",
+        "b": "vnd nit das vſſer wort/ſo haben wir recht/vnd ſind ſy von\njrem Spruch getrungen/das das vſſer wort ſöllich vermö-\ngen hab.",
+        "similarity": 0.4776
       },
       {
         "op": "only_a",
@@ -48,323 +72,253 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "Sag ich das die red vnser\nvordrig meynung bestättet/ dann die wunderwerck we=\nder an minē gloubē noch am vssern wort stand/",
-        "b": null,
-        "similarity": 0.0,
-        "semantic": 0.7026,
-        "semantic_match": "vnd zun Roͤmern\nam 10. Capitel. Ouch die erſt Concluſion / darumb ( ob\nGott wil ) Chriſtenlich red gehalten worden. Zwingly.",
-        "reading": "candidate"
+        "b": "Als ſy anzeigent von Wunderzeichen/die von Pe-\ntro gewürckt/vnd durch mich glöubigen nit gewürckt ſind: Sag ich das die red vnſer vordrig meinung beſtätet/dann\ndie Wunderwerck weder an mynem Glouben noch am\nvſſern wort ſtand/deßhalb aber jr meinung zeruck lyt/dañ\ndie krafft der Wunderwercken/nit an vnſerem Glouben/ ,ſons",
+        "similarity": 0.4474
       },
       {
-        "op": "match",
+        "op": "only_a",
         "a": "deßhalb\naber jr meynung zeruck lyt/ dann die krafft der wunder\nwercken/nit an vnserm glouben/ sonders an der wal got\ntes stand/daruon hie nit statt ist nach notdurfft zereden/",
-        "b": "Schlußred. 311\nſonders an der Wal Gottes ſtand / daruon hie nit ſtatt iſt\nnach noturfft zereden / vnd ſind die ort die Chriſtus vom\nſtarcken Glouben redt /",
-        "similarity": 0.4211,
-        "semantic": 0.7043,
-        "reading": "reworded"
+        "b": null,
+        "similarity": 0.0
       },
       {
-        "op": "match",
+        "op": "only_a",
         "a": "vnd sind die ozt die Christus vom starcken glouben rede\nnit darwider. Pfarrer von Sant Gallen. Jr wüssend wol/das das wort des menschē/als\neins menschē nüt bmag:",
-        "b": "nit darwider. Pfarrer von Sant Gallen. WJr wüſſend wol / das das wort deß Menſchen / als\nein Menſchen nüt vermag: aber ſo wir handlen vß\ndem beſelch vnd Wort Gottes /",
-        "similarity": 0.4483,
-        "semantic": 0.7998,
-        "reading": "reworded"
+        "b": null,
+        "similarity": 0.0
       },
       {
-        "op": "match",
+        "op": "only_a",
         "a": "aber so wir handlen vß\ndem beuelch vñ wort gottes so thůt es nit allein\nnatürliche ding/sonders übernatürliche/ dz eroffnet sich\nin dē wort/",
-        "b": "ſo thůt es nit allein\nnatürliche ding / ſonders über natürliche / das eroffnet ſich\nin dem wort / ſo Petrus dem Herrn antwurt /",
-        "similarity": 0.5217,
-        "semantic": 0.7466,
-        "reading": "same"
+        "b": null,
+        "similarity": 0.0
       },
       {
-        "op": "match",
+        "op": "only_a",
         "a": "so Petrus dē herrn antwurt/Gebieter durch\ndie ganze nacht arbeitend/habē wir nüt gefangen/indy\nnem wort aber/ wil ich vßspanne das netz:",
-        "b": "Gebieter / durch die gantze Nacht arbeitend / haben wir nüt gefangen / in dynem Wort aber / wil ich vßſpannen das Netz : als ſy\nſöllichs thon haben /",
-        "similarity": 0.5833,
-        "semantic": 0.7966,
-        "reading": "same"
+        "b": null,
+        "similarity": 0.0
       },
       {
-        "op": "match",
+        "op": "only_a",
         "a": "als sy söllichs\nthon haben/habē sy vmschlossen/ ein grosse viled er visch\nen. Also möchte zůgefürt werden/ der spruch in der ersten\nEpist.",
-        "b": "haben ſy vmbſchloſſen ein groſſe vile\nder Fiſchen. Alſo moͤchte zůgefürt werden / der Spruch in\nder erſten Epiſtel Petri am erſten Cap.",
-        "similarity": 0.4681,
-        "semantic": 0.4987,
-        "reading": "different"
+        "b": null,
+        "similarity": 0.0
       },
       {
         "op": "only_a",
         "a": "Petri am ersten cap. vnd zun Römern am am 9. Epitel.",
         "b": null,
         "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "vnd zun Roͤmern\nam 10. Capitel. Ouch die erſt Concluſion / darumb ( ob\nGott wil ) Chriſtenlich red gehalten worden. Zwingly.",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "AL Petrus ſprach / in dinem wort wil ich das Netz\nvßſpreiten / beger ich von vnſerm Bruͤder was vſ=\nſerlichen . Worts Petrus geredt hab / zů deß netzes\ninlaſſung.",
-        "similarity": 0.0
       }
-    ],
-    "semantic": 0.7081,
-    "reworded": 2,
-    "candidates": 1,
-    "recovered_by_embedding": 1,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4434,
+    "similarity": 0.4008,
     "words": {
       "a": 253,
-      "b": 171
+      "b": 226
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Die vierdt Adeyster Ulrich zwingy Als die gab des gloubens vilen vnderscheid lich merer oder minder geben werde erkennē wir wol aber diß Argumēt oder gegenwurff wurd allein reychē vff die grösse des gloubēs vnd nit vff das vermögen des vsserlichen worts dan so der gloub das vermag vnd nitt das vsser wort so habē wir recht vñ sind sy von jrem spruch getrungē das das vsser wort söllich vermögen hab als sy anzeygent vonn wunderzeychen die von Petro gewürcket vñ durch mich glöubigen nit gewürckt sind Sag ich das die red vnser vordrig meynung bestättet dann die wunderwerck we der an minē gloubē noch am vssern wort stand deßhalb aber jr meynung zeruck lyt dann die krafft der wunder wercken nit an vnserm glouben",
-        "b": "Schlußred 311"
+        "op": "insert",
+        "a": "",
+        "b": "310"
       },
       {
         "op": "equal",
-        "a": "sonders an der wal",
-        "b": "ſonders an der Wal"
+        "a": "Die vierdt",
+        "b": "Die vierdt"
       },
       {
         "op": "replace",
-        "a": "got tes",
-        "b": "Gottes"
+        "a": "Adeyster Ulrich zwingy Als",
+        "b": "antwurt ich alſo Das"
       },
       {
         "op": "equal",
-        "a": "stand daruon hie nit statt ist nach",
-        "b": "ſtand daruon hie nit ſtatt iſt nach"
+        "a": "die gab",
+        "b": "die gab"
       },
       {
         "op": "replace",
-        "a": "notdurfft",
-        "b": "noturfft"
+        "a": "des",
+        "b": "deß Gloubens in menger ley geſtalt wirt vßgetheilt vn eim jegklichen Gott mitteilt als im gefelt Wie wol Meiſter Vlrich Chriſtum Jeſum als wol prediget vnd den Crützigeten als Petrus vnnd Paulus ob Gott wil ouch mit gůtem glouben nüt de ſterminder hab ich nit gehört das er die Lamen grad hab gemacht vnd ſyn ſchat die Krancken geſund Dergeſtalt haben wir ouch Matth am 21 Cap Jm Figenboum vnd verendrung deß Bergs Dann alle die ding ſo wir werdēd begeren bittend vnd glöubig werden wir empfahen vnd befelchen ſöllich abermals den Actis Meiſter Vlrich Zwingly DAß die gab deß"
       },
       {
         "op": "equal",
-        "a": "zereden vnd sind die",
-        "b": "zereden vnd ſind die"
+        "a": "gloubens vilen",
+        "b": "Gloubens vilen"
       },
       {
         "op": "replace",
-        "a": "ozt",
-        "b": "ort"
+        "a": "vnderscheid lich",
+        "b": "vnderſcheidlich"
       },
       {
         "op": "equal",
-        "a": "die Christus vom starcken glouben",
-        "b": "die Chriſtus vom ſtarcken Glouben"
+        "a": "merer oder minder geben werde erkennē wir wol aber diß Argumēt oder",
+        "b": "merer oder minder geben werde erkennen wir wol aber diß Argument oder"
       },
       {
         "op": "replace",
-        "a": "rede",
-        "b": "redt"
+        "a": "gegenwurff",
+        "b": "gegentwurff"
       },
       {
         "op": "equal",
-        "a": "nit darwider Pfarrer von Sant Gallen",
-        "b": "nit darwider Pfarrer von Sant Gallen"
+        "a": "wurd allein",
+        "b": "wurd allein"
       },
       {
         "op": "replace",
-        "a": "Jr",
-        "b": "WJr"
+        "a": "reychē",
+        "b": "reichen"
       },
       {
         "op": "equal",
-        "a": "wüssend wol das das wort",
-        "b": "wüſſend wol das das wort"
+        "a": "vff die grösse",
+        "b": "vff die gröſſe"
       },
       {
         "op": "replace",
-        "a": "des menschē",
-        "b": "deß Menſchen"
+        "a": "des",
+        "b": "deß"
       },
       {
         "op": "equal",
-        "a": "als",
-        "b": "als"
+        "a": "gloubēs vnd nit vff das",
+        "b": "Gloubens vnd nit vff das"
       },
       {
         "op": "replace",
-        "a": "eins menschē",
-        "b": "ein Menſchen"
+        "a": "vermögen des",
+        "b": "vermö gen deß"
       },
       {
         "op": "equal",
-        "a": "nüt",
-        "b": "nüt"
+        "a": "vsserlichen worts",
+        "b": "vſſerlichen worts"
       },
       {
         "op": "replace",
-        "a": "bmag",
-        "b": "vermag"
+        "a": "dan",
+        "b": "dann"
       },
       {
         "op": "equal",
-        "a": "aber so wir handlen vß dem",
-        "b": "aber ſo wir handlen vß dem"
+        "a": "so der gloub das vermag vnd",
+        "b": "ſo der Gloub das vermag vnd"
       },
       {
         "op": "replace",
-        "a": "beuelch vñ",
-        "b": "beſelch vnd"
+        "a": "nitt",
+        "b": "nit"
       },
       {
         "op": "equal",
-        "a": "wort gottes so thůt es nit allein natürliche ding sonders",
-        "b": "Wort Gottes ſo thůt es nit allein natürliche ding ſonders"
+        "a": "das vsser wort so habē wir recht vñ sind sy von jrem spruch getrungē das das vsser wort söllich",
+        "b": "das vſſer wort ſo haben wir recht vnd ſind ſy von jrem Spruch getrungen das das vſſer wort ſöllich"
       },
       {
         "op": "replace",
-        "a": "übernatürliche dz",
-        "b": "über natürliche das"
+        "a": "vermögen",
+        "b": "vermö gen"
       },
       {
         "op": "equal",
-        "a": "eroffnet sich in",
-        "b": "eroffnet ſich in"
+        "a": "hab als sy",
+        "b": "hab Als ſy"
       },
       {
         "op": "replace",
-        "a": "dē",
-        "b": "dem"
+        "a": "anzeygent vonn wunderzeychen",
+        "b": "anzeigent von Wunderzeichen"
       },
       {
         "op": "equal",
-        "a": "wort so Petrus",
-        "b": "wort ſo Petrus"
+        "a": "die von",
+        "b": "die von"
       },
       {
         "op": "replace",
-        "a": "dē",
-        "b": "dem"
+        "a": "Petro gewürcket",
+        "b": "Pe tro gewürckt"
       },
       {
         "op": "equal",
-        "a": "herrn antwurt Gebieter durch die",
-        "b": "Herrn antwurt Gebieter durch die"
+        "a": "vñ durch mich glöubigen nit gewürckt sind Sag ich das die red vnser vordrig",
+        "b": "vnd durch mich glöubigen nit gewürckt ſind Sag ich das die red vnſer vordrig"
       },
       {
         "op": "replace",
-        "a": "ganze",
-        "b": "gantze"
+        "a": "meynung bestättet",
+        "b": "meinung beſtätet"
       },
       {
         "op": "equal",
-        "a": "nacht arbeitend",
-        "b": "Nacht arbeitend"
+        "a": "dann die wunderwerck",
+        "b": "dann die Wunderwerck"
       },
       {
         "op": "replace",
-        "a": "habē",
-        "b": "haben"
+        "a": "we der",
+        "b": "weder"
       },
       {
         "op": "equal",
-        "a": "wir nüt gefangen",
-        "b": "wir nüt gefangen"
+        "a": "an",
+        "b": "an"
       },
       {
         "op": "replace",
-        "a": "indy nem",
-        "b": "in dynem"
+        "a": "minē",
+        "b": "mynem"
       },
       {
         "op": "equal",
-        "a": "wort aber wil ich",
-        "b": "Wort aber wil ich"
+        "a": "gloubē noch am vssern wort stand deßhalb aber jr",
+        "b": "Glouben noch am vſſern wort ſtand deßhalb aber jr"
       },
       {
         "op": "replace",
-        "a": "vßspanne",
-        "b": "vßſpannen"
+        "a": "meynung",
+        "b": "meinung"
       },
       {
         "op": "equal",
-        "a": "das netz als sy söllichs thon haben",
-        "b": "das Netz als ſy ſöllichs thon haben"
+        "a": "zeruck lyt dann die krafft der",
+        "b": "zeruck lyt dañ die krafft der"
       },
       {
         "op": "replace",
-        "a": "habē",
-        "b": "haben"
+        "a": "wunder wercken",
+        "b": "Wunderwercken"
       },
       {
         "op": "equal",
-        "a": "sy",
-        "b": "ſy"
+        "a": "nit an",
+        "b": "nit an"
       },
       {
         "op": "replace",
-        "a": "vmschlossen",
-        "b": "vmbſchloſſen"
+        "a": "vnserm",
+        "b": "vnſerem"
       },
       {
         "op": "equal",
-        "a": "ein grosse",
-        "b": "ein groſſe"
+        "a": "glouben",
+        "b": "Glouben"
       },
       {
         "op": "replace",
-        "a": "viled er visch en",
-        "b": "vile der Fiſchen"
-      },
-      {
-        "op": "equal",
-        "a": "Also",
-        "b": "Alſo"
-      },
-      {
-        "op": "replace",
-        "a": "möchte",
-        "b": "mo chte"
-      },
-      {
-        "op": "equal",
-        "a": "zůgefürt werden der spruch in der ersten",
-        "b": "zůgefürt werden der Spruch in der erſten"
-      },
-      {
-        "op": "replace",
-        "a": "Epist",
-        "b": "Epiſtel"
-      },
-      {
-        "op": "equal",
-        "a": "Petri am ersten cap vnd zun",
-        "b": "Petri am erſten Cap vnd zun"
-      },
-      {
-        "op": "replace",
-        "a": "Römern",
-        "b": "Ro mern"
-      },
-      {
-        "op": "equal",
-        "a": "am",
-        "b": "am"
-      },
-      {
-        "op": "replace",
-        "a": "am 9 Epitel",
-        "b": "10 Capitel Ouch die erſt Concluſion darumb ob Gott wil Chriſtenlich red gehalten worden Zwingly AL Petrus ſprach in dinem wort wil ich das Netz vßſpreiten beger ich von vnſerm Bru der was vſ ſerlichen Worts Petrus geredt hab zů deß netzes inlaſſung"
+        "a": "sonders an der wal got tes stand daruon hie nit statt ist nach notdurfft zereden vnd sind die ozt die Christus vom starcken glouben rede nit darwider Pfarrer von Sant Gallen Jr wüssend wol das das wort des menschē als eins menschē nüt bmag aber so wir handlen vß dem beuelch vñ wort gottes so thůt es nit allein natürliche ding sonders übernatürliche dz eroffnet sich in dē wort so Petrus dē herrn antwurt Gebieter durch die ganze nacht arbeitend habē wir nüt gefangen indy nem wort aber wil ich vßspanne das netz als sy söllichs thon haben habē sy vmschlossen ein grosse viled er visch en Also möchte zůgefürt werden der spruch in der ersten Epist Petri am ersten cap vnd zun Römern am am 9 Epitel",
+        "b": "ſons"
       }
     ],
-    "ops": 24,
+    "ops": 20,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       260
     ]
   },
-  "alignment_score": 0.6027,
+  "alignment_score": 0.6429,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 2,
     "only_a": 0,
     "only_b": 8,
-    "similarity": 0.6029,
+    "similarity": 0.6155,
     "pairs": [
       {
         "op": "only_b",
@@ -63,9 +63,7 @@
         "op": "match",
         "a": "Die vierde\nſuns verheyssen hab lyblich zeessen/das mag mit\ngschrifft nit bybracht werden/deßhalb das argument\nvffhört/wir erkennen jn ouch den almechtigen ſyn.",
         "b": "lyblich\nzeeſſen zegeben/ das mag mit geschrifft nit by=\nbracht werden: deßhalb das argument vffhỏrt/ wir erkennen jn ouch den allmechtigen sin.",
-        "similarity": 0.6809,
-        "semantic": 0.7472,
-        "reading": "same"
+        "similarity": 0.6809
       },
       {
         "op": "only_b",
@@ -77,9 +75,7 @@
         "op": "match",
         "a": "Aber\ndaruß volget nit/gott vermag das/so ist es ouch/dañ er\nmöchte die steyne sul zů Heliasen vñ predigende Johañ\nsen keren/sy sind aber darumb nit die predigenden/He=\nlias vñ Johannes/darzů thůt gott wider sin eygẽ wort\nnit/es wirt ouch wider sin eygen wort thůn/nitt für ein",
         "b": "sy sind aber darum̄ nit\ndie predigenden/ Helias vnd Johannes. Darzů\nthůt Gott wid' sin eygen wort nit/ es wirt ouch\nwider sin eygen wort thůn/",
-        "similarity": 0.525,
-        "semantic": 0.8908,
-        "reading": "same"
+        "similarity": 0.55
       },
       {
         "op": "only_b",
@@ -93,15 +89,10 @@
         "b": "das er ouch by der\nwarheyt belybt/ die dann darwider ist/ das hie\nfleysch vnd blůt geeſſen werd. Pfarrer von Sant Gallen. Als nach langem min lieber Herr Meyster\nVlrich",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.819,
-    "reworded": 0,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.3789,
+    "similarity": 0.3913,
     "words": {
       "a": 79,
       "b": 243
@@ -179,13 +170,13 @@
       },
       {
         "op": "equal",
-        "a": "so ist es ouch dañ er möchte die steyne sul zů Heliasen",
-        "b": "so ist es ouch dañ er mỏchte die steyne ſul zů Heliasen"
+        "a": "so ist es ouch dañ er möchte die steyne sul zů Heliasen vñ",
+        "b": "so ist es ouch dañ er mỏchte die steyne ſul zů Heliasen vnd"
       },
       {
         "op": "replace",
-        "a": "vñ predigende Johan sen",
-        "b": "vnd pre digendē Johansen"
+        "a": "predigende Johan sen",
+        "b": "pre digendē Johansen"
       },
       {
         "op": "equal",
@@ -204,13 +195,13 @@
       },
       {
         "op": "replace",
-        "a": "He lias vñ",
-        "b": "Helias vnd"
+        "a": "He lias",
+        "b": "Helias"
       },
       {
         "op": "equal",
-        "a": "Johannes darzů thůt gott",
-        "b": "Johannes Darzů thůt Gott"
+        "a": "vñ Johannes darzů thůt gott",
+        "b": "vnd Johannes Darzů thůt Gott"
       },
       {
         "op": "replace",

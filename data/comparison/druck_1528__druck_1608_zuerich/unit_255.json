@@ -8,7 +8,7 @@
       296
     ]
   },
-  "alignment_score": 0.4882,
+  "alignment_score": 0.48,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 3,
     "only_b": 1,
-    "similarity": 0.6268,
+    "similarity": 0.6281,
     "pairs": [
       {
         "op": "only_b",
@@ -39,9 +39,7 @@
         "op": "match",
         "a": "Schlußred. des ryffwins. Darumb wir noch stätigs wid die vierden\nConclusion/Beliben vff den worte Das ist min lyb/über\nden worten wellen wir nit zancken /",
         "b": "Darumb\nwir noch ſtåtigs wider die vierten Concluſion/belyben vff\nden worten: Das iſt min Lyb/über den worten wellen wir\nnit zancken/allein das der ſinn da belyb/daß es nit ein fi=\ngurlich oder bedütlich Brot ſye/daß wir im Abendtmal\neſſend/ſonder der Lyb vnd das Blüt Chriſti:",
-        "similarity": 0.4935,
-        "semantic": 0.8595,
-        "reading": "reworded"
+        "similarity": 0.4935
       },
       {
         "op": "only_a",
@@ -53,49 +51,37 @@
         "op": "match",
         "a": "so vil yeczmal. Ecolampadius. [W]Ir süchen ouch kein wort zanck / Begerend aber\nden natürlichen verstand der worte/damit sich\nkein jrsal züerrag/vnnd Christo sin Leer Belibe/",
         "b": "ſo vil jetzmal. Ecolampadius. WJr ſuͤchen ouch kein wort zanck/begerend aber den\nnatürlichen verſtand der worten/damit ſich kein\nJrfal zütrag/vnnd Chriſto ſin Eer belybe /",
-        "similarity": 0.6786,
-        "semantic": 0.9098,
-        "reading": "same"
+        "similarity": 0.6786
       },
       {
         "op": "match",
         "a": "Hierum die art zereden/wie herr Benedict pflegt/dz in\nden worten: Das ist min lyb/ sye so vil als in dē brot Jst\nmin lyb:",
         "b": "Hie=\nrumb die art zereden/wie Herr Benedict pflegt/das in den\nworten: Das iſt min Lyb/ſye ſo vil/als in dem Brot Iſt\nmin Lyb:",
-        "similarity": 0.8302,
-        "semantic": 0.9336,
-        "reading": "same"
+        "similarity": 0.8302
       },
       {
         "op": "match",
         "a": "haben wir begert der glichen art der sprach vß\ngöttlicher geschrifft/hatt sy aber noch nit anzeygt: vnd\nerfindt sich/das gar ein frömbde wyß zereden ist/sprech\nend.",
         "b": "haben wir begert derglychen art der ſprach vß\nGoͤttlicher Geſchrifft/hat ſy aber noch nit angezeigt:vnd er=\nfindt ſich/das gar ein froͤmde wyß zereden iſt/ſprechend:",
-        "similarity": 0.678,
-        "semantic": 0.7386,
-        "reading": "same"
+        "similarity": 0.678
       },
       {
         "op": "match",
         "a": "Das ein schwum sye das wasser/so man verston wil\ndadurch/im schwum sye das wasser. Also ouch so sind es\nfrömbd wyß zerede/so man spricht/der becher ist ryff win\nso er findt sich ye klarlich/das der Becher in sinem wäsen/",
         "b": "Das ein Schwum̃ ſye das Waſſer/ſo man verſton wil da\ndurch/im Schwum ſye das Waſſer. Alſo ouch ſo ſind es\nfroͤmbd wyß zeredē/ſo man ſpricht/der Becher iſt Ryſſwyn\nſo erfindt ſich je klarlich/das der Becher in ſinem wäſen/",
-        "similarity": 0.8409,
-        "semantic": 0.9563,
-        "reading": "same"
+        "similarity": 0.8182
       },
       {
         "op": "match",
         "a": "silbrin/oder vß einer andern matheri ist vñ nit win/wie\nwol er den wyn helt. Alber wo man söllich red brucht/da\nmüß man ein Tropum annemen/von welchē doch herr Be=\nnedict vnd sin anhang so groß abschühen tragen.",
         "b": "ſilbrin/oder vß einer andern Matheri iſt vnd nit Wyn/ wiewol er den Wyn helt. Aber wo man ſoͤllich red brucht/",
-        "similarity": 0.5079,
-        "semantic": 0.6772,
-        "reading": "same"
+        "similarity": 0.5397
       },
       {
         "op": "match",
         "a": "Das\nExempel das er brucht/das ysen ist für/ist ouch ein vn=\nbrüchliche red: man möcht wol sprechen/das ysin ist für=\nin/darumb es schlechter behilff ist/vnnd vsserthalb der\ngeschrifft.",
         "b": "da muß man ein Tropum annem̃en/von welchẽ doch Herr\nBenedict vnd ſin anhang ſo groß abſchüchen tragen. Das\nExempel das er brucht/das Yſen iſt Fuͤr / iſt ouch ein vn\nbrüchli=",
-        "similarity": 0.3582,
-        "semantic": 0.5151,
-        "reading": "different"
+        "similarity": 0.3582
       },
       {
         "op": "only_a",
@@ -109,15 +95,10 @@
         "b": null,
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7986,
-    "reworded": 1,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.6277,
+    "similarity": 0.6312,
     "words": {
       "a": 296,
       "b": 268
@@ -230,18 +211,8 @@
       },
       {
         "op": "equal",
-        "a": "lyb",
-        "b": "Lyb"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "das blüt",
-        "b": "das Blüt"
+        "a": "lyb vñ das blüt",
+        "b": "Lyb vnd das Blüt"
       },
       {
         "op": "replace",
@@ -420,8 +391,18 @@
       },
       {
         "op": "equal",
-        "a": "wyß zerede so man spricht der becher ist",
-        "b": "wyß zeredē ſo man ſpricht der Becher iſt"
+        "a": "wyß",
+        "b": "wyß"
+      },
+      {
+        "op": "replace",
+        "a": "zerede",
+        "b": "zeredē"
+      },
+      {
+        "op": "equal",
+        "a": "so man spricht der becher ist",
+        "b": "ſo man ſpricht der Becher iſt"
       },
       {
         "op": "replace",
@@ -450,18 +431,8 @@
       },
       {
         "op": "equal",
-        "a": "klarlich das der Becher in sinem wäsen silbrin oder vß einer andern matheri ist",
-        "b": "klarlich das der Becher in ſinem wäſen ſilbrin oder vß einer andern Matheri iſt"
-      },
-      {
-        "op": "replace",
-        "a": "vñ",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "nit",
-        "b": "nit"
+        "a": "klarlich das der Becher in sinem wäsen silbrin oder vß einer andern matheri ist vñ nit",
+        "b": "klarlich das der Becher in ſinem wäſen ſilbrin oder vß einer andern Matheri iſt vnd nit"
       },
       {
         "op": "replace",
@@ -539,7 +510,7 @@
         "b": "brüchli"
       }
     ],
-    "ops": 42,
+    "ops": 41,
     "truncated": false
   }
 }

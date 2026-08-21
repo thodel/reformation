@@ -8,7 +8,7 @@
       456
     ]
   },
-  "alignment_score": 0.4398,
+  "alignment_score": 0.4815,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -39,49 +39,37 @@
         "op": "match",
         "a": "zc. Bedunckt mich ye / Abel sye besser dann\nsine schaff. Dz er dañ ansücht vom Touff/ der sye besser\ndann der Touffer/",
         "b": "424        Die fiinfft. dann ſyne Schaff. Daß er dann anzuͤcht vom Touff/der\nſye beſſer dann der Toͤuffer/wirt aber nit vß der Schrifft\nerfunden/diewyl der Touff ein vſſerlich Element.",
-        "similarity": 0.3636,
-        "semantic": 0.6905,
-        "reading": "reworded"
+        "similarity": 0.3636
       },
       {
         "op": "match",
         "a": "wirt aber nit vß der schrifft erfundẽ/ diewyl der Touff ein vsserlich Element. Semnach hat\nMaria Christum nit geopffret/ sunder nach dem gesagt\nin den tempel überantwurt/",
         "b": "Dem-\nnach hat Maria Chriſtum nit geopffret/ſonder nach dem\nGeſatz in den Tempel uͤberantwurt/vnnd haben wol ein\nPar Tuben geopffret/aber nit Chriſtum/wie hie daruon\ngeredt.",
-        "similarity": 0.3509,
-        "semantic": 0.8232,
-        "reading": "reworded"
+        "similarity": 0.3509
       },
       {
         "op": "match",
         "a": "vnd haben wol ein par Tu\nben geopffret/ aber nit Christum/ wie hie daruon geredt. Johannes Büchstab\n\nISchon Abel besser ist gsin dañ das opffer/",
         "b": "Johannes Buͤchſtab. OB ſchon Abel beſſer iſt gſin dann das Opffer/wirt\ndaſſelb darumb nit allenthalben muͤſſen ſyn.",
-        "similarity": 0.3111,
-        "semantic": 0.5582,
-        "reading": "different"
+        "similarity": 0.3111
       },
       {
         "op": "match",
         "a": "wirt\ndas selb darumb nitt allenthalben müssenn sin. Sag wyter vff den anfang/ von herrn Berch⸗\ntolden yngefürt/ das die Mässz ein grüwel vor\nGott sye/",
         "b": "Sag\nwyter vff den anfang/von Herrn Berchtolden ynge-\nfuͤrt/das die Maß ein gruͤſwel vor Gott ſye/von wegen deß\nzuͤſatzes/Ceremonien/Cruͤzen/Kleidungen/Perſonen/ꝛc.",
-        "similarity": 0.4561,
-        "semantic": 0.7032,
-        "reading": "reworded"
+        "similarity": 0.4561
       },
       {
         "op": "match",
         "a": "von wegen des züsatzes/ Ceremonien/ crützen/ kleydungen/ personen. zc. Bin ich mit gschrifft noch nitt\ngnůgsam võ im vnderricht. Der kostlichen Mässgwãn\nder halb/",
         "b": "Bin ich mit Gſchrifft noch nit gnuͤgſam von jm vnderricht. Der koſtlichen Maßgwaͤnder halb/haben wir glychfoͤrmi-\nge vorbeduͤtnuß im Gſatzt/Als Exodi 28.",
-        "similarity": 0.3846,
-        "semantic": 0.5118,
-        "reading": "different"
+        "similarity": 0.3846
       },
       {
         "op": "match",
         "a": "habẽ wir glychförmige vorbedütnuß im glagt/ Als Exodi xxviij. vnd xxxv. xxxix. Vnd wie Ma⸗\nria Magdalena den glouben in Christum/",
         "b": "vnd 35.39. Vnd\nwie Maria Magdalena den Glouben in Chriſtum/mit\nvßwendigen ſichtbaren Wercken beſtaͤtet hat. Luce am 7.",
-        "similarity": 0.381,
-        "semantic": 0.8333,
-        "reading": "reworded"
+        "similarity": 0.381
       },
       {
         "op": "only_a",
@@ -93,9 +81,7 @@
         "op": "match",
         "a": "gott\nmit vßwendigen dingen/ gaben vnd ceremonien/ dienen: wiewol harinn zů zyten/ groß mißbrüch geübt werden. Der",
         "b": "Capit. Alſo mag ouch ein ietlicher Chriſt/nach ſynem wil-\nlen/Gott mit vßwendigen dingen/Gaben vnd Ceremo-\nnien/dienen:wiewol harin zuͤ zyten/groß Mißbruͤch geuͤbt\nwerden.",
-        "similarity": 0.5106,
-        "semantic": 0.5758,
-        "reading": "check"
+        "similarity": 0.5106
       },
       {
         "op": "only_b",
@@ -109,15 +95,10 @@
         "b": "daß wir vil vnfuͤgs daruon haben/wann Hieremie am 5. geſchriben ſtat: Vnſer Suͤnd haben verhindert die guͤten\nding von vns. Deßglychen Oſee am 4. Es iſt kein War-\nheit",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.6709,
-    "reworded": 4,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.531,
+    "similarity": 0.5398,
     "words": {
       "a": 205,
       "b": 247
@@ -180,18 +161,8 @@
       },
       {
         "op": "equal",
-        "a": "wirt aber nit vß der schrifft",
-        "b": "wirt aber nit vß der Schrifft"
-      },
-      {
-        "op": "replace",
-        "a": "erfundẽ",
-        "b": "erfunden"
-      },
-      {
-        "op": "equal",
-        "a": "diewyl der Touff ein vsserlich Element",
-        "b": "diewyl der Touff ein vſſerlich Element"
+        "a": "wirt aber nit vß der schrifft erfundẽ diewyl der Touff ein vsserlich Element",
+        "b": "wirt aber nit vß der Schrifft erfunden diewyl der Touff ein vſſerlich Element"
       },
       {
         "op": "replace",
@@ -370,18 +341,8 @@
       },
       {
         "op": "equal",
-        "a": "halb",
-        "b": "halb"
-      },
-      {
-        "op": "replace",
-        "a": "habẽ",
-        "b": "haben"
-      },
-      {
-        "op": "equal",
-        "a": "wir",
-        "b": "wir"
+        "a": "halb habẽ wir",
+        "b": "halb haben wir"
       },
       {
         "op": "replace",
@@ -509,7 +470,7 @@
         "b": "Su nden halb vnd mißbru chen ſo von jm wyter yngefu rt beger ich nit zu beſchirmen ſonder ſag ich daß wir vil vnfu gs daruon haben wann Hieremie am 5 geſchriben ſtat Vnſer Su nd haben verhindert die gu ten ding von vns Deßglychen Oſee am 4 Es iſt kein War heit"
       }
     ],
-    "ops": 39,
+    "ops": 37,
     "truncated": false
   }
 }

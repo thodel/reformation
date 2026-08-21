@@ -8,7 +8,7 @@
       279
     ]
   },
-  "alignment_score": 0.2565,
+  "alignment_score": 0.2461,
   "coarse": {
     "paragraphs": {
       "a": 7,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 1,
     "only_b": 4,
-    "similarity": 0.4726,
+    "similarity": 0.4645,
     "pairs": [
       {
         "op": "only_b",
@@ -45,17 +45,13 @@
         "op": "match",
         "a": "**Die vierdt**\n\nzů der sach reden / wider den mißuerstand vnser widersächer/vnnd sag also erstlich/so veer sy mit dem ort des\nkrancken wybs.",
         "b": "wil ich vß krafft derſel-\nbigen puncten auch zuͦ der ſach reden wider den mißver-\nſtand unſer widerſaͤcher / und ſag alſo erſtlich :",
-        "similarity": 0.4255,
-        "semantic": 0.7927,
-        "reading": "reworded"
+        "similarity": 0.4255
       },
       {
         "op": "match",
         "a": "Luc. am viij. Cap. Vnd mit dem ort der\nsendung des heyligen geysts da fürin zungen gewesenn\nsind / in den geschichten der Apostel am .",
         "b": "So ferr ſy\nmit dem ort deß krancken wybs / Luc. am 8. Cap. und mit\ndem ort der ſendung deß H.",
-        "similarity": 0.3556,
-        "semantic": 0.6486,
-        "reading": "reworded"
+        "similarity": 0.3556
       },
       {
         "op": "only_b",
@@ -67,25 +63,19 @@
         "op": "match",
         "a": "ij Capitel nitt\nvermeinend jr Synecdochen bewert haben. Den wil ich wyter zů jrem fürtrag reden. **Pfarrer von sant Gallen**\n\nVff den fürtrag mins lieben herrn brůders /",
         "b": "Deñ\nwil ich wyter zuͦ ihrem fuͤrtrag reden. Pfarrer von Sant Gallen. UF den Fuͤrtrag mynes lieben Herrn Bruͦders /",
-        "similarity": 0.5306,
-        "semantic": 0.7879,
-        "reading": "same"
+        "similarity": 0.4898
       },
       {
         "op": "match",
         "a": "hab\nich hüt mermals geantwurt / vnd ist darumb in\ndie fäder verfasset/darby laß ichs beliben. Den\nspruch vonn dem glouben des fröuwlins.",
         "b": "hab\nich huͤt mehrmahls geantwortet / und iſt darum in die\nFeder verfaſſet / darby laß ichs blyben. Den Spruch\nvon dem Glauben deß Fraͤulins /",
-        "similarity": 0.5417,
-        "semantic": 0.7288,
-        "reading": "same"
+        "similarity": 0.5417
       },
       {
         "op": "match",
         "a": "Luce am viij. Cap. verston ich ein ergebung vnsers hertzens mit hertzlichem vertruwen in Christum/vß aller siner worten. **Meister Vlrich Zwingli.+**\n\nSo veerer das vertruwen aller worten Christi\nalso verstat.",
         "b": "Luc. am 8. Cap. ver-\nſtahn ich ein Ergebung unſers Hertzens mit hertzlichem\nVertrauen in Chriſtum / und aller ſyner Worten.",
-        "similarity": 0.5098,
-        "semantic": 0.7931,
-        "reading": "same"
+        "similarity": 0.5098
       },
       {
         "op": "only_a",
@@ -99,15 +89,10 @@
         "b": "Meiſter Ulrich Zwingly. SO ferr er das Vertrauen aller Worten Chriſti alſo\nverſtaht daß alle wort Chriſti Jeſu von den Glaͤu-\nbigen wahr ſyn / glaubt werden / nach wahrem Verſtand / Kk iij\t\t\tder",
         "similarity": 0.0
       }
-    ],
-    "semantic": 0.7502,
-    "reworded": 2,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.4167,
+    "similarity": 0.412,
     "words": {
       "a": 213,
       "b": 219
@@ -245,8 +230,18 @@
       },
       {
         "op": "equal",
-        "a": "haben Den wil ich wyter zů",
-        "b": "haben Deñ wil ich wyter zu"
+        "a": "haben",
+        "b": "haben"
+      },
+      {
+        "op": "replace",
+        "a": "Den",
+        "b": "Deñ"
+      },
+      {
+        "op": "equal",
+        "a": "wil ich wyter zů",
+        "b": "wil ich wyter zu"
       },
       {
         "op": "replace",
@@ -474,7 +469,7 @@
         "b": ""
       }
     ],
-    "ops": 36,
+    "ops": 37,
     "truncated": false
   }
 }

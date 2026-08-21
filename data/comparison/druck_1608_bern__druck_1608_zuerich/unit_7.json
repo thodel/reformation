@@ -8,7 +8,7 @@
       15
     ]
   },
-  "alignment_score": 0.9313,
+  "alignment_score": 0.9618,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 2,
     "only_b": 0,
-    "similarity": 0.6691,
+    "similarity": 0.6791,
     "pairs": [
       {
         "op": "only_a",
@@ -39,17 +39,13 @@
         "op": "match",
         "a": "deß thoͤgelicher volſtreckt\nwerde / wellen wir von uͤch allen vnd jedem in\nſonders / gehebt haben / das jr mengklichen /",
         "b": "vnd buwen ſol. Aller menſchen thant/ klůg\nheit/ſpizfůndigkeit/eigen gůtduncken/vnd\nmeinung/hindangeſetzt. Vnd damit ange-\nſechne Diſputation/deß thoͤgelicher volſtreckt\nwerde/wellen wir von ůch allen vnd jedem in\nſonders/gehebt haben/das jr mengklichen/ſo\nſich harzů verfůgen wil/frůntlich empfahind/",
-        "similarity": 0.5538,
-        "semantic": 0.7667,
-        "reading": "same"
+        "similarity": 0.5538
       },
       {
         "op": "match",
         "a": "ſo\nſich harzuͤ verfuͤgen wil / fruͤntlich empfahind / haltind vnd laſſind / vnd keinerley beleidigung\nweder an Lyb / noch an Guͤt /",
         "b": "haltind vnd laſſind/vnd keinerley beleidigung\nweder an Lyb/noch an Gůt/weder mit Wor-\nten noch mit Wercken zůgeſtattind.",
-        "similarity": 0.5238,
-        "semantic": 0.8085,
-        "reading": "same"
+        "similarity": 0.5238
       },
       {
         "op": "only_a",
@@ -61,35 +57,24 @@
         "op": "match",
         "a": "har\nzuͤ vns / vnd widerumb hie dannen / an ſynge-\nwarſamme / als wyt vnſer Gebiet vnd Her-\nſchafften langend / hiemit zuͤgeſagt haben /",
         "b": "Dann wir\njederman/Froͤmbden vnd Heimiſchen/fryſi-\ncher geleid/frid vnd volkomē ſicherung/har\nzů vns/vnd widerumb hie dannen/an ſynge-\nwarſamme/als wyt vnſer Gebiet vnd Her-\nſchafften langend /",
-        "similarity": 0.6667,
-        "semantic": 0.8533,
-        "reading": "same"
+        "similarity": 0.6667
       },
       {
         "op": "match",
         "a": "vnd veſtenklich halten wellen. Vnd ſidtmal / gegenwuͤrtig Geſpraͤch / fuͤrnemlich vns vnd\nuͤch zuͤ guͤtem / ouch zuͤ vnderrichtung /",
         "b": "hiemit zůgeſagt haben/ vnd veſtenklich halten wellen. Vnd ſidtmal/ gegenwůrtig Geſpraͤch/fůrnemlich vns vnd\nůch zů gůtem/ ouch zů vnderrichtung/",
-        "similarity": 0.6512,
-        "semantic": 0.8993,
-        "reading": "same"
+        "similarity": 0.6512
       },
       {
         "op": "match",
         "a": "ent-\nſcheid / vnd vereinbarung geordnet : Wellen\ndas all Pfarrer / Seelſorger / die ſo ſich predi-\ngens vndernemē / vnd all ander Geyſtlich\n¶ ¶",
         "b": "ent-\nſcheid/vnd vereinbarung geordnet: Wellen\ndas all Pfarrer/Seelſorger/die ſo ſich predi-\ngens vndernemen/vnd all ander Geyſtlich\n¶¶",
-        "similarity": 0.95,
-        "semantic": 0.9449,
-        "reading": "same"
+        "similarity": 1.0
       }
-    ],
-    "semantic": 0.8545,
-    "reworded": 0,
-    "candidates": 0,
-    "recovered_by_embedding": 0,
-    "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2"
+    ]
   },
   "fine": {
-    "similarity": 0.8345,
+    "similarity": 0.8483,
     "words": {
       "a": 152,
       "b": 138
@@ -197,18 +182,8 @@
       },
       {
         "op": "equal",
-        "a": "Dann wir jederman Fro mbden vnd Heimiſchen fryſi cher geleid frid vnd",
-        "b": "Dann wir jederman Fro mbden vnd Heimiſchen fryſi cher geleid frid vnd"
-      },
-      {
-        "op": "replace",
-        "a": "volkomen",
-        "b": "volkomē"
-      },
-      {
-        "op": "equal",
-        "a": "ſicherung har zu vns vnd widerumb hie dannen an ſynge warſamme als wyt vnſer Gebiet vnd Her ſchafften langend hiemit",
-        "b": "ſicherung har zů vns vnd widerumb hie dannen an ſynge warſamme als wyt vnſer Gebiet vnd Her ſchafften langend hiemit"
+        "a": "Dann wir jederman Fro mbden vnd Heimiſchen fryſi cher geleid frid vnd volkomen ſicherung har zu vns vnd widerumb hie dannen an ſynge warſamme als wyt vnſer Gebiet vnd Her ſchafften langend hiemit",
+        "b": "Dann wir jederman Fro mbden vnd Heimiſchen fryſi cher geleid frid vnd volkomē ſicherung har zů vns vnd widerumb hie dannen an ſynge warſamme als wyt vnſer Gebiet vnd Her ſchafften langend hiemit"
       },
       {
         "op": "replace",
@@ -257,21 +232,11 @@
       },
       {
         "op": "equal",
-        "a": "ouch zu vnderrichtung ent ſcheid vnd vereinbarung geordnet Wellen das all Pfarrer Seelſorger die ſo ſich predi gens",
-        "b": "ouch zů vnderrichtung ent ſcheid vnd vereinbarung geordnet Wellen das all Pfarrer Seelſorger die ſo ſich predi gens"
-      },
-      {
-        "op": "replace",
-        "a": "vndernemē",
-        "b": "vndernemen"
-      },
-      {
-        "op": "equal",
-        "a": "vnd all ander Geyſtlich",
-        "b": "vnd all ander Geyſtlich"
+        "a": "ouch zu vnderrichtung ent ſcheid vnd vereinbarung geordnet Wellen das all Pfarrer Seelſorger die ſo ſich predi gens vndernemē vnd all ander Geyſtlich",
+        "b": "ouch zů vnderrichtung ent ſcheid vnd vereinbarung geordnet Wellen das all Pfarrer Seelſorger die ſo ſich predi gens vndernemen vnd all ander Geyſtlich"
       }
     ],
-    "ops": 17,
+    "ops": 15,
     "truncated": false
   }
 }
