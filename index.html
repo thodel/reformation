@@ -796,6 +796,48 @@
       border-radius: 5px; border: 1.5px solid rgba(26,58,107,0.25); background: #fff;
       color: var(--ink); max-width: 32rem; }
     .vg-seg-hint { font-size: 0.8rem; color: var(--ink-soft); }
+
+    /* Farbcodierung der Zeugen.
+       Zehn unterscheidbare Kategorienfarben gibt es nicht: der Validator des
+       dataviz-Verfahrens lässt bei allen Paarungen drei Farbtöne zu, fünf
+       fallen durch (Normalsicht-ΔE 12.9 < 15). Kodiert wird deshalb die
+       Rolle - Basistext, weitere Drucke, Handschriften -, und die Identität
+       trägt immer das Sigel plus der ausgeschriebene Name. Farbe steht nie
+       allein. Werte aus der dokumentierten Palette, beide Modi geprüft. */
+    :root {
+      --wit-base:   #2a78d6;   /* Slot 1 - Basistext, Druck März 1528 */
+      --wit-print:  #eb6834;   /* Slot 2 - weitere Drucke */
+      --wit-ms:     #1baf7a;   /* Slot 3 - Handschriften */
+      --wit-ink:    #ffffff;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root:where(:not([data-theme="light"])) {
+        --wit-base:  #3987e5;
+        --wit-print: #d95926;
+        --wit-ms:    #199e70;
+      }
+    }
+    :root[data-theme="dark"] {
+      --wit-base:  #3987e5;
+      --wit-print: #d95926;
+      --wit-ms:    #199e70;
+    }
+
+    .wit-sigil { display: inline-flex; align-items: center; justify-content: center;
+      min-width: 1.55rem; height: 1.15rem; padding: 0 0.3rem; border-radius: 3px;
+      font-size: 0.68rem; font-weight: 700; letter-spacing: 0.02em;
+      font-variant-numeric: tabular-nums; color: var(--wit-ink);
+      background: var(--wit-base); flex-shrink: 0; }
+    .wit-sigil.print { background: var(--wit-print); }
+    .wit-sigil.ms { background: var(--wit-ms); }
+    .wit-legend { display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; align-items: center;
+      font-size: 0.8rem; color: var(--ink-soft); margin: 0.2rem 0 0.9rem; }
+    .wit-legend-item { display: inline-flex; align-items: center; gap: 0.35rem; }
+    .reg-pages a, .conc-item { display: inline-flex; align-items: center; gap: 0.3rem; }
+
+    .reg-page-row { display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem;
+      margin-top: 0.25rem; }
+    .reg-page-row a { margin-right: 0.15rem; }
   </style>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
 </head>
@@ -810,7 +852,8 @@
   <a href="#" class="active" data-section="home" onclick="showSection(event, 'home')">Startseite</a>
   <a href="#" data-section="uebersicht" onclick="showSection(event, 'uebersicht')">Übersicht</a>
   <a href="#" data-section="predigten" onclick="showSection(event, 'predigten')">Predigten</a>
-  <a href="#" data-section="disputation" onclick="showSection(event, 'disputation')">Disputation</a>
+  <a href="#" data-section="disputation" onclick="showDisputationGroup(event, 'manuscript')">Manuskripte der Disputation</a>
+  <a href="#" data-section="drucke" onclick="showDisputationGroup(event, 'print')">Drucke der Disputation</a>
   <a href="#" data-section="ressourcen" onclick="showSection(event, 'ressourcen')">Ressourcen</a>
   <a href="#" data-section="vergleich" onclick="showSection(event, 'vergleich')">Vergleich</a>
   <a href="#" data-section="suche" onclick="showSection(event, 'suche')">Suche</a>
@@ -870,6 +913,7 @@
              oninput="renderUebersicht(); updateSectionUrl('uebersicht', this.value.trim() || null);">
       <span class="ub-count" id="ub-count"></span>
     </div>
+    <div id="ub-legend"></div>
     <div class="ub-tools">
       <button onclick="setAllUebersichtGroups(true)">Alle aufklappen</button>
       <button onclick="setAllUebersichtGroups(false)">Alle zuklappen</button>
@@ -920,15 +964,8 @@
 
   <div id="disputation" class="section-page">
     <h2 class="section-title">Disputation</h2>
-    <p class="section-subtitle" id="disputation-variant-title">Disputation — Druck von 1528</p>
-    <div class="variant-switcher">
-      <a href="#" class="variant-link active" data-disputation-variant="druck-1528" onclick="switchDisputationVariant(event, 'druck-1528')">1) Druck von 1528</a>
-      <a href="#" class="variant-link" data-disputation-variant="a-v-1447" onclick="switchDisputationVariant(event, 'a-v-1447')">2) A V 1447: Schlussredaktion</a>
-      <a href="#" class="variant-link" data-disputation-variant="a-v-1443" onclick="switchDisputationVariant(event, 'a-v-1443')">3) A V 1443: Hertwig</a>
-      <a href="#" class="variant-link" data-disputation-variant="a-v-1444" onclick="switchDisputationVariant(event, 'a-v-1444')">4) A V 1444: Cyro</a>
-      <a href="#" class="variant-link" data-disputation-variant="a-v-1445" onclick="switchDisputationVariant(event, 'a-v-1445')">5) A V 1445: Schöni</a>
-      <a href="#" class="variant-link" data-disputation-variant="a-v-1446" onclick="switchDisputationVariant(event, 'a-v-1446')">6) A V 1446: Rümlang</a>
-    </div>
+    <p class="section-subtitle" id="disputation-variant-title">Disputation</p>
+    <div class="variant-switcher" id="disputation-variant-switcher"></div>
     <div class="viewer-container">
       <div class="viewer-col">
         <div class="viewer-col-header">📜 Faksimile</div>
@@ -991,6 +1028,7 @@
       <span class="ub-count" id="reg-count"></span>
     </div>
     <p class="reg-note" id="reg-note"></p>
+    <div id="reg-legend"></div>
     <div id="reg-body"><p class="vg-empty">Lade Register…</p></div>
   </div>
 
@@ -1097,10 +1135,46 @@ async function loadEntityIndex() {
   }
 }
 
-// Show entity section
 // The old entity register was replaced by the person register above.
 // It linked 969 of 986 entries to one Metagrid id that does not resolve,
 // counted Bible books as people, and split each person across spellings.
+
+// Keyboard handlers for the page and search inputs. This block was lost when
+// the dead entity register was removed: it sat inside the deleted range, so
+// typing a page number stopped doing anything while the arrows still worked,
+// and Enter stopped triggering both the book search and the global search.
+document.addEventListener("DOMContentLoaded", function() {
+  ['predigten', 'disputation'].forEach(function(section) {
+    const bookInput = document.getElementById(`${section}-book-search-input`);
+    if (!bookInput) return;
+    bookInput.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') { e.preventDefault(); triggerBookSearch(section); }
+    });
+  });
+
+  const predigtenPageInput = document.getElementById('page-input');
+  if (predigtenPageInput) {
+    predigtenPageInput.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') { e.preventDefault(); goToPredigtenPage(); this.blur(); }
+    });
+    predigtenPageInput.addEventListener('blur', goToPredigtenPage);
+  }
+
+  const disputationPageInput = document.getElementById('disputation-page-input');
+  if (disputationPageInput) {
+    disputationPageInput.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') { e.preventDefault(); goToDisputationPage(); this.blur(); }
+    });
+    disputationPageInput.addEventListener('blur', goToDisputationPage);
+  }
+
+  const gsInput = document.getElementById('gs-input');
+  if (gsInput) {
+    gsInput.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') { e.preventDefault(); triggerGlobalSearch(); }
+    });
+  }
+});
 
 function getDisputationVariantUnavailableMessage(variant) {
   if (variant && variant.availability && variant.availability.available === false) {
@@ -1233,7 +1307,8 @@ function renderSourceTable() {
 const DISPUTATION_VARIANTS = [
   {
     id: "druck-1528",
-    label: "Druck von 1528",
+    group: "print",
+    label: "Druck, 23. März 1528",
     basePath: "data/disputation/druck_1528",
     manifestUrl: null,
     defaultTotalPages: 496,
@@ -1243,6 +1318,7 @@ const DISPUTATION_VARIANTS = [
   },
   {
     id: "a-v-1447",
+    group: "manuscript",
     label: "A V 1447: Schlussredaktion",
     basePath: "data/disputation/a_v_1447_schlussredaktion",
     manifestUrl: null,
@@ -1253,6 +1329,7 @@ const DISPUTATION_VARIANTS = [
   },
   {
     id: "a-v-1443",
+    group: "manuscript",
     label: "A V 1443: Hertwig",
     basePath: "data/disputation/a_v_1443_hertwig",
     manifestUrl: null,
@@ -1263,6 +1340,7 @@ const DISPUTATION_VARIANTS = [
   },
   {
     id: "a-v-1444",
+    group: "manuscript",
     label: "A V 1444: Cyro",
     basePath: "data/disputation/a_v_1444_cyro",
     manifestUrl: null,
@@ -1273,6 +1351,7 @@ const DISPUTATION_VARIANTS = [
   },
   {
     id: "a-v-1445",
+    group: "manuscript",
     label: "A V 1445: Schöni",
     basePath: "data/disputation/a_v_1445_schoeni",
     manifestUrl: null,
@@ -1283,6 +1362,7 @@ const DISPUTATION_VARIANTS = [
   },
   {
     id: "a-v-1446",
+    group: "manuscript",
     label: "A V 1446: Rümlang",
     basePath: "data/disputation/a_v_1446_ruemlang",
     manifestUrl: null,
@@ -1290,6 +1370,50 @@ const DISPUTATION_VARIANTS = [
     transcriptionBasePath: "data/disputation/a_v_1446_ruemlang/transcriptions",
     translationBasePath: "data/disputation/a_v_1446_ruemlang/translations",
     entityIndexPath: "data/disputation/a_v_1446_ruemlang/entities/named_entities.json"
+  },
+  {
+    id: "druck-1528-04",
+    group: "print",
+    label: "Druck, 23. April 1528",
+    basePath: "data/prints/druck_1528_04",
+    manifestUrl: null,
+    defaultTotalPages: 570,
+    transcriptionBasePath: "data/prints/druck_1528_04/transcriptions",
+    translationBasePath: null,
+    entityIndexPath: null
+  },
+  {
+    id: "druck-1608-bern",
+    group: "print",
+    label: "Druck 1608 (Bern)",
+    basePath: "data/prints/druck_1608_bern",
+    manifestUrl: null,
+    defaultTotalPages: 568,
+    transcriptionBasePath: "data/prints/druck_1608_bern/transcriptions",
+    translationBasePath: null,
+    entityIndexPath: null
+  },
+  {
+    id: "druck-1608-zuerich",
+    group: "print",
+    label: "Druck 1608 (Zürich)",
+    basePath: "data/prints/druck_1608_zuerich",
+    manifestUrl: null,
+    defaultTotalPages: 836,
+    transcriptionBasePath: "data/prints/druck_1608_zuerich/transcriptions",
+    translationBasePath: null,
+    entityIndexPath: null
+  },
+  {
+    id: "druck-1701",
+    group: "print",
+    label: "Druck 1701",
+    basePath: "data/prints/druck_1701",
+    manifestUrl: null,
+    defaultTotalPages: 672,
+    transcriptionBasePath: "data/prints/druck_1701/transcriptions",
+    translationBasePath: null,
+    entityIndexPath: null
   }
 ];
 
@@ -1890,9 +2014,10 @@ function getCurrentDisputationVariant() {
 
 // URL routing for deep linking: #/disputation/druck-1528/25 or /disputation/druck-1528/25
 function parseDisputationUrl() {
-  // Check hash first (#/disputation/variant/page)
+  // Both prefixes resolve. #/disputation/... links are already published and
+  // cited, so they must keep working whichever group the witness now sits in.
   const hash = window.location.hash;
-  let match = hash.match(/^#\/disputation\/([^\/]+)\/(\d+)/);
+  let match = hash.match(/^#\/(?:disputation|drucke)\/([^\/]+)\/(\d+)/);
   if (match) {
     const variantId = match[1];
     const pageNum = parseInt(match[2], 10);
@@ -1910,11 +2035,15 @@ function parseDisputationUrl() {
   return null;
 }
 
+function disputationUrlPrefix() {
+  return groupOfVariant(disputationState.variantId) === "print" ? "drucke" : "disputation";
+}
+
 function updateDisputationUrl() {
   const variant = getCurrentDisputationVariant();
   const pageNum = disputationState.currentPageIndex + 1;
-  // Use hash-based routing for better GitHub Pages compatibility
-  const newHash = `#/disputation/${variant.id}/${pageNum}`;
+  // Prints get their own prefix so the two tabs are distinguishable in a link.
+  const newHash = `#/${disputationUrlPrefix()}/${variant.id}/${pageNum}`;
   if (window.location.hash !== newHash) {
     window.location.hash = newHash;
   }
@@ -1998,7 +2127,9 @@ window.addEventListener('hashchange', () => {
     // move the page within one already open.
     const section = document.getElementById('disputation');
     if (!section || !section.classList.contains('active')) {
+      disputationGroup = groupOfVariant(disputationParams.variantId);
       showSectionById('disputation');
+      renderVariantSwitcher();
       initDisputationViewer();
     }
     if (variant.id !== disputationState.variantId) {
@@ -2045,6 +2176,7 @@ function switchDisputationVariantById(variantId) {
 }
 
 function setActiveDisputationVariantLink(variantId) {
+  renderVariantSwitcher();
   document.querySelectorAll('[data-disputation-variant]').forEach((link) => {
     const currentVariantId = link.getAttribute('data-disputation-variant');
     const variant = DISPUTATION_VARIANTS.find((item) => item.id === currentVariantId);
@@ -3544,6 +3676,9 @@ function renderUebersicht() {
     groups[groups.length - 1].rows.push(row);
   }
 
+  const ubLegend = document.getElementById("ub-legend");
+  if (ubLegend) ubLegend.innerHTML = witnessLegend();
+
   host.innerHTML = groups.map((group, index) => {
     const label = group.key ? `${escapeHtml(group.key)}. Schlussrede` : "Vorspann und Nachspann";
     const first = group.rows[0].first_page;
@@ -3682,24 +3817,26 @@ async function initRegister() {
 
 function registerPageLinks(pages) {
   // "druck_1528:12,14,15; a_v_1447_schlussredaktion:3"
+  // Each source is a row of its own led by its sigil, so a reader can see at
+  // once which witness a page belongs to rather than decoding a flat list.
   if (!pages) return "";
-  const out = [];
+  const rows = [];
   for (const part of pages.split(";")) {
     const [doc, list] = part.split(":");
     if (!doc || !list) continue;
     const key = doc.trim();
-    const variant = (WITNESS_METADATA.find((w) => w.key === key) || {}).key;
     const variantId = VARIANT_BY_KEY[key];
-    for (const raw of list.split(",").slice(0, 8)) {
+    const links = [];
+    for (const raw of list.split(",").slice(0, 10)) {
       const page = parseInt(raw, 10);
       if (!page) continue;
-      const href = variantId
-        ? `#/disputation/${variantId}/${page}`
-        : `#/predigten/${page}`;
-      out.push(`<a href="${href}" onclick="event.preventDefault(); openRegisterPage('${escapeHtml(key)}',${page});">S.&nbsp;${page}</a>`);
+      const href = variantId ? `#/disputation/${variantId}/${page}` : `#/predigten/${page}`;
+      links.push(`<a href="${href}" onclick="event.preventDefault(); openRegisterPage('${escapeHtml(key)}',${page});">S.&nbsp;${page}</a>`);
     }
+    if (!links.length) continue;
+    rows.push(`<div class="reg-page-row">${witnessSigil(key)}${links.join("")}</div>`);
   }
-  return out.join("");
+  return rows.join("");
 }
 
 function openRegisterPage(witnessKey, page) {
@@ -3739,6 +3876,8 @@ function renderRegister() {
   }
   const count = document.getElementById("reg-count");
   if (count) count.textContent = `${rows.length} von ${registerRows.length}`;
+  const legend = document.getElementById("reg-legend");
+  if (legend) legend.innerHTML = witnessLegend();
 
   if (!rows.length) { host.innerHTML = '<p class="ub-empty">Keine Einträge gefunden.</p>'; return; }
 
@@ -3871,7 +4010,7 @@ function concordanceHtml(row) {
     const e = seg.witnesses[key];
     const name = escapeHtml(shortWitness(key));
     if (!e || e.status === "missing") {
-      return `<span class="conc-item missing" title="In dieser Ausgabe nicht nachgewiesen">${name}</span>`;
+      return `<span class="conc-item missing" title="In dieser Ausgabe nicht nachgewiesen">${witnessSigil(key)}${name}</span>`;
     }
     const pages = e.first_page === e.last_page
       ? `S.&nbsp;${e.first_page}` : `S.&nbsp;${e.first_page}–${e.last_page}`;
@@ -3879,9 +4018,9 @@ function concordanceHtml(row) {
     const title = e.status === "partial"
       ? `nur ${e.aligned} von ${e.of} Seiten zugeordnet`
       : `${e.aligned} von ${e.of} Seiten zugeordnet`;
-    if (!e.erara) return `<span class="${cls}" title="${title}">${name} ${pages}</span>`;
+    if (!e.erara) return `<span class="${cls}" title="${title}">${witnessSigil(key)}${name} ${pages}</span>`;
     return `<a class="${cls}" href="${escapeHtml(e.erara)}" target="_blank" rel="noopener"
-      title="${title}" onclick="event.stopPropagation();">${name} ${pages}</a>`;
+      title="${title}" onclick="event.stopPropagation();">${witnessSigil(key)}${name} ${pages}</a>`;
   }).join("");
   return `<span class="conc"><span class="conc-label">Auch in:</span>${parts}</span>`;
 }
@@ -3966,6 +4105,100 @@ function jumpToSegment(segmentId) {
   if (button) button.scrollIntoView({ block: "center", behavior: "smooth" });
 }
 
+// ---------------------------------------- Zwei Register, ein Betrachter
+// Manuscripts and prints are shown in separate tabs but through the same
+// viewer: the machinery for facsimile, page navigation and transcription is
+// identical, and duplicating it would mean maintaining it twice. The tabs
+// differ only in which group of witnesses the switcher offers.
+//
+// #/disputation/... keeps working whichever group the witness belongs to.
+// Those links are already published, and a citation that stops resolving
+// because a tab was renamed is a broken citation.
+let disputationGroup = "manuscript";
+
+function variantsInGroup(group) {
+  return DISPUTATION_VARIANTS.filter((v) => (v.group || "manuscript") === group);
+}
+
+function renderVariantSwitcher() {
+  const host = document.getElementById("disputation-variant-switcher");
+  if (!host) return;
+  const variants = variantsInGroup(disputationGroup);
+  host.innerHTML = variants.map((v, i) => {
+    const active = v.id === disputationState.variantId ? " active" : "";
+    return `<a href="#" class="variant-link${active}" data-disputation-variant="${escapeHtml(v.id)}"
+      onclick="switchDisputationVariant(event, '${escapeHtml(v.id)}')">${i + 1}) ${escapeHtml(v.label)}</a>`;
+  }).join("");
+}
+
+function showDisputationGroup(event, group) {
+  if (event) event.preventDefault();
+  disputationGroup = group;
+  const current = DISPUTATION_VARIANTS.find((v) => v.id === disputationState.variantId);
+  // Entering a tab whose group the current witness does not belong to moves to
+  // that group's first witness, rather than showing a switcher with nothing
+  // selected.
+  if (!current || (current.group || "manuscript") !== group) {
+    const first = variantsInGroup(group)[0];
+    if (first) {
+      disputationState.variantId = first.id;
+      resetDisputationVariantState();
+    }
+  }
+  document.querySelectorAll(".section-page").forEach((el) => el.classList.remove("active"));
+  document.getElementById("disputation").classList.add("active");
+  document.querySelectorAll("nav a").forEach((a) => a.classList.remove("active"));
+  const nav = document.querySelector(`nav a[data-section="${group === "print" ? "drucke" : "disputation"}"]`);
+  if (nav) nav.classList.add("active");
+
+  renderVariantSwitcher();
+  updateDisputationVariantTitle();
+  initDisputationViewer();
+  updateDisputation();
+  updateDisputationUrl();
+}
+
+function groupOfVariant(variantId) {
+  const v = DISPUTATION_VARIANTS.find((x) => x.id === variantId);
+  return (v && v.group) || "manuscript";
+}
+
+// ------------------------------------------------------- Farbcodierung
+// Three roles, not ten identities. Ten categorical colors cannot be told
+// apart: validated against the dataviz palette, three hues clear every
+// all-pairs gate in both modes while five fail the normal-vision floor
+// (ΔE 12.9 against a floor of 15). So the hue carries the role - base text,
+// other print, manuscript - and identity is carried by a short sigil and the
+// full name, which are always present. Color never encodes alone.
+const WITNESS_SIGIL = {
+  druck_1528:                { sigil: "D1",  role: "base",  label: "Druck, 23. März 1528" },
+  druck_1528_04:             { sigil: "D2",  role: "print", label: "Druck, 23. April 1528" },
+  druck_1608_bern:           { sigil: "D3",  role: "print", label: "Druck 1608 (Bern)" },
+  druck_1608_zuerich:        { sigil: "D4",  role: "print", label: "Druck 1608 (Zürich)" },
+  druck_1701:                { sigil: "D5",  role: "print", label: "Druck 1701" },
+  a_v_1447_schlussredaktion: { sigil: "H47", role: "ms",    label: "A V 1447: Schlussredaktion" },
+  a_v_1443_hertwig:          { sigil: "H43", role: "ms",    label: "A V 1443: Hertwig" },
+  a_v_1444_cyro:             { sigil: "H44", role: "ms",    label: "A V 1444: Cyro" },
+  a_v_1445_schoeni:          { sigil: "H45", role: "ms",    label: "A V 1445: Schöni" },
+  a_v_1446_ruemlang:         { sigil: "H46", role: "ms",    label: "A V 1446: Rümlang" },
+};
+
+function witnessSigil(key) {
+  const w = WITNESS_SIGIL[key];
+  if (!w) return "";
+  const cls = w.role === "base" ? "" : ` ${w.role}`;
+  return `<span class="wit-sigil${cls}" title="${escapeHtml(w.label)}">${escapeHtml(w.sigil)}</span>`;
+}
+
+function witnessLegend() {
+  return `<div class="wit-legend">
+    <span class="wit-legend-item">${witnessSigil("druck_1528")} Basistext</span>
+    <span class="wit-legend-item">${witnessSigil("druck_1528_04")} weitere Drucke</span>
+    <span class="wit-legend-item">${witnessSigil("a_v_1447_schlussredaktion")} Handschriften</span>
+    <span>· Das Sigel benennt die Fassung, die Farbe nur ihre Rolle.</span>
+  </div>`;
+}
+
 // Sticky nav effect.
 function updateNavElevation() {
   const nav = document.querySelector('nav');
@@ -4005,8 +4238,14 @@ updatePredigten();
   }
   const disputationParams = parseDisputationUrl();
   if (disputationParams && disputationParams.variantId) {
+    disputationGroup = groupOfVariant(disputationParams.variantId);
     showSectionById('disputation');
+    const navId = disputationGroup === "print" ? "drucke" : "disputation";
+    document.querySelectorAll("nav a").forEach((a) => a.classList.remove("active"));
+    const nav = document.querySelector(`nav a[data-section="${navId}"]`);
+    if (nav) nav.classList.add("active");
     navigateToDisputationFromUrl();
+    renderVariantSwitcher();
     initDisputationViewer();
     updateDisputation();
     return;

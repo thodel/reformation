@@ -1,0 +1,96 @@
+name: Extract entities
+
+# Named-entity extraction over the recognised texts. Manual only: it costs API
+# calls, and the register built on top of it is meant to be corrected by hand,
+# so a scheduled run would keep proposing over that work.
+#
+# Incremental - a page already extracted under the same prompt and model is not
+# sent again, so re-running after adding a witness costs only that witness.
+on:
+  workflow_dispatch:
+    inputs:
+      witness:
+        description: "Witness key, or empty for every witness that needs it"
+        type: string
+        default: ""
+      max_pages:
+        description: "Stop after this many pages per witness (0 = all)"
+        type: string
+        default: "0"
+      model:
+        description: "Model id"
+        type: string
+        default: "gemini-3.7-flash"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: extract-entities
+  cancel-in-progress: false
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-genai
+
+      - name: Check the key is present
+        run: |
+          if [[ -z "${GEMINI_API_KEY:-}" ]]; then
+            echo "::error::GEMINI_API_KEY secret is not set."
+            exit 1
+          fi
+
+      - name: Extract
+        shell: bash
+        run: |
+          set -euo pipefail
+          EXTRA=""
+          if [[ -n "${{ inputs.witness }}" ]]; then EXTRA="--witness ${{ inputs.witness }}"; fi
+          python3 scripts/extract_entities.py \
+            --model "${{ inputs.model }}" \
+            --max-pages "${{ inputs.max_pages }}" \
+            $EXTRA > /tmp/ner.txt 2>&1 || { tail -40 /tmp/ner.txt; exit 1; }
+          tail -30 /tmp/ner.txt
+
+      - name: Rebuild the registers on the new entities
+        run: |
+          python3 scripts/build_person_register.py
+          python3 scripts/recognize_bible_refs.py
+
+      - name: Summary
+        shell: bash
+        run: |
+          {
+            echo "### Entitäten"
+            echo '```'
+            tail -n 25 /tmp/ner.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/entities/ data/register/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: extract named entities"
+          git pull --rebase --autostash
+          git push
