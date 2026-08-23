@@ -27,49 +27,49 @@
     "matched": 6,
     "only_a": 3,
     "only_b": 1,
-    "similarity": 0.4581,
+    "similarity": 0.4558,
     "pairs": [
       {
         "op": "match",
         "a": "Es ist ouch darneben yederma erloubt und vergont\nvfzezeychne/was dan difputiert wurde/doch mit gedin=\ngen/das all die/so also für sich selbs schrybend/jrnamen\nden verordneten Norharien angebend/vndaby gelobt/",
-        "b": "name\nDas\nthoull\nDeo\nwurde Doch mitt gedingen/ Das all die so\nallso fur sich selbs schribend/ Ir namen Den ver//",
+        "b": "name\nDas\nthoull\nDeo\nwurde / Doch mitt gedingen / Das all die so\nallso fur sich selbs schribend / Ir namen Den ver //",
         "similarity": 0.3704
       },
       {
         "op": "match",
         "a": "das sy nüt des/so sy ofzwicken/Trucken lassen/voz dem\nvnd die Acta vßgangen. Duch wider die Acta nüzit zeschrybé.",
-        "b": "ordnoten Notharien angebend/ vnd daby gelobet/ Das sy nudt des/ so sy vffzwicken trucken lassen/ Vor dem vnd die acta vssgangen/",
+        "b": "ordnoten Notharien angebend / vnd daby gelobet / Das sy nudt des / so sy vffzwicken trucken lassen / Vor dem vnd die acta vssgangen /",
         "similarity": 0.5238
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "Ouch wider die acta nutzit zeschriben/ Wo aber\nInn den acten ettwan geirret were/ Aldan das\neiner oberkeitt zuͦ Bernn gütlich anzeigen/",
+        "b": "Ouch wider die acta nutzit zeschriben / Wo aber\nInn den acten ettwan geirret were / Aldan das\neiner oberkeitt zuͦ Bernn gütlich anzeigen /",
         "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Wo aber in den\nActen etwan gejrret wire/ aldan das einer Oberkeit zu\nBern gutlich anzeygen. Item das sy nit gemietet\nnoch vnderschoben/oder einichs wegs bößlich yngefüret\n■yend/sond allein zu zü gütem der warheit/schribe wellent.",
-        "b": "Item das sy nit gemietet/noch vderschobenn\noder einichs wegs böslich zugefurt siend/ sonders\nallein zuͦ guͦtten der warheit/",
-        "similarity": 0.4483
+        "b": "Item das sy nit gemietet / noch vderschobenn\noder einichs wegs boͤslich zugefurt siend / sonders\nallein zuͦ guͦtten der warheit /",
+        "similarity": 0.4407
       },
       {
         "op": "match",
         "a": "Der disputierenden Ordnung\nDas die/dené nachgelassen zedisputieren/zam/fittés\nElich vnd gsatzlich reden/damit die vier Notharien/die\nwort glychlich verfassen möchtind.",
-        "b": "schriben wellend/ Der Disputierenden\nordnung/ Das die denen nachgelassen ze disputieren\nzam/ sittentlich vnnd gsatzlich reden/ Damit\ndie vier notharien/",
+        "b": "schriben wellend / Der Disputierenden\nordnung / Das die denen nachgelassen ze disputieren\nzam / sittentlich vnnd gsatzlich reden / Damit\ndie vier notharien /",
         "similarity": 0.6047
       },
       {
         "op": "match",
         "a": "Das ouch keiner reden sölte one erloupnuß der presi\ndenten/oder so sy in der vrfrag/ harum fragrind vin er=\nloubrind zereden.",
-        "b": "die wort glichlich verfassen\nmochten/ 1/ Das ouch keiner reden soͤlle ane erloubnus der pre// sidenten/ oder so sy in der vrsach/",
+        "b": "die wort glichlich verfassen\nmochten / 1/ Das ouch keiner reden soͤlle ane erloubnus der pre // sidenten / oder so sy in der vrsach /",
         "similarity": 0.4444
       },
       {
         "op": "match",
         "a": "Es ist ouch zu gütem/vnd fürdrig der warheit/ye=\nderman mit ordnung zereden/nit abgeschlage wordé/vi\nalso mencklich erlaubt/zü handthabung der warheit/ei=\nnem yeden Respondente vi Opponenten/züzespringe.",
-        "b": "harumb fragtind/ vnd\nerlouptnis zereden/ 2/ Es ist ouch zuͦ guͦtem vnnd fürdrung Der warheit Jederman\nmit ordnung zereden/ nit abgeschlagen worden/ vnnd",
-        "similarity": 0.3571
+        "b": "harumb fragtind / vnd\nerloupend zereden/ 2/ Es ist ouch zuͦ guͦtem vnnd fuͤrdrung Der warheit Jederman\nmit ordnung zereden / nit abgeschlagen worden / vnnd",
+        "similarity": 0.3509
       },
       {
         "op": "only_a",
@@ -92,10 +92,10 @@
     ]
   },
   "fine": {
-    "similarity": 0.4135,
+    "similarity": 0.4115,
     "words": {
       "a": 265,
-      "b": 151
+      "b": 153
     },
     "segments": [
       {
@@ -281,7 +281,7 @@
       {
         "op": "replace",
         "a": "bößlich yngefüret yend sond",
-        "b": "böslich zugefurt siend sonders"
+        "b": "bo slich zugefurt siend sonders"
       },
       {
         "op": "equal",
@@ -381,7 +381,7 @@
       {
         "op": "replace",
         "a": "vrfrag harum fragrind vin er loubrind",
-        "b": "vrsach harumb fragtind vnd erlouptnis"
+        "b": "vrsach harumb fragtind vnd erloupend"
       },
       {
         "op": "equal",
@@ -401,7 +401,7 @@
       {
         "op": "replace",
         "a": "gütem vnd fürdrig",
-        "b": "gu tem vnnd fürdrung"
+        "b": "gu tem vnnd fu rdrung"
       },
       {
         "op": "equal",

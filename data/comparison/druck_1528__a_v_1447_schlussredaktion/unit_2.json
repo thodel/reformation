@@ -8,7 +8,7 @@
       3
     ]
   },
-  "alignment_score": 0.1709,
+  "alignment_score": 0.1538,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 5,
     "only_b": 2,
-    "similarity": 0.4434,
+    "similarity": 0.427,
     "pairs": [
       {
         "op": "only_a",
@@ -38,14 +38,14 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "Ordnung diser disput/ tation unnd was sich\nmitler zyt zu tragen hatt./ 3\nIst des erstenn zevermercken/ Als\nDer gesatzt tag disers gesprechs namlich/",
+        "b": "Ordnung diser disput/ tation unnd was sich\nmittler zeyt zu tragen hatt./ 3\nIst des erstenn zevermercken/ als\nDer gesatzt tag disers gesprechs namlich/",
         "similarity": 0.0
       },
       {
         "op": "match",
         "a": "erschinen. Ist desselbigenn\ntags die erste beruffung vnnd besamlung/im Barfusser\nKloster zu Bernn/da dann diß gespräch in der Richen\nvoz mencklich gehalten/nach mittag beschechen.",
-        "b": "Montag vj. Januarij anno  n xxxiii/ Erschinnen: Ist desselben tags die erste beruffung\nvnnd versamlung Im Barfusser kloster zu Bem\nda dann diss gesprech inn der kirchen vor menig//",
-        "similarity": 0.4643
+        "b": "Montag vj. Januarij anno  n xxxiii/ Erschinnen: Ist desselben tags die erste beruffung\nvnnd versamlung Im parfusser kloster zu Bem\nda dann diss gesprech inn der kirchen vor menig//",
+        "similarity": 0.4286
       },
       {
         "op": "match",
@@ -56,8 +56,8 @@
       {
         "op": "match",
         "a": "Semnach die ord-\nnung diß gesprächs. Erstlich der hern Presidenten/be-\nfelch/die haben sy güten trüwen/an Eyds statt gelobt/",
-        "b": "offentlich verläsen/. Dem// nach die ordnung diss gesprechs/ Erstlich\nDer herren presidenten/ befehlch die haben by guten\ntrüwen/ an eyds statt gelobt/",
-        "similarity": 0.5581
+        "b": "offentlich verläsen/. Dem/ nach die ordnung diss gesprechs/ Erstlich\nDer herren presidenten/ befehlch die haben by guten\ntrewen/ an eyds statt gelobt/",
+        "similarity": 0.5116
       },
       {
         "op": "match",
@@ -68,7 +68,7 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "ouch alle üppige geschwätz\nvnnd was Im wort gotes keinen grund hatt/ nit zuzulassenn/,\nItem die Dinge so einst uff der bahn gewesenn/",
+        "b": "ouch alle üppige geschwätz\nunnd was Im wort gotes keinen grund hatt/ nit zuzulassenn/,\nItem die Dinge so einst uff der bahn gewesenn/",
         "similarity": 0.0
       },
       {
@@ -104,7 +104,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3769,
+    "similarity": 0.3668,
     "words": {
       "a": 241,
       "b": 157
@@ -128,7 +128,7 @@
       {
         "op": "replace",
         "a": "mittlerzyt zütragen hat 20",
-        "b": "mitler zyt zu tragen hatt 3 Ist des erstenn zevermercken Als Der gesatzt tag"
+        "b": "mittler zeyt zu tragen hatt 3 Ist des erstenn zevermercken als Der gesatzt tag"
       },
       {
         "op": "equal",
@@ -182,8 +182,18 @@
       },
       {
         "op": "equal",
-        "a": "im Barfusser Kloster zu",
-        "b": "Im Barfusser kloster zu"
+        "a": "im",
+        "b": "Im"
+      },
+      {
+        "op": "replace",
+        "a": "Barfusser",
+        "b": "parfusser"
+      },
+      {
+        "op": "equal",
+        "a": "Kloster zu",
+        "b": "kloster zu"
       },
       {
         "op": "replace",
@@ -332,8 +342,18 @@
       },
       {
         "op": "equal",
-        "a": "güten trüwen an Eyds statt gelobt der Ordnung die jnen",
-        "b": "guten trüwen an eyds statt gelobt der ordnung die Inen"
+        "a": "güten",
+        "b": "guten"
+      },
+      {
+        "op": "replace",
+        "a": "trüwen",
+        "b": "trewen"
+      },
+      {
+        "op": "equal",
+        "a": "an Eyds statt gelobt der Ordnung die jnen",
+        "b": "an eyds statt gelobt der ordnung die Inen"
       },
       {
         "op": "replace",
@@ -378,7 +398,7 @@
       {
         "op": "replace",
         "a": "geschwitz vnd",
-        "b": "geschwätz vnnd"
+        "b": "geschwätz unnd"
       },
       {
         "op": "equal",
@@ -461,7 +481,7 @@
         "b": "Verlengerung ze vermiden 22"
       }
     ],
-    "ops": 35,
+    "ops": 37,
     "truncated": false
   }
 }
