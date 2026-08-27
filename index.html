@@ -2227,6 +2227,13 @@ window.addEventListener('hashchange', () => {
     if (!section || !section.classList.contains('active')) {
       disputationGroup = groupOfVariant(disputationParams.variantId);
       showSectionById('disputation');
+      // showSectionById highlights the nav entry named like the section id,
+      // which is the manuscript tab; a print deep link belongs to "Drucke".
+      if (disputationGroup === 'print') {
+        document.querySelectorAll('nav a').forEach((a) => a.classList.remove('active'));
+        const druckeNav = document.querySelector('nav a[data-section="drucke"]');
+        if (druckeNav) druckeNav.classList.add('active');
+      }
       renderVariantSwitcher();
       initDisputationViewer();
     }
@@ -3014,15 +3021,12 @@ async function runBookSearch(section, query) {
 }
 
 // Global search
-const globalSearchFilters = {
-  predigten: true,
-  'druck-1528': true,
-  'a-v-1447': true,
-  'a-v-1443': true,
-  'a-v-1444': true,
-  'a-v-1445': true,
-  'a-v-1446': true
-};
+// One key per searchable source. Derived from DISPUTATION_VARIANTS rather
+// than listed by hand: a hand-written list silently excluded the four e-rara
+// prints (2,621 recognised pages) after the Drucke tab was added, because the
+// search iterates these keys, not the variants.
+const globalSearchFilters = { predigten: true };
+for (const v of DISPUTATION_VARIANTS) globalSearchFilters[v.id] = true;
 
 let globalSearchAbortController = null;
 
@@ -3131,9 +3135,13 @@ function renderGlobalResults(resultsBySource, query, isLoading, progress, active
       ).join('<br>');
       const hash = sourceId === 'predigten'
         ? `#/predigten/${pageNr}`
-        : `#/disputation/${sourceId}/${pageNr}`;
+        : `#/${groupOfVariant(sourceId) === 'print' ? 'drucke' : 'disputation'}/${sourceId}/${pageNr}`;
       const safeSourceId = escapeHtml(sourceId);
-      const safeQuery = JSON.stringify(query).replace(/</g, '\\u003c').replace(/>/g, '\\u003e');
+      // The JSON string literal goes inside a double-quoted onclick attribute,
+      // so its quotes must be HTML-escaped or the attribute ends at the first
+      // one - which silently broke the handler for every query and dropped
+      // each click through to raw hash navigation.
+      const safeQuery = escapeHtml(JSON.stringify(query));
       html += `<li><a class="gs-result-item" href="${hash}" onclick="handleGlobalResultClick(event,'${safeSourceId}',${pageNr},${safeQuery})"><span class="gs-result-page">S.&nbsp;${pageNr}</span><span class="gs-result-snippet">${snippetHtml}</span></a></li>`;
     }
     html += '</ul>';
@@ -3162,13 +3170,13 @@ function handleGlobalResultClick(event, sourceId, pageNr, query) {
     if (sourceId !== disputationState.variantId) {
       disputationState.variantId = sourceId;
       resetDisputationVariantState();
-      setActiveDisputationVariantLink(sourceId);
-      updateDisputationVariantTitle();
     }
     disputationState.currentPageIndex = pageNr - 1;
-    showSectionById('disputation');
-    initDisputationViewer();
-    updateDisputation();
+    // The section, nav entry, and variant switcher all depend on the
+    // witness's group - prints live under "Drucke der Disputation" - so the
+    // group switcher does the section work rather than hard-coding the
+    // manuscript tab here.
+    showDisputationGroup(null, variant.group || 'manuscript');
   }
 }
 
