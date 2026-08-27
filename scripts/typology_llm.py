@@ -61,6 +61,9 @@ A: {a}
 
 B: {b}
 
+Achte nicht nur auf Wortwahl und Schreibung, sondern ausdrücklich auch \
+darauf, ob B gegenüber A Satzteile hinzufügt oder weglässt.
+
 Ordne den Unterschied GENAU EINER Kategorie zu:
 {categories}
 
@@ -98,7 +101,10 @@ def call_llm(api_key: str, prompt: str, retries: int = 3) -> dict:
         "messages": [{"role": "user", "content": prompt}],
         "temperature": 0.0,
         "max_tokens": 2000,
-        "response_format": {"type": "json_object"},
+        # No response_format: this deployment's constrained decoding garbles
+        # gpt-oss-120b output ('{\n{\n  ""kategorie": " "modern...'); the
+        # plain model emits clean JSON, so the prompt asks and the parser
+        # extracts the first balanced object.
     }).encode("utf-8")
     last = None
     for attempt in range(retries):
@@ -112,6 +118,10 @@ def call_llm(api_key: str, prompt: str, retries: int = 3) -> dict:
             text = out["choices"][0]["message"]["content"].strip()
             if text.startswith("```"):
                 text = text.strip("`").lstrip("json").strip()
+            start = text.find("{")
+            end = text.rfind("}")
+            if start >= 0 and end > start:
+                text = text[start:end + 1]
             return json.loads(text)
         except Exception as exc:  # noqa: BLE001 - retry then surface
             last = exc

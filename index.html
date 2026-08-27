@@ -3680,6 +3680,10 @@ function updateVergleichUrl() {
   if (unit) {
     hash += `/${unit}`;
     if (mode && mode !== "word") hash += `/${mode}`;
+  } else if (mode === "typ") {
+    // The typology view has no unit, but its mode is the whole point of the
+    // citation - #/vergleich/<a>__<b>/typ must survive the URL rewrite.
+    hash += "/typ";
   }
   if (window.location.hash === hash) return;
   // replaceState keeps the back button meaning "the page I came from" rather
