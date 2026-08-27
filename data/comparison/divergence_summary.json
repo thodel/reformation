@@ -1,0 +1,77 @@
+{
+ "method": "semantic_divergence v1 (paraphrase-multilingual-MiniLM-L12-v2, PAIR_FLOOR 0.70, SHIFT_CEILING 0.55)",
+ "control_pair": "druck_1608_bern__druck_1608_zuerich",
+ "note": "Kontrollpaar = gleiche Ausgabe; seine Werte sind der Rauschboden der Methode.",
+ "pairs": {
+  "druck_1608_bern__druck_1608_zuerich": {
+   "rows": 5229,
+   "units": 560,
+   "counts": {
+    "verbatim": 3478,
+    "reworded": 1353,
+    "shift": 41,
+    "omission": 0,
+    "addition": 1,
+    "rescued": 79,
+    "noise": 561,
+    "spill": 356
+   }
+  },
+  "druck_1528__druck_1528_04": {
+   "rows": 5265,
+   "units": 491,
+   "counts": {
+    "verbatim": 912,
+    "reworded": 2667,
+    "shift": 126,
+    "omission": 140,
+    "addition": 13,
+    "rescued": 835,
+    "noise": 276,
+    "spill": 1407
+   }
+  },
+  "druck_1528__druck_1608_bern": {
+   "rows": 5367,
+   "units": 490,
+   "counts": {
+    "verbatim": 955,
+    "reworded": 2665,
+    "shift": 143,
+    "omission": 127,
+    "addition": 25,
+    "rescued": 794,
+    "noise": 61,
+    "spill": 1452
+   }
+  },
+  "druck_1528__druck_1608_zuerich": {
+   "rows": 5295,
+   "units": 490,
+   "counts": {
+    "verbatim": 972,
+    "reworded": 2575,
+    "shift": 144,
+    "omission": 129,
+    "addition": 26,
+    "rescued": 772,
+    "noise": 480,
+    "spill": 1449
+   }
+  },
+  "druck_1528__druck_1701": {
+   "rows": 6158,
+   "units": 486,
+   "counts": {
+    "verbatim": 769,
+    "reworded": 2797,
+    "shift": 270,
+    "omission": 92,
+    "addition": 101,
+    "rescued": 888,
+    "noise": 70,
+    "spill": 2129
+   }
+  }
+ }
+}

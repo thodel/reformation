@@ -636,6 +636,55 @@
     .src-note { font-size: 0.85rem; color: var(--ink-soft); }
 
     .vg-controls { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; margin-bottom: 0.8rem; }
+
+    /* Typologie: typed differences instead of similarity percentages.
+       Category hues validated (dataviz six checks, light surface #fdfdfc):
+       Auslassung #e34948, Verschiebung #4a3aa7, Zusatz #008300; "gleich" is
+       deliberate de-emphasis gray and always carries a visible label. */
+    .vg-typology {
+      --typ-surface: #fdfdfc;
+      --typ-same: #9a978f;
+      --typ-omission: #e34948;
+      --typ-shift: #4a3aa7;
+      --typ-addition: #008300;
+      background: var(--typ-surface); border-radius: 8px; padding: 1.1rem 1.2rem;
+      box-shadow: 0 1px 4px rgba(15, 39, 68, 0.12);
+    }
+    .typ-kpis { display: flex; flex-wrap: wrap; gap: 1.6rem; margin: 0.2rem 0 1rem; }
+    .typ-tile { min-width: 8.5rem; }
+    .typ-tile .typ-label { font-size: 0.8rem; color: var(--ink-soft); }
+    .typ-tile .typ-value { font-family: var(--font-body); font-weight: 600; font-size: 1.7rem; color: var(--ink); }
+    .typ-tile .typ-sub { font-size: 0.75rem; color: var(--ink-soft); }
+    .typ-bar { display: flex; gap: 2px; height: 24px; margin: 0.3rem 0 0.45rem; }
+    .typ-bar .typ-seg { position: relative; min-width: 3px; }
+    .typ-bar .typ-seg:first-child { border-radius: 4px 0 0 4px; }
+    .typ-bar .typ-seg:last-child { border-radius: 0 4px 4px 0; }
+    .typ-seg-label { position: absolute; inset: 0; display: flex; align-items: center;
+      justify-content: center; font-size: 0.74rem; color: #fff; white-space: nowrap;
+      overflow: hidden; pointer-events: none; }
+    .typ-legend { display: flex; flex-wrap: wrap; gap: 0.4rem 1.2rem; font-size: 0.8rem;
+      color: var(--ink-soft); margin-bottom: 1rem; }
+    .typ-legend .typ-key { display: inline-flex; align-items: center; gap: 0.35rem; }
+    .typ-swatch { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
+    .typ-note { font-size: 0.83rem; color: var(--ink-soft); margin: 0.6rem 0 1rem; }
+    .typ-cat-table { border-collapse: collapse; font-size: 0.85rem; margin-bottom: 1.1rem; }
+    .typ-cat-table td, .typ-cat-table th { padding: 0.22rem 0.9rem 0.22rem 0;
+      text-align: left; color: var(--ink); }
+    .typ-cat-table th { font-size: 0.78rem; color: var(--ink-soft); font-weight: 600; }
+    .typ-cat-table .typ-num { text-align: right; font-variant-numeric: tabular-nums; }
+    .typ-findings h4 { margin: 1rem 0 0.4rem; font-size: 0.95rem; color: var(--ink); }
+    .typ-item { border-left: 3px solid var(--typ-shift); padding: 0.4rem 0.7rem;
+      margin: 0.45rem 0; background: rgba(15, 39, 68, 0.03); border-radius: 0 6px 6px 0; }
+    .typ-item.omission { border-left-color: var(--typ-omission); }
+    .typ-item.addition { border-left-color: var(--typ-addition); }
+    .typ-item-head { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: baseline;
+      font-size: 0.78rem; color: var(--ink-soft); }
+    .typ-badge { font-weight: 600; color: var(--ink); }
+    .typ-item-head a { color: #1a3a6b; }
+    .typ-quote { font-size: 0.85rem; margin: 0.25rem 0 0; color: var(--ink); }
+    .typ-quote .typ-side { color: var(--ink-soft); font-weight: 600; margin-right: 0.3rem; }
+    .typ-reason { font-size: 0.8rem; color: var(--ink-soft); font-style: italic; margin-top: 0.2rem; }
+    .typ-retired summary { cursor: pointer; font-size: 0.85rem; color: var(--ink-soft); margin-top: 1rem; }
     .vg-controls label { font-size: 0.85rem; font-weight: 600; color: var(--ink-soft); }
     .vg-controls select { font-family: var(--font-body); font-size: 0.88rem; padding: 0.3rem 0.4rem;
       border-radius: 5px; border: 1.5px solid rgba(26,58,107,0.25); background: #fff; color: var(--ink); margin-left: 0.3rem; }
@@ -1060,6 +1109,7 @@
         <button class="vg-toggle active" id="vg-mode-word" onclick="setVergleichMode('word')">Wortebene</button>
         <button class="vg-toggle" id="vg-mode-para" onclick="setVergleichMode('para')">Absatzebene</button>
         <button class="vg-toggle" id="vg-mode-app" onclick="setVergleichMode('app')">Apparat</button>
+        <button class="vg-toggle" id="vg-mode-typ" onclick="setVergleichMode('typ')">Typologie</button>
       </span>
     </div>
 
@@ -1075,7 +1125,9 @@
     <div id="vg-status" class="vg-status"></div>
     <div id="vg-band" class="vg-band"></div>
 
-    <div class="vg-body">
+    <div id="vg-typology" class="vg-typology" style="display:none"></div>
+
+    <div class="vg-body" id="vg-body">
       <div class="vg-list-col">
         <div class="vg-list-head">Einheiten <span id="vg-count"></span></div>
         <ul class="vg-list" id="vg-list"></ul>
@@ -3430,10 +3482,21 @@ function setVergleichMode(mode) {
   document.getElementById("vg-mode-word").classList.toggle("active", mode === "word");
   document.getElementById("vg-mode-para").classList.toggle("active", mode === "para");
   document.getElementById("vg-mode-app").classList.toggle("active", mode === "app");
-  renderVergleichList();
+  document.getElementById("vg-mode-typ").classList.toggle("active", mode === "typ");
+  const typPanel = document.getElementById("vg-typology");
+  const body = document.getElementById("vg-body");
+  if (typPanel && body) {
+    typPanel.style.display = mode === "typ" ? "" : "none";
+    body.style.display = mode === "typ" ? "none" : "";
+  }
+  if (mode === "typ") {
+    renderVergleichTypology();
+  } else {
+    renderVergleichList();
+    const unit = vergleichState.unit && vergleichState.unitCache.get(vergleichState.unit);
+    if (unit) renderVergleichUnit(unit);
+  }
   updateVergleichUrl();
-  const unit = vergleichState.unit && vergleichState.unitCache.get(vergleichState.unit);
-  if (unit) renderVergleichUnit(unit);
 }
 
 function onVergleichPairChange() {
@@ -3442,12 +3505,173 @@ function onVergleichPairChange() {
   vergleichState.unit = null;
   updateVergleichUrl();
   loadVergleichIndex();
+  if (vergleichState.mode === "typ") renderVergleichTypology();
+}
+
+// ------------------------------------------------ Typologie-Ansicht
+// Typed differences instead of a similarity score: how the pair's sentence
+// rows decompose (stacked bar from divergence_summary.json), and what each
+// surviving candidate IS, adjudicated by the LLM stage (typology.json).
+let typologySummaryPromise = null;
+const typologyPairCache = new Map();
+
+const TYP_KIND_LABEL = { shift: "Verschiebung", omission: "Auslassung", addition: "Zusatz" };
+// Categories in presentation order. Real findings first; the rest are
+// candidates the LLM retired, kept reviewable but collapsed.
+const TYP_REAL_CATS = ["abschwaechung", "verschaerfung", "ersetzung",
+  "zusatz_im_satz", "auslassung_im_satz", "inhaltlich_anders", "echter_inhalt"];
+const TYP_RETIRED_CATS = ["umformulierung", "modernisierung", "paratext",
+  "erkennungsfehler", "unklar"];
+const TYP_CAT_LABEL = {
+  abschwaechung: "Abschwächung", verschaerfung: "Verschärfung",
+  ersetzung: "Ersetzung (Name, Stelle, Zahl)", zusatz_im_satz: "Zusatz im Satz",
+  auslassung_im_satz: "Auslassung im Satz", inhaltlich_anders: "Inhaltlich anders",
+  echter_inhalt: "Echter Inhalt (fehlt im anderen Zeugen)",
+  umformulierung: "Umformulierung (gleicher Inhalt)",
+  modernisierung: "Modernisierung (nur Sprache)",
+  paratext: "Paratext (Titel, Kolophon, Überschrift)",
+  erkennungsfehler: "Erkennungsfehler", unklar: "Unklar"
+};
+
+async function loadTypologySummary() {
+  if (!typologySummaryPromise) {
+    typologySummaryPromise = fetch(`${COMPARISON_BASE}/divergence_summary.json`)
+      .then((r) => (r.ok ? r.json() : null)).catch(() => null);
+  }
+  return typologySummaryPromise;
+}
+
+async function loadTypologyPair(pairKey) {
+  if (!typologyPairCache.has(pairKey)) {
+    typologyPairCache.set(pairKey,
+      fetch(`${COMPARISON_BASE}/${pairKey}/typology.json`)
+        .then((r) => (r.ok ? r.json() : null)).catch(() => null));
+  }
+  return typologyPairCache.get(pairKey);
+}
+
+function typStackedBar(counts, rows) {
+  const same = counts.verbatim + counts.reworded + counts.spill;
+  const segs = [
+    { key: "gleich", n: same, color: "var(--typ-same)", ink: "#2f2f2f" },
+    { key: "Auslassung", n: counts.omission, color: "var(--typ-omission)", ink: "#fff" },
+    { key: "Verschiebung", n: counts.shift, color: "var(--typ-shift)", ink: "#fff" },
+    { key: "Zusatz", n: counts.addition, color: "var(--typ-addition)", ink: "#fff" }
+  ].filter((s) => s.n > 0);
+  const bar = segs.map((s) => {
+    const pct = (100 * s.n / rows);
+    // Direct label only where it fits; the legend always carries identity.
+    const label = pct > 12 ? `<span class="typ-seg-label" style="color:${s.ink}">${s.key} ${s.n}</span>` : "";
+    return `<div class="typ-seg" style="flex:${s.n};background:${s.color}"
+      title="${s.key}: ${s.n} von ${rows} Satzzeilen (${pct.toFixed(1)}%)">${label}</div>`;
+  }).join("");
+  const legend = segs.map((s) =>
+    `<span class="typ-key"><span class="typ-swatch" style="background:${s.color}"></span>${s.key} ${s.n} (${(100 * s.n / rows).toFixed(1)}%)</span>`
+  ).join("");
+  return `<div class="typ-bar">${bar}</div><div class="typ-legend">${legend}</div>`;
+}
+
+function typFindingHtml(item) {
+  const kind = item.kind || "shift";
+  const badge = TYP_CAT_LABEL[item.kategorie] || item.kategorie;
+  const unitLink = Number.isFinite(item.unit)
+    ? `<a href="#" onclick="typOpenUnit(event, ${item.unit})">Einheit ${item.unit}</a>` : "";
+  const quotes = [];
+  if (item.a) quotes.push(`<p class="typ-quote"><span class="typ-side">A</span>${escapeHtml(item.a.slice(0, 260))}${item.a.length > 260 ? "…" : ""}</p>`);
+  if (item.b) quotes.push(`<p class="typ-quote"><span class="typ-side">B</span>${escapeHtml(item.b.slice(0, 260))}${item.b.length > 260 ? "…" : ""}</p>`);
+  const reason = item.begruendung
+    ? `<p class="typ-reason">${escapeHtml(item.begruendung)}${item.stelle ? ` — „${escapeHtml(item.stelle)}"` : ""}</p>` : "";
+  return `<div class="typ-item ${kind}">
+    <div class="typ-item-head"><span class="typ-badge">${escapeHtml(badge)}</span>
+      <span>${TYP_KIND_LABEL[kind] || kind}</span>${unitLink}</div>
+    ${quotes.join("")}${reason}</div>`;
+}
+
+function typOpenUnit(event, unitNr) {
+  if (event) event.preventDefault();
+  setVergleichMode("app");
+  openVergleichUnit(unitNr);
+}
+
+async function renderVergleichTypology() {
+  const host = document.getElementById("vg-typology");
+  if (!host) return;
+  const pairKey = vergleichPairKey(vergleichState.a, vergleichState.b);
+  host.innerHTML = '<p class="typ-note">Lade Typologie…</p>';
+  const [summary, typ] = await Promise.all([loadTypologySummary(), loadTypologyPair(pairKey)]);
+  if (vergleichState.mode !== "typ") return;
+
+  const pairData = summary && summary.pairs && summary.pairs[pairKey];
+  if (!pairData) {
+    host.innerHTML = `<p class="typ-note">Für dieses Zeugenpaar ist die typisierte
+      Divergenz noch nicht berechnet. Vorhanden ist sie für die Druckpaare mit
+      Basis Druck 23. März 1528 sowie das Kontrollpaar 1608 Bern/Zürich.</p>`;
+    return;
+  }
+  const c = pairData.counts;
+  const content = c.shift + c.omission + c.addition;
+  const isControl = summary.control_pair === pairKey;
+
+  let judged = null;
+  if (typ && typ.items) {
+    judged = { real: [], retired: [], byCat: new Map() };
+    for (const item of typ.items) {
+      const cat = item.kategorie || "unklar";
+      judged.byCat.set(cat, (judged.byCat.get(cat) || 0) + 1);
+      (TYP_REAL_CATS.includes(cat) ? judged.real : judged.retired).push(item);
+    }
+  }
+
+  const tiles = [
+    { label: "Inhaltlich verschieden", value: `${(100 * content / pairData.rows).toFixed(1)} %`,
+      sub: `${content} von ${pairData.rows} Satzzeilen` },
+    { label: "Verschiebungen", value: c.shift, sub: "gleiche Stelle, anderer Inhalt" },
+    { label: "Auslassungen", value: c.omission, sub: "fehlt im Gegenzeugen" },
+    { label: "Zusätze", value: c.addition, sub: "nur im Gegenzeugen" }
+  ];
+  if (judged) {
+    tiles.push({ label: "Nach LLM-Prüfung echt", value: judged.real.length,
+      sub: `von ${typ.items.length} Kandidaten` });
+  }
+  const kpis = tiles.map((t) =>
+    `<div class="typ-tile"><div class="typ-label">${t.label}</div>
+     <div class="typ-value">${t.value}</div><div class="typ-sub">${t.sub}</div></div>`).join("");
+
+  let html = `<div class="typ-kpis">${kpis}</div>${typStackedBar(c, pairData.rows)}`;
+  if (isControl) {
+    html += `<p class="typ-note">Kontrollpaar: beide Exemplare gehören zur selben
+      Ausgabe von 1608 — alles hier Gemeldete ist der <strong>Rauschboden der
+      Methode</strong>, kein Textbefund.</p>`;
+  }
+
+  if (!judged) {
+    html += `<p class="typ-note">Die LLM-Typisierung der ${content} Kandidaten
+      steht für dieses Paar noch aus; die Balken zeigen die kalibrierte
+      Vorstufe (Einbettungs- und Abdeckungsanalyse).</p>`;
+    host.innerHTML = html;
+    return;
+  }
+
+  const catRows = [...TYP_REAL_CATS, ...TYP_RETIRED_CATS]
+    .filter((cat) => judged.byCat.has(cat))
+    .map((cat) => `<tr><td>${TYP_CAT_LABEL[cat]}</td>
+      <td class="typ-num">${judged.byCat.get(cat)}</td></tr>`).join("");
+  html += `<table class="typ-cat-table"><tr><th>Kategorie (${escapeHtml(typ.summary.model)})</th><th class="typ-num">Anzahl</th></tr>${catRows}</table>`;
+
+  html += `<div class="typ-findings"><h4>Echte Unterschiede (${judged.real.length})</h4>`;
+  html += judged.real.map(typFindingHtml).join("") || '<p class="typ-note">Keine.</p>';
+  html += `</div><details class="typ-retired"><summary>Aussortierte Kandidaten
+    (${judged.retired.length}: Umformulierung, Modernisierung, Paratext,
+    Erkennungsfehler)</summary>`;
+  html += judged.retired.map(typFindingHtml).join("");
+  html += "</details>";
+  host.innerHTML = html;
 }
 
 // #/vergleich/<a>__<b>[/<einheit>[/<ebene>]] - every part of the view a reader
 // might want to cite: which two witnesses, which passage, and at which
 // granularity they were reading it.
-const VERGLEICH_MODES = ["word", "para", "app"];
+const VERGLEICH_MODES = ["word", "para", "app", "typ"];
 
 function updateVergleichUrl() {
   const { a, b, unit, mode } = vergleichState;

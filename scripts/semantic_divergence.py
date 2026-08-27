@@ -165,8 +165,10 @@ def analyse_pair(pair_dir: Path, model, pair_floor: float, shift_ceiling: float)
                    key=lambda p: int(p.stem.split("_")[1]))
     texts = []
     parsed = []
+    unit_nrs = []
     for uf in units:
         d = json.loads(uf.read_text(encoding="utf-8"))
+        unit_nrs.append(d.get("unit"))
         anchors, blocks = unit_blocks(d.get("sentences", {}).get("pairs", []))
         # Unmatched rows are re-paired across the whole unit, not per
         # inter-anchor gap: on the control pair only 13 of 692 gaps had rows
@@ -198,6 +200,8 @@ def analyse_pair(pair_dir: Path, model, pair_floor: float, shift_ceiling: float)
               "omission": 0, "addition": 0, "rescued": 0, "noise": 0,
               "spill": 0}
     examples = {"shift": [], "omission": [], "addition": []}
+    candidates = []  # every shift/omission/addition row, in full, for the
+                     # LLM typology stage
 
     def note(kind, **fields):
         if kind in examples and len(examples[kind]) < 12:
@@ -228,6 +232,9 @@ def analyse_pair(pair_dir: Path, model, pair_floor: float, shift_ceiling: float)
             counts[kind] += 1
             if kind == "shift":
                 note("shift", cosine=round(cos, 3), a=p["a"][:160], b=p["b"][:160])
+                candidates.append({"kind": "shift", "unit": unit_nrs[ui],
+                                   "cosine": round(cos, 3),
+                                   "a": p["a"], "b": p["b"]})
 
         na, nb = len(run_a), len(run_b)
         va = vectors[cursor:cursor + na]
@@ -260,6 +267,9 @@ def analyse_pair(pair_dir: Path, model, pair_floor: float, shift_ceiling: float)
                 if kind == "shift":
                     note("shift", cosine=round(cos, 3),
                          a=run_a[i]["a"][:160], b=run_b[j]["b"][:160])
+                    candidates.append({"kind": "shift", "unit": unit_nrs[ui],
+                                       "cosine": round(cos, 3),
+                                       "a": run_a[i]["a"], "b": run_b[j]["b"]})
         unit_a_texts.append(a_full)
         unit_b_texts.append(b_full)
         for i in clean_a:
@@ -290,6 +300,11 @@ def analyse_pair(pair_dir: Path, model, pair_floor: float, shift_ceiling: float)
                 note("shift", cosine=round(cos, 3),
                      a=leftover_a[i][1]["a"][:160],
                      b=leftover_b[j][1]["b"][:160])
+                candidates.append({"kind": "shift",
+                                   "unit": unit_nrs[leftover_a[i][0]],
+                                   "cosine": round(cos, 3),
+                                   "a": leftover_a[i][1]["a"],
+                                   "b": leftover_b[j][1]["b"]})
 
     # Last resort: character containment in the other witness's neighbouring
     # units. Only what fails this too is an omission or addition.
@@ -305,6 +320,8 @@ def analyse_pair(pair_dir: Path, model, pair_floor: float, shift_ceiling: float)
         else:
             counts["omission"] += 1
             note("omission", a=row["a"][:160])
+            candidates.append({"kind": "omission", "unit": unit_nrs[ui],
+                               "a": row["a"], "b": None})
     for j, (ui, row, tnorm, _v) in enumerate(leftover_b):
         if j in g_paired_b:
             continue
@@ -313,11 +330,13 @@ def analyse_pair(pair_dir: Path, model, pair_floor: float, shift_ceiling: float)
         else:
             counts["addition"] += 1
             note("addition", b=row["b"][:160])
+            candidates.append({"kind": "addition", "unit": unit_nrs[ui],
+                               "a": None, "b": row["b"]})
 
     total_rows = (counts["verbatim"] + counts["reworded"] + counts["shift"]
                   + counts["omission"] + counts["addition"] + counts["spill"])
     return {"pair": pair_dir.name, "units": len(units), "rows": total_rows,
-            "counts": counts, "examples": examples}
+            "counts": counts, "examples": examples, "candidates": candidates}
 
 
 def classify_pair_at(cosine: float, char: float, shift_ceiling: float) -> str:
@@ -347,6 +366,8 @@ def main() -> int:
     ap.add_argument("--calibrate", action="store_true",
                     help="sweep thresholds on the control pair")
     ap.add_argument("--json-out", type=Path, default=None)
+    ap.add_argument("--candidates-dir", type=Path, default=None,
+                    help="write <pair>.candidates.json with every flagged row")
     args = ap.parse_args()
 
     model = load_model()
@@ -369,6 +390,12 @@ def main() -> int:
     results = []
     for name in names:
         r = analyse_pair(COMPARISON / name, model, PAIR_FLOOR, SHIFT_CEILING)
+        if args.candidates_dir:
+            args.candidates_dir.mkdir(parents=True, exist_ok=True)
+            (args.candidates_dir / f"{name}.candidates.json").write_text(
+                json.dumps(r["candidates"], ensure_ascii=False, indent=1),
+                encoding="utf-8")
+        r.pop("candidates")
         results.append(r)
         print_report(r)
     if args.json_out:
