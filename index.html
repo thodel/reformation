@@ -1103,8 +1103,8 @@
     </details>
 
     <div class="vg-controls">
-      <label>Fassung A <select id="vg-a" onchange="onVergleichPairChange()"></select></label>
-      <label>Fassung B <select id="vg-b" onchange="onVergleichPairChange()"></select></label>
+      <label>Basiszeuge <select id="vg-a" onchange="onVergleichPairChange()"></select></label>
+      <label>Gegenzeuge <select id="vg-b" onchange="onVergleichPairChange()"></select></label>
       <span class="vg-granularity">
         <button class="vg-toggle active" id="vg-mode-word" onclick="setVergleichMode('word')">Wortebene</button>
         <button class="vg-toggle" id="vg-mode-para" onclick="setVergleichMode('para')">Absatzebene</button>
@@ -1378,40 +1378,44 @@ async function getDisputationVariantAvailability(variant) {
 // Provenance of every witness. Library names and page counts are taken from the
 // e-rara IIIF manifests; the manuscript repository is intentionally left blank
 // where it has not been confirmed rather than guessed at.
+// short: imprint place + year, from the manifests' Impressum lines - both 1528
+// printings are Zurich (Froschauer), both 1608 copies are Bern (Le Preux) and
+// differ only as held copies, 1701 is Bern (Huegenet). Manuscripts go by their
+// scribe.
 const WITNESS_METADATA = [
-  { key: "druck_1528",         label: "Druck, 23. März 1528",   year: "1528", kind: "Druck",
+  { key: "druck_1528", short: "Zürich, März 1528",         label: "Druck, 23. März 1528",   year: "1528", kind: "Druck",
     holding: "UB Bern",   pages: 496, doi: "10.3931/e-rara-141267", inEdition: true,
     institution: "Universitätsbibliothek Bern", shelfmark: "MUE AD 124 : 2",
     rights: "https://creativecommons.org/publicdomain/mark/1.0/", rightsLabel: "Public Domain Mark 1.0" },
-  { key: "druck_1528_04",      label: "Druck, 23. April 1528",  year: "1528", kind: "Druck",
+  { key: "druck_1528_04", short: "Zürich, April 1528",      label: "Druck, 23. April 1528",  year: "1528", kind: "Druck",
     holding: "UB Bern",   pages: 570, doi: "10.3931/e-rara-127203",
     institution: "Universitätsbibliothek Bern", shelfmark: "MUE H X 83 : 1",
     rights: "https://creativecommons.org/publicdomain/mark/1.0/", rightsLabel: "Public Domain Mark 1.0" },
-  { key: "druck_1608_bern",    label: "Druck 1608 (Bern)",      year: "1608", kind: "Druck",
+  { key: "druck_1608_bern", short: "Bern 1608 (Ex. UB Bern)",    label: "Druck 1608 (Bern)",      year: "1608", kind: "Druck",
     holding: "UB Bern",   pages: 568, doi: "10.3931/e-rara-5557",
     institution: "Universitätsbibliothek Bern", shelfmark: "MUE H IV 206 a : 1",
     rights: "https://creativecommons.org/publicdomain/mark/1.0/", rightsLabel: "Public Domain Mark 1.0" },
-  { key: "druck_1608_zuerich", label: "Druck 1608 (Zürich)",    year: "1608", kind: "Druck",
+  { key: "druck_1608_zuerich", short: "Bern 1608 (Ex. ZB Zürich)", label: "Druck 1608 (Zürich)",    year: "1608", kind: "Druck",
     holding: "ZB Zürich", pages: 836, doi: "10.3931/e-rara-80702",
     institution: "Zentralbibliothek Zürich", shelfmark: "7.487",
     rights: "https://creativecommons.org/publicdomain/mark/1.0/", rightsLabel: "Public Domain Mark 1.0" },
-  { key: "druck_1701",         label: "Druck 1701",             year: "1701", kind: "Druck",
+  { key: "druck_1701", short: "Bern 1701",         label: "Druck 1701",             year: "1701", kind: "Druck",
     holding: "UB Bern",   pages: 672, doi: "10.3931/e-rara-47098",
     institution: "Universitätsbibliothek Bern", shelfmark: "MUE H IV 47",
     rights: "https://creativecommons.org/publicdomain/mark/1.0/", rightsLabel: "Public Domain Mark 1.0" },
-  { key: "a_v_1447_schlussredaktion", label: "A V 1447: Schlussredaktion", year: "1528",
+  { key: "a_v_1447_schlussredaktion", short: "Schlussredaktion", label: "A V 1447: Schlussredaktion", year: "1528",
     kind: "Handschrift", holding: "Staatsarchiv Bern", pages: 755, doi: null, inEdition: true,
     institution: "Staatsarchiv des Kantons Bern", shelfmark: "A V 1447" },
-  { key: "a_v_1443_hertwig",   label: "A V 1443: Hertwig",  year: "1528", kind: "Handschrift",
+  { key: "a_v_1443_hertwig", short: "Hertwig",   label: "A V 1443: Hertwig",  year: "1528", kind: "Handschrift",
     holding: "Staatsarchiv Bern", pages: 735, doi: null, inEdition: true,
     institution: "Staatsarchiv des Kantons Bern", shelfmark: "A V 1443" },
-  { key: "a_v_1444_cyro",      label: "A V 1444: Cyro",     year: "1528", kind: "Handschrift",
+  { key: "a_v_1444_cyro", short: "Cyro",      label: "A V 1444: Cyro",     year: "1528", kind: "Handschrift",
     holding: "Staatsarchiv Bern", pages: 839, doi: null, inEdition: true,
     institution: "Staatsarchiv des Kantons Bern", shelfmark: "A V 1444" },
-  { key: "a_v_1445_schoeni",   label: "A V 1445: Schöni",   year: "1528", kind: "Handschrift",
+  { key: "a_v_1445_schoeni", short: "Schöni",   label: "A V 1445: Schöni",   year: "1528", kind: "Handschrift",
     holding: "Staatsarchiv Bern", pages: 776, doi: null, inEdition: true,
     institution: "Staatsarchiv des Kantons Bern", shelfmark: "A V 1445" },
-  { key: "a_v_1446_ruemlang",  label: "A V 1446: Rümlang",  year: "1528", kind: "Handschrift",
+  { key: "a_v_1446_ruemlang", short: "Rümlang",  label: "A V 1446: Rümlang",  year: "1528", kind: "Handschrift",
     holding: "Staatsarchiv Bern", pages: 561, doi: null, inEdition: true,
     institution: "Staatsarchiv des Kantons Bern", shelfmark: "A V 1446" }
 ];
@@ -1432,6 +1436,11 @@ const VARIANT_BY_KEY = {
 function witnessLabel(key) {
   const found = WITNESS_METADATA.find((w) => w.key === key);
   return found ? found.label : key;
+}
+
+function witnessShort(key) {
+  const found = WITNESS_METADATA.find((w) => w.key === key);
+  return found ? (found.short || found.label) : key;
 }
 
 function renderSourceTable() {
@@ -3577,8 +3586,10 @@ function typFindingHtml(item) {
   const unitLink = Number.isFinite(item.unit)
     ? `<a href="#" onclick="typOpenUnit(event, ${item.unit})">Einheit ${item.unit}</a>` : "";
   const quotes = [];
-  if (item.a) quotes.push(`<p class="typ-quote"><span class="typ-side">A</span>${escapeHtml(item.a.slice(0, 260))}${item.a.length > 260 ? "…" : ""}</p>`);
-  if (item.b) quotes.push(`<p class="typ-quote"><span class="typ-side">B</span>${escapeHtml(item.b.slice(0, 260))}${item.b.length > 260 ? "…" : ""}</p>`);
+  const shortA = witnessShort(vergleichState.a);
+  const shortB = witnessShort(vergleichState.b);
+  if (item.a) quotes.push(`<p class="typ-quote"><span class="typ-side">${escapeHtml(shortA)}</span>${escapeHtml(item.a.slice(0, 260))}${item.a.length > 260 ? "…" : ""}</p>`);
+  if (item.b) quotes.push(`<p class="typ-quote"><span class="typ-side">${escapeHtml(shortB)}</span>${escapeHtml(item.b.slice(0, 260))}${item.b.length > 260 ? "…" : ""}</p>`);
   const reason = item.begruendung
     ? `<p class="typ-reason">${escapeHtml(item.begruendung)}${item.stelle ? ` — „${escapeHtml(item.stelle)}"` : ""}</p>` : "";
   return `<div class="typ-item ${kind}">
@@ -3626,8 +3637,8 @@ async function renderVergleichTypology() {
     { label: "Inhaltlich verschieden", value: `${(100 * content / pairData.rows).toFixed(1)} %`,
       sub: `${content} von ${pairData.rows} Satzzeilen` },
     { label: "Verschiebungen", value: c.shift, sub: "gleiche Stelle, anderer Inhalt" },
-    { label: "Auslassungen", value: c.omission, sub: "fehlt im Gegenzeugen" },
-    { label: "Zusätze", value: c.addition, sub: "nur im Gegenzeugen" }
+    { label: "Auslassungen", value: c.omission, sub: `fehlt in ${witnessShort(vergleichState.b)}` },
+    { label: "Zusätze", value: c.addition, sub: `nur in ${witnessShort(vergleichState.b)}` }
   ];
   if (judged) {
     tiles.push({ label: "Nach LLM-Prüfung echt", value: judged.real.length,
