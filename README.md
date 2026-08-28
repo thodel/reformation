@@ -6,30 +6,40 @@ Die Anwendung kombiniert:
 - Textspalte fuer Transkription (mit optionalem Named-Entity-Linking)
 - Textspalte fuer moderne deutsche Uebersetzung aus lokalen Markdown-Dateien
 
-## Aktueller Stand
+## Aktueller Stand (28. August 2026)
 
-Implementiert:
-- Single-Page-Webapp in [`index.html`](index.html)
-- Navigation zwischen vier Bereichen: Startseite, Predigten, Disputation, Ressourcen
-- Predigten-Viewer mit OpenSeadragon (Canvas-Wechsel pro Seite aus IIIF-Manifest)
-- Disputation-Viewer mit OpenSeadragon und Variantenumschaltung
-- Disputation kann pro Variante aus lokalem `viewer_manifest.json` gespeist werden (Transkribus-Export)
-- Seitennavigation fuer Bild + Transkription + Uebersetzung (beide Bereiche)
-- Laden der Uebersetzungen aus den jeweiligen Bereichspfaden (Predigten/Disputation)
-- Optionales Laden von Transkriptionen aus `data/predigten/transcriptions/`
-- Optionales Named-Entity-Linking via `data/predigten/entities/named_entities.json`
-- Disputations-Ansichten:
-  - Druck von 1528
-  - A V 1447: Schlussredaktion
-  - A V 1443: Hertwig
-  - A V 1444: Cyro
-  - A V 1445: Schoeni
-  - A V 1446: Ruemlang
+Die Edition ist unter https://thodel.github.io/reformation/ publiziert und
+wird nächtlich aus Transkribus aktualisiert (Sync + Vergleichs-Refresh, beide
+seit dem 25. August täglich grün).
 
-In Vorbereitung:
-- Vollstaendige Befuellung der Disputations-Manifeste fuer alle Handschriften
-- Personen-/Institutionsregister
-- Vollstaendige Transkriptionsspalten
+**Quellen** — zehn Zeugen der Disputation, alle blätterbar mit Faksimile,
+Transkription und (wo vorhanden) Übersetzung:
+- fünf Drucke, alle zur Laufzeit über IIIF von e-rara (nichts gespiegelt):
+  Zürich, März 1528 (Froschauer; Basistext) · Zürich, April 1528 · Bern 1608
+  (Le Preux, Exemplare UB Bern und ZB Zürich) · Bern 1701 (Hügenet)
+- fünf Handschriften des Staatsarchivs Bern (A V 1443–1447: Hertwig, Cyro,
+  Schöni, Rümlang, Schlussredaktion)
+- dazu die Predigten (Faksimiles via IIIF; Transkriptionen ausstehend)
+
+**Vergleich** — der synoptische Vergleich (Epic #4, abgeschlossen) auf vier
+Ebenen: Wort, Absatz, Apparat und **Typologie**. Die Typologie ersetzt
+Ähnlichkeitsprozente durch typisierte Unterschiede (Verschiebung, Auslassung,
+Zusatz), kalibriert am Kontrollpaar der beiden 1608er Exemplare (Rauschboden
+0,8 %) und adjudiziert durch gpt-oss-120b (1 336 Kandidaten, null
+Fehlschläge). Ergebnis: die Ausgaben unterscheiden sich inhaltlich um
+5,3–7,5 % — nicht um die 42–53 %, die der Zeichenvergleich nahelegt.
+Methodik: [docs/semantic-divergence.md](docs/semantic-divergence.md).
+
+**Erschliessung** — Personenregister mit HLS-Verknüpfung,
+Bibelstellenerkennung, Konkordanz der Druckausgaben mit Segmenttiteln,
+seitenweiser Nachweis (Institution, Signatur, Public Domain Mark) und der
+Hinweis „maschinell erkannt, nicht ediert" bei jedem Zeugen. Alle Ansichten
+sind über URL zitierfähig; die Volltextsuche umfasst alle elf Quellen.
+
+**Offen** ([Issues](https://github.com/thodel/reformation/issues)):
+Übersetzungen der vier übrigen Handschriften (#61), wöchentlicher
+e-rara-Verfügbarkeitscheck (#62), Zitieren-Schaltfläche (#63), TEI-P5-Export
+(#64, Epic), Entscheidungstabelle zur Normalisierung (#46).
 
 ## Projektstruktur
 
