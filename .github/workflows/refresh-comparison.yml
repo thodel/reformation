@@ -129,6 +129,14 @@ jobs:
       - name: Validate repository
         run: python3 scripts/validate_repo.py
 
+      # The TEI export is derived, so it must be regenerated wherever the data
+      # changes - otherwise docs/tei/ quietly describes last month's corpus.
+      # It is deterministic (its publication date comes from the last data
+      # commit, not from today), so an unchanged corpus produces an identical
+      # export and nothing to commit.
+      - name: Export TEI
+        run: python3 scripts/export_tei.py
+
       - name: Commit and push
         id: commit
         shell: bash
@@ -136,13 +144,13 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/comparison/
+          git add data/comparison/ docs/tei/
           if git diff --staged --quiet; then
             echo "No changes to commit."
             echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          git commit -m "chore: refresh witness comparison data"
+          git commit -m "chore: refresh witness comparison data and TEI export"
           git pull --rebase --autostash
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
