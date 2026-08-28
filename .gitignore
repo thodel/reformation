@@ -214,6 +214,11 @@ config/*
 !config/disputation_transkribus.json
 !config/disputation_transkribus.example.json
 !config/prints.json
+# The e-rara baseline holds expected image dimensions only (no credentials)
+# and the weekly check is meaningless without it: in a clean checkout it
+# would fall back to line_coords, which only druck_1528 keeps, and would
+# call a renumbering of the other four healthy.
+!config/erara_baseline.json
 config/transkribus_config.json
 # Derived per-page segments from segment_pages.py are not tracked.
 data/disputation/*/segments/
