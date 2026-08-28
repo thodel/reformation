@@ -324,6 +324,19 @@
       outline: 3px solid rgba(251, 191, 36, 0.85);
       outline-offset: 2px;
     }
+    .cite-btn { font-family: var(--font-body); }
+    .cite-output {
+      max-width: 62rem; margin: 0.6rem auto 0; padding: 0.7rem 0.9rem;
+      background: rgba(255,255,255,0.9); border-left: 3px solid var(--nav);
+      border-radius: 0 6px 6px 0; font-size: 0.85rem; color: var(--ink);
+    }
+    .cite-output .cite-status { font-size: 0.78rem; color: var(--ink-soft); margin-bottom: 0.3rem; }
+    .cite-output textarea {
+      width: 100%; box-sizing: border-box; border: 1px solid rgba(15,39,68,0.2);
+      border-radius: 4px; padding: 0.5rem; font-family: var(--font-body);
+      font-size: 0.85rem; color: var(--ink); background: #fff; resize: vertical;
+    }
+
     .page-nav button:disabled {
       background: #c8ced8;
       border-color: #c8ced8;
@@ -1058,7 +1071,10 @@
         von <span id="disputation-page-total">1</span>
       </span>
       <button onclick="nextDisputationPage()" id="disputation-next-btn">Weiter →</button>
+      <button onclick="copyCitation()" id="disputation-cite-btn" class="cite-btn"
+              title="Zitation dieser Seite in die Zwischenablage kopieren">Zitieren</button>
     </div>
+    <div id="cite-output" class="cite-output" hidden></div>
     <div class="intro" style="margin-top: 1rem;">
       <p>Bildquelle (Druck): <a href="https://doi.org/10.3931/e-rara-47098" target="_blank">DOI: 10.3931/e-rara-47098</a></p>
     </div>
@@ -4582,6 +4598,64 @@ function witnessRights(key) {
     : "";
   return `<p class="rights-note">Faksimile: ${parts.join(" · ")}${rights}.
     Der Text ist <strong>maschinell erkannt und nicht ediert</strong>.</p>`;
+}
+
+// ------------------------------------------------------------- Zitation
+// Everything a citation needs is already in WITNESS_METADATA; the reader
+// should not have to assemble it by hand from the rights line and the URL.
+// The "maschinell erkannt" caveat travels INSIDE the citation - a quotation
+// pasted into a paper leaves the page behind, and with it every disclaimer
+// that stayed on the page.
+function buildCitation(key, pageNr) {
+  const w = WITNESS_METADATA.find((x) => x.key === key);
+  if (!w) return null;
+  const parts = [];
+  const title = "Berner Disputation 1528";
+  // The short title alone, not label + short: the labels say "Druck 1608
+  // (Zürich)" meaning the HOLDING library, while the short title's place is
+  // the PRINTING place (Bern). Both in one citation reads as a contradiction,
+  // and the holding library is already named by institution + shelfmark.
+  parts.push(`${title}, ${w.short || w.label}`);
+  if (w.institution) {
+    parts.push(w.shelfmark ? `${w.institution}, ${w.shelfmark}` : w.institution);
+  }
+  let cite = parts.join(" — ");
+  cite += `, S. ${pageNr}.`;
+  if (w.doi) cite += ` Digitalisat: doi:${w.doi}.`;
+  const prefix = groupOfVariant(VARIANT_BY_KEY[key] || key) === "print" ? "drucke" : "disputation";
+  const url = `${location.origin}${location.pathname}#/${prefix}/${VARIANT_BY_KEY[key] || key}/${pageNr}`;
+  const today = new Date().toLocaleDateString("de-CH",
+    { day: "2-digit", month: "2-digit", year: "numeric" });
+  cite += ` In: Berner Reformation — Digitale Edition, ${url} (abgerufen am ${today}).`;
+  cite += " Text maschinell erkannt, nicht ediert.";
+  return cite;
+}
+
+async function copyCitation() {
+  const variant = getCurrentDisputationVariant();
+  const host = document.getElementById("cite-output");
+  if (!variant || !host) return;
+  const key = Object.keys(VARIANT_BY_KEY).find((k) => VARIANT_BY_KEY[k] === variant.id)
+    || variant.id.replace(/-/g, "_");
+  const pageEntry = getCurrentDisputationPageEntry();
+  const pageNr = pageEntry ? pageEntry.pageNr : (disputationState.currentPageIndex + 1);
+  const cite = buildCitation(key, pageNr);
+  if (!cite) return;
+
+  let status = "In die Zwischenablage kopiert.";
+  try {
+    await navigator.clipboard.writeText(cite);
+  } catch (_error) {
+    // Clipboard access can be refused (permissions, insecure context, an
+    // embedded viewer). The citation is shown either way, selectable - the
+    // reader is never left with a button that silently did nothing.
+    status = "Zwischenablage nicht verfügbar — Text markieren und kopieren:";
+  }
+  host.hidden = false;
+  host.innerHTML = `<div class="cite-status">${escapeHtml(status)}</div>
+    <textarea rows="4" readonly aria-label="Zitation">${escapeHtml(cite)}</textarea>`;
+  const area = host.querySelector("textarea");
+  if (area) area.select();
 }
 
 function updateWitnessRights() {

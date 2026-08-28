@@ -1,0 +1,56 @@
+name: Check e-rara
+
+# The edition mirrors no page images: since #57 every facsimile of all five
+# prints is fetched from e-rara when a reader opens the page. Availability has
+# been good, so this is not a watchdog for an unreliable service - it is here
+# so that the rare failure is reported to us rather than discovered by a
+# reader looking at a dark viewer.
+#
+# Five requests a week, one page per witness. It commits nothing; the exit
+# code is the whole output, and GitHub's own failure notification is the
+# alert. A dimension change is treated as a failure too: that is what a silent
+# renumbering looks like from outside, where the URL still answers 200 but now
+# serves a different object.
+on:
+  schedule:
+    # Monday morning, after the nightly sync window has cleared.
+    - cron: "23 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: check-erara
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      # Skip the page images: 2.1 GB across eight directories that no text
+      # workflow reads. Measured here, a plain checkout takes 92 seconds and
+      # leaves a 2.0 GB .git; excluding the images takes 9 seconds and 36 MB.
+      # blob:none ALONE changes nothing, because checkout refetches every blob
+      # to populate the working tree - the filter only helps paired with a
+      # sparse pattern.
+      #
+      # Deploy Pages deliberately does not do this: it publishes the site, and
+      # all 496 druck_1528 manifest entries point at images/page_N.jpg.
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /*
+            !/data/disputation/*/images/
+            !/data/disputation/*/images_temp/
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Probe the IIIF services
+        run: python scripts/check_erara.py
