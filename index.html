@@ -2555,8 +2555,16 @@ async function updateDisputationViewerPage() {
         : 'Bildquelle für diese Fassung noch nicht konfiguriert.');
       return;
     }
-    // Convert local image path to OpenSeadragon tileSource if needed
-    const tileSourceObj = typeof tileSource === 'string' && tileSource.match(/\.(jpg|jpeg|png|gif)$/i)
+    // A plain image URL has to be declared as one. OpenSeadragon treats a bare
+    // string as a tile source to be resolved (IIIF info.json, DZI), so anything
+    // that is not one must be wrapped - matching on a file extension is not
+    // enough: the Transkribus URLs the manuscript manifests used carry the id
+    // in a query string and end in no extension at all, so every manuscript
+    // page failed with "Unable to load TileSource" while the request itself
+    // was fine.
+    const isTileSourceUrl = typeof tileSource === 'string'
+      && /\/info\.json$|\.dzi$|\.xml$/i.test(tileSource);
+    const tileSourceObj = (typeof tileSource === 'string' && !isTileSourceUrl)
       ? { type: 'image', url: tileSource }
       : tileSource;
     disputationState.viewer.open(tileSourceObj);
