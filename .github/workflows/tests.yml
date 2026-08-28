@@ -39,7 +39,7 @@ jobs:
           python -m pip install --upgrade pip
           # google-genai is required: gemini_client degrades to no-ops without
           # it, so tests asserting real config objects pass locally and fail here.
-          pip install pytest requests google-genai
+          pip install pytest requests google-genai lxml
 
       # pytest discovers both plain test functions and unittest.TestCase
       # classes, so the two styles already in tests/ run under one command.
