@@ -11,6 +11,7 @@ import argparse
 import hashlib
 import json
 import os
+import subprocess
 import sys
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass
@@ -425,6 +426,27 @@ def transcription_body(markdown: str) -> str:
     return "\n".join(lines).strip()
 
 
+def tracked_images(variant_dir: Path) -> set[str]:
+    """Image paths git knows about, relative to the variant directory.
+
+    The manifest must describe what the PUBLISHED SITE serves, not what
+    happens to be present in this checkout. CI syncs with a sparse checkout
+    that deliberately omits images/ (issue #32), so a plain exists() check
+    there reports "no local image" for files that are tracked and served, and
+    the manifest silently reverts to Transkribus session URLs - which is what
+    undid the facsimile fix on the very next nightly run.
+    """
+    try:
+        out = subprocess.run(
+            ["git", "ls-files", "-z", "--", "images"],
+            cwd=variant_dir, capture_output=True, timeout=60)
+        if out.returncode != 0:
+            return set()
+        return {name for name in out.stdout.decode("utf-8").split("\0") if name}
+    except Exception:  # noqa: BLE001 - not a git checkout, or git missing
+        return set()
+
+
 def existing_manifest_page_count(variant_dir: Path) -> int:
     manifest_path = variant_dir / "viewer_manifest.json"
     if not manifest_path.exists():
@@ -473,6 +495,7 @@ def sync_variant(
 
     # Guard: a partial/empty API response must never shrink an existing edition.
     previous_page_count = existing_manifest_page_count(variant_dir)
+    tracked = tracked_images(variant_dir)
     if previous_page_count and max_page_loss < 1:
         allowed = previous_page_count * (1 - max_page_loss)
         if len(pages) < allowed:
@@ -587,7 +610,12 @@ def sync_variant(
         write_text(variant_dir / line_coords_rel, json.dumps(line_coords_payload, ensure_ascii=False, indent=2))
 
         # Use local file if it was downloaded, otherwise fall back to external URL
-        image_manifest_value = image_rel if image_target.exists() else (image_url or None)
+        # Local path when the image is on disk OR tracked by git; only a page
+        # that exists in neither falls back to the Transkribus URL. Those URLs
+        # are session links to a service outside this project - fine as a last
+        # resort for a page we do not have, wrong as the published source.
+        have_local = image_target.exists() or image_rel in tracked
+        image_manifest_value = image_rel if have_local else (image_url or None)
         viewer_pages.append(
             {
                 "page_nr": page_nr,

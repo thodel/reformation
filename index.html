@@ -2668,12 +2668,30 @@ function applyDisputationLineOverlays() {
     return;
   }
 
+  // Line coordinates are in the pixel space of the image the PAGE XML was
+  // produced from, which need not be the resolution actually served. OSD maps
+  // through the LOADED image's dimensions, so the two must be reconciled here
+  // or every box lands proportionally wrong the moment a facsimile is served
+  // at a different size. The PAGE XML states its own reference size; using it
+  // keeps the overlay correct at any resolution instead of tying the viewer
+  // to one.
+  // Two shapes reach here: the PAGE XML parser returns width/height at the
+  // top level, the stored line_coords JSON nests them under "image". Reading
+  // only one of them makes the scale silently default to 1 for the other -
+  // i.e. correct-looking until the served resolution changes.
+  const refW = Number(payload.width || (payload.image && payload.image.width)) || 0;
+  const refH = Number(payload.height || (payload.image && payload.image.height)) || 0;
+  const imgW = Number(tiledImage.source && tiledImage.source.width) || 0;
+  const imgH = Number(tiledImage.source && tiledImage.source.height) || 0;
+  const scaleX = (refW > 0 && imgW > 0) ? imgW / refW : 1;
+  const scaleY = (refH > 0 && imgH > 0) ? imgH / refH : 1;
+
   for (const line of payload.lines) {
     if (!line || !line.bbox) continue;
-    const x = Number(line.bbox.x);
-    const y = Number(line.bbox.y);
-    const w = Number(line.bbox.w);
-    const h = Number(line.bbox.h);
+    const x = Number(line.bbox.x) * scaleX;
+    const y = Number(line.bbox.y) * scaleY;
+    const w = Number(line.bbox.w) * scaleX;
+    const h = Number(line.bbox.h) * scaleY;
     if (![x, y, w, h].every(Number.isFinite) || w <= 0 || h <= 0) continue;
 
     const lineId = String(line.id || '');
@@ -2693,7 +2711,9 @@ function applyDisputationLineOverlays() {
       })
       .filter((point) => point && Number.isFinite(point.x) && Number.isFinite(point.y));
     const polygonPoints = normalizedPoints.length > 0
-      ? normalizedPoints.map((point) => `${point.x - x},${point.y - y}`).join(' ')
+      ? normalizedPoints
+          .map((point) => `${point.x * scaleX - x},${point.y * scaleY - y}`)
+          .join(' ')
       : `0,0 ${w},0 ${w},${h} 0,${h}`;
     overlayElement.innerHTML = `<svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" aria-hidden="true"><polygon points="${polygonPoints}"></polygon></svg>`;
     const location = tiledImage.imageToViewportRectangle(x, y, w, h);
