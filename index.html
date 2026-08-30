@@ -325,6 +325,17 @@
       outline-offset: 2px;
     }
     .cite-btn { font-family: var(--font-body); }
+    .lesehilfe { font-size: 0.9rem; color: var(--ink); }
+    .lesehilfe .lh-status { color: var(--ink-soft); font-style: italic; margin-bottom: 0.6rem; }
+    .lesehilfe .lh-block { border-left: 3px solid rgba(15,39,68,0.25); padding: 0.4rem 0.7rem;
+      margin: 0.5rem 0; background: rgba(15,39,68,0.03); border-radius: 0 6px 6px 0; }
+    .lesehilfe h4 { margin: 0 0 0.3rem; font-size: 0.85rem; color: var(--ink-soft);
+      text-transform: uppercase; letter-spacing: 0.04em; }
+    .lesehilfe .lh-caveat { font-size: 0.78rem; color: var(--ink-soft); margin-top: 0.6rem; }
+    .lesehilfe details summary { cursor: pointer; color: #1a3a6b; font-size: 0.88rem; }
+    .lesehilfe .lh-druckseite { margin: 0.6rem 0; }
+    .lesehilfe .lh-druckseite h5 { margin: 0 0 0.2rem; font-size: 0.82rem; }
+    .lesehilfe .lh-drucktext { white-space: pre-wrap; font-size: 0.85rem; line-height: 1.5; }
     .cite-output {
       max-width: 62rem; margin: 0.6rem auto 0; padding: 0.7rem 0.9rem;
       background: rgba(255,255,255,0.9); border-left: 3px solid var(--nav);
@@ -2813,18 +2824,132 @@ async function loadDisputationTranscription(token) {
     const response = await fetch(transcriptionPath);
     if (token !== disputationState.contentToken) return;
     if (!response.ok) {
-      container.innerHTML = '<p>Transkription für diese Fassung/Seite noch nicht verfügbar.</p>';
+      const hilfe = await renderLesehilfe(variant, pageNum);
+      if (token !== disputationState.contentToken) return;
+      container.innerHTML = hilfe
+        || '<p>Transkription für diese Fassung/Seite noch nicht verfügbar.</p>';
       return;
     }
 
     const text = await response.text();
     if (token !== disputationState.contentToken) return;
+    // Ein Stub ("# Seite N" ohne Inhalt) ist keine Transkription: dieselbe
+    // Lesehilfe wie bei fehlender Datei, statt einer leeren Spalte.
+    const stubBody = text.replace(/^#.*$/gm, "").trim();
+    if (stubBody.length < 20) {
+      const hilfe = await renderLesehilfe(variant, pageNum);
+      if (token !== disputationState.contentToken) return;
+      if (hilfe) { container.innerHTML = hilfe; return; }
+    }
     container.innerHTML = renderMarkdown(text, { linkEntities: true, entityRules });
     applyTranscriptionSearch('disputation');
   } catch (error) {
     if (token !== disputationState.contentToken) return;
     container.innerHTML = '<p>Fehler beim Laden der Transkription.</p>';
   }
+}
+
+// ------------------------------------------------ Lesehilfe (P4, #75)
+// Untranskribierte Handschriftenseiten zeigen statt "noch nicht verfügbar"
+// die Sichtungs-Landmarken und - ausklappbar - die Druckpassage laut
+// Ankerkarte. Die Pilotmessung (P3) hat die Grenzen vermessen: die Passage
+// trifft den INHALT (17 von 20 Faellen), nicht den Wortlaut - sie wird
+// deshalb ausdruecklich als Hypothese beschriftet, nie als Text der Seite.
+const lesehilfeCache = new Map();
+
+async function fetchJsonCached(url) {
+  if (!lesehilfeCache.has(url)) {
+    lesehilfeCache.set(url, fetch(url)
+      .then((r) => (r.ok ? r.json() : null)).catch(() => null));
+  }
+  return lesehilfeCache.get(url);
+}
+
+function lesehilfeAnchorLabel(quelle) {
+  return {
+    alignment: "über den Textvergleich verankert",
+    landmark: "über eine Struktur-Landmarke verankert",
+    interpolation: "zwischen Ankern interpoliert",
+    terminal: "vom Buchende her geschätzt",
+  }[quelle] || quelle;
+}
+
+async function renderLesehilfe(variant, pageNum) {
+  const [anchors, aid] = await Promise.all([
+    fetchJsonCached(`${variant.basePath}/print_anchors.json`),
+    fetchJsonCached(`${variant.basePath}/finding_aid.json`),
+  ]);
+  if (!anchors) return null;  // Drucke und Predigten haben keine Ankerkarte
+
+  const entry = (anchors.pages || []).find((e) => e.page === pageNum);
+  let html = '<div class="lesehilfe">';
+
+  if (!entry) {
+    // Die Ankerkarte fuehrt nur beschriebene Seiten; was fehlt, hat die
+    // Tintenmessung als leer eingestuft - das ist dann die ganze Auskunft,
+    // kein "noch nicht transkribiert" fuer ein leeres Blatt.
+    html += '<p class="lh-status">Nach der Tintenmessung ist dieses Blatt unbeschrieben.</p></div>';
+    return html;
+  }
+  html += '<p class="lh-status">Diese Seite ist noch nicht transkribiert.</p>';
+
+  const sicht = aid && aid.pages && aid.pages[String(pageNum)];
+  if (sicht && (sicht.headings || []).length) {
+    html += '<div class="lh-block"><h4>Sichtung</h4>'
+      + sicht.headings.map((h) => `<p>${escapeHtml(h)}</p>`).join("")
+      + (sicht.note ? `<p class="lh-caveat">${escapeHtml(sicht.note)}</p>` : "")
+      + '</div>';
+  }
+
+  const von = entry.druck_von, bis = entry.druck_bis;
+  const spanne = von === bis ? `S. ${von}` : `S. ${von}–${bis}`;
+  html += `<div class="lh-block"><h4>Druckstütze (Hypothese)</h4>
+    <p>Die Ankerkarte verortet diese Seite im Druck vom März 1528 auf
+    ${spanne} (${lesehilfeAnchorLabel(entry.quelle)}).</p>
+    <details ontoggle="if (this.open) loadLesehilfePassage(this, ${von}, ${bis})">
+      <summary>Druckpassage anzeigen</summary>
+      <div class="lh-passage"><p class="lh-status">Lade Druckpassage…</p></div>
+    </details>
+    <p class="lh-caveat">Der Druck ist Hypothese, keine Transkription dieser
+    Seite: die Pilotmessung zeigt, dass er den Inhalt trifft, nicht den
+    Wortlaut der Handschrift. Abweichungen der Handschrift sind Befunde.</p>
+  </div>`;
+  html += '</div>';
+  return html;
+}
+
+async function loadLesehilfePassage(detailsEl, von, bis) {
+  const host = detailsEl.querySelector('.lh-passage');
+  if (!host || host.dataset.loaded) return;
+  host.dataset.loaded = "1";
+  // Bei breiten Bereichen nur die zentralen Seiten - eine 100-Seiten-Passage
+  // waere Rauschen, keine Hilfe. Die Kappung wird ausgewiesen.
+  const MAX = 6;
+  let from = von, to = bis;
+  let gekappt = false;
+  if (to - from + 1 > MAX) {
+    const centre = Math.floor((von + bis) / 2);
+    from = Math.max(von, centre - Math.floor(MAX / 2));
+    to = Math.min(bis, from + MAX - 1);
+    gekappt = true;
+  }
+  const parts = [];
+  if (gekappt) {
+    parts.push(`<p class="lh-caveat">Bereich gekappt auf S. ${from}–${to}
+      (voller Ankerbereich: S. ${von}–${bis}).</p>`);
+  }
+  for (let nr = from; nr <= to; nr++) {
+    try {
+      const r = await fetch(`data/disputation/druck_1528/transcriptions/page_${nr}.md`);
+      if (!r.ok) continue;
+      const text = (await r.text()).replace(/^#.*$/m, "").trim();
+      if (!text) continue;
+      parts.push(`<div class="lh-druckseite">
+        <h5><a href="#/drucke/druck-1528/${nr}">Druck S. ${nr}</a></h5>
+        <div class="lh-drucktext">${escapeHtml(text)}</div></div>`);
+    } catch (_e) { /* einzelne Seite fehlgeschlagen - weiter */ }
+  }
+  host.innerHTML = parts.join("") || '<p>Druckpassage nicht ladbar.</p>';
 }
 
 async function loadDisputationTranslation(token) {
