@@ -486,7 +486,13 @@ def sync_variant(
     line_coords_dir = variant_dir / "line_coords"
     pagexml_dir = variant_dir / "pagexml"
 
-    for directory in [images_dir, transcriptions_dir, line_coords_dir, pagexml_dir, variant_dir / "translations", variant_dir / "entities"]:
+    wanted_dirs = [transcriptions_dir, line_coords_dir, pagexml_dir,
+                   variant_dir / "translations", variant_dir / "entities"]
+    if download_images:
+        # Ohne Download bleibt images/ unangelegt: ein leeres Verzeichnis im
+        # Sparse-Checkout liess den Validator alle Seiten als fehlend melden.
+        wanted_dirs.insert(0, images_dir)
+    for directory in wanted_dirs:
         directory.mkdir(parents=True, exist_ok=True)
 
     document = fetch_document_content(session, auth, variant.collection_id, variant.document_id)

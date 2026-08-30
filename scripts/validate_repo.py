@@ -59,7 +59,12 @@ def validate_viewer_manifests() -> tuple[list[str], list[str]]:
         # CI run. A directory that IS present is still checked file by file, so
         # a genuinely missing page is still caught wherever the images exist.
         images_dir = variant_dir / "images"
-        images_checked_out = images_dir.is_dir()
+        # is_dir() allein genuegt nicht: der Sync legt images/ per mkdir an,
+        # BEVOR er entscheidet, ob er Bilder herunterlaedt - im Sparse-Checkout
+        # der CI existiert das Verzeichnis dann leer, und ein Existenz-Check
+        # meldete alle 3666 Seiten als fehlend (Sync-Lauf 33303399631).
+        # Massstab ist daher: liegt mindestens ein Bild da.
+        images_checked_out = images_dir.is_dir() and any(images_dir.glob("*.jpg"))
         if pages and not images_checked_out and any(
             isinstance(page.get("image"), str)
             and not page["image"].startswith(("http://", "https://"))
