@@ -157,14 +157,20 @@ def load_ink(ink_path: Path | None) -> dict[str, dict[int, float]]:
 
 
 def written_pages(witness: str, ink: dict) -> list[int]:
-    """Seiten mit Schrift, in Blattfolge - die Achse der Interpolation."""
-    images = DISPUTATION / witness / "images"
-    numbers = sorted(int(re.search(r"\d+", p.name).group())
-                     for p in images.glob("page_*.jpg"))
+    """Seiten mit Schrift, in Blattfolge - die Achse der Interpolation.
+
+    Das Inventar kommt aus der VERSIONIERTEN Tintenmessung, nicht aus einem
+    Glob ueber images/: die CI checkt die Bilder nicht aus, und ein leeres
+    Inventar liess dort die eingebaute Validierung stumm ausfallen (PR #77
+    war deshalb rot und haette nicht gemergt werden duerfen). images/ ist nur
+    noch Fallback fuer Zeugen ohne Tintendaten.
+    """
     scores = ink.get(witness, {})
-    if not scores:
-        return numbers  # ohne Tintendaten zählt jede Seite
-    return [n for n in numbers if scores.get(n, 1.0) >= INK_BLANK]
+    if scores:
+        return [n for n in sorted(scores) if scores[n] >= INK_BLANK]
+    images = DISPUTATION / witness / "images"
+    return sorted(int(re.search(r"\d+", p.name).group())
+                  for p in images.glob("page_*.jpg"))
 
 
 def monotone(anchors: list[dict]) -> tuple[list[dict], list[dict]]:
