@@ -5,10 +5,10 @@
       19
     ],
     "a_v_1444_cyro": [
-      8
+      7
     ]
   },
-  "alignment_score": 0.1137,
+  "alignment_score": 0.1111,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 8,
-    "matched": 1,
-    "only_a": 6,
-    "only_b": 1,
-    "similarity": 0.4176,
+    "units": 9,
+    "matched": 0,
+    "only_a": 7,
+    "only_b": 2,
+    "similarity": 0.0,
     "pairs": [
       {
         "op": "only_a",
@@ -54,16 +54,10 @@
         "similarity": 0.0
       },
       {
-        "op": "only_b",
-        "a": null,
-        "b": "prs\ndige\nge-\nwen\nnog\nder\nund\noder\nlich\nAlso\nHans\ns\ngehört\nhern\nvon den\nnen\nherrn Iesn christi, das man bisher die mess\ngenempt hatt 14 Es bittet unns ouch der\nHerlig paulus das wir mit zenkisch sonnder\nvolkomen, vnns stins, vnuerley meinung spend\nunnd das ein secklicher der gab oder kunst\nso im gott verlichen hatt, mit stolltz vnnd vff\ngeblasen (guia scientia inflat) Jemands verachte\nsunder in christenlicher lieben (gne sola verdificat)\neiner des andern burdi trage, einer dem andern\ndiene,\nEs trostett vnns ouch vnnser lieber her\nIesus christus in dem do er spricht mach 7.",
-        "similarity": 0.0
-      },
-      {
-        "op": "match",
+        "op": "only_a",
         "a": "suchend/so werdend\njr finden: Elopffend an/ so wirt ich offthon. Ses erma\nnen ich üch all vßerwelten/gotsfründ/das jrüwere her=\ngen vor Gott wellend demutigen/vnd mit mir beken=\nnen/fprechende/Jch armer sündiger mensch.ac.",
-        "b": "do er ß bittend so werdend ir empfachen\nsüchend so werdend ir finden, klopfend an\nso wirt vth uffthan, des Ermanen Ich\nVth all vßerwellten gotz hannd das ir\nv were hertzen vor gott wellend demutigen\nvnnd mitt mir bekennn, isprechende\nIch armer sundiger mensch etc. protivatter\nvnser ane maria etc. Amen dixi,",
-        "similarity": 0.4176
+        "b": null,
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -76,30 +70,42 @@
         "a": "Ich gloub in\nGott vatter.ic. Wir hand ouch nützid für vns genom\nmen/wider den einfaltigen ynsatz des Nachtmals vn=\nfers herren Jesu Christi/das man bißhar die Meß ge\nnempthat. Sivi. 21 tj",
         "b": null,
         "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "gehört\nlemab\nam End\nby Clein\nzeichen\nallen zweiffell, mitt an bestendte würckung\ndes heiligen geists, unnser fursichtigen, wysen,\nunnd gnädiget han rät unnd burger\ndiser loblichen statt Bernn bewegt\nsind, vth erbern, hochgelerten christen-\nlichen herren unnd bruder fruntlich zu\nbeschriben, Euch gewisser warheitt von\nvth zu erkunden, damit mengklich\nallenthalb zu rüwen in ire gewüssen\ngege gott vnnd zu guttem friden vnder\neinandern komen mochtind, nun dem\nallso nachzukommen, sind wir vnwirdigen\ndiener und prediger, des heiligen Buange-\nlinns, nun broder berchtold unnd Johan\nerfordert unnsers glaubens vnd predi-\ngens rechnung zü geben, des wir,\nmitt sampt allen demm so das mangelien\nbekennen urbittig sind, vnnd nach ordnung\nußzeichneter artickeln /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "ouch allen reden so dar\nuß mochten vollgnädigen zu antwurten unnd\nmitt gwalltiger schrifft ze bewarenn\n-\nWir bezügen ouch hiemitt das wir wider\nkemē artickell vnsers allte christenliche\nglonleus utzit hanndeln wellen, der allso\nlutet Ich gloub in gott vatter per wir hand-\nouch nützit hin vnns gnomen wider den\neinfalligt insatz des nachtmals unnsers",
+        "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.2919,
+    "similarity": 0.2506,
     "words": {
       "a": 264,
-      "b": 154
+      "b": 167
     },
     "segments": [
       {
         "op": "replace",
-        "a": "II",
-        "b": "prs dige ge wen nog der"
+        "a": "II vnd",
+        "b": "gehört lemab am End by Clein zeichen allen zweiffell mitt an bestendte würckung des heiligen geists unnser fursichtigen wysen unnd gnädiget han rät unnd burger diser loblichen statt Bernn bewegt sind vth erbern hochgelerten christen lichen herren unnd"
       },
       {
         "op": "equal",
-        "a": "vnd",
-        "b": "und"
+        "a": "brüder früntlich",
+        "b": "bruder fruntlich"
       },
       {
         "op": "replace",
-        "a": "brüder früntlich zübeschriben sich gewlisser war heyt",
-        "b": "oder lich Also Hans s gehört hern"
+        "a": "zübeschriben sich gewlisser war heyt",
+        "b": "zu beschriben Euch gewisser warheitt"
       },
       {
         "op": "equal",
@@ -107,149 +113,159 @@
         "b": "von"
       },
       {
-        "op": "delete",
-        "a": "ück zu erkunden damit mengelich allenthalb zü rüwen in jren gewüssen gegen gott vnzü gütem fri",
-        "b": ""
+        "op": "replace",
+        "a": "ück",
+        "b": "vth"
       },
       {
         "op": "equal",
-        "a": "den",
-        "b": "den"
+        "a": "zu erkunden damit",
+        "b": "zu erkunden damit"
       },
       {
         "op": "replace",
-        "a": "vndereinandern komen möchtind Nundem also nachzukomen sind wir vnwirdigen diener vnd predi ger des heyligen Euangeliums min brüder Berchtold vnd ich eruordert vnsers gloubens vnd predigens rech nung zegeben des wir mit sampt allen denen so",
-        "b": "nen herrn Iesn christi"
+        "a": "mengelich",
+        "b": "mengklich"
       },
       {
         "op": "equal",
-        "a": "das",
-        "b": "das"
+        "a": "allenthalb zü rüwen in",
+        "b": "allenthalb zu rüwen in"
       },
       {
         "op": "replace",
-        "a": "E uangelion bekennen vrpüttigfind vnd nach ordnung vßzeychnover articklen ouch allen redé so darus möch ten volgen zu antwurten vnd mit gewaltiger gschrifft zü bewaren",
-        "b": "man bisher die mess genempt hatt 14"
+        "a": "jren",
+        "b": "ire"
       },
       {
         "op": "equal",
-        "a": "Es bittet",
-        "b": "Es bittet"
+        "a": "gewüssen",
+        "b": "gewüssen"
       },
       {
         "op": "replace",
-        "a": "vns",
-        "b": "unns"
+        "a": "gegen",
+        "b": "gege"
       },
       {
         "op": "equal",
-        "a": "ouch der",
-        "b": "ouch der"
+        "a": "gott",
+        "b": "gott"
       },
       {
         "op": "replace",
-        "a": "heilig",
-        "b": "Herlig"
+        "a": "vnzü gütem fri den vndereinandern",
+        "b": "vnnd zu guttem friden vnder einandern"
       },
       {
         "op": "equal",
-        "a": "Paulus das wir",
-        "b": "paulus das wir"
+        "a": "komen möchtind",
+        "b": "komen mochtind"
       },
       {
         "op": "replace",
-        "a": "nit zenckisch sonder",
-        "b": "mit zenkisch sonnder"
+        "a": "Nundem also nachzukomen",
+        "b": "nun dem allso nachzukommen"
       },
       {
         "op": "equal",
-        "a": "volkomen",
-        "b": "volkomen"
+        "a": "sind wir vnwirdigen diener vnd",
+        "b": "sind wir vnwirdigen diener und"
       },
       {
-        "op": "replace",
-        "a": "eins finno eynerley meynung syend vnd",
-        "b": "vnns stins vnuerley meinung spend unnd"
-      },
-      {
-        "op": "equal",
-        "a": "das ein",
-        "b": "das ein"
-      },
-      {
-        "op": "replace",
-        "a": "yegklicher",
-        "b": "secklicher"
+        "op": "insert",
+        "a": "",
+        "b": "prediger des heiligen Buange linns nun broder berchtold unnd Johan erfordert unnsers glaubens vnd"
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
+        "a": "predi",
+        "b": "predi"
       },
       {
         "op": "replace",
-        "a": "gaab",
-        "b": "gab"
+        "a": "ger des heyligen Euangeliums min brüder Berchtold vnd ich eruordert vnsers gloubens vnd predigens rech nung zegeben",
+        "b": "gens rechnung zü geben"
       },
       {
         "op": "equal",
-        "a": "oder kunst so jm Gott verlichen",
-        "b": "oder kunst so im gott verlichen"
+        "a": "des wir",
+        "b": "des wir"
       },
       {
         "op": "replace",
-        "a": "hare nitstolz vnd vffgebla ſen quia fcientia",
-        "b": "hatt mit stolltz vnnd vff geblasen guia scientia"
+        "a": "mit",
+        "b": "mitt"
       },
       {
         "op": "equal",
-        "a": "inflat",
-        "b": "inflat"
+        "a": "sampt allen",
+        "b": "sampt allen"
       },
       {
         "op": "replace",
-        "a": "yemats",
-        "b": "Jemands"
+        "a": "denen",
+        "b": "demm"
       },
       {
         "op": "equal",
-        "a": "verachte",
-        "b": "verachte"
+        "a": "so das",
+        "b": "so das"
       },
       {
         "op": "replace",
-        "a": "sonder",
-        "b": "sunder"
+        "a": "E uangelion",
+        "b": "mangelien"
       },
       {
         "op": "equal",
-        "a": "in",
-        "b": "in"
+        "a": "bekennen",
+        "b": "bekennen"
       },
       {
         "op": "replace",
-        "a": "Chriſte licher liebe que fola ædificat",
-        "b": "christenlicher lieben gne sola verdificat"
+        "a": "vrpüttigfind vnd",
+        "b": "urbittig sind vnnd"
       },
       {
         "op": "equal",
-        "a": "einer des",
-        "b": "einer des"
+        "a": "nach ordnung",
+        "b": "nach ordnung"
       },
       {
         "op": "replace",
-        "a": "anderen burdy",
-        "b": "andern burdi"
+        "a": "vßzeychnover articklen",
+        "b": "ußzeichneter artickeln"
       },
       {
         "op": "equal",
-        "a": "trage einer dem andern diene",
-        "b": "trage einer dem andern diene"
+        "a": "ouch allen",
+        "b": "ouch allen"
       },
       {
         "op": "replace",
-        "a": "Eströstet ons",
-        "b": "Es trostett vnns"
+        "a": "redé",
+        "b": "reden"
+      },
+      {
+        "op": "equal",
+        "a": "so",
+        "b": "so"
+      },
+      {
+        "op": "replace",
+        "a": "darus möch ten volgen",
+        "b": "dar uß mochten vollgnädigen"
+      },
+      {
+        "op": "equal",
+        "a": "zu antwurten",
+        "b": "zu antwurten"
+      },
+      {
+        "op": "replace",
+        "a": "vnd mit gewaltiger gschrifft zü bewaren Es bittet vns",
+        "b": "unnd mitt gwalltiger schrifft ze bewarenn Wir bezügen"
       },
       {
         "op": "equal",
@@ -258,141 +274,91 @@
       },
       {
         "op": "replace",
-        "a": "vnser",
-        "b": "vnnser"
+        "a": "der heilig Paulus",
+        "b": "hiemitt"
       },
       {
         "op": "equal",
-        "a": "lieber",
-        "b": "lieber"
+        "a": "das wir",
+        "b": "das wir"
+      },
+      {
+        "op": "delete",
+        "a": "nit zenckisch sonder volkomen eins finno eynerley meynung syend vnd das ein yegklicher der gaab oder kunst so jm Gott verlichen hare nitstolz vnd vffgebla ſen quia fcientia inflat yemats verachte sonder in Chriſte licher liebe que fola ædificat einer des anderen burdy trage einer dem andern diene Eströstet ons ouch vnser lieber Herr Jesus Christus in de da er ſpricht Matthei vij Bittend so werdend jr empfahen suchend so werdend jr finden Elopffend an so wirt ich offthon Ses erma nen ich üch all vßerwelten gotsfründ das jrüwere her gen vor Gott wellend demutigen vnd mit mir beken nen fprechende Jch armer sündiger mensch ac Vatter vnfer Aue Maria ic Wir bezligen ouch hiemit d3 wir",
+        "b": ""
+      },
+      {
+        "op": "equal",
+        "a": "wider",
+        "b": "wider"
       },
       {
         "op": "replace",
-        "a": "Herr Jesus",
-        "b": "her Iesus"
+        "a": "keinen artickel",
+        "b": "keme artickell"
       },
       {
         "op": "equal",
-        "a": "Christus in",
-        "b": "christus in"
+        "a": "vnsers",
+        "b": "vnsers"
       },
       {
         "op": "replace",
-        "a": "de da",
-        "b": "dem do"
+        "a": "alten Christenlichen glou bens ügid handlen",
+        "b": "allte christenliche glonleus utzit hanndeln"
       },
       {
         "op": "equal",
-        "a": "er ſpricht",
-        "b": "er spricht"
+        "a": "wellen der",
+        "b": "wellen der"
       },
       {
         "op": "replace",
-        "a": "Matthei vij",
-        "b": "mach 7 do er ß"
+        "a": "also",
+        "b": "allso"
       },
       {
         "op": "equal",
-        "a": "Bittend so werdend jr",
-        "b": "bittend so werdend ir"
+        "a": "lutet Ich gloub in Gott vatter",
+        "b": "lutet Ich gloub in gott vatter"
       },
       {
         "op": "replace",
-        "a": "empfahen",
-        "b": "empfachen"
+        "a": "ic",
+        "b": "per"
       },
       {
         "op": "equal",
-        "a": "suchend so werdend jr finden",
-        "b": "süchend so werdend ir finden"
+        "a": "Wir hand ouch",
+        "b": "wir hand ouch"
       },
       {
         "op": "replace",
-        "a": "Elopffend",
-        "b": "klopfend"
+        "a": "nützid für vns genom men",
+        "b": "nützit hin vnns gnomen"
       },
       {
         "op": "equal",
-        "a": "an so wirt",
-        "b": "an so wirt"
-      },
-      {
-        "op": "insert",
-        "a": "",
-        "b": "vth uffthan des Ermanen"
-      },
-      {
-        "op": "equal",
-        "a": "ich",
-        "b": "Ich"
+        "a": "wider den",
+        "b": "wider den"
       },
       {
         "op": "replace",
-        "a": "offthon Ses erma nen ich üch",
-        "b": "Vth"
+        "a": "einfaltigen ynsatz",
+        "b": "einfalligt insatz"
       },
       {
         "op": "equal",
-        "a": "all",
-        "b": "all"
+        "a": "des Nachtmals",
+        "b": "des nachtmals"
       },
       {
         "op": "replace",
-        "a": "vßerwelten gotsfründ",
-        "b": "vßerwellten gotz hannd"
-      },
-      {
-        "op": "equal",
-        "a": "das",
-        "b": "das"
-      },
-      {
-        "op": "replace",
-        "a": "jrüwere her gen",
-        "b": "ir v were hertzen"
-      },
-      {
-        "op": "equal",
-        "a": "vor Gott wellend demutigen",
-        "b": "vor gott wellend demutigen"
-      },
-      {
-        "op": "replace",
-        "a": "vnd mit",
-        "b": "vnnd mitt"
-      },
-      {
-        "op": "equal",
-        "a": "mir",
-        "b": "mir"
-      },
-      {
-        "op": "replace",
-        "a": "beken nen fprechende Jch",
-        "b": "bekennn isprechende Ich"
-      },
-      {
-        "op": "equal",
-        "a": "armer sündiger mensch",
-        "b": "armer sundiger mensch"
-      },
-      {
-        "op": "replace",
-        "a": "ac Vatter vnfer Aue",
-        "b": "etc protivatter vnser ane"
-      },
-      {
-        "op": "equal",
-        "a": "Maria",
-        "b": "maria"
-      },
-      {
-        "op": "replace",
-        "a": "ic Wir bezligen ouch hiemit d3 wir wider keinen artickel vnsers alten Christenlichen glou bens ügid handlen wellen der also lutet Ich gloub in Gott vatter ic Wir hand ouch nützid für vns genom men wider den einfaltigen ynsatz des Nachtmals vn fers herren Jesu Christi das man bißhar die Meß ge nempthat Sivi 21 tj",
-        "b": "etc Amen dixi"
+        "a": "vn fers herren Jesu Christi das man bißhar die Meß ge nempthat Sivi 21 tj",
+        "b": "unnsers"
       }
     ],
-    "ops": 31,
+    "ops": 27,
     "truncated": false
   }
 }
