@@ -146,7 +146,7 @@ Transkribus-Text eine gestützte Seite überschreiben darf** (das Gegenteil
 der heutigen Regel, die lokalen Text schützt) — sonst sperrt die Stütze
 genau die Verbesserung aus, die sie vorbereiten soll.
 
-### Phase 6 — Transkribus-Text2Image (der dauerhafte Weg)
+### Phase 6 — Transkribus-Text2Image (`scripts/build_t2i_packages.py`)
 
 Das segmentweise Druck-Textpaket (C) ist als Referenztext für Transkribus'
 Text2Image-Werkzeug gebaut: Text und Bild alignieren, Review in Transkribus,
