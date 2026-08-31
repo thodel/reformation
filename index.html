@@ -656,6 +656,15 @@
     .source-table th { font-weight: 700; color: #1a3a6b; border-bottom: 2px solid rgba(26,58,107,0.3); }
     .source-table td.num, .source-table th.num { text-align: right; font-variant-numeric: tabular-nums; }
     .source-table tbody tr:hover { background: rgba(26,58,107,0.04); }
+    /* Erschliessungsgrad (#70, Weg 3): die Uebersicht darf nicht
+       vollstaendigen Text suggerieren, wo 2 % erschlossen sind. */
+    .cov { display: flex; align-items: center; gap: 0.45rem; }
+    .cov-bar { width: 62px; height: 5px; border-radius: 3px; flex-shrink: 0;
+               background: rgba(26,58,107,0.12); overflow: hidden; }
+    .cov-fill { display: block; height: 100%; border-radius: 3px; background: #1a3a6b; }
+    .cov-fill.low { background: #c2703a; }
+    .cov-num { font-variant-numeric: tabular-nums; white-space: nowrap; }
+    .cov-note { font-size: 0.85rem; color: var(--ink-soft); margin: 0.1rem 0 0.8rem; }
     .src-none { color: #999; }
     .src-note { font-size: 0.85rem; color: var(--ink-soft); }
 
@@ -956,10 +965,11 @@
         den Scan, nicht auf die Paginierung der Vorlage.</p>
         <table class="source-table">
           <thead>
-            <tr><th>Fassung</th><th>Jahr</th><th>Überlieferung</th><th class="num">Seiten</th><th>DOI</th></tr>
+            <tr><th>Fassung</th><th>Jahr</th><th>Überlieferung</th><th class="num">Seiten</th><th>Erschliessung</th><th>DOI</th></tr>
           </thead>
           <tbody id="source-table-body"></tbody>
         </table>
+        <p class="cov-note" id="coverage-note"></p>
         <p class="src-note"><strong>Predigten:</strong>
           <a href="https://doi.org/10.3931/e-rara-3026" target="_blank" rel="noopener">10.3931/e-rara-3026</a>
         </p>
@@ -1475,6 +1485,37 @@ function witnessShort(key) {
   return found ? (found.short || found.label) : key;
 }
 
+// Erschliessungsgrad je Zeuge (#70, Weg 3). Die Zahlen kommen aus
+// data/disputation/coverage.json (erzeugt von scripts/build_coverage.py);
+// der Viewer kann sie nicht selbst zaehlen, ohne 3 666 Dateien zu laden.
+let coverageData = null;
+
+function coverageCell(w) {
+  const entry = coverageData && coverageData.witnesses
+    ? coverageData.witnesses[w.key] : null;
+  if (!entry) return '<span class="src-none">—</span>';
+
+  // Nenner: bei den Handschriften die BESCHRIEBENEN Blaetter aus der
+  // Tintenmessung - 87 leere Blaetter in A V 1444 duerfen den Grad nicht
+  // druecken, sie werden nie Text tragen. Bei den Drucken die Seitenzahl
+  // des digitalisierten Exemplars aus dieser Tabelle.
+  const nenner = entry.beschrieben || w.pages;
+  if (!nenner) return '<span class="src-none">—</span>';
+  const anteil = entry.transkribiert / nenner;
+  const pct = anteil >= 0.995 && anteil < 1 ? 99 : Math.round(anteil * 100);
+  const low = anteil < 0.5 ? " low" : "";
+  const leer = entry.leer
+    ? `, ${entry.leer} Blätter unbeschrieben`
+    : "";
+  const titel = `${entry.transkribiert} von ${nenner} `
+    + (entry.beschrieben ? "beschriebenen Seiten" : "Seiten")
+    + ` transkribiert${leer}`;
+  return `<span class="cov" title="${escapeHtml(titel)}">
+      <span class="cov-bar"><span class="cov-fill${low}" style="width:${pct}%"></span></span>
+      <span class="cov-num">${pct} %</span>
+    </span>`;
+}
+
 function renderSourceTable() {
   const body = document.getElementById("source-table-body");
   if (!body) return;
@@ -1490,9 +1531,42 @@ function renderSourceTable() {
       <td>${escapeHtml(w.year)}</td>
       <td>${provenance}</td>
       <td class="num">${w.pages}</td>
+      <td>${coverageCell(w)}</td>
       <td>${doi}</td>
     </tr>`;
   }).join("");
+}
+
+async function loadCoverage() {
+  try {
+    const response = await fetch("data/disputation/coverage.json");
+    if (!response.ok) return;
+    coverageData = await response.json();
+    renderSourceTable();
+    renderCoverageNote();
+  } catch (err) {
+    // Ohne Zahlen bleibt die Spalte leer - besser als eine geratene Angabe.
+  }
+}
+
+// Der Satz unter der Tabelle sagt, was die Spalte NICHT heisst: erschlossen
+// ist maschinell erkannter Text, nicht edierter.
+function renderCoverageNote() {
+  const host = document.getElementById("coverage-note");
+  if (!host || !coverageData) return;
+  const vier = ["a_v_1443_hertwig", "a_v_1444_cyro", "a_v_1445_schoeni",
+                "a_v_1446_ruemlang"]
+    .map((k) => coverageData.witnesses[k]).filter(Boolean);
+  const text = vier.reduce((n, e) => n + e.transkribiert, 0);
+  const beschrieben = vier.reduce((n, e) => n + (e.beschrieben || 0), 0);
+  host.innerHTML = `<strong>Erschliessung</strong> heisst: auf dieser Seite
+    steht maschinell erkannter Text — nicht, dass er ediert oder geprüft wäre.
+    Die Drucke sind durchgehend erkannt, ebenso die Schlussredaktion
+    A V 1447. Die vier übrigen Abschriften dagegen tragen zusammen Text auf
+    ${text} von ${beschrieben} beschriebenen Seiten; wer dort blättert, sieht
+    überwiegend Faksimile ohne Transkription. Unerschlossene Seiten zeigen im
+    Lesebereich stattdessen die Druckstütze als Hypothese
+    (<a href="https://github.com/thodel/reformation/issues/70" target="_blank" rel="noopener">#70</a>).`;
 }
 
 const DISPUTATION_VARIANTS = [
@@ -4850,6 +4924,7 @@ function initializeDisputationVariantUi() {
 // Initial UI setup.
 updateNavElevation();
 renderSourceTable();
+loadCoverage();
 initializeDisputationVariantUi();
 updatePredigten();
 

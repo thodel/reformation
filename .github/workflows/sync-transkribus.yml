@@ -110,6 +110,13 @@ jobs:
       - name: Guard against a destructive sync
         run: python3 scripts/check_sync_diff.py
 
+      # Der ausgewiesene Erschliessungsgrad (#70) muss dem Bestand folgen:
+      # bringt der Sync neue Seiten, sagt die Übersicht sonst weiter die
+      # alte Zahl. Braucht nur versionierte Daten (Transkriptionen und
+      # ink_coverage.json), läuft also auch im Sparse-Checkout.
+      - name: Refresh coverage figures
+        run: python3 scripts/build_coverage.py
+
       - name: Summarise changes
         shell: bash
         run: |
