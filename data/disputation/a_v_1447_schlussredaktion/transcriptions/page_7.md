@@ -8,7 +8,7 @@ Zu Dem so ist (wie In den actis befunden /
 wirtt) vff beiden parthyen zugelassen / Das
 ein jeder dem andern hilfflich vnd rätlich sin
 möchte / schrifftlich oder mundtlich zuschub geben /
-Ouch das Jede parthy /einen zwon/ Dry oder/
+Ouch das Jede parthy /einen zwon / Dry oder/
 mehr  Der gelertesten vnnd geschicktesten verordnen
 möchten / Die in ihrer aller namen Disputieren /
 omme

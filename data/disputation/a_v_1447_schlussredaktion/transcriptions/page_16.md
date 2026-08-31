@@ -1,8 +1,8 @@
 # Seite 16
 
-Anfangs diser disputation/ vnnd in der erstenn
-session, die gehaltē  ist/ vff Zinstag am morgen/ den
-sibenden tag/ des Monatz Jenners/ nach Christi Jesu
+Anfangs diser disputation / vnnd in der erstenn
+session, die gehaltē  ist / vff Zinstag am morgen / den
+sibenden tag / des Monatz Jenners/ nach Christi Jesu
 unnsers heillands gepurt/ gezallt/ fünffzechen hundert/
 zwenntzigt unnd acht Jare / Hatt der hochgelertt/
 Doctor Joachim von Watt Burgermeister von Sant Gallen/
