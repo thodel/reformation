@@ -18,7 +18,7 @@ leeren / ouch der apostolischen / Allso
 Das // was sy nit bewerte / keine sterche noch achtung
 sin soͤlle
 die  xxix
-Dorumb ist nit  weniger  vsß götlichem
+Dorumb ist nit  weniger  vsß goͤtlichem
 rechten anzenaͤmen / Das sy die gemeine kilch
 gloubt hatt / zum glouben gehoͤrend vnd vns das //
 selbig zuͤm wenigsten / durch Ir annemen / zuͦ

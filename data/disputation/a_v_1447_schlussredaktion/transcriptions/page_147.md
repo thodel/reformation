@@ -9,7 +9,7 @@ hie durch die kilch Das gemein con //
 clium Dauch vnd gemeinen huffen /der
 getoͤufften / wellich offt gestrax / wider das
 wort gottes gehandelt  haben / schwere Ir//
-thumb vnnd abgethereje angenomen wie
+thumb vnnd abgoͤtlichen angenomen wie
 Das Im nachvolgenden artigkell / Diser
 Disputation / mit dem haͤlen wort gotes /
 So hat auch das

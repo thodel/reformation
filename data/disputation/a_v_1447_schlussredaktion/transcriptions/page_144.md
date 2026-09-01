@@ -13,7 +13,7 @@ Chorm
 55
 Die erst Schlussred
 vff Das aller flyssgist den Doctor / Er welle
-nit  abtretten / Dan sin red gestellet ist / allss
+nit  abtretten / Dan sin red gestellet ist / allsß
 ob er vns den angell lassen welle / 30
 Demnach zuͦ verantwurten / Des provincials
 Inred / bezuͤg Ich mich vff dis mall wellen

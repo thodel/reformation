@@ -21,7 +21,7 @@ sich zuͦsamen gefuͤgt / vnnd erlich verordnet /
 haben / sollichs Jnn ihrer aller namen ze //
 Ist bemellter Doctor
 thund /
-Cuͦnradus treiger provincial  Sant augu //
+Cuͦnradus traͤger provincial  Sant augu //
 stins ordens hinuff zuͦ Den Dispu //
 tanten getretten / vnnd h anfangs pro //
 Allsß

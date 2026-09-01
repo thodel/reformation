@@ -2,8 +2,8 @@
 
 Am zaͤchenden tag Jenners
 Martinus Bucer
-Sie gnad des herren / sig mir vns allen /
-DiewyI ich gester zuͦ
+Die gnad des herren / sig mir vns allen /
+Diewyl ich gester zuͦ
 Amen /
 got
 einem beschlusß / dem "got" dem herren / dancket hab /
