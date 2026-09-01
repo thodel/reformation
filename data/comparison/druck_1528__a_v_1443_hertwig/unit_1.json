@@ -8,7 +8,7 @@
       3
     ]
   },
-  "alignment_score": 0.1487,
+  "alignment_score": 0.1538,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 7,
-    "matched": 0,
-    "only_a": 6,
-    "only_b": 1,
-    "similarity": 0.0,
+    "units": 15,
+    "matched": 3,
+    "only_a": 3,
+    "only_b": 9,
+    "similarity": 0.4091,
     "pairs": [
       {
         "op": "only_a",
@@ -48,36 +48,84 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
-        "a": "Siewyl wir off hüttigenn tag/zu yngang/der\nloblichen vnd Christenlichen Disputation/so min gne=\ndig herren Schultheiß vnd Rhadt diser loblichen statt\nBern/vsgeschriben hand/anfang in dem namen Hot=\nres zerhund versamlet sind.",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_a",
-        "a": "So ist fürnemlich miner\nHerren Mitspresidenten früntlich begår/an all frombd\nvndheymsch/das sy vmb der eer Gottes willen/vnd lie\nbe fines worts (zů welichem billich alle gütmütige her=\nBen geneygt sin sollend) sich fridlich/früntlich vnd mit\nernstlichem vermercken/harzu thun vund schicken wel=\nlend/jnn ansehen das der handel nit schimpfflich/sonder\ngroß/vnnd vnserer seelen heyl betreffen ist.",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_a",
-        "a": "Sonderlich\naber/Begeren min herren die Presidenté/das alledie/so\nze dispurieren willens vnnd verfasset sind/sy zuuor deß\nvsgangnen Mandats/vnd aller ordnung/so dem Ge=\n21",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "Burgermeister von Watt von Sant Gallen / an // fangs der disputation / zunamen der presidenten / Erwurdig / hoch / vnnd wolgelert / Gestreng / Edell vest /",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "Burgermeister von Watt von Sant Gallen, an-\nfangs der disputation, zunamen der presidenten,\nErwenrdig, hoch, vnnd wolgelert, Gestreng, Edell vest\nfromm fursichttig wyß, Gnädig unnd gunstig min\nherrn, lieb vnd gutt fründ, diswyl wir uff Hutti-\ngem tag, der loblichen und Cristanlichen disputation,\nso min gnädig herren, Schults unnd Ratt, diser\nloblichen Statt Bernn, ussgeschriben hand, Anfang Jn\ndem namen gotts zethuond versamuott sind, So Jst\nfürnämlich miner herren mittpraesidenten, früntlich\nbeger, an all frömbd, vnnd Hennsch, das Si\nvmb der er gottes willen ✳ vnnd liebe sines werts\nzu wöllichem billich, alle guttmüttigen hertze\ngeneigt sin söllen, sich fridlich, früntlich, vnnd\nmitt ernstlichem vermercken, harzuthun, vnnd\nschicken wöllen, In ansächen, das der handell nitt\nschimpfflich, sunder grossen, unnd unnser Selen\nHeyl betraffend Jst Sünderlich aber begeren, min\nHerrn die Presidenten, das alle die, So zedispu-\ntieren willens und verfasset sind, Si zuvor, des\nußgangnen mandats, vnnd aller ordnung, So\ndem gespräch zu gütt, uff gestrigem tag, von Herrn\nStattschriber, uss ansächen der herren verläsen\nsind, trüwlich mitt flyss und sorg, haltten\nwöllen, dan wo sollichs nitt bescheche, wurdent\nsi (dess si doch gern absin wöltten) darIn ze-\nreden, vnnd die überträttenden zu wysen, vnnd\nZuermanen, geursachett, gütter Hoffnung, Es\nwerde niemand anders faren, dan dem handell\ndiser loblichen disputation, vnd gedachtter miner\nherrn von Bern mandaten, Ordnungen vnnd\nabscheiden, wie sy sich mitt der schrifft verglychen\ngelegen, vnnd gemäss sye, vff sollichs so mogen Jr min\nHerrn die predicanten, uwerin erbiettennach, die erst\nSchlussred in des Herrn namen, an die hand\nnammen, vnnd die mitt schriffts bevestnen, da mitt",
+        "b": "fromm fursichttig wyß / Gnaͤdig unnd guͤnstig min\nherrn / lieb vnd gutt fruͤnd, diewyl wir uff Hutti // gem tag /",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "Siewyl wir off hüttigenn tag/zu yngang/der\nloblichen vnd Christenlichen Disputation/so min gne=\ndig herren Schultheiß vnd Rhadt diser loblichen statt\nBern/vsgeschriben hand/anfang in dem namen Hot=\nres zerhund versamlet sind.",
+        "b": "der loblichen und Cristenlichen disputation / so min gnaͤdig herren / Schults unnd Ratt / diser\nloblichen Statt Bernn / ussgeschriben hand / Anfang Jn\ndem namen gotts zethuͤnd versam nott sind /",
+        "similarity": 0.5
+      },
+      {
+        "op": "match",
+        "a": "So ist fürnemlich miner\nHerren Mitspresidenten früntlich begår/an all frombd\nvndheymsch/das sy vmb der eer Gottes willen/vnd lie\nbe fines worts (zů welichem billich alle gütmütige her=\nBen geneygt sin sollend) sich fridlich/früntlich vnd mit\nernstlichem vermercken/harzu thun vund schicken wel=\nlend/jnn ansehen das der handel nit schimpfflich/sonder\ngroß/vnnd vnserer seelen heyl betreffen ist.",
+        "b": "So Jst\nfuͤrnaͤmlich miner herren mittpraesidenten / fruͤntlich\nbeger / an all frömbd / vnnd Heimisch / das Si\nvmb der er gottes willen  vnnd liebe sins worts\n(zuͤ wellichem billich /",
+        "similarity": 0.3043
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "alle guͦtmuͤttigen hertze\ngeneigt sin soͤllen )  sich fridlich / früntlich / vnnd\nmitt ernstlichem vermercken / harzuthun / vnnd\nschicken wellen /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "In ansaͤchen / das der handell nitt\nschimpfflich / sunder grossß  unnd unnser Selen\nHeyl betraͤffend ist / Sünderlich aber begeren min\nHerrn die Presidenten /",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "Sonderlich\naber/Begeren min herren die Presidenté/das alledie/so\nze dispurieren willens vnnd verfasset sind/sy zuuor deß\nvsgangnen Mandats/vnd aller ordnung/so dem Ge=\n21",
+        "b": "das alle die / So zedispu-\ntieren willens und verfasset sind / Si zuvor / des\nußgangnen mandats / vnnd aller ordnung / So\ndem gespräch zuͦ guͦtt /",
+        "similarity": 0.4231
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "uff gestrigem tag / von Herrn\nStattschriber / uss ansächen der herren verläsen\nsind / truͤwlich mitt flyss und sorg / haltten\nwoͤllen /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "dan wo sollichs nitt bescheche / wurdent\nsi (dess si doch gern absin wöltten) darin ze-\nreden / vnnd die überträttenden zu wysen /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "vnnd\nZuermanen / geursachett  guͦtter Hoffnung / Es\nwerde niemand anders faren / dan dem handell\ndiser loblichen disputation / vnd gedachtter miner\nherrn von Bern mandaten /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "Ordnungen vnnd\nabscheiden / wie sy sich mitt der schrifft verglychen\ngelegen / vnnd gemaͤss sye / vff sollichs so mogen Jr min\nHerrn die predicanten /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "uͤwerem  erbietten nach / die erst\nSchlussred in des Herrn namen / an die hand\nnaͤmmen / vnnd die mitt schrifft bevesten / da mitt",
         "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.321,
+    "similarity": 0.3106,
     "words": {
       "a": 202,
-      "b": 259
+      "b": 281
     },
     "segments": [
       {
@@ -113,7 +161,7 @@
       {
         "op": "replace",
         "a": "nach uolgend red gethan Rwürdig",
-        "b": "Erwenrdig"
+        "b": "Erwurdig"
       },
       {
         "op": "equal",
@@ -152,13 +200,23 @@
       },
       {
         "op": "replace",
-        "a": "gne dig",
-        "b": "Gnädig"
+        "a": "gne",
+        "b": "Gna"
       },
       {
         "op": "equal",
-        "a": "vnnd günstig min",
-        "b": "unnd gunstig min"
+        "a": "dig vnnd",
+        "b": "dig unnd"
+      },
+      {
+        "op": "replace",
+        "a": "günstig",
+        "b": "gu nstig"
+      },
+      {
+        "op": "equal",
+        "a": "min",
+        "b": "min"
       },
       {
         "op": "replace",
@@ -172,18 +230,8 @@
       },
       {
         "op": "replace",
-        "a": "vnndgütt",
-        "b": "vnd gutt"
-      },
-      {
-        "op": "equal",
-        "a": "fründ",
-        "b": "fründ"
-      },
-      {
-        "op": "replace",
-        "a": "Siewyl",
-        "b": "diswyl"
+        "a": "vnndgütt fründ Siewyl",
+        "b": "vnd gutt fru nd diewyl"
       },
       {
         "op": "equal",
@@ -213,7 +261,7 @@
       {
         "op": "replace",
         "a": "Christenlichen",
-        "b": "Cristanlichen"
+        "b": "Cristenlichen"
       },
       {
         "op": "equal",
@@ -222,13 +270,13 @@
       },
       {
         "op": "replace",
-        "a": "gne dig",
-        "b": "gnädig"
+        "a": "gne",
+        "b": "gna"
       },
       {
         "op": "equal",
-        "a": "herren",
-        "b": "herren"
+        "a": "dig herren",
+        "b": "dig herren"
       },
       {
         "op": "replace",
@@ -263,7 +311,7 @@
       {
         "op": "replace",
         "a": "Hot res zerhund versamlet",
-        "b": "gotts zethuond versamuott"
+        "b": "gotts zethu nd versam nott"
       },
       {
         "op": "equal",
@@ -273,7 +321,7 @@
       {
         "op": "replace",
         "a": "ist fürnemlich",
-        "b": "Jst fürnämlich"
+        "b": "Jst fu rna mlich"
       },
       {
         "op": "equal",
@@ -282,18 +330,8 @@
       },
       {
         "op": "replace",
-        "a": "Mitspresidenten",
-        "b": "mittpraesidenten"
-      },
-      {
-        "op": "equal",
-        "a": "früntlich",
-        "b": "früntlich"
-      },
-      {
-        "op": "replace",
-        "a": "begår",
-        "b": "beger"
+        "a": "Mitspresidenten früntlich begår",
+        "b": "mittpraesidenten fru ntlich beger"
       },
       {
         "op": "equal",
@@ -303,7 +341,7 @@
       {
         "op": "replace",
         "a": "vndheymsch",
-        "b": "vnnd Hennsch"
+        "b": "vnnd Heimisch"
       },
       {
         "op": "equal",
@@ -332,18 +370,18 @@
       },
       {
         "op": "replace",
-        "a": "vnd lie be fines worts",
-        "b": "vnnd liebe sines werts"
+        "a": "vnd lie be fines",
+        "b": "vnnd liebe sins"
       },
       {
         "op": "equal",
-        "a": "zů",
-        "b": "zu"
+        "a": "worts zů",
+        "b": "worts zu"
       },
       {
         "op": "replace",
         "a": "welichem",
-        "b": "wöllichem"
+        "b": "wellichem"
       },
       {
         "op": "equal",
@@ -353,7 +391,7 @@
       {
         "op": "replace",
         "a": "gütmütige her Ben geneygt",
-        "b": "guttmüttigen hertze geneigt"
+        "b": "gu tmu ttigen hertze geneigt"
       },
       {
         "op": "equal",
@@ -363,7 +401,7 @@
       {
         "op": "replace",
         "a": "sollend",
-        "b": "söllen"
+        "b": "so llen"
       },
       {
         "op": "equal",
@@ -393,7 +431,7 @@
       {
         "op": "replace",
         "a": "wel lend jnn ansehen",
-        "b": "wöllen In ansächen"
+        "b": "wellen In ansa chen"
       },
       {
         "op": "equal",
@@ -413,7 +451,7 @@
       {
         "op": "replace",
         "a": "sonder groß",
-        "b": "sunder grossen"
+        "b": "sunder grossß"
       },
       {
         "op": "equal",
@@ -432,8 +470,18 @@
       },
       {
         "op": "replace",
-        "a": "betreffen ist Sonderlich",
-        "b": "betraffend Jst Sünderlich"
+        "a": "betreffen",
+        "b": "betra ffend"
+      },
+      {
+        "op": "equal",
+        "a": "ist",
+        "b": "ist"
+      },
+      {
+        "op": "replace",
+        "a": "Sonderlich",
+        "b": "Sünderlich"
       },
       {
         "op": "equal",
@@ -523,7 +571,7 @@
       {
         "op": "replace",
         "a": "Ge 21",
-        "b": "gespräch zu gütt uff gestrigem tag von Herrn Stattschriber uss ansächen der herren verläsen sind trüwlich mitt flyss und sorg haltten wöllen dan wo sollichs nitt bescheche wurdent si dess si doch gern absin wöltten darIn ze reden vnnd die überträttenden zu wysen vnnd Zuermanen geursachett gütter Hoffnung Es werde niemand anders faren dan dem handell diser loblichen disputation vnd gedachtter miner herrn von Bern mandaten Ordnungen vnnd abscheiden wie sy sich mitt der schrifft verglychen gelegen vnnd gemäss sye vff sollichs so mogen Jr min Herrn die predicanten uwerin erbiettennach die erst Schlussred in des Herrn namen an die hand nammen vnnd die mitt schriffts bevestnen da mitt"
+        "b": "gespräch zu gu tt uff gestrigem tag von Herrn Stattschriber uss ansächen der herren verläsen sind tru wlich mitt flyss und sorg haltten wo llen dan wo sollichs nitt bescheche wurdent si dess si doch gern absin wöltten darin ze reden vnnd die überträttenden zu wysen vnnd Zuermanen geursachett gu tter Hoffnung Es werde niemand anders faren dan dem handell diser loblichen disputation vnd gedachtter miner herrn von Bern mandaten Ordnungen vnnd abscheiden wie sy sich mitt der schrifft verglychen gelegen vnnd gema ss sye vff sollichs so mogen Jr min Herrn die predicanten u werem erbietten nach die erst Schlussred in des Herrn namen an die hand na mmen vnnd die mitt schrifft bevesten da mitt"
       }
     ],
     "ops": 45,

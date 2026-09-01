@@ -27,7 +27,7 @@
     "matched": 4,
     "only_a": 3,
     "only_b": 2,
-    "similarity": 0.4506,
+    "similarity": 0.4569,
     "pairs": [
       {
         "op": "only_a",
@@ -56,8 +56,8 @@
       {
         "op": "match",
         "a": "also das was sy nit bewaͤrte/keyner stercke noch achtung\nsin soͤlte. Die prix. Wunderred. Sarumb ist nit weniger/vß goͤttlichem rechten an=\nzenaͤme/das sy die gemeine Kilch gloubt hat /",
-        "b": "ouch der apostolischen / Allso\nDas // was sy nit bewerte / keine sterche noch achtung\nsin soͤlle\ndie  xxix\nDorumb ist nit  weniger  vsß götlichem\nrechten anzenaͤmen /",
-        "similarity": 0.4194
+        "b": "ouch der apostolischen / Allso\nDas // was sy nit bewerte / keine sterche noch achtung\nsin soͤlle\ndie  xxix\nDorumb ist nit  weniger  vsß goͤtlichem\nrechten anzenaͤmen /",
+        "similarity": 0.4444
       },
       {
         "op": "only_b",
@@ -86,10 +86,10 @@
     ]
   },
   "fine": {
-    "similarity": 0.5484,
+    "similarity": 0.5531,
     "words": {
       "a": 168,
-      "b": 142
+      "b": 143
     },
     "segments": [
       {
@@ -264,8 +264,18 @@
       },
       {
         "op": "replace",
-        "a": "vß go ttlichem",
-        "b": "vsß götlichem"
+        "a": "vß",
+        "b": "vsß"
+      },
+      {
+        "op": "equal",
+        "a": "go",
+        "b": "go"
+      },
+      {
+        "op": "replace",
+        "a": "ttlichem",
+        "b": "tlichem"
       },
       {
         "op": "equal",
@@ -378,7 +388,7 @@
         "b": "anzunemen sy ouch one"
       }
     ],
-    "ops": 29,
+    "ops": 30,
     "truncated": false
   }
 }
