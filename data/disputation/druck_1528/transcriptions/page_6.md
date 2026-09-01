@@ -1,4 +1,4 @@
-Seite [6]
+# Seite 6
 
 noch laster/weder mit worte noch thätlich/zettolbringe.
 fonders yederman sich rugenlich/früntlich/vnd lieblich

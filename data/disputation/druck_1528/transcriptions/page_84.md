@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 84
+
 Die erſt
 in ſtucken des gloubens/dheins wegs teylen. Jch erman
 ſich aber frommen Chriſten/jr wellend ein hoch vffſechē

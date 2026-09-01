@@ -1,4 +1,5 @@
-Seite [LXXXV]
+# Seite 392
+
 Die fünffte
 förchten vns vor den propheten noch nit. Mit sölichen
 kundtschafften bewährt er nůtz wenigers/ dann das die

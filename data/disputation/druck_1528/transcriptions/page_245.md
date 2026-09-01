@@ -1,4 +1,5 @@
-Seite CXV
+# Seite 245
+
 Schlußred.
 zuͤ den worten der jnſatzung des Nachtmals des Herrn
 wie jn den Acten verfaſſet: ſo nun diſe ſchlußred myner

@@ -1,4 +1,5 @@
-Seite XXXI
+# Seite 186
+
 Die ander
 geyst vß dem sy geregiert wirt/der nit fälen kan/dz aber
 daruß volge/das die satzungen der Christenlichen kilch=

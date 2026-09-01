@@ -1,4 +1,5 @@
-Seite CXCIII
+# Seite 403
+
 Schlußred. CXCIII
 Machabeorũ am iiij. cap. mit den worten. Wie das Ju=
 das Machabeus gesprochen hab zum volck: Lassend vns

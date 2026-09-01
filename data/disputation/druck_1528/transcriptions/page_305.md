@@ -1,4 +1,5 @@
-Seite CXLV
+# Seite 305
+
 Schlußred
 habed/Es waͤr sunst manchem übel gesagt/der ſöliches
 trosts beroubt waͤre. Das sol ouch hie vermerckt wer=

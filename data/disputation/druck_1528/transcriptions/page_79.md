@@ -1,4 +1,5 @@
-Seite XXXII
+# Seite 79
+
 Schlußred.
 hat ein ſölche ſondre gemeind koͤnne jrrẽ/ darumb ſy diß
 oꝛt von ſondrigen perſonen nit zuͦuerſton. In dem liebe

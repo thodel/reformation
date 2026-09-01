@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 234
+
 Die vierde
 brot vnnd eſſen in dißem vj. Cap. genglich nitt genomen
 wirt für ein oſſer oder Sacramentlich Brot/ noch für dz

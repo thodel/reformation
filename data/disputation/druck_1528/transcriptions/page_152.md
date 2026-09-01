@@ -1,4 +1,5 @@
-Seite [IIIVXI]
+# Seite 152
+
 Die erſt
 gewalt iſt ein gewalt gſin/die wyl die Chriſtenheyt hatt
 gewert/darumb ſoll es niemand widerſprechen/er hette

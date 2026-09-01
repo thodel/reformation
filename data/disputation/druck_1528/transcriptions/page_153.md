@@ -1,4 +1,5 @@
-Seite LXIX
+# Seite 153
+
 Schlußred. LXIX
 gnůg/doch so bezůg ichs wyter vß der ij. Epistel/ zu
 Corinthern/am v. capit. so er spricht: Dann so ich etwas

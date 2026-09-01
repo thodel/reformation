@@ -1,4 +1,5 @@
-Seite IIX
+# Seite 464
+
 Die achteſch
 anbätten gehördt allein Gott zů. Zů mercken iſt by den Bilderen/ ſo man
 ein Bild anbättet/ als die Heyden habend gethan/ die das für jre Götter

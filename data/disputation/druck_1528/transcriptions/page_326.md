@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 326
+
 *Analogia fidei.* **Die vierdt**
 
 ansehen) so berüffen wir die änliche des gloubens/ mit dē

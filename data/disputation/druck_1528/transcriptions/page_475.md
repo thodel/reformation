@@ -1,4 +1,5 @@
-Seite CCXXX
+# Seite 475
+
 Schlußred. +
 geben/so man jnn mit menschen gesagt vnnd botten ver
 eret/(Datthei am xv. Capitel. Darumb so fallend alle

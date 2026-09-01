@@ -1,4 +1,5 @@
-Seite XCIII
+# Seite 402
+
 Die ſechſt
 halb er allein ein mittler zwüſchen Gott vnd dem men-
 ſchen iſt/Chriſtus Jeſus/gott vn͂ menſch j.zun Timoth.

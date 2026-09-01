@@ -1,4 +1,5 @@
-Seite IIXXD
+# Seite 480
+
 Die nünte
 den jnneren redt/ als Paulo gar brüchig ist/ vozuß zun
 Hebreern am v. Das argume͂t/ à minori ad maius/ ſölle man

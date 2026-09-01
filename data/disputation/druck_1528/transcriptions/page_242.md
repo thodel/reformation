@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 242
+
 **Die vierdt**
 in vergangnem/ von dem das er gibt/ als in gegenwůr=
 tigem/ vnnd von dem das er geben wirt als in kůnffti=

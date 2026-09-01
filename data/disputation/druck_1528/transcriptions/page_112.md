@@ -1,4 +1,5 @@
-Seite 49
+# Seite 112
+
 **Die erſt**
 jr ſind das liecht der welt/ wie woler dz recht eynig liecht
 iſt/ vnd das widerum bezügt vß der göttlichen gſchrifft

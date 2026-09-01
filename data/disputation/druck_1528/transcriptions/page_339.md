@@ -1,4 +1,5 @@
-Seite CLXII
+# Seite 339
+
 **Schlußred.**
 
 widerwertig/hatt ſich herr Benedict der Pfarrer daſelbs/hie zů gegen=

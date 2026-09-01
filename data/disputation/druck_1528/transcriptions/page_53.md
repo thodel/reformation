@@ -1,4 +1,5 @@
-Seite [XIX]
+# Seite 53
+
 Schlußred XIX
 mit beſchlieſſen/ vn̄ nach der leer Pauli dz vrteil den zu=
 hoͤzern/ vn̄ so die Acta laͤsen werde/ beſolhen habe/ vnge

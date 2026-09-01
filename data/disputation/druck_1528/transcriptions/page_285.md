@@ -1,4 +1,5 @@
-Seite CXXXV
+# Seite 285
+
 Schlußred.
 hinfalt/ das trõſten des lyblichē eſſens/ des lybs Chriſti.
 Der glichen ſpricht er am ſelben cap. Der geyſt iſt der da

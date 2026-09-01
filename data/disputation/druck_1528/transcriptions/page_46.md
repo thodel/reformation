@@ -1,3 +1,5 @@
+# Seite 46
+
 Die erst
 ander gschrifft/das Christus nit ein einig houpt sye/dan
 ob schon jr thusent ſprüch ynfurend von de leerer ampt

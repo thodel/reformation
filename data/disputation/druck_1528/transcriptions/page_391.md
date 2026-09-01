@@ -1,4 +1,5 @@
-Seite CLXXVIII
+# Seite 391
+
 Schlußred.
 ſprüch vß Apocalipſi/ nit veracht werden/ ſo reichent ſy
 nit allein vff vierdhalb jar/ ſund von der ʒyt har der ab=

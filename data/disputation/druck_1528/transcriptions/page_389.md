@@ -1,4 +1,5 @@
-Seite CLXXXVII
+# Seite 389
+
 Schlußred.
 verſtand/ſo er alſo ſpricht: Es ſol üch niemand in keinē
 wäg verfüren/dann/es ſye dañ ſach/das die zwytracht

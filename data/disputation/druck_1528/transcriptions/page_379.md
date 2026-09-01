@@ -1,4 +1,5 @@
-Seite CLXXXII
+# Seite 379
+
 Schlußred. CLXXXII
 DAls er spricht/d'Silogismus sye nit vffgeloͤst/
 sprich ich/das er gnuͤgsam vffgeloͤst werde/so

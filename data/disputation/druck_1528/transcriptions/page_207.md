@@ -1,4 +1,5 @@
-Seite XCVI
+# Seite 207
+
 Schlußred. XCVI
 gůte werck můß man an vnderlaß tůn / wañ man aber
 ſchon alles dz gethon hette / dz noch niedheiner gemocht

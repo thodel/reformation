@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 60
+
 **Die erst**
 jm/namlich mit dem wort Gottes/wo das ein rechtenn
 verstand hett/wider das nit zesin: dann ob Gott wil nie

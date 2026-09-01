@@ -1,4 +1,4 @@
-Seite IIVXX
+# Seite 72
 
 Die erst
 volgt daruß wie vormals anzeigt ist worden / das söl=

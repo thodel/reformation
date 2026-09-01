@@ -1,4 +1,4 @@
-Seite [8]
+# Seite 8
 
 VI Wie Chriftus ist alleyn für vns gestorben/ also fol er
 ein eyniger mitler vnd fürspråch/zwischent Gott dem

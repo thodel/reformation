@@ -1,4 +1,5 @@
-Seite XXXIX
+# Seite 93
+
 **Schlußred.**
 
 cramenten zeſuͤche. Jtem/ vermiſchet die ware menſch=

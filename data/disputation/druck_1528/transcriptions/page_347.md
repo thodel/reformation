@@ -1,4 +1,5 @@
-Seite CLXVI
+# Seite 347
+
 **Schlußred.**
 
 **Thiebold Huͤter/Pfarrer voͤ Appenzell/ob er des wil**

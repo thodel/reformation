@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 140
+
 **Die erſt**
 er jn allen den obriſten ſtand hat. Vñ ob ich ſchon ein an=
 der houpt vnder jm bekenn/oder andre houpter vß yn=

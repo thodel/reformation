@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 406
+
 Die ſechſt
 anderen Epiſtel zun Theſſalon. am iij. ca. Jr brüder/ bit
 ten Gott für vns. Das aber die läbendigen hie vff erd=

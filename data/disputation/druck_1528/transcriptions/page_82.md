@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 82
+
 Die erſt
 fyend vnd zertrenner Chriſtenlicher einigkeit/vnd wüſ
 ſe das by jnen dhein geiſt des herren ſye/vnd was geyſts

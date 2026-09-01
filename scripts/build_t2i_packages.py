@@ -20,10 +20,12 @@ sind echte Struktur (Rednerwechsel), kein willkürlicher Schnitt.
 Was eine Paketdatei enthält — und was nicht
 -------------------------------------------
 Reiner Lauftext. Keine Seitenmarken, keine Überschriften-Zeilen aus dem
-Markdown, keine Transkriptionsartefakte ("Seite [485]"-Zeilen, "no visible
-text"-Stubs): alles, was nicht Drucktext ist, würde Text2Image als Zeilen
-anbieten, die es im Bild nie geben kann. Die Seitenzuordnung steht im
-Manifest, nicht im Text.
+Markdown, keine Transkriptionsartefakte: alles, was nicht Drucktext ist,
+würde Text2Image als Zeilen anbieten, die es im Bild nie geben kann. Die
+Seitenzuordnung steht im Manifest, nicht im Text. Die erfundenen
+"Seite [485]"-Zeilen und der "no visible text"-Stub sind inzwischen an der
+Quelle bereinigt (scripts/clean_print_transcriptions.py); die Filter unten
+bleiben als Schutzgitter für einen künftigen Erkennungslauf stehen.
 
 Pakete werden ERZEUGT, nicht versioniert (wie die Stützpakete, P2): sie
 sind vollständig aus committeten Daten ableitbar. Standard-Ablage ist
@@ -62,9 +64,9 @@ BASE_LAST_PAGE = 496
 INK_BLANK = 0.01
 MAX_PAGES = 50  # Druckseiten je Referenzdatei; lange Thesen werden geteilt
 
-# Artefakte der Drucktranskription, die kein Drucktext sind: eine
-# "Seite [485]"-Zeile oder ein "no visible text"-Stub würde Text2Image
-# Zeilen anbieten, die im Bild nie stehen.
+# Schutzgitter, keine laufende Reparatur: der Bestand ist bereinigt, aber
+# ein neuer Erkennungslauf koennte solche Zeilen wieder erzeugen, und
+# Text2Image bekaeme Zeilen angeboten, die im Bild nie stehen.
 ARTIFACT_LINE = re.compile(r"^Seite \[?\d+\]?\s*$")
 NO_TEXT_STUB = re.compile(r"no visible text", re.I)
 

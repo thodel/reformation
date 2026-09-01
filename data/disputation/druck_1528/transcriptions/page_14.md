@@ -1,4 +1,4 @@
-Seite [14]
+# Seite 14
 
 Radtsbotschafft vnd vil jrer gelerté/Pfarrern vn Pre-
 dicante/võ jr statt vi landschafft/Võ Lucern nieman.

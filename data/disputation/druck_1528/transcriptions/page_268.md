@@ -1,4 +1,5 @@
-Seite [IVX]
+# Seite 268
+
 **Die vierdt**
 lydens / also ouch des trosts / So wåren wir ouch vßteys
 ler der lyden vnd anfechtungen. Das wurd aber dienen

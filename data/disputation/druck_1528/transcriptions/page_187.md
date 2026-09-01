@@ -1,4 +1,5 @@
-Seite LXXVI
+# Seite 187
+
 **Schlußred.**
 
 geben/das alle die/die glouben vñ getoufft ſind/machen

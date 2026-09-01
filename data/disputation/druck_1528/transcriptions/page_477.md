@@ -1,4 +1,5 @@
-Seite CCXXXI
+# Seite 477
+
 Schlußred. Zwingly.
 
 [W]Ir haben gestern gnůg anzeygt / das die gelüb=

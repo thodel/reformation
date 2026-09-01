@@ -1,4 +1,5 @@
-Seite CXIII
+# Seite 412
+
 Die ſechſte
 Oder es iſt ein ſoͤmlich ding/das alleyn Chriſto zuͦhoͤret/
 namlich das baͤtten im himmel/ ſo ſoͤlle es ouch nit zuͦge

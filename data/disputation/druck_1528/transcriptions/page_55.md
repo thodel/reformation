@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 55
+
 Schlußred. XX
 ſprich ich neyn darzuͤ. Er hatt jm ſy verheyſſen es ſtat
 Dabo, nit Do, vnd Johannis xx. Cap. Allen juͤngern gelei=

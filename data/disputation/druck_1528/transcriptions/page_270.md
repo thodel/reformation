@@ -1,4 +1,5 @@
-Seite [lVXXD]
+# Seite 270
+
 Die vierde
 des geyſts/ꝛc. Zů erklårung diſers texts/ iſt zů mercken
 das Paulus in der ganzen Epiſtel die Corinthiern vß vi

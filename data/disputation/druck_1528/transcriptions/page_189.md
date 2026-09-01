@@ -1,4 +1,5 @@
-Seite LXXXVII
+# Seite 189
+
 Schlußred.
 Martinus Bucer.
 [D]Es spruchs halben/ Joannis am v vj. Jch hab Sůch am. 83.

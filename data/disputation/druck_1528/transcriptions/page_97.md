@@ -1,4 +1,5 @@
-Seite XLI
+# Seite 97
+
 Schlußred
 meinten gewalt des Bapſts/ vnd der Concilien/ in fuͤr=
 ſchribung der Articklen des gloubens/ ſo ſy naͤbend der ge

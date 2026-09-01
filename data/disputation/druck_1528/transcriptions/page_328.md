@@ -1,4 +1,5 @@
-Seite IV
+# Seite 328
+
 Die vierdt
 Brot. Vnd leert ſy dann wyter/ wie ſölche ſettigung vñd
 ſpyſung geſchech : nemlich ſo jnen geben werd der geyſt/

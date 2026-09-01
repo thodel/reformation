@@ -1,4 +1,5 @@
-Seite IIII
+# Seite 64
+
 Die erſt
 Jſrahel/dañ glich wie die prieſter im alten Teſtame͂t
 den vßſetzige͂ nit machtend/ſonder allein erkantend vnd

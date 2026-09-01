@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 482
+
 zůgegen wære/der da vermeindte/das ich/oder die andren mine gelieb-
 ten brůder/vnd Mitarbetter im wort zů Costentz/etwas gelert oder ge-
 prediget hetten/der yetzund hie gedisputierten artickel halber/das vnchri

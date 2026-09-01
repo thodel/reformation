@@ -1,4 +1,5 @@
-Seite LXX
+# Seite 478
+
 Die nůndte
 ley gelůbden gedienet/ By vns aber ſo wir dhein ander ge
 lůbd hand/ weder den eynigen glouben/ dañ wir fry ſind/

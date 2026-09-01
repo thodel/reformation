@@ -1,4 +1,5 @@
-Seite 126
+# Seite 267
+
 Schlußred. CXXVI
 κοινωνία/habe ouch vff jm ein gemeinschafft/vñ lende sich
 me vff gemein sin/dañ vff vßteyle. Man mag in zweyer

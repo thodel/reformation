@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 404
+
 Die ſechſzte
 darzuͦ. Das letſt Mandat miner gnedigen herrn/das
 dann Chriſtenlich vnd Goͤttlich iſt/ halt ſollichs nit inn

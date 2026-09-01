@@ -1,4 +1,5 @@
-Seite CCVII
+# Seite 429
+
 Schlußred.
 [H]Ochgelert/wyß/fürsichtig herren/vnnd fromen Christen.
 Min meinung ist nit/wider diſe Schlußreden zůfächtē: Dañ

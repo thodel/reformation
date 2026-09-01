@@ -1,4 +1,4 @@
-Seite XXVII
+# Seite 69
 
 **Schlußred XXVII**
 wüßlich von dem geyst Gottes ist/mag kein fügklicher/

@@ -1,4 +1,5 @@
-Seite LXXIIII
+# Seite 370
+
 Die fünffte
 Meyster Vlrich Zwingli.
 WIr lassend vns vff die erklärung vorgehört / vnd

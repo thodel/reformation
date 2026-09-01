@@ -1,4 +1,5 @@
-Seite [XXXVI]
+# Seite 87
+
 **Schlußred. XXXVI**
 ouch keiner wie hoch gelert er sye / schuldig vnd pflichtig
 sye / alle Artickel vnd alle stuck / vnd alle gschrifft zeuer=

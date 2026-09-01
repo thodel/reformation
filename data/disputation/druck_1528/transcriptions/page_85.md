@@ -1,4 +1,5 @@
-Seite XXXV
+# Seite 85
+
 Schlußred.
 nit hoͤrt / ſo nim̃ einen oder zween zů dir: vnd ſo er die ſel=
 ben nitt hoͤren wil / ſo ſags der Kilchen. Haruß ſchluͤſt

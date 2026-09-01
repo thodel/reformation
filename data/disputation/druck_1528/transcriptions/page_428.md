@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 428
+
 Die ſechſte
 erhoͤrt worden) in die ewigkeyt gnuͤg / dann daſſelb nit
 anders / weder die bezalung fuͤr vnſer ſuͤnd iſt. So aber

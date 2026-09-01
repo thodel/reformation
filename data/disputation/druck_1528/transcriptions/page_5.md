@@ -1,4 +1,4 @@
-Seite [5]
+# Seite 5
 
 Daruff vnd nach/ein yeder Christenmensch/fin glouben
 vn vertruwen/richten/setzen/vn buwen fol. Aller men=

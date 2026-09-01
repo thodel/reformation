@@ -1,4 +1,5 @@
-Seite 100
+# Seite 420
+
 Die ſechſte
 
 Des ſpruchs Danielis halb/iſt ein uiſion/vnd geſicht ge

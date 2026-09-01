@@ -1,4 +1,5 @@
-Seite IVXX
+# Seite 68
+
 Die erſt
 ſchlußred zů beueſtigung der minen/ alſo darthůn.
 So dick vnd vil/vnd ſich zweyung vnd zwytracht

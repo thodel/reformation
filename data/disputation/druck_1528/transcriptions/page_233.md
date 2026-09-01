@@ -1,4 +1,5 @@
-Seite CIX
+# Seite 233
+
 Schlußred.
 warlich ein tranck / ſoll glich als wenig vff das Sacra=
 mentlich eſſen gezogen werden / als ouch die vordrigen

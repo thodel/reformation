@@ -1,4 +1,5 @@
-Seite [28]
+# Seite 71
+
 Schlußred. XXVIII
 vnnd das wyter anzeygt/wo der geyſtlich menſch alle
 ding richtet/ſo wurde er die gſchrifft ouch richten/geben

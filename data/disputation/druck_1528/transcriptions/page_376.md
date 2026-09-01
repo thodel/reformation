@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 376
+
 Die fünfft
 würcket. Vß dem allem wirt gar nit volgen/das ſin lyb
 vnd blůt in der Mäß müſſe täglich geopffert werden/jr

@@ -1,4 +1,4 @@
-Seite [12]
+# Seite 12
 
 Es ist ouch darneben yederma erloubt und vergont
 vfzezeychne/was dan difputiert wurde/doch mit gedin=

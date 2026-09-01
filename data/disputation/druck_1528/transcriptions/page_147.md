@@ -1,4 +1,5 @@
-Seite LXVI
+# Seite 147
+
 Schlußred. LXVI
 gottes zů allen gůten wercken geschickt machet/darum
 alles das nit gůt sin můß/das sy nit überflüssig leret: vñ

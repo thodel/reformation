@@ -1,4 +1,5 @@
-Seite CVI
+# Seite 408
+
 Die ſechſt
 Apocalipſi. v. cap. Vnd do das lamb das bůch nam/do
 vielen die vier thier/vnd vier vnnd zwentzig Eltreſten/

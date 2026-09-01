@@ -1,4 +1,5 @@
-Seite VI
+# Seite 126
+
 Die erſt
 ouch hie nit widersprich / diewyl aber Chriſtus Petrum
 hie erkennt / offenlich für einen hirten iſt wol zeuerſton/

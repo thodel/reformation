@@ -1,4 +1,5 @@
-Seite IIX
+# Seite 180
+
 Die ander
 Bestanden/oder jr widerspråchend. Ir sechend ouch/wie
 sich die/so die artickel für güt bekennen/so trüwlich zůsa

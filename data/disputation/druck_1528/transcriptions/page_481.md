@@ -1,4 +1,5 @@
-Seite CCXXXIII
+# Seite 481
+
 Schlußred.
 er spricht: Ein yeder blybe in der berüffung/ in wellicher
 er berüfft ist. Da redt Paulus võ dem vsserlichen stand

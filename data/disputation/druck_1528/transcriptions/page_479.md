@@ -1,4 +1,5 @@
-Seite CCXXXII
+# Seite 479
+
 Schlußred.
 Ewir ſemlichs gott mer ſchuldig ſyen/ ſo Petrus geſprochē
 hat. Actorum v. Man müß gott mer gehorſamen/ dan̄

@@ -1,4 +1,5 @@
-Seite CLXXXIII
+# Seite 381
+
 **Schlußred.**
 wellen das nit thůn vß vnſerm gwalt / oder einiger na=
 tur / ſonders mit hilff der gnad gottes.

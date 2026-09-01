@@ -1,4 +1,5 @@
-Seite CLXXX
+# Seite 375
+
 Schlußred. CLXXX
 stels/sind sy nun vollendet/das ist vßgemacht/so würde
 alles ander opfern müssen vergebē sin: vñ so man meynt

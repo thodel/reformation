@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 196
+
 Die ander
 die ſchrifftgelerten vff dem ſtůl Moyſi / hoͤren das er nit
 gemeint hatt / das ſy alles annemen ſolten / das ſy lerten /

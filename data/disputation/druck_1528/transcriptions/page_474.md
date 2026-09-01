@@ -1,4 +1,5 @@
-Seite XIX
+# Seite 474
+
 Die nünte
 am ix. Welicher ſin hand an den pflug legt/ vñ hinders=
 ſich ſicht/ der iſt nit geſchickt zů dem Rych Gottes. Nun

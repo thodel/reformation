@@ -1,4 +1,5 @@
-Seite CLXXXIX
+# Seite 393
+
 Schlußred.+ CLXXXIX
 der.zc. So die recht verstanden werden/gnůgsamlich an
 tag bracht/das opffer der Mäß/gemäß zů sindem wer=

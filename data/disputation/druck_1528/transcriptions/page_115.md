@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 115
+
 Schlußred. L
 für ſich ſelbs/ſonders ſo bald die Sonn nit lúchtet/ſo iſt
 der tag númen. Alſo ouch die Apoſtel/habend ſo vil liech

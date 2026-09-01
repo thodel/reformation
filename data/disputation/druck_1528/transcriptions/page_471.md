@@ -1,4 +1,5 @@
-Seite CCXXVIII
+# Seite 471
+
 Schlußred. CCXXVIII
 wo aber das geschicht / dzes wie vorgesagt / ein vermeß=
 senheyt ist / nit ein gehorsame oder gloub / dann wo gloub

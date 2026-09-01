@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 324
+
 Die vierde
 wir/das diße wort einen andern ſinn/weder wåſenlich/
 haben můſſend: vñd ſo von menſchlichem aller Chriſten/
