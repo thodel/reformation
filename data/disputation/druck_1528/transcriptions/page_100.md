@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 100
+
 Die erſt
 das er ſöllichs zeurteylen / ouch eynem yeden Chriſten/
 müß zůgeben/dann nach dem gebott Chriſti/ ſo ſoll eyn

@@ -1,4 +1,5 @@
-Seite CLXVIII
+# Seite 351
+
 Schlußred.
 ten Pfarrer Persoͤnlich widerstand zethuͤnd/in allen Artickle der schluß
 reden/wer vnsers grossen willens gsin/vn̄ im sin vermeint gegenwuͤrff

@@ -1,4 +1,5 @@
-Seite CXLIX
+# Seite 313
+
 Schlußred. CXLIX
 gern hatt dargereycht/ welches er darnach am Crütz nit
 vergieſſung ſyns blůts hatt vollendet.

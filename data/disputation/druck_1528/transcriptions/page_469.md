@@ -1,4 +1,5 @@
-Seite CCXXVII
+# Seite 469
+
 Schlußred.
 Meyster Ulrich Zwingly.
 Ananie vnnd Saphire verschlaben/ ist kein ge=

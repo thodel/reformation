@@ -1,4 +1,5 @@
-Seite CLVI
+# Seite 327
+
 Schlußred.
 menſch geyſtlich: das iſt ſo ers in ſine hertzen thůt / ſo iſt
 es gůt vñ nutzlich: dann wie die kunſt macht vffgeblaſen

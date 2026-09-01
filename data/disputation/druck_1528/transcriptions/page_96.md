@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 96
+
 Die erſt
 völcker/in eynigkeit der jrrthumb erhalten hatt/vnd so
 bald by vns das göttlich wort durch den fromen Ruf=

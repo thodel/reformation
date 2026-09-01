@@ -1,4 +1,5 @@
-Seite XXVI
+# Seite 67
+
 **Schlußred XXVI**
 tiern ſonders für ſich ſelbs/ vnd ſunſt für niemands/ vnd ouch daſſelbig
 allein zů eren mynen gnedigen Herrn von Bern/ vñ diſer Diſputatioñ

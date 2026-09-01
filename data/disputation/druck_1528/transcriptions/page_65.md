@@ -1,4 +1,5 @@
-Seite XXV
+# Seite 65
+
 Schlußred.
 Klar anzeÿgt/ſo er ſpricht/mitt der krafft vnßers herren
 Jeſu Chriſti/deßhalb alle ſo bannen/nach dē geiſt Chri

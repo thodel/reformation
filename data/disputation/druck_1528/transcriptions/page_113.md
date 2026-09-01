@@ -1,4 +1,5 @@
-Seite XLIX
+# Seite 113
+
 Schlußred. XLIX
 nempt ein liecht der welt/das ist er wäsenlich vnd sunst
 niemands anders/die Aposteln aber sind liechter d welt/

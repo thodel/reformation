@@ -1,4 +1,5 @@
-Seite IIvXX
+# Seite 70
+
 Die erst
 volgt daruß wie vormals anzeygt ist worden / das soͤl-
 liche gemeine versamluͤg im geyst des herrn versamlet/

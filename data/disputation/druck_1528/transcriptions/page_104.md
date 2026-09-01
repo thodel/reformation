@@ -1,4 +1,5 @@
-Seite [IIII]
+# Seite 104
+
 Die erſt
 Actorum. xvij. cap. gegen dem goͤttlichen wort gehept/
 vnd die warhafft vnd goͤttlich erfunden/ habend sy nitt

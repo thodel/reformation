@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 358
+
 Die fünffte
 ſterthumb / deßhalb er dheins erſetzens bedarff. Zum
 vierden. Er erſchint vor dem angeſicht Gottes / vnnd

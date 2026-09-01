@@ -1,4 +1,4 @@
-Seite CXXII
+# Seite 259
 
 **Schlußred.**
 gschrifft herren/ dañ disen einigen spruch/ so wår er doch

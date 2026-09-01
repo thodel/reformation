@@ -1,4 +1,5 @@
-Seite CLXV
+# Seite 345
+
 Schlußred.
 dann Gott hat das verschlossenn/vnnd verhüt/das die
 menschen nit daryn komend/Genesis iij. cap. Deßhalb

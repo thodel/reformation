@@ -1,4 +1,5 @@
-Seite CXXXVI
+# Seite 287
+
 Schlußred. CXXXVI
 
 Das zeygen wir jnen mit gſchrifft an: das aber dz lyplich

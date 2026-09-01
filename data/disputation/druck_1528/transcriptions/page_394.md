@@ -1,4 +1,5 @@
-Seite XIX
+# Seite 394
+
 Die fünfft
 gegen Gott fürgesetzt/darum das er opffere/gaben vnd
 opfer für die sünd: welche schrifft ouch/durch vorlouffen=

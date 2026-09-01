@@ -1,4 +1,5 @@
-Seite IIVXX
+# Seite 470
+
 Die nůn̄dte
 fin/das die alten/von züchtigs laͤben waͤgen erwelt wur
 den/die wyber hetten/lassen wir das alter gnůg beliben/

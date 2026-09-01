@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 294
+
 **Die vierde**
 
 gwaltiger ſy/ vnd ward ſtercker weder ſy: alſo das ſy na

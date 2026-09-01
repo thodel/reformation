@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 98
+
 Die erſt
 da frilich nitt vil ſind / die da wüſſend / ob Coſtentz eyn
 ſtatt / oder ein thier ſye / darumb frommen Chriſten zur

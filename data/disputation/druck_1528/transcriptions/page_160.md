@@ -1,4 +1,5 @@
-Seite [71]
+# Seite 160
+
 Die ander
 fern enthalter/ vnſern einigen Biſchoff vnd leermeyſter
 den vnd dheinen andern/ wåder in himel noch vff ertrich

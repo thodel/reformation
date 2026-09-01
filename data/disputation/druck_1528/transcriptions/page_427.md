@@ -1,4 +1,5 @@
-Seite CCVI
+# Seite 427
+
 Schlußred.
 wirt bitten. Sie iſt zuͦ mercken/ſo die froͤmen menſchen
 die walfart thuͦnd/gott zuͦ lob vñ zeren/ vñ zuͦ gedächt

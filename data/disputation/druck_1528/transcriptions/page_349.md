@@ -1,4 +1,5 @@
-Seite CLXVII
+# Seite 349
+
 Schlußred.
 Pfarrer von Alpentzell.
 Vlyßt der wol welchen lyb er jnen gebe͂ hatt/der

@@ -1,4 +1,4 @@
-Seite [487]
+# Seite 487
 
 Meystern Huldrichen Zwinglis/Doctorn Joban
 nis Ecolampadij/Doctorn Wolffgang Fabricij Capitonis/

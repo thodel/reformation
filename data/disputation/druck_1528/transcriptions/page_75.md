@@ -1,4 +1,5 @@
-Seite XXXI
+# Seite 75
+
 Schlußred.
 in ſin nechſten menſchẽ in ein Chriſtenlich gemeind/den
 Da zwytracht/vneinigkeit/ſtifft in vnſern vnbeflecken

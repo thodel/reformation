@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 230
+
 Die vierdt
 ſtaand/das die Juden ein ſchüchen hand gehept ab dem/
 das ſy ſoltend vff jnn vertruwen/ſo ſy allein ſin menſch=

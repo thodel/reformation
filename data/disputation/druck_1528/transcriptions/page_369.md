@@ -1,4 +1,5 @@
-Seite CLXXVII
+# Seite 369
+
 Schlußred CLXXVII
 sedech/vnd es nit mag sin der tod/so bitten wir min her
 ren der widerparthy/das sy vns nennen vß der schrifft/

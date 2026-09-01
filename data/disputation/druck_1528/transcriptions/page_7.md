@@ -1,4 +1,4 @@
-Seite [7]
+# Seite 7
 
 Pber dise nachuolgend Schlußrede/wel
 lend wir Franciscus Kolb/vnnd Berchtoldus Haller/

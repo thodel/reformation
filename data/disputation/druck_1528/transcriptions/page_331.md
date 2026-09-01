@@ -1,4 +1,5 @@
-Seite CLVIII
+# Seite 331
+
 Schlußred. CLVIII
 nůn die geſchrifft vnns fürhaltet/das vnnſer Herr gen
 himel gefaren ſye/verſtan wir das er der menſcheyt nach

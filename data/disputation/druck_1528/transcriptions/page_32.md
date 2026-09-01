@@ -1,3 +1,5 @@
+# Seite 32
+
 Dic erst
 selbs leert vnnd regiert/fůrt ouch zů einem tugenlichen
 lebenn/vnnd was er geredt/laffe er im also nach. Er

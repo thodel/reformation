@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 380
+
 Die fünfft
 herren/ob ſy mit jrem Måßopfer vermeinen den erwel
 ten ützit zů helffen/oder nit.

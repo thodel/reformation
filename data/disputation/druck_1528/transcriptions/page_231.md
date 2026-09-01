@@ -1,4 +1,5 @@
-Seite CVIII
+# Seite 231
+
 Schlußred.
 in mich vertruwt/der hat ewigs läben. Hie ſicht ein ye=
 der/das Chriſtus die ganzen ſum̃ der vordrigen red vff=

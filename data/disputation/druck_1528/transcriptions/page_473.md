@@ -1,4 +1,5 @@
-Seite 229
+# Seite 473
+
 Schlußred. CCXXIX
 ſo dhein wyb hat/ein wyb zů nemen. Das anzeygt wirt/
 wie keiner der Apoſtel ein wyb habe genomen/nach dem

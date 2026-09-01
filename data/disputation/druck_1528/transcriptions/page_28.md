@@ -1,3 +1,5 @@
+# Seite 28
+
 fo zwyfellt der einfaltig nit onbillich/das villicht nit ein
 vntrüw da verborgen sye. Südem ersten/vmb der an=
 deren eygenschafftlichen übungen willen/die das houpt

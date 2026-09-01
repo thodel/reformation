@@ -1,4 +1,5 @@
-Seite CXVI
+# Seite 247
+
 **Schlußred.**
 
 Die sprüch so da etwas dũckler sind/ mögen baß erken

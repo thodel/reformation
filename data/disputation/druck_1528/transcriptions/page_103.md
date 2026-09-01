@@ -1,4 +1,5 @@
-Seite LXIII
+# Seite 103
+
 **Schlußred.** LXIII
 ſin/des Prouincials ampt/ er welle mit geſchrifft wider
 die ſelbigen hinfür handlen/ vnd menſchlich vnred on ge

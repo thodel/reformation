@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 388
+
 Die fünffte
 dann der Daniel ſchribt / das es allein wårde vffhoren
 vierdhalb Jar. Hie wil ichs beuolhen haben der ſchrifft/

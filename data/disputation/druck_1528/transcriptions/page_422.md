@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 422
+
 Die ſechſte
 Bůchſtab.
 DJe ſchrifft durch mich yngefůrt/ laß ich by dem bloſ

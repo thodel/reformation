@@ -1,4 +1,5 @@
-Seite XI
+# Seite 74
+
 Die erſt
 res dahar komen / ſonders es iſt erkennen den geyſt & ge=
 ſchrifft/vn̄ ob ſy vom geyſt gottes geſchriben ſig wordē/

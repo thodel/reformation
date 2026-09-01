@@ -1,4 +1,5 @@
-Seite CCXXVI
+# Seite 467
+
 Schlußred
 Jacobus Wirben/ Predicant zů Bieln.
 Ersamen lieben Christen/ Ich beken hie offenlich/ vor diser loblichen

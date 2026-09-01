@@ -1,4 +1,5 @@
-Seite IIXXII
+# Seite 162
+
 Die ander
 gruſamliche abgötteryen / ſo alle welt allenthalbe erfüle
 iſt / durch menſchen ſatzungen. Vnd darumb ſo ermanen

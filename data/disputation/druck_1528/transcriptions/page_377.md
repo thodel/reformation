@@ -1,4 +1,5 @@
-Seite CLXXXI
+# Seite 377
+
 Schlußred?
 tåglichen opfer der dancksagung/vnd der widergedåcht=
 nis der Måß/nit darum/das wir Christo ſin liden min=

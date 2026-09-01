@@ -49,12 +49,15 @@ DEFAULT_DF_RATIO = 0.05   # bigrams in more than this share of pages are noise
 DEFAULT_THRESHOLD = 0.10  # containment below this is not a match
 PAGE_RE = re.compile(r"page_(\d+)\.md$")
 
-# A page heading, in any of the shapes the transcriptions use. druck_1528 was
-# transcribed by Gemini and writes "Seite [X]", "Seite CXIII" or "Seite 170"
-# with no marker, so 456 of its 496 pages carried their heading into the
-# compared text while every other witness was clean - and it is the base text
-# for every comparison. Content lines such as "Die erst" or "Schlussred." must
-# survive, so the pattern requires a numeral and nothing else.
+# A page heading, in any of the shapes the transcriptions use. Every witness
+# now writes "# Seite N"; druck_1528 used to carry an invented, unmarked
+# "Seite [X]" / "Seite CXIII" line on 456 of its 496 pages, which this
+# pattern existed to filter out of the base text of every comparison. That
+# is fixed at the source (scripts/clean_print_transcriptions.py, guarded by
+# tests/test_transcription_hygiene.py), so the unmarked shape is now a guard
+# rail against a future recognition run, not a live workaround. Content lines
+# such as "Die erst" or "Schlussred." must survive either way, so the pattern
+# requires a numeral and nothing else.
 HEADING_RE = re.compile(r"^\s*#*\s*Seite\s+\[?[IVXLCDMivxlcdm\d]+\]?\s*#*\s*$")
 HTML_RE = re.compile(r"</?[a-zA-Z][^>]{0,60}>")
 

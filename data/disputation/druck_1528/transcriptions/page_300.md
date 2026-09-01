@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 300
+
 Die vierdt
 Bringen / Vnnd bezuͤg mich vff eins yetliches Chris
 ſten laͤſers verſtand.

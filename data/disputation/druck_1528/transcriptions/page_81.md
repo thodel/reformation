@@ -1,4 +1,5 @@
-Seite XXXIII
+# Seite 81
+
 Schlußred.
 mal angenommen/vnd als heilig durch den geyſt des he
 ren geſchriben/widerum hinwerffen vñ abthůn moͤcht/

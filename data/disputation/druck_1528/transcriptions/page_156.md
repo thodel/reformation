@@ -1,4 +1,5 @@
-Seite XX
+# Seite 156
+
 Die erſt
 Beuolchen iſt das ampt fürnemlich zehandlen/ wie Petro
 fürnemlich Beuolchen ſind die ſchlüſſel/ ouch jm die ſchäff

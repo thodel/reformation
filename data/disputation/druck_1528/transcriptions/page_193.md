@@ -1,4 +1,5 @@
-Seite LXXIX
+# Seite 193
+
 **Schlußred**
 
 ten/vnd üch ein exempel verlassen/das ir nachuolgen ſi-

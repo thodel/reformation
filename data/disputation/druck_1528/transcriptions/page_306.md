@@ -1,4 +1,5 @@
-Seite [V.ZO]
+# Seite 306
+
 **Die vierdt**
 zwüschend mir. zc. Da ist Testament oder Pũndt/ges
 nempt/ein zeychen des pundes.

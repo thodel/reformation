@@ -1,4 +1,5 @@
-Seite XLIII
+# Seite 101
+
 **Schlußred.**
 
 red gethan: Es ſye nit gnüg/dz einer gloube/das jn Chri

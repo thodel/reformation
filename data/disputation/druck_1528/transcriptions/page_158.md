@@ -1,4 +1,5 @@
-Seite [LXXII]
+# Seite 158
+
 Die erſt
 tigen gottes wort glouben geben. Also were vil beſſer ge=
 ſin/ein Kilch von Bern hette dz gewiß wort gottes von

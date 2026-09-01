@@ -1,4 +1,5 @@
-Seite XXII
+# Seite 59
+
 Schlußred.
 So er dann anzeygt/in der erſten Epiſtel/zun Co=
 rinthern im v. capitel/in welchen wortẽ er aber mir zů=

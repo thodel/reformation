@@ -1,4 +1,4 @@
-Seite [10]
+# Seite 10
 
 Ordnung diser Difputation/vnd was
 sich mittlerzyt zütragen hat.

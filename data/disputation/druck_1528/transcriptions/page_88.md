@@ -1,4 +1,5 @@
-Seite [70]
+# Seite 88
+
 Die erſt
 ich mich vff diß mal/wellen vff ſine vngſchrifftlich gegẽ=
 wůrff antwurt geben/damit die einfaltig gmeind got=

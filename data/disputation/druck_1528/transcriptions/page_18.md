@@ -1,3 +1,5 @@
+# Seite 18
+
 ſprach zü gut off gestrigen tag/von Bern Stattschry
 ber/vsansechen der herren/verlåsen sind/trüwlich mit
 flys vnnd sorg/balten wellind. Dann wo solichs nit be-

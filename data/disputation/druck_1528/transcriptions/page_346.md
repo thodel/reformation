@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 346
+
 Die vierde
 glychfoͤrmig waͤre gsin dem woꝛt Gottes. Wil ich mich
 allweg gemeiner Chriſtenlicher Kilchen vnderwerffen/

@@ -1,4 +1,5 @@
-Seite [CCXXVIII]
+# Seite 472
+
 Die nůndte
 Zwinglẏ.
 Ananias hat betrogen/ vñ ſein gelůbd brochen/

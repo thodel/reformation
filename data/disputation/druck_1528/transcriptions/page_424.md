@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 424
+
 Die ſechſte
 dann das ſy Pauli ſye/ vñ das von etlicher Hebraiſmen
 wegen/ ouch des geyſts halb / vnd der veſte/ ſo der heylig

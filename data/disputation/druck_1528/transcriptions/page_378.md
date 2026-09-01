@@ -1,4 +1,5 @@
-Seite LXXI
+# Seite 378
+
 Die fünffte
 lich opffer: dañ wiewol es nit stadt mit vßgetrucktẽ wor
 ten im heyligen Euangelio/oder in anderen schrifftẽ/jr

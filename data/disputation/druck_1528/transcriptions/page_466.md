@@ -1,4 +1,5 @@
-Seite CXXV
+# Seite 466
+
 Die nuͤn̄te
 man/sunder denen es gebeñ ist. Sannenhar ouch Paulus
 spricht/in der ersten Corinth. vij. Von jungffrowen hab

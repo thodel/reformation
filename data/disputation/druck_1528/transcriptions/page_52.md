@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 52
+
 vmb der warheit gottes willen/ zů beſtåtigung der ver
 heyſſungen/ der våtter/ ich nimen die gloſen vñ vßlegū=
 gen nit an/ vnd wil damit beſchloſſen haben/ das ohein

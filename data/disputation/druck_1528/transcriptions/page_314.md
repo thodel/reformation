@@ -1,4 +1,5 @@
-Seite [LXXV]
+# Seite 314
+
 ſy reden) So müß das blůt Chriſti nit das Nüw teſta-
 ment ſin.
 Die vierde

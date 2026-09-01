@@ -1,4 +1,5 @@
-Seite XXXI
+# Seite 77
+
 **Schlußred.**
 Gottes gehebt habe/ den allegloͤubigen noch huͤt by tag
 habend/ dañ Eusebius d vor d zyt Constantini des groſ

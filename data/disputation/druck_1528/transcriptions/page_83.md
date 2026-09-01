@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 83
+
 Schlußred. + XXXIII
 der ſünd/darum hat ich aber gſagt/dz der Doctor redt
 on gſchrifft/dz er vßgeſchloſſen hat den gloubē/vñ ſagt/

@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 58
+
 Die erſt
 Warthei am vviij. cap. welches ouch Paulus zů Corin
 tho than hat/Als jr habend in der erſten Epiſtel am v.

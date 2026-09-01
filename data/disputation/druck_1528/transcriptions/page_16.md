@@ -1,3 +1,5 @@
+# Seite 16
+
 Wyter so hat Doctor Johannes Eck dise Disputati-
 on mitt schmachlichem vs briben angethaster/darinen
 er sin nydig hertz erkuler/vnd vil mersin Narerzungen

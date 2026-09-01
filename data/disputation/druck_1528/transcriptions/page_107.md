@@ -1,4 +1,4 @@
-Seite XLVI
+# Seite 107
 
 **Schlußred.**
 delstadt/in vnser Kilchen geschriben vnd gehandlet hat/dero halb hatten

@@ -1,4 +1,5 @@
-Seite CXL
+# Seite 295
+
 Schlußred. CXL
 Sann der nit vß glouben handlet/der handlet mit dem
 wort Gottes übel. Das bezügen die wort des Herren/

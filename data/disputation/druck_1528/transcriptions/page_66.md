@@ -1,4 +1,5 @@
-Seite [VXX]
+# Seite 66
+
 Die erſt
 wellen ſagen / damit der Pfarrer ſehe / ſampt andern / dz
 ſy vß dißem ort / j. Thimotheum. j. cap. keinen beſonde

@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 340
+
 Die vierde
 jnen zůſtimpt/ da wol zůuerſton iſt/ ein yegklichen Chri
 ſten menſchen/ weñ die meinung des herrn wåre vff Sů

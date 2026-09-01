@@ -1,4 +1,4 @@
-Seite [491]
+# Seite 491
 
 ■chrifft der gemeynen weyßheit
 ■chrifft der weyßheit.

@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 460
+
 Die achtende
 Bilder machen zuͦ bererung/ iſt wider
 Gottes wort/ nuͤws vn̄ alts Teſtaments:

@@ -1,4 +1,5 @@
-Seite 32
+# Seite 188
+
 XXXII Die änder
 für ein gemeine verſamlung der glöubigen / ſy ſye in der
 wält wo ſy welle / oder wie voz manig mal angezeygt iſt/

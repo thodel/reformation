@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 348
+
 Die vierdt
 gebietenden herren von Bernn/vnd die andren all’vor/
 hab ich mich nach ordnung vnnd satzung/der gemeynen

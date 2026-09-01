@@ -1,4 +1,4 @@
-Seite [486]
+# Seite 486
 
 gebått göttlicher schrifft obligen / vnd die ware wysheyt vnnd verstand
 göttlichs worts/von Gottbitten vnd erwarten/damit ir erfunden wer

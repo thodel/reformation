@@ -1,4 +1,4 @@
-Seite [488]
+# Seite 488
 
 Abred Doctor Joachim von Watt/Burgermey
 sters von Sant Gallen/in namen der herren Presidenten

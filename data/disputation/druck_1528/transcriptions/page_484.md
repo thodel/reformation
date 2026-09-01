@@ -1,4 +1,5 @@
-Seite [XIX]
+# Seite 484
+
 **Am xxvj tag Jenners**
 **Beſchluß Herr Berchtolden Hallers.**
 **E**Rſamen fromen Chriſten/Alls dañ wir erfordret ſind/ von vnſeren

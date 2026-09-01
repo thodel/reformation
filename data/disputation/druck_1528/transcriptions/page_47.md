@@ -1,3 +1,5 @@
+# Seite 47
+
 Schlußred.
 XVI
 vnd so man dieglychnus haltet gegen vnserm handel/so

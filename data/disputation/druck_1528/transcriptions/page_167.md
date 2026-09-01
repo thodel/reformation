@@ -1,4 +1,5 @@
-Seite LXXV
+# Seite 167
+
 Schlußred. LXXV
 nung gottes. Darum hat aber Gott die ſinen entlich nit
 verlaſſen:dañ nit moͤglich gewaͤſen/dz die erwelten in jr=

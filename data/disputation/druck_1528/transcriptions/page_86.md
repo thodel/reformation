@@ -1,4 +1,4 @@
-Seite [XXV]
+# Seite 86
 
 Die erſt
 den/ ſy habend den verſtand der geſchrifft/ vnd wie hoch

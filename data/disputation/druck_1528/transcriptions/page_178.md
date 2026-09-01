@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 178
+
 Die ander
 vereinbaren/Wir wellend vff dem tag gottes wort hoͤ=
 ren/miteinandern in gemeind baͤtte/allmuͤſen geben/fa

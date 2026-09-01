@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 76
+
 vnd gib antwurt erstlich des spruchs halbē/ der geystlich
 richt alles/zc. Diewyl wir wüssen das vnser widerpart/
 das vrteilen dahin zühen wil/ das ein gmein Concilium

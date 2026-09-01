@@ -1,4 +1,5 @@
-Seite CLXIII
+# Seite 341
+
 Schlußred.
 der liebi nit vergeſſen: dz wir nit zů zytē dem gloubē zů=
 geben/das wir der lieby gottes zů geben ſollen. Als Pau=

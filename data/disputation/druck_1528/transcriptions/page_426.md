@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 426
+
 Die ſchrifft
 der das er ſich bekäre / vnd låße: ſo der wil Gottes iſt/dz
 wir von ſünden entlediget werden/ſo ſind die ſäligen nit

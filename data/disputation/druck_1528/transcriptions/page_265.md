@@ -1,4 +1,5 @@
-Seite CXXV
+# Seite 265
+
 **Schlußred.+ CXXV**
 
 ouch die Apoſtel. Vom ſpruch Johan. am vv. cap. Wil

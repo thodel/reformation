@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 118
+
 Die erſt
 laß daby ein yeden Chriſten/dz vrteyl wie ſich des pfar=
 rers red/der warheyt vnd dem geſtrigen veriechen ver=

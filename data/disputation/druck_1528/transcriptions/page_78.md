@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 78
+
 Die erst
 allein/daher dañ volgen muͤß rechte ware liebe/das alle
 Christen/wie ein lyb siend/vnser widerpart aber wil vns

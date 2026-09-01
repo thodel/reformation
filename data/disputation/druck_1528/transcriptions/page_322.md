@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 322
+
 Die vierdt
 zun Galathern am iij. cap. geſcholten wirt/ ſo er ſpricht:
 Wellend jr im fleyſch erſt volkomet vnnd vßgemachet

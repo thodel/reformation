@@ -1,4 +1,5 @@
-Seite XXIII
+# Seite 63
+
 . Schlußred. XXIII
 Apostel spricht) so gebend mit der krafft vnnsers herrn
 Jesu Christi / den der ein sölches laster vff jm hatt den

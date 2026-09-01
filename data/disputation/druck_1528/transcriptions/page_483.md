@@ -1,4 +1,4 @@
-Seite CCXXIII
+# Seite 483
 
 **Schlußred.**
 lyß mit jro/ wie geschriben stadt: Es werden sin zwey in

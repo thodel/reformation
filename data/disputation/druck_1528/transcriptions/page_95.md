@@ -1,4 +1,5 @@
-Seite XL
+# Seite 95
+
 Schlußred.+
 alles gůts / luter gschrifft allen glöubigen genglich ge=
 meyn. Nun lůgend wer die fiend / die rotten oder seckten

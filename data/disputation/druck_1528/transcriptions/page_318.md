@@ -1,4 +1,5 @@
-Seite [X]
+# Seite 318
+
 Die vierdt
 ſy glych nit hat mögen vmbringen: oder da einer der her
 ren von Bern zeichen veruneret/dryn ſchlecht/oð ſticht/

@@ -1,4 +1,5 @@
-Seite CXXXII
+# Seite 279
+
 Schlußred+ CXXXII
 Paulus spricht: Darumb sind wir ein brot/das wir eins
 brots teylhafftig sind/oder von einem brot essend.ꝛc.

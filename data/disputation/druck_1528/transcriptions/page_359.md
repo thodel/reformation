@@ -1,4 +1,5 @@
-Seite CLXXII
+# Seite 359
+
 Schlußred. CLXXII
 all tag die Sacrament handlen. Zum fünfften. Das
 die Mäß / Gott geb wie der Pfaff/allwäg gůt sye/ den

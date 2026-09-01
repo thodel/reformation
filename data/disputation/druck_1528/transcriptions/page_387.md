@@ -1,4 +1,5 @@
-Seite CLXXXVI
+# Seite 387
+
 Schlußred.
 ſamlich zerſtört werde ſin/biß zů end der welt/was ſoll
 aber das jne helffen/das die Mäß ein opffer ſye. Der ver

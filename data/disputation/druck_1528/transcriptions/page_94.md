@@ -1,4 +1,5 @@
-Seite XIX
+# Seite 94
+
 vnd ſecten/wir predigent doch man ſölle nur an ein got
 glouben/nur ein houpt/Jeſum Chriſtum erkennen/nur
 nach der heyligē gſchrifft låben/vñ nach den vij. Articke-
