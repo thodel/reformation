@@ -137,6 +137,14 @@ jobs:
       - name: Export TEI
         run: python3 scripts/export_tei.py
 
+      # Die Ankerkarten stehen auf den Alignments, die dieser Lauf gerade
+      # erneuert hat. Ohne diesen Schritt driften sie: Cyros Karte lag
+      # 1 490 Zeilen hinter dem Bestand, weil sie seit dem Bau nie wieder
+      # erzeugt wurde. Braucht nur versionierte Daten, laeuft also auch im
+      # Sparse-Checkout.
+      - name: Refresh print anchors
+        run: python3 scripts/build_print_anchors.py
+
       - name: Commit and push
         id: commit
         shell: bash
@@ -144,7 +152,7 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/comparison/ docs/tei/
+          git add data/comparison/ docs/tei/ data/disputation/*/print_anchors.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
             echo "changed=false" >> "$GITHUB_OUTPUT"
