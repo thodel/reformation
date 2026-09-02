@@ -1,7 +1,33 @@
 # Plan: Die Drucke als Stütze der Handschriften-Transkription
 
-*Stand: 30. August 2026. Teil der Arbeit an #70 (Handschriften sind erst zu
-~6 % transkribiert).*
+*Geschrieben am 30. August 2026. Teil der Arbeit an #70 (Handschriften sind
+erst zu ~6 % transkribiert).*
+
+## Stand der Umsetzung (1. September 2026)
+
+Alle Phasen sind abgearbeitet oder bewusst gestrichen. Der Plan bleibt als
+Begründung stehen; was daraus wurde, steht hier.
+
+| Phase | Ausgang |
+|---|---|
+| P0 Thesenblätter | erledigt (#76) — S. 834–838 transkribiert und übersetzt; Nebenbefund: dieselbe zeitgenössische Handkorrektur in These VI auf beiden Blättern |
+| P1 Ankerkarte | erledigt (#77, #78) — `scripts/build_print_anchors.py`, medianer Vorhersagefehler 15 Druckseiten bei zurückgehaltenen Ankern |
+| P2 Stützpakete | erledigt (#79) — `scripts/build_support_bundles.py` |
+| P3 Pilotmessung | **nicht bestanden** (#80) — Median 0,60 gegen die vorab festgelegte Schwelle 0,85; Bericht: [p3-pilotmessung.md](p3-pilotmessung.md) |
+| P4 Lesehilfe | erledigt (#81) — unerschlossene Seiten zeigen Landmarken und Druckpassage |
+| P5 Batch-Lesung | **entfällt** — genau die Folge, die P3 vorab an die Schwelle geknüpft hatte |
+| P6 Text2Image | Repo-Seite erledigt (#82) — `scripts/build_t2i_packages.py`; Review und Modelltraining laufen in Transkribus |
+
+**Was die Messung gelehrt hat.** Der Fünf-Seiten-Test (0,88–0,96) mass
+Parallelabschriften derselben Rede; der Druck überliefert denselben Inhalt
+*redigiert*. Er verortet also, was auf einer Handschriftenseite steht, und
+diktiert nicht, wie es dort steht. Für die Publikation war das ein Nein, für
+die Lesehilfe und für Text2Image ist es die richtige Erwartungshaltung.
+
+**Was daneben entstand:** der Erschliessungsgrad steht jetzt in der
+Zeugenübersicht (#83, Weg 3 aus #70), und die erfundenen Kopfzeilen des
+Erkennungsmodells sind aus dem Drucktext entfernt (#84) — gefunden beim Bau
+der Text2Image-Pakete.
 
 ## Die Beobachtung, aus der dieser Plan entsteht
 
@@ -103,8 +129,12 @@ bleibt nur Interpolation. Die Karte weist das aus, statt es zu verstecken.*
 
 Pro unerschlossener Seite ein Paket: Faksimile + Druckpassage im
 Originaltext + normalisiert (Nasalstrich aufgelöst, ſ gefaltet) + Landmarken
-der Nachbarseiten. Ablage unter `data/disputation/<ms>/support/page_N.json`,
-nicht im Repo-Pages-Pfad nötig — die Pakete sind Arbeitsmaterial.
+der Nachbarseiten.
+
+*Beim Bauen anders entschieden als hier geplant:* die Pakete liegen in
+`.cache/support/` und werden **erzeugt, nicht versioniert**. Rund 2 700 JSONs,
+die den Drucktext duplizieren, wären eine zweite Wahrheit mit Drift-Garantie;
+sie sind vollständig aus committeten Daten ableitbar.
 
 ### Phase 3 — Pilotmessung, bevor irgendetwas publiziert wird
 
