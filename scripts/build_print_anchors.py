@@ -83,11 +83,13 @@ def load_segments() -> dict:
 def thesis_start_pages(segments: dict) -> dict[int, int]:
     """Erste Druckseite je These.
 
-    These 10 hat in der Segmentierung (noch) keine thesis-Angabe - die
-    Schwanzsegmente 85/86 sind unbeschriftet. Positionsschluss: das erste
-    Segment nach dem letzten Segment der These 9 eröffnet die These 10. Der
-    describe-Lauf für diese Segmente ist als Vorarbeit im Epic #75 notiert;
-    sobald er gelaufen ist, ersetzt die echte Beschriftung diesen Schluss.
+    Alle zehn Thesen stehen inzwischen in den Segmentdaten: die JSON folgt
+    seit der Vorarbeit zu diesem Epic der handkorrigierten Tabelle
+    (scripts/segments_json_from_table.py), in der die zehnte Schlussrede
+    auf S. 482 beginnt. Der Positionsschluss unten - das erste Segment nach
+    dem Ende der These 9 eroeffnet die These 10 - bleibt als Notnagel
+    stehen, falls die Beschriftung je wieder fehlt; ein Test haelt fest,
+    dass er nicht gebraucht wird.
     """
     starts: dict[int, int] = {}
     last_seg9_end = None
