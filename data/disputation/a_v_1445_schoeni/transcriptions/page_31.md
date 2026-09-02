@@ -1,12 +1,12 @@
 # Seite 31
 
+*
 Weningen, hat durch den wegkell
 apprepient, ir nach in der fundens
 Schuomense
 Ysszuech der præderen diewil er noch
 bisshar in ein uffner predicanten Sender
 schulmeister und aber sonst me geben
-bezüg
 und geredt hab, danns er ich zurück geben
 wells. und hatt den artigkell für
 si penset apprebier

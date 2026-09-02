@@ -10,7 +10,6 @@ gschiffen Er well den Cencklys gleiben
 Her Hans von Murtten apprebat de
 hrsch Ingkel
 herr Ulich den helffer appielirt.
-nieder
 K Liechard "appreber
 Vier zu Predigern, nach dem der Artigkell
 also gottl erlutter mir gottlicher gschrifft

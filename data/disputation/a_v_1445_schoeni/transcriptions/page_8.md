@@ -3,10 +3,8 @@
 Zinger Meister von Watt von
 Sam Gollz Gefogs der Di¬
 Spuraner zu Nam der persideren
-Erwürdig Heyl
-Wolgeler gwog Edel vest freund
-Fernfähig weyß
-gnädig und günstig wird Herr Liebn
+Erwürdig Heyl Wolgeler gwog Edel vest freund
+Fernfähig weyß gnädig und günstig wird Herr Liebn
 und gut finden, dieweil wir uffhüttiger tag ze
 Jurg de Loblicher und Cister Herr Disponatien Sr Nün
 Gnedig Herrn Schillches verkhar dise Leplher statt

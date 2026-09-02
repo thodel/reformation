@@ -6,18 +6,15 @@ Disputieren, oder understund seinliche versamlich
 im uß Gott der mecht uffstan,
 Demnach wurden einwider von den presidenzen
 ob yemande von den vier Bistumben sachhie zegegen
-wäre,
-Demnach die Ort der eydgerschaft
+wäre, Demnach die Ort der eydgerschaft
 und zugewonnen uff söllichs
 M Conrad Schmid Cemendin
 ze Cüsszwäuw gredt von allen
-wo
 gleich von Zürich, unnd die ir-
 nickell appreben nich sich erpotten.
 ob yemands wider seulich Artigkeit
 disputieren wurden si uss Gunst M
 H. presidenz die von dere von Zürich
-Wunsaczes
 wegst die in der gschafft beschirmen,
 und seyn mit anderst usgeschikt
 Einem vey Schwitz

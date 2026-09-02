@@ -4,21 +4,16 @@ von den Hept
 klen,
 E Sekellei
 vestis
-41
 Vihrnatter
 Anfangs als er verwillige das Chor unser heupt
 sye begott diewol unnimm einig zu den Stuk
-Vogetten erleng der
-wert
-von gschrifften vorgemelder begriffen zu
-vß den
+Vogetten erleng der wert
+von gschrifften vorgemelder begriffen zu vß den
 geschaffen zeerzeig, das Custus das eig haupt
 syn
 Beschwld
 Den bihrige hatt zu fang siner erd zegütten
-usen
 Teil jede beschlüsred bestättiget mit vier spruch
-gwisste,
 der gschaffte, des Ich zu 1 wank weis, wie
 Geistes des Inflisholts sey das Haupt der
 Christenliche gemeind, doch so mangel im

@@ -1,6 +1,5 @@
 # Seite 10
 
-1.
 anndlung der Disputation
 ze Bernn gehalten ange¬
 vangen uff der heilligen
@@ -8,8 +7,7 @@ dry kungen tag.  nno 2
 ♀
 xxviii
 Beschriben
-Georg Schöni Gichtschriben
-nach
+nach Georg Schöni Gichtschriben
 de Bernn
 Anfangs ward mencklichem Harfürgerüfft
 unnd yederman nach gepür unnd sinen er

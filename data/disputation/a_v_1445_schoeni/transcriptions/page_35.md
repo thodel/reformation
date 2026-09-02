@@ -16,13 +16,10 @@ und zu Cesentz dabey welle er
 Bälk,
 Berchel
 Eer Er gefangt wer weib
-daz
-gefueg wer die letztlich kilch
+daz gefueg wer die letztlich kilch
 Ie ehes das weit gottes sige
-als er gesagt.
-die Lustglöcher Hern
+als er gesagt. die Lustglöcher Hern
 wie die wüstelich kilch, und den
-greif.
 das hellig geschafft,
 Si habe ich gingsam geschafft dagelegt
 die Selbi Er umbstossen

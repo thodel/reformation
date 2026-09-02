@@ -1,21 +1,16 @@
 # Seite 14
 
-13
-doch
 Benthieldus die eiste Schlussord ereffner vnd
-d' eſsen
 die kilch teßgelegt das weit Ecclesia
 ussgelen, die grundt der selbigen zu dann
 Er die erst Schlußried bevesner hatt In gschafft
-verfasser velasen
-Lutted als Harnach
+verfasser velasen Lutted als Harnach
 vielge¬
 m
 Die kilchen Jn Manichenlei kilch en gewilt haben
 verzund ein all gemeine, dann ein versambung
 die dir kilchen anzeigt, representiert unnd
-verwistt
-verwisdr, unnd zu Sundern personen der
+verwisdr verwistt, unnd zu Sundern personen der
 Cardinälen Bischeffen unnd Beysten genuͦgend
 habenn zum dritten, das durch seinliche fugeln
 vil Insol vepett vnd verpott. Ouch valsch

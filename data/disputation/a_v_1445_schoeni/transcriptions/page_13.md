@@ -1,5 +1,6 @@
 # Seite 13
 
+Berthold Haller
 Fundament der ersch Sech luss wed
 Gnad vnnd frid von gett unnser Hüntl
 vatter, der well eins senden zum recht,

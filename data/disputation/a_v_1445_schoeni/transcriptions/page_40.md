@@ -1,7 +1,6 @@
 # Seite 40
 
 nach
-39
 derglihn Sprühen Niernden statt Sezwiffler
 den einfaltig in unbillich, das villicht mit
 Ei B Untruw, da verbergen sige, zu der

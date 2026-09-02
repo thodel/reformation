@@ -1,12 +1,10 @@
 # Seite 39
 
-.
 daselbs 4. cap, wird selben thun die
 warheit, vnnd also in im wachsen
 durch alle ding der des Hempt Ist uss
 welchen der gantz Lib Ist, zesamen
 gehefft, vnnd geknüpfft das er
-nach
 Jedes gleich der ussstellung, de
 würkung in die Massen eines Jerolichs
 slids, und also mache dz zu¬

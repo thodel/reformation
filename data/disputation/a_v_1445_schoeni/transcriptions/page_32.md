@@ -7,13 +7,11 @@ bj hept decklh
 habe das bißhar
 gelen vergehalt
 U. Eo.
-apiscopi
 Der prelst von Erlach und siner Oerter werden
 geriffen
 und uffneh die verstienen dar man die
 So kzin eürsch keinen gepärerbiss zu vollendung
-der Disputation, aber vor den veendren
-ge
+der Disputation, aber vor den veendren ge
 Disputiren,
 Der Appteri von Frienisperg Ist krank als Er
 fügist

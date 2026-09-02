@@ -1,6 +1,5 @@
 # Seite 16
 
-and
 euch die geschifft, den Namen der kilchenn,
 für die gemeine vesamlung aller gleubigenn,
 In Chre, vnnd so fürsechen sind zu dem

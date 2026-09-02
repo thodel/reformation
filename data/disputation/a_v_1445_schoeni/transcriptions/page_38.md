@@ -1,6 +1,5 @@
 # Seite 38
 
-ehe
 F: Bleyin grad Bichtvatter
 den Ynsell
 Dise Schlußzied begrifft Meis bedunckens

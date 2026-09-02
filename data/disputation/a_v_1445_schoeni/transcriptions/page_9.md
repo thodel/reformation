@@ -7,9 +7,9 @@ zuvrsahrt, Guter hoffung Es werde we-
 mands andeß kommen, dan den Hanvell
 diße Leplich disen manen, und gedahr
 Meiner Herr von Bruder Mandarii Ordnung und
-Abschrids, (wie sie sich in der schrifft
+Abschieds, (wie sie sich in der schrifft
 verglichend) gelegen vnd gemäs für, uff Sehlig
-Ir nirgend zu Min Hand die Predikten
+Jn nirgend zu Min Hand die Predikten
 Ewer erpieten nach die Eß Schlissind
 In der Herrn Namen, In die Hand vor der
 und die ein geschiffen gewesener, dann
