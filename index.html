@@ -725,6 +725,29 @@
     .typ-seg-head { font-size: 0.83rem; color: var(--ink-soft); margin: 0.6rem 0 0.3rem;
       font-style: italic; }
     .typ-item-chapter { font-size: 0.75rem; color: var(--ink-soft); }
+    /* Filter (#88): die Kategorientabelle ist die Zaehlung UND der Filter -
+       ein zweites Bedienelement daneben waere dieselbe Liste zweimal. */
+    .typ-cat-table tbody tr { cursor: pointer; }
+    .typ-cat-table tbody tr:hover td { background: rgba(26,58,107,0.06); }
+    .typ-cat-table tr.typ-cat-active td { background: rgba(26,58,107,0.11); font-weight: 600; }
+    .typ-filters { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem;
+      margin: 0.2rem 0 0.8rem; font-size: 0.82rem; }
+    .typ-filters .typ-flabel { color: var(--ink-soft); }
+    .typ-chip { border: 1px solid rgba(26,58,107,0.25); background: transparent;
+      color: var(--ink); border-radius: 999px; padding: 0.15rem 0.7rem;
+      font: inherit; cursor: pointer; }
+    .typ-chip:hover { background: rgba(26,58,107,0.07); }
+    .typ-chip.active { background: #1a3a6b; border-color: #1a3a6b; color: #fff; }
+    .typ-chip.typ-reset { border-style: dashed; color: var(--ink-soft); }
+    .typ-chapter.typ-chapter-empty > summary { opacity: 0.55; }
+    .typ-empty-note { font-size: 0.83rem; color: var(--ink-soft); margin: 0.3rem 0; }
+    /* Weg zur Stelle (#88) */
+    .typ-item-links { font-size: 0.8rem; margin: 0.35rem 0 0; display: flex;
+      flex-wrap: wrap; gap: 0.15rem 0.7rem; align-items: baseline; }
+    .typ-item-links .typ-flabel { color: var(--ink-soft); }
+    .typ-cite { margin-left: auto; color: var(--ink-soft); }
+    .typ-item.typ-item-focus { outline: 2px solid #1a3a6b; outline-offset: 3px;
+      background: rgba(26,58,107,0.05); }
     .typ-item { border-left: 3px solid var(--typ-shift); padding: 0.4rem 0.7rem;
       margin: 0.45rem 0; background: rgba(15, 39, 68, 0.03); border-radius: 0 6px 6px 0; }
     .typ-item.omission { border-left-color: var(--typ-omission); }
@@ -3814,6 +3837,60 @@ const TYP_CAT_LABEL = {
 // Typologie-Ansicht - ohne sie waere eine Liste von 110 Befunden nur eine
 // Liste, und die Frage "wo im Disputationsverlauf gehen die Zeugen
 // auseinander" bliebe unbeantwortet.
+// Filter und Sprungziel der Typologie (#88). Beides steht im Hash, damit
+// eine gefilterte Sicht und ein einzelner Befund zitierbar sind - eine
+// Ansicht, die nur im Speicher lebt, kann man niemandem schicken.
+const typFilter = { kat: null, art: null, befund: null };
+
+function typParseFilterFromHash() {
+  const q = window.location.hash.indexOf("?");
+  const params = new URLSearchParams(q >= 0 ? window.location.hash.slice(q + 1) : "");
+  typFilter.kat = params.get("kat") || null;
+  typFilter.art = params.get("art") || null;
+  const b = params.get("befund");
+  typFilter.befund = b !== null && b !== "" && Number.isFinite(+b) ? +b : null;
+}
+
+function typFilterQuery() {
+  const params = new URLSearchParams();
+  if (typFilter.kat) params.set("kat", typFilter.kat);
+  if (typFilter.art) params.set("art", typFilter.art);
+  if (typFilter.befund !== null) params.set("befund", String(typFilter.befund));
+  const q = params.toString();
+  return q ? `?${q}` : "";
+}
+
+function typSetFilter(field, value) {
+  // Nochmal auf dieselbe Kategorie klicken hebt den Filter auf - ein
+  // gesetzter Filter, den man nur ueber einen anderen Knopf loswird, faengt
+  // den Leser ein.
+  typFilter[field] = typFilter[field] === value ? null : value;
+  typFilter.befund = null;
+  updateVergleichUrl();
+  renderVergleichTypology();
+}
+
+function typResetFilter() {
+  typFilter.kat = null; typFilter.art = null; typFilter.befund = null;
+  updateVergleichUrl();
+  renderVergleichTypology();
+}
+
+// Nur die Auswahl loesen, den verlinkten Befund behalten: wer ueber einen
+// Befund-Link kommt, dessen Kategorie der Filter ausschliesst, will genau
+// diesen Befund sehen - ihn mit wegzuraeumen waere die falsche Hilfe.
+function typClearFilterKeepBefund() {
+  typFilter.kat = null; typFilter.art = null;
+  updateVergleichUrl();
+  renderVergleichTypology();
+}
+
+function typMatches(item) {
+  if (typFilter.art && (item.kind || "shift") !== typFilter.art) return false;
+  if (typFilter.kat && (item.kategorie || "unklar") !== typFilter.kat) return false;
+  return true;
+}
+
 let printSegmentsPromise = null;
 // Der Paar-Index, unabhaengig vom Ladezustand der Vergleichsansicht: beim
 // Direkteinstieg ueber #/vergleich/<paar>/typ rendert die Typologie, bevor
@@ -3839,6 +3916,18 @@ function loadPrintSegments() {
 // Vergleichseinheit -> Segment des Drucks. Nur fuer Paare, deren Basistext
 // der segmentierte Druck von 1528 ist; das Kontrollpaar 1608/1608 hat keine
 // Gliederung und bekommt deshalb auch kein Geruest.
+// Vergleichseinheit -> Seiten BEIDER Zeugen. Das ist der Weg vom Befund
+// ins Faksimile: die Einheit weiss, welche Seite links und welche rechts
+// steht (#88).
+function typUnitPages(index) {
+  if (!index) return null;
+  const map = new Map();
+  for (const unit of index.units || []) {
+    if (unit.pages) map.set(unit.unit, unit.pages);
+  }
+  return map.size ? map : null;
+}
+
 function typChapterIndex(index, segments) {
   if (!index || !segments || index.a !== "druck_1528") return null;
   const segs = segments.segments || [];
@@ -3887,20 +3976,51 @@ function typGroupByChapter(items, chapters, segments) {
   return { groups: ordered, ungrouped };
 }
 
-function typChapterHtml(group) {
+function typChapterHtml(group, chapters, unitPages) {
+  const gefiltert = typFilter.kat || typFilter.art;
+  let gezeigt = 0, gesamt = 0, offen = false;
   const segBlocks = [...group.segs.values()]
     .sort((x, y) => x.seg.first_page - y.seg.first_page)
     .map(({ seg, items }) => {
+      gesamt += items.length;
+      const treffer = items.filter(typMatches);
+      gezeigt += treffer.length;
+      if (typFilter.befund !== null && treffer.some((i) => i.idx === typFilter.befund)) {
+        offen = true;
+      }
+      if (!treffer.length) return "";
       const titel = (seg.title || "").trim() || `Segment ${seg.segment}`;
       return `<p class="typ-seg-head">${escapeHtml(titel)} · S. ${seg.first_page}–${seg.last_page}
-        (${items.length})</p>${items.map((i) => typFindingHtml(i)).join("")}`;
+        (${treffer.length})</p>${treffer.map((i) => typFindingHtml(i, chapters, unitPages)).join("")}`;
     }).join("");
-  const count = [...group.segs.values()].reduce((n, x) => n + x.items.length, 0);
-  return `<details class="typ-chapter"><summary>
+  // Ein Abschnitt ohne Treffer verschwindet NICHT: dass eine Schlussrede
+  // keine Abschwaechung traegt, ist selbst ein Befund und muss sichtbar
+  // bleiben (#88).
+  const body = segBlocks
+    || `<p class="typ-empty-note">Kein Befund dieser Auswahl in diesem Abschnitt.</p>`;
+  const zahl = gefiltert
+    ? `${gezeigt} von ${gesamt} ${gesamt === 1 ? "Befund" : "Befunden"}`
+    : `${gesamt} ${gesamt === 1 ? "Befund" : "Befunde"}`;
+  const leer = gezeigt ? "" : " typ-chapter-empty";
+  return `<details class="typ-chapter${leer}"${offen ? " open" : ""}><summary>
       <span class="typ-ch-name">${escapeHtml(group.name)}</span>
       <span class="typ-ch-pages">S. ${group.von}–${group.bis}</span>
-      <span class="typ-ch-count">${count} ${count === 1 ? "Befund" : "Befunde"}</span>
-    </summary><div class="typ-ch-body">${segBlocks}</div></details>`;
+      <span class="typ-ch-count">${zahl}</span>
+    </summary><div class="typ-ch-body">${body}</div></details>`;
+}
+
+// Die Filterleiste: Art oben als Chips, Kategorie ueber die Tabelle
+// darunter (die ohnehin schon die Zaehlung je Kategorie zeigt).
+function typFilterBarHtml() {
+  const arten = [["shift", "Verschiebung"], ["omission", "Auslassung"],
+                 ["addition", "Zusatz"]];
+  const chips = arten.map(([key, label]) =>
+    `<button type="button" class="typ-chip${typFilter.art === key ? " active" : ""}"
+      onclick="typSetFilter('art', '${key}')">${label}</button>`).join("");
+  const reset = (typFilter.kat || typFilter.art || typFilter.befund !== null)
+    ? `<button type="button" class="typ-chip typ-reset" onclick="typResetFilter()">
+        Filter zurücksetzen</button>` : "";
+  return `<div class="typ-filters"><span class="typ-flabel">Art:</span>${chips}${reset}</div>`;
 }
 
 async function loadTypologySummary() {
@@ -3941,7 +4061,56 @@ function typStackedBar(counts, rows) {
   return `<div class="typ-bar">${bar}</div><div class="typ-legend">${legend}</div>`;
 }
 
-function typFindingHtml(item, chapters) {
+// Die zitierte Stelle, aus der die Zielseite ihren Suchbegriff bekommt.
+function typHighlightSource(item) {
+  return (item.stelle || item.a || item.b || "").trim();
+}
+
+// Welcher Teil der Stelle laesst sich auf der Zielseite ueberhaupt finden?
+//
+// Gemessen an einem echten Fall: von "diewyl er in houptſuͤnden verharret.
+// Buzer. Das der das ewig laͤben hab" steht auf der Zielseite nur
+// "verharret." woertlich - der Rest ist ueber Zeilen getrennt ("houpt=\nſünden")
+// oder anders geschrieben. Die Hervorhebung sucht im gerenderten Text, und
+// dort trennt jeder Umbruch die Textknoten. Deshalb wird der Kandidat am
+// Seitentext GEPRUEFT, statt einen zu raten: erst die ganze Wendung, dann
+// die langen Woerter der Reihe nach. Findet sich keiner, wird nichts
+// hervorgehoben - eine Markierung an der falschen Stelle waere schlimmer
+// als keine.
+function typPickHighlight(phrase, pageText) {
+  if (!phrase || !pageText) return "";
+  if (phrase.length >= 4 && pageText.includes(phrase)) return phrase;
+  const woerter = phrase.split(/\s+/)
+    .map((w) => w.replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu, ""))
+    .filter((w) => w.length >= 5)
+    .sort((a, b) => b.length - a.length);
+  for (const w of woerter) if (pageText.includes(w)) return w;
+  return "";
+}
+
+function typTranscriptionPath(witnessKey, page) {
+  const variantId = VARIANT_BY_KEY[witnessKey];
+  const variant = DISPUTATION_VARIANTS.find((v) => v.id === variantId);
+  return variant ? `${variant.transcriptionBasePath}/page_${page}.md` : null;
+}
+
+function typPageLinks(item, unitPages) {
+  const pages = unitPages && unitPages.get(item.unit);
+  if (!pages) return "";
+  const phrase = typHighlightSource(item);
+  const parts = [];
+  for (const key of [vergleichState.a, vergleichState.b]) {
+    const seiten = pages[key];
+    if (!seiten || !seiten.length) continue;
+    const nr = seiten[0];
+    parts.push(`<a href="#" onclick="typOpenPage(event, '${escapeHtml(key)}', ${nr},
+      ${escapeHtml(JSON.stringify(phrase))})">${escapeHtml(witnessShort(key))} S.&nbsp;${nr}</a>`);
+  }
+  if (!parts.length) return "";
+  return `<span class="typ-flabel">Faksimile:</span>${parts.join("")}`;
+}
+
+function typFindingHtml(item, chapters, unitPages) {
   const kind = item.kind || "shift";
   const badge = TYP_CAT_LABEL[item.kategorie] || item.kategorie;
   const unitLink = Number.isFinite(item.unit)
@@ -3958,10 +4127,42 @@ function typFindingHtml(item, chapters) {
   if (item.b) quotes.push(`<p class="typ-quote"><span class="typ-side">${escapeHtml(shortB)}</span>${escapeHtml(item.b.slice(0, 260))}${item.b.length > 260 ? "…" : ""}</p>`);
   const reason = item.begruendung
     ? `<p class="typ-reason">${escapeHtml(item.begruendung)}${item.stelle ? ` — „${escapeHtml(item.stelle)}"` : ""}</p>` : "";
-  return `<div class="typ-item ${kind}">
+  const links = typPageLinks(item, unitPages);
+  const cite = Number.isFinite(item.idx)
+    ? `<a class="typ-cite" href="#" onclick="typCite(event, ${item.idx})"
+        title="Link auf genau diesen Befund">Befund verlinken</a>` : "";
+  const linkRow = (links || cite)
+    ? `<p class="typ-item-links">${links}${cite}</p>` : "";
+  const focus = typFilter.befund !== null && item.idx === typFilter.befund
+    ? " typ-item-focus" : "";
+  const anchor = Number.isFinite(item.idx) ? ` id="typ-befund-${item.idx}"` : "";
+  return `<div class="typ-item ${kind}${focus}"${anchor}>
     <div class="typ-item-head"><span class="typ-badge">${escapeHtml(badge)}</span>
       <span>${TYP_KIND_LABEL[kind] || kind}</span>${unitLink}${chapter}</div>
-    ${quotes.join("")}${reason}</div>`;
+    ${quotes.join("")}${reason}${linkRow}</div>`;
+}
+
+// Ins Faksimile springen und die Stelle dort hervorheben - ueber dieselbe
+// Mechanik, die die Volltextsuche schon nutzt. Der Seitentext wird vorher
+// geholt, damit nur hervorgehoben wird, was dort auch steht.
+async function typOpenPage(event, witnessKey, page, phrase) {
+  if (event) event.preventDefault();
+  transcriptionSearch.disputation.query = "";
+  const path = typTranscriptionPath(witnessKey, page);
+  if (path && phrase) {
+    try {
+      const r = await fetch(path);
+      if (r.ok) transcriptionSearch.disputation.query = typPickHighlight(phrase, await r.text());
+    } catch (_e) { /* ohne Hervorhebung ist der Sprung immer noch richtig */ }
+  }
+  openRegisterPage(witnessKey, page);
+}
+
+function typCite(event, idx) {
+  if (event) event.preventDefault();
+  typFilter.befund = idx;
+  updateVergleichUrl();
+  renderVergleichTypology();
 }
 
 function typOpenUnit(event, unitNr) {
@@ -4031,38 +4232,93 @@ async function renderVergleichTypology() {
     return;
   }
 
+  // Die Zaehlung IST der Filter: eine Zeile anklicken filtert auf ihre
+  // Kategorie, nochmal klicken hebt es auf. Die Zahlen bleiben die
+  // ungefilterten Gesamtzahlen - sie sind die Zaehlung des Paares, nicht
+  // eine Ansicht davon.
   const catRows = [...TYP_REAL_CATS, ...TYP_RETIRED_CATS]
     .filter((cat) => judged.byCat.has(cat))
-    .map((cat) => `<tr><td>${TYP_CAT_LABEL[cat]}</td>
+    .map((cat) => `<tr class="${typFilter.kat === cat ? "typ-cat-active" : ""}"
+      onclick="typSetFilter('kat', '${cat}')"
+      title="Nur diese Kategorie zeigen"><td>${TYP_CAT_LABEL[cat]}</td>
       <td class="typ-num">${judged.byCat.get(cat)}</td></tr>`).join("");
-  html += `<table class="typ-cat-table"><tr><th>Kategorie (${escapeHtml(typ.summary.model)})</th><th class="typ-num">Anzahl</th></tr>${catRows}</table>`;
+  html += `<table class="typ-cat-table"><thead><tr><th>Kategorie (${escapeHtml(typ.summary.model)})</th><th class="typ-num">Anzahl</th></tr></thead><tbody>${catRows}</tbody></table>`;
+  html += typFilterBarHtml();
 
   const chapters = typChapterIndex(pairIndex || vergleichState.index, segments);
-  html += `<div class="typ-findings"><h4>Echte Unterschiede (${judged.real.length})</h4>`;
+  const unitPages = typUnitPages(pairIndex || vergleichState.index);
+  const gefiltert = typFilter.kat || typFilter.art;
+  const realTreffer = judged.real.filter(typMatches);
+  const kopf = gefiltert
+    ? `Echte Unterschiede (${realTreffer.length} von ${judged.real.length})`
+    : `Echte Unterschiede (${judged.real.length})`;
+  html += `<div class="typ-findings"><h4>${kopf}</h4>`;
   if (!judged.real.length) {
     html += '<p class="typ-note">Keine.</p>';
   } else if (chapters) {
     // Geruest zu, Inhalt drin: die Gliederung selbst ist die Uebersicht -
-    // welche Schlussrede traegt die Abweichungen und welche nicht.
+    // welche Schlussrede traegt die Abweichungen und welche nicht. Gefiltert
+    // wird INNERHALB der Gliederung, damit die Abschnitte stehen bleiben.
     const { groups, ungrouped } = typGroupByChapter(judged.real, chapters, segments);
     html += `<p class="typ-note">Nach der Gliederung des Drucks von 1528 —
       aufklappen zeigt die Befunde des Abschnitts.</p>`;
-    html += groups.map(typChapterHtml).join("");
+    html += groups.map((g) => typChapterHtml(g, chapters, unitPages)).join("");
+    const restTreffer = ungrouped.filter(typMatches);
     if (ungrouped.length) {
-      html += `<details class="typ-chapter"><summary>
+      html += `<details class="typ-chapter${restTreffer.length ? "" : " typ-chapter-empty"}"><summary>
         <span class="typ-ch-name">Ohne Kapitelzuordnung</span>
-        <span class="typ-ch-count">${ungrouped.length}</span></summary>
-        <div class="typ-ch-body">${ungrouped.map((i) => typFindingHtml(i)).join("")}</div></details>`;
+        <span class="typ-ch-count">${gefiltert ? `${restTreffer.length} von ${ungrouped.length}` : ungrouped.length}</span></summary>
+        <div class="typ-ch-body">${restTreffer.map((i) => typFindingHtml(i, chapters, unitPages)).join("")
+          || '<p class="typ-empty-note">Kein Befund dieser Auswahl.</p>'}</div></details>`;
+    }
+    if (gefiltert && !realTreffer.length) {
+      // Wohin der Leser als naechstes schauen soll, haengt davon ab, ob es
+      // ueberhaupt noch Treffer gibt - beides pauschal zu behaupten waere
+      // in der Haelfte der Faelle falsch.
+      const anderswo = judged.retired.some(typMatches);
+      html += anderswo
+        ? `<p class="typ-note">Kein echter Unterschied dieser Auswahl —
+           die Treffer stehen unter den aussortierten Kandidaten.</p>`
+        : `<p class="typ-note">Diese Auswahl trifft in diesem Zeugenpaar auf
+           keinen Befund.</p>`;
     }
   } else {
-    html += judged.real.map((i) => typFindingHtml(i)).join("");
+    html += realTreffer.map((i) => typFindingHtml(i, chapters, unitPages)).join("");
   }
-  html += `</div><details class="typ-retired"><summary>Aussortierte Kandidaten
-    (${judged.retired.length}: Umformulierung, Modernisierung, Paratext,
+  // Wird auf eine aussortierte Kategorie gefiltert, waere die geschlossene
+  // Klappe die falsche Antwort: dort stehen dann genau die gesuchten.
+  const retiredTreffer = judged.retired.filter(typMatches);
+  const retiredOffen = typFilter.kat && TYP_RETIRED_CATS.includes(typFilter.kat);
+  const retiredZahl = gefiltert
+    ? `${retiredTreffer.length} von ${judged.retired.length}` : `${judged.retired.length}`;
+  html += `</div><details class="typ-retired"${retiredOffen ? " open" : ""}><summary>Aussortierte Kandidaten
+    (${retiredZahl}: Umformulierung, Modernisierung, Paratext,
     Erkennungsfehler)</summary>`;
-  html += judged.retired.map((i) => typFindingHtml(i, chapters)).join("");
+  html += retiredTreffer.map((i) => typFindingHtml(i, chapters, unitPages)).join("")
+    || '<p class="typ-empty-note">Kein Befund dieser Auswahl.</p>';
   html += "</details>";
   host.innerHTML = html;
+
+  // Ein verlinkter Befund muss auch sichtbar werden - der Abschnitt ist
+  // dafuer schon aufgeklappt, die Klappe der Aussortierten noch nicht.
+  if (typFilter.befund !== null) {
+    const target = host.querySelector(`#typ-befund-${typFilter.befund}`);
+    if (target) {
+      const details = target.closest("details");
+      if (details) details.open = true;
+      target.scrollIntoView({ block: "center", behavior: "smooth" });
+    } else if (gefiltert) {
+      // Verlinkter Befund und Filter widersprechen sich. Stillschweigend
+      // nichts zu zeigen waere die schlechteste Antwort - der Leser kam
+      // ueber diesen Link genau hierher.
+      const hinweis = document.createElement("p");
+      hinweis.className = "typ-note";
+      hinweis.innerHTML = `Der verlinkte Befund liegt ausserhalb der aktiven
+        Auswahl. <button type="button" class="typ-chip typ-reset"
+        onclick="typClearFilterKeepBefund()">Auswahl lösen und Befund zeigen</button>`;
+      host.prepend(hinweis);
+    }
+  }
 }
 
 // #/vergleich/<a>__<b>[/<einheit>[/<ebene>]] - every part of the view a reader
@@ -4082,6 +4338,8 @@ function updateVergleichUrl() {
     // citation - #/vergleich/<a>__<b>/typ must survive the URL rewrite.
     hash += "/typ";
   }
+  // Filter und angesteuerter Befund gehoeren zur zitierten Sicht (#88).
+  if (mode === "typ") hash += typFilterQuery();
   if (window.location.hash === hash) return;
   // replaceState keeps the back button meaning "the page I came from" rather
   // than filling history with every toggle of the granularity.
@@ -4108,6 +4366,7 @@ function parseVergleichUrl() {
 async function initVergleich() {
   populateVergleichSelectors();
   populateSegmentSelector();
+  typParseFilterFromHash();
   const params = parseVergleichUrl();
   if (params) {
     vergleichState.a = params.a;
