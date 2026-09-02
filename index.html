@@ -706,6 +706,25 @@
     .typ-cat-table th { font-size: 0.78rem; color: var(--ink-soft); font-weight: 600; }
     .typ-cat-table .typ-num { text-align: right; font-variant-numeric: tabular-nums; }
     .typ-findings h4 { margin: 1rem 0 0.4rem; font-size: 0.95rem; color: var(--ink); }
+    /* Kapitelgeruest: die Befunde haengen an der Gliederung des Drucks,
+       damit sichtbar wird, WO im Disputationsverlauf die Zeugen auseinander
+       gehen - eine flache Liste von 110 Befunden beantwortet das nicht. */
+    .typ-chapter { border-top: 1px solid rgba(26,58,107,0.14); }
+    .typ-chapter > summary { cursor: pointer; padding: 0.5rem 0.2rem; list-style: none;
+      display: flex; align-items: baseline; gap: 0.6rem; }
+    .typ-chapter > summary::-webkit-details-marker { display: none; }
+    .typ-chapter > summary::before { content: "▸"; color: var(--ink-soft);
+      font-size: 0.8rem; transition: transform 0.15s ease; display: inline-block; }
+    .typ-chapter[open] > summary::before { transform: rotate(90deg); }
+    .typ-chapter > summary:hover { background: rgba(26,58,107,0.04); }
+    .typ-ch-name { font-weight: 600; color: var(--ink); }
+    .typ-ch-pages { font-size: 0.8rem; color: var(--ink-soft); }
+    .typ-ch-count { margin-left: auto; font-size: 0.8rem; color: var(--ink-soft);
+      font-variant-numeric: tabular-nums; }
+    .typ-ch-body { padding: 0.2rem 0 0.6rem 1.1rem; }
+    .typ-seg-head { font-size: 0.83rem; color: var(--ink-soft); margin: 0.6rem 0 0.3rem;
+      font-style: italic; }
+    .typ-item-chapter { font-size: 0.75rem; color: var(--ink-soft); }
     .typ-item { border-left: 3px solid var(--typ-shift); padding: 0.4rem 0.7rem;
       margin: 0.45rem 0; background: rgba(15, 39, 68, 0.03); border-radius: 0 6px 6px 0; }
     .typ-item.omission { border-left-color: var(--typ-omission); }
@@ -3790,6 +3809,100 @@ const TYP_CAT_LABEL = {
   erkennungsfehler: "Erkennungsfehler", unklar: "Unklar"
 };
 
+// Die Gliederung des Basistexts: 83 Segmente mit These und Titel, aus der
+// handkorrigierten Segmenttabelle. Sie traegt das Kapitelgeruest der
+// Typologie-Ansicht - ohne sie waere eine Liste von 110 Befunden nur eine
+// Liste, und die Frage "wo im Disputationsverlauf gehen die Zeugen
+// auseinander" bliebe unbeantwortet.
+let printSegmentsPromise = null;
+// Der Paar-Index, unabhaengig vom Ladezustand der Vergleichsansicht: beim
+// Direkteinstieg ueber #/vergleich/<paar>/typ rendert die Typologie, bevor
+// vergleichState.index steht - dann fehlte das Kapitelgeruest kommentarlos.
+const typPairIndexCache = new Map();
+function loadPairIndex(pairKey) {
+  if (!typPairIndexCache.has(pairKey)) {
+    typPairIndexCache.set(pairKey,
+      fetch(`${COMPARISON_BASE}/${pairKey}/index.json`)
+        .then((r) => (r.ok ? r.json() : null)).catch(() => null));
+  }
+  return typPairIndexCache.get(pairKey);
+}
+
+function loadPrintSegments() {
+  if (!printSegmentsPromise) {
+    printSegmentsPromise = fetch("data/segments/druck_1528_segments.json")
+      .then((r) => (r.ok ? r.json() : null)).catch(() => null);
+  }
+  return printSegmentsPromise;
+}
+
+// Vergleichseinheit -> Segment des Drucks. Nur fuer Paare, deren Basistext
+// der segmentierte Druck von 1528 ist; das Kontrollpaar 1608/1608 hat keine
+// Gliederung und bekommt deshalb auch kein Geruest.
+function typChapterIndex(index, segments) {
+  if (!index || !segments || index.a !== "druck_1528") return null;
+  const segs = segments.segments || [];
+  const byUnit = new Map();
+  for (const unit of index.units || []) {
+    const pages = (unit.pages && unit.pages.druck_1528) || [];
+    if (!pages.length) continue;
+    const seg = segs.find((x) => x.first_page <= pages[0] && pages[0] <= x.last_page);
+    if (seg) byUnit.set(unit.unit, seg);
+  }
+  return byUnit.size ? byUnit : null;
+}
+
+// Kapitelname: die zehn Schlussreden sind das Geruest, alles davor ist
+// Vorspann, alles danach Schlussstueck. Die Segmenttitel stehen als
+// Zwischenzeilen darunter, sie sind zu fein fuer die oberste Ebene.
+function typChapterOf(seg, firstThesisPage) {
+  if (Number.isInteger(seg.thesis) && seg.thesis) {
+    return { key: `t${seg.thesis}`, name: `${seg.thesis}. Schlussrede`, sort: seg.thesis };
+  }
+  return seg.first_page < firstThesisPage
+    ? { key: "vor", name: "Vorspann", sort: 0 }
+    : { key: "nach", name: "Nach der zehnten Schlussrede", sort: 99 };
+}
+
+function typGroupByChapter(items, chapters, segments) {
+  const firstThesis = Math.min(...(segments.segments || [])
+    .filter((x) => Number.isInteger(x.thesis) && x.thesis)
+    .map((x) => x.first_page));
+  const groups = new Map();
+  const ungrouped = [];
+  for (const item of items) {
+    const seg = chapters.get(item.unit);
+    if (!seg) { ungrouped.push(item); continue; }
+    const ch = typChapterOf(seg, firstThesis);
+    if (!groups.has(ch.key)) {
+      groups.set(ch.key, { ...ch, von: seg.first_page, bis: seg.last_page, segs: new Map() });
+    }
+    const g = groups.get(ch.key);
+    g.von = Math.min(g.von, seg.first_page);
+    g.bis = Math.max(g.bis, seg.last_page);
+    if (!g.segs.has(seg.segment)) g.segs.set(seg.segment, { seg, items: [] });
+    g.segs.get(seg.segment).items.push(item);
+  }
+  const ordered = [...groups.values()].sort((x, y) => x.sort - y.sort);
+  return { groups: ordered, ungrouped };
+}
+
+function typChapterHtml(group) {
+  const segBlocks = [...group.segs.values()]
+    .sort((x, y) => x.seg.first_page - y.seg.first_page)
+    .map(({ seg, items }) => {
+      const titel = (seg.title || "").trim() || `Segment ${seg.segment}`;
+      return `<p class="typ-seg-head">${escapeHtml(titel)} · S. ${seg.first_page}–${seg.last_page}
+        (${items.length})</p>${items.map((i) => typFindingHtml(i)).join("")}`;
+    }).join("");
+  const count = [...group.segs.values()].reduce((n, x) => n + x.items.length, 0);
+  return `<details class="typ-chapter"><summary>
+      <span class="typ-ch-name">${escapeHtml(group.name)}</span>
+      <span class="typ-ch-pages">S. ${group.von}–${group.bis}</span>
+      <span class="typ-ch-count">${count} ${count === 1 ? "Befund" : "Befunde"}</span>
+    </summary><div class="typ-ch-body">${segBlocks}</div></details>`;
+}
+
 async function loadTypologySummary() {
   if (!typologySummaryPromise) {
     typologySummaryPromise = fetch(`${COMPARISON_BASE}/divergence_summary.json`)
@@ -3828,11 +3941,16 @@ function typStackedBar(counts, rows) {
   return `<div class="typ-bar">${bar}</div><div class="typ-legend">${legend}</div>`;
 }
 
-function typFindingHtml(item) {
+function typFindingHtml(item, chapters) {
   const kind = item.kind || "shift";
   const badge = TYP_CAT_LABEL[item.kategorie] || item.kategorie;
   const unitLink = Number.isFinite(item.unit)
     ? `<a href="#" onclick="typOpenUnit(event, ${item.unit})">Einheit ${item.unit}</a>` : "";
+  // In der flachen Aussortiert-Liste fehlt das Geruest, also nennt der
+  // Befund sein Segment selbst.
+  const seg = chapters && chapters.get(item.unit);
+  const chapter = seg && (seg.title || "").trim()
+    ? `<span class="typ-item-chapter">${escapeHtml(seg.title)}</span>` : "";
   const quotes = [];
   const shortA = witnessShort(vergleichState.a);
   const shortB = witnessShort(vergleichState.b);
@@ -3842,7 +3960,7 @@ function typFindingHtml(item) {
     ? `<p class="typ-reason">${escapeHtml(item.begruendung)}${item.stelle ? ` — „${escapeHtml(item.stelle)}"` : ""}</p>` : "";
   return `<div class="typ-item ${kind}">
     <div class="typ-item-head"><span class="typ-badge">${escapeHtml(badge)}</span>
-      <span>${TYP_KIND_LABEL[kind] || kind}</span>${unitLink}</div>
+      <span>${TYP_KIND_LABEL[kind] || kind}</span>${unitLink}${chapter}</div>
     ${quotes.join("")}${reason}</div>`;
 }
 
@@ -3857,7 +3975,9 @@ async function renderVergleichTypology() {
   if (!host) return;
   const pairKey = vergleichPairKey(vergleichState.a, vergleichState.b);
   host.innerHTML = '<p class="typ-note">Lade Typologie…</p>';
-  const [summary, typ] = await Promise.all([loadTypologySummary(), loadTypologyPair(pairKey)]);
+  const [summary, typ, segments, pairIndex] = await Promise.all([
+    loadTypologySummary(), loadTypologyPair(pairKey), loadPrintSegments(),
+    loadPairIndex(pairKey)]);
   if (vergleichState.mode !== "typ") return;
 
   const pairData = summary && summary.pairs && summary.pairs[pairKey];
@@ -3917,12 +4037,30 @@ async function renderVergleichTypology() {
       <td class="typ-num">${judged.byCat.get(cat)}</td></tr>`).join("");
   html += `<table class="typ-cat-table"><tr><th>Kategorie (${escapeHtml(typ.summary.model)})</th><th class="typ-num">Anzahl</th></tr>${catRows}</table>`;
 
+  const chapters = typChapterIndex(pairIndex || vergleichState.index, segments);
   html += `<div class="typ-findings"><h4>Echte Unterschiede (${judged.real.length})</h4>`;
-  html += judged.real.map(typFindingHtml).join("") || '<p class="typ-note">Keine.</p>';
+  if (!judged.real.length) {
+    html += '<p class="typ-note">Keine.</p>';
+  } else if (chapters) {
+    // Geruest zu, Inhalt drin: die Gliederung selbst ist die Uebersicht -
+    // welche Schlussrede traegt die Abweichungen und welche nicht.
+    const { groups, ungrouped } = typGroupByChapter(judged.real, chapters, segments);
+    html += `<p class="typ-note">Nach der Gliederung des Drucks von 1528 —
+      aufklappen zeigt die Befunde des Abschnitts.</p>`;
+    html += groups.map(typChapterHtml).join("");
+    if (ungrouped.length) {
+      html += `<details class="typ-chapter"><summary>
+        <span class="typ-ch-name">Ohne Kapitelzuordnung</span>
+        <span class="typ-ch-count">${ungrouped.length}</span></summary>
+        <div class="typ-ch-body">${ungrouped.map((i) => typFindingHtml(i)).join("")}</div></details>`;
+    }
+  } else {
+    html += judged.real.map((i) => typFindingHtml(i)).join("");
+  }
   html += `</div><details class="typ-retired"><summary>Aussortierte Kandidaten
     (${judged.retired.length}: Umformulierung, Modernisierung, Paratext,
     Erkennungsfehler)</summary>`;
-  html += judged.retired.map(typFindingHtml).join("");
+  html += judged.retired.map((i) => typFindingHtml(i, chapters)).join("");
   html += "</details>";
   host.innerHTML = html;
 }
