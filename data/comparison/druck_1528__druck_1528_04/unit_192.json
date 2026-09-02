@@ -8,15 +8,15 @@
       225
     ]
   },
-  "alignment_score": 0.3226,
+  "alignment_score": 0.3279,
   "coarse": {
     "paragraphs": {
-      "a": 5,
+      "a": 4,
       "b": 3
     },
     "counts": {
       "equal": 0,
-      "replace": 5,
+      "replace": 4,
       "delete": 0,
       "insert": 0
     },
@@ -27,7 +27,7 @@
     "matched": 5,
     "only_a": 5,
     "only_b": 6,
-    "similarity": 0.5778,
+    "similarity": 0.6313,
     "pairs": [
       {
         "op": "only_b",
@@ -55,9 +55,9 @@
       },
       {
         "op": "match",
-        "a": "Seite [IIII C XXXI]\n\n**Die ander**\n\nSůch hienor fuͤrnemen. Es iſt aber voz geſagt/das die Chriſten fry\nam.78.81.",
+        "a": "**Die ander**\n\nSůch hienor fuͤrnemen. Es iſt aber voz geſagt/das die Chriſten fry\nam.78.81. blat willig/faſten in gemeyn vnd ſunder/haben/darzů erma\nnet Paulus an yngezognem oꝛt.",
         "b": "Es iſt aber vor geſagt/das die Chriſten\nfrywillig faſten in gemeyn vnd ſund̃ haben/ dar\nzuͦ ermanet Paulus an yngezognẽ ort.",
-        "similarity": 0.3182
+        "similarity": 0.5091
       },
       {
         "op": "only_b",
@@ -67,9 +67,9 @@
       },
       {
         "op": "match",
-        "a": "blat willig/faſten in gemeyn vnd ſunder/haben/darzů erma\nnet Paulus an yngezognem oꝛt. Aber das vom fleiſchäſ=\nſen/der Bichtuatter yngezogen hat/wirdt noch lang nit\nbewåren/das die Kilch fleiſch eſſen verbieten moͤg/Gott\nder Herr aber hats verbotten/wie ouch wyntrinckē/wo\nder nåchſt dadurch geergert wirt/das iſt am glouben vñ\nliebe verhindert:",
+        "a": "Aber das vom fleiſchäſ=\nſen/der Bichtuatter yngezogen hat/wirdt noch lang nit\nbewåren/das die Kilch fleiſch eſſen verbieten moͤg/Gott\nder Herr aber hats verbotten/wie ouch wyntrinckē/wo\nder nåchſt dadurch geergert wirt/das iſt am glouben vñ\nliebe verhindert:",
         "b": "Gott der Herr hatts\nverbotten/wie ouch wyntrincken/wo der naͤchſt\ndadurch geergert wirt / das iſt am glouben vnd\nliebe verhindert:ſunſt waͤr da haltet/das man al\nlerley aͤſſen moͤge /",
-        "similarity": 0.4043
+        "similarity": 0.481
       },
       {
         "op": "match",
@@ -128,26 +128,16 @@
     ]
   },
   "fine": {
-    "similarity": 0.4177,
+    "similarity": 0.4171,
     "words": {
-      "a": 287,
+      "a": 283,
       "b": 278
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite IIII",
-        "b": "Schlußred"
-      },
-      {
-        "op": "equal",
-        "a": "C",
-        "b": "C"
-      },
-      {
-        "op": "replace",
-        "a": "XXXI",
-        "b": "ſo doch"
+        "op": "insert",
+        "a": "",
+        "b": "Schlußred C ſo doch"
       },
       {
         "op": "equal",
@@ -430,7 +420,7 @@
         "b": "88 92 blat"
       }
     ],
-    "ops": 30,
+    "ops": 29,
     "truncated": false
   }
 }

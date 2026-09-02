@@ -8,7 +8,7 @@
       290
     ]
   },
-  "alignment_score": 0.502,
+  "alignment_score": 0.5062,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -23,29 +23,23 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 13,
-    "matched": 7,
-    "only_a": 2,
-    "only_b": 4,
-    "similarity": 0.6365,
+    "units": 12,
+    "matched": 8,
+    "only_a": 1,
+    "only_b": 3,
+    "similarity": 0.6401,
     "pairs": [
       {
-        "op": "only_a",
-        "a": "Seite [IIVXO]\nDie vierdt\nLuca: Das iſt min lyb/der für üch geben wirt. Der zů-\nſatz by dem Euangeliſten/",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
+        "op": "match",
+        "a": "Die vierdt\nLuca: Das iſt min lyb/der für üch geben wirt. Der zů-\nſatz by dem Euangeliſten/ gibt einem yeden der da gern\nein bericht empfachen wil/",
         "b": "Die vierdt\n\nDer züſatz by dem Euangeliſten/gybt einem ye\nden der da geren ein bericht empfachen wil / eyn\nklarē verſtand/",
-        "similarity": 0.0
+        "similarity": 0.5306
       },
       {
         "op": "match",
-        "a": "gibt einem yeden der da gern\nein bericht empfachen wil/ ein klaren verſtand/ vñ fürr\ndahin/das wir dz Brot für ein Sacramēt erkennē müſ-\nſen/des lybs Chriſti/in tod für vns geben.",
+        "a": "ein klaren verſtand/ vñ fürr\ndahin/das wir dz Brot für ein Sacramēt erkennē müſ-\nſen/des lybs Chriſti/in tod für vns geben.",
         "b": "vn̄ fürt dahin/das wir das Brot\nfür ein Sacrament erkennen müſſen / des lybs\nChriſti / in tod für vns geben.",
-        "similarity": 0.5926
+        "similarity": 0.7273
       },
       {
         "op": "match",
@@ -110,17 +104,12 @@
     ]
   },
   "fine": {
-    "similarity": 0.7245,
+    "similarity": 0.7273,
     "words": {
-      "a": 286,
+      "a": 284,
       "b": 233
     },
     "segments": [
-      {
-        "op": "delete",
-        "a": "Seite IIVXO",
-        "b": ""
-      },
       {
         "op": "equal",
         "a": "Die vierdt",
@@ -482,7 +471,7 @@
         "b": ""
       }
     ],
-    "ops": 37,
+    "ops": 36,
     "truncated": false
   }
 }

@@ -8,33 +8,27 @@
       224
     ]
   },
-  "alignment_score": 0.3904,
+  "alignment_score": 0.3968,
   "coarse": {
     "paragraphs": {
-      "a": 5,
+      "a": 4,
       "b": 2
     },
     "counts": {
       "equal": 0,
-      "replace": 5,
+      "replace": 4,
       "delete": 0,
       "insert": 0
     },
     "similarity": 0.0
   },
   "sentences": {
-    "units": 15,
-    "matched": 6,
-    "only_a": 4,
-    "only_b": 5,
-    "similarity": 0.4621,
+    "units": 14,
+    "matched": 7,
+    "only_a": 3,
+    "only_b": 4,
+    "similarity": 0.4544,
     "pairs": [
-      {
-        "op": "only_a",
-        "a": "Seite [IIII C XXXI]\n\n**Die ander**\n\nSůch hienor fuͤrnemen. Es iſt aber voz geſagt/das die Chriſten fry\nam.78.81.",
-        "b": null,
-        "similarity": 0.0
-      },
       {
         "op": "only_b",
         "a": null,
@@ -42,10 +36,10 @@
         "similarity": 0.0
       },
       {
-        "op": "only_b",
-        "a": null,
+        "op": "match",
+        "a": "**Die ander**\n\nSůch hienor fuͤrnemen. Es iſt aber voz geſagt/das die Chriſten fry\nam.78.81. blat willig/faſten in gemeyn vnd ſunder/haben/darzů erma\nnet Paulus an yngezognem oꝛt.",
         "b": "so wirt kein\nChristenlich gemeind / söllichs niemarmer fürne-\nmen. Es ist aber vor gesagt / daß die Christen frywillig fa-\nsten in gemein vnd sonder haben /",
-        "similarity": 0.0
+        "similarity": 0.3103
       },
       {
         "op": "only_b",
@@ -55,9 +49,9 @@
       },
       {
         "op": "match",
-        "a": "blat willig/faſten in gemeyn vnd ſunder/haben/darzů erma\nnet Paulus an yngezognem oꝛt. Aber das vom fleiſchäſ=\nſen/der Bichtuatter yngezogen hat/wirdt noch lang nit\nbewåren/das die Kilch fleiſch eſſen verbieten moͤg/Gott\nder Herr aber hats verbotten/wie ouch wyntrinckē/wo\nder nåchſt dadurch geergert wirt/das iſt am glouben vñ\nliebe verhindert:",
+        "a": "Aber das vom fleiſchäſ=\nſen/der Bichtuatter yngezogen hat/wirdt noch lang nit\nbewåren/das die Kilch fleiſch eſſen verbieten moͤg/Gott\nder Herr aber hats verbotten/wie ouch wyntrinckē/wo\nder nåchſt dadurch geergert wirt/das iſt am glouben vñ\nliebe verhindert:",
         "b": "daß die\nKilch Fleisch essen verbieten mög / Gott der Herz aber hats\nverbotten / wie ouch Wyn trincken / wo der nåchst dadurch\ngeergert wirt /",
-        "similarity": 0.439
+        "similarity": 0.5373
       },
       {
         "op": "match",
@@ -122,15 +116,15 @@
     ]
   },
   "fine": {
-    "similarity": 0.5574,
+    "similarity": 0.5617,
     "words": {
-      "a": 287,
+      "a": 283,
       "b": 244
     },
     "segments": [
       {
-        "op": "replace",
-        "a": "Seite IIII C XXXI",
+        "op": "insert",
+        "a": "",
         "b": "192"
       },
       {
