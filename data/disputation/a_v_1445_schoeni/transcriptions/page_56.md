@@ -1,16 +1,12 @@
 # Seite 56
 
-si.
-55
 uff Erds zuobich und erbinden, zuo wysen
 und Leren (das geheid den weich zu
 zupietten und verpietten, deme hoch
-Ich vergesetzt
-mach er gunt die gthafft¬
 disen vnd anndern niden regierernn
+Ich vergesetzt mach er gunt die gthafft¬
 der namen eins herrpfs einanderen
 ist clar an den 1 buoch der k
-od in dem wort
 cap. Sprah Samuel uss den Reulh gutter
 so sänl. Da du Klein warest in deren
 Zeugen da bist du werden in heupt zu

@@ -1,6 +1,5 @@
 # Seite 49
 
-[Anlagestrich]
 Maring Bucerus
 Lieber brüder In Chis Ir weller mir
 vergut nemen das Ich vielein zu dieser
@@ -12,7 +11,6 @@ gnädig herrn vermag, Das wer Ett-
 was zu erluttrung der warheitt ver-
 meint für zebringen, das der so Nach
 solle gehend werden, So Meiner Ich
-Ein
 umb wenig zuo Yrz Ingefurter gesenred,
 des Bichtnatters zusagenn, Namlich die
 Er vendem Abrunt das Miner Gnediger

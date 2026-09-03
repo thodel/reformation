@@ -1,6 +1,5 @@
 # Seite 53
 
--
 Je hoff ich danach sie un
 ein kleins zethun, sye euch khei
 Getzlesteng, ob man schen.

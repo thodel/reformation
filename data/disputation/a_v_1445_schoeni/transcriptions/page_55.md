@@ -13,7 +13,6 @@ Rahts der Gmeln und alles
 das du würst bey uff einem
 dz wind gebinden sin in den Hümelin
 und das du enbindest uff ein
-sie
 das wird euch zu den Hineln
 Jo: 21. Da gerah der herzu ossen
 Siner Johanis hast du mich lieb

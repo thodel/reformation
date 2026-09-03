@@ -1,16 +1,15 @@
 # Seite 48
 
-bint
-47
+uff das hin
+Behald gefragt
+ob er das nach lasse
+Sagt ein Ja.
 Die hellig Cristenlich kilchselbs Lertten
 unnd regert, für euch zu Einen Eigent
 lichen läbenn,
 loffen er nach, er hab abe hierin wz in
-uff das hin
 Behald gefragt beweit, das Christus als das Infliessen
-ob er das nach lasse
 heupt im regien die heillige Christeliche
-Sagt ein Ja.
 kilchen durch sin geseztl statthalter.
 Diser Spüch kheiner bewerer. G. Chry 2
 die kih regiere, durch sie statthalter

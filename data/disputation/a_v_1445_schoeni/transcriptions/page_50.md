@@ -1,6 +1,5 @@
 # Seite 50
 
-en sel
 (pruch 3?)
 Absende ist wisen unnd Leuen, die
 Ist aber eben Ei jnred, Als So einer beweren

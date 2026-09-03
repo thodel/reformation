@@ -1,16 +1,13 @@
 # Seite 45
 
+# und alle glider
 Item dz e sin lib regier schreib
 und fürt Ist alle schrifft voll
 dann Gott spricht durch den
 vngehet Es wurd ein enger
-Vederman gebutter
-umb gepietten
-kis sie der de
-weh der
-Zwögen,
+kis sie der de umb gepietten
+Zwögen,                                                                                                                          weh der
 lib Chrdttin an verwaltung
-# und alle glider
 des Heups, dan der Gesprechen
 in nich so veiniger ir in zeichen
 daumb sol allen die Er gott,
@@ -24,5 +21,4 @@ wüßen leben uns der Bapst ge-
 fürt hab, so er süen geldneren
 Aplas gut Christelch blur zuuor
 giessen die Geschrifft zeiger uns
-den
 so son uw an wer sin statth alter herren
