@@ -2,13 +2,13 @@
 
 dell
 ihn
-Jn gottes namen, Inen,
-Angefangen, Epÿphonie din,
-Anno etc. xxviiiio
-Anfangs Jst der Stande, vnnd sitz mencklichen
-bestimpt, vnnd gesagt sich morndes der gestallt
-wider zuositzen.
-Demnach, das Mandat, von Statt unnd
+In gottes namen / Amen /
+Angefangen / Epyphanis nie dies /
+Anno MD xxviij
+Anfangs ist der Stande / vnnd sitz meniklichen
+bestimpt / vnnd gesagt sich morndes der gestallt
+wider zuͦsitzen
+Demnach / das Mandat / von Statt unnd
 Land der Disputationhalb ußgangen
 Sampt einer Ordnung, in was ge-
 staltten, die Disputation gehalten sölle,

@@ -3,12 +3,12 @@
 sie lib geben darumb lieber vatterigend Christo die
 H und lassenden
 dz heupt beliben fürbrigend, das einiger warzue söliche
-Das Weinli einiger gemelder und
+Das Weinli einiger gemelder vnnd
 doch auch die pastell erlitter, das
-Cristus darumb ein heupt sye das Er das heil
-sie lib geben darumb lieber vatterigend Christo die
-Er es seye dan sich das Ir mit gschafft
-dz heupt beliben fürbrigend, das einiger warzue söliche
+Cristus darumb ein heupt sÿe das Er das heil
+darumb Lieber vatterigend Christo die
+Ee # es sÿe dan sich das Ir mit gschafft
+dz heupt beliben fürbrigend, das einiger warzue soliche
 egenschafft mög zuogäben werden.
 Achtnatte
 Herrn Bachveld hat mir ein anwengebend die

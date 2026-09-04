@@ -1,9 +1,9 @@
 # Seite 42
 
 von den Hept
-klen,
-E Sekellei
-vestis
+kilchen /
+E Sekellei vollen
+Cristus
 Vihrnatter
 Anfangs als er verwillige das Chor unser heupt
 sye begott diewol unnimm einig zu den Stuk
