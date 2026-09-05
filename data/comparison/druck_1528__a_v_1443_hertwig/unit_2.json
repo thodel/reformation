@@ -8,7 +8,7 @@
       7
     ]
   },
-  "alignment_score": 0.1028,
+  "alignment_score": 0.1146,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 10,
-    "matched": 1,
-    "only_a": 6,
-    "only_b": 3,
-    "similarity": 0.3077,
+    "units": 13,
+    "matched": 2,
+    "only_a": 5,
+    "only_b": 6,
+    "similarity": 0.4274,
     "pairs": [
       {
         "op": "only_a",
@@ -44,20 +44,32 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "K. Das wir wider, keinen artickell, unnserg\nAltten Cristanlichs gloübens, utzit Han-\ndlen wöllen, der allso lüttet, Ich geleib\nWir haben ouch\nIn gott vatter, etc.",
+        "b": "K. Das wir wider / keinen artickell / unnserg\nAltten Cristenlichen  gloubens / utzit Han // dlen woͤllen / der allso luͤttet / Ich geloub\nWir haben ouch\nan gott vatter /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "etc. nuͤtzit für unns genommen / wider den\neinfaltigen Ansatz / des nachtmals unn // sers herrn Jesu Cristi / das man bißhar\ndie maͤss genampt hatt /",
         "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Es bittet vns ouch der heilig Paulus/das\nwir nit zenckisch/sonder volkomen/eins finno/eynerley\nmeynung syend/vnd das ein yegklicher der gaab/oder\nkunst/so jm Gott verlichen hare/nitstolz vnd vffgebla\nſen (quia fcientia inflat) yemats verachte/sonder in Chriſte=\nlicher liebe (que fola ædificat) einer des anderen burdy trage/",
-        "b": "nützit für unns genommen, wider den\neinfältigen Ansatz, des nächtmals unn-\nsers herrn Jesu Cristi, das man bißhar\ndie mäss genampt hatt, Es bittet unns\nouch, da heilig Paulus, das wir nitt\nzänkisch, Sünder volkommen, eins sinns\neinerley mennig, vnnd das ein Jettlicher\nder gab oder künst, so Im gott verliehen.",
-        "similarity": 0.3077
+        "b": "Es bittet unns\nouch, da heilig Paulus / das wir nitt\nzänkisch / Suͤnder volkommen / eins sinns\neinerley meinnig / vnnd das ein Jettlicher\nder gab oder kuͤnst, so Im gott verlichen\nhatt /",
+        "similarity": 0.3765
       },
       {
-        "op": "only_a",
-        "a": "einer dem andern diene. Eströstet ons ouch vnser lieber\nHerr Jesus Christus/in de da er ſpricht/Matthei. vij. Bittend/so werdend jr empfahen:",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "nitt stolltz / vnnd uffgeblasenn, (quia\nscientia Inflat) jemandts verachtte / Sun-\nders Jn Cristanlicher liebe / (que sola edificat)\neiner des andren burde trage /",
         "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "einer dem andern diene. Eströstet ons ouch vnser lieber\nHerr Jesus Christus/in de da er ſpricht/Matthei. vij. Bittend/so werdend jr empfahen:",
+        "b": "einer dem\nandren diene  / aa / Es tröstet unns ouch / vnn // ser lieber herr / Jesus Cristus, etc. In dem\nne\nda er spricht /",
+        "similarity": 0.4783
       },
       {
         "op": "only_a",
@@ -80,38 +92,34 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "hatt, nitt stolltz, vnnd uffgeblasenn, (quia\nnentia Inflat) jemandts verachtte, Sun-\nders Jn Cristanlicher liebe, (que sola edificat\neiner des andren burde trage, einer dem\nandren diene ,90 Es tröstet unns ouch, vnn-\nser lieber herr, Jesus Cristus, etc.",
+        "b": "Bitte Matthei 7. Bitten\nSo werden ir enpfachen / Suchen / So werden\nir finden / klopfen an / so würdt Uͤch uff //",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "In dem\nne\nda er spricht, Bitte Matthri 7. Bitten\nSo werden ir enpfachen, Suchen, So werden\nir finden, klopfen an, so würdt vth uff-\ngethan, des ermanen Ich vth, all uszerwoltten\ngottsfrund, das Ir uwere hertzen, vor gott\nwollen demüttigen̄, vnnd mitt mir bekennen,\nSprächende, Ich armer sündiger montsch,\nP Vatter unnser, etc. ane maria,",
+        "b": "gethan, des ermanen Ich uͤch / all uszerwaͤltten\ngottsfruͤnd / das Ir uwere hertzen / vor gott\nwollen demuͤttigen̄, vnnd mitt mir bekennen /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "Spraͤchende / Ich armer suͤndiger montsch / P Vatter unnser / etc. ave maria /",
         "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.2569,
+    "similarity": 0.2494,
     "words": {
       "a": 264,
-      "b": 172
+      "b": 185
     },
     "segments": [
       {
         "op": "replace",
-        "a": "II vnd brüder früntlich zübeschriben sich gewlisser war heyt von ück zu erkunden damit mengelich allenthalb zü rüwen",
-        "b": "K Das wir wider keinen artickell unnserg Altten Cristanlichs gloübens utzit Han dlen wöllen der allso lüttet Ich geleib Wir haben ouch"
-      },
-      {
-        "op": "equal",
-        "a": "in",
-        "b": "In"
-      },
-      {
-        "op": "delete",
-        "a": "jren gewüssen gegen",
-        "b": ""
+        "a": "II vnd brüder früntlich zübeschriben sich gewlisser war heyt von ück zu erkunden damit mengelich allenthalb zü rüwen in jren gewüssen gegen",
+        "b": "K Das wir wider keinen artickell unnserg Altten Cristenlichen gloubens utzit Han dlen wo llen der allso lu ttet Ich geloub Wir haben ouch an"
       },
       {
         "op": "equal",
@@ -121,7 +129,7 @@
       {
         "op": "replace",
         "a": "vnzü gütem fri",
-        "b": "vatter etc nützit für unns genommen wider"
+        "b": "vatter etc nu tzit für unns genommen wider"
       },
       {
         "op": "equal",
@@ -131,7 +139,7 @@
       {
         "op": "replace",
         "a": "vndereinandern komen möchtind Nundem also nachzukomen sind wir vnwirdigen diener vnd predi ger",
-        "b": "einfältigen Ansatz"
+        "b": "einfaltigen Ansatz"
       },
       {
         "op": "equal",
@@ -141,7 +149,7 @@
       {
         "op": "replace",
         "a": "heyligen Euangeliums min brüder Berchtold vnd ich eruordert vnsers gloubens vnd predigens rech nung zegeben des wir mit sampt allen denen so",
-        "b": "nächtmals unn sers herrn Jesu Cristi"
+        "b": "nachtmals unn sers herrn Jesu Cristi"
       },
       {
         "op": "equal",
@@ -151,7 +159,7 @@
       {
         "op": "replace",
         "a": "E uangelion bekennen vrpüttigfind vnd nach ordnung vßzeychnover articklen ouch allen redé so darus möch ten volgen zu antwurten vnd mit gewaltiger gschrifft zü bewaren",
-        "b": "man bißhar die mäss genampt hatt"
+        "b": "man bißhar die ma ss genampt hatt"
       },
       {
         "op": "equal",
@@ -181,7 +189,7 @@
       {
         "op": "replace",
         "a": "nit zenckisch sonder volkomen",
-        "b": "nitt zänkisch Sünder volkommen"
+        "b": "nitt zänkisch Su nder volkommen"
       },
       {
         "op": "equal",
@@ -191,7 +199,7 @@
       {
         "op": "replace",
         "a": "finno eynerley meynung syend vnd",
-        "b": "sinns einerley mennig vnnd"
+        "b": "sinns einerley meinnig vnnd"
       },
       {
         "op": "equal",
@@ -215,13 +223,23 @@
       },
       {
         "op": "equal",
-        "a": "oder kunst so jm Gott",
-        "b": "oder künst so Im gott"
+        "a": "oder",
+        "b": "oder"
       },
       {
         "op": "replace",
-        "a": "verlichen hare nitstolz vnd vffgebla ſen",
-        "b": "verliehen hatt nitt stolltz vnnd uffgeblasenn"
+        "a": "kunst",
+        "b": "ku nst"
+      },
+      {
+        "op": "equal",
+        "a": "so jm Gott verlichen",
+        "b": "so Im gott verlichen"
+      },
+      {
+        "op": "replace",
+        "a": "hare nitstolz vnd vffgebla ſen",
+        "b": "hatt nitt stolltz vnnd uffgeblasenn"
       },
       {
         "op": "equal",
@@ -231,7 +249,7 @@
       {
         "op": "replace",
         "a": "fcientia",
-        "b": "nentia"
+        "b": "scientia"
       },
       {
         "op": "equal",
@@ -281,7 +299,7 @@
       {
         "op": "replace",
         "a": "Eströstet ons",
-        "b": "90 Es tröstet unns"
+        "b": "aa Es tröstet unns"
       },
       {
         "op": "equal",
@@ -319,9 +337,19 @@
         "b": "da er spricht"
       },
       {
+        "op": "insert",
+        "a": "",
+        "b": "Bitte"
+      },
+      {
+        "op": "equal",
+        "a": "Matthei",
+        "b": "Matthei"
+      },
+      {
         "op": "replace",
-        "a": "Matthei vij Bittend",
-        "b": "Bitte Matthri 7 Bitten"
+        "a": "vij Bittend",
+        "b": "7 Bitten"
       },
       {
         "op": "equal",
@@ -371,7 +399,7 @@
       {
         "op": "replace",
         "a": "wirt",
-        "b": "würdt vth uff gethan des ermanen"
+        "b": "würdt U ch uff gethan des ermanen"
       },
       {
         "op": "equal",
@@ -381,7 +409,7 @@
       {
         "op": "replace",
         "a": "offthon Ses erma nen ich üch",
-        "b": "vth"
+        "b": "u ch"
       },
       {
         "op": "equal",
@@ -391,7 +419,7 @@
       {
         "op": "replace",
         "a": "vßerwelten gotsfründ",
-        "b": "uszerwoltten gottsfrund"
+        "b": "uszerwa ltten gottsfru nd"
       },
       {
         "op": "equal",
@@ -411,7 +439,7 @@
       {
         "op": "replace",
         "a": "wellend demutigen vnd mit",
-        "b": "wollen demüttigen vnnd mitt"
+        "b": "wollen demu ttigen vnnd mitt"
       },
       {
         "op": "equal",
@@ -421,17 +449,17 @@
       {
         "op": "replace",
         "a": "beken nen fprechende Jch",
-        "b": "bekennen Sprächende Ich"
+        "b": "bekennen Spra chende Ich"
       },
       {
         "op": "equal",
-        "a": "armer sündiger",
-        "b": "armer sündiger"
+        "a": "armer",
+        "b": "armer"
       },
       {
         "op": "replace",
-        "a": "mensch ac",
-        "b": "montsch P"
+        "a": "sündiger mensch ac",
+        "b": "su ndiger montsch P"
       },
       {
         "op": "equal",
@@ -440,13 +468,13 @@
       },
       {
         "op": "replace",
-        "a": "vnfer Aue",
-        "b": "unnser etc ane"
+        "a": "vnfer",
+        "b": "unnser etc"
       },
       {
         "op": "equal",
-        "a": "Maria",
-        "b": "maria"
+        "a": "Aue Maria",
+        "b": "ave maria"
       },
       {
         "op": "delete",
@@ -454,7 +482,7 @@
         "b": ""
       }
     ],
-    "ops": 36,
+    "ops": 37,
     "truncated": false
   }
 }

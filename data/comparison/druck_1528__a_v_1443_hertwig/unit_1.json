@@ -8,7 +8,7 @@
       3
     ]
   },
-  "alignment_score": 0.1538,
+  "alignment_score": 0.159,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 15,
+    "units": 16,
     "matched": 3,
     "only_a": 3,
-    "only_b": 9,
-    "similarity": 0.4091,
+    "only_b": 10,
+    "similarity": 0.4065,
     "pairs": [
       {
         "op": "only_a",
@@ -50,7 +50,7 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "Burgermeister von Watt von Sant Gallen / an // fangs der disputation / zunamen der presidenten / Erwurdig / hoch / vnnd wolgelert / Gestreng / Edell vest /",
+        "b": "Burgermeister von Watt von Sant Gallen / an // fangs der disputation / im namen der presidenten / Erwurdig / hoch / vnnd wolgelert / Gestreng / Edell vest /",
         "similarity": 0.0
       },
       {
@@ -80,52 +80,58 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "In ansaͤchen / das der handell nitt\nschimpfflich / sunder grossß  unnd unnser Selen\nHeyl betraͤffend ist / Sünderlich aber begeren min\nHerrn die Presidenten /",
+        "b": "In ansaͤchen / das der handell nitt\nschimpfflich / sunder grossß  unnd unnser Selen\nHeyl betraͤffend ist / Suͤnderlich aber begeren min\nHerrn die Presidenten /",
         "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Sonderlich\naber/Begeren min herren die Presidenté/das alledie/so\nze dispurieren willens vnnd verfasset sind/sy zuuor deß\nvsgangnen Mandats/vnd aller ordnung/so dem Ge=\n21",
-        "b": "das alle die / So zedispu-\ntieren willens und verfasset sind / Si zuvor / des\nußgangnen mandats / vnnd aller ordnung / So\ndem gespräch zuͦ guͦtt /",
-        "similarity": 0.4231
+        "b": "das alle die / So zedispu-\ntieren willens und verfasset sind / Si zuvor / des\nußgangnen mandats / vnnd aller ordnung / So\ndem gespraͤch zuͦ guͦtt /",
+        "similarity": 0.4151
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "uff gestrigem tag / von Herrn\nStattschriber / uss ansächen der herren verläsen\nsind / truͤwlich mitt flyss und sorg / haltten\nwoͤllen /",
+        "b": "uff gestrigem tag / von Herrn\nStattschriber / uss ansaͤchen der herren verlaͤsen\nsind / truͤwlich mitt flyss und sorg /",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "dan wo sollichs nitt bescheche / wurdent\nsi (dess si doch gern absin wöltten) darin ze-\nreden / vnnd die überträttenden zu wysen /",
+        "b": "haltten\nwoͤllen / dan wo sollichs nitt bescheche / wurdent\nsi (dess si doch gern absin woͤlten) darin ze-\nreden /",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "vnnd\nZuermanen / geursachett  guͦtter Hoffnung / Es\nwerde niemand anders faren / dan dem handell\ndiser loblichen disputation / vnd gedachtter miner\nherrn von Bern mandaten /",
+        "b": "vnnd die überträttenden zu wysen / vnnd\nZuermanen / geursachett  guͦtter Hoffnung / Es\nwerde niemand anders faren / dan dem handell\ndiser loblichen disputation /",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "Ordnungen vnnd\nabscheiden / wie sy sich mitt der schrifft verglychen\ngelegen / vnnd gemaͤss sye / vff sollichs so mogen Jr min\nHerrn die predicanten /",
+        "b": "vnd gedachtter miner\nherrn von Bern mandaten / Ordnungen vnnd\nabscheiden / wie sy sich mitt der schrifft verglychen\ngelegen / vnnd gemaͤss sye /",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "uͤwerem  erbietten nach / die erst\nSchlussred in des Herrn namen / an die hand\nnaͤmmen / vnnd die mitt schrifft bevesten / da mitt",
+        "b": "vff sollichs so mogen Jr min\nHerrn die predicanten / uͤwerem  erbietten nach / die erst\nSchlussred in des Herrn namen /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "an die hand\nnaͤmmen / vnnd die mitt schrifft bevesten / da mitt",
         "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.3106,
+    "similarity": 0.3108,
     "words": {
       "a": 202,
-      "b": 281
+      "b": 287
     },
     "segments": [
       {
@@ -150,13 +156,13 @@
       },
       {
         "op": "replace",
-        "a": "Gal len in namen",
-        "b": "Gallen an fangs der disputation zunamen"
+        "a": "Gal len in",
+        "b": "Gallen an fangs der disputation im"
       },
       {
         "op": "equal",
-        "a": "der Presidenten",
-        "b": "der presidenten"
+        "a": "namen der Presidenten",
+        "b": "namen der presidenten"
       },
       {
         "op": "replace",
@@ -481,7 +487,7 @@
       {
         "op": "replace",
         "a": "Sonderlich",
-        "b": "Sünderlich"
+        "b": "Su nderlich"
       },
       {
         "op": "equal",
@@ -571,7 +577,7 @@
       {
         "op": "replace",
         "a": "Ge 21",
-        "b": "gespräch zu gu tt uff gestrigem tag von Herrn Stattschriber uss ansächen der herren verläsen sind tru wlich mitt flyss und sorg haltten wo llen dan wo sollichs nitt bescheche wurdent si dess si doch gern absin wöltten darin ze reden vnnd die überträttenden zu wysen vnnd Zuermanen geursachett gu tter Hoffnung Es werde niemand anders faren dan dem handell diser loblichen disputation vnd gedachtter miner herrn von Bern mandaten Ordnungen vnnd abscheiden wie sy sich mitt der schrifft verglychen gelegen vnnd gema ss sye vff sollichs so mogen Jr min Herrn die predicanten u werem erbietten nach die erst Schlussred in des Herrn namen an die hand na mmen vnnd die mitt schrifft bevesten da mitt"
+        "b": "gespra ch zu gu tt uff gestrigem tag von Herrn Stattschriber uss ansa chen der herren verla sen sind tru wlich mitt flyss und sorg haltten wo llen dan wo sollichs nitt bescheche wurdent si dess si doch gern absin wo lten darin ze reden vnnd die überträttenden zu wysen vnnd Zuermanen geursachett gu tter Hoffnung Es werde niemand anders faren dan dem handell diser loblichen disputation vnd gedachtter miner herrn von Bern mandaten Ordnungen vnnd abscheiden wie sy sich mitt der schrifft verglychen gelegen vnnd gema ss sye vff sollichs so mogen Jr min Herrn die predicanten u werem erbietten nach die erst Schlussred in des Herrn namen an die hand na mmen vnnd die mitt schrifft bevesten da mitt"
       }
     ],
     "ops": 45,
