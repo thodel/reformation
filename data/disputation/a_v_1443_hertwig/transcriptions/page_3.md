@@ -1,7 +1,7 @@
 # Seite 3
 
 Burgermeister von Watt von Sant Gallen / an //
-fangs der disputation / zunamen der presidenten /
+fangs der disputation / im namen der presidenten /
 Erwurdig / hoch / vnnd wolgelert / Gestreng / Edell vest /
 fromm fursichttig wyß / Gnaͤdig unnd guͤnstig min
 herrn / lieb vnd gutt fruͤnd, diewyl wir uff Hutti //
@@ -17,15 +17,15 @@ geneigt sin soͤllen )  sich fridlich / früntlich / vnnd
 mitt ernstlichem vermercken / harzuthun / vnnd
 schicken wellen / In ansaͤchen / das der handell nitt
 schimpfflich / sunder grossß  unnd unnser Selen
-Heyl betraͤffend ist / Sünderlich aber begeren min
+Heyl betraͤffend ist / Suͤnderlich aber begeren min
 Herrn die Presidenten / das alle die / So zedispu-
 tieren willens und verfasset sind / Si zuvor / des
 ußgangnen mandats / vnnd aller ordnung / So
-dem gespräch zuͦ guͦtt / uff gestrigem tag / von Herrn
-Stattschriber / uss ansächen der herren verläsen
+dem gespraͤch zuͦ guͦtt / uff gestrigem tag / von Herrn
+Stattschriber / uss ansaͤchen der herren verlaͤsen
 sind / truͤwlich mitt flyss und sorg /  haltten
 woͤllen / dan wo sollichs nitt bescheche / wurdent
-si (dess si doch gern absin wöltten) darin ze-
+si (dess si doch gern absin woͤlten) darin ze-
 reden / vnnd die überträttenden zu wysen / vnnd
 Zuermanen / geursachett  guͦtter Hoffnung / Es
 werde niemand anders faren / dan dem handell

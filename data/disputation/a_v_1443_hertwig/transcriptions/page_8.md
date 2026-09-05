@@ -5,31 +5,30 @@ itten
 ltt
 geben,
 Protestiert des nachtmals unnsers Herrn
-wider das-
+wider das
 einfalttiger wyß uffgesatzt, nutzit
-zu disputieren
+zu disputieren /
 zuhandlen unnd
-Demnach gesprochen die affne schuld
-me maria,
-Pater noster
-Demnach, Herr Berchfeld, ein an-
-Schlusszreden
-gezogen, die
-unnd eroffnott, von wortt zu wortt, —
-Demnach, ursach angzeigt, Irs
-Disputierens,
-wort Ecclesia,
-+ unnd ußgelegt, das
-alls hrnach volgt, die grund derselben,
-In damitt er dieselben beüest mitt hatt,
-In Schriffte verfaßt, verlaisenn, luttend
-das so hie obstatt, Ist alles
-alls Harnach vollgott,
-In der Schlusßred hienacht
-vollgend begriffen, vnd
-desshalb, hie ob durchgethan
-Fündament der offnen ersten
-Schlüsszred,
-Quad unnd frid, von gott dem Himmal-
-schen vatter, der wölle vns sanden sin liecht,
-unnd warheyt in unnser hertzen, damit
+Demnach gesprochen die offne schuld
+Pater noster und maria /
+Demnach / Herr Berchtold / ein an-
+Schlussßreden /
+gezogen / die
+unnd eroffnett / von wortt zu wortt / —
+Demnach / ursach angezeigt / Irs
+Disputierens /
+wort Ecclesia /
++ unnd ußgelegt / das
+alls hernach volgt / die grund derselben /
+In damitt er dieselben bruͤest  mitt hatt /
+In Schriffte verfaßt / verlaͤsenn, luttend
+das so hie obstatt / Ist alles
+alls harnach vollgett/
+In der Schlusßred hienach
+vollgend begriffen / vnd
+desshalb / hie ob durchgethan
+Fuͤndament der offnen ersten
+Schlussßred /
+Gnad unnd frid / von gott dem Himmli //
+schen vatter / der woͤlle vns senden sin liecht /
+unnd warheyt in unnser hertzen / damit
