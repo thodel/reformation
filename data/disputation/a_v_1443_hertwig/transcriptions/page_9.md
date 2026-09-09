@@ -21,7 +21,7 @@ ben, jetzt und  ein all gemeine / dan ein versammlung
 die die kilchen anzaͤigt representiertrt / vnnd
 verwyßt / vnnd zu suͤnderen personen / der
 Cardinaͤlen /Bischoffen / unnd Baͤpsten /
-getruͤngen haben / Züm andern dritten /
+getruͤngen haben / Zuͤm andern dritten /
 das durch seemliche furgeben / vil irsal / ge //
 bott / vnnd verbott / ouch faltsch gottsdienst /
 sich Ingerissen haben / vnnd das zu grossem
