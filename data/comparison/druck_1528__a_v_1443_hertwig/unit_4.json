@@ -8,7 +8,7 @@
       12
     ]
   },
-  "alignment_score": 0.126,
+  "alignment_score": 0.1417,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -23,41 +23,53 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 12,
-    "matched": 1,
-    "only_a": 9,
-    "only_b": 2,
-    "similarity": 0.5385,
+    "units": 15,
+    "matched": 6,
+    "only_a": 4,
+    "only_b": 5,
+    "similarity": 0.4355,
     "pairs": [
       {
-        "op": "only_a",
+        "op": "only_b",
+        "a": null,
+        "b": "Giuseppe\nobtinuit\nmitt vns  / in aller unnser schwachheyt / ad he // breos 4 ͦ / dan diewyl gott sin einigen suͤn / fur uns dargestreckt /",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
         "a": "Schlußred. IIII\ndas er vns nit alle ding mit jm gebëhette/Ro.viij.Vn\nwie das heyl des lybsstadt in verwaltung des houpts/",
-        "b": null,
+        "b": "wie ware möglich / das\ner vnns / nitt alle ding / mitt im geben\nHätte / ad Romanos 8 ͦ / unnd wie das heil des\nlybs  /",
+        "similarity": 0.3556
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "statt in verwalttung des houpts / Allso ouch\ndas heil / unnd lebenn / aller gloͤubigen / statt\nin Cristo / dann er / ist ein Heiland sines\nlybs /",
         "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "also ouch das heyl vnnd låben/aller glsubigen/stadtin\nChristo: dann er ist ein heilland fins lybs. Unnd wiedie\nglider krafftloß sind/vnnd nüt vermogen/on verwal=\nrung des houpts/also ouch die glider des lybs Chrifti/",
-        "b": null,
-        "similarity": 0.0
+        "b": "unnd wie die glider / krafftlos / sind / unnd nuͤtt vermogen / on verwalttung\ndifft des houpts / Allso auch die glider des lybs\nCristi /",
+        "similarity": 0.4068
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "der Kilchen vermogend nüt on Chrifto. Dann wie das\nRabschoß kein frucht treyt/wo es dem wynstock nit yn=\ngelybet Blypt.",
-        "b": null,
-        "similarity": 0.0
+        "b": "der kilchen / vermoͤgen nuͤtt on Cristo / dann wie das Raͤbschosß / dhein frucht tragt\nwo es dem wynstock nitt ingelybtt belibt /",
+        "similarity": 0.5
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "Also ouch wir/ so nit yngelybet sind dem\nhoupt Chrifto/werden wir kein frucht Bringen: dann on\nin vermogend wir nüt/Johan.yv.",
-        "b": null,
-        "similarity": 0.0
+        "b": "Allso ouch wir / so nitt ingelybett sind / dem\nHoupt Cristo / werden wir dhein frucht brin // genn, dann on inn / vermoͤgen wir nitt\nJohanis 15 /daher ein jettlicher /",
+        "similarity": 0.4706
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "Sahar ein yeglicher\nverstadt/das kein creatur mag ein solich houpt der kil=\nchen sin/das die güter vin gaaben Gottes/in vnsere her=\ngen giesse/",
-        "b": null,
-        "similarity": 0.0
+        "b": "verstatt / das dhein creatur / mag ein sollich houpt / der kilchen sin / das die guͤtter und gaben / gottes in unnsere hertzen /",
+        "similarity": 0.4681
       },
       {
         "op": "only_a",
@@ -68,20 +80,26 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "Giuseppe\nobtinuit\nmitt vns in aller unnser schwachheyt, ad hec¬\nbreos 4. dan die wyl gott sin einigen sun,\nfur uns dargestrekt, wie ware möglich, das\ner vnns, nitt alle ding, mitt im geben\nHätte I.",
+        "b": "giesse, unnd\nstercke / tröste / füre unnd regiere / ouch sie\nein Heiland / des lybs Cristi / tc. Dise kilchen / Ist usß dem wortt gotts geborenn/",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "Romanos 8o, unnd wie das heil des\nlybs statt in verwalttung des houpts, Allso ouch\ndas heil, unnd lebenn, aller gloubigen, statt\nin Cristo, dann er, ist ein Heiland sines\nlybs, unnd wie die glider, krafftlos sind,\nunnd mitt vermogen, om verwalttung\ndifft des houpts, Allso auch die glider des lybs\nristi, der kilchen, vermögen mitt an Cristo,\ndann wie das Rabschosß, dehem frucht tragt\nwo es dem wynstok nitt ingelybott soclibt\nAllso ouch wir, so nitt ingelybott sind, dem\nHempt Cristo, werden wir dhein frucht brin¬\ngenn, dann an inn, vermögen wir mitt\nJohanis 15, dochar ein jetzlicher, verstatt,\ndas dhein creatur, mag ein sollich houpt,\nder kilchen sin, das die gutter und gaben\ngottes in unnsere hertzen, giesse, unnd\nstercke, tröste, füre unnd regiere, ouch sie\nein Heiland, des lybs Cristi,\nDise kilchen, Ist uss dem wortt gotts geborenn,\nWiewol si gott von Ewikryt, ee, die wellt\nerschaffen, erwoͤllt hatt, jedoch ist si geborende\nuss dem innerlichen wortt gottes uss dem\nwortt des gloubens, ad Romanos 10.",
+        "b": "Wiewol si gott von Ewigkeyt / ee / die wellt\nerschaffen / erwoͤllt hatt / jedoch ist si geboren / usß dem innerlichen wortt gottes  /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "uss dem\nwortt des glouͤbens / ad Romanos 10 ͦ / das\ngott läbendig unnd thättig machet / unnd\nin unnser hertz redet /",
         "similarity": 0.0
       },
       {
         "op": "match",
         "a": "yedoch ist sy geborn/vs dem innerlichen wort gottes/v\ndem wort des gloubens/Rom.y. Das Gott låbendig\nvnd tätig machet/vn in vnser hertz redet/welches ouch\nin der warheyt/kein anders ist/von dem das vsserlich ge\npredigot/oder in gschrifft verfasser ist.",
-        "b": "das\ngott läbendig unnd thättig machet, unnd\nin unnser hertz redet, welches ouch in\nder warheyt, kein annders ist, von dem\ndas vsserlich gepredigett, oder in geschrifft\nverfassott ist, dise beruffung, erlichttung",
-        "similarity": 0.5385
+        "b": "welches ouch in\nder warheyt / kein annders ist / von dem\ndas vsserlich gepredigett / oder in geschrifft\nverfassett ist / dise beruͤffung / erlichttung",
+        "similarity": 0.4118
       },
       {
         "op": "only_a",
@@ -104,16 +122,16 @@
     ]
   },
   "fine": {
-    "similarity": 0.397,
+    "similarity": 0.4007,
     "words": {
       "a": 291,
-      "b": 238
+      "b": 248
     },
     "segments": [
       {
         "op": "replace",
         "a": "Schlußred IIII",
-        "b": "Giuseppe obtinuit mitt vns in aller unnser schwachheyt ad hec breos 4 dan die wyl gott sin einigen sun fur uns dargestrekt wie ware möglich"
+        "b": "Giuseppe obtinuit mitt vns in aller unnser schwachheyt ad he breos 4 dan diewyl gott sin einigen su n fur uns dargestreckt wie ware möglich"
       },
       {
         "op": "equal",
@@ -143,7 +161,7 @@
       {
         "op": "replace",
         "a": "gebëhette Ro viij Vn",
-        "b": "geben Hätte I Romanos 8o unnd"
+        "b": "geben Hätte ad Romanos 8 unnd"
       },
       {
         "op": "equal",
@@ -213,7 +231,7 @@
       {
         "op": "replace",
         "a": "glsubigen stadtin Christo",
-        "b": "gloubigen statt in Cristo"
+        "b": "glo ubigen statt in Cristo"
       },
       {
         "op": "equal",
@@ -253,17 +271,17 @@
       {
         "op": "replace",
         "a": "nüt",
-        "b": "mitt"
+        "b": "nu tt"
       },
       {
         "op": "equal",
-        "a": "vermogen",
-        "b": "vermogen"
+        "a": "vermogen on",
+        "b": "vermogen on"
       },
       {
         "op": "replace",
-        "a": "on verwal rung",
-        "b": "om verwalttung difft"
+        "a": "verwal rung",
+        "b": "verwalttung difft"
       },
       {
         "op": "equal",
@@ -283,7 +301,7 @@
       {
         "op": "replace",
         "a": "Chrifti",
-        "b": "risti"
+        "b": "Cristi"
       },
       {
         "op": "equal",
@@ -292,8 +310,18 @@
       },
       {
         "op": "replace",
-        "a": "vermogend nüt on Chrifto",
-        "b": "vermögen mitt an Cristo"
+        "a": "vermogend nüt",
+        "b": "vermo gen nu tt"
+      },
+      {
+        "op": "equal",
+        "a": "on",
+        "b": "on"
+      },
+      {
+        "op": "replace",
+        "a": "Chrifto",
+        "b": "Cristo"
       },
       {
         "op": "equal",
@@ -303,7 +331,7 @@
       {
         "op": "replace",
         "a": "Rabschoß kein",
-        "b": "Rabschosß dehem"
+        "b": "Ra bschosß dhein"
       },
       {
         "op": "equal",
@@ -317,13 +345,13 @@
       },
       {
         "op": "equal",
-        "a": "wo es dem",
-        "b": "wo es dem"
+        "a": "wo es dem wynstock",
+        "b": "wo es dem wynstock"
       },
       {
         "op": "replace",
-        "a": "wynstock nit yn gelybet Blypt Also",
-        "b": "wynstok nitt ingelybott soclibt Allso"
+        "a": "nit yn gelybet Blypt Also",
+        "b": "nitt ingelybtt belibt Allso"
       },
       {
         "op": "equal",
@@ -333,17 +361,17 @@
       {
         "op": "replace",
         "a": "nit yngelybet",
-        "b": "nitt ingelybott"
+        "b": "nitt ingelybett"
       },
       {
         "op": "equal",
-        "a": "sind dem",
-        "b": "sind dem"
+        "a": "sind dem houpt",
+        "b": "sind dem Houpt"
       },
       {
         "op": "replace",
-        "a": "houpt Chrifto",
-        "b": "Hempt Cristo"
+        "a": "Chrifto",
+        "b": "Cristo"
       },
       {
         "op": "equal",
@@ -367,13 +395,13 @@
       },
       {
         "op": "equal",
-        "a": "dann",
-        "b": "dann"
+        "a": "dann on",
+        "b": "dann on"
       },
       {
         "op": "replace",
-        "a": "on in vermogend",
-        "b": "an inn vermögen"
+        "a": "in vermogend",
+        "b": "inn vermo gen"
       },
       {
         "op": "equal",
@@ -383,7 +411,7 @@
       {
         "op": "replace",
         "a": "nüt Johan yv Sahar",
-        "b": "mitt Johanis 15 dochar"
+        "b": "nitt Johanis 15 daher"
       },
       {
         "op": "equal",
@@ -393,7 +421,7 @@
       {
         "op": "replace",
         "a": "yeglicher verstadt",
-        "b": "jetzlicher verstatt"
+        "b": "jettlicher verstatt"
       },
       {
         "op": "equal",
@@ -433,7 +461,7 @@
       {
         "op": "replace",
         "a": "güter vin gaaben",
-        "b": "gutter und gaben"
+        "b": "gu tter und gaben"
       },
       {
         "op": "equal",
@@ -493,7 +521,7 @@
       {
         "op": "replace",
         "a": "Christi Sise Kilche",
-        "b": "Cristi Dise kilchen"
+        "b": "Cristi tc Dise kilchen"
       },
       {
         "op": "equal",
@@ -503,7 +531,7 @@
       {
         "op": "replace",
         "a": "vs",
-        "b": "uss"
+        "b": "usß"
       },
       {
         "op": "equal",
@@ -533,7 +561,7 @@
       {
         "op": "replace",
         "a": "ewigkeit eedie welt",
-        "b": "Ewikryt ee die wellt"
+        "b": "Ewigkeyt ee die wellt"
       },
       {
         "op": "equal",
@@ -553,7 +581,7 @@
       {
         "op": "replace",
         "a": "sy geborn vs",
-        "b": "si geborende uss"
+        "b": "si geboren usß"
       },
       {
         "op": "equal",
@@ -587,13 +615,13 @@
       },
       {
         "op": "equal",
-        "a": "des gloubens",
-        "b": "des gloubens"
+        "a": "des",
+        "b": "des"
       },
       {
         "op": "replace",
-        "a": "Rom y",
-        "b": "ad Romanos 10"
+        "a": "gloubens Rom y",
+        "b": "glou bens ad Romanos 10"
       },
       {
         "op": "equal",
@@ -653,20 +681,20 @@
       {
         "op": "replace",
         "a": "gschrifft verfasser",
-        "b": "geschrifft verfassott"
+        "b": "geschrifft verfassett"
       },
       {
         "op": "equal",
-        "a": "ist Dise beruffung",
-        "b": "ist dise beruffung"
+        "a": "ist Dise",
+        "b": "ist dise"
       },
       {
         "op": "replace",
-        "a": "erlüchtung vnd ernt werung der hertze nenn ich geburt der Kilchen Petri 1 Habend einander ynbrünstig lieb von reinem hertzen Als die wider geboren sind nit vs eim sterblichen somen sond vs eim vnsterblichen durch die wort des labendigen Gottes der in ewigkeyt belybr dann es müß die geystlich geburt der Kilchen ouch von eim somen fin Wellicher aber nit fleysch vnd blut noch keins menschen willen Joan 1 ouch nit ein zergengklich sonder das ewig vnd libendig wort Gottes deß vnser",
-        "b": "erlichttung"
+        "a": "beruffung erlüchtung vnd ernt werung der hertze nenn ich geburt der Kilchen Petri 1 Habend einander ynbrünstig lieb von reinem hertzen Als die wider geboren sind nit vs eim sterblichen somen sond vs eim vnsterblichen durch die wort des labendigen Gottes der in ewigkeyt belybr dann es müß die geystlich geburt der Kilchen ouch von eim somen fin Wellicher aber nit fleysch vnd blut noch keins menschen willen Joan 1 ouch nit ein zergengklich sonder das ewig vnd libendig wort Gottes deß vnser",
+        "b": "beru ffung erlichttung"
       }
     ],
-    "ops": 56,
+    "ops": 57,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       11
     ]
   },
-  "alignment_score": 0.1751,
+  "alignment_score": 0.1744,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,10 +23,10 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 15,
+    "units": 16,
     "matched": 5,
     "only_a": 5,
-    "only_b": 5,
+    "only_b": 6,
     "similarity": 0.4172,
     "pairs": [
       {
@@ -110,22 +110,28 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "mitt iro\ngemein / dulldett ouch si in aller schwachheyt\nAlls die blödere geschoͤpfft / Allso ist Cri // stus ein furst, ein unnd fuͤrer /",
+        "b": "mitt iro\ngemein / dulldett ouch si in aller schwachheyt\nAlls die bloͤdere geschoͤpfft / Allso ist Cri // stus ein furst /",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "unnd gebie / ter / Esaye / 55 / Ezechielis 37 / Ein re // gierer / unnd schirmer / sines gspons / der\nklichen / unnd allso allen / so in jnn ver // hoffen / vnnd mag ein mittlyden haben /",
+        "b": "ein unnd fuͤrer / unnd gebie / ter / Esaye / 55 / Ezechielis 37 / Ein re // gierer / unnd schirmer / sines gspons / der\nklichen /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "unnd allso allen / so in jnn ver // hoffen / vnnd mag ein mittlyden haben /",
         "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.4318,
+    "similarity": 0.431,
     "words": {
       "a": 290,
-      "b": 238
+      "b": 239
     },
     "segments": [
       {
@@ -591,7 +597,7 @@
       {
         "op": "replace",
         "a": "bloden geschopfft Also",
-        "b": "blödere gescho pfft Allso"
+        "b": "blo dere gescho pfft Allso"
       },
       {
         "op": "equal",
