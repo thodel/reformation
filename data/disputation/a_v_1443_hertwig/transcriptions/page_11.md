@@ -31,8 +31,8 @@ man ist ein furst / vnd furer / ein ge //
 bietter  / ein regierer / und schirmer siner huß //
 frowen / unnd hatt alle guͤtter / mitt iro
 gemein / dulldett ouch si in aller schwachheyt
-Alls die blödere geschoͤpfft / Allso ist Cri //
-stus ein furst, ein unnd fuͤrer / unnd gebie /
+Alls die bloͤdere geschoͤpfft / Allso ist Cri //
+stus ein furst / ein unnd fuͤrer / unnd gebie /
 ter / Esaye / 55 / Ezechielis 37 / Ein re //
 gierer / unnd schirmer / sines gspons / der
 klichen / unnd allso allen / so in jnn ver //

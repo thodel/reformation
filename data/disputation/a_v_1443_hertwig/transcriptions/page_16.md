@@ -1,45 +1,45 @@
 # Seite 16
 
 15
-Unnd alle das alles beschach,
-Daruff ermandt, ob Jemand, wider disßern
-ersten Artikell, wölle disputieren, den-
-selben wöllen si, mitt grossen freüden
-Antwürtten, vnnd ges. In den namen
-Gottes
-Demnach Sind, Durch die Presidenten
-berüfft,
-Lufangs, O von wegen der vier
-Constantz Basell,
-Gischoffen
-Vallis, Losann, Jst niemanderschinen,
-doch letst, e ettlich von des von Losern wegen
+Unnd alls das alles beschach /
+Daruff ermandt / ob Jemand / wider disßern
+ersten Artikell / wölle disputieren / den //
+selben woͤllen si / mitt grossen freuͤden
+Antwurtten / vnnd ges In dem namen
+Gottes /
+Demnach Sind ouch die Presidenten
+beruͤfft /
+Anfangs / O?  von wegen der vier
+Constantz / Basell /
+Bischoffen /
+Wallis / Losann / Jst niemand erschinen /
+doch letst, ein ettlich von des von Losan wegen
 von wegen, der Anndren
-sich erzöigt,
-daruffen, namlich von der Eydtgünschafft-
-Sind ange¬
-Ortten ✳ unnd anfangs von Zürich,
-stellt, biss
+sich erzoͤigt /
+daruffen " namlich von der Eydtgenossenschafft-
+Sind ange /
+Ortten / " unnd anfangs von Zürich,
+stellt / biss
 des ersten
-zu letst,
+zuͤ letst /
 Unnd Ist allso
-uffgestanden,
--Commen-
-dür zu
-Meister Conradt Schmid, von Zürich,
-kußnach,
-Hatt sich erluttrott, das die von Zürich
-die Schlusßreden, für Cristanlich
-achtten, wöllen die Helffen be-
-Sind ein-
-schirmen ✳ haltten̄, unnd mitt der schrifft
+uffgestanden /
++Commenda
+dur zuͤ
+Meister Conradt Schmid, von Zürich +
+kuͤßnach /
+Hatt sich erluterett / das die von Zürich
+die Schlusßreden / für Cristanlich
+achtten / woͤllen die Helffen be //
+V Sind ein //
+schirmen  / haltten̄ / unnd mitt der schrifft
 beschirmen, mitt göttlich
-andren nach
+ander nach
 berüfft, mit
-nieren, Vry Schwytz, vnnderwillden
-gunt mitt zug, Glarus, ✳ hatt niemand geant-
-württ,
-Als man Glarus berüfft
-brunner
-Angezögt
-Hatt Herr Fridli, bod
+vieren, Vry Schwytz / vnnderwillden /
+gunt mitt zug / Glarus / V hatt niemand geant //
+württ /
+Als man Glarus beruͤfft
+"brunner"
+Angezäigt
+Hatt Herr Fridli / bod
