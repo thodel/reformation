@@ -3,45 +3,44 @@
 getruwe
 wüsse
 sind
-Syttenmal vil sind, die vonn
-Inzichen
-ells gebtrünnig
-heiligen, ristanlichen kilchen,
-von den
-Des wir rechtten für, das
-aller grüwlichist laster, das einem
+Syttenmal vil sind,  sind die vonn
+Inzuͤchen
+alle abbtrünnig
+"heiligen"  christanlichen kilchen /
+von der
+Des wir ansechen  für / das
+aller gruͤwenlichst laster / das einem
 uff gehept
-Geistan, man
+Christen / mit
 werden.
 mit ein Voch mitt
 dasselb
-kurtzen begeff zuverantwurtten,
-Cristan
-s statt einem jeden mit
-zu, sin leben darnach zuͦrichtten,
-mügsten tag tag,
-wie er das Horn so
-unnd grosfest grösse
-Zuoüerantt würtlen.
-uff stüchen zehaben, Off das ur-
-dan der möntschen
-viel gottes,
-wöllen-
+kurtzen begehr dasselb  zuͦverantwurtten /
+Christen
+Es statt einem jeden Christen
+zuͦ / sin leben darnach zuͦrichtten /
+juͤngsten tag tag /
+hat er des Herrn
+unnd grossest groͤsß
+Zuͦveranttwuͤrten /
+uff suͤchen zehaben, uff das ur //
+dann der möntschen
+teil gottes /
+"woͤllen"
 wie den den
 den wöllichen
-geuallen.
-montschen ✳) ✳ mogen wie mitt diener
-E gittes sin,
-De ist ein annderst Vrttil gottes
-den, der möntschen
-vnns allen-
-hierümm gebürtt sich ein uffsächen
+"gevallen"
+moͤntschen" gevallen" mogen wie nitt diener
+gottes sin /
+So ist ein annderst Vrtteil gottes
+von den möntschen
+"vnns allen"
+hieruͤmm gebuͤrtt uns allen  sich ein uffsächen
 die kilchen
-zu haben.
-uff schlecht-
-gottes, unnd nitt- uff die
-schlechtten, vermischten kilchen,
-wir durch alle paphe-
-vis
-ufft finden,
-ten unnd sch
+zuͦ haben /
+"uff schlechte"
+gottes / unnd nitt  uff die
+schlechtten / vermischten kilchen /
+wie durch alle prophe //
+wir
+ten unnd schrifft finden/
