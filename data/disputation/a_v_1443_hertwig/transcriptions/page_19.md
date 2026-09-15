@@ -3,43 +3,43 @@
 22.3.45
 1 Smiders
 das
-Das die Statt Gottes Jherusalem,
-ein heilig Statt genampt
-meyenern
-wirdt, von wegen geistlichen
+Das die Statt Gottes Jherusalem /
+ein heilig Statt Sye genampt
+Infrmeyenern
+werdt / von wegen dem geistlichen
 Doma
 unnd hinwidren
 nun
 unnd Egipsus, die sind
-zuo von
-nitt abtumig gewäsen, theresalem
-der heilige Statt Gottes, die
+zuͦo von
+nitt abtruͤnig gewäsen / Jherusalem
+der heiligen Statt Gottes / die
 sich nitt haben begeben
-In Ab-
-potterien, oder mitt vngerechtt
+In Ab//
+gottereien, oder mitt vngerechtti//
 Also auch nun
-keyt befleckt.
-söllen nit gezellt werden, alls
+keyt befleckt /
+söllen nit gezellt werden / alls
 Erbtragung von Cristanlicher
-gemeinde, die da J in glauben
-In Cristan sich beflyssen etc.
+gemeinde / die da Jm glauͤben
+In Cristum sich beflyssen zu
 umb
-beharre, unnd unnd risti
-vallen, liebe 4 tragen gegen,
-mencklichem,
+beharren / unnd unnd Christi
+gevallen / liebe zu tragen gegen /
+menklichem /
 unvoglich ist
 nitt
-es, das sollich, in Cristanlicher
+es / das sollich "nitt" in Cristanlicher
 nitt
-gemeinde „ burger syen den
-geleubt) nämme ich aber hie-
-mitt erkandtnuss aller
-. . . . 8.
+gemeinde buͤrger syen  / den
+gelouͤben nämme ich aber hie//
+mitt  a erkandtnusß aller
+sunderlicher acht
 Stucken
 der
 in der
-schrifft, in des ver-
-träwen statt in gott, unnd
-Jesim Cristum, sinen ge-
-sandten Durch wöllicher ge-
-louben, man beregt Jst, Caswertt
+schrifft / sunders das in das in des ver /
+truͤwen statt in gott / unnd
+Jesum Christum / sinen ge //
+sandten Durch wöllichen ge //
+louͤben / denen bezeugt  Jst / das wortt

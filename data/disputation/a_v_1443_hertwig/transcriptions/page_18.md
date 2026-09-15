@@ -11,7 +11,7 @@ von der
 Des wir ansechen  für / das
 aller gruͤwenlichst laster / das einem
 uff gehept
-Christen / mit
+Christen / mag
 werden.
 mit ein Voch mitt
 dasselb

@@ -1,37 +1,36 @@
 # Seite 20
 
 19
-gottes, zuhören, unnd allso mitt
-sollicher begird, das man ee die
-gantz wellt zuuerlassen begertt,
-dan disen geleiben In Cristinn,
-So wir aim sollichen gebeüben
-begeren zubekennen, vnnd uss zu schreiben
+gottes / zuhören / unnd allso mitt
+sollicher begird / das man es die
+gantz wellt zuͦverlassen begertt /
+dan disen geleuͤben In Christum /
+So wir ain sollichen geleuͤben
+begeren zubekennen / vnnd uss zuͦ schreiben/
 unnd dem
-Wort gottes an
-anzuhangen, allen ortten gelouben zuogeben
-Sind wir gewauss, das dehem
-verbanngnder montschen,
+Wort gottes an //
+anzuhangen / allen ortten gelouͤben zuͦgeben
+Sind wir gewuͤsß, das dehein
+verbannuͤng der moͤntschen /
 unns mögen
-usstillgen.
-dem buch der läbenden,
+usßtillgen / usß
+dem buch der läbenden /
 billich
-oder unns zellen alls abtrünnig
-A vor Cri-
-stanlicher
-Diewyl wir begirig sind Criste, In aller
-gemeinsame
-zuverab, liebe anzehangen, hjn warer lieb,
-allen Cristan anzuhangen, Christo an-
-allen gli, zehangen,
-dern Cristi
-Demnach Sind min Herrn von Fu
-burg, unnd Soltern, berufft,
-Ist niemand erschinen,
-Schaffhusen berüfft, Ist
-Alls 8
-erschinen, ber erschinenn Herr
-Heinrich Luegge, hatt sich ursach
-gezoigt, sines Hackommens,
-Namlich das er von sinen Herrn nitt darzu
-verordnott, darzu Im, noch anndern
+oder unns "billichen"zellen alls abtrünnig
+A von Chri//
+stenlicher
+Diewyl wir begirig sind/ Criste / In aller
+gemeinsamer
+zuverab, liebe anzehangen  in warer lieb /
+allen Christen anzuͦhangen / Christo an //
+allen gli / zehangen /
+dern Christi
+Demnach Sind min Herrn von Fri //
+burg / unnd Soloturn / berufft /
+Ist niemand erschinen /
+Alls Schaffhusen beruͤfft / Ist
+erschinen / bern erschinenn Herr
+Heinrich Linggi / hatt sich ursach
+gezoigt / sines Harkommens /
+Namlich das er von sinen Herrn nitt darzuͦ
+verordnott / darzuͦ Im / noch anndere
