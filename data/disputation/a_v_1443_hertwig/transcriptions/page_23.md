@@ -1,65 +1,63 @@
 # Seite 23
 
 22
-Alle Constantz berüfft, Ist der
-Blarer predicant erschinen,
-Hatt sich er-
-lutbrott, das er, unnd sine mittbruder
-sellen, den Artickell gehaltten,
-unnd gepredigett haben, wölle den
-erhaltten, Alls Cristanlich, unnd gerecht
-wölle ouch siner lerehalb zu Constantz gethan
-red unnd antwürtt geben,
+AllS Constantz beruͤfft, Ist der
+predicant  V BlarerV erschinen /
+Hatt sich er //
+luthert / das er, unnd sine mitt bruͦder
+sollen / den Artickell gehaltten /
+unnd gepredigett haben / wölle den
+erhaltten  /  Alls Cristanlich, unnd gerecht
+woͤlle ouch siner lere halb zuͦ Constantz gethan
+red unnd antwürtt geben /
 Ittlich von
-Sügspurg, habten sich erluttrott
-wie si von dehemer Oberkeyt,
-" zuzelosen,
-+ aber sun-
-wöllen zuolosen,
-dren Tri- Abgenerttipott,
-stanlichen
+Augspurg / habten sich erluthert
+wie si von dheiner Oberkeyt // +
+" zuzelosen "
++ aber suͤn //
+woͤllen zuͦlosen /
+dren Chri // abgevertigett "zuzelosen"
+stenlichen
 unnd haben die erste Schlusßred, be-
 personen
-stättigott,
-Strassburg wegen, Ist erschinen
+staͤttigott //
+Von Strassburg wegen / Ist erschinen
 von
-Doctor Capito, unnd doctor Bücerus
-predicanten daselbs, haben hatt doctor
-Capito geredt
-Disßern artickell wie der erklärt
-Hallt ein gemeind
-kilchen zu Strassburg
+Doctor Capito, unnd doctor Buͤcerus
+predicanten daselbs / haben hatt doctor
+Capito geredt /
+Disßen artickell wie er durch die predicanten erklärt /
+Hallt ein gemeind der
+kilchen zu Strassburg //
 der
-durch die
-"Si die-
-alls diens haben die ettliche zur här¬
+"Sie die" Predicanten
+"alls diener  haben die ettliche zur här¬
 predicanten
-Predicanten geprediget
-ettwas, zyttes aber Ire herren unnd
-# vnnd alls
-Obern von Strassburg, haben,
-si dise Cri-
-inn, unnd sin bruoder
-abgeüerttiget
-stanliche dis-
+"geprediget
+ettwas / zyttes II  aber Ire herren unnd
+II vnnd alls
+Obern von Strassburg / haben
+si dise Chri /
+inn / unnd sin bruͦder
+abgeverttiget //
+stenliche dis //
 von Friburg
-putation er-
-Doctor Conradt Trayer, „ Promunial, unnd
-langott
+putation er //
+Doctor Conradt Trayer / "von Friburg"„ Provinzial / unnd
+langett //
 Ob
-der
+unnd
 ♂
-Doctor Mützer
-in vier
-Artickelln, mitt inen
-zu disputierenn, unnd namlich, habe
-Peter
-8 Harkämen
+Doctor Muͤrner 8
+8   harkommen in vier
+Artickelln / mitt inen
+zu disputierenn / unnd namlich / habe
+Doctor
 Conradt
-trâÿer, von Friburg
-vor darin
+traͤyer / von Friburg
+vor Jahren / x
 .
 Schluß
-Namlich Im xxiiii Jare
-X alls er zu Strassburg,
-gewäsen,
+Namlich Im xxiiij Jare
+X alls er zu Strassburg /
+gewäsen /

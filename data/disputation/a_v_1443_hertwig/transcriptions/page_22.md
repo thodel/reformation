@@ -1,66 +1,66 @@
 # Seite 22
 
 Von
-Müllhößen, Sind erschinen
-ettlich predicanten, v.
-Bekenn sich, der ersten Schluß zuoden
-mit der
-alls Cristanlich, unnd recht, hie
-E lutten
-ben die gepredigett zu Mullhusen
-Eulampe
-beken halten die für gutt unnd gerecht,
+Müllhußen /  Sind erschinen
+ettlich predicanten / die
+Bekennen sich / der ersten Schlußrede //
+V mit der
+alls Christenlich  unnd / recht / ha //
+Er luetterung
+ben die gepredigett zuͦ Mullhuͦsen
+Oekolampa //
+beken halten die / fuͤr guͦtt unnd gerecht V
 dij
 unnd wo jemand von Müllhusen
-H die si ge-
-der darwider sin wöllen, wölte,
-hört haben.
-dem wurden si, mitt red unnd
-antwürtt begegnen, unnd
-Den Lottwyl, ist niemand erschinen
-uff sollichs Die Predicanten, Haben an-
-gezogen, das Buchli, So ein pre-
-Anno si
-habe lassen, diser genampt Herr Georg Nuworffer,
+8 die si ge//
+der darwider sin wöllen, wölte / 8
+hört haben /
+dem wuͤrden si / mitt red unnd
+antwuͤrtt begegnen / unnd
+Von Rottwyl / ist niemand erschinen
+uff sollichs Die Predicanten / haben an //
+gezogen, das Buͤchli / So ein pre //
+A unnd si
+habe lassen / diger genampt Herr Georg Nuͤwdorffer
 ußgan vnnd
-daselbs zu Rottwyl, wider dise disputation
-diewyl der
-selb Prediger,
-Alls die Grawenpünder berüfft
+daselbs zuͦ Rottwyl / wider dise disputation A
+diewyl der //
+selb Prediger /
+Alls die Grawenpuͤnder berüfft
 nachdem er
-Ist erschinen Melchior dem tillman
+Ist erschinen Melchior dem tillman 8
 durch min
-Hatt angezoigt, wie er disern ar-
-herrn sün-
-" unnd Brättigow
+Hatt angezoͤigt / wie er disen ar //
+herrn suͤn //
+" unnd Brättigow"
 derlich beruffen
-tickell, in den punct gepredigett
+tickell / in den punden " und Brättigow" gepredigett
 nitt erschine
-sye von sinen herrn, hat
+sye von sinen herren / har //
 begertt, das
-Buchlin zu-
+Buchlin zu /
 D. De Denselben
-gewisen, mege er eben
-sin lec-
-uerantwurtten
-artickell, anz behaltten
+gewisen / moge er ihnen den
+"sin loco"
+verantwurtten
+artickell / behaltten
 Ist diser zytt
 ♀
 angestellt.
 Ist bereyt das
-in namen des fridens
+in namen des fridens /
 +
-zethuond, dan sich ettlich berümpt
+zethuͤnd / dan sich ettlich berümpt II
 damitt
 Sye im von
-min Herrn mitt vorgericht angetastet,
+min Herrn mitt vorgericht angetastet /
 ettlichen priestern
-für gehaltten,
+für gehaltten /
 E uff iren kosten,
-Harzukom-
-men, vnnd
-H hatt sin protestation schrifft-
-wider Inn zu
-lich ingelegt, uff meinig
+II Harzukom //
+men / vnnd
+8  hatt sin protestation schrifft //
+wider Inn zuͦ
+lich ingelegt / uff meinig
 disputieren
-harnach vollgend,
+harnach vollgend /
