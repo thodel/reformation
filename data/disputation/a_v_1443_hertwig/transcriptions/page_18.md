@@ -3,8 +3,8 @@
 getruwe
 wüsse
 sind
-Syttenmal vil sind,  sind die vonn
-Inzuͤchen
+Syttenmal vil sind,  sind die unns
+anzuͤchen
 alle abbtrünnig
 "heiligen"  christanlichen kilchen /
 von der
