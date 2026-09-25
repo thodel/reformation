@@ -4,7 +4,6 @@ so hatt Doctor Johannes eck Diss Disputation
 mit schmechlichem ußschriben angethastett / darInnen
 er sin nydig hertz erkuͤlet / vnnd vill mer sin
 natter zungen harfurgestreckt / dann christenliche
-Lieby vnnd warnung angezeigt /
 vnnd
 mit vnwarheit ein christenliche oberkeit der statt
 Bernn ir eeren beladen / vnnd  so unmoͤntsch //
@@ -15,12 +14,10 @@ schrifften / zuͦ hindrung disers gesprechs erdichtet /,
 Denen fuͤgklicher zyt mit antwurt soll begegnett
 werden / Die gruͤwlichen helden / haben sich
 treffenlich gerissen /  aber nuͤtzit geschafft dan
-Der glantz des wort gottes han sy verblaͤndt / vnnd
 die Weltliche eer sey verstopft / Der gyt
 hatt sy gar umgeben / vnnd die Endchristischen
 satzungen gnze umbfangen / woran es ihnen
 gelegen sie mag ein jeder fromer Christ woll ge //
-dencken /
 Über welches alles / unnd was noch wider diß
 Disputation geschriben / geredt / vnd ußgespreit moͤcht
 werden / zuͦ verkleinrung diser acten / wirtt

@@ -1,9 +1,9 @@
 # Seite 2
 
+heiss Rhät vnnd burger der Statt Bern in
 Vorred
 Allenn vnnd jedenn frommen Christen
 sei  kundt und offenbar dass uns Schult //
-heiss Rhät vnnd burger der Statt Bern in
 Uechtland vill vnnd mancherley ursachen bewegt
 habenn / diss gegenwürtig gesprech ze halten / Die
 mehrteils / vorgenden mandat der Uss //

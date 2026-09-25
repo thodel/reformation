@@ -1,14 +1,10 @@
 # Seite 4
 
-ten
-fivar
-fact.
 Doch nützit  ze urtheillen / richten noch erkennen / über
 die schlußreden / ihrem  Inhalt / argument vnnd schrifft /
 so wider / oder für die / dargethan vnnd fürtragen wurden /
 sonders sich inn aller handlung halten / nach ver //
-mög des usgesandten Mandats / Mit Nammen des
-heilig biblisch schrifft / sich selbst / vrtheillen / vnd die
+heilig biblisch schrifft / sich selbst / vrtheillen / vnd die mög des usgesandten Mandats / Mit Nammen des
 dunckle mit der heitteren erklären lassen/
 und
 sind disß die herrn presidenten /  Die hoch vnd wol //
