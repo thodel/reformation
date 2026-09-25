@@ -23,17 +23,17 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 10,
-    "matched": 6,
-    "only_a": 1,
-    "only_b": 3,
-    "similarity": 0.4857,
+    "units": 12,
+    "matched": 5,
+    "only_a": 2,
+    "only_b": 5,
+    "similarity": 0.3995,
     "pairs": [
       {
-        "op": "match",
+        "op": "only_a",
         "a": "Vored\nElen ond yeden from\nmen Christen/sye kund vn of\nfenbar/das vns Schultheiß\nRhat vi Burger der State\nBernn in lichtland/vil vnnd\nmancherley vrsachen bewegt\nhaben/diß gegenwärtig Ge=\nsprach zehalte.",
-        "b": "Vorred\nAllenn vnnd jedenn frommen Christen\nsei  kundt und offenbar dass uns Schult // heiss Rhät vnnd burger der Statt Bern in\nUechtland vill vnnd mancherley ursachen bewegt\nhabenn /",
-        "similarity": 0.3226
+        "b": null,
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -44,55 +44,67 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "diss gegenwürtig gesprech ze halten / Die\nmehrteils / vorgenden mandat der Uss // schribung vergriffen sind / Den Christenlichen\nläser und zuhörer bittende /",
+        "b": "heiss Rhät vnnd burger der Statt Bern in\nVorred\nAllenn vnnd jedenn frommen Christen\nsei  kundt und offenbar dass uns Schult //",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "disen handell nit zeverar // gen / noch argwenig achten / Weisst gott das\nunser / vnnd der unserenhalb die unvermidenlich\nnotturfft / das erhöuschen hatt /",
+        "b": "Uechtland vill vnnd mancherley ursachen bewegt\nhabenn / diss gegenwürtig gesprech ze halten / Die\nmehrteils / vorgenden mandat der Uss // schribung vergriffen sind /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "Den Christenlichen\nläser und zuhörer bittende / disen handell nit zeverar // gen / noch argwenig achten / Weisst gott das\nunser / vnnd der unserenhalb die unvermidenlich\nnotturfft /",
         "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Weyßt\nGott das vnser/vnd der vnfernhalb/die vnuermyden=\nlich notturffr d3 erbouschen hat/wir geschwygen der an=\ndren. Und darum so haben wir fölichen handel/vß den\nvier Origenal büchern/der Notaryen/so die Acten in die\nfåder empfange/gezoge/in Truck vßgan lassen:",
-        "b": "wir geschwigen der\nanderen / Und darum so haben wir / sollchen handell uss den vier original Büchern der\nNotaryen / so die  acten in die fäder empfangen /",
-        "similarity": 0.4857
-      },
-      {
-        "op": "match",
-        "a": "damit\nnit verstande/yemands zezwingen/noch zehindergan/ diß vnser anseche anzenemen/dan allein als vil die gnad\ngottes ein yeden zücht vi ermant.",
-        "b": "gezogen / in truck ussgan lassen / damit nit verstande / jemands\nzezwingen / noch zehindergan / diss unser anssechen anze // nemmen / dann allein alls vil die gnad gottes ein jeden\nzücht und und ermant /",
-        "similarity": 0.566
-      },
-      {
-        "op": "match",
-        "a": "Wir haben ouch vff\nfölichs ein Reformatz gemacht/deso wir vnd die vnsern\nhinfür gelåben werden. Mengklich bittende vi verma=\nnende/dise Acten mit Chri■tenlichem gmit vi bergen\nzemercké/vn die keinerley gestalt noch wag schmachlich\nnoch verachtlich antaste.",
-        "b": "Wir haben ouch / uff söllichs ein Reformatz gemacht / dero wir vnnd die\nunseren hinfür geläben werden / Mengklich bittende\nvnnd vermandende /",
-        "similarity": 0.4667
+        "b": "das erhöuschen hatt / wir geschwigen der\nanderen / Und darum so haben wir / sollchen handell uss den vier original Büchern der\nNotaryen /",
+        "similarity": 0.3636
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "dise acten mit christenlichem gmüht\nvnnd hertzen zemercken / vnnd die keinerley gestalt\nnoch wäg / schmächlich noch verachtlich antasten wir\nwellen ouch /",
+        "b": "so die  acten in die fäder empfangen / gezogen / in truck ussgan lassen / damit nit verstande / jemands\nzezwingen / noch zehindergan / diss unser anssechen anze //",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "damit\nnit verstande/yemands zezwingen/noch zehindergan/ diß vnser anseche anzenemen/dan allein als vil die gnad\ngottes ein yeden zücht vi ermant.",
+        "b": "nemmen / dann allein alls vil die gnad gottes ein jeden\nzücht und und ermant / Wir haben ouch / uff söllichs ein Reformatz gemacht /",
+        "similarity": 0.3556
+      },
+      {
+        "op": "match",
+        "a": "Wir haben ouch vff\nfölichs ein Reformatz gemacht/deso wir vnd die vnsern\nhinfür gelåben werden. Mengklich bittende vi verma=\nnende/dise Acten mit Chri■tenlichem gmit vi bergen\nzemercké/vn die keinerley gestalt noch wag schmachlich\nnoch verachtlich antaste.",
+        "b": "dero wir vnnd die\nunseren hinfür geläben werden / Mengklich bittende\nvnnd vermandende / dise acten mit christenlichem gmüht\nvnnd hertzen zemercken /",
+        "similarity": 0.3333
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "vnnd die keinerley gestalt\nnoch wäg / schmächlich noch verachtlich antasten wir\nwellen ouch / umb kein sach nachlassen noch ver // gönnen /",
         "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Wir wellen ouch vm kein sach\nnachlassen noch vergonne/dz die in ander spraache/dan\nin Tütscher/on vnser gunst/wüssen vnd willen/vßge=\nspreyt werde.",
-        "b": "umb kein sach nachlassen noch ver // gönnen / das die in anndern sprachen / dann in Tütscher / ohn unser gunst / wüssen vnnd willen ussgespreit\nwerden /",
-        "similarity": 0.4898
+        "b": "das die in anndern sprachen / dann in Tütscher / ohn unser gunst / wüssen vnnd willen ussgespreit\nwerden / Das wölle mengklich Christenlicher my //",
+        "similarity": 0.3404
       },
       {
         "op": "match",
         "a": "Sas welle mencklich Christenlicher mey=\nnung (als es ouch beschechen) von vns vffnemen. Sie\nmit syeder frid vnd die gnad Gottes mit vns allen. b",
-        "b": "Das wölle mengklich Christenlicher my // nung (als ouch beschechen) von uns uffnemmen // hiemit sye der frid vnnd die gnad Gottes mit uns\nAllen.",
-        "similarity": 0.5833
+        "b": "nung (als ouch beschechen) von uns uffnemmen // hiemit sye der frid vnnd die gnad Gottes mit uns\nAllen.",
+        "similarity": 0.6047
       }
     ]
   },
   "fine": {
-    "similarity": 0.5315,
+    "similarity": 0.5221,
     "words": {
       "a": 218,
       "b": 211
@@ -100,28 +112,8 @@
     "segments": [
       {
         "op": "replace",
-        "a": "Vored Elen ond yeden from men",
-        "b": "Vorred Allenn vnnd jedenn frommen"
-      },
-      {
-        "op": "equal",
-        "a": "Christen",
-        "b": "Christen"
-      },
-      {
-        "op": "replace",
-        "a": "sye kund vn of fenbar das",
-        "b": "sei kundt und offenbar dass"
-      },
-      {
-        "op": "equal",
-        "a": "vns",
-        "b": "uns"
-      },
-      {
-        "op": "replace",
-        "a": "Schultheiß",
-        "b": "Schult heiss"
+        "a": "Vored Elen ond yeden from men Christen sye kund vn of fenbar das vns Schultheiß",
+        "b": "heiss"
       },
       {
         "op": "equal",
@@ -151,7 +143,7 @@
       {
         "op": "replace",
         "a": "lichtland vil",
-        "b": "Uechtland vill"
+        "b": "Vorred Allenn vnnd jedenn frommen Christen sei kundt und offenbar dass uns Schult Uechtland vill"
       },
       {
         "op": "equal",
@@ -544,7 +536,7 @@
         "b": ""
       }
     ],
-    "ops": 45,
+    "ops": 43,
     "truncated": false
   }
 }

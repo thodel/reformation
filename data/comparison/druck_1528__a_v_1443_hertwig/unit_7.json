@@ -8,7 +8,7 @@
       42
     ]
   },
-  "alignment_score": 0.148,
+  "alignment_score": 0.1441,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -23,29 +23,53 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 8,
-    "matched": 0,
-    "only_a": 7,
-    "only_b": 1,
-    "similarity": 0.0,
+    "units": 13,
+    "matched": 3,
+    "only_a": 4,
+    "only_b": 6,
+    "similarity": 0.3444,
     "pairs": [
       {
-        "op": "only_a",
+        "op": "only_b",
+        "a": null,
+        "b": "41\nUff  sollichs / der Bychtnatter, geredt\nherren\nHerr Martinus buͤtzer / Habe sich sin\nlange red / um one schrifft gefuͤrtt /",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
         "a": "Die erst\n\nAs herr Marthin Buger/hatt ein lange red/ one gschrifft gefurt/vn geben ein exempel/von\neinem Künig/der macht hab in sinem Künig=\nrych gewaltigklich zeregieren/er hatt ouch das\nwüssen der Gesatz/Statuten/vnnd Ordnungen/wie\ners dann genempt hat/das selbig wüssen oder erkennen/",
-        "b": null,
+        "b": "unnd geben ein Exempell / von einem\nkuͤng / der macht habe / in sinem kuͤnigk// rych, gewalttigcklich zuͦ regieren  Er hatt\nouch das wuͤssen der gesatzt /",
+        "similarity": 0.3684
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "Stattuten\nweisß Ich\ndann\nunnd Ordnungen \"Weisß ich \" wie er es dann genampt\nhatt / dasselb wuͤssen oder erkennen\nder Statuten oder gesatzt /",
         "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "only_b",
+        "a": null,
+        "b": "haben ouch\nsine Doctores oder rätt / moͤgen aber\ndarumb / nitt künig genampt werden / Nun sye es hierinn auch allso /",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
         "a": "der statuten vn gesatz/habind ouch fine Doctores oder\nRhadt/mogend aber nit darumb Künig genempt wer=\nden. Nun sye es hierinn ouch also/das man Belybe by\nsant Peter/mag menger predigen oder leren/das sant\nPeter hat geleret/moge aber darumb nit ein houpt ge=\nnempt werden/mangels halb/das er nit hab den gwalt\nzeregieren.",
-        "b": null,
+        "b": "das\nman belibt / by Sant Pettern, mogt\nmancher predigen / oder leren / dasß\nHatt gelert, mog\nSant Petter\naber darumb / nitt ein houpt genampt\nwerden /",
+        "similarity": 0.3171
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "mangellshalb / das er nitt\nhatt den gewallt zuͦ regieren / wenn\nich schrifft darthätte / das Sant Petter / den gewallt / von Christo enpfangen\nhabe /",
         "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "Wenn ich geschrifft darthåte/das sant Peter\nden gewallt von Christo empfange hab/hie off erden/ über die Christenlich Kilch/vnd das nit allein für sich/",
-        "b": null,
-        "similarity": 0.0
+        "b": "hie uff erden / über die Cristen // liche kilchen, unnd das nitt allein fuͦr\nsich / Sunders in ewigkeyt für sich /",
+        "similarity": 0.3478
       },
       {
         "op": "only_a",
@@ -74,22 +98,28 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "41\n* sollichs, der Bychtnatter, geredt\nherren\nHerr Martinus bützer, Habe sich Ein\nlänge red, um aneschrifft gefurtt,\nunnd geben ein Exempell, von einem\nküng, der macht habe, in sinem knugk-\nrych, gewalttecklich zu regieren, Er hatt\nouch das wüssen der gesatzt, Statteten\nweis Ich\ndan\nunnd Ordnungen wie er es genampt\nhatt, dasselb wüssen oder erkennen\nder Statuten oder gesatzt, haben ouch\nsine Doctores oder rätt, mogen aber\ndarinn, nitt künig genampt werden,\nNun sye es hierinn auch allso, das\nman belibe, by Sant Pettern, mogt\nmancher predigen, oder leren, dass\nHatt gelert, mog\nSant Votter\naber darinn, nitt ein houpt genampt\nwerden, man gellshalb, das er nitt\nhatt den gewallt zu regieren, wenn\nich schrifft darthätte, das Sant Petter,\nden gewallt, von Christo enpfangen\nhabe, hie uff erden, über die Cristan,\nliche kilchen, unnd das nitt allein für\nsich, Sunders in ewikeyt für sich, vnnd\nsine Nachkommen, wan Ich das thu,\nSo hoffe Ich darnach, Es sye vmm ein\nkleins zethun, sye auch dehein gottsbestūg,\nOb man schon, den namen eines hoüpts\neinem sollichen Statthaltter Cristi, gönnen\nsye,",
+        "b": "vnnd\nsine Nachkommen / wan Ich das thuͦ / So hoffe Ich darnach / Es sye vmm ein\nkleins zethun / sye auͤch dhein gottslesterung /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "Ob man schon / den namen eines houͦpts\neinem sollichen Statthaltter Cristi / gönnen\nsoͤl /",
         "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.3474,
+    "similarity": 0.3182,
     "words": {
       "a": 246,
-      "b": 180
+      "b": 194
     },
     "segments": [
       {
         "op": "replace",
         "a": "Die erst As",
-        "b": "41 sollichs der Bychtnatter geredt herren"
+        "b": "41 Uff sollichs der Bychtnatter geredt herren"
       },
       {
         "op": "equal",
@@ -98,18 +128,28 @@
       },
       {
         "op": "replace",
-        "a": "Marthin Buger hatt",
-        "b": "Martinus bützer Habe sich"
+        "a": "Marthin Buger hatt ein",
+        "b": "Martinus bu tzer Habe sich sin"
       },
       {
         "op": "equal",
-        "a": "ein lange red",
-        "b": "Ein länge red"
+        "a": "lange red",
+        "b": "lange red"
+      },
+      {
+        "op": "insert",
+        "a": "",
+        "b": "um"
+      },
+      {
+        "op": "equal",
+        "a": "one",
+        "b": "one"
       },
       {
         "op": "replace",
-        "a": "one gschrifft gefurt vn",
-        "b": "um aneschrifft gefurtt unnd"
+        "a": "gschrifft gefurt vn",
+        "b": "schrifft gefu rtt unnd"
       },
       {
         "op": "equal",
@@ -129,7 +169,7 @@
       {
         "op": "replace",
         "a": "Künig",
-        "b": "küng"
+        "b": "ku ng"
       },
       {
         "op": "equal",
@@ -149,7 +189,7 @@
       {
         "op": "replace",
         "a": "Künig",
-        "b": "knugk"
+        "b": "ku nigk"
       },
       {
         "op": "equal",
@@ -159,32 +199,62 @@
       {
         "op": "replace",
         "a": "gewaltigklich zeregieren",
-        "b": "gewalttecklich zu regieren"
+        "b": "gewalttigcklich zu regieren"
       },
       {
         "op": "equal",
-        "a": "er hatt ouch das wüssen der",
-        "b": "Er hatt ouch das wüssen der"
+        "a": "er hatt ouch das",
+        "b": "Er hatt ouch das"
+      },
+      {
+        "op": "replace",
+        "a": "wüssen",
+        "b": "wu ssen"
+      },
+      {
+        "op": "equal",
+        "a": "der",
+        "b": "der"
       },
       {
         "op": "replace",
         "a": "Gesatz Statuten",
-        "b": "gesatzt Statteten weis Ich dan"
+        "b": "gesatzt Stattuten weisß Ich dann"
       },
       {
         "op": "equal",
-        "a": "vnnd Ordnungen wie",
-        "b": "unnd Ordnungen wie"
+        "a": "vnnd Ordnungen",
+        "b": "unnd Ordnungen"
+      },
+      {
+        "op": "insert",
+        "a": "",
+        "b": "Weisß ich"
+      },
+      {
+        "op": "equal",
+        "a": "wie",
+        "b": "wie"
       },
       {
         "op": "replace",
-        "a": "ers dann genempt hat das selbig",
-        "b": "er es genampt hatt dasselb"
+        "a": "ers",
+        "b": "er es"
       },
       {
         "op": "equal",
-        "a": "wüssen oder erkennen der statuten",
-        "b": "wüssen oder erkennen der Statuten"
+        "a": "dann",
+        "b": "dann"
+      },
+      {
+        "op": "replace",
+        "a": "genempt hat das selbig wüssen",
+        "b": "genampt hatt dasselb wu ssen"
+      },
+      {
+        "op": "equal",
+        "a": "oder erkennen der statuten",
+        "b": "oder erkennen der Statuten"
       },
       {
         "op": "replace",
@@ -209,7 +279,7 @@
       {
         "op": "replace",
         "a": "Rhadt mogend",
-        "b": "rätt mogen"
+        "b": "rätt mo gen"
       },
       {
         "op": "equal",
@@ -217,9 +287,19 @@
         "b": "aber"
       },
       {
-        "op": "replace",
-        "a": "nit darumb",
-        "b": "darinn nitt"
+        "op": "delete",
+        "a": "nit",
+        "b": ""
+      },
+      {
+        "op": "equal",
+        "a": "darumb",
+        "b": "darumb"
+      },
+      {
+        "op": "insert",
+        "a": "",
+        "b": "nitt"
       },
       {
         "op": "equal",
@@ -249,7 +329,7 @@
       {
         "op": "replace",
         "a": "Belybe",
-        "b": "belibe"
+        "b": "belibt"
       },
       {
         "op": "equal",
@@ -269,7 +349,7 @@
       {
         "op": "insert",
         "a": "",
-        "b": "dass Hatt gelert mog Sant Votter aber darinn nitt ein houpt genampt werden man gellshalb das er nitt hatt den gewallt zu regieren wenn ich schrifft darthätte"
+        "b": "dasß Hatt gelert mog Sant Petter aber darumb nitt ein houpt genampt werden mangellshalb das er nitt hatt den gewallt zu regieren wenn ich schrifft darthätte"
       },
       {
         "op": "equal",
@@ -309,7 +389,7 @@
       {
         "op": "replace",
         "a": "Christenlich Kilch vnd",
-        "b": "Cristan liche kilchen unnd"
+        "b": "Cristen liche kilchen unnd"
       },
       {
         "op": "equal",
@@ -323,23 +403,13 @@
       },
       {
         "op": "equal",
-        "a": "allein für sich",
-        "b": "allein für sich"
+        "a": "allein",
+        "b": "allein"
       },
       {
-        "op": "replace",
-        "a": "fonder",
-        "b": "Sunders"
-      },
-      {
-        "op": "equal",
-        "a": "in",
-        "b": "in"
-      },
-      {
-        "op": "replace",
-        "a": "ewigkeit",
-        "b": "ewikeyt"
+        "op": "insert",
+        "a": "",
+        "b": "fu r sich Sunders in ewigkeyt"
       },
       {
         "op": "equal",
@@ -348,7 +418,7 @@
       },
       {
         "op": "replace",
-        "a": "vnd",
+        "a": "fonder in ewigkeit für sich vnd",
         "b": "vnnd"
       },
       {
@@ -409,7 +479,7 @@
       {
         "op": "replace",
         "a": "ouch kein gotslestrung",
-        "b": "auch dehein gottsbestu g"
+        "b": "au ch dhein gottslesterung"
       },
       {
         "op": "equal",
@@ -418,31 +488,21 @@
       },
       {
         "op": "replace",
-        "a": "na men eins",
-        "b": "namen eines"
+        "a": "na men eins houpts cim sölchen Statthalter Christi gön nen fölle Buccrus As jr geschrifft sollend darthůn das die regie rung",
+        "b": "namen eines hou pts einem sollichen Statthaltter Cristi gönnen"
       },
       {
         "op": "equal",
-        "a": "houpts",
-        "b": "hoüpts"
-      },
-      {
-        "op": "delete",
-        "a": "cim sölchen Statthalter Christi gön nen fölle Buccrus As jr geschrifft sollend darthůn das die regie rung so Petrus selbs hat thůn mögen jnnha be schrifftlich zereden mögen zů",
-        "b": ""
-      },
-      {
-        "op": "equal",
-        "a": "einem",
-        "b": "einem"
+        "a": "so",
+        "b": "so"
       },
       {
         "op": "replace",
-        "a": "houpt der Christenlichen gemeind machenn dann houpt sin der Kirche ist nach Paulo die Kirch geistlich labendig machen vnd mag sant Peter vnd aller finer nachkom me welche sind allein die so sins geists vn gloubés sind sich nit wyter strecken dann das sy vsserlich das Euan gelium",
-        "b": "sollichen Statthaltter Cristi gönnen sye"
+        "a": "Petrus selbs hat thůn mögen jnnha be schrifftlich zereden mögen zů einem houpt der Christenlichen gemeind machenn dann houpt sin der Kirche ist nach Paulo die Kirch geistlich labendig machen vnd mag sant Peter vnd aller finer nachkom me welche sind allein die so sins geists vn gloubés sind sich nit wyter strecken dann das sy vsserlich das Euan gelium",
+        "b": "l"
       }
     ],
-    "ops": 36,
+    "ops": 39,
     "truncated": false
   }
 }
