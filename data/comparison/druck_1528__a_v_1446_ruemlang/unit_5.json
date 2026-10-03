@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 4,
     "only_b": 3,
-    "similarity": 0.3476,
+    "similarity": 0.3485,
     "pairs": [
       {
         "op": "only_a",
@@ -44,8 +44,8 @@
       {
         "op": "match",
         "a": "Ephe.ij.der kein runtzlen noch masen hat. Ephe.v.vn in vnserem alten gloube/ein gemeinschafft/ der heyligen/welches die vorgenden wort erlüteret/da\nverstand all fromm Christen/das die gemeinschafft der\ngleubigen/",
-        "b": "1\nEin lib chri Eph: j der kein runtzlen noch mesen\nhatt Eph: s und in unsern ale glouben / ein gemein\nschafft der helgen ✳ weliches der vorgang wort erlütret\nDa verstand all frau Christen das die gemenschaften\nder gläubigen\nist die kilch /",
-        "similarity": 0.3947
+        "b": "Ein lib chri Eph: j der kein runtzlen noch mesen\nhatt Eph: s und in unsern ale glouben / ein gemein\nschafft der helgen ✳ weliches der vorgang wort erlütret\nDa verstand all frau Christen das die gemenschaften\nder gläubigen ist die kilch /",
+        "similarity": 0.4
       },
       {
         "op": "match",
@@ -110,16 +110,16 @@
     ]
   },
   "fine": {
-    "similarity": 0.4,
+    "similarity": 0.4007,
     "words": {
       "a": 290,
-      "b": 250
+      "b": 249
     },
     "segments": [
       {
-        "op": "replace",
+        "op": "delete",
         "a": "Die erst Brucht ouch die geschrifft den namen der Kilchen für die gemeine verſamlung allergloubigen in Chrifto vnnd so fürsechen sind zu dem labe welche gemeynd Christus verheyßt zebuwen vesten vin gründen off den velsen der er selbs ist Matth xvj Sise Kilchen nempt diege schrifft",
-        "b": "1"
+        "b": ""
       },
       {
         "op": "equal",
