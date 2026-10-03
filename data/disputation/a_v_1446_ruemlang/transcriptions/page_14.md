@@ -1,12 +1,10 @@
 # Seite 14
 
-1
 Ein lib chri Eph: j der kein runtzlen noch mesen
 hatt Eph: s und in unsern ale glouben / ein gemein
 schafft der helgen ✳ weliches der vorgang wort erlütret
 Da verstand all frau Christen das die gemenschaften
-der gläubigen
-ist die kilch / nu hatt ein erliche
+der gläubigen ist die kilch / nu hatt ein erliche
 gemenschafft etwas darum se gemein litt wie dann
 im gmeine burgerschafft in iren rechten friheiten
 und derglichen gemein hatt also ouch die heilig

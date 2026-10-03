@@ -1,7 +1,6 @@
 # Seite 19
 
 wäre es Hüptchen erlacht
-D
 Züsschen, biewe zu angeschwenden alß er einigen
 und der erligen brieff zu hanen dass Saat
 für das Herren günligest loster das ein
@@ -11,8 +10,7 @@ ersten zu sein leben damahr anzufricht, wie erst
 am jungstn tag verüwett ze veranntwung
 und großer usperger zu ha uff das vrd
 gottes dan der menszz da wo wir
-mässen gemällen, wegen mitt ergt tho,
-d
+d mässen gemällen, wegen mitt ergt tho,
 ist anderden, viel gottes und ein andern
 viel der märschen Bieds geärt uns
 Herrn uffsetz jhrer das wir sind zu

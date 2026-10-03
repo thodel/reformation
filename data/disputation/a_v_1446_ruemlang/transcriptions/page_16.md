@@ -1,6 +1,5 @@
 # Seite 16
 
-15
 nitt usss ein streblichen samen sonder uß ein
 unsterbllichn wurz der wort des läbendig gottes
 der in ewigkeit belibt dann es muss die

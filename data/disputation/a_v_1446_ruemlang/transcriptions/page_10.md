@@ -1,16 +1,14 @@
 # Seite 10
 
 Meister fraun
-vatter
-Irad und frid von gott dem gern vnd unserm
+Irad und frid von gott dem vatter gern vnd unserm
 herrn Jesu Christo Ameni Jr ußerwelten Menner und bruͤder
 Wiewol es sich in aller welt in Mentherlei verfallen, ansechenn
 laßt, das gott vaß übel, über uns ertzürnt sig, so bewisst er
 uns doch sonder grose gnad, welcher wir im nitt gnug mögend
 Danckbar sin, in dem das er ietz allenthalbn alle wellt
 bewegt zuͦ fragen nach der warheit und sich bekümbern der
-nitt
-Ortumb. Darumb on allen zwifel, mit on besondere würckung
+Ortumb. Darumb on allen zwifel, mit nitt on besondere würckung
 deß helgen geists, unser Fursichtigen wisen, vnd gnadigen herrn
 rat und burger, diser loblichen statt Bern, bewegt sind üch
 erbern hochgelerten Christenlichen herrn und bruͦder früntlich
@@ -25,11 +23,8 @@ vrbuttig sind, Vnnd nach Ordnung usszeichnetter Vrticklen
 ouch allen reden so daruß möchten volgen, zu antwurten unnd
 mitt gwaltiger schrifft zuͦbewaren wir betzügen ouch hiemitt
 Das wir wider keinen artickel vnsers alten christenlichen
-Hoc infine
-Sot
 gloubens, nüt üptzir handlen wellend, der Also luter, ich
-gloub in gott vatter etc.
-wir hand ouch nütztt
+gloub in gott vatter etc. wir hand ouch nütztt
 fur vns genom̅en wider den einfaltigen insatz deß
 Nachtmals unsers herrn Jesu Christi, das man bißhar des
 Mess gupt hatt Es bitten uns ouch der heilig paulus das
