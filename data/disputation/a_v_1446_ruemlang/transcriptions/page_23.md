@@ -1,39 +1,29 @@
 # Seite 23
 
-22
 gott und das
 wäre Sie
-vnd 80 ß.
+vnd 80 ß. +
 für gehört
 Oefglich
-+
 E                                                                wahret
 hatt abgesprochen) (und hingewent das es in
 mett vom Bischoff zu Pressburg erkombt
 wie wol er sich zu legen verwürtzt
-Als sie ein pauss
-und alß 8 g.
-p
-gen Eidgößen tod laßen da über-
+und alß 8 g. gen Eidgößen tod laßen da über- Als sie ein pauss
 Da hatt er ein smaczbuch lösen usga und
 et der behuussen und ketzerißen wenig wider
-und zwar
-da er und vier zu geantworten und da
+da er und vier zu geantworten und zwar und da
 statt jo unser all, da er mög
 antwur g vnd diewol nun
-habet si hitzhoppt
-von 13. ein disprae fürgenommen, sonderlichen
+von 13. ein disprae fürgenommen, sonderlichen habet si hitzhoppt
 und sind mitt ir für wilden abgedoriget
 der widg nitt d. T. handlung für
-zeneinet, do habe di
-g. Er bittlig aus
+zeneinet, do habe di g. Er bittlig aus
 gefert und ein g'antwie erlangen, das
 sz gad In gestriben, mitt der ob zu der
-bedur das
-Eo
+Eo bedur das
 und hürdig der warheit der kosten hab zu er gottet
-Hochbrief
-eror hatt sich vermänd erlaßen ist.
+eror hatt sich vermänd Hochbrief erlaßen ist.
 Ich vnd wonen
 gesch. ✳ und so er mitt erschieden haben
 Si ouch nun hatt anbere Imzestriben das

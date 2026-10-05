@@ -1,24 +1,25 @@
 # Seite 24
 
+Ihr kann
+an fürde.
+Sondt Schulmeyn
+und zu Gunsten
+theit und gott
+dorvon
+onus begraben
+zweit zug
 Bln
 Das Si die schlussreden ouch geprediett, und haben hir
 Cristenlichen und gesproben biß uff der 4 märkte,
 Nemmingen, das Ir herr von weinung Si
-Ihr kann
-an fürde.
 har beschriben hie der warheit ploss, und hand
 die Zürichl pſſach und gebeut sie iristenwegen
 und land si bliben,
 nach
 Diew: l nun g. h. diß gesprech angesechen, das ein nitt
-Sondt Schulmeyn ein einen offenlichen vor kinder und diewil er Bergerichten
-und zu Gunsten
+ein einen offenlichen vor kinder und diewil er Bergerichten
 geschoben (woll er verantwysen) und halt zu flüh
-theit und gott
 eristenlichen.
-dorvon
-onus begraben
-zweit zug
 Lindow,
 Bekan̄t die ouch und hand Si gelern, und und
 bekom̅en alß cristaulis, mitt erbieten ze erhält,
