@@ -4,9 +4,7 @@ Kresidens, das mir Herr Gloßheid mitt gestrifft
 H Hans das sin glauben vor 1.m. zuvor disputieren
 dorbi well er belieben,
 NB. er hab zu gestagt, was die Christi Eöllen
-dixit, alle hat der gebügen v. ob an grieben
-das von gotten
-dixen haben
+dixit, alle hat der gebügen v. ob an grieben das von gotten dixen haben
 B. Wiß fisch rajus dixim zu Wienn gottes
 Berch: das, das das Inhalt und gegsam ge-
 schrifft dargeleit die sölle er umstoßen,
@@ -18,8 +16,7 @@ und hetig kun, und weiss keine, und
 well das glombt das Concilia genanten.
 Hans von Murz Appelouit,
 Völrich der belffen Approbier
-ma
-Lienhart Mertt Approbauit
+Lienhart maden Mertt Approbauit
 Prior und Convent zum predicirt der Statt
 Bern, von vermessend sich hundertig Zeptell
 und wil der für zu pfaltihaben und wil hoffen
@@ -35,8 +32,6 @@ Nun das recht seyn das ander hofte, weilen geremm, scripsa-
 geregen wen.
 Moryen wie pior das er onz also,
 Conal rett der prior das er mitt anderst
-mittbruder
-wüsse do das sind
-ge habe alß er
+wüsse do das sind mittbruder ge habe alß er
 Sryend aber nitt allhie und wellend Ir Arrwirt
 geschrifft herleggn.

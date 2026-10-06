@@ -11,11 +11,8 @@ war gerecht und woll und rißenlichen und
 welle daruff sterben
 Apt von trub, das er nitt well widerfahrn,
 und erkam zu gerecht und gön
-er noch
-das kann guter Christi
-Probst von Wiltz und und Jachsz,
-noch
-darwider solle reden
+Probst von Wiltz das er noch kann guter Christi
+darwider solle noch reden und Jachsz,
 Probst von Ettisswil, welßh
 Probst von Wangen, approbanitt
 Probst von Buchss Approbanitum in krefftj erkennen
@@ -28,12 +25,10 @@ Crobst und Stifft hera zu Wienn, das Si Blatz hergend
 probst wil darbi beliben, und dubi, wie herr
 Beschold gerett und geb zu gönn und gewesen
 senger) weißt nit und approbirt zu
-Herr Jorg von Kennipal gcristenbitz und
-gewehr
+Herr Jorg von Kennipal gcristenbitz und gewehr
 Herr Josti, Herr Hans Jstensmid, Herr Hans
 schirmeyer, Herr Urba Baüngen,
-von Uolrich
-Am Hennrich Pfister,
+von Uolrich Am Hennrich Pfister,
 Caplanten herr Hans Täschenmayer approben,
 schott inn umb gott
 vollendert
