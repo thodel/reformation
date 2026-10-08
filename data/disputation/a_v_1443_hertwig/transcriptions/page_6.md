@@ -1,6 +1,5 @@
 # Seite 6
 
-itien
 Meister Frantz kolb /
 II Gnad vnnd frid / von gott dem Herren,
 vatter / vnnd unnserm herrn Jesu Crist /
@@ -13,7 +12,6 @@ Welcher wir / im nitt genuͤg mogen dank //
 bar sin / Jn dem das er jetz allenthalben / alle
 wellt bewegt / zuͦ fragen nach der warheyt /
 unnd sich bekuͤmmern der Jrrthuͤm / darumb
-„nitt-
 on allen zwyfell / statt  nitt on besundre wuͤrckung /
 des heiligen geists / vnnser fürsichttigen
 wysen / vnnd gnaͤdigen herren / Raͤtt vnnd

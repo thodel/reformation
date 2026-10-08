@@ -1,6 +1,5 @@
 # Seite 7
 
-K.
 Das wir wider / keinen artickell / unnserg
 Altten Cristenlichen  gloubens / utzit Han //
 dlen woͤllen / der allso luͤttet / Ich geloub
