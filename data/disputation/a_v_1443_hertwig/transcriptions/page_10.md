@@ -1,9 +1,5 @@
 # Seite 10
 
-verd
-erst
-mpt
-Den
 Die possess vnd gewerd der kilchen Dise / vnnd
 derglychs / So taͤglich in gemeiner red sind /
 hand vnns bewaͤgt / das wir mitt diser Schlusß,
@@ -11,21 +7,18 @@ red / j gegriffen / Alls das vnns der Herr /
 uß dem schatz goͤttlicher schrifft / zeleren ver //
 lychen hatt / damitt wir min verstanden /
 Was der namenn kilch / uff Jm trag / wüssen
-das
-all gelerten / das wortt ecclesia  / ecclesia / grie //
+all gelerten / das das wortt ecclesia  / ecclesia / grie //
 schisch / vff tuttsch ein versammlung heisset / alls
 wir haben Numeri / 20 / Warumb hast vß //
 gefuͤret die gemeind des herrn in die wüste,
 Hie sächen ir / das nitt suͤnder personen / Suͤn //
-er
-ders die ein gantze gemeind der kindern von
+ders die er ein gantze gemeind der kindern von
 Iszrahell / Ein kilchen genampt wirdt / da //
 har die geschrifft, die der versammlung / gutter
 vnnd boͤser / weniger vnnd viler / Ein kilchen
 genampt / alls Paulus schribt / der kilchen /
 die / in Cornitho Ist / j ͦ  Cornithiorum, jͦ /
-Cristus
-unnd disen gebuͤttet / den Sunder / So zwey
+unnd disen Cristus gebuͤttet / den Sunder / So zwey
 mal / ermandt, vnnd sich nitt besßert / der
 kilchen fuͤrzetragen / Also verglychett er si /
 dem Acker / des guͤtten samens / vnnd unkrutts /

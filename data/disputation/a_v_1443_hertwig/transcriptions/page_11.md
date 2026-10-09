@@ -1,6 +1,5 @@
 # Seite 11
 
-8
 Ein gspons / Johannis 3 ͦ / Ein lyb Cristi /
 ad Ephesios 4 ͦ / der kein rüntzelln noch
 masen / Hatt / ad Ephesios 5 ͦ  unnd in
@@ -19,8 +18,7 @@ geist / ein herr / Ein glary glouben / ein
 touff / Ein gott / unnd vatter unnser aller /
 Sovil mir / in der gantzen wellt / zer /
 streuet / in disem gemeinschafft hand /
-Diser
-machen si ein kilchen gottes /
+machen si ein kilchen gottes / Diser
 kilchen houpt ist Cristus / Ephesiorum
 5 ͦ  / ir wyber sollen gehorsamen / uͤweren
 mannen / Alls dem herren / dann der man

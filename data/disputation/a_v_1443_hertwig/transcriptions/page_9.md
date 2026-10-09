@@ -1,6 +1,5 @@
 # Seite 9
 
-nach
 wie all In gefurt werdind, Jn war erkantnisß
 unnsers Edlisten Herren / Jesu Cristi / des ge //
 kruͤtzgten /  Amen /
@@ -13,8 +12,7 @@ lich kilch etc. Solliche allso uwer lieb fur //
 zetragen / hatt unns verursachet / zum ersten
 das das gemein volk / zu merem teyl / nitt
 verstatt / was der namen / kilch uff Jm
-die pficht
-trag / bzum andren, das die se semlicher
+trag / bzum andren, das die pficht se semlicher
 vnwüssenheyt, des volks / nitt recht gebrucht /
 die kilchen / in mancherley kilchen geteilt Ha //
 ben, jetzt und  ein all gemeine / dan ein versammlung

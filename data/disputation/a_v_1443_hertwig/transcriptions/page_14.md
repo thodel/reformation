@@ -1,7 +1,5 @@
 # Seite 14
 
-und
-13
 was die schrifft die kilchen naͤmpt / nammlich
 die versammung / nitt der Cardinaͤlen / Bischof /
 fen / unnd geistlich hoffgesind / Sunder dero
@@ -24,9 +22,3 @@ wuͤrdigen bruͤdern / nitt kristenlich oder
 eins vnbillichen furnämmens achtete /
 Sind wir ouch bereyt sollichs zuͤverant //
 wurttin /  Nun wallte sin gott /
-llen
-den
-eine
-3 volle
-ben
-8

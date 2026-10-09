@@ -1,7 +1,5 @@
 # Seite 12
 
-Giuseppe
-obtinuit
 mitt vns  / in aller unnser schwachheyt / ad he //
 breos 4 ͦ / dan diewyl gott sin einigen suͤn /
 fur uns dargestreckt / wie ware möglich / das

@@ -1,6 +1,5 @@
 # Seite 13
 
-828
 Vnnd ernuͤwerung der hertzen / naͤnne ich ein
 geburtt der kilchen 1 ͦ Petri 1 ͦ capite / haben
 einandren inbrünstig lieb /  von reinem
@@ -24,8 +23,7 @@ wurdt / Allso belibt si Jn Jm / Hangett Jm
 Allein an / vnnd hörtt nitt die stimm des
 Frömden / das ist das Cristus bezügett mitt
 der glychnuss / des Hirtten / unnd der schaͤff //
-lin /Johannis 10 ͦ
-Die Schäfflin vollgen
+lin /Johannis 10 ͦ Die Schäfflin vollgen
 im / dann si erkennenn / lassen inen gevallen
 sin stimm / dann si versichertt sind durch den
 heiligen geist / 2 ͦ Corinthienen 1° capite /

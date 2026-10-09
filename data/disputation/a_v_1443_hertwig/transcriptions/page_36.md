@@ -1,51 +1,50 @@
 # Seite 36
 
 35
-stänlichen kilchen, hie uff erden, Satzte einen
-1. Alls durch sin verordnett gesatzt
-durch die
-„ unnd
-houpt-Statthaltter, regieren wöltte, unnd wy-
-sen, In einem tugentrichen Cristanlichen leben,
-das er, das gethan habe, Zörgt zum ersten
-an, die verheissung oder vorneckündung
-an.
-Die geschriben statt, Johannis 1, Da Cristus
-sprach zu Petro, Du bist Simon Johanns,
-Du würdtst hinfür geheissen zephas, Item
-Zuo sollichem
-Verchtold geantwurt
-der
-Lieben frommen Cristan, Es hatt
-der Bichtnatter anzöge, das das
-Houpt nitt allein geb. Das leben
-dem lÿb, Sunders hab ouch ander
-eygen schafften, den lÿl zu regieren
-In sinen usserlichen wercken so
-hvnnd
-übüngn,
-Christus Sin lyblich sichtbarlichen
-men
-gegenwurttikeyt hab-
+stenlichen kilchen / hie uff erden / satzte einen
+Alls durch sin verordnett gesatzt
+durch die er
+„ unnd"
+houpt / "unnd" Statthaltter / durch die er/ regieren wöltte / unnd wy //
+sen / In einem tugentlichen Cristenlichen leben /
+das er / das gethan habe / Zeigt zum ersten
+an / die verheissung oder verckündung
+am
+Die geschriben statt / Johannis am j ͦ Da Cristus
+sprach zuͦ Petro / Du bist Simon Johannis /
+Du wuͤrdest hinfuͤr geheissen zephas / Item
+Zuͦ sollichem
+Herr Berchtold geantwurtet /
+Lieben frommen Christn / Es hatt
+der Bichtvatter anzeygt / daß das
+Houpt nitt allein gebe  Das leben
+dem lyb / Sunders hab ouch ander
+eygenschafften, den lybl ze regieren /
+In sinen usserlichen wercken 8 so
+8 vnnd
+uͤbungen /
+Christus Sin lyblich sichtbarliche
+nun
+"gegenwerttikeyt hab"
 Habe er
 genommen
-höf vf
-eyff einigen
+höf vff
+eyff eignen
 Ein Heupt
-uff ertrich sinem lyb gelassen
-1
-in kilch
+uff ertrich sinem eignen lyb gelassen
++
+"ein kilch"
 zu einem
-zu regieren + Jagt er dazu
+zu regieren + sagt er dazu
 Co
-tugentrichen
-leben,
-die eygenschafft des Höuptes Cristi,
-Ist auch die, das er die regiere, alls
-ein furst, unnd gebietter, Ezechielis
-Item das er sin lyb, re-
-Am 37.
-giert, schirmt, unnd fürtt, ist alle schrifft
-voll, dan es spricht gott durch den
-propheten), Es würdt ein einiger kung
-sin, der Jedermann gebüttet, Es vermag
+tugendlichen
+leben
+die eygenschafft des Houptes Christi /
+Ist auch die / das er die regiere / alls
+ein furst / unnd gebietter / Ezechielis
+Item das er sin lyb, re //
+Am 37 /
+giert / schirmpt / unnd fuͤrtt / ist alle schrifft
+voll / dan es spricht gott durch den
+propheten/ Es würdt ein einiger kuͤng
+sin / der Jedermann gebuͤttet / Es vermag

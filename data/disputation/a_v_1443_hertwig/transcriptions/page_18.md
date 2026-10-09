@@ -2,45 +2,30 @@
 
 getruwe
 wüsse
-sind
 Syttenmal vil sind,  sind die unns
-anzuͤchen
-alle abbtrünnig
-"heiligen"  christanlichen kilchen /
-von der
+anzuͤchen alle abbtrünnig
+von der "heiligen"  christanlichen kilchen /
 Des wir ansechen  für / das
 aller gruͤwenlichst laster / das einem
-uff gehept
-Christen / mag
+Christen / mag  uff gehept
 werden.
 mit ein Voch mitt
-dasselb
 kurtzen begehr dasselb  zuͦverantwurtten /
-Christen
-Es statt einem jeden Christen
+Es statt einem jeden Christen  Christen
 zuͦ / sin leben darnach zuͦrichtten /
-juͤngsten tag tag /
-hat er des Herrn
-unnd grossest groͤsß
-Zuͦveranttwuͤrten /
+hat er des Herrn  juͤngsten tag tag /
+Zuͦveranttwuͤrten /  unnd grossest groͤsß
 uff suͤchen zehaben, uff das ur //
-dann der möntschen
-teil gottes /
-"woͤllen"
-wie den den
-den wöllichen
-"gevallen"
+teil gottes / dann der möntschen
+den wöllichen "woͤllen" wie den den
 moͤntschen" gevallen" mogen wie nitt diener
 gottes sin /
 So ist ein annderst Vrtteil gottes
 von den möntschen
-"vnns allen"
 hieruͤmm gebuͤrtt uns allen  sich ein uffsächen
-die kilchen
 zuͦ haben /
-"uff schlechte"
-gottes / unnd nitt  uff die
+die kilchen
+gottes / unnd nitt "uff schlechte" uff die
 schlechtten / vermischten kilchen /
-wie durch alle prophe //
-wir
+wir wie durch alle prophe //
 ten unnd schrifft finden/
