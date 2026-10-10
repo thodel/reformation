@@ -5,47 +5,47 @@ Herr Jost
 Herr Hanns Isenschmid
 Herr Hanns Schürmeyer
 Corherrn
-Henrich
+H. hanns Heinrich
 gelycher
 da
-Steinhower
+Steinhowser
 gestallte
-d.
-H. Urbau Bonngartter,
-applan zu Sant Vincentzen
-der Hanns Läschenmacher, gere
-gibt inn, gerecht, unnd guott,
-Herr dimmitte, consentiert absens,
-Micholl
-Herr Cristan Schaller, bekennt Ins
-vol gerecht, vnnd gutt, vnd gegründt
-im wortt gottes
-destermin-
-Herr Wallther, ouch,
-gevollt Inn
+H.
+H. Urban Boumgartner,
+Capplan zu Sant Vincentzen
+Her Hanns Läschenmacher, gere
+gibt inn / gerecht, unnd guͦtt /
+Herr Dimmitte, consentiert absens /
+Michell
+Herr Cristan Schaller, bekennt fuͤnf
+vol gerecht, vnnd guͦtt, vnd gegründt
+im wortt gottes /
++destermin /
+Herr Wallther / ouch /
++gewallt Inn
 der nitt
-desszohalb wol
+desßhalb wol
 sye
-Jerr Niclaus Kleberger,    consentiert
+Herr Niclaus Kleberger +   consentiert
 das
-nott, noch
-dagt er beken ristus ein houpt
-eines hoüp-
-tes
-unnd den Bapst darmitt, wie ein hoüpt
-man̄ im velld darzu gelychnott, allso müsse
-Cüstus ein Statthalter haben,
-dazu
-Berchtold, geredt, Er
-er-
-verstande,
-Wie Herr Niclaüs bekenn, Cristinn
+nitt / nach
+sagt er bekenn das Christus ein houͦpt
+sines houp-
+tes /
+unnd den Bapst darmitt / wie ein houͦpt //
+mann im velld darzu gebychnott, allso muͤsse
+Christus ein Statthalter haben /
+Darzuͤ
+Berchtold, geredt / Er
+Herr
+verstande /
+Wie Herr Niclauͤs bekenn / Christus
 in für ein hoüpt, unnd den Bapst
-für sinen Statthaltter, unnd begertt
-er sölle, mitt Schnifft erzögen,
-Das Cristus nitt genugs an Ih vnnd des
-H für ein hoüpt der Cristanheÿt,
+für sinen Statthaltter / unnd begertt
+er sölle / mitt Schnifft erzöigen /
+Das Christus nitt genuͦgthan  8 vnnd des +
+8 für ein hoüpt der Cristanheyt /
 + Bapstes
-darin not-
+darzunot //-
 turfftig
-sye,
+sye /

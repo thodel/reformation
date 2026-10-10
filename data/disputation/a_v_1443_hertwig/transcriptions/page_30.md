@@ -1,18 +1,18 @@
 # Seite 30
 
-Dazu, Herr Niclaus gesagt, der
-Cristus Sye zu H immell gefaren, müssen
-F. Fr.
-annder houpt, unnd Statthalter hie haben
+Dazu, Herr Niclaus gesagt / der
+Christus Sye zuͦ Himmell gefaren / müssen
++ er
+annder houpt / unnd Statthalter hie haben
 ein
 sölle diser
-red inne-
-uff sollichs, Herr Berchtold gesagt,
+red innge //
+uff sollichs, Herr Berchtold gesagt +,
 denck sin
 So man
 von dem
-Cristus Jesuotst zu Himmell gefaren,
-Sacramenti
+Cristus Jesus ist zu Himmell gefaren /
+Sacrament
 (inem) oder
 ten, da im aller gewaltte, von
 vatter
