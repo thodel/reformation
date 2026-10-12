@@ -26,7 +26,6 @@ bekennen urbittig sind, vnnd nach ordnung
 ußzeichneter artickeln / ouch allen reden so dar
 uß mochten vollgnädigen zu antwurten unnd
 mitt gwalltiger schrifft ze bewarenn
--
 Wir bezügen ouch hiemitt das wir wider
 kemē artickell vnsers allte christenliche
 glonleus utzit hanndeln wellen, der allso

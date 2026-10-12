@@ -1,9 +1,5 @@
 # Seite 10
 
-alles
-Bern
-Evn
-Ere
 verwäst
 Die 1 slußred
 sich semlicher unwüssen heut des volcks nitt recht

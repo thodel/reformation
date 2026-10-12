@@ -11,7 +11,6 @@ d  e k
 die geschrifft die ppsamlung gutter vnnd böͤser
 waniger vnd vilen ein kilchs nempt/ alls zan
 heibt der kilchs die die eiin locntho ist
-44
 1. d Cocp: 1. vnnd deser gebutett den sunder so
 we    eet de
 kilche hinzetragt/ alle verglichet er sy dem

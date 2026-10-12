@@ -1,66 +1,61 @@
 # Seite 22
 
+V mit der
+Er luetterung
+Oekolampa //
+dij
+8 die si ge//
+hört haben /
+A unnd si
+habe lassen
+ußgan vnnd
+diewyl der //
+selb Prediger /
+nachdem er
+durch min
+herrn suͤn //
+derlich beruffen
+nitt erschine
+begertt, das
+Buchlin zu /
+verantwurtten
+Ist diser zytt
+angestellt.
 Von
 Müllhußen /  Sind erschinen
 ettlich predicanten / die
 Bekennen sich / der ersten Schlußrede //
-V mit der
 alls Christenlich  unnd / recht / ha //
-Er luetterung
 ben die gepredigett zuͦ Mullhuͦsen
-Oekolampa //
 beken halten die / fuͤr guͦtt unnd gerecht V
-dij
 unnd wo jemand von Müllhusen
-8 die si ge//
 der darwider sin wöllen, wölte / 8
-hört haben /
 dem wuͤrden si / mitt red unnd
 antwuͤrtt begegnen / unnd
 Von Rottwyl / ist niemand erschinen
 uff sollichs Die Predicanten / haben an //
 gezogen, das Buͤchli / So ein pre //
-A unnd si
-habe lassen / diger genampt Herr Georg Nuͤwdorffer
-ußgan vnnd
+diger genampt Herr Georg Nuͤwdorffer
 daselbs zuͦ Rottwyl / wider dise disputation A
-diewyl der //
-selb Prediger /
 Alls die Grawenpuͤnder berüfft
-nachdem er
 Ist erschinen Melchior dem tillman 8
-durch min
 Hatt angezoͤigt / wie er disen ar //
-herrn suͤn //
-" unnd Brättigow"
-derlich beruffen
 tickell / in den punden " und Brättigow" gepredigett
-nitt erschine
 sye von sinen herren / har //
-begertt, das
-Buchlin zu /
-D. De Denselben
-gewisen / moge er ihnen den
-"sin loco"
-verantwurtten
-artickell / behaltten
-Ist diser zytt
-♀
-angestellt.
-Ist bereyt das
-in namen des fridens /
-+
-zethuͤnd / dan sich ettlich berümpt II
-damitt
-Sye im von
+gewisen / moge er ihnen den D. De Denselben
+♀ artickell / "sin loco" behaltten
+in namen des fridens / Ist bereyt das
+damitt zethuͤnd / dan sich ettlich berümpt II
 min Herrn mitt vorgericht angetastet /
-ettlichen priestern
-für gehaltten /
 E uff iren kosten,
+8  hatt sin protestation schrifft //
+lich ingelegt / uff meinig
+harnach vollgend /
 II Harzukom //
 men / vnnd
-8  hatt sin protestation schrifft //
 wider Inn zuͦ
-lich ingelegt / uff meinig
 disputieren
-harnach vollgend /
++
+Sye im von
+ettlichen priestern
+für gehaltten /

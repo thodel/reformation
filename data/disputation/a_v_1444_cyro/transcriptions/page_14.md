@@ -1,6 +1,5 @@
 # Seite 14
 
-13
 geburt der kilchen, j pet. 10 habend einander
 inbrunstig lieb von remen hertzen, alls die wider
 geboren sind, nitt vß eim sterblicher somen sunder

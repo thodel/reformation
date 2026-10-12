@@ -1,50 +1,49 @@
 # Seite 38
 
 37
-Es erzöigt sich wol, zu den Gala-
+Es erzeigt sich wol  zu den Gala //
 wöllich die frücht des geistes
-thern,
-syen, die unns dehem creatür geben
-mag, Der Spruch Jo .16 lütet
-1 Harzn
-zogen
-allso du bist Simon ein Sun Jona,
-Du bist genampt Cephas, wollichs
-Verdoll mettschett würdt, ein Fellser, das
-vermag nitt, das Petrus ein houpt sye,
-Petrus Jst ouch ein stein, nitt des funda-
-ments, oder grundtstein, ouch nitt ein
-egkstein, Sunders der uffbuwen wurdt
-uff das fundament, wöllichs Cristus
-Ist, wie er selbs bezügett, in siner
-ersten Epistell, Cap. 2o Das wir all
-söllen geluwen werden, zu einem hus
-gottes, alls läbendig stein, daruss ge-
-nugsam verstanden wurdt, das Petrus
+thern / 5 ͦ
+syen, die unns dehem creatuͤr geben
+mag / Der Spruch Jo  j ͦ +. harge // zogen  +  lütet
++harge//
+zogen+
+allso du bist Simon ein Sun Jona /
+Du bist genampt Cephas / woͤllichs
+Verdoll mettschett wirdt / ein Fellser / das
+vermag nitt / das Petrus ein houpt sye/
+Petrus Jst ouch ein stein / nitt des funda-
+ments / oder grundtstein / ouch nitt ein
+egkstein / Sunders der uffbuwen werdt
+uff das fundament / woͤllichs Christus
+Ist / wie er selbs bezuͤgett / in siner
+ersten Epistell / Cap.  ͦ Das wir all
+soͤllen gebuwen werden / zuͦ einem hus
+gottes / alls laͤbendig stein / daruss ge //
+nugsam verstanden werdt / das Petrus
 + Es Ist
-ein Stein, Ein Fellser, darum das er
-ein äme,
-den waren fellsen bekandt, aber
+ein Stein /  Ein Fellser / darum das er
+ein an //
+den waren fellsen bekandt / aber
 der wörtt
-li, Es
-das er nitt ein hoüpt genampt würdt,
-das wörttli
+li Es
+das er nitt ein houͤpt genampt würdt /
+das wörttli / Es
 Zephas,
-Hoüpt
-darzu Is
-Griechisch-
-sy Geist,
-In Grün, nitt, Grästhich, Sünders Seysch,
-das
-Cristus geredt hatt
-in wöllicher sprach,
+Houͤpt
+das zuͦ
+Griechisch /
+sy Geist /
+In Grün, nitt, Griechisch /  Sünders Syrisch,
+"das"
+Cristus "das"geredt hatt /+
+in wöllicher sprach /
 scher sprach
-kophali
+kephale
 wöllend ir wytter darzu reden mogen
 Bychtiger
-Uff sollichs, der „ Läßmeister„ geant-
-württ, ir haben, vil schrifft, darbracht
-unnd grund dargethan nitt nott
-zuerzellen, die all bewären wol,
-ristus, die heilig Cristanlich
-das
+Uff sollichs / der „ Läßmeister„ geant //
+württ / ir haben, vil schrifft, darbracht
+unnd grund dargethan nitt not
+zuerzellen / die all bewären wol /
+das Cristus, die heilig Cristanlich

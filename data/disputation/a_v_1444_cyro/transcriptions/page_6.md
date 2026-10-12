@@ -1,12 +1,10 @@
 # Seite 6
 
 vacat
-♂
 Acta Martis 7 Januarij 1528
 ante meridien,
 stat hie President ein red vnd augsagt die
-Reor.
-predicanten ir sach anfachen, uff sollichs
+Reor. predicanten ir sach anfachen, uff sollichs
 Erstlich haben die predicanten ent-
 vorred than, in form vnnd gstalt
 alle harnach vogt vnnd meyster frantz die
@@ -16,13 +14,12 @@ das nachtmal Chri etc. unnd offnerschuld ge-
 sprochen, sampt dem gnedigen noster, und ane mora
 Darnach her berchtoldus Haller predicant
 sin vorred eroffnett, vnnd slussrede
-pf.
-volgt jnd hud  her
 von wort zwort wie zarnach
+volgt jnd hud  her
 fratzen vorred, volgt negleitt.
 M. Frannczen Kolber predicante
-Gnad vnnd frid von gott dem zu vatter
 Sei Bernn vorstend
+Gnad vnnd frid von gott dem zu vatter
 vnnd vnnserm herrn Iesu Christo Annen
 Ir vßerlvellten menner vnnd bruder in
 chro, wiewoll es sich in aller weld, in men

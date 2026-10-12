@@ -1,6 +1,5 @@
 # Seite 12
 
-11
 Die 1 slußviel
 genden wort erlutert, da verstand all frum
 schriften, das die gemeeschafft der gläubigen ist die
@@ -21,9 +20,8 @@ ist sins lybs Heiland, Alls nun der ist ein
 furst vnd huͤrer, ein gebietter ein regierer vnnd
 schirmer siner hußfrouwen, vnnd hatt alle gütter
 mitt irem gmein, duldet ouch sy in aller schwachheitt
-Frist
 alls die blöden geschopfft, allso ist ehrs ein
-furer vnd gepretter, Esa. 55 Ezechi. 37. Ein
+Frist furer vnd gepretter, Esa. 55 Ezechi. 37. Ein
 regierer vnnd schirmer siner gespons der kilchen, vnd
 allso allen sommer in inn verhoffend, vnnd mag
 ein mitliden han mitt vns in aller vnser schwach-

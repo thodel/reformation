@@ -1,28 +1,20 @@
 # Seite 9
 
+vatat
+Die Erste Sluß
+red, vnd derselben
+grund
 Gerchtolders die betrug der
 Ersten slußred eroffnet, das
 wort ecclesia ußglent, etc. alls
 Harnach vogt, die gud der
-vatat
 selben  damitt er die erste
-hat
-Slussred bruestet, wann gschafft
-Ingleitt
-verhast verlaßen, weilend als
+Slussred bruestet hat, wann gschafft
+verhast verlaßen Ingleitt, weilend als
 Horifach volgt
 Hunderman der Erste
-.
-Die Erste Sluß
-Berchtoldus Haller
-[Anlagestrich]
-red, vnd derselben fleißred
-* plln
-er sant zu werm
-hatt
-grund
-Gnad vnnd frid von Gott unnserkeit
-smel
+[Anlagestrich] Berchtoldus Haller
+hatt Gnad vnnd frid von Gott unnserkeit * plln er sant zu werm smel
 schreiben vatter, der well unns senden sin
 Liecht vnnd warheitt in vnnser hertzen
 damitt wir all zugehürt werdind in

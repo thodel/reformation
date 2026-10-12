@@ -2,8 +2,7 @@
 
 Hieob
 Mentag in regum q erat 6. Ianuarii
-gmeindten jederman durch Eehern
-1528. mane,
+1528. mane, gmeindten jederman durch Eehern
 Schulthen empfangen und grützt, demach
 das mandat geläsenn, und die ord-
 nung der disputat etc.
@@ -26,5 +25,4 @@ nostnē, Clanntt den han geistlich oder
 welltlich, so dargege zu holen
 vermeinend, ze disputieren, anlaß
 geben werden moge.
-/
 Füns
