@@ -1,43 +1,43 @@
 # Seite 43
 
 .
-Martinus Bütrer,
-ner.
-Daruff antwürtt Ich, das die schrifft
-söllen darthun, das die regierung
-so Petrus selbs hatt thun mögen,
-inn habe schrifftlich zu reden,
-mögen zu einem Haupt der
-Cristanerlichen gemeind machen,
-dan houpt sin der kilchen, Jst
-nach Paulo, die kilch, geistlich
-lebendig zemachen, vnnd mag
-dant Pettert unnd aller siner
+Martinus Buͤtzer
+"ihr"
+Daruff antwürtt Ich / das "ihr" die schrifft
+soͤllen darthun / das die regierung
+so Petrus selbs hatt thuͦn moͤgen /
+inn habe schrifftlich zuͦ reden,
+mögen zu einem Hauͤpt der
+Christenerlichen gemeind machen /
+dan houpt sin der kilchen / Jst
+nach Pauͦlo / die kilch / geistlich
+lebendig zemachen / vnnd mag
+sant Pettert / unnd aller siner
 die
-Nachkommen, wölliche, sind, allein die
-so sines geistes, vnnd geleibenn
-sind, sich nitt wytter strecken
-Dann das si usserlich das Eüangelium
-predigen, wöllichs doch an alle
-Krafft Ist, der Herr Jesus, das
-dan-
-einich hoüpt, mache, solche
-dan, de prodig
-Im hertzen kräfftig, gott ist gibt
-das wachss vnd, Er h
-Bychtüatter
-Zuo sollichem der Tissmeister, wyter
-gesagt, Herr Marti Büzer,
-Ich hoff
+Nachkommen / wölliche  sind / allein die
+so sines geistes / vnnd gelouben
+sind / sich nitt wytter strecken /
+Denn das si usserlich das Euͤangelium
+predigen / woͤllichs doch an alle
+Krafft Ist / der Herr Jesus / das
+dann
+einich houͤpt /mache, solche
+dann solche predig
+Im hertzen kräfftig "dann" gott ist gibt
+das wachssen / vnd, Er h
+Bychtvatter
+Zuo sollichem der Läßmeistermeister / wyter
+gesagt / + Ich hoff es werd mir nitt schwär zuͦ antworten wertten+ Herr Marti Büzer,
++Ich hoff
 es werd
-Begertt an mich, schrifftlich zubewä-
-mit rütt
-ren, das der heilig Sant Petrus,
+Begertt an mich /schrifftlich zubewaͤ //
+mir nitt
+ren / das der heilig Sant Petrus/
 schwär
-zuverant einen sollichen gewallt habe, oder das
-württen
-die Regierung Jm beürkhen, Sich
-allso wytt erstrecke, das er Inn oder
-sinen Nachkommen, habe mogen
-machen, ein hoüpt, der kilchen, die etc.
-81
+zuͦ antwortten / einen sollichen gewallt habe / oder das
+wertten
+die Regierung Jm bevolchen / Sich
+allso wytt erstrecke / das er Imoder
+sinen Nachkommen /habe moͤgen
+machen / ein houpt / der kilchen / die etc.
+er

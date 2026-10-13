@@ -1,53 +1,48 @@
 # Seite 45
 
 sin-
-,, vest, und
-Hallt Ich genugs am, das Sant Petter
-siner
-unnd annder nachkommen, statt-
+,, vest / und"
+Hallt Ich "Vest und"genugsam / das Sant Petter
+"siner"
+unnd annder "siner" nachkommen statt //
 Haltter
-risti, Haben enpfan-
-gen vff er den Zubinden, vnnd
-des
-gewallt
-entbinden, zuwÿsen, vnnd leren,
-Das gehörtt dem weyden zu, zu-
-Denne
-hab ich bietten, unnd verbietten disern, vnnd
-vorgesagt
-anndern, mindren regierenden
-gönt die
-gent die schrifft, das wort
-schrifft
-anndern Haupt, h Ists clar, an dem ersten
+Cristi / Haben enpfan//
+gen "den gewallt" vff erden Zuͦbinden / vnnd
+"den
+gewallt"
+entbinden / zuwÿsen / vnnd leren /
+Das gehoͤrtt dem weyden zuͤ / zuͤ
++Denne
+hab ich bietten / unnd verbietten/+Denne hab ich vorgesagt /
+goͤnnt die gschrift
+anndern, mindren regierenden / 8
+goͤnt die
+anderen minderen regierenden
+schrifft das wort Haupt
+8 den namen des houpts 8  Ists clar, an dem ersten
 mindren
-fen
-buch der kung, am x
-Appittell
+buch der kuͤng  am xx ͦ
+ten Cappittell
 regierenden
-oder In-
-Sprach Samuel, ussz, dem wort
-H. Den
-namen
-gottes zu Soick, do die klein
-des
-warist In dinen ongen, bist du
-Höripts
-worden ein houpt in den ge-
-thlechtten Iszrahel, Aines
-8to, Die fürnämmißen
-Höüpter, der völcker,
-Martinus büzer,
+"oder In"
+Sprach Samuel  ussß "oder In"  dem wort
+gottes zu Saul /so du klein
+warist In dinen ougen /  bist du
+worden ein houpt in den ge //
+schlechtten Isßrahel / Amos
+am , 6 ͦ Die fürnämmißen
+Höupter / der völcker /
+Martinus büzer /
 .
-Die angezognen schrifft, da¬
+Uff Die angezognen gschrifft / da//
 heilig
-mitt das wort gottes, ernst
+mitt das "heilig" wort gottes, ernst //
 werde.
-lich gehandlot, würd durch mine
-brüder, nach ordnung geantwürt,
-werden, das solt bewären, der
-Bichtuatter, das Sant Petters
-bevelch, in möge zu einem Haupt
-der kilchen machen, darzu Hatt
-er anzogen, das xv Cappittell, des
-ersten buchs Samuelis, da gemeldott
+lich gehandlet "werde" wird durch mine
+bruͤder / nach ordnung geantwurt /
+werden / das solt bewaͤren / der
+Bychtvatter / das Sant Petters
+bevelch / in moge zuͦ einem Haupt
+der kilchen machen / darzuͦ Hatt
+er anzogen / das xv ͦ Cappittell / des
+ersten buchs Samuelis / da gemeldett

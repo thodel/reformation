@@ -1,7 +1,7 @@
 # Seite 42
 
 41
-Uff  sollichs / der Bychtnatter, geredt
+Uff  sollichs / der Bychtvatter, geredt
 herren
 Herr Martinus buͤtzer / Habe sich sin
 lange red / um one schrifft gefuͤrtt /

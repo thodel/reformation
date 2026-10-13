@@ -46,4 +46,4 @@ Uff sollichs / der „ Läßmeister„ geant //
 württ / ir haben, vil schrifft, darbracht
 unnd grund dargethan nitt not
 zuerzellen / die all bewären wol /
-das Cristus, die heilig Cristanlich
+das Cristus, die heilig Christenlich

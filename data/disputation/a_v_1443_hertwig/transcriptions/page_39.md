@@ -12,37 +12,37 @@ ben,
 nach der
 länge
 bewartt,
-klch, selbs lert, unnd regiert, fürtt oüch
-zu einem tugentlichen leben, Aber Ir
+kilch / selbs leert / unnd regiert / fuͤrtt oüch
+zuͤ einem tugentlichen leben / +und was er gredt hab, lass er nach+  Aber Ir
 2
-uff das Herr Berchtold
-gefragt, Ob er, das nachlasse, sagt
-aber
-er, Ja, er habe „ noch hie-
-mitt nitt bewärtt, das Cristus
-Alls das Infliessend houpt, nit
-regiere, die Heilig Cristalichkilchen,
-Durch sin, gesatzten Statthaltter, di-
+Uff das Herr Berchtold /
+gefragt / Ob er / das nachlasse / sagt
+"aber"
+er / Ja, er habe „ aber" noch hie //
+mitt nitt bewaͤrtt / das Cristus
+Alls das Infliessend houpt / nit
+regieret /  die Heilig Cristenlich kilchen /
+Durch sin /gesetzten Statthaltter / di//
 letzt
-ser sprichn deheiner bewärtt dag,
-das das Cristus nitt die kilchen
-regiere, durch sinen Statthalter, in
+ser spruchen  deheiner bewäret das /
+das das Christus nitt die kilchen
+regiere / durch sinen Statthalter / in
 singenlichen
-einem Cristablichen leben,
-Darzu, hatt Herr Berchtelld
-geantwurtt, unnser Schlüssred
-lüttett, etc. ward geläs-
-1 das Cristus
-ich sye unnser eynig houpt,
-der sin kilchen, lert, regiert, fürt, unnd
-bringt, zu einem tugentrichen leben,
-das deheiner Creditur moglich, das
-er aber fürwändt, von einem
-gesatzten Statthaltter, der sollichs
-vermoge, doch zöige das mitt
+einem thugendlichen  laͤben /
+Darzuͦ / hatt Herr Berchtolld
+geantwurtt / unnser Schluͤssred
+luͤttett / +scribatur conclusio + ward geläsßen /
+8 das Cristus
+ich sye unnser eynig houpt /
+der sin kilchen/ lert / regiert /  fürt /unnd
+bringt / zu einem tugentrichen leben /
+das deheiner Creatur moglich/ das
+er aber fürwaͤndt, von einem
+gesatzten Statthaltter / der sollichs
+vermoge / doch zöige das mitt
 der schrifft, dan das Jst Cristnn
-geschmächt,
+geschmächt /,
 herr Martti
-Uff sollichs Ist dargestanden, „ Luzer,
-bei
-unnd geredt,
+Uff sollichs Ist da aufestanden, Buzer /
+und gredt
+unnd geredt, Liebe Brüder
