@@ -1,44 +1,41 @@
 # Seite 47
 
 1.
-sollichs Bychtnatter
-Herr Marti Lützer, langt mich an
-zubewären, das der namm eines haupts,
-Sant Pettern, unnd sinen Nach-
-kommen mog geben werden, Sagt
-zu dem Spruch, am 1ten buch, am
-en Cappittell, den Ich hab In-
-xv
-gefurt, von dem Kunig Sanl
-den zuoverstossen
-unnd in denselben, dochte er mich, habe
-Sagt er
+Uff sollichs Bychtnatter
+Herr Marti Bützer / langt mich an /
+zuͦbewaͤren / das der name eines haupts /
+Sant Pettern / unnd sinen Nach //
+kommen mag geben werden / Sagt
+zuͦ dem Spruch /  am 1 ͦten buch / am
+xv ͦ ten Cappittell / den Ich hab In-
+gefuͤrt / von dem Kuͤnig Saul
+"den zu verstossen"
+unnd in den selben "den zuͦ verstossen", dachte er mich, haben
++Sagt er an alle gschrifft"
 „ ein„
-verstossen, das der neuen, heupt
-Aanalle
-dem Kung weil eigentlich moch
-schrifft
-zu gelegt werden, wen, Sant Petter
+verstossen  das  Saul "ein"  haupt
+dem Kung  der nam  ein haupt
+zu gelegt werden/ wen  Sant Petter
 [Anlagestrich]
-oder allen sinen Nachkommen,
+oder allen sinen Nachkommen /
 A Hab zuge
 hörtt.
-Etzellt allein, die ursach, siner usser
+Er zellt allein / die ursach, siner usser
 vnnd
 lichen regierung unnd sines
-gewalttes, Alls wäre der weltlichen
-gewalt, so ouch von gott Ist rett-
-was grösser, unnd würdiger
-eines sollichn namens, wenn
-das Vicariat, oder Statthalter müpt
-Cristi, vermeindt, darmitt, genugsin,
+gewalttes / Alls wäre der weltlich
+gewalt / so ouch von gott Ist / ett//
+was grösseres, unnd würdiger
+eines sollichn namens/ wenn
+das Vicariat / oder Statthalter amt
+Cristi / vermeindt, darmitt, genugsin,
 Das Sant Petter „ Peder sinenach-
 kommen, nitt mögen hoüpter
 genampt werden So doch einem
-Jeden Cristan, wol wüssend Ist, das
+Jeden Cristn, wol wüssend Ist / das
 das geistlich regieren Jn beyden gesatzen
-geschetzt Jst, Höcher Jn wurdikeyt, an
-unnd gewallt, weder das welltlich, zücht an
+gesetzt Jst / Höcher Jn wurdikeyt / an
+unnd gewallt, weder das welltlich / zücht an
 den Spruch Pauli In der Eppistell
 zu den Chorintern, wie er sich,
-unnd die Lundern, diener erkent,
+unnd die andern / diener erkent,
