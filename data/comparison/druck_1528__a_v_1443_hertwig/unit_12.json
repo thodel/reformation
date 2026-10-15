@@ -8,7 +8,7 @@
       53
     ]
   },
-  "alignment_score": 0.1628,
+  "alignment_score": 0.1744,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,35 +23,41 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 11,
-    "matched": 0,
-    "only_a": 10,
-    "only_b": 1,
-    "similarity": 0.0,
+    "units": 15,
+    "matched": 6,
+    "only_a": 4,
+    "only_b": 5,
+    "similarity": 0.4411,
     "pairs": [
       {
-        "op": "only_a",
+        "op": "only_b",
+        "a": null,
+        "b": "vnnd dienst gelych gehapt / zum andern / So wäre\nPaulus mer / Ein haupt für annder, darum\ndas er mer gearbeittott hatt,  J ͦ Cornithiern 15\nAm dritten /",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
         "a": "IX\nDie erst\nEpistel zun Corinthern/am vv.capitel. Zum dritten\nmacht leren ein zu eim houpt/so volger/das Perrus al-\nlein ein houpt syegsin/da er gelert hatt/",
-        "b": null,
-        "similarity": 0.0
+        "b": "Macht leren einen zu einem\nhoupt / so vollgt das Petrus / allein ein\nhoupt sye gesin / da er gelertt hatt / vnnd die\nandren Appostell /",
+        "similarity": 0.4151
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "vnd die ander\nApostel/ouch allein da sy gelert bertind. Zum vierden/ diewyl weder der Bapst/noch kein mesch/mag ein land/",
-        "b": null,
-        "similarity": 0.0
+        "b": "ouch allein / da si / ge // lert hätten / zum vierden / diewyl weder\nder Bapst / noch kein montsch / mag ein\nland / noch minder die gantze wellt /",
+        "similarity": 0.6087
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "noch minder die gantze welt leren/so volgt das einer nit\nmag ein houpt sin. Zum fünffren/so Perrus zu Rhom\ngelert/wie er doch allein ein hirt/",
-        "b": null,
-        "similarity": 0.0
+        "b": "leren / so vollgt / das einer / nitt mag ein houͦpt sin / Zum fuͤnfften  / So Petrus zuͦ Rom gelert / waͤr er doch /",
+        "similarity": 0.5098
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "vnnd diener der selben\nKirchen/so er ein Epistel zü vns zuschrib/zu vnser vn\nderwysung/wurd er ouch vnser diener sin.",
-        "b": null,
-        "similarity": 0.0
+        "b": "allein / Ein Hirt vnnd diener\nderselben kilchen / So er ein Eppistell zu\nunns schribt / zu unnser unnderwysung / wurde\ner ouch  /",
+        "similarity": 0.4286
       },
       {
         "op": "only_a",
@@ -60,10 +66,22 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
-        "a": "Als Paulus zun Ephefern/am v.capitel/ Elar anzeygt/Christum das houpt der Kirchen sin/dar\numb das er der heylland fins lybs ist gsin/Vnnd so das\nhoupt hinweg genomen wirt/so wirdr ouch alles laben/",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "unnser diener sin / demnach  Hatt\nBuͤzer genuͦgsam anzoͤigt / das das houͦpt\nder kilchen / solche ding gebe /",
         "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "die dheiner\nCreatuͤr / moglich /alls laͤbendig / fromm / gerecht\nunnd saͤlig macht / vnnd die Seelen ernuͤweren / alls Paulus Ephesis /",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "Als Paulus zun Ephefern/am v.capitel/ Elar anzeygt/Christum das houpt der Kirchen sin/dar\numb das er der heylland fins lybs ist gsin/Vnnd so das\nhoupt hinweg genomen wirt/so wirdr ouch alles laben/",
+        "b": "quinto / clar anzaͤigt / Cristum das houpt der kilchen sin / darum\ndas er / der heiland, sins lybs ist gesin / Unnd so das houͤpt, hinwag genommen\nwurdt /",
+        "similarity": 0.3438
       },
       {
         "op": "only_a",
@@ -72,10 +90,16 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
-        "a": "All schriffren/die der vatter harfür bracht/gebend\nnüt anders zu/sant Petern/dann dienstbarkeit:solichs\nerschynen wirt/vs disem vnserm verantwurten.",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "so wurdt ouch / alles laͤben / vnnd wuͤ// ken des lybs stillstan / vnnd allso vermag / das dehem fleisch / dehein staͤrbliche creatur, Ein\nHoupt der kilchen /",
         "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "All schriffren/die der vatter harfür bracht/gebend\nnüt anders zu/sant Petern/dann dienstbarkeit:solichs\nerschynen wirt/vs disem vnserm verantwurten.",
+        "b": "unnd das hatt der Bycht-\nvatter, alles selbs bestättigett, all schrifften,\nder vatter Harfür bracht, geben nitt anders\nDni Santto\nzuͤ \"Santo\"Petro, dann dienstbarkeyt /",
+        "similarity": 0.3404
       },
       {
         "op": "only_a",
@@ -92,22 +116,22 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "vnnd dienst gelych gehapt, zum andern, So wäre\nPaulus mer, Ein haupt für annder, darum\ndas er mer gearbeittott hatt, ja Cornithiern 15\nAm dritten, Macht leren einen zu einem\nhoupt, so vollgt das Petrus, allein ein\nhoupt sye gesin, da er gelertt hatt, vnnd die\nandren Ppostell, ouch allein, da si, ge-\nlert hätten zum vierden, diewyl weder\nder Bapst, noch kein montsch, magem\nland, noch minder die gantze wellt, leren,\nso vollgt, das einer, nitt mag ein houpt sin,\nZum funfften, So Petrus zu Rom gelert,\nwar er doch, allein, Ein Hirt vnnd diener\nderselben kilchen, So er ein Eppistell zu\nunns schribt, zu unnser unnderwysung, wurde\ner ouch, unnser diener sin, Leumach Hatt\nBüzer genugsammen anzöigt, das das houpt\nder kilchen, solche ding gebe, die Beheiner\nCreatur, moglich, allo läbendig, fromm, gerecht\nunnd sälig macht, vnnd die Seelen erinnwren,\nalls Paulis Ephesios, quinto, clar anzöigt,\nCristum das houpt der kilchen sin, darinn\ndas er, der heiland, sing lybs ist gesin,\nUnnd so das hoüpt, hinwäg genommen\nwurdt, so wurdt ouch, alles läben, vnnd wür-\nken, des lybs stillstan, vnnd allso vermag,\ndas dehem fleisch, dehein stärbliche creatur, Ein\nHoupt der kilchen, unnd das hatt der Bycht-\nvatter, alles selbs bestättigett, all schrifften,\nder vatter Harfür bracht, geben nitt anders\nDni Santto\nzu vertro, dann dienstbarkeyt, sollichs erschinen\nwurdt, uss diserm unnserm verantwurtten\nder erst spruch, uss dem ersten Cappittell Johannis",
+        "b": "sollichs erschinen\nwurdt / uss diserm unnserm verantwurtten\nder erst spruch, uss dem ersten Cappittell Johannis",
         "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.4229,
+    "similarity": 0.3653,
     "words": {
       "a": 292,
-      "b": 233
+      "b": 250
     },
     "segments": [
       {
         "op": "replace",
         "a": "IX Die erst Epistel zun Corinthern",
-        "b": "vnnd dienst gelych gehapt zum andern So wäre Paulus mer Ein haupt für annder darum das er mer gearbeittott hatt ja Cornithiern 15"
+        "b": "vnnd dienst gelych gehapt zum andern So wäre Paulus mer Ein haupt für annder darum das er mer gearbeittott hatt J Cornithiern 15"
       },
       {
         "op": "equal",
@@ -197,7 +221,7 @@
       {
         "op": "replace",
         "a": "ander Apostel",
-        "b": "andren Ppostell"
+        "b": "andren Appostell"
       },
       {
         "op": "equal",
@@ -216,13 +240,13 @@
       },
       {
         "op": "replace",
-        "a": "mesch mag ein",
-        "b": "montsch magem"
+        "a": "mesch",
+        "b": "montsch"
       },
       {
         "op": "equal",
-        "a": "land noch minder die gantze",
-        "b": "land noch minder die gantze"
+        "a": "mag ein land noch minder die gantze",
+        "b": "mag ein land noch minder die gantze"
       },
       {
         "op": "replace",
@@ -251,13 +275,23 @@
       },
       {
         "op": "equal",
-        "a": "mag ein houpt sin Zum",
-        "b": "mag ein houpt sin Zum"
+        "a": "mag ein",
+        "b": "mag ein"
+      },
+      {
+        "op": "replace",
+        "a": "houpt",
+        "b": "hou pt"
+      },
+      {
+        "op": "equal",
+        "a": "sin Zum",
+        "b": "sin Zum"
       },
       {
         "op": "replace",
         "a": "fünffren",
-        "b": "funfften"
+        "b": "fu nfften"
       },
       {
         "op": "equal",
@@ -287,7 +321,7 @@
       {
         "op": "replace",
         "a": "wie",
-        "b": "war"
+        "b": "wa r"
       },
       {
         "op": "equal",
@@ -341,73 +375,23 @@
       },
       {
         "op": "equal",
-        "a": "diener sin",
-        "b": "diener sin"
+        "a": "diener sin Demnach",
+        "b": "diener sin demnach"
       },
       {
         "op": "replace",
-        "a": "Demnach bat Burgergnügsam anzeygt",
-        "b": "Leumach Hatt Büzer genugsammen anzöigt"
+        "a": "bat Burgergnügsam anzeygt",
+        "b": "Hatt Bu zer genu gsam anzo igt"
       },
       {
         "op": "equal",
-        "a": "das das houpt der",
-        "b": "das das houpt der"
+        "a": "das",
+        "b": "das"
       },
       {
-        "op": "replace",
-        "a": "Kir chen soliche",
-        "b": "kilchen solche"
-      },
-      {
-        "op": "equal",
-        "a": "ding gebe die",
-        "b": "ding gebe die"
-      },
-      {
-        "op": "replace",
-        "a": "keiner",
-        "b": "Beheiner"
-      },
-      {
-        "op": "equal",
-        "a": "creatur moglich",
-        "b": "Creatur moglich"
-      },
-      {
-        "op": "replace",
-        "a": "als lå bendig from",
-        "b": "allo läbendig fromm"
-      },
-      {
-        "op": "equal",
-        "a": "gerecht",
-        "b": "gerecht"
-      },
-      {
-        "op": "replace",
-        "a": "vnd",
-        "b": "unnd"
-      },
-      {
-        "op": "equal",
-        "a": "sålig",
-        "b": "sälig"
-      },
-      {
-        "op": "replace",
-        "a": "machen vnd",
-        "b": "macht vnnd"
-      },
-      {
-        "op": "equal",
-        "a": "die seelen",
-        "b": "die Seelen"
-      },
-      {
-        "op": "replace",
-        "a": "ernüweren Als Paulus zun Ephefern am v capitel Elar anzeygt Christum",
-        "b": "erinnwren alls Paulis Ephesios quinto clar anzöigt Cristum"
+        "op": "insert",
+        "a": "",
+        "b": "das hou pt der kilchen solche ding gebe die dheiner Creatu r moglich alls la bendig fromm gerecht unnd sa lig macht vnnd die Seelen ernu weren alls Paulus Ephesis quinto clar anza igt Cristum"
       },
       {
         "op": "equal",
@@ -416,7 +400,7 @@
       },
       {
         "op": "replace",
-        "a": "Kirchen",
+        "a": "Kir chen soliche ding gebe die keiner creatur moglich als lå bendig from gerecht vnd sålig machen vnd die seelen ernüweren Als Paulus zun Ephefern am v capitel Elar anzeygt Christum das houpt der Kirchen",
         "b": "kilchen"
       },
       {
@@ -427,7 +411,7 @@
       {
         "op": "replace",
         "a": "dar umb",
-        "b": "darinn"
+        "b": "darum"
       },
       {
         "op": "equal",
@@ -437,7 +421,7 @@
       {
         "op": "replace",
         "a": "heylland fins",
-        "b": "heiland sing"
+        "b": "heiland sins"
       },
       {
         "op": "equal",
@@ -451,13 +435,13 @@
       },
       {
         "op": "equal",
-        "a": "so das houpt",
-        "b": "so das hoüpt"
+        "a": "so das",
+        "b": "so das"
       },
       {
         "op": "replace",
-        "a": "hinweg genomen wirt",
-        "b": "hinwäg genommen wurdt"
+        "a": "houpt hinweg genomen wirt",
+        "b": "hou pt hinwag genommen wurdt"
       },
       {
         "op": "equal",
@@ -471,13 +455,13 @@
       },
       {
         "op": "equal",
-        "a": "ouch alles laben",
-        "b": "ouch alles läben"
+        "a": "ouch alles",
+        "b": "ouch alles"
       },
       {
         "op": "replace",
-        "a": "vnd würcken",
-        "b": "vnnd wür ken"
+        "a": "laben vnd würcken",
+        "b": "la ben vnnd wu ken"
       },
       {
         "op": "equal",
@@ -487,7 +471,7 @@
       {
         "op": "replace",
         "a": "stillston Und also vermagdas Ecin fleysch kein sterbliche",
-        "b": "stillstan vnnd allso vermag das dehem fleisch dehein stärbliche"
+        "b": "stillstan vnnd allso vermag das dehem fleisch dehein sta rbliche"
       },
       {
         "op": "equal",
@@ -567,7 +551,7 @@
       {
         "op": "replace",
         "a": "sant Petern",
-        "b": "vertro"
+        "b": "Santo Petro"
       },
       {
         "op": "equal",
@@ -610,7 +594,7 @@
         "b": ""
       }
     ],
-    "ops": 51,
+    "ops": 47,
     "truncated": false
   }
 }
