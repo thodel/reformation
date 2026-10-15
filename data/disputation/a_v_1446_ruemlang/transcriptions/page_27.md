@@ -21,7 +21,8 @@ Prior und Convent zum predicirt der Statt
 Bern, von vermessend sich hundertig Zeptell
 und wil der für zu pfaltihaben und wil hoffen
 firma gott zu und gitt zu gelegen,
-erben auch gricht beschmeister H. auch ein eiger person erkennen und erst
+erben auch gricht
+gricht beschmeister H. auch ein eiger person erkennen und erst
 für sin phor teßeligen
 habe, dasselb hocht allenigerichteten gesetzt bestätigung der gestreife und
 gepraediett und was

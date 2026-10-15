@@ -13,8 +13,7 @@ und ouch die frömbden sich gesetzt, ward mencklicher gestlich
 und weltlicher durch ein schultheisen zuͦ Bern früntlich
 gerüzett und inen darbi furgehalt ußwal ursachen wegn
 mine z berrn geursachet ein somlicht disputation angesechen
-hett / und damitt ouch mencklicher bercht werde
-ward
+hett / und damitt ouch mencklicher bercht werde ward
 das mandat und unschlagung vorlesenn ouch der
 ordnung so mine z bern angesechen mitt was
 gestalt so welichs gspwaren volfürn und gehalt solte
