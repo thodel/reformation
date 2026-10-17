@@ -8,7 +8,7 @@
       56
     ]
   },
-  "alignment_score": 0.1283,
+  "alignment_score": 0.1369,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 9,
-    "matched": 0,
-    "only_a": 8,
-    "only_b": 1,
-    "similarity": 0.0,
+    "units": 17,
+    "matched": 4,
+    "only_a": 4,
+    "only_b": 9,
+    "similarity": 0.3549,
     "pairs": [
       {
         "op": "only_a",
@@ -48,10 +48,10 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "allein ist Gott der vß eigne gewalt vnd dåtlich die sünd\nverzycht. Esaie pliij Cap. Ich Bins/jch bins der da v\nchilget dine Boßheit/vnd diner fünden wird ich nit mere\ngedencken/vmbmynet willen/",
-        "b": null,
-        "similarity": 0.0
+        "b": "gewallt / vnnd thättlich die Sund verzucht / Jesaje 43 ͦ\nIch bins / Ich bins / der da ußtilliget / dine boßheyt\nunnd diner Suͤnden wurd ich /",
+        "similarity": 0.3793
       },
       {
         "op": "only_a",
@@ -60,77 +60,115 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
-        "a": "So aber\nChristus zügibt Petro vnd den Apostlen die sünd ver-\n3ychen/Binden/losen/glich als ob sy es thilyend/ist dem\nglich das Jhieremie/am ersten Cap.geschreiben stat/da\ngott spricht:",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_a",
-        "a": "Nim war/ich hab mine wort in dine mund\ngeben/das du vßrütist/zerstözist/vnzertrennist/6uw=\nist und pflanzist. Die gibt Gott dem Propheten zu/dz\naber er allein thüt/vnnd in was gestalt der Prophet zu\ndiser sach thut/wirt hieruß vermerckr/so Gott spricht\nich hab mine wort in dinen mund gesetzt /",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_a",
-        "a": "Bedütet das\nder Prophet leeren vi straffen fölle/Hot wirt aber dem\nwo:t denachtruck gebe/also ouch hie so Christus spricht\ndas",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "nitt mer gedencken / umb minent willen / Petrus aber / unnd die\nappostell / verzuͤchen die suͤnd / durch dienstbarkeyt\ndes wirtts /",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "gewallt, vnnd thättlich die Smid verzucht, Es aye 43\nIch bins, Ich vins, der da ußtilliget, dine boßheyt\nunnd diner Sunden wurd ich, nitt mer gedencken,\numb minent willen, Petrus aber, unnd die\nappostell, verzüchen die sünd, durch dienstbarkeyt\ndes wirtts, vnnd verkündung des Enangelinns,\nso si den gleubign zugesprochen haben, durch\nCristum ire sund verzigen sin, vnnd den un-\ngloüligen ire sund bunden sin, So aber Cri-\nsins zuogibt petro, unnd den appostelln, die sund\nverzüchen, bin den, lösen, glych alls ob Si es\nthügen, ist dem glych das Jherennie 1 geschri-\nben statt, da gott spricht, Nunn war, Ich hab mi-\nins wortt, in dinen mund geben, das du uß-\nrüttest, zerstörest, unnd zertrännest, büwest,\nvnnd pflantzestj hie gibt gott dem Propheten,\nzu, das er aber allein thutt, unnd in was ge-\nstallt der Prophet zu diser sach thutt, wurdt\nhieruß vermerkt, So gott spricht, Ich hab mi-\nne wortt, Jn dinen mund gesetzt, Beduttott\ndas der Prophet, leren, vnnd straffen sol,\nGott aber würdt dem wortt, den nachtrük\ngeben, alls ouch hie, So Cristus spricht,\nDas die Appostell, die sünd vergeben, binden,\nvnnd lösen, dient ouch uff das lererampt,\nunnd dienstbarkeyt des wortg, wolches er-\nmässen würdt uss den umbständen, des Han-\nDells, vermerkt, anzoigt Matthi is vnnd\nJohannis 20, Darum dann Marthei 16, hatt\nder Herr fürgesatzt, du bist Petrus ein hell-\nser, gevestigett, grundt Im gloüben, vnnd\nwortt, Harum die wyl du petre, Jm wortt\nund glouben beuestigott, wurd ich dir geben\ndie Schlussell, dieselben hatt er geleistett, Johanns\n20 ✳ nitt allein Petro, Sunders allen appostelln",
+        "b": "vnnd verkuͤndung des Evangeliums / so si den glaͤubign zuͦgesprochen haben / durch\nCristum ire sund verzigen sin, vnnd den un //",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "glouͤbigen ire sund bunden sin / So aber Cri // stus zuͦgibt petro / unnd den appostelln / die sund\nverzuchen / binden /",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "So aber\nChristus zügibt Petro vnd den Apostlen die sünd ver-\n3ychen/Binden/losen/glich als ob sy es thilyend/ist dem\nglich das Jhieremie/am ersten Cap.geschreiben stat/da\ngott spricht:",
+        "b": "lösen / glych alls ob Si es\nthuͤyen ist dem glych das Jheremie 1 ͦ geschri // ben statt / da gott spricht /",
+        "similarity": 0.3396
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "Nimm  war / Ich hab mi// ne wortt / in dinen mund geben / das du uß // rüttest / zerstörest / unnd zertraͤnnest / buͤwest /",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "Nim war/ich hab mine wort in dine mund\ngeben/das du vßrütist/zerstözist/vnzertrennist/6uw=\nist und pflanzist. Die gibt Gott dem Propheten zu/dz\naber er allein thüt/vnnd in was gestalt der Prophet zu\ndiser sach thut/wirt hieruß vermerckr/so Gott spricht\nich hab mine wort in dinen mund gesetzt /",
+        "b": "vnnd pflantzest/ hie gibt gott dem Propheten/ zuͦ / das er aber allein thuͤtt, unnd in was ge // stallt der Prophet zu diser sach thuͦtt /",
+        "similarity": 0.375
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "wuͤrdt\nhieruß vermerkt / So gott spricht / Ich hab mi // ne wortt / Jn dinen mund gesetzt / Beduͤttett\ndas der Prophet /",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "Bedütet das\nder Prophet leeren vi straffen fölle/Hot wirt aber dem\nwo:t denachtruck gebe/also ouch hie so Christus spricht\ndas",
+        "b": "leren / vnnd straffen sol / Gott aber wuͤrdt dem wortt / den nachtruͤk\ngeben / alls ouch hie / So Cristus spricht /",
+        "similarity": 0.3256
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "Das die Appostell / die suͤnd vergeben / binden / vnnd loͤsen / dient ouch uff das leererampt / unnd dienstbarkeyt des worts, welches er//",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "maͤssen wurdt usß den umbstaͤnden / des Han// dells, vermerckt / anzoͤigt Matthi 16 ͦ vnnd\nJohannis 20 ͦ Darum dann Marthei 16 ͦ hatt\nder Herr fürgesatzt /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "du bist Petrus ein fell// ser / gevestigett / grundt Im glouͤben vnnd\nwortt Harum die wyl du petro / Jm wortt /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "und glouͦben bevestigott  wurd ich dir geben\ndie Schlussell / dieselben hatt er geleistett / Johanns\n20 ͦ  nitt allein Petro, Sunders allen appostelln",
         "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.3226,
+    "similarity": 0.3103,
     "words": {
       "a": 297,
-      "b": 261
+      "b": 283
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Dic erst losen sünd verzychen vnd vorhalten ein ding ist so be kennend ir mit vnns das Marthei yvj Capitel Petzo",
-        "b": "gewallt vnnd thättlich"
+        "a": "Dic erst losen sünd verzychen vnd vorhalten ein ding ist so be kennend ir mit vnns das Marthei yvj Capitel Petzo die schlüssel verbey sen vnd Joan im yy Cap geleystet darumb aller span",
+        "b": "gewallt"
       },
       {
         "op": "equal",
-        "a": "die",
-        "b": "die"
+        "a": "vnnd",
+        "b": "vnnd"
       },
       {
         "op": "replace",
-        "a": "schlüssel verbey sen vnd Joan im yy Cap geleystet darumb aller span vnnd Erafft hie hanget was binden vnd låsen Petro zugeb nun gibt",
-        "b": "Smid verzucht"
+        "a": "Erafft hie hanget was binden vnd låsen Petro zugeb nun gibt es nit zu dz er ein houpt sye dann all Apostel haben gliche dienstbarkeit zebinden vnd zelosen Sarumb sag ich Chustenlichen brider dz binden vnd losen verzyhen und verhalten nit anders ist dann leeren das wort Gottes vi predigé das Euan gelium Christi Das sind die schlüssel das ist der höchst gewalt der Petro vnd allen Apostlen geben ist welches alles weder jnn noch kein Apostel zu eim houpt macht allein ist Gott der vß eigne gewalt vnd dåtlich",
+        "b": "thättlich"
       },
       {
         "op": "equal",
-        "a": "es",
-        "b": "Es"
+        "a": "die sünd",
+        "b": "die Sund"
       },
       {
         "op": "replace",
-        "a": "nit zu dz er ein houpt sye dann all Apostel haben gliche dienstbarkeit zebinden vnd zelosen Sarumb sag ich Chustenlichen brider dz binden vnd losen verzyhen und verhalten nit anders ist dann leeren das wort Gottes vi predigé das Euan gelium Christi Das sind die schlüssel das ist der höchst gewalt der Petro vnd allen Apostlen geben ist welches alles weder jnn noch kein Apostel zu eim houpt macht allein ist Gott der vß eigne gewalt vnd dåtlich die sünd verzycht Esaie pliij Cap",
-        "b": "aye 43"
+        "a": "verzycht Esaie pliij Cap",
+        "b": "verzucht Jesaje 43"
       },
       {
         "op": "equal",
-        "a": "Ich Bins jch",
-        "b": "Ich bins Ich"
-      },
-      {
-        "op": "replace",
-        "a": "bins",
-        "b": "vins"
-      },
-      {
-        "op": "equal",
-        "a": "der da",
-        "b": "der da"
+        "a": "Ich Bins jch bins der da",
+        "b": "Ich bins Ich bins der da"
       },
       {
         "op": "replace",
@@ -155,7 +193,7 @@
       {
         "op": "replace",
         "a": "fünden wird",
-        "b": "Sunden wurd"
+        "b": "Su nden wurd"
       },
       {
         "op": "equal",
@@ -195,27 +233,37 @@
       {
         "op": "replace",
         "a": "Apo stel verzychend",
-        "b": "appostell verzüchen"
+        "b": "appostell verzu chen"
       },
       {
         "op": "equal",
-        "a": "die sünd durch dienstbarkeyt des",
-        "b": "die sünd durch dienstbarkeyt des"
+        "a": "die",
+        "b": "die"
       },
       {
         "op": "replace",
-        "a": "worts vnd",
-        "b": "wirtts vnnd"
+        "a": "sünd",
+        "b": "su nd"
       },
       {
         "op": "equal",
-        "a": "verkündung des",
-        "b": "verkündung des"
+        "a": "durch dienstbarkeyt des",
+        "b": "durch dienstbarkeyt des"
+      },
+      {
+        "op": "replace",
+        "a": "worts vnd verkündung",
+        "b": "wirtts vnnd verku ndung"
+      },
+      {
+        "op": "equal",
+        "a": "des",
+        "b": "des"
       },
       {
         "op": "replace",
         "a": "Euangelions",
-        "b": "Enangelinns"
+        "b": "Evangeliums"
       },
       {
         "op": "equal",
@@ -234,18 +282,8 @@
       },
       {
         "op": "replace",
-        "a": "glaubigen",
-        "b": "gleubign"
-      },
-      {
-        "op": "equal",
-        "a": "zugesprochen",
-        "b": "zugesprochen"
-      },
-      {
-        "op": "replace",
-        "a": "hand",
-        "b": "haben"
+        "a": "glaubigen zugesprochen hand",
+        "b": "gla ubign zu gesprochen haben"
       },
       {
         "op": "equal",
@@ -275,7 +313,7 @@
       {
         "op": "replace",
         "a": "vnglaubigen jr sind gebunden",
-        "b": "un gloüligen ire sund bunden"
+        "b": "un glou bigen ire sund bunden"
       },
       {
         "op": "equal",
@@ -285,7 +323,7 @@
       {
         "op": "replace",
         "a": "Christus zügibt",
-        "b": "Cri sins zuogibt"
+        "b": "Cri stus zu gibt"
       },
       {
         "op": "equal",
@@ -314,13 +352,13 @@
       },
       {
         "op": "replace",
-        "a": "ver 3ychen Binden",
-        "b": "verzüchen bin den"
+        "a": "ver 3ychen",
+        "b": "verzuchen"
       },
       {
         "op": "equal",
-        "a": "losen",
-        "b": "lösen"
+        "a": "Binden losen",
+        "b": "binden lösen"
       },
       {
         "op": "replace",
@@ -345,7 +383,7 @@
       {
         "op": "replace",
         "a": "thilyend",
-        "b": "thügen"
+        "b": "thu yen"
       },
       {
         "op": "equal",
@@ -365,7 +403,7 @@
       {
         "op": "replace",
         "a": "Jhieremie am ersten Cap geschreiben stat",
-        "b": "Jherennie 1 geschri ben statt"
+        "b": "Jheremie 1 geschri ben statt"
       },
       {
         "op": "equal",
@@ -375,7 +413,7 @@
       {
         "op": "replace",
         "a": "Nim",
-        "b": "Nunn"
+        "b": "Nimm"
       },
       {
         "op": "equal",
@@ -385,7 +423,7 @@
       {
         "op": "replace",
         "a": "mine wort",
-        "b": "mi ins wortt"
+        "b": "mi ne wortt"
       },
       {
         "op": "equal",
@@ -405,7 +443,7 @@
       {
         "op": "replace",
         "a": "vßrütist zerstözist vnzertrennist 6uw ist und pflanzist Die",
-        "b": "uß rüttest zerstörest unnd zertrännest büwest vnnd pflantzestj hie"
+        "b": "uß rüttest zerstörest unnd zertra nnest bu west vnnd pflantzest hie"
       },
       {
         "op": "equal",
@@ -435,7 +473,7 @@
       {
         "op": "replace",
         "a": "thüt",
-        "b": "thutt"
+        "b": "thu tt"
       },
       {
         "op": "equal",
@@ -455,7 +493,7 @@
       {
         "op": "replace",
         "a": "thut wirt",
-        "b": "thutt wurdt"
+        "b": "thu tt wu rdt"
       },
       {
         "op": "equal",
@@ -485,7 +523,7 @@
       {
         "op": "replace",
         "a": "Bedütet",
-        "b": "Beduttott"
+        "b": "Bedu ttett"
       },
       {
         "op": "equal",
@@ -515,7 +553,7 @@
       {
         "op": "insert",
         "a": "",
-        "b": "würdt"
+        "b": "wu rdt"
       },
       {
         "op": "equal",
@@ -525,7 +563,7 @@
       {
         "op": "replace",
         "a": "wo t denachtruck gebe also",
-        "b": "wortt den nachtrük geben alls"
+        "b": "wortt den nachtru k geben alls"
       },
       {
         "op": "equal",
@@ -545,10 +583,10 @@
       {
         "op": "insert",
         "a": "",
-        "b": "die Appostell die sünd vergeben binden vnnd lösen dient ouch uff das lererampt unnd dienstbarkeyt des wortg wolches er mässen würdt uss den umbständen des Han Dells vermerkt anzoigt Matthi is vnnd Johannis 20 Darum dann Marthei 16 hatt der Herr fürgesatzt du bist Petrus ein hell ser gevestigett grundt Im gloüben vnnd wortt Harum die wyl du petre Jm wortt und glouben beuestigott wurd ich dir geben die Schlussell dieselben hatt er geleistett Johanns 20 nitt allein Petro Sunders allen appostelln"
+        "b": "die Appostell die su nd vergeben binden vnnd lo sen dient ouch uff das leererampt unnd dienstbarkeyt des worts welches er ma ssen wurdt usß den umbsta nden des Han dells vermerckt anzo igt Matthi 16 vnnd Johannis 20 Darum dann Marthei 16 hatt der Herr fürgesatzt du bist Petrus ein fell ser gevestigett grundt Im glou ben vnnd wortt Harum die wyl du petro Jm wortt und glou ben bevestigott wurd ich dir geben die Schlussell dieselben hatt er geleistett Johanns 20 nitt allein Petro Sunders allen appostelln"
       }
     ],
-    "ops": 46,
+    "ops": 45,
     "truncated": false
   }
 }

@@ -5,10 +5,10 @@
       43
     ],
     "a_v_1443_hertwig": [
-      55
+      54
     ]
   },
-  "alignment_score": 0.1011,
+  "alignment_score": 0.109,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,41 +23,77 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 12,
-    "matched": 0,
-    "only_a": 10,
-    "only_b": 2,
-    "similarity": 0.0,
+    "units": 16,
+    "matched": 5,
+    "only_a": 5,
+    "only_b": 6,
+    "similarity": 0.4448,
     "pairs": [
       {
-        "op": "only_a",
+        "op": "only_b",
+        "a": null,
+        "b": "Du wuͤrdst genampt Cephas / das verduͤttschett\nder Bychtvatter / Ein Houͦpt / vnnd so er den\nEuͤangelisten besaͤchen haͤtte erfuͤnden /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "das\ners selbs ußlegt / Es heisse Petrus / das Ist\nein Felser / der erbuͤwen / vnnd gefrstigett ist\nim gloͤuben /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "vnnd wortt / vmb dess willen\nPetrus / weder ein Egkstein / noch ein gruͤndtstein\nnoch ein fells / Sunders er mitt andren /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "läben// dig Stein / Ein uffbuwung der laͤbendigen\nsteinen / uff Cristum j ͦ Petri 2 ͦ Cappite / Der ander Spruch uss Mattheo /",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
         "a": "Schlufzred. XIII\nChristum/in finer ersten Epistel/am anderen Capitel. Der ander spruch vs Matthei/am xxij.cap.Von\ndidrachma/gibt Petzo nit zu/das er ein houpt sye/son-\nder mit diser that/hat Christus sich vnnd die Kirchen\nin Petzo anzeigt/in vsserlichen dinge/",
-        "b": null,
+        "b": "17 / vom\nDydrachma / gibt Petro nitt zu / das er ein\nhoupt sye / Sunders mitt diser thatt / hatt\nCristus / sich, unnd die kilchen /",
+        "similarity": 0.3235
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "in Petro / an-\nzoͤigt / pin usserlichen dingen / so lyb / unnd\nguͦtt antrifft / der welltlichen obrikeyt unn// derwuͤrffig /",
         "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "so lyb vi gut an\ntrifft/der weltliche oberkeit vnderwürffig. Sa machet\njr Petrum zu einem houpt/da Christus jne vnd vns/in\nden vsserlichen dingen der oberkeit vnderworffen/da er\nvs Luca/im v.cap.",
-        "b": null,
+        "b": "da machen ir Petrum / zuͦ\neinem haupt / da Cristus Ine / unnd unns / In den usserlichen dingen, der oberkeyt\nvnnderworffen / das er uss Luca /",
+        "similarity": 0.4407
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "Jm 5 Cappittell\nanzuͤcht / für das schiff in die tieffe / weisst er\nselbs wol / das es ein wunderzeichen Ist /",
         "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "anzücht: für d3 schiff in die tieffe/ weißt er selbs woldas es ein wunderzeichen ist/vnd so er\nschon off die allegori tringt/so ist doch das allein ein be\ndütnuß/das er embſig in finem ampt ware.",
-        "b": null,
-        "similarity": 0.0
+        "b": "vnnd\nso er schon uff die allegory tringt / So\n\"doch\"\nIst \"doch\" das allein / ein beduͤttnuss / das er aͤmsig\nin sinem ampt wäre /",
+        "similarity": 0.5079
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "Sahin die=\nnet das fische/fin netz vßwerffen/sin schiff in die tieffe fu\nren/wie Hierem.am xvj.cap.",
-        "b": null,
-        "similarity": 0.0
+        "b": "dahin dienett das fischen\nsin netz ußwerffen / sin schiff in die tieffe\nfüren / wie Johannis 16 anzeigt / Demnach bringt er aber usß Luca /",
+        "similarity": 0.4186
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "anzeigt. Semnach bringt er aber of Luca/am xxij.capit. Petre/ich hab für dich gebåtte/das nit vffhöre din glou\nben/das bekennéd wir mit üch.",
-        "b": null,
-        "similarity": 0.0
+        "b": "22 / Petre\nIch hab fur dich gebetten, das nitt uffhöre\ndin glouͤben / das bekennen wir hieby / mitt",
+        "similarity": 0.5333
       },
       {
         "op": "only_a",
@@ -88,112 +124,100 @@
         "a": "Sagich das Chri\nſtus in beyden schriffren ein ding leert. San binden vnd\nS ij",
         "b": null,
         "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "uch, das aber vollg, sterck dine brüder, wär\nIst doch so blind, der nitt, gesicht, das das zu\nder dienstbarkeyt dienott, Nun ist genugsam\nanzöiht, das die dienstbarkeyt, nit ein houpt\nso\nder kilchen macht, allso oüch er Infürt, ussz\nJohannes 21 Petre weid mine schäfflin, ist\nhertter unnd clar, das es zu Dienstbarkeyt, des\nworts gehört, wölches ist die weyd der Schäfflin-\nDān so weÿden ein hoüpt machtte, würden\nall diener des wort gottes, hoüpter sin,\nDas er bringt uss Johanns 20 Denen Jrdie\nsund verzÿchen, etc.",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "unnd Matther 16, was\nir binden uff ertrich, etc. darinn der bychtter\nsin gröste veste setzt, vnnd dehein sterckern grund\nmitt hatt, Sag Ich, das Cristus In beyden Schrifft\nten, ein ding bort, dan binden unnd lösen, sünd\nvnnd\nverzuchen, vorhaltten, Ein ding Jst, So bekennen\nzy mitt unns, das Matthei 16 Petro die\nschlussell verheissen, vnnd Johannis, 2 ge-\nleistett, darinn aller span, vnnd krafft, hie\nhangott, was binden und lösen, Petro zugebe-\nNun gibtes nitt zu, das er ein houpt sye, dann\nall appostell haben, gelyche dienstlarkeyt, zu-\nbinden, unnd Zelösen, Darumb sag Ich, Cri¬\nstanlichen brüder, das binden unnd lösen, ver-\nzüchen, vnnd verhaltten, nütt annders Jst,\ndan leren, das wortt gottes, vnnd predigen\ndas Evangelium Cristis das sind die schlussell,\ndas ist der höchst gewällt, der petro unnd\nallen appostelln geben ist, wolches alls,\nweder inn, noch kein Appostell, zu einem\nhoüpt nacht, Allein Ist gott, der ussz eignem",
-        "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.2255,
+    "similarity": 0.3178,
     "words": {
       "a": 299,
-      "b": 242
+      "b": 236
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Schlufzred XIII Christum in finer ersten Epistel am anderen Capitel Der ander spruch vs Matthei am xxij cap Von didrachma gibt Petzo nit zu",
-        "b": "uch"
+        "a": "Schlufzred XIII Christum in finer ersten Epistel am anderen Capitel",
+        "b": "Du wu rdst genampt Cephas das verdu ttschett der Bychtvatter Ein Hou pt vnnd so er den Eu angelisten besa chen ha tte erfu nden das ers selbs ußlegt Es heisse Petrus das Ist ein Felser der erbu wen vnnd gefrstigett ist im glo uben vnnd wortt vmb dess willen Petrus weder ein Egkstein noch ein gru ndtstein noch ein fells Sunders er mitt andren läben dig Stein Ein uffbuwung der la bendigen steinen uff Cristum j Petri 2 Cappite"
       },
       {
         "op": "equal",
-        "a": "das",
-        "b": "das"
-      },
-      {
-        "op": "delete",
-        "a": "er ein houpt sye son der mit diser that hat Christus sich vnnd die Kirchen in Petzo anzeigt in vsserlichen dinge so lyb vi gut an trifft der weltliche oberkeit vnderwürffig Sa machet jr Petrum zu einem houpt da Christus jne vnd vns in den vsserlichen dingen der oberkeit vnderworffen da er vs Luca im v cap anzücht für d3 schiff in die tieffe weißt er selbs woldas es ein wunderzeichen ist vnd so er schon off die allegori tringt so ist doch das allein ein be dütnuß das er embſig in finem ampt ware Sahin die net das fische fin netz vßwerffen sin schiff in die tieffe fu ren wie Hierem am xvj cap anzeigt Semnach bringt er",
-        "b": ""
-      },
-      {
-        "op": "equal",
-        "a": "aber",
-        "b": "aber"
+        "a": "Der ander spruch",
+        "b": "Der ander Spruch"
       },
       {
         "op": "replace",
-        "a": "of Luca am xxij capit Petre ich hab für dich gebåtte das nit vffhöre din glou ben das bekennéd wir mit üch Sas aber volget",
-        "b": "vollg"
+        "a": "vs Matthei am xxij cap Von didrachma",
+        "b": "uss Mattheo 17 vom Dydrachma"
       },
       {
         "op": "equal",
-        "a": "sterck dine Bruder Wår ist doch so blind der",
-        "b": "sterck dine brüder wär Ist doch so blind der"
+        "a": "gibt",
+        "b": "gibt"
       },
       {
         "op": "replace",
-        "a": "nit",
-        "b": "nitt"
+        "a": "Petzo nit",
+        "b": "Petro nitt"
       },
       {
         "op": "equal",
-        "a": "gesicht",
-        "b": "gesicht"
+        "a": "zu das er ein houpt sye",
+        "b": "zu das er ein houpt sye"
       },
       {
         "op": "replace",
-        "a": "d3 03",
-        "b": "das das"
+        "a": "son der mit",
+        "b": "Sunders mitt"
       },
       {
         "op": "equal",
-        "a": "zü der",
-        "b": "zu der"
+        "a": "diser",
+        "b": "diser"
       },
       {
         "op": "replace",
-        "a": "dienstbarkeit dienets",
-        "b": "dienstbarkeyt dienott"
+        "a": "that hat Christus",
+        "b": "thatt hatt Cristus"
       },
       {
         "op": "equal",
-        "a": "Nun ist",
-        "b": "Nun ist"
+        "a": "sich vnnd die",
+        "b": "sich unnd die"
       },
       {
         "op": "replace",
-        "a": "gnügsam anzeigt",
-        "b": "genugsam anzöiht"
+        "a": "Kirchen",
+        "b": "kilchen"
       },
       {
         "op": "equal",
-        "a": "das die dienstbarkeyt",
-        "b": "das die dienstbarkeyt"
+        "a": "in",
+        "b": "in"
       },
       {
         "op": "replace",
-        "a": "nitt eyn",
-        "b": "nit ein"
+        "a": "Petzo anzeigt in",
+        "b": "Petro an zo igt pin"
       },
       {
         "op": "equal",
-        "a": "houpt",
-        "b": "houpt"
+        "a": "vsserlichen",
+        "b": "usserlichen"
       },
       {
-        "op": "insert",
-        "a": "",
-        "b": "so"
+        "op": "replace",
+        "a": "dinge",
+        "b": "dingen"
+      },
+      {
+        "op": "equal",
+        "a": "so lyb",
+        "b": "so lyb"
+      },
+      {
+        "op": "replace",
+        "a": "vi gut an trifft",
+        "b": "unnd gu tt antrifft"
       },
       {
         "op": "equal",
@@ -202,18 +226,48 @@
       },
       {
         "op": "replace",
-        "a": "Kirchenn ma chet Also",
-        "b": "kilchen macht allso"
+        "a": "weltliche oberkeit vnderwürffig Sa machet",
+        "b": "welltlichen obrikeyt unn derwu rffig da machen"
       },
       {
         "op": "equal",
-        "a": "ouch",
-        "b": "oüch"
+        "a": "jr Petrum zu einem",
+        "b": "ir Petrum zu einem"
       },
       {
-        "op": "delete",
-        "a": "so",
-        "b": ""
+        "op": "replace",
+        "a": "houpt",
+        "b": "haupt"
+      },
+      {
+        "op": "equal",
+        "a": "da",
+        "b": "da"
+      },
+      {
+        "op": "replace",
+        "a": "Christus",
+        "b": "Cristus"
+      },
+      {
+        "op": "equal",
+        "a": "jne",
+        "b": "Ine"
+      },
+      {
+        "op": "replace",
+        "a": "vnd vns",
+        "b": "unnd unns"
+      },
+      {
+        "op": "equal",
+        "a": "in den vsserlichen dingen der",
+        "b": "In den usserlichen dingen der"
+      },
+      {
+        "op": "replace",
+        "a": "oberkeit vnderworffen da",
+        "b": "oberkeyt vnnderworffen das"
       },
       {
         "op": "equal",
@@ -222,148 +276,128 @@
       },
       {
         "op": "replace",
-        "a": "ynfurt vf Johanne amyxj capitel",
-        "b": "Infürt ussz Johannes 21"
+        "a": "vs",
+        "b": "uss"
       },
       {
         "op": "equal",
-        "a": "Petre",
-        "b": "Petre"
+        "a": "Luca",
+        "b": "Luca"
       },
       {
         "op": "replace",
-        "a": "weyd",
-        "b": "weid"
+        "a": "im v cap anzücht",
+        "b": "Jm 5 Cappittell anzu cht"
       },
       {
         "op": "equal",
-        "a": "mine",
-        "b": "mine"
+        "a": "für",
+        "b": "für"
       },
       {
         "op": "replace",
-        "a": "schaffly",
-        "b": "schäfflin"
+        "a": "d3",
+        "b": "das"
       },
       {
         "op": "equal",
-        "a": "ist",
-        "b": "ist"
+        "a": "schiff in die tieffe",
+        "b": "schiff in die tieffe"
       },
       {
         "op": "replace",
-        "a": "heyter vnd klar",
-        "b": "hertter unnd clar"
+        "a": "weißt",
+        "b": "weisst"
       },
       {
         "op": "equal",
-        "a": "das es zu",
-        "b": "das es zu"
+        "a": "er selbs",
+        "b": "er selbs"
       },
       {
         "op": "replace",
-        "a": "dienstbarkeit",
-        "b": "Dienstbarkeyt"
+        "a": "woldas",
+        "b": "wol das"
       },
       {
         "op": "equal",
-        "a": "des worts",
-        "b": "des worts"
+        "a": "es ein wunderzeichen ist",
+        "b": "es ein wunderzeichen Ist"
       },
       {
         "op": "replace",
-        "a": "gehost welches",
-        "b": "gehört wölches"
+        "a": "vnd",
+        "b": "vnnd"
       },
       {
         "op": "equal",
-        "a": "ist die weyd der",
-        "b": "ist die weyd der"
+        "a": "so er schon",
+        "b": "so er schon"
       },
       {
         "op": "replace",
-        "a": "schaffly dann",
-        "b": "Schäfflin Da n"
+        "a": "off",
+        "b": "uff"
       },
       {
         "op": "equal",
-        "a": "so weyden ein houpt",
-        "b": "so weÿden ein hoüpt"
+        "a": "die",
+        "b": "die"
       },
       {
         "op": "replace",
-        "a": "machte wurdend",
-        "b": "machtte würden"
+        "a": "allegori",
+        "b": "allegory"
       },
       {
         "op": "equal",
-        "a": "all diener des",
-        "b": "all diener des"
+        "a": "tringt so",
+        "b": "tringt So"
       },
       {
-        "op": "replace",
-        "a": "worts",
-        "b": "wort"
-      },
-      {
-        "op": "equal",
-        "a": "Gottes houpter",
-        "b": "gottes hoüpter"
-      },
-      {
-        "op": "replace",
-        "a": "fin",
-        "b": "sin"
+        "op": "insert",
+        "a": "",
+        "b": "doch"
       },
       {
         "op": "equal",
-        "a": "Das er bringt",
-        "b": "Das er bringt"
+        "a": "ist doch das allein ein",
+        "b": "Ist doch das allein ein"
       },
       {
         "op": "replace",
-        "a": "vf Johanne am yy capitel Senen jr die fund verzy chend zc Und Mattheiam vvj cap",
-        "b": "uss Johanns 20 Denen Jrdie sund verzÿchen etc unnd Matther 16"
+        "a": "be dütnuß",
+        "b": "bedu ttnuss"
       },
       {
         "op": "equal",
-        "a": "Was ir",
-        "b": "was ir"
+        "a": "das er",
+        "b": "das er"
       },
       {
         "op": "replace",
-        "a": "bindend off erderich zc daryn",
-        "b": "binden uff ertrich etc darinn"
+        "a": "embſig",
+        "b": "a msig"
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
+        "a": "in",
+        "b": "in"
       },
       {
         "op": "replace",
-        "a": "Bichtiger",
-        "b": "bychtter"
+        "a": "finem",
+        "b": "sinem"
       },
       {
         "op": "equal",
-        "a": "sin gröste veste",
-        "b": "sin gröste veste"
+        "a": "ampt ware",
+        "b": "ampt wäre"
       },
       {
         "op": "replace",
-        "a": "se get vin keyn stercker",
-        "b": "setzt vnnd dehein sterckern"
-      },
-      {
-        "op": "equal",
-        "a": "gründ",
-        "b": "grund"
-      },
-      {
-        "op": "replace",
-        "a": "nit hart Sagich",
-        "b": "mitt hatt Sag Ich"
+        "a": "Sahin die net",
+        "b": "dahin dienett"
       },
       {
         "op": "equal",
@@ -372,41 +406,101 @@
       },
       {
         "op": "replace",
-        "a": "Chri ſtus",
-        "b": "Cristus"
+        "a": "fische fin",
+        "b": "fischen sin"
       },
       {
         "op": "equal",
-        "a": "in beyden",
-        "b": "In beyden"
+        "a": "netz vßwerffen sin schiff in die tieffe",
+        "b": "netz ußwerffen sin schiff in die tieffe"
       },
       {
         "op": "replace",
-        "a": "schriffren",
-        "b": "Schrifft ten"
+        "a": "fu ren",
+        "b": "füren"
       },
       {
         "op": "equal",
-        "a": "ein ding",
-        "b": "ein ding"
+        "a": "wie",
+        "b": "wie"
       },
       {
         "op": "replace",
-        "a": "leert San",
-        "b": "bort dan binden unnd lösen sünd vnnd verzuchen vorhaltten Ein ding Jst So bekennen zy mitt unns das Matthei 16 Petro die schlussell verheissen vnnd Johannis 2 ge leistett darinn aller span vnnd krafft hie hangott was"
+        "a": "Hierem am xvj cap",
+        "b": "Johannis 16"
       },
       {
         "op": "equal",
-        "a": "binden vnd",
-        "b": "binden und"
+        "a": "anzeigt",
+        "b": "anzeigt"
       },
       {
         "op": "replace",
-        "a": "S ij",
-        "b": "lösen Petro zugebe Nun gibtes nitt zu das er ein houpt sye dann all appostell haben gelyche dienstlarkeyt zu binden unnd Zelösen Darumb sag Ich Cri stanlichen brüder das binden unnd lösen ver züchen vnnd verhaltten nütt annders Jst dan leren das wortt gottes vnnd predigen das Evangelium Cristis das sind die schlussell das ist der höchst gewällt der petro unnd allen appostelln geben ist wolches alls weder inn noch kein Appostell zu einem hoüpt nacht Allein Ist gott der ussz eignem"
+        "a": "Semnach",
+        "b": "Demnach"
+      },
+      {
+        "op": "equal",
+        "a": "bringt er aber",
+        "b": "bringt er aber"
+      },
+      {
+        "op": "replace",
+        "a": "of",
+        "b": "usß"
+      },
+      {
+        "op": "equal",
+        "a": "Luca",
+        "b": "Luca"
+      },
+      {
+        "op": "replace",
+        "a": "am xxij capit",
+        "b": "22"
+      },
+      {
+        "op": "equal",
+        "a": "Petre ich hab für dich",
+        "b": "Petre Ich hab fur dich"
+      },
+      {
+        "op": "replace",
+        "a": "gebåtte",
+        "b": "gebetten"
+      },
+      {
+        "op": "equal",
+        "a": "das",
+        "b": "das"
+      },
+      {
+        "op": "replace",
+        "a": "nit",
+        "b": "nitt"
+      },
+      {
+        "op": "equal",
+        "a": "vffhöre din glou ben das",
+        "b": "uffhöre din glou ben das"
+      },
+      {
+        "op": "replace",
+        "a": "bekennéd",
+        "b": "bekennen"
+      },
+      {
+        "op": "equal",
+        "a": "wir",
+        "b": "wir"
+      },
+      {
+        "op": "replace",
+        "a": "mit üch Sas aber volget sterck dine Bruder Wår ist doch so blind der nit gesicht d3 03 zü der dienstbarkeit dienets Nun ist gnügsam anzeigt das die dienstbarkeyt nitt eyn houpt der Kirchenn ma chet Also ouch so er ynfurt vf Johanne amyxj capitel Petre weyd mine schaffly ist heyter vnd klar das es zu dienstbarkeit des worts gehost welches ist die weyd der schaffly dann so weyden ein houpt machte wurdend all diener des worts Gottes houpter fin Das er bringt vf Johanne am yy capitel Senen jr die fund verzy chend zc Und Mattheiam vvj cap Was ir bindend off erderich zc daryn der Bichtiger sin gröste veste se get vin keyn stercker gründ nit hart Sagich das Chri ſtus in beyden schriffren ein ding leert San binden vnd S ij",
+        "b": "hieby mitt"
       }
     ],
-    "ops": 30,
+    "ops": 37,
     "truncated": false
   }
 }
