@@ -1,8 +1,256 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:27:00.835+01:00</Created>
-        <LastChange>2026-01-27T10:27:00.835+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:53:34.672+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.741, "summary": {"agree_norm": 1, "llm": 29}}</Comments>
     </Metadata>
-    <Page imageFilename="p291.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="421,209 2336,209 2336,3038 421,3038"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:agree_norm; conf:0.85;}">
+                <Coords points="1203,215 2170,215 2170,380 1203,380"/>
+                <Baseline points="1205,317 1724,300 2170,321"/>
+                <TextEquiv>
+                    <Unicode>uff donnstag vor mittag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="427,446 2211,446 2211,592 427,592"/>
+                <Baseline points="429,531 536,524 852,526 1154,508 1883,504 2211,533"/>
+                <TextEquiv>
+                    <Unicode>Pfarrer von Sant Gallen, als er rechte lehen, so ir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="719,543 2258,543 2258,659 719,659"/>
+                <Baseline points="721,621 1293,597 1969,597 2258,613"/>
+                <TextEquiv>
+                    <Unicode>articklen deß gloubens, aber uff die nachtag sag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="721,640 2277,640 2277,738 721,738"/>
+                <Baseline points="723,705 1583,688 2032,692 2277,703"/>
+                <TextEquiv>
+                    <Unicode>minem herrn von Orelampadii, 14. octobris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_5" custom="readingOrder {index:4;} atr {basis:llm-mixed; conf:0.60;}">
+                <Coords points="721,727 2306,727 2306,826 721,826"/>
+                <Baseline points="723,799 1201,783 1770,777 2306,783"/>
+                <TextEquiv>
+                    <Unicode>wider zu aßern, uff ursachtt mich zu dieser Antwort</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_6" custom="readingOrder {index:5;} atr {basis:llm-A; conf:0.78;}">
+                <Coords points="719,803 2256,803 2256,913 719,913"/>
+                <Baseline points="721,878 1667,859 2256,861"/>
+                <TextEquiv>
+                    <Unicode>im gegen. Der sprüch Pauli 1. cor. 10. und das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_7" custom="readingOrder {index:6;} atr {basis:llm-mixed; conf:0.55;}">
+                <Coords points="716,888 2308,888 2308,997 716,997"/>
+                <Baseline points="718,964 1809,945 2308,950"/>
+                <TextEquiv>
+                    <Unicode>welches wir brechend, ist das nicht die ußgelegt des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_8" custom="readingOrder {index:7;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="723,980 2330,980 2330,1111 723,1111"/>
+                <Baseline points="725,1073 1690,1046 1974,1044 2330,1055"/>
+                <TextEquiv>
+                    <Unicode>libbs Christi. Dann die wisse mitt den anderen accidantibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_9" custom="readingOrder {index:8;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="721,1071 2316,1071 2316,1198 721,1198"/>
+                <Baseline points="721,1165 1539,1134 2316,1140"/>
+                <TextEquiv>
+                    <Unicode>uns darzuͦ ursachet. Daruff wer sagend, doch widerwertig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_10" custom="readingOrder {index:9;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="702,1167 2302,1167 2302,1294 702,1294"/>
+                <Baseline points="704,1268 1415,1233 2302,1229"/>
+                <TextEquiv>
+                    <Unicode>und allweg unsern psond einer christelichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_11" custom="readingOrder {index:10;} atr {basis:llm-B; conf:0.65;}">
+                <Coords points="712,1263 2297,1263 2297,1379 712,1379"/>
+                <Baseline points="714,1352 1328,1323 2297,1325"/>
+                <TextEquiv>
+                    <Unicode>erklärung ) vermogend der obrige personen worn , für im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_12" custom="readingOrder {index:11;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="712,1358 2308,1358 2308,1463 712,1463"/>
+                <Baseline points="714,1441 1244,1416 2308,1420"/>
+                <TextEquiv>
+                    <Unicode>erst umb der leb Christi mitt geteillter werck, und das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_13" custom="readingOrder {index:12;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="706,1453 2285,1453 2285,1571 706,1571"/>
+                <Baseline points="708,1519 1574,1509 1981,1525 2098,1542 2285,1542"/>
+                <TextEquiv>
+                    <Unicode>mitt sölichem verstand, als daß 3000 hatt der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_14" custom="readingOrder {index:13;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="716,1549 2279,1549 2279,1668 716,1668"/>
+                <Baseline points="716,1600 1514,1594 1796,1617 2279,1627"/>
+                <TextEquiv>
+                    <Unicode>her angeblasen sine burger und gesagen, wärend hin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_15" custom="readingOrder {index:14;} atr {basis:llm-A; conf:0.40;}">
+                <Coords points="714,1647 2267,1647 2267,1759 714,1759"/>
+                <Baseline points="716,1709 1491,1699 1924,1713 2267,1713"/>
+                <TextEquiv>
+                    <Unicode>gan hertz giest etc. Wirt das der kloster der hertzog</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_16" custom="readingOrder {index:15;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="698,1744 2283,1744 2283,1847 698,1847"/>
+                <Baseline points="700,1806 2283,1798"/>
+                <TextEquiv>
+                    <Unicode>geist wär, sonder das er mitt sölichem mittel inen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_17" custom="readingOrder {index:16;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="696,1831 2304,1831 2304,1938 696,1938"/>
+                <Baseline points="698,1901 1244,1886 2304,1888"/>
+                <TextEquiv>
+                    <Unicode>gegebn̄ ward, wie ouch ist, das für im ysen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_18" custom="readingOrder {index:17;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="702,1925 2314,1925 2314,2033 702,2033"/>
+                <Baseline points="704,1990 1178,1974 2314,1988"/>
+                <TextEquiv>
+                    <Unicode>dunocht die anestistn̄ desz pfans beleibt, ouch gott in dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_19" custom="readingOrder {index:18;} atr {basis:llm-B; conf:0.65;}">
+                <Coords points="702,2013 2324,2013 2324,2122 702,2122"/>
+                <Baseline points="704,2079 1862,2071 2324,2085"/>
+                <TextEquiv>
+                    <Unicode>mentſchen und beide Nationen , das wasen unnötigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_20" custom="readingOrder {index:19;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="681,2108 2265,2108 2265,2221 681,2221"/>
+                <Baseline points="682,2186 1296,2163 2265,2175"/>
+                <TextEquiv>
+                    <Unicode>Ouch si man sagt, mitt ainem boͤcher, das ist riffenn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_21" custom="readingOrder {index:20;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="708,2211 2306,2211 2306,2316 708,2316"/>
+                <Baseline points="710,2281 1011,2258 1335,2256 1794,2276 2306,2281"/>
+                <TextEquiv>
+                    <Unicode>ist doch der becher, nitt die natur deß risswuns. Und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_22" custom="readingOrder {index:21;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="690,2295 2265,2295 2265,2404 690,2404"/>
+                <Baseline points="692,2353 1246,2346 1764,2369 2265,2371"/>
+                <TextEquiv>
+                    <Unicode>wir noch stäts wider die viorch concenſion belibend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_23" custom="readingOrder {index:22;} atr {basis:llm-B; conf:0.65;}">
+                <Coords points="669,2383 2203,2383 2203,2502 669,2502"/>
+                <Baseline points="671,2434 1456,2438 1831,2463 2203,2467"/>
+                <TextEquiv>
+                    <Unicode>vff den worten das ist mir lieb , über den worten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_24" custom="readingOrder {index:23;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="671,2479 2211,2479 2211,2592 671,2592"/>
+                <Baseline points="673,2539 1370,2535 1574,2543 1784,2564 2211,2572"/>
+                <TextEquiv>
+                    <Unicode>Wellend wir nitt jangen, allain das der summa das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_25" custom="readingOrder {index:24;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="706,2561 2291,2561 2291,2710 706,2710"/>
+                <Baseline points="708,2621 1337,2631 1827,2664 2291,2667"/>
+                <TextEquiv>
+                    <Unicode>das es nitt an Fügerich oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_26" custom="readingOrder {index:25;} atr {basis:llm-A; conf:0.30;}">
+                <Coords points="1834,2586 1930,2586 1930,2646 1834,2646"/>
+                <Baseline points="1838,2629 1930,2625"/>
+                <TextEquiv>
+                    <Unicode>octo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_27" custom="readingOrder {index:26;} atr {basis:llm-A; conf:0.45;}">
+                <Coords points="467,2666 2281,2666 2281,2806 467,2806"/>
+                <Baseline points="469,2720 1156,2718 1607,2747 2281,2761"/>
+                <TextEquiv>
+                    <Unicode>das wir inn abarmal estand, sonder der erb Christi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_28" custom="readingOrder {index:27;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="700,2747 1390,2747 1390,2841 700,2841"/>
+                <Baseline points="702,2806 1390,2811"/>
+                <TextEquiv>
+                    <Unicode>und das bluͦt egen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_29" custom="readingOrder {index:28;} atr {basis:llm-A; conf:0.40;}">
+                <Coords points="1050,2825 1417,2825 1417,3032 1050,3032"/>
+                <Baseline points="1054,2939 1417,2923"/>
+                <TextEquiv>
+                    <Unicode>Guschin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_30" custom="readingOrder {index:29;} atr {basis:llm-A; conf:0.30;}">
+                <Coords points="1520,2772 1537,2772 1537,2848 1520,2848"/>
+                <Baseline points="1520,2815 1537,2815"/>
+                <TextEquiv>
+                    <Unicode>S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>uff donnstag vor mittag.
+Pfarrer von Sant Gallen, als er rechte lehen, so ir
+articklen deß gloubens, aber uff die nachtag sag.
+minem herrn von Orelampadii, 14. octobris
+wider zu aßern, uff ursachtt mich zu dieser Antwort
+im gegen. Der sprüch Pauli 1. cor. 10. und das
+welches wir brechend, ist das nicht die ußgelegt des
+libbs Christi. Dann die wisse mitt den anderen accidantibus
+uns darzuͦ ursachet. Daruff wer sagend, doch widerwertig
+und allweg unsern psond einer christelichen
+erklärung ) vermogend der obrige personen worn , für im
+erst umb der leb Christi mitt geteillter werck, und das
+mitt sölichem verstand, als daß 3000 hatt der
+her angeblasen sine burger und gesagen, wärend hin
+gan hertz giest etc. Wirt das der kloster der hertzog
+geist wär, sonder das er mitt sölichem mittel inen
+gegebn̄ ward, wie ouch ist, das für im ysen und
+dunocht die anestistn̄ desz pfans beleibt, ouch gott in dem
+mentſchen und beide Nationen , das wasen unnötigen
+Ouch si man sagt, mitt ainem boͤcher, das ist riffenn.
+ist doch der becher, nitt die natur deß risswuns. Und
+wir noch stäts wider die viorch concenſion belibend
+vff den worten das ist mir lieb , über den worten
+Wellend wir nitt jangen, allain das der summa das
+das es nitt an Fügerich oder
+octo
+das wir inn abarmal estand, sonder der erb Christi
+und das bluͦt egen.
+Guschin.
+S.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

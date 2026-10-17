@@ -1,8 +1,280 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:27:11.495+01:00</Created>
-        <LastChange>2026-01-27T10:27:11.495+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:53:48.969+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.696, "summary": {"llm": 33}}</Comments>
     </Metadata>
-    <Page imageFilename="p369.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="471,230 2340,230 2340,2912 471,2912"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-A; conf:0.40;}">
+                <Coords points="795,236 2147,236 2147,358 795,358"/>
+                <Baseline points="797,325 1739,292 2147,296"/>
+                <TextEquiv>
+                    <Unicode>grief ist, der uß Löttingen nater, usß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-A; conf:0.45;}">
+                <Coords points="801,329 2156,329 2156,432 801,432"/>
+                <Baseline points="801,401 1015,409 1240,389 2156,374"/>
+                <TextEquiv>
+                    <Unicode>welchen aller wer verstand, selig, etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-print; conf:0.80;}">
+                <Coords points="1019,397 1324,397 1324,469 1019,469"/>
+                <Baseline points="1021,446 1324,438"/>
+                <TextEquiv>
+                    <Unicode>verſachenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-print; conf:0.75;}">
+                <Coords points="801,438 1431,438 1431,529 801,529"/>
+                <Baseline points="803,483 1254,489 1431,481"/>
+                <TextEquiv>
+                    <Unicode>mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_5" custom="readingOrder {index:4;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="1524,411 2232,411 2232,496 1524,496"/>
+                <Baseline points="1526,471 1774,463 2232,469"/>
+                <TextEquiv>
+                    <Unicode>weder sin, der episcopum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_6" custom="readingOrder {index:5;} atr {basis:llm-C; conf:0.50;}">
+                <Coords points="803,481 2302,481 2302,599 803,599"/>
+                <Baseline points="805,568 1776,549 2302,555"/>
+                <TextEquiv>
+                    <Unicode>lichen mensch deß libs, ehrs, handen, erlichs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_7" custom="readingOrder {index:6;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="754,566 2195,566 2195,698 754,698"/>
+                <Baseline points="756,674 1862,625 2195,629"/>
+                <TextEquiv>
+                    <Unicode>von Flischlichen urtel och stand dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_8" custom="readingOrder {index:7;} atr {basis:llm-C; conf:0.55;}">
+                <Coords points="801,663 2267,663 2267,791 801,791"/>
+                <Baseline points="803,762 1653,719 2267,719"/>
+                <TextEquiv>
+                    <Unicode>fleisslich, was zuͦ treffen, innem ein sin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_9" custom="readingOrder {index:8;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="1507,748 1583,748 1583,801 1507,801"/>
+                <Baseline points="1507,775 1583,775"/>
+                <TextEquiv>
+                    <Unicode>ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_10" custom="readingOrder {index:9;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="811,744 2250,744 2250,892 811,892"/>
+                <Baseline points="815,857 1281,828 2250,801"/>
+                <TextEquiv>
+                    <Unicode>gesessen, wie er in sin fleisch nitt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_11" custom="readingOrder {index:10;} atr {basis:llm-B; conf:0.80;}">
+                <Coords points="842,843 2225,843 2225,964 842,964"/>
+                <Baseline points="844,935 1269,912 2225,896"/>
+                <TextEquiv>
+                    <Unicode>zu essen , darum ander vil stahn vel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_12" custom="readingOrder {index:11;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="819,943 2289,943 2289,1048 819,1048"/>
+                <Baseline points="821,1022 1741,999 2289,1001"/>
+                <TextEquiv>
+                    <Unicode>ander überantwurffte, dotten, eroffnet in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_13" custom="readingOrder {index:12;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="817,1046 2295,1046 2295,1171 817,1171"/>
+                <Baseline points="819,1126 1256,1103 2295,1101"/>
+                <TextEquiv>
+                    <Unicode>durchgang deß roten luters. In spesung deß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_14" custom="readingOrder {index:13;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="819,1132 2135,1132 2135,1239 819,1239"/>
+                <Baseline points="821,1212 1129,1198 2135,1183"/>
+                <TextEquiv>
+                    <Unicode>Heinrichen und ander wunderwörter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_15" custom="readingOrder {index:14;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="809,1212 2260,1212 2260,1321 809,1321"/>
+                <Baseline points="811,1292 1355,1278 2260,1270"/>
+                <TextEquiv>
+                    <Unicode>durch den Moser pmässer, sol au der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_16" custom="readingOrder {index:15;} atr {basis:llm-print; conf:0.85;}">
+                <Coords points="918,1296 2271,1296 2271,1418 918,1418"/>
+                <Baseline points="920,1371 2271,1356"/>
+                <TextEquiv>
+                    <Unicode>oder bedů tung des lybs Chriſti nutzlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_17" custom="readingOrder {index:16;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="900,1403 2285,1403 2285,1500 900,1500"/>
+                <Baseline points="900,1471 1483,1453 2285,1463"/>
+                <TextEquiv>
+                    <Unicode>sin, wiewil mer das wesen, das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_18" custom="readingOrder {index:17;} atr {basis:llm-print; conf:0.86;}">
+                <Coords points="819,1482 2314,1482 2314,1590 819,1590"/>
+                <Baseline points="819,1565 1058,1559 1205,1540 1333,1536 2314,1544"/>
+                <TextEquiv>
+                    <Unicode>das dadurch bedůtet werde ſoll an jm ſelber/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_19" custom="readingOrder {index:18;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="799,1577 2277,1577 2277,1689 799,1689"/>
+                <Baseline points="801,1654 1489,1637 2277,1637"/>
+                <TextEquiv>
+                    <Unicode>Iam Christo mitt allm glosse, liplich,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_20" custom="readingOrder {index:19;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="821,1672 2260,1672 2260,1771 821,1771"/>
+                <Baseline points="823,1740 1339,1724 2260,1730"/>
+                <TextEquiv>
+                    <Unicode>geist und glouben gauders ouch gekreyget.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_21" custom="readingOrder {index:20;} atr {basis:llm-print; conf:0.72;}">
+                <Coords points="809,1754 2297,1754 2297,1859 809,1859"/>
+                <Baseline points="811,1820 1485,1806 2297,1820"/>
+                <TextEquiv>
+                    <Unicode>vnſer ſůnd Bezalin̄d/ vnfrůchtbar iſt. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_22" custom="readingOrder {index:21;} atr {basis:llm-print; conf:0.66;}">
+                <Coords points="797,1849 2289,1849 2289,1952 797,1952"/>
+                <Baseline points="799,1919 1653,1901 2289,1921"/>
+                <TextEquiv>
+                    <Unicode>ouch über diſen ſpruch/ es ein erklärung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_23" custom="readingOrder {index:22;} atr {basis:llm-print; conf:0.82;}">
+                <Coords points="838,1940 2211,1940 2211,2042 838,2042"/>
+                <Baseline points="840,1994 2211,1996"/>
+                <TextEquiv>
+                    <Unicode>iſt/ die der geſchrifft alſo zůgegen ſin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_24" custom="readingOrder {index:23;} atr {basis:llm-print; conf:0.75;}">
+                <Coords points="821,2035 2219,2035 2219,2128 821,2128"/>
+                <Baseline points="821,2091 2219,2091"/>
+                <TextEquiv>
+                    <Unicode>ſin moͤchte/ durch welches lyplichs anrůrē/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_25" custom="readingOrder {index:24;} atr {basis:llm-C; conf:0.55;}">
+                <Coords points="817,2126 2312,2126 2312,2237 817,2237"/>
+                <Baseline points="819,2182 1615,2180 2312,2198"/>
+                <TextEquiv>
+                    <Unicode>unndt betragend geist, die usserß gerungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_26" custom="readingOrder {index:25;} atr {basis:llm-print; conf:0.71;}">
+                <Coords points="807,2217 2330,2217 2330,2330 807,2330"/>
+                <Baseline points="809,2268 1945,2278 2330,2272"/>
+                <TextEquiv>
+                    <Unicode>werdē. Solt nun des lyb oder fleyſch on nůtz ſin/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_27" custom="readingOrder {index:26;} atr {basis:llm-B; conf:0.40;}">
+                <Coords points="2250,2285 2334,2285 2334,2344 2250,2344"/>
+                <Baseline points="2250,2324 2334,2324"/>
+                <TextEquiv>
+                    <Unicode>dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_28" custom="readingOrder {index:27;} atr {basis:llm-C; conf:0.80;}">
+                <Coords points="807,2313 2334,2313 2334,2419 807,2419"/>
+                <Baseline points="809,2371 2334,2359"/>
+                <TextEquiv>
+                    <Unicode>der usß der helg geist erpfangen, in dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_29" custom="readingOrder {index:28;} atr {basis:llm-C; conf:0.60;}">
+                <Coords points="477,2396 2330,2396 2330,2512 477,2512"/>
+                <Baseline points="479,2492 690,2469 1254,2444 2330,2459"/>
+                <TextEquiv>
+                    <Unicode>alle volkhmecht der gottesrat, hat gewonlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_30" custom="readingOrder {index:29;} atr {basis:llm-print; conf:0.86;}">
+                <Coords points="828,2483 2314,2483 2314,2576 828,2576"/>
+                <Baseline points="830,2539 1363,2531 2314,2543"/>
+                <TextEquiv>
+                    <Unicode>tregt vff im diſen verſtand: thůt es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_31" custom="readingOrder {index:30;} atr {basis:llm-C; conf:0.75;}">
+                <Coords points="819,2572 2295,2572 2295,2687 819,2687"/>
+                <Baseline points="821,2631 1543,2625 2295,2648"/>
+                <TextEquiv>
+                    <Unicode>da mansch, geistlich, das ist, so es im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_32" custom="readingOrder {index:31;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="821,2656 2028,2656 2028,2778 821,2778"/>
+                <Baseline points="823,2716 1415,2716 2028,2736"/>
+                <TextEquiv>
+                    <Unicode>beywardet, so ist es guͦt und muͦß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_33" custom="readingOrder {index:32;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="838,2741 2334,2741 2334,2906 838,2906"/>
+                <Baseline points="838,2811 1081,2802 1630,2807 1891,2817 2063,2831 2182,2851 2334,2859"/>
+                <TextEquiv>
+                    <Unicode>Den wol der künst mäget uffgeren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>grief ist, der uß Löttingen nater, usß
+welchen aller wer verstand, selig, etc.
+verſachenn
+mit
+weder sin, der episcopum
+lichen mensch deß libs, ehrs, handen, erlichs
+von Flischlichen urtel och stand dann
+fleisslich, was zuͦ treffen, innem ein sin
+ein
+gesessen, wie er in sin fleisch nitt
+zu essen , darum ander vil stahn vel
+ander überantwurffte, dotten, eroffnet in
+durchgang deß roten luters. In spesung deß
+Heinrichen und ander wunderwörter.
+durch den Moser pmässer, sol au der
+oder bedů tung des lybs Chriſti nutzlich
+sin, wiewil mer das wesen, das
+das dadurch bedůtet werde ſoll an jm ſelber/
+Iam Christo mitt allm glosse, liplich,
+geist und glouben gauders ouch gekreyget.
+vnſer ſůnd Bezalin̄d/ vnfrůchtbar iſt. Der
+ouch über diſen ſpruch/ es ein erklärung
+iſt/ die der geſchrifft alſo zůgegen ſin
+ſin moͤchte/ durch welches lyplichs anrůrē/
+unndt betragend geist, die usserß gerungen
+werdē. Solt nun des lyb oder fleyſch on nůtz ſin/
+dem
+der usß der helg geist erpfangen, in dem
+alle volkhmecht der gottesrat, hat gewonlich
+tregt vff im diſen verſtand: thůt es
+da mansch, geistlich, das ist, so es im
+beywardet, so ist es guͦt und muͦß
+Den wol der künst mäget uffgeren.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

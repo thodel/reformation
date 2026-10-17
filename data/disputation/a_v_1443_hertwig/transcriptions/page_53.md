@@ -30,7 +30,7 @@ das dehem fleisch / dehein staͤrbliche creatur, Ein
 Houpt der kilchen / unnd das hatt der Bycht-
 vatter, alles selbs bestättigett, all schrifften,
 der vatter Harfür bracht, geben nitt anders
-Dni Santto
+"Santto"
 zuͤ "Santo"Petro, dann dienstbarkeyt / sollichs erschinen
 wurdt / uss diserm unnserm verantwurtten
 der erst spruch, uss dem ersten Cappittell Johannis

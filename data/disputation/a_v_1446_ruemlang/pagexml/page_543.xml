@@ -1,8 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:27:35.057+01:00</Created>
-        <LastChange>2026-01-27T10:27:35.057+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:54Z</Created>
+        <LastChange>2026-10-16T12:54:25.636+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": null, "summary": {"llm": 5}}</Comments>
     </Metadata>
-    <Page imageFilename="p543.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="520,902 2180,902 2180,1204 520,1204"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="617,908 2174,908 2174,1028 617,1028"/>
+                <Baseline points="617,976 1027,968 1747,982 2174,1001"/>
+                <TextEquiv>
+                    <Unicode>dann ich mines gebubens und darus allweg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="553,993 2145,993 2145,1148 553,1148"/>
+                <Baseline points="553,1057 904,1050 1440,1057 2145,1090"/>
+                <TextEquiv>
+                    <Unicode>und einen iede rechnung zegebnn bereit vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-C; conf:0.80;}">
+                <Coords points="526,1083 1002,1083 1002,1198 526,1198"/>
+                <Baseline points="528,1142 1002,1136"/>
+                <TextEquiv>
+                    <Unicode>willig bin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dann ich mines gebubens und darus allweg
+und einen iede rechnung zegebnn bereit vnd
+willig bin.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="2343,1059 2463,1059 2463,1430 2343,1430"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="2349,1065 2457,1065 2457,1206 2349,1206"/>
+                <Baseline points="2353,1177 2457,1173"/>
+                <TextEquiv>
+                    <Unicode>S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;} atr {basis:llm-B; conf:0.55;}">
+                <Coords points="2361,1299 2443,1299 2443,1424 2361,1424"/>
+                <Baseline points="2365,1348 2442,1342"/>
+                <TextEquiv>
+                    <Unicode>Heinrich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S.
+Heinrich</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

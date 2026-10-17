@@ -1,8 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:26:20.920+01:00</Created>
-        <LastChange>2026-01-27T10:26:20.920+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:52:54.460+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.0, "summary": {"agree_norm": 3, "llm": 4}}</Comments>
     </Metadata>
-    <Page imageFilename="p001.jpg" imageHeight="2479" imageWidth="3508"/>
+    <Page imageFilename="Get" imageWidth="3508" imageHeight="2479">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="99,47 600,47 600,236 99,236"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="105,53 160,53 160,230 105,230"/>
+                <Baseline points="107,93 153,90"/>
+                <TextEquiv>
+                    <Unicode>vor der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:agree_norm; conf:0.85;}">
+                <Coords points="267,94 514,94 514,138 267,138"/>
+                <Baseline points="268,126 514,123"/>
+                <TextEquiv>
+                    <Unicode>Kanton Bern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:agree_norm; conf:0.85;}">
+                <Coords points="271,133 594,133 594,184 271,184"/>
+                <Baseline points="273,171 594,168"/>
+                <TextEquiv>
+                    <Unicode>Canton de Berne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vor der
+Kanton Bern
+Canton de Berne</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="190,729 2259,729 2259,1344 190,1344"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:agree_norm; conf:0.85;}">
+                <Coords points="197,735 1206,735 1206,807 197,807"/>
+                <Baseline points="197,790 1206,790"/>
+                <TextEquiv>
+                    <Unicode>Staatsarchiv des Kantons Bern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;} atr {basis:llm-A; conf:0.85;}">
+                <Coords points="297,882 491,882 491,959 297,959"/>
+                <Baseline points="297,941 491,941"/>
+                <TextEquiv>
+                    <Unicode>1446</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;} atr {basis:llm-A; conf:0.90;}">
+                <Coords points="196,1042 2253,1042 2253,1119 196,1119"/>
+                <Baseline points="197,1097 2253,1094"/>
+                <TextEquiv>
+                    <Unicode>Unnütze Papiere (UP), Band 75: Akten der Berner Disputation, 1528.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_4" custom="readingOrder {index:3;} atr {basis:llm-A; conf:0.90;}">
+                <Coords points="197,1265 1371,1265 1371,1338 197,1338"/>
+                <Baseline points="199,1310 1371,1308"/>
+                <TextEquiv>
+                    <Unicode>https://www.query.sta.be.ch/detail.aspx?ID=237704</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Staatsarchiv des Kantons Bern
+1446
+Unnütze Papiere (UP), Band 75: Akten der Berner Disputation, 1528.
+https://www.query.sta.be.ch/detail.aspx?ID=237704</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

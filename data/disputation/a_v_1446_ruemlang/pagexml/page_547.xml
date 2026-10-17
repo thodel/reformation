@@ -1,8 +1,149 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:27:35.571+01:00</Created>
-        <LastChange>2026-01-27T10:27:35.571+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:54Z</Created>
+        <LastChange>2026-10-16T12:54:26.326+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.0, "summary": {"llm": 16}}</Comments>
     </Metadata>
-    <Page imageFilename="p547.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="413,257 2120,257 2120,547 413,547"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-mixed; conf:0.75;}">
+                <Coords points="739,263 2114,263 2114,403 739,403"/>
+                <Baseline points="739,331 1562,329 2114,349"/>
+                <TextEquiv>
+                    <Unicode>keiner unser schlißred widersprechen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-B; conf:0.40;}">
+                <Coords points="419,352 737,352 737,516 419,516"/>
+                <Baseline points="425,465 737,452"/>
+                <TextEquiv>
+                    <Unicode>haere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-A; conf:0.85;}">
+                <Coords points="860,391 2016,391 2016,541 860,541"/>
+                <Baseline points="862,461 2016,454"/>
+                <TextEquiv>
+                    <Unicode>laß ich bliben zum vorigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>keiner unser schlißred widersprechen
+haere
+laß ich bliben zum vorigen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="576,1796 2334,1796 2334,3079 576,3079"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:llm-C; conf:0.70;}">
+                <Coords points="865,1802 2285,1802 2285,1940 865,1940"/>
+                <Baseline points="865,1897 1007,1890 2285,1894"/>
+                <TextEquiv>
+                    <Unicode>Item uff sonntag nach Vintennii nach mittags</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;} atr {basis:llm-C; conf:0.70;}">
+                <Coords points="943,1921 2209,1921 2209,2056 943,2056"/>
+                <Baseline points="943,1986 1475,1980 2209,1994"/>
+                <TextEquiv>
+                    <Unicode>ist also gehandelt, als hiemach folgen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;} atr {basis:llm-B; conf:0.40;}">
+                <Coords points="972,2062 1261,2062 1261,2186 972,2186"/>
+                <Baseline points="974,2138 1261,2136"/>
+                <TextEquiv>
+                    <Unicode>et fœrwisſen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_4" custom="readingOrder {index:3;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="613,2143 2328,2143 2328,2299 613,2299"/>
+                <Baseline points="615,2215 1587,2235 2328,2227"/>
+                <TextEquiv>
+                    <Unicode>Beroldus den beschluß in geschrifft, singelg, ursache</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_5" custom="readingOrder {index:4;} atr {basis:llm-A; conf:0.40;}">
+                <Coords points="582,2336 629,2336 629,2438 582,2438"/>
+                <Baseline points="604,2404 621,2398"/>
+                <TextEquiv>
+                    <Unicode>S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_6" custom="readingOrder {index:5;} atr {basis:llm-mixed; conf:0.80;}">
+                <Coords points="741,2313 2297,2313 2297,2422 741,2422"/>
+                <Baseline points="743,2385 1755,2379 2297,2394"/>
+                <TextEquiv>
+                    <Unicode>Ersamen fromen Christen, als dann wir erfordert sind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_7" custom="readingOrder {index:6;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="684,2398 2215,2398 2215,2500 684,2500"/>
+                <Baseline points="684,2461 1380,2452 1910,2461 2215,2477"/>
+                <TextEquiv>
+                    <Unicode>vor unserm g herrn, egenant Berrn Regenspiller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_8" custom="readingOrder {index:7;} atr {basis:llm-mixed; conf:0.75;}">
+                <Coords points="712,2471 2256,2471 2256,2592 712,2592"/>
+                <Baseline points="714,2531 1378,2529 2256,2559"/>
+                <TextEquiv>
+                    <Unicode>menklich hier in offener disputation zu geben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_9" custom="readingOrder {index:8;} atr {basis:llm-B; conf:0.85;}">
+                <Coords points="731,2549 2227,2549 2227,2679 731,2679"/>
+                <Baseline points="731,2627 1110,2609 1433,2609 2227,2644"/>
+                <TextEquiv>
+                    <Unicode>geschrifft verhören vnd mitt hilff und gnad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_10" custom="readingOrder {index:9;} atr {basis:llm-mixed; conf:0.80;}">
+                <Coords points="725,2634 2281,2634 2281,2763 725,2763"/>
+                <Baseline points="727,2720 875,2699 1401,2695 2281,2737"/>
+                <TextEquiv>
+                    <Unicode>Gott erkunden, ob doch wir derselben die dann von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_11" custom="readingOrder {index:10;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="725,2724 2267,2724 2267,2846 725,2846"/>
+                <Baseline points="727,2800 760,2790 858,2784 1462,2780 2028,2809 2267,2813"/>
+                <TextEquiv>
+                    <Unicode>gott gsy , vnd dieselbs göttliche warheit allein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_12" custom="readingOrder {index:11;} atr {basis:llm-mixed; conf:0.70;}">
+                <Coords points="716,2807 2306,2807 2306,2925 716,2925"/>
+                <Baseline points="718,2859 1537,2863 2306,2886"/>
+                <TextEquiv>
+                    <Unicode>gemäß und einhellig geprediget habend, welches nun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_13" custom="readingOrder {index:12;} atr {basis:llm-mixed; conf:0.70;}">
+                <Coords points="681,2882 2207,2882 2207,3073 681,3073"/>
+                <Baseline points="682,2950 893,2954 1164,2941 1425,2941 2207,2960"/>
+                <TextEquiv>
+                    <Unicode>die fürgetragenen schlußreden nach aller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Item uff sonntag nach Vintennii nach mittags
+ist also gehandelt, als hiemach folgen
+et fœrwisſen
+Beroldus den beschluß in geschrifft, singelg, ursache
+S
+Ersamen fromen Christen, als dann wir erfordert sind
+vor unserm g herrn, egenant Berrn Regenspiller
+menklich hier in offener disputation zu geben
+geschrifft verhören vnd mitt hilff und gnad
+Gott erkunden, ob doch wir derselben die dann von
+gott gsy , vnd dieselbs göttliche warheit allein
+gemäß und einhellig geprediget habend, welches nun
+die fürgetragenen schlußreden nach aller</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

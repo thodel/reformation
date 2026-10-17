@@ -1,8 +1,288 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:26:50.918+01:00</Created>
-        <LastChange>2026-01-27T10:26:50.918+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:53:20.883+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.444, "summary": {"llm": 34}}</Comments>
     </Metadata>
-    <Page imageFilename="p219.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="341,243 2382,243 2382,2991 341,2991"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="448,249 2308,249 2308,407 448,407"/>
+                <Baseline points="450,323 916,337 1473,331 1908,337 1989,352 2308,380"/>
+                <TextEquiv>
+                    <Unicode>Zoyenius. Dertel Sant Paulus, was haben wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="850,351 2260,351 2260,469 850,469"/>
+                <Baseline points="852,428 1193,415 1556,415 2260,440"/>
+                <TextEquiv>
+                    <Unicode>Das tüchtliches lären ſiend spiß vnd Er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="846,440 2304,440 2304,545 846,545"/>
+                <Baseline points="848,504 1390,492 2125,506 2304,518"/>
+                <TextEquiv>
+                    <Unicode>verbiet, so wirt kain christlich gemandt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="858,526 1041,526 1041,619 858,619"/>
+                <Baseline points="858,584 1041,584"/>
+                <TextEquiv>
+                    <Unicode>lieben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_5" custom="readingOrder {index:4;} atr {basis:llm-B; conf:0.40;}">
+                <Coords points="1265,526 2322,526 2322,631 1265,631"/>
+                <Baseline points="1267,568 1897,580 2086,599 2322,605"/>
+                <TextEquiv>
+                    <Unicode>den armen anhier oder , es spahn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_6" custom="readingOrder {index:5;} atr {basis:llm-A; conf:0.45;}">
+                <Coords points="834,609 2318,609 2318,729 834,729"/>
+                <Baseline points="834,672 1663,670 2318,694"/>
+                <TextEquiv>
+                    <Unicode>vorgfogt, das die Christi frewillige vasten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_7" custom="readingOrder {index:6;} atr {basis:llm-C; conf:0.75;}">
+                <Coords points="951,696 2334,696 2334,826 951,826"/>
+                <Baseline points="953,766 1308,756 1696,758 2178,777 2334,793"/>
+                <TextEquiv>
+                    <Unicode>in gemein und sonder haben, das si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_8" custom="readingOrder {index:7;} atr {basis:llm-C; conf:0.65;}">
+                <Coords points="846,801 2343,801 2343,913 846,913"/>
+                <Baseline points="848,863 1566,855 2094,878 2343,880"/>
+                <TextEquiv>
+                    <Unicode>noch sant Pauli in ingomen an den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_9" custom="readingOrder {index:8;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="856,877 2347,877 2347,1007 856,1007"/>
+                <Baseline points="858,956 1224,945 1751,947 2347,985"/>
+                <TextEquiv>
+                    <Unicode>das von fleisch, eßter der boͤchtaͤter, ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_10" custom="readingOrder {index:9;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="875,978 2326,978 2326,1085 875,1085"/>
+                <Baseline points="875,1038 1618,1038 2326,1055"/>
+                <TextEquiv>
+                    <Unicode>Jogg hatt, wirt noch lang nitt bewaren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_11" custom="readingOrder {index:10;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="854,1063 2228,1063 2228,1177 854,1177"/>
+                <Baseline points="856,1132 1256,1121 2228,1128"/>
+                <TextEquiv>
+                    <Unicode>das dan kirch fleisch essen verbiren mög ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_12" custom="readingOrder {index:11;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="854,1161 2347,1161 2347,1263 854,1263"/>
+                <Baseline points="856,1228 1125,1214 2347,1216"/>
+                <TextEquiv>
+                    <Unicode>gott den herren, hatt gebotten, wie ouch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_13" custom="readingOrder {index:12;} atr {basis:llm-B; conf:0.40;}">
+                <Coords points="838,1245 2339,1245 2339,1344 838,1344"/>
+                <Baseline points="838,1301 1873,1298 2339,1307"/>
+                <TextEquiv>
+                    <Unicode>Wunstucken wo dar uff nechst dardurch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_14" custom="readingOrder {index:13;} atr {basis:llm-C; conf:0.35;}">
+                <Coords points="867,1323 2365,1323 2365,1418 867,1418"/>
+                <Baseline points="867,1387 1593,1373 2365,1389"/>
+                <TextEquiv>
+                    <Unicode>gangen wirt, das ist ain geden und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_15" custom="readingOrder {index:14;} atr {basis:llm-A; conf:0.45;}">
+                <Coords points="844,1403 2357,1403 2357,1504 844,1504"/>
+                <Baseline points="846,1476 1477,1455 2357,1463"/>
+                <TextEquiv>
+                    <Unicode>verhindern, sustent, wor da haltett</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_16" custom="readingOrder {index:15;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="846,1484 2372,1484 2372,1582 846,1582"/>
+                <Baseline points="848,1561 1401,1542 2372,1542"/>
+                <TextEquiv>
+                    <Unicode>desman allerley esse mög, der wirt von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_17" custom="readingOrder {index:16;} atr {basis:llm-C; conf:0.40;}">
+                <Coords points="856,1567 2343,1567 2343,1666 856,1666"/>
+                <Baseline points="858,1631 2343,1625"/>
+                <TextEquiv>
+                    <Unicode>yeml gericht, dess ain hockler dinghender</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_18" custom="readingOrder {index:17;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="846,1641 2337,1641 2337,1755 846,1755"/>
+                <Baseline points="848,1701 1716,1697 2119,1703 2337,1717"/>
+                <TextEquiv>
+                    <Unicode>und d'gott uffgenommen, als lüt deß 14.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_19" custom="readingOrder {index:18;} atr {basis:llm-C; conf:0.35;}">
+                <Coords points="926,1730 2335,1730 2335,1827 926,1827"/>
+                <Baseline points="928,1789 1932,1785 2032,1794 2335,1800"/>
+                <TextEquiv>
+                    <Unicode>zuo vönnen. Der gebetten, die sach gar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_20" custom="readingOrder {index:19;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="854,1810 2376,1810 2376,1919 854,1919"/>
+                <Baseline points="856,1876 1294,1866 2376,1874"/>
+                <TextEquiv>
+                    <Unicode>daruff ir sich selbs, den bruch eniger erfaaren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_21" custom="readingOrder {index:20;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="871,1894 2273,1894 2273,1988 871,1988"/>
+                <Baseline points="871,1948 1743,1944 2273,1956"/>
+                <TextEquiv>
+                    <Unicode>übren ist, daß tüfels werck und wirt also</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_22" custom="readingOrder {index:21;} atr {basis:llm-B; conf:0.65;}">
+                <Coords points="862,1971 2341,1971 2341,2068 862,2068"/>
+                <Baseline points="863,2031 1636,2017 2044,2033 2341,2033"/>
+                <TextEquiv>
+                    <Unicode>bliben so lang die wort pauli war belibends</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_23" custom="readingOrder {index:22;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="848,2033 2370,2033 2370,2161 848,2161"/>
+                <Baseline points="848,2099 1287,2093 2370,2116"/>
+                <TextEquiv>
+                    <Unicode>Fridwillig aber, sol den coept alle ding zuͦ besorg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_24" custom="readingOrder {index:23;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="862,2122 2372,2122 2372,2243 862,2243"/>
+                <Baseline points="863,2178 1355,2175 1710,2194 2372,2204"/>
+                <TextEquiv>
+                    <Unicode>brüeder. Dem also hatt ich halt, es seyt ouch nitt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_25" custom="readingOrder {index:24;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="768,2200 2322,2200 2322,2318 768,2318"/>
+                <Baseline points="768,2250 1372,2250 1864,2276 2322,2278"/>
+                <TextEquiv>
+                    <Unicode>der her darvon hervor gefandlet wirt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_26" custom="readingOrder {index:25;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="543,2357 2306,2357 2306,2502 543,2502"/>
+                <Baseline points="545,2448 922,2430 1162,2430 1472,2436 1920,2461 2306,2465"/>
+                <TextEquiv>
+                    <Unicode>Büttsch, diewil ich het ouch von uffgang der vasten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_27" custom="readingOrder {index:26;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="347,2481 850,2481 850,2664 347,2664"/>
+                <Baseline points="349,2561 848,2543"/>
+                <TextEquiv>
+                    <Unicode>nach den worten parli.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_28" custom="readingOrder {index:27;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="877,2450 2318,2450 2318,2588 877,2588"/>
+                <Baseline points="877,2512 974,2504 1396,2506 1813,2541 2318,2545"/>
+                <TextEquiv>
+                    <Unicode>gelegen und herr Veyter Spitzen, der 16 bürger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_29" custom="readingOrder {index:28;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="875,2533 2295,2533 2295,2654 875,2654"/>
+                <Baseline points="877,2586 1265,2582 1829,2611 2295,2613"/>
+                <TextEquiv>
+                    <Unicode>der spisz, stend diß tüffels gebott und gaienß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_30" custom="readingOrder {index:29;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="863,2615 2328,2615 2328,2722 863,2722"/>
+                <Baseline points="865,2667 1382,2667 1794,2687 2328,2689"/>
+                <TextEquiv>
+                    <Unicode>Sprech ich etc. Wann uss dem das meysch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_31" custom="readingOrder {index:30;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="883,2685 2372,2685 2372,2813 883,2813"/>
+                <Baseline points="885,2747 1386,2743 1836,2769 2372,2780"/>
+                <TextEquiv>
+                    <Unicode>Byg. 24. Herren 3. reg. 19. Und Cristus Johans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_32" custom="readingOrder {index:31;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="846,2765 2359,2765 2359,2892 846,2892"/>
+                <Baseline points="848,2815 1374,2819 1766,2842 2359,2857"/>
+                <TextEquiv>
+                    <Unicode>Mett, 4. in jeder viertzig tag geästett, hatt der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_33" custom="readingOrder {index:32;} atr {basis:llm-A; conf:0.40;}">
+                <Coords points="865,2853 1108,2853 1108,2945 865,2945"/>
+                <Baseline points="865,2896 1108,2900"/>
+                <TextEquiv>
+                    <Unicode>Hr. L.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_34" custom="readingOrder {index:33;} atr {basis:llm-mixed; conf:0.60;}">
+                <Coords points="1174,2846 2372,2846 2372,2985 1174,2985"/>
+                <Baseline points="1176,2898 1526,2902 1945,2923 2372,2919"/>
+                <TextEquiv>
+                    <Unicode>Kilch semliches hieruß angenommen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zoyenius. Dertel Sant Paulus, was haben wir
+Das tüchtliches lären ſiend spiß vnd Er
+verbiet, so wirt kain christlich gemandt
+lieben
+den armen anhier oder , es spahn
+vorgfogt, das die Christi frewillige vasten
+in gemein und sonder haben, das si
+noch sant Pauli in ingomen an den
+das von fleisch, eßter der boͤchtaͤter, ihre
+Jogg hatt, wirt noch lang nitt bewaren.
+das dan kirch fleisch essen verbiren mög ,
+gott den herren, hatt gebotten, wie ouch
+Wunstucken wo dar uff nechst dardurch
+gangen wirt, das ist ain geden und
+verhindern, sustent, wor da haltett
+desman allerley esse mög, der wirt von
+yeml gericht, dess ain hockler dinghender
+und d'gott uffgenommen, als lüt deß 14.
+zuo vönnen. Der gebetten, die sach gar
+daruff ir sich selbs, den bruch eniger erfaaren.
+übren ist, daß tüfels werck und wirt also
+bliben so lang die wort pauli war belibends
+Fridwillig aber, sol den coept alle ding zuͦ besorg
+brüeder. Dem also hatt ich halt, es seyt ouch nitt,
+der her darvon hervor gefandlet wirt.
+Büttsch, diewil ich het ouch von uffgang der vasten
+nach den worten parli.
+gelegen und herr Veyter Spitzen, der 16 bürger
+der spisz, stend diß tüffels gebott und gaienß
+Sprech ich etc. Wann uss dem das meysch
+Byg. 24. Herren 3. reg. 19. Und Cristus Johans
+Mett, 4. in jeder viertzig tag geästett, hatt der
+Hr. L.
+Kilch semliches hieruß angenommen und</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

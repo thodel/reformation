@@ -1,8 +1,240 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:26:38.394+01:00</Created>
-        <LastChange>2026-01-27T10:26:38.394+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:53:04.722+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.81, "summary": {"llm": 28}}</Comments>
     </Metadata>
-    <Page imageFilename="p127.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="333,211 2373,211 2373,3036 333,3036"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="875,217 2260,217 2260,339 875,339"/>
+                <Baseline points="877,282 1558,281 2260,296"/>
+                <TextEquiv>
+                    <Unicode>von unsern herren von Bern zu Preden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="887,321 2332,321 2332,419 887,419"/>
+                <Baseline points="887,380 1887,376 2332,405"/>
+                <TextEquiv>
+                    <Unicode>verordnett sind über ir artickel und kranckheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="885,415 2341,415 2341,506 885,506"/>
+                <Baseline points="887,473 2028,467 2341,477"/>
+                <TextEquiv>
+                    <Unicode>wegs über einich erlei frömbder handlung unnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-mixed; conf:0.60;}">
+                <Coords points="883,508 2341,508 2341,615 883,615"/>
+                <Baseline points="885,570 1914,570 2341,582"/>
+                <TextEquiv>
+                    <Unicode>Spann, so jemand wider den anderen möchte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_5" custom="readingOrder {index:4;} atr {basis:llm-mixed; conf:0.65;}">
+                <Coords points="871,597 2328,597 2328,709 871,709"/>
+                <Baseline points="871,668 1483,663 2328,682"/>
+                <TextEquiv>
+                    <Unicode>haben, darumb wir uns begenden dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_6" custom="readingOrder {index:5;} atr {basis:llm-mixed; conf:0.70;}">
+                <Coords points="877,696 2328,696 2328,803 877,803"/>
+                <Baseline points="877,775 1213,758 1694,756 2114,766 2328,787"/>
+                <TextEquiv>
+                    <Unicode>selbigen ampt allein zu dienen, aber minem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_7" custom="readingOrder {index:6;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="865,801 2326,801 2326,919 865,919"/>
+                <Baseline points="867,884 1261,859 1887,855 2083,863 2326,888"/>
+                <TextEquiv>
+                    <Unicode>herrn provincial Erlauben wir frisch ze reden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_8" custom="readingOrder {index:7;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="860,898 2238,898 2238,1020 860,1020"/>
+                <Baseline points="862,978 1665,958 2238,962"/>
+                <TextEquiv>
+                    <Unicode>und zedispuͦrieren , mitt den verdienen .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_9" custom="readingOrder {index:8;} atr {basis:llm-C; conf:0.68;}">
+                <Coords points="871,1015 2254,1015 2254,1107 871,1107"/>
+                <Baseline points="873,1073 1887,1061 2254,1083"/>
+                <TextEquiv>
+                    <Unicode>von Bern wider ir fürgenomenen artikel, uß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_10" custom="readingOrder {index:9;} atr {basis:llm-A; conf:0.78;}">
+                <Coords points="860,1097 2322,1097 2322,1214 860,1214"/>
+                <Baseline points="862,1179 1491,1152 1887,1154 2322,1173"/>
+                <TextEquiv>
+                    <Unicode>göttlichem wort nach ordnung und ansuchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_11" custom="readingOrder {index:10;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="854,1198 2291,1198 2291,1298 854,1298"/>
+                <Baseline points="856,1264 1893,1251 2092,1259 2291,1282"/>
+                <TextEquiv>
+                    <Unicode>miner herrn von Bern, damitt kein kertzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_12" custom="readingOrder {index:11;} atr {basis:llm-C; conf:0.72;}">
+                <Coords points="865,1290 2361,1290 2361,1401 865,1401"/>
+                <Baseline points="867,1364 1552,1342 2005,1350 2361,1377"/>
+                <TextEquiv>
+                    <Unicode>och gemein, kain person herysechen oder anderswo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_13" custom="readingOrder {index:12;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="856,1397 2314,1397 2314,1500 856,1500"/>
+                <Baseline points="858,1451 1737,1449 2108,1461 2314,1476"/>
+                <TextEquiv>
+                    <Unicode>nitt werd angeordett, was eder glaub oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_14" custom="readingOrder {index:13;} atr {basis:llm-B; conf:0.68;}">
+                <Coords points="848,1488 2287,1488 2287,1594 848,1594"/>
+                <Baseline points="850,1538 2287,1561"/>
+                <TextEquiv>
+                    <Unicode>nitt glaub , darby wir inn ouch bittend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_15" custom="readingOrder {index:14;} atr {basis:llm-B; conf:0.55;}">
+                <Coords points="848,1575 2367,1575 2367,1709 848,1709"/>
+                <Baseline points="848,1641 1191,1641 2367,1668"/>
+                <TextEquiv>
+                    <Unicode>flißig fleißlich das er sich deß witer undermann ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_16" custom="readingOrder {index:15;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="840,1684 2324,1684 2324,1808 840,1808"/>
+                <Baseline points="842,1746 1877,1755 2324,1783"/>
+                <TextEquiv>
+                    <Unicode>zerlüterung deß landes und von span, so er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_17" custom="readingOrder {index:16;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="852,1789 2291,1789 2291,1913 852,1913"/>
+                <Baseline points="854,1833 1607,1849 2057,1868 2291,1864"/>
+                <TextEquiv>
+                    <Unicode>mitt den predicanten von Straßburg hatt, zuͦ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_18" custom="readingOrder {index:17;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="850,1878 2246,1878 2246,2017 850,2017"/>
+                <Baseline points="852,1944 1139,1942 2246,1976"/>
+                <TextEquiv>
+                    <Unicode>andern ziten wol mogen vertrösten, quitt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_19" custom="readingOrder {index:18;} atr {basis:llm-C; conf:0.70;}">
+                <Coords points="846,1986 1696,1986 1696,2128 846,2128"/>
+                <Baseline points="848,2060 1696,2048"/>
+                <TextEquiv>
+                    <Unicode>gschrifft oder muntlich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_20" custom="readingOrder {index:19;} atr {basis:llm-C; conf:0.40;}">
+                <Coords points="339,2143 2363,2143 2363,2303 339,2303"/>
+                <Baseline points="341,2233 768,2219 1095,2219 1708,2233 2094,2264 2363,2264"/>
+                <TextEquiv>
+                    <Unicode>M. Cuͦnrat d. deß commer protestand für sich selbs, insonder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_21" custom="readingOrder {index:20;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="803,2248 2351,2248 2351,2386 803,2386"/>
+                <Baseline points="805,2305 1246,2301 1675,2316 1971,2342 2351,2346"/>
+                <TextEquiv>
+                    <Unicode>Ich protestier mich hie, das mine herrn die pßidem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_22" custom="readingOrder {index:21;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="826,2332 2349,2332 2349,2477 826,2477"/>
+                <Baseline points="828,2383 1458,2392 1755,2413 1862,2428 2349,2444"/>
+                <TextEquiv>
+                    <Unicode>dem praemica ein stillschweigen habend uffgeleit, oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_23" custom="readingOrder {index:22;} atr {basis:llm-C; conf:0.70;}">
+                <Coords points="807,2419 2330,2419 2330,2557 807,2557"/>
+                <Baseline points="809,2483 1254,2473 1891,2510 2330,2514"/>
+                <TextEquiv>
+                    <Unicode>abgeschlagen zereden und zedifüreren, sonder inn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_24" custom="readingOrder {index:23;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="842,2512 2357,2512 2357,2627 842,2627"/>
+                <Baseline points="844,2564 1357,2562 1879,2588 2357,2599"/>
+                <TextEquiv>
+                    <Unicode>erloupt frei jaren und zerstürenn, nitt dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_25" custom="readingOrder {index:24;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="867,2597 2339,2597 2339,2722 867,2722"/>
+                <Baseline points="869,2650 2339,2683"/>
+                <TextEquiv>
+                    <Unicode>so dicanten wöler ir artickel inn ouch gebetten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_26" custom="readingOrder {index:25;} atr {basis:llm-C; conf:0.65;}">
+                <Coords points="842,2683 2361,2683 2361,2809 842,2809"/>
+                <Baseline points="842,2736 1462,2747 1817,2763 2361,2767"/>
+                <TextEquiv>
+                    <Unicode>söllichs zetuͦn, umb mer erlüttenng willen, das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_27" custom="readingOrder {index:26;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="840,2771 2326,2771 2326,2898 840,2898"/>
+                <Baseline points="842,2827 1487,2833 2326,2863"/>
+                <TextEquiv>
+                    <Unicode>die göttlich warhern dester lüte und heitwer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_28" custom="readingOrder {index:27;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="850,2859 2324,2859 2324,3030 850,3030"/>
+                <Baseline points="854,2908 1749,2929 2001,2948 2324,2952"/>
+                <TextEquiv>
+                    <Unicode>eroffnett werde , im nitt mæ abgeschlagen ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>von unsern herren von Bern zu Preden.
+verordnett sind über ir artickel und kranckheit
+wegs über einich erlei frömbder handlung unnd
+Spann, so jemand wider den anderen möchte
+haben, darumb wir uns begenden dem
+selbigen ampt allein zu dienen, aber minem
+herrn provincial Erlauben wir frisch ze reden
+und zedispuͦrieren , mitt den verdienen .
+von Bern wider ir fürgenomenen artikel, uß
+göttlichem wort nach ordnung und ansuchen
+miner herrn von Bern, damitt kein kertzen
+och gemein, kain person herysechen oder anderswo
+nitt werd angeordett, was eder glaub oder
+nitt glaub , darby wir inn ouch bittend
+flißig fleißlich das er sich deß witer undermann ,
+zerlüterung deß landes und von span, so er
+mitt den predicanten von Straßburg hatt, zuͦ
+andern ziten wol mogen vertrösten, quitt
+gschrifft oder muntlich.
+M. Cuͦnrat d. deß commer protestand für sich selbs, insonder
+Ich protestier mich hie, das mine herrn die pßidem
+dem praemica ein stillschweigen habend uffgeleit, oder
+abgeschlagen zereden und zedifüreren, sonder inn
+erloupt frei jaren und zerstürenn, nitt dann
+so dicanten wöler ir artickel inn ouch gebetten
+söllichs zetuͦn, umb mer erlüttenng willen, das
+die göttlich warhern dester lüte und heitwer
+eroffnett werde , im nitt mæ abgeschlagen ,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

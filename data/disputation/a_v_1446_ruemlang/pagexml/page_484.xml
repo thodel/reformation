@@ -1,8 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:27:27.241+01:00</Created>
-        <LastChange>2026-01-27T10:27:27.241+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:54:15.011+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.845, "summary": {"llm": 9}}</Comments>
     </Metadata>
-    <Page imageFilename="p484.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="496,178 2268,178 2268,982 496,982"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-A; conf:0.85;}">
+                <Coords points="536,184 1943,184 1943,302 536,302"/>
+                <Baseline points="538,271 1240,244 1943,255"/>
+                <TextEquiv>
+                    <Unicode>erschienen sin, hab desshalb sin gewartet, biß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-C; conf:0.80;}">
+                <Coords points="502,286 2147,286 2147,391 502,391"/>
+                <Baseline points="504,370 908,345 1289,333 2147,341"/>
+                <TextEquiv>
+                    <Unicode>den hüttigen tag, aber ich sich dann noch nit, denn ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="530,360 2184,360 2184,477 530,477"/>
+                <Baseline points="532,446 791,430 1458,411 2184,403"/>
+                <TextEquiv>
+                    <Unicode>ach yemant von sinem wägen mitt siner schrifft hierwäre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-C; conf:0.85;}">
+                <Coords points="502,438 2262,438 2262,570 502,570"/>
+                <Baseline points="504,533 793,514 2262,485"/>
+                <TextEquiv>
+                    <Unicode>dar mich miner ler halben anzichen wolt, bin ich bereit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_5" custom="readingOrder {index:4;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="534,522 2205,522 2205,631 534,631"/>
+                <Baseline points="536,601 912,582 2205,572"/>
+                <TextEquiv>
+                    <Unicode>im vordenser gemeind gottsg antwurten zegeben, welmecht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_6" custom="readingOrder {index:5;} atr {basis:llm-B; conf:0.65;}">
+                <Coords points="536,590 2217,590 2217,723 536,723"/>
+                <Baseline points="538,694 1033,667 2217,648"/>
+                <TextEquiv>
+                    <Unicode>ouch desz hier offennlich besigett und protestiren haben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_7" custom="readingOrder {index:6;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="534,676 2184,676 2184,810 534,810"/>
+                <Baseline points="536,764 963,760 2184,719"/>
+                <TextEquiv>
+                    <Unicode>und hoff ich hab vor allen fromen Christen, was ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_8" custom="readingOrder {index:7;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="541,766 1774,766 1774,976 541,976"/>
+                <Baseline points="543,855 848,838 1774,812"/>
+                <TextEquiv>
+                    <Unicode>christenlichen prædier gebürt , gehandelt ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_9" custom="readingOrder {index:8;} atr {basis:llm-A; conf:0.30;}">
+                <Coords points="1879,764 2160,764 2160,863 1879,863"/>
+                <Baseline points="1881,822 2160,818"/>
+                <TextEquiv>
+                    <Unicode>S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>erschienen sin, hab desshalb sin gewartet, biß
+den hüttigen tag, aber ich sich dann noch nit, denn ist
+ach yemant von sinem wägen mitt siner schrifft hierwäre
+dar mich miner ler halben anzichen wolt, bin ich bereit
+im vordenser gemeind gottsg antwurten zegeben, welmecht
+ouch desz hier offennlich besigett und protestiren haben
+und hoff ich hab vor allen fromen Christen, was ein
+christenlichen prædier gebürt , gehandelt ,
+S.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

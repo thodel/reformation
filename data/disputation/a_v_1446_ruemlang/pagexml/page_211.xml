@@ -1,8 +1,317 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:26:49.898+01:00</Created>
-        <LastChange>2026-01-27T10:26:49.898+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:53:19.439+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.705, "summary": {"llm": 37}}</Comments>
     </Metadata>
-    <Page imageFilename="p211.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="417,298 2386,298 2386,3011 417,3011"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-A; conf:0.90;}">
+                <Coords points="1343,304 2306,304 2306,444 1343,444"/>
+                <Baseline points="1345,391 1999,380 2306,391"/>
+                <TextEquiv>
+                    <Unicode>nach mittag uff mentag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="2314,479 2343,479 2343,551 2314,551"/>
+                <Baseline points="2314,524 2343,524"/>
+                <TextEquiv>
+                    <Unicode>S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="466,483 2337,483 2337,613 466,613"/>
+                <Baseline points="469,578 1021,572 1852,547 2337,553"/>
+                <TextEquiv>
+                    <Unicode>Bercknberg. Der beträter hatt sich nit vermygen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-C; conf:0.75;}">
+                <Coords points="961,568 2335,568 2335,668 961,668"/>
+                <Baseline points="963,636 1912,617 2335,634"/>
+                <TextEquiv>
+                    <Unicode>antwurt über den spruch, doch am 16. ietz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_5" custom="readingOrder {index:4;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="947,638 2361,638 2361,740 947,740"/>
+                <Baseline points="947,709 1193,709 1475,694 1939,684 2361,700"/>
+                <TextEquiv>
+                    <Unicode>hab üch uch vil zuͦ sagen, sonder vermeindung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_6" custom="readingOrder {index:5;} atr {basis:llm-C; conf:0.80;}">
+                <Coords points="943,703 2355,703 2355,824 943,824"/>
+                <Baseline points="945,787 1201,787 1499,764 1887,752 2271,760 2355,775"/>
+                <TextEquiv>
+                    <Unicode>zeptag, das der helg geyst der kilch vil geben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_7" custom="readingOrder {index:6;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="941,785 2334,785 2334,900 941,900"/>
+                <Baseline points="943,877 1331,849 1751,838 2334,847"/>
+                <TextEquiv>
+                    <Unicode>durch die vatter des syn, nit in der schrifft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_8" custom="readingOrder {index:7;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="951,859 2345,859 2345,983 951,983"/>
+                <Baseline points="953,947 1825,913 2030,915 2345,941"/>
+                <TextEquiv>
+                    <Unicode>grundt ist , sag ich , widerumb obus gantzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_9" custom="readingOrder {index:8;} atr {basis:llm-B; conf:0.80;}">
+                <Coords points="933,941 2343,941 2343,1055 933,1055"/>
+                <Baseline points="935,1026 1836,991 2343,999"/>
+                <TextEquiv>
+                    <Unicode>Ich hab in das vil zu sagen aber nitt anders , dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_10" custom="readingOrder {index:9;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="951,1026 2328,1026 2328,1138 951,1138"/>
+                <Baseline points="953,1097 1628,1081 2328,1077"/>
+                <TextEquiv>
+                    <Unicode>die schrifft hatt alles gutes , und ist genugsam und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_11" custom="readingOrder {index:10;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="945,1105 2345,1105 2345,1206 945,1206"/>
+                <Baseline points="947,1159 2345,1167"/>
+                <TextEquiv>
+                    <Unicode>verkommen, dem mentsch zuͦ underwysen, im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_12" custom="readingOrder {index:11;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="945,1191 2349,1191 2349,1286 945,1286"/>
+                <Baseline points="945,1245 2349,1245"/>
+                <TextEquiv>
+                    <Unicode>2. tetntag 1535. Davus mitt guͦt sin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_13" custom="readingOrder {index:12;} atr {basis:llm-A; conf:0.85;}">
+                <Coords points="945,1266 2374,1266 2374,1356 945,1356"/>
+                <Baseline points="947,1325 1864,1307 2374,1327"/>
+                <TextEquiv>
+                    <Unicode>mag und also von dem geist der warheit nit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_14" custom="readingOrder {index:13;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="943,1333 2361,1333 2361,1436 943,1436"/>
+                <Baseline points="945,1397 1969,1379 2291,1389 2361,1403"/>
+                <TextEquiv>
+                    <Unicode>gern worden, das in ernstigett, nitt grundtatt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_15" custom="readingOrder {index:14;} atr {basis:llm-C; conf:0.70;}">
+                <Coords points="939,1403 2365,1403 2365,1513 939,1513"/>
+                <Baseline points="941,1476 1669,1449 2042,1453 2365,1471"/>
+                <TextEquiv>
+                    <Unicode>benamend, das der geyst gottes anders gern hab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_16" custom="readingOrder {index:15;} atr {basis:llm-C; conf:0.75;}">
+                <Coords points="939,1482 2347,1482 2347,1582 939,1582"/>
+                <Baseline points="941,1545 1776,1527 2347,1547"/>
+                <TextEquiv>
+                    <Unicode>dann in der schrifft vermiget, sich und och</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_17" custom="readingOrder {index:16;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="943,1555 1807,1555 1807,1664 943,1664"/>
+                <Baseline points="945,1619 1807,1602"/>
+                <TextEquiv>
+                    <Unicode>nach lüt des manday.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_18" custom="readingOrder {index:17;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="974,1693 2351,1693 2351,1804 974,1804"/>
+                <Baseline points="974,1767 1564,1759 2351,1777"/>
+                <TextEquiv>
+                    <Unicode>Iam Bartholter uff Zürich miner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_19" custom="readingOrder {index:18;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="949,1775 2328,1775 2328,1892 949,1892"/>
+                <Baseline points="951,1833 1611,1825 2328,1851"/>
+                <TextEquiv>
+                    <Unicode>och unserer anwürren zege und gitt nach das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_20" custom="readingOrder {index:19;} atr {basis:llm-C; conf:0.75;}">
+                <Coords points="961,1860 2306,1860 2306,1948 961,1948"/>
+                <Baseline points="961,1913 1499,1903 2306,1913"/>
+                <TextEquiv>
+                    <Unicode>der helg geyst, deß am regieret der kilch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_21" custom="readingOrder {index:20;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="945,1925 2304,1925 2304,2035 945,2035"/>
+                <Baseline points="947,1978 1583,1976 1762,1992 2304,1998"/>
+                <TextEquiv>
+                    <Unicode>ettwan sach verkomen, och gerett, durch des herren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_22" custom="readingOrder {index:21;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="943,1994 2326,1994 2326,2114 943,2114"/>
+                <Baseline points="945,2054 1562,2054 2326,2085"/>
+                <TextEquiv>
+                    <Unicode>christlicher kilchen. Gert aber, das er mir hab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_23" custom="readingOrder {index:22;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="943,2085 2369,2085 2369,2186 943,2186"/>
+                <Baseline points="943,2140 961,2147 1505,2128 1941,2149 2369,2145"/>
+                <TextEquiv>
+                    <Unicode>gesagt oder gelarr , wann dess , daß zum den biblischˀ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_24" custom="readingOrder {index:23;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="922,2138 963,2138 963,2176 922,2176"/>
+                <Baseline points="943,2140 959,2145 953,2163 961,2165"/>
+                <TextEquiv>
+                    <Unicode>.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_25" custom="readingOrder {index:24;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="943,2141 963,2141 963,2194 943,2194"/>
+                <Baseline points="947,2167 961,2165"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_26" custom="readingOrder {index:25;} atr {basis:llm-C; conf:0.85;}">
+                <Coords points="947,2165 2304,2165 2304,2262 947,2262"/>
+                <Baseline points="949,2225 1677,2215 2304,2225"/>
+                <TextEquiv>
+                    <Unicode>schrifftt gegründen sig, das glich gern nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_27" custom="readingOrder {index:26;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="910,2243 2367,2243 2367,2344 910,2344"/>
+                <Baseline points="912,2315 1339,2297 2367,2303"/>
+                <TextEquiv>
+                    <Unicode>das aber, daß von der seligen christleigen kilchen den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_28" custom="readingOrder {index:27;} atr {basis:llm-B; conf:0.65;}">
+                <Coords points="945,2324 2378,2324 2378,2421 945,2421"/>
+                <Baseline points="947,2377 2378,2381"/>
+                <TextEquiv>
+                    <Unicode>christen menschen gehörigen oder geordnett ist , das das nit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_29" custom="readingOrder {index:28;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="945,2396 2298,2396 2298,2510 945,2510"/>
+                <Baseline points="947,2452 1452,2448 2298,2467"/>
+                <TextEquiv>
+                    <Unicode>komen usß dem helgen gras, och in der schrifft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_30" custom="readingOrder {index:29;} atr {basis:llm-C; conf:0.70;}">
+                <Coords points="935,2471 2378,2471 2378,2582 935,2582"/>
+                <Baseline points="937,2524 1433,2524 2378,2543"/>
+                <TextEquiv>
+                    <Unicode>nitt sich gegründen, des sät am nechsten beraren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_31" custom="readingOrder {index:30;} atr {basis:llm-A; conf:0.78;}">
+                <Coords points="933,2559 2365,2559 2365,2652 933,2652"/>
+                <Baseline points="935,2609 2365,2605"/>
+                <TextEquiv>
+                    <Unicode>hoff ouch, das des antwurten och der spruch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_32" custom="readingOrder {index:31;} atr {basis:llm-C; conf:0.65;}">
+                <Coords points="955,2636 2372,2636 2372,2728 955,2728"/>
+                <Baseline points="957,2669 1158,2669 1372,2685 2372,2683"/>
+                <TextEquiv>
+                    <Unicode>2. himel. durch den angeleit, inn des nitt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_33" custom="readingOrder {index:32;} atr {basis:llm-mixed; conf:0.70;}">
+                <Coords points="916,2701 1595,2701 1595,2802 916,2802"/>
+                <Baseline points="918,2739 1595,2755"/>
+                <TextEquiv>
+                    <Unicode>werde helffen bewären</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_34" custom="readingOrder {index:33;} atr {basis:llm-A; conf:0.95;}">
+                <Coords points="423,2765 920,2765 920,2913 423,2913"/>
+                <Baseline points="423,2859 920,2844"/>
+                <TextEquiv>
+                    <Unicode>Berchtoldus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_35" custom="readingOrder {index:34;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="980,2813 2380,2813 2380,2921 980,2921"/>
+                <Baseline points="980,2878 2380,2882"/>
+                <TextEquiv>
+                    <Unicode>Der kelt thie hatt, nit angenommen, dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_36" custom="readingOrder {index:35;} atr {basis:llm-C; conf:0.55;}">
+                <Coords points="980,2898 2330,2898 2330,3005 980,3005"/>
+                <Baseline points="980,2943 1361,2939 1671,2948 2330,2950"/>
+                <TextEquiv>
+                    <Unicode>des im von gottes grunden ist nach ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nach mittag uff mentag.
+S.
+Bercknberg. Der beträter hatt sich nit vermygen,
+antwurt über den spruch, doch am 16. ietz
+hab üch uch vil zuͦ sagen, sonder vermeindung
+zeptag, das der helg geyst der kilch vil geben
+durch die vatter des syn, nit in der schrifft
+grundt ist , sag ich , widerumb obus gantzen
+Ich hab in das vil zu sagen aber nitt anders , dann
+die schrifft hatt alles gutes , und ist genugsam und
+verkommen, dem mentsch zuͦ underwysen, im
+2. tetntag 1535. Davus mitt guͦt sin
+mag und also von dem geist der warheit nit
+gern worden, das in ernstigett, nitt grundtatt
+benamend, das der geyst gottes anders gern hab
+dann in der schrifft vermiget, sich und och
+nach lüt des manday.
+Iam Bartholter uff Zürich miner
+och unserer anwürren zege und gitt nach das
+der helg geyst, deß am regieret der kilch
+ettwan sach verkomen, och gerett, durch des herren
+christlicher kilchen. Gert aber, das er mir hab
+gesagt oder gelarr , wann dess , daß zum den biblischˀ
+.
+1
+schrifftt gegründen sig, das glich gern nach
+das aber, daß von der seligen christleigen kilchen den
+christen menschen gehörigen oder geordnett ist , das das nit
+komen usß dem helgen gras, och in der schrifft
+nitt sich gegründen, des sät am nechsten beraren
+hoff ouch, das des antwurten och der spruch
+2. himel. durch den angeleit, inn des nitt
+werde helffen bewären
+Berchtoldus.
+Der kelt thie hatt, nit angenommen, dann
+des im von gottes grunden ist nach ein</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="471,1699 792,1699 792,1845 471,1845"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="477,1705 786,1705 786,1839 477,1839"/>
+                <Baseline points="481,1783 786,1773"/>
+                <TextEquiv>
+                    <Unicode>Bisinger.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bisinger.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

@@ -1,8 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:26:46.571+01:00</Created>
-        <LastChange>2026-01-27T10:26:46.571+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:53:15.278+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.822, "summary": {"llm": 8}}</Comments>
     </Metadata>
-    <Page imageFilename="p187.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="473,760 2332,760 2332,1465 473,1465"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-A; conf:0.85;}">
+                <Coords points="479,766 2320,766 2320,884 479,884"/>
+                <Baseline points="479,853 1951,838 2320,849"/>
+                <TextEquiv>
+                    <Unicode>bitten üch all christenlichen bruͦder, das disen artickel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="512,877 2326,877 2326,980 512,980"/>
+                <Baseline points="514,937 2069,931 2326,945"/>
+                <TextEquiv>
+                    <Unicode>understand ze widerfahren , das sich ein jetlicher zusuem gegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="522,958 2320,958 2320,1061 522,1061"/>
+                <Baseline points="524,1026 1585,1018 2320,1024"/>
+                <TextEquiv>
+                    <Unicode>erkhunde ✳ ob er sich der luterem wargenn zuͦ erfahren unnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-B; conf:0.80;}">
+                <Coords points="493,1050 2304,1050 2304,1159 493,1159"/>
+                <Baseline points="495,1123 939,1111 2125,1109 2304,1119"/>
+                <TextEquiv>
+                    <Unicode>und derselbigen im christenlicher liebi zu berichten geneigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_5" custom="readingOrder {index:4;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="487,1144 2304,1144 2304,1259 487,1259"/>
+                <Baseline points="489,1229 1178,1202 1858,1206 2304,1224"/>
+                <TextEquiv>
+                    <Unicode>damitt das niemant sine gütter gruͤsamlichen unverdienend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_6" custom="readingOrder {index:5;} atr {basis:llm-A; conf:0.35;}">
+                <Coords points="518,1235 2310,1235 2310,1422 518,1422"/>
+                <Baseline points="518,1321 897,1298 1341,1286 1708,1290 2310,1319"/>
+                <TextEquiv>
+                    <Unicode>geblichen stund, valle und die bekanten wargent, wederfroben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_7" custom="readingOrder {index:6;} atr {basis:llm-A; conf:0.90;}">
+                <Coords points="504,1329 1489,1329 1489,1459 504,1459"/>
+                <Baseline points="506,1414 887,1389 1489,1383"/>
+                <TextEquiv>
+                    <Unicode>da uns all gott verhüte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bitten üch all christenlichen bruͦder, das disen artickel
+understand ze widerfahren , das sich ein jetlicher zusuem gegen
+erkhunde ✳ ob er sich der luterem wargenn zuͦ erfahren unnd
+und derselbigen im christenlicher liebi zu berichten geneigen
+damitt das niemant sine gütter gruͤsamlichen unverdienend
+geblichen stund, valle und die bekanten wargent, wederfroben
+da uns all gott verhüte.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="2337,2344 2440,2344 2440,2448 2337,2448"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="2343,2350 2434,2350 2434,2442 2343,2442"/>
+                <Baseline points="2345,2396 2434,2402"/>
+                <TextEquiv>
+                    <Unicode>S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

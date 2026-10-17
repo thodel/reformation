@@ -1,8 +1,341 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:26:31.394+01:00</Created>
-        <LastChange>2026-01-27T10:26:31.394+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:52:57.154+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.0, "summary": {"agree_norm": 1, "llm": 39}}</Comments>
     </Metadata>
-    <Page imageFilename="p076.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="337,313 1041,313 1041,1744 337,1744"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:agree_norm; conf:0.85;}">
+                <Coords points="343,1369 413,1369 413,1404 343,1404"/>
+                <Baseline points="382,1404 384,1373"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="360,1146 432,1146 432,1181 360,1181"/>
+                <Baseline points="392,1181 394,1148"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="355,855 442,855 442,1003 355,1003"/>
+                <Baseline points="401,1003 407,859"/>
+                <TextEquiv>
+                    <Unicode>1620 .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="359,553 454,553 454,781 359,781"/>
+                <Baseline points="411,781 425,557"/>
+                <TextEquiv>
+                    <Unicode>kirchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_5" custom="readingOrder {index:4;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="390,479 464,479 464,520 390,520"/>
+                <Baseline points="431,516 434,487"/>
+                <TextEquiv>
+                    <Unicode>kirchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_6" custom="readingOrder {index:5;} atr {basis:llm-B; conf:0.50;}">
+                <Coords points="427,1247 526,1247 526,1331 427,1331"/>
+                <Baseline points="471,1325 483,1257"/>
+                <TextEquiv>
+                    <Unicode>…</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_7" custom="readingOrder {index:6;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="431,1412 501,1412 501,1592 431,1592"/>
+                <Baseline points="467,1592 471,1414"/>
+                <TextEquiv>
+                    <Unicode>2 .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_8" custom="readingOrder {index:7;} atr {basis:llm-B; conf:0.80;}">
+                <Coords points="442,836 530,836 530,1183 442,1183"/>
+                <Baseline points="487,1183 491,838"/>
+                <TextEquiv>
+                    <Unicode>wider durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_9" custom="readingOrder {index:8;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="471,642 543,642 543,723 471,723"/>
+                <Baseline points="501,721 508,646"/>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_10" custom="readingOrder {index:9;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="501,1676 590,1676 590,1738 501,1738"/>
+                <Baseline points="545,1738 549,1680"/>
+                <TextEquiv>
+                    <Unicode>5 .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_11" custom="readingOrder {index:10;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="526,1087 598,1087 598,1189 526,1189"/>
+                <Baseline points="561,1189 561,1087"/>
+                <TextEquiv>
+                    <Unicode>2 .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_12" custom="readingOrder {index:11;} atr {basis:llm-B; conf:0.80;}">
+                <Coords points="512,1218 602,1218 602,1393 512,1393"/>
+                <Baseline points="555,1393 563,1220"/>
+                <TextEquiv>
+                    <Unicode>habe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_13" custom="readingOrder {index:12;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="510,1480 590,1480 590,1623 510,1623"/>
+                <Baseline points="553,1623 559,1484"/>
+                <TextEquiv>
+                    <Unicode>1 .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_14" custom="readingOrder {index:13;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="522,832 610,832 610,1011 522,1011"/>
+                <Baseline points="563,1011 573,836"/>
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_15" custom="readingOrder {index:14;} atr {basis:llm-B; conf:0.50;}">
+                <Coords points="557,319 629,319 629,380 557,380"/>
+                <Baseline points="596,380 598,321"/>
+                <TextEquiv>
+                    <Unicode>kro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_16" custom="readingOrder {index:15;} atr {basis:llm-B; conf:0.50;}">
+                <Coords points="608,1272 686,1272 686,1368 608,1368"/>
+                <Baseline points="639,1366 648,1276"/>
+                <TextEquiv>
+                    <Unicode>d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_17" custom="readingOrder {index:16;} atr {basis:llm-B; conf:0.80;}">
+                <Coords points="606,1565 682,1565 682,1691 606,1691"/>
+                <Baseline points="641,1565 641,1691"/>
+                <TextEquiv>
+                    <Unicode>zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_18" custom="readingOrder {index:17;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="619,1403 692,1403 692,1496 619,1496"/>
+                <Baseline points="643,1404 645,1496"/>
+                <TextEquiv>
+                    <Unicode>H</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_19" custom="readingOrder {index:18;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="615,878 686,878 686,976 615,976"/>
+                <Baseline points="650,976 654,880"/>
+                <TextEquiv>
+                    <Unicode>8 .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_20" custom="readingOrder {index:19;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="621,721 700,721 700,764 621,764"/>
+                <Baseline points="665,762 669,727"/>
+                <TextEquiv>
+                    <Unicode>1 .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_21" custom="readingOrder {index:20;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="654,450 716,450 716,465 654,465"/>
+                <Baseline points="679,450 679,465"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_22" custom="readingOrder {index:21;} atr {basis:llm-A; conf:0.20;}">
+                <Coords points="686,1674 766,1674 766,1732 686,1732"/>
+                <Baseline points="718,1732 719,1676"/>
+                <TextEquiv>
+                    <Unicode>S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_23" custom="readingOrder {index:22;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="696,1565 766,1565 766,1594 696,1594"/>
+                <Baseline points="721,1567 723,1594"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_24" custom="readingOrder {index:23;} atr {basis:llm-B; conf:0.80;}">
+                <Coords points="669,1424 788,1424 788,1513 669,1513"/>
+                <Baseline points="721,1424 721,1513"/>
+                <TextEquiv>
+                    <Unicode>der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_25" custom="readingOrder {index:24;} atr {basis:llm-B; conf:0.50;}">
+                <Coords points="690,713 780,713 780,890 690,890"/>
+                <Baseline points="737,890 743,715"/>
+                <TextEquiv>
+                    <Unicode>d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_26" custom="readingOrder {index:25;} atr {basis:llm-B; conf:0.80;}">
+                <Coords points="772,1559 852,1559 852,1612 772,1612"/>
+                <Baseline points="801,1559 801,1612"/>
+                <TextEquiv>
+                    <Unicode>Ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_27" custom="readingOrder {index:26;} atr {basis:llm-B; conf:0.80;}">
+                <Coords points="764,1229 856,1229 856,1280 764,1280"/>
+                <Baseline points="809,1280 809,1229"/>
+                <TextEquiv>
+                    <Unicode>wider</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_28" custom="readingOrder {index:27;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="778,1385 865,1385 865,1506 778,1506"/>
+                <Baseline points="803,1504 809,1387"/>
+                <TextEquiv>
+                    <Unicode>Hr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_29" custom="readingOrder {index:28;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="782,830 869,830 869,845 782,845"/>
+                <Baseline points="817,830 817,845"/>
+                <TextEquiv>
+                    <Unicode>1695</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_30" custom="readingOrder {index:29;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="793,570 879,570 879,625 793,625"/>
+                <Baseline points="836,625 840,574"/>
+                <TextEquiv>
+                    <Unicode>kirchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_31" custom="readingOrder {index:30;} atr {basis:llm-B; conf:0.80;}">
+                <Coords points="805,432 891,432 891,496 805,496"/>
+                <Baseline points="844,494 848,436"/>
+                <TextEquiv>
+                    <Unicode>das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_32" custom="readingOrder {index:31;} atr {basis:llm-B; conf:0.85;}">
+                <Coords points="854,1449 941,1449 941,1571 854,1571"/>
+                <Baseline points="891,1451 893,1571"/>
+                <TextEquiv>
+                    <Unicode>gute</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_33" custom="readingOrder {index:32;} atr {basis:llm-B; conf:0.85;}">
+                <Coords points="854,853 1035,853 1035,1183 854,1183"/>
+                <Baseline points="893,1179 906,855"/>
+                <TextEquiv>
+                    <Unicode>der Herr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_34" custom="readingOrder {index:33;} atr {basis:llm-B; conf:0.85;}">
+                <Coords points="856,1274 947,1274 947,1401 856,1401"/>
+                <Baseline points="895,1274 895,1401"/>
+                <TextEquiv>
+                    <Unicode>wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_35" custom="readingOrder {index:34;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="955,584 998,584 998,661 955,661"/>
+                <Baseline points="955,631 998,631"/>
+                <TextEquiv>
+                    <Unicode>iun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1
+2
+1620 .
+kirchen
+kirchen
+…
+2 .
+wider durch
+5
+5 .
+2 .
+habe
+1 .
+8
+kro
+d
+zu
+H
+8 .
+1 .
+4
+S.
+1
+der
+d
+Ich
+wider
+Hr
+1695
+kirchen
+das
+gute
+der Herr
+wie
+iun</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="13,1631 103,1631 103,2326 13,2326"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:llm-B; conf:0.85;}">
+                <Coords points="38,1637 73,1637 73,1717 38,1717"/>
+                <Baseline points="38,1682 73,1682"/>
+                <TextEquiv>
+                    <Unicode>vor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;} atr {basis:llm-B; conf:0.85;}">
+                <Coords points="29,1792 93,1792 93,1878 29,1878"/>
+                <Baseline points="29,1839 93,1839"/>
+                <TextEquiv>
+                    <Unicode>vogt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;} atr {basis:llm-B; conf:0.80;}">
+                <Coords points="29,1884 81,1884 81,1971 29,1971"/>
+                <Baseline points="33,1930 79,1927"/>
+                <TextEquiv>
+                    <Unicode>schaffen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_4" custom="readingOrder {index:3;} atr {basis:llm-B; conf:0.40;}">
+                <Coords points="27,1978 79,1978 79,2124 27,2124"/>
+                <Baseline points="27,2103 79,2103"/>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_5" custom="readingOrder {index:4;} atr {basis:llm-B; conf:0.85;}">
+                <Coords points="19,2211 97,2211 97,2320 19,2320"/>
+                <Baseline points="21,2268 97,2264"/>
+                <TextEquiv>
+                    <Unicode>und sein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vor
+vogt
+schaffen
+5
+und sein</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

@@ -1,8 +1,229 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:27:27.373+01:00</Created>
-        <LastChange>2026-01-27T10:27:27.373+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:54:15.144+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.726, "summary": {"llm": 26}}</Comments>
     </Metadata>
-    <Page imageFilename="p485.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="729,317 2234,317 2234,629 729,629"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="735,323 2228,323 2228,502 735,502"/>
+                <Baseline points="737,456 1819,415 2228,424"/>
+                <TextEquiv>
+                    <Unicode>Hie nachvolgett, wie wider dis sibenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-mixed; conf:0.70;}">
+                <Coords points="984,438 1899,438 1899,623 984,623"/>
+                <Baseline points="988,545 1580,512 1897,512"/>
+                <TextEquiv>
+                    <Unicode>Schlußred ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hie nachvolgett, wie wider dis sibenden
+Schlußred ist</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="399,1103 2363,1103 2363,3007 399,3007"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:llm-C; conf:0.75;}">
+                <Coords points="405,1109 2357,1109 2357,1237 405,1237"/>
+                <Baseline points="407,1185 2061,1177 2357,1189"/>
+                <TextEquiv>
+                    <Unicode>Berckh. Diese schluͦß red ist zum rechtgruͦchen beweren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="754,1212 2298,1212 2298,1315 754,1315"/>
+                <Baseline points="756,1282 1928,1270 2298,1284"/>
+                <TextEquiv>
+                    <Unicode>in der dritten, da wir bekunend, hernn unser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;} atr {basis:llm-B; conf:0.65;}">
+                <Coords points="782,1309 2295,1309 2295,1406 782,1406"/>
+                <Baseline points="784,1368 1995,1366 2295,1373"/>
+                <TextEquiv>
+                    <Unicode>tüngt wißheit geremiker , erlösung unnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_4" custom="readingOrder {index:3;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="764,1401 2230,1401 2230,1502 764,1502"/>
+                <Baseline points="766,1451 1044,1461 2230,1457"/>
+                <TextEquiv>
+                    <Unicode>erhaltung für aller welt sind, so folgt es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_5" custom="readingOrder {index:4;} atr {basis:llm-C; conf:0.70;}">
+                <Coords points="758,1494 2298,1494 2298,1588 758,1588"/>
+                <Baseline points="758,1551 2298,1551"/>
+                <TextEquiv>
+                    <Unicode>von nitt, das kein ander gnuͦgin und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_6" custom="readingOrder {index:5;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="753,1584 2318,1584 2318,1689 753,1689"/>
+                <Baseline points="754,1649 2318,1639"/>
+                <TextEquiv>
+                    <Unicode>beyden für die ſund de abſtorb . werdſetum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_7" custom="readingOrder {index:6;} atr {basis:llm-B; conf:0.55;}">
+                <Coords points="766,1672 2028,1672 2028,1781 766,1781"/>
+                <Baseline points="768,1726 1514,1740 2028,1738"/>
+                <TextEquiv>
+                    <Unicode>sein mag , dann das ich lebet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_8" custom="readingOrder {index:7;} atr {basis:llm-A; conf:0.40;}">
+                <Coords points="2178,1691 2316,1691 2316,1779 2178,1779"/>
+                <Baseline points="2178,1744 2316,1744"/>
+                <TextEquiv>
+                    <Unicode>S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_9" custom="readingOrder {index:8;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="760,1777 2308,1777 2308,1868 760,1868"/>
+                <Baseline points="760,1833 2024,1831 2308,1841"/>
+                <TextEquiv>
+                    <Unicode>andern 6. spricht, der herr Christo hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_10" custom="readingOrder {index:9;} atr {basis:llm-C; conf:0.85;}">
+                <Coords points="772,1859 2267,1859 2267,1967 772,1967"/>
+                <Baseline points="772,1925 1275,1909 2267,1936"/>
+                <TextEquiv>
+                    <Unicode>gott der welt lieb gehept, das er sin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_11" custom="readingOrder {index:10;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="2081,1950 2316,1950 2316,2007 2081,2007"/>
+                <Baseline points="2083,1986 2316,1982"/>
+                <TextEquiv>
+                    <Unicode>in dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_12" custom="readingOrder {index:11;} atr {basis:llm-B; conf:0.55;}">
+                <Coords points="1027,1940 2322,1940 2322,2052 1027,2052"/>
+                <Baseline points="1029,1992 1370,1992 1991,2017 2322,2019"/>
+                <TextEquiv>
+                    <Unicode>sum gab , uff das alle die ihn in dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_13" custom="readingOrder {index:12;} atr {basis:llm-C; conf:0.60;}">
+                <Coords points="756,2023 2281,2023 2281,2147 756,2147"/>
+                <Baseline points="758,2095 1436,2075 2281,2120"/>
+                <TextEquiv>
+                    <Unicode>glouben nit penden wer­den d, sunder das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_14" custom="readingOrder {index:13;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="764,2105 2223,2105 2223,2225 764,2225"/>
+                <Baseline points="766,2167 1409,2165 1681,2178 1799,2196 2223,2211"/>
+                <TextEquiv>
+                    <Unicode>ewig leben habind. Denn gott hat gnuͦg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_15" custom="readingOrder {index:14;} atr {basis:llm-B; conf:0.55;}">
+                <Coords points="754,2194 2285,2194 2285,2332 754,2332"/>
+                <Baseline points="756,2250 1539,2256 2285,2313"/>
+                <TextEquiv>
+                    <Unicode>sum nittgsein in die Welt , obser der Welt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_16" custom="readingOrder {index:15;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="751,2281 1912,2281 1912,2388 751,2388"/>
+                <Baseline points="753,2336 1545,2342 1912,2367"/>
+                <TextEquiv>
+                    <Unicode>Sonder das die welt die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_17" custom="readingOrder {index:16;} atr {basis:llm-A; conf:0.30;}">
+                <Coords points="2003,2338 2267,2338 2267,2440 2003,2440"/>
+                <Baseline points="2005,2388 2267,2396"/>
+                <TextEquiv>
+                    <Unicode>leg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_18" custom="readingOrder {index:17;} atr {basis:llm-C; conf:0.45;}">
+                <Coords points="718,2367 2277,2367 2277,2524 718,2524"/>
+                <Baseline points="719,2426 1240,2426 1725,2450 2277,2502"/>
+                <TextEquiv>
+                    <Unicode>wird wer an dem, so er der von nit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_19" custom="readingOrder {index:18;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="735,2456 2283,2456 2283,2611 735,2611"/>
+                <Baseline points="737,2514 1558,2529 2001,2572 2283,2584"/>
+                <TextEquiv>
+                    <Unicode>gericht , wie aber nitt glaubt der ist schon ge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_20" custom="readingOrder {index:19;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="749,2545 2106,2545 2106,2691 749,2691"/>
+                <Baseline points="749,2597 1628,2631 1997,2652 2106,2667"/>
+                <TextEquiv>
+                    <Unicode>riſe , hie ist offenbar , das dann glömbſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_21" custom="readingOrder {index:20;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="2108,2617 2324,2617 2324,2720 2108,2720"/>
+                <Baseline points="2112,2667 2324,2685"/>
+                <TextEquiv>
+                    <Unicode>volget .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_22" custom="readingOrder {index:21;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="739,2631 2293,2631 2293,2790 739,2790"/>
+                <Baseline points="741,2689 1576,2710 2293,2757"/>
+                <TextEquiv>
+                    <Unicode>das ewig leben, nach inen abscherd usß diser zit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_23" custom="readingOrder {index:22;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="735,2726 2291,2726 2291,2865 735,2865"/>
+                <Baseline points="737,2778 988,2776 1392,2804 1867,2807 2051,2831 2291,2841"/>
+                <TextEquiv>
+                    <Unicode>nun aber, were des leben nitt ewig, wann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_24" custom="readingOrder {index:23;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="723,2806 2275,2806 2275,3001 723,3001"/>
+                <Baseline points="725,2875 1076,2871 2275,2927"/>
+                <TextEquiv>
+                    <Unicode>Die arme sol erst ein lange zit im eyder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Berckh. Diese schluͦß red ist zum rechtgruͦchen beweren
+in der dritten, da wir bekunend, hernn unser
+tüngt wißheit geremiker , erlösung unnd
+erhaltung für aller welt sind, so folgt es
+von nitt, das kein ander gnuͦgin und
+beyden für die ſund de abſtorb . werdſetum
+sein mag , dann das ich lebet
+S.
+andern 6. spricht, der herr Christo hat
+gott der welt lieb gehept, das er sin
+in dem
+sum gab , uff das alle die ihn in dem
+glouben nit penden wer­den d, sunder das
+ewig leben habind. Denn gott hat gnuͦg
+sum nittgsein in die Welt , obser der Welt
+Sonder das die welt die
+leg
+wird wer an dem, so er der von nit
+gericht , wie aber nitt glaubt der ist schon ge-
+riſe , hie ist offenbar , das dann glömbſt
+volget .
+das ewig leben, nach inen abscherd usß diser zit
+nun aber, were des leben nitt ewig, wann
+Die arme sol erst ein lange zit im eyder</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

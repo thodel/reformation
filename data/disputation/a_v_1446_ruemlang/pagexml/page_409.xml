@@ -1,8 +1,288 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:27:17.177+01:00</Created>
-        <LastChange>2026-01-27T10:27:17.177+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:54:01.659+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.389, "summary": {"llm": 34}}</Comments>
     </Metadata>
-    <Page imageFilename="p409.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="349,232 2388,232 2388,3015 349,3015"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-A; conf:0.90;}">
+                <Coords points="355,247 688,247 688,508 355,508"/>
+                <Baseline points="357,329 497,343 688,337"/>
+                <TextEquiv>
+                    <Unicode>Zürich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="883,238 2304,238 2304,384 883,384"/>
+                <Baseline points="885,349 1489,339 1983,306 2304,300"/>
+                <TextEquiv>
+                    <Unicode>Demnach, der hohen gütter und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="832,327 2349,327 2349,450 832,450"/>
+                <Baseline points="834,426 1464,411 1609,397 1949,386 2349,380"/>
+                <TextEquiv>
+                    <Unicode>alders hertzogen hertz man. Wil fürdand ann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-B; conf:0.85;}">
+                <Coords points="790,403 2376,403 2376,557 790,557"/>
+                <Baseline points="791,510 1949,467 2376,473"/>
+                <TextEquiv>
+                    <Unicode>præsentibus David 1c . und 8 pfahrnē besyglichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_5" custom="readingOrder {index:4;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="819,496 2244,496 2244,619 819,619"/>
+                <Baseline points="823,605 933,590 1446,564 2244,551"/>
+                <TextEquiv>
+                    <Unicode>hab 7. tag thur, ist in der artickler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_6" custom="readingOrder {index:5;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="823,568 2314,568 2314,705 823,705"/>
+                <Baseline points="826,674 1720,632 2314,634"/>
+                <TextEquiv>
+                    <Unicode>perrigter nach der ordnung Weltiſdorh , daſelbigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_7" custom="readingOrder {index:6;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="825,661 2314,661 2314,781 825,781"/>
+                <Baseline points="826,742 1150,750 1578,721 2314,711"/>
+                <TextEquiv>
+                    <Unicode>moltgesick, ein künig zuͦ Salem statt abraß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_8" custom="readingOrder {index:7;} atr {basis:llm-mixed; conf:0.80;}">
+                <Coords points="805,742 2341,742 2341,871 805,871"/>
+                <Baseline points="807,832 1230,824 1624,801 2341,795"/>
+                <TextEquiv>
+                    <Unicode>herfürgetragen brot und win</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_9" custom="readingOrder {index:8;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="825,818 2314,818 2314,952 825,952"/>
+                <Baseline points="826,921 1394,898 1522,880 2314,877"/>
+                <TextEquiv>
+                    <Unicode>glauben, glogent sich, aber der haitzy gott. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_10" custom="readingOrder {index:9;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="801,904 2279,904 2279,1024 801,1024"/>
+                <Baseline points="803,993 1117,989 1609,966 2279,954"/>
+                <TextEquiv>
+                    <Unicode>beschaffen hat, handel noch und enntz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_11" custom="readingOrder {index:10;} atr {basis:llm-mixed; conf:0.80;}">
+                <Coords points="799,987 2382,987 2382,1115 799,1115"/>
+                <Baseline points="801,1079 1545,1050 2036,1040 2382,1048"/>
+                <TextEquiv>
+                    <Unicode>diewyl nun das herfürgetragen brot und wyn ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_12" custom="readingOrder {index:11;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="791,1059 2312,1059 2312,1198 791,1198"/>
+                <Baseline points="793,1154 2312,1115"/>
+                <TextEquiv>
+                    <Unicode>segir kleid gsein , als oben anzeigt , so müßen ouch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_13" custom="readingOrder {index:12;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="815,1152 2351,1152 2351,1274 815,1274"/>
+                <Baseline points="815,1229 1230,1235 1825,1226 2133,1208 2351,1204"/>
+                <TextEquiv>
+                    <Unicode>folgen. Des Christus ouch ettwas hab geburckt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_14" custom="readingOrder {index:13;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="1965,1226 2094,1226 2094,1288 1965,1288"/>
+                <Baseline points="1967,1264 2094,1263"/>
+                <TextEquiv>
+                    <Unicode>außgeschriben ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_15" custom="readingOrder {index:14;} atr {basis:llm-B; conf:0.65;}">
+                <Coords points="825,1245 2258,1245 2258,1354 825,1354"/>
+                <Baseline points="826,1327 1550,1317 2258,1292"/>
+                <TextEquiv>
+                    <Unicode>Von Wetzisprecht glighôren , ist geben habe ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_16" custom="readingOrder {index:15;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="799,1325 2334,1325 2334,1434 799,1434"/>
+                <Baseline points="801,1404 2334,1379"/>
+                <TextEquiv>
+                    <Unicode>und wie mohend ich hatt, bro und wun vrate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_17" custom="readingOrder {index:16;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="809,1412 2332,1412 2332,1529 809,1529"/>
+                <Baseline points="811,1482 2332,1469"/>
+                <TextEquiv>
+                    <Unicode>herfürgetragen alsz ein opfer also ist biſſar der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_18" custom="readingOrder {index:17;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="815,1504 2277,1504 2277,1625 815,1625"/>
+                <Baseline points="815,1557 1953,1557 2277,1567"/>
+                <TextEquiv>
+                    <Unicode>lib Christum und den gwallt desszroy uffgeoffen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_19" custom="readingOrder {index:18;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="813,1590 1027,1590 1027,1691 813,1691"/>
+                <Baseline points="815,1639 1027,1652"/>
+                <TextEquiv>
+                    <Unicode>vort</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_20" custom="readingOrder {index:19;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="464,1645 2298,1645 2298,1790 464,1790"/>
+                <Baseline points="466,1754 731,1752 897,1738 1543,1738 2298,1715"/>
+                <TextEquiv>
+                    <Unicode>Zentzallen, wie Martpfortz sig entsetzen, kein und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_21" custom="readingOrder {index:20;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="817,1746 2369,1746 2369,1847 817,1847"/>
+                <Baseline points="819,1812 2063,1800 2369,1810"/>
+                <TextEquiv>
+                    <Unicode>Orbnis ein præsentibus mag an ordnung Welshaus ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_22" custom="readingOrder {index:21;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="799,1831 2349,1831 2349,1927 799,1927"/>
+                <Baseline points="799,1884 1318,1892 2100,1882 2349,1892"/>
+                <TextEquiv>
+                    <Unicode>von Paulus yttbar. 7. Das aber Weltys, doch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_23" custom="readingOrder {index:22;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="795,1905 2308,1905 2308,2009 795,2009"/>
+                <Baseline points="797,1971 1035,1962 2308,1962"/>
+                <TextEquiv>
+                    <Unicode>hab brot und wie der herren herfir nachzu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_24" custom="readingOrder {index:23;} atr {basis:llm-C; conf:0.65;}">
+                <Coords points="799,1988 2363,1988 2363,2095 799,2095"/>
+                <Baseline points="801,2038 1893,2042 2363,2056"/>
+                <TextEquiv>
+                    <Unicode>einem offnen tag der capl in pfelch 14. lb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_25" custom="readingOrder {index:24;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="793,2071 2353,2071 2353,2173 793,2173"/>
+                <Baseline points="793,2124 1472,2118 2028,2138 2353,2140"/>
+                <TextEquiv>
+                    <Unicode>hex auch abend mitt gestatten , das der obige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_26" custom="readingOrder {index:25;} atr {basis:llm-B; conf:0.50;}">
+                <Coords points="805,2138 2335,2138 2335,2270 805,2270"/>
+                <Baseline points="807,2202 1541,2202 2335,2229"/>
+                <TextEquiv>
+                    <Unicode>purpter gotes den alsz einer aurir offens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_27" custom="readingOrder {index:26;} atr {basis:llm-mixed; conf:0.75;}">
+                <Coords points="756,2246 2374,2246 2374,2363 756,2363"/>
+                <Baseline points="758,2315 1423,2299 2374,2328"/>
+                <TextEquiv>
+                    <Unicode>Darum ist das zur Schrift zu Dogmety</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_28" custom="readingOrder {index:27;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="778,2340 2347,2340 2347,2446 778,2446"/>
+                <Baseline points="780,2400 1185,2386 1497,2386 1782,2404 2347,2413"/>
+                <TextEquiv>
+                    <Unicode>das hab got und iren herfür tagen zuͦ ainem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_29" custom="readingOrder {index:28;} atr {basis:llm-mixed; conf:0.80;}">
+                <Coords points="791,2422 2369,2422 2369,2539 791,2539"/>
+                <Baseline points="793,2475 1466,2471 1832,2489 2369,2498"/>
+                <TextEquiv>
+                    <Unicode>opfer und dienet soͤlich argument gar nit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_30" custom="readingOrder {index:29;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="762,2491 1512,2491 1512,2623 762,2623"/>
+                <Baseline points="764,2555 1512,2545"/>
+                <TextEquiv>
+                    <Unicode>welt der selb si rad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_31" custom="readingOrder {index:30;} atr {basis:llm-A; conf:0.85;}">
+                <Coords points="423,2631 2316,2631 2316,2778 423,2778"/>
+                <Baseline points="425,2714 1123,2702 1823,2732 2316,2739"/>
+                <TextEquiv>
+                    <Unicode>Bütsch. Diewil Weltiswartz,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_32" custom="readingOrder {index:31;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="801,2724 2361,2724 2361,2869 801,2869"/>
+                <Baseline points="801,2767 1501,2784 1815,2806 2361,2825"/>
+                <TextEquiv>
+                    <Unicode>und hat heuser getragen und alsz party</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_33" custom="readingOrder {index:32;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="817,2794 1520,2794 1520,2913 817,2913"/>
+                <Baseline points="819,2848 1520,2865"/>
+                <TextEquiv>
+                    <Unicode>zuͦ Hab, beyng.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_34" custom="readingOrder {index:33;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="1572,2839 2308,2839 2308,3009 1572,3009"/>
+                <Baseline points="1572,2882 2088,2910 2308,2906"/>
+                <TextEquiv>
+                    <Unicode>kum pristet, nit ist da.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zürich.
+Demnach, der hohen gütter und
+alders hertzogen hertz man. Wil fürdand ann
+præsentibus David 1c . und 8 pfahrnē besyglichen
+hab 7. tag thur, ist in der artickler.
+perrigter nach der ordnung Weltiſdorh , daſelbigen
+moltgesick, ein künig zuͦ Salem statt abraß
+herfürgetragen brot und win
+glauben, glogent sich, aber der haitzy gott. Der
+beschaffen hat, handel noch und enntz.
+diewyl nun das herfürgetragen brot und wyn ist
+segir kleid gsein , als oben anzeigt , so müßen ouch
+folgen. Des Christus ouch ettwas hab geburckt.
+außgeschriben ,
+Von Wetzisprecht glighôren , ist geben habe ,
+und wie mohend ich hatt, bro und wun vrate
+herfürgetragen alsz ein opfer also ist biſſar der
+lib Christum und den gwallt desszroy uffgeoffen.
+vort
+Zentzallen, wie Martpfortz sig entsetzen, kein und
+Orbnis ein præsentibus mag an ordnung Welshaus ,
+von Paulus yttbar. 7. Das aber Weltys, doch
+hab brot und wie der herren herfir nachzu
+einem offnen tag der capl in pfelch 14. lb.
+hex auch abend mitt gestatten , das der obige
+purpter gotes den alsz einer aurir offens
+Darum ist das zur Schrift zu Dogmety
+das hab got und iren herfür tagen zuͦ ainem
+opfer und dienet soͤlich argument gar nit
+welt der selb si rad.
+Bütsch. Diewil Weltiswartz,
+und hat heuser getragen und alsz party
+zuͦ Hab, beyng.
+kum pristet, nit ist da.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

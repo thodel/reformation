@@ -1,8 +1,325 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:27:26.580+01:00</Created>
-        <LastChange>2026-01-27T10:27:26.580+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:54:14.175+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.748, "summary": {"llm": 38}}</Comments>
     </Metadata>
-    <Page imageFilename="p479.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="236,192 2349,192 2349,2956 236,2956"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="766,302 790,302 790,362 766,362"/>
+                <Baseline points="766,341 790,341"/>
+                <TextEquiv>
+                    <Unicode>zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="860,290 902,290 902,366 860,366"/>
+                <Baseline points="863,337 902,335"/>
+                <TextEquiv>
+                    <Unicode>und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="602,374 904,374 904,479 602,479"/>
+                <Baseline points="606,405 764,421 904,419"/>
+                <TextEquiv>
+                    <Unicode>einem höcherlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="1384,198 1648,198 1648,294 1384,294"/>
+                <Baseline points="1388,267 1648,259"/>
+                <TextEquiv>
+                    <Unicode>spricht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_5" custom="readingOrder {index:4;} atr {basis:llm-C; conf:0.60;}">
+                <Coords points="1770,198 1889,198 1889,282 1770,282"/>
+                <Baseline points="1774,255 1889,251"/>
+                <TextEquiv>
+                    <Unicode>und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_6" custom="readingOrder {index:5;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="1205,255 2341,255 2341,362 1205,362"/>
+                <Baseline points="1207,323 1581,325 1815,310 2341,319"/>
+                <TextEquiv>
+                    <Unicode>iren sprach, was wils mitsidu doch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_7" custom="readingOrder {index:6;} atr {basis:llm-B; conf:0.80;}">
+                <Coords points="1213,333 1324,333 1324,395 1213,395"/>
+                <Baseline points="1213,376 1324,376"/>
+                <TextEquiv>
+                    <Unicode>ſehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_8" custom="readingOrder {index:7;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="1058,345 2328,345 2328,457 1058,457"/>
+                <Baseline points="1060,417 2328,395"/>
+                <TextEquiv>
+                    <Unicode>Item ist uß inberge, inn welcher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_9" custom="readingOrder {index:8;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="749,442 2306,442 2306,551 749,551"/>
+                <Baseline points="751,502 1401,510 2306,487"/>
+                <TextEquiv>
+                    <Unicode>worn, er irer abschlahen, das si zum nitt geben solle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_10" custom="readingOrder {index:9;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="747,529 2300,529 2300,634 747,634"/>
+                <Baseline points="749,594 1659,594 2300,572"/>
+                <TextEquiv>
+                    <Unicode>und ouch die von gwalt der gantzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_11" custom="readingOrder {index:10;} atr {basis:llm-B; conf:0.55;}">
+                <Coords points="1351,603 1597,603 1597,665 1351,665"/>
+                <Baseline points="1353,632 1597,634"/>
+                <TextEquiv>
+                    <Unicode>hatten mahnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_12" custom="readingOrder {index:11;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="758,621 2281,621 2281,731 758,731"/>
+                <Baseline points="758,680 1347,694 2281,678"/>
+                <TextEquiv>
+                    <Unicode>treffend. Derglich ouch lut 2. die liger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_13" custom="readingOrder {index:12;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="743,715 2295,715 2295,814 743,814"/>
+                <Baseline points="745,781 2295,773"/>
+                <TextEquiv>
+                    <Unicode>Barthaller und Salomus, lesend, wir nitt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_14" custom="readingOrder {index:13;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="756,807 2246,807 2246,912 756,912"/>
+                <Baseline points="756,859 2246,859"/>
+                <TextEquiv>
+                    <Unicode>Ligier deß gen, das sie an zeigend,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_15" custom="readingOrder {index:14;} atr {basis:llm-B; conf:0.65;}">
+                <Coords points="749,896 2312,896 2312,989 749,989"/>
+                <Baseline points="749,958 1250,948 2312,954"/>
+                <TextEquiv>
+                    <Unicode>sonder es ist ein angegaßt . Dann dießelben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_16" custom="readingOrder {index:15;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="749,983 2310,983 2310,1081 749,1081"/>
+                <Baseline points="751,1046 2310,1038"/>
+                <TextEquiv>
+                    <Unicode>nützit mer bewärend, wider gschrifft und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_17" custom="readingOrder {index:16;} atr {basis:llm-C; conf:0.65;}">
+                <Coords points="753,1079 2287,1079 2287,1179 753,1179"/>
+                <Baseline points="754,1138 2287,1130"/>
+                <TextEquiv>
+                    <Unicode>reich, ob dem gassen mann mal bysenn,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_18" custom="readingOrder {index:17;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="747,1167 2295,1167 2295,1268 747,1268"/>
+                <Baseline points="747,1222 2295,1226"/>
+                <TextEquiv>
+                    <Unicode>dann das darzuͦ die morggen briefen worden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_19" custom="readingOrder {index:18;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="741,1255 2275,1255 2275,1356 741,1356"/>
+                <Baseline points="743,1311 2275,1321"/>
+                <TextEquiv>
+                    <Unicode>Sol vorhin im hällen worten gottsgrund habe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_20" custom="readingOrder {index:19;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="723,1342 2291,1342 2291,1453 723,1453"/>
+                <Baseline points="725,1401 2291,1420"/>
+                <TextEquiv>
+                    <Unicode>und demm so sind si ein yard und mitt der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_21" custom="readingOrder {index:20;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="758,1428 2221,1428 2221,1544 758,1544"/>
+                <Baseline points="760,1482 2221,1509"/>
+                <TextEquiv>
+                    <Unicode>gnug wellend, lieber, oderliche er, den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_22" custom="readingOrder {index:21;} atr {basis:llm-B; conf:0.55;}">
+                <Coords points="745,1506 2343,1506 2343,1643 745,1643"/>
+                <Baseline points="747,1561 2343,1600"/>
+                <TextEquiv>
+                    <Unicode>Sewegereichen ewigen magt meris , kund wegs geßene ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_23" custom="readingOrder {index:22;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="743,1596 1224,1596 1224,1687 743,1687"/>
+                <Baseline points="743,1656 1224,1647"/>
+                <TextEquiv>
+                    <Unicode>sibi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_24" custom="readingOrder {index:23;} atr {basis:llm-C; conf:0.85;}">
+                <Coords points="242,1711 2295,1711 2295,1851 242,1851"/>
+                <Baseline points="244,1792 1104,1771 1755,1785 1955,1796 2036,1814 2295,1825"/>
+                <TextEquiv>
+                    <Unicode>Pfarrer von Appenzell. Der will unsers erlassens ist, das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_25" custom="readingOrder {index:24;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="729,1800 2291,1800 2291,1921 729,1921"/>
+                <Baseline points="731,1853 1363,1851 1669,1860 1991,1886 2291,1890"/>
+                <TextEquiv>
+                    <Unicode>wir uns kernind von sünden herren habend das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_26" custom="readingOrder {index:25;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="729,1868 2304,1868 2304,1998 729,1998"/>
+                <Baseline points="731,1927 1345,1934 1593,1944 1801,1964 2304,1971"/>
+                <TextEquiv>
+                    <Unicode>durch den pfherren Ezechialer . 18 . Ich wil mitt den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_27" custom="readingOrder {index:26;} atr {basis:llm-C; conf:0.60;}">
+                <Coords points="729,1956 2337,1956 2337,2093 729,2093"/>
+                <Baseline points="729,2011 1380,2017 1799,2044 2337,2060"/>
+                <TextEquiv>
+                    <Unicode>tod deß sunders, sonder er doch beter und lob,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_28" custom="readingOrder {index:27;} atr {basis:llm-C; conf:0.75;}">
+                <Coords points="739,2042 2332,2042 2332,2159 739,2159"/>
+                <Baseline points="741,2097 1576,2103 2332,2136"/>
+                <TextEquiv>
+                    <Unicode>so der will gottes ist, das wir von sundern er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_29" custom="readingOrder {index:28;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="733,2110 2298,2110 2298,2246 733,2246"/>
+                <Baseline points="735,2175 1372,2173 2298,2219"/>
+                <TextEquiv>
+                    <Unicode>ledigett werden , so sind die seligen nitt weder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_30" custom="readingOrder {index:29;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="718,2202 2265,2202 2265,2318 718,2318"/>
+                <Baseline points="719,2254 1256,2248 1417,2266 1731,2272 2007,2293 2265,2301"/>
+                <TextEquiv>
+                    <Unicode>den wollen gottes ) sonder in sinem willen bey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_31" custom="readingOrder {index:30;} atr {basis:llm-B; conf:0.85;}">
+                <Coords points="725,2280 2267,2280 2267,2406 725,2406"/>
+                <Baseline points="727,2340 1347,2338 1842,2363 2026,2381 2267,2386"/>
+                <TextEquiv>
+                    <Unicode>stäten , warumb wolten denn die glider sich nitt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_32" custom="readingOrder {index:31;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="714,2357 2269,2357 2269,2496 714,2496"/>
+                <Baseline points="716,2422 1349,2426 2269,2467"/>
+                <TextEquiv>
+                    <Unicode>verglichen , dem höpe mitt bitten , alß wir habend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_33" custom="readingOrder {index:32;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="712,2446 2322,2446 2322,2574 712,2574"/>
+                <Baseline points="714,2506 1574,2510 1801,2533 2322,2559"/>
+                <TextEquiv>
+                    <Unicode>lut 200. Si manend nitt und wibend nitt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_34" custom="readingOrder {index:33;} atr {basis:llm-mixed; conf:0.80;}">
+                <Coords points="692,2527 2166,2527 2166,2671 692,2671"/>
+                <Baseline points="694,2588 1289,2586 2166,2636"/>
+                <TextEquiv>
+                    <Unicode>und möglich fürhin nitt sterben, si sind glich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_35" custom="readingOrder {index:34;} atr {basis:llm-A; conf:0.85;}">
+                <Coords points="714,2607 2310,2607 2310,2753 714,2753"/>
+                <Baseline points="716,2673 1083,2664 1341,2667 2310,2718"/>
+                <TextEquiv>
+                    <Unicode>den Englen und sind zum gottes unnd so nu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_36" custom="readingOrder {index:35;} atr {basis:llm-mixed; conf:0.75;}">
+                <Coords points="692,2693 2215,2693 2215,2844 692,2844"/>
+                <Baseline points="694,2747 1254,2745 2215,2794"/>
+                <TextEquiv>
+                    <Unicode>der engel dienstbar ist und bitt so bittend ouch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_37" custom="readingOrder {index:36;} atr {basis:llm-mixed; conf:0.80;}">
+                <Coords points="675,2774 2081,2774 2081,2950 675,2950"/>
+                <Baseline points="677,2821 1435,2829 1829,2861 2081,2869"/>
+                <TextEquiv>
+                    <Unicode>die seligen so sy den englen glich sind.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zum
+und
+einem höcherlichen
+spricht.
+und
+iren sprach, was wils mitsidu doch
+ſehr
+Item ist uß inberge, inn welcher
+worn, er irer abschlahen, das si zum nitt geben solle.
+und ouch die von gwalt der gantzen
+hatten mahnen
+treffend. Derglich ouch lut 2. die liger
+Barthaller und Salomus, lesend, wir nitt
+Ligier deß gen, das sie an zeigend,
+sonder es ist ein angegaßt . Dann dießelben
+nützit mer bewärend, wider gschrifft und
+reich, ob dem gassen mann mal bysenn,
+dann das darzuͦ die morggen briefen worden.
+Sol vorhin im hällen worten gottsgrund habe
+und demm so sind si ein yard und mitt der
+gnug wellend, lieber, oderliche er, den
+Sewegereichen ewigen magt meris , kund wegs geßene ,
+sibi.
+Pfarrer von Appenzell. Der will unsers erlassens ist, das
+wir uns kernind von sünden herren habend das
+durch den pfherren Ezechialer . 18 . Ich wil mitt den
+tod deß sunders, sonder er doch beter und lob,
+so der will gottes ist, das wir von sundern er
+ledigett werden , so sind die seligen nitt weder
+den wollen gottes ) sonder in sinem willen bey
+stäten , warumb wolten denn die glider sich nitt
+verglichen , dem höpe mitt bitten , alß wir habend
+lut 200. Si manend nitt und wibend nitt
+und möglich fürhin nitt sterben, si sind glich
+den Englen und sind zum gottes unnd so nu
+der engel dienstbar ist und bitt so bittend ouch
+die seligen so sy den englen glich sind.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="306,1963 357,1963 357,2120 306,2120"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:llm-C; conf:0.90;}">
+                <Coords points="312,1969 351,1969 351,2114 312,2114"/>
+                <Baseline points="320,2070 351,2068"/>
+                <TextEquiv>
+                    <Unicode>—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>—</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

@@ -1,8 +1,253 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:27:23.055+01:00</Created>
-        <LastChange>2026-01-27T10:27:23.055+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:54:09.556+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.731, "summary": {"llm": 29}}</Comments>
     </Metadata>
-    <Page imageFilename="p453.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="696,275 2384,275 2384,2879 696,2879"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-A; conf:0.85;}">
+                <Coords points="891,281 2254,281 2254,426 891,426"/>
+                <Baseline points="893,393 1117,384 2254,374"/>
+                <TextEquiv>
+                    <Unicode>Dievolgett, was wider dis sechstenn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="898,411 2287,411 2287,545 898,545"/>
+                <Baseline points="898,504 1757,481 2287,485"/>
+                <TextEquiv>
+                    <Unicode>schlissend gedespuwet und gegendlett, ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="739,496 2332,496 2332,646 739,646"/>
+                <Baseline points="743,611 1817,578 2332,570"/>
+                <TextEquiv>
+                    <Unicode>und anfangs so hatt Francisco Augustinum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-mixed; conf:0.60;}">
+                <Coords points="702,638 2339,638 2339,760 702,760"/>
+                <Baseline points="704,744 828,729 1197,725 1778,703 2339,713"/>
+                <TextEquiv>
+                    <Unicode>Der sechste Schlussred, wie Christus ist allein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_5" custom="readingOrder {index:4;} atr {basis:llm-mixed; conf:0.60;}">
+                <Coords points="813,737 2300,737 2300,845 813,845"/>
+                <Baseline points="815,805 1114,805 1889,783 2300,791"/>
+                <TextEquiv>
+                    <Unicode>für uns geschrieben, also soll er ein einiger Mittler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_6" custom="readingOrder {index:5;} atr {basis:llm-mixed; conf:0.65;}">
+                <Coords points="780,814 2295,814 2295,935 780,935"/>
+                <Baseline points="782,896 1755,869 2295,873"/>
+                <TextEquiv>
+                    <Unicode>und fürsprechen, zwischen Gott dem Vater und uns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_7" custom="readingOrder {index:6;} atr {basis:llm-mixed; conf:0.70;}">
+                <Coords points="780,896 2318,896 2318,1017 780,1017"/>
+                <Baseline points="782,983 1039,966 2318,948"/>
+                <TextEquiv>
+                    <Unicode>glöubigen angerüfft werden. Deshalb all ander mittler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_8" custom="readingOrder {index:7;} atr {basis:llm-C; conf:0.85;}">
+                <Coords points="774,978 2357,978 2357,1109 774,1109"/>
+                <Baseline points="776,1061 1916,1042 2213,1042 2357,1052"/>
+                <TextEquiv>
+                    <Unicode>und fürsprechen außerhalb dieses ... von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_9" custom="readingOrder {index:8;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="768,1079 2378,1079 2378,1187 768,1187"/>
+                <Baseline points="768,1140 2378,1140"/>
+                <TextEquiv>
+                    <Unicode>unß on grund der geschrifft uffgeworffen, seiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_10" custom="readingOrder {index:9;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="768,1163 2326,1163 2326,1266 768,1266"/>
+                <Baseline points="770,1231 1745,1216 2326,1220"/>
+                <TextEquiv>
+                    <Unicode>Thurnn, ist den der kein sund, nie gern hett.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_11" custom="readingOrder {index:10;} atr {basis:llm-B; conf:0.65;}">
+                <Coords points="772,1249 2328,1249 2328,1340 772,1340"/>
+                <Baseline points="774,1309 1468,1301 2328,1309"/>
+                <TextEquiv>
+                    <Unicode>und ist in sinem mund betrug nie erfunden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_12" custom="readingOrder {index:11;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="737,1329 2320,1329 2320,1451 737,1451"/>
+                <Baseline points="739,1391 2320,1406"/>
+                <TextEquiv>
+                    <Unicode>darumb sagt er Jo . 14. zu nachtmahl der fürst .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_13" custom="readingOrder {index:12;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="756,1434 2343,1434 2343,1547 756,1547"/>
+                <Baseline points="758,1490 1450,1490 2343,1508"/>
+                <TextEquiv>
+                    <Unicode>diser wort, was komen, er hette aber nüt an im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_14" custom="readingOrder {index:13;} atr {basis:llm-A; conf:0.85;}">
+                <Coords points="753,1527 2256,1527 2256,1647 753,1647"/>
+                <Baseline points="753,1577 1296,1586 1624,1602 2256,1594"/>
+                <TextEquiv>
+                    <Unicode>kein ursach deß todts, deß sich kein heilig nie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_15" custom="readingOrder {index:14;} atr {basis:llm-C; conf:0.50;}">
+                <Coords points="754,1625 2335,1625 2335,1730 754,1730"/>
+                <Baseline points="756,1682 1396,1680 2335,1697"/>
+                <TextEquiv>
+                    <Unicode>hatt mügen, benumen. Epiph. 2. Wann von wa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_16" custom="readingOrder {index:15;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="758,1707 2137,1707 2137,1810 758,1810"/>
+                <Baseline points="760,1769 1429,1765 2137,1781"/>
+                <TextEquiv>
+                    <Unicode>nur warend wir alle kinder deß zorns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_17" custom="readingOrder {index:16;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="2217,1744 2252,1744 2252,1820 2217,1820"/>
+                <Baseline points="2217,1787 2252,1787"/>
+                <TextEquiv>
+                    <Unicode>S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_18" custom="readingOrder {index:17;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="751,1802 2332,1802 2332,1907 751,1907"/>
+                <Baseline points="753,1862 2332,1874"/>
+                <TextEquiv>
+                    <Unicode>habend, als ich all sich müste bekennen unnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_19" custom="readingOrder {index:18;} atr {basis:llm-B; conf:0.65;}">
+                <Coords points="760,1892 2334,1892 2334,2031 760,2031"/>
+                <Baseline points="762,1962 867,1954 1326,1956 2334,1982"/>
+                <TextEquiv>
+                    <Unicode>sprechen, vergeb vns vieher schuld alsz wer verge ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_20" custom="readingOrder {index:19;} atr {basis:llm-A; conf:0.85;}">
+                <Coords points="749,1982 2234,1982 2234,2101 749,2101"/>
+                <Baseline points="751,2040 1421,2046 2234,2068"/>
+                <TextEquiv>
+                    <Unicode>unsern schuldneren. Darumb Christo allein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_21" custom="readingOrder {index:20;} atr {basis:llm-A; conf:0.90;}">
+                <Coords points="751,2079 2318,2079 2318,2182 751,2182"/>
+                <Baseline points="753,2136 1580,2134 2318,2153"/>
+                <TextEquiv>
+                    <Unicode>und niemant anders für uns gestorben ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_22" custom="readingOrder {index:21;} atr {basis:llm-B; conf:0.88;}">
+                <Coords points="737,2161 2298,2161 2298,2270 737,2270"/>
+                <Baseline points="739,2219 1628,2219 2298,2237"/>
+                <TextEquiv>
+                    <Unicode>Deßhalb er allein ein mittler zwüschen gott und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_23" custom="readingOrder {index:22;} atr {basis:llm-A; conf:0.90;}">
+                <Coords points="741,2245 2332,2245 2332,2367 741,2367"/>
+                <Baseline points="743,2315 1100,2305 1683,2311 2332,2334"/>
+                <TextEquiv>
+                    <Unicode>dem manschen ist Christo Jesus gott und mensch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_24" custom="readingOrder {index:23;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="753,2332 2347,2332 2347,2452 753,2452"/>
+                <Baseline points="753,2398 852,2390 1150,2390 2347,2415"/>
+                <TextEquiv>
+                    <Unicode>Zemoch, 2. durch welcher wer allem empfand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_25" custom="readingOrder {index:24;} atr {basis:llm-C; conf:0.70;}">
+                <Coords points="745,2419 2328,2419 2328,2533 745,2533"/>
+                <Baseline points="747,2483 1322,2473 2328,2496"/>
+                <TextEquiv>
+                    <Unicode>kommen, züdem vatter Jo. 14. Epiph. 2. Darumb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_26" custom="readingOrder {index:25;} atr {basis:llm-C; conf:0.85;}">
+                <Coords points="745,2510 2330,2510 2330,2648 745,2648"/>
+                <Baseline points="747,2572 1294,2568 1716,2578 2330,2615"/>
+                <TextEquiv>
+                    <Unicode>wir inn allen unsern anfechtungen und beschwerden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_27" custom="readingOrder {index:26;} atr {basis:llm-B; conf:0.80;}">
+                <Coords points="758,2603 2297,2603 2297,2720 758,2720"/>
+                <Baseline points="760,2673 1597,2666 2297,2695"/>
+                <TextEquiv>
+                    <Unicode>zu im allem söllend lauffen , rüffen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_28" custom="readingOrder {index:27;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="751,2695 2326,2695 2326,2873 751,2873"/>
+                <Baseline points="753,2774 1007,2759 1650,2761 2326,2804"/>
+                <TextEquiv>
+                    <Unicode>schrien, wer er uns dann amant machen etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dievolgett, was wider dis sechstenn.
+schlissend gedespuwet und gegendlett, ist
+und anfangs so hatt Francisco Augustinum.
+Der sechste Schlussred, wie Christus ist allein
+für uns geschrieben, also soll er ein einiger Mittler
+und fürsprechen, zwischen Gott dem Vater und uns
+glöubigen angerüfft werden. Deshalb all ander mittler
+und fürsprechen außerhalb dieses ... von
+unß on grund der geschrifft uffgeworffen, seiner
+Thurnn, ist den der kein sund, nie gern hett.
+und ist in sinem mund betrug nie erfunden.
+darumb sagt er Jo . 14. zu nachtmahl der fürst .
+diser wort, was komen, er hette aber nüt an im
+kein ursach deß todts, deß sich kein heilig nie
+hatt mügen, benumen. Epiph. 2. Wann von wa
+nur warend wir alle kinder deß zorns
+S.
+habend, als ich all sich müste bekennen unnd
+sprechen, vergeb vns vieher schuld alsz wer verge ,
+unsern schuldneren. Darumb Christo allein
+und niemant anders für uns gestorben ist.
+Deßhalb er allein ein mittler zwüschen gott und
+dem manschen ist Christo Jesus gott und mensch.
+Zemoch, 2. durch welcher wer allem empfand
+kommen, züdem vatter Jo. 14. Epiph. 2. Darumb
+wir inn allen unsern anfechtungen und beschwerden
+zu im allem söllend lauffen , rüffen und
+schrien, wer er uns dann amant machen etc.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="255,582 491,582 491,849 255,849"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:llm-print; conf:1.00;}">
+                <Coords points="261,588 485,588 485,843 261,843"/>
+                <Baseline points="263,705 485,703"/>
+                <TextEquiv>
+                    <Unicode>Frantz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Frantz</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

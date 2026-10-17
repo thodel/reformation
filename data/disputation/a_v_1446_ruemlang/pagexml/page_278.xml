@@ -1,8 +1,482 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:26:59.048+01:00</Created>
-        <LastChange>2026-01-27T10:26:59.048+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:53:31.404+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.643, "summary": {"consensus": 1, "llm": 56}}</Comments>
     </Metadata>
-    <Page imageFilename="p278.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="174,202 2287,202 2287,2964 174,2964"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="2104,208 2184,208 2184,286 2104,286"/>
+                <Baseline points="2104,236 2184,236"/>
+                <TextEquiv>
+                    <Unicode>reden .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-C; conf:0.50;}">
+                <Coords points="623,234 2125,234 2125,378 623,378"/>
+                <Baseline points="625,300 1013,319 1552,325 2125,347"/>
+                <TextEquiv>
+                    <Unicode>spruch usß und kain getuͦn, also der im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="1634,337 2225,337 2225,413 1634,413"/>
+                <Baseline points="1636,382 2225,378"/>
+                <TextEquiv>
+                    <Unicode>hatt herrn pfarr gefarnn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="637,349 2223,349 2223,475 637,475"/>
+                <Baseline points="639,407 949,407 1405,424 2223,438"/>
+                <TextEquiv>
+                    <Unicode>Bücher, in vergangen tagen, das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_5" custom="readingOrder {index:4;} atr {basis:llm-B; conf:0.50;}">
+                <Coords points="368,409 965,409 965,494 368,494"/>
+                <Baseline points="370,459 965,446"/>
+                <TextEquiv>
+                    <Unicode>unserben vnd augustian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_6" custom="readingOrder {index:5;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="652,450 852,450 852,535 652,535"/>
+                <Baseline points="654,492 852,487"/>
+                <TextEquiv>
+                    <Unicode>gegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_7" custom="readingOrder {index:6;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="939,450 2186,450 2186,549 939,549"/>
+                <Baseline points="941,502 2186,514"/>
+                <TextEquiv>
+                    <Unicode>darbi an etts daran vordt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_8" custom="readingOrder {index:7;} atr {basis:llm-A; conf:0.40;}">
+                <Coords points="684,500 1000,500 1000,588 684,588"/>
+                <Baseline points="686,555 1000,549"/>
+                <TextEquiv>
+                    <Unicode>domino Gayto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_9" custom="readingOrder {index:8;} atr {basis:llm-C; conf:0.70;}">
+                <Coords points="200,549 2166,549 2166,709 200,709"/>
+                <Baseline points="202,659 1158,625 1889,632 2166,646"/>
+                <TextEquiv>
+                    <Unicode>Es hatt der schuͦlmaister under andern malen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_10" custom="readingOrder {index:9;} atr {basis:llm-C; conf:0.70;}">
+                <Coords points="650,659 2238,659 2238,764 650,764"/>
+                <Baseline points="650,721 1768,717 2238,731"/>
+                <TextEquiv>
+                    <Unicode>ein ettlichen halbschuss, so er umb geschlagen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_11" custom="readingOrder {index:10;} atr {basis:llm-A; conf:0.95;}">
+                <Coords points="1125,738 1306,738 1306,795 1125,795"/>
+                <Baseline points="1125,768 1306,768"/>
+                <TextEquiv>
+                    <Unicode>warten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_12" custom="readingOrder {index:11;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="637,748 2081,748 2081,847 637,847"/>
+                <Baseline points="637,812 1100,803 2081,812"/>
+                <TextEquiv>
+                    <Unicode>sind wir vay, wie er die mitt der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_13" custom="readingOrder {index:12;} atr {basis:llm-A; conf:0.30;}">
+                <Coords points="625,842 776,842 776,970 625,970"/>
+                <Baseline points="631,925 776,910"/>
+                <TextEquiv>
+                    <Unicode>s.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_14" custom="readingOrder {index:13;} atr {basis:consensus; conf:0.95;}">
+                <Coords points="1477,810 1669,810 1669,878 1477,878"/>
+                <Baseline points="1479,857 1669,853"/>
+                <TextEquiv>
+                    <Unicode>andern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_15" custom="readingOrder {index:14;} atr {basis:llm-C; conf:0.50;}">
+                <Coords points="799,836 2049,836 2049,923 799,923"/>
+                <Baseline points="801,904 1158,886 2049,894"/>
+                <TextEquiv>
+                    <Unicode>muͦster versessen, den andern red, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_16" custom="readingOrder {index:15;} atr {basis:llm-B; conf:0.50;}">
+                <Coords points="679,931 1897,931 1897,1030 679,1030"/>
+                <Baseline points="681,999 1039,982 1897,987"/>
+                <TextEquiv>
+                    <Unicode>unter dem herren abgebliten .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_17" custom="readingOrder {index:16;} atr {basis:llm-B; conf:0.50;}">
+                <Coords points="1182,1055 1384,1055 1384,1121 1182,1121"/>
+                <Baseline points="1184,1099 1384,1092"/>
+                <TextEquiv>
+                    <Unicode>Vollen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_18" custom="readingOrder {index:17;} atr {basis:llm-A; conf:0.85;}">
+                <Coords points="532,1069 2258,1069 2258,1218 532,1218"/>
+                <Baseline points="534,1175 737,1150 1135,1146 1638,1154 2258,1185"/>
+                <TextEquiv>
+                    <Unicode>Herr doctor, uß wiewol es eyn span zuͦ Paris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_19" custom="readingOrder {index:18;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="641,1167 2273,1167 2273,1284 641,1284"/>
+                <Baseline points="643,1222 1205,1222 2273,1251"/>
+                <TextEquiv>
+                    <Unicode>wirt, deß zuͦ beschluß diß artickels zuͦgegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_20" custom="readingOrder {index:19;} atr {basis:llm-mixed; conf:0.70;}">
+                <Coords points="635,1259 2176,1259 2176,1336 635,1336"/>
+                <Baseline points="637,1303 1468,1298 1772,1309 2176,1307"/>
+                <TextEquiv>
+                    <Unicode>Sacrament, was ich in minem buͦch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_21" custom="readingOrder {index:20;} atr {basis:llm-B; conf:0.80;}">
+                <Coords points="688,1319 2143,1319 2143,1408 688,1408"/>
+                <Baseline points="688,1360 737,1368 2143,1369"/>
+                <TextEquiv>
+                    <Unicode>s sohnen , wil ich mitt warheit darbringen .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_22" custom="readingOrder {index:21;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="190,1465 2244,1465 2244,1602 190,1602"/>
+                <Baseline points="192,1575 933,1538 2244,1531"/>
+                <TextEquiv>
+                    <Unicode>Sperer und fromme clausß, es hatt min her pfarer von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_23" custom="readingOrder {index:22;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="180,1542 2116,1542 2116,1672 180,1672"/>
+                <Baseline points="182,1643 479,1623 1017,1606 2116,1598"/>
+                <TextEquiv>
+                    <Unicode>appenzaller sanz Gallen gestern de clerc vnd ſcöllē</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_24" custom="readingOrder {index:23;} atr {basis:llm-C; conf:0.80;}">
+                <Coords points="639,1615 2125,1615 2125,1730 639,1730"/>
+                <Baseline points="641,1713 836,1697 1333,1680 2125,1680"/>
+                <TextEquiv>
+                    <Unicode>schrifft, doch so vil mogen, lienden also,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_25" custom="readingOrder {index:24;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="627,1705 2116,1705 2116,1820 627,1820"/>
+                <Baseline points="629,1802 922,1773 1123,1763 2116,1759"/>
+                <TextEquiv>
+                    <Unicode>das brot welches ich üch geben werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_26" custom="readingOrder {index:25;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="610,1789 2141,1789 2141,1897 610,1897"/>
+                <Baseline points="611,1874 1293,1837 2141,1847"/>
+                <TextEquiv>
+                    <Unicode>hangege mitt vil umbschweife da ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_27" custom="readingOrder {index:26;} atr {basis:llm-B; conf:0.80;}">
+                <Coords points="615,1855 2059,1855 2059,1976 615,1976"/>
+                <Baseline points="617,1954 1246,1917 2059,1921"/>
+                <TextEquiv>
+                    <Unicode>hatt meister , Ulrich zuͦ sölichen text .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_28" custom="readingOrder {index:27;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="615,1946 2265,1946 2265,2046 615,2046"/>
+                <Baseline points="617,2015 770,2019 1000,2003 1347,1998 1766,1998 2265,2011"/>
+                <TextEquiv>
+                    <Unicode>ettwas herzuͦ tan, noch den alß wir inn haben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_29" custom="readingOrder {index:28;} atr {basis:llm-C; conf:0.85;}">
+                <Coords points="610,2031 2227,2031 2227,2132 610,2132"/>
+                <Baseline points="611,2103 1328,2081 2227,2083"/>
+                <TextEquiv>
+                    <Unicode>transfieren von Hieronimo, soͤlt nemlich ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_30" custom="readingOrder {index:29;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="617,2099 2162,2099 2162,2215 617,2215"/>
+                <Baseline points="619,2186 1248,2157 1920,2161 2162,2171"/>
+                <TextEquiv>
+                    <Unicode>das wölte ammt vertröschet aber. Esß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_31" custom="readingOrder {index:30;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="588,2186 2193,2186 2193,2287 588,2287"/>
+                <Baseline points="590,2252 953,2239 1507,2239 2193,2254"/>
+                <TextEquiv>
+                    <Unicode>och verstand, vyatt im lant, sin uns von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_32" custom="readingOrder {index:31;} atr {basis:llm-C; conf:0.80;}">
+                <Coords points="613,2270 2263,2270 2263,2379 613,2379"/>
+                <Baseline points="615,2338 869,2322 1275,2318 1938,2330 2263,2350"/>
+                <TextEquiv>
+                    <Unicode>Hieronimo nitt entprieren, sin minn schuld</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_33" custom="readingOrder {index:32;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="611,2344 2176,2344 2176,2450 611,2450"/>
+                <Baseline points="613,2398 1215,2396 1690,2415 2176,2421"/>
+                <TextEquiv>
+                    <Unicode>nitt an, sonder empfrens, denen so gärt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_34" custom="readingOrder {index:33;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="606,2419 2238,2419 2238,2533 606,2533"/>
+                <Baseline points="606,2485 1123,2477 1618,2494 2238,2500"/>
+                <TextEquiv>
+                    <Unicode>hat nun brieffschiffler sprache und aber under</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_35" custom="readingOrder {index:34;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="619,2502 2149,2502 2149,2605 619,2605"/>
+                <Baseline points="621,2557 1137,2557 1778,2576 2149,2572"/>
+                <TextEquiv>
+                    <Unicode>anderer ouch gerett ward, von denn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_36" custom="readingOrder {index:35;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="627,2578 2174,2578 2174,2702 627,2702"/>
+                <Baseline points="629,2634 1580,2646 1792,2660 2174,2667"/>
+                <TextEquiv>
+                    <Unicode>flisch und bluͦt (g) wederhoch,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_37" custom="readingOrder {index:36;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="617,2662 2230,2662 2230,2790 617,2790"/>
+                <Baseline points="619,2724 1349,2728 2230,2751"/>
+                <TextEquiv>
+                    <Unicode>und frowenlich bekenn under sin gstalt, wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_38" custom="readingOrder {index:37;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="643,2745 2172,2745 2172,2871 643,2871"/>
+                <Baseline points="643,2796 2172,2825"/>
+                <TextEquiv>
+                    <Unicode>und broi, nach lüt diß trips vorgnempten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_39" custom="readingOrder {index:38;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="604,2825 1458,2825 1458,2958 604,2958"/>
+                <Baseline points="606,2888 803,2884 1458,2898"/>
+                <TextEquiv>
+                    <Unicode>Meilig ward mych</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_40" custom="readingOrder {index:39;} atr {basis:llm-B; conf:0.40;}">
+                <Coords points="1475,2857 1603,2857 1603,2950 1475,2950"/>
+                <Baseline points="1477,2898 1603,2902"/>
+                <TextEquiv>
+                    <Unicode>deß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_41" custom="readingOrder {index:40;} atr {basis:llm-B; conf:0.50;}">
+                <Coords points="1974,2855 2143,2855 2143,2948 1974,2948"/>
+                <Baseline points="1976,2915 2143,2919"/>
+                <TextEquiv>
+                    <Unicode>weill</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_42" custom="readingOrder {index:41;} atr {basis:llm-A; conf:0.40;}">
+                <Coords points="2244,2456 2281,2456 2281,2658 2244,2658"/>
+                <Baseline points="2260,2500 2279,2502"/>
+                <TextEquiv>
+                    <Unicode>S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>reden .
+spruch usß und kain getuͦn, also der im
+hatt herrn pfarr gefarnn.
+Bücher, in vergangen tagen, das
+unserben vnd augustian
+gegen
+darbi an etts daran vordt
+domino Gayto.
+Es hatt der schuͦlmaister under andern malen
+ein ettlichen halbschuss, so er umb geschlagen
+warten.
+sind wir vay, wie er die mitt der
+s.
+andern
+muͦster versessen, den andern red, und
+unter dem herren abgebliten .
+Vollen
+Herr doctor, uß wiewol es eyn span zuͦ Paris
+wirt, deß zuͦ beschluß diß artickels zuͦgegen
+Sacrament, was ich in minem buͦch
+s sohnen , wil ich mitt warheit darbringen .
+Sperer und fromme clausß, es hatt min her pfarer von
+appenzaller sanz Gallen gestern de clerc vnd ſcöllē
+schrifft, doch so vil mogen, lienden also,
+das brot welches ich üch geben werden.
+hangege mitt vil umbschweife da ich
+hatt meister , Ulrich zuͦ sölichen text .
+ettwas herzuͦ tan, noch den alß wir inn haben.
+transfieren von Hieronimo, soͤlt nemlich ein
+das wölte ammt vertröschet aber. Esß
+och verstand, vyatt im lant, sin uns von
+Hieronimo nitt entprieren, sin minn schuld
+nitt an, sonder empfrens, denen so gärt
+hat nun brieffschiffler sprache und aber under
+anderer ouch gerett ward, von denn
+flisch und bluͦt (g) wederhoch,
+und frowenlich bekenn under sin gstalt, wie
+und broi, nach lüt diß trips vorgnempten
+Meilig ward mych
+deß
+weill
+S.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="3,290 109,290 109,2537 3,2537"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="19,296 93,296 93,386 19,386"/>
+                <Baseline points="21,349 93,352"/>
+                <TextEquiv>
+                    <Unicode>einem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="19,370 91,370 91,471 19,471"/>
+                <Baseline points="19,422 91,422"/>
+                <TextEquiv>
+                    <Unicode>brüder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="23,452 81,452 81,541 23,541"/>
+                <Baseline points="25,500 81,504"/>
+                <TextEquiv>
+                    <Unicode>ten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_4" custom="readingOrder {index:3;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="31,559 95,559 95,648 31,648"/>
+                <Baseline points="36,623 95,619"/>
+                <TextEquiv>
+                    <Unicode>einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_5" custom="readingOrder {index:4;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="15,795 81,795 81,929 15,929"/>
+                <Baseline points="19,861 79,857"/>
+                <TextEquiv>
+                    <Unicode>ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_6" custom="readingOrder {index:5;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="21,1044 89,1044 89,1146 21,1146"/>
+                <Baseline points="21,1113 89,1113"/>
+                <TextEquiv>
+                    <Unicode>den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_7" custom="readingOrder {index:6;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="19,1156 95,1156 95,1241 19,1241"/>
+                <Baseline points="21,1204 95,1208"/>
+                <TextEquiv>
+                    <Unicode>Den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_8" custom="readingOrder {index:7;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="27,1247 95,1247 95,1325 27,1325"/>
+                <Baseline points="27,1298 95,1298"/>
+                <TextEquiv>
+                    <Unicode>vor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_9" custom="readingOrder {index:8;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="29,1393 81,1393 81,1509 29,1509"/>
+                <Baseline points="31,1473 77,1476"/>
+                <TextEquiv>
+                    <Unicode>und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_10" custom="readingOrder {index:9;} atr {basis:llm-A; conf:0.40;}">
+                <Coords points="9,1504 97,1504 97,1612 9,1612"/>
+                <Baseline points="13,1559 95,1565"/>
+                <TextEquiv>
+                    <Unicode>S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_11" custom="readingOrder {index:10;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="17,2116 103,2116 103,2190 17,2190"/>
+                <Baseline points="17,2163 103,2163"/>
+                <TextEquiv>
+                    <Unicode>frau &gt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_12" custom="readingOrder {index:11;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="17,2186 95,2186 95,2270 17,2270"/>
+                <Baseline points="17,2231 95,2231"/>
+                <TextEquiv>
+                    <Unicode>worten .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_13" custom="readingOrder {index:12;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="38,2363 54,2363 54,2452 38,2452"/>
+                <Baseline points="38,2424 54,2424"/>
+                <TextEquiv>
+                    <Unicode>und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_14" custom="readingOrder {index:13;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="15,2440 99,2440 99,2531 15,2531"/>
+                <Baseline points="17,2477 99,2481"/>
+                <TextEquiv>
+                    <Unicode>lohn .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>einem
+brüder
+ten
+einen
+ich
+den
+Den
+vor
+und
+S.
+frau &gt;
+worten .
+und
+lohn .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="17,2863 79,2863 79,2954 17,2954"/>
+            <TextLine id="r_3_tl_1" custom="readingOrder {index:0;} atr {basis:llm-B; conf:0.50;}">
+                <Coords points="23,2869 73,2869 73,2948 23,2948"/>
+                <Baseline points="23,2915 73,2915"/>
+                <TextEquiv>
+                    <Unicode>kein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>kein</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

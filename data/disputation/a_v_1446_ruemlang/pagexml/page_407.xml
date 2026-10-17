@@ -1,8 +1,280 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:27:16.857+01:00</Created>
-        <LastChange>2026-01-27T10:27:16.857+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:54:01.273+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.701, "summary": {"agree_norm": 1, "llm": 32}}</Comments>
     </Metadata>
-    <Page imageFilename="p407.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="596,194 2382,194 2382,2943 596,2943"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-C; conf:0.70;}">
+                <Coords points="617,200 2335,200 2335,323 617,323"/>
+                <Baseline points="619,281 1015,279 1648,255 1955,259 2240,275 2335,290"/>
+                <TextEquiv>
+                    <Unicode>abgelegen wirt. 7. Das die pfaffen mit der mess</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-C; conf:0.65;}">
+                <Coords points="621,294 2359,294 2359,413 621,413"/>
+                <Baseline points="623,378 1587,343 1879,343 2359,372"/>
+                <TextEquiv>
+                    <Unicode>gmeinlich wider gott noch der welt vergend, darumb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-B; conf:0.50;}">
+                <Coords points="623,378 2363,378 2363,487 623,487"/>
+                <Baseline points="623,461 988,442 1314,440 1661,422 1959,426 2363,461"/>
+                <TextEquiv>
+                    <Unicode>sonder vil me umb den pfang vnd pfunden willigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="602,459 2053,459 2053,584 602,584"/>
+                <Baseline points="604,543 1556,520 2053,526"/>
+                <TextEquiv>
+                    <Unicode>ouch usß get. Ich geschwig, die ubel der pfruͦnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_5" custom="readingOrder {index:4;} atr {basis:agree_norm; conf:0.85;}">
+                <Coords points="2106,491 2369,491 2369,584 2106,584"/>
+                <Baseline points="2106,543 2369,553"/>
+                <TextEquiv>
+                    <Unicode>damitt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_6" custom="readingOrder {index:5;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="611,562 2341,562 2341,667 611,667"/>
+                <Baseline points="613,631 1083,629 1751,609 2100,615 2341,638"/>
+                <TextEquiv>
+                    <Unicode>der cruttworn huser gefreyt sind, nu ist der got ein herr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_7" custom="readingOrder {index:6;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="631,648 2347,648 2347,760 631,760"/>
+                <Baseline points="633,721 1174,713 1603,696 2170,713 2347,731"/>
+                <TextEquiv>
+                    <Unicode>abgetragen, es mag ouch hieyn kum, Hampeel uß der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_8" custom="readingOrder {index:7;} atr {basis:llm-C; conf:0.60;}">
+                <Coords points="633,740 2349,740 2349,840 633,840"/>
+                <Baseline points="635,808 1941,793 2349,814"/>
+                <TextEquiv>
+                    <Unicode>schrifft bracht werd. 8. Das des wern gottes verguͦder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_9" custom="readingOrder {index:8;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="617,824 2349,824 2349,937 617,937"/>
+                <Baseline points="617,896 1794,875 2349,906"/>
+                <TextEquiv>
+                    <Unicode>wirt so der aposlen und evangelien in frömbden sprach ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_10" custom="readingOrder {index:9;} atr {basis:llm-C; conf:0.55;}">
+                <Coords points="633,912 2320,912 2320,1017 633,1017"/>
+                <Baseline points="635,991 1017,970 1466,962 1981,964 2320,983"/>
+                <TextEquiv>
+                    <Unicode>sungen und geloffen werd, daruß die from gemeind gottes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_11" custom="readingOrder {index:10;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="625,997 2328,997 2328,1107 625,1107"/>
+                <Baseline points="627,1073 1203,1053 1768,1052 2328,1063"/>
+                <TextEquiv>
+                    <Unicode>nott abruͦwen, witer welle ges rechtig wollen oder spruch pruͦe, ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_12" custom="readingOrder {index:11;} atr {basis:llm-C; conf:0.70;}">
+                <Coords points="611,1090 2363,1090 2363,1193 611,1193"/>
+                <Baseline points="611,1163 967,1163 1355,1146 1683,1142 2217,1152 2363,1163"/>
+                <TextEquiv>
+                    <Unicode>Rom. 15. 1. Cor. 14. Woro es wern ouch der antwrtung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_13" custom="readingOrder {index:12;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="617,1179 2277,1179 2277,1280 617,1280"/>
+                <Baseline points="619,1253 1495,1229 2277,1241"/>
+                <TextEquiv>
+                    <Unicode>das gott, verkinden und horen des wort gottes mitt fil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_14" custom="readingOrder {index:13;} atr {basis:llm-C; conf:0.60;}">
+                <Coords points="613,1261 2258,1261 2258,1362 613,1362"/>
+                <Baseline points="615,1338 1273,1315 2258,1321"/>
+                <TextEquiv>
+                    <Unicode>der ceremonien verhinderen und das gemuͦt irs froͤwen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_15" custom="readingOrder {index:14;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="631,1358 2260,1358 2260,1467 631,1467"/>
+                <Baseline points="633,1432 1054,1412 1505,1410 2260,1434"/>
+                <TextEquiv>
+                    <Unicode>das des volk under einer gwalr alß gesagend, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_16" custom="readingOrder {index:15;} atr {basis:llm-B; conf:0.45;}">
+                <Coords points="690,1441 2295,1441 2295,1549 690,1549"/>
+                <Baseline points="690,1500 1601,1494 2295,1517"/>
+                <TextEquiv>
+                    <Unicode>sacramen empfarrn und das kilch weder die insagger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_17" custom="readingOrder {index:16;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="627,1519 2318,1519 2318,1647 627,1647"/>
+                <Baseline points="629,1584 1228,1579 2318,1608"/>
+                <TextEquiv>
+                    <Unicode>Ehren abgeslagen hären. 11. Das das brot und der klobg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_18" custom="readingOrder {index:17;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="625,1610 2298,1610 2298,1720 625,1720"/>
+                <Baseline points="627,1662 1524,1666 1801,1682 2298,1691"/>
+                <TextEquiv>
+                    <Unicode>uffgehept und anbetett wirt, alsz werend si wern gott.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_19" custom="readingOrder {index:18;} atr {basis:llm-A; conf:0.30;}">
+                <Coords points="627,1728 669,1728 669,1804 627,1804"/>
+                <Baseline points="633,1779 669,1775"/>
+                <TextEquiv>
+                    <Unicode>S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_20" custom="readingOrder {index:19;} atr {basis:llm-C; conf:0.60;}">
+                <Coords points="708,1709 2365,1709 2365,1812 708,1812"/>
+                <Baseline points="708,1773 1657,1767 2365,1790"/>
+                <TextEquiv>
+                    <Unicode>17. Das Christuͦ gadermuͦssy und danckbarkeit, was wol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_21" custom="readingOrder {index:20;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="627,1798 2193,1798 2193,1899 627,1899"/>
+                <Baseline points="629,1862 1764,1855 2193,1864"/>
+                <TextEquiv>
+                    <Unicode>hatt angesezt ✳ damitt wellend sy das glückmeister</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_22" custom="readingOrder {index:21;} atr {basis:llm-A; conf:0.30;}">
+                <Coords points="2230,1829 2337,1829 2337,1917 2230,1917"/>
+                <Baseline points="2234,1886 2337,1892"/>
+                <TextEquiv>
+                    <Unicode>Es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_23" custom="readingOrder {index:22;} atr {basis:llm-C; conf:0.45;}">
+                <Coords points="615,1888 2244,1888 2244,1988 615,1988"/>
+                <Baseline points="617,1956 1156,1942 2026,1944 2244,1962"/>
+                <TextEquiv>
+                    <Unicode>sind salbenut, hochen, frowen och aid thuͦren, mit al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_24" custom="readingOrder {index:23;} atr {basis:llm-C; conf:0.60;}">
+                <Coords points="617,1969 2351,1969 2351,2083 617,2083"/>
+                <Baseline points="619,2031 1788,2025 2351,2044"/>
+                <TextEquiv>
+                    <Unicode>kranckheit, des habend sy alles mitt der mess wellen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_25" custom="readingOrder {index:24;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="627,2056 2176,2056 2176,2165 627,2165"/>
+                <Baseline points="629,2122 1322,2116 2176,2132"/>
+                <TextEquiv>
+                    <Unicode>aùch in rechten, das habend sölichs und derglichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_26" custom="readingOrder {index:25;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="619,2151 2318,2151 2318,2270 619,2270"/>
+                <Baseline points="621,2208 2318,2229"/>
+                <TextEquiv>
+                    <Unicode>wissentlich, wen kan nitt sechen, des si erschicknleich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_27" custom="readingOrder {index:26;} atr {basis:llm-C; conf:0.55;}">
+                <Coords points="641,2254 2369,2254 2369,2353 641,2353"/>
+                <Baseline points="641,2311 1380,2301 1681,2313 2127,2315 2369,2330"/>
+                <TextEquiv>
+                    <Unicode>gewert sind vor gott, und doch geden erfallen wern, das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_28" custom="readingOrder {index:27;} atr {basis:llm-B; conf:0.40;}">
+                <Coords points="635,2338 2357,2338 2357,2444 635,2444"/>
+                <Baseline points="637,2410 947,2394 2357,2406"/>
+                <TextEquiv>
+                    <Unicode>libens Lux : 16 ſpricht , was hoch ist vor den mont-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_29" custom="readingOrder {index:28;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="639,2426 2287,2426 2287,2526 639,2526"/>
+                <Baseline points="641,2489 963,2479 2287,2485"/>
+                <TextEquiv>
+                    <Unicode>stat, ist ain grüwel vor gott. Also vermanend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_30" custom="readingOrder {index:29;} atr {basis:llm-B; conf:0.55;}">
+                <Coords points="633,2514 2376,2514 2376,2636 633,2636"/>
+                <Baseline points="635,2574 1294,2572 2376,2601"/>
+                <TextEquiv>
+                    <Unicode>wir dise schliess und synisten eeinem undercläre sin ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_31" custom="readingOrder {index:30;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="635,2611 2369,2611 2369,2726 635,2726"/>
+                <Baseline points="637,2669 1322,2666 1999,2679 2369,2677"/>
+                <TextEquiv>
+                    <Unicode>und damitt die warheyt destenbasz an tag kommen, sonder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_32" custom="readingOrder {index:31;} atr {basis:llm-B; conf:0.85;}">
+                <Coords points="619,2702 2328,2702 2328,2804 619,2804"/>
+                <Baseline points="621,2763 1081,2751 1580,2751 1932,2769 2328,2772"/>
+                <TextEquiv>
+                    <Unicode>unnütze und vermitt₎ so wüssend alle der , die diße</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_33" custom="readingOrder {index:32;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="643,2784 2328,2784 2328,2937 643,2937"/>
+                <Baseline points="645,2855 928,2841 1143,2841 1844,2861 2061,2859 2328,2873"/>
+                <TextEquiv>
+                    <Unicode>Meister anfechten welln​d, das wir kein fehlt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>abgelegen wirt. 7. Das die pfaffen mit der mess
+gmeinlich wider gott noch der welt vergend, darumb
+sonder vil me umb den pfang vnd pfunden willigen
+ouch usß get. Ich geschwig, die ubel der pfruͦnd
+damitt
+der cruttworn huser gefreyt sind, nu ist der got ein herr
+abgetragen, es mag ouch hieyn kum, Hampeel uß der
+schrifft bracht werd. 8. Das des wern gottes verguͦder
+wirt so der aposlen und evangelien in frömbden sprach ge¬
+sungen und geloffen werd, daruß die from gemeind gottes
+nott abruͦwen, witer welle ges rechtig wollen oder spruch pruͦe, ist
+Rom. 15. 1. Cor. 14. Woro es wern ouch der antwrtung
+das gott, verkinden und horen des wort gottes mitt fil
+der ceremonien verhinderen und das gemuͦt irs froͤwen
+das des volk under einer gwalr alß gesagend, der
+sacramen empfarrn und das kilch weder die insagger
+Ehren abgeslagen hären. 11. Das das brot und der klobg
+uffgehept und anbetett wirt, alsz werend si wern gott.
+S.
+17. Das Christuͦ gadermuͦssy und danckbarkeit, was wol
+hatt angesezt ✳ damitt wellend sy das glückmeister
+Es
+sind salbenut, hochen, frowen och aid thuͦren, mit al
+kranckheit, des habend sy alles mitt der mess wellen
+aùch in rechten, das habend sölichs und derglichen
+wissentlich, wen kan nitt sechen, des si erschicknleich
+gewert sind vor gott, und doch geden erfallen wern, das
+libens Lux : 16 ſpricht , was hoch ist vor den mont-
+stat, ist ain grüwel vor gott. Also vermanend
+wir dise schliess und synisten eeinem undercläre sin ,
+und damitt die warheyt destenbasz an tag kommen, sonder
+unnütze und vermitt₎ so wüssend alle der , die diße
+Meister anfechten welln​d, das wir kein fehlt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

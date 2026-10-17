@@ -1,8 +1,122 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:26:21.199+01:00</Created>
-        <LastChange>2026-01-27T10:26:21.199+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:52:54.634+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": null, "summary": {"llm": 12}}</Comments>
     </Metadata>
-    <Page imageFilename="p003.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="1409,1225 2032,1225 2032,1352 1409,1352"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="1415,1231 1546,1231 1546,1315 1415,1315"/>
+                <Baseline points="1415,1282 1546,1282"/>
+                <TextEquiv>
+                    <Unicode>haben .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="1632,1247 1768,1247 1768,1336 1632,1336"/>
+                <Baseline points="1636,1286 1768,1294"/>
+                <TextEquiv>
+                    <Unicode>und ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="1825,1264 1850,1264 1850,1315 1825,1315"/>
+                <Baseline points="1827,1292 1850,1294"/>
+                <TextEquiv>
+                    <Unicode>ſind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-B; conf:0.55;}">
+                <Coords points="1916,1264 2026,1264 2026,1346 1916,1346"/>
+                <Baseline points="1916,1299 2026,1299"/>
+                <TextEquiv>
+                    <Unicode>4 hlr .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>haben .
+und ein
+ſind
+4 hlr .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="1011,1443 2007,1443 2007,1851 1011,1851"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:llm-B; conf:0.50;}">
+                <Coords points="1017,1580 1062,1580 1062,1670 1017,1670"/>
+                <Baseline points="1019,1621 1062,1623"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="1104,1744 1147,1744 1147,1835 1104,1835"/>
+                <Baseline points="1121,1777 1139,1783"/>
+                <TextEquiv>
+                    <Unicode>ſind .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;} atr {basis:llm-B; conf:0.50;}">
+                <Coords points="1462,1582 1550,1582 1550,1674 1462,1674"/>
+                <Baseline points="1464,1627 1550,1631"/>
+                <TextEquiv>
+                    <Unicode>3 .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_4" custom="readingOrder {index:3;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="1646,1588 1821,1588 1821,1685 1646,1685"/>
+                <Baseline points="1648,1633 1821,1637"/>
+                <TextEquiv>
+                    <Unicode>pulver .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_5" custom="readingOrder {index:4;} atr {basis:llm-B; conf:0.55;}">
+                <Coords points="1411,1738 1768,1738 1768,1845 1411,1845"/>
+                <Baseline points="1413,1787 1768,1783"/>
+                <TextEquiv>
+                    <Unicode>2 hlr .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_6" custom="readingOrder {index:5;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="1926,1449 2001,1449 2001,1571 1926,1571"/>
+                <Baseline points="1930,1517 2001,1513"/>
+                <TextEquiv>
+                    <Unicode>und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_7" custom="readingOrder {index:6;} atr {basis:llm-B; conf:0.50;}">
+                <Coords points="1904,1600 1961,1600 1961,1685 1904,1685"/>
+                <Baseline points="1906,1639 1961,1637"/>
+                <TextEquiv>
+                    <Unicode>ß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2
+ſind .
+3 .
+pulver .
+2 hlr .
+und
+ß</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="7,2580 60,2580 60,2668 7,2668"/>
+            <TextLine id="r_3_tl_1" custom="readingOrder {index:0;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="13,2586 54,2586 54,2662 13,2662"/>
+                <Baseline points="33,2586 33,2662"/>
+                <TextEquiv>
+                    <Unicode>Hans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hans</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

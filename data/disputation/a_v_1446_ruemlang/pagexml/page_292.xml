@@ -1,8 +1,301 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:27:00.992+01:00</Created>
-        <LastChange>2026-01-27T10:27:00.992+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:53:34.834+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.733, "summary": {"consensus": 1, "fallback": 4, "llm": 30}}</Comments>
     </Metadata>
-    <Page imageFilename="p292.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="11,128 2233,128 2233,2330 11,2330"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:consensus; conf:0.95;}">
+                <Coords points="2108,134 2227,134 2227,220 2108,220"/>
+                <Baseline points="2110,188 2227,186"/>
+                <TextEquiv>
+                    <Unicode>29</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:fallback; conf:0.40;}">
+                <Coords points="27,735 68,735 68,793 27,793"/>
+                <Baseline points="27,762 68,762"/>
+                <TextEquiv>
+                    <Unicode>S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:fallback; conf:0.40;}">
+                <Coords points="17,2029 68,2029 68,2097 17,2097"/>
+                <Baseline points="21,2068 68,2073"/>
+                <TextEquiv>
+                    <Unicode>S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:fallback; conf:0.40;}">
+                <Coords points="25,2229 58,2229 58,2324 25,2324"/>
+                <Baseline points="27,2268 54,2264"/>
+                <TextEquiv>
+                    <Unicode>S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>29
+S.
+S.
+S.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="543,290 2283,290 2283,2943 543,2943"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:llm-C; conf:0.60;}">
+                <Coords points="567,296 2232,296 2232,407 567,407"/>
+                <Baseline points="569,358 1491,362 2232,378"/>
+                <TextEquiv>
+                    <Unicode>wilt suchen nach dem von Jung, Schipand aber den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;} atr {basis:llm-mixed; conf:0.70;}">
+                <Coords points="574,382 2240,382 2240,496 574,496"/>
+                <Baseline points="576,456 1452,436 2240,459"/>
+                <TextEquiv>
+                    <Unicode>natürlichen verstand der Worte, damit sich kein derselb zu tag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="567,483 2213,483 2213,588 567,588"/>
+                <Baseline points="569,553 1374,535 2213,545"/>
+                <TextEquiv>
+                    <Unicode>und thurn sin er belib, hierumb die ar zuͦ reden, wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_4" custom="readingOrder {index:3;} atr {basis:llm-C; conf:0.65;}">
+                <Coords points="576,578 2143,578 2143,684 576,684"/>
+                <Baseline points="578,650 1083,629 1739,631 2143,646"/>
+                <TextEquiv>
+                    <Unicode>herr Benedict pflegen, das im der woy gebisst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_5" custom="readingOrder {index:4;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="576,670 2166,670 2166,768 576,768"/>
+                <Baseline points="578,731 1520,719 2166,733"/>
+                <TextEquiv>
+                    <Unicode>min lieb sig sovil gß in dem brot ist minn erb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_6" custom="readingOrder {index:5;} atr {basis:llm-mixed; conf:0.55;}">
+                <Coords points="549,760 2086,760 2086,853 549,853"/>
+                <Baseline points="551,818 1419,810 2086,820"/>
+                <TextEquiv>
+                    <Unicode>haben wir dergleichen art der sprach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_7" custom="readingOrder {index:6;} atr {basis:llm-C; conf:0.70;}">
+                <Coords points="606,842 2215,842 2215,958 606,958"/>
+                <Baseline points="608,906 1112,898 1687,904 2215,921"/>
+                <TextEquiv>
+                    <Unicode>ussz göttlicher schrifft hatt, so aber noch nit anzaigt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_8" custom="readingOrder {index:7;} atr {basis:llm-C; conf:0.60;}">
+                <Coords points="578,935 2069,935 2069,1044 578,1044"/>
+                <Baseline points="580,995 1341,995 2069,1015"/>
+                <TextEquiv>
+                    <Unicode>und erfunden sich, das gar ain fremder wiss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_9" custom="readingOrder {index:8;} atr {basis:llm-C; conf:0.65;}">
+                <Coords points="592,1024 2172,1024 2172,1150 592,1150"/>
+                <Baseline points="592,1081 1425,1087 1895,1101 2172,1119"/>
+                <TextEquiv>
+                    <Unicode>zuͦ recht ist, so sprechen das ain schwoͤrum, das ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_10" custom="readingOrder {index:9;} atr {basis:llm-C; conf:0.60;}">
+                <Coords points="561,1113 2197,1113 2197,1241 561,1241"/>
+                <Baseline points="563,1167 2197,1200"/>
+                <TextEquiv>
+                    <Unicode>wesser, so man verstan will, darumb ain schwoͤrum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_11" custom="readingOrder {index:10;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="586,1212 2075,1212 2075,1329 586,1329"/>
+                <Baseline points="586,1264 1770,1276 2075,1288"/>
+                <TextEquiv>
+                    <Unicode>sin des wasser. Also ouch so sind es frowen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_12" custom="readingOrder {index:11;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="578,1298 2227,1298 2227,1416 578,1416"/>
+                <Baseline points="580,1358 933,1352 2227,1381"/>
+                <TextEquiv>
+                    <Unicode>wiss zu reden , so man spricht der becher ist riffirm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_13" custom="readingOrder {index:12;} atr {basis:llm-C; conf:0.55;}">
+                <Coords points="571,1385 2230,1385 2230,1496 571,1496"/>
+                <Baseline points="573,1445 1127,1441 2230,1463"/>
+                <TextEquiv>
+                    <Unicode>so erfunden sich ir klerlich, das der botten dißinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_14" custom="readingOrder {index:13;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="569,1469 2170,1469 2170,1582 569,1582"/>
+                <Baseline points="571,1523 1372,1531 2170,1551"/>
+                <TextEquiv>
+                    <Unicode>wesen silber, och usß einer anderen marte ist, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_15" custom="readingOrder {index:14;} atr {basis:llm-C; conf:0.60;}">
+                <Coords points="574,1547 2133,1547 2133,1660 574,1660"/>
+                <Baseline points="576,1604 1396,1608 2133,1633"/>
+                <TextEquiv>
+                    <Unicode>mit win, wiewol er den win helle, aber wo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_16" custom="readingOrder {index:15;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="594,1629 2081,1629 2081,1740 594,1740"/>
+                <Baseline points="596,1682 1269,1687 2081,1713"/>
+                <TextEquiv>
+                    <Unicode>man sölich red brucht, do muͤß man ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_17" custom="readingOrder {index:16;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="567,1703 2186,1703 2186,1831 567,1831"/>
+                <Baseline points="569,1765 1162,1761 2186,1802"/>
+                <TextEquiv>
+                    <Unicode>wyn annämen , von welchem doch herr Benedict</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_18" custom="readingOrder {index:17;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="551,1783 2118,1783 2118,1913 551,1913"/>
+                <Baseline points="553,1845 1117,1841 2118,1878"/>
+                <TextEquiv>
+                    <Unicode>und sein anhang s großen abschüchen wegen , das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_19" custom="readingOrder {index:18;} atr {basis:llm-C; conf:0.55;}">
+                <Coords points="569,1866 2184,1866 2184,2009 569,2009"/>
+                <Baseline points="571,1932 1191,1927 2184,1967"/>
+                <TextEquiv>
+                    <Unicode>exempel oder brucht, das kreff ist, ist für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_20" custom="readingOrder {index:19;} atr {basis:llm-C; conf:0.65;}">
+                <Coords points="582,1962 2162,1962 2162,2077 582,2077"/>
+                <Baseline points="582,2023 1230,2017 1747,2031 2162,2058"/>
+                <TextEquiv>
+                    <Unicode>ist ouch ain unbrüchliche red, man moͤcht wol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_21" custom="readingOrder {index:20;} atr {basis:llm-C; conf:0.55;}">
+                <Coords points="578,2033 2277,2033 2277,2188 578,2188"/>
+                <Baseline points="578,2112 920,2097 1261,2095 1974,2128 2277,2157"/>
+                <TextEquiv>
+                    <Unicode>spruch, das ist ist für, das es ain schlechter beschech</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_22" custom="readingOrder {index:21;} atr {basis:llm-B; conf:0.55;}">
+                <Coords points="569,2120 2178,2120 2178,2254 569,2254"/>
+                <Baseline points="571,2180 1359,2180 2178,2227"/>
+                <TextEquiv>
+                    <Unicode>iminel usserhalb der schrifft , So er aber ein pommen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_23" custom="readingOrder {index:22;} atr {basis:llm-C; conf:0.55;}">
+                <Coords points="576,2202 2145,2202 2145,2334 576,2334"/>
+                <Baseline points="576,2258 1448,2264 1920,2297 2145,2299"/>
+                <TextEquiv>
+                    <Unicode>der stifte und hie ist an der spruch ussz der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_24" custom="readingOrder {index:23;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="571,2295 2170,2295 2170,2400 571,2400"/>
+                <Baseline points="573,2348 1089,2344 1189,2351 1652,2353 1895,2369 2170,2365"/>
+                <TextEquiv>
+                    <Unicode>Ertisel 1. cor. 10. und sagt Paulus S. etc. Das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_25" custom="readingOrder {index:24;} atr {basis:llm-C; conf:0.50;}">
+                <Coords points="559,2373 2242,2373 2242,2479 559,2479"/>
+                <Baseline points="561,2438 879,2424 1472,2424 1819,2444 2242,2452"/>
+                <TextEquiv>
+                    <Unicode>stort des wirt erchen, das ist ain ussteilich, also hatt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_26" custom="readingOrder {index:25;} atr {basis:llm-C; conf:0.45;}">
+                <Coords points="576,2446 2215,2446 2215,2561 576,2561"/>
+                <Baseline points="578,2510 1273,2498 1825,2514 2215,2535"/>
+                <TextEquiv>
+                    <Unicode>es geistten, deß libs chr. darum gen er uff die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_27" custom="readingOrder {index:26;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="565,2533 2155,2533 2155,2644 565,2644"/>
+                <Baseline points="567,2588 1466,2584 2155,2615"/>
+                <TextEquiv>
+                    <Unicode>Wor Pauli ardent, herfür dann si im trost</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_28" custom="readingOrder {index:27;} atr {basis:llm-B; conf:0.55;}">
+                <Coords points="571,2611 2240,2611 2240,2741 571,2741"/>
+                <Baseline points="571,2679 1184,2666 1528,2667 2240,2714"/>
+                <TextEquiv>
+                    <Unicode>stillstand im halten disſ text iſt solicher bot das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_29" custom="readingOrder {index:28;} atr {basis:llm-C; conf:0.50;}">
+                <Coords points="557,2697 2186,2697 2186,2837 557,2837"/>
+                <Baseline points="559,2751 860,2759 1576,2751 2186,2794"/>
+                <TextEquiv>
+                    <Unicode>wer erchannd, ist des nitt le genan schrifft deß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_30" custom="readingOrder {index:29;} atr {basis:llm-A; conf:0.45;}">
+                <Coords points="559,2784 1782,2784 1782,2919 559,2919"/>
+                <Baseline points="561,2841 1392,2835 1782,2853"/>
+                <TextEquiv>
+                    <Unicode>liebs lohren. Da stat nitt ußwillenn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_31" custom="readingOrder {index:30;} atr {basis:fallback; conf:0.40;}">
+                <Coords points="1827,2813 2160,2813 2160,2937 1827,2937"/>
+                <Baseline points="1829,2865 1945,2877 2160,2880"/>
+                <TextEquiv>
+                    <Unicode>26. septembris.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wilt suchen nach dem von Jung, Schipand aber den
+natürlichen verstand der Worte, damit sich kein derselb zu tag
+und thurn sin er belib, hierumb die ar zuͦ reden, wie
+herr Benedict pflegen, das im der woy gebisst
+min lieb sig sovil gß in dem brot ist minn erb.
+haben wir dergleichen art der sprach
+ussz göttlicher schrifft hatt, so aber noch nit anzaigt
+und erfunden sich, das gar ain fremder wiss
+zuͦ recht ist, so sprechen das ain schwoͤrum, das ich
+wesser, so man verstan will, darumb ain schwoͤrum
+sin des wasser. Also ouch so sind es frowen
+wiss zu reden , so man spricht der becher ist riffirm
+so erfunden sich ir klerlich, das der botten dißinen
+wesen silber, och usß einer anderen marte ist, und
+mit win, wiewol er den win helle, aber wo
+man sölich red brucht, do muͤß man ein
+wyn annämen , von welchem doch herr Benedict
+und sein anhang s großen abschüchen wegen , das
+exempel oder brucht, das kreff ist, ist für
+ist ouch ain unbrüchliche red, man moͤcht wol
+spruch, das ist ist für, das es ain schlechter beschech
+iminel usserhalb der schrifft , So er aber ein pommen und
+der stifte und hie ist an der spruch ussz der
+Ertisel 1. cor. 10. und sagt Paulus S. etc. Das
+stort des wirt erchen, das ist ain ussteilich, also hatt
+es geistten, deß libs chr. darum gen er uff die
+Wor Pauli ardent, herfür dann si im trost
+stillstand im halten disſ text iſt solicher bot das
+wer erchannd, ist des nitt le genan schrifft deß
+liebs lohren. Da stat nitt ußwillenn.
+26. septembris.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

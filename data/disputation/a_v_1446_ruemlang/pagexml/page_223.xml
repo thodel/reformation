@@ -1,8 +1,240 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:26:51.463+01:00</Created>
-        <LastChange>2026-01-27T10:26:51.463+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:53:21.594+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.799, "summary": {"llm": 28}}</Comments>
     </Metadata>
-    <Page imageFilename="p223.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="813,275 2349,275 2349,2810 813,2810"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-A; conf:0.85;}">
+                <Coords points="832,281 2293,281 2293,384 832,384"/>
+                <Baseline points="834,339 1932,343 2293,362"/>
+                <TextEquiv>
+                    <Unicode>lesse, der Christ biß zu end des capitels so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="821,378 2324,378 2324,477 821,477"/>
+                <Baseline points="823,442 2324,436"/>
+                <TextEquiv>
+                    <Unicode>wir er klareig guͦg gsechen, das kain christz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="842,473 2330,473 2330,566 842,566"/>
+                <Baseline points="844,537 1244,524 2330,524"/>
+                <TextEquiv>
+                    <Unicode>Söliche gebott varuar den bischmatter redett</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-A; conf:0.90;}">
+                <Coords points="848,551 2293,551 2293,659 848,659"/>
+                <Baseline points="850,627 1597,605 2293,613"/>
+                <TextEquiv>
+                    <Unicode>siner brüdern ufflegen mag, noch vil weniger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_5" custom="readingOrder {index:4;} atr {basis:llm-A; conf:0.85;}">
+                <Coords points="826,634 2302,634 2302,768 826,768"/>
+                <Baseline points="828,729 1792,698 2302,698"/>
+                <TextEquiv>
+                    <Unicode>Die gantz christenlich gemein sey ist an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_6" custom="readingOrder {index:5;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="821,737 2322,737 2322,869 821,869"/>
+                <Baseline points="823,834 1760,797 2322,805"/>
+                <TextEquiv>
+                    <Unicode>gespons Christi und kan nitt weder das häll</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_7" custom="readingOrder {index:6;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="828,840 2293,840 2293,954 828,954"/>
+                <Baseline points="830,929 1364,898 2293,900"/>
+                <TextEquiv>
+                    <Unicode>wort gottes tuͦn, das er aber were in Jogen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_8" custom="readingOrder {index:7;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="840,927 2339,927 2339,1055 840,1055"/>
+                <Baseline points="842,1018 1774,995 2193,997 2281,1003 2339,1020"/>
+                <TextEquiv>
+                    <Unicode>hatt, wan üch hör, der hort nach ouch lut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_9" custom="readingOrder {index:8;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="830,1032 2343,1032 2343,1138 830,1138"/>
+                <Baseline points="832,1113 1361,1087 2343,1092"/>
+                <TextEquiv>
+                    <Unicode>gebend wir gern zuͦ vor da prediett, das den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_10" custom="readingOrder {index:9;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="819,1115 2283,1115 2283,1241 819,1241"/>
+                <Baseline points="821,1216 1064,1196 1446,1183 2283,1181"/>
+                <TextEquiv>
+                    <Unicode>apostolam deß den bevelhen werd. Namach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_11" custom="readingOrder {index:10;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="842,1204 2335,1204 2335,1329 842,1329"/>
+                <Baseline points="844,1298 1423,1272 2335,1268"/>
+                <TextEquiv>
+                    <Unicode>das heilig evangelium, das man Thoman hörtz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_12" custom="readingOrder {index:11;} atr {basis:llm-C; conf:0.85;}">
+                <Coords points="832,1305 2273,1305 2273,1416 832,1416"/>
+                <Baseline points="834,1383 1616,1362 2273,1356"/>
+                <TextEquiv>
+                    <Unicode>so man soͤlichen hoͤret, wer wil aber sagen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_13" custom="readingOrder {index:12;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="840,1403 2281,1403 2281,1504 840,1504"/>
+                <Baseline points="842,1476 1479,1459 2281,1461"/>
+                <TextEquiv>
+                    <Unicode>das man thain höre, so man lernen der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_14" custom="readingOrder {index:13;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="842,1498 2281,1498 2281,1600 842,1600"/>
+                <Baseline points="844,1569 1605,1551 2281,1567"/>
+                <TextEquiv>
+                    <Unicode>taefflen anmeist alsz daselbs verbott der spen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_15" custom="readingOrder {index:14;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="826,1582 2310,1582 2310,1684 826,1684"/>
+                <Baseline points="826,1649 1477,1629 2310,1654"/>
+                <TextEquiv>
+                    <Unicode>den er, sunderung der tag etc. Hanns Burer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_16" custom="readingOrder {index:15;} atr {basis:llm-B; conf:0.85;}">
+                <Coords points="834,1678 2281,1678 2281,1773 834,1773"/>
+                <Baseline points="836,1742 1505,1726 2281,1742"/>
+                <TextEquiv>
+                    <Unicode>damitt die gwüssen söllend verbunden werden .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_17" custom="readingOrder {index:16;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="825,1761 2275,1761 2275,1880 825,1880"/>
+                <Baseline points="825,1833 1468,1824 2275,1841"/>
+                <TextEquiv>
+                    <Unicode>also dises offenbar, so Christus beth der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_18" custom="readingOrder {index:17;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="842,1866 2300,1866 2300,1980 842,1980"/>
+                <Baseline points="844,1936 1021,1929 2300,1925"/>
+                <TextEquiv>
+                    <Unicode>schrifft gelerten uff dem stul meister,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_19" custom="readingOrder {index:18;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="832,1958 2300,1958 2300,2060 832,2060"/>
+                <Baseline points="834,2025 1624,2015 2300,2019"/>
+                <TextEquiv>
+                    <Unicode>thöran, das er mitt gemain hatt, das by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_20" custom="readingOrder {index:19;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="848,2046 2221,2046 2221,2147 848,2147"/>
+                <Baseline points="850,2105 1436,2099 2221,2106"/>
+                <TextEquiv>
+                    <Unicode>alles annämen söltind, das si glatt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_21" custom="readingOrder {index:20;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="867,2122 2170,2122 2170,2223 867,2223"/>
+                <Baseline points="869,2188 1475,2175 2170,2186"/>
+                <TextEquiv>
+                    <Unicode>Er hette sy buͤst vor iren her Marti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_22" custom="readingOrder {index:21;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="848,2208 2335,2208 2335,2313 848,2313"/>
+                <Baseline points="850,2264 1593,2258 2335,2278"/>
+                <TextEquiv>
+                    <Unicode>nitt gewarnett ✳ sunder hatt von dem gerett</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_23" custom="readingOrder {index:22;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="842,2299 2275,2299 2275,2410 842,2410"/>
+                <Baseline points="844,2359 1442,2350 2275,2359"/>
+                <TextEquiv>
+                    <Unicode>das sy uß dem gan myl laretten, das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_24" custom="readingOrder {index:23;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="846,2388 2281,2388 2281,2489 846,2489"/>
+                <Baseline points="848,2452 1601,2442 2281,2457"/>
+                <TextEquiv>
+                    <Unicode>werend sölichs beredten, das sant Peter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_25" custom="readingOrder {index:24;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="832,2483 2283,2483 2283,2590 832,2590"/>
+                <Baseline points="832,2547 1520,2533 2283,2551"/>
+                <TextEquiv>
+                    <Unicode>selbs sagt, ✳ wider si noch ir vetter gott</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_26" custom="readingOrder {index:25;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="852,2555 1862,2555 1862,2673 852,2673"/>
+                <Baseline points="854,2632 1320,2621 1862,2634"/>
+                <TextEquiv>
+                    <Unicode>de magno mogetur. Actum 15.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_27" custom="readingOrder {index:26;} atr {basis:llm-A; conf:0.90;}">
+                <Coords points="1903,2580 2285,2580 2285,2681 1903,2681"/>
+                <Baseline points="1904,2636 2285,2640"/>
+                <TextEquiv>
+                    <Unicode>zuͦ letst.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_28" custom="readingOrder {index:27;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="826,2673 2232,2673 2232,2804 826,2804"/>
+                <Baseline points="826,2726 1595,2726 2232,2737"/>
+                <TextEquiv>
+                    <Unicode>das der beherren bekhmatter zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lesse, der Christ biß zu end des capitels so
+wir er klareig guͦg gsechen, das kain christz
+Söliche gebott varuar den bischmatter redett
+siner brüdern ufflegen mag, noch vil weniger
+Die gantz christenlich gemein sey ist an
+gespons Christi und kan nitt weder das häll
+wort gottes tuͦn, das er aber were in Jogen.
+hatt, wan üch hör, der hort nach ouch lut
+gebend wir gern zuͦ vor da prediett, das den
+apostolam deß den bevelhen werd. Namach
+das heilig evangelium, das man Thoman hörtz
+so man soͤlichen hoͤret, wer wil aber sagen,
+das man thain höre, so man lernen der
+taefflen anmeist alsz daselbs verbott der spen¬
+den er, sunderung der tag etc. Hanns Burer
+damitt die gwüssen söllend verbunden werden .
+also dises offenbar, so Christus beth der
+schrifft gelerten uff dem stul meister,
+thöran, das er mitt gemain hatt, das by
+alles annämen söltind, das si glatt
+Er hette sy buͤst vor iren her Marti
+nitt gewarnett ✳ sunder hatt von dem gerett
+das sy uß dem gan myl laretten, das
+werend sölichs beredten, das sant Peter
+selbs sagt, ✳ wider si noch ir vetter gott
+de magno mogetur. Actum 15.
+zuͦ letst.
+das der beherren bekhmatter zum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

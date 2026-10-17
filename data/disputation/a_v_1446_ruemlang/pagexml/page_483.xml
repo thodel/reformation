@@ -1,8 +1,264 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:27:27.123+01:00</Created>
-        <LastChange>2026-01-27T10:27:27.123+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:54:14.846+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.855, "summary": {"llm": 31}}</Comments>
     </Metadata>
-    <Page imageFilename="p483.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="568,167 2384,167 2384,2945 568,2945"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-A; conf:0.90;}">
+                <Coords points="926,173 2195,173 2195,290 926,290"/>
+                <Baseline points="928,263 1217,247 1620,242 2195,251"/>
+                <TextEquiv>
+                    <Unicode>Paulus Beck, predicant zuͦ Gisslingen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-mixed; conf:0.75;}">
+                <Coords points="574,294 2341,294 2341,432 574,432"/>
+                <Baseline points="576,395 924,376 1891,358 2341,366"/>
+                <TextEquiv>
+                    <Unicode>Hochgelert, wyß fürsichtig herrn unnd fromen Christen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-mixed; conf:0.80;}">
+                <Coords points="795,387 2335,387 2335,496 795,496"/>
+                <Baseline points="797,459 1642,442 1981,442 2335,456"/>
+                <TextEquiv>
+                    <Unicode>min meinung ist nitt wider diß schlußreden zuͦsatzten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="776,481 2355,481 2355,576 776,576"/>
+                <Baseline points="778,537 1928,529 2170,535 2355,553"/>
+                <TextEquiv>
+                    <Unicode>dann ich sy selbs der merrie geordnet hab ✳ bis wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_5" custom="readingOrder {index:4;} atr {basis:llm-A; conf:0.85;}">
+                <Coords points="793,559 2349,559 2349,646 793,646"/>
+                <Baseline points="793,617 2083,613 2349,627"/>
+                <TextEquiv>
+                    <Unicode>von einem ersamen, wysen rhat der statt Ulm, ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_6" custom="readingOrder {index:5;} atr {basis:llm-C; conf:0.90;}">
+                <Coords points="803,636 2361,636 2361,744 803,744"/>
+                <Baseline points="805,702 1745,694 2197,702 2361,715"/>
+                <TextEquiv>
+                    <Unicode>ordnet unnd gesetzt in die statt Gisslingen, der herr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_7" custom="readingOrder {index:6;} atr {basis:llm-C; conf:0.85;}">
+                <Coords points="801,723 2378,723 2378,824 801,824"/>
+                <Baseline points="803,791 1011,781 1817,772 2071,779 2378,808"/>
+                <TextEquiv>
+                    <Unicode>schafft und mit ernstlich von inen bevolhen, daselbs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_8" custom="readingOrder {index:7;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="784,797 2370,797 2370,917 784,917"/>
+                <Baseline points="786,880 1922,857 2370,882"/>
+                <TextEquiv>
+                    <Unicode>das heilig göttlich wort. Unnach unvermischt mitt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_9" custom="readingOrder {index:8;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="791,886 2357,886 2357,1001 791,1001"/>
+                <Baseline points="793,966 1585,939 1904,939 2357,958"/>
+                <TextEquiv>
+                    <Unicode>menschlicher ler) rein und luter dem volk fursechen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_10" custom="readingOrder {index:9;} atr {basis:llm-A; conf:0.85;}">
+                <Coords points="793,966 2355,966 2355,1085 793,1085"/>
+                <Baseline points="795,1050 1481,1018 1743,1018 2355,1044"/>
+                <TextEquiv>
+                    <Unicode>tragen unnd zu verkünden, solichs hab ich nach minem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_11" custom="readingOrder {index:10;} atr {basis:llm-C; conf:0.75;}">
+                <Coords points="791,1052 2312,1052 2312,1163 791,1163"/>
+                <Baseline points="791,1136 970,1136 1440,1107 2312,1115"/>
+                <TextEquiv>
+                    <Unicode>vermogen mitt ganzem hochstem flis getan, und ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_12" custom="readingOrder {index:11;} atr {basis:llm-mixed; conf:0.70;}">
+                <Coords points="788,1138 2328,1138 2328,1261 788,1261"/>
+                <Baseline points="790,1233 1238,1200 1505,1194 1807,1194 2328,1216"/>
+                <TextEquiv>
+                    <Unicode>aber ein pfarrer in der gemeldten statt Gißlingen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_13" custom="readingOrder {index:12;} atr {basis:llm-B; conf:0.85;}">
+                <Coords points="790,1226 2328,1226 2328,1336 790,1336"/>
+                <Baseline points="791,1319 1072,1298 1411,1290 2328,1290"/>
+                <TextEquiv>
+                    <Unicode>mitt namen doctor Jörg Oswald , der zum dickern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_14" custom="readingOrder {index:13;} atr {basis:llm-mixed; conf:0.75;}">
+                <Coords points="795,1317 2302,1317 2302,1418 795,1418"/>
+                <Baseline points="797,1385 1298,1375 2302,1381"/>
+                <TextEquiv>
+                    <Unicode>mal, mich den geringsten mitt andern frommen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_15" custom="readingOrder {index:14;} atr {basis:llm-C; conf:0.60;}">
+                <Coords points="791,1406 2287,1406 2287,1515 791,1515"/>
+                <Baseline points="793,1471 2287,1461"/>
+                <TextEquiv>
+                    <Unicode>christenlichen predicanten, thmeichen, keyseren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_16" custom="readingOrder {index:15;} atr {basis:llm-C; conf:0.70;}">
+                <Coords points="784,1502 2302,1502 2302,1596 784,1596"/>
+                <Baseline points="784,1559 2302,1563"/>
+                <TextEquiv>
+                    <Unicode>unfruchtig berer vor dem ainmaͤltigen volck uss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_17" custom="readingOrder {index:16;} atr {basis:llm-C; conf:0.85;}">
+                <Coords points="782,1582 2314,1582 2314,1687 782,1687"/>
+                <Baseline points="784,1641 1398,1633 2314,1647"/>
+                <TextEquiv>
+                    <Unicode>ruffen und mitt vil anderer lesterung, angriffen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_18" custom="readingOrder {index:17;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="764,1658 2324,1658 2324,1779 764,1779"/>
+                <Baseline points="766,1732 1314,1717 2324,1748"/>
+                <TextEquiv>
+                    <Unicode>Durch dise x. artikel zum offermal amassett</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_19" custom="readingOrder {index:18;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="776,1748 2332,1748 2332,1876 776,1876"/>
+                <Baseline points="778,1818 1077,1806 1388,1806 2332,1843"/>
+                <TextEquiv>
+                    <Unicode>hatt. Darzuͦ sich zum dickern mal offenlich erbotten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_20" custom="readingOrder {index:19;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="753,1839 2332,1839 2332,1950 753,1950"/>
+                <Baseline points="754,1892 1731,1895 2287,1919 2332,1930"/>
+                <TextEquiv>
+                    <Unicode>vor den hochenschulen unnd allen gelert₎ siner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_21" custom="readingOrder {index:20;} atr {basis:llm-A; conf:0.90;}">
+                <Coords points="776,1921 2213,1921 2213,2042 776,2042"/>
+                <Baseline points="778,1978 1716,1984 2213,2007"/>
+                <TextEquiv>
+                    <Unicode>rechnung zegeben, in eigner person oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_22" custom="readingOrder {index:21;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="774,2009 2316,2009 2316,2126 774,2126"/>
+                <Baseline points="776,2075 1343,2066 2316,2091"/>
+                <TextEquiv>
+                    <Unicode>schrifftlich, wol mir erzund, ein verstaubung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_23" custom="readingOrder {index:22;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="758,2091 2275,2091 2275,2206 758,2206"/>
+                <Baseline points="760,2151 1378,2147 2275,2175"/>
+                <TextEquiv>
+                    <Unicode>traͤffenlich viler geleiten meiner. Hiezuͦ esamlett ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_24" custom="readingOrder {index:23;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="753,2176 2248,2176 2248,2285 753,2285"/>
+                <Baseline points="754,2235 1166,2229 1731,2241 1879,2252 2248,2252"/>
+                <TextEquiv>
+                    <Unicode>das ich uff sölich sin dochterbieten schrifftlich uff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_25" custom="readingOrder {index:24;} atr {basis:llm-C; conf:0.70;}">
+                <Coords points="753,2260 2227,2260 2227,2369 753,2369"/>
+                <Baseline points="754,2315 1232,2307 1503,2328 2227,2340"/>
+                <TextEquiv>
+                    <Unicode>das aller hoͤchste erordern, das er sich behaͤr uff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_26" custom="readingOrder {index:25;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="751,2336 2302,2336 2302,2479 751,2479"/>
+                <Baseline points="753,2396 1240,2392 2302,2434"/>
+                <TextEquiv>
+                    <Unicode>disen frienplaz verfüge , welches weil ich im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_27" custom="readingOrder {index:26;} atr {basis:llm-C; conf:0.90;}">
+                <Coords points="760,2422 2279,2422 2279,2551 760,2551"/>
+                <Baseline points="762,2471 1400,2479 1895,2510 2279,2518"/>
+                <TextEquiv>
+                    <Unicode>vor den geleerten und vor diser christenlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_28" custom="readingOrder {index:27;} atr {basis:llm-C; conf:0.70;}">
+                <Coords points="764,2496 2302,2496 2302,2636 764,2636"/>
+                <Baseline points="764,2553 1368,2557 2067,2599 2302,2599"/>
+                <TextEquiv>
+                    <Unicode>gemuͦnd rechung und antwurt, miner ler gebn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_29" custom="readingOrder {index:28;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="745,2582 2308,2582 2308,2714 745,2714"/>
+                <Baseline points="747,2631 1378,2638 2036,2675 2308,2679"/>
+                <TextEquiv>
+                    <Unicode>harruͤderumb inn ouch siner irumb mitt holtzer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_30" custom="readingOrder {index:29;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="768,2654 2281,2654 2281,2784 768,2784"/>
+                <Baseline points="768,2716 1064,2712 1431,2720 1768,2741 2281,2747"/>
+                <TextEquiv>
+                    <Unicode>geschrifft, wisen und leeren bin gemylich, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_31" custom="readingOrder {index:30;} atr {basis:llm-A; conf:0.85;}">
+                <Coords points="751,2749 2347,2749 2347,2939 751,2939"/>
+                <Baseline points="753,2809 1246,2796 1677,2806 1912,2821 2347,2825"/>
+                <TextEquiv>
+                    <Unicode>hoffnung gewesen, er wurde sinem herren erbieten nach.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Paulus Beck, predicant zuͦ Gisslingen,
+Hochgelert, wyß fürsichtig herrn unnd fromen Christen
+min meinung ist nitt wider diß schlußreden zuͦsatzten
+dann ich sy selbs der merrie geordnet hab ✳ bis wir
+von einem ersamen, wysen rhat der statt Ulm, ver¬
+ordnet unnd gesetzt in die statt Gisslingen, der herr
+schafft und mit ernstlich von inen bevolhen, daselbs
+das heilig göttlich wort. Unnach unvermischt mitt
+menschlicher ler) rein und luter dem volk fursechen
+tragen unnd zu verkünden, solichs hab ich nach minem
+vermogen mitt ganzem hochstem flis getan, und ist
+aber ein pfarrer in der gemeldten statt Gißlingen
+mitt namen doctor Jörg Oswald , der zum dickern
+mal, mich den geringsten mitt andern frommen
+christenlichen predicanten, thmeichen, keyseren
+unfruchtig berer vor dem ainmaͤltigen volck uss
+ruffen und mitt vil anderer lesterung, angriffen,
+Durch dise x. artikel zum offermal amassett
+hatt. Darzuͦ sich zum dickern mal offenlich erbotten
+vor den hochenschulen unnd allen gelert₎ siner
+rechnung zegeben, in eigner person oder
+schrifftlich, wol mir erzund, ein verstaubung.
+traͤffenlich viler geleiten meiner. Hiezuͦ esamlett ist
+das ich uff sölich sin dochterbieten schrifftlich uff
+das aller hoͤchste erordern, das er sich behaͤr uff
+disen frienplaz verfüge , welches weil ich im
+vor den geleerten und vor diser christenlichen
+gemuͦnd rechung und antwurt, miner ler gebn
+harruͤderumb inn ouch siner irumb mitt holtzer
+geschrifft, wisen und leeren bin gemylich, der
+hoffnung gewesen, er wurde sinem herren erbieten nach.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

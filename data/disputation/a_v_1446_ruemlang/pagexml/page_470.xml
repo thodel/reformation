@@ -1,8 +1,133 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:27:25.312+01:00</Created>
-        <LastChange>2026-01-27T10:27:25.312+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:54:12.634+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": null, "summary": {"llm": 14}}</Comments>
     </Metadata>
-    <Page imageFilename="p470.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="27,172 2289,172 2289,2976 27,2976"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="706,178 2153,178 2153,286 706,286"/>
+                <Baseline points="708,242 2153,263"/>
+                <TextEquiv>
+                    <Unicode>machen, orten, als die tag, das er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="2215,1266 2273,1266 2273,1298 2215,1298"/>
+                <Baseline points="2244,1294 2248,1274"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="2219,2369 2283,2369 2283,2415 2219,2415"/>
+                <Baseline points="2250,2415 2250,2369"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="33,2886 60,2886 60,2970 33,2970"/>
+                <Baseline points="38,2937 58,2935"/>
+                <TextEquiv>
+                    <Unicode>des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>machen, orten, als die tag, das er
+3
+2
+des</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="13,836 114,836 114,2668 13,2668"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:llm-B; conf:0.40;}">
+                <Coords points="46,842 85,842 85,927 46,927"/>
+                <Baseline points="54,888 77,894"/>
+                <TextEquiv>
+                    <Unicode>tinus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="27,1107 93,1107 93,1200 27,1200"/>
+                <Baseline points="31,1165 91,1171"/>
+                <TextEquiv>
+                    <Unicode>dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;} atr {basis:llm-B; conf:0.65;}">
+                <Coords points="19,1212 108,1212 108,1296 19,1296"/>
+                <Baseline points="23,1253 107,1261"/>
+                <TextEquiv>
+                    <Unicode>könne .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_4" custom="readingOrder {index:3;} atr {basis:llm-B; conf:0.35;}">
+                <Coords points="27,1559 99,1559 99,1654 27,1654"/>
+                <Baseline points="31,1625 95,1631"/>
+                <TextEquiv>
+                    <Unicode>eind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_5" custom="readingOrder {index:4;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="35,1670 99,1670 99,1757 35,1757"/>
+                <Baseline points="38,1726 99,1722"/>
+                <TextEquiv>
+                    <Unicode>Iesu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_6" custom="readingOrder {index:5;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="48,1744 95,1744 95,1827 48,1827"/>
+                <Baseline points="48,1796 95,1796"/>
+                <TextEquiv>
+                    <Unicode>und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_7" custom="readingOrder {index:6;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="33,2283 64,2283 64,2355 33,2355"/>
+                <Baseline points="40,2326 62,2322"/>
+                <TextEquiv>
+                    <Unicode>das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_8" custom="readingOrder {index:7;} atr {basis:llm-B; conf:0.60;}">
+                <Coords points="27,2340 83,2340 83,2410 27,2410"/>
+                <Baseline points="29,2371 83,2375"/>
+                <TextEquiv>
+                    <Unicode>erben .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_9" custom="readingOrder {index:8;} atr {basis:llm-B; conf:0.30;}">
+                <Coords points="23,2400 95,2400 95,2473 23,2473"/>
+                <Baseline points="27,2446 95,2442"/>
+                <TextEquiv>
+                    <Unicode>el es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_10" custom="readingOrder {index:9;} atr {basis:llm-A; conf:0.40;}">
+                <Coords points="21,2588 101,2588 101,2662 21,2662"/>
+                <Baseline points="21,2617 101,2617"/>
+                <TextEquiv>
+                    <Unicode>S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tinus
+dann
+könne .
+eind
+Iesu
+und
+das
+erben .
+el es
+S.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

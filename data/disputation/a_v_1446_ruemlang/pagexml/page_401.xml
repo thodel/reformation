@@ -1,8 +1,261 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:27:16.002+01:00</Created>
-        <LastChange>2026-01-27T10:27:16.002+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:54:00.236+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.812, "summary": {"llm": 30}}</Comments>
     </Metadata>
-    <Page imageFilename="p401.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="366,232 2277,232 2277,704 366,704"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-mixed; conf:0.75;}">
+                <Coords points="916,238 2244,238 2244,413 916,413"/>
+                <Baseline points="918,374 2244,360"/>
+                <TextEquiv>
+                    <Unicode>Dienolget, wie wider den fünfften</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="974,382 2271,382 2271,529 974,529"/>
+                <Baseline points="976,481 1072,485 1382,467 2271,448"/>
+                <TextEquiv>
+                    <Unicode>artickel und schlößend gehandlett ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-mixed; conf:0.60;}">
+                <Coords points="372,545 2153,545 2153,698 372,698"/>
+                <Baseline points="374,644 553,652 1564,619 2153,621"/>
+                <TextEquiv>
+                    <Unicode>Bachytt, die fünfften schloßred und laß dann der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dienolget, wie wider den fünfften
+artickel und schlößend gehandlett ist.
+Bachytt, die fünfften schloßred und laß dann der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="230,644 2384,644 2384,2941 230,2941"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:llm-mixed; conf:0.85;}">
+                <Coords points="799,650 1093,650 1093,762 799,762"/>
+                <Baseline points="803,721 1093,707"/>
+                <TextEquiv>
+                    <Unicode>Schlußred</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;} atr {basis:llm-mixed; conf:0.78;}">
+                <Coords points="236,690 2349,690 2349,882 236,882"/>
+                <Baseline points="240,826 879,816 1993,758 2349,758"/>
+                <TextEquiv>
+                    <Unicode>Conradus von Rotenacher predicant zu Ulm, fromen christlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;} atr {basis:llm-mixed; conf:0.60;}">
+                <Coords points="797,787 2283,787 2283,917 797,917"/>
+                <Baseline points="797,888 1011,888 1396,863 1967,843 2283,840"/>
+                <TextEquiv>
+                    <Unicode>lieben herren und brüder, ich bin nit der weidiger her.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_4" custom="readingOrder {index:3;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="790,867 2275,867 2275,1005 790,1005"/>
+                <Baseline points="793,968 1195,964 1768,929 2275,915"/>
+                <TextEquiv>
+                    <Unicode>das ich die schloßraden wederschicken, welle sonder folc ergeben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_5" custom="readingOrder {index:4;} atr {basis:llm-C; conf:0.78;}">
+                <Coords points="782,948 2369,948 2369,1087 782,1087"/>
+                <Baseline points="784,1048 1221,1044 1398,1028 1844,1017 1991,997 2369,991"/>
+                <TextEquiv>
+                    <Unicode>für christenlich und inn gotteschafft, so wol gegründet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_6" custom="readingOrder {index:5;} atr {basis:llm-mixed; conf:0.85;}">
+                <Coords points="758,1018 2376,1018 2376,1181 758,1181"/>
+                <Baseline points="762,1146 1537,1113 2005,1075 2376,1071"/>
+                <TextEquiv>
+                    <Unicode>das weder Tůffel noch menschen etwas darwider vermögend, darzu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_7" custom="readingOrder {index:6;} atr {basis:llm-mixed; conf:0.80;}">
+                <Coords points="774,1105 2273,1105 2273,1259 774,1259"/>
+                <Baseline points="778,1222 1710,1185 1922,1159 2273,1154"/>
+                <TextEquiv>
+                    <Unicode>hab ich die selbige einer christlichen gemeind zu Ulm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_8" custom="readingOrder {index:7;} atr {basis:llm-mixed; conf:0.75;}">
+                <Coords points="778,1196 2378,1196 2378,1338 778,1338"/>
+                <Baseline points="780,1299 2028,1261 2378,1270"/>
+                <TextEquiv>
+                    <Unicode>geprediget und in sonderheit die vierte Schlußred innehalt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_9" custom="readingOrder {index:8;} atr {basis:llm-mixed; conf:0.70;}">
+                <Coords points="766,1290 2312,1290 2312,1414 766,1414"/>
+                <Baseline points="768,1383 1497,1362 1737,1346 2069,1342 2312,1350"/>
+                <TextEquiv>
+                    <Unicode>vom Nachtmal des Herren gelert, nämlich das der leb und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_10" custom="readingOrder {index:9;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="766,1366 2374,1366 2374,1492 766,1492"/>
+                <Baseline points="768,1463 1842,1420 2374,1426"/>
+                <TextEquiv>
+                    <Unicode>des bluͦt Christi sin blet und win nitt wesenlich empfangen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_11" custom="readingOrder {index:10;} atr {basis:llm-mixed; conf:0.75;}">
+                <Coords points="756,1438 2326,1438 2326,1571 756,1571"/>
+                <Baseline points="758,1536 902,1540 1089,1525 1866,1500 2326,1496"/>
+                <TextEquiv>
+                    <Unicode>werde, uff sölich min leer hat mich. A. Hans Eck zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_12" custom="readingOrder {index:11;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="784,1525 2297,1525 2297,1647 784,1647"/>
+                <Baseline points="786,1619 1803,1580 2297,1582"/>
+                <TextEquiv>
+                    <Unicode>Ingolstat, der wirt beruͤmbt, aller den tag, das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_13" custom="readingOrder {index:12;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="776,1598 2297,1598 2297,1734 776,1734"/>
+                <Baseline points="778,1701 1692,1656 2297,1650"/>
+                <TextEquiv>
+                    <Unicode>ewangelium thü, mölich verkhünden, uff schmächlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_14" custom="readingOrder {index:13;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="776,1664 2351,1664 2351,1814 776,1814"/>
+                <Baseline points="778,1787 1722,1734 2351,1726"/>
+                <TextEquiv>
+                    <Unicode>annastett, unnd ein lasterbüchli wider mich in trinkhosen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_15" custom="readingOrder {index:14;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="770,1757 2361,1757 2361,1895 770,1895"/>
+                <Baseline points="772,1860 1440,1829 2361,1808"/>
+                <TextEquiv>
+                    <Unicode>ussgan. Darumb er mich diser herhalb ein geystlicher und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_16" custom="readingOrder {index:15;} atr {basis:llm-mixed; conf:0.70;}">
+                <Coords points="766,1845 2353,1845 2353,1980 766,1980"/>
+                <Baseline points="768,1946 1560,1903 2353,1892"/>
+                <TextEquiv>
+                    <Unicode>Kaiser stelt, ja er überschütt mich vor aller welt, mitt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_17" custom="readingOrder {index:16;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="778,1929 2283,1929 2283,2050 778,2050"/>
+                <Baseline points="780,2015 1211,2009 1640,1984 2283,1978"/>
+                <TextEquiv>
+                    <Unicode>sovil mentschafftiger schmachworten, das ich acht, sin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_18" custom="readingOrder {index:17;} atr {basis:llm-C; conf:0.75;}">
+                <Coords points="772,2007 2318,2007 2318,2151 772,2151"/>
+                <Baseline points="774,2106 1648,2071 2318,2062"/>
+                <TextEquiv>
+                    <Unicode>schriben, hette uff zwistbottli mögen begriffen werden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_19" custom="readingOrder {index:18;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="745,2097 2355,2097 2355,2221 745,2221"/>
+                <Baseline points="747,2180 1083,2180 2001,2151 2355,2151"/>
+                <TextEquiv>
+                    <Unicode>wo in der letsten wort harussen gelassen hette,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_20" custom="readingOrder {index:19;} atr {basis:llm-C; conf:0.78;}">
+                <Coords points="760,2178 2297,2178 2297,2311 760,2311"/>
+                <Baseline points="764,2272 1401,2241 1846,2245 2297,2231"/>
+                <TextEquiv>
+                    <Unicode>haben ich im zuͦgeschriben, inn uff des höchst und dy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_21" custom="readingOrder {index:20;} atr {basis:llm-C; conf:0.80;}">
+                <Coords points="784,2270 2337,2270 2337,2381 784,2381"/>
+                <Baseline points="786,2338 1530,2322 2337,2322"/>
+                <TextEquiv>
+                    <Unicode>christenlicher pflichten erwider hab, das er sich hieher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_22" custom="readingOrder {index:21;} atr {basis:llm-A; conf:0.68;}">
+                <Coords points="762,2344 2320,2344 2320,2473 762,2473"/>
+                <Baseline points="764,2421 976,2424 2320,2390"/>
+                <TextEquiv>
+                    <Unicode>verfüge, so welle ich inn minen herren rechnung unnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_23" custom="readingOrder {index:22;} atr {basis:llm-mixed; conf:0.70;}">
+                <Coords points="772,2430 2281,2430 2281,2551 772,2551"/>
+                <Baseline points="774,2514 1353,2494 2281,2481"/>
+                <TextEquiv>
+                    <Unicode>antwurt geben, auch der hoffnung gewesen er würde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_24" custom="readingOrder {index:23;} atr {basis:llm-C; conf:0.75;}">
+                <Coords points="772,2512 2281,2512 2281,2640 772,2640"/>
+                <Baseline points="774,2596 2281,2564"/>
+                <TextEquiv>
+                    <Unicode>erschinen, so doch der brey sicher und gemain ist und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_25" custom="readingOrder {index:24;} atr {basis:llm-C; conf:0.80;}">
+                <Coords points="762,2599 2304,2599 2304,2722 762,2722"/>
+                <Baseline points="764,2675 1485,2669 2304,2648"/>
+                <TextEquiv>
+                    <Unicode>kein biderman anderst sagen kan, dann das der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_26" custom="readingOrder {index:25;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="756,2691 2347,2691 2347,2804 756,2804"/>
+                <Baseline points="758,2757 2347,2747"/>
+                <TextEquiv>
+                    <Unicode>disputation (laut üwer g herrn von Bern usschriben)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_27" custom="readingOrder {index:26;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="768,2784 2277,2784 2277,2935 768,2935"/>
+                <Baseline points="770,2844 990,2831 2277,2837"/>
+                <TextEquiv>
+                    <Unicode>gantz unparthisch ghalten were. Aber mer ist sin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schlußred
+Conradus von Rotenacher predicant zu Ulm, fromen christlichen
+lieben herren und brüder, ich bin nit der weidiger her.
+das ich die schloßraden wederschicken, welle sonder folc ergeben.
+für christenlich und inn gotteschafft, so wol gegründet,
+das weder Tůffel noch menschen etwas darwider vermögend, darzu
+hab ich die selbige einer christlichen gemeind zu Ulm
+geprediget und in sonderheit die vierte Schlußred innehalt
+vom Nachtmal des Herren gelert, nämlich das der leb und
+des bluͦt Christi sin blet und win nitt wesenlich empfangen
+werde, uff sölich min leer hat mich. A. Hans Eck zu
+Ingolstat, der wirt beruͤmbt, aller den tag, das
+ewangelium thü, mölich verkhünden, uff schmächlichen
+annastett, unnd ein lasterbüchli wider mich in trinkhosen
+ussgan. Darumb er mich diser herhalb ein geystlicher und
+Kaiser stelt, ja er überschütt mich vor aller welt, mitt
+sovil mentschafftiger schmachworten, das ich acht, sin
+schriben, hette uff zwistbottli mögen begriffen werden,
+wo in der letsten wort harussen gelassen hette,
+haben ich im zuͦgeschriben, inn uff des höchst und dy
+christenlicher pflichten erwider hab, das er sich hieher
+verfüge, so welle ich inn minen herren rechnung unnd
+antwurt geben, auch der hoffnung gewesen er würde
+erschinen, so doch der brey sicher und gemain ist und
+kein biderman anderst sagen kan, dann das der
+disputation (laut üwer g herrn von Bern usschriben)
+gantz unparthisch ghalten were. Aber mer ist sin</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

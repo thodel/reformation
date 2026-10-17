@@ -1,8 +1,280 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:26:53.917+01:00</Created>
-        <LastChange>2026-01-27T10:26:53.917+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-16T10:52:53Z</Created>
+        <LastChange>2026-10-16T12:53:24.274+02:00</LastChange>
+        <Comments>{"arbiter": "gpt-oss-120b", "geometry_from": "A", "models": {"A": "qwen3vl-medieval-german-v3", "B": "trocr-kurrent-xvi-xvii", "C": "qwen3.5-4b-german-kurrent-xvi-xix-page-v1"}, "models_present": ["A", "B", "C"], "pipeline": "agentic_historian ruemlang", "print_passage_score": 0.639, "summary": {"llm": 33}}</Comments>
     </Metadata>
-    <Page imageFilename="p239.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="426,273 2351,273 2351,3005 426,3005"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:llm-B; conf:0.70;}">
+                <Coords points="735,279 2298,279 2298,403 735,403"/>
+                <Baseline points="735,351 1425,351 1999,368 2298,368"/>
+                <TextEquiv>
+                    <Unicode>Der sol wir thun gewandlet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="753,374 2258,374 2258,500 753,500"/>
+                <Baseline points="754,436 2258,457"/>
+                <TextEquiv>
+                    <Unicode>durch simsim meister, uß geygster isten an des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="772,473 2256,473 2256,578 772,578"/>
+                <Baseline points="774,514 1074,529 2256,531"/>
+                <TextEquiv>
+                    <Unicode>da bey einig gelt nötiget, es seer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_4" custom="readingOrder {index:3;} atr {basis:llm-mixed; conf:0.80;}">
+                <Coords points="774,543 2285,543 2285,663 774,663"/>
+                <Baseline points="776,621 1145,607 2285,631"/>
+                <TextEquiv>
+                    <Unicode>sol kurz ist, antwurt nit uff die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_5" custom="readingOrder {index:4;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="784,631 2265,631 2265,762 784,762"/>
+                <Baseline points="786,696 988,703 1419,696 2265,713"/>
+                <TextEquiv>
+                    <Unicode>iij sprung, gester ungern, das Christus eyn seyn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_6" custom="readingOrder {index:5;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="811,735 2256,735 2256,830 811,830"/>
+                <Baseline points="811,791 1554,785 2256,793"/>
+                <TextEquiv>
+                    <Unicode>zuͦ uͦppen von den leiden, das undogtt zuͦ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_7" custom="readingOrder {index:6;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="799,808 2281,808 2281,919 799,919"/>
+                <Baseline points="801,882 1025,873 1591,877 2281,865"/>
+                <TextEquiv>
+                    <Unicode>schicken, und nitt alls enwellend, doch er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_8" custom="readingOrder {index:7;} atr {basis:llm-A; conf:0.75;}">
+                <Coords points="801,900 2269,900 2269,1001 801,1001"/>
+                <Baseline points="803,966 1119,958 2269,960"/>
+                <TextEquiv>
+                    <Unicode>schriest sag, herrn das an Christum,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_9" custom="readingOrder {index:8;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="782,982 2263,982 2263,1087 782,1087"/>
+                <Baseline points="784,1057 1044,1046 2263,1038"/>
+                <TextEquiv>
+                    <Unicode>im im hals ablaß, so im nüwen Togaren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_10" custom="readingOrder {index:9;} atr {basis:llm-C; conf:0.45;}">
+                <Coords points="788,1069 2244,1069 2244,1167 788,1167"/>
+                <Baseline points="790,1142 988,1124 2244,1128"/>
+                <TextEquiv>
+                    <Unicode>schriben par, irerung und anpruͦfen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_11" custom="readingOrder {index:10;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="762,1152 2326,1152 2326,1261 762,1261"/>
+                <Baseline points="762,1228 1046,1220 2326,1222"/>
+                <TextEquiv>
+                    <Unicode>alsß Christus spricht: „O, in eß, eß, eß, orn, anis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_12" custom="readingOrder {index:11;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="788,1251 2345,1251 2345,1348 788,1348"/>
+                <Baseline points="790,1311 1718,1299 2199,1313 2345,1327"/>
+                <TextEquiv>
+                    <Unicode>so wurd es etc. Disi march 16. octobris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_13" custom="readingOrder {index:12;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="784,1327 2326,1327 2326,1443 784,1443"/>
+                <Baseline points="786,1377 1401,1381 2326,1403"/>
+                <TextEquiv>
+                    <Unicode>wie mir vil nachgandh, so sittfals verbringen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_14" custom="readingOrder {index:13;} atr {basis:llm-A; conf:0.65;}">
+                <Coords points="788,1399 2316,1399 2316,1521 788,1521"/>
+                <Baseline points="790,1461 1180,1459 2316,1480"/>
+                <TextEquiv>
+                    <Unicode>sin kurtz uffsatz nämen und nit uß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_15" custom="readingOrder {index:14;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="786,1484 2281,1484 2281,1600 786,1600"/>
+                <Baseline points="788,1538 2281,1557"/>
+                <TextEquiv>
+                    <Unicode>nachvolgen. No 12. So dann hand hin gern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_16" custom="readingOrder {index:15;} atr {basis:llm-A; conf:0.45;}">
+                <Coords points="930,1571 2314,1571 2314,1699 930,1699"/>
+                <Baseline points="932,1629 1281,1623 2314,1639"/>
+                <TextEquiv>
+                    <Unicode>bpiß dem so im dienstig so truͦck</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_17" custom="readingOrder {index:16;} atr {basis:llm-C; conf:0.80;}">
+                <Coords points="768,1649 1145,1649 1145,1754 768,1754"/>
+                <Baseline points="770,1709 1145,1697"/>
+                <TextEquiv>
+                    <Unicode>dann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_18" custom="readingOrder {index:17;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="1197,1635 1269,1635 1269,1722 1197,1722"/>
+                <Baseline points="1201,1695 1269,1691"/>
+                <TextEquiv>
+                    <Unicode>S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_19" custom="readingOrder {index:18;} atr {basis:llm-A; conf:0.55;}">
+                <Coords points="432,1748 2260,1748 2260,1874 432,1874"/>
+                <Baseline points="434,1822 716,1802 1254,1798 1431,1814 1834,1827 2260,1829"/>
+                <TextEquiv>
+                    <Unicode>Büssenis. Der antwurt blb, uff 11. spruch gestor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_20" custom="readingOrder {index:19;} atr {basis:llm-B; conf:0.85;}">
+                <Coords points="813,1829 2265,1829 2265,1938 813,1938"/>
+                <Baseline points="815,1888 1178,1878 1636,1890 1827,1903 2265,1901"/>
+                <TextEquiv>
+                    <Unicode>in jogenus referier ich mich vff da orta ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_21" custom="readingOrder {index:20;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="770,1903 2302,1903 2302,2019 770,2019"/>
+                <Baseline points="772,1967 1320,1962 1778,1986 2302,1988"/>
+                <TextEquiv>
+                    <Unicode>Die nun antwum anderst haben , dann erst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_22" custom="readingOrder {index:21;} atr {basis:llm-A; conf:0.70;}">
+                <Coords points="797,1986 2314,1986 2314,2103 797,2103"/>
+                <Baseline points="799,2040 1831,2066 2314,2066"/>
+                <TextEquiv>
+                    <Unicode>en greffett hatt. Die andern spruch alle sann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_23" custom="readingOrder {index:22;} atr {basis:llm-A; conf:0.80;}">
+                <Coords points="782,2075 2306,2075 2306,2182 782,2182"/>
+                <Baseline points="784,2130 1254,2126 1897,2149 2306,2149"/>
+                <TextEquiv>
+                    <Unicode>diewil si den bewärend, das eim anderer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_24" custom="readingOrder {index:23;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="772,2147 1706,2147 1706,2245 772,2245"/>
+                <Baseline points="774,2210 1244,2206 1530,2211 1706,2225"/>
+                <TextEquiv>
+                    <Unicode>Bdienst, die seligkeit und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_25" custom="readingOrder {index:24;} atr {basis:llm-A; conf:0.50;}">
+                <Coords points="1796,2180 2343,2180 2343,2278 1796,2278"/>
+                <Baseline points="1797,2233 2343,2239"/>
+                <TextEquiv>
+                    <Unicode>tuen, etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_26" custom="readingOrder {index:25;} atr {basis:llm-A; conf:0.45;}">
+                <Coords points="786,2227 2302,2227 2302,2357 786,2357"/>
+                <Baseline points="788,2293 1281,2293 2302,2328"/>
+                <TextEquiv>
+                    <Unicode>erstlich so oberspred si kummer antwurt, sunder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_27" custom="readingOrder {index:26;} atr {basis:llm-B; conf:0.65;}">
+                <Coords points="809,2324 2345,2324 2345,2456 809,2456"/>
+                <Baseline points="809,2377 1446,2385 1842,2413 2345,2424"/>
+                <TextEquiv>
+                    <Unicode>genug erklären , den oer p saution disz anickels</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_28" custom="readingOrder {index:27;} atr {basis:llm-A; conf:0.60;}">
+                <Coords points="801,2400 2256,2400 2256,2545 801,2545"/>
+                <Baseline points="803,2459 1298,2465 1821,2506 2256,2514"/>
+                <TextEquiv>
+                    <Unicode>so gen Bernn befolchen, etc. hatt. Das wort</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_29" custom="readingOrder {index:28;} atr {basis:llm-B; conf:0.80;}">
+                <Coords points="793,2481 2277,2481 2277,2632 793,2632"/>
+                <Baseline points="795,2526 1143,2553 2277,2603"/>
+                <TextEquiv>
+                    <Unicode>vor vns nitt eigen liden , ervellend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_30" custom="readingOrder {index:29;} atr {basis:llm-B; conf:0.75;}">
+                <Coords points="791,2561 2262,2561 2262,2716 791,2716"/>
+                <Baseline points="793,2613 1031,2613 1491,2646 2262,2679"/>
+                <TextEquiv>
+                    <Unicode>söllend , sondern gedienlich annäme was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_31" custom="readingOrder {index:30;} atr {basis:llm-mixed; conf:0.62;}">
+                <Coords points="805,2634 2297,2634 2297,2800 805,2800"/>
+                <Baseline points="807,2689 1074,2693 1885,2751 2297,2753"/>
+                <TextEquiv>
+                    <Unicode>und Gott uns bewahrt doch gnugsam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_32" custom="readingOrder {index:31;} atr {basis:llm-mixed; conf:0.66;}">
+                <Coords points="788,2730 2306,2730 2306,2877 788,2877"/>
+                <Baseline points="790,2784 1256,2788 1632,2821 2036,2837 2306,2835"/>
+                <TextEquiv>
+                    <Unicode>Der Spruch von den selb angezogen, Matthe 16.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_33" custom="readingOrder {index:32;} atr {basis:llm-A; conf:0.61;}">
+                <Coords points="791,2807 2326,2807 2326,2999 791,2999"/>
+                <Baseline points="793,2871 1125,2871 2125,2923 2326,2915"/>
+                <TextEquiv>
+                    <Unicode>das wir uns all sollen verlegen, doch jetzt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der sol wir thun gewandlet
+durch simsim meister, uß geygster isten an des
+da bey einig gelt nötiget, es seer
+sol kurz ist, antwurt nit uff die
+iij sprung, gester ungern, das Christus eyn seyn
+zuͦ uͦppen von den leiden, das undogtt zuͦ
+schicken, und nitt alls enwellend, doch er
+schriest sag, herrn das an Christum,
+im im hals ablaß, so im nüwen Togaren
+schriben par, irerung und anpruͦfen,
+alsß Christus spricht: „O, in eß, eß, eß, orn, anis
+so wurd es etc. Disi march 16. octobris
+wie mir vil nachgandh, so sittfals verbringen
+sin kurtz uffsatz nämen und nit uß
+nachvolgen. No 12. So dann hand hin gern
+bpiß dem so im dienstig so truͦck
+dann.
+S.
+Büssenis. Der antwurt blb, uff 11. spruch gestor
+in jogenus referier ich mich vff da orta ,
+Die nun antwum anderst haben , dann erst
+en greffett hatt. Die andern spruch alle sann
+diewil si den bewärend, das eim anderer
+Bdienst, die seligkeit und
+tuen, etc.
+erstlich so oberspred si kummer antwurt, sunder
+genug erklären , den oer p saution disz anickels
+so gen Bernn befolchen, etc. hatt. Das wort
+vor vns nitt eigen liden , ervellend
+söllend , sondern gedienlich annäme was
+und Gott uns bewahrt doch gnugsam
+Der Spruch von den selb angezogen, Matthe 16.
+das wir uns all sollen verlegen, doch jetzt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>
