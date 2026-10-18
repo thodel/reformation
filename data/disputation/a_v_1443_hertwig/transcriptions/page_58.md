@@ -1,76 +1,51 @@
 # Seite 58
 
-Bychtnatter zu der Insell/
-Nach sollichen der Bychtnatter / geantwort/
-In dinem on namen suͤsser her Jhesu/
+Bychtvatter zu der Insell/
+Nach sollichen der Bychtvatter / geantwort/
+In dinem namen suͤsser her Jhesu/
 erwuͤrdigen wysen guͤnstigen
-"lieben" Herrn  gestern hab
-"lieben"  ich das erst
+lieben Herrn  gestern hab
+ich  das erst
 das
-Ich,
-wynung, das wie Herr Berchtoldt
-der Dienstbarkeyt halb " jetz gemeldett hat" geh geredt ge¬
-Jetz Ist
-gemelldett
-nugsancklich verantwurt, Es khütts
-hatt
-ein küng ouch, ist dannocht ein kung,
-oder diener
-Ist nützit unzimlichs, noch unmöglichs
-wie si sich
-Ist oder
-diener
-dahar bracht, ob schon einer genampt
-nämmen
-würdt ein obrer, vnnd ein unnderthan
-zuverglychen mitl gegen Ein Ein
-Herzog Jn einem kunigkrich, mag genant
-werden, ein unnderthan. Er ist auch ein ebrech
-zuzu verglich nott dem Küng, So Ist er ein
-underthan̄, verglychnott gegen sinen
-unnderthanen lütten, So Ist er ein obter,
-vnnd wurdt genampt ein houpt, das
-Uff das Lunder zuantwürtten,
-Ist ein g.
-Glaub
-mir
-auch, das wenigen
-mit möglich,
-unbedacht
-Ist
-In das
-ver
-möglich, ordenlich zuverantwürtten,
-heupt
-die
-„Nim̅e
-sind der gründ unnd
-zufassen.
-Gertt Han
-zuverunt-
-ursachen Harnachvollgend zuvil, das
-wortten
-3613
-möglich, sollichs zuverantwurth,
-nitt
-Ich die
-prodicanten, presi-
-nitt wol
-Begeren, zytt
-das Im der predicanten
-behaltten
-sich zuobedekenken
-kann mag, de
-die
-solliche nochmals offnen, danach aber wölle er
+Ich /
+meynung/  hab das  Herr Berchtoldt
+jetz gemeldett hatt der Dienstbarkeyt halb X gemeldet
+X oder diener wie sie sich diener nämmen / ge//
+nuͦg samcklich verantwurt/ so  thuͦtts
+ein kuͤng ouͦch /  ist dannocht ein kuͤng /
+Ist nützit unzimlichs / noch unmöglichst
+dahar bracht / ob schon einer ist oder  genampt
+wuͤrdt ein obrer / vnnd ein unnderthan
+zuͦverglychen nitt gegen Eim / Ein
+Herzog Jn einem kuͤnigrich / mag genant
+werden / ein unnderthan / Er ist auch ein oberer
+zuzuͦverglichett den Küͤng / So Ist er ein
+underthan̄ / verglychnett gegen sinen
+unnderthanen luͤtten / So Ist er ein oberer /
+vnnd wurdt genampt ein houͦpt / das
+Ist eins / Uff das ander  zeantwuͦrtten,
+ist im mir nitt moglich / wenn
+Glouͦb auch / das wenigen
+das vermögen moglich /ordentlich +
++ in das houpt zu fassen zuͦverantworten moͤchten +
+unbedacht  zuverantwurtten /
+Begertt zu vern Nun sind der gruͤnd/ und
+Ursachen harnach volgend  so viel / das Im ++
+++ ich sie nitt wol behalten kann mag /
+nit moglich sollichs jetz zeverantwurten
+Begert von den
+Begert aber Zytt von den predicanten /Specifi //
+cationen sich zuͦ bedenken/
+das ihm die predicanten
+solichs  nochmals offenen darnach aber wölle er
 darnach abermals antwurtten #
-Herr Berchtolld,
-Daruff
++
+Daruff Herr Berchtold / +++
 Es hatt
-from ein kürtzen bescheid
-Die gelychnüss
-Ein
-men
-Cristen, Die er Harbringt, das einer ein Herzog
++++ frommen Christen  ein kuͤrtzen bescheid
+Die glychnuͤsß
+fuͤr
+frommen
+Cristen, Die er Har "fuͤr"bringt / das einer ein Herzog
 # darnach ermandten den Bychttiger, das er von den
-gelichnissen abstan, unnd by der schrifft belibe,
+gelichnissen abstan / unnd by der schrifft belibe /
