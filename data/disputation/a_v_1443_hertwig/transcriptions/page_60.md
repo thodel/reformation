@@ -4,36 +4,35 @@ Lüth
 hattüüm
 derinn
 quinte
-Cristi, Zuuben, dasselbig mag bewärt
-werden, uss klaren texten), namlichen
-Matthei ain, etc., hatt Cristus sinen
-Jungern, gewallt geben, über die bösen un-
-reinen geist, das si die ußtryben, unnd
-über die kranckheyten das si dieselben
-all gesund machen, Petrus, hatt dises
-Fürnämmliche unnd träffenlicher, geübt,
+Cristi / Zuͦuͤben / dasselbig mag bewaͤrt
+werden / uss klaren texten / namlichen
+Matthei am / v /  hatt Cristus sinen
+Jungern / gewallt geben / uber die boͤsen un/
+reinen geist / das si die ußtryben / unnd
+uͤber die kranckheyten das si dieselben
+all gesund machen / Petrus / hatt dises
+Fuͤrnaͤmmliche unnd traͤffenlicher / geuͤbt /
 wan wir von unnserm heiland selbs
-im Uten. Die krancken
-läsen, Actum
-wunden uff die gassen gelegt in
-tern bettlin, uff das, so Petrus
-käme, das sin schatt, ettwas einen
-ussz inen beschäftigöhte, unnd si entli-
-digott wurden, Irer kranckheyt,
-Actum am ersten, ist Petrus
+läsen / actum am v ten . Die krancken
+wurden uff die gassen gelegt in
+iren bettlin / uff das  so Petrus
+kaͤme / das sin schatt / ettwan einen
+usß inen beschaͤttigette / unnd si entle //
+digett wurden / Irer kranckheyt,
+Actum am ersten / ist Petrus
 uff gestanden unnder den anndern
-unnd hatt furgelegt der mangell-
-der zal der Appostell, unnd
-durch schrifft bewärt, das es nott
-wäre, einen an Judas statt zuerwillen,
-th In dem ersten Concilio, Alls da
-gefragt ward, ob man die gebott, unnd
-beschwärden des altten gesatzs, sölte
-ufflegen, denen die bekert würden,
-uss der Heidenschafft, da Ist er gewäsen
-der den ersten Sententz geben hatt,
-Item ain vten Cappittell Actuum,
-Da Ananias unnd Saphira, hätten
-en acker verkoufft, unnd ettwas
+unnd hatt fuͤrgelegt den mangell //
+der zal der Appostell / unnd
+durch schrifft bewaͤret / das es nott
+waͤre / einen an Judas statt zuͦ erwaͤllen/
+Ith In dem ersten Concilio 8 Actorum decimo quinto8 Alls da
+gefragt ward / ob man die gebott / unnd
+beschwaͤrden des altten gesatzs / sölte
+ufflegen / denen die bekert wuͤrden /
+uss der Heidenschafft / da Ist er gewaͤsen
+der den ersten Sententz geben hatt /
+Item ain v ten Cappittell Actuum /
+Da Ananias unnd Saphira / haͤtten
+ein acker verkoufft / unnd ettwas
 des gellts verhoben verholen oder da
-hin den behaltten, da hatt Sant Petter
+hinden behaltten / da hatt Sant Petter

@@ -37,7 +37,7 @@ unnd nach langem / sich erluthertt /
 das er / Jn die erste Schlussßrede / wie
 gehällen solliche durch die predicanten von
 Bern eroͤffnet gefaͤlle / vnnd wöltte sich
-vnndersthin bereÿt einem Jeden / der darwider
+vnndersthin bereyt einem Jeden / der darwider
 reden woͤllt / antwuͤrtt  / unnd bericht zuͦ geben /
 unnd sich unnderschreiben  zehen Schlussrn /
 Als der (von) Appenzell / beruͤfft / sind
