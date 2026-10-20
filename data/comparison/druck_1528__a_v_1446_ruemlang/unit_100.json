@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 14,
+    "units": 13,
     "matched": 2,
     "only_a": 7,
-    "only_b": 5,
-    "similarity": 0.4379,
+    "only_b": 4,
+    "similarity": 0.4353,
     "pairs": [
       {
         "op": "only_a",
@@ -44,7 +44,7 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "1547. privatorum mihi sech. nach mittag. parer von s Rom̄ ebrisch , damitt und all werſchliweisende\nsoll\nund pünlich wurdend, als von allen zuͦ sinnde\ngerendt hafftgebracht, bin ich erfordert worden.",
+        "b": "privatorum mihi sech. nach mittag. parer von s Rom̄ ebrisch , damitt und all werſchliweisende\nsoll\nund pünlich wurdend, als von allen zuͦ sinnde\ngerendt hafftgebracht, bin ich erfordert worden.",
         "similarity": 0.0
       },
       {
@@ -104,28 +104,22 @@
       {
         "op": "match",
         "a": "des vj. cap. halb Johannis/ der geſchrifft vnnd allen Chriſtenlichen\nläſern. **Meiſter Vlrich Zwingli.**\nVNſers brüders antwurt/ beſzömbdet vns/ das\ner mitt den dryen Euangeliſten bewärenn wil/ das an dißem ort verheyſſen werde/ das Sacra\nmentlich",
-        "b": "Der\nZwingli, unsers bruders, antwurt, befrömbdet uns\ndas er mitt den dryen evangelischen berühren\nwil , das an diem ors verhepte werde\ndes sacramentliß brot.",
-        "similarity": 0.4667
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "Und das an dem 17. S. S. S. ✳\nS. S. S. 15. Zurich. S. 1547. S. S. S. S.",
-        "similarity": 0.0
+        "b": "Der\nZwingli, unsers bruders, antwurt, befrömbdet uns\ndas er mitt den dryen evangelischen berühren\nwil , das an diem ors verhepte werde\ndes sacramentliß brot. Und das an dem 17.",
+        "similarity": 0.4615
       }
     ]
   },
   "fine": {
-    "similarity": 0.3583,
+    "similarity": 0.3709,
     "words": {
       "a": 219,
-      "b": 222
+      "b": 207
     },
     "segments": [
       {
         "op": "replace",
         "a": "Die vierdt dem tod in den worten verheyßt vnnd",
-        "b": "1547 privatorum mihi sech nach mittag parer"
+        "b": "privatorum mihi sech nach mittag parer"
       },
       {
         "op": "equal",
@@ -525,7 +519,7 @@
       {
         "op": "replace",
         "a": "Sacra mentlich",
-        "b": "an dem 17 S S S S S S 15 Zurich S 1547 S S S S"
+        "b": "an dem 17"
       }
     ],
     "ops": 41,

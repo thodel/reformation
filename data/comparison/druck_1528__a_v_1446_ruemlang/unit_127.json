@@ -23,10 +23,10 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 8,
+    "units": 7,
     "matched": 2,
     "only_a": 1,
-    "only_b": 5,
+    "only_b": 4,
     "similarity": 0.4027,
     "pairs": [
       {
@@ -70,20 +70,14 @@
         "a": null,
         "b": "Zum fünfften bericht, Pauli 4ten etc. Er hatt das\nangelscham, wär nitt ansich genommen. in welichem weren aller höchst und widertesten\ndeßwegen hendel .",
         "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "keins\nunnd\n1683\nden\ndus\n1 b\nund zu\nver-\nwol\nman\nvon\nund\nzu\ndie\nund daß\nwist\nin\ndie armen\ngedachte\nunnd\n15. ſich\nnicht\nund\nfürgett\nein\n2\nauch\nvon",
-        "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.1189,
+    "similarity": 0.1412,
     "words": {
       "a": 93,
-      "b": 294
+      "b": 261
     },
     "segments": [
       {
@@ -187,39 +181,59 @@
         "b": "nach"
       },
       {
-        "op": "insert",
-        "a": "",
-        "b": "der articklen deß gloubens Zum fünfften bericht Pauli 4ten etc Er hatt das angelscham wär nitt ansich genommen in welichem weren aller höchst und widertesten deßwegen hendel keins unnd 1683"
-      },
-      {
-        "op": "equal",
+        "op": "replace",
         "a": "den",
-        "b": "den"
-      },
-      {
-        "op": "replace",
-        "a": "articklen des Glou bens Zum fu nfften ſpricht Paulus zun Hebreern am ij capitel Er hat",
-        "b": "dus 1 b und zu ver wol man von und zu"
+        "b": "der"
       },
       {
         "op": "equal",
-        "a": "die",
-        "b": "die"
+        "a": "articklen",
+        "b": "articklen"
       },
       {
         "op": "replace",
-        "a": "Engliſche natur nit an",
-        "b": "und daß wist in die armen gedachte unnd 15"
+        "a": "des Glou bens",
+        "b": "deß gloubens"
       },
       {
         "op": "equal",
-        "a": "ſich",
-        "b": "ſich"
+        "a": "Zum",
+        "b": "Zum"
       },
       {
         "op": "replace",
-        "a": "ge nomen in welchem wirt aller ho chſten",
-        "b": "nicht"
+        "a": "fu nfften ſpricht Paulus zun Hebreern am ij capitel",
+        "b": "fünfften bericht Pauli 4ten etc"
+      },
+      {
+        "op": "equal",
+        "a": "Er",
+        "b": "Er"
+      },
+      {
+        "op": "replace",
+        "a": "hat die Engliſche natur nit an ſich ge nomen",
+        "b": "hatt das angelscham wär nitt ansich genommen"
+      },
+      {
+        "op": "equal",
+        "a": "in",
+        "b": "in"
+      },
+      {
+        "op": "replace",
+        "a": "welchem wirt",
+        "b": "welichem weren"
+      },
+      {
+        "op": "equal",
+        "a": "aller",
+        "b": "aller"
+      },
+      {
+        "op": "replace",
+        "a": "ho chſten",
+        "b": "höchst"
       },
       {
         "op": "equal",
@@ -229,10 +243,10 @@
       {
         "op": "replace",
         "a": "niderſten crea turen natur verſtanden ſonder des geſchlächts oder ſa men Abrahams hat er an ſ",
-        "b": "fürgett ein 2 auch von"
+        "b": "widertesten deßwegen hendel"
       }
     ],
-    "ops": 15,
+    "ops": 17,
     "truncated": false
   }
 }

@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 10,
+    "units": 9,
     "matched": 4,
     "only_a": 4,
-    "only_b": 2,
-    "similarity": 0.4403,
+    "only_b": 1,
+    "similarity": 0.4448,
     "pairs": [
       {
         "op": "only_a",
@@ -38,8 +38,8 @@
       {
         "op": "match",
         "a": "Das kein beſſerer verſtand fůrbracht werdenn\nmag/dann gſchrifft mit gſchrifft zů erkläre/in welchem\ndie heiligen Euangeliſten einmůtigklich/mit ſampt de\nPaulo/die wort des Nachtmals beſchriben/vnd keiner\nbedůtlicher red niendert gedencken.",
-        "b": "S. noch von üch waiß solche bewunniß. Khaner von S. Gallen uff des antwurt,\nsüchen, die er gott, und den natüren pfand\nunsere antwurt, das kein besserer verſtand fürbracht\nWerden mag, dann Schrift nicht Schrift zu erklären\nwelchem die heiligen Evangelien einmütigklich\nmeit sampt dem paulo.",
-        "similarity": 0.35
+        "b": "noch von üch waiß solche bewunniß. Khaner von S. Gallen uff des antwurt,\nsüchen, die er gott, und den natüren pfand\nunsere antwurt, das kein besserer verſtand fürbracht\nWerden mag, dann Schrift nicht Schrift zu erklären\nwelchem die heiligen Evangelien einmütigklich\nmeit sampt dem paulo.",
+        "similarity": 0.3544
       },
       {
         "op": "match",
@@ -80,28 +80,22 @@
       {
         "op": "match",
         "a": "Das aber min herr Doctor wil/das\nder lyb vnd das blůt Chriſti genoſſen werde/durch den\nglouben/bekennend wir einmůtigklich/das allenieſſung\nvnd ſo wir vſſerlicher wyß thůnd/ſleyſchlich gar vnutz=\nbar/ſo ſolichs nit im geyſt vnnd glouben beſchicht. Seß\nHh",
-        "b": "Das aber min herr doctor wil\ndas der lyb vnd das blůt\ngrosen worten\ndurch den glouben, bekand wir einmüttklich\ndas alle muͤstung und so wer ußbringen, weßt und\nihm\n1525 .",
-        "similarity": 0.5067
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "15 . nichts\nhabe\nihm\nals\nund\nzu\neinem\nbei\nwieners\nund",
-        "similarity": 0.0
+        "b": "Das aber min herr doctor wil\ndas der lyb vnd das blůt\ngrosen worten\ndurch den glouben, bekand wir einmüttklich\ndas alle muͤstung und so wer ußbringen, weßt und",
+        "similarity": 0.5205
       }
     ]
   },
   "fine": {
-    "similarity": 0.4795,
+    "similarity": 0.493,
     "words": {
       "a": 263,
-      "b": 250
+      "b": 236
     },
     "segments": [
       {
         "op": "replace",
         "a": "Schlußred Pfarrer",
-        "b": "S noch"
+        "b": "noch"
       },
       {
         "op": "equal",
@@ -561,7 +555,7 @@
       {
         "op": "replace",
         "a": "wir vſſerlicher wyß thůnd ſleyſchlich gar vnutz bar ſo ſolichs nit im geyſt vnnd glouben beſchicht Seß Hh",
-        "b": "wer ußbringen weßt und ihm 1525 15 nichts habe ihm als und zu einem bei wieners und"
+        "b": "wer ußbringen weßt und"
       }
     ],
     "ops": 47,
