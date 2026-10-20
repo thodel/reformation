@@ -36,19 +36,3 @@ S.
 umb ouch im dritten mitt anhangendem
 zeichen. Diser ouch zuͦ einer bestätigung
 im
-ß
-genaturen
-meine
-und
-falls
-Februarius
-G
-sie
-von
-so des
-frecken .
-unzücht .
-254
-wenn
-den
-und

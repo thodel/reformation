@@ -1,6 +1,5 @@
 # Seite 270
 
-reden .
 welt, das elementa, element sind so aber
 Sy habend göttliche wort und verſprechung
 und sy sind tröstlich mit von ir selbs
@@ -30,19 +29,3 @@ alles, so der mensch usstrag zuͦ in von
 gredach, er dieir den sölichs. Nitt lüste
 und wollen, des gipst in zuͦ trùwen,
 Dann niemant ist der 60. je offneren.
-S.
-das
-den
-und
-ist
-von
-lieben .
-sein .
-auch
-mitt
-char
-welte
-des
-G .
-der
-im

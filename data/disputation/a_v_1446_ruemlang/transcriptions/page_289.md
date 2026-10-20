@@ -37,4 +37,3 @@ werd, von der menschlich natur
 wirt der selbigen niemant ab sin. Das tag
 S.
 von dem siten ab recht gesagt und
-S.

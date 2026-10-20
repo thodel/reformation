@@ -1,6 +1,5 @@
 # Seite 342
 
-341
 ſich
 Ist Puren ouch, her beredt, soll mir des
 nit gelangen, do kum etliche dawider

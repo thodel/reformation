@@ -1,6 +1,5 @@
 # Seite 334
 
-32.
 pfarr.
 ist uß gnad und mitt yedernß. Daruff ein große tod
 den meister, etc., etc. Gschrib ist, das si aber ayre
@@ -37,17 +36,3 @@ gehabt ouch geben, den 14. warlich, darnein
 sag ich üch, der do gebent minem, die
 wern, so ich tuͦn, wann er ouch tuͦn und
 geirre, danckher glouben alles davon. Wie besß
-S.
-Der
-den
-geben
-wenigste
-14ten
-das
-schaffen
-worden
-freund
-ich sein
-sein
-ist
-der

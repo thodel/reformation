@@ -1,6 +1,5 @@
 # Seite 350
 
-sohn
 Das die wan der west min lieb, habend also vil
 dardurch, als under den och in dem ist nun des
 dorumb er noch am anfangt hange , es belfft .
@@ -40,25 +39,4 @@ so auch
 dichend, och man her pfarrer sag her, vögsen
 nempe des multo testantur, denuo censeamus
 verjechen werden. Dann so er den claren sprach
-de
-und
-15.
-sie
-und
-nichts
-dum
-kommen .
-3 .
-wand
-vestris
-ul
-bieter
-gelegen .
-wilches
-unter
-welches
-den
-von
-lantend .
-Se
 so er das

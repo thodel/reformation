@@ -29,4 +29,3 @@ octo
 das wir inn abarmal estand, sonder der erb Christi
 und das bluͦt egen.
 Guschin.
-S.

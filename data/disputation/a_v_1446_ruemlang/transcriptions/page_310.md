@@ -1,6 +1,5 @@
 # Seite 310
 
-der
 vorgestechen, das aber erhallt, strafft
 In welchem uns bevolhen werde, und
 von uns gegeben, das du des lehen wissendich
@@ -33,12 +32,3 @@ das ist
 der järigkherren. Vnder
 dem brot ist nun lib.
 zusammen
-Murer
-mehr
-Zwingen.
-mir
-Fendeur
-dar
-Den
-im
-vnd

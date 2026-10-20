@@ -1,6 +1,5 @@
 # Seite 362
 
-361
 und k geseiten och trunckt neust und nit wun
 mit ir kraft dann solichs ußrichten.
 wen, mit dem usgericht, von got, dann
@@ -10,10 +9,6 @@ solichs ouch allen herrenn bey meister, uff
 an
 der gnad angesetzter gestreffe vermesßen.
 Dor das und wil ouch
-d.
-S.
-S.
-S.
 Nach mittag.
 von glich komen Christen ut Schenten
 Zwingler, uff anfertung unsern unnd herfürnemmen

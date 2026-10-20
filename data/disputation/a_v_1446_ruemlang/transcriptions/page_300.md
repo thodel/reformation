@@ -4,7 +4,6 @@ statt
 Mutter
 brieff
 Mutter in Benglen .
-200
 Der cor 10. brug, 6. der 8.
 Oußgeschlossen, oder man glicg, gemein ad
 Vonenſanni für uffrichtigung ußert verſtehen ,
@@ -36,20 +35,3 @@ Gastgen, deyend kum ich uff Ottleich spruch
 volgna durch herr Benedictor zuͦgfeirt.
 die ouch nitt semlichstuben
 und inn eysen.
-kirchen
-von
-durch
-predigers
-darbey
-gute
-verordnung
-aus
-nicht
-seinen
-sp
-wir
-einen
-seige
-werden
-nitt
-gabe

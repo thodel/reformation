@@ -1,26 +1,5 @@
 # Seite 388
 
-nachen
-ihre
-habe
-dieſe
-ist das
-worden , so
-paſtol furen
-den herren
-welches bürten
-vor seinem
-geben worden .
-It₎ von der
-stücken .
-en Hallmosen
-worden .
-und verthanet ,
-in specieren
-14 lib .
-nochter herr
-wenn sie
-geklagt .
 Iv .
 jetz bi uns nitt sin, mog leplich lassend wer nitt.
 das dann wir habend ussgerückte gschrifen . Actum 9

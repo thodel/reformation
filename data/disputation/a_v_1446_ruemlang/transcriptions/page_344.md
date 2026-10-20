@@ -1,6 +1,5 @@
 # Seite 344
 
-reden .
 Kùnstig
 Auch bedaß loͤuffs und bey wort arg.
 hät nitt gmaͤrn, dann so inen eger
@@ -36,24 +35,5 @@ Christi ( pf . & vorhin gezogen , das wir solches )
 empfarbend mitt allen in ein pfarherg der
 sorrenden, sonder ouch, wie des sy capittel,
 erschlagen, wann wer dienst und griß sinen
-S.
-S. bringen
-S. nichts
-S.
-S.
-S. 1526
-veri und kinder
-S. etc
-1. vermittn
-est
-S.
-S. haben
-est
-fui
-S. lauben
-S.
-S.
-d. wider
-S. 1793
 üch bider mir
 der mit

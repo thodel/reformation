@@ -33,15 +33,4 @@ weliches er ummllipt, nit
 herz versichern ist, wird er sich des trosts
 gen, so ist
 planen
-und
-S.
-vor
-arm
-elich
-S.
-nicht
-kirchen
-str.
-lieben
-1688
 S.

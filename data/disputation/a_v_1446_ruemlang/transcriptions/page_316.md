@@ -1,6 +1,5 @@
 # Seite 316
 
-haben .
 Wthammen Paulus in disen angezogen sprechen
 sach inschreibung
 (der 10. tag von Zewerlen brot von einem
@@ -39,15 +38,3 @@ wol, das er die Kilchen
 er spilt, aber daruff
 sal
 G .
-der
-PS .
-Berichten
-weit .
-H. OC .
-den
-des
-von
-und
-sein
-als
-seit

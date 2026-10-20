@@ -6,7 +6,6 @@ won
 wolten inen erzeigt hatt.
 1
 und erfraget.
-354.
 des vorigerechnung
 sich zum ersten gryben annemen, etc.
 zuͦ Uspurg den sach betten muͦst.
@@ -40,21 +39,3 @@ sind, darus nach als, da sander litterem
 och den synodg Matthe Gützlieng erlört, als
 ursachet und bruͦder, vermeint,
 der tag
-haben .
-achtet .
-werden .
-Den 5 .
-Grett
-.
-seines
-laus
-der
-bruͦder.
-nec
-haben .
-von
-1
-davon .
-den
-noch
-seines

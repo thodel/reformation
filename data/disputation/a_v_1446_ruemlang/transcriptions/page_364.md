@@ -30,32 +30,3 @@ Zum fünfften bericht, Pauli 4ten etc. Er hatt das
 angelscham, wär nitt ansich genommen.
 in welichem weren aller höchst und widertesten
 deßwegen hendel .
-keins
-unnd
-1683
-den
-dus
-1 b
-und zu
-ver-
-wol
-man
-von
-und
-zu
-die
-und daß
-wist
-in
-die armen
-gedachte
-unnd
-15.
-ſich
-nicht
-und
-fürgett
-ein
-2
-auch
-von

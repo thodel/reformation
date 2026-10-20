@@ -45,23 +45,3 @@ eines
 menspelig.
 in gotz.
 d.
-S.
-des
-und
-muter
-wëre .
-frau >
-welche
-leist
-dorff
-deren
-30 lb
-item
-in
-Enden .
-haben
-Freunde
-eg
-einem
-noch et
-2

@@ -1,6 +1,5 @@
 # Seite 262
 
-S.
 Werlicher von Oten, esse meum noster
 hie erfindt ſich offenlich das Chrīstus
 selbs deßhalb ein brot oder
@@ -39,17 +38,3 @@ uns sag lieben, der welle. Hie ymmeck
 wir dann der Pfarrer
 worr gott, ir e lassch leut. Das die
 und
-lib
-me
-lib
-in
-red
-das
-einem
-alles
-d
-1520
-ob
-vnd
-und
-T. T .

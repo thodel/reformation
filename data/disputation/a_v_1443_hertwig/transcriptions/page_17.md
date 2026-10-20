@@ -39,7 +39,7 @@ nitt disputieren / Sunders sich bezuͤ //
 gen / das er, woͤlle / die denen
 So inn / annders beladen mitt
 red / unnd antwuͤrtt  / wistanlich begegnen /
-x wil sin lüttrung inlegen schrifftlich /
+*wil sin lüttrung inlegen schrifftlich /
 Demnach Alls Basell, beruͤfft
 Ist doctor Oecolampadius
 uff gestanden / vnnd hatt anfangs

@@ -1,6 +1,5 @@
 # Seite 348
 
-144
 1
 verstand und angenommen worden darmit aber das
 vserlich nit abgesundert, also istend das ist min lib
@@ -39,20 +38,3 @@ ihm so waren desz vatter als , es ist ein zeichen deß
 loperman, och bley, so mögen ich an disem ort
 ufstigen sin, so abersat. Hall, one yeder usslegen
 des ist min elter dessz minen tochteren und ir
-sind
-den stenk
-jeder
-reden .
-und
-die
-Bürger
-bienet .
-Dann .
-nondum
-ie er
-gmacht .
-Dr .
-8
-weil ich
-das
-stühr

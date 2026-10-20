@@ -1,33 +1,33 @@
 # Seite 24
 
-1 zu Friburg
+1 zuͦ Friburg
 + gedachtter
-Catar
-reden, gesatzt wider si, gsatzt,
-sich erbotten) wo er 1, gleyt,  Sichtrüng, möchtte
-Alls haben, dieselben zu disputieren
-zu Strassburg oder anndern zim-
-lichen ortten, daruff Si Im geleyt erwerben
-Alls er sinab, gan Strasßburg
-kommen, haben Di Inn- gebetten,
-mitt inen zu disputieren, umb ge¬
-ge dachtten Schlüsßreden, darzu
-Ittlich edell, vnnd annder eren lütt inn euch ange-
-sucht, dasselb zethund, unnd
-Als er, allwäg sich gewi-
-drott, von mangells wegen des ge-
-heittes, Haben si, die von Strass-
+Doctor
+reden, gesatzt wider si / gesatzt/
+sich erbotten / 1 wo er  gleyt,  Sicherung / möchtte
+Alls haben / dieselben zu disputieren
+zuͦ Strassburg oder anndern zim//
+lichen ortten / daruͦff Si Im geleyt versprochen
+Alls er + hinab /  gan Strasßburg
+kommen / haben Di  "Si Inn" gebetten /
+mitt inen zuͦ disputieren, umb ge //
+Imm ge dachtten Schlusßreden / darzuͦ
+Ittlich "edell, vnnd annder" eren lütt inn euch ange/
+suͦcht / dasselb zethuͦnd / unnd
+Als er / allwaͤg sich gewi//
+drett / von mangells wegen des ge //
+leittes / Haben si / die von Strass //
 si gebetten inn, darz
-bürg ir Herrn angesucht,
-H Im Sicherung zuͦgeben
-alle im dasselb geben, das selb im ouch
-und allso verwilligett,
-völlichs er alles abgeschlagen
-Unnd fürgewändt, es sye im
-nitt gebürlich erleüpt- von sinem obren
-den Bischoff zu Strasßburg,
-Wiewol er, in sinem usszschriben
-der articlen dess nutzit gedacht, unnd gemein
-uff sollichs, si die predicanten
-An nun die Eydtgüssen, schrifftliche ein-war-
-ming gethan.
+buͦrg ir Herrn angesuͦcht /
+Da Im Sicherung zuͦgeben
+alle im dasselb geben, dasselb im ouch
+und allso verwilligett /
+wöllichs er alles abgeschlagen
+Unnd fürgewändt / es sye im
+nitt gebürlich "erlauͦpt" von sinem obren
+dem Bischoff zuͦ Strasßburg /
+Wiewol er / in sinem ussßschriben
+der articlen / dess nuͤtzit gedacht / unnd gemein
+uff sollichs / si die predicanten
+An nun die Eydtgüssen ein  "schrifftliche" war//
+nung gethan.

@@ -36,21 +36,4 @@ uß dem torst houf irs rechttik, so bedorff es
 komen red, des man hie sage, doch ir faren
 dasselben, die erkern.
 da, dann gang andern orten.
-welcher
-des
-de
-ihm
-aus
-H
-die
-unterthan
-und
-1
-von der
-worden
-aus
-wennen
-der
-statt
-15
 impeditus

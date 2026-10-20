@@ -1,6 +1,5 @@
 # Seite 278
 
-reden .
 spruch usß und kain getuͦn, also der im
 hatt herrn pfarr gefarnn.
 Bücher, in vergangen tagen, das
@@ -42,18 +41,4 @@ Meilig ward mych
 deß
 weill
 S.
-einem
-brüder
-ten
-einen
-ich
-den
-Den
-vor
-und
-S.
-frau >
-worten .
-und
-lohn .
 kein

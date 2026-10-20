@@ -34,10 +34,3 @@ spricht also sechend den spital nach dem fleisch
 ist es nitt, das die so essend, das opfer, sind
 gemeiner desz alters , das ist si habend all
 genemistaffel an eim alter, by dem si gott bitt.
-S.
-in
-15 .
-vum
-worden .
-vom
-es

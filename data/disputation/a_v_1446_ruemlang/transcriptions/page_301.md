@@ -18,7 +18,6 @@ Uli von Horg, 20. der irem epollenklich
 griß. Darum auch die Worte nicht gleich sind
 und wain, lüösen, daruß nitt wegen, onswungen
 pfarr Sant Peter, doch antwurt kurz: "Grüß hatt, ..."
-S.
 gatt.
 S.
 mals die göttlichen geistlichen Dinge mit unser

@@ -31,4 +31,3 @@ Vnsere
 gern ghein tag, namlich damitt unsern
 hernn noster, des hertzog Utrinum, den herren
 zu speciren wardrucken , iſt eirplich vnd
-S.

@@ -1,7 +1,5 @@
 # Seite 312
 
-1.
-C .
 und erst des ist, das desser uß der
 gen worten mittgemelt werd.
 zwüschen . So unser bruder anzeigt , wann wir mitt
@@ -37,13 +35,3 @@ werden, etc. Bor ist min liebiger, argwegen
 von der hand zu händißhu , laß ich schon
 ir derben , so habend si ſich erſtand an begäben .
 entsetzt, das das bion, nit wesen, doch
-ihm
-de
-beider
-haben .
-d .
-geben .
-geben .
-für
-Das
-libe

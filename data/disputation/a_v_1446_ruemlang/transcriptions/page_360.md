@@ -35,25 +35,4 @@ ut patronis hat verschluckt, die ...
 Davon die nam jeng, durch maister Ulrich
 angefürt, mitt sonder gebien, verglichen ouch
 S.
-ist
-einen
-ein
-wienacht .
-heute
-Zurich.
-redend
-um
-1
-seyn .
-das
-Ius
-für
-alß oben .
-14 fl .
-ihre
-kro
-in der
-kirchen
-fern
-ſie
 I

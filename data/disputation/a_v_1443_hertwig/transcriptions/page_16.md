@@ -17,7 +17,7 @@ ersten Artikell / wölle disputieren / den //
 selben woͤllen si / mitt grossen freuͤden
 Antwurtten / vnnd ges In dem namen
 Gottes /
-Demnach Sind ouch die Presidenten
+Demnach Sind / ouch die Presidenten
 beruͤfft /
 Anfangs / O?  von wegen der vier
 Bischoffen / Constantz / Basell /

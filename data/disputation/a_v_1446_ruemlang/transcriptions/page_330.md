@@ -1,6 +1,5 @@
 # Seite 330
 
-24.
 mitt all zuͦ hoͤrend, reg aber, der zuͦ denen, das
 Wom gstreidt ist, er saͤchs bi allen worten
 frucht bruch, wie den reht dasselbig in
@@ -35,27 +34,3 @@ die gloubig würtend, was irer predien
 in wort gehöre hattet , sonder ouch die vn
 gläubigen , wann nun das usserlich von
 des mitt in bräder, das er papist.
-weiters
-nichts
-weiß
-von
-für
-statt
-el
-Zeiten
-und
-8
-habe
-11
-in
-8
-28
-des
-und
-das
-der
-faire
-d
-des
-in diser
-33

@@ -1,7 +1,6 @@
 # Seite 297
 
 Gruͤssen.
-S.
 Damitt man uff der ban halb, so wol ich
 ettlich in red sparn bess uff sin zet, wolt
 gern, das der widerpartig, das ouch dät.

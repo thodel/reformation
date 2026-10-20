@@ -31,4 +31,3 @@ mit eygnem
 gottes wort bygebracht habend / das
 Die vierdt dem tod/ in den worten
 verheissen und von dem esse
-16.

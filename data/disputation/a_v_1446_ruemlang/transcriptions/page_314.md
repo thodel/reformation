@@ -1,6 +1,5 @@
 # Seite 314
 
-reden .
 domino spiritu patrum etc. Meo gloriam
 flaiszend von vatter gotz der sy in weltmütung
 Ich alsz nütz unspaͤrdig und onntesst ir, des
@@ -37,21 +36,3 @@ Wamb er den chrisß der gemeind astledigens
 und blyb Cristi Christo tat. Ir sye eren
 ac Ewen vnd ein liehman sind wie das
 mange, werck man her erstlich.
-etwas
-wider
-worden
-freunde
-parum
-15ten
-geben
-Hr
-dem
-haben
-wienige
-meiner
-d
-werden
-Ober
-es
-schaffen
-einen

@@ -37,9 +37,3 @@ hab, etc. Cuius fier vobis greffert, inest sol
 und nicht allein zu der Zeit der Sacramentempfang
 empfangen, solches Volk will er das
 allen ꝫcꝭ , sich und von an abgeſünden
-reden .
-S.
-der
-haben .
-das
-ein

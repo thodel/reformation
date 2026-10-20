@@ -3,21 +3,21 @@
 Rud
 24
 Ein warnung gethan
-habe er- Äschmachbüchlin,
-Daruff ein Büchlin lassen ußgan
-In wöllichem er
-Das wortt Cristi, Darzu
-gott wider
-Gott
-Einen Ratt zu
-Strasßburg
-geschmutzt, uff sollichs,
-predicanten-
-unnd ir
-lere Böhemßh, darzu se beyd, ein büchlin
-unnd kätzen
-zu zu entschull warhaffter ent ver-
-risch genant,
+Daruff "habe er"  ein Büchlin A Schmachbüchlin / lassen usßgan
+In wöllichem er gott wider gott
+Das wortt Christi / Darzuͦ
+einen Ratt zuͦ Strassßburg
+geschmutzt Vund ir lere Böhmisch
+und kätzerisch genannt
+Inen und der Statt
+zuͦ unschuld
+uff sollichs /
+Darzuͦ ir beyd "predicanten" ein buͤchlin
+zuͦ zu entschull warhafften und ver//
+antwuͦrtung des handells usßgehen usßtrucken lassen ihnen und der statt zuͦ entschuldigung
+Daruff ein dhein ant der
+Doctor dhein antwuͦrt geben /
+Uff sollichs sind si abgeverttigett
 antwürttung des handells, ussget ußtrucken
 Zuen, vnnd
 lassel

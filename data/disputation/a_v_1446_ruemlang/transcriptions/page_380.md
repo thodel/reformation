@@ -33,30 +33,3 @@ er inn beslassen, das ich ouch diser
 heruß kommen syg. Ouch nit, do er dienst
 bestossen, die sy inen kommen, och der
 I. von deß der tur bstlasse werend.
-12 .
-des
-heute
-Morts
-vber
-worten .
-mag hinweg
-einem
-handlen .
-15.
-ließen
-erfinden .
-an
-durch
-darum
-auch
-nach
-sontag
-deß
-nihil
-in
-alles
-16.
-das zu
-1788
-wider zur
-raliberiorum .

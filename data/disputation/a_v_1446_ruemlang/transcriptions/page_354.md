@@ -32,12 +32,3 @@ Blut für die Menge
 nachlässige der Sünd Hoff also unsere Brüder
 kernend, bas vor mitt dem spruch. Amen. 17. den
 die bestindung und rispüren gse, wenn
-jeder
-15 .
-und
-der
-Recht
-ein alte
-haben
-nichts
-✳

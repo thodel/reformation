@@ -1,6 +1,5 @@
 # Seite 366
 
-365
 Winglius, red, Saxonia, Hanns Sibend, Willend, ver-ouch
 anstigt, etc. Es ist matt 29. da tag des
 für falsiben geschech anzeigt , die ernd binach den wurden
@@ -36,18 +35,3 @@ das überschafft noch den übrißtritt wagen, sonder das
 das vast, ob hieher er tag an dem man, wenn
 gott dancken, diß überstrin, do er sie überhüpfft,
 hatt und da riepten erst gborne erscheyg.
-schlach
-dann
-weg
-soll .
-schne
-um
-und
-ein
-ist er
-darum
-den
-( wie
-und
-sitten .
-vor reission

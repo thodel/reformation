@@ -31,5 +31,3 @@ Gall. 3. von Spruch Pauli, usß unerstand
 mir gegen der kriechischen sprach, zuͦ wem
 ussstrellung, wie man mitt bruͦder hie vor
 ainain, so der sprach, das berichtet.
-S.
-171 .

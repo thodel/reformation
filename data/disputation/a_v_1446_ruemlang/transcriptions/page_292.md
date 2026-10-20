@@ -1,9 +1,5 @@
 # Seite 292
 
-29
-S.
-S.
-S.
 wilt suchen nach dem von Jung, Schipand aber den
 natürlichen verstand der Worte, damit sich kein derselb zu tag
 und thurn sin er belib, hierumb die ar zuͦ reden, wie

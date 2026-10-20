@@ -1,7 +1,6 @@
 # Seite 302
 
 im der worten nimmer und ritter, das ist
-S.
 in
 und inckumb alle danß, das ist nun glic
 mittelt.

@@ -36,8 +36,3 @@ S.
 maior genere. Weliches chrestianen
 schuldig zuͦ sin, welich uss
 sein
-ßen .
-kirchen
-klein
-in cute . Oscitatio .
-dubbelicht .

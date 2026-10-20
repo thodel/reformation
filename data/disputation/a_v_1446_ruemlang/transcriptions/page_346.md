@@ -39,28 +39,3 @@ K
 mitt er hatt, er ainen, das bluͦt. Ist wol
 de crede
 wüssen. Das wum inn krieg und ist nott
-S.
-S.
-S.
-S.
-kirchen
-schaffen .
-dann
-der
-idem
-ich
-aufn .
-den 16t
-von
-gangen .
-quoque
-in
-ſieht
-byg
-pfaff
-daß
-worden .
-jhren
-vor der
-Hans
-be

@@ -1,6 +1,5 @@
 # Seite 296
 
-24.
 und wer be
 hiemit .
 Kapopia

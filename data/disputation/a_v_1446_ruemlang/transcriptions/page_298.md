@@ -5,7 +5,6 @@ verhören ,
 sorten .
 Das vogt als er und pater in kloster, Christi
 trostis halb aber, Das da sie wie aſter angezogen gelles
-247 .
 der usslegend trapuͦs sin, der wir lygig in witzal
 anzenommen
 als davon gerett und geschrieben, laß ich
@@ -39,21 +38,3 @@ worten, etc. Illamen, das der herren worten
 bides. Dan es ir darvon sölen werden, der erst
 min lib, so vil soͤlle gelten, och des habint min lib
 och das ist mines lieb herren uff des der gewister
-haben
-die
-Herr
-in einer
-erkläuffig
-reſum
-und
-hatt
-bittib
-Zurich.
-daß
-15
-zum Prede
-peritatis
-Hans
-sein
-den
-den 16ten

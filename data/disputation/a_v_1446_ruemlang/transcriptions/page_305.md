@@ -34,4 +34,3 @@ weiber uffteilungen
 Der nachvolgett tret, dem
 von vmb Wustend ein brot und ein lib , drumb des
 wir von an broten und von ein keltz .
-171.

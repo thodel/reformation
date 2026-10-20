@@ -1,8 +1,8 @@
 # Seite 12
 
 vom porwesen
-Fundament der Ersten
 Bertalens Haller
+Fundament der Ersten
 Schlußred.
 Quod vnd frid von gott dem himelschen vatter
 Der well uns senden sin liecht vnd warheit in vnser

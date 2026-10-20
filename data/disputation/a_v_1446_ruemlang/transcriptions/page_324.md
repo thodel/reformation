@@ -1,6 +1,5 @@
 # Seite 324
 
-323
 Zurich.
 in Christi vorlangerg zuͦ verheissen, diewil und
 wie oder Alciris und Gasparique dester
@@ -34,20 +33,3 @@ si zeigend, etc. Das verlegman egenannten
 umb sein blos für unser sind zuͦ red
 gnad ewarind, ain nüntz sin, do die niencken
 der sind ab, dann so ir gar vertröwen wirt.
-24.
-sein .
-und
-der
-Heinrich
-Den
-15.
-wider
-C .
-fleiben .
-lib
-bei
-schulecht
-Ihnen
-zum
-lied
-quitt

@@ -26,4 +26,3 @@ hatt ) und also ist offenbarlich das das worn
 kompasier, liebwill usszeilung heisset, unnd des
 der paulen, unsern widersächern gantz nüt.
 zuͦ Peter und beweret.
-S.

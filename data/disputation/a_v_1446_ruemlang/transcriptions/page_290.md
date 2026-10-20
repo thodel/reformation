@@ -1,6 +1,5 @@
 # Seite 290
 
-S.
 Wie er waͤrdig, wa er mensch, so gsin
 veritatem
 Dergleichen umb wilder der vernüg gotheil
@@ -17,7 +16,6 @@ und under dem win, des bluͦt Christi usß
 goͤtlicher krafft lùt den win usgeritten
 werde.
 Christum. A. Hoffrauer, ich hörgen, das ir besond vallend
-S.
 Das schas worden ist nitt wesenlich gnommen
 darnach
 uff, das das der goͤtlichem

@@ -1,6 +1,5 @@
 # Seite 272
 
-1547.
 privatorum mihi sech.
 nach mittag.
 parer von s Rom̄ ebrisch , damitt und all werſchliweisende
@@ -35,18 +34,3 @@ Zwingli, unsers bruders, antwurt, befrömbdet uns
 das er mitt den dryen evangelischen berühren
 wil , das an diem ors verhepte werde
 des sacramentliß brot. Und das an dem 17.
-S.
-S.
-S.
-✳
-S.
-S.
-S.
-15.
-Zurich.
-S.
-1547.
-S.
-S.
-S.
-S.

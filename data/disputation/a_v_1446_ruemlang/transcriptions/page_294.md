@@ -1,6 +1,5 @@
 # Seite 294
 
-S.
 noch von üch waiß solche bewunniß.
 Khaner von S. Gallen uff des antwurt,
 süchen, die er gott, und den natüren pfand
@@ -33,16 +32,3 @@ das der lyb vnd das blůt
 grosen worten
 durch den glouben, bekand wir einmüttklich
 das alle muͤstung und so wer ußbringen, weßt und
-ihm
-1525 .
-15 .
-nichts
-habe
-ihm
-als
-und
-zu
-einem
-bei
-wieners
-und

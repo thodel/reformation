@@ -1,6 +1,5 @@
 # Seite 303
 
-S.
 schloss und wie ein muͦter.
 damitt alle anwäsendt brieffschickern vermittel .
 belleb sind wir uff der hinnagen, streffe, wort, al

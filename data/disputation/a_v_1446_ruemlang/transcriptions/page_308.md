@@ -2,7 +2,6 @@
 
 libgenommen .
 S.
-81
 Teilhafftigs ſind , nimpt nügt , am̄ pfand wir
 vos vosque venisse.
 sicȝ
@@ -38,22 +37,3 @@ umbgse, Elß üwer herren, wonder lüter deß
 S.
 niemant der warheit, etc. Es ist underlegen, wiewol ich
 uß kraft desselben punken tag her satz und wider
-des
-nichts
-S.
-ein fremde
-ein
-facere .
-Hans
-der
-ter
-von
-sollen .
-das
-ich
-an
-werden .
-ſich
-betre .
-Votre
-dises

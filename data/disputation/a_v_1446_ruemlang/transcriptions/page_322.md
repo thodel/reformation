@@ -1,7 +1,5 @@
 # Seite 322
 
-321
-S.
 Als ſie geweſen ſind , dann sich will zu ſtatten
 Deßhalb , was dönnlich gewißen ist
 muͤß lieber gspiech, so dost Christus das
@@ -39,16 +37,3 @@ fleisch, ist gar meyta nutz. Hie hoͤrend
 wirt offelicher, das irs alle gryt gnuͦg muͦß
 das der lebendig recht und zum fleiß
 (oder in daselbs von Kùnftig ver)
-d.
-S.
-S.
-S.
-S.
-S.
-S.
-S.
-S.
-s.
-S.
-S.
-S.

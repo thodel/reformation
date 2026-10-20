@@ -1,6 +1,5 @@
 # Seite 276
 
-reden .
 Unser vatter habend gsin hendler, in den
 wüßen , das ander brot ihn des vort gegen alß
 sich lehens besygt von gotzsumm gemelstet.
@@ -33,18 +32,3 @@ Der wort gantz etc. Uff das sacrament
 evangelistis, diewil in bybliopam
 gans christelich, klich diss ist min wai
 und ist über ihr vorn doch 60 fl .
-unter
-1
-wider
-so
-Fleck
-tragen
-worden
-und
-seines
-uns
-der
-worten
-und
-sein
-per

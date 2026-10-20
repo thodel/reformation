@@ -1,6 +1,5 @@
 # Seite 286
 
-S.
 aber, wie es ouch der Paulus nempt sol,
 es heissen comminio, das ist gemeinßhaffte
 Wir, ob ouch attiner, der altz gebrüder, habend
@@ -36,5 +35,3 @@ wir in wertze vergung, der sind 2
 wellichen worten, das wonn ist, das
 wesen anzeigen , vff das inqunem̄
 von dem rauͦff ist mercklichem verstandig.
-vor der
-de

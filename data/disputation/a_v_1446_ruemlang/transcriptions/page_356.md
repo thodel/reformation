@@ -11,9 +11,6 @@ wir uff den tod Christi verlassen sind
 stat also noch vest. Vos eüngsten wenig ewig
 nit in geret, so och Badenuß sin fellig
 hinweg .
-von
-14 .
-en
 pfarr. Das hie brot und wenn soͤlichs allenn
 bekennen wir nochmals nitt , plesend ins
 also vff unser superogne erlädig s vnd

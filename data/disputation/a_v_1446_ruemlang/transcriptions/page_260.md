@@ -1,6 +1,5 @@
 # Seite 260
 
-der
 und spruchend ußn. Nollig Jesu, der sun
 gesags, diß vater und muͦter wirt erkantend.
 In welchem worten wer verstand, das die juden
@@ -34,23 +33,3 @@ ein leide besatz, den der zuͦ im kommen
 muge, zuͦ recht ist, es hat
 Grib syent er.
 gesen, so wil
-de
-dica
-S.
-der
-den
-die
-20
-nun
-des
-1687
-genaturen
-hat
-des
-78
-ett
-G
-Bey
-vor 1687
-umb
-iben

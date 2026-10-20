@@ -24,7 +24,7 @@ red unnd antwürtt geben /
 Ittlich von Augspurg / habten sich erluthert
 wie si von dheiner Oberkeyt // +
 abgevertigett "zuzelosen" woͤllen zuͦlosen /
-unnd haben die erste Schlusßred, be-
+unnd haben die erste Schlusßred, be//
 staͤttigott //
 von Von Strassburg wegen / Ist erschinen
 Doctor Capito, unnd doctor Buͤcerus

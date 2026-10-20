@@ -11,18 +11,18 @@ da
 Steinhowser
 gestallte
 H.
-H. Urban Boumgartner,
+H. Urban Boumgartner /
 Capplan zu Sant Vincentzen
-Her Hanns Läschenmacher, gere
-gibt inn / gerecht, unnd guͦtt /
+Her Hanns Täschenmacher, gere
+gibt inn / gerecht / unnd guͦtt /
 Herr Dimmitte, consentiert absens /
 Michell
 Herr Cristan Schaller, bekennt fuͤnf
-vol gerecht, vnnd guͦtt, vnd gegründt
+vol gerecht, vnnd guͦtt / vnd gegründt
 im wortt gottes /
 +destermin /
 Herr Wallther / ouch /
-+gewallt Inn
++gevaͤllt Im
 der nitt
 desßhalb wol
 sye

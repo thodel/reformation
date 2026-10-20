@@ -33,22 +33,3 @@ mit lutt moegen, und so ich der er der
 sie ein
 herren von Bern richten, ververent, darselbent
 och stäter, hatt er nitt die von Bern gschlagen.
-præs .
-5
-freunde
-arm .
-und
-fran .
-14 lb .
-laß
-pfahrer
-vom
-mitt
-ſich
-den
-schriben .
-zu
-durch
-der
-nach
-kro

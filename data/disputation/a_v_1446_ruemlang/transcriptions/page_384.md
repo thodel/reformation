@@ -29,27 +29,3 @@ gottes wort vorbehelft haben. Und hiemit minem mätt
 hoff. So anders jetz gesessen, nöten uffgelegt, nit
 abgebrunnen haben, eelt sol ege alles in sinem
 gottlicher erlingigung und den churfürsten diser.
-S.
-hingegen
-den
-von
-dienen
-alle
-Walder
-in
-.
-15.
-in
-Freunde
-vnd
-Den
-Wiesen
-worden
-Juli
-sein
-praesens
-biß
-werde
-tu nichts
-den
-sie

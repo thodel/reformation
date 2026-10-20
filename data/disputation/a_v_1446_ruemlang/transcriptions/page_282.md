@@ -1,6 +1,5 @@
 # Seite 282
 
-reden .
 herrn
 Sontag
 Uff davor er unß herr doctorus
@@ -38,12 +37,3 @@ in auch bestamens , siguren und bedür-
 insam, erhaber im nüwer. So vil und
 mögen und eptissin, liegt under schiedend, gracht
 werd₎ söllend, uff den gnaͤg.
-zu
-ob
-r
-von
-selig .
-der
-wo
-Ihn
-der

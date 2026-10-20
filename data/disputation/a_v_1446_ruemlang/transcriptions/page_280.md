@@ -1,6 +1,5 @@
 # Seite 280
 
-reden .
 mir, so vil, minen ersamen, weisen herren
 für wol schryben, wie zuͦ schryben an land
 dargelichen, zuͦ stymett den erlich paulus
@@ -33,25 +32,3 @@ der 7. samstag diß herrn nachtals
 damitt wer dehein gschickter und vryster
 eines
 lieber, doch gepfachen, eß mag, das er yetz
-wesen .
-Zurich.
-1526 .
-ihm
-uf der
-ne dr
-und weite
-ordnung
-des
-plich
-der
-males .
-14
-ein
-das
-5
-durch
-der
-werden .
-nüt .
-jura
-seinem

@@ -1,6 +1,5 @@
 # Seite 340
 
-der
 also lütend, und er hatt genommen den
 Kelch, hatt danckgesagt vnnd jn jnen gegeben.
 sprechende, trinckend darvon all, das ist myn
@@ -34,18 +33,3 @@ wolte, das ist min lieb, so ouch inzogen und
 worden gegen deß alt gstan moͤcht man, hee ouch
 antwurt enpfer.
 haben und were billig .
-bei
-den
-reden .
-ein
-15
-Den
-hero
-und
-solle .
-et
-tuus
-und
-< 16 ✳
-gantz
-ibus

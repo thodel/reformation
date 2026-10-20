@@ -1,6 +1,5 @@
 # Seite 320
 
-1544.
 Habend zuͤ obtm pfrucht den verheißung , welicher
 uns mitt wesen und der werch sinē metzgericht
 und wie des bedürfen wirt, ze ermitteln sin
@@ -32,12 +31,3 @@ anderen weg den mynen und unsern under
 pansig hören.
 Pfarrer Kunnert ich einen das erinnerg bescheinen dürten
 uswendege mich kan ich nit vernemen
-d .
-seine
-in
-das
-dem
-den
-wider
-des
-das
