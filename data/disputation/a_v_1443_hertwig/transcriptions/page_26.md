@@ -1,26 +1,25 @@
 # Seite 26
 
 25
-zubeharren, vnnd Jren zuerwartten, mitt
-Inen zuhandlen,
-Darzu erboten ob Jemand ver-
-meindte Ja lere zu Strassburg
-uncristanlich sin, dieselb zuverant-
-wurtten,
-Ist angestellt, diewyl
-der doctor demnach kommen,
-Sampt
-An, der predicant, sich er-
-sinem ge-
-stellenn.
-luttrott, die Schlusßreden, Cri-
-stanlich, unnd wol gegründt
-zu Ulm-
-habe die gepredigott, vnnd
-in
-sich erlüttrott, vnnd approbiert biss uff den vierden artickel
-" Haben die predicanten angezüg-
-lemmingen, Jr Herrn von
+zubeharren / vnnd Jren zuͦerwartten/ mitt
+Inen zuͦhandlen /
+Darzuͦ erbothen ob Jemand ver-
+meindte Jr lere zuͦ Strassburg
+unchristenlich sin / dieselb zuverant//
+wurtten /
+Ist angestellt / diewyl
+der doctor demnach kommen/
+Ulm/der predicant V sampt sinem gesellen / ouch er //
+luttrett / die Schlussreden / Chri//
+stenlich / und wohl gegruͤndt
+sin / habe die ͥ" zu ulm" gepredigett unnd
+sich erlütteret unnd approbieret bisß uff den vierden artickel/
+Memmingen/ " haben die predicanaten angezeygt" ir Herren von
+Memmingen /haben sie geverttiget
+zuͦzuhoͤrren / unnd diewyl der erst ar//
+tikel noch in der schrifft ge//
+gründt bekennen sie denselben / fur guͦtt
+und unnd  unge gerecht
 Ir namen
 Neinungen, haben si geüerttigott
 In der

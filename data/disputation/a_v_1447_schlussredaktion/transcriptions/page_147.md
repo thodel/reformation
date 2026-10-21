@@ -1,23 +1,21 @@
 # Seite 147
 
 „ immen
-Was die Cristenlichen kilch
-schrifft
-vnnd verstat aber
-angenomen hab /
+schrifft. Was die Cristenlichen kilch
+angenomen hab / vnnd verstat aber
 hie durch die kilch Das gemein con //
-clium Dauch vnd gemeinen huffen /der
-getoͤufften / wellich offt gestrax / wider das
-wort gottes gehandelt  haben / schwere Ir//
-thumb vnnd abgoͤtlichen angenomen wie
-Das Im nachvolgenden artigkell / Diser
+cilium Durch vnd gemeinen huffen /der
+getoufften / wellich offt gestrax / wider das
+wort gottes gehandlet haben / schwere Ir //
+thumb vnnd abgoͤtheryen angenomen wie
+das Im nachvolgenden artigkell / Diser
 Disputation / mit dem haͤlen wort gotes /
-So hat auch das
-bybracht werden soll /
-Concilium zuͦ Costantz Juͤngst gehalten / allß
-ketzerisch verdamnet / Das die Christen //
+bybracht werden soll / So hat ouch das
+Concilium zuͦ Costantz Jungst gehallten / allß
+ketzrisch verdamnet / Das die Christen //
 das mir
-lich gemeind / siend nun die verordneten /
+lich gemeind /
+siend nun die verordneten /
 zum ewigen laben / So doch sant paulus
 mit aller gschrifft / zum Rhoͤmern am  viii
 cap: geschriben hat / welche der her
