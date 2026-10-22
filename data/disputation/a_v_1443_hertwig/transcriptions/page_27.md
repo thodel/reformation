@@ -43,6 +43,6 @@ haltten
 wie die
 Predicanten gelert und" erlüttert haben" haben, wölle
 der
-Der Apt  von Truͦob, Hatt den
-Artickell / für gerecht / gutt, unnd ,, cri-
+Der Apt  von Truͦb, Hatt den
+Artickell / für gerecht / guͦtt, unnd hat den ,, cri-
 stnlich erkandt /

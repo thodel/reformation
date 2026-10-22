@@ -1,11 +1,11 @@
 # Seite 34
 
-von
+A von
 dem
 Haupt
 der kil-
-chen,
-Bychtnatter,
+chen/
+Bychtvatter,
 Anfangs, Alls er verwilligett, das Cristus
 Vnser houptz sye,
 einig-
@@ -14,39 +14,35 @@ stucken, vnnd schrifften vorgemeldott
 begriffen, im uss der schriffte erz zu-
 erzoigen, das Cristus das einig haupt
 sye,
-zow
-Jerr
-Verchstolld geantwürte
-Der guott Herr, Hatt zu gutten
-mußer
-teyl die beschlussred bestättigott,
-Schriffte,
-mitt vier spruchen, der
+Darzuͦ
+Herr
+Berchtold geantwuͦrtet
+Der guͦott Herr / Hatt zuͦ gutten
+"unser"
+teyl die beschlussred bestaͤttigett /
+gchrifft /
+mitt vier spruͤchen / der
 „grossen,
-dess ich Jm gutten danck weissen,
+desß ich Jm gutten  / danck weisß /
 wie Cristus des Influss halb
-sye das Houpt der Cristolichen gemeinde,
+sye das Houpt der Cristlichen gemeinde /
 wir
-doch so manglet nicht das Si spächen
-Er sye ein einich houpt, diewyl
-„Sprüche„
-doch zunein¬
-In deheinem Schüfft
-gezogen, das wörttli einig gemell¬
-Grib Ich Im zu antwürt
-dott werden.
-Das nach eignem ermassen der Schrifft
-der
-hafft des Houpts, Dinem
-und eygevn
-der gloübigen verständigen Ist-
-verstande, das Cristus
-ist
-Jeden-
-sye das Gynich Houpt, dan
-Petrus Schribt zu den Ephesern
-selbs
-Das Cristus Sye, ein Heiland
-sto
-sines lybs, damit mag sollichs, deheiner
-Creatur zugemassen werden, Petrus
+doch so manglet im das Si spraͤchen
+Er sye ein einich houpt / diewyl
+„Spruch„
+durch ihn  ange //
+In deheinem Schrifft
+gezogen A das wörttli einig gemell//
+Gib Ich Im zuͦ antwort
+dett wird.
+Das nach eignem ermaͤssen der Schrifft
+und der eygenschafft des houptes/einem
+jeden der
+"der glaͤubigen verständig Ist"
+das Cristus sye
+das einich houpt / dann
+Petrus Schreibt zuͦ den Ephesern
+5 ͦ
+Das Cristus  selbs Sye, ein Heiland
+sines lybs / darum mag sollichs / deheiner
+Creatur zugemaͤssen werden / Petrus

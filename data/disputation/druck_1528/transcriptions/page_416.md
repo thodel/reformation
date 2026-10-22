@@ -3,8 +3,8 @@
 Die ſechſte
 verdampt / vnd wirt hie Abraham / nitt fuͤr ſin Perſon
 angezogẽ / ſond’ / wie gſagt iſt / Bedütet die perſon gottes.
-Am xvij. tag ward nit gediſputiert.
-Vff den xxviij. tag Jenners.
+Am xxij. tag ward nit gediſputiert.
+Vff den xxiij. tag Jenners.
 Johannes Buͤchſtab.
 [D]En ſpruch Luce am xvj. von herrn Gilgen fuͤr
 getragen / laß ich alſo Beliben. Hat wyter im ſel

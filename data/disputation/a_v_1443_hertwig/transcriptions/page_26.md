@@ -3,7 +3,7 @@
 25
 zubeharren / vnnd Jren zuͦerwartten/ mitt
 Inen zuͦhandlen /
-Darzuͦ erbothen ob Jemand ver-
+Darzuͦ erbothen ob Jemand ver/
 meindte Jr lere zuͦ Strassburg
 unchristenlich sin / dieselb zuverant//
 wurtten /

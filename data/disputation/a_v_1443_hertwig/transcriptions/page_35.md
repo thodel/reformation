@@ -1,67 +1,66 @@
 # Seite 35
 
 1
-1.
-syen nitt v. unser Heiland der Babst, nitt
-1 Sunders
-unnser Heiland, so erluttroff
-Klein
-Cristus,
+sye nitt unser Heiland der Babst/ nitt
+Sunders
+unnser Heiland A so erluttertt
+allein
+Cristus /
 doch der
-Appostell, das Cristus
+Appostell / das Cristus
 unnd ob
-darum ein-
-„62„
-wol, das
+"darum ein"
+„er„
+wohl / das
 dat houpt sye, das sinem lyb
 wörtli
-des Heil gebe,
-einig,
-Daruon lieber Vatter,
+das Heil gebe/
+einig
+Darum lieber Vatter /
 mitt
-ssen Im
-geben Cristo die ere, das er ein
+lasse Im
+gebe Cristo die ere / das er ein
 wortten
-eliben
-nitt ge-
+beliben
+nitt ge//
 das einich Houpt seye, Es sye dan,
-melldott
-das er mitt Schriffte darbringe,
+melldett
+das er mitt Schriffte darbringe /
 das einicher Createur, die eygenschafft
-mög zugelegt werden.
+moͤg zuͦgelegt werden /
 /
 herr
-Daruff der lychtnatter geantwurtt,
+Daruff der Bychtvatter geantwurtt //
 Berchtold
-Des ersten, habe der predicant
+Des ersten / X habe der predicant im
 Habe Jm
 „vnnd bin¬
-ein ant-
-gedanckett, darby Er sye „ gon nitt
-württ
+ein ant //
+gedanckett /  darby Er sye „ unnd bin" gar nitt
+wuͦrtt
 geben
-ristus des Influss
-darwider, das
+Cristus der Influss
+darwider / das
 die er Im
-„ gna drÿch„
-selbs vor sÿe, vnnd das leben der gemeinen
-geben,
-nistanlich kilchen, von dem aller
+„ gna drych„
+selbs vor sye / vnnd das "gnadenrych"leben der gemeinen
+geben /
+Christenlichen  kilchen / von dem alle /
 sovil zu
 darin
-gutt, das
-nad hausflüsst, das heupt
-der Jm
-stande, nitt allein, uff dem mönschlichen
-dancke.
-lyb, das es Jm, darüber leben allein
-Infliessen sölle, Es hatt ouch, die
-ey genschafft, den lyb zurepieren
-In sinen usseren wercken, unnd
+gutt / das
+Gnad haus zu flüsst / das houpt
+er Jm
+stande / nitt allein / uff dem möntschlichen
+dancke/
+lyb / das es Jm  das laͤben allein
+Infliessen soͤlle / Es hatt ouch / die
+eygenschafft / den lyb zuͦregieren
+In sinen ussßeren wercken / unnd
 So nun Cristus
-vobingen,
-sin sichtbarlichen lyblichen gegen-
-württikeyt, wolt uff nämmen,
-in den Himmell, beducht inn guott,
-hatt es ouch gethan, das er, Sneini-
-gen lyb, das Ist der Heiligen Cru
+uͤbingen /
+sin sichtbarliche lybliche gegen //
+wuͦrttikeyt / wolt uff nämmen /
+in den Himmell / beduͦcht inn guͦtt /
+hatt es ouch gethan / das er, Sneini-
+gen lyb / das Ist der Heiligen Cri

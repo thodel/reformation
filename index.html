@@ -941,6 +941,24 @@
       padding: 0.25rem 0.7rem; border-radius: 999px; border: 1.5px solid rgba(26,58,107,0.3);
       background: #fff; color: #1a3a6b; }
     .ub-tools button:hover { background: rgba(26,58,107,0.06); }
+    .ub-mode { display: inline-flex; border: 1.5px solid rgba(26,58,107,0.3); border-radius: 999px;
+      overflow: hidden; }
+    .ub-mode button { font-family: var(--font-body); font-size: 0.8rem; cursor: pointer;
+      padding: 0.3rem 0.8rem; border: 0; background: #fff; color: #1a3a6b; }
+    .ub-mode button + button { border-left: 1.5px solid rgba(26,58,107,0.3); }
+    .ub-mode button.active { background: #1a3a6b; color: #fff; }
+    .ub-mode button:focus-visible { outline: 2px solid rgba(251,191,36,0.85); outline-offset: -2px; }
+    .ub-day-quote { font-size: 0.85rem; color: var(--ink-soft); font-style: italic;
+      padding: 0.1rem 0.85rem 0.5rem; }
+    .ub-day-quote a { color: #1a3a6b; text-decoration: none;
+      border-bottom: 1px dotted rgba(26,58,107,0.4); font-style: normal; }
+    .ub-day-quote a:hover { border-bottom-style: solid; }
+    .ub-day-note { font-size: 0.88rem; color: var(--ink-soft); padding: 0.45rem 0.85rem;
+      margin-bottom: 0.5rem; border-left: 3px solid rgba(26,58,107,0.3); background: rgba(26,58,107,0.03); }
+    .ub-day-note b { color: #1a3a6b; font-weight: 700; }
+    .ub-day-note a { color: #1a3a6b; text-decoration: none; border-bottom: 1px dotted rgba(26,58,107,0.4); }
+    .ub-day-note.pause { border-left-color: rgba(0,0,0,0.2); color: #777; }
+    .ub-span { font-size: 0.78rem; color: #8a6d1f; white-space: nowrap; }
 
     /* Konkordanz */
     .conc { margin-top: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.3rem; align-items: center; }
@@ -1074,13 +1092,20 @@
 
   <div id="uebersicht" class="section-page">
     <h2 class="section-title">Übersicht</h2>
-    <p class="section-subtitle">Inhaltsverzeichnis des Drucks vom 23. März 1528.
+    <p class="section-subtitle">Inhaltsverzeichnis des Drucks vom 23. März 1528,
+      gegliedert nach Schlussrede oder nach Sitzungstag.
       Ein Klick öffnet die Seite mit Faksimile, Transkription und Übersetzung.</p>
 
     <div class="ub-controls">
+      <div class="ub-mode" role="group" aria-label="Gliederung">
+        <button type="button" id="ub-mode-thesis" class="active" aria-pressed="true"
+                onclick="setUebersichtMode('thesis')">Nach Schlussrede</button>
+        <button type="button" id="ub-mode-day" aria-pressed="false"
+                onclick="setUebersichtMode('day')">Nach Tag</button>
+      </div>
       <input type="search" id="ub-filter" placeholder="Titel und Inhalt durchsuchen…"
              autocomplete="off" aria-label="Inhaltsverzeichnis durchsuchen"
-             oninput="renderUebersicht(); updateSectionUrl('uebersicht', this.value.trim() || null);">
+             oninput="renderUebersicht(); updateUebersichtUrl();">
       <span class="ub-count" id="ub-count"></span>
     </div>
     <div id="ub-legend"></div>
@@ -2214,7 +2239,7 @@ function showSection(event, id) {
     updateSectionUrl(id);
   } else if (id === 'uebersicht') {
     initUebersicht();
-    updateSectionUrl('uebersicht');
+    updateUebersichtUrl();
   } else if (id === 'vergleich') {
     initVergleich();
     renderSimilarityMatrix();
@@ -4711,8 +4736,16 @@ async function showApparatusFor(unit) {
 // rather than a generated copy means a hand edit shows up on the next reload
 // with nothing to regenerate.
 const SEGMENT_TABLE = "data/segments/druck_1528_segments.tsv";
+// The print heads every session with its date - "Am xv. tag Jenners" - and
+// says once that no session was held. The day table lists these markers with
+// the page and line they stand on, plus the page range up to the next marker,
+// so the same segments can be read in the order of the days. It is a second
+// table rather than a column: fourteen segments straddle a day boundary.
+const DAYS_TABLE = "data/segments/druck_1528_days.tsv";
 const TOC_VARIANT = "druck-1528";
 let uebersichtRows = null;
+let uebersichtDays = null;
+let uebersichtMode = "thesis";
 
 function parseTsv(text) {
   const lines = text.split(/\r?\n/).filter((l) => l.length);
@@ -4738,7 +4771,68 @@ async function initUebersicht() {
     host.innerHTML = '<p class="vg-warn">Das Inhaltsverzeichnis konnte nicht geladen werden.</p>';
     return;
   }
+  try {
+    const resp = await fetch(DAYS_TABLE);
+    if (!resp.ok) throw new Error(String(resp.status));
+    uebersichtDays = parseTsv(await resp.text());
+  } catch (e) {
+    // Without the day table the thesis view still works; the switch just
+    // has nothing to show.
+    uebersichtDays = [];
+    const btn = document.getElementById("ub-mode-day");
+    if (btn) { btn.disabled = true; btn.title = "Die Tagestabelle konnte nicht geladen werden."; }
+  }
   renderUebersicht();
+}
+
+function setUebersichtMode(mode) {
+  uebersichtMode = mode === "day" ? "day" : "thesis";
+  document.querySelectorAll(".ub-mode button").forEach((b) => {
+    const on = b.id === `ub-mode-${uebersichtMode}`;
+    b.classList.toggle("active", on);
+    b.setAttribute("aria-pressed", on ? "true" : "false");
+  });
+  renderUebersicht();
+  updateUebersichtUrl();
+}
+
+// #/uebersicht            Schlussreden
+// #/uebersicht/nach-tag   Tage
+// a search term follows after a slash in either form.
+function updateUebersichtUrl() {
+  const query = (document.getElementById("ub-filter")?.value || "").trim();
+  // Built here rather than through updateSectionUrl, which would encode the
+  // slash between mode and search term.
+  const parts = [];
+  if (uebersichtMode === "day") parts.push("nach-tag");
+  if (query) parts.push(encodeURIComponent(query));
+  const hash = "#/uebersicht" + (parts.length ? "/" + parts.join("/") : "");
+  if (window.location.hash === hash) return;
+  if (window.history && window.history.replaceState) {
+    window.history.replaceState(null, "", hash);
+  } else {
+    window.location.hash = hash;
+  }
+}
+
+const MONTHS_DE = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli",
+  "August", "September", "Oktober", "November", "Dezember"];
+
+function formatDayDate(row) {
+  const [y, m, d] = row.date.split("-").map((n) => parseInt(n, 10));
+  return `${row.weekday}, ${d}. ${MONTHS_DE[m - 1]} ${y}`;
+}
+
+function thesesLabel(theses) {
+  const list = (theses || "").split(",").map((t) => t.trim()).filter(Boolean);
+  if (!list.length) return "";
+  return list.length === 1 ? `${list[0]}. Schlussrede` : `${list.join("., ")}. Schlussrede`;
+}
+
+function markerLink(row) {
+  const page = parseInt(row.marker_page, 10);
+  return `<a href="#/disputation/${TOC_VARIANT}/${page}"
+     onclick="event.preventDefault(); openTocSegment(${page});">S.&nbsp;${page}</a>`;
 }
 
 function renderUebersicht() {
@@ -4752,12 +4846,25 @@ function renderUebersicht() {
 
   const count = document.getElementById("ub-count");
   if (count) {
-    count.textContent = query
-      ? `${rows.length} von ${uebersichtRows.length} Abschnitten`
-      : `${uebersichtRows.length} Abschnitte, ${uebersichtRows.length ? uebersichtRows[uebersichtRows.length - 1].last_page : 0} Seiten`;
+    if (query) {
+      count.textContent = `${rows.length} von ${uebersichtRows.length} Abschnitten`;
+    } else if (uebersichtMode === "day") {
+      const sessions = (uebersichtDays || []).filter((d) => d.first_page);
+      count.textContent = `${sessions.length} Sitzungstage, ${uebersichtRows.length} Abschnitte`;
+    } else {
+      count.textContent = `${uebersichtRows.length} Abschnitte, ${uebersichtRows.length ? uebersichtRows[uebersichtRows.length - 1].last_page : 0} Seiten`;
+    }
   }
   if (!rows.length) {
     host.innerHTML = '<p class="ub-empty">Keine Abschnitte gefunden.</p>';
+    return;
+  }
+
+  const ubLegend = document.getElementById("ub-legend");
+  if (ubLegend) ubLegend.innerHTML = witnessLegend();
+
+  if (uebersichtMode === "day") {
+    host.innerHTML = renderUebersichtByDay(rows, query);
     return;
   }
 
@@ -4773,9 +4880,6 @@ function renderUebersicht() {
     groups[groups.length - 1].rows.push(row);
   }
 
-  const ubLegend = document.getElementById("ub-legend");
-  if (ubLegend) ubLegend.innerHTML = witnessLegend();
-
   host.innerHTML = groups.map((group, index) => {
     const label = group.key ? `${escapeHtml(group.key)}. Schlussrede` : "Vorspann und Nachspann";
     const first = group.rows[0].first_page;
@@ -4790,11 +4894,52 @@ function renderUebersicht() {
   }).join("");
 }
 
-function uebersichtItem(row) {
+// One group per day, in the order of the calendar. A segment that runs across
+// a day boundary is listed under both days, marked with the pages that belong
+// to this one. Days without a session - arrival, the opening, the one pause -
+// keep their place in the sequence as a note.
+function renderUebersichtByDay(rows, query) {
+  const days = uebersichtDays || [];
+  let out = "";
+  let openedFirst = false;
+  for (const day of days) {
+    const first = parseInt(day.first_page, 10);
+    const last = parseInt(day.last_page, 10);
+    const isPause = /nit gedi/i.test(day.printed);
+    if (!day.first_page) {
+      if (query) continue;
+      out += `<div class="ub-day-note${isPause ? " pause" : ""}">
+        <b>${escapeHtml(formatDayDate(day))}</b> · «${escapeHtml(day.printed)}» (${markerLink(day)})
+        ${day.note ? ` – ${escapeHtml(day.note)}` : ""}</div>`;
+      continue;
+    }
+    const hits = rows.filter((r) => parseInt(r.first_page, 10) <= last && parseInt(r.last_page, 10) >= first);
+    if (!hits.length) continue;
+    const open = query || !openedFirst ? " open" : "";
+    openedFirst = true;
+    const theses = thesesLabel(day.theses);
+    out += `<details class="ub-group"${open}>
+      <summary>${escapeHtml(formatDayDate(day))}${theses ? ` · ${escapeHtml(theses)}` : ""}
+        <span class="ub-group-meta">${hits.length} Abschnitt${hits.length === 1 ? "" : "e"} · S.&nbsp;${first}–${last}</span>
+      </summary>
+      <div class="ub-day-quote">«${escapeHtml(day.printed)}» (${markerLink(day)})${day.note ? ` – ${escapeHtml(day.note)}` : ""}</div>
+      <div class="ub-group-body">${hits.map((r) => uebersichtItem(r, first, last)).join("")}</div>
+    </details>`;
+  }
+  return out || '<p class="ub-empty">Keine Abschnitte gefunden.</p>';
+}
+
+function uebersichtItem(row, dayFirst, dayLast) {
   const first = parseInt(row.first_page, 10);
-  const pages = row.first_page === row.last_page
+  let pages = row.first_page === row.last_page
     ? `S.&nbsp;${escapeHtml(row.first_page)}`
     : `S.&nbsp;${escapeHtml(row.first_page)}–${escapeHtml(row.last_page)}`;
+  if (dayFirst !== undefined) {
+    const last = parseInt(row.last_page, 10);
+    if (first < dayFirst && last > dayLast) pages += ` <span class="ub-span">S. ${dayFirst}–${dayLast} an diesem Tag</span>`;
+    else if (first < dayFirst) pages += ` <span class="ub-span">ab S. ${dayFirst}</span>`;
+    else if (last > dayLast) pages += ` <span class="ub-span">bis S. ${dayLast}</span>`;
+  }
   const title = row.title
     ? escapeHtml(row.title)
     : '<span class="ub-untitled">ohne Titel</span>';
@@ -4871,11 +5016,23 @@ function applySectionUrl(params) {
   if (params.id === "ressourcen") {
     initRegister();
   } else if (params.id === "uebersicht") {
-    initUebersicht();
-    if (params.extra) {
-      const input = document.getElementById("ub-filter");
-      if (input) { input.value = params.extra; renderUebersicht(); }
+    let extra = params.extra || "";
+    let mode = "thesis";
+    if (extra === "nach-tag" || extra.startsWith("nach-tag/")) {
+      mode = "day";
+      extra = extra.slice("nach-tag".length + 1);
     }
+    if (extra) {
+      const input = document.getElementById("ub-filter");
+      if (input) input.value = extra;
+    }
+    uebersichtMode = mode;
+    document.querySelectorAll(".ub-mode button").forEach((b) => {
+      const on = b.id === `ub-mode-${mode}`;
+      b.classList.toggle("active", on);
+      b.setAttribute("aria-pressed", on ? "true" : "false");
+    });
+    initUebersicht();
   } else if (params.id === "suche" && params.extra) {
     let query = params.extra;
     const withLevel = query.match(/^(.*)\?u=(auto|[0-5])$/);

@@ -1,6 +1,6 @@
 # Seite 40
 
-Piesto, In sillen Martinis Buzer von Strassburg
+Cristo, In sillen Martinis Buzer von Strassburg
 Gnädigen Herrn, Lieben bruder Jm Herrn
 Demnach die ordnung miner gnaͤdigen Herrn
 vermag / das waͤr etwas zuerlüttung der war //
