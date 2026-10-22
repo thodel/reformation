@@ -8,7 +8,7 @@ Corherrn
 H. hanns Heinrich
 gelycher
 da
-Steinhowser
+Steinhower
 gestallte
 H.
 H. Urban Boumgartner /

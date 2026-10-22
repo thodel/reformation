@@ -1,12 +1,5 @@
 # Seite 356
 
-Catetenn
-Henn
-wch
-Das
-apostet
-den trink
-148
 Die vierd schlussend
 das wir erkennen, sinen weg, Amen, So nu
 die viere scheuswe lutter Das der lijs vnnd Das
