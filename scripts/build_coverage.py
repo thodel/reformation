@@ -23,6 +23,13 @@ Markdown-Überschrift - dieselbe Schwelle wie in den Stützpaketen (P2) und
 in der Lesehilfe des Viewers (P4). Ein Stub "# Seite 12" ohne Körper ist
 keine Transkription; er sah im Viewer lange wie eine aus.
 
+Gezählt wird nur Text auf BESCHRIEBENEN Blättern. Ein HTR-Lauf in
+Transkribus erkennt auch auf leeren Blättern etwas - "Monsieur les",
+"DATES DES ACTES", "4 hlr ." - und der Sync vom 17.10.2026 brachte so für
+A V 1446 553 Seiten mit Text bei 547 beschriebenen Blättern, 101 %. Solche
+Seiten zählen nicht mit, stehen aber als `text_auf_leeren` in der Datei,
+damit der Müll sichtbar bleibt statt stillschweigend zu verschwinden.
+
 Die Zahlen werden VERSIONIERT (anders als die Stütz- und t2i-Pakete): der
 Viewer kann sie zur Laufzeit nicht selbst zählen, ohne 3 666 Dateien zu
 laden. Gegen das Drift-Risiko einer zweiten Wahrheit steht ein Test, der
@@ -99,12 +106,17 @@ def build() -> dict:
         entry = {"transkribiert": len(tr)}
         scores = ink.get(witness, {})
         if scores:
-            # Handschriften: die Tintenmessung kennt den ehrlichen Nenner.
+            # Handschriften: die Tintenmessung kennt den ehrlichen Nenner -
+            # und denselben Nenner muss der Zähler meinen. Text auf einem
+            # Blatt, das die Messung leer nennt, ist Erkennungsrauschen.
             beschrieben = sum(1 for v in scores.values() if v >= INK_BLANK)
+            auf_beschriebenen = {p for p in tr if scores.get(p, 1.0) >= INK_BLANK}
+            entry["transkribiert"] = len(auf_beschriebenen)
+            entry["text_auf_leeren"] = len(tr) - len(auf_beschriebenen)
             entry["blaetter"] = len(scores)
             entry["beschrieben"] = beschrieben
             entry["leer"] = len(scores) - beschrieben
-            entry["anteil_beschrieben"] = (round(len(tr) / beschrieben, 4)
+            entry["anteil_beschrieben"] = (round(len(auf_beschriebenen) / beschrieben, 4)
                                            if beschrieben else 0.0)
         # Drucke bekommen hier KEINEN Nenner: die Seitenzahl des
         # digitalisierten Exemplars steht bereits in der Zeugentabelle des

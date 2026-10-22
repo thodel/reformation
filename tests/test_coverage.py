@@ -42,6 +42,29 @@ def test_handschriften_tragen_beide_nenner():
             "entweder zählt eine Leerseite falsch oder der Nenner ist kaputt")
 
 
+def test_text_auf_leeren_blaettern_zaehlt_nicht():
+    """Ein HTR-Lauf erkennt auch auf leeren Blättern etwas ("Monsieur les",
+    "4 hlr ."). Der Sync vom 17.10.2026 brachte A V 1446 so auf 553 Seiten
+    mit Text bei 547 beschriebenen Blättern. Solche Seiten gehören nicht in
+    den Zähler, aber sichtbar in die Datei.
+
+    Geprüft als Eigenschaft, nicht als Zahl: Seiten mit Text sind genau die
+    Summe aus gezählten und auf leeren Blättern verworfenen.
+    """
+    data = json.loads(COVERAGE.read_text(encoding="utf-8"))["witnesses"]
+    ink = json.loads((ROOT / "data" / "disputation" / "ink_coverage.json")
+                     .read_text(encoding="utf-8"))["witnesses"]
+    bases = dict(build_coverage.WITNESSES)
+    for key in MANUSCRIPTS:
+        mit_text = build_coverage.transcribed_pages(bases[key])
+        leer = {int(p) for p, v in ink[key].items() if v < build_coverage.INK_BLANK}
+        entry = data[key]
+        assert entry["text_auf_leeren"] == len(mit_text & leer), key
+        assert entry["transkribiert"] == len(mit_text - leer), key
+    # Der Fall, der den Test nötig machte, steht noch in den Daten.
+    assert data["a_v_1446_ruemlang"]["text_auf_leeren"] > 0
+
+
 def test_drucke_bekommen_keinen_eigenen_nenner():
     """Die Seitenzahl steht in der Zeugentabelle; hier waere sie die zweite
     Wahrheit, gegen die dieses Skript sonst antritt."""
@@ -53,15 +76,22 @@ def test_drucke_bekommen_keinen_eigenen_nenner():
 
 
 def test_der_befund_aus_70_steht_noch():
-    """Vier Abschriften weit unter der Haelfte, A V 1447 fast vollstaendig.
+    """Drei Abschriften weit unter der Haelfte, zwei fast vollstaendig.
 
     Kippt das, ist entweder Text dazugekommen (dann gehoert #70 neu
     bewertet) oder die Messung ist kaputt - beides will gesehen werden.
+
+    So geschehen am 17.10.2026: der Transkribus-Sync holte 1465 Dateien
+    fuer A V 1446 Ruemlang, einen HTR-Lauf ueber alle 561 Blaetter, und
+    hob die Handschrift von 70 auf 547 erkannte Seiten. Erkannt heisst
+    nicht ediert - das sagt der Vorbehalt im Viewer - aber der Befund aus
+    #70 gilt fuer Ruemlang nicht mehr.
     """
     data = json.loads(COVERAGE.read_text(encoding="utf-8"))["witnesses"]
-    for key in MANUSCRIPTS[:4]:
+    for key in ["a_v_1443_hertwig", "a_v_1444_cyro", "a_v_1445_schoeni"]:
         assert data[key]["anteil_beschrieben"] < 0.5, key
-    assert data["a_v_1447_schlussredaktion"]["anteil_beschrieben"] > 0.9
+    for key in ["a_v_1446_ruemlang", "a_v_1447_schlussredaktion"]:
+        assert data[key]["anteil_beschrieben"] > 0.9, key
 
 
 def test_schwelle_ist_die_der_lesehilfe():
