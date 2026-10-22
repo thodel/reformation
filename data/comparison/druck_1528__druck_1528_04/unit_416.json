@@ -8,7 +8,7 @@
       477
     ]
   },
-  "alignment_score": 0.3971,
+  "alignment_score": 0.4163,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 6,
     "only_a": 6,
     "only_b": 2,
-    "similarity": 0.475,
+    "similarity": 0.4916,
     "pairs": [
       {
         "op": "only_b",
@@ -43,9 +43,9 @@
       },
       {
         "op": "match",
-        "a": "Am xvij. tag ward nit gediſputiert. Vff den xxviij. tag Jenners. Johannes Buͤchſtab. [D]En ſpruch Luce am xvj.",
+        "a": "Am xxij. tag ward nit gediſputiert. Vff den xxiij. tag Jenners. Johannes Buͤchſtab. [D]En ſpruch Luce am xvj.",
         "b": "wie gesagt\nist/bedütet die person gottes. Am xxij.tag ward nit gedisputiert. Vff den XXIII. tag Jenners. Joannes Bůchstab.",
-        "similarity": 0.45
+        "similarity": 0.55
       },
       {
         "op": "match",
@@ -116,7 +116,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.4897,
+    "similarity": 0.4979,
     "words": {
       "a": 257,
       "b": 229
@@ -169,28 +169,8 @@
       },
       {
         "op": "equal",
-        "a": "iſt Bedütet die perſon gottes Am",
-        "b": "ist bedütet die person gottes Am"
-      },
-      {
-        "op": "replace",
-        "a": "xvij",
-        "b": "xxij"
-      },
-      {
-        "op": "equal",
-        "a": "tag ward nit gediſputiert Vff den",
-        "b": "tag ward nit gedisputiert Vff den"
-      },
-      {
-        "op": "replace",
-        "a": "xxviij",
-        "b": "XXIII"
-      },
-      {
-        "op": "equal",
-        "a": "tag Jenners",
-        "b": "tag Jenners"
+        "a": "iſt Bedütet die perſon gottes Am xxij tag ward nit gediſputiert Vff den xxiij tag Jenners",
+        "b": "ist bedütet die person gottes Am xxij tag ward nit gedisputiert Vff den XXIII tag Jenners"
       },
       {
         "op": "replace",
@@ -578,7 +558,7 @@
         "b": "Ff ij"
       }
     ],
-    "ops": 46,
+    "ops": 44,
     "truncated": false
   }
 }

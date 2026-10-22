@@ -23,17 +23,17 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 12,
-    "matched": 1,
-    "only_a": 8,
-    "only_b": 3,
-    "similarity": 0.3265,
+    "units": 11,
+    "matched": 2,
+    "only_a": 7,
+    "only_b": 2,
+    "similarity": 0.3272,
     "pairs": [
       {
-        "op": "only_a",
+        "op": "match",
         "a": "Die vierde\nvierde Schlußred lutet/das der lyb vnd das blůt Chri\nſti weſenlich vnnd lyblich in dem brot der danckſagung/",
-        "b": null,
-        "similarity": 0.0
+        "b": "Die vierd schlussend\ndas wir erkennen, sinen weg, Amen, So nu\ndie viere scheuswe lutter Das der lijs vnnd Das\nblutt Christi wesenlich vnnd leblich In een Brot\nder dancksagung einfangen overden mog mit Bibli¬\nscher ysthrifft mitt bebracht werden.",
+        "similarity": 0.3279
       },
       {
         "op": "only_a",
@@ -57,12 +57,6 @@
         "op": "only_a",
         "a": "keyne andern Predigern anzenemen/dann ſo Chriſtus\nhat verordnet: dann niemand anderſt den vatter erken\nnet/dan der Sun/vnd wäm ers hat eroffnet/hats ouch\nniemand dann ſinen Apoſtlen/die er hat vßgeſandt zů\npredigen/das er jnen durch den geyſt hat eroffnet.",
         "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "Catetenn\nHenn\nwch\nDas\napostet\nden trink\n148\nDie vierd schlussend\ndas wir erkennen, sinen weg, Amen, So nu\ndie viere scheuswe lutter Das der lijs vnnd Das\nblutt Christi wesenlich vnnd leblich In een Brot\nder dancksagung einfangen overden mog mit Bibli¬\nscher ysthrifft mitt bebracht werden.",
         "similarity": 0.0
       },
       {
@@ -104,17 +98,12 @@
     ]
   },
   "fine": {
-    "similarity": 0.3411,
+    "similarity": 0.3465,
     "words": {
       "a": 285,
-      "b": 231
+      "b": 223
     },
     "segments": [
-      {
-        "op": "insert",
-        "a": "",
-        "b": "Catetenn Henn wch Das apostet den trink 148"
-      },
       {
         "op": "equal",
         "a": "Die",
@@ -606,7 +595,7 @@
         "b": "zwej dins glaubende namtlich all"
       }
     ],
-    "ops": 50,
+    "ops": 49,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       479
     ]
   },
-  "alignment_score": 0.4,
+  "alignment_score": 0.4095,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 5,
     "only_b": 1,
-    "similarity": 0.4449,
+    "similarity": 0.4515,
     "pairs": [
       {
         "op": "only_b",
@@ -43,9 +43,9 @@
       },
       {
         "op": "match",
-        "a": "Am xvij. tag ward nit gediſputiert. Vff den xxviij. tag Jenners. Johannes Buͤchſtab. [D]En ſpruch Luce am xvj.",
+        "a": "Am xxij. tag ward nit gediſputiert. Vff den xxiij. tag Jenners. Johannes Buͤchſtab. [D]En ſpruch Luce am xvj.",
         "b": "Vff den xxiij. Tag Jenners. Johannes Buͦchſtab. DEn Spruch Luce am 16. von Herzen Gilgen fuͤr\ngetragen/laß ich alſo belyben.",
-        "similarity": 0.4651
+        "similarity": 0.5116
       },
       {
         "op": "match",
@@ -110,7 +110,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.6157,
+    "similarity": 0.6201,
     "words": {
       "a": 257,
       "b": 201
@@ -188,23 +188,13 @@
       },
       {
         "op": "replace",
-        "a": "xvij",
+        "a": "xxij",
         "b": "22"
       },
       {
         "op": "equal",
-        "a": "tag ward nit gediſputiert Vff den",
-        "b": "Tag ward nit gedisputiert Vff den"
-      },
-      {
-        "op": "replace",
-        "a": "xxviij",
-        "b": "xxiij"
-      },
-      {
-        "op": "equal",
-        "a": "tag Jenners Johannes Bu chſtab",
-        "b": "Tag Jenners Johannes Bu chſtab"
+        "a": "tag ward nit gediſputiert Vff den xxiij tag Jenners Johannes Bu chſtab",
+        "b": "Tag ward nit gedisputiert Vff den xxiij Tag Jenners Johannes Bu chſtab"
       },
       {
         "op": "replace",
@@ -442,7 +432,7 @@
         "b": ""
       }
     ],
-    "ops": 33,
+    "ops": 32,
     "truncated": false
   }
 }
