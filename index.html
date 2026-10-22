@@ -428,6 +428,45 @@
       color: #2f2f2f;
       outline: 1px solid #f59e0b;
     }
+    /* Unscharfer Treffer (Levenshtein-Distanz > 0): blau, damit man sieht, was nur ähnlich ist */
+    mark.search-highlight-fuzzy { background: rgba(147, 197, 253, 0.5); }
+    mark.search-highlight-fuzzy.search-highlight-active {
+      background: rgba(96, 165, 250, 0.85);
+      outline-color: #2563eb;
+    }
+    .fuzz-select {
+      padding: 0.45rem 0.5rem;
+      border-radius: 6px;
+      border: 1.5px solid rgba(26, 58, 107, 0.25);
+      background: white;
+      color: #1a3a6b;
+      font-size: 0.9rem;
+      font-family: var(--font-body);
+      cursor: pointer;
+    }
+    .fuzz-select:focus-visible { outline: 2px solid rgba(251, 191, 36, 0.85); outline-offset: 1px; }
+    .book-search-bar .fuzz-select {
+      padding: 0.22rem 0.3rem;
+      border-radius: 4px;
+      border: 1px solid rgba(255, 255, 255, 0.22);
+      background: rgba(255, 255, 255, 0.13);
+      color: white;
+      font-size: 0.8rem;
+    }
+    .book-search-bar .fuzz-select option { color: #1a3a6b; background: white; }
+    .gs-fuzz-hint { font-size: 0.82rem; color: var(--ink-soft); margin: 0 0 0.8rem; line-height: 1.45; }
+    .search-dist {
+      display: inline-block;
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: #1e40af;
+      background: rgba(147, 197, 253, 0.35);
+      border-radius: 999px;
+      padding: 0 0.45rem;
+      margin-left: 0.35rem;
+      white-space: nowrap;
+      vertical-align: middle;
+    }
 
     .book-search-bar {
       background: rgba(18, 42, 80, 0.52);
@@ -1069,6 +1108,7 @@
         <div class="viewer-col-header">✍️ Transkription (Frühneuhochdeutsch)</div>
         <div class="book-search-bar">
           <input type="search" id="predigten-book-search-input" placeholder="Gesamtes Buch durchsuchen…" autocomplete="off" aria-label="Gesamtes Buch durchsuchen">
+          <select class="fuzz-select" aria-label="Unschärfe der Suche" title="Unschärfe: wie viele Zeichen ein Treffer vom Suchwort abweichen darf (Levenshtein-Distanz)" onchange="setSearchFuzziness(this.value)"><option value="auto">Unschärfe: auto</option><option value="0">genau</option><option value="1">1 Abweichung</option><option value="2">2 Abweichungen</option><option value="3">3 Abweichungen</option><option value="4">4 Abweichungen</option><option value="5">5 Abweichungen</option></select>
           <button class="book-search-run-btn" onclick="triggerBookSearch('predigten')">Buchsuche</button>
         </div>
         <div class="book-search-panel" id="predigten-book-search-panel" style="display:none;"></div>
@@ -1112,6 +1152,7 @@
         <div class="viewer-col-header">✍️ Transkription (Frühneuhochdeutsch)</div>
         <div class="book-search-bar">
           <input type="search" id="disputation-book-search-input" placeholder="Gesamtes Buch durchsuchen…" autocomplete="off" aria-label="Gesamtes Buch durchsuchen">
+          <select class="fuzz-select" aria-label="Unschärfe der Suche" title="Unschärfe: wie viele Zeichen ein Treffer vom Suchwort abweichen darf (Levenshtein-Distanz)" onchange="setSearchFuzziness(this.value)"><option value="auto">Unschärfe: auto</option><option value="0">genau</option><option value="1">1 Abweichung</option><option value="2">2 Abweichungen</option><option value="3">3 Abweichungen</option><option value="4">4 Abweichungen</option><option value="5">5 Abweichungen</option></select>
           <button class="book-search-run-btn" onclick="triggerBookSearch('disputation')">Buchsuche</button>
         </div>
         <div class="book-search-panel" id="disputation-book-search-panel" style="display:none;"></div>
@@ -1228,8 +1269,10 @@
       <p>Durchsuchen Sie alle Transkriptionen der Berner Reformation — Predigten und alle Fassungen der Disputation.</p>
       <div class="gs-input-row">
         <input type="search" id="gs-input" placeholder="Suchbegriff eingeben…" autocomplete="off" aria-label="Suche über alle Quellen">
+        <select class="fuzz-select" aria-label="Unschärfe der Suche" title="Unschärfe: wie viele Zeichen ein Treffer vom Suchwort abweichen darf (Levenshtein-Distanz)" onchange="setSearchFuzziness(this.value)"><option value="auto">Unschärfe: auto</option><option value="0">genau</option><option value="1">1 Abweichung</option><option value="2">2 Abweichungen</option><option value="3">3 Abweichungen</option><option value="4">4 Abweichungen</option><option value="5">5 Abweichungen</option></select>
         <button class="gs-run-btn" onclick="triggerGlobalSearch()">Suchen</button>
       </div>
+      <p class="gs-fuzz-hint" id="gs-fuzz-hint"></p>
       <div class="gs-filter-bar" id="gs-filter-bar"></div>
       <div id="gs-results"></div>
     </div>
@@ -1241,6 +1284,7 @@
   <p>Digitalisate: <a href="https://www.e-rara.ch">e-rara.ch</a> — CC-BY-SA</p>
 </footer>
 
+<script src="js/fuzzy_search.js"></script>
 <script>
 const OSD_PREFIX_URL = "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/images/";
 
@@ -1317,6 +1361,7 @@ document.addEventListener("DOMContentLoaded", function() {
       if (e.key === 'Enter') { e.preventDefault(); triggerGlobalSearch(); }
     });
   }
+  setSearchFuzziness(searchFuzziness, { silent: true });
 });
 
 // Restored after range-based edits removed them. All three were called but
@@ -2029,6 +2074,46 @@ function isMissingTranslationContent(text) {
 }
 
 // Transcription search
+// Unschärfe aller Suchen (Levenshtein-Distanz): eine Einstellung für Seite,
+// Buch und Gesamtsuche, gemerkt im Browser; die Arbeit macht js/fuzzy_search.js.
+const FUZZ_STORAGE_KEY = "reformation.search.fuzziness";
+let searchFuzziness = "auto";
+try {
+  const stored = window.localStorage.getItem(FUZZ_STORAGE_KEY);
+  if (stored && FuzzySearch.LEVELS.includes(stored)) searchFuzziness = stored;
+} catch (e) { /* privater Modus: die Einstellung gilt nur für diese Seite */ }
+
+function setSearchFuzziness(value, opts) {
+  const level = FuzzySearch.LEVELS.includes(String(value)) ? String(value) : "auto";
+  const changed = level !== searchFuzziness;
+  searchFuzziness = level;
+  try { window.localStorage.setItem(FUZZ_STORAGE_KEY, level); } catch (e) { /* s. o. */ }
+  document.querySelectorAll("select.fuzz-select").forEach((sel) => { if (sel.value !== level) sel.value = level; });
+  renderFuzzHint();
+  if (!changed || (opts && opts.silent)) return;
+  // Laufende Suchen folgen der neuen Einstellung, damit der Wechsel sichtbar wird.
+  const gs = document.getElementById("gs-input");
+  if (gs && gs.value.trim() && document.getElementById("suche")?.classList.contains("active")) triggerGlobalSearch();
+  for (const section of ["predigten", "disputation"]) {
+    const bookInput = document.getElementById(`${section}-book-search-input`);
+    if (bookSearchState[section].resultsVisible && bookInput && bookInput.value.trim()) triggerBookSearch(section);
+    if (transcriptionSearch[section].query) applyTranscriptionSearch(section);
+  }
+}
+
+function renderFuzzHint() {
+  const el = document.getElementById("gs-fuzz-hint");
+  if (!el) return;
+  const auto = "automatisch nach Länge des Suchworts: bis 1 abweichendes Zeichen ab 4, 2 ab 6, 3 ab 9, 4 ab 13 Zeichen";
+  const fixed = searchFuzziness === "0"
+    ? "genau: nur die normalisierte Schreibung"
+    : `bis ${searchFuzziness} abweichende Zeichen (Levenshtein-Distanz), höchstens die halbe Wortlänge`;
+  el.innerHTML = "Schreibvarianten werden ausgeglichen (u/v, i/j, ů, Nasalstrich, ſ, ß/ss, y/i): «vnd» findet «und». "
+    + `Unschärfe ${searchFuzziness === "auto" ? auto : fixed}. `
+    + 'Ein unscharfer Treffer beginnt am Wortanfang und ist <mark class="search-highlight search-highlight-fuzzy">blau</mark> markiert, '
+    + 'ein genauer <mark class="search-highlight">gelb</mark>; genaue Treffer stehen zuerst.';
+}
+
 const transcriptionSearch = {
   predigten:   { query: '', matches: [], index: -1 },
   disputation: { query: '', matches: [], index: -1 }
@@ -2043,6 +2128,8 @@ function clearTranscriptionHighlights(containerId) {
   container.normalize();
 }
 
+// Hervorhebung auf der Seite mit derselben Suche wie Buch und Gesamtsuche, so
+// dass ein angeklickter unscharfer Treffer auf der Seite auch gefunden wird.
 function applyTranscriptionSearch(section) {
   const state = transcriptionSearch[section];
   const containerId = section === 'predigten'
@@ -2054,36 +2141,34 @@ function applyTranscriptionSearch(section) {
 
   const container = document.getElementById(containerId);
   if (!container || state.query.length < 2) return;
+  const pattern = FuzzySearch.compile(state.query, searchFuzziness);
+  if (!pattern.norm) return;
 
-  const lowerQuery = state.query.toLowerCase();
   const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT);
   const textNodes = [];
   let node;
   while ((node = walker.nextNode())) {
-    if (node.textContent.toLowerCase().includes(lowerQuery)) {
-      textNodes.push(node);
-    }
+    if (node.textContent.trim()) textNodes.push(node);
   }
 
-  const regex = new RegExp(escapeRegExp(state.query), 'gi');
   for (const textNode of textNodes) {
     const parent = textNode.parentNode;
     if (!parent) continue;
     const text = textNode.textContent;
+    const hit = FuzzySearch.matchText(text, pattern);
+    if (!hit) continue;
     const fragment = document.createDocumentFragment();
     let lastIndex = 0;
-    let match;
-    regex.lastIndex = 0;
-    while ((match = regex.exec(text)) !== null) {
-      if (match.index > lastIndex) {
-        fragment.appendChild(document.createTextNode(text.slice(lastIndex, match.index)));
+    for (const span of hit.spans) {
+      if (span.start > lastIndex) {
+        fragment.appendChild(document.createTextNode(text.slice(lastIndex, span.start)));
       }
       const mark = document.createElement('mark');
-      mark.className = 'search-highlight';
-      mark.textContent = match[0];
+      mark.className = span.dist > 0 ? 'search-highlight search-highlight-fuzzy' : 'search-highlight';
+      mark.textContent = text.slice(span.start, span.end);
       state.matches.push(mark);
       fragment.appendChild(mark);
-      lastIndex = match.index + match[0].length;
+      lastIndex = span.end;
     }
     if (lastIndex < text.length) {
       fragment.appendChild(document.createTextNode(text.slice(lastIndex)));
@@ -3220,16 +3305,72 @@ async function getBookSearchPages(section) {
   }));
 }
 
-function renderBookSearchPanel(section, results, query, isLoading, fetched, total) {
+// --- Gemeinsames für Buch- und Gesamtsuche ---------------------------------
+// Der Cache einer Quelle hält je Seite die vorbereiteten Zeilen (Text und
+// normalisierte Form) oder null für eine fehlende oder leere Seite; so wird
+// jede Seite nur einmal geladen und normalisiert, auch über Suchen hinweg.
+// Ein Netzfehler wird nicht gemerkt: die Seite fehlt dann in dieser Suche,
+// nicht in jeder weiteren.
+async function loadSearchPage(cache, pageNr, path, signal) {
+  if (cache.has(pageNr)) return cache.get(pageNr);
+  try {
+    const resp = await fetch(path, { signal });
+    if (!resp.ok) { cache.set(pageNr, null); return null; }
+    const text = await resp.text();
+    const lines = isMissingTranslationContent(text) ? [] : FuzzySearch.prepareLines(text);
+    cache.set(pageNr, lines.length ? lines : null);
+    return cache.get(pageNr);
+  } catch (e) {
+    return null;
+  }
+}
+
+// Treffer auf einer Seite: die ersten zwei Zeilen mit ihren Spannen und die
+// kleinste Distanz der Seite; null ohne Treffer.
+function searchPageLines(lines, pattern) {
+  if (!lines) return null;
+  const hits = [];
+  let dist = Infinity;
+  for (const line of lines) {
+    const found = FuzzySearch.find(pattern, line.norm);
+    if (!found.length) continue;
+    for (const f of found) if (f.dist < dist) dist = f.dist;
+    if (hits.length < 2) {
+      const spans = FuzzySearch.toOriginal(FuzzySearch.normalize(line.text).map, found, line.text.length);
+      hits.push({ text: line.text, spans });
+    }
+  }
+  return hits.length ? { lines: hits, dist } : null;
+}
+
+// Genaue Treffer zuerst, dann nach wachsender Distanz, innerhalb nach Seite.
+function sortSearchResults(results) {
+  results.sort((a, b) => (a.dist - b.dist) || (a.pageNr - b.pageNr));
+}
+
+function snippetHtml(lines) {
+  return lines.map((line) => FuzzySearch.highlight(
+    line.text, line.spans, escapeHtml, 'search-highlight search-highlight-active', 'search-highlight-fuzzy'
+  )).join('<br>');
+}
+
+function distBadge(dist) {
+  if (!dist) return '';
+  const label = dist === 1 ? '1 Abweichung' : `${dist} Abweichungen`;
+  return `<span class="search-dist" title="${label}">≈${dist}</span>`;
+}
+
+function renderBookSearchPanel(section, results, pattern, isLoading, fetched, total) {
   const panel = document.getElementById(`${section}-book-search-panel`);
   if (!panel) return;
 
   const pct = total > 0 ? Math.round((fetched / total) * 100) : 0;
-  const statusText = isLoading
-    ? `Suche läuft… ${fetched} / ${total} Seiten — ${results.length} Treffer`
+  const mode = FuzzySearch.describe(pattern);
+  const statusText = (isLoading
+    ? `Suche läuft… ${fetched} / ${total} Seiten — ${results.length} Treffer`
     : results.length === 0
       ? 'Keine Treffer gefunden'
-      : `${results.length} Seiten mit Treffern`;
+      : `${results.length} Seiten mit Treffern`) + (mode ? ` · ${mode}` : '');
 
   let html = `<div class="book-search-panel-header">
     <span class="book-search-status">${escapeHtml(statusText)}</span>
@@ -3238,22 +3379,19 @@ function renderBookSearchPanel(section, results, query, isLoading, fetched, tota
   </div>`;
 
   if (results.length > 0) {
-    const escapedQuery = escapeRegExp(escapeHtml(query));
+    // Wie in der Gesamtsuche: das JSON-Literal steht in einem doppelt
+    // zitierten onclick-Attribut, seine Anführungszeichen müssen HTML-escaped
+    // sein - sonst endet das Attribut am ersten, der Klick fällt auf die
+    // blosse Hash-Navigation zurück und die Hervorhebung bleibt aus.
+    const safeQuery = escapeHtml(JSON.stringify(pattern.raw));
     html += '<ul class="book-search-result-list">';
-    for (const { pageNr, lines } of results) {
-      const snippetHtml = lines.map((line) =>
-        escapeHtml(line).replace(
-          new RegExp(escapedQuery, 'gi'),
-          (m) => `<mark class="search-highlight search-highlight-active">${m}</mark>`
-        )
-      ).join('<br>');
-      const safeQuery = JSON.stringify(query).replace(/</g, '\\u003c').replace(/>/g, '\\u003e');
+    for (const { pageNr, lines, dist } of results) {
       const resultHash = section === 'predigten'
         ? `#/predigten/${pageNr}`
         : `#/disputation/${disputationState.variantId}/${pageNr}`;
       html += `<li><a class="book-search-result" href="${resultHash}" onclick="event.preventDefault(); navigateToBookResult('${section}',${pageNr},${safeQuery})">
-        <span class="book-search-page-num">S.&nbsp;${pageNr}</span>
-        <span class="book-search-snippet">${snippetHtml}</span>
+        <span class="book-search-page-num">S.&nbsp;${pageNr}${distBadge(dist)}</span>
+        <span class="book-search-snippet">${snippetHtml(lines)}</span>
       </a></li>`;
     }
     html += '</ul>';
@@ -3313,14 +3451,15 @@ async function runBookSearch(section, query) {
 
   const controller = new AbortController();
   state.currentSearch = controller;
+  const pattern = FuzzySearch.compile(query, searchFuzziness);
   openBookSearchPanel(section);
-  renderBookSearchPanel(section, [], query, true, 0, 1);
+  renderBookSearchPanel(section, [], pattern, true, 0, 1);
 
   let pages;
   try {
     pages = await getBookSearchPages(section);
   } catch {
-    if (!controller.signal.aborted) renderBookSearchPanel(section, [], query, false, 0, 0);
+    if (!controller.signal.aborted) renderBookSearchPanel(section, [], pattern, false, 0, 0);
     return;
   }
   if (controller.signal.aborted) return;
@@ -3329,45 +3468,28 @@ async function runBookSearch(section, query) {
   const results = [];
   const total = pages.length;
   let fetched = 0;
-  const lowerQuery = query.toLowerCase();
   const BATCH_SIZE = 80;
 
   for (let start = 0; start < pages.length; start += BATCH_SIZE) {
     if (controller.signal.aborted) return;
     const batch = pages.slice(start, start + BATCH_SIZE);
-
-    const batchItems = await Promise.all(batch.map(async ({ pageNr, path }) => {
-      if (cache.has(pageNr)) return { pageNr, text: cache.get(pageNr) };
-      try {
-        const resp = await fetch(path, { signal: controller.signal });
-        if (!resp.ok) { cache.set(pageNr, null); return { pageNr, text: null }; }
-        const text = await resp.text();
-        const content = isMissingTranslationContent(text) ? null : text;
-        cache.set(pageNr, content);
-        return { pageNr, text: content };
-      } catch (e) {
-        if (e.name !== 'AbortError') cache.set(pageNr, null);
-        return null;
-      }
-    }));
-
+    const batchItems = await Promise.all(batch.map(async ({ pageNr, path }) => ({
+      pageNr, lines: await loadSearchPage(cache, pageNr, path, controller.signal)
+    })));
     if (controller.signal.aborted) return;
 
     for (const item of batchItems) {
-      if (!item || !item.text) continue;
-      const matching = item.text.split('\n')
-        .map((l) => l.replace(/^#+\s+/, '').trim())
-        .filter((l) => l && l.toLowerCase().includes(lowerQuery));
-      if (matching.length > 0) results.push({ pageNr: item.pageNr, lines: matching.slice(0, 2) });
+      const hit = searchPageLines(item.lines, pattern);
+      if (hit) results.push({ pageNr: item.pageNr, lines: hit.lines, dist: hit.dist });
     }
-
+    sortSearchResults(results);
     fetched += batch.length;
-    renderBookSearchPanel(section, results, query, fetched < total, fetched, total);
+    renderBookSearchPanel(section, results, pattern, fetched < total, fetched, total);
   }
 
   if (!controller.signal.aborted) {
     state.currentSearch = null;
-    renderBookSearchPanel(section, results, query, false, total, total);
+    renderBookSearchPanel(section, results, pattern, false, total, total);
   }
 }
 
@@ -3414,7 +3536,8 @@ function setAllSearchFilters(value) {
 function triggerGlobalSearch() {
   const input = document.getElementById('gs-input');
   const query = input ? input.value.trim() : '';
-  updateSectionUrl('suche', query || null);
+  // Die Unschärfe gehört zur zitierten Suche: #/suche/<Begriff>?u=<Stufe>; «auto» bleibt weg.
+  updateSectionUrl('suche', query ? query + (searchFuzziness === 'auto' ? '' : `?u=${searchFuzziness}`) : null);
   runGlobalSearch(query);
 }
 
@@ -3443,7 +3566,7 @@ async function getSourcePages(sourceId) {
   }));
 }
 
-function renderGlobalResults(resultsBySource, query, isLoading, progress, activeSourceIds) {
+function renderGlobalResults(resultsBySource, pattern, isLoading, progress, activeSourceIds) {
   const container = document.getElementById('gs-results');
   if (!container) return;
   if (!resultsBySource) { container.innerHTML = ''; return; }
@@ -3459,17 +3582,23 @@ function renderGlobalResults(resultsBySource, query, isLoading, progress, active
   }
 
   const pct = totalPages > 0 ? Math.round((totalFetched / totalPages) * 100) : 0;
-  const statusText = isLoading
-    ? `Suche läuft… ${totalFetched} / ${totalPages} Seiten — ${totalHits} Treffer`
+  const mode = FuzzySearch.describe(pattern);
+  const statusText = (isLoading
+    ? `Suche läuft… ${totalFetched} / ${totalPages} Seiten — ${totalHits} Treffer`
     : totalHits === 0
       ? 'Keine Treffer gefunden'
-      : `${totalHits} Treffer in ${activeSourceIds.filter((id) => (resultsBySource[id] || []).length > 0).length} Quellen`;
+      : `${totalHits} Treffer in ${activeSourceIds.filter((id) => (resultsBySource[id] || []).length > 0).length} Quellen`)
+    + (mode ? ` · ${mode}` : '');
 
   let html = `<div class="gs-results-header"><span>${escapeHtml(statusText)}</span>`;
   if (isLoading) html += `<div class="gs-progress-bar"><div class="gs-progress-fill" style="width:${pct}%"></div></div>`;
   html += '</div>';
 
-  const escapedQuery = escapeRegExp(escapeHtml(query));
+  // The JSON string literal goes inside a double-quoted onclick attribute,
+  // so its quotes must be HTML-escaped or the attribute ends at the first
+  // one - which silently broke the handler for every query and dropped
+  // each click through to raw hash navigation.
+  const safeQuery = escapeHtml(JSON.stringify(pattern.raw));
   for (const sourceId of activeSourceIds) {
     const results = resultsBySource[sourceId] || [];
     if (results.length === 0) continue;
@@ -3477,23 +3606,12 @@ function renderGlobalResults(resultsBySource, query, isLoading, progress, active
       ? 'Predigten'
       : ((DISPUTATION_VARIANTS.find((v) => v.id === sourceId) || {}).label || sourceId);
     html += `<div class="gs-result-source-label">${escapeHtml(srcLabel)}</div><ul class="gs-result-list">`;
-    for (const { pageNr, lines } of results) {
-      const snippetHtml = lines.map((line) =>
-        escapeHtml(line).replace(
-          new RegExp(escapedQuery, 'gi'),
-          (m) => `<mark class="search-highlight search-highlight-active">${m}</mark>`
-        )
-      ).join('<br>');
+    for (const { pageNr, lines, dist } of results) {
       const hash = sourceId === 'predigten'
         ? `#/predigten/${pageNr}`
         : `#/${groupOfVariant(sourceId) === 'print' ? 'drucke' : 'disputation'}/${sourceId}/${pageNr}`;
       const safeSourceId = escapeHtml(sourceId);
-      // The JSON string literal goes inside a double-quoted onclick attribute,
-      // so its quotes must be HTML-escaped or the attribute ends at the first
-      // one - which silently broke the handler for every query and dropped
-      // each click through to raw hash navigation.
-      const safeQuery = escapeHtml(JSON.stringify(query));
-      html += `<li><a class="gs-result-item" href="${hash}" onclick="handleGlobalResultClick(event,'${safeSourceId}',${pageNr},${safeQuery})"><span class="gs-result-page">S.&nbsp;${pageNr}</span><span class="gs-result-snippet">${snippetHtml}</span></a></li>`;
+      html += `<li><a class="gs-result-item" href="${hash}" onclick="handleGlobalResultClick(event,'${safeSourceId}',${pageNr},${safeQuery})"><span class="gs-result-page">S.&nbsp;${pageNr}${distBadge(dist)}</span><span class="gs-result-snippet">${snippetHtml(lines)}</span></a></li>`;
     }
     html += '</ul>';
   }
@@ -3533,19 +3651,19 @@ function handleGlobalResultClick(event, sourceId, pageNr, query) {
 
 async function runGlobalSearch(query) {
   if (globalSearchAbortController) { globalSearchAbortController.abort(); globalSearchAbortController = null; }
-  if (!query || query.length < 2) { renderGlobalResults(null, query, false, {}, []); return; }
+  if (!query || query.length < 2) { renderGlobalResults(null, null, false, {}, []); return; }
 
   const controller = new AbortController();
   globalSearchAbortController = controller;
+  const pattern = FuzzySearch.compile(query, searchFuzziness);
 
   const activeSourceIds = Object.keys(globalSearchFilters).filter((id) => globalSearchFilters[id]);
   const allResults = {};
   const progress = {};
   for (const id of activeSourceIds) { allResults[id] = []; progress[id] = { fetched: 0, total: 0 }; }
 
-  renderGlobalResults(allResults, query, true, progress, activeSourceIds);
+  renderGlobalResults(allResults, pattern, true, progress, activeSourceIds);
 
-  const lowerQuery = query.toLowerCase();
   const BATCH_SIZE = 80;
 
   for (const sourceId of activeSourceIds) {
@@ -3562,31 +3680,18 @@ async function runGlobalSearch(query) {
     for (let start = 0; start < pages.length; start += BATCH_SIZE) {
       if (controller.signal.aborted) return;
       const batch = pages.slice(start, start + BATCH_SIZE);
-      const batchItems = await Promise.all(batch.map(async ({ pageNr, path }) => {
-        if (cache.has(pageNr)) return { pageNr, text: cache.get(pageNr) };
-        try {
-          const resp = await fetch(path, { signal: controller.signal });
-          if (!resp.ok) { cache.set(pageNr, null); return { pageNr, text: null }; }
-          const text = await resp.text();
-          const content = isMissingTranslationContent(text) ? null : text;
-          cache.set(pageNr, content);
-          return { pageNr, text: content };
-        } catch (e) {
-          if (e.name !== 'AbortError') cache.set(pageNr, null);
-          return null;
-        }
-      }));
+      const batchItems = await Promise.all(batch.map(async ({ pageNr, path }) => ({
+        pageNr, lines: await loadSearchPage(cache, pageNr, path, controller.signal)
+      })));
       if (controller.signal.aborted) return;
       for (const item of batchItems) {
-        if (!item || !item.text) continue;
-        const matching = item.text.split('\n')
-          .map((l) => l.replace(/^#+\s+/, '').trim())
-          .filter((l) => l && l.toLowerCase().includes(lowerQuery));
-        if (matching.length > 0) results.push({ pageNr: item.pageNr, lines: matching.slice(0, 2) });
+        const hit = searchPageLines(item.lines, pattern);
+        if (hit) results.push({ pageNr: item.pageNr, lines: hit.lines, dist: hit.dist });
       }
+      sortSearchResults(results);
       progress[sourceId] = { fetched: start + batch.length, total };
       allResults[sourceId] = results;
-      renderGlobalResults(allResults, query, true, progress, activeSourceIds);
+      renderGlobalResults(allResults, pattern, true, progress, activeSourceIds);
     }
     allResults[sourceId] = results;
     progress[sourceId] = { fetched: total, total };
@@ -3594,7 +3699,7 @@ async function runGlobalSearch(query) {
 
   if (!controller.signal.aborted) {
     globalSearchAbortController = null;
-    renderGlobalResults(allResults, query, false, progress, activeSourceIds);
+    renderGlobalResults(allResults, pattern, false, progress, activeSourceIds);
   }
 }
 
@@ -4640,8 +4745,9 @@ function renderUebersicht() {
   const host = document.getElementById("ub-body");
   if (!host || !uebersichtRows) return;
   const query = (document.getElementById("ub-filter")?.value || "").trim().toLowerCase();
-  const rows = query
-    ? uebersichtRows.filter((r) => `${r.title} ${r.summary}`.toLowerCase().includes(query))
+  const pattern = query ? FuzzySearch.compile(query, "0") : null;
+  const rows = pattern
+    ? uebersichtRows.filter((r) => FuzzySearch.matchText(`${r.title} ${r.summary}`, pattern))
     : uebersichtRows;
 
   const count = document.getElementById("ub-count");
@@ -4771,8 +4877,11 @@ function applySectionUrl(params) {
       if (input) { input.value = params.extra; renderUebersicht(); }
     }
   } else if (params.id === "suche" && params.extra) {
+    let query = params.extra;
+    const withLevel = query.match(/^(.*)\?u=(auto|[0-5])$/);
+    if (withLevel) { query = withLevel[1]; setSearchFuzziness(withLevel[2], { silent: true }); }
     const input = document.getElementById("gs-input");
-    if (input) { input.value = params.extra; runGlobalSearch(params.extra); }
+    if (input) { input.value = query; runGlobalSearch(query); }
     renderGlobalSearchFilters();
   } else if (params.id === "suche") {
     renderGlobalSearchFilters();
@@ -4867,7 +4976,9 @@ function renderRegister() {
 
   let rows = registerRows;
   if (query) {
-    rows = rows.filter((r) => `${r.label} ${r.forms} ${r.hls_title}`.toLowerCase().includes(query));
+    // Namen unscharf: «Zwingly» und «Zwingli» sind derselbe Mann.
+    const pattern = FuzzySearch.compile(query, "auto");
+    rows = rows.filter((r) => FuzzySearch.matchText(`${r.label} ${r.forms} ${r.hls_title}`, pattern));
   }
   if (linkedOnly) rows = rows.filter((r) => r.hls_id);
 
@@ -4946,8 +5057,9 @@ function renderBible() {
   const host = document.getElementById("reg-body");
   if (!host || !bibleRows) return;
   const query = (document.getElementById("reg-filter")?.value || "").trim().toLowerCase();
-  const rows = query
-    ? bibleRows.filter((r) => `${r.reference} ${r.book} ${r.surfaces}`.toLowerCase().includes(query))
+  const pattern = query ? FuzzySearch.compile(query, "0") : null;
+  const rows = pattern
+    ? bibleRows.filter((r) => FuzzySearch.matchText(`${r.reference} ${r.book} ${r.surfaces}`, pattern))
     : bibleRows;
 
   const total = bibleRows.reduce((n, r) => n + (parseInt(r.count, 10) || 0), 0);

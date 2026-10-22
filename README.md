@@ -34,7 +34,11 @@ Methodik: [docs/semantic-divergence.md](docs/semantic-divergence.md).
 Bibelstellenerkennung, Konkordanz der Druckausgaben mit Segmenttiteln,
 seitenweiser Nachweis (Institution, Signatur, Public Domain Mark) und der
 Hinweis „maschinell erkannt, nicht ediert" bei jedem Zeugen. Alle Ansichten
-sind über URL zitierfähig; die Volltextsuche umfasst alle elf Quellen.
+sind über URL zitierfähig. Die Volltextsuche umfasst alle elf Quellen, gleicht
+Schreibvarianten aus (u/v, i/j, Nasalstrich, ß/ss, nach denselben Regeln wie
+`scripts/normalize_orthography.py`) und sucht auf Wunsch unscharf: eine
+Levenshtein-Distanz bis 5, Stufe «auto» nach Wortlänge; unscharfe Treffer
+beginnen am Wortanfang und sind blau markiert ([js/fuzzy_search.js](js/fuzzy_search.js)).
 
 **Offen** ([Issues](https://github.com/thodel/reformation/issues)):
 Übersetzungen der vier übrigen Handschriften (#61), wöchentlicher
