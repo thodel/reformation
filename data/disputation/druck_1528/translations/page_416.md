@@ -1,7 +1,7 @@
 Seite 99  
 Die sechste verurteilt und wird hier Abraham nicht für seine Person angezogen, sondern, wie gesagt, bedeutet die Person Gottes.  
-Am XVII. Tag ward nicht disputiert.  
-Auf den XXVIII. Tag Jenners.  
+Am XXII. Tag ward nicht disputiert.  
+Auf den XXIII. Tag Jenners.  
 Johannes Büchstab.  
 
 [D] Den Spruch Luce am XIV. von Herrn Gilgen für getragen, lasse ich also belassen. Hat weiter im selben Kapitel Christus gesprochen. Machen euch Freund, aus dem Gut der Bosheit, auf das so sehr mangelt, werden sie euch in die ewigen Tabernakel nehmen. Nun mögen uns keine Kräfte unserer eigenen Kraft in die ewigen Tabernakel nehmen, dann allein mit Fürbitte, für das, was wir bewiesen haben, auf dem Ertrag, mit Allmut und barmherziger Herzlichkeit.  
