@@ -8,7 +8,7 @@
       179
     ]
   },
-  "alignment_score": 0.1328,
+  "alignment_score": 0.1845,
   "coarse": {
     "paragraphs": {
       "a": 6,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 13,
-    "matched": 1,
-    "only_a": 11,
-    "only_b": 1,
-    "similarity": 0.3077,
+    "units": 15,
+    "matched": 4,
+    "only_a": 8,
+    "only_b": 3,
+    "similarity": 0.4452,
     "pairs": [
       {
         "op": "only_a",
@@ -60,10 +60,10 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "namlich den handel ſo ſich mit den predican\nten von Straßburg verlůffen hat antreffende/deßglichen ha=\nben die predicanten/Doctor Capito vnd Martinus Buzer ouch harfür\ngebracht/vnd ſollichen dißen handel /",
-        "b": null,
-        "similarity": 0.0
+        "b": "Cal dend in Samlich den hander si in\nmit den predicanten von Strastburg verluͤffen / hatt antreffende / Desß glichen haben die\npredicanten Doctor Capite vnnd Martuus\nPuter ouch harfur gebracht /",
+        "similarity": 0.3607
       },
       {
         "op": "only_a",
@@ -72,28 +72,40 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
-        "a": "für oder wider die\nſchlußreden der predicanten/wie vor gemeldet iſt. Wyter herr Prouincial/damit jr nit mißuerſtanden / eins Erſamen\nRadts vnd der Preſidenten meynung /",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "vnnd soͤllichen\nDisen hanndell / will ein ersamer Rhat vnnd\npresidenten nit zuͦlassen / Inn dise Dispu // staton / wyter Inzuͤchen vnnd vermischenn /",
         "similarity": 0.0
       },
       {
-        "op": "only_a",
-        "a": "üwer würde iſt erloupt zediſpu\ntieren mit der ſchrifft vnd nit allein mit der ſchrifft / die mit heyteren vnd\nvßgetruckten worten ſye wider die ſchlußreden der predicanten/ſonder\nouch mit ſchrifft /",
-        "b": null,
-        "similarity": 0.0
+        "op": "match",
+        "a": "für oder wider die\nſchlußreden der predicanten/wie vor gemeldet iſt. Wyter herr Prouincial/damit jr nit mißuerſtanden / eins Erſamen\nRadts vnd der Preſidenten meynung /",
+        "b": "sond er soll allein gehandellt werden / was\nDa Dienet / fuͤr oder wider Die Schlußreden\nDer predicanten wie vor gemeldet ist //",
+        "similarity": 0.4348
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "Sed fasti, Vamerich den hanndell so sich\nmit den predicanten van Strastburg verlijffen,\nhatt antreffende. Deß gleichen haben die\npraedicanten Doctor Capite vnnd agartimus\nkuter ouch harfur gebracht, vnnd sellichen\nDisen hanndell, will em ersamer Rhar vnnd\nprefidenten uit zulassen, Inn diß Despe¬\nstaron, wijter Inzuchen vnnd vermischenn\nsonder soll allein gehandelen werden was\nDa Dienet, fur oder wider Die Schlußreden\nDer predicanten wie vor gemeldet yt\nWijter her prominciat Damit Ir mitt\nmißuerstanden, eins ersamen Rhats vnnd der\nresidenten meyminch Nötzer wurde ist er¬\nlouwt gedispntieren, mit der schafft vnnd\nint allem mit der schrifft, die mit het van\nvnd vf getruckten worten sie, wider Die Schlus¬\nreden, Der predicanten sonder auch mit schrifft\nCossz wellicher schrifft Ir Darthun vnnd\nanjagen mogend Das vss.",
+        "b": "Wyter her provincial / Damit Ir nitt\nmis nerstanden / eins ersamen Rhats vnnd der\npresidenten meynung ooͤwer wurde ist er //",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "üwer würde iſt erloupt zediſpu\ntieren mit der ſchrifft vnd nit allein mit der ſchrifft / die mit heyteren vnd\nvßgetruckten worten ſye wider die ſchlußreden der predicanten/ſonder\nouch mit ſchrifft /",
+        "b": "loupt zedisputieren mit der schrifft vnnd\nnit / allein mit der schrifft / die mit heitern\nvnd vß getruckten worten sie / wider die Schuß //",
+        "similarity": 0.5283
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "reden / der predicanten / sonder ouch mit schrifft\nvsß wellicher schrifft Ir Darthuͦn vnnd\nanzaigen mogend / Das vsß derselbigen gschrifft\nWarhafftigklich volge /",
         "similarity": 0.0
       },
       {
         "op": "match",
         "a": "vß welcher ſchrifft jr darthůn vnd anzeygen mögend/ das vß der ſelbigen gſchrifft / warhafftigtlich volge / das da ſye wider\ndie ſchlußred der predicanten.",
-        "b": "derselbigen gsthrifft\nwarhafftigklich volgen Das da syn wider\nDie Schlußrede der predicanten\nCapitonis vnd Buckri\nprotestatz",
-        "similarity": 0.3077
+        "b": "Das da sye wider / Die Schlußred der predicanten / Captonits vnd Butern\nprotestatz /",
+        "similarity": 0.4571
       },
       {
         "op": "only_a",
@@ -110,16 +122,16 @@
     ]
   },
   "fine": {
-    "similarity": 0.3073,
+    "similarity": 0.3596,
     "words": {
       "a": 295,
-      "b": 141
+      "b": 150
     },
     "segments": [
       {
         "op": "replace",
         "a": "Die erst Des Comenthürs protestation statz insonders Ich Protestier mich hie das mine herren die Presidenten dem Prouincial seyn stilſchwigen habend vffgeleyt oder abge ſchlagen zereden vnd disputieren ſonders jm erloupt fry ze reden vnd disputieren mit",
-        "b": "Sed fasti Vamerich"
+        "b": "Cal dend in Samlich"
       },
       {
         "op": "equal",
@@ -128,18 +140,38 @@
       },
       {
         "op": "replace",
-        "a": "Predicante wider jre Artickel jn ouch gebåtten ſollichs zethůn vmb mer erlůtrung willen das die göt liche warheyt deſter mer vnd heytterer eroffnet werde jm nit mer abges ſchlagen zereden dann den handel vnd ſpan ſo er mit den Predicanten von Straßburg hatt darůber wir nit Preſidenten ſind Meyster Niclaus Brieſſers Protestatz Ir habend Herr Prouincial wie jr geſprochen zween Locos ſcripturæ angezeygt Aber daby vil ingezogen quæ non fuerunt ſcripturæ ſed facti namlich den handel",
-        "b": "hanndell"
+        "a": "Predicante wider jre Artickel",
+        "b": "hander si"
       },
       {
         "op": "equal",
-        "a": "ſo ſich mit den",
-        "b": "so sich mit den"
+        "a": "jn",
+        "b": "in"
+      },
+      {
+        "op": "delete",
+        "a": "ouch gebåtten ſollichs zethůn vmb mer erlůtrung willen das die göt liche warheyt deſter mer vnd heytterer eroffnet werde jm nit mer abges ſchlagen zereden dann den handel vnd ſpan ſo er",
+        "b": ""
+      },
+      {
+        "op": "equal",
+        "a": "mit den Predicanten von",
+        "b": "mit den predicanten von"
       },
       {
         "op": "replace",
-        "a": "predican ten von Straßburg verlůffen hat",
-        "b": "predicanten van Strastburg verlijffen hatt"
+        "a": "Straßburg",
+        "b": "Strastburg verlu ffen"
+      },
+      {
+        "op": "equal",
+        "a": "hatt",
+        "b": "hatt"
+      },
+      {
+        "op": "delete",
+        "a": "darůber wir nit Preſidenten ſind Meyster Niclaus Brieſſers Protestatz Ir habend Herr Prouincial wie jr geſprochen zween Locos ſcripturæ angezeygt Aber daby vil ingezogen quæ non fuerunt ſcripturæ ſed facti namlich den handel ſo ſich mit den predican ten von Straßburg verlůffen hat",
+        "b": ""
       },
       {
         "op": "equal",
@@ -149,27 +181,17 @@
       {
         "op": "replace",
         "a": "deßglichen ha ben",
-        "b": "Deß gleichen haben"
+        "b": "Desß glichen haben"
       },
       {
         "op": "equal",
-        "a": "die",
-        "b": "die"
-      },
-      {
-        "op": "replace",
-        "a": "predicanten",
-        "b": "praedicanten"
-      },
-      {
-        "op": "equal",
-        "a": "Doctor",
-        "b": "Doctor"
+        "a": "die predicanten Doctor",
+        "b": "die predicanten Doctor"
       },
       {
         "op": "replace",
         "a": "Capito vnd Martinus Buzer",
-        "b": "Capite vnnd agartimus kuter"
+        "b": "Capite vnnd Martuus Puter"
       },
       {
         "op": "equal",
@@ -178,73 +200,93 @@
       },
       {
         "op": "replace",
-        "a": "vnd ſollichen dißen handel wie ein",
-        "b": "vnnd sellichen Disen hanndell will em"
+        "a": "vnd ſollichen dißen handel wie",
+        "b": "vnnd so llichen Disen hanndell will"
       },
       {
         "op": "equal",
-        "a": "Erſamer",
-        "b": "ersamer"
+        "a": "ein Erſamer",
+        "b": "ein ersamer"
       },
       {
         "op": "replace",
-        "a": "Radt vnd Preſi denten nit",
-        "b": "Rhar vnnd prefidenten uit"
+        "a": "Radt vnd Preſi denten",
+        "b": "Rhat vnnd presidenten"
       },
       {
         "op": "equal",
-        "a": "zůlaſſen",
-        "b": "zulassen"
+        "a": "nit",
+        "b": "nit"
       },
       {
         "op": "replace",
-        "a": "in diſe Diſputation wyter",
-        "b": "Inn diß Despe staron wijter"
+        "a": "zůlaſſen in",
+        "b": "zu lassen Inn"
       },
       {
         "op": "equal",
-        "a": "inzůchen",
-        "b": "Inzuchen"
+        "a": "diſe",
+        "b": "dise"
       },
       {
         "op": "replace",
-        "a": "vnd vermiſchen",
-        "b": "vnnd vermischenn"
+        "a": "Diſputation",
+        "b": "Dispu staton"
       },
       {
         "op": "equal",
-        "a": "ſonder ſoll",
-        "b": "sonder soll"
+        "a": "wyter",
+        "b": "wyter"
+      },
+      {
+        "op": "replace",
+        "a": "inzůchen vnd vermiſchen ſonder",
+        "b": "Inzu chen vnnd vermischenn sond er"
+      },
+      {
+        "op": "equal",
+        "a": "ſoll",
+        "b": "soll"
       },
       {
         "op": "replace",
         "a": "alleyn gehandelt",
-        "b": "allein gehandelen"
+        "b": "allein gehandellt"
       },
       {
         "op": "equal",
-        "a": "werden was da Dienet für oder wider die ſchlußreden der predicanten wie vor gemeldet",
-        "b": "werden was Da Dienet fur oder wider Die Schlußreden Der predicanten wie vor gemeldet"
+        "a": "werden was da Dienet",
+        "b": "werden was Da Dienet"
       },
       {
         "op": "replace",
-        "a": "iſt Wyter herr Prouincial",
-        "b": "yt Wijter her prominciat"
+        "a": "für",
+        "b": "fu r"
       },
       {
         "op": "equal",
-        "a": "damit jr",
-        "b": "Damit Ir"
+        "a": "oder wider die ſchlußreden der predicanten wie vor gemeldet iſt Wyter",
+        "b": "oder wider Die Schlußreden Der predicanten wie vor gemeldet ist Wyter"
       },
       {
         "op": "replace",
-        "a": "nit",
-        "b": "mitt"
+        "a": "herr",
+        "b": "her"
       },
       {
         "op": "equal",
-        "a": "mißuerſtanden eins Erſamen",
-        "b": "mißuerstanden eins ersamen"
+        "a": "Prouincial damit jr",
+        "b": "provincial Damit Ir"
+      },
+      {
+        "op": "replace",
+        "a": "nit mißuerſtanden",
+        "b": "nitt mis nerstanden"
+      },
+      {
+        "op": "equal",
+        "a": "eins Erſamen",
+        "b": "eins ersamen"
       },
       {
         "op": "replace",
@@ -253,13 +295,13 @@
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
+        "a": "der Preſidenten meynung",
+        "b": "der presidenten meynung"
       },
       {
         "op": "replace",
-        "a": "Preſidenten meynung üwer",
-        "b": "residenten meyminch Nötzer"
+        "a": "üwer",
+        "b": "oo wer"
       },
       {
         "op": "equal",
@@ -269,27 +311,27 @@
       {
         "op": "replace",
         "a": "erloupt zediſpu tieren",
-        "b": "er louwt gedispntieren"
+        "b": "er loupt zedisputieren"
       },
       {
         "op": "equal",
-        "a": "mit der",
-        "b": "mit der"
+        "a": "mit der ſchrifft",
+        "b": "mit der schrifft"
       },
       {
         "op": "replace",
-        "a": "ſchrifft vnd nit allein",
-        "b": "schafft vnnd int allem"
+        "a": "vnd",
+        "b": "vnnd"
       },
       {
         "op": "equal",
-        "a": "mit der ſchrifft die mit",
-        "b": "mit der schrifft die mit"
+        "a": "nit allein mit der ſchrifft die mit",
+        "b": "nit allein mit der schrifft die mit"
       },
       {
         "op": "replace",
         "a": "heyteren",
-        "b": "het van"
+        "b": "heitern"
       },
       {
         "op": "equal",
@@ -299,7 +341,7 @@
       {
         "op": "replace",
         "a": "vßgetruckten",
-        "b": "vf getruckten"
+        "b": "vß getruckten"
       },
       {
         "op": "equal",
@@ -314,42 +356,32 @@
       {
         "op": "equal",
         "a": "wider die",
-        "b": "wider Die"
+        "b": "wider die"
       },
       {
         "op": "replace",
         "a": "ſchlußreden",
-        "b": "Schlus reden"
+        "b": "Schuß reden"
       },
       {
         "op": "equal",
-        "a": "der predicanten ſonder",
-        "b": "Der predicanten sonder"
-      },
-      {
-        "op": "replace",
-        "a": "ouch",
-        "b": "auch"
-      },
-      {
-        "op": "equal",
-        "a": "mit ſchrifft",
-        "b": "mit schrifft"
+        "a": "der predicanten ſonder ouch mit ſchrifft",
+        "b": "der predicanten sonder ouch mit schrifft"
       },
       {
         "op": "replace",
         "a": "vß welcher",
-        "b": "Cossz wellicher"
+        "b": "vsß wellicher"
       },
       {
         "op": "equal",
-        "a": "ſchrifft jr darthůn",
-        "b": "schrifft Ir Darthun"
+        "a": "ſchrifft jr",
+        "b": "schrifft Ir"
       },
       {
         "op": "replace",
-        "a": "vnd anzeygen",
-        "b": "vnnd anjagen"
+        "a": "darthůn vnd anzeygen",
+        "b": "Darthu n vnnd anzaigen"
       },
       {
         "op": "equal",
@@ -358,41 +390,41 @@
       },
       {
         "op": "replace",
-        "a": "vß der ſelbigen gſchrifft warhafftigtlich volge",
-        "b": "vss derselbigen gsthrifft warhafftigklich volgen"
+        "a": "vß der ſelbigen",
+        "b": "vsß derselbigen"
       },
       {
         "op": "equal",
-        "a": "das da",
-        "b": "Das da"
+        "a": "gſchrifft",
+        "b": "gschrifft"
       },
       {
         "op": "replace",
-        "a": "ſye",
-        "b": "syn"
+        "a": "warhafftigtlich",
+        "b": "Warhafftigklich"
       },
       {
         "op": "equal",
-        "a": "wider die",
-        "b": "wider Die"
+        "a": "volge das da ſye wider die ſchlußred der predicanten",
+        "b": "volge Das da sye wider Die Schlußred der predicanten"
       },
       {
         "op": "replace",
-        "a": "ſchlußred",
-        "b": "Schlußrede"
+        "a": "Capitonis",
+        "b": "Captonits"
       },
       {
         "op": "equal",
-        "a": "der predicanten Capitonis vnd",
-        "b": "der predicanten Capitonis vnd"
+        "a": "vnd",
+        "b": "vnd"
       },
       {
         "op": "replace",
         "a": "Buceri protestation vnd bezügung Er Prouincial beklagt ſich er habe nit platz vff vnſer red zů antwurten die vnchriſtenlich vnd wider die warheyt ſig nun haben wir nichts mit jm zethůnd dann ſo ver er wider die zwo erſt ſchlußreden an Dene der gantz Chriſtenlich han del ſtat",
-        "b": "Buckri protestatz"
+        "b": "Butern protestatz"
       }
     ],
-    "ops": 28,
+    "ops": 30,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       166
     ]
   },
-  "alignment_score": 0.2148,
+  "alignment_score": 0.3185,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,41 +23,53 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 9,
-    "matched": 0,
-    "only_a": 8,
-    "only_b": 1,
-    "similarity": 0.0,
+    "units": 12,
+    "matched": 5,
+    "only_a": 3,
+    "only_b": 4,
+    "similarity": 0.5082,
     "pairs": [
       {
-        "op": "only_a",
+        "op": "match",
         "a": "Schlußred. XLII\noder dry in ſinem namen verſamlet ſind/was darff man\nſich erſt vmbſehen/vmb ein gemeyn Concilium/dann\nkeyn geſchrifft vorhanden iſt/das ſo der huff groͤſſer ſye/",
-        "b": null,
+        "b": "forten\n64\nDie erst sclsßsred\nwill der nu syn / wo mur zwen oder dry\nIn sinem namen versamlbt sind / Was darff\nman sich erst vmbseͤchen /",
+        "similarity": 0.386
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "vmb ein gemein\ndan kein gschrifft vorhanden\nConcilliiu\nist / Das so der huͤff grosser / sy darumb\nder her Dester mer /",
         "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "darumb der herr deſter mer by jnenn ſyn welle/ſo muͤß\nouch ein yeder gloͤubiger empfinden vnnd nitt waͤnen/",
-        "b": null,
-        "similarity": 0.0
+        "b": "by Inen sin welle / So muͦß ouch ein jeder gloͤubiger empfuͤnden\nvnd nit waͤnen / Das der her by Im sye /",
+        "similarity": 0.4783
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "das der herr by jm ſye/das er mit Paulo ſprechen moͤge/ jch laͤben nit/ich richten nit/ich reden nit/ſonders Jeſus\nChriſtus der thůt es in mir alles.",
-        "b": null,
-        "similarity": 0.0
+        "b": "das\ner mit paulo sprechen moge / Ich laben nit / Ich richten nit / Ich reden nit / sonders\nJesus Christus / der duͦt es /",
+        "similarity": 0.6667
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "In der verantwurtung/der geſtrigen vnred des Pro\nuincials/hab ich huͤt an dem ort gelaſſen/do er wider die\nhaͤlle wort vnſers herren Jeſu/als er heyſſet den brůder/",
-        "b": null,
+        "b": "In mir alles / n Der verantwurtung der gestrigen Inred\nDes provicials / hab ich hut an Dem ort\ngelaͤsen vnd do er wider die haͤle wort\nunsers herren Jesu Als er heisset /",
+        "similarity": 0.6769
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "Den\nbruͦder / so sich uͤber bezuͤgte warnung nit\nbessern will / der kilchen anzaͤigen / fuͤrgeben hat /",
         "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "ſo ſich uͤber bezuͤgte warnung nit beſſeren wil/der Kilch\nen anzeygen/fuͤrgeben hat/das die Kilch/nit allein ein\nſondre verſamlung/ſonder die gantze gemeine Kilch im\nConcilio verſamlet heyſſen ſoͤlle/vn̄ hatt fuͤrgebē/das in\ngemeinen ſuͤnden wol nit not ſye/eins gemeynen Conci=\nlij zeerwarten/ſonders es moͤge ein yede gemeynd gottes\nſolche ſtraffe.",
-        "b": null,
-        "similarity": 0.0
+        "b": "Das die kilch / nit allein ein sondere versam // lung / sonder die gantze / gemeine kilch Im Conclio\nversamllt / heissen soͤlle /",
+        "similarity": 0.3333
       },
       {
         "op": "only_a",
@@ -80,52 +92,48 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "borten\n64\nDie erst schlußend\nwill der nu sijn, wo nur zaven oder dry\nIn smein namen versambt sind / was darff\nman sich erst vmbsechen, vmb ein gemein\nDan kein ysthrifft vorhanden\nConcitin\nist, Das so der huff grosser, so darumb\nder her Dester mer, bij Inen sin wolle,\nSo muß ouch ein Jeder glaubiger empfinden\nvnd nit wanen, Das der her by Im sijs, Das\ner mit panto sprechen moge, Ich laben nit\nIch ruchten uit, Ich reden int sonders\ngesus Christus Der Dut es, In mir alles\nIn Der verantwintung der gestrigen Inred\nDes prouinals hab ick hijt an Dem opt\ngelasen vand do er wider die gale wort\nvnsers herren Jesu Ols en heisser Den\nbruder, so sich wer bezugte war mich nit\nbessern will, der kilchen anzoipen, furgeben hat\ndas die kilch, uit allein ein sondre versam¬\nlung, sonder die gantze gemeine kiech Im concilio\nversambt, heissen solle, vnd hat furgeben, Das In\ngemeinen sunden woll int not sie eins gememen\nConcilij Zeerwarten, Sonnders es moge, ein Jede\ngemeind potes, solche straffen. Aber so es",
+        "b": "vnd hat fuͤrgeben / das In\ngemeinen suͤnden woll nit not sie / eins gemeinen\nConcilij zeerwarten / Sonnders es moge /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "ein Jede\ngemeind gotes / soͤlche straffen / aber so es /",
         "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.3796,
+    "similarity": 0.4813,
     "words": {
       "a": 311,
-      "b": 179
+      "b": 196
     },
     "segments": [
       {
         "op": "replace",
         "a": "Schlußred XLII",
-        "b": "borten 64 Die erst schlußend will der nu sijn wo nur zaven"
+        "b": "forten 64 Die erst sclsßsred will der nu syn wo mur zwen"
       },
       {
         "op": "equal",
-        "a": "oder dry in",
-        "b": "oder dry In"
-      },
-      {
-        "op": "replace",
-        "a": "ſinem",
-        "b": "smein"
-      },
-      {
-        "op": "equal",
-        "a": "namen",
-        "b": "namen"
+        "a": "oder dry in ſinem namen",
+        "b": "oder dry In sinem namen"
       },
       {
         "op": "replace",
         "a": "verſamlet",
-        "b": "versambt"
+        "b": "versamlbt"
       },
       {
         "op": "equal",
         "a": "ſind was darff man ſich erſt",
-        "b": "sind was darff man sich erst"
+        "b": "sind Was darff man sich erst"
       },
       {
         "op": "replace",
         "a": "vmbſehen",
-        "b": "vmbsechen"
+        "b": "vmbse chen"
       },
       {
         "op": "equal",
@@ -135,7 +143,7 @@
       {
         "op": "replace",
         "a": "gemeyn Concilium dann keyn geſchrifft",
-        "b": "gemein Dan kein ysthrifft"
+        "b": "gemein dan kein gschrifft"
       },
       {
         "op": "equal",
@@ -145,17 +153,17 @@
       {
         "op": "insert",
         "a": "",
-        "b": "Concitin"
+        "b": "Concilliiu"
       },
       {
         "op": "equal",
-        "a": "iſt das ſo der huff",
-        "b": "ist Das so der huff"
+        "a": "iſt das ſo der",
+        "b": "ist Das so der"
       },
       {
         "op": "replace",
-        "a": "gro ſſer ſye",
-        "b": "grosser so"
+        "a": "huff gro ſſer ſye",
+        "b": "hu ff grosser sy"
       },
       {
         "op": "equal",
@@ -169,48 +177,38 @@
       },
       {
         "op": "equal",
-        "a": "deſter mer",
-        "b": "Dester mer"
+        "a": "deſter mer by",
+        "b": "Dester mer by"
       },
       {
         "op": "replace",
-        "a": "by jnenn ſyn welle",
-        "b": "bij Inen sin wolle"
+        "a": "jnenn ſyn",
+        "b": "Inen sin"
       },
       {
         "op": "equal",
-        "a": "ſo",
-        "b": "So"
+        "a": "welle ſo mu ß ouch ein",
+        "b": "welle So mu ß ouch ein"
       },
       {
         "op": "replace",
-        "a": "mu ß",
-        "b": "muß"
+        "a": "yeder",
+        "b": "jeder"
       },
       {
         "op": "equal",
-        "a": "ouch ein",
-        "b": "ouch ein"
+        "a": "glo ubiger",
+        "b": "glo ubiger"
       },
       {
         "op": "replace",
-        "a": "yeder glo ubiger",
-        "b": "Jeder glaubiger"
+        "a": "empfinden vnnd nitt",
+        "b": "empfu nden vnd nit"
       },
       {
         "op": "equal",
-        "a": "empfinden",
-        "b": "empfinden"
-      },
-      {
-        "op": "replace",
-        "a": "vnnd nitt wa nen",
-        "b": "vnd nit wanen"
-      },
-      {
-        "op": "equal",
-        "a": "das der",
-        "b": "Das der"
+        "a": "wa nen das der",
+        "b": "wa nen Das der"
       },
       {
         "op": "replace",
@@ -219,28 +217,8 @@
       },
       {
         "op": "equal",
-        "a": "by jm",
-        "b": "by Im"
-      },
-      {
-        "op": "replace",
-        "a": "ſye",
-        "b": "sijs"
-      },
-      {
-        "op": "equal",
-        "a": "das er mit",
-        "b": "Das er mit"
-      },
-      {
-        "op": "replace",
-        "a": "Paulo",
-        "b": "panto"
-      },
-      {
-        "op": "equal",
-        "a": "ſprechen",
-        "b": "sprechen"
+        "a": "by jm ſye das er mit Paulo ſprechen",
+        "b": "by Im sye das er mit paulo sprechen"
       },
       {
         "op": "replace",
@@ -259,58 +237,28 @@
       },
       {
         "op": "equal",
-        "a": "nit ich",
-        "b": "nit Ich"
-      },
-      {
-        "op": "replace",
-        "a": "richten nit",
-        "b": "ruchten uit"
-      },
-      {
-        "op": "equal",
-        "a": "ich reden",
-        "b": "Ich reden"
-      },
-      {
-        "op": "replace",
-        "a": "nit",
-        "b": "int"
-      },
-      {
-        "op": "equal",
-        "a": "ſonders",
-        "b": "sonders"
-      },
-      {
-        "op": "replace",
-        "a": "Jeſus",
-        "b": "gesus"
-      },
-      {
-        "op": "equal",
-        "a": "Chriſtus der",
-        "b": "Christus Der"
+        "a": "nit ich richten nit ich reden nit ſonders Jeſus Chriſtus der",
+        "b": "nit Ich richten nit Ich reden nit sonders Jesus Christus der"
       },
       {
         "op": "replace",
         "a": "thůt",
-        "b": "Dut"
+        "b": "du t"
       },
       {
         "op": "equal",
-        "a": "es in mir alles In der",
-        "b": "es In mir alles In Der"
+        "a": "es in mir alles",
+        "b": "es In mir alles"
       },
       {
         "op": "replace",
-        "a": "verantwurtung",
-        "b": "verantwintung"
+        "a": "In",
+        "b": "n"
       },
       {
         "op": "equal",
-        "a": "der geſtrigen",
-        "b": "der gestrigen"
+        "a": "der verantwurtung der geſtrigen",
+        "b": "Der verantwurtung der gestrigen"
       },
       {
         "op": "replace",
@@ -325,62 +273,62 @@
       {
         "op": "replace",
         "a": "Pro uincials",
-        "b": "prouinals"
+        "b": "provicials"
       },
       {
         "op": "equal",
-        "a": "hab",
-        "b": "hab"
+        "a": "hab ich",
+        "b": "hab ich"
       },
       {
         "op": "replace",
-        "a": "ich hu t",
-        "b": "ick hijt"
+        "a": "hu t",
+        "b": "hut"
       },
       {
         "op": "equal",
-        "a": "an dem",
-        "b": "an Dem"
+        "a": "an dem ort",
+        "b": "an Dem ort"
       },
       {
         "op": "replace",
-        "a": "ort gelaſſen",
-        "b": "opt gelasen vand"
+        "a": "gelaſſen",
+        "b": "gela sen vnd"
       },
       {
         "op": "equal",
-        "a": "do er wider die",
-        "b": "do er wider die"
+        "a": "do er wider die ha",
+        "b": "do er wider die ha"
       },
       {
         "op": "replace",
-        "a": "ha lle",
-        "b": "gale"
+        "a": "lle",
+        "b": "le"
       },
       {
         "op": "equal",
-        "a": "wort vnſers herren Jeſu",
-        "b": "wort vnsers herren Jesu"
+        "a": "wort vnſers herren Jeſu als er",
+        "b": "wort unsers herren Jesu Als er"
       },
       {
         "op": "replace",
-        "a": "als er heyſſet",
-        "b": "Ols en heisser"
+        "a": "heyſſet",
+        "b": "heisset"
       },
       {
         "op": "equal",
-        "a": "den brůder ſo ſich",
-        "b": "Den bruder so sich"
+        "a": "den",
+        "b": "Den"
       },
       {
         "op": "replace",
-        "a": "u ber bezu gte warnung",
-        "b": "wer bezugte war mich"
+        "a": "brůder",
+        "b": "bru der"
       },
       {
         "op": "equal",
-        "a": "nit",
-        "b": "nit"
+        "a": "ſo ſich u ber bezu gte warnung nit",
+        "b": "so sich u ber bezu gte warnung nit"
       },
       {
         "op": "replace",
@@ -394,63 +342,63 @@
       },
       {
         "op": "replace",
-        "a": "Kilch en anzeygen fu rgeben",
-        "b": "kilchen anzoipen furgeben"
+        "a": "Kilch en anzeygen",
+        "b": "kilchen anza igen"
       },
       {
         "op": "equal",
-        "a": "hat das die Kilch",
-        "b": "hat das die kilch"
+        "a": "fu rgeben hat das die Kilch nit allein ein",
+        "b": "fu rgeben hat Das die kilch nit allein ein"
       },
       {
         "op": "replace",
-        "a": "nit",
-        "b": "uit"
+        "a": "ſondre verſamlung",
+        "b": "sondere versam lung"
       },
       {
         "op": "equal",
-        "a": "allein ein ſondre",
-        "b": "allein ein sondre"
+        "a": "ſonder die gantze gemeine Kilch im",
+        "b": "sonder die gantze gemeine kilch Im"
       },
       {
         "op": "replace",
-        "a": "verſamlung",
-        "b": "versam lung"
+        "a": "Concilio verſamlet heyſſen",
+        "b": "Conclio versamllt heissen"
       },
       {
         "op": "equal",
-        "a": "ſonder die gantze gemeine",
-        "b": "sonder die gantze gemeine"
+        "a": "ſo lle",
+        "b": "so lle"
       },
       {
         "op": "replace",
-        "a": "Kilch",
-        "b": "kiech"
+        "a": "vn hatt",
+        "b": "vnd hat"
       },
       {
         "op": "equal",
-        "a": "im Concilio",
-        "b": "Im concilio"
+        "a": "fu",
+        "b": "fu"
       },
       {
         "op": "replace",
-        "a": "verſamlet heyſſen ſo lle vn hatt fu rgebe",
-        "b": "versambt heissen solle vnd hat furgeben"
+        "a": "rgebe",
+        "b": "rgeben"
       },
       {
         "op": "equal",
-        "a": "das in gemeinen",
-        "b": "Das In gemeinen"
+        "a": "das in gemeinen ſu nden",
+        "b": "das In gemeinen su nden"
       },
       {
         "op": "replace",
-        "a": "ſu nden wol nit",
-        "b": "sunden woll int"
+        "a": "wol",
+        "b": "woll"
       },
       {
         "op": "equal",
-        "a": "not",
-        "b": "not"
+        "a": "nit not",
+        "b": "nit not"
       },
       {
         "op": "replace",
@@ -465,12 +413,12 @@
       {
         "op": "replace",
         "a": "gemeynen Conci lij",
-        "b": "gememen Concilij"
+        "b": "gemeinen Concilij"
       },
       {
         "op": "equal",
         "a": "zeerwarten",
-        "b": "Zeerwarten"
+        "b": "zeerwarten"
       },
       {
         "op": "replace",
@@ -494,23 +442,13 @@
       },
       {
         "op": "replace",
-        "a": "yede gemeynd gottes",
-        "b": "Jede gemeind potes"
-      },
-      {
-        "op": "equal",
-        "a": "ſolche",
-        "b": "solche"
-      },
-      {
-        "op": "replace",
-        "a": "ſtraffe",
-        "b": "straffen"
+        "a": "yede gemeynd gottes ſolche ſtraffe",
+        "b": "Jede gemeind gotes so lche straffen"
       },
       {
         "op": "equal",
         "a": "Aber ſo es",
-        "b": "Aber so es"
+        "b": "aber so es"
       },
       {
         "op": "delete",
@@ -518,7 +456,7 @@
         "b": ""
       }
     ],
-    "ops": 43,
+    "ops": 35,
     "truncated": false
   }
 }

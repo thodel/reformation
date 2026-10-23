@@ -8,7 +8,7 @@
       171
     ]
   },
-  "alignment_score": 0.1319,
+  "alignment_score": 0.25,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 10,
-    "matched": 0,
-    "only_a": 4,
-    "only_b": 6,
-    "similarity": 0.0,
+    "units": 11,
+    "matched": 2,
+    "only_a": 2,
+    "only_b": 7,
+    "similarity": 0.3226,
     "pairs": [
       {
         "op": "only_a",
@@ -36,16 +36,28 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
-        "a": "Das diß die heylig Chriſtenlich Kilch iſt/dero eynig\nhoupt Chriſtus/nit der Bapſt/die vß dem wort got\ntes geboren/nit vß beſchluß der Concilien/die im ſelbi=\ngen blypt/darnach laͤbt/vnangeſehen was alle welt ſuͤſt\nthuͤt/Jr werdend vor dem richterſtuͤl Chriſti Jeſu fuͤr\nuͤch/vnd nit fuͤr andre Kilchen rechenſchafft geben muͤſ=\nſen/vnnd nit vor den Concilien/oder Baͤpſtlichen Kil=\nchen.",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "iiigkeit\noͤberndig\nDas dis die heillig Christen lich kilch ist / der // einig houpt Christus nit der Bapst ist / Die\nvsß dem wort gotes geporn /",
         "similarity": 0.0
       },
       {
-        "op": "only_a",
-        "a": "Darumb wellend jr zuͤ goͤtlicher vnnd allein Be=\nſtendiger einigkeyt kommen/ſo laſſend uͤch lieben Chri=\nſten ja kein ſcharpff liſtig geſchwaͤtz der menſchen vff die\nuͤberuß haͤßlich vnd Beſudlete gmeynd der Baͤpſtlichen\nabzien/ſonders gebt rum vnnd ſtatt dem wort/deß der\nſich geſchaffen/vnnd durch das bluͤt ſines ſuns thuͤr er=\nkoufft hat.",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "nit vsß beschluͤsß\nDer concilien Die imselbigen blipt / Darnach / laͤpt vangesechen / was alle wellt sunst thue // Ir werdent vor Dem richter stull Christi ifen\nvnd nit fuͤr uͤch /",
         "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "Das diß die heylig Chriſtenlich Kilch iſt/dero eynig\nhoupt Chriſtus/nit der Bapſt/die vß dem wort got\ntes geboren/nit vß beſchluß der Concilien/die im ſelbi=\ngen blypt/darnach laͤbt/vnangeſehen was alle welt ſuͤſt\nthuͤt/Jr werdend vor dem richterſtuͤl Chriſti Jeſu fuͤr\nuͤch/vnd nit fuͤr andre Kilchen rechenſchafft geben muͤſ=\nſen/vnnd nit vor den Concilien/oder Baͤpſtlichen Kil=\nchen.",
+        "b": "vnd nit fuͤr andre kilchenn\nrechen schafft geben muͤssen / vnnd nit vor den\nconcilien / oder Baͤpstlichen kilchen /",
+        "similarity": 0.3158
+      },
+      {
+        "op": "match",
+        "a": "Darumb wellend jr zuͤ goͤtlicher vnnd allein Be=\nſtendiger einigkeyt kommen/ſo laſſend uͤch lieben Chri=\nſten ja kein ſcharpff liſtig geſchwaͤtz der menſchen vff die\nuͤberuß haͤßlich vnd Beſudlete gmeynd der Baͤpſtlichen\nabzien/ſonders gebt rum vnnd ſtatt dem wort/deß der\nſich geſchaffen/vnnd durch das bluͤt ſines ſuns thuͤr er=\nkoufft hat.",
+        "b": "Darumb\nwellend Ir zuͦ goͤttlicher vnnd allein bestendiget\nkilchen komen / So lassend uͤch lieben Christen / Ja kein scharff listig geschwets /",
+        "similarity": 0.3294
       },
       {
         "op": "only_a",
@@ -56,52 +68,46 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "# sinigket\nL'abendig\nDas dis die heillig Christen lich kilch ist, dero\neinig houpt Christus uit der Bapst ist\nDie\nvoorss.",
+        "b": "der moͤnschen\nvff die uͤbervsß hesslich vnnd befuͤdlot ge // meind der Baͤpstlicher abzien / sonders gebt\nrum vnd stat /",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "Dem wort gotes geporn, int vss. bestchlussen\nDer comilien, Die Imselbigen blijft, Darnach\nlapt, vnangesechen was alle wellt sunst thue\nIn werden vor dem richter siell Christi Jesu\nvnd mit fur vih, vnd int fur andre kilchenn\nrechen schafft geben mussen vnd int voorn.",
+        "b": "dem wort des der uͤch ge // schaffen / vnnd Durch das blut sins suns thur // ertouffet / hatt / Hoͤrendt nit die stum der\nfroͤmbden /",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "den\nconclien, oder Bäpstlichen Kirchen, Darumb\nwollend in zu potclicher vnnd allem bestendiget\nkilchen komen/ So lassend vch lieben Christen\nJa kem scharff listig geschweten, der monschen\nvff die wervsz gesslich vnnd besudlote ge¬\nmeind der Bäpstlicher abzien/",
+        "b": "die sich selber suchen / wie has\ngriffen muͤssend / sonders hoͤrend die lebende\nmachend\ngemachet sinn des einigen / hirten uͤwer\nHelen Jesen Christi /",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "somnders gebt\nrum vnd stat dem wort Des der vande ge¬\nschaffen, vnnd durch das blut sins suns thuen\nter kouffet, hatt.",
+        "b": "Der Da spricht kinn\nzuͦ mir / nit zuͦ minem stathallter / oder\nConcilien sonders zuͦ mir / All die Ir\nncknn\nbeladen /",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "Hoerendt nit die stim. Da\nfrombden, die sich selber suchen, wie Irs\ngriffen mussend, somnders horend die lebende\nmackenen\npenechen stum Des einngen, hirten vijver\nSelen Jesu Christi, Der da spricht kunge\nzu mir, nit zu minem stath aelter, oder\nComitien sonders zu mir:",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "Alle die Ir\nquidem\nbeladen, sind Ich will vch ergungeren\nZou Disem gefuren, Haben, sich gewissen",
+        "b": "sind / Ich will uͤch er gnich penet  // Zzuͦ Disem gefuͤren / haben sich ge vlisten",
         "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.2584,
+    "similarity": 0.4074,
     "words": {
       "a": 171,
-      "b": 185
+      "b": 207
     },
     "segments": [
       {
         "op": "insert",
         "a": "",
-        "b": "sinigket L abendig Das dis"
+        "b": "iiigkeit o berndig Das dis"
       },
       {
         "op": "equal",
@@ -115,28 +121,18 @@
       },
       {
         "op": "equal",
-        "a": "Kilch iſt dero",
-        "b": "kilch ist dero"
+        "a": "Kilch iſt",
+        "b": "kilch ist"
       },
       {
         "op": "replace",
-        "a": "eynig",
-        "b": "einig"
+        "a": "dero eynig",
+        "b": "der einig"
       },
       {
         "op": "equal",
-        "a": "houpt Chriſtus",
-        "b": "houpt Christus"
-      },
-      {
-        "op": "replace",
-        "a": "nit",
-        "b": "uit"
-      },
-      {
-        "op": "equal",
-        "a": "der Bapſt",
-        "b": "der Bapst"
+        "a": "houpt Chriſtus nit der Bapſt",
+        "b": "houpt Christus nit der Bapst"
       },
       {
         "op": "insert",
@@ -151,47 +147,47 @@
       {
         "op": "replace",
         "a": "vß",
-        "b": "voorss"
+        "b": "vsß"
       },
       {
         "op": "equal",
         "a": "dem wort",
-        "b": "Dem wort"
+        "b": "dem wort"
       },
       {
         "op": "replace",
-        "a": "got tes geboren nit vß beſchluß",
-        "b": "gotes geporn int vss bestchlussen"
+        "a": "got tes geboren",
+        "b": "gotes geporn"
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "Der"
+        "a": "nit",
+        "b": "nit"
       },
       {
         "op": "replace",
-        "a": "Concilien",
-        "b": "comilien"
+        "a": "vß beſchluß",
+        "b": "vsß beschlu sß"
       },
       {
         "op": "equal",
-        "a": "die",
-        "b": "Die"
+        "a": "der Concilien die",
+        "b": "Der concilien Die"
       },
       {
         "op": "replace",
         "a": "im ſelbi gen blypt",
-        "b": "Imselbigen blijft"
+        "b": "imselbigen blipt"
       },
       {
         "op": "equal",
-        "a": "darnach",
-        "b": "Darnach"
+        "a": "darnach la",
+        "b": "Darnach la"
       },
       {
         "op": "replace",
-        "a": "la bt vnangeſehen",
-        "b": "lapt vnangesechen"
+        "a": "bt vnangeſehen",
+        "b": "pt vangesechen"
       },
       {
         "op": "equal",
@@ -201,77 +197,97 @@
       {
         "op": "replace",
         "a": "welt ſu ſt thu t Jr werdend",
-        "b": "wellt sunst thue In werden"
+        "b": "wellt sunst thue Ir werdent"
       },
       {
         "op": "equal",
         "a": "vor dem",
-        "b": "vor dem"
+        "b": "vor Dem"
       },
       {
         "op": "replace",
         "a": "richterſtu l",
-        "b": "richter siell"
+        "b": "richter stull"
       },
       {
         "op": "equal",
-        "a": "Chriſti Jeſu",
-        "b": "Christi Jesu"
-      },
-      {
-        "op": "delete",
-        "a": "fu r u ch",
-        "b": ""
-      },
-      {
-        "op": "equal",
-        "a": "vnd",
-        "b": "vnd"
+        "a": "Chriſti",
+        "b": "Christi"
       },
       {
         "op": "replace",
-        "a": "nit fu r",
-        "b": "mit fur vih vnd int fur"
+        "a": "Jeſu",
+        "b": "ifen vnd nit"
       },
       {
         "op": "equal",
-        "a": "andre",
-        "b": "andre"
+        "a": "fu r u ch vnd nit fu r andre",
+        "b": "fu r u ch vnd nit fu r andre"
       },
       {
-        "op": "insert",
-        "a": "",
-        "b": "kilchenn rechen schafft geben mussen vnd int voorn den conclien oder Bäpstlichen Kirchen Darumb wollend in zu potclicher vnnd allem bestendiget"
+        "op": "replace",
+        "a": "Kilchen rechenſchafft",
+        "b": "kilchenn rechen schafft"
       },
       {
         "op": "equal",
-        "a": "Kilchen",
+        "a": "geben mu",
+        "b": "geben mu"
+      },
+      {
+        "op": "replace",
+        "a": "ſ ſen",
+        "b": "ssen"
+      },
+      {
+        "op": "equal",
+        "a": "vnnd nit vor den Concilien oder Ba pſtlichen",
+        "b": "vnnd nit vor den concilien oder Ba pstlichen"
+      },
+      {
+        "op": "replace",
+        "a": "Kil chen",
         "b": "kilchen"
       },
       {
+        "op": "equal",
+        "a": "Darumb wellend jr zu go",
+        "b": "Darumb wellend Ir zu go"
+      },
+      {
         "op": "replace",
-        "a": "rechenſchafft geben mu ſ ſen vnnd nit vor den Concilien oder Ba pſtlichen Kil chen Darumb wellend jr zu go tlicher vnnd allein Be ſtendiger einigkeyt kommen",
-        "b": "komen"
+        "a": "tlicher",
+        "b": "ttlicher"
       },
       {
         "op": "equal",
-        "a": "ſo laſſend",
-        "b": "So lassend"
+        "a": "vnnd allein",
+        "b": "vnnd allein"
       },
       {
         "op": "replace",
-        "a": "u ch",
-        "b": "vch"
+        "a": "Be ſtendiger einigkeyt kommen",
+        "b": "bestendiget kilchen komen"
       },
       {
         "op": "equal",
-        "a": "lieben",
-        "b": "lieben"
+        "a": "ſo laſſend u ch lieben",
+        "b": "So lassend u ch lieben"
       },
       {
         "op": "replace",
-        "a": "Chri ſten ja kein ſcharpff",
-        "b": "Christen Ja kem scharff"
+        "a": "Chri ſten ja",
+        "b": "Christen Ja"
+      },
+      {
+        "op": "equal",
+        "a": "kein",
+        "b": "kein"
+      },
+      {
+        "op": "replace",
+        "a": "ſcharpff",
+        "b": "scharff"
       },
       {
         "op": "equal",
@@ -281,7 +297,7 @@
       {
         "op": "replace",
         "a": "geſchwa tz",
-        "b": "geschweten"
+        "b": "geschwets"
       },
       {
         "op": "equal",
@@ -291,42 +307,32 @@
       {
         "op": "replace",
         "a": "menſchen",
-        "b": "monschen"
+        "b": "mo nschen"
       },
       {
         "op": "equal",
-        "a": "vff die",
-        "b": "vff die"
+        "a": "vff die u",
+        "b": "vff die u"
       },
       {
         "op": "replace",
-        "a": "u beruß ha ßlich vnd Beſudlete gmeynd",
-        "b": "wervsz gesslich vnnd besudlote ge meind"
+        "a": "beruß ha ßlich vnd Beſudlete gmeynd",
+        "b": "bervsß hesslich vnnd befu dlot ge meind"
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
+        "a": "der Ba",
+        "b": "der Ba"
       },
       {
         "op": "replace",
-        "a": "Ba pſtlichen",
-        "b": "Bäpstlicher"
+        "a": "pſtlichen",
+        "b": "pstlicher"
       },
       {
         "op": "equal",
-        "a": "abzien",
-        "b": "abzien"
-      },
-      {
-        "op": "replace",
-        "a": "ſonders",
-        "b": "somnders"
-      },
-      {
-        "op": "equal",
-        "a": "gebt rum",
-        "b": "gebt rum"
+        "a": "abzien ſonders gebt rum",
+        "b": "abzien sonders gebt rum"
       },
       {
         "op": "replace",
@@ -341,7 +347,7 @@
       {
         "op": "replace",
         "a": "deß",
-        "b": "Des"
+        "b": "des"
       },
       {
         "op": "equal",
@@ -351,12 +357,12 @@
       {
         "op": "replace",
         "a": "ſich geſchaffen",
-        "b": "vande ge schaffen"
+        "b": "u ch ge schaffen"
       },
       {
         "op": "equal",
         "a": "vnnd durch das",
-        "b": "vnnd durch das"
+        "b": "vnnd Durch das"
       },
       {
         "op": "replace",
@@ -370,31 +376,51 @@
       },
       {
         "op": "replace",
-        "a": "thu r er koufft hat Ho rend",
-        "b": "thuen ter kouffet hatt Hoerendt"
+        "a": "thu r er koufft hat",
+        "b": "thur ertouffet hatt Ho rendt nit die stum der fro mbden die sich selber suchen wie has griffen mu ssend sonders"
       },
       {
         "op": "equal",
-        "a": "nit die ſtim",
-        "b": "nit die stim"
+        "a": "Ho rend",
+        "b": "ho rend"
+      },
+      {
+        "op": "insert",
+        "a": "",
+        "b": "die lebende machend gemachet sinn des einigen hirten u wer Helen Jesen Christi Der Da spricht kinn zu mir"
+      },
+      {
+        "op": "equal",
+        "a": "nit",
+        "b": "nit"
+      },
+      {
+        "op": "insert",
+        "a": "",
+        "b": "zu minem stathallter oder Concilien sonders zu mir All"
+      },
+      {
+        "op": "equal",
+        "a": "die",
+        "b": "die"
       },
       {
         "op": "replace",
-        "a": "der fro mbdenn",
-        "b": "Da frombden"
+        "a": "ſtim der fro mbdenn die",
+        "b": "Ir ncknn beladen sind Ich will u ch er gnich penet Zzu Disem gefu ren haben"
       },
       {
         "op": "equal",
-        "a": "die ſich",
-        "b": "die sich"
+        "a": "ſich",
+        "b": "sich"
       },
       {
         "op": "replace",
         "a": "ſ",
-        "b": "selber suchen wie Irs griffen mussend somnders horend die lebende mackenen penechen stum Des einngen hirten vijver Selen Jesu Christi Der da spricht kunge zu mir nit zu minem stath aelter oder Comitien sonders zu mir Alle die Ir quidem beladen sind Ich will vch ergungeren Zou Disem gefuren Haben sich gewissen"
+        "b": "ge vlisten"
       }
     ],
-    "ops": 30,
+    "ops": 32,
     "truncated": false
   }
 }
