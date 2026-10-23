@@ -1,27 +1,27 @@
 # Seite 169
 
-wirt
-Das ewig leiben, Johannis am vi cap: vnnd
-mogent solche zweyung endtlich int schaden
-Das vertruwen vff got, welches der erwelten
-läben ist, wurd furfaren vnnd eurch gottes
-geist noch volkomen werden vnnd kein ende
-niemer mer nemen wider solches, Das die
-schrifftlich warheit ist, liet des worts, wer
-an mich glouet, Der hat Das zwie labenn
-Hatt Der provinciat aber een an alle voorschrifft
-ein Iurede than. Es sie int gnug, das einer
-glenbe, Das Jun Christus Credi sijt habe Er¬
-musse Darbij ouch glauben, alles das das
-die gemeine christenlich krech, die er doch
-verstat alle getoufften, vnder Denen vill ver¬
-Worffner sind, die kein glauben wie en schmacken
-haben geloubet her vnnd angenomen vermeinet
-Das zebewaren Das wir selbst bekennen, etliche
-ketzer verdam not sijn/ Die solches glenwert
-haben, Darzu sagen wir nein :/ wer de plenet
-hat ein mall. Das vnser her Jesus Christus
-Ime eresser hab, Der hat das schell Des
-Heilligen geists zum ewigen laben empfangen
-Dann Welliche an Jesum glouwen sind kinder
-gottes, Johannis am ersten capi vnd magh
+os
+Das ewig laͤben / Johannis am vj ͦ cap: vnnd
+mogent soͤlche Zweyung endtlich / nit schaden /
+Das vertruwen vff got / welches der erwelten
+laͤben ist / wnd fuͤrfaren / vnnd durch gottes
+geist noch volkomen werden / vnnd kein end
+niemer mer naͤmen wider soͤlches das die
+schrifftlich warheit / ist / lut des worts wer
+an mich gloubt / Der hat das ewig laͤbenn /
+hatt Der provinciat aber ii xm alle gschrifft
+ein Inred / than / Es sie nit gnuͦg / Das einer
+gloube / Das Inn Christus erloͤset habe / Er //
+muͤsse Darby ouch glouben / alles das / Das
+die gemeind christenlich kilch / Die er doch
+verstat alle getoufften / vnder Denen vill vere //
+worffner sind / die kein glouben nie erschmacket
+haben / geloubet het vnnd angenomen / vermeinet
+Das zebewaͤren / Das wir selbs bekennen / etliche
+ketzer verdammot sin / Die soͤlches gloubett
+haben / darzuͦ sagen wir nein / Wer Je glaubt
+hat / ein mall Das vnser her Jesus Christus
+Inn erloͤset hab / der hat das sigell des
+heilligen geists / zum ewigen laͤben empfangen
+Dann welliche an Jesum glouben sind kider
+gottes / Johannis am ersten cap: Vnd mins

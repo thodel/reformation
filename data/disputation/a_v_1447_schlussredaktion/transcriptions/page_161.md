@@ -1,26 +1,26 @@
 # Seite 161
 
-Das es die volcker In einigkeit der Irthume
-er haelten hatt, vnnd so bale by vns Das got¬
-lich wort durch den frommen Hussen In Böchen
-Haxfurbrochen hatt, Hat der allt find sint
-aller stuckly, wider harfurbracht, vnnd
-vilecley secten vnnd Zertreuwen angerichtet,
-Namlich da frecheit des werts gewesen ist
-an anndern erven, hatt er mit Dem
-velltlichen gevallt, Das wort Zeendertrucken
-anderstanden, Geben vff die vijss hare let¬
-er jetznder / noch vffgang des Enangelij bij
-ens thustchen, wo er die welckich wer¬
-keit zu verpieten, Das predig ampt, int brin¬
-gen mag, bericht er snust Irrige, vnd verwurret
-lut, die vnbillichs zertrennen anrichten, das
-will dan pot allso haben, Damit die smen
-leren vffkent monschen sochen, somnders vff die
-versicherung, des der heilligen geist Inwendig
-Im hertzen ein jeder muß vande got gelegt vnd
-In sinem hertzen also versichert sin. Das
-ex ovo int allein sein Conciliu nit allein die
-gantje Wellet, sonders ouch die Engell voor
-huneel mit Fenchen vnnd wundern ein anders
-furgeben, Das er sij mit panto, sy verfluchen
+Das es Die voͤlker / In einigkein der Jrthumb
+er halten hatt / vnnd so bald by vns das goͤt //
+lich wort / Durch den frommen Hussen In Boͤhe
+harfuͤrbrochen hatt / hat der allt fiend sine
+allte stuckly / wider harfuͤr bracht / vnnd
+vieerley secten vnnd Zertrenung angerichtet
+NNamlich da fryheit des worts gewesen ist
+an anndern orten / hatt er mit Dem
+welltlichen gewallt / Das wort zevndertrucken /
+vnderstanden / Aben vff die wyß handlot
+er jetzuder / nach vffgang Des Euangelij by
+vns thuschen / wo er die welltlich ober //
+keit / zuͦ verpieten Das predig ampt / nit briͤn //
+gen mag / bewegt er senst Jrrige / vnd verdprret
+lut / die vnbilliche Zertrennng anrichten / Das
+will dan got allso haben / Damit die sinen
+leren vffkein moͤnschen sechen / sonders vff die
+versachrung / Das der heilligegeist / Inwendig
+Im hertzen / ein jeder muͦß von got gelert vnd
+In sinem hertzen allso versichert sin / Das
+er wo nit allein / ein Conciliu nit allein die
+gantze wellt / sonders ouch die Engell / vom
+himell mit zeichen / vnnd wunderen ein anders
+furgeben / Das er sy mit pauto / sy verfluͤchen

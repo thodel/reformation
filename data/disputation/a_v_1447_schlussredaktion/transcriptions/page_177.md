@@ -1,32 +1,32 @@
 # Seite 177
 
-Doctor Wolff Capito vnnd Martinus buer pro¬
-Dicanten, zu Straßburg, gegen einandern, nu sein
-zijt lang gehept, hie an Sogen vnd geantwurter
-int wijter welken gestatten vor der gemeind
-zu Berum, Inn angesetener Disputatien, ze¬
-vollennden vnnd volstrecken van wir van
-vnsern hern von verum, zu presidenten ver¬
-ordnet sind, wer Ir anngkell, vnnd Ehenis
-wegs wer einicher lei frombder handlung
-vnd spen, so Jemands wider den anndern
-mochts haben
-Darinns wir
-Dons beheben, Dem selbigen ampt, allein zu Denen
-wet minem hern Promimat erlonbenn,
-wir fry Zereden, vnnd ze Disputieren, mit den
-Predicanten von Berum, wider Ir furgenomen
-sarngkell, vss. götlichem wort, nach ordnung
-vnnd ansechen, min ner gnedigen herren van
-Berun
-Damit kein Kilch oder gemeinde
-it
-dezem person hie zugegen, oder ander schwo werd
-angedadlet, was Jeder glouet oder nit gloubt,
-Dabe wir Inn ouch pitten flisslich, Das
-er sich des wijter vndernem zu erlutrung
-des handels vnd den Span so er mit den
-predicanten von Strassburg hatt zu anderm
-lenpt
-reden v
-spuren
+Doctor Wolff Capito vnnd Martinus bucer pr //
+Dicanten / zu Strastburg / gegen einandern / nu ein
+zyt lang gehept / hie anzogen / vnd geantwurtet
+nit wyter wellen gestatten vor der gemeind
+zuͦ Bernn / Inn angesechner Disputaton ze //
+vollennden vnnd volstrecken / Dan wir von
+vnseren hern von Bernn / zu presidenten ver //
+ordnet sind / uber Ir antigkell / vnnd Dheins
+wegs uͤber einicherlei froͤmbder handlung
+vnd spen / so jemands wider den anndern
+mochte haben /
+ern aarumb wir
+vns begeben / Dem felbigen ampt / allein zuͦ Dienen /
+aber minem hern Vrovinciat erloubenn
+wir fry zereden / vnnd ze Disputieren / mit den
+preicanten von Bernn wider Ir fuͤrgenomen
+artigkell vsß goͤtlichem wort / nach ordnung
+vnnd ansechen / min ner gnedigen herren von
+Bernn /
+Damit kein kilch oder gemeind /
+nit
+Dhein person hie zugegen / oder anderschws werd
+angedadlet / was Jeder gloubt oder nit gloubt /
+Daby wir Inn ouch pitten / flisslich / Das
+er sich des wyter vndernem / zuͦ erluͤtrung
+Des handel / vnd Den span so er mit des
+predicrnten von Sersthurig hatt/ zuͦ antern
+ept
+wacten ten
+seter

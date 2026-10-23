@@ -22,7 +22,7 @@ alle die so zuo Disputieren willens vnd verfassen
 sind, si zuovor des ußgegangenen Mandats und aller
 Ordnung, So dem gespräch zuo guot uff gestrigen tag
 dem Herrn Stattschriber uß ansehen der Herren verläßen
-sind welch im flis und sorgen haben wollen
+sind welch im flis und sorg haben wellend
 erstang ein
 Johanes Balthasar von Rinfel
 das Sumer prædirem zu Terrere

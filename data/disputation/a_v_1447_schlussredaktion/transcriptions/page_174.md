@@ -1,33 +1,33 @@
 # Seite 174
 
-muß sie
-an
-gehalt
-under
-sitten
-68
-des erst schlusred
-lichen wort, gehept, vnnd die warhafft vnd
-gotlich erfunden, habend sij int min sonder gotes
-wort vnnd meijning angenomen. Dem ernst¬
-lich angehaupt (pot hab lob) vnd sich so
-wel hott geben, nach der anfengklichen klichen
-sidt, vnnd ordnung reformiert vnd gestahet
-Een angesechen alle minstliche leer Das
-ab,, ick von Im angezogen Sam, ick mich des
-gersts der gschrifft berumbt, besthicht mir
-wareich vngutlich vnnd bezug, das vff alles
-mine schrifften, vnnd die so mine predigen
-gehort, haben, pitt hiemit hern pronunciat
-von fräffnen, vnwaren reden, sich gommen, vnd
-allein Des goeckgen worts gehalbten/ Damit
-Die gijt int vnmitzlich verzert werden, Eccolam¬
-parnis vnnd miner leer rechnung wint meuff¬
-lichem gegeben, ob got will mit ermist vnd
-zucht In furfarender Disputatien. So verr man
-die mit liebe gotes vnd der warheit volstrecken
-wirdt, ende
-1 Cum cursine,
-V Cöberche Rijd Elbss Der promunat an¬
-fiens zureden. Ersamen fromen lieben Christen
-Es hatt hut een hantzen Jag Marti bucer vill
+ons
+he in
+slit
+mnder
+omen
+58
+die erst schlusred
+lichen wort / gehept / vnnd die warhafft vnd
+goͤtlich erfunden / habend sy nit min sonder gotes
+wort vnnd meynung angenomen / Dem ernst //
+lich angehangt Got hab lob ) vnd sich so
+vill gott geben / nach der anfengklichen kilchen
+i en vnnd ordnung reformiert / vnd gestaltet
+umangesechen alle moͤnschliche leer / Das
+ab ich von Im angezogen / Sam / ich mich des
+geists / der gschrifft beruͤmbt / beschicht mir
+warlich vnguͤtlich vnnd bezug / Das vff alle
+mine schrifften / vnnd die so mine predigen
+gehoͤrt / haben / Ppitt hiemit hern provincial
+von fraͤffnen vnwarens reden / sich / gommen / vnd
+allein des gotlichen worts / zehallten / Damit
+die zet nit vnnutzlich verzert werd / Ecolam //
+paums vnnd miner leer / rechnung / wirt mengk //
+lichem gegeͤben / Ob got will mit ermust vnd
+zuͤcht In fuͤr farender Disputation So verr man
+die mit liebe gots / vnd der warheit velstrecken
+wirdt / tnc.
+Cum carfaͤne /
+E soͤlliche kid Allß Der prounciat an //
+fieng zuͦreden / Ersamen / fromen lieben Christen /
+Es hatt hut ein gantzen tag / Marti Bucer vill

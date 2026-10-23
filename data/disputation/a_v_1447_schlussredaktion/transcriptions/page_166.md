@@ -1,29 +1,29 @@
 # Seite 166
 
-borten
+forten
 64
-Die erst schlußend
-will der nu sijn, wo nur zaven oder dry
-In smein namen versambt sind / was darff
-man sich erst vmbsechen, vmb ein gemein
-Dan kein ysthrifft vorhanden
-Concitin
-ist, Das so der huff grosser, so darumb
-der her Dester mer, bij Inen sin wolle,
-So muß ouch ein Jeder glaubiger empfinden
-vnd nit wanen, Das der her by Im sijs, Das
-er mit panto sprechen moge, Ich laben nit
-Ich ruchten uit, Ich reden int sonders
-gesus Christus Der Dut es, In mir alles
-In Der verantwintung der gestrigen Inred
-Des prouinals hab ick hijt an Dem opt
-gelasen vand do er wider die gale wort
-vnsers herren Jesu Ols en heisser Den
-bruder, so sich wer bezugte war mich nit
-bessern will, der kilchen anzoipen, furgeben hat
-das die kilch, uit allein ein sondre versam¬
-lung, sonder die gantze gemeine kiech Im concilio
-versambt, heissen solle, vnd hat furgeben, Das In
-gemeinen sunden woll int not sie eins gememen
-Concilij Zeerwarten, Sonnders es moge, ein Jede
-gemeind potes, solche straffen. Aber so es
+Die erst sclsßsred
+will der nu syn / wo mur zwen oder dry
+In sinem namen versamlbt sind / Was darff
+man sich erst vmbseͤchen / vmb ein gemein
+dan kein gschrifft vorhanden
+Concilliiu
+ist / Das so der huͤff grosser / sy darumb
+der her Dester mer / by Inen sin welle /
+So muͦß ouch ein jeder gloͤubiger empfuͤnden
+vnd nit waͤnen / Das der her by Im sye / das
+er mit paulo sprechen moge / Ich laben nit /
+Ich richten nit / Ich reden nit / sonders
+Jesus Christus / der duͦt es / In mir alles /
+n Der verantwurtung der gestrigen Inred
+Des provicials / hab ich hut an Dem ort
+gelaͤsen vnd do er wider die haͤle wort
+unsers herren Jesu Als er heisset / Den
+bruͦder / so sich uͤber bezuͤgte warnung nit
+bessern will / der kilchen anzaͤigen / fuͤrgeben hat /
+Das die kilch / nit allein ein sondere versam //
+lung / sonder die gantze / gemeine kilch Im Conclio
+versamllt / heissen soͤlle / vnd hat fuͤrgeben / das In
+gemeinen suͤnden woll nit not sie / eins gemeinen
+Concilij zeerwarten / Sonnders es moge / ein Jede
+gemeind gotes / soͤlche straffen / aber so es /

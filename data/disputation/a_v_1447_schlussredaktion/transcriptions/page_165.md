@@ -1,26 +1,26 @@
 # Seite 165
 
-Christus beschicht, Der kilchen zu sagen, Die
-nußhandlung des bruders, der nachbe¬
-zugter warminen, sich int bessert, hat vörer
-lieb gester klackich gehort vnß den worten
-des herren, seles, Das vns die kilch Des
-orts, von not wegen, beduten muß, ein Jede
-Christenliche versamlinge, hie oder ander schwe¬
-deren dan angebracht werden moge der
-so sins bruder, es sie doch, mit volschen ler
-oder sunst bosen wercken verletzet. Des
-wellend die wort des herren selbst noch
-einmall horen, sy sind wert, des ewigen
-lebends van verzichung der wertrettung
-vnnd verletzung der brudern hat der
-her geredt vnnd redt wijter hernach, Doch
-bedenckent min, mit vijß, so viel Ich jegen
-verlesen will, Sundigot aber din bruder
-In Dir ende
-osse disem text, Ist
-sonnen klar, das der her Iesus verder vande
-einer Jegklichen versammlung der glouwigen
-vnnd wenn Iren schon mir zeven oder die
-werende, wer leur die warhert wer
-wijset vnnd furett anderst, van der her
+Christus befilcht / der kilchen zuͦ bgen / Die
+mißhandlung des bruͦders der nachbe //
+zuͤgter warnung / sich nit bessert / hat uͤwer
+lieb gester klarlich gehoͤrt / vß Den worten /
+des herren / selbs / Das vns die kilch des //
+orts von not wegen / beduͤten muͦß / ein jeee
+Christenliche versammlung / Hie oder andersch nn
+Deren dan angebracht werden / moge der
+so sine bruͤder / es sye Joch / mit valscher ler
+oder suͤnst boͤsen wercken verletzet / Das
+wellend / die wort des herren selbs / noch
+emnmall hoͤren / sy sind wort / des ewaigen
+lebends / van verzuͤchung der uͤbertrettung
+vnnd verletzung der bruͤdern hat der
+her geredt / vnnd redt wyter hernach / Doch
+bedenckent / nun / mit vlyß / so vill Ich Jetz
+verlesen will / Suͤndigot aber Din bruͦder
+In dir etc.
+vsß disem text / Ist /
+sonnen klar / Das der her Jesiuns / redet von d
+einer jegklichen versamlung der gloͤubigen
+vnnd wenn Iren / schon mir zwen oder diyg
+werend / Wer lert die warheit / wer
+wyset vnnd fuͤret anderst / dan der he //

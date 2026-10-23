@@ -1,41 +1,41 @@
 # Seite 162
 
-ende
-Pieter
-ell
-sint
-Dima
-cours and
-vnd ist böliches ort
-verlesing
-62
+vnde
+ganiet
+Bs
+M
+Fraias
+Barrens
+sond ist boͤliches ort
+walen/
+6r
 Die erst Schlusred
-Dörfft, Sobechs hab ick heben fromen Christen
-Wellen zu antwurt geben, vff die Jureden des
-prommals abgetriben den halen spruch der
-perstenen Das ist ein Jeder Christ, soll, alles richten
-Ingefurt hatt, bezugt mich aber, das ick solicher
-komen mer verantwurten will bringt er
-geschrifft, So findt er antwurt, bringt er eigen
-rede, So findt er sulshoegen, Damit aber vorer
-lieb, nach dem Dampff menschlicher reden
-wider
-Sre hertzen „ In dem liecht götlicher warheit
-erlustigen moge, So will Ich das gemeldet
-ort, pauli, zum Corunchern, s ij cap: viven leb
-verläsen vernemens aber mit vlijss dan der
-hafft Doran lijt, vnd sturtzen, en is, in als vmb
-nit allein die Jurid Des promuciaes Sonders
-allen vermeinten gevallt Des Bapsts vnd de
-Concilium, In fursthabring der artigklen des
-glaubens, So sy een abend der ysthrifft, dem
-Christen volck, zu glauben vff gestrochen haben,
+doͤrfft / Soͤllchs hab ich lieben fromen Christen
+wellen zuͦ antwurt geben / vff die Inreden des
+provincials / abzetreiben den haͤlen spruch der
+geistlich Das ist ein jeder Christ / soll / alles richten
+Ingefuͤrt hatt / bezuͤgf mich aber / das ich soͤlicher
+keiner mer verantwurten will / bringt ec
+gschrifft / So findt er antwurt / bringt er eigen
+red / So fundt er stilschwigen / Damit aber uͤwer
+lieb / nach / Dem Dampff moͤnschlicher reden
+ewider
+Ire hertzen / In dem liecht göͤtlicher warheit /
+erluͤstigen moͤge / So will Ich Das gemeldet
+ort / pauli zum Corinthern / vij ͦ cap: uͤwer lieb
+verlaͤsen / ver nemens aber mit vlyß dan der
+hafft / doran lyt / vnd sturtzet / eins / mals vmb /
+nit allein die Inred Des provincials / Sonders /
+allen vermeinten gewallt / des Bapsts / vnd der
+Concilium In fuͤrschribung der artigklen / des
+gloubens / So sy der nabend der gschrifft / dem
+Christen volck / zuͦ glouben vffgetrochen haben /
 Das
-Das vatt wellen wir hie anfachen
-Mijn
-kein ong gesecken hatt ende Ist gelesen
-ist Is Das vrtheill der warheit hier In klar¬
-lichen aelen geistlichen Das ist Christen Cmerckens
-Denn over den geist Christi
-(voel:)
-Int hatt, Ist mit sin zu gesteellet vnd keinem
+Das ortt wellen wir hie anfachen /
+Dumn
+kein ong gesechen hatt / etc Ist geliefen
+ist je das vrtheill der Warheit hierIn klaͤt //
+lichen allen geistlichen Das ist Christen (merckens
+Denn wer den geist Christi
+wollj
+nit hatt / Ist nit sin zuͦ gestellet vnd keinem

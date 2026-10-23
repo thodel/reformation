@@ -1,35 +1,35 @@
 # Seite 164
 
-be
-selven
-cheu
-encilia
-lieben
-Papre
-63
+an
+alles
+hen
+mcitit
+nee
+voate
+53
 Die erst schlusred
-gemein kilch haletet, alls getoufften wo is
-min Je ein conciliu gehalten worden etc.
-assen su et auctoritats, vsss. gehae vnnd be¬
-nelch Oder gewallt, wie er dan dee
-seees aut toritas verthusthen will, aller ge¬
-toufften gehabtten worden, was habend de
-In India, gehael oder gewaelt, dem Concilio
-zu Constantz gegeven, Da frilich uit vill
-sind die da wijssend, ob Costantz ein
-stat, oder ein thier sye, Dorinck fromen
-Christen zur schrifft, zur gschriftt, die mache
-wijs, spricht paulus vnnd zur saligkeit
-vnd leret alles guts zum thimotheo am lesten
-2a t prst. ijcap: vnnd den verstand, aber der ystchrifft
-Innussend alle kinder goetes, klug vnd einfacetig
-den vatter pitten, der sinen guten geist nie¬
-mand der In dorumb pitter versagen kan
-Damit ist verantwort des promundels frag
-worden einfieenen rechten verstand suchen soll
-Doch die gelerten In vllen Dingen, mijs¬
-halb sind, wer doch wie gesagt, well ich
-Kinder yottes sind, nimmermen In houpstucken
-Des glaubens
-Nun zum lesten Das
-wort ergachei am xviij Cap: betreffend, da
+gemein kilch halltet / alle getoͤufften / wo ist
+nun je ein con cuiu gehallten worden / er
+assen su / et auc Cocitate / vsß gehaͤl vnnd be //
+nelch / dder gewallt / wie er dan Dab //
+selbs / ant tocitas verthuͤschen will / aller go //
+toufften gehalten worden / was habend die
+In Inaia / gehaͤll oder gewallt / Dem Concilio
+zuͦ Constantz gegeben / Da frilich nit vill
+sind / Die da wuͤssend / ob Costantz ein
+stat / oder ein thier sye / darumb fromen
+Christen zuͤr spchrifft / zuͤr gschrifft die macht
+wyß / spricht paules vnde zur saͤligkeit /
+vnd leret alles guͦts / zum thimotheo an lesten
+Eo Epist aj cap vnnd den verstand / aber der gschrifft /
+amuͤssend alle kinder gottes / klug vnd einfalltig /
+Den vatter pitten / der sinen guͦten geist / nie //
+mand / der In darumb pitter versagen / kan
+Damit ist verantwurt / des provincials frag /
+wo der einfalltig rechten verstand suͦchen soll /
+Doch die gelerten In vilen Dingen / misß //
+haͤlig sind / Aber doch wie gesagt / well ich
+kunder gotes sind / niemer mer In houpstucken
+des gloubens /
+Nun zum lesten uuan Das
+wort Mathei am xviij ͦ cap: betreffend / Da
