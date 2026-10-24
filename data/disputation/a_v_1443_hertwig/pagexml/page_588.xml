@@ -1,8 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:31:02.725+01:00</Created>
-        <LastChange>2026-01-27T10:31:02.725+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-24T00:05:15Z</Created>
+        <LastChange>2026-10-24T02:06:43.147+02:00</LastChange>
+        <Comments>{"arbiter": null, "geometry_from": "D", "models": {"A": null, "B": null, "C": null, "D": "kraken-bern-hertwig-v2"}, "models_present": ["D"], "pipeline": "agentic_historian ruemlang", "print_passage_score": null, "summary": {"single": 2}}</Comments>
     </Metadata>
-    <Page imageFilename="p588.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="463,3395 2090,3395 2090,3507 463,3507"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:single-D; conf:0.50;}">
+                <Coords points="469,3401 1195,3401 1195,3506 469,3506"/>
+                <Baseline points="471,3459 1195,3467"/>
+                <TextEquiv>
+                    <Unicode>en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:single-D; conf:0.50;}">
+                <Coords points="1665,3447 2084,3447 2084,3506 1665,3506"/>
+                <Baseline points="1667,3480 2084,3482"/>
+                <TextEquiv>
+                    <Unicode>gagg hn hichren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>en
+gagg hn hichren</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

@@ -1,8 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>Transkribus</Creator>
-        <Created>2026-01-27T10:30:16.036+01:00</Created>
-        <LastChange>2026-01-27T10:30:16.036+01:00</LastChange>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-24T00:05:14Z</Created>
+        <LastChange>2026-10-24T02:05:42.799+02:00</LastChange>
+        <Comments>{"arbiter": null, "geometry_from": "D", "models": {"A": null, "B": null, "C": null, "D": "kraken-bern-hertwig-v2"}, "models_present": ["D"], "pipeline": "agentic_historian ruemlang", "print_passage_score": null, "summary": {"single": 6}}</Comments>
     </Metadata>
-    <Page imageFilename="p225.jpg" imageHeight="3508" imageWidth="2479"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="1312,296 2201,296 2201,514 1312,514"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:single-D; conf:0.50;}">
+                <Coords points="1318,316 1526,316 1526,421 1318,421"/>
+                <Baseline points="1320,395 1526,393"/>
+                <TextEquiv>
+                    <Unicode>ta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:single-D; conf:0.50;}">
+                <Coords points="1483,419 1589,419 1589,508 1483,508"/>
+                <Baseline points="1485,469 1589,471"/>
+                <TextEquiv>
+                    <Unicode>bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_3" custom="readingOrder {index:2;} atr {basis:single-D; conf:0.50;}">
+                <Coords points="1760,302 2195,302 2195,479 1760,479"/>
+                <Baseline points="1760,391 2195,395"/>
+                <TextEquiv>
+                    <Unicode>nutag / na/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ta
+bis
+nutag / na/</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="717,2731 2314,2731 2314,3005 717,3005"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:single-D; conf:0.50;}">
+                <Coords points="2203,2737 2273,2737 2273,2790 2203,2790"/>
+                <Baseline points="2205,2757 2273,2755"/>
+                <TextEquiv>
+                    <Unicode>a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;} atr {basis:single-D; conf:0.50;}">
+                <Coords points="723,2844 873,2844 873,2985 723,2985"/>
+                <Baseline points="727,2910 873,2913"/>
+                <TextEquiv>
+                    <Unicode>lich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;} atr {basis:single-D; conf:0.50;}">
+                <Coords points="928,2844 2308,2844 2308,2999 928,2999"/>
+                <Baseline points="928,2913 1394,2933 2308,2929"/>
+                <TextEquiv>
+                    <Unicode>gerechttiksyt mitt vnns versünt hatt //</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a
+lich
+gerechttiksyt mitt vnns versünt hatt //</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>
