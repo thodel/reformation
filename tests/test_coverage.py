@@ -76,21 +76,23 @@ def test_drucke_bekommen_keinen_eigenen_nenner():
 
 
 def test_der_befund_aus_70_steht_noch():
-    """Drei Abschriften weit unter der Haelfte, zwei fast vollstaendig.
+    """Zwei Abschriften weit unter der Haelfte, drei fast vollstaendig.
 
     Kippt das, ist entweder Text dazugekommen (dann gehoert #70 neu
     bewertet) oder die Messung ist kaputt - beides will gesehen werden.
 
-    So geschehen am 17.10.2026: der Transkribus-Sync holte 1465 Dateien
-    fuer A V 1446 Ruemlang, einen HTR-Lauf ueber alle 561 Blaetter, und
-    hob die Handschrift von 70 auf 547 erkannte Seiten. Erkannt heisst
-    nicht ediert - das sagt der Vorbehalt im Viewer - aber der Befund aus
-    #70 gilt fuer Ruemlang nicht mehr.
+    So geschehen im Oktober 2026: die Pipeline «agentic_historian
+    ruemlang» arbeitet die Handschriften der Reihe nach ab und schreibt
+    ihren Text nach Transkribus, der Sync holt ihn - A V 1446 Ruemlang am
+    16.10. (70 → 547 Seiten), A V 1443 Hertwig am 24.10. (56 → 721).
+    Erkannt heisst nicht ediert - das sagt der Vorbehalt im Viewer - aber
+    der Befund aus #70 gilt fuer beide nicht mehr. Kommen Schoeni und Cyro
+    an die Reihe, wandern sie hier in die zweite Liste.
     """
     data = json.loads(COVERAGE.read_text(encoding="utf-8"))["witnesses"]
-    for key in ["a_v_1443_hertwig", "a_v_1444_cyro", "a_v_1445_schoeni"]:
+    for key in ["a_v_1444_cyro", "a_v_1445_schoeni"]:
         assert data[key]["anteil_beschrieben"] < 0.5, key
-    for key in ["a_v_1446_ruemlang", "a_v_1447_schlussredaktion"]:
+    for key in ["a_v_1443_hertwig", "a_v_1446_ruemlang", "a_v_1447_schlussredaktion"]:
         assert data[key]["anteil_beschrieben"] > 0.9, key
 
 
