@@ -8,7 +8,7 @@
       194
     ]
   },
-  "alignment_score": 0.1261,
+  "alignment_score": 0.1833,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 12,
-    "matched": 1,
-    "only_a": 8,
-    "only_b": 3,
-    "similarity": 0.4819,
+    "units": 11,
+    "matched": 5,
+    "only_a": 4,
+    "only_b": 2,
+    "similarity": 0.4587,
     "pairs": [
       {
         "op": "only_a",
@@ -56,124 +56,98 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "sonder\nnomm\n76\nDie erst Schluswede\nCromen Christen, alss her Berchtoed an¬\nzucht, Die Epistell zum Corinthern, 1a Im\nwie got der abmechtig mancher\nxii cap:",
+        "b": "sort\nemn\n16\nDie eist Schriored\npomen / Christen aes her Serchtrld an / zucht / die Epistell zun Cornithern / i° gm\nder eechtig maen\ndij ͦcap:",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "lep paben geben hatt, sinnen lieben Jungern Cas\nIm Doch niemand ab ist, Allen christ\nglouggen, monschen ist woll wijssend.",
+        "b": "ley gaben / geben hatt / sinen lieben Jnngern / das\nIm Doch niemnd abitAllen christ\nfranegeu nnnns un ist arll weussnd Dis\ngot der allmechtig die moͤnschen begabet /",
         "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Allen Christglöubigen menschen ist wol wüssend/das\nGott der Allmechtig die menschen begabet mit mancher\nley gaben/vnnd dennoch ein yedes Christen mensch/säl\nlich lob vnnd danck zesagen schuldig ist/mit was gaben\ner jnn ouch begabet hat.",
-        "b": "Das\npot der allmechtig die monstgen begabet\nmit mencherlei gaben vnnd Dennocht ein\nJedes christen monsten, belich lob vnd Danck\ngesagen schuldig ist, mit was gaben er Ine\nwier In Wein so\nouch bepabet hat\ner much anzucht, mich gefragt, es sie ein\nher.",
-        "similarity": 0.4819
+        "b": "mit menchetley gaben / vnnd denocht ein\nh lich los vnd am\nzesagen schnldig ist / mit was gaben er ue\nAber In Dem so\nouch begabet hat /",
+        "similarity": 0.4308
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "Aber in dem so er mich anzücht/ mich gefraget/es sye ein herr/darumb möge kein ande=\nrer herr sin/vnnd den text fürgewendt/den ich im vor=\nbracht han/Wieder der Herr Jhesus sprach:",
-        "b": null,
-        "similarity": 0.0
+        "b": "er mich anzucht / mich gefragt / es sye ein / her / Darumb moge bein anderer her sin / vnnd den text furgewendt / den Ich Im\nvorbracht han /",
+        "similarity": 0.6102
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "Jch bin das\nliecht der wellt. Deßglychen ouch zů sinen jüngeren: Jr\nsind das liecht der welt. zc. Aber ein herr vnnd vil ämp=\nter sy sind wol.",
-        "b": null,
-        "similarity": 0.0
+        "b": "Wie der her Jesus\nsprach / Ich bin Das liecht / der wellt // deßglichen ouch zuͦ sinen Jingern Ir sind\ndas liecht der wellt /",
+        "similarity": 0.48
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "Gott syge ein Herr wesenlich/vnnd ein\nliecht wesenlich/aber sine jünger sy sind ein liecht Participa\ntiue/das ist theylhafftiglich/oder von jm empfengklich.",
-        "b": null,
-        "similarity": 0.0
+        "b": "/ Aber eim\nher vnnd vill aͤmpter siend woll / got sy\nein her wesenlich vnnd ein liecht wesen // lich\nAber sin Jnnger siend ein liecht\npandipatue Das ist theilhafftigklich old von\nIm empfengklich /",
+        "similarity": 0.4483
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "So er nun nachgelassen hat/Herr Berchtold/das die\njünger des herren Jesu Christi habind den empfangnen\ngewallt/Volget ye daruß/das sy ouch höupter mögend\nn",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "Darumb moge kein anderer her sin\nvnnd den text fungewendt, den Ich Im\nvorbracht han, wie der her Jesus\nsprach, Ich bin das lecht, den wellt\ndeß glugen ouch zu sinen Junyern Ir sind\nDas lecht der wellt ende\nWer een\nher vnnd vill ampter sind woll, pot sy\nein her wesen lich vnnd ein licht wesenn,\nlich\nAber sin Junger siend ein liecht\npar cipatiue Das ist theilhafftigkeiten old van\nIm empfengklicen Cover min nachgel. lassenn het, Her Berchtold Das die",
-        "similarity": 0.0
+        "b": "So er nun nachol\nlassenn het / Her Berchtold Das die",
+        "similarity": 0.3243
       }
     ]
   },
   "fine": {
-    "similarity": 0.3288,
+    "similarity": 0.3657,
     "words": {
       "a": 266,
-      "b": 172
+      "b": 166
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Schlußred XLIX nempt ein liecht der welt das ist er wäsenlich vnd sunst niemands anders die Aposteln aber sind liechter d welt genempt per participationem das sy erlüchtet sind vonn dem warē liecht Christo wie nü Christus ist ein einig houpt ein eynig liecht also mag dhein ander houpt dhein an der liecht wesenlich sin dann er allein Kurtz daruon al les das der Pfarrer heryn zogen hat zeigt vns kein an der houpt an dann Christum Jesum Pfarrer K ommen Christē als herr Berchtold anzücht",
-        "b": "sonder nomm 76"
+        "a": "Schlußred XLIX nempt ein liecht",
+        "b": "sort emn 16 Die eist Schriored pomen Christen aes her Serchtrld an zucht die Epistell zun Cornithern i gm"
       },
       {
         "op": "equal",
-        "a": "die erst",
-        "b": "Die erst"
+        "a": "der",
+        "b": "der"
       },
       {
         "op": "replace",
-        "a": "Epistel zun",
-        "b": "Schluswede Cromen Christen alss her Berchtoed an zucht Die Epistell zum"
+        "a": "welt das ist er wäsenlich vnd sunst niemands anders die Aposteln aber sind liechter d welt genempt per participationem das sy erlüchtet sind vonn dem warē liecht Christo wie nü Christus ist ein einig houpt ein eynig liecht also mag dhein ander houpt dhein an der liecht wesenlich sin dann er allein Kurtz daruon al les das der Pfarrer heryn zogen hat zeigt vns kein an der houpt an dann Christum Jesum Pfarrer K ommen Christē als herr Berchtold anzücht die erst Epistel zun Corinthern im xij capitel Wie Gott der allmechtig mancherley",
+        "b": "eechtig maen dij cap ley"
       },
       {
         "op": "equal",
-        "a": "Corinthern",
-        "b": "Corinthern"
-      },
-      {
-        "op": "insert",
-        "a": "",
-        "b": "1a"
-      },
-      {
-        "op": "equal",
-        "a": "im",
-        "b": "Im"
-      },
-      {
-        "op": "insert",
-        "a": "",
-        "b": "wie got der abmechtig mancher"
-      },
-      {
-        "op": "equal",
-        "a": "xij",
-        "b": "xii"
+        "a": "gaben",
+        "b": "gaben"
       },
       {
         "op": "replace",
-        "a": "capitel Wie Gott der allmechtig mancherley gaben ge ben hat sinen",
-        "b": "cap lep paben geben hatt sinnen"
+        "a": "ge ben hat",
+        "b": "geben hatt"
       },
       {
         "op": "equal",
-        "a": "liebē",
-        "b": "lieben"
+        "a": "sinen liebē",
+        "b": "sinen lieben"
       },
       {
         "op": "replace",
-        "a": "jüngern das",
-        "b": "Jungern Cas"
+        "a": "jüngern",
+        "b": "Jnngern"
       },
       {
         "op": "equal",
-        "a": "jm doch niemand ab ist Allen",
-        "b": "Im Doch niemand ab ist Allen"
+        "a": "das jm doch",
+        "b": "das Im Doch"
       },
       {
         "op": "replace",
-        "a": "Christglöubigen menschen",
-        "b": "christ glouggen monschen"
+        "a": "niemand ab",
+        "b": "niemnd abitAllen christ franegeu nnnns un"
       },
       {
         "op": "equal",
@@ -182,18 +156,8 @@
       },
       {
         "op": "replace",
-        "a": "wol wüssend",
-        "b": "woll wijssend"
-      },
-      {
-        "op": "equal",
-        "a": "das",
-        "b": "Das"
-      },
-      {
-        "op": "replace",
-        "a": "Gott",
-        "b": "pot"
+        "a": "Allen Christglöubigen menschen ist wol wüssend das Gott",
+        "b": "arll weussnd Dis got"
       },
       {
         "op": "equal",
@@ -203,7 +167,7 @@
       {
         "op": "replace",
         "a": "menschen",
-        "b": "monstgen"
+        "b": "mo nschen"
       },
       {
         "op": "equal",
@@ -213,7 +177,7 @@
       {
         "op": "replace",
         "a": "mancher ley",
-        "b": "mencherlei"
+        "b": "menchetley"
       },
       {
         "op": "equal",
@@ -223,7 +187,7 @@
       {
         "op": "replace",
         "a": "dennoch",
-        "b": "Dennocht"
+        "b": "denocht"
       },
       {
         "op": "equal",
@@ -232,83 +196,53 @@
       },
       {
         "op": "replace",
-        "a": "yedes",
-        "b": "Jedes"
+        "a": "yedes Christen mensch säl",
+        "b": "h"
       },
       {
         "op": "equal",
-        "a": "Christen",
-        "b": "christen"
+        "a": "lich",
+        "b": "lich"
       },
       {
         "op": "replace",
-        "a": "mensch säl lich",
-        "b": "monsten belich"
+        "a": "lob vnnd danck",
+        "b": "los vnd am"
       },
       {
         "op": "equal",
-        "a": "lob",
-        "b": "lob"
-      },
-      {
-        "op": "replace",
-        "a": "vnnd",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "danck",
-        "b": "Danck"
-      },
-      {
-        "op": "replace",
         "a": "zesagen",
-        "b": "gesagen"
-      },
-      {
-        "op": "equal",
-        "a": "schuldig ist mit was gaben er",
-        "b": "schuldig ist mit was gaben er"
+        "b": "zesagen"
       },
       {
         "op": "replace",
-        "a": "jnn",
-        "b": "Ine wier In Wein so"
+        "a": "schuldig",
+        "b": "schnldig"
       },
       {
         "op": "equal",
-        "a": "ouch",
-        "b": "ouch"
+        "a": "ist mit was gaben er",
+        "b": "ist mit was gaben er"
       },
       {
         "op": "replace",
-        "a": "begabet",
-        "b": "bepabet"
+        "a": "jnn ouch begabet hat",
+        "b": "ue"
       },
       {
         "op": "equal",
-        "a": "hat",
-        "b": "hat"
-      },
-      {
-        "op": "delete",
         "a": "Aber in dem so",
-        "b": ""
+        "b": "Aber In Dem so"
+      },
+      {
+        "op": "insert",
+        "a": "",
+        "b": "ouch begabet hat"
       },
       {
         "op": "equal",
-        "a": "er",
-        "b": "er"
-      },
-      {
-        "op": "replace",
-        "a": "mich",
-        "b": "much"
-      },
-      {
-        "op": "equal",
-        "a": "anzücht mich",
-        "b": "anzucht mich"
+        "a": "er mich anzücht mich",
+        "b": "er mich anzucht mich"
       },
       {
         "op": "replace",
@@ -317,18 +251,8 @@
       },
       {
         "op": "equal",
-        "a": "es",
-        "b": "es"
-      },
-      {
-        "op": "replace",
-        "a": "sye",
-        "b": "sie"
-      },
-      {
-        "op": "equal",
-        "a": "ein",
-        "b": "ein"
+        "a": "es sye ein",
+        "b": "es sye ein"
       },
       {
         "op": "replace",
@@ -337,28 +261,18 @@
       },
       {
         "op": "equal",
-        "a": "darumb möge kein",
-        "b": "Darumb moge kein"
+        "a": "darumb möge",
+        "b": "Darumb moge"
       },
       {
         "op": "replace",
-        "a": "ande rer herr",
-        "b": "anderer her"
+        "a": "kein ande rer herr",
+        "b": "bein anderer her"
       },
       {
         "op": "equal",
-        "a": "sin vnnd den text",
-        "b": "sin vnnd den text"
-      },
-      {
-        "op": "replace",
-        "a": "fürgewendt",
-        "b": "fungewendt"
-      },
-      {
-        "op": "equal",
-        "a": "den ich im",
-        "b": "den Ich Im"
+        "a": "sin vnnd den text fürgewendt den ich im",
+        "b": "sin vnnd den text furgewendt den Ich Im"
       },
       {
         "op": "replace",
@@ -373,7 +287,7 @@
       {
         "op": "replace",
         "a": "Wieder",
-        "b": "wie"
+        "b": "Wie"
       },
       {
         "op": "equal",
@@ -397,23 +311,13 @@
       },
       {
         "op": "equal",
-        "a": "bin das",
-        "b": "bin das"
-      },
-      {
-        "op": "replace",
-        "a": "liecht der",
-        "b": "lecht den"
-      },
-      {
-        "op": "equal",
-        "a": "wellt",
-        "b": "wellt"
+        "a": "bin das liecht der wellt",
+        "b": "bin Das liecht der wellt"
       },
       {
         "op": "replace",
         "a": "Deßglychen",
-        "b": "deß glugen"
+        "b": "deßglichen"
       },
       {
         "op": "equal",
@@ -423,27 +327,27 @@
       {
         "op": "replace",
         "a": "jüngeren Jr",
-        "b": "Junyern Ir"
+        "b": "Jingern Ir"
       },
       {
         "op": "equal",
-        "a": "sind das",
-        "b": "sind Das"
+        "a": "sind das liecht der",
+        "b": "sind das liecht der"
       },
       {
         "op": "replace",
-        "a": "liecht",
-        "b": "lecht"
+        "a": "welt zc",
+        "b": "wellt"
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
+        "a": "Aber",
+        "b": "Aber"
       },
       {
-        "op": "replace",
-        "a": "welt zc Aber",
-        "b": "wellt ende Wer een her vnnd vill ampter sind woll pot sy"
+        "op": "insert",
+        "a": "",
+        "b": "eim her vnnd vill a mpter siend woll got sy"
       },
       {
         "op": "equal",
@@ -452,18 +356,18 @@
       },
       {
         "op": "replace",
-        "a": "herr vnnd vil ämp ter sy sind wol Gott syge ein Herr wesenlich",
-        "b": "her wesen lich"
+        "a": "herr vnnd vil ämp ter sy sind wol Gott syge ein Herr",
+        "b": "her"
       },
       {
         "op": "equal",
-        "a": "vnnd ein",
-        "b": "vnnd ein"
+        "a": "wesenlich vnnd ein liecht",
+        "b": "wesenlich vnnd ein liecht"
       },
       {
         "op": "replace",
-        "a": "liecht wesenlich",
-        "b": "licht wesenn lich"
+        "a": "wesenlich",
+        "b": "wesen lich"
       },
       {
         "op": "equal",
@@ -473,7 +377,7 @@
       {
         "op": "replace",
         "a": "sine jünger sy sind",
-        "b": "sin Junger siend"
+        "b": "sin Jnnger siend"
       },
       {
         "op": "equal",
@@ -483,7 +387,7 @@
       {
         "op": "replace",
         "a": "Participa tiue",
-        "b": "par cipatiue"
+        "b": "pandipatue"
       },
       {
         "op": "equal",
@@ -492,18 +396,18 @@
       },
       {
         "op": "replace",
-        "a": "theylhafftiglich oder von",
-        "b": "theilhafftigkeiten old van"
+        "a": "theylhafftiglich oder",
+        "b": "theilhafftigklich old"
       },
       {
         "op": "equal",
-        "a": "jm",
-        "b": "Im"
+        "a": "von jm empfengklich So er nun",
+        "b": "von Im empfengklich So er nun"
       },
       {
         "op": "replace",
-        "a": "empfengklich So er nun nachgelassen hat Herr",
-        "b": "empfengklicen Cover min nachgel lassenn het Her"
+        "a": "nachgelassen hat Herr",
+        "b": "nachol lassenn het Her"
       },
       {
         "op": "equal",
@@ -516,7 +420,7 @@
         "b": ""
       }
     ],
-    "ops": 41,
+    "ops": 32,
     "truncated": false
   }
 }

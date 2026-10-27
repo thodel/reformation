@@ -8,7 +8,7 @@
       195
     ]
   },
-  "alignment_score": 0.194,
+  "alignment_score": 0.1884,
   "coarse": {
     "paragraphs": {
       "a": 6,
@@ -23,47 +23,53 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 9,
-    "matched": 2,
-    "only_a": 6,
-    "only_b": 1,
-    "similarity": 0.3431,
+    "units": 10,
+    "matched": 5,
+    "only_a": 3,
+    "only_b": 2,
+    "similarity": 0.4541,
     "pairs": [
       {
         "op": "only_b",
         "a": null,
-        "b": "Junger Des hern Ihesen Christi, habend den\nempfangnen gewaelt\nvolget Je darust\ndas sy ouch houpter mogend sin participatius\nInt voorss.",
+        "b": "tunger des hern / Jhesu Christ heend dae\nempfangnen gewallt / volger Je darns\nDas sy ouch hoͤupter mogend / sin pactioiban //",
         "similarity": 0.0
       },
       {
         "op": "match",
         "a": "**Die erst**\n\nsin Participatiue/nit vßgeschlossen/dz war einig houpt/Jē=\nsus Christus. Darumb so Herr Berchtold die zwo zer=\ntheylung than hat/sol er die wolbetrachten/dann die nit\nwerdend wider mich sin.",
-        "b": "geschlossen, Das war einig houpt\nDarumb so her Berch¬\ntesus Christus\ntold die zwo zertheillung Rhan het, Soll\nEr Die wolbetrachten Dan die int werden\n9\nweder much sin E\nVerechtoldus\nEs ist ein einigs houpt, welches D.",
-        "similarity": 0.3333
+        "b": "Ant vßgeschlossen Das wor einig houpt // Darumb so her / Berch\nJesus Christus / told die zwo Zertheillung dhan het / Sol\ner die wolbetrachten /",
+        "similarity": 0.3929
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "**Berchtoldus.**\n\n[S]ist ein eynigs houpt/ wellches da ist ein heyl=\nland der gemeynd Gottes/ Paulus zun Ephe=\nsern am fünfftenn capitel.",
-        "b": null,
-        "similarity": 0.0
+        "b": "Dan die nit werden\n5\neder mch sin C // Berchtoldas\ns ist ein einigs houpt / welches da\nist ein heiland der gemeind gotes paulus\nzum ephesern /",
+        "similarity": 0.375
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "Es sind vil Empter\noder āplüt/die sind glider des libs Christi/sy sind aber\nnit das houpt/ von dem die gschrifft redt/",
-        "b": null,
-        "similarity": 0.0
+        "b": "v ͦ cap: Es sind vill aͤmpter\noder amptlut Die sind geider des lybs christ\nsy sind aber nit Das houpt von Dem\ndie gschrfft redt /",
+        "similarity": 0.64
       },
       {
         "op": "match",
         "a": "das die glider\nläbendig macht/ vñnd ein heylannd ist des lybs/ daruß\nmag der Pfarrer aber nit bewären/wider vñser Schluß\nred/ob schon die Apostel liechter sind der welt/",
-        "b": "ist ein theilland der gemeind potes paulus\nzum ephesern v tap: Es sind vill ampter\noder amptent, die sind geider des lobs christi\nsy sind aber int das houpt von Dem\ndie pstchrifft redt, Das die glider labende\nmacht vnnd ein heiland ist des lybs da¬\nruß mag der pfarrer, aber int bewaren\nwider vnnser scheustre, Ob schon die\npostell, liechter sind der welet, nitt\nwesenlich sonder Die vom houpt Christo\nerluchtet sind, wie ouch all glouergenn\nall Christen sind\nDaruss volget, aber\nnit Das Daxumb all Christen houpter",
-        "similarity": 0.3529
+        "b": "Das die geder laens\nmacht / vnnd ein heillend ist des lybs da // ruͤß mag der pfarrer / aber nit bewaͤren\nweider vnnser schlußred /",
+        "similarity": 0.4815
       },
       {
-        "op": "only_a",
-        "a": "nit wesen\nlich/ sonder die vom houpt Christo erlüchtet sind/ wie\nouch alle glöubigen all Christen sind. Daruß volgt aber\nnit/das darumb all Christenn höupter sygend der Kil=\nchen.",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "Ob schon / Die\nApostell / liechter sind der wellt / nitt\nwesenlich sonder Die vom houpt Christ / erluchtet sind / wie ouch all gloͤuligenn //",
         "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "nit wesen\nlich/ sonder die vom houpt Christo erlüchtet sind/ wie\nouch alle glöubigen all Christen sind. Daruß volgt aber\nnit/das darumb all Christenn höupter sygend der Kil=\nchen.",
+        "b": "all Christen sind\nDaruß volget / aber\nnit / Das darumb ill Christen houpen//",
+        "similarity": 0.381
       },
       {
         "op": "only_a",
@@ -86,16 +92,16 @@
     ]
   },
   "fine": {
-    "similarity": 0.3947,
+    "similarity": 0.3958,
     "words": {
       "a": 227,
-      "b": 148
+      "b": 152
     },
     "segments": [
       {
         "op": "replace",
         "a": "Die erst",
-        "b": "Junger Des hern Ihesen Christi habend den empfangnen gewaelt volget Je darust das sy ouch houpter mogend"
+        "b": "tunger des hern Jhesu Christ heend dae empfangnen gewallt volger Je darns Das sy ouch ho upter mogend"
       },
       {
         "op": "equal",
@@ -104,13 +110,23 @@
       },
       {
         "op": "replace",
-        "a": "Participatiue nit vßgeschlossen dz",
-        "b": "participatius Int voorss geschlossen Das"
+        "a": "Participatiue nit",
+        "b": "pactioiban Ant"
       },
       {
         "op": "equal",
-        "a": "war einig houpt",
-        "b": "war einig houpt"
+        "a": "vßgeschlossen",
+        "b": "vßgeschlossen"
+      },
+      {
+        "op": "replace",
+        "a": "dz war",
+        "b": "Das wor"
+      },
+      {
+        "op": "equal",
+        "a": "einig houpt",
+        "b": "einig houpt"
       },
       {
         "op": "delete",
@@ -125,7 +141,7 @@
       {
         "op": "replace",
         "a": "Herr Berchtold",
-        "b": "her Berch tesus Christus told"
+        "b": "her Berch Jesus Christus told"
       },
       {
         "op": "equal",
@@ -134,13 +150,13 @@
       },
       {
         "op": "replace",
-        "a": "zer theylung than hat sol",
-        "b": "zertheillung Rhan het Soll"
+        "a": "zer theylung than hat",
+        "b": "Zertheillung dhan het"
       },
       {
         "op": "equal",
-        "a": "er die wolbetrachten",
-        "b": "Er Die wolbetrachten"
+        "a": "sol er die wolbetrachten",
+        "b": "Sol er die wolbetrachten"
       },
       {
         "op": "replace",
@@ -149,13 +165,13 @@
       },
       {
         "op": "equal",
-        "a": "die",
-        "b": "die"
+        "a": "die nit",
+        "b": "die nit"
       },
       {
         "op": "replace",
-        "a": "nit werdend wider mich",
-        "b": "int werden 9 weder much"
+        "a": "werdend wider mich",
+        "b": "werden 5 eder mch"
       },
       {
         "op": "equal",
@@ -164,13 +180,13 @@
       },
       {
         "op": "replace",
-        "a": "Berchtoldus S",
-        "b": "E Verechtoldus Es"
+        "a": "Berchtoldus",
+        "b": "C Berchtoldas"
       },
       {
         "op": "equal",
-        "a": "ist ein",
-        "b": "ist ein"
+        "a": "S ist ein",
+        "b": "s ist ein"
       },
       {
         "op": "replace",
@@ -184,18 +200,18 @@
       },
       {
         "op": "replace",
-        "a": "wellches da",
-        "b": "welches D"
+        "a": "wellches",
+        "b": "welches"
       },
       {
         "op": "equal",
-        "a": "ist ein",
-        "b": "ist ein"
+        "a": "da ist ein",
+        "b": "da ist ein"
       },
       {
         "op": "replace",
         "a": "heyl land",
-        "b": "theilland"
+        "b": "heiland"
       },
       {
         "op": "equal",
@@ -205,7 +221,7 @@
       {
         "op": "replace",
         "a": "gemeynd Gottes",
-        "b": "gemeind potes"
+        "b": "gemeind gotes"
       },
       {
         "op": "equal",
@@ -215,7 +231,7 @@
       {
         "op": "replace",
         "a": "zun Ephe sern am fünfftenn capitel",
-        "b": "zum ephesern v tap"
+        "b": "zum ephesern v cap"
       },
       {
         "op": "equal",
@@ -225,7 +241,7 @@
       {
         "op": "replace",
         "a": "vil Empter",
-        "b": "vill ampter"
+        "b": "vill a mpter"
       },
       {
         "op": "equal",
@@ -235,12 +251,12 @@
       {
         "op": "replace",
         "a": "a plüt",
-        "b": "amptent"
+        "b": "amptlut"
       },
       {
         "op": "equal",
         "a": "die sind",
-        "b": "die sind"
+        "b": "Die sind"
       },
       {
         "op": "replace",
@@ -254,38 +270,28 @@
       },
       {
         "op": "replace",
-        "a": "libs",
-        "b": "lobs"
+        "a": "libs Christi",
+        "b": "lybs christ"
       },
       {
         "op": "equal",
-        "a": "Christi sy sind aber",
-        "b": "christi sy sind aber"
-      },
-      {
-        "op": "replace",
-        "a": "nit",
-        "b": "int"
-      },
-      {
-        "op": "equal",
-        "a": "das houpt von dem die",
-        "b": "das houpt von Dem die"
+        "a": "sy sind aber nit das houpt von dem die",
+        "b": "sy sind aber nit Das houpt von Dem die"
       },
       {
         "op": "replace",
         "a": "gschrifft",
-        "b": "pstchrifft"
+        "b": "gschrfft"
       },
       {
         "op": "equal",
-        "a": "redt das die glider",
-        "b": "redt Das die glider"
+        "a": "redt das die",
+        "b": "redt Das die"
       },
       {
         "op": "replace",
-        "a": "läbendig",
-        "b": "labende"
+        "a": "glider läbendig",
+        "b": "geder laens"
       },
       {
         "op": "equal",
@@ -305,7 +311,7 @@
       {
         "op": "replace",
         "a": "heylannd",
-        "b": "heiland"
+        "b": "heillend"
       },
       {
         "op": "equal",
@@ -315,37 +321,37 @@
       {
         "op": "replace",
         "a": "daruß",
-        "b": "da ruß"
+        "b": "da ru ß"
       },
       {
         "op": "equal",
-        "a": "mag der Pfarrer aber",
-        "b": "mag der pfarrer aber"
+        "a": "mag der Pfarrer aber nit",
+        "b": "mag der pfarrer aber nit"
       },
       {
         "op": "replace",
-        "a": "nit",
-        "b": "int"
+        "a": "bewären wider",
+        "b": "bewa ren weider"
       },
       {
         "op": "equal",
-        "a": "bewären wider vñser",
-        "b": "bewaren wider vnnser"
+        "a": "vñser",
+        "b": "vnnser"
       },
       {
         "op": "replace",
         "a": "Schluß red",
-        "b": "scheustre"
+        "b": "schlußred"
       },
       {
         "op": "equal",
         "a": "ob schon die",
-        "b": "Ob schon die"
+        "b": "Ob schon Die"
       },
       {
         "op": "replace",
         "a": "Apostel",
-        "b": "postell"
+        "b": "Apostell"
       },
       {
         "op": "equal",
@@ -355,60 +361,50 @@
       {
         "op": "replace",
         "a": "welt nit wesen lich",
-        "b": "welet nitt wesenlich"
+        "b": "wellt nitt wesenlich"
       },
       {
         "op": "equal",
-        "a": "sonder die vom houpt Christo erlüchtet sind wie ouch",
-        "b": "sonder Die vom houpt Christo erluchtet sind wie ouch"
+        "a": "sonder die vom houpt",
+        "b": "sonder Die vom houpt"
+      },
+      {
+        "op": "replace",
+        "a": "Christo",
+        "b": "Christ"
+      },
+      {
+        "op": "equal",
+        "a": "erlüchtet sind wie ouch",
+        "b": "erluchtet sind wie ouch"
       },
       {
         "op": "replace",
         "a": "alle glöubigen",
-        "b": "all glouergenn"
+        "b": "all glo uligenn"
       },
       {
         "op": "equal",
-        "a": "all Christen sind",
-        "b": "all Christen sind"
+        "a": "all Christen sind Daruß",
+        "b": "all Christen sind Daruß"
       },
       {
         "op": "replace",
-        "a": "Daruß volgt",
-        "b": "Daruss volget"
+        "a": "volgt",
+        "b": "volget"
       },
       {
         "op": "equal",
-        "a": "aber nit das",
-        "b": "aber nit Das"
+        "a": "aber nit das darumb",
+        "b": "aber nit Das darumb"
       },
       {
         "op": "replace",
-        "a": "darumb",
-        "b": "Daxumb"
-      },
-      {
-        "op": "equal",
-        "a": "all",
-        "b": "all"
-      },
-      {
-        "op": "replace",
-        "a": "Christenn",
-        "b": "Christen"
-      },
-      {
-        "op": "equal",
-        "a": "höupter",
-        "b": "houpter"
-      },
-      {
-        "op": "delete",
-        "a": "sygend der Kil chen Bringend klare geschrifft das ein ander houpt der Kilchen sye welliches sy läbendig macht vñnd ir heyl land sye Meister Vlrich Zwingli I ch begär ein wenig zů erklärung wie Christus das liecht syge vñnd wie die Apostel das liecht syend zereden Christus ist das waar wäsenlich liecht Johannis im ersten capitel Vnd alles liecht das die Apostel habend gibt er inen Nemmend lieber herr Pfarrer ein Byspil Die Sonn gibt den tag durch das fenster haryn vñnd ist aber der tag oder liecht nützid für sich",
-        "b": ""
+        "a": "all Christenn höupter sygend der Kil chen Bringend klare geschrifft das ein ander houpt der Kilchen sye welliches sy läbendig macht vñnd ir heyl land sye Meister Vlrich Zwingli I ch begär ein wenig zů erklärung wie Christus das liecht syge vñnd wie die Apostel das liecht syend zereden Christus ist das waar wäsenlich liecht Johannis im ersten capitel Vnd alles liecht das die Apostel habend gibt er inen Nemmend lieber herr Pfarrer ein Byspil Die Sonn gibt den tag durch das fenster haryn vñnd ist aber der tag oder liecht nützid für sich",
+        "b": "ill Christen houpen"
       }
     ],
-    "ops": 32,
+    "ops": 31,
     "truncated": false
   }
 }

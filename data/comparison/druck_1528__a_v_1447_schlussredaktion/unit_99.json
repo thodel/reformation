@@ -8,7 +8,7 @@
       186
     ]
   },
-  "alignment_score": 0.1673,
+  "alignment_score": 0.1906,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -23,17 +23,17 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 13,
-    "matched": 4,
-    "only_a": 9,
-    "only_b": 0,
-    "similarity": 0.4133,
+    "units": 15,
+    "matched": 6,
+    "only_a": 7,
+    "only_b": 2,
+    "similarity": 0.5079,
     "pairs": [
       {
         "op": "match",
         "a": "Die erſt\n\nSo proteſtier ich mich vor mengklich / das der Provincial die\nanred gehept / da aber mengklich weyſt / das allweg dem be=\nklagten zimpt zeantwurten.",
-        "b": "72\nDie erst schlucred\nso protestier ich mich vor mengklich das her pro\nInuniall die aurede gehept, Da aber mengklich\nweist, Das allweg Dem beklagten zimpt ze¬\nantworten\nDa ersicke protestiert, Im Zime nit frij zereden, pro\ntestier oder bezug ich mich vor der gantzen gemeind\nDas Im woll zimpt zureden Doch vss.",
-        "similarity": 0.4615
+        "b": "2\nDie erst schevored\nprotester ich mich vor mengklich Das her pre\nmintall die anred gehept a aber mengkrich\nweist /",
+        "similarity": 0.4889
       },
       {
         "op": "only_a",
@@ -48,34 +48,46 @@
         "similarity": 0.0
       },
       {
-        "op": "match",
-        "a": "da er ſagt / jm zimme beſonder nit gegen mir zereden / be\nzüg ich mich aber vff die Acta / da Ecolampadius vnd ich /",
-        "b": "gottes wort\nvnderlassen schemnitz vnnd schmachrede, wie dan\nminer herren presidenten verkundung Jez vssz\nersamen, Rhats empfelich gehort ist. Da er sagt\nIm zuus besonnder nit gegen mir zereden, bezug¬\nsich much aber vff die acta, Da kcolampadius vnd\nich grad erst, vns empoten haben vss.",
-        "similarity": 0.4412
+        "op": "only_b",
+        "a": null,
+        "b": "Das allweg dem beklagten zumpt ze // antwurten / Daersich pratester / mn zune aier fiy tereden / pro // testier oder / besug ich mch vor der gantzen gemeind /",
+        "similarity": 0.0
       },
       {
-        "op": "only_a",
-        "a": "grad erſt vns\nembotten haben / vß gottes wort rechnung vnſer leer zů geben / doch mit\nzüchten vnd gottsforcht / gehandlet werd.",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "das Im woll zimpt zuͤreden Doch vsß goͤttes woͤrt / vnderlassen / sclmutz vnnd schmachred / wier dan\nminer herren presidenten verkundung Jen vss\nersamen /",
         "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "da er ſagt / jm zimme beſonder nit gegen mir zereden / be\nzüg ich mich aber vff die Acta / da Ecolampadius vnd ich /",
+        "b": "Rhats empferch gehoͤrt ist / Da er sagt // Im zume besonnden nit gegen mir zereden / bezug\nich mich aber vff die acta /",
+        "similarity": 0.6364
+      },
+      {
+        "op": "match",
+        "a": "grad erſt vns\nembotten haben / vß gottes wort rechnung vnſer leer zů geben / doch mit\nzüchten vnd gottsforcht / gehandlet werd.",
+        "b": "Da Eolampadius vnd\nich grad erst vns empoten haben / vsß gottes worct\nrechnung vnnser / lser zuͦgeben / Doch mit zuͦchten\nvnnd gots soͤrcht /",
+        "similarity": 0.4444
       },
       {
         "op": "match",
         "a": "Das er aber bezüget / er wölte gern vnſere aller gröſte verfürnuß vnd\nmangel dem einfaltigen Chriſtenlichen volck anzeigen / ſo verſtrick man\njms.",
-        "b": "gottes wonit\nrechnung vnnser, leer zu geben, doch mit zuchten\nVnnd gots. forcht, gehandelt werd./ Das er aber bezugen. Er wollte gern vnsere\naller gröste verfurnus vnnd mangell Dem\neinfallingen, christenlicken volck anzoügen/",
-        "similarity": 0.3636
+        "b": "gehandelt werd // Daes er aber beziget / Erwalte gern vnsere\naller groͤste verfuͤrnus vnnd mangell Dem\neinfalltigen / christenlichen volck anzeigen /",
+        "similarity": 0.4186
       },
       {
         "op": "match",
         "a": "Bezüg ich / das wir ſölichs gern wölten hören / mit gottes wort be=\nſchechen / das ouch wol ſin mag one alle leſttrung vnd ſchmach /",
-        "b": "so\nverstrickt, man Ims, Bezug ick das wir sollichs\ngern wollten horen / mit gottes wort besthechen / Das onch woll sin mag ane alle lestrung vnnd\nstemach, wie Dann pester van Im geerucht\nijst\nHatt wijter geoffnet\npfarrer van Appentzele",
-        "similarity": 0.3871
+        "b": "so\nverstrickt / man Ims / Bezug ich das wir solichs\ngern woͤllten hoͤren / mit gottes wort beschechen // Das ouch woll sin mag ane alle lestrung vnnd\nschmach /",
+        "similarity": 0.5882
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "wie dann\ngeſter von jm gebrucht iſt. Hat wyter geoffnet der Pfar=\nrer von Appenzell. In dinem namen herr Jeſu Chriſt /",
-        "b": null,
-        "similarity": 0.0
+        "b": "wie Dann gester von Im gebrucht\nst\nHatt wyter geoffult\npfarrer von Sppentzell",
+        "similarity": 0.4706
       },
       {
         "op": "only_a",
@@ -110,16 +122,16 @@
     ]
   },
   "fine": {
-    "similarity": 0.4204,
+    "similarity": 0.3891,
     "words": {
       "a": 300,
-      "b": 171
+      "b": 178
     },
     "segments": [
       {
         "op": "insert",
         "a": "",
-        "b": "72"
+        "b": "2"
       },
       {
         "op": "equal",
@@ -127,109 +139,79 @@
         "b": "Die erst"
       },
       {
-        "op": "insert",
-        "a": "",
-        "b": "schlucred"
+        "op": "replace",
+        "a": "So proteſtier",
+        "b": "schevored protester"
       },
       {
         "op": "equal",
-        "a": "So proteſtier ich mich vor mengklich das",
-        "b": "so protestier ich mich vor mengklich das"
+        "a": "ich mich vor mengklich das",
+        "b": "ich mich vor mengklich Das"
       },
       {
         "op": "replace",
         "a": "der Provincial",
-        "b": "her pro Inuniall"
+        "b": "her pre mintall"
       },
       {
         "op": "equal",
-        "a": "die",
-        "b": "die"
+        "a": "die anred gehept",
+        "b": "die anred gehept"
       },
       {
         "op": "replace",
-        "a": "anred",
-        "b": "aurede"
+        "a": "da",
+        "b": "a"
       },
       {
         "op": "equal",
-        "a": "gehept da aber mengklich",
-        "b": "gehept Da aber mengklich"
+        "a": "aber",
+        "b": "aber"
       },
       {
         "op": "replace",
-        "a": "weyſt",
-        "b": "weist"
+        "a": "mengklich weyſt",
+        "b": "mengkrich weist"
       },
       {
         "op": "equal",
         "a": "das allweg dem",
-        "b": "Das allweg Dem"
+        "b": "Das allweg dem"
       },
       {
         "op": "replace",
-        "a": "be klagten",
-        "b": "beklagten"
+        "a": "be klagten zimpt zeantwurten Da er ſich proteſtiert jm zimme nit fry zereden proteſtier",
+        "b": "beklagten zumpt ze antwurten Daersich pratester mn zune aier fiy tereden pro testier"
       },
       {
         "op": "equal",
-        "a": "zimpt",
-        "b": "zimpt"
+        "a": "oder",
+        "b": "oder"
       },
       {
         "op": "replace",
-        "a": "zeantwurten",
-        "b": "ze antworten"
+        "a": "bezüg",
+        "b": "besug"
       },
       {
         "op": "equal",
-        "a": "Da",
-        "b": "Da"
+        "a": "ich",
+        "b": "ich"
       },
       {
         "op": "replace",
-        "a": "er ſich",
-        "b": "ersicke"
+        "a": "mich",
+        "b": "mch"
       },
       {
         "op": "equal",
-        "a": "proteſtiert jm",
-        "b": "protestiert Im"
-      },
-      {
-        "op": "replace",
-        "a": "zimme",
-        "b": "Zime"
-      },
-      {
-        "op": "equal",
-        "a": "nit",
-        "b": "nit"
-      },
-      {
-        "op": "replace",
-        "a": "fry",
-        "b": "frij"
-      },
-      {
-        "op": "equal",
-        "a": "zereden",
-        "b": "zereden"
-      },
-      {
-        "op": "replace",
-        "a": "proteſtier",
-        "b": "pro testier"
-      },
-      {
-        "op": "equal",
-        "a": "oder bezüg ich mich vor der gantzen",
-        "b": "oder bezug ich mich vor der gantzen"
+        "a": "vor der gantzen",
+        "b": "vor der gantzen"
       },
       {
         "op": "replace",
         "a": "gmeynd dz",
-        "b": "gemeind Das"
+        "b": "gemeind das"
       },
       {
         "op": "equal",
@@ -243,53 +225,33 @@
       },
       {
         "op": "equal",
-        "a": "zimpt",
-        "b": "zimpt"
+        "a": "zimpt zů reden doch",
+        "b": "zimpt zu reden Doch"
       },
       {
         "op": "replace",
-        "a": "zů reden",
-        "b": "zureden"
+        "a": "vß Gottes wort",
+        "b": "vsß go ttes wo rt"
       },
       {
         "op": "equal",
-        "a": "doch",
-        "b": "Doch"
-      },
-      {
-        "op": "replace",
-        "a": "vß",
-        "b": "vss"
-      },
-      {
-        "op": "equal",
-        "a": "Gottes wort vnderlaſſen",
-        "b": "gottes wort vnderlassen"
+        "a": "vnderlaſſen",
+        "b": "vnderlassen"
       },
       {
         "op": "replace",
         "a": "ſchmütz",
-        "b": "schemnitz"
+        "b": "sclmutz"
       },
       {
         "op": "equal",
-        "a": "vnnd",
-        "b": "vnnd"
+        "a": "vnnd ſchmachred",
+        "b": "vnnd schmachred"
       },
       {
         "op": "replace",
-        "a": "ſchmachred",
-        "b": "schmachrede"
-      },
-      {
-        "op": "equal",
-        "a": "wie",
-        "b": "wie"
-      },
-      {
-        "op": "replace",
-        "a": "dann",
-        "b": "dan"
+        "a": "wie dann",
+        "b": "wier dan"
       },
       {
         "op": "equal",
@@ -299,7 +261,7 @@
       {
         "op": "replace",
         "a": "herrn Preſidente verkündüg yetz vß des",
-        "b": "herren presidenten verkundung Jez vssz"
+        "b": "herren presidenten verkundung Jen vss"
       },
       {
         "op": "equal",
@@ -309,7 +271,7 @@
       {
         "op": "replace",
         "a": "Rhadts em pfelch gehör",
-        "b": "Rhats empfelich gehort"
+        "b": "Rhats empferch geho rt"
       },
       {
         "op": "equal",
@@ -319,7 +281,7 @@
       {
         "op": "replace",
         "a": "zimme beſonder",
-        "b": "zuus besonnder"
+        "b": "zume besonnden"
       },
       {
         "op": "equal",
@@ -328,18 +290,18 @@
       },
       {
         "op": "replace",
-        "a": "be züg ich mich",
-        "b": "bezug sich much"
+        "a": "be züg",
+        "b": "bezug"
       },
       {
         "op": "equal",
-        "a": "aber vff die Acta da",
-        "b": "aber vff die acta Da"
+        "a": "ich mich aber vff die Acta da",
+        "b": "ich mich aber vff die acta Da"
       },
       {
         "op": "replace",
         "a": "Ecolampadius",
-        "b": "kcolampadius"
+        "b": "Eolampadius"
       },
       {
         "op": "equal",
@@ -359,7 +321,7 @@
       {
         "op": "replace",
         "a": "vß",
-        "b": "vss"
+        "b": "vsß"
       },
       {
         "op": "equal",
@@ -369,7 +331,7 @@
       {
         "op": "replace",
         "a": "wort",
-        "b": "wonit"
+        "b": "worct"
       },
       {
         "op": "equal",
@@ -378,48 +340,48 @@
       },
       {
         "op": "replace",
-        "a": "vnſer",
-        "b": "vnnser"
+        "a": "vnſer leer",
+        "b": "vnnser lser"
       },
       {
         "op": "equal",
-        "a": "leer zů geben doch mit züchten",
-        "b": "leer zu geben doch mit zuchten"
+        "a": "zů geben doch mit",
+        "b": "zu geben Doch mit"
       },
       {
         "op": "replace",
-        "a": "vnd gottsforcht gehandlet",
-        "b": "Vnnd gots forcht gehandelt"
+        "a": "züchten vnd gottsforcht gehandlet",
+        "b": "zu chten vnnd gots so rcht gehandelt"
       },
       {
         "op": "equal",
-        "a": "werd Das er aber",
-        "b": "werd Das er aber"
+        "a": "werd",
+        "b": "werd"
       },
       {
         "op": "replace",
-        "a": "bezüget",
-        "b": "bezugen"
+        "a": "Das",
+        "b": "Daes"
       },
       {
         "op": "equal",
-        "a": "er",
-        "b": "Er"
+        "a": "er aber",
+        "b": "er aber"
       },
       {
         "op": "replace",
-        "a": "wölte",
-        "b": "wollte"
+        "a": "bezüget er wölte",
+        "b": "beziget Erwalte"
       },
       {
         "op": "equal",
-        "a": "gern vnſere aller gröſte",
-        "b": "gern vnsere aller gröste"
+        "a": "gern vnſere aller",
+        "b": "gern vnsere aller"
       },
       {
         "op": "replace",
-        "a": "verfürnuß vnd mangel",
-        "b": "verfurnus vnnd mangell"
+        "a": "gröſte verfürnuß vnd mangel",
+        "b": "gro ste verfu rnus vnnd mangell"
       },
       {
         "op": "equal",
@@ -428,23 +390,13 @@
       },
       {
         "op": "replace",
-        "a": "einfaltigen Chriſtenlichen",
-        "b": "einfallingen christenlicken"
+        "a": "einfaltigen",
+        "b": "einfalltigen"
       },
       {
         "op": "equal",
-        "a": "volck",
-        "b": "volck"
-      },
-      {
-        "op": "replace",
-        "a": "anzeigen",
-        "b": "anzoügen"
-      },
-      {
-        "op": "equal",
-        "a": "ſo",
-        "b": "so"
+        "a": "Chriſtenlichen volck anzeigen ſo",
+        "b": "christenlichen volck anzeigen so"
       },
       {
         "op": "replace",
@@ -453,53 +405,33 @@
       },
       {
         "op": "equal",
-        "a": "man jms Bezüg",
-        "b": "man Ims Bezug"
+        "a": "man jms Bezüg ich das wir ſölichs gern",
+        "b": "man Ims Bezug ich das wir solichs gern"
       },
       {
         "op": "replace",
-        "a": "ich",
-        "b": "ick"
+        "a": "wölten hören",
+        "b": "wo llten ho ren"
       },
       {
         "op": "equal",
-        "a": "das wir",
-        "b": "das wir"
-      },
-      {
-        "op": "replace",
-        "a": "ſölichs",
-        "b": "sollichs"
-      },
-      {
-        "op": "equal",
-        "a": "gern",
-        "b": "gern"
-      },
-      {
-        "op": "replace",
-        "a": "wölten",
-        "b": "wollten"
-      },
-      {
-        "op": "equal",
-        "a": "hören mit gottes wort",
-        "b": "horen mit gottes wort"
+        "a": "mit gottes wort",
+        "b": "mit gottes wort"
       },
       {
         "op": "replace",
         "a": "be ſchechen",
-        "b": "besthechen"
+        "b": "beschechen"
       },
       {
         "op": "equal",
-        "a": "das",
-        "b": "Das"
+        "a": "das ouch",
+        "b": "Das ouch"
       },
       {
         "op": "replace",
-        "a": "ouch wol",
-        "b": "onch woll"
+        "a": "wol",
+        "b": "woll"
       },
       {
         "op": "equal",
@@ -518,51 +450,41 @@
       },
       {
         "op": "replace",
-        "a": "leſttrung vnd ſchmach",
-        "b": "lestrung vnnd stemach"
+        "a": "leſttrung vnd",
+        "b": "lestrung vnnd"
       },
       {
         "op": "equal",
-        "a": "wie dann",
-        "b": "wie Dann"
+        "a": "ſchmach wie dann geſter von jm gebrucht",
+        "b": "schmach wie Dann gester von Im gebrucht"
       },
       {
         "op": "replace",
-        "a": "geſter von",
-        "b": "pester van"
+        "a": "iſt Hat",
+        "b": "st Hatt"
       },
       {
         "op": "equal",
-        "a": "jm",
-        "b": "Im"
+        "a": "wyter",
+        "b": "wyter"
       },
       {
         "op": "replace",
-        "a": "gebrucht iſt Hat wyter",
-        "b": "geerucht ijst Hatt wijter"
+        "a": "geoffnet der Pfar rer",
+        "b": "geoffult pfarrer"
       },
       {
         "op": "equal",
-        "a": "geoffnet",
-        "b": "geoffnet"
-      },
-      {
-        "op": "delete",
-        "a": "der Pfar rer von Appenzell In dinem namen herr Jeſu Chriſt Amen Als dann herr Berchtold predicant miner herren von Bern von des Bans wegen ein lange vm ſchweyffende red brucht in welicher langer red er doch bekennt hat ein Bann ze ſin es ſye ein",
-        "b": ""
-      },
-      {
-        "op": "equal",
-        "a": "Pfarrer",
-        "b": "pfarrer"
+        "a": "von",
+        "b": "von"
       },
       {
         "op": "replace",
-        "a": "oder ein Pfarr welches ich gern von jm verſtanden hab dan der Bann iſt ein vßſchlieſſung der Chriſtenlichen gemeynd welcher nit geſchehen mag on gwalt So er dann anzü chet etlich mißbrüch ſo gehalten ſyen worden mit dem Bann oder nit der Kilchen mißbrüch zeuerſpreche bin ich nit hie Aber loblich Chriſtenlich ſtraffungen einem Chriſtenlichen Regiment gegeben lob ich vnd das ſelb iye zů loben bezügt vns das an die heylig ſchrifft Acto rum am xx capitel welche alſo lutet Hannd üch acht vnd",
-        "b": "van Appentzele"
+        "a": "Appenzell In dinem namen herr Jeſu Chriſt Amen Als dann herr Berchtold predicant miner herren von Bern von des Bans wegen ein lange vm ſchweyffende red brucht in welicher langer red er doch bekennt hat ein Bann ze ſin es ſye ein Pfarrer oder ein Pfarr welches ich gern von jm verſtanden hab dan der Bann iſt ein vßſchlieſſung der Chriſtenlichen gemeynd welcher nit geſchehen mag on gwalt So er dann anzü chet etlich mißbrüch ſo gehalten ſyen worden mit dem Bann oder nit der Kilchen mißbrüch zeuerſpreche bin ich nit hie Aber loblich Chriſtenlich ſtraffungen einem Chriſtenlichen Regiment gegeben lob ich vnd das ſelb iye zů loben bezügt vns das an die heylig ſchrifft Acto rum am xx capitel welche alſo lutet Hannd üch acht vnd",
+        "b": "Sppentzell"
       }
     ],
-    "ops": 45,
+    "ops": 36,
     "truncated": false
   }
 }

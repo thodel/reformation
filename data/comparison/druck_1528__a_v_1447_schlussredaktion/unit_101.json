@@ -8,7 +8,7 @@
       189
     ]
   },
-  "alignment_score": 0.1968,
+  "alignment_score": 0.1195,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -23,23 +23,23 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 12,
+    "units": 16,
     "matched": 3,
     "only_a": 9,
-    "only_b": 0,
-    "similarity": 0.3414,
+    "only_b": 4,
+    "similarity": 0.3903,
     "pairs": [
       {
         "op": "match",
         "a": "Capi. selbs redt. Darumb schlüßt der pfarrer noch nit\nanders / weder das vorgnügßam im verantwurtet ist / andre geschrifft bring er harfür /",
-        "b": "6 m\nDas ampt der Dienstberkeit wie paulus zum\nEphesern iiii cap: selbs vedt, Darumme schlusse\nDer pfarrer, noch int anders weder Das vor\ngnugsam Im verantwurtet ist.",
-        "similarity": 0.4082
+        "b": "Bir\nDiae ampt der Diegerkan wot penelis zm\nEpheseen iiii cap: selbs redt / Darumb schlis\nDer psorrer / noch ni anders weder das vor\ngnigsam Im veranwurtet /",
+        "similarity": 0.383
       },
       {
-        "op": "match",
+        "op": "only_a",
         "a": "die zum houpt diene / dann so sin verstand bestünde / so wurden so vil höupter\nals vil Bischoff / ja in einer Kilchen /",
-        "b": "Andere gschrifft\nbring, er harfux die zum houpt Dienet, dan\nso sin verstand, bestunde, so wurden so vill houpter\nfe viel Dijthoff, so In einer kilcken, Dan pareus\nIn sinem anzognen spruch zu dem thirten In Ephesen\ndern vill waren sollichs wort geredt hatt\nFarrer von Oppentzele¬\nAels ter Berch¬\nnomen schriften\ntoed anzoigt Das hem aunderer gewaelt sy dan\nChristi, oder gotes.",
-        "similarity": 0.3095
+        "b": null,
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -60,16 +60,34 @@
         "similarity": 0.0
       },
       {
-        "op": "match",
-        "a": "sin gewalt / sin barmherzi\nkeit sin glori vñ Eer niemand vff ertrich geben / noch im\nhimel / vnd soll ouch dhein mensch nit reden (ob gott wil)\ndas keyner vff diser parthy /",
-        "b": "Hab ick Im gester Inn,\nDer ersten beschlußred, gnugsamlichen bescheu\ngeben/ wan echt bescheid will heleffen, In wel¬\nlichem Ich Ime vermitsamlich claplich anzogt\nhaben den gewaelt des allmechtigen nots, sin\ngewaelt, sin barmhertzigkeit, sin glocx vnd Eer\nniemand vff extrick peben noch Im himele vnd\nsoll ouch Ehem monsch mit reden (ob gott (will)\nDas keiner vff diser parthy vnnd ichs darfur\nhab, nu geredt hab, Ime Darnack anzoigt, einen\nverordneten gevollt, den er geben hat sinen vsser\nweelten lieben Jugern vnd soer den gewalt\nvorhin, huusamlich anzoigt, bi stadt hatt. Oviel",
-        "similarity": 0.3065
+        "op": "only_b",
+        "a": null,
+        "b": "ist / ndes gshachn\nbrug er harfu / die zuͦm haupt dienet / den\nsin versend gestunde / so wuͤrden so vilheien\ndill is so n eier kilchen Dan pa\nIn sinem ancenen spruch zu dem heiren In lieh\ndern vil waren /",
+        "similarity": 0.0
       },
       {
-        "op": "only_a",
-        "a": "vnd ichs darfür hab nie ge=\nredt / hab jme darnach anzeygt / einen verordnetē gwalt / den er geben hat sinen vsserwelten lieben jüüngeren /",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "sollichs wort geredt hatt // farer von Appenczer / Abls cher Berch\nwinren Christn\ntoed anseigt Das vem annderer geloalt sy dan\nChrst oder gas is ich im geser Jnn/",
         "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "der eisten beschlusnd gnugsamlichen beschan / geben / wan echt bescheid wier helffen / Jchi le // luhtem Ith Ine gnuͦssamlich / clareig anzaͤigt /",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "sin gewalt / sin barmherzi\nkeit sin glori vñ Eer niemand vff ertrich geben / noch im\nhimel / vnd soll ouch dhein mensch nit reden (ob gott wil)\ndas keyner vff diser parthy /",
+        "b": "hab / den gewallt Des allmechtigen / gote / sin\ngewallt / sin barnchertzigkeu / sin glony vnd eer / iemad ug ertris geden vo hin hinel d\nsoll ouch dhein moͤnsch nit reden /",
+        "similarity": 0.3333
+      },
+      {
+        "op": "match",
+        "a": "vnd ichs darfür hab nie ge=\nredt / hab jme darnach anzeygt / einen verordnetē gwalt / den er geben hat sinen vsserwelten lieben jüüngeren /",
+        "b": "ob gott wel // a e\nhab / nie geredt has / Iune Darnach anzeͤigt einen\nverordneten gwallt / den er geben hat sinen vsser /",
+        "similarity": 0.4545
       },
       {
         "op": "only_a",
@@ -100,110 +118,136 @@
         "a": "vnd das ein ander ding ist / hirten vnd leeren. Berchtoldus",
         "b": null,
         "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "wellten lieben / Jungern / vnd / so er den gem\nvorhin / gnuͦgsamlich anzaygt / bestat hatt / wa",
+        "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.4009,
+    "similarity": 0.2993,
     "words": {
       "a": 260,
-      "b": 184
+      "b": 181
     },
     "segments": [
       {
         "op": "replace",
         "a": "Capi",
-        "b": "6 m Das ampt der Dienstberkeit wie paulus zum Ephesern iiii cap"
+        "b": "Bir Diae ampt der Diegerkan wot penelis zm Epheseen iiii cap"
       },
       {
         "op": "equal",
-        "a": "selbs",
-        "b": "selbs"
+        "a": "selbs redt Darumb",
+        "b": "selbs redt Darumb"
       },
       {
         "op": "replace",
-        "a": "redt Darumb schlüßt",
-        "b": "vedt Darumme schlusse"
+        "a": "schlüßt",
+        "b": "schlis"
       },
       {
         "op": "equal",
-        "a": "der pfarrer noch",
-        "b": "Der pfarrer noch"
+        "a": "der",
+        "b": "Der"
+      },
+      {
+        "op": "replace",
+        "a": "pfarrer",
+        "b": "psorrer"
+      },
+      {
+        "op": "equal",
+        "a": "noch",
+        "b": "noch"
       },
       {
         "op": "replace",
         "a": "nit",
-        "b": "int"
+        "b": "ni"
       },
       {
         "op": "equal",
         "a": "anders weder das",
-        "b": "anders weder Das"
+        "b": "anders weder das"
       },
       {
         "op": "replace",
         "a": "vorgnügßam",
-        "b": "vor gnugsam"
+        "b": "vor gnigsam"
       },
       {
         "op": "equal",
-        "a": "im verantwurtet ist",
-        "b": "Im verantwurtet ist"
+        "a": "im",
+        "b": "Im"
       },
       {
         "op": "replace",
-        "a": "andre geschrifft",
-        "b": "Andere gschrifft"
+        "a": "verantwurtet",
+        "b": "veranwurtet"
       },
       {
         "op": "equal",
-        "a": "bring er",
-        "b": "bring er"
+        "a": "ist",
+        "b": "ist"
+      },
+      {
+        "op": "replace",
+        "a": "andre geschrifft bring",
+        "b": "ndes gshachn brug"
+      },
+      {
+        "op": "equal",
+        "a": "er",
+        "b": "er"
       },
       {
         "op": "replace",
         "a": "harfür",
-        "b": "harfux"
+        "b": "harfu"
       },
       {
         "op": "equal",
-        "a": "die zum houpt",
-        "b": "die zum houpt"
+        "a": "die",
+        "b": "die"
       },
       {
         "op": "replace",
-        "a": "diene dann",
-        "b": "Dienet dan"
+        "a": "zum houpt diene dann",
+        "b": "zu m haupt dienet den sin versend gestunde"
       },
       {
         "op": "equal",
-        "a": "so sin verstand bestünde so wurden so",
-        "b": "so sin verstand bestunde so wurden so"
+        "a": "so",
+        "b": "so"
       },
       {
         "op": "replace",
-        "a": "vil",
-        "b": "vill"
+        "a": "sin verstand bestünde",
+        "b": "wu rden"
       },
       {
         "op": "equal",
-        "a": "höupter",
-        "b": "houpter"
+        "a": "so",
+        "b": "so"
       },
       {
         "op": "replace",
-        "a": "als vil Bischoff ja",
-        "b": "fe viel Dijthoff so"
+        "a": "wurden",
+        "b": "vilheien dill is"
       },
       {
         "op": "equal",
-        "a": "in einer",
-        "b": "In einer"
+        "a": "so",
+        "b": "so"
       },
       {
         "op": "replace",
-        "a": "Kilchen dann Paulus",
-        "b": "kilcken Dan pareus"
+        "a": "vil höupter als vil Bischoff ja",
+        "b": "n eier kilchen Dan pa"
       },
       {
         "op": "equal",
@@ -212,18 +256,18 @@
       },
       {
         "op": "replace",
-        "a": "sine",
-        "b": "sinem"
+        "a": "einer Kilchen dann Paulus in sine anzognen",
+        "b": "sinem ancenen"
       },
       {
         "op": "equal",
-        "a": "anzognen spruch zů",
-        "b": "anzognen spruch zu"
+        "a": "spruch zů",
+        "b": "spruch zu"
       },
       {
         "op": "replace",
         "a": "den hirten",
-        "b": "dem thirten"
+        "b": "dem heiren"
       },
       {
         "op": "equal",
@@ -232,8 +276,18 @@
       },
       {
         "op": "replace",
-        "a": "Epheso deren vil wa ren",
-        "b": "Ephesen dern vill waren"
+        "a": "Epheso deren",
+        "b": "lieh dern"
+      },
+      {
+        "op": "equal",
+        "a": "vil",
+        "b": "vil"
+      },
+      {
+        "op": "replace",
+        "a": "wa ren",
+        "b": "waren"
       },
       {
         "op": "equal",
@@ -243,7 +297,7 @@
       {
         "op": "replace",
         "a": "Pfarrer",
-        "b": "Farrer"
+        "b": "farer"
       },
       {
         "op": "equal",
@@ -253,47 +307,57 @@
       {
         "op": "replace",
         "a": "Appenzell K ommen Christen als herr Berchtold anzeygt dz kein anderer gewalt",
-        "b": "Oppentzele Aels ter Berch nomen schriften toed anzoigt Das hem aunderer gewaelt"
+        "b": "Appenczer Abls cher Berch winren Christn toed anseigt Das vem annderer geloalt"
       },
       {
         "op": "equal",
-        "a": "sy dan Christi oder",
-        "b": "sy dan Christi oder"
+        "a": "sy dan",
+        "b": "sy dan"
       },
       {
         "op": "replace",
-        "a": "got tes",
-        "b": "gotes"
+        "a": "Christi",
+        "b": "Chrst"
       },
       {
         "op": "equal",
-        "a": "hab",
-        "b": "Hab"
+        "a": "oder",
+        "b": "oder"
       },
       {
         "op": "replace",
-        "a": "ich",
-        "b": "ick"
+        "a": "got tes hab",
+        "b": "gas is"
       },
       {
         "op": "equal",
-        "a": "im gester",
-        "b": "Im gester"
+        "a": "ich im",
+        "b": "ich im"
       },
       {
         "op": "replace",
-        "a": "in",
-        "b": "Inn"
+        "a": "gester in",
+        "b": "geser Jnn"
       },
       {
         "op": "equal",
-        "a": "der ersten beschlußred gnůgsamlichē",
-        "b": "Der ersten beschlußred gnugsamlichen"
+        "a": "der",
+        "b": "der"
+      },
+      {
+        "op": "replace",
+        "a": "ersten beschlußred",
+        "b": "eisten beschlusnd"
+      },
+      {
+        "op": "equal",
+        "a": "gnůgsamlichē",
+        "b": "gnugsamlichen"
       },
       {
         "op": "replace",
         "a": "bescheid gebe wen",
-        "b": "bescheu geben wan"
+        "b": "beschan geben wan"
       },
       {
         "op": "equal",
@@ -302,48 +366,28 @@
       },
       {
         "op": "replace",
-        "a": "wilhelffen",
-        "b": "will heleffen"
+        "a": "wilhelffen in welche ich im gnůgsamlich Elärlich anzeygt",
+        "b": "wier helffen Jchi le luhtem Ith Ine gnu ssamlich clareig anza igt"
       },
       {
         "op": "equal",
-        "a": "in",
-        "b": "In"
-      },
-      {
-        "op": "replace",
-        "a": "welche",
-        "b": "wel lichem"
-      },
-      {
-        "op": "equal",
-        "a": "ich",
-        "b": "Ich"
-      },
-      {
-        "op": "replace",
-        "a": "im gnůgsamlich Elärlich anzeygt hab",
-        "b": "Ime vermitsamlich claplich anzogt haben"
-      },
-      {
-        "op": "equal",
-        "a": "den",
-        "b": "den"
+        "a": "hab den",
+        "b": "hab den"
       },
       {
         "op": "replace",
         "a": "gewalt",
-        "b": "gewaelt"
+        "b": "gewallt"
       },
       {
         "op": "equal",
         "a": "des",
-        "b": "des"
+        "b": "Des"
       },
       {
         "op": "replace",
         "a": "almechtigē gotts",
-        "b": "allmechtigen nots"
+        "b": "allmechtigen gote"
       },
       {
         "op": "equal",
@@ -353,7 +397,7 @@
       {
         "op": "replace",
         "a": "gewalt",
-        "b": "gewaelt"
+        "b": "gewallt"
       },
       {
         "op": "equal",
@@ -363,7 +407,7 @@
       {
         "op": "replace",
         "a": "barmherzi keit",
-        "b": "barmhertzigkeit"
+        "b": "barnchertzigkeu"
       },
       {
         "op": "equal",
@@ -373,87 +417,57 @@
       {
         "op": "replace",
         "a": "glori",
-        "b": "glocx"
+        "b": "glony"
       },
       {
         "op": "equal",
-        "a": "vñ Eer niemand vff",
-        "b": "vnd Eer niemand vff"
+        "a": "vñ Eer",
+        "b": "vnd eer"
       },
       {
         "op": "replace",
-        "a": "ertrich geben",
-        "b": "extrick peben"
+        "a": "niemand vff ertrich geben noch im himel vnd",
+        "b": "iemad ug ertris geden vo hin hinel d"
       },
       {
         "op": "equal",
-        "a": "noch im",
-        "b": "noch Im"
+        "a": "soll ouch dhein",
+        "b": "soll ouch dhein"
       },
       {
         "op": "replace",
-        "a": "himel",
-        "b": "himele"
+        "a": "mensch",
+        "b": "mo nsch"
       },
       {
         "op": "equal",
-        "a": "vnd soll ouch",
-        "b": "vnd soll ouch"
+        "a": "nit reden ob gott",
+        "b": "nit reden ob gott"
       },
       {
         "op": "replace",
-        "a": "dhein mensch nit",
-        "b": "Ehem monsch mit"
+        "a": "wil das keyner vff diser parthy vnd ichs darfür",
+        "b": "wel a e"
       },
       {
         "op": "equal",
-        "a": "reden ob gott",
-        "b": "reden ob gott"
+        "a": "hab nie",
+        "b": "hab nie"
       },
       {
         "op": "replace",
-        "a": "wil",
-        "b": "will"
+        "a": "ge redt hab jme",
+        "b": "geredt has Iune"
       },
       {
         "op": "equal",
-        "a": "das",
-        "b": "Das"
+        "a": "darnach",
+        "b": "Darnach"
       },
       {
         "op": "replace",
-        "a": "keyner",
-        "b": "keiner"
-      },
-      {
-        "op": "equal",
-        "a": "vff diser parthy",
-        "b": "vff diser parthy"
-      },
-      {
-        "op": "replace",
-        "a": "vnd",
-        "b": "vnnd"
-      },
-      {
-        "op": "equal",
-        "a": "ichs darfür hab",
-        "b": "ichs darfur hab"
-      },
-      {
-        "op": "replace",
-        "a": "nie ge redt",
-        "b": "nu geredt"
-      },
-      {
-        "op": "equal",
-        "a": "hab jme",
-        "b": "hab Ime"
-      },
-      {
-        "op": "replace",
-        "a": "darnach anzeygt",
-        "b": "Darnack anzoigt"
+        "a": "anzeygt",
+        "b": "anze igt"
       },
       {
         "op": "equal",
@@ -463,7 +477,7 @@
       {
         "op": "replace",
         "a": "gwalt",
-        "b": "gevollt"
+        "b": "gwallt"
       },
       {
         "op": "equal",
@@ -473,7 +487,7 @@
       {
         "op": "replace",
         "a": "vsserwelten",
-        "b": "vsser weelten"
+        "b": "vsser wellten"
       },
       {
         "op": "equal",
@@ -483,27 +497,27 @@
       {
         "op": "replace",
         "a": "jüüngeren",
-        "b": "Jugern"
+        "b": "Jungern"
       },
       {
         "op": "equal",
-        "a": "vnd",
-        "b": "vnd"
+        "a": "vnd so er den",
+        "b": "vnd so er den"
       },
       {
         "op": "replace",
-        "a": "so er",
-        "b": "soer"
+        "a": "gewalt",
+        "b": "gem"
       },
       {
         "op": "equal",
-        "a": "den gewalt vorhin",
-        "b": "den gewalt vorhin"
+        "a": "vorhin",
+        "b": "vorhin"
       },
       {
         "op": "replace",
         "a": "gnůgsamlich anzeigt beßtät hat wil er mit ein beuelch daruß machen das sy aber eyn ge walt gehan vnd ein vnderscheid",
-        "b": "huusamlich anzoigt bi stadt"
+        "b": "gnu gsamlich anzaygt bestat"
       },
       {
         "op": "equal",
@@ -513,10 +527,10 @@
       {
         "op": "replace",
         "a": "so vermerckend den heyligen Euangelistē als mich gesendt hat min him melscher vatter also send ich üch ouch Jtem vß der de claration so ich vor dar thon hab wie er gesetzt hab zů regieren sin göttliche Kilchen wie es dan anzeygt hatt der vorderig spruch etlich hirrt etlich leerer ꝛc Jn wel lichem klärlich anzeyget wirt eyn empfolchner gewalt vnd das ein ander ding ist hirten vnd leeren Berchtoldus",
-        "b": "Oviel"
+        "b": "wa"
       }
     ],
-    "ops": 41,
+    "ops": 40,
     "truncated": false
   }
 }

@@ -8,7 +8,7 @@
       196
     ]
   },
-  "alignment_score": 0.1415,
+  "alignment_score": 0.1935,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -23,35 +23,59 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 8,
-    "matched": 2,
-    "only_a": 5,
-    "only_b": 1,
-    "similarity": 0.4226,
+    "units": 12,
+    "matched": 3,
+    "only_a": 4,
+    "only_b": 5,
+    "similarity": 0.5115,
     "pairs": [
       {
         "op": "only_b",
         "a": null,
-        "b": "40\nDie erst Schlusred\n77\nsiend der Kirchen, Bringent klare gschrifft\ndas ein annder houpt der kilchen sie wellichs\nse lebendig macht, vnnd in heillam sie\n22\nSwinghij\nH beger ein weinig zu erklaring wie\nChristus Das brecht sie, vnnd wie die\npostell Das biecht sigende zereden, Christus\nist, Das war wesenlich liecht, Johannis\nvnnd alles brecht Das die\nrap:",
+        "b": "1\nDie erst Schlis nad\n1\nend der kilchen / Brigent kere gschrifft\nDas ein annder houpt Der kilchen sye wellachs\nsy lebendig macht /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "vnnd Ir heilland sie // 3\neinbe\nIh beger ein wenng zuͦ erllaͤrung wi/ Christus Das liecht sie/ vnnd wie die //",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "Apostell das biecht sigend zereden / Christis\nis Das war westulich liecht / Johunis\nvnnd alles liecht Das die\ncap: Neinend\nApostell haben gipt er Inen /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "lieber her pfarter ein Bispill / Die Sonn\ngitt den tag durch das fenster harInn // vnd ist aber der tag oder liecht /",
         "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Schlußred. L\nfür ſich ſelbs/ſonders ſo bald die Sonn nit lúchtet/ſo iſt\nder tag númen. Alſo ouch die Apoſtel/habend ſo vil liech\ntes/ſo vil jne die Sonn der gerechtigkeyt/Chriſtus gibt/",
-        "b": "Niemandt\nApostele haben gipt er Inen/ lieber her pfarrer ein Dispill, Die Sonn\npiet den tag Durch Das fenster har Inn\nvnd ist aber der tag oder liecht, met zit\nfur sich selbs, sonders so bald die sonn nit\nluchtet, So ist der tag numen Also ouch\nDie Oposcell, habene so vill lechtes, so vill\nInen Die Sonn der gerechtigkeit Christus\ngebt, End do die Sonn mit luchtet, Da\nist kem lecht vnd ist Christus, also allein das\nlecht.",
-        "similarity": 0.4211
+        "b": "ntzit\nfuͤr soch selbs / sonders so bald die Sonn nit\nluchtet / So ist der tag nimen / Also ouch\ndie wostell /",
+        "similarity": 0.5357
       },
       {
-        "op": "only_a",
-        "a": "vnnd wo die Sonn nit lúchtet/da iſt kein liecht/vnd yſt\nChriſtus alſo allein das liecht/das läben vnd die krafft/",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "habend / so vill liechtes / so vill\nInen die Sonn der gerechtigkeit Christus/ gibt / vnd do die Sonn nit lichtet, da/",
         "similarity": 0.0
       },
       {
         "op": "match",
+        "a": "vnnd wo die Sonn nit lúchtet/da iſt kein liecht/vnd yſt\nChriſtus alſo allein das liecht/das läben vnd die krafft/",
+        "b": "ist kein liecht / vnd ist Christus / also / allein das\nliecht Das laͤben vnnd die krafft / die\nalls moͤnschen erluchtet /",
+        "similarity": 0.5581
+      },
+      {
+        "op": "match",
         "a": "die alle menſchen erlúchtet/läbendig macht vnd behal=\ntet. Vnd ſind die Apoſtel erlúchte/läbendig gemacht gli\nder der Kilchen/vnd nit höupter/ſag ich lieber herr pfar\nrer/zů üwer vnderrichtung vnd der einfaltigen.",
-        "b": "Das laben vnnd die krafft Die\nalle menschen erluchtet, labeweg macht\nvnd behalllet\nvnd sinde die apostell\nerluchte lubendig gemacht glder der klechen\nvnd uit houpter, sag ick lieber her pfacret",
-        "similarity": 0.4242
+        "b": "laͤbendig macht / vnd behalltet // vnd sind die apostell\nerluchte laͤbendig gemacht glider der kilchen\nvnd nit hoͤupter / sag ich lieber Herpsarren",
+        "similarity": 0.4407
       },
       {
         "op": "only_a",
@@ -80,36 +104,46 @@
     ]
   },
   "fine": {
-    "similarity": 0.2494,
+    "similarity": 0.2559,
     "words": {
       "a": 247,
-      "b": 170
+      "b": 175
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Schlußred L",
-        "b": "40 Die erst Schlusred 77 siend der Kirchen Bringent klare gschrifft das ein annder houpt der kilchen sie wellichs se lebendig macht vnnd in heillam sie 22 Swinghij H beger ein weinig zu erklaring wie Christus Das brecht sie vnnd wie die postell Das biecht sigende zereden Christus ist Das war wesenlich liecht Johannis vnnd alles brecht Das die rap Niemandt Apostele haben gipt er Inen lieber her pfarrer ein Dispill Die Sonn piet den tag Durch Das fenster har Inn vnd ist aber der tag oder liecht met zit"
+        "a": "Schlußred L für ſich",
+        "b": "1 Die erst Schlis nad 1 end der kilchen Brigent kere gschrifft Das ein annder houpt Der kilchen sye wellachs sy lebendig macht vnnd Ir heilland sie 3 einbe Ih beger ein wenng zu erlla rung wi Christus Das liecht sie vnnd wie die Apostell das biecht sigend zereden Christis is Das war westulich liecht Johunis vnnd alles liecht Das die cap Neinend Apostell haben gipt er Inen lieber her pfarter ein Bispill Die Sonn gitt den tag durch das fenster harInn vnd ist aber der tag oder liecht ntzit fu r soch"
       },
       {
         "op": "equal",
-        "a": "für ſich ſelbs ſonders ſo bald die Sonn nit lúchtet ſo iſt der tag númen Alſo ouch die",
-        "b": "fur sich selbs sonders so bald die sonn nit luchtet So ist der tag numen Also ouch Die"
+        "a": "ſelbs ſonders ſo bald die Sonn nit lúchtet ſo iſt der tag",
+        "b": "selbs sonders so bald die Sonn nit luchtet So ist der tag"
       },
       {
         "op": "replace",
-        "a": "Apoſtel habend",
-        "b": "Oposcell habene"
+        "a": "númen",
+        "b": "nimen"
       },
       {
         "op": "equal",
-        "a": "ſo",
-        "b": "so"
+        "a": "Alſo ouch die",
+        "b": "Also ouch die"
+      },
+      {
+        "op": "replace",
+        "a": "Apoſtel",
+        "b": "wostell"
+      },
+      {
+        "op": "equal",
+        "a": "habend ſo",
+        "b": "habend so"
       },
       {
         "op": "replace",
         "a": "vil liech tes",
-        "b": "vill lechtes"
+        "b": "vill liechtes"
       },
       {
         "op": "equal",
@@ -124,7 +158,7 @@
       {
         "op": "equal",
         "a": "die Sonn der",
-        "b": "Die Sonn der"
+        "b": "die Sonn der"
       },
       {
         "op": "replace",
@@ -133,38 +167,28 @@
       },
       {
         "op": "equal",
-        "a": "Chriſtus",
-        "b": "Christus"
+        "a": "Chriſtus gibt",
+        "b": "Christus gibt"
       },
       {
         "op": "replace",
-        "a": "gibt vnnd wo",
-        "b": "gebt End do"
+        "a": "vnnd wo",
+        "b": "vnd do"
       },
       {
         "op": "equal",
-        "a": "die Sonn",
-        "b": "die Sonn"
+        "a": "die Sonn nit",
+        "b": "die Sonn nit"
       },
       {
         "op": "replace",
-        "a": "nit",
-        "b": "mit"
+        "a": "lúchtet",
+        "b": "lichtet"
       },
       {
         "op": "equal",
-        "a": "lúchtet da iſt",
-        "b": "luchtet Da ist"
-      },
-      {
-        "op": "replace",
-        "a": "kein liecht",
-        "b": "kem lecht"
-      },
-      {
-        "op": "equal",
-        "a": "vnd",
-        "b": "vnd"
+        "a": "da iſt kein liecht vnd",
+        "b": "da ist kein liecht vnd"
       },
       {
         "op": "replace",
@@ -173,33 +197,33 @@
       },
       {
         "op": "equal",
-        "a": "Chriſtus alſo allein das",
-        "b": "Christus also allein das"
+        "a": "Chriſtus alſo allein das liecht das",
+        "b": "Christus also allein das liecht Das"
       },
       {
         "op": "replace",
-        "a": "liecht",
-        "b": "lecht"
+        "a": "läben vnd",
+        "b": "la ben vnnd"
       },
       {
         "op": "equal",
-        "a": "das läben",
-        "b": "Das laben"
+        "a": "die krafft die",
+        "b": "die krafft die"
       },
       {
         "op": "replace",
-        "a": "vnd",
-        "b": "vnnd"
+        "a": "alle menſchen",
+        "b": "alls mo nschen"
       },
       {
         "op": "equal",
-        "a": "die krafft die alle menſchen erlúchtet",
-        "b": "die krafft Die alle menschen erluchtet"
+        "a": "erlúchtet",
+        "b": "erluchtet"
       },
       {
         "op": "replace",
         "a": "läbendig",
-        "b": "labeweg"
+        "b": "la bendig"
       },
       {
         "op": "equal",
@@ -208,13 +232,13 @@
       },
       {
         "op": "replace",
-        "a": "behal tet Vnd ſind",
-        "b": "behalllet vnd sinde"
+        "a": "behal tet Vnd",
+        "b": "behalltet vnd"
       },
       {
         "op": "equal",
-        "a": "die",
-        "b": "die"
+        "a": "ſind die",
+        "b": "sind die"
       },
       {
         "op": "replace",
@@ -229,7 +253,7 @@
       {
         "op": "replace",
         "a": "läbendig",
-        "b": "lubendig"
+        "b": "la bendig"
       },
       {
         "op": "equal",
@@ -238,51 +262,31 @@
       },
       {
         "op": "replace",
-        "a": "gli",
-        "b": "glder"
+        "a": "gli der",
+        "b": "glider"
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
+        "a": "der Kilchen vnd nit",
+        "b": "der kilchen vnd nit"
       },
       {
         "op": "replace",
-        "a": "der Kilchen",
-        "b": "klechen"
+        "a": "höupter",
+        "b": "ho upter"
       },
       {
         "op": "equal",
-        "a": "vnd",
-        "b": "vnd"
-      },
-      {
-        "op": "replace",
-        "a": "nit",
-        "b": "uit"
-      },
-      {
-        "op": "equal",
-        "a": "höupter ſag",
-        "b": "houpter sag"
-      },
-      {
-        "op": "replace",
-        "a": "ich",
-        "b": "ick"
-      },
-      {
-        "op": "equal",
-        "a": "lieber",
-        "b": "lieber"
+        "a": "ſag ich lieber",
+        "b": "sag ich lieber"
       },
       {
         "op": "replace",
         "a": "herr pfar rer zů üwer vnderrichtung vnd der einfaltigen Pfarrꝛ ALs dann herr Berchtold vngefürt hatt wie die zwölffbotten nit ſygend liechter der wellt we ſenlich hett es des núts dörffen jm iſt niemāts darwider gſin das er aber darnābend vngefürt hat wie dann herr Berchtold ſagt Chriſtus ſye allein das we ſenlich liecht vnd die zwölffbotten nit gloubt yedermā Aber das exempel võ byſpil ſo Meiſter Vlrich Zwing ly geredt von dem liecht mit gegeben vonn der Sonn durch das fennſter erkenn ich eygentlich wol on alles mittel das das war liecht iſt vñ der anfang des liechts Aber der ſchyn der durchtringt das fennſter hoff ich er laß mirs ouch ein liecht ſin Alſo ouch zů ynfürung miner Beſchlußred erkenn ich ouch Gott den Herren Jeſum Chriſtum min behalter vnnd aller welt ein houpt ze ſin Aber das nit ſye ein verordnet houpt nachgelaſſen von ſinem Göttlichenn wort werde nyemand wider mich bewären vnd empfilch mich alſo den göttlichen worte N ij",
-        "b": "her pfacret"
+        "b": "Herpsarren"
       }
     ],
-    "ops": 20,
+    "ops": 18,
     "truncated": false
   }
 }

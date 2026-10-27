@@ -8,7 +8,7 @@
       276
     ]
   },
-  "alignment_score": 0.2541,
+  "alignment_score": 0.12,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -23,10 +23,10 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 7,
+    "units": 9,
     "matched": 0,
     "only_a": 5,
-    "only_b": 2,
+    "only_b": 4,
     "similarity": 0.0,
     "pairs": [
       {
@@ -62,28 +62,40 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "11\nDie ander Ochlusfred,\nsie, kilch Christi, machot nitt gesag vnd bott,\nzue gottes wort, Oesthalb all menschen Papun¬\ngen, So man nempt der kilchen bott, vns\nnitt witter bindende, dann Ei In gottlichem\nwort gegrundt vnd botten vinden\nMeister franz kols,\nme vnd fride van gott dan vatter, vnd unserm\ntheeren Jesu christo, Amen, Vserwelten\ngottes frund, Nach dem min bruder Berchtold,\nIn der Ersten unser Schlus reden, gnugsamtlich\nerlutrot het, was da sije die Christenlich gemeind\ndero das einig hopt, sije Christus Jesus, Nach\nlut des andren Ortickels, unsers vralten kisten:",
+        "b": "Die ander Schlussrd,\nie kiech Christi, machet nitt gesahz vnd lott\naur gettes wort, Deshalb all monschen dazun¬. gen, So man nampt der kilchen bott vns\nnitt witter bindend, dann Si In gettlichem\nwort gegruͤndt vnd botten vind¬\nMeister frantz kolb\nnnd vnd feid von gatt demn vetteg/",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "lichen glaubens, der also lutet, Ich gloub In Jesum\nsnien en gebornen Enn, vnsern herren, merckt\nmencklich, onsern herren, vnser hopt, vnsern hei¬\nland, unsern libendigt macher, vnsern enthalten,\nVnsern einigen Bischof vnd termeister, Een, vnd\nde hemen meren, wijder In himel noch vff ertrich,\nbekennen wir, In diserm bliben wier, dehenis an¬\ndren Item horen wir, wie dann diser Artickel,\ngnijgsamblich, mitt gwaltiger geschrifft, er¬\nlictrot Ist, und gangh ungezwiflot, bij den enn,",
+        "b": "vnd vnsaem\nherren Jsu christi / mon Chriwlten\ns f d n dr cd\nIn dee Eisten vnser Schlußreden, gnugsunklich\nerlutrot het, wie da Sie der Christenlich Jrureid\ndero das einig hapt, er Christus Jrsus, Nach\nlit des andren Crtichle, vnsers vralten Eristen¬\nlichen glaubens, der ibe lutrt /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "Ich gloub In Jesum\nSinen einigebernen Sun, vnsorn herren, mercet\nmoncllich vnseen hairren vnser hopt, vnsern hei¬\nlind, vnsern libendigmacher, vnsern anthilter¬\nwasern rugeu vithef vnd kermwister, den vndd\ndcheinen andem, wider Jn humel nach iff ertrich.",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "abennen wir, En diserm bliben wir, dehenns an¬\ndren Stim heiren wir, wie dann diser otichel\nnigsamflich, mitt gmatiger geschrifft er¬\nlitit ist ond ganz ungezwiflet / bj denenn¬",
         "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.4053,
+    "similarity": 0.2847,
     "words": {
       "a": 134,
-      "b": 167
+      "b": 161
     },
     "segments": [
       {
-        "op": "replace",
+        "op": "delete",
         "a": "LXXII",
-        "b": "11"
+        "b": ""
       },
       {
         "op": "equal",
@@ -92,28 +104,18 @@
       },
       {
         "op": "replace",
-        "a": "Schlußred vnd der selben gründ hat Meyſter Frantz Kolb predicant zů Bernn eroffnet Die",
-        "b": "Ochlusfred sie"
+        "a": "Schlußred vnd der selben gründ hat Meyſter Frantz Kolb predicant zů Bernn eroffnet Die kilch",
+        "b": "Schlussrd ie kiech"
       },
       {
         "op": "equal",
-        "a": "kilch Chriſti",
-        "b": "kilch Christi"
-      },
-      {
-        "op": "replace",
-        "a": "machet",
-        "b": "machot"
-      },
-      {
-        "op": "equal",
-        "a": "nitt",
-        "b": "nitt"
+        "a": "Chriſti machet nitt",
+        "b": "Christi machet nitt"
       },
       {
         "op": "replace",
         "a": "geſatz",
-        "b": "gesag"
+        "b": "gesahz"
       },
       {
         "op": "equal",
@@ -122,18 +124,18 @@
       },
       {
         "op": "replace",
-        "a": "bot ane",
-        "b": "bott zue"
+        "a": "bot ane gottes",
+        "b": "lott aur gettes"
       },
       {
         "op": "equal",
-        "a": "gottes wort",
-        "b": "gottes wort"
+        "a": "wort",
+        "b": "wort"
       },
       {
         "op": "replace",
         "a": "deßhalb",
-        "b": "Oesthalb"
+        "b": "Deshalb"
       },
       {
         "op": "equal",
@@ -143,17 +145,37 @@
       {
         "op": "replace",
         "a": "men ſchen ſatzungen",
-        "b": "menschen Papun gen"
+        "b": "monschen dazun gen"
       },
       {
         "op": "equal",
-        "a": "ſo man nempt der kilchē bott",
-        "b": "So man nempt der kilchen bott"
+        "a": "ſo man",
+        "b": "So man"
       },
       {
         "op": "replace",
-        "a": "vnß nit witer bindend dan ſy",
-        "b": "vns nitt witter bindende dann Ei"
+        "a": "nempt",
+        "b": "nampt"
+      },
+      {
+        "op": "equal",
+        "a": "der kilchē bott",
+        "b": "der kilchen bott"
+      },
+      {
+        "op": "replace",
+        "a": "vnß nit witer",
+        "b": "vns nitt witter"
+      },
+      {
+        "op": "equal",
+        "a": "bindend",
+        "b": "bindend"
+      },
+      {
+        "op": "replace",
+        "a": "dan ſy",
+        "b": "dann Si"
       },
       {
         "op": "equal",
@@ -163,17 +185,37 @@
       {
         "op": "replace",
         "a": "göt tlichē",
-        "b": "gottlichem"
+        "b": "gettlichem"
       },
       {
         "op": "equal",
-        "a": "wort gegründt vnd botten",
-        "b": "wort gegrundt vnd botten"
+        "a": "wort",
+        "b": "wort"
       },
       {
         "op": "replace",
-        "a": "ſind Meyſter Frantz Kolb Gnad",
-        "b": "vinden Meister franz kols me"
+        "a": "gegründt",
+        "b": "gegru ndt"
+      },
+      {
+        "op": "equal",
+        "a": "vnd botten",
+        "b": "vnd botten"
+      },
+      {
+        "op": "replace",
+        "a": "ſind Meyſter",
+        "b": "vind Meister"
+      },
+      {
+        "op": "equal",
+        "a": "Frantz Kolb",
+        "b": "frantz kolb"
+      },
+      {
+        "op": "replace",
+        "a": "Gnad",
+        "b": "nnd"
       },
       {
         "op": "equal",
@@ -182,58 +224,58 @@
       },
       {
         "op": "replace",
-        "a": "frid von got dem",
-        "b": "fride van gott dan"
+        "a": "frid",
+        "b": "feid"
       },
       {
         "op": "equal",
-        "a": "vatter vnd vnſerm",
-        "b": "vatter vnd unserm"
+        "a": "von",
+        "b": "von"
       },
       {
         "op": "replace",
-        "a": "her ren",
-        "b": "theeren"
+        "a": "got dem vatter",
+        "b": "gatt demn vetteg"
       },
       {
         "op": "equal",
-        "a": "Jeſu Chriſto Amen",
-        "b": "Jesu christo Amen"
+        "a": "vnd",
+        "b": "vnd"
       },
       {
         "op": "replace",
-        "a": "Vß erwelten",
-        "b": "Vserwelten"
+        "a": "vnſerm her ren Jeſu Chriſto Amen Vß erwelten Gottes fründ nach dem min brüder Berchtold",
+        "b": "vnsaem herren Jsu christi mon Chriwlten s f d n dr cd"
       },
       {
         "op": "equal",
-        "a": "Gottes fründ nach dem min brüder Berchtold in der erſten vnſer",
-        "b": "gottes frund Nach dem min bruder Berchtold In der Ersten unser"
+        "a": "in",
+        "b": "In"
       },
       {
-        "op": "replace",
-        "a": "ſchlußred gnůgſamklich erlütret hatt",
-        "b": "Schlus reden gnugsamtlich erlutrot het"
-      },
-      {
-        "op": "equal",
-        "a": "was da",
-        "b": "was da"
-      },
-      {
-        "op": "replace",
-        "a": "ſye",
-        "b": "sije"
+        "op": "insert",
+        "a": "",
+        "b": "dee Eisten vnser Schlußreden gnugsunklich erlutrot het wie da Sie"
       },
       {
         "op": "equal",
-        "a": "die Chriſtenlich",
-        "b": "die Christenlich"
+        "a": "der",
+        "b": "der"
+      },
+      {
+        "op": "delete",
+        "a": "erſten vnſer ſchlußred gnůgſamklich erlütret hatt was da ſye die",
+        "b": ""
+      },
+      {
+        "op": "equal",
+        "a": "Chriſtenlich",
+        "b": "Christenlich"
       },
       {
         "op": "replace",
         "a": "meind",
-        "b": "gemeind"
+        "b": "Jrureid"
       },
       {
         "op": "equal",
@@ -243,47 +285,77 @@
       {
         "op": "replace",
         "a": "eynig houpt ſye",
-        "b": "einig hopt sije"
+        "b": "einig hapt er"
       },
       {
         "op": "equal",
-        "a": "Chriſtus Jeſus nach lut des",
-        "b": "Christus Jesus Nach lut des"
+        "a": "Chriſtus",
+        "b": "Christus"
+      },
+      {
+        "op": "replace",
+        "a": "Jeſus",
+        "b": "Jrsus"
+      },
+      {
+        "op": "equal",
+        "a": "nach",
+        "b": "Nach"
+      },
+      {
+        "op": "replace",
+        "a": "lut",
+        "b": "lit"
+      },
+      {
+        "op": "equal",
+        "a": "des",
+        "b": "des"
       },
       {
         "op": "replace",
         "a": "andern Artickels",
-        "b": "andren Ortickels"
+        "b": "andren Crtichle"
       },
       {
         "op": "equal",
         "a": "vnſers vralten",
-        "b": "unsers vralten"
+        "b": "vnsers vralten"
       },
       {
         "op": "replace",
         "a": "Criſtenlichen glou bens",
-        "b": "kisten lichen glaubens"
+        "b": "Eristen lichen glaubens"
       },
       {
         "op": "equal",
-        "a": "der alſo lutet",
-        "b": "der also lutet"
+        "a": "der",
+        "b": "der"
       },
       {
         "op": "replace",
-        "a": "Jch",
-        "b": "Ich"
+        "a": "alſo lutet Jch",
+        "b": "ibe lutrt Ich"
       },
       {
         "op": "equal",
-        "a": "gloub in Jeſum",
-        "b": "gloub In Jesum"
+        "a": "gloub in Jeſum ſinen",
+        "b": "gloub In Jesum Sinen"
       },
       {
         "op": "replace",
-        "a": "ſinen eingebornē ſun",
-        "b": "snien en gebornen Enn"
+        "a": "eingebornē",
+        "b": "einigebernen"
+      },
+      {
+        "op": "equal",
+        "a": "ſun",
+        "b": "Sun"
+      },
+      {
+        "op": "insert",
+        "a": "",
+        "b": "vnsorn herren mercet moncllich vnseen hairren vnser hopt"
       },
       {
         "op": "equal",
@@ -293,7 +365,7 @@
       {
         "op": "replace",
         "a": "herrn merckē Menceſchlich",
-        "b": "herren merckt mencklich onsern herren vnser hopt"
+        "b": "hei lind"
       },
       {
         "op": "equal",
@@ -303,17 +375,7 @@
       {
         "op": "replace",
         "a": "herrn vns ſer houpt",
-        "b": "hei land"
-      },
-      {
-        "op": "equal",
-        "a": "vnſern",
-        "b": "unsern"
-      },
-      {
-        "op": "replace",
-        "a": "heyland",
-        "b": "libendigt macher"
+        "b": "libendigmacher"
       },
       {
         "op": "equal",
@@ -322,11 +384,11 @@
       },
       {
         "op": "replace",
-        "a": "låbendig macher vn",
-        "b": "enthalten Vnsern einigen Bischof vnd termeister Een vnd de hemen meren wijder In himel noch vff ertrich bekennen wir In diserm bliben wier dehenis an dren Item horen wir wie dann diser Artickel gnijgsamblich mitt gwaltiger geschrifft er lictrot Ist und gangh ungezwiflot bij den enn"
+        "a": "heyland vnſern låbendig macher vn",
+        "b": "anthilter wasern rugeu vithef vnd kermwister den vndd dcheinen andem wider Jn humel nach iff ertrich abennen wir En diserm bliben wir dehenns an dren Stim heiren wir wie dann diser otichel nigsamflich mitt gmatiger geschrifft er litit ist ond ganz ungezwiflet bj denenn"
       }
     ],
-    "ops": 25,
+    "ops": 30,
     "truncated": false
   }
 }

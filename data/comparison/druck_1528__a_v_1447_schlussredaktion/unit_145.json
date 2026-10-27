@@ -8,7 +8,7 @@
       265
     ]
   },
-  "alignment_score": 0.1023,
+  "alignment_score": 0.1469,
   "coarse": {
     "paragraphs": {
       "a": 4,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 11,
-    "matched": 1,
-    "only_a": 8,
-    "only_b": 2,
-    "similarity": 0.4167,
+    "units": 13,
+    "matched": 2,
+    "only_a": 7,
+    "only_b": 4,
+    "similarity": 0.5333,
     "pairs": [
       {
         "op": "only_a",
@@ -36,10 +36,16 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
-        "a": "zun Hebreern am iij. v. vnd vi. Capitel. Sannanhin der spruch vß Luca/ ist Sůch hieuor\nvor dryen tagen verantwurtet/",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "Such bierer am\nLiiij valt/ Criss vnnd Dron bed sud gfuͦ ein\nfigur des eingen Christi / zun hebrchern\nam iij /",
         "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "zun Hebreern am iij. v. vnd vi. Capitel. Sannanhin der spruch vß Luca/ ist Sůch hieuor\nvor dryen tagen verantwurtet/",
+        "b": "v / vnd vj cap: Danachin\nder pruh vss na ist vor dien\ntagen verantwurtet ich lasß mich an die\naca /",
+        "similarity": 0.4
       },
       {
         "op": "only_a",
@@ -68,20 +74,26 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "Ouch gieuor am\nxiiij blaet\nVyffs vnnd Jaren boid sind g sin ein\nfuhrn des einigen Christi, zum Hebrehern\nam iii, v vnd vi cap:",
+        "b": "iilg Nuͤrer\nix ist noch nit genig besteeichen vid\nwill Dach lai beliben / Ich befilch nin\ntheill der gschrifft /",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "Danachin\nDer spruch voorss. Luta ist vor Dryen\ntafen verantwurtet, ich lassz much an die\nacta\nBlig Murer\nWix ist noch int gunst bestehecken vnd\nWills Darby lan belieben Ich besilck min\ntheill der versteurifft\nMeister Jacob Edlbach\nAlß Her Durchroed In der antwort\nMeister Niclus von Zoffingen geredt hett\nChristum nemen ein Ingelibet howpt der\nWelches\nKilchen sie ein Jnthum\nich min ouch gereet hab Dorumb 55\nmir zu verantwurten stat Opreich ick\nChristum, ein Ingelebt houpt sin, ist kein\nJrthum Go es mit voorss.",
+        "b": "Master Jme Dalus\nllß her Bercheld In der antwurt\nMenster Sulus von zoffugen geredt hett// Christum nemen ein Ingelibet houpt den\nwelches\nkilchen sie ein Irthum\nich nut ouch geredt hab /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "Dorumb es\nmir zuͦverantwurten stat / Bprich ich\nChristun ein Jugellt houpt sun ist kein\nIrtum / o es ni asß has vsßglat\nwirtt /",
         "similarity": 0.0
       },
       {
         "op": "match",
         "a": "darumb\nnenn ich jnn/ vnser yngelybet houpt/ das er jm selbs die\nKilchen yngelybet hat/ vnnd nit die Kilch ir jnn/",
-        "b": "hasss vss. geleit\nwirtt / somder Christenlick Darumb neuw\nsich Innsvnser ingelibet houpt, das\ner Im selbst die kilchen Jugelibot hett\nvnnd mit die kirck Ir Innen Damen",
-        "similarity": 0.4167
+        "b": "sonnder Christenlich / Darumb nem\nich In vnser Jngelilet houpt / Dis\ner Im selbs / die kilchen Ingelibot hett\nvnnd nit die kilch Ir Inn danen",
+        "similarity": 0.6667
       },
       {
         "op": "only_a",
@@ -98,7 +110,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.3413,
+    "similarity": 0.3772,
     "words": {
       "a": 196,
       "b": 138
@@ -106,53 +118,33 @@
     "segments": [
       {
         "op": "replace",
-        "a": "Schlußred LXX Herren so er hat gesprochen Bestätige dine brüder Berchtoldus Myses vnd Aaron beid",
-        "b": "Ouch gieuor am xiiij blaet Vyffs vnnd Jaren boid"
+        "a": "Schlußred LXX Herren so er hat gesprochen Bestätige dine brüder Berchtoldus Myses vnd Aaron beid sind gsin",
+        "b": "Such bierer am Liiij valt Criss vnnd Dron bed sud gfu"
       },
       {
         "op": "equal",
-        "a": "sind",
-        "b": "sind"
-      },
-      {
-        "op": "replace",
-        "a": "gsin",
-        "b": "g sin"
-      },
-      {
-        "op": "equal",
-        "a": "ein",
-        "b": "ein"
-      },
-      {
-        "op": "replace",
-        "a": "figur",
-        "b": "fuhrn"
-      },
-      {
-        "op": "equal",
-        "a": "des",
-        "b": "des"
+        "a": "ein figur des",
+        "b": "ein figur des"
       },
       {
         "op": "replace",
         "a": "ey nigen",
-        "b": "einigen"
+        "b": "eingen"
       },
       {
         "op": "equal",
-        "a": "Christi",
-        "b": "Christi"
+        "a": "Christi zun",
+        "b": "Christi zun"
       },
       {
         "op": "replace",
-        "a": "zun Hebreern",
-        "b": "zum Hebrehern"
+        "a": "Hebreern",
+        "b": "hebrchern"
       },
       {
         "op": "equal",
         "a": "am iij v vnd vi",
-        "b": "am iii v vnd vi"
+        "b": "am iij v vnd vj"
       },
       {
         "op": "replace",
@@ -161,13 +153,13 @@
       },
       {
         "op": "equal",
-        "a": "der spruch",
-        "b": "Der spruch"
+        "a": "der",
+        "b": "der"
       },
       {
         "op": "replace",
-        "a": "vß Luca",
-        "b": "voorss Luta"
+        "a": "spruch vß Luca",
+        "b": "pruh vss na"
       },
       {
         "op": "equal",
@@ -181,28 +173,28 @@
       },
       {
         "op": "equal",
-        "a": "vor dryen",
-        "b": "vor Dryen"
+        "a": "vor",
+        "b": "vor"
       },
       {
         "op": "replace",
-        "a": "tagen",
-        "b": "tafen"
+        "a": "dryen",
+        "b": "dien"
       },
       {
         "op": "equal",
-        "a": "verantwurtet ich",
-        "b": "verantwurtet ich"
+        "a": "tagen verantwurtet ich",
+        "b": "tagen verantwurtet ich"
       },
       {
         "op": "replace",
-        "a": "laß mich",
-        "b": "lassz much"
+        "a": "laß",
+        "b": "lasß"
       },
       {
         "op": "equal",
-        "a": "an",
-        "b": "an"
+        "a": "mich an",
+        "b": "mich an"
       },
       {
         "op": "delete",
@@ -211,13 +203,13 @@
       },
       {
         "op": "equal",
-        "a": "die Acta",
-        "b": "die acta"
+        "a": "die",
+        "b": "die"
       },
       {
         "op": "replace",
-        "a": "Gilg Durer MIr",
-        "b": "Blig Murer Wix"
+        "a": "Acta Gilg Durer MIr",
+        "b": "aca iilg Nu rer ix"
       },
       {
         "op": "equal",
@@ -226,38 +218,18 @@
       },
       {
         "op": "replace",
-        "a": "nitt gnůg beschehen vnnd wils",
-        "b": "int gunst bestehecken vnd Wills"
+        "a": "nitt gnůg beschehen vnnd wils darby lassen blyben",
+        "b": "nit genig besteeichen vid will Dach lai beliben"
       },
       {
         "op": "equal",
-        "a": "darby",
-        "b": "Darby"
+        "a": "ich befilch",
+        "b": "Ich befilch"
       },
       {
         "op": "replace",
-        "a": "lassen blyben",
-        "b": "lan belieben"
-      },
-      {
-        "op": "equal",
-        "a": "ich",
-        "b": "Ich"
-      },
-      {
-        "op": "replace",
-        "a": "befilch",
-        "b": "besilck"
-      },
-      {
-        "op": "equal",
-        "a": "min",
-        "b": "min"
-      },
-      {
-        "op": "replace",
-        "a": "teyl",
-        "b": "theill"
+        "a": "min teyl",
+        "b": "nin theill"
       },
       {
         "op": "equal",
@@ -266,28 +238,18 @@
       },
       {
         "op": "replace",
-        "a": "geschrifft",
-        "b": "versteurifft"
+        "a": "geschrifft Meister Jacob Edlibach Also Herr Berchtold",
+        "b": "gschrifft Master Jme Dalus llß her Bercheld"
       },
       {
         "op": "equal",
-        "a": "Meister Jacob",
-        "b": "Meister Jacob"
+        "a": "in der antwurt",
+        "b": "In der antwurt"
       },
       {
         "op": "replace",
-        "a": "Edlibach Also Herr Berchtold",
-        "b": "Edlbach Alß Her Durchroed"
-      },
-      {
-        "op": "equal",
-        "a": "in der",
-        "b": "In der"
-      },
-      {
-        "op": "replace",
-        "a": "antwurt Meyster Niclaus",
-        "b": "antwort Meister Niclus"
+        "a": "Meyster Niclaus",
+        "b": "Menster Sulus"
       },
       {
         "op": "equal",
@@ -297,7 +259,7 @@
       {
         "op": "replace",
         "a": "Zofingenn",
-        "b": "Zoffingen"
+        "b": "zoffugen"
       },
       {
         "op": "equal",
@@ -326,28 +288,28 @@
       },
       {
         "op": "replace",
-        "a": "yngelybet houpt",
-        "b": "Ingelibet howpt"
+        "a": "yngelybet",
+        "b": "Ingelibet"
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "der"
+        "a": "houpt",
+        "b": "houpt"
       },
       {
-        "op": "insert",
-        "a": "",
-        "b": "Welches"
+        "op": "replace",
+        "a": "der",
+        "b": "den welches"
       },
       {
         "op": "equal",
         "a": "Kilchen",
-        "b": "Kilchen"
+        "b": "kilchen"
       },
       {
         "op": "replace",
         "a": "sye eyn yrthumb welches",
-        "b": "sie ein Jnthum"
+        "b": "sie ein Irthum"
       },
       {
         "op": "equal",
@@ -357,37 +319,37 @@
       {
         "op": "replace",
         "a": "nun",
-        "b": "min"
+        "b": "nut"
       },
       {
         "op": "equal",
-        "a": "ouch",
-        "b": "ouch"
+        "a": "ouch geredt hab",
+        "b": "ouch geredt hab"
       },
       {
         "op": "replace",
-        "a": "geredt",
-        "b": "gereet"
+        "a": "dar umb",
+        "b": "Dorumb"
       },
       {
         "op": "equal",
-        "a": "hab",
-        "b": "hab"
+        "a": "es mir zů verantwurten",
+        "b": "es mir zu verantwurten"
       },
       {
         "op": "replace",
-        "a": "dar umb es",
-        "b": "Dorumb 55"
+        "a": "stadt Sprich",
+        "b": "stat Bprich"
       },
       {
         "op": "equal",
-        "a": "mir zů verantwurten",
-        "b": "mir zu verantwurten"
+        "a": "ich",
+        "b": "ich"
       },
       {
         "op": "replace",
-        "a": "stadt Sprich ich Chri stum",
-        "b": "stat Opreich ick Christum"
+        "a": "Chri stum",
+        "b": "Christun"
       },
       {
         "op": "equal",
@@ -397,17 +359,27 @@
       {
         "op": "replace",
         "a": "yngelybet",
-        "b": "Ingelebt"
+        "b": "Jugellt"
       },
       {
         "op": "equal",
-        "a": "houpt sin ist kein",
-        "b": "houpt sin ist kein"
+        "a": "houpt",
+        "b": "houpt"
+      },
+      {
+        "op": "replace",
+        "a": "sin",
+        "b": "sun"
+      },
+      {
+        "op": "equal",
+        "a": "ist kein",
+        "b": "ist kein"
       },
       {
         "op": "replace",
         "a": "yrthumb so",
-        "b": "Jrthum Go"
+        "b": "Irtum o"
       },
       {
         "op": "equal",
@@ -416,71 +388,71 @@
       },
       {
         "op": "replace",
-        "a": "nit vß halls vßgeleyt wu rdt sonder Christenlich",
-        "b": "mit voorss hasss vss geleit wirtt somder Christenlick"
+        "a": "nit vß halls vßgeleyt wu rdt sonder",
+        "b": "ni asß has vsßglat wirtt sonnder"
       },
       {
         "op": "equal",
-        "a": "darumb",
-        "b": "Darumb"
+        "a": "Christenlich darumb",
+        "b": "Christenlich Darumb"
       },
       {
         "op": "replace",
-        "a": "nenn ich jnn vnser yngelybet",
-        "b": "neuw sich Innsvnser ingelibet"
+        "a": "nenn",
+        "b": "nem"
       },
       {
         "op": "equal",
-        "a": "houpt das er jm",
-        "b": "houpt das er Im"
+        "a": "ich",
+        "b": "ich"
       },
       {
         "op": "replace",
-        "a": "selbs",
-        "b": "selbst"
+        "a": "jnn",
+        "b": "In"
       },
       {
         "op": "equal",
-        "a": "die Kilchen",
-        "b": "die kilchen"
+        "a": "vnser",
+        "b": "vnser"
+      },
+      {
+        "op": "replace",
+        "a": "yngelybet",
+        "b": "Jngelilet"
+      },
+      {
+        "op": "equal",
+        "a": "houpt",
+        "b": "houpt"
+      },
+      {
+        "op": "replace",
+        "a": "das",
+        "b": "Dis"
+      },
+      {
+        "op": "equal",
+        "a": "er jm selbs die Kilchen",
+        "b": "er Im selbs die kilchen"
       },
       {
         "op": "replace",
         "a": "yngelybet hat",
-        "b": "Jugelibot hett"
+        "b": "Ingelibot hett"
       },
       {
         "op": "equal",
-        "a": "vnnd",
-        "b": "vnnd"
+        "a": "vnnd nit die Kilch ir jnn",
+        "b": "vnnd nit die kilch Ir Inn"
       },
       {
         "op": "replace",
-        "a": "nit",
-        "b": "mit"
-      },
-      {
-        "op": "equal",
-        "a": "die",
-        "b": "die"
-      },
-      {
-        "op": "replace",
-        "a": "Kilch",
-        "b": "kirck"
-      },
-      {
-        "op": "equal",
-        "a": "ir",
-        "b": "Ir"
-      },
-      {
-        "op": "replace",
-        "a": "jnn dan nen bar ich jnn noch erkenn ein yngelybet houpt sin der Kilchen von welichem houpt der Kilchenn fliessend gnad wyßheyt erlösung vnnd alle volkommenheyt vnnd gůtt Also nennen ich den Bapst nitt eyn houpt sonder ein fu rgesetzt houpt der Kilchenn dem S ij",
-        "b": "Innen Damen"
+        "a": "dan nen bar ich jnn noch erkenn ein yngelybet houpt sin der Kilchen von welichem houpt der Kilchenn fliessend gnad wyßheyt erlösung vnnd alle volkommenheyt vnnd gůtt Also nennen ich den Bapst nitt eyn houpt sonder ein fu rgesetzt houpt der Kilchenn dem S ij",
+        "b": "danen"
       }
     ],
-    "ops": 38,
+    "ops": 34,
     "truncated": false
   }
 }

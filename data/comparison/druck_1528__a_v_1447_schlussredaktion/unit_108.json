@@ -8,7 +8,7 @@
       200
     ]
   },
-  "alignment_score": 0.1535,
+  "alignment_score": 0.1005,
   "coarse": {
     "paragraphs": {
       "a": 5,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 10,
-    "matched": 4,
-    "only_a": 6,
-    "only_b": 0,
-    "similarity": 0.3655,
+    "units": 13,
+    "matched": 1,
+    "only_a": 9,
+    "only_b": 3,
+    "similarity": 0.4545,
     "pairs": [
       {
         "op": "only_a",
@@ -48,22 +48,22 @@
         "similarity": 0.0
       },
       {
-        "op": "match",
+        "op": "only_a",
         "a": "meyn\nich ſöllichs werde ſich nitt erfinden/ by den Acten/ ſo ich\nGott erkenn mynen erlöſer/ vnnd der welt/ als all from\nChriſten ſöllen thůn/",
-        "b": "warin\nein kein\nmoi\nDie erst Ahluß red\n79\nDarnach ein grosse geschrijv vnnd pomp alls\nob ick smer meynung zugefallen waare\nMein ick sollichs werde sich int erfinden,\nby den acten, So ick pot erkenn minen\nErlösen vnnde der wellen Alsz all from\nChristen sollten thun/",
-        "similarity": 0.3889
+        "b": null,
+        "similarity": 0.0
       },
       {
-        "op": "match",
+        "op": "only_a",
         "a": "ſöllichs hab ich gethon vnd gelert/ ee vnd ich meyſter Vlrich Zwingli ye erkent hab/ dar=\nby nūt deeſter minder ein geyſtlicher gewalt/",
-        "b": "sollichs hab ick ge¬\nthan vnd gelert, Es, vnd ick meister Vlrich\nzwingkly me erkent, hab. Darby middester¬\nminder ein geistlicher gevollt, nachgelassen\noff erde, wie ich dan das clarlich/",
-        "similarity": 0.3774
+        "b": null,
+        "similarity": 0.0
       },
       {
-        "op": "match",
+        "op": "only_a",
         "a": "nachgelas=\nſen vff erd/ wie ich dann das klarlich anzeygt hab/ mitt\ngötlicher geſchrifft/ ſoll ſich erfinden by den Notarien/",
-        "b": "an¬\nzeigt hab, mit götlicher gschrifft, soll sich\nerfinden by den notarien vnd protestier\nmuch hie vor einer gantzen ersamen ge¬\nmeine.",
-        "similarity": 0.381
+        "b": null,
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -78,10 +78,28 @@
         "similarity": 0.0
       },
       {
+        "op": "only_b",
+        "a": null,
+        "b": "darer\npfr\nnet\nDie eist soliß rd\n10\nDinoch ein gusß geschis / vnd pamg alls\nob nn sine nn wane\non ne wd sin in enfuden\nb en n en do n vet erbamn mnen\nerlaser vnd der wel asall from\nChristen soͤbben thin /",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "salichs galich ge// t er ch\nn\nminder ein geistlicher gwvollt / nchgelassen / dn en\nzet e gotlicher gschrifft / sall c\nerfnden be den notrnn vnd prenseil\nmuch hie vor einer gantzen ersanmen ge ///",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "meind Das ich meister vͤlrichs zwinglic\nee nden noca siner leer nit angecg / och\nsin will / Sonders dy enngkat christenlicher\nkilchen vnnd lolichen haͤrkomen /",
+        "similarity": 0.0
+      },
+      {
         "op": "match",
         "a": "darby zü ſterben. **Zwingli.**\n\nRomen Chriſten dz ſich der pfarrer bezügt wie\ner nit mins gloubens ſye/ vñ hat aber daby ge=\nſter offentlich veriechen/",
-        "b": "Das ick meister vlrichs zwingli¬\nglauben noch smer leer, int anchengen, noch\nsin will / Sommers by einigket christen licher\nkilchen vnnd loblichem hankomen, beliebenn\nvnnd ob es die noot ervordern\nWill\nwurde Darby zu sterben\nVingh\nromen Christen Das sich der pfarren\nbezuft wie er int mins glaubens sie vnd\nhat aber dabey gester offentlich vergechen, er\nerkenne get. den hern Jesum Christum sinen",
-        "similarity": 0.3146
+        "b": "belibenn\nvnnd ol es die nedt eriondern / will\nwnd dachi zuͦstelben / Wingli\nromen Christen Das sich der pfaren\nbezugt wie er nit mins gloubens sie vnd\nhat aber Daby gester offenlich verJechen / er\nerkenne gat den hern Jesum Christum sinen",
+        "similarity": 0.4545
       },
       {
         "op": "only_a",
@@ -92,86 +110,36 @@
     ]
   },
   "fine": {
-    "similarity": 0.3919,
+    "similarity": 0.24,
     "words": {
       "a": 230,
-      "b": 163
+      "b": 145
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Schlußred Am eindlifften tag Jenners Pfarrer I N dinem namē herr Jeſu Chriſte Amen From men Chriſten als ich hab meiſter Vlrich Zwing ly gefraget mit ſinem byſpil vnnd exempel des fenſters halb von den zweyen liechtern ſo hat er geant wurt er hab das nit anzogen das er daruß vff das göt lich wort gründen welle",
-        "b": "warin ein kein moi Die erst Ahluß red 79"
+        "a": "Schlußred Am eindlifften tag Jenners Pfarrer I",
+        "b": "darer pfr net Die eist soliß rd 10 Dinoch ein gusß geschis vnd pamg alls ob nn sine nn wane on ne wd sin in enfuden b en"
       },
       {
         "op": "equal",
-        "a": "darnach ein",
-        "b": "Darnach ein"
+        "a": "N",
+        "b": "n"
       },
       {
         "op": "replace",
-        "a": "groß geſchrey vnd",
-        "b": "grosse geschrijv vnnd"
+        "a": "dinem namē herr Jeſu Chriſte Amen From men Chriſten als ich hab meiſter Vlrich Zwing ly gefraget mit ſinem byſpil vnnd exempel des fenſters halb von den zweyen liechtern ſo hat er geant wurt er hab das nit anzogen das er daruß vff das göt lich wort gründen welle darnach ein groß geſchrey",
+        "b": "en do n vet erbamn mnen erlaser"
       },
       {
         "op": "equal",
-        "a": "pomp",
-        "b": "pomp"
+        "a": "vnd",
+        "b": "vnd"
       },
       {
-        "op": "replace",
-        "a": "als",
-        "b": "alls"
-      },
-      {
-        "op": "equal",
-        "a": "ob",
-        "b": "ob"
-      },
-      {
-        "op": "replace",
-        "a": "ich ſiner",
-        "b": "ick smer"
-      },
-      {
-        "op": "equal",
-        "a": "meynung zügefallen",
-        "b": "meynung zugefallen"
-      },
-      {
-        "op": "replace",
-        "a": "wåre meyn ich",
-        "b": "waare Mein ick"
-      },
-      {
-        "op": "equal",
-        "a": "ſöllichs werde ſich",
-        "b": "sollichs werde sich"
-      },
-      {
-        "op": "replace",
-        "a": "nitt",
-        "b": "int"
-      },
-      {
-        "op": "equal",
-        "a": "erfinden by den Acten ſo",
-        "b": "erfinden by den acten So"
-      },
-      {
-        "op": "replace",
-        "a": "ich Gott",
-        "b": "ick pot"
-      },
-      {
-        "op": "equal",
-        "a": "erkenn",
-        "b": "erkenn"
-      },
-      {
-        "op": "replace",
-        "a": "mynen erlöſer vnnd",
-        "b": "minen Erlösen vnnde"
+        "op": "delete",
+        "a": "pomp als ob ich ſiner meynung zügefallen wåre meyn ich ſöllichs werde ſich nitt erfinden by den Acten ſo ich Gott erkenn mynen erlöſer vnnd",
+        "b": ""
       },
       {
         "op": "equal",
@@ -180,68 +148,18 @@
       },
       {
         "op": "replace",
-        "a": "welt als",
-        "b": "wellen Alsz"
+        "a": "welt als all",
+        "b": "wel asall"
       },
       {
         "op": "equal",
-        "a": "all from Chriſten",
-        "b": "all from Christen"
+        "a": "from Chriſten",
+        "b": "from Christen"
       },
       {
         "op": "replace",
-        "a": "ſöllen",
-        "b": "sollten"
-      },
-      {
-        "op": "equal",
-        "a": "thůn ſöllichs hab",
-        "b": "thun sollichs hab"
-      },
-      {
-        "op": "replace",
-        "a": "ich gethon",
-        "b": "ick ge than"
-      },
-      {
-        "op": "equal",
-        "a": "vnd gelert",
-        "b": "vnd gelert"
-      },
-      {
-        "op": "replace",
-        "a": "ee",
-        "b": "Es"
-      },
-      {
-        "op": "equal",
-        "a": "vnd",
-        "b": "vnd"
-      },
-      {
-        "op": "replace",
-        "a": "ich meyſter",
-        "b": "ick meister"
-      },
-      {
-        "op": "equal",
-        "a": "Vlrich",
-        "b": "Vlrich"
-      },
-      {
-        "op": "replace",
-        "a": "Zwingli ye",
-        "b": "zwingkly me"
-      },
-      {
-        "op": "equal",
-        "a": "erkent hab",
-        "b": "erkent hab"
-      },
-      {
-        "op": "replace",
-        "a": "dar by nūt deeſter",
-        "b": "Darby middester"
+        "a": "ſöllen thůn ſöllichs hab ich gethon vnd gelert ee vnd ich meyſter Vlrich Zwingli ye erkent hab dar by nūt deeſter",
+        "b": "so bben thin salichs galich ge t er ch n"
       },
       {
         "op": "equal",
@@ -250,68 +168,28 @@
       },
       {
         "op": "replace",
-        "a": "geyſtlicher gewalt nachgelas ſen vff erd",
-        "b": "geistlicher gevollt nachgelassen off erde"
-      },
-      {
-        "op": "equal",
-        "a": "wie ich",
-        "b": "wie ich"
-      },
-      {
-        "op": "replace",
-        "a": "dann",
-        "b": "dan"
-      },
-      {
-        "op": "equal",
-        "a": "das",
-        "b": "das"
-      },
-      {
-        "op": "replace",
-        "a": "klarlich anzeygt",
-        "b": "clarlich an zeigt"
-      },
-      {
-        "op": "equal",
-        "a": "hab",
-        "b": "hab"
-      },
-      {
-        "op": "replace",
-        "a": "mitt",
-        "b": "mit"
+        "a": "geyſtlicher gewalt nachgelas ſen vff erd wie ich dann das klarlich anzeygt hab mitt",
+        "b": "geistlicher gwvollt nchgelassen dn en zet e"
       },
       {
         "op": "equal",
         "a": "götlicher",
-        "b": "götlicher"
+        "b": "gotlicher"
       },
       {
         "op": "replace",
-        "a": "geſchrifft",
-        "b": "gschrifft"
+        "a": "geſchrifft ſoll ſich erfinden by",
+        "b": "gschrifft sall c erfnden be"
       },
       {
         "op": "equal",
-        "a": "ſoll ſich erfinden by den Notarien",
-        "b": "soll sich erfinden by den notarien"
+        "a": "den",
+        "b": "den"
       },
       {
         "op": "replace",
-        "a": "vnnd",
-        "b": "vnd"
-      },
-      {
-        "op": "equal",
-        "a": "Proteſtier",
-        "b": "protestier"
-      },
-      {
-        "op": "replace",
-        "a": "mich",
-        "b": "much"
+        "a": "Notarien vnnd Proteſtier mich",
+        "b": "notrnn vnd prenseil much"
       },
       {
         "op": "equal",
@@ -320,108 +198,78 @@
       },
       {
         "op": "replace",
-        "a": "ganzen",
-        "b": "gantzen"
+        "a": "ganzen erſamen",
+        "b": "gantzen ersanmen"
       },
       {
         "op": "equal",
-        "a": "erſamen ge",
-        "b": "ersamen ge"
+        "a": "ge meind das ich",
+        "b": "ge meind Das ich"
       },
       {
         "op": "replace",
-        "a": "meind",
-        "b": "meine"
+        "a": "meyſter Vlrichs Zwingli glouben noch",
+        "b": "meister v lrichs zwinglic ee nden noca"
       },
       {
         "op": "equal",
-        "a": "das",
-        "b": "Das"
+        "a": "ſiner leer nit",
+        "b": "siner leer nit"
       },
       {
         "op": "replace",
-        "a": "ich meyſter Vlrichs",
-        "b": "ick meister vlrichs"
+        "a": "anhengig noch",
+        "b": "angecg och"
       },
       {
         "op": "equal",
-        "a": "Zwingli",
-        "b": "zwingli"
+        "a": "ſin",
+        "b": "sin"
       },
       {
         "op": "replace",
-        "a": "glouben",
-        "b": "glauben"
+        "a": "wil",
+        "b": "will"
       },
       {
         "op": "equal",
-        "a": "noch",
-        "b": "noch"
+        "a": "ſonders",
+        "b": "Sonders"
       },
       {
         "op": "replace",
-        "a": "ſiner",
-        "b": "smer"
+        "a": "by eynigkeit",
+        "b": "dy enngkat"
       },
       {
         "op": "equal",
-        "a": "leer",
-        "b": "leer"
+        "a": "Chriſtenlicher Kilchen",
+        "b": "christenlicher kilchen"
       },
       {
         "op": "replace",
-        "a": "nit anhengig",
-        "b": "int anchengen"
+        "a": "vnd löblichen harkomen belibē wil vñ ob",
+        "b": "vnnd lolichen ha rkomen belibenn vnnd ol"
       },
       {
         "op": "equal",
-        "a": "noch ſin",
-        "b": "noch sin"
+        "a": "es die",
+        "b": "es die"
       },
       {
         "op": "replace",
-        "a": "wil ſonders",
-        "b": "will Sommers"
+        "a": "not eruorderen wurd darby",
+        "b": "nedt eriondern will wnd dachi"
       },
       {
         "op": "equal",
-        "a": "by",
-        "b": "by"
+        "a": "zü",
+        "b": "zu"
       },
       {
         "op": "replace",
-        "a": "eynigkeit Chriſtenlicher",
-        "b": "einigket christen licher"
-      },
-      {
-        "op": "equal",
-        "a": "Kilchen",
-        "b": "kilchen"
-      },
-      {
-        "op": "replace",
-        "a": "vnd löblichen harkomen belibē wil vñ",
-        "b": "vnnd loblichem hankomen beliebenn vnnd"
-      },
-      {
-        "op": "equal",
-        "a": "ob es die",
-        "b": "ob es die"
-      },
-      {
-        "op": "replace",
-        "a": "not eruorderen wurd",
-        "b": "noot ervordern Will wurde"
-      },
-      {
-        "op": "equal",
-        "a": "darby zü ſterben",
-        "b": "Darby zu sterben"
-      },
-      {
-        "op": "replace",
-        "a": "Zwingli",
-        "b": "Vingh"
+        "a": "ſterben Zwingli",
+        "b": "stelben Wingli"
       },
       {
         "op": "equal",
@@ -440,48 +288,28 @@
       },
       {
         "op": "replace",
-        "a": "pfarrer bezügt",
-        "b": "pfarren bezuft"
+        "a": "pfarrer",
+        "b": "pfaren"
       },
       {
         "op": "equal",
-        "a": "wie er",
-        "b": "wie er"
+        "a": "bezügt wie er nit mins gloubens",
+        "b": "bezugt wie er nit mins gloubens"
       },
       {
         "op": "replace",
-        "a": "nit",
-        "b": "int"
+        "a": "ſye",
+        "b": "sie"
       },
       {
         "op": "equal",
-        "a": "mins",
-        "b": "mins"
+        "a": "vñ hat aber daby",
+        "b": "vnd hat aber Daby"
       },
       {
         "op": "replace",
-        "a": "gloubens ſye",
-        "b": "glaubens sie"
-      },
-      {
-        "op": "equal",
-        "a": "vñ hat aber",
-        "b": "vnd hat aber"
-      },
-      {
-        "op": "replace",
-        "a": "daby ge ſter",
-        "b": "dabey gester"
-      },
-      {
-        "op": "equal",
-        "a": "offentlich",
-        "b": "offentlich"
-      },
-      {
-        "op": "replace",
-        "a": "veriechen",
-        "b": "vergechen"
+        "a": "ge ſter offentlich veriechen",
+        "b": "gester offenlich verJechen"
       },
       {
         "op": "equal",
@@ -491,7 +319,7 @@
       {
         "op": "replace",
         "a": "gott",
-        "b": "get"
+        "b": "gat"
       },
       {
         "op": "equal",
@@ -514,7 +342,7 @@
         "b": "sinen"
       }
     ],
-    "ops": 42,
+    "ops": 23,
     "truncated": false
   }
 }

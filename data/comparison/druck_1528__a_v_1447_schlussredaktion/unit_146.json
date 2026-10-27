@@ -8,7 +8,7 @@
       266
     ]
   },
-  "alignment_score": 0.1754,
+  "alignment_score": 0.1212,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,17 +23,29 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 12,
-    "matched": 0,
-    "only_a": 10,
-    "only_b": 2,
-    "similarity": 0.0,
+    "units": 13,
+    "matched": 4,
+    "only_a": 6,
+    "only_b": 3,
+    "similarity": 0.4241,
     "pairs": [
       {
-        "op": "only_a",
-        "a": "Die erſt\nBeuolchen iſt das ampt fürnemlich zehandlen/ wie Petro\nfürnemlich Beuolchen ſind die ſchlüſſel/ ouch jm die ſchäff\nly in ſonderheit empfolhen hat für ander zeweyden/",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "4\n1oh\ndie erst schlißrad\nhar ich Ing noch erkein / ein zugelilet honet\nsin der kilchenn / von wellichem houpt / von 9\nwellichen heut der kilchen /",
         "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "fliessend / gnad / bßhet erlistng vnnd ale volkemenhent / vnnd guͦt / Allso nemen / ich den Bapst schoupt\nnit ein houpt sonder ein fuͤrges kil hen\nder klchen /",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "Die erſt\nBeuolchen iſt das ampt fürnemlich zehandlen/ wie Petro\nfürnemlich Beuolchen ſind die ſchlüſſel/ ouch jm die ſchäff\nly in ſonderheit empfolhen hat für ander zeweyden/",
+        "b": "dem bevolen ist Das ampt\nfuͤrnemlich Jehandlen / wie petro fuͤrnemlich\nbeuolen sund die schluͤssell / ouch Im die schoffl//",
+        "similarity": 0.375
       },
       {
         "op": "only_a",
@@ -42,22 +54,28 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "only_b",
+        "a": null,
+        "b": "Insoderhait empfelen hett fuir annder zeweden\nwaͤlches noch keiner nit der gschrifft ent / leiet hert Derund klar wud Inwas gestllt/",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
         "a": "höupter der Kilchen genempt\nwerden/ vallt hin die jrrthumb/ da man ſpricht: Jſt Pe\ntrus vnſer houpt/ ſo iſt er ouch vnſer erlöſer vnnd ſälig=\nkeyt.zc.",
-        "b": null,
-        "similarity": 0.0
+        "b": "Christis ouch Inn was gescalt gerus oder\nsin nachkomen / houpter der kilchen geneupt\nwerden / allt hin die Jrthumb Da man\nIst petrus vnnser houpt Sa\nspricht /",
+        "similarity": 0.3396
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "Als geredt iſt von Varti Butzer/ ouch anderen\nſinen brüderen. Er ſpricht ouch/ Wo zween oder dry in\nſinem namen verſamlet ſyend/",
-        "b": null,
-        "similarity": 0.0
+        "b": "ist er ouch vnser erliser vnnd saligkeit /. Allß geredit ist von Marti bucer / ouch\nandern siien beidern / Er spricht outh wo\nzoten oder dij In sinem namen versamlet /",
+        "similarity": 0.44
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "das ſy die Kilch mögend\nhandlen/ nach dem Göttlichen wort/ das ouch die gantz\nKilch antrifft/ das doch nüt iſt:",
-        "b": null,
-        "similarity": 0.0
+        "b": "stend Das sy die kih mogent handlen\nnach dem goͤttlichen wortt / Das ouch die\ngautz kilch antrfft // Das Doch nudt\nist\nwan suͤst paulus vnnd Barutbis",
+        "similarity": 0.5417
       },
       {
         "op": "only_a",
@@ -88,42 +106,30 @@
         "a": "in\nwelches gnad ich mich empfolchen/ vnnd in was geſtalt\ndie Kilch ein fürgeſetzt houpt habe/ der ich mich vnder=\nwürfflich machen/ vnd blyb by dem gemeynen verſtand\nChriſtenlicher Kilchen. Sie",
         "b": null,
         "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "B\n108\nDie erst schlußred\nhar ick Inn nocen erkennen, een Ingeliebet houpt\nsin der klchenn van wellnhem houpt, een 29\nwelichem houpt der kilchen fliessend, vnad\nvyssheitt verlösnus vnnd alle volkomen heitt\nEenige gutt/",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "Allso nemen ich den Bax st. „ somme\nvnt em houpt, sonder ein furgesetzt, als hen\nDer klechen Dem bevolen ist, Das ampt\nfurnemlick zehandlen, wie petro furnemlich\nbenolen sind die schlijssell ouch Im die schaffen\nIn sonder het empfelen hett fur annder gewaden\nWelches noch keiner mit der verstorifft ent¬\nledepot hett, Dormub klar wird In was gestallt\nChristus, ouch Inn was gestallt, petrus oder\nsin nachkomen houpter der kilchen genempt\nwerden, valet hin die Jochumb Da man\nIst petrus vnnser houpt So\nspricht\nist er ouch vnser, erlöser vnnd sulpket ende\nAls geredt ist van agari bucen, encken\nandern sijnen brudern, Er spricht ouch wo\nZeven oder drij In smem namen versambot\nsijnde das sy die kelck mogent handlen\nnach Dom yettschen wortt, Das ouch die\nYanten Kilch antrifft\nDas doch miet\nist\nWann sijt paulus vnnd Barnabis",
-        "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.3427,
+    "similarity": 0.2897,
     "words": {
       "a": 252,
-      "b": 174
+      "b": 176
     },
     "segments": [
       {
         "op": "insert",
         "a": "",
-        "b": "B 108"
+        "b": "4 1oh"
       },
       {
         "op": "equal",
         "a": "Die erſt",
-        "b": "Die erst"
+        "b": "die erst"
       },
       {
         "op": "replace",
         "a": "Beuolchen",
-        "b": "schlußred har ick Inn nocen erkennen een Ingeliebet houpt sin der klchenn van wellnhem houpt een 29 welichem houpt der kilchen fliessend vnad vyssheitt verlösnus vnnd alle volkomen heitt Eenige gutt Allso nemen ich den Bax st somme vnt em houpt sonder ein furgesetzt als hen Der klechen Dem bevolen"
+        "b": "schlißrad har ich Ing noch erkein ein zugelilet honet sin der kilchenn von wellichem houpt von 9 wellichen heut der kilchen fliessend gnad bßhet erlistng vnnd ale volkemenhent vnnd gu t Allso nemen ich den Bapst schoupt nit ein houpt sonder ein fu rges kil hen der klchen dem bevolen"
       },
       {
         "op": "equal",
@@ -132,28 +138,28 @@
       },
       {
         "op": "replace",
-        "a": "fürnemlich",
-        "b": "furnemlick"
+        "a": "fürnemlich zehandlen",
+        "b": "fu rnemlich Jehandlen"
       },
       {
         "op": "equal",
-        "a": "zehandlen wie Petro fürnemlich",
-        "b": "zehandlen wie petro furnemlich"
+        "a": "wie Petro",
+        "b": "wie petro"
       },
       {
         "op": "replace",
-        "a": "Beuolchen",
-        "b": "benolen"
+        "a": "fürnemlich Beuolchen ſind",
+        "b": "fu rnemlich beuolen sund"
       },
       {
         "op": "equal",
-        "a": "ſind die",
-        "b": "sind die"
+        "a": "die",
+        "b": "die"
       },
       {
         "op": "replace",
         "a": "ſchlüſſel",
-        "b": "schlijssell"
+        "b": "schlu ssell"
       },
       {
         "op": "equal",
@@ -162,38 +168,28 @@
       },
       {
         "op": "replace",
-        "a": "ſchäff ly",
-        "b": "schaffen"
+        "a": "ſchäff ly in ſonderheit empfolhen hat für ander zeweyden wel ches",
+        "b": "schoffl Insoderhait empfelen hett fuir annder zeweden wa lches"
       },
       {
         "op": "equal",
-        "a": "in",
-        "b": "In"
+        "a": "noch keiner",
+        "b": "noch keiner"
       },
       {
         "op": "replace",
-        "a": "ſonderheit empfolhen hat",
-        "b": "sonder het empfelen hett"
+        "a": "mit",
+        "b": "nit"
       },
       {
         "op": "equal",
-        "a": "für",
-        "b": "fur"
+        "a": "der gſchrifft",
+        "b": "der gschrifft"
       },
       {
         "op": "replace",
-        "a": "ander zeweyden wel ches",
-        "b": "annder gewaden Welches"
-      },
-      {
-        "op": "equal",
-        "a": "noch keiner mit der",
-        "b": "noch keiner mit der"
-      },
-      {
-        "op": "replace",
-        "a": "gſchrifft entlediget hat darumb",
-        "b": "verstorifft ent ledepot hett Dormub"
+        "a": "entlediget hat darumb",
+        "b": "ent leiet hert Derund"
       },
       {
         "op": "equal",
@@ -202,38 +198,38 @@
       },
       {
         "op": "replace",
-        "a": "wirt",
-        "b": "wird"
+        "a": "wirt in was geſtalt Chriſtus",
+        "b": "wud Inwas gestllt Christis"
       },
       {
         "op": "equal",
-        "a": "in was",
-        "b": "In was"
+        "a": "ouch inn was",
+        "b": "ouch Inn was"
       },
       {
         "op": "replace",
-        "a": "geſtalt",
-        "b": "gestallt"
+        "a": "geſtalt Petrus",
+        "b": "gescalt gerus"
       },
       {
         "op": "equal",
-        "a": "Chriſtus ouch inn was",
-        "b": "Christus ouch Inn was"
+        "a": "oder ſin nachkomen höupter der Kilchen",
+        "b": "oder sin nachkomen houpter der kilchen"
       },
       {
         "op": "replace",
-        "a": "geſtalt",
-        "b": "gestallt"
+        "a": "genempt",
+        "b": "geneupt"
       },
       {
         "op": "equal",
-        "a": "Petrus oder ſin nachkomen höupter der Kilchen genempt werden",
-        "b": "petrus oder sin nachkomen houpter der kilchen genempt werden"
+        "a": "werden",
+        "b": "werden"
       },
       {
         "op": "replace",
         "a": "vallt",
-        "b": "valet"
+        "b": "allt"
       },
       {
         "op": "equal",
@@ -243,7 +239,7 @@
       {
         "op": "replace",
         "a": "jrrthumb",
-        "b": "Jochumb"
+        "b": "Jrthumb"
       },
       {
         "op": "equal",
@@ -251,49 +247,79 @@
         "b": "Da man"
       },
       {
-        "op": "replace",
-        "a": "ſpricht Jſt Pe trus vnſer",
-        "b": "Ist petrus vnnser"
+        "op": "insert",
+        "a": "",
+        "b": "Ist petrus vnnser houpt Sa"
       },
       {
         "op": "equal",
-        "a": "houpt ſo",
-        "b": "houpt So"
-      },
-      {
-        "op": "insert",
-        "a": "",
+        "a": "ſpricht",
         "b": "spricht"
       },
       {
+        "op": "delete",
+        "a": "Jſt Pe trus vnſer houpt ſo",
+        "b": ""
+      },
+      {
         "op": "equal",
-        "a": "iſt er ouch vnſer erlöſer vnnd",
-        "b": "ist er ouch vnser erlöser vnnd"
+        "a": "iſt er ouch vnſer",
+        "b": "ist er ouch vnser"
       },
       {
         "op": "replace",
-        "a": "ſälig keyt zc",
-        "b": "sulpket ende"
+        "a": "erlöſer",
+        "b": "erliser"
       },
       {
         "op": "equal",
-        "a": "Als geredt iſt",
-        "b": "Als geredt ist"
+        "a": "vnnd",
+        "b": "vnnd"
       },
       {
         "op": "replace",
-        "a": "von Varti Butzer ouch anderen ſinen brüderen",
-        "b": "van agari bucen encken andern sijnen brudern"
+        "a": "ſälig keyt zc Als geredt",
+        "b": "saligkeit Allß geredit"
       },
       {
         "op": "equal",
-        "a": "Er ſpricht ouch Wo",
-        "b": "Er spricht ouch wo"
+        "a": "iſt von",
+        "b": "ist von"
+      },
+      {
+        "op": "replace",
+        "a": "Varti Butzer",
+        "b": "Marti bucer"
+      },
+      {
+        "op": "equal",
+        "a": "ouch",
+        "b": "ouch"
+      },
+      {
+        "op": "replace",
+        "a": "anderen ſinen brüderen",
+        "b": "andern siien beidern"
+      },
+      {
+        "op": "equal",
+        "a": "Er ſpricht",
+        "b": "Er spricht"
+      },
+      {
+        "op": "replace",
+        "a": "ouch",
+        "b": "outh"
+      },
+      {
+        "op": "equal",
+        "a": "Wo",
+        "b": "wo"
       },
       {
         "op": "replace",
         "a": "zween",
-        "b": "Zeven"
+        "b": "zoten"
       },
       {
         "op": "equal",
@@ -303,47 +329,37 @@
       {
         "op": "replace",
         "a": "dry",
-        "b": "drij"
+        "b": "dij"
       },
       {
         "op": "equal",
-        "a": "in",
-        "b": "In"
+        "a": "in ſinem namen verſamlet",
+        "b": "In sinem namen versamlet"
       },
       {
         "op": "replace",
-        "a": "ſinem",
-        "b": "smem"
-      },
-      {
-        "op": "equal",
-        "a": "namen",
-        "b": "namen"
-      },
-      {
-        "op": "replace",
-        "a": "verſamlet ſyend",
-        "b": "versambot sijnde"
+        "a": "ſyend",
+        "b": "stend"
       },
       {
         "op": "equal",
         "a": "das ſy die",
-        "b": "das sy die"
+        "b": "Das sy die"
       },
       {
         "op": "replace",
         "a": "Kilch mögend",
-        "b": "kelck mogent"
+        "b": "kih mogent"
       },
       {
         "op": "equal",
-        "a": "handlen nach",
-        "b": "handlen nach"
+        "a": "handlen nach dem",
+        "b": "handlen nach dem"
       },
       {
         "op": "replace",
-        "a": "dem Göttlichen wort",
-        "b": "Dom yettschen wortt"
+        "a": "Göttlichen wort",
+        "b": "go ttlichen wortt"
       },
       {
         "op": "equal",
@@ -353,17 +369,27 @@
       {
         "op": "replace",
         "a": "gantz",
-        "b": "Yanten"
+        "b": "gautz"
       },
       {
         "op": "equal",
-        "a": "Kilch antrifft das doch",
-        "b": "Kilch antrifft Das doch"
+        "a": "Kilch",
+        "b": "kilch"
+      },
+      {
+        "op": "replace",
+        "a": "antrifft",
+        "b": "antrfft"
+      },
+      {
+        "op": "equal",
+        "a": "das doch",
+        "b": "Das Doch"
       },
       {
         "op": "replace",
         "a": "nüt",
-        "b": "miet"
+        "b": "nudt"
       },
       {
         "op": "equal",
@@ -373,7 +399,7 @@
       {
         "op": "replace",
         "a": "dann ſunſt",
-        "b": "Wann sijt"
+        "b": "wan su st"
       },
       {
         "op": "equal",
@@ -393,10 +419,10 @@
       {
         "op": "replace",
         "a": "in was geſtalt die Kilch ein fürgeſetzt houpt habe der ich mich vnder würfflich machen vnd blyb by dem gemeynen verſtand Chriſtenlicher Kilchen Sie",
-        "b": "Barnabis"
+        "b": "Barutbis"
       }
     ],
-    "ops": 29,
+    "ops": 31,
     "truncated": false
   }
 }
