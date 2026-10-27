@@ -144,6 +144,12 @@ jobs:
       # Sparse-Checkout.
       - name: Refresh print anchors
         run: python3 scripts/build_print_anchors.py
+      # The concordance places each segment of the base text in the other
+      # witnesses by looking up the page alignment refreshed above. Left out
+      # of this job, it kept the state of August while the HTR runs of
+      # October 2026 raised A V 1446 and A V 1443 to full text (#93).
+      - name: Refresh concordance
+        run: python3 scripts/build_concordance.py
 
       - name: Commit and push
         id: commit
@@ -152,7 +158,7 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/comparison/ docs/tei/ data/disputation/*/print_anchors.json
+          git add data/comparison/ docs/tei/ data/disputation/*/print_anchors.json data/segments/concordance.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
             echo "changed=false" >> "$GITHUB_OUTPUT"
