@@ -1,40 +1,40 @@
 # Seite 300
 
-en peu
-en teil
-tiefen, d
-en perth
-hiern
-ingen
-canton
-werden,
-123
-Die ander Schlusred
-end, fo bijchen ouch, wie sich die, soo die wtickel
-fur gut te kennen, So teuwlich zusamen haltenn,
-darumb bitt vnd Erman Ich vch abermals vmb
-gots willen, Ir die wider sprecher, wellende ich ouch
-zusamen thun, finandien trostlich sin, mitt helft,
-lat, Schriben vnd reden, das werden unser gnadig
-herren, zum hochsten wel vergut, vnd als ein gna:
-dig wolgevallen, mitt grosser danckbarkeit annam:
-men, doch das das allweg beschaehe, nach Ordnung
-Innhalt vnd anwisen, des christenlichen darumb
-angesachuen Mandats
-Alexius grad, wicht patter In der
-Insil, Prediger Ordens
-In duiem namen her Jesu christe, tesamen wijsen
-gunstigen lieben herren, die ander Othlusstred,
-fort ettlich zitt disputiert, die hebbeg het nach minem
-verstand, zwen teil, Der erst, Die kilch Christi
-machet nitt geseyt noch statuten, ave das gottes
-wort, Eisen teil hilt ich fur war, Een indern
-teil, der da lutet, das darus volgte vnd beschäche das
-alle menschlich Cachungen, die von uns, der kilchen
-gebott genant sind, unser constientz nitt anders
-binden, denn als vil Si Im gotswort gegrundt sind
-oder gebotten, denselben gib Ich ouch zu, in rechtem
-gesunden verstand, Eenselben verstand Recht zu¬
-suchen, Ootten wir Jan In die Ihrift, Nun dat
-Johannis m. xvjc. Ich hab ich noch vil zusigen, Ir
-mogens aber feij, nitt tragen, wann aber der geist
+np
+ed
+eden
+ripe
+etkin
+pir
+esten
+wrntien
+i23
+Di andee Schlushred¬
+end Ir bachen ouch nar Sich die, So die articheb
+fuͤr guͦt Ekennen, So truͤlich zuͦsimen haltenn,
+darumb litt vnd Erman Ich uch abermls vmb
+gots millen, Jr die widerspricher, wellend uͤch ouch
+risinn thun, Enn nden stece nntt gott
+Bit Schrihen vnd erden, das warden vnfer gnadig
+herren, zum hachsten ml verguͤt / vnd als ein gna:
+dig mogevallen, mitt grosser dancklu krit annam¬
+men, dich das dis alling beschache, mich drdnung
+Junhalt vnd anwisen des christenlichen darumb
+angesachnen / andats
+Alegint Jrid Biechthttar Jndir
+Jusel, Predeger ordens
+sn diu em namen gar Ersu chriser, Eesimen wisen
+uͤnstigen lieben garren, Die ander Schluͤsßred,
+Jit ittlich zitt difrutiort, desilbig hat nich minem
+verstand, zurnteil, Der erst, Die kilch Christi
+machet nitt gesitzt noch Statuten, aur das gottes
+wort Dison tail halt Ich fut war, Den andern
+teil, der da lutet, das darus vilge vnd leschache, das
+alle monstelich Caezungen die von vne / der kilchom
+gebett grnant vind vnsir censtienz nitt andirs
+Bunde Bun ae ugs i In gecrvnt Jegrundt gind
+der gebetten, Denselben gib Ich ouch zu / In rrchtem
+gsundem veestand, Dansalben verstand zecht zu¬
+fuͤchen Sollin wir han en die Schrift / Nun brait /
+tohninis am xvj Ich hab rch nach vil zufigen, Jr
+moͤgens aber tenz nitt trigen / wann aber der grist

@@ -1,43 +1,43 @@
 # Seite 304
 
-1.° 2.
-mitt am
-der damittung
-geistich
-tivas, dir
-oder f
-in Chant
-doch darin
-zusetzen
-lort,
-vergriff
-84
-125
-Die ander Ochlussred,
-Berchtoldus haffer,
-18
-Eer Bichtvatter hat sich nitt vermugt, om der
-antwurt, vber den Opruch Johannis mij xvj
-Ich hab vijch noch vil zusagen, Ounderr vermeindt
+Di
+anr and
+deren
+zist
+Eweid
+iede
+n se
+Dcden
+risten
+Cett
+weegek
+h4
+12
+Die nnder Schluͤssred
+Brrchtoldus haler,
+8
+er Bichtvetter het Sich nitt veruugt, an der
+antwurt, uͤber den Opruch Johannis am xv
+lich hab uͤch noch vil zusagen, Sunders vermeidt
 darus zuerhalten, das der heilig geist, die kilchen
-vie gelert hab, durch die vatter, das Othon nitt Ju
-der Ihrift grundt ist, dag Ich widerumb
-Christus Opricht, Ich hab vich vil zusagen, Aber
-nitt anders, dann die Ihrift het alles guts, vnd
-Ist gnugsam vnd volkomen, den mentsthen zu
-vnderwijsen zum heil. ij. ad Chimotheum. iij.
-Carumb nitt gut sin mag, vnd also von dem
-geist der warheit nitt gelert werden, was In der
-Ochrift nitt grund het, verwijrend, das der geist
-gottes, anders gelert habe, dann In der Othrift ver¬
-fastot Oije, vnd das noch lut des Mandats,
-Alexius grad
-Vor Berchtold, vff Inred min er andtwur't, oder
-vnser andtwurt, Sagt vnd gebt nach, das der hei¬
-lig geist, als ein regierer der kilchen, Etwas habe
-verkündt, oder geredt, durch die heiligen christen:
-lichen Kilchen, Sagt aber, das Er mit habe gesagt
-oder gelert, dann das In der Biblisthen Othrift ge¬
-gründt bije, das gib Ich geen nach, Das aber, dis
-von der heiligen christenlichen Kilchen, den christen
-mentschen gesegt oder geordnot ist, das das nitt
+vil gelort hab, durch die vetter, das Schon nitt Jn
+der Schrift gruͤndt ist, dag Ich widerumb,
+Christug Spricht, Ich hab uͤch vil zusagen, aber
+niit anderg dann die Schrift het illes guts, vnd
+Ist gnuͤgsam vnd volkeinen / den montschen zu
+vnderwisen zum heill / i nd huͤnothaum/ in¬
+Darumb nitt grit ein mg vnd also vm dem/
+grist der warhait nidt gelipt noden ws In der /
+Schrift nit geuͤnd gtt Cempnd dis dir grist //
+uttie anders gelert habr, dunn In der Schrift vor¬
+fosset Sie vnd die nich lit die andats¬
+Alopnis grad¬
+Der Burchtold, vff kured min er andtreut , odar
+vnser andtwnit, Sagt vnd gobt nach, das der hri
+Eit grift we ein ergrar die brlchen, Enras gilr
+dorkunde odie greedt, durch die halihen christen/
+lichen kilchen, Sagt aber dis Er mit hill gesicht
+de Jclin dann die Ender bibischen Schrift ge //
+ende r die gil sc gien nich, Das aber, die
+von dar hrlligen christenlichen lilchen den christen
+mentschen gesegzt oder geordnot Jst, das das ucht

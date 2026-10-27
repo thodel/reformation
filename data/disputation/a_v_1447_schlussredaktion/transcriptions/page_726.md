@@ -1,35 +1,33 @@
 # Seite 726
 
-Mr
 310
-Die viiii. Chlusseredi
-Orden veriachen, weder desß, In den fr glaubt, dann
-fr weiß, wem fr gloubt hat, Er wirdt auch gott
-dehem gelubd thun, die Er von Im. nitt ernordrot,
-Dann diesebben gelubd, konnen nitt van gott in
-So oude ri von dem bosen, Mathei. v.o und fret
-man gott vergaben, So man Jun mitt mentsthen
-gesagt vnd botten vereret, Mathei. xv. Carumb
-So vallen alle die gelijbe hin, die van den mentsth:
-en gedichtot sind, ende bald der gloub kampt, Hie¬
-bij Tol man nitt verstan, das wir einiger lepfruw,
-verspruch, verschribung, vereidungen der wilt:
-lichen handt vermeinen zubrechen, Ounder wir
-reden allein van den gelübden, die man gelijbe der
-geistlichen nampt, die die Constienten holten antraf:
-fen 1 Das. jn. ad Chimotheum. v. Ist anzogen,
-von der wittwen, die den ersten glauben gebrochen
-hatte, hat den Oinn, das bij den kirchen, da allein
-alle gantz verlasene wittwen enthalten wurdenn,
-Als die os Oechzig Jaren waren is, sich ouch
-Junge wittwen, vnderstuijden zweiden, Oud so
-Ois In die enthaltung der kilthen kamen, wurden
-Der Junijen ettlich erfunden, die vnkusthoten,
-ent„
-oder verschutten die vnder „ haltung, mitt etwas
-vnzucht, vnd Oodas besthach, Ouchten Oi die flucht
-Eijn es Ist wager Ich nam ein man, So das Dan¬
-bus zum dickern mal gesachen hett, So verwar¬
-not Rodie Kilchen, vnd Opricht, man goede Oi niet
-In die vnderhaltung der kilthen vfnamenn
--
+Deviij: Schlussnd,
+Oeden verrachen, wedet desß, Jn den Ee gloubt, de
+nuiß non E hit nudt aich gett
+dehein geluld thun , dir Er von Jm nitt ervardett /
+dann dieselben gelubd, konnen nitt von gott pun
+S. Sind Si vondem losen, athriv. vnd Eret
+man gott ver gaben, So man kun nit mantschen
+gesatzt vnd botten vereret, Nathei xv. Darumb
+So rillen alle die geluͤld hei, die von den mantsch
+en gedichtot zuͤnd, So bald der gloub kimpt, Hie¬/
+by Sie mon nitt perstam, darwie einigerliytrun
+Cerspruch, verschribung, vereidungen der wilt¬
+lichen hand, vermeinen zubrachen, Sunder wir
+reden allein von den gelub den, die mn geluͤbd der
+fristlichen nampt, die die Instiengz volten antrat¬
+fen, Das ad Chinotheum s Jst amogen,
+von der wittwen, die den ersten glouben gebrorhientn
+hette, hat den Sum, das by den kilchen, da allein
+alee gant verlaͤsne nottwen onthatten wurdenn /
+Als die oe Sechzegz haren waren d. Sich ouch
+tung wienen / vndirstunden zeurriden, vnd so
+Si In die enthaltung der kelchen kamen, wurden ei
+der fungen ettlich efunden, die intuscheten /
+oder verschuͤtten die vn cheltung mittetwas pn
+vnzucht ond Sodielistlich, Suchten di dir kift
+Euͦ io ist wiger Ich nin ein min, . das dan
+die zum dilien ml gesichen hett, So vnwar /
+rit Er der lrechen / vnd Sr cht m golli Sy at
+Indir vndechiltung deir kibchen vfuamen
+2

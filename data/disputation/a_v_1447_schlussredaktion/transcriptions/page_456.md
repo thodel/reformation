@@ -1,51 +1,50 @@
 # Seite 456
 
-mainte
-hier ver
-Denton
-ten fur
-sy zijn
-amnder
-vnt mij
-Wir
-2 Cvix 1641
-messing
-in vi cap
-irce with
-mith
-excevoir
-spercesss
-der Julch
-uijs
-190
-Die vierd schlußers d
-wir bisß vff sin zijt vnverantwurt lassenn, beliben, Dann
-sollte Inn oosthollung des lyes Christi, vnns trost int ec¬
-wachssen, oder zukomen, Was trost hetten wir dan
-Inn dem Sacramentlichen brott (wie sy es nemen) Das
-annder aber so angezogen wirt vmb kurtze willen bruelchen
-wir Dem Christenbergen läser
-Winglij
-Die angezoigten wort, welcher fur vch geben wirt
-vnnd welches fur vich vergossen wirt, bewärennd
-gentzeich allso, mitt das hie verheissen werde, Dem¬
-bluchen, essen vertrostung oder vermannen das sij
-ouch darwider sind, dann sp zougend an, das der lich¬
-nam Christi vnnd sin bont fur vnser sijnde Inn
-toe peben verdint, Nun nimpt sin toe niemand die
-sund ab Den so Inn Ine vertrouwt swixtt, Nun ist
-overtrouwen ein gestalch wurckung Die ouch allein
-von dem geist kumpt, Deßhalb sij aber hie principium
-petunt Das er aber seit se verstandints allso. Das
-mag vnns nitt trostenn, Das das wir Inen fingeben
-Das der gloub allso versichte Das man keiner anndern
-heblichen versichrung nachfrage, Das zoigen wir
-Inen mitt schrifft an Das aber Das lyblich
-essen. Die Seell wöste, zouden und sy mit Irem verstand
-an (das wort, Das flasten ist int mitz) habenn
-emer
-wir int allein Inzogen zu „Inleittung sonder zu
-einer bewernus, Das Demnach gevadt ist, sollte In
-Oosthaltung des lichnams Christi, in't vertrostenus
-rede
-lijst
+na
+beg r
+Dent
+ei eid
+syly
+onnden
+vnz mn
+wir
+wie
+vnssen
+u
+wiet
+mch
+erah
+gers
+er Jnf
+au
+xo 2
+Die vierd schlußred
+wir lisß vff sin zet vnverantwurt lissenn / beliben / Dann
+soͤllte In vsstheillung des lybs Christu vnns trost nit er //
+wachssen / oder zuͦkomen / Was trost herten wir dan
+Jnn dem sewamentlichen brott we s eo nemen das
+ane w ku
+wir dem Christenlichen laͤser
+Wigly
+Die angthoigten wert / wether fal uͤch geben wut
+vnnd welches fuͤr uͤch vergo /sen wit / bewaͤrenn
+genthlich ellso / niet das hie verheissen Ceerde / dem //
+ablichen essen vertrosfung oder vermanng das sy
+mih darnder sud / Dan i teigend an / dis der lus //
+nam Christ / vnnd sin blibt fir onnser sind Inn /
+tod geben vendune Dun nimpt sin tid niemand die
+sund ab / Den so snm Jue vertrmrt swirtt Num ist
+vertruͤwen ein geistlich wurckung die ouch albemn/
+von dem gest kumpt Deß halb sy aber hie gmr/ gn/
+otunt / Das er aber sei sy veistandins alls/ das
+mag vnns nii trostenn / Das / das wir Inen fugeben
+das der gloub alss versicher das man demer anndtrn/
+liblichten versichrung nachfrage / Das zeigen / wir
+nen mitt schrifft an / Das aber das lyblichh
+essen De see se agend s nit ne vsan
+an das wort / Das flesch ist nit nut habenn /
+wr nit allein Inzogen / zuͦ uleutung sonndere zu int
+einee berernus / Das Demnich genedt isti sallte In
+Vschallung des lichnamb Christi nat vettistun
+ede
+lis

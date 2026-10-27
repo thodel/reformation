@@ -1,34 +1,34 @@
 # Seite 489
 
-9
-Das her Benoecht, offt anzucht, wie das get.
-warhafftig sywer hie on nott
-nie¬
-mand ist Im Dis abree Man handlert
-vom verstand der ovorten, Da hatt er ein
-mutmassung, Das der win soll das blut
-Diewye g Gristus solche
-Christi sin
+3
+Jas her Bendichn / offt anzuͦcht / wie dia ge/
+warhafftig sy wer hie on nott //
+Nie //
+mand ist sm Dis abred Man handlett
+Vom verstnd der worten / Da hait er ein
+muͦtmessung / Das der win soll das bruͦt
+Diewyl Christus solche
+Christi sin /
 Das ist min blutt
-wortt gereet hatt
-er wurde sunst die wort haben oßgelassen vnd
-schlecht darzu gesagt, haben, Das thund min
-zugedencken, Es bewart aber eins nicht, dan
-Im ovoll wijssend is, Das das wort soll gan
-zum Element, soll ein Sacrament werden, vnd
-wer van noten Das angezoegt wurde, warumb
-gedechtnus gehallten werden soll, vne warumb
-man Dancksagen soll, sollichs ist aber erklärt In
-Das ist min lye der
-Denen worten,
-fur vch geben wirtt, vnne were dar Jun
-darmus niet angezogt, Das das brot wesen
-lich der lijb sie, oder der win blutt, wie e:
-ouch das vorthin bekent hatten, Vnd darneken
-ouch nitt betracht, smen imechäochen, Das
-Die wortt, das ist min lijb sollen alles wel be¬
-duten, allss vnder dem, oder In dem hff min
-lijb Darmus ex noch am anfang hangt, Es
-helfft gul. ouch nitt, Das wortlij en in sommer
-ist viel me wider In, Dann es In siner artt
-hart, vrsach der vordrigen ree oder handlung
+wortt geredt hatt /
+er wurde suͤnst die wort haben vßgelassen / vnd
+schlecht darzuͦ gesagt / haben / Das thund min
+zuͦgedencken / Es bewaͤrt aber eins nich / den
+Im woll wissend ist / Das das wort sol gan
+zum tlement / soll ein sacrament werden / vnd
+Arer von noͤten Das angezeͤigt wurd / warumb
+gedechtnus gehallten werden soll / vnd warumb
+man Dancksagen soll soͤllichs ist aber erklaͤrt In /
+Das ist min lyb der
+Jenen worten /
+fur uͤch gebeit wirtt / vnnd wurd dar Ium
+Darumb nitt angezeigt / Das das brat weste //
+lich der lyb sye / oder der win bluͦtt / wie der
+ouch das vorthin bekent hart / vnd Darutam
+ouch mit bibracht / sinen smnernwolten / Das
+Die wortt Das ist min lyb / soͤllen alls viel be //
+duten / allß vnder / dem / oder In dem Isf min
+lyb / Darumb er noch am anfang hangt / Eo
+hillfft Ine ouch nitt / das woͤrtly eim sonder
+ist vill nie widerIn / Dan es In siner artt /
+hatt / vrsach der vordrigen red / oder handlinh

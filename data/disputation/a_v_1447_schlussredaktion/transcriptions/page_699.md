@@ -1,31 +1,31 @@
 # Seite 699
 
-Die vii. Schluskred.
-finden, das In kurgem, nach der zitt der Opostlen,
-die begangnus der todten, also zijn gesin, Cas die
-geistlichen mitt den Priestern zusamen berust, vnd
-Demnach geladen sind worden, die Armen, die durf¬
-tigen, die weisen vnd wittfrowen, gespist sind wor¬
-den 1 fu ein gedachting der Ruw der abgestorbnen
-Oelen, Also vnd derglichen, hat man vor zwolf
-hundert Jaren, Javritt gehapt, Solich Jarzit sind
-nitt ein beschwijrd der Armen, Nig wof er fen¬
-nen, das fuij vnd fur, mitt allein In disem Artickel,
-ende under ouch In vil indren 1 gross missbruch erwach¬
-sen sind, Das aber die Apostel Sommlichs nitt
-gelert haben, das mitt vsgetruckten schriften, In
-Gillisthen buchern begriffen, am ougt werde, weist
-man wol, das Thomas, Andreas, Matthias,
-vnd die andren Owostel, duch die zwen vnd siben:
-sig, So van Christo zu Inen erwelt, Luce etc.
-ouch gelert heben, darum man mijt hat, So hab
-Ich ouch In der andern Schlussred, In gefurt, wie
-die bazungen der Apostel, ouch Oijen zuhaltenn,
-Carum ouch Stat, das gebatt für todt und labendi¬
-gen, Das aber Paulus zu den Thessalonicenseen
-Opricht, Das man nitt solle teuren vmb die
-abgestorbnen, ware noch Ingefurtem verstand
-wider die Christi, von Abraham, von facob, von
-Josephum wie dann dem herren Jesu, die frowen
-vnd ander, ein mittliden gehept haben, Das sind
-aber die wort Pauli, Ir bruder, wir sollen vch,
+Dte vij Schlussred,
+finden, das In Curtzom mach der zitt der Apostlon/
+die begaͤngnug der todten, also szen gefin, Cas die //
+gristlchn den istn sien Cernft nd
+Denmach geladen sund worden, die Armen, die durt /
+tegen, die wrisen vnd witfrͤwen, gespist sid wor¬
+den, Jn ein gedachtnigs der zum der algeftorbnen
+Dalin alse vnd dirglichn ht m ver zmalt
+huundart tron tariett gehapt, Dalech twzͦt eind
+nitt ein beschwerd der rmem, Mag ni orten/
+nan, das fur vnd fuͤr utt allein Jn disem ticlel
+Sunder ouch In vil undren, grasß misbrucherwich
+son sind, Das aber die Apostel Somlichs mer
+glirthaben, das mitt ißgetruͤclten Schriften, In
+kullischen buchern begriffen, anzeigt worde eist
+nn wal, das hamas, Andad Matthias¬
+vnd die nndren Apostel, Such die zwenvnd siben¬
+it So von Cristi zu Inen arwelt, rutri4
+ouch gelort heben, darun man mit het, So hab
+Ich ouch In der andern Schluͤssred, Jn gefuͤrt / wie
+dir daczungen der Aposstel ouch hen zuhaltem
+Darum ouch Stat, das gabatt fuͤr Jodt vnd laͤbrnd://
+gei Das aber Sanlus zuden Dhossalenitensorn
+Cprcht, Die man nnet gilli touren umg dar //
+vtistallu/ wer rite tngefuitam veistand
+widerder Schrift, vm Alraham, von tacob: von
+Ersoch wie danm dam hewon Johu, de troͤwren
+vnd ander / ein mittliden gehept haben, Das sund
+aber de wort Pandi, Er kuder, wit goͤllen vlb /

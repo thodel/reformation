@@ -1,35 +1,35 @@
 # Seite 426
 
-176
-die vierd schlußred
-177
-Benedicht Jurid verstanden mag overden, Das wir
-Loff vnnser vermuifft buwten vnnd spitzsmagkeitt/
-vns flyssen, der Inxeß hebben vß dem per cap. zum D'form:
+12
+die vid schlisend
+14
+Nandich Ind veffaiden aung weden / Das wi/
+Dvff vnnser vernuͤmfft buwten / vnnd spizfindigkent /
+ens fhyssen der Jnred zalben vß dem ( cap zund herni/
 In der Epistel:
-Das (vic gesprochen, hannd) es
-soll verchusscht werden, gemeinsame, oder gemeinsthafft
-konst vnnser bruder allthamer daruff, es soll ein
-vschelting verstanden werden, wie sich behelffen,
+Das wir gesprochen / hannd / es
+sil verchischt wrrden / gemeinsame / oder gemeinsteifft
+traugt vnnser bruͦder allchamier daruff / es soll ein
+vsheillung verstanden werden / wil sich bcherlffen /
 min werden
-Des griestenen Cvortlij Kowcovien
-wir vns onch lassen vff all verstendigen der sprachen,
-das wie es Inn latin vnnd grieischen stett, vff Im
-wag ein gemeinschafft, vnnd geselschafft unnd nitt
-ein vs theillung, man sech Das wortlij vom Brunwen
-heran, So ist keiner der nun int mer dan ange
-fangen hatt zelernen. Der wes das nower, oder rorippe
-tst alles viel allß gemein vnnd koncoros ein mitssoll
-so gemeinschafft mit Im hatt, Die spruch aber durch
-allthamer inzogen, van Gortlij Rowcprien haben ouch vff
-Inn/ein gemeinschafft vnnd leuwen sich nu vff ge¬
-mein sin Dan vff vs. theillen man mag In zweij¬
-verleij wes gemeinschafft haben, In einem Dinst
-Das weinper ist dan wir, oder vber vns ist, also
-mogen wir haben gemeinsthafft Im Innemen der
-gnaden, so mogen wir ouch haben gemeinschafft Im
-vssgeben Die gnaden riemen wir Christen alsamen
-mitteinandern In vnnd allso sind wir psellenn, vnd
-also soll Das gegen wuntig ont verstanden werden, Des
-wier all Christen, gemeinschafft haben, an Dem
-lyb Obhristi, Dann er ist vnnser aller (so wir
+des gritischen woͤrtlj kamann I
+wir vns ouch lassen vff all verstendigen der sprachen /
+Das wie es Inn latin / vnnd gricischen stett / vff Im
+toag ein gemeinschafft / vnnd gestoschafft vnnd nitt /
+ein vstheillung man sech Das woͤrtly von / srunnen
+heran / So ist keiner der nun nit mer dan ange//
+fangen hart / zelernen / Der weis das rromoe oder ropt
+ist allß vill allß gemein vnnd ratone ein matgsell
+so gemeinschafft nit Im hatt / Die spruch aber durch
+allchamer inzagen von woͤrtly fparisu haben ouchist /
+Inn / ein gemeinschofft vnnd leinden sich nie vffge //
+mein sin Dan vff vstwillen mon mag In zwen //
+erly weg gemeinschafft haben / In einen dung
+das weinger ist / dan wir / oder uͤber vns ist / also
+mogen wir haben gemeinschafft Im Inneinen der
+gnoden / so mogen weir ouch haben / gemeinschafft Jt
+vi d sn
+mittemandern In / vnd alis sind wie gselen vn
+o a ggenstnden wede dar
+wira n den
+hb Christ Dann er ist vnnser aller (so wr

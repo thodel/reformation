@@ -1,30 +1,29 @@
 # Seite 479
 
-48
+2
 1
-.
-blut Des puncts welchen het mit vch troffen
-hatt wer alle disque wortt, vnß welchem
-allem vermut vnnd aber, die figur dan
-glich sie, so es bedurt hatt, wie Da
-wesenlick blut gewesen. Den gestallt Im licht
-vnnd in der warhet, hatt Christus ge
-redet, Das ist min blut Derhalben wis
-die wort lutend vssz allmechtigkeit vnnd warheit
-Christi verstanden over sollichs lut des worts
-wesencken sin
-Ecolampadius,
-ss Der antwurt so gegeben, Ist wer die
-wort, Das ijt min lijb, so auch Inzogenn
-sind worden, figur des abbten gesatz mocht,
-man hie ouch antleurt empfangen habenn
-Vnnd were hielich so man vorhin, nit gegrundt
-5 Jun van muwen psatz, mit ein satten
-spruch Das man sich nitt vnderwunde
-mit feuwen Zebewaren, Jedoch Dwwijll
-etc. Diso fhuc Exodi am Exiiij cap: In furst
-wie das blut gespreuijt, sie worden vff das
-volck mit worven, Darby gesagt Das
-ist Das blut der punct mus, mit vijf ge
-troffenn,
-Dient sollichs figur int vff dos
+wri Das pude welicte gn nit dg tacen
+hatt / Voer alle dsere woͤrtt / vß wolber
+allen Danit / vnnd aber die figur Dan
+glich sye / so es beduet hatt / wie da
+wesenlich bluͦt gewesen Dergestollt Im lichen
+vnnd In der warheit / hatt / Chrisus ge/
+redet / Das ist min blut / Derhalben wie
+Die wort lutend / vsß allmechtgkeit vnnd warhen
+Christi verstanden wir soͤllichs lut der lorrs
+wesenlich sin /
+Crolampadiuns
+dar antnn sd en Ist vbr de
+Dort Das ir mn leb feluch zuteon
+sand wanden figue dis allen gesan moͤcht //
+man hie ouch antwurt empfangen habenn
+vnnd wert hillich so man vorhi / nit gegrnd //
+Inn dem nuwen gsitz / mit eim satten
+spruͤch Das man sich mitt vnderwunde /
+Nit figuren zeber wen / jedoch diewyll
+er dise fgir Erodi an xxiij cap iu fuͤrg
+Da das brut gespret / sye wodder vff di
+volck mit wortenst darby gesigt / Das
+ist Das bluͦt der pudt nus / nit uͤcher
+troffenn /
+Dient soͤlliche figir nit vff oe

@@ -1,34 +1,34 @@
 # Seite 301
 
-bij
-Die ander Othluskrede
-der warheit komen wirdt, ende wirde sy vch leven alle
-warheit, dann Er wirdt mitt reden von Im Obbs, ver¬
-Er werdt reden, alles das Er wirdt horen, vnd wirde vij
-verkünden die ding, die kunftig sind, Eisen geist vnd
-lerer, opt Christus vnser herr, Omer kilchen, nitt
-zechen oder zwenzig far, Sunders In ewikeit guben
-Johannus am xiiij. Ich wird min vatter bitten, vnd
-Er wirdt vijch gaben den andren troster, das Er bij vth
-blib In ewiteit, Vff den Spruchen vnd derglichen
-wie 8 dann In de m. xiiij. xv. vnd xvj. cappittken
-Johannis anjoigt sind, Oacherot der heilig Paulus
-Al fran kristen, das Inen die christenlich kirch nitt
-werde falen, vnd das In der 1. Epistel zu Thimotheij
-m. iiii. di fr Opricht, Dis-ding vhrib ich dir
-min Oun Thunothee, In der hoffnung bald zij dir
-zekommende, Ob Ich aber verlangrote, Dis en wussest
-wie du golt oder must wandlen In dan hus gottes
-des libendigen, das de Ist die gemein kilch des
-lebendigen gottes, Ein Cul vnd bevestigung der
-wirheit, Vff disem verstat ein Jeder christen
-mensch, das die heilig christenlich kilch, gelert vnd
-geregiert Ist, van dem heiligen geist, bissen, vnd
-In erwikert, wirdt, So min derselbijg geist vnd teven
-Ist der geist der warheit, So lert Er die kilchen die
-warheit, Darumb die Opruch der Kilchen, billich von
-vns nugenomen sollen werden, als die warheit, ende
-doch der heilig Paulus, In gmer. i. Epistel zu den
-Ehes salonicensern, an dem ii. cap. den Thesselonij
-censeren verthribt, En Ir von mir empfangen hand,
-die gehord des gotsworts, hand Ir das nitt empfan¬
+3
+Die ander Schlußs brid
+be ckt Eeien dt Snidt hruchken
+nochnt, dym Jr wridt nit rden vn sen ole/
+Er rnendazuir de funtut lug d d
+vkunden die ding die kinnftig eind Cisen guͤst
+lwer, ntit Christus vnser herr, Siner kilchen, iid
+zichen oder zwenczig Jrr, Sunders In einikeit gar
+Ichannig am xvij. Ich nind min vetter lieten / nd
+E wirdt uch geben den ondren trister, das Jrly it
+llib Jn ewikrit, Oss den Spruͤchen vnd derhlichen
+wie di dann Jn dem xiiij xv. vnd xvj cnpilli
+tohannie ampigt sind, Sacherot der heiligt Paulie
+All fran̄ kristen, das Jnen die christenlich kllch ich
+nerde falen / vnd das Jnder j Fristel zu Thinch
+am iijͦ de Er Opricht, Dise ding Schrib Ich die
+un Sun Thunother, In der hoffnung lild zu der
+zekomen, Ob Ich aler verlangretr, die du wuͤffes
+wie du golt oder muͤst wandlen In dem huͦs gattes
+das lybendigen, das da Ist die gemein kilch des
+libendigen gottes, Eein Buͦl vnd leuestigug der
+wachrit / Vsß disem verstat ein Jeder christen
+mensch, das dir hailig christenlich kilch, gelit lach
+gnegiert Ist tn dem heiligen geist, bisstez vn
+In eikeit wirdt, So nun dersilbig grist vnd lach
+Ist dee grist der narheit, Solart er die kilchen de
+warheit, Darumb dir Spruch der kilchen, billich vn
+vns amgenamen goͤllen werden, ls die warhait/d
+doch dar haͤlig Paulur / In piorij Cristel si din
+Ahissalonicensern, an dem ij cap: den hasselin/
+cruͦser Schribt / d Jr von mr emfangen geid/
+die gehaͤrd dis gitenarts, hand Jr das nitt empfin

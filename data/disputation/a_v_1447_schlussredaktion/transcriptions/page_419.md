@@ -1,33 +1,32 @@
 # Seite 419
 
-komen andern wert kampff geben, allein Das Der
-leb vnd das blutt Christi vns (lutsmer worten)
-werde vssgetheillt In dem nachtmall des Hern
-24
-Avingh
-Uit den worten Ist Immerdar Ir sinechdocha
-Int bewagt des verlassen ick mich ouck vff een
-acta vnnd haben, vns ein tropum furgeben. Den
-sy mitt ende schrifft int mogen erhalbten sij brin
-offten
-gent. dan ander
-pfarrer von s. g.
-Ich lass belibenn wie vormals geantwurt
-Vnnd erwart wijter geschrifft
-Ocolampadius
-Ietzunt kum ick vff ettlich spruch vorhin Durch
-hern Benedicht, ingefurt, die ouch nit dienmlich
-sind vnnd zum ersten den sprink Johanus am
-Fol. cap: Den er vermeint, auch secwas gewal,
-tiger zusen, Da sagt der text Er hatt Jun sy
-geblasen vnd gesprochen zu Inen, nemend den
-heilligen geist aber der gleichen wirt int ge¬
-redt In Den worten, des hern nachtmals Da es
-niet, er het genomen Das brot, vnd ster mitt
-er hatt genomen sin heb, das sich geburt zesztzen
-geten dem, das da stett Sohns am xx cap: Exchat
-In sy geblasen, vnd aber eius so ges. am G. ca. stet
-nemend hin den heiligen geist, So stet In den
-worten, Des hern nachtmall int nimend hin¬
-min leb vind so da stet In des hern nacht
-mall. Das ist min lijb so sert int Johannes de
+beien andemn wot kuff geen / allen / die dia
+lyb vnd das bruͦtt Christi vns Clutsinerowartn /
+werde vßgecheilt In dem nachtmal des zein //
+2
+zwingli
+it den worten st Inme der / Ir sinerdarrnd
+nit bewaͤrz des verlasß na mch auch vff /
+acta vnnd haben vns ein Eeun fungeben / den
+se mutt gschrifft nit mogen ergallten / syern Ifter
+Bent dan ander
+Pfarrer vons
+Ich lasß belibenn wie vormals / geantwuͤrt
+vnnd erwart wyter geschrifft
+Ecolampadins
+Jetzunt kum ich vffl eitli spruch vorhen dir
+hern Benedicht / ingefuͤrt / die ouch nit diemlch
+sind vnnd zum ersten den spruch Johanns am
+ixx cap: den er vermeint ouch ertwas gewrol //
+tier zuͦstn / Da sast dor Joxt E hatt Jnn se/
+geblasen vnd gesprochen zuͦ Inen / nemend den //
+heillgen geist aper der glichen wirt nit ge //
+redt In / den worten / des hern nachtmals Dae
+steit / er haͤt genomen / Das brot vnd stet nit
+er har genomen sin lyb / Das sich gebuͤrt zesttza/
+gegen dem / das dastett sois am xxcax: Erhat
+Insy geblasen vnd aber eins so Sais ai xxͦ caisten
+nemend hin den heillgen geist, So stet In den/
+worten / des hern nachtmall nit neinend hi /
+nn lyb vnnd so da stet In des hern nach /
+mall / Das ist min lyb / so stet nit Johane l

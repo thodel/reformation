@@ -1,31 +1,31 @@
 # Seite 747
 
-als Eggen vrijuchtig versthmelerung) vnsers beduur¬
-kens, nitt zu verandtwurten zyen, wir sollen gern
-liden, So man vns, vmb gottes willen Oth macht, Co:
-uerr die warheit damitt nitt geschmacht, sunders
-gefestuot wirdt, Dann was sollen die, ende overwunden
-sind In Iren eignen constientzen, anders tun, weder
-Iren Othmergen, mitt wibisthem Othekken vswerffen
-vnd harwiderumb, waer Ist zo vnwiß, der nitt mercken
-So vngebürliche reden, nitt vs. vertruwtem, Enn:
-ders verwifloten hertzen komen, Hierumb, from
-wiss herren vnd bruder, gabe vth der gott alles fri¬
-dens vnd trostes, waren vesten glouben, vandthafte
-In allem gutem zunamen, In einem christenlichen
-laeben, sampt viern underthanen vnd beuolthuen,
-Das Ir vijver oberkeit also nach gottes willen bewal:
-tend, das Ir, sampt den vivern, vnd allen glaubigen
-frölich mogen ersthinen, an dem tag, der allen gotts.
-freunden, trostlich vnd frolich, Aber allen gottlosen,
-Jamerlich vnd forchtsam zin wirdt, Damitt be¬
-And aber
-welchen wir och dem Allmachtigen gott
-viver wissheit empfelchen wir alle die, vsz. enifalti¬
-keit geirrot, vnd doch sich selbst zum hochsten ge¬
-nach gewon:
-gen gott vnd der zitt, versmupt haben
-licher gute und wissheit, mitt Inen zuschandlenn,
-vnd unser furnamen, zum besten verstan vnd
-vfnamen, Eie gnad vnsers heeren Jesu christi,
-sijn mitt v'ch zu aller zitt, Amenn,
+als Eyhon vnichtig varschiekernig vnsire kednich
+keus, nitt zu verandtwurton bien, wir gollen gern
+liden, So man vus vmb goͦtes willen Schmaͤcht, So
+uorr dir warhrit damitt nitt geschmaͤcht, zünders
+gefestuet wirdt, Dann vas gollen dier So vlirwunden
+sind In Jren eignen constientzen, anders tun, weder
+Eren Schmorczon, mitt irilischemn Schillen uswerffen
+vnd harwiderdmmb, waͤr Jst so vnwiß, der nitt marckt
+Do vngeburliche erden, nitt vssvertruwtem, Sun¬
+dors ver /nifloten hettzen Eomen, Hierumb Jram
+wiß herren vnd bruͤder, gaͤbe uͤch der gott alles fri¬/
+dns vnd trostes, waren vosten glouben, Standthafte
+En allein gietem zunamen, Jn einem christenlichen
+laͤben Sampt vuren vnderthanen vnd kevolchnen,
+Das Ir uͤwer oler krit / also nach gottes willen bewal/
+tend das Jr, sampt den vwern, vnd allen glauͤbegen
+frolich mogen erschinen, an dem tag, der allen gots/
+fruͤnden, trostlich vnd frilich Aber aflin gottlasen,
+famerlich vnd forchtsam sinj wirdt, Damitt lr¬
+Vndaber
+velchen wir uͤch dem Allmaͤchtigen gott
+uͤwer wißcheit ompfelchen wir alle die vsß einfalti¬
+krit geirrbt, vnd doch Sich Salbs, zuu hoͤthsten ge//
+wich gewon
+zen gott vnd der zitt, versinupt hiben
+licher gute vnd wischett, mitt Inen zihandlann,
+vnd vnser furnamen, zum besten verstan vnd
+ofnamen, Die gnad vnsers herten Jrsu christi,
+syi mitt uch zu aller zitt. Amonn

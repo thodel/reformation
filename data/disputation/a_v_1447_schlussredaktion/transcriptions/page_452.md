@@ -1,42 +1,39 @@
 # Seite 452
 
-mlich
-and
-Wm.
-per man
-misxion
-ix esq
-merxed
-norsch
-41
-188
-Diet vierd schlußreden
-Himell ist Christo selbst, der sollichs mit sinem geist
-wurcket, zugeben werden, vnnd ick wellt och ouch
-gernn einsamdern weg der exjumuung, van vnser
-Widerparthij horen
-Pfarrer van Santgallen,
-Antwort ick kurtz Das erInnering beschech
-durch vsserliche ding kan ick int vernemen, Darby
-aber eigentlich vff die wert des geists vermercken
-sollen, so mittragen, oder bringent, das se butent
-„ich
-darmis Das wesen by der vsschlicher er¬
-Incken noch male niet steheden kan, Das aber min
-her Doctor In, hat gefurt, by disem Sacramentlichen
-brot (wie erss. nempt) vns der wolthat Christi
-erInnern sollent, verstan ick alleen Christ glaubgen
-int allein bij desem bret, nach siner benampsins
-zethundt sin, somder vnvuerlassen lich wie wir tag
-lich vnnd vn vnderbesschlich wier der Wolthat Christi¬
-geniessen, Dann bij aller essungen, het danck sollen
-gesagt werden, vnnd alle ding zu der eer gottes
-bestehecken, 1 Epist: zum Chormthern am per cap:
-Sr. essendt oder franckint, so sollende Ins alles zu der
-eer gots thun vnd zijn Collossensken am iii cap:
-In pnserm worten vnnd wercken, got danck gesagt
-werden soll, von den reden, versitzbarlichen vnd vnam¬
-pfindtlich wellen wir verziechen bys vff die wijter
-exklaring
-Søvingli
-Damit een kurtz ab der sach mochten komen
+anlic
+alt
+ghrnd
+Enit
+r le
+d
+4
+h
+ies vierd schlußtred
+emcl ist Cerise sch De salige nig sinen gest
+wurcket / zuͦgeben werden / vnnd ich wellt uͤch ouch
+gern ein ane en n Censer
+widerparthy hoͤren
+ofarrer von San gaten //
+Intwurt ich krri Das enerch leschech
+Durch vfserliche ding kan ich nit verneinen / Dans
+Daber eigenauh voff die wort des geists vermerten
+sollen / so nittragen / oder bringent / das syo einent
+Darumb Das wesen sy der vsserlicher er /
+Inrung nihgnalo nit seheden kan / Dag aber min
+her Doctor Inchat gefurt / by Disem satramentlichen
+ret / woie eisnem vne der wwolten Christ
+erznnern soͤllent verstan ich allenn Christgloͤubgen
+nit allein zͦ disem bret / nach siner benampsunig
+zethund sin / sonder vnvuerlassenlich / wie wir tag //
+lich vnd vn vnderleslich wierder wolchat Christ
+essen Dan d w esun er damk a
+gesegt weden / vnd ale dis zu der ter gotes
+brschpchen /j epist zun Chorunheen am x cap:
+r esend oder runkint / so soͤlle iis alles zuͦder
+eer gorl thuͦn / vnd zuͦn Collassensern am ii cap:
+en Jistin a nen vnd ederken get dane gesygt
+werden soll / von den reden vnsichbarlich vnd vnen //
+pfindt lichwellen wir verziechen byß vff er wyter
+erklaͤrung
+Zwmga
+Danit lon knrt ad der sach miͤcgten kien

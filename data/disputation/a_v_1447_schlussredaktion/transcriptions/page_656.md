@@ -1,33 +1,33 @@
 # Seite 656
 
-279
-Die. vi. Schlusseredi
-Erechielem, am xviij. Ich wel nitt den toders Qunders,
-Vnnder das Fr Oich bekere, vnd laße, So der will get:
-tes Ist, das wir van Ounden entlediget wordenn
-So vnnd die Catigen, nitt wider den willen gottes,
-Gunder In ymern willen besta tot, worumb wolten
-dann die glider, Aich nitt verglichen dem hopt, mitt
-bitten, als wir haben Luce am. xx. is, Dimamen
-nitt, vnd wiben nitt, und mogen fuchin nitt sterben,
-Ei drie glick den fuglen, vnd sind binn gottes,
-Vnd So nun der Engel, dienstbar Ist, vnd bittet,
-So bitten ouch die Valigen, So Piden Inglen glich sind,
-Item So wir zu den heiligen gand, vnd die tilchen
-heimsuchen, daselbe unser gebett zu verfuren,
-Ist nitt aue vrsach, dann wir haben des ein gezug¬
-nis, Genesis. xxviii. Co Tich verwundrot facob
-von snier leger statt, und Op rach, wie forchtsam
-Ist dise statt, hie fst mit anders, dann das hus
-gottes, vnd tot des huwels, Christus Ist ouch In
-tempel komen u, Oud die heiligen Apostel De¬
-trus und Johannes, sine Jntempel gangen, zu
-der minden Anne des gebats u, und het Chri¬
-stus, an einem ort mer wunderwerck gewurckt
-Dann am andren, fts. iii.o Regum. viij. capite, haben
-wir, wie der Salomon Annd vor dem altar des
-herren, niet vsz gestrecken oder gespanten houden,
-vnd Sprach, Oheer min gott, Sich an das gebett
-Dins knechts, vnd erhoren dat lobgesang vnd gebatt
-welches din knecht bitt hie vor die, vff das drie
-ougen offen zijen, tag vnd nacht, wer disers huijs
+220
+Dawvij Schlissnd
+Hechielenn/ am / xvij: Ich nal witt den tod dis bunders /
+Sunder das Efr Sich bekere, vnd laͤbe, So der will get¬
+tes Ist, das wir ven Sunden entledi get werdenn
+So Sind die Saligen, nitt wider den willen gotteb,
+Sunder Jn oinem willen bestaͤtet worumb wolten
+dann die glider, Dich nitt verglichen dem hopt, mitt
+getten, Als wir haben Lucr an pn, dimanen
+nitt, vnd wiben nitt, vnd mogen fuͤrhin nitt Sterben,
+Si Sind glich den Euglen, vnd sind Sun gottes,
+vnd So min der fugel, dienstbr Jst, vnd ltet¬
+So ortenonte die deligen / Si diden Jngeen zlich eind,
+Itam Si mii zuͦden hailigen gand / vnd dir kilchen
+genusuchen, dasbln insar greit zu vnfictenn,
+Ist nit nur nsich dann nmi heen der ain gig
+nis / Grnesis ieviij. So Sich verwundrst zacos
+von enn legarstit vnd Sprch, dur tuchtse
+it dise St hnr Ist nit anders dum das huis
+gutes / vnd tor des humalo, Christur Jst ouch een
+tampel kanenn Dnd de huligen upistel .
+trus vnd Johannes sind Jntaunel gangen, In
+Dar munden Srund dis gebats cn vnd hit Cri /
+stug / an winiem ort mer wunderwercl gewurcet
+dun am andern, Etei: dgum vii : capitr haben
+wr vie der Dalomont dund vordem altar des
+herren, mit vßgestrickten oder gespanten hainden,
+vnd Spraich, Dherr min gott, Sich an das gebatt
+dins Enichtes, vnd erher das lolgesang / nd galaitt
+Waͤlchas din kurcht bitt her vordir, vffdas dine
+ougen ffen syen,/ tag vnd nacht, uber disers hub

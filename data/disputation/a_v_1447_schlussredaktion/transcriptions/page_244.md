@@ -1,33 +1,31 @@
 # Seite 244
 
-pfir
-recevoir
-46
-64
-die erst shlus reden
-ander houpt der klchen gebend vnnd wellen Doch
-gesechen sin, allß die so die eer gottes euch
-suchenn, Hab ick hieruber, int dem Zeuger
-zu schmach sonders der Warheit zu gut Das
-vertheill der christen angerufft
+ri
+1
+6
+die erst schlis red
+aider banpt der klcgen gebed vnnd woelben / dach
+geschen sin / allß de so die eer gettes anch
+suchent / Hab ich hieruber / nit dem senger
+zuͦ schnach sonders der warheit zuͦ guͦt Das
+vrtheil der christen angerifft /
 Senger
-24
-Der spruchen hals van mir anzogen vsss der gstschrifft
-der oberkeit halb, hat her vrochtold mir ge¬
-autoruet sy dienen allem vff die welckich ober¬
-keit/ mein ich nem/ dan paulus, zum Hebbe¬
-am lesten cap: gar heuen von den furgesetzen
-pedt die das wort gotes verkunden, auch den
-spruch In den geschichten der xii 6: xx cap:
-Durch mich anzogen, Harumb lassen ick mich
-vff den christenlichen läser¬
-Eerchtoldus
-Alle In gefurte gsthrifft, Sagen nun von Dienen
-Der gemeinde gots, wie vss. vill schrifften, min offt
-bevaret, wie dan onch Bischoff Das ist wechter
-sind Die die klch mit dem overt gars regeren
-sollen, das ist werden dan in der geschichten der
-xii 6: px cap: stat, comereijs.
-Jormus
-volger uit Christus / wint ein Bischoff genant
-vnnd ouch der klchen diener, Dorinus mogent
+Der spruͤczen hale von nir anzigen usß der gschist 2
+der oberkeit hall hat her Peratord mit be
+antwurt / sy dienen albein vc die weltag ober //
+men ich nein dmn paulus zun hebls /
+am lesten cap: gar hener von / den fuͤrgesezten
+redt / Die Das wort gotes verkunden / ouch den
+spruͤch In den geshichten der xi / b: xx cap:
+urch mich anzogen / Harumb lasß ich mich
+vff den christenlichen laͤser//
+Berchtoldus
+Alle Ingefuͤrte gschrifft / Sagen nun von dinem
+Der gemeind gotes wie vsß vill schrifften / min offt
+bewaͤret / wie dan ouch Bischoff Das ist wechter
+sind die / die kilch mit dem wort gats regieren
+soͤllen / das ist weiden / dan in der geschichten der
+vij ͦ: xx cap: stat / batrizie :
+Dorumb
+poer nit Christis / wiet ein Bistatft genant
+vnnd ouch der kiochen diener / Dorunb mager

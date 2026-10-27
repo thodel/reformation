@@ -1,32 +1,32 @@
 # Seite 744
 
-ja 19
-bitten, vnd erwarten, damitt Ir erfunden werdenn
-getruw arbeitter, In dan wingarten des hebrenij
-Dann der herr Opricht, Luce xii. wie ein gross
-Durg Ist, vmb een getruwen vnd fursichtigen husthal:
-ter, den zin herr zeijt vber zin gesund, das Er Inen zu
-rechter zitt Ir Opissgabe, Oalig fst der knecht, we¬
-lichen om herr findt also tunde wann er kumpt
-warlich dag Ich vih, er wirdt fun, vber alle huie
-gutter seyen, So aber derselbigen knecht, In sinem
-herzen gagen wirdt, min herr vernicht gekomenn,
-vnde facht an zuschlachen die knecht vnd dienst, ouch
-ze essen vnd zutrincken, vnd sich voll zuften, So wirdt
-der herr desselbigen knechts kommen, an dan tag,
-da Er gich nitt versicht, vnd zu der stund, die Er nitt
-weiss, vnd wirdt Jun zerstmattern, vnďwirdt Im
-5 in lon gaben mitt den unglaubigen, Hie hooren Ir
-lieben bruder vnd Celsorger, fr zind die der herr
-het gesogt wer sijn gesind, das Ir In die war spiss:
-das gottlich wort, den Abatz mijws vnd alts, hir fur
-tragen zu s niet zitt, Oalig werden Ir sni, So och
-der herr wirdt finden also tien, fa Er wierdt v'ch,
-vijber alle drie gutter Oegen, So aber Ir vntouw¬
-lich, dem gesind gottes vorstand, vnd die Thifli¬
-gottes, die te weiden solten, Wherende vnd besth wa¬
-rend, mitt den trunknen truncken sind, niet
-den huvern louften, vnd also mutwillen mitt den
-gesind gottes, So gind gwusk, das der hoor, To
-Ir vth zinen zum allerminsten versachen, komen
-wirdt, vnd vijch ze beden richten, zersthmatternn,
+39
+bieten, vnd erwarten, damitt Ir erfunden wordenn
+gotruw arbeittor In dem wingarten des herrenn,
+Dann der horr Spricht, wr xvjͦ wir ein grisß
+duch Est , vmb ein getruwen nd fuͤrsicgtigen histle/
+ter, den sin hevr hetzt uͤber ei gesind, das Er Jnen zu
+rechter zitt Er Spis gaͤbe,/ Salig Est der kurcht / wer
+lich an sin harr findt also tund wann er kuͤmpt,
+warlich bag Ich vͤch, Er wirdt fun / uͤber alle sine
+gutter geczen, Sa aber derselbit kurcht, Ju rinem
+horczen briten wirdt, min horr vorzuͤcht zekomrim,
+vnd facht an zuschlichen die kurcht vnd dienst, ouch
+stin vnd zuͦtrincken rudoch vill buffen/ So nelnt
+die birn dassbligen kurchts kenn / on dem tag¬
+e ch t vnd zide stnd, dir er ntt
+wis vnd wdt kin Jerschmagteen vnd wirdt Iin
+sin lon gailen mitt den vnglounͦbigen, Hie horen Jr
+Erlm gruder vnd Biesere, Jt sind dir der horr
+bet gesigt dere rigesind / das Juͦ sen drmas geißt
+das goblich wirt den Sthatz muo vndalts / hiein
+tragen zu suner zitt daͤlig worden Er sui / So och
+d horr wirdt finden ilsi tim J. Er vdt uͤch¬
+Oler alle enie guitter Deczen / Do abrr er vutruwo/
+lich,/ dem gesind gottes vorstand , vnd die Schifli
+getrs, der Er niden gibten, Schrend vnd beschna¬
+rend, mitt den truncknen truncken sind, mitt
+dan hueen lonffen, ondalst nintwillen mitt dem
+gesind gottes, So sind gwuͤss, das der herr,/ Do
+Er uͤch sinen Jum allerminsten versachen, kinen
+wirdt / vnd uͤch Je beden richten, zerschmaͤttrrun,

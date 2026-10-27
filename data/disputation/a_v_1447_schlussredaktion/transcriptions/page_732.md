@@ -1,34 +1,33 @@
 # Seite 732
 
-8
-luij
-Die. viiii. Schlussredi
-gipter werden Jun mitt Schlichtopfern und gabenn
-vereren, und werden gott geloben is, So min gwust
-Ist, das die Christen (die wir hie geen erkennen, vnder
-den vergiptern verstanden werden) nitt vich geschlach¬
-tot vur geopfert haben, Qunders Oi haben Sich Tabbs
-gott ufgropfpot, wie ad Romanos xijo. Etat, So volget
-ouch, das f saijas, grad als wenig van gelubden, die vs:
-serthalb dem glouben zind, redt, Als wenig fo von
-vichisthen Opfern redt, Er quid aber figurlich redenn,
-In da man mitt den worten, die man Im alten testa¬
-ment, zu den vssern opfern gebrucht het, Im mij mw:
-en testament, vande den Innern redt, Als Daulo gar
-bruchig Ist, vorus ad Hebreos etc. Das argu¬
-ment a minoriad mains. Solle man dem ment:
-sthen gelube halten, So solle man es ouch gott hal¬
-ten, gilt hier mijt, Oann gunst wurde volgenn,
-Es sol niemand In dehem mentsschen vertouwen, ende
-solte man ouch In gott nitt vertruwen, Oesthalb
-So der glaub, der In een einigen gott Etat, die gelubde
-vslärt, von denen wir hie reden, vnd aber wen der:
-selb gloub, die gelubde, die wir dan nächsten thund,
-beuestnot, Oann Je das gibt der glous an, das
-Der mentsten getuw vnd war zije, gegen & niem
-nachsten, So volgot nitt zu argineren wie obstat
-Der andren Orten halb, vorlassen wir vns vff
-die geschrift gulbs, vnd empfelchen dieselben,
-dem Christenlichen läser,
-Johannes bijchstab,
-11
+6
+31
+Dwi Schlissred/
+Citir madin Jin aet Sehlnetiffemn vnd gibum
+vorwren, vnd werden gatt gelaben So nun gwuͤss
+Ist, das die Christen / die wit hir gevn eckennen, vnder
+don Egiptern reistanden worden/ nitt rice geschlich
+tet vnd geopfort haben, Sundirs Si haben dich Saͤlls
+gott vfgricfrit wir ad homans xij.ͦ Stat / So volet
+ach dae rnd e g n gluilben, dr
+sorthall dem glouben sind , rrdt Ale wenig Er von
+veleschen Ofeen redt, Ereud aler higurlich redem.
+m da mnng ruet den norten,/ die man sein alten tista¬
+mant, zu dan vssern opfern gebrucht hit, i ma¬
+entestament, vonden Jnern nidt Als Panlo / har
+bruchig Jst vorug ad ttebris / (. Das arzuͦ¬/
+mond anoriad maͤnis, Dolle nun dem mont¬
+schen gelued htin . eie nas ach get bl
+tin, geet herant, Sann guist nude vegum,
+Es sil mamand Jn dchri montschen vertruͤen, S.
+solte man ouch In gott nitt vertruͤwen, Drschalt
+So dar gloub der In den rinigen gott dtat,/ die gelubde
+oslaͤrt, von denen wir hir reden / vnd aber aben der¬
+ee li d lulde die vei deun nachston tund/
+bursturt Dun Jr dar gibt der glanb in, das
+der montsts getruͤn vnd war syr gegen sanent
+nachster, Se vilgit nitt zuͦ arguneuen wir obstat //
+er indren ditenhailb, vochasten vin vns vft
+di gischift zille vnd ompflchen disallem,
+dn Cristulichen losor¬
+Johannas buchstal/

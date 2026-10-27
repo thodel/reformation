@@ -1,33 +1,32 @@
 # Seite 396
 
-# datum
-demno
-37
-die vierd schlußred
-166
-gedenck Zeichen sig Des thestaments Christi
-Wiewoll, es das muu testament genempt
-wirtt vss der Epistell zijn heerehern vnnd ouch
-voorss. dem prophetten, fherenne: am xxxu cap.
-finden wir Das Das Testament vnd punctus stat
-In verzichung der stunden, vnnd ist aber sollches
-thestament, oder ouch grundtnus, allein In dem
-toe vnnd sterben, vnsers hern Jesu Christi ver¬
-sichert vnnd versiglet worden, wis denn ouch
-die hertzen der glouegen, alleen also volkomen
-lich versichert werden, Darby ouch konnen
-Wir int vernemen, Das die Sacrament Im nu¬
-Owen gesatz, int ouch beduten vnnd figuren sind
-wir mussen gesagen; das der touff
-der Da ist Im saecament Im muwen gesatz
-ein Eignr ist der widergebarung des menschen,
-gesz. dem peist wirt dadurch vnsers hern
-Als wer er noch
-Christi int verleegnet
-mitt komen, wie die allten ein vff sacken
-gehapt hand vff den zukunfftigen Christum
-Sleso sagen wir Danck bij vnsern Sacra¬
-menten, Das Christus schon komen sich Es
-hatt ein annder vndersthende die figur mitt
-Christo gestrax verglichen oder die Ceri¬
-momen des allten gesatz, alls ist besthindung
+odir
+3
+Di viend schlißtred
+11
+gdens zichen sig Des tastemens Christ
+wiewoll / es / Das nuun testament genempt
+wirtt vsß der Episteld sun hebreten / vnnd ouch
+vsß dem prophetten / Jherenne : am xvvj ͦ cap:
+fden a n dne at
+In verzichnug der sunnden / vnnd ist aber soͤlches
+chestament ader ouch pundtnus / allein In dem
+d nd seen ene he Je Christi ver //
+ichert / vnnd versiglet worden / wie den ouch
+Die herczen der geeubigen allen illso vorkomen //
+lich versichert werden / Darby ouch konnen
+Cor n verneen dae e sanit zm gu //
+wen gesot rt vuth dnen vnnd fguren sind
+ie missen gesagen Das der tonft
+Der de ist Im soerament / Im mren getacz
+ein figur ist / der ordergelaͤrung / des moͤnscheny
+vsß dem geist / wirt dadurch vnsers hern /
+Allß wer er noch
+Christi nit verleignet
+nitt komen / wie die allten / ein vffsechen
+gehapt hand vff den zuͦ kunfftigen Christim
+lso sagen wr dancd / by visern Sara //
+menten / Das Christus schen lonensig Es
+hatt ein annder vndersched die figur mitt
+Christo gestra verglichen / oder die Cer //
+nomen / des alltengesatz alls ist beschundung

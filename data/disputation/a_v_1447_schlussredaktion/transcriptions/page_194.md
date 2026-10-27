@@ -1,34 +1,34 @@
 # Seite 194
 
-sonder
-nomm
-76
-Die erst Schluswede
-Cromen Christen, alss her Berchtoed an¬
-zucht, Die Epistell zum Corinthern, 1a Im
-wie got der abmechtig mancher
-xii cap:
-lep paben geben hatt, sinnen lieben Jungern Cas
-Im Doch niemand ab ist, Allen christ
-glouggen, monschen ist woll wijssend. Das
-pot der allmechtig die monstgen begabet
-mit mencherlei gaben vnnd Dennocht ein
-Jedes christen monsten, belich lob vnd Danck
-gesagen schuldig ist, mit was gaben er Ine
-wier In Wein so
-ouch bepabet hat
-er much anzucht, mich gefragt, es sie ein
-her. Darumb moge kein anderer her sin
-vnnd den text fungewendt, den Ich Im
-vorbracht han, wie der her Jesus
-sprach, Ich bin das lecht, den wellt
-deß glugen ouch zu sinen Junyern Ir sind
-Das lecht der wellt ende
-Wer een
-her vnnd vill ampter sind woll, pot sy
-ein her wesen lich vnnd ein licht wesenn,
+sort
+emn
+16
+Die eist Schriored
+pomen / Christen aes her Serchtrld an /
+zucht / die Epistell zun Cornithern / i° gm
+der eechtig maen
+dij ͦcap:
+ley gaben / geben hatt / sinen lieben Jnngern / das
+Im Doch niemnd abitAllen christ
+franegeu nnnns un ist arll weussnd Dis
+got der allmechtig die moͤnschen begabet /
+mit menchetley gaben / vnnd denocht ein
+h lich los vnd am
+zesagen schnldig ist / mit was gaben er ue
+Aber In Dem so
+ouch begabet hat /
+er mich anzucht / mich gefragt / es sye ein /
+her / Darumb moge bein anderer her sin /
+vnnd den text furgewendt / den Ich Im
+vorbracht han / Wie der her Jesus
+sprach / Ich bin Das liecht / der wellt //
+deßglichen ouch zuͦ sinen Jingern Ir sind
+das liecht der wellt / /
+Aber eim
+her vnnd vill aͤmpter siend woll / got sy
+ein her wesenlich vnnd ein liecht wesen //
 lich
-Aber sin Junger siend ein liecht
-par cipatiue Das ist theilhafftigkeiten old van
-Im empfengklicen Cover min nachgel.
-lassenn het, Her Berchtold Das die
+Aber sin Jnnger siend ein liecht
+pandipatue Das ist theilhafftigklich old von
+Im empfengklich / So er nun nachol
+lassenn het / Her Berchtold Das die

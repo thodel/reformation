@@ -1,56 +1,56 @@
 # Seite 372
 
-Doncieux
-Von derselben zu erblücken
-als das zu
-lijblichen
-lettern ge¬
-8 zue solche
-Der anno
-Hs Vrindt
-gettenn
-fitt Im dr
-Parramente
-us schonnen
-as aber list
-im fleyse
-of Waulick
-off Das Blatt
-alß auch d
-an hernach,
-unnd mu
-vnnd in
+de
+ge
+adat
+silichen
+ate
+ser
+Dern
+ze vnndt
+tenn
+a nd
+Dacranen
+ens stin
+aaris
+mfed
+e
+f
+aige
+anhens
+vnder
+vnd ic
 lich
-minders
-gures sin vrij
-sinem essen vnd
-gehorsamen ver
-glicht
-Die vierd schlußers dr
-156
-gott sin, vnnd get Inn vnns sin weder der einig
-geist gottes van dem der heillig Johannes allso redt
-gott ist die liebij (verstande hie brebi fur den volkom¬
-nen stand vnnd verrichtung des monstglichen gemuts
-Inn gott (:) welcher nu Inn den lyck blijott der
-blijgt Jun gort, vnnd gott Jun Im Hie seggende wir
-Das die gantze sum der verrichtung des
-Menschlichen gemits gegen got nutzet anders ist
-weder ein vereinigung des gotlichen geists mitt
-vnnserm durch den vesten glauben, den wir zu
-get haben vnnd denn so blicken wir Inn gott
-vnnd gott Jun. vns, Es volgt ouch wijter glich
-wie min lebendiger vatter, mich gesondt hatt, allst
-lab ouch ick, vmb des vatters willen, Hie ist
-gewissenbar Das Christus smen lichuam soles
-mitt gessen hatt, so er aber vnnser essen vnnd ge¬
-horsamen vergliche, so verstan wir offentlich
-das er vns hie wein leblich essenn, fürgiptt
-durch Das wir Inn Im vnnd er Inn vns
-belibt, vnnder er redt hie allem von der
-vereinigung des götlichhen geists mit vunserm
-gemuten grad wie ouch sin monstcheit mitt get.
-verembaret Ist, Et hoc per comparationem non
-per eginparationem, Jetzunt an volgtt wyter
-so wirck ouch der michisszt vmb minentwillende
-beben, hie sogend wir aber offentlich Das erst
+annen
+et h
+stiem esen vnd
+gehersamen ven
+glichr
+Die vierd schlussred
+116
+gott sin / vnnd get Inn vnns sin / weder der eing
+gert goter ven den der heulig zohamnnes allsoredt /
+gott ist die lieby verstand hie liebi fuͤr den volkom //
+nen stand / vnnd verrichtung des moͤnschlichen genuͦts //
+Inn gott /) welcher nu Inn der lyebi bliptt / der
+blipt Inm gatt / vnnd got Inn Im / Hi sechend wir
+Das die gantze Sum der verrichtung des
+moͤnschlichen gnits gegen got nuitzit annders ist
+weder ein vereiigung des gotlichen geiste mitt
+vnnserm durch den vesten glouben / den wir zuͦ
+got haben / vnnd denn / so bliben wir Inn gott //
+vnnd gott Inn vns / Es volgt ouch wyter glich
+wie min libendiger vatter / mich gesendt hazt / alls
+laͤb ouch ich / vmb des vatters willen / Hie ist
+gewissenbir / Das Christus sinen lichnaͤm selbe
+nitt gessen / hatt / so er ber / vnnser essen vnnd ge //
+horsamen / verglicht / so verstan wir offentlich
+das er vns hie dhein liblich essenn / fuͤrgiytt
+durch des wir Inn Im vnnd er Inn vns
+belibe / Sonnder er redt hie allein von der
+vereinigung / des goͤtlichen geists / mit vnnsern
+genuͤten / grad / wie ouch sin / moͤnscheit mitt got //
+vereubaret Ist / Ehol der lombatationem non
+Per egmpatationen / Jetzunt an / sy volgtt wyter
+so wirtt ouch der mich isset vmb minentwillen
+beben / hie sechend wir aber offentlich / das erst

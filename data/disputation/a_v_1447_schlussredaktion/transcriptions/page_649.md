@@ -1,34 +1,34 @@
 # Seite 649
 
-16
+6
 20
-Die vi. Schlussred.
-Johannes buchstab,
-„ geschriben„
-Die Ichs dargethan hab, dabij blik Ich, Ich find ^ bin buch
-Tob. xxxiii. Das Helin ein frund Jobs, dem Job ein
-Rat git, damitt Job von mier widerwartikeit, entledi¬
-got wurde, vnd Opricht, So da wirdt ein fugel zijn,
-der da für Jun eius redt vsz der gleichen, vnd vorkundt,
-die fromkeit des mentsthen, wirdt sich vber Jun er¬
-barmen, und jagen, Erledig Juni, damitt Er nitt ab¬
-stig In die Zerstoende ungess. Hie haben wir kundtschaft,
-das die Engel mogen fur uns bitten, wie vil mer
-die heiligen, Co Canctus Paulus Cxricht 1. ad Co:
-pinthies. vj. wussen Ir nitt, das wir die Engel vr:
-teillen werden, hand nun dien engel bolichen
-gewalt, wie vil mer haben gewelt die, So vber 61
-vrteillen werden
-Doctor Johannes Oecolampadius
-21
-Der Spruch angezogen usch. Job, zucht sich nitt dahin,
-das den fugten zu gaben werd, bitt, oder fürbitt
-Aber vil mer, das der Engel erman, oder etwas
-verkunde, vnd so kreftenblick vnder wisz. vnd lere
-das der mentsch harnach, gott den herren bitt, die wil
-Er von dem Engel bewegt worden Ist, vnd also er¬
-lang, die baron hertjikeit gottes, darumb So dient
-vijch der Spruch gar mit, dann witter ouch hernach
-volgt, die gott dem mentsthen wil nachlissen, vnd
-beuilcht dem fugel, das Er Jun frloß mitt sinem
-dienst, Als wir Jan Palmen ouch haben, m:
+Dir aij Schlishred¬
+Jehannas buchstab,
+geschalen/
+r Ier dugichen bil / dig llltie Jce fndenn en
+Jeb xxxiijjͦ Dis Dliu ein frund Jobs, dem Job ein
+lat git, damitt Job ven siner widerwaͤrtckrit, entled:
+get waͦde, vnd Spricht, So da windt ein hugel zu //
+derd fuͤr Jnn eine redt vss der glichen, vnd verkundt
+die from kit des montschen, vndtsich ubie Jnn er
+parmen, vnd sagen,/ Erlidig Jnn,/ demitt h nttt b//
+stig Indir serstoͤrungn, de holn wir kundtschift /
+das die bugel mogen fut vns betten, wie vl mer
+die heiligen, So Sanctus Paulue Spricht/ ͦ ad (
+mithie vj ͦ wuͤssen Jr nitt, das wir die Eugel vr¬/
+trillen werden, nand mn dien engel solichen
+gwalt wie vil mor haben gmalt die, So uͤber by
+vrteillen werden,
+Doetn Jchanas derlunidat /
+2
+e Spruch angrzigen iss tis, zuzt eichnit dacen /
+dis den Englen zu gaben werd, bitt, oder fuͤrlitt
+AAber uil niee das der bugel omam, der otirs
+vorkuͤnde, vnd so Eraftenklich vnder niß vnd lirl e
+das des montsch karnach, gntt dncherrin bitt, dirml
+Er vnndem Engel kenrgt worden Jst, vnd also ie¬
+lang die brrm hortzi krit gettes, darumb bodtent
+uͤch der Spruch gar mit, dann wetter ouch harnach
+vegt, diege demn ntschen vre nichissin / vnd
+Einlcht dimn Engil, das Iiv Jnn helif mitt sinem
+dernst,/ Als wir m Ssalmien orch haben,/ An¬

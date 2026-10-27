@@ -1,32 +1,32 @@
 # Seite 658
 
-280
-Die vi. Schluskeed,
-wider gottes willen seyt, Das aber darbij wirdt In:
-gefurt, Co bitten Sieuch fur uns, Ist nitt racht,
-dann ob wir glich bisshar, von fürbitt Christi, haben
-lissen reden, Ist doch dasselb allein, vmb guts ver¬
-stands willen beschächen, Nitt dao Jan anders sije
-weder wir Ien In den worten. 1o. Johannis. ii. capite,
-horen werden, da also stat, mine kind, ich Othrib
-v'sch dise duigt, das Ir nitt günden, vnd ob aber einer
-Sundote, So haben wir einen furstander oder vertro¬
-ster, bij dem vatter, Jesum christum den gerichtenn,
-vnd der Ist die gnedigung fur vnser sünden, Hie
-mercken wir, das Christus nitt mitt anngsthaftem
-flachenn oder niderfallen, fur vns bitt, wie wie
-botten verstan wellen, Onnder das ym gebett fi¬
-nist erhort (als Hebreorum v. Stat, Er Ist zur
-(zitt sines fleistijs, das Ist tods, erhoort worden) In
-die erwikert gnug, Oann dasselb mijnit anders,
-weder die bezalung fur unser gijnd Ist, So aber
-Colich gebett, das Ist bezalung fur unser ound, nie¬
-mand tun mag, weder der einig Christus, Oann
-niemand gott und mentsth, niemand ein einiger
-mittler gottes vnd der mentschen Ist, weder Er
-So volgot nitt, Christus hat die kraft oder gwalt,
-darumb haben es die verserwelten auch, Oder aber,
-das Christus gott fft, musste volgen, v und
-die saligen ouch gott is, Cas gar nitt Zimpt,
-Das die Oaligen fur vns, glich'sam ouch die Engel
-fur uns bitten, lassene wir nitt nach, Dann es
+26o
+Die vß Schlussrd
+wider gottie millen gett. Dar aber dachy wirdt In
+gefuͤrt, So bitten Siauch fur vns, Jst nͦttraͤcht,
+dann ob wir glich bischar, von furbitt Christi, haben
+laͤssen reden, Jst doch dasselb allein, vms guits ver¬
+stands nillen beschaͤchen, titt das / Jmanders byr
+weder wir Jetz In den worten jͦ Eohanig / ij capite¬
+haren werden, da also Stat, Mine kind, Ich Schrib
+uͤch dise ding, das Jr nitt eunden / vnd alaber einer
+Suͤndote, So haben wir ainen fuͤrstaͤnder oder vertro
+ster by dem vatter, Jrsum christum dengerichtenn/
+vnd dor Jst die gnid gnig kur vnser buͤndtie/ Hie
+morclen wir, das Christus nitt mitt angschiftem
+flaͤchenn oder niderfallen, fuͤr vns bett, wie wir
+batten verstan wellen, Sunder das sin gebictt J.
+nist erhoͤrt Als Jtebreorum vͦ Stat, Er Jst zur
+Ditt eines ffrischs, das Ist tode / erhoͤrt worden) In
+die ontkeit gungt, Dan dasselb mitzit anders,
+naderdr Ealung fur vnser suͤnd ist, Saber
+Dadch eett die est alung tur vnser eund, nie¬
+mand kin mag, wederder eung Cristus, Dann
+niemand gott vnd mentsch, niemand ein einiger
+mittler gottes vnd dee mentschen Jst, weder Er
+So volgot nitt, Christug hat die braft oder gwalt,
+dar niuh haben es die vßerwelten ouch, Der aber,
+das Christur gott Jst muͤste volgen / Sind
+die Saligen ouch gott i° Das gar nitt znmpt¬
+Das die Baligen fuͤr vns, flichsam ouch die kugel
+fur vns bitten, lassend wir nitt nach, Dannes

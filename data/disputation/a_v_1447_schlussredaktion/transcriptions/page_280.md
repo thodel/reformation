@@ -1,50 +1,49 @@
 # Seite 280
 
-Gertzen
-verschont
-onder werden.
-wort my
-bliche
-de cette
-in Cazunge
-ten sij vn
-l. vnderste
-licher Inhalt
-in warheit
-tenlicher
-Baueman
-and vnto this
-Et vns echt
-kort
-1008 welch
+w
+astun
+de v
+rer
+Ded
+de
+ten
+end
+he
+enwche
+tu
+hcd
+nde
+Dacl
+fett
+ernrn
 am
-113
-Die ander schlußred
-die Schriften dann wiblisch, schuldig Oijen zu hal¬
-ten, Ist zu glauben, So Canctus Johannes Opricht
-am. xx. vnd am. xxj. Das Christus vil ding
-gethan, die In disem vruch nitt begriffen sjen is
-Carumb Ich wil vff das kurtzest, Ettliche Ort
-vnd Cappittel anzoigen, In welichen fttliche wort
-vnd reden Christi, nitt beschriben bin, anzogt wer:
-den, Als Mathei am viii. Marci am. iii
-vnd. vj. Luce nu. ij. au. i. v. om. xiiij.
-vnd am. v viiii. Johannis am. iii. weliche
-Ort, So Ich darumb ervordrot, wird anzoigen
-Christus hat sich ouch erzoigt much Omer vf:
-erstantius, Ouien Jungern, In vil reden, durch
-die vierzig tag, als Er Inen Ist erschinen,
-Actuum am. 1. vnd het mitt Inen, von dem
-Rich gottes geredt, und von andren gottlichen
-was aber, vnd wie fr Inen daruon
-dingen
-gesagt het, wirdt mitt besunderen worten
-nitt anzougt.
-Martinus Buczer
-is sind anjegen btwa wil Ort der Øuingeli¬
-sthen Schriften, In welichon, von Ettlichen le¬
-ren vnd ouch warcken vnsers hooren Jesu ge¬
-meldot wirdt, die doch Insunderheit In der
-Athrift nitt verfasset vind, Das gestanden wir
-gern, dagen aber darbij, das die selbigen leren und
-reden, compt den wercken des herren, So mitt
+17
+Die ander Schlussred
+der Schriften dann Giblisch, Mchuldig Sien zuhal:
+ton, Jst zuͤgkeuben, So Sanctus Johednmas Spricht
+am vnd am xxj Das Christus vil ding
+gethan, Die Jn disem Buch nitt begriften den
+Darumb Ich wil vff das kuͤrest, Ettlichr ort
+vnd Cappittel amzigen, In melichen Jttliche wort
+vnd reden Christi nttt beschriben Sin / anzeigt wod¬
+den, Als Mathei am viij Marti am, iii
+vnd vj . Luͦce aminj am iiij. n v: am eun
+vnd am xviii. Johannis am iii weliche
+Det,/ So Ich darumb orverdet, nud ampigen /
+Cristus et Sich ouch erzaͤigt nich Suͦan vf
+irstuntnie / duen Jungeru In vl reden, duich
+die Eereyg tah, Als Er Jnn Jst erschinen,
+Actiun am /j. vnd hat mitt Inen, vm dem
+Luh gntis garidt vnd vm and en guttrichen
+was aler, vnd wir Er Inen darvom
+dagen,
+s at nudt nitt aifundein aucten
+nitt ameigt¬
+Martimig buczer
+Sind amagon Etna ve oit die huͦangelen
+schen Scharfeen Jn machen, in hglichen i
+ve vnd ou waͤrkin vnsele harren Jrsu, ge
+maldit Dee dich Jnsuͤndirheit en der
+Deft mt vnfasit vind. Die Jistand mu
+zum Cigen deir dichy, de desikkigen liren vnd
+reden, Sampt den wercken des herren, So nitt

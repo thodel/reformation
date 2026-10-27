@@ -1,29 +1,29 @@
 # Seite 451
 
-haben zen hen gehept, der verhassung welche
-vns mitt cvesen vnnd that waarlich sine mit¬
-gereicht, vnnd wie das bedutet wirt wer¬
-taffet sin figur / allso ouch der lijb
-Christi Durch Das lam vns præsignriert
-Eenige anzouft, ende
-Ecolampadius
-Das glauben sie geistlich essen, Ist gnugsamlich
-bewert worden vnser dem vande capn: Johaes Itz
-pompt over bewaring Inzufuren, Das aber
-her Benndicht spricht, Die will Das sacca¬
-mentlich bret vns infurt zu der gedechtnus
-so soll vnns die gegen wiertigken des lebs
-Christi, selbst, vill mer erjnnern, So soll man
-Da vermercken was Das wort erInnern
-Vff Im hab vnnd wie der mousten mag
-erInnert werden, So erfindt sich das vsser¬
-liche ding zu der er Junxing dienen mussen
-mit Den sine begriffen werden, Als durch
-das gehort oder gesicht, So min aber der lijb
-Christi, Hart vnns nit mer schbar lich geben,
-gegept, sollen werden vnnd soll nach smer red, vn
-sich barlich do sin vnnd vnentpfindtlich, So
-wirt er dermassen, kein erJuring gebenn
-will man aber ansuchen, wie der monsten
-Inneckich erinnert werd vnd wer das wurck
-so sell das vnserm einge Meister der da Im
+haben zeichen gehept / der verheissung welchie
+vns mitt wesen vnnd that waͤrlich sind mit //
+gereicht / vnnd wie Das bedutet wirt uͤber //
+trffen sin figur / Also ouch der lyb
+Chuist durc Das lam vns prethuriet
+vnnd anzeigt /
+Crolampdus
+ras garben sy geistleln esfen Ist giuͦgsamlich
+bewert worden / vß dem vj cap: Jaha Jen
+vmot mer bewaͤrung Inzuͦfuren / Das aber
+her Benndicht spricht / Diewill das sara //
+mentlich brot vns infuͤrt / zuͦ der gedechtnus
+so soll vnns die gegen wurtigkeit des lybs
+Christ / selbl vill meo erInnern / So soll min
+Da vermercken was Das wort erznnern /
+vff Im hab / vnnd wie der moͤnsch mag
+erInmert werden / o erfundt sich das vssen
+liche Ding zuͦ der erInurung dienen mssen
+mit den sine,/ begriffen werden / sß di
+das gehoͤrt oder gesichn / So min aber der lye
+Christ / Hant vnns nit mer / sichbarlich gegen //
+gehet / soͤllen / werden / vnnd soll nach siner red en
+sichbaͤrlich do sin vnnd vnentpfindtlich / do
+wirt er dermassen / bein erzurung gebenn //
+Will man aber ansechen / wie der maͤnch
+Inmerlich erInmert werd / vnd wer Das woincter
+so sell das vnserm eingedeister der da In

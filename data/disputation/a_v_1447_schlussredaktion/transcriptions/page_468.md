@@ -1,37 +1,35 @@
 # Seite 468
 
-von Creger
-gri am
-49
-is that
-&m Tho
-8 Mm
-190
-kebben 1
-die vierd schlußreden
-vnnd verlassen vns wie vnnser her vnnd bruder
-vff die acta
-Zwingli
-Innsere bruder züchende ken andre gschrifft
-harin dann die vnsere meynung bewarend
-Namenbruch das die winckungen, oder frucht mit
-Des osserlichen worts sienne. Sonders des glaubens
-so sy selbst erkennent, Das die Sinn Sceue
-Parmis die thuffell uit gabend vf triben Das
-sy nitt glonben geshept, Dan (welches fur vns
-ist) Sy Dis wortt, den usterbruy gebrucht haben
-Ich geput dir Jun dem namen Jesu welches
-ein wort des gepots ist, Vssz dem mund Christi
-In minem namen werden sy die schuffell
-verstriben, Marci am xvi cap: So so nun das
-sser wortt gebrucht haben, vnnd midt dester
-mer Das v/s triben gevelget hatt So volgett aber
-Da sy sprechend
-Das Ix redt. mitt yxime hatt
-Das vsser wortt bringt mitt Im Das es supptt
-vnnd verheijsst
-pfarrer v. f. g.
-Off Inzug vnnd verantwurtung vnnser
-Wittbruder Ist mengklichem wijssend; Das ob¬
-gotwill. wir Christi sine vnd sin zesin begerende
-vnnd darumb von smein wort raden weeren
+e
+hat
+h
+he
+46
+229b
+die vierd schlustred
+vnnd verlisten vns wie vnnser her vnd brider
+vvff die alta /
+zwugli
+nnsere brider / zuchend kein andrs gschriff
+Ahritu Damn de vnsere manung bewareid
+Namlich das die wuͤrckungen / oder frucht mat
+des vsserlichen worts siennd,/ Sonders des gloubens
+o sy selbs erkennent / Das die Sun dreie/
+Darumb die thuffell nit habend vßtriben Das
+sy nitt glauben gehept / Dan (welches fuͤr vns
+ist) Sy die wortt / der vstribung gebrucht haben /
+Iro geput dir Inn dem namen Jesuwelches
+ein wort des gepots ist / vsß dem nund Chist
+In minem namen werden sy die thuffell
+vstriben / Marti am xij ͦ cap: So sy nun das
+Isser wortt gebrucht haben / vnnd nuͤdt dester/
+ner das vsßtrben geworget hatt / so volheit aber
+Da sy sprehend
+Das Ir red nitt grind hatt /
+Das vsser wort bringt mitt Im / Das es bitett
+vnnd verheißt/
+pfarrer vis.
+Iff Inzug vnnd verantwurtung vnnser/
+Mitbruder / Ist mengklichem wuͤssend Das ob //
+gotwill wir Christi sind / vnd singesin bagerend
+vnnd darumb von sinem wort riden weren /

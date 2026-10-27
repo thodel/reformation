@@ -1,34 +1,34 @@
 # Seite 327
 
-93
-ia
-Die dritt Ihlussredi
-wistheit, vnd was Er levt, das das vnser wiszheit gije,
-Cann ad Colossenses. ij. Iustm. sundall thuij der
-wistheit gottes, das fst, Alles das vns mich vnd not Ist
-zu wussen, zum heil unser Oelen, finden wir In
-Christo, der maßen, das alles, Co vsserthill der wisst¬
-heit Christi Ist, Es bij wie Othinbar vnd heilig
-geachtot es jemer welle, vns nitt wis noch gottsa:
-lig mag machen, vnd alle die, so den Ochaftin Chri¬
-sti, fin andre wischrit, ende zu gott gefurderen, vf¬
-tringen welten, von Christo dieb vnd morder ge¬
-nampt, Johannis po. Darumb ouch der vatter, Junij
-Zuhoren gebotten hat, Mathei. xvije. Er ist ouch
-unser gerechtikeit, Dann diewil wir, mit rechtge¬
-stheftens vhrichten konnen, von weegen unser verderb:
-ten natur, Ouch niet halten das gott van uns vordrot
-welches ein ferklicher by Fm. Salbs erfart, So volgst
-das die scherpfe der gerichtikeit vnd gericht gottes
-vns ersthreckt vnd verdampt, Anzogt, das min
-der geruchtikeit gottes gnug beschache, dat gott der
-vatter, vsl. tieftem grund omier gnad, binnen Oum
-gesandt, das Er waer die gerachtikeit, losggelt, vnd
-Erlosung dero, So gottes barmhertzikeit vertruwen,
-Colicher gnad vnderpfand Ist Christus, Ad Roma:
-nos. viii. Co gott mitt uns, wir wil wider vns,
-Das Ex aber gott mitt vns heb, vernamen wir
-darus, das Er gul. eignen Anni nitt versthonct
-Ounders den, fur vns all gaben hat, wie mochten
-Es bin, das Er nitt alle ding, vns mitt Imno gabe
-war wil die vser welten gottes besthuldigen,
+4
+2
+Die datt Schlusfndd,
+wischrit , vnd was Erlert, das das vnser wischrit sie¬/
+Dann ad Celissensis ii Jnei sindatl Schaicz die
+wischiit gottee / dis sst / allis dis vns mtzond irt a
+zu vusten zun hal vnn de fundn i n
+Christo, der masen, das allis So vsserthill der nist
+hrit Christi Ist Eo vir wie Schinbir vnd hulicgh
+Zchtat as Jrmner mlle / Ds ntt wiß ng got
+eit mig michen vnd ille die do den Schefein Cer
+sti ein ndru nischrit i zu get zfuͤrdion/ vf
+trungin motin vm Christ das vnd maͤderge//
+pt Ichamius Darumb aich der vetter, en
+zu horen gebotten het, athri pvii: Er Ist ouch
+onsen grrichtikit, Dunn dumil wir mit riechch
+schffins vrrichten koum, n igen vnset viedich
+trn natur, Such nitt hilten das gott von vns vordrit //
+en fulich bilbe faet S. rget
+die di Schrrffe dir grͦchtekrit vnd grricht getrs/
+vns orschrickt vnd riedampt, mnzegt das um
+r gnert ie n eiste at ide
+vitter tnfftemn geund oiner gnd, Siian ban
+sent di it n
+felfung der So gottis beruchertzikrit vartruen /
+Selchen Jnd rnderffand Ist Christuis lan
+nis n gt ntto l idir vne
+Das Ee aber gatt mitt vns llb venamen wi
+dirur, dar Er sinem eignen Sun nitt verschonpt,
+Sunders den fuͤr vns ill gaben hat,/ vir moͤchte
+Es Sin, das Er nitt alle dung vns mitt Jm gal//
+wir wie die vhermilten gettis bischuldigen,

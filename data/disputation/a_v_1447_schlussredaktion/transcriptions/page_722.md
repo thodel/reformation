@@ -1,33 +1,31 @@
 # Seite 722
 
-30
-Die viii. Chlussred
-bucht vnde tringt, So wirdt nitt anderst erfunden
-dann das die, So fey Othon wider hand, Erlich vnd
-wel laben, hier zu georduot mogen werden, welichen
-bruch die Brecimoch hutt bij tag haben; Es wirdt
-ouch de hemer harfur bringen, mitt offen barer
-Othrift, das dehem Mostel, nach dem fr Chri¬
-stum erkendt, ouch kom Priester, mitt verwilli¬
-gung der kilchen, Ein wil genomen hab, Cas
-Ist ouch nitt min mein nug, das man allein fun¬
-ge zu Gisthoffen musste ordnen, als In miner
-voor ingefurten Red, zum teil anzoigt wirdt, Bij
-dam andren blib Ich, wie Ichs vor Ingefurt hab,
-Meister Vlrich Zwingli
-Onanias het betrogen, und de hem gelijbe brots¬
-en, dann Er hatt de hem gelijbe gaben, Das Reimi¬
-kett niemand abgeschlagen werd, vermeinet Chri¬
-stus gul., da Er opricht, Mathei. xviije. Es Ist
-nitt Jederman des vande sig, das Ist der Remikeit, Das
-vns gott nitt versuchen lask, oder angefochten wer¬
-den, vber das wir vermogen, prima ad Cornithios No.
-Dient vns, dann vns gott nitt wil zwingen, zu
-Duijgen, die vns nitt gaben sind, Onnders Er
-Zoigt allwag em vsgang, durch den wir tragen mo¬
-gen, darumb het Erde te gaben, Das niemand
-In der brunst, zu vil versucht werde, das ƒ uier zich
-Salbs vor Erindren solle, lassen wir nach, In dem
-gesthaft des Ruangelij, vnd In allen anfachenden
-Monsieur
-dans le
+zod
+Owiij/ Schlisßred
+eicltond trunge / S nndt aitt ndeist orfunden //
+dann das dee S fey Schon nilee hand/ Erlich vnd
+wol laͤben, heerzu geordnot moͤgen werden velichen
+bruch die Creei , noch huͤtt bytag haben, Es wirdt
+ouch deheiner herfur bruggen, mitt offenbarer
+Schrift, dag dahein Apostel, naͤch dem Er Chri ¬
+stum erkendt, ouch krin Priester, mitt verwilli
+guig der kilchen, Ein wib genomenhab, Das
+Ist ouch nitt min meinnuung, das man allein fum¬
+Ir zu Crischoffen nuͤste ordnen,/ all In miner
+vor kugefuͤrten d, zuutril anzaigt wirdt, d
+dem andern blib Ich wrir Jchs vor en gefuͤrt hab/
+Mristnn Olrich zmngli
+Nnnmas get litngen, vnd digem geils lis
+en, dann Ee hett dehein geluld gaben, Das hleini /
+wett niemand abgeschligen werd, verneinet Chri/
+stus gaͤlbe, da Er Spricht, Mathei xviiii: Es Jst
+nitt Eederman das vathig, das Jst der Leunkrit, das
+vns gott nitt vorfuͤchen laͤst oder angefochten wer ¬
+den, vler das wir vermogen, prund ad wrunthurg//
+dient vns, dann vns gott niit wil zwingen, zuͦ
+Dingen, die vns nitt gaben zind, Sunderb br//
+zeigt allwig ein vsgunh durch den wirtraten ma
+Jen, darumb het hedie Ee gaben,/ Das niemand
+In der brunst zu vil verfuͤcht werde, das Einer sich
+s ills vor hindren golle, laͤssen wie nach , In dem
+geschaft des fuangllij vnd Jn allin anfachenden

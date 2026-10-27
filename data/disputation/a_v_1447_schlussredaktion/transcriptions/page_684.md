@@ -1,39 +1,37 @@
 # Seite 684
 
-d'attenteil
-men werde
-ten wird
-er, vnd
-moment
-4
-215
-291
-Die vii. ende plus bord,
-komen, wie ein dieb In der nacht uij, Carumb Ich
-hie, bij dem blossen text bliben, Ob mir aber ein
-glos wurde notturftig bin, wuwe Ich by dero bliben,
-die Indrijen trillen der welt, Als In Xsia Mrica
-vnd Europa, ob den tusend Jaren, gebrucht Ist wor¬
-denn
-Eerchtoldus halber,
-Der Schulmeister klagt Sich, Einer glos wer den
-Opruch Pauli Ingefurt, So doch mit anders, weder
-die eijgenlichen wort Pauli, mitt frem natürlichen
-Sinn, allen geschrifften gemäß, harfür getragen
-sind, wirdt solichs erkennen, fin Jettlicher christ.
-licher laser, Das Fr vom tag des herren, harfur
-bringt, Is Sije eius jertlichen absterben, vnd pro¬
-biert es mitt Paulo, xrima Thessalonicensium
-v.o verfrret fr gich Datbs, Dann Paulus von dem
-Jungsten tag diselbs redt, wir wev verstand durch
-Een tag des herren, den tagt darinn vns gott bewout,
-heimsucht, vnd offenbar machet, wie wir erbuwen
-sijen, Dann In dem abstheid eius getlichen, wirt
-nitt Jederman offenbar, wie Er ein werck gottes
-Oijz, Bo aber der herr, vns besucht mitt dem Cruch,
-So werden die gedancken unsers herzen vfgethan,
-Hiemitt dienst der Opruch, ganz und gar mit
+nd
+ml
+sed
+meens
+6
+2
+cg
+Die vij Schlusbred,
+Eimn, wie ein dieb In der nacht it Darums Ich
+hie, by dem blossentept kliben / Ob mr aber ein
+glos wurdr nottrirftig bin,/ wurde Ich by devo lliben,
+Die En dryen toillen der welt, Als Jn Eesi Africa
+vnd Eukopa,/ ob den tuͤsend tiren ggebrucht Jst wor¬
+den,
+Cerchteldug haller,
+er Schilmeisen kligt Sch, kure geit dir den
+stich dinl Jngfirt Sodich uit indirs , nnader
+die eygenlichen wort tnuli mitt Erem natmnlichen
+zu allen geschrfsten gemaͤß harfur getrigen
+sind, widt zelichs erkennen, Ein Jotlicher christ¬
+licher lasor, Das Er vom tag dis herren, harfur
+bringt, Es Sye eig Jecklichen absterben, vnd pro //
+biert es mitt Paulo, prina thissalonicrnsun
+va vorfret Er gich Salls, Dann Paulig von dem
+fungsten tag diselbe redt, wir aber vrstand dunch
+den tag dis herren, den tatt darum vne gott bewirt /
+hounsuͤcgt, ond offenbir nuchet, wie wir atbuwen
+open, Dann Jn dem abscheid oins Jetlichen / wirt
+niet Jederman offonbar, wie Er ein martl gottes
+or Do aber der herr vns brfuͤcht mitt dem wrucz
+De warden die gedancken vnfurs hechen ufgethin //
+Hiem donot der Sprich, ganundgar mit
 zum fagfur,
-Johannes buchstab
-Ich blib binn hebben text,
-fait une
+fohamrs buͤchstal //
+Ich llib bim hallen teyt,

@@ -1,30 +1,30 @@
 # Seite 311
 
-Die ander Chlussred
-gestan Ich nitt, vnd bo man sagt, das die vnderstheid der
-tagen vnd Opisen, bijen des tijfels Catzung gesin, vnnd
-bringt brouijden Spruch Pubi ad thimo. am iiij.
-vff den andtwu't Ich, das derselbigen Spruch nitt Sagt van
-der christenlichen kilchen, als da clar vor text amougt,
-der dit Opricht, Der geist vagt aber offenlich u, das op
-witt von der heiligen christenlichen Kilchen, dann si
-wirdt van dem heiligen geist geregiert,
-Martinus Buczer,
-Darumb so volgot, das disens die christlich kilch, mitt ging
-mag, die Vlicks gebotten het, vnd wil vch ein klaren Ei¬
-logismum, vsz. den worten Pauli Cegen, Welich die
-fe vnd Oxis verbieten, sind van glauben abgetretten,
-vnd bringen tijfels lec, die Concilia vnd prelcten, So Ir
-fur christlich kelch zellen, haben Op is vnd te verbotten,
-darumb Oi vom gleuben afgetratten, vnd de hein
-christlich kilch gewesen,
-Alexius grad
-So man Je der Kürge der Red begaet, In der 60 Othw:
-ren bach, So wil Ich kurzlich, vff die Red Martini
-buijers, also andtwurt gaben, Das die Oagnugen der
-heiligen christlichen kilchen, die de ginde von abbruch der
-Opiss, der fe, der fest, vnd ander derglichen, von der
-heiligen christlichen kilchen gesagt, nitt sind Sagnu¬
-gen der vngloubigen, noch der Lüfel, Sunders In der Schrift
-In gemein, fur gijt gehalten, vnd durch die christen¬
-lichen kilchen, oft zitten, personen, verminstenklich
+Die ande Schluͤssrid/
+gistin Ich niet / vnd So man eigt, dar die vndasten dn
+tagen vnd dpisen Syen des tifels Saczing gesin/ vnd
+brangt henzei den Shruch Jubi ad chimo / am ini
+ff den endtmit Ich die desellit ich nitt last
+der christenlichen kelchen, Als di clarder teyt aminder
+der da Opricht, Der geist Sagt aber offenlichn, dass
+witt von der heiligen christenlichen kilchen, dann de
+wirdt von dem heiligen geist goregiert,
+sartinut buczer,
+aruins di veget dis disans die christlich kilch nige
+mag, die Slichs gebotten het / vnd wil uͤch ein klaren Si
+logsunum vss dn warten Pauli Satzen / wilich die
+Ee vnd Spiß verbieten, Sind vom gloͤuben abgetratten/
+vnd bringen tüfels ler, Die Concilia vnd Proltten, So sJe
+fuͤr christlich kilch zellen, haben Spiß vnd he vetbotten /
+darumb Si vom glauͦben abgetratten, vnd dehein
+hristlich kilch gewaͤsen,
+Llecius grad
+Do min Ji der kurge der Ind ligatt endir Ss Schin //
+ron dach, S wil Ich kurclich, vffdie hed artim
+ouczers, also andtnuͤrt gaben, Das die Sungen der
+heiligen christlichen kilchen, die di sind vou ablruch de
+Dpiss der Ee,/ der frst, vnd ander der glichen, von der
+helligen christlichen kilchen gesit, nitt eind Sazum/
+gr de vngenecgin, nics die Cufte Sundire In dir deit
+In gemein fuͤr guͦt gehalten, vnd durch die christen
+lichen filchen vff zitten porsonen, verminftintlch

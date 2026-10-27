@@ -1,29 +1,29 @@
 # Seite 700
 
-299
-Die vii. Ablusschen
-von den abgestorbnen wisen, oft das Ir nitt teuren
-Paulus legt hie vs die vostende, das wir nitt also
-Collen truren vmb die todten, als die heiden thijten
-Die nitt glauben die vrstende des lits, vnd verbij¬
-tot nitt, das man fur die abgestorbnen, nitt rolle
+n/
+Dr vij. Schlussred
+vonden algrstorlnen nifen, vff das Jr nitt trucen i
+Daulus legt hie vs die vrstende, das wir nitt also
+soͤllen truren vmb die todten, als die heiden thaͤten
+Die nitt gloͤuben die vrstende des libs, vnd verbuͤ¬
+ot nitt, das man fuͤr die algestorbnen nitt coͤlle
 betten,
-Voochtoldus hatter
-in lange Red, aue sthrift haven gefurt, bedarft
-dehenier andtwurt, Paulus verbijtt ad Thessalo:
-nicenses, en unglaubig teuren, deren die de hem
-hoffnung haben des kunftigen labens, Eiewil
-aber wir gloubden, das Christus vom toderstanden
-Ist, vnd wir In Christo werden vforstan, vn d
-also bij dem herren zijn alle zitt, So hollen wir
-vns mitt disen worten, vnder en andren trösten,
-wie Christenliche liebe vordrot, Douerr das wir
-nitt In unglauben fallenn, vnd Ist dirmus nitt
-wider die Exempel, durch den Schulmeister an:
-gezogen,
-Johannes buchstab,
-Die hoffnung, van dero Paulus hie sagt, tst de:
-nen So Rm. fag fur sind, nitt abgeschlagenn,
-vnd Ist her Berchtolden In gefurte red, gar mit
-wider mich, dann wir hoffnung haben, darumb
-wir fur Sibitten, ende zijen der verweltenn,
+chrichtillus hallor/
+ri lart deid / aur Scgrift ham grfuͤrt, eddeft
+Daheier indtwonet, daulus verlutt ad Cbrssalo¬
+nitenses, ein vngloͤuͦbig truren, deren die detein
+ffeng birn die kunftign liling Coniet
+ein vn tlaulin, dae Cristus vom ted restanden
+ist vnd u en Christi nedir frstan / vnd
+asi edan griien in all zet S. dellin un
+nre uet disan worten / vndererunndeen tresten,
+wir Christenlichr e vdiet Siner das v
+nit in onnlouben falle, vnd est darnub nitt
+roider de knnien duch den Schulaistir am/
+gezegen,
+Jrhinnes buchstab,
+hiffnuig nder Pulie hrgigt / ist de
+nan Se sein Jagfuͤrrind, nitt abgeschligenn
+vnd Ist her Berchteldin Ingefuͤrte rid, har mit
+wider mich, dann wir hoffng haben, darumb
+wie fur Silitten, Si gen der vßserwiltenn,

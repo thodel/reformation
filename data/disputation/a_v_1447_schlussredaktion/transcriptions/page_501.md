@@ -1,36 +1,35 @@
 # Seite 501
 
 vff
-47
-Op
-bedurtt dagen wir Das das lamb sich selve int
-beduen kond/ Es was ouch Das Jeclich fest int
-Jnpesetht zu gedecktnuß eins lames, sonnders zu
-gedechtnus der Griptischen, erlösing exo: xvi capi
-Daran over woll mogen mercken, Das alles
-wenn, Das lam sin selbst bedutnus was, sonders
-Allso evenig
-Der Emptstehen erld'sung
-ist der lichnam Christi ein gedechtnus des
-lichnams Christi / Somder wie das lam ein
-osser Zeichen, Inn der gedechnuß vnnd Danck¬
-sagung der Amptischen erlösung, ein bedurnt zechen
+2
+bedutr Digen wr Das das lanb / sich sebs ig
+beduten kond / Es was ouch das jerlich fesen ni
+Ingesetzt zuͦ gedechtnuß eins lambs / sonders zuͦ
+gedichtnus der Eeuptischen / erlosung wxx: xl vi ca
+Daran wir woll moͤgen mercken / Das alls/
+wens Das lam sin selbs bedurnus wis sonnders
+Allso wenig
+der Egiptischen erlaͤsung
+ir deblichrnni Efzuso ein gedeichins der
+lichnams Christ / Sannder wie Das lam ein
+vsser zeichen Inn der gedechnuß vnnd dane //
+sieung der Coptischen erlising ein bedurent zeiche
 was In welchem sich die kilch das ist das
-Welck, IJzrahell, gegen ein andern offentlich vfft het
-Selso ouch Inn der Kilchen Christi. So die
-Dancksagung der hellischen erlösinnen begangenn
-Das brot vnnd der win darInn
-wirtt.
-harumb getragen vsschlichen bedijven vnser
-Inners vereinbarung des glaubens, durch den
-wir durch een toe, Christi Jesu vereissen sind
-vnd statt aelso noch vest. Das ein gegen wur
-tig Dins, mitt ein gedechtums oder bedutnuß
-sins selbs sin mag.
-Pfarrer v. s. g.
-Das Das brot vnnd win, söblichs allein sie
-bekennen over nochmaesz int verlassenn
-vns also vff vnser ingetragne erklärung so
-(wir villecht wijters In anjoiging Irer primo
-mitt der gnad gottes entschliessen werden
-hovingli
+volck Israhell / gegen einandern offentlich vffcze
+Allso ouch Inn der kilchen Christi / So die
+Damksagung der heillischen erloͤsung begangenn
+Das brot vnnd der win darium
+wirtt:
+harumb getragen vsserlichen beduten vnsere
+Inere vereinbarung des gloubens / durch den /
+win duh den od Christi Jesn verlissen sud
+vnd statt allso noch vest / Das ein gegenwir
+is dus nit ein gedergnnus der bedurnst
+sins selbs sin mag¬
+Pfarrer visg
+Das das brot vnnd dom / sellchs allein su
+bekennen wir nigmalß nit verlassenn
+vnd also vff vnser ingetrigne erklaͤritag so
+wir villicht Cryters / In anzeiguig Irer grund
+mitt der gnod gottes entschliessen werdtn
+zwingli

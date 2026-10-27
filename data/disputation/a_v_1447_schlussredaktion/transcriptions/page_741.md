@@ -1,31 +1,30 @@
 # Seite 741
 
-Cristenleche Religion, zucht, glauben vnd leben, vil
-anders, nach dem wort gottes gestaltot, dann bisthar
-von Rommischer Kilcken, Bapstlichem gwalt vnd Re¬
-giment, von allem verwantem geistlichem stand
-gelert vnd gepredijst Ist, In der gemeind, Eer ma' s:
+Cristenloche Jeligion, zucht, glouben vnd laben / vil
+andert, naͤch dem wort gottes gestaltet, danm bischar
+von Jömischer filchen, Capstlichem gwalt vnd Je¬
+giment von allein vorwantem gristlichem Stand
+t v nd nd gemnd Der mis
 sen, das wir nitt allein, von Christenlicher warer
-fromkeit, und gottsalikeit, wgefallen In alle laster
-sunder mitt mentsthen botten Rechnungen vnd gut:
-duncken, ouch verwanten gotsdiensten, Ceremonien
-verdiensten mitt gelt kouflich, fur libendig vnd
-todt, Colicher masz verstreckt, verwixt, beladen, vnd
-In ein ellende veraltote gewonheit gebracht, das
-das leibendig, ewig warhaftig wort gottes, vnder
-uns Christen, Als frombe und vnbekant, Ja Irrig
-vnd verfuristen, In anfang bij manchem geachtet
-Ist worden, Ouch hiemitt alle gotsforcht, vnnd
-ware unsthuld des libens, nach den botten vnd ver¬
-botten gottes, von Jungen und alten, ger mit geich¬
-tot, Hierumb wir, billicher vrtil gottes, grosser
-ersthrockenlicher traf wel wirdig, Diewil aber gott,
-das liecht, fu aller unser bluitheit, die warheit,
-In mitten vnser Othwaeren fothumb, die gnad, In
-mitten unser bostheit vnd abfal, als ein getruw
-er langmutiger barmherziger gott vnd vatter,
-gesendt het, geburt uns, Soliche gnad nitt vE zu¬
-schlachen, mitt undanckbarkeit, O under mitt gros¬
-In is sein ernst anjunaem en, mitt allein mitt reformation
-der verwanten gotsdiensten, welichs dann vch
-gunstigen wijsen herren gebuijt, Nach dem Exempel
+fremkiit vnd gattselibrit, Agrfallen In alle listes
+sunder mitt anentschen botten Satzuͤngen vnd zut/
+dunclen, ouch vorwanten gotodinsten , Coremomen
+nusten mt ziet Cenflich fu libndig nd
+dt Sdern rusnastr aen lrdn, vnd
+en ein ellrnde varaltote hewonheit gebricht, das
+das lebendig ewig warhaftig vort gotteb, vnder
+vus Christen / Ale frimld vnd vnleknnt ti trrig
+vnd vorfuirischcin anfang by monchem grichtet
+est worden, Drach harmtk allr grfircht vnnd
+mmen vnsczld d ldeins, ich din ltrn vnd vor
+kntin ge vn tig nd en g nit grich
+r iche atrl ntes grissen
+erschrockenlicher Straf mil virdeg, Diewelaber gott /
+das Circht, En aller vnser blintheit, dier warhait/
+en ten ensir shwren fichnb, die gnnd, tn
+mitten vnser boschrit vnd alfal, Als ein getruͤr /
+er lingniutiger barmherziger gott vnd vitter/
+ndi
+sriche nt vndumlbickte Sundi mit guist
+d v wunten gtedanste, vnlicho dum oc
+zunst en vsen Eernin gelitt / Nach dem Eremce

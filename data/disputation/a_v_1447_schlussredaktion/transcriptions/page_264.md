@@ -1,49 +1,48 @@
 # Seite 264
 
-le 1er
-ein
-der Ew.
-ckeit
-al ich by
-bey Im¬
-Sijnach
-welche
-l min de
-evend
-die Eine
-wegens
-gleich
-lich
-(10)
-107
-Die erst schlußred
-wirst sin, sin mund In Denen dingen, Die gott
-zu geboren. Disen fijgne wirt erfult In Christo vnd
-pero Das ochll ick bewaren vss dem hebbsten, Fuan¬
-da gott der
-gelisten Luce am xxii cap:
-her hatt gesprochen/ Oijmen, sermen, min
-war, Gachauas hatt vijff ernerekt vff Das
-er vch rüterte, wie den wetzen, we¬
-ick han fur Dich pettenn, Das ein gloub mitt
-Hie hend
-fall vnnd Du ettwan bekent ende
-hier offenbarlichen wis hoyses ein obrester verstin
-Der Smaffs gegen gott Dem allmechtigen, Als
-onch Christus Das werst houpt ist, Dat
-Hantzen Christenheit Inn Denen Dingen die da
-Namlich da
-gesen gott overden verhandlot
-er gesprochen hatt, Er well fur In pitten, Das
-sin glens nit vffger. Petrus aber wirdt ver¬
-ylicht vnnd verstanden, Durch den priester
-Haxenem, dan wie dem wegen empfelen
-was, Das Jssrahelisten volck Dircwijll Moijtes
-gien vff den Berg Mynaij mit gott dem
-allmachtigen gereden
-Elso hatt Christus
-doch empfolen dem heilligen/ Sant perco fur usz.
-Das er sollte sin ein verwaser, des volcks vnd
-verbringen, Das ampt pott des hern So er het
-gesprochen, bestättige Dins bruder
+vun
+It ge
+wei
+eih
+en
+syc
+al
+mad
+attd
+e
+vegnn
+gi
+rs
+Bo
+1o
+Die erst schlißred
+Crstsin / sisund in denn dugen / Die gat/
+zuge se w e n n
+gerds Das wes ich bewiren vsß dem heillgen fnan //
+Da gott der
+gelisten Luce am xvii cap:
+her hatt gesprochen / Smnon / Spmon / nan
+war ems a v die
+er uͤch rutert / Wie den watzen / Dotr
+ich hin fur dich petenn / Das din gloub nitt /
+Mie hend
+faͤll vnnd du ettwan bekert /nc
+Par ofenliain we a isie en wrster gsan
+Der Sugs gesen gett dem allmechtigen / Ago
+ouch Christus / Das oberst houpt ist / der
+gaten hristenheit Inn denen / dungen dieda
+Namlich da/
+gegen gat / werden verhandlet /
+er geserichen hatt Erwer fuͤr In putten / das
+sin glous nit vffher Ppstrus aber wirdt ver //
+glicht vnnd verstanden / Durch den priser
+Baronem / Ddan wie demselbgen /empfllen//
+wie Das Isragelsch we iewl Ssen
+gieig vff den Berg / Rchyvay mit gott dem
+allmechtigen zereden /
+Allso hatt Christus
+ouch empfolen dem heilligen / Sant Perro / kurust
+Das er sallie sin ein verwaiset / des volcht vid
+verhrigen / Das ampt gott des hern / SSo er het
+gesprochen / bestattige dine hruͤder /
 Berchtoldus

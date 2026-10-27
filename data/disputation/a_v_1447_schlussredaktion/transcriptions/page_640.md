@@ -1,32 +1,31 @@
 # Seite 640
 
-andren
-hast
-from
-2d
-271
-Die vi. Schlussred.
-Meister Vlrich zwingli
-Das wort Christi Johannis xvije. lutot mitt van den
-Saligen, dieusserthalb diser zitt sind, verlass mich
-vff die wort Christi,
-Egidius muur,
-Dat Christus gebatten, Das die Junger hie uff
-Dertrich, een ding mitt fin. sijen, xiuer gulden
-vnd geists hatt, vil mer sind die vfer welten
-heiligen Am. himel, ein ding mitt der gnad vnd
-geist In Christo, vnd also mogen Ei ouch, wer:
-flussiger fur vns bitten Fm. himel, dann die 60
-hie vff ertrich sind, Oann der Prophet Oude
-Ithribt Psalmo. xxxj.o von nachlassung der Oünd¬
-vnd darnach, fur die wirdt bitten ein getlicher hei¬
-lig, In der Zit, So es geschickt oder zimlich wirdt
-sin,
-Meister Vlrich zwingh,
-Von der einikeit wer, Redt aber hie Christus nitt,
-Ounders van dero, die den mentsschen zimpt, hie
-In disem zitt. Der Psalm Ist nitt wider uns,
-Dann Sanctus heist ein heiligen, das Ist, Ein
-glönbigen, oder gottsforchtigen, die werden gott
-zu frer zitt bittenn,
-Tgidius muwer
+een
+his
+3o
+25
+Die ij Schussrd/
+Mrister Clrich zwingln
+cas nott Cristi Johnus xvij : litet nit vm dm
+Caͤlegen, die vsserthils diser zut sind, verlisß mich
+off die nott Christi
+Egndine murar¬
+a Christur geetrn, Die de tunigee iu uff
+octrich ein drig mitt en opon, giuergnaden/
+vnd geisto hall, vil mar bind dee vferwelten
+halihen sfu zmmil / rin duh mitt drgnd vnd
+grist en Cristi / vnd also mgen di uch vber¬
+fliseger fur vns bitten in zeni dann dir b.
+ufe rnd Dunde chit dund
+Sn si i ennesuden dand/
+vnd darnach, fir dir wndt bitten oin tolicher hra/
+li n di zt s eschlt den zuilich mt
+sin
+Criste Derich zugli//
+en die runnkret abir eadt aber hie Christus nitt,
+Sundere vndero, dier deg nrntschen zunpt, hir
+zu disamn pt e sfalin ist utt rider vns,
+dann Sanctus heist ein heiligen, das Ist / Ein
+gloͤubigen, oder gotsfoͤrchtigen, die worden gott
+zu Jrer zitt battenn
+Cidrug murar¬

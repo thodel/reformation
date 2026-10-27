@@ -1,4 +1,4 @@
 # Seite 84
 
-ten
-pott
+end
+get//

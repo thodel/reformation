@@ -1,29 +1,29 @@
 # Seite 697
 
-Die vii. Schlusbredi
-cab dat nitt konnen beschriben, was In hundert oder
-zwoijhundert faren nach Im. beschicken Ist,
-Berchtoldus heller,
-Obles das der Othulmeister harfür bringt, bewaert
-de hem fag für, Das bestatten ondr. klagen, So Er vsz.
-dem alten testament, harfür bringt, Ist mitt lesthich
-en, die Oelen darmitt vsz. dan tag für zuerlosen
-wie aber von unsern todten diensten, furgaben wirdt,
-Ounder Ei sinderlich bestattot, damitt freu nachkom¬
-men, In dester Stadter gedachtens ware, die verheis¬
-sung den vattern beschicken, oud sind viel mer be:
-sthichen, umb der libendigen willen, dann vmb der
-todten willen, vnser todten dienst aber, Ome mit
-anders, dann beschwerden der Ormen, vnd zugnis
-enis vngloubens, wir tflachen aber hiemitt nitt
-ab, das man einen Jeden Christenlichen mentstheim,
-christenlich vnd zimlich, aue allen bracht, begrabe
-Das Er von den Apostlen harfurbringt, Si ha:
-ben de hem Jarzitt begangen, darumb das Oisten der
-gangen welt, harumb hogen sijen, das Ruangeli¬
-nen zu predijen, Oagen wir darzu, wo ein fagfur
-ware, vnd den Oelen mochte van vns, darus geholf:
-fen werden, aue zwijfel die Apostel, hatten es gelert
-vnd geprediget, Ob Ti Othon Is Oelbs, niet hatten
-halten mogen, Cas widerspil erfundt sich wer, bij
-dem heiligen Paulo, prima ad Thessalonicenses. iiii
+Di vij. Schlusbred,
+cas hat nitt konnen beschriben, was Jn hundert eder
+znͤghuͤndett faren naͤch En brschaͤchen tst
+Brchteldut hallar
+Pllre die dee Schaͤlmuistir grefit honigt / baneit
+Dchem figfur, s bestiten vndkligen, So Er isß/
+dem alten testament harfur brungt, Jst nitt leschaich/
+en, de Selen dagmitt vsß dem faͤgfur zierlosenn /
+wiie aber vnn vnsorn todten dienisten furgalben wirde //
+Dundir Se eind arlich bisttitn damitt tranmcgem //
+mert Jn dister Stadtr gedichnis waee, die rochei
+smg den vaͤttern beschaͤchen,/ vnd sind vl mer Er¬
+schichen / vmb dir lebendigen wlen, dum vmb der
+tedten willen vnsir tedtrn dernst aber, Snnd nit
+anders dann beschwerden der Crmen / vnd zuͦgns
+enit vnglaubens, wir Schlachen aber hamitt mtt
+ab, das man einen Jeden Christenlichen mrntshenn,
+christoulch vnd zuitich, aur allen bricgt bignelr
+DDar Er von den Apostlon harfuͤrbeungt, Si ha:/
+kin dehein tnel bigangen, darun die Si en dir
+gnzon wilt, harumb zeigen bien, das hungeli
+nin zupredien, Sagen wir darz, vn ein tagfur
+veere vnd dan Selon inochte von vus darut trhalt¬
+fen werden, aue zepfll die Apestel , hettenes gelott
+vnd gepredthet, So S. Schon Eo Salbs, niatt haͤtten/
+holten migen, Das widerseil erfundt Sich aleg by
+dan huligen Iulo, pninsd Hastilomensaium

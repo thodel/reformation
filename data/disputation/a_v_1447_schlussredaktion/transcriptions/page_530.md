@@ -1,43 +1,42 @@
 # Seite 530
 
-19 b
-ligkeiten
-M4
-derkant
-Christus
-lich be
-maje
-7th
-5 februari
-Cwelland
-& per
+g
+ase
+d
+pen
+ers
+si
+mls
+nd
+we
+wel
+er
 4
 220
-Die 4. Slussroe
-Eer bleib Je liblich vnd sichbarlich bij Inen sitzen
-so hatt er nitt zeven leb gehept, das der ein
-Im brott were ijsin vnd der annder het das
-brott dargerenchet, so hats die warheit des
-monstlichen lijbs, uit mogen exleden, das er zu
-mall ein monstgenher lijb vnd ouch brot gewesen
-ware, zu dem so zest diser gegenwurff an
-"st was
-allß ob vnser bruder hielbrent das wir anders essen
-Im nachmall Dan die Junger geessen habenn,
-Das wijter fur geworffen ist Christus sie
-eins mit dem vatter Darmus mogen er woll
-sin lijb„ drafft der worten des nachtmalls
-was bblichen v/ theillen Im brott dijz schlussv
-mitt Dan wie woll der gethen nach Chri¬
-Aus mitt dem vatter ems ist, so blixt doch
-sin mousthet ein ware moustheijt mit der
-getheijt vuurmisteert
-vnd sin leb ein
-warer monstgeicher lijb. Dornuw so wirt
-Er nach art des moustglichen lijbs mir an
-ein ort sin mogen, Sin lijb ist woll (alles sy
-sagen, Caro Verbi, ein fleisch van wort ange¬
-momen. Wer noch dennocht ein war fleijth
-vnd doruff bestat: vnsere hoffnung Das sich
-vnser fleissen, in der vnsterblicheit vnnd
-saligkeit, Ine sinem flaesten gluch werd, die¬
+Die t Lußred
+er bleib Je lillich vnd sichbirlig / hy Inen saten /
+so hatt er nitt zaen lyb gehept / das derein
+Im brott were gsin / vnd der ander het das
+brott dargereichet / so hats die warhet des
+moͤnstlichen lybe / nit mogen erliden / das er zu //
+mall ein menschlicher lyb vnd ouch brot geweten
+waͤre / zuͦ dem so zeigt diser gegenwurff an
+ale ob vnser bruder hieltent das ir anders esen ptwal
+Im nachmall / dan die Junger geesen habenn //
+Das wyter fu geworffen ist Christis sie
+eins mit dem vatter / Darumb mage / er woll
+sin lyb i n Drafft der worten des nachtmalls
+vns lillichen vßßtheillen Im brott diß schluͤsset
+nitt / dan wie woll der gotheit nach Chri
+stus mitt dem vatter eins ist / so blipt doch
+sin moͤnscheit ein ware moͤnschet mit der
+gotheit vnnermischet /
+Vnd sin lyb ein
+warer moͤnschlicher lyb Dorumb so wirt
+er nach art des moͤnschlichen lybs / nuir an
+eim ort sin mogen / Sin lyb ist woll ( alls sy
+sagen / Cico verd / ein fleisch von wort ange //
+nomen / Aber noch democht ein war fleisch
+vnd doruff bestaͤt vnsere hoffnung Das buͦc
+vnser flaisch In der vnstelichent vnd
+salgkeit / ne sinen flasch glich werd / die //

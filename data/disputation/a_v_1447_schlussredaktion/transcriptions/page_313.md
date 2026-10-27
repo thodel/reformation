@@ -1,31 +1,31 @@
 # Seite 313
 
-Die ander Schlussred
-am. iii. cap. Das fittlich, die van glauben abtratten u
-nitt sollen geacht werden, Lufelsth Statuta, So doch
-die genanten werck, vnd vbungen, In der Schrifft gut¬
-genant Kind, Ob Si Othon, von der heiligen christen¬
-lichen kilchen, vmb der Ordnung willen, vernunftentlich
-gesagt vind, nitt zu beschward der gehorsamen vnd der
-guten, Sunders als gutlich zrachten ist, vmb mich
-vnd fürdrung zu dem guten, ufgesagt Ist, wann
-Si weist wol, das der geracht, nach der meinung faulti
-nitt Est vnder dem gesagt,
-Martinus buijer
-18
-Diewil Aanctus Paulus, was haben wirdt, das
-tijfelsch leren Sijen, Op isz vnd Ee verbieten, So wirdt
-dehem christenlich gemeind, volichs niemer mer
-furnamen, So Ist aber vorgesagt, das die christen
-frij witlig, vasten In gemein vande sunder, heben,
-harzu ermanot Paulus an Ingezognem Ort, wer
-das vom fleisthessen, der bichtvatter Ingezogen hat
-wirdt noch langt nitt bewaren, das die kilch, fleisch
-sessen verbieten mogt, Gott der herr aber, hats verbotten
-wie ouch wintrincken, wo der nächst dadurch geergrot
-wurdt, das Ist my glauben vnd liebe verhindert
-Sunst was da haltet, das man allerleij essen moge
-verwirdt van faulo grachtot als om starcker stm.
-glouwen, vnd den gott ufgenomen hab, lut des xiiij
-cap. zu den Romern, Die Ach dat daruff,
-fur sich Palbs, den Bruch euicher creaturen
+Die ander Schluͤssned
+am iiij. cap: Das Ettlich, die vem glauͤben altrthend
+nitt eillen gracht norden Crifelsch Schuͦta / So dih
+die genanten werck vnd vͤlungen In der Schrift i
+gmant vnd Se Si Shon von der halligen christun
+lichen kilchen umb de Sedinuch willin virmunfenlit
+gesuit vind,/ tt Iu lischwerd der gehersanen vnd der
+zuten Sunders all guͦtlich zeachten gsti oml min
+vnd figdruͤng zu dem guͦten / ofgelizt st, wom
+Di weist ml dis dir gericht nach der mring tub
+nitt kstander den gesuzt
+artinut bunzye
+6
+Dim Sintue Paulut, war hilin wirdt, das
+uf ban va wif vudse vbaten d
+dehein christenlich gemeind, Shichs miemer uag
+furnamen, Es Jst aber vorgesigt, das die christen
+fr willig vasten Jn gemein vnd vunder haben
+Daru iunait Paulur an Jngengnem dit/ Der
+Das vom flrisch isson, der bihtvrtter In geugen het //
+wirdt noch lang nitt bewaͤren, das dir kilch, flaisth
+essen verbiten ingg, Gett der herr aber, hets voelittris n
+nie ouch wantruncken, wo der nachst dedurch geiegit
+wirdt das Jst am glaulen vnd liebe verhandrtt /
+Sumst wir da hiltet das man allerlih essen nigi
+der wirdt von Paulo grachtot als ein Starckre sem
+glouben, vnd den gitt vfgenamen hab, lit das / pin
+cap In den Joͤmern, Die Sch Stat daruff,
+Jur dich Sales den bruch mcher crattucen

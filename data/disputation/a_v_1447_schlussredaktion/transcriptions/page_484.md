@@ -1,37 +1,37 @@
 # Seite 484
 
-F.T.
-Dnand
-sima
-19
-202
-Die vierd schlußere d
-am vi cap: vflent Wann wir durch een
-geist Christi, das vertruwen Inn Christum
-habenen. Es wer sunst manchem welgesagt
-Der solches trosts beroupt wer. Das soll
-auch hie vermerckt werden, das vnsere sind
-vns vergeben sind, alls das blutt Christi am Contz
-vergossenn vnnd dahin soll sich vnnser glaub
-Wir wijssene woll, Das Das
-vnnden
-blut unsers hern Jesu Christi wurdig ist,
-Onch Da Christus noch een kind was vnd
-beschritten wurde, Aber das blutt vergiessen,
-Christi Inn siner kindtheitt In der bescheidung
-Ist mitt dahin verordnet worden, vnser Conscientz
-par ze versichern Wees ouch Inn dem nacht
-mael, ob schon Das blutt, Da were wesenlich
-(Das ick nitt ryd) so ist es doch dahin nitt
-verorduort, van pott sonder an dem Orutz, Dan
-Vir haben Johannes am Dritten cap: Da der
-her van dem glouwen redt zu Nicodemo do
-bringt er In die figur des erhochten armen schlan¬
-gen In der wusse offenbart vns da deren heim¬
-lichen hatt pottes wie durch das wort des
-Trutz, wir das laben vnnd erlösing erlangen, dar¬
-zu viel gschrifft gefurt mochten werden, alls
-zum Collossen sern, in cap: Das vnsere sind
-gehofft soud an das Erntz vnnd andern ortenn
-vnnd diewijl aber, das thestamende allein in
-Idem toe erfuellt wintt, wie es klarlich statt zum
+erlic
+nan
+mnd
+1
+Co
+Die vierd schlußred
+am vj cap: vsleit / Wann wie Durch den
+geist Christn das vertruen Inn Christum
+habenn / Es wer sust manchem ubelgezagt
+ches trote bt we Das sot
+ang hr veruercfh wfrden Das vnsere sind
+vns v glen snd de e Chrisi am Cnt
+ersse n dien soe sc vnnser glub
+Wir wussend eall / Dab Das
+wennden /
+blun vnsers hern Jesu Christ wurdig ist
+on n w vnd
+beschuen wurd der das brutt vergiessen
+Christ Jnn siner kundchen / In der beschiidn//
+wrden / vnser Constn
+gi versichen aot Inn de nach
+mall / ob schon Das bauͦtt da wers wesenlich
+Das ich nitt red) so ist es doch dahin niit
+vererdnat von gott sonnder an dem Cruͤtz, dan
+Gir haben Johannis am dricten cap Da der
+her von / dem glouben redt zuͦ satodemo / xo/
+kringt ar zi die srar des Erhochten Erinen schlan
+gen / In der wuͤste / offenbart / vns da det / heim //
+lichen ratt gottes wie durch das wort des
+Crutz / wir Das laͤben vnnd erloͤsung erlangen / dar
+zuͦ vill gschrifft gefuͤrt moͤchten werden / alls /
+zun Collossensern / ij cap : Das vnsere suͤnd
+gehefft suͤnd an das Crutz vnnd andern / ortenn //
+vnnd Diewyl aber Das thestamemt allein In
+Dem tod erfult wirtt wie es klorlich statt zum

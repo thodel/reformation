@@ -1,32 +1,32 @@
 # Seite 528
 
-to
-sollichem
-219
-Die viere Sluszwe
-Dann alls er naturlich geperen, vnnd gelebet hatt, Durch
-Meister Vlrich. Luce am andern cap: angezogenn
-Allso derglichen hatt er will wirnatuerliche dinge
-Im leb gewurcket vss. göttlicher krafft vnd macht
-alls da ist die geschicht der vnßtheilung der
-funff brotten In die funff thunter Monschen
-aus das so werbeleven, Dann wie wir uss. ordnung
-gottes vnnd der natur, mit vnsern ongen die
-vils der mousthen mogen sichen, vnd mir ein
-oug ijt oder zwey, ein wort In vilen oxen gehort
-allso so wir betrachten, den so sollichs radett, vnd
-die wijl es vor der hunelfart beschechen ist soll
-Das wort er ist vffgefaren, uit entgegen sin
-Martinus Buur
-Das wir die arngkell des glaubens vor erzellet
-anziechen Damit zu bewaren. Das der
-lijb Christi int moge leblich Im brott ge¬
-essen werdenn hatt vns ouch paulus in
-Der ersten zijn Chorinchern N 2/3 am vi cap:
-zijn Chornech: Vrsach gegeben, Ja er eben
-ende sagt, das wir
-vom nachtmall vedt
-sin toe verkundigen, biss das er kome vnnde het
-Da glich woll gewusst, wie er allenthalben sin
-kan. Auch wie er Im nachtmall gegen
-Virtel. gehapt, wirt over In kurtzen so
+1
+oallichen
+2
+Die vierd Hlusred
+Dam als er uburlich gepoen / vnnd geliett hat / Durch
+Meister vlrich / Lie am / andern cap: angezegenn /
+Allso derglichen hatt er vill ubernaurliche ding
+Im lyb gewurcket vsß goͤttlicher krafft vnd macht
+alls da ist die gschicht der vsßscheilung der
+funff brotten In die funff toclifeit woͤnschen
+ans das so uͤberbeliben / dan wie wor vsß ordung
+gittes / vnnd der natur / mit vnsern oigen die
+vile der moͤnschen mogen sechen / vnd mir ein
+oug ist oder zwty / ein wort In vilen oren gehoͤrt
+allso so wir betrachten / den so sollichs reden / vnd
+diewil es ver der hullfart betlrechen ist sel
+Das wort er ist vffgefarn / nit eigegen son
+Aartius zucer
+Das lor die arigeie die geoubens vor ehellet
+anzitchen / Damit zuͦbewaͤren / Das der
+lyb Christi / nit moge lyblich Im brott ge //
+essen werdenn / Hatt vns ouch paulus In
+Der ersten zun Choͤrinchern Cep: am vjcap
+zum Chornoh / vrsach gegeben / Da er eben
+vnd sigt / das wir
+vom nachtmall gedt /
+sin tod verkundigen / bisß das er keund / vnnd hat
+Da glich woll gewuͤsßet, wie er allenchalben sin
+kan Ouch wie er Im nachtmall gegen//
+wirtigg gehapt / wirt Ober In kurtzein/o

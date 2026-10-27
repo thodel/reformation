@@ -1,31 +1,31 @@
 # Seite 652
 
-Elle
-204
-272
-Die vj. Chlussved,
-ermanninge haben, Wer doch niet Colicks ansachens sind
-wo man vom glauben handlen wil, das man vsch
-Volchen buijchern, kundtsthaft namen soll, Die neut
-man Opocrijpha, vnd darmich hat sich der Jhul:
-meister wit zubeklagen 27
-Johannes buchstab
-Die wil wir Christen sind, sollen wir uns des be¬
-helften, Op die schwistenlich kilch boucht, vnd so
-wir von derselbigen wurden tratten, wusten wir
-nitt, welich ffuangelig, wie solten halten, So doch
-erfunden wirdt, das wel zachen haben Euangelia
-gosthriben, vnd die So de Pagen, das Aporalipsis,
-nitt sije Johannis des kuangelisten, die Oagen
-Louch, das die Epistel zu den Aebreern, nitt Pauli
-sijn, vsz. welicher Epistel, vnser gegen prothij,
-nach Irem verstand, allen grund het wider die
-Mass. das Si nitt ein opfer sijl.
-Meister Vlrich Zwinghij
-Dir brucken gern, das die christenlich tilch brucht,
-Aber Jedes In sinem ward, Es sind bucher Im
-alten testament, wel ich die kinder Fragels, In
-der Sum und zal der heiligen Othrift, nie haben
-angenomen, vijit zu bewijren ende, wie vor durch
-Oecolampadium geredt Ist, Also sind ouch In dem
-nuwen testament, Die bewaerung der kilchen,
+21
+wo
+2
+Die vij Schluissnd,
+ermaming halen, Alie doch nitt Solichs ansaͤchens gind
+wo man vom glouben handlen wil, das man vsß
+Bolchen buchern, kundtschaift namen zoll, Die nent
+man Apotrypha / vnd darmcl hat Sach der Schul¬
+meister wit zubelligen
+Johanurs luchstab
+eul wie Christen eiid Sotlin vi va das Er//
+helffen, S die hhristenlich kilch brucht / vnd go
+wi von derselbigen wuͤrden tratten, wuͤsten wie
+nitt, welich huangelia / wir boͤlten halten,/ So doch
+erfunden wirdt, das wol zaͤchen hiben huangelia
+gischriben / vnd die So Si digen / das Apocaliesis,
+nit eyr Jhannip des kuangclisten, die Sagen
+ouch / das die Epistel zu den ftaherien, nitt tuuli
+sye vsß wilicher Cristel vnser gegon pithzei ¬
+nich trom vorstand, alleg geuͦnd het aider die
+as das ntt nfu cio
+Hrister Clrich zwingly
+rlrichen Jun, dieder hgrestnlch kili hrcgt n
+wor tndas Jneinem vnd, Eend liche em
+ltn tista dir knder fngie in
+Dor Dun vnd zyl de heilgen Schriftine haben
+angrunnen, vit iulan in d ve vor durch
+dinln durn Jrid Jst Also sind ach en dem
+miwen testament, Die baarung der kilchen,

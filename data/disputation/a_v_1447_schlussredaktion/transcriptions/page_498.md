@@ -1,36 +1,34 @@
 # Seite 498
 
-.
-pp 149
-207
-Iw huij Sluijsvrou
-vingh
-Vnnser Span ist darumb, ob dazu tranck Das Ehesta¬
-ment sie vnnd int darumb wo mit das thestament
-Wir schlachsen int ab, Das
-werkomen, sie
-Dens die nachlassung der sind mit dem vergossenen
-blutt Christi erworben sie, sonder solche wortt, die
-beuestnen vnnserm grund, Das Das blut Christi, hebben
-selb, nit das thestament ist, sonnders das wer damit
-vns damit das Jhestament, welches da ist naeckerssung
-Der sijnde erworben ist, Der buchstab lutter Das
-tranck, sy das thestament so ist nachlassingen der
-sund das thestament, so muss das wort thesta¬
-ment, hie nitt eigentlichen genomen werdenn
-Pfarrer V. f. g.
-In Vßlegung der worten, so her meister Vlrich
-furgetragen, erklären, Mathey vnnd Marcy. Das
-Das so der her das thestament geheissen den Jurgen
-hatt dargereicht, welches er darnach am Erntzen
-mit verpiessung sins bluts hatt wollender,
-Jovingh
-Das ist nit ein antwurrt, vff das Das wir
-hervorsthen, wir wissende woll Mathens
-wir begeren an so
-vnnd Marcus sagend
-ob sy erkenne, Das die vergeblich nachlassung
-Der sind das thestament fie
-Pfarrer v. 8. g.
-sins verstands ist vor gul. geantwort Das
-das nur thestament syn verzichung der sind.
+2o7
+ee zun Slußred
+bm
+mien Sfanie armb ae diatil is ctctn
+ne hie vn in da n ry nu sr thestamach
+Wor schlachen nit ab / Das
+uͤberomen / sie //
+ns die mchlissing der sund nit den wigessfien
+baut Christ enenben sy / sonder solche wort / din
+beusinen vnnsern geund Das Das hrit Chrisasels
+snd w dnt
+Dns Damt das thestament welches da ist nathebessung
+er s worn e buchsts luten dis
+tranck / sy das thestimam sonst nachlossung der
+sind das thestanentn so mug das wort thesta //
+ment / hie nitt eigentlichen genomen werdenm /
+Pfarrer vis.
+ustenig der wappen so hei master erich
+fuͤrgetr igen / erklaͤret achey vnnd Nl art. Das
+Du s er Die gruneu geuͤen denzungen
+hatt dargereicht / welches er darnach am Crucz
+nit vergiessung sins kaud hat vellenden //
+zoingli
+Die ist nit ein antwult ff das / Das wir
+Derworschen / ir wussend woll Mathens
+wir begeren an sy
+vnnd Nartus / sigend /
+s kn e die vergeb listins
+Der sind das thestament fi //
+Pfarrer v. sig.
+ines verstands ist vor gnuͦg geantwurt das
+Das au thestomett gye verzichnng der sund/

@@ -1,30 +1,30 @@
 # Seite 357
 
-nichtigkeitt vnnd warcheitt. Dann die wortt
-Des herren Warheit sind Johannis am xvi copi
-Diewije Dann er vnns verheissen, hatt Damitt
-vnnd gschrifft die annere perschrifft erklärte
-So hatt er gesagt, Das wrot, das ick och wierd
-gebenn. Ist min fleisch welches ick geben wintt
-für das lebenn der welet, sollichs alles hatt er¬
-statstt, Im nachtmall
-Namlich da er hatt
-das brott genomen / in die hende / hatt danck gesagt
-onch brechen vnnd des gebenn sijnen jungern, Dabe
-gesagt, Nemende asseene, Das ist min lijb Der
-glichen genomen, een kelch danck gesagt vnnd
-Inen heben, sagennde trinckene all darussz Das
-Ist min blint des muwen thestaments Oveloches
-fur vill vergossen wurde zu verzuchung der
-sund
-Nus hallet In vnnser glaub, onge¬
-zwijffellt. No nu Christus beuelchen hatt
-sollichs gethun werden, Inn siner gedechtnus
-Nu ist gewuss, alles das so vnmogench denn
-Monschen by gott vermoglich Mathei am xx
-vnnd pantus zuu Rhömern am iiij, Lucas
-cap.
-Meister Vlrich Zwingli
-Der erst Spruch Das bret, das ick vch
-gebenn, wurde Ist min flasten welches Ich vmb
-Das lebenn der welle hun hebben wirt Johanus am v
+mechtgkeit vnnd warheitt/ Dann die wer
+des herren warheit fud / vohenu am gvicap
+Diewyl dann er vnns verheissen / hatt / Damut
+vnnd gschrifft die anndre gschrifft erklaͤrt
+So hatt er gesagt / das abret / das ich uͤch wird
+gebenn / Ist un fleisch welches ich geben wirt
+fuͤr das lebenn der wellt / soͤllichs alles / hatt er //
+stattett / Im nachtmall/
+Namlich das erhott
+das brot genomen / i die hend hatt danck gesagt
+ouch brechen / vnnd des gebenn sinen zungern / das
+gesagt. Nemiend / aͤssennd / Das ist min lyb der
+glichen genomen den kelch / danck gesagt vnnd
+Inen geben / sagennde / trinckend all varusß das
+ist min blutt des nuwen thestaments werlches
+fur vill vergossen wuͤrd zuͦ verzichung der
+suͤnd
+Iun hallt In vnnser gleub / onge
+zwyffellt / So im Christus bevolchen hatt
+soͤllichs gethun werden / Inn siner gedechtuns
+Mi ist gewuͤsß / alles das so vnmoglich den
+moͤnschen by gott vermoglich Mlachei am Pap
+vnnd paulus zum Rhoͤmern am iiij / Ducas
+cap
+eister Clrich zwigen
+Der erst Spruich Das bret das a rch
+gebenn / wurd Ist min fleisch wllches Jen vn
+Das lebenn der welld gengeben wit Johanns amd/

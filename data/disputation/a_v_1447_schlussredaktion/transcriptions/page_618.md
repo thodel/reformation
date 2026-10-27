@@ -1,29 +1,29 @@
 # Seite 618
 
-262
-Die funfte Othlushred,
-vor gott, So das nachtmaldes herren, der tod Christi,
-hochgeachtot wirdt von den gloubigen, haben vi
-zugniss. von dem heiligen geist, welicher geist der
-Thunelerung des lidens Christi fu der Maske
-dehem zügnisgit
-Meister Johannes mannberger,
-Siewil vnde das nichtmal Christi, geuant wirdt
-Cena, und danck sagung, so wirdts ouch genant
-ein Testament Christi, Mathei. xxvj. Diewil
-es min ein testament genant wirdt, so het en
-hetlich testament, ein volffurer, Executorem, Das
-aber die Apostel vollstreckt vnd volfurt haben
-Das testament Christi, bewaren Ich durch die hei¬
-ligen Christ Johannis xviii. Do Christus am
-Crijtz, gemerot het in testamenti vnd sin muter
-Mariani, beuolchen Johanni, vnd gesprochenn
-roce mater tua, min war din muter, Opricht der
-text amselben Ort, und usz. diser Anne, hat Er
-Si genomen In zin hijt, Da Ist clar vnd offen bar,
-das vss. bevelch Christo, Johannes Solzijn, ein
-zugabuer huter Marie
-Maister Vlrich wonigl: 1
-Is Ist clarlich gnug anzoigt, das das Testament,
-das vns gott gemacht het, Ist gnadige vergab¬
-nug vnser vnnd, vnd wie ein Jedes Testament,
+26
+Di funftr Schisßed /
+vergott, So das nachtmaldis harren, der ted Christi /
+hoch grachtot wirdt von den gloͤubigen, haben di
+zuͤgeuß vondem hailigen grist, welicher geist, der
+Schmelernig des lidens Christi Jnder Mass,
+dehein zugnis git,/
+Mristen Jchanmas mamingir,
+diewil vnd das mchtmal Christi / grnant wirdt
+Cona / vnd danclfigng , So wirdts ach gonant
+ein Restiment Christi, Ncthei xxj Diewil
+as nun ai tastamont genant wirdt, Sohet aii
+hetlich testament, ein volkfuͤrer, Erecutorein, Das
+aber die Apostel vollsreckt vnd vollfuͤrt haben
+das testament Christi, bewaͤren Ich durch die hei¬
+ligen Schrift fehannis: vij : Do Christus am
+Dnz gemeret het gei testamentz vnd ein muiter
+Mauam bruolchen Jchamm, vnd gesprichenn
+kir nter tin min enn din muiter, Dpricht der/
+tirt nnsillin det vnd aish diser Stund / acttr
+Di grumnan Jn ein git, Da Ist lir vnd fhinlir¬
+das vss beuelch Christi, Johannes zol suj,/ ein
+zugalner huͦter, Marie
+Mristir Derich zwinhli//
+tst clilich Jnug anzoiget dae das Cistamant,
+das vns gott gemacht hat, Ist gnaͤd/ ge pirgab¬
+muͤg vnser suͤnd, vnd wlr ein Jedrs Rastament,

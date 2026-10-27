@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>prov=READ-COOP:name=TrHtr:version=2.41.0:model_id=51170:date=09_03_2026_17:24</Creator>
-        <Created>2026-01-27T10:34:17.634+01:00</Created>
-        <LastChange>2026-03-09T17:24:08.124+01:00</LastChange>
-        <TranskribusMetadata docId="13922579" pageId="112790291" pageNr="376" status="IN_PROGRESS" userId="537" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=IUOCTZCUQFVJYOIGFANMKIIY" imageId="95348816"/>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-26T14:16:50Z</Created>
+        <LastChange>2026-10-26T15:17:28.512+01:00</LastChange>
+        <Comments>{"arbiter": null, "geometry_from": "D", "models": {"A": null, "B": null, "C": null, "D": "kraken-bern-schlussredaktion-v1"}, "models_present": ["D"], "pipeline": "agentic_historian ruemlang", "print_passage_score": null, "summary": {"single": 2}}</Comments>
     </Metadata>
-    <Page imageFilename="112790291.jpg" imageWidth="2479" imageHeight="3508"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="1464,143 1526,143 1526,198 1464,198"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:single-D; conf:0.50;}">
+                <Coords points="1470,149 1520,149 1520,192 1470,192"/>
+                <Baseline points="1470,169 1520,163"/>
+                <TextEquiv>
+                    <Unicode>6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>6</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="391,3164 485,3164 485,3229 391,3229"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:single-D; conf:0.50;}">
+                <Coords points="397,3170 479,3170 479,3223 397,3223"/>
+                <Baseline points="417,3205 427,3180"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

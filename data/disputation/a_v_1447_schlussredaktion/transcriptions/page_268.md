@@ -1,36 +1,34 @@
 # Seite 268
 
-bre bye
-Ingelyck
-auch
-Kilder
-109
-die erst schenßred
-veranterurt fin apostell ist er gewesen, Der mitt
-allein noch alle schafflen Christi, wie Im ouch int mog¬
-lich gewesen, gevendet hatt, sonder mit andern, vnd hat
-parclus me than dan etc. Darumb in kein houpt
-Vber die andern mag genennet werden Das er aber
-wider min antwort dem provinciat gegeben, diewije
-Christus ouck vnder zweijen oder drijen ist, In sinem
-namen versambet, ein Jede gemeen pottes sich ent¬
-Jhaessen moge was sy glauben soll, furwurfft ef
-selle kein besonndre gemein, das ein gantze gemeine
-and d
-an pottes beschliessen vnnd darumb hetten die
-In Anthiechia parlum vnd Barnabam, Jan Jherusa¬
-lem gestohner In der gesteichten der apo: am
-pro cap: heraaff yrs icen antwort, Das vns
-hie puerster Jacob ein strafflich exempele fur wurfft
-Alsz. een ouch wir sullen, nachvolgen, So die In
-Onthierchia recht hetten, gehandellt, so hetten sy das
-wortt pottes so Inen paulus ende Barnabas von
-Christen licher fryheitten, hatten fur getragen, Inn
-Inen selbst ermessen vnnd angenomen, an vff sechenn
-vff ander lutt, do aber een vffrun was wordenn,
-am Zweyffell durch die boßwilligen, vnd die Inner¬
-Das ansechen Petri Jacobi vnd anderer In Jherusa¬
-hem wider paulum furwarffen, hatt sich paulus
-vnnd Barnabas gern beheben der sachen fur de¬
-selbigen zekomen/ viel lieber hertet er aber gesept. sy
-en wijter fragen smem einfaltigen pottes wort glocxken
+eled
+ih
+mff
+ss
+og
+Die erst schoustred
+verantwuͤrt Ein apostell ist er gewesen / Der nitt
+allein noch alle schaͤffly Christi / wie Im ouch nit mog //
+er
+pnlus ne than Dan er / Dorunb er kein houpt
+n gee werden Das e c
+weider min antwuͤrt dem prounrat gegeben / dierdr
+s vnr d s
+nnen ve samlet ein zede gemenn gottr sech ern //
+elle den besoundre gemein das ein ganze geimnem
+n en di ang al
+ann e n e n n n i on
+lemn geschicht In der geschichten der apo: am
+Dai
+bere vnnster a en sn reer erwnst
+alle den ouns wor sillen nachuolgen / So diet
+mhonn rechen henen / gehandellt / so herten sy das
+wort gottes so Inen paulus vnd Bornabas von
+Christenlicher hryheiten / hatten / fuͤrgeragen / Inm
+Inen seles ermessen vnnd angenomen / an vffsechenn /
+d nder lut Do aber ein vffri was wordenn /
+anzwysfell durch die baͤßwilligen / vnd die Jumgr
+Das ansechen Petri Joctl vnd anderer In Jherusa //
+lem wider panlum furwarffen / Hatt sich paulus
+vnnd Barnabes gern begeben / der sachen fͤr die //
+selbigen zekomen / vill lieber hettet er aber gezept/ Sy
+vn wyter fragen sinem einfahigen gottes wort glotben

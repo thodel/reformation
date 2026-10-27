@@ -1,35 +1,35 @@
 # Seite 476
 
-50
-3.50
+1
+sls
 2
-Die vierd schlußen
-198
-pfarrer v. f. g.
-Dir wissende woll das das wortt des Meusten
-en/ allß eins menschen mitt vermag. Aber so
-wir handlen vss dem beuelch vande wort gottes
-so thut es mit allein natturliche Dingen, Sonnders
-jeder naturliche, Das eroffnet sich Inn dem
-wort, so vertrus Dem hern antwurt, gepieter
-Durch die pantze nacht arbeitend haben wir nichts
-gefangen, In dinen wort, aber, will ick vnser Spannen
-Als sy sellichs schan haben
-Das neven
-Habenn sy vmb schlossen, ein grosse vijle der visschen
-Also mochte zugefurt werden, der spruch 1 ep:
-petri am 1 cap: vnd zum Reinern am per cap: ouch
-Die erst conclusion Darumb (ob got will) chri¬
-stenlich red gehabtten worden.
-Zwingli
-D a petrus sprach, In Dinem wert will ich
-das nez vß spreiten, beijer ick von unserm bruder
-was vsserlichen worts petrus geredt, habe zu des
-netzes Inlassung.
-Pffaxer v. s. g.
-Wie es Im text verfasset mitt allem Inhabitt
-will ich darzu midt thun noch daruon nemen
-vnd Im die wort des Capitells zu antwort
-lassen,
-Zwingli
-Ich trag die person des einfalligen vnnd bin
+Die vierd schlußrch
+ab
+Pfarrer vi
+Dir wuͤsendt / waie Das die wort des wliste
+en / allß eins moͤnschen nitt vermag Aber so
+wir handlen / vsß dem bevelch vnnd wort gottes/
+so thuͦt es mit allein natturliche ding / Sonnders
+kber naturliche Das eroffner sich Inn dem
+wort so petrus / Dem hern antwurt, gepieter
+durch die ganze nacht arbeitend / haben wir mchs
+gefaigen In dinem wort aler / wil ich vß gpannen
+voß so soͤllichs chan haben /
+Das nerz
+ins vschris i de vsse
+Alss moͤcht zuͦgesuͤrt werden / der spruch, ep:
+petri am, dap vnd zun kaͤinern am / xscap : ouch
+Die erst tontligen / Darumb / ob got will) chri //
+steulch red gehallen worden //
+zwinglo //
+Da petresereed en dinen wert wll ich
+Dae ne vn kee vn vnse bder
+wis vslanhen wors petrius gendt hibe zuͦ der
+netzes Jnlassung/
+offarer vn s ./
+Die es Im texd verfasst mit allein Juh altt //
+wil ich diczu nuͤde schuͦ / Noch daruon nemen /
+vnd Jm die wort des Captello zuͦ antwurt
+lassen/
+wigli/
+Ich trie du peten de ennfolien vnd ln

@@ -1,33 +1,33 @@
 # Seite 730
 
-# wirdt
-312
-Die viii. Oblussred
-So wir de hem ander gelubd hand, weder den einigen glouben,
-dann wir frij sind, wie gehort Ist, So vermanot vns der
-Arop het mijcht anders, weder sijen wir warlich Christen
-Een glouwen, So sollen wir ouch christenlich laben, Dann
-Houch, vnser herr Christus Jesus, vns nugit anders zumu¬
-tet, So fr spricht Johannis. vio. wie mich min vatter go¬
-sent het, vnd Ich noch dem willen des vatters lab, Also
-euch, welicher mich Isset, das Ist, vff mich vertouwt
-Sol ouch mir nochlaeben, Das gelube Pauli, Trettot mitt
-wider vns, dann Paulus hat vmb der Thwachen willen,
-Oich gelichnot, ein gelubden oder wablfort zu haben gan fe¬
-pusalem, damitt die Schwachen, nitt ein v gross ab:
-schuchen ab Im hatten, als actorum. xxj. eijgent:
-lich gemarckt # Den Opruch. i.a ad thunotheum. Vo.
-verlassen wir ouch, dem vrteil der verstaudigen glou¬
-bigenen
-Johannes buchstab
-Das wir noch vnder dem alten gesagt sijen, Sag Ich nitt,
-volgott darumb nitt, das wir dehem gelubde, thun
-sollen oder mogen, vnd die selben mitt halten, wann die
-zwen Opruch des Propheten Oauids, an angezoigten
-Orten, ouch uff vns dienen, Eer wir kundtsthaft haben
-vss. dan Propheten fsaij, am. xviiiii. To Er also
-Opricht, Der herr wirdt erkendt vsz. fgijtenn,
-vnd vie fgiptor werden Jun erkennen, In desem tag,
-werden Ium freu In geistlichen opfern, vnd In gabenn 1
-werden dem herren gelübde verloben, vnd die selbigen
-leisten u. Das dese twepherij diene vff unserm
+twirdt
+32
+win Chrussend,
+Domir dechem ander geluld hnid / wredie den eunigen hriuigen
+dann wir Ery eind wir gehaͤtt Jst / Si vemanat vns der
+Prophet nuihit anders, weder syen mir warlich Christen
+Ii glouben / Sa sillin wie ouch christenlich laͤben, Dann
+ouch vnser herr Christus Jesug vas nuczit anders zmu /
+tet So Er cpricht Johannis ii wie much min vatter go/
+sont het,/ vnd Ich nich dem wellen des voͤtters lab / Also
+ouch, welicher mich Jssit, das Ist vff mich vertrut
+Sol ouch mie naͤchlaͤben, Das gelubd Sauli, Etrettet nitt
+wider vns, dann Paulus het vmb der Schwachen willen,
+Sich gelichnet, oin geluͤbd oder walfart zuhalen gan Jr¬
+ruͦsalem, damitt der Schwachen, nitt ein So gross ab¬
+schuchen abftin haͤtten, Alls Actorum xxj ͦ eygont¬
+lich gmerckfft Den Spruͤch in d Thunethium v:/
+verlaͤssen wie ouch, dem vrteil der vorstandigen glou¬
+begenn
+Echannas buchstab//
+as wir nich vnder dem abten gesazt ezaom, Sig Ichnitt //
+volgott darumb nitt, das wir dehein gelubde / thun
+zollin oder moͤgen, vnd diesalben nitt hilten, wann die
+zm Spruch des Cricheten Dunde / an angezigten /
+Erton, auch vff vns dienen, Das wir kuͤndtschaft habent
+vss dem Copheten Esa, am viiij So Er also
+Specht,/ Die heut wildt erkendt vss hticten ,
+vnd die Ehepter werden Jnn erkennen, In disem tat,
+Worden Jum Eren In geistlichen opfeen / vnd In gabenn,
+werden dem hoͤrren gelubde vorleben / vnd dirsellegen
+Cuisten Das disr Jrichenz dione off rnisen

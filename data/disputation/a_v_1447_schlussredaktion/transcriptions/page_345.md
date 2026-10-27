@@ -1,31 +1,30 @@
 # Seite 345
 
-<INS>
-Demma
-Cr
-Die dritt Ochlussred
-Theobaldus hutter,
-Als Delagius furbracht hat, den Spruch zu den Ro:
-mern am. xi. So is vss. gnaden is, wussen wir
-wol, das all unsere werck, gijen vsz. den gnaden gottes
-Er Opricht aber wider, ad Romanos an dem ii. capn.
-Mitt die da horen das gesagt, Guid geracht vor gott,
-Ounder die thuijer, werden geracht gemacht, In we¬
-lichen worten fr wol spuren mag, das wir zu der
-gnad gottes, vns sollen Othicken, zij den werckenn,
-Hann als Jacobi Stat, das der gloub ane die werck
-toe Ist, der da ouch ein gnad, vnd ein Jngosijne gab
-Ist is,
-Herr Polen,
-Alles So heur ffarrer geredt hat, Ist alles vfgelost
-vnd erfliert, durch der predicanten vnd andere
-andtwurt, darumb referieren wirs ad acta,
-Eheobcldus gutter
-Ich hoff her Polcij, so fr mich amnicht, das min
-angezognen Spruch, nitt gnugsam sinderklart
-gegen zuier Jurid, Hoff Ich gnugsamblich wider:
-stand thuijen derselben Jured, vnd referier mich
-ad acta
-Her Josephus forrer, ffar:
-rer zu Herisouw,
-Wolgelarten wijsen und lieben, der Anzug. Co
+o0
+Dan
+Da draet Schluissnd
+Rhrebaldue huͦtter/
+Jes kbigim fubracht eit,/ den Sprich zuy den Je
+mern am xj So Es vsß gnadend, wuͤssen mit
+wil das all nseer worcl zen vsh din gnaden getie
+Er Spricht aber witer, ad Jomanos an dem ij car¬
+Mit die da hoͤren das gesaczt, sind geraͤcht vor gott
+Sunder die thuger, werden geraͤcht gemacht, In der
+lichen worten Er wel spuͤren mag, das wir zu der
+gnad gottes, vus sollen Schicten, zu den werctenn/
+Dan als Jatb: Stat das der glaub ane die worct
+ted ist, die da oich oin gnd, vnd ann ngehenr gib
+Ist i
+tere Solei
+Allie do heir Rfarrer geridt het, Est allas vfgelist
+rnd erklart, durchder Perdicanten vnd andrrr
+ndtanet, darnunl referieren wirs nd acta /
+Rhubiddus zuͦttre
+Is hitt eir tillg di Ey micb amuͤcht dig min
+Dange egnen Opruch, nitt gnuͤgsan sind erklaͤrt
+Iigen smie Jnred / vf Jen ughentlich wider/
+stand thuigen dersillen Jnred vnd rrferter mich
+ad acta,
+ir Jchrchuit forrer, Pfar¬
+rer zuͦ Horisouw,
+Dagientin rissn ind liben, dir anzig v.

@@ -1,32 +1,32 @@
 # Seite 337
 
-B.
-Die dritt Schluskred
-nant, Oermissen het ouch der herr gethan, Die Juden
-fragten nach wercken, von denen wolt Er Oi zum
-glauben zuchen, vnd nampt noch Ir Red, den glauben,
-Ein werck gottes, das Ist, fin werk, dat bij gott
-gelten wurde, Als hette Er gesagt, te fragen
-nach wercken, damitt Ir gott geuallen, glaubten
-Ir an mich, das was ein recht gottlich werck, vnd
-wurden minem hunelschen vatter gevallen, Das
-ander alles, Ist In der erklärung hern Berchtel:
-den, vberflussig erlutrot
-Johannes buchstoo,
-Er bringen mir zu zitten glosen, aue volkomme schrift
-Als ouch gestern In der anderen Achtusschreven, Oo Ich
-harin furt, drij Oprich, fey In dise Aglussrer ouch
-dienende, zu den Chilippern am. 1. vch Ist gaben hu:
-tund, Prima Petri am. ii. Christus hat fur
-vns gelitten, Prima Johanus. ijo. welcher
-Opricht, das Er In Christo blibe, der Sol wie Chri¬
-stus gewandlot hat, ouch wandlen, Durch so¬
-liche Schriften, ouch gnugsam offenbar, das der bloss
-einig glaub, nitt gnugsam zu der sol salikeit Ist,
-metwint mir vff dieselben doch Opruch, gestern
-Ingefurt, das Christus liden gije zu verstan, von
-dem liden dag vns gott zuschickt, vnd nitt gelbs
-erwetten, doch ane schrift, dag hieby, das an
-Christum gloubende, In stm. halt, Alles das, 60 Rm.
-nuwen Testament geschriben stat, zu volbringen,
-vnd angemamen, als Christus spricht Johan¬
+1
+Die dattt Schlushedd
+uit, dermaͤstin bet auch der herr gethen, Die zuͤdenr
+fragten naͤch wercten,/ von denen wolt Er Di zum
+glauben zuͤchen, vnd namupt naͤch Jr Jrd, dn glouchen
+Ein werck goͤttes, das Jst / Ein wercli das by gott
+gelten wurde,/ Als hcber Eggrsigt , Er Erigen
+nich morchen damitt Jr gott geuillen, glaubtn
+Ir an mich, dis war ein richt goͤttlich werck / ind
+wurden minem himesschen vatter gevallen, Das
+andersalles, Jst Jn der erklaͤrnug hern Gierchtol
+den uͤberfluͤssig erluͤtret
+Erhrnes buchstis,/
+si brnigen mm zi ziͦten glisen iin vllnnme sceh
+Aals oich gostiru Juͦ der andern lu stnd / s Ich
+hwei fuͤrt, dry Ctruch, tez in dise Schluͤssred aubh
+dienand, zu dn Cheligeru am Ich ist gaͤlen ziu //
+tind, Prima Petri ame ij ͦ Christur hat fuͤr
+vns gelatten, Primma Johanus ij ͦ welcher
+Spricht, das Eer Jn Christo llibe der Sol wid Chri
+stus gewandlit het, ouch wandlen, Durch so//
+lich Schriften ouch gmuͤgsim offinbar, dis der lls
+eing glub, nitt zuhsan zuder gill gaͤlikeit Jst
+Vndtrmit mi vff desiflan dey Dpruch, grstirn
+Iugefurt, das Christug liden oge zu perstan, von
+dem liden dag vns gott guschicft, vnd nitt gells
+erwefhen, dich ane Schrift, Sag hieby, das an
+Christun goubin tu in g d sisen
+nwen Bestamont grschriben Stat, zu volbrinhen/
+vnd anzimaͤmen, Als Christus spricht Jchatr

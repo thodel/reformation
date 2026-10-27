@@ -1,33 +1,32 @@
 # Seite 681
 
-93
-214
-Die vij. Schlusred.
-den mijnen testament, Pagt vant Paulus, prima Co¬
-nij
-rinthiorum pr. Das werck eins fecklichen wirdt offen¬
-bar, dann der tag des herren, wirdt das erklarenn,
-wann es In dem für erklijrt wirdt, vnd das werck
-eins ferblichen, wie es zije, wirdt das für bewaeren,
-wettlichs werck bliben wirdt, das Er daruf hat ge¬
-buwen, Er empfacht die beloming, wettlicks werck
-brummet, sy lidet ein thaden oder wustigung, Er
-wirdt aber salig, doch also, als durch das fur, Paulus
-sagt hie nitt, van dem fur diser welt, dann es fist nitt
-heilsam, noch von dem fur der hellen, dann dasselbige
-Ist ewig
-Verchtoldus halber
-Der heilig Paulus redt hie, van der bewaring der
-ler, vnd nitt vom fagfur, Das Ist mitt unser gloss,
-Ounder die warheit der worten Pauli Silbs, Er 24
-verwist den Cornithern die Oecken, Das Einer Tich
-Cephe, der ander Paubi, der dritt apollo berumbt,
-wer Ist Paulus, Opricht Er, wer Ist apollo,
-Eiener sind Ei, durch welich Ir sind glaubig wor¬
-den, vnd dasselb wie der herr finem Jeden guben
-hat, Ich hab gepflamot, wollo hats begossen,
-Wer gott hat das vfwichsen gaben, So Ist min
-weder der da pflangot, noch der de begust, etwas
-Ounder gott, der das ufwachsen gibt, Eer wer pflang:
-Tot, vnd der da begust, Ist einer wieder ander, fin
-ferblicher aber wirdt sin lon empfachen, nach ziner
+4
+24
+Die vij Schlusbred¬
+dem minenestimant, Dagt dant Saulie prum lo v
+rinthirim Das mocl eins fichlchen wirdt offen
+bar, dann der tag des herren, wirdt das erklaͤrenn
+wann es In dem fuͤr erklaͤrt wirdt ,/ vnd das werch
+eins Jecllichen, wie es sye, wirdt das fur bewaͤrenn /
+De ettlichs werck llaben wirdt, das Erdaruf hat ge¬/
+buwen, Er empfacht die belomug, Ob ettlichs werck
+erimmet, Eo lidet ein Schiden oder wiͤstigung, Er
+wirdt aber saͤlig, doch also,/ Ale durch dis fuͤr, Jaulus
+zigt hie nett, von dem für diser welt, dannes Jst nitt
+heilfam, noch von dem fuͤr der hellen,/ dann das sellig
+stoitz
+Crarchteldut hallir//
+Der halit tvalis ridt her vnde lomaruucg de/
+lie / nd itt vnn Jegfun, Dae Ist matvisugliß,
+Sunder die machit der worten fuuli silbe, Er
+verwist den Coruthern die Setten,/ Das kiner Sich
+Cephe, der ander tauli, derdeitt Apoll berumbt,
+wor Jst Paulus, Spricht Er nir Jst Apollo,
+Diener snid Si, Surch welich Jr sind glaulch wor¬
+den, vnd dassilb wie der herr Einem Jeden gaben
+het, Ich hab gepflantzyt, olli hats ligissen,
+Der gut het die vfiricthen haben/ Si ist nm
+vdir der de pflanzet, nach dee d bguist atnas
+Sunder gott/ dar die vfrichsan gibt, Dar alr ptlum //
+ot vnd der da brgust, Jst ouer wie der ander / Zu
+Jollicher aber wirdt ein lon empfichen, nach iner

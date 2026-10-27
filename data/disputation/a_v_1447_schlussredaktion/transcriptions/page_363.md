@@ -1,29 +1,29 @@
 # Seite 363
 
-No fur das lebenn der wublt, gegeben werdenn
-soll. Dann min verstand ist, das das wa
-bret (welches ick geben wijrd) luttet zu¬
-verstan, Das er vnus zuessen, beuolchen vnd
-Insetzen overde sie sin fleisch Dann er Je
-suster mienen bret hatt, geben vssz. welchem
-Dann in dem
-er smen lijb yemacht
-nachtmall Da er das brot Jun die Henne
-nam vnnd sagt, nemenne vund essenne, Das
-Ist min lijb Dann er nitt sagt, Das brett
-Welches ick geben wird ist ein beduttung
-mines flesths sounders, Das brot so ick geben
-wird, Ist min fleißen vnnd hernach Das
-annder, so er vertheisst fur vns gegeben werden
-verfacht den trost, So er sin leben fur vns
-durch den toe geben wurde, Alls die
-ijschrifft verichlich bezugett zum Rouwern
-am v capi zum Chormthern, In der ersten
-Dann er Je vssz
-Eerst: ausgecap:
-Dem brott, sinen lijb gemacht vnnd den
-smen Junfern, gepotten, Wellcher, Darnach
-am lestenn nachtmall fur vnns gegeben
-sollt werden
-Wingli
-Damit Der worten kampff vermitten
+Dis fur das belenn / der wellt / gegelen weidem
+soll / Dann min verstand ist / Das Das lerd
+erg /(welchel ich geben winrd) luter zuͦ //
+verstan / Das er vnns zuͦessen / bevolchen vnd /
+Inscen werde sie sinfleisel / Dan er Je
+suster nienen brat hat/ geben / vsß welchem
+Dann In dem
+Er sinen lyb gemacht /
+nachnlle er Das brot Inn die hennd /
+nam vnnd sagt nemennd vnnd essennd / das
+ist min lyb / Dann ernitt sagt das brett /
+welches ich geben wird / ist ein beduttung
+mines fleischs / sonnders / Das brot so ich geben /
+wird / Ist min fleisch vnnd hernach das
+annder / so erverhaset fuͤr vns geteben werden
+verfachn den trost / So er sin leben fir vis
+durch den tod geben wurd / Allß die
+gschrifft richlich bezugett zun Romern /
+am vͦ cap: zun Chornnthern / In der ersten
+Dann er Je vsß
+Epist, am gecap:
+Dem brott / sinsen lyb gemacht vnnd den
+sinen Jungern / gepotten / wellcher / Darnach
+am lestenn / nacht mall / fuͤr vnns gegeben /
+sollt werden /
+igli
+Dann der eeenn beupff deruiten

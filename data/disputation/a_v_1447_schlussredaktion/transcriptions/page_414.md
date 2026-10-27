@@ -1,38 +1,38 @@
 # Seite 414
 
-sollen
-daß ihm
-Salles
-Lacheers
-antwint
-zeten
-Korceria
-Die verd schlußend
-173
-das alles weet den spruch niet vellenn wirtt, er stett
-fur vns vnnd lutt allso Der kelck oder das trance der
-benediung, den wir benedien ist er nitt die gemein¬
-schafft des bluts Christi vnnd das brott das wir
-brechen, ist das nitt die gemeinschafft des lybs Fristen
-Is wusseund alle so ein kleinen verstande haben, Des gul.
-ischen was notaria heißt nemblich ein gemeinschafft
-een ustheilennen, Alles zijn fomern xv cap: paulus
-In gleicher form, Das wortt gebrucht, so er sprichtt
-Es hatt Ers von Macodonia vnnd achara fur put an¬
-geschenn/ ein gemeinsthafft Zechund In die armen
-heilligen. Die da sind zu Iherusalem was ist gemein¬
-schafft, Da anders dan ein uscheillung, Das sy
-Den armen hieefflich weeten sin vnd In der ii Ex:
-zum Thormthern am viii cap: (wirt weermmb)
-recevierien fur ein vs theillum genomen, allso ouch hie
-Der kelch der Dancksagnen old bene diuw ist
-ein gemeinschafft, Das ist ein vß theillung des bluts
-vnnd Das brott das wir brechen ist ein ustheillung
-Des lybs Christi kan mir min her Doctor mitt
-geschrifften erzwingen, ein amndern verstand so
-wellen wir Ine horen
-Ocolampadius
-24
-Damit man vff der ban belib so will ick sittlich
-Inred sparen, bissz vff sin zijt, welet gerim das
-die widerpieter, das ouch thar, Es will her¬
+d
+e
+a
+asen
+anien
+eiten
+Conotton
+Die vierd schlustred
+136
+Das ale welt den serich nit velen wutt / er stra
+fur vns / vnnd lut allo / Der kelch oder das trauc der
+Benedrnus Den wie benedien isst er mit die gemein //
+ch des bluns Chris vnnd Das brott das wir/
+kuen n di gense de hee
+Eewussennd le o ein klein vesnd halen / Des gat
+schen was non heistt nanlich ein gemensofft
+ein vshellnns / Aabß zun Somen xv cax: paulis
+n gen nen die ret gckuch / s erspanche
+es e die von aredona / vnnd achail fit gutlic/
+geschem ein gemeinschifft zenhund In die armen
+garigen ie de snd n galun wist gemen /
+oee di aden dan en vstheilung Das o
+Den armen hieefflich walten syn vid In der ichn
+zuͦn huna vii g Crrtenders
+r
+Der kran Des Dane gug e beneduns / ist
+ein genmanschafft Dis ist ein vstheillung des blnts
+vnnd das brott das wir brechen ist ein vshelling
+des lebs Christi kan mur min her dortor mitt
+gschrifften erzwingen / ein anndern verstand / so //
+wellen / wir Ine hoͤren /
+edlampadius
+2f
+Damit man vff der ban bel / so wil ich ertlich/
+Inred sparen / bisß vff sin szyt wellt gernn das
+die widerpirty das ouch thoͤe / Es will her /

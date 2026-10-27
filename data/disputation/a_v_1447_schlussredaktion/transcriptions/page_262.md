@@ -1,38 +1,37 @@
 # Seite 262
 
-eteresse
-licht
-welche
-undt
-wurde
-106
-die erst schlußend
-berumpt sich paulus van Irem gevallt Das
-ist die geredt, won Dem geistlichen gevallt
-Dormis so soll es, int widersprochen werdenn
-Dis Das
-man hette dan heittere gskrifft
-selb vs vancken
-Boochtoldus
-Das ein gevallt sys Inn Der kirchen Haben
-Wir noch nie vernemt nach verstand da
-Welcher gevallt Dochmb
-9 schafft
-Dhem amder houpt machet, Gounders
-will mee ist ein Denstbarckert vnnd
-Den spruch den een gillen fucher bringt
-exlutert, das we do paulus spricht vnd
-so ick mich verwijter ett was berumpt van
-Welchen pott der her¬
-dem pavallt
-vns heben hatt zu bessprung vnd nit zu ver¬
-derben, Welches paulus, alls ein trouwer
-Xpostell gors mit predigen vnnd verkunden des
-Worts vssgericht hatt vnnd yt gantz vnd gar
-oudt wider vnser schluß reden, des referier ich
-duch hierum xi mich allwegen ad acta
-am xiij vid
-xviij vnd
-om XX blatt.
-Billij Murer
-Das her Berchtold spricht. Is sie ein geist¬
+w
+och
+wal/
+aid
+ene
+1ob
+Die erst schlißred
+lerungt sich pateie von Iren gwalt / Das
+ist Ie geredt / en dem geistlichen gwollt /
+Dorure si stel es nit oderspraen weidenn
+Die das
+man hete dan heittere gschrifft
+selb vßtrucke
+Berchtoldus
+Das en gevalt sa Im Dekrcen Cren //
+wir noch nie vermenit / nach verstand der
+welcher gewallt Dorumb
+gschrifft
+Ddhem annder honpt machet Sondens
+vnnd
+der spruch / Den her gillg fuͤrher brugt
+erlicert Dastls / Do paulus spricht / vnd
+so ich mich / etwyter ert vas berumpt von
+welchen gott / der her
+dem gewallt /
+vns geben hatt / zuͦ besserug / vnd nit zuͦ ver //
+derben / Welches paulus / allß ein fruer
+postel gors mit preigen vnd eerlinden ds
+worte vßgericht hatt / vnnd ist gantz vnd gar /
+nudt wider vnser schlißrden / des referier ich
+i ei nucg latgen d acln zeij
+a wviij vnd
+am ex blalt
+Gillg Alurer
+Das her denurs seenet / Eysi en eist ,

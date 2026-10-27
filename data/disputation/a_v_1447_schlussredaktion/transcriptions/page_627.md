@@ -1,31 +1,31 @@
 # Seite 627
 
-Die Ouchste Sthlussredi
-Im allem wollen louften, ruffen vnd Ocheijen, wie Er
-vns dann ermandt Mathrixio. Dann Er der einig Ist
-In dem gott der himelsth vatter, hat sin wolgeuattenn,
-Mathei. xvijo. Darmus Dcheni andrer, angeruft vol
-werden, zu einem fursprichen, von vns gloubijgenn,
-dann Er allein, Die wil muij: wider so vielfaltige hal¬
-le schrift, vnser einiger mittler vnd Deligmacher fesus
-Christus, Ien lange zitt, nabendsich gestelt ist, vnnd
-ane allen grund der Schrift, nitt allein vier zaechen nott:
-helffer erdacht, Ja bij einem Jettlichen ellenden bild¬
-stoelen, hat man trost und hilf gesucht, vnd Ist di¬
-gange welt, voll abgotterij worden, Des dann Vi¬
-Ithof und ffasten, wenig geacht haben, Ja niet
-vfgericht vnd bestaet, Darumb wir verursachot
-sind, dese Thlusred, wie Ir Si gehort habenn,
-zijn predigen
-Hans wachter von Ghenckenberg,
-purgman,
-Lijwirdigen fromende Christen, Is hat der tilcher
-van Brugg, wider disen Artickel oftenlich gepredijot,
-welches Ich dann widersprochen hab, nach lut minier
-gnedigen herren Mandat, welches zulest ouch an
-Ei gelangot hap, Darmus Ich Jun enuordreun
-vnd begar, wo Er solicher meinung noch ware, Onie
-gründe vnd vrsachen anzuzougen. To wel Ich Im
-freundtlich andtwurt gaben, Also, Der Junchalt
-giner predijen, trungen vff das furbitt vnd mruf¬
-ten der Paligen, antauchlich vsz. dem ersten bijch
+Da Carsst Schruissred
+mallem gollen lanffon, rutten vnd Schrzen / wie Er/
+nns dan ermandt Nathrix: Dann Erder einig Jst
+In dem gott der Simelsch vetter, htt sin wolgeuallenn
+Maethei: xvij. Darumb dchein andrer, angrrift oel
+werden, Si einem fuesprachen, von vns groul i zenn/
+dann Er allein, Diewil nuun, wider so vilfaltige haͤl¬
+e dchrist zusir iniger milen vnd daligncher titn
+Christu, Jnlinge Jnt,/ naͤbend sich gistrt est: vnnd
+nir blan geuͤnd der Schrift /att abein vnrzachen nptt¬
+helffee edacht / Ja by eiem Jetlichen ellinden bild.
+sticleii, gat man trost vnd hilf gesuͤcht, vnd Jst dir
+grne nndt viel ihhittirz noeden, Die dum Rr /
+stef vnd Chistun nung gricht alen, Jrmar
+vfgricht ind astitet Darmb mii arirsichit
+snd, dise Schlußsrrd, wir J. S. geeit hilnn/
+zuperdgen
+Hane nicgter von Schomlechert¬
+pursman,
+mird gmn frimen Christon/ Ee art der klcher
+won Srugg, vider disen aticbil offmnlicbgepeedyt /
+wolches Je Sum vudersprochen hab,/ nach lit ninar
+enedigen herren nandet walches zulist ouch om
+Si gelanget hatt Darumb Ich Jnn ervoddarnn
+vnd begaͤr wo Er golicher meinung noch waͤre, did
+rund vnd irsichen anzueigen ml tch Jm
+fondtlich andt nt haben / As dar tncit
+euar pudyu, trunfru iff das furditt vnd anrit
+fin der Salgen, anfancllich vss dem ersten luch

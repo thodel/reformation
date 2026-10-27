@@ -1,27 +1,26 @@
 # Seite 637
 
-pdd
-Die. vi. Schlusshred
-der baligen fürbitt, oss der 1 Epistel ad Cornithios xiij
-darumb das Oi In der liebe Oren, die van den heili¬
-gen witt genomen werde, Æritot glich als vil, als
-vormalen das argument vom lichnam und den glij¬
-dern, dann hie nitt die liebe beschreiben wirdt, die
-die Oaligen Imj. hunct haben, die ein ewige conun
-vnd froid Ist, aue alles leid vnd bekümmernus
-Ounder es wirdt hie besthriben die liebe, die wir
-mentsthen In disem zitt haben, vnd heist das wort
-die liebe wirdt nitt van Inen genomen, nitt also bij
-Paulo, Ounder die liebe falt nitt, vnd anlassen vns,
-oft die wort Pauli, 1e. ad Cornithios xiij.
-gidius murer
-21
-Een bliben bij dem, und hoffen, das tuch opocalipsis
-hötte biblisch sijn, vnder beuelchen es dabij, einer
-Christlichen gemeinde
-Meister Vlrich zwingli¬
-So beuelchen es wir ouch der Christenlichen gemeind
-vnd denen, So den 'tittel verstand,
-gidius muwer
-Das aber meister Vlrich geredt hat, Aaulus ad
-Cornithios xiii. Rede nitt hie von der liebe der
+Dar vj Cchlusßnd
+der Saͤligen fuͤcliet vsß der, histilad Ceruthiol in
+darumb das Si In der liebe Syen, die von den heile¬
+gen nitt genamen werde, Critet glich als vll, als
+vormalen das arguin et vom lichnam vnd de at alb/
+dern, dann hie nitt die liebe beschreben wirdt, de
+die Saͤligen fin himmel haben, die ern ewige mani
+vnd froͤnd Jst, aue alles beid vnd bekinnernus,
+Sunder es wirdt her beschriben die liele, die wie
+mentschen In disem zitt haben / vnd hrist das wolt
+die liebe wirdt nitt von Jnen genammen, nitt also ly
+Suko, Sunder die liebe faͤlt nitt, vnd anlaͤs sen vns
+vff die wort Paulij ° ad Cornnthos xinj¬
+duns murar¬
+2
+ie lliben by dem vnd hoffen das buch Spoclick
+Diele biblisch sin, vndett beuelchen as daly einar
+Cristlichen gemoindn
+Crister Dlrich znugli
+o bruilchen as wi ouch dir Christrilichen gemeind
+vnd denen, So den tittel verstand,
+Cgeidude nurar¬
+al aler mistir Dlrich geridt het, frulus ad
+Countite xiij zade micher vn dei labi dir

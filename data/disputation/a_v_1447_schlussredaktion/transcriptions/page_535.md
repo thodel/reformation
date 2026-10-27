@@ -1,33 +1,33 @@
 # Seite 535
 
-IR.
-160
-allenthalben ist, so muss doch Darumb der minsten
-Christus ouch mit allenthalben, sin Dan die monstheit
-Luit zur potheit werden ist
-Wir warten euch
-zu selcher herligkeit zukomen nach vnser mass Da¬
-xiiije werden wir aber, met dest weniger Dem
-lyb nach an einem ortt sin
-Das aber wijter
-Inzogen ist
-wo der lijb Christi musse an
-enem ordt sin / so vnnde volgen Das er billich
-theophorus Das ist ein yetreger genempt werden
-sollt als der mitt selb. gott were Da
-sagen wir nein zu Er ist ein warer pott, vnd
-Der pothent nach allenthalben Er ist aber onch ein
-warer monsten, Demselbigen nach ist er allweg
-nur an einem ort zum all Dan die getlichen voorschrifft
-vns een monstgerij, mitt anders fingen, vnd
-warlichen solcher furwurff schmacker mach en
-Ich waren Jochums, Des wir doch vnser liebs
-Als
-bander Dheins wegs wellen gezogen haben
-ob die meustheit in Christo mit der yecheitt
-vermisthet ware, oder aber Chaissus kein warer
-monsten gewasen ware, Es dient Inen ouch gar undt
-Das sy har fur bracht haben Das Der her vss.
-dem gras vnd darnach zu den Jungern allß die
-thur bestehlossen waren, gangen ist, Es stat int pe¬
-schriben. Das er zum bestflossenen, oder durch
+16
+bo
+wazeabe ist so nuͦß dis Darure der ntite
+Shristie ouch nit allenthallen sin / Dan die warsten
+aiit zur gotheit worden ist
+wir warten ouch
+zuͦ selcher herligkot ze tomen noch vnser mass da //
+ruͤms werden wir aber / nudtdest wenger dem
+lybnach an einem ortt sin //
+Das aberwyter
+Inzagen ist
+Wo der lyb Christi misse an
+einen ortt sin / burdi wegen Das er sillich
+theophorns / das ist ein gotreger genemgt werden /
+soͤllt / Allß der nitt selb gott were / Da
+sagen wir nein zuͦ Er ist ein wartr gott vnd
+der gothent nachaelenchellen / Er ist abtr ouchen
+warer moͤnsch / Denselligen nach ist er alltets
+nuir an emnein ort zuͤmall/ Dan di goͤtlich gshrfft
+vie den moͤnschenn /. nit iders fugigt / vd
+walchen salcher fuͤrwurff schmacket nach ein
+stawaien Jotzune / Des wr doch viserl libs/
+alh
+prider / Dhus wage wellen gezigen haben /
+ob Die moͤnscheit in Christo mit der gotheitt
+vermischer waͤre / oder aber Christie kein warer
+nrisg Jevistt veire Es Dieteu gnn aih garude
+Das sy haͤr fur bracht haben / Das der her vsß
+dem grab vnd darnach zuͦ den zingeren alls die
+thur beschlessen woren / gugen ist Es stet / nit ge //
+schriben / Das er zum beschlosseen grab / oder dinh

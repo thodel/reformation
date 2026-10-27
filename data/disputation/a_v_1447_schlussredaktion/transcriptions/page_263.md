@@ -1,41 +1,39 @@
 # Seite 263
 
-dienstel. ge
-i
+dusler
+26
 1
-licher gevoelt, Der da van gott geben ist
-zu einer erbuwung
+Ecer gwal Der do von ger gen ist
+zuͦ einer erbunung /
 Da durch wir
-sollen verkunden, das wort nots. min
-ichsamen
-So min ein perslicher verwalet
-So muß ouch ein oberkeit sijn
+soͤllen verkunden Das wort gots / nim
+ichan
+So nun ein geistlicher gwollt
+So muͦs ouch ein oberkeit san
 ist
-Die das Regiment fure, Das will ick be¬
-waren, vss dem allten thestament Also
-ein Jegkliche fhur soll erfuer werden Im
-Alls die Sijnagoop
-unwen thestament
-der Juden, hett bedut die Christenliche
-Kilch, het ouch ghan oberer, Ooll min die
-figur erfullt werden/ Go ist notwendig
-Das wir auch hebben, ein werckert
-der
-gentlijkent halb In der kristen lichen ke¬
-chen, Das aber nit allein hett die Sinagogh
-„prie
-ghan om wersten gester Jun allwegenn
-sonder zevenn, Mämlich Moysen vnnd
-Daxen, die mussen Je ettwas han Im mwen
-thestament
-Das der fijgun plich
-werde geachteit
-Das ist namlich Christus
-vnd petrus Das bewer ich durch den
-da got
-vpt. Clodo, am iiij cap:
-spricht zu Moijsen der Garon
-der wirt fur Dich reden zu dem volck
-In aber
-unne wird sijn din min
-i
+Die das kieinent fuͤre Das wllichbe/
+waͤren vsß dem allten thestament / Also
+ein Jegkliche figur soll erfugt werden Im
+Allß die Sinagag
+nuwen hestament /
+der Jnden / hett bedit / Die Christenliche
+kilch / hett ouch ghan oberer / Soll nun die
+figur erfullt wlrden / So ist notwendig
+Das wir ouch haben / ein oberkeit /
+D
+geistligkeit halb In der kristenlichen kil//
+chen / Das aber nit allein het die Siagt
+ghan ein oblister ister Jnn allwegen / iprrie
+sonnder zobenn / Namlich weysen vnnd
+uron / die muͤssen Je tttwas han Im naten
+thestament /
+Das der figur glich
+werde geochtett /
+as ist namlich Chist
+vnd petrus / Das bewer ich durch den
+da got //
+telt / Erado am iiij cap:
+spuchr / zu Moyten / der Aaron
+Der wirt Ju dich reden zuͦ dem volck/
+du ablr
+vnnd wird sin din nuͤnd/

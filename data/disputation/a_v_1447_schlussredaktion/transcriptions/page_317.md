@@ -1,33 +1,32 @@
 # Seite 317
 
-Die ander Schlußred
-lichen kilchen, das wol vermoge, dat man die kibchen¬
-Colle horen, als Inn, So aber der Lext, zu Chimo¬
-theo vorgesthriben, von Martin bucker geleit wirdt
-vff die kilchen vnd da nitt redt von der kilchen, dun¬
-dero von denen, die durch unglauben vnd Jrsal, vf:
-tritten vind von der Kilchen, darumb oo hoff Ich
-min argument stand Stift, vnd sije vesten klicht
-bewart
-Martinus buijer,
-.2
-Der Picht vatter sagt, der Opruch. i.r ad Thimo. iiii.
-rede nitt von der Christlichen Kilchen, Sunders von
-den abgetratnen vom glauben, das sagen ouch wir
-Darumb aber, Jo Vina Concilien vnd prelaten, fe
-vnd Opiss verbieten, so ligt es am tag, das Oi mit we¬
-nigers omd, dann die christlich kilch, Vff disen
-Opruch, wellen wir die Oach gesagt haben, Auch vff
-disen, S'achen zu, das v'ch nitt widerfare ein rouber,
-Ad Colossenses. ij. von dem ort an, lase der christ, biss
-zu and des capittels, da wirdt Er klarlich gnug Sachen
-das dehrin christ, Solick gebott, dauon der bicht vatter
-redt, ende men brudern vflegen mag, noch vil weniger die
-gangh christlich gemeind, Si Ist ein gespens Christi
-vnd kan nitt wider das hill wort gottes tun, Das
-Er aber witter Jnzogen hat, wer vth hort, der hort
-mich euch, Luce etc. gaben wir gern zu, wer da pre¬
-diget, das den Opostlen, dissorts beuolchen ward,
-namlich das heilig Euangeluun, das man Christum
-thove, So man Colichen hort, waer wil aber sagen, das
-man Christum hove, So man er der tijfken annimpt
+Die nider Sthlusß eed /
+lichen kilchen, das wil vermoge, das man dir liec
+Solle hoͤren, als Jnn, So aber der Cert, zu Schu
+thas vorgeschriben / ven Martin buczer geleit virdt
+vff die kilchen vnd di nitt redt vnn die kilchen, di
+ders von denen, die durch vnglouben vnd Jrsal, v
+tritten vind von der kilchen, darumb So hoff Job
+min argiͤment dtand deift, vnd gr vasteullich
+bewaͤrt,
+Mutnut binz
+e Bicgtrietir eigt, der prich, Mhino: in
+rede nitt von der Christlichen kilchen, Sundere vond
+den algetritnen vom glouben, das bagen ouch wirt
+Darumb aber, So Sine Concilien vnd frelcten, Es
+vnd Spiß verbieten, So ligt es am tag, das Si mit vit//
+nigero dind, dam die christlich filch / Vff disen
+Spruch, wellen wir die Sach gesarzt haben, Such vff
+disen, Saͤchen zu das uͤch nitt widerfarr ein vouber
+ad Colossen ses ij von dem ort an, laͤse der christ, bißt
+zu end des capittels, da wirdt Er klarlich gmig Saͤchen
+das dehein christ, Solich gelott, danon die kicht vattot
+redt Sinen beudern vfligen mag, noch zil woniger de
+gancz christlich gemeind Si Jst iin geszons Christi
+vnd kin nitt wider das hill wort gottes kim, Das
+Er aber netter Jmzgen hat wer uͤch hart der hott /
+mich ouch, Nutr vi gaͤben wir gern zu, wer da per //
+diget, das den Aposflen, dissorts beuolchen ward/
+namlich das heilig Euangelium, das man Christum
+hire, So man Selichen hoͤrt war wil abet bagen, dies
+man Christum haͤre, So man ler der tuflen aniumg

@@ -1,32 +1,32 @@
 # Seite 277
 
-Die ander Schlußred
-De von gott gelert omd, Vss. welichem volgtot
-min der ander Vrtickl, Eer lietet also, Die kilch
-Christi, machot nitt gesicht noch gebott, me gottien
-wort, Ool man erstlich verstan, In denen dingen, die
-vnser Oel Salikeit antraffend, Cum uuren¬
-Rien wir ouch hie nitt van Statt Tagungenn,
-Landsrechten, oder verordnungen, die lib und gut¬
-intraffend, wo voliche nitt wider gott sind
-zum dritten, wir reden hie van Oatzungom
-Die uns eroffnen den gottlichen willen, vnd die
-götlich geuettenn, Ons de hein bloss naturlicher
-mensch mag erkennen, 1. ad Corin. ij. Dunder
-Fins Solichen gedancken, sind als verr von den
-gedancken gottes, als hunel vnd foden, versaije
-Eve. Carumse der Einig Cum, der da Ist In der
-Ithoss des vatters, fohannis. 1. hat allein vns, den
-mussen offenbaren, welichem die Stim vsz. der
-wolcken, zügnis gaben hat, Mathei. xvije. E
-Ist min geliebter Enn, In welichem Ich ein wol¬
-gevallen hab, Een Collen Ir horenn, welicher
-Einiger Dun, den Onien het verbotten, das Oi
-Sich nitt sollen lissen meister namen vff ertrich
-Ouch keinen andren meister bekennen, dann Junij
-allein, Mathei xxiije. Er hat ouch den Onien
-beuolchen, das Oi mit anders Oollen predigen
-vnd leren, dann das Er Inen gebotten het, Mathe
-vltimo, Harumb So halten wir, In nichten¬
-dem teil die andren Artickels, Das aller men¬
-sthen bazungen, So man nent der kilchen gebott
+Die ander Schluͤsßred
+Di von gott gelirt vind/ Dsß milichem vte
+min dae nnder AArtichel, Der lutet alse, Die Jebr
+Christi , machot nitt gesatzt noch gebott, ane gottis
+wirt, Ail mmn erstlich virstan,/ In denen dingen der
+vnsor Sob dalckrit mtraͤffend Zum anden
+Iden nir ouch hie nitt von Sttt Sazungeu
+Vnderrchten der vrordnungen, die lib vnd zit
+atriffend, wo Seliche nitt wider gott Sind
+um detten / wie erden hie von Cazangem
+Dd vns eraffien don gettlichen williuͦ vnd die
+goͤllich grinttenn, Das dhein eriss natrliche¬
+mensch mag erkrimnen,/ j d Corii ij Sunden
+Eius Solichen gedicken, Sind als vrer von den
+dumhen gatze e um nd ziden. i
+eyo Darumb der hunng Sun, der da Ist Jn des
+Oloßdie vetere, Johamins 1jͦ gat llamn ras der
+mͤssen offankiren, mlichem die Seimn isßder
+molcken, zugnis guben het, Mathei, xvij.
+Ist min zluter vun Jn wlichem chh ain m
+gruallen hab, den Sollen Jr horeun, lliche/
+Eunger Sun, den Sinen het verlotten, das Si
+Sich ntt siflin lissin meister in Iff ertrich
+uch Simen indren msthe brlrnnen, dann Jn
+allom Nachn xiiji. het oichden dinon
+beuolchen, das Si mit anders Sollen predi gen
+vnd loren, dann das cEr Inengebetten het, seth/
+vltim, Harumb So halten wir, In nichzen
+dem tril diß andren Artickels, Das aller mon¬
+schen Sazuͤngen, So man nent der kilchen gelitt

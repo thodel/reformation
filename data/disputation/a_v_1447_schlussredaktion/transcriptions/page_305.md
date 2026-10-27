@@ -1,33 +1,32 @@
 # Seite 305
 
-Dema
-Die ander Schlussred
-komme vsz. dem heiligen geist, oder In der Obrist
-nitt bij gegrundt, das stat Inde noch zu bewaren
-Hoff ouch, das die wictoritet oder der Spruch. ij. ad
-Chimotheum. iijo. cap. Durch Jan Ingelegt, in
-das nitt werde helften bewaren,
+rnne
+Die andir Schluͤsßrad,
+tome uss dem haligen grist, der Indir Schrifst
+nitt ie gegrindt das Stat Im noch zubearen /
+moft dichndis d Mutentet oder dee Sfrrich ijad
+Ehuͤncium ii emp durch tin Jngeligt, Een
+das nitt werde helffen bewaͤren,
+Porchtildus haillar
 15
-Eerchtoldus heller,
-18
-Die kilch Christi, hat nie mit angenomen, dann die
-Im wort gottes gegründt ist, nich lut vnd dag
-der ersten bekanten Othlusshred, wer die kilch¬
-die nitt Christi Ist, die hat vsserthalb dan wort
-gottes, vil angenomen, Der Spruch Pauli. iien. ad
-Thimotheum iijo. der zoigt an, das die Obrist gingt
-sam Ist wißgemachen zur balikeit, 25
-Alexius grad,
-2-7
-In der andtwurt hevn Berchtolds, so Er spricht,
-das die kilch Christi, mijt hab angenomen, dann
-das In dem gotswort gegründt fst, vnd wie da:
-mitt geandtwurt haben, off das, So Ich Oprich,
-das die christenlichen kilch, etwas heb gesegt, das In
-Dem gotswort nitt gegrundt oije, das Ope durch
-Inn noch nitt bewart mitt der Othrift, Oag Ich, Ich
-hab nitt gesprochen, das die kristenlich kilch, mit
-angenomen habe, das nitt In dem gotswort ge¬
-grundt bije, Ounder Ich hab gesprochen, Er soll
-bewaren, das Oi Etwas hab gesagt oder grord
-not, das nitt Im gotswort gegrundt ope
+r kilch Christi het nie mit angrnomen, dumn de
+Iin wort gottes gegruͤndt Jst nich lut vnd Sig
+der ersten bekanten Schlussred, Aber dir kilch
+die nitt Christi Ist, die hat vsserthill dun wort
+gtettes vil angenomen, Der Spruch sauli ii°nd
+hunotheum in der zeͤigt an, das die Schritt guh
+sim Jst wiß zeichru zur balikeit,2
+Alerrus grad
+5
+In der andtwurt geon Berchtolds, Se Er Spricht
+das die kilch Christ, mit hab angenamen, dunn
+die Jn dem gotswat grgruͤndt Ist / vnd wil da/
+mitt grandtiurt haben off das So ich Sprich,
+dis die cheistonlich kilch etiis hal gesegt, das tn
+dem gotowort nitt gegruͤndt sye, das Sie durch
+tnn noch nitt bewaͤrt mitt der Schrift, Sag Ich, Ich
+hab nitt gefprochen, das die kristenlich kilch, amt
+angenomen habe, das nitt In dem gots wort Je¬/
+gruͤndt Sye Sunder Ich hab gesrochen, Er zul
+bewaͤrend das S. Eewas hab gesuzt dar grord
+not, das nit J Jotowort gagruͤndt eyr

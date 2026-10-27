@@ -1,39 +1,39 @@
 # Seite 288
 
-sond.
-Mwel
-mir ge¬
-ten,
-kind
-onder
-.
-iix
-Die ander Schluftred
-vff ban bringen, vnd sprechen, Es werde In geschrift
-nitt erfunden, das ende entlich ein Junckfrow bliben
-Oije, vnde frmassen nitt, Cas Esaije am. vii. Capittel.
-also stat, Darmus wirdt vch gott Ein wunderzeich¬
-en gaben, Numend war, Es wirdt Ein tochter
-empfachen vnd geburen, vnd sin nam wirdt sin
-finaniel, was ware es für ein wunderzeichen,
-das Ein tochter empfienge vnd gebure, So doch alle
-die empfachen vnd geburen, ouch Junckfrouwen
-sind gewasen, Aber das Ist ein wunder, das
-ein functfrow empfache, vnd ein funckfrow blibe,
-das bi gebare vnd Junckfrouw blibe, So Inde nun
-also, So volgot, das Si, vor vnd nach der geburt, fin
-funckfrow gewesen, dann dis Ist ein wunder,
-So wir nun nitt darwider haben In der Schrift,
-worumb Sol man Oagen, das Ir ewige Junck¬
-frowsthaft, nitt bewart moge wordenn; In der
-Ochrift, So doch das bewart wirdt, das si empfan¬
-gen vnd geboren het vnuerserter Junckfrowsthaft,
-vnd nugit das Oi geschwerft oije, hierzu dienst
-Couth, das Lute M. D. Selber redt, wie wirdt
-das zuijgen, So Ich de hein man erkenn, vnnd
-Ezochielis am. xxxiiij. capi.
-Johannes buchstab
-Als her Marti buijer, hat zu gaben, den Prumtag
-vnd zwölfbotten tag, vfgesegt sin worden von der
-kilchen, frout mich, wann alles das, So die kilff
-haltet, vnd mitt gestrigs wider das gotswort sich:
+nd
+ged
+m
+vn
+vind
+vnder
+2
+1
+Drnde belussnd
+vff lin bringen vnd Oprechen Is werde In geschrist
+nitt erfunden, das Si entlich an Junckfeoͤw hliban
+sie vnd Ermaͤssen nitt, Das fage am vij Capittil
+lso Stat, Darumb wirdt uch gott Ein wunderzeich
+in gaͤben, Noͤmand war, Es wirdt Ein tochter
+empfachen vnd gebaͤren, vnd din nam wirdt ein
+Emannel / was waͤre es fue ein wuͤnderzeichen,
+das kin tochter oinpfienge vnd gebaren So doch alle
+die empfichen vnd gebaͤren, auch Junchfroͤwen
+sind gewasen, Aber das Jst ein wunder, das
+wun Rimiclfrair ompfache vnd ein Junckfroͤw blibr,
+das Si gebaͤre vnd tint froͤw klibe,/ So Jm nun
+also, So volget, das Si vor vnd nach der geburt, Em
+funkfein garisin,/ dum dis ist ein wunder /
+m nun ndt darwidee haben Indir Schritt,
+worumb dal nn Sigen, das Ir ewige Junck
+froͤnschift, ntt kevalt mogt werdenn, In der
+Schrift So doch das bewaͤlt wirdt, das Si emptem/
+en vnd gcbnon het rnunsiter tucktrunrsthift /
+vnd n i gste hu danit
+uh du cl ie dille ridt as mudt
+das zustnn degiin nn orken vnnd
+Eichielis am xxvvij. cati
+trhns kuchstl
+Ver ger watti luner eg zugilen, de Damntig
+nd wilfzitten tig, vfgesiht ein wordris von der
+krchen frcrit mch wann allie die / So die airch
+heotet vnd nit gestrige nider s getomiet tich//

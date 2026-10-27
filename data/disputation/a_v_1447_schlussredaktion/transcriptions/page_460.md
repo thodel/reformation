@@ -1,39 +1,39 @@
 # Seite 460
 
-fürstens
-schen
-in Wort
-in eins
-wintt
-Die vienden Schlußend 19¬
-Is muß Is vor Im mönstehen, en was erkantnus sin,
-soll er gelert, mogen werdenn, wen man thusent
-har einem vmbekante wort furchub, so wurd doch
-einer nichts dester helerter, en verstand dan ouch
-vnnd so aber die wortt 24
-Die voortt
-verstendig sind wurtt der mensch Inwendig er¬
-wegt, das er erkenne, Das van dem da geredtt
-Wirtt, Darzu sind verordnet worden, die wort
-vnnd sine gul. uit geben, sonderliche krafft etwas,
-Ober der
-off zerichten wijters dann gesagt
-acht pottes, der da erluchtet, der gibt solche er¬
-kantnus, Es over Jo vss. der wysz, Das wir
-dem vsserlichen wort mer zugeben van der
-person, die solliche vsserliche wort redt, damit
-Paulus spricht er sie int appollo, soe ouch midt wie
-sollt dan das vsserlich wort solchs hoche krafft
-han, vnnd solten die wort das machen, oder brin¬
-gen, Das sy lutend, so wurdent die apostell vnnd
-alle prediger, all Ir zuhouer gleubig machen, Dan
-sij reden, Die wort des glaubens vnd wurde
-Der glone Denen zugefugt, welches alles ab Dem
-Alsz ist die würckung des
+wend
+echen
+ale
+o ein
+un
+Die verd schlußned ir
+Es miß vir Im maͤnscten atwvie erbantnnig n
+soel er gelert / moͤgen werdenn wen man thuͤsent
+Jar einem vmbekante / wort fuͤrhub / so wurd Doch
+einer nichts dester gelerter / er verstond / Dan ouh
+vnnd so aber die wortt 20
+Die wortt /
+verstendig sus wirtt der moͤnsch Inwendig er //
+wegt / das er erkenne / Das von dem da geredtt
+wirit / Darzuͦ sind verordnot worden die wort
+vnnd find Ind nit geben / sonderliche krafft ettwas //
+Aber der
+vsßerichten wyters dann gesagt //
+geist gettes / der da erluchtet / der gibt solche er //
+kantnns / Es wer Je vsß der woß / Das wir
+dem vsserlichen wort / mer zuͦ geben dan der
+person / die soͤliche vsserliche wort reden Samt
+Paulus spricht er sie nit appollo / sye ouch nudt wie
+sillt dan das vsserlich wolt / solche hoche krafft
+han vnnd solten die worg das machen / oder brin //
+gei / Das sy lucend / so wurdent die apostell vnnd
+ale prdager / zu hoe glenlig machten / dan
+ss reden Die wort Des gaubens / vnd wirde
+Der gloub denen zuͤgefugt welches alles ab dem
+A llso ist die würckung des
 weg ist
-hern, wie wirs haben, Marci am lesten cap:
-die wort aber vnnd Sacramenten, tragend min
-Die bedutnus
-pfarrer von Santg.
-off den Jntrag so die wort verheijssend
-oder beduten ende Sagen wir allso, got. der her¬
+hern / wie wirs haben / Marti am lesten cap:
+Die wort aber vnnd satramenten / tragend min
+die bedutnus
+pfarrer von Sinte
+eE den Intrag so die wort verheissend /
+oder beduten / n. Sagen wir allso / get der her

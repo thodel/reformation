@@ -1,35 +1,35 @@
 # Seite 552
 
-weer und
-4
-Die 4. stuijvende
--23
-verlassen, vnnd den selligen gnaden, wo er sollichs
-vergicht, Mamlichen mitt dem götlichen poort
-allein gehandlen, so wirt gehandellt, nach dem vnd
-mine gnedige hern von Derim, ouck ein Bri¬
-Appenzell In beuelcx
-teilich oberkeit zu
-geben hand
-Pfarrer von Openzell
-Das uns vnsere herren van Appenzell hir¬
-har gesandt haben Ist niemands darwider So
-er dann seitt von Dij orten der Tidtgroßhafft
-von der Disputationhalb so loblich gegallten ist
-Nou minen hochgepietenden Hern von Berum
-vnd dis andern all vor, hab ick mich nach
-ordnung vnd satzung, der gemeinen Christenlichen
-kilchen, biess her langzig gehalten, bin des sinns
-So wyt ick mit dem wort potes int wyters
-bericht wirt, von bemeester Christenlichen kelchen
-int zestan. So er aber mir die kilchen vss¬
-leitt, nempt sij die Bäpstlich kegen ende frap
-sich Junij
-wo die syg gsin vor viergks
-funffgs oder hundert jaren, so doch sin per vnd
-nepruwen
-wie¬ sy jetz ein lange zyn Im
-bruch hatt gehan, so by der gemeinen Chri¬
-stenlichen kirchen int ist gehalten
-Walltherus Claret
-Liewijl der pfarrer van Openzell sich ver¬
+s
+2
+Due # Clustrnd
+2
+vrlisen / vnd denselgen / gneden / woer selchen
+vergicht / amlichen mitt dem götlichen wort
+aleizehandlen / so wiet gehandelt / nach dem vnd
+mme gnedige hern von Bernn / ouch ein Chri/
+Appengel In bevelch
+tenlich oberkeit zu //
+geben hand /
+Pfarrer von penzel/
+Das vns vnsere herren von Dppeigell hu //
+har gesandt haben / Ist niemands darwider / So
+er dann seitt von dij orten der Eidtgnoschafft
+von der / Disputationhall So loblich gehallten ist
+von minen hochgepietenden hern von Bernn /
+vnd die andern / all vor / ab ich mich nach
+ordnung vnd satzung / der gemeinen Christenlichen
+kilchen / bisß her langzyt gehalten / bin des sinms
+So wyt ich mit dem wort gotes nit wyters
+bericht wirt / von bemeher Christenlichen kilchn
+nit zestan / o er aber nir die kilchen vß //
+leitt / nempt sy die Baͤpstlich kilchen /n. fpag
+ich Inn //
+Ws die syg gsin / vor vierges /
+fiffgs oder hudert Jaren / so doch sin ler vnd
+meynung
+wie sy Jen ein lange zyt Im
+bruch hatt gehan / so by der gemeinen Chri //
+stenlichen kilchen nit ist gehallten /
+Wallcherus Clarlt
+velcyl der pfawrer von Apeiel sich vor //

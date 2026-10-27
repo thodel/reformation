@@ -1,48 +1,47 @@
 # Seite 260
 
-att sin¬
-ex ein
-bistich
-wie
-them
-re pro
-Dienen
-zum
-anzogen
-Gerath
-& wijs
-105
-die erst sthlus goedt
-Die gnad vnsers herren, Jesu Christi, Sig mitt
-Jens allen amen
-das Christus sive
-genser einig houpt, Der vns lebenden macht sin
-gnad vnnd barmhertzigkeit, vnns mittheilt, Ist
-das aber Dabij uit solle sin
-vax
-ein gestlicher gewallet, oder regiment mag mit
-Dan
-Der ystchrifft int erzoigt werden
-„ spruch
-Paulus zum Rhomern am sijn cap: Das aller
-Der geistlich gevalet ist
-gewallt van pott sijs
-sein gewaelt gsn. Die wyl die Christenheitt
-hatt gewertt. Darumb soll es niemand wi¬
-dersprechen, Er hetten, Dan heute Elare voorschrifft
+cer e
+rren
+nit
+wind
+fen
+Dsen
+zu
+pg
+ler
+le
+108
+Die erst schlsßsied
+Die gnd vnsers herren / Jesu ghtrist / sig mitt
+vns allen amen /
+Das Christus sige
+Jonser einig heupt / der vns leberig macht sin
+vndd vnnd barmnhertzigden / vnns mitthert / Ist
+das aber daby nit soͤlle sin
+war
+ein geistlicher gewallt / oder regnnent mag mit
+dan
+er gstarifft nit erzaigt werden
+rht
+Pamlus zun Rloͤiern am xiij cap: Das aller
+Der gestlich gwallt ist /
+gewallt von gott sy //
+ein grall sn Diewe De Christenheit
+agewere / Daruml sol es nimand eri //
+een Erheren Dan hene Cenegskhift
 Darwider
-Werchtoldus
-Ver Beegen, argument, Ist gester gnugsam
-wer ick put int In das
-erluthert
-Sauturen
-er den heiligen palum woll gesoche zum
-J'derman sijn
-Vleinern am xiii cap:
-vnd vserd bölicher texff
-vnderthanig der oberkeit ende Iets ordentlich ver¬
+Berchtoldus
+Hot Degen / argumen / Is geser gnigsam
+Wber ich pit ich In / das
+Cerluthert /
+Panu
+er den heiligen pͦ ͦlu woll geseche zum
+Derman sig
+Rfoͤmern am xiij cap¬
+vnd lird boͤlicher rif
+vnderthainig der oberkeit en. Jetzordenlich ver //
 lesen
-Billem
-mit
-Paulus zum Rhoniern. Nimpt met vss.
-Er spricht aller gevallt ist van yett, vnnd das
+lls
+mit s
+Panlus zuͦn Rhainern Nimpt undt vsß
+fErspaicht aller goellt ist von gar vnnd das

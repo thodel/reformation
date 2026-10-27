@@ -1,34 +1,33 @@
 # Seite 740
 
-une
-317
-Westbluss hern Berchtolden haffens
-Ersamen fromen Christen, als dann wie ernordret
-sind, von unsern gnedigen herren einer Statt Bern,
-Rechnung aller mencklich hie In oftner disputation
-zu¬
-zugaben, die geschrift van horen, vnd mitt hilff
-vnd guld. gottes, erfunden, Ob doch wir derselben,
-die dann van gott Ist, vnd die salbs gottlich warheit
-allein, gemaß vnd einhall gepredigtot heben, wel¬
-ches min, durch die furgetragen zijchen Chlusz:
-reden, nach aller lange, vnd des handels notturft
-besthijchen, In hoffnung, Es werde sich, bij allen
-Christenlichen hertzen, oo der warheit, mitt gelass:
-nem gemut begierig, Er finden, das wir nitt vs.
-hochgeblijssner tuxwig, Als ob wir fur ander gelert,
-etwas muws, der Fr. gottes widrig, vnd gottlich:
-ein wort ungemiß, zu unserm nun vnd eigner
-Er, soliche warheit zu predten, verursachot sijnde,
-Ounder illein die Pr gottes, vnd heil aller fromende
-glaubigen, besunders einer loblichen statt vnnd
-votre
-Landtschaft „ Bern, zu furdren, Duch ermassen,
-Oas Othwar generlich Ampt, darumb wir ge¬
-gen gott, einer grossen Rechnung ervordrot werden
-ende inde wir genotigt, also trungenlich vnd ernst¬
-lich, mitt fugen vnd vnfugen, mits ruche vnd
-faustinutikert, das fuangelium Jesu christi
-nach dem wir van gott begnadot, harfur zetragen,
-Ond namlich zu dem ersten, das wir uss. grosser
-erbarmbe und gnad gottes, erfunden habenn,
+i
+3
+Distlisßhrun vrngtidin illen
+rsimen froͤmen Christen, Ols dann nii ervondee
+sind, von vnsern gnadigen herton euer Gtatt Rzen/
+Rechnuung allermencllich hie In offner disputacin
+zi
+zugaͤben, die geschrift Shoͤren, vnd mitt hilff
+vnd gnad gottes, erluͤnden, Os doch wir derselben,
+die dann von gott Jst / vnd die salls goͤttlich warheit/
+allein, gemaͤß vnd einhaͤll gepredeget haben, wel ¬
+cheb mun, durch die furgetrignen zathen Schluͤss¬
+reden, nach aller lange, vnd des handels notturtt
+brsthachen, In hoffiung Es werde Sich / by allen
+Cristenlichen hertzen / So der warheit / mitt gelaß :
+nem gemit begirig eykinden, das wir nitt vss
+hochgellisnor furmig / Als ob mir fur ander glett
+etwas nuws, dor Er gottis widrch , vnd gottlich¬
+ein wort vngemas zu vnserm nuitz vnd eigner /
+Er solich warheit zuͦ predten vorulsachet errd,
+Sunder allein die Er gottil, vnd heil aller fremen
+gloubegen Eefunders einer lollichen Stalt vnnd
+dtschift dern, zufurdron, Duchermaͤssen, vo v
+Das Schwaͤr gruarlich ampt, darumb wir ge¬/
+ten hoit wuer grosfen lechnungt oruordest worden /
+Sind wir genoͤtiget, also trungenlich vnd erust¬
+lich / mitt tugen vnd vnfugen, mitt ruche vnd
+haͤnftnutikeit, das huangelium Jesi hristi
+ach dem wir von gott begnͤadot, harkuͤr zetragen,/
+Vnd namlich zu dem ersten, das wir vsß grosser
+erbaͤrmed vnd gnad gottrs / erfunden habenn

@@ -1,32 +1,32 @@
 # Seite 507
 
-Ihere mijn, am ende cap: Wir wollend In lassen,
-das hollts Inn sin brotje ende Da durch
-Das wortt brott lijb verstanden, wirdett, Ich
-hette woll darfur wens es an Dyven ortt
-Der verstand pauci Also wie ers namp
-sott brott, hette er ouch melding than Des
-vorts win
-Von dem Zeichen in gefurt
-Lassen over alls argumenten rationis Den
-horenden vnnd lesenden, darumb erkennen
-Lovingh
-Sie erkennen voll Das offt ein Dingen
-Den namen Des behept Darnsz es gemacht ist
+frene / an ha vorwrernd Inlist/
+Das holltz Inn sim brot. Da dur
+Das wortt broth lyb verstanden / wirdett
+hette woll derfur / were es an Disem ortt
+Der verstand paubi / Alsy wie ers namp
+sett brot / hette / er ouch meldung than / des
+Worts win /
+von dem zeichen ingefuͤrt
+Lassen wir alls argumenten rakionis den
+hoͤrenden vnnd lesenden / darumb erkennen /
+wingh
+Dir erkennen luell Das offt ein dics
+den namen / des behept / Daruß es gemacht ist/
 Dann wo
-das dient aber, hiehar mitt
-Der lichwam Christi voorss. dem brott gemacht
-So over hie die verwandlung der
-over
-substantz, des brots In die substantz des lich¬
-welche versubstantzing
+Das dient aber / hieher niit /
+der lichnean Christ vsß dem brott genab
+wer e die ver wendlingden
+wer
+susstam / Des krat In die siestenz gelich
+welchte verses tanzung
 nams Christi
-sy mitt vns mitt erkennende vnd thune das
-recht vnre Christenlich Dan oo Im an¬
-derst, so vers mitt allein das geschlicht oder
-am Abrahams angenomen, sonder onch
-Das gesthecht oder samen des korns wie
-Vor gnugsam erklart ist. Den Spruch
-Jherenus am xi Der staet was ein andern
-sinn hart weder gemenckich wirt auszeigt
-bedarff keins verantwurtes, Dann nach
+mitt vns nit er demeid vnd tend das
+rech vnnd Christenlich / Dan wo Im an //
+derst / so were mit alben das geschlicht oder
+Dam Lrhine anenomen / sonder / auch
+Das geschlrcht oder somen der korns wie
+vor gnugsam erkurt ist / Den Spruich
+Mhereme am ( ͦ Der erwas ein eindern
+sum hatt weder gememlich wirt angezeygt
+bed arff keins verantwurtes / Dan nach

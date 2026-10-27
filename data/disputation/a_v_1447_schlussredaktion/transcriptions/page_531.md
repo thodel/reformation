@@ -1,29 +1,29 @@
 # Seite 531
 
-wijl er vnser fleyten, vnsere ware natur augeno¬
-men vnd zu solltcher herlicheit gebracht hatt
-will wer naturliche Dinge, hatt er hie vff
-erden gewurcket
-wer nit, das smen lijb
-int hette gelassen ein waren menschlichen lijb
-sin
-Der massen ist aber int allenthalben
-geven wurde gesien, Es ist ein egent strafft. Der
-pöttlichen natur, die glichmissen Ingefurett zij
-men sich ouch mitt is ist pax ceijt van ein¬
-andern Das ein ons zumall viler 9 ß. stellt vassen
-vnd ein poort, von viben oxen empfangen overde
-Dan Das ein warer naturlicher leb der sin
-eerste grossen vnd lidmasz haben soll, sie zumael
-an vilen orten vnnd In dem so wir allso bekennen
-Das vnser her ein haren namplichen monsth¬
-lichen lijb hab Doch getzunder klarifiecett
-schmeleren wir sine eer gar nichts, sonderb machen
-sy pros Demlich Das, wir In so gut vnd
-gnedig wer vns prijsen, das er hatt vnser bruder
-vnd vns aller Dingen C allein die stind vande genomen¬
-wollende glich werden vff Das wir durch Jun
-kinder gottes wurdent
-pfarrer v. s. g.
-Das so vff lange Ingefurte antwurt ijber
-2.° 2.
+wil er hist sleisch vnseie wire maur anger/
+men / vnd zuͦ soͤllicher herlicheit gebracht haer
+vill uͤber naturliche ding / hatt er hie vff
+erden gewuͤrcket
+Aber nit / das sinen lyb
+nit heil gelassen ein waren moͤnchlichen lyb
+sin /
+Dermassen ist aber nit allenthallen
+gesenwirig gsy / Es ist ei egeitstchafft den
+gaͤtlichen mur / de slichnisen Igefuͤrent ly//
+men sich ouch nit Es ist gar wyt von ein //
+andern / das eij ong zuͦmar vrler gestllr vasse
+vnd ein wort / von vilen oren eupfigen wede
+dan das ein warer naturlicher les der sin
+eignie grasse end ldmaß haben soll / sy zuͤmal
+an villn oren / vnnd In den solir allßo bekenen
+Das vnser her ein waren natolichen moͤnsch //
+lichen lyb hab / Doch jetzinder glarifmertt
+chmlltren wir sine eer gar nichts / sondernachen
+sogrs Denlich das bor In so guͦt vid
+gnedig uͤber vns presen / Das er hatt vnser buiden/
+vd vus aller dich dallen die sind vßgernen
+petled glich wotrden vff das wr darch Im
+kinder gottes wurdent /
+pfarrer vis.ͦ
+as so rff lang zigtfir awnnd trorr
+i

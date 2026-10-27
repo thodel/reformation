@@ -1,30 +1,30 @@
 # Seite 685
 
-Die. vii. Schlusstad,
-Berchtoldus Hatter,
-Sesz.glichen wir ouch
-Johannes buchstab,
-Des Othickers halb, Oprich Ich also, So wir vmb vn¬
-ser vunden renitenen tund, oder straff darumb liden,
-wie Er vmb die binnen gelitten hat, mitt einem vol¬
-kommen glauben, werden wir aue zwifel mitt Jan
-gliche beloming empfachen, Auch ein getlicher, So
-volkomenlich glaubt, Das hangt aber daran, als vor
-ouch gemeldet, welicher in Christum Jesum wil
-glouken, muß vollbringen alles das, So fr gelert het
-Eeren zu besorgen wenig Ist, Das aber die Richen
-farzit begangen, vnd oomlichs den Armen, die
-Comlicks nitt vermogen, nitt zu nug kumpt,
-gestand Ich nitt, dann de hem vigilg noch Delmast
-gelasen wirdt, da nitt fur all gloubig Oelen, In
-den collecten ouch gebatten werde,
-Verchtoldus hebben
+Die vij Sielusßrid,
+Brrchteldus haller,
+esglichen wir ouch /
+hohame buchstal ¬
+re Schacherehall Sprih Eih als, So wir vmb vnd
+ser Sund Coniteng tund, oder Straff darumb liden/
+wir Er umb die Sinen gelatten hat, mitt einem vol //
+konmen glauben, werden wir aue zwifel mitt Jmn,
+gliche belonnng empfachen, Such ein trtlicher, So
+vollemenlich gloubt, Das hangt aber daran / Als vor
+ouch Jemeldet woelicher an Christum Jefum wil
+glibin muß volkbrucgen alles das, So Er gelatt ert
+Deren zuͤbesorgen wenig Jst, Das aber die ichon
+tarzt begangen, vnd eimliche den drman, die
+Soͤmlichs niit vermagen, nitt zu nuͦtz kumpt,
+erstand Ich miit, dann dehein vegilg noch Silmͤs
+gelasin wirdt, da nitt fur all gloubig Saten, Jn
+dan Collicten ouch gabetten worde/
+Gaorchtolduz hallir
 10
-Des Othathers halb, bedarff de henier andtwurt,
-Ouch was vom glauben harm Ift gezogen, dann es
-dehem fagfur probiert, vnd nacht nach der lange,
-durch Meistern Vlrichen erlutrot, Das aber wir
-Oprachen, All todten dienst, Open widrig der liebe,
-Darumb das Pi úberflussiger tus die Richen beschach:
-en, dann für die Nomen, die si nitt Stiften, ligt
-am tag, dann So der Rich nitt verhoffete, das Im
+Die Schithzere kill / brdacft Schomer andtwouet/
+Ouch was vem gliuben harin Jst gezogen, dann es
+dahein fagfur peobort, vnd nacht nichder lauge /
+durch Maistern Dlrichen erluͤtret, Das aber wir
+Sprichen, Alltodten dirnst, Syen widech der lebe //
+Darumb das Si uͤberflussiger fuͤr dir Suchen beschaͤch/
+en, dann fur der Armen, die Si nitt Stoͤften, ligt
+am tag, dann So der Rich nitt vorhoffete, das Im

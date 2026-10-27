@@ -1,40 +1,36 @@
 # Seite 602
 
-will get
-that I
-welcher
-nicht
-to one in
-In Fuder
-E90
-#ann. viiii.
-7
-254
-Die funfje Schlußredi
-So gnugsam gehort Ist, das kem ander opfor syn mag,
-weder christus, Auch weder Christus noch die Apo¬
-stel, den worts oder dings Masb, oder des des des nacht
-mal ein Opfer gre, fe gedacht haben, So Ist gronsz.
-das alle kundtschaft, die vss dem alten testament,
-harfur gezogen wirdt, nitt bewaren mag, das ein
-ander opfer 8ije, dann Christus, oder das Christus mer
-dann eniost, vfgeopfot mogt werden, Des Spruchs:
-hibb Canielis nu xij. zagen wie Inen an, das das
-selbig ainsig opfer, das liblich Iudisch opfor gewasen
-Ist, Im alten testament, Das erfindt sich erstlich,
-Danielis viiii. et xi. Mathei. xxiii. vnnd
-Luce. xxjo. volman lijsenn
-Egidius murer,
-Christus hat dese Othrift angezogen, Im heiligen
-fuangelio, vnd mag nitt allein verstanden weveen
-dem bijchstaben nach, von der ufhorning der Opfer der
-Juden, Ounders es mijsz ouch nach dem geistlich¬
-en gun verstanden werden, von der lesten zitt
-Das wil Ich bewaren durch den vorgenanten Cani¬
-elem # Ea für Bricht, das opfer wirdt vfhoren,
-vnd der gruwel der freidung, wirdt waren oder sin
-In tempel, vnd wirdt waren bis zu ende, wie hat
-heitter geredt Caniel, van den lesten zitten des
-Endschritts, vnd dann so sol wodet werden der
-tempel, Caruor vns gott behute, das wirs nitt
-an fachen, bij unseren zitten 19
+e
+in
+e
+tam viiij
+2
+25
+Die fuͤnfer Scllußred
+gmifsin gehilt Ist, das hein andie opfer zin mat,
+weder Christur, Such wader hristus noch die Apo¬
+steli deg worte der dinge / Maͤss/ der das dis nacht
+mal oin Spfer exx,/ Jr gedacht haben,/ So Jst gnuͤs,
+das alle kuͤndtschift, die vsß dem alten tistament,
+harfur geegen wirdt, nat bewaͤren mag, das ein
+ander opfen eir, dann Christus, oder das Christusmat
+dann ounost, vfgropfret micg worden, Das Spruchs¬
+i
+sietanicg ofer, die lillich Jndisch opfir grnosen
+Ist / Jm rn testament, das erfundt gicheistlich
+Damelie vnn et x athei xij vnnd
+wer j ͦ Sl manlis
+Egidunt murer,
+zustur aet ds dchrifrngtegen e heilcnn
+Bungren / vnd ng intt ali vnstiden iniden
+dan diestcbin nuch vn die affllung de dcfer der
+Jnden Dundere os is aich nich dem gristlich¬
+on sum verstanden worden, vonderlisten zutt/
+Die vil Ich bewaͤren durch din vorgenanten Dami/
+alointt da Elr Spricht, das opfit viedt vfhelenn,
+vnd der gruͤmel der Eredung wirdt waren eder zin
+Ii tocel vnd nnrdt waren lißs zu ande wir hat
+Batter geredt Samel vmn den lesten getin das
+Endchriste, vnd dann go eil wodet worden der
+tampel, Caruar vns gett lehuitr, das wirs nitt
+mfachen h viseren zetten,

@@ -1,30 +1,30 @@
 # Seite 689
 
-Die vii. Schlussered
-straff, Also wirdt si dort ouch riii, vnd Ist die straff
-des kerckers, nitt ewigt, als die hell, Als wir haben
-Esaijr. xxiiije. Si werden In beschlossen In den kerker,
-vnd werden nach vil tagen heimgesucht, vnd wirdt
-niendert funden, das das wortli kerker, ein ewige
-vfenthaltuug beduijte,
-Doctor Johannes Oecolampadius,
-Viser Opruch, bij dem Propheten E'saja, dienst dem
-Schulmeister outh nitt, dann an disem Ort, heim¬
-suchen Ist nitt em trostliche heunsuchung, Quider
-ein träfliche, vnd gat diser Opruch, vil mer vff
-die verzwifloten, vnd die, To ewige verdammis ver
-dienst haben, dann vff die glaubigen, wo man
-die alle gory welt annamen, Oann der text het al¬
-so, vnd In deintag, So wurdt der herr, heimsuch¬
-en, wer die Rittersthaft des himmels, In der hoche
-vnd vber die kung des Ertrichs, vff dem Entrich,
-Da wil Er je sagen, das gott die vyend der kin¬
-der Israhel, vnd der gloijbigen, straffen werde
-Nun Ist wol wijssend, das voliche Fijend, der
-erlösnug nitt warten gind, Vnd sagt, das Ti also
-gestraft sollen werden, vnd ende werde versam¬
-not, wie ein bijsthel In der gruben, vnd werden be¬
-schlossen Inden kerker, vnd also noch vil tagen,
-So die kinder gottes, von Inen vorhin Durchachtung
-erlitten haben, Ouch Si heimgesucht vnd gestraft
-werden, vnd go das vrteil gottes, vor anhept an
+Dir vij / Schlussd
+Ctraff, Also wirdt Si dort ouch ein, vnd Ist die Stratt
+Der kerckers, mit wig/ Als dir hell,/ delg wir haler
+kfayx pxiiij. Si werden Jubeschlossen In den kerker,
+vnd werden nich vil tagen heungefuͤcht, vnd wirdt
+niendert funden, das das woͤrtli kerker, ein ewige
+vfenthaltung bedute,
+Critn kenmn diclunedus
+ilu Cpruch e dam Crapgiten Esij. dant am
+Shulmeister orch nitt, dum an disem et, heun /
+fuchen est mit ein trostliche heunsuchung, Sundar
+ein Strafliche, vnd gat diser Spouch, vilmer vff
+die verzwifloten, vnd die So ainge verdannus vor
+dienot gaben, dann vff die gloͤubigen, wo man
+di Allegory wlt annamen, Dann der tept het al¬
+fo vnd In dem tag / So wuͤrdt der herr heunfuch¬
+ei, uͤber die Sutterschaft das himels, In der hoͤche
+vnd uͤber die kuͤng des Ertrichs, vff dem Ertrich,
+D wil Er te dagen, das gott die vpind der kin/
+dar Ehrahel, vnd der gloͤubigen, Ctriffen werde
+im ist nie wussind das Sliche end, dig
+orisug mft varten gind, vnd srgt dis Si ch
+grstrift eei eedin vnd Si warden vnsam
+nit i ein buschal In der geubru vnd worden in
+schlissen Jnden kerker, vnd also nach viltagen,
+Pede knnder gotis, von Jnm vochin durchacztung
+arlicten haben, duch di hrungisuͤcht vnd gestratt
+norden / vnd oo das votril gottel, vor anhept an

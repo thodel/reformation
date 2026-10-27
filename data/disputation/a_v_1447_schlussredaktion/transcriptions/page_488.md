@@ -1,36 +1,34 @@
 # Seite 488
 
-and
-gedenckt
-10/10
-500
-191
-die vierd schlusgesd 204
-Das blut Des muwen thestaments genampt wurden
-sie zeverstan, allß geschrieben, ist, geuesus, am beij
-mitt sollichen worten, es soll beschnitten werdenn,
-Alles menliches geschlechs vnnd de sollene be¬
-schinden, das fleisch viver vorhut, vff Das
-Ses sy ein Zeichen Des punctes zweijstchen mir vnd
-Vch, hie merckt ein geschlicher zu horende vnnd
-noch läsvr. Daß sich der thijxt des punes
-halb, selber vßleitt, es sie allein ein Zeugen stunde
-brie Jun den worten, des nachtmals es ist ein
-zeichen des theftaments, oder bluts so mocht Ich
-ann disem ort versichert sin, So aber statt
-hall on alle ustlegung, Das ist min blut Des
-muwen thestaments vnnd nitt ein bedutung her¬
-Doctor, so ist vnsere gewijssne noch nitt versichert
-Einen andern verstand zuzelassen, van dem ont¬
-off die schlußred
-Hierum petit principia
-das Da int sy Ovesenlich vnne lijblich Das
-fleisch vnnd blutt Christi, Haben over dar¬
-gegen gestellt, zu einer bewaring Mathenn
-vnnd paulum mitt Iren worten Dan je gott
-abnechtig vnnd warhafftig So ist de doch zum
-wort des kelchs, Das wörcken enim zugesetzt welches
-ein bruestigung vnnd erklärung ist, bij welcher
-erklaringe des wortlys enim woll zuuerstan ist
-Das man trinckert,
-colampa Dins
+peen
+o0
+4
+Die vierd sohuszed rot
+Die brin / Des miwen thusteamens / genauptwaden
+sie zeverftan / allß geschriben / ist. genesus / am xvij
+mitt soͤllichen worten / es soll beschutten werdenn /
+Alles menliches ggschlocht / vnnd Ir solend be //
+stand d das
+einzeichen de nde zonschen mir id
+uih hie meret ein Jesklicher zuͦ hoͤrend vnnd
+ouch laser Dist sich der thert des punder
+sober vstletet es sie allen ein zenhen / stinde
+hie Inn den woͤren / des nachtmals / es ist ein
+zeichen des thetamente / ader bluts so moͤcht Ich
+ann disem orit versichert sin / So aber statt
+hal on albe vstlegung / Das ist min bluͦt/ Des
+nuwen thestaments / vnnd nitt ein bedinung her/
+Dottor / so ist vnsere gavisene noch nitt versichert
+einen andern verstand zuͦzelassen / von dem ort
+Die schlußred /
+Icterum pelit puitligia
+Das da nit sy wesenlich vnnd lyblich das
+fleisch vnnd bluͦtt Christi / Haben wir dar //
+gegen gestellt / zuͦ einer bewaͤrung Matheum
+vnnd paulum mitt Iren / worten / Dan je gott
+almechng / vnnd wathafftig / So ist ze doch zum
+wort des kelchs / Das woͤrtly eim zuͦgesetzt / welches
+ein beuestigung / vnnd erklaͤrung ist by wercher
+eclarung Der woͤrtlys eum wall zuͦnerstan ist
+Das man trickerr
+Golampadis

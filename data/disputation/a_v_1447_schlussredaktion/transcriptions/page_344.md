@@ -1,32 +1,32 @@
 # Seite 344
 
-144
-Die dritt Schlußred,
-das genampt gul. ouch In angenam, Als wir
-jouch In der schrift haben, als Nathei am. xx.
-Beruff die arbeitter, vnd gib fuen den lon, hun
-wirdt de heiner, de hein arbeitter atenant, der da
-mussig get. Eer het het onth de hem en In sin
-wingarten wellen bestellen, mussig zügan, jun:
-ders zuarbeitten, vri haben onch ein klaren spruch
-prinnu Cornithiorum am iiii. wie der herr fin
-hetlichen belonen welle, nach ziner arbeit, vnd clar¬
-lith bestblust, wir sine gehilften gottes, Ea
-sol het foleij, vnd gri mittparthij, wol betrachten,
-was der Apostel gemenit het, mitt der clausel,
-wir sine mitthelffer gottes¬
-Herr Polen
-De herr Pfarrer mitt verlougnet christum, verstan
-wir, mitt gangem ziuem verstand, nach art zure¬
-den der schrift, wirdt uns vnd den unsern schilflich
-gin, Ist war, unsere werck ende ind nitt verdienstlich,
-vss. uns, aber vff dem geist Christi, vnd souel
-Opruch, wie vorhin ouch, als toch verantwort wer¬
-den, So is vff gnaden, So Ists ten nitt vsz den
-wercken, ad Romanos am xi. Ist kein wunder,
-das min herr Pfarrer, die Cath nitt merckt,
-dann die unwussenden der gerachtikeit gottes
-eigne gijchen, oud nitt unverwurflich der geraes¬
-tibeit gottes, zum Romern am x. vnd damitt
-referieren wir vns an die othrift der Notarienn,
-29
+i
+Der daet Scheissnd/
+die genaͤmpt gut, ouch Imj angenun, Als wir
+ouch zn der schrift haben, als Nathei am xv.
+Beruͤff die arbeitter, vnd gib Inen deulon, Nun
+wirdt, deheiner, dehein arbeitter genant, dor de
+muͤssig gat, Der herrhat ouch deheinen Jn pin
+wingacten wellen bestellen, musfig zugen, zum¬
+darg zuarbettten, Wir haben ouch ein klaren gpruch
+prue Cornichierum am ij wie der hore Ein
+fetlichen lilonan welle naͤch siner arbett vnd clar¬/
+lich Eeschlust wir eind gehilffen gottes, Da
+ol eir i vnd sin nittzathi nie latracheen/
+was dir Apostee Jomant hell mitt der clau sel
+wir sind mtthelf t er gottes
+kirt fal
+1 hurr Sfawir mtt verlignet Christun, vistan
+n ndt n ne vestand nich att zuar
+den dr schrift vnde vne vnd den vnsorn behilflich
+ein, Ist war, ansoer worh sind nett verdi enstlich¬
+vss vns, aber iss dem geist Christi/ vnd gol
+oprich ine richin ouch , abs Eiz erandtmuͤtt nor/
+dan Si Es vss gunden, So este Jnntt usß dn
+euken, ad rn ist kini nunder
+dar min wber Pfarrer, die Sach nitt mercht,/
+dann die vnwuͤssenden der geraͤchtilrit gottas,
+regfne suͤchen, Sind nitt vndor wuͤrflich der geraͤch/
+tilzit gottes, zun Roͤmern am xvnd damitt
+referieren wid vns an die Schrift der Matarreun/
+27

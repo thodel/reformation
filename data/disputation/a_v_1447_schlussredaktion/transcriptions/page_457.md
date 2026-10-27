@@ -1,32 +1,32 @@
 # Seite 457
 
 in
-Was trosts hettenn wir dan Im sacra
-mentlichen brot (gebenn wir die ant opmatt Das
-sy aber principium petunt, das ist, Das sy aber
-das wir Inen Int nachgelassen, haben, vnnd mitt
-erobern mogen, mitt schrifft fur darbracht rechnet
-Wir haben geister offenlichen anzeigt, Das der lich¬
-nam Christi mitt vssgetheillt werde, Im nacht¬
-mael vnnd haben sy Ir meynung darwider der
-9 schrifft vnnd dan läser bewolchen, van de opte
-len aber hutt widerumb vff dieselbe liblichje
-Nostheilling tringen, Die so offentlich wider¬
-ber midt de stermunder
+was tross herenn wir dan Im sar/
+mentlichen bart geen aa de
+sy aber primipim geliml , Das ist,/ Dae sy aar
+Das wir Inen nit nachgelasen / haben / vnnd nial
+erobern mogen / mitt schrifft fir darbracht recheich
+Wair haben geister offenlich anzeigt / Das derlich
+nam Christi nitt vßgetheillt werde / Im naft/
+mall vnnd haben sy Ir meynung dirwidez / der
+gschrifft vnnd dem laser bevolchen / vnnd orr
+len aber hut widerus vff dieselbe liblichte
+ußtheillung tringen / Die so offentlich wider/
+der nidt desernunder
 fochten ist
-sagen, wir also das wir kein wort gotes habenn
-Das vnns besondern trost vercheisse, geben werden, es
-soe Inn weelichen essen, oder Inn dem sacra¬
-mentlichen
-Farrer
-Vix verlassen vnns vff die vorangezeigte
-erklaring von uns bestheegen, dan Christus van
-abendmall beide ding zusamen gesetzt, wort vnnd
-lijb, geistlich mit Dem hertzen vnnd lyblich
+ide die wr
+Das vnns gesonden trot verhesst geben weiden e//
+sye Inn dem lyblichen essen / oder Inn dem sarr //
+mentlichen /
+Darrer
+Cit verlises vnne v dy vrattigt
+erkearung von vns wschechen / dan Chrisus vm
+abendmall beide ding zuͦsamen gesetzt / wort vnn
+lyb / geistlich mit dem hertzen vnnd leblich
 Dan
-durch den mund genossen solle werden,
-welcher sollichs empfachs soll billich vff Ine
-vertruwen, Das thune wir op pott will alles.
-Dann Der zu pott oder sinem wort, oder zeichenn
-zugat soll pott glauben vnnd vertruwen zum
-hebneem, am xi cop: Das der lijb nitt werden
+durch den nund genossen solle werden /
+welcher soͤllichs empfliche / soll billich vff go
+vertruͤwen / Das thuͦnd wir ob gott will alle //
+Dan der zuͦ gott gder sinem wort oder zeichem
+zuͦgat soll gott glouben vnnd vertrumen / zn
+hebretrn / am xj ap Das der lyo nitt werd //

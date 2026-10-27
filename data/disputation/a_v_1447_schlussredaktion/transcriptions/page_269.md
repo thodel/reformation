@@ -1,33 +1,32 @@
 # Seite 269
 
-such hievor onn
-xviij blatt
-heben. Also were vill besser ijsm ein kilch von
-Bern hette das gewiss wortt, gets. van Irer
-predicanten, angenomen, Als onck an zwyffel
-viel gethan gabenn, an wyters befragen,
-aber de ettench gewesen sind Die daruber
-noch annder luet zehoren befert haben, Ist
-Diss Disputatz angesetchen worden, nit das
-Jemand me eurch vns vnd wen vnser vier
-thusent werendt, vnnd all geleuwe vnd fromder
-Dan sant Paulus In götlichen eingen moge
-gelert werden, Dan eben Durch die predi¬
-canten. Dann In der vssern ker ist einen
-wie der ander, In der 1 Epist: zum Germth
-eben
-am x cap. sounder allem mogen wir, dasselve
-bien bezugen, vor Ists gesagt vnß paulo den
-gerstlich richt alles er sie ver er wolle vnd
-sije wie vill oder wenig in wellen, Es
-hatt ont. nitt die meynung in sachenn
-des glaubens, wie In vssern gepoten, gott
-hett eben een dings allen erweelten, zu plouwen
-furgeben, Darumb Wenn er een thirtenn
-dasselbis offenbart so mussss In sinem
-hertzen bestglossen, werden, das alle furste
-Eennde heeren glauben mussen sollen sy
-anders solve werden,
-Die klech van Ber¬
-musz fur sich pleinben, vnd des wort goet
-gewuss sijn Was Joch anners haer
+Such hievor am
+viij hlaitt /
+geben. Allso were vill besser gsin ein kilch von
+Berim hette Das gewisß wortt / gotes von Ire
+predianen / anenemen Das ouch anzeyse
+Dill gethan habenn / an wyters befragen /
+aber Je ettlich gewesen sind / Die daruber
+ouch annder lutt zehoͤren begert haben / vst
+dise disputatz angestchen worden / nit das
+Jemand me durch vns vnd wen vnser viel
+thusent werendt / vnnd all gelerter vnd hren
+dan sant Paulus In goͤtlichen dingen nage
+gelert werden / Dan eben durch die preti //
+canten / Dann In der vssern ler ist / einer
+wie der ander / In derj Epist / zum Cheng
+am xcap: sonnder allein mogen wir Dasser eben
+big bezuigen/ vor Ists gesagt vß paulo der
+geistlich richt alles / er sie wer er welle vn
+sye wie vill oder wenng Ir wellen / Es
+hat ouch nitt die menung in Schen /
+des gloubens / wie In vssern gepoten got //
+her eben ein ding allen erwellten / zuͦglouben
+fuͤrgeben / Darumb wenn er eim hirten //
+dassellig offenbart / so muͦsss/ In sinem
+herigen beschlosten / werden Das ale frs
+vnnd herren / glouben mussen / sollen sy
+anders soͤlib werden /
+die kilch von den
+muͦß fuͤr sich glauben / vnd des wort geth
+gewuͤsß sin was Joch anndre hatt

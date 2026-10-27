@@ -1,33 +1,33 @@
 # Seite 492
 
-And
-Die vierde schlußende
-206
-Kochen woll zeverstan, Das er int xedt
-o In mittem ovin ƒ gewußlich ouch ist das
-Der kelck, Das thestament Christi be¬
-stattlichen genomen werden mag vnnd soll.
-vom dem wort Das thuur In muer ge
-dechtnus, so es ein gedechtnus heißt wirt
-damit uit abgeschlagen, Das wesen dan
-Dis gedechnus nitt allweg der abwesenden
-Dingen, sonder ouch der gegenwintigen vil¬
-Alls des mengerleij In zie
-mals sine
-Der schrifft haren bracht mochten werdenn,
-was Das lamb
-Als xxxi am xii cap:
-Das lams vnnd nuet erstinnder ward die
-gedecht mus gehaltten, Des so gott der het Inen
-In der wolthat erzeigt hatt, Das vbrig erfuh
-sich Inn der erst gegebnen, antwort. 10
-Søvingh zue voorstaende
-In ußtrag der sach, bitt een vnnsere liebenn
-bruder, Das sy vns kurtzlich herussz lassende
-Somme
-Was das nur thetament sie
-so dasselbige der heillig pauwus zum Hebrern
-am viii nennet, Das es das sie das er
-barmhertzig over de sin, vnsern Mißthaten vnd
-Vnsern sijnden vnnd vnserer wertwertungen
-niemer mer werde dencken, Alls ouch
+3
+De vierd schluißr
+2oh
+krichen ol zetersten / Das er nit redt
+o In minem win si gewnstlich ouch ist das
+Der belch Das thestament Christi be //
+staͤttlich gevomen / werden mag / vnnd soll
+vom dem wort / Das thuͦd In niner ge/
+Dechnnus so es ein gedechius heißt / wirt
+Damit nit abgeschlagen / das wesen dang
+die gedechnus nitt allwes / der alwesenden
+Dingen / sonder ouch der gegenwuͤrtigen vil //
+Alls des mengerley Inzub
+mals sind
+Der schufft hunbracht moͤchten werdenn /
+was das lamb
+Alls erodi am xij ͦ cap: /
+Das lane vnnd mis desinder wird die
+gedechinns gchalten / des so gott der her Inen
+n de wartg zuigt hau Das vang eifid
+ich Inn der erst gegelnen / antwurt¬
+li rsrig
+u vßtrag der sag / but ach vnnsore lielenn
+vnuder / Das sy vns kurzlich hervsß lassend
+Vnnd
+was das uu thestament sye //
+so dassellig der heillg paulus zun Hebrern
+am viij nennet / Das es das sie Das er
+barngert zi werde sin vnsern Suisthaten vnd
+vnsern suͤnden / vnnd vnserer uͤbertrertungen /
+niemer mer werde dencben / Albs ouch

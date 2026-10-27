@@ -1,31 +1,31 @@
 # Seite 731
 
-Die viiii. Ohlushred.
-Herren Jesum Christum, haben wir kundtsthaft Ssee
-am xi. vnd Mathei am. i. Co geschriben Stat, vs
-vergixten hab Ich beruft minnen Oun, Witter, das wir den
-nichsten schuldig sijen gelubde zuhalten, wirt volgenn,
-das wir Oemlichs gott vil mer Othuldig sijen, Oo fe¬
-trus gesprochen hat, Actorum. v. man muß gott mer
-gehorsamen, dann dem mentstchen, Das der spruch
-fottesiastes. v.o wider vns gije, gib ich nitt zu, wann
-Er heitter amoigt, das gott missfalt, ein vntruwe ver¬
-heissing, Carumb sy glich daruf Opricht, Alles
-das, Oo du verlobast, das leist, Een verstand fohannis
-vio. das Essen vnd vertruwen, ein ding sijen, min Ich
-nitt an, Das Paulus zijn gelijbe aber, von der
-Othwathen, oder andrer willen, gethan habe, weiss Ich
-nitt. Der Text aber zoigt an, das Er ein gelubd ge¬
-than hab
-Meister Vlrich zwingli¬
-it.
-Die zoigen das abthun der gelubden des alten testaments
-nitt darumb an, das wir damitt, vnser gelubde vmb¬
-keren, Dunder wir keren unser gelijbde, mitt dem grund
-des gloubens vmb, vnd zoigen aber darbijan, das ab:
-thun der gelübden, damitt man zacht, das die kundt¬
-sthaften, vsz. dem alten testament harfur gebracht,
-Also wenig bewaeren vnd eenweijgen mogen, Als go
-man vns mitt dem buchstaben, zum vich opfer wel¬
-te zwingen, Der Opruch versaije am. xviii. Bibl.
-gich gibts zu verstan, Dann Er also Spricht, Die
+De iiiij Schlissnd
+breren Jefun Christum, haben wir kundtschaft Sat
+am xsj vnd Macheiam iij So geschriben Stat, vs
+Chistan he Ich beeift muren un, vaͤter des wirdem
+nachsten Schuͤldig syen gelubde zuhalten / wirt volgenn,
+das wir Somlichs gott vil mer Schildig xien, So So¬/
+trus gesprachen het/ Actorum o man muͦß gott mor
+gehorsumen / dann dem mentschen, Das die gruͤch
+Eethefustes v wider vns eyx, guie Ich nitt ziu, vum
+Er hritti ameigt das hett niscfilt / oin vntenur vir
+huissunng Daruub E glichdarif Spricht,/ Allie
+das S du vielibist, das leist, Don viestand Eehanis
+das Essin vnd ntuinen ein ding ofem, min tch
+nitt an, Das Paulus sin geluͤld aler / von der
+aprrchen din nndin vllen / wrn gier niß eich
+nt den l ut dre eingili ge
+than habe
+Mristi Slrch znuigl /
+2
+n zugm dis athn din gliben die oemn tistumnt
+ntt darrun an, das wir dantt vnser geluͤbit vml :
+Eran Dunder wir frren vnser grluddi, mutt dim grund
+dis gloubene vmb vnd zeigen aberdarbsam, das ab¬
+ch nun zludin dn int nnn nnge zu dir kundt /
+schaften vs de n testament harfu graracht,
+Aes moug lewaren vnd ersaigen nigen ,/ Als eo
+man vns mitt dem butestaben zum vichopfer wil¬
+nngem Dar Opante Esigr am xvimj / Diet
+ses silbe zu verstun, Dam Er aso Sricht, Dan

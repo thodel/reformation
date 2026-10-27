@@ -1,44 +1,38 @@
 # Seite 296
 
-nne te
-ffm.
-de ce poste
-so muß
-den lichen
-ond te lors
-haben an¬
-o, da Er
-et glaubt
-demain de
-der zwilken
-gangen
-het Vier
-prima
-81
-.121.
-Die ander Ochlusred
-recht gloubigen gemeind, ouch dem regieren, das doch
-weiden heisst, Actorum. ii. Eeren Bisthoff is,
-Des alles referier ich mich vff die nta
-Theobaldus hutter,
-29
-End nach dem bisshar nitt witter anzogen Ist, &c:
-torum am.ii. In dem vorgenanten capittel. Opricht
-fr also, und Ien empfilch Ich vch gott, vnd dem
-wort siner gnaden, der da machtig Ist zu erbuwen
-vnd zugaben die erbstgift, In allen geheiligote un¬
-vss. welichem text clarlich volget, die Robsthaft zu
-teren, In allen zinen vferwelten, clarlich gemerckt,
-was gott binem gespons vnd gemachet, der chri¬
-stenlichen kilchen beuolchen is
-Martinus Buczer,
-Ich referier mich ad acta, von disem angezognen
-Opruch etc. ses
-Theobaldus gutter
-Ist mir wolgemacht, und gib das zu, finem
-milten läser, Ob das die Oagungen der kilchen,
-nitt vss. dem geist gesin sijen, Camitt wil Ich
-besthliessen, von kurcze vnd bitt wagen muier
-herren der Presidenten, wer gestern In die lange
-angogen, Ein Exempel van der vnuermasi goten funck¬
-frowen Maria Als ob man Ir hatte vner zu ge¬
+wit
+mind
+gndite
+ben den
+di
+emend
+s
+gm
+et d
+8
+121
+Di ander Schlussred
+rocht zloͤnbigen gemeid, ouch dem ee gieren, das doch
+niden heist, Acterum /ij : Darein Bischoff n¬
+Das allas referier Ich mich vff der Atta/
+Aheibaldus huͦtter,
+nd naͤch dem lschar nitt witter amegen Jst / aac// 29
+torum am is In dem vorgenanten capittel, Spricht
+hr also / nd Jen empfilch Ich och gott, vnd dam
+wort suer In aden, der da maͤchtig Ist zu erbuͤwen
+vnd zugeben die Eilschift in allen gehauib getenn,
+Is welichem tert charlich volgt, die helscheft zu¬
+leren, En allen sinen vferwelten, clarlich gemerckt ,
+wis gat dinem gespone vnd gemachil der chri ¬
+stenlichen kilchen leuolchen n
+artinut bucher,
+ch frner nich danta, vnn disem angrznam
+r
+Mhribaldut huͦttro
+Ist mm negemacht, ind gb die zi Einem
+mlten laͤser, Os dis die Saczungender kilchen,
+nitt vsß dem geist gesin oyen, Damitt wil Ich
+Erschliessen, von kurcze vnd bitt wigen miner
+horren der Peesidenten,/ Aler gestern In der lange
+mmagen xiu Exmpel von die vnvermafgeten funel
+fruͦwen, / Marie ls ob man Jr hatte vner zuge¬

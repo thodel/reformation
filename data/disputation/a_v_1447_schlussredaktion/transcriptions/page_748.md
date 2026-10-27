@@ -1,34 +1,34 @@
 # Seite 748
 
-321
-Burgermeisters van Sant Gallen
-Doctor
-vred hern Burgermeisters van vant wollen, Joachim
-von watts funamen der herren Presidenten, zu
-einem beschluß
-t'wurdig hoch und wolgelext, gestreng edel vest, from
-fursichtig wiss herren, Lieben und guten frund, die¬
-wil sich, dis christenliche disputation zu Ende gezo¬
-gen, vnd min heeren die Presidenten, von minen gna¬
-digen herren, thulthessen und Rijt, diser loblichen
-Otatt Gern, vss. dem grund, gedachter disputation
-vorzustand, verordnet sind, das ende schielich der par¬
-thijen halb waeren, dabij hochsten fliss anckerten, da¬
-mitt red vnd widerred, sampt alles furtrags, zu der
-Sach dienende, In die Acta, van hern Stattsthreiber, vnd
-den andren verordneten Othribren, nach vermog der
-gebübden, Co Si gethan, verfasset, vnd zusamen ge¬
-bracht wurden, Bevelchen mir, geracht min
-herren, mencklichem zueroffnen, das Oi in Colich:
-am, allen Iemer vermoglichen Miss, ankent, vnd
-darby, Ounder vfsachen vnd sorg gehapt habenn,
-das der perthijen, So wider ein andren gestanden
-sind, fur trag, nach Innhalt der worten Co gebrucht
-sind, eijgentlich In die Othrift kamen, und sine
-Daruf die Schreiben, anzuzoigen, ob Iendert In der
-Cach mangel ware, mitt ernst ervordrot, bij we¬
+32
+omenasern en vnr veon //
+Daeter/
+Vend nen Bnugiemnistne n dint Rchlin toichan
+von watt / Jnnamen der herren Prefidenten, zuͦ
+einem beschluss,
+ewirdig hoch vnd wahgelirt, gistrang adie rist chrem
+fuͤrsichtig wiß herren, neben vnd guͦten fruͤnd, die¬
+wil Sich, diß christenliche disputation zuͦ fnd geze//
+gen, vnd min herren die Presidenten, von minen gnaͤ :
+digen herren, Schubthessen vnd Rat diser loblichen
+Sratt bem, vss dem gruͤnd, gredachter difzutram
+vorzustand, verordnot sind, das S. Schidlich der par¬
+chrunhill miem, da hochsten kliß ankirten, di
+mitt red vnd widerred, Sampt alles fuͤrtrags, zu der
+Dichdiemande, endier dicta, vmn hren Stattscheailer, vnd
+den andeen verordueten Schribren, nach vormeg der
+gebulsen, So bi gothan, vefassit, vnd zusimon ge//
+bricht muͤrden, Corualchen mir gedacht madt
+horren, mancklichem zuerffien, das Si In Solich
+rur, allen Jomor vornglichen kliss amnkiet / vnd
+darby Sundir vfsachen vnd sorg gebapt eibaum,
+Das der parthien, So wider ein andren gestanden
+sind fuͤrtraͤg, nach Jnnhalt der worten So gebrucht
+eind, eygentlich In die Schrift kaͤmen, vnd zund
+daruf dir Schueber, anzuzzigen ob Jondett In dar
+Sach mangel waͤre, nuͦtt ernst ervordrot, vj wa//
 lichen man mit anders, dann gelichsamen verstand
-vnd einhalligen vergriff, (wie Oidann, von einer Des¬
-sion zu der andren, aue verzug collarioniert, vnnd
-entgegen gehalten haben) erkundet vnd erfunden
-het, Eenmach gedicht min heeren Presidenten,
+vnd aunhelligen vorgreffi wie Sidann von emner Ses
+fion zu der andren, aue verzug callaciomert, vnnd
+entgegen gehalten habens erkundet vnd erfunden
+het. Demnach gedicht min hevren Prrsidenten /

@@ -1,17 +1,16 @@
 # Seite 701
 
-k
-lij
-Die vii. Thlussere,
-Vorchtoldus hatter,
-3.
-Is Ist gnugsam erklert, ende anfang diser Schlusz:
-ved, das welcher glaubt in Christum Jesum, wer¬
-de nitt komen In das gericht, Qunder vom to d zum
-laben hindurch tringen, Johannis vo. Bij den
-klaren worten Pauli, lassen wir es blibenn,
-Johannes bijchstab,
-Die Ich dis vormals verandtwurt hab, dabij blib Ich
-vnd beuilch es der Ihrift,
-Verchtoldus halder,
-So referieren wir vns ed acta,
+6
+2e
+Die vij Schersßred
+Berchtoldus haller
+y Ist gmigsam ertlirt, Jin anfang diser Schluss
+red, das welcher gloubt in Christum Jesum, wer¬
+de nett Einen Jndar gericht, Sunder von tod zum
+laͤben hindnich tringen, Johannis v by den
+Claren nanten daule, lissen wir es kribenn,
+Eohannes buchstab,
+Ere die vnle rndtrit eb dil / ll ta
+vnd louilch es der Schrift,
+Berchtildus halber /
+Dorfren miwdnt,

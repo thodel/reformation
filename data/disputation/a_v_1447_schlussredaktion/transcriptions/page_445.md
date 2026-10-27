@@ -1,33 +1,32 @@
 # Seite 445
 
-pima
-Nemend vnnd essende, Das ist min lijb ende Darby
-vns erInnern, gleicher gestallt der erlösung
-Des helstchen, Charaonis vnnd bewarum ver¬
-dem schripen toe vff das sich der schatt
-mit dem lecht, das ist mit der warheit vnd
-To widerumb die warheit mit metder figur ver¬
-embare
-D'colanwadius
-Der Benndicht Lassst aelweg mit leuffen
-was
-sollichs wort, dat der worten des hern
-nachtmals vnnd hatt aber er noch int soll
-ichs erklärt, Das sy Im nggen dienen
-Darumb mussen wir Im solche lassen für van
+m
+Nenend vnnd esend / Das isßt nin hesn dae
+vns eninnern / glicher gesilet der erlesung
+s heschen shamos vnnd bewang ver
+Dem ewigen tod vff das sich der schit
+mit dem licht das ist mit der worhet lid
+Ceidtrmb die woncheit mit nder figur ven /
+einbare
+Ctolampadins
+Jer Beundich / Lisst allieg nitlonfen
+soͤlliche wort cut der worten / des hern Pes
+nacht mals vnnd hatt aber / er noch nit sel //
+iche erklaͤrt / Das sy Im mogen dienen /
+Darumb miussen wir Im solche lassen fuͤrgen
 Aber vff den
-Alss vergebrukich worth
-spruch In der 1 Ep: zum Chorinthern am v. can¬
-vnd vss. dem xii cap: Exodi, gib ich ein
-solche antwort Das disß nichts bereitt, dan
-wes uit thuwtt, vff das Sacramentlich brott
-Diewijl paulus hie hatt, Das volck wellen
-vnderwijsen
-Welches In den
-glauben allwes, Christum Das war oster
-lam am Crutz fur vns geopffert, messen
-soll, vnnd nit allein zu der zijt der
-sacrament empf waerden, sollichs volck will
-er das ef alweg rein sig, vnnd von Im abge¬
-stuwert verden Die offnen sunder, welche
-verglichet werden, Dem surthey oder Dem
+Alß vergebenlich wort/
+spruch In der / Ep zun Pherinhtern am vca
+vnd vsß dem xij cap: Exodi / gib ich ein
+soͤlche antwnet / Das disß nichts beweret / den
+es nit thuͤtett vff das satramentlich bret
+diewyl paulus hie hatt / das volck wellen
+vnderwysen
+welches In den
+gloͤnlenallweg / Christum das war oser
+lam am Cruͤtz fur vns geopffert / messen
+soll / vnnd nit allein / zuͦ der zyt der
+icrament empfachng / soͤllichs volck wel
+er das eß allipeg rein sig vnnd von Im alse
+sendert werden Die offnen sinder / wlls
+vergachen weden / dem suͤrtheaig / oder dem

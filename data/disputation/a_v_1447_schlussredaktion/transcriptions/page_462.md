@@ -1,32 +1,32 @@
 # Seite 462
 
-27
-die vrend schlußerende 193 24
-eins Jegklichen gluckgen zum Romern am 1 car:
-gewiss ist. Das vnser plant zune vnnd cvesserung
-nudtz ist. Aber pott der da sijt, das wachssen
-vnd die krafft, Nun werden Durch die predigen
-vnnd verkundung des worts, int all zu hörer salig
-Wer die zij Denen Das wert, geschickt ist, Esaien
-am lv cap. bij denen wirt es frucht bringen
-wie der wyt dasselbige mit mer worten, erklärtt
-dan gelem die verordneten zu dem ewigen lebenn
-haben, Das wort gottes glaubt, In den geschichten der
-post: am xiii cap. ander Jntrag, lassz ich derzmael
-bliben
-A. Wingli
-Das gott alles halbte Das en verhuijsse bedarff
-by vns keiner kundtschafft, der span ist ouch int
-darumb sonder das sy gesagt haben, Das Vsser¬
-lich wert bringe mit Im Das es bedutet oder wa¬
-heisset, Da sich aber das wider spillen, finden wirtt
-pott spricht zu Obracham selbst, opffer mir dinen
-Nun vff vff dem berg een ick Dir anzeigen
-wirtt Also luttet, das vsser wort gottes soelte
-min by dem ossern wortt, das gesz. hochen Das
-Ses bedurtt, so wer der Kun brachams vffgeopffert
-von stunden, vnnd die wort geredt worden, Das aber
-int ist. Janser her Christus Jesus begeert
-wer¬
-Das er enthebt wurde von dem lieen
-by dem Vssern wortt ist die thatt int gewesen
+2
+Die vierd schlised ig t
+eins Jegklichen gloutigen zun Romeen am / cap¬/
+gewussit / Das vnser plantzune vnnd aessrung
+nz ist Aber gott / der da gipt das wachsen
+vnd die krafft / Nn werden Durch die predigen
+vnnd verkuͤndung des worts / nit all zuͦhoͤrer / saͤlig
+Aber die zuͦ denen Das wert / geschickt ist Chaie
+am (ͦ x cap: by denen wirt es frucht gringen
+wie der text dasellig mit mer worten / erklaͤrtt /
+dan allein die verordnoten zuͦ dem ewigen lebenn //
+haben das worf votes / cloubt Inden geschichten der
+Epost: am xiij cap: ander Jutrag / lasß ich Jenumll
+bliben /
+wingli
+Das gatz lles hiete / Das er vergeistet / bedarft
+og vne Beuet u effn der strnn st e ut
+Darumb / sonnder das so gesagt haben / Das vsser //
+lich wort bringe mit Im / Das es bedutet oder ver //
+heisset / Da sich aber das widerspill / finden wirtt
+gott spricht zuͦ Abracham elbs / opffer nr dinen
+sun vff vff dem berg / den ich dir anzeigen //
+wirtt Also luttet / das vsser wert gottes / sollte
+min by dem vssern wortt das gesshechen das
+bder so war der sun Cprichans vflgripffen
+von stund an / vnnd die wort gerett wirden / Das aber
+nit ist / unser her Christus Jesus begert /
+Aber
+Das er enthelt wurde von dem liden //
+by dem vssern wortt ist die thatt nit gewesen

@@ -1,33 +1,33 @@
 # Seite 611
 
-Gustag
-21
-56
-Die funfte Schlusswede
-Theobaldus hüter,
-Ich beij min Cach, wie Ich geredt heb, verhoffen,
-damitt mijgit.
-verhout haben
-An xxj tag
-Januari
-Meister Johannes mauwberger,
-25
-In nomine Domini Amen, hochgelerten erwurdigen
-herren, Diewil dise materij, antraffende die wass,
-Ob ende ein opfer zijn oder nitt, wiewol zum teil, gruijg¬
-sam daruon disputiert ware, So begegnet mir ein
-Opruch tauli, sij ^ minem beduijcken, dienend vff
-dis-materij, welchen Opruck Paulus Othribt Oder
-Hebreos. v. lut also, Ein jetlicher Wisthof oder hoch¬
-ex priester 1 vss. den mentsthen vfgenomen, wirdt
-den mentschen gegen gott fürgesegt darumb das
-Er optre, gaben vnd opfer für die vnnd, welche
-Ochrift ouch, durch vorlouffende histori des alten te
-staments, angezoigt wirdt, Namlich Mmeri xvj
-Stat also, woon was Aan, zwusthen den labendi:
-gen, vnd den todten, und het gebatten, und die plag
-het vfgehort, In welichen beiden Historien Pauli
-vnd Mumeri, wil bedutot haben vnd bewart,
-das die Mass ein opfer sije,
-Verchtoldus haller
-L'aulus zu den Rebreern am. v. verglichet das
+rptan
+2
+36
+Die funfei Schlisfred/
+Lhraibrdus huter
+shd min Dach en gndt arssendeffmn
+Damitt mihzit
+verhoͤnt haben
+Am tap
+sinners
+Mriseu Jchnnie miuukczir¬
+2
+n nonni domun men, Michilirter / arndegen
+herren, Diemil dise niterj, antriͤffrnder die waͤs,/
+des ein offer xir oder nitt, wiewel zum toil, gnug¬
+sun daruon dispntuigt waͤro, Sobegegust mir ein
+Opruch Pulbi ffiuinem beduncken dimend vff
+dis nicterj, welchen Spouch faulus Schribt ad
+tabreos liit ilso, Rin Jetlicher Bischif eder hach¬
+er pristir, vsß den mrntschen vfgzumn, wudt
+din monescheih gegen gitt fuchesit / darumb dis
+Er ocfer gaben vnd opfer fuͤr de vund wilche
+chrift ouch. durch volenffende histonz dies dtrn tr /
+stumonte , ngreigt vrdt, Namlich sueri pv
+Dt ilss, Daren was dtan, zwuͤschen dimlabnder
+gin nd den tidern end na ligns nd den chicg
+eit vfgehilt, Jn wlichen luden Etstinen Canl
+vnd Muna, val ledutit hiben vnd brmaͤrt,
+das dien, Mass ein ofer eir,
+Pachtildus hiller,
+ailus zu din ftabrrem im v. verflichet das

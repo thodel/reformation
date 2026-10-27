@@ -1,31 +1,31 @@
 # Seite 461
 
-derselbigen hatt de vier all weg, Im alleen vnnd Nuwen
-thestament / so er verheissen hatt, oder beuolchenn
-Das exstattuer so sy haben gelutet
-„ ees
-Namlich hatt er gereet, en wort vnnd ist alles
-gemacht worden, Im popij psalmen. Derglichen
-auch genesis, am xviij cap: by der vnfruchtbarer
-Sara, bracht die verheissung mit, dem verbrenssgrei¬
-ijsach, Dann bij pott nutzit sthavers ist, ouch
-Esaw am by cap: Min wert, so uschat von minen
-mund Das wirt int zu nur leer komen, sonders
-wirt thun vnnd erstattnen. Darzu ich es hab
-vellen Darzu ich es hab vsgesandt dan der¬
-gleichen ouch dem Saul bevelchen ward, die
-melechter zu ertödten, lutt der vertheissung
-ward der sig Im erstattnet/ Onder Inzug
-das der geist, abbes In vns musse wurcken ver¬
-neinen wir nitt wir glauben aber das bij den
-worten, die mitwurceenden, krafft, des gests zuge¬
-fugt sich gunst over die vßwendig stim oder wort
-wenig mutsbar
-Von der Zouberij las ich
-Den Juris In smer wijnde, blyven, Ooltend die
-wort das int mittbringen, so sy luten ende So
-hattend die opostell vnnd predixer ende ant¬
-Cvurten wir der her hatt sine Apostell vf gesandt
-vnnd hat gesagt, hand vnd predigent, Das Erange¬
-linne allen Greaturen, Der Da gloubt z. dan
-Je Das Crawelium ist ein krafft, potes zu heill
+Derselb hat Je vnd alweg / Im allien vnnd duch
+thestament so er verheissen hat / oder bevolchenn /
+das erstattnet / so sy haben gelutet
+Aas
+Namlich hait er geredt / ein wort vnnd ist alles
+gemacht worden / Im xexij pfalmen / Dergliben
+ouch genesis / am xviij cap: by der vnfruchtbat
+Sara bracht die verheissung mit / dem verheisses
+gsach / Dann by gott mutzit schwers ist ouch
+Esue am ly cap: Nin woͤrt / so vsgat von minen
+mund / Das wirt nit zuͦ nur ler komen sondes
+wirt thuͦn vnnd erstattnen / Darzuͦ ich es hab //
+wellen / Darzuͦ ich es hab vsgesandt / Dan der //
+glichen ouch dem Saul bevolchen ward Die
+Amelechien zuͦ ertoͤdten / lutt der verheissuns
+ward der sig Im erstattnet / ander Inzug
+das der geist / ales In vns muͤsse wurcten ver //
+neinen wir nitt / wir glouben aber das by den
+worten / Die mitwurckend / krafft / des geists zuge //
+figt sig Sunst her die vsßwendig stim / oderlern
+wenns mitzbar /
+Ven der zenbery laß ich
+den Jntrig In siner wirde / bleben / Soͤltend dn
+wort das nit mitringen / so sy luten /n.a
+haͤtend die Postell vnnd prediger vant //
+wuͤrten wir der her hatt sine Apastll vß gesaint
+vnnd hit gesag / ged vnd prediget das Ennigt
+limm allen / Creaturen / der da gloubt . dan
+Je das Enangelum ist ein krafft / gotes / zuͦ hel//

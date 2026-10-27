@@ -1,31 +1,31 @@
 # Seite 550
 
-220
-Die vure Slustad
-so der her machei sovj ca: a den her hat ge¬
-nomen das brott in sine hend ende vnd Darnach
-gesprochen, Das ist min lijb Er es zum ersten
-brott nempt vnd darnach spricht, das ist nun
-lijb Das Dardurch die aemechtigkeit vnd krafft
-sines worts, ein verwandening des brots ist ge¬
-sthechen, int In der gestaelet, sonders In den na¬
-my duncen die almechigkeit ist flaeten worden
-Also ouch sin blut. Een woll zu verstan ist, das
-Die Christenlick Kilch die gsthrifft recht verstat
-vnd zu einem bessern verstand haben wir Joris vij
-ein klare vslegung von Christo So er spricht
-Das brot so sich vch geben wirt wijt der
-her vns ein verstand, vnd ustlegung was es sie
-vnd spricht, das ist min fleissen als ober spreche
-Das vor brot was ist Ietz min fleissen was
-kond der her Jesus Christus, vns hellens heitte
-vers vnd Clakers gesagt haben,
-Waltherus Clarer
-Von Spentzell pfarrer
-hu hauewijl
-Nach dem alles dan lange zijt bij vns zu
-Appenzell, glick ouch vis an andern exten vilmer
-ein grosser zwyspaet, versin ist, vnd noch Der
-mij conclusion halb, vnd ander vill antigkel mij
-Welche conclusion voor d'acrament redt, So
-2.°
+zr
+Die vierd hlugpfe
+oder her Mathei votica Da der her hatge //
+nomen das brott In sine hend r vnd darnag
+gesprochen / das ist min lyb / Er es zum ersten
+brott nempt vnd darnach spricht / das ist nun
+° Das derdnich die asmechtigeit vnd krafft
+sines worts / ein verwandlung des brots / ist ge //
+schechen / nit In der gestallt / sonders In der na //
+mr dinich die almechngkeit ist fresch worden
+o in lu iewol zu verstan ist / das
+di Christelich kilch die gschrifft recht verstat
+vnd zuͦ einem bessern verstand haben / wir Jous / v/
+ein klare vßlegung von Christo / So er sprihn
+das brot so ich uͤch geben wiet gipt der/
+het vis ein Berrid vd vseguns das es sie
+vnd spricht / das ist min fleisch / als ober spreche /
+das vor brot was ist Jetz min fleisch was
+kend der her Jesus Christus / vns hellens heitt
+rers vnd Clarers gesagt haben /
+Valtherus Clarer
+on Apentzell pfarrer
+zuͦ huͤndwyl
+Nachz den alß dar Lange zot by vis zuͦ/
+Eppenzell / glich ouch wie an andern orten / vilmer
+ein grosser zwyspalt / gsin ist, vnd noch der
+imi conclusion halb / vnd ander vill artigkel nie //
+vellche conclnsion vonchatrament redt / So
+51

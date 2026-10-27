@@ -1,32 +1,31 @@
 # Seite 190
 
-7 M
-48
-74
-Die erst schlusred
+2b
+4
+Die eist schlierd
 Das
-er mir ein bevelch Daruß machen,
-sij aber ein gewaelt gehan, vnnd ein vnderstheid
-hatt, so vermerckend, en heiligen Enangelisten,
-Alleß mich gesendt dat min hun elsther vater
-Item vsss. der
-Aleso sond ick vin ouch
-declaration, so ick ver darthan hab wie en ge¬
-setzt hab zu regieren, sin pötliche klechen, wie
-Ses dan anzeigt hatt der vordrig spruch ettlich
-hirten ertlich lever, In weelichem clar¬
-lich anzaget wirt, ein empfolckner gewaldt
-vnd Das ein annder dingen ist, hirten vnnd
-leren
-Bercolus.
-Ich frag den pfarrer ein stuck, w er vss denen
-zweyen springen, Die dan meldent das ein
-sampt vnd dienstbarkem, so Christus smer kochen
-verlassen, hat, w er daruss jnfuren, welle
-Das wellicher ein sollich ampt hatt In Der
-kirchen, er sy ein lerer, ein, Euan gelist, em hirt
-vnd wechter Das er darinne en houpt der
-Kilchen, sy Daruff heeft antwort 9
-Heo: pfarrer von
-ppen zell
-romen lieben Christen, Ich hae In geleit wider
+er nur ein benelch Daruß mathen /
+so aber ein gewallt gehan / vnnd ein vnderscheid /
+hatt / so vermenbend / den heiligen Enangelisten /
+As mich desend hat min himerscher vatr
+Item vsß der
+Allso send ich uͤch ouch //
+Dernon / sone vn dirtem bes wie erar //
+en en veren / sin getliche klcgen wie
+es din antlig hant die vordrig spruch ottach
+hirten eitlich lerer / . In wellichen clar //
+Lich angaget w ein e e gewe
+e a en vnnd
+leren /
+Berchldus.
+Ich ig den pforer an eib aer viss dem/
+zweyen seruchen / die dan meldent das ein
+amet vnd denstbarken so Christue siner klchen
+verlassen / hat / ob er darusß Jnfuͤren welle /
+Das weliucher ein soͤllich ampthatt / In der
+kirchen / er sy ein lere ein / Eumgtist ein hart /
+vnd wechil / Das er darumb ein houpt der
+kilchen / sy / Daruff gebe antwurt
+hes pfarror vn
+ppezell
+oenlen rist a er twemnn

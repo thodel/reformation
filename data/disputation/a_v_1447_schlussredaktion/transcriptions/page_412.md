@@ -1,47 +1,46 @@
 # Seite 412
 
-myst
-brecht
-chafft
-Evang
-ens mit
-lands.
-vnnd
-eberwth
-der
-172
-Die vierd schlußred
-anderst nach gemeinem bruck Das ist riffwin¬
-oder welsten win, gelt aller verstand, Das, Darumb
-holtz oder silber nitt ist, Das wir aber vnssens
-verstands nochmals komen troon Das ist figurlich
-rede Jun. Den worten Des nachtmals annemen
-versachet vns die halle vnnd klare der wortenn
-vnnd ein mutigkeit der beschribung, pack vnnd
-Das aber min her Doctor
-Der Enangblisten
-will, Das der lijs vnnd Das blut Christi ge¬
-nossen werde Durch den glauben bekennen wir
-einmutskluch Das alls messung vnd so wie
-Vesserlicher Vijss thund flastslich gar vnutgbar,
-so sollichs int Im geist vnnd glouwen beschich
-4
-Des zo verstan Luce am viij, Das freuwel.
-so den bast des herren anrurst Im geist vnd
+ornse
+obrech
+Manz
+onsen
+nd
+vi
+than
+de
+142
+Die viend schlußred
+anderst nach gemeinem bruch / Das ist riffein
+oder welsch win gibtt aller verstand / Das darumb
+holtz oder silber nitt ist / Das wir aber vnserd
+verstands / nochmals keinen Ecogn / Das ist figuͤrlich
+red Inn den worten / des nachtinals annemen /
+vrsachet vns die halle vnnd klire der wortenn //
+vnnd einmiticket der besshlailung / pmli vnnd
+Das ber min her daclor
+der Eangelisten
+will Das der lyxvnnd das bluͦt Christi ge //
+nossen werde durch den glauben / bekennen wir
+einmiegklich Das alle messung vnd so wir
+vsserlicher wyß thund fleischlich gar vnutzbar /
+o soͤllichs nit Im geist vnnd glouben beschicht
+1
+Des ze verstan Luce am viij Das freuwly
+so den bist des herren anrurst Im geist / vnd
 aber die ander
-Jhar des vocks glauben, allem mitz dornen brachten Diewijl
-Im glorben vnnd geist int thaten gewisslich
-so in trucken vnser
-auxurten nutzet
-I. So wir vnser hertz int mey v'ff Die wortt
-fruchtbars der¬
-mon brachten vnnd zusagen gotes In lassen, wurden wir int vill¬
-frucht, von dem so vnns gereicht oder mitt¬
-geteillt wirtt bringen, vom blast gehamus om
-dx cap: sagenn wir der gleichen wie ver, nitt
-das der blasst, der heillig geist sie gsin. Sonder
-mit sollichem mittell sie er den Jungern mit
-getheillt nach liet vnne Inhalt des wortts
-12
+ear des vlhlouben / allein mutz daruon brachten / Die wol
+Im glouben vnnd geist nit thaten / gewisslich
+so In truckten vnse
+anruͦrten nutzit
+So wir vnser hertz / nit mez vff die wortt /
+fruchtbars dar //
+cen vnd zuͦsagen gotes Jnlassem wuͤrden wir nit vill //
+frucht / von dem so vnns gereicht oder mitt //
+getheillt wirtt bringen / vom blast Johannus am
+vxcap: sagen wir der glichen wie vor / nitt
+Dis Der beistt der hellig geist sie gsin Sauer
+mit soͤllichen miͤttell syl er den Jungern mit //
+getheillt nach lut vnnd Inhallt des wortts
+2
 vnd
-niement hin een heiligen perst
+nement zin den Jeilligen geist /

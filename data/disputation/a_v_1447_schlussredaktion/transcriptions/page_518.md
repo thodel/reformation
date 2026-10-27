@@ -1,44 +1,44 @@
 # Seite 518
 
-Wm.
-sus mit
-benn
-befalm
-one of her
-die de
-dem heeren
-um der
-wekong
-#8a
-so sin flasten
-217
-Sie uwe Stuproe
-worby min fleijth ist konij nutz werenn wir woll
-entschlossen
-colampadius
-Luytzlich zantwinten vff die erste Inned.
-her Beuene dichts, soo ick das In allen vß legungen
-Der ystchrifft wie woll Warnemen sollen was
-vor vnd nach stat, vnd allso mitt der vschr¬
-minest kundtlich
-jung vff der Dan beliben
-Das hie In disvin capitell red gehalten wurde van
-essinnen des fleyschs Christi, Hierunus gepuurt
-sich ouch disz wort vff den selbigen schlag vfje¬
-lygen, vnnd so ouch Christus von smem fleisch
-redet, so wirt hie Jan disen korten int vf ge¬
-schlossen, vdoch so wellen wir den text bestehenn,
-Es was ein erger muß vnder wilen, den Jungern
-Des herren van wegen der geredten wort, vnd
-exgerten, sich doch entlich nitt darab Nach dem
-vnd sy den verstand van Christo empfiengende So
-exklart Christus sin vortt wyter, vnd Sagt In
-fragen vijf, expert vch das
-voormeint das er
-von smem fleissen geredt hatt, das es geessen sollt
-werden, vnd setze ein kurtze abgebrochne fraw wechan
-Wolanso Ir sechent den Sun des Monstegen vff stigenn, da
-„wiel
-er vor was vnnd erfuret die xxx mitt
-Inen aber sagen, so Ich gen hunell für werdent die vch
-Denn onch enfern, Alles welckt er sagen frilich nein
+dem
+ein
+vem
+kein
+nis
+sid
+s
+d
+zelo
+n
+sin flns
+2
+Die vid Cußred
+wrmmn sents / Sbtuigu ween wrlral
+entschlossen /
+olamgeduns
+Dudcheuh zeaiwurten Dff die erste Jnid
+her Benenedichts / sag ich das In allen vßlegungen
+Der gschrifft wi woll wornemen sollen / was
+vor vnd f n u e
+Nnn ist kundtlich
+gung vff der dan beliben /
+Das hie In Disem capitel red gehalten wind von
+essine des frnshe hist Mieuump gepnit /
+ich ouch Dise wort vff den selligen schlig vste //
+leen vnnd so on Chrstusn sinem ferisch
+redet / so wirt hie Inn disen worten nit vß geß//
+schlissen / Jedoch so wellen wir den text besechenn //
+Es was ein ergernuß vnder vilen / der Jnngern
+Des herren / von wegen der gerdten wort / vnd
+ergerten / sich doch ettlich nitt darab Nach dem
+vnd sy den Perstand von Christo em pfieigend ho
+erklaͤrt Christus sin wortt wyter vnd Sagt In/
+frag wyß / ergert uͤch das
+verment das er
+von sinem fletsch geredt hatt / das es gerssen solt
+werden / vnd setzt ein kurte abgebrochne fras wefln
+wrso ie soczeit den sunz de densthen vss stien / da/
+will
+er vor was vnnd erfullt die red nit
+Inen aber sagen / so Ich gen huuell far werdent Irvͤch
+dem ouch ergern Allß welt er sigen frilich nen

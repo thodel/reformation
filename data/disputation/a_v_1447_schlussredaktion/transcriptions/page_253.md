@@ -1,32 +1,32 @@
 # Seite 253
 
-66
-gereffnet hatt, Das min her Senniger be¬
-kennen, muss, Ex mogs onder vns oudt
-schaffen, so allein mit getencher verschrifft
-solls gehandlet werden
-min ist
-Ses offenbar wie parens In der annden
-rai
-Vyffell zum Chorinthern iij schreibt, Das
-sz zur saligkeit wijse vnnd den monstehen gots.
-zu allen guten wercken, geschickt, machett
-Darumb alles das nit gut sin muss, Das
-sij werflussig leret vnnd allso so der Senger¬
-bekennet, Wann die herer, vnd Ir vs.
-legung nit geleeten solle, So vier vijff er nutzit
-zesthaffen, bekent er sich, das vnsere Schluß¬
-reden, Inn gottachen gsthrifft gegrundett, sind
-Dorumb sy ouch die ware göttliche warheit
+16
+geffue an / Das um her Senger ly/
+beien/ muͤsß / Er moͤge wider vns nidt
+schaffen / so allein mit goͤtlicher gschrifft /
+olle gehandlet werden /
+um ist
+es offenbir weie pailus In der annden
+ca
+Epistell zuͦn Choruschern / ii i schribt / Das
+zur saͤligkei wise vnnd den moͤnschen ga
+zu alen guͦten wercken / geschickt / machett /
+Barund tes das nnt gut sin muͦgse de
+sy uberflussg leret / vnnd allso so der Senger
+bekennet / wann die lerer / vnd Ir vß //
+legung nit gellten soͤlle / So uewusß er nutzit
+zeschaffen / bekent er frij / das vnsere Schlusß //
+reden / Inn goͤttlicher gschrifft gegruͤndett / sind
+Dorumb sy ouch die ware goͤttliche warze
 Das
-Dem herren, sie los
+Dem herren / sie lob //
 sind
-er Inn zu sollicher bekantnus bracht hatt
-Das er aber Disen hanndell, yott vnde gemeinet
-Christenlichen klchen, bemlicher vnnd begibt
-sich geleiben, Dem das die selbige hier Inn
-glouwe vnnd halles Da Welets pott Das
-er verstunde sine eijne wort dan die ge¬
+er Inn zuͦ saͤllicher bekantins brocht hatt //
+Das er aber Disen hanndel / gett vnd gemeine
+christenlichen kilchen / bevlchet vnnd begibt
+sichigeleben / Dem das dieselbig hierInn
+gloube / vnnd habte / Da wellte gott das
+er verstunde sine eigne wort / Dan die ge//
 mein hellig Christenlich kilch allein die
-recht gluckgen potes sind, vsss. dem wort gots.
-vier geporen, bij dem beliben sij, dormis
+rechtglaiagen galb sind vsß dem wort goes
+wider geporen / by dem beliben sy Dorumk

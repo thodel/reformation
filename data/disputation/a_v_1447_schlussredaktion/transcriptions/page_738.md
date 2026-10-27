@@ -1,31 +1,31 @@
 # Seite 738
 
-bij nach staet
-mett quesmo
-étis
-Johannes buchstab
-Nun besthluß, hiemitt wellen wir all vnser reden,
-bestblossen, vnd den Christenlichen läser vermant
-haben, zu betrachten, wie uff unser gegenparthij¬
-Wil hochgelarter luten sind, und bij vns, de hem hun¬
-ders gelerter man nitt Ist, damitt alle Oachenn
-vns zu dienend, vff das geschicklichost dargothan
-wurden, So haben wir Colichs ouch vornacher nie
-gebracht noch geubt, Carumb wir alle Christen
-bitten, an unser einfaltikeit, für gut gehabenen
-vnd uns, so wir niet allwagen binn Otherpftsten
-geandtwurt sijtten, zu verzichen, Dann ein teck¬
-licher, To Colick Sachen nitt wol geubt, Co Ilands
-vff einen Jeden gegenwurff, schwarlichen andt¬
-wurten kan 1 Gott ker is alles zum besten, fiet fiat,
-Eheobaldus, huter
-Opch vnderwirff mich, gemeiner Christenlichen
-kilchen, wel ouch bij allen Schlusstreden, Co. biss:
-hir gehalten sind, gemeiner christenlichen kilchen
-bevolchen haben, Oant Paulus Opricht ad
-Exh. sios. iiii. Ein herr, Ein gott, Eintouff, vnd
-frij gloub zye, u Also ouch ein gemeine christen:
-liche versammlung, geregiert wirdt van den heili¬
-gen geist, welcher Im zalbs nitt widerwertig
-Ist, bij demselben zu bliben, Vnd ob Ich geint
-hatte, In dem waren wort gottes, mith Zuberichten
+breuchsa
+Cimtt alsag
+316
+Johnne luchstib
+nin brschlusb, Harmitt wellen wir all vnsir reden
+beschlissen, vnd den Christonlichen laͤser vermant
+haben, zubetrichten Nrr vff onfer grgeuparthy
+Wil hochglieter luten sind / vnd s rus, dehein bun¬
+dars gelotter man nitt Jst, damitt alle Sathenn
+rus zudienend, off das geschicllichast darzethan/
+wurden, So haben wir Solichs ouch vornacher nie
+geboucht noch grubt, Darumb wie alle Christen
+batten, an vnser einfaltibrit, fuͤr gut zhabenn
+vnd vns / So wir nidt allwaͤgen bin Scheopftsten
+grndtinirt arten zu venechen, Dam ein Jnt /
+licher Do Sclita Dachon nit wel grult / Do tlindt
+vff einen Jrden gegrmmͤrff, Schraͤtlichen andt ¬
+wurten kan, Dolt koris allie Ju besten, fiet tit //
+Mhrbrdu huͦtar
+Pie endumiff mich gemauis hristlchen
+tkrchen ve nucg lj allein Schlushredin, So list
+her gehalten sind, glineiner cheistenlichen kilchen
+Ewvolchen haben, Sant Jaulus Spricht ad
+Ees n n g t vnd
+Ein gloub yge / i Also ouch ein gemeine christen/
+lichs versdimlung, geregiort wirdt von dem heili¬
+gen geist,/ walicher em gallt nitt iderwartig
+Ist edamsillen zuliben Vndas Ich gnit
+Bate dendem murru wit gottes, mab zubirchten

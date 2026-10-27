@@ -1,45 +1,42 @@
 # Seite 392
 
-and in all
-not vnne that
-Inngeren vijff
-ning her
-Omnt Jans
-nckenal all
-hoven tot
-which
-et de
-Die vierd schlußrad
-164
-Her Jesus Inn der nachs alls er ward verraten
-habe der gestaelt das brot genomen, vnnd danck
-gesagt) gebrochen vnnd gesagt, niemand vnd essende
-Das ist min lijb welcher fur vch geben wirtt
-Das thund Inn immer gedechtnus Derglichen
-onch den kelch, nach dem er hatt zenacht
-das ist der
+ae
+Ingrie
+mihg/
+vnd sus
+aaln
+vnc
+n ved staitnd
+18
+her Jesus znn der nacht ale er wend veraten
+habe der gestallt das brot genomen / vnnd danck /
+hesagt / gebrochen vnnd gesagt / nemend vnd essen
+Das ist min lyb welcher fuͤr uͤch geben wirtt /
+das thuͤnd Inn miner gedechnus Derglichen
+ouch den kelch / nach dem er hatt zenacht
+Das ist der
 gessen hatt er gesagt
-kelck, Das nuw thestament In minem blut
-Das sollende Ir thun, so offtmalls Ir werden trincken
-voorss. welchen inge
-Inn minen gedechtnus
-furten schrifften wir verniemen der lijb vnnd
-Das blutt Christi werde Inn dem brot Der Danc¬
-sagunglyblichen vnnd wesenlich dancksagung empfangen
-colampadius
-S'han min lieber bruder sich widerumb ge¬
-wendt zu den worten Johanus am vi cap:
-das sy Im dienen, Des bin ich Im int par abred
-(welleg pott) sij von mencklichen woll verstandenn
-Op wundert dienen
-wurden, vngezweffellt
-ber die ver¬
-zu hinnemmen voler Insael
-heissung des sacramenteichen brots findt er
-am selbigen ort nit so er aber min kumpt vff
-die Insatzung des herren nachtmals Damit
-wir dester geschickter vnd verstentlicher reden
-So versich ich mich zum ersten das min lieber
-bruder werdt int verneinen, hie Ingesetzt sin
-sacrament des lybs vnnd bluts Jesu Christi  So
-wirtt min nutz vnd gut sin wer da erkennen
+keech / Das uuw theffament In ninegn bluͦt
+Das sallend i h enalle dar tenn
+usß werchen tuge
+Inn miner gedechtuns
+fuͤrten schrifften wir vermemen der lyb vnnd/
+d den os
+saguiglyblich vnnid wesenlich damckfagung empfangen
+Acolampadus
+Shatt nin lichet weader sich wederumb ge //
+wwendt zuͦ den worten Johannis am vj ͦcap//
+Das sy Im dienen / des bin ich Im nit gar abred
+welle gott sy von mengklichen woll Perstandenn
+S wuͤndent dienen
+wuͤrden vngezwffellt
+Der die ver //
+zu hinunung er Jrsil
+heissung des saramentlichen brots / fundt er
+am selbigen ort nit / so er aber nn kumpt vff/
+Die Jnsatzung des herren nachtmals Damit/
+wir deser geschickter vnd verstentlicher reden /
+S versich ich mich zum ersten das min lieber /
+bruͤder weͤrdt nit verneinen / hie Ingesetzt sin
+sarament / des lybs vnnd bluͦts Jesu Christi / So
+wirtt nun nutz vnd guͦt sin wer da erkeimmen

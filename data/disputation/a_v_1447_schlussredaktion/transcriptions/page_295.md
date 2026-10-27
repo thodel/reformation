@@ -1,32 +1,32 @@
 # Seite 295
 
-Die ander Schlusbred
-Theobaldus hutter, Pfarrer
-zu Oppenzell
-Oft die meinung mius Oprucks, oo ich Ingefudt
-hab, Audiam quid loquetur In me dominus Palmo
-lxxxviii.o Ich wil losen was der herr, In mir wirdt
-reden, In welichen worten, der Drophet injouijt,
-Ein vfsachen zu haben, vff den geist gottes, wie
-dann gester nach der lange, daruon geredt Ist wor¬
-den, welicher geist gottes, bij dem gespons vnd ge¬
-machel fein christi tst, vnd blibt, und so min
-Vagningen vnd Ordnungen, In der christenlichen
-kilchen, gebrucht und angesichen bind, vnd gelert
-nitt unzimlich zu sin, Dann als wir haben in der
-ii. Epistel, vnd ii. capittel zu Chimotheo, da Er
-Opricht also, Empflich disz ding den christgloubigen
-ment then, welche werden zin geschikt die andren
-zuleven, oder bevelchen, Das Oi aber haben een be¬
-welch, Probier Ich das, durch die geschicht der zwoefbotten
-am. xx. Haben vch ein vfrachen, vnd der gangen hoofd
-In welicher vijch der heilig geist gesegt hat, Bischof
-oder hirten, zij regieren die kelcken gottes, welche
-Er vberkomen hat mitt sinen blut, u In welichen
-clarlich anzoigt wirdt, das Regieren der kilchen in
-Martinus buijer
-14
-Von der offenbarung gottes, die Er zu allen
-glaubigen tin hertien redt, Ist vor hun vberflussig
-durch Meistern Vlrich zwinghin vnd mich an¬
-Zoigt, Oerglichen ouch von den Ordnungen der
+Die andir Schlussred
+Chrobaldus huͦter, Pfarrer
+zu Appenzell,
+Ede mannug mis Criche Si te kichen
+hab/ Andiam find loputtur Jn nir dominus Sha
+lxviij: Ich vil lhen mo der hen / In mit nide
+reden, In mlichen worten, der Prophet mmzeͤigt,
+Ein vfsachen zuͦhaben vff den geist gotteb, wie
+dann gestir noͤch der lange, darumn geerdt Jst nir /
+den voelicher geist gottas by dem zeszane nud gr¬
+machl Jrsu christi Jst, vnd blibt vnd So nun
+Sazungen vnd Ordnungen In der christenlichen
+tilchen gelrucht vnd angesichen vind / vndgellnt
+nit vnzunlich zusin, Dann ils win hiben andenr
+ii Epistil vndij captttil zu Chrnochin / da J //
+srricht als,/ Empfilch dise ding den chrischliulighen
+montschen velche werden sin geschitkt dir andron
+zuleren, oder beuilchen, Das Si alre habnein bi¬
+velch Probier Ich das durch die geschicht der zwolflitten
+a S haben och ein vfsichen,/ vnd dir guzen had
+En welichit uͤch der heilig grist geset get, Bish
+der hiten zu regiien di kilchen gottes / welche
+Er uͤberkeindu hat mitt sinem blut, 1 In welichen
+clarlich anzigt nidt, das Jegieren der kilchen i
+Matinug luczge
+1
+onder offribarung gattas, di hr zu allen
+geuligen In hacren radt Jst vir hin vlerfluissig
+Burch Cristern Derich zwinglin vnd mich / en
+zigt, Darglichen ouch voͤnden Sedmungen der

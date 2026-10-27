@@ -1,51 +1,51 @@
 # Seite 540
 
-ssen schon
-men
-ister
-and is
-Wext
-so ist
-zu geflären
-Infanckes
-48 stver
-hab mutt
-clusien
-Visschen
-aux mêmes
-In Quad
-fruge
-peliebts
-und Buch¬
-225
-Die vivre Sluproe
-welche Das lecht der warheit, ettlich Jan so
-schinberlich eroffnet hatt. Werde In gegenwurten
-gem handell/ mir vnnd anndern / ouch entdecken/
-was fur vngezwijffeler daran anzenemen, sy vnd
-will also mir alle zijt wyter bericht, met gottes wort
-vorbehaeten, haben, vnd hiemit minen mitt¬
-hafften, so an desem thiften gesessen, metz vffgelegt,
-noch abgenomen haben, bevilck sollichs alles In
-summa portlicher erlichting vnnd dem Chri¬
-Vff dem XIX tag Januarij
-Vnlichen läster
-Dominicus Zilli
-In curstino
-Predicant in sant
-gallen
-Vrsamen, fursuchtigen, gunstigen Hern, Christen¬
-lichen lieben bruder, wie wir von vnsern hern
-einen Ersamen, kleinen vnd grossen, Vhat der stat
-sant pallen/ hie bher vff disß gesprech, abgefertiget,
-sind In der meynung des Hern abermals wider
-wertig hatt sich her Benedicht der pfarrer da¬
-selbs, hie zugegen, durch vor einem ersamen Vhat
-bij vns christenlichen expoten bericht zhebben, vnd
-zu nemen, In der hoffnung, er werde ouch be¬
-richt finden
-Als dan besthechen ist gott dem
-hern sy lob) Diewijl kr aber sich zum theil
-erkent, bericht zesin, beger Ich Im vnd allen ven
-pott dem herren, Das er im Das weg onch¬
-zu verstan gebe, Darzu em hertz bestendig an Demsel¬
+sd
+sruf
+dend
+da
+wad
+hia
+er tehlie
+Ersanln
+gese
+Johoh
+luser
+er
+aie nin
+egn
+frle
+rgelb
+ndne
+22
+Die vierd Slußred
+welche / Das liecht Der worheitt / eitlich sor so
+schinberlich eroffnet hatt werde In gegenwurti
+gem handell / mir vnnd anndern / ouch ent decken /
+wrs fir vngeeuffeai Da an anzenaman / vnd
+will also mir alle zyt wyter bericht / mit gottes wert
+vorbeholten / haben / vnd hiemit minen mill //
+hafften / so an disem thisch gesyssen / mitz vffgelegt /
+noch abgenomen haben/ keilch soͤblichs alles In
+sumi goͤttlicher erlichtigung vnnd dem Chri //
+vff dem xixtap enmers
+stenlichen laͤser
+Domimiant zille
+Crist
+predicant zuͦ sant
+rallen
+Erseinen / fursachtigen / gunscgen hern Cchristen //
+lichen lieben bruͤder / wie wir von vnsern hern
+einen Ersamen / kleinen vnd grossen / Rlit der stat
+sant gallen / hieher ucf disß gesprech / abgefertgat
+sud In der / mynung des hern / abey mmabs wider //
+wertig Hatt sich her Benedicht der pfarrer da //
+selbs / hie zuͦgegen / ouch vor einem erssunen Rhat
+by vns / christenlichen erpoten / gericht zegeben / vnd
+zuͦ nenen / In der hoffnzung / er werde ouch be //
+richt fuden/
+Alß dan beschechen istlgott dem
+hern sy lab) Diewyl er aber sich zum theil
+erkent / bericht zesin / beger Ich Im vnd allen von
+gott dem herren / Das er Im das vbrig ouch
+zuͦ ver scan gebe / Darzuͦ ein hertz bestendig an demsel

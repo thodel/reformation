@@ -1,46 +1,43 @@
 # Seite 512
 
-gétale
-Sitzenn
-glonder
-und setzt
-In seinem
-1 lebende
-5 er van
-wthvig
-Hall Esq
-214
-Die 4. Sluszroe
-Des geschlechts oder samen abrahams hatt ex
-an sich genomen Damit er den brudern die er
-haldisenn sollt, Inn all weg, glich were ende In
-vellichen werden wir woll sechen, Das er
-Die wortt, Das ist min lichnam int allso
-periet hatt, Das Das brott sijn hand win
-sin lichnam vnnd blutt sie, Oder aber das
-bret vnnd sijn mussene van Im woll also an
-"als
-„sin
-so genomen, werde als woll die menscheitt vnd
-so das mussie er sich ouch zu erbösung brots
-vnnd prins, vnderwinden haben Da von pruij
-Zum Rechten Spricht paulus
--
-pesagt
-Also erkennend wir
-ii ƒ xi: am v cap:
-furthin niemand, nach dem fleijten vnnd ob
-Ooix glicken Christum nach dem flaesten erkent
-haben, so erkennen wir Jun int mer nach
-Dem fleißen etc. In welchen worten, wir
-onch sechent, Das paulus In dem vsserlichen
-fleißen Christi wegende die erlösung, nutzet
-zum Swenden vellen wir
-suche ende
-ouch anzeigt haben, Das ert Bacher xxiiij
-Da Christus, die fur falsten propheten anzeigt
-Die Obgristum hie oder dort wurduit zeigenn
-Dann welche Inn Im brott zogen Die zoigen
-In vergrlicher an, weder die die de sprechenn
-er Ist Im huß, oder er Ist im veld Kep post
-articulos Castriastrophi So wir nun durch leicht
+ih
+vsen
+sln
+psend
+s erie
+schen
+ges
+21
+Di Cluserig
+Des geschlechis der somen / abrchans hatt er
+an sich genomen / Damit er den bruͤdern / die er
+erloͤsenn sollt Inn allweg / glich were /. In
+wellichen worten wir woll sechen / Das er
+die wortt Das ist min lichnam nit alls
+geredt hatt / Das das brott / sen lyend win
+sin lichnam vnnd bluͦtt sie / oder aber das
+brot vnnd win / muͤsstend von Im woll alsolin
+als
+sin
+ogenomen / benderglo woll die menscheitt vnd /
+so das muste er sich ouch zuͦ erloisung brar
+Ind wins vnderwinden haben / da von gug
+Bn echten Spricht paulus
+gesagt /
+Aso erkennend wir
+ij Epi: am vͦcap:
+fuhin niemand nach dem fleisth vnnd ab
+i neistu nach den flasch erken
+haben / so erkennen wir Inn nit mer nach
+Dem fleisch In welchen worten wir
+ouch sechent / Das paulus In dem vsserlichen
+freisch Christi uͤber die erloͤsung / nutzit
+Sum Sibenden wellen wir
+sucht e
+ouch anzeigt haben / Das ort Machei voii
+Da Christus / die fuͤr falsch propheten anzogt
+Die Christum hie oder doͤrt winrdint zeigen
+Dann welche Inn Im brott zeigen die zoigen
+In verzrlicheran / weder / die die da sprechenn
+er Ist Im huͦß oder er Ist Im veld / sri gost
+arliender lallichffrepter So wair mun durch lichi

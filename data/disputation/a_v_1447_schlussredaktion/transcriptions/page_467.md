@@ -1,35 +1,35 @@
 # Seite 467
 
-# Drey
-Wm
-1740
-mit net wider zeaffern Ist aber gewuissen vss.
-Idem anhang der worten, Das dieselbigen, nit
-ossz glauben gehandellt haben
-Das bezugemit
-Die wort, Ich bekenn Jesum vnnd pauln. Weys
-wij, Ir aber wer sind Ir, Darus der Miß¬
-glaub over den hörenden vnnd läsenden/ gnugsam
-verstendig,
-Dann Der mtt vsz. glauben
-handlot. Der handlet mitt dem wortt gottes
-Dubell, Das bezugent die wort des Hern, Mathei
-am vii cap: Die da onch sagten her her wir
-habenn In diuem namen weßgesagt, vnd In dinem
-namen Die thuffell vss getriben, So sy es aber vss
-Dem rechten glauben thun sind sy geheissen
-boschafftig diener, Dan die Junger Christi selbst
-Den thijffell vsss. den besessuen, int uijttwiben von ciegen
-des missglaubens, wie die wort egathei am
-xvij cap: clarlich anzoigen, Der gestallt auch Johes
-am xiiii cap: warlich warlichen, sag ick vch der
-da glaubtt In mich, die werck so ick thun wirt
-er ouch thun vnd grössere, durch een plouwen
-alles samen, wie wir des encken bezugnis haben
-Ende am ix cap: Die vsss dem glonben Christi
-Die thuffell voorss. triben,
-ven bracham
-bevelchen wijss der gschrifft
+Irer
+n
+4
+un ant wriderzeiffern Is aber geusßrsß
+dem anhang / der worten / Das dieselligen / nit
+usß glouben gehandellt haben /
+Das bezugemt/
+Die wort / Ich Ckenn Jesum vnnd paubi weyß
+ich Ir aber wer sind Ir / Daruͦß der lliß//
+glans zer den hyͤrenden / vnnd lisenden / gnigsam
+verstendig /
+Dann der nitt vsß glauben
+handlat Der hnidlet miat dem weret gottes
+uͤbell / Das bezuigent die wort des hern / Matlen
+am vij cap : Die di auch sagen her her wir
+habenn In dinem namen wysgesigt vnd Indinen
+namen / die thuffell vßgerriben / So sy es aber vsß
+Dem rechten glauben chan / sind sy geheissen /
+boßhafftg diener / Dan die zuiger Christisets
+Den thuͤffel vsß den beessun / nit vstriben vonlicgen
+des misßgloubens / wie die wort Mathei am
+prij cap clarlich anzuigen / dergetollt ouch Johes
+am xiiij ͦ cap: warlich warlich / sag ich uͤch den
+da gloubtt In mich die werck soich thun wirt
+erouch thun vnd grassere / durch den glauben
+alltosamen wie wie des ouch oezignis haben
+Buͦe am ixcap: die vsß dem glauben Christ
+Die thuffell vsserben /
+von Abracham
+bevelcgen wie der gschrifft
 Dan das
-gott sich in lasse Inn vnsere hertgen Durch den
-glorben. Haben wir zijn verphesenn am iiij capn.
+got sich alass Im vnsere hertzen durch den
+gloͤben/ Habenwir zum Ephesern am ij ap

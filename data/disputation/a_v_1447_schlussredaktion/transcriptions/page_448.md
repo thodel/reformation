@@ -1,5 +1,3 @@
 # Seite 448
 
-tout
-ƒ
-Monsieur
+4

@@ -1,33 +1,31 @@
 # Seite 593
 
-A τονέυμαται
-183
-Die funfte Schlußredi
-dem herren, vnd hand gefastot, het gesprochen der
-heilig geist, Oundret mir Garrabam vnd Oaulum
-In das werck zij welchem Ich Oi berust hab, Hie
-mag nitt anders formcklich nach der Schrift darge¬
-ben werden, Als wir hoffen, dann allein das opfer¬
-Der Mäsß.
-12
-Martinus buzer
-Noch Staten der Dilo gismus, das nitt goopfrot
-16
-werden mag Oarnis ob schon Othrist vsbracht
-werden mocht, die glich die widergedachtnis om
-opfer nennet, das doch gar nitt Ift, noch danocht
-mocht man nitt sagen, eygentlich daruon zureden,
-.. 0
-das die wassmacher opfroten, Das opt xiii.
-ontorum, angezogen, das lutet also, als Ou aber dem
-herren dienoten vnd fastoten, dat nitt opfroten,
-Dann grece haben wir Arrvoorzworuop das heeft
-nitt, als di opfroten, Wir haben ad Hebreos. etc.
-kind ende mitt all dienstbarliche geist, Da haben wir
-grece Anoverman, Da wurdt sich gar wel vinnen
-welt man es vertolmetsthen, opferliche geist, Der¬
-glichen haben wir zum Romern, von dem wiltlichen
-gwalt, das er ein dienerin sije des herren, zij den
-Romern xiii. da haben wir ouch, Αειτουριοι.
-gidius muerer,
-Das Er opricht, der Silogismus gije nitt vfgolost,
+hrigtlen
+15
+Die kunfer Schlissred /
+dem horon,/ vnd band gefastet, het gesprichen der
+heileg geist, Sundret mit Carmbam vnd Saulum
+In das werct, zu welchem Ich Si beruͤft hab,O
+mig net anders foͤrmcklich nich der Schrift darge¬
+ben werden, Als wit hoffen, dann allein das opfer
+der Maͤss,
+2
+Martiung buczer
+achhit dir Dier gisami, das nit gropfeit
+werden mag Darub os schen Schrift vflracht
+weden moͤcht, die zeich die widergedaͤchtnis ein
+opfer nonnet, das dich gat nitt Ist, noch dancht
+moͤcht man ntt sagen, egentlich daruon zuerden,
+das die Maͤssmacher opfieten, Das ort xii:
+Actorum, angetogen, das lutet also, Als Si aber dane
+herren dienten vnd fasteten, Stat nitt opfreten,
+Dann gricr heben wir Drtlenzi aulliep das heist
+nitt, alb Si opfroten, Wir haben ad ptelrios
+Sind Se nitt all dienstbrliche geist, Sa haben wir
+gricr iloenron, Da waͤrdt sich gar uͤbel runen
+welt man os vertilmetschen opferlichr geist, Der¬
+fichen habon nie Jun ioͤrmarn von dem waltlichen
+gnalt, das Er ein dieneri eir des horren, zu den
+Roinern xvij . da giben nid ruich/ Cstagn//
+gidiug nuter,
+recg Crigt di Degchn her antfgristen

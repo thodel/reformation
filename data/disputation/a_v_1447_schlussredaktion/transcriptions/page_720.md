@@ -1,34 +1,32 @@
 # Seite 720
 
-307
-Die viiii. Schlusvredi
-lasten wir das alter gunt bliben, Doueve man das
-alter verstat, den ernst, trouw, vnd Riffe der gett:
-forcht vnd sitten, Amst Ist das Wistumb nitt
-an das alter gebunden, wellen hiebij gar mijnt fur¬
-mündet haben, fräfner Jugend, Eis zu den sel:
-ben zitten nitt gelert Junge gewasen sijen, zeigt
-vns an, Oam der Schulmeister vermeine, man
-musste min Junge, zu Gisthoffen machen, wie
-bisshar mitt den staffen gebrucht, Is Ist aber
-zu derselben zitt, als man In allen geschichten findt
-grossere ler vnd wussen gewesen, bij fungen vnd
-halten Gisthoffen, weder widerhar te, Dis der 1a
-Gisthoffen liecht luchten solle vor den mentsthen,
-Erkennen wir, Cas die Jungen des liechts ringer
-verfaelen weder die alten, lassen wir aber nach, Cas
-dient aber nitt, das der Bisthoff darumb, mitt volle
-een wil haben, Ounder Er zie fruijt oder ult,
-So fr die wisthofflichen Pitten, oder gaben het, nog
-Er dargi erwelt werden, hierum aber Othirmt
-den Wisthoff, Er sijn Jung oder alt, vor allem arg:
-won, ein eijgen wil haben, So lassen vns nitt winn:
-tter sin weder gott, vnd oder die Re den Gusthof¬
-ten erloubt, bindt die niemand an, te verbie¬
-ten zije vsz. dem gwalt der tijflen, doch allein als
-die Marcioniten und Tananiten verbotten haben
-Otertet wider den Opruch Pauli, prima ad Ehmo¬
-themm. iiii.o Oann Paulus daselbs vstrucken lich
-redt, is werden In nachkomenden zitten, Ettlich
-Dans des
-Votre beaucoup
+zo
+Dr vij Schlusßsend,
+ristiui mit das altre gnig kliken,/ Souwer mandas
+alter vorstat den ernst trinwo vnd Riffe der gots¬
+facht ved daten, Dunst Jst dis vistumb nitt
+andas alter gebunden, wallen heali hrir nuͤzit zur¬
+mundot haben, fraͤfner fugend, Das zu den sel¬
+kin zitten nitt gelart Jnnge gewasen byen, zuͤgt
+vns an, Sam der Schuilmeister vermumne, man
+muͤssr nn funge zu Bischoffen nachen / wie
+bischar mitt den Pfaffen gebruͤcht, Es Jst aber
+In dersillen zitt, ile man Jn allen gschechern findt //
+Jrister ler vnd missen geuisen by fungen and
+alten Cischiffen, nader Sidichae Ir, Das der
+Cisteiffon liht luchten goe vonden mentscham,
+ckemmen wi, E die knngen dis liechts einger
+verfaͤlen wederder alten, listen nit aber nich, Das
+dernt abir nitt das dar kristeiff darumbmmitt ooler
+ein wil haben, Sunder Er sir Eung oder Alt
+So Er die Bischofflichen Sitten oder gaben heet mtg
+Er daczi ermelt worden, hiarum bir Schiimt
+dan Disthaff Er sir Emuin der alt, vor allom arg /
+won, ein eyen mib haben, So laͤssen vns nitt wic: ¬
+mer sin kiedir gott vnddoder die Er den Bischof¬
+fen erlont bund der nomand an, Ee vnbie¬
+ten sye vsßdem gwalt der tuflen, dich allein als
+die Marcioniten vnd Dacaniten verbotten halen
+Stretet wider den Spruch Pauli pouͤna ad Mhuio¬
+thoum iiij . Dann Caulu dasells vßtruchenlich
+redt, Es werden Jn naͤchkomenden zitten, Eetlich

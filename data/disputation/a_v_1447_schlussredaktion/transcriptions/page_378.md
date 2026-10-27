@@ -1,36 +1,36 @@
 # Seite 378
 
-Die vierde schlußrede
-157
-vnnd gernn gebord hab Namlich Damit vinnsere
-hertzenn, vff Das hertzlich vertrouwen In Chri¬
-tum Ingeleistet werdint, Ist lieblich vnnd mus
-as aber
-verstants Christenlich exzellet
-min her Meister which, will in eym van cap:
-kein verheissung lassen, besthechen sin, Des lijb¬
-lichen essens so Im nachtmall vollemndert verlasß
-sich mich vff die vill furgebrachten spruch vnd
-sin erklärung das er dabij anzogen hatt, von
-Mürrung der Juden mag kein Christenlich
-verstendiger, den vß getruckten text verleignen
-Da er sich Das lebenndig brot van himell anzoget
-Was es den Inden ganntz verdriesslich, dan
-sy nitt annders von Im hiebetend allß van einem
-Jaxnius ende ouch
-anndern puren minstgen
-Inn Josephs Sun nampten, Das aber durch das
-gantz Cap: hin vss wo da statt essen, solle glouwen
-vnnd vertruwen In Christum verstanden werden
-Over
-bevilch sch abermals der ystchrifft
-betreffend, Das annder murren, Da er van essung
-sines fleijths melldet, Ist offen bucen Das die Inden
-vermeint haben sij söllende zum essen vff Die
-groben wijss, Allsz. so einer snuijt fleyten
-essen wurde, Habenne darby vermeint So sin
-fleijsten overwel gesschen Diewijl vnnd er Inen
-(das heill vnnd seligkeit daran gebunden) ware
-Inen schwar
-Dann sin fleijten, nach gram
-12
+ie vied schluied
+1
+vnd germ geeid gee anen dann vnnsere
+herzenn / ff Das hertzlich vertruwen / n Chr //
+stum Ingeleibet werdint / Ist lieblich vnnd mns
+Das aber
+verstants / Christenlich erhellet /
+min her Esteister vbrich / will in disem vj cap:
+kein verheissung lassen / beschechen sin / Des lyb //
+lichen essens so Im nachtmall vollenndet / verlas
+ich mch vff die vill furgebrachten spruch / vnd
+sin erklyung das er das anzegen / hatt / von
+muͤrrung der Juden / mag kein Christenlich
+verstendiger / den vßgetruckten toͤxt verleugnen /
+Da er sich das lebenndig brot von himell anzoͤiget
+Was es den Inden gann verdrieslich Dan
+S nit annders von Im huelbtend allß von einem
+Darumb sy ouch
+anndern / puren moͤnchen/
+Inn Joseghs Summ nampten / Das aber durch das
+gant xux. hin vsß wo de stat essen / soͤlle glouben
+vnnd vertrupen / In Christum verstanden werden /
+Aer
+bevilch Ich abermals der gschrifft /
+betreffend / Das annder murren / Da er von essung
+n nile en d ne
+vermeint haben / sy soͤllend znm essen vff die
+graben woß / llß so einer siunst fleisch
+essen wuͤrde Habennd dars vermeint / So sin /
+fleisch werde geessen / Diewyl vnnd er Inen /
+das heil vnnd soligkeit daran gebunden) waͤre
+Inen schwaͤr //
+Dann sinfleisch / nach Irem
+2

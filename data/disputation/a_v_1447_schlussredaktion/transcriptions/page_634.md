@@ -1,30 +1,30 @@
 # Seite 634
 
-(C
-268
-Die Puchs te Schlusfred,
-Een lib, So mogen Oi ouch fur uns bitten, Cas be¬
-waer en Ich zu einem werfluss, vss. dan bijch Apo¬
-calipsi v.o ca. Vnd do das lamb das bijck nam, Da
-vielen die vier thier, vnd vier vnden weynig eltestenn,
-für das lamb, vnd hatt ein getlicher haopfen, vnnd
-gulden thalen, voll gerouchs, welches sind die gebalt
-der heiligen, Hiebeschribt der heilig Johannes, das
-gebatt der vserwelten heiligen Im. himel.
-Meister Verich zwnigki,
-Ist gnug gesagt, wie die vserwelten gottes In der
-Taliteit, Christi glider sind, vnd unsere mitt¬
-gelder, vnd das Oi vnsere mittglider, des Achtnams
-So noch hie Ist, Oijen, vermogen die wort Pauli nitt
-prima Cornittiorum xiien. Oann die mangel,
-die da der hieijgen kilchen zu gaben werden, gezim¬
-men Inen nitt, Vss. Opocalipsi, namen wir de:
-hem kundtschaft om, dann es nitt ein Biblisten
-bijch Ist, wie wol alles, das si derglichen harm moch:
-ten zuchen, vns dienst, vnd nitt Juen,
-gidius muwer
-So meister Vlricht opricht, vnd gitt nach, die
-vserwelten heiligen Im himel, zijen glider Chri¬
-sti, aber nitt wie wir glider Christi genart wer¬
-den, vss. dem volgot aber, das die vser welten hei¬
-ligen, gott fur vns bitten mogen, Omm wir
+22
+28b
+Di Sasser Schissrd,
+ein lib, So mogen Siouch fuͤr vne bitten, Das ber
+waͤren Ich zu einem vberflusß. vss dem buͤch Apo:
+calirsi v.ͦ co vnd de das lamb das buch nun, xa
+vielen die vier thier,/ vnd vrwnd zwenzig ltistenn,
+fur das lamb, vnd hett ein fetlicher hacfen, vnnd
+guͤldin Schalen voll gerauche, welches ind die gebat
+der heiligen, Hieleschribt der heilig Johannes, das
+gebett der vfrewelten heiligen sen zuͤmel,
+riste Glrich zwuger/
+est gnug gesaigt / ve de vsaewilten gegtas Jnder
+Halirit, Christi glider sind, vnd vnsere mitt/
+gider vnd das Si vnsoer mttglider, das richnams
+So nich her est, Sson, Daemegen die natt Raudi nitt,
+peun Corchenum xiijͦ Dan die eugel¬
+dir de den hingen kichen zu giken nandan gnzum /
+anen Jnen nitt v Apoclsi na d
+hen Enn deschift an,/ dann e mitt ein Ciblisth
+buch Jst / wirwol alleb das Si derglichen harin moch
+ten suchen vnodirnt / vnd rit Jnen /
+gnduis murar
+o mriste Vlrich Spricht vnd git nach, die
+vserwalten hriligen ein himel, yen hlider Cri¬
+sti, aber nitt wie wir glider Christi gevant wer¬
+den, vssß dem veget aler, das die vserwelten hei ¬
+ligen, gott fur uns bitten mogen, Dum war

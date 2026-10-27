@@ -1,33 +1,33 @@
 # Seite 635
 
-prima Ddd.
-191
-# darumb
-Die vj. Schlusdredi
-haben geschriben. 1a. Johannis. iio. 60 Jemand gun¬
-digot, To haben wir ein fursprachen vor gott dem
-vatter, Jesum christum, So mijn die hebben heilig¬
-en (Im) huwel. vnnd glider Christi, vnd das hopt
-Christus, fur uns bittot, worumb wollen dann sich
-Ome glider, In nitt glichformig machen, Im
-gebatt, Das fr aber Cpricht, Das buch Apotoliptis,
-Ope nitt ein biblisthbuch, vermeinen wir nem
-Dann allenthalb wo die Biblisthen bucher, getruckt
-werden In der kristenlichen kilchen, So Ist all¬
-wag damitt begriften, das buch Apotalixsis, dann
-der heilig fuangelist vant Johans, hat dasselb
-gesthribenn,
-Meister Vlrich zwingh
-Oft binnen Bilogissimum volgot nitt, Christus Est
-vnser mittler, fürbitter, oder fürstender 1. â Johan:
-mij. ij. Go Bud ouch die heiligen, fürbitter, mit¬
-ler, und furstander, Oann wie allein, der dagot:
-tes Ann Ist, den toe fuij vns erlitten hat, Also magt
-Noch derselb allem, unser mitler sni, So die Patigen
-bij gott, nach der natur und wasen, nitt gott sind,
-To haben ende den tod nitt fur vns erlitten, So
-sind zi ouch nitt unser mitler, der maß wir von
-mitlern reden, Da Er opricht, worumb holten
-ende sij mn. nitt glichtoxning gul. Andtwuort # das Jhr:
-ner gott Ist, und ende nitt, vnd das vns gott, mitt
-sinem wort vnd geheiss, Christum zu eniem
+omn
+1
+er darumb
+Di vj Schluͤssrid¬
+haben geschriben Egie ij: (trmand eim
+diget,/ So haben wair ein fuͤrspraͤchen vor gott dem
+vitter, Ersum christum Do nug die lieben heilicg¬
+en sein zuvel, zund gider Christi, vnd das hort
+Christus, fur vns bittet, worumb wolten dmn sich
+sire glider, ej nitt glichfoͤrnng machen, Jm
+gebalt, Das Er aber Spricht, Das buch Appchhlupfs,
+Der nitt ein billischbuch, vermeinen wir nein
+Dann allenthalb wo die Giblischen buͤcher, grtruͤckt
+werden In der kristenlichen kilchen, So Jst all¬
+wig damitt bigriffen das buch Apotalipsit, dan
+di gailih zingrlist dant tigmo/ het dus alb
+geschrikenn,
+rister derch zwnige
+er onm Glisenir rgrane wrsen set
+vnsir unlir furkiter,/ der fiistender Jahan
+nuirn snd auch dei haligen fuliter/ mit
+lar, vnd fuͤrstaͤnder, Dum wie allein, derdaget¬
+toe Sun Ist, din trd fuz vns etlicten get,/ Also mag
+nch dersell allem, vnsar mitler ein, So die Sati gen
+o gu neder intur vnd inson, vitt gott sind¬
+Ss haban Se den tod nitt fuͤr vns orlitten, So
+end s. ouch nitt vnser mitler, der maß win von
+miclern reden,/ Da Ee Spricht, worumb solten
+ͦ ei mtt glichferung ein, andernit edis thr
+nor zen Jst vnd S. nete vnd dis vns geitt mitt
+cinn wrt vnd chris, Christum zu eiem

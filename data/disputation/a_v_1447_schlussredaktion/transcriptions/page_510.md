@@ -1,48 +1,46 @@
 # Seite 510
 
-Was men
-Votre
-bens.
-Vndt
-+ Daß
-vnnd xxx
-nur mittel
-Rentlich
-slicher
-r nach
-& mon
+ve
+t
+wor
+vi
+e
+iteviten
+kenten
+ice
+e nac
+emoͤn
 2
-143
-„ nutzst
-6
-Die 4. stuijvende
-zijn
-ist. Da ist kein huijver noch Furst, nach
-wyterer versicherung oder trostung, oder aber die
-so Im geist angefangen haben, missent erst Im
-flenten ouch leblich geessen trost suchen vnd
-pe volkommt werden, Wellichs doch von
-Paulo zum palathern, am iii ca: gestholtenn
-Vintt So er spricht wollende in Im fleisten
-erst volkomen vinne „ gemacht werden so Ir
-In geist habend angehept, Oest halb wir vss.
-glouwen vnnd sichering pottes sechene Das
-ons kein sachen, sonder glauben, wir nemend
-dan essen fur gleuben, Indre stücke mitt
-denen angezogt, v/ dem vi Jors. ist mitt
-Zum Datten
-nott wijter zhaffren
-Das Christus Enach dem die Inden Durch
-das wort effen, mitt dem er doch vertru¬
-Owen zeverstan gab, Danuff fiellend, das er
-meinte man muste sin fleisch lijblick essen)
-Inen die antwurt gunt. Der geist oft der
-Da lebendig macht Das fleisch ist par kein
-mitz
-Binn wussend wir vngen twiffellt
-Das das fleijten Christi vill metzes gebracht
-Ober verstödt
-Dame so vill vns gott Junij
-mein lebenn, vnd wandell ein Christen lich leben
-DarIn voorgebiedert hatt, wer lijblich zesschen
-ist es kem mutz mitt, dan es mussz allein geij
+mniche
+2
+Di plistrnd
+2
+ist Da ist kein higer noch duist / nach
+wyterer versichrung oder trostung oder aber / die
+soIm geist angefangen haben / misttent erst Im
+fleisch ouch lyblich geessen trost suchen / vnd
+gevolkonnet werden / wellichs doch von
+Paulo zun galathern / am iij ͦ ca/ gettholtenn
+wirtt / So er spricht Sellend Ir Im fleisch
+erst volkomet vnnd gemacht werden So Ir
+Im geist habend angehept / Deßhalb wir vsß
+glouben / vnnd sichtrung gottes sechend / Das
+dns Cein sichen / sonder glonben / wer neinend
+Dan essen / fur glouben / Andre stuͤcke mitt
+dinen angezeͤgt / vßß dem vj fbis: ist nitt
+Aum detten
+nott wyter zeaͤfften,
+Das Christus Mnach dem die Jnden durch
+das wort ofsen / mitt dem er doch vertru //
+wen zeverstan gab / Daniff fiellend das er
+meinte man nste sin fleisch lyeblich essen /
+Inen die antwurt gipt / Der geist ast der
+Da lebeidig macht / Das fleisch ist gar kein
+mutz
+Dun wussend wir vngezwifselt
+Das das fleisch Christi vill nutzes gebracht
+Aber getoͤdt //
+vmf) so vill vns gott Inn
+inemn lebenn / vnd wandell ein Christenlich leben
+Darin vrgeoeder hott / Wer liplig zeessen /
+ist es ken nui na / den es nusß alln geisd

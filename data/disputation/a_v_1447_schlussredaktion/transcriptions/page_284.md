@@ -1,35 +1,35 @@
 # Seite 284
 
-se
-barens
-Die ander Oblussred
-115
-Johannes buchstab,
-Die zwen Artickol. vernem Ich nitt, Er hat mir
-aber noch nitt anzeugt, wo Oi vns gebotten zuglouwen,
-witter, so die heilig christenlich kilch, Ist heiligen
-vnd das hochwirdig Sacrament des tibs vnd bluts chri¬
-sti, das opfer der mass, Das gebatt fur todt vnnd
-labendig, wie durch gnugsam kundtschaft bewisen,
-bij funfzichende halb hundert Jaren gewart het, vnd
-das solte vnrecht sin, wurde volgen, das Jeg die heilig
-christenlich kilch, wider den angezoigten puncten vande
-Artickel des gloubens, nitt heilig ware gesin, Oann
-als Christus spricht Johannis. viij. Die luge
-vnd frthumben, sind von dem tijsel, der da ff. lu¬
-gen haftig, vnd ^ vatter derselben, wer die warheit
-Ist von Christo, Johannis am xiiii. Car da Ist der
-wag, die warheit, vnd das leiben, Vnd daer het Mar:
-ti bucher, het gesprochen, vnd anzogen die wort Chri¬
-sti, Ich wird bij vth bliben, bis zu End der waalt, Ist
-fur mich, In welicher warheit wir bisshar gelabt
-thind, So Er ouch in einem andren uit geredt hat,
-Ich wird ich Othicken den geist der warheit, der wirt
-vijch teren alle warheit, Johannis xvic. zo min chri¬
-stus, om volck, des biechts mier gottlichen warheit,
-bisbar bevoubot hatte, vnd 60 ein lange zitt, vnder
-ein geschier gestelt, das doch wider zin wort ware,
-Luce am. viii. wurde volgen, das Er bischar, mit
-een getuwer hirt, an Omen Othaffen ware gesin¬
-So Er Opricht  so hannis am etc. Ich bin ein guter
-hirt, Ein guter hirt, segt sin sel fur Ome Othaff u,
+s
+Aieen
+Dir ander Schlusßeed
+11
+Johannes buchstab¬
+ie zwen Drtickel / vemein Ich nitt, Er hat mie
+aber Noch nitt amzeͤigt vo Se vns gebotten zuglouben/
+witter, So die heillig christenlich kilch. Isssheilit¬
+vnd das hoch wirdig Satrament des Eibs vnd lluts chri
+st, das opfer der maͤsß, Das gelatt fur todt vnnd
+Ebendig vir durch gmuͤgsam kuͤndtschaft Eewisen,
+o funfzichenlhndert taren gewart bat, vnd
+das cilte vnrecht sin, wurde volen, das Jcz die hallig
+christenlich kilch, wider den angezoigten puncten vnd
+Artickel des gloubens, itt hellig waͤre gesin, Dann
+als Cristue spricht Jchannus viij. Die luge
+vnd Jrchumben, dind von dem tufel, der da fst lu¬
+genhafftig vnd vtterdesilben, Aber die warheitt
+Ist von Christo, Johannug am xiii,. Dos da Ist der
+wag, die warheit, vnd das laben / Snd das her Mar,¬
+te buczer, hat gesprochen, vnd amogen die wort Cri//
+sti cch wied by vch baiben, biß zu End der wilt, Ist
+für mich, In welicher warheit wir bisthar gelabt
+kind, So Er ouch in einem andren ert geredt bet//
+Ich wird uͤch Schiten den geist der warheit, der wirt
+uͤch leren alle warheit, Johanus xvi° So min chri /
+stue/ Sin volch, des brechts Siner goͤttlichen warheit/
+bischar boroult hatte, vnd So ein lange zitt, vnder
+ein geschier gestilt, das doch wider sin wort waͤrr,
+wucr am viij wunde vilgen, das Er bischar, nitt
+ein getruͤwer hirt / an Sinen Schaffen wier gesin,
+So Er Spricht Eohannis m x. Ich bin ein zuter
+hiet, Ein guͦtor hairt patzt sii Sil fur Sine Schaft i/

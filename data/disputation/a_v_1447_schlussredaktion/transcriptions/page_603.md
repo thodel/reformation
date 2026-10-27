@@ -1,31 +1,30 @@
 # Seite 603
 
-δροσοπιοώοιια
-199
-Die fuijfte Ghluskredi
-Meister Vlrichzwingh,
-Die gesante zitt binnen Daniel, So Oi recht vfgerecht:
-notwirdt, zoigt wol an, wann die gruwlich zersto¬
-rung komen werd, Eann hetterer Prophetij, der
-zithalb, wann Christus komen soll, oder die gouw:
-lich zerstornuijg, In de hemem Propheten Ist, Das
-aber anzoigt Ist, der verharr nu ghals des gruwels
-der zerstornug, Ist wider Oi, Dann der Prophet
-Oagt, die grusamlich zerstornuijg werde Im tempel
-gin, das Ist Gouil gesagt, Eer tempel wirdt So
-grusamlich zerstort bliben, Est enim Frosopopeija,
-vnd wil sagen, das der tempel, So grusamlich zev¬
-stort werde om, biss zu End der welt, was god aber
-das Inen hebsten, das die wass ein Opfer sije,
-Der vermanningh als, Sol dich aue Zwifel menck:
-lich huijten, das wir gott nitt so schwarlich arzue:
-nen, Als die Judisch volch sich an Christo besthul¬
-dat hat, Das wurde aber vns begegnen, nitt 50
-man abbricht, das Co wider gott fst vfgericht,
-Ounders so wir andre trost heiland vnd gotter
-Ouchen, weder den libendigen gott
-Tgidius muwer
-Sisers Opfer, daruon Daniel Othribt, mag nitt zijn
-der Juden opfer, dann dasselbig bij Inen noch wa:
-rot, Besunder es muß ein ander offer sin, das
-werde vfhoren zu end der welt, vierdhalb Jar,
+opolocrohoin
+Die funftr Schlusfred¬
+Mristen Dlrichzuingli,/
+1 gliger zit bin Damal, So di recht ifgeroh
+not wirdt, zoigt wol an, wann die gruͤwlich zersto
+rung keinen werd, Dann hatttirer Prophety, der
+zithailb wunn Christur komon boll / oder der gruͤn¬
+lich zestoͤrnig, endcheinem Propheten Ist, Das
+abir ameigt ist, der vorharrnirghilb dis gruͤmes
+der zestarnug, Ist iuider di, Dunnder Peophet
+Sagt die geusunlich zerstornu weede Iin tunpil
+sin, das Jst Soull gesigt, Der tempel wirdt do
+gousamlich gstort bliben, Est omin Crosopope /
+vnd wil sagen, das der tempel So grusamlich zer¬
+stoͤt erde ein, vß zu End der nilt, was gol aber
+Das Juin haeften, die die Mass ein opfer gie¬/
+Der vermaminghalb, Sol dich aue zwitel monct
+lich hetrn, das wir gott nit s: Schrirlich wezur ¬
+nen Als dis Jnd isch rach sich an Christ lischal¬
+dot het, Das wurde aler vns begegnen, nitt so
+man ab bricht, das So wider gott lst vfgwicht /
+Sunders so wir ander trist heilind vnd gotter
+ouchen, vider den lebendigen gott,
+Egidine mer¬
+ifars Opfir Saruan Dach Schelbt,/ matt nitt gu /
+der Juden opfer, dann dasselbig by Inen noch wi ¬
+ret, Gesender es muß ein ander offer sin, das
+werde vfhoͤren zu end der welt, vierdhalb Jar

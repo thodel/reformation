@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>prov=READ-COOP:name=TrHtr:version=2.41.0:model_id=51170:date=09_03_2026_17:23</Creator>
-        <Created>2026-01-27T10:33:43.146+01:00</Created>
-        <LastChange>2026-03-09T17:23:31.517+01:00</LastChange>
-        <TranskribusMetadata docId="13922579" pageId="112789918" pageNr="111" status="IN_PROGRESS" userId="537" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=AGHMIXDQRLIJDKOPBVAZGWTY" imageId="95348982"/>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-26T14:16:50Z</Created>
+        <LastChange>2026-10-26T15:16:53.331+01:00</LastChange>
+        <Comments>{"arbiter": null, "geometry_from": "D", "models": {"A": null, "B": null, "C": null, "D": "kraken-bern-schlussredaktion-v1"}, "models_present": ["D"], "pipeline": "agentic_historian ruemlang", "print_passage_score": null, "summary": {"single": 2}}</Comments>
     </Metadata>
-    <Page imageFilename="112789918.jpg" imageWidth="2479" imageHeight="3508"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="2364,1511 2440,1511 2440,1637 2364,1637"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:single-D; conf:0.50;}">
+                <Coords points="2370,1517 2434,1517 2434,1631 2370,1631"/>
+                <Baseline points="2376,1584 2430,1579"/>
+                <TextEquiv>
+                    <Unicode>Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="635,1563 743,1563 743,1666 635,1666"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:single-D; conf:0.50;}">
+                <Coords points="641,1569 737,1569 737,1660 641,1660"/>
+                <Baseline points="641,1614 737,1614"/>
+                <TextEquiv>
+                    <Unicode>mn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mn</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

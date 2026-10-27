@@ -1,35 +1,32 @@
 # Seite 279
 
-Die ander Schlusbrod,
-das man Ir Cazung, Hiffer halte, dann gottes gebett
-Ja das man 6e. In allen dingen, uller forchte, dann
-gott, was mag diser mitt sniern huffen, anders sij
-vann der gruwel, der Oich gesagt het, om die hatt
-gottes, das Ist In der Christgloubigen hertzen, Mathijs
-xxxiiij vnd Canielis. viii.o vnd dit zerstrowt mitt
-den Ceremonien, damitt videstor minder warna:
-men, was da redte innerlich das ewig wort mitt In¬
-Es naeme lange wil zuerretten, die Othädlichen mis
-bruch, und grusmlichen abgotterijen, So alle wilt
-allenthebben erfult Ist, durch mens then Oynugenn,
-Vnd darumb 60 ffrmanen vnd bitten Ich vch als
-Christenlich bruder, die di disen Mtickel vnderstand
-zu widerfachten, Das sich Ein Jettlicher In einem
-hertzen erkunde, Ob Er sich der lutten warheit zu
-erfaren, vnd vns derselben, In Christenlicher liebe
-zuberichten, geneugt bije, Camitt das b niemand
-lichen
-In die grusamlichen vnuergabnen vande valle, vnd
-der bekanten warheit widerstraeke, Da vns all, got.
-vor behuijte
-Johannes buchstab, Schul¬
-meister zofingenn.
-12
-In dem namen der heiligen drijfaltikeit, vnd alles
-hunelschen heres, men, Diewil Ich, In
-hochgeblumbten glitten worten, oor welichen
-dre
-vns dant Paulus, zu den Colossenseyn am. ii. ge:
-warnot hat, damitt nitt verfurt sollen werden,
-nitt bericht noch gebrucht bin, wil Ich kurylich
-die Rhrift angriffen, Vnd das wir ouch, an:
+Die ander Schlußsred,
+Das man Jr Smung Sriffir hltr, dum gutritzn
+J das mon Sy In oflen dingen, oller forchtr , dn
+gott, wie mag diser mitt sanem huffen, anderts
+dann der gruͤwel, der Sich gesiczt het, om die Satt
+gatie / das It Jn der Hristgloubigen hetzem alr
+xin vnd Damielie, viii: vnd die Zerstro irt nid
+den Ceremenen, damitt Si dester nnder warna//
+men, was da redte Jnnerlich das ewig wort mitt ter
+Eo nͤne lunge nil zuerzillen, dire Scheidlichen in
+oruch, vnd gruͦsamlichen ibgotteezen, di ale wle
+allintlillen refilt ist, durch manschen deczingem/
+Dnd Daruiml So hrmnen vnd bitten lch uͤch alt
+Christenlich bender, die de Sison artickel vnderstand
+zuͦ viden fichten, w dich ki Jittlicher Jͦ lum
+huzen arkinde, Ie ze bich der litnu ruachit
+o fuen vnd vne densilben, In Christenlicher le
+zubertin grig n Dae da md
+En die risemlichend vnduargaͤludin vnnd relr, ind lichen
+der ertanten warhatt wideestrlll, Da vie allig //
+vor behute,
+Johanns buchstab, Schul¬
+meister zefungenn
+Indan ven die gal/zen disfetikit / nnd att 12
+himalschen heras / Amen, Doml Ich/ en
+hochgeklumften glitten worten, vor welichen
+vns dant Paulus, zu den Colessenser am ij ge wor
+waret het, dimitt nitt verfuͤrt gillen werden,
+nitt bericht noch gebruͤcht bin / wil Ich kueczlich
+die Cchrift angriffin Vnd die nin aich an/

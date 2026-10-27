@@ -1,41 +1,39 @@
 # Seite 604
 
-N.P.
-Profesorères
-Votre très de plusieurs
-vifel mij
-parlich gunst
-visto iusti
-1 mitt
-soujours de nouveau
-4 Aaa
-Die funfte Schlusvredi
-Meister Vlrich zwingh
-Is glich die Juden noch opfroten, So Ist doch die kooft
-des vsseren Opfers, huigenomen, wiewol hiebij ge¬
-meinlich, die Juden, durch die gangen welt hin¬
-Euch Salbs erkennen, das Oi fr priesterthum, nitt
-mer erkennen, So min Ir Priesterthum hin Ist,
-Als ick ouch in der that befindt, So Ist ouch ge¬
-wusß, das ouch die ordnung des vtopfers, hingenom¬
-men Ist, ad Hebreos. vii. Oesshalb noch fur vnd
-für bestat, das Caniel, van dem füdisthen opfer redt,
-20
-gidius murer,
-is mag nitt verstanden werden, von dem opfer der fu¬
-den, dann ob glich dasselbig, nach fo ordnung, hat
-te vfgehort, So mag darumb nitt volgen, das hie
-an disem Ort, von demselbigen geredt werde, dann
-Der Daniel Christ, das es allem werde vfhoren
-vierdhalb Jar, hiemitt wil Ichs beuolchen haben der
-Ochrift, vnd dan christlichen laser,
-Doctor Johannes
-Ecolampadrie,
-der Caniel Schribt In zweijerles weg, van ufhorning
-der Opfer, Ein mal vff vierdhebb har, Als am Si¬
-benden capittel, solche Ist erfult vnder dem An¬
-thioche, vor der zitt Christi, zum andern, bij der
-zitt der zerstorung fernsalem, Solche vfhorning
-des Opfers die wart kur vnd für, wie Meister
-Vlrich gesagt hat
-255
+e
+nfieen
+vf
+enichen
+s
+rh
+ar
+Die fuͤnfte Schlussred,
+Hristir Cluch zunigen
+lich die Juden noch apfreten, So Ist dach dir kitt
+des vßseren Opfere higenommen wiewol hily gge¬
+moilich, die Juden durch die gangen welthin,/
+Sich Salls erkennen, das Si Jr priesterthum, nitt
+mer erkennen So min Jr Priesterthum hin Jst,
+Als Sich ouch an der thet befindt So Jst ouch Je¬/
+wuͤss, das ouch die ordnung des vfopfers hugenom
+min Jst,/ od Jabreos vij. Daßhall noch fur vnd
+fur bestat,/ das Samel von dem zudischen opfer redt,
+2
+ndung muor
+r malt nitt vorstanden werden von dem opfer der liͦ/
+den, dann ob glich dasselbig nich Jr ordinnung, het¬/
+te ufgehoͤrt, So mag darumb nitt volgen, das hie
+an disem det, von danselbichen geredt nrrde / Dann
+dar Damal vchrist, das as allain werde vfhoren
+vrdien kar, lachen hlin dir
+Schrift, vnd dem christlichen lisor
+Cocter Jahannes
+Dcolumpad n
+2 Dazul Schribt En zuiseeles wig / von vff ruͤg
+dar Opfer, Einmal vff vderdglll Eu Als am Si
+bruden capittel, Solche Jst erfult vnder dem an¬
+thocho, vor der ztt Chrise, Zum andern / by dar
+zitt der zerstoͤrung ferusilem Solche vfhoͤrnng
+das Offers die waͤrt fuͤr vnd fuͤr wir Mister
+Drich gesigt het
+25

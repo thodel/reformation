@@ -1,33 +1,33 @@
 # Seite 431
 
-nij
-woll verstand was die samment beduten Ist der
-kelch der beurdiung den wir benedien, om ge¬
-meinsthafft des bluts Christi Das ist er bedur¬
-das wir gemeinlich durch das blut Christi erlößt
-sind, Vnnd aber eins das brot das wie brechen
-ist das nu ein gemeinschafft des lebs Christo
-Das ist bezugt vns das wir die sind die Da¬
-gemeinlich Durch den lijb Christi Das leben
-haben vnnd glder Christi sine Da erklärt er
-sich selbst, vnd sagt die vrsach. Dan wir die
-ville sind ein brot, ein lijb, Ist Je geruss Das
-wir nitt wesen lich das Sacramentlich broc sine
-So sind wir ouch int vnder oder mit dem
-britt wer darumb sind wir geistlich In
-Das wir all wechhafftig sind
+mas
+al vnsnd wis du sepumn biduten is der
+keach der beirdiung den wir lereden eing//
+monschafft des bruts Christ Das ist erbidert
+das wir gememnlich durch des blut Christ erlos
+sid Vnnd aber eins das brot die wrbrcher
+die imn ein gemansceifft des lobe Cs
+Das ist bezugt vns das vor Die sund die da
+gemeulich dusch den bys Christi das leben
+gaben vnnd glider Christ sund Da erklaͤrt er
+sich selbs vnd sagt die vrsach Danwir dic
+vill sind ein brot einleb / Ist ze geruss das
+wir nit wesenlich das saramen tli brat sin
+o sind wid ouch it vnder oder nit dem
+Erytt Aber darumb sind wir geistlichs
+Das wir all theilhafftig sy
 brot
-vande gemeinsthafft haben, von dem huweest hem
-bret vnd werden auch he geacht fur ein bret
-Diewijl wir theilhafftig sind eins Sacramenten
-lichen brots vnd kumpt hernach wyter ein
-Gechende den
-exempell, spricht allso
-straehtell nach dem fleißen. Ist es nitt, das
-die so essene Das opffer sind gememen de
-allthans. Das ist sy haben all gemeinsthafft
-einem aelthax by dem sy pott pitten vnnd
-theillen uit vnder ein andern, den alltare Do
-rumb dan aber eins, Das stat, Das vörcken
-vince harnach volget wijter, Ich
-Κοινευνοί
+vnnd gemeinscgiff en von den gemelsten
+brot vnd werden ouch bye geacht fur ein bro/
+Diewyl wir theilhoffcg sind eins sotramen
+lichen brots / vnd kumpt hernach wyter ein
+Sechend den
+Exempell spricht allso /
+tragel noͤch Den flrisch / Ist es nitt /
+die so essend Das vpsfer sud gememeni
+allchars is ist s haben all gemeinschaff /
+einem allthar / by dem sy gott pitten vnng
+thee er eiandern den alltar
+rumd dan aber eins Daf stat das woͤrth
+vnnd horn vgen wyer Js
+Rorcai

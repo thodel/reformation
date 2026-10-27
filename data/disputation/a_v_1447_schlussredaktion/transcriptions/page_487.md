@@ -1,30 +1,30 @@
 # Seite 487
 
-wede will ick solliche antwurt sy marie gegeben
-haben
-Alles Das so Christus de gethan
-so es vns fruchtbar sin sole vnnd nutzlich von
-ons Im gleuben, vnd geist verstanden vnnd ange¬
-Damit aber Das
-namen werden soll,
-Vesserlich nitt abgesondert Als essene Das ist
-min lijb, vnd trinckend, Das ist min blutt sunst
-heer Christus Das brott Jun die heimd ge¬
-nomen, vnnd Danck gesagt vand gesprochenn,
-nemend vnnd essend, Das thund min zegedencken
-vnd hette, das wortt, Das ist min lye mitt bij
-Dörffen, der gluchen zum kelck, hette er danck
-gesagt, vnnd Inen geben, sprechende trinckend all
-daruss so offt Ir sollichs overdent trincken, So
-thunds In mine gedechtnus vnnd bedurfftent
-Die wort, Das ist min bhut uit dabey stan
-Dan der andern worten gedechtnus zufalltenn
-vnd danckbarket dabij erzoigen gnug were
-Dann Je Jun, den worten Christi, Ist mit
-Ja vnnd nem somders Ja Ja vnnder nein nem
-ij fp: zum Gherinthern, am 1 cap: bij welchem
-allein ein gesklucher Christ glaubcher verstan soll
-Wortt glauben vnnd vsserlichs zusamen gesetzt
-Das wir een kylch Damit vns Das blut
-Christi gereicher, Danckbar sin sollen vnnd smen
-toe verkunden, von dem annoern punckten so es
+med wil ich solnche awrart sumone nnch
+haben /
+Alles das so Christus Je gethan
+so es vns fruchtbar sin soll vnnd nutzligh von
+Ins In glouben / vnd geist verstanden vnnd ange
+Damit aber das
+nomen werden soll
+vsrrch nie degefundert Als astrnd die it
+min lye / vnd trinckend / Das ist min blint sunst
+hene Christus Das brott Inn diehennd ge //
+nomen / vnnd danck gesagt vnnd gesprechenn /
+nemend vnnd essend / Das thuͦn nun zegedencken
+vnnd herte / Das wortt / das ist min lyy nach //
+Doͤrffen Derglichen / zum kelch / heite er dans
+gesagt vnnd Inen geben / sprechend/ trinkrnd all
+Daruß so offt Ir sollichs werdent kruceen / S.
+thunds In miner gedechnins / vnnd bedoͤnfftent
+Die wort / Das ist min bluͦt / nit daby stan
+Dan der andern worten / gedechtuns zehalltenn /
+vnd danckborket daby erzeigen gnuͦg wert //
+dann Je Inn / den worten Christi Ist nit
+Ia vnnd nein sonders Ja Ja vnnd nei nein /
+i Exi zun Charinthern / am cap: ly welchen
+allan ein Jepllicher Christgetuliger verstan sol //
+wort / glauben / vrd vserlichs zuͦ smen gise
+Das wir den kelch / Dami vns Das llu
+Doristi gerachen / Damkar sin salen / unnd sin
+tas verlunden / vnn den andern pimktein / so cs

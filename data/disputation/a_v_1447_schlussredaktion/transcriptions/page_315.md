@@ -1,31 +1,31 @@
 # Seite 315
 
-Die ander Thluskredi
-Sablem das anzogen, bewert sich nitt, das die
-Kilch gebott mache, die Im. gotswort dehem grunde
-haben, vnd doch in gewussen binden sollen, darum
-Ist mit wider vns, Das aber Ingezogen, von der viert
-zig tagigen fasten, Mose, gelie, vier Christi, dient
-hiehar nichts, Si sind nitt bin luten gewesenn,
-darumb hat Si gott der herr, aue menschliche Opis
-erhalten mussen, Das vom liden Inher gezogenn
-wir sollen vmb Christus willen etwas liden, das Ist
+Die ander Scheisßred /
+sallem die anggen, bevert Sich nitt, dar der
+kilch gebatt mache, die Em gotewort dchrin geuͤnd
+haben, vnd doch dir gewuͤssen binden soͤllen, darunh
+Ist mit wider pus. Das aber Jngetgen, ven der vet
+tigigen Jisten, s nelie ond Christi / dent
+hichen nichts, Si sind nitt bin lnten gorasam
+dar nuns hat Si gott der herr, aue menschliche Deiß
+orhalten muͤssen, Das vom liden Jichar tridem
+wir gillen vmb Christus mielen etnas liden, dis ge
 zu verstan, von dem liden, das vns gott zuschickt
-vnd nitt das wie Oitbs er wetten, wandlen Sol man
-wie Christus, In aller zucht vnd liebe, Aber nitt
-das man darumb, vierzig tag vnd nacht, ane Op is
-musse sin, Is wirdts ouch der Schulmeister wol
-bliben lassen, Amst mußten wir ouch todten ufer¬
-wecken, und andre wunder tun, die der herr
-gewarckot hat,
-Wexius grad
-Martin buijer hat angefangen zu andtwurten, des
-die kilch niet verbiete, fleisch zuessen, oder anders,
-Ounders gott, von der Frgermus wagen, Sagt min
-Das Pant Paulus, den amognen Oppuch zum Romern
-am xiiii. bedijte vff die Schwachen, vnd name die
-für starck Im glouwen, die da alles essen, das gott
-ersthaffen hat, Het aber mitt dem, noch nitt be¬
-wirt, das Ich angezeugt hab, Er solt haben bewiet,
-das dise ding nitt gut waren, wann Ich heb te nitt
-mer angezogen In Infurungen diser Spruch, dam
+vnd nitt das wir dalbe erwillen, wandlin die mnd
+nnis Christus In aller zucht vnd luͤbe, Alrr nit
+die man derumb vrcig tag nid nacht aurdech
+muͤs oin, Es muͤdt nuihdir Schulnristir md
+liben lasson, Suͤnst muͤsstrn nirach todten vfet
+nicken vnd ander munder tuͤn / dir dir horr
+grwaͤrclot hat/
+Aliriu grad
+Darti buzer het angefagen zui andenuͤti die//
+die kilch nitt verbiete fleisch zu essen, oder andors,
+Dunders gott, von dir Ergernuz wigen, Sagt um/
+Das Sant Paulue, den ampgnen Spruͤch zun zamen
+am zu lidutr off die Schnichin vnd nno
+fu Starck Im glouben, die da allie issen,/ das git
+erschaffen het, Hit aber mitt dem, nach nitt er¬
+waͤrt, das Ech angezugt hab, E bolt haben bewelt,
+dae dise ding nitt guͦt waͤren, wann Ich hab / er int
+mnd angnagen Ju Jnfurungen disor Sprich dim

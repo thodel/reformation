@@ -1,31 +1,31 @@
 # Seite 648
 
-vil attin
-voorsz
-275
-Die vi. Schluftred.
-Danielis, zoigt uns an, Das Er sij von himel harab ge
-stigen, kan nitt wel vff ein labendigen dienen, Canc:
-tus Petrus hat ouch gesprochen. ij a. Petri. 1o. capite,
-Ich wird aber flissamkeren, das Ich vijh emsittich habe
-nach minen tod, Das Ir aller diser dingen gedachtens
-thuijen, hie hat Sich vant Peter begaben, mitt Junij
-etwas zuhandlen nach sinem todt
-Vorchtoldus haller,
-Ob frag, Ob Ir bekennen, das Christus ein gnugsamer
-mutter sije,
-Johannes buchstab,
-Ja Ich bekent,
-Eerchtoldus Hatter
-Is Ist genugsam anzeigt, das Christus unser einiger
-mittler Ist, deshalb wie deheims uuren muttlers be¬
-Dorsten, Des Spruch Danielis hals, Ist ein vision,
-vnd gesicht gesin, vnd erschinnung, Mitt das die heili¬
-gen erst van hunel waren komen, Ander durch die
-Engel, vie, als ouch ander visionen, angericht, Eer
-Opruch Petri, dienot gar nitt zu sinem furnamen,
-dann Er also lutet, Ich wil aber fliss tien, das Ir
-allenthalben haben nach minem vf gang, Polichs In
-gedachtnis zu halten, Canne wir haben uitt den
-klijgen fablen gevolgot, da wir ich kund gethan
-die kraft vnd zukunft vnsers hebben Jesu christi,
+ense
+6
+2
+Die vj Schuͤsrd
+Damelll, zugt vns in / Die hr oye von huͤuel harab ge//
+stigen, kan nitt wol vff ein laͤbendigen dienen, Danc
+tus Ctrus bet ouch gesprachen ii Jatri / ͦ capitr,
+Ich nid aler flisenkeren, das Ich vil emns klich hale
+nich mitemtrd, Das Jr aller difer dingen gedachtnis
+thigen, hiehet Sich Sant Peter begaben, mitt Jnenm
+etnas zuhandlen nich ginem tod¬
+Birchtoldus haber¬
+ch frit, Ol Jr libennen, das Christus ein gnigsimer
+mker bir
+Ichrnae licgstib
+Icl lekens
+Duchted is holler/
+De ist gnigfun maigt,/ das Christuis vist niger
+mitter Ist deßchalb wie dchemit andeen mittlers li¬
+Dorftrust Das Spruͤch Damelichall, Est ein viston,
+vnd gesiht gesin, vnd erschinung, ilt das die heili¬
+gen erst von humil naren hemen,/ Sunder durch dier
+Engl dir ale ouchander visnen, angrrcht, Der
+Spruch et drnt gar nitt zu gmom fumamam
+dann Er also lutet, Ich nlaber fliss tun, das Jr
+allenthallen halen mich minem usgmg Seliche tn/
+gedachtnig zichidten Dum wir haben miet den
+Elugen fillen grulgit di nie uͤchknund Jathan
+Das Craft vnnd zukunft vnsers hevren Ersis christi/

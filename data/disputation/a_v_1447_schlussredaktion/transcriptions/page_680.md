@@ -1,29 +1,29 @@
 # Seite 680
 
-289
-Die vii. Chlussredi
-Johannes bijchstab,
-Ses glaubens halb, lass schs bliken, wie vormals ouch In
-der dritten Schlusred, daruon gesagt tst, Die vor¬
-drigen Opruch, von mir Ingefurt, zu bestaten, find
-Ich bij dem Propheten f saij4. xxxxiij. capite, Octim:
-dum septuaginta Interpretes, Cpricht Er allso,
-Ou solt dir nitt forchten, wann Ich hab dich erlost,
-Ich hab dich beruft mitt dinem nemen, du bist min,
-vnd go du durch das wasser wurdest gan, so bin Ich
-bij dir, vnd die wasser werden dich nitt bedekenn,
-Und so du durch das für wijrdest gan, So wurdest
-du nitt verbrant, die hij wirdt dich nitt verbrennen,
-Dann Ich der herr, die heiliger gott ffrachel, die
-Theilig macher, in Cassglichen: xxxvijo. f saije
-Opricht Er von den haldeern also, die glut des
-furs, du wurdest vber Si Pitzen, die werden dir zu
-einer helft gun, Nun Ist weder das Jrdisch für, noch
-das hellisten, dadurch der mentsth. gereinigt moge
-werden, dann allein das fagfur,
-Meister Vlrich zwingli
-4
-Liss Ist alles verandtwurt, man weist wol,
-was für und wasser, an denen Orten heist,
-Johannes buchstab,
-Dise schrift zubestaten, mitt einem Oprusch vs
+2og
+Die vnj Schlussend/
+Ichanns luchstis¬
+Is gloulens halb, Caͤss Eche lliben, wir vormials ouch In
+der drtten Schlusbred, darion gefigt Jst Die vor¬
+drgen Oprich ven mu Jngifrut / gzubistaten, fiund
+Ich by dem Prophetin hfapa xxxiijͦtapite, detzu
+dum geptnagitn kutreprites, Gpricht Er allso
+Dn eot die nitt koͤrchten, wann Ich hab dich erlost ,
+Ich hab dich berift mitt diem ninen, du bist mint
+vnd es du dinrichdis wasser wuͤrdist gan,/ So bin Jch
+# die vnd der nasser worden dich ntt lidiclenn,
+vnd eo du durch das fuͤr wurdest gan, So wurdist
+Di nit varbr ent, Dr hij wirdt Sich nitt vorbrannen /
+Dum ti dei her, dun holger gut chruhe din
+hngn se su
+vnde gi di
+fune i n dst ali Dicznide wdendin zu
+wr geiff rritlut Jst vde dis Jedisch kae, noch
+das hollisch . daduichder montsch, geremgotnnge
+nirdin, dum allein das figfur
+Mristin Dlrich zwingei
+2
+ist ale vanndtuat urn nrist me
+nis fu end wister, andenen beten hrist/
+Jchamirs buchsul¬
+Schuift zvistiten, mie anan Sprich ist

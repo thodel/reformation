@@ -1,33 +1,32 @@
 # Seite 266
 
-B
-108
-Die erst schlußred
-har ick Inn nocen erkennen, een Ingeliebet houpt
-sin der klchenn van wellnhem houpt, een 29
-welichem houpt der kilchen fliessend, vnad
-vyssheitt verlösnus vnnd alle volkomen heitt
-Eenige gutt/ Allso nemen ich den Bax st.
-„ somme
-vnt em houpt, sonder ein furgesetzt, als hen
-Der klechen Dem bevolen ist, Das ampt
-furnemlick zehandlen, wie petro furnemlich
-benolen sind die schlijssell ouch Im die schaffen
-In sonder het empfelen hett fur annder gewaden
-Welches noch keiner mit der verstorifft ent¬
-ledepot hett, Dormub klar wird In was gestallt
-Christus, ouch Inn was gestallt, petrus oder
-sin nachkomen houpter der kilchen genempt
-werden, valet hin die Jochumb Da man
-Ist petrus vnnser houpt So
-spricht
-ist er ouch vnser, erlöser vnnd sulpket ende
-Als geredt ist van agari bucen, encken
-andern sijnen brudern, Er spricht ouch wo
-Zeven oder drij In smem namen versambot
-sijnde das sy die kelck mogent handlen
-nach Dom yettschen wortt, Das ouch die
-Yanten Kilch antrifft
-Das doch miet
+4
+1oh
+die erst schlißrad
+har ich Ing noch erkein / ein zugelilet honet
+sin der kilchenn / von wellichem houpt / von 9
+wellichen heut der kilchen / fliessend / gnad /
+bßhet erlistng vnnd ale volkemenhent /
+vnnd guͦt / Allso nemen / ich den Bapst schoupt
+nit ein houpt sonder ein fuͤrges kil hen
+der klchen / dem bevolen ist Das ampt
+fuͤrnemlich Jehandlen / wie petro fuͤrnemlich
+beuolen sund die schluͤssell / ouch Im die schoffl//
+Insoderhait empfelen hett fuir annder zeweden
+waͤlches noch keiner nit der gschrifft ent /
+leiet hert Derund klar wud Inwas gestllt/
+Christis ouch Inn was gescalt gerus oder
+sin nachkomen / houpter der kilchen geneupt
+werden / allt hin die Jrthumb Da man
+Ist petrus vnnser houpt Sa
+spricht /
+ist er ouch vnser erliser vnnd saligkeit /.
+Allß geredit ist von Marti bucer / ouch
+andern siien beidern / Er spricht outh wo
+zoten oder dij In sinem namen versamlet /
+stend Das sy die kih mogent handlen
+nach dem goͤttlichen wortt / Das ouch die
+gautz kilch antrfft //
+Das Doch nudt
 ist
-Wann sijt paulus vnnd Barnabis
+wan suͤst paulus vnnd Barutbis

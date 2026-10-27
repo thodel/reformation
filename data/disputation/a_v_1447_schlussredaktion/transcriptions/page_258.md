@@ -1,38 +1,38 @@
 # Seite 258
 
-blipte
-& my
-nenlich
-forin
-in xvi
-in een
-inversh
-Ims
-noch
-104
-die erst schlussend
-Christus geporn worden In der zijt allß Lucas
-Deßglichen Esair, Elpe Virgo
+beg
+nit
+nnttu
+zi
+ipe
+ichd
+en
+he
+e
+ot
+de erst schlichned
+hristus getern wrrden I. dr zt alsß Lure
+.Desßglichen Esaie. Cabe mao
 zuget
-vnnd van Demselbigen sagt
-Concipiet
-ich Das Christus nach der menscheit, mitt
-mag genempt overden, ein eenig houpt. Der
-Christen lichsen Kirchen
-Zeringen
-Iss argument Darff Kamer antwurt Ist
-In vnser verdrchs ree klarlich verantwurt Das
-Christus vns hie genomen wirt fur Den
-Der warer got von ewigkeit har ist, vnnd ouch
-Inn der zyt monsten werden, ende
-Daniel that
-Meijter Vlrich zwingkly, Der begert van
-mir Das ick anzeig om annders houpt e an
-Christum Das vleij annder houpt, das finde
-sich In der ersten Epistell zijn Chormthern
-am xj cap: Da er seitt allso Das hempt
-der frouwen Ist. Der man Wer daslsompt
-Christi Das ist pott Da habennen Ix ein ander
-heupt, wer Christum. vnnd darumb ist
-Christus int einseing houpt der kilchen
-68
+vnnd von dem selligen sag
+Conligiel
+ui Des Chrisis / nach den moͤiset / nit
+nnis gonempt werden / ein eing haupt / der
+Christenlichen kilchen //
+wugli //
+sarginen Dags kener amleut Ist
+ei vnser ve igered kailch veraruet das
+Chusir vn en gnanen win sin den
+Vt wurer get ven eirigder har ist vnnd anch
+In dir zet moͤnsch verden s
+damet schat
+Maste vlrib zeruhgy Da beget ton
+mir Das ich anzeig ein annders houpt dan
+Christum Das sellg annder houpt / das sindt
+ich In der ersen Epistell zun Chorunthern //
+am vj ͦ cap: Da er set alls / Das houpt
+Der fromen Ist der min / Aber das houpt
+Christi / Das ist got / Da habennd Ir ein ander
+houpt uber Christum Vnnd dorumb ist
+Christus nit ein eing houpt der kilchen /
+66

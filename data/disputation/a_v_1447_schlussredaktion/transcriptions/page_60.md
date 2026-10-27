@@ -1,8 +1,7 @@
 # Seite 60
 
-gatt
-mit
-en een
-&
-nogt
-wercke
+hatt
+n
+en e
+nch
+ern

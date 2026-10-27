@@ -1,38 +1,38 @@
 # Seite 270
 
-the
-an
-Darauf
-eben
-keit daer
-vnser
-vnd
-den mehr
-Die prechte
-so ist sei
-i G
-wir D.
-Paulo
-Ovelles
-ellen
-sachen
-Nepoten
-in plome
-chirte
--110
-Die erste schlußred
-Erfunde sy In dem den willen gottes So
-Ist alles werelt schueldig, Dasselbigen anzenemen
-die kiech von gerim, geputet aber darumb
-niemand, midt, somnder gett, Die wyl aber
-vnser widerpartt, dem worit gottes durch
-vns furgetragen, met glauben wiel so dan
-Jendert ein Petrus oder Jacobus ware em warer
-postell Christi Welcken wir vnser wider¬
-wertigen zu put ouch pern sollicher zügung zu
-horen zu sollichem zu kunnen wo sind etc.
-aber Das her Daniell sagt der Bapst sye
-Darzu erwellt, ist nit gnug er musse onch
-sant pieters geijts haben, Dan Der natuckich
-monstes verstat der gottlichen eingen nichts
-zijn Cornithern In der Ersten f pistell am. ii cap:
+2
+han
+Dorch
+ven/
+it d
+engrd
+vid
+gen nid
+din
+ristd
+em
+en
+auhle
+eli
+he
+scht
+epeten
+u
+hiettr
+o no
+Die erste schlussred
+Erfunde sy In dem / den willen gottes / So
+ist alle wellt schueldig / Dassellig anzenemen /
+die kilch von Bernn / gepuͦtet aber Darumb
+niemand / nudt / sonnder gott / Diewyll aber
+vnser widerpartt / dem wortt gottes / Durch
+vns frgetragen / nitt glauben will So dan
+Jendert ein petrus oder Jacobus waͤre ein warer
+Apostell Christi / Wellten wir vnser wider //
+wertigen zuͦ guͦt / ouch gern soͤllicher zugung zuͦ
+hoͤren zuͦ soͤllichem zuͦ kumen / vo sind sy
+aber Das Her Damell sagt der Bapst sye
+Darzuͦ erwellt / ist nit gnuͦg / er mussie ouch
+sant Peters geists haben / Dan der naturlich
+auoͤnschs verstat der goͤttlichen dingen nichts
+zun Corinthern In der lisen epistell am iscap:

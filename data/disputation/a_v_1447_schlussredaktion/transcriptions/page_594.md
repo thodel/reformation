@@ -1,34 +1,32 @@
 # Seite 594
 
-250
-Die funfte Schlusseredi
-Oprich Ich, das Er gnugsam ufgelost werd, So man die
-„Gs ”
-Oach recht verstund, Aber zu mer erkandtnus,, Op rach¬
-en wir, das in der Schrift geredt wirdt, von zwocerley
-ning
-opter,, christi, zum ersten von dem Opfer, das da ver¬
-bracht Ist durch Christum, am holtz des heiligen
-Crutzes, Cieselbij vfopfornug Ist niet Dacommentlich,
-wie wir bagen, vnd Ist allein ein mal bestkachen
-volkomen gemacht In ewitert, vnd also Ist es wir
-das Christus nitt niet myt lidlich vfgeopfrot
-werden, Als wenig als wider sterben, die
-andre vfopfrung Ist geistlich, da gott dem
-vatter, die erste vfopfraug wirdt wuerum fur¬
-gehalten, oder representiert, mitt dem oock wirdi¬
-gen Document, In den Ampt der heiligen
-wijss, vnd das diss war zijt, soo bezug schs mitt
-disem tegangezognen Opruch Actorum xiii.
-Da hat mir andtwurt gaben, Herr Martinus
-buijer, Es stande nitt opfern, sunders dienen,
-met wurt Ich, das es heitter hie dat, opfren, vnd
-Ist vertolmetsthot, durch den hoch vnd wolgelerten,
-Frasimum Roterodammin, der ane allen Zwifel,
-die Tach wol besichtigt het, noch by diser zitt läbt,
-vnd der Griechisthen Oprach wol erfaren Ist, des
-haben wir zij einer zügnis, & in exemplar hie ge
-gen wurtig, Das aber per Martinus buijer Cpricht,
-Jo Jande Dienen, wie die alte translatie het, welten
-wir geen wussen, was dasselb fur ein uijsiger dienst
-ware gsij, zu merer erkandtnus der warheit,
+20
+Dire fuͤnser Setlussrdd,
+Ccrich Ich, das Ei gnifsam vfgilost nied / So zn dier So 1
+Dach recht veestund, Sber zu mer erkandtni sn dprach¬
+enunz, dag In der Schrcft geradt wirdt von zuoͤpetlay
+offeiCczristi, Zum orston vondemn Opfer, das da ver ¬
+bracht Ist durch Christum am holt das heiligen
+Cruͤczes, Diesilbit vfopferung Jst nitt dacramenlich,
+wi wir Sagen,/ vnd Jst allein ein mal beschachen
+vollomen gemacht In ewikeit / vnd also Jst es war,
+das Christus nitt mer mag lidlich vfgropfrot
+worden, Alt wenigials widersterlen, Die
+ander fepfrung est gistlich / di gett dem
+Diter, der arste vfopfrung wirdtwidrrum fur¬
+gehelten der eopeesentroct, matt dem bchwirdi /
+rn dirnent en den muct der hulgen
+as vnd die diß war e Colegig Ichs mitt
+disem krzang egnen dpruch ntrrum xij .
+Da haet uur andtwurt gaͤben, Herr, Hartins
+buͤter, Es Stande nitt opfern, suͤndirt dienen
+Dnde wͤrt lch das as hritter hie Crat opfron / vnd
+est itlmasteit Birchden erend arigeuten /
+Erihnn votreedannun, der air allen znifil,
+der Sichme lsichtigit het, noch e disir git libt,
+vnd der Crirchischen Sprach wol befaren Jst, dis
+biben wir zuͤeuer zuͤgnus sin oprmclar hie ge //
+gonwuͤrtig, Das aber her Martins butzet Spricht,
+Ee Sfand denon wir die ibte tronfletz het widten
+wn von wuisten, as dastill fur oin arifiger dient
+win gsi zu morer arbindenis der nachait/

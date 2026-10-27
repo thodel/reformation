@@ -1,34 +1,33 @@
 # Seite 287
 
-prina
-2s
-Ede ander Chustred
-angesuchen hat, Ist ouch Solcherbruch, zur zitt Pauli
-Othon gewesen, Als wir lasen am xvi. der ersten
-zu den Cormthern, Da Er also Othribt, vff der Pa¬
-bathen, einer here bij S nn. Calbs. ein getlicher vnder vrij
-Der Apostlen tag halb aber, haben die alten, wen
-Solichs bedacht, das das volck zusamen kam, vnd des
-Roubens der Apostel, Compt den gottlichen gnaden
-durch das wort erumerot wurde, Ist aber nie ge¬
-wesen, das Oolich fijren, bij den Rechtgloubigen, fur
-ein notwandig gebott, das die Constiencq binden
-solt, gehalten worden, Die Cum aber vnser
-andtwurt, Ist vor euch anzoigt, was da notwandt
-flust vsz. dem gebott gottes, Lieb gott van gangen
-hertzen, vnd din nachsten als dich Silbs, Item was
-vss. gesegt der Othrift notwandig beschlossen
-wirdt, als pittem esse Jngenitum, den vatter
-vngeboren sin, Een Ann dan vatter glich, vnd
-der glicken, Das erkennen wir In gottlicher Obrist
-gegründt, Die Bijstlich kilch ver het vns vf
-getrocken, das nitt allein vsz. dan wort gottes, In
-Der Othrift verfassot, nitt flust, Ounder es winge
-offen bar, demselben widrig erfunden,
-Meister Vlrich Zwingli,
-Die begur Ich lieben bruder, ettwas witter, von
-der ewigen Reinkrit Marie Zureden, vss der
-vrsich, dis vns die Bijpstler v gaben, I am wir
-armet
-die Fr Marie verkleineen, ende doch si, die aller
-grösten Othmach, vnd argwan Ir Junckfrowsthaft
+s
+6
+Dr ander Schluͤßs red
+anridchen eit/ Jst anch lichn beuch zu zet sind
+Schon geraͤsen, Als mie laͦsen im xvi: de astar
+zu den Cornithern, Da Er also Schribt, vff der di
+bichen einer bere by sein Dalbs ein Jetlicher vnder vnh
+Dar Apstlen tag heil aber haben die obten / oden
+Silichs bedacht, das das volch zuͦsamen kam vnd de
+foubens der Apostel, Sampt den gottlichen guiden
+Durchdas wort erimmeret wurde, Ist aber nir ge
+wisen, das Slich firen, ly den Jachtglaͤuligen, Ii
+ein nittwandig gelat, das die Canstian luden
+silt, gehalten wordin, Dae Sum aler vnser
+andtwurt Jst vor ouch anzeigt/ was di nitnandt
+flist vss dem gebott gates, lieb gott von gauczin
+hercen, vnd din naichsten als dich Silbs, Jtem lu
+vsß gesezt der Schrift notnaendig bischlissen
+wirdt, Als patrem esse Jngenitum, den vetter
+vngeleren ein, Don Sun dim vatter glich, vnd
+derglichen, das erkennon mi in gegtlichie Schaift
+Igeundt, Die Cepstlich kilch aber het vns vf
+getrochen das nitt allein vssß dem wort gottas, ti//
+der Schrift verfassset, nitt fluͤst, Suͤnder es win
+offmbir, demsellen widrig erfuͤndenn,
+Cristit Vlrich zuingls /
+Dir Erchar Ich lieben Euder, Ettvrh witter / vn
+da omgen in
+vnsich, Die vns dir Bisstlet vs gaͤben, Sun wit
+die Er Awir verkleinss us et So doch Si dir abler // ardt
+gristen Schmich vnd arinan Jr Junchhrausteift

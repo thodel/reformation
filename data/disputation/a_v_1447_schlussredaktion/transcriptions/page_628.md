@@ -1,36 +1,33 @@
 # Seite 628
 
-189
-265
-Die Oichste Thlusseredi
-Michtbeorum, iiij. Stapite, mitt den worten, wie
-das Judas Machtbeus, gesprochen hab zum volck, las¬
-send vns rijsten Jurie hunel, Co wirdt Aich gott
-vnser erbarmen, vnd het zu verstan gaben, wie
-Judas nitt heb gesprochen, lastend vns zu gott ruffen,
-Punders In die hunel, So wirdt sich gott unser er¬
-barmen, htt wol zugelassen, das nitt vurecht sije,
-zij gott ouch rusten, Er habe aber das volck ermanot,
-Jupuffen In die huwel. was aber die hunel sijen,
-bewart fr voorss. Psalmo. xviijo. Dichmiel verkunden
-„te „
-die lob, vss. een „ vermeindt, das Oijen die Oaligen oder
-heiligen Hrn. hunel, darumb begar Ich zuwussen,
-Ob Er noch der meinung oije
-Ver Johannes lottstetter
-Kilcher zu Brugg,
-Diewil vnd Ich ervordrot bin, van den biderman,
-Andtwurt zuijben, muier Predgi halb, Oo an al¬
-ler heiligen tag zu Brugg, zu dem Christlichen volck
-besthijchen, antraffende, eer hochgelobten Junckfrow¬
-en M wie, und aller gottes heiligen für bitt, Ob Ich die
-Nochmals veriache over nitt, Andtwuet ich, wie
-Dozemaln Ich gelert habe, Also veriache Ichs noch
-maln, Ich heb mich de zemaln, uff die heiligen
-gemeinen Christlichen kilchen, ouch in miner
-gnädigen herren vandtt, verlassen, vnd vermein¬
-Ich hab kristlich vnd gehorsamblick gehandlot
-Hiemitt beuilch Ichs zu disputieren den mergeler:
-ten, dann Ich bin, denen Ich mich vnderstchriben hab 1
-H
-3.
+2o
+Dne Sicsete Scheussred /
+Machbrorum inid capite, watt din wortin, wir
+Das Jndas sachabens gesprichen hib zum volcl, las/
+sond vns ruffen Indie himmel So wirdt Sich gott
+vnser etlarmen, vnd hat zu verstan gaͤben, wie
+Judas nitt hab gesprochen, lissend vns zu gott vuffen,
+Sunders In die Simel, So wirdt Sich gott vnser er¬
+barmen, rct wol zugelaͤssen, das nitt vnricht epot
+zu gott ouch ruitfen / I. haibe aler dis vlll ermmot,
+Zuruffen In die himal was aer der gimil sxrn¬
+Bemart Er vs Psalinpu Sichnnal veckunden/
+din lib,/ vsß dn aarmeindt, das dien die Baͤligen oder Er
+heiligenstti himel, darumb begaͤr Ich zuͤwussen,
+De Er nich dir monnung syr/
+Der Erhannas lattstatter
+kilcher zu Crugg¬
+ieml vnd Ich ervoedrst bin,/ von de bidernan/
+Andtwurt zugaͤlen, miner Predzi halb, So an al¬
+lerhotligen tag zu Creigt zu dem Christlichen volel
+beschichen, antraͤffendr, der hochgelobten Jnuclfeswo¬
+en arie, vnd aller gottes heiligen fuͤrbitt, de Ich die
+rochmals vrache oder niet, Snder mtt Ich,: war
+dozemaln Ich gelert habe Also veruche Ichs noch
+maln, Ich hab mich de zemaln, vff der heeligen
+gemeinen Cristlichen kilchen ouch in miner
+zaͤdigen heween siadet, verlaͤssen vnd vermein/
+Ich hab kristlich vnd gehorsamllich gehandlot
+Wiemtt beuilch Ichs in disfutieren den mergeler¬
+ten dam Ich bin, denen Ich mich vnderscheilin hab,
+2

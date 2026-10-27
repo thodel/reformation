@@ -1,30 +1,30 @@
 # Seite 192
 
-Deßen
-75
-Dis erst Schlusred
-Christi, Das wort so er zu Inen gesagt hatt.
-Ich bin Das lecht der wellt. Dann
-Das sy ouch liechter der wellt sigen, dan
-das potlich wort mag memor mer falenn,
-In gleicher wysz aleß ouch einer ein huet ge¬
-nempt wirt Irt nuds an dem, ob schon
-ander ouch also genempt werden, ende Oo
-Doch ein einiger Hirt Jesus Christus In ewigkeit
-ist./
+se
+20
+Die eist Schriend
+Christi Das wort soy er zuͦ Inen gerigt hatt /
+Ich bin Das licht der wellt / Dann
+Das sy ouch liechter der wellt sigen / Dan
+das goͤtlich wort mag niemer mer faͤlenn //
+zu glicher wyß allß ouch einer ein hirt ge //
+nempt wirt In nude an dem / ob schon
+ander ouch illso genempt werden / . S
+d ein einge hun Jesas blusteis In argrn
+ist //
 Berchtoldus
-oxeund fromende Christen den beuelck
-pottes der ampthern hall siner klechenn/
-vß der ersten Eerstell pauli zum Chormthern
-xij capiell. Es sine mancherlei paben,
-Aber es ist ein peist, von dem die gaben
-fliessend, omme es sind mancherley ampter
-aber es ist ein her vnnd es sind mancherleij
-wer es ist ein got. Da
-krefften,
-wurckt allerleij Inn Jederman, Da verstat
-Mengklicher Das alle ampter werde scheu
-Joch povallt genempt, undt dan dienstbar¬
-keijt sind, vnnd int herschungen, Dann
-Der heiligen petrus spricht, Inn der ersten
-pisteel v. copiell Weident den hend
+orennd fromen Christen den beuelch
+gottes / der aͤmpthern hab / siner kilchenn /
+vß der ersten zeistell pauli zuͦn Chornnthern /
+xij ͦ capiell / Es sind manherleiy gaben //
+Ver vs ist ein geist von dem die gaben /
+fliessend / vnnd es sind mancherley aͤmpter
+aber es ist ein her / vnnd es sund mancherlen
+Aber es ist ein got der Da
+krefften /
+wuͤrces alerle Iun Jederman / De verstat /
+mengklicher Das alle aͤmpter werde schon
+Joch gwallt genempt / nuͤdt dan dienschar //
+keyt sind vnnd nit Herschungen / Dann
+der heillig perus spricht In der ersten
+pistell / v i chpnell / weiden die merd

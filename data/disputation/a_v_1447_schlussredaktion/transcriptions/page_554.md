@@ -1,32 +1,31 @@
 # Seite 554
 
-I have
 232
-die uij sluschre
-gelitten hatt, So mussen wir Ine ouch empfindt¬
-lich essen, Dann ex hatt ein pfindtlich yelitten
-Welches essen aber int ist
-Pfarrer v. Openzell
-Dass er Inen, sin wesenlichen lijb blutt
-Johane fleisten vnder der gestaelt des brotts
-vnd winne zu essen hebben hab, findt man Dar¬
+Die ii pligred
+geleen han / So missen wir Ine ouch empfidt/
+lich essen / Dann er hatt emn pfndtlich geliten
+welches essen aber nit ist /
+e vaenzell
+Das erInen / sin wesenlichen lys bluͦtt
+vnnd fleisth vnder der gestallt des brotts
+vnd wine zuͦ essen geben hab findt man dar //
 was
-gethan In miner Ingeleiten verschrifft
-Opllen wir suchen ordnung der natur, an
-dem der Da vernaturlich geporen ist Als
-denster plaub klarlich anzoigt geporen vss.
-Der Jungk frouwen Maria ende vnd lasses also
-by Ingelegter Copij beliben
-Waltherus Clarer
-ende lijt nit an vörer gsthrifft, Ir hand ver¬
-Sechen, Das wir den getodtmen, oder gekout
-Mun hat er
-goten lichnam essen
-empfindtlich gelitten, so mussen wir Jan
-ouck empfindtlick essen
-Pfarrer v. Open:
-Op ag ick Junij ob dech Christus ein andern
-lyb hab, dann Inn dem er gelitten gestorben
-oder Zehimel gefarn sie oder ob er mer
-Dan einen lijb hab
-Valltherus Clarer
+gethan In miner Ingeleiten gschriff
+wellen wir suchen ordnung der natur / an
+dem der da voernacurlich geporen ist / Abs
+nser glaub klaͤrlich anzeigt / geporen vsß
+Der Jmgl frouen ilaria / n Vnd lasses also
+by zugelegter Copy beliben /
+v altherus Clarer
+s lyt nit an vͤwer gschrifft / r hand ver //
+Jechen / Das wir den getodtnen oder gekrut
+Nun hat er
+goten lichnam essen /
+empfn dtlich geluten / so muͤssen wir Inn /
+ouch empfundtlich essen /
+Pfarrer v Apen:
+Arag ich Inn ab dach Christus ein anden
+lyb hab / Dann Inn dem er gelitten / gestorben
+oder zehimel geforn sie / oder ob er mer
+dan einen lyb hab //
+Wallcherus Carer

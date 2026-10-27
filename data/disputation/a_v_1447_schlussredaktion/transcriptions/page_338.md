@@ -1,44 +1,44 @@
 # Seite 338
 
-Malken
-llich was
-gevallen
-gern Herren
-te voftomme
-Auf Fred¬
-Etglus
-viijf
-ur hat
-welc
-r Pol wil
-1 Curg
-dar, das ist
-B6
+alle
+flich
+zruden
+vn de
+vllenn
+vssred
+Schli
+ich
+us he
+wle
+Der
+Din
+Car, die
+66
 141
-Die dritt Oblus stredi
-nis. vj.o Es bij dann, das fr werden Essen u, Item Ma:
-theiam xvi. Ob Ettlicher mir wil nachvolgen,
-Col Sich Calbs verleugnen, sijn kruch vff sich namen,
-vnd mir also nachvolgen, Ad Romanos am xii
-So din vijend hunger, Co Op ist. Jun. 60 Jun. vuijst,
-So trenck hun etc.
-Martinus burger,
-Der andtwurthalb, vff drij Spruch gestern In¬
-gezogen, Referier Ich mich vff die Acta, die
-mijn andtwuet anderst haben, dann Ers Jegen Grafrot
-hat, Die andren spruch alle samen, diewel Oi
-nitt bewaren, das ein andrer dienst der Salikeit
-vnd gung tun sije, dann Christus, so bedorften Si¬
-de heuier andtwuff, And gnuijg erfleijt In der pro¬
-bation disers Artickels, So her Verchtold vorhin ga
-ben hat, Cas wir aber vns, nitt eijgen liden er¬
-wetten sollen, kunders geduldtig annamen, was
-vns gott zusendt, bewart ouch gnijgsam die spruch
-von Im Petts angezogen, Mathei nu xvj. Das
-wir uns Pubbs hollen verleugnen, feij konnen
-wir Je, nach vnserm eignen willen niet handlen,
-zum Colostensern, Omd die erwelten castijeringen
-von Puulo vorworften, Ad Colossenses. ii.
-Johannes bijchstab.
-Die geschrift durck mich bisher Ingefurt, bij
-derselbigen lass Ich es Jeynnder bliben, verleugnen
+Dier drtt Schluiß sid/
+me i: Erbr dunedas Jr warden Estan u/ Etem sn
+thei am pdij Ss Elicher mir wil nachvolgen /
+bol Sich Salbs woeleu gnen,/ sin Erucz vff sich namen,
+vnd mir also naͤchuclzen / Adhlomanoe am xij
+Di d nd e bs . ein dist,
+So treuck Jnn ic
+Nartineg buͤger,
+Der nndtmutziel rft de Sprich gistim Jn
+gnogen afoiuir hen ni d dtn die
+mun nndtnut ndust zein / Sun z Juhrefitt
+het / Die anden opouch alihimen / dianh di
+auet bewuͤrn, das ein anderr derist der zalitait
+vnd guug timn or demn Cistus Dldiften di
+dchrun ndenu vind zuigerllag Jnder pr /
+oaen dihee detiler, So hen dirchtild rachn ge //
+ead le a e
+rallen zilli / Sundert gedildtit unaen / nas
+n e n n n ae gmigs din den
+omsen dloe nngeggen chen un xvi. vm
+wi vnr Sales rnlgen, Jrz knnan
+nn n n f ng n t nde
+in Cstus aeisungen
+i tu wit wstsiei
+Johannes buchstab¬
+Die Jischrift durch mich lischar Jngefuͤrt,/ by
+dersellegen laßs Ich es Jezuͤnder bliben / verlouhtien

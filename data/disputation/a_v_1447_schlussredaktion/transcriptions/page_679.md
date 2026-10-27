@@ -1,31 +1,31 @@
 # Seite 679
 
-dema
-Die vi. Schlusvredi
-Wann der gloub Petri, In dem gnugsam was, das Er
-In't Jesum Christum glaubt, das Er der Dun gots.
-ware, wurden alle sunder salig, die solichs ouch
-glouben. Das das blijt Christi, alles abwas the, das
-wir an der Rechnung hinder haben, fft mitt dehenier
-Ochrift bewart, Oann Paulus Opricht ad Romanos
-ii. Cas gott finem Jeden werde gaben, nach sinen
-wercken, Oie wort des Propheten Cauids vnd ouch
-Jheremie, die wil di mitt oftenbarer Christ, nitt wi¬
-derfochten werden, wird Ich Pintich minem fürga:
-ben, lissen bestan,
-Meister Vlrich Zwingli,
-das der gloub vff fesum Christum, alle gunder
-heil mache, wie ouch der gloub Petri, Ist das wort
-gots, fohannis. vj. welicher In mich vertruwt, der
-het ewigs laben, Es Ist aber gnuijg gesagt, wie die
-gloubigen Ounder syen, vnd wie die vngloubrgenn
-bunder sijen, Die glöubigen mitt Iham und Othmertje
-en, Aber mitt ungeschrifteter hoffnung zu gott, Oi¬
-vngloubigen, aue stham vnd wee, wer mitt ver¬
-zwifhung in gott, Das blut Christi reiniget uns von
-aller sijnde, Opricht fohannes./. capite. 1. Gott
-wirdt ouch einem Jeden, nach sinen wercken gaben,
-wer nach dem Ei, Im glauben oder vnglouwen beschich¬
-en sine, und wirdt gott in eigne gab belonen, Dar:
-non gnug gesagt ff, vnd bewaren dese Ort aber,
-de hem fagfur,
+una
+Dir ij Sllussnd,
+I anndar zloib Patri, In dam gngsin wie, das 8
+furz Jefum Christum zloubt, das Er der Sun gab
+wire apurden all suͤnder ealig, die geliche ouch
+glouben / Das das llut Cristi / alles abrrasche, das
+wir an der lechnung hinder haben, Jst mitt daheiner
+Schrift lewaͤrt, Dann Caulus Spricht ad Jomanos
+ij Das gott finem Jeden werde gaben, naͤch sinen
+wercken,/ Die wort des Procheten Sanids vnd ouch
+theremie, die vil Se mitt iffenbarer Schrift nitt mn¬
+decfachten werden, wird Ich Si nich ninem fuͤnze ¬
+ben, lissen brstan,
+rister derich zwingli
+re dir glub eff kisun Christum, alli guͤnder
+heil miche , wir oucgder gloub otri Jst die wott
+ze e n lche en ch vitrt dar
+hit uunge ben, Eo ist alir gnug gsigt, wedier
+gondegen Dundir eren vnd nnr de vnglub genn
+Dunden eim d hleubigen mat Schan end Schiant
+en/ Abrd att vngezwiflotet hoffnnig zuͦ gott, Die
+vngloͤubegen, aue Scham vnd wel Aber mitt ver¬/
+znflung en gett, De lit Cristi ciniget vus vm
+allir sund, Spricht fchannas , captr Dott
+wirdt ouch einem Jeden nich gsinen werckein gaͤben,/
+Wer naͤch dem Si cchm glauben oder vnglouben beschaͤch
+mn bind vnd widt gett grn rigir geb lelonom, dar ¬
+um gmig gesigt est vnd eiaͤren dist det aber¬
+dehein faͤgfur,

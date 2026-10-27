@@ -1,29 +1,29 @@
 # Seite 355
 
-ein nodtwendigs essenn, das da nimmermer schädlich
-sounder allwegen nutz vnnd gut ist
-omme
-aber das essen Im nachtmael, des hern fry ist, int
-zwingen, nitt allwegen, nutz, sounder ettwan schad,
-lich ist. Es ist onch wider vnsern vralltenn,
-erlernetten, glonden, Der da spricht er ist vffge¬
-farn, zu den himeln sitzt zu Der gerechtenn
-des vatters ist kunfftigkluch zurichten, wer die
-lebennigen omme toeten
+em nrdtwendigs essem das dr memermer scede //
+sonnder allwegen nitz vnnd gut ist //
+vnnd
+e de asen gn nn m Der hern feyist mi
+zwungen / mitt allwegen / mtz sonnder ottwran schuad /
+lich ist / Es ist ouch wider vnsern vralltenn /
+erlernotten / glouben / der da spricht er ist vffel //
+farn / zuͦ den himeln siczt zuͦ der gerechten/
+Des vanters / ist kunfftigi zurichten ver de /
+lebenndige vnnd todten /
 Wie wir Das
-klarlich henne In den gesteeckten, der apostlen
-am erstenn cap: Viri Callilei ende vnd Agathei
-am xxiiij vnd xxi cap:
-Jossz dem allem
-volgt Das Dise wortt nemend hij hunne essenne
-Das ist min lijb. Desgleichen ouch vom trinck¬
-schir, ein anndern verstanne mussen han, Dan wir
-Inen biss har gebenn hanne sounders das sollichs
-nitt annders, Dann ein lob vnnd Dancksagning
-des tods vnnd erlösung Christi sie wie dann
-heitter Durch Paulum In der ersten Epistell, zum
-Thorinthern an x vue xi cap: erhalven wirtt.
-Benedictus burgouwer pfarrer
-zu Samgallen
-Hott exbarme sich vnnser vnnd gesegne vns
-zijnde ouch ann In vnns sijn hortlich licht, vff
+krarlich hend In den gestanben / d apostlen
+am erstenn cap: Smi baluilei vnd Mather
+am xxiij vnd xxv ͦ cap: //
+sß dem allein
+volgt / Das dise wortt nemend vnnd essennd
+Das ist min lab Deßglichen ouch vom trinck /
+schir / ein anndern verstannd muͤssen han / Dan wir
+Inen bisß har gebenn hannd / sonnders das saͤliche/
+nitt annders / Dann ein lob vnnd dancksagung
+des tods / vnnd erloͤsung Christi sye / Wie dann
+heitter durch paulum /n der ersten Epistell / zum
+Chorinthern an x vnd vj ͦ cap: erhaͤllten wiltn
+Benedichiit burhonwer pfarrll
+zuͦ Santhallen //
+olt erbarme sich vnnser vnnd gesteneris
+zunde ouch ann In vnns sin goͤttlichliecht ff

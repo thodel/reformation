@@ -1,41 +1,38 @@
 # Seite 346
 
-(wie)
-wertte
-am diese
-Jnge
-rendant
-watt
+e
+anded
+Don
 2
-145
-Die dritt Schlusstreden
-min herren zugegen, ouch guten vnd lieben bruder
-vnd Landtlut von Appenzell, gethan, Ist hutt ling,
-mitt vil anzogner schrift, daruon geredt, darums
-nitt nott fst, vil mer daruon zureden, Ormitt vnd
-Er aber erkennen min meinning, der Ieg vorhanden
-OchlusBred, wil Ich ein kleine meinung darqu' reden,
-Ich bekenn wol, wie Cant Paulus redt zu den Romern
-das da nitt sine gnugsame lidnug diser zitt, zu der
-zu künftigen glorij, die da vns offenbar wirdt, dar¬
-umb wir nitt werden erlangen, von vnsern wercken,
-gnugsame der Caliteit, wie mij her Berchtold, hutt
-In der Othlusbred, ouch angezongt hat, Dann wann
-vss den wercken des gesagtes waer om gerichtikert
-So hitte gott vmbgunst gelitten, darumb der
-gnugsame halb unser werck, vns nitt verdienstlich
-gind zur Salikeit, Oann Christus vnser herr, hat
-die gnugsame unser sund, vff gun ruggen tragen,
-In dan kruen fur' uns gnug gethan, Noch mit dost¬
-minder, wirdt nitt darus volten, das vns gott dar:
-umb der wercken, So wir vsz. gnien gnaden tünde,
-nitt belonen werde, wie dann das hutt mijongt hat
-Martin buijer, vsz. dem Opruch Augustini, Cas
-Er werd, die werck Co f'r In vns wurckt, belouwen,
-Oarumb wil Ich nun die Ahlussred, witter be¬
-19
-welchen der Othrift,
-Werchtoldus haller
-18
-Der Pfarrer predigen da hermen, wie Ir hie mitt
-der warheit bekennen, So handlen Ir mijt wider
+1a
+Die dritt Scheussnd
+min herren zuge gen , ouch guͦten vnd liaben krnder
+vnd randtlit von Appouzll, gethan, Jst hutt lung/
+mitt vil amogner schrift, darvon geredt, darumb
+nitt nott ist, vil mer daruen zureden, Damtt vnd
+er aber ockrunen min meinug der ten varhanden
+Schlussred, wil Ich ein klevie moumg darzuͦ reden,
+Ich bekrun wol, wie Sant Piulus erdt zu den Jomern/
+das da nitt sind guicgsume lidung diser gett, zu der/
+zukinftigen glon, die da vns offinbar widt, dir¬
+iumb wie nett worden elangen von vnsirn worcken,
+gmifsue dir Salilnt, wir umi he worchteld, zet
+en der Schluessred ouch angezigt het, Dann wann
+vss den wonkn din ghocfes ad n grichtiktt
+So hetetr git omb euuist glitem, darumb dir
+gugn ide nsin itt rdanstlch
+ind zuedlllt Dann Christut vnsir hrer, hat
+di Jungfam vnser suͤnd, vff sin ruͤggen trie/
+au dun Eruh fit vns gnug gethean, Nach mitdist /
+muder, wirdt vait darut votzen, das vns gott dar/
+s der wercken So wir vss guien gnaden tund,
+nit belonen wade, veie dann das huitt mzigt hat
+Martin buczer, vss dem Spruch Angustun, Das
+Er werd, die weuch So Er Jn vns wuͤrclt, belonenn,
+Darumb wril Ich mn die Schlusßßrid nitter be¬
+1
+velchen der Schrift,
+Borchtoldus haller
+3
+Der ffanrar predigen dehrnnen wie Ir hir mitt
+der waͤrheit bekeunen, So handlen Ir mit wider

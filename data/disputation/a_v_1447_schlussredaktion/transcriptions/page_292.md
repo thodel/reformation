@@ -1,51 +1,51 @@
 # Seite 292
 
-Gristow
-jamais
-fend,
-santé par
-den. 8
-terwilt
-der wäre
-Eurentat
-of xii
-widerweit
-goodt
-2) Das
-mitt fe
-Bere dien
-In Paul,
-Eas f
-Iglichen
-in 1 Ab
-and, by
-G
-119.
-Die ander Schlußred,
-ses oude allwagen lugner gesin, dessglichen Oct:
-tuum am. xvij. vid am. xx. wevden euch Schrif:
-ten Ingefurt, Als ob di andersthwe, In Biblisthen
-Othriften gefunden wurden, 27
-Martinus buzer
-Ses Cuntags halben, Ist nitt geredt worden, das
-Inn die kilch gebotten hab, Ounders zu gijt der ge¬
-meind, Ist Er fry willigt angenomen wordenn,
-Eerglichen der Apostre tag, wiewel diesettigen uijtse
-glicher massen, angenomen vnd gewesen bind,
-Darumb war hierfun etwas gebutot, vnd die Con¬
-stientz kindt, der Ist ein widerchrist, Die andren
-Ort alle samen, bringen nichts wider vnsere Othlusf:
-red, wir reden balts, ouch vil tm. predigen, Das
-von wort zu wort In der Wibel nitt stat, fo Ist
-aber In der Wibel gegrundet,
+v
+nan
+mi
+san
+vnd
+gnrdt
+rder
+murchet
+e
+ir
+g
+Die
+nct
+Der dian
+n fd
+da
+sf
+inal
+nnd
+2
+119
+Die andir Schluss nd
+sie bind allwigen lugner gesin, Casglichen dic¬/
+tunm am, pij . vnd am xr. worden ouch Schrcf
+ten Jngefuet, Als ob Si anderschwro in killischen
+Schriften gfuͤnden wurden,
+Mattnuz buger
+es Sunta ge hallon, Jst niet geredt worden, das
+Inn die kilch gebotten hab, Sunders zu gut der ge¬/
+mund, ist Er Jr millig angeun vrdenn
+Da glichen der Aeestietag, nieml dusolligen nigr
+glich nssen, angeanen vnd grnuisen bind
+garumb war hirdtnn otnas gebuͤtrt, vnd die Con /
+stienh vindir de ist ein nidirchist, Dir andren
+dit alle sunen, Eringen nichts wider vnsere Schluͤss/
+red, wir reden daͤlls ouch vil Em predigen, Das
+von wort zu wort In der Bibel nitt Stat, Es Jst
+aber Jn der Bibel gegeundet,
 Johannes buchstab
-Lucas der Ruangelist, Actuum am xv. zoijt an¬
-die wandlung Pauli durch vil Landtschaften,
-zu verkunden dat Rich gottes, vnd Opricht Demnach
-also, Paulus durchwandlot Diriam vnd Ciliciam,
-bestätigend die kilchen, vnd gebot zuhalten die gebott
-der Apostlen, vnd der Eltern, Nun Ist mit an¬
-ders das genent werde, die gebott der Apostlen vnd
-Der Eltern, dann die Dayungen der Apostlen, die
-que die andren teren, Oo Im Ruangelio geschriben
-stand, gehalten sollen werden, vnd zu Regierung
+ucas der Euangelist, actnum am xv. Zoͤicft an,/
+die wandlinch Paul: durch vil randtschaften,
+zu verkuͤnden die sich gottes / vnd Cpricht demnach
+also, Daulus durchwrandlet Siriam vnd Ciliciem,
+bestatigend die kilchen, vnd gebet zuhalten die gebitt
+der wpostlen, vnd der betern, Nun Ist mit ma
+dere das genont werde die gelott das Apostlen vnd
+der ketren, dann die Satzungen der aipostlen, dir
+vnedie andien leren, So seij fungeli geschriben
+Stand, gehalten soͤllen werden, vnd zu Jegierungh

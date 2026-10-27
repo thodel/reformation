@@ -1,27 +1,27 @@
 # Seite 597
 
-Die funstte Schluskredi
-„ 26„
-Actoque 1000. das Ist diener gottes, Gottop frer heissen
-wirdt ein feder Schulthes vnd vogt, ouch ein opfeer ge
-gidius muur,
-Das Er geandtwuet hat, der dienst, bije das batt ge¬
-sin, mag nitt giij, dann von Oomlicken diensten hol
-niemand gesundrot werden, Er oprecht aber hoe Im
-Dext. Oundren mir van dem vordrigen dienst, Gar¬
-nabum vnd Caulum, damitt wil Ichs bruolchen ha¬
-ben der Chrift,
-Martinus burger
-Paulus und Barnabas, sind zu dem predigampt ge¬
-sundrot worden, Carzij hat fast wol gedenot, das
-man gebatt zij gott dem herren gethan hab,
-gidius murer,
-Das aber witter moge bijbracht werden, das te gléch op:
-Vor der wass. Nun Ich fur mich, Malachiaan den
-Propheten, am 1. cap. So fr Opricht, Mir Ist der
-will nitt In vch, Opricht der Herr der heren, Opfer
-oder gaben wil Ich nitt namen, von v'wern hauden,
-dann von vfgang der Ommen, bis zu nidergang,
-Ist grossz min namen In den volckern, vnd In aller
-Aatt wirdt geopfrot minem namen, ein reins opfer¬
-wann warumb, min namen Ist gross In den volc:
+Da fuͤrffti Scheissned //
+e
+Alzn dy ist druir guatee / Sufrer haistan
+widt ein Jeder Schulchis vnd rigt, auchein epfrir
+Egedius murer,
+as fr grandtnit het, dir dienst dir dis latt ge //
+fin, niag nat zu, dann von Somlichen dienston geb
+nemand gesuͤndrot worden, Er Spricht aler her Im
+Cept, Sundren mir von dem vordeigen dienst, Bar
+nabem vnd Daulum, damitt wil Ichs beuoͤlchen ha/
+ben der Schrift,
+Mutinug lingr¬
+Daulie vnd Coumilae, vnd zu dem predeg / mapt ge/
+suͤndret worden, Darzu hit fast wol gedtenot, das
+man gebett zu gott dem herren gethan hab,
+gndius muͦrer,
+e en netn aig geragt nnden dietipich
+Err der Misß, Nn ich fut mich lichenn den/
+Propheten, am ijjͦ cap: So Er Spricht, Die Jst der
+will nitt In uͤch, Opricht der Horr der heren, Opfer
+der gaben wil Ich nitt nmen, von üwern haͤnden,
+dann von vfgang der Sunnen, biß zu nidergang,
+Ist gross min namen In den volckeen / vnd Jn aller
+Statt wirdt geocfret minem namen ein reing opfer
+Wan warumb min namon Jst griss enden vilt¬

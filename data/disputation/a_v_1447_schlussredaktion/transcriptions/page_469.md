@@ -1,30 +1,30 @@
 # Seite 469
 
-wir heiden, oder vngeleuwen, so redten wir van Mijl
-misto Oder Jour
-Dan ick eis bekennen
-Christen sin, Die Da niet mit dem hertzen glorben
-zu der gerechtigkeit, vnnd sollichs mitt dem minder
-bekennende vnnd beuelchens von kurtze wegen den
-attis.
-vingh
-off Diff antwort sagen wir allso, Das
-sollicher wijsz niemand mochte wussen ob er
-Den lichnam Christi, niesse oder nitt, Dann
-wir einfalltgen, met mogen wijssen, ob der der
-waxen glorven van hertzen
-sollichs wortt spricht
-vff Christum hab oder mitt Dann ick will
-min lieben bruder allso fragen hast en rechten
-vntsz. vyffellten glauben, vff een lebendigen Sun
-gottes Christum Jesum
-Pfarrer v. 8. g.
-Ob pott willja ende
-Zwingh
-Hurennde vns ein blinden, oder ein Lamen har
-vnnd sage mir zu denselben blinden, min
-respice ersich, Diss ist ein ovortt Christi
-vnnd ist darby verheissen, Das die apostell
-vnnd prediger, die vnnd andre wunderzeichenn
-thun werdent so hatt er nun den plouwen vnnd
-Das vsser wortt by ein anderen volstreck mij
+Dor heden de vigleilg / raden late vnn ssen
+meto Oder Jove
+Dan ich die lieem
+Christen sin / Die da wit mit demn herten genen
+zuͦ der gerechtigkeint / vnnd sollichs mitt dem und
+bebennend / vnnd bevelchens von kurtze wegenden
+actig
+wingli
+Disantairt sagen wr alls / die
+soͤllicher wyß niemand moͤchte wuͤssen ob er
+Den lichnam Christu / messe oder nitt / Dam
+wir einfalligen / niit mogen wuͤssen / ob der der
+waren glouben vonchegen
+solliche wortt spricht /
+vff Christum hab / oder nitt / Dann ich will
+nun lieben bruͤder allso fragen hast du rechten
+vngeswyffellten glauben / vff den debendigen Su
+gottes / Christum Jesum
+pfarrer vndig¬
+o gott willte
+gli
+nrennd vns ein blinden oder ein Cnngn
+vnnd sage mir zuͦ denselben blinden / nun
+r s D ist ein rere Christ
+pnnd ist Daren verheissten Das Die Mriste
+vnnd prediger / die / vnnd andre wunderzeschein /
+thuͦn werdent / So hatt er nun den glauben vnnd
+Das vsser wortt by einandern / volstrecki / mur /

@@ -1,35 +1,33 @@
 # Seite 354
 
-4 Co
 147
-Die viers
-Schipreden
-Matt Meister Frants kals die viere
-Ostblustrie onne gruve derselbenn
-vroffuet alls hernacen volgt.
-Giebenn notsfrnue, Jan pitten vande eenselijck
-vmb gottes willen, das ir sich ab nachender
-schlußrede nitt wellennd ergern, oder ein schucken
-empfachten, oder vns darfur achten, das wir
-Om lust habme /ettwas vngthordts harfurhebringen, sondern
-Die grossen vngeschickten mischruch, so in die christennlich
-gemeine gewachssen, sind wider den rechten waren verstand
-des gottlichen ovorts vns zwingent vnnd tringent Erfz
-schenßred allso zu bekennen wie se denn luttet, Nemlich
-Das der lijs vnnd blut Christi Wesenlich
-vnne lyplich in dem brot der dancksagung
-empfangen weremt mag mitt Biblische ge¬
-Das bewyf
-schrifft nitt bibracht werden.
-sich mit lutter versthrifft, furnemlich Johannes am
-vi Capn. Das fleißen ist gar midt nutz, verstand geessen,
-Deschals Christus Is nitt hatt gewellenn, wie dan wir
-bissbar gemeinlich verstanden, Das wir in desem Sacra¬
-Wyter
-ment fleisch vnne blut, wesenlick niessend
-In vor angezochtem Capittell Johanus am vi, Es sie dan
-Dan Das Jressene min fleisten vnnd trinckene min blut
-Mogene Ir int Ingan Inn Das rijch eer huneln. Item
-over da Jsset min flasch vnnd trinckt min blut der
-blipt Inn mir vnnd ick Inn Im Iten war Da mich
-isset, der leet omen van minent wegen, His wirtt anzogt
+Die bierd
+Dlußled
+at atrister grantz kab die vund
+schlusred vnnd gruͤnd derselbenn
+eroffnet allß hernach volgt / //
+iebenn paefrnd. Ich pitten uͤch ernscgch
+vmb gottes willen das ir och ab nachgender
+schlußred niet wellennd ergern / oder ein schuchen
+enpfachen / oder vns darfur achten / das wir
+ein eist greind ruwis vugereute harfur zellnngen sonen
+Die grosen vngesteichen nuistbruͤch so in die christemlich
+nn n nsid
+e e
+schlußed allso zuͦ abennen / wie sy den lutet / Jemluch
+Dad der lys vnnd blut Cbristi wesenlich
+vnnd lyblich in dem bryt der dancksagng
+defue werdit mag mitt iblische ge //
+Das bewyß
+chnit aner gsthriftt frremaich sohannns am
+vn een
+Desal nsin nun art graclenn wn dan wn //
+bssler gemunlu ven sanden Do wrm disen Sern //
+wyter
+men fleists vnnd klut wesennlich messend //
+n n n es ndn
+Dan das rsend nn beisch vnnd teinckend nin llit //
+ogend zv nit Ingan Inn das rych der himelu / ttem
+wer de Jsst mun fleisth vnnd trmickt min bruͦt der /
+blipt Inn mir vnnd ich Inn Im / Item waͤr da mich
+isset der lebt ouch von minentwegen giewirtt anzeigt

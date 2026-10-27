@@ -1,29 +1,28 @@
 # Seite 529
 
-hatt die sach den verstand, durch den huuell
-verstan wir, Das geistlich herlich wesen der
-getheijt, allss. so wir potten vnser vatter Im Hinge
-mit Das Die sichbaren huwel. pott den herren
-begriffen mogen, so dan min die ystchrifft vns
-furhallent, Das vnser her Jan Himell gefaren sij
-verstan wir das er der monsthet nach ven
-ens genomen sie, In die vnsichbare herligkeitt
-Gottes In der er beliben wirt zur getrechten des
-1) ist Im
-vatters Das, hochsten gevallt, biss zum lesten
-vericht, da wirt er all erst liblich onderkomen
-vss. Dem - schluss sich nun offenbar, so es
-Die ordnung potes allso hallet Das Christus
-Jesus nach smer vffart, int solle lyblich by
-Vns sin (Das er noch vill weinger man leb
-lich im brott geessen werden, Die zet Das
-er lyblich by vns syl. vnnd van vns gehanden
-Die ist lawest vnss, durch sin
-over de
-geist vnnd krafft vns sulig zemachen wirt
-er vns bij vns sijn biss zu vnd der wollt, vn
-mit Desem argument Civirt bewäret Das Chrij
-Aus lijblich Im Sacrament uit sin kan, soet den
-Een gan huwll gefaren ist, Das er aber Im
-nachtmall int Im bre des sacraments lijblich
-gewesen sie, habend die Junger gnug gesechen
+enn de sich den versfrd / diem de wre
+verstan wir das geistlich herlich wesen der
+gotheit / allß so wir petten vnser vatter Im hint
+nit das die sichbaren hinell gott den herritt
+begriffen nogen / s dan nun die gschrifft vis
+firhalltet / das vnser her gan himell gefaren sin
+verstan wir das er der moͤnscheit nach von
+vns genomen sye / In die vnsichbare herligkit
+gottes / Iu der er beliben wirtzuͤr gerechten des
+vatters das hoͤchsten gwallt / bisß zum lesen ist Im
+gericht / da wirt er all erst liblich widerkomen
+vsß den schluß ich nun offenbar / so es
+Die badung gots aleso halbet Das Christus
+zesus nach szner vffart / nit soͤlle lblich by
+Vns sin / Das er noch vill weinger maglys //
+lich Im brott geessen werden / Die zet as
+ec lelih by vis sye / vnnd vmn vns geheide
+Die ist langest vst durch sin
+oerde /
+geist vnnd krafft vns saͤlig zemachen / wirt
+er vnt by vix sin bisß zuͦ end der wellt vd
+mit disem argunent wirt bewaͤrtt / Das Chri
+tus loblich iin san ament nit sin kon / sidt den
+er gan himll gefaren ist / Das er aber Im
+nachtmoll nit Im brit des sarraments lylle
+gewesen sie / habend Die zuger guig gesechen

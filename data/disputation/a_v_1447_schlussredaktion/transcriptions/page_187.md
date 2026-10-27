@@ -1,31 +1,30 @@
 # Seite 187
 
-In Dinem namen her Jesu Christ Imenu
-Alleß dan her Berchtold, predicant minen herrn
-von Bernn van Des Banns wegen, om lange
-vmbstchweiffende ree bruchs, Inn wellicher
-langer ree/ Er doch bekent, hatt, ein Ban Zusin,
-sess sie ein pfarrer, oder em pfarr, Wellichs ich
-gerinn van Im verstanden, hab Dann Der
-Bann ist ein vs. schliessimp der christenenschenn
-gemeind welcher int gesthechen maij, on gewaet
-Oo er Dann anzucht stlich missbruch, so ge¬
-haelten, sien worden, mit dem Bann, oder nitt¬
-Der kilchen mußbruch zu versprechen, bin ich
-Vber loblichen, Christenlick swaff,
+Iet Ducen nanen ster Jesi phrist Amenn //
+Alls dan her Berchtold / predicant miner lerin
+von Bern / von des Banns wegen / ein lange //
+vmbschaeiffende red brucht / Inn wellicher /
+langer red / Er doch bebent / hatt / ein Ban zuͦsin /
+ste ein pfarter / oder ei pfarr / wvellichs ich
+gerun von Im verstanden hab / Dann der
+Banm ist ein vsshlussing der christenlichen
+gemeind welcher nit geschechen mag / on gearte //
+So er dam anzucht etlich mißbruch / so ge //
+halten / sien worden / nit dem Bann / oder nit /
+der kilchen / nisßbeuch zebersprechen / bin ich
+er lich Christenlich stren
 nit hie
-s
-mugen, einem Christenlichen Rhegiment gegeven
-Lob ick vnnd dasselb sy zu leben bezucht vns
-Das ann dis heillig geschrifft, actoru ex cop:
-wellche allso lutet. Hanne vich acht vnd der
-gantzen herd, Das ist der Christenlichen ver¬
-samling Inn welcher vich der heillig geist
-hatt gesetzt Bisthoff zu regieren die kirchenn
-gots (welche er hatt werkomen, mit sinem
-Vhopen farben blut Es hatt ouch paulus ystit
-zum Exhesern, am iiij cap: Das Jhrisius hab
-gesetzt ettlich zwolff potten, sittlich propheren
-ettlich enangelisten, ettlich hirten vnnd ouch leer
-zu erbuwing des potlichen Diensts vnnd
-des lijbs Christi ende Inn welchen worten
+ngen / einem Christenlichen Rhegunent geeben
+Los ich vnnd dasselb sy zuͦ laben / bezuͤgt vns
+Das ann die heillie gschrifft / actorn gxͦcho
+wellche allso luren / Hannd uͤch achi vnd der
+gantzen herd / Das ist der Christenlichen ver //
+famlug n welicher uͤch Der heilig peset/
+hof zu rnren die kilchem
+gas welche er hatt uͤberkomen / mit sinen /
+Rhoenarden i Es hen ouch pmlue g ac
+zun Echestin am iin cap Ds Cchristieho
+gesett etllich zwoͤlff potten / ettlich prophten
+eclich enangelisten / ettlich hirten / vnnd ouch leitn/
+e go Diensts vnnd
+des lybs Christi ( Inn welchen worten

@@ -1,30 +1,30 @@
 # Seite 245
 
-Christi
-sy ouch houpter genant werden, houpt zesin¬
-vordert mer dan ein wechter, oder hirt
-Die kilch ist om lijb Dorum
-zusin
-hatt sy euch mir ein houpt, Erstin. Der
-onch nit schlecht ein Disthoff sonders ein
-bistgoff vnser Selen genant wixt Damit die
-Inuerlich sorg vnnd versochung der Selen
-So durch een geist gestaicht vnnd
-Christo allein zustat vermerckt wirt, da
-monstgen bisthoff „ ampt, ist ouch woll vine
-Der selen wielen, so es aber staet Im Vssern
-wert, so schafft een an der Seel uudt dan
-Der geist Christi wincke denn
-Senniger
-Uter Sprach her Berchtoed, so ich pereedt
-Christus sig ein Ingelieet houpt der klchen
-red ich da das kein opostell geredt hatt
-vnd die wijll Christus gewesen sie es die
-Kilchen, wie kout er dan ein Ingelibet houpt
-sin der kilchen,
-1750
+ophisn
+souch houpter gerant werden / hanft zern
+vordert mer dan ein wechter / oder hirt
+Die kilch ist ein lyb dorine
+zuͦsin /
+hatt sy ouch nur ein hout Cristir der
+ouch nit schlecht ein Bischoff sonders ein
+bischoff vnser Selen genant wirt / Damit die
+Innerlich sorg vnnd versechung der Selen /
+So Durch den geist geschicht vnnd
+Christo allein zuͦstar vermercbt wirt / der
+moͤnschen bischoff ampt / ist ouch woll vns
+der selen wielen / so es aber stat Im vsern
+wert / so schafft exan der hel nudt / dar
+der geist Christ wurttl dem
+Sennger/
+yter Spracs her Bechteld / so ich gert
+Christus sig ein Ingelibet houpt der kilchen /
+red ich da / das kein Apostell geredt hatt
+vnd diewyll Christus gewesen sye eb die
+eilchen / wie kont er dan ein zugelibet houpt
+sen der kilchen /
+Ih
 Antwurt
-lassen, woll nach der potheit halb # Das er
-por der Kilchen vnd von ewigken sie gewesen,
-wer nach dan vnnd die gsthrifft van
-Christo Dem houpt vnser lebendig kilchen
+lasß woll nach der gotheit holb / Das er
+vor der kilchen vnd von ewigkeit sie gewesen //
+Aber nach Den / vnnd die gschrifft von
+Christo dem houpt vnser leklndis kilchen

@@ -1,32 +1,30 @@
 # Seite 193
 
-Christi, Die vnnder vch ist, vnnd versechent
-se int genietiget, somnders selbs willig uitt
-joss bewe schandtliches gewins somnders v/
-geneigtem gemut, uit allß Die Da herschen
-gottes
-wer Das erb volck Chauss
+Chisßt die unde sch iss vnnd vrscen
+sy nit genotiget / sonnders / selbs willig nitt
+usß begrd schandtliches gewins / sonders vsßt
+genaigtem gemit / nit allß / Die da hersten
+uͤber das erb volck Ch gotes
 vnd so
-sy schon gepretend, so thune sy doch vande
-durch das wert gotes, Ja vill meer thuts
-pot Inen Inen vnnd durch sy, dan Ir nit
-sind die da reden, spricht der her sonders
-mins
-der geist sins humelschen vatters, Darumb
-ist aber nit wider vns offbracht, Das
-wchs
-Christus sich seles nempt ein houpt, Der
-wellt. Das ist er wesen lich vnd sunst
-niemands anders
-Die opostlen
-Ober sind liechter der welet, genempt per
-participationem, Das sy erluchtet sind, von
-wie nun
-Dem ovaren liecht Christo
-Christus ist ein einig thoupt, en ein pliecht
-Allso mag dehem ander houpt, Dhein
-ander liecht wesenlich sin dan er allein
-kurtz Daruen alles, Das der pfarrer herIn
-zogen, hat, zoigt vns kein ander houpt an
-dan Christum Jesum
-Farrer
+sy schen gepietend so thund sy doch da
+Durch das wort gotes / da vill mer ttats
+got Ine Inen vnid durch sy / Dan Ir iit
+sind / die dan reden / spricht der her / sondeirs
+muins
+der geist funies himmelschen vatters / Darumb
+ist aber nit wider vns vffbracht / Das
+Christis sich stell /nempt ein haͦt der liecht
+wellt / Das ist er wesenlich vnd suͤns
+neands anders
+Die Apostlen
+Ader sind liechter / der walt / genempt er /
+packilipationem / Das sy erluchtet sind / von/
+wie min
+dem waren liecht Christo //
+Christus ist ein einig houpt / ein einiglieht
+Allso mag dhein ander houpt / dhein
+ander liecht wesenlich sin / dan er allein /
+Eurtz darion ales / Das der pfarrer hergn
+zogen / hat / zeigt vns kein andel houpt an /
+Dan Christum Jesum /
+Sfarrer

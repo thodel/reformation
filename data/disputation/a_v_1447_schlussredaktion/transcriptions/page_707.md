@@ -1,32 +1,31 @@
 # Seite 707
 
-Die viii. Schlussere,
-Betzen, vor welichen man gott, vnd die abgestorbnen
-heiligen hat vererot, Carmubman, der lebendigen
-heiligen hier vff ertrich, nitt geachtet, en eben wir
-vorgesagte Schluszred gepredijot,
-Johannes buchstab,
-Der bildern hebb, das Oi annibitten sijen, oder zu frem
-mitt gottlicher fo, der meinung wirdt ob got wil
-D. hein Christen Sin, wir haben Impten. alten Testa¬
-ment, Exodi. xxvo. Cas Noijses zwen Cherub, liess.
-„tertio „
-machen vff die Arch. Verglichen Im buch „ segnuij¬
-capite. vii. Eiesebben sind allem fur bildtnus ge¬
-achtot worden, vnd nitt furabgott, darumb oime
-Ti nitt verbotten gesin, Cestglichen der frin othlang,
-die wil Er Ist gesin, Als ein figur vnd zeichen, Ist
-Er bliben, wer nach dem Ehr angebotten Ist worden,
-.
-het Inn Rechias der küng Juda zerbrochen. iiii.
-Regum. viii. ca. Varmub wir Christenliche meut:
-sthen, diewil wir die Erkantnus gottes hand, vnd si¬
-ner heiligen, vnd aber zi nitt gesachen hand, mogen
-wir ouch Ire biltnus haben, So Daulus Opricht
-Ad Romanos. 1o. Das unsichtbar wesen gottes, wirdt
-ersachen, ende man des warminpt, bij den geschichten
-der Schöpfung der welt, Also wie wir den Thopfer
-nitt gesachen haben, vnd aber die gestholpft gachen,
-zuglicher wisß, So wir die duig nitt sachen, So durch
-die bilder bedutot werden, mogen wir dero zu ge¬
-dachtens, haben die bilder
+De viij Schlussnd,
+Crtzin,/ vor wolichen man gott / vnd dr alfrsemlum
+helligen hat vereret, Darumb man der laͤbendigen
+heiligen hie vff ertrich / nitt geachtet, haben wir
+vorguisacte Schlusßred geprediet
+Dohannes buchstab,/
+Hre bidern hilb: die Dianzubetten gzen, odie zu hren
+mitt gobtlicher Er, der menning wirdt obgot wil
+Echom Christen ein / wir gaben Jiij alten Lista/
+mant, Crodi i: Das wysis zwon Cherube laist
+ertio
+machen vfff die archt Cerglichen Jmj luͤch gum
+capitr vijͦ Dieselben sand allein fur bildtnus ge¬/
+achtet worden, vnd nitt fuͤralgott, darumb sind
+De nitt vorbotten gefun, Dishlichen der krin Schlint ,/
+dieml Je Ist gefin,/ Als ein higne vnd zuchen, Ist
+Er bliben / Aber nach dem Ehr angebetten Jst worden /
+het Jnn hrichtt der kung Jud zechrichen: em¬ 2002
+eegum vnj ͦ ca. Darmub i Christelcbr matt
+schen drne nieder Ekantnus gottis hand / vnd
+ner heligen / vnd aber Simitt gesaͤchen hand, mogen
+wir auch Jre Ertnus haben, So Silus Sricht
+nu sbir n gntre undt
+ersachen, So mandas warnumpt, hi den geshichten /
+der Schopfnug der welt, Als wir wir dan Schipfer
+niit grsichen haben, vnd aber die geschepft sachen,
+lich dng nit eichen si durh
+die belder bedutet werden, magen wir dero zuge ¬/
+dachtnis haben dir bilder

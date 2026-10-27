@@ -1,47 +1,46 @@
 # Seite 380
 
-Arb.
-In Im¬
-daerin
-H. Cronte
-which I am
-9 anhero
-haer
-being
-verdern
-voe
-158
-Die vere schlußred
-Een, dem Euangelio glauben aber dem manselio by¬
+w
+Dit
+D
+ew
+ebed
+r
+wit
+thucg
+ores
+wear
+1b
+die viend schlußred
+on / den kunngels geiten able / Den onanfelo br //
 Zum
-schlußt Inn Im beuelchuns des glaubens
-anndern / frucht, oder werck des glaubens auch
-Zum Dritten mitt anhangenden Zeichen diser din¬
-Een zu einer bestättigung, habenn wir Inn Der
-geschichten der xii, am xvi cap: Da der huter
-Paulum vnnd Barnabam fraget Ir hern was
-ist not. Das ick thu vff das ick salig were, haben
-sij Im geantwurt plauw Inn dem Hern Jesum
-so wirst dusalig vnnd een hußgesind, wer söl¬
-lichs ist er gethouffett worden. Derglichen Marci¬
-am lesten cap: Dic da glouet vnnd toufft wintt
-Gossz welchem Ick stellen will
-wirt salig
-Das glauben Inn In Johannis am vi cap: verfacht
-(wie ob angezoigt) Inn der ertheillung der
+schluset Jnn Imbevelchnus / des glaubens /
+anndern / frucht / oder wercki des globens ouch
+zum denen mitt anhangenden zeichen diser din //
+gen zu eine bestuͤtigung habenn wir Iun der
+gesthngten der xi° am xij cap: da der huͤter
+Paulum vnnd darnabam fraget / Ir hern was
+ist not das ich thu vff das ich salig werd / haben
+sy Im geantwurt / gloub Inn dem hern / Jesum
+sowurst dusalig vnnd din huͤßsgesud vber sol //
+lichs ist er gethoͤnffett worden / Derglichen Marti //
+am lesten cap: Der da gloubt vnnd tonfft wirtt /
+vsß welchen Ich schlussen will
+wirt saͤlig /
+Das glouben Inn In / Johanns am vj cap: verfacht
+(wie ob angezaigt /) Inn der ertheihlung der
 Demnach wundertt
-leer des en au gelij¬
-min her vnnd bruder, das ick die wortt ver¬
-stande van lijblichen essen, versachet mich zu¬
-sollichem die angezeigten vß getruckten wortt mit
-verstand vnnd erklärung der gelerten In der gab
-der wijssagung der orientischen vnnd occadentischen
-Klechen mitt wellchen, ick niet sunders, lutt minen
-Herren agardat zu probieren furmin. Der gleichenn
-liblich Christum Geessen, gebe int das ewij lebenn
-"uit
-mitt psundem verstand weyß ich Jetzmaer dar¬
-Das aber meijter vlrich
-wider befuegten
-Ingefurt hatt, ein argument, Das heill wurde an
-vsserlichen Dingen stan, vnd mitt an der gnad
+leer / des evangelij
+min her vnnd brinder / Das ich die wortt ver //
+stand vom lyblichen essen / vrsachet mich zuͦ //
+soͤllichen die angezeͤigten / vsgetruckten wort / mit
+verstand vnnd erklaͤrung / der gelerten / In der gab
+der wessagung der rienischen vnnd oradenschen /
+kilchen mit wellchen ich nitt suͤnders / lut miner
+herren mandr probieren / fuͤruin / Der glichenn /
+abluh Christum geisen gebe ir de vanis leten / nt
+mitt gsuͤndem verstand weyß ich Jetzmal dar//
+Das aber meister vlrich
+wider zefechten /
+Ingefuͤrt hatt / ein argument / Das heill wuͤrde an
+vserlichen dingen stan / vnd nitt an der gnad

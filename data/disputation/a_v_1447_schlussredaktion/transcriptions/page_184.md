@@ -1,31 +1,30 @@
 # Seite 184
 
-XIV
-71
-Die erst schlusred
-C Prouinciat beklagt sich, er habe mit platz vff
-vnnser reden zu antworten, Die vnchristenlich
-unne wider die warhen sig, nu haben wir
-nichts mit Im Zewinn. Dann so verr er wi¬
-der Die zwo erst sibclus reden, an Denen der gantz
-Christenlich hanndell istat, In vnser klechen ge
-schriben, vnnd gehandlet hatt, dero halb hatten
-wie vnnser gnedige hern van Berim gepären Inn
-zubesthriken, von dem haben wir allein mit Im¬
-Zehandlen begert, So aber er die gemeinen Inred
-wider Die gemein Christenlch ler, nach siner
-allten gevonchen, an gschrifft ingefuret, hat Ist
-von noten gewasen, dieselbigen zuverantwurten
-Unnd Das haben wir mit gsthrifft vnd dienst¬
-lich den zwo ersten Schluß reden, gethan Vn¬
-hatt er fryen platz mit schrifft wider die zwo
-ersten schlußreden zehandlen, Mag er das nit
-so lijt suis gantzes furnemen was ers thun, so
-thu es So wijrd er wie an der houpt sach
-also an allem, Das ich wider In geredt, hab ge¬
-shen. So er Das nit thun will, wie ers
-Louch nit vermag, sicht gederman hall vnd klar¬
-Das sin gloub leer vnd alles sin thun an gschrifft
-ist. Da dan aber die ystchrifft alles yurs In¬
-halber, erkent mengklick, was sin thun vnnd
-leer sige. Die er mit gotlicher postchrifft int
+M
+de eit schliered
+Prmd keklag sch / er hale nflacaff
+wunser red zuͦ antwurten / Die vnchristenlich
+vnnd wider die warheit sig / nu haben wir
+nichts mit Im zethund Dann so verr er wi //
+der Die sied eist schluoreden an denen / dergantz
+hs s n n
+schiben vnnd geandlit hant / derohab haten/
+wir vnnsen gnedige hern von Barm gepiten Inm
+zuͦbeschriben / von dem baben wir allenn mit Jen /
+heandken Bigen o r en die genanen ind
+wider Die gemein Christen lich ber / nachsinen
+allten gewonhen / an gechrifft ngefuret / hat Ist
+vin nden gewrisen dueseliger zeotranwurten
+vnnd Das laben wir nit gschrist vnd diest //
+lich den zwo ersten / Schluß reden / gethan Mn//
+hat er fyyen plotz mit sprifft wider die zwbo
+ersten schlußreden zehandlen / Mag er das nit
+so lyt sins gantzes fuͤrnemen / mag ers thuͦn / So
+chu es / So winrd er wie an der houptsach /
+also an allein / Das ich wider In geredt hab ge//
+sien / So er das nit thun will / wie ers
+ouch nit vermag / sicht Jederman baͤll vnd klar
+Die sin glei le n n n an gshaf
+ist So Dan aber die gschrifft alles gilts In/
+halhet / erkrut mengklich / was sin thun vnnd
+leer sige / Die er mit goͤtlicher gschrifft nit

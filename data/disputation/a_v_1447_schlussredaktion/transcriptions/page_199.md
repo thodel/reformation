@@ -1,27 +1,27 @@
 # Seite 199
 
-vnser lieber pfarrer vnnd bruder von Open¬
-zell erkent, Das Christus der her sin gott
-sie, ouch aller wellet behaelter sye, Dann
-so verr vnne sollichs vsss. rechtem warem
-glouben geredt, So wirt der pfarren keinen
-houpt / keinem behallter/ keinem Recht, keinem
-annderm vater noch vertröster noemer mer
-nachfragen
-Dan welcher zu dem
-vrunnen kumpt, Den curstet niemer¬
-mer Johannes iiij cap, nach keinem an¬
-derm heill, nach keinem andern liecht nach
-keinem andern trost Dabij ick woll
-vermercken mag. Das bij Im aller Greatius
-trost, schuoe sine, Ja in suma Dorumb sah
-sich get. lob vnnd Danck
-Een Suelifften tag Jonners
-Farrer
-In Dinem Namen herr Jesu Christe Ymen
-Cromen Christen allß ick hab meister
-Vlrich Zwingken gefragt, mit sinem Bi¬
-spele vnnd exempell Des vensters hals van
-den zweyen lechtern, So hatt er geantwort
-Ix hab Das int angezogen Das er Darnsz
-vff Das göttlich wort grunden, wolle.
+vnser licbtr pfarrer vnd bridtr vn an
+zell erkent / Das Christus der her sin getd
+sie / ouch aller wellt behallter sye / Dam
+so vene vnnd solichs vsß rechtem waren
+gemben geredt / So wirt der pfarrer ken
+houpt / keinem behallter / keinem liecht / kein/
+annderm vater / noch vertroͤster niemer mer
+nachfragen //
+Dan welcher zuͦ dem
+runeken ster memer /
+mer / Johannis iiij cap: nach keinen an//
+Derm heill / nach keinem andern liecht / nch
+keinem andern hrost / Daby ich woll
+vermercken mag / Das by Im aller Crerth/
+trost / stanod sud / Sa In siͤnien dorumb ab
+ich got lob vnnd Danck //
+n su
+Pfarrer
+Ier Srm susun en hir wit man
+pomen Christen alsß ich has master
+Olrich zwingkly gefragt / mit sinem Bi //
+spell vnnd exempell / des vensters halb von/
+Den zwgen luchtern / So hant er geantnut
+Er hab das nit angezagen / Das er dans
+vff Das goͤttlich wirt grunden / welle¬

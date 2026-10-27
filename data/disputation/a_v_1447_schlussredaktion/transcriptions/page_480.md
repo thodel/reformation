@@ -1,43 +1,42 @@
 # Seite 480
 
-wachtig
-J.C. C.
-I am
-grind
-1/70
-vnd wirt ver
-uwen
-40
-200
-die viend schlußenden
-nachtmael, Is habenn ouch die Juden kein blutt Dar¬
-van petruncken. Das man allso rechnung vassen mocht
-wer vnnser
-sollcke frm. Dacher Dienen
-pundtnus ist allein am Cruiz versichert worden, nach
-Dem switen hatt gottes Der sin eingeboren Sun
-vmb siner unvssprechenliche gehorsame willen bissen
-Inne
-Inn toe hinan Die erweelen geben hatt
-aber Inn der gijt Ist sollche vsßtheillung vnnd be¬
-sprentzung einem Jeden verhuwen worden so er mitt
-Der gnad des heiligen geweest vnnd gehelget
-wirtt, wie man ouch versett den grus petri in siner
-Epistere, aspersio sanguinis vnnd In der Epistell zuu
-Hebreern, am ix cap. richtich Daruen gesagt wirtt
-Darumb solche figur von her Benedicht anzopen hie¬
-herssich nit rimpt, wer das ist war, solche gnad
-gottes vnnd ußtheilung, wurdt vns hie verkundiget Do¬
-rumb man onch gott danckt, sagt, Ich vermein onch
-her Benedicht soll mir das nitt leugnen, Das keiner
-sollich Sacrament empfachen soll, er hab Dann vorhin
-ein glauben Das Im sin sind durch das liden Christi
+we
+sib
+tenn
+gaute
+1o
+end wirt ver
+uͤwen
+20o
+die vierd schhlußtred
+ncenid Je wanddls Dedehen hen st
+Vn getruͤncken / Das man allso rechuung vassen moͤcht //
+Wber vnnser
+sellche figur daher dienen /
+pundtnus ist allein am Crunz versichert worden / nach
+Dem ewigen Rhatt gottes / der sin eingeboren Sun
+vmb siner vndssprechenliche geh orame willen bisß
+vnnd
+Inn tod / hinan / die erwellten geben / hatt/
+aber Inn der zyt Ist sollch vschenlun vnnd be //
+prentzung einem jeden vechiwen worden So er mitt
+Der snad des heilligen / geffbewegt / vnnd gehelget
+wrtt wie nin ouch verset den gruͦs ptri in suter
+Epistell sßechao aeiia vnnd In der Epistel zum
+Helreern / am ix cap: richlich / Darvon gesigt wirtt
+Darumnd sodhe ir von hen vendic ansagen hie //
+heisns nit runpt Aber das ist war / salche gnad
+gocts vnnd vs e lung / wurdt vns heie verkiudigtt / do/
+rumb man ouch gott danckt / sagt / Ich vermein onc
+her Benedicht soll mir das nitt leugnen / Das keiner
+ollich saramen empfachen / soll / er hab / Dann vorhin
+ein glouben / Das Im sin suͤnd durch das liden Christn
 Das
-verzigen stond, Dann das gehort Darzu
-sich der mensch selbs, beware, probiere In der ersten
-zum Chorinchern, am xi cap: so nun der monisten
-erkennt. Das Ime das blut schon vfgetheillt ists So
-wirtt sich sin red mitt schicken, Alß soll es Im
-aller erst v/ gecheilt werden, so wirt sin bewermuß
-Das der win oder Jan dem ovin sie wesenlich blut
-wir eins, nitt gesten¬
+verzigen / siend / Dann das gehoͤrt daczu
+sich der mensch selbs bewaͤre / prabiere In der ersten
+zun Chorincheren / am xj cap: so min der moͤmsth
+erkennt / Das Ime das bluͦt schon vßgetheilt ist So
+wirtt sich sin red nitt schichen / Alß soll es Im
+aler erst vßgecheilt werden / so wirt sin bewernns
+das de wen oder tun dem win siswefenlich blit
+Aber eins / nitt gesten /

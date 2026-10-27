@@ -1,32 +1,32 @@
 # Seite 694
 
-296
-Diz. vii. Chlussred
-Meister Vlrich Zwingli,
-Die gantje Cum des Pfarrers argument wil, das
-wir fur unser sund, mussen gnug thun, vnnd
-deshalb das fagfür te waren, vnd Ist aber vorhar
-genug anzoigt, das Christus vnser erloser, bezalung
-mittler, versuner is, allein Ist, wie dann In vorgan¬
-den Schlußsreden, gnugsam anzeigt, Das aber Ca¬
-und gestraft, vnd das geboren kind gestorben, be¬
-wart darumb de hein fagtur, Oann Ooliche straff,
-hie In zitt besthaecken Ist, O Ist ouch nitt ein k¬
-zalung der sund, noch erworben der gnad gottes,
-dann konie lidnugen sind gelich wichtig der kunfti¬
-gen fr, die vns gott wirdt eroftnen, wer die
-trubsal, fugt vns gott, als sijnen geschirren zu, da¬
-mitt Er vns bewir, vnd In gehorsame behalt,
-ad Romanos. v. wir rumen vns der trubsalen, dann
-wir wussen das die trubsal, gedult machen, geduet
-aber bewaenus, vnd die bewarnus bringt hoffnung,
-vnd die hoffnung bruigt vns nitt zusthandenn is,
-Das Ettlich verdampt werden, Ist war, aber die
-vngloubigen, daruon gnug gesagt, was bewert aber
-das, das ein fagfur sije, Das die kind nitt salig
-mochten werden aue den touff, Ist nut, wil aber
-hie mitt gedisputiert werden, Das wir er lost sij en
-von Christo, und danocht ouch Herben mussen, vnd
-kranckheit liden 1 Sicht dem glich, om der pfarr er
-sagen welle, die erlosung Christi sije nitt volkomen,
-So der liblich tod, nitt ouch werde huijgenomenn,
+210
+Dae vi Schlussrad,
+Hrister Vlrich zwngli//
+i geme Sin dee Pfaprirs arzninent val / das
+wir fnd vnser guͤnd, misten fung thin / vnnd
+deschalb das faͤgfur bewaͤren, vnd Jst aler vorhar
+gnntanzeigt dis Christun vnser orlesir, bezlung
+mittler, errfuner , allein Jst, wie dann In vorgan¬
+den Shenu snnden gnigsm azagt, Cas aler d
+ind gestraft, vnd das geboren kind gestoclen, vr/
+walt darumb dehein fagfue, Dann Soliche Straft,
+hie In zitt beschachen Jst, Si Ist ouch nitt ein kr¬
+zalnug der sund, noch erwaͤrben der gnid gottes¬
+Brnn Erur eidnngru sind grlichwichtig dar kunft /
+gen ie dr vns get wirdt eroffnen, Aer die
+tinien kgt due Junt de gmnen gischreen zi / de
+mitt Ervne bawar, vnd Jn gehorsame Erett/
+d on n rn i vn der truosl du
+wir wuͤssen das die trubsal, gedult mathen, gedult
+aber bewaͤrnug, vnd die bewaͤrnug beuigt beffinung,
+vnd die boffnug bringt vns nitt zuschandenn i
+Das Ettlich vordampt worden, Jst war, aber die
+vngloͤubigen, daruon gmig gesagt, was bewaͤrt aler
+das, das ein fagfur gyr, Das die kind nitt suilig
+moͤchten werden and den touff, Jst mit, wil aber
+har nitt gedisputiert worden, Das wir orlost gion
+Ban Christe, vnd danocht auch Steeben muͤssen, vnd
+Eranchheit liden, Sicht dem glich, Sam der ptarrer
+engen welle d lfug Christri nit vllanei
+Soder lillich tod , nitt ouch wverde hantgrnamenn /

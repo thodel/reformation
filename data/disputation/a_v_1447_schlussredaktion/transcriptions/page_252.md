@@ -1,43 +1,41 @@
 # Seite 252
 
-Crvois
-nur bericht
-om
-M dll
-met
-gessere
-ixchent
-him the
-of
-Hate an
-Der Klag
-dernins
+2
+nal ben
+vi
+n
+ess
+yit
+mt
+Hatia
+der ke
+tenn
 102
-Die erst schlus red
-Wir vellen Im gern zugeben, wo er mit
-verstchrifft bybringet, Das ein meusten sollichs
-rechts vnd gevallt zu der Christenlicher ge¬
-meind habe Alls ein man zu sinem xxxvjc.
-Das er ein sollichen Ir houpt neme. Die hochsten
-Aber allss. petrus vnnd paulus
-Spostell
-sampt Der gantzen Wellet sind vnser vnnd
-wir int Ir, somnders Christi In der ersten
-Epist: zum Oberinthern am iiii cap: Diener
-sind sy der kirchen, wie sy sich selbst
-kunnen vnnd int egemachell, Dis kirch
-were sunst int fremin so so mer dan ein
-gemachell hette vnnde vormub blijet es
-noch. Das die kilcen nur om einen
-houpt habe, Christum, wie onch mir
-einen gemachell, eben denselben Christum,
-Der geistlich vnd lyblich, In aller Dingen hulfft
-nach siner macht, wie ein jeder fremer Ehemackel
-stuen wijs nach smem vermogen, Also
-ist ouch int bewert, Das ijemand neben
-Christo moge weder Egem achell noch houpt
-genempt werden, Des namen weret hebben
-Isst ouch gnug gesagt, Diener uit wexer
-sind all helgen
-Got syn lob Das
-ter sin Warheit so gewallte vns armen sunder
+Die erst schlus red /
+Wir lellen Im gern zugeben / wo er mit //
+e men s
+re n zu der Christeicen e
+mend l ein man zu sinen kewce
+Das ed ein slngen hupt nemn Dy hohhtn
+er als perus vnnd patlus
+Apostell/
+samgt der ganzen wele snd vnser vnnd
+bersue tre sonndee Chris In der ersten
+Eist zun Shormthern am in cap diener
+send sy der kilchen / Wie sy sich selbe
+rinmen vnnd nit egemachell / Die kilch
+an nit fro s s mer din en
+gemachell hette / vnnd dorumb blipt es
+noch / Das die kilch nuir ein einnig
+houpt habe / Christin / wie ouch nir
+emen gemacliecl / aden denselben Christum
+Der geistlich vnd lyblich / Ir aler ding hillfft
+nach siner maͤcht wie ein zeder fromer Egemger
+sinem wyb nach sinem vermagen / Allso
+ist ouch nit bewert / das Jemand neben
+Christo / moge weder Egemachell noch houpt /
+genempt werden Des namen obererhalb/
+ist ouch gnug gesagt / Diener nit oberer /
+sind / all helgen /
+Hot sye lob das
+r sin warhen / so gewallig vne amen sunden

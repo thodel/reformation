@@ -1,29 +1,28 @@
 # Seite 583
 
-1
-278
-Die funfte Schlusred
-gidius muur,
-Vir dagen nitt, das Christus vnd Melchisedech, In al¬
-len dingen, glichformig sollen zijn, wie man vns geen
-zusthriben welt, Onnders So der tod, mitt, Melchisedoch
-nitt verglicht mag werden, haben wir ein ander opfer
-begort zijwussen, vsz der Christ, des nitt besthach¬
-en Ist, vnd damitt beuelchen wir es der Othrift,
-Meister Vlrich Zwingli
-Dir lassen uns vff die erklärung vor gehort, vnd
-grunde der Obrist angezongt.
+2
+27
+Die fuͤnfer Schuisheid,
+gidis murr¬
+ir Sagen nitt, das Christus vnd, Malchifedich , d b
+londingen, zlichforung goͤllen ein, ie min vne gem
+zuschrilen wlt, Sunders So der tod mitt,/ selchi sedich
+nitt vorglicht nug worden, haben wir ein ander opfer
+begert zuwuͤssen, vsß der Schrift, das nitt beschaͤch¬
+en Jst, vnd dimitt bouelchen wir es der Schrift,
+Dastu derch zimign
+ie lisn ons vff de erklirung vor gebott, vnd
+runde der Schft angezigt
 gidius murer,
-C
-Das Meister Vlrich vns geandtwurt hat, zu dem
-Opruch prouerbiorum viii. fr gye nitt fur vns
-vnd get. ein vflegung aus Xthrift, werden wir Im
-nitt glauben, dann es dat heitter nachemandren be
-griffen, Die wissheit het ofgeopfoot Ire opfer, vnd
-hat vermischt den win u, In keinem uuren opfer
-besthicht die vermischung des wuns, dann allein In
-der wask, darumb go muß die wask ein opfer gun¬
-Meister Vlrich Zwingli,
-Dir haben de hemmen anderen verstand prouerbiorum
-viii. anjongt, dann wie der buchstab gelbs lutet
-vnd der zum vermag, vnd ob glich dasselb ort,
+ie Mristn vlrich vie gnndtwruit bet, zu dem
+Spruch Drouerbierum vnis Er eyr nitt fus vns/
+vnd gt ein vflignug aue Schrift, Crorden wir Jm
+nitt glouben, dann os Stat heitter naͤcheinandren bi //
+grffen, Die wisßhait het vfgrpfrit Jer offer, vnd
+hn vrnnscht den an In konei andem achen
+brschicht dis vermischung das mid dum illein Jn
+die Mass, darumb e: nuͦß die / desß ein opfer ei,
+Mrstet Clrich zwanglr /
+Du giem denumn nndan vnstnd wumemum
+vuij anzoͤcgt, dum nie der buchstab gells luͤtit
+vnd der Jum vermag, vnd ob glich dassall ort,

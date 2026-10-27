@@ -1,32 +1,31 @@
 # Seite 251
 
-t handel
-vnnd ouch een verstand biblisther gsthrifft
-int bij den heiligen lexern suchen, Oves
-ich vndt hie zu schaffen, Harmus brulch
-sich eijsten, diser schlußreden halb, ouch
-min Ingefurte meijningen get dem all
-mechtgen, omen gemeiner heilligen Obgristen
-lichen kirchen was die hier In glouet, halve
-vnd annimpt, begie ich mich ouch Dem
-selben zegeloben
-Wan na verheissen
-Vnnd hebben ist, der geist der warheitt
-spist ouch, In der ersten Cost: zum thuw¬
-am in cap: ein Sull vnd prime veste den
-warheit, Christus hatt ouch matri am
-lesten verheussen, er welle selbs bij der klopen
-sin vns zu dem ende der weld Dormus
-etc. sy nit lat jur gan/ His mit beher ich
-allweg gued van het vnnd erluchung smer
+hdel
+vnnd ouch den verstnd ochlischer gschiss
+nit by den heilligen lerern suͤchen / weis
+ich nudt hie zuͦschaffen / Harumb beuulch
+ich distten / diser schlußreden halb ouch
+nun Ingefuͤrte meynung get dem all //
+mechgen ouchgemenner heiligen Christen /
+lichen kilchen was die hierIn gloubt / haler
+vnd annimpt / begib ich mich ouch dem /
+sellen / zegeleben /
+wan mra verheissen //
+vnnd geben ist / der geist der warheitt /
+syist ouch In der ersten Eeist,: sum thina //
+am iij ͦ cap: ein Bubl vnd grund veste der
+warheit / Christus hatt ouch Matei am
+lesten verheissen / er welle selbs by der klgen
+sin vns zuͦ dem end der weld / Dorumb
+er sy nit lat Jrr gan / Hiemit beger ich
+allweg gnad von got / vnnd erluchung siner /
 Das verlich vns
-pöttlichem warheit
-r
-get allen Amen
-Bexchtoldus
-Meister nieens meint der man werde
-Des wijbs heupt genant Dormis Das
-er Ir oberer sij, ob er sij steen int leben
-Also sollen alle obster
-die mache
-Der kilchen houpter genant werden, antwort
+goͤttlichen warheit
+got allen dimen
+Berchtoldus
+Misteruas nen de mn ared
+Des locbs houpt geuant / ornug doen
+er Iroberer sye / ob er sy staon nit beben /
+Also soͤllen alle obrics
+dig mache /
+Der kilcen heupter geunt wriden / antlont

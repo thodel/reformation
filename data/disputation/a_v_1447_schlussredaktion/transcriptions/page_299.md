@@ -1,31 +1,31 @@
 # Seite 299
 
-Die ander Schlussrede
-Predicanten, In Statt und land, Ouch die Co Ounderbar,
-vff gegenwurtige disputan beschriben sind, beschlichen
-all ander, So vff diser disputat zu disputieren furna¬
-mens waren, Sich In das Chor verfugen, vnnd
-Sich alda, Einer, oder der andern parthy, vnder schriben
-lassen, Vnd sittinck vff der Predicanten parthij
-wil gelerter manner snu, mog der gegen teil bich
-beraten, vnd zwen deij vier oder mer, er kiesen, die
-In Ir aller namen, wider die Schlussreden disputieren
-Hienaeben so mag ouch ein feder vff beiden parthijen
-die Onien Juren, denen Christlich ald muntlich,
-beraten vnd beholfen gnu, vnd harfur bringen, was
-zu erkundung gottlicher warheit, dienstlich Ist¬
-Alles nach vermog vorgesthribuen Mandats der dispu¬
-tation, ff sollen ouch all priester, predicanten, far
-rer vnd Celsorger, von Aatt und land, bisz zu fur
-diser disputay, hie verharren, vnd nitt verrucken
-22
-Demnach hat Niclius Manuel, vogt zu
-Erlach, nachvolgende red gethan
-24
-Tewurdigen gelerten, Is Sol niemand erachten, das
-Vnsere gnadigen hebben, allein begierig eijen, dat
-die fürgetragnen Artickel durch fre predicanten
-sampt der ler So darus flust, erhalten werden /
-Omuer allein Ist In furnamen, die wacheit von
-gottlichem wort zuerforsthen, Ob die Artickel, In
-göttlicher Schrifft bestanden, oder Ir widerspracht
+Dir nider Schlussred
+Predaernten, In Stigt vndlind / Such die be undens
+ocf gutn dsutu schail sind / dahee
+All ander, So vff diser disputach zudiseutieten hied
+mons waͤren, dich Indas Cor verfugen / vnnd
+Duc alli/ furr der der andern parthy vndeishell
+listen Dnd ettuul vff der ditnntripach
+vl gelarter manner sind, mog der gegeutul deb
+bersten vnd Jnon des vae oder mar ekreson, die
+In Jr aler nmnen wider der Schlisseden disrutien
+Hienalen so mg aich ein Jidit vff briden zirtzen
+die Sinen Sturen, denen Schriftlich ald mintluͦb
+bereten vnd beholfen sin, vnd harfuͤr bringen, we
+zu erkundung goͤttlicher wihuit / dienstlich Jst
+Aallas nach vermog ve geschrilnen / nandits der difr:
+tation Eso oyllen ouch all prisster predicantin/ fn
+rer vnd Selsorger, von Statt vnd lind, bisß zu Ind
+diser disputaz, hie verharren / vnd nitt verruͤchen /
+2
+Dimuch het Nichzue Manucl vngt zn
+kilach naͤchvolgende red gethan
+1
+ewyrdigen gelerten, Es O niimand rrachtun, dis
+Vnserr gnadigen herren, illein vigirg Ceen, das
+dir fuͤrgetrignen artilch durch frd Serdianton
+Sampt des ler So dirug flist ochilten warden
+Suͤnder allein Jst Jr zuenamen de nachatt von
+gottlichem wort zietforschen, ze dir Atuclil en
+goͤttlichor Schrifft bistanden / oder Jr nidersprich

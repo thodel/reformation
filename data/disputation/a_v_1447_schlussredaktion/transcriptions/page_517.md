@@ -1,31 +1,31 @@
 # Seite 517
 
-schroffnet, Im Durchgang Des retten Mers
-In spijssing Des himel brots vnd In anndern
-wunder wercken, Durch Moysen verfassen
-soll nun die figur, oder breutung des lebs
-Christi nutzlich oder gutt sin/ wie viel mer
-das wesenn, dass dadurch bientet over denn
+eroffuet Im durchgaucg Das rotten dice
+In Spossing Des himmel brote vnd In anndern /
+wnder wercken / Durch Moysen verfassett
+soll nun die figur / oder bebutung des lybs
+Christ nuͤtlich oder guͦtt sin / wie vill mer
+Das wesenn / Dasß dadnach bedicet werdenn/
 Das Christus nit
-sell, ann Im selber
-allein genossen lijblich aus geist vnd glauben
-sounders ouch gekruyget vnnser sijnde bezalint
-Derglichen ouch werden
-confruchtbar ist
-Dysen spruch/ es ein erklaring ist, die der
-geschrifft also zugeven sin mochte, Durch
-welches löblichs anruren mit byweseneem geist
-die vssetzigen gereiniget worden, Sollt nu des
-lijb oder fleißen, vnmitz sin Das vsz. Dem
-heilligen geist empfangen In Dem alle volkomen,
-heitt der pothen hatt gewont zyn Collossen: ij ca:
-tregt vff Im disen verstand, thut es der
+sell / ann Im selber/
+albein genosen lyblich ane geist vnd glmlenn
+sanders ouch gekluget vnnser sund betrlm
+Derglichen ouch vber
+tonfruchtbar ist
+Disen sprich / es ein erklaͤrung ist Die der
+gschrifft ls zuiggen sin moͤcan / Drch
+ddrikrande zuenden muothaneotsan grest
+die vsßtzigen gereinigotworden / Selt n des
+lyb oder fleish / vnniez sin dae vsß dem
+heilligen geist empfangen / In dem alle volkomen /
+heitt der gotheit hatt gewont zum Collossen / iica
+tregt vff Im disen verstnnd. thuͦt es der
 Das ist so ers In sinem
-niensten geijtluck
-hertzen thut, so ist es gutt vnnd nützlich van
-wie die kunst macht vffgeblasen fur sich selbst
-wer mitt der liebe, so ist sy mitzbar Also
-onch da lijb Christi int allem gecrutziget,
-sonder ouch lijblich genossen mit dem gen.
-niet vinnuijgen sin mag, so viel ist vnser verstand
-bij disen spruch Dan wo Dabe. stund. Das
+noͤnsch gestlich
+hertzen thuͦt / so ist es guͦt vnd nuglic dan
+wie de bunist macht vfsgesrisen fur sichsel
+Aber mitt der lich / so ist sy nuͤchar / Also
+ouch der lyb Christi nit allein getruͤtziget /
+sender ouch byglich genossen / mit dem geisß
+nit vnngt son nuig so vill ist vnser veiseid
+by disen spruch dan̄ wo daby stund das

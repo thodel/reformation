@@ -1,30 +1,30 @@
 # Seite 527
 
-pfarrer v. s. g.
-Ersteren vnsere ingerfurten erklärung werden
-langezoonen wort, mit gegebuer antwort, vmb
-kurtje wiel en bevelchen wirss Een actis vnnd
-Dem Christen licher lässer
-Ecolampadius
-Vix beuelches ouch der kilcken Christi, allen
-Christlichen läspern.
-pfarrer v. s. g.
-Van den dryen artig klen des glaubens Nam¬
-lich das er sy vffgefaren gen humeln, sollen wussen
-alle Christliche hertzen Da Christus Das
-nachtmall hatt Ingesetzt, met den wortenn
-nemend vnnd essene, das ist min lijb, ist er by
-smen Imgern noch vff erden gewesen, vnnd die
-hunelfart, nochmals nit volfurt, Darumb das er
-pen hunell gestigen vss. poteicher krafft, so erss.
-Vor hatt geredet, Imsserblichen leben int zij
-ön wy x vnnd Christus
-eingegen sin kan
-nach gememem vnsrem glouwen. wir bekennen
-In eius sin mit dem vatter, Johannes am Xcqo
-vnnd Im gegeben sin aller gevallt Im Himell
-sollte der nit wijsz vnnd
-vnnd vff erdenn/
-Mitteel, Cvussen, smen lijb mogen mitt hembben
-offt angezognen worvun
-In krafft Dor
+pfarter vn so h
+rstlich vnsere ingefurten erklarung vͤber die
+aigezognen wort / mit gegebner antwurt / vmb
+kuͤrtze willen bevelchen wirs den aclie vnnd
+Dem Christenlicher laͤser
+Ehramedins
+Dir beuelcheig ouch der kilchen (hristu alben/
+Christlichen / laͤsern //
+Pfarrer vnsg./
+Nan den degen arigkeen des gloubens sam /
+lich das er sy vffgefarn gen himeln / soͤlen doussen
+alle Christliche hertzen / Da Christus das
+nachtmall hatt Ingesetzt / mit den wortenn
+nemend vnnd essend das ist nimn lyb / ist er by
+sinen Inngeren noch vff eiden gewesen / vnnd die
+hunerfone nochnls m wfirt Darb d
+gen hmel gesteen vsß goͤtlichr krafft so erss
+vor hatt geredet / Ims sterblichen leben nit zu
+eoye vnnd Christas
+entgegen sin / kan
+nach geneinen vnseren gloͤnben vor beteinen
+In eris sin nit dem vatter / So hannis am x1.
+vnnd Im gegpben sin aller gwallt Im himell
+sollte der nit wyß vnnd
+vnnd vff erdenn /
+Muͤtell wuͤssen / sinen lyb mogen ittheilten
+offt ange zognen woren /
+In brafft der

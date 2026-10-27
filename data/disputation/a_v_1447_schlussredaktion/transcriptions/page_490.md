@@ -1,48 +1,46 @@
 # Seite 490
 
-in the
-mich
-sel gaen
-in the
-darmo
-accums
-Wart In
-Dir
-xx Juny
-et Cvoir
-Darmes
-will
-2 mij
-langt
-g ist wol
-Wax
-„ gefen Cori
-monien
-205
-die vierd schlußred
-angezoigen, vnnd dienet, gar woll zu vßlegung
-Des Ich Im ein exempell gib / 1 Ep: zum Chorin:
-am ej cap: Da paulus gesprochen hatt, Das
-thund so offt Ir trinckent In nuner gedocht
-muß, So er Das harnach, wider erklärt vnd
-Vrsach sagt, spricht er quotie hanque enim Dan
-so offs Ir essoue des brotts vnnd trinckentt
-den koeck verkundent, een toe des hern vnd
-ist Das ouch Im X cap: Der gemellten Epistell
-auch angezeigtt worden, Zu dem das er ver¬
-ment, Das angezogen oock wes van xvii cop:
-genesus, Dient Inen nit zu der sack Da
-stett zum ersten allso, Das ist nun vnnd den
-Hr. Cverdent hebben) zwijstchen mir vnnd vich
-vnd dinem namen nach die Das sich
-Der text vlees vfleitt, so es stett, damit sij sij
-zu einem Zeichen der punct mus zwijstgen
-nur, ende Es sollt aber, ein Jeder verständiger
-Der Da geupt ongen des gunts hatt vss. einem
-ortt der xstchrifft Inn gleichen valen die andern
-Anne darumb soman hie
-lernen vorsten
-Terimonien verglichen vnd Lucas vnd paulus
-welcke doch klarer reden, ußtrucklijck sprechen
-Der keecken sy Das nuw thestament vinne
-Darbij onch sagen, Das thuwe In miner ge¬
+nin
+rer
+on
+wei
+ver
+de
+Die
+che
+de
+vo
+nd
+nist
+iwal
+war
+gegen der
+moͤnien
+206
+Die verd schlußred
+anzesaigen / vnnd dient / gir wol zuͦ vslgguns
+Des Ich Im ein exempell gib / Ep: zum horart
+am vi a a pmaie gesproccen hott / das
+thund so gfft Ir trinckent In miner gedecht //
+nu So er Das harnach wyter erklaͤrt / vnd
+vrsoch sagt / spricht er gnobiechlliz eiim Dan
+so offt ie essend die bratte / vnd tuckent
+Den kean / verbindent den ted dis hern / vnd
+is da ou n en gen ste
+ouch angezeiget wirden / zuͦ dem das er ver //
+meint / Das angezogen ortt vlßs dem xvn cop
+genesus / Dient Inen nit zuͦ der sach / Da/
+stat zu ersten elis / Das ist nun pnid / den
+Ir werdent halben / zwuͤschen mir vnnd uͤch
+vnd dinem homen nach dir / Das sich
+Der teet Ills vffleit / so er sten / dami so sic
+zuͦ einem zeichen der pundtnub zeuͤschen
+mor Es sollt aber / ein Jeder verstaͤndiger
+der da geupt ougen / des gniits hatt / vsß einem
+ortt der gschrifft Inn glichen valen die andern
+vnnd darumb soman hie
+lernen versten /
+Cerinomen verglichet / vnd Lucas vnd paulus
+welchy doch kraͤrer reden / vstrucklich sprechen
+Der kelch sy das nuͤwe thestoment / vnnd
+Darby ouch sagen / Das thuͦnd In miner ge //

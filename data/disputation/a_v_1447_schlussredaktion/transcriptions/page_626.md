@@ -1,36 +1,34 @@
 # Seite 626
 
-264
-.
-Mais il
-Die baechste Ochlusseredi
-Die Christus Ist allein fur uns gestorben, Also
-M
-Sol Er ein einiger mittler vnd fursprach, zwusthen
-gott dem vatter, vnd vns gloúbigen, angeruft werden,
-Déma
-Oesthalb all ander mitter vnd fürspraethen vsserthalb
-diser in Zitt anzuruffen, von vns, ane grund der schrift
-6m
-Hofgeworffenn, Anna Petri
-lbussaad
-der vi.
-Erclaring
-Meister frans kolb,
-rima Petri. iio. capite Christus fst der, der kein
-gund nie gethan het, vnd Ist In ginem mund, de¬
-hem betrug nie erfunden, Carumb sagt Fr. fo:
-hamus xiiii. Im nochtmal, Der fuijst diser welt
-ware komende, Er hätte aber mit an Jm., de hem vrsach
-des todes, des sich kein heilig nie hat mogen be:
-rumen, ad fphesios. ii. wann von natur waren
-wie all kinder des Zorns, Si haben all, Sich mussen
-bekennen, vnd opraechen, vergib vns unser Schuld,
-Als wir vergassen vnsern Othuldnern, Darumb
-Christus allein, vnd niemand anders, für vns ge¬
-storben Ist. Oesthalb fr allein ein mittler zwusthen
-gott vnd dem mentschen Ist, Christus fesus, gott
-vnd mentsthi prima ad Chimotheum. iio. Durch
-welichen wir allein mogen komen zu dem vatter,
-Johannis. viii. Ad Ephesios. ii.o Darumb wir, In
-allen vnsern anfachtungen, vnd beschwerden, zu
+26
+1
+ie batsstr Schluͤssred,
+Christus Ist illai fur vns gestuben/ Also
+bol Er ein einiger mitlir vnd fursprich, zwuschen
+gitt dem vetter , vnd vns gloubigen, angerft werden,
+Prune
+Deßhall all ander mitler vnd fursprachen vsserthalb
+dichrem gitt anten vn vne ann gund die Schrift
+Ocr
+hewriffum, Snundatrn
+thlußrd
+v
+Erlarneg
+Caister fum kill/
+aua Dar / isͦ iete Christus est der, di kin
+sund ne gethan bitt Ind Jst Jt pinem maͤnd, dr¬
+hem betrug ins efuͤnden, Darumb zigt hy to¬/
+hamiz vij Jm mchtun,/ dar tust dsir ngdt
+ware Eamen, Er geltr aler mit ans Ji, dehein vrsach
+das todis, die sich kein hetlig mie hat mygen be
+rumen, ad Echesios ij wann von netur waren
+wir all kindie des zus, Si hebon all Sich muͦssen
+bekrimen vnd Sprachen / vregil vns vnser Schulo¬
+Ale veie ven geken vnsern Schuͤldnren, Daruub
+Christus alkein / vnd nirmand anders fue vis gr¬
+stolben Est Dshall Er allein ein mittler zruschen
+gtt enddem montschen Jst Cristin Jifur gott
+vnd montsch, prina ad Mhiotheumiij. Durch
+welichen wir allein magen keinen zu dem vatter,
+Ergnunt vuij Ad Echefulii: Daruunb wir, Jn
+allen vnsem anfachtungen / vnd beschniden, zu

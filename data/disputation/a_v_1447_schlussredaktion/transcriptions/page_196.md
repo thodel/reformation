@@ -1,33 +1,33 @@
 # Seite 196
 
-40
-Die erst Schlusred
-77
-siend der Kirchen, Bringent klare gschrifft
-das ein annder houpt der kilchen sie wellichs
-se lebendig macht, vnnd in heillam sie
-22
-Swinghij
-H beger ein weinig zu erklaring wie
-Christus Das brecht sie, vnnd wie die
-postell Das biecht sigende zereden, Christus
-ist, Das war wesenlich liecht, Johannis
-vnnd alles brecht Das die
-rap:
-Niemandt
-Apostele haben gipt er Inen/
-lieber her pfarrer ein Dispill, Die Sonn
-piet den tag Durch Das fenster har Inn
-vnd ist aber der tag oder liecht, met zit
-fur sich selbs, sonders so bald die sonn nit
-luchtet, So ist der tag numen Also ouch
-Die Oposcell, habene so vill lechtes, so vill
-Inen Die Sonn der gerechtigkeit Christus
-gebt, End do die Sonn mit luchtet, Da
-ist kem lecht vnd ist Christus, also allein das
-lecht. Das laben vnnd die krafft Die
-alle menschen erluchtet, labeweg macht
-vnd behalllet
-vnd sinde die apostell
-erluchte lubendig gemacht glder der klechen
-vnd uit houpter, sag ick lieber her pfacret
+1
+Die erst Schlis nad
+1
+end der kilchen / Brigent kere gschrifft
+Das ein annder houpt Der kilchen sye wellachs
+sy lebendig macht / vnnd Ir heilland sie //
+3
+einbe
+Ih beger ein wenng zuͦ erllaͤrung wi/
+Christus Das liecht sie/ vnnd wie die //
+Apostell das biecht sigend zereden / Christis
+is Das war westulich liecht / Johunis
+vnnd alles liecht Das die
+cap:
+Neinend
+Apostell haben gipt er Inen /
+lieber her pfarter ein Bispill / Die Sonn
+gitt den tag durch das fenster harInn //
+vnd ist aber der tag oder liecht / ntzit
+fuͤr soch selbs / sonders so bald die Sonn nit
+luchtet / So ist der tag nimen / Also ouch
+die wostell / habend / so vill liechtes / so vill
+Inen die Sonn der gerechtigkeit Christus/
+gibt / vnd do die Sonn nit lichtet, da/
+ist kein liecht / vnd ist Christus / also / allein das
+liecht Das laͤben vnnd die krafft / die
+alls moͤnschen erluchtet / laͤbendig macht /
+vnd behalltet //
+vnd sind die apostell
+erluchte laͤbendig gemacht glider der kilchen
+vnd nit hoͤupter / sag ich lieber Herpsarren

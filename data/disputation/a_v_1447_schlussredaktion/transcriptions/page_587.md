@@ -1,32 +1,32 @@
 # Seite 587
 
-Die funfte Ochlussredi
-Hebreern, Als denen, So des christlichen glaubens noch
-nitt vollomenlich bericht, geschriben, das vns Christen,
-disz Opfer Christus gnugsam sije, von wagen, das vns
-nitt witter not gye, bock, kebber is, zu opfren, Ounder
-das wir van die Statt der alten opfern, Christum das
-oberst opfer haben, der Richtbarlich, In einem totdlich:
-en lidlichen lib, ein mal, für alles mentsthlich ge¬
-schlecht, am evitz vfgeopfrot Ist worden, Carnon
-zij den Hebreern nu viiij. und x. Christus sijn
-ein mal Ingangen, durch syn eijgen blut, In das hei¬
-ligthumbus, Er sije ein mal geopfrot, Er habe mitt
-einem opfer In die ewikrit, vollendot die geheiligo¬
-ten, welche wort aber nitt abthund, die Iegen behoorten
-gestalt des opfers, So taglich In der Mass beschicht,
-Vann Paulus Ochribt hie, wie Christus ein mal¬
-von unser gund wagen gestorben gije, vnd am Crúz
-in blut vergossen, sich halbs vfgeopfrot, gott ijnem
-hunelsthen vatter, wie ad Romanos. vj o. Cristus
-Ist ein mal gestorben, von der sund wegenn u,
-Was ouch gegen geworften Ist, Christus hab
-gung gethan, fur aller welt zunde, Ist darumb nitt
-gnugt, das wir nijt tun sollen, oder gar foij Exen¬
-dienst wurde niemand verdamt, Das liden Chri¬
-stifft volkomen ging, für aller welt sund, Ja
-dem, der sich des teilhaftig macht, als In der dritten
-Iblustred, gnugsam amoigt Ist, Das ander op¬
-fer wer, Ist geistlich, dann wie Christus, nach
-der Ordnung Melchisedech, Ist ein priester In die
-ewikert, Also Ist von noten, das Er ouch In die
+Die fuͤnftr Schlussred¬
+treberren, Als denan / Sdas christlichen glubins naad
+nitt vollemenlich bericht, geschriben, das vns Christen,
+diß Opfer Christus gmigsam eir, von waͤgen, das vns
+nitt witter not eye, boͤch, kelber d zuopften, Sunder
+das wir andie Statt der alten opfeen, Christum das
+oberst opfer haben, der Sichtharlich/ In einem totdlich¬
+en lidlichen lib, ein mal, fur alles mentschlich Jr¬
+schlecht, am crucz vfgeopfret Ist worden, Daruon
+si den Rhabrieen un vnj vnd x. Christus eir
+ein mil Engengen, durch ein eigen blut, Endas hei //
+tthinndich err ein mal guopfit Er hile nitt
+einem opfer In die ewikrit vollendet die gehailige ¬
+ten welche wort aber nitt abthund, die Jenz Jehaͤrten
+gestalt die opfiet,/ So taglich Ender Maͤsß leschicht,
+Dann Paulus Schribt hie, wie Christus ein mal,
+von vnser sund wagen gestorben sxo vnd am Ceicz
+sin llit veegessen, Sich gilbe huͦpfrit, gott emnem
+hunebschen vaetter , wir ad Jo manor viͦ Cristus
+ist ein mal gestorben, von der suͤnd wigen u,
+Das ouch gegen geworffen Jst Christun hab
+gnt gechan frraller nat sund istdrruml antt
+nnit die wir nit timn bilken,/ dder ger fcg Ssan,
+Bunst winde niomnd vordanmit, Die lidhen Chri
+sti ist volloman gnuig fur alir matt einnd / t.
+dem der sich das trilhaftig macht, Als In der dretten
+Schlusnd ggsin emaigt ist, Dar nndir op¬
+fr i ist gnstlich, dum wir Christus mich
+dar didnung elch sodich / ist ein prnister en di
+wwibrit, Also Jst von noten, das Er ouch Jn die

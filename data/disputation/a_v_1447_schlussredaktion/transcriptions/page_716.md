@@ -1,33 +1,31 @@
 # Seite 716
 
-1827.
-305
-Die viii. Schluskredi
-Vor diser loblichen versambuug, das die zechen wtickel,
-oder thlussreden, Christoulich, In gottlicher vnd Gib¬
-listher Schrift gegrundt, vnd mitt derselben, er hal¬
-ten vnd bewart, Eeren mith willentlich vnd geyn
-vndersthriben, hiemitt wil Ich mich ouch protestiert
-haben, Das Ich vor diser christenlichen versambuug
-ersthinen bin, muier ler, die den zahen Artiellen oben
-gemelt, gemäss vnd glichförmig tst, mencklichem vr:
-sach anzijzoigen, vnd In sunderheit denen, So mich
-In muier herren hatt van Wieln, lugen prediger vnd
-gelijbe bruchig gestholten, andtwurt zu gaben, wie
-Ich mich des zu Wieln, offenlich im Cantzel, Om:
-tag nach Circumcisionis, ergaben, vnd sicher vff
-dise gegenwintige disputation, geladen hab, Oero halb
-Ist Iemand hie van Gieln, oder andersthwe haer,
-Der mich miner ter und handlung, anziechen vnd
-straffen wil, vnd befunden diser Jegigen Oblusb:
-redhalb, dem wil Ich hie andtwurt gabenn
-Johannes bijchstab
-14
-In dem namen, der heiligen Drifaltikeit, Amen,
-Vie heilig Er, wirdt weder Im alten noch nuwen
-Testament, de hemem stand verbotten, dann allein
-dem, der die Im datos verbijtet, Vnd das der, So die
-Im sibbs verbijtot, In verbieten solle bliben, wil Ich
-een kurz Exempel, vss. der gottlichen Christ har¬
-in furen, Octorum v. dat geschriben, das ma:
-en
+2
+30
+eevnn Cchlisend /
+vir difot lollichen versamlung das dir zechen articlil
+oder Schluͤssreden, Christenlich, En goͤttlicher vnd Rib
+lischer Schrift gegruͤndt, vnd mitt dersellen erhal¬
+teind bewart / Dere mich willenklich vnd grrn
+vnderschrilen, Crrntt wil Ich mich ouch protrstiert
+habin, Das Ich vor diser christanlchen verfamlung
+risthmen kin muee lir der den zichen duticllon oben
+gemalt geuusß vnd flich fienig Est / mancllichem vr ¬
+Eihanzeuzuigni / rnden fundichit denen / do nith
+zu mnuud berron Statt von Riueln luigenprdigit vnd
+telub bruchit gischilten / andtmiet sugilm, w
+Ih ninh de ze bran, iffrulich in Cimzlb / Su
+it n nn sei nlen n en t
+den Damba
+est Jrind her vn Riden eder anderschen har¬/
+Die unch nnner dew vnd eindlung , anzachen vnd
+Striffin mil, vnd lefunder diser Jeigen Schlu ss.
+redhalb, dem wil Ich hie andtwuͤrt gabenn
+frhamuls buchstab
+16
+sndem nnan die huligen dnfileikrit,/ amen
+Eistam ent dcheinom Stand verlitten,/ dan alei
+dem der der semn Dlbe verlitet, vnd das der, So die
+In salbe vrlutot / Emn vrckiten bille llilin / vl cch
+miii kunz Eremel vs de Jolichen Schrift har¬
+in fuͤren / Actorum v. Stat gescheiben, dis ma /

@@ -1,33 +1,32 @@
 # Seite 285
 
-4.
-1
-15
-Die ander Schlusred
-Martinus buijer
-Dise Jurid Ist zum teil wider nachtende Oblussreden
-da dann, wider das wdicht opfer eer 11. st, vnd fleisch
-lichen Irthum van liblicher gegenwurtikeit Christi
-gesagt Ist, So Ist euch In vorganden andtwurten an¬
-zorgt, wie witt vie kilch gottes foren moge, Er Ist
-gewesen die zitt der Bluitheit, fez vil far, vss recht:
-ter ordnung gottes, Darmus hat aber gott, die ouien
-entlich nitt verlassen, Dann nitt moglich gewasenn,
-das die fewelten In Jethums belieben, Nathei am¬
-xxiiij. Darrij So haben oft, Ettliche glieder der klech¬
-en nitt gewust, das doch ander wol gewuft haben
-vnd Ist also die warheit bij der kilchen allwag blibenn,
-aber nitt gleicher mass by allen glidern der kilchen,
-vnd hitt vijch, das Ir vff der ban bliben, vnd vff das
-vmbsthweiften, bezug Ich mich, nitt mer zuandt:
-pourtant
-Johannes buchstab,
-Der Marti buijer, Ich sag also, Die kilch ditt gott
-vnd giner widigen muter, vil wort zu, die In
-Biblischen Chriften nitt vergriffen vind, gl. oub
-danocht, vnser gegenparthij verwurfte dieselben nitt
-Als Pater Jngenitus, patri coequalis, Opivitus Canc:
-tus is vtroque procedens, Brata virgo Maria dei ge¬
-intrix, Intelligendo de verginitate Ipsius, Des:
-glicken fijct man den Omintag, ouch ander Apostel
-vnd heiligen tag, Echt danocht die wille mij daruon¬
+3
+16
+Die ander Schluͤssred,
+Martinus buer
+Jnnd ist zun cal nd giegnde Seris d
+Do dum / nuder dis erdicht opfer der Nass end feidd
+lichen hithum von liblicher geganwuͤrtikeit Christi
+grsuzt ist do Jstauch en vorguͤnden andtwuͤrten an
+zeigt nie witt die kilch gobtes Jrren mige, Eo Ist
+tewrisen dr zitt der blurtheit, tey vil tar vßß rich
+ter ordnung gotteb, Darumb hat aber gott / der gurt
+ontlich nitt verlaͤssen, dann nett moglich genaͤsem /
+das die Erwelten In Jrthumb beliben, Mathri ar
+xin . Darzu Sa haben oft Ettliche gider der Eon
+en nitt gemͤst, das doch ander wil gewust haben
+vnd Jst also die warhait by der kilchen allirag llbemn /
+aber natt glicher maͤsß gh allen glidern der kilchen/
+vnd biͤt uch, das sIr vff dir bin bliben, vnd vff das
+vmschnriffen, bzug Ich mich / nit mir zuandt /
+wurtem
+trhanns bucestol
+Der rats buzeeice big als Die lilih get gat
+vnd einer wirdigen muter vil wott zy / de tn
+Ellischen Schriften nitt vorgriffen vind, glaub
+danocht vnser gegenparthy vorwaͤfte diesellen n
+Als Dtter Engentur patdd rezualie/ Spiritus bent
+tus ab vtrocud pratrdeng, Bretn viege Maria du ga //
+intru Intell gende dvirgimitite Jchus, dis
+glichen fyrit nn den Suntag / ouch inder wist
+vnd heilligen tag, Siczt daricht der Billt nit derie /

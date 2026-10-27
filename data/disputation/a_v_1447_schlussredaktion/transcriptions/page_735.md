@@ -1,30 +1,30 @@
 # Seite 735
 
-Die viii. Chlussredi
-derlich mitt frufel vnd der vnwarheit, angetastot ha¬
-ben, muntlich, vnd oft das aller kurgost abzulei¬
-nen, Die gunst warlich niet wert Ime, das Oi schrift¬
-lich verandtwurt, vnd mine hebben, oder Ich mitt
-Othriben, vnd ander mitt lijsen, deshalb bevrugt wer¬
-den, Uijttdester weniger, wo ouch gunst Je¬
-mand, vnd In sunderheit etwar von Costencij, hie
-zugegen ware, der da vermeindte, das Ich, oder die
-andren mine geliebten bruder, vnd mitt arbeitter Im
-wort zu Costenn, etwas gelert oder gepredigt hetten
-der Jegund hie gedisputierten Artickel hebben, das
-unchristenlich, und een wort gottes widrig ware,
-wie mich dann, Peltzam vnbillich reden, So ettlich
-hie vsgiessen, glaublich inlangen) (Een oder die sel¬
-bigen bitt sch, vmb gottes fr, und bruderlicher liebe
-willen, Colichs hie In anhoren der gelerten vnnd
-hoch verstandigen, harfür zutragen, wil Ich dar¬
-umb, mitt gotts hilft, vnd verwilligung der fr:
-wirdigen herren Presidenten, feuntliche bruderliche,
-vnd In allweg Christenliche andtwurt gabenn, Oess
-Ich mich ouch also hiemitt vor aller mencklichem hoe
-zugegen, bezugt vnd protestiert wil haben, Damitt
-Tich nachmals niemand gijden moge, das Er mich
-zu recht vertigen hie ersthinen, vnd aber der man¬
-gel. in mir gewasen zije, Dann Ich innes glou¬
-bens vnd levens, affweg vnd einem Jeden rechnung
-zugaben, bereit vnd willig bin,
+win Schrissnd
+dallich / milt frefil vnd dar vnwachait angeatisten her
+ben, muntlich, vnd vff das aller kuͤrepst abuͤlei
+non, Die cmust warlich nit nirt sind, das Si ochrift
+lich verandtwuit / vnd mne herren / oder Ich mit
+Schreben, vnd ander mitt laͤsen, deschalb bemugt wer¬
+den, Muttdester maniger, wo ouch eist Jr¬
+mand, vnd Jn fuͤndechrit etwraxten Cstenc, hir
+zugeten wae, der de vermeindtr, das Ich Oder die
+andren mine geliebten beuder, vnd mittarlettter stm
+wort In Costenc / eticas gelert oder geprediget hetten
+dee Jrund zen gedchrutterten Actickil hilber, das
+vnchrisfrulich, vnd demwort gottet widrig waͤrr,
+wie mich dann, balczim vnbillich reden, So ottlich
+hi vßgiessen, gloublich mlangen Den oder dir sel ¬
+bigen bitt Ech, umb gottes Er, vnd bruderlicher liele
+willen, Soliche he Jn mnhoͤren der gelerten vnnd
+hoch verstaͤndegen, harfuͤr zuͤtragen, wil Ich dar¬
+nub mittt gots hilft, vnd verwillignich der Er¬
+wirdigen herren Presidenten, fountlichr bruderlicht/
+vnd Ju beruͦg Cristenliche andenurt guͦbenn, Dist
+fch mich ouch alfo hiemitt vor alleranencklichem hir
+eigiten lopnget vnd Jetostrert nie hlrn/ Damtt
+Sich nichmals niemand guden aogr, das Er mich
+zu recht vortigen her eeschinen, vnd aler dar man¬
+Hre in mir Jenaͤsen sy, Dan Ich miter glau/
+beus vnd lerens, alliag vnd einem Jeden rechnung
+zugaben, bereit vnd anlig kin/

@@ -1,33 +1,32 @@
 # Seite 331
 
-4
-94
-Aa
-Die dritt Schlusred,
-gestrags wider die wort Christi lutet, Oo fr. gpricht
-Ucthei am xii. von einem Jettichen vinnen wort
-das die menschen reden, werden Oi rechnung daruon
-gaben, Petrus prima, am. iiii. cap. Co der geracht
-kunn behalten wirdt, wo werden dann die bosshof¬
-tigen, vnd die sunder, bliben oder erschinen, nier¬
-umb diewil wir min, von einem feden vnmugen wort,
-mussen rechnung guben, vnd der gericht schwerbich
-behalten wirdt, wie werdt es dann dem gunder gan¬
-Co. Ructus Paulus Opricht In der ersten zu den Co¬
-rinthern am. vi. Ir sollen nitt Jaren, weder die hu¬
-rer, noch ander offenlich gundert is, werden das rich
-der himet besicher, wol Ist es war, So finer In ei¬
-nem unglauben bisher gelibt, den glauben mittsampt
-dem touff, an sich name, wurden Im zin Junij, so
-Er vorhar gethan, mit schaden, wo aber der mensch
-nach dem touff, In hoptsund valt, muss Er sich
-gegen gott, mitt bicht, vuw, penitenz, oder guten
-wercken, versunen, & mist wirdt stuij. nach sinen weet
-ken gaben, vnd Im der tod. Christi, nitt mr. mijn
-sin, diewil fo In hopt sijnden verharret,
-Martinus buijer
-Das der dag ewig taben hab, vnd Impt. also de hein
-zijnd, Entrich his Ich gesagt, Ochaden moge, het
-Christus gults geredt, nittdestweninger muß rachen
-schaft gaben werden, für een todes vinnitzes wort,
-vnd was vnrecht st. wer in der Rechnung,
+1
+60
+Die dutt Schlussnd /
+gestrage wider die nott Christi lutet So Er gpaht
+Netheiam xij ͦ von einem Jetlichen vnnien wort
+das die monschen reden, werden Sirechnuncg darue
+gaͤben, Ietruͤz prima / am iiij ͦ cap. So der goracht
+kum behalten wirdt, wo werden dum die boshch
+Irgen, vnd die Suͤnder lliben oder erschinen, Hier /
+aums diewil wir min von ainem zeden vnmicen woet //
+muͦssen rechhnung gaͤben, vnd der geraͤcht Schwarlich
+behalten wirdt, we wirdt eg dann dem günder gm,/
+V Bintus famlug Spricht In dr erstin zu den (.
+rutthern am vj / Ir soͤllen nitt Jrren, wider di hui/
+rer, noch ander offenlich zunderth, werden das rich
+der hinel besiczen wol Jst es war, So finer In ii/
+nom vnglauben bischat gelibt den gliulen motzsung
+dem touff e rich name, wurden Imn sin zund g/
+Er verhar gethan,/ nit chaden wo aber der monsch
+nich dem teuff, In heptfund vilt, miß er dich
+Iigen gett mitt bicht ru pruͤteinz oder guten /
+nucken versunen / zunst virdt s emnich suen won
+fin den n h ist net mir min
+sin, derwil ho Jn hoptfuͤnden verharrot /
+Nartinug bucyr¬
+as dar dag awcg lalon hab / vnd In als dchem
+zuͤnd, Eutlich hab Ich gesigt, Schaiden nigge, hat
+Christing gils goredt mietdistworger mißrichen
+schaft galen worden, fuͤr ein Jrdes vnuiczes wort
+vnd nas vnracht Est, Alor En der lachnng

@@ -1,32 +1,31 @@
 # Seite 598
 
-185
-zij
-252
-Die funfte Schlussvedt
-kern, Hie mag mijt anders, nach der uslegung der
-gottlichen lerer, verstanden werden, dann das rein
-opfer, der zart freylichnam vnsers herren Jesu Chri¬
-sti, In dem Ampt der heiligen Miss
+55
+22
+Di fuͤnfer Schlussred
+lien, gr mag nitandars, nich dn fligucg der
+gotflichen larir,/ gerstanden worden, dann das gein
+opfer, der zirt fronlichnem vnsers hevren Jesu Chri¬
+sti / In dem Aamipt der hetligen, Nass
 14
-Martinus buijer
-noch hulle Othrift, vnser wider parth vnüberwindt:
-lich Ist bewart, das die Masz. dhein opfer zin mag,
-darumb So wirdt disz Ort Malachie, So von einem
-reinen und angenamen opfer gottes redt, In de¬
-heinen wijg verstanden werden,
-gidius murer
-122
-zalachias der Prophet, redt hie nitt von Innerlichem
-Opfer, dann worumb, Er hat vormals geredt,
-von dem vsserlichen opfer der Juden, dannathin go
-Oegt Er ein opfer, das an die statt zal komen, der
-opter der Juden, das Ist anders nurzit gesin, als
-bis har diser Prophet Ist voorss. gelegt worden, dann
-das Rein opfer, wie vormals gesagt Ist,
-Martinus buzer,
-Is Ist vor gesagt, die wil die Mijssz de hein opfer sin
-kan, wie vsz. Paulo überflijssig bewart Ist, So
-mag diszort, von der Mafs. nitt verstanden wer¬
-den, Es lege is van der Missz. vs. glech werda
-welle
+Martinuis luczer¬
+uich erbri dcerift risa andergarth richennidt /
+lich Jst bewaͤrt, das die, Maͤsß Schein opfer sin mag,
+darumb So wirdt diß det / Slachir, So vm einem
+reien vnd angenanen opfer gottes redt, In de¬
+heinen wig verstanden werden,
+gnduis murer,
+27
+Mlichne der Erachet, rrdt her nit vn Jnnalichem
+Opfer, dann worumd, Er hat vormals geredt,
+ven dem vsserlichen opfer der fuden, damthin go/
+degt Er ein opferi das an di Stitt gil kennon dar
+opfer dar fuden, das Ist anders nitzit gesin, Als
+eischar diser Prophit ist ißglligt vnden, dann
+das Sein opfer, wie vembs Jesigt Ist,
+Mattinus liczer¬
+Ist vn gesagt deml de usß dchrn apfie ein
+Ran, wic vsß Paulo vlecflusseg bewaͤrt Jst, So
+mag diß art, von der Masß nitt verstanden wer¬
+den, Eolege Es von der Naͤsß vsß, gloch wer di
+welle,

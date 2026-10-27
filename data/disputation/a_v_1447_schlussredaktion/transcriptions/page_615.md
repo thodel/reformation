@@ -1,33 +1,33 @@
 # Seite 615
 
-Maas
-C
-der diebstal
-Die funfte Schlusbredi
-Jott Oije, van wagen des zusages, Ceremonien, Crug¬
-en, kleidungen, personen cij, van Ich mitt Othrift,
-noch nitt gnugsam von Jan vnderricht, Der kost:
-lichen Masß gewander halb, haben wir glich formige
-vor bedutnis In gescht, Als Exodi. xxviii. xxxv.
-xxxviiijo. Und wie Maria magdalena, den glou¬
-ben In Christum, mitt osswandigen Sichtbaren
-wercken bestattot het, luce vij o. Also mag ouch
-ein Jetticher christ, nach sniem willen, gott mitt
-vss. wendigen vnigen, gaben und ceremonien, dienen
-wie wol harum zu zitten, gross missbruch geubt
-werden Oer ounden halb. vnd missbruchen, so van
-Im witter Ingefuyt, begaende Ich nitt zu beschienen,
-Sunder Org Ich, das wir vil vnfrigs daruon haben 1
-wann teremie v. geschriben stat, vnser vnnd
-haben verhindrot die guten ding van uns, Eefs:
-glichen Osee. wije. Es Ist de hem warheit, de hem barm
-herzikeit, de hem wussen gottes, In dem ertrich,
-Der flijch, die luguen, der todstblag, der februch,
-Ende harin geflossen, vnd hat ein blut, das ander
-erreicht, vnd von des wagen wirdt weinen das
-ertrich, vnd wirdt bekrauckt ein getlicher, der dar:
-min wonen, darus heitter volgot, das wie von gun¬
-den und misschrijchen wagen, vnruwen hand,
-Berchtoldus Haller,
-Caulus zu den Balathern am. v. ermant vns, das
-wir bestandig bliben sijder foijheit, damitt vns
+Das
+2
+dir dalstil
+Dir fuͤnfei Sthlussred /
+gnt Syr vo wigen die zusiges, Cromomen, uin /
+en, kleidungen persinen ds in Ich mitt Schrift
+noch nitt gnigsam von Im vnderricht, Der kast¬
+lichen Maͤssgewanderhalb, haben mii glichforunge
+vor beduͤtins Si gesezt / Als Erodi xxviij.ͦ xxxv
+xxxiiij. vnd wie Mria magdalena, den glou¬/
+ben In Christum, mitt vsswandigen Sichtlaron
+worchen bistattet het, mer vij : also mag ouch
+ein Jotlicher christ, nich oniem willen, Jott mitt
+vsfwondi gen dingen, gaben vnd rremomen, Dienen,
+wer wol harum zu zitten, grosß misßbruͤch geult
+worden Der Suͤndenhalb vnd missbruchen / So von
+Im nitter Jngefuͤrt, legar Ich nitt zu beschiemon,
+Sunder Sigt Ich, das wie vel vnfuge daruon haben,
+wunn Jrnonnd v. geschriben Stat vnseir Sund
+haben vochendret der guten ding von vns, Das
+heichen Sseruͤm / Es Jst dhri nrichat degem lim
+nit digem wusten gatie / In dem aitlich¬
+de ln e on ie
+vnd enn gehlissen vnd eit ru llit das ander //
+onracht, vnd vondis nigen wirdt wamen das
+itucht vnd nnidt grtrncet un Jotlichn , dae die /
+nun drenen, darut hutter volget, das nie von gum/
+dan vnd nnusbenchen wrigen, nrumen hand¬
+Carchtoldus haller,
+Daulus I den Calechern am v ormant vns, das
+wie bestandig lliben sIn der hryheit, damitt vns

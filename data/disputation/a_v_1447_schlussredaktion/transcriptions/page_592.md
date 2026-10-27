@@ -1,32 +1,32 @@
 # Seite 592
 
-Danr Jans
+Dend
 2
-249
-Die fünfte Schluskredi
-xijo. das das Osterlams geopfert, vnd demnach geas¬
-sen ward, So min Christus, der das recht Osterlamb
-Ist, Opricht Paulus, Nachdem alten het Ingesagt das
-muw, vnd Pagt, Cas trind In muier gedachtenis,
-was hat er Inen anders beuolchenn, dann das die
-alten gethan habben, das Ist opfern vnd messen, wie dann
-euch nach der Ordnung Molchisedoch, aus zweifel,
-Christus In sinem nachtmal erfült hat,
-Martinus burger,
+27
+Deir funfer Sclushred/
+xij: das das Osterlamb gopfiet, vnd demnach gris//
+fon ward, So min Christug der das rocht osterlamb
+Ist Opricht Paulus, Nach dem alfen het Jngesacht das
+min, vnd Sagt, Das tund In miner gedaͤchtnis,
+was hat Er Inen anders bevolchenn , dann das die
+efrngechen uten, das ist ofern vnd massen wir dum
+ouch nach der Ordnung, elchisedech, aue zwitel,
+Christus In ganem nachtmal erfult heatt,/
+Hartinus kucer
 22
-Des tods Christi gedencken, vnd fin danck sagen,
-heist Jun nitt wider ufopfren, vnd vff vnsern
-Pilogissimum, haben wie noch de hem andtwint,
-wie man des lidens Christi, durch den glauben, vnd
-nitt die wass, teilhaftig werden muss, Ist bij
-dem dritten Artickel, gnugsam erklart,
-Egidius muwer
-Die wider gedachtens Christi, Ains lidens vnd
-sterbens, mag genant werden nach der 6th vist,
-Een taglich opfer, Oann wiewol es nitt dat mitt
-vfgetruckten worten, Im heiligen Fuangelio, oder
-In andren Schriften, te sollen Christum vfopfern,
-In der Massen, So haben wir doch des gute zu guis,
-In den geschichten der Apostlen, Am xiii. capitel
-dat also, Es sind ettlich gesin In der kilcken zu
-Anthochia u, vnd zo dieselbigen geopfrot hand gott
+ie tde Christi gederelen / vnd Jn damk sigen ,
+heist Jnn nitt widerufoffren vnd vff vnsern
+Oilgesmnm, haben wir nich dihein andtnuct
+Wie man des lidens Christi, durch den glauben, vnd
+nitt die Mass trilheftig werden muͤss, tst/
+dem drcten artickel, gmigsum eellirt/
+guidris mier¬
+ie nnder gedechtnit Cristi, Sins lidine vnd
+starkens, mag grnant worden michdir Schritt,
+etch Da maereit det nitt
+rhetruten wurten sein hal gen funngeho / der
+en nndern Schriften, Jr sillen Christum ifipfion,
+Inder Maͤsß, So haben wir doch dis gutr zugnis¬
+Enden geschichten die Apistlen / Im xij . capittel
+Stat also/ Es sind ettlich gesin In der kilchen zu
+Anthaochian, vnd so dieselbigen geopfret hand gott

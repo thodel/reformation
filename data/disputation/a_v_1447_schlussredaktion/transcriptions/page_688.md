@@ -1,37 +1,34 @@
 # Seite 688
 
-Kneiffer
-n, denen
-Johannes
-Comte même
-Litt
-digot
-of the
-293
-Die vii. Chlusrud
-haftiger knecht, Ich hab dir alle din schuld, nachgelas¬
-sen, diewil du mich batest, Soltest du dich dann
-nitt ouch erbremen, wer dinen mittknecht, wie Ich
-mich din erbarmot hab, vnd demnach der Richter dief
-werste, In den ewigen kerker, Also mitt der glich¬
-nus des Rechten, va der Schuldner erforgen muß
-ewige vauctnis, freundt vns der herr, das wir
-uns vereinbaren, mitt unserm nächsten, damitt
-das wir nitt, den ewigen zorn vnd Kraft verfallen,
-Vnd wirdt hie ganz mit geredt vom fijgfur¬
-Cunders vil mer darwider,
-Johannes buchstab,
-Die gnug Is dargethan etc: das de hein fagfur sijt
-Beuilth Ichs dem Lisser, frag hern Gerchtoldenn
-hiebij, Ob diser Spruch Mathei. v. allein von den
-labendigen Erg, oder van den toeten,
-Berchtoldus Haller,
-Allein van den libenden, wie der ermassen wirdt,
-Luce xijo. So du aber mitt dinem widersacher,
-fur den fürsten Gast is, Ir huchler uijt
-and E II
-Johannes buchstab,
-Dise wort Christi, vindem glichnus, darumb Tij
-2.
-nitt allein vff die labenden dienen, Qunders ouch
-vff die abgestorbuen, dann wie Er hie sagt von der
+end
+mden
+n
+ende
+g
+20
+Dire vij Schlussend.
+hiftiger furcht, Ich hab dir alledin Schuld naͤchgilas
+sen, diewil du mich betest, Soltest da dich dann
+nitt ouch erbarmen, uͤber dinen mittenecht, wie Ech
+mich din erbarmet hab / vnd demnach der Jichter dich
+werffe, In den ewigen krrker, Also mitt der glich¬
+mig des Rechten, da dor Zthuldner ersorgen muͤß
+wige vauclinz, Erindt vns der herr, das wir
+vns verrinbaren, mitt vnserm naͤchsten, damtt
+das wir nitt, den einigen zorn vnd Striff verfallen,
+Vnd wirdt hie ganz nut geredt vom tigfur,
+Suͤnders vil mer dardeider,
+fchams buchstab /
+ie gnig le denzichin ei die dieen figfir ar
+Baulch Iche dam resor, frig hern Berchtoldlnn
+zicg De dher Spruch Sethui s: allein von den
+labendigen sing, der vnn den todten/
+Perchteldus hallor,
+Allam vm din lelenden, mchie ammasset ndt/
+viitr i du n dinem dersacher¬
+Jni den̄ fiͤnstan gestd, Er guttlir
+nna
+fohannes buchstub¬
+i nait Castn dndin gechnis / dirnas dy
+nit allein vff die labenden dienen, Sundere ouch
+vff die ogrstirbnen, dunn wie Er bir baigt vn der /

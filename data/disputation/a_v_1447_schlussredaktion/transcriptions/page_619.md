@@ -1,30 +1,29 @@
 # Seite 619
 
-Die funfte Ohlussredi
-In Kraft vnd wasen kumpt, wann der stirbt, der
-das testament gemacht het, Das also Christus
-Jesus der Gun gottes 1 gestorben Ist, vnd das testa¬
-Vinent bevestnot mitt sinem toe, Es Ist ouch of
-fenlich erfunden, das nitt allein das fleisch Christi
-tiblich geassen, niet das testament Ist, Maders ouch
-sin eijgen blut, nitt das testament Ist, Ounder das,
-mitt dem das testament Ist vfgericht, wie erst
-vnd vormals gehort, Die testamenter aber, oder vn:
-richter, sind die Apostel, Ist wel recht geredt, ende
-teillen aber das testament vs, das Ist die vergabne
-nachlaßung der sunden, wie luce. xxiii. Mathei
-xxviiio. Marti vltimo, Das das nachlassung der
-Cundi geprediget solle werden, durch die gangen
-welt hin, Das von Johansen und Maria anzogen
-Ist, glauben wir gern, das die muter Christi, fo¬
-thansen sije beuolchen, vnd fo dero, zuchtig vnd ge¬
-truwlich gewartot habe 1 13
-Meister Johannes mannberger,
-1
-Der berchtold, wider viver Othlussered arguier Ich,
-die da Iunhaltot, Christum den herren, vfopfern
-dem vatter, für die Aünde der lebenden vnd toeten
-Bije der Othrift widrig, bedruckt aber mich, Es
-zijn der Othrift einhaltig, vsß den Dubstanglichen wor¬
-ten Christi vnsers herren, Lute. xxii. So Er
-Opricht, Oiss Ist der Kolch, der vs. gossen wirdt,
+Die fuͤnft Schlissred
+In kraft vnd waͤsen kumpt, wann der Stirbt, de
+das testament gemacht hat, Das also Christur
+fesus der Sun gottes, gestorben Jst, vnd das testa /
+Vvent beuastnet Jmitt ein ens tod, Es ist ouch of
+feulich efunden, das nitt allein dis freisch Christi
+lillich graͤssen, nitt das trstament Jst, Sunders ouch
+sin eygen klut, nitt das tastament Jst, dunder das /
+mitt dem das testament ist vfgericht, nie erst
+vnd vormals gehoͤrt, Die testamenter aber oder vßt /
+vichter, sind die Apostal, st wol recht geredt, S
+trillen aber das testament vsß, dis Ist bie vergaͤln
+naͤchlissung der ouͤnden, wir wer xiiij° Matha
+exvii. Marti vltimm Das das naichlaszung der
+Sund, geprediget rolle wanden, durh die gangzen
+wiet hen, Das von Jchansen vnd Nania anzagen
+eit enem wi gren das dir mtie Cristi Jn /
+hanson n drilchen , vnd er der, zuͤttig end ge/
+tounlich gewartot habr,
+Mrister Jchannes manbarger,
+n barctild, nidie vner Schlussnd arguat Ich//
+dirde Jnneitet Christum den herrem vfrcfeen
+dam vrtter tur die vnnd der Eelendin vnd tidtend
+sir der Schrift wideig, bedmicht aber mich, Es
+r das Schrift euchallig, vss den Substamflichen war
+fen Christi vnsig herren, Lute xxij So Er
+Drnet vs est der kilc / dir dgisin nirdt,

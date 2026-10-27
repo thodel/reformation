@@ -1,31 +1,29 @@
 # Seite 718
 
-300
-Die viiii. Schlusred
-das Oi Ouchen vwere guten werck u, Volgt hirnach
-wir om ding lert, vnd das thut, der wirdt gross
-gricht In den Richder hunlen, Oomlichs wirdt
-In den Jongen salten erfunden, die vil mer nach
-dem fleisth, dann nach dem geist geneigt sind zu¬
-laben, Dann is geschriben dat, fittesiastes xii
-die Jugend vnd der will sind Othnood, darumb
-was nott, das die, So ein gönlichen vner horten wa¬
-ren fuangelisthen glouwen verkundten, Oich nach
-freu leren erzougten, Das aber Ingefurt Ist,
-Oas fe verbietten, sije des tufels ler, gib Ich zu,
-nach der wiss, wie die ferenden Martiani und Latia¬
-in gethan haben, Demlichs beschicht aber zu vnse¬
-ren zitten nitt, wie vorgemeldet, wann Ich fur¬
-min person, nitt klagen ten, das mir die Er ver¬
-betten sije gesin, Ich hette Oi aber mir Talbs, durch
-gelubde mogen verbietenn,
-0
-Meister Vlrich zwingli
-Maria vnd Oaphira verstlichen, Ist de hem gelijbe
-bruch gewesen, Eunder ein glichstnerij, Carumb
-ende gott gestraft hat, Oann getrus sprecht, was
-nitt der October In dinem gewalt, vnd so du fun¬
-Verkouft hast, So Ist das gelt aber Indinem gewalt
-gewasen, In welchen worten wir mercken, das Er
-da mij get. gelopt hadt ouch das die Apostel, nitt
-DATES DES ACTES
+3ob
+wirii Schlusred
+das Sibichen virrer guten mrcld / volgt harnich /
+wer amn ding lort vnd dis thnt der niddt griss
+geicht In demn fichder hihen, Soinlichs virdt
+In den Jungen haͤlten erfuuden, dae vil mer naͤch
+dem fleisch, dann nich dem grist gemoigt sind zu ¬
+laben, Dann Js geschrilen Sert Erthesristes xij
+die Jugend vnd der will sind Schnod, darumb
+wae noet, das die, So ein goͤmilichen vnor haͤrten wa//
+ren fuangelischen glouben verknudten, dich nach
+fren leron erzeigten, Das aber Jugefuͤrt Jst,
+Das Er verbitten sir die tufels ler, gie Ich zu,
+naͤch der wiß, wie die krrenden / Martiam vnd Catia //
+ngethan haben, Semlichs lrschicht aber zu vnse ¬
+von zitten nitt wie vorgemeldet wann Ich fur
+mi persen, nitt klihen fan, das mir die Ee ver¬
+batten byr gesin, Ich lchtr Si eber mnii delle, durch
+geluber mogen verbertrnn
+Hrister Dlrich zwugli
+Aunn rnd Dachre rnischlchen / Jst dihem gelild
+kruch gewisen, Sunder ein glichsert, Darumb
+gt gistrt gat / Sum Jtrus rigt was
+nitt der Ackor Jn dinem gewilt, vnd so du Jnn
+verkeuft bast, So Jst das gelt aber Jndinem gewalt
+Iwaͤsen, In walchen worten wir morchen das Er
+da mcit geligt Eett auch das die astel, nitt

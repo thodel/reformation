@@ -1,30 +1,30 @@
 # Seite 733
 
-prima
-Die viiij. Schlussere
-Der Opruch Actorum. v.o Cas man gott mer Ochuldig zijn,
-dann dem Wentsthen, mag die consequentz nitt erli¬
-den, vnd von kurje wegen, ende bevilch Ich mus teils,
-euch den Actis, vnd Cristenlichen liser, Dag also,
-Paulus hat drij mal gesprochen. 1o. Cornithiorum. vii.
-wie gott een Jecklichen berust hat, Also wandle fo 1
-Doctor Johannes Decolampadius,
-Der Ochulmeister mag mit beweren, durch den Opruch
-Actorum. v. Oann In glichem val, wo einer etwas
-verhieß einem mentsthen, das zu mercklichem Othaden
-des mentschen dienot, Ool fr es nitt halten, Also ouch
-So Indem gelubd, das gott geschicken, ftwas erfunden
-wirdt, das der fr gottes nachteillig, Ist ouch vnbillich,
-solichs gehalten werden, Witter vff den Spruch
-Pauli, vss der ersten fristel zu den Cornithien, om
-vii. Daerfr. Opricht, Ein Jeder blibe In der beruffung,
-In welther fr. berust Ist, On redt Paulus, van dem vs:
-serlichen stond, deren oo zum glauben berust wurden
-Als der knechten, vnd der besthuttnen, Nun Ist der¬
-Cristenlich glaub, nitt an Colche staende gebundum
-Dann wolt der Ahulmeister also arguieren, Es
-sel bliben ein Ieder fudem Stand, als Er berust Ist,
-So wurde Er allen Christen, oo zumij glauben berust
-werden, die te abschlachenn, Also beschlijst des Orgu¬
-ment ouch mijt
-Johannes buchstab,
+pm
+Di viiij / Schlussnd
+e Spruch ltorum v : Das mon gatt mat Schildit eie
+dann dem Mantschen, mag die vnseguͤrntz nitt erli¬
+den vnd von kurce migen, Sbeurlch Ich uinns teils,
+ouch den Actis, vnd Cristenlichen liser, Sig also //
+Daulus het dru mal gisprochen/ Crnithoruim vij ͦ
+vr gett in totllichen birift zet / As windli E
+Dictir Jchruas diecalunadid,
+Der Schitlmristir mag nit liweren, duch den dprich
+Actorum vͦ Dann Ju glichem val, we einer eticas
+ver hies einem mentschen, das zu mentklichem Schrdem
+das anentschen dirnot, Sas Er as vitt halten,/ Also ouch
+S. In dem gelubd, das gott geschichen, Etwis erfunden
+wirdt, das der Er gottes naͤchteillig, Jst ouch vnbillich /
+zelichs gehalten nirden,/ Witter eff den Spruch
+Tuli vss der eisten tyistil zu den Cornuthten, am
+vij. Daschr Spricht, Ein Jeder klile Inderberuffung,
+In welcher Ey beruͤft Ist, S redt Prulus, von dem vs:
+sillichen Stand / dicen Szum glubin beeuͤft wurden/
+De die Eurchtiu, vnd die leschuntenen, Nun Jstder /
+Cristenlich gloub / nitt in Salche Staͤnd zubundenn
+Dann welt dir Schulmaisti is arhuetem, Ey
+oe eelen enn tdir Jndenn Stind / ale Ei lust Ist,
+Do vnd hr alle Christin i zm gladen Cribt
+virden, dr Er alschliczu, Als lischlist die dirgu /.
+mont ouch mit¬
+I hanns euchstab,

@@ -1,33 +1,33 @@
 # Seite 653
 
-86
-1
-Die vi. Thlussredi
-Ist nitt das bewaren der zusamen komenden wisthof¬
-fen, Ounders dae bewaren aller recht glaubigenn,
-Die Bucher, dero kundtschaft wir nitt namen, In
-bewarnus der Ahwaren hauelen des gloubens ver¬
-werffen wir nitt, glich wie ouch die wider, In der
-tilchen mitt verworffen werden, So man aber ernst¬
-lick Dathen bezugen sol, minpt man Ir kundtschaft
-nitt an, So nun dise disputation, Een zo gross an¬
-sa^cken hat, haben wie nach dem bruch aller gelarten,
-vnd gottsforchtigen, allein lissen die kundtschaft
-gelten, dit niemand verwerften mag, Nitt das In
-den Othriften, deven Pi Pich klagen, vijit bij-, Das
-Der predicanten Schlusstred mochte Ahwecherum,
-Ounders das man gewijsse ordnung hielte, wie vor
-gesagt, Der Epistel zu den Hebreern halb, Tagen wie¬
-das wir hie einem Jeden zin vrteil lassen, wer di ge¬
-sthriben hab, Ich fur min person, er kennen nitt anders
-dann das vi Pauli Sijr, vnd das von ettlicher Hebrais¬
-men wagen, ouch des geists halb, vnd der veste, So der
-heilig Paulus, In andren Epistlen hat, Jedoch Pi¬
-Oor wes di welke, So Ist Oi von den rechtglou bigen,
-allweg durck den geist erkendt, daer ende deswart gije,
-das man die Ahwaren Sachen des gloubens, vss. Iren
-kundtschaften moge bewaren, Vnd ob glich das op¬
-ferder Missz zu verwirften, grossen grund In der
-Epistel hat, So Ist doch In andren fprstlen Pauli,
-vnd Ruangelien, grundig uijt, dieselben zu verwarf¬
-fen, wie gnugsam gehort Ist, Von vil geschrib:
+2
+4
+De ii Schlussend,
+ist nitt das bewaͤren der zusamen komanden Biste
+fen, Sundere dar bewaͤren aller rocht gloͤubigenn,
+Die Bucher, dere fundtschaft wir nitt namen, Jn
+bewarmuis der Schwaͤren haͤndlendes gleubens. vor¬
+worffen win nitt, glich ner ouch de wiler, In der
+kilchen mit verworffen werden, So man aber ornst¬
+lich Sachen kizugen ol / inpt man Jr kundtsclit
+witt in, So un diss disputation, Ein co gross an¬
+sichen het naben wii nichdem bruchaller gelirten /
+vnd getsfoͤrcgtigen, ilbei lissen die kundtschaft
+geten, die niomand vorweeffen mag, Nitt das Jn
+den Schnften decendi dich klagen / veit byn das
+de pddicnten Schruͤssnd nngt Schuichtem
+Sundene das min gruss ordnnig hudtr, vir vor
+gesigt / Dae hristel zuͦ den ttebnwnhill, Sygen vom
+das wir Eer eam teden sin votne lssn, war Sige ¬/
+rschrlen bas, Ech fur min peefun erkrun ait andrts
+Dann das Si Pauli Seir, vnd das von ottlicher stabrri /
+men wigen, ouchder geistehalb vnd der vesti, do der
+heiliet ulu, En andren kyistlen het, Erdoch di
+Sye was Si welle, So ist Si von den rechtglouligen,
+allwaͤg durchden geist erkendt, das S das waͤrt eyr/
+das man die Schrarm dichin des gloubens / vsß fron
+kundtschaften moge bewaͤren, vnd ob glich das op¬
+fre der Maͤs zu vemoffen, grossen grund Jn der
+Cristel aet/ So Jst doch In andren hristlen Pauli¬/
+vnd kuangetn, grundgnug, diesollen zu veewatt
+frn, wie guigsam gehoͤrt Jst, DDan vil geschrib¬

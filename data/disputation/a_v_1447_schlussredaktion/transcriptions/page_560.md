@@ -1,43 +1,42 @@
 # Seite 560
 
-Jan mij
-6 f. 2 x
-Herrn
-gemelde
-rechten
-aux flarmes
-da vor
-# brot
-# nun
-23
-Die 4 stuijvende
-gemeind zu Vem. gepoedigott vnnd insonder hant die vierde
-schlußred Inhalltett van nachtmael des hern gelertt
-Namlich das der lijb vnnd Das blutt Christi Im
-vff
-vnnd win, mit wesenlich empfangen werden
-sollich min leer, hatt mich Doctor Hanns eck zu Inselstatt,
-Der wijt berumpt find, aller Dero die das fuange¬
-lium Chryti, fruwlich verkunden, vff das stuijvers¬
-lichost authasten, vnnd ein baster buchlij wider mich
-In trinck lassen, vssgan (Darmus er mich erfte leer¬
-haeb, ein gotzlesterer vnnd ketzer schilert, Ja er wer¬
-schut mich vor aller overlet, mitt so viel vnwar¬
-hafftigen schmach worten, Das ick acht sin schreiben
-herte vff zwey blettlij mogen, begraffen werden/ woer
-die lester wortt, herns gelassen hette, Dern hebben
-ich Im zugestoriben In vff das hochst vnnd bij
-Christenlicher pflicht, ervordert hab, das er sich
-hiehar verfugt, Da welle ick Im miner leer nach
-ming vnd antwurt geben, bin euch der hoff
-nung gewesen, er wurde en schien, so doch der
-platz sicher vnd gemeine ist vnnd kem biderman
-anders sagen kan Dan das die disputation ende
-Clut miner goedgen hern, von Dernus vß Schriebens:)
-gantz vnparthijsten gehallten wirt, Aber mr
-ist sin eens handt gschrifft, hie har geschickt
-worden / DarIn er sich widert harzekomen/ lassen
-sich horen, allß ob Im die zijt, ze kuritz angesetzt
-sie, Er konde int flieven vnd sind aber jetz schier
-Drij wochen versthinen, Das Im brieff wer¬
-antwint ist worden. Darumb er wol aus¬
+eed
+snat
+tan
+vfsen
+tan
+e
+a brot
+min /
+27
+Die Clired
+gmindei Deni gpriden /ennd isenderbit dua vnd
+schlußred Inhaltett vom nachtmall des hern / gelertt /
+Namlich das der lye vnnd Das beut Caristi In blu o.
+ve
+vnnd win / mit wesenlich empfangen werde
+soͤlich nin leer / hat mich datbr hans eck zu Jgeestrn
+Derwytberumpt find / aller Dero die das Euange //
+lunn Christi / triwlich verkunden / vsf das schunfch//
+lichest anthastet / vnnd ein Caster buchly wider mich
+In lassen vssan Darumb er mich deer lees
+hab / en gaczlesere vnnd kochen stalet ze erkler //
+chut mich vor aller welld / mitt so vill vnsimar //
+halftigen schunrach woͤrten / Das ich acht sin schriben
+hette / vff zwey bleily mogen / begriffen werden / wo er
+Die lester wortt / haruß gelassen hene / Dernhalben
+ich Im zugeschriben In vff das hoͤchst vnnd by
+Christenlicher pflcht / ervordert hab / das er sich
+huchar verfuge / Da welle ich Im miner beer rech /
+nung vnd antwurt geben / bin ouch der hoff //
+nung gewesen erwurde erschinen / so doch der
+partz sicher / vnd gemeind ist vnnd kein biderman /
+anderß sagen kan / Dan Das die disputation E
+Clut miner gnedigen hern von Bern vsschribens /
+gantz vnparthysch gehalten wirt Aber nr
+ist sin eigne handtgschrifft hie har geschickt
+worden / Darin er sich wdert horzelomen / lass
+sich hoͤren / allß ob Im die zyt / ze kurtz angesetzt
+sie / Er konde nit fliegen vnd sind aber Jen schier
+dry wochen verschinen / Das Jm brieff uͤber //
+antwurt ist worden / Darumb er wol ange //

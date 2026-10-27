@@ -1,20 +1,20 @@
 # Seite 520
 
-wie Erben
-Der Herrn
-die sein
-geen geen
-da leben
-von die
-wie
-Exampts
-Twee
-Pr Pn.
-die leere
-wis
-Hernach
-mich hat
-verstaen
-Marne
-vrouwen
-notter
+en
+iden
+s
+er
+Dalle
+n der
+ver
+enng
+ale
+er
+el
+Wa
+erits
+mis
+tersen
+Mete
+ve
+t

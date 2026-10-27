@@ -1,31 +1,30 @@
 # Seite 676
 
-287
-Die vii. Schlusfredi
-wann Mathei. xviijo. van dem Jüngling gesagt
-wirdt, der alle gebott gehalten hatt, Sprach dan¬
-nocht Christus zu Em, wilt du volkomende sin
-gang vnd verkauff alles, das du hast, vnd gibs
-den armen, hiebij Ist zu glauben, wann der fung¬
-ling, also aue alle hoptsund gestorben, das Er nitt
-verdampt ware worden, vnd danocht nitt volkom¬
-men gein, vnd ob Er glich nitt verdampt ware
-gesin, watte Er danocht fur das úbrig, gereinigt
-mogen werden, und darnach behalten, Das wir
-mogen ermassen, vss. dem. lxv. Aprilmen, @o
-Er opricht, wir sind durchgangen das wasser,
-vnd das fur, und du hast vns gefurt In die Ruw¬
-Seszglichen feremie. xxxj. Oi werden In dem
-weinen komen, vnd ich wird de Inder barm:
-herzikeit widerumb furen, vnd wird Oi harzu fu¬
-ren, durch die vngestumikeit der wasser, In
-den rechten wag, der da furt zu dem ewigen laben,
-find Ich mindert, das finer durch die pui, Is
-8½ wasser oder fur, In die vuw, vnd In das ewig
-leeben gefurt werde, dann durch das fugfur,
-Meister Vlrich Zwingh,
-26
-weil wir verstand, langt die ganze sinnen gries
-Arguments, oder fuved, dahin, das ettlichern
-gloub, vnnokkommende ende gije, deshalb Ir vnuottomende
-heit, bedorffe durch das fag für, gevoltoum et
+20
+Daevij Schluͤsßred/
+wann / athei xviiij: von dem Jungliuch gesigt
+wirdt, der alle gebett gehalten hatt, Sprach dan
+nacht Christur zu En, wilt du vollimen sin
+gang vnd verkiuff alles, das du hast / vnd gabe
+den armen, Hieby Jst zuglouben,/ wann der fuͤngt¬
+ling also ane alle hoptfund gestorben, das Er nitt
+verdampt waͤrl worden, vnd danocht nitt vollom¬
+men gefin, vnd ob / Er hich nitt verdampt waͤre
+gesin, hatte Er danocht fuͤrdas uͤbrig, geroiget
+mogen werden, vnd darnach behalten, Das wie
+mogen ermaͤssen, vsß dem lxx. Psilmen, So
+Eer owicht, wir sund durchgangen das wasser,
+vnd das fu, vnd du hast vns gafurtin die Ruw/
+Daß lichen Jrrre xxij Di naden Jn dem
+weinen komen, vnd Ech wird dy ender barm¬
+hatzkritt niderummb huen / vnd mid di harzu tn /
+ran, durch die vngestumi krit der wasser, Jn
+den rochtrn wag, der da furt zu dem ewigen laben,
+fund Ich niendert, das kuer durch die pun, Es
+er wissr dder fuͤr, Euder ruur vnd Jndie arit
+leben gefuit nrde, dann durch das faͤgfur,
+risten Dluch zmnuiglt,
+oil ru vorstand, langt dir gancze Bum enas
+gninente, der Jnred dagin das ettlichern
+Jlund vniklaen r dis al vnillanan /
+tn dch die fagkur, gerilkonmat

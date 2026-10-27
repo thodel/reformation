@@ -1,46 +1,43 @@
 # Seite 442
 
-Ihr
-somme
-Went¬
-und
-tot
-# voor einem
-geijtlichen brot
-die vierde schlußred
-185
-244
-der brillis paulue osse sinen eignen worten, ouch vnss der
-krafft der warheit des geists bewertt wijrtt, hie zereden,
-das die die einerley zeichen, mitt einanderon bruchen
-Ein kwchenn siennen ende wis obstatt
-somme
-Deshalb sollennd sij sich zu der gemeind vnnd kirchen
-Der götzen dienern nieuend fugen, nots gsollen, vnd
-wirt hie das vfthellen des lyblichen lyes Christi
-vnnder die krechten menen benampvt.
-Sethamer, Pfarrer von Santg:
-Paulus in disen anzognen spruchen In der ersten
-Eri: zum Thorinthern am x cap: redt van zweijer¬
-ley brott, Das ist die Christenlick gemeine In Christo
-dem labenndigen wortt, erbuwen die Da lept In frid
-vnnd eingeent vnnd theilhafftig ist aller gutter Christi
-Vnnd van dem brot des nachtmaes des hern Das
-selbig brijchen wir vnnd theillens vn. Den brudern,
-Das sijl. ist nitt die kilch, oder gemeind von solchen
-spricht er das brott, das wir brochen, Ist das
-int Die gemeinstchafft, oder vs. theillung des
-Das aunder brot das Die
-lybs Christi
-Ist (brechen vnnd essen wir
-Christen Zeit
-1
-nit, heeft Darmus ein boet, Das sy von
-einem brot w abendtmals vnnd thestaments
-wie paulus spricht
-Christi messent
-Darumb sind wir ein brot, das wir enus brots
-thelhafftig sind, oder von einem brot essen, ende
-Zovingli,
-Das vnnser lieber bruder zweij biet hie anzoigt
-Ist voor gnug ernochten, Das is min eins ist
+h
+ennd
+zri
+vnnd
+ven eirem
+grstlichen brot
+Die vierd schoustied
+10
+dr ellg petlu asß sinen aignen weorten auch vsß dtr
+koff der warhei des geists bewertt wptt / hie zereden /
+Das die die eiell zarchen / mit einandern bruͤchen //
+ein kilchenn siennd wie obstatt /
+vnnd
+Derhall soͤllennd sy sich zy der gemeind vnnd kicchen
+Der goͤtzen dienern mienend tugen / noch psellen / vnd
+wit de eo rs
+vnnder die kilchen nienen benampset.
+Althamer / pfarrer konBarite
+anair ir dift anwnen richen In der ersten
+Dexi tun geruhn aen p e red vin goer /
+ley brott Das ist die Chrisenluht gemeind in Christo
+dem labenndigen woret / erbuͤwen / Die da lept In frid
+ound enungera vnnd therb ecs ist / arer guer gchrist
+vnnd von dem bret / des nachtimabs des hern / Das //
+seiig brechhen wir vnnd theillens vß den brudkrn //
+Das selb ist ait die kilch / oder gemeind von solchen
+spricht er Das brott / Das wir brechen / Ist das
+nit Du gemeinschafft oder vßscheillung des
+Das annder bret das die
+lybs Christ
+Istbrechen vnnd essen wir
+Christenheit /
+nit heistt darumb ein orot / Das sy von
+einem brot Des abendtmals vnnd thestaments
+wie paulus spricht /
+gristi / miessent
+Darumb sind wir ein brot / Dis wir eine bras
+thalffts snd / oder von einem brot essen / i
+wingli //
+Das vnnser arten erde Si arbt hie antag
+I eo guig erochen / Das es min eindcn

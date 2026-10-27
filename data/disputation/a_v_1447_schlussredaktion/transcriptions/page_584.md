@@ -1,34 +1,32 @@
 # Seite 584
 
-# fur, jusqu'
-in wir F.
-in andren
-2 opfors
-andren
-1489
-245
-Die funfte Othlussredi
-also musste verstanden werden, wie sij es dargeben,
-das doch nitt Ist, So dat also, die wisßheit hat Ire
-opfer vfgeoprot, vnd mitt, die wisheit hat win
-vnd brot ufgeopfrot, lassend es bij rechtem verstand
-Vibouw der Ihritt blibenn,
-gidius nuwer,
-Ich bliben bij minem vordrigen verstand, wie geant¬
-wurt Ist, der Ist ouch bestätigt durch den heiligen
-Cipriamum, vnd darbij lassen Ichs blibenn,
-Meister Vlrich zwingkij
-Fr tund dein Cipriano vnrecht,
-Johannes tuchstab,
-In den anfang hern Berchtolden, gestern ange¬
-zogen, wil Ich vff das kurzest, aue alles wider afren,
-met wurten, Oag also, Sie Opruch am anfang ge
-meldet, Omd ein teil In der dritten, vnd ein toil In
-der Rechten Schlussere begriffen, daerumb Ich
-Ien vsblaß, zu verantwurten, Das aber die Nass
-für ein gut werck geachtot wirdt, beschicht glich
-wie ouch mitt andren Sacramenten, Die bösen prie¬
-ster wil Ich ouch nitt verandtwurten, Das aber die
-Driester mitthelster sijen Ist der Othrift nitt zu
-wider, do auch alle mentsthen schuldig sind, fur
-ein uuren zubitten, facobi v. vnd allenthalbenn,
+mid
+renden
+refn
+andlers
+d
+Die fucfte Schlissidd /
+all nustr vristanden vrdden / wie Si as darzilen //
+dis dich ritt ist / So htat abs / Die grisheit het Jer
+opfer vfgeopfrit, vnd nitt die wischeit hat win
+ond ei f n he vnstand
+flctrnt der Schrift blifrnn
+gidis nuurer/
+sch bebon hy muem vndeigen vrestand / vr grint /
+Amit Jst der Jst ouch istatiget durch den hailigen
+Ceprtann, vnd darby lasß Echo blibenn,
+Hrister derich zwinglr //
+Irtund dem Ciprimno vnrecht,
+Johannas luchstab,
+De If din anfang hern Cerchtilden, gestron ange //
+zgen wil Ich vff dis kurcest, aue allis nnderafrrn /
+andtwurten, Sag also, Die Opruch am anfang ge //
+meldet, Sind ein tril In der deigten, vnd ein tril In
+der Sicheten Schluͤssend begriffen, dunub ths¬
+en stlis zi vndtmuͤten Das enr der cse
+fun an gut arcl grichet wuidt lischicht gach
+Der ouch urtt indem Bicrimenten, Die eisin pa //
+str une trerur nit vorandtnaten, Casalie dir
+Distir nntthilffer eiin Ist de Schrift nitt zu
+vnder Soanc illi schen shulged tur
+ein andren zulitten, fatili v. vnd allenthalkenn,

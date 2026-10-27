@@ -1,47 +1,47 @@
 # Seite 318
 
-jimois
-andert
-euch wir
-laßen -
-Di mit 1
-'s christo
-ging
-dicht vor
-all wenigh
-ons
-5 fim
-dert, doch
-9
-Die ander Schlussred
-132
-Als da sind verbott der Op ist, der Er, Ounderung der
-tag is, Gouerr damitt die gewussen sollen gebunden
-werden, Also Ist Es offenbar, Als Christus hiess.
-die Christgelarten vff den Stul Noijsi, horen, das
-Er nitt gemeint het, das Oi alles annamen solten,
-das Oi letten, Er hätte Oi gunst vor Ir her, Mathei,
-xvi. nitt gewarnot, Qunder het van dan geredt,
-das Oi vss. dem gesagt Nosi leeten, das waren Soliche
-burduien, die ant Peter Delbs Cagt, weder ende, noch
-fre vatter, hitten bi tragen mogen, Actorum. xv.
-zulest, Erc dor acht vatter, mir 80 offt fur¬
-wirft, der herr lasse sin kilchen nitt, der heilig
-geist lere Si ouch, Baben ww alles zu, mitt dem
-zusag, das die kilch, vns die gloúbigen heist, mitt die
-vom glauben abtratten sind, forigen gewussen, vnd
-teren der tijfol, anhangen, wie die sind, die Op ist
-vnd fe verbieten, Das dagt vant Paulus, mitt wir
-Ooch wie fast die christlich kilch Iren moge, Ist
-vor hin gesagt, hieruf Tage der Bichtvatter nein,
-So offt Er welle, die Christ ligt am tag, dero
-werden die Thafli Christi volgen, was Joch Er
-vnd om parth, thugenn,
-Xm ixiiii tag Jennois
-Moxius grad,
-In den namen Jesu, Amen, Ersamen, erwirdigen,
-wijsen, vnd Ir all versamnet fromen christenn,
-Gestern hatt Ich furgehalten, Eetlich Spruch zijbe:
-waren, das die christen menschen, schuldig wa¬
-ren, zuhoren die gebott der heiligen gemeinen christ:
-lichen kolchen, Wamlich Luce am v. Eer vch
+ennin
+dese
+eichd
+en
+wt
+h
+gengh
+ki
+Ewiuh
+ns
+fite
+t den
+1
+Die nidie Schristred
+22
+oilr de end rirlntr des beisß / die Er Sundrung der
+tag i, Souorr damitt die gewiͤssen sollen gebuͤnden
+worden, Also Jst Es offenbar, Als Christur haess
+die Schriftgalirten vff dem Seub wys hoͤren, das
+Er nitt gemeint hat, das Si alles arnamen golten,
+das Si lerten, Er hatte Si gunst vor Jr ler, Matkei
+xvj ͦ nitt gewarnot, Sineder hatt von dem geredt,
+das Si vsf dem geseyt wasi larten, das waren Soliches
+buͤrdnien, das Sant Jrter dalbs dagt, neder Si noch
+Ere vaͤtter, haͤtten Si tragen megen, Actorum, xv.
+zu list, das der Bicht vetter, mit go offt fuͤr¬
+rurht, der herr lisse ein kilchen nitt, der heilig
+grist lere Si ouch, Gaͤbin nit allas zu, mitt dem
+zusatz, das die kilch, vns die gloubigen heist, nitt die
+Dom glouben vtratten sind / Jrrigen gewuͤsson,/ vnd
+leren der tufal, anhangen, wie die eind, die Cpißß
+vnd Et vorliten, Das bigt Sant Paulug nitt wir
+Doch wire hast die christlich kilch Jrren moge, Ist
+vorhin gesigt, hieruf Sagz der kichtvatter nei
+So offt Er welle, die Schrift ligt am tag, dero
+werden die Schafli Christi volgen, was toch Er
+vnd Sin parth thugenn,
+Van Riii ta noo
+AAlerius grad,
+In dem namen Jesu Zunen, Eresumen, erwind/ ge /
+wysen, vnd Er all verfunnet fromen christenn
+Distern hett Ich furgehalten, Eetlich Spruch zube¬
+waͤren, das die christen monschen, Schuldig wa //
+von Inhoren die gelitt der hatligen gememen christ¬
+lichen kaechen, Namlich ducr am v. Der uͤch

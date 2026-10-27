@@ -1,33 +1,33 @@
 # Seite 710
 
-30.
-Die viii. Schluskredi
-an kein ort, da Oi der vererung halb, einigen anzug
-guben, Carzu Ist die clarheit gottes worts, Also
-an allen Acten ersthinen, das Sich an Dero abthum
-wenig niet verergren,
-Mitt Curfino
-Eheobaldus hüter,
-Das anritten der Christenlichen Kilchen, abzitun die
-Bilder, Ist oft vorhanden gesin, In vergangner zit,
-Ooch allwag nach gemeiner christenlicher kilchen
-bliben, Der Opruch, Co hutt meister frang Inge¬
-furt, wider die biltnus, lutend, On solt dir nitt
-machen werden, ein gegraben gesthuijt bild, ouch
-nitt alle glichnus, die da Ist Inde himel is, So
-man besicht den beschluss diser red, so resoluiert
-Er sich Delber, nitt zu gan vff vnser bild, To fr
-Opricht, du wirst Si nitt anbatten, must ein uw¬
-rachtiger mentsch zin gefin, der da holtz oder Item,
-für Onien gott hatt gehept, vnd Inen also gottlich
-Er bewisen, dann anbatten gehort allein gott zu,
-zu mercken Ist bij den bilderen, so man een bild
-anbattet, als die heiden haben gethan, die das fur
-Ire gutter haben gehapt, Rat vnd hilff von Juen
-eruordert, Als ob das holg oder Stein, fin helften
-mochten, oder Credituren die dadurch bedutot wer¬
-den 1 Als suppitor vnd siercules, Also ool man
-Degenie haben, dann es ware abgotterij, Es hat
-durch de hem Christ als Ich hoff, die bilder nie gese
-gehapt, is. Een Opruch huijtt ingefurt, Oautro¬
-nomij, iiij. Ir wollen flissig huten uwer Selenn
+zer
+Dar vij Schluisrnd
+an krin ort da di de vrernngkilb, einigen amit
+gaͤben, Darzu Jst die clarheit gottes worts, Also
+an allen orten erschinen, das Sich an dero abthim,
+wonig mer verergren,
+tnit vnsin //
+hrobaldug huter,
+as anrittin der Christonlichen kilchen / bzitimn die
+vbilder, Jst off verhanden gesin, En vergangner zit,
+Doch allwaͤg nach gemoiner christenlicher kilchen
+bliben, Der Opruͦch, So hictt meister francz tuge¬
+furt, wider die biltnug, nitend, Du golt die nitt
+machen werden, ein gegraben geschnczt bild, ouch
+nitt alle glichnus, die da Jst Ji himel n, Do
+man besicht den beschluss difer red, So resolviert
+Ee Sich Selber, nitt zugan vff vnser bild, So hr
+Opricht, du wirst Si nitt anbatten, must ein nir¬
+rachti ger montsch sin gofin, der da boltz oder Stein,
+fuͤr Sanen gott haͤlt gehept, vnd Jnen also goͤttlich
+Er bewisen, dani anbatten gehoͤrt allein gott zuͦ/
+zu morclen Jst by den bilderen / So man ein bild
+anbattet, al die heiden haben gethin, die das fur
+Ere goͤtter haben gehapt, Rit vnd hilff von Inen
+ervordret, Als ob das holtz oder Stein, Jm helften
+moͤchten, oder Creaturen die dadurch beduͤtot wer¬
+den, Als Juppiter vnd ttercules, Also sol man
+Degeiie haben, dann es waͤwre abgoͤttwy, Es hat
+ouch dehein Christ als Ich haft, die bilder nie also
+gitt / ie Den Spouch hutt Jngefurt, Drutr ¬/
+nonij, iii: Ir rollen flissig huten vͤwer Selenn

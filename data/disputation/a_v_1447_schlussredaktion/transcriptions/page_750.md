@@ -1,28 +1,28 @@
 # Seite 750
 
-ad 2
-Co disputiert haben 1 Able zitt, guts, niett geneigtem
+enr
+So dszutiert hiemn, Alli get, gute, mit geurigtem
 willen zubewisenn,
-Dancksagung, Von hern Berchtolden hebben,
-vss. beuelch hern Rhulthessen und Rits der Statt
-hernn, beschâchenn,
-Gewindigen hochgelerten, Edlen, Ersamen wijsen
-Herren, vnd fromen christen, Ir gijend von vnsern
-truwen lieben fichtgnossen van Jurich, Glaris,
-Basel, Thafthusen, Appenzell, Wieln, Gant Gal¬
-len, mithusen, geistlich vnde waltlich, Mittburger,
-oder van andren Stetten vnd landren, So her vff
-dise disputation, gott zu lob, unseyn geadigen heuren
-zu guttem, ersthuien sind, zu furdrung der war¬
-heit, Onser gnedig herren, Othulthes klein vnd
-grosz. Rct. So man naempt die zwoijhundert, diser
-leblichen hatt Bern, bevelchen mir ungeschicktenn,
-vwern Eren vff das aller höchst zudancken, das Ir,
-mitt viver erlichen gegenwurtikeit, grossem kosten,
-mug vndarbeit, fr angesachne disputation, besucht
-haben, vnd In all wag geholffen, mitt allem vwerem
-zuthun, Ir gottlich furnamen, christenlich zu voll¬
-strecken, Erbietten sich hiemitt, Allen und Jedem
-Hersthaften und personen, Solichs In danckbarer wissel
-niemer mer zu vergassen, Ounders mitt hochem
-fliss, vnd generegtem willen, zu allen zitten, So witt
+Nunksigung Din hain Crecgti lden hiber
+vsß beuelch hern Schuͤlthessen vnd lits der Statt
+Biernm, beschachenn
+Eruurdeten hoclgileeten, Edlon Ersamen wisen
+norren, vnd fremen christen, Irgyend von vnsern
+fruͤwen lieben lidtgnossen von Rurich, Cilar
+Basel, Schafchisen, Appem ell Gieln, Sant Gal
+len, Muthusen, gristlich vnd waͤltlich, ittburger
+oder von andren Stetten vnd landern So har vff
+dise difputaten gott zu lab vnsern grudigen herten
+ii guttem,/ erschnen sind, zufurdrung der war¬/
+hit Dusir gnidig horren, Schuͤlchas klain vnd
+grist diet So man naͤmpt dar Zrochundert, diser
+Eiblichen Stitt wern/ leurlchen mnd vngeschitenn/,
+Eem Eren vff dis aller hoͤchst zudanclen, das Ir
+mitt uwer elichen gegenwuͤrtikrit, gristimm kosten/
+mug vnd arbrit, Ir angesaͤchne disputaton, besuͤcht
+haben, vnd in all waͤg gebelffen, mitt allem vnrerom
+zuthaimn, Jr goklich fuenamen, christenlich zu voll¬
+strecken,/ Erbrtten sich himet allon vnd tedum
+rischiften vnd arsinen, Dalichs Jn dumlkirer wist
+niemar mer In verhassen, Suͤnders mett hochem
+flis, vnd genotgtem willen / zu allen zitten / vo wirt

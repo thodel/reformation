@@ -1,40 +1,39 @@
 # Seite 390
 
-nicht ver¬
-Kwärer
-Darruf
-Votre sind
-Die anzeigen
-Laure Lune
-Die wert zu
-Cap: 3d.
-Die vord schlußraet
-163
-er
-Doctor, Dis will ick jetzunt sparenn ze¬
-verantworten, biss zu bestchlus Esgrs artigkells
-van dem Sacrament, was ick Inn minem buijgem
-hab lassen vfgan will ich mit warheitt Dar¬
-bringen
-Hib Grs.
-Pfarrer von appentzell
-Cromen Christen Es hatt min her pfarrer
-von sant gaelen die klaren vnnd halen yschrifft
-Johannis, am vi cap: anzogen, luttend aelso das
-brett welches ich vch geben wirtt, ende Hargegen
-mit vill vmbsth weiffenden reden, hatt meister
-Vlrich zu sollichem text, ettwas harzuthan nach
-Dem vnne wir in haben transferist van Ihr
-rommo her, Nämlich Das worten, autem verthusse
-Als ick verstand, Jezunt In batien
-aber
-bij vns vom Gheronimo, int interpretiert sig nim
-dasselb int an sonnders empflichs denen die
-geupt sind In grueijther sprach vnd aber vnder
-den aundern onch gerodt want, so von dem blut
-vnnd fleißich Christi, Welches ick dan wesen¬
-lich bekenn vnnder der gestaelt, wijs vme brots
-Mach lint Des texts vorgenempt
-Lovingli
-Ich lass min autem vff alle exemplaria greca
-Des Enangelisen Johannis etc. 21
+e
+wein
+di
+ar
+wm
+wedor
+ie
+Di vierd schaisndd
+3
+Her
+Dactor die wil ich Jetuͤnt sparenn ze //
+verantwurten / bisßzuͦbeschlus disers artigb ells /
+von dem sacrament was ich Inn minem buchlin
+hab lassen vsgan will ich mit warheitt dar //
+bringen/
+ey err
+farr von appengell
+romen Christen / Ehatt min her pfarrer
+von sant gallen de klaren vnnd hilen gschrifft
+Dohne ann v c a en lnnnd ss d
+brott welches ich uͤch geben wirtt /. Hargegen
+mit vill vmbschweiffenden reden / hatt meister/
+ulrich zuͦ sallichem telt / eatwas harzuͦthan noch
+Dem vnnd wir in haben traveffriet vom the
+ram er a as ane vei
+Als ich verstand enzunt In latin
+aber /
+by vns vom Jheromimo / nit nterpretiert sig nin
+Dasselb nit an sonndens empfilchs denen / die
+geupt sind In grieischer sproch vnd aber vnder
+den anndern ouch geredt wart / so von dem bluͤt/
+vnnd fleich Christ Welches ich dan wesen //
+lich bekenn / vnnder der getallt wins vnnd brots /
+Nach lutt des texts vorgenempt
+wingli
+Ich lisß min anton vff ale epenBana gelo
+Des Evangelisen Johanns v. /2

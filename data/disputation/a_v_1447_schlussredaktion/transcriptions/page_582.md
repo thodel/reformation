@@ -1,36 +1,31 @@
 # Seite 582
 
-tot dit
-de vous
-uijt het soude
-das Ge¬
-(Hima)
-178
+Mted
+ad
 244
-Die funfte Ablussredi
-weder siuen tod, anzeigen, das reden ende vnd ernordren
-wir Ei, das E. darumb Schrift bringenn,
-Tgidius murer
-Darmub Ist es notwendig, das Welthisedech, mitt dem
-tod, Christo nitt verglichot magt werden, vnd sittenmal
-Christus Ist ein priester, nach der Ordnung welchise:
-dech, vnd es nitt mag ginder tod, So bitten wir min
-herren der widerparthij, das Oi vns namen vsß der
-Ochrift, was opfer Melchisedech vfgeopfrot habe, das
-ewencklich sol waer enn 1
-Meister Vlrich Zwingli,
-Is Ist gnug annoigt, das die vorbildung des alten Te:
-staments, nitt vsserlicken In alle muß, muss Im mijwen
-voor getruckt wevden, over eber es waren nitt vmbre, das
-Ist Entwerffungen und bedutnussen, Qunders die
-that vntbs, welichs wir an Melchisedoch gulden, So Er
-ein priester des hochsten gets. Ist gewesen, vnd vsserliche
-opter vffgeopfrot hat, dann fr darumb ein Priester was,
-von opfern, Ist damitt beducot, das Christus Sich
-selbs hat vfgropfrot, gebreorum vijo. Dann wo
-Melchisedech muste Christo In all wag v/ getruckt
-glich zin, So muste fo, von einer Junckfrowen geboren
-sin, Ein Ann gottes sin gekruggot zijn is, To min
-das nitt, So Cachen wir offenlich, das ging wasen,
-nun een vorbild gewesen Ist, In vsserlicken din¬
-gen, die aber Christus mitt ende selbst erfult hat,
+Die fuͤnfer Sehlusßred,
+nider sinn ted / ameigen, das reden Si vnd eroedern
+wir Si, das Si darumb Schrift bringenn,
+Ezidius nnurar
+mnb est inuundicg an / wgfdal / maidin
+ted Christo nitt verglichet mag werden vnd Sittenmal
+Christus Jst ein Erister,/ nich der ledunig ulchse
+dac, vndie nigt nag gu deir tid / S laten nir mn
+hen den vdait, die d vienamen vsß der
+Schrift, wae opfen ilchifllich hhripfit hali , das
+ewencklich sol waͤrenn,
+Mristu Dlrich zwingli,
+stznig maͤgt dae de mlldin gde ailli /
+struner stn lchen n n n umn
+st zvriffiugenvnd edinisten / Sunderedir
+ker Echri rlicgs nu ni ae faug iugen / So Er
+on gnsen de gnn f isulit
+n
+icf st den edut di Crstin die
+aillei e hufet Di
+Christ en lsitrct
+geih nn d nusi tatn tunhrinen mirin
+en kin sin gutis in gehrugit eund Si um
+die man Si Sechru vrr ffenlich, die ein aresen,
+n vi vnrleld genssin Jst, Jn vssachichen din
+gen dr abr Chrstun mt en bites ifilt hat

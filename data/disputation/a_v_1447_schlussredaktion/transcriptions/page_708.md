@@ -1,33 +1,32 @@
 # Seite 708
 
-der hand
+eder hand
 gottes
-301
-Die viii. Schlusredi
-Meister Vlrich Zwingli
-Das die Cherub, Ein bedijtnus der gnedigung, die Chri¬
-stus Jesus Ist, gewasen sijen, bezugst Paulus ad
-gebrees. viiijo. So min der war gnadiger komen Ist¬
-So hort die bedutnus vf, Der grund vom Reinen
-Othlingen, Ist fur vns, dann wir allem wider die
-Hilder reden, die vererot werden, wie die Jhlussred
-lutet, Es Ist ouch nitt not, das man die heiligen
-liblich siche, dann die form enij christenlicken la¬
-bens, Im getewort vorgemalot Ist, vnd In keiner
-bildtnus, Oann die vsseren gestalt sachen, zimpt
-dem Nentsthen, Aber die Inuerliche des herijen
-vnd gloubens, mag der mentsth, niet In einem
-labendigen mentschen sachen, wie geschwigen In
-enier toeten bildtnus, wiewol das, wegens verandt.
-wurtens bedorfte, Die Richtbaren dingt, von denen
-Paulus vedt, ad Romanos. i.o Omme nitt die bildt:
-nussen, die von mentschen handen gemicht sind,
-Ounders die bildtuusten, die von gemacht sind
-Carbij lass Ichs Jeijmal blibenn
-Johannes brichstab,
-,,witter¬
-Ich weisz Ounders vss der Schrift mitt„ Dirzu zereden,
-Dann allein, das Ti anfangklich sind vfgericht wor¬
-den, zu vnderwisung der vngesthockten montsthen,
-So die Othriften nitt lasen konnen, denselben waren
-die bilder, fur die bucher anzoigt, Diewil Jromun¬
+zo1
+Ir vij Schluͤßsred,
+Maister vlrich zongln //
+Dar die Cerub,/ Ein brditnus der gnidigung die Hri¬/
+stus Jrsus Jst, gewasen gyen, brzuget nulus ad
+rereas / v So miin der war gnadiger kein Ist//
+So hoͤrt die bidutnug if, Dir gruͤnd vom brnon
+Schingen Ist fur vns, dann wir allein wider die /
+velder veden, die verrret werden,/ wie die Scheu snd
+lutet, Es Jst ouch nett not, das man die heiligen
+Eillich siche, dann die form einz christenlichen lar
+bens, n gotomort vorgemalet ist vnd In temar
+berdtuns, Dann die vssern gestalt sichen, zumpt
+dem sitentschen, aber die tinirliche des herczen
+vnd glaubans, mag der mantsch , nitt In iinem
+laͤbindigen mantschen gichen,/ ir geschirign/
+nͤr ndern vrdeine wimil dir Dchrinz vrandt /
+wuitene eidorft, D Dichtbaren dung von dinen
+Sanbin redt, ad homame. Sind nitt der kilet
+u n n nden gct end
+vder dir errdtrushrn die rfes gruchtend
+Darby lasß Ichs totinal llibenn/
+rgae lichstal,
+ich nis vundere iss des Shaft nan du in zaniden / wigter,
+dann allein, das Si anfingllich ind rfgrricht wor
+den, zu vndenwisung der vngeschicftriz montschen/
+So dir Schriften nat lisen konnen, denselben waͤren
+die ellder fuͤr der bucher amzeigt, Diewil tro min

@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>prov=READ-COOP:name=TrHtr:version=2.41.0:model_id=51170:date=09_03_2026_17:24</Creator>
-        <Created>2026-01-27T10:34:54.272+01:00</Created>
-        <LastChange>2026-03-09T17:24:48.401+01:00</LastChange>
-        <TranskribusMetadata docId="13922579" pageId="112790597" pageNr="664" status="IN_PROGRESS" userId="537" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=YFKYSUNMQFGKFWULIHTOQEFX" imageId="95349669"/>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-26T14:16:50Z</Created>
+        <LastChange>2026-10-26T15:18:17.948+01:00</LastChange>
+        <Comments>{"arbiter": null, "geometry_from": "D", "models": {"A": null, "B": null, "C": null, "D": "kraken-bern-schlussredaktion-v1"}, "models_present": ["D"], "pipeline": "agentic_historian ruemlang", "print_passage_score": null, "summary": {"empty": 1, "single": 1}}</Comments>
     </Metadata>
-    <Page imageFilename="112790597.jpg" imageWidth="2479" imageHeight="3508"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="1335,3344 1530,3344 1530,3459 1335,3459"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:single-D; conf:0.50;}">
+                <Coords points="1341,3350 1524,3350 1524,3453 1341,3453"/>
+                <Baseline points="1341,3416 1524,3414"/>
+                <TextEquiv>
+                    <Unicode>n</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>n</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="1912,3348 2234,3348 2234,3475 1912,3475"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:empty; conf:0.00;}">
+                <Coords points="1918,3354 2228,3354 2228,3469 1918,3469"/>
+                <Baseline points="1918,3416 2228,3416"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

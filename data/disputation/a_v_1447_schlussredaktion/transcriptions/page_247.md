@@ -1,27 +1,27 @@
 # Seite 247
 
-Exlösung in Christo durch sin blut Item
-Inn der ersten Epistel petri am 1 cap: Christus
-hat vns erlosst In smein blut Biemit
-mein Ich genug angezoigt sin, Das vnsere
-lebendge christen liche kilch, nit allein nach
-der gothheit, sonders omen nach der mon¬
-scheit vnd durch sin pnterliden, blut vergiessen
-pouw sterben, sie formiert vnd vffgericht
-dan die klech so vor der zukunfft, Christi
+erlesung in Christs vurch sin bruͦt ttem
+Inn der ersten Epistr petei am j cap: Chris
+hat vns erllset In sinem bluͦt Hienit
+mein Ich gnuuͦg angezeigt sin / Das vnsere
+lebendge chrisenlichs kilch / nit allen nocz
+der gothheit / soders ouch nach der moͤnd/
+scheit / vnd durch sin puͤterliden / bluͦtvergesen
+vnnd sterben / sie fornnert vnd vffgeriht
+Dan die kilch so vor der zuͦkumfft Christ
 gestallt
-gewesen ist
-was int solcher lebendig
-dan alle glider derselbigen kilchen waren
-noch In dan zorn potes vnd noch nit
-begnadet, zu der säligkeit sonder die do
-absturben, furen all In den kercker der vorhell
+gewesen ist //
+was nit soͤlcher leͤbendis
+Dan alle geider / dersellgen kilchen waren
+och In dem zorn gotes / vnd noch nit
+begnadet / zuͦ der saͤligkeit sonder de do
+absirli / fuͤrn all en den kncber der vorel
 Berchtoldus
-Meister Vlrich hatt den andern spruch
-zijn gebreern, am xiii cap, allein der
-Ovelltlichen, oberkeit zu geben, Den christen
-aber den dienst götliches worts Also findt
-es sich selbst an spruchen, van spruch In
-Der geschichten der apo: am xx cap: Ist
-erst besagt
-Stimper
+yscgr vllich at den anden strich
+zun MHebreern / am xiij cap / allein der
+welltlichen / oberkeit zuͦgeben / Denchristen
+aber den dienst goͤtlches wrts Alsy fuͤdt
+essu selll an spruchen von spruch In /
+der gestamgten derage am ve cap: it
+erst gesagt
+Seunger

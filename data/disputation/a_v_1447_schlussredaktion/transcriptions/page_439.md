@@ -1,31 +1,30 @@
 # Seite 439
 
-an x cap. Die min lieber bruder Ocolampa¬
-dins christenlich vnnd woll erklart hatt, Damitt, aber
-Vnsern oock sichern vnd gemenier kilchen dese
-haler ynnuen beschende will ick dieselben ouch hand¬
-len, nitt allss vor gehandelte somnders allss bass er
-klorte vnnd ist fur das erst, Das furnemen,
-paulij Die so In den potzen diensten mutt¬
-massen oder psellen wetten, das ist, Das sy mit
-Den potzen diener Die die opffer ijotzer
-assez
-mitt ein andern, ouch assen, hatt wellen, van der
-gemein Das ist kilchen voorsvleschafft vnnd
-vereenbaringe ziechen vff solliche jnage meerungen
-Da Die fur wijtzigen meinten sy mochten an
-verletzung der consentz vande des nechsten van
-pötzen opster essen, nempt pambus die gemeind
-fur sich vnnd spricht Sam en allso sprech wil
-kan einer ein plid sin an zweyen widerwertigen
-gemeinden, Ist einer ein glid Christi vnnd
-smer kilchen
-wie kan er een gld¬
-Der klchen des thuffells sin Das ist min die
-summa, off das volgtere min er wortt
-Darumb (spricht paulus) Ir mine ge¬
-liepten, fluckend van dem potzen dienst
-Ich will mitt vande reden, allß mitt verstenden
-gen vnnd ermessene Ja Das ick mit vch
-red. Das tranck der danck sagemen
-Damit wir Dancksagen Ist das int die
+on ( ap: Die nun licht brider Erllinet
+dins chrisenlich vnnd woll erklaͤrt hatt / Damat saber
+vnsen wider secheen vnd gememier kilchen dest
+halee gnug beschere will ich Dieselben ouch hrid
+len / nitt allßß vor gehandlete / sonders allß basß er
+klaͤrt vnnd ist fur das erst / Das fuͤrnemen /
+pauly / Die so In den goͤtzen diensten mitt //
+assen oder gellen wolren / das ist / Das sy mit
+den goͤtzen dienti / Die die opffer irer gocher
+mitt einanderu ouch assen / hatt werlen / von der
+gemein / Das ist kiechen gsellschafft vnnd
+verembarung ziechen / vff soͤllicht Irrige nieenns
+Da die furwitziden maien sy moͤchtechan
+veltms der wonftiem vnnd des nechsten von
+gaͤcge opfer esen Inempt paulis du gentid
+Eer sich vnnd spricg vimn er allso fercn ws
+kan einer ein glid sin / an zaotyen wderwerigen
+gemenden / Ist einer ein gld Christi vnnd
+siner kilchen
+wie ban er ein glid/
+Der Klchen des thuffels sin / Das ist mun du
+sanna/ vff die voegeid nun die wortt
+Darumb (spricht paulus) Ir mine ge//
+liepten / fluchend vo dem goͤtzen dienst /
+Ich will mil uͤch reden / allß mitt vesstad /
+gen vnd ermlssen ze / Das ich mit uͤch
+red / Das tranck der Danck sagun
+danit won Dan f hen / Ist das nnit, die

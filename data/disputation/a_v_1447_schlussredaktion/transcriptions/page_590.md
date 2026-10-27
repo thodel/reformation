@@ -1,44 +1,43 @@
 # Seite 590
 
-Votre lettre
-pfor ver¬
-der dritten
-wchtt f
-2nd opferd.
-bens des
-for
-and am
-verden
-vbergrjus
-underge
-248
-Die funfte Ghlusred,
-Solich des herren opfer, zin tod auch, täglich In allen
-vßer welten, bis zu der Sijnden gar abstecken, geubt,
-Zu welchem Opfer, dann vns Paulus ad Romanos 24
-xii.e ermanot gedenckt in ouch, ad Colossenses.
-Also Ist ouch geandtwurt, vff die figur des Ostor¬
-lamlis, vnd des taglichen Opfers Ihm gesagt, Chri¬
-stus Ist ein mal gestorben, vnsers wares osterlam:
-li, vnd vertritt vns aber vor dem vatter taglich, To
-Collen ouch wir, unser eijgen lib. vnd danck, ouch tag:
-lich vfopfern, welichs alles In vns, der geist Chri¬
-sti fesu, vnsers einigen vnde ewigen opfercas
-Vss dem allem, wirdt gar nitt vol:
-wirckt,
-gen, das om lib und blijt, In der Mass, müste tag:
-lich geopfrot werden, In habt des dehem beuelch,
-vnd wirdt In Christo aue das, die figue Melchi¬
-sedoch, und alle andre, gnugsam erfult gun, wie
-vor vberflustig angezoegt tst, 6
-Johannes buchstab
-Das Paulus den Hebreern het also geschriben, Ist
-Icker gnug, Das Er Inen het den vnderstheid gaben,
-Das opfer aber der miss, wirdt hienach witter,
-durch Propheten, vnd auch das nur testament
-anzoigt, Es Ist noch nitt, In der Red hern Martin
-buchers, harfur bracht, vff min vorgebue andt¬
-wurt, das der lib Christi, nitt mog vfgeopfrot wer¬
-den, die gegenwurff, So Er geben hat, wellen
-wir hienach bas verandtwurtenn,
+prilen
+n
+Erdessit
+k
+Och
+send
+d
+aal ee
+len
+andic
+24o
+Die funftr Schlusß red
+Bolich das horren opfer, sin tod auch, taglich In allen
+oferwelten biß zu der Suͤnden gar absterlen, geubt,
+zu wilchem Opter, dan vns Saulus ad toraas
+die emanet, gedenckt sin ouchiad Colissensis
+Ass Ist ouch gendtiut vff die figur des Sster¬
+Eamlis, vnd das taglichen Opferb tein gesiczt, Chri¬
+stus Est ein mal gestolben / ensers warrs vsterlant¬
+l vnd vertritt nns aber vor dem vptter tahlich, So
+Dollen ouch wir vnfer echen lib vnd damcl ,: ouch taͤg
+lich vfoen lichs lis zn vns die gust Cheri /
+sti Jesu vnsers einigen vnd ewigenopterres,
+Oes dem allein wirdt har nitt vol¬/
+wuͤrcket,
+gm, dis ein leb vnd llnt en der / fess ist tig.
+rich gropfeet worden, Ir habt des dchei beuelch,
+vndd wiedt Jn Christo aur dag, die figur elchi¬
+sodi ind alr nder gmiasim orfilt ein wir
+vn uberflustig angezeigt ist.
+Eohannas lichstab¬
+ae Piuli den ptienamn et ah hischrben, ist
+lu gnuig die Er tein eit din vndnschnd gebem
+Dar ofrrabn deir mis vidt hernachriter /
+duich Proheten / vnd aich das munz testimant
+amgigt, Es Jst noch nitt, Inder zed hern,/ Martin
+buczers, harfur bracht, vff min vorgelne andt¬
+widet, das dee lib Christi, nitt mog vfgeopfrot wor¬
+den, die gegeuwuͤrff So Er geben hat, wallen
+nr hianach bae verandtmuntenn,
 1

@@ -1,31 +1,31 @@
 # Seite 690
 
-2Iii
-294
-Die vii. Thussredi
-Sinem Hus, de werden harnach die gottlosen, gar
-mitt einer havten] Straff, gestraft, hierumb In
-dehemen wig, magt das Ort zum fag fur dienen
-Johannes buchstab
-ise gloss Ist mitt wider mich, dann Pij negit
-Christlichs, In Ire haltet, das das wortli Crocor,
-ein ewige gefaucknig sije, Eerglichen ouch fin¬
-den wir, fsalmo. 1o. xxxxj. fur vsz. von dem
-kerker min Pol, vnd diewil de hein volkomme schrift
-harfur wirdt gebracht, das das wortli kerker,
-ein ewige gefencknij zije, wirdt diser text, nach
-minem fürgaben, vest bliben,
-Doctor Johannes Oecolampadius
-Van besache bij dem Propheten Esari, was vor vnd
-nuch gange, So wirdt sich wol erfinden, Ob dis¬
-mij glos, fin frombde sije, oder nitt, In dom. 1.
-1. Fsalmen, Mag man vss. dem tittel¬
-und xxxi
-desselben salmen, wel vermercken, was der Etuw
-verstanden heb, durch den kerker, Oann derselb
-Esalm, hat ein solche werstheift, Ein verstand
-David, da Er was In der hule, von welchem wol
-zu vermercken, das der Cauie begaet het, von Paul
-Erledigot zu werden, und von snier anfachtung,
-welche anfachtung fremen kerker nennet, Also
-euch, So wir bitten disen Psalmen, Bettagen wir,
+6
+24
+Die vij. Schrussred /
+sinem hat, So wieden harnach dir gettlison, gar
+mitt eer harten /Straffi gestraft, Hierumb Jn
+dehemen wig, mg die ort zuͦm haͤghur dionen,
+Dtrhannrs uchstas ¬
+ise glis Ist mitt vider mich Sunn S.
+Schriflichs Jn Jro haltet, das das woͤrtli Cocez
+ein einge gefauclins sir, Derglichen ouch tin¬
+den wir, Esalmo/j pexjj fur uß vondem/
+lickie mn Seb, vnd diewil dchzem vollomne schrift
+harfur wirdt gebracht, das das wiͤrtli kerker,
+ein enigt gefaucli y widt diser toet math /
+minem für gaben, vist lliben,
+Daeti Echanuns Dacllann dune
+Imn besaͤcge ly dem frocheiten Esig / wont vn vnd
+nich gangr, So wiedt Sich mil orfinden, Oe dise
+mi glob, Ein frimlde eyr, oder nitt, In dem/1
+1 Psalmen, at man uss dem tittel
+vnd xxx
+dessilben Psalmen wee veemrtlin wae dee Dund
+virstendenhis, durckden frcker, Dum derilb
+Dsian, het nii delche vlerschrift kin veistand
+Dand, Si hn in tnder heili vin nrechein vil
+zu vormorcken, das der Sund begatt get, von Sanl
+Erlediget zu werden, vnd vonsrier anfachtnug
+welchr anfichtug Er wien korker nomet, Also
+ich So wid kitten disen Esalmen, Brgaͤren wir//

@@ -1,35 +1,33 @@
 # Seite 706
 
-4 feb
-prima adcorin.
-thies vj
-24
-222
-300
-Die achtende Schlussvedi
-Silder mathen zu vererung, Ist wider gottes wort,
-mijws vnd alts testaments, Oosthalb wo si In
-geuar der verevning furgestelt, alhijtund sind,
-Francistus Kolb.
-podi-ij.o Du golt dir kein bilder machen, noch Jen:
-dert ein glichnus, weder des das eben Im. himel.
-noch des, das vnden vff Erden, noch desß das Im
-wasser, vnder der erden Ist, watte Oi nitt an,
-vnd dien Inen nitt u, Oeutronomij. iiij.o Be¬
-waren uwer Selen, Ir haben de hem, glichnus gesach¬
-„da gott„
-en, Indem tag, als der herr mitt ich geredt hat
-off dem bergweb # Cie den abgotten dienen, wer¬
-den das Rich gottes niet besitzen, prima ad Cornithios xo.
-Fliechende van dem dienst der abgutter, Chri¬
-stus fesus hat ons ouch gelernot was wis zijn
-guts thun wellen, das wir das thuijgen vnserm
-nächsten, Nathei xxve. Gott kan und mag man
-Dehe in bilding machen, die menstheit Christi,
-Tol In unseren nächsten angeschowet vnd vererot
-werden, Mathei. xxv. hie nachst angezogen, vnd
-Paulus ermandt vns ouch, ad Romanos xij. Das
-wir, einer den andren, mitt Er erbiettung furkom¬
-men, Dirwil min wider das hall wort gottes,
-vnd wider die ler Christi vnd der Apostel, Co¬
-mitt grossem kosten, allenthalb uffgericht sind,
+1
+Cerina adcorin
+thies vj ͦ
+2
+zoo
+irachtendr Schluͤsßred /
+eder machen zuͦ vererngt, Ist wider gortes wort/
+nuͤws vnd alts Jrstaments, Daschalb vro Si Jn
+Houar der verernng fuͤrgestelt, hutund sind /
+traneistus loll¬
+dii: Du get de hir dhe nicgen / nas to
+Diet am glichnit, nrider das das aben Ii hul¬
+noch des, das vndden vff Eeden,/ noch dess das ein
+wasser, vnder der erden Jst, Ob elte Si niet an,
+vnddinn Inen nntt in. Dantionoui iii :. Er
+waren vier Scben, Jr haben dehein / glichnnit gesach¬
+en, Endem tag e e der herr mitt uͤch grredt hat da gobt
+Efdem bart drabf Die den abgaͤttin drenen / wer¬
+den den dich gemt besn pnnd nn
+4liechend von deumndrnst der egitter / Crr
+star Jefur hat vns ouch gelornet was wil m
+gite chun willen,/ das ni die hichen vnsorm
+naceston, Mathei xx: Datt kan vnd ng man,
+dahen ei dn machen, de mnschat Christn /
+Soe en vnderen nachsten angeschoͤwat vnd vrearet
+unden, tr n d er uestangugen vnd
+adut wanndt vnsolch, d Jnnnat pij dan
+wir aer den anderm, mit Er ebidst nich fuͤrtam:
+mon, Diewil min wider das haͤll wort gettes,
+vnd widerdir vae Christi vnd dar Apostel /
+mitt gristem kostin, allinthilb oftgrricht ind

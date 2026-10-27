@@ -1,45 +1,44 @@
 # Seite 416
 
-wie in
-Göllichs Abh.
-niet rien
-and coesties.
-tendich
-opn zesen
-ad zum
-Ut Dechand
-Das te meyn
-hear my
-Die vierd.
-174
-schlußers dr.
-zu einem gesunden verstand, derselbigen Damit man
-mit vff Sophijen autt inn worten kempffe, sollichs
-wortt des nachtmalls mitt dem paulo, erklärett,
-Des Cropi bhalb
-Aber das da ist wie gesser
-angezogenn, solle der vflegend tropus sin, die worit
-figuelich Im nachtmall anzeuemen, Alls daruon
-versdt vnnd gesthribenn, lass ich keines wegs nach
-bisss zu wijterm bericht
-Ocolampadius
-„ and
-Is ist kein sophiseri gnauw vff flißlich vff die
-wortt wercken, Es wer heer ein jophisteren wo man
-ein annere ovortt für andere Darschijbt, oder ouch
-ein anndern verstand, vss. den schrifften vmbewerlich
-Wolan Die wortt von hern Benedicht anzogenn,
-(wie ob gesagt ist) haeben mitt In Inen, Das wir vnder
-dem brot sollen ein gemeinsame Christi verstan, Es
-stett hie das wortlij ist vnnd stett nit vnder dem
-Grott ist, Es ist ouch ein Iodem verstentlich gnub¬
-am, das wir die Christen sind vnnder dem sacra¬
-mentlich brott nitt vergriffen sind
-pfarrer von Santgall:
-Vff furtrag Doctors Ecolampadij, beger Ich
-keine wortt fur, die annder darzusthuen, oder ein
-andern verstand an gschrifft furbringen. Dann
-so ich hab die wert des nachtmalls erkläxet
-mit dem spruch pauli In 1 Exi: zum Chorm: & cap:
-kan es int unsthrifftlich sin. Derglichen sines
-sinns bewaring oder ustlegung van Im nochmall
+e
+sd
+tiree
+diete
+vn
+sug
+da
+Dace
+hrsn
+Die kerd
+134
+sschlußied
+zu einen gsinden versind / derseligen / Damit man
+nitt vff Sophisten artt Inn worten kempffe / soͤliche
+wortt des nachtmalls mitt dem paulo / erklaͤrent /
+des frogi halb //
+Aber das da ist wie gester
+angelegenn / solle der vsligend kicpuir sin / die wortt //
+figurlich Im nachtumall anzenemen / ls daruon
+geredt vnnd geschribenn / lasß ich keines wegs nach /
+bisß zuͦ wyterm bericht /
+colamzadus
+vnd
+eist kein seplies gnam u gflslng vff die
+Aortt meriben / Es wer aber ein sophister wo man
+eimanndre ovortt fie anndre Darschubt / oder ouch
+ein anndern / verstand / vsß den schrifften vmbewerlich
+wolan die wortt von hern / Benedicht anzogenn //
+Arurs gelgristi hrlben net zn snen Dae wr vader
+dem beot soͤllen ein gemeͤinsame Christi verstan / Es
+stet hie dae woͤrtly ist / vnnd stett nit vnder dem
+Brott ist Es ist ouch eurgeden verstentlich gnuͦb //
+am / das wir die Christen sid vnnder dem sara //
+mentlich brott nitt pergriffen sind /
+fe onnhal¬
+Iff fuͤrtrig / Doctors Eolamadi / beger Ich
+ein wort hee du annder Datzuͦstuben oder ein
+andern verstand an gschrifft fuͤrbringen / Dann
+so ich hab die wort des nachtmalls / erklaͤret /
+mit dem spruch pauli In / Eyr zun Chorm / xcap:
+kan es nit vnschrifftlich sin / Dergoichen sinel
+suͤnns bewaͤrung oder vstlegung von Im nochimall

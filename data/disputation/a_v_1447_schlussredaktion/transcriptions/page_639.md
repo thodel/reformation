@@ -1,27 +1,26 @@
 # Seite 639
 
-Die vj. Schlusstvedt
-das allein Christo zu hort, namlich das battonschen
-hunst, So wille es ouch nitt zugelegt werden, denen
-hie vff ertrich, das aber nitt sin mag,
-Meister Vlrich Zwingli¬
-iss Ist alles verandtwuwt, vnd wie das ein volgt. sij
-Christus Etat für vns da oben, darumb wir gottes
-wort haben, vnd wir sollen hie fur ein andren bit
-ten, darumb wie ouch gottes wort haben, So volge
-nun, das die baligen da oben, fur vns bitten, darumb
-wij de hein gottes wort haben 1 Bevilch schallenn
-glaubigen, die Eich gottes wort allein lijsten versicherende
-gidius Murer
-19
-Dise andtwu't, wirdt nitt gnug om, dann So
-Christus fur vns bittet Fm. himiel, So magt ouch
-mitt de hemer Christ, abgeschlagen werden, den hei¬
-ligen Im himel: Cas bewijr Ich, v/o dem heili¬
-gen Euangelisten, Johannis xvii. Opricht Chri¬
-stus, vatter, die Er die du mir gaben hast, die
-hab Ich Inen gaben, vff das Oi ein ding sij en
-glich wie ouch wir ein ding sind, Ich In fuern,
-vnd du In mir, Omd Oi min eni ding mitt
-Christo, So wirdt aue allen Zwifel, Inen das batt
-nitt abgeschlagen werden, mitt biblisther Othrift,
+Die vj Schlusßred,
+das allein Christo zu hert, Mamlich das battensse
+himmel, So soͤlle ob ouch nitt zugelegt werden, danen
+hie vff ertrich, das aber nitt ein muth,
+Hristen Dlrich zmingli
+ist tstallie vprandtirt / vnd wrdis on vlg hr
+Christur Srat fuͤr vns da aben,/ darnune wirgottrs
+wart halin, vnd wir ollen hie fur ein andren bt
+ten dernub win ouhguris rort heben Dircher
+ndi d bligen dien fun vie vnten, diram
+An Sehrin gottes wort haben, dirulch ech allenn
+l en rhe
+Ddie num
+ndmrt/ nnde mangncg ru/som di
+Hhustus fur vne vget hnz heull Sonnigs auhs
+wit dchin Schrift esteligen niden den hn
+ban Jn hns Da onrn h iss din harn
+fin Rungilista, tͦ hame Zvij Ssrcht Chrn
+snd
+ars ich tnmn gabin vff die di ein dungezen /
+alignn an an dung end tyt kirn
+nd dr hn nur, Sund Si min emi dug mitt
+Cerist de vnd an allen gnifil, tnen dis latt
+nit istleigen worden mitt aillischer Schrift/

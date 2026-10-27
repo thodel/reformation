@@ -1,33 +1,32 @@
 # Seite 659
 
-200
-Die vj. Schlussredi
-Ist arguieren ex non concessis. Wir lassend nitt
-nach, das die Engel fur vns bitten, Colicher wisz, Si
-Ses meinen, wie erkennen wol, das Sedienstige geist
-sind, u. Lieber u. Aber de hem gwuster vngezwifle¬
-ter fürständer sin mag, weder Christus, Das ont
-Denesis am. xxviije. vnd das Christus en einem opt
-mer wunderwerck gewurckt hat, weder am andren,
-vnd das Palomon iije. Regum. viii. capite, gebatten
-hat, welicher In den tempel kame uffst alles abkent,
-Da Christus Johannis. mij. Cpricht, Is kumpt die
-zitt, das die waren anbatter, weder vff dem berg¬
-noch zu Jerusalem, werden anbatten, vnd Mathei
-xxiiii. wann man vijh dagen wirdt, Christus Ist
-Im feld, gand nitt hinus, u. Oertodt Lichnam
-Welisei, hatt also nitt kraft labendig zemachenn,
-Das Er ouch labendig, Solichs nitt gehept, Qunders
-alle wunderwerck, sind gottlicher, nitt mentstlicher
-Kraft, Oann ouch Christus Opricht, der vatter der
-In mir Ist, tut die werck,
-Paulus Beck, Predicant zu
-Her curgius
-Gisslingem,
-u
-Dochgelert wis fursichtig herren, vnd frommen
-Christen, Min meinning Iff nitt, wider dis¬
-Schlussreden zu fachten, dann Ich O: Calbs der mer¬
-teil gepredijdt hab, d in aber van einem ersunen wij¬
-sen hat der Statt Olm, verordnet, vnd gesegt In
-die Statt Gisslingen, Irer hersthaft, vnde wir ernst:
+20
+Die evj Schlussred,
+Ist arguieren exvon crucassis/ wir laͤssend niet
+nach, das die Eugel fuͤr vns litten, Solicher wiß, Sa
+xs meinen wir erkennen wol, das Sy dienstige trist
+sind d nobern. Aber dehein gruͤs /ir vngezuifli ¬
+ter fuͤrstaͤnder sin mag, weder Christus, Das ort
+Crursir am /xxviij:. vnd das Christus a einem ort
+mer wunderverck gewͤrcht hat, weder am andren /
+vnd das Calomen iijj Jegum viij j capite, gelatten
+hat welicher In don tempel kame nffst alles abfent,
+Do Christus Johannis imji Spricht, Je kumpt die
+zitt, das dire waren anbaͤtter weder vffdem berg¬
+nach zu Jwruͤsalem, werden anbaͤtten, vnd Nethei
+vxvj j wann man mch dagen wirdt, Christus Jst
+Im feld, gand nitt hinig / Dertidt richnun
+Mtelisei hett also nitt krift laͤbendig zemachenn,
+Das Er ouch laͤbendig, Solichs nitt gehapt, Sunderb/
+allr wunderwercl, sind gettlicher, nitt mentschlichen
+Erift, Dann ouch Christus Spricht, dir vetter dit
+En mit Jst tit die werch,
+Danlug bocl, Perdecant zu
+nn nthts
+Dißlingen,
+ietient miß finscgtighenm / end trenan
+Christen/ i maunug est niet nden dit n
+ohlusseeden zufalten / dem sch d. Dille da mar /
+nd de n
+sondeit dn sa dem ndit end asact u
+die Satt distengen, Jrer hersthift vnd ni erist

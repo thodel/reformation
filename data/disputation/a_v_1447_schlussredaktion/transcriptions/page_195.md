@@ -1,29 +1,29 @@
 # Seite 195
 
-Junger Des hern Ihesen Christi, habend den
-empfangnen gewaelt
-volget Je darust
-das sy ouch houpter mogend sin participatius
-Int voorss. geschlossen, Das war einig houpt
-Darumb so her Berch¬
-tesus Christus
-told die zwo zertheillung Rhan het, Soll
-Er Die wolbetrachten Dan die int werden
-9
-weder much sin E
-Verechtoldus
-Es ist ein einigs houpt, welches D.
-ist ein theilland der gemeind potes paulus
-zum ephesern v tap: Es sind vill ampter
-oder amptent, die sind geider des lobs christi
-sy sind aber int das houpt von Dem
-die pstchrifft redt, Das die glider labende
-macht vnnd ein heiland ist des lybs da¬
-ruß mag der pfarrer, aber int bewaren
-wider vnnser scheustre, Ob schon die
-postell, liechter sind der welet, nitt
-wesenlich sonder Die vom houpt Christo
-erluchtet sind, wie ouch all glouergenn
+tunger des hern / Jhesu Christ heend dae
+empfangnen gewallt /
+volger Je darns
+Das sy ouch hoͤupter mogend / sin pactioiban //
+Ant vßgeschlossen Das wor einig houpt //
+Darumb so her / Berch
+Jesus Christus /
+told die zwo Zertheillung dhan het / Sol
+er die wolbetrachten / Dan die nit werden
+5
+eder mch sin C //
+Berchtoldas
+s ist ein einigs houpt / welches da
+ist ein heiland der gemeind gotes paulus
+zum ephesern / v ͦ cap: Es sind vill aͤmpter
+oder amptlut Die sind geider des lybs christ
+sy sind aber nit Das houpt von Dem
+die gschrfft redt / Das die geder laens
+macht / vnnd ein heillend ist des lybs da //
+ruͤß mag der pfarrer / aber nit bewaͤren
+weider vnnser schlußred / Ob schon / Die
+Apostell / liechter sind der wellt / nitt
+wesenlich sonder Die vom houpt Christ /
+erluchtet sind / wie ouch all gloͤuligenn //
 all Christen sind
-Daruss volget, aber
-nit Das Daxumb all Christen houpter
+Daruß volget / aber
+nit / Das darumb ill Christen houpen//

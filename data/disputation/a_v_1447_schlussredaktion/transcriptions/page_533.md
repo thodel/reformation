@@ -1,32 +1,32 @@
 # Seite 533
 
-Das Du muw hast geben, Das ick sollt thun, totz
-verklär du much by die selber, mitt der klar¬
-hert
-Welche Ich gehapt hab by dix lb
-vnd die wollt wurde der gestallt ouch zum
-hebben am ii ca: Du hast In gemindert, ein
-weinig, vnder den en gell, derglichen onch aleß er
-ist zugegangen, Zu besten lossenen thuren vnnd vss
-dem gras exzoiget alles vnd probiert Die vn
-vss sprechenlicht vereiniging der götlichen natur
-zue dem Monstglichen wesen, So min vorhin durch
-min her vnter ingefurt worden ist Er soe der
-monstcheit nach een vns genomen. In Die vn
-welche her¬
-schbarliche heclykeit gottes
-ligkeit pottes erfullet, Hamell vnd erden, So ist
-die gerechte gottes kein somders ortt, vnss disvn
-allem. Wo der lijb Christi allso in einem sondern
-er theophorus
-ortt, sin musste mochte
-genant werden, Das is't pott allein, Durch die
-gnad In Im haben Ist allso endtlich vnser ver¬
-stande, Doch vorbeh allen, als leegen, wo wir mitt
-recht glaubtent, oder hultent, Christen licher bericht
+di nr ait ein Darmn sentein
+perklaͤr du muich by dir selber mitt dor ber/
+heit /
+welche Ich gehapt hab by dir eb
+vnd die wellt wurde Der gestallt ouch zuͦn
+herchern am ij ͦ ca Die hast In gevundert / ein
+weng vnder da engell / Derglichen ouch alest er
+ist Jngangen / zu beschlossnen thuren vnnd rsß
+dem grab / erzoͤiget alles vnd probiert / Die vn /
+vßsprechenliche vereingung Der goͤtlichen natir
+zuͦ den dainschliuchen ween / So um vrhin durch
+nun her bucer ingefuͤrt worden ist Ey sye der
+moͤnschet nach von vns geroman / In die vn //
+welche her//
+chharlichs herligkeit gattes /
+liket gater erfullet Hinell vnd eden So ist
+De gerchn sorne ken sonde v ditn
+alen / Ser der lyb Christi also in eien sadden
+er Eheoporat
+ortt / sin mußst naͤchte
+genaͤnt wasen / Das ist gott allen / Durch die
+vnrd In Im haben Jst allso eidtlich vnfer ver //
+stad / Doch verbehallten / allloeg wo wvir nitt
+recht glaubtent / oder hiabtent Christenlichen bericht
 Der
-Darns min Christus lijblich Im brotts
-Danck Sagnus genossen werden wider den andern
-5 stuijvers
-aringkell „ mitt verstanden werden soll
-huijsse
+Daruß nun Christi/ lyblich Im wel /
+Damk sagnh gniossen woriden vider dn andern/
+sesin
+argkll rsut vrrsteden werden sol
+Bucer//

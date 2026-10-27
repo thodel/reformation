@@ -1,27 +1,27 @@
 # Seite 651
 
-# Regel oder
-Die vj. Chlussred,
-Een
-Johannes bijchstab,
-Die Othrift durch mich Ingefurt, lass Ich bij den
-blossen text, nu alle glos, bliben,
-Doctor Johannes Oncolampadius,
-o bitten wir ein tecklichen christenlichen laser, das
-Er die Christ mitt verstand lase, vnd war name,
-worauf die tropheten Reden
-Johannes buchstab,
-Dir mochten noch haben kundtschafft vs Thobia
-Baruch, Nachabeorum, und April ipsi, &o last
-man es vns nitt zu¬
-Gottor Johannes Oecolampadius
-Der thulmeister solt wussen, das die bucher, So
-bij der Wibel, zusamen gesagt sind, ein vnverstheid
-haben, vnd gine nitt glichs gewichts, fittich bucher
-zind darzu verordnet, wo man von dem glouben reden
-wil, das man zuguisz dorff anzuchen, wider die
-widersicher, die werden genant Canonici, Carumb
-das Oi vns sollen zijn, als ein # Richt schitt, In Packen
-des glaubens, vnd dero bijcher de heins, wirdt Inen
-abgeschlagen, Andere bücher werden gelasenn,
-darmus vas Si, entwaders gut exempel, oder ouch
+angel oder
+Ir rj Stelusßred,
+4
+Johannes bichstal¬
+2Schftduich mch zngikitt liß tilhdem
+llossen tryt, aie alle glos,/ blaben,
+Dictor Jchennas Sacclunpadiis /
+o bitten wii ein Jicklichen christeulichen laser, die
+ht stndlis n
+woricf die trapheten Jeden
+Johamal eichstab //
+ii mochten nach haiben kundtschifft ist Choli
+Baruich, Nachibrorum, vnd pocalisi So list
+anan evus nitt zu
+Datu tchnnas decluniduie //
+i Seilnrsti ot nussn, dis de eicten / bi
+d nsinnsut end ein vndnschrn
+haben, vnd sind nitt glichs grwichts, Ertlich licher
+eind dunzu verordiret, In mun von dem glouben zeden
+wil / das man Jugruiß derft anzuͤchen, widerdie
+nidersacher, die werden gemant Caneniti, Carumb/
+das S. vs soͤllen sin / als einlicht schitt, In Sichen
+Dae floͤulans, vnd dirs buͦcher deheins, wirdt Jien
+algrschligen,/ ande bucher wordin gelaisenn
+darnms das Sineutwaders gut exeingel, der ouch

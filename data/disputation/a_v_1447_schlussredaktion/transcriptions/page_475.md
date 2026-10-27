@@ -1,34 +1,34 @@
 # Seite 475
 
-werck
-Wir ouch Matheij am xxj cap: Im fugen bouw
-vnnd verendrung des bergs
-Darm alle die
-Ding, so wir over den begeren pittend vnd gleubgen
-wenden werden wir empfachen, vnd beuelcken
-Söllichs abermaels Den actis
-Zwingli
-Das die gab des glaubens vilen vnder staende
-Merer oder minder geben werde, erkennen wir
-(voge)
-Wer dis argument, oder gegen wurff
-wurde allein perchen vff die grösse des glaubens
+werch
+Wir ouch ghatle am voj cig Jmfuͤgen gen /
+vnnd verendrung des bergs /
+Dann alle die
+Ding / so wi werden / begeren pitend / vnd geaile
+verdent werden / wir empfachen / vnd bevelchen
+oͤllichs abermalls den aclis /
+wangli
+Das die gab des geocbens viben vderstchadlth
+merer oder ninder geben werde / erkennen wer
+woll /
+Aber dis arguneent / oder gegenwurff
+wurd allein reichen vff die groͤsse des gloͤtbens
 vnnd nit vff das vermogen des vsserlichen
-Aorts Dann so der glaub, Das vermag
-genue nitt das vsser wortt, So haben wir
-recht vnnd sind sy von Irem spruch getrungen
-Das das vsser wortt, sollich vermogen, hab, alls
-sy anzoigent, von wunderzeichen, die von petro ge¬
-wurckt vnnd durch mich gloubigen int gewurck
+worte / Dann so der gloub das vernns/
+vnnd nitt das vsser wortt / So chiben wir
+recht vnnd sind sy von Irein spruch getringen
+Das das vsser wortt / soͤllich vermagen / hab / als
+sy anzaͤigent von wundlizeichen / die von Petro ge //
+wurtet vnnd durch mch gloubigen nit gewirckt
 sind
-Sag ick das die red vnsera vordrig¬
-meynung bestätet
-Darm die wunder
-Zeichen weder an minem glauben noch am vssern
-vort stand. Deshalb aber Ire meijning ze xuck
-lijt, Dann die krafft der wunderwercken
-mitt an vnserm plauben, souders an der wall
-pottes stam, Davon hie uudt stat, Ist nach not¬
-durfft zereden
-vnnd sijnde die ort die
-Christus vom starcken glorben redt int Darwider
+agih die d vnserer vordrigr
+meynung frstaͤtet
+Dann die wunder
+zulendeder an minen glaben nch Cand rstr/
+wor stond / Deßhall ablr ze meynung ze rine /
+lyt / Dan die krofft der wunderwercken
+nitt an vnserm glacben / sonnders an der will
+gottes stand / Davon hie nuͤdt stat / Ist nach not //
+durfft zereden //
+vnnd send die ort die
+Christus von starcken genlen d ni Darwder

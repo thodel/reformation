@@ -1,32 +1,30 @@
 # Seite 491
 
-Dechuus, gebenn sy mitt amndern worten die
-Vnseggung vnns Jun die Henne oder min her¬
-pfarrer sag her, was er nempt, Das uw tho¬
-tament Damit die conscientz versichert over
-den Dann so er den Charen spruch, allso
-verduncklet, mitt siner vnbewerten vslegung
-So wirtt er sin consuentz int versichern, noch
-komen, Is wirtt sich aber er finden, Das der
-spruch klar fur vnus ist, vnnd die Apo¬
-stell woll nach vinnserm verstand In begraffen
-hand
-Pfarrer v. s. g.
-Off verantwortung mins hern Doctors
-Twee min Ingetragne redt. will so durch
-Inn, furbracht verlassen ich een zu horonem
-vnnd lasern, sollichs erkennen van dem wort
-ly enim, mit vergichung des spruchs pauci¬
-Verstan ick durch das wortt, enim. So verthuscht
-Wirtt, dan sie ein gnugsame erklärung der
-Ovorten, so in einen sinn vnnd verstand vmb
-ein geiche sach verstanden werden soll, von
-woden
-C
-Der fyur generisisis am xvi cap:
-stunde der gestaelt wie vor angezeigt In inner
-f Den
-ersten red liess ichs belieben
--
-spruch luch der Kelch sie das nuw¬
-thestament In minem blut, Ist einem Ihr
+Dechnus gelenn sy mitt andern warten / dae
+uslegung vnns Inn die hennd / oder min hain
+pfarrer sag her / was er nempt das nutse //
+stament Damit Die vonstieng verfichert wer
+den Dann so er den Chaͤren spruich / also
+verdunklet / mitt siner vnbewerten vßleungh
+owirtt er sin conssienz nit versichern / noch
+keines / Es wirtt sich aber erfinden / Das der /
+spruch kar fuͤr vnns ist / vnnd die Ap//
+stel woll nach vnnserm verstand / In begriffen
+hand /
+Pfarrer eis g.
+ff verantwuͤrting mine hern Doclons /
+uoer min Ingetrigne red / vill so durch
+Inn / furbracht verlasß ich den zuͦ horenden
+vnnd laͤsern / sollichs erkennen von dem woͤrt
+ly emmn / mit verglichung des spruchs paili/
+Derstan ich durch das wortt / einen So verhust
+wirtt / Dansie ein gnuͦg ame erklaͤrung der
+worten / so In einen sum vnnd verstand vnd
+ein gliche soch verstanden werden sol / von //
+wid
+der figur geneses am xvij ͦ cap:
+stuͤnd dergestallt wie vor angeztyt In ml
+Den
+ersten red / liesß ichs beliben /
+spruch Luch der krlch sie Das nune /
+hestament In minem brut Ist einem /s /

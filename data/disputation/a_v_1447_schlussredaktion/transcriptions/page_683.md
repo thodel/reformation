@@ -1,38 +1,37 @@
 # Seite 683
 
-46
-# wirdt
-Eu. vii. Thlus twee
-für aller aufachtung, vnuerpuckt In glouwen tringt
-Darumb heist hie buwen, leren vnd predigen, Cas
-fundament Ist Christus, das werck (das da buwen
-wirdt, sind die dis wort horen, vnd annam enn,
-pruia Cornithiorum. viii. Qind fr nitt mij werck
-In gott dem herren, Cas fur fst anfacht uijt verfol:
-gung, vnd durchachtung, welche heilsam Ist allen
-gloubigen, zatharie xiii. Ich wird den doitten teil
-furen durch das fur, vnd wird t' brennen, wie das
-Eilber brent wirdt, Ich wird etc. probieren, wie das
-gold probiert # xxx, Das gold aber, Bibber, und Edel
-gestein, gind, die das wort gottes angenomen handt
-vnd fe den tod litten, fe si daruon tunden, Holgh
-how vnd Hufften sind, die ein zitt lang gloubenn,
-So wer die infachtung kumpt, und sich das fur
-der toubsal vnd verfolgung, erheyt, So fallen Bi
-Dahin, wie holy vnd Stuffel van dem fürstelso
-Ist vsz. dem text Pauli Salbs, heitter und clar¬
-das Er nitt vom fagfur redt, Sunder van dem fur
-der verfolgung, vmb der ler willenn,
-tag
-Sommers
-xiiij
-Am
-Johannes buchstab,
-i
-1e
-Die gloss úber den Cxruch Pauli gestern Inge
-furt, min Ich nitt an, wann Paulus hie heitter
-Opricht, der tag des herren, wirdt das er klarenn
-Nun Ist der tag des herren, uijt anders, dann der
-abscheid von diser zitt, von dem Paulus ouch gagt
-j. ad thesstlo. v. das der tag des herren werde
+2
+tt wiedt
+Die vij Schlussrid¬
+fur aller anfrchtung, vnurwucht Jn gloiben trindt
+Daruub heist her buwen leren vnd predigen, Das
+Ikundnnrn st Chustun, wnaf ed enuin
+wirdt, Sind die das wort hoͤren, vnd annamenn,
+prun Cornithtorum vnn Sind Er nitt min worck
+In get dem hexren, das fuͤr Jst anfatgtuig vorfel¬
+tut vnd durchichtung, mdche huilsun ist allin
+gflaubigen, zachrie xiii: Ich nind den datten tril
+furen durch das fuͤr, vnd nird Sibrannen, wio das
+Diber brant wirdt, Ich wind Si pribiren, wie das
+tad enbt Catgeld ler,/ Slber, vnd Cort
+gistom, eind dir die wort gotro amtonain hand
+vnd Er den tod litten, Eev. daruon Stuͤnden, Hale
+hoͤr vnd Sruͤfflen sind, die ein zitt bang gliubenn,
+Do abor die afachtnug eimpt, vnd Sich das fuͤr
+der trubsal vnd verfalgnug , erhert, So fallen di
+dehin, wie holt vnd Stuftel von dim fuͤr Also
+Ist osß dem toxt dauli baͤlle, hettter vnd clir,/
+das Er nitt vom fagfurredt, Sunder vondem fur
+der verfolgnigg, vmb der ler willenn,
+cag
+ennor
+Ri
+am
+Ichannes luchstab/
+2
+Die gloß vber dan Spruch Paulen gestorn tige/
+firt, min Ich nitt an nann fclus Er hrnittet
+Orngt din tng die enen, wirdt die allann
+ann Ist di eng die hriran / rit andine dum die
+rshud dsn zet venden is uhoigt
+di dii en

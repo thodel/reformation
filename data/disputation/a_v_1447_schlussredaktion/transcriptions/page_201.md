@@ -1,26 +1,26 @@
 # Seite 201
 
-behallter vnnd der yantzen wellt, Bezug ich mich
-Das ick den glauben ouch hab
-vnd last
-dabij ein geden Christen, Das vrtheill wie
-sich des pfarrers rei, der warchen vnnd
-dem gestrichen verJechen vergliche vnnd vor¬
-an Lass mich ouch vff sine wort, Die
-von den schribern In die acta vervasset
-sind etc.
-Meister Niclus
+belallir / vnd der ganzen welt / Bezus nchnd
+Das ich den glouben ouch hab /
+Vnd liß
+Daby ein Jeden Christen / Das vnthell wie //
+sich des pfarrers red / der warheit vnnd
+dem getrigen verzechen vergliche vnnd vor //
+an / Lasß much ouch vff sine wort / Die
+von den schribern / In die acta vewvaser
+sind
+Meister Nicbas
 Christen Senger
-von Hoffingen./
-In dem namen vnsers lieben Hern,
-desu Christi verlich vns got der himelsten,
-vatter, durch die gnad gots des heiligen
-geists ware, rechte, christen euch erkantnus
-suues heilligen worts vnd götlicher verschrifft,
-Erwurdig, großmeechtig, Edel, vest, für sichtig
-wijss, hebben, gnedigen, hern vnd guten freund
-Ench fromen, bierben Christen wie Ir huijs
-versambt sind, vmb erkantnus götliche
-warheit
-wie woll ist das ick
-mich int vnderstand, entstheil vnd lieterung
+von Soffingen
+n den mmen vistere aicen agaen /
+Jesuͦ Christi verlich vns got / der himelsch/
+vatter / durch die gnad gots des heiligen
+geists / ware / rechte / christenlich erkantins
+sines heilligen warts / vnd götlicher gschrisft /
+Erwurdig / gronechag / Edel / vest / firsute
+wyß liben / gndigen / hern / vnd guden fund //
+Ouch fromen / biderben Christen wie Irhie //
+versamlot sind / vmb erkantnus goͤtlicher
+warheit /
+wiewoll ist das ich
+mich nit vnderstond / entscheid vnd lutreins

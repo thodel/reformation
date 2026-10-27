@@ -1,31 +1,31 @@
 # Seite 291
 
-Die ander Schlusvred,
-Martinus buijer
-Die lassen es bliben, bij dem vortril der glaubigen
-wann das Ort zun Galathern, antrift alle christen,
-Derglichen haben wir euch zu den Colostern, am¬
-So land nun vch niemand gewussen machen u
-Die wil dann die christenlich ter verbütet, an gun¬
-dre tag, die gewussen der gloutigen zu binden, De
-ligts am tag, das nun der widerchristlich gewalt
-Oelichs vnderstanden hat, vnd heist vns der wil
-Der christ, waer Ie Solichs furgenomen het,
-Johannes buchstab,
-Die wil Ir gestern haben zugaben, den Duntag
-vnd zwolfbotten tag, van der tilchen mogen vf zijn
-gesegt worden, mogen ouch dese Stuck bestan, Das
-aber Ich gefragt, Ob der Gapst ware der widerchrist
-wolt Ich mitt Biblisther Othrift, darwider geredt ha
-ben, wer witter an die Oach zugriften, Das
-wir ouch andre Christen, In der Bibli mitt be¬
-griften, zu christenlicher ordnung vnd lere dienende
-Noch halten mogen, sind ich bij dem heiligen Paulo
-zu den Corinthern, Epistola 1en. Capite. xvo. Das fr
-anzucht den foeten Therentium, Os Er Opricht,
-Gose geschwaij verderben gut litten, Oostglichen
-zu den Exhesiern am. v. zucht Er harm, Als ob
-Is andersthwo warhaftiblich geschreiben stand, vtanden
-vf der du Othlaffest, Item. ii. ad Chimotheum iij
-zucht frivir fannes vnd Nombres, Moisi Open¬
-widerstanden, Item zu Lito am ersten, Creten¬
+Die ander Schluͤsfred /
+Martinus buczer¬
+nlisfen io llben, by dem vrtoil dir hlaubiten
+wann das bet zun Calichern, ntrift alle chisten
+Derglichen haben wir ouch zu den Colassern, an
+Se land nun uch nirmand ge russen machen i
+Diewll dann die christenlich lar verbuͤtet, an ein
+der tag, die gewussen der gloͤuligen zubinden, S
+ligts am tag, das min der widerchristlich gewilt
+Bolichs vnderstanden hat,/ vnd heist vnr der in
+derchrist, war Jr Solichs fuͤrgenomen het,
+thannas kuchstal
+rvil Er zestern haben zugeben, den duntit
+vnd zwoͤrflotten tag vn der kilchen mogen vf ein
+gesit norden, moten auch dise Stul listamn, Dae
+aber sich getrigt, de der Bapst ware der nidercheist
+wolt Ich mitt Biblischer Schrift derwider geredt ha/
+ben, Aber witter an die Sach zichriften, Das
+wir ouch andre Schriften, In der Billi nitt kr¬
+griffen, zu christenlichet ordnung vnd lore dinend
+ouch haltru megen, find Ich bydem heiligen faulo
+zu den Coritheen, Eristola . Capite / v. Das er
+amzucht den Potten Cherentim, Die Er Sprichten
+Gise geschwracz verderben git Sitten, Deschlichen
+zu den Ephefiern am v zuͤcht Er harin, Ale ab
+Eg anderschine warhaftillich gschriben Stand, San
+vf der du Schlaffest, Jtem / i adhimnotheum
+zuͤcht Er wir Jannes vnd sammbras, Ceisi byen/
+widerstanden, Item zu Cito am ersten, Cieten

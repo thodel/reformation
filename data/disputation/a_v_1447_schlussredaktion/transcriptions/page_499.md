@@ -1,32 +1,32 @@
 # Seite 499
 
 Zwingli
-Nun frag ick sy, ob zweij muwe thestament siende
-oder nun eins
-pfarrer v.s.g.
-Nuntwurt ick es ist allein een mur thestament
-Lwingli
-So voegt Das kom tranck Das miw thestament
-sen mag.
-Fauxxer v. f. g.
-Inntwort ick kein trank vermag das nur thesta,
-Aber Das blut Christi wie ex ge¬
-ment sin /
-redt hatt, durch machennen. Das ist min blut
-des nuwen thestaments vnnd Lucas ouw sagt
-In minem blut ende
-Zevingh
-Das sind Ir egne wort, kein tranck mag. Das
-muw thestament sin, Das blut Christi ist ein
-tranck, (allss sy roeen) So muß Das blut Busti¬
-mit Das nur testament sin.
-Pfarrer v. s. g.
-De fiat processus in infinitio et ex theologus Aristote
-licus bemlich ick sollichs een lesenden In een
-actis zeeckennen
-Zwingh
-So voegt min das die wort, Das tranck is
-Das nuw thestament, int mussend schlechtlich
-„ sonder
-noch wesen lich verstanden werden, Das per
-Methonomiam Das ist durch ein nachnemen
+Nin frag ich s / ob zwey nue taestiment hend
+oder n eins
+pfarrer vsig.
+Duwurt ich twbist alein ein mur taestiment
+wingli
+so voegt Das bein rane dae mur thesmmer
+sin mag¬
+cfarrer visig
+nitwurt ich kein tranck vernag das nuw thest //
+Aber das blut ohrist aie erge //
+ment / sin /
+ret hatt / Durch aathein Das ist min bluͦt
+des nuden thestaments vnnd Lucas ouch saigt
+In minem bruͦt n
+wingli
+Das sind Ir agne wert kein trambnng de
+nu thestament sin / Das bluͦt Christi ist ein
+ron dae non So mus Das writ llish
+ait das mine thestament sim /
+farrer vis¬
+sil goetent in infune a/ ax Creg geesat
+nlus beulch ich soͤllichs den losenden In den
+arsar zeerkennen /
+Zwingli
+w mnewolt Dasron
+Das nun thestament / nit missend schlechtlich
+sonder /
+noch wesenlich verstanden werden Das pet/
+erhonomi it duch en nachnen /

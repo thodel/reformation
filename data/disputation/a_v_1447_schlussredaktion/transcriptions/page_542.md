@@ -1,55 +1,54 @@
 # Seite 542
 
-nierung des
-Hexxen
-Den 3.
-nen. Das
-que leur
-socken sin
-afft tenn
-lijs of off
-nell Xster
-him
-I am Sir
-bewären,
-men in
-Hanns
-4
-226
-Die 4 Sluijsroe
-Dryen Keiner vff Duien vss. gelent, Deßglichen
-Das osserwelet vassen pauens auch mir inen zustimpt
-Da woll zuuerstan ist, ein Jegklichen Christen monschen
-Wenn die meynung des hern were vff Diening
-gewesen, es were heitter angezoigt worden, Etlicher
-vnder Inen hette es vff duten angezogt, oder vß gelett
-Dan sollte man das oortlij ist, hie vff Duten ne¬
-men, wie sy sagen, mocht vns woll schaden daans
-enspringen, an vnserm vngezwyffelten glauben / an
-andern orten, so man es ouch allso nemen welke
-Nanckien Johanus 1 ca. Das wort ist fleißich
-werden. Item Lucas ii cap: Hgutt ist vns
-geporn. Der behallter der weder sollte min an dispi¬
-beiden exten Das Wortbij ist fur beduten genomen
-was vns darusz mochts, entstan In
-werden
-Item van dem Spruch so is
-kunfftiger zijt
-am vj capn. fleijten ist kein mitz, gester mach der
-lenge Durch Benedictn. pfarrer von sant-gallen
-will meijser vlrich mit siner de¬
-Dar gethan
-Alaranen vnd verstand zijchen, vff das fleijsten
-Christi Weelichen sinen verstan ick not
-Dan der her Jesus Christus Schlech¬
-annim
-vngklich redt, fleissen, ist kein nietz, lassen haruß
-So er doch vor aelweg
-Das worten min
-vnd deo mertheill wo er von sinem Fleisten vedt
-gesprochen min fleijten ende
-Dabij voll zu
-eer stan ist
-Das Der her uit van sinem
-fleißen geredt hart, Sonder von dem fleischlichen verstand
-Ses der her ouch angezaigt petro Machers: g vs cop:
+w
+htirt
+Der
+en Da
+ach d
+wren
+e
+vstn
+chond
+sangen
+a
+wnh
+ared
+2
+22
+die Slusred
+Digen keier vff duten vsßgrlntt / Deßglichen
+Dae eserdoren vass zunen aha ni Bn tuͦstungt
+Da wold zuͦnersta isen ein Jepklichen Clgristen moͤnschen
+we gn des hern wer vf Dietug
+gaesen / es abere geiter angezagt weden / Etlicher
+vider Inen hat rs uff den ngheet iber geten
+n a icnan
+mes ne len n vie sn d
+ersprngen en s hnfen gn n / an
+endern open / so men / es ouch also nanen wachen
+Mamlin Johnmie ca Das wort ist fleist
+werden ei Ducas i. cap Hir Ist vns
+een e n woe so un an den
+eiden orten das woͤrthy ist su bediten genamen
+was / vns daruß maͤchte / entstan In
+werden /
+Item von dem Sprich hys //
+kunfftiger zyt¬
+an v a frisch ist ven u ser ch der
+Enge durch Benedicen / pfarter von santgallen /
+wile maͤser vlrich mit siner de //
+Dargethan
+Rraranen end verstand zuͦchen / vff die fleisch
+Christi / wellichen sinen verstan ich nat
+Dan der her Jesus Christus schresß
+an nim /
+tengklich redt / freisch ist vein nezlasßt harusß
+So er Doch vor alloreg /
+Das woͤrtly / min
+vnd der mertheill woo er von sinem sbeisch redt
+gesprochen min fleisch e
+Daby woll ze //
+versstan ist
+Das der her nit von sinem
+fleisch geredt hatt/ Sonder von dem fleischlichen verstand
+Vs der her ouch angezaigt petrs / Mlacheis/ xvschgi

@@ -1,33 +1,33 @@
 # Seite 333
 
-96
-A
-Die dritt Ochlusred,
-Als etc. tot 1 volget schier harnach aen. p. capitel. dar
-der fugel zu Cornelis hab gesprochen, om gebitt vnd
-Allmusen, sind vfgestigen In die gedachtnis, fur
-das angesicht gottes, Eerglich en wirdt ouch fun¬
-den bij dem zaligen man Thobia, So Er spricht,
-mitt dem Minusen vnd glauben, werden abgereim¬
-got die búnd
-Martinus butzer
-Der Thabitu halber, Ist der Text clar, da lass Ich
-bliben, Cornelius gebatt vnd Allmusen, gind von
-gott angenomen worden, Es dat aber nitt, das sy
-gott damitt, etwas abuerdienot hätte, Das sine wert
-gottliche gnad verglichet hatten, Es Ist ouch nitt
-vbel geredt van Thobia, wiewol dieselb histori nitt
-Wiblisten Ist, das mitt glaub vnd allmusen, die gun¬
-den gereinigt werden, Oann Je mer man gott
-glaubt, vnd den glauben, mitt den wercken der liebe
-bewist, fe mer die liebe gottes, in uns zunimpt,
-Je lieber wir dann gott gewunnen, te mer, begick
-zusunden, fu vns gammwot wirdt, Der Ohul¬
-meister solt flissig mercken, die Erklärung hern
-Werchtolden, gütte werck mij man aue vnderlass tun¬
-Wann man aber, schon alles das gethan hette, das
-noch nie de henier gemocht hat, was Im gebotten ff
-noch dannochs ware Er ein vnmuyer knecht, vnd
-alle sine guten werck, die mochten die gnad gottes
-noch nitt verglichen, hij dem so sind alle güte werck
-nitt vnser, zunder des geist gottes, In vns wurckens
+36
+1
+Die dritt Schlussdd
+Als Si tet, vilgot zchier harnach am picapitesd
+der Eugch zu Cornelis hab gesprochen,/ Sin gebaͤtt vnd
+Allinsen sind vfgestigen In die Jedachtiur zun
+dagangesicht gottis Derglichen wirdt ouch fun
+den by dem gaͤligen man Thobia / So Er spricht,
+mitt dem Allnusen vnd glouben werden abgereini/
+get da sund
+Martinuͦg Buczer
+gattthibin iller, Est de Rrt clar, diliss Jns
+gliben, Dorvaling gelaͤtt vnd allniusen, sind von
+gott anginamen muͤrden / E dtet alir nitt, dae /
+Jnt damntt itirag burdenet hett, dae eine nitt
+zettlich gnnd varglicht gettin E Ist ach nitt
+vbes horrdt von erlie Mrwl diesalb nistotz nitt
+cullisch ist, dig nittt glub vnd allnuisen, die zu
+den Jewaniget vnden/ Dunm Jt mor mmn gett
+n n n n l
+enist J morde labe gitis en vng zunimgt/
+ii huli un da git
+zusinden in vnn enundit nudt Di Ci
+arist ilt ise en de llarug hern
+Bachteden gutt ind ni man aur ndlis tn /
+wan man aber Schen allie das githan hettr das
+noch vns dhriner grmnicht lit, was senn gelatten It
+noch dannocht waͤre Er ein vnmner kurcht, vnd
+alle eine guͦten worch die moͤchten de gnd gottro
+rich nratzergeichene zuden en nnd alli gite mat
+nitt vnser, gunder des geist gottes, In vns wurclen

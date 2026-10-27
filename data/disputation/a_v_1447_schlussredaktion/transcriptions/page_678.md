@@ -1,34 +1,32 @@
 # Seite 678
 
-3.
-288
-Die vii. Blussredi
-Oach, das Er deren wis, die allen Iren trost vnd vertruw¬
-haben
-en, fu „rechthumb gesecht hatt, So rurt er fin. sin In¬
-nerliche kranckheit an, die Fr meint allen mentschen
-verborgen sin, vnd opricht, wilt volcomende sin, Etholo¬
-gice, nitt das vijit moet volkomen machen, weder der
-einig gott, vnnders, das der Jüngling, sich vermeint
-voorss. sinen wercken, vff dem weg der volkomenheit in
-welichs doch nun ein glichstuerij was, Oomme Christus
-sprache, Ou rechnest din gute nach dinen werckenn,
-vnd thust aber nun werck, die die biebe der Richtagen
-nitt verlegen, wilt du min volkomen sin, nach duier
-meinung, So verkouff ibles die du hist, hier gehen
-wie, das der Jungking, nitt het glauben gehapt, sun¬
-der vertruwen vff sine werck, vnd die selben werk,
-die hat Er wetten Rhezen, wie Er hat geweltenn,
-vnd 80 tm. gott tagt, was der Recht glaub enuordrot,
-So gat Er dannen, Ihere mie. xxxj o. Iff ein ver¬
-glichende Red, und dienst nitt vff das fugfür, gun¬
-ders vff die Straffen, mijgen, vnd arbeitten, die
-gott vns mentsthen zufugt, Is aije am. xxxv.
-wirdt geredt, van dem weij des fuangelij, das alle die
-darum wonen, die werden nitt vurein sin, Also
-wirdt ouch In dem Psalmen, fur vnd wasser, für
-angst und trubsal genomen, mitt denen vns gott
-anficht In diser zitt, Nitt für einicherleij fug fur
-Es minst gunst ouch ein fagwasser zin, Oesshalb
-dise ort alle, de hein fagfur bewarenn
-Johannes bijchstab
+2os
+Da ij Schlissed
+Sach, das Er dern wis, dir allen Jren trist vnd voltrure¬
+on, furtchthuml gesetzt e n So ruͤrt er ein ein Jn¬ haben
+norliche kranckeit an die Er meint allen mentschen
+verbergen sin, vnd Opricht, welt vollomen sin, Etholo :
+gice, nitt das vrzit moͤg vollomen machen, weder dor
+rinig gott, Sunders, das der Juͤngling sich vermeint
+vss sinen wercken, vff dem wig der vollemenheit ein
+welichs doch mn ein glichserg was, Sam Christus
+spraͤche, Du rochnest din gitfr nich Sinen waorelum,
+vnd thust aber mn werch, die din liebe der Lichtagen
+nitt volecen, wilt du min vollamen sin nch diner
+meimt Se verkruͤff allis dis du hast hie sechen
+mii, das der Juͤngbug, nett het glouben gehept, sun¬
+der vertruͤwen vff gnie worcl, vnd diesallen wertl,
+der het Er wellen Schatzen, wie hr het gewillenm,
+nd . en get rigt ne de zicht gluib wuͤndat
+. get Er dumen harrmi ist zin vat
+flichende dnd vnd dient nitt uffdar figfur, sun¬
+dase vff der Ctriffen, uugen vnd atbaten, der
+gott vnr montschen zufugt, Jsiyre am xxxv
+winrdt gerodt vnn dem weg die Euangei, das alle dr
+darum wonen, die morden nit vnrein ein, Alio
+wirdt ouch In dem Efalmen fur vnd wasfer fur
+angst vnd trubsil geuomen, mitt denen vns gott
+anficht In diser zitt, Mitt fut einithetley fygfur
+Es must zunst ouch ein fagwasser zun,/ Daschalb
+desr ort alle, dehein fagfur bewarenn
+Johannes buchstal

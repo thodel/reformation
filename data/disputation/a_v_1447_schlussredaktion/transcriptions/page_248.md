@@ -1,43 +1,43 @@
 # Seite 248
 
-vns
-moi
-werden,
-fricht
-Grist
-endig
-Vaxen
-in m
-vrhell
-cisser
-vidt
-alsoo ist ouch christus
+vnst
+mo
+wrg
+kch
+grist
+traic
+oce
+gn
+veffi
+ist
+d
+Daseit ach chisto
 der
-syn houpt
-klijsen
-Die erst schlusred
-Item allß Her Berchteld ment disvr spruch
-zum Ephesern, am v, cap: von mir angezogen,
-Zebewisen geistliche werkeit sie wider mich
-so doch dabij stach Das christus sich ein behaleter
-der klchen vnd aber ick das vßgelassen hab
-vnd allein Das angezogen, Die wider sollenn
-Jaen mannen gegersamen vnnd vnderthamen sin
-Alstimem hern Dan der man ist om houpt
-Der frouwen antwurt ick das ick eurch
-Eisen Sprincq allein hab wellen anzoijen, Das
-houpt sin, werer sin vnnd her sin enis fur
-Das ander moge genomen werden, Hab
-Domit Christo nit ovellen abbrechen. Das
-Er mit sich om behallter der kiechen, Dann
-ich das in die ewigkeit will erkennen
-Bexchtoldus
-Dir haben mun offt, das Christus Das
-haupt der kirchen sie Christus ist wer nit
-mir mousten sonder ouch gott darumb vns
-bevijler hatt. Das meister vnclus gesagt Christus
-ses der kirchen Ingelwet worden, alß ob die kilch
-vor Christo over gewasen, Der doch der ein¬
-geborn ist aller Creaniren, zum Collossensern
-am ersten cap: vngerpraet ist, aber das der
-sonnger, sagt, Christus sie nach der monscheit
+ein houpt
+Elchen
+Die eist schliead
+trem allß her Berchtold ment diser spruch
+zun Ephesern / am v / cap: von mr angezogen /
+zebewisen geisliche oberheit sie wider mich
+so doch daby stat / das christus sie ein behallter
+Der kilchen vnd aber ich das vßgelassen hab /
+vnd allein das angesogen / die wiber sollenn /
+Iren manen gehorsamen vnnd vnderchaͤnig sin
+Allsemem hern / Dan der man ist ein houpt
+der frouen / antwurt ich das ich durch
+Disen Spruch allein hab wellen anzeigen das
+houpt sein / aberer sin / vnnd her sin eins saͤr/
+Das annder moge genomen werden / hab
+Domit Christo nit wellen abbrechen / Das
+er nit sig ein behallter der bilchen / Dann
+ich das in die ewigkeit will erkennen /
+Berchtoldus
+Dir haben nin offt / das Christis das
+houpt der kilchen sye Christus ist iber nit
+nuͤr moͤnsch sonnder ouch gott / Darumb vns
+aeiler Matt Dae meisser vntlus gesigt Christo
+sye der kilchen Ingelibet worden / alss ob die kilch
+vor Christo wer gewaͤsen / der doch der ein /
+geborn ist aller Creamiren / zum Collossensern /
+am ersten cap: vngerymet / ist / aber das der
+sennger / sagt Christus sie nach der moͤnschat

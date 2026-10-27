@@ -1,10 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>prov=READ-COOP:name=TrHtr:version=2.41.0:model_id=51170:date=09_03_2026_17:23</Creator>
-        <Created>2026-01-27T10:33:48.972+01:00</Created>
-        <LastChange>2026-03-09T17:23:37.743+01:00</LastChange>
-        <TranskribusMetadata docId="13922579" pageId="112790019" pageNr="156" status="IN_PROGRESS" userId="537" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ERZENOHNSHTFLHXMZZALZFQA" imageId="95349083"/>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-26T14:16:50Z</Created>
+        <LastChange>2026-10-26T15:16:54.317+01:00</LastChange>
+        <Comments>{"arbiter": null, "geometry_from": "D", "models": {"A": null, "B": null, "C": null, "D": "kraken-bern-schlussredaktion-v1"}, "models_present": ["D"], "pipeline": "agentic_historian ruemlang", "print_passage_score": null, "summary": {"empty": 2, "single": 2}}</Comments>
     </Metadata>
-    <Page imageFilename="112790019.jpg" imageWidth="2479" imageHeight="3508"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="1300,366 1337,366 1337,454 1300,454"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:single-D; conf:0.50;}">
+                <Coords points="1306,372 1331,372 1331,448 1306,448"/>
+                <Baseline points="1310,403 1331,405"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="29,1740 76,1740 76,1835 29,1835"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;} atr {basis:empty; conf:0.00;}">
+                <Coords points="35,1746 70,1746 70,1829 35,1829"/>
+                <Baseline points="35,1769 70,1769"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="21,2042 72,2042 72,2134 21,2134"/>
+            <TextLine id="r_3_tl_1" custom="readingOrder {index:0;} atr {basis:single-D; conf:0.50;}">
+                <Coords points="27,2048 66,2048 66,2128 27,2128"/>
+                <Baseline points="33,2087 62,2091"/>
+                <TextEquiv>
+                    <Unicode>41</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>41</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="25,2477 79,2477 79,2600 25,2600"/>
+            <TextLine id="r_4_tl_1" custom="readingOrder {index:0;} atr {basis:empty; conf:0.00;}">
+                <Coords points="31,2483 73,2483 73,2594 31,2594"/>
+                <Baseline points="36,2526 73,2529"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>

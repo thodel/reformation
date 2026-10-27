@@ -1,37 +1,37 @@
 # Seite 502
 
-ent seu
-lungen
+nfiet
+gen
 vnd
-209
-die Vicre Slustrud
-Sie veranlassen vns / ouch vff die grund
-vff die erklaring von vns angezogt vss. halen
-pottes wort
-Pfarrer v. s. g.
-Wyter erklärung uss. Dem halen gotes cieort
-Wider dis iiii conclusion, nemend wir fur vns
-Die wortt panki/1 Epi. Chort: xi. So die selbigen
-Darumb welcher Da wint
-allso luttend
-essen, dises brot vnnd wirt trincken een kelck
-Des hern vnwijrdig der wirtt schuldig des
-lijbs vnne bluts des herren hie eroffuijtt
-sich packus, uit der da vnwurdig die ge¬
-dechtnuß haelt, sonder so vnwurdig isset vnd
-tonncken werde des ljes vnnd bluis schuldig
-dan an einem schlechten, brot vnnd win, darunder
-kein wesen, des lyes oder blaets Christi, wir den
-d'exglichen panclus
-toe essen mogen
-In nachvolgenden worten, Welcher Daisser
-vnnd trinckt vmrvurdig, Der Jsser vnnd krunkt
-Im selbes Das vartheill In dem so er int vnder¬
-scherdet, den lijb des heeren, zie reden paulus
-offentlich vnnd meldet nieu an/ die bedienung des
-lybs, vnne bluts des heeren
-Zwingli
-Die ersten wort pantie welcher min Das
-Is rot vnd tranck des herrenn, vnwurdig essen vnd
-trincken virt / ende
-durn vns Iren verstande
+2og
+Die vierd Gluͤstrod
+Dar veranlissen vus ouch vff die gaind
+ff die erklaͤrung von vns angezoigt / vsß halem
+gottes wort //
+Pfarrer visg
+yter erkearun vsß dem haͤlen gates wwort /
+Vrder die iin canrisen / nanei w fun ns
+Die aor ponei / e honi vi S Diewligen
+Darumb welcher de wirt
+allso lunttend //
+sen Diseskrt vnnd wrttrunden den belch
+Des hein vnwndi ver wirer ghndis das
+wybs vnnd bauts des herren Hie eroffnelt
+ich paulus / nit der da vnwuͤrdig die ge//
+Dechnug hat sande / so vnwuͤrdig iset vnd
+crmchenwerde Des lios vnnd bluns schzedig
+dan en Euen stheneen / brot vnnd win / Dasunder
+kein wesen Des hyes oder baits Christ wir den
+derglichen paulus
+tod essen mogen /
+In nachvolgenden worten / welcher Da isser
+vnnd trumbe vnwuͤrdi Der Ssten vnnd trunzkt
+enselee / Das vrtheill In dem so er nit vnder //
+scheder den ke De ewen ais rede poulus
+offentlich vnnd meldet menan / Die bedutung des
+woe vnnd bluͤs de gerren /
+zwingli
+Die ersten wart patta wlcher nin das
+soret vnd tran des herrenn / vnwundig essen vnd
+truncken wirt /
+ducen vns Iren verstand

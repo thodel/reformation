@@ -1,31 +1,31 @@
 # Seite 579
 
-Een Basïs
-Die funfte Schlussered,
-ders, dann ein Quisis, Ein vsgang die personen zu:
-besthriben, Als Genesis, xiiij. eygenlich erfunden
-wirdt, Das demnach anjongt wordt, Er hab nugit vf:
-goopfrot dann wie und brot, Reden wir also, wetten
-& i verstan, von dem win vnd brot, das Er hie Abraham
-gebracht hat. So sagen wir, das Er das nitt vfgeopfrot
-hab, vnd Ist min peticio principij, des bi ouch nitt
-vfgropfrot sind, Souerr Si aber verstan wellen von
-andren opfermalen, wo welken Oi te waren, das Er
-zu andren zitten, dem obristen gott, nitt hab vfge¬
-opfrot win vnd brot, dann die negatinam mogen
-Oi nitt bewaren, Das ficht aber nitt wider vns,
-Er habe wij vnd brot vfgeopfrot oder nitt, dann als
-&i sabbs bekomen, So het Melchisedech, e ich zalbs
-nie In tod vfgeopfrot, vnd Ist aber ein bedutter Chri¬
-sti, darus volgot, das wie Melchisedeth vfgeopfrot
-hat, das 8½ was es welle 1 das Er damitt beeuttot
-hat, das opfer, da Christus sich salbs vfgropfrot
-hat, Melchisedoch Ist nitt ein figur unser pfaffen¬
-Cunders om figur Christi, deshalb die figur mijgit
-beweijt, das unser verfaften vijft opfern, vnd lutet
-die Oblusfred In Ouma, das die wasß nitt ein op
-fer zije is 1 Da haben 6 i das 1 noch mitt deheinem
-besthluss, mogen Infuren,
-gidius murer
-Das Meister Vlrich gesprochen het, das woortli finin
-stand mitt Inde Griechisthen noch Hebreisthen,
+eugreig
+Die fuͤnfte Schlisgred /
+dars, dam ein heinfie, Ji rhgang die presenen ii //
+beschriben / Als Denesis xiiijͦ eygenlich erfuͤnden
+wirdt, Das damnach amzigt wardt Er hab nimit vf
+wopfret dam win vnd bret, riden gni also vrken
+Se vorstan, von dem win vnd brot, das Er hie Dbraeham
+gebricht het, So Bagen wir, das Er dis nitt vfgropftet
+hab,/ vnd sst mn poticr principij/ drs Siouch mtt
+fropfet ind, Souerr Diaber verstan wellon von
+andren opfer malln / wo wellen Si bewaͤren, das kir
+zu anden zitten, dem bristen gett, mit ab rfge ¬
+ocfrot win vnd bret, dann dir nagatinam moggen
+Smat bewaͤren, Das ficht aber niet wider vns ,/
+Er hale win vnd bret vfgepfret oder nitt, dann als
+Si eaills betrnnen, So get Melchisidach, Sich eills
+nie In tod vfgropftet, vnd Jst aber ein bedutter Chri /
+st Dinu volget, das wir Melchifedech vfgupfrit
+het, das die was es welle, das Er damitt beduttot
+hat das opfer, da Christus sich salls vfgropfrit
+ait elchiseidich ist nitt oi kigur vnser pfiffen /
+undere ein Jigne hristi, Sschalb die Jizur nuztt
+brm et das vnser phaften vyt opfern, end licet
+de Schlußsrid In duma, das der ess nilt ein ap
+fer syr Da haben Si das, noch mitt deheunem
+beschlusß, mogen Jnfuͤren,
+gidis muer,
+Dae hristir Clrich gesprichen het, das nitte enm
+Stand nitt enj Driechischen noch gtebrrischen,

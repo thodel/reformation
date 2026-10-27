@@ -1,31 +1,31 @@
 # Seite 577
 
-G3
-114
-Die funfte Schlußredt
-Christi gottliche geburt, nitt zu ermassen, Es aije
-huij, daruss ermassen wirdt die ewikert der priester¬
-schaft christi, nach der Ordnung Melchisedech, vnd
-So Ir lang vff dem text ligen, So werden Ir nitt
-finden, das Melchisedech, win und brot geopfrot
-gab, dem Abraham, darumb oo werden Ir ouch
-nitt bijbringen, das die Mass ein Opfer sije 124
-Egidius muwer,
-I ick dein vnd mir andtwu't het geben her Gerch:
-told, wie Melchisedech zije ein figur Christi gesin¬
-Zu dem ersten, sijn Pr gesin een kung der gerachti¬
-keit uij, Disz Ordnung, durch hern werchtolden
-Ingefurt, verneinen wir nitt, Cas Er wer gesprocht:
-en hat, wir finden Im text nitt, das welchist:
-dech, wraeke win vue brot vfgeoprot habe, Cas
-haben wir nitt vormals vermeindt, Quiders fr
-habe es ufgeoptot gott dem allmachtigen zu lob
-vnd zij frs. von des wortlis weegen das darby dat,
-ke Ist gesin een priester des hochsten, Nun
-gehoort einem priester zu, das Er opfere 1 Art.
-Er min win vnd brot harfür getragen, von des
-wegen, das Er priester Ist gesin, muss frs Je
-auch gropfrot haben, dann diss wortli kunnen, gitt
-Vorsach, worumb Ers habe harfur getragenn,
-Berchtoldus haller,
-All vwere Red, (thlijst mijt wider uns,
+1
+1
+Di finfts Schrussred
+Cristi gittliche zebiit nitt zuͦ eemessan, Caigr
+sin darus masten wirdt die ewikett d priester /
+schaft christi, nach der Ordnung / elchisedech, vnd
+So ie lang vff demtert ligen, So werden Jr nitt
+finden, das Malchifedech win vnd brat geopfret
+hab, dem Abracham, darumb So worden Je ouch
+nitt hybrigen, dis die / Naͤsß ein Opfer ep a
+Ciding muzer
+ich dem vnd mie andtievtt het zeben her Krich
+told wie Melchifedich sio ein figuͦr Christi gesin
+In dem irsten / eir fr gesin ein kung der geraͤchti ¬
+Eit inͦ Dis oldnung, durch hemn Crrchtillen
+engefurt vergeuen wir nitt, Das Er aber gesproch /
+in het / wier funden Jey tept nittz die lchise
+dich Abrichr win vnd brot vfgropfret hilr, Dis
+haben wir nitt vormale vormeindt, Sunders ze
+hl s fgrocfet gt dem alli ichtigen zu lab
+vnd zu Er / von die woͤrtlie waͤgen das dacby Stat,/
+E Jst gesin ein ppiester das hoͤchsten, Cum
+gehoͤrt riemn prrasten zi dis Er opfere, riet
+E nn win vndd eret harfuͤr getrigen von dis //
+wiͤgen das Er peister Jst gͦsin, miß Ere tr
+ouch geopfiet haben, dann dis woͤrtli Enn, gitt
+vorlich , wornmb ero habe harfuͤr getrigenn,
+Rirchtoldus haller,
+All vwere hied,/ Schlust mit nider vns

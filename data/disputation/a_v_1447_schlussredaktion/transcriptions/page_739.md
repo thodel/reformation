@@ -1,12 +1,12 @@
 # Seite 739
 
-lassen, vnd volgen, als ein gehorsamer, Des Ich mich
-also oftenlich protestiert hab, Theobaldus hüter,
-Pfarrer zu Oppenzell, Meun,
-Werchtoldus haller,
-Der pfarrer Ich bitt vch, Ir wellen bliben, bij der
-herligen christenlichen kilchen, Die Christus
-durch sijnen geist vnd wort regiert, So werden
-fr. aue zwijfel, de hemer unser Othlus Breden, wi¬
-der spraechenn,
-in xxvj tag Janiers
+lassen / vnd vegen, ale ei giensimer, Dae Ich micg
+also offinlich protestiert hab, Threbalduns huͤter/
+Eharrer zu Dppenzell / Amenm/
+Perchtoldut haller,
+er ptarrer Ich bitt uͤch, Er wellen bliben ,/ ly derr
+guligen christinlichen kilchen/ Der Cristus
+durch einen geist vnd wirt regiart, Sy werden
+Er ane znyfeli dcheiner vnser Schlusstreden, wi/
+der sprachenn,
+Im xxij ug sinan

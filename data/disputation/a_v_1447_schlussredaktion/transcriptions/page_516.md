@@ -1,41 +1,40 @@
 # Seite 516
 
-de son
-Winsen
-a8 p.
-ten voor
-vibt
-presenta
-welche
-allen
-wch triet
-insinall
+len
+ventetn
+ase
+ense
+eitt
+ele
+illen
+ngen
+gmot
 216
-Die vivre Sluproe
-Alposis Vbi e duobus comparibus alterum nomenclatu¬
-rain obtinet) Dis zoigenn wir an fur die
-grund vnnd trennen der ystchrifft, die vns zu
-dem verstand bezwingen, habenn. Dan wir
+Du min Crustrid
+fwoie i lsa Consordn alern monme vn //
+ram gblmes Dis zeigenn wir an flir die
+grund vnnd trenng der gschrifft die vns zuͦ
+dem verstand bezwungen habenn / Dan wir
 vnnd
-Noch een Jeden wort gottes glauben,
-so Die wortt offentlich erfunden wendenn,
-weder ein andern sin (nach dem ersten amstchen)
-so beruffen wir die anliche des glondens mit
-dem Instrument oder brieff der schrifft ze
-vrtheill, Mochten, noch voll vill mer grund
-anzeigen, Die wir aber von kurtze wegen er¬
-paxen/
-pfarrer v. s. g.
-Off Ingelente probation zu volkomen erklaringe
-Des furnemens betreffend die vierde conclusien
-sind In gefurt ettlich spruch vff Dem vi cap Jois
-vormals erklart, bewelchen wir wie vor vnder
-welchem einer Ist Namenen das fleyten ist
-uit metz. Der geist ist der vns hebendig macht
-Vssz welchem allem wir verstand sollichies int
-verfachen oder zu wider sin, Der leblichen wissung
-Des lebs Christi / somder sollichs van flestlichen
-vrtheill oder verstand dan fleythlich, was
-zu zweffeln Ine ein Sun sin Josephs wie er duen
-sin flaeten mocht geben zu essen, Der In andern
-spill sachen, vill minder wer naturliche thatum
+ouch eim jeden wort gottes glouben /
+, die wortt offentlich erfuͤnden wendenn //
+Order ein andern sin rch dem ersten anschen //
+so beruͤffen wir die anliche des gloubens mit
+dem Jnstruͤment oder brieff der schrifft ze//
+vrcheil / ochten noch wol vill mer gaund /
+anzeigen / Die wir aber von kurte wegen er //
+paren /
+pfarrervsi
+Jngeleite pralonen zen vallimer ecklaͤring
+des frvenene kerrhen die verde olifen
+sind Ingefint nlich souich vß dem vj capzot
+rn hn w vnde
+oeen eie it Manenn des feusch ist
+mit n / der geift ist der vns lebendig macht //
+vsß welchem allein wir verstand soͤlliches / nit
+verfachen ober zu weder sin / Der lellichen noissung
+Die lyes Cristi / sonder sollichs vnn flaschlchen
+ercheil der verstand Dan fleischlnch / was
+zuͦ zwyffeln Ine ein Sun sin Josephs wie er Inen
+sin fleisch moͤcht geben zuͦ essen / Der In andern
+pill sichen / vill annder vber naturliche thatenn /

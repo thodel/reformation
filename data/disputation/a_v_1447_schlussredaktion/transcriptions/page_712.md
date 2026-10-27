@@ -1,28 +1,27 @@
 # Seite 712
 
-pennol
-£ 11
-303
-Die viij. Schlussred
-„ darfür„
-frassmum, hat vfgeworsten, das Er die wetagen des
-funeren libss hin name, wellende also bemugigt
-hin 1 Solicher gegenwurffen, die nitt vsl. der schrift
-besthachen,
-Eheobaldus hüter,
-Tuchim
-in dargethan Opouch, beuilch, vnd vnderwirff Ich
-mich, gemeiner Christenlichen Kilchen, wo Ich
-geirt hätte, mich wisen zulassen, vnd zu volgen,
-Meister Vlrich Zwingti
-Cursiff
-Dar sich gemeiner Christenlichen Kilchen vn:
-der wirft, Oer vnderwirft sich gottes wort, So
-min der Pfarrer von Appenzell, die bilder, schirmt
-ane gottes wort, So volgt, das sich der Pfarrer
-von Apponell, nitt der tilchen underwirft, die
-Tich gottes wort halt
-Aheobaldus guter
-Curs. 4
-Ich last es bliben, wie vor dargethan
-4
+rm
+Dy
+207
+Die viij Schrussrnd
+darfuͤr
+frißnnun it rfgewarstin das Ey die netagten des
+Enneren lilbe hin naͤme wellend also bemigigt
+en bolicher gegonuͤrffen, dir nitt vss der ochrift
+beschaͤthen,
+Lgrtlidus hitre /
+Cug
+ein dirgethon Spruch brurlch, vnd vndermieft
+mich / gemeiner Christenlichen kilchen, wo Ich
+gorrt haͤtte / mich wisen zuͦlaͤssen, vnd zu volgent
+Hrister dlrch zuinger
+rusng
+Dar Sich grueie Christenlichen kilchen vn /
+derurft, Dar vndiemuft dice greti nut, D.
+min der Pfarrer vm Appenzell,/ die belder s schirmt /
+aie gotteg wort, Se volget, das Sich der Sfaper
+von Apfrmzill, nitt der kelchen vnderwirft, die
+Sich gottes wort halt
+Dhieliedut hitie
+vnsicg
+ie liss ee librn vir vir dingiten

@@ -1,32 +1,31 @@
 # Seite 478
 
-inter
-Die vierde schlußers
-199
-So vill vnnd uns van vergleichung, ossen Dem alten
-thestament zu den worten des nachtmaels
-von dem lijs Christi vnd smer gegen wijntigkeit
-yeursachet, hatt, Ist der verschrifft benolchen
-vff sollichtes wellen wir anzoigen, Die wortt des
-vnnd er hatt voorss.
-Kelchs Also lievne
-nomen den kelck, hatt danck gesagt vnnd In
-Inen geheben spreckende trinckend Darvon all
-Das ist min blut des muwen thestaments
-Welches fur vill vergossen wirtt zu verzuchung
-Der sund In welchen worten, wir glauben Das
-mit vßgecheillt sin, so die wortt anzoigen, vnd
-Das wesen lich sin wie es der her geheissen
-hart
-Dan wie das blut Christi vssge¬
-gossen worden, ist, zu versuchung der sund, vnd
-verheissen worden, Das so sy truncken, haben
-Das blut des ruwen thestaments gleicher ge¬
-staelt Moijsen vnnd Christum zu verglichen haben
-Wir Exo. am xxim cap: De hatt er peno¬
-men, Das buch des punctus vnnd hats gelijven
-zu harende, Dem volck die Da haben gesagtt
-Alle die Dingen so der her hatt geredt wellen
-(wir thun, omme wereenn gehorsam) allso
-hatt er genomen, Das blut vnnd vf gespreupt,
-Inn das volck vnnd gesagt, Das ist Das
+Die vierd schlugred
+119
+orig vnd vns von ver gai huch vsß dem lben
+thestament zuͦ den worten / des nachtmalls
+von dem lyb Christi vnd siner gegen wuͤrtigkeit
+geursachet / hatt / Ist der gschrifft bevolchen //
+vffsollches wellen wir anzeigen Die wortt des
+vnnd er hatt ge //
+kelchs Also lutend /
+nomen den kelch hatt danck gefagt vnnd In /
+Iren gegeben / syrochide trickend Daruon all
+Das ist min hlu des nuwen thestaments /
+weelches fur vill vergossen wirtt zuͦ verzuchuug
+der sind In welchen worten / wr glouben das
+nit vsgecheilt sin / so die wort anzeigen / vid
+Das wesenlich sin wi es Der her geheisstn
+hatt
+Dan wie das brub Christi vsßol //
+gosten worden / ist / zu verhichung der sound / vnd
+uͦheissen wonden / Das xo sy truͤcken / haben /
+das klut des miren thestamemts glicher g//
+stollt woysen vnnd Christum zeveglichen / haben
+wir elo: am xxiiij cap: Da hatt er geno //
+men / Das buch des punds vnnd hus gelisten
+zuͦ haͤrend dem volih die Da haben gesaget /
+Alle die ding so der her hatt geret weren
+wir thun / vnnd werdenn gehorson / allso
+hatt er geromen / Das bluͦt vnnd vß gespreigt /
+Inn das volck vnnd gesigt / Das ist Das

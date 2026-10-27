@@ -1,36 +1,36 @@
 # Seite 440
 
-& mitt
-Arreters
-des bluts
-46
-xxoque τοδωσις,
-die vierd schlußred
-204 184
-gemeindt Christi die soll Notario Das ist ge¬
-meinde Communio verthusche werden, vnnd
-mit Comumicatio vs theillung Dis bewaren
-mit Dem artigkell des glaubens, sanctorum
-communem Das ist gemeind der hellgen
-da wirt communio den latinen dem prienschen
-Wer dus wirt hernach noch klarer
-Lomovia
-Es volgt wijter Jun worten Das brot Das
-wir brechen, Ist das int die gemeinde
-Des lichnams Christi: / His sachen wir des
-Paulus Speet vff die bednt mus der Zeichen
-das die einerley Sacrament, mit ein andern
-bauchend, ein Kilch mit ein andern stend, vnd nempt
-allso die so Das Sacrament des lichnams
-vnd bluts Christi mit ein andern niessend die
-gemeind oder yememsame des lichnams vnd
-bluts Christi Das Dom allso
-sie, so volgt hernach hun praepodosis. Das ist
-Eau/s redditio, Das ist ein vrsach, worumb
-er Die Christen Die einerlei Sacrament
-bruchen Die yemeind Des lichnams vnd
-bluts Christi genempt hatt vnnd spricht
-allso, Dann ein bret, (hie hand wir des
-ovortl. dann.) ein offen zenchen, das er er¬
-hebben will vrsach worumb er die Christen
-die gemeinde des lijbs schrifti vnd bliets schrifte
+vig
+retn
+kes blaits
+4
+Brur ciataen
+dige kierd schlußred
+rat da
+genend Cerist : he sal koipn Das ist gi //
+me Cn wthiste weden / vnnd
+nit Comani latio vsscheilluts die bewaͤrnch
+mit dem artigell Des gluiles / sonkotum
+Cosnumonei / Das ist gemeind der hellgen /
+Sa wirt kannns den latinen den grieifften
+Aber dis wirt hernach noͤch klaͤrer
+Pontroete
+Es volgt wyter Inn worten / Das brat das
+vir orechn It Dar un Die gemend
+des lichnaie Chst Hie sechen lur de/
+Paulus sprat vff die bedut mis der zeichen
+Das Die die enerlay sallament mit ein adern
+bruichend ein Kilch mt emandern siend vid vengt
+as Deso die soranent Das luchrans /
+vnd bluts Christi mit einandern nessend die
+gemed oder gentiysbin das lichnams vnd
+bluts Christi / Das dem allso
+se vegt erg r es Dasist
+Causs reailen Das ist ein vnsich/ worumb
+er die Christen die emeilei sarament /
+erichen Dis geend De lichnems vnd
+bluͦts Christ genempt hat vnnd spricht
+allso Dan ein brot (hi hand wr di
+wortl dannd en offen zeichten Das erer //
+den wi vesich die Chisen
+de

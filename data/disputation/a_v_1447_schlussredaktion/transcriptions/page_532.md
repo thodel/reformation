@@ -1,46 +1,46 @@
 # Seite 532
 
-ten
-M l
-i.
-würde
-in Christo
-der sein
-is zunnte
-s eekeme
-afrecht
-tenderman
-unterbruch
-durch d
-uet
-221
-Dio 4. slußroe
-vnseren verstand, wer den ersten auchkell Des
-glaubens von vns ingefurt In der fadern verfasset
-wirtt werflussper,, der erklerung
-is
-Der Zweijen andern arteklen furgebracht werdenn
-Darumb wir vns kurtzlich der Ingezognen
-antwurt ent schliessen, vnd dem laser bevelchen
-dan allein diewye wir glauben In Christum
-Jesum lutt des artigkells des plaubens alls er
-ist wer naturlich empfangen, wer naturlich
-von der muter geporn. Allso sollichjes albess
-so zu verantwurten, wie beuelchen wir der we¬
-mechtigkeitt gottes Darwider sy sich mit
-zereden noch zehandlen, ouch niemals bezugt
-Vff Den andern arrigkel¬
+nd
+geile
+wn
+wt
+In vefr
+dist
+en
+aten
+afer
+den
+d
+h
+d
+22
+Diet Clured
+visen veesend vor den ergen arigkil des
+gloubens von vns ngefurt In der fadern verfasten
+wirtt uͤberfruͤsse der erklerung
+ist
+Der zwen endeen len ungragt wliden
+Darumb wie vns kurtlich Der Ingezegnen /
+antwurt ent schliessen / vnd den laser benllchen /
+dan len Dietoee wir glouben iu Christin
+Isim lint dis artgells des gloubens alls er
+ist uͤber nacurlich empfangen / uͤbernaturlich
+von der muiter geporn / Also solliches wls
+so zuͦ verantwurten beuelchen wir der all//
+niechtigkeit gottes / Darwider sy sich mit/
+zeraden noch Jchandlen ouch mermals betigt
+vff den andern arngkel
 hant
-Des gleubens der da luttet er sitzet zu der
-gerechten sans him elschen vatters, konnen wir
-sollichs int anders verstan, dan er nach der got¬
-het, gleiches wesens, gewaets vnnd herlichkeit, alweg
-so gsin vnd bliben soll es verstanden werden, zu der
-Dan
-gerechten, sitzen nach der monstheijt
-Im vor nach der potheit alles vnderworffen
+Des gloubens der dr luttt er sazet zuͦ der
+girechten sans him elschen vattere / koͤnnen wr
+sollichs nit andere verstan / Din er nach der got //
+her glichs witens gewalts vnnd herlyklit / allrcg //
+o gsin vnd bliben soll es verstanden werden / zuͦ der
+Dn
+gerechten / sahen nach der moͤnshei //
+Im vor nach Der gotheit alles vnderworffen
 Dan es stat geschriben Johis
-versalmo viii
-sam xvij
-Ich hab Dich verklärt vatter
-off der orden, ick hab Das werck volbracht
+psalmo vii
+am wij
+Ich hab dich verkliͤrt vatter
+off der erden / ich has das werts volbrachit

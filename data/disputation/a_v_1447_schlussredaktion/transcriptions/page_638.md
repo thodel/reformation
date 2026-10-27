@@ -1,32 +1,31 @@
 # Seite 638
 
-somme
-Dd
-270
-Die. vi. Schlussred.
-heiligen, Ist aus Zwifel nitt, Eann er Opricht, die
-liebe wirdt niemermer vfhoren, vnd Ich mein
-jouch nitt, das Er dorfte opraechen, dat die vser wel:
-ten heiligen Im. himel, witt solten die gottlichen
-liebe haben, Ja ouch vberflussiger, dann de hein
-mentsten moge heben, hij In diser zit,
-Meister Vlrich zwingli¬
-19
-Wir bekennen, das die liebe der vszerwelten Oali¬
-gen, gar vilanders, vnbresthafter vnd groe stor Ist,
-dann die liebe der Herbenden, Das Stritt aber nitt
-wider uns, Dann wir anzeigen, das de Paulus redt,
-von der liebe, die wir In diser zit haben, Diesebben
-brasthaftig liebe, mogen wir den Paligen gottes,
-nitt zu rechnen, wie In den worten Pauli ange¬
-zoigt IJt.
-gidius murer
-Noch Ist vorhanden, min furgewendt argument
-zum teil, So Christus fuij vns bittot Im himel,
-vnd vnser widerparthij zugibt, das fur bitt der
-mentschen hie vff ertrich, so sol es ouch denen
-Inde huuel verlangen, Canne Warnmb, Fintwa¬
-ders die heiligen Im. Himel, batten nitt fur uns,
-wie hij die libendigen vff ertrich, darumb das ffb
-In en nitt zimpte, So wurde es ouch Christo nitt
-zugeeignot werden. Oder es Ist ein sommlich duig,
+1
+220
+Die vj Chrissrd
+heiligen, Ist aue znifel mitt, Dann er Spricht, die
+liebe wirdt niemer mer vfhoren, vnd Ich mein
+ouch nitt, das Er dorfte Spraͤchen, das die vßerwel¬
+Jen helligen Jmn himel , nitt goͤbten die goͤttlichen
+liebe haben, Ja ouch uͤberflrissiger / dann dehein
+mentsch moͤge haben chr en diser zit,/
+eister Clrich zwingli /
+11
+ir bebrunen, das die liele das vsaruelten Sap:
+grn, gar vilanderl vnbrescheftir vnd groͤstir ist,
+dann die liebe der Storbenden, Das Stritt aboe nitt
+wider vns, Dann wir amzeigen, das da fuulus redt /
+von der laebe, die wit In diser zit halen, Diesellen
+braͤschiftig liebe, mogen wir den Saͤligen gottes,
+nitt zu zechnen, wie In den wortrn Paubi ange
+figt Jst,
+Didius murer,
+nich Ist vichanden / min furgewendt bergumant
+Inm trih / So Christus fur vns littot s em huel
+vnd vnser widerparthy zuͤgilt, das furbitt der
+montschen lye vff dtrich ol ie aich denon
+Iin himel verlangen, Dann warumb, hutira¬
+dacz die hetligen Im humnel, betten nitt tut vns¬
+Diir hie d laandigen vff ertrich, darumb das hs
+Inru nitt ziupte,/ De murde as auch Chriseo nitt
+ugiut nden din ae ist dlichding¬

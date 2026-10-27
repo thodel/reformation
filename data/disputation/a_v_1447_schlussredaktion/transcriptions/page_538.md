@@ -1,41 +1,39 @@
 # Seite 538
 
-Strals.
-welck
-verdon
-b zeven
-matin
-brevens
-224
-Die 4. Stuyvrouw
-Macher am xxvi Ist allso Die vrscende vnnd
-vffartt, Christi sijndtlichen zoverstan om bekoefftigung om
-aller worten vnd wercken Christi, so Mopses vnd
-Die propheren vnnd alle gshrifft von Im bezuget
-ort
-hatt. Darns ich endtlich beschluß, allweg zu einem
-christenlichen bestheid, so er, die wort geredt hatt,
-des nachmaels vor siner himelfartt sy die himsel¬
-fart den worten, int entgegen,
-Buchaus
-in her pfarrer der vermeint der Dryt, an¬
-zogen arugkere, von dannen er kunfftig ist zu
-richten, ende mit andern geschrifften die da anzogen
-das der her leblich van vns zum vatter paygen etc.
-ist vnnd erst zum gericht wider kunfftig, bringene
-II. der
-mit mer Dann Das,, her nit mer sich barlyck
-lyblich by vns sie vnd schlachen nit ab, das er
-moge bij vns sin lijblich, wer doch, vnschbarlich
-daruff sagen wir, wir bliben, by der einfallingen
-thalen, vnd durren verstorifft, die vns anzogett
-er sie von vns zum vatter, lyblich gangen, vnd
-has die wollt verlassen, die schrifft lertt vns
-mitt van der mutten wyss Das er lyblich
-vnnd doch unsichbarlichen bij vns sis, paulus, het
-sunst ouch woll gewas vff sine wortt, lutten
-lassenn. Nambuch Da etc. niet van Dem Brot
-Des nachtmals Inn Dem Dann vnser gegentheil
-Den
-Christum lyblick Is haben vermeunen
-Christen Oveelent acht nemen, Der overgaen
+pndd
+velet
+e
+mer
+g
+rit
+Die t. owred
+sechn am xxj Patse Die pistende vnnd
+vffartt / Christi endtlichen zeverstan ein bekrefftgug ati
+aller worten / vnd wercken Christi / so Moyses vnd
+Die propheten / vnnd alle gschrifft von Im bezuͤget
+prt
+han / Darus ich endtlich beschlus allweg zuͦ einem
+christenlichen brscheid so er die wort geredt hatt //
+des nachnmalle / vor siner himebfartt Sy die huntz
+fart den worten / nit entgegen /
+Bucerus /
+iin bei pfuwen den erman der diest, an //
+zogen artigkell / von dannen er kuriffng isten
+rngtn nn ndn en e de ontagen
+Das der her lelich von vns zuͦm vntter gngen /
+ist vnnd ert zu gericht drder kunffnig / bruͤgen
+nit mer Dann Das cher nit mer sochbarlich der
+lybliuh by vns sit / vnd schlachen nit ah das er
+ng vns sin bach ver Doch vnfgowlich
+Domff sogen wir wir bliben / by der einfalligen
+haͤlen / vnd durren gschrifft / die vns anzoͤigett/
+er sie von vns zum vatter / leblich gangen / vnd
+hab die wellt verlassen / Die schrifft lertt vns
+nitt von der mutten wyß das er lyblich
+vnnd Doch vnsichbarlich ly vns sye / paulushet
+sunst ouch woll ertwas vff sine wortt / lutten /
+lassenn / Nambich da er redt von dem Brot
+Des nachnmals Inn dem dann vnser gegenthell
+Die
+Chhristum lyblich ze haben / vermeinenet /
+Christen wellent acht nemen / der wortten

@@ -1,34 +1,34 @@
 # Seite 418
 
-the war,
-das Ihr
-Die verd. st. sluss.
-175
-ist min lijb hab ick hutt gnugsamlich geantwurt
-Darumb ick much vff die acta verlassen
-was der verstand der worten, sin solle, Es ware
-ein verlengerlichs wider affrung hegen allso von mij
-nem hern Doctor zu fur drung der sach water
-gschrifft, worumb die wort, das ist min
-lijb vnnd, das ist min blut nit allso sollen ver¬
-standen werden, wie sie klar vnnd starck luttend/
-evingh
-Den unserm verstand, haben wir offt, gnug verheissen
-welbends ouch (ob got will) leisten, die sach ist
-aber noch nit da, sonder an dem ende Das sy
-In smichdochsen bewärind, Dann Das outt
-Pauli In 1 Epi: zum Chorint: am & capi tragt int
-das es muß ein senechaeche sin, ob man gleich gemeind
-oder gemeinsame, durch vstheillen thußtkere, noch
-volgt es nit das es muss ein senachdochst sijn, Dan
-woon Das brot glick wesenlich vnnd substantzlich
-Der lichnam Christi war, wie die Bapstschmeijning
-haelt, so over doch aber der licenam Chryti
-Vfgetheelt vnnd wer Dorumb kein sinechdoch
-Jan aben Das brot das ouch der lichnam
-Christi weer, Das wurde vssgenheillt, vnd mag des¬
-halb der sinn vnder dem bret, hie uit hy win¬
-gen werden, vnd darumb so suchent ander schrafft
-pfarrer von santg¬
-Die villmall angezogen vnd verantwurt belijb
-ick by dem spruch pank, vnnd will mich In
+wore
+id
+Die vnrd schluistred
+276
+ist nin lyeb / hab ich hut gnuͦgsamlich geantwiͤrtt
+Darumb ich nch vff die acta verlassen
+was der verstand der worten / sin soͤlle. Es ware
+ein verlengerliche wideraͤffrung heger allso / von nm //
+nem hern / Doctor zuͦ fur drung der sach wyter
+gschrifft/ Worume die wort Das ist min
+leb vnnd Das ist min bluͦt / nnt allso soͤllen ver ///
+inden veden wi sy klan vnd stan lutend /
+wugl
+son vnserm verstand / halen wir offfgnulg verheisen/
+welbends ouch b got will) leisten die sachist
+aber noch nit va/ sonden an den end / Das s
+Ir siner oren / bewaͤrind / Dann das ortt
+paubi In, Exi zum Chorint / am Eropi trugt mi
+n nue n
+oder gemeinffur durch vsscheilen chuͤßchie / noch
+volgt es nit das es muͦß ein senerhaortta sin / Dan
+Wen das brot glich westnlich vnnd substachzlich
+Der lichnam Christi wir wie die Baͤpsischingnns
+gallt / so wer doch aber der lichnam Chrigi
+vßgethailt vnnd wer Dorumb kein sinerh aoeger
+Dan aͤben das brot das ouch der lichnam Chrs
+Christi wer / das wurde vßsgetheillt vnd mag deß //
+holb der sum vnder dem brot / hie nit erzwum
+gen werden / vnd darumb so suchent ander schriff
+Pfarrer von santh
+Die vilmalb angezigen / vnd verant wunrt belyb
+ich by dem spruch pauli vnnd will mich In /

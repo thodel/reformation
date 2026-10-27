@@ -1,29 +1,29 @@
 # Seite 387
 
-112
-Der verzug vunsers bruders erfreuwt vnns ser¬
-das er sich mitt wyter Inlassst, Die offt gedachten
-wortt, fur verheisstliche wortt des lyelichenn
-essens zebewaren, wellen Im ouch sollichen zuchti¬
-pen abzug gern zulassen
-Johannes buchstas
-Ich wirtt berucht, Das anzognen exten, van
-Droerley brott gesagt werden, zum ersten von
-dem himmell brott, Des sich die Juden berump¬
-ten Inen geben werden, sin, Spreckende vnnser
-Patter haben geessen humelbrot Inn der wußte ende
-Das ander brott Ist das wortt gottes als
-sich Christus bezugt van gott smem himelschen
-vatter, den Juden heben sin.  v er von dem
-o selbsten allso spricht, Moyses hatt vijch mitt geben,
-Das brott vom thinnell, aber min vatter, wtt vijf
-Wann Das
-van huuell Das war brott
-ist Das waer brett, Das vom himull herab ist
-gesigen vnnd gul. Das lebenn der wellt ende
-das Dritt brott, ist, das war fleysten gots, Das
-Er sich hatt verheissen Zeheben allen glaubigenn
-(d'er allss spricht, Das brot das ick gebuwirt
-Ist min fleißen Also ist hiezum ersten gesagt
-von dem Das geben ist aelß Inn vergangnem
-von Dem Das er giptt, alls In gegen wurtigem
+2
+Der verzib vnnses kriders erfleut vnneser
+Das en sch n witer Inlassn Die ostgedachen
+wortt / kue verheisstliche wortt / des leblichen
+estus zelewiren wellen Im ouch soblichen gnan
+gen alhug bern zuͦlassen /
+Johames buchstab
+Ilh won berichh / Das an anzegnen oren / von
+Drerley brott gesagt werden / Zuͦm ersten von
+Dem himell brott des sich die zuden beruͦng//
+ten Inen geben werden / sin / Sprechende vnnser /
+vatter haben geessen humnelbrat Inn der wuste / r
+Das annder brott Ist das wortt gottes / As
+sich Shristus bezugt von gott sinem himelschen /
+vater / den zuden geben sin / So er von dem //
+osellgen allso spricht Mayses hat uͤch nitt geen //
+Das brott vom himell / aber min vatter / gebtt vsß
+wann das
+von himell Das war brott /
+ist Das waͤr brolt / Das vom himell heral ist
+gestigen vnnd gipt Das lebenn der wellt n..
+Das drt brett ist / Das war fleisch gots / Das
+er sich hatt verheissen zegeben allen gloͤubigenn
+S er allßo spricht Das brot das ich gebenn wirt
+st min fleisch / Allso ist hiezum ersen gesagt
+von dem das geben ist / alls Inn vergangnen /
+von dem das er gp / alll In gegenwurtigen

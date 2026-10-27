@@ -1,32 +1,31 @@
 # Seite 670
 
-284
-Die vii. Thlusbredi
-Paulus, ad Rijhesios, Eo Ist abgestigen, zu den iu
-dren teillen des Ertrichs, finden wir ein obren teil der
-hell, ein mittlen teil, vnd den aller nidristen teil
-von dem oben teil haben wir. 1o. Regum. ij. capite
-Der herr der todt, vnd machof labendig, Er turt
-zijn hetten, vnd furt wider hawus, von dem mitt:
-len teil der hellen, Othribt der Prophet David
-Dsalmo. lxxxv.e Herr du hast erlost min Del, vande
-der uidren hette, Item wir finden ouch ein statt
-der hell, Zacharie viiiio. Etat also geschribenn,
-Herr du hast dine gefangnen vs. gefurt In dem
-blut d'un Testaments, vsz der gruben, darum de¬
-hein wasser was, voor vermeeristen statt der
-hebt, dat fun dahem erlösung Est, Ochrift Job
-1o. Ich wird hingan, vnd nitt mer wider harumb
-komen, zu dem finsteren ertrich, das da bedeckt
-Ist, mitt der finstere des todes uijs, Vss dem
-wil Ich bewirt haben, zu glicherwis als da gijen
-vil stett der beloming, also B'en ouch, vil stott
-der Straffen, wann niemand zu himel mag kom¬
-men, befleckt oder gemaß got, Bezugt der Prophet
-David, herr wer wirdt Ingan In die Faber:
-nickel, vnd gibt andtwurt Im selbst, Opricht,
-Oer da Jngat aue masen, und wuijfft die gerich¬
-tikeit, fsalmo xiiijo.
-Meister Vlrich zwingli
-as In geschichten Im. i. capittel. Ist anzogen,
-Monsieur
+28
+Die vij Schlussred,
+Paulus / adEchefas, Eo ist algestigen, zn den ni//
+dren teillen des Ertrichs, funden wir ein obren teil der
+hell, ein mittlen tril, vnd den aller nidristen teil,
+von dem obren teil haben / wir / ͦ Jegum ij ͦ capite/
+Der herr der toͤdt, vnd machet laͤbendig, Er fuͤrt
+zum hellen, vnd fuͤrt wider harus vondem mitt
+len tril der hellen, Schribt der Prophet Daund,
+Dfalmo pv. Herr duhist ielist miin dil / vn
+der nidren hille, Item wir finden ouch ein Statt
+der holl, zocharier vins Stat also geschribenn
+Mare di hast dine gefungnen vßcgefuͤrt In dem
+pi di estamone vsß der gruͤben darum di/
+hein wasser was, von der iidristen Statt der
+well, dar knn dahein erlosung Jst, Schribt tob
+Ich id hugmm vnd nitt mor irder harumb
+kien, In dem fuiserren ertrich, des da bidicrt /
+ist mtt dir fustiee die tadie Vssdem
+wie ich wirt hiben, zuglicherniß eda te
+die Srit die lilunut, Aes Ssan auch vl Stott
+den Gtriffin, Mann nemand zu himalmag kem¬
+mon Eiste et ader gecget, Serzugt der fri phtt
+Vaind, Heer wor wirdt Jngem Ju dmn haber /
+n nd gie andn e
+Der da Jnhat nur asen, vnd muͤrclt die gerich
+tchrit/Esalin eiij
+Masten Canch uge
+rti Jistargein ky nate ist ugen

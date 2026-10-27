@@ -1,33 +1,33 @@
 # Seite 474
 
 197
-Die viend schlussende
-mir Das, Das vsser wortt, heissen, oder verheis So ich
-min Das int zu versuchung xxx vnd mit zweyffell
-er werde sich des int onderstan, Dann er woll
-wijssen Mag. Das er mitt dem Vssern wortt ouch
-bij smem glouben, allso mutzet vermag, Es sie dan
-Das gott gevalle sollichs wircken. So hoff ich es
-sich niemands so eins kleinen verstands, Dann
-Das er vermercke, das die vsseren wortt
-nutzit vermogen, fur oder haxje bringen, ob glich
-Der glorb Da sie vnnd valet damit Ir grune
-hin. Das wortt bringt mit Im, Das es be¬
+Die vnnd schlusned
+anr die dia vstr wen / hrisß / abe velate si
+nin das nit zuͦ versuchuig red vnd n woffal
+er well sich des ni vnderstan, Dann er woll
+wuͤssen lag / Das er mitt dem vssern wortt ouch
+by sinem glouben / allso nuͤtzit vermag / Es sie dan
+Das gott gevalle soͤllichs wurcken / so hoff ich es
+sig niemands / so eins kleinen verstands / Dann
+Das er vermercke Das die vssern wortt /
+nutzit vermaͤgen / fuͤr oder haͤrzebringen / ob glich
+Der glos da sy vnnd valt damit Ir grind /
+hin / Das woret bringt mit Im / Das es be //
 2
-Durt oder verheisser
-pfarrer v. s. g.
-Alx da int handeet osz, dem wort vnd beuelch
-gottes Da ist zevermessen, das er den geist Christi
-mitt hab, hatt er den geist Christi mitt so ist
-er nitt sin zum Romern am viij cap: vff die
-frag vom blinden / antwurt uw allso / Das die gab
-des glaubens In mengerleij gestallt wirt v/ getheilet
-vnnd een Stuklichenn pot mitteillt, alls Im gefellt,
-Wie woll meister Vlrich Christum gesum alß woll¬
-Als potrus vnd
-predigot, vnd den Erntzigst.
-Parens (ob got will:) ouch mitt gutem ghouwen.
-Undt desterminder, hab ick niet gehort, Das er
-Die linnen grad hab gemacht vnd sin schatt
-Derss staelt haben
-die krancken gesundt
+Duet oder verheisset /
+farer vn
+el de nit hendlet vsß dem wort vnd benelch
+gottes / Da ist zwermssen / das er den geist Christ
+nit has hatt er den geist Christ nitt / so ist
+er nitt sin zun fomern am vij cap: vff die
+frag vom benden / antwurt ich illso / Das die gab
+des gloubens In mengerley gestallt wirt vstgethellt /
+vnnd eim Jegklichenn got mitheilt / al / Im gelt /
+Wierelll meisser vͤlrich Christum Jesum alß wol //
+Als petrus vnd
+prdiget / vnd den Crutigot /
+Danens / xob got wilj ouch mitt guͦtein gpouben /
+Vndt desterninder hab ich nill gehoͤrt / das er
+Die limnen grad hal gemacht / vnd sin schatt
+Dergestallt haben /
+Die krancken gesundt //

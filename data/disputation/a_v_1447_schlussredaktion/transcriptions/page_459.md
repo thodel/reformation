@@ -1,34 +1,34 @@
 # Seite 459
 
-137
-Dema
-M
-allein Das so sy bedeten-Sonders onch das sij ver¬
-heissenn. Das gepurt sich ouch zeverantwurtenn
-Vnnde sah allso vill dan zu man soll ansechen
-Die natur vnne artt der wortt, wie will Inen
-ven pott geben, sich, Dann den osserlichen worten
-Alls elementem Ist nit ins verluwen, Dan zu
-beduten. Die Inuerliche wort so vorhin Inn
-Dem hertzen des menschen sind vnnd wo Den
-usserlichen worten, me zugeben wirtt, dan eins
-sollichs bedutens vnnd erinnerus so mag es ge¬
-acht werden fur ein zouberij, Dann was ist
-Zouberij annders Dann Das man vermeintt
+3
+vnno
+6
+allen / dies s been sedens ouch dae vyond
+heissenn / Das pepurt sich ouch zeverantwurenn /
+Dmd sag alls vil daczo / man soll ansechen
+die natur / vnnd artt der wortt wie vill Inen //
+von gott geben / sig / Dann den vsserlichen worten
+Alls clementenn / Ist nit nie verluwen / dan zuͦ
+Bbeduten Die Innerliche wort / so vorhin Inn
+dem hertzen des moͤnschen sind / vnnd wo den
+vsserlichen worten / nie zuͦgeben / wirtt / dan eins
+soͤllichs bedutens vnnd erInnerus / so mag es ge //
+acht werden fur ein zoubery / Dann was ist
+Zouberij annders / Dann das man vermeintt
 Das
-mitt krafft, der worten vss zerichten,
-doch des wortt an Im swis nitt vermogen, also
-sagt der vysman die wortt der orysynn, Eccersia¬
-stes am lesten cap: Das sind alles stimmen oder
-negell, Es ist die monsilich natux der ersten ge¬
-purt halben, Inn der bildnus alls. er gegen pott er¬
-schaffen ist vast verduncklet vande verfuntertt
-Allso Das er den rechten eer meijser Christum
-langsam hort, vnnd den glast, göttlicher war¬
-heitt int bald aninmpt Durch bewegnes vnnd
-hindermus des fleischs, sind dem thorechten mons
-en, ettlich hielff gegeven worden, Nemlich die
-vsserliche wortt, Durch welche der monsthalls
-Durch stimuten vnnd negell, allß In Im seles
-erInnert werd vnnd allso leer erkennen sinen Inne¬
-lichen Meister vnnd empfechig werd, der warheit,
+aitt krafft / der worten / vssherichten /
+Doch die worte an Im selbs nitt vermagen / als/
+iet der wysnan die wortt der wysenm/ Eelbesa
+ses am leste a as ssind ll stnnl oder
+negell / Es ist die moͤnstlich natur der erstenge //
+purt holben / Inn der bildnus / allß er gegen gott er //
+schoͤffen ist vast verduncklet vnnd vepfunsertt /
+Allso Das er den rechten lermoͤister Chrisum
+langsam hoͤrt / vnnd den glast göttlicher wir //
+heir nit balb aniumpt / durch bewegutis vnnd /
+hunderuns des fleische / sind dem thorechten min /
+en ettlich hillff gegeben worden / Nemlich di
+vsserliche wortt / durch welche der minsch ale
+Durch stimutt vnnd negell / allß In / Im selbs /
+rnnert werd vnd ls leer ene snen Jme
+lichen Meister / vnd empfenzis werd / der worzen//

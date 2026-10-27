@@ -1,31 +1,31 @@
 # Seite 152
 
-Wie erst Schlußens
+Die erst Schlißrend
 59
-so got allein zu stet geben, wurde, en In dem be¬
-harren, wolle Das man Die geistlichen wort
-hriste flasthecken wider die einigkeit des glaubers
-verstan solle vnnd leret trost bij denn Sacramenten
-Item vernusthet die ware mien¬
-zesungen
-scheit desu Christi mit der gotheit Darnen
-harwack gehaneelt wirt, so gwingt mich die
-eer gotes, vnd andre from christen mit mir
-Das wir des covens orts Dem luter abstan
-Wie wir auch pot vnnd mitt
+et aluin zues geben / wrdcn n dan le //
+hharren / welle / Das man die geistlichen wort
+hrist flaschecen onder da enigtlen des lalas
+verstan soll vnnd leret trost ly denn Sacramenten
+Item vernnschet die ware moͤn //
+zesuhen
+char Jesu gisti nit d ghen / Darn
+harnaub gehandes wint / so zangt mich de
+der gotes / vnd andre flben christen mit mil //
+Das wir des waes ols den luter abstan
+wie wen auch hot vnd mitt
 mussen
-Euter glaubig sin sollen e, Darnebende aber so
-lang er prediger, Das Christus Jesus vnser
-zimmer heiland sich, wellend wir In für vnserm
-bruder hallten, vnne Im desen gethumb ver¬
-tragen. Dan got allein vnd int wir in
-des entledigen mogen. Will er aber vnnd
-sin huff vns har verwerffen, So freuwen wir
-vns des Das der vatter smem Sun Christo
-vnnd int dem luter wie onch int Dem
-Bapst, Das endtlich vrtheill zu gestellet hart
-vnsere lieben bruder genugt woll wo man
-der sinn des glaubens met vns eins ist
-du
-wenclich Das wic alle nichts sind, vn
-cons pot Durch Christum allem frem vande
+Luter gloͤubig sin soͤllend / Darnebend aber so
+lang er prediget / Das Christus Jesus vnser/
+eng i
+bruͤder hallten / vnnd Im Disen Irthumb ver //
+tregen / Dan gat allein vnd nit wir In
+des entledgen nagen / wll er aber / vnnd
+sin huͦf vns goͤr verwerffen / Do frempen wir
+deas e versen ne
+vnnd nit dem luter / wie ouch nit dem /
+Bapst / Das endtlich vrtheill zuͦgestellet hatt //
+vnsere lieben brider genigt wol / wo man
+der Sun des glodens / nit vns eins ist //
+In
+Nenlich das vor alle nichs suͤd . vnd
+vis get diuch Christun allsi fran vnd

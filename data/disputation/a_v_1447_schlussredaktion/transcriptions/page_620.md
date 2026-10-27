@@ -1,12 +1,11 @@
 # Seite 620
 
-Die funfte Thlusseredi
-für vijver, vnd vil sijnd der mentsthen, spricht
-auch darnach, So dicl. fr das tunď, So tuue Es
-In minier gedachtnis, Ist heitter, das die Nass.
-Ist einhallig mitt der Christ, vnd wider die
-Ochlusseredi
-Verchtoldus hatleri
-Ist alles vorhin verandtwurt,
-DATES DES ACTES
-262
+Die fuͤnftr Schluͤsßred /
+fie umir vnd vil gund de mantschen, Spricht
+ouch darnach, So dich Jr das tund, Se tund
+In miner gedaͤchtnis, Jst heitter das die/ Maͤsß
+Ist einhallig mitt der Schrift, vnd wider die
+Schluͤsßred,
+Gorchteldug hallir
+Ist allie vehen vnnndent
+26

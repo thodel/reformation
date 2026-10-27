@@ -1,41 +1,40 @@
 # Seite 458
 
-Janvier
-PuxH
-as I am
-angeszeij
-prestus vij
-wert
-te lyblen
-Will
-Ihr Zeichn
-ren
-itt cresrs
-Die vierd schlußred. 191. 202
-vsscheret, wie meister Vlrich soll erzougt habenn
-verlassenn wir vnns vff die acta
-Hovingh
-Dir lassennde vnns ouch vff die erklaringe, vss
-offnem gortes wort, van vns har fur bracht wie
-onch die acta Inhaeltene Die andere reed. Das Im
-nachtmall mit Dem mind der lichnam Christi
-geessen werde, erkennen wir gar ein vngefuge rod
-sin, Dann so vnsere mind lijblick sinden vnnd nutje
-Dann lijbliches essen mogen vnnd empfindtlich wurde
-volgen, Das wir den lichnam Christi ontpfindtlich
-vssen mußten, der geist ist der Da leberndig
-macht, ende empfelenne Das auch ein Jeder der da¬
-gleubmessigen verstand hatt.
-Pfarrer von Santgallen,
-So wir min hand die handlung der Jigna
-Den actis bevolen vnnd sy amder erklaring Inge¬
-tragen vnnd nambich Jen Jan der lesten ree¬
-bevelchen wir allen so van get. gelert sollen werden
-was das offentich wortt, der schrifft vermogen
-Vnne sin verstand.
-Svingli
-Wir empfelchenes ouch Donen, die van gott ge¬
-lent sind.
-colamp adius
-Vnuer anndern ist gester ouch huit geredt worden
-Wie das die vsserliche wort/ tragend met In, nitt
+d
+vnle
+vgf
+rise
+wort
+elen
+wil
+r fech
+en
+we
+die viern schlußtred or 2a2
+vssheilt / wie meister klrich soll erzougt habenn //
+verlassenn wir vnns vff die acha /
+winch
+ir lassennd vnns oufs vff die erklarune vsse
+Dffna zenre beuntn von vnd hur fin a itn wie
+ouch die acha Inhalltend / Die andro red / Das imn
+nachtmall mit dem nuͤnd der lichnam Christ
+gsen wend erkeen gie en vngkg nd
+nn Dan so vns nd sund vd
+Dann leelichs estn mogen vnndempfindtlich wpild
+voeen Das w Den lichnm Chesst empfundtlch
+essen mußten / der geist ist der da lebenndig
+michn emmpfelend Das ouch ein Jeder der da
+gloubmessigen verstand hatt /
+pfarrer von Santgaten /
+Io wir nuin hand die hendaung der Jigur /
+den ackis bevolen / vnnd sy annder erklaͤrung znge /
+tragen / vnnd nomlich Jen Inn der lesten red //
+bevelchen wir allen so von got gelert sollen werden /
+was das offenlich wort / der schrifft vermog /
+vnnd sin verstand / In
+wingli
+Vsr ampfelchends ouch Denen / die von gott ge //
+lert sind¬
+tolampadins
+Vunder anndern ist geser ouch hit geredt woden
+Wie dis die vsserliche wor / traged nit In / mat

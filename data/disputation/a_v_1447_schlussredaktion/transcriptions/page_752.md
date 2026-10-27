@@ -1,13 +1,13 @@
 # Seite 752
 
-Demmach vrthebben, ob nitt ein Christenlicht, ersame wer¬
-keitt der loblichen statt dernn vff sollich behapt gesprech
-die vermeinen nots diensten vnnd Cermonien billichhen,
-Dofzberuijten vnne lutt der gemeinen reformatien christen,
-lichen gehandlet habe.
-Het der almechtig
-welc vns allen smen geist geben, Das wir des rechten
-verstands sins heilligen worts fächtig, vnd unser ladenn
-binnen
-Darnach zichten mogen
-sernckt,
+Demngrowicen / obint an horistranz ecent een
+keir der loblichen statt gerun vff hlich gapt esores
+die veemeinen gobdiensten vnnd Cerinamen billichen /
+vfgerutet / vnnd lutt der gemeinen reformatien christen /
+lichen gehandlet habe /
+Dot der almechtig
+wellvns allen sinen geist geben / Das wir des rechten/
+verstands sins heilligen worts faͤchig vnd vnser laͤbenn
+mien /
+Darnach richten mogen /
+etrut

@@ -1,30 +1,30 @@
 # Seite 340
 
-142
-Die dritt ende hlustved
-Pelagius am Stein, walther klarer.
-Mathias kesler, wldrij von Appenzetl.
-Als vil den dritten Artickel belanget, So hat vnser
-her pfarrer van Appenzell, Christum mitt sinem
-verdienst, unsern heiland, gezogen vff die Erbsund,
-damitt dem volckli, vil verdienst, In manicherleij
-wiss, an vil Orten verordnet, und fürgeben, des
-begaren wir ein vrkund der Schrift, 24
-Theobaldus Hutter, ffar:
-ter zu Oppenzell
-In driem namen heer gesuchtigte Amen, In
-dem als Si mich anzuchen, die wij so wider mich
-stand, von muen hebren van Appenzell, Mamlich u,
-Ich hab gelert vnd geprediget u, Christus hab al¬
-lein fur die Erbsund gelitten, vnd mussen wir
-binnst vmb unser sünde, ouch etwas tun, weis Ich
-nieman, der für vns te gelitten hab, fur die Erb:
-sijnd, dann fesum Christum allein, wussen etc.
-aber etwan einandern, der fur die Erbsund gelitten
-habe, den zougen mir an, Damitt nitt abgeschlagen,
-das Er für die Erbsund, vnd all ander sijnd ge¬
-litten hab, und vns erlöst, Das wir aber ouch mus¬
-sen etwas tun, damitt wir nitt lar. ersthinen
-Ermant Er vns, Vinen gebotten gehorsam zusind¬
-guts zu wurcken vnd zu tun, Als Palmo. xxxv
-Eeckma 4 malo, et fat bonum, Neig dich von
+ar
+Die dettt Scheußred
+Dllagug am Srin wilcheir klarer//
+Mathias kisler / All dez von apconzell¬
+es vie den dritten Outulll bilunget / d hat vnser
+her pfarrer von Appenzell, Christum mitt sinem
+verdienst, vnsern heiland, geygen vffdie febsuͤnd,
+dauitt dem voͤlcllis vil perdrustz Jn manicherlich
+wiß, an vil Orten verordnet, vnd fur gaben, des
+begaͤten wir ein vrkuͤnd der Schrift.34
+Nhrabaldut huͦtter, Sfar
+ror zuͦ Apfonzell
+on duem nomen arr Jisuͤchristi vnm, In
+Dem Ale Si mich anzuchen, die dey ze nider mich
+rand van muund herardvun dihrun lls hrmlich
+Ics bye glit vnd enridigetd, Chistushab al :
+lein fur die Eilsund gliten / vnd eiuisten mis
+sunst vmb vnser suͤnd ouch etnas tinn, weiß Ich
+rimn der fi kne t glitten hab, fuͤr die Eub:
+sund, dam Jesum Christunm allein, wuissrn s.
+aber etwan einandern, der fuͤr die Erbtund gelitten
+habr, den zegen mir an, Damitt naitt abgrschlagen,
+das Er fur die Erbfuͤnd, vnd all ander suͤnd ge¬/
+balten hib, vnd vns vrlost, Das wir aler ouch muͤst
+son etwas tun, damitt wir nitt lar erschinen,
+emauphevng, Sien geboͤtten gehorsun zusund,
+guts zuͦ wuͤrchen vnd zutim, Ale Psalmo xxxv
+Daclun amalo,/ et fat bonum, Meig dich von

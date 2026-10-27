@@ -1,54 +1,52 @@
 # Seite 544
 
-M4
-verstorben
-Nr. 1
-I don't
-wäre f.
-Der
-i tous les
-Das wir
-er zu
-suschwert
-van volgen
-ind' blut
-serundes
-inclus bij
-ott vnd
-meister
-or xvj
-¬
-27
-Dus 4. sluproden
-gottes Des vattens allmechtigen Vermeint damit
-er moge int mer/ bij vns vff erd lijblichen sin arguiert,
-Darumb mogen er int Im Sacrament sin, allso hen Marti
-bincer, hetter gesagt, Christus mog int Zemae an
-zweyen oxten, leblich sin antwint, ick Im Das
-Ers mitt woll betrachtert hatt, die allmechtigkeitt
-gottes, als durch den heiligen Enangelisten Lucan
-angeszeigt, wie der engell, zu Marie sprach, Es wirt
-Int vannoglich sin by pott alles wort. So er
-t'une
-Ingefurt er sitze zu der gerechten gottes, sagenn
-wer Das er setz by vns nit
-wix ouch
-mog sin lijblich, Lassvndt wir int nach, Dann
-wir haben uffgewinkte schrifft, acterum ixo ca: wist
-paulus van Jhernsalein In damasium wolltt
-vnd do er nachet Damasco, hatt Inn vmbgeven
-sein glast vom hincell, vnd so er viell vff Das
-extracht, hort er ein stimm zu Im sprechende, Paulus
-danke was dunchechtert mich. Welcher sprach
-Als er antwort Ick
-her over bist thu du
-bin Jesus Den En durch echtest. Da sechent
-Christen, wie der her Jesus vor Damasco
-bij paulo was vnd midt dest minder gesessen ist
-zu der gerechten, gottes suis vatters Item
-zum Cherinth: am de ca: parceus ouck anzeigt
+ch vid
+w
+ord
+sertt
+ae
+De
+nte
+Diede
+as
+hes
+ile
+nd ki
+se
+alas
+ca / vn
+mese
+erach
+2
+Ii t olusrd
+goetes des vatters / all mechtigen / verment danit
+er moge nit mer / by vns vff erd lyblich sin / argiert /
+Darums mog er nit Im sorrament sin / allso her Marti
+buner / hewter gesagt / Christus mog nit zemal lot
+zweyen orten / liblich sin / antwurt / ich Im / Das
+ers nit woll betrachtet hatt / die allmechtgkt
+gate en duncn den heeigen Eangesten vn
+angezeigt wie der engel / zuͦ Marie sprach / Es wirt
+nit vnmoglich sin oy got alles wolt / So er wil
+Ingefun er sicze zuͦ der gerechten / gottes / sagenn
+Aber das er Jen by vns nit
+wir ouch /
+mig sin Elich / Lussnt wir nt nach / Dam
+derr haben v ernere sernffr t x van
+vamlus vn hnnsben In damastum wolltt /
+vnd Do er nachet Damasto, hatt I vmbgeben
+ein glast vom himel vnd s er viel vff Das
+epricht / hort er ein stu zu Im sprechede / bauls
+Daule was durchechiest mich welcher sprach
+Aber er antwut Ich
+her wer bist thudn /
+bin Jesus / den du durchechtest, Da sechent
+Christen / wie der her Jesuns vor Damaseo
+bs panls was / vnd nidt destminder gesessen ist
+zuͦ der gerechten / gotes sins vatter / Ilen//
+zun Chermithi am So ca pauens ouch anzeͤygt /
 So dan
-Item den spruch Maxci am xiii
-ettwar vch wirt sagen, Hie Ist Christus Dort
-ist er sollende ges. int glauben. Diss wort wel
-Een int verstanden werden, van unserm Sacrament
+Peein den spruch Sarti am xin
+ecwar uͤch wirt sagen / e Ist Christus / dort
+ist er / sollend Jesß nit glauben / Dist wort wel/
+ben nit verstanden werden / von vnserm Sacrament

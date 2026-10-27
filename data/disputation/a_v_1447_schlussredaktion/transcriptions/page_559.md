@@ -1,40 +1,40 @@
 # Seite 559
 
-Der Mathijs pfarrer zu Souden, vff anzus
+Jer diaceus pfarrer zeͦ Saigen / vff anzib
 Des
-der selb herr May
-Els Collatoren vnd
-Comendurs zu kussnach hatt sich offenlich be¬
-lechenherrn der gul.
-kant. Das er das frangelium gepres dat hab
-pfarr zu songen
-vnd alle Termonien abgesteelt, So vill Im mog¬
-vmb rechensthaff¬
-Wer des sacraments halb haben
-licq
-der lez
-voorss. den Evangelisten Matheo, Maco Luca, Joch.
-vnnd panto Den buchstaben anmeers int verstan¬
-den, vnd also gepredigt, wie der pfarrer ven
-Vnd wie derselb bericht
-sant gallen
-also sij er ouch durch meister vlrich vnnd
-ander bericht benuge sich der erklaring
-Vnd wie er hier vff
-voll
-dem ersten handtvest gewesen, Also
-welc er Jetz ouch by eyvan, vest, vnnd
-handt hafft sin, so will Im get sin heeft
-Virlicht ende
-Concaens Som von Rotenacker
-praedicant zu Veni hart
-nachvolgend rede offenach gelesen
-vnd demnach ingeleit vss. nachlassen
-der presidenten
-mitt dem Cursium Sepand das
-Somen Christenlichen, lieben hern vande bruder,
-ich bin mitt der meijnung hie, das ick die sthlußers
-widerfechten welle, sonders haelt ick sij fur christenlich
-vnd In gottlicher gsthrifft so woll gegrunder, Das
-weder thuffhæ noch monschen ettwas darwider
-vermogen. Darzu hab ick die selbigen einer christenlicht
+der elb hert Mat
+a C vnd
+Domendurs zuͦ kußnachthant sichffen a ke //
+lechenherrid der gupt
+kant / Das er das Enangelium gepredigot hal
+piftierzei Sogen
+vnd alle Cerunomen abgestellt / So vill Im moͤg /
+vnd rechenshiffr
+uber des sicraments halb / habe
+lich
+der ber //
+vs den Euangelisten Macher / Mlato Cuchifle
+vnnd paulo den buͦchstaben annders nit verstan /
+den / vnd also geprediget / wie der pfarrer von
+nd wie dersel bericht
+sint gallen /
+also sig er ouch / durch meister vlrich vnnd
+ander bericht beinge Sich der erklaͤrung
+vnd wie er hiever vff
+woll /
+dem ersten hand vest gewesen Alls
+well er Jetz ouch by disern / vest / vnnd
+handt hafft sin / so vill Im got sin hilff
+verlicht n.
+onrades Son en fothocker
+predicant zuͦ Vbm hat
+Rachnogend red offenlich gelihen
+vnd Dennchnngelt vpt nachliss
+der prefdenen
+n vsan by gnd app
+vomen Christerlichen / lieben hen vnd orider
+ich bin nitt der meynung hie / Das ich die schluͤsse/
+widerfergten welle / sonders halt ich sy fur christengeich
+vnd In goͤttlicher gschrifft so woll gegruͤnder / das
+weder thuffe noch moͤnschen ettwdas darwider
+vermogen / Darzuͦ hab ich diesgligen einer christenlich

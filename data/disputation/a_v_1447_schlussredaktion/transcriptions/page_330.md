@@ -1,56 +1,53 @@
 # Seite 330
 
-(terna)
-van dazu
-den voors.
-Per glas
-de toutes
-même
-schrift
-n.y.et.
-Gaviseer
-auber wij
-gâchend
-+ und fi
-of thlachens
-Gereuft
-un tit
-sme
-t werde
-exiuthu
-such best
-Salieu y
-nd all
-gott
-9
-94
-Aa
--137.
-Die dritt Schlußred,
-Genesis. xvo. feremie. xxxj.o Esaije. xxxxx. vnd an:
-dren unzalbarlichen Orten, Oosten wir nitt ver¬
-meinen, das vnser waerck, dan lon glich gemaes
-sije, und verdient, Amder darumb, So Jun gott
-vss. gnaden verheissen hat, werden die ghijbigen
-hun empfachen, Ein vatter verheijst smem
-kind ein rocklin zu ton, Oouerr en In der 6thul
-redlich love, Nun Ist das kind in 't destimmer
-schuldig, dem vatter zijgehorsamen, vnd verdienst
-nitt das kleidli, Noch nampt mans em lon, nitt
-das Er verdienot sije, Cunder vsz. gnaden des vat:
-ters, verheissen und gaben, hiemitt lassen sich
-niemand feren, wo fr fundt den lon unser werc:
-ken, die doch nitt unser, sunder gottes verheissung
-sind, Camitt litt Ich all from Christon, So Je¬
-mand konde oder mochte vns vnderrichten, wette
-is nitt underlassen,
-Johannes buchstab.
-In dem namen der heiligen drijualtiteit Amen,
-Die vilfaltigen Spruch, durch hern Berchtol:
-den Inzogen, widerfachten wir nitt, Diewil aber
-Her Burger, vff donstag nächst verschinen, Dem
-hochgelorten Doctorn von Fryburg, geandtwurt
-hat, vnd gesprochen, wo fr gloubte, das Christus
-in einiger heiland ware, so hatte Er nach dem
-wort, das ewig laben, vnd wurden Im die guld
-nitt Ihren, Sommlichs nach minem verstand
+nd
+du
+r hd
+D
+saend
+en
+perse
+auber ve
+hed
+stnd
+hlen
+wrif
+mn
+eon
+trad
+eith
+gl
+ader
+Ind
+ze
+10
+1
+37
+Die daitt Schlusfred,
+Garsig xvͦ° heremir vexj ͦ Esaye xxx. vnd am/
+dren vnzalbarlichen Oten, Soͤklen wir nitt ver¬/
+meinen, das vnser waͤrth / dem lon glich gemaͤs
+zua, vnd verdient, Sunder darumb, So Jnn gott
+uss gnaden verheissen hat werden die glubigen
+Inmn empfachen, Ein vatter verheist sinem
+Eind ein Roͤckein zu kon, Douorr op In dir Schuir
+redlich lore, Nun Jst das kind nittdestmunder
+chuldig , dem vatter zugehersamen vnd verdienot
+nitt das Chridli Noch naͤingt mans oilon me
+das Er verdienet gye, Suͤnder vsß gnaden des vet¬/
+tere, vcheisson vnd gaͤben, gimitt lisß ech
+niomand tiren / are Ir fundt den lon vnser awert¬
+kin dier dach net vnfir , gunder grttas vechrissung
+eind Cruit bet ech ielfun Cgristem / So Jr.
+aond hru der machen v vndichten, mr
+nitt vndeclaͤssen,
+fohnnnes buchstab¬
+n den nramn dir gaillicen degualtilatt vnnon //
+Die vfengen ruch duch henn brngte
+di knz gn de haeten nu mt Dumlatn
+dch
+nlihen itnn g
+d gisn d Cisn
+sin ainifer galind wir, Si gtr E chde
+wurt dae nig Ean, vnd nuͤnden Im die gnnd
+rt Schiden, Somlichs nich minem verstand¬

@@ -1,34 +1,33 @@
 # Seite 576
 
-mines St
-of the sayd
-4
-241
-Die funfte Ihlussredi
-witter, vittemmal die Ordnung Melchisedech, an¬
-ders mit Ist, vnderfunden mag werden, dann
-das Er geopfrot het win vnd brot, So muss Je
-volgen, Sittenuil Christus nach vier Ordnung,
-ein priester genampt wirdt Inewikert, So muß
-Er Je ouch ettwas haben wie Paulus Ochribt, das
-Er opfere, mag anders nitt harfür bracht worden,
-mitt biblisther thrift, damitt die figur, vnd das
-Co bedutt wirdt, verglicht moge werden,
-Werchtoldus haeler,
-Damitt wir vsz. dem Span komen, vnd Jederman
-verstand, wie Christus Oije ein priester nach der
-Ordnung Melchisedech, Erklarts der heilig Dau:
-tus, zij den Hebreern am. vii. zum erstenn
-theist Melchisedeth, ein kruxg vor gerachtikeit, al¬
-so Ist Christus ein kúng der gerachtikeit, fa
-Er Ist hilbs vnser geruchtikeit, prima ad Corinthios
-Zum andern Ist Welchisedech, ein knug des
-fridens, also ouch Christus, zu den Ephesiern am
-ii. zum dritten, Welchisedoch Ist gesin ein Pre¬
-ster des aller hochsten gottes, das Ist ouch Christus,
-Zum vierden, Welchisedoch hat geopfrot,
-Aber nitt dem Abraham win und brot, Christus
-aber hat sich zalbs geopfrot, das sollen wir ouch tun,
-wie Paulus tert, ad Romanos xiio. Junij funf:
-ten, das geschlecht Welchisedech, Ist nitt bekant
-In der Schrift, ouch sin tod verborgen, Also Ist
+m ad
+2
+2
+Dr fuͤnft Schluͤsserd,
+witter, Dittrumal dir gednung / Malchisidich,/ an¬
+ders mit Jst, vnd erfunden ng werden, dann
+das Er geopfret hat win vnd beet, So muͤß Jr
+valgen, Dittonml Christus nach biner Sednung¬
+ein Priester gaͤmpt windt Jn ewilrit, So mud
+Er Je ouch ettwas haben, nie Paulus Schribt,/ das
+Er opfere, mag anders nitt harfuͤr bracht werden,
+mitt billischer Schrift, damitt die figue, vnd das
+So beditt wirdt, verglicht moge werden,
+Perchtoldus haller¬
+Damiet wvie vsß den Sein kauin, vnd Jiderman
+verstand / wie Christus die amn prirster naͤch der
+Ordung Melchisedich, hrklaͤrts der heilig dan¬
+lus zu den Jabrrern am vij . zum erstenn
+hrist / Melchisidechiein kunh der geraͤchtikrtt, al:
+so Ist Christur ein kung der gerichtifrit, Ja
+E Est eille vnser goicht lrt puͤn d Canthu
+zum andern ist elchifidich, oin Euͤng das
+fnidene, ilso anich Christu zn din Echohurn am
+zun deetten Mlchisedich Ist gesin rin fei¬
+sin dae ablri gersstin getie, die ist Llicg Cristu
+Zum verden Maechdich het gruchrot
+Aur net ven erch win vnd eirt, Christus
+aler hit Sich sills geapfret, das bollen wirouch tun¬
+Wie mulun ltind sommor xi Zum funt¬
+ten das geschlecht / Helchifedech / Ist niit belant
+In die Schrift, ouch sin tid vorborgen, Also Jst

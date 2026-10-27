@@ -1,27 +1,27 @@
 # Seite 745
 
-vnd viveren len gaben mitt den vngleijbigen, Das
-fassen zu hertzen, Oann gott vïch nitt vmb gunst 180
-getruwlich Warnot, In suma, Ouchend die Er got:
-tes, vnd das heil vijwer sthafflin, und tunne das vss.
-von
-liebe, die da gat ^ freinem herzen, gutter gewustne,
-vnd van vngefarwtem glauben, So werden Ir om
-gnadigen gott erfarenn, Hieniett bitten wir, alle die¬
-Co disputiert haben, vnd die Othrift harfür getragen, vff
-dem gegenteil, wettend In dehemmen weg an vns zuijmen,
-So wie tuen, mitt ruchen worten begegnet waren, dann
-Colichs ane alle bitterkeit beschathen om, bezugen wir an
-gott den gerichten richter, Inde ermanen T vnd all
-from Christon, wellen gott dem kunig der ewikert,
-dem vnuergangklichen, unsichtbaren, vnd allein wijsen,
-die Er In ewikeit gaben, vnd Oich Christo Jesu, vn:
-serm einigen kopt, trost vnd heiland, mitt gelassner
-damit, vnd warem glouben vnderwarften, Om ein
-wort, des sich 6 in heilige gespons vnd kilch, allein
-haltet, gehorsamen, vnd glichformig machenn, mitt
-les vnd laben, Damitt sin namen nitt In vns ver¬
-lestrot, Ounders In ewikeit geheiligt, gebrist vnd
-gelobt werde, hiemitt sijn die gnad vnsers herren
-Jesu christi, die liebe gottes, vnd gemeinsthaft
-des heiligen geists, mitt vns allen, Omenn,
+vnd eneren lon gaben / mitt den vngloibigen/. Das
+fassen zu harzen, Dann gett vch ntt vmb gnnst /es
+getrulich warnot, In zuͤma, Suchend die Er got/
+ter, vnd das hail uͤwer Sthaͤfflin, vnd tünd das use
+od
+lieber / dir da gatt shreinem herczen, guͦttorgewuͤstur /
+vnd von vngefaͤrntem glouben So woden Er ein
+gnadigen goet nfaru / Nudtt betzen wi ablider
+be dispudrrt haben, vnd dir Schrift herfur zotrigen / itt//
+dem grgentell / wallend In deheinen wreg an vne zichern /
+wienam met vchen ncten big gnitnalen dam
+Biete ee vni k bstlichen eu Erigininz an
+n ebda
+fr hhutn en einhen ing de anlat
+Dun enunnzniglichen ensichtleron nnd alrin nisn /
+r ei en arrlit en vnd dag Christ tasi in
+faͤn aunigen bict rist vnd erlnd n glisn
+Demit vnd warem glouͤben vnderwiͤrften, Sinem
+wart, dis Sich vmn kuligr gestens vnd kilch. allem
+getrt, gehorsamen / vnd glchfotng mochen / amen
+ber vnd labin, Drmitt vii namen nitt En vns vor/
+eistret, Dunnders anckt gchertligt, geluist vnd
+geliet nreden Memtt eir dier gnd vnsers herten
+eifu hristi, die Ciide gottrs vnd grmonschaft
+das haligen guists, mitt vns allen / amen/

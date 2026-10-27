@@ -1,31 +1,31 @@
 # Seite 339
 
-Die dritt Schlusfredi
-Christum nitt, ein volkomme gnug thuijgung, fur
-aller welt kund, doch mitt dem gering, das wir
-vns derselben gnugthijgung christi, ouch trilhaf¬
-tig machen, wie Ich zum teil anzougt hab,
-Martinus buijer
-23
-Oott zije lob, dan der Schulmeister, Christum Jesum
-bekent unser volkomme gnugthugung, Oann Ist
-Er ein volkomme gnugthugning, So werden wir
-nitt mitt vnsern wercken, witter mogen zuthun
-Cas Er aber das geding hinuheyt, wir mussen
-uns, unies guijt huijgens teilhaftig machenn,
-Tagen wir, das Oolichs, In gott, vnd nitt vnser
-thane stat, Glouben wir an vnsern herren, So Ist
-4 Bl. Er vnser ganz eijgen, vnd haben teil und gemein¬
-an siner gnugthugung, den glauben muß aber gott
-gaben, der vns zum Gun zucht, Johannis. vj
-vnsere warck vermogen hie nichts
-Johannes bijchstaen
-Diewil Christus vus Ro gang und gar sollte frij
-gesagt haben, wurde, vorgaben gesin zijn, das Er vns
-hat geheissen Batten, und Sprachen Mathei am
-vij. vergib. vns vnser schuld is.
-Martinus buijer
-Is Ist verandtwurt In der declaration hern Garch:
-tolden, Batten vmb verzichung, Ist nitt gnug tun¬
-Ich lassz mich vff die Acta
+Die drett Scheussnd ,
+Cistin mit ein vlkenme gnigtheignung / hur
+aller welt Suͤnd dech mitt dem gesung, das wir
+vmy denrselben gnugthigung hristi / ouch tulhat/
+tig machen wir Ich zum teil amzigt hab¬/
+Martiniz luczer,
+2
+Dat zie lib / das dir Schalarristir / Christum Jrsumn
+Eebrnt vnser voliume gnugthugung dann est
+r ein uelan gngthugun So worden wir
+nitt mitt vnsern wercken, witter maͤgen zuͤthun /
+Das Er aber das geding himi grist, wir mͤsson
+rus Snies nh u geu dtulzaftg mcheu /
+Bign vnn
+gand Cat Dloubon wigen ensaen huzen / So est
+n h
+an n nung den hauben misalie get
+a ein di v zun dun zucht tamn v
+onsere waͤrch rwenogen hie nicht
+Johauns kichstab,
+iamb Christur ve bi guu vndd gem ibtr tr/
+gsipt hieen , wurd tirgeben gesu m , die hyiduns
+het gehrisfen Batten / vnd Sprichen Mathri am
+vij. vorgib rus vnser Schild 1
+Martinu bigr,
+Ax Ist wrandtwuͤrt In der declaretion worn Birch
+tolden, Datten vmb verzichung, Jst nitt gnug tun
+Ich lasß mich vff die Acta
 16

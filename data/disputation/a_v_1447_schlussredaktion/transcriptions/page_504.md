@@ -1,37 +1,37 @@
 # Seite 504
 
-210
-Die viere Slustwe
-lelendig Sun gottes mit sinem tod vns erloßt hab,
-Is voegt wijter Inn een worten paulij Der
-wirtt schuldig am lichnam vnge blut des
-hernn, mit die er vnwurde gklich geessen
-habe, sonder Deren er sich ein vertrostene falschlich
-Dargebenn hab, Das ist er will int sagen, Das
-man Inn dem geessnen lijb schuldig were, sonders
-Das welcher int gloubt, Das er vns mit sinem
-lijb vnnd blut erloßt vnne geswert hatt, Onch
-off den Sun gottes mitt vertruwt ist, vnd
-aber zu der kirchen patt, Der sollich vertruwen
-vnd gleuben, verzicht vnnd er aber int ein
-selfs da
-glaubiger noch vertruwter ist
-einer ein osser zeichen, siner hern von Bern
-vnnd aber Jnwendig einem volck
-tratt
+20
+Die vird Clustred
+belendig din goties mit sinem tod vns erlist hab/
+Es volgt wyter / Inn den worten paul / Do
+wiret schuledig am lichnam vnnd blut Des
+geun nut in er vnwindighzug poistn
+habe : sonder / deren er sich ein vertroͤstend salschlich
+Daree wie nt sigen das
+moͤn gnnd den gessin led stene dig werd sonken
+a weger n glon dae er vis mit sinen
+he vnnd banz rast vnd gesibtet hatt / viij
+vden vn goes ni vertrit ist vnd
+aber zuͦ der Riechen gatt / Da sollich vertrumen
+vnd glonben / vereihen vnnd er aber nit ein
+Allß da
+gloubiger noch vertruwterist /
+enen ein ssr zechen sn ger von dam
+vnnd aber Sugendig einem volto
+treit /
 So wirt
-van Berum nitt trouw haelt
-er geredt schuldig sin an denen von Berum
-ob er sy glich mitt hatt mogen ambringen, oder
-Da einer der hern von Berum Zeichen vervueret
-Drijn schlecht, oder sucht, hatt er nit die
-van Berum, geschlagen oder gesrochen, vnnd
-ist undt eesterminder schuldig, das er die von
+von Bernm nitt truno hallt //
+er gered n s schuedig sin / an denen von Bornn
+ob glig nogen vmbrngen oder
+da einer der hern von Bernn zeichen vervneret
+Din schlecht oder stichet / hatt er nit die
+won deu gesarign odrt gstihen vnd
+ist nudt desternnder schlldig Das er die von
 Die
-Berim geschlagen vnnd vervueret, hatt
-Welcher aber Jsser
-lesten wort pauci
-vnnd trinckt vnwurdengklich,isse vnnd
-trunckt Im wees ein vacheill oder verdampnus
-V er den lichnam des herren, int entschadet
-Babenne den sinn. Das welcher zu Dem
+Bernn geschlagen / vnnd verneret / hatt /
+welcher aber Isset /
+lesten wort / pamli //
+vnnd trumbe vn wurdengelich sen vnnd
+truet m sel ein vhel oder vendampns
+v er den lichnam des herren / nit entscheidet /
+Habennd den sun / Das wercher zuͦ dem

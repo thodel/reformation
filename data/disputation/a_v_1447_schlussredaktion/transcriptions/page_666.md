@@ -1,29 +1,28 @@
 # Seite 666
 
-118
-282
-Die Pibende Schlussred
-er nach disem zitt, de hem fagfur In der Obrift erfun¬
-Acht den wirdt, Oesthalb all toeten dienst, ws Vigill, Pel:
-masst, Colgrat, Vibend, Oriskgost, farzitt, Emplen,
-kertzen, vnd derglichen, vergablich sind,
-+ Berchtoldus haller,
-ise thlusbred Ist zum teil gnugsam bewert, In der
-dritten, Da wir bekennen, Christum vnser einige
-wiszheit, gerachtikeit, erlosung vnd bezaling, fur aller
-welt sijnd, So volget Je von wten, Cas de hein ander
-gnug thuij, vnd bezalen fuij die rund, den abgestorb:
-nen nachzethun, sin mag, dann das liden Christi,
-Zum andren, Johannis iij. Opricht der heer, At¬
-so hat gott die walt liebgehapt, das Er sij einigen
-Tun gab, vff das alle, die In hun glauben, nitt verlo¬
-ren werden, Qunders das ewig laben haben, Dann
-gott hat zijn Dun, nitt gesandt In die wilt, das fo
-die welt richte, Vnnders das die welt durch Jun Oa:
-lig werde, wer an Inn glaubt, der wirdt nitt ge¬
-recht, waer aber nitt gloubt, ver Ist ende thou gericht,
-Hie Ist offenbar, das den glaubigen volgt das owijg
-laben, nach Irem abstheid vss. diser zitt, Nun aber
-waere das leiben nitt ewig, wann die arme Pelierst
-ein lange zitt Imp. faijfür, mitt benumen vande braten
-genigt tin muste, vnd welcher nitt glaubt, der
+116
+2or
+Die Sienndi Schlissrnd
+enice disam ziet degen fafie Jn de Scerft icfun/
+Et din widt Desthill chrndrust ve digi, die
+maͤsß, Silgrit, Dibend Crs gest farzet, Amplen¬
+kerten, vnd derglichen / vergablich sind,
+Crichtildin zillar/
+se Schlußsred Ist zum tril gmigsam bomidt, In di //
+diettin, di me bikeinem, Christumm viser einige
+nnschrit Jrrachtikrit , alesung vnd lelung fur allar
+Dadt eund reget tr vn uten, Dis dchei ander
+nit tein end kiden fin de bind den algisene/
+nonnchkchin n dann disliden Christi
+ndn n i re r hn de
+fi et n de r
+u e e n
+rin naden, Sunderd die angluein ziben, Dunm
+zt sit gin u t undt ende t die
+dd drn duch in
+Eit n n get die wudt net ge
+aet n n it huti de is bberngrin
+e mn dieen nlien ri dieang
+lie n ds zt
+e
+nt nru nnusen nnd naece t glebt di

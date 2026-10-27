@@ -1,38 +1,37 @@
 # Seite 282
 
-un so
-[+]
-findig
-wij
+en de
+ar
+ns
+wei
 114
-Die ander Schlustrad,
-Die dint, Co du gehoort hast von mir, durch vil
-zugen, die selbigen ving empfilch den getuijwen
+Die ander Schluͤssred,
+Die dunt, Se du gebaͤrt list von mi, durch icl
+zugen, diesell geu dinz ompfilch den getruͤwen
 menschenn,
-Martinus buzer
-Is Ist gestern, durch Meistern Vlrichen Zwing
-Tin, andtwur't gaben, vff alle Soliche Jurid, Das
-gesagt vnd tropheten, sampt allem iem, das Je got:
-lich gelert worden Ist, oder temer mer magt gelert
-werden, Ist alles verfasset, In dise kurije Red,
-Lieb gott, van ganchem herczen, vnd den nächsten als
-dich salbs, Cas haben getort, vnd vsz. gott gelert,
-Alle die, von anfang der welt, recht gelert haben,
-Ist darumb nitt von noten, das es alles beschriben
-werflustig haben wir gnug an dem 1 oo
-C0½,
-die Biblisthen bicher Innhaltenn,
-Johannes bijchstab
-22
-Der anzug, Das wir Collen vnsern nächsten lieben
-Als vns zulbs u, dienst hiewider nitt, das man
-nitt schuldig bije, ouch ander ding zuhalten, wie
-Vnde das man Othuldig bij 1 ouch
-vor gesagt Ist.
-ander ding zu halten, das mitt vo getruckten wor¬
-ten, nitt geschriben vande, begar. Ich das Ir mir
-amoigen drij Spruch des heiligen Christenlichen
-glaubens, mitt vs getruckten worten, wie wir di
-betten, Namlich, Er Ist abgestigen zu den hetten,
-Item Ich gloub In die heiligen christenlichen kilchen,
-vnd Ich gloub gemeinsame der heiligenn,
+Martinus kuͤcer¬
+ist gistren, duch aisteen Dlrichan zmundt /
+li, andtwourt gaͤben, vff ille Soliche Jnred, Das
+gesuzt vnd Preyhaten / Sampt allem dem, das Jr git//
+lich glirt noden Jstz, oder Jrmer ar mit gleit
+werden, Ist illie verfassot Jn dif kuͤrge drnd¬
+ie ott von ganzen hetczen vnd den uachsten als
+dice Salle, Dis hueen gelit nd o gott glat¬
+Allr der von anfung die mlt, recht gilipt haben,
+Ist darumb nitt von noten, das es allls beschrtben
+uberfluͤssig hiben mii guutz on dem, So
+Sye
+Cllischon lucher Jnchaltrnn
+Jchannrs kuchstab¬
+In anzig die ari dilein rnsen norstmluben
+Ale vne dalle i, dirnet hiewide nitt, die min
+vatt Schuildeg vir ouch ander dungt zuhailten / wr
+Vnd das man Schuldig dir, ouch
+vor gesagt Jst
+ander Sung zuhalten, das mitt vs getruchten wor¬
+tin ne zruschn len bend Siger eit die tr mn
+amoͤngen dee Seruch das heiligen Christenlichen
+rns witt ve getruchten witten wie nie dy
+litten Nunlich Er Ist algestigen zuͦ den hillen,
+Item Ich glaub In die heiligen christenlechen kilchen,
+vnd Ich glaub gemeinsame der heilligen,

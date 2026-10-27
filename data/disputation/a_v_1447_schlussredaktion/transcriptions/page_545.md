@@ -1,32 +1,32 @@
 # Seite 545
 
-So wir sagen, Christus ist Im Sacrament, vnder der
-gestalt wins vier brotts
-Als wir vngen zweyffellt
-glouwen, sin fleijten vnnd bliet zesin, Sonder gat vff
-Die lesten zyt, In welcher der her sy warmett
-Is werden schwaere, kumermusz vnd trubsal vffer stam
-die noch nie siend gesien, van anfang der Opele wie
-Dan der wert vor vnd nach klarlich anzoigt, Das
-Vier spruch int verstanden soll werden, geredtt
-von desem Sacrament lijbs vnd bluts Christi,
-zwingh
-Alles das hie anzogen, Ist, ynde sam vorhin
-verantwurt gar wenig vssgenomen/ Als er
-erstlich spricht wie ick dargeben hab man solle
-ist, verkeren Im beduwt ist int also geredt, Sonders
-Ist, wirt genomen, fur bedutet, Zeuchnet, oder wirt
-gebrucht zu Ingedechnus, Es muys auch hier uw
-Int an allen orten, ist, furbedutett, genomen overden¬
-sounder Da vns die gestorifft vnd anliche des gleu¬
-bens, darzu zeningt das die spossel vnd Enange¬
-lijten nieuen beduret, gestoriben, haben, ist kein
-Crunder, wir haben vss. Der ant Ir spracen ymen¬
-sam anzoigt, Das sy In solcher reden, Ist furbe¬
-Dutet bruchen
-Deßhalb der kilogen dhein
-Innumb Daraest ent staen, mag, das er Inzogen wider
-Den spruch, Das fleijten ist degein nutz. Ist erklärt
-Das er jngogen das
-Inne verantwurt
-fleißig vnnd das blut, habind es dir int geoffenbaret
+Depor sien / Cariftie ist In Daranen / vderde/
+gestalt wins vnd brotts //
+dls wir vngegeweffellt
+glouben / sin fleisch vnnd blutzesin / Sonder gat vsl
+Die lesten zyt In welcher der her sy warnett /
+Eswerden schware / kumernuß vnd trubsel vffersten
+Die woch nie siend gsin / von anfang derweld wie
+Dan der text vor vnd nach klarlich anzeigt / das
+Diser Spruch nit verstanden soll werden / geredtt
+von ossem Sacrament lybs vnd blucs Christi //
+zwingli
+lles dis hie anzegen Ist guigsom vorhein
+verantwurt gar wenng vßgenomen / As er
+erstlich spricht wie ich dargeben hab / man sole
+is verenn bedet t als nd
+Ist wirt genomen / fuͤr bedutet / zenchnet / oder wirt
+gebrucht zuͦ Ingedechnns/ Es nuͦs ouch hieruml
+nit an allen orten / ist / fuͤrbedutett / genomen werden
+sonder da vns die gschrifft vnd anliche des glon
+bens darzu Jwingt das die Apesel vnd Eange //
+listen nenen bedintet / geschriben / haben ist kein/
+winder / wir gaben vsß der art Io sprach gnuͦs //
+sam anzeigt / Das sy In soͤlcher reden / Ist / furbe //
+dutet bruchen
+deshalb der kalchen dhein
+Jrtumb / Darußt entstan / mag / Das er Inzogen wder
+Den spruch / das fleisch ist dhein muitz Ist erkloͤrt
+Das er Inzogen das
+vnnd verantwurt
+freisch vnnd das bluͦt / habind dir nit geoffenbare //

@@ -1,31 +1,31 @@
 # Seite 433
 
-1. 15
-in a5
-Ich vnderwurff mine vnnd sine vßlegung dem
-Christenlichen leser
-Lovingli
-Allss. muer herren Agandat luyt Das nie¬
-mands die warheit soll lassen vnderligen, will
-sich vss. krafft derselben ^ punckten onch zu der
-sach ereden, wider den mißverstand vnser
-widersicher, vnd sey alsre erstlich, So ver
-sy mit dem ext des krancken Crijbs, Luce
-am viii cap: vnnd mit dem ont Der
-sommis des heblichen geists Da furin zungen
-gewesen sind / In der geschickten der ap: am
-xx cap: int vermeinen Cric Ir sinechdochen
-bewert haben. Den will ich wyter zu Irem
-een
-fuxtrag
-Pfarrer van Santg:
-Vff den furtrag mus lieben hern bruders
-hab ich hutt mermalls geantwort vnnd ist
-Darmus In die fader verfasset Darby
-lass ichs belieben, Den spruch von dem
-glomben des freuwlins Luce viij cap:
-Verstan ich ein ergebung vnsers hertzens mit
-hertzlichem vertruwen In Christum vnnd
-aller smer worten
-vingli
-So veru er Das vertruwen, aller worten
+5
+1
+Ics pderwdist mie vnd sine vslceng de
+Chrisenlichen leser
+Zomgli
+AAllß miner herren Mand at luͤtet das ni
+mands die warhet soll lassen vnderligen / wlln
+ich vsß krafft derselben punckten guch zuͦ der
+och preden / wider den missnerstand vnsen
+widerscher vnd sag alie erstlich / So ver
+sy mit dem ort / des krancken wyls. Cus
+am viij cap: vnnd mit dem ort der
+sendung des heilligen geists Da furin zuigen
+gewesen sind / In der geschuchten der ap: am
+pr cap: tut vermeinen wie / Ir sinrgaorgen
+ewert bualen den wil ichowter zuͦ aren
+en
+fuͤrtrab r
+Nfarrer von Santet
+Uff den firtrag nins lichen hern beides
+hab ich hut mermals gemutwurt vnnd ist
+Darumb In die fader verfasset Darby
+lass ichs beliben / Den spruch von dem
+glouben des fremolins / Luce viij cap:
+Derstan ich ein ergebung vnsers hertzens nit
+herzlichem vertruen / In Christum vnnd
+alltr siner warten /
+wingli
+So verr er Das vertauben aler wwren

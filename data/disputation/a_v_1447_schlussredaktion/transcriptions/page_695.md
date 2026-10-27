@@ -1,32 +1,32 @@
 # Seite 695
 
-# zulang
-Die vii. Schlushredi
-So Er aber das nitt wil sagen, was dient dan Solichs,
-Om fugfur zubewaren, Das In der penitenz, etwas
-Etrifflichs in musse, reicht dahin, das vnser busß vf:
-legen, etwas solle hinnamen, das niet ist, dann so
-wir glich alles taten, das gott heist, dannocht sind wir
-vinnitz knecht, Das vns die gerachtikeit gottes, na
-ben der bramherzikeit, lere des vnser Zethun, Oegen
-wir, das alle werck die beschicken, gottlicher gerachti¬
-keit gnug zethund, Christum vsz. leeren, Aber die
-geruchtikeit des gloubens, giltot allein, welichs Pan¬
-lus zum Remern vnd Galathern, zum Stercksten
-bezugot, Das Ort 1o. fohannis. v. bewirt de hem
-fagfur, So aber hie bezalung, von sinem Rum zu¬
-reden, dagen wir kurzlich, das nitt volgot, so Ist
-een Ound fur die man nitt bitten zal, So Ist ein fag fur,
-Das ont Mathei xiio. Die Rund In heiligen geist,
-werde weder hie noch dort nachgelassen, Othlijst nitt
-Das Ettlich Cund In Jhmer welt werden nachgelassen,
-Cann es Ist locus: IJ Rijsustecienti diuisione, vermag
-als vil, als wirdt niemer met nachgelassen, vnd dis
-Ist ouch kurzlich, die sijnde von dero Johannes am vordri
-gen Ort redt, glich als Co man opricht, der het weder
-tag noch nacht kouw, volgot nitt, So hat er etwan
-vuw, Ounders tag vnd nacht sind die gang vs. teil¬
-lug des zittes, dann alle zitt Ist enitwaders tag oder
-nacht, Also ouch hie minpt Christus, für, wirdt
-niemer nachgelassen, Die gantzen abteiflung die hie¬
-igen vnd dort welt, vnd Opricht, Oi werde weder hie
+tzulang
+Die ainj. Schluͤshred /
+So Er aber das nitt mil sigen, was dient dan slchs
+sin fagfuͤr zubewaͤren, Das In der penitoncz, etwas
+Ctraͤfflichs su muͤsse,/ reicht Sahin, das vnsor buͤs vf¬
+ligen, etnas solll hinnamen, das nitt sstidann go
+wir glich alles taͤten, das gott heist, dannocht sind wir
+vnntz Enecht, Das vns die gerachtikrit gottes, na/
+ben das barin her zkrit lere das vnser zethun, Sagen
+wir, das alle werct die beschaͤchen, gottlicher geraͤchti¬
+kit gnig zethind, Christurn vßliten, Aber die
+grichtelet der gliuens, gatet allan / mlics m
+lus Jin Remneen vnd Ckalachern, Sum Storchsten
+Mutet / Das ort Echannus v beirt dehain
+tistun Siaen bi b r e un e
+rden Sngen n uchn da incht tost
+eit vnnd tin derman ant kiern gl / bi est om kigtur
+Dieott ithe vj.ͦ Si dind tn holiern zuisen/
+vnide vider der nch dirt nchelissen, Schlust nitt
+Die htlich vund in thanernet neaden nichzelissen//
+Ban as Jst licnoff Jefifficnte dunsane vrung
+ls al / als wirdt nirmormarnaͤchgilissin, vnd orsn
+ist oauch kulichn d sind vnn der Jchaus am verdrn /
+ge it d hlichals min spricht, dar bet nider
+tagmcg ncht lan rune volft nit So het eratnmn
+vur Sunders tag vnd nacht sind die ganzvsteil¬
+lit das zutes, dann alle Jrtt Jst enitwaͤders tag oder
+nacht, Alss ouch hr mimpt Christus, zur, widt
+momer nacllsten, d Jnen abtnklung die ger
+i nd wat ns n r ndi her

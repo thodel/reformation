@@ -1,36 +1,36 @@
 # Seite 578
 
-hunders
-tigenen
-mensag
+serden
+had
+wonag
 242
-Die funfte Schlusswed
-Ym. xx. 9 tag
-Januar
-gidius murer,
-Die gnad unsers herren Jesu Christi, bije mitt
-vns allen, Amen, Diewil gestern, vff die ban¬
-bracht Ist worden, wie das Melchisedech, win, vnd
-brot harfur gebracht, vnd geopfret, von des zusag¬
-es wijgen, So Er Cpricht, dann Er Ist gesin fin
-Priester gottes des hochsten, Ist offen barlich bij
-bracht, das Melchisedoch, Christo muß verglichot
-werden, des opfers halb, dann es Ist nitt gnug,
-das man ettlich verglichung het gethan, mitt Chri¬
-sto vnd Nelchisedech, Ounders Er muß Christo
-verglichet werden mitt dem Opfer, da mag migit
-anders voorss. der Schrift dargeben werden, dann
-win vnd brot, vnd In dem opfer mussen Oi ver¬
-glichot werden, dann witt van toe mag mans nitt
-Oprachen 1 vann wiewol Christus mitt dan tod vf:
-geopfrot Ist worden, das mag man Melchisedech
-nitt zulegen, darumb mussen Oi verglichst wer:
-den Im opfer, wie gesagt Ist,
-Meister Vlrich zwinglij
-Ist gnug anzoigt, das ende für und für, got:
-tes wort zutunde, das Es nitt hat, Es stat allein
-Er hab win vnd brot harfür bracht, So tijnd Oi
-tmerndar darzu, und geopfert, Das aber hie diss
-wortli fmin, das Ist dann, staende, Das Ist nitt,
-neque greci neque hebrei habent, vnd of es aber glich
-bij den Hebreern ware, So Ist es doch mij it an¬
+hanen Schlissnd
+Am xxj tan
+ene
+Eidiuns muter,
+Die gnad vnsere herren Jesu Christi, dyr mitt
+vns allen, omon, Diewil gestern, vff die ban
+kracht Jst worden, wie das Melchisedich, win vnd
+brot harfuͤr gebracht, vnd geopfret,/ von dis zusan¬
+es waͤgen, So ErSpricht dann Er Jst gefin Ein
+Priester gottes des hoͤchsten, Jst offenbatlich by
+bracht, das Melchisedech, Christo muß verglichok
+werden, des opfers halb, dannes Jst nitt gnuph,
+das man ettlich perilichung hat gethan, mitt Chri¬
+sto vnd Melchisedech, Sunders Er muß Christo
+veeglichet worden mitt dem Spfor, da mag muitzit
+anders vsß der Schrift dargeben werden, dann
+win vnd bret, vnd In dem opfer muͤssen Si ver¬
+glichet werden, dann witt dem tod mg mans nitt
+oprachen, dum niral Cristus mitt dem tod rf
+geopfrot Jst worden, das nag mun alchisedich
+nitt zulegen, darumb mussen Si verglichet wer //
+dan Een ocfer wit zesigt Jt
+rister Vlrich wingli
+Ist gnuͤg amaigt, das Si fur vnd fuͤr, got¬
+tes wort zutund, das Es nitt het, Es Stat alloin
+sr hab win vnd brot harfür bracht ,/ So tund S.
+Binerdar darin, vnd gropfert Dasaber hir dist
+woͤttli Emin das Jst dann, Stande, das Jst nitt,
+nea greti naz gebrei habent, vnd ob es aber glich
+eden ttelrerin waͤre, So Jst es doch muzat an¬

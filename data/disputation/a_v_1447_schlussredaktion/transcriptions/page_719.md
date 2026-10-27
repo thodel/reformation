@@ -1,33 +1,32 @@
 # Seite 719
 
 6
-Die viiij. Schlusbredt
-gelijbe vfnamen, vunders das gebar die schuld Ana¬
-nie, das die Christen vsz. frijem willen, fre gutter
-In die gemeine gaben, Da wolt manias gesacken suij
-Dam Er ouch zuie gutter hette In gemeine gebenn,
-das aber nitt was, vmb der gottlose, vnd falschen
-willen, ward Er von gott gestraft, Oann Petrus
-Opricht also, waer het vijch zwingen, dem heiligen
-geist zu liegen, An welchen worten wir verstand
-das Oi vmb des betrugs willen, gach getödt sind,
-vnd vmb de hem gehenis gelubds willen, Demnach, 60
-Reinikeit halten, allein ein gab gottes Ist, dann die
-niemand hat, dann welchem es gott gibt, So Ist
-Reimkeit loben, glech als da Einer, vff enis andren
-Oeckel Zert, Oesshalb Alich gelubd. ver Reinikeit,
-mer om vermassenheit, weder ein gots. dienst ge¬
-wasen Ist, wellen hie, der vuwigen heiligen funck¬
-frouwsthaft, núzit entzogen haben, Wer Paulus
-Opricht, wann sich aber Iemand, mitt rein halten
-mag, so vereeliche fo Oich, Oannes Ist besser,
-vereelichot sijn, weder gebrant werden, Disz Ist ein
-gemein vrloub allerderen, die Tich glich remiteit vn¬
-derstanden haben, vnd aber darbij, ungemasse bonust
-empfinden, für weliche komliche de hem gelübe ver¬
-magt, hun andren hat niemand geredt, das ein
-Wisthoft muß ein wil haben, Douoor aber der Wi¬
-sthoff mitt reinklich labt, So Col fr ein wil haben,
-„aber „
-over „ nitt ein Wisthoffsin, Das die alten, von zuch:
-tigt labens waijen erwelt wurden, die wiber hatten
+Aevin / Sclluissrid
+glild vfamer, Sundens das geler di Schild u/
+ne,/ das die Christen vsß friem willen, Jre gutter
+Ender gemeind galen, dawalt Oamas Jesachen ein
+Dam Er ouch smi gutter hittr tn grmaind gaͤbunm /
+dis aber nit nas vmb der gittlif, vnd kilschas
+willen vnd Er vn get gestift, Dam Sotrus
+et ni t igen denhligen
+hust zu biten / Dmnmachauͦnaten ii rastg
+die i ne de litrige mli, gich gnidt eind
+vnd vne scheint greilde milln, Crumich /e.
+fantfr adtrs atlon an gue getne fsn dnmn der
+nirmand get, dum wrlchem as gott giet, So Jst
+lurrt lhrin e e di kinae vffaur andern
+Cuhie zit Dischill Silch gelil de haihrit /
+mar oin vermastenhrit / nreder emi gite dernst ge//
+sen Jst wallen her runigen helligen kinch
+friescheft nezt entpgenhalen / or Prulus
+Opriet vnrhi tnd r en bien
+nng n li u st eisar
+vrelchet ein wedir gabrant neden, Diß Jst a
+grmem veloub allerdwren, die Sich hlech reinhrit vn/
+Dustendin hzchru nd clnr dach rngenasst einist
+ompfinden funr wrilicht tonliche digen gelils vrr/
+mig Znm endien htt manand geredtz das ei
+Cistloff muͤß ein vrd haben, Sonomallt dar di/
+stcboff nat romllich libt / So dil Jr ein inb halen //
+d ni ei Cisthicfen, Das dir alten / vm zuch/ daber
+t ib n e uden de nen acben

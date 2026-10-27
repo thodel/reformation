@@ -1,34 +1,33 @@
 # Seite 443
 
-dam,
-Dan an ersten, opt Da er spricht, Das brot
-& morn
-das orie brechen, sie die grad Des lichnams
-Christi, zoigt vnns gnug an Durch die
-versachlichen rede, die von stund an, hernach
-welget; Das er von Dem Brot radt das
-wir brechen, Das er wer dannechin spricht,
-Das wir, so dasselbige brot, mit einanderen brochen
-sind die gemeind des lichnams Christi Das
-ist ein lyebliche der tropen, Das er dar¬
-nach spricht ein brot vnnd ein lichnam,
-wir die minge, In den worten
+dem
+Dan andbisen / art da ersfruist / Das er
+Das wie brechen / sio die gud Des lichnend meign
+hristi / zeigt vnns gnug an durch de
+Vnsachlihen rede / die von stind an / herunh
+volget / Das eir von dem Brot redt die
+wir brechen / Das er aber vannechen spristen
+Das wir / so dasselbig brot / mit einanderi breten
+sind die gemaind Des lichnams Christi das
+ist ein lyebliche der tropen / Das er dar //
+nach spricht ein brat vnnd ein lichnam /
+wir die menge / In den wert
 sind
-kerkennen ich woll, Das er die kirchen, Das
-brott rempt, er spillt aber daruff, das sy
-Des osserij sacramentlichen bret hale. Das
-Die kilch mit einanndern thallt, ein brott
-So er von stunden
-Vnnd ein lichnam sys
-Jan spricht vnnd vrsach geptt. Warumb
-ex ouwen die kilchen ein brott vnnd ein lich¬
-nam genempt hege Dann wir all mit¬
-ein andern theilhafft sind von einem brott, hie
-Ist aber ein ander pro sapodosis. Das is ein
-Ersach Inn dem worth, da er sprichtt
-Dann welches ein Vrsach gijt, warumb
-voorss. genampt habe, ein brott vnnd einen lichnam
-gedoch so wirt hie des lichuams Christi
-int lyblich gedacht, Aber des wirt
-gedacht In einen Sum Das wir die meeste
-Das ist Die Christenlich gemeind, ein gemeine
+erkennen ich woll das er die kilchen / das
+Erot dempt er seilt aber deruff das
+e f saranachen l die
+Die kilch mit emnandern thellt / ein brott
+So er von stuͤnden
+vnnd ein lichnam sye //
+an spricht vnnd vrsach geptt warumb
+ah dr kiechen ein rot vnd ein lich
+nam genempt heige / Dann wir all mit //
+einandern theillhafft sind von einen brat / hi/
+aber ein ande n sagoa Das isten
+Ersach Inn dem worth / Da er sprichtt
+dan welches ein vrsach gipt/ warumb
+eiß genampt habl / ein brott vnnd einen lichnn
+dachs w h des lichnns Chus
+nit leblich gedacht / Aber der wrt
+gedacht In einer Sum / Das wir die mengt
+Das i e erns e gen en gamn

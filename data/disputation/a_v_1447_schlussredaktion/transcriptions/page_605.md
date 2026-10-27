@@ -1,34 +1,32 @@
 # Seite 605
 
-# In der andere
-Aaa
-Die fünfte Schlusred
-Meister Vlrich zwingli
+hndir andan
+as
+Dr fuͤnfer Schlissrad
+Mrister Dlrich zungli
 14
-deshalb, die Ort Omielis hb, nitt bewaren, das die
-Maffen opfer zije, dann an beiden Orten, die zitt lan¬
-gost erfijlt sind, veranlissend vns ouch, vff rechten
-verstand der gloubigen.
-Johannes bijchstae,
-Diewil man schrift mitt schrift vslegen sol, und al¬
-ler meist, die Othrift des alten Testaments, mitt den
-Othriften des mijwen Testaments, erklärt sollen wer¬
-den, finden wir an dryen Orten, das die Prophetsen
-Danielis, vff uns dienen, Namlich Danielis xi. Stat
-also, das von dem Endchrist verstanden wirdt, Das Er
-wirdt vforhext, vnd gross gemacht, wider alles das, So
-„den „
-gott Ist, Ja Er wirdt ouch wunderbarlich, wider „ gott
-aller gotten reden, darumb wirdt Im gelingen, biss
-der grum v/ Ist, dann der Schluss fst Othon gemacht,
-den gott mier vatter wirdt fr nitt achten, Die wort
-Paucti Pauli, an dem ii. zu den Thessalo naern dienen
-wol haruf, vnd gaben disen worten enien verstand,
-So Er also Opricht, Es sol ich niemand In dehemen
-wagt verfuren, dann es zije dann Oach, das die Zwij¬
-tracht vorhin komen, vnd geoften barot werde der
-mentsten der Ründe, der Zum der verderbnis, der Bich
-vber
-widersegt, vnd pfer heben wirdt, wider, alles, das gott
-genompt wirdt, over des gecrot werdt, Also
-das Er, In dem tempel gottes Erge, vnd eich erzorge,
+eshalb, die Srt Dimelis El, niet bewaͤren / das die /
+Mosse ffr eir, dum an enden detrn, dir get lon/
+Jost erfult eind, vrraulissend rns oich, vff erchten
+verstand der glaubigen,
+tohns buchstab¬
+aue anz bhrift ziga Sertr iflign ril / nnd e
+lie mist die Schritt dis ilten Listaments, mitt din
+Schriftin die muren Castaments eeklert zollin wer /
+den finden vin an degen deton das die frochatten
+Dammlie iff redrnen lich Damelipj vtit
+ale dais vondem Endchrist vrstanden wirdt, das Er
+idt vfrrchept, nnd gross gemacht nider llisidis / S. den
+gnt sst ta Er virdt oich nunderbaillich wider gitt
+ai gati eden da e enge ei
+dr zeu es est dum der Schluͤ st Schen gemacht
+den Jott gner vcter wirdt Erngt ichten, Der nitt
+Sanei ali, an dem ij In den Chessilonrrußdienen
+Diie haruf vnd gaͤben dlnweten enwistnd
+Soft ifs Spricht, Eo bierch menand en dehean
+nig verfuren, drnn as ar dann Sich, das die Jim¬
+aricht vor bun wure vnd groffenbartt vorde doe
+moͤntsta der Sund dee Sun dir vordrebnr, der Sich
+vdersicht vnd pfeehelen widt, vndnallas, das git vber
+genampt wirdt, der dis hs geeret wirdt, Also
+das Er / In dem tempel gettis dur, vnd Sich erzoͤge/

@@ -1,43 +1,41 @@
 # Seite 306
 
-die kehre
-ff Domini
-Pauli
-le Christe
-in the
-and wie
-is wort
-tochen,
-sindt
-Die ander Ohlussredi
-).126.
-Berchtoldus halber,
-Der Bichtvatter wil mir uftraechen, bij zebringen,
-das aber Im zustunde, als das die klech Christi
-etwas ufgesetzt hätte, das nitt Jan getswort stunde,
-Demnach das die kilch Christi, kein Paczung mache¬
-osserthell dan wort gottes, Ist heitter vnd clar
-zuermassen, vsz. dem Opruch f'sa'e am xxviiiii
-vergulens freu si mich, So billeren, die ter vnd
-bott der mentsthen, wie Inde anfang anzöigt Ist,
-Suck Mathei am. xv.
-18
-Alexius grad,
-20
-Ver Berchtold zucht mich an, das Ich von Im begare,
-dat mir zusfunde bijgebringen, vermein Ich, das
-Er, vsz. Ouer huijttigen andtwurt, bybringens gnug
-habe, da Er nachgaben hat, das die heilig christen:
-lich kilch, wie sanctus paulus sagt, Ist ein gul.
-vnd vestigung der wirheit, vnd dibij gesagt, das
-die kristenlichen kilch gegrundt zije, oft das wort
-gottes, das Ich auch Oprich, Carumb mein sch,
-das nitt nott bije, zu witteer bewaring, das Ich di¬
-Tayningen der heiligen christenlicken kelchen, die
-off die warheit vande gotewort also gegrundt Est,
-witter beware, So Tijdoch hat den heiligen geist,
-voor dem Rijgeregiert wirdt, der nit fälen kan,
-Das aber darus volge, das die Pagangen der chri¬
-stenlichen kilchen, van christen mentsthen nitt
-sollen angenomen werden, wo ende nitt mitt heitte¬
-ren und glichen worten, In der Othrift gegrundt
+dite
+Ewnd
+fi
+Der
+omon
+vnd e
+ech
+Die ander Schrussred /
+128
+Gorchtoldus haller,
+er Bichtwitter wil mir vftraͤchen, syzebrin gen,/
+das aber fein zustunde, Als das die kllch Christi
+otwas ufgeseeft hatte, das nitt Jm gotewort Stuͤnde/
+Domnach das dier kilch Christi, kein Saczung mache /
+erthall dem wort gottes, Ist hettter vnd clar
+zuormassen, vsß dam Spouch Esusr am vim
+vorhaͤbons bron Si mch, So Sie Ceron, die ler vnd
+bott der mentschen, wie Jmn anfangamzeigt ist,
+Auch Methei am. xo.
+15
+AAlraus grad¬
+2
+Der Berchtold zuͤcht mich an, das Ich von Jmj ligaͤre
+das mit zustunde by zebringen, vermein Ich, das
+#x vsß ouer huͤttigruͦ andtwurt, kybrigens guug
+habe, da Er naͤchgaͤben hat, das die hrilig christen¬
+lich kilch, wie Sanctus Paulus sagt, Jst ein Sul
+vnd vorsti gung der wicheit vnd die gesagt, das
+die kristenlich eilch gegeuͤndt sye, vff das wort
+gottes, das Ich ouch Sprich, Darumb mein Ich¬/
+das nitt nott ber zu wittrat bewiͤrung, das Ich dir
+Dazungen der halligen christenlichen Ellchen / die
+vff die warheit vnd gotswort also gegruͤndt Jst,
+witter bewaͤre, So Si dich hat den heiligen geist,
+vss dem Si giregiert wirdt, der nit faͤlen tan//
+Das aber Sarus volge, das der Sazungen der chri¬
+steulichen kilchen vm christen montschen nitt
+Sollrn angrnomen warden, wo Si nngt untt hatetr¬
+ron vnd glichen worten, Jn der Schrift gegruͤmdt

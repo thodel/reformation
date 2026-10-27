@@ -1,30 +1,29 @@
 # Seite 581
 
-Die funfte Schluskoed,
-off den text, Der fragthall, wie Christus nach der
-Ordnung, Melchisedech, om priester sije, Ist gosterum
-vnd hutt gnug gesagt, Das wie Welckseerch der
-Friester des obristen gots, vsserlich, opfor vfgropfrot,
-Also hat sich Jacobs Christus Jesus, dem hochsten gott
-vfgropfrot, Oann Christus Ist dem Melchisedech,
-nitt darumb glich genent, das Er win und boot hab
-ofgeopfret, Oder aber Christus hatte allein mussen
-win vnd brot, oder vsherliche opfer vfopfren, wie
-auch Melchisedech, dieselben allein v geopfrot hat, vnd
-nitt Sich Silbs, Wer es Ist gnug gesagt, das Chri¬
-stus, mitt zin halbs vfopfren, erfult hat, das
-Melchisedech, mitt vssern opfern bedutot hat. Des
-Oetshalb Frouerbiorum, viii. angezijgen, dient fuen
-gar nitt, ende unders Ist mer fur vns, vnd verlassen
-vns darumb an den text
-gidius muur,
-15
-Is Ist notwundig, das einander opfer, mitt Molchise
-dech vnd Christo werde anzougt, dann der tod Christi,
-vnd sittenmal das Oi dasselb. mitt der Schrift nitt
-harfur bringen mogen, To bleiben wir, wie vormals
-amongt Ist, vnd beuelckenden Christen der Notarien,
-vnd einem Jetlichen christlichen laser,
-Meister Vlrich zwingki,
+Die fuͤnfer Schlussredd,
+vff den tept, Der frighall, nie Christus nich der
+ordnung / elchisedech ein prister oye / Jst gestrrn
+vnd huͤt gmug gesagt, Das wie Milchesedich dar
+Priester dis abristen gots pssarlich opfer ofgeopfret,
+Also hat Sich balls Christug zesug, dem hoͤchsten dan
+vfgepfret, Dann Christus Jst dem elchisidech,
+nitt dar iumb glich geuont, das Er win vnd kert hab
+vfgeopfrot, Oder aber Christus hatte allein mssen
+wir vnd brit, oder vssrliche opfer gfopfzen, wir
+auch / alclisdach, dafillin allru vffupfrit bet / vnd
+nit dich Silbs, Alrr ao ist gnig gesigt, das Chri¬
+stus mint si pales fipfrin / erfurthit das
+Maeeidich miit issir offimn liditit het, Die
+Deto lelb Suevarlarnmn vimj j angezgen / drnt tnrn
+In ntt, gundirs Ist mir fin vno/ ind vnlisstin
+vns darumb anden tert
+Lhidius miar¬
+ist nanndg die anide affir anr / itet n
+big n dundn wrsti
+vnd eitrunik das bi dassieb, mitt der Schrift nitt
+airfin beinin magen So llibin wir ve vormill
+anagt ist vnd kruilchireden Schrften dir Motarion /
+vnd emem Jetlichen christlichen liser/
+Mrister Clrich zunugei¬
 Christo,
-Das es nott Eije, das wir ein ander opfer In
+Die ie nat de die ni an ande afer ti

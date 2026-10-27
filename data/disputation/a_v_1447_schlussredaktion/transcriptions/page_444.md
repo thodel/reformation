@@ -1,40 +1,38 @@
 # Seite 444
 
-Das II
-Hernen
-andren boeken
-Geist.
-&c Der
-quam
-denere
-tin breche
-Die vierd schlußred.
-185
-0
-des lichnams vnnd bluts Christe siene, ein
-brot vnnd om lichnam sienne¬
-Neechamer
-Ich beuilichs abermals sin vnnd min exklij¬
-xiiie dem Christenlichen läser.
-Jovingh
-Vnnd wir ouch ende
-xvi Xvii tag Janners
-pfarrer von S. galle.
-Nach abstehende vnnstens anfangs wider Vis
-vierde schlußred, Das vns lutt der ouorten
-des nachtmals Christi, ein mutelklich durch
-Die Enaufelisten vnnd paulum beschriben wir
-Den lijb Christi, wesenlich vnnd lijblich der¬
-glichen sin blut empfachind, vn sachet vns zu
-erst van dem lee zu reden. Die figur
-exodi am & xii cap: welche vnsers verstands
-paulus erkläret zum der ersten zum Oberingsten
-am v cap: so er Christum dargegen stellt
-mit solchen wortten, vnnsvr osterlam Christus
-ist vffgeopffert wijs sy haben wesen lich vnd
-lyblich Cas osterlam genossen vnnd sollichs
-gehassen worden, zu einer ewigen gedechnus
-thun. Der wolthat gottes Inen gul. exipto
-erzoigt mit vorbewarmen des zijtlickenn
-tods Derglichen sollen wir Christen Das
-lamb Christum messen, lut der worten
+Das
+hem
+Derssen
+ad
+d
+hham
+dalt
+on srs
+die vierd schlußred
+1s
+e
+de lionane vnd brn Chist sond en
+eret vnnd ein lichnam siend
+Allchamer/
+Ich benl e vnd min aili/
+rung dem Christenlichen laͤstr
+zwingli
+vnnd wir ouch
+V Wij tag Joners/ pfarer von di gadt ¬
+Nach alsched vnnsers anfaigs wder die
+viede stru Das vns lut der overen /
+es nnn
+dnaen v e w
+gachren sin en n n
+erst ven dem lid zurden / Die signr
+dald au n waͤte riftie vnised
+de hn
+au v dai so en Christun Bargeten stert /
+v sehen d n iss
+t vfsene ve
+oli das oserlin genosse vnng solichs
+geheissen worden / zuͦ einer ewigen gedechnus
+thun / der wolthat gottes Inen In Egipto
+erzeigt mit verolwarung des zytlichen
+tade dergechen ollen wr Chisten das
+lamb Christum niessen / lut der worten /

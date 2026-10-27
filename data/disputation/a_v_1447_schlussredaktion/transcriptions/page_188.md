@@ -1,30 +1,30 @@
 # Seite 188
 
-73
-Die erst Schlußrad
-Da klarlich anzougt wirt allen christ glouwigen
-monschen, wer Da regieren solle, die klechen
-gottes Er hatt nu besagt, Das getlicher aldem
-solle regieren / nach sinem genallen, vnd das
-kurtz, vnnd damit ich lab Dan, beuelch so
-durch vnser gnedig herren, van Derim beiden
-parthijen geben ist, sich ouch sollichs Daruach
-sollen wijssen, wijnschweiffend reden, so zu der
-sach int Dienen zu vnderlassen
-Berchtoldus,
-Op Dem gewaelt, soll man schrifftlich ver¬
-stan ein beuelch vnnd machet uit mer
+35
+De eist Schrsen
+Da klaͤrlich anzongt wirt allen christ gloubigen
+moͤnscen / wern De regieen solle / die kilchen /
+gote / Er har nit gesag Dis Jelicher abemn
+sobe retueren / nach sinem gealen vnd das
+u lo dendauen so
+Durcn vnser guͤdig herren von derm baden
+partzyen geben istt sich ouch soͤllichs Darnach
+end e so zu der
+sich nit dienen zuͦ vnderlassen /
+Berchtoldus
+vs den geiln / sol mansctrifftaich ven /
+stan ein bevelch / vnnd machet nit mer
 ein houpt Dan die dienstbarkeit des
-Worts Die schrifft, so der pfarrer Inzogenn
-hatt vss der gesthichten, Der zwolff potenn,
-am xx cap: wie der heillig geist, hab bisthoff
-gesetzt, zu regieren, Die gemeine gotes soll
-er eigentlich verstaen was die schrifft ein Bi¬
-schaff nempt, Dann Das worten eigent¬
-lich heißt, ein wechter der den schafflin vor¬
-stand vnnd so refier alles ein hirtt, vrund nit aels
-ein halst her sonder wie deo hirt den schafflin
-Allso hatt Christus ver¬
-vorgat sij zu weiden
-ordnet opostell quangelissen, propheren, hirtenn
-vnd lever, In erbuwme des lijbs Christi Jun
+worts / Die schrifft / so der pfarrer Inzogenn
+hatt / vsß der geshichten Derzwoͤlffpotenn /
+am xx ͦ cap: wie der heillig gest / hab bischoff
+gesetzt / zuͦ regieren / die gemeind gotes / Soll
+er eigenlich verstun / was die schrifft ein Bi ///
+schoff nempt / Dann das woͤrtly eigent //
+lich heist / ein wechter / der den schaͤfflm vor //
+stand / vnnd sy regier allß ein hirtt / vnnd nit all //
+ein halscher sonnder wie der hirt den schaͤfflin
+Allso hatt Christus ver //
+vorgat / sy zuͦ weiden
+ordnet Aostlll Euangelisten / propheten / hirtenn
+vnd lerer zuͦ erbiuwuns des lybe Christ Inn

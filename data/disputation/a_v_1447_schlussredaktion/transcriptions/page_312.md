@@ -1,42 +1,41 @@
 # Seite 312
 
-velich
-wittwe
-tendre
-sarbott
-nugen
-Abberts
+la
+eicn
+tnd
+geen
+nige
+en
 1
-88
-129
-Die ander Schlusfred,
-vnd rechtenlich georduot, Das aber dese Stuck, vnd was
-derglichen mochten Ein, In der Othrift gegrundt sind,
-das haben wir an vil Orten, Oesz. Insunderheit zu bewa:
-ven von allen stucken, das wurde zu lang, Ich wil aber 24
-Danocht ettliche bestimmen, vnd die Ort anzogten, da die sel:
-ben fur gijt geachtot sind, In hoffnung, Een Jetlicher
-fromer gehorsamer christ, werde Oich, alicher Ordnung
-der christenheit, nitt beschwaren, In dem verteuwen, das
-der regierer der heilig geist, die heiligen christlichen kilch:
-en, zij dehenier beschwaerlichen oder vnbillichen Sargang,
-teite oder wise, Des fleisthessens halb, hat die heilig
-Schrift ein grund, In der Epistel zij den Romern am
-xiiij. Es Ist gus nitt fleisch Essen, vnd mitt win¬
-trincken, noch etwas anders, In een en bruder geer¬
-grot wirdt, Des fastenshalb, vnd ettlicher anderer wun¬
-gen, wiewol vil In der Christ Ist, mein Ich, Es sij vmb
-kurze willen gnug, der Opruch Pauli, In der. ii. epistel
-Zij den Cornithern, am vi. da Er also Opricht, wij
-Collen vns Pills In allen Dingen erzoügen, Als die die¬
-ner gottes, In vil gedult, In trubsalikeit, In notikit,
-In augstikeit, In Streichen, In gefenckens, In wachen
-In fasten, In kustheit, in heilikeit, In langumtikeit is
-Item Johelis am. ij. Cagt gott der herr, bekeren vth
-zu mir, In ganthem vwerem hertzen, In fasten, In
-weinen. In klagen u, von der kustheit, da haben
-wir. j.r Cornithiorum. vii.o da lutet das halb capittel,
-von der kustheit zuhalten, Voss disen wenigenn,
-vss vilen angezougten texten, Ist gut zu mercken, das
-die Nyungen der heiligen christenheit, der Duc:
-tenhalb die erzelt oind, In der. i. Epistel zu Thimo.
+i2
+Die andes Schlushred.
+vnd rochtenloch grordngt, Das aber dife Stucs vnd mas
+derglichen machten din In der Schrift gegrundt sind
+das haben wir an vil daten, Deß Jnfunderheit zubewa :
+ren wvon allen Stuclen, das wurde zulang, Ich wil aber 1
+danocht ettliche bestimen, vnd die Oet ampigen, da diefel¬
+ben fuͤr guit geachtet dind, In hoffmunt Ein Jotlicher
+froͤiner gehorsamer cheist, norde Sich, Slicher Ordnung
+der christricheit,/ nitt beschwaͤren, En dem vertruwen, das
+der rigtrar der hrilig geist, die hatligen hristlichen kilch
+en zun dehrng bystewarlichen odie vnlillichenn daczuunh
+leite oder wise, Des flrischessens halb, hat die heilig
+Schrift ein grund, In der Eristel zu den Jaͤmern am
+eiij Eo Jst zut nat krisch tssen ondntt vom
+trcken / noch etwrs andees, En dem din bruder ge er¬
+gret ndt Die Jstonhics vnd attlicher ander ubin¬
+ten raml vll Jn die Schrist Jst, mein Ich Eo dir vmd
+Eurce mn gug di dcrch mli inder it histil
+zn din Canichrunn am v di er ils Spricht vi
+Ben n e d
+nir gnere, Jn vll gedilt, Jn trulsliceit In natkiit
+dn mstakrit In Struchen En gehruchnis In nachzen
+zi Jasten Jn lustent n halrt en ligntnit/
+term Jchelis am ii Sagt gott der harr, Crbrron vch
+in gem nen gen n kisten
+Cirinen Jn Eligeni von der fuͤschitt / da haben
+wie e Cornithirum, vij ͦ d lutet die halb capittel¬
+von der kuscheit zuhaltrn, Ish disen nenigenn,
+u vilen angrigten tepten, Jst guͦt zu mercken, das
+die Sanungen dir halligen christenhuit, der Ctus//
+Einhall dir elt oind / In der, Jpistl zu Mhiimo¬

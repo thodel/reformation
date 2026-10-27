@@ -1,31 +1,31 @@
 # Seite 717
 
-# Gemlichs
-Die viii. Schlusred.
-nis vnd saphine, hatten zittlich gut, dassebijg mochten
-& tuy, war biwolten, te vnd bij dasselb. den Apost.
-len ubergaben, wer nach den Oi, Oomtichs hingaben
-vnd den Apostlen verlobten, behielten Oi eni teil henin¬
-lich, wider die gelijbe, des Jacob Manias gachlingen,
-Also ein Jetticher, dan ein duig gezumpt vorder ge¬
-lijbe, wacht Im sibbs durch die gelubde, vryimlich,
-wann Christus Inu, Fruangelio opricht, vijwer
-Red. sol sin, Ja: fa, nein nein, Een Oprich Fau¬
-li ad Thunotheum, verandtwurt Ich also, das nitt hin
-meinung Ist gesin, das ein Jetticher Bischoff, muste
-ein wéb haben, dann der gestalt, hatte ouch Christus
-Der obrist Friester jouch Johannes der Euangelist
-ouch Thimotheus und titus mussen wiber haben,
-Is Ist aber die meinung Pauli gesin, das Ennotheus
-vnd Litus, solten von Erbaren unstrifflichen man:
-nern, Gisthoff, Priester, vnd Oircon, erwellenn,
-dann es waren bij denselbigen zitten, nitt Othriftge¬
-lert Jung vnuermaecklot lijt, die van Jugend vf, die
-Othriften konden, die zu dem waren Christen lichen
-glauben dienten, wie Chimotheus diesebben von
-tugend vf, hat konnen vnd gewust, ij. Thimo:
-thei. iii. Cas man dieselben Jungen darzu goordenot
-hätte, darumb wurden die alten vermichloten
-mann, darzu verordnot, damitt vnd dester fr. erfult
-wurden, die wort Christi Co. Er Uxrecht Mathes
-vo. Also zal luchten vwer liecht vor den montsthen
+t Semlichs
+Da aum Schluissad
+mas vnd Sachir, hatren zitlch guͦt, dassellig mechten
+Si tum, war Si woltenz Er vnd Si dasfell den apost¬
+len uͤbergaben, Aber naͤch deni Si, Soͤmlichs hingaben
+vndden Apostlen verlcbten, behielten Si ein trib henie
+lich wider die gelubd, des Starb Ananas gaͤchlingen/
+Also ein Jetlicher, dem ein ding gezuͤmpt vorder ze¬
+luͤbd, macht inj saͤlls / durch die gelubd, vmzunlich,
+wann Christus Jm Eruangelio Spricht uͤwir
+knd bol sin, Ja Ja, mein nai, Den Opruch Jan
+li adrhunotheum verandtwuͤrt Ich also, das nitt sin
+meinung Jst gefuͤ, das einffetlicher Rischoff, muser
+ein anl halen, dann der gestalt haͤttr ouch Christus
+Der obrist Criester, ouch Johanurs der kuangelist
+oich Rhimnothent vnd Ditue / muͦssen nailer laben //
+Es ist aeir de mannut Suli gesin, die wunathens
+vnd Citus, coͤlten vm febaren vnstrefflichen man¬
+wen, Bisthoff, Peiester, vnd Cucen ervellenn,
+Dan as wiren by dinsolligen geten / met Schriftge /
+lart Jnug vnuermaͤchlit lütz dir von Jugend vf, die
+Schristen konden , die gudim miten Christenlichen
+glouben dienten, voi Chinetheus deselben von
+Jngnd f e kinnend geristzn. iin/
+hei in das man defalben Jungen diezu guordnst
+krtte, darmb wurden die alten vermaͤchloten
+m d t dnt nddiste Er ertitt
+wunrden did wart Christi di gr Spricht nether
+li e luchten i liecht vrden matschen,

@@ -1,30 +1,29 @@
 # Seite 197
 
-zu vijver vnderruchtung vnnd der emfalen
-genn.
-Pfarrer
-Als dan Her Berchsold In gefurt hatt
-wie die zwolffpoten, int stond liechter
-"wesenlich
-der weelt,, hort es des mits dörffenn
-Im ist niemands darwider is in Das etc.
-aber darneben Ingefunt hatt, wie dan
-her Berchtold sagt, Christus sy allein Das
-o'wessulich houpt, vnd die zwoeffpoten
-int, glaubt gederman. Wer das verempel
-vnd Bispill so meister Vlrich zwinglen geredt
-von dem liecht mur gegeben, von der Sonn
-durch das pfenster, erkenn ick eigentlich
-voll Das an alles mittell Das
-das war lecht ist, vnnd der anfangedes
-luchts
+zuͦ vͤwer vnderuichting vnd der enten
+gen/
+Danet
+Els dan Mer Berchtold In gefurt hert
+wie Die zwoͤlffpoten / nit siend liecgter weseml
+der wellt c heit es des uude dorffenn
+Im ist niemands darwider gsin Daser
+aber darneben Ingefurt hatt / wie dan
+her Berchtold sagt / Christus sy allein das
+o wesenlich hoͤupt / vnd die zwoͤlffpoten/
+nit / gloubt / jederman / Aber Das elenpe/
+vnd Bispill / so meister Vͦlrich zwingly geradt
+von dem liecht mur gegeͤben / von Der son
+durch das pfenster / erkenn ich eigentlich
+woll / as an alles mittell Das
+das war lischt ist / vnnd der anfangade //
+liehies
 Aber der schin der
-durch tringt das venster, Hoff ich er
-Als
-lass murs ouch ein biecht sin
-noch zu Infuring muer beschluß reden, ecken
-sich ouch pot den herren Jesum Christum
-min behallter vnnd alter wellt, een houpt
-Zesin
-wer Das int sy ein ver¬
-orduet houpt nachgelassen, van sinem got
+durch tringt das venster / Hoff ich er
+Vlss
+lasß mrs ouch ein liecht sin /
+ouch zuͦ Infuͤrung miner beschlußred / erden /
+ich ouch got den heiren / Jesum Christin
+min behallter vnnd aller wellt / ein houpt
+zesin /
+ber Das nit sy ein ve //
+ordit houpt nachellassen / von finen sit

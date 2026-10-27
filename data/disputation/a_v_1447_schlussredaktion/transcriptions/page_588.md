@@ -1,44 +1,41 @@
 # Seite 588
 
-tum der
-In töndlich
-Darron
-dans son
-Wunsch
-rind, f
-67
-^ heimlikerten
-247
-Die funfte Schlus bred,
-ewikeit em opfer hab, dauon hutt und gester, vil ge¬
-sagt Ist, Carumib wie min ein Christus Ift, vnnd
-ein ewiger priester, also Ist ein ewsgs priesterthum,
-vnd ein ewigs opfer des muwen testaments, Chri¬
-stus Ist der priester vnd das opfer, Ein mal hat fr
-Bich salbs tarblich vfgeopfrot, wertaglich wirdt
-Er geopfrot In den hulilviton, zu einer gedächtnis
-sines Herbens, vnd wie sie sterben, ein ewige
-ein
-erlosung Ist, also Ifties ewigs opfer, nitt mer am
-Crütz, aber nach der ordnung Melchisedech, vnder
-„des „
-der gestalt „ brots vnd wins, In suma, wie das
-laub, In dem durchgang der Juden, aben ein mal
-Ien Jar, vfgropfrot, Exodi xxviijo. hat bedutot
-das vfopfern Christi am Crüg, einist besthickenn,
-Also hand ouch die linnli, So all tag vfgropfrot
-„ ouch„
-gind worden, Exodi. xijo. Numeri. xxviii. „beon¬
-tot das taglich vtopfoon, So In der wasß beschicht,
-Oann ein Jeckliche figur die gesayes, etwas Iten
-mijwen testament bevnt het, Co. Daulus spricht,
-ad Hebreos. po. Das gesag het den Thatten von
-den zukunftigen dingen 18
-Martinus buijer,
-20
-Als der Othulmeister, die Hebreer gezigen hat, Oi
-vijen Een glauben noch uijbel bericht gewesen, Eijt
-Er fuen vnrecht, der Zugnis Dauli nach am. x.
-Bedenckend aber an die vordrigen tag, In welchen
-It erluchtet u, biss zu end des capittels, zum an¬
-dren, das Er meindt, Paulus habe min die Opfer
+sen
+ke
+Du
+see
+Arm
+and
+heumlkeiten
+rt
+Die funfer Schuis red /
+ewikrit einopfer hab, dauon hiit vnd gester vil ge//
+fagt Jst, Darumb wir min ein Christus Jst, vnnd
+ein ewiger priester, also Jst ein ewtgs pristerthum,
+vnd ein ewigs epfer des nuͤwen gestaments, Chri /
+stus Jst der priester vnd das opfer, Ein mal hat Er
+Sich gaͤlbs Staͤrblich vfgeopfrot, Abertaͤglich wirdt
+Er geopfret In den hrilckretem zu oiner gedichtnig
+sines Sterbens vnd wie sin Sterben,/ ein eige
+erlosung ist, alsi Ist s ewige opfer nitt mer am ein
+rutz aber grich der ordnung sMelchisedich vnder
+dar estal e Brots vnd wurwe, In Suma, wie das des 1
+lib In dem durchganch der Juden, aͤben ein mal
+In tn vfgeopfrot/ Erodi wvuiij hit bedutit
+Das vfopfern Christi nu Crucz aunst beschachenn,
+Deso hand ouch der lambi / So alltagt ofgropfrit
+och
+eind worden, Eredi xiiͦ. Numaeni xxvuji llein¬
+tot das taͤhlich vfupfern / So In der naͤss beschicht
+Dann ein Jetkliche Ergur die gesetes / etwas Jmn
+nuwen Jestament bedit het, So Dulus spricht
+ad Ralreos ° Das gesitz hat den Schetten von
+dan zubinft igendingen /i
+Martig luczer¬
+26
+ie dir Schilmristet die Habnar gezegen get, So
+Oen Jrn glauben noch ubel bericht gruͦrusen, Lut
+ErInen vnpecht, der zuguis Sauli nach ami p.
+Deedruckend ader andis vorde gen tag In welchen
+Ir orluchtet .. liß zu vnd des wittals, Zum an¬
+dren, das Er meindt, Daulut habe min dir opfer

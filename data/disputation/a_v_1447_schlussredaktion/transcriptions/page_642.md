@@ -1,32 +1,31 @@
 # Seite 642
 
-C
-200
-272
-Die vj. Chlussred.
-Mon, bijten den herren fur das volck, wurden Si nitt
-erhört, Dann dife zwo Greaturen, die moyenn
-Comlichs meiner mer begriftich gul 1
-Meister Vlrich Zwingli,
-Hans wachter
-Nieber herr, was wend Ir vss disem Opruch Oblijs:
-sen, Esaijas. Exiio. zu gott Opricht, So thow
-min vom hunel harab, vnd luijt von duier gedligen
-wonung, vnd herlekt, wo Ist din ijfer vnd
-macht, die mange diuer herlikeit, vand dui er¬
-barmung, die dich ruch gegen mir erzoigt hat,
-Ou bist doch unser vatter, vnd Abraham weist
-uijt van vns, und ffrrchel het vns nitt erkendt,
-Egidius muwer
-Das wellen Ir darus Schliessen, Das uns, vn¬
-ser vatter Abraham nitt bekendt hat, vnd Isra:
-hel, das Ist zu verstan, von der person, vnd obs
-glich also ware, das wir ouch mogen zu gabenij
-das die alten vatter, nitt alle ding haben gewust
-von vns mentsthen vff ertrich, In der vorhell,
-vil mer doch, mogen Di es wussen Im Hamel 1
-Dann wie Johannes Schribt Am. heiligen Fuan¬
-gelio, dan Ist das ewig laben, das ende dich eini¬
-gen gott erkennen, oo Oi min gott en kennen
-Im huwel. wie wolten Oi nitt, ettliche andre
-denig erkennen In Christo /
+2
+232
+Die ij Cthlussnd
+Mar Crnden hupen firedes val murden Sy nict
+erhoͤrt, Dann dise zno Creatnren, die motem
+Soͤmlichs niemeramer begriflich sin,
+Mriftn anchzuriglit
+Dtans waͤchter
+iber herr was wend Jr vsß disem Spruch Schluß
+sen, Esias / Exinj. zu gott Spricht, So Schau
+nun vm hiuil harad / end lug von dener halligen
+wonung, vnd herlckeit / wo Jst din yfer vnd
+macht, Die mange diner hetlikrit vnd dan er¬
+barmung, die Sich ruch gegen mir erzoͤigt hat,/
+Du bist doch vnser vrtter, vnd Abrchan nrist
+mit von vns, vnd tsrachel het vns nitt erkendt,
+gidrne nuar/
+Dar wellen Er dirug Schrieffon,/ Das vng vnn
+for vatter Abrcham nitt bekendt het, vnd Esra //
+hel, das Ist zu vorstan, von der person, vnd obs
+lich also warl, das wir ouch niegen zuigabenn
+das die alten vaͤtter, autt alle dang haben gewuͤst
+von vns mentschen vff ertrich, Jnder vorhell¬
+vil mer doch, mogen di es wuͤssen Jm himel,
+Dann wie Johannes Schribt Ji heiligen Euaͤn¬
+gelio, das Jst das eing laͤben, das Sy dich eini/
+grn gott irkrmnen, S. Se mn gott erkennen
+Inz humal / wir walten Si nitt ettliche andre
+Duig erkennen In Christo/

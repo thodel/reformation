@@ -1,29 +1,29 @@
 # Seite 437
 
-Inn Den worten des nachtmals Ich mich
-Inn Den kampff mit heben wirt, mitt
-was formum vnd gestallet, der lijb vns werde
-mittheillt, vff die sichbarlich oder groote wysen
-Wie ein hand In dem hensthen sin mag
-allein das die vert bliben nemend vnnd essende
-das ist cum lijb Das ef vns luter wextenn,
-mit getheillt werde
-Lovingh
-So vnnser bruder anzoigt: Wenn wir nit
-mer glaubind weder vns furgeleit wirt, Im
-nachtmall, so sich es nit genug lassen wir nach,
-So verx er meint, das man rechten waren
-glauben musse zu dem nachtmall bringen
-Welcher glouet verwist sie, vff Christum Jesum
-So verr er aber mitt der Duncklen ree ver¬
-Jan weller, man mijsse ouch glouwen. Das das
-fleijten vnnd blut Christi, Cveserlich da werop oder
-wesen lich, leblich geessen wurd, liessende wie¬
-Dann is wurde vns mitt
-int nach
-Der verborgnen nod ein oug verklept Das
-er aber sollichs, bewaren, fur vnnd fur har Junij
-zucht Die wort, Das ist min lichnam
-So that so
-von Denen aber der span ist
-nutzit anders, gnam quod petit principium
+Im Den epiam de mchns Jchnd
+Inn Den kam pff nit geben wirt / mitt
+was farun vnd gestallt der lyb vns werde
+mittheillt vff die sichbarlich oder graobe vnn
+wiesein hand In dem hen schen sin mag
+allein das die wort vliben nemend vnnd essend
+Das ist min lyb Das es vns luter wortenn /
+mit getheilt werde //
+Ewingli
+ovunser brider anteiygt , wemn arto it
+mer gloubid / weder vns fuͤrgeleit wiet / In
+nachtmmll / so sig es nit guug lassen wir mas//
+So verr er meint / das man rechten waren
+glouben muͤsse / zuͦ dem nachtmall brugen
+welcher gloubt vertr̈st sye / vff Christum Jesim
+So verr er aber mit der Duncklen red ver/
+tan wellte / man misse ouch glouben / Das das
+fleisch vnnd bluͦt Christi weserlich da were / oder
+wesenlich / lyblich geessen wurd / liessends wi/
+Dann es wurd vns niet
+nit nach
+Der verborgnen red ein oug verkleipt / das
+eraber sͤllichs / bewaͤren / fur vnnd fyͤr hartin/
+zucht Die wort Das ist min lichnam //
+So thuͦt er
+von denen aber der spin ist
+nuͤtzit adens grern geos gelt gneigmnen

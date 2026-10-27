@@ -1,34 +1,33 @@
 # Seite 549
 
-Sounder van den lesten zijten, Soll her pfarre
-wijssen, Das die lesten zijt Christo vnd sinen op
-selen / alle die zijt heissst, die von der zijn Obgristi
-ist, bissz zu euwe der wele
-Dir
-all mechtigkeit pottes erkennen wir woll, Das
-Dero alle dins moglich sind, es soll aber dabeyer,
-wegen werden. Das eben die selb almechtigkeitt
-mitt jr krafft das van macht, Das mit recht
-uerstantner & schrifft, oder gottes wort Inen ent¬
-gegen stat, Als auch das das sy vermeinen
-allein mitt der almechrigkeit zebestgirmen, Dan
+onnder von den listen zyten / Doll er pfint
+wuͤssen Das die lesten zet Christo vnd sinsen p
+stlen / elle die zyt heisset / die von der zyt Christi
+ist bisß zuͦ end der weld /
+Die
+allmechnigkeit gottes erkennen wir wall Das
+Dero alle dung moglich sind / es sill aber dasy er //
+ween werden / Das aben Die seb almechtigkeit
+mitt Ir Erafft das var macht / das mit rechi
+verstanener gschrifft / oder gottes wort Inen ent //
+gegen Jet Doo ouch das das sy vermen
+allsin mitt der almechnigkeit zebeschermen / Dan
 vnd
-gott Im selvs int widerwertig ist
-wie er geredt hatt, Ich wird fuchin nu me
-gls.
-In der Ovele sin Johannis xvii ca¬
-ist er ouch mechtig, Das niemand Inn lijblich
-In die weld zwingen mag wider sin wort / Er
-ist ouch so war das er sich vles int velscht
-pfarrer von Appentzell
-.
-Also referier ich mich ad acta, wie ichs dar
-gethan. vnd will also hiermit besten lossen haben
-mit minen darthanen gschrifft, vnd wo ick nit
-glichförmig ware ysin dem wort pottes, will
-ick mich albweg gemeiner Christen lichger kirchenn
-vnderwerffen, mich Zuberichten, lassen, nach Irem
-Item van der verwand
-voorss. vallen.
-ling des brots ist woll zu vermercken In dem
+gott Im selbs nit widerwertig ist
+Wie er geredt hatt Ich wird fullein mine
+Also
+In der weld sin / Johanns xvij ca/
+ist er ouch meche Das niem and Inn leblich
+In die weld Zwingen mag wider sin wort / Ec
+st ouch so war das er sich stlbs mie velscht /
+pfarror von Appenell /
+Also refrier ich mch ad ail wie ichs der //
+gechin vnd wil also hiennt beschlassen haben//
+mit miner darthuen gschrifft vnd wo ich nit
+gachfornig waͤre gsin dem wert gotls wil
+in un eieer rsener lichem
+vnderwerften / mich zeberichten / lissen nach Iren
+tem von der verwand //
+gevallenn/
+e ns is w den
 4

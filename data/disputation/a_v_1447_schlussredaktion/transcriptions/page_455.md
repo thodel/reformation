@@ -1,35 +1,33 @@
 # Seite 455
 
-# zu allen
-zijn
-widerwertigkeit zufugt, vnnd vns Imselben hoch,
-schetzenn, Das ist erkennen, das wir die
-Edlen kinder pottes siennd zijn Romern am vra
-Die Dancksaginnen aber von Dero man hie redt¬
-ist mit allein die da ein Jegklicher Christ by Im
-selbs, port lobt, vnnd Danck seitt vmb. Den tod
-zines sinns somders Das die Christen In der
-gemein Zusamen komend vnnd das sy heimlich
-Im hertzen tragen, offenlich gegen den amdern
-glidern, Inn dem nachtmael bezugen
-pfarrex you santg¬
-„ un
+aze vler
+zyt
+Erderwtangkut zuͦfig / vnd vis Insclenhes
+schetzenn / Das ist erkennen / Das wir die
+Edlen kinder gottes siennd zun Roͤmern am vy
+die Dancksagung aber von dero man hie redt
+ist nit allein die da ein Jegklicher Christ by Im
+selbs / go lob vnnd danck seitt vmb Den tod /
+ines suns sonnders das die Christen Jnder
+gemeind / zuͦsamen komend / vnnd das sy hemen/
+Im hertzen tragen / offenlich gegen den anndern
+glidern Inn dem nachtmall bezigen /
+pfatrer von sant /
 ver
-Off Dis antwurt, agerster Vlrichs Des
-lambs vunder moyse vnd so bedut wirt mij
-pinns Im trop nieren thestament In Christo
-verlengung Ze verhuten, beuelchets wir den
-actis vnd Christen lichem läser, Das wir aber
-ein wortt habine Das Inn viserlicher messing
-vns
-Das versichre, wie dann gegannis am vi capi
-stat vorangezogen, geben wir solliche antwurt so
-vnnd Inn Den ovorten des nachtmalls statt
-Welcher fur vch geben wirtt vnnd welches blut
-fur vth vergossen wirtt, In sollichen sinen worten
-verstan wir, die verheissung sin, allso mitt den
-worten, Christi vnd mit dem viserlichen erwacht
-vnd wirt, so es Im geist vnnd glauben genossen
-rschtsz
-Wixtt den trost der Seelenn, von der In leetung
-Johannes, am vande cap: klechten ist int mitz, wellen
+f an eister vlrichs des ung
+bambs vnnder Moyse vnnd so bedut wirt nit
+vnns Im xuwen thestament In Christ/
+verlengrung zeverhuten / bevelchens wir den/
+acbs / vnd Clristenlichem laͤser Das wir alen
+ein wortt habind das Inn vsserlicher messing vn
+Da versichre wie dann Johzannis am vj ͦ cas
+tat voranglsogen geben wir soͤlliche anwurt so
+vnnd Jnn den worten des nachtmalls statt/
+welcher fuͤr uch geben wirt / vnnd werches ben
+fuͤr uͤch vergossen wirtt In sollichen sinen weren
+verstan wir die verheissung sin / allso mitt den
+worten / Christi vnd mit dem vsserlichen erwrach
+vnd wirt / so es Im geist vnnd glouben genossen/
+rechten
+wirtt / der trost der Seelenn / von der In len
+Johannis / am vj cap: fleisch ist nit mutzswen

@@ -1,35 +1,34 @@
 # Seite 589
 
-29
-Die funste Schlussred
-des alten gesag, wellen vnkreftig anzeigen, vnnd
-werde mitt dem 16o fr andre opfer verwirft, om mass¬
-opfern nitt ouch verworffen, So welke Er merckenn
-vff disen Vilogismum, Christus het mitt einem
-Opfer, die geheiligten, das IJ erwolten gottes, In
-gewikeit vollendet, disk sind die wort des Apostols,
-ende inde 61 min vollendet, das Ist vogemacht, 60
-wirdt alles anders opferen, mussten vergaben om
-Und so man meindt, als die Massz opferer für:
-gaben, Es helfte den Christen, So muss Je clarlich
-volgen, das Es Christus opfer nitt volbendet hab,
-Also Ist is ouch mitt dem gnug tun, wir wer¬
-fhustig anzoigt Ist, Carumb durchdisz oot Pauli,
-ables opfern, vnd deshalb ouch das Maskopfer ver¬
-worsten Ist, Das Er aber vsz. Colchem, vns In¬
-gefurt het, Habe Christus fur vns ging gethan,
-So volge, das wir uijt dorften tun, Ist bij der dritten
-Othlussred, gnugsam verandtwurt, witter het fr
-anzoigt, wir mussen ein ewigen opfrer, vnd opfer ha¬
-ben, So Oije Christus min em mal gestorben, dar¬
-umb werde derselb tod, nitt des ewig opfer zin, Om:
-der man musse taglich In der Missz. erst opfernn,
-Oaruf gaben wir die andtwuet, vnser opfer, das
-„vt.”
-Ist der tod Christi Jesu, Ist wol muij „ ein mal am
-Crücz verbracht worden, So gilt aber vor gott, fur
-vnd fuij, biss das alle sijnd der erwelten werden ab¬
-gethan, vnd Christus das rich dem vatter wergaben,
-das Es Ieg de henis mittens bedorffs, O unders gott
-gijt alles fu allen, daruon Paulus Thribt am. xv.
-zu den Cornithern, der ersten fpistel, vnd wirdt
+y
+Die fuͤnfer Schluͤssred /
+des alten / grsatzas, wellen vnkreftig amzeigen, vnd
+worde mitt dem,/ So Er ander opfer verwirft, Sin miss
+opfern nitt ouch verworften, So welle Er merckenn
+vff disen Silegsinum, Christus het mitt einem
+opfer, die geheiligeten das Jst orwolten gottes, In
+einkrit vollendet / diss ud die wort dio Supostels/
+Sind Si min vollendot, das Jst urgemacht, So
+wirdt alles anderh opferen, muͤssen vergaͤben ein
+vnd so man mn nndt, Als die Naͤsß opferer fun
+gaͤben, Eo helfft den Christen / So muͤß Je liclich
+vilgen, das Es Christug opfer nitt villandet hab,/
+Also Jst Es ouch mitt dem gmg tun, wie uͤber¬
+fussig mzugt Jst,/ Darumb durchdiß det tndi¬
+Elis opfard, vnd dishalb ouch das Massopfer ver¬
+wopffen Jst, Das hraber vsß Solchem, vns Jn/
+gefurt het, habe Christus fur vns gmig gethen,
+So viegr, das wit nit doͤrsten tin, Ist lyder dritten
+Schluͤsßrid, gungsam vrandtwurt / witterhet er
+maigt wir nusin ein einigen opfeir, end apfer ha//
+den, So Sye Christus min ein miab gestotben, dar¬
+uub werdd Serselb tod, nitt das ewigopfer ein, Sim¬
+der min msse taglich Juder Mass erst opfrenn
+Daruf gaeͤben wir die andtwurt / vnser opfer, das
+Ist dae tid Christi tfu,/ Jst nal n mal am 1uvff
+Crucz verbracht norden, bs gilt aler vor gottzfur
+vnd fuͤr, liss das ar aund die ewilten werden ab
+gachen, vnd Christus das rich dem vatter uber gaͤben,
+die Es Jeg dehains mitkens bedorffe, Sundere get
+sye alles Eu allen, daruon Pmlus Schribt am x
+zu den Corinthern, der ersten Epistel / vnd wirdt

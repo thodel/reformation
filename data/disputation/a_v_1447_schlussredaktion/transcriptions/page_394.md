@@ -1,36 +1,35 @@
 # Seite 394
 
-werk
-per
-Fol. Crrædents
-acramt.
-Die viere sthlußerge
-165
-Pfarrer von Santg:
-Off amitwint mins hern doctors wer die
-wert, egathei, vnd pauli behert, er sollichs Im
-vi cap: anzogt recht verstanden werden, des
-pents vnnd puncts byn ick ouch wie voor ange¬
-Zoigt ist. Das wer min her Doctor, keen ander
-& schrifft wer die wortt des nachtmalls fur¬
-bringt Dieselbigen zu verduncklen faempt
-much int ovenig Das er sycken in last zu der
-erklärung des worts Sacramentum ist mengk¬
-lichem der ystchrifft geubt, offenbar, Das wir
-kein pott, Das des herren wort des nachtmals
-fur ein Sacrament (wiesen es hallen) benampfen
-sollenn, sollichs ist vns ouch freij zu nampfen, alls
-sein thestament Christi des herren abendmael vnd
-Der gleichen, vff die Infierung vom touff hatt
-derselbigen lutt vnnd verheissung gotes sin vstrincklich
-in setzung. Herwiderumb das nachtmall des
-hern, mitt halen, starcken v/ geruckten wortenn
-Wisweel ick mich vmb Das wortt Sacrament
-mit In lassen wirt vermocht Im woll dargegen
-werffen. Das wortt geheim mij oder das wort
-Welches
-nu sterin. Das wort Sacramentum
-Da ist Christus zum Collocensern am 1 cap: min
-her Doctor Vleefallengklicgh bassz weijss den vnder¬
-scheid der Sacramenten in uuwen vnnd allten
-thestament, welches Im allen thestament
+wer
+ird
+ararden
+De vierd schlusßtred
+15
+Pfarrer von dantg
+Aff anntwurt mins hern doctors uͤber die
+wort / Mathei / vnd pauli / begert / er soͤllichs Im
+vjͦ cap: anzagt recht verstanden werden / des
+geists vnnd gnuͤts byn ich ouch wie vor anger //
+zeigt ist / Das aber min her dorlorskom ander
+gschrifft vber die wortt des nacht malle fur //
+bringt Dieschigen zu verdunklen framt
+mich nit weng / Das er sych inlast zuͦ der
+erkliug des worts aranene ist mengl
+lichem der gschrifft geubt / offenbar / Das wir
+Kin poet / Das des herren wort des nachtats
+f een
+soͤllenn / sollichs ist vns ouch Er y zuͦ nampsen / albs
+ein thestament / Christi des herren abeidimall vnd
+Der glichen / vff die Infuͤrung vom tonff hatt/
+dersclais lie vnd vn ge en getes sin vstrntlig
+insetzun Herwiderumb das nachtill des
+hern / mitt haͤlen / starcken vßgennckten wortenn /
+weiewall ich mich vmb das woret Sacrametit
+nit Inlassen wirt vermoͤcht Im wol dargegen /
+werften / Das wortt gegemnig oder das wort
+welches
+misterar / Das wort satramenti/
+da ist Christis zun Bodreisern am / cap: mn
+her dectee vrtfallnhlich basß weyß den vnder //
+scheid der Saramemen gm nuwen vnnd allten
+hestament / welches Im allten thestament /

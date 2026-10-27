@@ -1,41 +1,38 @@
 # Seite 534
 
-Diete
-nahme
-in Dm
-des
-sche thien
-theophy
-durch
-enster vlij
-222,
-Die 4. stußwe
-off Das erst Sagen wir vnsers her Ist da brenn¬
-Darbarlick vnd wer naturlich gepercist wer doch
-ein varer monsten Der einen menschlichen lijb
-yehept hatt vnd noch Der nach art menschlicher
-natijr nur an einem ext zum all sin mag Damitt
-brechen wir der almechigkeit gottes midt ab got
-mach alle eing, handlet aber nach dem erf durch
-sin egen wort anzoigt, darumb so er sagt das
-Vnser her ein warer meusten sie, so bewysst er
-smen gevallt an Im, das er ein sollicher bleibe
-Des andern arrigkells halb sind wir so vill eins
-Das wir mit Inen bekennen, Das Christus der
-monstheit nach zu der gerechten des vatters
-erhocher ist
-das sy aber wyter Jufuren die
-1
-gerechte potes sye allenthale darumb moge die
-monsthet Christi, ouch allen habben oder glich
-Jan vill orten zu mall sin, Darmus sagen wir
-Das selches gar midt weget, vnser her Jesus
-Der Maistheit nach Ist erhocht zur gerechten
-gottes, Das ist im ist der groß gevoelt
-geben, sond ist erhocht wer alle Greaturen
-Das er aber Alles wie er selbs bekennet, Der
-monstreit nach Das er int Eerst oveniger ein
-vande monsten beliben ist, Darumb wis woll
-vande Eer gewaet gottes
-Die herlekent
-29
+Die
+enne
+d
+h
+ed
+ch
+as
+22
+Dit oligred
+e Des ert Dien are vistieher Is ilam /
+Darbirlich vnd vbermomrlich gepern / Aber dor/
+ein warer moͤnsch Der einen moͤnchlichen lyb
+gebept hatt vnd noch der nach art moͤnschlicher
+natr nur an einem ort zuͦmall sin mag / Damntt
+brechen wir der almschngkeit gottes nuͤdt ab / got
+mag alle dung hridlet aber nach dem ers dirh
+sin agen wort anzeigt / Darmmb so er sagt das
+vnserher ein woirer moͤnsch sye / so lbewyßt er
+inen gwallt an Im / das er ein soͤllicher blibe /
+des andern artigkells halb / sind wor so vil eins
+das wir mit Inen gekeinen / Das Christus der
+moͤnscheit nach zuͦ der gerechten des vatters
+erhochet ist //
+das syaber wyter Jnfuͦren die
+gerchie gotts sye allichr / Darmo unge die
+moͤnschet Christi / ouch allenthallen oder glich
+an vil orten / zu mall sin / daru o sagen wir
+Das solches gar nidt volget nser her Jerus
+Der Manschet nach Ist erhoͤcht zuͦr gerechten//
+gottes / Das ist Im ist der grost gwallt
+geben / vnd ist erkoicht uberalle Creaturen /
+Das er aber Alles wie er sells bebennet / der
+monschet nch / das er nit dest wenger ein
+warer amonsch beaben ist / Darmmbwiewell
+vnnd der gewaltt gottes
+Die herligkent /

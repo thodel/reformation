@@ -1,29 +1,29 @@
 # Seite 373
 
-an zoigt ist. Vannenchen, das das geisteilen essenn
-das macht vnns Inn pott wanndlen vnnd das
-lyblich essen mitt
-Vss welchem aber bewert
-ist. Das brott vnnd essen Inn Desem van cap:
-gentzluch nitt genomen wirtt fur em vsser oder
-samamentlch brott noch fuer das liblich essen,
-Des lichnams vnnd bluts Christi¬
+onzib ist anetten die die gestc asten
+Das macht vnns Inn gott wanndlen / vnnd das
+lyblich essen nitt
+Dosß welchem aber bewert
+ist Dasoron vnd essen / Inn Disem vj ͦ cap:
+genzlich nitt genomen wrtt / fuͤr ein vsser der
+sarramentlich brott noch fuͤr das lillich essen /
+des lichnans vnnd bluͦte Christi /
 Dem
-nach, allss her pfarrer anzacht, vß staende hie
-Diss. worte dato Das ist, Ich wirtt gebenn
-Das sie eins vergessens wertt gestan wir gern
-Es verheißt aber mittit anders weder Das
-Christus sin Monstheit (die ex per Alleosim ab
-in feriore parte Carnem nempt.) Das Christus
-so stin menscheit, vmb das hebenn der welld
-werde Inn tod gebenn, vnnd Inn summa so
-hoffen wix Jetzmall eigentlich bewartt sin Das
-hie Inn dem anzogtem spruch, vnnd das
-schott aber, Das ich hebben ende dhein Sacrament
-lich bret verheissen wirtt, ouch Das fleissen
-Christi mitt lyblich zeessen, sonder wesenlich¬
-vnnd lyblichen zu vnnserm labenn getödt werden
-verheissen wirtt etc. 16
-Pfarrer von Santgallen
-In lannge erklaring von Her Meister
-Vlrich Ingefurt so Ich zum theill Christenlich
+e
+Disß woͤrtl aoto / Das ist / Ich wirt gebenn //
+Das sie eine vergessen wartt gestan wr gern
+Es verheist aber mittit anders weder das
+Paristis sin Nionscheildie er jot lessn ab
+irfenorr zacte lapnem nempt) Das Christi
+osin moͤnscheit vmb das bebenn der welld
+werde Inn tod gebenn / vnnd Inn suno so ///
+hoffen wir Jetzmall eigentlich bewartt sin das
+hie Inn dem anzrigtem spruch / vnnd dis
+bott aber / Das ich geben / n. Dhein satrament
+lich orbt verheissen wirtt / ouch das flnisch
+Christ nitt llich zerssen / sonnder wesenlich
+vnnd lyblichen zuͦ vnnserm laͤbenn getodt werden
+verhassen wirtt E..16
+farerevon Dartgalten /
+sut Cange erllaunng von ir Master
+vͤlrich Ineefuͤtt so Ica zum theill Christetlch

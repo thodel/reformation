@@ -1,51 +1,45 @@
 # Seite 686
 
-septembre
-mit feuer
-etlicher
-Monsieur
-F.TrubyKing
-nen, daß
-dans le
-noch etc.
-en, dans
-der lay
-Dalabert
-of dor liebe
-lichen besten
-teffen,
-in wiffen
-4554
+en
+write
+a
+vd
+fid
+desen
+hacen
+leden
+chrn
+rn
+Imn willen
+1h
 292
-Die vii. Chlussredi
-Colich todten dienst, furderlicher diensten, dann dem
-armen, wurde Er es bald vnderlassen, Ob Ichen
-zacken fiderlium gesprochen wurden, Es wirdt nott
-gin, das Ir zum ersten probieren, dat ein fagfur sije,
-vnd So dasselb besthicht, so wellen wir dann be¬
-sachen, wie den Oelen darus zu helften sije,
-Johannes bijchstab
-24
-Das die Richen vss frem gijt, met thuijgen dann
-H
-die nomen, vnd der com, darzu gibt, To
-Er Colichs vermochte, welte hy es ouch thun, 28
-Ossz wir ein bij spil mogen namen, vss: dem Enau¬
-gelio, Marci. xijo. Co Christus Cach vie Richen
-die vil legten In den gelt Stock, Ist ouch ein arme
-Wittfrouw komen, hat Ingelegt zwoij Ortli, das
-hat gott, bas gevallen, dann dero, die vsz. vberflijs¬
-sikeit ingelegt haben, Das Ich soll probieren,
-das een fagfur zije, hoff Ich gethan haben, hab aber
-noch de hem heittere schrift gehort, dan Adlichs nitt
-zijn, vnd Oomlichs witter zubestaeten, Nun Ich für
-mich die wort Christi, Mathei. v. To der herr
-Opricht, vertrag dich mitt dinem vijene bild, die wil
-Du noch vff dem wagt bist, damitt dich nitt din
-widersacher geb dem richter, vnd der Richter sinen
-dienern, und legte dich In den kercker, furwar sag
-Ich dir, das du nitt wurdest harus gan, So lang
-bisz du bezalest den minsten quadranten, Ourch disen
-kerker, muss hie verstanden werden, ein mittle
-vfenthaltuug, zwusthen himel vnd hebb, das Ist
-adresse
+Die vij Schlissrd/
+Solch todten darnst, furderlicher drnoten, dande
+aenen wuͦde Er ig lild vndeclaͤsten, de Schan
+zathen fideluum gesprochen wurden, Et wudt nott
+ein das Jr zum ersten probieren, das ein fagfur zyr,
+vnd S. dassill leschicht, So mellen wir dann br¬
+sachen, wieden dolen darus zuhelffeneze,
+stohanns buchstib¬
+26
+ie die klichen vsß tram guit / mar thugendum
+die Armen, vnd der Arm Ei darzu gebt, So 4
+Er Solichs vormochtr, walte Er esouch thun,
+Diss wir ein el mgen rinan, vsß dem fum¬
+elis Marciap di. Do Christus bach dir lichen,
+die vil ligten In den gelt Stotl, Jst och ein armr
+wettfrem kunen, hat Jnglleft zwij drtli, das
+ger gott bab gomllin, dann dero, der vsß vberfaist
+fchrit kng ligt huben, Das Ich sl prabiren,
+das vn f f en eien/ hal bor
+nach dhein heitore Schrift gehoͤrt, die Solichs nitt
+spr vnd Somliche nitter zubestaten, Nin Ich tur
+mich die wort Christi, Mathei v So der herr
+Spricht, vertrag dich mitt dun em viend lild / diemil
+die noch vff dem wig bist, damitt dich nitt din
+widersacher geb dem richter, vnd der lichter sinen
+dienern, vnd lege dich Jn den kercher, fuͤrwar gact
+Ich dir, das du nitt wuͤrdest harus gan, So lang
+bist du bezalast den nunsten zundranten, Durch disen
+kerker, muͤß hie verstanden werden / ein mittle
+nfonthaltung, zwuschen himil vnd hell, das Ist

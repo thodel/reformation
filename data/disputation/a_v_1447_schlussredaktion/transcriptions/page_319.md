@@ -1,34 +1,33 @@
 # Seite 319
 
-91
-Die ander Schluskredi
-hoort, der hort mich u, ward mir verandtwort, mitt
-einer Imiechenden red, als ware das, allein den predi¬
-gern gesagt, Dieselbigen vslegung nam Ich nitt an¬
-wann mich beduuckt, Solle man die prediger horen
-So solle man noch als bittich, vnd bitticher, ouch die
-vorstanden gubernieren Schuldig bin zuhoren, So doch
-geschriben dat Ad hebreos xiien. sind gehorsam viern
-furgesichten is, zum anderen, ward mir andtwust
-gaben, vff den Opruch Mathei. xxiije. off dan stul¬
-Moijsi uij, das dasselbig gelt verstanden worden, von
-der beschwarnis des alten gesages, mein Ich, Er gelle
-ouch billich verstanden werden, van dem, das vsz der
-Othrift des alten oder mijnen Testaments genomen Ist
-Ob lb. Thon allem ein Quin hat, vnd nitt die gleicher
-wort, So doch der herr das gesagt het zu sinen Jun¬
-gern, Di Polten es hitten und tun, ward mij ouch
-gemacht Ein Silogismus, wie das ein Jerklicher, der
-da weder den Spruch tauli ad Thuno. iiii. vorbutter
-Opisen, die gott zü nieslen ersthaften hat, und fo¬
-lich zuwerden, derselbigen hätte die ler der tijffela¬
-Oft denselben met wurten Ich also, zu erklärung
-des, So gestern geredt Ist worden, wann man sprigt
-Ein Jettlicher der dasselb verbijct, hat die ler der tu¬
-flen, das gib Ich zu, In rechtem verstand, weliche
-dann In der meinung Omd, ferung Inzufuren, als
-dann Pant Paulus das anzougt, von den kamerijen
-die Oich In kunftiger zitt erheben wurden, Als da
-waren die Manicher, die da die Opisen verbotten
-meinten, Es ware ein teil gottes ettwann dirum,
-vnd derglichen, wie man daruon list u, welicher
+Die ander Scheushred,
+hert / der hort nuch ni ward anu verandtwurt /
+einer Jenzechenden ned Ale waͤre das, allein den vnd
+gern gesaͤgt, Eyselbig vslegnug nam Ich nitt am
+wann mich beducht, dolle man die prediger harren
+So solle man nochals billich, vnd billicher, ouch de
+vorstanden guͦbaruerer Schule /g bin zuhoͤren, Di dich
+gsthrben dt ad rckreas xij: Sind arbersim vum
+fuͤrgesiczten , zum andren, ward m andemt
+galen, vff den Stauch / nathri xxiij. vffdim Stis
+Moysi n, das dasselbig solt verstanden worden, von
+das beschwaͤrnie die alten gesaczs, moin Ich Er sili
+uch billich vorstanden wordin von dem das vsß dest
+Schrift die atri eder miren Cistamente gouamman ze
+Vo le Sthon alle ein dum get, vnd mtt der glcten
+nort Sodich dir gert dis gesigt hat zuͦ einen Jin
+eu i n vnd i n
+tmmacht Ein Siligifunis wie das ein rcllicher / ot //
+da wider den Scruch ttiuli ad Chimo, in vethin
+sn den gut sunsten reschiften get vnd
+lich zuwaerden / dasilkig gctr de lir die tufflat
+Uff danselen indt niten Ich ieso, zuecklarnng
+die So gestern geredt Jst worden, wann man sech
+ein Jetlicher der dassell verliit, het die lor der ti
+flon / dis zib Ich zu Jn rachtem veestand, waczer
+dann Jnder momung sind Eoenung Enzuͤfueen, on
+dann Sant Cauluͦt das anzoͤigt, vondeu kaͤtzerien
+die Sich In kunftiger zitt orhalm rden, aledi
+waren die Nanichen, doe da die Spisen verlotten /
+mainten, Eo waͤrr ni tril gettes ettwann die u,
+vnd derglichen, wir man darvon list n, welicher

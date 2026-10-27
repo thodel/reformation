@@ -1,30 +1,30 @@
 # Seite 198
 
-4
-40
-78
-Die erst Schlußwede
-=vend niemand
-lichem wort, so ick zogen wider mich
-bewaren vnnd empflich mich allso Den¬
-pöckchen worten So ick zogen hab, von der
-heilligen gschrifft „omn einenn Jegklichen christen
-lichen läser fur min person¬
-Svinghij
-G. H. hab. Das Bispell niet anzogen
-Das ick Daruff Das pock'ck wortt
-grunden weeet, somders dem einfaetigen
-durch woll erkandts, ding, wie onch dem
-heilligen paulo gevollt zum Rhömern am
-Cap: In leitung geben, Das getlich wortt
-dester haler Zeeerstan Demnach so erkent
-Der pfarrer tot den herren Jesum Christum
-smen behallter vnne aller wellet, onch ein
-hompt sin/ Dis sind alle wert des pfarrers
-Als sy hie verstand; Ende by lob ick den
-get. Der Da verheissen hat wenn
-man In pitte So well er erhoren Das
-er vff den huetigen tag erhort hat, die
-frommen Obhriften zu Berim, Die Inn Jenz der
-tagen, so offt, engstlich gepaten haben die
-Vinstern hertzen zeerluchten, Das der
+1
+11
+16
+Die eit Schasid
+ewocd meinand
+lichem wort asy ich zogen wider miht
+owiten vnnd empfrlich mich als de
+egegen d agen e vn der
+heillgen gschrifft / einenn Jogklichen chrisen /
+lichen laͤser fuͤr min person //
+winly
+AIh hab Die vitel / i angegen
+Das ich daruff Das gotlich wott
+gruͤnden welet. soders dem einfaltgen
+Durch woll erkandte / ding / wie ouch den
+heilligen paulo gevallt / zun Roͤmern am
+Cap: Inleitung geben / Das gotlich wortt /
+Deser hun gennei Dennach si en
+de pfa ge den herren umn Phistn
+inen behallter vnnd aller wellt / ouch ein
+houpt sin / Dis sind alle wort des pfarrer /
+Als / sy hie vorstand / Hieby lob ich / den
+got / Der da verheissen hat Wenn
+man In pute / so wel er erhoͤren / Das
+er vff den huttigen tag erhoͤrt hat / die
+fromnen Christen zuͦ Bernn / Die Inn Jenz der
+tagen / so offt / engstlich gepaten haben die
+vnstern gertzen zeerluchten / Das der

@@ -1,33 +1,33 @@
 # Seite 379
 
-fleijtlichen verstand zeesseren ware baeld be¬
-schechenn. Wijter so min her meister vl¬
-rich vermeint, mitt dem wortt brott habe er
-glouben, vnnd vertruwen vermeint In Im lassen
-ichs hy den worten behoenn. Daer da lutter
+fristelicen verstand zesse want bred be //
+thechenn / yter so nin her meister ve //
+trich vermeint / mitt dem wortt brott / habe er
+glouben / vnnd vertruͤwen vermeint / In Im lasß
+ichs gy den worten belibenn / Die da luter
 Das ist das
-ohne thael anzoefend
-war brett, Das van hunell herab gestigen vnnd
-piet ladenn der wellt Das sollichs wortt
-mit sampt anndern, nachuolgend Christenkch Duocen
-Alß dan er nich anzucht den
-Jus usgeneit
-Spruch. Der da glouet In mich habe ewigs
-hebenn, kan ich keinen weg vernemen. Doch
-In solchem verstannd Das allem Dem so sin
-wort vermag in vertruwen ouch In hrenwingen
-reese
-Denne hallmingen sines willens sie
-mitt dem wortt glouben/ ein ergebung vnnssers
-hertzens zu allen smen werten ernendert, Dann
-woll von Christo
-petrus Agachei: xvi cap:
-hiellt. Da er sagt, Du bist Christus
-off sollichs Ins
-Der Sun Des lebendigen gottes,
-9a
-Den hen hoch lobte vnnd In salig hiess.
-Christus aber meldert, van sinem kunfftigen liden
-das er wurde fur vns erstattnen Den hern
-Dabwijsen wollt, huss er Ine ein Sachan oss
-welcher hatt glauben In Christum verfacht glon¬
+vnnd haill anzrigend /
+wnrunll war dond hunll heras rntige vn
+git libenn der welt / Das soͤlliche worat /
+misamg anndern / nachnolgend Cherstilch duch
+Allsdan er ouch anzuchtden
+Ine vsgeleit //
+Opruch Der da glubt In mich haleewige
+lebenn / kin ich keinen weg vereneinen / Doch
+In soͤlchem verstannd / Das allen dem so sin /
+wort vermag In vertruwen ouch In trenneingen
+Aeso
+vnnd haltungen stugs willens sie /
+mitt den woret gloiben / ein ergelung vnstis
+hertzens / zuͦ allen sinen worten errvrdert / Dam
+woll von Crist
+petrus Mathei: xvj ͦcap:
+hiellt Da er sigt / Du bist Christuis
+ofl solliche /in
+Der sun des lebendigen gottes
+2
+Der her hoch labte vnnd zrsalig beisß
+Christis aber meldet / von sinem kunfftigen liden /
+Das er wurde fuͤr vns erstrnuen Den hern
+abwisen wollt / huͤsß eo In ein Sachin vssß
+wllcher thatt glauben In Christum ver facht glon /

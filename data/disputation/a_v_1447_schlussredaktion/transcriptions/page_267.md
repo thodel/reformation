@@ -1,31 +1,30 @@
 # Seite 267
 
-.
-int warend gan Jern solem verschickt, van ettwas
-hermedels wegen, Das die kilch antraff het¬
-tens woll Inn der versammlung zu Antiechie
-di
-oßgericht, so pauclus se doch ein visserwelt
-was, vnnd sich ouch vermeint den
-Peyt pors han. Das man gekom int
-von Mensthen, sonder van ^  get empfangen
-heis mogen met sinem brueer zu Enthéchien
-Der kirchen vss. gericht han, vrsach gnug
-Das niemands miet soll machen
-is
-voorss. eignem gevallt, souders lassen langen
-Jan Den gevällt der Kilchen, oder Denen
-olcken Danzu verordnet, Ir hend min
-gnugsam wie Christus ein Ingelik houw
-sie In welches gnad ich mich empfolen
-vnd in was gestallt, Die Kilch ein fun¬
-geschrijr hompt heige der Ich mich vider¬
-wurfflijck machen, vnde blib bij dem gemeinen
-verstand kristenlicher Kilchen.
-Martinus bucer
-Die Verklerung Meister Jacobs wie er verstan¬
-will Das Christus der kirchen inselibet ist
-nemen wir dan das er aber wider harfur bringt
-Vetous sie ein vnderhoupt wer die kilch
-Darumb Das Im furnemlich, benoben sie
-die schafflin Christi zeweiden Ist vor gnugsam
+1
+nit wirend gin Jemfalen gstilult von attnn
+ganden vrcend De e kibn antraff he/
+tens woll Inn der versamlung zuͦ Antiochit
+vsgericht / so pamlus sy doch ein vsserwel der
+vas was vnnd sich ouch vermeint den
+geist gotes han vnd Das enangelion nit
+von Menschen / sonder von got empfangen /
+hets mogen mit sinem bruͦder zuͦ nchochen
+Der kilchen vßgericht han / vrsach gnig
+Das niemands nudt soll machen
+ist
+osß enen gwvlt / sonnders lassen langen //
+an den gwwallt der kilchen / oder denen
+oleren Dar zuͦ verondnot / Ir hend mn
+gnuͦgsm wie Chrisenb ein Ingelibt honer
+sie In wllches gniad ich much empfllen
+vnd in was gestallt die killch ein fuͤe//
+gesetze houppt heye / der Ich nuch vnder //
+wurfflch machen vnd blib by dem gemeinen
+verstand kristenlicher kilchen
+ar im buter
+ie Derflerung Mester Jatols wie er verstn
+wil das Christus der kilchen ingelibet ist
+neinen wir an das er aber / wider harfur brigt/
+petrus sie ein vnderhoupt uͤber die kilch
+Darumb das Im fuͤrnemlich / benoben sie
+drstbiffln Crihs zeweden Is vor gnuͦgsem

@@ -1,33 +1,31 @@
 # Seite 714
 
-11
-304
-Die minde Schlusfred,
-die heilig Ee, Ist keinem Land verbotten In der ge¬
-schrift, Qunders hury vnd vntustheit zu vermiden,
-allen stauden bottenn,
-Berchtoldus hatter
-ise Chlussered Ist Co. hutter vnd char In gottes wort
-das Si nitt vil und langer red bedarff, Allen Christen
-Ist zuwussen, das der felich Stand, van gott Inge¬
-seyt Ist, Benesis, 1o. vnd ii.o vnd daruen niemand vs. ge¬
-nomen wirdt, Oum die Christus Mathi xviije.
-vSzminpt, Namlich die da vntougenlich sind zij der
-fe, also von muter lib geboren, Ettlich von den Mant¬
-sthen versthuitten, Ettlich die Aich Salbs verschnitten
-haben, vmb des Rich gotts willen, So volgot von no.
-ten, das niemand die te verbotten mag werden
-Oann das wort kusten zin, vnd aue beladen, fas¬
-sot nitt Jederman, Ounder Denen Es gaben Ist
-Cannenhar ouch Paulus Opricht, prima ad Corin¬
-thios. vije. von den funckfrowen, hab Ich kein gebott
-des herren, waer wil dann ane fe zulaten gebie¬
-ten, Also ouch Paulus, 1a ad Thrinothoum. iij
-Is sol ein Bisthoft unstra-flich gun, Eins webs manns
-Der sinem eignen hus wel furstande, der gehorsame
-kinder habe, mitt aller redlikeit, Also ouch u Eitum
-1o. capite. Diewil dann die othrift, Relichen vande
-niemand verbijtt, niemand vsminpt, dann die Chri¬
-.
-Deutsches
-¬
+2
+zof
+ir minde Schlussed,
+ie helligt Ee, Jst keinem Stand vorbetten In der Jer
+schrift, Sunders uri vnd vnkuschett zu vernuͤden,
+allon Standen bottenn//
+Birchtidin hatler¬
+is Schluͤssnd Jst Si haita vnd bir In gutre vitt
+Das Si miet vil vnd linger red bedarft, Allen Christen
+Ist zuwussen, das der Erlich Stand von gett tnge ¬
+seit est, Denesis vndij d vnd daruon niemand vß gr¬
+nenen wirdt, Dann die Christus Mathei wiii¬
+vßnimpt, Namlich die da vntougenlich sind zu der
+Er, alss von muͤter lib geboren, Eetlich vonden Mant¬
+schen verschutten, Ectlich die Sich Salbs vorshuntten
+haben, vmb das duch gots willen, So volgot bon no/
+ten, das niemand die Eevorlotten mag werdenn
+Dann das wort kusch ein, vnd aie Er laben, tas
+sit nitt Jedefman Sunder denen Ey gaͤben Ist
+Dannen bar buch Paulus Spricht primna ad Corin/
+thaob vijͦ von den funckfriwen, hab ich kein gelott
+des herren, war wil dann ane Ee zulaͤben gebie¬
+ten, alsoouch daulus, j ad Chinotheum in
+Es sol ein Rischoff vnstriflich sin, Eins mbe mamnt
+der sinem eignen hue wol fuͤrstande, der gehersamr
+Binder habe, mitt aller redlikrit / Also ouch ad Citum
+1capite, Dramldun dit Schrift, Eelichen Stand
+niemand verbuͤtt, niemand vßniinpt, dinn dier Chri¬
+2

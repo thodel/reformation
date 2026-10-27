@@ -1,31 +1,31 @@
 # Seite 591
 
-2
-Die funfte Schlussred,
-Martinus buzer
-Alles was durch Christum vollendet Ist In ewikert,
-dem mag de hein mentsth, ein zusagthun, Christus
-hat mitt & niem toe, die geheiligoten In ewikeit voll
-Lendet, darumb mag de hein mentste, etwas mitt
-sinem opfern hinzu tun, darumb zo musz das miss:
-opfern vergabens gul. vnd so man vermeindt, den
-geheiligsten damitt etwas zij helften, fin verle¬
-strung des todes Christi,
-gidius muur
-Diewol Christus guijg gethan hat In ewiteit volkom¬
-menlich, wie Ingefurt Ist, durch Hern Motin buge
-Ist nittdest minder vns beuolcken von Christo, das wir
-vns teilhaftig machen, mitt dem taglichen op fer der
-Dancksigung, vnd der wider gedächtnis der Masß,
-nitt darumb, das wir Christo zin tiden minderen wel
-len, vunder dis began mitt widergachtens, des vor
-einost verbrachten Opfers, wil Ich beweren, mitt
-dem Opruch, vnd denen worten, die Christus het ge¬
-redt, das twee In meiner gedichtens, Dann Paulus
-Zij den Cornithern, hat vns vsgelegt die gedachtenis,
-dieselbig Etat in verkuntius des sterbens Christi
-Das Ist aber kundtlich, dann die fuangelisten clar
-anzoigen, wie da gije geendt worden, das Osterlam
-des alten gesagt, vnd Ingesagt das Osterlam der kilche
-en. Dann es was nott opricht des text, das das osteren
-lamb getodt wurde, Nun halt die Ahrift Juny, Exodi
+6
+Die funfe Schlusgred,
+Martinug bucer¬
+Allas was durch Christum vollendet Jst In erikit
+dem mag degen montsch ein zusagz thiin, Christus
+hat mitt sinem tod die geheiligeten In ewikeit vell
+kondet, darumb mag dehein montsch / etiras mitt
+smem opfern hinzui tun, darumb go muß dis mͤsß/
+opfern vergaͤbens sin, vnd so man vermeindt, den
+geheiligeten damitt otwas zuhelften, Ein verle¬
+strung des tades Christi/
+gidins murar¬
+iewl Christus gnuͤg gethrn hat In omkait vellem /
+menlich, wie Jugrfurt Jst, durch Hern, Sartin bucze
+Est netdestnuͤnder vns beuolchen von Christo, das wir
+vnetrilhaftig machen,/ mitt dens taglichen opfer der
+dancksigung vnd der wider gedaͤchtnis der Maͤss//
+niet darumb das wir Christo ein liden mindron wel¬
+lon, Sunder dis began mnitt widergaͤchtnie,/ des vor
+ainest vorbrachten Opfers, wil Ich bewaͤren, mitt
+dem Sprich vnd denen worten / der Cristus hat ge //
+rdr dae trund ri mier gedichtnis, Dann Pauliu
+zu den Corintheen, hat vns vsßgelogt die gedaͤchtins /
+Bufiellig Pratsen vrkuntnie die Steckins Christi,
+Das Ist aber kuͤndtlich, dann die huangelisten clib
+anzochen, vn da g : geendt worden das osteelu
+das adton gesit / vnd Jngesazt das Ssterlam der kilch
+en Dannae was wt prcht der tet dis das osti
+lamb getodt wird, Mun halt die Schrift Jun, Erodi

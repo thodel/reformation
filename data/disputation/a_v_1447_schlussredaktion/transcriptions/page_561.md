@@ -1,33 +1,33 @@
 # Seite 561
 
-flogen hert mogen hare komen Vber das hat
-In min lieber her vnnd bruder Meister Waich
-Lang Daruor vff eis Elsontatien ernordertt
-deß halben er sich der zijt halb int beklagen mag
-Darnack schendet er In sinem brieff, die christen
-biche disputation schilletet sy ketzenst. vnd schlecht
-mir vill. pichter fur vor welschen/ er mitt
-mir Disputieren wolle,
-Wille allso
-Das vrtheel der schrifft van der Christen
-lichen gemeind vff ander richter wenden wel
-ches doch der schrifft gantz wider
+flagen hen magen harkomen Deer das brn
+In min lieber her vnnd bruͦder Veister vͤbrich
+Lang daruor vff die Disputaton ervorderer
+Deßhalben er sich der zethab nit beklagen mag /
+Darnach schendet er In sinen brieff / die christen
+biche Disputanen / schilett sy ketzeisch vnd schlecht
+mir vill richter fuͤr vor wellichen er mitt
+mir disputieren welle:
+Will allso
+Das vhend der schrifft von der Christen
+lichen gmeind vff ander richter wenden / vel
+ches doch der schrifft gantz wider /
 wie In
-vergangnen tagen gnugsamlich, geboort worden ist.
-Darzu hatt er sebs vermals an rechter zu Baden
-disputiert. Jetz aber will er vns vnverwegent
-richter haben, Darumb er weder schrifft noch
-chempell der schrifft hatt Oder mij
-mit hie ist, vnnd ich gegen Im nichts handeln
-kan bezien ick mich offenlich vor deser ge
-mand potes Das sich vrputtig bin Dem
-ecken vnd mengklichem minen leer antwort
-zugeben, Overijsz sy, ouch mit getlicher voorss. hafft
-zu erhaltten, Wo mir ein fryer, sicherlichen
+vergangnen tagen gnuͦgsamlich / geloͤrt worden ist //
+Jarzuͦ hatt er selbs vormals / an richter zuͦ Baden
+Disputiert Jez aber wil er vns vnverwegent
+richter haben / Darumb er weder schrifft / nach
+xempelt der schrifft hatt So er nun
+nit hie ist / vnnd ich gegen Im nichts handen
+kan bezug ich mich offenlich vor diser ge//
+meind gotes / Das ich vrpuͤttig bin dem
+ecken vnd mengklichem miner leer antwurt
+zuͦgeben / weyß sy / ouch mit goͤtlicher gschrifft
+zuͦ erhallten / Wo mir ein fryer / sicherlichen
 verhoff allso es
-platz bestimpt wirt
-werden all fromm verstendig Christen erkennen
-Das Die sach an mir int erwunden hat
-sonder Das ich mer dan ick stemlde gewasten
-wäre gethan hab
-1-28/
+plat bestimpt wirt
+reden ad fannn verstenig Christen ekene
+Das Die sach an nuͤr nit erwunden hat
+onder Das ich mer dan ich schuldig gewasen
+waͤre gethan hab/
+s

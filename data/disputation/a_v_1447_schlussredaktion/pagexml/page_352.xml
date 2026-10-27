@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
     <Metadata>
-        <Creator>prov=READ-COOP:name=TrHtr:version=2.41.0:model_id=51170:date=09_03_2026_17:24</Creator>
-        <Created>2026-01-27T10:34:14.456+01:00</Created>
-        <LastChange>2026-03-09T17:24:04.843+01:00</LastChange>
-        <TranskribusMetadata docId="13922579" pageId="112790279" pageNr="352" status="IN_PROGRESS" userId="537" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=INJNGHASEEFRLGGGWNNIKLWB" imageId="95349356"/>
+        <Creator>agentic_historian ruemlang</Creator>
+        <Created>2026-10-26T14:16:50Z</Created>
+        <LastChange>2026-10-26T15:17:24.088+01:00</LastChange>
+        <Comments>{"arbiter": null, "geometry_from": "D", "models": {"A": null, "B": null, "C": null, "D": "kraken-bern-schlussredaktion-v1"}, "models_present": ["D"], "pipeline": "agentic_historian ruemlang", "print_passage_score": null, "summary": {"empty": 1, "single": 1}}</Comments>
     </Metadata>
-    <Page imageFilename="112790279.jpg" imageWidth="2479" imageHeight="3508"/>
+    <Page imageFilename="Get" imageWidth="2479" imageHeight="3508">
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="1460,804 1788,804 1788,910 1460,910"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;} atr {basis:single-D; conf:0.50;}">
+                <Coords points="1466,810 1603,810 1603,878 1466,878"/>
+                <Baseline points="1562,877 1568,822"/>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_tl_2" custom="readingOrder {index:1;} atr {basis:empty; conf:0.00;}">
+                <Coords points="1749,840 1782,840 1782,904 1749,904"/>
+                <Baseline points="1755,875 1780,871"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>
