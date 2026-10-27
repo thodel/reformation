@@ -30,7 +30,11 @@ def run(*args, tmp=None):
 @pytest.fixture(scope="module")
 def hertwig_bundles(tmp_path_factory):
     tmp = tmp_path_factory.mktemp("support")
-    result = run("a_v_1443_hertwig", "--pages", "700,714", tmp=tmp)
+    # --all: seit dem HTR-Lauf vom 24.10.2026 sind diese Hertwig-Seiten
+    # transkribiert, und ohne --all bekommt eine transkribierte Seite kein
+    # Paket (das prueft test_transkribierte_seiten_ausgeschlossen). Hier
+    # geht es um den Inhalt des Pakets, nicht um die Auswahl.
+    result = run("a_v_1443_hertwig", "--pages", "700,714", "--all", tmp=tmp)
     assert result.returncode == 0, result.stderr
     return tmp / "a_v_1443_hertwig"
 
@@ -74,14 +78,32 @@ def test_transkribierte_seiten_ausgeschlossen(tmp_path):
     assert (tmp_path / "a_v_1443_hertwig" / "page_3.json").exists()
 
 
+def breitester_anker() -> tuple[str, int, int]:
+    """(Zeuge, Seite, Breite) des breitesten Ankerbereichs ueber alle
+    Handschriften. Frueher stand hier fest Hertwig 300, mitten in dessen
+    grosser Luecke; seit dem HTR-Lauf vom 24.10.2026 ist Hertwig durchgehend
+    abgeglichen und der Bereich dort 0 breit. Welche Handschrift noch eine
+    Luecke hat, wechselt mit jedem Lauf der Pipeline - also suchen."""
+    best = ("", 0, -1)
+    for karte in sorted((ROOT / "data" / "disputation").glob("a_v_*/print_anchors.json")):
+        witness = karte.parent.name
+        for a in json.loads(karte.read_text(encoding="utf-8"))["pages"]:
+            breite = a["druck_bis"] - a["druck_von"]
+            if breite > best[2]:
+                best = (witness, a["page"], breite)
+    return best
+
+
 def test_kappung_bei_breitem_anker(tmp_path):
-    # Mitten in der grossen Hertwig-Luecke ist der Bereich dreistellig breit;
-    # der Text muss gekappt und die Kappung ausgewiesen sein.
-    result = run("a_v_1443_hertwig", "--pages", "300", tmp=tmp_path)
+    # Bei einem breiten Bereich muss der Text gekappt und die Kappung
+    # ausgewiesen sein.
+    witness, page, breite = breitester_anker()
+    if breite <= 24:
+        pytest.skip("keine Handschrift hat mehr einen breiten Ankerbereich")
+    result = run(witness, "--pages", str(page), "--all", tmp=tmp_path)
     assert result.returncode == 0, result.stderr
-    bundle = json.loads((tmp_path / "a_v_1443_hertwig" / "page_300.json")
+    bundle = json.loads((tmp_path / witness / f"page_{page}.json")
                         .read_text(encoding="utf-8"))
-    breite = bundle["anker"]["druck_bis"] - bundle["anker"]["druck_von"]
-    assert breite > 24, "Testannahme geplatzt: Anker ist eng geworden"
+    assert bundle["anker"]["druck_bis"] - bundle["anker"]["druck_von"] == breite
     assert bundle["text_gekappt"] is True
     assert len(bundle["druck_passage"]) <= 12
