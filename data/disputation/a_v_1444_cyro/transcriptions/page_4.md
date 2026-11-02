@@ -24,7 +24,7 @@ ist / Sonnderlich aber begaͤren min Herren die
 presidente / das alle die so ze disputirenn willes /
 und verfasset sind /  sy zuvor des ussgagnend
 mandats / vnd aller ordnung so dem gesprech
-zu gutt vff gestigen tag von Herrn Stattschriber
+zu gutt vff gestrigen tag von Herrn Stattschriber
 us ansehn die Herren verläsen sind / trulich /
 mitt fliß unnd sorg / hallten wollend
 verte
