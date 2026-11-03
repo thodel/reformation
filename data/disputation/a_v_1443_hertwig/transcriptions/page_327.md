@@ -1,6 +1,5 @@
 # Seite 327
 
-36
 iner gnad / mitt siner fritli keyt uber unnd / durch Jesum
 Cristum / dan uss gnaden / sind ir selig word / durch den
 glouͤben / vnnd dasselbig nitt ussuch / Es Jst gottes gab / nitt
@@ -24,7 +23,7 @@ und das rych gottes verdienen / Es sye Applas wychwasser /
 kirtzen brenpen / Ja Jn viner Sum / was derglyhen sin mag /
 ytell vergeblich / unnd Pein schatz des lydens Cristi / ein lestlog /
 iennt he got / lob / vinder Juenigteyt / Ainen /
-er dierd Artickelf //
+Der vierd Artickell //
 oder Schlusßred,
 ranztsunt koll / hatt gebehten / ab der
 sred / Namdch der vierden

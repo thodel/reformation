@@ -1,15 +1,11 @@
 # Seite 330
 
-A
-il
 Sfaerer von Sans Gallen
 Hern
-bs
 weogelertt Gett erbarne sich unn //
 ser / vnnd gesegne unns / zund ouch an In unns
 sin goͤtlech Lecht / uff das wir erkennen sinen
-waͤg / Sinen
-So min die vierd Schluss
+waͤg / Sinen So min die vierd Schluss
 d lüttett / das der wybe vnnd das Elütt
 Cristi,/ waͤsenlich vnnd lyblich n dem brott
 der dancksageng enpfangen werder / nog
@@ -27,12 +23,9 @@ Si / in dem Ich mir hab wolgerllt
 den hoͤre alls er hatt woͤllen uffher
 ben das allt aestament vnnd an
 Hebem ein mwos / hatt er ußgeschickt sine
-wpostell zupredigen / die ding so si ge-/
+Apostell zupredigen / die ding so si ge-/
 hört haben und gsaͤchen / in der
-Johans an
-ten /
-keün
-andre predi-
+Johans an ten / keün andre predi-
 ge anzuͤnimen / dan so Criß hatt
 erordnett / dan niemand anderst /
 den vatt erkendt / dan der Sim / vnnd
@@ -40,4 +33,3 @@ wemn ers hatt vnnd eproffnett / hatts
 ouch niemand vroffnett / dan sinen
 pposteli / die er hatt ußgesandt / zi
 prodigen das e inen durch den goist
-gt /

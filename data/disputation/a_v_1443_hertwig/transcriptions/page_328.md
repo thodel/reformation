@@ -1,10 +1,5 @@
 # Seite 328
 
-t
-us
-si
-Pbe
-obe
 Sunders die grossen ungeschikten missebruch / So In/
 die Cristanlich gemeind gewachssen sind / wi //
 der den rechtten waren verstand / des gottlichen
