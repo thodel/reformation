@@ -2,8 +2,7 @@
 
 haͤll vnd clar / das das / So er an dem nacht /
 mal hatt wollen Anseti vnd erstatten
-er
-hatt er verhesser / Jn dem sochagt / das
+hatt er verhesser / Jn dem sochagt er / das
 brett das Ich och geben wurd / das ge aiberr
 vermeindt , die wert leinens ab / fleisch
 Indisen Spruch / das brett dars Ich wud
@@ -15,13 +14,11 @@ lyb fur vnns gegeben werden / zuerloͤsung
 Darnm der Euaͤngelist / das wort dabe/
 zwuͤrend in dem Spruch anzuͦcht / dan
 er Je / lutt des ersten in Eleisch lyblich
-e
 en verheisst / zum andern Bekent er
 die allmaͤchttikeyt / darnmm aber nitt
 vollge / Gott vermag das / daru ist
 es / destan Ich Jm nit ab / dan der
-die/
-Prophet sagt / alletding / die er Hatt
+Prophet sagt / alletding die / die er Hatt
 gewallen / vnnd Etatt nitt moͤgen / hatt
 er gethan In Himmelk vnnd uff erde
 Diewol vnd aber / sin Het wort häll
@@ -39,7 +36,3 @@ min
 fleisc
 n disem
 pruch /
-bt
-s
-loch
-ve

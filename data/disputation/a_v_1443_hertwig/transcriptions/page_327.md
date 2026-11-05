@@ -24,12 +24,12 @@ kirtzen brenpen / Ja Jn viner Sum / was derglyhen sin mag /
 ytell vergeblich / unnd Pein schatz des lydens Cristi / ein lestlog /
 iennt he got / lob / vinder Juenigteyt / Ainen /
 Der vierd Artickell //
-oder Schlusßred,
-ranztsunt koll / hatt gebehten / ab der
-sred / Namdch der vierden
-nt uergeten /
-wieben gottsfrund / Ich bitten uch erustlich unb
-gottswillen / das er uͤch / ab nachgender schlusß /
-red / nitt wollen ergern / oder ein schuchen en /
+oder Schlusßred/
+Franziskus kolb / hatt gebehten / ab der
+Schliusßred / Namlich der vierden
+sich nitt zuͦ ergeren /
+lieben gottsfrund / Ich bitten uch ernstlich unb
+gottswillen / das ir uͤch / ab nachgender schlusß /
+red / nitt woͤllen ergern / oder ein schuͤchen en /
 pfachen oder unns darfur achtten / das wir ein
-Cust h nben ettwas vngehorts harfür zuͦbringen
+lust haben ettwas vngehoͤrts harfuͤͤr zuͦbringen

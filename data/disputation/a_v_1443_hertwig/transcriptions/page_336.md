@@ -1,8 +1,7 @@
 # Seite 336
 
-uittwrochen oer Jmrlis /
-Parrer von Santt
-Hallen
+Mittwoch vor Antonji
+Parrer von Santt Gallen
 Im Herr unnd mattbruͤder Meister üleuch
 nach naͤchtigem fürtrag / wil in die aall //
 maͤchttikeyt nt gerodt haben, dann gytt
@@ -16,8 +15,7 @@ lichs ist / derwaͤg der geist / einh in was
 gestalt die lein in dem lyb de mutte
 isinen urfuͦgt werden / daglychn wuͤssen
 wir nitt die wack gottes Eclisiastes
-am I
-Sagt min err darby/ Cristus
+am I Sagt min err darby/ Cristus
 belib by der Schrifft / alls sinemwortt /
 st warhafftz So wir es aber nitt begriffen
 soͤllen wir / allen unfrn verstand in die
@@ -30,7 +28,5 @@ sind undeschrin / allso ouch gzinser ge /
 dar vnd die waͤg des Herrlsaͤge
 an 55 / an ist raͤchttg agezeg
 der So ruch Jansan sitt / das drob
-wöllichs i
-gee wurd / Ist min Crist
-36
+wöllichs i gee wurd / Ist min Crist
 beistung

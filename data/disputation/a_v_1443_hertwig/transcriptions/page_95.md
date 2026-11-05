@@ -29,7 +29,6 @@ emm lacle Cresten
 Zuͦvermyden überfluss wil Ich
 uss diser red / zwen punten ver-/
 antwurtten / zum ersten / spricht
-Paulus
-zu den
+Paulus zu den
 ho
 der geistlich

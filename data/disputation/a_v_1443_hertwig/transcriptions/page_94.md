@@ -13,18 +13,15 @@ Durck den  fen geregiert werd
 sölliche kilche, habe nenand
 dan der Herr
 richtten
-zu regienen nach zevrteylen /
-wieden
+zu regienen nach zevrteylen / wieden
 Palus azoigt / da er sagt, den
 gezechtten richt niemand, er richt aber
 aller ding / solt min Herr Doctor
 haruß beschlossen haben, das
 dart gerocht, So er alle dung mag
 richtn ouch die Schrifft zurichten
-doch bisßhar von inen
-hab " gerat
-t ist werdn mamlich
-end
+hab " gerat doch bisßhar von inen
+end t ist werdn mamlich
 Schrifft, lyde dyheinen Rrchte
 wil aber hir sagen
 PPaulus

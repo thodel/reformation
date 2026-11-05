@@ -11,8 +11,7 @@ die kilch gitt hörtt / der sol die sin / alls
 ein heid / unnd ein offner sunder /
 Vater Coy/
 romnn Luben Cristen / der länge
-Herr Conrad trager
-Nach hatt
+Nach hatt Herr Conrad trager
 Prommial / Innhalt unnd meinen
 sines funrnämmens anzoigt /
 d in den den namen der
