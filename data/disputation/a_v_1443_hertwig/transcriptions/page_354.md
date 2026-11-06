@@ -6,32 +6,22 @@ die andre dee du an / gelistnn unnd
 durcs don heilig aulum / das
 nachtal beschribend / So ir in die hand
 gerdmen hatt / vn sinen lys genacht
-D
 dess wir fur en probutnar zuͤm/ setz
-wöllichs
-nnach zum z putten / dar uch
+nnach zum z putten / dar wöllichs uch
 gebenn wïrdt fr das leben / wirdt /
 wird erklaͤrttluce / Eböllicher fr
 uͤch gegeten wirdt / dan Joaneh sich
-befl
-laben /
-/So die a dren Eu ageliss
-enderlassen / sulihs i siilem
+befl /So die a dren Eu ageliss
+laben /enderlassen / sulihs i siilem
 sthrif zuerhllein / alls den geubtn der
-hriffch
-unndrharnen / vnnd bevelchen zuͦ fur
+unndrharnen hriffch / vnnd bevelchen zuͦ fur
 dlung der Sach / sollich Jntrag beschechen
-des
-te
-Cappittels hall Johanis,/ der
+des te Cappittels hall Johanis,/ der
 schrifft / vnnd allen Cristenlichen
 laͤsern /
-er/
-e
-deb
-ger
 n den
 wertten
+M. H Z
 uunsers bruͤders antwuͤrt / befröme /
 wott uns / das ormitt de
 Eian

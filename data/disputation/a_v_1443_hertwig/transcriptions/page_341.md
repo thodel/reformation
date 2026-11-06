@@ -1,9 +1,8 @@
 # Seite 341
 
 Cristus aber klaͤrer uff / was er
-as
 weine mitt dem geben / das im der
-vatter geben/ vnd spricht allso das
+vatter geb0en/ vnd spricht allso das
 Ist der will / desß der mich gesandt hatt
 das ein eder der den Simn erkendt / vnnd
 uff inn truͤwt ewigs lellnn habs /
@@ -17,8 +16,7 @@ ch an Imliesse , der hatt ewigs
 leben haben dir Ju di gembet
 nitt allein / das er sich ein brott macht /
 nnders auch das er sich en tröst macht
-das erfin dt sich
-a nachgnil
+das erfin dt sich a nachgnil
 wortte/ da allso statt / di euun
 letendiie jurn vmb Ainen willen /
 das er geredt hatt / Ich bin das

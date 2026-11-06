@@ -1,38 +1,38 @@
 # Seite 334
 
-haͤll vnd clar / das das / So er an dem nacht /
-mal hatt wollen Anseti vnd erstatten
-hatt er verhesser / Jn dem sochagt er / das
-brett das Ich och geben wurd / das ge aiberr
-vermeindt , die wert leinens ab / fleisch
-Indisen Spruch / das brett dars Ich wud
-geben da wuͤrdt verstandn / des ersten ver //
+haͤll vnd clar / das das / So er an dem nacht //
+mal hatt wollen insetzen  vnd erstatten
+hatt er verhessen / Jm dem so  er sagt / das
+brott das Ich uch geben wird / das $ das geben
+vermeindt , die wort leibes ab / fleisch
+In disem Spruch / das brott das Ich wird
+geben das wirdt verstanden / des ersten ver //
 heissung uff das nachtmal Cristi / das
-der wort aber / dabo pro mündi
+ander wort aber / dabo pro mundi
 vita / verfacht und schluͤsst / In Jm / Sinen
-lyb fur vnns gegeben werden / zuerloͤsung
-Darnm der Euaͤngelist / das wort dabe/
-zwuͤrend in dem Spruch anzuͦcht / dan
-er Je / lutt des ersten in Eleisch lyblich
-en verheisst / zum andern Bekent er
-die allmaͤchttikeyt / darnmm aber nitt
-vollge / Gott vermag das / daru ist
-es / destan Ich Jm nit ab / dan der
-Prophet sagt / alletding die / die er Hatt
-gewallen / vnnd Etatt nitt moͤgen / hatt
-er gethan In Himmelk vnnd uff erde
-Diewol vnd aber / sin Het wort häll
-lutt / unnd ob gott wil , allwaͤg des
-Cristenlich verstand all so gewasen
-wurdt er niemand / von den ußtruͤckten
-wortten / annders zuversten Julerttnn /
-ir hatt oug verheissen / unnd das en
+lyb fur vnns gegeben werden / zuͦ erloͤsung
+Darumb der Euaͤngelist / das wort dabo/
+zwuͤrend in dem Spruͣch anzuͦcht / dan
+er Je / lutt des ersten in Fleisch lyblich ge //
+essen verheisst / zum andern Bekent er
+die allmaͤchttikeyt / darumb aber nitt
+vollge / Gott vermag das / darum ist
+es / gestan Ich Jm nit ab / dan der
+Prophet sagt / alle die ding / die er Hatt
+gewellen / vnnd statt nitt moͤgen / hatt
+er gethan Im Himmel vnnd uff erden /
+Diewol vnd aber / sin heilig wort häll
+lutt / unnd / ob gott wil / allwaͤg des
+Cristenlich verstand all so gewaͤssen
+wirdt er niemand / von den ußtruͤckten
+wortten / annders zuͦverstan inleitten  /
+Er hatt ouch verheissen / unnd das er
 verheissen hatt / hatt er in dem nachtmal
 erstattett / darmitt vnnd ein Schrifft die
 andre usßlege /
-Vbris zwuiglein
-das ist
+Mz Ulrich Zwingli
+$das ist
 min
-fleisc
-n disem
-pruch /
+fleisch
+in disem
+spruch /

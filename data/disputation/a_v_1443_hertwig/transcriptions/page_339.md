@@ -9,16 +9,14 @@ ein usßlegug / was Cristus verstande / durh
 das / das er sich selbs / das laͤbendig bret
 genampt habe
 it as bötb
-Ufarter von Sant dalen
+Ufarter von Sant Gallen
 ewol mun Herr Meister v̈lich /
 ddas dise wortt / das brott e sollen ver //
 standen werden / lütt der vorgan wertten
 Ich bin das läͤbendig brett / daruff
 abr mir verstand ist / das an distu
 ert / mit dem wort bbrott / verheissen
-2
-Parnat
-vollchs er / n dem nachtmal /
+vollchs er / n darnach dem nachtmal /
 estrucktlich / vollfürt / vn dJugesatt
 habe, Wöllichs gellaͤren / der missgloub
 er zamckendn inden / alls si sagten /

@@ -3,8 +3,7 @@
 146
 Di diett Schrussrd,
 fen, durch den glouben, vnd gancz nitt vsß den waͤtt/
-Zum andern vil gott darmmb nitt, das wir
-kon
+kon Zum andern vil gott darmmb nitt, das wir
 mͤssig gangen / vnd allis gits zutan vndeclaͤßßend/
 Sunders S. wir glouben, vnd gott herczlich vertruwo.
 en, werden die wercl gottas nitt vsslliben, Darum

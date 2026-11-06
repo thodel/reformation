@@ -1,31 +1,31 @@
 # Seite 333
 
 gott wider sin eygen wortt nitt /
-Es wuͤrdt ouch s wider sin eygen ort
-in / nit für ein macht / geacht benamphet / Sun //
-ders fur enn anmacht / darbyouch
-wir ver necken sollen / das wie wir gett die
-Allnͤchttisvnen warheyt Gogt
-das er ouch by der warheyt belibt /
+Es wirdt ouch  wider sin eygen wort
+thun in / nit für ein macht / geacht benamphset / Sun //
+ders fur einn onmacht / darby ouch
+wir ver mercken "sollen / das" wie wir gott die
+Allmaͤchtigkeit und warheyt zugeben
+das er ouͦch by der warheyt belibt /
 de da darwidder st / das Hie
-fleisch / unnd bluͤtt geesser werd /
+fleisch / unnd bluͤtt gegessen werd /
 Pfarrer von Sant
-Gallen,
-Allo nach langem / min Heber Herr /
-Meister uliich , das
-hIfohan nis / sines verstan des Jun ///
-hallt anzoigt hatt /Namlich das er
-das wortt oder die venfriffung / das das
-Capit Johannis von den usserlich
-lyblichen nissung nitt solle ver //
-tand werden /estand
+Gallen/
+Allo nach langem / min lieber Herr /
+Meister ulrich , das 6 ͦ Cappi //
+tel Johannis  / sines verstandes Inn //
+hallt anzoͤigt hatt /Namlich das er
+das wortt oder die verheissung  / das das
+Capitel Johannis von den usserlich
+lyblichen niessung nitt solle ver //
+stand werden /gestand ich Im
 desß nit / dan so essen an disem
-eit / für glouͤbin soltte verstand werrd /
-wurde ga ein vnmolkomner verstand
-furtragrn/ der Spruch / der da
-werdt issen von dise brott /
-mag allda / Essimn für glouͦben
-nit verstanden weden / das aber / da
+ort / fuͤr glouͤben soltte verstanden werrden /
+wurde gar ein vnvollkomener verstand
+fuͤrtragen/ der Spruͤch / der da
+werdt essen von disem brott /
+mag allda / Essimn fuͤr glouͦben
+nit verstanden werden / das aber / da
 die verheissung / uff die Insatzung
 des nachtmals Cristi / nitt begriffen
 oder verheissen sye / Sind die wort

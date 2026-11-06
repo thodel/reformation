@@ -14,9 +14,7 @@ Ist / Manlich das das geistlisossen
 Das macht uns i gott wandden,
 venn das lyblich esse nitt / usß woll //
 chen abr bewärt Jst / das brott unnd
-1
-n disen ston
-appittl genttlich
+n disen ston appittl genttlich
 iit gnouun wurrdt srr bin usser
 das Satramittlichbrett /nch fur das
 lyblich esssen das lychas und
@@ -26,20 +24,14 @@ wörttli dabo / dier Jst Ich wud
 geken / das sye e verhrssedts vortt
 gesten wir gern/ Es verfusszt abr nit
 durt dae weder das Cristich
-montscheyt / die er / perd
-Alsosimm /
+montscheyt / die er / perd Alsosimm /
 channab Iferigre parte carnen
-naͤmpt / das
-dr
-Cristus san mant schet
+naͤmpt / das Cristus san mant schet
 Ar das leben der wellt werde Jn
-tod geb dond
-zal,
-Aa su
-hoffr wir seygntlich bewärt sin /
+tod geb dond Aa su
+hoffr wir zal seygntlich bewärt sin /
 das Hie J der angrzatt Sor
-aber
-nd das brott / dar Ich giben wic
+nd das brott aber / dar Ich giben wic
 dehem Saorauelihbrett verherssen
 wirdt / ouch das fleisch de
 nit lyblich zuessen / Sunders waͤserlich

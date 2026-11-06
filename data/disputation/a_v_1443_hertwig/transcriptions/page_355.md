@@ -17,7 +17,7 @@ man zu pridig gang/ unnd so
 man sspiicht wantn gat man zo
 predige / dar das man geluttt
 hatt / un hebt man die frag wi /
-derumban / waltn hatt man geluͤttot / So vollgt
+waltn hatt man geluͤttot / So vollgt
 mmer dar die vordrig ant wurtt /
 un nimpt dcheinei .Allso
 auch hie t So man von derwortt
@@ -31,8 +31,7 @@ f hutt allso geredt / das war
 brott das von Ennl harab komnen
 das sye / das das lebe dr wellt
 gebe / das sollche wort Sarpt
-6
 ndie Cristelich vn recht rerh
-ußgeleg syen
-o doch wir daselbe
+ußgeleg syen o doch wir daselbe
+derumbano
 unnd sprich

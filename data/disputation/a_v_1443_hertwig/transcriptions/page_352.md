@@ -1,10 +1,7 @@
 # Seite 352
 
-ch
-der möntsch usserl ichst
-thhhuge
-Ist verseblifh
-dedar wit liest / vnnd
+der möntsch usserl ichst Ist verseblifh
+thhhuge dedar wit liest / vnnd
 willen / des gersts Jn I wirkend , daen
 nenand Jst der / So Je ettwas Jn der Schifft
 geubt ist / der da die lyblich oder usselus
@@ -19,25 +16,7 @@ werstand r soͤllen / Pabiere daru
 nitt / das es an disem pitt / des gken
 Caphiftells / soͤlle oder nuͤsse / dargelichen
 verstand werden /
-aiste lir
-zwugli/
-r
-e
-als
-6
-hois
-l
-ea /
-i
-It
-da
-zuͦ//
-mih
-1
-5
-Aas
-e
-h
+aiste lir Zwingli
 Jchervordren fr ui dhur , une
 sern lieben Ori der / das er bekenne//
 Ddas die wortt / un dars brott aber
@@ -45,7 +24,6 @@ das ich geben wurd e / anns nitt ein
 lyblich brett / oder ein lyllichfleisch
 Cristi zuessen vefeisse / So würdt
 für vnnd fir andas Harhn
-ge
 hogen Wollichs doch alles zi sin
 ytt uff Ban komen würdt / vnd
 wernan ietz kuirtzlich / das er

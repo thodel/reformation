@@ -8,12 +8,10 @@ Hiess er Jun ein Sathan / usß wollcher
 thatt, iglouben fer Cristum verfacht /
 gelouͤben dem Euangelid / gelouben
 Aber dem Enangelio schlin
-ssunen Jm
 bevelchniss des gloubens / hrucht oder
 werck des gloubers / auch zum zte / mitt
 anhangendn zeichen / diser dingen zu einer
 bostaͤttignig / haben wir Abkorum an
-16
 Da der huͤtter Pauln vnd
 Barnaban fraget / Ir heren was
 st nott das Ich thuͤge / uff das Ich selig
@@ -35,6 +33,3 @@ In de gab der wyssagung / der Grien /
 tische und Gnibeutisc kihch mitt
 wollichn Ich nitt sin ders / utt miner
 Herrn Mandats / zprobieren furmm
-e
-btr
-et

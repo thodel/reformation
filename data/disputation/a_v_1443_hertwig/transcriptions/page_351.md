@@ -23,13 +23,11 @@ wolther für uch geben wuͤrdt / der/
 glychen euch / wie min lieber Sern
 brider / dan Spruch anzuͤcht, der da
 mich Isset ainr ersch / E Ehebe er zuͦ-
-s
 nerste uff Jn /ftruwt werden der //
 stal Ich allso / die nuiͤssung dises fleisch //
 Bezuͤgett / scehin sunderlich begird / das
 wir iJ Cristo / vnnd Cuiftus in vnnd
 gej un das so die nahveliich sy
-yß
 unn tranck ist unsennfflersch / gelych
 dassillig / sye sin lyb und Eluͦtt / durch
 den glouͤbn vnnd geist unns er Seele /
