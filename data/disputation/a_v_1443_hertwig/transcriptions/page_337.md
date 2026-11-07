@@ -1,37 +1,37 @@
 # Seite 337
 
-wöllichs giben wuͤrd / für das leben
-der wellt selle nit getrilt werd / ver
-moi aber Ich söllichs recht bischrche
-diewyl das wörtli dabe / das ist
-wïrt gobn zwey nmal da stande /
-wil ich allso / das das brett / So er fur
-unns hatt gebn im der tod fur das
-leben der wellt / Ebn dasselbe
-hab er unns zuessen Ingesat/ / unnd
-bevolchn luͤt des werts ane an
-das ist min lyb / wollicher
-ssü uch gegebenn würdt / unn nit wie der
-Annder piredt in disen Sprchlüttet
-von dir ertoͤdten lyb / So fur das
-leben der wellt gegeb werder sol /
-dmin verstand ist / das das wort brot
-wollches Ich geb wurd / luͤter zuͦner
-stan / das er unus zuessen beilche / und
-Insetzen werde / sye sin fleisch / dan
-er Je suster mendent brott hatt geben
-vosß wollchein er / sinen lyb gemacht /
-dan in dem nachtmal / da er das
-brot inddie haͤnd nomm vund sagt
-Nämen und essen , das ist min lyb /
-Doun er nit sagt / das brott wolches Jc
-ebr wirrdt ist ei beduͤttun mnes
-hleischs, Sund ers das birtt das Ich
-geben wurd / ist min fleisch / vnnd
+wellichs ich giben wird / für das leben
+der wellt solle nit getrilt werden / ver //
+mein aber Ich söllichs recht bescheche
+diewyl das wörtli dabo / das ist
+ich wird geben zwey mal da stande /
+wil ich allso / das das brott / So er fur
+unns hatt geben in den tod fuͤr das
+leben der wellt / Eben dasßelbig
+hab er unns zuessen Ingesatzt/ / unnd
+bevolchen luͤt des worts Luc am
+xxij / das ist min lyb / wollicher
+fuͤr uch gegebenn wirdt / unn nit wie der
+Annder punct in disem Spruchl luͤttet
+von dem  ertoͤdten lyb / So fur das
+leben der wellt gegeben werden sol /
+dann min verstand ist / das das wort brot
+wollches Ich geben wird / luͤter zuͦ ver//
+stan / das er uns zuͤessen bevolchen / und
+Insetzen werde / sye sin fleisch / dann
+er Je sunst  niedem brott hatt geben
+usß wellchem er / sinen lyb gemacht /
+dann in dem nachtmal / da er das
+brot in / die haͤnd nahm  und sagt
+Nämend und essen / das ist min lyb /
+Dann er nit sagt / das brott welches Jch
+geben wirdt ist ein beduͤttung mines
+fleischs, Sunders das brott das Ich
+geben wird / ist min fleisch / vnnd
 harnach / das ander / So er verheisst
-fur uns gegeber werdin / verfacht den
-trost / So en si leben füg vnnd / durch
-de tod/ geben würd / Alls die schrifft
-rychlich bezuͤgett, n den Moer an
-der hu de Chomtern
-an 15 / dan er je usß dem bratt
+fur uns gegeben werdin / verfacht den
+trost / So er sin leben fuͤr vnns / durch5
+de tod/ geben wird / Alls die schrifft
+rychlich bezuͤgett, zu den Roͤmern am
+5 ten zu de Chorinthern
+am 15 ͦ/ dann er je usß dem brott
