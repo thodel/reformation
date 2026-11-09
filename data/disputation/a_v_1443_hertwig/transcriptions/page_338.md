@@ -1,31 +1,31 @@
 # Seite 338
 
-ien lyb geacht / vnnd den Soneen fuͤngern
-gebottrun wöllicher drnach an dem
-letsten nachtval für uns geyeben
-solt werden
-Wi Auch Zwingli
-Wamitt der wortten
-tanpt verdittn werde / sol herr
-gfarrer aillso meicken / das gelych
-vor dene werreen / allso statt / Ich bins
-das brett / das laͤbendig / das do von Him //
-mell harab komnen istwoͤllcher von
-dem brott essenwirdt / der wurdt ewen
-cklich leben das nm hie / verstanden
-werde / was Cristus enitt dem wortt
-biett / gewoͤllt habe /So erklaͤrt er sich selbs /
-nittt den nachgendn wortten / kat Cäplot s
-o gels lobes lesy unnnd dah
-brett aber / das ich uͤch geben wuͤrde
-in wollchen woͤrtlinen / nran häll
-vermerckt / das er per Epanaphoram /
-das ist ein widerhalen / hatt woll erzu
-versta geben / was er meing woll mitt dem
-wärtte brett / dann so er spricht /
-und das brott aber / sicht man wal /
-das er widen hiiliff gatt / zuͦ
-nr brott / von dien er ver geredt hatt
-und hatt den si / Sanst Cristis
-sprache / das ir aber wuͤssen / was das
+sinen lyb gemacht / vnnd den seinen Juͤngern
+gebotten wellicher darnach an dem
+letsten nachtmal für uns gegeben
+solt werden /
+M Ulrich Zwingli
+Damitt der wortten
+kampf vermitten werde / sol herr
+pfarrer allso mercken / das glych
+vor denen werdeen / allso statt / Ich bins
+das brott / das laͤbendig / das do von Him //
+mell harab kommen ist woͤllcher von
+dem brott essen wirdt / der wirdt ewen //
+cklich leben das nun hie / verstanden
+werde / was Cristus mitt dem wortt
+brott / gewoͤllt habe /So erklaͤrt er sich selbs /
+mittt den nachgenden wortten / "kai o artos di
+ou ego  d oso doso"   unnd das
+brott aber / das ich uͤch geben werden
+in wellchen woͤrtlinen / man häll
+vermerckt / das er per Epiphanorum /
+das ist ein widerholen / hatt woll darzuͧ
+verstan geben / was er meinen welle mitt dem
+woͤrtte brott / dann so er spricht /
+und das brott aber / sicht man wol /
+das er widerum hinuff   gatt / zuͦ
+dem brott / von dem er vor geredt hatt
+und hatt den sim / Samm Cristus
+spraͤche / das ir aber wuͤssen / was das
 brott sye / von dem ich vch sag / So ist er
