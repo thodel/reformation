@@ -23,10 +23,10 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 14,
+    "units": 13,
     "matched": 4,
     "only_a": 5,
-    "only_b": 5,
+    "only_b": 4,
     "similarity": 0.4106,
     "pairs": [
       {
@@ -38,7 +38,7 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "dei . Hären von Sant Gallen, gädig, menger, ouch hochvolgen\nheimen und\nGott erbarmssett unser und gesogne vnse , zünde\nouch an in, vus st gottlich getan.",
+        "b": "Pfarrer von Sant Gallen, gädig min her ouch hoch wolge // lert\nGott erbarme sich unser und gesegne uns, zünde\nouch an in uns sin gottlich liecht.",
         "similarity": 0.0
       },
       {
@@ -104,28 +104,22 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "Das er inn\naber eroffnet hatt, ist in der schrifft verjehett,\nain eich. Egenan gesin dem kurtz getten. Dem juden, mit argemuß dem herren, minem\ndorhät, dem benuͤfften, aber der kaiser gottsg\ndie\nouß\nFade .",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "ihnen\nFebi . über das\n5 . schriben . das\nnehmen . sein . karten",
+        "b": "Das er inn\naber eroffnet hatt, ist in der schrifft verjehett,\nain eich. Egenan gesin dem kurtz getten. Dem juden, mit argemuß dem herren, minem\ndorhät, dem benuͤfften, aber der kaiser gottsg",
         "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.3134,
+    "similarity": 0.313,
     "words": {
       "a": 285,
-      "b": 251
+      "b": 239
     },
     "segments": [
       {
         "op": "insert",
         "a": "",
-        "b": "dei Hären von Sant Gallen gädig menger ouch hochvolgen heimen und Gott erbarmssett unser und gesogne vnse zünde ouch an in vus st gottlich getan Uff das wir erkennid sinem weg amen so nun"
+        "b": "Pfarrer von Sant Gallen gädig min her ouch hoch wolge lert Gott erbarme sich unser und gesegne uns zünde ouch an in uns sin gottlich liecht Uff das wir erkennid sinem weg amen so nun"
       },
       {
         "op": "equal",
@@ -583,42 +577,22 @@
         "b": "aber"
       },
       {
-        "op": "insert",
-        "a": "",
-        "b": "der kaiser gottsg"
+        "op": "delete",
+        "a": "die krafft Gottes So wir nun aber von Chriſto Jeſu zwey ding gloubend namlich Allmechrigkeit vnd Warheyt Dann die wort des Herren warheit ſind Joannis am xvij capitel Diewyl dann er vnns verheyſſen hat da mit vnd gſchrifft die andre gſchrifft erkläre ſo hat er ge ſagt Das brot das ich üch wird gebenn iſt min fleyſch welches ich geben wird für das läben",
+        "b": ""
       },
       {
         "op": "equal",
-        "a": "die",
-        "b": "die"
+        "a": "der",
+        "b": "der"
       },
       {
         "op": "replace",
-        "a": "krafft Gottes So wir nun aber von Chriſto Jeſu zwey ding gloubend namlich Allmechrigkeit vnd Warheyt Dann die wort des Herren warheit ſind Joannis am xvij capitel Diewyl dann er vnns verheyſſen hat da mit vnd gſchrifft die andre gſchrifft erkläre ſo hat er ge ſagt",
-        "b": "ouß Fade ihnen Febi über"
-      },
-      {
-        "op": "equal",
-        "a": "Das",
-        "b": "das"
-      },
-      {
-        "op": "replace",
-        "a": "brot",
-        "b": "5 schriben"
-      },
-      {
-        "op": "equal",
-        "a": "das",
-        "b": "das"
-      },
-      {
-        "op": "replace",
-        "a": "ich üch wird gebenn iſt min fleyſch welches ich geben wird für das läben der welt Sölichs alles hat er erſtattet im Nachtmal nälich da er hat das brot ge",
-        "b": "nehmen sein karten"
+        "a": "welt Sölichs alles hat er erſtattet im Nachtmal nälich da er hat das brot ge",
+        "b": "kaiser gottsg"
       }
     ],
-    "ops": 50,
+    "ops": 48,
     "truncated": false
   }
 }
