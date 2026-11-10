@@ -16,7 +16,7 @@ cklich leben das nun hie / verstanden
 werde / was Cristus mitt dem wortt
 brott / gewoͤllt habe /So erklaͤrt er sich selbs /
 mittt den nachgenden wortten / "kai o artos di
-ou ego  d oso doso"   unnd das
+ou ego  doso doso"   ("und das Brot  das ich geben werde") unnd das
 brott aber / das ich uͤch geben werden
 in wellchen woͤrtlinen / man häll
 vermerckt / das er per Epiphanorum /
@@ -26,6 +26,6 @@ woͤrtte brott / dann so er spricht /
 und das brott aber / sicht man wol /
 das er widerum hinuff   gatt / zuͦ
 dem brott / von dem er vor geredt hatt
-und hatt den sim / Samm Cristus
+und hatt den sinn / Samm Cristus
 spraͤche / das ir aber wuͤssen / was das
-brott sye / von dem ich vch sag / So ist er
+brott sye / von dem ich vch sag / So ist es

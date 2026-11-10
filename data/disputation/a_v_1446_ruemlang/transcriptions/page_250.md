@@ -1,10 +1,9 @@
 # Seite 250
 
-dei .
-Hären von Sant Gallen, gädig, menger, ouch hochvolgen
-heimen und
-Gott erbarmssett unser und gesogne vnse , zünde
-ouch an in, vus st gottlich getan. Uff
+Pfarrer von Sant Gallen, gädig min her ouch hoch wolge //
+lert
+Gott erbarme sich unser und gesegne uns, zünde
+ouch an in uns sin gottlich liecht. Uff
 das wir
 erkennid sinem weg , amen , so nun die
 vierd schloss red tuͤret, das an es und das
@@ -35,15 +34,3 @@ aber eroffnet hatt, ist in der schrifft verjehett,
 ain eich. Egenan gesin dem kurtz getten.
 Dem juden, mit argemuß dem herren, minem
 dorhät, dem benuͤfften, aber der kaiser gottsg
-die
-ouß
-Fade .
-ihnen
-Febi .
-über das
-5 .
-schriben .
-das
-nehmen .
-sein .
-karten

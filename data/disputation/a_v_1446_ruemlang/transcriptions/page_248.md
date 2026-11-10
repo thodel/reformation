@@ -1,59 +1,31 @@
 # Seite 248
 
 Frantz
-Hienachvolgott wir wider die vierten
-Schlüssend gehandlett ist
-Franziskus, elter, fieng an, wie hiernachvolgott
-Lieben got frund, ich bitten üch ernstlich umb
-erfflich umb gotz willen, das ich umb üch es
-nachgender schloßred nitt wellend ergeren, oder ain
-schriben empfechen oder uns darfür achten, das wir
-ein lust habend, ettwas ungehoͤrtsz hofürzebringen.
-sonder die grossen ungesticklich misßbrauch, so im
-der christenlich gemeind gewachsen sind, weder dem
-rechten woren verstand, uss göttlichen worten unns
-zwüschend und tungeng, desz schlußred also zuͦ
-kemen, wer si dann luter namlich. Das derselb
-und das bluͦt Christi wesenlich und liplich zu
-dem brot, der danckspagung empfangen werde, mag
-mitt biblißcher gschrifften nitt betracht werden , das
-bewiͦß Ich mitt buͦdere gschrifft fürnemlich Joh
-das fleisch ist gar nitt nutz verstand, grossem
-deshalb thun, es nitt hatt gewellen, verdamn wer
-bißhar ✳ gemeinlich verstanden das wir
-S.
-disem sacraments fleisch und blüt vestenlich
-wir in verlangzungen capittel zuͦ S.
-es sig, dann das ir essend nun fleisch unnd
-trinckend min bluͦt mögend ir nitt zugen, zuͦdas
-üch der himlen, sy wenda dester nun fleisch
-unnd truckt man guͦt, der klagt in mer.
-und sich in sinen. Item wer, da mög dispett
-der leyp ouch von minetwegen, wie wir
-14.
-28
-lib
-33
-13
-der
-26 personen
-in
-soll
-4
-worden
-ben
-Rüeg
-und
-mitt
-26
-vor
-tor
-vor mir
-ihm
-das
-ward
-d
-explicus
-et
-und
-S.
+Hienach volgett wir wider die vierden
+Schlussred gehandlett ist
+Franciscus Kolb fieng an, wie hiernach volgett
+Lieben gots frund, ich bitten üch ernstlich unnd
+erfflich umb gots willen, das irh umb üch ab
+nachgender schlußred nitt wellend ergeren, oder ain
+schüchen empfachen oder uns darfür achten, das wir
+ein lust habend, ettwas ungehoͤrts herfürzebringen,
+sonder die großen ungeschickten mißbrauch, so in
+die Christenlich gemeind gewachsen sind, wider den
+rechten waren verstand deß göttlichen worts unns
+zwingend und tringend, dise schlußred also zuͦ be-
+kennen, wie si dann lutet nemlich das der lib
+und das bluͦt Christi wesenlich und liplich in
+dem brot der dancksagung empfangen werde mag
+mitt biblischer gschrifft nitt bibracht werden, Das
+bewiß Ich mitt luter gschrifft fürnemlich Jo. 6.
+das fleisch ist gar nitt nütz verstand geessenn
+deshalb Christus ie nitt hatt gewellen, wie dann wir
+bißhar gemeinlich verstanden das wir in
+disem sacramentt fleisch und bluͦt wesenlich
+niessen witer in vorangezaigtem capittel Jo. 6.
+Es sig dann das ir essend min fleisch unnd
+trinckend min bluͦt mögend ir nitt ingon in das
+rich der himmlen, Item werda issett min fleisch
+unnd trincket min bluͦt, der blipt in mir,
+und sich im, Item wer da mich issett
+der lept ouch von minettwegen, hie wirt

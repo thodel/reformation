@@ -1,31 +1,31 @@
 # Seite 339
 
-das Ich wuin fleisch ,/ vn das leb
-der welt / swürdt in tod gabe / Es
-mag ouch hie / nitt Ein / Sindethen
-sin / Sunders dise gantze Pericopa / oder
+das Ich mein fleisch / um das leben
+der welt / würdt in tod geben / Es
+mag ouch hie / nütt Ein / Aytheton
+sin "en ego doso "/ Sunders dise gantze Pericopa / oder
 Sinn / Jst nitt ein verheissuͤng / Suͤnders
-ein usßlegug / was Cristus verstande / durh
-das / das er sich selbs / das laͤbendig bret
-genampt habe
-it as bötb
-Ufarter von Sant Gallen
-ewol mun Herr Meister v̈lich /
-ddas dise wortt / das brott e sollen ver //
-standen werden / lütt der vorgan wertten
-Ich bin das läͤbendig brett / daruff
-abr mir verstand ist / das an distu
-ert / mit dem wort bbrott / verheissen
-vollchs er / n darnach dem nachtmal /
-estrucktlich / vollfürt / vn dJugesatt
-habe, Wöllichs gellaͤren / der missgloub
-er zamckendn inden / alls si sagten /
-wie mag diser sir fleysch vns geben
-zeͤessen, hatt es der Herr, selbs
+ein usßlegug / was Cristus verstande / durch
+das / das er sich selbs / das laͤbendig brot
+genannpt habe
+en ego doso
+pfarrer von Sant Gallen
+Es wil min mun Herr Meister Ulrich /
+das dise wortt / das brott tc/ soͤllen ver //
+standen werden / lütt der vorganden wortten
+Ich bin das läͤbendig brott / daruff
+aber min verstand ist / das an diesem
+ort / mit dem wort brott / verheissen
+sye wellches er /  darnach in dem nachtmal /
+ustruͤcktlich / vollfuͤrt / vnd ingesetzt
+habe / Wellichs erkllaͤren / der missgloub
+er zanckenden Juden  / alls si sagten /
+wie mag diser sind fleysch vns geben
+zeͤessen / hatt es der Herr / selbs
 erklaͤrt mit ernstlich wortten sagende //
 warlich warlich sag Ich uͤch / Es sye
-dann sach / das ir werdnr esser / das fleist
-des Su s des wörsschen und wer /
-de troncken sin bluͤtt / so were
-r nitt haben das labenin uch
-ree harnach nin flersch ist warlich
+dann sach / das ir werdend essen / das fleisch
+des Suns des menschen und wer /
+den trincken sin bluͤtt / so werdend
+ihr nitt haben das laͤben in uͤch
+und harnach min fleisch ist warlich
