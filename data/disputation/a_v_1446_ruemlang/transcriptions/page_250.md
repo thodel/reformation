@@ -3,34 +3,33 @@
 Pfarrer von Sant Gallen, gädig min her ouch hoch wolge //
 lert
 Gott erbarme sich unser und gesegne uns, zünde
-ouch an in uns sin gottlich liecht. Uff
-das wir
-erkennid sinem weg , amen , so nun die
-vierd schloss red tuͤret, das an es und das
-bluͦt thun, wesenlich und liplich in dem
-brot der dankzagnung, wo empfangen werdind,
-mopp mitt Biblischar schrifft nitt betracht werden .
-dargegen im ich und mir mitthaff soͤlichen
-der schrifft mitt angegen sonder mitt gfunden
-verstand der schrifft wol möge betracht werden.
-diewil und unser herrenn, der ding
-so er uff dem erreich hatt gelert und hett
-welichen der himelsch vatter zuͦgnùss gegeben hatt
-Matt. 17 das ist min geliebet sun, inden
-ich mir hab wolgenäben den hoͤrend, diß er
-hatt wollen , uffhebnn das alt Testament und
-anhäben, ein münusz hatt er ussgeschickt. Sine
-apostel zuͦ preden, die sag do die vōt faden
-S.
-so selbs 4 haben.
-und geschen, die 10000 anderen prederr anzuͦnämen.
-dann so Christus hatt verordnet, dann niemant
-anders. Dan vatter erkent, dann der summa
-und wann es hatt und eroffnet, sag ouch
-niemand eroffnet, dann sinen apostlen die
-er hatt ussgespann zuͦ preden, das er irem
-durch den gepist hatt eroffnet. Das er inn
-aber eroffnet hatt, ist in der schrifft verjehett,
-ain eich. Egenan gesin dem kurtz getten.
-Dem juden, mit argemuß dem herren, minem
-dorhät, dem benuͤfften, aber der kaiser gottsg
+ouch an in uns sin gottlich liecht, uff das wir
+erkennid sinem weg, amen, so nun die
+vierd schlußred lutet, das der lib und das
+bluͦt Christi wesenlich und liplich in dem
+brot der dancksagung w empfangen werdind
+moge mit Biblischer schrifft nitt betracht werden
+dargegen nun ich und min mitthafften soͤliches
+der schrifft nitt entgegen sonder mitt gsundem
+verstand der schrifft wol moͤge bibracht werden.
+Diewil und unser heiland Christus die ding
+so er uff dem ertrich hatt gelert und tha tan
+welichem der himelsch vatter zuͦgnuͦß gegeben hatt,
+Matt. 17 Das ist min geliebter sun, an dem
+ich mir hab wolgevallen den hoͤrend, Alß er
+hatt wellen uffheben das alt Testament und
+anhaͤben, ein nuͤheß hatt er ußgschickt sine
+apostel zuͦ predien, Die ding so si ghört haben
+und gesechen, Jo: 1
+keine
+kene anderen prederr anzuͦnämen.
+Dann so Christus hatt verordnet, Dann niemant
+anders Den vatter erkent Dann der sun,
+und wem ers hatt und eroffnet, hats ouch
+niemant eroffnet Dann sinen apostlen Die
+er hatt ußgesant zuͦ predien, Das er inen
+durch den geist hatt eroffnett. Das er inen
+aber eroffnet hatt, ist in der schrifft verassett,
+namlich Christum Iesum dem krützgetten,
+Den Juͤden ein ergenuß den heiden ein
+dorheit, Den beruͤfften aber die krafft gottes

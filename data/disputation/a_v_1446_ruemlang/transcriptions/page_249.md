@@ -8,8 +8,7 @@ ist, es ist ouch wider unsern uralten erlernetten
 glouben, der da spricht er ist uffgfaren zuͦn
 himmlen, sitzt zuͦ der gerechten deß vatters. Ist künfftig
 zuͦ richten die läbendig und todten, wie wir das klarlich
-hend Actorum 1. Viri galilei unnd Matth. 24 &
-25.
+hend Actorum 1. Viri galilei unnd Matth. 24 & 25.
 Vss dem allem folgen das dise wort nemend
 hin und essend, das ist min lieb, deßglichen ouch
 vom trinckgeschier ein andern verstend muͤsend han

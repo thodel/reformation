@@ -1,40 +1,44 @@
 # Seite 251
 
-so nu aber, wie von Christi sin durch
-gloubend, namlich Albrechtike unnd
-warheit, dann der wort des herren
-Diewyl dann er uns verheisen
-hatt damitt und schrifft die andere
-schrifft erklären, so hat er gesagt das brot
-S.
-des ich wurd geben ist mein fleisch
-welches ich geben wird für das leben der
-Söliches alles hat er erstattet
-und nachmal namlich, do er hatt, das brot
-genomen in die hand, hatt darbesagen
-ouch brochen und das geben sinen jungen
-dara gsagt wämmend und essend, als ehe
-min leb. Der glichen genommen den kelch
-Dankgesagt und zuon geben , sagends , trunk-
-und all daruß, das ist min blut des nüwen testaments
-testamen, weliches für vil vergossen will
-so ußzigenung der saind. Nun halt dann
-unser gloub, ungeschwertt, so im Christus
-bevolhen hatt. Söliches gnuͦg werden in sinen
-gedachtnuß. ain ist gewüß, allß das so unnütz
-den menschen bi gott vermeyglich. Matt. 19.
-Rom, 4. iunii 1547.
-ich,
-würgli, der rych spruch, das er vor des ich üch geben werd.
-Weil
-S.
-das lib, das
-tout
-iſt gewüß
-verstand uff den tag, namlich das er uns
+So nun aber, Wir von Christo Iesu ii ding
+gloubend namlich Allmachtikeit unnd
+warheit Dann die wort deß herrn warheit
+sind Jo. 17. Diewil dann er uns verheisen
+hatt damitt und schrifft die sich andere
+schrifft erkleͤre, so hat er gsagt Das brot
+das ich
+üch
+wird gaͤben ist mein fleisch
+weliches ich geben wird für das laͤben der
+Welt, Söliches alleß hatt er erstattett
+Im nachtmol namlich do er hatt, das brot
+genommen in die hand hend, hatt danckgsagt
+ouch brochen und das geben sinen juͤngern
+darbi gsagt Neͤmmend und essend, das ist
+min lib, der glichen genommen den kelch
+danckgesagt und inen gaͣben, sagends, trinck,,
+end all daruß, das ist min bluͦt deß nüwen
+testament, weliches für vil vergossen wirt
+zuͦ verzichung der suͤnd, Wie halt inn
+unser gloub, ungezwifflett so nun Christus
+bevolhen hatt, Soͤliches getuͦn werden in siner
+gedaͤchtnuß, Wie ist gwuͤß alleß das so unmoͤg,,
+lich den mentschen bi gott vermuͤglich. Matt: 19.
+Rom: 4. Luc: 1.
+Zwingli Der erst spruch, Das brot das ich
+üch
+üss geben
+wird,
+werd
+ist min fleisch welchs ich umb das liden der
+ver
+walt
+hingeben wird Jo: 6.
+treit
+te sinen eigenlichen
+verstand uff dem ruͤegg, namlich das er uns
 hie mitt dem wort, brot und mitt dem wort
-miß, nitt järstan gott, das er vnd inn
-von im fleisch leglich welle zuͦ essen geben.
-sonder er verstaͤr, durch das er
-den trost und sicherheit, die uns gott im
-S.
+min fleisch nitt zverstan gitt, das er uns inn
+sin fleisch liplich welle zuͦ essen geben
+Sonder, er verstaͤt das er durch das brot
+den trost, und sicherheit, die uns gott inn
