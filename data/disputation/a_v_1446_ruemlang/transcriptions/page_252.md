@@ -1,64 +1,39 @@
 # Seite 252
 
 S.
-inn geben pflegen, wendh mäthsären tod. Das
-vermerck, man so in sprich, werer fleisch
-das yren, wird umb das laͤben der lehen.
-flaisß. Ich geb gern, hatt die welt libb, des garten
-ersplich gesessen hatt, got hett man gerett, das
-läbendig mach.
-Deß andern punkfylach erkennen, wer das gott
-haben, das in pferster hatt, das er aber uns
-satis
-des fleiss erbuͤt, verheisen hab, deß leig, meister
-Igribus petis, mag, ut scripsit, ut bebraest
-Was daßab des jngener uffzorn, wien kummen
-an
-ouch in der allmenigkheit, den dieß folgen
-mit gott, so mag ich, so ist es ouch, dann
-et monachus. De sententia suę zuo gehept
-und predernn Johansen Kern, si sind
-aber darumb nit vor yedermann herab
-und Johannes. Darzuͦ so tuͦt gott, wörer
-sin eignen wort nitt, es won ouch witer
-nachst
-ein eignen wirt tuͦn, mitt sinem nachbarn
-begegnet, sonder für ein annacker
-Dabi, ouch wir necken, obend das letz
-Wer gott die allmaßikeit und warheit
-zuͦgeben, das sy ouch bi der warheit
-bleyt, die banderwider ist, das her
-heiß und bluͦt gessen werd.
-Hßnach langem minn lieber herren, im
-das es capittel des. Sines verstands
-innhallt anzeigt hatt, namlich vierdte
-schach, was ichs gehept, das er wellt geben
-Anno
-der schloßg, namlich das er
-Das wen ich bei abtheilung , das das
-pitulo Jos̄ von den vſſerdickhen liplicher
-muͤßung nitt soͤlle verstanden werden.
-und
-frecken .
-und
-den
-willige
-und
-wirt
-des
-da
-in
-des
-bey
-sohn .
-Gros
-ſagt
-in
-kirchen
-und
-vium
-wennen .
-und
-jenner
-S.
-wist
+im gibt versichert werden mitt sinem tod, Das
+vermerckt man so er spricht welichs fleisch
+ich geben wird umb das laͤben der welt, sin
+fleisch in tod geben hatt die welt lebaͤndig geacht
+liplichen geessen, hatt gott nienen geredt das es
+laͤbendig macht
+Deß andern punckten halb erkennen wir das gott
+halt das er verheisen hatt, das er aber uns
+das fleisch sins
+suns
+verheisen hab lyblich zeessen
+zu geben, das mag mitt schrifft nitt bibracht
+werden desshalb das argument uffhoͤrt, wir erkennen
+ouch in den allmechtigen sin Aber wir daruß volget
+nitt gott vermag das, so ist es ouch, Dann
+er moͤechte die steine sul zuͦ Heliasen
+und predienden Johansen keren, si sind
+aber darumb nit die predienden Helias
+und Johannes, Darzuͦ so tuͦt gott wider
+sin eigen wort nitt es wirt ouch wider
+sin eigen wort tuͦn, nitt für ein wir
+macht
+benamset, sonder für ein onmacht
+Dabi, ouch wir mercken soͤllend das wie
+wir gott die allmechtikeit und warheit
+zuͦgeben, das er ouch bi der warheit
+blipt, die dan darwider ist, das hie wir
+fleisch und bluͦt geessen werd.
+Pfarrer, Alßnach langem minn lieber herr M Ul.
+das 6 capittel Jois. sines verstands
+innhallt anzeigt hatt, Namlich wie die
+verheisung das Christus verheise das er well geben
+sin flei die fleisch namlich das er
+das wort oder die verheisung, das das ca,,
+pitel Jois. von der usserlichen liplichen
+niesung nitt soͤlle verstanden werden,

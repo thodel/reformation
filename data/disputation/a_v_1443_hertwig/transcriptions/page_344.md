@@ -1,38 +1,38 @@
 # Seite 344
 
 fleisch das
-„fröallchen lyb//
-de Imcl arie enpsangen / und er/
-boren Ist / ir Jst, aberdes lych nanp
-Halb allein / nitt der einug trost der Seel //
+$„fröwllchen lyb//
+de Iunck$ Marie enpfangen / und ge/
+boren Ist / er Jst / aber des lychnams
+Halb allein / nitt der einig trost der Seel //
 So min Cristus gott und mötsch beyde /
-doch fürnaͤnlich nach der gottheyt
-de trost dr Selen Jst / So vermoiken
-wir eigenlich / Ob wir glych dehame
-nachgandewort haͤtten / das hie / brott
-und essen / allein genomon werden
-fur das glouche vnnd ver trinden / dai
-doch gott urch CristumJesum
-ranser bin der / wollifs soch aller
-mgeistlich essen ist / das aber / Cristus
-uirs sollichs / nit sinen eignen worttnn
-lar machtte / So spricht er oben dariff
-ond das brott aiber / das Ich uch geben
-werd / das ist min fleisch / wollher
-fen das Ich gebin wurd / vnb das
-leben der wellt / hie urmerken
-wir / don der Pfarrer / die nachgen
-wortt hatt zu skutschaffegebatt das
-sie Iiuden mitt dem wortte Su
-Ploischs / unn higeben wern nochi
-gros ser zyfell gefert werd dar
-vor uestan z hatten / was er
-urch brott murdte / So a aber
-Jetz dasselb bret si fleisch naͤmp
-werde ndillttiger weder wer/
-unurnn ull, wie nan
-uns der Sir fleisch zwessen gebe
-Aliso speicht d Jesus z Im
-warlich werlich / sin Ich uch, Es
-he dan der ber essi das flrist
-das Ss des aünschen u
+doch fürnaͤnlich nach der gottheyt /
+der trost dr Selen Jst / So vermerken
+wir eigentlich / Ob wir glych deheine
+nachgende wort haͤtten / das hie / brott
+und essen / allein genommen werden
+fuͤr das glouben vnnd ver truwend / dai in
+doch gott urch Cristum Jesum
+unseren bruͦder wellichs doch alles
+ein geis geistlich essen ist / das aber / Cristus
+uns sollichs / mit sinen eignen wortten
+klar machtte / So spricht er oben daruff /
+und das brott aber / das Ich uch geben
+wird / das ist min fleisch / wellches
+fen das $fleisch / das Ich geben wird / vmb das
+leben der wellt / hie vermerken
+wir / dann der Pfarrer / die nachgenden
+wortt hatt zuͦ kuntschafft geben  das
+die Iuͤden mitt dem wortte Sins
+fleischs / unnd hingeben werden noch in
+grosser zwyfell gefuͤrt werden / dan
+si vor uerstanden hatten / was er
+durch brott meinte / So er aber
+Jetz dasselb brott  sin fleisch naͤmpt
+werden si undulltiger  werden vor/
+und muͤrren allso  wie mag
+uns der Sin fleisch zuͦessen geben
+Allso spricht  nun Jesus zu Inen
+warlich warlich / sag Ich uch / So
+sye dan das ir essend  das fleisch
+des Suns des Mentschen und

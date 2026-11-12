@@ -4,7 +4,7 @@ Acta Der Disputation zu Bern
 Angefangen vff vja Januarii Anno etc.
 XXVIII durch Eberardus Romi,
 ligern vernassett statt.
-schriben zuͦ Thun
+schribern zuͦ Thun
 Anfangs ward miner gnädigen herrn
 von Bern Mandat, demnach die Artickel Sachen
 zuͦ disputieren warend, vnnd zuͦ lettst

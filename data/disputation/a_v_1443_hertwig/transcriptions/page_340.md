@@ -20,7 +20,7 @@ Dann vor denselben wortten / da die
 Iuden murretten  / hatt Cristus sich
 mit vil wortten dargeben / das er
 das laͤben dig brott waͤre / das vom
-hommell  harab komen waͤre / woͤllchs
+himmell  harab komen waͤre / woͤllchs
 vil / ein ander brott waͤre / weder
 das / das Moyses geben haͤtte /
 So nun die Iuden  nitt verstuͤnden

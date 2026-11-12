@@ -1,35 +1,35 @@
 # Seite 342
 
-Denn darn spruchn st / alls härnach vollgt/
-vie redt dan der / das er von
-Harab kemen sye / Antwit inen Jesus /
-und sprach zu Inen / zaucken mitmitt
-eandrgn Es mag nienand zu mir
-koien Es hab den der Vate der
-mich gesandt hatt gezosn / in wöln
-wortt / wir aber naiken / das Cristus
-mit dem werttde Spys oder bretts / llein
-ds vertriwen verstatt / So er Hie / de
-worts bret / gar nitt gederrkt / ven
-gedoackt aber des vertynwes uff
-ich / in eier erluͤttiend red / dren
-ze In kordnn ist nitzt anden
-dan uff Jnn hugelassun sinvnd
-vertruͤwe / lls aber gemerkt wirdr
-nachgi sinem wortt / So er
-ucht nd ch wir ebhr bir
-leb bchalatent dan so 3 der
-koile sye /an letstin zyt / Es
-statt geschribn spricht / in deprcheten /
-n werdn von gott gbert
-/Ein jeder, / der min EEs von vatter
-gehört und gelerutt hatt / derkonp
-d mir / das Ist irder
-dn mich der vatter / zuverstem hatt
-geben der vertruͤwt uff muich litt
-pricht Er / das den vatter Jenand
-gesachen habe ujsgeome der / der
-oon gott ist / der Hatt den Watter
-gesaͤchen / das n menklich mercken
-moge/ das der vordrig vastand der
-wartten wistl / belich sye / So
+Denn daumr spraͤchend si / alls härnach vollgt/
+wie redt dan der / das er vom himmel
+Harab kemen sye / Antwuͧrt inen Jesus /
+und sprach zu Inen / zancken nit mitt
+einandrern  Es mag nienand zuͧ mir
+kommen  Es hab den der Vater der
+mich gesandt hatt gezogen / in wölchen
+wortten / wir aber merken / das Cristus
+mit dem worttde Spysß oder brotts / allein
+ds vertruͤwen verstatt / So er Hie / desß
+worts brot / gar nitt gedenkt / und
+gedenckt aber des vertuwens uff
+sich / in einer erluͤtternden red / denn
+zu Im kommen ist nützit anderes
+dan uff Jnn hingelassen  sin vnd
+vertruͤwe / alls aber gemerkt wird
+in nachgehendem i sinem wortt / So er
+spricht  und ich wil inn ebhr by  bim
+leben behaltent ( dann der  so zuͦ  im
+kommen sye /an letsten zyt / Es
+statt geschrieben spricht  er/ in profeten  /
+sie werden all von gott geleret
+sin /Ein jeder, / der nun von vatter
+gehört und gelerntt hatt / der kommt
+zu mir / das Ist ein jeder
+dem mich der vatter / zuversteen hatt
+geben / der vertruͤwt uff mich / Nitt
+spricht Er / das den vatter Jemand
+gesaͤchen habe ußsgnome der / der
+von gott ist / der Hatt den vatter
+gesaͤchen / das nun menklich mercken
+moge/ das der vordrig versstand den
+wortten Cristi  / eelich sye / So

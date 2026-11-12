@@ -1,37 +1,37 @@
 # Seite 343
 
-elernie wir dasuan der nachkemelen
-Haͤllen wortten, Crifti / warlich
-warlich / sag Ich uͤch / wolcher uff mich
-vertriet / der hatt ewigs lebn , Hie
+erlernen wir das an den nachkommenden
+Haͤllen wortten, sin Cristi / warlich
+warlich / sag Ich uͤch / welcher uff mich
+vertruwt / der hatt ewigs leben / Hie
 sicht ein jeder / das Cristus die
-gitztt Sium / der vordrigen red / uff/
-chuͦtt / vnd spricht wytter / Ich bi das
-brott des lebens / in walchem wir
+gantze Suͧm / der vordrigen red / uff/
+thuͦtt / vnd spricht wytter / Ich bin das
+brott des lebens / in welchem wir
 wol horen / das er nitt redt / von
-eiinem ussen / oder Sacrametlchen
-brott / dan dasselb / Ist nit ein britt
-des lebens / vunnd damitt er / komdlich
-entls/ i / den gege wuͤrff , den si im
-gefha hattur / des brottshalb / das
-Iine in der wuͤste geben was / So erklaͤrt
-noch offen barlicher / vnnd spricht /
-Jst war vwer vartter / hase
-das Mann / iin der wiste geessen
-i sind aber gestirden / diss ist ei
-biet das vnn Himmell konten Jst /
-das wolcher von den esse / mier
-ner sterbe / Hie erfindt sich offacklich
-das Cristus such selbs allein,/ dess /
-halb / ein brett oder spyß genapt hatt /
-das er die eiig nang veckrost
+einem usseren / oder Sacrametlichen
+brott / dan dasselb / Ist nit ein brott
+des lebens / vunnd damitt er / komlich
+entloͤse / den gegenwuͤrff / den si im
+gethanhatten / des brottshalb / das
+Inen in der wuͤste geben was / So erklaͤrt
+er sich noch offenbarlicher / vnnd spricht /
+Es ist war vwer vaͤtter / haben
+das Manna$oder Himmelbrott / in der wuͤste geessen
+si sind aber gestorben / diss ist ein
+brott das vom Himmell kommen ist /
+das welcher von dem esse / nim //
+mer stirbt /  Hie erfindt sich offentlich
+das Cristus sich selbs allein/ desß /
+halb / ein brott oder spyß genampt hatt /
+das er die einig narung vertroͤstung
 und sicherhyyt der Sel Ist / dan
-das brott des Sardare essen / das
-behaltt nitt ewannklich boi leden
-Ich bin das brott des lebens dar
-von liimell harab kommen Ist /
-das Hiewuͤsfen wir wol / dir
-Chistus von Himell harab usß
-Frafft / des Heilge geistes in dem zeb
-oder himelle
-brett
+das brott des Sacraments essen / das
+behaltt nitt ewiglich  bim leben
+Ich bin das brott des lebens das
+vom himmell harab kommen Ist /
+das Hie wuͤssen wir wol / das
+Christus von Himell harab usß
+krafft / des Heilgen geistes in dem Lyb
+$oder himelle
+brott
