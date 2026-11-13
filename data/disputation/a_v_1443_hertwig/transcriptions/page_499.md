@@ -1,8 +1,8 @@
 # Seite 499
 
-snrag nach Suthonns
-nach Jrtittag /
-firrer von Sant Calen
+Uff Sonntag nach Anthoni
+nach Mittag
+Pfarrer von Sant Gallen
 och ud wolgelertten / fursichttig wiygst
 gnaͤdigen herrs und Crister liche brede
 wie ir hie verhat sind / dan br/

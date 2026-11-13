@@ -1,23 +1,22 @@
 # Seite 253
 
-gestand ich, das es nitt dann so esser
-an disem orn, fürglouben solte, verstanden
-wirtz, würtde gar eum underlassen
-stillstand , der spruch der da wir
-Esse von dem brot, mag allda essen
-ghonbe nitt verstanden werden, das aber
-da der verheiſung uff die inſatzung deß
-nach als thun mitt begriffen oder verheissung
-sind die wort hall und cler. Das doch
-So er am nachtmahl hatt wollen zu seyn und
-anſtattnen hott er verheiſen , in dem so
-en sagt, das brot das och üch geben wird, der
-das iſt nun fleißh .
-Kunig
-aber er vermeint, der wort land yetz ab
-Plussß ist nitt nütz.
-der her
-das bitt, das ich wers geben, da wort verstanden,
+gestand ich im das nitt Dann so essen
+an disem ort für glouben soͤlte, verstanden
+werden, wurde gar ein unvolkomnen ver,,
+stand fürtragen Der spruch der da wirt
+essen von disem brot, mag allda essen für
+glouben nitt verstanden werden, Das aber
+da die verheisung uff die insatzung dess
+nachtals Christi nitt begriffen oder verheisen sie
+sind die wort haͤll und clar, Das das
+so er am nachtal hatt wollen insetzen und
+erstatten, hatt er verheisen, in dem so
+er sagt das brot das ich üch geben wirt, Das
+das ist min fleisch
+unnutz
+aber er vermeint die wort sind nutz ab
+fleisch ist nitt nütz, In disem spruch
+Das brot das ich wird geben, da wort verstanden,
 namlich deß ayss verheisung uff das
 S.
 nachmahl thuen , das ander wort aber dabo
