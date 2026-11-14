@@ -8,7 +8,7 @@
       345
     ]
   },
-  "alignment_score": 0.2422,
+  "alignment_score": 0.2595,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,7 +27,7 @@
     "matched": 7,
     "only_a": 5,
     "only_b": 4,
-    "similarity": 0.4287,
+    "similarity": 0.4491,
     "pairs": [
       {
         "op": "only_a",
@@ -74,7 +74,7 @@
       {
         "op": "match",
         "a": "Wel=\ncher min fleyſch iſſet/vnd min bluͤt trincket/der hat das\newig laͤben: den wird ich im laͤben behalten zur lerſte zyt:",
-        "b": "der Hatt\ndas ewig leben / den wuͤrd Ich £ im leben behaltten\nzur lesten zytt / dann wir eygenlichen\nwuͤssen /",
+        "b": "der Hatt\ndas ewig leben / den wuͤrd Ich £ im leben behaltten\nzur lesten zytt / dann wir eygenlich\nwuͤssen /",
         "similarity": 0.3043
       },
       {
@@ -86,7 +86,7 @@
       {
         "op": "match",
         "a": "gibt das ewig laͤben: oder aber es wurde das heyl der mẽ=\nſchen/widerumb an vſſerlichen lyblichen dingen ſtan/vñ\nnit allein an der luteren gnad Gottes.",
-        "b": "glouͤben\ndas gibt ewigs leben / oder aber es\nwuͤrde das heil der möntschen\nwiderumb / an usserlichen lyblichen /",
+        "b": "glouͤben\ndas gibt ewigs leben / oder aber es\nwuͤrde das heil der moͤntschen\nwiderumb / an usserlichen lyblichen /",
         "similarity": 0.4167
       },
       {
@@ -98,40 +98,40 @@
       {
         "op": "match",
         "a": "Es wurdent ouch\nzwen waͤg zur ſaͤligkeit ſin/einer durch den tod Chriſti/ der ander durch das lyblich eſſen ſins fleiſchs vnd bluͤts/",
-        "b": "Einer durch\nden tod Christi / der ander / durch\ndas lyblich essen / Sins fleischs\nund bluͤtts im Sacrament / Sum tm\nhaͤtten die Appostell /",
-        "similarity": 0.6
+        "b": "Einer durch\nden tod Christi / der ander / durch\ndas lyblich essen / Sins fleischs\nund bluͤtts im Sacrament / zuͤm 3 ten\nhaͤtten die Appostell /",
+        "similarity": 0.5769
       },
       {
         "op": "match",
         "a": "im Sacramẽt. Zum dritten/ſo hettẽ die Apoſtel/ſampt\nder Kilchen/die mit jm das Nachtmal begangẽ/in dem\nSacramentlichen eſſen/die erwaͤrbung des ewigen laͤbẽs\nſchon erlanget/vnnd waͤre der tod Chriſti an jnen uͤber=\nfluͤſſig geweſenn.",
-        "b": "Sampt\nder kilchen die mit gydas nacht,\nnal begangen / Idem Satrament\nliches essen / die erwaͤrsung des ewigen\nlebers / schon erlaott /",
-        "similarity": 0.3385
+        "b": "Sampt\nder kilchen die mit ihm das nacht // mal begangen / In dem Sacrament\nlichen essen / die erwaͤrsung des ewigen\nleberns /",
+        "similarity": 0.4
       },
       {
         "op": "match",
         "a": "Das aber wyter volgt in den woꝛten\nChriſti: Min fleiſch iſt warlich ein ſpyß/vnnd min bluͤt\nwarlich",
-        "b": "an wäre de\ntrd Cristi al Inen ubefluͤsse / gewaͤsen / das aberwyttr volgt /in\nen worttr Crristi mun fleisch\nIst warlich ein spyß /",
-        "similarity": 0.3636
+        "b": "schon erlangett / und waͤre der\ntod Cristi al Inen uberfluͤssig/ gewaͤsen / das aber wyttr volgt /in\nden wortten Cristi min fleisch\nIst warlich ein spyß /",
+        "similarity": 0.4681
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "unn wiablit\nwarlich ein traik / Sol glych alls\nwerig uff das Sanametesse gezög\nwerdn als ouch die vordngnwort\ndan vonstdan Havrr voilget\n$nitt\nhaben\nHie ver //",
+        "b": "unn min bluͦt\nwarlich ein trank / Sol glych alls\nwenig uff das Sanamet\"liche\"essen gezogen\nwerden als ouch die vorderen wort\ndan von stund an hernach  volget\n$nitt\nhaben\nHie ver //",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "wuͤndrett\nmich / £ im leben zur lesten zytt, dann wir eyginlich\nbehiltter",
+        "b": "wuͤndrett\nmich / £ im leben zur lesten zytt, dann wir eygenlich\nbehalten",
         "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.4132,
+    "similarity": 0.4429,
     "words": {
       "a": 336,
-      "b": 240
+      "b": 251
     },
     "segments": [
       {
@@ -291,8 +291,18 @@
       },
       {
         "op": "equal",
-        "a": "Dann wir eygenlichen wu",
-        "b": "dann wir eygenlichen wu"
+        "a": "Dann wir",
+        "b": "dann wir"
+      },
+      {
+        "op": "replace",
+        "a": "eygenlichen",
+        "b": "eygenlich"
+      },
+      {
+        "op": "equal",
+        "a": "wu",
+        "b": "wu"
       },
       {
         "op": "replace",
@@ -477,7 +487,7 @@
       {
         "op": "replace",
         "a": "Sacrame t Zum dritten ſo hettẽ",
-        "b": "Sacrament Sum tm ha tten"
+        "b": "Sacrament zu m 3 ten ha tten"
       },
       {
         "op": "equal",
@@ -496,8 +506,28 @@
       },
       {
         "op": "replace",
-        "a": "jm das Nachtmal begange in dem Sacramentlichen",
-        "b": "gydas nacht nal begangen Idem Satrament liches"
+        "a": "jm",
+        "b": "ihm"
+      },
+      {
+        "op": "equal",
+        "a": "das",
+        "b": "das"
+      },
+      {
+        "op": "replace",
+        "a": "Nachtmal begange",
+        "b": "nacht mal begangen"
+      },
+      {
+        "op": "equal",
+        "a": "in dem",
+        "b": "In dem"
+      },
+      {
+        "op": "replace",
+        "a": "Sacramentlichen",
+        "b": "Sacrament lichen"
       },
       {
         "op": "equal",
@@ -517,7 +547,7 @@
       {
         "op": "replace",
         "a": "la bẽs",
-        "b": "lebers"
+        "b": "leberns"
       },
       {
         "op": "equal",
@@ -527,17 +557,17 @@
       {
         "op": "replace",
         "a": "erlanget vnnd",
-        "b": "erlaott an"
+        "b": "erlangett und"
       },
       {
         "op": "equal",
-        "a": "wa re",
-        "b": "wa re"
+        "a": "wa re der tod",
+        "b": "wa re der tod"
       },
       {
         "op": "replace",
-        "a": "der tod Chriſti an",
-        "b": "de trd Cristi al"
+        "a": "Chriſti an",
+        "b": "Cristi al"
       },
       {
         "op": "equal",
@@ -546,51 +576,61 @@
       },
       {
         "op": "replace",
-        "a": "u ber flu ſſig geweſenn",
-        "b": "ubeflu sse gewa sen"
+        "a": "u ber flu",
+        "b": "uberflu"
       },
       {
         "op": "equal",
-        "a": "Das",
-        "b": "das"
+        "a": "ſſig",
+        "b": "ssig"
       },
       {
         "op": "replace",
-        "a": "aber wyter",
-        "b": "aberwyttr"
+        "a": "geweſenn",
+        "b": "gewa sen"
       },
       {
         "op": "equal",
-        "a": "volgt in",
-        "b": "volgt in"
+        "a": "Das aber",
+        "b": "das aber"
       },
       {
         "op": "replace",
-        "a": "den woꝛten Chriſti Min",
-        "b": "en worttr Crristi mun"
+        "a": "wyter",
+        "b": "wyttr"
       },
       {
         "op": "equal",
-        "a": "fleiſch iſt warlich ein ſpyß",
-        "b": "fleisch Ist warlich ein spyß"
+        "a": "volgt in den",
+        "b": "volgt in den"
       },
       {
         "op": "replace",
-        "a": "vnnd min blu t",
-        "b": "unn wiablit"
+        "a": "woꝛten Chriſti",
+        "b": "wortten Cristi"
       },
       {
         "op": "equal",
-        "a": "warlich",
-        "b": "warlich"
+        "a": "Min fleiſch iſt warlich ein ſpyß",
+        "b": "min fleisch Ist warlich ein spyß"
+      },
+      {
+        "op": "replace",
+        "a": "vnnd",
+        "b": "unn"
+      },
+      {
+        "op": "equal",
+        "a": "min blu t warlich",
+        "b": "min blu t warlich"
       },
       {
         "op": "insert",
         "a": "",
-        "b": "ein traik Sol glych alls werig uff das Sanametesse gezo g werdn als ouch die vordngnwort dan vonstdan Havrr voilget nitt haben Hie ver wu ndrett mich im leben zur lesten zytt dann wir eyginlich behiltter"
+        "b": "ein trank Sol glych alls wenig uff das Sanamet liche essen gezogen werden als ouch die vorderen wort dan von stund an hernach volget nitt haben Hie ver wu ndrett mich im leben zur lesten zytt dann wir eygenlich behalten"
       }
     ],
-    "ops": 46,
+    "ops": 50,
     "truncated": false
   }
 }
