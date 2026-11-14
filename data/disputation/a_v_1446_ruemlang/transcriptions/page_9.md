@@ -1,16 +1,17 @@
 # Seite 9
 
 Burgermeister von Watt von Sant Gallen In Anfang der
-Disputacion in namen der presidenten Erwerdig hoch und wol
-gelert, gestreng Edel veß fromm fürsichtig vwyß gnädig
-und gunstig min herrn lieb und guͦt frund, Clertwil wir
-uffhüttigern tag zuͦ Ingang der loblichen und christenlichen
-Disputation, so nim gädig herrn Schultheis und dehär Cliser
-loblichen statt Bern ussgeschriben hand Anfang in dem
+Disputacion in namen der presidenten Erwerdig hoch vnd wol
+gelert, gestreng Edel vß fromm fürsichtig vwyß gnädig
+vnd gunstig min herrn lieb und guͦt frund, Diewil wir
+vffhüttigem tag zuͦ Ingang der loblichen vnd Christenlichen
+Disputation, so nun gnädig herrn Schultheis und dehär Christen
+loblichen statt Bern vssgeschriben hand Anfang in dem
 namen gotz zetuͦnd versamlett sind So ist fürnemlich miner
 herrn mitt presidenten fruntlich beger an all frömbd und hernisch
-das Si umb der er gottes willen und liebi sinn es worten (zu
-welichem billich alle gutmütige herrnn geneigt sin söllend)
-Sich fridlich früntlich und mitt ernstlichen vranercken, harp
-run und schicken wellend, zu Ansechen das der handel
-nitt schimpflich, sonder groß und vnserar selten
+das Si umb der Er gottes willen vnd liebi sinn es worten (zuͤ
+welichem billich alle gutmütige herzen geneigt sin söllend)
+Sich fridlich früntlich vnd mitt ernstlichen vermercken, harzuͤ
+tuͤn und schicken wellend, zu Ansechen das der handel
+nitt schimpflich, sonder groß vnd vnserer selen
+heil betreffend ist, sonderlich aber begerend um hern

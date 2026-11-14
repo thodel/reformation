@@ -1,38 +1,38 @@
 # Seite 346
 
-der vorr
-richten
-wlle niu flissset / un min blittt
-trinkt / derblybt t mir / vn Ich In Iim
-Hie saͤchn wir eygelidas er dunt
-in flesch sstnntzit anndecs zuͤverster
-hibt, weder uff in veetruwt sin / vnd
-versichrott , der abe den tod in fleist /
-für uns gelittn hatt / Es macht eih
-ntzit uns in gott sin / vn got
+$der verr //
+richtung
+wellcher nun min fleisch isst / und min bluͦtt
+trinkt / der blybt in mir / vnd Ich In Iim/
+Hie saͤchen wir eygentlich / das er durch
+sin fleisch essen nutzit annderes zuͦverstan
+gibt, weder uff in vertruwt sin / vnd
+versicherett / der aber den tod in fleisch /
+für uns gelitten hatt / Es macht auch
+nuͤtzit uns in gott sin / vn got in
 uns sin / weder den einig geist gotts
-on den der hen allso
-redt / ott Jst die liebe / verstand Hie
-liebe / fur de volkonen stad vnd
-verrichttug des nutscchlicheg enitts
-In gott/ Wöllcher mien in der liebe
-belibt / de belibt Jr got / uott
-belibt Hie sach wir
-das doe gontze
-matschlichen gemüttz gegen get/ natzit
-anders Jst / weder en vereingnig
-des gottlichn graͤsts mitt unnsen /
-Surch den vesten gloube / den win
-gott hab denn so blebenn
-wein i get ugutt in in /
-Es vollt annh wytter gly
-wie mich nen lilbidig vat gesardt
-hatt alls ouͤrfiselbr leb silh
-vendes vatters willr / Hir P
-wnssenbar / das Ccristus sierien
-lychin silbs nitt geesser hart /
-er aber unsen essen / und ge
-So esanen sinen ssenn und geforsa //
-me verglucht / So verstan wir
-offonklich / das er uns hhie / deher
-wblich h in fungibt / darg dir
+von dem der heylig Joh allso
+redt /Gott Jst die liebe / verstand Hie
+liebe / fur den volkommen  stand vnd
+verrichttug des moͤntschlichen Gemuͤtts
+In gott/ Wöllcher nun in der liebe
+belibt / der belibt Jn got / und Gott
+belibt in ihm //Hie saͤhend wir
+das die gantze sum $ des
+montschlichen gemuͤtts gegen gott / nutzit
+anders Jst / weder ein vereinigung
+des goͤttlichen geists  mitt unnsen /
+durch den vesten glouben / den wir
+zu gott haben / unnd denn so blibenn
+wir in gott  und gott in uns /
+So volget auch wytter glych
+wie mich mein lebendiger  vat gesandt
+hatt allso auch  selber  leb ich 898
+von des  vatters willen / Hier ist
+wissenbar  / das Christus sinen
+lychnam  selbs nitt geessen hatt /
+er aber unser essen / und ge //
+horsamen  sinen essenn und gehorsa //
+men verglycht / So verstanden wir
+offentlich / das er uns hie / dhein
+lyblich essen fuͤrgibt / durch das
