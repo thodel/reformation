@@ -1,6 +1,6 @@
 # Seite 13
 
-Namen der kilche / sich beschirmen habend / wider
+Namen der kilchn / sich beschirmen habend / wider
 das häll gotz worn / fürwendend die possessz und gwerd
 der kilchenn / Dise und deglischen, so täglich in gemeiner
 red fund / Hand uns bewgt das wa mitt diser
