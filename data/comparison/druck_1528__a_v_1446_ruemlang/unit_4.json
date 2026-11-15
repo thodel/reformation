@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 8,
-    "matched": 0,
-    "only_a": 5,
-    "only_b": 3,
-    "similarity": 0.0,
+    "units": 7,
+    "matched": 1,
+    "only_a": 4,
+    "only_b": 2,
+    "similarity": 0.3148,
     "pairs": [
       {
         "op": "only_a",
@@ -42,10 +42,10 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "in ware erkatnuß vnsers edle\nsten Herren Jesus Christi des\ngecrützigoten/Amen. fürgeliebten/frommen\nChristen/der Schlußreden/ ſo in gegenwirtiger zweyung/von vns bericht/vn rech=\nnung zu geben/wir erfordret sind/voz einer fölichen lob\nlichen versamlung.",
-        "b": null,
-        "similarity": 0.0
+        "b": "vom porwesen\nBertoldus Haller\nFundament der Ersten\nSchlußred. Gnad vnd frid von gott dem himelschen vatter\nDer well vns senden sin liecht vnd warheit in vnser\nherren, damitt wir all ingefürt werden, in waro erkant\nnuß unsers edlisten herrn Jesu Christi deß gekrutzten getten amen\nEwigeliebten Frommen Christen der Schlußreden so in gegenwärtigen\nZweiung von uns bericht und rechnung ze geben, wir eruordert\nsind vor einer Sölichen Loblichen versammlung vß.",
+        "similarity": 0.3148
       },
       {
         "op": "only_a",
@@ -62,34 +62,28 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "vom porwesen\nBertalens Haller\nFundament der Ersten\nSchlußred. Quod vnd frid von gott dem himelschen vatter\nDer well uns senden sin liecht vnd warheit in vnser\nherren, damitt wir all ingefürt werden, in waro erkant\nnuß unsers edlisten herrn Jesu Christi deß gekrutten getten ainem\nFurgeliebten Frochten Christen der Schlußreden so in gegenwirnger\nweinung von uns bericht und rechnung ze geben, wir ervordert\nsind vor einer Sölichen Loblichen versammlungen ß.",
+        "b": "- Des Erst\nDie heilig Christenlich kilch etc. Söliche also üwer liebi fürgetragen, hett uns verursachett\nzum ersten das das gemein volck zuͦ merem teil nitt verstat\nwas der namen kilch uff im trag, zum andernn\ndas si sich Ira so sömlicher unwüssenheit deß volks nitt recht gebruchen\nDie kilchen in Mancherlei kilchen geteelt habend yetzund ein\nAllgemeine dann ein versammlung die dis kilchen anzeigt\nrepresentiert und verwissen vermissen und zuͦ Sundaren personenen\nder Cardinälen, bischoffen und bäpsten, getrungen habenden\nZum Dritten Das durch so in liebs fürgeben vel irrsal\ngebott und verbotten Ouch falsch gotzdienst Sich Ingerissen\nhabenn, und das zuͦ grossem, nachteel, gottlicher warhart\nChristenlichen gloubens und liebi.",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "Des Erst\nDie heilig Christenlich kilch etc. Söliche also üwer liebi fürgetragen, hett uns verursachett\nzum ersten das das gemein volck zuͦ merem teil nitt verstat\nwas der namen kilch uff im trag, zum andernn\ndas sich sie so sömlicher unwüssenheit deß vollens nitt recht gebruchter\nDie kilchen in Mancherlei kilchen geteelt habend yetzund ein\nAllgemeine dann ein versammlung die dis kilchen anzeigt\nrepresentiert und verwissen verwissen und zuͦ Sundaren personenen\nder Cardinälen, bischoffen und bäpsten, getrungen habenden\nZum Dritten Das durch so in lichs furgeben vel irrsal\ngebott und verbotten Ouch falsch gotzdienst Sich Ingerissen\nhabenn, und das zuͦ grossem, nachteel, gottlicher warhart\nChristenlichen gloubens und liebi.",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "Zum vierden\nDas si under dem schin Zitlich guͦtig ja die besten\nmen zuͦ zogen, weliches doch geduldett werden möcht Sonder\nauch sich vermessenn uͤber die selen und conscientz der mentßhn\nZeberschen\nZum fünfften das vil vnder dem schin Tettel vnd",
+        "b": "Zum vierden\nDas si under dem schin Zitlich guͦtig ja die besten\nInen zuͦ zogen, weliches doch geduldett werden möcht Sonder\nauch sich vermessenn vͧber die selen vnd conscientz der menschn\nZeherschen\nZum fünfften das vil vnder dem schin Tettel vnd",
         "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.3231,
+    "similarity": 0.3274,
     "words": {
       "a": 169,
-      "b": 221
+      "b": 222
     },
     "segments": [
       {
         "op": "replace",
         "a": "Die erste Schlufzred vnd",
-        "b": "vom porwesen Bertalens Haller Fundament"
+        "b": "vom porwesen Bertoldus Haller Fundament"
       },
       {
         "op": "equal",
@@ -99,7 +93,7 @@
       {
         "op": "replace",
         "a": "selben gründ hat Berchtoldus Baller predicant zu Bernn eroffnet Die heylig Chriftenlich kilch deren einig houpe Chriftus ift off dem wort Gots ge bom im selben blybcfy vnd hozecnic die ftium eines frombden Nad",
-        "b": "Ersten Schlußred Quod"
+        "b": "Ersten Schlußred Gnad"
       },
       {
         "op": "equal",
@@ -129,7 +123,7 @@
       {
         "op": "replace",
         "a": "will ons",
-        "b": "well uns"
+        "b": "well vns"
       },
       {
         "op": "equal",
@@ -188,28 +182,28 @@
       },
       {
         "op": "replace",
-        "a": "des gecrützigoten Amen",
-        "b": "deß gekrutten getten ainem"
+        "a": "des gecrützigoten",
+        "b": "deß gekrutzten getten"
       },
       {
         "op": "equal",
-        "a": "fürgeliebten",
-        "b": "Furgeliebten"
+        "a": "Amen",
+        "b": "amen"
       },
       {
         "op": "replace",
-        "a": "frommen",
-        "b": "Frochten"
+        "a": "fürgeliebten",
+        "b": "Ewigeliebten"
       },
       {
         "op": "equal",
-        "a": "Christen der Schlußreden ſo in",
-        "b": "Christen der Schlußreden so in"
+        "a": "frommen Christen der Schlußreden ſo in",
+        "b": "Frommen Christen der Schlußreden so in"
       },
       {
         "op": "replace",
         "a": "gegenwirtiger zweyung",
-        "b": "gegenwirnger weinung"
+        "b": "gegenwärtigen Zweiung"
       },
       {
         "op": "equal",
@@ -229,7 +223,7 @@
       {
         "op": "replace",
         "a": "erfordret",
-        "b": "ervordert"
+        "b": "eruordert"
       },
       {
         "op": "equal",
@@ -249,7 +243,7 @@
       {
         "op": "replace",
         "a": "fölichen lob lichen versamlung Ist die",
-        "b": "Sölichen Loblichen versammlungen ß Des"
+        "b": "Sölichen Loblichen versammlung vß Des"
       },
       {
         "op": "equal",
@@ -333,13 +327,23 @@
       },
       {
         "op": "equal",
-        "a": "das sich",
-        "b": "das sich"
+        "a": "das",
+        "b": "das"
       },
       {
         "op": "insert",
         "a": "",
-        "b": "sie so"
+        "b": "si"
+      },
+      {
+        "op": "equal",
+        "a": "sich",
+        "b": "sich"
+      },
+      {
+        "op": "insert",
+        "a": "",
+        "b": "Ira so"
       },
       {
         "op": "equal",
@@ -349,7 +353,7 @@
       {
         "op": "replace",
         "a": "vnwissen heyt des volcks nit",
-        "b": "unwüssenheit deß vollens nitt"
+        "b": "unwüssenheit deß volks nitt"
       },
       {
         "op": "equal",
@@ -359,7 +363,7 @@
       {
         "op": "replace",
         "a": "gebraucht",
-        "b": "gebruchter"
+        "b": "gebruchen"
       },
       {
         "op": "equal",
@@ -419,7 +423,7 @@
       {
         "op": "replace",
         "a": "wyst",
-        "b": "verwissen verwissen"
+        "b": "verwissen vermissen"
       },
       {
         "op": "equal",
@@ -429,10 +433,10 @@
       {
         "op": "replace",
         "a": "z",
-        "b": "zu Sundaren personenen der Cardinälen bischoffen und bäpsten getrungen habenden Zum Dritten Das durch so in lichs furgeben vel irrsal gebott und verbotten Ouch falsch gotzdienst Sich Ingerissen habenn und das zu grossem nachteel gottlicher warhart Christenlichen gloubens und liebi Zum vierden Das si under dem schin Zitlich gu tig ja die besten men zu zogen weliches doch geduldett werden möcht Sonder auch sich vermessenn u ber die selen und conscientz der mentßhn Zeberschen Zum fünfften das vil vnder dem schin Tettel vnd"
+        "b": "zu Sundaren personenen der Cardinälen bischoffen und bäpsten getrungen habenden Zum Dritten Das durch so in liebs fürgeben vel irrsal gebott und verbotten Ouch falsch gotzdienst Sich Ingerissen habenn und das zu grossem nachteel gottlicher warhart Christenlichen gloubens und liebi Zum vierden Das si under dem schin Zitlich gu tig ja die besten Inen zu zogen weliches doch geduldett werden möcht Sonder auch sich vermessenn v ber die selen vnd conscientz der menschn Zeherschen Zum fünfften das vil vnder dem schin Tettel vnd"
       }
     ],
-    "ops": 35,
+    "ops": 36,
     "truncated": false
   }
 }
