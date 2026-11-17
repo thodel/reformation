@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 10,
+    "units": 9,
     "matched": 3,
     "only_a": 5,
-    "only_b": 2,
-    "similarity": 0.4772,
+    "only_b": 1,
+    "similarity": 0.4727,
     "pairs": [
       {
         "op": "only_a",
@@ -74,28 +74,22 @@
       {
         "op": "match",
         "a": "So nun der nachgēd punct ouch\nvom pfarrer erkent wirt/das er lute von dē fleiſch Chri\nſti in tod hingeben/vñ diß wörtli (welches fleyſch) dar=\nzwüſchen ſtande/anzeygt das fleych/dz im vordern teyl\nſtatt/ſo volgt das/wie der ander punct von dē getödtē\nlichnam Chriſti lutet/dz ouch der erſt den verſtand hab/",
-        "b": "Hie siehet man das\nIn den andern puncken, als von dem fleisch\ngerett gwert von dem oug in eder erst getreist,\nso nu der nachgender punkt auch von\npfarrer erkennen wirt, das er eine von\ndem fleisch schreibt im rodschen gab, und diß\nwortli welches fleisch dachwüstheit stands\nansagen, das fleisch, das ist vortan teil pars, so\nvolgt, das, wie der ander punckt, von\ndem gelychlichen schirm lüten, das ouch\nder erst den verstand hab, das der opigler\ner vnd geben, werde ouch zum fleisch\ngedöt jess ist ouch ubt gruntlich\nsunder noch dan pfarrer, das sie zeuͦven\nstat, das sich wirds geben.",
-        "similarity": 0.323
+        "b": "Hie siehet man das\nIn den andern puncken, als von dem fleisch\ngerett gwert von dem oug in eder erst getreist,\nso nu der nachgender punkt auch von\npfarrer erkennen wirt, das er eine von\ndem fleisch schreibt im rodschen gab, und diß\nwortli welches fleisch dachwüstheit stands\nansagen, das fleisch, das ist vortan teil pars, so\nvolgt, das, wie der ander punckt, von\ndem gelychlichen schirm lüten, das ouch\nder erst den verstand hab, das der opigler\ner vnd geben, werde ouch zum fleisch\ngedöt jess ist ouch ubt gruntlich\nsunder noch dan pfarrer, das sie zeuͦven\nstat, das sich wirds geben. Dann es\nim anrichliche erpottichen ist. propositio",
+        "similarity": 0.3095
       },
       {
         "op": "only_a",
         "a": "das die ſpyß/die er vns gebē werde/ſye ſin fleyſch getödt\nSo",
         "b": null,
         "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "Dann es\nim anrichliche erpottichen ist. S. S. S. So\ndes\ng. deren\nS. propositis\net verbi",
-        "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.3765,
+    "similarity": 0.38,
     "words": {
       "a": 290,
-      "b": 220
+      "b": 210
     },
     "segments": [
       {
@@ -540,21 +534,11 @@
       },
       {
         "op": "replace",
-        "a": "ſye ſin fleyſch getödt",
-        "b": "ouch zum fleisch gedöt jess ist ouch ubt gruntlich sunder noch dan pfarrer das sie zeu ven stat das sich wirds geben Dann es im anrichliche erpottichen ist S S S"
-      },
-      {
-        "op": "equal",
-        "a": "So",
-        "b": "So"
-      },
-      {
-        "op": "insert",
-        "a": "",
-        "b": "des g deren S propositis et verbi"
+        "a": "ſye ſin fleyſch getödt So",
+        "b": "ouch zum fleisch gedöt jess ist ouch ubt gruntlich sunder noch dan pfarrer das sie zeu ven stat das sich wirds geben Dann es im anrichliche erpottichen ist propositio"
       }
     ],
-    "ops": 46,
+    "ops": 45,
     "truncated": false
   }
 }

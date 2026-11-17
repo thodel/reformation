@@ -8,7 +8,7 @@
       259
     ]
   },
-  "alignment_score": 0.1673,
+  "alignment_score": 0.1633,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -27,7 +27,7 @@
     "matched": 2,
     "only_a": 8,
     "only_b": 3,
-    "similarity": 0.3327,
+    "similarity": 0.3311,
     "pairs": [
       {
         "op": "only_a",
@@ -74,7 +74,7 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "kommen war, weliches vil ein ander\nbrot , wabe das , das woßes geben hette . Do nun der duͦch mitt pfruͦnden, wer er\ndas meinte, das ist, wie er ein brot oder\nsper wolt, so ding er sich mit dem\nworten vff und spreche , das ipe aber den\ndatur\nwill des der mich gesandt hat\nvatters das alleß das er in giben\nOch davon min verliere, sonder daß\nbim läben behalte , den der letſten Zinn ,\nden dienst sich hern̄ aber lären uff, ✳ was er\nmeng muͦt dan gäben, aber im der\nvatter, wage gebe, und sprich also, das in\nder will, das er mich geseit habt\ndas ein jeder der gen der sin erkännt.",
+        "b": "kommen war, weliches vil ein ander\nbrot , wabe das , das woßes geben hette . Do nun der duͦch mitt pfruͦnden, wer er\ndas meinte, das ist, wie er ein brot oder\nsper wolt, so ding er sich mit dem\nworten vff und spreche , das ipe aber den\nwill des datur der mich gesandt hat\nvatters das alleß das er in giben\nOch davon min verliere, sonder daß\nbim läben behalte , den der letſten Zinn ,\nden dienst sich hern̄ aber lären uff, ✳ was er\nmeng muͦt dan gäben, aber im der\nvatter, wage gebe, und sprich also, das in\nder will, das er mich geseit habt\ndas ein jeder der gen der sin erkännt.",
         "similarity": 0.0
       },
       {
@@ -92,14 +92,14 @@
       {
         "op": "match",
         "a": "ouch\nſo thůr macht/das wār ſich an jnn lieſſe/der hette ewigs\nlåben/habend die Juden gemurret/nit allein das er ſich\nein brot macht/ſonders ouch das er ſich ein troſt macht.",
-        "b": "Haben die Juden gemürtett\nnitt alltum, das er sich ein brotmacher\nsonder ouch, das er jetz und trostmacher\nDas erfinden , sich an den nachgaben wegen\nmir rüchtig\ndas so stat.",
-        "similarity": 0.3125
+        "b": "Haben die Juden gemürtett\nnitt alltum, das er sich ein brotmacher\nsonder ouch, das er jetz und trostmacher\nDas erfinden , sich an den nachgaben wegen\ndas so stat.",
+        "similarity": 0.3226
       },
       {
         "op": "match",
         "a": "Das erfindt ſich an den nachgenden worten/da alſo ſtat: Da murmelten die Juden vmb ſinetwillẽ/das er geredt\nhatt/Jch bin das brot/das vom himmel komen iſt/vnd\nſprachend:",
-        "b": "Do muͦtendt\nZuͦgans. stürt wellen, das er gerett hatt, ich bin\ndas brot, das von crux komen ist",
-        "similarity": 0.3529
+        "b": "Do mir rüchtig muͦtendt Zuͦgans. stürt wellen, das er gerett hatt, ich bin\ndas brot, das von crux komen ist",
+        "similarity": 0.3396
       },
       {
         "op": "only_a",
@@ -110,7 +110,7 @@
     ]
   },
   "fine": {
-    "similarity": 0.2524,
+    "similarity": 0.3365,
     "words": {
       "a": 301,
       "b": 222
@@ -228,18 +228,158 @@
       },
       {
         "op": "replace",
-        "a": "der will des vatters der mich geſandt hat das alles das er mir gibt ich daruon nůgid verliere ſonders das by de låben behalte in der letſten zyt Jetz thůt ſich Christus aber klårer vff was er meine mit dem gebe was jm der vatter gebe zc Vnnd ſpricht alſo Das iſt der",
-        "b": "den datur"
+        "a": "der",
+        "b": "den"
       },
       {
         "op": "equal",
-        "a": "will des der mich geſandt hat",
-        "b": "will des der mich gesandt hat"
+        "a": "will des",
+        "b": "will des"
+      },
+      {
+        "op": "replace",
+        "a": "vatters",
+        "b": "datur"
+      },
+      {
+        "op": "equal",
+        "a": "der mich geſandt hat",
+        "b": "der mich gesandt hat"
       },
       {
         "op": "insert",
         "a": "",
-        "b": "vatters das alleß das er in giben Och davon min verliere sonder daß bim läben behalte den der letſten Zinn den dienst sich hern aber lären uff was er meng mu t dan gäben aber im der vatter wage gebe und sprich also das in der will das er mich geseit habt"
+        "b": "vatters"
+      },
+      {
+        "op": "equal",
+        "a": "das",
+        "b": "das"
+      },
+      {
+        "op": "replace",
+        "a": "alles",
+        "b": "alleß"
+      },
+      {
+        "op": "equal",
+        "a": "das er",
+        "b": "das er"
+      },
+      {
+        "op": "replace",
+        "a": "mir gibt ich daruon nůgid",
+        "b": "in giben Och davon min"
+      },
+      {
+        "op": "equal",
+        "a": "verliere",
+        "b": "verliere"
+      },
+      {
+        "op": "replace",
+        "a": "ſonders das by de",
+        "b": "sonder daß bim"
+      },
+      {
+        "op": "equal",
+        "a": "låben behalte",
+        "b": "läben behalte"
+      },
+      {
+        "op": "replace",
+        "a": "in",
+        "b": "den"
+      },
+      {
+        "op": "equal",
+        "a": "der letſten",
+        "b": "der letſten"
+      },
+      {
+        "op": "replace",
+        "a": "zyt Jetz thůt",
+        "b": "Zinn den dienst"
+      },
+      {
+        "op": "equal",
+        "a": "ſich",
+        "b": "sich"
+      },
+      {
+        "op": "replace",
+        "a": "Christus",
+        "b": "hern"
+      },
+      {
+        "op": "equal",
+        "a": "aber",
+        "b": "aber"
+      },
+      {
+        "op": "replace",
+        "a": "klårer",
+        "b": "lären"
+      },
+      {
+        "op": "equal",
+        "a": "vff was er",
+        "b": "uff was er"
+      },
+      {
+        "op": "replace",
+        "a": "meine mit dem gebe was",
+        "b": "meng mu t dan gäben aber"
+      },
+      {
+        "op": "equal",
+        "a": "jm der vatter",
+        "b": "im der vatter"
+      },
+      {
+        "op": "insert",
+        "a": "",
+        "b": "wage"
+      },
+      {
+        "op": "equal",
+        "a": "gebe",
+        "b": "gebe"
+      },
+      {
+        "op": "replace",
+        "a": "zc Vnnd ſpricht",
+        "b": "und sprich"
+      },
+      {
+        "op": "equal",
+        "a": "alſo Das",
+        "b": "also das"
+      },
+      {
+        "op": "replace",
+        "a": "iſt",
+        "b": "in"
+      },
+      {
+        "op": "equal",
+        "a": "der will",
+        "b": "der will"
+      },
+      {
+        "op": "replace",
+        "a": "des der",
+        "b": "das er"
+      },
+      {
+        "op": "equal",
+        "a": "mich",
+        "b": "mich"
+      },
+      {
+        "op": "replace",
+        "a": "geſandt hat",
+        "b": "geseit habt"
       },
       {
         "op": "equal",
@@ -339,7 +479,7 @@
       {
         "op": "replace",
         "a": "nachgenden worten da alſo",
-        "b": "nachgaben wegen mir rüchtig das so"
+        "b": "nachgaben wegen das so"
       },
       {
         "op": "equal",
@@ -349,7 +489,7 @@
       {
         "op": "replace",
         "a": "Da murmelten die Juden vmb ſinetwille",
-        "b": "Do mu tendt Zu gans stürt wellen"
+        "b": "Do mir rüchtig mu tendt Zu gans stürt wellen"
       },
       {
         "op": "equal",
@@ -392,7 +532,7 @@
         "b": ""
       }
     ],
-    "ops": 28,
+    "ops": 42,
     "truncated": false
   }
 }

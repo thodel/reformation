@@ -8,7 +8,7 @@
       265
     ]
   },
-  "alignment_score": 0.1147,
+  "alignment_score": 0.1111,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 19,
+    "units": 18,
     "matched": 3,
     "only_a": 12,
-    "only_b": 4,
-    "similarity": 0.4271,
+    "only_b": 3,
+    "similarity": 0.3242,
     "pairs": [
       {
         "op": "only_a",
@@ -74,14 +74,14 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "Welicher im z. den diebiblix¬\ndie blegt in gott und gott blegt. dann her lchend wer das die gantz\nund deß messley\nS.",
+        "b": "Welicher im z. den diebiblix¬\ndie blegt in gott und gott blegt. dann her lchend wer das die gantz\nund deß messley gott.",
         "similarity": 0.0
       },
       {
         "op": "match",
         "a": "weder ein vereiniguͤg des goͤttlichē geiſts\nmit vnſerm / durch den veſten gloubē / den wir zuͤ gott ha\nben /",
-        "b": "S. gott. nützion anders ist , dann weder ein ver-\nS. g. ttlicher geists mitt vnserm\ndurch den vlyß glouben, den wer zuͦgarten\nhaben und dann so beliben und\ngott und gott in unser.",
-        "similarity": 0.3704
+        "b": "nützion anders ist , dann weder ein ver-\nttlicher geists mitt vnserm\ndurch den vlyß glouben, den wer zuͦgarten\nhaben und dann so beliben und\ngott und gott in unser.",
+        "similarity": 0.36
       },
       {
         "op": "only_a",
@@ -102,40 +102,34 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "only_b",
+        "a": null,
+        "b": "Es folgen\nauch werde , glich wie in oben den bedingten\nvater gsinen hatt, also las ouch das uns\nvatterns willen.",
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "Hie ist wysenbge\ndas Christus sine leihan selbs über\ngrahsen hatt , so er aber vnßer esse , vnd\nGastius, suum esse und gfoistern.",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
         "a": "durch das wir\nin jm vnnd er in vns belibe / ſonder er redt hie allein von\nder vereinung des goͤttlichen geyſts mitt vnſern gemuͤ=\nten /",
+        "b": "verglichen , so verstand wie offerlich\ndas er vns hie , bauen liplich esse Legeb. diß das war und underhin\nund beliben , sonder er rett bis allem\nvon der vereinigung 1 deß gottlichergiengs\nmitt unsern gmeinen.",
+        "similarity": 0.3
+      },
+      {
+        "op": "only_a",
+        "a": "grad wie ouch ſin menſcheit mit got vereinbaret iſt. Et hoc per comparationem, non per equiparationē. Jetzund an volgt wy\nter.",
         "b": null,
         "similarity": 0.0
       },
       {
-        "op": "only_b",
-        "a": null,
-        "b": "Es folgen\nS. auch werde , glich wie in oben den bedingten\nvater gsinen hatt, also las ouch das uns\nvatterns willen.",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "Hie ist wysenbge\ndas Christus sine leihan selbs über\ngrahsen hatt , so er aber vnßer esse , vnd\nGastius, suum esse.",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "und gfoistern. verglichen , so verstand wie offerlich\ndas er vns hie , bauen liplich esse\ndiß das war\nLegeb. und underhin\nund beliben , sonder er rett bis allem\nvon der vereinigung\n1 deß gottlichergiengs .",
-        "similarity": 0.0
-      },
-      {
-        "op": "match",
-        "a": "grad wie ouch ſin menſcheit mit got vereinbaret iſt. Et hoc per comparationem, non per equiparationē. Jetzund an volgt wy\nter.",
-        "b": "mitt unsern gmeinen. Grab, wie ouch sin\nMenschheit, mit Gott vereinbart ist\net semper comparatorem, deequipationem, ipsam\nan volgt wy ter.",
-        "similarity": 0.4762
-      },
-      {
         "op": "match",
         "a": "So wirt ouch der mich iſſet / vm minet willē laͤbē / hie\nſehend wir aber offentlich / dz erſt anzeygt iſt.",
-        "b": "So wirt ouch der mich\nnach\ndessent uns nüwt wellen leben,\nsehr wir aber offenlich das erst an\nanzeygt iſt. Namlichen das das geiſtlich\nder verrichtung",
-        "similarity": 0.4348
+        "b": "Grab, wie ouch sin\nMenschheit, mit Gott vereinbart ist\net semper comparatorem, deequipationem, ipsam\nan volgt wy ter. So wirt nach ouch der mich\ndessent uns nüwt wellen leben,\nsehr wir aber offenlich das erst an\nanzeygt iſt. Namlichen das das geiſtlich\nder verrichtung",
+        "similarity": 0.3125
       },
       {
         "op": "only_a",
@@ -146,10 +140,10 @@
     ]
   },
   "fine": {
-    "similarity": 0.294,
+    "similarity": 0.293,
     "words": {
       "a": 339,
-      "b": 178
+      "b": 173
     },
     "segments": [
       {
@@ -185,7 +179,7 @@
       {
         "op": "replace",
         "a": "gantze ſum der verrichtung des menſchliche gmu ts gegen",
-        "b": "gantz und deß messley S S"
+        "b": "gantz und deß messley"
       },
       {
         "op": "equal",
@@ -214,18 +208,8 @@
       },
       {
         "op": "replace",
-        "a": "vereinigu",
-        "b": "ver S"
-      },
-      {
-        "op": "equal",
-        "a": "g",
-        "b": "g"
-      },
-      {
-        "op": "replace",
-        "a": "des go ttliche",
-        "b": "ttlicher"
+        "a": "vereinigu g des go ttliche",
+        "b": "ver ttlicher"
       },
       {
         "op": "equal",
@@ -305,7 +289,7 @@
       {
         "op": "replace",
         "a": "volgt ouch wyter",
-        "b": "folgen S auch werde"
+        "b": "folgen auch werde"
       },
       {
         "op": "equal",
@@ -425,7 +409,7 @@
       {
         "op": "replace",
         "a": "eſſen fu rgibt durch",
-        "b": "esse diß"
+        "b": "esse Legeb diß"
       },
       {
         "op": "equal",
@@ -435,7 +419,7 @@
       {
         "op": "replace",
         "a": "wir in jm vnnd er in vns belibe",
-        "b": "war Legeb und underhin und beliben"
+        "b": "war und underhin und beliben"
       },
       {
         "op": "equal",
@@ -499,13 +483,23 @@
       },
       {
         "op": "equal",
-        "a": "an volgt wy ter So wirt ouch der mich",
-        "b": "an volgt wy ter So wirt ouch der mich"
+        "a": "an volgt wy ter So wirt",
+        "b": "an volgt wy ter So wirt"
+      },
+      {
+        "op": "insert",
+        "a": "",
+        "b": "nach"
+      },
+      {
+        "op": "equal",
+        "a": "ouch der mich",
+        "b": "ouch der mich"
       },
       {
         "op": "replace",
         "a": "iſſet vm minet wille la be hie ſehend",
-        "b": "nach dessent uns nüwt wellen leben sehr"
+        "b": "dessent uns nüwt wellen leben sehr"
       },
       {
         "op": "equal",

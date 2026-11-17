@@ -8,7 +8,7 @@
       258
     ]
   },
-  "alignment_score": 0.1496,
+  "alignment_score": 0.1457,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -24,10 +24,10 @@
   },
   "sentences": {
     "units": 16,
-    "matched": 4,
-    "only_a": 8,
+    "matched": 3,
+    "only_a": 9,
     "only_b": 4,
-    "similarity": 0.4035,
+    "similarity": 0.4217,
     "pairs": [
       {
         "op": "only_a",
@@ -62,8 +62,8 @@
       {
         "op": "match",
         "a": "S will min herr Meyster Vlrich/ das dise wort\ndas Brot/ zc. söllend verstanden werden/ lut der\nvorgenden worten. Ich bin dz läbendig Brot/",
-        "b": "157\npfarrer. Es wil min her Ulrich. Das dise\nwenn, das Brot etc. söllind verstanden werden, lut\nder vorgenden worten.",
-        "similarity": 0.5
+        "b": "pfarrer\nZwingli\noch muneren\nEs wil min her Ulrich. Das dise\nwenn, das Brot etc. söllind verstanden werden, lut\nder vorgenden worten.",
+        "similarity": 0.4783
       },
       {
         "op": "match",
@@ -96,9 +96,15 @@
         "similarity": 0.0
       },
       {
+        "op": "only_a",
+        "a": "was Christus verstande/ vermein\nich die nachuolgenden wort/ gebens dem Christlichen lä=\nser vnnd zůhörer/ gnugsam zeuerston/ dann ye das wort\nDabo, begryffe die verheyssunge/ das ist das ich geben wird. Zwingli",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
         "op": "only_b",
         "a": null,
-        "b": "bliben, so wird ich nit habend\nder\nundt, undt hernach, flaisz ist warog\nblyß und min bluͦt ist warlich ein trawck.",
+        "b": "bliben, so wird ich nit habend\nundt, undt hernach, flaisz ist warog\nblyß und min bluͦt ist warlich ein trawck.",
         "similarity": 0.0
       },
       {
@@ -108,36 +114,30 @@
         "similarity": 0.0
       },
       {
-        "op": "match",
-        "a": "was Christus verstande/ vermein\nich die nachuolgenden wort/ gebens dem Christlichen lä=\nser vnnd zůhörer/ gnugsam zeuerston/ dann ye das wort\nDabo, begryffe die verheyssunge/ das ist das ich geben wird. Zwingli",
-        "b": "Dann er das wort dabo ,\nbegriffen, der verheissung, das ist, das eß yenen\nwird. Zwingli, das im lieber buͦber meine, es\nS.",
-        "similarity": 0.3273
-      },
-      {
         "op": "only_b",
         "a": null,
-        "b": "gibet hab, das fleiß im guͦt. Irastum im nast\nal, so gester und er keren, mitt dem worten\noch muneren, den Juden, och müncken, gelert und nit wider\nder mainung, dann vor der selben wern\nOb die Juden murreten hat\nmitt vil Worten , darumden das er das\nlebendig brot were, das von Heidelberg\nden\nS.",
+        "b": "Dann er das wort dabo ,\nbegriffen, der verheissung, das ist, das eß yenen\nwird. das im lieber buͦber meine, es\ngibet hab, das fleiß im guͦt.",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "dum\nund\nzur\nihm\ngen\nden\nfrecken\nund\nein\nDie\nfebruaria\nfunden\nvon\nund\nund zu\nwesen\nhabe",
+        "b": "Irastum im nast\nal, so gester und er keren, mitt dem worten\nden Juden, och müncken, gelert und nit wider\nder mainung, dann vor der selben wern\nOb die Juden murreten hat\nmitt vil Worten , darumden das er das\nlebendig brot were, das von Heidelberg",
         "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.282,
+    "similarity": 0.2908,
     "words": {
       "a": 284,
-      "b": 248
+      "b": 225
     },
     "segments": [
       {
         "op": "replace",
         "a": "Die vierdt mit dem wörtly Brot dann so er spricht vnd",
-        "b": "157 pfarrer Es wil min her Ulrich Das dise wenn"
+        "b": "pfarrer Zwingli och muneren Es wil min her Ulrich Das dise wenn"
       },
       {
         "op": "equal",
@@ -347,7 +347,7 @@
       {
         "op": "replace",
         "a": "habendz läben in üch",
-        "b": "habend der undt undt hernach flaisz ist warog blyß"
+        "b": "habend undt undt hernach flaisz ist warog blyß"
       },
       {
         "op": "equal",
@@ -481,13 +481,13 @@
       },
       {
         "op": "equal",
-        "a": "wird Zwingli",
-        "b": "wird Zwingli"
+        "a": "wird",
+        "b": "wird"
       },
       {
-        "op": "insert",
-        "a": "",
-        "b": "das im lieber bu ber meine es S gibet hab das fleiß im gu t Irastum im nast al so gester und er keren mitt dem worten och muneren den Juden och müncken gelert und nit wider der mainung dann vor der selben wern Ob die Juden murreten hat mitt vil Worten darumden das er das lebendig brot were das von Heidelberg den S dum und zur ihm gen den frecken und ein Die februaria funden von und und zu wesen habe"
+        "op": "replace",
+        "a": "Zwingli",
+        "b": "das im lieber bu ber meine es gibet hab das fleiß im gu t Irastum im nast al so gester und er keren mitt dem worten den Juden och müncken gelert und nit wider der mainung dann vor der selben wern Ob die Juden murreten hat mitt vil Worten darumden das er das lebendig brot were das von Heidelberg"
       }
     ],
     "ops": 36,

@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 15,
+    "units": 14,
     "matched": 2,
     "only_a": 8,
-    "only_b": 5,
-    "similarity": 0.4529,
+    "only_b": 4,
+    "similarity": 0.4524,
     "pairs": [
       {
         "op": "only_a",
@@ -56,8 +56,8 @@
       {
         "op": "match",
         "a": "das welcher von dem eſſe/nümermer ſterbe. Hie erfindt\nſich offenlich/das Chriſtus ſich ſelbs alleyn/deßhalb eyn\nbrot oder ſpyß genennet hat/dz er die eynig narung/ver\ntröſtung vnd ſicherheit der ſeel iſt:",
-        "b": "Werlicher von Oten, esse meum noster\nhie erfindt ſich offenlich das Chrīstus\nselbs deßhalb ein brot oder\ngenommen hatt, das er die ein\nS.",
-        "similarity": 0.4407
+        "b": "Werlicher von Oten, esse meum noster\nhie erfindt ſich offenlich das Chrīstus\nselbs deßhalb ein brot oder\ngenommen hatt, das er die ein lagen\nvertröstung und Sicherheit der Seel ist, dann\ndas er, das sacrament essen, los schult mit\newerklich binn läben  Ich bin das Brot\nerß läben etc.",
+        "similarity": 0.4286
       },
       {
         "op": "only_a",
@@ -74,20 +74,14 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "lagen . vertröstung und Sicherheit der Seel ist, dann\ndas er, das sacrament essen, los schult mit\newerklich binn läben . Ich bin das Brot\nerß läben etc.",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "Das von Lienhartens komen\neß her wüssen wir wol den egenanten\nVon Ital etwas usß kouffer deß ergern\nin Christo\nbitten, etc.",
+        "b": "Das von Lienhartens komen\neß her wüssen wir wol den egenanten\nVon Ital etwas usß kouffer deß ergern\nin Christo bitten, etc.",
         "similarity": 0.0
       },
       {
         "op": "match",
         "a": "Er\niſt aber des lychnams halb allein/nitt der eynig troſt der\nſeel. So nun Chriſtus Gott vnnd mentſch beyde/doch\nfürnemlich nach der Gottheit/der troſt der ſeelen iſt.",
-        "b": "empfangen und erlonn ist, er ist aber\nla\ndeß rechtmess, alle halb nitt darzuͦ\nin\ntröst der Seel, so nun Christus Gott und Mensch\nbeide , doch fürnklich nach der gotheit ,\nDer Trost der Seelen ist, so vermerkt\neigentlich, ob wir glich kunt nachganng von\nhettind das hier Brot und essen\nwerden für das glauben und\nvertrüwen.",
-        "similarity": 0.4651
+        "b": "empfangen und erlonn ist, er ist aber\ndeß rechtmess, alle halb nitt darzuͦ\ntröst der Seel, so nun Christus Gott und Mensch\nbeide , doch fürnklich nach der gotheit ,\nDer Trost der Seelen ist, so vermerkt\neigentlich, ob wir glich kunt nachganng von\nhettind das hier Brot und essen\nwerden für das glauben und\nvertrüwen.",
+        "similarity": 0.4762
       },
       {
         "op": "only_a",
@@ -110,22 +104,22 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "So\nsprüchen eroben daruff, und das brot\naber, das ich üch gebenn werd, das ist\ndas\nhaben . min fleisch, ... ich geben wird\nuns sag lieben, der welle.",
+        "b": "So\nsprüchen eroben daruff, und das brot\naber, das ich üch gebenn werd, das ist\nmin fleisch, ... das ich geben wird\nuns sag lieben, der welle.",
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "Hie ymmeck\nwir dann der Pfarrer\nworr gott, ir e lassch leut. Das die\nund",
+        "b": "Hie ymmeck\nwir dann der Pfarrer\nworr gott, ir e lassch leut. Das die",
         "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.3224,
+    "similarity": 0.3258,
     "words": {
       "a": 295,
-      "b": 195
+      "b": 190
     },
     "segments": [
       {
@@ -201,7 +195,7 @@
       {
         "op": "replace",
         "a": "eynig narung ver tröſtung",
-        "b": "ein S lagen vertröstung"
+        "b": "ein lagen vertröstung"
       },
       {
         "op": "equal",
@@ -291,7 +285,7 @@
       {
         "op": "replace",
         "a": "des lychnams",
-        "b": "la deß rechtmess alle"
+        "b": "deß rechtmess alle"
       },
       {
         "op": "equal",
@@ -311,7 +305,7 @@
       {
         "op": "replace",
         "a": "der eynig",
-        "b": "darzu in"
+        "b": "darzu"
       },
       {
         "op": "equal",
@@ -471,7 +465,7 @@
       {
         "op": "insert",
         "a": "",
-        "b": "üch gebenn werd das ist das haben min fleisch ich geben wird uns sag lieben der welle Hie ymmeck wir dann der Pfarrer worr gott ir e lassch leut Das die und"
+        "b": "üch gebenn werd das ist min fleisch das ich geben wird uns sag lieben der welle Hie ymmeck wir dann der Pfarrer worr gott ir e lassch leut Das die"
       }
     ],
     "ops": 35,

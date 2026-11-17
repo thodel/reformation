@@ -8,7 +8,7 @@
       272
     ]
   },
-  "alignment_score": 0.1724,
+  "alignment_score": 0.1773,
   "coarse": {
     "paragraphs": {
       "a": 3,
@@ -27,7 +27,7 @@
     "matched": 2,
     "only_a": 7,
     "only_b": 4,
-    "similarity": 0.4353,
+    "similarity": 0.4233,
     "pairs": [
       {
         "op": "only_a",
@@ -44,7 +44,7 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "privatorum mihi sech. nach mittag. parer von s Rom̄ ebrisch , damitt und all werſchliweisende\nsoll\nund pünlich wurdend, als von allen zuͦ sinnde\ngerendt hafftgebracht, bin ich erfordert worden.",
+        "b": "Pfarrer\nsoll\nprivatorum mihi sech. nach mittag. von s Rom̄ ebrisch , damitt und all werſchliweisende\nund pünlich wurdend, als von allen zuͦ sinnde\ngerendt hafftgebracht, bin ich erfordert worden.",
         "similarity": 0.0
       },
       {
@@ -86,7 +86,7 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "dusche\nIch also dan oder thuͦn allen, ehrwuch ab dem aller\ndas also des leip des ersten diß fleiß (gen\nAntwurt.",
+        "b": "Ich also dan oder thuͦn allen, ehrwuch ab dem aller\ndas also des leip des ersten diß fleiß (gen\nAntwurt.",
         "similarity": 0.0
       },
       {
@@ -98,28 +98,28 @@
       {
         "op": "only_b",
         "a": null,
-        "b": "Wolt wern erkent, in dem wort luter\nwerden sin üch gegen wirdt. Dann doch\nſich befliſſen, so die anderen\nunderpfosten, söliches in sinem stück zuͦtreben,\nalso den geyden der schrifft ansachen unnd\nunnd\nbefälend, zu fürdrung der sach, sölich\nbeschechen, deß saget Capittel, alle von\ngeschrifft und aller christenlichen lesern.",
+        "b": "Wolt wern erkent, in dem wort luter\nwerden sin üch gegen wirdt Dann doch\nſich befliſſen, so die anderen\nunderpfosten, söliches in sinem stück zuͦtreben,\nalso den geyden der schrifft ansachen unnd\nbefälend, zu fürdrung der sach, sölich\nbeschechen, deß saget Capittel, alle von der\ngeschrifft und aller christenlichen lesern.",
         "similarity": 0.0
       },
       {
         "op": "match",
         "a": "des vj. cap. halb Johannis/ der geſchrifft vnnd allen Chriſtenlichen\nläſern. **Meiſter Vlrich Zwingli.**\nVNſers brüders antwurt/ beſzömbdet vns/ das\ner mitt den dryen Euangeliſten bewärenn wil/ das an dißem ort verheyſſen werde/ das Sacra\nmentlich",
-        "b": "Der\nZwingli, unsers bruders, antwurt, befrömbdet uns\ndas er mitt den dryen evangelischen berühren\nwil , das an diem ors verhepte werde\ndes sacramentliß brot. Und das an dem 17.",
-        "similarity": 0.4615
+        "b": "Zwingli, unsers bruders, antwurt, befrömbdet uns\ndas er mitt den dryen evangelischen berühren\nwil , das an diem ors verhepte werde\ndes sacramentliß brot. Und das an dem 17.",
+        "similarity": 0.4375
       }
     ]
   },
   "fine": {
-    "similarity": 0.3709,
+    "similarity": 0.3821,
     "words": {
       "a": 219,
-      "b": 207
+      "b": 205
     },
     "segments": [
       {
         "op": "replace",
         "a": "Die vierdt dem tod in den worten verheyßt vnnd",
-        "b": "privatorum mihi sech nach mittag parer"
+        "b": "Pfarrer soll privatorum mihi sech nach mittag"
       },
       {
         "op": "equal",
@@ -139,7 +139,7 @@
       {
         "op": "replace",
         "a": "wytſchweiffig red vermitten blyben",
-        "b": "werſchliweisende soll"
+        "b": "werſchliweisende"
       },
       {
         "op": "equal",
@@ -199,7 +199,7 @@
       {
         "op": "replace",
         "a": "brot welches",
-        "b": "bro werchel ir geben wider etc dusche"
+        "b": "bro werchel ir geben wider etc"
       },
       {
         "op": "equal",
@@ -439,7 +439,7 @@
       {
         "op": "replace",
         "a": "befelchend",
-        "b": "unnd befälend"
+        "b": "befälend"
       },
       {
         "op": "equal",
@@ -449,17 +449,27 @@
       {
         "op": "replace",
         "a": "yntrag beſchehen des vj cap halb Johannis",
-        "b": "beschechen deß saget Capittel alle von geschrifft und aller christenlichen lesern"
+        "b": "beschechen deß saget Capittel alle von"
       },
       {
         "op": "equal",
-        "a": "der",
-        "b": "Der"
+        "a": "der geſchrifft",
+        "b": "der geschrifft"
       },
       {
-        "op": "delete",
-        "a": "geſchrifft vnnd allen Chriſtenlichen läſern Meiſter Vlrich",
-        "b": ""
+        "op": "replace",
+        "a": "vnnd allen",
+        "b": "und aller"
+      },
+      {
+        "op": "equal",
+        "a": "Chriſtenlichen",
+        "b": "christenlichen"
+      },
+      {
+        "op": "replace",
+        "a": "läſern Meiſter Vlrich",
+        "b": "lesern"
       },
       {
         "op": "equal",
@@ -522,7 +532,7 @@
         "b": "an dem 17"
       }
     ],
-    "ops": 41,
+    "ops": 42,
     "truncated": false
   }
 }
