@@ -25,6 +25,5 @@ leben mit gunden pstand, waß
 ich es mal nit darüber ze fechten.
 Das aber meisten Ulrich, Duggfier,
 hatt es argumentum das heil wirds
-an ußarlichem,
-stat und
+an ußarlichem, stat und
 nitt an der gand gottes. Waisen aller

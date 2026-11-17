@@ -13,12 +13,10 @@ so er am nachtal hatt wollen insetzen und
 erstatten, hatt er verheisen, in dem so
 er sagt das brot das ich üch geben wirt, Das
 das ist min fleisch
-unnutz
-aber er vermeint die wort sind nutz ab
+aber er vermeint die wort sind unnutz nutz ab
 fleisch ist nitt nütz, In disem spruch
 Das brot das ich wird geben, da wort verstanden,
 namlich deß ayss verheisung uff das
-S.
 nachmahl thuen , das ander wort aber dabo
 mundi vera , verfarben und schlußen
 sinem lieb füren uns gegen worden.

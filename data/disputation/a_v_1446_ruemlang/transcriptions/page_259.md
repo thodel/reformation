@@ -6,8 +6,7 @@ Do nun der duͦch mitt pfruͦnden, wer er
 das meinte, das ist, wie er ein brot oder
 sper wolt, so ding er sich mit dem
 worten vff und spreche , das ipe aber den
-datur
-will des der mich gesandt hat
+will des datur der mich gesandt hat
 vatters das alleß das er in giben
 Och davon min verliere, sonder daß
 bim läben behalte , den der letſten Zinn ,
@@ -27,8 +26,6 @@ ewigs leben. Haben die Juden gemürtett
 nitt alltum, das er sich ein brotmacher
 sonder ouch, das er jetz und trostmacher
 Das erfinden , sich an den nachgaben wegen
-mir rüchtig
-das so stat. Do muͦtendt
-Zuͦgans.
+das so stat. Do mir rüchtig muͦtendt Zuͦgans.
 stürt wellen, das er gerett hatt, ich bin
 das brot, das von crux komen ist

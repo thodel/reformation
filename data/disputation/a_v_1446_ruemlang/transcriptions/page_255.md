@@ -1,18 +1,15 @@
 # Seite 255
 
-Mittwochens vor mittag
-Min herr und mittbruder, lieber
-nach reichstiger fritag, wil im der almechtikir
-nicht gerettet haben, denn Gott gwüß
-das die davor ymag, weder aber
-geleidet ,
-wort und was es yfahr verstrickt
-novembris
-er also die pottisch hie des s ob wir aber
+Mittwuchens vor mittag
+Min herr und mittbruder, hr vͦl
+rich weystger fürtrag/ wil an der almechtigkeit
+nitt gerett haben/ denn Gott gwüß nit alles
+das die davor vermag/ warum aber sin
+wort lutet/ vnd was es verfacht vollstreckt
+er/ als die pottisch hie des s ob wir aber
 gleyg söligem nitt wüser, vermißt, verloren
 nämed, wie wir nitt wissend, welches
 da ist der weg, esz ysten durchan was gefallen
-S.
 der bau in dem elb der muͦter zuͦ sinem
 ufgezworn. Derglichen wüssend, wir
 nit die warh gottes botschafts 11
@@ -21,8 +18,7 @@ der schrifft alß sinem wort ist warhafftige
 so wirt es aber nit begrieffend, sollend
 Wir allen unserm pöstand in die ernst
 beken, ob ir undergeben 2 cor 10. dann
-werden.
-vil so wir nitt geben wurdind , wie
+vil so wir nitt geben wurdind , wie werden
 Wir nitt verstan, Esai 7, dann alß heimel
 und eich sind unverscheyden, also ouch vistert
 gedanck und der weg deß herrn kaiser

@@ -1,6 +1,5 @@
 # Seite 256
 
-153
 Diewil des wörli dabo, das ist ich wird geben
 zwei mal da stand, weil ich also, das das Brot
 so er für uns hat geben in tod für das lieben
@@ -29,11 +28,3 @@ gegeben wird , allsz die schrifften rithlich bezügett
 gabotten, verliepter, gemach in lettsy ufftragen
 für uns gegeben worden.
 Zwingli.
-S.
-die
-kr
-von
-der
-und
-25
-5

@@ -10,7 +10,6 @@ gefaͤrntlicher eßer, wurd die ewergliebend
 schon erhallt haben. Expera ita also.
 Wann doch der herr anzeiget hatt, in der
 dankigung, so er sinen lieb hatt geheissen
-S.
 hatt er darzuͦ im welcher für üch
 geben wirt, derglichen ouch furt min
 Lieb . gar und brüder dem spruch

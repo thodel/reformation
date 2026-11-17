@@ -1,32 +1,32 @@
 # Seite 348
 
-vnn lyblich / zu unhern lben/ getedt werde
-verfrissen wirdt /
-Pfanrer von Sant Gallen
-sin lange ecklaͤruͤng von Herten Nerster
-Dluchen ngefut / So Ich zum hyl //
-Cristenlich un gern gehoͤrt hab / Nunlich
-damitt unnsere Hertznn uff das hertz
-lich vnrtruͤwen in Cristum inge /
-leettot werden / Ist lieblich vnd mine
-verstendes wistaloch erzellt / das
-aber ain Herr Meister zölach
-voil in disein sten Capgittell /
-dehein verheissnn lassen best
-verlafff Ich des lyblichn esseus / So Jm
-nachtmall vollendett / verlasß Ich mi
-uff die ulfürgebrachttu / Spruch vnnd
-iner erklaͤrug / das er ddarby anzugn
-hatt von muͤrrug der zid / mag di
-Cristelich verstän digr / dan ul
-trucke Lebt verhel che Elis
-e sich das luͤben deng/ brott vonhen /
-mell anzoͤgt, was es den Jih
-gant/ verdelesßlich dan si nit ander
-veon In hieltten /ls virn
-umen montsthen / darn
-auch Jyseich sim nampten / das
-aber dinch das garcz lanittell
-uns wo dar statt essen Solle glouben
-zen vertuwenn Cristum verstande
-werden / demlch Ich abnmal der gesche
+vnnd lyblich / zu unserem leben/ getoͤdt werde
+verheissen wirdt /
+Pfarrer von Sant Gallen
+Ein lange erklaͤruͤng von Herrn Meister
+Ulrich ingefuͤrtt / So Ich zum teyl //
+Cristenlich und gern gehoͤrt hab / Namlich
+damitt unnsere Hertznn uff das hertz //
+lich vertruͤwen in Cristum inge /
+leitet werden / Ist lieblich vnd mines
+verstandes christenlich erzellet / das
+aber min Herr Meister Ulrich
+will in disem 6ten Capittell /
+dhein verheissung lassen beschehen sin //
+verlass Ich des lyblichn essens / So Jm
+nachtmall vollendett / verlasß Ich mich
+uff die vilfürgebrachten / Spruch vnnd
+siner erklaͤrung / das er darby anzogen
+hatt von muͤrrung der juden / mag dhein
+Cristenlich verständiger / den usß //
+truckten text verleugnen da
+er sich das lebendig / brott vom hi //
+mell anzoͤgt / was es den Juden
+gantz/ verdrießlich dan si nit anders
+von Im hieltten /alls von einem
+puren moͦntschen / darum sie ihn
+auch Josephs sum nampten / das
+aber auch das gantze Capittell
+hinus wo da statt essen Soͤlle glouben
+und vertuwen in Cristum verstanden
+werde / bevilch Ich abnmal der geschrifft /

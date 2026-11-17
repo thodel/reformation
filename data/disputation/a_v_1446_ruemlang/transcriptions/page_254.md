@@ -29,13 +29,4 @@ gedöt jess ist ouch ubt gruntlich
 sunder noch dan pfarrer, das sie zeuͦven
 stat, das sich wirds geben. Dann es
 im anrichliche erpottichen ist.
-S.
-S.
-S.
-So
-des
-g.
-deren
-S.
-propositis
-et verbi
+propositio

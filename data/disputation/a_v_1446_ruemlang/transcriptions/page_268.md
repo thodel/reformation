@@ -1,7 +1,6 @@
 # Seite 268
 
 mitt dem Wonsbrot, Tabef und glouben und
-Sontag
 prudenter venient et diversaque regis. Si
 den worten blieben
 anzeigend, das ist das war brot, das von
@@ -9,8 +8,7 @@ himel herab gefißen und giber liden, do wer
 Das söliche wort mitt sampt andern nach
 volgenden Christenlich durch zu usspan ,
 alsß der 10. ouch anzüget oder sprüch, der der
-kan.
-globt im mich habe ewigs läbe , den ich
+globt im mich habe ewigs läbe , den kan ich
 kum weg verwerend, doch in sölichen
 verstand, das aber den 50 sin, wen ymag
 im vernewen, ouch in Nöwingen und Falckhauß
@@ -26,13 +24,7 @@ für uns erstatten, dann gern ubriser
 walt, biß er inn umm Satan, usß welicher
 der globen im closter, pfarber, glouben aber
 et evangelio, abeantale, domino
-schlüßt zum betreff .
-S.
-k. B.
+schlüßt zum betreff geben
 Lauden, Luthero, och Wernher
-S.
-geben.
-S.
 umb ouch im dritten mitt anhangendem
 zeichen. Diser ouch zuͦ einer bestätigung
-im

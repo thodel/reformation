@@ -20,9 +20,7 @@ ich mir hab wolgevallen den hoͤrend, Alß er
 hatt wellen uffheben das alt Testament und
 anhaͤben, ein nuͤheß hatt er ußgschickt sine
 apostel zuͦ predien, Die ding so si ghört haben
-und gesechen, Jo: 1
-keine
-kene anderen prederr anzuͦnämen.
+und gesechen, Jo: 1 keine kene anderen prederr anzuͦnämen.
 Dann so Christus hatt verordnet, Dann niemant
 anders Den vatter erkent Dann der sun,
 und wem ers hatt und eroffnet, hats ouch

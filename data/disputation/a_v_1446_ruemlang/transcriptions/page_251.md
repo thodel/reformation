@@ -6,9 +6,7 @@ warheit Dann die wort deß herrn warheit
 sind Jo. 17. Diewil dann er uns verheisen
 hatt damitt und schrifft die sich andere
 schrifft erkleͤre, so hat er gsagt Das brot
-das ich
-üch
-wird gaͤben ist mein fleisch
+das ich üch wird gaͤben ist mein fleisch
 weliches ich geben wird für das laͤben der
 Welt, Söliches alleß hatt er erstattett
 Im nachtmol namlich do er hatt, das brot
@@ -25,17 +23,9 @@ bevolhen hatt, Soͤliches getuͦn werden in siner
 gedaͤchtnuß, Wie ist gwuͤß alleß das so unmoͤg,,
 lich den mentschen bi gott vermuͤglich. Matt: 19.
 Rom: 4. Luc: 1.
-Zwingli Der erst spruch, Das brot das ich
-üch
-üss geben
-wird,
-werd
+Zwingli Der erst spruch, Das brot das ich üch üss geben wird, werd
 ist min fleisch welchs ich umb das liden der
-ver
-walt
-hingeben wird Jo: 6.
-treit
-te sinen eigenlichen
+ver walt hingeben wird Jo: 6. treit te sinen eigenlichen
 verstand uff dem ruͤegg, namlich das er uns
 hie mitt dem wort, brot und mitt dem wort
 min fleisch nitt zverstan gitt, das er uns inn

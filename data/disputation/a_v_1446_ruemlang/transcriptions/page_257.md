@@ -13,8 +13,7 @@ und das brot aber, des ich üch gern wider
 du welichen wortlumen, man soll vertrösten
 mercka , das er per Epanaphoram , Das ist
 ein wiederholen hatt wollen ze erſtan gebn̄
-wolle
-Was er mengt, mitt dem Wörlis brot, dann
+Was er mengt wolle, mitt dem Wörlis brot, dann
 so er spricht und das brot aber sicht man
 wol, das er wiewol hinauff gat, zuͦ dem
 syt von dem er vor gerett hatt, und
@@ -25,9 +24,6 @@ pfleisch umb das loͤben der welt, wie al den
 oder geben. Es mag ouch hie nitt ain
 gesinbaten sin, etc. Eyo, etc. Sonder die gantze
 principa, oder sein, ist nitt ein verheisung
-sonder ein ußlegun-
-Was Tegus verstanden,
-S.
+sonder ein ußlegun- Was Tegus verstanden,
 durch das, das er sich selb das liebendig brot
-S.
 Abyt.
