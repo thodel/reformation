@@ -1,30 +1,30 @@
 # Seite 256
 
-Diewil des wörli dabo, das ist ich wird geben
+Diewil des wörtli dabo, das erst ich wird geben
 zwei mal da stand, weil ich also, das das Brot
-so er für uns hat geben in tod für das lieben
-der wortt, eben dasselbig, hab er uns zuͦ essen
-dagesetz und bevolhen (lut deß wort, luter
-Actum ist min lib, welicher für üch gegenwürtt
-und nitt wider ander punkt in dem spruch
-lüttet von dem erdisten lib, so für das leben
-der wolt, gegeben werd sol, dann min vestand
+so er für uns hat geben in tod für das leben
+der welt, eben dasselbig, hab er uns zuͦ essen
+ingesetz und beuolhen (lut deß wort, luc 22
+Actum ist min lib, welicher für üch gegeben wirtt
+und nitt wie der ander punkt in dem spruch
+luter von dem erdöten lib, so für das leben
+der welt, gegeben werden sol, dann min vestand
 ist , das wort brot , weliches ich geben
-Wol luter zuͦ Xosan, das er uns zuͦ essen
-gröllen und gusayn wortz, sie sin fleisch.
-dann er ir ausser nieman, grot stett geben
-usß welichem er sinem lib gemacht, dann in
-dem nationen, de er doch brot in deß hand
-man und sach nämend und essend , das ist
-min erb, dann er nitt sagen, das gern.
-waliches ich geben wird , daß ein beditung
-minem fleisch, sonder das brot, so ich gegen
-werd ist, im fleisch und hernach des ander
-so er verheißt, er uns gegen werden verfacht,
-den troß. Sob er sin erbenn her umb, durch den tod,
-gegeben wird , allsz die schrifften rithlich bezügett
-5. 1. corn. 15. Dann er je uß dem brot
-ſum̄an bis gewicht vnd du ſchùe dingē
-gabotten, verliepter, gemach in lettsy ufftragen
+Wol luter zuͦ verstonn, das er uns zuͦ essen
+bevohlen und infaßen werde/ sie sin fleisch.
+dann er ie sunsten nieman, brot hett geben
+usß welichem er sinen lib gemacht, dann in
+dem nachtmaln, de er das brot in die hand
+nam vnd sagt nämend und essend , das ist
+min lib, dann er nitt sagen, das omen
+weliches ich geben werd/ ist ein bedütung
+mines fleischs, sonders das brot, so ich geben
+wird ist min fleisch und hernach das ander
+so er verheißt, er uns gegen werden verfacht
+den trost. So er sin leben für ums, durch den tod/
+geben wird , allsz die schrifften richlich bezügett
+De 5 / cor. 15. Dann er je uß dem brot
+sinen lib gemaicht vnd den sinen jüngern
+gebotten, weliches demnach in letzten Nachtmal
 für uns gegeben worden.
 Zwingli.

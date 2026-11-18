@@ -1,29 +1,29 @@
 # Seite 257
 
-genommen, theissen. Damitt der von Kompff
-syen werde, sol ein pfar also mercken
-das glich vor dem worten, also stat, och bin das
-das libending, das do von himel herabkam,
-Welicher von dem brot essen wirt, er
-wirt ewenklich lebt, das nu her Pfand
+Seome Christi/ Damitt dies wirts kampff
+vermittet werde, sol ein pfarrer also mercken
+das glich vor den worten, also stat, ich bin das
+brot das läbendig, das do von himel herabkommen,
+ist/ Welicher von dem brot essen wirt, der
+wirt ewenklich leben, das nu hie verstanden
 werde, was Christus mitt der wort brot
-wollen habe, so erklein er sich selbs, mitt den
-nachgenden worten: „Rat, o aylos, quod opus ex eo abturbabo,
-und das brot aber, des ich üch gern wider
-du welichen wortlumen, man soll vertrösten
-mercka , das er per Epanaphoram , Das ist
-ein wiederholen hatt wollen ze erſtan gebn̄
-Was er mengt wolle, mitt dem Wörlis brot, dann
+wellen habe, so erklärt er sich selbs, mitt den
+nachgenden worten: (griechischer Text),
+vnd das brot aber, des ich vͤch geben werd/ zc.
+In welichen wortlinen, man häll vnd
+merckt , das er per Epanaphoram/ Das ist
+ein wiederholen hatt wollen ze erſten geben
+Was er meinen welle, mitt dem Wörtlis brot, dann
 so er spricht und das brot aber sicht man
 wol, das er wiewol hinauff gat, zuͦ dem
-syt von dem er vor gerett hatt, und
-hatt den sinn Sam Thuts sprachs ,
+syt von dem er vor gerett hatt, vnd
+hatt den sinn Sam Christus spräche/
 das ir aber wüssend, was das brot sie von
-dann ich üch sag, so ist es, das ich min
-pfleisch umb das loͤben der welt, wie al den
-oder geben. Es mag ouch hie nitt ain
-gesinbaten sin, etc. Eyo, etc. Sonder die gantze
-principa, oder sein, ist nitt ein verheisung
-sonder ein ußlegun- Was Tegus verstanden,
-durch das, das er sich selb das liebendig brot
-Abyt.
+dem ich üch sag, so ist es, das ich min
+fleisch umb das läben der welt, wird in
+tod geben. Es mag ouch hie nitt ain
+Asinedon sin, (griechischer Text. Sonder dise gantze
+pericopa/ oder sinn, ist nitt ein verheisung
+sonder ein vßlegung was christus verstanden,
+durch das, das er sich selb das läbendig brot genempt habe.
+Asyntheton/

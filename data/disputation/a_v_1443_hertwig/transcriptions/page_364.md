@@ -4,11 +4,9 @@ des Horn wir In den attis verfassch
 n die Schlusßredtmer Heinen
 hrider der prediceim erd dg die
 gefert/ verhacht den lyb dr und vier
-risc
 Das bluͤtt mitt waͤsen lich und lyblich
 In dem brott der dancksageng / mogen
-erpfangen wernn /
-darge Ich wie vor //
+erpfangen wernn / darge Ich wie vor //
 naͤls sollchs nit Eyelifcher Schrifft
 beyderaestaneen wol bybruchtmagen
 wedn vermeer / vnd solchs erstlich

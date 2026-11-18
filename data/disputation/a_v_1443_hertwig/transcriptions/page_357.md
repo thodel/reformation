@@ -11,7 +11,7 @@ beschribt / die das nangelim Ist /
 iu beschiabt ntt das Bimmtt der
 dankagg Cristi wie gonop
 au gehoͤrtt Ist
-Paer von Sant Bider
+Pfarrer von Sant Gallen
 Ramtt und alle verlangrug
 eemitten / der Byspilhalb / durch
 min herrnn und Bruder Juge //
@@ -21,7 +21,6 @@ Erhellung / lasß ichlun sine wirde
 beliben , das so Ich hutt zuͦ bestaͤtti //
 siner erklaͤdg geredt / Isti
 hall vefasset / vnn en die bewa /
-ing j
 usserkhal des in gebrachtten / acht
 I8getzmal vnnoͤttig / dn lass es
 by minem furgetrann klaͤdg
