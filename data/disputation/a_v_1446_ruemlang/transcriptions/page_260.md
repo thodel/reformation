@@ -1,31 +1,31 @@
 # Seite 260
 
-und spruchend ußn. Nollig Jesu, der sun
-gesags, diß vater und muͦter wirt erkantend.
-In welchem worten wer verstand, das die juden
-ein schneckenn hand gehept ab dem, das
-schrib uff den vertrüwen, so si allen
-sin manschger herfür züchend. Dann
-lieber seker daran. Das si inn nitt erkantten
-gott sin, uß welichem volgn des ouch
-die juden verstanden haben, biß weder wer, das
-Thurn mitt dem worten brot. Hatt wellten
-glouben oder vertruwen nemen, und darum
-sprachend, si alsß belung volge. Wie rett derma
-den , das er von himel herab kommen Sie ,
-antwurt und istis, als sprach zuͦ im
-ſangend nitt mittemandern , aſſe was
-nieman zuͦ mir komen. So hab im
-odˀ der vatter, der mit gfan hatt, inen
-an welhen wun wir aber merkend, das
-christus, mitt dem wort der spitzoch brot, alten
-das privileon gepert, so er bis deß worten
-got nitt gedenckt und gedenke aber den
-pruͦwen uff sich und mer ermannd red
-Hann zuͦ im kommen, ist andern weder
-Uxorem etiam fugilasem suam, ad pontificem, quod
-aber gratias wirt myn vatter herren
-wenn da er by eitt, und ich wol in
-ein leide besatz, den der zuͦ im kommen
-muge, zuͦ recht ist, es hat
-Grib syent er gesen, so wil
+und sprachend ist nicht das Jesus, der sun
+josephs, deß vater und muͦter wir erkennend/
+In welchem worten wir verstand, das die juden
+ein schnüchen hand gehept ab dem, das
+sollend vff in vertrüwen, so si allein
+sin menschheit herfür züchend. Dann
+man sicht daran/ Das si inn nitt erkantten
+ein gott sin, vß welichem volget das ouch
+die juden verstanden haben/ daß weder wir das
+Christus mitt den worten brot. Hatt wellen
+glouben oder vertruwen meinen, und darum
+sprachend si alsß hernach volget. Wie rett dann
+der/ das er von himel herab kommen sie/
+antwurt inen jesus/ vnd sprach zuͦ inen/
+zangend nitt mitteinandern , aß mag
+nieman zuͦ mir komen. So hab in
+dann der vatter, der mich gesendet hatt, zogen
+in welchen worten wir aber merkend, das
+christus, mitt dem wort der spiys oder brot, allein
+das privilegon verstan, so er hie daß wort/ den
+got mitt gedenckt und gedenke aber den
+verrtruͦwen vff sich/ in einer erlüternden red/
+dann zuͦ im kommen, ist nützid anders weder
+vff in hingelaßen sin/ vnd vertruwen/ alß
+aber gemerkt wirt/ in nachgendem sinem
+wort da er spricht, vnd ich wil in
+bim läben behalten (den der zuͦ im kommen
+sige, zur letzten zit, es stat
+geschriben in den propheten/ si werden

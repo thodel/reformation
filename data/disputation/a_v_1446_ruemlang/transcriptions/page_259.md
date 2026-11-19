@@ -1,31 +1,31 @@
 # Seite 259
 
-kommen war, weliches vil ein ander
-brot , wabe das , das woßes geben hette .
-Do nun der duͦch mitt pfruͦnden, wer er
-das meinte, das ist, wie er ein brot oder
-sper wolt, so ding er sich mit dem
-worten vff und spreche , das ipe aber den
-will des datur der mich gesandt hat
-vatters das alleß das er in giben
-Och davon min verliere, sonder daß
-bim läben behalte , den der letſten Zinn ,
-den dienst sich hern̄ aber lären uff, ✳ was er
-meng muͦt dan gäben, aber im der
-vatter, wage gebe, und sprich also, das in
-der will, das er mich geseit habt
-das ein jeder der gen der sin erkännt.
-und uff dem truwt, wegs leben haben,
-und des ich den omnium laͤben behalten.
-zur lettſten zur alß um l kommen von
-vorgänth worten im selbs, so vil zuͦgebn̄ hatt.
-Das er sich eum türer brot macht , werden
-Moses, geben hertz, ouch so tir macht.
-das, won sich ain gun ließe, der hette
-ewigs leben. Haben die Juden gemürtett
-nitt alltum, das er sich ein brotmacher
-sonder ouch, das er jetz und trostmacher
-Das erfinden , sich an den nachgaben wegen
-das so stat. Do mir rüchtig muͦtendt Zuͦgans.
-stürt wellen, das er gerett hatt, ich bin
-das brot, das von crux komen ist
+kommen war/ weliches vil ein ander
+brot  wäre das , das moses geben hette .
+Do nun die juden nitt verstuͦnden, wie er
+das meinte/ das ist wie er ein brot oder
+spys wäre, so dutt er sich mit den
+worten vff und spricht , das ist aber der
+will des vaters der mich gesandt hat
+vatters das alleß das er mir gibt
+Och davon nüdig verliere, sonder daß
+bim läben behalte/ den der letsten Zit/
+den duth sich christus aber clären uff/ was er
+meine muitt dem gäben/ was im der
+vatter gäbe, und spricht also, das ist
+aber der will deß/ der mich gesandt hatte
+das ein jeder dan den der sun erkennen
+vnd vff dem truwt, ewigs leben haben/
+und das ich den bim laͤben behalte/
+zur lettsten zur zit/ als nun christus kommen inn
+vorgänd worten im selbs, so vil zuͦgebnen hatt/
+Das er sich ein türer brot macht , weder
+Moses, geben hette, ouch so tür macht.
+das, wer sich an in ließe, der hette
+ewigs läben/ haben die Juden gemürrett
+nitt allein/ das er sich ein brot machen/
+sonder ouch, das er jetz und trost machen/
+Das erfinden/ sich an den nachgenden worten
+das also stat/ Do murmeltten die Juden vmb
+sinet willen/ das er gerett hatt/ ich bin
+das brot, das vom himmel komen ist

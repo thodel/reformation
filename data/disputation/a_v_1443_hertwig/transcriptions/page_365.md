@@ -10,11 +10,10 @@ vermeine / der lyb vnnd das bluͤtt
 Cristi/ werden Jn den brott der damck//
 sagng / lyblich vnd waͤsalich enn //
 fangen /
-olampadas
+Oecolampadius
 s hatt mir liebt Bruͤdenr / sich wi //
 deran gewaͤndt zr den wortten
-ohanis An
-appittell das si in
+ohanis An appittell das si in
 vienen , dessebin Ichsin, nitt gar/
 abred,/ wöltte gott / das si von merck///
 lichn wol versstanch wunden un //
@@ -25,8 +24,6 @@ dt er an selbige ert nitt /
 I aber nim kampt uff die fri /
 satzeng des Hen nachtmals
 dantt wir dester geschickten vnd
-vestatlicher re
-um
-versach
-das mm lieber bruͤder
+vestatlicher re versach
+zum das mm lieber bruͤder
 werde nitt vre vermeine / hie

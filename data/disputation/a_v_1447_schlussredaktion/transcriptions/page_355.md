@@ -1,20 +1,17 @@
 # Seite 355
 
 em nrdtwendigs essem das dr memermer scede //
-sonnder allwegen nitz vnnd gut ist //
-vnnd
+sonnder allwegen nitz vnnd gut ist // vnnd
 e de asen gn nn m Der hern feyist mi
 zwungen / mitt allwegen / mtz sonnder ottwran schuad /
 lich ist / Es ist ouch wider vnsern vralltenn /
 erlernotten / glouben / der da spricht er ist vffel //
 farn / zuͦ den himeln siczt zuͦ der gerechten/
 Des vanters / ist kunfftigi zurichten ver de /
-lebenndige vnnd todten /
-Wie wir Das
+lebenndige vnnd todten / Wie wir Das
 krarlich hend In den gestanben / d apostlen
 am erstenn cap: Smi baluilei vnd Mather
-am xxiij vnd xxv ͦ cap: //
-sß dem allein
+am xxiij vnd xxv ͦ cap: // sß dem allein
 volgt / Das dise wortt nemend vnnd essennd
 Das ist min lab Deßglichen ouch vom trinck /
 schir / ein anndern verstannd muͤssen han / Dan wir

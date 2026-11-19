@@ -3,14 +3,12 @@
 allso
 vast
 wille
-erkenner
-d eler sndmogen bas
+d eler sndmogen bas erkenner
 So wil/ ich e h voren lebr
 ver hönn uff wöͤlchen vortten Silgefite
 vd in darnach, wytter Artwuͤrtd
-Perer von Sint Gallen
-ir
-ff antwurt mindhenmn Docters
+Pfarrer von Sant Gallen
+Uff antwurt mindhenmn Docters
 uber die wort Matthrn / vnnd
 Pauli / bogert er / Sollichs Im strn
 Cappittelanzoͤigt / recht verstanden werden /
@@ -23,8 +21,7 @@ fröwt mich nitt wenig / das er sich in //
 lasst / zu der erklaͤrung des wortts
 arrametn / Ist maͤncklichen der
 Schrifft geubt offenbar / das wir dehein
-des
-bott / das /cherrn wort des nachtmalt
+bott / das des /cherrn wort des nachtmalt
 im ei Sarrament zenaͤr /wie si es
 Haltten / bewannsen soͤllen / sollichs Ich
 t auch unns fry / zuͦnamsen / alls

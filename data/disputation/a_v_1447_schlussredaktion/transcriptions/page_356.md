@@ -1,8 +1,9 @@
 # Seite 356
 
+its ouch niemers
 Die vierd schlussend
 das wir erkennen, sinen weg, Amen, So nu
-die viere scheuswe lutter Das der lijs vnnd Das
+die viere schlußred lutter Das der lijs vnnd Das
 blutt Christi wesenlich vnnd leblich In een Brot
 der dancksagung einfangen overden mog mit Bibli¬
 scher ysthrifft mitt bebracht werden. Dangegenn
@@ -21,7 +22,6 @@ Der ersten Epist: an 1 car: keine andern prediger
 anzunemen dan so Christus hatt verorenot Dan
 niemand, annderst den vatter erkent, dann der Ruij
 Inne wem erf. hatt croffnet, Dann sinen apostlen
-its ouch niemers
 Die er hatt vß gesandt zu predigenn, Das er Inenn
 durch den geist hatt eroffnet, Das er aber Inen er
 offnet hart ist Inn der ystchrifft verfasset, namlich

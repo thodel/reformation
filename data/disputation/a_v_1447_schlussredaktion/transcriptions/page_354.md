@@ -1,8 +1,6 @@
 # Seite 354
 
-147
-Die bierd
-Dlußled
+Die vierd Schlußred
 at atrister grantz kab die vund
 schlusred vnnd gruͤnd derselbenn
 eroffnet allß hernach volgt / //
@@ -23,8 +21,7 @@ chnit aner gsthriftt frremaich sohannns am
 vn een
 Desal nsin nun art graclenn wn dan wn //
 bssler gemunlu ven sanden Do wrm disen Sern //
-wyter
-men fleists vnnd klut wesennlich messend //
+men fleists vnnd klut wesennlich messend // wyter
 n n n es ndn
 Dan das rsend nn beisch vnnd teinckend nin llit //
 ogend zv nit Ingan Inn das rych der himelu / ttem

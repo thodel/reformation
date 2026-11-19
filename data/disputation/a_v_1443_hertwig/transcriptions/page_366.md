@@ -1,6 +1,5 @@
 # Seite 366
 
-1
 aigesatzt sien das Sacantt des ybs
 und bluͤtts Jesu Cristi / So wuͤrdt
 mmnitz dnn guͦt sin waͤr da erknen
@@ -18,7 +17,6 @@ gnaͤd des heiliggrists / vn der wi //
 dergebäbang loh Jas haben wi by
 Allen Sacraienten / das ettliche serder /
 liche hoche gefemnuͤss unnd treffeliche
-ns
 ler / uns föfeit werden / nitt usselichen
 Heyctn / danitt wir / von der usser //
 lͤchn dingen hoch ufsgefertt werde
@@ -28,8 +26,7 @@ naͤmen / die artt de Sarramente so
 wurdt es sich nitt schliesse Hie / ussdenen
 frgedon en wrtten das man nisss
 vosilign das brott ist wäselich
-der lyb Cristi /
-rerenn so wirdie
+der lyb Cristi / rerenn so wirdie
 dr Cangelbte Alls aia nnd
 Pauli heben, gegen Matther denn
 Mur / Sso werd wir usß den claͤren
