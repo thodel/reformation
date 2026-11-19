@@ -8,7 +8,7 @@
       356
     ]
   },
-  "alignment_score": 0.1186,
+  "alignment_score": 0.1225,
   "coarse": {
     "paragraphs": {
       "a": 1,
@@ -27,13 +27,13 @@
     "matched": 2,
     "only_a": 7,
     "only_b": 2,
-    "similarity": 0.3272,
+    "similarity": 0.3403,
     "pairs": [
       {
         "op": "match",
         "a": "Die vierde\nvierde Schlußred lutet/das der lyb vnd das blůt Chri\nſti weſenlich vnnd lyblich in dem brot der danckſagung/",
-        "b": "Die vierd schlussend\ndas wir erkennen, sinen weg, Amen, So nu\ndie viere scheuswe lutter Das der lijs vnnd Das\nblutt Christi wesenlich vnnd leblich In een Brot\nder dancksagung einfangen overden mog mit Bibli¬\nscher ysthrifft mitt bebracht werden.",
-        "similarity": 0.3279
+        "b": "its ouch niemers\nDie vierd schlussend\ndas wir erkennen, sinen weg, Amen, So nu\ndie viere schlußred lutter Das der lijs vnnd Das\nblutt Christi wesenlich vnnd leblich In een Brot\nder dancksagung einfangen overden mog mit Bibli¬\nscher ysthrifft mitt bebracht werden.",
+        "similarity": 0.3438
       },
       {
         "op": "only_a",
@@ -74,8 +74,8 @@
       {
         "op": "match",
         "a": "Das\ner aber jnen eroffnet hat/iſt in der gſchrifft bfaſſet/nam=\nlich Chriſtum Jeſum den crůtzigeten/den Juden ein er=\ngernuß/den Heyden ein torheyt/den berůfftenn aber die\nkrafft Gottes.",
-        "b": "hatt croffnet, Dann sinen apostlen\nits ouch niemers\nDie er hatt vß gesandt zu predigenn, Das er Inenn\ndurch den geist hatt eroffnet, Das er aber Inen er\noffnet hart ist Inn der ystchrifft verfasset, namlich\nChristum Jesum den cantzgeten den Judenn ein\nErgerms een heiden, een thorheit, den bprufften\naber die krafft gottes oo wir min aber von\nChristo Jesu, zwej dins glaubende, namtlich all¬",
-        "similarity": 0.3265
+        "b": "hatt croffnet, Dann sinen apostlen\nDie er hatt vß gesandt zu predigenn, Das er Inenn\ndurch den geist hatt eroffnet, Das er aber Inen er\noffnet hart ist Inn der ystchrifft verfasset, namlich\nChristum Jesum den cantzgeten den Judenn ein\nErgerms een heiden, een thorheit, den bprufften\naber die krafft gottes oo wir min aber von\nChristo Jesu, zwej dins glaubende, namtlich all¬",
+        "similarity": 0.3368
       },
       {
         "op": "only_a",
@@ -98,12 +98,17 @@
     ]
   },
   "fine": {
-    "similarity": 0.3465,
+    "similarity": 0.3504,
     "words": {
       "a": 285,
       "b": 223
     },
     "segments": [
+      {
+        "op": "insert",
+        "a": "",
+        "b": "its ouch niemers"
+      },
       {
         "op": "equal",
         "a": "Die",
@@ -111,8 +116,18 @@
       },
       {
         "op": "replace",
-        "a": "vierde vierde Schlußred lutet",
-        "b": "vierd schlussend das wir erkennen sinen weg Amen So nu die viere scheuswe lutter"
+        "a": "vierde vierde",
+        "b": "vierd schlussend das wir erkennen sinen weg Amen So nu die viere"
+      },
+      {
+        "op": "equal",
+        "a": "Schlußred",
+        "b": "schlußred"
+      },
+      {
+        "op": "replace",
+        "a": "lutet",
+        "b": "lutter"
       },
       {
         "op": "equal",
@@ -446,18 +461,8 @@
       },
       {
         "op": "equal",
-        "a": "dann ſinen Apoſtlen",
-        "b": "Dann sinen apostlen"
-      },
-      {
-        "op": "insert",
-        "a": "",
-        "b": "its ouch niemers"
-      },
-      {
-        "op": "equal",
-        "a": "die er",
-        "b": "Die er"
+        "a": "dann ſinen Apoſtlen die er",
+        "b": "Dann sinen apostlen Die er"
       },
       {
         "op": "replace",
@@ -595,7 +600,7 @@
         "b": "zwej dins glaubende namtlich all"
       }
     ],
-    "ops": 49,
+    "ops": 50,
     "truncated": false
   }
 }
