@@ -19,6 +19,13 @@ be worse than leaving it out.
 Output is an editable table, like the person register and the segment table,
 because deciding that "hier" means Jeremias is a judgement a reader should be
 able to overturn.
+
+Decisions a reader has made live in data/normalization/decisions.tsv (#46).
+The table wins over the fuzzy threshold: a row `bible  Matthi  Matthäus`
+forces the match, and an empty `to` is the decision that a token is no book
+at all. A run never overwrites a decision: the `confirmed` column is carried
+across re-runs, and the still-open cases are written to
+data/normalization/open.tsv, sorted by frequency.
 """
 
 from __future__ import annotations
@@ -36,6 +43,12 @@ from typing import Any
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from normalize_orthography import normalize  # noqa: E402
+from normalization_decisions import (  # noqa: E402
+    DECISIONS_FILE,
+    OPEN_FILE,
+    DecisionTable,
+    write_open,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT_DIR = ROOT / "data" / "register"
@@ -116,12 +129,41 @@ def build_index() -> dict[str, tuple[str, str]]:
 
 BOOK_INDEX = build_index()
 BOOK_KEYS = list(BOOK_INDEX)
+# Short forms ("Mt", "Joh") are not in the variant index but must resolve too:
+# a decision may point at either the canonical name or the short form.
+SHORT_FORMS = {
+    norm(short): (canonical, short)
+    for canonical, short, _ in BOOKS
+}
 
 
-def match_book(token: str) -> tuple[str, str, float] | None:
+def book_by_name(name: str) -> tuple[str, str]:
+    """Canonical book by canonical name, short form, or period variant."""
+    for key in (norm(name), norm(name.replace(" ", ""))):
+        if key in BOOK_INDEX:
+            return BOOK_INDEX[key]
+        if key in SHORT_FORMS:
+            return SHORT_FORMS[key]
+    raise ValueError(f"Unbekanntes Buch in decisions.tsv: {name!r}")
+
+
+def match_book(
+    token: str,
+    table: DecisionTable | None = None,
+    witness: str | None = None,
+) -> tuple[str, str, float] | None:
+    """Match a book token; an entry in decisions.tsv wins over the fuzzy
+    threshold, and an empty `to` is the decision that it is no book.
+    A witness-scoped entry applies when the token is read in that witness."""
     key = norm(token)
     if len(key) < MIN_TOKEN:
         return None
+    if table is not None:
+        decision = table.lookup("bible", token, witness=witness)
+        if decision is not None:
+            if not decision.to:
+                return None
+            return (*book_by_name(decision.to), 1.0)
     if key in BOOK_INDEX:
         canonical, short = BOOK_INDEX[key]
         return canonical, short, 1.0
@@ -156,11 +198,15 @@ CITATION = re.compile(
 )
 
 
-def find_citations(text: str) -> list[dict[str, Any]]:
+def find_citations(
+    text: str,
+    table: DecisionTable | None = None,
+    witness: str | None = None,
+) -> list[dict[str, Any]]:
     found: list[dict[str, Any]] = []
     for m in CITATION.finditer(text or ""):
         token, chapter_raw = m.group(1), m.group(2)
-        book = match_book(token)
+        book = match_book(token, table, witness=witness)
         if not book:
             continue
         canonical, short, score = book
@@ -174,21 +220,35 @@ def find_citations(text: str) -> list[dict[str, Any]]:
             "chapter": chapter,
             "reference": f"{short} {chapter}",
             "surface": m.group(0).strip(),
+            "token": token,
             "confidence": score,
         })
     return found
 
 
-def main() -> int:
+def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Recognise biblical citations")
     parser.add_argument("--witness", action="append",
                         help="Witness key; repeatable. Default: all with text.")
-    args = parser.parse_args()
+    parser.add_argument("--decisions", default=None,
+                        help="Path to decisions.tsv (default: data/normalization/decisions.tsv)")
+    parser.add_argument("--out-dir", default=None,
+                        help="Directory for the table (default: data/register)")
+    parser.add_argument("--open", default=None, dest="open_file",
+                        help="Path for open.tsv (default: data/normalization/open.tsv)")
+    args = parser.parse_args(argv)
 
     from compare_witnesses import available_witnesses, page_texts
 
+    table = DecisionTable.load(Path(args.decisions) if args.decisions else DECISIONS_FILE)
+    out_dir = Path(args.out_dir) if args.out_dir else OUT_DIR
+    open_path = Path(args.open_file) if args.open_file else OPEN_FILE
+
     witnesses = args.witness or available_witnesses()
     per_ref: dict[str, dict[str, Any]] = {}
+    # Tokens matched below the certainty line: the open cases for the working
+    # list, grouped by normalised form, book and confidence.
+    uncertain: dict[tuple[str, str, str], dict[str, Any]] = {}
     total = 0
 
     for key in witnesses:
@@ -197,7 +257,7 @@ def main() -> int:
         except Exception:
             continue
         for page in sorted(texts):
-            for cite in find_citations(texts[page]):
+            for cite in find_citations(texts[page], table, witness=key):
                 total += 1
                 entry = per_ref.setdefault(cite["reference"], {
                     "reference": cite["reference"],
@@ -211,14 +271,36 @@ def main() -> int:
                 entry["count"] += 1
                 entry["surfaces"][cite["surface"]] += 1
                 entry["min_confidence"] = min(entry["min_confidence"], cite["confidence"])
+                if cite["confidence"] < 1.0:
+                    slot = uncertain.setdefault(
+                        (norm(cite["token"]), cite["book"], cite["short"]),
+                        {"surfaces": collections.Counter(), "min": 1.0},
+                    )
+                    slot["surfaces"][cite["token"]] += 1
+                    slot["min"] = min(slot["min"], cite["confidence"])
                 if len(entry["places"]) < 60:
                     entry["places"].append({"doc": key, "page": page})
 
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
-    table = OUT_DIR / "bible_refs.tsv"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    table_path = out_dir / "bible_refs.tsv"
+    # A run must not overwrite decisions a reader has made (#46, rule 2): the
+    # confirmed column of a previous table is carried across by reference.
+    prior_confirmed: dict[str, str] = {}
+    if table_path.exists():
+        with table_path.open(encoding="utf-8", newline="") as fh:
+            header: list[str] = []
+            for i, row in enumerate(csv.reader(fh, delimiter="\t")):
+                if i == 0:
+                    header = row
+                elif header and "confirmed" in header and \
+                        len(row) > header.index("confirmed"):
+                    value = row[header.index("confirmed")].strip()
+                    if value:
+                        prior_confirmed[row[0]] = value
+
     rows = sorted(per_ref.values(), key=lambda e: (-e["count"], e["reference"]))
 
-    with table.open("w", encoding="utf-8", newline="") as fh:
+    with table_path.open("w", encoding="utf-8", newline="") as fh:
         writer = csv.writer(fh, delimiter="\t", quoting=csv.QUOTE_MINIMAL)
         writer.writerow(["reference", "book", "chapter", "count",
                          "min_confidence", "surfaces", "pages", "confirmed"])
@@ -233,11 +315,31 @@ def main() -> int:
                 e["reference"], e["book"], e["chapter"], e["count"],
                 e["min_confidence"],
                 " | ".join(f"{s} ({n})" for s, n in e["surfaces"].most_common(6)),
-                page_str, "",
+                page_str, prior_confirmed.get(e["reference"], ""),
             ])
 
+    cases: list[tuple[str, str, int, str]] = []
+    for (_nkey, book, short), slot in uncertain.items():
+        surfaces = slot["surfaces"]
+        cases.append((
+            surfaces.most_common(1)[0][0],
+            f"{book} {short}",
+            sum(surfaces.values()),
+            f"unsichere Lesung, min. Conf. {slot['min']:.2f}",
+        ))
+    written = write_open(cases, "bible", path=open_path, table=table)
+    try:
+        open_rel = open_path.relative_to(ROOT)
+    except ValueError:
+        open_rel = open_path
+
+    try:
+        table_rel = table_path.relative_to(ROOT)
+    except ValueError:
+        table_rel = table_path
     print(f"{total} citation(s) recognised, {len(rows)} distinct reference(s)")
-    print(f"wrote {table.relative_to(ROOT)}")
+    print(f"wrote {table_rel}")
+    print(f"open cases: {written} -> {open_rel}")
     for e in rows[:14]:
         top = e["surfaces"].most_common(1)[0][0]
         print(f"  {e['count']:4}x  {e['reference']:10} {e['book'][:18]:20} "
