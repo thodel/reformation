@@ -1,33 +1,9 @@
 # Seite 372
 
-de
-ge
-adat
-silichen
-ate
-ser
-Dern
-ze vnndt
-tenn
-a nd
-Dacranen
-ens stin
-aaris
-mfed
-e
-f
-aige
-anhens
-vnder
-vnd ic
-lich
-annen
-et h
 stiem esen vnd
 gehersamen ven
 glichr
 Die vierd schlussred
-116
 gott sin / vnnd get Inn vnns sin / weder der eing
 gert goter ven den der heulig zohamnnes allsoredt /
 gott ist die lieby verstand hie liebi fuͤr den volkom //

@@ -1,31 +1,31 @@
 # Seite 262
 
-Werlicher von Oten, esse meum noster
+Welicher von dem esse nüemerme sterbe
 hie erfindt ſich offenlich das Chrīstus
-selbs deßhalb ein brot oder
-genommen hatt, das er die ein lagen
+selbs allein deßhalb ein brot oder spys
+genennett hatt/ das er die ewig narung
 vertröstung und Sicherheit der Seel ist, dann
-das er, das sacrament essen, los schult mit
-ewerklich binn läben  Ich bin das Brot
-erß läben etc. Das von Lienhartens komen
-eß her wüssen wir wol den egenanten
-Von Ital etwas usß kouffer deß ergern
-in Christo bitten, etc.
-empfangen und erlonn ist, er ist aber
-deß rechtmess, alle halb nitt darzuͦ
-tröst der Seel, so nun Christus Gott und Mensch
-beide , doch fürnklich nach der gotheit ,
-Der Trost der Seelen ist, so vermerkt
-eigentlich, ob wir glich kunt nachganng von
-hettind das hier Brot und essen
+das brot deß sacraments essen, das behalt nitt
+ewecklich bim läben/ Ich bin das Brot
+deß läbens/ Das vom himel herab komen
+ist hie wüssend wir wol daß christus
+Vomn himel herab usß kkraft deß heiligen
+geists in in dem junckfräulichen lyb marie
+empfangen/ vnd erbozen ist/ er ist aber
+deß lichnams halb allein halb nitt der einig
+tröst der Seel/ so nun Christus Gott und Mensch
+beide , doch fürnemlich nach der gotheit/
+Der Trost der Seelen ist, so vermerkend wir
+eigentlich, ob wir glich keine nachgende wortt
+hettind/ das hier Brot und essen genommen
 werden für das glauben und
-vertrüwen. In gott, durch Christ, ergern, unserm
-brüder, weliches doch alles, allein
-griplich essen ist, das aber ettag uns gelych
-mitt sinem eligen worten klagt nachts. So
-sprüchen eroben daruff, und das brot
-aber, das ich üch gebenn werd, das ist
-min fleisch, ... das ich geben wird
-uns sag lieben, der welle. Hie ymmeck
-wir dann der Pfarrer
-worr gott, ir e lassch leut. Das die
+vertrüwen In gott, durch Christum Jesum, vnsern
+brüder, weliches doch alles/ allein ein
+geistlich essen ist/ das aber Christus uns soliches
+mitt sinen eignen worten klar machte/ So
+spricht er oben daruff/ vnd das brot
+aber/ das ich vͧch gebenn werd, das ist
+min fleisch, das weliches fleisch das ich geben wird
+vmb das läben, der welt/ Hie vermecken
+wir/ dann der Pfarrer die nechstgenden
+wort hatt zu kundschaft botten/ Das die Juden

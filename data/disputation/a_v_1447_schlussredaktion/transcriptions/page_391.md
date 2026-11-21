@@ -1,12 +1,10 @@
 # Seite 391
 
-pfarren von Bppen¬
+pfarrer von Appen¬
 nnd nhnu e ar
-Pfarrer von Sattg:
-26
+Pfarrer von Santg:
 vtt verlich vnns abermals / erkantuns de
-warheitt amen
-Allß fuͤrgeigen orden
+warheitt amen Allß fuͤrgeigen orden
 efunderau ne einen gesinden vertnnd nais
 ru e Jogn
 vnsers verstande Dienentszuͦ den worten den Infatiig
@@ -15,8 +13,7 @@ So nun die schenßred miner hern vnnd brlder
 Der predicanten In ordnung die iii verfacht den
 bo vnnd das blut Christi / nit westulich vnnd
 lyblich Inn dem brott der dancksagung moge
-empfangen werden //
-Dargegen Ich wie vor //
+empfangen werden // Dargegen Ich wie vor //
 malls / soͤllichs mitt Bilischer gschrifft bender thesa //
 ment woll bibracht moge werden vermeim vnd
 soͤllichs erstlich zuͦ einer bewaͤrung / min ich suͤr
@@ -29,9 +26,5 @@ glichen ouch / den kelch genomen / vnnd danck ge //
 sagt vnnd dnen geben sprecheide / trinckend all da //
 ruͤsß / Das ist min bluͦt des nuwen testamens
 welches fuͤr vill vergossen wirt zuͦ verzichung
-der suͤnd /
-Der
-Derglichen zuͦstimer
-Das der
-heilig peulie , e j cig Corith
-2
+der suͤnd /  Der
+heilig peulie , e j cig Corith Das der

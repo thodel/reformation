@@ -2,13 +2,11 @@
 
 onzib ist anetten die die gestc asten
 Das macht vnns Inn gott wanndlen / vnnd das
-lyblich essen nitt
-Dosß welchem aber bewert
+lyblich essen nitt Dosß welchem aber bewert
 ist Dasoron vnd essen / Inn Disem vj ͦ cap:
 genzlich nitt genomen wrtt / fuͤr ein vsser der
 sarramentlich brott noch fuͤr das lillich essen /
-des lichnans vnnd bluͦte Christi /
-Dem
+des lichnans vnnd bluͦte Christi / Dem
 e
 Disß woͤrtl aoto / Das ist / Ich wirt gebenn //
 Das sie eine vergessen wartt gestan wr gern
@@ -24,6 +22,6 @@ lich orbt verheissen wirtt / ouch das flnisch
 Christ nitt llich zerssen / sonnder wesenlich
 vnnd lyblichen zuͦ vnnserm laͤbenn getodt werden
 verhassen wirtt E..16
-farerevon Dartgalten /
+Pfarrer von Santgallen
 sut Cange erllaunng von ir Master
 vͤlrich Ineefuͤtt so Ica zum theill Christetlch

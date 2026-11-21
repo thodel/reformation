@@ -1,16 +1,12 @@
 # Seite 365
 
-4
 werden / buet der vorgenden wortenn Ich bin die
-lebenndi bret /
-Daruff aber niin
+lebenndi bret / Daruff aber niin
 verstand ist / Das ann disem ort mitt dem
-welches er dar //
-wortt brott / verheissen sig /
+wortt brott / verheissen sig / welches er dar //
 nach In dem nachtumll / vsstrucklich volfuͤrt
 vnd Iugesenzt hatt / welches erklaͤreid der
-mißgloub der zankenden zuden.
-Alls sy
+mißgloub der zankenden zuden. Alls sy
 sagten wie mag diser sin fbeisch vns gebenn /
 zeessen / Hatt es der her selbs erklaͤtt nit
 ernstlichern / worten / sagende/ warlich werrlch
@@ -27,5 +23,5 @@ Christenlichen laser vnnd zuͦ hoͤrer / gnuͦgsam
 zeverstan / Dann Je das wort Dabo
 begriffe die verheissine / Das ist diench
 geben wirtt /
-Wingl
+Zwingli
 Das nin lieber brider ment es sie hei die/

@@ -1,9 +1,7 @@
 # Seite 396
 
 odir
-3
-Di viend schlißtred
-11
+Die vierd schlußred
 gdens zichen sig Des tastemens Christ
 wiewoll / es / Das nuun testament genempt
 wirtt vsß der Episteld sun hebreten / vnnd ouch
@@ -21,8 +19,7 @@ ie missen gesagen Das der tonft
 Der de ist Im soerament / Im mren getacz
 ein figur ist / der ordergelaͤrung / des moͤnscheny
 vsß dem geist / wirt dadurch vnsers hern /
-Allß wer er noch
-Christi nit verleignet
+Christi nit verleignet Allß wer er noch
 nitt komen / wie die allten / ein vffsechen
 gehapt hand vff den zuͦ kunfftigen Christim
 lso sagen wr dancd / by visern Sara //

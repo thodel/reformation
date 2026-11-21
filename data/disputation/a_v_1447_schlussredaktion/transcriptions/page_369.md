@@ -18,8 +18,7 @@ Christus vom himell herab / vsß krafft des
 heilligen geists Inn dem Jnngefroͤnwlichen lyb
 Marie emnpfangen / vnnd erborenn ist Es ist aben
 des lichnans hilb / allein mit der einig trost der
-Seell
-Io nun Christus gott vnnd
+Seell Io nun Christus gott vnnd
 moͤnsch beide / Doch furnemlich nach der
 gotthent der trost der Ielen ist So ver //
 mercknd wir egentlich / ob wir glich keine

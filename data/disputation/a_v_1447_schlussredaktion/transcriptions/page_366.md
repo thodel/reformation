@@ -1,15 +1,6 @@
 # Seite 366
 
-wee
-wee
-mit
-Ci
-vasen
-erbin
-rlce
-da d
-Die vierd shlußsred
-157
+Die vierd schlußsred
 flesch Im bron / pessen Im nachtmall verheisen /
 vnnd erklaͤrts mitt den wortten / oder muͦdren
 der znden / dient vns mer / weder siner meynung
@@ -31,8 +22,7 @@ vnnd spricht alls das isß der wilr des
 der mich gesandt hatt / Das ein jeder der
 den vnn erkennt vnnd vff In trmet/ ewigs leben /
 habe / vnnd das ich dem bim leben / behallte / zur/
-lesten zyt
-Allß nun Christus Inn ver //
+lesten zyt Allß nun Christus Inn ver //
 genden worton Imselbe so vll zuͦgeben hatt / Das er
 sich ein thurer brot macht weder moses geben hette //
 ouch so thur macht / Das wer sich an Im liesse //

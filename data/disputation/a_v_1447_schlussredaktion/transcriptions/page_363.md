@@ -6,8 +6,7 @@ erg /(welchel ich geben winrd) luter zuͦ //
 verstan / Das er vnns zuͦessen / bevolchen vnd /
 Inscen werde sie sinfleisel / Dan er Je
 suster nienen brat hat/ geben / vsß welchem
-Dann In dem
-Er sinen lyb gemacht /
+Er sinen lyb gemacht / Dann In dem
 nachnlle er Das brot Inn die hennd /
 nam vnnd sagt nemennd vnnd essennd / das
 ist min lyb / Dann ernitt sagt das brett /
@@ -19,11 +18,10 @@ verfachn den trost / So er sin leben fir vis
 durch den tod geben wurd / Allß die
 gschrifft richlich bezugett zun Romern /
 am vͦ cap: zun Chornnthern / In der ersten
-Dann er Je vsß
-Epist, am gecap:
+Epist, am gecap: Dann er Je vsß
 Dem brott / sinsen lyb gemacht vnnd den
 sinen Jungern / gepotten / wellcher / Darnach
 am lestenn / nacht mall / fuͤr vnns gegeben /
 sollt werden /
-igli
+Zwingli
 Dann der eeenn beupff deruiten

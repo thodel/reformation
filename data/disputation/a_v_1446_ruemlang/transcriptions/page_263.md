@@ -1,31 +1,31 @@
 # Seite 263
 
-vnnd bs von herren hauß vnd hingeben
-weiln tag zu giſau gwührl ghin geworden
-Dann ſi vor bſtanden hatten, was er
-ding brot mehns, so er aber, erstandenn
-doch selb brot sin fleiß nempte, wurd
-und vertröste wider vor und merer
-also, wie mag uns der sin fleisch
-lassen geben. Also spricht Lutzern
-werdig, warlich sag, es üch
-ussnügen, so das ir esser des fleissz noch
-reissen müssen , vnd mir bald ein
-bildet , so werden dan leben , in von mir haben
-Hier verwunderte mich das gedachter unser
-buͦder, der wonn ußgän, von denen fleissig
-und bluͦt sacramentum esse coeles.
-so hatt hinaß gat. Weliger, min
-blessen, usser und nur blut trücktt ,
-den hatt ewigs leben, dann werd ich in
-loben behalten zur letzten Zeit, dann wir
-eigentlichen wüssend. Das
-leiplich grossen ewigen lebungen gott,
-uff dem, dann waren Gottes Sun sin und
-nichts hab erschriben haben , glauben
-das gott ewigs lieben aber das
-wurde, das hert der menschen widerumb stillstand .
-an aussprechen, deplais Gysen und
-allm. an den lütenn ge
-gottsg. Das wiewol der ewigen herren
-kurtz domino
+mit den wortt sines fleisches und hingeben
+werden/ noch in giſau gröseren zweifel gefürt werden
+Dann si voz bstanden hatten was er
+durchg brot meinte/ so er aber ietzunden
+das selb brot sin fleich nempt/ werdend
+si vngeduldiger weder voz/ vnd murre
+also, wie mag vns der sin fleisch
+zu essen geben/ Also spricht nun jesus
+zu inen warlig warlig sag, ich vͧch
+eß sig dan das ir essend das fleisch deß
+suns des mönschen/ vnd trinkend sin
+blut , so werdend ir das leben , in vͧch nitt haben
+Hie verwundert mich/ das gedachter vnser
+bruͦder, der wort verstat, von dem fleisch
+vnd bluͦt im sacrament esse so doch
+so doch hernach gat/ Welicher min
+fleisch esset/ vnd min blut trincktt ,
+der hatt ewigs leben, den werd ich im
+läben behalten zur letzten Zeit/ dann wir
+eigentlichen wüssend/ Das christus nit
+leiplich geessen/ ewigs leben gitt, sonders
+uff in/ den waren Gottes Sun sin/ vnd
+vns den tod gelitten hab/ glauͦben
+das gitt ewigs läben/ oder aber es
+wurde das heil der menschen widerumb stillstand .
+an vsserlichen liplichen dingenstan vnd
+nitt allein an der lutern gnad
+gottes/ Es wurdend auch zwen
+weg/ zur seligkeit sin/ einer

@@ -1,12 +1,11 @@
 # Seite 387
 
-2
 Der verzib vnnses kriders erfleut vnneser
 Das en sch n witer Inlassn Die ostgedachen
 wortt / kue verheisstliche wortt / des leblichen
 estus zelewiren wellen Im ouch soblichen gnan
 gen alhug bern zuͦlassen /
-Johames buchstab
+Johannes Buchstab
 Ilh won berichh / Das an anzegnen oren / von
 Drerley brott gesagt werden / Zuͦm ersten von
 Dem himell brott des sich die zuden beruͦng//
@@ -17,8 +16,7 @@ sich Shristus bezugt von gott sinem himelschen /
 vater / den zuden geben sin / So er von dem //
 osellgen allso spricht Mayses hat uͤch nitt geen //
 Das brott vom himell / aber min vatter / gebtt vsß
-wann das
-von himell Das war brott /
+von himell Das war brott / wann das
 ist Das waͤr brolt / Das vom himell heral ist
 gestigen vnnd gipt Das lebenn der wellt n..
 Das drt brett ist / Das war fleisch gots / Das

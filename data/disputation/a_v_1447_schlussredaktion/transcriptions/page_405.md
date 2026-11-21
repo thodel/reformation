@@ -1,6 +1,5 @@
 # Seite 405
 
-1
 abe paulns zuͦn Rhamern lert / der darggsond
 ollwyagen konon uakenan / der Das is
 allso / Das die vßlegung dem glauben gemaͤß sye
@@ -27,4 +26,4 @@ Durch nm hein Die pedonen gesigt ist arder
 Die arngen E ist vffgefaren zu hiueln ud
 ist zuͦ knfftig zu richten / vͤber die lebendigen /
 vnd todten
-pfaktervon Donze /
+pfarrer von Santgal:

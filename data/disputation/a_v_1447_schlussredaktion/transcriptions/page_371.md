@@ -2,8 +2,6 @@
 
 # git das ereis
 leben /
-ne
-o9
 wrigeletem ger / saiders vff zun Den wene
 gottes vun sin / vnnd fuͤr vnns den tiod gelatenn /
 haben gloubenn / Oder aber es wurde das halb
@@ -16,10 +14,8 @@ Im Sacramentt / zum Dricten So hettenn die
 wostell / sammpt / der kilchen / Die mitt Im das
 nachtmall begangenn Inn Dem Suramentligen
 essen / die erwirbung des ewigen lebens schonn
-vnnd were der tod Christi ann
-erlannget
-Das aber wyter
-Inen vrflussg geiefen //
+erlannget vnnd were der tod Christi ann
+Inen vrflussg geiefen // Das aber wyter
 wer Inn den worten Christi / min fleistn ist
 warlich ein Spisß vnnd min bluͦtt wonlich
 ein tranck / soll glich allß wenig vff das Sar/
@@ -32,4 +28,3 @@ er durch sin flists essen nuͤtzit nndens z //
 verstan gipt / weder uͤsl Inn vertrut sin vnd
 veitchen / Der aber den tod Infericth fur vis
 geliten hatt / Es mocht ouch mezin vns In
-fesan

@@ -21,8 +21,7 @@ lamlis das mit sinem bluͦt hat soͤllen hinweg
 neͤmen die suͤnd derwellt vnd so wir des
 herren nachnall halltenn mit dancksagung
 Das soͤllches laͤmly fuͤe vns geipffert worden /
-Sio werden wir in glichem gloubenn
-ist
+ist Sio werden wir in glichem gloubenn
 erfunden zu beschlusß Jetzunder das min her/
 pfarrer / sich will lieber Cassen / funden by den
 Matheo / denn by dem Luca vermeint ich

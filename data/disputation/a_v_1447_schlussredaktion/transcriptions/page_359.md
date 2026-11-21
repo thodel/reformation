@@ -1,6 +1,6 @@
 # Seite 359
 
-farrer von anthallen
+Pfarrer von Santgallen
 lls sach langen min lieber Her aester
 Raich zwungl / Das vi ͦ cap: Johanns
 Esines verstands Inhal anzeigt hatt / Namlich
@@ -12,8 +12,7 @@ orat sin glauͦden sollr verstanden weriden wird
 ger ein vnuolkoumen verstand / fuͤrtragen / der
 spruch der da wirtt essen / von disem brott /
 mag alda essen fuͤr glouben mit verstandenn
-Das aber do die verheissans
-werdenn /
+werdenn / Das aber do die verheissans
 vff die msatzung des nachtmal Christi
 nit begriffen oder verheissen sie / sind die wort
 hall vnnd klar das / das so er am nachtmll

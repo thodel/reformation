@@ -28,4 +28,4 @@ Sprücher, es ist war, üwer vatter haben
 da man in der wüst gessen ghabt
 so sind aber gestorben , dieß ist ein brot
 das vom himel komen ist/ das
-och herren
+och himell rein

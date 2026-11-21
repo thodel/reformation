@@ -1,11 +1,7 @@
 # Seite 394
 
-wer
-ird
-ararden
-De vierd schlusßtred
-15
-Pfarrer von dantg
+De vierd schlusßred
+Pfarrer von Santg:
 Aff anntwurt mins hern doctors uͤber die
 wort / Mathei / vnd pauli / begert / er soͤllichs Im
 vjͦ cap: anzagt recht verstanden werden / des
@@ -27,8 +23,7 @@ hern / mitt haͤlen / starcken vßgennckten wortenn /
 weiewall ich mich vmb das woret Sacrametit
 nit Inlassen wirt vermoͤcht Im wol dargegen /
 werften / Das wortt gegemnig oder das wort
-welches
-misterar / Das wort satramenti/
+misterar / Das wort satramenti/ welches
 da ist Christis zun Bodreisern am / cap: mn
 her dectee vrtfallnhlich basß weyß den vnder //
 scheid der Saramemen gm nuwen vnnd allten

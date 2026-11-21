@@ -1,29 +1,29 @@
 # Seite 264
 
-Durch den rad offnen, der ander durch den
-Lepus meiner klein solle .
-Sacram̄en zuͦ dritt , so hatt₎ die Apopel sapen
-den kilchen, die mußte mitt im das actinale
-in den sacramenten essen, die er ewer,
-by disz ewigen läbe siſtan erlangett
-und wer der tod Es in an andern
-flissig gewesen. Das aber, wenn von
-in dem neuen Christi, min fleiß, gsto
-waltig ein spitz und
-warheym, danck, sol gott alsz, wie
-Uff den sacramenten essen gyon, was
-auch der worden, etc. Werer dann und
-sins im hiemag volgett, worliept
-Im plaisß ysert und im bluetruckt
-den kleyer und ich in
-herr, ochend wer eigentlich, das er den
-ist fleisch essen, nützer andren zeversagen.
-gitt worden uff dem verinen sin und
-verhieben , sonder aber dem tod im fleisch
-und gelitten hatt, es machet ouch
-muͤtter, uns inn gott sin, und goter im
-umb sin, weder der Christo gottes
-von den der Egreng Do also ratt gott.
-Ist die darby verstand, her Lebi, frund
-vollkommen stand vnd verrichtung
-menspelig in gotz.
+Durch den tod christi der ander durch das
+liplich essen sines fleisches vnd bluͦts im
+Sacrament/ zuͦm dritten , so hetten die Apostel sampt
+der kilchen, die mit im das nachtmal be
+gangen in dem sacramentlichen essen, die er ewer
+bung deß ewigen läbens schon erlangett
+und wäre der tod Christi in inen vͧber
+flüssig gewesen/ Das aber witer volget
+in den worten Christi/ min fleisch ist
+wahrlig ein spiß und min blut
+warrlich ein dranck/ sol glich alß wenig
+vff das sacramentlich essen gezogen werden/ alß
+auch die vordrigen wortt/ dann von
+stunden an hernach  volgett/ welcher
+min fleisch esset/ und minm bluͦet trinckt
+der blipt in mir/ vnd ich in im
+hier sechchend wir eigentlich, das er durch
+sin fleisch essen, nützit anders zeuersten.
+gitt weder uff in veruwen sin vnd
+versichert/ der aber dem tod im fleisch
+für vns gelitten hatt/ es machet ouch
+nütztit/ vns inn gott sin vnd gott in
+vns sin, weder der einig geist gottes
+von dem der heilig Johannes also rett/ gott
+Ist die liebe (verstand hier Lebi für den
+vollkommen stand vnd verrichtung/ des
+menchlichem gmuͦts  in gott).

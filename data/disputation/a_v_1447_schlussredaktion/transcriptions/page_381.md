@@ -1,22 +1,15 @@
 # Seite 381
 
-1
-2
 gotes / wasser alls welt / Das liements Eemnit
-So aber sy gabenn goͤttlich wort / vnnd /
-sind
+sind So aber sy gabenn goͤttlich wort / vnnd /
 versprehung / bo sud sy vnns trostlich nitt von tr/
-en e wne Der
-v erdem
-worts / vnnd verheissing gottes /
+worts / vnnd der verheissing gottes / v erdem
 oich meldert Die aposterl Imn sutrameitlichen esten
 wurden das ewrig lyebenn schon ergollt gaben //
-wann das der her
-Verstan ich allso //
+Verstan ich allso // wann das der her
 anzeiger znn der darreicung / so er sinen he
 hiit geheisstem hatt er darzuͦ thin welcher fur
-derglichen ouch wie
-uͤch geben wirtt /
+uͤch geben wirtt / derglichen ouch wie
 min lieler gger vnnd bruͤder Den upruch
 anzucht Der da Isser nn fleisch i gell
 erzeverstan vff Inn vertruwt werden ver //
@@ -30,6 +23,5 @@ Der einig geist mache In Inn sin / soll keineswer
 verlengit weiden / Dann alles das der vsen
 lich mansch / thut Ist vergebenlich / erthi / dan
 venhs mit zust vnnd wilenn / dergeists Je /
-Im wurckend
-d e s der
+Im wurckend d e s der
 so Je atwlis Jnn der schrifft geuit is der /

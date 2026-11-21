@@ -1,30 +1,30 @@
 # Seite 265
 
-Welicher im z. den diebiblix¬
-die blegt in gott und gott blegt.
-dann her lchend wer das die gantz
-und deß messley gott.
-nützion anders ist , dann weder ein ver-
-ttlicher geists mitt vnserm
-durch den vlyß glouben, den wer zuͦgarten
-haben und dann so beliben und
-gott und gott in unser. Es folgen
-auch werde , glich wie in oben den bedingten
-vater gsinen hatt, also las ouch das uns
-vatterns willen. Hie ist wysenbge
-das Christus sine leihan selbs über
-grahsen hatt , so er aber vnßer esse , vnd
-Gastius, suum esse und gfoistern.
-verglichen , so verstand wie offerlich
-das er vns hie , bauen liplich esse Legeb.
-diß das war und underhin
-und beliben , sonder er rett bis allem
-von der vereinigung 1 deß gottlichergiengs
-mitt unsern gmeinen. Grab, wie ouch sin
+Welicher nun in der liebi blipt
+die blipt in gott und gott blipt in
+im/ hieer sechend wir das die gantz
+sum deß menschlichen gemüts gegen gott
+nützig anders ist , dann weder ein ver-
+verenigung des göttlichen geists mitt vnserm
+durch den vesten glouben, den wir zuͦ gott
+haben/ vnd den so blibedn wir in
+gott und gott in uns/ Es volgen
+auch weiter glich wie mich ein lebendiger
+vater gsendet hatt/ also läb ouch ich vmb des
+vatters willen/ Hie ist wissenbar
+das Christus sinen lichnam selbs nitt
+gessen hatt , so er aber vnßer essen/ vnd
+gehorsam sinens essen und gehorsamen
+verglicht/ so verstand wie offentlich
+das er vns hie/ kein liplich essen fürgibt
+durch das wir in im/ vnd er in
+uns belibe/ sonder er rett hier allein
+von der vereinigung deß gottlichen geists
+mitt unsern gemüten/ Grad wie ouch sin
 Menschheit, mit Gott vereinbart ist
-et semper comparatorem, deequipationem, ipsam
-an volgt wy ter. So wirt nach ouch der mich
-dessent uns nüwt wellen leben,
-sehr wir aber offenlich das erst an
-anzeygt iſt. Namlichen das das geiſtlich
+et hoc per comparationem non per equipationem/ jetzund
+an volgt witer. So wirt oach doch der mich
+isset/ vmb minet willen läben/ hie
+sechend wir aber offentlich das erst an
+zeyigt ist/ Namlichen das das geiſtlich
 der verrichtung

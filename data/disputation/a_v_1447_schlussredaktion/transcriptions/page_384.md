@@ -1,30 +1,15 @@
 # Seite 384
 
-v
-de
-Hat
-lye gend
-eie
-ce
-pn de
-e
-fiond
-sinen
-Derse
-prorn
-1So
-Di vird schlußred
+Die vierd schlußred
 anderist weder bewerln ein Jeder / durch h
 selbs / Jaem ger eig um grobatr) vnser Span
 ist / ob die evoret das ist min lichnnam /
 musen wefnlich vnd sabstanlich verstenden /
-vnnd so vnser widerpartt / by
-werden /
+werden / vnnd so vnser widerpartt / by
 dee aen l nhe dudsnnt
 bestan mag / So suge sy ein wortt der ver //
 gessunng / Da aber hein verheissing ist / des
-nd
-acranients von dem der vpan ist
+acranients von dem der vpan ist nd
 o asselsortt bwiren sad. Ein ver //
 hessung san / So wellands sy es bwaͤren
 milt den worten / denen sy disen zehillff ge //
@@ -36,8 +21,7 @@ man widerumb / Darumb das man gelicet hagt
 vnnd helt man die frag widerumb an vnnd
 spricht worumb hat man geliet / So volgt
 Imer dar / die vordredg / antwurt / vnd nimnptt
-lls ouch hie / So man ven der
-kein end /
+kein end / lls ouch hie / So man ven der
 worten Christi wegen Im nachtmall geredt /
 harzn zuͦcht wort / der verheissung So zucht
 man wort herzun / Die man dannechin be //

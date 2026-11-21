@@ -1,8 +1,7 @@
 # Seite 361
 
 wirt von den anh Jim den eisen gerde
-So nun der nachgend punch
-ist
+ist So nun der nachgend punch
 ouch vom pfarrer / erkennet wirtt / das er
 lurte / von dem fleisch Christi In tod hinge /
 ben / vnnd des woͤrtly welthesfleisch der /
@@ -16,8 +15,7 @@ wider den pfaͤrrer / Das hie zwurendt stat
 aabe / Das sist Ich wirts gebenn / Dames
 an aatrlich Eganag nath st /
 en y fag Zennerg
-farper von satit
-Dallenn /
+Pfarrer von Sant Gallen
 Sm her vnnd matlruͤder / Nriste Ceruch
 nach nechstigem furtrag will in die allmechig
 teitt nitt geredt habenn / Denn gat polusßsmt
@@ -26,4 +24,3 @@ wortt luttett / vnnd was eßß verfacht volstreclt
 Ob wir aber glich / soͤllichs mitt vnnser / veringh
 nitt vernomend / wie wir nitt wuͤssenn welche
 Da ist der weg / des geiste ouch In was gestallt
-er allß die verheissung hie / Johannis am vj cap //

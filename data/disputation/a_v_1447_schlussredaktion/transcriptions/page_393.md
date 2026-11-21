@@ -1,19 +1,15 @@
 # Seite 393
 
-Den Inhallt / diser wert / Das o
-will
+will Den Inhallt / diser wert / Das o
 sich dernnass hallt / wie sich gepuͤrtzuhalltenn /
-Da werden wir ein
-wo dasatrament sind /
+wo dasatrament sind / Da werden wir ein
 gemeud Rnee Jn dan vom Bacran ensara
-Allso das by Jedem
-mentlich zuͦreden /
+mentlich zuͦreden / Allso das by Jedem
 sicrament / zwey dug begriffen werdent / etwas
 Das da bediner / wirt vnnd ettwas das da
 bediet wirt / alls Iun sem touff beducet vns
 Das wasser die gnad des heilligen geists vnd
-Des haben wir
-die widergebaͤrung
+die widergebaͤrung Des haben wir
 px allen sinmenen Das etlich sonderliche holte
 geheimnus vnnd treffenliche leer vns firgeft
 werden / mit vsserlichen zeichen / Damit wir
@@ -31,4 +27,3 @@ da eiwei / duceler sand nogen basß erkeien
 so will ich nun hoͤren von minem bruͦder vft/
 wellchen worten / er allso vschafften well /
 vnnd Im darunch wyter antwurten
-4

@@ -1,20 +1,6 @@
 # Seite 358
 
-ich en
-he
-agd
-dd
-toten
-malg
-lise
-dar
-nts der
-hug
-d
-4b
-1
-149
-Die vierd schlisred
+Die vierd schlußred
 cap: tratt sinen eigentlichen verstand vff dem rucken
 Namlich das er vns hiemitt dem wortt brott vnnd mitt
 Dem wortt min freisth / nittzeverstan geptt / das er vns
@@ -25,8 +11,7 @@ tod / Das vermerckt man so er spricht welches fleisch
 ich geben wirtt / vmb das leben / der wellt / sinflusch
 In tod geben hatt / die wers lebenndig gemacht liblichen /
 geessen hatt gott nienen geredt / Das es lebenndig
-vs anndern puucktenhalb //
-macht /
+macht / vs anndern puucktenhalb //
 erlemen wir Das gott halli derer verheisten hatt
 Das er aber vnns das fleisch sines suns verheissen
 hab lylich zeessen zegeben / das mag / mitt gschrifft

@@ -1,8 +1,6 @@
 # Seite 402
 
-56
-16
-Die verd schlusred
+Die vierd schlußred
 De ist nin bee / wer sicher aber nit / Dis untt klares
 worten gesprochen wirtt / by Euc/ Das ist min heo
 Derand om gebene wnt der zuͦsan by dem luan //
@@ -13,7 +11,7 @@ Des lebs Christi In tod fuͤr vns geben / Doch wil
 ich hoͤren vff welchein wortt Ltathei / oder Lute
 min hei pfower sften w vnnd sich daff
 lassen well
-nsarrer von Sang/
+pfarrer von Santg:
 Iff den ersen faͤrtoag mins gern dechrs werub
 ich stanchen trag vone weit anameit Erkonnend
 alle Christenlich geleren / das wort satr ament die
@@ -31,5 +29,3 @@ ich mermall In sinen vßgangnen bichern / so er Inen /
 gipt gelesen hab / Das sich aber min her doctor ver //
 lasset / vff die wort Luce am xxij cap: Da der
 kerch ein duno thestament genampsst wirt sygt der
-tri
-ca
