@@ -2,21 +2,21 @@
   "unit": 155,
   "pages": {
     "druck_1528": [
-      169
+      171
     ],
     "a_v_1447_schlussredaktion": [
-      288
+      290
     ]
   },
-  "alignment_score": 0.1435,
+  "alignment_score": 0.2618,
   "coarse": {
     "paragraphs": {
-      "a": 1,
+      "a": 4,
       "b": 1
     },
     "counts": {
       "equal": 0,
-      "replace": 1,
+      "replace": 4,
       "delete": 0,
       "insert": 0
     },
@@ -24,336 +24,576 @@
   },
   "sentences": {
     "units": 12,
-    "matched": 2,
+    "matched": 5,
     "only_a": 5,
-    "only_b": 5,
-    "similarity": 0.3705,
+    "only_b": 2,
+    "similarity": 0.3726,
     "pairs": [
       {
+        "op": "match",
+        "a": "**Schlußred. LXXVIII**\nnichtigen Element / vnnd wältlich ſatzungen abgefůrt\nſind / haben einen tag heiliger dañ den andern gehalten/ des vernåme man den ſpruch Pauli zů den Galatern am\niiij.",
+        "b": "d\nwate\nhwvn\n36\n116\nDi indar Schrissnd / gen Elamenit vnd martlich bazungen, algefuͤrt\nsind, haben Einen tatt heiliger dann den indren te\nhalten, des vernaͤme man den Spruch Pauli In der\nBalathern, am iiij.",
+        "similarity": 0.3692
+      },
+      {
         "op": "only_a",
-        "a": "Schlußred. LXXVII\nſet/nit flüßt/ ſonder es wirt offenbar/dem ſelben widrig\nerfunden. Zwingly. [J]e begår ich lieben brůder/etwas wyrrer vonn\nder ewigen reinigkeyt Marie zůreden/vß der\nvrſach/das vns die Båpſtler vßgeben/ſam wir\ndie Eer Marie verkleindrindte/",
+        "a": "Nun aber ſo jr gott erkent haben/zc. Das er aber an= Vnd hatt ſol=\nzogen hatt / die Kilch habe ſolche ding gott zů lob vnnd lichen text da=\nEer angericht /",
         "b": null,
         "similarity": 0.0
       },
       {
         "op": "only_a",
-        "a": "ſo doch ſy die aller grös=\nſten ſchmach/vnnd argwan jr junckfrowſchafft vff brin=\ngen/vß ſprechen. Es werde in d` geſchrifft nit erfun=\nden/das ſy entlich ein Junckfrow bliben ſye vnd ermes=\nſen/nitt das Eſaie am vij.",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_a",
-        "a": "Capitel alſo ſtat. Darumb\nwirt üch Gott ein wunderzeychen geben. Nåmend war/ es wirdt ein tochter empfahen vnd gebåren/vñ ein nam\nwirt ſin Emanuel/",
+        "a": "geſton wir nitt / ſonders Gott iſt damit mit geleſen. geſchmåcht worden / diewil fůrgebē iſt / als man mit ſol=\nlichem jm etwas abuerdienen möge /",
         "b": null,
         "similarity": 0.0
       },
       {
         "op": "only_b",
         "a": null,
-        "b": "nd\nged\nm\nvn\nvind\nvnder\n2\n1\nDrnde belussnd\nvff lin bringen vnd Oprechen Is werde In geschrist\nnitt erfunden, das Si entlich an Junckfeoͤw hliban\nsie vnd Ermaͤssen nitt, Das fage am vij Capittil\nlso Stat, Darumb wirdt uch gott Ein wunderzeich\nin gaͤben, Noͤmand war, Es wirdt Ein tochter\nempfachen vnd gebaͤren, vnd din nam wirdt ein\nEmannel /",
+        "b": "Nun aber So Je gett er krut ha/ ben Dar Eraber antzgen het, Die kilch hale\nDolche ding, gott zu lob vnd Er angericht, gestan\nwir nitt, Suͤnders gott ist damett geschmnaͤcht\nworden, diewil fuͤrgaben Jst, Ale man nuͦtt Solichem,\nIm etwas ab verdienen moͤge, n hat ouch Chri¬/",
         "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "was wåre es für ein wunderzeychen\ndas ein tochter empfienge vñ gebåre/ſo doch alle/die em=\npfahen vnd gebåren/ouch Junckfrowen ſind geweſen/",
-        "b": "was waͤre es fue ein wuͤnderzeichen,\ndas kin tochter oinpfienge vnd gebaren So doch alle\ndie empfichen vnd gebaͤren, auch Junchfroͤwen\nsind gewasen, Aber das Jst ein wunder, das\nwun Rimiclfrair ompfache vnd ein Junckfroͤw blibr,\ndas Si gebaͤre vnd tint froͤw klibe,/",
-        "similarity": 0.3243
+        "a": "man hat ouch Chri\nſtum Jeſum zů einem vnuolkomnē meyſter darmit dar\ngeben / als ob er vns nit gnůg gelert habe /",
+        "b": "stum Jesum zu einem vnvokkomnen meister, dar¬\nmitt dar gaͤben,/ Als ob Ee vns nitt gmg gelert\nhabe, was dem vetter gefellig Ist /",
+        "similarity": 0.4444
+      },
+      {
+        "op": "match",
+        "a": "was dem vat=\nter gefellig iſt / wo man aber fry willig etlich tag zůſamē\nkåme / in hözung des gottes worts /",
+        "b": "wo man aber\nfry willig, Ettkichtag zusamen kaine, Jn haͤrung\ndes gottro worts / vnd vib etwas anligende Sachen,\nrenstliche gebatt, mitt fastung zuͤtum wie wir la /",
+        "similarity": 0.3333
       },
       {
         "op": "only_a",
-        "a": "aber das iſt ein wunder/das ein Junckfrow empfahe/ vnd ein Junckfrow blibe/das ſy gebåre vnd Junckfrow\nblibe ſo im nun alſo.",
+        "a": "vnd vmb etwas an=\nligende ſachen / ernſtlich gebåt / mit faſtung zů thůn / wie\nwir låſen / das die Apoſtel gethon habē /",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "only_a",
+        "a": "in Actis am xiij. vnd andren orten mer / dasſelb erkanten wir / von Gott\ngeoffenbaret ſin / warhafftig / erſam. **Am xiij. tag Jenners.**\n**Bůchſtab**\n\nDJe wort ſancti pauli /",
+        "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "sen, das die Apostel gethen heben, In Actis xi\nvnd andren orten mer, das selb er kanten war, von\ngot griffenbiret ein, nachiftig /",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "zun Galathern am iiij. vō\ntagē / Moneten / zc. dienen nit vff vns Chriſten / ſonders alleyn vff die / ſo die brůch vnd gewon=\nheiten des geſatzes noch ůbten /",
+        "b": "Ersam\n12\nxm xiij tag Denners\nJohannes buchstab¬\nDie mit Sancte Sauli zun dalechern am ini. von tagen, manetenn, dienen nitt vff vns\ncheisten, Sunders allein vff die, So dre bruch vnd\ngewonhatten das gesaczes noch veten, Das aber\nErungaͤng, fast tag di bum bann gebotten bißhar//",
+        "similarity": 0.3467
+      },
+      {
+        "op": "only_a",
+        "a": "das aber krůtzgeng / faſt=\ntag / zc. Bīm bañ gebotten bißhar iſt nit vnbillich / wider\ndie vngehorſamen / vnd die ſo ergernus zůgeben geneygt\nſind /",
         "b": null,
         "similarity": 0.0
       },
       {
         "op": "match",
-        "a": "So volget/das ſy vor vnd nach der\ngeburtt ein Junckfrow geweſen/dan̄ das iſt ein wunder/ ſo wir nun nit darwider haben in der geſchrifft/warum.",
-        "b": "So Jm nun\nalso, So volget, das Si vor vnd nach der geburt, Em\nfunkfein garisin,/ dum dis ist ein wunder /",
-        "similarity": 0.4167
-      },
-      {
-        "op": "only_a",
-        "a": "Sol man ſage/das jr ewige Junckfrowſchafft/nit be=\nwårt möge werden/in der geſchrifft/ſo doch das bewårt\nwirt/das ſy empfangen vnnd gebozen hatt vnuerſerter\nJunckfrowſchafft/vnd nüt das ſy geſchwecht ſye/hier=\nzů diener ouch/dz Lucam erſten ſy ſelber rede/wie wirt\ndas zůgan/ſo ich dhein mann erken/vnd Ezechielis am\nxliiij. Cap. D",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "m nun ndt darwidee haben Indir Schritt,\nworumb dal nn Sigen, das Ir ewige Junck\nfroͤnschift, ntt kevalt mogt werdenn, In der\nSchrift So doch das bewaͤlt wirdt, das Si emptem/",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "en vnd gcbnon het rnunsiter tucktrunrsthift / vnd n i gste hu danit\nuh du cl ie dille ridt as mudt\ndas zustnn degiin nn orken vnnd\nEichielis am xxvvij.",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "cati\ntrhns kuchstl\nVer ger watti luner eg zugilen, de Damntig\nnd wilfzitten tig, vfgesiht ein wordris von der\nkrchen frcrit mch wann allie die /",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "So die airch\nheotet vnd nit gestrige nider s getomiet tich//",
-        "similarity": 0.0
+        "a": "das aber der widerchriſt ſolichs gethon ſoll haben / verſton ich nit / wår hie đ widerchriſt verſtanden ſol wer\nden / ob der Bapſt / oder ander ſyen. D ij",
+        "b": "Ist nitt vnbillich, wider die vngehorsamen, vnd die\nSo Ergernis zugaͤben geneigt sind, Das aber der\nwiderchrist Slichs gethen Dol haben, petstan Ich\nnitt war hie der derchrist verstanden zal nerden/ ab der Babst, old ander Syen,",
+        "similarity": 0.3692
       }
     ]
   },
   "fine": {
-    "similarity": 0.2653,
+    "similarity": 0.4779,
     "words": {
-      "a": 240,
-      "b": 235
+      "a": 246,
+      "b": 252
     },
     "segments": [
       {
         "op": "replace",
-        "a": "Schlußred LXXVII ſet nit flüßt ſonder es wirt offenbar dem ſelben widrig erfunden Zwingly J e begår ich lieben brůder etwas wyrrer vonn der ewigen reinigkeyt Marie zůreden vß der vrſach das vns die Båpſtler vßgeben ſam wir die Eer Marie verkleindrindte ſo doch ſy die aller grös ſten ſchmach vnnd argwan jr junckfrowſchafft",
-        "b": "nd ged m vn vind vnder 2 1 Drnde belussnd"
+        "a": "Schlußred LXXVIII nichtigen Element vnnd wältlich ſatzungen abgefůrt",
+        "b": "d wate hwvn 36 116 Di indar Schrissnd gen Elamenit vnd martlich bazungen algefu rt"
       },
       {
         "op": "equal",
-        "a": "vff",
-        "b": "vff"
+        "a": "ſind haben einen",
+        "b": "sind haben Einen"
       },
       {
         "op": "replace",
-        "a": "brin gen vß ſprechen Es",
-        "b": "lin bringen vnd Oprechen Is"
+        "a": "tag",
+        "b": "tatt"
       },
       {
         "op": "equal",
-        "a": "werde in",
-        "b": "werde In"
+        "a": "heiliger",
+        "b": "heiliger"
       },
       {
         "op": "replace",
-        "a": "d geſchrifft nit erfun den",
-        "b": "geschrist nitt erfunden"
+        "a": "dan",
+        "b": "dann"
       },
       {
         "op": "equal",
-        "a": "das",
-        "b": "das"
+        "a": "den",
+        "b": "den"
       },
       {
         "op": "replace",
-        "a": "ſy",
-        "b": "Si"
+        "a": "andern gehalten",
+        "b": "indren te halten"
       },
       {
         "op": "equal",
-        "a": "entlich",
-        "b": "entlich"
+        "a": "des",
+        "b": "des"
       },
       {
         "op": "replace",
-        "a": "ein Junckfrow bliben ſye",
-        "b": "an Junckfeo w hliban sie"
+        "a": "vernåme",
+        "b": "verna me"
       },
       {
         "op": "equal",
-        "a": "vnd",
-        "b": "vnd"
+        "a": "man den ſpruch Pauli",
+        "b": "man den Spruch Pauli"
       },
       {
         "op": "replace",
-        "a": "ermes ſen",
-        "b": "Erma ssen"
+        "a": "zů den Galatern",
+        "b": "In der Balathern"
       },
       {
         "op": "equal",
-        "a": "nitt das",
-        "b": "nitt Das"
+        "a": "am iiij Nun aber ſo",
+        "b": "am iiij Nun aber So"
       },
       {
         "op": "replace",
-        "a": "Eſaie",
-        "b": "fage"
+        "a": "jr gott erkent haben zc Das",
+        "b": "Je gett"
       },
       {
         "op": "equal",
-        "a": "am vij",
-        "b": "am vij"
+        "a": "er",
+        "b": "er"
       },
       {
         "op": "replace",
-        "a": "Capitel alſo",
-        "b": "Capittil lso"
+        "a": "aber an Vnd hatt ſol zogen hatt",
+        "b": "krut ha ben Dar Eraber antzgen het"
       },
       {
         "op": "equal",
-        "a": "ſtat Darumb",
-        "b": "Stat Darumb"
+        "a": "die Kilch",
+        "b": "Die kilch"
       },
       {
         "op": "replace",
-        "a": "wirt",
-        "b": "wirdt"
+        "a": "habe ſolche",
+        "b": "hale Dolche"
       },
       {
         "op": "equal",
-        "a": "üch Gott ein",
-        "b": "uch gott Ein"
+        "a": "ding gott zů lob",
+        "b": "ding gott zu lob"
       },
       {
         "op": "replace",
-        "a": "wunderzeychen geben Nåmend",
-        "b": "wunderzeich in ga ben No mand"
+        "a": "vnnd lichen text da Eer",
+        "b": "vnd Er"
       },
       {
         "op": "equal",
-        "a": "war es wirdt ein tochter",
-        "b": "war Es wirdt Ein tochter"
+        "a": "angericht",
+        "b": "angericht"
       },
       {
         "op": "replace",
-        "a": "empfahen",
-        "b": "empfachen vnd geba ren vnd din nam wirdt ein Emannel was wa re es fue ein wu nderzeichen das kin tochter oinpfienge"
+        "a": "geſton",
+        "b": "gestan"
       },
       {
         "op": "equal",
-        "a": "vnd gebåren",
-        "b": "vnd gebaren"
-      },
-      {
-        "op": "delete",
-        "a": "vñ ein nam wirt ſin Emanuel was wåre es für ein wunderzeychen das ein tochter empfienge vñ gebåre",
-        "b": ""
-      },
-      {
-        "op": "equal",
-        "a": "ſo doch alle die",
-        "b": "So doch alle die"
+        "a": "wir nitt",
+        "b": "wir nitt"
       },
       {
         "op": "replace",
-        "a": "em pfahen",
-        "b": "empfichen"
+        "a": "ſonders",
+        "b": "Su nders"
       },
       {
         "op": "equal",
-        "a": "vnd",
-        "b": "vnd"
+        "a": "Gott iſt",
+        "b": "gott ist"
       },
       {
         "op": "replace",
-        "a": "gebåren ouch Junckfrowen",
-        "b": "geba ren auch Junchfro wen"
+        "a": "damit mit geleſen geſchmåcht",
+        "b": "damett geschmna cht"
       },
       {
         "op": "equal",
-        "a": "ſind",
-        "b": "sind"
+        "a": "worden diewil",
+        "b": "worden diewil"
       },
       {
         "op": "replace",
-        "a": "geweſen",
-        "b": "gewasen"
+        "a": "fůrgebē iſt als",
+        "b": "fu rgaben Jst Ale"
       },
       {
         "op": "equal",
-        "a": "aber das",
-        "b": "Aber das"
+        "a": "man",
+        "b": "man"
       },
       {
         "op": "replace",
-        "a": "iſt",
-        "b": "Jst"
+        "a": "mit ſol lichem",
+        "b": "nu tt Solichem"
       },
       {
         "op": "equal",
-        "a": "ein wunder das",
-        "b": "ein wunder das"
+        "a": "jm etwas",
+        "b": "Im etwas"
       },
       {
         "op": "replace",
-        "a": "ein Junckfrow empfahe",
-        "b": "wun Rimiclfrair ompfache"
+        "a": "abuerdienen möge man",
+        "b": "ab verdienen mo ge n"
       },
       {
         "op": "equal",
-        "a": "vnd ein",
-        "b": "vnd ein"
+        "a": "hat ouch Chri ſtum Jeſum zů einem",
+        "b": "hat ouch Chri stum Jesum zu einem"
       },
       {
         "op": "replace",
-        "a": "Junckfrow blibe",
-        "b": "Junckfro w blibr"
+        "a": "vnuolkomnē meyſter darmit",
+        "b": "vnvokkomnen meister"
       },
       {
         "op": "equal",
-        "a": "das",
-        "b": "das"
+        "a": "dar",
+        "b": "dar"
       },
       {
         "op": "replace",
-        "a": "ſy gebåre",
-        "b": "Si geba re"
+        "a": "geben",
+        "b": "mitt dar ga ben"
       },
       {
         "op": "equal",
-        "a": "vnd",
-        "b": "vnd"
+        "a": "als ob",
+        "b": "Als ob"
       },
       {
         "op": "replace",
-        "a": "Junckfrow blibe",
-        "b": "tint fro w klibe"
+        "a": "er",
+        "b": "Ee"
       },
       {
         "op": "equal",
-        "a": "ſo",
-        "b": "So"
+        "a": "vns",
+        "b": "vns"
       },
       {
         "op": "replace",
-        "a": "im",
-        "b": "Jm"
+        "a": "nit gnůg",
+        "b": "nitt gmg"
       },
       {
         "op": "equal",
-        "a": "nun alſo So volget das",
-        "b": "nun also So volget das"
+        "a": "gelert habe was dem",
+        "b": "gelert habe was dem"
       },
       {
         "op": "replace",
-        "a": "ſy",
-        "b": "Si"
+        "a": "vat ter",
+        "b": "vetter"
       },
       {
         "op": "equal",
-        "a": "vor vnd nach der",
-        "b": "vor vnd nach der"
+        "a": "gefellig iſt wo man aber fry willig",
+        "b": "gefellig Ist wo man aber fry willig"
       },
       {
         "op": "replace",
-        "a": "geburtt ein Junckfrow geweſen dan das",
-        "b": "geburt Em funkfein garisin dum dis"
+        "a": "etlich tag",
+        "b": "Ettkichtag"
       },
       {
         "op": "equal",
-        "a": "iſt ein wunder",
-        "b": "ist ein wunder"
+        "a": "zůſamē",
+        "b": "zusamen"
       },
       {
         "op": "replace",
-        "a": "ſo wir",
-        "b": "m"
+        "a": "kåme in hözung",
+        "b": "kaine Jn ha rung"
       },
       {
         "op": "equal",
-        "a": "nun",
-        "b": "nun"
+        "a": "des",
+        "b": "des"
       },
       {
         "op": "replace",
-        "a": "nit darwider",
-        "b": "ndt darwidee"
+        "a": "gottes",
+        "b": "gottro"
+      },
+      {
+        "op": "equal",
+        "a": "worts vnd",
+        "b": "worts vnd"
+      },
+      {
+        "op": "replace",
+        "a": "vmb",
+        "b": "vib"
+      },
+      {
+        "op": "equal",
+        "a": "etwas",
+        "b": "etwas"
+      },
+      {
+        "op": "replace",
+        "a": "an ligende",
+        "b": "anligende"
+      },
+      {
+        "op": "equal",
+        "a": "ſachen",
+        "b": "Sachen"
+      },
+      {
+        "op": "replace",
+        "a": "ernſtlich gebåt mit",
+        "b": "renstliche gebatt mitt"
+      },
+      {
+        "op": "equal",
+        "a": "faſtung zů",
+        "b": "fastung zu"
+      },
+      {
+        "op": "replace",
+        "a": "thůn",
+        "b": "tum"
+      },
+      {
+        "op": "equal",
+        "a": "wie wir",
+        "b": "wie wir"
+      },
+      {
+        "op": "replace",
+        "a": "låſen",
+        "b": "la sen"
+      },
+      {
+        "op": "equal",
+        "a": "das die Apoſtel",
+        "b": "das die Apostel"
+      },
+      {
+        "op": "replace",
+        "a": "gethon habē",
+        "b": "gethen heben"
+      },
+      {
+        "op": "equal",
+        "a": "in Actis",
+        "b": "In Actis"
+      },
+      {
+        "op": "replace",
+        "a": "am xiij",
+        "b": "xi"
+      },
+      {
+        "op": "equal",
+        "a": "vnd andren orten mer",
+        "b": "vnd andren orten mer"
+      },
+      {
+        "op": "replace",
+        "a": "dasſelb erkanten wir",
+        "b": "das selb er kanten war"
+      },
+      {
+        "op": "equal",
+        "a": "von",
+        "b": "von"
+      },
+      {
+        "op": "replace",
+        "a": "Gott geoffenbaret ſin warhafftig",
+        "b": "got griffenbiret ein nachiftig"
+      },
+      {
+        "op": "equal",
+        "a": "erſam",
+        "b": "Ersam"
+      },
+      {
+        "op": "replace",
+        "a": "Am",
+        "b": "12 xm"
+      },
+      {
+        "op": "equal",
+        "a": "xiij tag",
+        "b": "xiij tag"
+      },
+      {
+        "op": "replace",
+        "a": "Jenners",
+        "b": "Denners Johannes"
+      },
+      {
+        "op": "equal",
+        "a": "Bůchſtab",
+        "b": "buchstab"
+      },
+      {
+        "op": "replace",
+        "a": "DJe wort ſancti pauli",
+        "b": "Die mit Sancte Sauli"
+      },
+      {
+        "op": "equal",
+        "a": "zun",
+        "b": "zun"
+      },
+      {
+        "op": "replace",
+        "a": "Galathern",
+        "b": "dalechern"
+      },
+      {
+        "op": "equal",
+        "a": "am",
+        "b": "am"
+      },
+      {
+        "op": "replace",
+        "a": "iiij",
+        "b": "ini"
+      },
+      {
+        "op": "equal",
+        "a": "vō tagē",
+        "b": "von tagen"
+      },
+      {
+        "op": "replace",
+        "a": "Moneten zc",
+        "b": "manetenn"
+      },
+      {
+        "op": "equal",
+        "a": "dienen",
+        "b": "dienen"
+      },
+      {
+        "op": "replace",
+        "a": "nit",
+        "b": "nitt"
+      },
+      {
+        "op": "equal",
+        "a": "vff vns",
+        "b": "vff vns"
+      },
+      {
+        "op": "replace",
+        "a": "Chriſten ſonders alleyn",
+        "b": "cheisten Sunders allein"
+      },
+      {
+        "op": "equal",
+        "a": "vff die ſo",
+        "b": "vff die So"
+      },
+      {
+        "op": "replace",
+        "a": "die",
+        "b": "dre"
+      },
+      {
+        "op": "equal",
+        "a": "brůch vnd",
+        "b": "bruch vnd"
+      },
+      {
+        "op": "replace",
+        "a": "gewon heiten des geſatzes",
+        "b": "gewonhatten das gesaczes"
+      },
+      {
+        "op": "equal",
+        "a": "noch",
+        "b": "noch"
+      },
+      {
+        "op": "replace",
+        "a": "ůbten",
+        "b": "veten"
+      },
+      {
+        "op": "equal",
+        "a": "das aber",
+        "b": "Das aber"
+      },
+      {
+        "op": "replace",
+        "a": "krůtzgeng",
+        "b": "Erunga ng"
+      },
+      {
+        "op": "equal",
+        "a": "faſt tag",
+        "b": "fast tag"
+      },
+      {
+        "op": "replace",
+        "a": "zc Bīm",
+        "b": "di bum"
+      },
+      {
+        "op": "equal",
+        "a": "bañ gebotten bißhar iſt",
+        "b": "bann gebotten bißhar Ist"
+      },
+      {
+        "op": "replace",
+        "a": "nit",
+        "b": "nitt"
+      },
+      {
+        "op": "equal",
+        "a": "vnbillich wider die vngehorſamen vnd die ſo",
+        "b": "vnbillich wider die vngehorsamen vnd die So"
+      },
+      {
+        "op": "replace",
+        "a": "ergernus zůgeben geneygt",
+        "b": "Ergernis zuga ben geneigt"
+      },
+      {
+        "op": "equal",
+        "a": "ſind das aber der widerchriſt",
+        "b": "sind Das aber der widerchrist"
+      },
+      {
+        "op": "replace",
+        "a": "ſolichs gethon ſoll",
+        "b": "Slichs gethen Dol"
       },
       {
         "op": "equal",
@@ -362,71 +602,61 @@
       },
       {
         "op": "replace",
-        "a": "in der geſchrifft warum Sol man ſage",
-        "b": "Indir Schritt worumb dal nn Sigen"
+        "a": "verſton",
+        "b": "petstan"
       },
       {
         "op": "equal",
-        "a": "das jr ewige",
-        "b": "das Ir ewige"
+        "a": "ich",
+        "b": "Ich"
       },
       {
         "op": "replace",
-        "a": "Junckfrowſchafft nit be wårt möge werden",
-        "b": "Junck fro nschift ntt kevalt mogt werdenn"
+        "a": "nit",
+        "b": "nitt"
       },
       {
         "op": "equal",
-        "a": "in der",
-        "b": "In der"
+        "a": "wår hie",
+        "b": "war hie"
       },
       {
         "op": "replace",
-        "a": "geſchrifft",
-        "b": "Schrift"
+        "a": "đ widerchriſt",
+        "b": "der derchrist"
       },
       {
         "op": "equal",
-        "a": "ſo doch das",
-        "b": "So doch das"
+        "a": "verſtanden",
+        "b": "verstanden"
       },
       {
         "op": "replace",
-        "a": "bewårt wirt",
-        "b": "bewa lt wirdt"
+        "a": "ſol wer den ob",
+        "b": "zal nerden ab"
       },
       {
         "op": "equal",
-        "a": "das",
-        "b": "das"
+        "a": "der",
+        "b": "der"
       },
       {
         "op": "replace",
-        "a": "ſy empfangen",
-        "b": "Si emptem en vnd gcbnon het rnunsiter tucktrunrsthift vnd n i gste hu danit uh du cl ie dille ridt as mudt das zustnn degiin nn orken"
+        "a": "Bapſt oder",
+        "b": "Babst old"
       },
       {
         "op": "equal",
-        "a": "vnnd",
-        "b": "vnnd"
+        "a": "ander ſyen",
+        "b": "ander Syen"
       },
       {
-        "op": "replace",
-        "a": "gebozen hatt vnuerſerter Junckfrowſchafft",
-        "b": "Eichielis am xxvvij cati trhns kuchstl Ver ger watti luner eg zugilen de Damntig nd wilfzitten tig vfgesiht ein wordris von der krchen frcrit mch wann allie die So die airch heotet"
-      },
-      {
-        "op": "equal",
-        "a": "vnd",
-        "b": "vnd"
-      },
-      {
-        "op": "replace",
-        "a": "nüt das ſy geſchwecht ſye hier zů diener ouch dz Lucam erſten ſy ſelber rede wie wirt das zůgan ſo ich dhein mann erken vnd Ezechielis am xliiij Cap D",
-        "b": "nit gestrige nider s getomiet tich"
+        "op": "delete",
+        "a": "D ij",
+        "b": ""
       }
     ],
-    "ops": 32,
+    "ops": 55,
     "truncated": false
   }
 }
