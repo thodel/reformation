@@ -1,30 +1,30 @@
 # Seite 270
 
-welt, das elementa, element sind so aber
-Sy habend göttliche wort und verſprechung
-und sy sind tröstlich mit von ir selbs
-wahr oder Eigenschafft sonder von wegen
-deß worts und der verheyſſung Gottes, alß er
+welt, das elementa, element sind/ so aber
+Sy habend göttliche wort und versprechung
+und sy sind vns tröstlich nitt von ir selbs
+natur oder Eigenschafft sonder von wegen
+deß worts vnd der verheyssung Gottes, alß er
 denn ouch meldet die Apostel in
-gefaͤrntlicher eßer, wurd die ewergliebend
-schon erhallt haben. Expera ita also.
-Wann doch der herr anzeiget hatt, in der
-dankigung, so er sinen lieb hatt geheissen
-hatt er darzuͦ im welcher für üch
-geben wirt, derglichen ouch furt min
-Lieb . gar und brüder dem spruch
-anzücher. Wa mich gern, do ist min
-fleißen , eſ gäbe er zu verſtau vff dem
-vertrüwet werden, versprich ich also, der
-nuͤtzung dises fleisch, dorpigett ein sonder,
-begerd, das wir inn eynem und ehrn
-uns spreche, und das so der werüdlich
-spis und trinck, eß unsenn fleiß, glich
-dasselbig sie sin, les und bluͦt. Durch den
-glaubē und pripsi vnser ſtel , das aber der
-rung grist, macher, vuͦlgen und sin. Sol
-kemen, werg verlengnett, wirtz dann
-alles, so der mensch usstrag zuͦ in von
-gredach, er dieir den sölichs. Nitt lüste
-und wollen, des gipst in zuͦ trùwen,
-Dann niemant ist der 60. je offneren.
+apostelich eßen, wurden das ewig läben
+schon erhollt haben/ vertan ich also.
+Wann das der herr anzeiget hatt, in der
+darreichung, so er sinen lib hatt geheissen
+hatt er darzuͦ in/ welcher für üch
+geben wirt/ derglichen ouch wie min
+Lieber herr und bruͦder/ den spruch
+anzüchet/ Der do isset min
+fleisch usw./ gäbe er zu verstan/ vff inn
+vertruͦwet werden, verstan ich also, die
+niesung dises fleisches/ bezügett ein sonder
+lich begerd, das wir inn christo und christus in
+uns sie, und das so die natürlich
+spis und trsnck ist unserm fleisch glich
+dasselbig sie sin lib und bluͦt/ Durch den
+glaubeen vnd geisti vnser sel/ das aber der
+einig geist mache vns in im sin/ Sol
+keinen wegs verleugnett werden dann
+alles, so der mensch vszerlich duͦt sin ver
+geblichch, er due den sölichs mit lust
+und willen, des geists in im würkend/
+Dann niemant ist der so ie etwas

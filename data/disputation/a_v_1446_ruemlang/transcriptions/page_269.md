@@ -1,29 +1,29 @@
 # Seite 269
 
-haben wir actorum 16. Do der hüner Paulus
-und Barnabam fraget, ir herrn, was ist er
-das ich thuͦn, uff das ich selig werd, haben
-im Granwürn, gloub im den herrn deß
-so wirt die selig und dem hußges.
-über sölichs ist, er getrunfer worden, der
-gerichten were, vltimo. Der dagebroter
-und rüffer, wen, wen sorg.
-welichen ich schliß wil , was glauben
-inn der 6 verfachen, wie es angezeigt
-inn der erielung an der deß krieglich.
+haben wir articul 16. Do der hüter Paulum
+und Barnabam fraget/ ir herrn/ was ist not
+das ich thuo, uff das ich selig werde/ haben
+si im geantwurt/ gloub im den herrn jesum
+so wirt die selig vnd din hußgesind
+über sölichs ist er getrounfen worden, der
+gelichen marti vltimo/ Der da gloupt
+und toufft wird, wen sorgt / vß
+welichen ich schlüßen wil/ was glauben
+inn johannes 6 verfacht/ wie ob angezeigt
+inn der erteilung an der ler des evangeli
 Demnach wundert min herr und
 bruͦder, das ich der wort verstand, von
-leiplichem essen, ursachet möcht, oͤligen
-Die angezeigten usß gemuͦedten worten mitt
+liplichen essen, vrsachet mich, zu sölichem
+die angezeigten vsßgedruckten worten mitt
 verstand und ercklärung der geber
-inn den grab an Wessagang. Der
-criennistbnn und gottswüssch , kilchenmitt
-Werther, ich nitt sonders, lüt, mitwochen
-mandat zuͦgehoeren für minen.
-liplich Christum grasen, gebe nitt ewigen
-leben mit gunden pstand, waß
-ich es mal nit darüber ze fechten.
-Das aber meisten Ulrich, Duggfier,
-hatt es argumentum das heil wirds
-an ußarlichem, stat und
-nitt an der gand gottes. Waisen aller
+inn den gab der Wissagung Der
+orientschenn und occidentischen kilchen mitt
+welcher, ich nitt sonders lut miner heren
+mandat zuͦ probieren für min/ derglichen
+liplich Christum geessen, gebe nitt ewigen
+läben/ mit gesundem verstand, weiß
+ich jezmal nit darüber ze fechten.
+Das aber meisten Ulrich/ ingfürt
+hatt ein argument das heil wirds
+an ußearliche dingen stan/ vnd
+nitt an der gnad gottes. Weist aller

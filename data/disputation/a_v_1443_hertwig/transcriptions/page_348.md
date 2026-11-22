@@ -14,19 +14,19 @@ aber min Herr Meister Ulrich
 will in disem 6ten Capittell /
 dhein verheissung lassen beschehen sin //
 verlass Ich des lyblichn essens / So Jm
-nachtmall vollendett / verlasß Ich mich
-uff die vilfürgebrachten / Spruch vnnd
+nachtmall vollendett / verlasß Ich mich/
+uff die vilfuͤrgebrachten / Spruch vnnd
 siner erklaͤrung / das er darby anzogen
 hatt von muͤrrung der juden / mag dhein
-Cristenlich verständiger / den usß //
+Cristenlich verstaͤndiger / den usß //
 truckten text verleugnen da
 er sich das lebendig / brott vom hi //
 mell anzoͤgt / was es den Juden
 gantz/ verdrießlich dan si nit anders
 von Im hieltten /alls von einem
 puren moͦntschen / darum sie ihn
-auch Josephs sum nampten / das
+auch Josephs sun nampten / das
 aber auch das gantze Capittell
-hinus wo da statt essen Soͤlle glouben
+hinus wo da stat essen Soͤlle glouben
 und vertuwen in Cristum verstanden
-werde / bevilch Ich abnmal der geschrifft /
+werde / bevilch Ich abermal der geschrifft /
