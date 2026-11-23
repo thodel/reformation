@@ -23,11 +23,11 @@
     "similarity": 0.0
   },
   "sentences": {
-    "units": 6,
-    "matched": 1,
-    "only_a": 5,
-    "only_b": 0,
-    "similarity": 0.3535,
+    "units": 7,
+    "matched": 2,
+    "only_a": 4,
+    "only_b": 1,
+    "similarity": 0.3803,
     "pairs": [
       {
         "op": "only_a",
@@ -42,10 +42,10 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
+        "op": "match",
         "a": "in namen der Presidenten/nach=\nuolgend red gethan. Rwürdig/hoch und wolgelert/gez\nstreng/Edel/vest/f2om/fürsichtig/wyß/gne=\ndig vnnd günstig min herren/lieb/vnndgütt\nfründ.",
-        "b": null,
-        "similarity": 0.0
+        "b": "Burgermeister von Watt von Sant Gallen In Anfang der\nDisputation in namen der presidenten Erwerdig hoch vnd wol\ngelert/ gestreng Edel vß fromm fürsichtig vwyß gnädig\nvnd gunstig min herrn lieb und guͦt frund/",
+        "similarity": 0.381
       },
       {
         "op": "only_a",
@@ -56,13 +56,19 @@
       {
         "op": "match",
         "a": "So ist fürnemlich miner\nHerren Mitspresidenten früntlich begår/an all frombd\nvndheymsch/das sy vmb der eer Gottes willen/vnd lie\nbe fines worts (zů welichem billich alle gütmütige her=\nBen geneygt sin sollend) sich fridlich/früntlich vnd mit\nernstlichem vermercken/harzu thun vund schicken wel=\nlend/jnn ansehen das der handel nit schimpfflich/sonder\ngroß/vnnd vnserer seelen heyl betreffen ist.",
-        "b": "Burgermeister von Watt von Sant Gallen In Anfang der\nDisputacion in namen der presidenten Erwerdig hoch vnd wol\ngelert, gestreng Edel vß fromm fürsichtig vwyß gnädig\nvnd gunstig min herrn lieb und guͦt frund, Diewil wir\nvffhüttigem tag zuͦ Ingang der loblichen vnd Christenlichen\nDisputation, so nun gnädig herrn Schultheis und dehär Christen\nloblichen statt Bern vssgeschriben hand Anfang in dem\nnamen gotz zetuͦnd versamlett sind So ist fürnemlich miner\nherrn mitt presidenten fruntlich beger an all frömbd und hernisch\ndas Si umb der Er gottes willen vnd liebi sinn es worten (zuͤ\nwelichem billich alle gutmütige herzen geneigt sin söllend)\nSich fridlich früntlich vnd mitt ernstlichen vermercken, harzuͤ\ntuͤn und schicken wellend, zu Ansechen das der handel\nnitt schimpflich, sonder groß vnd vnserer selen\nheil betreffend ist, sonderlich aber begerend um hern",
-        "similarity": 0.3535
+        "b": "Diewil wir\nvffhüttigem tag zuͦ Ingang der loblichen vnd Christenlichen\nDisputation, so nun gnädig herrn Schultheis und dehär Christen\nloblichen statt Bern vssgeschriben hand Anfang in dem\nnamen gotz zetuͦnd versamlett sind So ist fürnemlich miner\nherrn mitt presidenten fruntlich beger an all frömbd und hernisch\ndas Si umb der Er gottes willen vnd liebi sinn es worten (zuͤ\nwelichem billich alle gutmütige herzen geneigt sin söllend)\nSich fridlich früntlich vnd mitt ernstlichen vermercken/",
+        "similarity": 0.3796
       },
       {
         "op": "only_a",
         "a": "Sonderlich\naber/Begeren min herren die Presidenté/das alledie/so\nze dispurieren willens vnnd verfasset sind/sy zuuor deß\nvsgangnen Mandats/vnd aller ordnung/so dem Ge=\n21",
         "b": null,
+        "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "harzuͤ\ntuͤn vnd schicken wellend/ in Ansechen das der handel\nnitt schimpflich/ sonder groß vnd vnserer selen\nheil betreffend ist/ sonderlich aber begerend um hern",
         "similarity": 0.0
       }
     ]
@@ -97,7 +103,7 @@
       {
         "op": "replace",
         "a": "Gal len",
-        "b": "Gallen In Anfang der Disputacion"
+        "b": "Gallen In Anfang der Disputation"
       },
       {
         "op": "equal",
@@ -317,7 +323,7 @@
       {
         "op": "replace",
         "a": "thun vund",
-        "b": "tu n und"
+        "b": "tu n vnd"
       },
       {
         "op": "equal",
@@ -327,7 +333,7 @@
       {
         "op": "replace",
         "a": "wel lend jnn ansehen",
-        "b": "wellend zu Ansechen"
+        "b": "wellend in Ansechen"
       },
       {
         "op": "equal",
