@@ -1,9 +1,9 @@
 # Seite 8
 
 gehört
-hern
-von den
-nen
+hinuff
+vor den
+nechsten
 herrn Iesn christi, das man bisher die mess
 genempt hatt 14 Es bittet unns ouch der
 Herlig paulus das wir mit zenkisch sonnder

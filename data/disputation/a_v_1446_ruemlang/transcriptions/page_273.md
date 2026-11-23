@@ -1,24 +1,24 @@
 # Seite 273
 
-er das natual beschriben dann diß
-nützit anderst ist , weder bewären ein ieders
-dung nit habs, unser span ist, ob der
-wir, das ist min legan, muͤstend
-wesenlich und substanzlich verstanden worden
-und so unser wibentzopat, diser selb wirt
-Calessius wol derck. Nitt ligen, my so
-sücher sy, wo ir der pogesag darüber
-kum vertröstig ist, desß sacramentum davon, das
-span ist und so ir dasselb on bewären.
-ſöllend ein paritung ſu , ſo wollend es
-bewärē mitt oder vortt Denen 8. diß
-zuͦ helffen genommen laß, und ist glegen
-red , als so man sprechen werde lütetten an
-und man antwurt, des man zuͦ preden gang,
-und so man spräte, wärs gat man zuͦ
-predt, sprich man widerum, das man gelüpp
-hat, und besyt man der frag, wiewol der
-gand spitzyn, was hatt und gedient.
+da si das nachtmal beschriben dann diß
+nützit anders ist , weder bewären ein ieders
+durch sich selbs/ vnser span ist, ob die
+wozt/ das ist min lichnam, müsend
+wesenlich und substanzlich verstanden werden
+vnd so unser widerpart, bi den selb worde
+(ales ich wol denck) nitt bestan mag so
+süchet si/ ein wort der verheißung do aber
+kein verheissung ist deß sacraments davon, der
+span ist und so si dasselb oz bewären
+söllend ein verheissung si/ so wollend es
+bewären mitt den wortt Denen si diß
+zuͦ hilff genommen hatt/ und ist glych ein
+red , als so man sprechen/ werde lütetten
+vnd man antwurt, des man zuͦ preden gang,
+und so man spräche, wärs gat man zuͦ
+predet/ sprächen man widerumb, das man gelütt
+hat/ vnd besyt man der frag wiewol der
+gand sterben was hatt und gedient.
 so volgt in ende die vordrigenamen unzal
 nimpt kann und also ouch hie , so man
 von den worten Christi weg im nachtmal

@@ -1,33 +1,33 @@
 # Seite 272
 
 Pfarrer
-soll
-privatorum mihi sech.
+vo sankt gallen
+vertruwen in sech./
 nach mittag.
-von s Rom̄ ebrisch , damitt und all werſchliweisende
-und pünlich wurdend, als von allen zuͦ sinnde
-gerendt hafftgebracht, bin ich erfordert worden.
-durch min herr und mitbrüder Meister
-mitt usßgetruckten 14. jarwern, ob der spruch von
-ain saget: „Das bro, werchel, ir geben wider“ etc.
-Ich also dan oder thuͦn allen, ehrwuch ab dem aller
-das also des leip des ersten diß fleiß (gen
+Fromen christen damitt vnd all witschweifend
+und vermitten werdend, vnd so allein zuͦm handel
+diener hiefür bracht, bin ich erfordert worden.
+durch min herr vnd mitbruͦder Meister Vl
+mitt vsßgetruckten wortenzentwurten ob der spruch joh
+an saget: Das brot werchlches ich geben wird etc./
+inschliesse den christi allein ehrwuch ab dem aller
+oder auch das liplich essen deß fleisch christi
 Antwurt. Das brot so da anzogenn wirt, ist die
-parrung deß 5. thung, durch die anderen
-evangelisch und den heyligen Paulun, das
-bescheiden, so er in der hand genommen hat
-und sinen lieb gmachten, desz wer für ein
-gebanen dess essen, seyed, darnach der ander
-pünckt , weliches itz geb wird hie das be
-in. Wolt wern erkent, in dem wort luter
-werden sin üch gegen wirdt Dann doch
-ſich befliſſen, so die anderen
-underpfosten, söliches in sinem stück zuͦtreben,
-also den geyden der schrifft ansachen unnd
-befälend, zu fürdrung der sach, sölich
-beschechen, deß saget Capittel, alle von der
+verheisung deß so. christus durch die anderen iij
+evangelisten und den heyligen Paulus das nachtmal
+beschribend/ so er in der hand genommen hatt
+vnd sinen lib gmachten/ dasz wer für ein
+probation dess ersten sezend darnach der ander
+punckt , weliches ich geben wird für das leben
+der Welt/ wird erklät, in den worten luce
+welcher für vͧch gegänd wirdt Dann johannes
+ſsich beflissen, so die anderen evangelisten haben
+underlassen, söliches in sinem schriben zuͦerfüllen
+also den geübten der schrifft erfarend vnnd
+befälend, zu fürdrung der sach, sölich intrag
+beschechen, deß saget Capittel halb Johannis
 geschrifft und aller christenlichen lesern.
-Zwingli, unsers bruders, antwurt, befrömbdet uns
-das er mitt den dryen evangelischen berühren
-wil , das an diem ors verhepte werde
-des sacramentliß brot. Und das an dem 17.
+Zwingli unsers bruders antwurt/ befrömbdet uns
+das er mitt den drüen evangelisten bewären
+wil/ das an disem ors verheissene werde
+das sacramentlich brot. Und das an den orten
