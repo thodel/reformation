@@ -1,8 +1,10 @@
 # Seite 305
 
+Vesamer
+verstand oder
+von vmb
 Grollstorf vnd sudanz ein gottschafft
-darin aber
-im vorhin vor herren taf ihrem felden gehabt werden .
+im vorhin vor herren taf ihrem felden darin aber gehabt werden .
 unabgeschlagen, hab das die diener
 kaiser, etc., klag, ut emandat etc. In
 bier die sacramenten ußreben, aber deß ist zuͦ allen gschriben.
@@ -13,8 +15,7 @@ so teilhafttig zum ersten, inen landen ein
 bemeltsch broi Christi Joff und Leutig befelch
 Wir uns soloch warhafftig
 dem sacrament dien der sacramenten
-Vesamer, es bringe min herr doctor zuo Eßig, das
-verstand oder
+es bringe min herr doctor zuo Eßig, das
 Kirbißen vom Korporia heiß ein geſellſchafft das
 vernem ich im nitt , das am uben ort den
 selbigen bedürung hab, den daruß wir nitt
@@ -30,7 +31,6 @@ so blue thū , wir sprechen den keltren
 der danckhagung gegen ein ußerlichen deßblutt
 Thun und diewil bis und blut biemanderen stand,
 mag es nitt anderst verstanden werd dann von
-weiber uffteilungen
-Der nachvolgett tret, dem
-von vmb Wustend ein brot und ein lib , drumb des
+weiber uffteilungen Der nachvolgett tret, dem
+Wustend ein brot und ein lib , drumb des
 wir von an broten und von ein keltz .

@@ -2,7 +2,7 @@
 
 inn Paulo/ wollich das nachtmal
 genuͦgsanklich erklaren,
-Ceter prlampides /
+Doctor Oecomalpadius
 er Sptern disersach / wil fast dersu
 Astn / Ob das wörttli Ist / waͤ//
 lich ußgelegt werh sol/ wie
@@ -23,8 +23,7 @@ Po wir d anaͤmen solche
 ußlegung / Heren pfarrees / oder
 anndre duch / den / unns sollich
 Sanamcerott / vnns bedutte de
-lyb Cristi
-So werd er solches
+lyb Cristi So werd er solches
 uin glouben ze wider Au
 dr unnser glouͦb halt Inn /
 das der Sun gottes / die moatstheo //

@@ -6,7 +6,6 @@ den 3. martii 3. begären von minem
 doctor zuͦ christendlichen underricht, mit
 was man der sträffer dest vom. Das ist
 um̄ leg, ✳ das ist min bluͦt, ✳ soͤllend si
-S.
 glaubens wort, in der ver¬
 gleichung aber meite und bahr, ist
 gewüß, das wir yetzmal lieben und
@@ -15,25 +14,18 @@ cavionemque ei autem omnes bestiabimus,
 gegen den tauff, dess ich mich mit dem selben
 begend, ich schrifft darumb, das mich zuͦ
 söllichen zuͦ unser uff Cerimonische
-wird
 verstögtz. Diewil der trap, deß
 Nostros so soll da stät. Den worten
 dobst, mi lieber (obrist) und bluͦt.
 Das es nitt also sy, so es der gerett
 tag (den dergwalt und warheit gots
-ist, begärt uß andermägung zuͦ
-peracta
+ist, begärt uß andermägung zuͦ peracta
 uff den zitag von dem bännli verstanden
-et
 wie derſselbig iſt waſe rlich , Exo 12 .
 und leiplich gewesen worden, glicher gstalt
 söllend wir ouch, das laus Christum, so un
 Samackler ist 1. jar, 1. ouch den 1. wysemberg
-und leplich muͦst.
-den
-das egenannten
-des hies, das von lanndtman zuͦ vermagenden
-Kasten glichneſig ſie
-mich
-zuͦ beschliß
-welle mich, so Maister Lieder, fridlich
+und leplich muͦst das egenannten
+des hies, das von dem lanndtman zuͦ vermagenden
+Kasten glichneſig ſie zuͦ beschliß
+mich welle mich, so Maister Lieder, fridlich

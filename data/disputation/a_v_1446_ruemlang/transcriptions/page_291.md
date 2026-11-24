@@ -25,7 +25,6 @@ wir noch stäts wider die viorch concenſion belibend
 vff den worten das ist mir lieb , über den worten
 Wellend wir nitt jangen, allain das der summa das
 das es nitt an Fügerich oder
-octo
 das wir inn abarmal estand, sonder der erb Christi
 und das bluͦt egen.
 Guschin.

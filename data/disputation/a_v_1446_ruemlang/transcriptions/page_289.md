@@ -1,6 +1,7 @@
 # Seite 289
 
-S.
+Pfarrer
+Wüzer
 vßlegung nit gemäß
 Christlichen glouben, wolt aber
 anderen Tropum oder Figur zu reden einführen
@@ -22,18 +23,13 @@ wer wol, ob unserm pfarnd allß der vermuͤcht
 gang, wenig, so man aber leben. Der
 verglichung deß alten Testaments im müsing
 deß dannen lies, voraufgezeigte und er in
-S.
 wirt, sol etc. Allß ich acht,
-Zuͦsich
-anderer ussgegen, nitt
+Zuͦsich anderer ussgegen, nitt
 kumbart, da der es redett, das
-S.
-S.
 gewaltt geben im himel und vff eod
 Matt. 28. Eph. 1. Dann hie am trosten
 oder bedütleche ußlegung angenämen. Sol mitt
-dien hälben straff der gwaiß zuͦ verjechent
+hälben straff der gwaiß zuͦ verjechent
 werd, von der menschlich natur
 wirt der selbigen niemant ab sin. Das tag
-S.
 von dem siten ab recht gesagt und

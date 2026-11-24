@@ -2,16 +2,12 @@
 
 ist
 verhören ,
-sorten .
 Das vogt als er und pater in kloster, Christi
 trostis halb aber, Das da sie wie aſter angezogen gelles
 der usslegend trapuͦs sin, der wir lygig in witzal
-anzenommen
-als davon gerett und geschrieben, laß ich
+anzenommen als davon gerett und geschrieben, laß ich
 kriegs wegen tag, diß zuͦ witterm berichten.
-hußfrawen .
 Es ist kein sophisteri, ob wirt und pflichtlich uff
-impelknecht
 Es wär aber ein sophistery
 wo , man einander waren ſie andere darſtube .
 och auch ein andren pstand uss der schrifft vn
@@ -24,7 +20,6 @@ eiden, ysenlich gnugsam, hab wir der egenossen
 sind , vnder den sacramentlichen brot nitt
 begriffen wirt ſind .
 uff fünarij zu Scolenpali , beger ich keine wort
-schicken.
 für die andern darzu schreiben , ob ein andern verstand
 von schrifft fürbumben . Dann so ich hab , die wort
 desz nachtmals , erklären , mitt dem spruch Pauli

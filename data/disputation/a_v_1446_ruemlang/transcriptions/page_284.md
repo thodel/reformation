@@ -1,9 +1,10 @@
 # Seite 284
 
 gratia.
+da ist bescheiget
+stallung
 Sain im pziechung den sünden und eß aber
-allem
-sölches testament als ouch bim aus wegen den
+sölches testament als ouch bim aus wegen allem den
 und sterben, und sars herrn Jesu Christi,
 und pfleger worden, wie dann ouch die genanten
 den gloubigen also vollkomme
@@ -20,25 +21,17 @@ gehept hand vff den zu künfftigen thun
 so sagem wir danck, bi unserm sacrament
 Des chuns schon kommen sy, es hatt
 andern undersprechen der furgnor, mitt Christo
-stracks
 schicken, begäben, och die jernemen, daß alß
-da ist bescheiget, das 1 mitt den Zwingnern und gartneren
-alten dann ist der touff vnd deß besserum erbet .
-stallung, deß nun, was gstat, wo man uwsen yemmel
+das 1 mitt den Zwingnern und gartneren
+deß nun, was gstat, alten dann ist der touff vnd deß besserum erbet wo man uwsen yemmel
 Ihro verloben , ob ist die finger alß wir , von
 den das da bedürre wir , alsz wir der schatt
 und das liebe wo mann aber ein Terminari
 wasz verhanden haben , do funden man
-S.
 gleich bedürung. Es hat die bescheidung
 ein bedütet ein innerliche beſchnydung in
 große Böser, so bedütet uns der usserlich
 rufen, dann taufen im geist
 dem pfand nach, das die in nit, wie
-wolgamber sind, bestreitwen
+wolgamber sind, bestreitwen ein jeniger
 und geworffen werden.
-S.
-Gręco.
-ein jeniger
-S.
-lib

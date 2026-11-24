@@ -10,7 +10,6 @@ es im glöden und geist nit das gewißlich
 ist. So wen unser hern nitt mer uff der wort
 und zu sagung gottes zu lassen wurden , würde
 Wir nitt vil furlen von deren so vns
-S.
 gericht, och mitgertli wirt bringen, unnselbst
 diten 20 sagen wir derglichen wie vor , mitt
 das der klost der heilig grist seiggesen, sonder
@@ -21,9 +20,7 @@ gottes an alle ortorten, nitt destermunder
 wenn er durch das von ussgeraiten, wie des
 bezúget die schrifft cum buch der gſtlichen am x .
 de peuis reden die wort , von desti Waren ,
-dum
-und dem glouben im ain ist der heilig
-da der
+und dem glouben im zum ain ist der heilig
 gheist herab gefallen über alle die, so da die
 Dann usß dem ghoͤrd der worty deß
 gloubens der heilig grist mittgelt wirt.

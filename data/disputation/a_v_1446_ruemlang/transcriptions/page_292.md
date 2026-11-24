@@ -29,5 +29,4 @@ es geistten, deß libs chr. darum gen er uff die
 Wor Pauli ardent, herfür dann si im trost
 stillstand im halten disſ text iſt solicher bot das
 wer erchannd, ist des nitt le genan schrifft deß
-liebs lohren. Da stat nitt ußwillenn.
-26. septembris.
+liebs lohren. Da stat nitt ußwillenn 26. septembris.

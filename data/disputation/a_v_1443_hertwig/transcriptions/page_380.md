@@ -11,13 +11,7 @@ mal essen
 ir der lyb Cristis
 und das blt Cristi/
 vil Jozmal /
-glapadins
-E
-n
-+
-ris
-3
-3
+Oecolampadius
 sir suͤchn euch dehein wortgezanck/
 begde aber / den natwrlichen vaͤstand
 der wortte / dant sichdeheinnfrrsal zuͦr

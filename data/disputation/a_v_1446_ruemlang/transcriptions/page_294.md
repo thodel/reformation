@@ -1,7 +1,7 @@
 # Seite 294
 
 noch von üch waiß solche bewunniß.
-Khaner von S. Gallen uff des antwurt,
+Pfarrer von S. Gallen uff des antwurt,
 süchen, die er gott, und den natüren pfand
 unsere antwurt, das kein besserer verſtand fürbracht
 Werden mag, dann Schrift nicht Schrift zu erklären
@@ -28,7 +28,6 @@ und in den worten deßen mehr als anräme vr-
 ſachen vns hällt vnd kläre der wortz
 ein müttiker der beschrung, Pauli und der
 evangelicis. Das aber min herr doctor wil
-das der lyb vnd das blůt
-grosen worten
+das der lyb vnd das blůt grosen worten
 durch den glouben, bekand wir einmüttklich
 das alle muͤstung und so wer ußbringen, weßt und

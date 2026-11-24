@@ -21,19 +21,15 @@ des Cestaments Ceͤsti / wiewol
 es das niw lasta ett geart
 wrdt dan uss dor Epistellzu
 den hebreern / vnn aich v
-de Propherheremi/ 3ͦ
-t snden
+de Propherheremi/ 3ͦ t snden
 wir / das das Ceste Ce/ vnd
-die peudtuss / s
-der
-In verzychn
-S Jst aber sollchs
+die peudtuss / s In verzychn
+der S Jst aber sollchs
 elestament / oder euch ttnuss
 aller Jn dentod vnd steaben vn/
 res henrn jesu Cristi / versicherh
 vversiglet word / wie dar
 ouch die hertn der glubigen
-8Allein
-gallso vollkomcklich ver /
+gallso allein vollkomcklich ver /
 chrett werden / darby ouch konnen
 wir nitt venmein / das die Sa //

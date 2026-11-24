@@ -10,10 +10,8 @@ senn, alsß si lutend mitt brüegend, dann
 wol erkent ich, eyn herr doctor und aller
 sul glich verständig , ire sacramentum ort
 wellen unsern welichen obersten ersaen
-und
 Mervol an sturn ußgangnen büchern, so er
-dien, gott gelösen hab.
-Das schaber und
+dien, gott gelösen hab Das schaber und
 her doctor, pleyßt uff, die wort lüt, er
 Do den kilch, eum nüw testament
 gewaͤsert wirt, sagte der evangelist nitt
@@ -25,11 +23,9 @@ und marck gigaue erklaͤge, dero
 sagend, das es nun bluͦt. Witer
 in im, lumm herr doctor, das
 Testamen in verzichung der ſünch
-S.
 allen den oder und sterben, ohren, pfechern,
 wirt im niemann darwider , dann so
-littend
-man die wort eigentlich besicchen,
+man die wort eigentlich besicchen littend
 sy, das ist min blut, weliches pfeffenn
 wir in wertze vergung, der sind 2
 wellichen worten, das wonn ist, das

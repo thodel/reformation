@@ -3,25 +3,20 @@
 und wer be
 hiemit .
 Kapopia
-Andres Althamer, so wirt uns unwillig zuͦvogten
-von Wirtenberg.
+Andres Althamer von Wirtenberg, so wirt uns unwillig zuͦvogten
 von minem heren doctor Ecolampade, wirt ziechend
 Die von Pauli 1 cor. 10 mit formklich an
 sy lutend, sag ich, ob wir sonst kein
-Dem dien
-spruch, so war er doch gewaltig
+Dem dien spruch, so war er doch gewaltig
 darwider der uß erlang, daß
 Bluts Christi im Abendmal, bin auch gewusst, das alle
-S.
 welt, den spruch nit fallen, wir
 für uns und lüt also der kelch, och es
 tranck , der benedingrige er nitt die gmein ,
-S.
 schafft , dass blutz hie . nach das brot das wir
 bruchen , und ist das nitt die gemeinſchafft
 deß libs egnen, es wissend alle, so nu kommen
-Rapensius
-verstand haben deß kriegshischen was
+verstand haben deß kriegshischen was Rapensius
 bleissen , man lieb ein gelaßen aus verstattige
 alsß von 15 Paulus im kilchenhorm, das wir
 gebruͤchen, so er spricht, es hatt die von Marchnier

@@ -1,14 +1,11 @@
 # Seite 281
 
-das
-bruͦder.
-Erbrt wurd mitt prieren
+das Erbrt bruͦder wurd mitt prieren
 her Augustin, etc. Soranen deß 20. und 21.
 Jehan Christo, so wirt nu nutz und guͦt
 Wer da erkennen, wil der inhalt dest
 wort, doch ich daruß hat, wie sich
-bietet .
-gelt zuͦhalten, wo da sacrament stet
+gelt bietet zuͦhalten, wo da sacrament stet
 do wend vast ain gemein tagel sind
 vom sacrament sacramentlich zuͦ reden. Also
 das si eideren sacramenten 2 ding begriffen

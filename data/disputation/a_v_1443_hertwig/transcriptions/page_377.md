@@ -12,8 +12,7 @@ legdn nitt bikrne / dan der
 es redt / da gewalt geben In
 Dul vn uff erd Matthei
 n z8/ zie dan Ephesier
-anjten
-gie
+anjten gie
 zofunoder bedrttlich usßl //
 g ameane Sol mitt
 Aarrer Häller schrifft / die ge //
@@ -30,8 +29,7 @@ lichs gtha / alls da Ist die
 Erklang uff dem beug Matthei
 Am oei /uch das er son en
 wygrnd enktgieng/ Eimtten us
-Iren har
-ure / ͦ ff
+Iren har ure / ͦ ff
 den anzug muns Herrn, Soctors / vonr
 maͤ̈nug des brots Jn sin natuͤr
 Sag ich nitt / das das brott / zu gottli-

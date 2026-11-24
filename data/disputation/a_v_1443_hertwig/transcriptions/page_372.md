@@ -1,20 +1,17 @@
 # Seite 372
 
-3
 tod geben, Coch wilIhhieren
 zuff wellichem wortt Matther
-der atrte
-Min herr pharrer
+der atrte Min herr pharrer
 Hafften wölle / vnnd sich daruff lassen /
 woͤlle /
-farrer von Sant Ballen
+pfarrer von Sant Gallen
 As den erftn sürtrag / mins hirn
 octors warndn ich schrchtrag /
 von wort San aient / Orkennen
 alle Cristanliche geberttn / das
 wrort Sanamentiin / die wort des
 nacht mals / weden sterckern nochschwoͤchen
-icleen/
 flarer oderluͤtter / machen / den rechtt
 namen aber / wie es ouch der Pauleh
 eist / Sol es heissen ommmib / das

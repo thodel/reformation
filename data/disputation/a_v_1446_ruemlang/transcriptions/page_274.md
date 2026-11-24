@@ -17,23 +17,17 @@ wöllen und und aber, das es ain usslen
 gende red ist , und nitt ein verheiſende
 deß leiplichen essens. Wil aber unser lieb
 bruͦder, deß wort bliben last. Das egmäter
-wort
 und ubelständ wort, etc. Desß depliben essens
 werden wir wol zufrieden sin wo daß nitt
-in
-von es nun nit messglichen, das er red
+von es in nun nit messglichen, das er red
 welle, es sie deß leplicherstens amm verharrung
 on und aber das man schrifft nit
 bewaren. Für, es ander pünctz, ouch
-S.
 durch pflichten mr Jacobus , das andere verordigung
 ussgeseit hand, sagend wir des desselb
-vil trefflichen stück bißharger see ,
-So aber
+vil trefflichen stück bißharger see , so aber
 Johannes Erasmus von Sarmenberger, essen
 meister handlett, wer wir der gütterlester
 uß dem torst houf irs rechttik, so bedorff es
 komen red, des man hie sage, doch ir faren
-dasselben, die erkern.
-da, dann gang andern orten.
-impeditus
+dasselben, die erkern. da, dann gang andern orten.

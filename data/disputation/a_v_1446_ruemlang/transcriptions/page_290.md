@@ -1,8 +1,11 @@
 # Seite 290
 
+vogtstube
+Christum
+Pfarr.
+vber gedragen
 Wie er waͤrdig, wa er mensch, so gsin
-veritatem
-Dergleichen umb wilder der vernüg gotheil
+Dergleichen umb wilder der vernüg veritatem gotheil
 und den beid wainen pfinnstig, haran er
 so vil ùber mairliches gereden, als er ist, der
 erklärung uff den berg Mettett 17 zu ouch
@@ -15,10 +18,9 @@ das under brot, uns an lie Christi
 und under dem win, des bluͦt Christi usß
 goͤtlicher krafft lùt den win usgeritten
 werde.
-Christum. A. Hoffrauer, ich hörgen, das ir besond vallend
+A. Hoffrauer, ich hörgen, das ir besond vallend
 Das schas worden ist nitt wesenlich gnommen
-darnach
-uff, das das der goͤtlichem
+uff, das darnach das der goͤtlichem
 verhoͤrt ward, ✳ ir namend armen
 figu dieſe und am Wasſiſt , sol so vil bejahe ,
 vnder dem brot ist von lib ✳ vnd under dem
@@ -27,11 +29,5 @@ red , das das brotz nitt ist der lieb , und den
 win nitt ist, ✳ das blut, ✳ dan der under den
 Wir ir sag, ist den lieb und das bluet.
 Solechen sigirliche red buchend ir nun bi
-wil
-mitt schrifftſ , Dann der Sprüch , wol völl
+mitt schrifftſ , Dann der Sprüch , wil wol völl
 nemen also der sin, wie er das fùrgeben
-Pfarr.
-vber gedragen
-vogtstube
-ein
-S.
