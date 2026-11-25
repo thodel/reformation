@@ -6,15 +6,14 @@ geallen / vber allr die / Sy da
 die wortt hortten / dan usß dem
 gehoͤrd der wortte des gloubes
 der heilig geist mittnekeilt wirdt
-er den dalathn an
-zun
+er den dalathn an zun
 zruch Pauli / usß unverstand mi //
 nen gegen der Briegschn spach
 In wort usteil n / würdt ni
 mittbruͦder Hie verantwuͤrtten / So
 der Sprach bas berichttet /
-Andieas Allchenmer / von
-Nuren bercg,
+Andreas Althamer / von
+Nürenberg
 As wurdt uns unbillich zuͤtrochen /
 von mine hte dortern
 Eeolampadi / wir zuchn die wortt

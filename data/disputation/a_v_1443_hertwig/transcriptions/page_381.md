@@ -5,8 +5,7 @@ unnd nitt wyne Ver womar stollichn
 red brucht, muss nan eim Arpun
 annaͤme / von wellchen doch/ Herr
 Benedict / vnd sin allh
-gross abschuͤchen tragen
-has Edustt
+gross abschuͤchen tragen has Edustt
 gell / das er Brucht das iserst für /
 Ist ouch en unbluchliche red / ma
 nöcht wol spruch /das usen ist
@@ -17,8 +16,7 @@ vir zucht al den Spruff / usss
 der Sparstell Pauli / pweris or
 hartios / jo / und sagt Palis spraͤch
 das brott das wir braͤchen / das ist ein
-ußteiln
-Allso hatt ers geduͤtscht /
+ußteiln Allso hatt ers geduͤtscht /
 des lybs Cristi / da bringt eryus , die
 wortt Pali / andes Harfur dan
 i Joepct Itand / inhalbt das

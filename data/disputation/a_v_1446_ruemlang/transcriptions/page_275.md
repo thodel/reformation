@@ -5,15 +5,15 @@ Sontags pur febr
 Zwingli
 Buchstab
 die predigt Jesu Christi/ vnsers
-behalters beschriben die/ das evangelium isz
-vnd schribt, nit des sacrament der
+behalters beschribt die/ das evangelium ist
+vnd schribt, nit das sacrament der
 dancksagung/ Christi wie gnügsam gehört ist.
-Damitt und alle pflegern, püncken und
-besigel halb durch L. H. und bruoder
-gfuͤrr, ✳ von dem lüth und zuͦ der predes
-gan, mit sampt anderen erklägung, lasß
-ich in sinem würde , bliben , das so ich im für
-zuͦ besägung den erklärung gerett, ist all
+Damitt vnd alle verlengerung, vermitten der
+bispil halb durch min her vnd bruͦder
+gefürt/ von dem lüten und zuͦ der predig
+gan/ mit sampt anderen erklzellung/ laß
+ich in siner würde/ bliben/ das so ich im hütt
+zuͦ bestätigung sinder erklärung gerett, ist hall
 verfassett/ vnd andere bewärung vsß
 erthalben deß ingebrachten, acht ich, iezmal/
 vnnötig vnd laß es bi miner fürgetrager
@@ -22,7 +22,7 @@ ter vordigen beveolchnüß/ damitt vnd
 Wir zu dem rechten worten deß insatz
 deß herrn nachtmal kommen mögend, befelchs
 vnd verdergib wie vormal/
-Den verzug unsers bruders erfreut vns
+Der verzug unsers bruders erfreut vns
 ser/ das er sich nitt witer inlaße/ Die
 offt gedachten, wort/ für verhären
 deß liplichen essens zebewahren wellend im

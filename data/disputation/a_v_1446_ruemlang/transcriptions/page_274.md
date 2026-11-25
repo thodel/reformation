@@ -28,6 +28,6 @@ ussgeseit hand, sagend wir des desselb
 vil trefflichen stück bißharger see , so aber
 Johannes Erasmus von Sarmenberger, essen
 meister handlett, wer wir der gütterlester
-uß dem torst houf irs rechttik, so bedorff es
-komen red, des man hie sage, doch ir faren
-dasselben, die erkern. da, dann gang andern orten.
+uß dem torst houf irs rechttik/ so bedarff es
+keiner red/ das man hie sage/ doch Johannes habe
+dasselben, hie erklärung tan/ dann johannes an dem ort/

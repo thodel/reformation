@@ -33,5 +33,4 @@ waͤlsch wyn / ibt aller verstand
 das darum dilber oder Holtz nitt
 Ist / das wir abr unstis verstandz
 nochzrals, dchemen osu das
-Ist
-figalrlich rd, in den wodten
+Ist figalrlich rd, in den wodten

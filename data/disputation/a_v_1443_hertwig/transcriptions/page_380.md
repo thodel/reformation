@@ -4,13 +4,10 @@ Darrn wir noch staͤttige wider die gͦ Errn
 lüsin bilib vi den worten das
 min lyb / uber eden wortte / wöll
 wir buitt zankeen / allein das der sin
-da belibe / das es nit en
-arlich brett
+da belibe / das es nit en arlich brett
 ye oder bebittbich / ddas wi in abent/
-mal essen
-ir der lyb Cristis
-und das blt Cristi/
-vil Jozmal /
+mal essen ir der lyb Cristis
+und das blt Cristi, vil Jozmal /
 Oecolampadius
 sir suͤchn euch dehein wortgezanck/
 begde aber / den natwrlichen vaͤstand
@@ -23,14 +20,11 @@ lyb / haben wir begert / dirglych
 art der Sprach usß göttlicher Schrifft
 att si aber noch nitt anzoͤrgt / vnd
 erfundt sich / das gaͤr ein fründe wüss
-5
 zuͦredn ist / Spraͤchten das ein schwn sye
 das wasser / So nan versten wil / dar/
-durchin
-Schrunsye das wasser /
+durchin Schrunsye das wasser /
 Allso ouch / so sind es fruinbd wyss zu //
-eden /
-o man syucht der Baͤcher Ist
+eden / o man syucht der Baͤcher Ist
 riffwyn / So nffnindt sich Je claͤrlich
 das der baͤchr ii sinen beaͤhen
 Silbrin der usß einer anznater

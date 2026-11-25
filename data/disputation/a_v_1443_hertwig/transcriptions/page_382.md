@@ -1,14 +1,11 @@
 # Seite 382
 
-s
 In dehemen swag das wiressen / den lyb Crisi
-rinc
 und efn / sin blitt aber das thurs
 wir geistlich / durh den glouben / So wir
 glouͦben / das wir durch das wii lydr
-risti gott
-dadi
-vefuͤnt sye nitt / das wire glouben / das
+risti gott dem
+vefuͤnt sye nitt dadurch / das wire glouben / das
 vnder dem brett, waͤ̈sseluch oderlyb //
 lich sye / der lyb Cristi / das
 Hir Beredict wytter Infiert / den
@@ -33,12 +30,4 @@ thertznn / Hienn die glychnusß / dienen
 uͤch ir deheinen waͤg / uwere art zuͤreden
 zuͦbeschirmen Wir sind das noch von
 uͤch wartten / sollche bewaͤrmiss /
-Pfaner von Sant Calle
-i
-r/
-ih
-liss
-I
-Colt
-sollt
-iett
+Pfaner von Sant Gallen

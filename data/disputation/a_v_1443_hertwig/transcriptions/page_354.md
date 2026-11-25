@@ -1,34 +1,34 @@
 # Seite 354
 
-Antwurt / das brott bo da anzogen mirdt /
-Ist die vyfrisg des / So Cristus durch
-die andre dee du an / gelistnn unnd
-durcs don heilig aulum / das
-nachtal beschribend / So ir in die hand
-gerdmen hatt / vn sinen lys genacht
-dess wir fur en probutnar zuͤm/ setz
-nnach zum z putten / dar wöllichs uch
-gebenn wïrdt fr das leben / wirdt /
-wird erklaͤrttluce / Eböllicher fr
-uͤch gegeten wirdt / dan Joaneh sich
-befl /So die a dren Eu ageliss
-laben /enderlassen / sulihs i siilem
-sthrif zuerhllein / alls den geubtn der
-unndrharnen hriffch / vnnd bevelchen zuͦ fur
-dlung der Sach / sollich Jntrag beschechen
-des te Cappittels hall Johanis,/ der
-schrifft / vnnd allen Cristenlichen
+Antwurt / das brott so da anzogen wirdt /
+Ist die verheisßung des / So Cristus / durch
+die andre dry evangelisten und
+durch den heiligen paulum / das
+nachtmal beschribend / So ir in die hand
+genommen hatt / vnd sinen lyb gemacht
+desß wir fur ein prebation  zuͤm/  j setzen
+danach zum 2 ten punkt / am / dar "wöllichs ich"
+gebenn wirdt fuͤr das leben / wirdt /
+wird erklaͤrt $ in den Worten luce / wellicher  fuͤr
+uͤch gegeben wirdt / dann Johannes  sich
+beflissen  / So die andern Euangelisten /
+haben / underlassen / sollichs in sinem
+schriben zu erfuͤllen / alls den geuͤbten der
+unndrharnen schrifft / erfarend vnnd bevelchend zuͦ fur//
+derung der Sach / sollich Jntraͤg beschechen
+des 6 ten Cappittels halb Johannis,/ der
+geschrifft / vnnd allen Cristenlichen
 laͤsern /
-n den
-wertten
-M. H Z
-uunsers bruͤders antwuͤrt / befröme /
-wott uns / das ormitt de
-Eian
+$ in den
+wortten
+M. H  Z
+unsers bruͤders antwuͤrt / befröm /
+dett uns / was er mitt den 3
+evan
 gelisten bewaͤren wil / das an disem
-dett verheissen werde / das Sarrament
-lich brott / vn das an den oitte
-da si das nachtvral beschriben / dan
-diss mozit annders ist / woeder bewaren
-imn Jedes durch sich selbs / unnser Span
-Ist / Os die woit das ist min aychram
+ort verheissen werde / das Sacrament //
+lich brott / vnd das an den orten
+da si das nachtmal beschriben / dan
+disß nuͤtzit  annders ist / weder bewaͤren
+ein Jedes durch sich selbs / unnser Span
+Ist / Ob die wort das ist min lychnam
