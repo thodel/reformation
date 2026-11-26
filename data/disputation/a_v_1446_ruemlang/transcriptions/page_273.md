@@ -3,31 +3,31 @@
 da si das nachtmal beschriben dann diß
 nützit anders ist , weder bewären ein ieders
 durch sich selbs/ vnser span ist, ob die
-wozt/ das ist min lichnam, müsend
-wesenlich und substanzlich verstanden werden
-vnd so unser widerpart, bi den selb worde
-(ales ich wol denck) nitt bestan mag so
-süchet si/ ein wort der verheißung do aber
-kein verheissung ist deß sacraments davon, der
-span ist und so si dasselb oz bewären
-söllend ein verheissung si/ so wollend es
-bewären mitt den wortt Denen si diß
+wort/ das ist min lichnam/ müsend
+wesenlich vnd substanzlich verstanden werden
+vnd so unser widerpart,/bi den sälben worte
+(als ich wol denck) nitt bestan mag so
+suchet si/ ein wort der verheißung do aber
+kein verheissung ist/ deß sacraments davon der
+span ist/ und so si dasselb einz bewären
+söllend ein verheisung sin/ so wollend es
+bewären mitt den worten/ Denen si dise
 zuͦ hilff genommen hatt/ und ist glych ein
-red , als so man sprechen/ werde lütetten
-vnd man antwurt, des man zuͦ preden gang,
-und so man spräche, wärs gat man zuͦ
-predet/ sprächen man widerumb, das man gelütt
-hat/ vnd besyt man der frag wiewol der
-gand sterben was hatt und gedient.
-so volgt in ende die vordrigenamen unzal
-nimpt kann und also ouch hie , so man
-von den worten Christi weg im nachtmal
-gerett, hernn jetz, won der johansen
-So hiezu man von heimme die man
-danenthum beſtäschen wil mitt denen darumb
-von span ist , demnach Ich so hatt unser lieber
-beiden vff hüten also gewett das doch
-war brot, bas und himel haus kummen
-das hie das, das leonen an wolt gelegt
-das söliche wort sampt andern nachuolgende
-und reht ussgelegt seill, so doch wir
+red/ als so man sprechen/ warum lütet man
+vnd man antwurt, des man zuͦ predigt gang,
+vnd so man spricht/ warum gat man zuͦ
+predigt/ spricht man widerumb das man gelütet
+hat/ vnd hebt man der frag wiederum
+an vnd spricht warumb hatt und gelütert.
+so volgt imerdar die vordrig antwort vnd
+nimpt kein end/ also ouch hie/ so man
+von den worten Christi wegen im nachtmal
+gerett/ harin zücht wort der verheisung
+So zücht man wort herin/ die man
+dannethin bestäten wil mitt denen darumb
+der span ist/ demnach so hatt unser lieber
+bruͦder vff hüt also gerett/ das das
+war brot, das vom himel herab kommen
+das sie das/ das läben der welt gebe
+das söliche wort sampt andern/ christentlich
+und recht vßgelegt siend/ so doch wir

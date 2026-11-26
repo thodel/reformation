@@ -1,33 +1,33 @@
 # Seite 274
 
-16.
-Deselb des Brot, Pfandhand thon sechen.
-und glouben gewesen. Wer habend ouch
-als capittel mitt allen besunder stück anzeigt.
-daß er geverd, das der wort nützit vererstend,
-von Leplicher och sanan̄tlichen essē sondern
-peters und uns, so vor genanten, versicheret,
-lätrig und solt unser liebbrüder des
-selben gründ unser bewonniß umkären.
-mitt grund der schrifft unuß andern ort
-dann ouch der offe buchstab und das bren
-aber das ich uß geben werd, so uns dienen.
-Dann am ieder merkt ander beiden
-wöllen und und aber, das es ain usslen
-gende red ist , und nitt ein verheiſende
-deß leiplichen essens. Wil aber unser lieb
-bruͦder, deß wort bliben last. Das egmäter
-und ubelständ wort, etc. Desß depliben essens
-werden wir wol zufrieden sin wo daß nitt
-von es in nun nit messglichen, das er red
-welle, es sie deß leplicherstens amm verharrung
-on und aber das man schrifft nit
-bewaren. Für, es ander pünctz, ouch
-durch pflichten mr Jacobus , das andere verordigung
-ussgeseit hand, sagend wir des desselb
-vil trefflichen stück bißharger see , so aber
-Johannes Erasmus von Sarmenberger, essen
-meister handlett, wer wir der gütterlester
-uß dem torst houf irs rechttik/ so bedarff es
+past 8
+Deselb das Brot verstanden habend christum jesum im
+geist vnd glouben genoßen. Wir habend ouch
+aleß capittel mitt allen besundern stücken anzeigt.
+dahär dienend/ das dise wort nützit verstend,
+vom liplichen oder sacramtlichen essen/ sondern
+verheisend vns den tod christi, die sicherheit vnsers
+läbens/ und solt vnser lieb bruͦder des
+selben grund unser bewarnüß umkären
+mitt grund der schrifft voruß andern ort
+dann ouch der offen buchstab/ und das brot
+aber das ich vͧch geben werd/ etc./ uns dienet
+Dann ein ieder merkt ander beiden
+wörtlin vnd/ und aber/ das es ein vßle
+gende red ist/ und nitt ein verheisende
+deß leiplichen essens Wil aber unser lieb
+bruͦder/ deß wort bliben laßen/ Das es nit
+ein verheisend wort sie/ des liplichen essens
+werden wir wol zuͦfrieden sin/ wo das nitt
+wirt es im nun nit nachgelaßenn/ das er reden
+welle/ es sie/ deß liplichen essens ein verheissends
+ort/ vnd aber das mit schrifften nit
+bewäre/ für, den ander punkt/ ouch
+johannes geflissen hab zeersezen/ das ander euangelisten
+vssgelasen habind/ sagend wir das dasselb in
+vil trefflichen stücken beschechen sie , so aber
+Johannes hie von dem sacramentlichen essen
+nützlich handlett/ wie wir das grüntlichen
+uß dem text harfür bracht haben/ so bedarff es
 keiner red/ das man hie sage/ doch Johannes habe
 dasselben, hie erklärung tan/ dann johannes an dem ort/

@@ -1,32 +1,32 @@
 # Seite 276
 
-Unser vatter habend gsin hendler, in den
-wüßen , das ander brot ihn des vort gegen alß
-sich lehens besygt von gotzsumm gemelstet.
-vatter den durch geben ſind , so er von dem
-selbigen also sprechen: „Möss hatt üch nitt geben.“
-des brot von himel, aber min vatter git
-üch von himel das warff brot, wann doch
-uß des war brot, das von himel gnad ist,
-gefrist und gitt des lieben der wolt, etc. Das
-dritt brot iß das vor vnß fleißig garns 20 tag
-er sich yeders hatt ze geben, alles gehuͦdig, so er
-also spricht, das bet das ich gaben wer, ist
-hilfft etc. Also ist her zum ersten gsagt,
-von das geb. ist aber zum vergangenen
-von dem, das er gitt, also in gegen wainigen
-und von der, das er gitt, wurde also in
-kùnfftigen, also gestochen ist nach dem mal
-dieweil im diser vor 1000 und die wort
-deß nattals sich so vast einander verglichen.
-bedörffte, wer stracks kamer glos nach inhalt
-alsß mandat vom das lüten getzworn, so
-wir aber ein gloß hie müssch büebnn ,
-wurdend vil 34 angenämen sein. Derglyche
-Hergenis, Ciprarius, Gelarii, Zefioniani,
-Ambrosii, Crebli, Christophorum Thapferlatti
-Die allsamen emerachtenklich alere
-Der wort gantz etc. Uff das sacrament
-evangelistis, diewil in bybliopam
-gans christelich, klich diss ist min wai
-und ist über ihr vorn doch 60 fl .
+Unser vatter habend geessen himelbrot, in der
+wüsti/ das ander brot ist das wort gottes alß
+sich christus bezügt von gott sinem himmlischen
+vatter den juden gäben sin/ so er von dem
+selbigen also spricht: Mises hatt üch nitt geben
+das brot von himel, aber min vatter git
+üch von himel das war brot, wann das
+ist das war brot, das vom himel herab ist
+gestigen vnd gitt des läben der welt etc./ Das
+dritt brot ist das warr vnß fleisch gottes das
+er sich verheisen hatt ze geben allen glöubigen, so er
+also spricht/ das brot das ich geben wer, ist
+min fleisch etc./ Also ist hie zum ersten gsagt,
+von de das geben ist im vergangenen/
+von dem, das er gitt, also im gegenwartigen
+und von dem das er geben wurde als in
+künfftigem/ alß geschechen ist nach dem nachtmal
+dieweil nu dise wort johannis vnd die wort
+deß vatters sich so vast einander verglichen
+bedörffen wir stracks keiner gloß nach inhalt
+deß mandat wann das luter gotzwort so
+wir aber ein gloß hie müszen bruchen/
+wurdend vil me anzenämen sin/ die glosene
+Origenis/ Ciprarini/ Hilarii/ Jerionimi,
+Ambrosii/ Cerilli, Chrisostomi/ Theophilacti
+Die allsamen einträglich halten
+Die wort johannis vff das sacrament
+eucharestiä, dienend mit sampt der
+ganzen christelichen klichen diss ist min mei
+nung über die wort johannis

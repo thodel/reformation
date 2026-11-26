@@ -1,37 +1,37 @@
 # Seite 355
 
-nissen wïselis und substacheeaih waarde
-an so unser widrparth by dunselb /
-wortten / alls ich wol gedencken ditt
+muͤssen waͤsentlich  und substantzlichverstanden werden
+Und so unser widerparth bey denselb /
+wortten / alls ich wol gedencken nitt
 bestan mag / sucht si ein wort / der
-verheissug / da aber dehein verhrissen
-st des Sacaments/ darven der Sa
-st venn so si dasselb art bewaͤren
-soͤllen er verheissung sin / So wollen
-i das bewaren nitt den wortte/
-er si dis zu hilff gewmer
-hatten / ubnn ist glych ei red / Alls so
-man syricht wirnm liͤttet man
-un man antwurt / dare das
-man zu pridig gang/ unnd so
-man sspiicht wantn gat man zo
-predige / dar das man geluttt
-hatt / un hebt man die frag wi /
-waltn hatt man geluͤttot / So vollgt
-mmer dar die vordrig ant wurtt /
-un nimpt dcheinei .Allso
-auch hie t So man von derwortt
-risei wegen In nacht al gerttt
-Hart zucht wortt der verheissin
-ach man wortt Harin de
-nan dan athin bestaͤtten wil / mitt
-denen daren der Span ist /
-dannach so hat unnser lieber Bruͤdr
-f hutt allso geredt / das war
-brott das von Ennl harab komnen
-das sye / das das lebe dr wellt
-gebe / das sollche wort Sarpt
-ndie Cristelich vn recht rerh
-ußgeleg syen o doch wir daselbe
-derumbano
-unnd sprich
+verheissug / da aber dehein verheissung
+ist des Sacraments/ darvon der Span
+ist / und so si dasselb ort bewaͤren
+soͤllen ein verheissung sin / So wellen
+si das bewaren mitt den wortten/
+denen si dis zuͦ hilff genommen
+hatten / und ist glych ei red / Alls so
+man spricht warum luͤttet man
+und man antwurtet / daher  das
+man zuͤ predig gang/ unnd so
+man spricht warumb gat man zuͤ
+predigt / darum das man geluͤttet
+hatt / und hebt man die frag wi /
+$ warumb hatt man geluͤttot / So vollgt
+immer dar die vordrig antwurtt /
+un nimpt dhein end / Allso
+auch hie t So man von den wortten
+Cristi wegen Im nachtmal geredet
+Haryn zuͤcht wortt der verheissung
+so zucht man wortt Haryn die
+man dannathin bestaͤtten wil / mitt
+denen darumb der Span ist /
+dannach so hat unnser lieber Bruͤder
+uff huͤtt allso geredt / das waar
+brott das vom Himmel harab komnen
+das sye / das das leben dr wellt
+gebe / das sollche wort Samt
+andere Christenlich und  Cristelich vnd recht rerh
+ußgelegt syen /so doch wir daselbe
+$derumb an
+unnd spricht
