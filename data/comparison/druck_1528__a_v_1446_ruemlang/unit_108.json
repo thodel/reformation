@@ -5,10 +5,10 @@
       240
     ],
     "a_v_1446_ruemlang": [
-      275
+      274
     ]
   },
-  "alignment_score": 0.1189,
+  "alignment_score": 0.2664,
   "coarse": {
     "paragraphs": {
       "a": 2,
@@ -24,10 +24,10 @@
   },
   "sentences": {
     "units": 16,
-    "matched": 3,
-    "only_a": 9,
+    "matched": 6,
+    "only_a": 6,
     "only_b": 4,
-    "similarity": 0.3634,
+    "similarity": 0.5003,
     "pairs": [
       {
         "op": "only_a",
@@ -36,16 +36,34 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
-        "a": "vor=\nuß an dem oꝛt/ Daß ouch der offen buͦchſtab (Vnd dz brot\naber das ich uͤch geben wird) vnns dienet:",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "past 8\nDeselb das Brot verstanden habend christum jesum im\ngeist vnd glouben genoßen. Wir habend ouch\naleß capittel mitt allen besundern stücken anzeigt.",
         "similarity": 0.0
       },
       {
-        "op": "only_a",
-        "a": "dann ein yeder\nmerckt an den beiden woͤrtlin/ Vnd/ vn Aber/ das es ein\nvßlegende red iſt/ vnd nit ein verheyſſende/",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "dahär dienend/ das dise wort nützit verstend,\nvom liplichen oder sacramtlichen essen/ sondern\nverheisend vns den tod christi, die sicherheit vnsers\nläbens/",
         "similarity": 0.0
+      },
+      {
+        "op": "only_b",
+        "a": null,
+        "b": "und solt vnser lieb bruͦder des\nselben grund unser bewarnüß umkären\nmitt grund der schrifft voruß andern ort\ndann ouch der offen buchstab/",
+        "similarity": 0.0
+      },
+      {
+        "op": "match",
+        "a": "vor=\nuß an dem oꝛt/ Daß ouch der offen buͦchſtab (Vnd dz brot\naber das ich uͤch geben wird) vnns dienet:",
+        "b": "und das brot\naber das ich vͧch geben werd/ etc./ uns dienet\nDann ein ieder merkt ander beiden\nwörtlin vnd/",
+        "similarity": 0.3636
+      },
+      {
+        "op": "match",
+        "a": "dann ein yeder\nmerckt an den beiden woͤrtlin/ Vnd/ vn Aber/ das es ein\nvßlegende red iſt/ vnd nit ein verheyſſende/",
+        "b": "und aber/ das es ein vßle\ngende red ist/ und nitt ein verheisende\ndeß leiplichen essens Wil aber unser lieb\nbruͦder/",
+        "similarity": 0.3636
       },
       {
         "op": "only_a",
@@ -54,34 +72,40 @@
         "similarity": 0.0
       },
       {
-        "op": "only_a",
-        "a": "werdend wir wol zuͤ friden ſin: wo das nit/ wirt es\njm nit nachgelaſſen/ das er reden welle /es ſye des lyplichẽ\neſſens ein verheiſſends oꝛt/",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_a",
-        "a": "vnd aber das mit gſchrifft nit\nbewaͤre. Fuͤr den andren punckten/ das ſich Johannes\ngefliſſen hab zeerſetzen/ das ander Euangeliſten vßgelaſ\nſen habind/",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_a",
-        "a": "ſagend wir daß das ſelb in vil treſſenlichenn\nſtuckenn beſchehen ſye. So aber Johannes hie von dem\nſacramentlichen eſſen/ nuͤtzit handlet/",
-        "b": null,
-        "similarity": 0.0
-      },
-      {
-        "op": "only_a",
-        "a": "wie wir daß grunt\nlichen vffz dem text harfuͤr bracht habend/ ſo bedarff es\nkeiner red/ das man hie ſage/",
-        "b": null,
+        "op": "only_b",
+        "a": null,
+        "b": "deß wort bliben laßen/ Das es nit\nein verheisend wort sie/ des liplichen essens\nwerden wir wol zuͦfrieden sin/",
         "similarity": 0.0
       },
       {
         "op": "match",
+        "a": "werdend wir wol zuͤ friden ſin: wo das nit/ wirt es\njm nit nachgelaſſen/ das er reden welle /es ſye des lyplichẽ\neſſens ein verheiſſends oꝛt/",
+        "b": "wo das nitt\nwirt es im nun nit nachgelaßenn/ das er reden\nwelle/ es sie/ deß liplichen essens ein verheissends\nort/",
+        "similarity": 0.5957
+      },
+      {
+        "op": "match",
+        "a": "vnd aber das mit gſchrifft nit\nbewaͤre. Fuͤr den andren punckten/ das ſich Johannes\ngefliſſen hab zeerſetzen/ das ander Euangeliſten vßgelaſ\nſen habind/",
+        "b": "vnd aber das mit schrifften nit\nbewäre/ für, den ander punkt/ ouch\njohannes geflissen hab zeersezen/ das ander euangelisten\nvssgelasen habind/",
+        "similarity": 0.5217
+      },
+      {
+        "op": "match",
+        "a": "ſagend wir daß das ſelb in vil treſſenlichenn\nſtuckenn beſchehen ſye. So aber Johannes hie von dem\nſacramentlichen eſſen/ nuͤtzit handlet/",
+        "b": "sagend wir das dasselb in\nvil trefflichen stücken beschechen sie , so aber\nJohannes hie von dem sacramentlichen essen\nnützlich handlett/",
+        "similarity": 0.619
+      },
+      {
+        "op": "match",
+        "a": "wie wir daß grunt\nlichen vffz dem text harfuͤr bracht habend/ ſo bedarff es\nkeiner red/ das man hie ſage/",
+        "b": "wie wir das grüntlichen\nuß dem text harfür bracht haben/ so bedarff es\nkeiner red/ das man hie sage/ doch Johannes habe\ndasselben, hie erklärung tan/ dann johannes an dem ort/",
+        "similarity": 0.5385
+      },
+      {
+        "op": "only_a",
         "a": "Johanes hab deſſelben hie\nerklaͤrung than. Dañ Johanes an dem oꝛt/ die predig\nJeſu Chriſti vnſers behalters/ Beſchrybt/ die das Euan\ngelium iſt/",
-        "b": "Pfarrer. Sontags pur febr\nZwingli\nBuchstab\ndie predigt Jesu Christi/ vnsers\nbehalters beschribt die/ das evangelium ist\nvnd schribt, nit das sacrament der\ndancksagung/",
-        "similarity": 0.3333
+        "b": null,
+        "similarity": 0.0
       },
       {
         "op": "only_a",
@@ -90,227 +114,423 @@
         "similarity": 0.0
       },
       {
-        "op": "match",
+        "op": "only_a",
         "a": "der byſpil\nhalb/ durch min herr vnd Bruͤder yngefuͤrt/ von\ndem luͤten vnnd zuͤ der predig gan/",
-        "b": "Christi wie gnügsam gehört ist. Damitt vnd alle verlengerung, vermitten der\nbispil halb durch min her vnd bruͦder\ngefürt/",
-        "similarity": 0.35
+        "b": null,
+        "similarity": 0.0
       },
       {
-        "op": "match",
+        "op": "only_a",
         "a": "mit ſampt\nanderer erzelung/ laß ich in ſiner wirde blyben. Das ſo\nich jm huͤtt zuͤ beſtaͤtigung ſiner erklaͤruͤg geredt/ iſt haͤll\nver",
-        "b": "von dem lüten und zuͦ der predig\ngan/ mit sampt anderen erklzellung/ laß\nich in siner würde/ bliben/ das so ich im hütt\nzuͦ bestätigung sinder erklärung gerett, ist hall\nverfassett/",
-        "similarity": 0.4068
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "vnd andere bewärung vsß\nerthalben deß ingebrachten, acht ich, iezmal/ vnnötig vnd laß es bi miner fürgetrager\nerklärung/ derhalb iez berliben mitt angeding\nter vordigen beveolchnüß/",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "damitt vnd\nWir zu dem rechten worten deß insatz\ndeß herrn nachtmal kommen mögend, befelchs\nvnd verdergib wie vormal/ Der verzug unsers bruders erfreut vns\nser/",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "das er sich nitt witer inlaße/ Die\nofft gedachten, wort/ für verhären\ndeß liplichen essens zebewahren wellend im\nauch solichen züchtigen abzug gern zuͦlasen.",
-        "similarity": 0.0
-      },
-      {
-        "op": "only_b",
-        "a": null,
-        "b": "Ich werd berichten/ das an anzognen orteb von\ndrierley brot gesagt werden zu erstem\nvon dem himel brot deß sich die juden\nberümen/ inen gäben worden sin/ sprechende/",
+        "b": null,
         "similarity": 0.0
       }
     ]
   },
   "fine": {
-    "similarity": 0.1822,
+    "similarity": 0.417,
     "words": {
       "a": 292,
-      "b": 180
+      "b": 226
     },
     "segments": [
       {
+        "op": "replace",
+        "a": "Die vierde ſunder verheyſſend",
+        "b": "past 8 Deselb das Brot verstanden habend christum jesum im geist vnd glouben genoßen Wir habend ouch aleß capittel mitt allen besundern stücken anzeigt dahär dienend das dise wort nützit verstend vom liplichen oder sacramtlichen essen sondern verheisend"
+      },
+      {
+        "op": "equal",
+        "a": "vns den tod Chriſti die ſicherheit",
+        "b": "vns den tod christi die sicherheit"
+      },
+      {
+        "op": "replace",
+        "a": "vn ſers la bens Vn",
+        "b": "vnsers läbens und"
+      },
+      {
+        "op": "equal",
+        "a": "ſolt vnſer",
+        "b": "solt vnser"
+      },
+      {
+        "op": "replace",
+        "a": "lieber",
+        "b": "lieb"
+      },
+      {
+        "op": "equal",
+        "a": "bru der",
+        "b": "bru der"
+      },
+      {
+        "op": "replace",
+        "a": "die",
+        "b": "des"
+      },
+      {
+        "op": "equal",
+        "a": "ſelben",
+        "b": "selben"
+      },
+      {
+        "op": "replace",
+        "a": "gru nd",
+        "b": "grund"
+      },
+      {
+        "op": "equal",
+        "a": "vnſer",
+        "b": "unser"
+      },
+      {
+        "op": "replace",
+        "a": "bewa rnuß vmkeren mit",
+        "b": "bewarnüß umkären mitt"
+      },
+      {
+        "op": "equal",
+        "a": "grund der",
+        "b": "grund der"
+      },
+      {
+        "op": "replace",
+        "a": "gſchrifft vor uß an dem oꝛt Daß",
+        "b": "schrifft voruß andern ort dann"
+      },
+      {
+        "op": "equal",
+        "a": "ouch der offen",
+        "b": "ouch der offen"
+      },
+      {
+        "op": "replace",
+        "a": "bu chſtab Vnd dz",
+        "b": "buchstab und das"
+      },
+      {
+        "op": "equal",
+        "a": "brot aber das ich u ch geben",
+        "b": "brot aber das ich v ch geben"
+      },
+      {
+        "op": "replace",
+        "a": "wird vnns",
+        "b": "werd etc uns"
+      },
+      {
+        "op": "equal",
+        "a": "dienet dann ein",
+        "b": "dienet Dann ein"
+      },
+      {
+        "op": "replace",
+        "a": "yeder merckt an den",
+        "b": "ieder merkt ander"
+      },
+      {
+        "op": "equal",
+        "a": "beiden",
+        "b": "beiden"
+      },
+      {
+        "op": "replace",
+        "a": "wo rtlin Vnd vn",
+        "b": "wörtlin vnd und"
+      },
+      {
+        "op": "equal",
+        "a": "Aber das es ein",
+        "b": "aber das es ein"
+      },
+      {
+        "op": "replace",
+        "a": "vßlegende",
+        "b": "vßle gende"
+      },
+      {
+        "op": "equal",
+        "a": "red iſt vnd",
+        "b": "red ist und"
+      },
+      {
+        "op": "replace",
+        "a": "nit",
+        "b": "nitt"
+      },
+      {
+        "op": "equal",
+        "a": "ein",
+        "b": "ein"
+      },
+      {
+        "op": "replace",
+        "a": "verheyſſende",
+        "b": "verheisende"
+      },
+      {
+        "op": "equal",
+        "a": "deß",
+        "b": "deß"
+      },
+      {
+        "op": "replace",
+        "a": "lyblichen",
+        "b": "leiplichen"
+      },
+      {
+        "op": "equal",
+        "a": "eſſens Wil aber vnſer",
+        "b": "essens Wil aber unser"
+      },
+      {
+        "op": "replace",
+        "a": "lieber",
+        "b": "lieb"
+      },
+      {
+        "op": "equal",
+        "a": "bru der",
+        "b": "bru der"
+      },
+      {
+        "op": "replace",
+        "a": "diß woꝛt blyben laſ ſen",
+        "b": "deß wort bliben laßen"
+      },
+      {
+        "op": "equal",
+        "a": "das es nit ein",
+        "b": "Das es nit ein"
+      },
+      {
+        "op": "replace",
+        "a": "verheyſſend woꝛt ſye",
+        "b": "verheisend wort sie"
+      },
+      {
+        "op": "equal",
+        "a": "des",
+        "b": "des"
+      },
+      {
+        "op": "replace",
+        "a": "lyblichenn eſ ſens werdend",
+        "b": "liplichen essens werden"
+      },
+      {
+        "op": "equal",
+        "a": "wir wol zu",
+        "b": "wir wol zu"
+      },
+      {
+        "op": "replace",
+        "a": "friden",
+        "b": "frieden"
+      },
+      {
+        "op": "equal",
+        "a": "ſin wo das",
+        "b": "sin wo das"
+      },
+      {
+        "op": "replace",
+        "a": "nit",
+        "b": "nitt"
+      },
+      {
+        "op": "equal",
+        "a": "wirt es jm",
+        "b": "wirt es im"
+      },
+      {
         "op": "insert",
         "a": "",
-        "b": "Pfarrer Sontags pur febr Zwingli Buchstab"
+        "b": "nun"
       },
       {
         "op": "equal",
-        "a": "Die",
-        "b": "die"
+        "a": "nit",
+        "b": "nit"
       },
       {
         "op": "replace",
-        "a": "vierde ſunder verheyſſend vns den tod Chriſti die ſicherheit vn ſers la bens Vn ſolt vnſer lieber bru der die ſelben gru nd vnſer bewa rnuß vmkeren mit grund der gſchrifft vor uß an dem oꝛt Daß ouch der offen bu chſtab Vnd dz brot aber das ich u ch geben wird vnns dienet dann ein yeder merckt an den beiden wo rtlin Vnd vn Aber das es ein vßlegende red iſt vnd nit ein verheyſſende deß lyblichen eſſens Wil aber vnſer lieber bru der diß woꝛt blyben laſ ſen das es nit ein verheyſſend woꝛt ſye des lyblichenn eſ ſens werdend wir wol zu friden ſin wo das nit wirt es jm nit nachgelaſſen das er reden welle es ſye des lyplichẽ eſſens ein verheiſſends oꝛt vnd aber das mit gſchrifft nit bewa re Fu r den andren punckten das ſich Johannes gefliſſen hab zeerſetzen das ander Euangeliſten vßgelaſ ſen habind ſagend wir daß das ſelb in vil treſſenlichenn ſtuckenn beſchehen ſye So aber Johannes hie von dem ſacramentlichen eſſen nu tzit handlet wie wir daß grunt lichen vffz dem text harfu r bracht habend ſo bedarff es keiner red das man hie ſage Johanes hab deſſelben hie erkla rung than Dan Johanes an dem oꝛt die predig",
-        "b": "predigt"
+        "a": "nachgelaſſen",
+        "b": "nachgelaßenn"
       },
       {
         "op": "equal",
-        "a": "Jeſu Chriſti vnſers behalters",
-        "b": "Jesu Christi vnsers behalters"
+        "a": "das er reden welle es",
+        "b": "das er reden welle es"
       },
       {
         "op": "replace",
-        "a": "Beſchrybt",
-        "b": "beschribt"
+        "a": "ſye des lyplichẽ",
+        "b": "sie deß liplichen"
       },
       {
         "op": "equal",
-        "a": "die das",
-        "b": "die das"
+        "a": "eſſens ein verheiſſends",
+        "b": "essens ein verheissends"
       },
       {
         "op": "replace",
-        "a": "Euan gelium",
-        "b": "evangelium"
+        "a": "oꝛt",
+        "b": "ort"
       },
       {
         "op": "equal",
-        "a": "iſt",
-        "b": "ist"
+        "a": "vnd aber das mit",
+        "b": "vnd aber das mit"
       },
       {
         "op": "replace",
-        "a": "vn beſchrybt",
-        "b": "vnd schribt"
+        "a": "gſchrifft",
+        "b": "schrifften"
       },
       {
         "op": "equal",
-        "a": "nit das ſacrament der",
-        "b": "nit das sacrament der"
+        "a": "nit",
+        "b": "nit"
       },
       {
         "op": "replace",
-        "a": "danckſa gung",
-        "b": "dancksagung"
+        "a": "bewa re Fu r",
+        "b": "bewäre für"
       },
       {
         "op": "equal",
-        "a": "Chriſti wie",
-        "b": "Christi wie"
+        "a": "den",
+        "b": "den"
       },
       {
         "op": "replace",
-        "a": "gnu gſam geho rt",
-        "b": "gnügsam gehört"
+        "a": "andren punckten das ſich Johannes",
+        "b": "ander punkt ouch johannes"
       },
       {
         "op": "equal",
-        "a": "iſt",
-        "b": "ist"
+        "a": "gefliſſen hab",
+        "b": "geflissen hab"
       },
       {
         "op": "replace",
-        "a": "Pfarrer von ſant Gallen Amit",
-        "b": "Damitt"
+        "a": "zeerſetzen",
+        "b": "zeersezen"
       },
       {
         "op": "equal",
-        "a": "vnd alle",
-        "b": "vnd alle"
+        "a": "das ander Euangeliſten",
+        "b": "das ander euangelisten"
       },
       {
         "op": "replace",
-        "a": "lengrung",
-        "b": "verlengerung"
+        "a": "vßgelaſ ſen",
+        "b": "vssgelasen"
       },
       {
         "op": "equal",
-        "a": "vermitten der",
-        "b": "vermitten der"
+        "a": "habind ſagend wir",
+        "b": "habind sagend wir"
       },
       {
-        "op": "replace",
-        "a": "byſpil",
-        "b": "bispil"
-      },
-      {
-        "op": "equal",
-        "a": "halb durch min",
-        "b": "halb durch min"
-      },
-      {
-        "op": "replace",
-        "a": "herr",
-        "b": "her"
+        "op": "delete",
+        "a": "daß",
+        "b": ""
       },
       {
         "op": "equal",
-        "a": "vnd Bru der",
-        "b": "vnd bru der"
+        "a": "das",
+        "b": "das"
       },
       {
         "op": "replace",
-        "a": "yngefu rt",
-        "b": "gefürt"
+        "a": "ſelb",
+        "b": "dasselb"
       },
       {
         "op": "equal",
-        "a": "von dem",
-        "b": "von dem"
+        "a": "in vil",
+        "b": "in vil"
       },
       {
         "op": "replace",
-        "a": "lu ten vnnd",
-        "b": "lüten und"
+        "a": "treſſenlichenn ſtuckenn beſchehen ſye",
+        "b": "trefflichen stücken beschechen sie"
       },
       {
         "op": "equal",
-        "a": "zu der predig gan mit ſampt",
-        "b": "zu der predig gan mit sampt"
+        "a": "So aber Johannes hie von dem ſacramentlichen eſſen",
+        "b": "so aber Johannes hie von dem sacramentlichen essen"
       },
       {
         "op": "replace",
-        "a": "anderer erzelung",
-        "b": "anderen erklzellung"
+        "a": "nu tzit handlet",
+        "b": "nützlich handlett"
       },
       {
         "op": "equal",
-        "a": "laß ich in ſiner",
-        "b": "laß ich in siner"
+        "a": "wie wir",
+        "b": "wie wir"
       },
       {
         "op": "replace",
-        "a": "wirde blyben",
-        "b": "würde bliben"
+        "a": "daß grunt lichen vffz",
+        "b": "das grüntlichen uß"
       },
       {
         "op": "equal",
-        "a": "Das ſo ich jm",
-        "b": "das so ich im"
+        "a": "dem text",
+        "b": "dem text"
       },
       {
         "op": "replace",
-        "a": "hu tt",
-        "b": "hütt"
+        "a": "harfu r",
+        "b": "harfür"
       },
       {
         "op": "equal",
-        "a": "zu",
-        "b": "zu"
+        "a": "bracht",
+        "b": "bracht"
       },
       {
         "op": "replace",
-        "a": "beſta tigung ſiner erkla ru g geredt",
-        "b": "bestätigung sinder erklärung gerett"
+        "a": "habend",
+        "b": "haben"
       },
       {
         "op": "equal",
-        "a": "iſt",
-        "b": "ist"
+        "a": "ſo bedarff es keiner red das man hie ſage",
+        "b": "so bedarff es keiner red das man hie sage"
       },
       {
         "op": "replace",
-        "a": "ha ll ver",
-        "b": "hall verfassett vnd andere bewärung vsß erthalben deß ingebrachten acht ich iezmal vnnötig vnd laß es bi miner fürgetrager erklärung derhalb iez berliben mitt angeding ter vordigen beveolchnüß damitt vnd Wir zu dem rechten worten deß insatz deß herrn nachtmal kommen mögend befelchs vnd verdergib wie vormal Der verzug unsers bruders erfreut vns ser das er sich nitt witer inlaße Die offt gedachten wort für verhären deß liplichen essens zebewahren wellend im auch solichen züchtigen abzug gern zu lasen Ich werd berichten das an anzognen orteb von drierley brot gesagt werden zu erstem von dem himel brot deß sich die juden berümen inen gäben worden sin sprechende"
+        "a": "Johanes hab deſſelben",
+        "b": "doch Johannes habe dasselben"
+      },
+      {
+        "op": "equal",
+        "a": "hie",
+        "b": "hie"
+      },
+      {
+        "op": "replace",
+        "a": "erkla rung than Dan Johanes",
+        "b": "erklärung tan dann johannes"
+      },
+      {
+        "op": "equal",
+        "a": "an dem",
+        "b": "an dem"
+      },
+      {
+        "op": "replace",
+        "a": "oꝛt die predig Jeſu Chriſti vnſers behalters Beſchrybt die das Euan gelium iſt vn beſchrybt nit das ſacrament der danckſa gung Chriſti wie gnu gſam geho rt iſt Pfarrer von ſant Gallen Amit vnd alle lengrung vermitten der byſpil halb durch min herr vnd Bru der yngefu rt von dem lu ten vnnd zu der predig gan mit ſampt anderer erzelung laß ich in ſiner wirde blyben Das ſo ich jm hu tt zu beſta tigung ſiner erkla ru g geredt iſt ha ll ver",
+        "b": "ort"
       }
     ],
-    "ops": 18,
+    "ops": 40,
     "truncated": false
   }
 }
