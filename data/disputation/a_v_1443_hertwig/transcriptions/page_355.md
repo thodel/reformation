@@ -1,6 +1,6 @@
 # Seite 355
 
-muͤssen waͤsentlich  und substantzlichverstanden werden
+muͤssen waͤsentlich  und substantzlich verstanden werden
 Und so unser widerparth bey denselb /
 wortten / alls ich wol gedencken nitt
 bestan mag / sucht si ein wort / der
@@ -17,21 +17,21 @@ man zuͤ predig gang/ unnd so
 man spricht warumb gat man zuͤ
 predigt / darum das man geluͤttet
 hatt / und hebt man die frag wi /
-$ warumb hatt man geluͤttot / So vollgt
+$ warumb hatt man geluͤttet / So vollgt
 immer dar die vordrig antwurtt /
 un nimpt dhein end / Allso
 auch hie t So man von den wortten
 Cristi wegen Im nachtmal geredet
-Haryn zuͤcht wortt der verheissung
+Haryn zuͤcht / wortt der verheissung
 so zucht man wortt Haryn die
 man dannathin bestaͤtten wil / mitt
 denen darumb der Span ist /
 dannach so hat unnser lieber Bruͤder
 uff huͤtt allso geredt / das waar
-brott das vom Himmel harab komnen
-das sye / das das leben dr wellt
-gebe / das sollche wort Samt
-andere Christenlich und  Cristelich vnd recht rerh
-ußgelegt syen /so doch wir daselbe
+brott das vom Himmel harab kommen
+das sye / das das leben der wellt
+gebe / das sollche wort Sampt
+andere Christenlich und   vnd recht rerh
+ußgelegt syen /so doch wir dasßelbs
 $derumb an
 unnd spricht

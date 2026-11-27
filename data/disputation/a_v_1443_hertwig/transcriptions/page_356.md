@@ -1,35 +1,35 @@
 # Seite 356
 
-Das brott verstard harben Cristumh esum brott
-in geist un glouͦben genossen / wi
-haben ouch ales dappitell / mitt aller
-besinndren stuckenanzogt / dahar dienend /
-das disse wortt ,/ niehhit verheissen von
-lyblichn oder Sacamentlichen esse
-unders / vrfeissins unns / den tod
-risti / die sichcheyt unnsers lebens
-d solt uniser lieber Bruͦder due /
-sellin geuͤnd / viser bewaͤrnuuss umb
-keren / nut gennd de schrifft , vorussan
-dem ertt / dan aich der uffen Bu//
-stab / unn das brt aber dast
-tuch geben werdt / vns diert / dien
-ein Jeder merkt , an den bedr
-wötlin / vn / und aber / das es
-in ussligend red ist / unnitte ver /
-hrissndett des lyblich essens/ Wilaber
-Woser liiber binder / diss wort
-beliben lassen / das es nitt ei ver
-dwertt sye / des lyblichen Essers
-Wernn wirt wol zofrid
-o das niitt / wurdt es
-nitt nachgelassen das er red
-wille / Es sye des lyblichbsse
-ein verhrisse dort / un das aber
-mitt schrifft nit bewaͤre / kie
-den iten / das sich
-hannes goflissen hab zwerset /
-das dre Euanglist / ustelan
-sen habt / Sagn wir das drsssill
-I viltraͤfflich sticken obischech
-ye/ Sa aeber Johames hir / von dan
+Das brott verstanden  haben Cristum Jesum
+im geist und glouͦben genossen / wir
+haben ouch alles cappitell / mitt aller
+besundren stucken anzeigt / dahar dienend /
+das dise wortt / nuͤtzit verheissen von
+lyblichen oder Sacarmentlichen essen /
+sunder / verheissen unns / den tod
+Cristi / die sicherheyt unnsers lebens /
+und solt unser lieber Bruͦder die /
+selben gruͤnd / unser bewaͤrnuusß umb //
+keren / mit gruͤnd der schrifft / voruͦss an
+dem ortt / dann auch der offen Buͦch//
+stab / unn das brot  ( aber das ich
+uch geben wirdt ) / vns dienet / das
+ein Jeder merkt / an den beydn
+woͤrtlin / vnd / und aber / das es
+ein usslegende red ist / und nit ein ver /
+heissnde / des lyblichen essens / Wil aber
+unser liber bruͦder / diss wort
+bliben lassen / das es nitt ein ver
+heissend wortt sye / des lyblichen Essens
+Werden wir wohl zuͦfriden sein /
+wo das nitt / wirdt es ihm
+nitt nachgelassen das er reden
+welle / Es sye des lyblichen essens
+ein verheissend  ort / und das aber
+mitt schrifft nit bewaͤre / fuͤr
+den 2 ten puncten / das sich Jo//
+hannes geflissen hab zeersetzen /
+das andre Euanglisten / usglas //
+sen haben / Sagen wir das desselb
+in vil traͤfflichen stuͤcken beschehen
+sye/ So aber Johannes hie / von dem

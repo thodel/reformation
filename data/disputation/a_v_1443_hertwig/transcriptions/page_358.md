@@ -1,23 +1,23 @@
 # Seite 358
 
-wortten des Jnsatzes / des Hhern lacht /
-mals / Eo Arit ug BBemilch vnd
-vndergib wie vormaln /
+wortten des Jnsatzes / des Herrn nacht //
+mals / kommen  moͤgen bevilch unnd
+vndergib mich wie vormals /
 Zwingli
-en vezug oisert bruͦders erfröͤwt
-unns ser / das er sich aitt wyttr in/
-lasst, die obgediht vortt fr ver
-issliche wortt dis lyblchubsses
-zuͦbewaͤren / woͤlln iouch , sollch
-zuchttigen abzuͦͤg / gern zuͦ lassen /
-Buchstab
-wurd bericht / das a angerzogie
-Botb von drgerbey brott gesagt
-werde , zum von dem himel
-brott / dess sich die I den beampt
-Inen geben woordenn s / rachende
-unser vatter haben gits des hi /
-melbrett in der wiëste / sc
-das en der bret Ist das wert
+Der verzug unseres  bruͦders erfroͤwt
+unns ser / das er sich nitt wytter in/
+lasst / die obgedachten wortt fuͤr ver //
+heissliche wortt des lyblichen essens
+zuͦbewaͤren / woͤllen in ouch /  sollchen
+zuͤchttigen abzuͦͤg / gern zuͦ lassen /
+Buchstab /
+Ich wuͤrd bericht / das an angezogenen
+Orth  von dreyerley  brott gesagt
+werde / zum 1 ten von dem himel //
+brott / dess sich die Juden beruͤmpten
+Inen geben worden sin  / spraͤchende
+unsere vatter haben gits des geessen das hi //
+melbrott in der wuͤste / tc
+das ander brott Ist das wort
 gottes / alls sich Cristus bezuͤgt / von
-gott sinem nelschen vltter
+gott sinem himmlischen  vatter

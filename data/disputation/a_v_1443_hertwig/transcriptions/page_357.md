@@ -1,29 +1,29 @@
 # Seite 357
 
-acrameullch essen / nittzit harllot /
-Wie wor dann grutlis usß den Lept
-Harfur bracht hirden / So bedierff Es
-wi dehenered / das Jihannes Hie habe
-derselben red erkbaͤng than / dann
-ohanes an dem ortt die predig
-esu Cisti / unsers behalchacs
-beschribt / die das nangelim Ist /
-iu beschiabt ntt das Bimmtt der
-dankagg Cristi wie gonop
-au gehoͤrtt Ist
+sacramentlichen essen / nittzit handlet  /
+Wie wir dann gruntlich  usß den text
+harfur bracht haben  / So bedarff Es
+wi dheiner red / das Johannes Hie habe
+derselben red erklaͤrung than / dann
+Johannes an dem ortt die predig
+Jesu Christi / unsers behalters
+beschribt / die das Euangelium  Ist /
+und  beschribt nitt das Sacrament  der
+danksagung Cristi wie genuͦg //
+sam gehoͤrtt Ist /
 Pfarrer von Sant Gallen
-Ramtt und alle verlangrug
-eemitten / der Byspilhalb / durch
-min herrnn und Bruder Juge //
-fürt, von dem littn und z der
-predig gan, aittsampt andrer
-Erhellung / lasß ichlun sine wirde
-beliben , das so Ich hutt zuͦ bestaͤtti //
-siner erklaͤdg geredt / Isti
-hall vefasset / vnn en die bewa /
-usserkhal des in gebrachtten / acht
-I8getzmal vnnoͤttig / dn lass es
-by minem furgetrann klaͤdg
-desshalb hetz belibe nitt ange//
-ongt vordriger bevelchwusf /
-damitt vnnd wir / zuͦ den rechtten
+Damitt und alle verlaͤngerung
+vermitten / der Byspil halb / durch
+min herrnn und Bruͦder Jn ge //
+fuͤrt / von dem luͤtten und zu  der
+predig gan / mitt sampt andrer
+Erzellung / lasß ich ln siner wuͤrde
+beliben / das so Ich huͤtt zuͦ bestaͤtti //
+gung siner erklaͤrung geredt / Ist
+haͤll vefasset / vnnd andere  bewaͤ /
+rung usserhalb des in gebrachtten / acht
+Ich jetzmal vnnoͤttig / dann lass es
+by mineren furgetragenen erklärung
+desßhalb jetz beliben mitt ange//
+ingter  vordriger bevelchnuͤsß /
+damitt vnnd wir / zuͦ den rechten
