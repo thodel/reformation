@@ -1,27 +1,24 @@
 # Seite 392
 
-Swuigli
-titt dene worttn ist ierdar Jt
+Zwingli
+Mitt dene worttn ist ierdar Jt
 Synechdocha nitt bewaͤrt / des verlass
 nich ouch uff die Acta / vnd habe
 uns er eropun fürgebe den Si
 nitt Schrifften nt mrgen erhaltten
 so brugen dan ander Schriffe /
-Parrer,
+Pfarrer,
 Ichlasß beliben wie vornalz gatwent
 und ewartten wytter geschrifftin /
-volampadnis
+Oecolampadius
 Ich kum ich / uff ettlich Sonich,/ vor
-sin durc
-erru Beurdengefturt,
+sin durc erru Beurdengefturt,
 Die Ine ouch nitt dienlich sind / und
 Iun asten / din Soruch shohan 1 20
 dem Er unmedt ouch ietwas ge//
 waͤtttigerzusin / do sagt der deo/
-wanee e
-den Er hatt in si
+wanee e den Er hatt in si
 geblasen vn hatt gesprochen
-uI
 Naͤmen den heiligen geist / Alir
 dirglychen/ wurdt nit geredt / in den
 wortten des harn nachtwals / da es

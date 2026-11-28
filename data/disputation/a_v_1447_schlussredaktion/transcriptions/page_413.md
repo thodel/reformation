@@ -4,21 +4,19 @@ suns
 wiewoll der geist gottes anm allen ortenn / nicte
 desterunder wirt er durch Das wort vscge /
 thellt / Wie das bezuͤger die gschrifft In
-den geschichten der xij ͦ am xcap:
-Da
+den geschichten der xij ͦ am xcap: Da
 petrus rde Die worden Jesn / Masorei
 vnnd dem glouͤben Inn In Ist der hellig
 gest / herab gefallen / uber alle die so da die
-wort horten /
-Dann vsß dem gehor
+wort horten / Dann vsß dem gehor
 Der woren des gloubens Der haillg geist
 Mutgethalt irtt / zun Calacheern am uicae
 vom spruch pauli vsß vnverstand minen gege
 der grieischen sprach Im wort vßtheillung /
 wirt / nun mitbruͦder hie verantwurten so
 Der sprach basß berichten /
-Vndreas allchamer
-von Nurrenberg
+Andreas Allchamer
+von Nürrenberg
 As wirt vnns vbillich zuͦ trochen von
 minem her Doctor Erolampadis wir ziechen
 De wort pauly j ͦ Epist zun Chorn am ech

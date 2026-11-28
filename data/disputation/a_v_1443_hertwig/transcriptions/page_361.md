@@ -1,29 +1,29 @@
 # Seite 361
 
-versammott sind
+versammlett sind /
 Buͤchstab
-Die wrttohamdn gten / Die
-guzeigen das kuͤnfftig / die wert
-me am 2r ͦ die anzodgn die
-gegewirtig got die wartt
-Pauli am eisten, Cho / 1 yen
-genysen an die vergagietgesch
-mi Jst das kuͤnfftig / das
-gewuͤrttig un das vergagen / wie Har/
-nach wyter ahoigt wardt / Ewwan
-dien glychföruig / darn es si
-drer glosaitt mer bedarff / das
-aber min herr ddostor Spricht /
-das Ich hab harin gofort
-die dartors, hab Ich defein
-rifft / usß ien her im gofürt
-Alls abrr HerreAutzer ver /
-ginren sigen hatt / hachn gefuuͦch
-haiftbun / unnd Anguͦstinn / dar/
-by lass Ichs hehiben uber das Johanis8
+Die wortt Johannis am 6 ten / die
+anzoͤigen  das kuͤnfftig / die wortt
+Luce am 22 ͦ / die anzoͤigen  die
+gegewuͤrtig geschrifft  schicht die wortt
+Pauli am ersten / Cho // vj zeigen
+genuͦgsam  an die vergangenen geschicht
+nun ist das  kuͤnfftig / das ge //
+gewuͤrttig und das vergangen / wie Har/
+nach wyter anzoͤigt  wuͤrdt / einand
+deren glychfoͤrmig / darüber es son //
+derer glosß nit mer bedarff / das
+aber min herr doctor Spricht /
+das Ich hab harin gefuͤrt
+die doctores / hab Ich dhein
+geschrifft  / usß inen harin  gefuͤrt
+Alls aber Herr Buͤtzer  ver /
+gangenen tagen hatt / harin gefuͦrt
+Eusebium  / unnd Auguͦstinum / dar/
+by lasß Ichs bliben uber das Johannis 6 te
 Doctor Oecolampadius
-E hatt der Sthüllmist vnnder
-an dwem meldug gethan Ettlic
-cher falschen glosen derch vns
-gelhe wirr wartten / wie
-geschehn/
+E hatt der Schulmeister  vnnder
+anderem meldung gethan Ettli //
+cher faltschen glosßen durch vns
+gelhe geschehen sind wirr wartten / wie
+"geschehen" /

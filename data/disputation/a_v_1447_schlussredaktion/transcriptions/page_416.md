@@ -1,29 +1,16 @@
 # Seite 416
 
-e
-sd
-tiree
-diete
-vn
-sug
-da
-Dace
-hrsn
-Die kerd
-134
-sschlußied
+Die vierd schlußred
 zu einen gsinden versind / derseligen / Damit man
 nitt vff Sophisten artt Inn worten kempffe / soͤliche
 wortt des nachtmalls mitt dem paulo / erklaͤrent /
-des frogi halb //
-Aber das da ist wie gester
+des frogi halb // Aber das da ist wie gester
 angelegenn / solle der vsligend kicpuir sin / die wortt //
 figurlich Im nachtumall anzenemen / ls daruon
 geredt vnnd geschribenn / lasß ich keines wegs nach /
 bisß zuͦ wyterm bericht /
-colamzadus
-vnd
-eist kein seplies gnam u gflslng vff die
+Oecolampadius
+So ist kein seplies gnam und gflslng vff die
 Aortt meriben / Es wer aber ein sophister wo man
 eimanndre ovortt fie anndre Darschubt / oder ouch
 ein anndern / verstand / vsß den schrifften vmbewerlich
@@ -34,7 +21,7 @@ stet hie dae woͤrtly ist / vnnd stett nit vnder dem
 Brott ist Es ist ouch eurgeden verstentlich gnuͦb //
 am / das wir die Christen sid vnnder dem sara //
 mentlich brott nitt pergriffen sind /
-fe onnhal¬
+pfarrer von Santgall:
 Iff fuͤrtrig / Doctors Eolamadi / beger Ich
 ein wort hee du annder Datzuͦstuben oder ein
 andern verstand an gschrifft fuͤrbringen / Dann

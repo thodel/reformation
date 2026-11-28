@@ -4,7 +4,7 @@ u
 Doen wog vwen antzu rden zulisthinen
 wir sund noch von uͤch warten / soͤlliche /
 bewaͤrung/
-pfavrervon Saen /
+Pfarrer von S. gallen
 Iff die anntwurt sy suchind die eer gitt
 vnnd den naurlichen verstand Ist vnnser
 antwurt / Das kein besserer verstand fambract
@@ -16,8 +16,7 @@ bedutlicher en gedenken Die aberst eer rd niendert
 gotes ist / so er sich lut sines worts / vns nit
 theilt / vnnd ist Im nit vnsers verstande)
 vnerlich / so sin lyb Im orat / genomen vnnd
-v er doch
-sin glut Im win getruͤncken /
+sin glut Im win getruͤncken / v er doch
 sine gepot / vns taͤglich v nd inngkeit uͤbertieten
 lasset / von der art zereden hatt min her docben
 nochmalls / kein soͤllich glichnus vfff der red
@@ -28,5 +27,3 @@ gegen zu wyterer erklerung fuͤr geworffenn
 werderm die fuͤren zuigen / In den geschihen
 der xijͦ am ij cap: ouch Die thub Maten
 am in Cap: vom Secher sigt niemend roan
-2
-anr

@@ -1,14 +1,5 @@
 # Seite 410
 
-w
-sinsed
-Wraten
-bertn
-en e
-Egefe
-Cri
-1
-31
 Die vierd schlußred
 wrbrechen vnd woit Im gaich so nat sin / sin vs //
 legung hie bezebringen wie vorhin vnd wirt hie von
@@ -23,8 +14,7 @@ on die tend ld grstenn durch den geiden
 soloir geaiben / Das wir durch das liden Cheisei
 vot den zunerschen vater versunt sid / mi dadinch
 Das wir glouben / Das vnder dem brot wesenlich fis
-Das aber
-Der lyb Christi oder lyblich /n
+Der lyb Christi oder lyblich /n Das aber
 ger varedan ugter zuͦf n Den serich Johani
 am gercagt dis der her hatt angellesen vnnd ge //
 erochen / zuͦ Inen / nemend hin den heilligen gaist //

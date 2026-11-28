@@ -1,34 +1,34 @@
 # Seite 277
 
-bewußt .
-Meber schuͦlmeister, heilgen herren, doch von
-on hör, das uns das leben geben bringe.
-und ir gantz nützet , ✳ wien das so hätt
-So gwaltiklich uss der worten, deren angerett
-Man hatt nitt gerett davon, wie
-manigfalttlich der man deß dry
-genommen mög werden, tröwe möchtend üch
-daräbend ouch anzeig, von den
-dry der manigfaltig sind, wach von
-deren der ouch der capitel par gschriben, und
-a der hern wol der sich selb von
-uns ersuͦcht werden, alß den löbenhafftig, stat
-das und krefftencklich geistet, so wir
-erkennend , wie er sein lib , für vus
-an das geben hatt, und sacramentleister
-gan üch zuͦ noch zuͦ bewaren, mitt
-göttlichen schrifft . Ist während wol das
-wir jetzund lütt von wegen der baren
-Ursanne femme
-Herrn sohn . Die anzeigend
-das künfftig der wort Zurich.
-der anzeigend, das gägen wenig geschriben. Die wort
-periculi zeiger gnugsam an die
-vßgangnen geschicht ist das künfftig
-das gegenwertig und das vergangen , wie ber
-nach wieder anzeigen werden einander
-glich für darumb es sonderer
-gloss mit me bedarff , Das er aber
-min herren, der
-hab ingefuͤrt die doctoris, hat ich
+Huszin
+Jeber schuͦlmeister, bi den worten johannis von
+dem brot/ das uns das leben geben bringe
+vnd ir gantz nützet/ wider das so hütt
+So gwaltiklich vß der worten johannis angezeigt
+ost/ Man hatt nitt gerett dauon/ wie
+manigfaltiglich der namen deß brots
+genommen mög werden/ wir möchtend vͧch
+sunst daräbend ouch anzeigen von den
+broten die manigfaltig sind worden von
+denen ouch in dem capitel statt gschriben/ in
+summa der herr wil allein sich selb von
+vns ersuͦcht werden alß das löbenhafftig brot
+das vns krefftencklich spiset so wir
+erkennend/ wie er sein lib/ für vns
+in tod geben hatt/ vom sacramentllichen brot
+statt vͧch noc zuͦ noch zuͦ bewären/ mitt
+göttlicher schrifft . Ir wüssend wol das
+wir jetzund nitt von wegen der leren
+versammlet sind/
+Die Wort johannis Die anzeigend
+das künfftig die wort christi Luce xx
+die anzeigend die gägenwärtig geschicht/ Die wort
+pauli cor II zeigend gnuͦgsam an die
+vergangnen geschicht nuͦn ist das künfftig
+das gegenwertig vnd das vergangen wie her
+noch witer anzeigt weren einander
+glichförmig/ darumb es sonderer
+gloss nit mer bedarff/ Das er aber
+sprechen min herrn Doctor das ich
+hab ingefuͤrt die doctores hab ich kein
 Buchstab.

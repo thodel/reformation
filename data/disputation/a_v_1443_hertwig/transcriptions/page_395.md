@@ -26,10 +26,9 @@ d wir uff die furgtrag S
 nochn als nitt a ders bericht / dan die
 einfalttigen wortt tinfelttencklich
 zuͤversten,
-colomapnlins
+Oecolampadius
 hoilgrist
 Die bischlussered Ist darch ain Herttt
 die Cespondet / fr sich selbs
-attwas elrrot word
-ess agman
+attwas elrrot word ess agman
 wol afechtn und is nitt wie

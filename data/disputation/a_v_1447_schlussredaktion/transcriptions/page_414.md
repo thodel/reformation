@@ -1,14 +1,7 @@
 # Seite 414
 
-d
-e
-a
-asen
-anien
-eiten
 Conotton
-Die vierd schlustred
-136
+Die vierd schlußred
 Das ale welt den serich nit velen wutt / er stra
 fur vns / vnnd lut allo / Der kelch oder das trauc der
 Benedrnus Den wie benedien isst er mit die gemein //
@@ -31,8 +24,7 @@ vnnd das brott das wir brechen ist ein vshelling
 des lebs Christi kan mur min her dortor mitt
 gschrifften erzwingen / ein anndern verstand / so //
 wellen / wir Ine hoͤren /
-edlampadius
-2f
+Oecolampadius
 Damit man vff der ban bel / so wil ich ertlich/
 Inred sparen / bisß vff sin szyt wellt gernn das
 die widerpirty das ouch thoͤe / Es will her /

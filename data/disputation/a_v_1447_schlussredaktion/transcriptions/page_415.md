@@ -3,14 +3,14 @@
 Bandcer noch eugnen / Die kein tropue vmn In
 gebrucht werd / frag ich Ine ob seterorbe ouch
 ein fogus sig
-Vsarrer von Dantgal
+Pfarrer von Santgal:
 Iff die frag Dacler Eelampadn was ichJen //
 mall minse verstands sturlyaoazen nit abzeschlafen
 lutt vnnser voranzeipter erklerimns / soͤllichs aber
 vns den lyb vnnd das bluͦt Christi nit neͤmen
 Eit der comlustn) liblich vnnd westulich
 sollen /
-Erolameadiuns
+Oecolampadius
 Allß erfidt sich nin Das herzemedicht Jet
 verzatzet vnnd zuͦlasst hie ein lio pn zesin In
 denen worten / Das er gester vnnd zuͦm theill /
@@ -20,7 +20,7 @@ dassellig nit bewirt vnd piet In das er noch
 Das bibrins Das es ein sunan dote so. Nemlich
 so vill das vnnder dem brot / oder In dem Crot
 Der lyb sie / mit glichfoͤrunger reden / oder schruft
-pfarrer von satith¬
+pfarrer von santg:
 Daruff antwurt ich bie vorule / vß dan
 worten panti In / Ep: zum Chorichern / am x rig
 vnnd Das brot welches woir brechen / oder vssuiie

@@ -1,7 +1,7 @@
 # Seite 280
 
-Hütschen
-mir, so vil, minen ersamen, weisen herren
+Husßen
+min blut deß nüwen testament/ weisen herren
 für wol schryben, wie zuͦ schryben an land
 dargelichen, zuͦ stymett den erlich paulus
 1 cor 11, das der her Jesu in der

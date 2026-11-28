@@ -14,8 +14,7 @@ möss ein Syrech docha si / Ss
 wer das brottglych wästlich
 und substen zlich der lychsn
 risti waͤre / wie die Bapstisth
-meing hallt/
-o wär doch aber
+meing hallt/ o wär doch aber
 der lychra Cristi ußgeteilt /
 n wäͤr dann dchein Synoch/
 docha , Seben das brott / das
@@ -24,7 +23,7 @@ das wïrde usgekeilt / vn mag dess
 halb / der Sie under dem brlitt /
 Hie nitt erzwüngen werdn vn
 darn so stͤchen ander schrifften /
-Uerer von Bant Balln/
+Pfarrer von Sant Gallen
 Vie vilmalsangns vd
 erartwürtt / belib Ich by dem Spruch
 Paoli / vn wil much / ir dehenen

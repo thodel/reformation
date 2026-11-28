@@ -3,8 +3,7 @@
 vnnd efede sih / Das eer eifeinede wogg
 reden ist sprechend das ein schrvinn / sy das
 weiser soman verstan wib daduich Im stchrlicd
-Allso ouch soy sindte
-sye Das wasser s
+sye Das wasser s Allso ouch soy sindte
 froͤmbd wyß zuͦreden / so man spricht der geden
 ist ryffwin / So erfundt sich soi elaͤrlich / Das
 Der becher In sinen wesen / silbrin / oder vsß

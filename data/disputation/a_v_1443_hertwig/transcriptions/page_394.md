@@ -2,7 +2,7 @@
 
 wod triken all dars das Istmir
 bluͤtt / werde uns mittgeteilt
-wingli
+Zwingli
 so unnsen brider bcki dt / das die
 wort Johannisro Jesus hatt sy
 anklichet enit glych sind / deen
@@ -17,10 +17,6 @@ weder diss ertt öllenlhiebe
 won dem anblasenun geist Cuist
 ritt brsuinder red haltt / dann es
 nitt zue sach dienott /
-3
-sa/
-ir
-lich
-Donstag vor Authonis
+Donstag vor Authonij
 nach Jmbes /
-farrer von Sant Galllen /
+Pfarrer von Sant Galllen /
